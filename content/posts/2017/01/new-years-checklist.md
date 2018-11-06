@@ -1,0 +1,35 @@
+---
+title: New Year’s Checklist
+author: roy
+type: post
+date: 2017-01-01T05:30:04+00:00
+url: /2017/01/new-years-checklist/
+categories:
+  - Opinions
+  - Self-Improvement
+
+---
+In no particular order:
+
+  * Greet your loved ones and friends and anyone else you hold dear. Maybe even those you disagree with
+  * Ponder why people give so much significance to the transition between an arbitrarily-chosen pair of 24 hour periods
+  * Take stock and reflect on the past year
+  * Think about what you&#8217;d like to learn this year or how you want to improve
+  * Count your blessings for the past year and be grateful
+  * Change your passwords
+  * Buy a new toothbrush
+  * Make a New Year&#8217;s joke (&#8220;My New Year&#8217;s Resolution is 1440&#215;900!&#8221;)
+  * Set a target of how many books you&#8217;ll read in 2017
+  * Choose the first book to read
+  * Throw away a few things you no longer need
+  * Make a list of where you will travel to in 2017
+  * Check out what movies are coming out this year and which ones you want to watch
+  * Audit your financials &#8211; where is your money going, how much do you owe, how much are you earning, where should you invest, etc
+  * Make another New Year&#8217;s joke (&#8220;I haven&#8217;t taken a bath since last year!&#8221;)
+  * Pick up your keyboard and shake out all the grime that&#8217;s gathered there over the past year
+  * Make a list of projects you want to do in 2017
+  * Choose something from the past year that you&#8217;re going to stop watching or doing
+  * Eat your favorite food. Or ice cream. Ice cream is great.
+  * Remember that there&#8217;s a new episode of Sherlock today (well January 1 in the UK)
+  * Get rid of 2016 calendars
+  * Make a list for the new year!

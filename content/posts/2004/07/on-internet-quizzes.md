@@ -1,0 +1,25 @@
+---
+title: On Internet Quizzes
+author: Roy
+type: post
+date: 2004-07-11T11:43:04+00:00
+url: /2004/07/on-internet-quizzes/
+categories:
+  - Just Another Day
+
+---
+I&#8217;m not particularly fond of internet quizzes that attempt to plunk you down into a category &#8211; but sometimes they&#8217;re damn accurate.
+  
+[
+  
+Take this one for example][1]. My results are:
+
+> You are an SEDF&#8211;Sober Emotional Destructive Follower. This makes you an evil genius. You are extremely focused and difficult to distract from your tasks. With luck, you have learned to channel your energies into improving your intellect, rather than destroying the weak and unsuspecting.
+> 
+> Your friends may find you remote and a hard nut to crack. Few of your peers know you very well&#8211;even those you have known a long time&#8211;because you have expert control of the face you put forth to the world. You prefer to observe, calculate, discern and decide. Your decisions are final, and your desire to be right is impenetrable.
+> 
+> You are not to be messed with. You may explode.
+
+I find it scary that a simple 20-question quiz can accurately describe many of my personality traits.
+
+ [1]: http://hokev.brinkster.net/quiz/default.asp?quiz=Better+Personality&page=1

@@ -1,0 +1,20 @@
+---
+title: '23-JUL-2003: Wow, free time!'
+author: roy
+type: post
+date: 2003-07-23T01:30:58+00:00
+url: /2003/07/23-jul-2003-wow-free-time/
+categories:
+  - Just Another Day
+  - Legacy Blog Posts
+
+---
+  * Free time&#8230;that&#8217;s something I haven&#8217;t had in a while. Work is tough right now, as we&#8217;ve got a big deadline coming up in August. I&#8217;ve been putting in 10-12-hour days on a regular basis over the past couple of weeks or so, so I barely have any time to do anything. (Except for a few quick games of [
+  
+    The Frozen Throne][1] (yay!) before going to bed of course.)
+  * Of course, the other reason I haven&#8217;t updated this thing in a fairly long while is that my PC broke down! And since it was past the automatic replacement period, I had to wait for three weeks while PC Express ordered replacement parts. I was irritated at PC Express for most of those three weeks, as being without computer leaves me without a healthy outlet for my stress from work. I&#8217;m not bad about the PC having problems per se, I&#8217;m fairly sure it&#8217;s currently impossible to make 100% defect-free electronics. What I&#8217;m particularly pissed at was the poor customer service. Their phone lines are almost always busy, their testing of components was not done properly (it was only after they replace the mobo and the power supply that they found out that it was a faulty hard drive that caused the problem, forcing me to have to wait another three weeks for a replacement drive&#8230;but I just went out and bought a new one anyway&#8230;) and it&#8217;s hard to get to them because of their office hours, and&#8230;I could go on and on. I guess the distinct disadvantage of buying from cheaper stores is that the customer service is poorer. Or maybe I&#8217;m just unlucky. In any case, my next PC will be an Intel one, this time I&#8217;ll probably buy one of those pre-assembled &#8220;Package&#8221; PCs from a mall outlet, just to have a basis of comparison.
+  * New mailing list! [RPG-Skies][2]
+  * Am tired, more later.
+
+ [1]: http://www.battle.net/war3/ladder/w3xp-player-profile.aspx?Gateway=Lordaeron&PlayerName=roywantsmeat
+ [2]: http://groups.yahoo.com/group/rpg-skies/?yguid=108755291

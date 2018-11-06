@@ -1,0 +1,42 @@
+---
+title: A Christmas Story
+author: roy
+type: post
+date: 2010-12-20T15:33:57+00:00
+url: /2010/12/a-christmas-story/
+aktt_notify_twitter:
+  - no
+categories:
+  - Just Another Day
+
+---
+Okay, story time.
+
+On my way home today as I was about to get on the jeep to Tandang Sora, a woman got off the jeep crying uncontrollably and declaring she would not go with him. Unsure what was going on I walked past the woman who was now wailing unintelligibly outside the jeep. I got on the jeep and took a seat. Inside was this man who was gesturing to the woman outside and telling her to be quiet and just get in the jeep. The woman was replying that she didn&#8217;t want to go with him to wherever they were going.
+
+Finally, the jeep was filled with passengers, with the woman still outside making a scene. The jeep started moving and the woman started chasing after the jeep all the while still crying and shouting &#8220;Harold bumalik ka dito, wag mo ko iwanan kausapin mo ko ng maayos!&#8221;
+
+After maybe five to ten meters of this, the jeep had not yet picked up full speed so the man told the driver to wait and to let the woman get on the jeep. The woman caught up with us but still refused to get on the jeep, instead trying to pull the man out of the jeep from the estribo. &#8220;Bumaba ka dito Harold kausapin mo ko ng maayos!&#8221; The man, visibly annoyed, told the driver to just leave her and the jeep started moving again. But the woman hung on and was now on all fours near the vehicle&#8217;s entrance still pleading to the man that she didn&#8217;t want to go &#8220;there&#8221; and that they should get off the jeep and talk about it.
+
+This went on while the jeep was about to go through the elliptical road, so the rest of the passengers told the man to do something about it as the woman&#8217;s position was obviously dangerous. Looking quite exasperated the man finally reaches down and pulls the woman into the jeep, but she refuses to take a seat and hasn&#8217;t stopped sobbing uncontrollably while pleading with the man that they should no longer go &#8220;there&#8221;. I&#8217;m sitting right across from them and the woman is now kneeling on the floor of the vehicle with her head on the man&#8217;s lap. The jeep goes on its way. Me and the other passengers look on but the man just shrugs at us saying that she always does this, always throws tantrums and makes a scene.
+
+As we make our way along elliptical road and eventually through Visayas avenue, some more tidbits and details emerge from the woman&#8217;s ramblings. &#8220;Wag mo ko dadalhin dun, bubugbugin lang ako dun&#8221;, she cries and the man replies with &#8220;Anong pinagsasabi mo? Sino naman ang mananakit sa yo dun.&#8221; Later she says &#8220;Wag mo kong dadalhin dun sa babae mo&#8221; and &#8220;alam mo naman hindi ako nakakapalag sa inyong dalawa.&#8221;
+
+I was a bit indifferent until now, as it seemed mostly like an overreaction to a lover&#8217;s spat which I probably didn&#8217;t have any business intruding in. The man had been acting frustrated, not angry or threatening in any way while the woman made her scene. But the added details changed the story somewhat and I was troubled. Was this woman a victim of domestic abuse? The way the man picked her up and pulled her into the jeep took on a different dimension. I didn&#8217;t know the details, but me and a few other passengers stared at him, maybe just a little bit accusingly. He shrugs as if defensively, &#8220;Parati na lang siyang ganyan.&#8221;
+
+Eventually they get off near the bridge along Visayas Avenue. Some of the passengers start talking about it. &#8220;Mali din yung lalaki, kahit na ano pa nangyari nde nya dapat pinaiyak ung babae.&#8221; I keep silent and withhold my judgment; I had not actually seen him perform any violence on the woman, I reasoned, I should not judge without knowing all the details.
+
+The incident lasted no more than ten, maybe fifteen minutes, but it left me wondering whether I should have said something to the man, whether I should have intervened or asked them at least what was going on, especially when the possibility of domestic violence was revealed. But I didn&#8217;t, and neither did anybody else. As I stepped off the jeep I was trying to justify it to myself: I didn&#8217;t know the entire situation, it was none of my business, what could I have done for them in that short time, etc. One of the other passengers had commented &#8220;Mahirap na makialam&#8221;, and somehow I felt that way too, that it was none of my business. I guess most people would be expected to react that way, but I&#8217;ve always prided myself that I didn&#8217;t do things just because &#8220;most people&#8221; do it.
+
+Ok, admittedly this story was not very Christmas-y. But it made me think of a discussion I had earlier in the day about how it was hard to feel the Christmas spirit anymore with all the stuff that needs to be done at work, all the shopping time and the large crowds in the malls and all. But there I was in a small timespan with an opportunity to maybe help or even just listen to another troubled soul  and I couldn&#8217;t be bothered. No one else was. The other passengers just looked at them as they got off, made a few snide comments and that was that. The driver just wanted to get on with his trip so he could maybe earn some money. Maybe I&#8217;m over-thinking it a bit, maybe it was just some sort of breakdown on the woman&#8217;s part or something. Or maybe I just missed an opportunity to exhibit some Christmas spirit.
+
+## Comments
+
+### Comment by Jaime on 2011-01-23 11:18:06 +0000
+I think the key here is to differentiate what is help, and what would be aggravating the situation.
+
+In your mind, nothing violent happened, and you cannot &#8220;fix&#8221; the situation without knowing what the problem was, so what was there for you to do? Interview the guy (since the woman was not in any state to be interviewed) and get an informative answer?
+
+Calling the DSWD hotline might have been the &#8220;best&#8221; thing to do at the time, but that&#8217;s just effort transfer, and you&#8217;re not even sure who&#8217;s right. No smoking gun. No scarring on the woman&#8217;s body (kung binubugbog nga siya, you would see it on her). It might have been just a scene, or still a lover&#8217;s spat gone wrong, or actual domestic violence, but unlike police, you have no right to react to it without being intrusive as there is no physical evidence &#8211; good Samaritan or not.
+
+I would not trust the man&#8217;s information, nor the woman&#8217;s. So it&#8217;s really hard to intervene in this case without a thorough investigation or background.

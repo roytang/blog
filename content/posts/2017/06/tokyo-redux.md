@@ -1,0 +1,56 @@
+---
+title: Tokyo, Redux
+author: roy
+type: post
+date: 2017-06-13T01:30:29+00:00
+url: /2017/06/tokyo-redux/
+categories:
+  - Travels
+
+---
+So last April my friends and I took a second trip to Japan. This time we mostly stayed around Tokyo, while taking a few days off in-between to visit Fuji, Hakone and Nikko.<figure id="attachment_1983" style="width: 2048px" class="wp-caption aligncenter">
+
+[<img class="size-full wp-image-1983" src="http://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1.jpg" alt="" width="2048" height="1152" srcset="https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1.jpg 2048w, https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1-1200x675.jpg 1200w" sizes="(max-width: 2048px) 100vw, 2048px" />][1]<figcaption class="wp-caption-text">I went to Fuji, but that&#8217;s not in Tokyo!</figcaption></figure> 
+
+I like Tokyo, so I&#8217;ll talk about Tokyo for now. I&#8217;ve only been here twice, but I could imagine myself living here for an extended period of time. It solves my top three problems with Metro Manila: overly hot weather, poor transportation options, and poor internet.
+
+Both visits I found the temperatures to be within the generally agreeable range of around 5-25 degrees celsius. The low end is slightly too cold, but manageable. Of course, I haven&#8217;t experienced actual Japanese winter, so it&#8217;s probably colder then.
+
+Transportation is great and easy! There&#8217;s like twenty lines of trains or such _(OK, I didn&#8217;t really count, but there&#8217;s a lot!) _and a lot of buses too. The great thing is that the trains and buses run on very exact schedules. At trains stations or bus stops you&#8217;ll see a list of times _to the minute_ telling you when the next train or bus will arrive. That kind of thing would be unheard of in Metro Manila.
+
+One of the downsides is that the train lines can get a bit confusing. They&#8217;re not all interconnected either &#8211; there&#8217;s some lines that are part of the Tokyo Metro, while some are part of JR (Japan Rail), and so on. It can cause some confusion for example some places might have both a Metro station and a JR station, and they might not be connected. The staff are always very helpful in the train stations though, feel free to ask them how to get to a particular station. They will try their best to help even if their English isn&#8217;t the best. Most stations will also have helpful signage showing maps and routes and stuff, and the trains themselves will have announcers telling you what the next station is.<figure id="attachment_1987" style="width: 300px" class="wp-caption aligncenter">
+
+[<img class="wp-image-1987 size-medium" src="http://roytang.net/wp-content/uploads/2017/06/12299236_10154222295183912_2882233159207648588_n1-300x300.jpg" alt="" width="300" height="300" srcset="https://roytang.net/wp-content/uploads/2017/06/12299236_10154222295183912_2882233159207648588_n1-300x300.jpg 300w, https://roytang.net/wp-content/uploads/2017/06/12299236_10154222295183912_2882233159207648588_n1-150x150.jpg 150w, https://roytang.net/wp-content/uploads/2017/06/12299236_10154222295183912_2882233159207648588_n1-768x768.jpg 768w, https://roytang.net/wp-content/uploads/2017/06/12299236_10154222295183912_2882233159207648588_n1.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />][2]<figcaption class="wp-caption-text">Even though most signs aren&#8217;t in English, they should be fairly easy to understand</figcaption></figure> 
+
+For paying your transportation fares, there&#8217;s a few options, but for me the best one is to use an IC card &#8211; these are reloadable cards that you can use on any train or bus in Tokyo. _(I have no idea what IC means.) _You can get one at the airport when you arrive &#8211; there&#8217;s two providers, it&#8217;s either Suica or Pasmo and you can reload them at any train station. There&#8217;s also an option to get a 2-day or 3-day unlimited metro pass, which is a great idea if you plan to travel around Tokyo many times within a short period, but it only works with Metro lines which can be a bit restrictive.
+
+Internet in Tokyo is obviously very good of course. If you&#8217;re staying at an Airbnb, try to get one that provides you with a mobile wifi unit you can use while wandering about. Being a tourist these days is a lot easier with internet, given google maps and similar apps. If you don&#8217;t have a mobile wifi unit, you can also leech free wifi from any 7-11 or train station!
+
+The city is also very friendly to people who like to walk &#8211; during this last trip I managed to walk from Asakusa to Akihabara at one point. While wandering around if you get hungry there are always shops nearby and lots of vending machines to get a quick drink from.<figure id="attachment_1986" style="width: 960px" class="wp-caption aligncenter">
+
+[<img class="size-full wp-image-1986" src="http://roytang.net/wp-content/uploads/2017/06/11044496_10154222294128912_7734989852633614610_n1.jpg" alt="" width="960" height="540" srcset="https://roytang.net/wp-content/uploads/2017/06/11044496_10154222294128912_7734989852633614610_n1.jpg 960w, https://roytang.net/wp-content/uploads/2017/06/11044496_10154222294128912_7734989852633614610_n1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/06/11044496_10154222294128912_7734989852633614610_n1-768x432.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />][3]<figcaption class="wp-caption-text">There are vending machines on practically every corner, some of them even sponsored by American celebrities!</figcaption></figure> <figure id="attachment_1982" style="width: 2048px" class="wp-caption aligncenter">[<img class="size-full wp-image-1982" src="http://roytang.net/wp-content/uploads/2017/06/18278126_10155586327853912_2025259044343822927_o1.jpg" alt="" width="2048" height="1152" srcset="https://roytang.net/wp-content/uploads/2017/06/18278126_10155586327853912_2025259044343822927_o1.jpg 2048w, https://roytang.net/wp-content/uploads/2017/06/18278126_10155586327853912_2025259044343822927_o1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/06/18278126_10155586327853912_2025259044343822927_o1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/06/18278126_10155586327853912_2025259044343822927_o1-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/06/18278126_10155586327853912_2025259044343822927_o1-1200x675.jpg 1200w" sizes="(max-width: 2048px) 100vw, 2048px" />][4]<figcaption class="wp-caption-text">I&#8217;m not much of a foodie so I won&#8217;t comment on the food, though I will admit to eating a lot more Japanese curry when I&#8217;m here.</figcaption></figure> 
+
+What to do in Tokyo though? If you&#8217;re a gamer or an otaku, there&#8217;s obviously Akihabara &#8211; on each trip I went there more than once just to browse the numerous shops selling comics, toys, figurines, games, and so on. I would spend even more time there if I could read Japanese of course! _(Working on it!)_
+
+Aside from that, there&#8217;s a few tourist spots you can visit in the city proper. Some of the places I&#8217;ve been to include:
+
+  * Senso-ji temple in Asakusa. This is a good place to visit mainly because Asakusa is a good area to stay in, as many of the places to visit are easily accessible from Asakusa station
+  * Tokyo Skytree in Asakusa. I only climbed the Skytree during the second trip, it offers a great view of the city.
+  * Tokyo Tower. It&#8217;s smaller than the Skytree, but I&#8217;m sure fans of Rayearth will want to visit it haha. I visited it on this last trip to see _One Piece_ and _Final Fantasy_ exhibits.
+  * Shibuya crossing. It&#8217;s a famous crosswalk for some reason, and there&#8217;s also a statue here of that dog [Hachiko][5]. There&#8217;s also a lot of shopping places nearby if you like that kind of thing.<figure id="attachment_1984" style="width: 2048px" class="wp-caption aligncenter">
+
+[<img class="size-full wp-image-1984" src="http://roytang.net/wp-content/uploads/2017/06/18238211_10155586285008912_8962147114996121859_o1.jpg" alt="" width="2048" height="1152" srcset="https://roytang.net/wp-content/uploads/2017/06/18238211_10155586285008912_8962147114996121859_o1.jpg 2048w, https://roytang.net/wp-content/uploads/2017/06/18238211_10155586285008912_8962147114996121859_o1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/06/18238211_10155586285008912_8962147114996121859_o1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/06/18238211_10155586285008912_8962147114996121859_o1-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/06/18238211_10155586285008912_8962147114996121859_o1-1200x675.jpg 1200w" sizes="(max-width: 2048px) 100vw, 2048px" />][6]<figcaption class="wp-caption-text">There&#8217;s a lot of temples in Tokyo (and the rest of Japan) where you can send prayers like this one here</figcaption></figure> <figure id="attachment_1985" style="width: 540px" class="wp-caption aligncenter">[<img class="size-full wp-image-1985" src="http://roytang.net/wp-content/uploads/2017/06/18221955_10155586275873912_7657365650867510473_n1.jpg" alt="" width="540" height="960" srcset="https://roytang.net/wp-content/uploads/2017/06/18221955_10155586275873912_7657365650867510473_n1.jpg 540w, https://roytang.net/wp-content/uploads/2017/06/18221955_10155586275873912_7657365650867510473_n1-169x300.jpg 169w" sizes="(max-width: 540px) 100vw, 540px" />][7]<figcaption class="wp-caption-text">This is a picture of the Tokyo Skytree</figcaption></figure> 
+
+Even if you don&#8217;t have much you want to visit in Tokyo proper, it&#8217;s a great base of operations that you can use to visit nearby areas. That&#8217;s what we did during this trip. You can leave most of your luggage in storage &#8211; there are coin lockers in the major stations &#8211; and just take an overnight bag to visit nearby tourist spots like Fuji or Edo wonderland in Nikko.
+
+I&#8217;m not sure when I&#8217;ll visit Japan again _(I don&#8217;t think going there for the Olympics is a good idea)_, but I wouldn&#8217;t mind staying in Tokyo again, that&#8217;s for sure.
+
+&nbsp;
+
+ [1]: http://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1.jpg
+ [2]: http://roytang.net/wp-content/uploads/2017/06/12299236_10154222295183912_2882233159207648588_n1.jpg
+ [3]: http://roytang.net/wp-content/uploads/2017/06/11044496_10154222294128912_7734989852633614610_n1.jpg
+ [4]: http://roytang.net/wp-content/uploads/2017/06/18278126_10155586327853912_2025259044343822927_o1.jpg
+ [5]: https://en.wikipedia.org/wiki/Hachik%C5%8D
+ [6]: http://roytang.net/wp-content/uploads/2017/06/18238211_10155586285008912_8962147114996121859_o1.jpg
+ [7]: http://roytang.net/wp-content/uploads/2017/06/18221955_10155586275873912_7657365650867510473_n1.jpg

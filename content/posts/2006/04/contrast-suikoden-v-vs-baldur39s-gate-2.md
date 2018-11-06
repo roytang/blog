@@ -1,0 +1,40 @@
+---
+title: 'Contrast: Suikoden V vs Baldur&#39;s Gate 2'
+type: post
+date: 2006-04-13T06:50:08+00:00
+url: /2006/04/contrast-suikoden-v-vs-baldur39s-gate-2/
+categories:
+  - Gaming
+
+---
+One would think it an unfair comparision, seeing as how BG2 is at least 5 years older that Suiko5. But BG2 holds up pretty well, I end having a mental coin toss as to which game I will play at any one time. They both have their merits.
+
+Suiko5
+   
+
+   
+Pros: Awesome story, lots of background and character depth.
+   
+
+   
+Cons: Extremely narrow gameplay, heavily scripted. Hero looks girly.
+   
+
+   
+Status: 12 hours in. Kicked out of home town? Check. Branded a rebel and thrust into leadership of one side of a civil war? Check. True Rune attaching itself to your hero? Check. Only thing we need now is a permanent HQ. I can&#8217;t imagine living on a boat would be very enticing for me in real life. On a side note, this is the first Suikoden where I&#8217;m actively using an FAQ to avoid missing Stars of Destiny. It was ok not to use an FAQ before, as I always had time to make a second pass to complete the 108 stars after the first play-through. But again, I&#8217;m a busy man. (On a side note to this side note, the closest I came to completing the 108 stars without using an FAQ was Suiko4 &#8211; I got 107!)
+
+BG2:
+   
+
+   
+Pros: Wide, open-ended gameplay options. Can build any type of character or party to suit your playing style.
+   
+
+   
+Cons: Moderately-old-school graphics. Beholders and mind flayers are annoying.
+   
+
+   
+Status: 40+ days of game time in, still in chapter 2. Gee, won&#8217;t Imoen be worried that I&#8217;ve left her in captivity for more than a month now? As mentioned, beholders and mind flayers are a pain, but Yoshino&#8217;s traps and summoned skellies help a lot. On a side note, I always play a female pally in D&D; games. This one is no different, except that I made the mistake of choosing the Cavalier kit which prevents me from using ranged weapons.
+
+As always, the strength of console RPGs lies in their story focus. Console RPGs can be likened to traditional well-written books, whereas PC RPGs are more like Choose Your Own Adventures.

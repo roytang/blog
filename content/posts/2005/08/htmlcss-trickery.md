@@ -1,0 +1,24 @@
+---
+title: HTML/CSS Trickery
+type: post
+date: 2005-08-14T08:46:00+00:00
+url: /2005/08/htmlcss-trickery/
+categories:
+  - Software Development
+
+---
+The whole web developer thing was boring me for a while. But last week I got to help on some preliminary webpage design for one of the projects, so my interest in HTML/CSS/Javascript is a bit tweaked. (Hence the slightly updated stylesheet &#8212; try changing font sizes now.)
+
+Anyway, here&#8217;s
+   
+[
+    
+some HTML/CSS trickery
+   
+][1] 
+   
+. I&#8217;ll add stuff here as I try them out.
+
+If you&#8217;re using IE, you wouldn&#8217;t appreciate it much.
+
+ [1]: http://roytang.net/sandbox/

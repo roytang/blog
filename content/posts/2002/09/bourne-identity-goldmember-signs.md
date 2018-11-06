@@ -1,0 +1,56 @@
+---
+title: Bourne Identity, Goldmember, Signs
+author: roy
+type: post
+date: 2002-09-14T01:30:46+00:00
+url: /2002/09/bourne-identity-goldmember-signs/
+categories:
+  - Legacy Blog Posts
+  - Movies
+
+---
+##### The Bourne Identity
+
+A new action hero is Bourne
+
+I was a bit anxious to see this movie, as I had thoroughly enjoyed the book of the same name a long time ago, and I was hoping the movie would give me the same satisfaction. The Bourne Identity stars Matt Damon as rogue CIA agent/amnesiac Jason Bourne. In his quest to uncover his own identity, Jason travels all around Europe pursued by the CIA&#8217;s agents and dragging along an innocent gypsy girl who just happened to be his best shot for a ride to Paris.
+
+Now, I haven&#8217;t read the book in ages, so I can&#8217;t say for sure how faithfully the story translates to the movie (although as I recall there was a lot more traipsing across Europe &#8212; I may be wrong though) so I have to judge the movie on its own merits.
+
+On its own merits, the movie falls short of my expectations. Mainly because I was expecting some fast-paced action, but most of the time it&#8217;s just Jason and Marie running and hiding from the CIA. It&#8217;s more of an action/thriller than a straight action flick &#8212; Jason spends a lot of time trying to uncover the conspiracy behind his pursuers. However, it doesn&#8217;t seem to pull off either the thriller part or the action part very well. The thriller part doesn&#8217;t fly because we know what&#8217;s going on well before Jason does &#8212; the movie shows us what&#8217;s going on at CIA HQ, how his boss travels to Paris to mete him, et cetera. The action part doesn&#8217;t fly because the thriller parts get in the way. DOn&#8217;t get me wrong, there are some cool action stunts here &#8212; Jason riding a free-falling body down the center of a spiral stairway to gun down one of the CIA agents &#8212; but they are few and far between. Also, the director seems to enjoy some sort of shaky, jarring camera work &#8212; not really a problem but occasionally
+  
+annoying.
+
+Overall: Good enough, I suppose. The director is no Robert Ludlum
+  
+but the story is told well enough.
+
+* * *
+
+##### Austin Powers in Goldmember
+
+Do I make you horny baby?
+
+Another Austin Powers movie? Well I knew what to expect &#8212; more of the same. I got what I expected, but that isn&#8217;t really a bad thing. As usual with Austin Powers movies, some parts tend to drag on, while some parts are simply &#8220;laugh-out-loud&#8221; funny. This time, Dr. Evil enlists the aid of 70&#8217;s criminal mastermind Goldmember in a nefarious plot to extort money from the world leaders (as if you didn&#8217;t know.) Austin himself gets some help (aside from the requisite Powers girl Beyonce Knowles as Foxy Cleopatra) &#8212; from none other than his dear old dad, legendary secret agent Nigel Powers (played by Michael Caine) This one has a bit more story than the first two &#8212; you get to find out more about Austin and Dr. Evil&#8217;s history, and some strange plot twists ensue. Expect the return of such characters as MiniMe, Fat Bastard and Dr. Evil&#8217;s wayward son Scott. Also a new character on the side of British Intelligence is played by Wonder Years star Fred Savage
+
+The funniest parts are mostly during the opening sequence and towards the end. Expect more gross, insensitive and blatantly offensive humor, more naked bodies, more Fat Bastard crapping, more silhouette jokes, more making fun of MiniMe, hollywood cameos, movie spoofs and the like. This time however, things don&#8217;t stay the same. Some changes in the status quo happen towards the end and this will obviously not be the last Austin Powers movie.
+
+Overall: I liked the second one better, but this one&#8217;s good too. As is the case with Austin Powers movies, it&#8217;s not for the easily offended.
+
+* * *
+
+##### Signs
+
+Crop circles? This isn&#8217;t the X-files is it?
+
+Of the three movies I saw this week, &#8220;Signs&#8221; was the one I was looking forward to the least. The trailer didn&#8217;t really give me a good impression &#8212; looked like some cheap X-Files ripoff with Mel Gibson as Fox Mulder. As it usually happens, turns out I was wrong about the whole thing &#8211; &#8220;Signs&#8221; is one helluva good movie.
+
+Let&#8217;s get it out first: &#8220;Signs&#8221; is about an alien invasion. We&#8217;re talking spaceships and green men. However, unlike movies like Independence Day which tell the story of how the world comes together to defeat an alien menace, &#8220;Signs&#8221; tells the story of how a family comes together to survive fear, paranoia and green men knocking on their door. All of the Independence Day stuff happens, but never at the forefront of the story &#8212; the giant spaceships are there, somewhere in the background, shown on
+  
+TV.
+
+The story is about a farmer and his family in a small rural town. Overnight, mysterious crop circles appear in his fields. Later on, more signs appear &#8212; prowlers around their house, strange radio noises. As a former minister, Mel Gibson faces what he fears the most &#8212; the idea that there is no God, and that he and his family are left to fend for themselves against whatever threat is there lurking in the shadows.
+
+The movie is extremely well-written, with all the characters playing their parts well, and all the elements coming together towards the end to make a whole lot of sense.
+
+Overall: Go see it. Now. Unless you&#8217;re like my kid brother who would probably get nightmares just thinking about an alien invasion.

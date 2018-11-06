@@ -1,0 +1,23 @@
+---
+title: New Beginning
+author: Roy
+type: post
+date: 2003-10-27T14:39:38+00:00
+url: /2003/10/new-beginning/
+categories:
+  - Meta
+
+---
+&#8220;If history is to change, let it change!
+
+If the world is to be destroyed, so be it!
+
+If my fate is to die, I must simply laugh.&#8221;
+
+&#8211; Magus, Chrono Trigger
+
+For as long as I have known about it, I have always liked this quote. It speaks of a certain ferocity, a certain stubbornness, a firm, unbending belief that whatever life throws at you, you will be able to not only handle it, but laugh in the face of its absurdity. This is how I would want my life to be; to be able to face any kind of adversity and address it without pause.
+
+Enough rambling, allow me to introduce myself. My name is Roy, and this is my blog. Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. I always thought I would find it preferable to code my own version of a blog, but time constraints have made me look for a simple, easy-to-use alternative. For now, I guess this blog becomes my main outlet to the internet. (Aside from email of course)
+
+Hmmm&#8230;maybe I&#8217;ll have more to say later. Until then, may the fates be kind to you.

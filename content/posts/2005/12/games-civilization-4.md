@@ -1,0 +1,22 @@
+---
+title: Games – Civilization 4
+type: post
+date: 2005-12-31T00:35:00+00:00
+url: /2005/12/games-civilization-4/
+categories:
+  - Gaming
+
+---
+Sid Meier&#8217;s Civilization &#8211; one of the most highly-acclaimed strategy game series in existence. Any serious gamer worth his salt knows about it &#8211; whether he plays turn-based strategy games or not. And the fourth installment was eagerly awaited in our home &#8211; two out of four brothers were eager to play the latest update.
+
+And Civ4 is in many ways the same game all over again. The basic premise is still there &#8211; explore, build cities, research technologies, kick other civivlizations while they&#8217;re down, race to space, etc. But several other new features have kicked in, many of them adding a new layer of management complexity to the already complex strategy game. Great Persons, National Wonders, cultural expansion, luxury resources&#8230;well, I&#8217;m not sure if some of these are new since Civ3 &#8211; I didn&#8217;t play that one much. The most important change has to be the streamlining of the interface such that it becomes easy to tell at a glance what a city is building and how long it takes for it to grow.
+
+Anyway, as expected, the game is still incredibly engrossing. I sat down yesterday morning to &#8220;just give it a try&#8221;, and after what seemed like a few short turns found myself contemplating whether to nuke the Arabians in the early 17th century.
+
+So yeah, awesome Civ4 gameplay, as expected. I finished two games in short order, one took me 4 hours because the silly Germans and Spanish kept trying to declare war on me, and I had to be satisfied with a Time Victory. The second took less than two hours &#8211; full peace/diplomacy, science/culture all the way, never entered a state of war.
+
+But I&#8217;m not playing it again. Why? Because the game&#8217;s performance is crap-tastic! You can play smoothly found maybe 5-10 minutes before the game starts slowing to a crawl. Going to the lowest possible settings and quitting all running programs doesn&#8217;t help at all. Apparently I&#8217;m not alone, as I&#8217;ve seen numerous message board posts lambasting Firaxis for the terrible performance of the game regardlesss of the system running it.
+
+It&#8217;s a testament to both the addictiveness of the gameplay and how much patience I&#8217;ve gained recently that I was able to finish two games at all. But as it is, I&#8217;m not playing it again until some radical performance improvment happens.
+
+Maybe I can still find a copy of Civ3&#8230;

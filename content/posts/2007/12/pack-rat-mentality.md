@@ -1,0 +1,51 @@
+---
+title: Pack Rat Mentality
+author: Roy
+type: post
+date: 2007-12-28T04:59:12+00:00
+url: /2007/12/pack-rat-mentality/
+categories:
+  - Just Another Day
+
+---
+Every year I do an end-of-year cleanup of my stuff. (I try to at least) Somehow there always seem to be so many CDs/DVDs/books/comics to sort up and shelf or sleeve or whatnot. I&#8217;m growing tired of it all.
+
+The other day I was planning to backup everything on my computer to DVD when I realized I was just adding more to the pile. I&#8217;m not sure if there&#8217;s any important reason to backup all the episodes I&#8217;ve been watching to DVD when I&#8217;ve already watched them all. Of course the argument can be made that it makes it easier to lend out to people, but truth be told there are a lot of people I know who already have such copies so my keeping backups is just redundant. And it&#8217;s not like the world would end if someone wasn&#8217;t able to borrow the last season of Heroes off me.
+
+I&#8217;m especially wary now about committing stuff to optical media; going through all the discs I had I encountered quite a few that were already beyond recovery. I&#8217;m considering reburning some of the older stuff from CDs to DVDs, both to conserve space and to make sure I can still access those old files later on. But I&#8217;m unsure now how to dispose of the stack of dead CD in an environment-friendly manner.
+
+So, am I too much of a packrat? I dunno, like I said I know people who have loads more stuff on CDs/DVDs than I do, and they&#8217;ve never watched them all. At least I&#8217;ve managed to consume at least 90% of the stuff I archive. I guess it&#8217;s a geek thing, to want to have access to &#8220;historical data&#8221; and stuff. Organizing all of it is probably a geek thing too. Heck, I&#8217;m trying to think of a way to have everything be searchable.
+
+I&#8217;m considering buying something like a 250 GB external and just using that as a backup. Eventually it would run out, but by then something like 1 TB drives might be common enough. Tempting&#8230;
+
+## Comments
+
+### Comment by [mikong](http://devblog.michaelgalero.com/) on 2007-12-28 23:01:23 +0000
+You're probably too much of a packrat. And you don't need to compare yourself
+  
+to people you know. What's important is if you need those videos, and from
+  
+what you said I'm guessing you don't. Don't backup those videos unless they're
+  
+very rare or your favorite of all time.
+
+There are a couple people I know who back everything up, and sometimes I
+  
+borrow from them. A lot of other people borrow from them too. I think we only
+  
+need a few them. If you're not the go-to-guy for these things, don't backup.
+
+You might even find it refreshing if you throw all those CD's away. Sometimes
+  
+it's good not to have these attachments.
+
+### Comment by [Roy](http://roytang.net/blog) on 2007-12-30 00:43:42 +0000
+&#8230;or maybe you're just not geeky enough. :p
+
+Or maybe it's a boy scout thing. You always need to be prepared to whip out
+  
+half a season of Heroes on demand.
+
+I probably will dispose of most of them. I'm keeping the Simpsons ones though.
+
+"Spider-pig, Spider-pig, does whatever a spider-pig can&#8230;"

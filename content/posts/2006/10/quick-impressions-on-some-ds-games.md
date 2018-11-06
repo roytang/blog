@@ -1,0 +1,20 @@
+---
+title: Quick Impressions on Some DS Games
+type: post
+date: 2006-10-10T07:12:07+00:00
+url: /2006/10/quick-impressions-on-some-ds-games/
+categories:
+  - Gaming
+
+---
+Mario Kart &#8211; it&#8217;s Mario Kart! Yay! Although we now have six DS owners at the office, we haven&#8217;t yet had time to pull off a six-player race. I&#8217;m pretty sure it will be insane though.
+
+Brain Age &#8211; mildly nerdy, strngely addictive. It&#8217;s not so much a game, more of a series of mental training exercises. Too bad the speaking portion doesn&#8217;t easily recognize my voice (and/or my accent)
+
+Pac Pix &#8211; the sort of innovative game we should be expecting from Nintendo. Draw Pac-man using a stylus to catch the Ghosts. The sort of thing you wouldn&#8217;t be able find on other platforms
+
+Bomberman &#8211; another classic multiplayer game
+
+New Super Mario Bros. &#8211; haven&#8217;t played the main game much, but has a bunch of cool minigames that are especially fun multiplayer
+
+Mario and Luigi, Partners in Time &#8211; this is the one I&#8217;m currently playing regularly. Nice Mario-style adventure-RPG. I&#8217;m told it&#8217;s a sequel of sorts to their GBA adventure, but I wouldn&#8217;t know. As far as I can tell, the only action in the game is &#8220;jump&#8221;!

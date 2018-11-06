@@ -1,0 +1,70 @@
+baseURL = "http://localhost/hugo/"
+languageCode = "en-us"
+title = "roytang.net"
+theme = "hyde-y"
+
+# Pagination
+paginate = 50
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = "roytang"
+
+[taxonomies]
+    tag = "tags"
+    topic = "categories"
+
+[author]
+    name = "Roy"
+    email = "awesome@roytang.net"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # You can use markdown here.
+    brand = "roytang.net"
+    topline = "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
+    footline = "stand tall and shake the heavens"
+
+    # Sidebar position
+    # false, true, "left", "right"
+    sidebar = "left"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
+
+    # Select a syntax highight for highlight.js
+    # Check the static/css/highlight directory for options.
+    # Leave unset to fall back to default hugo highlighter instead of highlight.js
+    highlight = "default"
+
+    # Google Analytics.
+    googleAnalytics = "Your Google Analytics tracking code"
+
+    # Sidebar social links.
+    github = "roytang" # Your Github profile ID
+    bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "roytang" # Your LinkedIn profile ID (from public URL)
+    googleplus = "" # Your Google+ profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "roytang" # Your Twitter profile ID
+    youtube = ""  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
+    flickr = "" # Your Flickr profile ID
+    vimeo = "" # Your Vimeo profile ID
+
+    # Sidebar RSS link: will only show up if there is a RSS feed
+    # associated with the current page
+    rss = true
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
