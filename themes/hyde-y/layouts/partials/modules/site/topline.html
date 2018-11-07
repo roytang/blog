@@ -1,3 +1,6 @@
+{{ with .Site.Params.topimage }}
+  {{ . | markdownify }}
+{{ end }}
 {{ with .Site.Params.topline }}
   {{ . | markdownify }}
 {{ end }}
