@@ -57,7 +57,8 @@ royjtang
 - Multichain 
 - React Native 
 - WordPress customisation, themes, and plugins
-
+- Amazon Web Services (AWS) setup and deployment 
+- Alicloud setup and deployment 
  
 ##### 2003 to 2015
 [Azeus Systems Limited Philippines](https://www.azeus.com/careers/philippines/) - Technical Lead and Full Stack Developer
