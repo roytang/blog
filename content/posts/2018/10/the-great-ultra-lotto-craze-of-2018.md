@@ -13,9 +13,9 @@ For the past few weeks or so, many in the country were consumed by a sort of lot
 
 For reference, the Ultra Lotto draw has 6 numbers from a pool of 1-58 (hence &#8220;6/58&#8221;) drawn three times a week. Using the power of Math (TM), that gives us roughly 40 million possible combinations. By comparison, the Avengers only had a 1 in 14 million chance of surviving the events of _Infinity War_, so that&#8217;s way worse odds and you don&#8217;t even have a time stone! The price of an individual ticket is 24 PHP, and 24 * ~40 million is ~960 million, so once the jackpot exceeded 1 billion PHP, the [EV][1] of a single lotto ticket was already a net positive. If only I had the 960 million and change to bet on every single combination!
 
-I had actually started betting on the lotto sporadically since last year, mostly for fun. The first time you make a bet it&#8217;s kind of exciting. Suddenly you went from zero chance of being instantly rich to a nonzero chance! A ridiculously small, highly unlikely chance, but still a chance!<figure>
+I had actually started betting on the lotto sporadically since last year, mostly for fun. The first time you make a bet it&#8217;s kind of exciting. Suddenly you went from zero chance of being instantly rich to a nonzero chance! A ridiculously small, highly unlikely chance, but still a chance!
 
-[https://giphy.com/embed/ToMjGpKniGqRNLGBrhu]</figure> 
+![](https://media.giphy.com/media/ToMjGpKniGqRNLGBrhu/giphy.gif)
 
 [via GIPHY][2]
 

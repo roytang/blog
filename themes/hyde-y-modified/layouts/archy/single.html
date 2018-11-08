@@ -1,0 +1,13 @@
+{{ $archYear := .Date.Format "2006" }}
+
+{{ partial "head" . }}
+<article id="main-content" class="container main_content single">
+<h2>Archive for {{ $archYear }}</h2>
+
+{{ range where .Site.Pages "Section" "posts" }}
+    {{ if eq (.Date.Format "2006") $archYear }}
+        {{ .Render "summary" }}
+    {{ end }}
+{{ end }}
+</article>
+{{ partial "foot" . }}

@@ -18,6 +18,10 @@ disqusShortname = "roytangweblog"
     name = "Roy"
     email = "awesome@roytang.net"
 
+[permalinks]
+    archm = "/:year/:month/"
+    archy = "/:year/"    
+
 #
 # All parameters below here are optional and can be mixed and matched.
 #

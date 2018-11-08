@@ -1,0 +1,38 @@
+{{ $archYear := .Date.Format "2006" }}
+
+{{ partial "head" . }}
+<article id="main-content" class="container main_content single">
+<h3>Archive</h3>
+{{ $all_posts := where .Site.Pages "Section" "posts" }}
+<em>{{ len ($all_posts) }} posts total</em>
+
+{{ range (where .Site.Pages "Section" "posts").GroupByDate "2006 January" }}
+<h3>{{ .Key }}</h3>
+<ul>
+    {{ range .Pages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a> <small>{{ .Date.Format "Mon, Jan 2, 2006" }}</small></li>
+    {{ end }}
+</ul>
+{{ end }}
+
+
+<ul class="years">
+    {{ range where .Site.Pages "Section" "archy" }}
+    {{ $year := .Date.Format "2006" }}
+    <li>
+        <a href="{{ .Permalink }}">{{ $year }}</a>
+        <ul class="months">
+            {{ range where .Site.Pages "Section" "archm" }}
+                {{ if eq (.Date.Format "2006") $year }}
+                    {{ $month := .Date.Format "January" }}
+                    <li><a href="{{ .Permalink }}">{{ $month }}</a>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </li>
+    {{ end }}
+</ul>
+
+
+</article>
+{{ partial "foot" . }}

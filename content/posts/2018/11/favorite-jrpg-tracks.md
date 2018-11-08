@@ -13,21 +13,15 @@ I used to play a lot of JRPGs, especially back during they heyday of the Playsta
 
 Rivers in the Desert (Persona 5) &#8211; easily the best song in the OST for me, and the rest of this OST is amazing so that&#8217;s saying a lot.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-  <iframe width="1040" height="585" src="https://www.youtube.com/embed/jaIo82uT0qs?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div></figure> 
+{{< youtube jaIo82uT0qs >}}
 
 Reach Out to the Truth (Persona 4) &#8211; P4G was the first Persona game I played, and I found the battle music had dug a permanent place into my brain. I sometimes find myself humming this to myself randomly often when I&#8217;m out walking.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-  <iframe width="1040" height="585" src="https://www.youtube.com/embed/Fu1LCUJMnF0?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div></figure> 
+{{< youtube Fu1LCUJMnF0 >}}
 
 Crazy Chocobo (Final Fantasy XIII-2) &#8211; this is kind of a left-field choice, but this ridiculously metal version of the traditional Chocobo theme leapt out at me the first time I encountered it in-game. I liked it so much that I now use it as my regular alarm tone. It&#8217;s really hard to sleep through!<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-  <iframe width="1040" height="585" src="https://www.youtube.com/embed/hEUOOgNzOv4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div></figure> 
+{{< youtube hEUOOgNzOv4 >}}
 
 I&#8217;m sure there&#8217;s a lot of other great JRPG tracks I&#8217;m missing out on. After starting this post, I collected the above tracks into [a Youtube playlist][1]. Maybe I&#8217;ll expand it later on when I encounter other tracks, feel free to recommend some to me!
 
