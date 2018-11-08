@@ -28,6 +28,8 @@ Often, it is simply a matter of shifting your perspective: think about how a sit
   <a href="https://twitter.com/neiltyson/status/741361923061653504?ref_src=twsrc%5Etfw">June 10, 2016</a>
 </blockquote>
 
+{{< tweet 766531070116278272 >}}
+
 Another tip: **Do not listen only to people who have the same opinion as you do. **If you only expose yourself to people who think along the same lines, you are enabling the same set of biases until they become subconscious. This traps you in an echo chamber of people constantly reinforcing the same ideas. A friend and I recently were discussing how certain people react poorly to differing opinions and theorized that maybe that person grew up surrounded by people who enabled his biases
 
 Instead,** seek out different opinions. **Continuing from the death penalty example above, I don&#8217;t shut out discussion from friends who I know to be pro-death penalty. I still read their threads and try to understand their point of view. Listening to a wide variety of different opinions will tend to cancel out your biases with time and will lead towards more objective thinking. For example, when conducting a performance assessment of a team member (something I&#8217;ve done often for the past decade or so!), I tend to get other people&#8217;s opinions first to contrast with my own, and will often ask someone else whether I might be biased in certain situations. The risk of personal bias is mitigated by sourcing different opinions

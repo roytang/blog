@@ -15,15 +15,7 @@ Webcomic PVP Online recently did [a short series on the character Cole suffering
 
 I generally consider myself to be a well-adjusted and functioning adult (more or less), but I did grow up as a socially anxious introvert, so I still find myself suffering mild anxiety from time to time. The most common scenario is when someone messages you like &#8220;Hey, can we talk later?&#8221; with no additional context whatsoever. Depending on your relationship with that person, you might start to overthink things. &#8220;Am I in trouble? Did something go wrong? What did I tell her last time? Did I forget to submit something?&#8221; And so on. Relevant tweet:<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
-<div class="wp-block-embed__wrapper">
-  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
-    <p lang="en" dir="ltr">
-      hi please read this <a href="https://t.co/ERsAIopeQR">pic.twitter.com/ERsAIopeQR</a>
-    </p>&mdash; 𝖘 (@spookylilacs) 
-    
-    <a href="https://twitter.com/spookylilacs/status/888463047857197056?ref_src=twsrc%5Etfw">July 21, 2017</a>
-  </blockquote>
-</div></figure> 
+{{< tweet 888463047857197056 >}}
 
 Which is nonsense of course. Without any additional context, there is an equal likelihood the discussion would end up being about something positive or neutral, instead of something negative. Anxiety is caused mostly by fear and uncertainty, magnified by a time gap. That time gap is filled by a hyperactive imagination with worst-case scenarios.
 

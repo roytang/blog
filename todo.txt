@@ -1,5 +1,11 @@
 * Fix imported posts with:
     - spoiler tags
-    - embedded tweets
     - mtg decklists
+* Taxonomy feeds
+* Twitter cards/other social media/SEA stuff
+* Comprehensive archive page
+
+[ok]
+* Disqus comments
 * Redirect old rss feeds
+- embedded tweets

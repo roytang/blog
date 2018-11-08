@@ -26,11 +26,3 @@ I think non-technical people generally just put you into a &#8220;technical pers
 I actually don&#8217;t mind people randomly asking me technical questions. Or any kind of questions or advice really. I&#8217;ll always try my best to answer and help if I can. I&#8217;m just slightly amused at what people imagine I&#8217;m able to do.
 
 Slightly related: I recently opened up my DMs on Twitter, so you can also ask me questions there!
-
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
-  <p lang="en" dir="ltr">
-    Why not? Willing to help on Java, Python, Django, Sql, Javascript/node and general software dev stuff, especially for Pinoys. 13+ yrs exp 🙂 <a href="https://t.co/Jo6K13Nswa">https://t.co/Jo6K13Nswa</a>
-  </p>&mdash; Roy Tang (@roytang) 
-  
-  <a href="https://twitter.com/roytang/status/905431727681572865?ref_src=twsrc%5Etfw">September 6, 2017</a>
-</blockquote>

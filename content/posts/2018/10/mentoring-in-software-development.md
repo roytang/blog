@@ -14,15 +14,7 @@ I&#8217;m not sure how good I am when it comes to mentoring other software devel
 
 To that end, a while back I tweeted the following (it&#8217;s currently my pinned tweet):<figure class="wp-block-embed-twitter wp-block-embed">
 
-<div class="wp-block-embed__wrapper">
-  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
-    <p lang="en" dir="ltr">
-      Why not? Willing to help on Java, Python, Django, Sql, Javascript/node and general software dev stuff, especially for Pinoys. 13+ yrs exp 🙂 <a href="https://t.co/Jo6K13Nswa">https://t.co/Jo6K13Nswa</a>
-    </p>&mdash; Roy Tang (@roytang) 
-    
-    <a href="https://twitter.com/roytang/status/905431727681572865?ref_src=twsrc%5Etfw">September 6, 2017</a>
-  </blockquote>
-</div></figure> 
+{{< tweet 905431727681572865 >}}
 
 (Side note: If you&#8217;re working in tech and interested in business stuff, Stephanie Hurlburt is a good follow on Twitter)
 

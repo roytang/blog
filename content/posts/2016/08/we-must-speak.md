@@ -25,13 +25,7 @@ We must write and speak, while we still can. We don&#8217;t know whether we wil
 
 In addition, we should write to spite those who would silence us for our opposition. For many of the administration&#8217;s supporters, anyone who speaks out is an open target for harassment and accusations most vile, as one of Rappler&#8217;s correspondents recently found out:
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
-  <p lang="en" dir="ltr">
-    Chastising Duterte is not mutually exclusive with supporting De Lima. But to the trolls, insult the president = <a href="https://t.co/FXfg0wigJ3">pic.twitter.com/FXfg0wigJ3</a>
-  </p>&mdash; Natashya Gutierrez (@natashya_g) 
-  
-  <a href="https://twitter.com/natashya_g/status/766531070116278272?ref_src=twsrc%5Etfw">August 19, 2016</a>
-</blockquote>
+{{< tweet 766531070116278272 >}}
 
 I can appreciate those of my friends who limit themselves to &#8220;like&#8221;s on the posts of those who speak up, or who limit their support to private discussions. Not everyone has the liberty to speak up. Not everyone can afford to sacrifice time nor ego to the possibility of a horde of online trolls pouncing on you. Not everyone can afford to be stressed out over this. Not everyone has the temperament to be willing to offend other people or risk losing friendships. All the more reason for those of us who are able to speak up to keep on going and to persist in the face of overwhelming ignorance and hypocrisy. The ones who cannot afford to speak, we speak for them too
 

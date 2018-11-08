@@ -10,13 +10,7 @@ categories:
 ---
 I&#8217;m not super big on New Year&#8217;s Resolutions anymore. (I seldom even do the 1920&#215;1440 joke these days.) I mean, I&#8217;m all about productivity and improvement and changing for the better, but I&#8217;ve found that very specific resolutions don&#8217;t often work for me. Mostly because I have very little focus (obviously something that an be improved).
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
-  <p lang="en" dir="ltr">
-    New Year's resolutions: Read, write, watch, play, create, destroy, win, learn, improve, chill, move forward
-  </p>&mdash; Roy Tang (@roytang) 
-  
-  <a href="https://twitter.com/roytang/status/682613316246585344?ref_src=twsrc%5Etfw">December 31, 2015</a>
-</blockquote>
+{{< tweet 682613316246585344 >}}
 
 So my tendency now is to stick to general, high level resolutions (like the above) that don&#8217;t go into anything too specific. And so this year I decided on something like that. My NYR for this year is: Do at least one personally productive thing per day.
 

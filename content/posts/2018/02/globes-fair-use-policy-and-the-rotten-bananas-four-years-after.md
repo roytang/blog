@@ -18,13 +18,7 @@ The exchange went a tiny bit viral on social media, with friends telling me abou
 
 I believe the CS account eventually deleted the offending tweets, I can only see my own tweets on the matter:
 
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
-  <p lang="en" dir="ltr">
-    <a href="https://twitter.com/talk2GLOBE?ref_src=twsrc%5Etfw">@talk2GLOBE</a> did you just call 3% of your customers rotten bananas? Saging lang may puso!
-  </p>&mdash; Roy Tang (@roytang) 
-  
-  <a href="https://twitter.com/roytang/status/431649435047583745?ref_src=twsrc%5Etfw">February 7, 2014</a>
-</blockquote>
+{{< tweet 431649435047583745 >}}
 
 Today, Globe Telecom no longer offers any plans with &#8220;unlimited data&#8221;, as far as I know. I feel like I can claim some nontrivial responsibility in that decision, but it doesn&#8217;t seem like something to be proud of.
 
