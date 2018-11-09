@@ -29,7 +29,7 @@ You can set these in the options dialog of Firefox, under Advanced -> Network ->
 ### Comment by Chry Cheng on 2008-10-12 23:13:44 +0000
 Had to turn it off because my Mac's Software Update program kept timing out
   
-when downloading. 🙁
+when downloading. :(
 
 ### Comment by [Roy](http://roytang.net/blog) on 2008-10-12 23:23:35 +0000
 You should be able to set the proxy server only for HTTP.

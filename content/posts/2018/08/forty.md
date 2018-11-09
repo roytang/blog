@@ -12,7 +12,7 @@ tags:
 ---
 <blockquote class="wp-block-quote">
   <p>
-    “Life begins at forty” &#8211; Walter B. Pitkin
+    "Life begins at forty" &#8211; Walter B. Pitkin
   </p>
 </blockquote>
 

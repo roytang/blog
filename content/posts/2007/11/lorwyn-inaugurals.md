@@ -131,7 +131,7 @@ I stall off the saps coz I have a lot of ironfoot blockers. I swing with a Shrie
    
 
    
-face up, revealing shapeshifter, copying one of the ironfoot guys. 🙁
+face up, revealing shapeshifter, copying one of the ironfoot guys. :(
    
 
    
@@ -257,7 +257,7 @@ We race some more, I win with 3 life remaining.
    
 2-0 win
 
-Yeah, one more win and possibily top 8! But I look at the standings and I&#8217;m last among the 5-2s 🙁 Boo! 21th place, too far away. If I win the last round I make top 16 and win three packs. Lose, and I probably still get one pack. Then, it&#8217;s practically &#8220;no bearning&#8221; for me now, I get at least one pack either way. (Yes, this story does not end in a top eight finish, I apologize.)
+Yeah, one more win and possibily top 8! But I look at the standings and I&#8217;m last among the 5-2s :( Boo! 21th place, too far away. If I win the last round I make top 16 and win three packs. Lose, and I probably still get one pack. Then, it&#8217;s practically &#8220;no bearning&#8221; for me now, I get at least one pack either way. (Yes, this story does not end in a top eight finish, I apologize.)
 
 So I slack off in round 8. In a matchup where I need to slack off the least &#8211; pickles.
 

@@ -8,7 +8,7 @@ categories:
   - TV Series
 
 ---
-I have to work today 🙁 And probably tomorrow and the day after as well, although both are local holidays.
+I have to work today :( And probably tomorrow and the day after as well, although both are local holidays.
 
 On what may very well become one of the company&#8217;s biggest projects I might add, if we get the contract.
 

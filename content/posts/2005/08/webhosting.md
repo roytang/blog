@@ -21,4 +21,4 @@ Optional:
 
   * Tomcat/JSP
 
-Not ploghost though. 🙁
+Not ploghost though. :(

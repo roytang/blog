@@ -9,7 +9,7 @@ categories:
 ---
 I played at Robinson&#8217;s Galleria last Saturday. So much for my first constructed outing in 10 years&#8230;not a very good outcome for me.
 
-I played 4-color Firemane Control&#8230;no permission, but lots of life gain and 4 Wrath of Gods packed maindeck, a specifically anti-aggro build. I was anticipating lots of Gruul beats and Orzhov aggro decks, and I was ready to beat them to the ground. Unfortunately, I faced not a single one of those decks. 🙁
+I played 4-color Firemane Control&#8230;no permission, but lots of life gain and 4 Wrath of Gods packed maindeck, a specifically anti-aggro build. I was anticipating lots of Gruul beats and Orzhov aggro decks, and I was ready to beat them to the ground. Unfortunately, I faced not a single one of those decks. :(
 
 Round 1 vs Wildfire/Vore
    

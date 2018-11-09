@@ -47,7 +47,7 @@ bb pilipinas beauty pageant, hmmm wala bang politiko na?
 ### Comment by [eClair](http://www.blogger.com/profile/3338893) on 2005-03-31 16:50:00 +0000
 Gosh! This brings back grad rites memories.
 
-And the memory that I almost did not graduate from Pisay 😐
+And the memory that I almost did not graduate from Pisay :|
 
 I miss Vlad. He was one of the best teachers, ever! He was crazy but not too
   
@@ -78,7 +78,7 @@ own small way. I wish I had an issue I could fight! =p
 marc gaba, poetry. hehe.
 
 ### Comment by [Clair](http://clair.pinoyweb.net) on 2005-04-06 18:08:00 +0000
-Wow! Marc Gaba won! Wonderful 🙂
+Wow! Marc Gaba won! Wonderful :)
 
 As for the Digital Pinay thing &#8211;
 
@@ -88,13 +88,13 @@ my name was all over the place. Not that people really bothered to look at my
   
 blog a lot but the word did spread.
 
-Ah well. 🙂 That is my being rash. At least something good came out of it ^_-
+Ah well. :) That is my being rash. At least something good came out of it ^_-
 
-Have you read Sean's blog? hehehe. Prizes up for grabs 😉 Aside from the fun
+Have you read Sean's blog? hehehe. Prizes up for grabs ;) Aside from the fun
   
 of solcing the puzzle!
 
-And when are you and Lorenz going to post a tanaga or two? 😉
+And when are you and Lorenz going to post a tanaga or two? ;)
 
 ### Comment by [btflpenguin](http://www.blogger.com/profile/2001080) on 2005-04-08 10:01:00 +0000
 may tanaga ako! may tanaga ako! ang hirap at medyo wala syang kwenta pero

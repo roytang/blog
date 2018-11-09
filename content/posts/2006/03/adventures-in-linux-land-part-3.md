@@ -55,7 +55,7 @@ always log on to #ubuntu or #ubuntu-ph using GAIM or X-chat and ask for help
   
 😉
 
-It's weird that FF1.5 isn't in the universe 🙁
+It's weird that FF1.5 isn't in the universe :(
 
 Update your Ubuntu ok? There's something weird with \[the password thingy\]\[1\].
 

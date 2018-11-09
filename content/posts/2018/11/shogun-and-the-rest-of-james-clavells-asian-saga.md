@@ -14,23 +14,23 @@ Shogun was the first novel I ever read outside of required school readings and i
 
 One of my favorite quotes from this book:
 
-> Toranaga: “Tsukku-san says that the Netherlands were vassals of the Spanish king until just a few years ago. Is that true?”
+> Toranaga: "Tsukku-san says that the Netherlands were vassals of the Spanish king until just a few years ago. Is that true?"
 > 
-> Blackthorne: “Yes.”
+> Blackthorne: "Yes."
 > 
-> Toranaga: “Therefore, the Netherlands – your allies – are in a state of rebellion against their lawful king?”
+> Toranaga: "Therefore, the Netherlands – your allies – are in a state of rebellion against their lawful king?"
 > 
-> Blackthorne: “They’re fighting against the Spaniard, yes, but –
+> Blackthorne: "They’re fighting against the Spaniard, yes, but –
 > 
-> Toranaga: “Isn’t that rebellion? Yes or no?”
+> Toranaga: "Isn’t that rebellion? Yes or no?"
 > 
-> Blackthorne: “Yes. But there are mitigating circumstances. Serious miti- ”
+> Blackthorne: "Yes. But there are mitigating circumstances. Serious miti- "
 > 
-> Toranaga: “There are no ‘mitigating circumstances’ when it comes to rebellion against a sovereign lord!”
+> Toranaga: "There are no ‘mitigating circumstances’ when it comes to rebellion against a sovereign lord!"
 > 
-> Blackthorne: “Unless you win.”
+> Blackthorne: "Unless you win."
 > 
-> Toranaga looked at him intently. Then laughed uproariously. “Yes, Mister Foreigner…you have named _the one&nbsp;_mitigating factor.”
+> Toranaga looked at him intently. Then laughed uproariously. "Yes, Mister Foreigner…you have named _the one&nbsp;_mitigating factor."
 
 I later ended up reading the rest of [Clavell&#8217;s Asian Saga][2] (in fact, I believe I still have most of them on my bookshelf), but none of them stuck with me as much as _Shogun_. And I just found out there&#8217;s gonna be a [TV adaptation soon][3]! Hope it&#8217;s good, looking forward to that one. (I know there was an older TV adaptation before starring Richard Chamberlain and Toshiro Mifune, but I&#8217;m too lazy to go look for a copy of that.)
 

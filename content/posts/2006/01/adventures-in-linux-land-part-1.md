@@ -14,7 +14,7 @@ Anyway, I went for a dual boot of Windows XP and [Kubuntu][1], supposedly an ea
 
 Okay, so yeah, I&#8217;m cool. I do the install and woohoo, I boot into Kubuntu, I&#8217;m awesome, yeah!
 
-But my Kubuntu has no internet. 🙁 It seems to have some sort of namespace resolving problem. I asked around on the kubuntu channel at irc.freenode.net and on the kubuntu forums, some nice guys gave me some stuff I could try, so I&#8217;ll try again maybe tomorrow if I don&#8217;t get home too late. (Can&#8217;t right now as my bro is playing [DoTA][3] and his internet goes down if I reboot&#8230;)
+But my Kubuntu has no internet. :( It seems to have some sort of namespace resolving problem. I asked around on the kubuntu channel at irc.freenode.net and on the kubuntu forums, some nice guys gave me some stuff I could try, so I&#8217;ll try again maybe tomorrow if I don&#8217;t get home too late. (Can&#8217;t right now as my bro is playing [DoTA][3] and his internet goes down if I reboot&#8230;)
 
 (To be continued&#8230;)
 

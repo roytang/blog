@@ -33,19 +33,19 @@ categories:
 
 
 <p style="margin-bottom: 0in;">
-  Mike “Switch” – Switch and I have known each other forever and basically started playing Magic around the same time. Mostly participating in Limited events/prereleases, the Grand Prix would be his second Constructed event ever.
+  Mike "Switch" – Switch and I have known each other forever and basically started playing Magic around the same time. Mostly participating in Limited events/prereleases, the Grand Prix would be his second Constructed event ever.
 </p>
 
 
 
 <p style="margin-bottom: 0in;">
-  Paul “I’ll just wing it” – Primarily a limited/prerelease player as well, Paul’s most serious constructed efforts was classic U/W control. You know, with Tundras/Wraths/Swords to Plowshares/whatever. Paul doesn’t play often, but he said he wanted to play, so I said we’d just build him a deck that would be easy to play. Translation: Kithkin
+  Paul "I’ll just wing it" – Primarily a limited/prerelease player as well, Paul’s most serious constructed efforts was classic U/W control. You know, with Tundras/Wraths/Swords to Plowshares/whatever. Paul doesn’t play often, but he said he wanted to play, so I said we’d just build him a deck that would be easy to play. Translation: Kithkin
 </p>
 
 
 
 <p style="margin-bottom: 0in;">
-  Alex “Necroskitter guy” – Former co-worker and one of the last 2 among the former Magic players at my office to still be playing (the other one is me), Alex plays in both constructed and limited events. Alex would be the one to come up with our team name and would be playing a Necroskitter deck for the GP.
+  Alex "Necroskitter guy" – Former co-worker and one of the last 2 among the former Magic players at my office to still be playing (the other one is me), Alex plays in both constructed and limited events. Alex would be the one to come up with our team name and would be playing a Necroskitter deck for the GP.
 </p>
 
 
@@ -334,7 +334,7 @@ categories:
   </p>
   
   <p style="margin-bottom: 0in;">
-    I went with a tweaked version of Shuhei Nakamura’s Greedy Deck/”PWC Special” from GP Kobe. See<br /> <a href="http://roytang.net/magic/2008/08/ptq-berlin-i/"><br /> PTQ Berlin I results<br /> </a><br /> and<br /> <a href="http://roytang.net/magic/2008/08/ptq-berlin-ii/"><br /> PTQ Berlin II results<br /> </a><br /> for how well that went.
+    I went with a tweaked version of Shuhei Nakamura’s Greedy Deck/"PWC Special" from GP Kobe. See<br /> <a href="http://roytang.net/magic/2008/08/ptq-berlin-i/"><br /> PTQ Berlin I results<br /> </a><br /> and<br /> <a href="http://roytang.net/magic/2008/08/ptq-berlin-ii/"><br /> PTQ Berlin II results<br /> </a><br /> for how well that went.
   </p>
   
   <p>

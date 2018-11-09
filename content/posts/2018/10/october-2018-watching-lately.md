@@ -18,7 +18,7 @@ Spoilers for Tom Clancy&#8217;s Jack Ryan:
 
 <div class="spoiler-wrap">
   <div class="spoiler-head no-icon  collapsed" title="Expand">
-    ”Spoilers
+    "Spoilers
   </div>
   
   <div class="spoiler-body" style="display: none;">
@@ -59,7 +59,7 @@ Spoilers for Tom Clancy&#8217;s Jack Ryan:
 
 <div class="spoiler-wrap">
   <div class="spoiler-head no-icon  collapsed" title="Expand">
-    ”Spoilers
+    "Spoilers
   </div>
   
   <div class="spoiler-body" style="display: none;">

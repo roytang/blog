@@ -33,7 +33,7 @@ Stubbornly, I thought it was only bad luck and went in for another trial. In rou
 
 _
     
-“Ang brutal naman ng trials!” –Alex
+"Ang brutal naman ng trials!" –Alex
    
 _ 
 

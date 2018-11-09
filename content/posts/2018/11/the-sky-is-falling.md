@@ -26,7 +26,7 @@ I like to think of myself as an optimist, but even I am increasingly wary of whe
 
 <blockquote class="wp-block-quote">
   <p>
-    “Life is to be lived, not controlled; and humanity is won by continuing to play in face of certain defeat.”
+    "Life is to be lived, not controlled; and humanity is won by continuing to play in face of certain defeat."
   </p>
   
   <cite>&#8211; Ralph Ellison</cite>

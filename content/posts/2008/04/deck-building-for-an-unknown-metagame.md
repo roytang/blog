@@ -123,13 +123,11 @@ That’s 44 cards, leaving us with 16 slots to fight the other matchup: Faeries.
 
 The problem with Force or Thresher against Faeries is Sower of Temptation. Fortunately, they still need to tap out for Sower, so I’d like to have some cheap removal to take out the Sower. Ideally, it would be instant-speed as well to make it good against Scion of Oona and manlands. Green is hopeless in terms of removal, so I scoured the White cards in gatherer and found the following candidates:
  
-  
-
 
   * Oblivion Ring – not cheap and not instant speed, but a lot more flexible, can take out Planeswalkers, Bitterblossom, Loxodon Warhammers, etc. 
   * Condemn – very narrow, after the first Condemn they would simply not send their Scions or Sowers into the red zone. Excellent against Mutavaults, Treetop Villages and Faerie Conclaves. That might be enough. 
   * Last Breath – cheap, instant-speed and can take out both Sower and Scion, and can hit Mutavaults and Faerie Conclaves as a bonus. Very narrow, but may be viable. 
-  * Sunlance – cheap and strong, but sorcery speed. The “nonwhite” part only matters in the mirror and against Kithkin. 
+  * Sunlance – cheap and strong, but sorcery speed. The "nonwhite" part only matters in the mirror and against Kithkin. 
   * Crib Swap – not cheap, but it’s an instant and strongly unconditional. Sometimes the shapeshifter matters, but it walks so we can block it. 
   * Swords to Plowshares – cheap, strong and instant-speed; the best option, but not Standard legal. 
 

@@ -33,7 +33,7 @@ The success of the project would be determined by how much of the existing MTG c
 
 Wish me luck 🙂
 
-Update: This project is on-hold, not surprisingly. It turns out I don&#8217;t actually have time to learn a new language. 🙁
+Update: This project is on-hold, not surprisingly. It turns out I don&#8217;t actually have time to learn a new language. :(
 
  [1]: http://www.roytang.net/wiki/index.php/PyMTG
 

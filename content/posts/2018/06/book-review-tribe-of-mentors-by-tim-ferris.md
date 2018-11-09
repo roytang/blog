@@ -22,17 +22,17 @@ There&#8217;s some common themes that are often repeated among the different men
 
 I also started using this function in the Kindle app which let&#8217;s me highlight some parts and save them for later. I would send those quotes to Google Keep. (Although to be honest there were a lot I didn&#8217;t bother to note down, mostly because I was lazy.) Here are the ones I did manage to save:
 
-> _“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” –Steve Jobs_
+> _"People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things." –Steve Jobs_
 > 
 > _&#8220;I say no to nearly everything. I make a lot fewer short-term compromises. I aspire to only work with people who I can work with forever, to invest my time in activities that are a joy unto themselves, and to focus on the extremely long term.&#8221; &#8211; Naval Ravikant, CEO and co-founder of AngelList_
 > 
-> _“God will not have his work made manifest by cowards.”—Ralph Waldo Emerson_
+> _"God will not have his work made manifest by cowards."—Ralph Waldo Emerson_
 > 
-> _“Desire is a contract that you make with yourself to be unhappy until you get what you want.” &#8211; Naval Ravikant, CEO and co-founder of AngelList_
+> _"Desire is a contract that you make with yourself to be unhappy until you get what you want." &#8211; Naval Ravikant, CEO and co-founder of AngelList_
 > 
 > _&#8220;First, whenever possible, connect with others. Second, with enthusiasm, strive always to create fun and delight for others. And third, lean into each moment and encounter expecting magic—or miracles.&#8221; &#8211; Adam Robinson, educator, freelance author, and US Chess Federation life master_
 > 
-> _&#8220;Too often, I hear people effectively given advice that is consistent with sunk cost fallacies. I certainly heard it a lot. “You’ve spent X years learning Y, you can’t just up and leave and now do Z,” they say. I think this is flawed advice because it weighs too heavily the time behind you, which can’t be changed, and largely discounts the time&#8221; &#8211; Peter Attia, Surgeon
+> _&#8220;Too often, I hear people effectively given advice that is consistent with sunk cost fallacies. I certainly heard it a lot. "You’ve spent X years learning Y, you can’t just up and leave and now do Z," they say. I think this is flawed advice because it weighs too heavily the time behind you, which can’t be changed, and largely discounts the time&#8221; &#8211; Peter Attia, Surgeon
   
 >_ 
 > 

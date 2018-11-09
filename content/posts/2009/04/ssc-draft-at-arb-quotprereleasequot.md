@@ -1,5 +1,5 @@
 ---
-title: SSC Draft at ARB “Prerelease”
+title: SSC Draft at ARB "Prerelease"
 type: post
 date: 2009-04-26T04:50:52+00:00
 url: /2009/04/ssc-draft-at-arb-quotprereleasequot/

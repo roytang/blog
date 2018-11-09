@@ -26,4 +26,4 @@ No, it's probably just me and my unhealthy lifestyle. :p
 
 hay&#8230;I'm sure I'll beat this thing, since I'm invincible or something. But
   
-I'd have to eat a lot of veggies to do it. 🙁
+I'd have to eat a lot of veggies to do it. :(

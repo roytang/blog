@@ -1,5 +1,5 @@
 ---
-title: Globe’s Fair Use Policy and the “Rotten Bananas”, four years later
+title: Globe’s Fair Use Policy and the "Rotten Bananas", four years later
 author: roy
 type: post
 date: 2018-02-08T01:00:19+00:00
