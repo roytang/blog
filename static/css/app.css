@@ -6,3 +6,6 @@ table.grid_archive a {
     text-decoration: none;
     color: black;
 }
+.spoiler {
+    display: none;
+}
