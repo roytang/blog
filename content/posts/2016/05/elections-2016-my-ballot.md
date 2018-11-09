@@ -1,13 +1,13 @@
 ---
-title: Elections 2016 – My Ballot
 author: roy
-type: post
-date: 2016-05-02T16:35:05+00:00
-url: /2016/05/elections-2016-my-ballot/
 categories:
-  - Philippines
-
+- Philippines
+date: 2016-05-02 16:35:05
+title: "Elections 2016 \xE2\u20AC\u201C My Ballot"
+type: post
+url: /2016/05/elections-2016-my-ballot/
 ---
+
 This has been one of the most divisive and shenanigan-filled election campaign seasons ever, and politics is normally crazy in this country so that&#8217;s saying something. There&#8217;s a strong use of social media this time around, and it&#8217;s led to the internet being a hotbed of opinions and propaganda and memes and lies and half-truths and threats of violence. I was hoping greater citizen involvement via social media and the debates would mean citizens have more information and thus would get to be more discerning, but it seems that things have only gotten worse. Hopefully we&#8217;ll get there someday, but it doesn&#8217;t look like that day is soon.
 
 The presidential race has been particularly difficult, I would generally say this is the worst crop of candidates we&#8217;ve had since I started voting. I cannot find any clearly acceptable candidate, all of them have their own trade-offs. For the discerning voter, it&#8217;s a matter of which trade-offs you are willing to accept and live with. In fact, at this time, I am still unable to finalize my choice. I will probably decide who I will vote for president when I wake up in the morning on the morning of election day itself. That being said, for sure I will not vote for Binay (should be self-explanatory) or Duterte (risk of instability, too many things I disagree with, including character, foreign policy, diplomacy, etc). For both of the above choices, I feel that the worst-case scenario is significantly worse than the other three.

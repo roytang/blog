@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2005-06-16 16:21:00
 title: Yahoo!
 type: post
-date: 2005-06-16T16:21:00+00:00
 url: /2005/06/yahoo/
-categories:
-  - Software Development
-
 ---
+
 Some comments on the Yahoo webapps.
 
   * The next/previous links on top of Yahoo mail messages are confusing. I&#8217;m not sure if they take me up or down the mail-list. Gmail is better, since it explicitly says &#8220;older&#8221; and &#8220;newer&#8221;; With Yahoo, I&#8217;m always wrong when I guess. After some experimenting, I figure it out. &#8220;Next&#8221; and &#8220;Previous&#8221; are based on the sort order in the list of messages. Since the default is sorted by date descending (newest first), &#8220;Next&#8221; corresponds to Yahoo&#8217;s &#8220;older&#8221; by default. Which is kind of hard to figure intuitively. 

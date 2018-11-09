@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-02-01 00:00:24
 title: Conflux Prerelease
 type: post
-date: 2009-02-01T00:00:24+00:00
 url: /2009/02/conflux-prerelease/
-categories:
-  - Magic the Gathering
-
 ---
+
 It&#8217;s my first Magic outing after more than a month of hibernation. Hopefully Conflux shakes up standard and makes Magic more fun again. Let&#8217;s go!
 
 Usually I have to register an awesome pool and then get passed a mediocre one. I knew it was different this time around when the guy two seats to my right announced he was able to form a good Naya deck from the Shards of Alara packs alone! As fate would have it, we passed pools two seats to the left and I got that pool, which mostly built itself:

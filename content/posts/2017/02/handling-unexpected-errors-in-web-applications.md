@@ -1,13 +1,13 @@
 ---
-title: Handling unexpected errors in web applications
 author: roy
-type: post
-date: 2017-02-02T01:30:25+00:00
-url: /2017/02/handling-unexpected-errors-in-web-applications/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-02-02 01:30:25
+title: Handling unexpected errors in web applications
+type: post
+url: /2017/02/handling-unexpected-errors-in-web-applications/
 ---
+
 So after so many months of development you deployed your webapp to production and it&#8217;s up and running and everything is fine and you celebrate and your work is done right?
 
 Not really.

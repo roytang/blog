@@ -1,12 +1,12 @@
 ---
-title: Games – Walk of Game
-type: post
-date: 2005-10-28T17:07:00+00:00
-url: /2005/10/games-walk-of-game/
 categories:
-  - Gaming
-
+- Gaming
+date: 2005-10-28 17:07:00
+title: "Games \xE2\u20AC\u201C Walk of Game"
+type: post
+url: /2005/10/games-walk-of-game/
 ---
+
 Voting for the
    
 [

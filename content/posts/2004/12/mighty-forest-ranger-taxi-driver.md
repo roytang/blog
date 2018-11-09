@@ -1,13 +1,13 @@
 ---
-title: Mighty Forest Ranger Taxi Driver
 author: Roy
-type: post
-date: 2004-12-12T15:13:02+00:00
-url: /2004/12/mighty-forest-ranger-taxi-driver/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2004-12-12 15:13:02
+title: Mighty Forest Ranger Taxi Driver
+type: post
+url: /2004/12/mighty-forest-ranger-taxi-driver/
 ---
+
 Evil illegal loggers have been in the news lately, mainly due to their being blamed as scapegoats for the rash of flooding during the last two typhoons that left hundreds, maybe thousands, dead in their wake and strewing devastation upon this blighted land. I&#8217;m not here to talk about whether the loggers are indeed to blame, or how it&#8217;s silly for the government to try to implement a total log ban when they can&#8217;t even implement a selective log ban, or how chances are everyone important will forget about this in, say a month tops, while the victims continue their struggle to recover even a fraction of their once-normal lives. No, these topics have already been covered to death in serious newspaper editorials and columns. And possible internet discussions in Pinoy-bloggerland, I don&#8217;t know, I&#8217;m not particularly familiar with that scene.
 
 No, as always, I prefer to attack this from a more personal angle. And like some of my more interesting stories, this one is about a taxi driver.

@@ -1,13 +1,13 @@
 ---
-title: Recording Industry vs The People
 author: Roy
-type: post
-date: 2006-04-19T08:27:28+00:00
-url: /2006/04/recording-industry-vs-the-people/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2006-04-19 08:27:28
+title: Recording Industry vs The People
+type: post
+url: /2006/04/recording-industry-vs-the-people/
 ---
+
 There are a handful of issues that would influence the general direction of the human race in years to come. Terrorism, oil scarcity, trade imbalances and worldwide poverty come to mind, and these are the ones most commonly discussed in mainstream media. There is however, another important battle being waged that is far removed from the minds of the everyday person. That battle is [Recording Industry vs The People][1].
 
 Some of the posts at the above blog are awesome reads and point to an alarming pattern of abuse of the United States&#8217; judicial system by large corporations with armies of lawyers at their disposal waging a war against ordinary American citizens. The scary part is that the agenda the RIAA is pushing with its&#8217; strong-arm tactics seems to point towards a conclusion that because sharing of copyrighted material is detrimental to their business model, _all _file-sharing should be considered as criminal activity.

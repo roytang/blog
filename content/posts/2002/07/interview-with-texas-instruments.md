@@ -1,13 +1,15 @@
 ---
-title: Interview With Texas Instruments
 author: Roy
-type: post
-date: 2002-07-02T16:00:40+00:00
-url: /2002/07/interview-with-texas-instruments/
 categories:
-  - Job Hunting
-
+- Just Another Day
+date: 2002-07-02 16:00:40
+tags:
+- Job Hunting
+title: Interview With Texas Instruments
+type: post
+url: /2002/07/interview-with-texas-instruments/
 ---
+
 Sometimes my still being unemployed depresses me greatly (Although my periods of depression typically last no more than thirty minutes.)
 
 The biggest problem in my job-hunting woes is the fact that the type of job I want varies greatly from what I have training in. I want to be involved in IT or programming, but I don&#8217;t have a lot of the skills necessary to succeed in those fields. I will probably always regret not shifting to Computer Science or even Computer Engineering early on in college. If I had I would&#8217;ve probably had a much easier time.

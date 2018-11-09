@@ -1,13 +1,13 @@
 ---
-title: Congrats Neil
 author: Roy
-type: post
-date: 2005-04-10T02:19:00+00:00
-url: /2005/04/congrats-neil/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-04-10 02:19:00
+title: Congrats Neil
+type: post
+url: /2005/04/congrats-neil/
 ---
+
 Speaking of my high school batchmates&#8217; earth-shaking accomplishments, props to Neil Simon Silva for [getting 9th place in the recent bar exams][1].
 
 Congrats as well to new attorneys Chris Bolastig and Ly-an Carlos.

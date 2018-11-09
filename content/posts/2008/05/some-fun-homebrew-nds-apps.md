@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2008-05-24 20:00:44
 title: Some Fun Homebrew NDS Apps
 type: post
-date: 2008-05-24T20:00:44+00:00
 url: /2008/05/some-fun-homebrew-nds-apps/
-categories:
-  - Gaming
-
 ---
+
 I was neglecting the NDS a bit, so I decided to look for some fun homebrew stuff to do with it. Here are some I tried (You&#8217;ll need some sort of flashcart to use these. Mine is an R4.):
  
   

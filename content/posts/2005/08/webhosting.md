@@ -1,13 +1,13 @@
 ---
-title: Webhosting?
 author: roy
-type: post
-date: 2005-08-14T15:47:00+00:00
-url: /2005/08/webhosting/
 categories:
-  - Meta
-
+- Meta
+date: 2005-08-14 15:47:00
+title: Webhosting?
+type: post
+url: /2005/08/webhosting/
 ---
+
 I&#8217;m thinking of getting some webhosting. Not that I&#8217;m unsatisfied with my free webhosting and Blogger mind you, but sometimes I just get the urge to do some server-side chicanery.
 
 Mandatory:

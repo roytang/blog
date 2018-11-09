@@ -1,17 +1,17 @@
 ---
-title: Grand Prix Manila 2017
 author: roy
-type: post
-date: 2017-06-15T04:22:32+00:00
-url: /2017/06/grand-prix-manila-2017/
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2017-06-15 04:22:32
 tags:
-  - grand-prix
-  - standard
-  - tournament-report
-
+- grand-prix
+- standard
+- tournament-report
+title: Grand Prix Manila 2017
+type: post
+url: /2017/06/grand-prix-manila-2017/
 ---
+
 I don&#8217;t really play Magic regularly anymore; Last year I only played Standard because I was Q&#8217;ed for the WMCQs. But when there&#8217;s a local Grand Prix, oldies like me crawl out of the woodwork and try to believe we can still do well in a tournament with minimal prep. Grand Prix Manila 2017 was to be Standard format, held on June 2-4, 2017, at the SMX convention center.
 
 At the start of the year I already knew I would be playing in this year&#8217;s GP Manila, but since I hadn&#8217;t played Standard for well over a year, I didn&#8217;t really know what I would be playing. But I started keeping track of what decks there were in the metagame. Sadly, the meta was not so good, with an oppressive combo deck dominating the field. Like many others, I assumed there would be a ban at some point, which means I couldn&#8217;t commit to a deck too early.

@@ -1,13 +1,13 @@
 ---
-title: Thirty-Six
 author: roy
-type: post
-date: 2014-08-09T11:47:19+00:00
-url: /2014/08/thirty-six/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2014-08-09 11:47:19
+title: Thirty-Six
+type: post
+url: /2014/08/thirty-six/
 ---
+
 Thirty-six is a [semiperfect number][1], meaning it is the sum of some subsets of its natural divisors.
 
 &nbsp;

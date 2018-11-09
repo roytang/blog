@@ -1,13 +1,13 @@
 ---
-title: Open Up and Say Yumburger.
 author: Roy
-type: post
-date: 2006-02-15T16:14:10+00:00
-url: /2006/02/open-up-and-say-yumburger/
 categories:
-  - Philippines
-
+- Philippines
+date: 2006-02-15 16:14:10
+title: Open Up and Say Yumburger.
+type: post
+url: /2006/02/open-up-and-say-yumburger/
 ---
+
 [
   
 pamie.com: Open Up and Say Yumburger.

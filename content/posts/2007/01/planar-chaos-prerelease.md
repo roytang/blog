@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-01-21 08:53:33
 title: Planar Chaos Prerelease
 type: post
-date: 2007-01-21T08:53:33+00:00
 url: /2007/01/planar-chaos-prerelease/
-categories:
-  - Magic the Gathering
-
 ---
+
 Played yesterday at Galleria. With a whole bunch of people: three from the Zu crowd and I think five or six from the office. Insane number of people, as expected. I got there about ten minutes after the mall opened (I came from work), and I was already preregistered, but I only got to sign up for the sixth flight (Flight F). They had to buy extra tables from a nearby Office Warehouse. I finally got to crack open packs around 12:30PM.
 
 Only bomb in my sealed deck pool was an Avatar of Woe, but my black was too weak to support it. I went for a U/W aggro build to take advantage of a Serra Sphinx I opened.

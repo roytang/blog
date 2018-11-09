@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-02-08 06:59:44
 title: 'Magic the Puzzling: Nicol Bolas'
 type: post
-date: 2009-02-08T06:59:44+00:00
 url: /2009/02/magic-the-puzzling-nicol-bolas/
-categories:
-  - Magic the Gathering
-
 ---
+
 At the Conflux release event, we were given posters of the four planeswalkers fighting againt big, bad Nicol Bolas. It got a friend and I talking: could Nicol Bolas actually win against the four planeswalkers?
 
 The situation is:

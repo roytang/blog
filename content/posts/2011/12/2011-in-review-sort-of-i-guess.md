@@ -1,15 +1,15 @@
 ---
-title: 2011 in Review. Sort of. I guess.
-author: roy
-type: post
-date: 2011-12-31T11:26:02+00:00
-url: /2011/12/2011-in-review-sort-of-i-guess/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2011-12-31 11:26:02
+title: 2011 in Review. Sort of. I guess.
+type: post
+url: /2011/12/2011-in-review-sort-of-i-guess/
 ---
+
 Somehow the years seem to fly by more quickly nowadays. They all seem to blend in together too, at least in my memory. When I was thinking of what to write for this post I thought that this was the year I had taken my break from working. That was actually last year.
 
 I don&#8217;t think it&#8217;s a sign that I&#8217;m growing old. Maybe more of a sign of the fact that I&#8217;ve settled in to some sort of routine that makes it difficult to tell the days or even years apart. Nothing significant changes, I guess.

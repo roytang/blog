@@ -1,13 +1,14 @@
 ---
-title: Globe’s Fair Use Policy and the "Rotten Bananas", four years later
 author: roy
-type: post
-date: 2018-02-08T01:00:19+00:00
-url: /2018/02/globes-fair-use-policy-and-the-rotten-bananas-four-years-after/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2018-02-08 01:00:19
+title: "Globe's Fair Use Policy and the \"Rotten Bananas\", four years
+  later"
+type: post
+url: /2018/02/globes-fair-use-policy-and-the-rotten-bananas-four-years-after/
 ---
+
 Around four years ago (give or take a few days), one of my many Twitter interactions with Globe Telecom&#8217;s CS account went a little bit viral due to them trying to justify their Fair Use Policy by calling 3% of their users &#8220;rotten bananas&#8221;. Apparently I didn&#8217;t bother writing on the blog about it back then, so I thought I&#8217;d do it now.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="GiJBHdX">

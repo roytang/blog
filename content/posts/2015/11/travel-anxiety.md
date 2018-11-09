@@ -1,13 +1,13 @@
 ---
-title: Travel anxiety
 author: roy
-type: post
-date: 2015-11-19T17:09:06+00:00
-url: /2015/11/travel-anxiety/
 categories:
-  - Travels
-
+- Travels
+date: 2015-11-19 17:09:06
+title: Travel anxiety
+type: post
+url: /2015/11/travel-anxiety/
 ---
+
 As I write this I am at the airport, trying to kill time. As per usual, I am more than an hour early before the check-in time for my flight. It&#8217;s a thing I do, no matter where I&#8217;m travelling, that I put in lots of buffer time so I will more often than not arrive way too early and need to wait. It&#8217;s not just for flights either &#8211; I have a tendency to arrive early for any sort of time sensitive appointment. (Except work of course, where I often take what I call &#8220;tactical lates&#8221;, but that&#8217;s a story for another time)
   
 The buffer time and arriving early is a form of risk management I suppose. Since flights are costly to miss, you have to manage the risks involved. It&#8217;s also a form of anxiety I guess, something I&#8217;ve been prone to lately &#8211; worrying about all the things that could go wrong. I&#8217;m especially familiar with travel anxiety given how much I&#8217;ve travelled this year &#8211; this is now my fourth time flying out of the country for a while. I plan to go easy on the air travel next year, I&#8217;m kind of burned out a bit by it. Not that I don&#8217;t like visiting new places, but as I mentioned above there&#8217;s a lot of anxiety around it. Some sources of anxiety are:

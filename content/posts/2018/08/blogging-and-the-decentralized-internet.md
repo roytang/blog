@@ -1,15 +1,15 @@
 ---
-title: Blogging and the Decentralized Internet
 author: roy
-type: post
-date: 2018-08-14T15:36:32+00:00
-url: /2018/08/blogging-and-the-decentralized-internet/
 categories:
-  - Opinions
-  - Tech Life
-  - Writing
-
+- Opinions
+- Tech Life
+- Writing
+date: 2018-08-14 15:36:32
+title: Blogging and the Decentralized Internet
+type: post
+url: /2018/08/blogging-and-the-decentralized-internet/
 ---
+
 (Somehow I now have a series of posts about blogging in 2018. Here&#8217;s [the first one][1]. Two is a series, right?)
 
 1. [Great comment][2] the other day on reddit (found via r/bestof), in response to [Twitter&#8217;s inaction vs Alex Jones][3]. Quoting part of the comment:

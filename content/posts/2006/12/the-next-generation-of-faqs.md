@@ -1,13 +1,13 @@
 ---
-title: The Next Generation of FAQs
 author: Roy
-type: post
-date: 2006-12-27T00:07:00+00:00
-url: /2006/12/the-next-generation-of-faqs/
 categories:
-  - Gaming
-
+- Gaming
+date: 2006-12-27 00:07:00
+title: The Next Generation of FAQs
+type: post
+url: /2006/12/the-next-generation-of-faqs/
 ---
+
 Something I didn&#8217;t expect from the Youtube phenomenon: apparently, FAQ writers can now link to instructional videos for difficult to describe game walkthroughs. If you don&#8217;t have any idea what I mean, an &#8220;FAQ&#8221; is a document that helps someone to do a particular thing by providing answers to Frequently Asked Questions. In my case, I most often read FAQs for video games to help through the difficult spots, usually from [GameFAQs
   
 ][1] 

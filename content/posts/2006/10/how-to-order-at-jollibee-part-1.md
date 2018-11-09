@@ -1,13 +1,13 @@
 ---
-title: How to Order at Jollibee, Part 1
 author: Roy
-type: post
-date: 2006-10-02T10:57:28+00:00
-url: /2006/10/how-to-order-at-jollibee-part-1/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-10-02 10:57:28
+title: How to Order at Jollibee, Part 1
+type: post
+url: /2006/10/how-to-order-at-jollibee-part-1/
 ---
+
 Or any other fast food place really. There are a lot of people like me who view having to line up and pay for your food as a rather large inconvenience. If you&#8217;re one of us, consider the following guidelines.
 
   1. **Know what you&#8217;re going to order.

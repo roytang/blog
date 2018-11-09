@@ -1,13 +1,13 @@
 ---
-title: Welcome to roytang.net
 author: Roy
-type: post
-date: 2006-02-04T18:45:20+00:00
-url: /2006/02/welcome-to-roytang-net/
 categories:
-  - Meta
-
+- Meta
+date: 2006-02-04 18:45:20
+title: Welcome to roytang.net
+type: post
+url: /2006/02/welcome-to-roytang-net/
 ---
+
 Yeah, so I was bored and went ahead and got a domain name. ^_^I&#8217;m wondering if I&#8217;ve wasted money, but webhosting is really cheap nowadays anyway. Thanks to the nice folks at [pinoywebhosting.com][1] for their quick service!
 
 Anyway, I hope you&#8217;ll pardon me if some parts of the site aren&#8217;t fully up-and-running (the about page is still the wordpress template for one), I haven&#8217;t had much time to play around with wordpress yet.

@@ -1,13 +1,13 @@
 ---
-title: Gloriagate – Now is not the time
 author: roy
-type: post
-date: 2005-07-12T15:03:00+00:00
-url: /2005/07/gloriagate-now-is-not-the-time/
 categories:
-  - Philippines
-
+- Philippines
+date: 2005-07-12 15:03:00
+title: "Gloriagate \xE2\u20AC\u201C Now is not the time"
+type: post
+url: /2005/07/gloriagate-now-is-not-the-time/
 ---
+
 I remember the atmosphere at UP around the time of the infamous second evelope at Erap&#8217;s trial. Even the normally apathetic Engineering students were being woken out of their political stupor by outrage at the turn of events by the Estrada-friendly senators. Everywhere you go in UP, people would be asking you if you were coming to the big rally on EDSA.
 
 Today? Today, the conversations are like this:

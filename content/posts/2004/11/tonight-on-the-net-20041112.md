@@ -1,15 +1,15 @@
 ---
-title: Tonight On The Net 20041112
 author: Roy
-type: post
-date: 2004-11-12T13:50:42+00:00
-url: /2004/11/tonight-on-the-net-20041112/
 categories:
-  - Links
+- Links
+date: 2004-11-12 13:50:42
 format: link
-
+title: Tonight On The Net 20041112
+type: post
+url: /2004/11/tonight-on-the-net-20041112/
 ---
-  * Interesting read: There&#8217;s this [spouse of an EA developer ][1]who&#8217;s taking it to EA&#8217;s supposedly unfair labor practices on livejournal.
+
+* Interesting read: There&#8217;s this [spouse of an EA developer ][1]who&#8217;s taking it to EA&#8217;s supposedly unfair labor practices on livejournal.
   * Cool thing: A [chess program ][2]that shows you the computer&#8217;s train of thought!
   * [Interesting English Trivia ][3]&#8211; yes it&#8217;s geeky 😀
   * Tech news: [Winamp is dead, long live Winamp!

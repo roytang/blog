@@ -1,13 +1,15 @@
 ---
-title: 'Books: ABNKKBSKNPLAko? by Bob Ong'
 author: roy
-type: post
-date: 2005-02-01T05:06:00+00:00
-url: /2005/02/books-abnkkbsknplako-by-bob-ong/
 categories:
-  - Books
-
+- Pop Culture
+date: 2005-02-01 05:06:00
+tags:
+- Books
+title: 'Books: ABNKKBSKNPLAko? by Bob Ong'
+type: post
+url: /2005/02/books-abnkkbsknplako-by-bob-ong/
 ---
+
 Picked it up as an impulse buy from National Bookstore a couple of weeks ago. Anyone who grew up in the 80s will appreciate Bob Ong&#8217;s trip back to his elementary/high school/college days. His tales of school will ring true to anyone from around the same era; younger folk may not appreciate it so much. (My younger brother seems to have no idea what _Spin-a-win _is/was, although he is aware of SOS, Flames, etc.)
 
 The earlier parts of the book are mostly funny and/or amusing, detailing those silly little things that school kids tend to obsess with. The latter parts start to get serious once the author gets to his college years; he goes into serious stories of dropping out of college, taking a vocational course and eventually becoming a teacher, where the book comes full circle (and a bit preachy as well).

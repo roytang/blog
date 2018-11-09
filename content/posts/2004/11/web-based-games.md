@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-11-21 08:41:55
 title: Web-Based Games
 type: post
-date: 2004-11-21T08:41:55+00:00
 url: /2004/11/web-based-games/
-categories:
-  - Gaming
-
 ---
+
 The evolution of the web as a gaming platform seems to be coming along lately. With games often serving as pioneers into new frontiers, I believe this is merely signifying the trend of software products transforming into services instead of commodities.
 
 Anyway, what I mean to say is, I&#8217;ve been spending quite some time with web-based games lately. Mostly it&#8217;s the fantastic and funny web-based parody RPG

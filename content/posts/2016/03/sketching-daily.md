@@ -1,13 +1,13 @@
 ---
-title: Sketching Daily
 author: roy
-type: post
-date: 2016-03-15T15:39:33+00:00
-url: /2016/03/sketching-daily/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2016-03-15 15:39:33
+title: Sketching Daily
+type: post
+url: /2016/03/sketching-daily/
 ---
+
 I&#8217;ve had a bit more free time recently, and I&#8217;ve been filling that time by starting up some hobbies (some old, some new). One of them has been sketching. I&#8217;ve been drawing things for as long as I remember &#8211; I have elementary and high school notebooks with more doodles and x-men drawings than there are notes. And even at work, I often find other meeting participants checking out the random sketches I had been absently doing while other people were speaking.
 
 I started following this [subreddit SketchDaily][1]. What they do is they have a bot post a daily theme (submitted by other users) and users post their sketches for others&#8217; comments. &#8220;Sketches&#8221; is a wide-ranging term here, submissions can be anything &#8211; redditors will typically post sketches with a wide range of skillsets (some are beginners and some quite advanced) and mediums (some do real-life paper sketches or inked and colored drawings, others do digital stuff drawn on tablets or with photoshop).

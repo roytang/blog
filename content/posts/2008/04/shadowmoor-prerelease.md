@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-04-20 05:35:06
 title: Shadowmoor Prerelease
 type: post
-date: 2008-04-20T05:35:06+00:00
 url: /2008/04/shadowmoor-prerelease/
-categories:
-  - Magic the Gathering
-
 ---
+
 The prerelease was held last April 19 at Robinson&#8217;s Galleria. The last time I went 4-0 and won a shirt was Time Spiral prerelease. I have a good feeling about this one. Then I crack open the following sealed pool:
 
 <div class="decklist">

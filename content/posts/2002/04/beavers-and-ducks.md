@@ -1,13 +1,15 @@
 ---
-title: Beavers and Ducks
 author: Roy
-type: post
-date: 2002-04-01T04:00:11+00:00
-url: /2002/04/beavers-and-ducks/
 categories:
-  - Legacy Blog Posts
-
+- Just Another Day
+date: 2002-04-01 04:00:11
+tags:
+- Legacy Blog Posts
+title: Beavers and Ducks
+type: post
+url: /2002/04/beavers-and-ducks/
 ---
+
 April Fools day today. The [Gaming Intelligence Agency][1] says they&#8217;re shutting down, but it&#8217;s likely one of their famous AFD pranks.
 
 Board exams coming up next week, Tuesday and Wednesday. I need to borrow a calculator &#8212; the one I have isn&#8217;t on their list. I really should study more but for some reason I&#8217;m really confident. promises to study more

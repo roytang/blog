@@ -1,13 +1,13 @@
 ---
-title: Gloriagate – Notes on the PCIJ Transcript
 author: roy
-type: post
-date: 2005-07-10T15:31:00+00:00
-url: /2005/07/gloriagate-notes-on-the-pcij-transcript/
 categories:
-  - Philippines
-
+- Philippines
+date: 2005-07-10 15:31:00
+title: "Gloriagate \xE2\u20AC\u201C Notes on the PCIJ Transcript"
+type: post
+url: /2005/07/gloriagate-notes-on-the-pcij-transcript/
 ---
+
 I was going to ahead and break my blog silence on the whole Gloriagate thing, but I realized I should read the [whole transcript at PCIJ][1] first, boring as it is. That way, I can at least say I&#8217;m basing my opinions on known facts unlike roughly 90% of the rest of the participants in this debacle.
 
 I went through it in about thirty minutes, skimming most and picking out only the parts that seemed most interesting, and skipping anything that was too vague or that I didn&#8217;t strictly understand the mechanics of.

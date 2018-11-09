@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2008-05-12 20:00:00
 title: Creating a WordPress Template Part 3
 type: post
-date: 2008-05-12T20:00:00+00:00
 url: /2008/05/creating-a-wordpress-template-part-3/
-categories:
-  - Software Development
-
 ---
+
 [
     
 Part 1

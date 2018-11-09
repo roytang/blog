@@ -1,13 +1,13 @@
 ---
-title: Hearthstone vs MTG
 author: roy
-type: post
-date: 2016-05-31T07:49:54+00:00
-url: /2016/05/hearthstone-vs-mtg/
 categories:
-  - Gaming
-
+- Gaming
+date: 2016-05-31 07:49:54
+title: Hearthstone vs MTG
+type: post
+url: /2016/05/hearthstone-vs-mtg/
 ---
+
 <figure id="attachment_1247" style="width: 601px" class="wp-caption aligncenter">[<img class="size-full wp-image-1247" src="http://roytang.net/wp-content/uploads/2016/05/strength.png" alt="Totally different yo" width="601" height="392" srcset="https://roytang.net/wp-content/uploads/2016/05/strength.png 601w, https://roytang.net/wp-content/uploads/2016/05/strength-300x196.png 300w, https://roytang.net/wp-content/uploads/2016/05/strength-460x300.png 460w" sizes="(max-width: 601px) 100vw, 601px" />][1]<figcaption class="wp-caption-text">Totally different yo</figcaption></figure> 
 
 I am of course a long-time [Magic the Gathering][2] player. Over the past year or so I&#8217;ve also been playing Blizzard&#8217;s digital CCG [Hearthstone][3] (limiting myself to free to play since who has money to spend on two CCGs?) and I&#8217;ve been thinking about the design parallels and differences between the two. If you&#8217;re a Hearthstone player, you&#8217;ve probably read a lot of these things before, since many well-known pros play both MTG and HS. This is written more towards the Magic player in mind to get to know Hearthstone.

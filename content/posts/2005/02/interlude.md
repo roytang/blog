@@ -1,13 +1,13 @@
 ---
-title: Interlude
 author: roy
-type: post
-date: 2005-02-14T13:29:00+00:00
-url: /2005/02/interlude/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-02-14 13:29:00
+title: Interlude
+type: post
+url: /2005/02/interlude/
 ---
+
 <div>
   sometimes i just feel<br /> so out of my world<br /> an ordinary guy in love<br /> with an extraordinary girl
 </div>

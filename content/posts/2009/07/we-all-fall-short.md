@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-07-02 12:06:11
 title: We All Fall Short
 type: post
-date: 2009-07-02T12:06:11+00:00
 url: /2009/07/we-all-fall-short/
-categories:
-  - Magic the Gathering
-
 ---
+
 I haven&#8217;t been posting tournament reports lately, because frankly I haven&#8217;t been performing very well lately. Here are my last month and a half&#8217;s worth of results:
 
   * May 23/GPT Bangkok #1 (SCR sealed): 0-2 drop

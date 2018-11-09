@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-09-27 09:52:06
 title: Zendikar Prerelease and Limited Impressions
 type: post
-date: 2009-09-27T09:52:06+00:00
 url: /2009/09/zendikar-prerelease-and-limited-impressions/
-categories:
-  - Magic the Gathering
-
 ---
+
 As you might have heard, there was a helluva storm in the Philippines yesterday, and I was pretty much stuck at the [Titan Hobby Shop][1] for most of the day. Luckily, that meant I get to play in the Zendikar prerelease.
 
 My Zendikar prerelease record: 1-3 =/ I had a decent pool and went with a UW build, but I played too loosely and the stars just weren&#8217;t aligned. My pool was very bad value-wise as well, having mostly &#8220;nice&#8221; rares like [Lullmage Mentor][2] and [Lorthos, the Tidemaker][3]. 

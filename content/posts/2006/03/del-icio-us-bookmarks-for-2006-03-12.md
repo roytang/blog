@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-03-12
 author: roy
-type: post
-date: 2006-03-12T18:00:01+00:00
-url: /2006/03/del-icio-us-bookmarks-for-2006-03-12/
 categories:
-  - Links
+- Links
+date: 2006-03-12 18:00:01
 format: link
-
+title: Del.icio.us bookmarks for 2006-03-12
+type: post
+url: /2006/03/del-icio-us-bookmarks-for-2006-03-12/
 ---
+
 Shared bookmarks for [del.icio.us][1] user [roytang ][2]on 2006-03-12
 
   * [WordPress &#8211; USB

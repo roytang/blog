@@ -1,13 +1,13 @@
 ---
-title: My Coding Approach
 author: roy
-type: post
-date: 2017-12-28T01:00:38+00:00
-url: /2017/12/my-coding-approach/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-12-28 01:00:38
+title: My Coding Approach
+type: post
+url: /2017/12/my-coding-approach/
 ---
+
 I was thinking about my typical approach to coding. When writing a new feature, I tend to implement in the direction of where the data flows, starting from the user interface then to the backend and back to the frontend and wherever else that goes. I will build incrementally, using debugging tools or console printouts to ensure that each step is working correctly.
 
 As an example, here&#8217;s how I did a recent web-based function:

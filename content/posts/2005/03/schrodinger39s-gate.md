@@ -1,13 +1,13 @@
 ---
-title: 'Schrodinger&#39;s Gate'
 author: Roy
-type: post
-date: 2005-03-20T09:07:00+00:00
-url: /2005/03/schrodinger39s-gate/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-03-20 09:07:00
+title: Schrodinger&#39;s Gate
+type: post
+url: /2005/03/schrodinger39s-gate/
 ---
+
 An actual conversation I had this morning, as my brother Alvin and I were on our way back home (by foot) from somewhere. (Paraphrased somewhat, mostly because we don&#8217;t really speak in English all the time.)
 
 Alvin: Shall we take the shortcut through the seminary? Do you think the gate is open?

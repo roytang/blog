@@ -1,13 +1,13 @@
 ---
-title: Pack Rat Mentality
 author: Roy
-type: post
-date: 2007-12-28T04:59:12+00:00
-url: /2007/12/pack-rat-mentality/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-12-28 04:59:12
+title: Pack Rat Mentality
+type: post
+url: /2007/12/pack-rat-mentality/
 ---
+
 Every year I do an end-of-year cleanup of my stuff. (I try to at least) Somehow there always seem to be so many CDs/DVDs/books/comics to sort up and shelf or sleeve or whatnot. I&#8217;m growing tired of it all.
 
 The other day I was planning to backup everything on my computer to DVD when I realized I was just adding more to the pile. I&#8217;m not sure if there&#8217;s any important reason to backup all the episodes I&#8217;ve been watching to DVD when I&#8217;ve already watched them all. Of course the argument can be made that it makes it easier to lend out to people, but truth be told there are a lot of people I know who already have such copies so my keeping backups is just redundant. And it&#8217;s not like the world would end if someone wasn&#8217;t able to borrow the last season of Heroes off me.

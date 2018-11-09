@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-03-28 23:44:53
 title: Standard on Mar 28
 type: post
-date: 2009-03-28T23:44:53+00:00
 url: /2009/03/standard-on-mar-28/
-categories:
-  - Magic the Gathering
-
 ---
+
 Finally getting back into constructed play, I assembled the following 5-color control deck to bring to battle this weekend:
 
 <div class="decklist_wrap">

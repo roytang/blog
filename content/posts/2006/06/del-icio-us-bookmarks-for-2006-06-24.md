@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-06-24
 author: Roy
-type: post
-date: 2006-06-24T18:00:02+00:00
-url: /2006/06/del-icio-us-bookmarks-for-2006-06-24/
 categories:
-  - Links
+- Links
+date: 2006-06-24 18:00:02
 format: link
-
+title: Del.icio.us bookmarks for 2006-06-24
+type: post
+url: /2006/06/del-icio-us-bookmarks-for-2006-06-24/
 ---
+
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-06-24
 
   *  [How to Report Bugs Effectively

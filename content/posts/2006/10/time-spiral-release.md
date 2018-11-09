@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2006-10-08 04:04:46
 title: Time Spiral Release
 type: post
-date: 2006-10-08T04:04:46+00:00
 url: /2006/10/time-spiral-release/
-categories:
-  - Magic the Gathering
-
 ---
+
 I left work early yesterday with the intent of playing in the Time Spiral release tourney at Galleria. The product arrived late though, and Switch and I had to wander around Galleria for half a day before the tourney was able to begin.
 
 As witnessed in the prerelease, Time Spiral seems to be immensely popular, which means high demand and low supply of boosters for the general public. And for good reason: Time Spiral is awesome, and provides an incredibly fun (and sometimes technical) limited environment. What it will do for Standard is another matter, but since I&#8217;m primarily a limited player&#8230;

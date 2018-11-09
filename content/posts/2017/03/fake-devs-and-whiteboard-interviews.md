@@ -1,13 +1,13 @@
 ---
-title: Fake Devs and Whiteboard Interviews
 author: roy
-type: post
-date: 2017-03-09T01:30:55+00:00
-url: /2017/03/fake-devs-and-whiteboard-interviews/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-03-09 01:30:55
+title: Fake Devs and Whiteboard Interviews
+type: post
+url: /2017/03/fake-devs-and-whiteboard-interviews/
 ---
+
 Recently, a developer needed to undergo a tech interview at US immigration:[
   
 ][1] 

@@ -1,13 +1,13 @@
 ---
-title: Nuns and Earthquakes
 author: roy
-type: post
-date: 2005-04-13T15:07:00+00:00
-url: /2005/04/nuns-and-earthquakes/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-04-13 15:07:00
+title: Nuns and Earthquakes
+type: post
+url: /2005/04/nuns-and-earthquakes/
 ---
+
 Some weirdness today.
 
 Around 4PM, word spread through the office that some sort of psychic nun had predicted an intensity nine earthquake today at 5PM. (This fantastic prediction came through SMS of course. Despite my not having a cellphone, I am not outside its&#8217; influence.) Since we work on a rather high floor, an earthquake would be very bad &#8482; from us. Of course, nobody took it seriously, although I suspect some wanted to take the opportunity to dodge some work. It&#8217;s ridiculous after all. There&#8217;s no real way to predict an earthquake will strike at a certain time.

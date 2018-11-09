@@ -1,15 +1,15 @@
 ---
-title: Gladwell and Risk Management
 author: roy
-type: post
-date: 2018-10-25T13:00:02+00:00
-url: /2018/10/gladwell-and-risk-management/
 categories:
-  - Software Development
+- Software Development
+date: 2018-10-25 13:00:02
 tags:
-  - risk-management
-
+- risk-management
+title: Gladwell and Risk Management
+type: post
+url: /2018/10/gladwell-and-risk-management/
 ---
+
 Malcolm Gladwell, in [an article from 1996 discussing the Challenger disaster][1], tells us:
 
 > This kind of disaster is what the Yale University sociologist Charles Perrow has famously called a "normal accident." By "normal" Perrow does not mean that it is frequent; he means that it is the kind of accident one can expect in the normal functioning of a technologically complex operation. Modern systems, Perrow argues, are made up of thousands of parts, all of which interrelate in ways that are impossible to anticipate. Given that complexity, he says, it is almost inevitable that some combinations of minor failures will eventually amount to something catastrophic.

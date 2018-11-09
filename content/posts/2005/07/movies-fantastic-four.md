@@ -1,13 +1,15 @@
 ---
-title: 'Movies: Fantastic Four'
 author: roy
-type: post
-date: 2005-07-10T16:14:00+00:00
-url: /2005/07/movies-fantastic-four/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2005-07-10 16:14:00
+tags:
+- Movies
+title: 'Movies: Fantastic Four'
+type: post
+url: /2005/07/movies-fantastic-four/
 ---
+
 One word: Suxxor.
 
 Well, not really. It&#8217;s okay I guess. When I first heard they were making a Fantastic Four movie, my first reaction was, &#8220;Uh&#8230;that can&#8217;t be good.&#8221;

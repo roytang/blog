@@ -1,13 +1,13 @@
 ---
-title: 'Pinoy Culture: Thank God It’s Over'
 author: Roy
-type: post
-date: 2004-06-27T04:55:38+00:00
-url: /2004/06/pinoy-culture-thank-god-it39s-over/
 categories:
-  - Philippines
-
+- Philippines
+date: 2004-06-27 04:55:38
+title: "Pinoy Culture: Thank God It's Over"
+type: post
+url: /2004/06/pinoy-culture-thank-god-it39s-over/
 ---
+
 &#8230;that disgraceful slow-count of an election canvass that is. I can&#8217;t help but wonder whether anyone actually bothered to follow the last few days of the canvassing on TV&#8230;I mean, the proceedings are boring as hell! You know what would have been better for the country as a whole? When I saw a small portion of it, the only thing I could think of was that we should have WWE&#8217;s The Rock on the National Board of Canvassers! I know he&#8217;s no Filipino, much less a Senator, but he can be like guest chairman for a day or something. I can see it now&#8230;
 
 * * *

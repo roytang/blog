@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2009-01-04 14:56:07
 title: Valkyria Chronicles
 type: post
-date: 2009-01-04T14:56:07+00:00
 url: /2009/01/valkyria-chronicles/
-categories:
-  - Gaming
-
 ---
+
 Finally finished Valkyria Chronicles last Saturday, clocking in at around 25 hours. Quick Review:
 
   * Beautiful, beautiful game, even on my SD TV; it&#8217;s like watching a flowing watercolor painting

@@ -1,13 +1,13 @@
 ---
-title: Write Smarter, Not Harder
 author: roy
-type: post
-date: 2017-02-21T01:30:57+00:00
-url: /2017/02/write-smarter-not-harder/
 categories:
-  - Writing
-
+- Writing
+date: 2017-02-21 01:30:57
+title: Write Smarter, Not Harder
+type: post
+url: /2017/02/write-smarter-not-harder/
 ---
+
 There&#8217;s this well-known idea that it takes ten thousand hours of practice to become an expert in something. But of course, it has to be ten thousand _meaningful_ hours of practice. Meaningful here means that you are actually learning something from your practice. If you are repeating the same hour ten thousand times, that&#8217;s not worth very much.
 
 Instead, we should be actively learning while we practice. This means identifying our weak points and learning how we can improve. It requires that we have a feedback loop that tells us whether we are doing well or not. It also means taking on bigger and more challenging tasks. Only then can we walk the path to expertise.

@@ -1,13 +1,13 @@
 ---
-title: The Secrets to Perfect Estimates
 author: roy
-type: post
-date: 2016-08-25T01:30:43+00:00
-url: /2016/08/the-secrets-to-perfect-estimates/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-08-25 01:30:43
+title: The Secrets to Perfect Estimates
+type: post
+url: /2016/08/the-secrets-to-perfect-estimates/
 ---
+
 Estimation is hard. Estimation has long been the bane of many software developers and software development projects. But there are two secret ways to be able to produce perfect estimates for software development work all the time! One is dependent on talent, and the other is dependent on technology
 
   1. Psychic precognition, i.e. be able to predict the future

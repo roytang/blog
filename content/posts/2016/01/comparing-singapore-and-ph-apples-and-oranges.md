@@ -1,13 +1,13 @@
 ---
-title: 'Comparing Singapore and PH: Apples and Oranges'
 author: roy
-type: post
-date: 2016-01-13T03:04:31+00:00
-url: /2016/01/comparing-singapore-and-ph-apples-and-oranges/
 categories:
-  - Philippines
-
+- Philippines
+date: 2016-01-13 03:04:31
+title: 'Comparing Singapore and PH: Apples and Oranges'
+type: post
+url: /2016/01/comparing-singapore-and-ph-apples-and-oranges/
 ---
+
 &nbsp;
 
 (Originally posted on Facebook)

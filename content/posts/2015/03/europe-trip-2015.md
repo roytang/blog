@@ -1,13 +1,13 @@
 ---
-title: Europe Trip 2015
 author: roy
-type: post
-date: 2015-03-28T01:20:46+00:00
-url: /2015/03/europe-trip-2015/
 categories:
-  - Travels
-
+- Travels
+date: 2015-03-28 01:20:46
+title: Europe Trip 2015
+type: post
+url: /2015/03/europe-trip-2015/
 ---
+
 My friends know how stingy I am with money, and my family knows I&#8217;m not much of a tourist, so some might have been surprised that I took the better part of two and a half weeks off from work to travel around Europe with a couple of friends. It was my first trip outside of Southeast Asia and the first time I took a long haul flight. Other than my concerns regarding the possibility of my luggage getting lost, the trip was relatively smooth and the Singapore Airlines plane had relatively decent food, service and in-flight entertainment.
 
 The first leg of our trip was to Barcelona, Spain (aside from the layover in Singapore). My first impression of Barcelona (and hence my first impression of Europe) was that it was a very&#8230; brown city. Most of the buildings were shades of red or brown. Barcelona felt quiet, maybe even rustic. There were a lot of wide-open spaces making it very friendly for walking, with most of the city center structured in well-organised square blocks that made it easy to navigate. The first few days of the trip were very relaxed, we walked around a lot looking at ornately-decorated buildings and hitting the occasional tourist spot like Sagrada Familia and Park Guell. We even managed to do poorly at a pub quiz somewhere in between.

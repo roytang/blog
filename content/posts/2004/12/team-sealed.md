@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2004-12-06 13:59:44
 title: Team Sealed!
 type: post
-date: 2004-12-06T13:59:44+00:00
 url: /2004/12/team-sealed/
-categories:
-  - Magic the Gathering
-
 ---
+
 > _
     
 > Mike: I thought you were broke?

@@ -1,13 +1,13 @@
 ---
-title: A Giant Hammer
 author: roy
-type: post
-date: 2005-01-24T13:20:55+00:00
-url: /2005/01/a-giant-hammer/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-01-24 13:20:55
+title: A Giant Hammer
+type: post
+url: /2005/01/a-giant-hammer/
 ---
+
 [
   
 ![giant hammer][1]

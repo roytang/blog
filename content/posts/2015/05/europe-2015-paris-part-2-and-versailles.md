@@ -1,13 +1,13 @@
 ---
-title: 'Europe 2015: Paris Part, Versailles and Barcelona Again'
 author: roy
-type: post
-date: 2015-05-30T16:13:53+00:00
-url: /2015/05/europe-2015-paris-part-2-and-versailles/
 categories:
-  - Travels
-
+- Travels
+date: 2015-05-30 16:13:53
+title: 'Europe 2015: Paris Part, Versailles and Barcelona Again'
+type: post
+url: /2015/05/europe-2015-paris-part-2-and-versailles/
 ---
+
 _Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Rome and Vatican City][4] | [Rome Part 2 and Paris Part 1][5]_
 
 This series of posts has taken longer than I thought it would, and I grow weary on it. We&#8217;ll cover things a bit faster from here, less of the daily stuff and we&#8217;ll stick to the highlights. This will be the final entry!

@@ -1,13 +1,13 @@
 ---
-title: Mentoring in Software Development
 author: roy
-type: post
-date: 2018-10-15T01:00:34+00:00
-url: /2018/10/mentoring-in-software-development/
 categories:
-  - Software Development
-
+- Software Development
+date: 2018-10-15 01:00:34
+title: Mentoring in Software Development
+type: post
+url: /2018/10/mentoring-in-software-development/
 ---
+
 Mentoring is one of those tasks that&#8217;s to be expected of anyone in a senior software development role. This usually involves reviewing other people&#8217;s code, helping them with tough technical issues, and even giving career advice. 
 
 I&#8217;m not sure how good I am when it comes to mentoring other software developers. When I first became technical lead on projects, I got some evaluations from junior developers saying I can be &#8220;intimidating&#8221;. I think it comes from the fact that I have a natural tendency towards being snarky and being annoyed at bad code. It&#8217;s something I&#8217;m trying to improve, and while I&#8217;ll never be cuddly, I think I&#8217;ve made some great strides in being approachable and in advice-giving. I do try to be accommodating and I&#8217;m always willing to help anyone who asks for it.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-08-03 13:54:33
 title: 'GPT Bangkok #4 *1st*'
 type: post
-date: 2009-08-03T13:54:33+00:00
 url: /2009/08/gpt-bangkok-4-1st/
-categories:
-  - Magic the Gathering
-
 ---
+
 [Grand Prix Bangkok][1] happens three weekends from now, and I&#8217;ve already booked the flight and hotel. All I need now are byes!
 
 The fourth GPT here was yesterday, Sunday Aug 2 at Robinson&#8217;s Galleria. The format is M10 Sealed and I found myself faced with the following sealed pool:

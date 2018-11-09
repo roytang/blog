@@ -1,13 +1,13 @@
 ---
-title: Legazpi, Albay
 author: Roy
-type: post
-date: 2008-01-21T05:13:21+00:00
-url: /2008/01/legazpi-albay/
 categories:
-  - Travels
-
+- Travels
+date: 2008-01-21 05:13:21
+title: Legazpi, Albay
+type: post
+url: /2008/01/legazpi-albay/
 ---
+
 Traveling by land sucks compared to traveling by plane. So for our weekend trip to Albay to visit our new sister-in-law&#8217;s family, I booked 3 two-way Cebu Pacific tickets for my brothers and myself. Our parents would take the bus since it was slightly cheaper and they didn&#8217;t mind sleeping on the road. The other reason was that my two brothers had never ridden a plane before &#8211; this would be their first time. First domestic flight for me as well. As expected, they were excited like giddy shoolboys, taking pictures on the way up the plane and leaning towards the window and all that.
 
 I suppose it was to be expected, but the airport in Legazpi was a far cry from the Manila one. Practically a strip of road labeled as the runway and a small building labeled a terminal. The flight itself was fine but obviously budget. I have been spoiled by PAL. And of course the view of Legazpi City was a lot more green than Metro Manila.

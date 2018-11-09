@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-12-08 06:35:47
 title: Standard @ NG Galleria 24-Nov-2007
 type: post
-date: 2007-12-08T06:35:47+00:00
 url: /2007/12/standard-ng-galleria-24-nov-2007/
-categories:
-  - Magic the Gathering
-
 ---
+
 Yeah, I post these late, I&#8217;m a busy man. But I want to have a record so here we go. Same deck as
    
 [

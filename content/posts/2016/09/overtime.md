@@ -1,13 +1,13 @@
 ---
-title: Overtime
 author: roy
-type: post
-date: 2016-09-15T01:30:48+00:00
-url: /2016/09/overtime/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-09-15 01:30:48
+title: Overtime
+type: post
+url: /2016/09/overtime/
 ---
+
 Overtime in software development projects seems to be a given. Sure, there are projects and companies that don&#8217;t need it, but those feel like the exception rather than the norm
 
 Overtime in software development is a natural consequence of [schedule pressure][1] and the fact that [estimation is hard][2], which is why it&#8217;s understandably common, but that doesn&#8217;t mean we shouldn&#8217;t try to avoid it

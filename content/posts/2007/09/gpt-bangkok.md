@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-09-01 17:49:26
 title: GPT Bangkok
 type: post
-date: 2007-09-01T17:49:26+00:00
 url: /2007/09/gpt-bangkok/
-categories:
-  - Magic the Gathering
-
 ---
+
 Yeah, I actually did play at the Standard Open at Trinoma Mall a couple of weekends ago, but my performance was so piss-poor I didn&#8217;t bother writing a report. Long and short of it, I played Rakdos, but didn&#8217;t have time to look for Rain of Gores for the board. They would have really helped against the two Angelfire losses I got in rounds 3 and 5, including the one where the opponent drew all four Lightning Helixes :/ The decks record against Angelfire decks is something 1-3 I believe. Good ol&#8217; Dark Confidant even dealt me 20 damage in one game. I think I had the Hit/Run + Dark Confidant thing happen to me twice. Anyway, after an additional rounds 6 loss to MGA, I just packed it in and went home to sleep.
 
 But this report is not about that disaster at the Philippine Open, this is about a tournament I actually believed I was better suited for. GPT Bangkok &#8211; the format is Time Spiral block Sealed Deck. Since Invasion Block, I&#8217;ve always been more of a casual limited player (isn&#8217;t that weird?), opening boxes and playing drafts with some friends in a casual atmosphere usually punctuated by random late-night trips to Wendy&#8217;s. And I&#8217;ve always loved Sealed Deck, because it&#8217;s a lot more &#8220;casual&#8221; than draft where in addition to the usual skill-testers of deck construction and actual gameplay, there&#8217;s the added pressure of having to choose what cards will be in your pool! Sealed deck is nice and easy. I heard one player remark that Sealed Deck is more luck than skill, since how well you perform largely depends on what bombs you open. That&#8217;s more or less true, but I&#8217;ve developed a special ability I like to call &#8220;the ability to win without bombs.&#8221;

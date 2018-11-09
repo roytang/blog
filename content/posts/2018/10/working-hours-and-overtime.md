@@ -1,14 +1,14 @@
 ---
-title: Working hours and overtime
 author: roy
-type: post
-date: 2018-10-19T01:00:22+00:00
-url: /2018/10/working-hours-and-overtime/
 categories:
-  - Gaming
-  - Software Development
-
+- Gaming
+- Software Development
+date: 2018-10-19 01:00:22
+title: Working hours and overtime
+type: post
+url: /2018/10/working-hours-and-overtime/
 ---
+
 Rockstar was in the gaming news recently because they mentioned that some of them had [worked 100-hour weeks][1] on their massive sequel to Red Dead Redemption coming out soon (no idea if I&#8217;ll play this). The idea of 100 hour weeks seemed insane to me, and it got me thinking: I&#8217;ve done some serious overtime before, have I ever gotten close to that amount of work in a week?
 
 Luckily, I didn&#8217;t have to speculate too much, because I had data (I love data). My previous employer had us track and log our work hours, and I had kept a copy of my own data after I left. That&#8217;s working hours from 2003-2015. I crunched the numbers and I found that:

@@ -1,13 +1,13 @@
 ---
-title: When Your Wallet Gets Stolen
 author: Roy
-type: post
-date: 2009-12-28T07:21:22+00:00
-url: /2009/12/when-your-wallet-gets-stolen/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2009-12-28 07:21:22
+title: When Your Wallet Gets Stolen
+type: post
+url: /2009/12/when-your-wallet-gets-stolen/
 ---
+
 _December 17th. It was around 10pm, I was getting off the bus carrying a box of ensaymada in my right hand and using my left hand to make my way down the crowded aisle despite the speed and turbulence of the bus ride. As I alighted off the bus, I felt movement in my left pants pocket, where my wallet was. As soon as my left hand was free I checked to find my wallet missing and looked back accusingly at the mass of unfamiliar faces crowded along the door of the bus. One man whose face I couldn&#8217;t see extended an arm and pointed out into the crowd. There&#8217;s a man running, he said, that&#8217;s who you&#8217;re looking for. I look around like an idiot, and the bus goes on its way. There was no running man, my wallet was lost._
 
 I later learned from a couple of other people that it was a known modus operandi. Simply, a group of around ten guys rides a crowded bus and they all stand around near the exit, waiting for victims, ones who look distracted and are thus easy prey. This sort of thing seems to happen a lot around Christmas season.

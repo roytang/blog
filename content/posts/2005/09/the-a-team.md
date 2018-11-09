@@ -1,13 +1,15 @@
 ---
-title: The A-Team!
 author: roy
-type: post
-date: 2005-09-05T03:29:00+00:00
-url: /2005/09/the-a-team/
 categories:
-  - TV Series
-
+- Pop Culture
+date: 2005-09-05 03:29:00
+tags:
+- TV Series
+title: The A-Team!
+type: post
+url: /2005/09/the-a-team/
 ---
+
 My hiatus involves quite a bit of TV of course, especially since I get some idle time while waiting for installations/formatting/downloads to finish. Today, for the first time in maybe twenty years, I saw an exciting action-packed episode of the A-Team!
 
 For those not in the know, the A-Team was a bunch of rogue ex-commandos who usually acted as mercs, fighting for good, beating bad guys and saving the day. In the parlance of Roland of Gilead, gunslingers.

@@ -1,14 +1,14 @@
 ---
-title: Sweet Sweet Vacation Time
 author: Roy
-type: post
-date: 2004-05-12T05:17:51+00:00
-url: /2004/05/sweet-sweet-vacation-time/
 categories:
-  - Just Another Day
-  - Tech Life
-
+- Just Another Day
+- Tech Life
+date: 2004-05-12 05:17:51
+title: Sweet Sweet Vacation Time
+type: post
+url: /2004/05/sweet-sweet-vacation-time/
 ---
+
 God, it feels good to be goofing off. After having to spend six days in HK (well, more like five-and-a-half, more on that later) and then proceeding to conduct SQL training sessions for the latest batch of recruits, I was kinda tired and stressed out from work. Good thing I had the common sense to file for two days leave after the elections last Monday; don&#8217;t have to come in &#8217;til tomorrow.
 
 Not that I&#8217;m using the free time for anything sensible mind you. In fact, most people would probably consider it a serious waste of vacation leave. But hey, I like to goof off! In between [Warcraft III ][1]sessions, random internet surfing, constant reloading of the [Inquirer website ][2](to see the latest Namfrel quick-count figures of course), and reading through a couple of CDs worth of comics copied from Mon last Monday, I did manage to clean up my room somewhat.

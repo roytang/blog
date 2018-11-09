@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2006-05-20 23:17:30
 title: Developer Assessment
 type: post
-date: 2006-05-20T23:17:30+00:00
 url: /2006/05/developer-assessment/
-categories:
-  - Software Development
-
 ---
+
 I always have a hard time assessing fellow developers.
 
 For one thing, I&#8217;m never sure whether it&#8217;s fair to apply to other people the same internal standard I have for myself. Some people might say, &#8220;of course it&#8217;s fair to expect as much from other people as yourself!&#8221;, but the fact is that I&#8217;m not even sure if I expect too much from myself. I may like to project and arrogant and prideful exterior, but I&#8217;m extremely self-critical. I feel that many of the problems in our current project have been caused directly by my own lack of experience in handling techincal design decisions. However, my own perceptions contrast with the assessments I get from my peers. I&#8217;m neither kidding nor trying to brag here&#8230;I&#8217;ve actually had assessment sessions where the phrases &#8220;idolize&#8221; and &#8220;would like to follow his career path&#8221; were used. I&#8217;m not sure if I&#8217;m being buttered up or my expectations of myself are really that far out of sync with the world&#8230;

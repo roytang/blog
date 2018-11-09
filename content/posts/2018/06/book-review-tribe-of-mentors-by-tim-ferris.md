@@ -1,14 +1,16 @@
 ---
-title: 'Book Review: Tribe of Mentors by Tim Ferris'
 author: roy
-type: post
-date: 2018-06-17T01:00:03+00:00
-url: /2018/06/book-review-tribe-of-mentors-by-tim-ferris/
 categories:
-  - Books
-  - Self-Improvement
-
+- Pop Culture
+- Self-Improvement
+date: 2018-06-17 01:00:03
+tags:
+- Books
+title: 'Book Review: Tribe of Mentors by Tim Ferris'
+type: post
+url: /2018/06/book-review-tribe-of-mentors-by-tim-ferris/
 ---
+
 This book was on sale on Amazon Kindle a while back, I figured I&#8217;d give it a whirl. Some years ago I had read one of the author&#8217;s previous books, _The Four Hour Workweek_, and I wasn&#8217;t too impressed. It was interesting at least, but a lot of the advice seemed either difficult to apply to my personal situation or involved doing stuff I wasn&#8217;t really interested in (i.e. sales and marketing and whatnot). But this new book intrigued me &#8211; it&#8217;s a collection of life advice from &#8220;mentors&#8221;, basically successful people from a wild variety of fields including entrepreneurs, celebrities, venture capitalists, athletes, chefs, scholars, bloggers, authors, and so on. I&#8217;m always a sucker for this sort of thing &#8211; even if I don&#8217;t learn anything myself personally, it&#8217;s always interesting to learn how other people approach life. Spoilers: I enjoyed the book.
 
 There&#8217;s some common themes that are often repeated among the different mentors in the book:

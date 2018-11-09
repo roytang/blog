@@ -1,13 +1,13 @@
 ---
-title: Debating On The Internet
 author: roy
-type: post
-date: 2016-05-24T00:30:51+00:00
-url: /2016/05/debating-on-the-internet/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-05-24 00:30:51
+title: Debating On The Internet
+type: post
+url: /2016/05/debating-on-the-internet/
 ---
+
 Relevant XKCD:
 
 [<img class="alignnone" src="http://imgs.xkcd.com/comics/duty_calls.png" width="300" height="330" />][1]

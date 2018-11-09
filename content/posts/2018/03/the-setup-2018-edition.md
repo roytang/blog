@@ -1,15 +1,15 @@
 ---
-title: The Setup 2018 Edition
 author: roy
-type: post
-date: 2018-03-15T01:00:18+00:00
-url: /2018/03/the-setup-2018-edition/
 categories:
-  - Gaming
-  - Software Development
-  - Tech Life
-
+- Gaming
+- Software Development
+- Tech Life
+date: 2018-03-15 01:00:18
+title: The Setup 2018 Edition
+type: post
+url: /2018/03/the-setup-2018-edition/
 ---
+
 While browsing through my old blog posts, I found one about [my setup from 2010][1]. I figured it was a good time to do an update. I like doing posts like these because it provides an easy reference for me to look back and see what I was working with at a certain point in time.
 
 ### What Hardware Do I Use?

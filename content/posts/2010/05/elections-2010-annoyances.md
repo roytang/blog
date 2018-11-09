@@ -1,13 +1,13 @@
 ---
-title: Elections 2010 – Annoyances
 author: Roy
-type: post
-date: 2010-05-10T02:15:38+00:00
-url: /2010/05/elections-2010-annoyances/
 categories:
-  - Philippines
-
+- Philippines
+date: 2010-05-10 02:15:38
+title: "Elections 2010 \xE2\u20AC\u201C Annoyances"
+type: post
+url: /2010/05/elections-2010-annoyances/
 ---
+
 Expect long lines, hot and sweaty rooms and maybe disorganized Comelec. Here are some other annoyances I encountered (just a quick brain dump):
 
   1. The Comelec BEI and volunteers may be uncoordinated. I went to a waiting room at the first floor and got a number and was told to wait for my batch of 10 to be sent to the voting room at the second floor. After about an hour, we found out the voting room wasn&#8217;t aware numbers were being given out and had let some people start voting already. We went upstairs flailing like an angry mob and were fortunately given priority.

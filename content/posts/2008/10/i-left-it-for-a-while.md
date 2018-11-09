@@ -1,14 +1,14 @@
 ---
-title: I left it for a while…
-type: post
-date: 2008-10-24T06:54:00+00:00
-url: /2008/10/i-left-it-for-a-while/
 categories:
-  - Software Development
+- Software Development
+date: 2008-10-24 06:54:00
 tags:
-  - royondjango
-
+- royondjango
+title: "I left it for a while\xE2\u20AC\xA6"
+type: post
+url: /2008/10/i-left-it-for-a-while/
 ---
+
 &#8230;and now it works!
 
 [

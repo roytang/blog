@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-04-02
 author: Roy
-type: post
-date: 2006-04-02T18:00:02+00:00
-url: /2006/04/del-icio-us-bookmarks-for-2006-04-02/
 categories:
-  - Links
+- Links
+date: 2006-04-02 18:00:02
 format: link
-
+title: Del.icio.us bookmarks for 2006-04-02
+type: post
+url: /2006/04/del-icio-us-bookmarks-for-2006-04-02/
 ---
+
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-04-02
 
   * [Why specs matter [dive into mark]

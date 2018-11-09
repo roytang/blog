@@ -1,15 +1,16 @@
 ---
-title: Sony 4K HDR Bravia X8000D
 author: roy
-type: post
-date: 2017-03-08T15:59:10+00:00
-url: /2017/03/sony-4k-hdr-bravia-x8000d/
 categories:
-  - Hardware
-  - Review
-  - Tech Life
-
+- Tech Life
+date: 2017-03-08 15:59:10
+tags:
+- Hardware
+- Review
+title: Sony 4K HDR Bravia X8000D
+type: post
+url: /2017/03/sony-4k-hdr-bravia-x8000d/
 ---
+
 4k XLocal tech blog YugaTech is doing a [giveaway of a Sony X8000D Bravia 4K TV][1]. To be honest&nbsp;I wasn&#8217;t sure about using this blog to participate in a promo, but I was already in the market for a new TV since our&nbsp;living room TV is already starting to have some problems.
 
 I checked out the [product features of the Sony X8000D Bravia on their website][2]. Some of the features stood out for me specifically:

@@ -1,14 +1,15 @@
 ---
-title: 'Review: Xenoblade Chronicles X'
 author: roy
-type: post
-date: 2016-12-30T00:44:30+00:00
-url: /2016/12/review-xenoblade-chronicles-x/
 categories:
-  - Gaming
-  - Review
-
+- Gaming
+date: 2016-12-30 00:44:30
+tags:
+- Review
+title: 'Review: Xenoblade Chronicles X'
+type: post
+url: /2016/12/review-xenoblade-chronicles-x/
 ---
+
 Just in time for the end of the year, I finally finished Xenoblade Chronicles X, which I started playing around the first week of August (5 months!), with 120+ hours of game time. The game doesn&#8217;t have the best graphics (WiiU, etc), but I really like how it looks and how the world is built and all the different environments and the weird and sometimes absurdly large beasts.
 
 <img class="alignnone size-full" src="http://i.imgur.com/KnpoEd3.png" width="1280" height="720" />

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-04-22 04:05:16
 title: Future Sight Prerelease
 type: post
-date: 2007-04-22T04:05:16+00:00
 url: /2007/04/future-sight-prerelease/
-categories:
-  - Magic the Gathering
-
 ---
+
 A bit lazy today, just a quick summary.
 
 As usual for a prerelease, lots of people at NG yesterday. I got there before Galleria opened and whiled away time on the DS. The NG staff was a lot more efficient today, they were able to start the first 3 flights as early as 10:30. I got on flight C, and proceeded to open one of the most mediocre card pools I&#8217;ve ever seen. I quickly judge that the best synergies among my cards were (a) six black removal spells and (b) I have a lot of thallid cards (gernimator, sporesower, deathspore, and the new 5cc 4/4 guy from FS). I ruled out the blue/white evasion strategy despite having a decent number of fliers, since I hate going without removal. So I assembled my no-bombs deck, of course calling it &#8220;Deathspore Thallid Go!&#8221; as my officemates would have wanted.

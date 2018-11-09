@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-10-08 14:57:28
 title: MTGO PTQ San Diego Schedule (Manila Time)
 type: post
-date: 2009-10-08T14:57:28+00:00
 url: /2009/10/mtgo-ptq-san-diego-schedule-manila-time/
-categories:
-  - Magic the Gathering
-
 ---
+
 The following are M10 sealed:
 
   * Friday Oct 9, 8am

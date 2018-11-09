@@ -1,13 +1,15 @@
 ---
-title: When I dream I live in a different house
 author: roy
-type: post
-date: 2018-10-18T01:00:16+00:00
-url: /2018/10/when-i-dream-i-live-in-a-different-house/
 categories:
-  - Nostalgia
-
+- Just Another Day
+date: 2018-10-18 01:00:16
+tags:
+- Nostalgia
+title: When I dream I live in a different house
+type: post
+url: /2018/10/when-i-dream-i-live-in-a-different-house/
 ---
+
 I&#8217;ve noticed that when I dream I live in a different house. In the dreams, &#8220;home&#8221; is not the home that I live in now. Instead it&#8217;s the &#8220;home&#8221; I grew up in. It&#8217;s my grandparents&#8217; house, where we lived until the right after the turn of the millenium.<figure class="wp-block-image">
 
 <img src="https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1.jpg" alt="" class="wp-image-2820" srcset="https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1.jpg 984w, https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1-300x220.jpg 300w, https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1-768x562.jpg 768w, https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1-600x439.jpg 600w" sizes="(max-width: 984px) 100vw, 984px" /></figure> 

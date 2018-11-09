@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-12-08 07:01:35
 title: 'PTQ Kuala Lumpur #3'
 type: post
-date: 2007-12-08T07:01:35+00:00
 url: /2007/12/ptq-kuala-lumpur-3/
-categories:
-  - Magic the Gathering
-
 ---
+
 Dec-2, Sunday. Lorwyn Sealed. The usual location of course, NG Galleria.
 
 _

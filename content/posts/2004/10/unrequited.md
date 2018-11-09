@@ -1,15 +1,15 @@
 ---
-title: Unrequited
 author: Roy
-type: post
-date: 2004-10-17T07:21:49+00:00
+categories:
+- Just Another Day
+date: 2004-10-17 07:21:49
 draft: true
 private: true
+title: Unrequited
+type: post
 url: /2004/10/unrequited/
-categories:
-  - Just Another Day
-
 ---
+
 **
   
 (Warning: sappy!)

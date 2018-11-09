@@ -1,13 +1,13 @@
 ---
-title: Wanderer’s Thoughts
 author: Roy
-type: post
-date: 2006-10-01T08:14:38+00:00
-url: /2006/10/wanderer39s-thoughts/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-10-01 08:14:38
+title: "Wanderer's Thoughts"
+type: post
+url: /2006/10/wanderer39s-thoughts/
 ---
+
 Late afternoon on Saturday, I was looking quite a bit more work ahead of me, an amount that would later prove to last into the early morning. For some reason or another, I was a bit out of sorts, not really into what I was doing. Not wanting to waste company time being ridiculously unproductive, I decided to take an early dinner break and wander around Ortigas Centre for a bit.
 
 I suppose everyone has their off days. You know, those days when you&#8217;re not particularly sure what the hell it is you&#8217;re doing or why you&#8217;re doing it. This was one of those days. I walked around a bit thinking random odd thoughts like &#8220;I wonder what would happen if I just went ahead, took out all my cash from an ATM and vanished forever from this life?&#8221;

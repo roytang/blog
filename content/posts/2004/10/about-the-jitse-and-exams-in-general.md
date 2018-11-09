@@ -1,13 +1,13 @@
 ---
-title: About the JITSE, and Exams in general
 author: Roy
-type: post
-date: 2004-10-17T05:27:31+00:00
-url: /2004/10/about-the-jitse-and-exams-in-general/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2004-10-17 05:27:31
+title: About the JITSE, and Exams in general
+type: post
+url: /2004/10/about-the-jitse-and-exams-in-general/
 ---
+
 Alright, so it&#8217;s been a week since I took the [JITSE][1], over at the [
   
 Philippine Christian University ][2]in Manila. Like all other exams I take, I finished it unhumanly early. If I didn&#8217;t have any kind of shame, I would have submiited the AM exam a whole hour-and-a-half early just so I could get some sleep before the PM part. (Some people noticed I was dozing off anyway :P)

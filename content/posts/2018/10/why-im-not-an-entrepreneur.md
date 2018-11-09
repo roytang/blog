@@ -1,13 +1,13 @@
 ---
-title: Why I’m Not An Entrepreneur
 author: roy
-type: post
-date: 2018-10-09T01:00:22+00:00
-url: /2018/10/why-im-not-an-entrepreneur/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2018-10-09 01:00:22
+title: "Why I'm Not An Entrepreneur"
+type: post
+url: /2018/10/why-im-not-an-entrepreneur/
 ---
+
 For years now, I&#8217;ve had numerous discussions with friends and family about the possibility of setting up my own business, no matter how small. Prospects have ranged from my own software consulting firm to a food stall in an MRT station. None of these ideas never push through. Aside from general risk-aversion and not being confident in the ideas, there&#8217;s a few factors that in my mind are significant obstacles towards starting a new business for me.
 
 **Government red tape and paperwork**

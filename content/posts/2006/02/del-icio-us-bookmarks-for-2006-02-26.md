@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-02-26
 author: Roy
-type: post
-date: 2006-02-26T01:23:52+00:00
-url: /2006/02/del-icio-us-bookmarks-for-2006-02-26/
 categories:
-  - Links
+- Links
+date: 2006-02-26 01:23:52
 format: link
-
+title: Del.icio.us bookmarks for 2006-02-26
+type: post
+url: /2006/02/del-icio-us-bookmarks-for-2006-02-26/
 ---
+
 Edit: One-time update, because I found the script to get the bookmarks was being run at the wrong time, hence items posted after a certain time of the day would not be included.
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-24

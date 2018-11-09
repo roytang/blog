@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-09-19 05:03:38
 title: 'Pre-Alara Triple Treats: Kithkin'
 type: post
-date: 2008-09-19T05:03:38+00:00
 url: /2008/09/pre-alara-triple-treats-kithkin/
-categories:
-  - Magic the Gathering
-
 ---
+
 Catching up on my tournament reports now:
 
 Sep 7, Pre-Alara Triple Treat (Prerelease passes at stake)

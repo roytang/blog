@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2009-02-08 09:51:46
 title: 'Star Ocean: Second Evolution'
 type: post
-date: 2009-02-08T09:51:46+00:00
 url: /2009/02/star-ocean-second-evolution/
-categories:
-  - Gaming
-
 ---
+
 Amazingly, despite my work schedule I still managed to finish a rather old-school RPG. I finished Star ocean: Second Evolution for the PSP today, clocking in 30 hours of playtime. I have to say I quite enjoy playing RPGs on handhelds. RPGs are usually rather long games so it&#8217;s nice being able to handle them in bite-sized chunks while commuting, et cetera.
 
 Star Ocean: The Second Story was probably one of the best Japanese RPGs to come out of the Playstation era, despite the lackluster translations of that time (hey, it was pre-year 2000, all translations were pretty bad then!) Now comes the PSP enhanced remake, featuring a brand new retranslation, anime cutscenes, new VAs, an additional character, et cetera. The works! I&#8217;ve been playing it during off times for about two weeks, and pretty much had Claude overlevelled most of the time since I never removed him from the party.

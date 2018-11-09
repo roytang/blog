@@ -1,14 +1,14 @@
 ---
-title: Singapore 2017
 author: roy
-type: post
-date: 2017-12-22T01:00:35+00:00
-url: /2017/12/singapore-2017/
 categories:
-  - Travels
-
+- Travels
+date: 2017-12-22 01:00:35
+title: Singapore 2017
+type: post
+url: /2017/12/singapore-2017/
 ---
-  1. I took a 5-day trip to Singapore last weekend, mostly to play in [the Grand Prix][1], but the opportunity to get away from the country for a while was appreciated. These are some notes and anecdotes from the trip. (Not about the GP itself, that&#8217;s a separate post on its own.)
+
+1. I took a 5-day trip to Singapore last weekend, mostly to play in [the Grand Prix][1], but the opportunity to get away from the country for a while was appreciated. These are some notes and anecdotes from the trip. (Not about the GP itself, that&#8217;s a separate post on its own.)
   2. By my count this would be my 5th visit to Singapore. That means Singapore now ties Hong Kong for my most visited foreign destination. My last HK visit was back in 2009, there was no overlap.
   3. Normally when flying out I prefer to check luggage so that I&#8217;m not carrying much on the plane. This time I decided to go the opposite route. I hadn&#8217;t prepaid for any checked baggage so I tightly packed 5 days worth of clothes into a single backpack for hand carry. It was 0.2kg over the limit, but the lady at the check-in counter didn&#8217;t bother to check.
   4. My flight was 5am from Manila to Singapore, mostly so I wouldn&#8217;t run afoul of the horrible December traffic on the way to the airport. This plan would have worked better had I not also decided to watch The Last Jedi on it&#8217;s first night, mere hours before the flight. That meant I was quite sleepy while waiting at the airport. I&#8217;m not one of those people who can sleep alone at the airport &#8211; I&#8217;m worried about people touching my stuff.

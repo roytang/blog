@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-03-26
 author: Roy
-type: post
-date: 2006-03-26T18:00:01+00:00
-url: /2006/03/del-icio-us-bookmarks-for-2006-03-26/
 categories:
-  - Links
+- Links
+date: 2006-03-26 18:00:01
 format: link
-
+title: Del.icio.us bookmarks for 2006-03-26
+type: post
+url: /2006/03/del-icio-us-bookmarks-for-2006-03-26/
 ---
+
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-03-26
 
   * [Main Page &#8211; Wikiquote][3]

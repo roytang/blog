@@ -1,13 +1,14 @@
 ---
-title: A Few Thoughts on Yesterday’s Hostage Drama From Yet Another Armchair Observer
 author: roy
-type: post
-date: 2010-08-24T00:15:26+00:00
-url: /2010/08/a-few-thoughts-on-yesterdays-hostage-drama-from-yet-another-armchair-observer/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2010-08-24 00:15:26
+title: "A Few Thoughts on Yesterday's Hostage Drama From Yet Another
+  Armchair Observer"
+type: post
+url: /2010/08/a-few-thoughts-on-yesterdays-hostage-drama-from-yet-another-armchair-observer/
 ---
+
 <div>
   <a href="http://roytang.net/wp-content/uploads/2010/08/tactical_facepalm.jpg"><img class="aligncenter size-full wp-image-710" title="tactical_facepalm" src="http://roytang.net/wp-content/uploads/2010/08/tactical_facepalm.jpg" alt="" width="480" height="384" srcset="https://roytang.net/wp-content/uploads/2010/08/tactical_facepalm.jpg 600w, https://roytang.net/wp-content/uploads/2010/08/tactical_facepalm-300x240.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /></a>
 </div>

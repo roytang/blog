@@ -1,13 +1,13 @@
 ---
-title: The Four Agreements
 author: Roy
-type: post
-date: 2006-04-23T04:14:35+00:00
-url: /2006/04/the-four-agreements/
 categories:
-  - Self-Improvement
-
+- Self-Improvement
+date: 2006-04-23 04:14:35
+title: The Four Agreements
+type: post
+url: /2006/04/the-four-agreements/
 ---
+
 [the four agreements, don miguel ruiz book &#8211; a code for life and personal development
   
 ][1] 

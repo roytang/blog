@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-06-09 05:34:53
 title: 'GPT Bangkok #1 Sealed Pool'
 type: post
-date: 2009-06-09T05:34:53+00:00
 url: /2009/06/gpt-bangkok-1-sealed-pool/
-categories:
-  - Magic the Gathering
-
 ---
+
 The first GPT for Bangkok was last Saturday, May 23, 2009 at Robinson&#8217;s Galleria.
 
 Here&#8217;s the pool I was given to work with:

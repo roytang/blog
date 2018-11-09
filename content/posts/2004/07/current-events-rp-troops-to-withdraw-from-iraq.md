@@ -1,13 +1,13 @@
 ---
-title: 'Current Events: RP troops to withdraw from Iraq'
 author: Roy
-type: post
-date: 2004-07-17T14:36:07+00:00
-url: /2004/07/current-events-rp-troops-to-withdraw-from-iraq/
 categories:
-  - Philippines
-
+- Philippines
+date: 2004-07-17 14:36:07
+title: 'Current Events: RP troops to withdraw from Iraq'
+type: post
+url: /2004/07/current-events-rp-troops-to-withdraw-from-iraq/
 ---
+
 [RP troop pullout not cowardice][1], at least not according to Malacanang. The whole world knows by now that the Philippine government has capitulated (or intends to, at least) to the demands of terrorists kidnappers holding Filipino truck driver Angelo dela Cruz hostage.
 
 Even Jay Leno took his shots at our country, with the following quote from opening monologue of Wednesday night, July 14, 2004:

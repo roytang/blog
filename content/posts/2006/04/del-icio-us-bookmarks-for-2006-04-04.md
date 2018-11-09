@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-04-04
 author: Roy
-type: post
-date: 2006-04-04T18:00:02+00:00
-url: /2006/04/del-icio-us-bookmarks-for-2006-04-04/
 categories:
-  - Links
+- Links
+date: 2006-04-04 18:00:02
 format: link
-
+title: Del.icio.us bookmarks for 2006-04-04
+type: post
+url: /2006/04/del-icio-us-bookmarks-for-2006-04-04/
 ---
+
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-04-04
 
   * [Dumb: The Game

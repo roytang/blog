@@ -1,13 +1,13 @@
 ---
-title: Thoughts on Authoritarianism vs Democracy
 author: roy
-type: post
-date: 2017-01-10T01:30:33+00:00
-url: /2017/01/thoughts-on-authoritarianism-vs-democracy/
 categories:
-  - Opinions
-
+- Opinions
+date: 2017-01-10 01:30:33
+title: Thoughts on Authoritarianism vs Democracy
+type: post
+url: /2017/01/thoughts-on-authoritarianism-vs-democracy/
 ---
+
 > "Democracy is the worst form of government, except for all the others."
   
 > ― Winston S. Churchill

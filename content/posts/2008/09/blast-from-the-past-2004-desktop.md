@@ -1,13 +1,13 @@
 ---
-title: Blast From The Past – 2004 Desktop
 author: Roy
-type: post
-date: 2008-09-08T00:00:35+00:00
-url: /2008/09/blast-from-the-past-2004-desktop/
 categories:
-  - Meta
-
+- Meta
+date: 2008-09-08 00:00:35
+title: "Blast From The Past \xE2\u20AC\u201C 2004 Desktop"
+type: post
+url: /2008/09/blast-from-the-past-2004-desktop/
 ---
+
 I was going through some old files today, I found this screenshot of my desktop from 2004:
 
 [

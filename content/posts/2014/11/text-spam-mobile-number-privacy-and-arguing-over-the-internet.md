@@ -1,13 +1,13 @@
 ---
-title: Text spam, mobile number privacy and arguing over the internet
 author: roy
-type: post
-date: 2014-11-09T00:22:11+00:00
-url: /2014/11/text-spam-mobile-number-privacy-and-arguing-over-the-internet/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2014-11-09 00:22:11
+title: Text spam, mobile number privacy and arguing over the internet
+type: post
+url: /2014/11/text-spam-mobile-number-privacy-and-arguing-over-the-internet/
 ---
+
 **Globe&#8217;s Spam Reports Policy**
 
 A few days ago I got dragged into a debate over Twitter regarding Globe&#8217;s policy on handling reports sent in via Twitter about spam/scam text messages. When you send in reports of text spams via Twitter, one of Globe&#8217;s representatives will ask you to agree that in case the spammer disputes the allegation, they would have to disclose your mobile number to them. For me, the policy seems completely reasonable: if you accuse someone of a crime, they should have a right to know what exactly they are accused of and who exactly the victim was. Apparently some people aren&#8217;t okay with this; they complain that Globe disclosing your mobile number would be an additional violation of privacy and opens you up to possible harassment by the spammer. Now, I can understand the concerns, but you have to look at things from the POV of Globe and consider why such a policy exists.

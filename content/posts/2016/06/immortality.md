@@ -1,13 +1,13 @@
 ---
-title: Immortality
 author: roy
-type: post
-date: 2016-06-06T22:30:57+00:00
-url: /2016/06/immortality/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-06-06 22:30:57
+title: Immortality
+type: post
+url: /2016/06/immortality/
 ---
+
 > &#8220;Do you know what&#8217;s there, waiting beyond that beach? _Immortality_! _Take it! It&#8217;s yours_!&#8221; &#8211; Achilles, Troy
 
 Each person has a different view of what their life&#8217;s purpose is, but I&#8217;ve found more often than not it relates to some form of immortality. Usually that means leaving something behind, some trace of yourself so that the world remembers you, something that says &#8220;I was here, I existed.&#8221; For many people that means offspring, for others it may mean some other legacy: children taught, people helped, ideas expounded, inventions created, companies founded, and so on

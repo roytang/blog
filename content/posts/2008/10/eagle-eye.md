@@ -1,14 +1,16 @@
 ---
-title: Eagle Eye
 author: Roy
-type: post
-date: 2008-10-04T22:59:40+00:00
-url: /2008/10/eagle-eye/
 categories:
-  - Movies
-  - Review
-
+- Pop Culture
+date: 2008-10-04 22:59:40
+tags:
+- Movies
+- Review
+title: Eagle Eye
+type: post
+url: /2008/10/eagle-eye/
 ---
+
 On a whim, my brother and I went to Trinoma to see Eagle Eye, barely catching the last full show (including the trailers of course, we love watching trailers). Our mom had said we&#8217;d like the movie and she still owed us one since it was her fault we watched Big Stan. So we&#8217;re giving her a chance to redeem herself.
 
 The spoilerless review:

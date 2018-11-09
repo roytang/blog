@@ -1,18 +1,18 @@
 ---
-title: CJ Corona Impeached
-author: roy
-type: post
-date: 2012-05-29T13:51:13+00:00
-url: /2012/05/cj-corona-impeached/
 aktt_notify_twitter:
-  - yes
+- true
 aktt_tweeted:
-  - 1
+- 1
+author: roy
 categories:
-  - Opinions
-  - Philippines
-
+- Opinions
+- Philippines
+date: 2012-05-29 13:51:13
+title: CJ Corona Impeached
+type: post
+url: /2012/05/cj-corona-impeached/
 ---
+
 Time for some Monday morning quarterbacking!
 
 Disclaimer: I Am Not A Lawyer. I&#8217;m just a guy with opinions. And you know what they say about opinions&#8230;

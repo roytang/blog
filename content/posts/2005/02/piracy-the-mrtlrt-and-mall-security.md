@@ -1,13 +1,13 @@
 ---
-title: Piracy, the MRT/LRT and Mall Security
 author: roy
-type: post
-date: 2005-02-13T13:00:00+00:00
-url: /2005/02/piracy-the-mrtlrt-and-mall-security/
 categories:
-  - Philippines
-
+- Philippines
+date: 2005-02-13 13:00:00
+title: Piracy, the MRT/LRT and Mall Security
+type: post
+url: /2005/02/piracy-the-mrtlrt-and-mall-security/
 ---
+
 [
   
 Optical media and the MRT/LRT

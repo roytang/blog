@@ -1,13 +1,15 @@
 ---
-title: Dark Tower VII
 author: Roy
-type: post
-date: 2006-11-18T02:09:13+00:00
-url: /2006/11/dark-tower-vii/
 categories:
-  - Books
-
+- Pop Culture
+date: 2006-11-18 02:09:13
+tags:
+- Books
+title: Dark Tower VII
+type: post
+url: /2006/11/dark-tower-vii/
 ---
+
 What a long, arduous journey it has been for Roland of Gilead, last gunslinger, in his inexorable quest for the Dark Tower. And now that I&#8217;ve read the final volume of Stephen King&#8217;s magnum opus, I find out that it is an even crueler fate that awaits him at the end of the seven books.
 
 I dare not spoil it, though [Wikipedia][1] has a nice summary, say thankya. Save to say that Stephen King seems to be correct &#8211; the ending of the Dark Tower series does seem to be the &#8220;correct&#8221; one, despite some disappointments in writing.

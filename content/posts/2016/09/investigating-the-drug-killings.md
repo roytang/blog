@@ -1,13 +1,13 @@
 ---
-title: Investigating the Drug Killings
 author: roy
-type: post
-date: 2016-09-26T01:30:56+00:00
-url: /2016/09/investigating-the-drug-killings/
 categories:
-  - Philippines
-
+- Philippines
+date: 2016-09-26 01:30:56
+title: Investigating the Drug Killings
+type: post
+url: /2016/09/investigating-the-drug-killings/
 ---
+
 It&#8217;s no secret that many are unhappy with the way the congressional investigations into the so-called &#8220;drug war&#8221; and related killings here in the Philippines. If I were in charge of these investigations, these are the some of the questions I&#8217;d want answered:
 
 (Disclaimers: I&#8217;m not a lawyer or any kind of expert. Understandably, the resource persons may be reluctant to answer some of these in open session, in which case an executive session could be done. Some may have already been asked/answered during the hearings and I just missed them as I do not watch all the sessions live. Additional or different sets of resource persons may need to be called upon)

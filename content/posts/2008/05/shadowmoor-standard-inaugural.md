@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-05-03 20:52:39
 title: Shadowmoor Standard Inaugural
 type: post
-date: 2008-05-03T20:52:39+00:00
 url: /2008/05/shadowmoor-standard-inaugural/
-categories:
-  - Magic the Gathering
-
 ---
+
 The tournament was yesterday, May 03, Standard at Robinson&#8217;s Galleria.
 
 I was planning to play Green-White midrange, as documented on

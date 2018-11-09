@@ -1,13 +1,13 @@
 ---
-title: Spare Time
 author: Roy
-type: post
-date: 2006-12-23T19:47:09+00:00
-url: /2006/12/spare-time/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-12-23 19:47:09
+title: Spare Time
+type: post
+url: /2006/12/spare-time/
 ---
+
 Today is the first day of my four-week hiatus from week, after an exhausting three-day overtime streak I basically collapsed into bed last night.
 
 Over the past week people have been asking me why I would take a month-long break from work. Am I going somewhere out of town? Sightseeing? By sheer coincidence I was also looking over a copy of _The Little Prince_, and one of the chapters there echoed perfectly my sentiments about all these questions: why are all you grown-ups so worried about so-called &#8220;matters of consequence&#8221;?

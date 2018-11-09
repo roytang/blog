@@ -1,13 +1,15 @@
 ---
-title: Takeshi’s Castle
 author: Roy
-type: post
-date: 2006-05-04T07:13:29+00:00
-url: /2006/05/takeshi39s-castle/
 categories:
-  - TV Series
-
+- Pop Culture
+date: 2006-05-04 07:13:29
+tags:
+- TV Series
+title: "Takeshi's Castle"
+type: post
+url: /2006/05/takeshi39s-castle/
 ---
+
 A very nice person handed me a CD with four episodes of Takeshi&#8217;s Castle on it, and I had to keep myself from watching them while at work, as I was getting my officemates distracted. If you&#8217;ve never seen samples of wacky Japanese TV before, [Takeshi&#8217;s Castle][1] is a good start. This wacky Japanese show throws a bunch of a hundred or so contestants into a series of ridiculous games, each one hoping to make it to the end to defeat Count Takeshi and win one million yen!
 
 Takeshi&#8217;s Castle had a Philippine run, hosted by local actors Anjo Yllana and Smokey Manaloto. Although shown on a less popular channel, the show&#8217;s hilarious antics and ridiculous games earned it a cult following. The games themselves are sheer madness, requiring mostly luck, agility and a whole lot of guts in order to win.

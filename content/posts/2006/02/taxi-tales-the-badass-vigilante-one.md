@@ -1,13 +1,13 @@
 ---
-title: Taxi Tales – The Badass Vigilante One
 author: Roy
-type: post
-date: 2006-02-22T06:37:28+00:00
-url: /2006/02/taxi-tales-the-badass-vigilante-one/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-02-22 06:37:28
+title: "Taxi Tales \xE2\u20AC\u201C The Badass Vigilante One"
+type: post
+url: /2006/02/taxi-tales-the-badass-vigilante-one/
 ---
+
 &#8230;or so he claimed.
 
 The conversation started off easily enough, he said the MMDA over at Megamall were staring him down for daring to wait for me to run up to his cab. For some reason, he soon digressed into how earlier that day he had witnessed a man snatch a cellphone from a young woman inside a jeepney. The young woman was of course dumbstruck as the perp made his escape. My host candidly told me that if only he&#8217;d had a passenger to watch his cab for him, he would have stepped out of his cab (he was deep in traffic) and given chase himself.

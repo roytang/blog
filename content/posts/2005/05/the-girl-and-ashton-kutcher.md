@@ -1,13 +1,13 @@
 ---
-title: The girl and Ashton Kutcher
 author: roy
-type: post
-date: 2005-05-15T12:22:00+00:00
-url: /2005/05/the-girl-and-ashton-kutcher/
 categories:
-  - Opinions
-
+- Opinions
+date: 2005-05-15 12:22:00
+title: The girl and Ashton Kutcher
+type: post
+url: /2005/05/the-girl-and-ashton-kutcher/
 ---
+
 Just saw a segment on Oprah where Oprah helped a 15-year old girl realize her wildest dream &#8211; to meet Ashton Kutcher.
 
 Is must be nice to have a lifetime dream so easy to achieve. Oprah&#8217;s job is nice too. She finds some poor little girl whose dream is to meet a B-list Hollywood celebrity. Wow, how hard was it for her to fulfill that?

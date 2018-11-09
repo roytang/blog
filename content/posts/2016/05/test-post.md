@@ -1,12 +1,12 @@
 ---
-title: Test Post
 author: roy
-type: post
-date: 2016-05-18T04:39:04+00:00
-url: /2016/05/test-post/
 categories:
-  - Meta
+- Meta
+date: 2016-05-18 04:39:04
 format: quote
-
+title: Test Post
+type: post
+url: /2016/05/test-post/
 ---
+
 &#8220;The price for being the best is always having to be the best&#8221;

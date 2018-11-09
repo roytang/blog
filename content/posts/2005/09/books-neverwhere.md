@@ -1,13 +1,15 @@
 ---
-title: Books – Neverwhere
 author: roy
-type: post
-date: 2005-09-14T07:48:00+00:00
-url: /2005/09/books-neverwhere/
 categories:
-  - Books
-
+- Pop Culture
+date: 2005-09-14 07:48:00
+tags:
+- Books
+title: "Books \xE2\u20AC\u201C Neverwhere"
+type: post
+url: /2005/09/books-neverwhere/
 ---
+
 I&#8217;ve never really read much Neil Gaiman before &#8212; I&#8217;m not a particular fan of the Sandman series, for which he is most known. But I know some people who are big fans, so I respect his work at least. Neverwhere is only the second Gaiman book I&#8217;ve read (well, third maybe, I think I read that thing he co-wrote about the apocalypse), and I&#8217;m pretty much satisfied so far.
 
 Neil Gaiman does fantasy. Not medieval fantasy or sci-fi or anything like that, but fantasy in modern-day settings. Neverwhere takes place in London, a place with which the author seems intimately familiar. Except that his fictional London is divided into two cities &#8211; London Above, which is the normal everyday London, and London Below, a temming network of underground locations where people fall through cracks and disappear. Something like that.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-09-30 17:47:51
 title: Shards of Alara Prerelease
 type: post
-date: 2008-09-30T17:47:51+00:00
 url: /2008/09/shards-of-alara-prerelease/
-categories:
-  - Magic the Gathering
-
 ---
+
 I hit the first flight at Eastwood City last Saturday, September 27. Here&#8217;s my sealed pool:
 
 <div class="decklist">

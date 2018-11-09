@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-04-05 00:57:37
 title: Standard on April 4
 type: post
-date: 2009-04-05T00:57:37+00:00
 url: /2009/04/standard-on-april-4/
-categories:
-  - Magic the Gathering
-
 ---
+
 I went to NG Galleria hoping for more practice with the [5cc deck from last week][1]. I made some minor modifications: Maindeck -1 [Plumeveil][2] +1 [Mulldrifter][3], Sideboard -1 [Mulldrifter][3] +1 [Scourglass][4]. 
 
 The aggro matchup seemed very solid already so I felt I could afford to lose the fourth [Plumeveil][2]. The fourth [Mulldrifter][3] would have been a land if I had any [Exotic Orchard][5]. 

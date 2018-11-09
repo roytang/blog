@@ -1,13 +1,13 @@
 ---
-title: Power Distance in Software Development
 author: roy
-type: post
-date: 2016-12-08T01:30:44+00:00
-url: /2016/12/power-distance-in-software-development/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-12-08 01:30:44
+title: Power Distance in Software Development
+type: post
+url: /2016/12/power-distance-in-software-development/
 ---
+
 I was in a meeting once with my boss (literally the CEO, a Malaysian) and some representatives of another company (Americans) where we were discussing the technical details of a possible future partnership. At one point, one of the Americans said to my boss that he was pleasantly surprised that I was openly speaking up independently of my boss and willing to correct him on some points when he didn&#8217;t quite get the technical details right. It seems they were used to working with some Indian outsourcing firms, where due to cultural differences, the tendency was for the Indian guys to accept everything the Americans asked for without question and delivered it exactly as requested, even if there were obvious problems.
 
 The concept is called [Power Distance][1], where cultures with a higher power distance are more likely to just accept without question the authority of &#8220;higher-ups&#8221;. While in cultures with lower power distance, people feel less of a gap with people of &#8220;higher&#8221; status, and are thus more willing to speak up openly.

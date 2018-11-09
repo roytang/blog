@@ -1,13 +1,13 @@
 ---
-title: Unclear error messages
 author: roy
-type: post
-date: 2016-11-17T01:30:37+00:00
-url: /2016/11/unclear-error-messages/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-11-17 01:30:37
+title: Unclear error messages
+type: post
+url: /2016/11/unclear-error-messages/
 ---
+
 _&#8220;Button for non-service floor does not light up.&#8221;_
 
 For more than a decade I regularly went to an office building where the elevators verbally spouted this nonsense message whenever you tried to go to a floor that the current elevator car did not service. For context, the elevators in the building were zoned programmatically &#8211; this means that they only service a particular subset of the floors that are provided on the elevator panel itself. They sometimes disable the zoning depending on the loading among the elevator cars so simply removing the buttons for the unsupported floors isn&#8217;t a viable solution.

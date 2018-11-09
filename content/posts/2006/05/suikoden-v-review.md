@@ -1,12 +1,12 @@
 ---
-title: Suikoden V – Review
-type: post
-date: 2006-05-30T07:03:04+00:00
-url: /2006/05/suikoden-v-review/
 categories:
-  - Gaming
-
+- Gaming
+date: 2006-05-30 07:03:04
+title: "Suikoden V \xE2\u20AC\u201C Review"
+type: post
+url: /2006/05/suikoden-v-review/
 ---
+
 Suikoden V is hands-down the best game in the Suikoden series.
 
 In almost all respects, it beats out the previous best game of the series (Suikoden 2): The story manages to follow the old pattern of &#8220;oh I need to flee my home and now I&#8217;m leading a band of rebels in a civil war!&#8221; but infuses with a lot of new elements: usurpers to the throne, historical wars of succession, threats of foreign invasion. There&#8217;s a lot of politics involved in this game, and most of the first eight hours are a bit draggy because they spend so much time elaborating on it.

@@ -1,14 +1,14 @@
 ---
-title: How to Organize a Cluttered Mind?
 author: Roy
-type: post
-date: 2006-01-29T07:26:00+00:00
-url: /2006/01/how-to-organize-a-cluttered-mind/
 categories:
-  - Just Another Day
-  - Software Development
-
+- Just Another Day
+- Software Development
+date: 2006-01-29 07:26:00
+title: How to Organize a Cluttered Mind?
+type: post
+url: /2006/01/how-to-organize-a-cluttered-mind/
 ---
+
 Yeah, I haven&#8217;t been posting lately. I still have a lot of thoughts running around my head, and often throughout the day I find myself thinking, &#8220;I should post an entry about this.&#8221; But at the end of the day, I&#8217;m tired and I&#8217;m exhausted from thinking about two hundred different issues and juggling twenty different priorities, so I don&#8217;t post about it. I note it somewhere and sooner or later it becomes irrelevant and I forget why I wanted to post it in the first place.
 
 I remarked to one of my coworkers that I often find myself remembering dozens of things in my head simultaneously and he of course reminded me of the popular notion that human beings can only remember seven things at any one time. It&#8217;s the concept of limitation in humans&#8217; short-term memory or RAM.

@@ -1,14 +1,14 @@
 ---
+categories:
+- Software Development
+date: 2008-12-01 04:58:00
+tags:
+- royondjango
 title: Fixing up the comments
 type: post
-date: 2008-12-01T04:58:00+00:00
 url: /2008/12/fixing-up-the-comments/
-categories:
-  - Software Development
-tags:
-  - royondjango
-
 ---
+
 I played around with the built-in comments app today, trying to clean it up.
 
 Some findings:

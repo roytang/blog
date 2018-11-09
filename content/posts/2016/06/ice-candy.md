@@ -1,13 +1,15 @@
 ---
-title: Ice Candy
 author: roy
-type: post
-date: 2016-06-28T01:30:57+00:00
-url: /2016/06/ice-candy/
 categories:
-  - Nostalgia
-
+- Just Another Day
+date: 2016-06-28 01:30:57
+tags:
+- Nostalgia
+title: Ice Candy
+type: post
+url: /2016/06/ice-candy/
 ---
+
 I read an article recently about how we should encourage entrepreneurial spirit in kids from a very young age. It made think of a time when we were kids and we tried running a business
 
 It was a summer from years ago. Perhaps 1988 or 1989, or maybe a year or two earlier, I can&#8217;t be sure. I was young, my brother was younger by a few years, my female cousin older by a few years. Back then our families live under the same roof, my grandfather&#8217;s house

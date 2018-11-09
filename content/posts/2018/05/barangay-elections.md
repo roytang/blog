@@ -1,13 +1,13 @@
 ---
-title: Barangay Elections
 author: roy
-type: post
-date: 2018-05-14T01:00:02+00:00
-url: /2018/05/barangay-elections/
 categories:
-  - Philippines
-
+- Philippines
+date: 2018-05-14 01:00:02
+title: Barangay Elections
+type: post
+url: /2018/05/barangay-elections/
 ---
+
 Ever since I came of age, I&#8217;ve exercised my right (and duty) to vote in every election that comes around. Except for Barangay/SK elections. I&#8217;ve never voted in Barangay elections.
 
 I understand that voting is a civic duty, and I have no real justification for shirking it. But the fact is that my level of awareness re: barangay-level government is very low. I have no idea what their responsibilities or jurisdiction is supposed to be. I know they have some sort of role in dispute resolution, low level law enforcement, and disaster relief efforts, but that&#8217;s about it. If I have a local issue, I&#8217;m not likely to think about bringing it up to the Barangay. To be fair, bringing it up to the Mayor&#8217;s office wouldn&#8217;t be my first thought either, but I&#8217;d definitely think of that before the Barangay.

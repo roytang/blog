@@ -1,13 +1,13 @@
 ---
-title: I Claim My Name
 author: Roy
-type: post
-date: 2008-09-26T07:07:15+00:00
-url: /2008/09/i-claim-my-name/
 categories:
-  - Meta
-
+- Meta
+date: 2008-09-26 07:07:15
+title: I Claim My Name
+type: post
+url: /2008/09/i-claim-my-name/
 ---
+
 After trying out [usernamecheck.com][1], I decided to try claiming my username &#8220;roytang&#8221; at various websites. Here&#8217;s a list of various websites where I have this username.
 
 <http://friendfeed.com/roytang>&#8211; This one actually seems useful.

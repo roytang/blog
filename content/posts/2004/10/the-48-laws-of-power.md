@@ -1,13 +1,15 @@
 ---
-title: The 48 Laws of Power
 author: Roy
-type: post
-date: 2004-10-25T15:36:12+00:00
-url: /2004/10/the-48-laws-of-power/
 categories:
-  - Books
-
+- Pop Culture
+date: 2004-10-25 15:36:12
+tags:
+- Books
+title: The 48 Laws of Power
+type: post
+url: /2004/10/the-48-laws-of-power/
 ---
+
 1. Never Outshine the Master
 
 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies

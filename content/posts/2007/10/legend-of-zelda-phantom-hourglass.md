@@ -1,12 +1,12 @@
 ---
-title: Legend of Zelda – Phantom Hourglass
-type: post
-date: 2007-10-13T23:49:01+00:00
-url: /2007/10/legend-of-zelda-phantom-hourglass/
 categories:
-  - Gaming
-
+- Gaming
+date: 2007-10-13 23:49:01
+title: "Legend of Zelda \xE2\u20AC\u201C Phantom Hourglass"
+type: post
+url: /2007/10/legend-of-zelda-phantom-hourglass/
 ---
+
 The game was not as long as I had hoped, although I finished without completing stuff. (Only had 11 hearts when facing the final boss). I told a friend that the current Zeldas are too easy compared to the
    
 [

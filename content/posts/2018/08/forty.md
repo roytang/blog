@@ -1,15 +1,15 @@
 ---
-title: Forty
 author: roy
-type: post
-date: 2018-08-09T02:02:51+00:00
-url: /2018/08/forty/
 categories:
-  - Just Another Day
+- Just Another Day
+date: 2018-08-09 02:02:51
 tags:
-  - birthday
-
+- birthday
+title: Forty
+type: post
+url: /2018/08/forty/
 ---
+
 <blockquote class="wp-block-quote">
   <p>
     "Life begins at forty" &#8211; Walter B. Pitkin

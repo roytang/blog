@@ -1,13 +1,15 @@
 ---
-title: The Earth is Flat
 author: Roy
-type: post
-date: 2008-01-26T13:06:39+00:00
-url: /2008/01/the-earth-is-flat/
 categories:
-  - Nostalgia
-
+- Just Another Day
+date: 2008-01-26 13:06:39
+tags:
+- Nostalgia
+title: The Earth is Flat
+type: post
+url: /2008/01/the-earth-is-flat/
 ---
+
 Random memory for the day:
 
 I remember watching the Superfriends TV series when I was a little kid, and every time Superman would fly off into space, there&#8217;d be a shot of the earth as a globe, with Superman flying out from the northern hemisphere. As a stupid kid, I thought to myself, &#8220;I wonder why the earth is shown as an oblate spheroid? When I go out with my parents it was obviously flat.&#8221; (Paraphrasing a bit since when I was a kid I did not know the term &#8220;oblate spheroid&#8221;)

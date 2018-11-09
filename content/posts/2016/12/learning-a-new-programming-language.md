@@ -1,13 +1,13 @@
 ---
-title: Learning a New Programming Language
 author: roy
-type: post
-date: 2016-12-22T01:30:46+00:00
-url: /2016/12/learning-a-new-programming-language/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-12-22 01:30:46
+title: Learning a New Programming Language
+type: post
+url: /2016/12/learning-a-new-programming-language/
 ---
+
 Related: [Learning new skills][1]
 
 While many people working as programmers/software developers are happy enough specializing in a single programming language or platform, I generally consider it a better idea to have a wider toolset and the ability to easily pick up new programming languages as needed. The benefits should be obvious: when you have a wide variety of tools under your belt and are able to quickly learn to use a new tool, the number of work options you have increases greatly.

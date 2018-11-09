@@ -1,13 +1,13 @@
 ---
-title: Confessional Thoughts
 author: Roy
-type: post
-date: 2006-04-13T18:34:40+00:00
-url: /2006/04/confessional-thoughts/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-04-13 18:34:40
+title: Confessional Thoughts
+type: post
+url: /2006/04/confessional-thoughts/
 ---
+
 I wonder if the Catholic Church considers piracy as a sin&#8230;at least one that I should be confessing to a priest during er&#8230;confession. If so, I suppose I have more than ten years&#8217; worth of piracy-related sins to confess.
 
 Yeah, I go to confession. Once a year, around the Holy Week period usually. Once a year is the minimum frequency required by the Catholic Church, but I wonder how many observe it?

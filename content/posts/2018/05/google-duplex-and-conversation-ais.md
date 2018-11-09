@@ -1,13 +1,13 @@
 ---
-title: Google Duplex and Conversation AIs
 author: roy
-type: post
-date: 2018-05-13T01:00:36+00:00
-url: /2018/05/google-duplex-and-conversation-ais/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2018-05-13 01:00:36
+title: Google Duplex and Conversation AIs
+type: post
+url: /2018/05/google-duplex-and-conversation-ais/
 ---
+
 Google recently had a demo of their new AI assistant Duplex at Google IO 2018:
 
 {{< youtube bd1mEm2Fy08 >}}

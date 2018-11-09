@@ -1,13 +1,13 @@
 ---
-title: Certifications
 author: roy
-type: post
-date: 2016-07-14T01:30:07+00:00
-url: /2016/07/certifications/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-07-14 01:30:07
+title: Certifications
+type: post
+url: /2016/07/certifications/
 ---
+
 <span style="font-weight: 400;">I never really put much stock in certifications. I felt that they were no guarantee of knowledge or expertise, and that many people who did have knowledge or expertise wouldn’t necessarily have a certification to say so. Add to that it often seem overpriced to even apply for the certifications, so I didn’t have a high opinion of them. That being said, I have had the opportunity to take professional certification exams twice in my life (both luckily paid for by my employer at that time).</span>
 
 <span style="font-weight: 400;">The first was the JITSE &#8211; the Japanese IT Standards Examinations. This was back in 2004 when our company was planning to undertake some projects based in Japan. Luckily, the exam did not require us to learn Japanese. The exam mostly covered programming and computer science concepts. The scope was largely academic in nature, not really related to the actual practice of software development. At first I thought it might be a problem for me since I had no formal computer science schooling, but it turns out I need not have worried. We were able to find ample review materials / sample exams that gave us a good coverage of the scope of the exams. We even had like five thick textbooks full of review material to cover, which typically I didn’t end up going through (seemed like a bother), I felt like the sample exams were more than enough. And to add even further to my disdain of certification exams, a significant percentage of the questions during the actual certification were already in the sample exams we reviewed. So yes, easily passed.</span>

@@ -1,14 +1,16 @@
 ---
-title: My Top 10 Favorite Movies of All Time
 author: roy
-type: post
-date: 2018-10-12T01:00:31+00:00
-url: /2018/10/my-top-10-favorite-movies-of-all-time/
 categories:
-  - Movies
-  - Review
-
+- Pop Culture
+date: 2018-10-12 01:00:31
+tags:
+- Movies
+- Review
+title: My Top 10 Favorite Movies of All Time
+type: post
+url: /2018/10/my-top-10-favorite-movies-of-all-time/
 ---
+
 This started as one of those silly Facebook memes where you post one thing every day and didn&#8217;t have to explain and you tagged other people and they continued with the meme. I was very bad at following the meme instructions, but I did find the exercise interesting. I found it difficult to identify 10 specific movies, and since I didn&#8217;t explain during the FB posts, I thought I&#8217;d make a blog post about them instead. So here we go!
 
   1. **Back to the Future******<figure class="wp-block-image">

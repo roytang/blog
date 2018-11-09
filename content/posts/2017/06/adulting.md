@@ -1,13 +1,13 @@
 ---
-title: Adulting
 author: roy
-type: post
-date: 2017-06-27T01:30:57+00:00
-url: /2017/06/adulting/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2017-06-27 01:30:57
+title: Adulting
+type: post
+url: /2017/06/adulting/
 ---
+
 Some time ago a friend from high school invited me to her daughter&#8217;s debut. And I had to proxy for her daughter&#8217;s _ninong_ and maybe give a few words on what it means to become an adult. My first two reactions were (1) wow I&#8217;m so old one of my batchmates has an eighteen-year-old daughter; and (2) what the heck would I know about becoming an adult? (I guess (3) was &#8220;oh, it&#8217;s a debut, so it&#8217;s formal and I have to dress up? I hate dressing up.&#8221;)
 
 I mean, don&#8217;t get me wrong. I certainly consider myself an adult. But I have no idea when that transitioned happened. It&#8217;s not like when you turn eighteen you get some kind of brain implant that magically tells you how to live life and be independent and get a job and be responsible and do your taxes and all that stuff.

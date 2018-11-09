@@ -1,16 +1,16 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-09-07 00:40:02
+tags:
+- grand-prix
+- standard
+- tournament-report
 title: Grand Prix Manila Day One Report
 type: post
-date: 2008-09-07T00:40:02+00:00
 url: /2008/09/grand-prix-manila-day-one-report/
-categories:
-  - Magic the Gathering
-tags:
-  - grand-prix
-  - standard
-  - tournament-report
-
 ---
+
 Grand Prix Manila 08 has come and gone and is in the history books. While the [Wizards official coverage][1] gives you the play-by-play and the results, I’ll see if I can’t provide any interesting stories about my first constructed Grand Prix event.
 
 **

@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2003-11-26 02:52:48
 title: 'Final Fantasy X-2: First Impressions'
 type: post
-date: 2003-11-26T02:52:48+00:00
 url: /2003/11/final-fantasy-x-2-first-impressions/
-categories:
-  - Gaming
-
 ---
+
 I&#8221;m about two or three hours into it. I like it. But then again, I like anything with a job system and learnable abilities. I find myself excited at the prospect of learning abilities with weird names such as &#8220;Cheap Shot&#8221;, &#8220;Initiative&#8221;, &#8220;Flametongue&#8221; and &#8220;Silent Samba&#8221;!
 
 The game itself has a very &#8220;happy&#8221; feel&#8230;the battles are fast-paced and the general mood is upbeat. If you came in looking for a Final Fantasy game, you&#8217;re gonna be disappointed. The Final Fantasy victory music isn&#8217;t even there; Yuna jumps across chasms and climbs up ledges at the touch of a button.

@@ -1,14 +1,14 @@
 ---
-title: Django Update – WordPress Import and More
-type: post
-date: 2008-11-23T00:04:00+00:00
-url: /2008/11/django-update-wordpress-import-and-more/
 categories:
-  - Software Development
+- Software Development
+date: 2008-11-23 00:04:00
 tags:
-  - royondjango
-
+- royondjango
+title: "Django Update \xE2\u20AC\u201C WordPress Import and More"
+type: post
+url: /2008/11/django-update-wordpress-import-and-more/
 ---
+
 I&#8217;ve been busy at work so fell a bit behind with Django. Last night I worked on a WordPress importer, so that I could migrate posts from my current blog(s) into the Django-powered blog that I&#8217;m coding. I&#8217;m using BeautifulSoup to parse the WordPress export file and insert them as Django objects.
 
 Since I was running the script repeatedly, I had to figure out how to easily run it from the command line, without having to run it from inside manage.py shell. After some searching, I found that what I needed to do was set an environment variable DJANGO\_SETTINGS\_FILE to point to my settings file. After that, the importer script could be run repeatedly.

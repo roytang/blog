@@ -1,13 +1,13 @@
 ---
-title: Problems in Large Software Dev Teams
 author: roy
-type: post
-date: 2017-01-26T01:30:20+00:00
-url: /2017/01/problems-in-large-software-dev-teams/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-01-26 01:30:20
+title: Problems in Large Software Dev Teams
+type: post
+url: /2017/01/problems-in-large-software-dev-teams/
 ---
+
 Hopefully by now most developers and project managers are well aware [of the mythical man-month and Brooks&#8217; Law:][1]
 
 > Adding manpower to a late software project makes it later

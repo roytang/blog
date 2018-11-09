@@ -1,13 +1,13 @@
 ---
-title: My First Nigerian Spam
 author: roy
-type: post
-date: 2005-03-05T14:33:00+00:00
-url: /2005/03/my-first-nigerian-spam/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2005-03-05 14:33:00
+title: My First Nigerian Spam
+type: post
+url: /2005/03/my-first-nigerian-spam/
 ---
+
 No seriously, I don&#8217;t remember having received any before.
 
 [

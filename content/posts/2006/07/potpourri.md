@@ -1,13 +1,13 @@
 ---
-title: Potpourri
 author: Roy
-type: post
-date: 2006-07-15T23:46:10+00:00
-url: /2006/07/potpourri/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-07-15 23:46:10
+title: Potpourri
+type: post
+url: /2006/07/potpourri/
 ---
+
 One of the first things I assume when I have headaches is that, &#8220;Maybe I&#8217;m developing telepathic powers.&#8221; At least, I would assume that people developing telepathic powers have some sort of growing pains that could be misconstrued as headaches. Unfortunately, I still don&#8217;t seem to have such powers and the head pains and dizziness I&#8217;ve been experiencing since Friday were just a sympton of something far more common &#8211; seems I got the flu, known in local parlance as _trangkaso_.
 
 This has not been a particularly good weekend anyway. Since Saturday morning, this computer I have in my room has been flaky, occasionally refusing to boot into either Linux or Windows, and occasionally not even turning on at all. My brother and I suspect a loose video card, and if were just a little less lazier we could easily confirm it by swapping the video card here with the PC in the other room. I threatened to nuke the installation completely and reinstall XP, but once I put the XP installer in the drive, it started working again, imagine that.

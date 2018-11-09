@@ -1,14 +1,14 @@
 ---
+categories:
+- Software Development
+date: 2008-10-19 07:33:00
+tags:
+- royondjango
 title: Starting out
 type: post
-date: 2008-10-19T07:33:00+00:00
 url: /2008/10/starting-out/
-categories:
-  - Software Development
-tags:
-  - royondjango
-
 ---
+
 The quintessential app to learn from is of course a blog.
 
 Started using a simple Post model. Added the new post form and view. Can now successfully insert posts into the DB.

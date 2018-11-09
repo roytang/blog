@@ -1,13 +1,13 @@
 ---
-title: Top 5 Strengths
 author: Roy
-type: post
-date: 2007-06-24T03:55:43+00:00
-url: /2007/06/top-5-strengths/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-06-24 03:55:43
+title: Top 5 Strengths
+type: post
+url: /2007/06/top-5-strengths/
 ---
+
 I took a longish survey at the [Authentic Happiness ][1]website. (Registration required.) I list my results here for my future reference.
 
 _

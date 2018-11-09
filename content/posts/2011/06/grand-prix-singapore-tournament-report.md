@@ -1,20 +1,20 @@
 ---
-title: Grand Prix Singapore Tournament Report
-author: roy
-type: post
-date: 2011-06-08T13:06:55+00:00
-url: /2011/06/grand-prix-singapore-tournament-report/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2011-06-08 13:06:55
 tags:
-  - constructed
-  - grand-prix
-  - standard
-  - tournament-report
-
+- constructed
+- grand-prix
+- standard
+- tournament-report
+title: Grand Prix Singapore Tournament Report
+type: post
+url: /2011/06/grand-prix-singapore-tournament-report/
 ---
+
 Haven&#8217;t done a tournament report in a while. Heck, I haven&#8217;t really played tournament Magic in a while, not seriously at least. For that reason it may have been a bad idea to run with a deck that requires a lot of matchup knowledge to play. The tournament was Grand Prix Singapore 2011, the format was standard and my weapon of choice was Caw Blade:
 
 [deck]

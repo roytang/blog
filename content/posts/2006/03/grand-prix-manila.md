@@ -1,16 +1,16 @@
 ---
-title: Grand Prix Manila
 author: Roy
-type: post
-date: 2006-03-26T00:42:36+00:00
-url: /2006/03/grand-prix-manila/
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2006-03-26 00:42:36
 tags:
-  - grand-prix
-  - Limited
-
+- grand-prix
+- Limited
+title: Grand Prix Manila
+type: post
+url: /2006/03/grand-prix-manila/
 ---
+
 <p style="float: right; margin-left: 10px; margin-bottom: 10px;">
   <a title="photo sharing" href="http://www.flickr.com/photos/65204400@N00/118022394/"><br /> <img style="border: 2px solid #000000;" src="http://static.flickr.com/40/118022394_2504dd158b_m.jpg" /><br /> </a><span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/65204400@N00/118022394/">Can you find me in the picture?<br /> </a>Originally uploaded by&nbsp;<a href="http://www.flickr.com/people/65204400@N00/">zroytang</a>.<br /> </span><br /> Maybe it&#8217;s just me, but&nbsp;<a href="http://www.wizards.com/default.asp?x=mtgevent/gpmani06/welcome">Wizard&#8217;s&nbsp;</a>coverage of Grand Prix Manila last weekend seems just&nbsp;<em>a tad&nbsp;</em>condescending to Filipino Magic players. Not that we mind, after all, local bets actually did kick ass and shrugged off the Japanese invasion.
 </p>

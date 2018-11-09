@@ -1,13 +1,15 @@
 ---
-title: The Alchemist
 author: Roy
-type: post
-date: 2004-11-15T00:41:05+00:00
-url: /2004/11/the-alchemist/
 categories:
-  - Books
-
+- Pop Culture
+date: 2004-11-15 00:41:05
+tags:
+- Books
+title: The Alchemist
+type: post
+url: /2004/11/the-alchemist/
 ---
+
 The other day, while waiting to get a blood test at Clinica Manila, Megamall, I managed to finish about 2/3rds of Paolo Coellho&#8217;s best-seller The Alchemist. I finished the last 1/3rd during a 15-minute bathroom break back home. It was a short book. Lots of people have raved about how good it is. What do I think? It&#8217;s okay, but nothing overly special. Maybe I didn&#8217;t get too much of it because it didn&#8217;t have much new material for me. All of this &#8211; having your own &#8220;personal legend&#8221;; searching and/or fighting for it instead of deciding to accept and be content with you have; communicating with the &#8220;Soul of the World&#8221;; &#8212; most of these things are not foreign concepts to me. I think the book would appeal most to those who are feeling a bit down or lost, and looking for something inspirational to give them a slight push and help them find their way. Or something. 😀
 
 One of the interesting things presented in the book is the concept of &#8220;beginner&#8217;s luck&#8221;. Basically the book says that the universe conspires to make your personal legend come true, because of this, when you&#8217;re starting out on something, the universe will give you a small taste of success, so you&#8217;re enticed to follow-up. I guess I&#8217;ve never heard of beginner&#8217;s luck described this way before.

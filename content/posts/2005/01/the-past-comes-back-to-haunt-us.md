@@ -1,13 +1,13 @@
 ---
-title: The Past Comes Back to Haunt Us
 author: roy
-type: post
-date: 2005-01-11T15:45:33+00:00
-url: /2005/01/the-past-comes-back-to-haunt-us/
 categories:
-  - Meta
-
+- Meta
+date: 2005-01-11 15:45:33
+title: The Past Comes Back to Haunt Us
+type: post
+url: /2005/01/the-past-comes-back-to-haunt-us/
 ---
+
 If you&#8217;ve been paying attention to this blog (yeah, you, both of you), you&#8217;ll notice that the archives now go all the way back to January of 2002. That&#8217;s when I started the site on [topcities ][1]some time back. I moved some of the &#8220;journal&#8221; posts I had from there into blogger, using a very detailed process I shall refer to as &#8220;manual copy-and-paste and editing of links&#8221;. I still had some backup copies of most of the old site around, and [archive.org ][2]was a big help. There wasn&#8217;t much editing actually, I just went through most of the links and marked those which were broken. I didn&#8217;t transfer (yet) any posts which needed additional files to exist on my own server, those are a bit more troublesome, so later. All in all, the content of the posts are presented as they are, or were, typos and all, making these archives a genuine representation of my frame of mind circa 2002.
 
 The purpose of this exercise is of course for posterity. Putting all these posts in one place makes it easy for me to export them in some method in the future. (And even if blogger goes down for some reason, these posts are now also hosted on my fateback account, and you know there&#8217;s safety in redundancy.) So, past memories safely preserved.

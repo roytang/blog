@@ -1,13 +1,13 @@
 ---
-title: Radio is so Primitive
 author: roy
-type: post
-date: 2005-06-22T16:04:00+00:00
-url: /2005/06/radio-is-so-primitive/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-06-22 16:04:00
+title: Radio is so Primitive
+type: post
+url: /2005/06/radio-is-so-primitive/
 ---
+
 Radio is so primitive. You can&#8217;t skip songs, you can&#8217;t get to listen to a single track repeatedly, you can&#8217;t jump to random tracks, you can&#8217;t listen to only [artists that have songs about Superman][1]. Listening to random music some random guy thinks you will like, with no guarantee of whether he actually knows your taste or not. Granted, you can increase that likelihood by listening to the right station, but unless we had one station for every person, it&#8217;s impossible for the radio station to fully satisfy your tastes.
 
 Radio is great for two things: news and background filler. And even both these functions can be better fulfilled by other stuff. Why would you bring a radio to work if you had mp3s available? Even if you wanted to pick up new music, the only ones you&#8217;ll hear on the radio are the popular ones which you&#8217;ll likely hear from other people anyway. Radio is even more useless in the face of the internet, since even the news function is overshadowed. And there are a lot more online radio stations to choose from than &#8220;physical&#8221; radio stations.

@@ -1,15 +1,16 @@
 ---
-title: '13-JUN-2003: No Title'
 author: roy
-type: post
-date: 2003-06-13T01:30:01+00:00
-url: /2003/06/13-jun-2003-no-title/
 categories:
-  - Just Another Day
-  - Legacy Blog Posts
-
+- Just Another Day
+date: 2003-06-13 01:30:01
+tags:
+- Legacy Blog Posts
+title: '13-JUN-2003: No Title'
+type: post
+url: /2003/06/13-jun-2003-no-title/
 ---
-  * Last Tuesday, I got a very rare treat (?). I was invited (under false pretenses I might add) to a seminar trying to sell me to the concept of network markets. It was by a group of people called &#8220;Network 21&#8221; who supposedly have a corporate partner in Amway. Now, don&#8217;t get me wrong, I have nothing against these people, I&#8217;m sure they&#8217;re enjoying themselves looking for sucke-I mean clients, and convincing them to buy Amway toothpaste and shampoo and vitamins and god-knows-what. I wish them well. What I&#8217;m particularly annoyed at is the guy who invited me there, a guy from my university _who I don&#8217;t even know_, supposedly to talk about a &#8220;career opportunity.&#8221; Hello!!! I&#8217;m an engineer, why the hell would I want to sell toothpaste! _&#8220;Oh no,&#8221;_ he says, _&#8220;That was my mistake at first. I thought they were going to tell me to sell door-to-door. All you have to do is refer people to our products.&#8221;_ _&#8220;Excrement!&#8221;_ I wanted to shout in his face, _&#8220;You get paid if you convince people to buy your products? I think that&#8217;s why it&#8217;s called selling!&#8221;_ _&#8220;Here, why don&#8217;t you take this tape before you decide?&#8221;_, he goes on. _&#8220;After all, as an engineer, you can&#8217;t make a decision without information!&#8221;_ Yeah right, and let you waste another hour-and-a-half of my life? (In addition to the two hours I had to listen to the talk that is.) _&#8220;It&#8217;s not for me,&#8221;_ I tell him, not wanting to be rude. _&#8220;Why not?&#8221;_ he persists, _&#8220;How can you know if you don&#8217;t listen to the tape?&#8221;_ I wanted to smack him around a bit right there and then.
+
+* Last Tuesday, I got a very rare treat (?). I was invited (under false pretenses I might add) to a seminar trying to sell me to the concept of network markets. It was by a group of people called &#8220;Network 21&#8221; who supposedly have a corporate partner in Amway. Now, don&#8217;t get me wrong, I have nothing against these people, I&#8217;m sure they&#8217;re enjoying themselves looking for sucke-I mean clients, and convincing them to buy Amway toothpaste and shampoo and vitamins and god-knows-what. I wish them well. What I&#8217;m particularly annoyed at is the guy who invited me there, a guy from my university _who I don&#8217;t even know_, supposedly to talk about a &#8220;career opportunity.&#8221; Hello!!! I&#8217;m an engineer, why the hell would I want to sell toothpaste! _&#8220;Oh no,&#8221;_ he says, _&#8220;That was my mistake at first. I thought they were going to tell me to sell door-to-door. All you have to do is refer people to our products.&#8221;_ _&#8220;Excrement!&#8221;_ I wanted to shout in his face, _&#8220;You get paid if you convince people to buy your products? I think that&#8217;s why it&#8217;s called selling!&#8221;_ _&#8220;Here, why don&#8217;t you take this tape before you decide?&#8221;_, he goes on. _&#8220;After all, as an engineer, you can&#8217;t make a decision without information!&#8221;_ Yeah right, and let you waste another hour-and-a-half of my life? (In addition to the two hours I had to listen to the talk that is.) _&#8220;It&#8217;s not for me,&#8221;_ I tell him, not wanting to be rude. _&#8220;Why not?&#8221;_ he persists, _&#8220;How can you know if you don&#8217;t listen to the tape?&#8221;_ I wanted to smack him around a bit right there and then.
   
     _&#8220;Hello! There&#8217;s a part of my brain that goes screaming &#8216;Nooooo!!!!&#8217; if I don&#8217;t wanna do something, that&#8217;s how I know! If I was the type of person who enjoys gathering people and convincing them to buy expensive toothpaste, then that&#8217;s what I&#8217;d be doing.&#8221; _Grrr. I left Megamall quite riled up after that. I had lost two hours, possibly of sleep, and I still had work the next day.
   

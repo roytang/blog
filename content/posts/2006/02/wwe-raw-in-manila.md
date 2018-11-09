@@ -1,13 +1,13 @@
 ---
-title: WWE Raw In Manila!
 author: Roy
-type: post
-date: 2006-02-26T01:14:08+00:00
-url: /2006/02/wwe-raw-in-manila/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-02-26 01:14:08
+title: WWE Raw In Manila!
+type: post
+url: /2006/02/wwe-raw-in-manila/
 ---
+
 Wooo!
 
 I&#8217;m not sure how to begin; my brothers and I have been wrestling fans for almost twenty years now, and as far as I can remember this was the only time that the WWE ever came to the Philippines. The last time was a long time ago, and although I wanted to see it, there was no way I could convince my parents then that the largish amount of cash needed to go was worth it. This time, I was determined to go, and I bought tickets for my brother Alvin and our _pamangkin _Gelo (so I spent for three tickets total.) We only got Upper Box B tickets at the Araneta Colliseum, but that was enough. Some people were telling me it was a waste of money to see the show, but after the experience of last night, I have to say it was really worth it! In fact, I can only imagine that the &#8220;main&#8221; Monday Night RAW shows are probably even better.

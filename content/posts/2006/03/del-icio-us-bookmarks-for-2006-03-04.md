@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-03-04
 author: Roy
-type: post
-date: 2006-03-04T18:00:01+00:00
-url: /2006/03/del-icio-us-bookmarks-for-2006-03-04/
 categories:
-  - Links
+- Links
+date: 2006-03-04 18:00:01
 format: link
-
+title: Del.icio.us bookmarks for 2006-03-04
+type: post
+url: /2006/03/del-icio-us-bookmarks-for-2006-03-04/
 ---
+
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-03-04
 
   * [20 greatest cartoon characters

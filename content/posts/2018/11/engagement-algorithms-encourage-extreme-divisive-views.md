@@ -1,13 +1,13 @@
 ---
-title: Engagement algorithms encourage extreme/divisive views
 author: roy
-type: post
-date: 2018-11-04T05:04:28+00:00
-url: /2018/11/engagement-algorithms-encourage-extreme-divisive-views/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2018-11-04 05:04:28
+title: Engagement algorithms encourage extreme/divisive views
+type: post
+url: /2018/11/engagement-algorithms-encourage-extreme-divisive-views/
 ---
+
 Apparently, [Youtube&#8217;s algorithms tend to promote extremist content][1].
 
 This is an unsurprising (yet unforeseen) consequence of the &#8220;free&#8221; advertising-driven internet. Social media algorithms optimize for engagement (eyeballs, views, likes, whatever, etc). Meanwhile, humans are more likely to engage with controversial content. Everyday status quo content is boring by comparison. Hence, controversial or extremist content will tend to bubble to the top. 

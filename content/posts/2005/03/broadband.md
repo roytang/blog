@@ -1,14 +1,14 @@
 ---
-title: Broadband!
 author: Roy
-type: post
-date: 2005-03-24T02:35:00+00:00
-url: /2005/03/broadband/
 categories:
-  - Just Another Day
-  - Tech Life
-
+- Just Another Day
+- Tech Life
+date: 2005-03-24 02:35:00
+title: Broadband!
+type: post
+url: /2005/03/broadband/
 ---
+
 Ooo&#8230;DSL is fast! Now I need something to do with it&#8230;
 
 ## Comments

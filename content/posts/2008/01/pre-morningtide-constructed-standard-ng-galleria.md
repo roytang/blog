@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-01-06 04:43:10
 title: 'Pre Morningtide Constructed: Standard @ NG Galleria'
 type: post
-date: 2008-01-06T04:43:10+00:00
 url: /2008/01/pre-morningtide-constructed-standard-ng-galleria/
-categories:
-  - Magic the Gathering
-
 ---
+
 Tournament was at January 5 2008 in Robinson&#8217;s Galleria. I only found out the day before, so I brought the only deck I had &#8211; Mannequin.
 
 Round 1: 0-2 loss vs UG Faeries

@@ -1,13 +1,13 @@
 ---
-title: Opera 9.5
 author: Roy
-type: post
-date: 2008-06-17T06:29:28+00:00
-url: /2008/06/opera-9-5/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2008-06-17 06:29:28
+title: Opera 9.5
+type: post
+url: /2008/06/opera-9-5/
 ---
+
 Because I&#8217;m a sucker for trying out alternative software, I installed and tried out the latest release of the Opera web browser, Opera 9.5, for a bit more than a week. Opera is neat and all, but I don&#8217;t see any features that are so awesome that they can&#8217;t be done in Firefox (with some extensions maybe).
 
 My favorite feature is I guess the Speed Dial page; where opening a new tab displays a customizable table of common websites you visit. Opera also provides a function to zoom in or out of any web page (don&#8217;t know if Firefox has a similar extension). Supposedly Opera is also the fastest in terms of browser rendering; I didn&#8217;t perform any benchmarks, but I didn&#8217;t notice any significant difference either.

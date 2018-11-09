@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2006-12-18 06:30:51
 title: Final Fantasy Tactics is getting a port!
 type: post
-date: 2006-12-18T06:30:51+00:00
 url: /2006/12/final-fantasy-tactics-is-getting-a-port/
-categories:
-  - Gaming
-
 ---
+
 &#8230;
    
 [

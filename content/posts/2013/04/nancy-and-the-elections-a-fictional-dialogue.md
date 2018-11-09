@@ -1,14 +1,14 @@
 ---
-title: 'Nancy and the Elections: A Fictional Dialogue'
 author: roy
-type: post
-date: 2013-04-25T14:14:16+00:00
-url: /2013/04/nancy-and-the-elections-a-fictional-dialogue/
 categories:
-  - Just Another Day
-  - Opinions
-
+- Just Another Day
+- Opinions
+date: 2013-04-25 14:14:16
+title: 'Nancy and the Elections: A Fictional Dialogue'
+type: post
+url: /2013/04/nancy-and-the-elections-a-fictional-dialogue/
 ---
+
 People who follow me on Facebook or Twitter know that I&#8217;ve been recently made a number of anti-Nancy Binay posts. For a while now I&#8217;ve been wanting to write a blog post about that and several other election-related thoughts. I&#8217;ve decided to present these thoughts it as a fictional chat between made-up characters. Totally fictional characters. Any resemblance to actual people living or dead = pure coincidence. <em style="font-size: smaller; color: gray;">(Although if you must try to imagine these characters, you can imagine jaeger as a dashing idealist, in-in as a cynical pragmatist, ORYLY as a carefree vagabond and Scrappy coco as someone who just wandered into the wrong room.)</em>
 
 &nbsp;

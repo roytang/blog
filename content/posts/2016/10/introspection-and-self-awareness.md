@@ -1,13 +1,13 @@
 ---
-title: Introspection and Self-Awareness
 author: roy
-type: post
-date: 2016-10-18T01:30:04+00:00
-url: /2016/10/introspection-and-self-awareness/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-10-18 01:30:04
+title: Introspection and Self-Awareness
+type: post
+url: /2016/10/introspection-and-self-awareness/
 ---
+
 Sometimes I write something and at the end I find that it upsets me. Or I think about something I haven&#8217;t thought about in a long time just before I sleep, then I have a nightmare about it and it saddens me to think that my subconscious still hasn&#8217;t let go of it after all this time
 
 That&#8217;s a good thing though, right? One of the purpose of writing and introspection is to become more attuned to your inner thoughts and emotions, to better understand and work with your own self. I try to have this self-awareness that I&#8217;m sure not many people bother with

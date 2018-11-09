@@ -1,13 +1,13 @@
 ---
-title: Web Frameworks – Open Source or Roll Your Own?
 author: roy
-type: post
-date: 2017-06-22T04:19:27+00:00
-url: /2017/06/web-frameworks-open-source-or-roll-your-own/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-06-22 04:19:27
+title: "Web Frameworks \xE2\u20AC\u201C Open Source or Roll Your Own?"
+type: post
+url: /2017/06/web-frameworks-open-source-or-roll-your-own/
 ---
+
 <div class="" data-block="true" data-editor="154rn" data-offset-key="2j7h7-0-0">
   <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="2j7h7-0-0">
     <span class="hardreadability"><span data-offset-key="bk3q5-0-0">A while back I </span></span><a href="http://roytang.net/2016/10/coding-frameworks/"><span data-offset-key="bk3q5-1-0">wrote about my experience</span></a><span class="hardreadability"><span data-offset-key="bk3q5-2-0"> coding and maintaining an in-house web framework at a previous job</span></span><span data-offset-key="bk3q5-3-0">. It was a full-stack web framework. We had libraries for front-end Javascript up to server-side database connections. And the entire stack was </span><span class="adverb"><span data-offset-key="bk3q5-4-0">tightly</span></span><span data-offset-key="bk3q5-5-0"> coupled. </span><span class="hardreadability"><span data-offset-key="bk3q5-6-0"> But while the framework was serviceable, it was almost always behind modern trends in web development</span></span><span data-offset-key="bk3q5-7-0">. I always felt like we were playing catch-up. And as a developer I wanted to widen my horizons and try out more things. </span><span class="hardreadability"><span data-offset-key="bk3q5-8-0">So more than once I had discussions with higher management about using open source web frameworks in some projects</span></span><span data-offset-key="bk3q5-9-0">.</span>

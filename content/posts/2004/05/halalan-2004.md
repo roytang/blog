@@ -1,13 +1,13 @@
 ---
-title: Halalan 2004
 author: Roy
-type: post
-date: 2004-05-10T01:00:58+00:00
-url: /2004/05/halalan-2004/
 categories:
-  - Philippines
-
+- Philippines
+date: 2004-05-10 01:00:58
+title: Halalan 2004
+type: post
+url: /2004/05/halalan-2004/
 ---
+
 I&#8217;ll probably leave for the voting place in a half an hour or so. Anyway, my choices are already made:
 
 PRESIDENT : Roco, Raul

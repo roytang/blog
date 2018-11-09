@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-04-19
 author: Roy
-type: post
-date: 2006-04-19T18:00:02+00:00
-url: /2006/04/del-icio-us-bookmarks-for-2006-04-19/
 categories:
-  - Links
+- Links
+date: 2006-04-19 18:00:02
 format: link
-
+title: Del.icio.us bookmarks for 2006-04-19
+type: post
+url: /2006/04/del-icio-us-bookmarks-for-2006-04-19/
 ---
+
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-04-19
 
   * [Floatutorial: Step by step CSS float tutorial

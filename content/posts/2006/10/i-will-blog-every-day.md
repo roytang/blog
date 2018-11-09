@@ -1,13 +1,13 @@
 ---
-title: I Will Blog Every Day
 author: Roy
-type: post
-date: 2006-10-01T08:28:20+00:00
-url: /2006/10/i-will-blog-every-day/
 categories:
-  - Meta
-
+- Meta
+date: 2006-10-01 08:28:20
+title: I Will Blog Every Day
+type: post
+url: /2006/10/i-will-blog-every-day/
 ---
+
 I&#8217;m bored, let&#8217;s do this.
 
 I will blog every day of October.

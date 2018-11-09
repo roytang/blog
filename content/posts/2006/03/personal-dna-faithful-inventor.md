@@ -1,13 +1,13 @@
 ---
-title: Personal DNA – Faithful Inventor
 author: Roy
-type: post
-date: 2006-03-08T07:09:27+00:00
-url: /2006/03/personal-dna-faithful-inventor/
 categories:
-  - Meta
-
+- Meta
+date: 2006-03-08 07:09:27
+title: "Personal DNA \xE2\u20AC\u201C Faithful Inventor"
+type: post
+url: /2006/03/personal-dna-faithful-inventor/
 ---
+
 [
   
 Full description

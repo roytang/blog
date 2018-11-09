@@ -1,13 +1,13 @@
 ---
-title: CSS-Based Design
 author: roy
-type: post
-date: 2005-05-08T15:18:00+00:00
-url: /2005/05/css-based-design/
 categories:
-  - Software Development
-
+- Software Development
+date: 2005-05-08 15:18:00
+title: CSS-Based Design
+type: post
+url: /2005/05/css-based-design/
 ---
+
 A while back, inspired by the [CSS Zen Garden][1], I modified my Blogger template to use entirely CSS-based design. That is, I can know update the layout instantly simply by replacing the stylesheet file used by template (like now!)
 
 The new layout uses up a wider screen space, but I think it&#8217;s neat. The lighter colors are easier on my tired, computer-strained eyes. Hopefully, this new CSS-based design allows me to do more experimentation and improve my ability to design web UIs.

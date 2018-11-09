@@ -1,13 +1,13 @@
 ---
-title: Scenes from a Quiz Night
 author: roy
-type: post
-date: 2013-03-24T16:44:57+00:00
-url: /2013/03/scenes-from-a-quiz-night/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2013-03-24 16:44:57
+title: Scenes from a Quiz Night
+type: post
+url: /2013/03/scenes-from-a-quiz-night/
 ---
+
 **Wednesday, March 20, 7:56pm** We were four of us walking down the barely lit passage on the side of the building. The guard had lazily pointed us to a large open door near the back of the building. The interior was a studio-type area and there was a group of three women dressed in white who had arrived ahead of us and we followed them up a narrow set of stairs to an elevated lounge area with chairs and tables. We recognized some of the faces already there so we knew we were in the right place. No, we weren&#8217;t there for some illicit meetup of any sort; we were there to participate in something a bit more geeky. We were here for a quiz night.
 
 Quiz nights (or [pub quizzes][1], as they&#8217;re known in Britain) at their heart are simple affairs. You get a bunch of friends to form a team and you go to the event venue for a night of answering questions on various topics, competing with other teams. There&#8217;s usually food and alcohol involved too. This particular quiz night we were attending was Geekfight, a monthly event which was coming back from a three-month hiatus. Their questions usually revolved around pop culture and traditionally geeky exploits. That means you knowledge of the minutiae of movies, TV shows, comic books and other such channels of geek culture.

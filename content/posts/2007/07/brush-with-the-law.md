@@ -1,13 +1,13 @@
 ---
-title: Brush with the Law
 author: Roy
-type: post
-date: 2007-07-28T19:03:11+00:00
-url: /2007/07/brush-with-the-law/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-07-28 19:03:11
+title: Brush with the Law
+type: post
+url: /2007/07/brush-with-the-law/
 ---
+
 A friend of mine, let&#8217;s call her &#8220;C&#8221;, was waiting for a taxi near her home. There were several other people there waiting for taxis but she had been there first. She finally managed to hail a cab and had already gotten in the back seat when an MMDA traffic guy [1] stopped her and told her that he had hailed that taxi for two women nearby that he pointed to. C said she was the one who had hailed the taxi, but the traffic guy politely but firmly insisted that she get out of the car. Indignant, C took note of the traffic guy&#8217;s name plate and went on her way.
 
 As soon as she got to the office, C composed a letter of complaint to the MMDA director and faxed it to their office as soon as she was able. Having coursed her complaint through several different offices, it was promptly handled and a hearing with the traffic guy was scheduled during the next week.

@@ -1,14 +1,14 @@
 ---
-title: Suggested additions to HS curriculum
 author: roy
-type: post
-date: 2018-10-24T13:00:00+00:00
-url: /2018/10/suggested-additions-to-hs-curriculum/
 categories:
-  - Opinions
-  - Philippines
-
+- Opinions
+- Philippines
+date: 2018-10-24 13:00:00
+title: Suggested additions to HS curriculum
+type: post
+url: /2018/10/suggested-additions-to-hs-curriculum/
 ---
+
 I have no plans of running for elective office (though it is a running joke among some of my circles), but if I were, one of the problems I would focus on would be education. As such, I have a list of suggested additions to the High School curriculum here in the Philippines. (The first version of this list was in an FB post I wrote during the 2016 campaign period, in response to people clamoring for better Martial Law education. I have since made additions and added some notes. )  
 
 

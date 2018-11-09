@@ -1,13 +1,13 @@
 ---
-title: On the Mohammed Cartoons Issue
 author: Roy
-type: post
-date: 2006-02-07T07:26:06+00:00
-url: /2006/02/on-the-mohammed-cartoons-issue/
 categories:
-  - Opinions
-
+- Opinions
+date: 2006-02-07 07:26:06
+title: On the Mohammed Cartoons Issue
+type: post
+url: /2006/02/on-the-mohammed-cartoons-issue/
 ---
+
 The response of the western world to the recent backlash against published cartoon depictions of mohammed could be described as the unavoidable result of two completely distinct cultures clashing against each other. On one hand, Islam dictates that any such depiction of the prophet Mohammed are considered as blasphemy; on the other hand, Western media views it as a free speech issue; since every other religion in the world tolerates media lampooning, why shouldn&#8217;t Islam? Arguably, other faiths also have a certain threshold of tolerance for religious mockery beyond which they would mercilessly tear down whatever publication dared to print it. The only difference is that the theshold for Islam is a lot easier to break.
 
 People are dying now, from riots against Danish embassies in protest of the actions of the Denmark papers. Western-cultured individuals would question why any intelligent human being would rail against a government for the actions of its&#8217; media outlets. But these radicals are the sort that don&#8217;t understand the virtues of the free press. The sheer number of Muslims reacting violently is a testament as to how many of the freedoms that we in the Western-oriented world take for granted can be considered as unimaginable in some cultures.

@@ -1,13 +1,13 @@
 ---
-title: Cleaning up your Code
 author: roy
-type: post
-date: 2016-12-29T01:30:36+00:00
-url: /2016/12/cleaning-up-your-code/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-12-29 01:30:36
+title: Cleaning up your Code
+type: post
+url: /2016/12/cleaning-up-your-code/
 ---
+
 In one of my most recent projects, a large system that had gone through a relatively long and unstable period of many, many changes due to sales demonstrations, different clients and whatnot, one of the &#8220;fun buffer tasks&#8221; I always kept around for devs was code cleanup. Because of the unstable nature of the project, there was always a lot of duplication, unused/unnecessary/obsolete classes/functions/files and so on. Unnecessarily large CSS files where most of the selectors were no longer really needed or JS libraries that weren&#8217;t actually used. That kind of thing.
 
 It&#8217;s one of those things that you&#8217;ll never get official approval from management to do, so you have to somehow sneak it in during your daily tasks. But it&#8217;s important for a couple of reasons:

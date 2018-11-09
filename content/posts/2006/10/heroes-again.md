@@ -1,13 +1,15 @@
 ---
-title: Heroes Again
 author: Roy
-type: post
-date: 2006-10-29T06:31:27+00:00
-url: /2006/10/heroes-again/
 categories:
-  - TV Series
-
+- Pop Culture
+date: 2006-10-29 06:31:27
+tags:
+- TV Series
+title: Heroes Again
+type: post
+url: /2006/10/heroes-again/
 ---
+
 This series is simple awesome. The writing is excellent, and the fact they&#8217;re using a lot of precognition implies how well the entire series should tie together.
 
 Hiro continues to be the shining star here. Future Hiro&#8217;s appearance promises us several things, namely:

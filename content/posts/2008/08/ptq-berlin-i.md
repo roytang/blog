@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-08-16 21:03:50
 title: PTQ Berlin I
 type: post
-date: 2008-08-16T21:03:50+00:00
 url: /2008/08/ptq-berlin-i/
-categories:
-  - Magic the Gathering
-
 ---
+
 The tournament was last Saturday, Aug 16 at Robinson&#8217;s Galleria. I played the same deck as
    
 [

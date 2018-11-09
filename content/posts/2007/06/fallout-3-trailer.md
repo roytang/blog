@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2007-06-09 18:18:49
 title: Fallout 3 Trailer
 type: post
-date: 2007-06-09T18:18:49+00:00
 url: /2007/06/fallout-3-trailer/
-categories:
-  - Gaming
-
 ---
+
 Edit: After a WordPress upgrade, this post was messing up the layout. Changed to link to youtube video instead of embedding.
 
 [

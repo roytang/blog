@@ -1,13 +1,13 @@
 ---
-title: Google Code Jam and Competitive Programming
 author: roy
-type: post
-date: 2017-03-16T01:30:54+00:00
-url: /2017/03/google-code-jam-and-competitive-programming/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-03-16 01:30:54
+title: Google Code Jam and Competitive Programming
+type: post
+url: /2017/03/google-code-jam-and-competitive-programming/
 ---
+
 Back in 2004, I signed up for the [Google Code Jam][1] for the first time. Unfortunately I didn&#8217;t make it past the qualifying round.
 
 I was a bit luckier in [2008][2] and 2010, making it to round 2 both times. In fact in 2008 as I recall I was one of only two participants from the Philippines who made it to round 2, which allowed me to jokingly brag about being the #2 programmer in the country.

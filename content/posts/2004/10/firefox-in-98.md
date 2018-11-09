@@ -1,13 +1,13 @@
 ---
-title: Firefox in 98?
 author: Roy
-type: post
-date: 2004-10-31T06:56:49+00:00
-url: /2004/10/firefox-in-98/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2004-10-31 06:56:49
+title: Firefox in 98?
+type: post
+url: /2004/10/firefox-in-98/
 ---
+
 This internet shop is using Windows 98, apparently. And it looks like Firefox&#8217;s icon doesn&#8217;t show properly in 98?
 
 Oh, and [Yahoo has a new front page.

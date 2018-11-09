@@ -1,15 +1,15 @@
 ---
-title: 'Birthday #24'
 author: Roy
-type: post
-date: 2002-08-10T04:00:23+00:00
-url: /2002/08/birthday-24/
 categories:
-  - Just Another Day
+- Just Another Day
+date: 2002-08-10 04:00:23
 tags:
-  - birthday
-
+- birthday
+title: 'Birthday #24'
+type: post
+url: /2002/08/birthday-24/
 ---
+
 I turned 24 yesterday.
 
 Generally uneventful birthday, as usual. I&#8217;m glad I got the whining done in the last post. Spent the night before at David&#8217;s (whose birthday is a couple of days before mine). Dave, Mon and I played approximately seven hours of CvS2, watched a Jet Li flick then played around eight hours of Warcraft III. WC3 is the bomb! (And it further highlights my craving for a new computer) Anyway, went home the next morning, got some sleep. Then the usual birthday food in the evening, and some new pants.

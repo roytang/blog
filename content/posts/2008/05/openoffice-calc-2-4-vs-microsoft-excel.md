@@ -1,13 +1,13 @@
 ---
-title: OpenOffice Calc 2.4 vs Microsoft Excel
 author: Roy
-type: post
-date: 2008-05-14T20:00:33+00:00
-url: /2008/05/openoffice-calc-2-4-vs-microsoft-excel/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2008-05-14 20:00:33
+title: OpenOffice Calc 2.4 vs Microsoft Excel
+type: post
+url: /2008/05/openoffice-calc-2-4-vs-microsoft-excel/
 ---
+
 An alpha release was just announced for Open Office 3. Being an Ubuntu user, Open Office is really the only sane choice I have for an office suite. At work I&#8217;m using Microsoft Office 2007. Among the office suite applications, I&#8217;m most of a power user for the spreadsheet applications. Here&#8217;s my side-by-side comparison of Excel and oOo Calc:
 
 Microsoft Excel 2007 on Windows XP:

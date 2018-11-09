@@ -1,13 +1,13 @@
 ---
-title: The Gender Genie
 author: roy
-type: post
-date: 2005-04-09T22:36:09+00:00
-url: /2005/04/the-gender-genie/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-04-09 22:36:09
+title: The Gender Genie
+type: post
+url: /2005/04/the-gender-genie/
 ---
+
 [
   
 The Gender Genie

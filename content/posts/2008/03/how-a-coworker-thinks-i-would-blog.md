@@ -1,13 +1,13 @@
 ---
-title: How A Coworker Thinks I Would Blog
 author: Roy
-type: post
-date: 2008-03-20T22:31:47+00:00
-url: /2008/03/how-a-coworker-thinks-i-would-blog/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2008-03-20 22:31:47
+title: How A Coworker Thinks I Would Blog
+type: post
+url: /2008/03/how-a-coworker-thinks-i-would-blog/
 ---
+
 <span style="font-size: small;"><span style="color: #204a87;">(02:25:57 PHT) </span></span><span style="color: #204a87;"><strong><span style="font-size: medium;">Roy: </span></strong></span><span style="font-size: medium;">do you really think I would be emo? :p</span>
 
 <span style="font-size: small;"><span style="color: #cc0000;">(02:27:14 PHT) <span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">&#8220;&#8230; i looked at the screen&#8230; it did not look back at me&#8230; why? why? why must it be this f***** way..&#8221;<br /> </span>

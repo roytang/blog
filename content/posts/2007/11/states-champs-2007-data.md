@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-11-01 00:53:59
 title: States / Champs 2007 Data
 type: post
-date: 2007-11-01T00:53:59+00:00
 url: /2007/11/states-champs-2007-data/
-categories:
-  - Magic the Gathering
-
 ---
+
 I still have no idea what to play for Lorwyn Standard, so I was eagerly awaiting this year&#8217;s States/Champs results. There are already partial results up at MTG.com, and I had some time so I did some of my programming hocus-pocus and extracted some fun data.
 
 [

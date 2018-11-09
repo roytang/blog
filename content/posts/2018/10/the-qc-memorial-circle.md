@@ -1,13 +1,12 @@
 ---
-title: The QC Memorial Circle
 author: roy
-type: post
-date: 2018-10-21T01:00:34+00:00
-url: /2018/10/the-qc-memorial-circle/
 categories:
-  - Just Another Day
-  - Philippines
-
+- Just Another Day
+- Philippines
+date: 2018-10-21 01:00:34
+title: The QC Memorial Circle
+type: post
+url: /2018/10/the-qc-memorial-circle/
 ---
 
 {{< instagram Bo_SUmNAGhV >}}

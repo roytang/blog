@@ -1,13 +1,15 @@
 ---
-title: Manna
 author: Roy
-type: post
-date: 2003-12-06T10:37:05+00:00
-url: /2003/12/manna/
 categories:
-  - Review
-
+- Just Another Day
+date: 2003-12-06 10:37:05
+tags:
+- Review
+title: Manna
+type: post
+url: /2003/12/manna/
 ---
+
 &#8230;is a very nicely written, and highly plausible [story
   
 ][1] 

@@ -1,13 +1,13 @@
 ---
-title: New Year 2007
 author: Roy
-type: post
-date: 2007-01-01T06:24:37+00:00
-url: /2007/01/new-year-2007/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-01-01 06:24:37
+title: New Year 2007
+type: post
+url: /2007/01/new-year-2007/
 ---
+
 This year, I resolve to find more direction.
 
 That being said, I&#8217;m kind of behind already. I usually manage a total cleanup of all the stuff in my room before the New Year. This year? Not even close.

@@ -1,14 +1,15 @@
 ---
-title: 'Review: Final Fantasy XV'
 author: roy
-type: post
-date: 2017-03-18T01:30:41+00:00
-url: /2017/03/review-final-fantasy-xv/
 categories:
-  - Gaming
-  - Review
-
+- Gaming
+date: 2017-03-18 01:30:41
+tags:
+- Review
+title: 'Review: Final Fantasy XV'
+type: post
+url: /2017/03/review-final-fantasy-xv/
 ---
+
 With The FFXIII trilogy not being particularly well-received and FFXIV being an MMO, Final Fantasy XV has been a long awaited as the next mainline single-player game in the much-acclaimed series. This review will have minor spoilers.
 
 <img class="alignnone size-full" src="http://i.imgur.com/mxS7hvb.png" width="1920" height="1080" />

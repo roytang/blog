@@ -1,13 +1,13 @@
 ---
-title: Hong Kong Saga, Part Three
 author: Roy
-type: post
-date: 2007-08-04T01:48:31+00:00
-url: /2007/08/hong-kong-saga-part-three/
 categories:
-  - Travels
-
+- Travels
+date: 2007-08-04 01:48:31
+title: Hong Kong Saga, Part Three
+type: post
+url: /2007/08/hong-kong-saga-part-three/
 ---
+
 It&#8217;s a bit strange, but somehow Hong Kong is becoming a bit familiar to me by now. This is only my third time here of course, and I&#8217;ve spent less than five weeks here in total since 2004. Still I find that certain things like ordering at restaurants and riding the MTR have started to become a bit more &#8220;normal&#8221; for me.
 
 Originally when I was told that I would be staying in HK for two weeks, I was a bit depressed, as I didn&#8217;t really enjoy the prolonged stay last time. Hong Kong is not a particularly exciting place for me as I&#8217;m not the sort of person who totally enjoys being either a tourist or a shopper, which are the usual reasons why people come to HK. I&#8217;m not planning to go to Disneyland or Ocean Park so when people ask what I plan to do during the weekend I just tell them the truth: I have no plans. Probably bum around.

@@ -1,13 +1,13 @@
 ---
-title: An Uneventful Holy Week
 author: roy
-type: post
-date: 2007-04-09T01:00:39+00:00
-url: /2007/04/an-uneventful-holy-week/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-04-09 01:00:39
+title: An Uneventful Holy Week
+type: post
+url: /2007/04/an-uneventful-holy-week/
 ---
+
 Due to pressing work concerns, I was unable to go to confession for Holy Week this year. So much for being a devout Catholic.
 
 As is tradition, most of the long weekend was spent watching a whole lot of stuff:

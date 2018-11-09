@@ -1,12 +1,12 @@
 ---
-title: Suikoden V – Beginning
-type: post
-date: 2006-04-09T06:51:09+00:00
-url: /2006/04/suikoden-v-beginning/
 categories:
-  - Gaming
-
+- Gaming
+date: 2006-04-09 06:51:09
+title: "Suikoden V \xE2\u20AC\u201C Beginning"
+type: post
+url: /2006/04/suikoden-v-beginning/
 ---
+
 _
     
 (My previous practice was never to post an entry about a game until I&#8217;d finished it. This was a good idea during those days that I had a lot of free time and could finish the average RPG in a week. I haven&#8217;t been in that state for four years.)

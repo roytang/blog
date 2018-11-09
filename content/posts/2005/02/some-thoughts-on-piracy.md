@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2005-02-06 06:04:33
 title: Some thoughts on piracy
 type: post
-date: 2005-02-06T06:04:33+00:00
 url: /2005/02/some-thoughts-on-piracy/
-categories:
-  - Gaming
-
 ---
+
 I tried to play two PS2 games today: Spiderman 2 and Naruto &#8211; Narutimate Hero 2. I knew we had pirated copies of both.
 
 Spiderman 2 &#8211; failed. The PS2 wouldn&#8217;t even play the disc. Instead it made a wonderful churning noise that made me quickly hit the eject button. This is Sony&#8217;s best form of copy protection: In my experience, our PS2 can only play somewhere between 30% &#8211; 50% of all pirated discs out there. I don&#8217;t know&#8230;it may just be our PS2 model. Sometimes if I particularly like a game, I will buy 2-3 pirated copies until I find one that agrees with our PS2. This is why I have 3 copies of

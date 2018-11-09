@@ -1,13 +1,13 @@
 ---
-title: Google Code Jam 2008
 author: Roy
-type: post
-date: 2008-08-08T04:25:29+00:00
-url: /2008/08/google-code-jam-2008/
 categories:
-  - Software Development
-
+- Software Development
+date: 2008-08-08 04:25:29
+title: Google Code Jam 2008
+type: post
+url: /2008/08/google-code-jam-2008/
 ---
+
 I joined this year&#8217;s [Google Code Jam][1].
 
 It&#8217;s part of my characteristic competitiveness and arrogance that I actually imagined I had a chance at winning the contest. No such luck, see [my results][2]. I was eliminated in the second online round. That I managed to get there at all was surprising considering the level of difficulty.

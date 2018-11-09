@@ -1,14 +1,15 @@
 ---
-title: Trying out 3d Modelling with Blender
 author: roy
-type: post
-date: 2018-02-01T01:00:54+00:00
-url: /2018/02/trying-out-3d-modelling-with-blender/
 categories:
-  - Learning Things
-  - Self-Improvement
-
+- Self-Improvement
+date: 2018-02-01 01:00:54
+tags:
+- Learning Things
+title: Trying out 3d Modelling with Blender
+type: post
+url: /2018/02/trying-out-3d-modelling-with-blender/
 ---
+
 I decided to try learning some 3d modeling. For the past couple of weeks I&#8217;ve been following this beginner [Blender][1] tutorial where I had to make donuts. ([Link to the tutorial series on Youtube][2].) Here&#8217;s my output!<figure id="attachment_2554" style="width: 150px" class="wp-caption aligncenter">
 
 [<img class="wp-image-2554 size-thumbnail" src="http://roytang.net/wp-content/uploads/2018/02/donut4-150x150.png" alt="" width="150" height="150" srcset="https://roytang.net/wp-content/uploads/2018/02/donut4-150x150.png 150w, https://roytang.net/wp-content/uploads/2018/02/donut4-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />][3]<figcaption class="wp-caption-text">(click for full size)</figcaption></figure> 

@@ -1,14 +1,16 @@
 ---
-title: Favorite JRPG Tracks
 author: roy
-type: post
-date: 2018-11-06T05:06:02+00:00
-url: /2018/11/favorite-jrpg-tracks/
 categories:
-  - Gaming
-  - Music
-
+- Gaming
+- Pop Culture
+date: 2018-11-06 05:06:02
+tags:
+- Music
+title: Favorite JRPG Tracks
+type: post
+url: /2018/11/favorite-jrpg-tracks/
 ---
+
 I used to play a lot of JRPGs, especially back during they heyday of the Playstation Era. These days, I only get to play a few, but I still enjoy a lot of the music tracks from this game, often the battle music since I prefer more upbeat tracks. Here are some of my favorite JRPG tracks from recent years:
 
 Rivers in the Desert (Persona 5) &#8211; easily the best song in the OST for me, and the rest of this OST is amazing so that&#8217;s saying a lot.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">

@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-03-08
 author: Roy
-type: post
-date: 2006-03-08T18:00:02+00:00
-url: /2006/03/del-icio-us-bookmarks-for-2006-03-08/
 categories:
-  - Links
+- Links
+date: 2006-03-08 18:00:02
 format: link
-
+title: Del.icio.us bookmarks for 2006-03-08
+type: post
+url: /2006/03/del-icio-us-bookmarks-for-2006-03-08/
 ---
+
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-03-08
 
   * [Tour de Babel][3]

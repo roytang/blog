@@ -1,13 +1,13 @@
 ---
-title: 'Games: Why Sony’s PSP will suck'
 author: Roy
-type: post
-date: 2005-02-10T02:55:02+00:00
-url: /2005/02/games-why-sony39s-psp-will-suck/
 categories:
-  - Gaming
-
+- Gaming
+date: 2005-02-10 02:55:02
+title: "Games: Why Sony's PSP will suck"
+type: post
+url: /2005/02/games-why-sony39s-psp-will-suck/
 ---
+
 [
   
 GearLive: Why Sony&#8217;s PSP will suck

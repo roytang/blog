@@ -1,23 +1,23 @@
 ---
-title: Rise of Eldrazi Prerelease Report
-author: roy
-type: post
-date: 2010-04-18T02:48:10+00:00
-url: /2010/04/rise-of-eldrazi-prerelease-report/
 aktt_notify_twitter:
-  - no
-jd_tweet_this:
-  - yes
-wp_jd_target:
-  - http://mtgstorm.com/2010/04/rise-of-eldrazi-prerelease-report/
-wp_jd_bitly:
-  - http://bit.ly/9baEIH
+- false
+author: roy
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2010-04-18 02:48:10
+jd_tweet_this:
+- true
 tags:
-  - Limited
-
+- Limited
+title: Rise of Eldrazi Prerelease Report
+type: post
+url: /2010/04/rise-of-eldrazi-prerelease-report/
+wp_jd_bitly:
+- http://bit.ly/9baEIH
+wp_jd_target:
+- http://mtgstorm.com/2010/04/rise-of-eldrazi-prerelease-report/
 ---
+
 I played in the Rise of Eldrazi Prerelease Event yesterday at Eton Cyberpod in the Ortigas area. It was a new mall, so I went there a bit before opening time in case I had trouble finding the venue. Turns out that wouldn&#8217;t be a problem as there were a bunch of Magic players outside the mall waiting for it to open when I got there. It turns out that the mall had recently changed it&#8217;s opening hours from 10 AM to 11 AM though, so we all had to wait outside in the heat for an additional hour before we could start the event. =/
 
 Annoying mall policies aside, here&#8217;s my prerelease sealed pool:

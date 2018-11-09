@@ -1,17 +1,17 @@
 ---
-title: Grand Prix London 2015
 author: roy
-type: post
-date: 2015-08-31T13:36:12+00:00
-url: /2015/08/grand-prix-london-2015/
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2015-08-31 13:36:12
 tags:
-  - grand-prix
-  - standard
-  - tournament-report
-
+- grand-prix
+- standard
+- tournament-report
+title: Grand Prix London 2015
+type: post
+url: /2015/08/grand-prix-london-2015/
 ---
+
 I was sent to London for work for a few months, which meant an opportunity to play a third GP for the year after [Manila back in January][1] and [Singapore back in June][2]. This will be the most GP events I&#8217;ve played in a one year period. I didn&#8217;t have time to practice, so I went with an updated version of the Jeskai tempo deck I was playing at the start of Khans rotation.
 
 [cardlist title=Jeskai Tempo]

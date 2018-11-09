@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-10-29 15:14:40
 title: GTA III for the NES?
 type: post
-date: 2004-10-29T15:14:40+00:00
 url: /2004/10/gta-iii-for-the-nes/
-categories:
-  - Gaming
-
 ---
+
 [
     
 http://www.grandtheftendo.com/

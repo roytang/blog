@@ -1,12 +1,12 @@
 ---
-title: 'GPT Taipei I *Top8*'
-type: post
-date: 2008-10-11T21:11:49+00:00
-url: /2008/10/gpt-taipei-i-top8/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2008-10-11 21:11:49
+title: GPT Taipei I *Top8*
+type: post
+url: /2008/10/gpt-taipei-i-top8/
 ---
+
 I haven&#8217;t had a top eight result in a while. Thank goodness for limited season!
 
 I registered a deck that I would have loved to play, with highlights such as Caldera Hellion, 2 Oblivion Rings and 2 Resounding Thunders, plus a lot of good blue/black stuff. Of course, we pass the card pools and here&#8217;s the one I ended up playing:

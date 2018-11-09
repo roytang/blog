@@ -1,13 +1,13 @@
 ---
-title: My 2017 in numbers
 author: roy
-type: post
-date: 2018-01-01T01:00:03+00:00
-url: /2018/01/my-2017-in-numbers/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2018-01-01 01:00:03
+title: My 2017 in numbers
+type: post
+url: /2018/01/my-2017-in-numbers/
 ---
+
 Happy new year! Last year I [posted some year-end statistics][1]. That seems like a good way to recap the year, so let&#8217;s do it again. Random statistics from 2017:
 
   * 45 blog posts (including this one; total of 818 currently on this site according to wp-admin, though that number doesn&#8217;t add up to last year&#8217;s stats; down 34 posts from last year, an indicator of increased busyness)

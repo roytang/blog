@@ -1,14 +1,14 @@
 ---
-title: Appearances and Diplomacy
 author: roy
-type: post
-date: 2016-10-04T01:30:39+00:00
-url: /2016/10/appearances-and-diplomacy/
 categories:
-  - Opinions
-  - Philippines
-
+- Opinions
+- Philippines
+date: 2016-10-04 01:30:39
+title: Appearances and Diplomacy
+type: post
+url: /2016/10/appearances-and-diplomacy/
 ---
+
 (A bit of Philippine politics in this post, if that sort of thing bothers you)
 
 Recently as the whole world watched one of our political leaders display his expected lack of diplomatic finesse on the global stage, I couldn&#8217;t help but think about how in my younger days there&#8217;s a good chance I might have approved of his frank, straight-talking, shoot-from-the-hip brand of diplomacy. I have a bit of a reputation myself for preferring to speak frankly and directly instead of dancing around the issues, although these days I understand the wisdom of adapting to the situation as needed

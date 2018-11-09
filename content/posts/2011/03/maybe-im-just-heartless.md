@@ -1,15 +1,15 @@
 ---
-title: Maybe I’m just heartless…
-author: roy
-type: post
-date: 2011-03-30T23:28:57+00:00
-url: /2011/03/maybe-im-just-heartless/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2011-03-30 23:28:57
+title: "Maybe I'm just heartless\xE2\u20AC\xA6"
+type: post
+url: /2011/03/maybe-im-just-heartless/
 ---
+
 &#8230;but I feel like this country has spent far too much energy pleading and praying for and glorifying and sensationalizing three drug mules when we should be trying to figure out how they got past our airport security and immigration officers in the first place.
 
 ## Comments

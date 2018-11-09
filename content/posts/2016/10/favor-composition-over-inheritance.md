@@ -1,13 +1,13 @@
 ---
-title: Favor Composition Over Inheritance
 author: roy
-type: post
-date: 2016-10-20T01:30:10+00:00
-url: /2016/10/favor-composition-over-inheritance/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-10-20 01:30:10
+title: Favor Composition Over Inheritance
+type: post
+url: /2016/10/favor-composition-over-inheritance/
 ---
+
 &#8220;[Composition over inheritance][1]&#8221; is an object-oriented programming principle that I&#8217;m sad to say many devs I&#8217;ve encountered aren&#8217;t too familiar with. Composition provides greater flexibility, modularity, and extensibility in large software systems as compared to inheritance, especially for statically typed languages like Java that don&#8217;t support multiple inheritance
 
 The most common examples of the problems caused by too much inheritance involved generic object such as the game objects example in the wikipedia page linked above. I want to cite a more enterprise-y example I&#8217;ve encountered in past projects

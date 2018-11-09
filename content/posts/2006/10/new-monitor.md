@@ -1,13 +1,15 @@
 ---
-title: new monitor
 author: Roy
-type: post
-date: 2006-10-30T08:28:38+00:00
-url: /2006/10/new-monitor/
 categories:
-  - Hardware
-
+- Tech Life
+date: 2006-10-30 08:28:38
+tags:
+- Hardware
+title: new monitor
+type: post
+url: /2006/10/new-monitor/
 ---
+
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;">
   <a title="photo sharing" href="http://www.flickr.com/photos/65204400@N00/283671097/"><br /> <img style="border: solid 2px #000000;" src="http://static.flickr.com/101/283671097_154acf9e86_m.jpg" alt="" /><br /> </a></p> 
   

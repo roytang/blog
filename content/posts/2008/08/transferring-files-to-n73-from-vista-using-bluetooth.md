@@ -1,13 +1,13 @@
 ---
-title: Transferring Files to N73 from Vista Using Bluetooth
 author: Roy
-type: post
-date: 2008-08-22T07:46:38+00:00
-url: /2008/08/transferring-files-to-n73-from-vista-using-bluetooth/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2008-08-22 07:46:38
+title: Transferring Files to N73 from Vista Using Bluetooth
+type: post
+url: /2008/08/transferring-files-to-n73-from-vista-using-bluetooth/
 ---
+
 I needed to transfer a file to my phone today, but could not find my USB cable. I figured I&#8217;d try out the Bluetooth with the laptop.
 
 After around 30 minutes of struggling with the unintuitiveness and some helpful googling I finally was able to transfer my file using the ff steps, for future reference:

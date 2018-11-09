@@ -1,13 +1,15 @@
 ---
-title: Recent Reading 2006-03-12
 author: roy
-type: post
-date: 2006-03-12T00:42:25+00:00
-url: /2006/03/recent-reading-2006-03-12/
 categories:
-  - Books
-
+- Pop Culture
+date: 2006-03-12 00:42:25
+tags:
+- Books
+title: Recent Reading 2006-03-12
+type: post
+url: /2006/03/recent-reading-2006-03-12/
 ---
+
 Books I&#8217;ve finished reading in the past few months:
 
 _

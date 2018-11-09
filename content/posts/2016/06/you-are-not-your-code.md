@@ -1,13 +1,13 @@
 ---
-title: You Are Not Your Code
 author: roy
-type: post
-date: 2016-06-01T22:31:10+00:00
-url: /2016/06/you-are-not-your-code/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-06-01 22:31:10
+title: You Are Not Your Code
+type: post
+url: /2016/06/you-are-not-your-code/
 ---
+
 I once had to advise someone who found himself irritated at receiving lots of comments during code review. I think my response was good enough to quote verbatim:
 
 > <p class="qtext_para">

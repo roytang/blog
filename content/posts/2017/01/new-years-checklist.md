@@ -1,14 +1,14 @@
 ---
-title: New Year’s Checklist
 author: roy
-type: post
-date: 2017-01-01T05:30:04+00:00
-url: /2017/01/new-years-checklist/
 categories:
-  - Opinions
-  - Self-Improvement
-
+- Opinions
+- Self-Improvement
+date: 2017-01-01 05:30:04
+title: "New Year's Checklist"
+type: post
+url: /2017/01/new-years-checklist/
 ---
+
 In no particular order:
 
   * Greet your loved ones and friends and anyone else you hold dear. Maybe even those you disagree with

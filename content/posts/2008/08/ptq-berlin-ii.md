@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-08-23 17:35:11
 title: PTQ Berlin II
 type: post
-date: 2008-08-23T17:35:11+00:00
 url: /2008/08/ptq-berlin-ii/
-categories:
-  - Magic the Gathering
-
 ---
+
 2nd PTQ was last Saturday, August 23 at Robinson&#8217;s Calleria. I brought a slightly modified version of the greedy deck:
 
 <div class="decklist">

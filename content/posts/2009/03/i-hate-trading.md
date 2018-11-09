@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-03-21 10:58:34
 title: I Hate Trading
 type: post
-date: 2009-03-21T10:58:34+00:00
 url: /2009/03/i-hate-trading/
-categories:
-  - Magic the Gathering
-
 ---
+
 For the record: I hate trading.
 
 I realize it&#8217;s necessary to the way Magic&#8217;s business model works, and I realize it&#8217;s part of what makes opening booster packs fun, but make no mistakes about it: I hate trading.

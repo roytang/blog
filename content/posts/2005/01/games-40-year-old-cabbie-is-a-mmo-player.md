@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2005-01-31 14:17:56
 title: 'Games: 40-year old cabbie is a MMO Player'
 type: post
-date: 2005-01-31T14:17:56+00:00
 url: /2005/01/games-40-year-old-cabbie-is-a-mmo-player/
-categories:
-  - Gaming
-
 ---
+
 [
     
 Khan-fusion and a cabbie tale &#8211; INQ7.net

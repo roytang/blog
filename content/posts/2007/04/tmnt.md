@@ -1,13 +1,15 @@
 ---
-title: TMNT
 author: Roy
-type: post
-date: 2007-04-01T05:27:42+00:00
-url: /2007/04/tmnt/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2007-04-01 05:27:42
+tags:
+- Movies
+title: TMNT
+type: post
+url: /2007/04/tmnt/
 ---
+
 if you&#8217;ve ever lived in the Philippines during the summer months, you&#8217;re well aware of the sweltering heat. Not being in the mood to feel like french toast during this Sunday noontime, my brothers and I decided to troop to the nearby mall and catch a movie &#8211; in this case the return of those childhood stalwarts the Teenage Mutant Ninja Turtles to the big screen.
 
 Now, as my youngest brother asked, what were we doing there? TMNT is a kids&#8217; movie right? Yeah, more or less I suppose, but all of us brothers saw the first 3 live-action Turtles movies, played the NES game with the annoying dam sequence and watched not just a few episodes of the cartoon series. Thankfully, none of us had any Turtles jammies.

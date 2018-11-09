@@ -1,13 +1,13 @@
 ---
-title: Everyone is Biased
 author: roy
-type: post
-date: 2016-06-21T01:30:12+00:00
-url: /2016/06/everyone-is-biased/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-06-21 01:30:12
+title: Everyone is Biased
+type: post
+url: /2016/06/everyone-is-biased/
 ---
+
 _Grammar note: &#8220;Biased&#8221; is an adjective. &#8220;Bias&#8221; is a noun. It is not appropriate to say that a person or an entity &#8220;is bias&#8221;. Unless you are talking to like a prejudice elemental or something (takes note of that for hypothetical hipster RPG)_
 
 In a (long-winded) discussion during the recent election period, someone told me that I &#8220;obviously had a bias&#8221; and my answer was &#8220;Of course I do! Everyone does!&#8221; People have different histories and backgrounds which means for any given topic they are likely to start from different points. These biases are perfectly okay and healthy and they&#8217;re called opinions. (Cue quote about opinions being like assholes). Example: I&#8217;m not in favor of the death penalty therefore I&#8217;m biased against candidates that want to promote it

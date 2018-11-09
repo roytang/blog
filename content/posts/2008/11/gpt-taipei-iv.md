@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-11-12 08:06:21
 title: GPT Taipei IV
 type: post
-date: 2008-11-12T08:06:21+00:00
 url: /2008/11/gpt-taipei-iv/
-categories:
-  - Magic the Gathering
-
 ---
+
 Tournament was last November 2 at Robinson&#8217;s Galleria. The format is Shards of Alara sealed. Because the store lacked tourney packs, the tournament was split into two halves; one half would get 1 tourney pack + 2 boosters, the other half would get 5 boosters. I played in the tourney pack half.
 
 My pool and decklist to follow. Basically, I played Naya again, splashing blue for (this is ridiculous) 2 Kederekt Leviathans!

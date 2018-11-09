@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-11-22 18:37:11
 title: 'Drafting with Roy #1 (Triple Shards)'
 type: post
-date: 2008-11-22T18:37:11+00:00
 url: /2008/11/drafting-with-roy-1-triple-shards/
-categories:
-  - Magic the Gathering
-
 ---
+
 Just kidding. I don&#8217;t have a draft cap or anything. I went drafting with our would-be GP Taipei contingent last November 12 (Wednesday). I actually almost never play sanctioned matches outside of the weekend tournaments, but I was a bit tired from work and wanted to blow off steam, so I went ahead to Robinson&#8217;s Galleria and waited a couple of hours for the 8-man draft to fill up.
 
 I opened with Cruel Ultimatum as my first pick, then got a couple of white weenies (Akrasan Squire and Sigiled Paladin) before getting a 4th-pick Agony Warp. I grabbed some more blue and black fliers and felt myself going into Grixis again.

@@ -1,23 +1,23 @@
 ---
-title: Rise of Eldrazi – Limited Impressions
-author: roy
-type: post
-date: 2010-04-19T11:00:36+00:00
-url: /2010/04/rise-of-eldrazi-limited-impressions/
 aktt_notify_twitter:
-  - no
-jd_tweet_this:
-  - yes
-wp_jd_bitly:
-  - http://bit.ly/dyIC7C
-wp_jd_target:
-  - http://mtgstorm.com/2010/04/rise-of-eldrazi-limited-impressions/
+- false
+author: roy
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2010-04-19 11:00:36
+jd_tweet_this:
+- true
 tags:
-  - Limited
-
+- Limited
+title: "Rise of Eldrazi \xE2\u20AC\u201C Limited Impressions"
+type: post
+url: /2010/04/rise-of-eldrazi-limited-impressions/
+wp_jd_bitly:
+- http://bit.ly/dyIC7C
+wp_jd_target:
+- http://mtgstorm.com/2010/04/rise-of-eldrazi-limited-impressions/
 ---
+
 Just a quick dump of my impressions of RoE limited from the prerelease. I&#8217;ll probably post a more detailed analysis later.
 
 The RoE limited format is fun and it is slower than Zendikar, but you still need to keep an eye on your curve (even though that curve may now end with 7-8-9-and up instead of 5-6&#8230;). Lots of ground stalls, so guys with evasion are much more valuable.

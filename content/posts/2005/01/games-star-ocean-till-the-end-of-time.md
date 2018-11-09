@@ -1,12 +1,12 @@
 ---
-title: 'Games: Star Ocean – Till the End of Time'
-type: post
-date: 2005-01-23T06:00:31+00:00
-url: /2005/01/games-star-ocean-till-the-end-of-time/
 categories:
-  - Gaming
-
+- Gaming
+date: 2005-01-23 06:00:31
+title: "Games: Star Ocean \xE2\u20AC\u201C Till the End of Time"
+type: post
+url: /2005/01/games-star-ocean-till-the-end-of-time/
 ---
+
 This game is the third and last installment of Tri-Ace&#8217;s venerable space opera science fiction RPG, spanning across three consoles [1], and it&#8217;s a good finish. I finished the main story just before the year&#8217;s end [2]. But I&#8217;ve still been actively playing it, going through the bonus dungeons [3] 
 
 The fact that I finished it, and the fact that I am still playing it, and the fact that I am still planning to finish it on both of the higher difficulty levels, all of these facts speak volumes about how good this game is, given that I don&#8217;t have nearly as much time to play as I did before I was working. 

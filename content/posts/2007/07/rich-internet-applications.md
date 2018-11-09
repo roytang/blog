@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2007-07-28 20:50:33
 title: Rich Internet Applications
 type: post
-date: 2007-07-28T20:50:33+00:00
 url: /2007/07/rich-internet-applications/
-categories:
-  - Software Development
-
 ---
+
 Most of the time, my work involves mostly run-of-the-mill information management systems. Lately however, I&#8217;ve been asked to look into some new tech, and that got me interested in what&#8217;s called Rich Internet Applications (RIAs for short). The primary platform for RIAs is Flash, which apparently is already owned by Adobe and Macromedia is no more. Yeah, I never really paid attention to Flash, like most people I assumed it was only for making amusing movies and annoying ads. Also, Flash has always been a tool oriented towards people who are more design-oriented, not engineers or programmers like me. I mean, I load up Flash 8 and I have no idea how to do anything.
 
 Lately however, Adobe has released a product called Flex, which is basically a programming API for generating SWF files using XML and the Flash scripting language, ActionScript. It&#8217;s pretty cool, and I&#8217;ve seen a few really nice demos of web applications done using Flash, some of which I highlighted in

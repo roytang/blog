@@ -1,13 +1,13 @@
 ---
-title: Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart.
 author: roy
-type: post
-date: 2006-02-18T01:02:28+00:00
-url: /2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/
 categories:
-  - Opinions
-
+- Opinions
+date: 2006-02-18 01:02:28
+title: Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart.
+type: post
+url: /2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/
 ---
+
 I remembered that I haven&#8217;t written an About page yet. This post will go there.
 
 The [Blogger profile ][1]describes me as a &#8220;Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart.&#8221; Let&#8217;s break that down, shall we?

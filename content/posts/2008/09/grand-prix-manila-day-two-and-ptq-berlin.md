@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-09-14 05:25:56
 title: Grand Prix Manila Day Two and PTQ Berlin
 type: post
-date: 2008-09-14T05:25:56+00:00
 url: /2008/09/grand-prix-manila-day-two-and-ptq-berlin/
-categories:
-  - Magic the Gathering
-
 ---
+
 Grand Prix Manila 08 has come and gone and is in the history books. While the
    
 [

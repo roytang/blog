@@ -1,13 +1,13 @@
 ---
-title: 'Europe 2015: Barcelona Part 1'
 author: roy
-type: post
-date: 2015-04-09T05:43:59+00:00
-url: /2015/04/europe-2015-barcelona-part-1/
 categories:
-  - Travels
-
+- Travels
+date: 2015-04-09 05:43:59
+title: 'Europe 2015: Barcelona Part 1'
+type: post
+url: /2015/04/europe-2015-barcelona-part-1/
 ---
+
 _My [previous post][1] only skimmed my trip to Europe. I did not want to write too much, partly because I was uncertain at how many would be interested to hear the sordid details and partly because while I was writing the post, the words did not flow as freely as I would have wanted. Despite this, I have received good feedback and more than one person had asked for more details. So here we are._
 
 **Saturday March 7th**

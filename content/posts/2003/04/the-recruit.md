@@ -1,14 +1,16 @@
 ---
-title: The Recruit
 author: roy
-type: post
-date: 2003-04-12T01:30:44+00:00
-url: /2003/04/the-recruit/
 categories:
-  - Legacy Blog Posts
-  - Movies
-
+- Pop Culture
+date: 2003-04-12 01:30:44
+tags:
+- Legacy Blog Posts
+- Movies
+title: The Recruit
+type: post
+url: /2003/04/the-recruit/
 ---
+
 Good plot twists you could see from a mile away.
 
 Unfortunately, we had arrived at the theater too late to catch the start of the last showing of _Gangs of New York_, so we had to settle with the second choice. _The Recruit _didn&#8217;t get as much critical acclaim as _Gangs_, but what the heck, Al Pacino in a spy thriller? How could I lose?

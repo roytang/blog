@@ -1,13 +1,13 @@
 ---
-title: What Kind of Enterpreneur Am I?
 author: Roy
-type: post
-date: 2007-02-28T18:06:16+00:00
-url: /2007/02/what-kind-of-enterpreneur-am-i/
 categories:
-  - Meta
-
+- Meta
+date: 2007-02-28 18:06:16
+title: What Kind of Enterpreneur Am I?
+type: post
+url: /2007/02/what-kind-of-enterpreneur-am-i/
 ---
+
 Your Entrepreneur Type:
 
 The Geek

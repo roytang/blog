@@ -1,13 +1,13 @@
 ---
-title: Integrating Open Source Libraries
 author: roy
-type: post
-date: 2017-02-16T01:30:00+00:00
-url: /2017/02/integrating-open-source-libraries/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-02-16 01:30:00
+title: Integrating Open Source Libraries
+type: post
+url: /2017/02/integrating-open-source-libraries/
 ---
+
 There are a few things that one should consider when using and integrating an open source library into your application:
 
   1. <span data-offset-key="668k1-0-0">What are the licensing terms for the library? There are some liberal licenses that </span><span class="adverb"><span data-offset-key="668k1-1-0">mostly</span></span> <span data-offset-key="668k1-2-0">let you do anything you want. The MIT license is an example of a very permissive license. Other licenses may provide </span><span class="complexword"><span data-offset-key="668k1-3-0">a number of</span></span> <span data-offset-key="668k1-4-0">restrictions. Can you integrate with closed-source software? Can you distribute binaries without the source? Do you need to put some kind of attribution somewhere in your software? Another thing to look our for are the so-called viral licenses. </span><span class="hardreadability"><span data-offset-key="668k1-5-0">Viral licenses specify that if you integrate their code into your system, then the terms of that license apply to your own software as well</span></span><span data-offset-key="668k1-6-0">. </span><span class="hardreadability"><span data-offset-key="668k1-7-0"> These can be very dangerous from the standpoint of a company developing a commercial product</span></span><span data-offset-key="668k1-8-0">. The most well-known example of such copyleft licenses is the GPL. Integrating GPL code into your system will often mean your software needs to be open source as well. While more open source is good, it may not be in the best interest of your company, so tread </span><span class="adverb"><span data-offset-key="668k1-9-0">lightly</span></span><span data-offset-key="668k1-10-0">.</span>

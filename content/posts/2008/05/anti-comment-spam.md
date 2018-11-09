@@ -1,13 +1,13 @@
 ---
-title: Anti Comment Spam
 author: Roy
-type: post
-date: 2008-05-20T04:49:13+00:00
-url: /2008/05/anti-comment-spam/
 categories:
-  - Meta
-
+- Meta
+date: 2008-05-20 04:49:13
+title: Anti Comment Spam
+type: post
+url: /2008/05/anti-comment-spam/
 ---
+
 In an attempt to reduce comment spam, I&#8217;ve renamed the comments submission page. This post is to test with comments.
 
 [Edit 21-May 10PM] That didn&#8217;t work at all! Need to look for a good anti-spam plugin.

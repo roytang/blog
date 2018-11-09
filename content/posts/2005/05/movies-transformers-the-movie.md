@@ -1,14 +1,16 @@
 ---
-title: 'Movies: Transformers the Movie'
 author: roy
-type: post
-date: 2005-05-29T08:37:00+00:00
-url: /2005/05/movies-transformers-the-movie/
 categories:
-  - Movies
-  - Review
-
+- Pop Culture
+date: 2005-05-29 08:37:00
+tags:
+- Movies
+- Review
+title: 'Movies: Transformers the Movie'
+type: post
+url: /2005/05/movies-transformers-the-movie/
 ---
+
 I should&#8217;ve thought of this as soon as I got DSL: I went ahead and downloaded Transformers the Movie.
 
 Transformers was of course, the epitome of my youth. Unlike most other guy kids, I preferred the Transformers to G.I. Joe. I guess I preferred high-tech fantasy over soliders back then, with the war of the heroic Autobots and the Evil Decepticons appealing more to my young mind than soldiers trying to fight terrorists. I watched the show, I read the comics (the first comic series I really collected), I had a lunch box, and I even bought and ate the unhealthy cheap knock-off Transformers-branded chips they sold near the St. Joseph parish.

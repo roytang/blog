@@ -1,13 +1,13 @@
 ---
-title: Looking Out Over Punta Fuego
 author: Roy
-type: post
-date: 2006-02-13T06:58:53+00:00
-url: /2006/02/looking-out-over-punta-fuego/
 categories:
-  - Travels
-
+- Travels
+date: 2006-02-13 06:58:53
+title: Looking Out Over Punta Fuego
+type: post
+url: /2006/02/looking-out-over-punta-fuego/
 ---
+
 <div>
   <a title="photo sharing" href="http://www.flickr.com/photos/65204400@N00/99236843/"><br /> <img src="http://static.flickr.com/39/99236843_e1c0a65b94_m.jpg" alt="" /><br /> </a></p> 
   

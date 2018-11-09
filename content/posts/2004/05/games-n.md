@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-05-29 08:00:07
 title: 'Games: N'
 type: post
-date: 2004-05-29T08:00:07+00:00
 url: /2004/05/games-n/
-categories:
-  - Gaming
-
 ---
+
 N s a nice little slightly-addictive flash game about a ninja trying to get through doors.
    
 [

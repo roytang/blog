@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-01-14 19:11:00
 title: Nameless Deck Does Not Win
 type: post
-date: 2007-01-14T19:11:00+00:00
 url: /2007/01/nameless-deck-does-not-win/
-categories:
-  - Magic the Gathering
-
 ---
+
 I played the
    
 [

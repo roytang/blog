@@ -1,14 +1,16 @@
 ---
-title: Marcos and Historical Revisionism
 author: roy
-type: post
-date: 2016-05-16T07:04:23+00:00
-url: /2016/05/marcos-and-historical-revisionism/
 categories:
-  - Philippines
-  - Politics
-
+- Philippines
+- Opinions
+date: 2016-05-16 07:04:23
+tags:
+- Politics
+title: Marcos and Historical Revisionism
+type: post
+url: /2016/05/marcos-and-historical-revisionism/
 ---
+
 We shouldn&#8217;t have to keep telling people that&nbsp;Ferdinand Marcos was a terrible president and that the Martial Law he imposed was terrible for the country.&nbsp;Imagine if a significant&nbsp;percentage of German citizens kept insisting that Hitler was a&nbsp;great man and the more sensible Germans had to keep trying to educate them on why that wasn&#8217;t true and why World War II was a terrible idea and that they wanted to elect Hitler&#8217;s descendant to a position of national prominence. That&#8217;s where we are right now with all these&nbsp;Filipinos supporting Marcos. (Why yes, I did open a blog post immediately with Godwin&#8217;s Law, thankyouverymuch)
 
 I have nothing personally against Bongbong Marcos, and I make no judgments on his personal track record and qualifications as a public servant. My main issue with him is that he is promoting historical revisionism of the sort that holocaust deniers are proud of. By insisting that his father was a great President and that Martial Law was actually good for the country is to demand that we unlearn the lessons of the past.&nbsp;Sure, the Aquinos and&nbsp;the succeeding administrations weren&#8217;t exactly the best either and had their faults too, but that&#8217;s beside the point. The&nbsp;crimes and excesses of the Marcos regime are well-documented and even international bodies have rendered verdicts against them. To deny these truths is to fool ourselves.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2009-10-03 18:18:03
 title: 'Weekend Project #1: MTG Utils Decklist Sharing Tool'
 type: post
-date: 2009-10-03T18:18:03+00:00
 url: /2009/10/weekend-project-1-mtg-utils-decklist-sharing-tool/
-categories:
-  - Software Development
-
 ---
+
 I&#8217;ve been meaning to write a nontrivial app using [Google App Engin][1]e for a while, and here&#8217;s my first weekend project: [Decklist Sharing Tool][2], an tool for MTG players to share decklists online. 
 
 I had the decklist parsing and autocarding code available for a while (and used on my MTG related posts), so that part was fairly easy, I got it done under 3 hours I think. The rest of the time (around 5-ish hours) was spent on glue logic, fixing minor bugs, working on HTML layout, cleaning up text, etc. It feels pretty good for a one manday effort, let&#8217;s see if it breaks down. Not the best code I&#8217;ve ever written though (until the latest upload the main class was named &#8220;hello.py&#8221;)

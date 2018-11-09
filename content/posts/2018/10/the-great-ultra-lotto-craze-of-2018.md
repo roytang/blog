@@ -1,14 +1,14 @@
 ---
-title: The Great Ultra Lotto Craze of 2018
 author: roy
-type: post
-date: 2018-10-20T01:00:40+00:00
-url: /2018/10/the-great-ultra-lotto-craze-of-2018/
 categories:
-  - Just Another Day
-  - Philippines
-
+- Just Another Day
+- Philippines
+date: 2018-10-20 01:00:40
+title: The Great Ultra Lotto Craze of 2018
+type: post
+url: /2018/10/the-great-ultra-lotto-craze-of-2018/
 ---
+
 For the past few weeks or so, many in the country were consumed by a sort of lotto fever. The PCSO 6/58 Ultra Lotto had gotten up to a record high jackpot prize of more than 1 billion PHP (roughly 20M USD &#8211; I know some lotteries in the US have prizes way higher than that, but hey, we&#8217;re not the US.) Many people who normally don&#8217;t play the Lotto were participating due to the sheer size of the pot. I must confess that even I bought a few tickets during the latter part of the run. 
 
 For reference, the Ultra Lotto draw has 6 numbers from a pool of 1-58 (hence &#8220;6/58&#8221;) drawn three times a week. Using the power of Math (TM), that gives us roughly 40 million possible combinations. By comparison, the Avengers only had a 1 in 14 million chance of surviving the events of _Infinity War_, so that&#8217;s way worse odds and you don&#8217;t even have a time stone! The price of an individual ticket is 24 PHP, and 24 * ~40 million is ~960 million, so once the jackpot exceeded 1 billion PHP, the [EV][1] of a single lotto ticket was already a net positive. If only I had the 960 million and change to bet on every single combination!

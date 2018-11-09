@@ -1,13 +1,15 @@
 ---
-title: The Meaning of Christmas
 author: Roy
-type: post
-date: 2006-12-24T20:31:10+00:00
-url: /2006/12/the-meaning-of-christmas/
 categories:
-  - Job Hunting
-
+- Just Another Day
+date: 2006-12-24 20:31:10
+tags:
+- Job Hunting
+title: The Meaning of Christmas
+type: post
+url: /2006/12/the-meaning-of-christmas/
 ---
+
 When you&#8217;re a kid, the days leading up to Christmas are full of wonder and anticipation, and you eagerly await that time when the gifts under the Christmas tree are finally handed out to the recipients and you tear open those packages with such enthusiasm and disregard for the effort put into wrapping it.
 
 As an adult, the days leading up to Christmas are filled up with days of overtime as you struggle to meet year-end targets, constantly having to attend gathering after gathering, and worrying about whether you&#8217;ve gotten the right presents for people.

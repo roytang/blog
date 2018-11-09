@@ -1,13 +1,13 @@
 ---
-title: Pasmado
 author: Roy
-type: post
-date: 2008-04-13T04:54:33+00:00
-url: /2008/04/pasmado/
 categories:
-  - Philippines
-
+- Philippines
+date: 2008-04-13 04:54:33
+title: Pasmado
+type: post
+url: /2008/04/pasmado/
 ---
+
 _
   
 Pasmado _is a term generally well-known among Filipinos. It refers to a condition of excessive sweating and/or trembling in the hands and/or feet. The concept is so well-known among Filipinos that it has developed several old wives&#8217; tales of its&#8217; own, such as the ever-popular solution of peeing on your hands first thing in the morning to get rid of the conditions.

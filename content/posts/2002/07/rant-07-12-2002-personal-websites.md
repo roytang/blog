@@ -1,14 +1,15 @@
 ---
-title: 'rant.07.12.2002: personal websites'
 author: roy
-type: post
-date: 2002-07-12T01:30:08+00:00
-url: /2002/07/rant-07-12-2002-personal-websites/
 categories:
-  - Legacy Blog Posts
-  - Meta
-
+- Meta
+date: 2002-07-12 01:30:08
+tags:
+- Legacy Blog Posts
+title: 'rant.07.12.2002: personal websites'
+type: post
+url: /2002/07/rant-07-12-2002-personal-websites/
 ---
+
 I originally wasn&#8217;t going to have a rant today, but while surfing the web I thought about one of the things I like about it: personal websites.
 
 That&#8217;s right, personal pages. Some people might argue that personal pages are like the dregs of the internet. And they&#8217;re probably right. Given that any random joe-on-the-street can get on Geocities and build his own website, (like [royness.vze.com][1] for instance) we&#8217;re certainly bound to see all sorts of stuff (and accordingly, all sorts of crap) on the internet.

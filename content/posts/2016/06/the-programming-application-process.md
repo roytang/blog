@@ -1,13 +1,13 @@
 ---
-title: The Programming Application Process
 author: roy
-type: post
-date: 2016-06-08T22:30:10+00:00
-url: /2016/06/the-programming-application-process/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-06-08 22:30:10
+title: The Programming Application Process
+type: post
+url: /2016/06/the-programming-application-process/
 ---
+
 More stories from the early days. Evaluating someone&#8217;s programming ability is hard, especially someone fresh out of college. A student&#8217;s grades is in no way indicative of how well he can program after all. So most nontrivial programming jobs have some sort of complicated application process involved.
 
 <span style="font-weight: 400;">I remember going in and taking an exam. Most application processes will have some sort of written exam to filter out people who look good on paper, but can’t actually do anything. People graduate college all the time without being able to do anything so it’s a fairly good idea</span>

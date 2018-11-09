@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2006-10-15 03:50:25
 title: Drafting in Time Spiral
 type: post
-date: 2006-10-15T03:50:25+00:00
 url: /2006/10/drafting-in-time-spiral/
-categories:
-  - Magic the Gathering
-
 ---
+
 Played four 4-man drafts last night, opening 2 boxes.
 
 Some interesting draft archetypes:

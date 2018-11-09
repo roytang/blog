@@ -1,13 +1,15 @@
 ---
-title: Pain
 author: roy
-type: post
-date: 2016-09-13T01:30:19+00:00
-url: /2016/09/pain/
 categories:
-  - Nostalgia
-
+- Just Another Day
+date: 2016-09-13 01:30:19
+tags:
+- Nostalgia
+title: Pain
+type: post
+url: /2016/09/pain/
 ---
+
 Almost six years ago, [I had to undergo minor surgery and had to endure the pain of being administered spinal anesthesia][1]. I was reminded of this recently because a loved one with an even lower pain tolerance than I did recently had to undergo a similar procedure
 
 I have a pretty low tolerance for pain myself. I tried to spin it a bit positively in the blog post linked above, but there&#8217;s no question many times during the procedure I felt miserable and in lots of pain. Even just the process of being put on a dextrose was pretty uncomfortable for me, and laying there on the operating table hunched in a fetal position waiting to be administered spinal anesthesia was far worse. I even had to undergo anesthesia twice because I went back into the OR after some complications!

@@ -1,14 +1,14 @@
 ---
-title: Blogging and Social Media
 author: roy
-type: post
-date: 2017-06-05T01:30:42+00:00
-url: /2017/06/blogging-and-social-media/
 categories:
-  - Opinions
-  - Writing
-
+- Opinions
+- Writing
+date: 2017-06-05 01:30:42
+title: Blogging and Social Media
+type: post
+url: /2017/06/blogging-and-social-media/
 ---
+
 I haven&#8217;t been blogging too much recently. I got busy for a while and had to skip a few weeks, and then general laziness prevented me from resuming a regular posting schedule. (Hopefully that ends now.) Most of the time my ranting was on social media, which got me thinking: Is writing on your own blog still useful in this day and age of social media?
 
 I&#8217;ve been blogging for a long time &#8211; my archives say 2002 &#8211; waaay before Facebook or even Twitter came around. If for some reason you felt like digging through my older posts you&#8217;d find that I kind of used the blog like Twitter or FB: I&#8217;d have some short posts, updates about what&#8217;s going on, share some links, and so on. These days we have social media for that, so why blog at all?

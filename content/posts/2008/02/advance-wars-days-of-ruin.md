@@ -1,13 +1,13 @@
 ---
-title: 'Advance Wars: Days of Ruin'
 author: roy
-type: post
-date: 2008-02-11T15:53:38+00:00
-url: /2008/02/advance-wars-days-of-ruin/
 categories:
-  - Gaming
-
+- Gaming
+date: 2008-02-11 15:53:38
+title: 'Advance Wars: Days of Ruin'
+type: post
+url: /2008/02/advance-wars-days-of-ruin/
 ---
+
 Despite the fact the allure of Final Fantasy Tactics PSP, I was still decided on finishing **Advance Wars: Days of Ruin**. This was only the second game in the series that I was playing, although I had greatly enjoyed **Advance Wars: Dual Strike**, so my hopes were high for Days of Ruin.
 
 Pros:

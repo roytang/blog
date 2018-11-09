@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-03-09 07:08:28
 title: 'City Champs Trials III 2008: Reveillark Blink'
 type: post
-date: 2008-03-09T07:08:28+00:00
 url: /2008/03/city-champs-trials-iii-2008-reveillark-blink/
-categories:
-  - Magic the Gathering
-
 ---
+
 The tournament format is Morningtide standard, 09 March at NG Galleria. My decklist, pirated from Benjamin Peebles-Mundy, with slight modifications :
 
 <div class="decklist">

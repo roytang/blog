@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2006-10-18 08:20:26
 title: World of Warcrack
 type: post
-date: 2006-10-18T08:20:26+00:00
 url: /2006/10/world-of-warcrack/
-categories:
-  - Gaming
-
 ---
+
 [
     
 Soul Kerfuffle: The View From the Top

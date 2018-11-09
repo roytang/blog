@@ -1,11 +1,13 @@
 ---
-title: Movies – The Dark Knight
 author: Roy
-type: post
-date: 2008-07-17T16:16:12+00:00
-url: /2008/07/movies-the-dark-knight/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2008-07-17 16:16:12
+tags:
+- Movies
+title: "Movies \xE2\u20AC\u201C The Dark Knight"
+type: post
+url: /2008/07/movies-the-dark-knight/
 ---
+
 Wow. Best superhero movie EVER, hands-down.

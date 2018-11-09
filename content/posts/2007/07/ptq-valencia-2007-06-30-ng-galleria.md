@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-07-01 16:15:39
 title: PTQ Valencia 2007-06-30 @ NG Galleria
 type: post
-date: 2007-07-01T16:15:39+00:00
 url: /2007/07/ptq-valencia-2007-06-30-ng-galleria/
-categories:
-  - Magic the Gathering
-
 ---
+
 I was playing UG shifters.
 
 <div class="decklist">

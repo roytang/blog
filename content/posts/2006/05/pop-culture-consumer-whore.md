@@ -1,13 +1,13 @@
 ---
-title: Pop-Culture Consumer Whore
 author: Roy
-type: post
-date: 2006-05-07T00:05:05+00:00
-url: /2006/05/pop-culture-consumer-whore/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-05-07 00:05:05
+title: Pop-Culture Consumer Whore
+type: post
+url: /2006/05/pop-culture-consumer-whore/
 ---
+
 Sometimes it&#8217;s frightening to consider the existent of how much popular culture consumes our time. Most weekends I usually manage to reserve some time for some sort of learning, but over the last 48 hours, aside from work, my time has been swallowed by:
 
   * Lords and Ladies by Terry Pratchett

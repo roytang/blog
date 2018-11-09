@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-05-25 05:14:40
 title: Grand Prix Trial Manila I
 type: post
-date: 2008-05-25T05:14:40+00:00
 url: /2008/05/grand-prix-trial-manila-i/
-categories:
-  - Magic the Gathering
-
 ---
+
 The GPT was today: Sunday, 25-May-2008 as Robinson&#8217;s Galleria.
 
 I&#8217;m sad that the GPTs are all scheduled on Sundays.

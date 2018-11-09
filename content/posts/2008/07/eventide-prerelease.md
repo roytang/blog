@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-07-12 19:25:33
 title: Eventide Prerelease
 type: post
-date: 2008-07-12T19:25:33+00:00
 url: /2008/07/eventide-prerelease/
-categories:
-  - Magic the Gathering
-
 ---
+
 It&#8217;s been three whole weeks since I last managed to attend a Magic tournament. Despite the hectic work schedule and the fact that spoilers have failed to impress me, I managed to wrangle a Saturday off to hit Robinson&#8217;s Galleria for the Eventide Prerelease.
 
 So we show up early and join the first flight. I open and register a Shadowmoor tournament pack with next to nothing in terms of decent cards. I think the best removal it had was an Aethertow, and none after that. I was glad that usually small set Prereleases required passing the tournament pack. Naturally, after I was done registering, the judge told us that for our table, we would keep the tournament pack. Doh!

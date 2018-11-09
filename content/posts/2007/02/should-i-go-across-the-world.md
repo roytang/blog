@@ -1,13 +1,13 @@
 ---
-title: Should I Go Across The World?
 author: Roy
-type: post
-date: 2007-02-06T13:34:33+00:00
-url: /2007/02/should-i-go-across-the-world/
 categories:
-  - Travels
-
+- Travels
+date: 2007-02-06 13:34:33
+title: Should I Go Across The World?
+type: post
+url: /2007/02/should-i-go-across-the-world/
 ---
+
 I&#8217;ve been asked if I would be willing to be temporarily posted in another country, halfway across the world, for around half a year.
 
 On the surface, it seems like a good idea &#8211; I don&#8217;t have any definite plans for the next few months, so there&#8217;s nothing in the way. It would be new stuff, new places, people, experiences, etc., a most welcome change of pace.

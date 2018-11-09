@@ -1,15 +1,16 @@
 ---
-title: The sky is falling
 author: roy
-type: post
-date: 2018-11-03T05:03:48+00:00
-url: /2018/11/the-sky-is-falling/
 categories:
-  - Just Another Day
-  - Opinions
-  - Politics
-
+- Just Another Day
+- Opinions
+date: 2018-11-03 05:03:48
+tags:
+- Politics
+title: The sky is falling
+type: post
+url: /2018/11/the-sky-is-falling/
 ---
+
 There&#8217;s a lot of doom and gloom and bad news in the world these days, giving us ordinary folk little reason to be optimistic. Examples include:
 
   * we are almost certainly too late to prevent climate change at all and [social collapse is now an actual possibility][1]

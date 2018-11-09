@@ -1,14 +1,15 @@
 ---
-title: Rant – Where Have All the Flatmen Gone?
 author: roy
-type: post
-date: 2002-03-01T15:06:43+00:00
-url: /2002/03/rant-where-have-all-the-flatmen-gone/
 categories:
-  - Gaming
-  - Legacy Blog Posts
-
+- Gaming
+date: 2002-03-01 15:06:43
+tags:
+- Legacy Blog Posts
+title: "Rant \xE2\u20AC\u201C Where Have All the Flatmen Gone?"
+type: post
+url: /2002/03/rant-where-have-all-the-flatmen-gone/
 ---
+
 (Originally available on the now-defunct NFT Zu website)
 
 (2018 Edit: I found this in my WordPress drafts folder, not sure why it wasn&#8217;t published when I first imported it. It&#8217;s true it was on my old site, but I can not find a reliable indicator of what date it was published. So I will publish it with an arbitrarily chosen date of March 1, 2002.)

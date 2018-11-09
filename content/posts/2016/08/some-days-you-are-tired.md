@@ -1,13 +1,13 @@
 ---
-title: Some days you are tired
 author: roy
-type: post
-date: 2016-08-30T01:30:49+00:00
-url: /2016/08/some-days-you-are-tired/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2016-08-30 01:30:49
+title: Some days you are tired
+type: post
+url: /2016/08/some-days-you-are-tired/
 ---
+
 Some days you are tired
   
 Maybe you are tired of all the work

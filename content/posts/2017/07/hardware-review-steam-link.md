@@ -1,14 +1,16 @@
 ---
-title: 'Hardware Review: Steam Link'
 author: roy
-type: post
-date: 2017-07-06T01:30:43+00:00
-url: /2017/07/hardware-review-steam-link/
 categories:
-  - Gaming
-  - Hardware
-
+- Gaming
+- Tech Life
+date: 2017-07-06 01:30:43
+tags:
+- Hardware
+title: 'Hardware Review: Steam Link'
+type: post
+url: /2017/07/hardware-review-steam-link/
 ---
+
 Last week the local gaming shop had the [Steam Link][1] on 70% discount so I figured I&#8217;d give it a try. We recently got a new TV at home, so I was eager to try out some Steam games on the big screen. If you&#8217;re too lazy to click the link above, the Steam Link is basically a set-top box that streams your gameplay to a TV via HDMI, allowing you to enjoy your steam games from the comfort of a couch. There was also a sale on Steam controllers, but I had a variety of controllers at home to try out, so I passed on that.
 
 The Steam Link came in a box that was bigger than I was expected. The box looks neat though:

@@ -1,13 +1,13 @@
 ---
-title: Politics – Alleged Destabliziation Tape
 author: roy
-type: post
-date: 2005-06-07T23:04:06+00:00
-url: /2005/06/politics-alleged-destabliziation-tape/
 categories:
-  - Philippines
-
+- Philippines
+date: 2005-06-07 23:04:06
+title: "Politics \xE2\u20AC\u201C Alleged Destabliziation Tape"
+type: post
+url: /2005/06/politics-alleged-destabliziation-tape/
 ---
+
 [
   
 Download recordings of alleged destabilization tape &#8211; INQ7.net

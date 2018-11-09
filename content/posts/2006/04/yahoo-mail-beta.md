@@ -1,13 +1,13 @@
 ---
-title: Yahoo Mail Beta
 author: Roy
-type: post
-date: 2006-04-28T05:21:35+00:00
-url: /2006/04/yahoo-mail-beta/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2006-04-28 05:21:35
+title: Yahoo Mail Beta
+type: post
+url: /2006/04/yahoo-mail-beta/
 ---
+
 I tried the new [Yahoo Mail Beta][1] for a while, but I decided to switch back just now.
 
 Short review: it&#8217;s nice looking, but feels a tad sluggish. Well, sluggish compared to gmail at least. The biggest problem is that scrollbar in the message list. It&#8217;s like promising that you can scroll through all your messages, but when you try to scroll to a far away part of the list, you just get a lot of &#8220;Loading&#8230;&#8221; text. I doubt that scales very well, especially as you get to the thousands in your number of messages.

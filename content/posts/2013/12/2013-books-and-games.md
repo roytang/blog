@@ -1,13 +1,13 @@
 ---
-title: 2013 – Books and Games
 author: roy
-type: post
-date: 2013-12-28T15:50:30+00:00
-url: /2013/12/2013-books-and-games/
 categories:
-  - Gaming
-
+- Gaming
+date: 2013-12-28 15:50:30
+title: "2013 \xE2\u20AC\u201C Books and Games"
+type: post
+url: /2013/12/2013-books-and-games/
 ---
+
 It&#8217;s the end of the year, so it feels like a good time to look back at the books and games I&#8217;ve gone through in 2013.
 
 I guess it&#8217;s my lack of focus really but my reading rate has really gone down over the past few years, I guess in favor of TV, comics and games. (I guess comics count as reading too, but I&#8217;m talking about full-length novels.

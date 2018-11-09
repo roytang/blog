@@ -1,13 +1,15 @@
 ---
-title: PIMP MY RIG — we test parts for you..
 author: Roy
-type: post
-date: 2005-05-02T15:16:46+00:00
-url: /2005/05/pimp-my-rig-we-test-parts-for-you/
 categories:
-  - Hardware
-
+- Tech Life
+date: 2005-05-02 15:16:46
+tags:
+- Hardware
+title: "PIMP MY RIG \xE2\u20AC\u201D we test parts for you.."
+type: post
+url: /2005/05/pimp-my-rig-we-test-parts-for-you/
 ---
+
 [
   
 Pimp My Rig ][1]is a hardware review side associated with a friend of mine from high school. Yes, I was asked to help promote it. 😀

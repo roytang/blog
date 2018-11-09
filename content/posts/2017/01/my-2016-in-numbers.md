@@ -1,13 +1,13 @@
 ---
-title: My 2016 in numbers
 author: roy
-type: post
-date: 2017-01-03T01:30:57+00:00
-url: /2017/01/my-2016-in-numbers/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2017-01-03 01:30:57
+title: My 2016 in numbers
+type: post
+url: /2017/01/my-2016-in-numbers/
 ---
+
 Random statistics from 2016:
 
   * 74 blog posts (total of 769 currently on this site, some imported from as early as 2002. The record for a single year was 148 back in 2008, but that was back when I didn&#8217;t do social media much so even short posts made it to the blog, delicious bookmarks were auto-posted here, etc.)

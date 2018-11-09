@@ -1,13 +1,13 @@
 ---
-title: Elections 2010 – My Ballot
 author: Roy
-type: post
-date: 2010-05-07T13:38:50+00:00
-url: /2010/05/elections-2010-my-ballot/
 categories:
-  - Philippines
-
+- Philippines
+date: 2010-05-07 13:38:50
+title: "Elections 2010 \xE2\u20AC\u201C My Ballot"
+type: post
+url: /2010/05/elections-2010-my-ballot/
 ---
+
 For President, I&#8217;m voting **Dick Gordon**, because I believe that the Philippines should be a meritocracy where people are chosen as leaders based on the strength of their accomplishments and qualifications.
 
 For Vice President, I&#8217;m voting for **Mar Roxas**, as he&#8217;s simply the most qualified and with the strongest history of government service. The E-VAT thing is actually a plus for him, as it shows he has the capacity to make difficult decisions if needed.

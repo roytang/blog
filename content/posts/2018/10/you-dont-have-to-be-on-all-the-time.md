@@ -1,13 +1,13 @@
 ---
-title: You don’t have to be on all the time
 author: roy
-type: post
-date: 2018-10-22T01:00:30+00:00
-url: /2018/10/you-dont-have-to-be-on-all-the-time/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2018-10-22 01:00:30
+title: "You don't have to be on all the time"
+type: post
+url: /2018/10/you-dont-have-to-be-on-all-the-time/
 ---
+
 Reminders:
 
   * You don&#8217;t have to be on all the time.

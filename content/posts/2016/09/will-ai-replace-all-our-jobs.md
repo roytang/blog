@@ -1,13 +1,13 @@
 ---
-title: Will AI replace all our jobs?
 author: roy
-type: post
-date: 2016-09-08T01:30:02+00:00
-url: /2016/09/will-ai-replace-all-our-jobs/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-09-08 01:30:02
+title: Will AI replace all our jobs?
+type: post
+url: /2016/09/will-ai-replace-all-our-jobs/
 ---
+
 A while back, news came out that an [AI was able to perform a diagnosis after the human doctors were stumped][1]. Having just finished binge-watching the entire run of Star Trek Voyager, I immediately thought that was the sort of AI advancement that could lead to such things as Voyager&#8217;s Emergency Medical Hologram, an AI which could replace a human doctor. Of course, it is still very unlikely for this to happen anytime soon, medicine is a very complex field and new things are still being discovered all the time. This sort of approach &#8211; using a set of data (in this case, the patient&#8217;s genetic data) could be compared to an existing database of past diagnoses to find something similar &#8211; could advance rapidly in the coming years to at least assist human doctors in providing diagnoses for those rare conditions that only few doctors have encountered. It may take a generation or so, but I can see that AI medical assistants might at least be possible in the future
 
 I got to thinking: is my own profession (software development) in danger of being replaced by AI in some far-off future? &#8220;Software that can write software&#8221; is an ideal that many programmers have thought about at some point in their careers. I remember that at some point a few years into my career I was already thinking about how it might be possible. But then there was also a project where I had to study the possibility of writing software to convert legacy PowerBuilder code into Java web application, which led to a far greater appreciation of how complicated programming languages are and an understanding that any attempt to generate large systems automatically is a crazy endeavor that would take a large amount of time.

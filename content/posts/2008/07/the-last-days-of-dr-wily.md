@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2008-07-03 07:54:00
 title: The Last Days of Dr. Wily
 type: post
-date: 2008-07-03T07:54:00+00:00
 url: /2008/07/the-last-days-of-dr-wily/
-categories:
-  - Gaming
-
 ---
+
 Wait to see the screenshots at the end! 
 
 

@@ -1,13 +1,13 @@
 ---
-title: Bomb blasts rock RP Cities
 author: roy
-type: post
-date: 2005-02-14T12:58:03+00:00
-url: /2005/02/bomb-blasts-rock-rp-cities/
 categories:
-  - Philippines
-
+- Philippines
+date: 2005-02-14 12:58:03
+title: Bomb blasts rock RP Cities
+type: post
+url: /2005/02/bomb-blasts-rock-rp-cities/
 ---
+
 [
   
 Bomb blasts rock Davao, General Santos, Makati &#8211; INQ7.net

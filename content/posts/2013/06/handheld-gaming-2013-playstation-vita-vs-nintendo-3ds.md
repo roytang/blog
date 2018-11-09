@@ -1,13 +1,13 @@
 ---
-title: 'Handheld Gaming 2013: Playstation Vita vs Nintendo 3DS'
 author: roy
-type: post
-date: 2013-06-10T14:38:51+00:00
-url: /2013/06/handheld-gaming-2013-playstation-vita-vs-nintendo-3ds/
 categories:
-  - Gaming
-
+- Gaming
+date: 2013-06-10 14:38:51
+title: 'Handheld Gaming 2013: Playstation Vita vs Nintendo 3DS'
+type: post
+url: /2013/06/handheld-gaming-2013-playstation-vita-vs-nintendo-3ds/
 ---
+
 I wrote some stuff about Vita vs 3DS in a Reddit post, I thought I&#8217;d expand on it here.
 
 I have access to both a first-generation 3DS with ambassador status (this is actually my brother&#8217;s but he doesn&#8217;t use it much) and a PS Vita which is only a couple of months old. I use the Vita a lot more because reasons:

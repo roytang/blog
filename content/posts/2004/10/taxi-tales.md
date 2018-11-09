@@ -1,13 +1,13 @@
 ---
-title: Taxi Tales
 author: Roy
-type: post
-date: 2004-10-18T14:00:23+00:00
-url: /2004/10/taxi-tales/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2004-10-18 14:00:23
+title: Taxi Tales
+type: post
+url: /2004/10/taxi-tales/
 ---
+
 Sometimes the best stories come from the strangest places.
 
 Tonight, I was tired, I just wanted to get home quickly and unwind. So I took a taxi, just outside Megamall. The driver had to ask me where I was going, and luckily my choice of destination was favorable to him. Now, to be honest, I really hate taxi drivers who choose passengers based on where they&#8217;re going. Not only is it illegal, it&#8217;s annoying. So I didn&#8217;t really like it when he turned out to be a chatty driver.

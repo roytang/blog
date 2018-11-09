@@ -1,14 +1,16 @@
 ---
-title: 'Books: Dark Tower series'
 author: Roy
-type: post
-date: 2005-03-24T08:30:00+00:00
-url: /2005/03/books-dark-tower-series/
 categories:
-  - Books
-  - Review
-
+- Pop Culture
+date: 2005-03-24 08:30:00
+tags:
+- Books
+- Review
+title: 'Books: Dark Tower series'
+type: post
+url: /2005/03/books-dark-tower-series/
 ---
+
 &#8220;I do not aim with my hand.
   
 He who aims with his hand has forgotten the face of his father.

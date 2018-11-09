@@ -1,13 +1,13 @@
 ---
-title: Nine Ways to Work Around Mental Blocks
 author: roy
-type: post
-date: 2016-12-13T01:30:25+00:00
-url: /2016/12/nine-ways-to-work-around-mental-blocks/
 categories:
-  - Writing
-
+- Writing
+date: 2016-12-13 01:30:25
+title: Nine Ways to Work Around Mental Blocks
+type: post
+url: /2016/12/nine-ways-to-work-around-mental-blocks/
 ---
+
 Often I have these days where I&#8217;m supposed to be writing something or drawing something or coding something and I just can&#8217;t get to it. Some kind of mental block makes it difficult. And you try to focus your mind and clear your thoughts, but it just doesn&#8217;t help. Here are some ideas for how to get past mental blocks.
 
 [<img class="aligncenter size-full wp-image-1591" src="http://roytang.net/wp-content/uploads/2016/12/mentalblock.png" alt="" width="2048" height="2048" srcset="https://roytang.net/wp-content/uploads/2016/12/mentalblock.png 2048w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-150x150.png 150w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-300x300.png 300w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-768x768.png 768w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-1024x1024.png 1024w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-1200x1200.png 1200w" sizes="(max-width: 2048px) 100vw, 2048px" />][1]

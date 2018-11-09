@@ -1,13 +1,13 @@
 ---
-title: Adventures in Linux-land, part 3
 author: Roy
-type: post
-date: 2006-03-09T09:02:26+00:00
-url: /2006/03/adventures-in-linux-land-part-3/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2006-03-09 09:02:26
+title: Adventures in Linux-land, part 3
+type: post
+url: /2006/03/adventures-in-linux-land-part-3/
 ---
+
 I think I&#8217;m starting to get the hang of this :p
 
 This whole thing with Kubuntu, where I have to use Adept to install stuff is really weirding out my Windows-geek tendencies.

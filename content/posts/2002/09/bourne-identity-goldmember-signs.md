@@ -1,14 +1,16 @@
 ---
-title: Bourne Identity, Goldmember, Signs
 author: roy
-type: post
-date: 2002-09-14T01:30:46+00:00
-url: /2002/09/bourne-identity-goldmember-signs/
 categories:
-  - Legacy Blog Posts
-  - Movies
-
+- Pop Culture
+date: 2002-09-14 01:30:46
+tags:
+- Legacy Blog Posts
+- Movies
+title: Bourne Identity, Goldmember, Signs
+type: post
+url: /2002/09/bourne-identity-goldmember-signs/
 ---
+
 ##### The Bourne Identity
 
 A new action hero is Bourne

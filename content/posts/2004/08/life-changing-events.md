@@ -1,15 +1,15 @@
 ---
-title: Life-Changing Events
 author: Roy
-type: post
-date: 2004-08-28T10:26:02+00:00
+categories:
+- Just Another Day
+date: 2004-08-28 10:26:02
 draft: true
 private: true
+title: Life-Changing Events
+type: post
 url: /2004/08/life-changing-events/
-categories:
-  - Just Another Day
-
 ---
+
 &#8220;Life-changing events&#8221;&#8230;one would think I&#8217;m about to speak of something like a natural disaster, getting married or quitting my job, something that would create a profound change in my life.
 
 No, I&#8217;m going to talk about something a bit less dramatic, but it has had a profound effect on me nonetheless. I don&#8217;t talk about these things that often, but hey, what use is a blog if you can&#8217;t use it as an outlet, right?

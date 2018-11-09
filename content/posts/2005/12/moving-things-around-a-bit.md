@@ -1,13 +1,13 @@
 ---
-title: Moving Things Around A Bit
 author: Roy
-type: post
-date: 2005-12-11T16:08:00+00:00
-url: /2005/12/moving-things-around-a-bit/
 categories:
-  - Meta
-
+- Meta
+date: 2005-12-11 16:08:00
+title: Moving Things Around A Bit
+type: post
+url: /2005/12/moving-things-around-a-bit/
 ---
+
 I was getting a bit bored with the place, so I spruced it up a bit, switched some colors, moved stuff around. You know, just to pretend something&#8217;s happening. And to showcase my sorely lacking UI design skills. :p
   
 [

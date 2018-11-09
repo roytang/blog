@@ -1,13 +1,13 @@
 ---
-title: Bad news
 author: roy
-type: post
-date: 2016-11-15T01:30:55+00:00
-url: /2016/11/bad-news/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-11-15 01:30:55
+title: Bad news
+type: post
+url: /2016/11/bad-news/
 ---
+
 Recent events both in my country and abroad, both of wide importance and personal importance, have made the past week or so difficult. Bad news and bad events have no master or timing, they do not consider giving us a break, they come and go as they please no matter how bad the situation already is.
 
 I fully understand why many people choose to withdraw from daily news or shut it out altogether or even just avoid social media completely. Hearing the bad news can be disheartening, and it comes at us even when there is work to be done or words to be written or deadlines to be met. We have no choice but to soldier on, to slog through the bad news and do our work anyway. It is the world we live in.

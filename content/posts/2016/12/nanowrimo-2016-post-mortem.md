@@ -1,13 +1,13 @@
 ---
-title: Nanowrimo 2016 Post-Mortem
 author: roy
-type: post
-date: 2016-12-06T01:30:39+00:00
-url: /2016/12/nanowrimo-2016-post-mortem/
 categories:
-  - Writing
-
+- Writing
+date: 2016-12-06 01:30:39
+title: Nanowrimo 2016 Post-Mortem
+type: post
+url: /2016/12/nanowrimo-2016-post-mortem/
 ---
+
 As I recall, today was at least my fifth [Nanowrimo][1] attempt; the first one was sometime before 2003 (I would guess it was in 2000 or 2001 before I graduated from college), the second one was in 2003, then 2006, then 2011, then finally the fifth one this year. My best prior attempt was back in 2011, when I made it up to 22,000+ words.
 
 At just around 1am on the early morning of November 30th this year, I beat that record and have won Nanowrimo for the first time. I wrote more than 3,000 words from the last hours of the 29th up to the early hour of the 30th to push across the target count. According to the official word count tool on the site, I am at 50,135 words. The novel is terrible and it will never see the light of day as it is, but it has a start, it has a plot that it follows to the end, and it has an ending which while I&#8217;m not totally happy with, is good enough for a first draft.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-07-28 07:09:15
 title: I Suck At Standard
 type: post
-date: 2007-07-28T07:09:15+00:00
 url: /2007/07/i-suck-at-standard/
-categories:
-  - Magic the Gathering
-
 ---
+
 Just to make it, y&#8217;know, official: I suck at Standard.
 
 I played in two Nationals qualifiers over the past two weekends. The first one with the Mishra deck (Flores&#8217; Legends of Team CMU) to a disappointing 4-3 finish in a sea of Angelfire, Solar Flare and Gruul. Disappointed with the decks performance, I took a look at the result of Australian Nationals that same weekend, and decided to play the Rakdos &#8220;Satanic Sligh&#8221; build that had won that event in today&#8217;s qualifier, which was incidentally the last one I could play given my schedule.

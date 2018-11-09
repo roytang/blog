@@ -1,15 +1,15 @@
 ---
-title: 'iPad: First Impressions and Snap Judgments'
-author: roy
-type: post
-date: 2010-10-24T04:28:52+00:00
-url: /2010/10/ipad-first-impressions-and-snap-judgments/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2010-10-24 04:28:52
+title: 'iPad: First Impressions and Snap Judgments'
+type: post
+url: /2010/10/ipad-first-impressions-and-snap-judgments/
 ---
+
 So, through a complicated series of circumstances where I initiated the process but actually managed to get myself surprised, I now own an iPad Wifi+3g 64GB (yes, it&#8217;s the most expensive model, don&#8217;t worry it did not break the piggy bank). It was purchased from Singapore and brought to me by a friend last Friday. I&#8217;ve used an iPad before (during the CCS trip Baguio), but this is the first time I&#8217;ve had the chance to customize the applications and content, and have it exclusive for my own use. I&#8217;ve had it for about a day and half, here are my snap judgments and quick impressions:
 
 <div id="_mcePaste">

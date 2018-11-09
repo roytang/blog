@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-05-09 12:38:49
 title: Alara Reborn Release
 type: post
-date: 2009-05-09T12:38:49+00:00
 url: /2009/05/alara-reborn-release/
-categories:
-  - Magic the Gathering
-
 ---
+
 Alara Reborn is finally available locally! For a while I thought about heading to Baguio for the King of the North tournament, but the fact is I have no standard deck ready at the moment. Besides, I wanted to practice sealed deckbuilding for the upcoming Bangkok GPTs, so this morning I was sleeving up a 40-card deck at Robinson&#8217;s Galleria.
 
 <div class="decklist_wrap">

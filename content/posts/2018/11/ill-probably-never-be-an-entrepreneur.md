@@ -1,13 +1,13 @@
 ---
-title: I’ll probably never be an entrepreneur
 author: roy
-type: post
-date: 2018-11-02T05:03:45+00:00
-url: /2018/11/ill-probably-never-be-an-entrepreneur/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2018-11-02 05:03:45
+title: "I'll probably never be an entrepreneur"
+type: post
+url: /2018/11/ill-probably-never-be-an-entrepreneur/
 ---
+
 I&#8217;ll probably never be an entrepreneur.
 
 It&#8217;s funny. There&#8217;s a lot of these &#8220;Anyone can be an entrepreneur!&#8221; &#8220;You too can be an entrepreneur!&#8221; articles that go around. But I don&#8217;t think it&#8217;s true. I don&#8217;t think entrepreneurship is for everybody.

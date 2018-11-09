@@ -1,14 +1,14 @@
 ---
-title: 'Rob and Elliot: A webcomic updated Mondays and Fridays'
 author: Roy
-type: post
-date: 2006-10-17T08:00:37+00:00
-url: /2006/10/rob-and-elliot-a-webcomic-updated-mondays-and-fridays/
 categories:
-  - Links
+- Links
+date: 2006-10-17 08:00:37
 format: link
-
+title: 'Rob and Elliot: A webcomic updated Mondays and Fridays'
+type: post
+url: /2006/10/rob-and-elliot-a-webcomic-updated-mondays-and-fridays/
 ---
+
 I&#8217;md reading a new one: [Rob and Elliot: A webcomic updated Mondays and Fridays
   
 ][1] 

@@ -1,13 +1,13 @@
 ---
-title: 'Games: Warcraft III – Rude And Annoying Teammates'
 author: Roy
-type: post
-date: 2005-03-26T05:04:00+00:00
-url: /2005/03/games-warcraft-iii-rude-and-annoying-teammates/
 categories:
-  - Gaming
-
+- Gaming
+date: 2005-03-26 05:04:00
+title: "Games: Warcraft III \xE2\u20AC\u201C Rude And Annoying Teammates"
+type: post
+url: /2005/03/games-warcraft-iii-rude-and-annoying-teammates/
 ---
+
 [Originally [posted to the GameFAQs message boards][1]]
 
 Now, there are rude and annoying people everywhere, especially on the internet. And normally, I don&#8217;t care, I just ignore them. On battle.net, I just let them be, and keep on playing. Every so often however, some guy comes along who just pisses me off completely.

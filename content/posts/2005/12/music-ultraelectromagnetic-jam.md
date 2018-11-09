@@ -1,15 +1,17 @@
 ---
-title: Music – Ultraelectromagnetic Jam
 author: Roy
-type: post
-date: 2005-12-11T09:26:00+00:00
-url: /2005/12/music-ultraelectromagnetic-jam/
 categories:
-  - Music
-  - Philippines
-  - Review
-
+- Pop Culture
+- Philippines
+date: 2005-12-11 09:26:00
+tags:
+- Music
+- Review
+title: "Music - Ultraelectromagnetic Jam"
+type: post
+url: /2005/12/music-ultraelectromagnetic-jam/
 ---
+
 I&#8217;m no music critic; often I can&#8217;t even carry my own tune. But I do know what I like, and I know I like the Eraserheads&#8217; music. If you don&#8217;t know who the &#8216;heads are, they&#8217;re basically the [Beatles of the Philippines][1], galvanizing the local music industry and serving as an example and inspiration to numerous other bands that followed after them. It&#8217;s only fitting then that many of the current crop of Filipino performers pay tribute to them in the form of Ultraelectromagnetic Jam. This fantastic album features several artists performing their own versions of some of the Eraserheads best hits, namely:
 
   * Alapaap by 6-Cycle Mind

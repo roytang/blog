@@ -1,13 +1,13 @@
 ---
-title: Hipster PDA?
 author: roy
-type: post
-date: 2005-07-10T16:28:00+00:00
-url: /2005/07/hipster-pda/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2005-07-10 16:28:00
+title: Hipster PDA?
+type: post
+url: /2005/07/hipster-pda/
 ---
+
 Should I get a [Hipster PDA][1]? I&#8217;m thinking about it. Or something similar.
 
 Not really for organizing tasks and stuff. Only for jotting down temporary things when away from a computer. So I can remember them later. I often think up incredibly clever world-shaking ideas while commuting, it would be nice to remember all of them.

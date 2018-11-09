@@ -1,13 +1,15 @@
 ---
-title: Sunday Work and Naruto Fillers
 author: roy
-type: post
-date: 2005-10-29T22:56:00+00:00
-url: /2005/10/sunday-work-and-naruto-fillers/
 categories:
-  - TV Series
-
+- Pop Culture
+date: 2005-10-29 22:56:00
+tags:
+- TV Series
+title: Sunday Work and Naruto Fillers
+type: post
+url: /2005/10/sunday-work-and-naruto-fillers/
 ---
+
 I have to work today :( And probably tomorrow and the day after as well, although both are local holidays.
 
 On what may very well become one of the company&#8217;s biggest projects I might add, if we get the contract.

@@ -1,15 +1,15 @@
 ---
-title: What do people ask software developers about?
 author: roy
-type: post
-date: 2018-02-15T01:00:16+00:00
-draft: true
-url: /?p=2606
 categories:
-  - Software Development
-  - Tech Life
-
+- Software Development
+- Tech Life
+date: 2018-02-15 01:00:16
+draft: true
+title: What do people ask software developers about?
+type: post
+url: /?p=2606
 ---
+
 I&#8217;m not sure non-technical people really understand what it is software developers do for a living, or that there are different kinds of software developers that do different kinds of things. I&#8217;m not even sure my parents understand the kind of work I do, even though all four of their children are in the same industry.
 
 I think non-technical people generally just put you into a &#8220;technical person&#8221; bucket and assume you can do all sorts of technical wizardry. (I am not saying this is untrue!) The usual stereotype is relatives and friends asking you to fix their printer or their wifi, but I&#8217;ve gotten a few different kinds of requests over the years:

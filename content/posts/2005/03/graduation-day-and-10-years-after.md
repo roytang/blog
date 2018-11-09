@@ -1,13 +1,13 @@
 ---
-title: Graduation Day, and 10 Years After
 author: roy
-type: post
-date: 2005-03-28T14:22:01+00:00
-url: /2005/03/graduation-day-and-10-years-after/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-03-28 14:22:01
+title: Graduation Day, and 10 Years After
+type: post
+url: /2005/03/graduation-day-and-10-years-after/
 ---
+
 I was back in Pisay today, to attend my brother&#8217;s graduation. He&#8217;s the last of us, three brothers who all went through Pisay. I&#8217;ve never seen the pool up close before today. It doesn&#8217;t look very deep.
 
 I&#8217;m incoherent. It might be because I&#8217;ve been reading the [Sluggy Freelance ][1]archives since I got home.

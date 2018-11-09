@@ -1,13 +1,15 @@
 ---
-title: I Am Selling An Old Monitor
 author: roy
-type: post
-date: 2005-10-27T00:17:00+00:00
-url: /2005/10/i-am-selling-an-old-monitor/
 categories:
-  - Hardware
-
+- Tech Life
+date: 2005-10-27 00:17:00
+tags:
+- Hardware
+title: I Am Selling An Old Monitor
+type: post
+url: /2005/10/i-am-selling-an-old-monitor/
 ---
+
 [
   
 Here

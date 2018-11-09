@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-02-04 09:12:47
 title: Morningtide Release Event
 type: post
-date: 2008-02-04T09:12:47+00:00
 url: /2008/02/morningtide-release-event/
-categories:
-  - Magic the Gathering
-
 ---
+
 Flight B, February 2, 2008, Saturday at Neutral Grounds Galleria. The format is LOR/MOR sealed.
 
 I get my product and check it out. No outright bombs or cash rares, but I immediately spot the Drowner of Secrets + Merrow Commerce + 2 Stonybrook Schoolmasters. I had reasonable fliers and permission, so I built the blue-white deck. My only removal being a Weight of Conscience that I did not actually put in the maindeck.

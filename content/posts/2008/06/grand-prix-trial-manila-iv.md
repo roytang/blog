@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-06-16 10:00:26
 title: Grand Prix Trial Manila IV
 type: post
-date: 2008-06-16T10:00:26+00:00
 url: /2008/06/grand-prix-trial-manila-iv/
-categories:
-  - Magic the Gathering
-
 ---
+
 The tournament was Sunday, June 15. The format was of course Block Constructed.
 
 I was playing the same Commandments deck as the day before, except I managed to get the second Mind Spring (taking out the Fathom Trawl). During last minute playtesting on Sunday morning I also decided to take out the Plumeveils from the board (they were redundant with Nameless Inversion) and put in Faerie Macabres to help the Elemental matchup.

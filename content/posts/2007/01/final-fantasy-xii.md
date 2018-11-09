@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2007-01-10 01:17:11
 title: Final Fantasy XII
 type: post
-date: 2007-01-10T01:17:11+00:00
 url: /2007/01/final-fantasy-xii/
-categories:
-  - Gaming
-
 ---
+
 Wow. It took me three months to finish FF12!
 
 Fun game, weak story.

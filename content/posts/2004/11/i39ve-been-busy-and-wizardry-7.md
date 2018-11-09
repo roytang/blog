@@ -1,12 +1,12 @@
 ---
-title: 'I&#39;ve Been Busy…and Wizardry 7'
-type: post
-date: 2004-11-12T13:37:46+00:00
-url: /2004/11/i39ve-been-busy-and-wizardry-7/
 categories:
-  - Gaming
-
+- Gaming
+date: 2004-11-12 13:37:46
+title: "I&#39;ve Been Busy\xE2\u20AC\xA6and Wizardry 7"
+type: post
+url: /2004/11/i39ve-been-busy-and-wizardry-7/
 ---
+
 &#8230;or maybe just distracted. After putting in some fifty hours over a four-day period last weekend, I thought I&#8217;d cool off for a few days, doing nothing but what needs to be done, and some surfing and sleep when I get home.
 
 But I&#8217;m back! And I&#8217;m going to get my gaming groove on! I got a new copy of Star Ocean: Til The End of Time, hopefully this one&#8217;s a good copy, I haven&#8217;t tested it yet. I&#8217;ll play it this long weekend (Monday = RP holiday, start of Ramadan); I will finish another PS2 RPG, I swear! Also, after years of trying I finally managed to get a working copy of Wizardry 7 again! Crusaders of the Dark Savant was the first RPG my brother and I ever played; we spent many sleepless nights crawling it&#8217;s massive dungeons hoping our little fairy ninja would not get squashed! But we never finished it, for one reason or another, so this our chance to revenge! (Oh, and I finally got it working thanks to the

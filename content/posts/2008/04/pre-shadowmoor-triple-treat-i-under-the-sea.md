@@ -1,12 +1,12 @@
 ---
-title: Pre-Shadowmoor Triple Treat I – Under the Sea
-type: post
-date: 2008-04-07T04:36:06+00:00
-url: /2008/04/pre-shadowmoor-triple-treat-i-under-the-sea/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2008-04-07 04:36:06
+title: "Pre-Shadowmoor Triple Treat I \xE2\u20AC\u201C Under the Sea"
+type: post
+url: /2008/04/pre-shadowmoor-triple-treat-i-under-the-sea/
 ---
+
 Tournament was last April 6 2008 at NG Galleria, with 3 formats: Block, Standard and Extended. I was thinking of playing block but shifted to standard at the last minute because I only had one Mutavault.
 
 This was deck I assembled on Saturday:

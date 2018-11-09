@@ -1,13 +1,13 @@
 ---
-title: Deadly Noontime Shows
 author: Roy
-type: post
-date: 2006-02-05T07:25:44+00:00
-url: /2006/02/deadly-noontime-shows/
 categories:
-  - Philippines
-
+- Philippines
+date: 2006-02-05 07:25:44
+title: Deadly Noontime Shows
+type: post
+url: /2006/02/deadly-noontime-shows/
 ---
+
 In a few months people will forget anyway.
 
 Yesterday [74 people died in a tragic stampede.

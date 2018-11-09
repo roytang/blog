@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2005-03-11 16:22:59
 title: Movie-ID puzzle
 type: post
-date: 2005-03-11T16:22:59+00:00
 url: /2005/03/movie-id-puzzle/
-categories:
-  - Gaming
-
 ---
+
 [
     
 Boing Boing: Movie-ID puzzle: name the films in these disembodied scenes

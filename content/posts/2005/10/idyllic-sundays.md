@@ -1,13 +1,13 @@
 ---
-title: Idyllic Sundays
 author: roy
-type: post
-date: 2005-10-23T08:35:00+00:00
-url: /2005/10/idyllic-sundays/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-10-23 08:35:00
+title: Idyllic Sundays
+type: post
+url: /2005/10/idyllic-sundays/
 ---
+
 It nevers fails, every week, around 1-2pm on a Sunday. For some unexplainable reason, an overpowering drowsiness steps in, and I must sacrifice 2-3 hours of my time to sleep.
 
 it&#8217;s not a normal sleep either, it&#8217;s the kind of sleepm that&#8217;s very hard to break. You wake up it&#8217;s 4pm, and think &#8220;There&#8217;s some stuff I have to do,&#8221; but by 5pm you&#8217;re still happily sleeping.

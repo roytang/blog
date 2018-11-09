@@ -1,13 +1,13 @@
 ---
-title: My Phone Was Stolen
 author: Roy
-type: post
-date: 2008-12-20T04:38:21+00:00
-url: /2008/12/my-phone-was-stolen/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2008-12-20 04:38:21
+title: My Phone Was Stolen
+type: post
+url: /2008/12/my-phone-was-stolen/
 ---
+
 I wish there was more to the story, but the true story is rather short: I had a moment of carelessness as I hurriedly tried to disemabark from the crowded MRT, and by the time I was getting on an FX at Megamall I noticed that the front pocket of my bag was open and my phone was missing.
 
 The PSP which was in the same pocket was still there so I guess the thief was in a hurry. My best guess for the point of attack would have been as I was lined up at the outgoing gates and rummaging through my pockets for the MRT ticket. I&#8217;m normally very careful in these situations but I was carrying more stuff than I usually do so I guess I really let my guard down here.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2006-10-10 07:12:07
 title: Quick Impressions on Some DS Games
 type: post
-date: 2006-10-10T07:12:07+00:00
 url: /2006/10/quick-impressions-on-some-ds-games/
-categories:
-  - Gaming
-
 ---
+
 Mario Kart &#8211; it&#8217;s Mario Kart! Yay! Although we now have six DS owners at the office, we haven&#8217;t yet had time to pull off a six-player race. I&#8217;m pretty sure it will be insane though.
 
 Brain Age &#8211; mildly nerdy, strngely addictive. It&#8217;s not so much a game, more of a series of mental training exercises. Too bad the speaking portion doesn&#8217;t easily recognize my voice (and/or my accent)

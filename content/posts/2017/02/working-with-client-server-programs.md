@@ -1,13 +1,13 @@
 ---
-title: Working with Client-Server Programs
 author: roy
-type: post
-date: 2017-02-09T01:30:50+00:00
-url: /2017/02/working-with-client-server-programs/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-02-09 01:30:50
+title: Working with Client-Server Programs
+type: post
+url: /2017/02/working-with-client-server-programs/
 ---
+
 Back when I was starting out as a software developer, webapps weren&#8217;t really a thing. Not as much as they are now anyway. My company provided training to new hires, but I didn&#8217;t get any web development training at the time, even though they already had a few web development projects in play at the time.
 
 Instead my initial training involved mostly development of so-called client-server software. This was software that was installed and run on the client machine but they would connect to a remote database server. Up until the early 2000s most enterprisey-type systems used these kinds of program.

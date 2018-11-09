@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2006-06-11 18:50:28
 title: PTQ-Kobe
 type: post
-date: 2006-06-11T18:50:28+00:00
 url: /2006/06/ptq-kobe/
-categories:
-  - Magic the Gathering
-
 ---
+
 So, I played at PTQ Kobe at Robinson&#8217;s Galleria last Saturday. First things first: First thing I do when I get passed a Ravnica Block sealed deck is to check the decklist to see if I got passed a shockland. Incredibly, I was passed not just one, but two! That in itself paid for the registration fee, but I still wanted to get a decent finish in the PTQ. Unfortunately, aside from the Temple Garden and the Blood Crypt, I didn&#8217;t get that many &#8220;wow&#8221; cards. Unable to resist what good cards I had, I actually played all five colors: I put in black for removal, put in blue for Helium Squirter (that thing is insane), green for beats, splashing white for Pollenbright Wings and splashing red for Ogre Savant.
 
 Unfortunately as I realized later, I was so elated by having two shocklands and was in such a hurry to play that I forgot to check my curve. It readily became apparent in later games that I was playing with a sort of negative curve &#8211; most of my good cards were in the 5 to 6 mana range. On hindsight, I suppose I should have put in the Boros weenies. This proved my undoing in both matches that I lost to quick creature rushes. One match ended in a draw, but I just gave the guy the win anyway. (Note to self: Never do that again. Mercy is for the weak!) I went home not just a bit sleepy (having woking up at 5:30 am) with a 2-3 record.

@@ -1,14 +1,14 @@
 ---
-title: Wowowee
 author: Roy
-type: post
-date: 2007-05-01T04:01:50+00:00
-url: /2007/05/wowowee/
 categories:
-  - Just Another Day
-  - Philippines
-
+- Just Another Day
+- Philippines
+date: 2007-05-01 04:01:50
+title: Wowowee
+type: post
+url: /2007/05/wowowee/
 ---
+
 So, I was there in the taxi with my youngest brother Brian. And I brought up the topic of the noontime TV show Wowowee, which we had just seen about half an hour of before we got in the taxi.
 
 I told him that I thought of it as a really terrible show. Sure, poor people win relatively-large cash prizes and stuff from it, but it feels so exploitative. Hundreds, maybe thousands of poor folk from god-knows-how-far-away queue up outside the studios every day hoping to get into the studio audience to participate in the cash giveaways. There are probably people that see all these &#8220;lucky&#8221; scrubs earning free cash on TV, so that instead of spending their time looking for work or ways to earn a decent, continuous income, they stand around the ABS-CBN studios day in and day out hoping to get lucky. And hope they don&#8217;t get caught in a stampede of course.

@@ -1,12 +1,12 @@
 ---
-title: 'Games: Legend of Zelda – Minish Cap'
-type: post
-date: 2005-02-16T11:01:00+00:00
-url: /2005/02/games-legend-of-zelda-minish-cap/
 categories:
-  - Gaming
-
+- Gaming
+date: 2005-02-16 11:01:00
+title: "Games: Legend of Zelda \xE2\u20AC\u201C Minish Cap"
+type: post
+url: /2005/02/games-legend-of-zelda-minish-cap/
 ---
+
 The last Zelda game I played (as in, to the end) was Link To The Past, and I think it was on David&#8217;s old SNES. Or it may have been on ZSNES, I&#8217;m not entirely sure anymore. Before that was the first Zelda, which I actually finished on its original console! 
 
 Seems that the years have been kind to the Zelda formula: Octoroks and Tektites on the world map, Bats, Skeletons and Wizrobes underground, Boomerangs and Arrows to throw about, Pieces of Heart to collect, Swords, Bottles, hidden passages, name it, it&#8217;s all here. I miss Dodongo though. :p 

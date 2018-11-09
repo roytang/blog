@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2006-10-23 16:20:21
 title: Computer Gaming World
 type: post
-date: 2006-10-23T16:20:21+00:00
 url: /2006/10/computer-gaming-world/
-categories:
-  - Gaming
-
 ---
+
 Awesome thing for old-school gamers &#8211; CGW has made available PDFs of their first 100 issues
    
 [

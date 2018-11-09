@@ -1,13 +1,13 @@
 ---
-title: Silly
 author: Roy
-type: post
-date: 2006-10-16T08:18:50+00:00
-url: /2006/10/silly/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-10-16 08:18:50
+title: Silly
+type: post
+url: /2006/10/silly/
 ---
+
 A friend of mine at work once commented to me that I ask the silliest questions.
 
 When I&#8217;m a bit bored at the office, I will sometimes throw random meaning-of-life questions at them. things like:

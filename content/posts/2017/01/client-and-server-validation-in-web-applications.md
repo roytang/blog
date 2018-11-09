@@ -1,13 +1,13 @@
 ---
-title: Client and Server Validation in Web applications
 author: roy
-type: post
-date: 2017-01-05T01:30:39+00:00
-url: /2017/01/client-and-server-validation-in-web-applications/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-01-05 01:30:39
+title: Client and Server Validation in Web applications
+type: post
+url: /2017/01/client-and-server-validation-in-web-applications/
 ---
+
 Because of the nature of the web and the fact that you should [never trust user input][1], all the validation in a web application should be done on the server side. You can additionally provide validation on the client side (via JavaScript), but this is only a concession towards a better user experience and should not be used as a substitute for server-side validation.
 
 One would think that anyone with a basic understanding of how HTTP works would understand the above easily and any failure to practice it should be considered amateur hour. But in shops where most of the testing is done manually, developers can easily fall into the habit of adding the client-side validations (since failing to do so would earn them a bug report) and forgetting the server-side validations altogether.

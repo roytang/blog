@@ -1,13 +1,13 @@
 ---
-title: Family
 author: Roy
-type: post
-date: 2008-01-14T06:38:03+00:00
-url: /2008/01/family/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2008-01-14 06:38:03
+title: Family
+type: post
+url: /2008/01/family/
 ---
+
 I was too tired to post over the weekend &#8211; too busy. But seeing as how this is a log, I need to note significant events that happened over the past weekend:
 
 a. Saturday (Jan 12) &#8211; Younger brother got married. Had to give a best man toast. It went well, but I got hit by birdshit.

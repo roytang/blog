@@ -1,14 +1,17 @@
 ---
-title: Music Quiz
 author: roy
-type: post
-date: 2005-06-14T16:02:00+00:00
-url: /2005/06/music-quiz/
 categories:
-  - Music
-  - Puzzles
-
+- Pop Culture
+- Tech Life
+date: 2005-06-14 16:02:00
+tags:
+- Music
+- Puzzles
+title: Music Quiz
+type: post
+url: /2005/06/music-quiz/
 ---
+
 I&#8217;m bored.
 
 What do the following have in common?

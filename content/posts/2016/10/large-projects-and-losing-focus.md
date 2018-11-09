@@ -1,14 +1,14 @@
 ---
-title: Large Projects and Losing Focus
 author: roy
-type: post
-date: 2016-10-11T01:30:52+00:00
-url: /2016/10/large-projects-and-losing-focus/
 categories:
-  - Just Another Day
-  - Opinions
-
+- Just Another Day
+- Opinions
+date: 2016-10-11 01:30:52
+title: Large Projects and Losing Focus
+type: post
+url: /2016/10/large-projects-and-losing-focus/
 ---
+
 I&#8217;m kind of a serial project starter. I&#8217;m sure it&#8217;s a very common thing. I&#8217;ll often have random ideas for projects I could do, big or small. I&#8217;d have a dozen of them percolating in my head at any one time. And somewhere between four to five dozen scattered down in various documents, notepads and what not, waiting to be explored. (I literally have two such small post-it notes with 5 such items in front of me right now)
 
 These projects range from the small (programming: small scripts to automate some stuff I do regularly; sketches: quick sketches I want to do; writing: blog posts, short stories;) to the rather large and time-consuming (game development ideas, complicated data analysis ideas, novel ideas, some major reorganization/sorting of stuff, and so on). Unfortunately, starting new projects is rarely fruitful unless you actually finish those projects. And I rarely finish the larger projects.

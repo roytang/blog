@@ -1,13 +1,13 @@
 ---
-title: Gaming Walkthroughs
 author: roy
-type: post
-date: 2017-02-07T01:30:31+00:00
-url: /2017/02/gaming-walkthroughs/
 categories:
-  - Gaming
-
+- Gaming
+date: 2017-02-07 01:30:31
+title: Gaming Walkthroughs
+type: post
+url: /2017/02/gaming-walkthroughs/
 ---
+
 Old gamer rants follow.
 
 Gaming has changed a lot over the years.

@@ -1,15 +1,17 @@
 ---
-title: Scary Movies and Games
 author: roy
-type: post
-date: 2017-03-14T01:30:47+00:00
-url: /2017/03/scary-movies-and-games/
 categories:
-  - Gaming
-  - Just Another Day
-  - Movies
-
+- Gaming
+- Just Another Day
+- Pop Culture
+date: 2017-03-14 01:30:47
+tags:
+- Movies
+title: Scary Movies and Games
+type: post
+url: /2017/03/scary-movies-and-games/
 ---
+
 I&#8217;m not a fan of scary movies. I don&#8217;t appreciate the idea of paying money to get surprised by jump scares or whatever.
 
 Back when I was a kid I remember my dad watching a _Betamax_ copy of [The Gate][1] back home and me and my younger brother were watching with him and the movie seriously creeped me out. There was this one scene where a demonic eye manifested on the lead kid&#8217;s palm and that scene stuck with me for a while. (Maybe some latent form of trypophobia &#8211; don&#8217;t google it.)

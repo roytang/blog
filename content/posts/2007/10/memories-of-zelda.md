@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2007-10-07 05:11:08
 title: Memories of Zelda
 type: post
-date: 2007-10-07T05:11:08+00:00
 url: /2007/10/memories-of-zelda/
-categories:
-  - Gaming
-
 ---
+
 Can holding a stylus cause carpal tunnel syndrome? Legend of Zelda: Phantom Hourglass for a few days now; the controls are purely-stylus driven so my wrist aches a bit after a few hours of play. Of course the game has been consuming a good number of my waking hours (I didn&#8217;t even play any
    
 [

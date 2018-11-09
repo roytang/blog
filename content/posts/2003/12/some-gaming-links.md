@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2003-12-11 14:42:49
 title: Some Gaming Links
 type: post
-date: 2003-12-11T14:42:49+00:00
 url: /2003/12/some-gaming-links/
-categories:
-  - Gaming
-
 ---
+
 Today&#8217;s random links:
 
 [

@@ -1,13 +1,13 @@
 ---
-title: Drama at the Manila Pen
 author: Roy
-type: post
-date: 2007-11-30T03:11:51+00:00
-url: /2007/11/drama-at-the-manila-pen/
 categories:
-  - Philippines
-
+- Philippines
+date: 2007-11-30 03:11:51
+title: Drama at the Manila Pen
+type: post
+url: /2007/11/drama-at-the-manila-pen/
 ---
+
 I don&#8217;t particularly care one way or another whether Gloria falls out of power or not. I suspect a lot of people don&#8217;t. And a lot of people probably don&#8217;t give a hoot about Trillianes either. I am however of the opinion that he is an idiot.
 
 What exactly did he hope to accomplish yesterday anyway? The only difference between now and Oakwood a few years ago is that since then he&#8217;s gotten the pity vote to actually be able to call himself a senator.

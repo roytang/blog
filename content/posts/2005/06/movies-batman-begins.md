@@ -1,13 +1,15 @@
 ---
-title: 'Movies: Batman Begins'
 author: roy
-type: post
-date: 2005-06-19T11:39:00+00:00
-url: /2005/06/movies-batman-begins/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2005-06-19 11:39:00
+tags:
+- Movies
+title: 'Movies: Batman Begins'
+type: post
+url: /2005/06/movies-batman-begins/
 ---
+
 Awesome. Definitely better than the all the other Batman movies. This movie is no kids&#8217; movie either. The movie is less about Batman&#8217;s crimefighting adventures and more about Bruce Wayne&#8217;s journey from being a angry, confused rich orphan to the billionaire playboy/costumed vigilante popularized by the earlier films.
 
 The movie captures the essence of Batman&#8217;s character perfectly. It&#8217;s all about fear &#8212; Bruce overcoming his fear of bats and eventually turning that fear into a symbol to strike terror into the hearts of criminals. The Batman here is nowhere near Joel Schumacher&#8217;s colorful crusader, or Adam West&#8217;s \*Biff\*Pow\*Sock\* type of action. This Batman is a true dark knight, striking from the shadows, unseen, terrifying. I can just imagine the rumors rippling through the underworld during the movie: the Batman is a terrifying monster; he can fly; he can command bats; he is darkness incarnate.

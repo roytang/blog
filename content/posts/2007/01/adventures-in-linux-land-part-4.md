@@ -1,13 +1,13 @@
 ---
-title: Adventures in Linux Land, part 4
 author: Roy
-type: post
-date: 2007-01-03T04:21:34+00:00
-url: /2007/01/adventures-in-linux-land-part-4/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2007-01-03 04:21:34
+title: Adventures in Linux Land, part 4
+type: post
+url: /2007/01/adventures-in-linux-land-part-4/
 ---
+
 I upgraded my Kubuntu Linux installation to Edgy Eft during the Christmas break. Some notes:
 
 * Why can&#8217;t there be a one-click install? You know, some pop-up alert bubble in the corner saying &#8220;A new version of Kubuntu is available.&#8221; I don&#8217;t see why the user needs to edit the sources.list file, do the apt-get stuff, etc., when all of this can basically be automated away.

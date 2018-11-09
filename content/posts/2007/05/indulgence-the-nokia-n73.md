@@ -1,13 +1,15 @@
 ---
-title: Indulgence – the Nokia N73
 author: Roy
-type: post
-date: 2007-05-10T04:52:24+00:00
-url: /2007/05/indulgence-the-nokia-n73/
 categories:
-  - Hardware
-
+- Tech Life
+date: 2007-05-10 04:52:24
+tags:
+- Hardware
+title: "Indulgence \xE2\u20AC\u201C the Nokia N73"
+type: post
+url: /2007/05/indulgence-the-nokia-n73/
 ---
+
 I bought a new phone yesterday.
 
 At the recommendation of my brother, I got one from the Nokia N-series, the Nokia N73. As a relatively recent smartphone release, it cost quite a chunk of cash. I was having second thoughts for a while, because I&#8217;m almost never comfortable parting with a significant amount of cash. If I&#8217;m going to spend more than a week&#8217;s salary on something, it better provide me with a decent amount of entertainment

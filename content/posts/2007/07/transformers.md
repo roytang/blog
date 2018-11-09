@@ -1,13 +1,15 @@
 ---
-title: Transformers
 author: Roy
-type: post
-date: 2007-07-01T16:56:45+00:00
-url: /2007/07/transformers/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2007-07-01 16:56:45
+tags:
+- Movies
+title: Transformers
+type: post
+url: /2007/07/transformers/
 ---
+
 As a big Transformers fan back in the day, I have to say: the movie is okay. Action-packed and a fun popcorn flick. The story&#8217;s nothing to win an oscar over, but everything looks SO COOL!
 
 Some questionable things though:

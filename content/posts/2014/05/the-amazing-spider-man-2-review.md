@@ -1,14 +1,16 @@
 ---
-title: The Amazing Spider-Man 2 Review!
 author: roy
-type: post
-date: 2014-05-05T14:35:24+00:00
-url: /2014/05/the-amazing-spider-man-2-review/
 categories:
-  - Comics
-  - Just Another Day
-
+- Pop Culture
+- Just Another Day
+date: 2014-05-05 14:35:24
+tags:
+- Comics
+title: The Amazing Spider-Man 2 Review!
+type: post
+url: /2014/05/the-amazing-spider-man-2-review/
 ---
+
 Well, I haven&#8217;t written anything in a while, so I figured I&#8217;d write some words on the new Spider-Man movie. Spoilers abound!
 
 **Action-packed!** The web-swinging is fun and looks and feels just like Spidey from the comic books. Spider-man moves and fights and banters pretty faithfully to the comic book version of our favorite wall-crawler, so that&#8217;s a definite plus. Peter&#8217;s Spider-sense is portrayed as a slow-motion bullet-time kind of deal which allows him to react quickly and save all the people while dodging everything. It doesn&#8217;t really translate exactly to the comic-book Spider-sense, but I suppose it&#8217;s better than having squiggly lines around his head.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2006-08-27 07:28:54
 title: Nintendo DS
 type: post
-date: 2006-08-27T07:28:54+00:00
 url: /2006/08/nintendo-ds-2/
-categories:
-  - Gaming
-
 ---
+
 In the current handheld wars, I&#8217;ve sampled both the PSP and the Nintendo DS, and I have to say, I&#8217;m much more impressed with the DS. The PSP seems to be a very serious device, as if you tried to cram a PS2 into a handheld and toss in a media player alongside. The DS on the other hand, is
    
 _

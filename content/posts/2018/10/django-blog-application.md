@@ -1,17 +1,17 @@
 ---
-title: Django Blog Application
 author: roy
-type: post
-date: 2018-10-28T05:02:37+00:00
-url: /2018/10/django-blog-application/
 categories:
-  - Software Development
+- Software Development
+date: 2018-10-28 05:02:37
 tags:
-  - projects
-  - python
-  - royondjango
-
+- projects
+- python
+- royondjango
+title: Django Blog Application
+type: post
+url: /2018/10/django-blog-application/
 ---
+
 Ten years ago this month, I started studying [Django][1] by trying to build my own blog application. I found the code lying around while I was going through some backups lately. It&#8217;s way out of date, it uses an early version of django. I thought of bringing it up to speed, but that didn&#8217;t seem practical. Instead, for archival purposes, I cleaned it up a bit and [uploaded the code to a github repo][2]. (Helpful github immediately warned me that having a very old version of Django was a security risk lol). There&#8217;s a lot more information in the README.md of that repo. I actually used this as my main blog engine for a while before I decided the maintenance effort wasn&#8217;t worth it and switched to WordPress.  
 
 

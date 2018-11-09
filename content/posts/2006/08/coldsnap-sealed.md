@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2006-08-20 19:51:58
 title: Coldsnap Sealed
 type: post
-date: 2006-08-20T19:51:58+00:00
 url: /2006/08/coldsnap-sealed/
-categories:
-  - Magic the Gathering
-
 ---
+
 I came home at 3am yesterday after a long day at work Saturday. I was a bit sleepy, but because of work I wouldn&#8217;t be able to play in the Coldsnap-standard Magic tournament on the 26th, so I decided to blow some cash by playing in a Coldsnap release event on MTGO instead.
 
 I managed to win five consecutive rounds of Coldsnap sealed, piloting a mediocre decklist. Mediocre meaning I had neither Adarkar Valkyrie nor Ohran Viper. Nonetheless, I got lucky at just the right times, and made quite a few good plays. Vanish into Memory is awesome, especially with Panglacial Wurm.

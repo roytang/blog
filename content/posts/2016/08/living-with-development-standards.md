@@ -1,13 +1,13 @@
 ---
-title: Living With Development Standards
 author: roy
-type: post
-date: 2016-08-11T01:30:02+00:00
-url: /2016/08/living-with-development-standards/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-08-11 01:30:02
+title: Living With Development Standards
+type: post
+url: /2016/08/living-with-development-standards/
 ---
+
 I was originally going to write a post about the problems development teams face as they get larger, but the section on development standards was long enough by itself so here we are.
 
 Having some sort of development standard in a project development team becomes a lot more important as project size goes up (for obvious reasons). There are different kinds of standards to consider, but generally I break them down into design standards and coding standards. Standards are important not only to ensure consistency among the development team, but to ease transitions both for new team members coming into the project late, or team members moving laterally to other positions or sub-teams within the same project

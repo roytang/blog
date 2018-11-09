@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-09-21 13:12:06
 title: ACR Draft 8-4
 type: post
-date: 2009-09-21T13:12:06+00:00
 url: /2009/09/acr-draft-8-4/
-categories:
-  - Magic the Gathering
-
 ---
+
 Wanted to try out draft recording, the same method that <a link="http://pinoyraredrafter.blogspot.com">pinoyraredrafter</a> uses. The below is an ACR draft I tried this morning. I think the deck was decent, although I made a number of questionable picks. I don&#8217;t have match stories to go along though, I got mana screwed in game 1 then lost a nailbiter in game 3.
 
 

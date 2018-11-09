@@ -1,13 +1,15 @@
 ---
-title: They Don’t Know What They’re Missing
 author: Roy
-type: post
-date: 2002-08-06T16:00:08+00:00
-url: /2002/08/they-don39t-know-what-they39re-missing/
 categories:
-  - Job Hunting
-
+- Just Another Day
+date: 2002-08-06 16:00:08
+tags:
+- Job Hunting
+title: "They Don't Know What They're Missing"
+type: post
+url: /2002/08/they-don39t-know-what-they39re-missing/
 ---
+
 I&#8217;m pissed off.
 
 Today I went to Ortigas for a job interview with a nameless IT company where my cousin Rachel works. I was quite optimistic too &#8212; the position was for a &#8220;Java Trainee.&#8221; I was more than willing to be trained, and a trainee position meant you didn&#8217;t have to be proficient in Java right? Turns out I was wrong. =( Apparently they needed someone with some experience in Java, preferably with a project or two under his belt. I tried to convince the interviewer that I had a lot of raw talent and learn pretty fast anyway, but I haven&#8217;t got any high hopes. That pissed me off.

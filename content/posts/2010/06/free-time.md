@@ -1,13 +1,13 @@
 ---
-title: Free Time
 author: Roy
-type: post
-date: 2010-06-25T08:00:46+00:00
-url: /2010/06/free-time/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2010-06-25 08:00:46
+title: Free Time
+type: post
+url: /2010/06/free-time/
 ---
+
 Aside from my current hiatus, I&#8217;ve taken month-long breaks even when I was still employed. One of the things I most often get asked when I take an extended break from work is &#8220;Won&#8217;t you get bored with all that free time?&#8221;
 
 This question strikes me as a strange attitude towards free time, as if it were an annoyance to be avoided instead of a resource to be enjoyed. The people who subscribe to this belief are probably the same people who watch TV all the time when at home, or who can&#8217;t imagine life without having a 9 to 5 job eating up most of their day. Those people need to find a hobby :p

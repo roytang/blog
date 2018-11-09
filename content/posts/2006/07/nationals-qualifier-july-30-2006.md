@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2006-07-30 07:18:00
 title: Nationals Qualifier, July 30, 2006
 type: post
-date: 2006-07-30T07:18:00+00:00
 url: /2006/07/nationals-qualifier-july-30-2006/
-categories:
-  - Magic the Gathering
-
 ---
+
 I was busy this weekend with Magic: The Gathering. Four of us from the office played at a Nationals Qualifer today at Galleria. I played a custom-built aggro-control blue-white beauty called
    
 [

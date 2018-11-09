@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-09-04 06:57:33
 title: Shards of Alara Preview Season
 type: post
-date: 2008-09-04T06:57:33+00:00
 url: /2008/09/shards-of-alara-preview-season/
-categories:
-  - Magic the Gathering
-
 ---
+
 &#8230;starts next week.
 
 Taking a break from typing up my Grand Prix Manila blog entries, here&#8217;s my prediction for the type of manafixing we&#8217;ll see in Alara:

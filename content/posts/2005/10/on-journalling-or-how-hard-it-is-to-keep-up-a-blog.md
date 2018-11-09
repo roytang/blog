@@ -1,13 +1,13 @@
 ---
-title: On Journalling, or How Hard It Is to Keep Up a Blog
 author: roy
-type: post
-date: 2005-10-22T10:22:00+00:00
-url: /2005/10/on-journalling-or-how-hard-it-is-to-keep-up-a-blog/
 categories:
-  - Writing
-
+- Writing
+date: 2005-10-22 10:22:00
+title: On Journalling, or How Hard It Is to Keep Up a Blog
+type: post
+url: /2005/10/on-journalling-or-how-hard-it-is-to-keep-up-a-blog/
 ---
+
 In my line of work, which is to say &#8220;large-scale database systems&#8221;, there&#8217;s always the idea of &#8220;journalling&#8221; or the &#8220;audit trail.&#8221; Basically, it means that for every transaction of significance, a record is kept of that transaction, stored in a log somewhere, so that should something malefic happen, the logs can be parsed and the trail can be followed, blame can be assigned and countermeasures can be taken.
 
 Okay, that&#8217;s not really limited to large-scale database systems. Any nontrivial software system should have some sort of journalling scheme involved, as printlogging is usually part and parcel of the development process.

@@ -1,13 +1,13 @@
 ---
-title: Learning to SQL
 author: roy
-type: post
-date: 2016-07-21T01:30:37+00:00
-url: /2016/07/learning-to-sql/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-07-21 01:30:37
+title: Learning to SQL
+type: post
+url: /2016/07/learning-to-sql/
 ---
+
 ****<span style="font-weight: 400;">Since I wasn’t a graduate of computer science, there were many concepts of software development I really only got exposed to when I started working. One of those was the concept of a relational database, and hence SQL. The company I worked at gave all new hires a training regimen that started with about a week of SQL. Despite not knowing anything about it beforehand, I took to it like a mouse takes to cheese. At the end of the week, they give you an exam to see how well you understood the material, and my batchmate who I took the course with likes to tell people that halfway through the allocated time for the exam, I was already taking a nap.</span>
 
 <span style="font-weight: 400;">The fact that in my first project I had to port a lot of reports meant I was able to apply what I learned and learn even more easily. I would find as time went on that these bespoke projects typically included hundreds of different reports. The users would always want to see so-and-so data over time or compared with other sets of data, or summary reports of data over weeks, months, years, and so on. And when these systems are being developed, the reports are typically among the last to be finalized, which means that the database structure is almost always optimized towards the needs of the functions needed to maintain the data, and not towards reporting on that data. This typically led to reports that had really long and complicated SQL statements that would look intimidating to newbies. I didn’t mind, I treated each large SQL as a puzzle to be solved and understood.</span>

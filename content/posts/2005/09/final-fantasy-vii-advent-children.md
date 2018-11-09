@@ -1,12 +1,12 @@
 ---
-title: Final Fantasy VII – Advent Children
-type: post
-date: 2005-09-17T16:11:00+00:00
-url: /2005/09/final-fantasy-vii-advent-children/
 categories:
-  - Gaming
-
+- Gaming
+date: 2005-09-17 16:11:00
+title: "Final Fantasy VII \xE2\u20AC\u201C Advent Children"
+type: post
+url: /2005/09/final-fantasy-vii-advent-children/
 ---
+
 A friend of mine said, &#8220;It&#8217;s for die-hard fans only.&#8221;
 
 He&#8217;s right. Luckily, there are roughly seventy trillion die-hard FF7 fans. And I doubt they will be disappointed.

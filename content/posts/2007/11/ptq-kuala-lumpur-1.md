@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-11-04 00:56:00
 title: 'PTQ Kuala Lumpur #1'
 type: post
-date: 2007-11-04T00:56:00+00:00
 url: /2007/11/ptq-kuala-lumpur-1/
-categories:
-  - Magic the Gathering
-
 ---
+
 The format is Lorwyn Sealed. Note here that I they had a shortage of boosters and had to split tournament packs into 3 boosters to be able to accomodate all the players.
 
 Decklist/Card pool later, I&#8217;m too lazy to type it up. Unfortunately, I failed to learn from the previous mistakes as I got blinded by the shiny again, thinking I could actually cast Horde of Notions, so I went with an almost-five color build, major red-blue-and-green. Yes, no tribal synergy at all. (To be fair, HoN was only a dead card once)

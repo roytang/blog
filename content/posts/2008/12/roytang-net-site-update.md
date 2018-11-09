@@ -1,13 +1,13 @@
 ---
-title: roytang.net site update
 author: Roy
-type: post
-date: 2008-12-26T16:26:24+00:00
-url: /2008/12/roytang-net-site-update/
 categories:
-  - Meta
-
+- Meta
+date: 2008-12-26 16:26:24
+title: roytang.net site update
+type: post
+url: /2008/12/roytang-net-site-update/
 ---
+
 Previously I hosted two separate WordPress blogs on roytang.net, the old one I&#8217;ve had since forever, and a separate one that discussed only magic related articles. It was a bit bothersome to have two WordPress installs though. Now that I&#8217;ve migrated to a Django backend, I decided to merge the blogs back into one.
 
 The blog now has the following sections/categories:

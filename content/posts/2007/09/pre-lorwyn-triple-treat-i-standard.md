@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-09-08 21:52:02
 title: 'Pre-Lorwyn Triple Treat I: Standard'
 type: post
-date: 2007-09-08T21:52:02+00:00
 url: /2007/09/pre-lorwyn-triple-treat-i-standard/
-categories:
-  - Magic the Gathering
-
 ---
+
 This weekend was the first of three &#8220;Pre-Lorwyn Triple Treats&#8221; at Neutral Ground, featuring Saturdays with three tournaments: one each of Standard, Block Constructed and Legacy. I tried preparing a deck for block but I couldn&#8217;t come up with anything consistent enough. Lazily, I just picked up the Standard Rakdos deck the day before the tourney, tweaked the sideboard for the inevitable TarmoRack decks (-4 Bottle Gnomes +4 Dodecapod). I lacked a 15th sideboard card, so I toss in a random Seize the Soul. (I need to go to the office really early in order to be able to play)
 
 Round one was a guy I never met before (it happens). I can tell from his sleeves and the Akroma life counter that he&#8217;s no newbie though, so I set aside any assumptions and sit down to play. He wins the roll and leads with a plains. Turns out he&#8217;s some sort of B/W midrange deck. I remember he had Necrotic Slivers, I forget what else. He has land problems and I burn him out quickly game one, and while sideboarding for game two his comments are all &#8220;Grabe, keso deck!&#8221; I haven&#8217;t actually heard anyone refer to burn as &#8220;keso&#8221; for a while now, and I guess he&#8217;s not familiar with the current metagame where Rakdos is popular. We start game two and I hit an early Cyroclasm, giving him further land troubles, and I burn him out again.

@@ -1,13 +1,15 @@
 ---
-title: Pisay (the movie)
 author: roy
-type: post
-date: 2017-07-04T01:30:52+00:00
-url: /2017/07/pisay-the-movie/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2017-07-04 01:30:52
+tags:
+- Movies
+title: Pisay (the movie)
+type: post
+url: /2017/07/pisay-the-movie/
 ---
+
 Last weekend I watched Aureus Solito&#8217;s movie _Pisay_ at the UP film center with a couple of friends (both of whom were my Pisay batchmates of course).
 
 [<img class="aligncenter size-full wp-image-2447" src="http://roytang.net/wp-content/uploads/2017/07/Pisay1.jpg" alt="" width="780" height="522" srcset="https://roytang.net/wp-content/uploads/2017/07/Pisay1.jpg 780w, https://roytang.net/wp-content/uploads/2017/07/Pisay1-300x201.jpg 300w, https://roytang.net/wp-content/uploads/2017/07/Pisay1-768x514.jpg 768w" sizes="(max-width: 780px) 100vw, 780px" />][1]

@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2002-05-24 16:00:57
 title: 'Hoshigami: Ruining Blue Earth'
 type: post
-date: 2002-05-24T16:00:57+00:00
 url: /2002/05/hoshigami-ruining-blue-earth/
-categories:
-  - Gaming
-
 ---
+
 First off, I haven&#8217;t finished the game yet, I&#8217;m somewhere in Chapter 5. I stopped playing the game a month or so ago out of sheer irritation.
 
 For the uninitiated, H:RBE is a tactical RPG for the PSX, released during the last year the PSX. The game is similar in some respects to games like Final Fantasy Tactics and Tactics Ogre, with an emphasis on turn-based squad-level combats. Unlike FFT and TO&#8217;s similar Active Time system, H:RBE uses a system called RAP, where each character can perform as many actions as he wants provided he still has the RAP gauge to pay for it. The more RAP you use, the sooner your next turn comes, and vice versa. I bought this game hoping it would be at least comparable to either FFT or TO. Was I disappointed? Read on.

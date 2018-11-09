@@ -1,15 +1,16 @@
 ---
-title: The perils of hyperpartisanship
 author: roy
-type: post
-date: 2018-10-11T01:00:26+00:00
-url: /2018/10/the-perils-of-hyperpartisanship/
 categories:
-  - Opinions
-  - Philippines
-  - Politics
-
+- Opinions
+- Philippines
+date: 2018-10-11 01:00:26
+tags:
+- Politics
+title: The perils of hyperpartisanship
+type: post
+url: /2018/10/the-perils-of-hyperpartisanship/
 ---
+
 A few days ago I read this great [Reddit comment about how increasing hyperpartisanship makes it easier to influence the entire population][1]. Quoting the relevant part:
 
 <blockquote class="wp-block-quote">

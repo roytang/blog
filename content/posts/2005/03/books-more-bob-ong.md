@@ -1,14 +1,16 @@
 ---
-title: 'Books: More Bob Ong'
 author: roy
-type: post
-date: 2005-03-06T09:34:00+00:00
-url: /2005/03/books-more-bob-ong/
 categories:
-  - Books
-  - Review
-
+- Pop Culture
+date: 2005-03-06 09:34:00
+tags:
+- Books
+- Review
+title: 'Books: More Bob Ong'
+type: post
+url: /2005/03/books-more-bob-ong/
 ---
+
 A while back I blogged about [Bob Ong&#8217;s first book][1]. A short while after, I also picked up his next two books, _Bakit Baliktad Magbasa ng Libro Ang Mga Pilipino? _(Why Do Filipinos Read Backwards?) and _Ang Paboritong Libro ni Hudas _(Judas&#8217; Favorite Book).
 
 &#8220;Bakit Baligtad&#8221; focuses on the Philippines, its people, its quirks and its problems. &#8220;Paboritong Libro&#8221; is a lot harder to classify, as it jumps across several topics, with the unifying theme being the chapters named after anagrams of the seven deadly sins. At least I think that&#8217;s the unifying theme&#8230;

@@ -1,13 +1,13 @@
 ---
-title: On Dreams and Ambition
 author: roy
-type: post
-date: 2018-10-17T01:00:18+00:00
-url: /2018/10/on-dreams-and-ambition/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2018-10-17 01:00:18
+title: On Dreams and Ambition
+type: post
+url: /2018/10/on-dreams-and-ambition/
 ---
+
 I found an old document I had written around 2012, six years ago, I&#8217;ll quote it in full here:
 
 <blockquote class="wp-block-quote">

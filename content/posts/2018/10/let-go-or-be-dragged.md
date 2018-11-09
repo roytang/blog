@@ -1,14 +1,14 @@
 ---
-title: Let Go or Be Dragged
 author: roy
-type: post
-date: 2018-10-08T01:00:23+00:00
-url: /2018/10/let-go-or-be-dragged/
 categories:
-  - Just Another Day
-  - Self-Improvement
-
+- Just Another Day
+- Self-Improvement
+date: 2018-10-08 01:00:23
+title: Let Go or Be Dragged
+type: post
+url: /2018/10/let-go-or-be-dragged/
 ---
+
 <blockquote class="wp-block-quote">
   <p>
     &#8220;Let go or be dragged&#8221;

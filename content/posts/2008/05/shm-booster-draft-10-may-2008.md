@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-05-10 12:19:55
 title: SHM Booster Draft 10 May 2008
 type: post
-date: 2008-05-10T12:19:55+00:00
 url: /2008/05/shm-booster-draft-10-may-2008/
-categories:
-  - Magic the Gathering
-
 ---
+
 Due to an increased workload, as of Friday night I was still totally unprepared for Block Constructed. I decided to skip the Shadowmoor Block Inaugural tournament yesterday, but I still showed up in the afternoon at Galleria to look for cards. Luckily, there was a draft signup so I went ahead and gambled some money on my supposed skills in Limited.
 
 After waiting some 3-4 hours for the draft signup to reach 8 people, we got started. I always carry a pair of scissors in my bag now since I&#8217;m really bad at opening packs when my hands get sweaty.

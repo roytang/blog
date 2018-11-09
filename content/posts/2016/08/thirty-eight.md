@@ -1,13 +1,13 @@
 ---
-title: Thirty Eight
 author: roy
-type: post
-date: 2016-08-09T01:30:46+00:00
-url: /2016/08/thirty-eight/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2016-08-09 01:30:46
+title: Thirty Eight
+type: post
+url: /2016/08/thirty-eight/
 ---
+
 Thirty eight lessons I&#8217;ve learned through the years, in no particular order:
 
   1. Do not be beguiled by pretty things; not all that glitters is gold

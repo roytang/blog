@@ -1,25 +1,25 @@
 ---
-title: Rise of Eldrazi Draft – Kiln Fiend
-author: roy
-type: post
-date: 2010-05-26T08:41:44+00:00
-url: /2010/05/rise-of-eldrazi-draft-kiln-fiend/
 aktt_notify_twitter:
-  - no
-jd_tweet_this:
-  - yes
-wp_jd_target:
-  - http://mtgstorm.com/2010/05/rise-of-eldrazi-draft-kiln-fiend/
-wp_jd_bitly:
-  - http://bit.ly/aWIbSv
+- false
+author: roy
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2010-05-26 08:41:44
+jd_tweet_this:
+- true
 tags:
-  - draft
-  - Limited
-  - roe
-
+- draft
+- Limited
+- roe
+title: "Rise of Eldrazi Draft \xE2\u20AC\u201C Kiln Fiend"
+type: post
+url: /2010/05/rise-of-eldrazi-draft-kiln-fiend/
+wp_jd_bitly:
+- http://bit.ly/aWIbSv
+wp_jd_target:
+- http://mtgstorm.com/2010/05/rise-of-eldrazi-draft-kiln-fiend/
 ---
+
 <link rel='stylesheet' href='http://mtgstorm.com/drafts/draft.css' />
 </p> 
 

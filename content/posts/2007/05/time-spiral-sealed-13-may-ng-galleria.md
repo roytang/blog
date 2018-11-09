@@ -1,12 +1,12 @@
 ---
-title: Time Spiral Sealed – 13 May @ NG Galleria
-type: post
-date: 2007-05-16T06:39:56+00:00
-url: /2007/05/time-spiral-sealed-13-may-ng-galleria/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2007-05-16 06:39:56
+title: "Time Spiral Sealed \xE2\u20AC\u201C 13 May @ NG Galleria"
+type: post
+url: /2007/05/time-spiral-sealed-13-may-ng-galleria/
 ---
+
 Before actually going to the elections last Monday, I played some Limited-format Magic last Sunday at Galleria.
 
 The format was Time Spiral Block Sealed, and I was feeling good. I opened a card pool with no outstanding rares. The only real bomb was the red uncommon Pyrohemia. Spotting the Deep-Sea Kraken and wanting to play it, I decided to go red-blue. I tested the build for a few minutes before realizing it completely stunk and had very few creatures. I looked over the card pool and quickly realized I had overlooked some quality green fatties: Nacatl War-Pride, Durkwood Baloth, Sporesower Thallid, etc. During the last minute of deck-building, I switched to a red/green build with a rather nice curve that proved quite solid.

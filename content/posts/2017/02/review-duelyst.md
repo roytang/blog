@@ -1,14 +1,15 @@
 ---
-title: 'Review: Duelyst'
 author: roy
-type: post
-date: 2017-02-18T01:30:22+00:00
-url: /2017/02/review-duelyst/
 categories:
-  - Gaming
-  - Review
-
+- Gaming
+date: 2017-02-18 01:30:22
+tags:
+- Review
+title: 'Review: Duelyst'
+type: post
+url: /2017/02/review-duelyst/
 ---
+
 After [Hearthstone][1], I tried out a couple of other digital CCGs: [Spellweaver][2] and [Eternal][3], but neither one hooked me. The one I enjoyed the most and did pick up to play regularly was [Duelyst][4]. So this review is written from the perspective of someone who has played both Magic the Gathering (MTG) and Hearthstone (HS).
 
 Hearthstone, Spellweaver and Eternal played like digital MTG with some advantages, as I outlined in the HS post linked above. Duelyst keeps many of the same elements and advantages, but adds an extra dimension. Besides being a card game, Duelyst is also a board game.

@@ -1,13 +1,13 @@
 ---
-title: Free Flex Shirt from Adobe
 author: Roy
-type: post
-date: 2008-11-21T05:42:21+00:00
-url: /2008/11/free-flex-shirt-from-adobe/
 categories:
-  - Software Development
-
+- Software Development
+date: 2008-11-21 05:42:21
+title: Free Flex Shirt from Adobe
+type: post
+url: /2008/11/free-flex-shirt-from-adobe/
 ---
+
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;">
   <a title="photo sharing" href="http://www.flickr.com/photos/zroytang/3048180138/"><br /> <img style="border: solid 2px #000000;" src="http://farm4.static.flickr.com/3162/3048180138_8ddba16e2c_m.jpg" alt="" /><br /> </a></p> 
   

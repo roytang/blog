@@ -1,13 +1,13 @@
 ---
-title: Netdecking
 author: roy
-type: post
-date: 2008-06-01T01:47:15+00:00
-url: /2008/06/netdecking/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2008-06-01 01:47:15
+title: Netdecking
+type: post
+url: /2008/06/netdecking/
 ---
+
 There was a recent thread over on the [Neutral Grounds forums ][1]about how Filipino MTG players often &#8220;netdeck&#8221; or use decklists off the internet. To anyone who starts playing MTG, the ability to build your own decks has always been one of the primary appeals. For this reason, every MTG player would like to think that they have in themselves some level of deckbuilding &#8220;skills&#8221; and that using netdecks should be treated as a loss of pride in one&#8217;s own work.
 
 I don&#8217;t feel strongly about this issue; I&#8217;ve used both netdecks and my own homebrew designs in tournaments before. Checking my own stats (one advantage of this blog is that I have a record of every tournament I ever played): I have a 59% match win rate when using a netdeck, and 54% when using my own homebrew designs. There&#8217;s a statistically signficant difference, so I can&#8217;t claim that I am an awesome deck designer. (Maybe in the future.)

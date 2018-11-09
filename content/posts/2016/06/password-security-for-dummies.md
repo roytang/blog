@@ -1,13 +1,13 @@
 ---
-title: Password Security for Dummies
 author: roy
-type: post
-date: 2016-06-14T01:30:08+00:00
-url: /2016/06/password-security-for-dummies/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2016-06-14 01:30:08
+title: Password Security for Dummies
+type: post
+url: /2016/06/password-security-for-dummies/
 ---
+
 Around the first week of June 2016, [Mark Zuckerberg, well-known nerd and founder of Facebook, was hacked][1]. If even the founder of the world&#8217;s largest social network can be hacked, anybody can! So it might be a good idea to review how you manage and secure your online passwords
 
 &nbsp;

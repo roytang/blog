@@ -1,15 +1,15 @@
 ---
-title: Singapore
-author: roy
-type: post
-date: 2011-06-07T00:02:36+00:00
-url: /2011/06/singapore/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Travels
-
+- Travels
+date: 2011-06-07 00:02:36
+title: Singapore
+type: post
+url: /2011/06/singapore/
 ---
+
 I was in Singapore from June 2 &#8211; June 6, mostly to visit friends who are getting married and compete in the MTG Grand Prix held there last weekend. I like bullet points, so here&#8217;s a summary of my trip:
 
 **Props:**

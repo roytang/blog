@@ -1,13 +1,13 @@
 ---
-title: Pop Ratio
 author: roy
-type: post
-date: 2005-08-14T15:43:00+00:00
-url: /2005/08/pop-ratio/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-08-14 15:43:00
+title: Pop Ratio
+type: post
+url: /2005/08/pop-ratio/
 ---
+
 I&#8217;ve known of Markku Seguerra&#8217;s [rebelpixel][1] website for a while, having enjoyed his constant stream of [OPM-friendly lyrics section][2].
 
 Today, I came upon [his blog post][3] about his band with some Pisay 96 batchmates. Their band is Pop Ratio, and he&#8217;s made available some original tracks and also some covers on his website. They&#8217;re pretty okay, you might want to listen to a few.

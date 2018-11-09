@@ -1,13 +1,13 @@
 ---
-title: New Year Noise
 author: Roy
-type: post
-date: 2008-01-01T04:06:05+00:00
-url: /2008/01/new-year-noise/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2008-01-01 04:06:05
+title: New Year Noise
+type: post
+url: /2008/01/new-year-noise/
 ---
+
 It surprises me sometimes. Living in a country such as this, where many people complain of extreme poverty, harsh economic conditions and the like, one can only wonder how we can celebrate the New Year so extravagantly.
 
 These were the thoughts running through my mind as I watched the fireworks display by our neighbors in the subdivision. It&#8217;s not like these guys are rich, they&#8217;re middle class folk like me who probably balk at the cost of food or furniture or appliances but are now burning away thousands of pesos worth of fireworks, all for a single midnight of revelry. It&#8217;s completely irrational yet understandably so. A typical Pinoy mentality, &#8220;minsan lang naman, sa bagong taon lang.&#8221;

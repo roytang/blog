@@ -1,13 +1,15 @@
 ---
-title: A Numbers Puzzle
 author: Roy
-type: post
-date: 2006-02-17T06:23:46+00:00
-url: /2006/02/a-numbers-puzzle/
 categories:
-  - Puzzles
-
+- Tech Life
+date: 2006-02-17 06:23:46
+tags:
+- Puzzles
+title: A Numbers Puzzle
+type: post
+url: /2006/02/a-numbers-puzzle/
 ---
+
 Some people I know enjoy puzzles. (So do I.) Here&#8217;s a neat one:
 
 1. 85

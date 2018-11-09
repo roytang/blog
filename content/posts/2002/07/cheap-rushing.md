@@ -1,14 +1,15 @@
 ---
-title: Cheap Rushing
 author: roy
-type: post
-date: 2002-07-10T01:30:18+00:00
-url: /2002/07/cheap-rushing/
 categories:
-  - Gaming
-  - Legacy Blog Posts
-
+- Gaming
+date: 2002-07-10 01:30:18
+tags:
+- Legacy Blog Posts
+title: Cheap Rushing
+type: post
+url: /2002/07/cheap-rushing/
 ---
+
 [Posted on the [GameFAQs message board][1]
   
 in response to endless whining about rushes.

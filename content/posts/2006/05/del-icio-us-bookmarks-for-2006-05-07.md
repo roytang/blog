@@ -1,21 +1,17 @@
 ---
-title: Del.icio.us bookmarks for 2006-05-07
 author: Roy
-type: post
-date: 2006-05-07T18:00:02+00:00
-url: /2006/05/del-icio-us-bookmarks-for-2006-05-07/
-enclosure:
-  - |
-    |
-        http://txfx.net/files/wp-movies/001-your-first-wp-plugin.mov
-        5947292
-        video/quicktime
-        
 categories:
-  - Links
+- Links
+date: 2006-05-07 18:00:02
+enclosure:
+- "|\n    http://txfx.net/files/wp-movies/001-your-first-wp-plugin.mov\n    5947292\n
+  \   video/quicktime\n    \n"
 format: link
-
+title: Del.icio.us bookmarks for 2006-05-07
+type: post
+url: /2006/05/del-icio-us-bookmarks-for-2006-05-07/
 ---
+
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-05-07
 
   * [001-your-first-wp-plugin.mov (video/quicktime Object)

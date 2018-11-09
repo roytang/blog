@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-02-16 17:23:20
 title: Opening a Morningtide Box
 type: post
-date: 2008-02-16T17:23:20+00:00
 url: /2008/02/opening-a-morningtide-box/
-categories:
-  - Magic the Gathering
-
 ---
+
 A box and five boosters actually. We drafted the packs, but the final distribution of rares we got were:
 
 <div class="decklist">

@@ -1,13 +1,15 @@
 ---
-title: Ender’s Game Series
 author: Roy
-type: post
-date: 2007-09-22T21:49:17+00:00
-url: /2007/09/ender39s-game-series/
 categories:
-  - Books
-
+- Pop Culture
+date: 2007-09-22 21:49:17
+tags:
+- Books
+title: "Ender's Game Series"
+type: post
+url: /2007/09/ender39s-game-series/
 ---
+
 My reading lately has comprised of Orson Scott Card&#8217;s excellent [Ender&#8217;s Game][1] series. I got a copy of six of the books from an officemate a couple of months back, and I&#8217;ve just finished the seventh book today. I don&#8217;t usually go through books that quickly, so it&#8217;s a sign that I&#8217;ve really enjoyed this series. (If I don&#8217;t enjoy a series, I typically lose interest before even finishing the book &#8211; I have a copy of Sword of Shannara around here to prove that.)
 
 The books are more-or-less sci-fi, the first book Ender&#8217;s Game taking place in a &#8220;near future&#8221; setting, where brilliant children are raised to help fight a war against an invading alien species. The later books branch from the original, with the Speaker for the Dead arc leaning towards philosophical meanings of life in outer space, while the Shadow series of books focus more on political and strategic stuff on Earth.

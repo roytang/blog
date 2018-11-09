@@ -1,13 +1,13 @@
 ---
-title: Feedback Loops
 author: roy
-type: post
-date: 2016-11-01T01:30:14+00:00
-url: /2016/11/feedback-loops/
 categories:
-  - Self-Improvement
-
+- Self-Improvement
+date: 2016-11-01 01:30:14
+title: Feedback Loops
+type: post
+url: /2016/11/feedback-loops/
 ---
+
 A feedback loop happens in a system when you are able to use an output of that system to influence the inputs, which in turn influences the outputs and repeats the cycle
 
 <img class="alignnone size-full" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ideal_feedback_model.svg/2000px-Ideal_feedback_model.svg.png" alt="" width="2000" height="824" />

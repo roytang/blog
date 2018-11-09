@@ -1,13 +1,13 @@
 ---
-title: The Captain’s Hat
 author: roy
-type: post
-date: 2003-12-28T03:00:24+00:00
-url: /2003/12/the-captain39s-hat/
 categories:
-  - Gaming
-
+- Gaming
+date: 2003-12-28 03:00:24
+title: "The Captain's Hat"
+type: post
+url: /2003/12/the-captain39s-hat/
 ---
+
 Check this out:
 
 ![The Captain's Hat][1]

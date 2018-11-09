@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-07-14 08:04:54
 title: Magic Game Day
 type: post
-date: 2007-07-14T08:04:54+00:00
 url: /2007/07/magic-game-day/
-categories:
-  - Magic the Gathering
-
 ---
+
 Today is of course the release of Magic&#8217;s Xth edition,
    
 [

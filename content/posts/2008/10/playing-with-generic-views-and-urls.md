@@ -1,14 +1,14 @@
 ---
+categories:
+- Software Development
+date: 2008-10-20 13:44:00
+tags:
+- royondjango
 title: Playing with Generic Views and URLs
 type: post
-date: 2008-10-20T13:44:00+00:00
 url: /2008/10/playing-with-generic-views-and-urls/
-categories:
-  - Software Development
-tags:
-  - royondjango
-
 ---
+
 &#8220;when redirecting, how can I make the redirect URL decoupled from the urls.py of the parent app?&#8221;
 
 -> It turns out that HttpResponseRedirect supports relative paths, so this was fine.

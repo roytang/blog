@@ -1,14 +1,14 @@
 ---
-title: What is education for?
 author: roy
-type: post
-date: 2018-10-06T01:00:36+00:00
-url: /2018/10/what-is-education-for/
 categories:
-  - Opinions
-  - Philippines
-
+- Opinions
+- Philippines
+date: 2018-10-06 01:00:36
+title: What is education for?
+type: post
+url: /2018/10/what-is-education-for/
 ---
+
 I recently watched this TedX talk by Seth Godin about the purpose of school/education: <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9">
 
 <div class="wp-block-embed__wrapper">

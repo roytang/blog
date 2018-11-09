@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2005-01-18 17:03:00
 title: w3chart
 type: post
-date: 2005-01-18T17:03:00+00:00
 url: /2005/01/w3chart/
-categories:
-  - Gaming
-
 ---
+
 Someone asked for this on the GameFAQs forums.
 
 [

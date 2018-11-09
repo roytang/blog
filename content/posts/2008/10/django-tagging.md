@@ -1,14 +1,14 @@
 ---
+categories:
+- Software Development
+date: 2008-10-26 04:22:00
+tags:
+- royondjango
 title: django-tagging
 type: post
-date: 2008-10-26T04:22:00+00:00
 url: /2008/10/django-tagging/
-categories:
-  - Software Development
-tags:
-  - royondjango
-
 ---
+
 I wanted to add some basic tagging to my blog app so I tried out
   
 [

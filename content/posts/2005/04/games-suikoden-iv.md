@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2005-04-13 14:40:00
 title: 'Games: Suikoden IV'
 type: post
-date: 2005-04-13T14:40:00+00:00
 url: /2005/04/games-suikoden-iv/
-categories:
-  - Gaming
-
 ---
+
 Well, I thought I&#8217;d write about Suikoden IV before I forgot all about it. I finished it around Holy Week, but haven&#8217;t bothered to go through again, even though I promised myself I would try since I did not get the magic number of a hundred and eight stars of destiny this time around. Curse my pride for not reading any FAQs while playing! Time is short, with work and all, so I should make the most of my games so I don&#8217;t need to re-play them. 
 
 Suiko 4 has big steps to fill. The first two Suikoden games gained quite a following on the PSX, and the third game, while taking things in a somewhat different direction, was pretty good as well. Does Suiko 4 live up to the series&#8217; legacy? 

@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-07-19 13:52:57
 title: Online Jigsaw Puzzles!
 type: post
-date: 2004-07-19T13:52:57+00:00
 url: /2004/07/online-jigsaw-puzzles/
-categories:
-  - Gaming
-
 ---
+
 [
     
 Some of them are hard.

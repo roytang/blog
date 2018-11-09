@@ -1,13 +1,13 @@
 ---
-title: Who Am I?
 author: Roy
-type: post
-date: 2004-11-14T03:00:50+00:00
-url: /2004/11/who-am-i/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2004-11-14 03:00:50
+title: Who Am I?
+type: post
+url: /2004/11/who-am-i/
 ---
+
 I am a man of many things, of many passions. I work as an engineer, remodelling space shuttles so that they don&#8217;t crash and burn on reentry. I play the piano, the trombone and the harmonica. I am a columnist for an internationally acclaimed newspaper. I produce and direct award-winning movies. To relax, I write full-length novels, solve transcendental math problems and practice karate, taekwondo and aikido.
 
 I save people from drowning, I protect children from danger, I patrol the streets for litterbugs and jaywalkers, I go to government offices and streamline their processes. I hunt down terrorists, I foil coup attempts, I dismantle nuclear weaponry. I feed the hungry and visit the sick. I write the software that hunts down viruses and protects the internet. I wage war against poverty and take down corrupt politicians. I am wanted in thirty-one states and outlawed in fifty countries.

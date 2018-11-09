@@ -1,13 +1,13 @@
 ---
-title: 'Europe 2015: Rome and Vatican City'
 author: roy
-type: post
-date: 2015-04-25T05:56:41+00:00
-url: /2015/04/europe-2015-rome-and-vatican-city/
 categories:
-  - Travels
-
+- Travels
+date: 2015-04-25 05:56:41
+title: 'Europe 2015: Rome and Vatican City'
+type: post
+url: /2015/04/europe-2015-rome-and-vatican-city/
 ---
+
 _Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3]_
 
 **Wednesday March 11th**

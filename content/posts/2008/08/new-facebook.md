@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2008-08-18 04:11:25
 title: New Facebook
 type: post
-date: 2008-08-18T04:11:25+00:00
 url: /2008/08/new-facebook/
-categories:
-  - Software Development
-
 ---
+
 Am I the only one getting these random JavaScript alerts (obviously debugging messages!) on the new Facebook today?
 
 [

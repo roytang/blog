@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-05-18 14:59:52
 title: 'Regionals 2009: Finest Hour *Top 8*'
 type: post
-date: 2009-05-18T14:59:52+00:00
 url: /2009/05/regionals-2009-finest-hour-top-8/
-categories:
-  - Magic the Gathering
-
 ---
+
 Last Friday, I was still unsure what to play at Regionals this year, having decided to nix Five-Color Control. Given the cards available, I could easily assemble RDW/Blightning or Chapin&#8217;s 5-Color Blood. But in the end, I gave in to [the hype][1] surrounding Tommy Ashton&#8217;s PTQ-winning decklist, [Bant with Finest Hour][2]:
 
 However, due to card availability issues, I didn&#8217;t have any [Dauntless Escort][3]s and only 1 [Noble Hierarch][4]. I moved cards around and tried to fit in [Vendillion Clique][5], which would serve as an additional evasive attacker on top of [Shorecrasher Mimic][6] and [Jhessian Infiltrator][7], plus a little extra disruption. The decklist I turned in on Sunday for Regionals:

@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2007-08-11 08:29:20
 title: Announcing PyMTG
 type: post
-date: 2007-08-11T08:29:20+00:00
 url: /2007/08/announcing-pymtg/
-categories:
-  - Software Development
-
 ---
+
 I couldn&#8217;t sleep, so obviously, I had to start a new personal project.
 
 [

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-10-21 13:30:40
 title: GPT Taipei II
 type: post
-date: 2008-10-21T13:30:40+00:00
 url: /2008/10/gpt-taipei-ii/
-categories:
-  - Magic the Gathering
-
 ---
+
 2nd Trial for Taipei was last Sunday, October 17 at Robinson&#8217;s Galleria. I open to register a very mediocre pool while the rest of the guys at my table open awesome pools with lots of bombs. &#8220;Gee, I hope we don&#8217;t keep this pool.&#8221;
 
 The judge comes over, rolls the dice and we keep our pools. Awkward.

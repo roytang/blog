@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-06-12 08:34:03
 title: I For One Welcome Our New Non-Damage Stacking Overlords
 type: post
-date: 2009-06-12T08:34:03+00:00
 url: /2009/06/i-for-one-welcome-our-new-non-damage-stacking-overlords/
-categories:
-  - Magic the Gathering
-
 ---
+
 In case you haven&#8217;t heard, the internets are in an uproar over [the announced M10 rules changes][1]. A lot of famous Magic people like [Randy Beuhler][2] and [Zvi Mowshowitz][3] have chimed in with their opinions and in general a lot of forum posters are whining about the most controversial change: the removal of combat damage on the stack.
 
 I, for one, welcome our new non-damage stacking overlords. One of Magic&#8217;s strengths has always been that it is a dynamic, ever-changing game, and this is just another step in its&#8217; evolution. Sure, it might turn out to be a wrong step in the end, but while it&#8217;s here we get to adapt to the new way of thinking, discarding strategic options that are no longer viable (pretty sure [Mogg Fanatic][4] is still a pretty good card though) and looking for what new strategies come to light as a result of the new rules.

@@ -1,13 +1,13 @@
 ---
-title: Wizard’s First Rule and Demagoguery
 author: roy
-type: post
-date: 2016-11-22T01:30:07+00:00
-url: /2016/11/wizards-first-rule/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-11-22 01:30:07
+title: "Wizard's First Rule and Demagoguery"
+type: post
+url: /2016/11/wizards-first-rule/
 ---
+
 The series was a bit formulaic, and towards the end really preachy toward&#8217;s the authors personal philosophies, but Terry Goodkind&#8217;s Sword of Truth series always comes back to me because it codified one of life&#8217;s most important truths:
 
 > Wizard&#8217;s First Rule: "People are stupid. They will believe a lie because they want to believe it&#8217;s true, or because they are afraid it might be true."

@@ -1,21 +1,21 @@
 ---
-title: Grand Prix Manila 2012
-author: roy
-type: post
-date: 2012-06-19T08:02:25+00:00
-url: /2012/06/grand-prix-manila-2012/
 aktt_notify_twitter:
-  - yes
+- true
 aktt_tweeted:
-  - 1
+- 1
+author: roy
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2012-06-19 08:02:25
 tags:
-  - grand-prix
-  - standard
-  - tournament-report
-
+- grand-prix
+- standard
+- tournament-report
+title: Grand Prix Manila 2012
+type: post
+url: /2012/06/grand-prix-manila-2012/
 ---
+
 Last weekend was Grand Prix Manila 2012, held at the SMX at Mall of Asia. I don&#8217;t really consider myself a &#8220;regular&#8221; Magic player anymore so I&#8217;m not going to give a full tournament report, though I will record some details for posterity.
 
 Let&#8217;s start with the deck. I played some version of Naya Pod, limited by what cards were available as usual:

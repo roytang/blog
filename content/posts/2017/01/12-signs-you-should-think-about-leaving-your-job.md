@@ -1,13 +1,13 @@
 ---
-title: 12 Signs You Should Think About Leaving Your Job
 author: roy
-type: post
-date: 2017-01-31T01:30:38+00:00
-url: /2017/01/12-signs-you-should-think-about-leaving-your-job/
 categories:
-  - Opinions
-
+- Opinions
+date: 2017-01-31 01:30:38
+title: 12 Signs You Should Think About Leaving Your Job
+type: post
+url: /2017/01/12-signs-you-should-think-about-leaving-your-job/
 ---
+
 Signs you think about leaving your current job:
 
   1. The company culture has changed in ways you don&#8217;t like or recognize

@@ -1,14 +1,15 @@
 ---
-title: 'Review: Stranger Things'
 author: roy
-type: post
-date: 2016-08-13T01:30:55+00:00
-url: /2016/08/review-stranger-things/
 categories:
-  - Opinions
-  - Review
-
+- Opinions
+date: 2016-08-13 01:30:55
+tags:
+- Review
+title: 'Review: Stranger Things'
+type: post
+url: /2016/08/review-stranger-things/
 ---
+
 <img class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png" width="728" height="400" />
 
 So, Stranger Things

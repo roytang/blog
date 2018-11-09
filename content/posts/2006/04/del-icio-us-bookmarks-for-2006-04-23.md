@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-04-23
 author: Roy
-type: post
-date: 2006-04-23T18:00:02+00:00
-url: /2006/04/del-icio-us-bookmarks-for-2006-04-23/
 categories:
-  - Links
+- Links
+date: 2006-04-23 18:00:02
 format: link
-
+title: Del.icio.us bookmarks for 2006-04-23
+type: post
+url: /2006/04/del-icio-us-bookmarks-for-2006-04-23/
 ---
+
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-04-23
 
   * [How to destroy the Earth @ Things Of Interest

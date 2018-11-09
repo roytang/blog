@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2006-12-17 07:51:11
 title: 'Magic: 2006 Gold Rush'
 type: post
-date: 2006-12-17T07:51:11+00:00
 url: /2006/12/magic-2006-gold-rush/
-categories:
-  - Magic the Gathering
-
 ---
+
 I made it back to the country just two days before the last big Standard event of 2007, and I had no deck ready.
 
 On Saturday morning, I quickly cobbled together a RGB off the obvious theme of hating Islands. Minor land destruction theme (4 Cryoclasm, 4 Mwonvuli Acid-Moss), Elephant and Solifuge beats and always going for the Demonfire finish. The black was in the main only for Hit // Run, my answer to Akroma and Bogardan Hellkite. Sideboarded Nightmare Void against control.

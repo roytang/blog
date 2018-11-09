@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-10-20 11:33:07
 title: GPT Bangkok 4
 type: post
-date: 2007-10-20T11:33:07+00:00
 url: /2007/10/gpt-bangkok-4/
-categories:
-  - Magic the Gathering
-
 ---
+
 Ugh, I feel like an idiot.
 
 Lowryn Sealed card pool:

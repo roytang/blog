@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-05-25
 author: Roy
-type: post
-date: 2006-05-25T18:00:02+00:00
-url: /2006/05/del-icio-us-bookmarks-for-2006-05-25/
 categories:
-  - Links
+- Links
+date: 2006-05-25 18:00:02
 format: link
-
+title: Del.icio.us bookmarks for 2006-05-25
+type: post
+url: /2006/05/del-icio-us-bookmarks-for-2006-05-25/
 ---
+
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-05-25
 
   * [The Programmers&#8217; Booklist

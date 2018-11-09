@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2007-11-22 05:55:27
 title: WoW, Hacked!
 type: post
-date: 2007-11-22T05:55:27+00:00
 url: /2007/11/wow-hacked/
-categories:
-  - Gaming
-
 ---
+
 2 days ago: My brother Alvin and Brian report suspicious activities on the computer in their room. Random Chinese popups appearing, mysterious processes in the taskbar. As needed, virus scans and adware scans are done. Trojans are identified and quarantined, but keep reappearing. Brian plays WoW on the machine despite the issues.
 
 Yesterday: Alvin decides to reformat the machine and begins backing up. Brian plays WoW on the machine in my room instead.

@@ -1,13 +1,13 @@
 ---
-title: I’m Lawful Good
 author: Roy
-type: post
-date: 2008-02-25T05:39:29+00:00
-url: /2008/02/i39m-lawful-good/
 categories:
-  - Meta
-
+- Meta
+date: 2008-02-25 05:39:29
+title: "I'm Lawful Good"
+type: post
+url: /2008/02/i39m-lawful-good/
 ---
+
 &nbsp;
 
 > <span style="color: #cc0000; font-family: Arial, Helvetica, sans-serif; font-size: medium;"><br /> <strong><br /> Your Character’s Alignment<br /> </strong><br /> </span>

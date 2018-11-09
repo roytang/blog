@@ -1,13 +1,13 @@
 ---
-title: Planning / Reacting / Relaxing
 author: roy
-type: post
-date: 2017-03-07T01:30:58+00:00
-url: /2017/03/planning-reacting-relaxing/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2017-03-07 01:30:58
+title: Planning / Reacting / Relaxing
+type: post
+url: /2017/03/planning-reacting-relaxing/
 ---
+
 At any point in time, what you are doing can be grouped into one of four buckets:
 
   1. Planning

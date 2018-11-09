@@ -1,13 +1,13 @@
 ---
-title: Your Product Should Be Easy to Install
 author: roy
-type: post
-date: 2016-11-24T01:30:31+00:00
-url: /2016/11/your-product-should-be-easy-to-install/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-11-24 01:30:31
+title: Your Product Should Be Easy to Install
+type: post
+url: /2016/11/your-product-should-be-easy-to-install/
 ---
+
 This is a story of something I consider to be one of my worst mistakes in software product development.
 
 Some years ago I was asked whether it was feasible to write software that would be integrated with Software X that allowed us to export that software&#8217;s output into a format that was compatible with Standard Y. I took a look and after a while came back with &#8220;Well sure. We could use Programming Language M that has an API that lets us integrate into Software X so we can export the output data. Then we&#8217;ll have to use Library N which lets us generate files in the format compatible with Standard Y. What project is this for by the way?&#8221;

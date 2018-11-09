@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-06-08 23:38:17
 title: Draftaganza June 7 2008
 type: post
-date: 2008-06-08T23:38:17+00:00
 url: /2008/06/draftaganza-june-7-2008/
-categories:
-  - Magic the Gathering
-
 ---
+
 The place was NG Galleria, the format was booster draft, three rounds of Lorwyn-Lorwyn-Morningtide followed by three rounds of Shadowmoor-Shadowmoor-Shadowmoor.
 
 I went in a bit confident; I had a drafted a couple of times in the past month with decent results (2-1 and 3-1), so I figured I could probably manage at least a 4-2 here or better. I was quite wrong.

@@ -1,13 +1,13 @@
 ---
-title: Online Discussions, Opposing Views, and Street Fighter
 author: roy
-type: post
-date: 2017-01-17T01:30:54+00:00
-url: /2017/01/online-discussions-opposing-views-and-street-fighter/
 categories:
-  - Opinions
-
+- Opinions
+date: 2017-01-17 01:30:54
+title: Online Discussions, Opposing Views, and Street Fighter
+type: post
+url: /2017/01/online-discussions-opposing-views-and-street-fighter/
 ---
+
 > "If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."
   
 > ― Sun Tzu, The Art of War

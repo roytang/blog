@@ -1,13 +1,13 @@
 ---
-title: Programming is Finding the Right Arrangement of Code
 author: roy
-type: post
-date: 2016-08-18T01:30:21+00:00
-url: /2016/08/programming-is-finding-the-right-arrangement-of-code/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-08-18 01:30:21
+title: Programming is Finding the Right Arrangement of Code
+type: post
+url: /2016/08/programming-is-finding-the-right-arrangement-of-code/
 ---
+
 I like to say that software development is a challenging career because no two projects are ever the same and there are always new challenges to face and new concepts to learn, but the truth of the matter is a bit more complex.
 
 **Writing software is about breaking down large problems into a series of very small technical problems for which we already have solutions.** Examples of small enough technical problems include list sorting, comparison, arithmetic operations, path traversal, string concatenation, returning a string as an HTTP response, rendering text to the screen, retrieving submitted parameters from an HTTP request, and so on. Any given non-trivial software project will be broken down into thousands, possibly hundreds of thousands of such small tasks, some occurring more often under different contexts.

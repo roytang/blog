@@ -1,15 +1,15 @@
 ---
-title: Capitalism
 author: roy
-type: post
-date: 2018-10-23T01:00:35+00:00
-url: /2018/10/capitalism/
 categories:
-  - Opinions
+- Opinions
+date: 2018-10-23 01:00:35
 tags:
-  - philosophy
-
+- philosophy
+title: Capitalism
+type: post
+url: /2018/10/capitalism/
 ---
+
 In fourth year HS, we had an Economics subject, and back then I was fascinated with the idea of free market capitalism &#8211; the free market, the invisible hand, the law of supply and demand, and the idea that through competition we are forced to adapt and become better and more efficient in order to survive. Capitalism mirrored the law of nature: the strong will survive.
 
 These days, I am much less enamored with the idea of capitalism. Not that I disbelieve that it makes us more efficient, but that ruthless efficiency has a cost. Like the law of nature that it mirrors, capitalism ensures that the strong survive, but the corollary is also true: the weak will die and be consumed by the strong. Humans are a societal species, which means we are supposed to be stronger together. But capitalism, optimized towards the pursuit of profit, often times can force us to sacrifice the greater good in favor of individual interests. Corporations especially, will often act as soulless entities whose mandate is above all to pursue profits in the name of the stockholders.

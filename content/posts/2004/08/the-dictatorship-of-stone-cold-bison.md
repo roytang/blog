@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-08-28 14:58:08
 title: The Dictatorship of Stone-Cold Bison
 type: post
-date: 2004-08-28T14:58:08+00:00
 url: /2004/08/the-dictatorship-of-stone-cold-bison/
-categories:
-  - Gaming
-
 ---
+
 I&#8217;ve known about
    
 [

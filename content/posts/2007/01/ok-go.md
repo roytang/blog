@@ -1,13 +1,13 @@
 ---
-title: Ok Go!
 author: Roy
-type: post
-date: 2007-01-13T22:08:30+00:00
-url: /2007/01/ok-go/
 categories:
-  - Meta
-
+- Meta
+date: 2007-01-13 22:08:30
+title: Ok Go!
+type: post
+url: /2007/01/ok-go/
 ---
+
 I&#8217;m testing the [Extreme Video Plugin][1] for WordPress, and I thought, what better way to do so than to further propagate the extreme music videos of [
   
 Ok Go][2].

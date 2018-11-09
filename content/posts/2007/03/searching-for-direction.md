@@ -1,13 +1,13 @@
 ---
-title: Searching for Direction
 author: Roy
-type: post
-date: 2007-03-11T08:26:36+00:00
-url: /2007/03/searching-for-direction/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-03-11 08:26:36
+title: Searching for Direction
+type: post
+url: /2007/03/searching-for-direction/
 ---
+
 I&#8217;m sure a lot of people have experienced it, the feeling of being adrift, directionless. Just living your life day in and day out not knowing where you&#8217;re going or why. Maybe not everybody though, as I&#8217;ve met quite a few people who seem quite content with the monotony of their lives, doing the same thing day in and day out, never bothering to overcome the inertia of their daily lives. Lately, I&#8217;ve been afraid that I&#8217;ve already become one of those people. My current lifestyle, such as it is, has been quite satisfactory for quite a while, and I could comfortably live the rest of my life this way. I see no need to change directions or shift gears.
 
 Lately, a friend of mine mentioned that he would probably move to another company soon. That got me thinking again about my own career plans, about whether I would even consider moving to another company. And the conclusion I came up with was &#8220;Where would I go?&#8221; Moving to a different company isn&#8217;t really a change of direction if it was still the same line of work. I&#8217;ve actually already mentioned it before to the people who give me my performance reviews: if I ever leave my job, it would probably be when I decide to go out and do something new. What kind of &#8220;something new&#8221;, they would inevitably ask. And my answer has been the same for a while: I don&#8217;t know.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-12-24 01:30:42
 title: 'PTQ Kuala Lumpur #4'
 type: post
-date: 2007-12-24T01:30:42+00:00
 url: /2007/12/ptq-kuala-lumpur-4/
-categories:
-  - Magic the Gathering
-
 ---
+
 The last qualifier in the Philippines, held last December 16. I wasn&#8217;t able to attend the Gold Rush the day before due to prior commitments, so this was my last tournament for the year.
 
 I opened a pool with a lot of removal:

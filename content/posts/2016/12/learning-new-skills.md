@@ -1,13 +1,13 @@
 ---
-title: Learning New Skills
 author: roy
-type: post
-date: 2016-12-20T01:30:19+00:00
-url: /2016/12/learning-new-skills/
 categories:
-  - Self-Improvement
-
+- Self-Improvement
+date: 2016-12-20 01:30:19
+title: Learning New Skills
+type: post
+url: /2016/12/learning-new-skills/
 ---
+
 When Hanamichi Sakuragi from the manga _Slam Dunk_ tries to get into the basketball club, he insists he&#8217;s a genius who doesn&#8217;t need to practice the basics and instead wants to go immediately to doing spectacular things like Slam Dunks.
 
 Sadly, the vast majority of us cannot claim to be geniuses at anything, and we are forced to undergo a bit of hard work if we want to learn a new skill. Malcolm Gladwell says one needs 10,000 hours of work at something to become proficient, but that probably only holds true if you&#8217;re using those hours &#8220;smartly&#8221; and not just trying to brute force your way to expertise.

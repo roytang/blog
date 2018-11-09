@@ -1,13 +1,13 @@
 ---
-title: The Food in Hong Kong
 author: Roy
-type: post
-date: 2007-01-10T06:11:35+00:00
-url: /2007/01/the-food-in-hong-kong/
 categories:
-  - Travels
-
+- Travels
+date: 2007-01-10 06:11:35
+title: The Food in Hong Kong
+type: post
+url: /2007/01/the-food-in-hong-kong/
 ---
+
 I&#8217;ve been meaning to write more about my time in Hong Kong.
 
 One of the many new things I experienced there was the food. People who&#8217;ve eaten out with me on a regular basis know that I&#8217;m quite the picky eater. In general, I dislike eating veggies and seafood (yeah, I&#8217;m an unhealthy carnivore). In Hong Kong, you cannot avoid vegetables and seafood; every meal comes with some form of green stuff or shrimp or whatnot. I&#8217;m almost always eating out with the HK colleagues, and since I&#8217;m a guest in their country, they&#8217;ll always invite me to taste everything. I&#8217;ve probably eaten more seafood in those three weeks than I have for the previous years of my life. I&#8217;m probably exaggerating, but there&#8217;s a good chance of me being correct.

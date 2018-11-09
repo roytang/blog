@@ -1,13 +1,14 @@
 ---
-title: 'New Year’s Resolution: Do at least one personally productive thing per day'
 author: roy
-type: post
-date: 2018-01-06T01:00:04+00:00
-url: /2018/01/new-years-resolution-do-at-least-one-personally-productive-thing-per-day/
 categories:
-  - Self-Improvement
-
+- Self-Improvement
+date: 2018-01-06 01:00:04
+title: "New Year's Resolution: Do at least one personally productive
+  thing per day"
+type: post
+url: /2018/01/new-years-resolution-do-at-least-one-personally-productive-thing-per-day/
 ---
+
 I&#8217;m not super big on New Year&#8217;s Resolutions anymore. (I seldom even do the 1920&#215;1440 joke these days.) I mean, I&#8217;m all about productivity and improvement and changing for the better, but I&#8217;ve found that very specific resolutions don&#8217;t often work for me. Mostly because I have very little focus (obviously something that an be improved).
 
 {{< tweet 682613316246585344 >}}

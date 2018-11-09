@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-07-10 09:02:39
 title: RIP Wrath of God
 type: post
-date: 2009-07-10T09:02:39+00:00
 url: /2009/07/rip-wrath-of-god/
-categories:
-  - Magic the Gathering
-
 ---
+
 ![RIP Wrath of God][1]
 
 RIP Wrath of God

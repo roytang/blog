@@ -1,13 +1,13 @@
 ---
-title: 'Total Hard Drive Space: Tripled!'
 author: roy
-type: post
-date: 2005-09-05T03:16:00+00:00
-url: /2005/09/total-hard-drive-space-tripled/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2005-09-05 03:16:00
+title: 'Total Hard Drive Space: Tripled!'
+type: post
+url: /2005/09/total-hard-drive-space-tripled/
 ---
+
 Bought a brand-spankin&#8217; new 160GB hard drive yesterday. Seagate Barracuda 7200. Yessir, ups the total hard drive capacity at home to 240 gigs, I hope we don&#8217;t fill it up too fast.
 
 Moved the 40GB hard drive on the primary computer to the secondary (for a total of 80 on the secondary), and installed the new one on the primary. My brother Alvin was working with me on this, and it took us a better part of three hours to get the connection right (one of the casings wasn&#8217;t very agreeable)

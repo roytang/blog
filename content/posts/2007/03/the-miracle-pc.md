@@ -1,13 +1,13 @@
 ---
-title: The Miracle PC
 author: Roy
-type: post
-date: 2007-03-13T04:49:48+00:00
-url: /2007/03/the-miracle-pc/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2007-03-13 04:49:48
+title: The Miracle PC
+type: post
+url: /2007/03/the-miracle-pc/
 ---
+
 My computer died last night, refusing to boot. Ubuntu would complain of being unable to read the root filesystem. Windows XP would say that there&#8217;s a corrupted DLL. I immediately arranged to borrow both an Ubuntu LiveCD and a Windows XP install disk the next day to help check the problem.
 
 When I got home today, the computer had been miraculously fixed. My brother said he&#8217;d been using it no problem.

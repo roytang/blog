@@ -1,13 +1,15 @@
 ---
-title: The Good, The Bad and the Ugly
 author: roy
-type: post
-date: 2005-09-06T02:32:00+00:00
-url: /2005/09/the-good-the-bad-and-the-ugly/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2005-09-06 02:32:00
+tags:
+- Movies
+title: The Good, The Bad and the Ugly
+type: post
+url: /2005/09/the-good-the-bad-and-the-ugly/
 ---
+
 One of the things I&#8217;ve been wanting to do during this hiatus was to watch more movies &#8212; we&#8217;ve got a ton of DVDs downstairs I haven&#8217;t seen yet. Since I had just finished the [fifth book of Stephen King&#8217;s western fantasy][1], I started this task with Sergio Leone&#8217;s western opus, The Good, The Bad and The Ugly.
 
 I haven&#8217;t watched many westerns before. This is probably the first one I completed. And you know what it reminds me of? Dragonball. Ages of staring at each other, hands hovering over your guns, ending in two seconds of gunfire. I know they&#8217;re a lot more speak-y in Dragonball, but it gave me the same feeling&#8230;the anticipative build-up and the big, explosive finish.

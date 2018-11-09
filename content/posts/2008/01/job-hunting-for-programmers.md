@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2008-01-29 06:04:44
 title: Job Hunting for Programmers
 type: post
-date: 2008-01-29T06:04:44+00:00
 url: /2008/01/job-hunting-for-programmers/
-categories:
-  - Software Development
-
 ---
+
 No, I&#8217;m not job hunting. But other people are, apparently. I got a comment on an
    
 [

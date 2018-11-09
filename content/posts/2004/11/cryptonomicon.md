@@ -1,13 +1,15 @@
 ---
-title: Cryptonomicon
 author: Roy
-type: post
-date: 2004-11-04T17:15:49+00:00
-url: /2004/11/cryptonomicon/
 categories:
-  - Books
-
+- Pop Culture
+date: 2004-11-04 17:15:49
+tags:
+- Books
+title: Cryptonomicon
+type: post
+url: /2004/11/cryptonomicon/
 ---
+
 It&#8217;s 1:30 in the morning, and I plan on being at work by 8AM, so I&#8217;ll just throw out a quick book review before I buzz off to meet the sandman.
 
 Neil Stephenson&#8217;s Cryptonomicon is the only book I managed to finish out of the three I took with me to Bicol. And I actually started reading it about a month and a half earlier.

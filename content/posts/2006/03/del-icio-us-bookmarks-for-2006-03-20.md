@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-03-20
 author: Roy
-type: post
-date: 2006-03-20T18:00:02+00:00
-url: /2006/03/del-icio-us-bookmarks-for-2006-03-20/
 categories:
-  - Links
+- Links
+date: 2006-03-20 18:00:02
 format: link
-
+title: Del.icio.us bookmarks for 2006-03-20
+type: post
+url: /2006/03/del-icio-us-bookmarks-for-2006-03-20/
 ---
+
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-03-20
 
   * [Babble: The Ultimate Word Game][3]

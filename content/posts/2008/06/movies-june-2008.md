@@ -1,13 +1,15 @@
 ---
-title: Movies – June 2008
 author: Roy
-type: post
-date: 2008-06-29T08:44:02+00:00
-url: /2008/06/movies-june-2008/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2008-06-29 08:44:02
+tags:
+- Movies
+title: "Movies \xE2\u20AC\u201C June 2008"
+type: post
+url: /2008/06/movies-june-2008/
 ---
+
 This has been a good month for movies. I saw the following in cinemas:
 
 Kung Fu Panda &#8211; complete AWESOMENESS. I drank the Kool-Aid all the way on this one.

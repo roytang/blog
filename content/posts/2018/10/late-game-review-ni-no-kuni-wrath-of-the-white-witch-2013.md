@@ -1,16 +1,16 @@
 ---
-title: 'Late Game Review – Ni No Kuni: Wrath of the White Witch (2013)'
 author: roy
-type: post
-date: 2018-10-13T01:00:15+00:00
-url: /2018/10/late-game-review-ni-no-kuni-wrath-of-the-white-witch-2013/
 categories:
-  - Gaming
-  - Review
+- Gaming
+date: 2018-10-13 01:00:15
 tags:
-  - late-game-review
-
+- late-game-review
+- Review
+title: "Late Game Review \xE2\u20AC\u201C Ni No Kuni: Wrath of the White Witch (2013)"
+type: post
+url: /2018/10/late-game-review-ni-no-kuni-wrath-of-the-white-witch-2013/
 ---
+
 _(&#8220;Late Game Review&#8221; because I&#8217;m trying to play through games on my ridiculously old backlog, so these games are pretty old)_
 
 I got my digital PS3 copy of _Ni No Kuni_ during some kind of PSN sale a while back for like $10 and seeing as how the sequel came out recently, I figured I&#8217;d better finish the first game before my rarely-used PS3 decides to die on me.

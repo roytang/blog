@@ -1,14 +1,14 @@
 ---
-title: Speed Reading
 author: Roy
-type: post
-date: 2008-12-29T08:51:06+00:00
-url: /2008/12/speed-reading/
 categories:
-  - Links
-  - Meta
-
+- Links
+- Meta
+date: 2008-12-29 08:51:06
+title: Speed Reading
+type: post
+url: /2008/12/speed-reading/
 ---
+
 I came across a website that provided an [online Speed Reading Test][1]. Most people I know generally know me to be a fast reader so I decided to take the test.
 
 My results: 472 words per minute screen reading, at 82% comprehension, which the website says classifies me as a &#8220;good reader&#8221;. Apparently the best readers can read at 700wpm at 85% comprehension, sounds tough =/

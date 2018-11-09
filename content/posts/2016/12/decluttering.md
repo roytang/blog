@@ -1,14 +1,14 @@
 ---
-title: Decluttering
 author: roy
-type: post
-date: 2016-12-27T01:30:07+00:00
-url: /2016/12/decluttering/
 categories:
-  - Just Another Day
-  - Opinions
-
+- Just Another Day
+- Opinions
+date: 2016-12-27 01:30:07
+title: Decluttering
+type: post
+url: /2016/12/decluttering/
 ---
+
 I traditionally try to save some time on the week between Christmas and New Year&#8217;s Day to do some cleaning up and decluttering of my stuff. One would assume that having more time meant I would be better able to organize my stuff and all that, but one would be wrong. My room still has stacks of books, toys, Magic cards and other stuff in random places.
 
 Or maybe I just have too much OCD that I want everything to be neat and organized, but I&#8217;m not industrious enough to make it happen. I&#8217;m sure there are people a lot more cluttered than me.

@@ -1,15 +1,17 @@
 ---
-title: October 2018 Watching Lately
 author: roy
-type: post
-date: 2018-10-29T05:02:53+00:00
-url: /2018/10/october-2018-watching-lately/
 categories:
-  - Movies
-  - Review
-  - TV Series
-
+- Pop Culture
+date: 2018-10-29 05:02:53
+tags:
+- Movies
+- Review
+- TV Series
+title: October 2018 Watching Lately
+type: post
+url: /2018/10/october-2018-watching-lately/
 ---
+
 Some things I&#8217;ve been watching lately, aside from the usual TV shows I follow:
 
 **Tom Clancy&#8217;s Jack Ryan (on Amazon Prime)** &#8211; surprisingly good, even if I&#8217;m not too familiar with the Jack Ryan stuff. I only know John Krasinski from _The Office_, 

@@ -1,13 +1,13 @@
 ---
-title: That’s L33T…
 author: roy
-type: post
-date: 2003-12-12T14:05:46+00:00
-url: /2003/12/that39s-l33t/
 categories:
-  - Software Development
-
+- Software Development
+date: 2003-12-12 14:05:46
+title: "That's L33T\xE2\u20AC\xA6"
+type: post
+url: /2003/12/that39s-l33t/
 ---
+
 [
     
 http://www.pbase.com/images/24017078.original.jpg

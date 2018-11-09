@@ -1,13 +1,13 @@
 ---
-title: Qualities to Look for in a Software Developer
 author: roy
-type: post
-date: 2017-01-19T01:30:29+00:00
-url: /2017/01/qualities-to-look-for-in-a-software-developer/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-01-19 01:30:29
+title: Qualities to Look for in a Software Developer
+type: post
+url: /2017/01/qualities-to-look-for-in-a-software-developer/
 ---
+
 Just a list I&#8217;ve been maintaining for a while:
 
 _(Disclaimer: This list in no way implies that developers who don&#8217;t exhibit all of these attributes are terrible human beings who don&#8217;t deserve to live. But working with developers who exhibit many of these traits will probably result in a better experience over the course of your developer career.)_

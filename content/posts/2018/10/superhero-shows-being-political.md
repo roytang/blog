@@ -1,15 +1,18 @@
 ---
-title: Superhero shows being political
 author: roy
-type: post
-date: 2018-10-27T05:02:37+00:00
-url: /2018/10/superhero-shows-being-political/
 categories:
-  - Comics
-  - Politics
-  - TV Series
-
+- Pop Culture
+- Opinions
+date: 2018-10-27 05:02:37
+tags:
+- Comics
+- Politics
+- TV Series
+title: Superhero shows being political
+type: post
+url: /2018/10/superhero-shows-being-political/
 ---
+
 Comic books and superheroes have always tended to skew towards liberal philosophies, given how writers and artists tend to support ideals like individualism and free expression. So it&#8217;s not surprising that the derivative shows tend to lean the same way. Not only do many of the shows promote diversity, but many are becoming overtly political as well. Some recent examples. (Spoilers for current seasons of Supergirl, Legends of Tomorrow and Daredevil follow)
 
   * The current season 4 of Supergirl seems to be focusing on anti-alien sentiment, a thinly-veiled allegory towards the anti-immigration movement propagated in far right &#8220;nationalist&#8221; circles. Similar to real-life, hatemongers are portrayed riling up crowds frustrated with losing jobs and threats to law and order due to the presence of &#8220;aliens&#8221;.

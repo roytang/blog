@@ -1,12 +1,12 @@
 ---
-title: Time Spiral Prerelease – Sweet Victory!
-type: post
-date: 2006-09-23T18:32:35+00:00
-url: /2006/09/time-spiral-prerelease-sweet-victory/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2006-09-23 18:32:35
+title: "Time Spiral Prerelease \xE2\u20AC\u201C Sweet Victory!"
+type: post
+url: /2006/09/time-spiral-prerelease-sweet-victory/
 ---
+
 Yeah!
 
 Haven&#8217;t won a prerelease shirt since Odyssey, but I successfully won four edge-of-my-pants matches to take home the coveted prerelease-shirt-that&#8217;s-always-two-sizes-too-small-for-me-anyways! Man&#8230;one would think they would have shirts bigger than XXL. Lots of husky guys play Magic in the Philippines.

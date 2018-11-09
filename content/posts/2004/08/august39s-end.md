@@ -1,14 +1,14 @@
 ---
-title: August’s End
 author: Roy
-type: post
-date: 2004-08-28T09:42:19+00:00
-url: /2004/08/august39s-end/
 categories:
-  - Links
+- Links
+date: 2004-08-28 09:42:19
 format: link
-
+title: "August's End"
+type: post
+url: /2004/08/august39s-end/
 ---
+
 It&#8217;s been a while, I got a lot to say, some personal things, some random stuff from the internet. Let&#8217;s start with the easy stuff, random linkage:
 
   * First up, the [Kingdom of Loathing][1], it&#8217;s an online Stickman RPG! It&#8217;s MMO (well, not really massive), it&#8217;s wacky, and you can be a pastamancer! It currently amuses me&#8230;and I hate waiting to get more turns! My account there is &#8220;hungry roy&#8221;

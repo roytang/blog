@@ -1,13 +1,13 @@
 ---
-title: GP Singapore 2015
 author: roy
-type: post
-date: 2015-06-29T06:37:38+00:00
-url: /2015/06/gp-singapore-2015/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2015-06-29 06:37:38
+title: GP Singapore 2015
+type: post
+url: /2015/06/gp-singapore-2015/
 ---
+
 GP Singapore 2015 would be my first Modern GP and maybe only my 3rd or 4th Modern event altogether. Modern is a difficult format to prepare for; there are many decks to prepare for and it&#8217;s almost impossible to master all the matchups. For this reason, I felt much less prepared for this event than for [GP Manila back in January][1]. I put together Grixis Twin for this event. It&#8217;s a bit difficult to pilot, but I felt it had a reasonable matchup across the board and there&#8217;s always a chance of comboing out when you&#8217;re falling behind. Here&#8217;s the list I played:
 
 [cardlist title=Grixis Twin]

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-05-03 14:44:35
 title: Alara Reborn Prerelease (for real this time)
 type: post
-date: 2009-05-03T14:44:35+00:00
 url: /2009/05/alara-reborn-prerelease-for-real-this-time/
-categories:
-  - Magic the Gathering
-
 ---
+
 And so, our delayed prerelease. My sealed deck (at least after initial tweaks &#8211; it varies slightly from my submitted list):
 
 <div class="decklist_wrap">

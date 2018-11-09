@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-09-12 08:42:09
 title: Celsius Desktop
 type: post
-date: 2004-09-12T08:42:09+00:00
 url: /2004/09/celsius-desktop/
-categories:
-  - Gaming
-
 ---
+
 This is one of my favorite desktop wallpapers, I&#8217;ve used it several times, I always like bringing it back:
 
 [

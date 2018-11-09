@@ -1,14 +1,14 @@
 ---
-title: Logs and Memories and Audit Trails
 author: roy
-type: post
-date: 2018-05-25T01:00:01+00:00
-url: /2018/05/logs-and-memories-and-audit-trails/
 categories:
-  - Just Another Day
-  - Tech Life
-
+- Just Another Day
+- Tech Life
+date: 2018-05-25 01:00:01
+title: Logs and Memories and Audit Trails
+type: post
+url: /2018/05/logs-and-memories-and-audit-trails/
 ---
+
 A couple of days ago I was rummaging through some old files and found a folder of some personal files I had copied from work computer at my old long-time place of work. One thing I was hoping to find there was this TODO text file that I kept throughout the years I worked there, even as I moved from one computer to another. It was a very long, append-only file, accumulated over some number of years. It served as some combination of task list, temporary clipboard, notes repository and logging of random thoughts throughout the day. Sadly, I could no longer find the file.
 
 I&#8217;m a sucker for that kind of stuff &#8211; things that remind you of your journey and the passage of time and give you a glimpse of who you were and what you were doing at a certain point in time. It&#8217;s part of why I still keep up with this blogging thing. My target audience is 99% future me. Every so often I&#8217;ll wonder about something like &#8220;What year was it that [I lost my eyeglasses to the sea][1]?&#8221; or &#8220;Who did [I vote for in the 2010 elections][2] again?&#8221; (In hindsight, some poor choices there.) or &#8220;When did [I first travel to Hong Kong][3]?&#8221; This blog has been around for a while &#8211; [the archives][4] go all the way back to 2002. (Not that I was already on WordPress and my own domain back then, I just keep importing all the content as I move platforms.) This blog serves as an extension of my memory, which as you know is fragile and easily confused, especially as one grows older. Time ravages your memory, and as you grow older the years start to blur together, and it&#8217;s nice to have an easy index of the sort of things happening to you back during those days.

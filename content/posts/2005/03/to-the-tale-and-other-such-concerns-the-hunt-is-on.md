@@ -1,13 +1,13 @@
 ---
-title: 'To the Tale, and Other Such Concerns: The Hunt is On'
 author: Roy
-type: post
-date: 2005-03-11T14:17:00+00:00
-url: /2005/03/to-the-tale-and-other-such-concerns-the-hunt-is-on/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-03-11 14:17:00
+title: 'To the Tale, and Other Such Concerns: The Hunt is On'
+type: post
+url: /2005/03/to-the-tale-and-other-such-concerns-the-hunt-is-on/
 ---
+
 [
   
 To the Tale, and Other Such Concerns: The Hunt is On

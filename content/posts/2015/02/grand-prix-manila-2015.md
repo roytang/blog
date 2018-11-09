@@ -1,17 +1,17 @@
 ---
-title: Grand Prix Manila 2015
 author: roy
-type: post
-date: 2015-02-11T05:48:37+00:00
-url: /2015/02/grand-prix-manila-2015/
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2015-02-11 05:48:37
 tags:
-  - grand-prix
-  - standard
-  - tournament-report
-
+- grand-prix
+- standard
+- tournament-report
+title: Grand Prix Manila 2015
+type: post
+url: /2015/02/grand-prix-manila-2015/
 ---
+
 One of my many, many loyal blog readers pointed out to me that I had yet to post about Grand Prix Manila, which took place in the first week of this year. I&#8217;ve been meaning to post about it, but it got lost in my backlog. So here we are.
 
 [<img class="aligncenter size-full wp-image-963" src="http://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0.jpg" alt="Day-2-Opening_0" width="1920" height="1120" srcset="https://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0.jpg 1920w, https://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0-300x175.jpg 300w, https://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0-1024x597.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />][1]

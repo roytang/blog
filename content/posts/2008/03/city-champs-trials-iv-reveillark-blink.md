@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-03-20 22:18:35
 title: 'City Champs Trials IV: Reveillark Blink'
 type: post
-date: 2008-03-20T22:18:35+00:00
 url: /2008/03/city-champs-trials-iv-reveillark-blink/
-categories:
-  - Magic the Gathering
-
 ---
+
 The tournament was last Saturday, March 15, Standard. Slightly modified list from last week:
 
 <div class="decklist">

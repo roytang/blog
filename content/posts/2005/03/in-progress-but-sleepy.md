@@ -1,16 +1,16 @@
 ---
-title: In Progress, But Sleepy
 author: Roy
-type: post
-date: 2005-03-25T11:35:00+00:00
-url: /2005/03/in-progress-but-sleepy/
 categories:
-  - Meta
-  - Software Development
+- Meta
+- Software Development
+date: 2005-03-25 11:35:00
 tags:
-  - javascript
-
+- javascript
+title: In Progress, But Sleepy
+type: post
+url: /2005/03/in-progress-but-sleepy/
 ---
+
 As it may mention in the page title, I&#8217;m currently screwing around with the blogger template, so this blog may look a bit&#8230;um&#8230;screwy for a while.
 
 I&#8217;ve been wanting to toy around with Javascript hacks to extend the Blogger template functionality. The first thing I did was add some Javascript that allows you to show/hide individual posts on the page. But actually, I don&#8217;t really like it, I&#8217;ll remove it later.

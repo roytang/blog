@@ -1,15 +1,15 @@
 ---
-title: Randomly Amazed
-author: roy
-type: post
-date: 2010-11-23T15:35:45+00:00
-url: /2010/11/randomly-amazed/
 aktt_notify_twitter:
-  - yes
+- true
+author: roy
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2010-11-23 15:35:45
+title: Randomly Amazed
+type: post
+url: /2010/11/randomly-amazed/
 ---
+
 **The first thing (out of two):** As not many people are aware of, I actually underwent some minor surgery last week. I&#8217;ll spare you the boring details, except for the fact that at some point I had to be given spinal anesthesia while I was fully awake. Now, if you&#8217;ve never been given spinal anesthesia before, let me give you a rundown: you&#8217;ll be asked to lie on your side and curl up into something like a C-shaped fetal position so that the anesthesiologist can inject a tiny needle into a small area between the discs of your spinal column. It&#8217;s not exactly the most fun thing in the world; and for someone like me who was a low tolerance for pain, even the tiny pinpricks would cause me to involuntarily contract my spine, giving the anesthesiologist trouble and requiring her to try another location, hence an additional pinprick and a vicious cycle that seemed to go on forever. Hence, it was not the most pleasant of experiences.
 
 As I lie there however, I found myself thinking how in the olden days soldiers who went off to war and got wounded would have their open wounds treated and sutured without the help of any anesthesia at all with no choice but for them to grit their teeth and bear it. Me on the other hand, after taking this spinal anesthesia, the surgeon would be working on an open wound and I would lie there, fully awake not feeling a thing and wondering &#8220;what the hell is going on down there, maybe I don&#8217;t really want to know.&#8221;

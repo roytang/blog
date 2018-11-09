@@ -1,13 +1,13 @@
 ---
-title: 'Time > Money'
 author: Roy
-type: post
-date: 2007-01-28T06:14:13+00:00
-url: /2007/01/time-ampgt-money/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-01-28 06:14:13
+title: Time > Money
+type: post
+url: /2007/01/time-ampgt-money/
 ---
+
 Post Part I:
 
 This being my first week back to work after a month-long hiatus, I inevitably get the usual sort of questions people ask when you get back from a vacation:

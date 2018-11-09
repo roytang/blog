@@ -24,7 +24,7 @@ Links for sharing, powered by [Pocket][1]. [RSS Feed][2].
   * <a class='genericon genericon-feed' target='_blank' href='http://flip.it/QC-15_'>The death of truth: how we gave up on facts and ended up with Trump</a> <small>14 July 2018 | 1:02 pm</small>
   * <a class='genericon genericon-feed' target='_blank' href='https://developers.slashdot.org/story/18/07/07/0342201/is-c-a-really-terrible-language?utm_source=slashdot&#038;utm_medium=twitter'>Slashdot</a> <small>8 July 2018 | 10:29 am</small>
   * <a class='genericon genericon-feed' target='_blank' href='https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture'>Serverless apps: Architecture, patterns, and Azure implementation</a> <small>5 July 2018 | 4:01 pm</small>
-  * <a class='genericon genericon-feed' target='_blank' href='https://ux.shopify.com/stop-feeding-your-users-a859730a86d6'>Stop “feeding” your users</a> <small>5 June 2018 | 11:12 am</small>
+  * <a class='genericon genericon-feed' target='_blank' href='https://ux.shopify.com/stop-feeding-your-users-a859730a86d6'>Stop "feeding" your users</a> <small>5 June 2018 | 11:12 am</small>
   * <a class='genericon genericon-feed' target='_blank' href='https://larder.io/blog/code-principles'>11 principles that help me write better code</a> <small>5 June 2018 | 5:03 am</small>
   * <a class='genericon genericon-feed' target='_blank' href='https://karigee.com/blog/2018/5/27/self-help'>Self help</a> <small>29 May 2018 | 2:32 pm</small>
   * <a class='genericon genericon-feed' target='_blank' href='http://mrkltpzyxm.tumblr.com/post/173731713685/vampiricyoshi-neilnevins-neilnevins-bugs'>vampiricyoshi:</a> <small>9 May 2018 | 3:28 pm</small>

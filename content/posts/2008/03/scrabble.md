@@ -1,13 +1,13 @@
 ---
-title: Scrabble
 author: Roy
-type: post
-date: 2008-03-08T05:12:51+00:00
-url: /2008/03/scrabble/
 categories:
-  - Gaming
-
+- Gaming
+date: 2008-03-08 05:12:51
+title: Scrabble
+type: post
+url: /2008/03/scrabble/
 ---
+
 On my way home today I passed by Megamall as usual, and there was a Scrabble tournament going on. I stopped for a few minutes and watched. I realize a lot of people would probably find watching Scrabble games boring, seeing only two geeky people spelling out words at random, not even making any sense. But watching the Scrabble games brought me back to a time when I didn&#8217;t have the internet to keep me up at nights.
 
 Scrabble is a game close to my heart, me and my brother Kerwin practically grew up with the game.

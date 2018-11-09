@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2009-03-02 14:46:17
 title: 'Street Fighter IV: The Answer Lies in the Heart of Battle'
 type: post
-date: 2009-03-02T14:46:17+00:00
 url: /2009/03/street-fighter-iv-the-answer-lies-in-the-heart-of-battle/
-categories:
-  - Gaming
-
 ---
+
 For the record, I purchased an original R1 copy of Street Fighter IV for the PS3 last Tuesday, and we&#8217;ve been pretty much playing it whenever we had free time at home. The one time I came in late to work during the month of February was because of Street Fighter IV.
 
 Street Fighter IV came in with ridiculously high reviews for both the XBox 360 and PS3 versions, the PS3 version garnering a [94 (universal acclaim) on Metacritic][1] It can&#8217;t be denied that it&#8217;s an awesome game, although [not everyone agrees][2]. I&#8217;m not going to discuss all the details of the game, you can click through the links above to read more.

@@ -1,13 +1,13 @@
 ---
-title: Xbox Millennium Falcon
 author: roy
-type: post
-date: 2005-02-02T13:23:10+00:00
-url: /2005/02/xbox-millennium-falcon/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-02-02 13:23:10
+title: Xbox Millennium Falcon
+type: post
+url: /2005/02/xbox-millennium-falcon/
 ---
+
 [
   
 eBay &#8211; Xbox Millennium Falcon

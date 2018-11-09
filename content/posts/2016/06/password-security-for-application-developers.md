@@ -1,14 +1,14 @@
 ---
-title: Password Security for Application Developers
 author: roy
-type: post
-date: 2016-06-16T01:30:02+00:00
-url: /2016/06/password-security-for-application-developers/
 categories:
-  - Software Development
-  - Tech Life
-
+- Software Development
+- Tech Life
+date: 2016-06-16 01:30:02
+title: Password Security for Application Developers
+type: post
+url: /2016/06/password-security-for-application-developers/
 ---
+
 In the modern era of online services and applications, it is getting more and more common to hear of databases and systems being hacked and user data being exposed. The most dangerous of this data is the user&#8217;s password since it may allow access not only to your own service but to other services as well. As an application developer, the below is probably the bare minimum you need to know when handling user passwords:
 
 * * *

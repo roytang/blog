@@ -1,13 +1,13 @@
 ---
-title: 'July 2018: Gaming Update from 2011'
 author: roy
-type: post
-date: 2018-07-16T01:00:04+00:00
-url: /2018/07/july-2018-gaming-update-from-2011/
 categories:
-  - Gaming
-
+- Gaming
+date: 2018-07-16 01:00:04
+title: 'July 2018: Gaming Update from 2011'
+type: post
+url: /2018/07/july-2018-gaming-update-from-2011/
 ---
+
 It has been a while since I had a bit of free time (work is busy busy busy). I thought I would post about something here. And I&#8217;ve decided (just now), that I need to post more frivolous things, a bit of [dumb blogging][1] as some might say. Today I will talk about what games I&#8217;ve been playing in the whatever little spare time I&#8217;ve been able to scrounge up. I find that if I don&#8217;t distract myself with some gaming, my brain tends to overthink about silly things like problems and deadlines that I can&#8217;t do anything about anyway. Most of these are for Steam, because someone borrowed my PS4 and hasn&#8217;t given it back yet.
 
 &nbsp;

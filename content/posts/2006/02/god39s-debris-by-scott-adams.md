@@ -1,14 +1,16 @@
 ---
-title: God’s Debris by Scott Adams
 author: Roy
-type: post
-date: 2006-02-07T06:43:07+00:00
-url: /2006/02/god39s-debris-by-scott-adams/
 categories:
-  - Books
-  - Review
-
+- Pop Culture
+date: 2006-02-07 06:43:07
+tags:
+- Books
+- Review
+title: "God's Debris by Scott Adams"
+type: post
+url: /2006/02/god39s-debris-by-scott-adams/
 ---
+
 [
   
 This ][1]was Scott Adams&#8217; first non-Dilbert book. If you&#8217;re used to reading Adams go on about Induhviduals and stupid managers, or if you&#8217;ve never read Adams trying / pretending to sound philosophical in one of his books, then this isn&#8217;t what you&#8217;d expect.

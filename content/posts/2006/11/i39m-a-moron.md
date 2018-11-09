@@ -1,13 +1,13 @@
 ---
-title: I’m a Moron
 author: Roy
-type: post
-date: 2006-11-11T09:00:47+00:00
-url: /2006/11/i39m-a-moron/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-11-11 09:00:47
+title: "I'm a Moron"
+type: post
+url: /2006/11/i39m-a-moron/
 ---
+
 Yeah pretty much.
 
 I feel really stupid right now.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2008-12-20 17:00:27
 title: PS3!
 type: post
-date: 2008-12-20T17:00:27+00:00
 url: /2008/12/ps3/
-categories:
-  - Gaming
-
 ---
+
 I purchased a PS3 last week! As is typically with me making large purchases, a was wishy-washy about it for a whole two weeks (although Alvin had been egging me to buy one for months).
 
 To show how indecisive we are, here&#8217;s the conversation we had at the store:

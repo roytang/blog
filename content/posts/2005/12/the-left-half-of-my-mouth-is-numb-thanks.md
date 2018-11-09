@@ -1,13 +1,13 @@
 ---
-title: The Left Half of My Mouth is Numb, Thanks
 author: roy
-type: post
-date: 2005-12-05T05:17:00+00:00
-url: /2005/12/the-left-half-of-my-mouth-is-numb-thanks/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-12-05 05:17:00
+title: The Left Half of My Mouth is Numb, Thanks
+type: post
+url: /2005/12/the-left-half-of-my-mouth-is-numb-thanks/
 ---
+
 I had three teeth taken out today, all of them deep in the bottom-left part of mouth. One of them was apparently a wisdom tooth that had lodged itself in a peculiar angle. That one required surgery (and was not covered by my health card).
 
 When you&#8217;re there, even when your mouth is numb, even if you&#8217;re not really scared or anything, once you start to feel that pressure on your jaw, you can&#8217;t help but be at least a little bit anxious. It&#8217;s not so much whatever pain gets through the anesthesia that&#8217;s annoying. It&#8217;s the fact that you&#8217;re mentally anticipating that pain. When you start to feel the dentist pushing and pulling at your tooth, you can&#8217;t help but worry that somewhere, some resilient little nerve of yours has avoided the anesthesia and is just waiting to send you into a world of pain.

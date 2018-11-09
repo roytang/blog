@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2009-02-01 12:59:35
 title: Code Quality
 type: post
-date: 2009-02-01T12:59:35+00:00
 url: /2009/02/code-quality/
-categories:
-  - Software Development
-
 ---
+
 I was doing code reviews on an interface file-processing framework to be used in one of our projects. The code was workable and already being used by several programs, and I didn&#8217;t see any major functional flaws. But design-wise I felt that it could stand for some improvements/refactoring to be &#8220;better object-oriented code&#8221; or &#8220;easier to maintain&#8221;. 
 
 The current design required a lot of inheritance &#8211; the usual way of doing things in older Java code at work. I was thinking of a more dynamic, declarative design that would require a config file instead of more subclasses but eventually I decided against asking for it. It would have taken maybe a day or two to implement, and the client programs using the framework would need to be rewritten, et cetera. I felt that the improvement in maintainability didn&#8217;t justify the delay it would introduce.

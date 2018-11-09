@@ -1,12 +1,12 @@
 ---
-title: Lorwyn – Prerelease
-type: post
-date: 2007-09-30T05:22:38+00:00
-url: /2007/09/lorwyn-prerelease/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2007-09-30 05:22:38
+title: "Lorwyn \xE2\u20AC\u201C Prerelease"
+type: post
+url: /2007/09/lorwyn-prerelease/
 ---
+
 Unfortunately, I didn&#8217;t make it to the AM flights yesterdat, so I hung around Galleria for a few hours watching people play. A lot of people seemed to be playing blue or green stuff. There are people saying Needle Drop is good, what? Just because it cantrips?
 
 My flight manages to start around 4 PM, and I open the sealed pool I&#8217;m registering. The first two rares I see are Jace Beleren and Chandra Nalar! Holy crap! It means of course, that I have to pass this pool. (That always happens when I get really good bombs) Anyway, I get a decent pool as well, with Austere Command (Wrath of God!), a foil Cryptic Command (not that I&#8217;d play it), and lots of removal. I ended up with the following WRb deck:

@@ -7,6 +7,6 @@
   &middot; {{ .Site.Data.Strings.metaReadin }} {{ .ReadingTime }} {{ .Site.Data.Strings.metaReadinMinutes }}
   &middot; ({{ .WordCount }} {{ .Site.Data.Strings.words }})
   <br>
-  {{ partial "modules/page/tags" . }}
+  Categories: {{ partial "modules/page/categories" . }} | Tags: {{ partial "modules/page/tags" . }}
 {{ end }}
 </div>

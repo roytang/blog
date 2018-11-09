@@ -1,14 +1,16 @@
 ---
-title: On writing regularly and reading comic books
 author: roy
-type: post
-date: 2012-11-24T10:58:34+00:00
-url: /2012/11/on-writing-regularly-and-reading-comic-books/
 categories:
-  - Comics
-  - Writing
-
+- Pop Culture
+- Writing
+date: 2012-11-24 10:58:34
+tags:
+- Comics
+title: On writing regularly and reading comic books
+type: post
+url: /2012/11/on-writing-regularly-and-reading-comic-books/
 ---
+
 Writing regularly is something I&#8217;ve always wanted to be able to do but like most things I have trouble with, it&#8217;s the lack of discipline that gets me.
 
 Take this blog for instance. I randomly think of things to write about while I&#8217;m idling or commuting or waiting in line or any of the dozen or so other opportunities during the day when my mind wanders, but because of laziness and/or lack of discipline, these ideas never get very far. I think one of the problems is that because this is a personal blog, I don&#8217;t have any focus. That is, in this space I can literally write about anything I want so I end up not writing anything. Does that make sense?

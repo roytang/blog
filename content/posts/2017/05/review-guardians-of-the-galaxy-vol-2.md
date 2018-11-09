@@ -1,14 +1,16 @@
 ---
-title: 'Review: Guardians of the Galaxy Vol 2'
 author: roy
-type: post
-date: 2017-05-03T01:30:47+00:00
-url: /2017/05/review-guardians-of-the-galaxy-vol-2/
 categories:
-  - Movies
-  - Review
-
+- Pop Culture
+date: 2017-05-03 01:30:47
+tags:
+- Movies
+- Review
+title: 'Review: Guardians of the Galaxy Vol 2'
+type: post
+url: /2017/05/review-guardians-of-the-galaxy-vol-2/
 ---
+
 First, the spoiler-free summary (spoilers after this part):
 
   * overall a very entertaining movie to sit down and watch popcorn and to enjoy the jokes and the space battles and the different colored lights and the tiny adorable tree creature

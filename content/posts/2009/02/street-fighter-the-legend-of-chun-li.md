@@ -1,14 +1,16 @@
 ---
-title: 'Street Fighter: The Legend of Chun Li'
 author: Roy
-type: post
-date: 2009-02-28T22:54:05+00:00
-url: /2009/02/street-fighter-the-legend-of-chun-li/
 categories:
-  - Movies
-  - Review
-
+- Pop Culture
+date: 2009-02-28 22:54:05
+tags:
+- Movies
+- Review
+title: 'Street Fighter: The Legend of Chun Li'
+type: post
+url: /2009/02/street-fighter-the-legend-of-chun-li/
 ---
+
 I had time to kill before going to see my brother&#8217;s art exhibit at megamall, so I went and watched Street Fighter: The Legend of Chun-Li.
 
 It was so bad. I could&#8217;ve been able to forgive the fact that they roughly 80% of the story shied away from Street Fighter canon, had the movie&#8217;s storyline actually been good. As it is, you can expect short, unsatisfying fight scenes, ridiculous background stories, disjointed plot/scenes (reminds me of Smallville and/or Heroes writing =/), terrible wigs and the ridiculous sight of Michael Clark Duncan getting beaned by a pineapple.

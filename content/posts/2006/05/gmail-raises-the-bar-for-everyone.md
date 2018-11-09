@@ -1,12 +1,12 @@
 ---
-title: GMail raises the bar for everyone…
-type: post
-date: 2006-05-03T06:56:37+00:00
-url: /2006/05/gmail-raises-the-bar-for-everyone/
 categories:
-  - Software Development
-
+- Software Development
+date: 2006-05-03 06:56:37
+title: "GMail raises the bar for everyone\xE2\u20AC\xA6"
+type: post
+url: /2006/05/gmail-raises-the-bar-for-everyone/
 ---
+
 So I was at work, and one of the HK guys asks me if we can have a themed button for the file input control in one of our screens. So, I&#8217;m all &#8220;alpha geek&#8221; and stuff, and I go: &#8220;No we can&#8217;t. We can&#8217;t style the &#8216;Browse&#8217; button directly, and IE will throw an Access Denied error on submit if we invoke the click() method using Javascript.&#8221;
 
 But HK guy replies: &#8220;Gee, I wonder how GMail does it then.&#8221;

@@ -1,13 +1,13 @@
 ---
-title: Bitty Browser
 author: Roy
-type: post
-date: 2005-06-08T22:26:00+00:00
-url: /2005/06/bitty-browser/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2005-06-08 22:26:00
+title: Bitty Browser
+type: post
+url: /2005/06/bitty-browser/
 ---
+
 [
   
 Bitty Browser

@@ -1,13 +1,13 @@
 ---
-title: A Week So Far With Vista
 author: Roy
-type: post
-date: 2008-06-28T19:34:58+00:00
-url: /2008/06/a-week-so-far-with-vista/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2008-06-28 19:34:58
+title: A Week So Far With Vista
+type: post
+url: /2008/06/a-week-so-far-with-vista/
 ---
+
 The gist of it is: it wasn&#8217;t as annoying as I had been led to expect.
 
 Frankly, I think it&#8217;s better than XP, but I might be blinded by the fact that it&#8217;s very pretty. Visually it&#8217;s a step up from XP the same way XP was a step up from &#8217;95. The XP box at work seems so bland to me now.

@@ -1,13 +1,13 @@
 ---
-title: The No. 1 Problem in Software Projects
 author: roy
-type: post
-date: 2016-09-01T01:30:06+00:00
-url: /2016/09/the-no-1-problem-in-software-projects/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-09-01 01:30:06
+title: The No. 1 Problem in Software Projects
+type: post
+url: /2016/09/the-no-1-problem-in-software-projects/
 ---
+
 Without a doubt, the number one problem in software development projects is **schedule pressure, **that is, the pressure to meet unreasonable deadlines and targets
 
 Almost all other problems can be overcome if there were no schedule pressure:

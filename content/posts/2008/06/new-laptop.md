@@ -1,13 +1,13 @@
 ---
-title: New Laptop!
 author: Roy
-type: post
-date: 2008-06-21T21:46:54+00:00
-url: /2008/06/new-laptop/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2008-06-21 21:46:54
+title: New Laptop!
+type: post
+url: /2008/06/new-laptop/
 ---
+
 Just a bit of an indulgence.
 
 There was a warehouse sale at the office building from Tuesday to Friday. Like every single time I would make a big purchase I waffled undecisively between buying and not buying a laptop for the first four days, only to succumb at the very last minute when a model with an insane price became available.

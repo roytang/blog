@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-11-22 19:31:05
 title: PTQ Kyoto I
 type: post
-date: 2008-11-22T19:31:05+00:00
 url: /2008/11/ptq-kyoto-i/
-categories:
-  - Magic the Gathering
-
 ---
+
 The PTQ was last Sunday, November 17 at Robinson&#8217;s Galleria.
 
 As per usual, I opened and registered a pretty good pool with 2

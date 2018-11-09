@@ -1,14 +1,15 @@
 ---
-title: Square Enix
 author: roy
-type: post
-date: 2002-11-30T01:30:03+00:00
-url: /2002/11/square-enix/
 categories:
-  - Gaming
-  - Legacy Blog Posts
-
+- Gaming
+date: 2002-11-30 01:30:03
+tags:
+- Legacy Blog Posts
+title: Square Enix
+type: post
+url: /2002/11/square-enix/
 ---
+
 Anyway, I&#8217;ve had a couple of days to think about it, so I&#8217;d like to share my thoughts on the matter.
 
 First, the facts:

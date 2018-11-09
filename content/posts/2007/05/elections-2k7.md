@@ -1,13 +1,13 @@
 ---
-title: Elections 2k7
 author: Roy
-type: post
-date: 2007-05-12T06:33:35+00:00
-url: /2007/05/elections-2k7/
 categories:
-  - Philippines
-
+- Philippines
+date: 2007-05-12 06:33:35
+title: Elections 2k7
+type: post
+url: /2007/05/elections-2k7/
 ---
+
 I still don&#8217;t know how I am voting on Monday.
 
 Or even if I am voting at all.

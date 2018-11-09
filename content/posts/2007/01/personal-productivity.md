@@ -1,13 +1,13 @@
 ---
-title: Personal Productivity
 author: Roy
-type: post
-date: 2007-01-17T23:33:00+00:00
-url: /2007/01/personal-productivity/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2007-01-17 23:33:00
+title: Personal Productivity
+type: post
+url: /2007/01/personal-productivity/
 ---
+
 Since I&#8217;m going back to work starting on Saturday, I thought I&#8217;d try to look for ways to improve my productivity at work.
 
 I&#8217;ve downloaded a few utilities that I can try at work to see if it can improve my workflow.

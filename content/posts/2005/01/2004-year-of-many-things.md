@@ -1,13 +1,13 @@
 ---
-title: '2004  – Year of Many Things'
 author: Roy
-type: post
-date: 2005-01-11T12:50:17+00:00
-url: /2005/01/2004-year-of-many-things/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-01-11 12:50:17
+title: "2004  \xE2\u20AC\u201C Year of Many Things"
+type: post
+url: /2005/01/2004-year-of-many-things/
 ---
+
 > _
   
 > &#8220;So, what&#8217;s your New Year&#8217;s resolution?&#8221;

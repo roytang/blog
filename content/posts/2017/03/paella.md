@@ -1,14 +1,14 @@
 ---
-title: Paella
 author: roy
-type: post
-date: 2017-03-28T01:30:09+00:00
-url: /2017/03/paella/
 categories:
-  - Just Another Day
-  - Travels
-
+- Just Another Day
+- Travels
+date: 2017-03-28 01:30:09
+title: Paella
+type: post
+url: /2017/03/paella/
 ---
+
 A couple of years ago, two friends and I were being tourists in Barcelona. With its wide, spacious streets and strangely uniform city blocks, we walked around a lot. During one of our tourist days, we decided to eat some _paella_ on the way back to our AirBNB. Who comes to Barcelona and doesn&#8217;t eat _paella_ right?
 
 We ended up walking for quite a while. Every time we came upon a new restaurant that served _paella_ we would consider the price and the restaurant and would think, hey maybe we can find somewhere better or cheaper further along the way. At one point a Pinoy working in a nearby restaurant even overheard us talking about it in Tagalog and he called after us as we walked away. &#8220;Dito, mura lang!&#8221;, but we paid him no heed.

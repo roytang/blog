@@ -1,13 +1,13 @@
 ---
-title: Free Wi-fi @HK International Airport
 author: roy
-type: post
-date: 2008-03-19T18:22:06+00:00
-url: /2008/03/free-wi-fi-hk-international-airport/
 categories:
-  - Travels
-
+- Travels
+date: 2008-03-19 18:22:06
+title: Free Wi-fi @HK International Airport
+type: post
+url: /2008/03/free-wi-fi-hk-international-airport/
 ---
+
 I&#8217;m blogging from an airport; I feel like such a seasoned traveler. Actually I&#8217;m writing this post just so that I can claim to post on the internet from airports.
 
 I am of course flying back to Manila after a short 3-day visit to Hong Kong. People always ask me where I plan to go while in HK, even though I always come here to work. It&#8217;s even worse this time, as I flew in Sunday evening, attending a three-day seminar until Wednesday, working during the evenings then flying back Thursday morning. Not much time to do anything really.

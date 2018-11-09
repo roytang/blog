@@ -1,12 +1,12 @@
 ---
-title: '2008 Philippine Open Block *Top 16*'
-type: post
-date: 2008-08-11T07:55:49+00:00
-url: /2008/08/2008-philippine-open-block-top-16/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2008-08-11 07:55:49
+title: 2008 Philippine Open Block *Top 16*
+type: post
+url: /2008/08/2008-philippine-open-block-top-16/
 ---
+
 The Philippine Open tournaments (one Standard and one Block) are held as side events to the Philippine Nationals. (I was not qualified obviously). I played in the block portion last Saturday, August 9 at Robinson&#8217;s Galleria. I played a version of the PWC Special from GP Kobe, the so-called &#8220;Greedy Deck&#8221;
 
 <div class="decklist">

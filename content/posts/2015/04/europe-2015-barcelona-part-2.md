@@ -1,13 +1,13 @@
 ---
-title: 'Europe 2015: Barcelona Part 2'
 author: roy
-type: post
-date: 2015-04-12T02:33:34+00:00
-url: /2015/04/europe-2015-barcelona-part-2/
 categories:
-  - Travels
-
+- Travels
+date: 2015-04-12 02:33:34
+title: 'Europe 2015: Barcelona Part 2'
+type: post
+url: /2015/04/europe-2015-barcelona-part-2/
 ---
+
 _Previously: I [went to Europe][1], decided I should tell you more about it and [started talking about Barcelona][2]_
 
 **Monday March 9th**

@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2003-11-09 04:26:26
 title: Revolutions
 type: post
-date: 2003-11-09T04:26:26+00:00
 url: /2003/11/revolutions/
-categories:
-  - Gaming
-
 ---
+
 So I saw Matrix: Revolutions last Friday. Nice movie, entertaining to watch, but it&#8217;s not as deep as you&#8217;d expect, and the Matrix trilogy really ends not with a bang but with a whisper. I like
    
 [

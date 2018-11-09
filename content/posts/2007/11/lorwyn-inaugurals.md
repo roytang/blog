@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-11-25 00:16:41
 title: Lorwyn Inaugurals
 type: post
-date: 2007-11-25T00:16:41+00:00
 url: /2007/11/lorwyn-inaugurals/
-categories:
-  - Magic the Gathering
-
 ---
+
 Tournament was on Saturday, November 10. Format was Standard. I didn&#8217;t have any good deck ideas this time around (some would argue I never do!), so I played a netdeck. I played the Mannequin deck that originally appeared in US States, as reported by BDM
    
 [

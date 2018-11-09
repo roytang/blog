@@ -1,19 +1,19 @@
 ---
-title: 'Rise of Eldrazi Review: Inquisition of Kozilek'
-author: roy
-type: post
-date: 2010-04-09T17:39:10+00:00
-url: /2010/04/rise-of-eldrazi-review-inquisition-of-kozilek/
 aktt_notify_twitter:
-  - no
-jd_tweet_this:
-  - yes
-wp_jd_bitly:
-  - http://bit.ly/aRiqnV
+- false
+author: roy
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2010-04-09 17:39:10
+jd_tweet_this:
+- true
+title: 'Rise of Eldrazi Review: Inquisition of Kozilek'
+type: post
+url: /2010/04/rise-of-eldrazi-review-inquisition-of-kozilek/
+wp_jd_bitly:
+- http://bit.ly/aRiqnV
 ---
+
 <p style="text-align: left;">
   I chose to start MTG blogging again right in the middle of spoiler season for the upcoming set <em>Rise of the Eldrazi, </em>so let me start out by reviewing some new cards. Let&#8217;s take a look at the card <a href="http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/twtw/85">previewed in this week&#8217;s </a><em><a href="http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/twtw/85">The Week That Was</a></em> by Brian David-Marshall, Inquisition of Kozilek:
 </p><figure style="width: 265px" class="wp-caption aligncenter">

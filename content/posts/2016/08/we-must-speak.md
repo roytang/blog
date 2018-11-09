@@ -1,14 +1,14 @@
 ---
-title: We Must Speak
 author: roy
-type: post
-date: 2016-08-20T01:18:40+00:00
-url: /2016/08/we-must-speak/
 categories:
-  - Opinions
-  - Philippines
-
+- Opinions
+- Philippines
+date: 2016-08-20 01:18:40
+title: We Must Speak
+type: post
+url: /2016/08/we-must-speak/
 ---
+
 If you follow me on Facebook or [Twitter][1], you&#8217;ll know I have a tendency to be pretty vocal about any problems I have with our country&#8217;s erstwhile leadership. But for the most part I&#8217;ve restricted it to those channels and have tried to avoid posting about current events in the country on this blog (outside of my personal choices for the election), but I feel that now more than ever those of us who can speak out have a responsibility to do so whenever we can, for several reasons
 
 [Village Idiot Savant][2] says:

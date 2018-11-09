@@ -1,13 +1,13 @@
 ---
-title: Imeem
 author: Roy
-type: post
-date: 2008-10-21T05:29:54+00:00
-url: /2008/10/imeem/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2008-10-21 05:29:54
+title: Imeem
+type: post
+url: /2008/10/imeem/
 ---
+
 My brother pointed me to a new (to me at least) online music service called [imeem][1]. The website caught my interest for two reasons.
 
 1. It uses Adobe Flex, a technology which I&#8217;ve been using for the past year or so. Any Flex developer knows it&#8217;s Flex just by looking at the widgets. (Click to enlarge the screenshot!)

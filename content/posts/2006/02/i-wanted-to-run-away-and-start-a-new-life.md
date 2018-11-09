@@ -1,13 +1,13 @@
 ---
-title: I Wanted to Run Away And Start A New Life
 author: roy
-type: post
-date: 2006-02-13T07:44:15+00:00
-url: /2006/02/i-wanted-to-run-away-and-start-a-new-life/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-02-13 07:44:15
+title: I Wanted to Run Away And Start A New Life
+type: post
+url: /2006/02/i-wanted-to-run-away-and-start-a-new-life/
 ---
+
 On our way down the mountain from [Batangas][1], we stopped in a small, quaint town filled with old-fashioned simple folk. For some reason, I took the opportunity to vanish into the shadows and watch as the buses left me behind. I roamed around the small town, hoping to find some sort of means with which I could escape my mundane life and start over in a some other paradise.
 
 Twice people from the company came back, looking for someone, but apparently not me. I successfully dodged their attentions the first time by hiding inside a dinky comfort room that looked like nobody bothered to maintain it, although it was a close call since one of them also followed me in and I was forced to hide in one of the cubicles. The second time I had to walk right past two women from our company, which I accomplished by pretending to be devouring a newspaper article that conveniently covered my place.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2004-10-27 15:24:38
 title: Best Software Essays
 type: post
-date: 2004-10-27T15:24:38+00:00
 url: /2004/10/best-software-essays/
-categories:
-  - Software Development
-
 ---
+
 Joel Spolsky, of
    
 [

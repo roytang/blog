@@ -1,12 +1,12 @@
 ---
-title: Magic – Regionals 2007
-type: post
-date: 2007-06-23T19:31:47+00:00
-url: /2007/06/magic-regionals-2007/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2007-06-23 19:31:47
+title: "Magic \xE2\u20AC\u201C Regionals 2007"
+type: post
+url: /2007/06/magic-regionals-2007/
 ---
+
 The venue is, as always, NG Galleria. The format, Standard. I was playing Mike Flores&#8217; &#8220;Legends of Team CMU&#8221; &#8211; the Mishra/Korlash aggro/control/combo deck that placed seventh in
    
 [

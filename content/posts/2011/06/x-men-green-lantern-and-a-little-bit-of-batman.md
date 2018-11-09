@@ -1,17 +1,19 @@
 ---
-title: X-Men, Green Lantern and a little bit of Batman
-author: roy
-type: post
-date: 2011-06-24T14:57:28+00:00
-url: /2011/06/x-men-green-lantern-and-a-little-bit-of-batman/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Comics
-  - Movies
-  - Review
-
+- Pop Culture
+date: 2011-06-24 14:57:28
+tags:
+- Comics
+- Movies
+- Review
+title: X-Men, Green Lantern and a little bit of Batman
+type: post
+url: /2011/06/x-men-green-lantern-and-a-little-bit-of-batman/
 ---
+
 So Metro Manila is at the peril of heavy rains, flooding and traffic again (as often happens this time of the year) and I thought I&#8217;d do some actual blogging for a change.
 
 I didn&#8217;t want to brave the rush hour traffic last night so I finally got around to watching X-Men First Class (luckily it was still showing at Mega). I had actually seen Green Lantern first despite X1C showing two weeks before the DC movie. It&#8217;s a good time to be a comic book fan with all these comic book movies coming out; I saw Thor a couple of months ago and of course we still have Captain America to look forward to next year.

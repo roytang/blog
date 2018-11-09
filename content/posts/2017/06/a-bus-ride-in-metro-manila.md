@@ -1,14 +1,14 @@
 ---
-title: A Bus Ride in Metro Manila
 author: roy
-type: post
-date: 2017-06-20T01:30:08+00:00
-url: /2017/06/a-bus-ride-in-metro-manila/
 categories:
-  - Just Another Day
-  - Philippines
-
+- Just Another Day
+- Philippines
+date: 2017-06-20 01:30:08
+title: A Bus Ride in Metro Manila
+type: post
+url: /2017/06/a-bus-ride-in-metro-manila/
 ---
+
 <div class="" data-block="true" data-editor="70ugg" data-offset-key="c2k73-0-0">
 </div>
 

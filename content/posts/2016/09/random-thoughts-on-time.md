@@ -1,13 +1,13 @@
 ---
-title: Random Thoughts on Time
 author: roy
-type: post
-date: 2016-09-06T01:30:54+00:00
-url: /2016/09/random-thoughts-on-time/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-09-06 01:30:54
+title: Random Thoughts on Time
+type: post
+url: /2016/09/random-thoughts-on-time/
 ---
+
 I remember having a discussion with a friend a few years back where I made the following list to emphasize a point:
 
   * 8-9 hours at work (possibly more)

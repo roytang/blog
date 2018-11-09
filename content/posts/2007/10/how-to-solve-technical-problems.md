@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2007-10-29 02:19:40
 title: How to Solve Technical Problems
 type: post
-date: 2007-10-29T02:19:40+00:00
 url: /2007/10/how-to-solve-technical-problems/
-categories:
-  - Software Development
-
 ---
+
 One of the qualities that I think make a really good software developer is the ability to solve difficult technical problems. Unless you&#8217;re the sort of software developer who just sells the same piece of software over and over again, at some point in time you&#8217;ll to need to find out how to implement some feature you&#8217;ve never tried before. Or you&#8217;ll hit a problem that&#8217;s not documented in any official docs and you need that critical functionality.
 
 Typically, there are two approaches: Research and Experimentation. Today I&#8217;ll talk about Research.

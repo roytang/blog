@@ -1,13 +1,13 @@
 ---
-title: Back into the Fold (or Revenge of the XP)
 author: Roy
-type: post
-date: 2007-05-28T04:58:02+00:00
-url: /2007/05/back-into-the-fold-or-revenge-of-the-xp/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2007-05-28 04:58:02
+title: Back into the Fold (or Revenge of the XP)
+type: post
+url: /2007/05/back-into-the-fold-or-revenge-of-the-xp/
 ---
+
 Amazingly, I went more than two whole months using only Ubuntu at home since [one of my RAM sticks got busted][1] and Windows refused to boot. Luckily, I have a dual boot computer, with Ubuntu as my alternative OS.
 
 Ubuntu is pretty awesome. As a Windows replacement, it does most of the things you need without much problem. It has two distinct advantages over Windows:

@@ -1,13 +1,15 @@
 ---
-title: 'Pinoy Comic Strips: Beerkada'
 author: Roy
-type: post
-date: 2008-05-11T05:00:13+00:00
-url: /2008/05/pinoy-comic-strips-beerkada/
 categories:
-  - Comics
-
+- Pop Culture
+date: 2008-05-11 05:00:13
+tags:
+- Comics
+title: 'Pinoy Comic Strips: Beerkada'
+type: post
+url: /2008/05/pinoy-comic-strips-beerkada/
 ---
+
 I&#8217;m not sure how popular or well-known Beerkada is among the non-UP crowd, but right now I consider the slice-of-University-life comic (that has now graduated into slice-of-adult-life stories) probably the second best local comic strip. First place being of course the seminal Pugad Baboy, which has been running what, almost twenty years now?
 
 I digress. If you&#8217;ve read Beerkada, it&#8217;s far from perfect. It&#8217;s often corny, and sometimes he has too many of his own in-jokes. In the early strips, the author Lyndon Gregorio often blatantly rips jokes from other sources. I&#8217;m not surprised it hasn&#8217;t received as much mainstream attention as Pugad Baboy has.

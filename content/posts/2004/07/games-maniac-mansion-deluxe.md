@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-07-02 16:13:44
 title: 'Games: Maniac Mansion Deluxe'
 type: post
-date: 2004-07-02T16:13:44+00:00
 url: /2004/07/games-maniac-mansion-deluxe/
-categories:
-  - Gaming
-
 ---
+
 [
     
 Maniac Mansion Deluxe

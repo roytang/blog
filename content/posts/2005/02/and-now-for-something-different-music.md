@@ -1,13 +1,15 @@
 ---
-title: And Now For Something Different – Music
 author: roy
-type: post
-date: 2005-02-17T14:15:00+00:00
-url: /2005/02/and-now-for-something-different-music/
 categories:
-  - Music
-
+- Pop Culture
+date: 2005-02-17 14:15:00
+tags:
+- Music
+title: "And Now For Something Different \xE2\u20AC\u201C Music"
+type: post
+url: /2005/02/and-now-for-something-different-music/
 ---
+
 Currently listening to &#8220;Boulevard of Broken Songs&#8221;, a neat mashup mainly of Green Day&#8217;s &#8220;Boulevard of Broken Dreams&#8221; and Oasis&#8217; &#8220;Wonderwall&#8221;. This and some other mashups [here.
   
 ][1] 

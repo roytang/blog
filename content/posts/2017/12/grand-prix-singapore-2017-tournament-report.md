@@ -1,17 +1,17 @@
 ---
-title: Grand Prix Singapore 2017 Tournament Report
 author: roy
-type: post
-date: 2017-12-23T01:00:35+00:00
-url: /2017/12/grand-prix-singapore-2017-tournament-report/
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2017-12-23 01:00:35
 tags:
-  - grand-prix
-  - Limited
-  - tournament-report
-
+- grand-prix
+- Limited
+- tournament-report
+title: Grand Prix Singapore 2017 Tournament Report
+type: post
+url: /2017/12/grand-prix-singapore-2017-tournament-report/
 ---
+
 I had [booked the Singapore trip][1] earlier in the year, since I almost always [attend Grand Prixs in Singapore][2] as its an easy trip and gives a good opportunity to visit friends. Unfortunately, I ended up not having time to prepare for the tournament itself. Fortunately, it was a limited event rather than constructed, so I figured maybe I could wing it and still do well. (Spoiler: I could not.)
 
 Prior to the trip, my prep for the sealed format had consisted of a single pool at my prerelease and reading a few articles online the night before the trip. I went there on Day 0/Friday to try a last chance trial, but didn&#8217;t get past the first round due to a &#8220;I&#8217;m still testing&#8221; mentality that meant poor mulligans and not reading the cards and tilting and scooping before figuring out there was an alternative.

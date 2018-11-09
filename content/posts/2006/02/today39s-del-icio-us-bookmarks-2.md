@@ -1,13 +1,13 @@
 ---
-title: Today’s del.icio.us bookmarks
 author: Roy
-type: post
-date: 2006-02-16T00:00:02+00:00
-url: /2006/02/today39s-del-icio-us-bookmarks-2/
 categories:
-  - Links
-
+- Links
+date: 2006-02-16 00:00:02
+title: "Today's del.icio.us bookmarks"
+type: post
+url: /2006/02/today39s-del-icio-us-bookmarks-2/
 ---
+
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-16
 
   * [Sketch Swap

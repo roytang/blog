@@ -1,13 +1,13 @@
 ---
-title: The Things We Learn In School
 author: roy
-type: post
-date: 2016-08-23T01:30:04+00:00
-url: /2016/08/the-things-we-learn-in-school/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-08-23 01:30:04
+title: The Things We Learn In School
+type: post
+url: /2016/08/the-things-we-learn-in-school/
 ---
+
 When you&#8217;re young and in school memorizing math formulas or history dates or whatnot, all of it seems so silly and you wonder if you&#8217;re really going to be using all of this knowledge in real life. However, the intent of a general education program isn&#8217;t specifically to give you knowledge that will be useful to you in the future (although it may turn out to be so)
 
 The stuff school teaches you &#8211; literature, mathematics, art, history, science, and so on &#8211; are intended to give you a broad enough base from which you can freely choose the direction you want to go in life. This means that as you specialize, many of these subjects may become "irrelevant" to you, but having this broad base of knowledge gives you a better foundation in life. Knowledge from unrelated fields can often give useful insight into your own specialized field

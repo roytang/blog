@@ -1,14 +1,14 @@
 ---
-title: The Metamorphosis of Prime Intellect
 author: roy
-type: post
-date: 2004-07-20T14:53:42+00:00
-url: /2004/07/the-metamorphosis-of-prime-intellect/
 categories:
-  - Links
+- Links
+date: 2004-07-20 14:53:42
 format: link
-
+title: The Metamorphosis of Prime Intellect
+type: post
+url: /2004/07/the-metamorphosis-of-prime-intellect/
 ---
+
 Found this on [kuro5hin][1]: it&#8217;s a fairly well-written science fiction piece.
   
 [

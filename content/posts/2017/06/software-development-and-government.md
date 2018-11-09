@@ -1,14 +1,14 @@
 ---
-title: Software Development and Government
 author: roy
-type: post
-date: 2017-06-29T01:30:34+00:00
-url: /2017/06/software-development-and-government/
 categories:
-  - Philippines
-  - Software Development
-
+- Philippines
+- Software Development
+date: 2017-06-29 01:30:34
+title: Software Development and Government
+type: post
+url: /2017/06/software-development-and-government/
 ---
+
 Random thoughts while walking at night: The structure of government can be a bit analogous to the structure of a software development project.
 
 The **Constitution** is like the **requirements** for a project. It&#8217;s kind of high-level and (I believe) shouldn&#8217;t be too detailed. Supposedly the requirements are written by the client. For a country like the Philippines the client is &#8220;we the sovereign Filipino people&#8221;.

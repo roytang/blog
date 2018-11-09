@@ -1,13 +1,13 @@
 ---
-title: Lying and Salesmanship
 author: roy
-type: post
-date: 2016-09-27T01:30:41+00:00
-url: /2016/09/lying-and-salesmanship/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-09-27 01:30:41
+title: Lying and Salesmanship
+type: post
+url: /2016/09/lying-and-salesmanship/
 ---
+
 A [recent post on Wait But Why][1] had me thinking about lying.
 
 [<img class="size-full wp-image-1466" src="http://roytang.net/wp-content/uploads/2016/09/lying.jpg" alt="WP_001140" width="1231" height="964" srcset="https://roytang.net/wp-content/uploads/2016/09/lying.jpg 1231w, https://roytang.net/wp-content/uploads/2016/09/lying-300x235.jpg 300w, https://roytang.net/wp-content/uploads/2016/09/lying-768x601.jpg 768w, https://roytang.net/wp-content/uploads/2016/09/lying-1024x802.jpg 1024w, https://roytang.net/wp-content/uploads/2016/09/lying-1200x940.jpg 1200w" sizes="(max-width: 1231px) 100vw, 1231px" />][2]

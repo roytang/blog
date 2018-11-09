@@ -1,17 +1,17 @@
 ---
-title: '14-AUG-2003: Quarter-Life Crisis'
 author: roy
-type: post
-date: 2003-08-14T01:30:45+00:00
-url: /2003/08/14-aug-2003-quarter-life-crisis/
 categories:
-  - Just Another Day
-  - Legacy Blog Posts
+- Just Another Day
+date: 2003-08-14 01:30:45
 tags:
-  - birthday
-
+- birthday
+- Legacy Blog Posts
+title: '14-AUG-2003: Quarter-Life Crisis'
+type: post
+url: /2003/08/14-aug-2003-quarter-life-crisis/
 ---
-  * Well, not exactly. But I am now 25, in any case. Looking back, there are many
+
+* Well, not exactly. But I am now 25, in any case. Looking back, there are many
   
     things I might have regretted, but my life philosphy tells me that there can be
   

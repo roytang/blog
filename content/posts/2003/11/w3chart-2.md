@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2003-11-04 15:52:19
 title: W3Chart
 type: post
-date: 2003-11-04T15:52:19+00:00
 url: /2003/11/w3chart-2/
-categories:
-  - Gaming
-
 ---
+
 [
     
 W3chart

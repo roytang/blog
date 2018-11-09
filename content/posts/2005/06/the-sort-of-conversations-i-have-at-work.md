@@ -1,13 +1,13 @@
 ---
-title: The Sort of Conversations I Have At Work
 author: roy
-type: post
-date: 2005-06-09T11:23:00+00:00
-url: /2005/06/the-sort-of-conversations-i-have-at-work/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-06-09 11:23:00
+title: The Sort of Conversations I Have At Work
+type: post
+url: /2005/06/the-sort-of-conversations-i-have-at-work/
 ---
+
 [18:06]<friend> anong ibig sabihin ng <okularnik>?
 
 [18:06]<friend> alam mo?

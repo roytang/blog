@@ -1,13 +1,13 @@
 ---
-title: Posting From the Boondocks
 author: Roy
-type: post
-date: 2004-10-31T06:22:47+00:00
-url: /2004/10/posting-from-the-boondocks/
 categories:
-  - Travels
-
+- Travels
+date: 2004-10-31 06:22:47
+title: Posting From the Boondocks
+type: post
+url: /2004/10/posting-from-the-boondocks/
 ---
+
 Well, not really, seeing as how there aren&#8217;t really any mountains anywhere near here. I&#8217;m in Daet, Camarines Norte, if that means anything to you. It&#8217;s great to be back here &#8212; apparently the last time I was here was in 1996.
 
 Some things have changed, but mostly things are still the same. There&#8217;s some sort of minimall now, and a Shakey&#8217;s, and a Jollibee. 😛 And there&#8217;s internet! I&#8217;m posting right now from a dingy internet cafe near my grandmother&#8217;s house. The mouse is horrible, and I had to put up with using IE for a while. I got fed up quickly though, and just went ahead and downloaded and installed [Firefox ][1]on two of their machines. Hehe, I&#8217;ll leave them open when I leave, hopefully I can convert someone. 😀

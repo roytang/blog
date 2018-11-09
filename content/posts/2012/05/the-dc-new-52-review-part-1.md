@@ -1,15 +1,17 @@
 ---
-title: The DC New 52 Review (Part 1)
-author: roy
-type: post
-date: 2012-05-27T15:08:32+00:00
-url: /2012/05/the-dc-new-52-review-part-1/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Comics
-
+- Pop Culture
+date: 2012-05-27 15:08:32
+tags:
+- Comics
+title: The DC New 52 Review (Part 1)
+type: post
+url: /2012/05/the-dc-new-52-review-part-1/
 ---
+
 If you&#8217;re reading this, that means I&#8217;ve done it: I&#8217;ve read the first eight issues of every DC New 52 book. I&#8217;ve always been a Marvel fan more than DC, my previous DC reading having been restricted to JLA and the Batman books, so I figured exposure to the New 52 would widen my appreciation of the DC stable of heroes. Here are my reviews:
 
 **Justice League**

@@ -1,13 +1,13 @@
 ---
-title: Ballmer, Bemused – Forbes.com
 author: Roy
-type: post
-date: 2006-03-26T07:57:59+00:00
-url: /2006/03/ballmer-bemused-forbes-com/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2006-03-26 07:57:59
+title: "Ballmer, Bemused \xE2\u20AC\u201C Forbes.com"
+type: post
+url: /2006/03/ballmer-bemused-forbes-com/
 ---
+
 [
   
 Ballmer, Bemused &#8211; Forbes.com

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-06-22 04:09:00
 title: A Quick Evaluation of the Upcoming Rules Changes
 type: post
-date: 2009-06-22T04:09:00+00:00
 url: /2009/06/a-quick-evaluation-of-the-upcoming-rules-changes/
-categories:
-  - Magic the Gathering
-
 ---
+
 A couple of friends were over from Singapore last weekend, and we decided to hang out and open a few boxes of Shards block cards to play casual sealed/draft, using the new M10 rules so we could get a feel for it. We played 1 sealed and 2 drafts; I personally played in the equivalent of around 10 rounds of limited, and my observations are:
 
   * Number of times damage on the stack came up relevant: None

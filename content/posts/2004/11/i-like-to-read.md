@@ -1,13 +1,15 @@
 ---
-title: I Like To Read
 author: Roy
-type: post
-date: 2004-11-23T15:12:58+00:00
-url: /2004/11/i-like-to-read/
 categories:
-  - Books
-
+- Pop Culture
+date: 2004-11-23 15:12:58
+tags:
+- Books
+title: I Like To Read
+type: post
+url: /2004/11/i-like-to-read/
 ---
+
 Really. I&#8217;ll read most anything. Books, comics, magazines, newspapers, leaflets, articles, essays. Well, anything well-written at least. When I first got access to the Internet, I was overjoyed. &#8220;Wow! Lots of stuff to read!&#8221; And I read a lot online. I started mostly with anime fanfiction, but pretty soon I enjoyed reading discussions on mailing-lists, message boards, news sites, etc. The internet is a treasure trove for one who always strives for information. But I digress, this post is not about the wondrous internet.
 
 It&#8217;s about the fact that I like to read. In particular, I like to read books. In fact, I thought about posting something like this because I was looking for a particular book. Specifically, _the Wastelands_, third book of Stephen King&#8217;s Dark Tower series. And I don&#8217;t want just any copy, I want a copy in the same series as the first two books I already have. I&#8217;ve looked through several National Bookstore branches already, but have yet to find one. I know they used to have a copy at the SM North Edsa branch, since that&#8217;s where I bought the second book _Drawing of the Three_. However, I can&#8217;t find it there; it seems that branch is under renovation, maybe I&#8217;m just too confused at the change in layout. The salespeople don&#8217;t seem to be much help either. &#8220;Stephen King? Try the horror section.&#8221; That would be great except Dark Tower is not a horror series!

@@ -1,13 +1,15 @@
 ---
-title: Dark Tower VI – Song of Susannah
 author: Roy
-type: post
-date: 2006-10-29T09:16:01+00:00
-url: /2006/10/dark-tower-vi-song-of-susannah/
 categories:
-  - Books
-
+- Pop Culture
+date: 2006-10-29 09:16:01
+tags:
+- Books
+title: "Dark Tower VI \xE2\u20AC\u201C Song of Susannah"
+type: post
+url: /2006/10/dark-tower-vi-song-of-susannah/
 ---
+
 I was holding off on buying the sixth installment of the Dark Tower until I could find a printing which matched the previous five books, but as I was browsing through the new Fully Booked at SM North I felt a compulsive urge to buy \*something\*, and lo and behold, Stephen King was on the shelf right beside me!
 
 As usual, the tale of Roland and his party on their quest for the Dark Tower is quite the page-turner, especially since this particular piece of fiction intersects with the real world in an intruiging way&#8230;the author himself, Stephen King, appears in this book as the would-be creator of Roland&#8217;s world! Reminds me of one of those &#8220;self-inserts&#8221;, a term used for fanfiction where the author writes himself in.

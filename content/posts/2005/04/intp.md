@@ -1,13 +1,13 @@
 ---
-title: INTP
 author: roy
-type: post
-date: 2005-04-30T23:45:00+00:00
-url: /2005/04/intp/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-04-30 23:45:00
+title: INTP
+type: post
+url: /2005/04/intp/
 ---
+
 > The Thinker
 > 
 > You are analytical and logical &#8211; and on a quest to learn everything you can.

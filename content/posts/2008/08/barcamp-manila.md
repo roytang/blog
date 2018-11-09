@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2008-08-22 05:07:43
 title: Barcamp Manila
 type: post
-date: 2008-08-22T05:07:43+00:00
 url: /2008/08/barcamp-manila/
-categories:
-  - Software Development
-
 ---
+
 Upon the prodding of
    
 [

@@ -1,12 +1,12 @@
 ---
-title: Grand Prix Manila – Snafubar and the Road to the Grand Prix
-type: post
-date: 2008-09-01T07:19:24+00:00
-url: /2008/09/grand-prix-manila-snafubar-and-the-road-to-the-grand-prix/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2008-09-01 07:19:24
+title: "Grand Prix Manila \xE2\u20AC\u201C Snafubar and the Road to the Grand Prix"
+type: post
+url: /2008/09/grand-prix-manila-snafubar-and-the-road-to-the-grand-prix/
 ---
+
 <!-- 		@page { size: 8.5in 11in; margin: 0.79in } 		P { margin-bottom: 0.08in } -->
 
 

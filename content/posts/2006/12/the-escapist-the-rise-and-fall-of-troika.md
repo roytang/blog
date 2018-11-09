@@ -1,12 +1,12 @@
 ---
-title: The Escapist – The Rise and Fall of Troika
-type: post
-date: 2006-12-26T22:12:37+00:00
-url: /2006/12/the-escapist-the-rise-and-fall-of-troika/
 categories:
-  - Gaming
-
+- Gaming
+date: 2006-12-26 22:12:37
+title: "The Escapist \xE2\u20AC\u201C The Rise and Fall of Troika"
+type: post
+url: /2006/12/the-escapist-the-rise-and-fall-of-troika/
 ---
+
 Awesome article in The Escapist titled
    
 [

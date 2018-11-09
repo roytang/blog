@@ -1,13 +1,13 @@
 ---
-title: Responsiveness and Notifications
 author: roy
-type: post
-date: 2018-11-05T05:05:41+00:00
-url: /2018/11/responsiveness-and-notifications/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2018-11-05 05:05:41
+title: Responsiveness and Notifications
+type: post
+url: /2018/11/responsiveness-and-notifications/
 ---
+
 I had always considered my responsiveness to emails and IMs a point of pride &#8211; I liked to keep an empty inbox so I replied to emails and IMs as soon as I became aware of them. This of course turned out a bit bad in the short run. I was easily distracted from whatever work I was doing &#8211; although I did take pride in being pretty good at multitasking (Yes I know, no one is \*really\* good at multitasking, I&#8217;m just less bad at it than other people). I think in the long run was a problem too, somehow my brain has been rewired to instinctively always want to reply quickly to everything when it isn&#8217;t necessary, and even when I&#8217;m not on the clock.
 
 Things got worse when we had this project that required our team to provide off-hours support. As you can imagine, that led to me checking emails and IMs all the time. I think I&#8217;ve developed a sort of notification anxiety, where if I hear my phone make a notification sound I&#8217;m always tempted to get up and check it. And of course there&#8217;s the common social problem nowadays of always checking your phone compulsively while you have it in your hand. There&#8217;s some kind of FOMO there that might be some kind of crisis or emergency I have to respond to.   

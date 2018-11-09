@@ -1,15 +1,17 @@
 ---
-title: Change and Risk and Governments
 author: roy
-type: post
-date: 2018-10-31T05:03:25+00:00
-url: /2018/10/change-and-risk-and-governments/
 categories:
-  - Philippines
-  - Politics
-  - Software Development
-
+- Philippines
+- Opinions
+- Software Development
+date: 2018-10-31 05:03:25
+tags:
+- Politics
+title: Change and Risk and Governments
+type: post
+url: /2018/10/change-and-risk-and-governments/
 ---
+
 Systemic change is difficult. I&#8217;m talking about software projects/systems, but there are a lot of parallels with societal systems too, like governments or states.
 
 I&#8217;ve been in large projects with hundreds of thousands of LOC where a lot of the code was painful to read and full of code smells and so on. It happens over time as projects get maintained by different developers and teams or different enhancements or changes are made. It becomes more difficult/costly for new developers to work on the project as things are brittle and may easily fall apart.

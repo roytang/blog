@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2004-10-24 05:53:33
 title: Sinfest!
 type: post
-date: 2004-10-24T05:53:33+00:00
 url: /2004/10/sinfest/
-categories:
-  - Software Development
-
 ---
+
 I was bored. And I was going through the
    
 [

@@ -1,14 +1,14 @@
 ---
+categories:
+- Software Development
+date: 2009-01-04 07:22:20
+tags:
+- royondjango
 title: Using Django Pingback
 type: post
-date: 2009-01-04T07:22:20+00:00
 url: /2009/01/using-django-pingback/
-categories:
-  - Software Development
-tags:
-  - royondjango
-
 ---
+
 I actually had some trouble using [django-pingback][1] on my custom blog engine; the [django-pingback documentation][2] is mostly fine, but there were some caveats that I had to discover myself through a bit of debugging:
 
   * The URL specified for the XML-RPC endpoint in the HTML head needs to be a full absolute url including domain, i.e. http://roytang.net/xmlrpc/, which gave me trouble when I was trying to test using localhost pinging to an online server. I eventually just decided to set it up, deploy on webfaction and test it online before I redirected the domain name.

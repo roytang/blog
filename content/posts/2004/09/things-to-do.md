@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-09-12 05:50:25
 title: Things To Do
 type: post
-date: 2004-09-12T05:50:25+00:00
 url: /2004/09/things-to-do/
-categories:
-  - Gaming
-
 ---
+
 In order of priority:
  
   

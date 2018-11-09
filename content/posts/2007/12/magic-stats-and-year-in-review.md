@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-12-26 17:34:01
 title: Magic Stats! (And Year in Review)
 type: post
-date: 2007-12-26T17:34:01+00:00
 url: /2007/12/magic-stats-and-year-in-review/
-categories:
-  - Magic the Gathering
-
 ---
+
 I believe that this year, I have managed to improve my Magic-playing a bit (despite the abundance of embarassing mistakes).I also believe I&#8217;m slightly better at Limited than I am at Constructed. TO back up these beliefs, I could point to my DCI ratings. But as a programmer who loves stats, I compiled additional stats for my own pleasure:
    
 [

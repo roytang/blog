@@ -1,13 +1,13 @@
 ---
-title: It Should Be Easy, Right?
 author: roy
-type: post
-date: 2016-10-27T01:30:28+00:00
-url: /2016/10/it-should-be-easy-right/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-10-27 01:30:28
+title: It Should Be Easy, Right?
+type: post
+url: /2016/10/it-should-be-easy-right/
 ---
+
 In Tagalog: _&#8220;Madali lang naman diba?&#8221;_
 
 Probably one of the most annoying things a programmer can hear, especially from a client or a manager who has no appreciation of how complex software development is. It&#8217;s presumptuous at best and actively damaging to schedule and morale at worst. We already know [estimation is hard][1], there is no need to make it more complicated by automatically assuming the best-case scenario (or in many cases, an impossible scenario)

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-05-27 08:58:39
 title: Future Sight Inaugural @ NG Galleria 26-May-2007
 type: post
-date: 2007-05-27T08:58:39+00:00
 url: /2007/05/future-sight-inaugural-ng-galleria-26-may-2007/
-categories:
-  - Magic the Gathering
-
 ---
+
 _
     
 (edit 24-Dec-2008: Imported decklist from the wiki, removed the dead link below, anchor tag retained for posterity)

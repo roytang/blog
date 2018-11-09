@@ -1,15 +1,15 @@
 ---
-title: Dear Citibank, About Your New Website…
-author: roy
-type: post
-date: 2011-07-31T08:01:11+00:00
-url: /2011/07/dear-citibank-about-your-new-website/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2011-07-31 08:01:11
+title: "Dear Citibank, About Your New Website\xE2\u20AC\xA6"
+type: post
+url: /2011/07/dear-citibank-about-your-new-website/
 ---
+
 Hi,
 
 About this new website design/whatever. I am glad that you know have 2-factor authentication to protect me from fraudulent online transactions, but please check the following problems ( I gave up trying to post this using your messaging system, see #3 below):

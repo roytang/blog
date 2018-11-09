@@ -1,13 +1,13 @@
 ---
-title: Evolution of Society
 author: roy
-type: post
-date: 2016-07-19T01:30:19+00:00
-url: /2016/07/evolution-of-society/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-07-19 01:30:19
+title: Evolution of Society
+type: post
+url: /2016/07/evolution-of-society/
 ---
+
 I found this draft blog post that I had written back in 2010. I&#8217;m not sure why I never published it, though it does end on a dire note and seems a bit incomplete. Perhaps I had some further thoughts percolating in my brain back then that never came forward. I am also not sure if I wrote this before reading about [The Great Filter][1]. I figured I&#8217;d just publish it now without further comment:
 
 I was thinking about all the stupid things humans do, and the fact that there are still so many stupid humans about, and because of the stupid things human do like not focusing on education, we are creating even more stupid humans. It seemed to me like some sort of failure of evolution that we have not yet got it through our thick skulls how important stuff like education and critical thinking are.

@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-09-16 23:34:41
 title: GPT Bangkok 3
 type: post
-date: 2007-09-16T23:34:41+00:00
 url: /2007/09/gpt-bangkok-3/
-categories:
-  - Magic the Gathering
-
 ---
+
 It&#8217;s my first time playing at BCI Greenhills. During deck registration, I open a Damnation and a Graven Cairns. If I got up then, I&#8217;d have gotten my money&#8217;s worth. But I didn&#8217;t come here to buy a Damnation, I came here to play.
 
 My sealed deck:

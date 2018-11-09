@@ -1,13 +1,13 @@
 ---
-title: On Internet Quizzes
 author: Roy
-type: post
-date: 2004-07-11T11:43:04+00:00
-url: /2004/07/on-internet-quizzes/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2004-07-11 11:43:04
+title: On Internet Quizzes
+type: post
+url: /2004/07/on-internet-quizzes/
 ---
+
 I&#8217;m not particularly fond of internet quizzes that attempt to plunk you down into a category &#8211; but sometimes they&#8217;re damn accurate.
   
 [

@@ -1,13 +1,13 @@
 ---
-title: Requiem
 author: roy
-type: post
-date: 2004-12-02T13:11:14+00:00
-url: /2004/12/requiem/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2004-12-02 13:11:14
+title: Requiem
+type: post
+url: /2004/12/requiem/
 ---
+
 Sir Alexander Alix, quintessential Pisay trigo and calculus teacher, passed away recently due to cirrhosis of the liver. There&#8217;s a service for him at Pisay tomorrow, Dec. 3, Friday. Since I doubt I can go, I&#8217;ll say my piece here.
 
 Alix was a helluva guy. Friendly and gets well with the students. And he gave high grades. Seriously. He gave me flat 1.0s (highest possible grade) for all four quarters of fourth year math. Now, not to brag, when I was in high school, math was my thing. Seriously, I could breeze through my high school math classes in my sleep. And few of my batch mates will contradict me when I say I was one of the best, if not _the _best in math in our batch. (That last part is debatable, [some people ][1]might contest it. :p) The point of this is not me bragging, since I do that often, it&#8217;s nothing special. No, the point is that I seldom took math period seriously. I often spent math class doodling something in my notebooks, at least on those occasions that I had a pen.

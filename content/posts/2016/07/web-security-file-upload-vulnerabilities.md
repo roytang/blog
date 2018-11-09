@@ -1,13 +1,13 @@
 ---
-title: 'Web Security: File Upload Vulnerabilities'
 author: roy
-type: post
-date: 2016-07-07T01:30:00+00:00
-url: /2016/07/web-security-file-upload-vulnerabilities/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-07-07 01:30:00
+title: 'Web Security: File Upload Vulnerabilities'
+type: post
+url: /2016/07/web-security-file-upload-vulnerabilities/
 ---
+
 A friend of mine had an informal consultation with me the other day (read: asked me questions over FB messenger) about what their IT staff was telling them about a file upload vulnerability that had been recently exploited in one of their applications. Obviously it was difficult for me to judge given that I didn&#8217;t know all the details, but for me it was most likely a vulnerability introduced in the application code itself.
 
 If you&#8217;re not familiar with file upload vulnerability, the simplest type of attack goes something like this: the user (or attacker in this case) uploads a file using a file upload function on the system (a common functionality), and the system allows the user to execute that file as if it were code. This can happen if the application saves the uploaded file directly into the web application path, such that it can be executed directly from the client. This is a common vulnerability listed on the OWASP page.

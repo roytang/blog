@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-04-05
 author: Roy
-type: post
-date: 2006-04-05T18:00:01+00:00
-url: /2006/04/del-icio-us-bookmarks-for-2006-04-05/
 categories:
-  - Links
+- Links
+date: 2006-04-05 18:00:01
 format: link
-
+title: Del.icio.us bookmarks for 2006-04-05
+type: post
+url: /2006/04/del-icio-us-bookmarks-for-2006-04-05/
 ---
+
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-04-05
 
   * [How I Work: Bill Gates &#8211; Apr. 4, 2006

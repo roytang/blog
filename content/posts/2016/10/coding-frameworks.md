@@ -1,13 +1,13 @@
 ---
-title: Coding Frameworks
 author: roy
-type: post
-date: 2016-10-13T01:30:27+00:00
-url: /2016/10/coding-frameworks/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-10-13 01:30:27
+title: Coding Frameworks
+type: post
+url: /2016/10/coding-frameworks/
 ---
+
 For the better part of my software development career so far, I&#8217;ve had the doubtful pleasure of being one of the devs using and maintaining our in-house web development framework. Framework coding is a bit different from the actual application development. At the core it&#8217;s a simple idea: you have a whole bunch of code that helps do programming tasks that you expect will often be necessary in a certain set of projects, so you write that code with the intent of reusing it across multiple projects. For a web development framework, those tasks will be things like handling request parameters, form validation, form to database mapping, and so on. You can have frameworks for a variety of domains too, not just web development. There are mobile development frameworks, and game development frameworks, and so on
 
 Typically, a framework is developed alongside a project using that framework (to save on costs), but the framework&#8217;s objective of code reuse may not always align with the project&#8217;s objectives of &#8220;get stuff done already&#8221;.  Investing in reusable code often means there will be a bit more work done as you start up, to make sure that the code is flexible and reusable enough for future projects, but when your schedules are tight, these concerns may become secondary and you will be tempted to write in some substandard code that you will &#8220;just refactor later&#8221;. Technical debt by itself already tends to be a problem, it gets worse when it&#8217;s technical debt in framework code since you&#8217;re going to carry that across multiple projects, so be wary when sacrificing the quality of framework code for the sake of one project

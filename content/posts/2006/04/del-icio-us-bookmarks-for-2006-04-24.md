@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-04-24
 author: Roy
-type: post
-date: 2006-04-24T18:00:01+00:00
-url: /2006/04/del-icio-us-bookmarks-for-2006-04-24/
 categories:
-  - Links
+- Links
+date: 2006-04-24 18:00:01
 format: link
-
+title: Del.icio.us bookmarks for 2006-04-24
+type: post
+url: /2006/04/del-icio-us-bookmarks-for-2006-04-24/
 ---
+
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-04-24
 
   * [Escape ycc/ESC

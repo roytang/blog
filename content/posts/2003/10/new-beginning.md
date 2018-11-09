@@ -1,13 +1,13 @@
 ---
-title: New Beginning
 author: Roy
-type: post
-date: 2003-10-27T14:39:38+00:00
-url: /2003/10/new-beginning/
 categories:
-  - Meta
-
+- Meta
+date: 2003-10-27 14:39:38
+title: New Beginning
+type: post
+url: /2003/10/new-beginning/
 ---
+
 &#8220;If history is to change, let it change!
 
 If the world is to be destroyed, so be it!

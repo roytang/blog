@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2006-05-11
 author: Roy
-type: post
-date: 2006-05-11T18:00:02+00:00
-url: /2006/05/del-icio-us-bookmarks-for-2006-05-11/
 categories:
-  - Links
+- Links
+date: 2006-05-11 18:00:02
 format: link
-
+title: Del.icio.us bookmarks for 2006-05-11
+type: post
+url: /2006/05/del-icio-us-bookmarks-for-2006-05-11/
 ---
+
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-05-11
 
   * [ASCII by Jason Scott: The Best and the Interesting

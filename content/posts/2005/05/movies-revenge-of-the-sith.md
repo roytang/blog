@@ -1,13 +1,15 @@
 ---
-title: 'Movies: Revenge of the Sith'
 author: roy
-type: post
-date: 2005-05-25T14:33:00+00:00
-url: /2005/05/movies-revenge-of-the-sith/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2005-05-25 14:33:00
+tags:
+- Movies
+title: 'Movies: Revenge of the Sith'
+type: post
+url: /2005/05/movies-revenge-of-the-sith/
 ---
+
 The circle is now complete. The whole tale has been told. Revenge of the Sith completes Lucas&#8217; space opera. And the Force is strong in this one.
 
 Highly enjoyable movie, if you take the time to push away your inner critic and look past the spotty acting, the so-so dialogue, and all the little flaws and inconsistencies you spot throughout the movie. Get past all of that, and it&#8217;s a decent enough ride, and a fitting conclusion to the Star Wars epic.

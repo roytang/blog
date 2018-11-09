@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-05-18 08:44:12
 title: Regionals 2008
 type: post
-date: 2008-05-18T08:44:12+00:00
 url: /2008/05/regionals-2008/
-categories:
-  - Magic the Gathering
-
 ---
+
 Regionals was today, 18-May. The format was standard and I went to play at Galleria.
 
 I have a mixed track record for regionals. During

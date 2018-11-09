@@ -1,13 +1,13 @@
 ---
-title: Priest / Stand-up Comic
 author: Roy
-type: post
-date: 2006-04-23T04:41:55+00:00
-url: /2006/04/priest-stand-up-comic/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-04-23 04:41:55
+title: Priest / Stand-up Comic
+type: post
+url: /2006/04/priest-stand-up-comic/
 ---
+
 Usually, whenever a Catholic priest gives a homily during Mass, he stands behind a pulpit and generally act like they&#8217;re making a speech.
 
 At the place where I go to Mass, the priests prefer to stand in front of the altar, closer to the audience, holding a microphone in their hands and pacing around a bit during the homily.

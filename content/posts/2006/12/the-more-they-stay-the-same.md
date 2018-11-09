@@ -1,13 +1,13 @@
 ---
-title: The More They Stay The Same
 author: Roy
-type: post
-date: 2006-12-16T21:22:26+00:00
-url: /2006/12/the-more-they-stay-the-same/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2006-12-16 21:22:26
+title: The More They Stay The Same
+type: post
+url: /2006/12/the-more-they-stay-the-same/
 ---
+
 One of the difficult things about my [three-week sojourn][1] is that I had almost no internet access; the one internet terminal we could use at the site was unbearably slow, and even when it was free, it was hard to slack off reading Slashdot when there were several other people busily working nearby.
 
 Being without internet is like living under a rock apparently; you have no idea what&#8217;s going on in the world. So I needed to catch up to about three weeks worth of news and blog posts, missed downloads, episodes, etc. Conveniently, I just marked as read all Slashdot and Boing-Boing posts in Bloglines hehe

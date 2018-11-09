@@ -1,13 +1,13 @@
 ---
-title: Not Very Mainstream
 author: Roy
-type: post
-date: 2007-06-17T05:52:09+00:00
-url: /2007/06/not-very-mainstream/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-06-17 05:52:09
+title: Not Very Mainstream
+type: post
+url: /2007/06/not-very-mainstream/
 ---
+
 Based on my [last.fm][1] profile, at least, I am only around [13.94% mainstream
   
 ][2]

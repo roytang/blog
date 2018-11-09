@@ -1,13 +1,13 @@
 ---
-title: Yellow Cory
 author: Roy
-type: post
-date: 2008-02-25T08:28:29+00:00
-url: /2008/02/yellow-cory/
 categories:
-  - Philippines
-
+- Philippines
+date: 2008-02-25 08:28:29
+title: Yellow Cory
+type: post
+url: /2008/02/yellow-cory/
 ---
+
 Random thought while watching the news:
 
 If Cory Aquino ever went out in public without wearing bright yellow clothes, would people recognize her?

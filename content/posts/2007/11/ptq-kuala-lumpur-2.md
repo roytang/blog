@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-11-25 00:50:18
 title: 'PTQ Kuala Lumpur #2'
 type: post
-date: 2007-11-25T00:50:18+00:00
 url: /2007/11/ptq-kuala-lumpur-2/
-categories:
-  - Magic the Gathering
-
 ---
+
 Tournament was last Sunday, November 18. Format was Lorwyn Sealed.
 
 I open a pretty good sealed pool this time. Notable cards include Mistbind Clique, Profane Command, Mulldrifter, Cloudgoat Ranger, Oblivion Ring, Shriekmaw and Silvergill Douser. Haven&#8217;t written up the sealed pool yet, will probably do so later. I play major blue, minor black and white.

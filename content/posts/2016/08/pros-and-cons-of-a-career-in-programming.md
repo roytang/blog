@@ -1,13 +1,13 @@
 ---
-title: Pros and Cons of a Career in Programming
 author: roy
-type: post
-date: 2016-08-04T01:30:57+00:00
-url: /2016/08/pros-and-cons-of-a-career-in-programming/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-08-04 01:30:57
+title: Pros and Cons of a Career in Programming
+type: post
+url: /2016/08/pros-and-cons-of-a-career-in-programming/
 ---
+
 Pros:
 
   * It is a very rewarding career financially. Software development often ranks in the top 10 highest-earning careers in most countries

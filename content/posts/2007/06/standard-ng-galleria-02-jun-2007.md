@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-06-09 16:13:45
 title: Standard @ NG Galleria 02-Jun-2007
 type: post
-date: 2007-06-09T16:13:45+00:00
 url: /2007/06/standard-ng-galleria-02-jun-2007/
-categories:
-  - Magic the Gathering
-
 ---
+
 The saga of the
    
 [

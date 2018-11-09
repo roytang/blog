@@ -1,12 +1,12 @@
 ---
-title: Lorwyn – Planeswalkers
-type: post
-date: 2007-09-24T05:54:48+00:00
-url: /2007/09/lorwyn-planeswalkers/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2007-09-24 05:54:48
+title: "Lorwyn \xE2\u20AC\u201C Planeswalkers"
+type: post
+url: /2007/09/lorwyn-planeswalkers/
 ---
+
 The full spoiler is of course now available at
    
 [

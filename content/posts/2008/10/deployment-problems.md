@@ -1,14 +1,14 @@
 ---
+categories:
+- Software Development
+date: 2008-10-21 06:52:00
+tags:
+- royondjango
 title: Deployment Problems
 type: post
-date: 2008-10-21T06:52:00+00:00
 url: /2008/10/deployment-problems/
-categories:
-  - Software Development
-tags:
-  - royondjango
-
 ---
+
 So I got a basic blog app up and running.
 
 Posting, paged archives, etc.

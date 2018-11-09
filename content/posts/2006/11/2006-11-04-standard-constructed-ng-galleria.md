@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2006-11-04 08:31:44
 title: 2006-11-04 Standard Constructed @ NG Galleria
 type: post
-date: 2006-11-04T08:31:44+00:00
 url: /2006/11/2006-11-04-standard-constructed-ng-galleria/
-categories:
-  - Magic the Gathering
-
 ---
+
 This tournament and three others for each Saturday of November are run-ups to the Time Spiral Gold Rush tournament in December. I&#8217;ve been agonizing over the past couple of weeks as to what I can play in the diverse new standard enivornment. In the end, instead of doing my usual thing and building an original decklist, I decided to work from an existing archetype instead. I believe that in order for me to become a better Standard player, I have to get more match experience before designing decks, since my thinking is still on a casual level most of the time.
 
 By Thursday evening I had decided to go for a modified Ghazi Glare build, with a red splash for reach. My decklist, named &#8220;Elephant Glare&#8221;:

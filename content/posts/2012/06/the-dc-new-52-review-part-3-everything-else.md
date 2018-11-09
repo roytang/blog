@@ -1,17 +1,19 @@
 ---
-title: 'The DC New 52 Review Part 3: Everything Else'
-author: roy
-type: post
-date: 2012-06-21T07:23:51+00:00
-url: /2012/06/the-dc-new-52-review-part-3-everything-else/
 aktt_notify_twitter:
-  - yes
+- true
 aktt_tweeted:
-  - 1
+- 1
+author: roy
 categories:
-  - Comics
-
+- Pop Culture
+date: 2012-06-21 07:23:51
+tags:
+- Comics
+title: 'The DC New 52 Review Part 3: Everything Else'
+type: post
+url: /2012/06/the-dc-new-52-review-part-3-everything-else/
 ---
+
 The last two entries ([here][1] and [here][2]) took too long to write, and there&#8217;s a helluva lot of other titles to go through. And many of them don&#8217;t deserve much comments, so I&#8217;ll just go through the rest quickly or I might never finish.
 
 _Action Comics_ &#8211; the younger Superman stories are interesting, but occasionally Morrison goes off on one of his weird tangent stories. Superman&#8217;s early years are largely re-written, and that&#8217;s understandable, he&#8217;s never had particularly interesting events in his history anyway

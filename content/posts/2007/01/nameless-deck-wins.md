@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2007-01-07 21:07:34
 title: Nameless Deck Wins
 type: post
-date: 2007-01-07T21:07:34+00:00
 url: /2007/01/nameless-deck-wins/
-categories:
-  - Magic the Gathering
-
 ---
+
 I played the following decklist last Saturday at NG Galleria, giving it the incredibly clever name &#8220;Nameless Deck Wins&#8221;
 
 4 Birds of Paradise

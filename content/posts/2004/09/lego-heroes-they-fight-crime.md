@@ -1,14 +1,14 @@
 ---
-title: Lego Heroes, They Fight Crime!
 author: Roy
-type: post
-date: 2004-09-17T14:09:09+00:00
-url: /2004/09/lego-heroes-they-fight-crime/
 categories:
-  - Links
+- Links
+date: 2004-09-17 14:09:09
 format: link
-
+title: Lego Heroes, They Fight Crime!
+type: post
+url: /2004/09/lego-heroes-they-fight-crime/
 ---
+
 Something random found today:
   
 [

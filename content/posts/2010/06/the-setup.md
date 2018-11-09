@@ -1,13 +1,13 @@
 ---
-title: The Setup
 author: Roy
-type: post
-date: 2010-06-08T23:20:52+00:00
-url: /2010/06/the-setup/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2010-06-08 23:20:52
+title: The Setup
+type: post
+url: /2010/06/the-setup/
 ---
+
 A while back I started reading [The Setup][1], which is basically a collection of interviews with various tech/creative guys about what sort of hardware and software they use. I always enjoy this sort of thing &#8211; it feeds my tech envy when they describe cool setups or gadgets I don&#8217;t have. (A lot of them have Macs!)
 
 I actually purchased a new desktop computer a while back without posting any details, so I thought I&#8217;d something similar to The Setup so that I have a record of what I&#8217;m using now.

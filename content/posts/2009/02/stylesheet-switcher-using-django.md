@@ -1,14 +1,14 @@
 ---
+categories:
+- Software Development
+date: 2009-02-14 14:17:32
+tags:
+- royondjango
 title: Stylesheet Switcher using Django
 type: post
-date: 2009-02-14T14:17:32+00:00
 url: /2009/02/stylesheet-switcher-using-django/
-categories:
-  - Software Development
-tags:
-  - royondjango
-
 ---
+
 You may have noticed the new color scheme and new &#8220;Theme Switcher&#8221; widget in the sidebar. I had done some CSS work during the past month in the office and it made me want to tweak the stylesheets on this site a bit. I figured I might as well make it easy to switch stylesheets, so I wrote a small Theme Switcher django app. (Well, it&#8217;s more of a stylesheet switcher I guess)
 
 The model is simple:

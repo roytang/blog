@@ -1,13 +1,13 @@
 ---
-title: 'Movie Review: Man of Steel (Spoilers!)'
 author: roy
-type: post
-date: 2013-06-15T17:30:08+00:00
-url: /2013/06/movie-review-man-of-steel-spoilers/
 categories:
-  - Opinions
-
+- Opinions
+date: 2013-06-15 17:30:08
+title: 'Movie Review: Man of Steel (Spoilers!)'
+type: post
+url: /2013/06/movie-review-man-of-steel-spoilers/
 ---
+
 Few people are really Superman fans, because let&#8217;s face it, Superman is boring compared to say, Batman. I wouldn&#8217;t claim to be a fan either, though I follow the history because of being generally a comic book guy (I got less than 50% of the answers in a recent Superman round in one of the local quiz nights =/) That being said, I did re-watch the first 2 Donner Superman movies and re-read _All-Star Superman_ and _Superman: For Tomorrow_ ahead of watching the movie. So, I look at the movie from the point of view of someone familiar with the lore, but not all the history of the character.
 
 First the hype: before the release, there were people claiming that Man of Steel was the best superhero movie, with one reviewer even claiming it to be better than _The Dark Knight_. Now that I&#8217;ve seen it, I&#8217;m going to have to disagree; _The Dark Knight _was a clever movie with a terrific villain built upon a solid universe established by _Batman Begins_; Man of Steel is by no means a bad movie, but it&#8217;s pretty much just a straightforward action flick.

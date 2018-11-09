@@ -1,13 +1,13 @@
 ---
-title: Notes on Decision Making
 author: roy
-type: post
-date: 2017-01-24T01:30:20+00:00
-url: /2017/01/notes-on-decision-making/
 categories:
-  - Opinions
-
+- Opinions
+date: 2017-01-24 01:30:20
+title: Notes on Decision Making
+type: post
+url: /2017/01/notes-on-decision-making/
 ---
+
 &nbsp;
 
 At my old job I used to have this group of coworkers I had Friday lunch outs with. Inevitably, every Friday around noon someone would message the others asking &#8220;where are we eating?&#8221;. Now, there are a lot of good places to eat around the area and we&#8217;ve all been working there a while so most of the time we don&#8217;t care where we eat and we&#8217;d say we&#8217;ll decide when we get to the elevators. We get to the elevators but we&#8217;re still not sure where to eat. So we take the elevators down and we&#8217;ll figure it out downstairs. What often happened is that we ended up walking around, wasting time and eventually just choosing a place at random. It was a weird sort of decision-making.

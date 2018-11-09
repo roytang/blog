@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-04-29 05:58:00
 title: Deck Building for an Unknown Metagame
 type: post
-date: 2008-04-29T05:58:00+00:00
 url: /2008/04/deck-building-for-an-unknown-metagame/
-categories:
-  - Magic the Gathering
-
 ---
+
 This coming weekend is the release of Shadowmoor. As with any new set coming in, this means a new environment with an unknown metagame, and is especially true for the large set Shadowmoor. It’s an opportunity for those of us who believe we have some modicum of deck-building skills. I plan to be playing Standard on Saturday, one day after set release so I will try to build a deck to take advantage of the wide open field.
 
 <!--more-->

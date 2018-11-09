@@ -1,15 +1,16 @@
 ---
-title: Internet History
 author: roy
-type: post
-date: 2016-08-16T01:30:24+00:00
-url: /2016/08/internet-history/
 categories:
-  - Nostalgia
-  - Philippines
-  - Tech Life
-
+- Philippines
+- Tech Life
+date: 2016-08-16 01:30:24
+tags:
+- Nostalgia
+title: Internet History
+type: post
+url: /2016/08/internet-history/
 ---
+
 No, not that kind of history, don&#8217;t worry.
 
 [Twenty-five years ago this month, the first website went up on the world wide web.][1] That was 1991. It took a few years for the Philippines to catch on, [the first internet connection in the country was only set up in 1994][2].

@@ -1,13 +1,13 @@
 ---
-title: Down Cycles
 author: Roy
-type: post
-date: 2007-04-28T22:56:35+00:00
-url: /2007/04/down-cycles/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-04-28 22:56:35
+title: Down Cycles
+type: post
+url: /2007/04/down-cycles/
 ---
+
 No matter how much of an optimist I am, I have to admit all people will have down cycles. The last few days seem to be one of mine.
 
 Health-wise: My stomach has been in a rebellious mood for the past three or four days, I actually went to work with a fever last Friday. Also, it seems my blood pressure was a bit high since yesterday. I&#8217;m thinking about going in for a checkup within the next week or so, depending on how my condition changes.

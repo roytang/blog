@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2005-09-10 11:59:00
 title: Looking for a phone and finding bad webapps
 type: post
-date: 2005-09-10T11:59:00+00:00
 url: /2005/09/looking-for-a-phone-and-finding-bad-webapps/
-categories:
-  - Software Development
-
 ---
+
 Sorry about the title. I couldn&#8217;t find any succinct way to put it.
 
 Anyway, yeah. I&#8217;m supposed to be trying to get a phone. People have been harassing me for years about the fact that I don&#8217;t have a phone. Since my vacation is already half-wasted already, I figure I&#8217;d go online and get some info on what phone I&#8217;d buy.

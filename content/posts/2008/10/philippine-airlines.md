@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2008-10-21 06:44:00
 title: Philippine Airlines
 type: post
-date: 2008-10-21T06:44:00+00:00
 url: /2008/10/philippine-airlines/
-categories:
-  - Software Development
-
 ---
+
 My dad asked me to help book a flight from Manila to Boracay for my uncle who would be a balikbayan this weekend. The rates at PAL were better, so we decided to book using their website. I did the search for the flights, booked the seats, input my uncle&#8217;s details, etc. When we got to the screen to input the credit card info, my dad went to call my uncle to confirm and to get his credit card. He can&#8217;t have been gone five minutes. When he came back, I enter the credit card info in the form, click submit&#8230;and I get a session timeout error.
 
 Wow. Their session timeout value is somewhere between five to ten minutes, closer to five. I&#8217;m not sure if this is reasonable, especially given that their website isn&#8217;t that user-friendly to begin with and you may spend some time poring through the flight lists to get one that you want.

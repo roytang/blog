@@ -1,13 +1,15 @@
 ---
-title: I Have A Phone! (Nokia 6020)
 author: roy
-type: post
-date: 2005-10-23T09:46:00+00:00
-url: /2005/10/i-have-a-phone-nokia-6020/
 categories:
-  - Hardware
-
+- Tech Life
+date: 2005-10-23 09:46:00
+tags:
+- Hardware
+title: I Have A Phone! (Nokia 6020)
+type: post
+url: /2005/10/i-have-a-phone-nokia-6020/
 ---
+
 After seemingly being the last man in the Philippines without a cellphone for so long, I broke down and bought one a couple of weeks ago. I&#8217;d post a picture, but I can&#8217;t find the digicam, and the phone can&#8217;t take a picture of itself.
 
 The 6020 itself seems pretty okay, although as a phone newbie I really have not much of a basis for comparison. The camera is nifty, but it took me a while to find a data cable for the phone. And now I can annoy people by SMS! (Not that I do, just that I can.)

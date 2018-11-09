@@ -1,13 +1,13 @@
 ---
-title: The Folly of Optical Media
 author: Roy
-type: post
-date: 2008-07-05T21:25:05+00:00
-url: /2008/07/the-folly-of-optical-media/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2008-07-05 21:25:05
+title: The Folly of Optical Media
+type: post
+url: /2008/07/the-folly-of-optical-media/
 ---
+
 I find myself staring at stacks of old CD-Rs in my room that are just there taking up space. As far as I know, they contain copies of old TV series/anime I used to watch and backups of my old hard drives from time long past. (I&#8217;m pretty sure I still have backups of my drive contents from the IRC laboratory in UP.)
 
 I&#8217;m wondering whether I should bother going through them to check which ones are already useless (as some certainlty already are). If I&#8217;m going to rearchive them into a different format it would probably take more than a week to reburn them to DVDs. But DVDs are soon to be obsolete with the coming of Blu-Ray, maybe I should just buy another external drive and archive them there? I could easily buy another hard drive with the capacity of somewhere around 200-300 CDs.

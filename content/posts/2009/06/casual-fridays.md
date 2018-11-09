@@ -1,14 +1,14 @@
 ---
-title: Casual Fridays?
 author: Roy
-type: post
-date: 2009-06-23T13:05:11+00:00
-url: /2009/06/casual-fridays/
 categories:
-  - Just Another Day
-  - Opinions
-
+- Just Another Day
+- Opinions
+date: 2009-06-23 13:05:11
+title: Casual Fridays?
+type: post
+url: /2009/06/casual-fridays/
 ---
+
 Here&#8217;s the scenario: Last Sunday in the early morning, there was a fire in our office building, which hit some power stuff in the basement. So yesterday (Monday), the whole building was running on generators without air conditioning. Last night, we were notified that the power was back in the building, but just in case, we should come in to work in casual clothes (&#8220;dress down&#8221;), normally reserved for casual Fridays/Saturdays.
 
 Now, this got me thinking: what&#8217;s the rationale here? Do we get to dress down because it might be hot? There was like a week long period during summer that the building air conditioners were 50% malfunctioning; it was pretty hot then too, so that&#8217;s probably not the reason.

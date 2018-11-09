@@ -1,16 +1,18 @@
 ---
-title: Spoiler Alert!
 author: roy
-type: post
-date: 2018-05-01T01:00:47+00:00
-url: /2018/05/spoiler-alert/
 categories:
-  - Just Another Day
-  - Movies
-  - Tech Life
-  - TV Series
-
+- Just Another Day
+- Pop Culture
+- Tech Life
+date: 2018-05-01 01:00:47
+tags:
+- Movies
+- TV Series
+title: Spoiler Alert!
+type: post
+url: /2018/05/spoiler-alert/
 ---
+
 When Game of Thrones entered its sixth season in 2016, it was true spoiler territory for those of us who had read the GRRM books before HBO&#8217;s TV adaptation turned the property into a worldwide phenomenon. Due to the author&#8217;s glacial writing pace, at this point the TV series went past the point that the novels had reached. Thus nobody &#8211; book readers or tv viewers &#8211; knew what events would unfold in the story. I usually don&#8217;t watch the episodes until a few days after they air. On the day the first episode aired I found while scrolling through my social media feeds that one of my friends (who shall remain nameless) posted what turned out to be the resolution to the cliffhanger ending of both the previous TV season and the last available book. It was of course followed by immediate comments of &#8220;Spoiler!&#8221; from me and a few other people.
 
 Some people might say, what&#8217;s the big deal? When you&#8217;re invested in a story, getting unintentionally spoiled as to future plot points is a terrible feeling. It robs of you of the the experience, as you now go into the story with certain expectations. You only ever get one chance to watch/read/experience a story for the first time. If you enjoyed that experience, you should be considerate of others and not take that same experience away from them. (Unless they ask for it of course.) Sure, it&#8217;s just a story. But hey, life is stories.

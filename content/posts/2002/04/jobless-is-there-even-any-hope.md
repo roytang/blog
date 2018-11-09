@@ -1,13 +1,15 @@
 ---
-title: 'Jobless: Is there even any hope?'
 author: Roy
-type: post
-date: 2002-04-28T04:00:10+00:00
-url: /2002/04/jobless-is-there-even-any-hope/
 categories:
-  - Job Hunting
-
+- Just Another Day
+date: 2002-04-28 04:00:10
+tags:
+- Job Hunting
+title: 'Jobless: Is there even any hope?'
+type: post
+url: /2002/04/jobless-is-there-even-any-hope/
 ---
+
 I stood there wordlessly, inching my way through the unending mass of people. There must have been several hundred people crammed into less than two hundred square meters of mall area, interspersed with some twenty cubicles filled with various displays and banners. What madness is this you ask? What product could be so enticing that hundreds of otherwise sane people to participate in such a gathering, jostling for space and risking being elbowed, stepped on or maybe even pick pocketed? The answer was employment. That most important symptom of security that people crave especially in tough times such as these.
 
 Yes, my friends, it is a job fair. Hopeful job-seekers from all over the capital converge upon this establishment in the commercial district and hope to find gainful opportunities in these otherwise difficult times. I am one of such hopefuls. Weaving amongst the crowd and perusing various company paraphernalia, I search for the perfect job for one of my skills.

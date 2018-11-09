@@ -1,13 +1,13 @@
 ---
-title: Adventures in Linux-land, part 2
 author: Roy
-type: post
-date: 2006-02-26T05:03:09+00:00
-url: /2006/02/adventures-in-linux-land-part-2/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2006-02-26 05:03:09
+title: Adventures in Linux-land, part 2
+type: post
+url: /2006/02/adventures-in-linux-land-part-2/
 ---
+
 [
   
 Previously][1]: I installed Kubuntu, but failed to get the internet working.

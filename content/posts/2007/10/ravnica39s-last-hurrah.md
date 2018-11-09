@@ -1,13 +1,13 @@
 ---
-title: Ravnica’s Last Hurrah
 author: roy
-type: post
-date: 2007-10-13T02:00:22+00:00
-url: /2007/10/ravnica39s-last-hurrah/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2007-10-13 02:00:22
+title: "Ravnica's Last Hurrah"
+type: post
+url: /2007/10/ravnica39s-last-hurrah/
 ---
+
 I wasn&#8217;t too keen on playing, but that Dark Confidant kept whispering at me to give him one more chance. Rakdos again, except I removed Martyr of Ashes from the board and put in Avalanche Riders to help the terrible Angelfire matchup.
 
 Round 1: 2-1 win vs BWR Slivers

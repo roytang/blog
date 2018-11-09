@@ -1,13 +1,13 @@
 ---
-title: Above Average
 author: roy
-type: post
-date: 2008-06-01T00:35:45+00:00
-url: /2008/06/above-average/
 categories:
-  - Self-Improvement
-
+- Self-Improvement
+date: 2008-06-01 00:35:45
+title: Above Average
+type: post
+url: /2008/06/above-average/
 ---
+
 Above average &#8211; a level of competency at a given subject such that:
 
   1. You are good enough that average people look at your work and tell you &#8220;You&#8217;ve got a lot of talent!&#8221;

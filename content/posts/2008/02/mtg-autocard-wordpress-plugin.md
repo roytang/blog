@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2008-02-10 15:18:23
 title: MTG Autocard WordPress Plugin
 type: post
-date: 2008-02-10T15:18:23+00:00
 url: /2008/02/mtg-autocard-wordpress-plugin/
-categories:
-  - Software Development
-
 ---
+
 I had been planning to do this for a while: it&#8217;s my first WordPress Plugin! Over at
    
 [

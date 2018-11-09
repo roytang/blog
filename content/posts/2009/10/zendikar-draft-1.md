@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-10-27 13:24:36
 title: 'Zendikar Draft #1'
 type: post
-date: 2009-10-27T13:24:36+00:00
 url: /2009/10/zendikar-draft-1/
-categories:
-  - Magic the Gathering
-
 ---
+
 I was able to chain a sealed event into a number of drafts this weekend. Here&#8217;s one of my better drafts:
 
 

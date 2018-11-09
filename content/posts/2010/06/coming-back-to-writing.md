@@ -1,13 +1,13 @@
 ---
-title: Coming Back to Writing
 author: Roy
-type: post
-date: 2010-06-07T00:03:21+00:00
-url: /2010/06/coming-back-to-writing/
 categories:
-  - Writing
-
+- Writing
+date: 2010-06-07 00:03:21
+title: Coming Back to Writing
+type: post
+url: /2010/06/coming-back-to-writing/
 ---
+
 So the other day I was watching a video of [Scott Berkun][1]&#8216;s talk about the future of WordPress:
 
 <embed title="Scott Berkun: WordPress in 2020" src="http://v.wordpress.com/wp-content/plugins/video/flvplayer.swf?ver=1.21" type="application/x-shockwave-flash" width="400" height="224">

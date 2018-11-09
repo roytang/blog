@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2006-11-11 07:51:30
 title: 2006-11-11 Standard Constructed @ NG Galleria
 type: post
-date: 2006-11-11T07:51:30+00:00
 url: /2006/11/2006-11-11-standard-constructed-ng-galleria/
-categories:
-  - Magic the Gathering
-
 ---
+
 Same deck as
    
 [

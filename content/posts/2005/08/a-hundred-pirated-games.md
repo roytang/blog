@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2005-08-14 09:40:00
 title: A hundred pirated games
 type: post
-date: 2005-08-14T09:40:00+00:00
 url: /2005/08/a-hundred-pirated-games/
-categories:
-  - Gaming
-
 ---
+
 My brother estimates we have at least a hundred pirated copies of PS2 games. (Please don&#8217;t lecture me in any way on piracy, I&#8217;ve said
    
 [

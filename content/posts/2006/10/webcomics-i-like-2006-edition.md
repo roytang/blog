@@ -1,13 +1,13 @@
 ---
-title: Webcomics I Like, 2006 Edition
 author: Roy
-type: post
-date: 2006-10-03T13:06:40+00:00
-url: /2006/10/webcomics-i-like-2006-edition/
 categories:
-  - Links
-
+- Links
+date: 2006-10-03 13:06:40
+title: Webcomics I Like, 2006 Edition
+type: post
+url: /2006/10/webcomics-i-like-2006-edition/
 ---
+
 I don&#8217;t really read a lot of webcomics. Well, at least not as many as some people. I generally prefer the ones with feeds. Here are the ones I follow that don&#8217;t have feeds. That is, I like them well enough to bother hitting their website to check for new comics.
 
 [Sinfest

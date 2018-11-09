@@ -1,13 +1,13 @@
 ---
-title: GMail Redesigned
 author: Roy
-type: post
-date: 2008-07-21T07:27:37+00:00
-url: /2008/07/gmail-redesigned/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2008-07-21 07:27:37
+title: GMail Redesigned
+type: post
+url: /2008/07/gmail-redesigned/
 ---
+
 I came across the [Stylish Firefox Extension][1], and the [GMail Redesigned
   
 ][2]  project, which gives the GMail user interface a sleek facelift.

@@ -1,13 +1,15 @@
 ---
-title: 'Comics: Ctrl Alt Del – Tragically l337'
 author: roy
-type: post
-date: 2005-02-01T14:45:31+00:00
-url: /2005/02/comics-ctrl-alt-del-tragically-l337/
 categories:
-  - Comics
-
+- Pop Culture
+date: 2005-02-01 14:45:31
+tags:
+- Comics
+title: "Comics: Ctrl Alt Del \xE2\u20AC\u201C Tragically l337"
+type: post
+url: /2005/02/comics-ctrl-alt-del-tragically-l337/
 ---
+
 [
   
 Ctrl Alt Del &#8211; Tragically l337

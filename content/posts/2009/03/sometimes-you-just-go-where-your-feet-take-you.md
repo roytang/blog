@@ -1,14 +1,14 @@
 ---
-title: Sometimes You Just Go Where Your Feet Take You
 author: Roy
-type: post
-date: 2009-03-15T08:11:47+00:00
-url: /2009/03/sometimes-you-just-go-where-your-feet-take-you/
 categories:
-  - Just Another Day
-  - Travels
-
+- Just Another Day
+- Travels
+date: 2009-03-15 08:11:47
+title: Sometimes You Just Go Where Your Feet Take You
+type: post
+url: /2009/03/sometimes-you-just-go-where-your-feet-take-you/
 ---
+
 **It&#8217;s 8:30 pm on Friday.** I step out of Maxim&#8217;s, a fastfood place near the office in Hong Kong. I flew in to HK the morning of the day before, and had given a presentation over a conference call on Thursday night. This was the only free time I had during the entire trip since I had to fly back the next morning. I decided to take a walk for maybe an hour or 30 minutes, to savor the cool night&#8217;s weather before going back to hot and humid Manila the next day.
 
 I remember the view from the 22nd floor office that the harbor was nearby. I figured I should get a closeup view of the harbor, something I had not done before. So I walked in the general direction of where I thought the water would be. The chilly wind of fourteen degrees bit against my cheeks as I navigated the North Point side streets.

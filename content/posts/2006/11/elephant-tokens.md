@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2006-11-04 08:34:48
 title: Elephant Tokens
 type: post
-date: 2006-11-04T08:34:48+00:00
 url: /2006/11/elephant-tokens/
-categories:
-  - Magic the Gathering
-
 ---
+
 <p style="float: right; margin-left: 10px; margin-bottom: 10px">
   <a href="http://www.flickr.com/photos/65204400@N00/288525040/" title="photo sharing"><br /> <img src="http://static.flickr.com/99/288525040_ba2ad3c65b_m.jpg" style="border: 2px solid #000000" /><br /> </a>
 </p>

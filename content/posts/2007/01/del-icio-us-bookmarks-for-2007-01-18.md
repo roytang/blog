@@ -1,14 +1,14 @@
 ---
-title: Del.icio.us bookmarks for 2007-01-18
 author: Roy
-type: post
-date: 2007-01-19T01:37:55+00:00
-url: /2007/01/del-icio-us-bookmarks-for-2007-01-18/
 categories:
-  - Links
+- Links
+date: 2007-01-19 01:37:55
 format: link
-
+title: Del.icio.us bookmarks for 2007-01-18
+type: post
+url: /2007/01/del-icio-us-bookmarks-for-2007-01-18/
 ---
+
 Daily delicious plugin broken down, this is being generated manually.
 
 But I heard that delicious now supports this functionality directly&#8230;

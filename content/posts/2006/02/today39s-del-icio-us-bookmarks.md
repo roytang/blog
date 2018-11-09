@@ -1,14 +1,14 @@
 ---
-title: Today’s del.icio.us bookmarks
 author: Roy
-type: post
-date: 2006-02-19T00:00:02+00:00
-url: /2006/02/today39s-del-icio-us-bookmarks/
 categories:
-  - Links
+- Links
+date: 2006-02-19 00:00:02
 format: link
-
+title: "Today's del.icio.us bookmarks"
+type: post
+url: /2006/02/today39s-del-icio-us-bookmarks/
 ---
+
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-19
 
   *  [How to Interview a Programmer][3]

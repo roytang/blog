@@ -1,15 +1,15 @@
 ---
-title: Thirty One
 author: Roy
-type: post
-date: 2009-08-09T12:43:04+00:00
-url: /2009/08/thirty-one/
 categories:
-  - Just Another Day
+- Just Another Day
+date: 2009-08-09 12:43:04
 tags:
-  - birthday
-
+- birthday
+title: Thirty One
+type: post
+url: /2009/08/thirty-one/
 ---
+
 Days seem to fly by at such an unforgiving pace. Has it really been thirty-one years now?
 
 I have a lot to be thankful for the past thirty-one years. Family, friends and other wonderful people that provide love and support; a roof over my head, three square meals a day minimum and a nice, stable and well-paying job. For all of these, I am thankful.

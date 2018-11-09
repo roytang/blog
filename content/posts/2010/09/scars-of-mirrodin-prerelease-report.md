@@ -1,18 +1,18 @@
 ---
-title: Scars of Mirrodin Prerelease Report!
-author: roy
-type: post
-date: 2010-09-25T23:40:14+00:00
-url: /2010/09/scars-of-mirrodin-prerelease-report/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2010-09-25 23:40:14
 tags:
-  - Limited
-  - tournament-report
-
+- Limited
+- tournament-report
+title: Scars of Mirrodin Prerelease Report!
+type: post
+url: /2010/09/scars-of-mirrodin-prerelease-report/
 ---
+
 I haven&#8217;t written a tournament report in a while (maybe because I&#8217;ve been playing rather poorly lately? =/), but Prereleases are always fun right? Here&#8217;s my Scars of Mirrodin prerelease report!
 
 The first hour was spent waiting in an unbearably hot basement area for the 8th player on our table to register his sealed pool. What? yeah, he was late, and the event started early so the airconditioning was not yet on. Sad face.

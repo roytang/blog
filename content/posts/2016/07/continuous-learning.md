@@ -1,13 +1,13 @@
 ---
-title: Continuous Learning
 author: roy
-type: post
-date: 2016-07-05T01:30:50+00:00
-url: /2016/07/continuous-learning/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-07-05 01:30:50
+title: Continuous Learning
+type: post
+url: /2016/07/continuous-learning/
 ---
+
 During my adult life, I&#8217;ve tried to learn or at least expose myself to one new skill or programming language every year. For example, over the past year or so I&#8217;ve been studying, dabbling, or trying out the following: game development using Unity, technical analysis of stocks, Spanish, driving a car, and even some simple cooking! I&#8217;ve also been regularly practicing to improve my skills in writing and sketching. I probably even forgot a few things I&#8217;ve tried to learn. I also have a backlog of programming languages and frameworks I&#8217;ve been wanting to learn and/or try out.
 
 There can be a tendency for some people, especially those tired of formal education, to fall into the trap of thinking that once they become adults they no longer need to learn new things or improve their skills, but an attitude towards continuous learning and improvement pushes us towards more fulfilling lives.

@@ -1,13 +1,13 @@
 ---
-title: Rethinking Facebook
 author: roy
-type: post
-date: 2018-03-29T01:00:11+00:00
-url: /2018/03/rethinking-facebook/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2018-03-29 01:00:11
+title: Rethinking Facebook
+type: post
+url: /2018/03/rethinking-facebook/
 ---
+
 There&#8217;s been a recent brouhaha lately over Facebook&#8217;s data privacy issues after the Cambridge Analytica scandal came out. For a while, a #DeleteFacebook hashtag even made the rounds. I will admit that I had been considering reducing my own Facebook usage for a while, but not because of any data privacy issues.
 
 While I understand that Facebook probably mishandled private data and that this is a serious concern for a lot of people and even for society at large. It&#8217;s just that it&#8217;s not that much of an issue for me personally because of reasons:

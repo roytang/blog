@@ -1,13 +1,13 @@
 ---
-title: What Am I Doing Now?
 author: roy
-type: post
-date: 2010-07-23T07:16:32+00:00
-url: /2010/07/what-am-i-doing-now/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2010-07-23 07:16:32
+title: What Am I Doing Now?
+type: post
+url: /2010/07/what-am-i-doing-now/
 ---
+
 I get asked this a lot since I&#8217;m not currently working. I never get to answer clearly, so here&#8217;s an attempt.
 
 The short answer is: **Whatever I want**

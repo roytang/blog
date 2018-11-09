@@ -1,14 +1,15 @@
 ---
-title: The Rise and Fall of the Final Fantasy Forum
 author: roy
-type: post
-date: 2018-10-16T13:00:51+00:00
-url: /2018/10/the-rise-and-fall-of-the-final-fantasy-forum/
 categories:
-  - Nostalgia
-  - Tech Life
-
+- Tech Life
+date: 2018-10-16 13:00:51
+tags:
+- Nostalgia
+title: The Rise and Fall of the Final Fantasy Forum
+type: post
+url: /2018/10/the-rise-and-fall-of-the-final-fantasy-forum/
 ---
+
 This is a story from the early days of the internet. Circa 2001-2004ish. A time of Geocities and AIM and and ICQ and from before Gmail even launched.
 
 At that time, I was a big Final Fantasy fan (okay, I still am, more or less). My first real experience with online fan communities was a Yahoo Groups mailing list called the &#8220;Final Fantasy Forum&#8221;. It was a fun, tight-knit group that loved to discuss the FF series and other JRPGs of that era. The group was small, maybe 20-30 active members at peak, but it was also very active; it was not uncommon to have dozens of messages in a day, or even an hour. This was back in the days of dial-up internet here in the PH, so it was a bit challenging to keep up.

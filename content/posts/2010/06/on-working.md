@@ -1,14 +1,14 @@
 ---
-title: On Working
 author: Roy
-type: post
-date: 2010-06-22T16:05:11+00:00
-url: /2010/06/on-working/
 categories:
-  - Just Another Day
-  - Opinions
-
+- Just Another Day
+- Opinions
+date: 2010-06-22 16:05:11
+title: On Working
+type: post
+url: /2010/06/on-working/
 ---
+
 I&#8217;ve been meaning to write about why I quit a perfectly good job I had at [Azeus][1], but it&#8217;s been hard to articulate the reasons, in the same way I found it hard to explain to people why I didn&#8217;t feel a corporate &#8220;9 to 5&#8221; was entirely necessary at this point. Then I read a blog post today &#8220;[Why I Quit A Six Figure Job][2]&#8221; which I found to express/coincide with my thoughts pretty well on the upsides and downsides of having a job.
 
 When I started working in 2003 I was young and inexperienced and had no idea what sort of things should be planned out in life. For the first four years of my stay there I worked hard, the job was awesome, I was working with terrific people, I was learning a lot and the paycheck was great. Somewhere around late 2006 I completed my first largish project as technical lead and I felt we had pulled it off quite well.

@@ -1,13 +1,13 @@
 ---
-title: Boxes
 author: roy
-type: post
-date: 2017-02-28T01:30:33+00:00
-url: /2017/02/boxes/
 categories:
-  - Opinions
-
+- Opinions
+date: 2017-02-28 01:30:33
+title: Boxes
+type: post
+url: /2017/02/boxes/
 ---
+
 We put people into boxes because it is convenient. It&#8217;s easier for our mental model of the world to say to yourself things like &#8220;This guy works with computers, maybe he can tell me how to fix my printer.&#8221; or &#8220;This person is from [school] and they are very arrogant.&#8221; or &#8220;You&#8217;re from [country]? You guys do [that country&#8217;s thing] right?&#8221; or  &#8220;This person is a supporter of [politician] so he must support all the things that politician does, even the things I hate.&#8221; Or in the modern world, there are even worse stereotypes.
 
 Boxes and stereotypes are convenient because it means we don&#8217;t need to relearn our reactions and opinions when presented with a new person. We simply choose a convenient box to put them in and then we convince ourselves we are treating them appropriately.

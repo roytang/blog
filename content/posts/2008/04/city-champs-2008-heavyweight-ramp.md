@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-04-03 06:51:58
 title: 'City Champs 2008: Heavyweight Ramp'
 type: post
-date: 2008-04-03T06:51:58+00:00
 url: /2008/04/city-champs-2008-heavyweight-ramp/
-categories:
-  - Magic the Gathering
-
 ---
+
 The tournament was held last 29-March at Neutral Grounds Galleria. The format was Standard and my deck was Heavyweight Ramp. 256 people, 9 rounds (!)
  
   

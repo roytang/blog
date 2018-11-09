@@ -1,13 +1,13 @@
 ---
-title: Simplicity
 author: Roy
-type: post
-date: 2007-04-12T07:44:19+00:00
-url: /2007/04/simplicity/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2007-04-12 07:44:19
+title: Simplicity
+type: post
+url: /2007/04/simplicity/
 ---
+
 At work, especially during assessment time, they often ask me if I have any concerns or needs or suggestions that I want to raise to management. And I never have any answers.
 
 So I thought about it today, and I realized why I seldom have complaints: I&#8217;m a simple person. It doesn&#8217;t take much to make me happy, and I figure I&#8217;m already ahead of the curve anyway. I have a fairly good paycheck, I like my job (more or less), I like the people I work with, and they recognize and respect me for my contributions.

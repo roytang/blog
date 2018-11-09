@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-09-04 05:45:49
 title: Grand Prix Manila Grinders and Day One Decks
 type: post
-date: 2008-09-04T05:45:49+00:00
 url: /2008/09/grand-prix-manila-grinders-and-day-one-decks/
-categories:
-  - Magic the Gathering
-
 ---
+
 Grand Prix Manila 08 has come and gone and is in the history books. While the
    
 [

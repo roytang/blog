@@ -1,12 +1,12 @@
 ---
-title: Games – World of Warcraft
-type: post
-date: 2005-09-08T00:17:00+00:00
-url: /2005/09/games-world-of-warcraft/
 categories:
-  - Gaming
-
+- Gaming
+date: 2005-09-08 00:17:00
+title: "Games \xE2\u20AC\u201C World of Warcraft"
+type: post
+url: /2005/09/games-world-of-warcraft/
 ---
+
 It may very well have been a mistake. Buying and installing World of Warcraft on the first day of my leave, that is. Now I spend some 3-4 hours daily on the addictive beast. It&#8217;s hard to stop! 
 
 In case you haven&#8217;t heard, World of Warcraft is Blizzard&#8217;s MMORPG take on it&#8217;s famous RTS series, and it&#8217;s one helluva good game. It looks excellent, the gameplay is terrific, people don&#8217;t seem to be assholes, etc. The only real downside is that it&#8217;s hard to stop playing! 

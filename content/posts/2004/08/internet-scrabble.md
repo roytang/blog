@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-08-29 06:25:54
 title: Internet Scrabble!
 type: post
-date: 2004-08-29T06:25:54+00:00
 url: /2004/08/internet-scrabble/
-categories:
-  - Gaming
-
 ---
+
 For some reason, I keep looking for
    
 [

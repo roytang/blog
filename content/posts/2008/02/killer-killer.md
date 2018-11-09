@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2008-02-14 08:02:49
 title: Killer-killer
 type: post
-date: 2008-02-14T08:02:49+00:00
 url: /2008/02/killer-killer/
-categories:
-  - Gaming
-
 ---
+
 During a recent out-of-town trip I observed that despite the abundance of digital entertainment available (what with all the NDS and PSP owners bringing the goods, not to mention some people bringing a Wii), some people still got together to play some face-to-face IRL games. I&#8217;m talking the types of games that are not easily translatable into digital format and will probably remain so for quite a while.
 
 One such game is known locally as &#8220;Killer-killer&#8221;. Obviously a local name due to the Filipino&#8217;s penchant for repeating words in a single term, I have no idea if it is known by other names elsewhere or if it exists outside this country at all. (As you can imagine, &#8220;Killer-killer&#8221; is not a very easy search term.) For the purposes of posterity, I will record the details of the game here.

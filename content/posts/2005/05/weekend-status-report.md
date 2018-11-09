@@ -1,13 +1,13 @@
 ---
-title: Weekend Status Report
 author: Roy
-type: post
-date: 2005-05-02T09:41:00+00:00
-url: /2005/05/weekend-status-report/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2005-05-02 09:41:00
+title: Weekend Status Report
+type: post
+url: /2005/05/weekend-status-report/
 ---
+
 I only had three tasks laid out for me this weekend:
 
 1. Watch season 4 of X-men Evolution. I realize that X-men Evo was not as popular as some of the other superhero series such as Justice League and Teen Titans, but I mostly like it anyway. It&#8217;s more of a light-hearted version of the X-men universe , really. (Presidential hopeful Senator Kelly of canon is merely Mayoral hopeful Principal Kelly here!) It gets campy at times, but hey, Adam West&#8217;s Batman was the epitome of campiness, and I enjoyed that too. This task was successfully accomplished.

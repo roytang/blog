@@ -1,14 +1,16 @@
 ---
-title: Michael Scott
 author: roy
-type: post
-date: 2018-10-26T03:00:01+00:00
-url: /2018/10/michael-scott/
 categories:
-  - Just Another Day
-  - TV Series
-
+- Just Another Day
+- Pop Culture
+date: 2018-10-26 03:00:01
+tags:
+- TV Series
+title: Michael Scott
+type: post
+url: /2018/10/michael-scott/
 ---
+
 I&#8217;ve been re-watching The Office (US) lately (it&#8217;s a good show to leave running in the background while you&#8217;re doing other stuff), and I just find the character of Michael Scott fascinating. He&#8217;s funny and well-written and basically just a big bag of human flaws that somehow bumbles his way into managing an office. He&#8217;s self-centered, attention-hungry, easily distracted, and refuses to acknowledge any bad news, yet despite all of that he loves his workmates like a family.  
 <figure class="wp-block-image">
 

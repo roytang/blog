@@ -1,14 +1,15 @@
 ---
-title: 'Review: Persona 5 (You Never Saw It Coming)'
 author: roy
-type: post
-date: 2017-06-10T01:30:38+00:00
-url: /2017/06/review-persona-5-you-never-saw-it-coming/
 categories:
-  - Gaming
-  - Review
-
+- Gaming
+date: 2017-06-10 01:30:38
+tags:
+- Review
+title: 'Review: Persona 5 (You Never Saw It Coming)'
+type: post
+url: /2017/06/review-persona-5-you-never-saw-it-coming/
 ---
+
 My first Persona game was Persona 4 Golden on the Vita &#8211; a fantastic game. After that I dived into Persona 3 Portable and eventually the spin-off games Persona 4 Arena (and Ultimax) and Persona Q on 3DS. So it was no surprise that one of the game releases I was most looking forward to this year would be the next numbered game in the series: Persona 5 on the Playstation 4.
 
 Like P4G before it, the focus is on the school life of a young man forced into a new environment, interspersed with some good old JRPG dungeon crawling. You meet a ragtag group of misfits and somehow band together to save all of Japanese society from itself. Or something to that extent. This is just an excuse to dump some screens of P5, so let&#8217;s get that out of the way.<figure id="attachment_1957" style="width: 1835px" class="wp-caption aligncenter">

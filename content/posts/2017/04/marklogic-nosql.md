@@ -1,13 +1,13 @@
 ---
-title: MarkLogic NoSQL
 author: roy
-type: post
-date: 2017-04-06T01:30:33+00:00
-url: /2017/04/marklogic-nosql/
 categories:
-  - Software Development
-
+- Software Development
+date: 2017-04-06 01:30:33
+title: MarkLogic NoSQL
+type: post
+url: /2017/04/marklogic-nosql/
 ---
+
 <div class="" data-block="true" data-editor="f4n2s" data-offset-key="499pb-0-0">
   <span class="hardreadability"><span data-offset-key="95h4t-0-0">I recently attended a few training sessions for </span></span><a href="http://www.marklogic.com/"><span data-offset-key="95h4t-1-0">MarkLogic</span></a><span class="hardreadability"><span data-offset-key="95h4t-2-0"> held at an office in a nearby business center</span></span><span data-offset-key="95h4t-3-0">. Now, I&#8217;ll forgive you for not knowing what MarkLogic is, as even I hadn&#8217;t heard of it before six months ago. MarkLogic is (</span><span class="adverb"><span data-offset-key="95h4t-4-0">apparently</span></span><span data-offset-key="95h4t-5-0">) the leading Enterprise NoSQL provider.</span>
 </div>

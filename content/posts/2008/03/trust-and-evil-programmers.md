@@ -1,13 +1,13 @@
 ---
-title: Trust and Evil Programmers
 author: Roy
-type: post
-date: 2008-03-07T17:56:19+00:00
-url: /2008/03/trust-and-evil-programmers/
 categories:
-  - Software Development
-
+- Software Development
+date: 2008-03-07 17:56:19
+title: Trust and Evil Programmers
+type: post
+url: /2008/03/trust-and-evil-programmers/
 ---
+
 Never give out any of your confidential usernames and passwords to programs or services that you do not trust completely. This may be a bit obvious to the more tech-savvy, but everybody has to watch out. Luckily, there are even some programmers who are able to catch the work of evil programmers.
   
 [

@@ -1,13 +1,13 @@
 ---
-title: Type Interfaces Matter
 author: roy
-type: post
-date: 2016-09-29T01:30:42+00:00
-url: /2016/09/type-interfaces-matter/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-09-29 01:30:42
+title: Type Interfaces Matter
+type: post
+url: /2016/09/type-interfaces-matter/
 ---
+
 &#8230;especially for strongly-typed languages.
 
 In one of the bigger Java projects that I took over, I was often annoyed to find some devs had written method signatures like

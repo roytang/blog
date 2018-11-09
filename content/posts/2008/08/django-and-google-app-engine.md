@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2008-08-25 04:37:43
 title: Django and Google App Engine
 type: post
-date: 2008-08-25T04:37:43+00:00
 url: /2008/08/django-and-google-app-engine/
-categories:
-  - Software Development
-
 ---
+
 In my continuing quest to become better than everybody else, I spent some time today learning
    
 [

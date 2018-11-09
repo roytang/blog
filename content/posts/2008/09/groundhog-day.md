@@ -1,13 +1,15 @@
 ---
-title: Groundhog Day
 author: Roy
-type: post
-date: 2008-09-07T03:41:45+00:00
-url: /2008/09/groundhog-day/
 categories:
-  - Movies
-
+- Pop Culture
+date: 2008-09-07 03:41:45
+tags:
+- Movies
+title: Groundhog Day
+type: post
+url: /2008/09/groundhog-day/
 ---
+
 I caught Groundhog Day for the Nth time today on HBO (N roughly around 50). My father claims it&#8217;s his favorite movie of all time; high praise considering he watches every movie that comes out EVER. I&#8217;m not actually going to talk about the movie; it&#8217;s awesome, if you haven&#8217;t seen it, you should. You&#8217;re missing half your life.
 
 If you had one day of eternity, what would you do?

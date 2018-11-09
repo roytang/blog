@@ -1,13 +1,13 @@
 ---
-title: Evaluation of Programmer Performance
 author: roy
-type: post
-date: 2016-07-28T01:30:03+00:00
-url: /2016/07/evaluation-of-programmer-performance/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-07-28 01:30:03
+title: Evaluation of Programmer Performance
+type: post
+url: /2016/07/evaluation-of-programmer-performance/
 ---
+
 Evaluation of programmer performance is notoriously hard. You want to be accurate and at the same time fair such that all programmers on your staff are evaluated in the same matter. However, there are no good, objective, universally accepted standard metrics.
 
 It follows from the fact that there are no good, objective, universally accepted standard metrics for program size. Typically each programmer in a team will not be doing the same task or even the same type of task, so in order to produce fair evaluations you will need some standard metric of program size to normalize any evaluation. For example, you could choose to use code quality (bugs) as a metric for programmer performance, but not every programmer is assigned to do the same complexity of programs and some modules may be more poorly designed than others resulting in more bugs.

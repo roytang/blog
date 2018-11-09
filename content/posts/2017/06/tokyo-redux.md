@@ -1,13 +1,13 @@
 ---
-title: Tokyo, Redux
 author: roy
-type: post
-date: 2017-06-13T01:30:29+00:00
-url: /2017/06/tokyo-redux/
 categories:
-  - Travels
-
+- Travels
+date: 2017-06-13 01:30:29
+title: Tokyo, Redux
+type: post
+url: /2017/06/tokyo-redux/
 ---
+
 So last April my friends and I took a second trip to Japan. This time we mostly stayed around Tokyo, while taking a few days off in-between to visit Fuji, Hakone and Nikko.<figure id="attachment_1983" style="width: 2048px" class="wp-caption aligncenter">
 
 [<img class="size-full wp-image-1983" src="http://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1.jpg" alt="" width="2048" height="1152" srcset="https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1.jpg 2048w, https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1-1200x675.jpg 1200w" sizes="(max-width: 2048px) 100vw, 2048px" />][1]<figcaption class="wp-caption-text">I went to Fuji, but that&#8217;s not in Tokyo!</figcaption></figure> 

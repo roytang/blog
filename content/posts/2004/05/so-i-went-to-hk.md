@@ -1,13 +1,13 @@
 ---
-title: So I Went to HK…
 author: Roy
-type: post
-date: 2004-05-12T11:14:42+00:00
-url: /2004/05/so-i-went-to-hk/
 categories:
-  - Travels
-
+- Travels
+date: 2004-05-12 11:14:42
+title: "So I Went to HK\xE2\u20AC\xA6"
+type: post
+url: /2004/05/so-i-went-to-hk/
 ---
+
 As I&#8217;ve mentioned [before][1], I was sent to HK a couple of weeks back, for the rollout of a project I&#8217;ve been involved with for about a year and a half. I&#8217;m not sure if it&#8217;s right for me to be talking about the project here, so I won&#8217;t delve into any specifics. I will however, bore you all with stories from my first trip anywhere remotely far from home.
 
 First, the plane trip. Economy class (excuse me, fiesta class) on a PAL Airbus from NAIA2 to HK International on Thursday night. Food was okay, I&#8217;ve had worse, not really enough to turn me off airline food. The PAL flight attendants, as I later discussed with a male coworker, were quite not-young and, well, not-hot. Heh, probably unfair but you get a certain expectation from media, you know? The flight was short (less than two hours) and uneventful, no dizziness or pukathons for me, thanks, unlike when I take the eight-hour bus ride to Bicol. This may seem boring to seasoned fliers, but I liked that little map that told me at what location we were currently flying over. Neat!

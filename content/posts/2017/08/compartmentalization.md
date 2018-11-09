@@ -1,16 +1,16 @@
 ---
-title: Compartmentalization
 author: roy
+categories:
+- Just Another Day
+- Self-Improvement
+date: 2017-08-12 01:30:05
+title: Compartmentalization
 type: post
-date: 2017-08-12T01:30:05+00:00
 url: /2017/08/compartmentalization/
 yuzo_related_post_metabox:
-  - 'a:1:{s:21:"yuzo_disabled_related";N;}'
-categories:
-  - Just Another Day
-  - Self-Improvement
-
+- a:1:{s:21:"yuzo_disabled_related";N;}
 ---
+
 <div class="" data-block="true" data-editor="2b9ka" data-offset-key="6mhs1-0-0">
   <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="6mhs1-0-0">
     <span data-offset-key="ctdlb-5-0">I had been looking into a software performance problem for a few hours now and had decided to call it quits for the day. I turned off the lights and climbed into bed, hoping to get to sleep early for a change. I hadn&#8217;t been in bed five minutes when I thought about something I hadn&#8217;t tried yet. I picked up the tablet that was beside my bed and did a few google searches and soon I was back on my desktop trying out some parameters I hadn&#8217;t tried yet.</p> 

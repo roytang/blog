@@ -1,13 +1,13 @@
 ---
-title: Every Wednesday is Hotdog Day!
 author: Roy
-type: post
-date: 2008-10-15T05:05:14+00:00
-url: /2008/10/every-wednesday-is-hotdog-day/
 categories:
-  - Meta
-
+- Meta
+date: 2008-10-15 05:05:14
+title: Every Wednesday is Hotdog Day!
+type: post
+url: /2008/10/every-wednesday-is-hotdog-day/
 ---
+
 Actually, I&#8217;m writing this post to test comments on the blog, which someone has reported to be currently borken. See ya in the comments.
 
 ## Comments

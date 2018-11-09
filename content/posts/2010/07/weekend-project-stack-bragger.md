@@ -1,13 +1,13 @@
 ---
-title: 'Weekend Project: Stack Bragger'
 author: roy
-type: post
-date: 2010-07-21T07:00:55+00:00
-url: /2010/07/weekend-project-stack-bragger/
 categories:
-  - Software Development
-
+- Software Development
+date: 2010-07-21 07:00:55
+title: 'Weekend Project: Stack Bragger'
+type: post
+url: /2010/07/weekend-project-stack-bragger/
 ---
+
 <img class="alignnone" title="Sample Post" src="http://stackfb.appspot.com/static/sample-post.png" alt="" width="488" height="141" />
 
 Stack Bragger lets you brag to your Facebook friends whenever you ask new questions or earn new badges at StackOverflow, SuperUser or ServerFault.

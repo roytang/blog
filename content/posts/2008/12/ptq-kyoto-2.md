@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-12-27 08:56:32
 title: PTQ Kyoto 2
 type: post
-date: 2008-12-27T08:56:32+00:00
 url: /2008/12/ptq-kyoto-2/
-categories:
-  - Magic the Gathering
-
 ---
+
 The last limited tournament of the season, it was last week, December 20 at Robinson&#8217;s Galleria. The format was Shards of Alara sealed deck. For once, I opened a pretty good pool. Unfortunately, I failed to make the follow through. Decklist and (short) tournament report follows.
 
 <div class="decklist">

@@ -1,17 +1,17 @@
 ---
-title: Kuala Lumpur and the MTG25A RPTQ
 author: roy
-type: post
-date: 2018-06-16T01:00:49+00:00
-url: /2018/06/kuala-lumpur-and-the-mtg25a-rptq/
 categories:
-  - Magic the Gathering
-  - Travels
+- Magic the Gathering
+- Travels
+date: 2018-06-16 01:00:49
 tags:
-  - standard
-  - tournament-report
-
+- standard
+- tournament-report
+title: Kuala Lumpur and the MTG25A RPTQ
+type: post
+url: /2018/06/kuala-lumpur-and-the-mtg25a-rptq/
 ---
+
 I had an out of country trip last weekend to Kuala Lumpur to play Magic, but I was a bit tempted to not write about it all. The reason being that inevitably after one of these MTG-related trips the first thing people ask me is _&#8220;Nanalo ka ba?&#8221;_ (Did you win?) and this time, the answer was sadly no. (Let&#8217;s get the spoilers out of the way early shall we.) However, I realized that not all stories have to have happy endings. Sometimes the journey itself is the story.
 
 Besides, it was my first trip ever to Malaysia, and as I like to use this blog to remember past events, it&#8217;s probably a good idea to write a little bit about it. If you&#8217;re here just to get my opinions on Malaysia and want to skip the MTG bits here you go:

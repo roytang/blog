@@ -1,13 +1,13 @@
 ---
-title: Stompy
 author: Roy
-type: post
-date: 2003-11-17T14:36:19+00:00
-url: /2003/11/stompy/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2003-11-17 14:36:19
+title: Stompy
+type: post
+url: /2003/11/stompy/
 ---
+
 I&#8217;m alive, I think.
 
 * * *

@@ -1,13 +1,13 @@
 ---
-title: Transition to 2009
 author: Roy
-type: post
-date: 2008-12-25T15:29:14+00:00
-url: /2008/12/transition-to-2009/
 categories:
-  - Meta
-
+- Meta
+date: 2008-12-25 15:29:14
+title: Transition to 2009
+type: post
+url: /2008/12/transition-to-2009/
 ---
+
 Well, it&#8217;s a bit early. But if you&#8217;re reading this then I&#8217;ve successfully migrated the roytang.net website to a new host. See you after the jump!
 
 Merry Christmas!

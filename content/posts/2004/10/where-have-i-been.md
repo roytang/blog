@@ -1,13 +1,13 @@
 ---
-title: Where Have I Been…
 author: Roy
-type: post
-date: 2004-10-17T06:05:10+00:00
-url: /2004/10/where-have-i-been/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2004-10-17 06:05:10
+title: "Where Have I Been\xE2\u20AC\xA6"
+type: post
+url: /2004/10/where-have-i-been/
 ---
+
 Well the week before was supposedly preparation for the JITSE (although I think a lot more time was spent on SF3&#8230;) And this week, there was a lot of overtime to be had (quite a bit of food too).
 
 Oh, and I&#8217;ve been having medical problems apparently; After some days of experiencing dizziness, I had myself a check up (free! I now think company-sponsored health care is cool :D) at Clinica Manila in Megamall. After some blood tests and stuff, I found out some bad things:

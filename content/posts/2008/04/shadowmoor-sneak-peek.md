@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-04-26 22:42:32
 title: Shadowmoor Sneak Peek
 type: post
-date: 2008-04-26T22:42:32+00:00
 url: /2008/04/shadowmoor-sneak-peek/
-categories:
-  - Magic the Gathering
-
 ---
+
 In the Philippines, the Sneak Peak serves as our release party, and the format is the same as the prerelease: Four rounds of sealed, each win gets you a Shadowmoor booster pack. 4-0 wins a Shadowmoor deck box.
 
 The sealed pool I opened and registered was a mediocre pile with limited removal and rares like Rage Reflection, Reaper King, Vexing Shusher and Demigod of Revenge. This not being the prerelease, the pools were shuffled around after registration.

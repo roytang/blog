@@ -1,14 +1,14 @@
 ---
-title: Even more ramblings about the elections
 author: roy
-type: post
-date: 2013-05-01T14:36:26+00:00
-url: /2013/05/even-more-ramblings-about-the-elections/
 categories:
-  - Just Another Day
-  - Opinions
-
+- Just Another Day
+- Opinions
+date: 2013-05-01 14:36:26
+title: Even more ramblings about the elections
+type: post
+url: /2013/05/even-more-ramblings-about-the-elections/
 ---
+
 It&#8217;s easy to blame the poor, the masses for voting into power devious politicians, the corrupt, those with no track record, political dynasties based on money, survey results, name recognition or who has the most giveaways. But take a look at the number of decisions that have to be made when you go vote in an election (let&#8217;s say it&#8217;s also a presidential election so that we have a complete view):
 
   * You need to choose a president out of maybe 6-8 candidates

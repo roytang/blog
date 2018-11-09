@@ -1,14 +1,16 @@
 ---
-title: X-Men Apocalypse Review (Spoiler-Free)
 author: roy
-type: post
-date: 2016-05-20T18:10:52+00:00
-url: /2016/05/x-men-apocalypse-review-spoiler-free/
 categories:
-  - Comics
-  - Movies
-
+- Pop Culture
+date: 2016-05-20 18:10:52
+tags:
+- Comics
+- Movies
+title: X-Men Apocalypse Review (Spoiler-Free)
+type: post
+url: /2016/05/x-men-apocalypse-review-spoiler-free/
 ---
+
 <div>
 </div>
 

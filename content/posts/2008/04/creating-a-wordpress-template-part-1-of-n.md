@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2008-04-29 06:58:20
 title: Creating a WordPress Template (Part 1 of N)
 type: post
-date: 2008-04-29T06:58:20+00:00
 url: /2008/04/creating-a-wordpress-template-part-1-of-n/
-categories:
-  - Software Development
-
 ---
+
 1. Web design has never been one of my strong points, and it&#8217;s something I&#8217;d like to improve on.
 
 2. The

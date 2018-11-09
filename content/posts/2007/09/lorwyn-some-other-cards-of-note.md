@@ -1,12 +1,12 @@
 ---
-title: Lorwyn – Some Other Cards of Note
-type: post
-date: 2007-09-27T04:59:40+00:00
-url: /2007/09/lorwyn-some-other-cards-of-note/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2007-09-27 04:59:40
+title: "Lorwyn \xE2\u20AC\u201C Some Other Cards of Note"
+type: post
+url: /2007/09/lorwyn-some-other-cards-of-note/
 ---
+
 Lorwyn prerelease and two days, and of course MTG Salvation is
    
 [

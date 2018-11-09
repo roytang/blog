@@ -1,13 +1,13 @@
 ---
-title: Be Willing To Throw Prototypes Away
 author: roy
-type: post
-date: 2016-11-10T01:30:09+00:00
-url: /2016/11/be-willing-to-throw-prototypes-away/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-11-10 01:30:09
+title: Be Willing To Throw Prototypes Away
+type: post
+url: /2016/11/be-willing-to-throw-prototypes-away/
 ---
+
 &nbsp;
 
 There was this project we had where there was a strange bug. The developer working on it found that the problem only appears when the record ID was 12. When it was 11 or less, everything was fine. When it was 13 or more, everything was also fine. After some investigation, it was found that there was some code that executed with a condition of &#8220;if record id == 12&#8221;, which was already a WTF. It turns out that some behavior had been hardcoded for a previous demo to a client and was never reverted and made it all the way into acceptance testing builds.

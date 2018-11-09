@@ -1,13 +1,13 @@
 ---
-title: Overhead scales up rapidly in software projects
 author: roy
-type: post
-date: 2016-09-22T01:30:22+00:00
-url: /2016/09/overhead-scales-up-rapidly-in-software-projects/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-09-22 01:30:22
+title: Overhead scales up rapidly in software projects
+type: post
+url: /2016/09/overhead-scales-up-rapidly-in-software-projects/
 ---
+
 Overhead scale up rapidly as project team size increases. Every time you add a new person to the team, he comes with a lot of overhead such as the need to learn the project details, responsibilities of other team members, who to consult when there&#8217;s trouble, custom project procedures, and so on
 
 It&#8217;s a reinforcing cycle too. As overhead increases, the team imposes more processes and restrictions to make sure everyone is doing the right thing and there are no screw-ups. More processes means even greater overhead when new team members join. And the cycle repeats

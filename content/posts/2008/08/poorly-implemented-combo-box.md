@@ -1,12 +1,12 @@
 ---
+categories:
+- Software Development
+date: 2008-08-25 06:07:50
 title: Poorly Implemented Combo Box
 type: post
-date: 2008-08-25T06:07:50+00:00
 url: /2008/08/poorly-implemented-combo-box/
-categories:
-  - Software Development
-
 ---
+
 I was registering for an account at a local auction site (which shall remain nameless), the zip code combo box threw me off:
 
 [

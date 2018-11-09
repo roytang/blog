@@ -1,13 +1,13 @@
 ---
-title: Software Development Feedback Loops
 author: roy
-type: post
-date: 2016-11-03T01:30:18+00:00
-url: /2016/11/software-development-feedback-loops/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-11-03 01:30:18
+title: Software Development Feedback Loops
+type: post
+url: /2016/11/software-development-feedback-loops/
 ---
+
 The software development process is already difficult mainly because a lot of it so imprecise. Requirements are often only vague wishes that the client has, with no regard to the sheer number of instructions needed to implement those requirements. Throughout the entire process it&#8217;s important to use feedback loops to determine whether development is on the right path. And like all feedback loops, their effectiveness often hinges on how quickly we are able to turn around and give and incorporate feedback into future iterations
 
 Feedback loops happen whenever someone gets to review something of course. Prototyping with the client is the most basic form of feedback loop. Building a quick prototype, then showing it to the client, seeing what works and what doesn&#8217;t and what the clients wants to change, then iterating into the next prototype &#8211; all of these reduce the risk that we are not building the correct thing in the first place. Similar feedback loops appear whenever someone reviews your design or your code or your documentation

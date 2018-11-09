@@ -1,15 +1,16 @@
 ---
-title: '31 Dec 2002: Happy New Year…whatever…'
 author: roy
-type: post
-date: 2002-12-31T01:30:59+00:00
-url: /2002/12/31-dec-2002-happy-new-year-whatever/
 categories:
-  - Just Another Day
-  - Legacy Blog Posts
-
+- Just Another Day
+date: 2002-12-31 01:30:59
+tags:
+- Legacy Blog Posts
+title: "31 Dec 2002: Happy New Year\xE2\u20AC\xA6whatever\xE2\u20AC\xA6"
+type: post
+url: /2002/12/31-dec-2002-happy-new-year-whatever/
 ---
-  * Well, trying to make this a weekly format thing obviously fizzled out.
+
+* Well, trying to make this a weekly format thing obviously fizzled out.
   
     What with me starting work on Friday, I just give up. I&#8217;ll keep this site
   

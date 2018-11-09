@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2004-09-05 01:01:07
 title: Liberated Games
 type: post
-date: 2004-09-05T01:01:07+00:00
 url: /2004/09/liberated-games/
-categories:
-  - Gaming
-
 ---
+
 Note to self: Don&#8217;t forget to check out the games at
    
 [

@@ -1,13 +1,15 @@
 ---
-title: Radiohead, Copyright and Popular Music
 author: Roy
-type: post
-date: 2004-11-22T15:15:26+00:00
-url: /2004/11/radiohead-copyright-and-popular-music/
 categories:
-  - Music
-
+- Pop Culture
+date: 2004-11-22 15:15:26
+tags:
+- Music
+title: Radiohead, Copyright and Popular Music
+type: post
+url: /2004/11/radiohead-copyright-and-popular-music/
 ---
+
 [Interesting story][1] about a guy who had to shell out 350 dollars to quote Radiohead lyrics in his book. Even though he was able to quote from many other bands, books, and even a separate Radiohead album for free. Even he had personally met the band before, and had freely let them quote his own works in their concerts. Gives a good idea of how fucked-up the worldwide copyright system is. And reminds me why I prefer to just ignore the whole corporate copyright system. (Never mind that it&#8217;s quite convenient to do so.)
 
 On that note, I wonder if local band Parokya ni Edgar had to cough up for their parody of Radiohead&#8217;s &#8220;Creep&#8221; (I forget what the actual Parokya track title was.)

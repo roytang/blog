@@ -1,13 +1,13 @@
 ---
-title: My Thoughts On EDSA
 author: Roy
-type: post
-date: 2008-02-25T06:39:23+00:00
-url: /2008/02/my-thoughts-on-edsa/
 categories:
-  - Philippines
-
+- Philippines
+date: 2008-02-25 06:39:23
+title: My Thoughts On EDSA
+type: post
+url: /2008/02/my-thoughts-on-edsa/
 ---
+
 Given what today is, I thought it would be a good idea to say a few words on the current brouhaha. Instead of just enjoying the holiday watching DVDs that is.
 
 Just something I posted on a certain mailing list a few days ago:

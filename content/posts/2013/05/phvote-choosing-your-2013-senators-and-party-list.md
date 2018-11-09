@@ -1,15 +1,15 @@
 ---
-title: 'PHVote: Choosing your 2013 Senators and Party List'
 author: roy
-type: post
-date: 2013-05-11T13:09:20+00:00
-url: /2013/05/phvote-choosing-your-2013-senators-and-party-list/
 categories:
-  - Just Another Day
-  - Opinions
-  - Philippines
-
+- Just Another Day
+- Opinions
+- Philippines
+date: 2013-05-11 13:09:20
+title: 'PHVote: Choosing your 2013 Senators and Party List'
+type: post
+url: /2013/05/phvote-choosing-your-2013-senators-and-party-list/
 ---
+
 **Resources**
 
 The content of this post is regarding my own opinion and who I plan to vote for. If you want to do your own research (I highly recommend it), here are some links to get you started:

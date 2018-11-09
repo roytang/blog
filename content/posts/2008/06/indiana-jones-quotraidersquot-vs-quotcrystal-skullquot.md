@@ -1,14 +1,16 @@
 ---
-title: 'Indiana Jones: Raiders vs Crystal Skull'
 author: Roy
-type: post
-date: 2008-06-03T12:17:57+00:00
-url: /2008/06/indiana-jones-quotraidersquot-vs-quotcrystal-skullquot/
 categories:
-  - Movies
-  - Review
-
+- Pop Culture
+date: 2008-06-03 12:17:57
+tags:
+- Movies
+- Review
+title: 'Indiana Jones: Raiders vs Crystal Skull'
+type: post
+url: /2008/06/indiana-jones-quotraidersquot-vs-quotcrystal-skullquot/
 ---
+
 So I saw _Indiana Jones and the Kingdom of the Crystal Skull _last Friday. Two days later I also watched for the first time _Indiana Jones and the Raiders of the Lost Ark.
   
 _ 

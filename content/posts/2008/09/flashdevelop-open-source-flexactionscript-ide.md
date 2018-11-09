@@ -1,12 +1,12 @@
 ---
-title: FlashDevelop – open source Flex/Actionscript IDE
-type: post
-date: 2008-09-21T07:39:33+00:00
-url: /2008/09/flashdevelop-open-source-flexactionscript-ide/
 categories:
-  - Software Development
-
+- Software Development
+date: 2008-09-21 07:39:33
+title: "FlashDevelop \xE2\u20AC\u201C open source Flex/Actionscript IDE"
+type: post
+url: /2008/09/flashdevelop-open-source-flexactionscript-ide/
 ---
+
 I was looking to try out some
    
 [

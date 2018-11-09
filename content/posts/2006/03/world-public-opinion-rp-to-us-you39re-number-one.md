@@ -1,13 +1,13 @@
 ---
-title: 'World Public Opinion – RP to US: You&#39;re Number One!'
 author: Roy
-type: post
-date: 2006-03-04T05:29:41+00:00
-url: /2006/03/world-public-opinion-rp-to-us-you39re-number-one/
 categories:
-  - Philippines
-
+- Philippines
+date: 2006-03-04 05:29:41
+title: "World Public Opinion \xE2\u20AC\u201C RP to US: You&#39;re Number One!"
+type: post
+url: /2006/03/world-public-opinion-rp-to-us-you39re-number-one/
 ---
+
 [
   
 World Public Opinion

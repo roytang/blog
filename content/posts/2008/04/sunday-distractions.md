@@ -1,13 +1,13 @@
 ---
-title: Sunday Distractions
 author: Roy
-type: post
-date: 2008-04-20T06:04:47+00:00
-url: /2008/04/sunday-distractions/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2008-04-20 06:04:47
+title: Sunday Distractions
+type: post
+url: /2008/04/sunday-distractions/
 ---
+
 For all of my working life I&#8217;ve gotten used to sitting at a workstation where I do not have regular internet access. So while I&#8217;ve often read a lot of those articles about how to maintain focus, I&#8217;ve never actually realized how difficult it was until I brought home a bunch of work-related reading material to catch up on. Yes, I tried to read boring work-related stuff on an internet-enabled machine. Wonder how much progress I managed?
   
 <!--more-->

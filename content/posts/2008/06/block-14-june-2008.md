@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2008-06-16 09:00:56
 title: Block 14-June-2008
 type: post
-date: 2008-06-16T09:00:56+00:00
 url: /2008/06/block-14-june-2008/
-categories:
-  - Magic the Gathering
-
 ---
+
 The tournament was last Staurday, 14-June and the format wasLorwyn/Shadowmoor Block Constructed.
 
 I had been having a bad constructed record over the past few tournaments, so I thought I&#8217;d play in one of the smaller tournaments before heading into another GPT. I didn&#8217;t want to play Kithkin (too random) or Faeries (not enough components). I though I would go for control instead and thus assembled the following Commandments decklist:

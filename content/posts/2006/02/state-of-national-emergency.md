@@ -1,13 +1,13 @@
 ---
-title: State of National Emergency
 author: roy
-type: post
-date: 2006-02-24T07:42:40+00:00
-url: /2006/02/state-of-national-emergency/
 categories:
-  - Philippines
-
+- Philippines
+date: 2006-02-24 07:42:40
+title: State of National Emergency
+type: post
+url: /2006/02/state-of-national-emergency/
 ---
+
 Lest I be accused of avoiding the real world by [writing about TV shows ][1]while events start to unfold [which may or may not plunge our nation into chaos ][2], I suppose I should put my two cents into the matter. For those who read this text in the future at a time when all these links are broken, the current President of the Phillipines, Gloria Macapagal-Arroyo has declared a state of national emergency today, claiming that a broad alliance encompassing traditional oppostion groups and the far left and the far right are trying to bring her down. Ironically, she did this on the 20th anniversary of the People Power revolution.
 
 Now, I can&#8217;t pretend to be smart enough to realize the [legal implications ][3]of today&#8217;s events, nor can I provide some detailed analysis of how we keep doing [this sort of thing ][4]to ourselves over and over again, nor am I old enough to note any [eerie similarities ][5]with the events during Marcos&#8217; time.

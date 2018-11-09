@@ -1,12 +1,12 @@
 ---
-title: State of the Gaming – February 2007
-type: post
-date: 2007-02-25T06:41:46+00:00
-url: /2007/02/state-of-the-gaming-february-2007/
 categories:
-  - Gaming
-
+- Gaming
+date: 2007-02-25 06:41:46
+title: "State of the Gaming \xE2\u20AC\u201C February 2007"
+type: post
+url: /2007/02/state-of-the-gaming-february-2007/
 ---
+
 List of games I&#8217;m planning (or want) to play:
    
 

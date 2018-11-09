@@ -1,13 +1,13 @@
 ---
-title: Anxiety
 author: roy
-type: post
-date: 2018-10-30T05:03:07+00:00
-url: /2018/10/anxiety/
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2018-10-30 05:03:07
+title: Anxiety
+type: post
+url: /2018/10/anxiety/
 ---
+
 Webcomic PVP Online recently did [a short series on the character Cole suffering anxiety][1].   
 <figure class="wp-block-image">
 

@@ -1,12 +1,12 @@
 ---
-title: Magic – Regionals 2006
-type: post
-date: 2006-06-19T18:17:11+00:00
-url: /2006/06/magic-regionals-2006/
 categories:
-  - Magic the Gathering
-
+- Magic the Gathering
+date: 2006-06-19 18:17:11
+title: "Magic \xE2\u20AC\u201C Regionals 2006"
+type: post
+url: /2006/06/magic-regionals-2006/
 ---
+
 I played at Robinson&#8217;s Galleria last Saturday. So much for my first constructed outing in 10 years&#8230;not a very good outcome for me.
 
 I played 4-color Firemane Control&#8230;no permission, but lots of life gain and 4 Wrath of Gods packed maindeck, a specifically anti-aggro build. I was anticipating lots of Gruul beats and Orzhov aggro decks, and I was ready to beat them to the ground. Unfortunately, I faced not a single one of those decks. :(

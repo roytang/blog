@@ -1,13 +1,13 @@
 ---
-title: Performance Optimization for WordPress Blogs
 author: roy
-type: post
-date: 2016-06-30T01:30:32+00:00
-url: /2016/06/performance-optimization-for-wordpress-blogs/
 categories:
-  - Software Development
-
+- Software Development
+date: 2016-06-30 01:30:32
+title: Performance Optimization for WordPress Blogs
+type: post
+url: /2016/06/performance-optimization-for-wordpress-blogs/
 ---
+
 Some time ago, one of my many intrepid followers pointed out that this blog tested poorly on web page performance according to this [Speed Testing Tool][1]. Now, I&#8217;m of the opinion that for a personal blog such as this, web performance isn&#8217;t really a mission-critical sort of thing, but as a software developer who has often had to work hard to optimize the web applications we delivered to our clients, it kind of became a matter of pride :p<figure id="attachment_1300" style="width: 473px" class="wp-caption aligncenter">
 
 [<img class="size-full wp-image-1300" src="http://roytang.net/wp-content/uploads/2016/06/report.png" alt="Unacceptable!" width="473" height="173" srcset="https://roytang.net/wp-content/uploads/2016/06/report.png 473w, https://roytang.net/wp-content/uploads/2016/06/report-300x110.png 300w" sizes="(max-width: 473px) 100vw, 473px" />][2]<figcaption class="wp-caption-text">Unacceptable!</figcaption></figure> 

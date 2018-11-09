@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2008-04-27 05:50:23
 title: 'Final Fantasy Crystal Chronicles: Ring of Fates'
 type: post
-date: 2008-04-27T05:50:23+00:00
 url: /2008/04/final-fantasy-crystal-chronicles-ring-of-fates/
-categories:
-  - Gaming
-
 ---
+
 **
     
 Final Fantasy Crystal Chronicles: Ring of Fates

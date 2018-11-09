@@ -1,12 +1,12 @@
 ---
+categories:
+- Magic the Gathering
+date: 2009-02-08 04:14:29
 title: Conflux Release Event
 type: post
-date: 2009-02-08T04:14:29+00:00
 url: /2009/02/conflux-release-event/
-categories:
-  - Magic the Gathering
-
 ---
+
 I decided to attend the Conflux release event last Saturday, Feb 7 at Neutral Grounds Galleria. As usual, I still had to go to work first so I didn&#8217;t make it in time for the first 32-man flight and had to wait for NG to restock on product for the second flight. Unfortunately, they were short on SoA boosters, so we would be playing sealed with 6 boosters of Conflux. Yes, six. Expect domain?
 
 I registered a mediocre pool and got passed one of roughly the same quality level. Here&#8217;s my deck:

@@ -1,13 +1,13 @@
 ---
-title: Some Simple Electoral Reforms
 author: Roy
-type: post
-date: 2007-05-14T05:09:01+00:00
-url: /2007/05/some-simple-electoral-reforms/
 categories:
-  - Philippines
-
+- Philippines
+date: 2007-05-14 05:09:01
+title: Some Simple Electoral Reforms
+type: post
+url: /2007/05/some-simple-electoral-reforms/
 ---
+
 1. Ban the distribution of sample ballots and election paraphernalia on election day within the vicinity of voting precincts. Seriously, check out the amount of trash generated on election day near the precinct:
 
 [

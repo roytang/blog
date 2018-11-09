@@ -1,13 +1,13 @@
 ---
-title: The Promise of Social Media
 author: roy
-type: post
-date: 2016-07-26T01:30:39+00:00
-url: /2016/07/the-promise-of-social-media/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-07-26 01:30:39
+title: The Promise of Social Media
+type: post
+url: /2016/07/the-promise-of-social-media/
 ---
+
 When blogging and social media started to explode in popularity, it held a great promise: it would give a voice to the masses. Where previously there were gatekeepers in traditional media channels who controlled whose opinions could be published or broadcast, the internet meant that anyone with an internet connection could publish and voice out their thoughts and people would be all smart and there would be lots of intelligent discussion and it would be great.
 
 And that did kind of happen &#8211; there was now a wealth of information and opinions and discussions online &#8211; but people being people there was a lot of silly, frivolous stuff too. Memes, jokes, 4chan, and all that. And that was all fine and great.

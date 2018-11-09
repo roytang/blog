@@ -1,15 +1,17 @@
 ---
-title: 'Book Review: Masters of Doom by David Kushner'
 author: roy
-type: post
-date: 2018-10-14T01:00:45+00:00
-url: /2018/10/book-review-masters-of-doom-by-david-kushner/
 categories:
-  - Books
-  - Gaming
-  - Review
-
+- Pop Culture
+- Gaming
+date: 2018-10-14 01:00:45
+tags:
+- Books
+- Review
+title: 'Book Review: Masters of Doom by David Kushner'
+type: post
+url: /2018/10/book-review-masters-of-doom-by-david-kushner/
 ---
+
 I&#8217;ve had a copy of this book for quite a while now, but for some reason only got around to starting on it three days ago. It&#8217;s not a particularly long book, but I pretty much devoured it in twenty four hours.<figure class="wp-block-image">
 
 <img src="https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1.jpg" alt="" class="wp-image-2810" srcset="https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1.jpg 950w, https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1-600x337.jpg 600w" sizes="(max-width: 950px) 100vw, 950px" /><figcaption>Mandatory screenshot of old-school Doom</figcaption></figure> 

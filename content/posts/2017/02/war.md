@@ -1,14 +1,14 @@
 ---
-title: War
 author: roy
-type: post
-date: 2017-02-14T01:30:56+00:00
-url: /2017/02/war/
 categories:
-  - Opinions
-  - Philippines
-
+- Opinions
+- Philippines
+date: 2017-02-14 01:30:56
+title: War
+type: post
+url: /2017/02/war/
 ---
+
 As of today, our country (The #Blessed Republic of the Philippines) is already at war with:
 
   1. Drugs

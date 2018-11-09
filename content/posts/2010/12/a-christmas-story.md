@@ -1,15 +1,15 @@
 ---
-title: A Christmas Story
-author: roy
-type: post
-date: 2010-12-20T15:33:57+00:00
-url: /2010/12/a-christmas-story/
 aktt_notify_twitter:
-  - no
+- false
+author: roy
 categories:
-  - Just Another Day
-
+- Just Another Day
+date: 2010-12-20 15:33:57
+title: A Christmas Story
+type: post
+url: /2010/12/a-christmas-story/
 ---
+
 Okay, story time.
 
 On my way home today as I was about to get on the jeep to Tandang Sora, a woman got off the jeep crying uncontrollably and declaring she would not go with him. Unsure what was going on I walked past the woman who was now wailing unintelligibly outside the jeep. I got on the jeep and took a seat. Inside was this man who was gesturing to the woman outside and telling her to be quiet and just get in the jeep. The woman was replying that she didn&#8217;t want to go with him to wherever they were going.

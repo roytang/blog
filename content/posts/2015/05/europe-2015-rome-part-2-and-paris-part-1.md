@@ -1,13 +1,13 @@
 ---
-title: 'Europe 2015: Rome Part 2 and Paris Part 1'
 author: roy
-type: post
-date: 2015-05-03T14:52:29+00:00
-url: /2015/05/europe-2015-rome-part-2-and-paris-part-1/
 categories:
-  - Travels
-
+- Travels
+date: 2015-05-03 14:52:29
+title: 'Europe 2015: Rome Part 2 and Paris Part 1'
+type: post
+url: /2015/05/europe-2015-rome-part-2-and-paris-part-1/
 ---
+
 _Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Rome and Vatican City][4]_
 
 **Friday March 13th**

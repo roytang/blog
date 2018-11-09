@@ -1,13 +1,13 @@
 ---
-title: StackOverflow
 author: roy
-type: post
-date: 2018-04-29T01:00:36+00:00
-url: /2018/04/stackoverflow/
 categories:
-  - Software Development
-
+- Software Development
+date: 2018-04-29 01:00:36
+title: StackOverflow
+type: post
+url: /2018/04/stackoverflow/
 ---
+
 As a programmer, I&#8217;ve always been a big fan of [StackOverflow][1]. I asked my [first question there][2] and also [wrote my first answer][3] in September 2008, which was the month the site launched, so I was pretty much there from the beginning. The site was a huge boon to programmers when it first came out, because the internet as a venue for asking questions and answers back then was a horrible fragmented landscape of small forums and mailing lists and sites like Experts Exchange, all of which were terribly designed. (StackOverflow founder Joel Spolsky talks about this a bit in a [recent retrospective post][4].)
 
 StackOverflow changed all that, providing a one-stop Q&A site where programmers were incentivized to contribute through gamification and achievements. It became my first port of call for asking technical questions. (My [question history][5] says I have asked 98 questions through the years &#8211; going through them was a bit fun, it was kind of a fun reminder of stuff I used to work on through the years.) For the first few years, I was even reasonably active in answering questions &#8211; 44 of the 52 questions in my [answer history][6] were from 2008-2011. I even got a few answers accepted! My usage tapered off after that, mostly restricted to asking new questions whenever I was studying some new technology. But still even now I&#8217;m told that I&#8217;m within the top 13% of the reputation score on the site. I&#8217;m far from being Jon Skeet or anything, but safe to say I&#8217;m an entrenched user.

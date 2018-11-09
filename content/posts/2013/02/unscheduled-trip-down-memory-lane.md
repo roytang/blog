@@ -1,13 +1,15 @@
 ---
-title: Unscheduled trip down memory lane
 author: roy
-type: post
-date: 2013-02-08T06:50:44+00:00
-url: /2013/02/unscheduled-trip-down-memory-lane/
 categories:
-  - Nostalgia
-
+- Just Another Day
+date: 2013-02-08 06:50:44
+tags:
+- Nostalgia
+title: Unscheduled trip down memory lane
+type: post
+url: /2013/02/unscheduled-trip-down-memory-lane/
 ---
+
 &#8220;_Sir, baka pwedeng lipat na lang kayo ng taxi_,&#8221; the driver said to me apologetically. &#8220;_Hindi na po kasi ako aabot sa garage sa Sta. Mesa._&#8221; He offered to drop the flag-down fee from the fare so I just agreed. I got off and looked around.
 
 One of the reasons I agreed to let him off despite the late hour was that I knew the place where we were passing by &#8211; a well lit area where I could easily get another taxi or take an alternative form of transportation if needed &#8211; it was the neighborhood I grew up in. And by some happenstance the exact spot where I got off was right across the corner near my grandparents&#8217; old house where we used to live ten-odd years ago. No more than thirty to forty meters away was where most of my childhood took place.

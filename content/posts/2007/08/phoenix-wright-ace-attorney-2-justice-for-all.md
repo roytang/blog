@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2007-08-05 05:57:23
 title: 'Phoenix Wright Ace Attorney 2: Justice for All'
 type: post
-date: 2007-08-05T05:57:23+00:00
 url: /2007/08/phoenix-wright-ace-attorney-2-justice-for-all/
-categories:
-  - Gaming
-
 ---
+
 The official title is quite long. Actually, the English Title for
    
 _

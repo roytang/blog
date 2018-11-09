@@ -1,13 +1,13 @@
 ---
-title: Adventures in Linux Land, Part 1
 author: Roy
-type: post
-date: 2006-01-10T15:25:00+00:00
-url: /2006/01/adventures-in-linux-land-part-1/
 categories:
-  - Tech Life
-
+- Tech Life
+date: 2006-01-10 15:25:00
+title: Adventures in Linux Land, Part 1
+type: post
+url: /2006/01/adventures-in-linux-land-part-1/
 ---
+
 So yeah, out of a strange mix of adventurism, inertia, coincidence and plan old boredom, I decided to install linux on this machine. At first I just wanted to see how easy the install would be, but after I nuked my Windows XP install I sort of had no turning back. (-_-!)
 
 Anyway, I went for a dual boot of Windows XP and [Kubuntu][1], supposedly an easy-to-use Linux distro. So yeah, I even watched this [video online][2] that showed how to do the installs. (The video shows two guys doing the dual boot install with XP and Ubuntu, same difference.)

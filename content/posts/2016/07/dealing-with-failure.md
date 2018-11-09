@@ -1,13 +1,13 @@
 ---
-title: Dealing with Failure
 author: roy
-type: post
-date: 2016-07-12T01:30:04+00:00
-url: /2016/07/dealing-with-failure/
 categories:
-  - Opinions
-
+- Opinions
+date: 2016-07-12 01:30:04
+title: Dealing with Failure
+type: post
+url: /2016/07/dealing-with-failure/
 ---
+
 <img class="alignnone" src="http://www.thequotepedia.com/images/02/success-is-not-final-failure-is-not-fatal-it-is-the-courage-to-continue-that-counts-by-winston-churchill.png" alt="&quot;Success is not final, failure is not fatal: it is the courage to continue that counts&quot; - Winston Churchill" width="601" height="447" />
 
 During my the first semester of my second year in University, I failed four out of five classes I was taking due to slacking off a lot. Those same classes were only available during the first semester of each year, which meant I could not retake them during the second semester or over the summer to catch up. So effectively, I had fallen one year behind everyone I knew.

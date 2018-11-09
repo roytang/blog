@@ -1,13 +1,15 @@
 ---
-title: Smallville
 author: Roy
-type: post
-date: 2006-02-24T07:18:44+00:00
-url: /2006/02/smallville/
 categories:
-  - TV Series
-
+- Pop Culture
+date: 2006-02-24 07:18:44
+tags:
+- TV Series
+title: Smallville
+type: post
+url: /2006/02/smallville/
 ---
+
 I figure there are three reasons why people continue to watch Smallville:
 
   * We want to see Clark become Superman (and Lex become&#8230;Lex)

@@ -1,25 +1,25 @@
 ---
-title: M11 Sealed – You Make the Play
-author: roy
-type: post
-date: 2010-08-04T19:23:01+00:00
-url: /2010/08/m11-sealed-you-make-the-play/
 aktt_notify_twitter:
-  - no
-jd_tweet_this:
-  - yes
-wp_jd_target:
-  - http://mtgstorm.com/2010/08/m11-sealed-you-make-the-play/
-wp_jd_bitly:
-  - http://bit.ly/cCjKcC
+- false
+author: roy
 categories:
-  - Magic the Gathering
+- Magic the Gathering
+date: 2010-08-04 19:23:01
+jd_tweet_this:
+- true
 tags:
-  - Limited
-  - m11
-  - sealed
-
+- Limited
+- m11
+- sealed
+title: "M11 Sealed \xE2\u20AC\u201C You Make the Play"
+type: post
+url: /2010/08/m11-sealed-you-make-the-play/
+wp_jd_bitly:
+- http://bit.ly/cCjKcC
+wp_jd_target:
+- http://mtgstorm.com/2010/08/m11-sealed-you-make-the-play/
 ---
+
 Here&#8217;s the situation: It&#8217;s game 3 of a sealed game. You know your opponent has [card]Mind Control[/card], [card]Aether Adept[/card] and [card]Plummet[/card] still in his deck, so you should finish it quickly to avoid losing to topdecks.
 
 The field is as shown (click for larger view):

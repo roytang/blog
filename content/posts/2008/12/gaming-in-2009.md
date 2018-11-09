@@ -1,12 +1,12 @@
 ---
+categories:
+- Gaming
+date: 2008-12-31 09:22:06
 title: Gaming in 2009
 type: post
-date: 2008-12-31T09:22:06+00:00
 url: /2008/12/gaming-in-2009/
-categories:
-  - Gaming
-
 ---
+
 I wanted to make a calendar of game release dates in 2009 (so I won&#8217;t forget), but apparently details are sparse. The only games that I&#8217;m remotely interested in that already have release dates are:
 
 20 Jan 2009:
