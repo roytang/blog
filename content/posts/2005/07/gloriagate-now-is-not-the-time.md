@@ -3,7 +3,7 @@ author: roy
 categories:
 - Philippines
 date: 2005-07-12 15:03:00
-title: "Gloriagate \xE2\u20AC\u201C Now is not the time"
+title: "Gloriagate -- Now is not the time"
 type: post
 url: /2005/07/gloriagate-now-is-not-the-time/
 ---

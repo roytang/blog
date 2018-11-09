@@ -2,7 +2,7 @@
 categories:
 - Gaming
 date: 2005-12-31 00:35:00
-title: "Games \xE2\u20AC\u201C Civilization 4"
+title: "Games -- Civilization 4"
 type: post
 url: /2005/12/games-civilization-4/
 ---

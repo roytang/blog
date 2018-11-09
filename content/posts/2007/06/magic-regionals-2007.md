@@ -2,7 +2,7 @@
 categories:
 - Magic the Gathering
 date: 2007-06-23 19:31:47
-title: "Magic \xE2\u20AC\u201C Regionals 2007"
+title: "Magic -- Regionals 2007"
 type: post
 url: /2007/06/magic-regionals-2007/
 ---

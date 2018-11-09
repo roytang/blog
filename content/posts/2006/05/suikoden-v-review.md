@@ -2,7 +2,7 @@
 categories:
 - Gaming
 date: 2006-05-30 07:03:04
-title: "Suikoden V \xE2\u20AC\u201C Review"
+title: "Suikoden V -- Review"
 type: post
 url: /2006/05/suikoden-v-review/
 ---

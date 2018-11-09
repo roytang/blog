@@ -2,7 +2,7 @@
 categories:
 - Software Development
 date: 2009-02-10 14:15:50
-title: "Zed Shaw \xE2\u20AC\u201C the ACL is Dead"
+title: "Zed Shaw -- the ACL is Dead"
 type: post
 url: /2009/02/zed-shaw-the-acl-is-dead/
 ---

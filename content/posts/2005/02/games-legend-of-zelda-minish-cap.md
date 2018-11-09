@@ -2,7 +2,7 @@
 categories:
 - Gaming
 date: 2005-02-16 11:01:00
-title: "Games: Legend of Zelda \xE2\u20AC\u201C Minish Cap"
+title: "Games: Legend of Zelda -- Minish Cap"
 type: post
 url: /2005/02/games-legend-of-zelda-minish-cap/
 ---

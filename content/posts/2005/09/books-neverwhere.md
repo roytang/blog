@@ -5,7 +5,7 @@ categories:
 date: 2005-09-14 07:48:00
 tags:
 - Books
-title: "Books \xE2\u20AC\u201C Neverwhere"
+title: "Books -- Neverwhere"
 type: post
 url: /2005/09/books-neverwhere/
 ---

@@ -5,7 +5,7 @@ categories:
 date: 2007-05-10 04:52:24
 tags:
 - Hardware
-title: "Indulgence \xE2\u20AC\u201C the Nokia N73"
+title: "Indulgence -- the Nokia N73"
 type: post
 url: /2007/05/indulgence-the-nokia-n73/
 ---

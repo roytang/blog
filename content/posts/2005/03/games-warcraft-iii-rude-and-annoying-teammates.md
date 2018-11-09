@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Gaming
 date: 2005-03-26 05:04:00
-title: "Games: Warcraft III \xE2\u20AC\u201C Rude And Annoying Teammates"
+title: "Games: Warcraft III -- Rude And Annoying Teammates"
 type: post
 url: /2005/03/games-warcraft-iii-rude-and-annoying-teammates/
 ---

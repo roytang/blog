@@ -2,7 +2,7 @@
 categories:
 - Magic the Gathering
 date: 2006-09-23 18:32:35
-title: "Time Spiral Prerelease \xE2\u20AC\u201C Sweet Victory!"
+title: "Time Spiral Prerelease -- Sweet Victory!"
 type: post
 url: /2006/09/time-spiral-prerelease-sweet-victory/
 ---

@@ -2,7 +2,7 @@
 categories:
 - Magic the Gathering
 date: 2006-10-21 19:43:21
-title: "PTQ \xE2\u20AC\u201C Geneva"
+title: "PTQ -- Geneva"
 type: post
 url: /2006/10/ptq-geneva/
 ---

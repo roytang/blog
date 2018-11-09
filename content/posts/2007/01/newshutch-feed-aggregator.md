@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Tech Life
 date: 2007-01-18 00:31:27
-title: "NewsHutch \xE2\u20AC\u201C feed aggregator"
+title: "NewsHutch -- feed aggregator"
 type: post
 url: /2007/01/newshutch-feed-aggregator/
 ---

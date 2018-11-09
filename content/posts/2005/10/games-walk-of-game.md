@@ -2,7 +2,7 @@
 categories:
 - Gaming
 date: 2005-10-28 17:07:00
-title: "Games \xE2\u20AC\u201C Walk of Game"
+title: "Games -- Walk of Game"
 type: post
 url: /2005/10/games-walk-of-game/
 ---

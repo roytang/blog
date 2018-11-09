@@ -3,7 +3,7 @@ author: roy
 categories:
 - Philippines
 date: 2016-05-02 16:35:05
-title: "Elections 2016 \xE2\u20AC\u201C My Ballot"
+title: "Elections 2016 -- My Ballot"
 type: post
 url: /2016/05/elections-2016-my-ballot/
 ---

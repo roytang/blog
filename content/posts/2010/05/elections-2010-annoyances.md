@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Philippines
 date: 2010-05-10 02:15:38
-title: "Elections 2010 \xE2\u20AC\u201C Annoyances"
+title: "Elections 2010 -- Annoyances"
 type: post
 url: /2010/05/elections-2010-annoyances/
 ---

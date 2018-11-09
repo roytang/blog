@@ -3,7 +3,7 @@ author: roy
 categories:
 - Gaming
 date: 2013-12-28 15:50:30
-title: "2013 \xE2\u20AC\u201C Books and Games"
+title: "2013 -- Books and Games"
 type: post
 url: /2013/12/2013-books-and-games/
 ---

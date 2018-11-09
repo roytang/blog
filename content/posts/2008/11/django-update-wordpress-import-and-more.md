@@ -4,7 +4,7 @@ categories:
 date: 2008-11-23 00:04:00
 tags:
 - royondjango
-title: "Django Update \xE2\u20AC\u201C WordPress Import and More"
+title: "Django Update -- WordPress Import and More"
 type: post
 url: /2008/11/django-update-wordpress-import-and-more/
 ---

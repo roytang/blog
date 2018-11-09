@@ -6,4 +6,11 @@ draft: true
 title: Site Migration to Hugo
 ---
 
+
 https://blog.atj.me/2017/10/generate-yearly-and-monthly-archive-pages-with-hugo-sections/
+
+Parsing frontmatter:
+https://elbauldelprogramador.com/en/how-to-parse-frontmatter-with-python/
+
+RSS redirect:
+https://blog.philipphauer.de/moving-wordpress-hugo/

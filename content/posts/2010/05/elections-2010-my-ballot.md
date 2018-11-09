@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Philippines
 date: 2010-05-07 13:38:50
-title: "Elections 2010 \xE2\u20AC\u201C My Ballot"
+title: "Elections 2010 -- My Ballot"
 type: post
 url: /2010/05/elections-2010-my-ballot/
 ---

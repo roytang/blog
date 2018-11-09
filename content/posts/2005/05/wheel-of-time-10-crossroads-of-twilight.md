@@ -6,7 +6,7 @@ date: 2005-05-08 11:34:00
 tags:
 - Books
 - Review
-title: "Wheel of Time 10 \xE2\u20AC\u201C Crossroads of Twilight"
+title: "Wheel of Time 10 -- Crossroads of Twilight"
 type: post
 url: /2005/05/wheel-of-time-10-crossroads-of-twilight/
 ---

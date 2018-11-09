@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Tech Life
 date: 2006-03-26 07:57:59
-title: "Ballmer, Bemused \xE2\u20AC\u201C Forbes.com"
+title: "Ballmer, Bemused -- Forbes.com"
 type: post
 url: /2006/03/ballmer-bemused-forbes-com/
 ---

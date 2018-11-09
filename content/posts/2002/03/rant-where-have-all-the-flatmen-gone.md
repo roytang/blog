@@ -5,7 +5,7 @@ categories:
 date: 2002-03-01 15:06:43
 tags:
 - Legacy Blog Posts
-title: "Rant \xE2\u20AC\u201C Where Have All the Flatmen Gone?"
+title: "Rant -- Where Have All the Flatmen Gone?"
 type: post
 url: /2002/03/rant-where-have-all-the-flatmen-gone/
 ---

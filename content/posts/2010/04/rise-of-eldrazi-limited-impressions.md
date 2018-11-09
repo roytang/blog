@@ -9,7 +9,7 @@ jd_tweet_this:
 - true
 tags:
 - Limited
-title: "Rise of Eldrazi \xE2\u20AC\u201C Limited Impressions"
+title: "Rise of Eldrazi -- Limited Impressions"
 type: post
 url: /2010/04/rise-of-eldrazi-limited-impressions/
 wp_jd_bitly:

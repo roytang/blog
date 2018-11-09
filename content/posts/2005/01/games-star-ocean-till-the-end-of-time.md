@@ -2,7 +2,7 @@
 categories:
 - Gaming
 date: 2005-01-23 06:00:31
-title: "Games: Star Ocean \xE2\u20AC\u201C Till the End of Time"
+title: "Games: Star Ocean -- Till the End of Time"
 type: post
 url: /2005/01/games-star-ocean-till-the-end-of-time/
 ---

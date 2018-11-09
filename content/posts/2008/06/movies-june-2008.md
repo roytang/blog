@@ -5,7 +5,7 @@ categories:
 date: 2008-06-29 08:44:02
 tags:
 - Movies
-title: "Movies \xE2\u20AC\u201C June 2008"
+title: "Movies -- June 2008"
 type: post
 url: /2008/06/movies-june-2008/
 ---

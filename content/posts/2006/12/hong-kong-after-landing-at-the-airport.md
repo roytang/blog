@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Travels
 date: 2006-12-18 07:13:55
-title: "Hong Kong \xE2\u20AC\u201C After Landing At The Airport"
+title: "Hong Kong -- After Landing At The Airport"
 type: post
 url: /2006/12/hong-kong-after-landing-at-the-airport/
 ---

@@ -1,8 +1,7 @@
 * Fix imported posts with:
     - spoiler tags
     - mtg decklists
-* Comprehensive archive page
-* Clean up taxonomies
+.htaccess
 
 [ok]
 * Disqus comments
@@ -10,3 +9,5 @@
 - embedded tweets
 * Taxonomy feeds
 * Twitter cards/other social media/SEA stuff
+* Comprehensive archive page
+* Clean up taxonomies

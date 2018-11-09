@@ -2,7 +2,7 @@
 categories:
 - Magic the Gathering
 date: 2008-12-06 22:16:37
-title: "Standard 06 Dec 2008 \xE2\u20AC\u201C Blightning Beatdown"
+title: "Standard 06 Dec 2008 -- Blightning Beatdown"
 type: post
 url: /2008/12/standard-06-dec-2008-blightning-beatdown/
 ---

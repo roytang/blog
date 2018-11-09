@@ -2,7 +2,7 @@
 categories:
 - Gaming
 date: 2007-10-13 23:49:01
-title: "Legend of Zelda \xE2\u20AC\u201C Phantom Hourglass"
+title: "Legend of Zelda -- Phantom Hourglass"
 type: post
 url: /2007/10/legend-of-zelda-phantom-hourglass/
 ---

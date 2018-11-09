@@ -2,7 +2,7 @@
 categories:
 - Magic the Gathering
 date: 2007-09-30 05:22:38
-title: "Lorwyn \xE2\u20AC\u201C Prerelease"
+title: "Lorwyn -- Prerelease"
 type: post
 url: /2007/09/lorwyn-prerelease/
 ---

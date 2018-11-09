@@ -3,7 +3,7 @@ author: roy
 categories:
 - Philippines
 date: 2005-06-07 23:04:06
-title: "Politics \xE2\u20AC\u201C Alleged Destabliziation Tape"
+title: "Politics -- Alleged Destabliziation Tape"
 type: post
 url: /2005/06/politics-alleged-destabliziation-tape/
 ---

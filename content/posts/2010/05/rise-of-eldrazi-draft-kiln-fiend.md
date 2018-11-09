@@ -11,7 +11,7 @@ tags:
 - draft
 - Limited
 - roe
-title: "Rise of Eldrazi Draft \xE2\u20AC\u201C Kiln Fiend"
+title: "Rise of Eldrazi Draft -- Kiln Fiend"
 type: post
 url: /2010/05/rise-of-eldrazi-draft-kiln-fiend/
 wp_jd_bitly:

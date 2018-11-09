@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Meta
 date: 2008-09-08 00:00:35
-title: "Blast From The Past \xE2\u20AC\u201C 2004 Desktop"
+title: "Blast From The Past -- 2004 Desktop"
 type: post
 url: /2008/09/blast-from-the-past-2004-desktop/
 ---

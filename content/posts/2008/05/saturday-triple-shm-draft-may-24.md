@@ -2,7 +2,7 @@
 categories:
 - Magic the Gathering
 date: 2008-05-25 04:06:13
-title: "Saturday Triple SHM Draft \xE2\u20AC\u201C May 24"
+title: "Saturday Triple SHM Draft -- May 24"
 type: post
 url: /2008/05/saturday-triple-shm-draft-may-24/
 ---

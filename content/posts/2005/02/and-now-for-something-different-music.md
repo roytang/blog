@@ -5,7 +5,7 @@ categories:
 date: 2005-02-17 14:15:00
 tags:
 - Music
-title: "And Now For Something Different \xE2\u20AC\u201C Music"
+title: "And Now For Something Different -- Music"
 type: post
 url: /2005/02/and-now-for-something-different-music/
 ---

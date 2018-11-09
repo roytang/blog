@@ -3,7 +3,7 @@ author: roy
 categories:
 - Philippines
 date: 2005-07-10 15:31:00
-title: "Gloriagate \xE2\u20AC\u201C Notes on the PCIJ Transcript"
+title: "Gloriagate -- Notes on the PCIJ Transcript"
 type: post
 url: /2005/07/gloriagate-notes-on-the-pcij-transcript/
 ---

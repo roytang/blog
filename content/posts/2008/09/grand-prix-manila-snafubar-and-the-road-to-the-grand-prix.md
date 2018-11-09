@@ -2,7 +2,7 @@
 categories:
 - Magic the Gathering
 date: 2008-09-01 07:19:24
-title: "Grand Prix Manila \xE2\u20AC\u201C Snafubar and the Road to the Grand Prix"
+title: "Grand Prix Manila -- Snafubar and the Road to the Grand Prix"
 type: post
 url: /2008/09/grand-prix-manila-snafubar-and-the-road-to-the-grand-prix/
 ---

@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Meta
 date: 2006-03-08 07:09:27
-title: "Personal DNA \xE2\u20AC\u201C Faithful Inventor"
+title: "Personal DNA -- Faithful Inventor"
 type: post
 url: /2006/03/personal-dna-faithful-inventor/
 ---

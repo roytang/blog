@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Just Another Day
 date: 2005-01-11 12:50:17
-title: "2004  \xE2\u20AC\u201C Year of Many Things"
+title: "2004  -- Year of Many Things"
 type: post
 url: /2005/01/2004-year-of-many-things/
 ---

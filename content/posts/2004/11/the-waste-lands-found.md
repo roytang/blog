@@ -6,7 +6,7 @@ categories:
 date: 2004-11-24 22:23:59
 tags:
 - Books
-title: "The Waste Lands \xE2\u20AC\u201C Found"
+title: "The Waste Lands -- Found"
 type: post
 url: /2004/11/the-waste-lands-found/
 ---

@@ -11,7 +11,7 @@ tags:
 - Limited
 - m11
 - sealed
-title: "M11 Sealed \xE2\u20AC\u201C You Make the Play"
+title: "M11 Sealed -- You Make the Play"
 type: post
 url: /2010/08/m11-sealed-you-make-the-play/
 wp_jd_bitly:

@@ -2,7 +2,7 @@
 categories:
 - Gaming
 date: 2005-09-08 00:17:00
-title: "Games \xE2\u20AC\u201C World of Warcraft"
+title: "Games -- World of Warcraft"
 type: post
 url: /2005/09/games-world-of-warcraft/
 ---

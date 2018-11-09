@@ -5,7 +5,7 @@ categories:
 date: 2006-10-29 09:16:01
 tags:
 - Books
-title: "Dark Tower VI \xE2\u20AC\u201C Song of Susannah"
+title: "Dark Tower VI -- Song of Susannah"
 type: post
 url: /2006/10/dark-tower-vi-song-of-susannah/
 ---

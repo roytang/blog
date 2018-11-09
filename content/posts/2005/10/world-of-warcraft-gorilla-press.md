@@ -2,7 +2,7 @@
 categories:
 - Gaming
 date: 2005-10-25 12:37:00
-title: "World of Warcraft \xE2\u20AC\u201C Gorilla press!"
+title: "World of Warcraft -- Gorilla press!"
 type: post
 url: /2005/10/world-of-warcraft-gorilla-press/
 ---

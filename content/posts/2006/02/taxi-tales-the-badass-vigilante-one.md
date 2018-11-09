@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Just Another Day
 date: 2006-02-22 06:37:28
-title: "Taxi Tales \xE2\u20AC\u201C The Badass Vigilante One"
+title: "Taxi Tales -- The Badass Vigilante One"
 type: post
 url: /2006/02/taxi-tales-the-badass-vigilante-one/
 ---

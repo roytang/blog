@@ -5,7 +5,7 @@ categories:
 date: 2007-02-10 23:27:18
 tags:
 - TV Series
-title: "Anime \xE2\u20AC\u201C One Piece"
+title: "Anime -- One Piece"
 type: post
 url: /2007/02/anime-one-piece/
 ---
