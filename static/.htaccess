@@ -1,0 +1,7 @@
+RewriteRule ^feed$ index.xml [R=301,L]
+RewriteRule ^feed/$ index.xml [R=301,L]
+RewriteRule ^tag/(.*)/$ tags/$1/ [R=301,L]
+RewriteRule ^tag/(.*)$ tags/$1/ [R=301,L]
+RewriteRule ^category/(.*)/$ categories/$1/ [R=301,L]
+RewriteRule ^category/(.*)$ categories/$1/ [R=301,L]
+
