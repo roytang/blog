@@ -1,1 +1,1 @@
-{"layout":"archives","url":"/archives"}
+{"layout":"archives","url":"/archives", "title":"Archives"}

@@ -1,0 +1,8 @@
+table.grid_archive td.arc {
+    background-color:#dceaeb;
+    text-align: center;
+}
+table.grid_archive a {
+    text-decoration: none;
+    color: black;
+}

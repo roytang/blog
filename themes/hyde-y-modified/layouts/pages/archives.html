@@ -1,38 +1,85 @@
-{{ $archYear := .Date.Format "2006" }}
-
 {{ partial "head" . }}
 <article id="main-content" class="container main_content single">
-<h3>Archive</h3>
+<h3>Post Archives</h3>
+
+<h4>All Posts</h4> 
 {{ $all_posts := where .Site.Pages "Section" "posts" }}
-<em>{{ len ($all_posts) }} posts total</em>
-
-{{ range (where .Site.Pages "Section" "posts").GroupByDate "2006 January" }}
-<h3>{{ .Key }}</h3>
-<ul>
-    {{ range .Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a> <small>{{ .Date.Format "Mon, Jan 2, 2006" }}</small></li>
-    {{ end }}
-</ul>
-{{ end }}
+<p>If you'd like a listing of all {{ len ($all_posts) }} posts in a single page, click <a href='{{ "/allposts/" | absURL }}'>here</a></p>
 
 
-<ul class="years">
-    {{ range where .Site.Pages "Section" "archy" }}
-    {{ $year := .Date.Format "2006" }}
-    <li>
-        <a href="{{ .Permalink }}">{{ $year }}</a>
-        <ul class="months">
-            {{ range where .Site.Pages "Section" "archm" }}
-                {{ if eq (.Date.Format "2006") $year }}
-                    {{ $month := .Date.Format "January" }}
-                    <li><a href="{{ .Permalink }}">{{ $month }}</a>
-                {{ end }}
+<h4>All Posts by Date</h4>
+
+{{ $scratch := newScratch }}
+<table class="grid_archive">
+    <tr>
+        <th>Year</th>
+        <th>Jan</th>
+        <th>Feb</th>
+        <th>Mar</th>
+        <th>Apr</th>
+        <th>May</th>
+        <th>Jun</th>
+        <th>Jul</th>
+        <th>Aug</th>
+        <th>Sep</th>
+        <th>Oct</th>
+        <th>Nov</th>
+        <th>Dec</th>
+        <th>Total</th>
+    </tr>
+{{ range (where .Site.Pages "Section" "posts").GroupByDate "2006" }}
+<tr>
+    <th>{{ .Key }}</th>
+    <!-- curr month is a loop index to count table cells -->
+    {{ $scratch.Set "CurrMonth" 1 }}
+    {{ range (.Pages.GroupByDate "1").Reverse }}
+        {{ $scratch.Set "ThisMonth" (int .Key) }} 
+        {{ $this_month := $scratch.Get "ThisMonth" }}
+        {{ $curr_month := $scratch.Get "CurrMonth" }}
+        {{ if lt $curr_month $this_month }}
+            <!-- add empty cells until we get to the correct current month -->
+            {{ $scratch.Set "ThisMonthMinus1" $this_month }}
+            {{ $scratch.Add "ThisMonthMinus1" -1 }}
+            {{ range $i, $sequence :=  (seq ($curr_month) ($scratch.Get "ThisMonthMinus1") ) }}
+                <td></td>
+                {{ $scratch.Add "CurrMonth" 1 }}
+            {{ end }}        
+        {{ end }}
+        <td class="arc">
+            {{ $count := len (.Pages) }}
+            {{ range first 1 .Pages }}
+                <a href='{{ .Date.Format "/2006/01/" | absURL }}'>{{ $count }}</a>
             {{ end }}
-        </ul>
-    </li>
+        </td>
+        {{ $scratch.Add "CurrMonth" 1 }}
+    {{ end }}    
+    <!-- add empty cells until we get to the end month -->
+    {{ $curr_month := $scratch.Get "CurrMonth" }}
+    {{ if lt $curr_month 13 }}
+        {{ range $i, $sequence :=  (seq ($curr_month) 12 ) }}
+            <td></td>
+        {{ end }}        
     {{ end }}
+    <td class="arc"><a href='{{ .Key | absURL }}'>{{ len (.Pages) }}</a></td>
+</tr>
+{{ end }}
+</table>
+
+<h4>All Posts by Category</h4>
+
+<ul>
+{{ range $key, $value := .Site.Taxonomies.categories }}
+	<li><a href="categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
+{{ end }}
 </ul>
 
+<h4>All Posts by Tag</h4>
+
+<ul>
+{{ range $key, $value := .Site.Taxonomies.tags }}
+	<li><a href="tags/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
+{{ end }}
+</ul>
 
 </article>
 {{ partial "foot" . }}
