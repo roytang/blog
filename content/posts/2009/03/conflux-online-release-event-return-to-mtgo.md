@@ -293,15 +293,15 @@ I made so many misplays I lost track of them already. Most of them were really m
   *   1. Swinging with [Ember Weaver][1] before playing the [Dragonsoul Knight][2] in my hand;
   *   1. Playing Mountain first when I had [Rupture Spire][3] and [Arcane Sanctum][4] and no turn one or two plays; 
   *   1. Pumping my [Knight of the Skyward Eye][5] in response to a [Dark Temper][6] because I forgot that [Shambling Remains][7] was black
-  *   1. Not using [Bant Battlemage][8] to save my nonflier from a modal [Branching Bolt][9] (I&'m pretty sure giving it flying would make it an invalid target, feel free to correct me if I&'m wrong)
+  *   1. Not using [Bant Battlemage][8] to save my nonflier from a modal [Branching Bolt][9] (I'm pretty sure giving it flying would make it an invalid target, feel free to correct me if I'm wrong)
 
 None of the above plays set me behind so much, but the collective effect lost me some close games and led to the dismal record. 
 
-One thing I noticed is that I should stop checking out my opponent&'s rating at the start of my match, I&'ve noticed that I have a subconscious tendency to make loose plays against opponents I perceive to be weaker, even if I&'m only ahead by a few rating points. I need to be able to play tight _all the time_ if I want to be a serious tournament contender.
+One thing I noticed is that I should stop checking out my opponent's rating at the start of my match, I've noticed that I have a subconscious tendency to make loose plays against opponents I perceive to be weaker, even if I'm only ahead by a few rating points. I need to be able to play tight _all the time_ if I want to be a serious tournament contender.
 
-Also, I&'ve noticed there are cards that I&'m not sure how to evaluate, such as [Manaforce Mace][10], which I never use because it seems so slow at 4cc/3equip, but I got my ass whupped by that card in one of the games.
+Also, I've noticed there are cards that I'm not sure how to evaluate, such as [Manaforce Mace][10], which I never use because it seems so slow at 4cc/3equip, but I got my ass whupped by that card in one of the games.
 
-Playing Limited now feels so different from playing Limited back when I wasn&'t a serious tournament player; I now spot a lot more mistakes and see a lot more room for improvement in my game. Unlike constructed where there&'s a lot less variation in the number of interactions, in Limited basically anything can happen so you need to learn to react to a lot more situations. Maybe I should focus more on Limited again (if only it weren&'t so expensive!)
+Playing Limited now feels so different from playing Limited back when I wasn't a serious tournament player; I now spot a lot more mistakes and see a lot more room for improvement in my game. Unlike constructed where there's a lot less variation in the number of interactions, in Limited basically anything can happen so you need to learn to react to a lot more situations. Maybe I should focus more on Limited again (if only it weren't so expensive!)
 
  [1]: http://magiccards.info/autocard.php?card=Ember Weaver
  [2]: http://magiccards.info/autocard.php?card=Dragonsoul Knight

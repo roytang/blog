@@ -74,7 +74,7 @@ _
       4 <a href="http://magiccards.info/autocard.php?card=Condemn">Condemn</a>
     </li>
     <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Faith's Fetters">Faith&'s Fetters</a>
+      3 <a href="http://magiccards.info/autocard.php?card=Faith's Fetters">Faith's Fetters</a>
     </li>
   </ul>
   
@@ -119,7 +119,7 @@ _
       2 <a href="http://magiccards.info/autocard.php?card=Grand Arbiter Augustine">Grand Arbiter Augustine</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Faith's Fetters">Faith&'s Fetters</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Faith's Fetters">Faith's Fetters</a>
     </li>
   </ul>
   
@@ -137,11 +137,11 @@ Deck notes:
    
 
    
-* First played on 30 July, 2006 &#8211; Standard Constructed Nationals Qualifer at Robinson&'s Galleria.
+* First played on 30 July, 2006 &#8211; Standard Constructed Nationals Qualifer at Robinson's Galleria.
    
 
    
-* Built-in spell snare rocks the house. Every deck has something important in the two-slot, and it&'s never been a dead draw.
+* Built-in spell snare rocks the house. Every deck has something important in the two-slot, and it's never been a dead draw.
    
 
    
@@ -179,7 +179,7 @@ Round 3: vs Ghost Husk
    
 
    
-Hah! Complete and utter domination. There is nothing in black-white aggro that my deck can&'t answer. His card advantage pales in comparison to the might of Court Hussar! Game 2 I side in Repeals out of courtesy (if I didn&'t board he might think I wasn&'t taking him seriously! And Repeals are instant-speed removal&#8230;better than Fetters against Husk), but they never show and I still win easily.
+Hah! Complete and utter domination. There is nothing in black-white aggro that my deck can't answer. His card advantage pales in comparison to the might of Court Hussar! Game 2 I side in Repeals out of courtesy (if I didn't board he might think I wasn't taking him seriously! And Repeals are instant-speed removal&#8230;better than Fetters against Husk), but they never show and I still win easily.
    
 
    
@@ -189,7 +189,7 @@ Round 4: vs R/G/W Fatties
    
 
    
-First game, he never showed any creatures, I won easily with him stuck at 4 land. I was wondering if I would bring in the Wraths, given that I saw R/G/W from the lands. I decide to not board anything and just see what his deck brings out. Turns out he&'s playing medium-huge creatures: Burning-Tree Shaman, Firemane Angel, Rumbling Slum. These are the types of decks Faith&'s Fetters is made to handle. I win with 10 life to spare.
+First game, he never showed any creatures, I won easily with him stuck at 4 land. I was wondering if I would bring in the Wraths, given that I saw R/G/W from the lands. I decide to not board anything and just see what his deck brings out. Turns out he's playing medium-huge creatures: Burning-Tree Shaman, Firemane Angel, Rumbling Slum. These are the types of decks Faith's Fetters is made to handle. I win with 10 life to spare.
    
 
    
@@ -199,7 +199,7 @@ Round 5: vs Firemane Control
    
 
    
-Horror of horrors&#8230;I&'ve now faced variations on two decks that I played before in Nationals Qualifiers. Unfortunately, Firemane Control was not a matchup I was anticipating&#8230;and it&'s a pretty bad matchup for me as well. I have no way to stop the recurring Angels / Shard Phoenix (no Azorius GMs show up to save the day), and my creatures are too small to overtake his awesome lifegain. This deck packs Isperia the Inscrutable!
+Horror of horrors&#8230;I've now faced variations on two decks that I played before in Nationals Qualifiers. Unfortunately, Firemane Control was not a matchup I was anticipating&#8230;and it's a pretty bad matchup for me as well. I have no way to stop the recurring Angels / Shard Phoenix (no Azorius GMs show up to save the day), and my creatures are too small to overtake his awesome lifegain. This deck packs Isperia the Inscrutable!
    
 
    
@@ -231,12 +231,12 @@ Round 8: vs Sea Stompy
    
 
    
-This U/G/R aggro-control deck is simply awesome. The guy I&'m fighting also beat me in Eastwood the week before, and I still don&'t know what to do against his deck! The deck relies on cheap and quick threats (Kird Ape, or BoP into Ninja of the Deep Hours), and always leaves two mana open at the end of each turn for Mana Leak, Remand or the ever-so-awesome Plaxmanta. He takes game 1 quickly; I side in Wraths for the first time, then manage to win Game 2 after a bit of dragging out. Game 3 we trade blows and counters for a while. But eventually he manages to get out a Jitte&'d Rumbling Slum which I pitifully chump block with a few Heralds before giving up.
+This U/G/R aggro-control deck is simply awesome. The guy I'm fighting also beat me in Eastwood the week before, and I still don't know what to do against his deck! The deck relies on cheap and quick threats (Kird Ape, or BoP into Ninja of the Deep Hours), and always leaves two mana open at the end of each turn for Mana Leak, Remand or the ever-so-awesome Plaxmanta. He takes game 1 quickly; I side in Wraths for the first time, then manage to win Game 2 after a bit of dragging out. Game 3 we trade blows and counters for a while. But eventually he manages to get out a Jitte'd Rumbling Slum which I pitifully chump block with a few Heralds before giving up.
    
 
    
 Match record: 11-7, Game record: 5-3
 
-I finish at 35th place&#8230;not bad, but not enough to get an invite. I&'m wondering if I&'m still going to play at next Saturday&'s qualifier&#8230;which is the last chance for me as I don&'t plan to go to Baguio to play. But, how can I tweak my deck further to win?
+I finish at 35th place&#8230;not bad, but not enough to get an invite. I'm wondering if I'm still going to play at next Saturday's qualifier&#8230;which is the last chance for me as I don't plan to go to Baguio to play. But, how can I tweak my deck further to win?
 
  [1]: #

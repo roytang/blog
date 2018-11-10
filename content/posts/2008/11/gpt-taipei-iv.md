@@ -7,7 +7,7 @@ type: post
 url: /2008/11/gpt-taipei-iv/
 ---
 
-Tournament was last November 2 at Robinson&'s Galleria. The format is Shards of Alara sealed. Because the store lacked tourney packs, the tournament was split into two halves; one half would get 1 tourney pack + 2 boosters, the other half would get 5 boosters. I played in the tourney pack half.
+Tournament was last November 2 at Robinson's Galleria. The format is Shards of Alara sealed. Because the store lacked tourney packs, the tournament was split into two halves; one half would get 1 tourney pack + 2 boosters, the other half would get 5 boosters. I played in the tourney pack half.
 
 My pool and decklist to follow. Basically, I played Naya again, splashing blue for (this is ridiculous) 2 Kederekt Leviathans!
 
@@ -125,7 +125,7 @@ _
       Sideboard
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Angel's Herald">Angel&'s Herald</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Angel's Herald">Angel's Herald</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Angelsong">Angelsong</a>
@@ -134,13 +134,13 @@ _
       1 <a href="http://magiccards.info/autocard.php?card=Bant Battlemage">Bant Battlemage</a>
     </li>
     <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Dispeller's Capsule">Dispeller&'s Capsule</a>
+      2 <a href="http://magiccards.info/autocard.php?card=Dispeller's Capsule">Dispeller's Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Marble Chalice">Marble Chalice</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Soul's Grace">Soul&'s Grace</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Soul's Grace">Soul's Grace</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Call to Heel">Call to Heel</a>
@@ -206,7 +206,7 @@ _
       1 <a href="http://magiccards.info/autocard.php?card=Mighty Emergence">Mighty Emergence</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Soul's Might">Soul&'s Might</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Soul's Might">Soul's Might</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Blightning">Blightning</a>
@@ -241,8 +241,8 @@ _
   </div>
 </div>
 
-Those 2 Leviathans won me the first round 2-0, but I punted the next 2 rounds in close 3rd games. I would&'ve dropped at this point, but some people convinced me to keep playing. Mistake, as I just went 0-2 in the 4th round.
+Those 2 Leviathans won me the first round 2-0, but I punted the next 2 rounds in close 3rd games. I would've dropped at this point, but some people convinced me to keep playing. Mistake, as I just went 0-2 in the 4th round.
 
 Final record: 1-3 matches, 4-6 games.
 
-That was a short (and delayed) report. Oh well, not going to Taipei, obv. Work has been busy anyway, and there&'s Fallout 3, so not much time for Magic at the moment. Still intent to PTQ though.
+That was a short (and delayed) report. Oh well, not going to Taipei, obv. Work has been busy anyway, and there's Fallout 3, so not much time for Magic at the moment. Still intent to PTQ though.

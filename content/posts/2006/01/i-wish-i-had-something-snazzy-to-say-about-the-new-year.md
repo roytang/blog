@@ -14,4 +14,4 @@ url: /2006/01/i-wish-i-had-something-snazzy-to-say-about-the-new-year/
 
 The transition from the last year felt a bit strange to me. Usually, the new year is a time for letting go of the past, and looking ahead to a whole new future. That so perfectly described the end of the last year, as things changed around me and just naturally fell into positions where I would be able to leave them behind. Things changed, things I had known for a long time and taken from granted.
 
-I look forward to the coming year. A new beginning I suppose. I hope it&'s interesting at least.
+I look forward to the coming year. A new beginning I suppose. I hope it's interesting at least.

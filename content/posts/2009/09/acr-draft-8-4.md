@@ -7,7 +7,7 @@ type: post
 url: /2009/09/acr-draft-8-4/
 ---
 
-Wanted to try out draft recording, the same method that <a link="http://pinoyraredrafter.blogspot.com">pinoyraredrafter</a> uses. The below is an ACR draft I tried this morning. I think the deck was decent, although I made a number of questionable picks. I don&'t have match stories to go along though, I got mana screwed in game 1 then lost a nailbiter in game 3.
+Wanted to try out draft recording, the same method that <a link="http://pinoyraredrafter.blogspot.com">pinoyraredrafter</a> uses. The below is an ACR draft I tried this morning. I think the deck was decent, although I made a number of questionable picks. I don't have match stories to go along though, I got mana screwed in game 1 then lost a nailbiter in game 3.
 
 
 

@@ -134,13 +134,13 @@ wp-syntax-cache-content:
   getClickHandler(i);\n    }\n  &lt;/script&gt;</p></div>\n\";}\n"
 ---
 
-In JavaScript, referencing variables that are declared outside of a function&'s scope can be tricky. If you have code like this:
+In JavaScript, referencing variables that are declared outside of a function's scope can be tricky. If you have code like this:
 
 <pre lang="javascript"></pre>
 
 The click handler above retains a reference to the test variable even though it falls out of scope as soon as the script block finishes execution. When you actually click the button, the alert will show the last value of the variable when the block finished execution (2) instead of the value at the time the function was initialized (1).
 
-I thought about this because another developer raised a similar problem to me a few days ago. He had a loop that was initializing click handlers for an array of elements. Of course I can&'t replicate his example here, but let&'s say we wanted to add click handlers to an array of buttons that would show the result of multiplying an input value by different integers.
+I thought about this because another developer raised a similar problem to me a few days ago. He had a loop that was initializing click handlers for an array of elements. Of course I can't replicate his example here, but let's say we wanted to add click handlers to an array of buttons that would show the result of multiplying an input value by different integers.
 
 <pre lang="javascript"></pre>
 

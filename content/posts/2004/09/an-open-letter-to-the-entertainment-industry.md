@@ -9,7 +9,7 @@ url: /2004/09/an-open-letter-to-the-entertainment-industry/
 
 Dear Content Producers and Owners:
 
-We lied to you. In the golden 80s and 90s we told you micropayments and content protection would work; that you would be able to charge minuscule amounts of money whenever someone listened to your music or watched your movie. We told you untruths which we well knew would never work &#8211; after all, we would&'ve never used them ourselves. Instead, we wrote things like Kazaa and Gnutella, and all other evil P2P applications to get the stuff free.
+We lied to you. In the golden 80s and 90s we told you micropayments and content protection would work; that you would be able to charge minuscule amounts of money whenever someone listened to your music or watched your movie. We told you untruths which we well knew would never work &#8211; after all, we would've never used them ourselves. Instead, we wrote things like Kazaa and Gnutella, and all other evil P2P applications to get the stuff free.
 
 [
     

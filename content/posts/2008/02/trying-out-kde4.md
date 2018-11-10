@@ -31,12 +31,12 @@ Bad:
   * Window controls are still buggy, combo boxes occasionally are not working correctly
   * Limited options for the desktop wallpaper &#8211; I liked the &#8220;Slideshow&#8221; option in KDE3.5
   * Ctrl+Alt+D keybinding for &#8220;Show Desktop&#8221; not set by default. (It was enabled by default in KDE 3.5 for Kubuntu)
-  * Everything on the desktop is now a widget. That includes the start menu, the panel, the system tray, and icons on the desktop. This isn&'t a bad thing per se, but I got confused by the icons on the desktop being widgets. They have some widget controls around them that allow me to rotate or remove them from view. I was like &#8220;Eh? Why would I want to rotate the icons one-by-one? And will clicking this X thing delete the file?&#8221; And the icons don&'t have the usual context menu for files. Apparently it&'s designed so that the icons on the desktop are not treated as files inside a file manager. I realize it&'s intended to be a completely different paradigm, but it just threw me off.
+  * Everything on the desktop is now a widget. That includes the start menu, the panel, the system tray, and icons on the desktop. This isn't a bad thing per se, but I got confused by the icons on the desktop being widgets. They have some widget controls around them that allow me to rotate or remove them from view. I was like &#8220;Eh? Why would I want to rotate the icons one-by-one? And will clicking this X thing delete the file?&#8221; And the icons don't have the usual context menu for files. Apparently it's designed so that the icons on the desktop are not treated as files inside a file manager. I realize it's intended to be a completely different paradigm, but it just threw me off.
   * Occasional slowdown. Sometimes when moving my mouse over the Task Manager widget, the tooltips for each active window all appear together without fading out appropriately.
   * Konqueror is still not a very good web browser. And Firefox does not look good in KDE4. (In KDE3.5 I had installed the package that allows GTK apps to use QT so it looks ok there. Not sure if something similar already exists for KDE4)
-  * I don&'t like the Oxygen window decorator.
+  * I don't like the Oxygen window decorator.
 
-In general, it looks nice and is promising, but I&'m not sure I would be ready to have it for everyday use. I&'ll switch back to KDE3.5 after posting this, and will maybe try KDE4 again after the next Kubuntu release to see how it&'s improved.
+In general, it looks nice and is promising, but I'm not sure I would be ready to have it for everyday use. I'll switch back to KDE3.5 after posting this, and will maybe try KDE4 again after the next Kubuntu release to see how it's improved.
 
  [1]: /files/uploads/2008/02/screenshot.thumbnail.png
  [2]: /files/uploads/2008/02/screenshot.png "KDE4 Screenshot"

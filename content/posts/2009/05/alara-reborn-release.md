@@ -7,7 +7,7 @@ type: post
 url: /2009/05/alara-reborn-release/
 ---
 
-Alara Reborn is finally available locally! For a while I thought about heading to Baguio for the King of the North tournament, but the fact is I have no standard deck ready at the moment. Besides, I wanted to practice sealed deckbuilding for the upcoming Bangkok GPTs, so this morning I was sleeving up a 40-card deck at Robinson&'s Galleria.
+Alara Reborn is finally available locally! For a while I thought about heading to Baguio for the King of the North tournament, but the fact is I have no standard deck ready at the moment. Besides, I wanted to practice sealed deckbuilding for the upcoming Bangkok GPTs, so this morning I was sleeving up a 40-card deck at Robinson's Galleria.
 
 <div class="decklist_wrap">
   <!--
@@ -307,9 +307,9 @@ And the rest of the pool:
   </div>
 </div>
 
-After the debacle with last week&'s manabase during the prerelease, I was more conservative with the colors. I resisted the urge to go for the additional removal offered by red and [Terminate][1]. [Lord of Extinction][2] and [Behemoth Sledge][3] were very tempting though, since they&'re outright bombs.
+After the debacle with last week's manabase during the prerelease, I was more conservative with the colors. I resisted the urge to go for the additional removal offered by red and [Terminate][1]. [Lord of Extinction][2] and [Behemoth Sledge][3] were very tempting though, since they're outright bombs.
 
-My only two-drops were 2 [Grixis Grimblade][4]; based on some of my math analysis during the past week I would need at least 6-7 of each mana source for a 2-color card to have a 70% chance of being able to cast it on turns 2-3, so I went with 6 islands, 5 swamp and the borderpost. Between the [Jungle Shrine][5], the [Obelisk of Bant][6] and the [Wildfield Borderpost][7], I figured I had enough green sources to support the 2-card splash, especially since both cards don&'t need to be played early. I put in plains for the remainder of the lands and felt quite satisfied with the mana.
+My only two-drops were 2 [Grixis Grimblade][4]; based on some of my math analysis during the past week I would need at least 6-7 of each mana source for a 2-color card to have a 70% chance of being able to cast it on turns 2-3, so I went with 6 islands, 5 swamp and the borderpost. Between the [Jungle Shrine][5], the [Obelisk of Bant][6] and the [Wildfield Borderpost][7], I figured I had enough green sources to support the 2-card splash, especially since both cards don't need to be played early. I put in plains for the remainder of the lands and felt quite satisfied with the mana.
 
 **Round 1**
 
@@ -319,13 +319,13 @@ I open with [Grixis Grimblade][4] into [Grixis Grimblade][4]. I see [Spellbreake
 
 **Round 2**
 
-Game one I take an early lead and lay down [Scourglass][10] for security. He shows me [Karthus, Tyrant of Jund][11] taking me to six. During my upkeep, I wipe with the [Scourglass][10] then lay down [Lord of Extinction][2] and [Master of Etherium][12] to go for the kill next turn. He untaps and shows me [Vengeful Rebirth][13] and we&'re shuffling for game two.
+Game one I take an early lead and lay down [Scourglass][10] for security. He shows me [Karthus, Tyrant of Jund][11] taking me to six. During my upkeep, I wipe with the [Scourglass][10] then lay down [Lord of Extinction][2] and [Master of Etherium][12] to go for the kill next turn. He untaps and shows me [Vengeful Rebirth][13] and we're shuffling for game two.
 
 Game two I have a 12/12 [Lord of Extinction][2] and he eventually runs out of chump blockers.
 
-Game three, we&'re trading on board, but I get a slight advantage with Shieldmages and he&'s down to seven. I have [Cloudhearth Drake][14] and [Glassdust Hulk][15]. Eventually I go [Lord of Extinction][2] into [Sharuum the Hegemon][16] bringing back [Ethersworn Shieldmage][17], then declare combat. He thinks about hitting the Drake with [Intimidation Bolt][18] but realizes the Shieldmage protects the Drake so he tells me to swing and moves to block&#8230;
+Game three, we're trading on board, but I get a slight advantage with Shieldmages and he's down to seven. I have [Cloudhearth Drake][14] and [Glassdust Hulk][15]. Eventually I go [Lord of Extinction][2] into [Sharuum the Hegemon][16] bringing back [Ethersworn Shieldmage][17], then declare combat. He thinks about hitting the Drake with [Intimidation Bolt][18] but realizes the Shieldmage protects the Drake so he tells me to swing and moves to block&#8230;
 
-&#8230;but I point out the Glassdust Hulk is 5/6 and unblockable due to Sharuum. He can&'t block either the Hulk nor the Drake so I take the win.
+&#8230;but I point out the Glassdust Hulk is 5/6 and unblockable due to Sharuum. He can't block either the Hulk nor the Drake so I take the win.
 
 4-1 games, 2-0 rounds
 
@@ -343,9 +343,9 @@ Second game was [Grixis Grimblade][4] into [Grixis Grimblade][4] into [Tower Gar
 
 7-3 games, 3-1 rounds
 
-Didn&'t get the 4-0, but still in terms of deck building this one was a lot better than what I did with the prerelease sealed pool. I&'m thinking more clearly in terms of how to allocate the mana and how I&'m going to play the early drops.
+Didn't get the 4-0, but still in terms of deck building this one was a lot better than what I did with the prerelease sealed pool. I'm thinking more clearly in terms of how to allocate the mana and how I'm going to play the early drops.
 
-Next week is constructed (Regionals), but I don&'t have any deck lined up yet and will most likely cook something up the day before. I&'ll probably be playing something simple, aggro, red or all of the above. We&'ll see next week.
+Next week is constructed (Regionals), but I don't have any deck lined up yet and will most likely cook something up the day before. I'll probably be playing something simple, aggro, red or all of the above. We'll see next week.
 
  [1]: http://magiccards.info/autocard.php?card=Terminate
  [2]: http://magiccards.info/autocard.php?card=Lord of Extinction

@@ -10,7 +10,7 @@ url: /2017/01/my-2016-in-numbers/
 
 Random statistics from 2016:
 
-  * 74 blog posts (total of 769 currently on this site, some imported from as early as 2002. The record for a single year was 148 back in 2008, but that was back when I didn&'t do social media much so even short posts made it to the blog, delicious bookmarks were auto-posted here, etc.)
+  * 74 blog posts (total of 769 currently on this site, some imported from as early as 2002. The record for a single year was 148 back in 2008, but that was back when I didn't do social media much so even short posts made it to the blog, delicious bookmarks were auto-posted here, etc.)
   * 50,135 words written for [Nanowrimo][1]
   * 321 sketches submitted to [r/sketchdaily][2]
   * Duolingo streak: 225 days
@@ -29,7 +29,7 @@ Random statistics from 2016:
   * Best Hearthstone rank: 9
   * Best Duelyst rank: 7
   * Average points per turn in Words with Friends: 26.5 (up from 25)
-  * Books read: 30 (year target was 52). [Here&'s the list.][4]
+  * Books read: 30 (year target was 52). [Here's the list.][4]
   * Things watched on Netflix: 880
   * Quiz nights attended: 11 (we won prizes 8 times, first place 5 times)
   * Uber trips: 22

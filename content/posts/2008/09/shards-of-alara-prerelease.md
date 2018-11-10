@@ -7,7 +7,7 @@ type: post
 url: /2008/09/shards-of-alara-prerelease/
 ---
 
-I hit the first flight at Eastwood City last Saturday, September 27. Here&'s my sealed pool:
+I hit the first flight at Eastwood City last Saturday, September 27. Here's my sealed pool:
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -48,7 +48,7 @@ I hit the first flight at Eastwood City last Saturday, September 27. Here&'s my 
       1 <a href="http://magiccards.info/autocard.php?card=Obelisk of Esper">Obelisk of Esper</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&'s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier's Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Resounding Wave">Resounding Wave</a>
@@ -153,7 +153,7 @@ I hit the first flight at Eastwood City last Saturday, September 27. Here&'s my 
       1 <a href="http://magiccards.info/autocard.php?card=Cathartic Adept">Cathartic Adept</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&'s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier's Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Etherium Astrolabe">Etherium Astrolabe</a>
@@ -192,7 +192,7 @@ I hit the first flight at Eastwood City last Saturday, September 27. Here&'s my 
       1 <a href="http://magiccards.info/autocard.php?card=Savage Hunger">Savage Hunger</a>
     </li>
     <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Soul's Might">Soul&'s Might</a>
+      3 <a href="http://magiccards.info/autocard.php?card=Soul's Might">Soul's Might</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Topan Ascetic">Topan Ascetic</a>
@@ -234,7 +234,7 @@ I hit the first flight at Eastwood City last Saturday, September 27. Here&'s my 
       1 <a href="http://magiccards.info/autocard.php?card=Bloodpyre Elemental">Bloodpyre Elemental</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Dragon's Herald">Dragon&'s Herald</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Dragon's Herald">Dragon's Herald</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Exuberant Firestoker">Exuberant Firestoker</a>
@@ -264,7 +264,7 @@ I hit the first flight at Eastwood City last Saturday, September 27. Here&'s my 
       1 <a href="http://magiccards.info/autocard.php?card=Angelsong">Angelsong</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Dispeller's Capsule">Dispeller&'s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Dispeller's Capsule">Dispeller's Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Excommunicate">Excommunicate</a>
@@ -276,7 +276,7 @@ I hit the first flight at Eastwood City last Saturday, September 27. Here&'s my 
       1 <a href="http://magiccards.info/autocard.php?card=Marble Chalice">Marble Chalice</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Soul's Grace">Soul&'s Grace</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Soul's Grace">Soul's Grace</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Sunseed Nurturer">Sunseed Nurturer</a>
@@ -289,7 +289,7 @@ I hit the first flight at Eastwood City last Saturday, September 27. Here&'s my 
 
 
    
-The pool was pretty good, decent removal and I built the deck around fatties (Naya, obviously). I opened two Mythic Rares which was obviously above average. As a side note, I don&'t know about the secondary market effect but when opening boosters, Mythic Rares are absolutely a home run. You find yourself excited to open every Alara booster in hopes of ripping a Mythic!
+The pool was pretty good, decent removal and I built the deck around fatties (Naya, obviously). I opened two Mythic Rares which was obviously above average. As a side note, I don't know about the secondary market effect but when opening boosters, Mythic Rares are absolutely a home run. You find yourself excited to open every Alara booster in hopes of ripping a Mythic!
 
 No game blow-by-blow this time. I went 3 and 1, losing in round 2 to an Exalted deck. I severely underestimated this mechanic in Limited;
    
@@ -299,7 +299,7 @@ is a pretty big problem for the opposing player.
 
 So I failed to win a prerelease shirt again (somewhat awkward since I had made a forum post asking if we would have prerelease shirts larger than XL!)
 
-The packs I won didn&'t have any good rares, so I convinced Switch that we should go play another flight (in hindsight it wasn&'t that good an idea!)
+The packs I won didn't have any good rares, so I convinced Switch that we should go play another flight (in hindsight it wasn't that good an idea!)
 
 My second flight pool:
  
@@ -354,7 +354,7 @@ My second flight pool:
       1 <a href="http://magiccards.info/autocard.php?card=Infest">Infest</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&'s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier's Capsule</a>
     </li>
     <li>
       2 <a href="http://magiccards.info/autocard.php?card=Agony Warp">Agony Warp</a>
@@ -534,7 +534,7 @@ My second flight pool:
       1 <a href="http://magiccards.info/autocard.php?card=Cradle of Vitality">Cradle of Vitality</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Dispeller's Capsule">Dispeller&'s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Dispeller's Capsule">Dispeller's Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Guardians of Akrasa">Guardians of Akrasa</a>
@@ -564,11 +564,11 @@ This pool was significantly worse; I basically just put together all the removal
 
 I only went 2 and 2 this time though; I lost round one after my opponent hit the cycling off Resounding Thunder before I did. I lost round four in two games &#8211; both to a resolved Realm Razer that left me defenseless.
 
-So, 5-3 in eight rounds. It wasn&'t bad, but it wasn&'t good either.
+So, 5-3 in eight rounds. It wasn't bad, but it wasn't good either.
 
 Slops to the venue at Eastwood. The playing area was in the open, it was humid and later in the night we had to play in the dark and with rain pouring on the tents.
 
-Anyway, Alara seems pretty good, especially in limited. The multicolor theme is always fun, and there&'s surprisingly a lot of color-fixing available for four or five color decks. However, we probably won&'t play at the release party, seeing as how we played the prerelease TWICE.
+Anyway, Alara seems pretty good, especially in limited. The multicolor theme is always fun, and there's surprisingly a lot of color-fixing available for four or five color decks. However, we probably won't play at the release party, seeing as how we played the prerelease TWICE.
 
  [1]: http://magiccards.info/autocard.php?card=Angelic Benediction
 

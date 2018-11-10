@@ -8,7 +8,7 @@ type: post
 url: /2007/10/ravnica39s-last-hurrah/
 ---
 
-I wasn&'t too keen on playing, but that Dark Confidant kept whispering at me to give him one more chance. Rakdos again, except I removed Martyr of Ashes from the board and put in Avalanche Riders to help the terrible Angelfire matchup.
+I wasn't too keen on playing, but that Dark Confidant kept whispering at me to give him one more chance. Rakdos again, except I removed Martyr of Ashes from the board and put in Avalanche Riders to help the terrible Angelfire matchup.
 
 Round 1: 2-1 win vs BWR Slivers
 
@@ -24,7 +24,7 @@ Terrible matchup. Stupid Goblins keep getting in the way of the Solifuge
 
 Round 4: 1-2 loss vs WRU Angelfire
 
-I could&'ve won off a Demonfire, had he not had the foresight to Fetters the storage land. Where are those Avalanche riders?
+I could've won off a Demonfire, had he not had the foresight to Fetters the storage land. Where are those Avalanche riders?
 
 Round 5: 0-2 loss vs WRU Angelfire
 

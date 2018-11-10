@@ -17,6 +17,6 @@ Zeldas of old
    
 . There are a lot more hints this time around on how to get past stuff, etc. He told me that the 3d Zeldas are even easier. One of the sacrifices they had to make to become popular I suppose. Of woe to the hardcore gamer! (Not that I claim to be a hardcore gamer mind you)
 
-Still, very enjoyable game. Don&'t even need knowledge of Wind Waker to play it. (Although it helped being told that Link jumps farther when carrying a chicken.)
+Still, very enjoyable game. Don't even need knowledge of Wind Waker to play it. (Although it helped being told that Link jumps farther when carrying a chicken.)
 
  [1]: http://roytang.net/blog/2007/10/memories-of-zelda/

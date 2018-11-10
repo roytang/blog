@@ -21,7 +21,7 @@ url: /2008/02/i39m-lawful-good/
 &nbsp;
 
 <p align="left">
-  I&'ve taken online alignment quizzes several times over the years. I&'ve <strong>always </strong>turned out Lawful Good. I&'m just not as Chaotic as I think I am.
+  I've taken online alignment quizzes several times over the years. I've <strong>always </strong>turned out Lawful Good. I'm just not as Chaotic as I think I am.
 </p>
 
 [The D&D Online Alignment Test

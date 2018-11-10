@@ -7,6 +7,6 @@ type: post
 url: /2007/12/i-play-too-quickly/
 ---
 
-The first step is admitting you have a problem. I&'ve thrown away games because I played spells without thinking and attacked without thinking. I go on autopilot far too often. It has got to stop.
+The first step is admitting you have a problem. I've thrown away games because I played spells without thinking and attacked without thinking. I go on autopilot far too often. It has got to stop.
 
-What&'s the preventive measure? I&'ll count to 3 before making every decision.
+What's the preventive measure? I'll count to 3 before making every decision.

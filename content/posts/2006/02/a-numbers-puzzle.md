@@ -10,7 +10,7 @@ type: post
 url: /2006/02/a-numbers-puzzle/
 ---
 
-Some people I know enjoy puzzles. (So do I.) Here&'s a neat one:
+Some people I know enjoy puzzles. (So do I.) Here's a neat one:
 
 1. 85
 
@@ -36,7 +36,7 @@ The only hint provided is:
 
 &nbsp;
 
-> It&'s not something you&'ll figure out by just thinking about it, but with some creative Googling you can get it.
+> It's not something you'll figure out by just thinking about it, but with some creative Googling you can get it.
 
 _
   
@@ -52,13 +52,13 @@ J-Walk
   
 _ 
 
-Edit 2017: The link above is dead, so I&'ve recovered the answer from the Wayback Machine, for my own sanity.
+Edit 2017: The link above is dead, so I've recovered the answer from the Wayback Machine, for my own sanity.
 
-They&'re all prisoners!
+They're all prisoners!
 
 1) 85 &#8211; Al Capone
   
-2) 37 &#8211; Paul Newman&'s character in Cool Hand Luke
+2) 37 &#8211; Paul Newman's character in Cool Hand Luke
   
 3) 655321 &#8211; Alex in A Clockwork Orange
   
@@ -74,6 +74,6 @@ They&'re all prisoners!
   
 9) 42799 &#8211; Frank Sinatra
   
-10) 6 &#8211; Patrick McGoohan&'s character in The Prisoner
+10) 6 &#8211; Patrick McGoohan's character in The Prisoner
 
  [1]: http://j-walkblog.com/index.php?/weblog/comments/davids_puzzle/

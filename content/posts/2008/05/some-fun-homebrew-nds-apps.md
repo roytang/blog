@@ -7,7 +7,7 @@ type: post
 url: /2008/05/some-fun-homebrew-nds-apps/
 ---
 
-I was neglecting the NDS a bit, so I decided to look for some fun homebrew stuff to do with it. Here are some I tried (You&'ll need some sort of flashcart to use these. Mine is an R4.):
+I was neglecting the NDS a bit, so I decided to look for some fun homebrew stuff to do with it. Here are some I tried (You'll need some sort of flashcart to use these. Mine is an R4.):
  
   
 
@@ -18,7 +18,7 @@ I was neglecting the NDS a bit, so I decided to look for some fun homebrew stuff
     
 ][1] 
     
-    &#8211; a neat little toy app that allows you to draw diagrams on the touch screen that would then become affected by physics. It&'s a bit like a free-form
+    &#8211; a neat little toy app that allows you to draw diagrams on the touch screen that would then become affected by physics. It's a bit like a free-form
     
     [
      
@@ -26,7 +26,7 @@ I was neglecting the NDS a bit, so I decided to look for some fun homebrew stuff
     
 ][2] 
     
-    that&'s portable. It&'s a bit of work to get a nice physics model done, but there are some available for download, you can just view the work of others if you want. 
+    that's portable. It's a bit of work to get a nice physics model done, but there are some available for download, you can just view the work of others if you want. 
   * [
      
     Colors!
@@ -44,7 +44,7 @@ I was neglecting the NDS a bit, so I decided to look for some fun homebrew stuff
 
 
    
-There&'s a whole world of homebrew apps/games out there to explore, these were just the ones I could try out in one sitting. Try
+There's a whole world of homebrew apps/games out there to explore, these were just the ones I could try out in one sitting. Try
    
 [
     
@@ -64,7 +64,7 @@ Homebrew Week at DS Fanboy
    
 .
 
-Now if you&'ll excuse me, I&'m trying to help Guybrush find Big Whoop&#8230;
+Now if you'll excuse me, I'm trying to help Guybrush find Big Whoop&#8230;
 
  [1]: http://tobw.net/index.php?cat_id=3&project=Pocket+Physics
  [2]: http://en.wikipedia.org/wiki/The_Incredible_Machine

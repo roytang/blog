@@ -7,9 +7,9 @@ type: post
 url: /2009/08/gpt-bangkok-4-1st/
 ---
 
-[Grand Prix Bangkok][1] happens three weekends from now, and I&'ve already booked the flight and hotel. All I need now are byes!
+[Grand Prix Bangkok][1] happens three weekends from now, and I've already booked the flight and hotel. All I need now are byes!
 
-The fourth GPT here was yesterday, Sunday Aug 2 at Robinson&'s Galleria. The format is M10 Sealed and I found myself faced with the following sealed pool:
+The fourth GPT here was yesterday, Sunday Aug 2 at Robinson's Galleria. The format is M10 Sealed and I found myself faced with the following sealed pool:
 
 <div class="decklist_wrap">
   <table width="100%" border="1">
@@ -282,7 +282,7 @@ This was only my second time with M10 Sealed, but the pool looked pretty solid t
 
 In the end white got the nod for the secondary, with black as tertiary splash for 3 kill spells off one swamp. I really like [Safe Passage][4] in this format as it helps defend against random [Overrun][5]s.
 
-Here&'s the list I played:
+Here's the list I played:
 
 <div class="decklist_wrap">
   <table width="100%" border="1">
@@ -383,7 +383,7 @@ Here&'s the list I played:
   </table>
 </div>
 
-Yes, I left [Divine Verdict][6] in the board. I&'m brilliant that way.
+Yes, I left [Divine Verdict][6] in the board. I'm brilliant that way.
 
 Quick match reports!
 
@@ -393,27 +393,27 @@ Game 1 I got attacked twice by a Sage Owl and won with 18 life.
 
 Game 2 I board in Windstorm, and get a 3-for-1 during his attack, but somehow he recovers with 2 Wind Drakes that go all the way.
 
-Game 3 We had an interesting judge call. I had a 4/4 trampler attacking into a 3/5 [Siege Mastodon][7]. I play [Harm's Way][8] bouncing 2 damage back to the Mastodon, do I get to assign one trample damage or not? Judge ruled that I did not and that was fine since I wasn&'t sure. The 1 damage ends up not mattering as I lose to 2 2/2 fliers again. _(The judge later told me that after thinking about it he wasn&'t very sure about the ruling either)_
+Game 3 We had an interesting judge call. I had a 4/4 trampler attacking into a 3/5 [Siege Mastodon][7]. I play [Harm's Way][8] bouncing 2 damage back to the Mastodon, do I get to assign one trample damage or not? Judge ruled that I did not and that was fine since I wasn't sure. The 1 damage ends up not mattering as I lose to 2 2/2 fliers again. _(The judge later told me that after thinking about it he wasn't very sure about the ruling either)_
 
-**Round 2** It&'s a bye! What?
+**Round 2** It's a bye! What?
 
 **Round 3**
 
 Game 1 we start off both with G/W but then I start playing Doom Blades and take the game.
 
-Game 2 He suddenly lost his plains and gained swamps. I lost to a [Kelinore Bat][9], how embarrassing. Post-game discussion: _Ba&'t nag-iba ka ng kulay?_, _Hahaha_
+Game 2 He suddenly lost his plains and gained swamps. I lost to a [Kelinore Bat][9], how embarrassing. Post-game discussion: _Ba't nag-iba ka ng kulay?_, _Hahaha_
 
-Game 3 Garruk shows up turn four, and from there it&'s basically 3 for 1&'s to win the game.
+Game 3 Garruk shows up turn four, and from there it's basically 3 for 1's to win the game.
 
 **Round 4**
 
-Game 1 He plays [Overrun][5] on turn five with 3 creatures on the board and me at 16. I [Doom Blade][10] away a guy and drop to six. On my turn, I play another removal spell and a blocker, and he&'s out of gas from there.
+Game 1 He plays [Overrun][5] on turn five with 3 creatures on the board and me at 16. I [Doom Blade][10] away a guy and drop to six. On my turn, I play another removal spell and a blocker, and he's out of gas from there.
 
 Game 2 I board in a 2/3 forestwalker that never gets answered and it takes the game.
 
 **Round 5**
 
-I don&'t remember much, but I took the win in 3 games. In one game he played turn four [Whispersilk Cloak][11] and turn 5 [Ant Queen][12] Yikes! Luckily I drew the [Borderland Ranger][13] who got the swamp for the [Doom Blade][10] before he got equip that thing.
+I don't remember much, but I took the win in 3 games. In one game he played turn four [Whispersilk Cloak][11] and turn 5 [Ant Queen][12] Yikes! Luckily I drew the [Borderland Ranger][13] who got the swamp for the [Doom Blade][10] before he got equip that thing.
 
 **Round 6**
 
@@ -590,11 +590,11 @@ The only relevant match was against the semis where the other guy was playing Bl
 
 Game 1 I start with [Soul Warden][22] He starts with turn 2 [Sage Owl][23] and turn 3 [Hypnotic Spectre][24]. I play [Ice Cage][25] and follow-up with [Griffin Sentinel][26]. From there we start racing; he has a numerical advantage but my Warden gains me in the neighborhood of 12 life. I bring him to one but forgot to counter a crucial [Phantom Warrior][27] that meant I would not survive the next turn.
 
-Game 2 He plays 2nd turn [Sage Owl][23]. It seems he&'s sided in [Alluring Sirens][28] which makes a bunch of my [Illusionary Servant][29]s pretty bad. Somehow I manage to counter the relevant spells and run him out of gas to steal the win.
+Game 2 He plays 2nd turn [Sage Owl][23]. It seems he's sided in [Alluring Sirens][28] which makes a bunch of my [Illusionary Servant][29]s pretty bad. Somehow I manage to counter the relevant spells and run him out of gas to steal the win.
 
-Game 3 He plays 2nd turn [Sage Owl][23]. I joke about asking for a deck check on those Owls. I&'m losing badly, stalling at four lands. I&'m at five life and about to die the next turn when I draw my fifth land. &#8220;You have one card in hand right?&#8221; I ask him. Hoping he has no removal left, I play the [Baneslayer Angel][19]. He draws no Doom Blades or Tendrils and the angel is impossible to race with, so I take the game from there.
+Game 3 He plays 2nd turn [Sage Owl][23]. I joke about asking for a deck check on those Owls. I'm losing badly, stalling at four lands. I'm at five life and about to die the next turn when I draw my fifth land. &#8220;You have one card in hand right?&#8221; I ask him. Hoping he has no removal left, I play the [Baneslayer Angel][19]. He draws no Doom Blades or Tendrils and the angel is impossible to race with, so I take the game from there.
 
-Although the draft and the actual quarters match was more luck than skill, a win&'s a win, so I [posted on Twitter][30] as soon as I got home.
+Although the draft and the actual quarters match was more luck than skill, a win's a win, so I [posted on Twitter][30] as soon as I got home.
 
 19 days remain until [Grand Prix Bangkok][1]&#8230;
 

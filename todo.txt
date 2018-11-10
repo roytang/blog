@@ -1,8 +1,3 @@
-* Fix imported posts with:
-    - spoiler tags
-    - mtg decklists
-.htaccess
-
 [ok]
 * Disqus comments
 * Redirect old rss feeds
@@ -11,3 +6,8 @@
 * Twitter cards/other social media/SEA stuff
 * Comprehensive archive page
 * Clean up taxonomies
+* Fix imported posts with:
+    - spoiler tags
+    - mtg decklists
+.htaccess
+

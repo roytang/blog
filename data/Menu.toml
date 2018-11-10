@@ -8,5 +8,8 @@
 
 [archives]
     Name = "Archives"
-    Title = "Show post archives"
     URL = "/archives/"
+
+[links]
+    Name = "Links"
+    URL = "/links/"

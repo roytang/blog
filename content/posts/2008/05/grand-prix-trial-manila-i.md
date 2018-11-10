@@ -7,9 +7,9 @@ type: post
 url: /2008/05/grand-prix-trial-manila-i/
 ---
 
-The GPT was today: Sunday, 25-May-2008 as Robinson&'s Galleria.
+The GPT was today: Sunday, 25-May-2008 as Robinson's Galleria.
 
-I&'m sad that the GPTs are all scheduled on Sundays.
+I'm sad that the GPTs are all scheduled on Sundays.
 
 The deck I brought:
 
@@ -28,7 +28,7 @@ The deck I brought:
       4 <a href="http://magiccards.info/autocard.php?card=Safehold Elite">Safehold Elite</a>
     </li>
     <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Wren's Run Vanquisher">Wren&'s Run Vanquisher</a>
+      4 <a href="http://magiccards.info/autocard.php?card=Wren's Run Vanquisher">Wren's Run Vanquisher</a>
     </li>
     <li>
       4 <a href="http://magiccards.info/autocard.php?card=Imperious Perfect">Imperious Perfect</a>
@@ -99,7 +99,7 @@ The deck I brought:
   </div>
 </div>
 
-I felt unsure bringing in this deck (or any other deck actually). I&'m walking into a tournament again with no playtesting, so it&'s almost sure to bite me in the ass. Still, it&'s a solid choice; hopefully I could just make some skill matter. I probably should have splashed white for some removal, but I didn&'t have time to gather Crib Swaps.
+I felt unsure bringing in this deck (or any other deck actually). I'm walking into a tournament again with no playtesting, so it's almost sure to bite me in the ass. Still, it's a solid choice; hopefully I could just make some skill matter. I probably should have splashed white for some removal, but I didn't have time to gather Crib Swaps.
 
 **
     
@@ -131,6 +131,6 @@ Final Record: 1-2-Drop
    
 ** 
 
-Sigh. Despite doing well in drafts, I&'m on a bad streak constructed-wise. At least the deck is definitely better in block compared to standard; no real bad matchups as far as I can tell. The games I lost were winnable games this time, instead of lopsided matchups. The difference lies in playing skill. Since I still don&'t have time to playtest, there&'s not much to do but to be more careful in making my decisions.
+Sigh. Despite doing well in drafts, I'm on a bad streak constructed-wise. At least the deck is definitely better in block compared to standard; no real bad matchups as far as I can tell. The games I lost were winnable games this time, instead of lopsided matchups. The difference lies in playing skill. Since I still don't have time to playtest, there's not much to do but to be more careful in making my decisions.
 
-Next week: Probably nothing, as I can&'t play in GPT II due to another appointment.
+Next week: Probably nothing, as I can't play in GPT II due to another appointment.

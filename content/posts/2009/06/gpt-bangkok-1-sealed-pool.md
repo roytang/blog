@@ -7,9 +7,9 @@ type: post
 url: /2009/06/gpt-bangkok-1-sealed-pool/
 ---
 
-The first GPT for Bangkok was last Saturday, May 23, 2009 at Robinson&'s Galleria.
+The first GPT for Bangkok was last Saturday, May 23, 2009 at Robinson's Galleria.
 
-Here&'s the pool I was given to work with:
+Here's the pool I was given to work with:
 
 <div class="decklist_wrap">
   <table width="100%" border="1">
@@ -356,7 +356,7 @@ Here&'s the pool I was given to work with:
   </table>
 </div>
 
-Let&'s try something different and get some audience participation. How would you build this sealed deck? Post your suggestions in the comments below!
+Let's try something different and get some audience participation. How would you build this sealed deck? Post your suggestions in the comments below!
 
 ## Comments
 

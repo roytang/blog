@@ -12,7 +12,7 @@ Thirty-six is a [semiperfect number][1], meaning it is the sum of some subsets o
 
 &nbsp;
 
-Like thirty-six, life isn&'t perfect either. But there&'s still much to be thankful for.
+Like thirty-six, life isn't perfect either. But there's still much to be thankful for.
 
 I am grateful that I have a roof over my head and am able to eat at least three square meals a day (if I so choose).
 

@@ -23,8 +23,8 @@ I got the basic posting structure up.
 
 /post/all/ -> To view all posts
 
-I should probably start thinking of a better url scheme. Ideally, I&'d want the @login_required views to be indicated as such in the urls. Something like &#8220;/admin/post/&#8221; for new posts &#8220;/admin/manage/&#8221; for a screen to manage posts to differentiate it from a screen just to list them out.
+I should probably start thinking of a better url scheme. Ideally, I'd want the @login_required views to be indicated as such in the urls. Something like &#8220;/admin/post/&#8221; for new posts &#8220;/admin/manage/&#8221; for a screen to manage posts to differentiate it from a screen just to list them out.
 
-Next I think I&'ll try to CSS-ify the blog; I&'ll probably just reuse stuff from one of the blogger templates as I&'m still not very good with the HTML/CSS.
+Next I think I'll try to CSS-ify the blog; I'll probably just reuse stuff from one of the blogger templates as I'm still not very good with the HTML/CSS.
 
-I&'ll also look into using some of the date-based generic views to get an archive view. I&'ll need more data though. Will consider importing from the WordPress blog.
+I'll also look into using some of the date-based generic views to get an archive view. I'll need more data though. Will consider importing from the WordPress blog.

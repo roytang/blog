@@ -320,13 +320,13 @@ This deck was doing well in between-rounds testing against decks that eventually
 
 Round 1: 0-2 loss; first game I stabilized but then [Enigma Sphinx][1] blows me out. Second game is a mulligan to four.
 
-Round 2: BYE. How frustrating; since this is the prerelease and I want to play, I&'d rather lose a game than get a bye. Yay, free pack though.
+Round 2: BYE. How frustrating; since this is the prerelease and I want to play, I'd rather lose a game than get a bye. Yay, free pack though.
 
-Round 3: 1-2 loss; I won the 2nd game because he started the first few turns with 3 borderposts that I just hit with Pride-Mage into O-Ring into Maelstrom Pulse. I lost the first game because I didn&'t draw white; I lost the 3rd game because I didn&'t draw black.
+Round 3: 1-2 loss; I won the 2nd game because he started the first few turns with 3 borderposts that I just hit with Pride-Mage into O-Ring into Maelstrom Pulse. I lost the first game because I didn't draw white; I lost the 3rd game because I didn't draw black.
 
 Round 4: 2-1 win; good thing I had the Pride-mages to keep [Behemoth Sledge][2] in check, that card is a house.
 
-Pretty terrible performance on my end, but I still had fun especially with the in-between games. Building a sealed deck in Alara block is hard, you&'re probably going to lose at least one round to bad mana if you don&'t watch what you&'re doing. Having 80% of your deck be multicolor changes the math significantly, I&'m thinking of writing an article about how to distribute your mana, if only so that I understand it better myself.
+Pretty terrible performance on my end, but I still had fun especially with the in-between games. Building a sealed deck in Alara block is hard, you're probably going to lose at least one round to bad mana if you don't watch what you're doing. Having 80% of your deck be multicolor changes the math significantly, I'm thinking of writing an article about how to distribute your mana, if only so that I understand it better myself.
 
 Next week: Release party!
 

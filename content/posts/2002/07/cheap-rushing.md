@@ -20,7 +20,7 @@ meaning if you want to go up on the ladder, you have to win. If
   
 rushing is the means for that win, you should go for it.
 
-What does this mean? If you don&'t want to be rushed, don&'t
+What does this mean? If you don't want to be rushed, don't
   
 play on Battle.net, because on Battle.net people play primarily
   
@@ -34,9 +34,9 @@ rushing!&#8221; or &#8220;Announce before attacking!&#8221; or &#8220;No buildin
   
 million towers!&#8221;
 
-If you insist on playing on Battle.net, don&'t play 3v3 or 4v4;
+If you insist on playing on Battle.net, don't play 3v3 or 4v4;
   
-it&'s in these formats that rushing is a very viable strategy. I
+it's in these formats that rushing is a very viable strategy. I
   
 find that 2v2 is best, as there is little human interaction in
   
@@ -52,7 +52,7 @@ Rushing is a strategy, just like any other, and it can be
   
 defeated just like any other strategy (otherwise 100% of people
   
-would be rushing, which isn&'t true)
+would be rushing, which isn't true)
 
 Do you always get beaten by rushes? Maybe you should look at
   

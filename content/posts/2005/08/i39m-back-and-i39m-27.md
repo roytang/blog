@@ -14,6 +14,6 @@ Yeah, so there.
 
 It was an impromptu hiatus anyway. Unplanned and whatever. Work has been hell lately. Not a tedious kind of hell though. Just the sort that sucks up a lot of time. I spent more than 15 hours in the office on my birthday.
 
-Twenty-seven huh? I wish I had more to say, but birthdays seem to matter less and less as I get older. I&'m in a good place right now, but I&'m still not where I ultimately want to be. I have a long road ahead of me.
+Twenty-seven huh? I wish I had more to say, but birthdays seem to matter less and less as I get older. I'm in a good place right now, but I'm still not where I ultimately want to be. I have a long road ahead of me.
 
-Maybe someday I&'ll get around to it.
+Maybe someday I'll get around to it.

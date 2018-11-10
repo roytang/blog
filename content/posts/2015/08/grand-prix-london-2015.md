@@ -12,7 +12,7 @@ type: post
 url: /2015/08/grand-prix-london-2015/
 ---
 
-I was sent to London for work for a few months, which meant an opportunity to play a third GP for the year after [Manila back in January][1] and [Singapore back in June][2]. This will be the most GP events I&'ve played in a one year period. I didn&'t have time to practice, so I went with an updated version of the Jeskai tempo deck I was playing at the start of Khans rotation.
+I was sent to London for work for a few months, which meant an opportunity to play a third GP for the year after [Manila back in January][1] and [Singapore back in June][2]. This will be the most GP events I've played in a one year period. I didn't have time to practice, so I went with an updated version of the Jeskai tempo deck I was playing at the start of Khans rotation.
 
 {{< cardlist title="Jeskai Tempo" >}}
   
@@ -44,7 +44,7 @@ I was sent to London for work for a few months, which meant an opportunity to pl
   
 2 Dig Through Time
   
-3 Ojutai&'s Command
+3 Ojutai's Command
   
 1 Negate
   
@@ -96,7 +96,7 @@ I was sent to London for work for a few months, which meant an opportunity to pl
   
 {{< /cardlist >}}
 
-I was really hoping to run into a lot of monored or UR Artifacts &#8211; basically the PT Origins metagame. Unfortunately the metagame had already reacted the week before. Here&'s how my day 1 shook out:
+I was really hoping to run into a lot of monored or UR Artifacts &#8211; basically the PT Origins metagame. Unfortunately the metagame had already reacted the week before. Here's how my day 1 shook out:
 
 - R1 0-2 LOSS vs Abzan Control (mull to 6 and mull to 5)
 - R2 2-0 WIN vs RG Monsters (mull to 6 in game 1)
@@ -108,9 +108,9 @@ I was really hoping to run into a lot of monored or UR Artifacts &#8211; basical
 
 I was expecting to be slightly ahead on Abzan decks in general, but my lack of practice turned that into a 50-50 proposition instead. I made a lot of sequencing errors and play mistakes (and felt like I had too many mulligans). I lost the Temur match due to being too aggressive (and not understanding how Thunderbreak Regent worked lol).
 
-The thing about competitive Magic is that both proper deck selection and practice both matter. For all three of the GPs I played in, my deck was a good choice &#8211; unlike previous years where I basically slapped together whatever I could based on card availability. My best performance this year was in Manila back in January since I had a lot of practice for that. I played in a number of trials beforehand and had regular playtest sessions with a small group. For Singapore in June, I had a bit less preparation; I only played two trials and a shorter playtest period, and I almost made day 2, dropping the last 2 rounds. For London, it was week 2 of the season and I was in a foreign land so I didn&'t have any chance for any sort of preparation.
+The thing about competitive Magic is that both proper deck selection and practice both matter. For all three of the GPs I played in, my deck was a good choice &#8211; unlike previous years where I basically slapped together whatever I could based on card availability. My best performance this year was in Manila back in January since I had a lot of practice for that. I played in a number of trials beforehand and had regular playtest sessions with a small group. For Singapore in June, I had a bit less preparation; I only played two trials and a shorter playtest period, and I almost made day 2, dropping the last 2 rounds. For London, it was week 2 of the season and I was in a foreign land so I didn't have any chance for any sort of preparation.
 
-Losing at competitive Magic is a downer. Well, competitive anything really. It&'s a problem with being a spike haha. It makes me question whether I&'m going to keep doing it &#8211; you get a high from competing and winning and eking out close victories, but losing makes you question whether all the prep effort is worth it. I guess it&'s a matter of finding the fun in it again, and the drive to keep playing. We&'ll see.
+Losing at competitive Magic is a downer. Well, competitive anything really. It's a problem with being a spike haha. It makes me question whether I'm going to keep doing it &#8211; you get a high from competing and winning and eking out close victories, but losing makes you question whether all the prep effort is worth it. I guess it's a matter of finding the fun in it again, and the drive to keep playing. We'll see.
 
 I played a sealed after dropping out of the main event, but only managed to win 4 boosters. I also played the SSS on Sunday, but scrubbed out again. I quit the weekend after that, since it felt like I was on tilt and was dead tired. So the GP was a bust, but at least there was swag!
 

@@ -8,9 +8,9 @@ type: post
 url: /2017/01/qualities-to-look-for-in-a-software-developer/
 ---
 
-Just a list I&'ve been maintaining for a while:
+Just a list I've been maintaining for a while:
 
-_(Disclaimer: This list in no way implies that developers who don&'t exhibit all of these attributes are terrible human beings who don&'t deserve to live. But working with developers who exhibit many of these traits will probably result in a better experience over the course of your developer career.)_
+_(Disclaimer: This list in no way implies that developers who don't exhibit all of these attributes are terrible human beings who don't deserve to live. But working with developers who exhibit many of these traits will probably result in a better experience over the course of your developer career.)_
 
 <li style="font-weight: 400;">
   <span style="font-weight: 400;">Laziness, </span><span style="font-weight: 400;">Impatience and </span><span style="font-weight: 400;">Hubris &#8211; from <a href="http://wiki.c2.com/?LazinessImpatienceHubris">the well-known (notorious?) Larry Wall quote</a></span>
@@ -31,13 +31,13 @@ _(Disclaimer: This list in no way implies that developers who don&'t exhibit all
   <span style="font-weight: 400;">Understands engineering tradeoffs; able to tell you the differences in performance, storage, etc among different options.</span>
 </li>
 <li style="font-weight: 400;">
-  <span style="font-weight: 400;">Works well with others: Willing to help with other people’s work when possible/needed; Has an open mind and willing to consider other people&'s suggestions; Doesn&'t take criticism personally; Chill AF</span>
+  <span style="font-weight: 400;">Works well with others: Willing to help with other people’s work when possible/needed; Has an open mind and willing to consider other people's suggestions; Doesn't take criticism personally; Chill AF</span>
 </li>
 <li style="font-weight: 400;">
   <span style="font-weight: 400;">Able to think logically and sequentially; able to break down a problem into a discrete set of solvable tasks; Able to investigate and find the cause of problems with minimal info; Able to think outside the box when necessary; Able to point out problems or logical inconsistencies with program requirements;</span>
 </li>
 <li style="font-weight: 400;">
-  Able to read and understand and maintain other people&'s code; Can update code with the minimal possible changes to avoid breaking things;
+  Able to read and understand and maintain other people's code; Can update code with the minimal possible changes to avoid breaking things;
 </li>
 
 Any other suggestions?

@@ -27,3 +27,6 @@ table.grid_archive a {
 .mtgdecklist .section_header {
     font-size:100%;font-weight:bold; 
 }
+.feed_container small {
+    font-size: 75%; color: gray;
+}

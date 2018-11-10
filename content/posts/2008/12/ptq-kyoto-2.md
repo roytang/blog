@@ -7,7 +7,7 @@ type: post
 url: /2008/12/ptq-kyoto-2/
 ---
 
-The last limited tournament of the season, it was last week, December 20 at Robinson&'s Galleria. The format was Shards of Alara sealed deck. For once, I opened a pretty good pool. Unfortunately, I failed to make the follow through. Decklist and (short) tournament report follows.
+The last limited tournament of the season, it was last week, December 20 at Robinson's Galleria. The format was Shards of Alara sealed deck. For once, I opened a pretty good pool. Unfortunately, I failed to make the follow through. Decklist and (short) tournament report follows.
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -84,7 +84,7 @@ The last limited tournament of the season, it was last week, December 20 at Robi
       1 <a href="http://magiccards.info/autocard.php?card=Skeletonize">Skeletonize</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Soul's Fire">Soul&'s Fire</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Soul's Fire">Soul's Fire</a>
     </li>
   </ul>
   
@@ -123,7 +123,7 @@ The last limited tournament of the season, it was last week, December 20 at Robi
       1 <a href="http://magiccards.info/autocard.php?card=Angelsong">Angelsong</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Dispeller's Capsule">Dispeller&'s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Dispeller's Capsule">Dispeller's Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Gustrider Exuberant">Gustrider Exuberant</a>
@@ -138,7 +138,7 @@ The last limited tournament of the season, it was last week, December 20 at Robi
       1 <a href="http://magiccards.info/autocard.php?card=Coma Veil">Coma Veil</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&'s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier's Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Covenant of Minds">Covenant of Minds</a>
@@ -183,7 +183,7 @@ The last limited tournament of the season, it was last week, December 20 at Robi
       2 <a href="http://magiccards.info/autocard.php?card=Undead Leotau">Undead Leotau</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Dragon's Herald">Dragon&'s Herald</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Dragon's Herald">Dragon's Herald</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Goblin Mountaineer">Goblin Mountaineer</a>
@@ -204,7 +204,7 @@ The last limited tournament of the season, it was last week, December 20 at Robi
       2 <a href="http://magiccards.info/autocard.php?card=Savage Hunger">Savage Hunger</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Soul's Might">Soul&'s Might</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Soul's Might">Soul's Might</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Carrion Thrash">Carrion Thrash</a>
@@ -247,7 +247,7 @@ The last limited tournament of the season, it was last week, December 20 at Robi
 
 _(The decklist above only lists 39 cards&#8230;not sure what the missing 40th card was )_
 
-The pool was pretty meaty, with lots of removal. Unfortunately, removal doesn&'t help if you don&'t draw it. I lost round 2 to an opposing Mycoloth without drawing any of my O-rings. In round 3 I lost in game 3 to mana screw &#8211; I drew a lot of red burn but the mountain didn&'t come out until I was on my last legs.
+The pool was pretty meaty, with lots of removal. Unfortunately, removal doesn't help if you don't draw it. I lost round 2 to an opposing Mycoloth without drawing any of my O-rings. In round 3 I lost in game 3 to mana screw &#8211; I drew a lot of red burn but the mountain didn't come out until I was on my last legs.
 
 Round 1: 2-1 win
   

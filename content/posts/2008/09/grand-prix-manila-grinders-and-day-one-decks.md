@@ -120,7 +120,7 @@ Five-Color Knuckle-Breaker Control
       2 <a href="http://magiccards.info/autocard.php?card=Runed Halo">Runed Halo</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Oona's Grace">Oona&'s Grace</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Oona's Grace">Oona's Grace</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Call the Skybreaker">Call the Skybreaker</a>
@@ -191,7 +191,7 @@ Five-Color Knuckle-Breaker Control
   </div>
 </div>
 
-I have Call the Skybreaker here because I wanted a finisher and didn&'t feel like looking for an Oona. Skybreaker seems like it would be awesome in the long game for the mirror. I almost didn&'t play the 3 Broken Ambitions; I initially had 2 Negate and 1 Crib Swap in that slot, but on the way to the venue I figured the early game defense was better.
+I have Call the Skybreaker here because I wanted a finisher and didn't feel like looking for an Oona. Skybreaker seems like it would be awesome in the long game for the mirror. I almost didn't play the 3 Broken Ambitions; I initially had 2 Negate and 1 Crib Swap in that slot, but on the way to the venue I figured the early game defense was better.
 
 **
     
@@ -531,7 +531,7 @@ Necroskitter
       9 <a href="http://magiccards.info/autocard.php?card=Swamps">Swamps</a>
     </li>
     <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Auntie's Hovel">Auntie&'s Hovel</a>
+      4 <a href="http://magiccards.info/autocard.php?card=Auntie's Hovel">Auntie's Hovel</a>
     </li>
   </ul>
   
@@ -564,11 +564,11 @@ Necroskitter
   
 _
     
-(Alex, this was the last decklist you gave me, just tell me if it&'s wrong)
+(Alex, this was the last decklist you gave me, just tell me if it's wrong)
    
 _ 
    
-The Demigods were a last-minute addition to the sideboard because after building all four decks we didn&'t have any deck that would use them. We also had four Bitterblossoms that went unused.
+The Demigods were a last-minute addition to the sideboard because after building all four decks we didn't have any deck that would use them. We also had four Bitterblossoms that went unused.
 
 Next: Tournament Reports!
 

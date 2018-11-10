@@ -14,7 +14,7 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-16
   
 ][3] &#8212;
   
-    Awesome (and slightly addictive) flash (I think it&'s flash) page that allows you to sketch something and get a sketch in return.Tagged as: cool flash sketching
+    Awesome (and slightly addictive) flash (I think it's flash) page that allows you to sketch something and get a sketch in return.Tagged as: cool flash sketching
 
  [1]: http://del.icio.us/
  [2]: http://del.icio.us/roytang

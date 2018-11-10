@@ -13,6 +13,6 @@ Boing Boing: Movie-ID puzzle: name the films in these disembodied scenes
    
 ][1] 
 
-Hint: One of them is &#8220;Trading Places&#8221; That&'s the hardest one I got so far, after about ten minutes of answering. 😀
+Hint: One of them is &#8220;Trading Places&#8221; That's the hardest one I got so far, after about ten minutes of answering. 😀
 
  [1]: http://www.boingboing.net/2005/03/10/movieid_puzzle_name_.html

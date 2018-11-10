@@ -13,11 +13,11 @@ RPGamer &#8211; News Bulletin &#8211; Namco, Capcom Combine Forces to Create Sim
    
 ][1] 
 
-Wow. I mean, wow. The game will feature playable Namco and Capcom characters apparently, and not just from RPGs. Street Fighter RPG! I&'d play it. :p 
+Wow. I mean, wow. The game will feature playable Namco and Capcom characters apparently, and not just from RPGs. Street Fighter RPG! I'd play it. :p 
 
-Note: This is the first time I&'m using Blogger&'s BlogThis! feature. It&'s neat. 
+Note: This is the first time I'm using Blogger's BlogThis! feature. It's neat. 
 
-Edit: They&'ve got
+Edit: They've got
    
 [
     

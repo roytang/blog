@@ -14,7 +14,7 @@ url: /2018/03/lets-encrypt/
 
 <figure style="width: 559px" class="wp-caption alignnone">[<img src="https://i.redd.it/hfd9ok7bstf01.png" alt="" width="559" height="235" />][1]<figcaption class="wp-caption-text">(Image credit: r/ProgrammerHumor)</figcaption></figure> 
 
-I&'ve been meaning to add SSL to this blog ever since I first heard of [Let&'s Encrypt][2] last year. Unfortunately, support on my otherwise awesome webhost was not yet first-class and seemed complicated at the time, so I kept putting it off. But recently I was testing something unrelated and found out that I [needed to have SSL on my server in order for OAuth2 to work][3], so I grudgingly got to it.
+I've been meaning to add SSL to this blog ever since I first heard of [Let's Encrypt][2] last year. Unfortunately, support on my otherwise awesome webhost was not yet first-class and seemed complicated at the time, so I kept putting it off. But recently I was testing something unrelated and found out that I [needed to have SSL on my server in order for OAuth2 to work][3], so I grudgingly got to it.
 
 Luckily I found out about a handy utility written in Ruby that does most of the stuff for me: [letsencrypt-webfaction][4]. It was surprisingly easy to setup, with only a [single false start because I had a silly typo][5].
 

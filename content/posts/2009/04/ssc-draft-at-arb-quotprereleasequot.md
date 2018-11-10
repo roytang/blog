@@ -11,9 +11,9 @@ url: /2009/04/ssc-draft-at-arb-quotprereleasequot/
 
 As any Filipino player can tell you, local prereleases had to be postponed due to some problems with customs. Since NG had already rented out the space for the prerelease at Galleria, they went ahead and held some constructed events + drafts for people who came, and graciously gave out freebies to those disappointed would-be prereleasers. Kudos to NG for handling the situation well.
 
-I lent out my 5cc deck for a friend to play, and went SSC drafting instead. I opened a crappy pack and just took removal &#8211; [Skeletonize][1] then second pick [Executioner&'s Capsule][2] hoping to go Jund. The black dried up though, so I went Naya instead. I drafted no money, really just building something I could play. The guy to my left drafted like 2 mythic rares, four normal rares lol.
+I lent out my 5cc deck for a friend to play, and went SSC drafting instead. I opened a crappy pack and just took removal &#8211; [Skeletonize][1] then second pick [Executioner's Capsule][2] hoping to go Jund. The black dried up though, so I went Naya instead. I drafted no money, really just building something I could play. The guy to my left drafted like 2 mythic rares, four normal rares lol.
 
-Here&'s my draft deck:
+Here's my draft deck:
 
 <div class="decklist_wrap">
   <!--
@@ -82,7 +82,7 @@ Here&'s my draft deck:
         Spells
       </li>
       <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Executioner's Capsule">Executioner&'s Capsule</a>
+        1 <a href="http://magiccards.info/autocard.php?card=Executioner's Capsule">Executioner's Capsule</a>
       </li>
       <li>
         2 <a href="http://magiccards.info/autocard.php?card=Fiery Fall">Fiery Fall</a>
@@ -145,7 +145,7 @@ Second round my opponent was basically color-screwed in both games and was hardl
 
 Third round was against an Esper deck, but he had like a lot of small guys and I just bought time with Excommunicate and Molten Frame to allow my 5/5 beaters to get to work. I won 2-0 as well.
 
-Went 3-0, never losing a game. Hooray! Unfortunately due to the lack of product prizes had to be IOU&'d, but hopefully the packs I&'d get would be Alara Reborn instead of Conflux. 😀
+Went 3-0, never losing a game. Hooray! Unfortunately due to the lack of product prizes had to be IOU'd, but hopefully the packs I'd get would be Alara Reborn instead of Conflux. 😀
 
 Local prereleases are going to push through next weekend, plus release events the weekend after that.
 

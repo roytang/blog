@@ -40,7 +40,7 @@ Some other things we might consider declaring war on (in no particular order):
  21. Jejespeak
  22. SMS spam
  23. Typhoons
- 24. Taxis that don&'t give exact change
+ 24. Taxis that don't give exact change
  25. War
  26. Irony
  27. Spoilers
@@ -52,7 +52,7 @@ Some other things we might consider declaring war on (in no particular order):
  33. Working at &#8220;Edi sa puso mo&#8221;
  34. Redundancy
  35. Low effort blog posts that start out serious but end up trying a bit too hard to be funny
- 36. People who don&'t understand sarcasm
+ 36. People who don't understand sarcasm
  37. People who stand in malls and shove fliers in your face
  38. Commenting on posts without reading the actual article
- 39. Lists that end abruptly at weird numbers so you&'re not sure if there&'s more or what
+ 39. Lists that end abruptly at weird numbers so you're not sure if there's more or what

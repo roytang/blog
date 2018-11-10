@@ -42,7 +42,7 @@ _
   
 You are a courageous person who does not shrink from threat, challenge, difficulty, or pain. You speak up for what is right even if there is opposition. You act on your convictions.
 
-I&'m amused by how the first and second strengths are a bit in opposite directions. Same for the third and fourth. I&'m a living contradiction.
+I'm amused by how the first and second strengths are a bit in opposite directions. Same for the third and fourth. I'm a living contradiction.
 
 Via
   

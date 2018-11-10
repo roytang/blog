@@ -27,15 +27,15 @@ Quick Hits:
    
 
    
-* Second round opponent was red/white again. I&'ve never played against Giant Growth in limited, but one would expect it to be a house. After getting hit by Brute Force twice, I&'m inclined to agree, and have now learned to play around combat tricks when the opponent only has a mountain. I won 2-1. Game record: 4-1, match record: 2-0.
+* Second round opponent was red/white again. I've never played against Giant Growth in limited, but one would expect it to be a house. After getting hit by Brute Force twice, I'm inclined to agree, and have now learned to play around combat tricks when the opponent only has a mountain. I won 2-1. Game record: 4-1, match record: 2-0.
    
 
    
-* Third round opponent&#8230;some red also. First game I only saw an Avalanche Rider and the 7/7 echo guy. Second game he put up more of a fight, and the &#8220;free echo&#8221; goblin helped him a lot. He get out the Goblin Advisor and went all aggro on me before I managed to stablize. Those exploding goblins can&'t get past a Dream Stalker! Game record: 6-1, match record: 3-0.
+* Third round opponent&#8230;some red also. First game I only saw an Avalanche Rider and the 7/7 echo guy. Second game he put up more of a fight, and the &#8220;free echo&#8221; goblin helped him a lot. He get out the Goblin Advisor and went all aggro on me before I managed to stablize. Those exploding goblins can't get past a Dream Stalker! Game record: 6-1, match record: 3-0.
    
 
    
-* Fourth round opponent&#8230;well, it seems everybody but me plays red. First game I played out all the tricks my deck had with a Clockwork Hydra. Auramancer&'s Guile + Hydra meant I could attack without losing +1/+1 counters. He bounces the Hydra, I play it again. He shoots the Hydra, I save it with a lion. He forces my Hydra into a bad block, I blink it out. He tries to Lightning Axe, I flashback the blink. This game was way fun on my end.
+* Fourth round opponent&#8230;well, it seems everybody but me plays red. First game I played out all the tricks my deck had with a Clockwork Hydra. Auramancer's Guile + Hydra meant I could attack without losing +1/+1 counters. He bounces the Hydra, I play it again. He shoots the Hydra, I save it with a lion. He forces my Hydra into a bad block, I blink it out. He tries to Lightning Axe, I flashback the blink. This game was way fun on my end.
    
 
    
@@ -43,7 +43,7 @@ Quick Hits:
    
 
    
-* Third game I draw a hand with five lands, a morph guy and the Serra Sphinx. The morph guy doubles as removal (gives +2/-2), so I figure this is good enough, as I don&'t miss the 3rd-turn creature drop. Bad decision, as I draw into even more lands, and he&'s more aggro than usual. The game goes long again, and eventually he surprises me with a Teferi I didn&'t see the first two games. I sigh and realize I&'m probably going to lose when he flashes the Sorceress Queen-timeshift at end of my turn. We go to time. And I try to stop him from killing me in three swings. Not enough blockers.
+* Third game I draw a hand with five lands, a morph guy and the Serra Sphinx. The morph guy doubles as removal (gives +2/-2), so I figure this is good enough, as I don't miss the 3rd-turn creature drop. Bad decision, as I draw into even more lands, and he's more aggro than usual. The game goes long again, and eventually he surprises me with a Teferi I didn't see the first two games. I sigh and realize I'm probably going to lose when he flashes the Sorceress Queen-timeshift at end of my turn. We go to time. And I try to stop him from killing me in three swings. Not enough blockers.
    
 
    
@@ -61,7 +61,7 @@ Notes on specific cards:
    
 
    
-* That 3cc blue common morph guy, the one that gives +2/-2? He&'s awesome. I&'d pick him high.
+* That 3cc blue common morph guy, the one that gives +2/-2? He's awesome. I'd pick him high.
    
 
    
@@ -79,4 +79,4 @@ Notes on specific cards:
    
 * Pongify is fun as expected. I loved it when my opponent attacked with a 7/7 he had just paid echo for, and I shake my head, show him the card and say: &#8220;Monkey?&#8221;
 
-Overall, the set is awesome for sealed deck play, the block environment looks good. The design of the cards isn&'t particular innovative since everything is either a throwback or a reprint, but the choice of cards and abilities to bring back&#8230;everything is awesome. I&'m definitely going to play the release tournament.
+Overall, the set is awesome for sealed deck play, the block environment looks good. The design of the cards isn't particular innovative since everything is either a throwback or a reprint, but the choice of cards and abilities to bring back&#8230;everything is awesome. I'm definitely going to play the release tournament.

@@ -7,9 +7,9 @@ type: post
 url: /2007/09/roy-on-magic/
 ---
 
-Obviously, I&'ve started playing a lot of Magic since last year. I&'ve been a long-time player, having started around the time of Revised more than twelve years ago, but I&'ve never seriously started playing in tournaments in such until I had a job, which meant more money to spend on Magic (also meant less free time though =/)
+Obviously, I've started playing a lot of Magic since last year. I've been a long-time player, having started around the time of Revised more than twelve years ago, but I've never seriously started playing in tournaments in such until I had a job, which meant more money to spend on Magic (also meant less free time though =/)
 
-As anyone who has immersed himself in this game knows, Magic is an addictive experience. When you&'re in the thick of it you&'re always thinking of new decks, card interactions, etc. hopefully to make yourself a better player. Lately I&'ve been thinking of writing more about Magic, but
+As anyone who has immersed himself in this game knows, Magic is an addictive experience. When you're in the thick of it you're always thinking of new decks, card interactions, etc. hopefully to make yourself a better player. Lately I've been thinking of writing more about Magic, but
    
 [
     

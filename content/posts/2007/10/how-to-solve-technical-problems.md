@@ -7,13 +7,13 @@ type: post
 url: /2007/10/how-to-solve-technical-problems/
 ---
 
-One of the qualities that I think make a really good software developer is the ability to solve difficult technical problems. Unless you&'re the sort of software developer who just sells the same piece of software over and over again, at some point in time you&'ll to need to find out how to implement some feature you&'ve never tried before. Or you&'ll hit a problem that&'s not documented in any official docs and you need that critical functionality.
+One of the qualities that I think make a really good software developer is the ability to solve difficult technical problems. Unless you're the sort of software developer who just sells the same piece of software over and over again, at some point in time you'll to need to find out how to implement some feature you've never tried before. Or you'll hit a problem that's not documented in any official docs and you need that critical functionality.
 
-Typically, there are two approaches: Research and Experimentation. Today I&'ll talk about Research.
+Typically, there are two approaches: Research and Experimentation. Today I'll talk about Research.
 
-Research means the internet of course, but what part of it exactly? At first of course you should search for the information yourself, using Google usually. But often if the technology is new or the problem is esoteric enough, you won&'t be able to find what you need (or you would need very precise keywords). The second step is to ask for expert help.
+Research means the internet of course, but what part of it exactly? At first of course you should search for the information yourself, using Google usually. But often if the technology is new or the problem is esoteric enough, you won't be able to find what you need (or you would need very precise keywords). The second step is to ask for expert help.
 
-As an example, some recent postings of mine on a Microsoft-related forum (I was trying to figure out how to do an addin for Microsoft Office) elicited a mail from someone with the subject &#8220;Hello, I need ur help&#8221;. I was feeling a bit helpful, so I gave him a reply. I&'m not sure if it was smarmy or anything, but I also gave him some additional advice, and I quote:
+As an example, some recent postings of mine on a Microsoft-related forum (I was trying to figure out how to do an addin for Microsoft Office) elicited a mail from someone with the subject &#8220;Hello, I need ur help&#8221;. I was feeling a bit helpful, so I gave him a reply. I'm not sure if it was smarmy or anything, but I also gave him some additional advice, and I quote:
 
 &#8220;Also I have some additional free advice for you:
    
@@ -23,15 +23,15 @@ As an example, some recent postings of mine on a Microsoft-related forum (I was 
    
 
    
-2. Sending personal emails to people asking for help isn&'t a very good way to solve technical issues. Most people are likely to ignore such requests.
+2. Sending personal emails to people asking for help isn't a very good way to solve technical issues. Most people are likely to ignore such requests.
    
 
    
 3. You might want to read this: http://catb.org/~esr/faqs/smart-questions.html&#8221;
 
-I&'m not trying to deride him or anything, god knows I&'ve sent my own share of personal email requests for help before. And it&'s correct that they are often ignored, so it&'s not very effective. I think the most effective way, as mentioned in the ESR link above, is to use forums. Specifically, don&'t look for forums where newbies like us ask questions; use forums where experts congregate. By forum, I&'m not strictly referring to bulletin boards, it also includes mailing-lists.
+I'm not trying to deride him or anything, god knows I've sent my own share of personal email requests for help before. And it's correct that they are often ignored, so it's not very effective. I think the most effective way, as mentioned in the ESR link above, is to use forums. Specifically, don't look for forums where newbies like us ask questions; use forums where experts congregate. By forum, I'm not strictly referring to bulletin boards, it also includes mailing-lists.
 
-How to find the best forums? It depends on what you&'re looking for.
+How to find the best forums? It depends on what you're looking for.
 
 The best thing is if your subject matter of choice has an active community of developers interested or passionate about the product. Google about the subject matter and see what forums or mailing lists are popular. An example would be
    
@@ -41,7 +41,7 @@ Adobe Flex
    
 ][1] 
    
-, which I started reading up on a while back for a work-related issue. Finding help on Adobe Flex is really easy. There&'s
+, which I started reading up on a while back for a work-related issue. Finding help on Adobe Flex is really easy. There's
    
 [
     
@@ -53,7 +53,7 @@ a very active mailing-list
 
 Non-official forums are better because people are more likely to be passionate than paid reps. One problem I often encounter when researching is Microsoft. Whenever I search for Microsoft-related stuff inevitably sources dry up &#8211; there are literally hundreds of unofficial forums where many newbies ask questions. Now, what to recognize about Microsoft is that they have hundreds (maybe thousands?) of experts called MVPs in every different Microsoft technology. These MVPs are recognized by Microsoft for providing unofficial support to the community. So, the trick is to figure out where you can post such that a good number of MVPs will see your question and possibly respond.
 
-I&'m not sure what the best place would be, but the one that I have gotten the most results from would be
+I'm not sure what the best place would be, but the one that I have gotten the most results from would be
    
 [
     

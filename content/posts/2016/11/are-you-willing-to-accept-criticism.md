@@ -11,7 +11,7 @@ url: /2016/11/are-you-willing-to-accept-criticism/
 
 If a friend found out your work was horrible, would you want to know? Or would your feelings be hurt?
 
-If your coworkers think you&'re doing something wrong, would you prefer that they keep quiet or that they call you out?
+If your coworkers think you're doing something wrong, would you prefer that they keep quiet or that they call you out?
 
 As a leader, do you prefer to have sycophants who sing your praises or people who are willing to tell you that you have no clothes?
 

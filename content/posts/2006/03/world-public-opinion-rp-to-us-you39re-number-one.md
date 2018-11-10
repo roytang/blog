@@ -14,7 +14,7 @@ World Public Opinion
   
 ][1] 
 
-Check out the link, apparently the Philippines is the United States&' #1 fan.
+Check out the link, apparently the Philippines is the United States' #1 fan.
 
 ![RP to US: You're Number One!][2]
 

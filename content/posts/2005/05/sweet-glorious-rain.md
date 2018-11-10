@@ -8,7 +8,7 @@ type: post
 url: /2005/05/sweet-glorious-rain/
 ---
 
-The metro has been suffering from sweltering heat the past few days. That&'s why this sudden heavy rainshower is severely welcome.
+The metro has been suffering from sweltering heat the past few days. That's why this sudden heavy rainshower is severely welcome.
 
 My mother says all the people in the metro must have been praying for rain &#8212; the shower is rather fierce.
 

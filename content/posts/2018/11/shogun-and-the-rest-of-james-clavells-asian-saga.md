@@ -34,7 +34,7 @@ One of my favorite quotes from this book:
 > 
 > Toranaga looked at him intently. Then laughed uproariously. "Yes, Mister Foreigner…you have named _the one&nbsp;_mitigating factor."
 
-I later ended up reading the rest of [Clavell&'s Asian Saga][2] (in fact, I believe I still have most of them on my bookshelf), but none of them stuck with me as much as _Shogun_. And I just found out there&'s gonna be a [TV adaptation soon][3]! Hope it&'s good, looking forward to that one. (I know there was an older TV adaptation before starring Richard Chamberlain and Toshiro Mifune, but I&'m too lazy to go look for a copy of that.)
+I later ended up reading the rest of [Clavell's Asian Saga][2] (in fact, I believe I still have most of them on my bookshelf), but none of them stuck with me as much as _Shogun_. And I just found out there's gonna be a [TV adaptation soon][3]! Hope it's good, looking forward to that one. (I know there was an older TV adaptation before starring Richard Chamberlain and Toshiro Mifune, but I'm too lazy to go look for a copy of that.)
 
  [1]: http://roytang.net/wp-content/uploads/2017/06/1901150_10152838020443912_1173953250_n1.jpg
  [2]: https://en.wikipedia.org/wiki/The_Asian_Saga

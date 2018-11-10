@@ -8,7 +8,7 @@ type: post
 url: /2008/08/transferring-files-to-n73-from-vista-using-bluetooth/
 ---
 
-I needed to transfer a file to my phone today, but could not find my USB cable. I figured I&'d try out the Bluetooth with the laptop.
+I needed to transfer a file to my phone today, but could not find my USB cable. I figured I'd try out the Bluetooth with the laptop.
 
 After around 30 minutes of struggling with the unintuitiveness and some helpful googling I finally was able to transfer my file using the ff steps, for future reference:
 
@@ -20,7 +20,7 @@ After around 30 minutes of struggling with the unintuitiveness and some helpful 
 
 4. Scroll right on the N73 and the Paired Device screen is shown. Choose Options -> New Paired Device
 
-5. The N73 should list your computer name (mine is PANDA!), select the computer name and you&'ll be prompted for a passkey. Don&'t input anything yet&#8230;
+5. The N73 should list your computer name (mine is PANDA!), select the computer name and you'll be prompted for a passkey. Don't input anything yet&#8230;
 
 6. Back to the Vista PC, right-click the Bluetooth icon in the systray, then choose Add Device.
 
@@ -34,11 +34,11 @@ After around 30 minutes of struggling with the unintuitiveness and some helpful 
 
 11. The bluetooth connection should be all set up, to send a file to your N73, right-click the bluetooth icon and click Send a file
 
-12. You&'re done. Hooray!
+12. You're done. Hooray!
 
 _
   
-Side note: After step 10, Vista seems to want to install drivers for the N73&#8230;but it doesn&'t seem to be necessary
+Side note: After step 10, Vista seems to want to install drivers for the N73&#8230;but it doesn't seem to be necessary
   
 _ 
 

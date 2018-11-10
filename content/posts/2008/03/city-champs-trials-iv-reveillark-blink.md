@@ -108,7 +108,7 @@ The tournament was last Saturday, March 15, Standard. Slightly modified list fro
       2 <a href="http://magiccards.info/autocard.php?card=Draining Whelk">Draining Whelk</a>
     </li>
     <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Teferi's Moat">Teferi&'s Moat</a>
+      2 <a href="http://magiccards.info/autocard.php?card=Teferi's Moat">Teferi's Moat</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Magus of the Moat">Magus of the Moat</a>
@@ -133,6 +133,6 @@ Round 5: 2-0 win vs Monoblack Aggro
 
 Round 6:1-2 loss vs RB Goblins
 
-The mirror match had a a really bad play from me. We both had Body Doubles that were &#8216;larks, plus each had another random 2/2 flier. I was at six in game three, he was still at twenty, we were both basically in topdeck mode. He swings with six power in the air, I block with my guys to get everyone killed. Big mistake, since he&'s the Active Player, my trigger resolves first and he gets to Sower whatever I bring back; I bring in two Body Doubles copying Reveillarks; the second mistake was not realizing I that I had a Blink in the yard, could have prevented the Sower trigger and brought back two more guys, a large enough swing that would have been enough to win me the game that I eventually lost.
+The mirror match had a a really bad play from me. We both had Body Doubles that were &#8216;larks, plus each had another random 2/2 flier. I was at six in game three, he was still at twenty, we were both basically in topdeck mode. He swings with six power in the air, I block with my guys to get everyone killed. Big mistake, since he's the Active Player, my trigger resolves first and he gets to Sower whatever I bring back; I bring in two Body Doubles copying Reveillarks; the second mistake was not realizing I that I had a Blink in the yard, could have prevented the Sower trigger and brought back two more guys, a large enough swing that would have been enough to win me the game that I eventually lost.
 
-Anyway, still unsure if I will play this deck at City Champs, as it&'s very tiring&#8230;
+Anyway, still unsure if I will play this deck at City Champs, as it's very tiring&#8230;

@@ -12,7 +12,7 @@ type: post
 url: /2005/12/music-ultraelectromagnetic-jam/
 ---
 
-I&'m no music critic; often I can&'t even carry my own tune. But I do know what I like, and I know I like the Eraserheads&' music. If you don&'t know who the &#8216;heads are, they&'re basically the [Beatles of the Philippines][1], galvanizing the local music industry and serving as an example and inspiration to numerous other bands that followed after them. It&'s only fitting then that many of the current crop of Filipino performers pay tribute to them in the form of Ultraelectromagnetic Jam. This fantastic album features several artists performing their own versions of some of the Eraserheads best hits, namely:
+I'm no music critic; often I can't even carry my own tune. But I do know what I like, and I know I like the Eraserheads' music. If you don't know who the &#8216;heads are, they're basically the [Beatles of the Philippines][1], galvanizing the local music industry and serving as an example and inspiration to numerous other bands that followed after them. It's only fitting then that many of the current crop of Filipino performers pay tribute to them in the form of Ultraelectromagnetic Jam. This fantastic album features several artists performing their own versions of some of the Eraserheads best hits, namely:
 
   * Alapaap by 6-Cycle Mind
   * Alcohol by Radioactive Sago Project
@@ -31,9 +31,9 @@ I&'m no music critic; often I can&'t even carry my own tune. But I do know what 
   * Torpedo by Isha
   * Para sa Masa by all of them!
 
-I wanted to comment on each track separately, but I&'m too lazy :p They&'re all pretty good, mostly because the originals were great in the first place. Paolo Santos carried Magasin surprisingly well, and Superproxy was just the right track for Francis M. Radioactive Sago&'s Alcohol is hilarious, and I like the way Orange and Lemons mixed a little bit of Julie Tearjerky and Tikman in Huwag Kang Matakot. I also think I actually like Cueshé&'s version of Hard To Believe better than the original. My least favorite track on the album is Kitchie Nadal&'s Ligaya, (cute laugh on the &#8220;inaahit&#8221; bit notwithstanding) as I really prefer the more upbeat original.
+I wanted to comment on each track separately, but I'm too lazy :p They're all pretty good, mostly because the originals were great in the first place. Paolo Santos carried Magasin surprisingly well, and Superproxy was just the right track for Francis M. Radioactive Sago's Alcohol is hilarious, and I like the way Orange and Lemons mixed a little bit of Julie Tearjerky and Tikman in Huwag Kang Matakot. I also think I actually like Cueshé's version of Hard To Believe better than the original. My least favorite track on the album is Kitchie Nadal's Ligaya, (cute laugh on the &#8220;inaahit&#8221; bit notwithstanding) as I really prefer the more upbeat original.
 
-I wish more bands had contributed to the effort though, as the &#8216;heads probably deserve it. According to my brother, the participating artists were all from the same recording studio (I don&'t really pay attention to studios, so yeah I&'ll just agree here.) Still, it would&'ve been nice to hear some renditions from &#8216;heads contemporaries like Rivermaya and Parokya ni Edgar.
+I wish more bands had contributed to the effort though, as the &#8216;heads probably deserve it. According to my brother, the participating artists were all from the same recording studio (I don't really pay attention to studios, so yeah I'll just agree here.) Still, it would've been nice to hear some renditions from &#8216;heads contemporaries like Rivermaya and Parokya ni Edgar.
 
 All in all, awesome album. If you have listened to the Eraserheads music at one time or another, go find a way to get it.
 

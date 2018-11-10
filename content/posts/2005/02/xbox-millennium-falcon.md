@@ -16,7 +16,7 @@ eBay &#8211; Xbox Millennium Falcon
 
 <img src="http://roytang.net/files/xbox_falcon.jpg" alt="X-box Millenium Falcon" width="500" height="375" />
 
-It&'s a heavily modified X-box made to look like the Millenium Falcon! I&'d buy it, but it&'s a PAL version =p
+It's a heavily modified X-box made to look like the Millenium Falcon! I'd buy it, but it's a PAL version =p
 
 via
   

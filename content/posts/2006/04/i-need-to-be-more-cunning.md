@@ -8,7 +8,7 @@ type: post
 url: /2006/04/i-need-to-be-more-cunning/
 ---
 
-Yesterday, the guard at my office building pissed me off quite a bit. He refused to let me in because I was wearing slippers! Since we dress casually on Saturdays, very so often I like to wear slippers to work, especially when I&'m feeling too lazy to put on socks. They never gave me any trouble before, so I argued with the guard for a bit. Stubborn-headed, he still wouldn&'t let me in. I stalked off grumbling and got into a taxi home. (I came back later&#8230;that guard cost me like an hour and a half of my time and about three hundred pesos in taxi fare&#8230;)
+Yesterday, the guard at my office building pissed me off quite a bit. He refused to let me in because I was wearing slippers! Since we dress casually on Saturdays, very so often I like to wear slippers to work, especially when I'm feeling too lazy to put on socks. They never gave me any trouble before, so I argued with the guard for a bit. Stubborn-headed, he still wouldn't let me in. I stalked off grumbling and got into a taxi home. (I came back later&#8230;that guard cost me like an hour and a half of my time and about three hundred pesos in taxi fare&#8230;)
 
 On hindsight, I let my being pissed off cloud my better judgement. What I should have done was:
 

@@ -8,7 +8,7 @@ type: post
 url: /2008/12/transition-to-2009/
 ---
 
-Well, it&'s a bit early. But if you&'re reading this then I&'ve successfully migrated the roytang.net website to a new host. See you after the jump!
+Well, it's a bit early. But if you're reading this then I've successfully migrated the roytang.net website to a new host. See you after the jump!
 
 Merry Christmas!
 

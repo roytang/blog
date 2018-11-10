@@ -7,7 +7,7 @@ type: post
 url: /2008/12/gaming-in-2009/
 ---
 
-I wanted to make a calendar of game release dates in 2009 (so I won&'t forget), but apparently details are sparse. The only games that I&'m remotely interested in that already have release dates are:
+I wanted to make a calendar of game release dates in 2009 (so I won't forget), but apparently details are sparse. The only games that I'm remotely interested in that already have release dates are:
 
 20 Jan 2009:
 
@@ -33,12 +33,12 @@ Unknown Release dates (2009):
   * Final Fantasy Crystal Chronicles: Echoes of Time (Spring 2009) (NDS)
   * White Knight Chronicles (PS3)
 
-Pretty slim pickings, but it&'s probably a blessing in disguise, considering how much backlog I have. The following are games I still want to finish from 2008 or earlier:
+Pretty slim pickings, but it's probably a blessing in disguise, considering how much backlog I have. The following are games I still want to finish from 2008 or earlier:
 
-  * Jeanne d&'Arc (PSP)
+  * Jeanne d'Arc (PSP)
   * Final Fantasy: Crisis Core (PSP)
-  * Chrono Trigger (NDS) _I&'m very close on this one!_
-  * Professor Layton and the Curious Village (NDS) _Yes, I&'ll finish this, hopefully soon!_
+  * Chrono Trigger (NDS) _I'm very close on this one!_
+  * Professor Layton and the Curious Village (NDS) _Yes, I'll finish this, hopefully soon!_
   * Disgaea 3 (PS3)
   * Final Fantasy IV (NDS)
   * Dragon Quest IV (NDS)

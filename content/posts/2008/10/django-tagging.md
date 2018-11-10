@@ -17,7 +17,7 @@ django-tagging
   
 ][1] 
   
-. Unfortunately, the featured downloads on the Google Code site are quite out-of-date and would not work with Django 1.0, so I did a subversion checkout instead. If you&'re getting an error like &#8220;ImportError: cannot import name parse_lookup&#8221;, then you need to get the source code from SVN.
+. Unfortunately, the featured downloads on the Google Code site are quite out-of-date and would not work with Django 1.0, so I did a subversion checkout instead. If you're getting an error like &#8220;ImportError: cannot import name parse_lookup&#8221;, then you need to get the source code from SVN.
 
 Adding the tagging to the blog was pretty easy:
 

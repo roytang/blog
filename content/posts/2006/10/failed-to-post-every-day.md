@@ -8,6 +8,6 @@ type: post
 url: /2006/10/failed-to-post-every-day/
 ---
 
-As far as I can tell, I only hit 21 posts in October. Well, that&'s not too bad.
+As far as I can tell, I only hit 21 posts in October. Well, that's not too bad.
 
 This month: NaNoWriMo!

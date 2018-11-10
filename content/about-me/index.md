@@ -7,7 +7,7 @@ date: 2018-02-11T17:15:26+00:00
 ---
 **Roy Tang** Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. [Magic][1] player on weekends. Frustrated writer and sketch artist. Student of life and all-around good guy. On a never-ending quest for awesomeness.
 
-I&'m a software developer by profession, currently working for [Maroon Studios][2]. I&'m not averse to freelance consulting, if you have something interesting for me. I like Python and JavaScript, but I&'m always willing to learn new things. Here&'s [my profile on LinkedIn][3].
+I'm a software developer by profession, currently working for [Maroon Studios][2]. I'm not averse to freelance consulting, if you have something interesting for me. I like Python and JavaScript, but I'm always willing to learn new things. Here's [my profile on LinkedIn][3].
 
 For more frequent short bursts of my nonsense, follow [me on Twitter.][4] For sketches and other stuff, follow [me on Instagram][5].
 

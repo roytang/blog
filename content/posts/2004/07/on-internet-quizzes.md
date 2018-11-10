@@ -8,7 +8,7 @@ type: post
 url: /2004/07/on-internet-quizzes/
 ---
 
-I&'m not particularly fond of internet quizzes that attempt to plunk you down into a category &#8211; but sometimes they&'re damn accurate.
+I'm not particularly fond of internet quizzes that attempt to plunk you down into a category &#8211; but sometimes they're damn accurate.
   
 [
   

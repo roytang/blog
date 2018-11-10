@@ -9,7 +9,7 @@ url: /2005/02/some-thoughts-on-piracy/
 
 I tried to play two PS2 games today: Spiderman 2 and Naruto &#8211; Narutimate Hero 2. I knew we had pirated copies of both.
 
-Spiderman 2 &#8211; failed. The PS2 wouldn&'t even play the disc. Instead it made a wonderful churning noise that made me quickly hit the eject button. This is Sony&'s best form of copy protection: In my experience, our PS2 can only play somewhere between 30% &#8211; 50% of all pirated discs out there. I don&'t know&#8230;it may just be our PS2 model. Sometimes if I particularly like a game, I will buy 2-3 pirated copies until I find one that agrees with our PS2. This is why I have 3 copies of
+Spiderman 2 &#8211; failed. The PS2 wouldn't even play the disc. Instead it made a wonderful churning noise that made me quickly hit the eject button. This is Sony's best form of copy protection: In my experience, our PS2 can only play somewhere between 30% &#8211; 50% of all pirated discs out there. I don't know&#8230;it may just be our PS2 model. Sometimes if I particularly like a game, I will buy 2-3 pirated copies until I find one that agrees with our PS2. This is why I have 3 copies of
    
 [
     
@@ -19,7 +19,7 @@ Star Ocean: Til The End Of Time
    
 .
 
-Naruto 2 &#8211; failed. I couldn&'t find the disc. I tried searching through all the PS2 DVD cases we have, but I was unsuccessful. In the average pinoy techie&'s house, there would be hundreds of audio CDs, VCDs, data CDs and DVDs, many of them pirated. Finding one specific disc outside of its case is a nigh-impossible task. Going out and buying a new (pirated) copy would be far easier [1]
+Naruto 2 &#8211; failed. I couldn't find the disc. I tried searching through all the PS2 DVD cases we have, but I was unsuccessful. In the average pinoy techie's house, there would be hundreds of audio CDs, VCDs, data CDs and DVDs, many of them pirated. Finding one specific disc outside of its case is a nigh-impossible task. Going out and buying a new (pirated) copy would be far easier [1]
 
 If piracy is so problematic, why use pirated discs? Because frankly, the alternatives are roughly 10 times more expensive. At least. This is especially true for PS2 games; last I checked PS2 games retail for around 4000 pesos around here (more than 80 dollars) By comparison, PC games retail for roughly the correct dollar-equivalent prices. [2]
 
@@ -27,7 +27,7 @@ It should be noted that I have NEVER bought original PS2 games [3], while I have
 
 I wonder what compels store owners to sell PS2 originals at these prices? Are there so many piracy-conscious console owners that they are able to fuel such a high demand for PS2 originals that result in high prices? Who buys at these stores?
 
-I don&'t know why games (and digital media in general) have to be the same cost or more expensive in a third world country where people obviously have less money than developed nations. Of course, I am not saying we are entitled to lower prices because we are poor. But don&'t companies who sell these consider that selling to citizens of developing nations at lower prices would be better than the zero sales caused by high prices/piracy combination?
+I don't know why games (and digital media in general) have to be the same cost or more expensive in a third world country where people obviously have less money than developed nations. Of course, I am not saying we are entitled to lower prices because we are poor. But don't companies who sell these consider that selling to citizens of developing nations at lower prices would be better than the zero sales caused by high prices/piracy combination?
 
 In the future, I may be more compelled to buy console originals online, especially if I can find good deals on used copies. Well, at least as soon as I become more confident about buying things online.
  

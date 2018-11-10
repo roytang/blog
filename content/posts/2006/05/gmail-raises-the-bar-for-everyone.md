@@ -7,17 +7,17 @@ type: post
 url: /2006/05/gmail-raises-the-bar-for-everyone/
 ---
 
-So I was at work, and one of the HK guys asks me if we can have a themed button for the file input control in one of our screens. So, I&'m all &#8220;alpha geek&#8221; and stuff, and I go: &#8220;No we can&'t. We can&'t style the &#8216;Browse&' button directly, and IE will throw an Access Denied error on submit if we invoke the click() method using Javascript.&#8221;
+So I was at work, and one of the HK guys asks me if we can have a themed button for the file input control in one of our screens. So, I'm all &#8220;alpha geek&#8221; and stuff, and I go: &#8220;No we can't. We can't style the &#8216;Browse' button directly, and IE will throw an Access Denied error on submit if we invoke the click() method using Javascript.&#8221;
 
 But HK guy replies: &#8220;Gee, I wonder how GMail does it then.&#8221;
 
-I checked, and he&'s right. I never noticed before because I use Firefox all the time, but GMail in IE doesn&'t even show the freakin&' file input control! It&'s just an &#8220;Attach a File&#8221; link that opens the &#8220;Open File&#8221; dialog on click! I took a look at it and I was like&#8230;&#8221;how in the world&#8230;&#8221;
+I checked, and he's right. I never noticed before because I use Firefox all the time, but GMail in IE doesn't even show the freakin' file input control! It's just an &#8220;Attach a File&#8221; link that opens the &#8220;Open File&#8221; dialog on click! I took a look at it and I was like&#8230;&#8221;how in the world&#8230;&#8221;
 
-So, being a developer, I of course attempt to get the source, analyze it, break it down, and get it to work for me. But from experience, I know that trying to figure out gmail&'s obfuscated javascript code would take me days. So I decided to take an alternative approach: I would let gmail execute it&'s weird javascript magic, then use javascript myself to extract the relevant HTML and Javascript code from the gmail window at the correct state.
+So, being a developer, I of course attempt to get the source, analyze it, break it down, and get it to work for me. But from experience, I know that trying to figure out gmail's obfuscated javascript code would take me days. So I decided to take an alternative approach: I would let gmail execute it's weird javascript magic, then use javascript myself to extract the relevant HTML and Javascript code from the gmail window at the correct state.
 
 My first attempt: I tried to load gmail in an iframe so I could read the document contents from window.top. Eh, no go. Gmail pops itself out of the frame easily.
 
-My second attempt: I open gmail in a new window using javascript&'s window.open, then use the resulting window variable to access the document contents. Something like this:
+My second attempt: I open gmail in a new window using javascript's window.open, then use the resulting window variable to access the document contents. Something like this:
 
 > <html>
   
@@ -29,7 +29,7 @@ My second attempt: I open gmail in a new window using javascript&'s window.open,
   
 > function doIt() {
 	  
-> win = window.open(&#8216;http://www.gmail.com&');
+> win = window.open(&#8216;http://www.gmail.com');
   
 > }
   

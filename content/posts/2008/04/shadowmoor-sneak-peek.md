@@ -25,7 +25,7 @@ This is the pool I got and played:
       White
     </li>
     <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Inquisitor's Snare">Inquisitor&'s Snare</a>
+      2 <a href="http://magiccards.info/autocard.php?card=Inquisitor's Snare">Inquisitor's Snare</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Kithkin Shielddare">Kithkin Shielddare</a>
@@ -193,7 +193,7 @@ This is the pool I got and played:
       1 <a href="http://magiccards.info/autocard.php?card=Sootwalkers">Sootwalkers</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Traitor's Roar">Traitor&'s Roar</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Traitor's Roar">Traitor's Roar</a>
     </li>
   </ul>
   
@@ -300,7 +300,7 @@ A lesser man would have looked at the bomb uncommon removal
    
 [Incremental Blight][1]
    
-and played some flavor of black. After browsing the Green-White hybrids though, it&'s obviously similar to my Prerelease pool in that I get two of the cheatyface aura
+and played some flavor of black. After browsing the Green-White hybrids though, it's obviously similar to my Prerelease pool in that I get two of the cheatyface aura
    
 [Shield of the Oversoul][2]
    
@@ -414,17 +414,17 @@ Round 2 vs Red Black: 2-0 win
    
 
    
-I actually got to play against the pool I opened! I almost lost to Rage Reflection in game one, but luckily my maindeck Gleeful Sabotage came through via topdeck. Merrow Rootcutters gave me a lot of trouble, so I sided in 2 Inquisitor&'s Snare for Mercy Killing and Aethertow.
+I actually got to play against the pool I opened! I almost lost to Rage Reflection in game one, but luckily my maindeck Gleeful Sabotage came through via topdeck. Merrow Rootcutters gave me a lot of trouble, so I sided in 2 Inquisitor's Snare for Mercy Killing and Aethertow.
 
-In game 2 he had a perfect curve for turns 1-3 but then stalled on four lands. I later found out he was holding something like three five-drops in his hand, including the Demigod of Revenge. I manage to drop my Swans before his fifth land and bring the race close enough for me to kill in 1-2 swings. By then he manages to draw a second mountain and play Kulrath Knight. I&'m stupid here and think the Wither would affect the Swans (it won&'t), so when his Knight blocks I hit it with Inquisitor&'s Snare.
+In game 2 he had a perfect curve for turns 1-3 but then stalled on four lands. I later found out he was holding something like three five-drops in his hand, including the Demigod of Revenge. I manage to drop my Swans before his fifth land and bring the race close enough for me to kill in 1-2 swings. By then he manages to draw a second mountain and play Kulrath Knight. I'm stupid here and think the Wither would affect the Swans (it won't), so when his Knight blocks I hit it with Inquisitor's Snare.
 
-Next turn he plays Demigod but doesn&'t attack, seeing as how I could swing back for maybe lethal. We stare off for a few turns; I can&'t afford to swing as he&'ll just block the Swans and draw a bunch of cards. Finally he draws the sixth land and lays down Rage Reflection, pumps Demigod with Revelsong Horn then swings with the big mean 6/5 flying double-striker. He&'s tapped out, at five life, with no other fliers. I have the Swans and Barkshell Blessing in hand. I block the Demigod and tell him the Swans don&'t die. He reads the card, shakes his head and draws his twelve cards. I untap, swing with the Swans and show him the pump for the win.
+Next turn he plays Demigod but doesn't attack, seeing as how I could swing back for maybe lethal. We stare off for a few turns; I can't afford to swing as he'll just block the Swans and draw a bunch of cards. Finally he draws the sixth land and lays down Rage Reflection, pumps Demigod with Revelsong Horn then swings with the big mean 6/5 flying double-striker. He's tapped out, at five life, with no other fliers. I have the Swans and Barkshell Blessing in hand. I block the Demigod and tell him the Swans don't die. He reads the card, shakes his head and draws his twelve cards. I untap, swing with the Swans and show him the pump for the win.
 
 Round 3 vs WG 2-0 win
    
 
    
-I&'m paired down for some reason. My opponent starts with early Scuttlemutts, and I hit Wilt-Leaf Cavs on turn three and Shield of the Oversoul on turn four. I&'m gambling that my opponent won&'t realize the Scuttlemutt trick, as he seems genuinely distressed at the 5/6/ vigilant indestructible flier, so I keep swinging till I win. Game two I open with the same turns 3 and 4 and win easily. After the game I tell him about the Scuttlemutt trick.
+I'm paired down for some reason. My opponent starts with early Scuttlemutts, and I hit Wilt-Leaf Cavs on turn three and Shield of the Oversoul on turn four. I'm gambling that my opponent won't realize the Scuttlemutt trick, as he seems genuinely distressed at the 5/6/ vigilant indestructible flier, so I keep swinging till I win. Game two I open with the same turns 3 and 4 and win easily. After the game I tell him about the Scuttlemutt trick.
 
 My sweaty hands seem to be getting worse by the way.
 
@@ -436,19 +436,19 @@ I lose game one to a powerful curve &#8211; turn one Nurturer Initiate, turn two
    
 
    
-I board +2 Inquisitor&'s Snare -1 Mercy Killing -1 Gleeful Sabotage.
+I board +2 Inquisitor's Snare -1 Mercy Killing -1 Gleeful Sabotage.
    
 
    
-Game two I choose to play first, even though I&'ve always chosen to draw in the previous rounds. I can&'t afford that kind of opening again. Luckily I get an early fatty out and his offense never starts off. I win with a flying indestructible Cavalier.
+Game two I choose to play first, even though I've always chosen to draw in the previous rounds. I can't afford that kind of opening again. Luckily I get an early fatty out and his offense never starts off. I win with a flying indestructible Cavalier.
    
 
    
-Game three he&'s on the play and has no one-drop again (lucky!). I lay down Oversoul of Dusk on turn five and he&'s terribly annoyed. It&'s a standoff between the Oversoul and 3-4 creatures on his side of the board. I play the Liege and swing with the 7/7 oversoul bringing him to 13. He uses Tower Above to take out the Liege. I swing with the 5/5 and use Spectral Procession to create blockers. We&'re both at 8.
+Game three he's on the play and has no one-drop again (lucky!). I lay down Oversoul of Dusk on turn five and he's terribly annoyed. It's a standoff between the Oversoul and 3-4 creatures on his side of the board. I play the Liege and swing with the 7/7 oversoul bringing him to 13. He uses Tower Above to take out the Liege. I swing with the 5/5 and use Spectral Procession to create blockers. We're both at 8.
    
 
    
-On his turn he lays down a bunch of creatures including Safehold Elite (which can block the Oversoul!) and is ready to swing and kill me next turn. I topdeck the Shield of the Oversoul and show it to him. &#8220;That&'s only 7/7,&#8221; he shrugs. I show him the last card in my hand &#8211; Tower Above, and I take the win.
+On his turn he lays down a bunch of creatures including Safehold Elite (which can block the Oversoul!) and is ready to swing and kill me next turn. I topdeck the Shield of the Oversoul and show it to him. &#8220;That's only 7/7,&#8221; he shrugs. I show him the last card in my hand &#8211; Tower Above, and I take the win.
 
 Four and O! If only I had this pool last week&#8230;
 
@@ -460,7 +460,7 @@ Some thoughts on particular cards:
   
 ** 
    
-&#8211; this is a pretty bad to mediocre removal card, yet I keep putting it in. I kept dreaming of having the Liege and the Oversoul in play, then EOT mercy kill the Oversoul, gaining 7 3/3 elves. This particular fantasy play has yet to happen. Still, the card has it&'s roles, particularly getting rid of utility Q creatures, a role which Curse of Chains or Aethertow (both excellent removal cards) cannot fulfill.
+&#8211; this is a pretty bad to mediocre removal card, yet I keep putting it in. I kept dreaming of having the Liege and the Oversoul in play, then EOT mercy kill the Oversoul, gaining 7 3/3 elves. This particular fantasy play has yet to happen. Still, the card has it's roles, particularly getting rid of utility Q creatures, a role which Curse of Chains or Aethertow (both excellent removal cards) cannot fulfill.
 
 **
   
@@ -500,7 +500,7 @@ Elsewhere Flask
   
 ** 
    
-&#8211; I get some flak for not putting in these &#8220;free&#8221; cards. I have enough trouble cutting things in the maindeck, thanks. In particular matchups I may board them in, say there&'s a particular threat or answer I want to draw as often or as soon as possible. Manamorphose is the better card, as it&'s truly free, the only requirement being having two mana free (but you get that mana back)
+&#8211; I get some flak for not putting in these &#8220;free&#8221; cards. I have enough trouble cutting things in the maindeck, thanks. In particular matchups I may board them in, say there's a particular threat or answer I want to draw as often or as soon as possible. Manamorphose is the better card, as it's truly free, the only requirement being having two mana free (but you get that mana back)
 
 **
   
@@ -530,7 +530,7 @@ Scarecrows &#8211;
    
 ** 
    
-use these to fill out your curve, they&'re especially useful to stop the &#8220;evasive hill giant&#8221; cycle.
+use these to fill out your curve, they're especially useful to stop the &#8220;evasive hill giant&#8221; cycle.
    
 [Lurebound Scarecrow][6]
    
@@ -552,7 +552,7 @@ is fairly strong; note that it gains the -1/-1 counter at end of combat, so the 
    
 &#8211; Icy Manipulator, except more mana-intensive. Still very good, especially in midrange decks where you can take out the crucial blocker that stops your fatties.
 
-That&'s all for today. Next week: Constructed again!
+That's all for today. Next week: Constructed again!
 
  [1]: http://magiccards.info/autocard.php?card=Incremental Blight
  [2]: http://magiccards.info/autocard.php?card=Shield of the Oversoul

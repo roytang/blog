@@ -15,6 +15,6 @@ here
    
 ][1] 
    
-. It&'s fun to read reviews and insights about old games. Ah, and the ads! I like seeing old ads for some strange reason.
+. It's fun to read reviews and insights about old games. Ah, and the ads! I like seeing old ads for some strange reason.
 
  [1]: http://cgw2.filefront.com/

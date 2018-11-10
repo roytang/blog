@@ -9,7 +9,7 @@ type: post
 url: /2009/02/stylesheet-switcher-using-django/
 ---
 
-You may have noticed the new color scheme and new &#8220;Theme Switcher&#8221; widget in the sidebar. I had done some CSS work during the past month in the office and it made me want to tweak the stylesheets on this site a bit. I figured I might as well make it easy to switch stylesheets, so I wrote a small Theme Switcher django app. (Well, it&'s more of a stylesheet switcher I guess)
+You may have noticed the new color scheme and new &#8220;Theme Switcher&#8221; widget in the sidebar. I had done some CSS work during the past month in the office and it made me want to tweak the stylesheets on this site a bit. I figured I might as well make it easy to switch stylesheets, so I wrote a small Theme Switcher django app. (Well, it's more of a stylesheet switcher I guess)
 
 The model is simple:
 
@@ -98,7 +98,7 @@ The view code simply stores the selected theme as a cookie:
   </table>
 </div>
 
-To load the stylesheet, I set up a [context processor][1] to pass both the current theme and the list of themes to the context. I wanted to do this using template tags, but I couldn&'t figure out how to extract a cookie from within a template tag.
+To load the stylesheet, I set up a [context processor][1] to pass both the current theme and the list of themes to the context. I wanted to do this using template tags, but I couldn't figure out how to extract a cookie from within a template tag.
 
 <div class="hl_wrap">
   <table class="sourcetable">
@@ -205,9 +205,9 @@ And add the list of themes into the sidebar.
   </table>
 </div>
 
-And we&'re done!
+And we're done!
 
-Of course, I&'m still not particularly strong in web design, so the two current &#8220;themes&#8221; really just switch around the color scheme. The light blue theme is named Azorius, while the old black and green theme is named Golgari, both named after the respective color guilds in Magic: The Gathering&'s Ravnica block.
+Of course, I'm still not particularly strong in web design, so the two current &#8220;themes&#8221; really just switch around the color scheme. The light blue theme is named Azorius, while the old black and green theme is named Golgari, both named after the respective color guilds in Magic: The Gathering's Ravnica block.
 
 Hopefully this gives me a chance to whip up more interesting themes and polish the old CSS skills some more. Enjoy!
 
@@ -221,4 +221,4 @@ Hi,
 Nice do you have working example or download that I can try and look how it works?
 
 ### Comment by [roy](http://roytang.net) on 2011-12-18 08:03:56 +0000
-Hi Radek, unfortunately I&'m unable to find the original source code for this; I had previously been running a Django-backed blog but have since migrated it and the posts over to WordPress
+Hi Radek, unfortunately I'm unable to find the original source code for this; I had previously been running a Django-backed blog but have since migrated it and the posts over to WordPress

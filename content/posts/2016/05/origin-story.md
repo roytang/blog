@@ -8,7 +8,7 @@ type: post
 url: /2016/05/origin-story/
 ---
 
-A while back I answered a question over on Quora about how I got started down the path of programming. It&'s not a particularly interesting story, but I still thought I&'d record it here for posterity.
+A while back I answered a question over on Quora about how I got started down the path of programming. It's not a particularly interesting story, but I still thought I'd record it here for posterity.
 
 <span style="font-weight: 400;">Sometime when I was much younger, maybe somewhere between twelve to fourteen years old, I remember having some sort of QBasic programming learning book at home. I forget how we got it, I think my uncle brought it home for me sometime for some reason. I don’t know why he would have such a thing, we didn’t even have a personal computer at home (we had a Nintendo Entertainment System, but that wasn’t really the same thing)</span>
 

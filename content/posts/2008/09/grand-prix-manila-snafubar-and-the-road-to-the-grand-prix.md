@@ -258,7 +258,7 @@ url: /2008/09/grand-prix-manila-snafubar-and-the-road-to-the-grand-prix/
   </p>
   
   <p style="margin-bottom: 0in;">
-    Too bad we didn&'t have the cards to assemble that last one. Looked fun.
+    Too bad we didn't have the cards to assemble that last one. Looked fun.
   </p>
   
   <p>

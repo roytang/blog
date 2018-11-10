@@ -50,6 +50,6 @@ Microsoft® Office Home and Student 2007 (Trial Version for 60 days)
 
 ===================================================================
 
-I felt guilty about the impulse buy for a few hours; I didn&'t really need a laptop of course, and I could upgrade one of the home desktops into a top of the line gaming machine for the same price. Still, I&'ve always wanted a laptop and if I went by that logic I&'d never have one!
+I felt guilty about the impulse buy for a few hours; I didn't really need a laptop of course, and I could upgrade one of the home desktops into a top of the line gaming machine for the same price. Still, I've always wanted a laptop and if I went by that logic I'd never have one!
 
-So yeah I&'m using it now, I also bought and setup a wifi router at home as well, so now I get to blog while watching a DVD of 21. I&'m also back to using a Windows OS at home, since the laptop comes with Windows Vista Home Premium. I think I&'m going to try using Vista and IE for a while and see how long before I decide to wipe and install into an XP/Ubuntu dual boot. At least I get to experience the thrill of being a Windows shill for a while. 😀
+So yeah I'm using it now, I also bought and setup a wifi router at home as well, so now I get to blog while watching a DVD of 21. I'm also back to using a Windows OS at home, since the laptop comes with Windows Vista Home Premium. I think I'm going to try using Vista and IE for a while and see how long before I decide to wipe and install into an XP/Ubuntu dual boot. At least I get to experience the thrill of being a Windows shill for a while. 😀

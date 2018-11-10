@@ -7,7 +7,7 @@ type: post
 url: /2008/01/advance-wars-dual-strike/
 ---
 
-Despite it&'s age, I&'ve only recently gotten around to loving Advance Wars: Dual Strike on the DS. It&'s just the sort of game I enjoy: challenging enough not to bore me but not so difficult that I give up in frustration and has enough extras to keep me coming back. A bit of a learning curve though, and probably not for casual gamers. I beat the normal campaign last week (just barely &#8211; winning on Day 28 of a 28-day target), and I&'m hoping I can finish the hard campaign before the release of
+Despite it's age, I've only recently gotten around to loving Advance Wars: Dual Strike on the DS. It's just the sort of game I enjoy: challenging enough not to bore me but not so difficult that I give up in frustration and has enough extras to keep me coming back. A bit of a learning curve though, and probably not for casual gamers. I beat the normal campaign last week (just barely &#8211; winning on Day 28 of a 28-day target), and I'm hoping I can finish the hard campaign before the release of
    
 [
     

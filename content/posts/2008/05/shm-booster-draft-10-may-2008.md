@@ -9,7 +9,7 @@ url: /2008/05/shm-booster-draft-10-may-2008/
 
 Due to an increased workload, as of Friday night I was still totally unprepared for Block Constructed. I decided to skip the Shadowmoor Block Inaugural tournament yesterday, but I still showed up in the afternoon at Galleria to look for cards. Luckily, there was a draft signup so I went ahead and gambled some money on my supposed skills in Limited.
 
-After waiting some 3-4 hours for the draft signup to reach 8 people, we got started. I always carry a pair of scissors in my bag now since I&'m really bad at opening packs when my hands get sweaty.
+After waiting some 3-4 hours for the draft signup to reach 8 people, we got started. I always carry a pair of scissors in my bag now since I'm really bad at opening packs when my hands get sweaty.
 
 Some select picks:
 
@@ -17,13 +17,13 @@ Pack one, pick one:
    
 [Mossbridge Troll][1]
 
-In the removal-light SHM limited format, the Troll is pretty hard to kill for some color combinations. And besides, it&'s a rare!
+In the removal-light SHM limited format, the Troll is pretty hard to kill for some color combinations. And besides, it's a rare!
 
 Pack one, pick two:
    
 [Wicker Warcrawler][2]
 
-There&'s a group of people I draft with on a semiregular basis; &#8220;Be a man, take the artifact!&#8221; has been one of our running jokes for years now. The thing abut the warcrawler is that many people don&'t realize that it gets the -1/-1 counter at the end of combat, so the first attack or block is a six, and will often net you card advantage in the form of a chump block.
+There's a group of people I draft with on a semiregular basis; &#8220;Be a man, take the artifact!&#8221; has been one of our running jokes for years now. The thing abut the warcrawler is that many people don't realize that it gets the -1/-1 counter at the end of combat, so the first attack or block is a six, and will often net you card advantage in the form of a chump block.
 
 Pack one, pick three:
    
@@ -61,7 +61,7 @@ Pack three, pick one:
 
 Lol, yeah, rare-drafting.
 
-Prior to this pack I&'d already gotten a pair of
+Prior to this pack I'd already gotten a pair of
    
 [Morselhoarder][9]
    
@@ -73,11 +73,11 @@ and a
    
 [Runes of the Deus][11]
    
-came in, I easily scooped it up. I also got two Pili-palas in the third pack, hoping to score a Power of Fire, but no such luck. The Pili-pala were very good though, enabling a splash of white and for some reason people don&'t realize it&'s a flier!
+came in, I easily scooped it up. I also got two Pili-palas in the third pack, hoping to score a Power of Fire, but no such luck. The Pili-pala were very good though, enabling a splash of white and for some reason people don't realize it's a flier!
    
 <!--more-->
 
-Here&'s my final list:
+Here's my final list:
  
   
 
@@ -205,7 +205,7 @@ Here&'s my final list:
       1 <a href="http://magiccards.info/autocard.php?card=Dramatic Entrance">Dramatic Entrance</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Gloomwidow's Feast">Gloomwidow&'s Feast</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Gloomwidow's Feast">Gloomwidow's Feast</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Toil to Renown">Toil to Renown</a>
@@ -248,7 +248,7 @@ Here&'s my final list:
 
 In hindsight, some obvious problems: Nurturer Initiate should have just been Scuzzback Scrapper if I really needed the one-drop; it has more synergy with Runes of the Deus. Old Ghastbark might have been better than Watchwing Scarecrow despite being one mana more expensive.
 
-I&'m amused by the fact that I&'m splashing two Aethertow with neither Islands nor Plains.
+I'm amused by the fact that I'm splashing two Aethertow with neither Islands nor Plains.
 
 Boo to NG for not providing basic lands! I had to desleeve some lands from some deck components I had brought along and had to proxy Islands for Mountains.
 
@@ -264,9 +264,9 @@ Round three: 2-1 win vs BR
 
 He had like 3 Emberstrike Duos and various other small guys, but not much removal. Same general problems with BR in SHM.
 
-I made a really stupid play in game 3 and it was lucky that I still won despite it. I had Knollspine Invocation out, my opponent had Loch Korrigan and a Scuzzback Marauder with a -1/-1 counter on it. He tapped out for Rattleblaze Scarecrow, of course it would have haste due to the Marauder. I activated Knollspine Invocation for 2 to take out the Marauder, removing the haste and stopping the attack. On my turn, I untap and realize that the 2-cc spell I had discarded to Knollspine was a Smash to Smithereens! I&'m so smart.
+I made a really stupid play in game 3 and it was lucky that I still won despite it. I had Knollspine Invocation out, my opponent had Loch Korrigan and a Scuzzback Marauder with a -1/-1 counter on it. He tapped out for Rattleblaze Scarecrow, of course it would have haste due to the Marauder. I activated Knollspine Invocation for 2 to take out the Marauder, removing the haste and stopping the attack. On my turn, I untap and realize that the 2-cc spell I had discarded to Knollspine was a Smash to Smithereens! I'm so smart.
 
-Luckily on my turn I drew the sixth land and played out Morselhoarder, getting two elf tokens due to Flourising Defenses. On his turns the elves chump block and he lays down two blockers. On my turn, I show him the Runes and he&'s at some low number like 9 so the jig is up. He clarifies the implication of double-strike + trample with the judge, and it&'s lethal as expected.
+Luckily on my turn I drew the sixth land and played out Morselhoarder, getting two elf tokens due to Flourising Defenses. On his turns the elves chump block and he lays down two blockers. On my turn, I show him the Runes and he's at some low number like 9 so the jig is up. He clarifies the implication of double-strike + trample with the judge, and it's lethal as expected.
 
 I won two packs! The prize rares were
    
