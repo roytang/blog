@@ -18,7 +18,7 @@ I came across the [Stylish Firefox Extension][1], and the [GMail Redesigned
   
 ][3] _
   
-(I&#8217;m not sure if it was necessary to blot out the names of contacts!)
+(I&'m not sure if it was necessary to blot out the names of contacts!)
   
 _
 

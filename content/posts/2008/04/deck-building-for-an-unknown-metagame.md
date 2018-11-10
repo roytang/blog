@@ -290,4 +290,4 @@ The final decklist:
   </div>
 </div>
 
-I’ll probably tweak the above list before Saturday, but it should be a pretty good idea of where I’m going with this. Next: I need to think of the sideboard. And if I actually manage to find some time before Saturday, maybe some actual playtesting. Probably need some sort of sanity check as well, to make sure I haven&#8217;t designed a pile of actual garbage!
+I’ll probably tweak the above list before Saturday, but it should be a pretty good idea of where I’m going with this. Next: I need to think of the sideboard. And if I actually manage to find some time before Saturday, maybe some actual playtesting. Probably need some sort of sanity check as well, to make sure I haven&'t designed a pile of actual garbage!

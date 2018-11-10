@@ -10,7 +10,7 @@ type: post
 url: /2017/03/running-python-2-x-and-3-x-on-windows/
 ---
 
-I&#8217;ve been hesitant to try Python 3.x because it&#8217;s not backward compatible with Python 2.x which I&#8217;ve been using for scripting since forever. But recently I found out that since Python 3.3, they&#8217;ve included a launcher in the Windows version that supports having both versions installed.
+I&'ve been hesitant to try Python 3.x because it&'s not backward compatible with Python 2.x which I&'ve been using for scripting since forever. But recently I found out that since Python 3.3, they&'ve included a launcher in the Windows version that supports having both versions installed.
 
 You can use the launcher to specify the Python version to use at the command line (it defaults to whichever version was installed first):
 

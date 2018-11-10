@@ -9,7 +9,7 @@ type: post
 url: /2013/04/nancy-and-the-elections-a-fictional-dialogue/
 ---
 
-People who follow me on Facebook or Twitter know that I&#8217;ve been recently made a number of anti-Nancy Binay posts. For a while now I&#8217;ve been wanting to write a blog post about that and several other election-related thoughts. I&#8217;ve decided to present these thoughts it as a fictional chat between made-up characters. Totally fictional characters. Any resemblance to actual people living or dead = pure coincidence. <em style="font-size: smaller; color: gray;">(Although if you must try to imagine these characters, you can imagine jaeger as a dashing idealist, in-in as a cynical pragmatist, ORYLY as a carefree vagabond and Scrappy coco as someone who just wandered into the wrong room.)</em>
+People who follow me on Facebook or Twitter know that I&'ve been recently made a number of anti-Nancy Binay posts. For a while now I&'ve been wanting to write a blog post about that and several other election-related thoughts. I&'ve decided to present these thoughts it as a fictional chat between made-up characters. Totally fictional characters. Any resemblance to actual people living or dead = pure coincidence. <em style="font-size: smaller; color: gray;">(Although if you must try to imagine these characters, you can imagine jaeger as a dashing idealist, in-in as a cynical pragmatist, ORYLY as a carefree vagabond and Scrappy coco as someone who just wandered into the wrong room.)</em>
 
 &nbsp;
 
@@ -34,7 +34,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:04:45</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> i don&#8217;t mind, idiots need representation too</span>
+  <span class="c2">10:04:45</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> i don&'t mind, idiots need representation too</span>
 </p>
 
 <p class="c4">
@@ -50,7 +50,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:08:27</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> but she&#8217;s arrogant</span>
+  <span class="c2">10:08:27</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> but she&'s arrogant</span>
 </p>
 
 <p class="c4">
@@ -66,7 +66,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:09:09</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> but she doesn&#8217;t talk about anything</span>
+  <span class="c2">10:09:09</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> but she doesn&'t talk about anything</span>
 </p>
 
 <p class="c4">
@@ -118,7 +118,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:11:43</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> una ko lang napanood ung kay nancy so she&#8217;s been annoying the longest time</span>
+  <span class="c2">10:11:43</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> una ko lang napanood ung kay nancy so she&'s been annoying the longest time</span>
 </p>
 
 <p class="c4">
@@ -150,7 +150,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:13:45</span><span class="c3"> </span><span class="c0">‹</span><span class="c7 c3">in-in</span><span class="c0">›</span><span class="c3"> he doesn&#8217;t look trustworthy as well. maski si jpe shady din actually yung past.</span>
+  <span class="c2">10:13:45</span><span class="c3"> </span><span class="c0">‹</span><span class="c7 c3">in-in</span><span class="c0">›</span><span class="c3"> he doesn&'t look trustworthy as well. maski si jpe shady din actually yung past.</span>
 </p>
 
 <p class="c4">
@@ -170,7 +170,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:18:53</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> that&#8217;s not really a problem</span>
+  <span class="c2">10:18:53</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> that&'s not really a problem</span>
 </p>
 
 <p class="c4">
@@ -198,7 +198,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:20:46</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> like &#8220;change your profile pic to this icon if you&#8217;re going to vote intelligently&#8221;</span>
+  <span class="c2">10:20:46</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> like &#8220;change your profile pic to this icon if you&'re going to vote intelligently&#8221;</span>
 </p>
 
 <p class="c4">
@@ -298,7 +298,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:26:36</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> that&#8217;s where the pyramiding comes in!</span>
+  <span class="c2">10:26:36</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> that&'s where the pyramiding comes in!</span>
 </p>
 
 <p class="c4">
@@ -330,11 +330,11 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:27:39</span><span class="c3"> </span><span class="c0">‹</span><span class="c7 c3">in-in</span><span class="c0">›</span><span class="c3"> </span><span class="c3 c13">> ‹jaeger› the problem is really the loads of people who are easily fooled by the going around and shaking hands, cheap giveaways, mababaw na commercials >> nahh they&#8217;re easily swayed by the MOOLAH</span>
+  <span class="c2">10:27:39</span><span class="c3"> </span><span class="c0">‹</span><span class="c7 c3">in-in</span><span class="c0">›</span><span class="c3"> </span><span class="c3 c13">> ‹jaeger› the problem is really the loads of people who are easily fooled by the going around and shaking hands, cheap giveaways, mababaw na commercials >> nahh they&'re easily swayed by the MOOLAH</span>
 </p>
 
 <p class="c4">
-  <span class="c2">10:27:40</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> I haven&#8217;t turned on the TV since forever</span>
+  <span class="c2">10:27:40</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> I haven&'t turned on the TV since forever</span>
 </p>
 
 <p class="c4">
@@ -350,7 +350,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:28:09</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> that&#8217;s because the really intelligent thing is to sway other people</span>
+  <span class="c2">10:28:09</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> that&'s because the really intelligent thing is to sway other people</span>
 </p>
 
 <p class="c4">
@@ -362,7 +362,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:29:07</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> yeah, but isn&#8217;t that the riddle of the century?</span>
+  <span class="c2">10:29:07</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> yeah, but isn&'t that the riddle of the century?</span>
 </p>
 
 <p class="c4">
@@ -374,7 +374,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:31:03</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> but now i think i&#8217;ll just paste this chat log lol</span>
+  <span class="c2">10:31:03</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> but now i think i&'ll just paste this chat log lol</span>
 </p>
 
 <p class="c4">
@@ -402,7 +402,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:33:06</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> yeah, I mean you&#8217;ve come back to the same problem that everyone came across before</span>
+  <span class="c2">10:33:06</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> yeah, I mean you&'ve come back to the same problem that everyone came across before</span>
 </p>
 
 <p class="c4">
@@ -410,7 +410,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:33:53</span><span class="c3"> </span><span class="c0">‹</span><span class="c3 c11">derp</span><span class="c0">›</span><span class="c3"> </span><span class="c3 c13">> ‹in-in› and the intelligent people are not registered </span><span class="c3"><&#8211; woohoo! I&#8217;m intelligent!</span>
+  <span class="c2">10:33:53</span><span class="c3"> </span><span class="c0">‹</span><span class="c3 c11">derp</span><span class="c0">›</span><span class="c3"> </span><span class="c3 c13">> ‹in-in› and the intelligent people are not registered </span><span class="c3"><&#8211; woohoo! I&'m intelligent!</span>
 </p>
 
 <p class="c4">
@@ -418,7 +418,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2 c9">10:35:22</span><span class="c3 c9"> * ORYLY they&#8217;re working for advertising companies and the campaign management</span>
+  <span class="c2 c9">10:35:22</span><span class="c3 c9"> * ORYLY they&'re working for advertising companies and the campaign management</span>
 </p>
 
 <p class="c4">
@@ -450,7 +450,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:39:01</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> maybe because it&#8217;s a boring topic</span>
+  <span class="c2">10:39:01</span><span class="c3"> </span><span class="c0">‹</span><span class="c10 c3">ORYLY</span><span class="c0">›</span><span class="c3"> maybe because it&'s a boring topic</span>
 </p>
 
 <p class="c4">
@@ -458,7 +458,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:39:41</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> it&#8217;s not like candidates actually talk about issues!</span>
+  <span class="c2">10:39:41</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> it&'s not like candidates actually talk about issues!</span>
 </p>
 
 <p class="c4">
@@ -546,7 +546,7 @@ People who follow me on Facebook or Twitter know that I&#8217;ve been recently m
 </p>
 
 <p class="c4">
-  <span class="c2">10:44:07</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> ok i guess that&#8217;s enough material</span>
+  <span class="c2">10:44:07</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> ok i guess that&'s enough material</span>
 </p>
 
 <p class="c4">

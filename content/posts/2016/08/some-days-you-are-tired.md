@@ -12,7 +12,7 @@ Some days you are tired
   
 Maybe you are tired of all the work
   
-You can&#8217;t keep up with, it all piles up
+You can&'t keep up with, it all piles up
   
 Of all the meetings and reports
   
@@ -26,13 +26,13 @@ That you never have enough of
   
 Of all the deadlines and targets
   
-That you never meet but should&#8217;ve
+That you never meet but should&'ve
 
 Some days you are tired
   
 Maybe you are tired of the world
   
-And how it&#8217;s unfair and never learns
+And how it&'s unfair and never learns
   
 Of all the madness and insanity
   
@@ -50,9 +50,9 @@ Or disappointments in their decisions
 
 And on some other days
   
-It&#8217;s more of the same
+It&'s more of the same
 
-But also maybe you see a smile in a child&#8217;s eyes
+But also maybe you see a smile in a child&'s eyes
   
 Or maybe you run into a long-lost friend from years ago
   
@@ -66,7 +66,7 @@ Or maybe you solve a problem tearing you up inside
   
 Or maybe a familiar tune plays on the radio
   
-Or maybe finally you&#8217;re no longer in the red
+Or maybe finally you&'re no longer in the red
   
 Or maybe good fortune comes to your brother
   
@@ -74,7 +74,7 @@ Or maybe you find some time alone to breathe
 
 And then you remember
   
-That it doesn&#8217;t always go this way
+That it doesn&'t always go this way
   
 That there are also better days
 

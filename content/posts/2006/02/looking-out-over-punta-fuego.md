@@ -19,11 +19,11 @@ url: /2006/02/looking-out-over-punta-fuego/
     Originally uploaded by<br /> <a href="http://www.flickr.com/people/65204400@N00/"><br /> zroytang<br /> </a><br /> .</div> 
     
     <p>
-      This is the photo I decided to put on the front page of http://roytang.net while I wasn&#8217;t sure yet what to put there.
+      This is the photo I decided to put on the front page of http://roytang.net while I wasn&'t sure yet what to put there.
     </p>
     
     <p>
-      We were at Punta Fuego in Batangas last Jan 30-31 for our coincidentally-coinciding-with-the-HK-Chinese-New Year-weekend annual company outing. Those who know me in person might be aware that I&#8217;m not really big on out-of-town trips. In short order, the reasons are: being antisocial, tendency to get tired/dizzy on long trips, and not particularly liking seafood.
+      We were at Punta Fuego in Batangas last Jan 30-31 for our coincidentally-coinciding-with-the-HK-Chinese-New Year-weekend annual company outing. Those who know me in person might be aware that I&'m not really big on out-of-town trips. In short order, the reasons are: being antisocial, tendency to get tired/dizzy on long trips, and not particularly liking seafood.
     </p>
     
     <p>

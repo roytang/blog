@@ -12,4 +12,4 @@ url: /2008/06/kung-fu-panda/
 
 Watch it, and be blinded by awesomeness.
 
-For added effect, imagine it&#8217;s really Jack Black doing everything the Panda does.
+For added effect, imagine it&'s really Jack Black doing everything the Panda does.

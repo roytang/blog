@@ -15,7 +15,7 @@ I find your lack of socks&#8230;disturbing
    
 _ 
 
-I played a couple MTGO drafts the day before but did not do very well, I hoped my luck would be better this time. But my day did not start very well as I found that I had forgotten to bring sleeves to the event. I had to buy some rough-backed Ultra Pros. I hate rough-backed sleeves, my hands are not very good with them. For some reason, I was also stupid enough to come in my sandals, wearing no socks. I know from experience that this is stupid, as my feet will get sweaty and I&#8217;ll be uncomfortable all day. Surely the above two whiny complaints are no excuse for the eventual beating that I get during the tournament (OMG spoiler!), but they couldn&#8217;t have helped.
+I played a couple MTGO drafts the day before but did not do very well, I hoped my luck would be better this time. But my day did not start very well as I found that I had forgotten to bring sleeves to the event. I had to buy some rough-backed Ultra Pros. I hate rough-backed sleeves, my hands are not very good with them. For some reason, I was also stupid enough to come in my sandals, wearing no socks. I know from experience that this is stupid, as my feet will get sweaty and I&'ll be uncomfortable all day. Surely the above two whiny complaints are no excuse for the eventual beating that I get during the tournament (OMG spoiler!), but they couldn&'t have helped.
 
 I open the following Sealed Pool:
  
@@ -100,7 +100,7 @@ I open the following Sealed Pool:
   
   <tr>
     <td>
-      1 Eyeblight&#8217;s Ending
+      1 Eyeblight&'s Ending
     </td>
     
     <td>
@@ -146,7 +146,7 @@ I open the following Sealed Pool:
   
   <tr>
     <td>
-      1 Hoarder&#8217;s Greed
+      1 Hoarder&'s Greed
     </td>
     
     <td>
@@ -159,7 +159,7 @@ I open the following Sealed Pool:
   
   <tr>
     <td>
-      1 Oona&#8217;s Prowler
+      1 Oona&'s Prowler
     </td>
     
     <td>
@@ -218,7 +218,7 @@ I open the following Sealed Pool:
   
   <tr>
     <td>
-      1 Aquitect&#8217;s Will
+      1 Aquitect&'s Will
     </td>
     
     <td>
@@ -294,7 +294,7 @@ I open the following Sealed Pool:
     </td>
     
     <td>
-      1 Giant&#8217;s Ire
+      1 Giant&'s Ire
     </td>
     
     <td>
@@ -340,7 +340,7 @@ I open the following Sealed Pool:
     </td>
     
     <td>
-      1 Cenn&#8217;s Heir
+      1 Cenn&'s Heir
     </td>
     
     <td>
@@ -499,7 +499,7 @@ Out of which came the following deck:
    
 
    
-1 Eyeblight&#8217;s Ending
+1 Eyeblight&'s Ending
    
 
    
@@ -507,7 +507,7 @@ Out of which came the following deck:
    
 
    
-1 Oona&#8217;s Prowler
+1 Oona&'s Prowler
    
 
    
@@ -583,15 +583,15 @@ Round 1: 0-2 loss vs Urw
 
 Wow. Not a good start. His deck was pretty good though &#8211; two Peppersmokes and two Tarfires kept me behind in the early game.
 
-Round 2: 2-0 win vs (don&#8217;t remember)
+Round 2: 2-0 win vs (don&'t remember)
 
 My opponent got a game loss for showing  up late. I won game two easily.
 
 Round 3: 0-2 loss vs Mono(?) white Kithkin
 
-Wow, this was one of those moments where I completely blew it. Impulsiveness made me throw away this game and I vow it will never EVER happen again. It was game one, I was dead to his next swing, but 3 of my guys were fliers and I drew into Final Revels. I quickly went for +2/+0 thinking I had enough damage to win the game. As he considered his options I realize the miscount and that he would live with 1 life, killing me the next turn with two Kithkin guys with no blockers. Oh man, what an idiot. I just saw the Final Revels topdeck and played it without thinking. NEVER AGAIN. I figure I&#8217;ll recover in game 2, but I draw no lands.
+Wow, this was one of those moments where I completely blew it. Impulsiveness made me throw away this game and I vow it will never EVER happen again. It was game one, I was dead to his next swing, but 3 of my guys were fliers and I drew into Final Revels. I quickly went for +2/+0 thinking I had enough damage to win the game. As he considered his options I realize the miscount and that he would live with 1 life, killing me the next turn with two Kithkin guys with no blockers. Oh man, what an idiot. I just saw the Final Revels topdeck and played it without thinking. NEVER AGAIN. I figure I&'ll recover in game 2, but I draw no lands.
 
-Sigh. 1 and 2 after 3 rounds. I figure I&#8217;ll play until I get the 3rd loss, maybe win some packs.
+Sigh. 1 and 2 after 3 rounds. I figure I&'ll play until I get the 3rd loss, maybe win some packs.
 
 Round 4: 0-2 loss vs GWb.
 

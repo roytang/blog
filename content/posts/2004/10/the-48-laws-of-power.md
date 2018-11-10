@@ -34,7 +34,7 @@ url: /2004/10/the-48-laws-of-power/
 
 12. Use Selective Honesty and Generosity to Disarm Your Victim
 
-13. When Asking for Help, Appeal to People&#8217;s Self-Interest, Never Their Mercy or Gratitude
+13. When Asking for Help, Appeal to People&'s Self-Interest, Never Their Mercy or Gratitude
 
 14. Pose as a Friend, Work as a Spy
 
@@ -62,7 +62,7 @@ url: /2004/10/the-48-laws-of-power/
 
 26. Keep Your Hands Clean
 
-27. Play on People&#8217;s Need to Believe to Create a Cultlike Following
+27. Play on People&'s Need to Believe to Create a Cultlike Following
 
 28. Enter Action with Boldness
 
@@ -72,9 +72,9 @@ url: /2004/10/the-48-laws-of-power/
 
 31. Control The Options: Get Others to Play With the Cards You Deal
 
-32. Play to People&#8217;s Fantasies
+32. Play to People&'s Fantasies
 
-33. Discover Each Man&#8217;s Thumbscrew
+33. Discover Each Man&'s Thumbscrew
 
 34. Be Royal In Your Own Fashion: Act Like a King and be Treated Like One
 
@@ -90,7 +90,7 @@ url: /2004/10/the-48-laws-of-power/
 
 40. Despise the Free Lunch
 
-41. Avoid Stepping Into a Great Man&#8217;s Shoes
+41. Avoid Stepping Into a Great Man&'s Shoes
 
 42. Strike the Sheperd and the Sheep Will Scatter
 

@@ -9,7 +9,7 @@ type: post
 url: /2004/07/the-metamorphosis-of-prime-intellect/
 ---
 
-Found this on [kuro5hin][1]: it&#8217;s a fairly well-written science fiction piece.
+Found this on [kuro5hin][1]: it&'s a fairly well-written science fiction piece.
   
 [
   

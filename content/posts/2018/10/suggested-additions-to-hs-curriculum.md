@@ -23,7 +23,7 @@ I have no plans of running for elective office (though it is a running joke amon
   * how to articulate your arguments well (I think the Eng/Fil subject in HS curriculum covers only literature and not any sort of communication skill)
   * how to debate and argue without taking things personally
   * planning, decision making and time management
-  * basic concepts of economics (including how taxes work, inflation, GDP, mortgages, loans, etc &#8211; we had an economics subject in 4th year HS, but I don&#8217;t know if that&#8217;s standard and it was mostly theory and not on day-to-day applications)
+  * basic concepts of economics (including how taxes work, inflation, GDP, mortgages, loans, etc &#8211; we had an economics subject in 4th year HS, but I don&'t know if that&'s standard and it was mostly theory and not on day-to-day applications)
   * basic concepts of investments and financial advice
   * ethics
   * proper usage of memes
@@ -31,4 +31,4 @@ I have no plans of running for elective office (though it is a running joke amon
 
 Obviously, the challenge here is that many of these topics are easily &#8220;testable&#8221;, i.e. it means the teacher will have to work harder with individual students to make sure they are understanding the concepts. If we turn these topics into simply rote memorization classes, then they would be useless anyway. 
 
-I&#8217;m sure the lack of critical thinking/analysis and other life skills in education curricula isn&#8217;t a problem unique to our country, but as a developing nation I think it&#8217;s an important aspect that we can&#8217;t afford to skimp on if we want to accelerate our development. The information age requires more than factory workers and rote memorization skills, it requires a well-educated citizenry with creativity and thinking out of the box.
+I&'m sure the lack of critical thinking/analysis and other life skills in education curricula isn&'t a problem unique to our country, but as a developing nation I think it&'s an important aspect that we can&'t afford to skimp on if we want to accelerate our development. The information age requires more than factory workers and rote memorization skills, it requires a well-educated citizenry with creativity and thinking out of the box.

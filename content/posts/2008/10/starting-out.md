@@ -23,13 +23,13 @@ Figure out:
 
 i.e. if the parent app has the following mapping:
 
-&#8216;^blog/&#8217; -> pass to blog.urls.urlpatterns
+&#8216;^blog/&' -> pass to blog.urls.urlpatterns
 
 the blog app has mappings for
 
-&#8216;^post/new/&#8217; -> new post
+&#8216;^post/new/&' -> new post
 
-&#8216;^post/([A-Za-z\-])/&#8217; -> post detail
+&#8216;^post/([A-Za-z\-])/&' -> post detail
 
 inside the view, I want to redirect to &#8220;post/&#8221;, but with respect to the app, it should be &#8220;blog/post/&#8221;
 

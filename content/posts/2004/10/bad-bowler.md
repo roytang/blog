@@ -8,6 +8,6 @@ type: post
 url: /2004/10/bad-bowler/
 ---
 
-First day of company bowling today. I got 101 and 87 in the two games. Bleah. The dinner was at Max&#8217;s. The chicken was dry. I really don&#8217;t like Max&#8217;s. :(
+First day of company bowling today. I got 101 and 87 in the two games. Bleah. The dinner was at Max&'s. The chicken was dry. I really don&'t like Max&'s. :(
 
 So much for raw talent :p

@@ -9,7 +9,7 @@ url: /2008/09/shards-of-alara-preview-season/
 
 &#8230;starts next week.
 
-Taking a break from typing up my Grand Prix Manila blog entries, here&#8217;s my prediction for the type of manafixing we&#8217;ll see in Alara:
+Taking a break from typing up my Grand Prix Manila blog entries, here&'s my prediction for the type of manafixing we&'ll see in Alara:
  
   
 

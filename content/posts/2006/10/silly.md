@@ -10,13 +10,13 @@ url: /2006/10/silly/
 
 A friend of mine at work once commented to me that I ask the silliest questions.
 
-When I&#8217;m a bit bored at the office, I will sometimes throw random meaning-of-life questions at them. things like:
+When I&'m a bit bored at the office, I will sometimes throw random meaning-of-life questions at them. things like:
 
 &#8220;If you had a time machine, what would you do with it?&#8221;
 
 &#8220;IF you were president, what would you do about [thing]?&#8221;
 
-&#8220;What&#8217;s your most impossible dream?&#8221;
+&#8220;What&'s your most impossible dream?&#8221;
 
 &#8220;If you could vanish right now, where would you go?&#8221;
 

@@ -42,7 +42,7 @@ So the other day I was reworking a Python script that I had been using for yea
 
 Now since my software development career has largely been as an enterprise-y kind of developer, my first thought was to just use a database to store the data. I already had a MySql installation on my machine so that was fine, I just needed Python to interface with it. After looking up how to do it, I balked at having to install a new Python library just to connect to MySql and reconsidered.
 
-As programmers, we have a tendency sometimes to over-engineer solutions because that&#8217;s what we&#8217;re used to doing. Did I really need a database for this? The data won&#8217;t be very big, and I won&#8217;t need to do any sort of maintenance on it, so maybe a simpler solution was in order.
+As programmers, we have a tendency sometimes to over-engineer solutions because that&'s what we&'re used to doing. Did I really need a database for this? The data won&'t be very big, and I won&'t need to do any sort of maintenance on it, so maybe a simpler solution was in order.
 
 I ended up just using pickle, which was already built-in to Python:
 
@@ -57,8 +57,8 @@ def save_db(all_series):
 		pickle.dump(all_series, handle, protocol=pickle.HIGHEST_PROTOCOL)
 </pre>
 
-(Above code _probably_ gives you an idea what kind of files I&#8217;m sorting&#8230;)
+(Above code _probably_ gives you an idea what kind of files I&'m sorting&#8230;)
 
-As an added benefit, I didn&#8217;t need to design any database schemas or tables or whatnot, pickle just lets me serialize the map as-is and reload it later from disk without any hassle.
+As an added benefit, I didn&'t need to design any database schemas or tables or whatnot, pickle just lets me serialize the map as-is and reload it later from disk without any hassle.
 
-I guess my lesson here was: don&#8217;t over-complicate things when something simple will work fine. Write the simplest code that can do the job.
+I guess my lesson here was: don&'t over-complicate things when something simple will work fine. Write the simplest code that can do the job.

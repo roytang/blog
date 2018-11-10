@@ -8,7 +8,7 @@ type: post
 url: /2004/10/firefox-in-98/
 ---
 
-This internet shop is using Windows 98, apparently. And it looks like Firefox&#8217;s icon doesn&#8217;t show properly in 98?
+This internet shop is using Windows 98, apparently. And it looks like Firefox&'s icon doesn&'t show properly in 98?
 
 Oh, and [Yahoo has a new front page.
   

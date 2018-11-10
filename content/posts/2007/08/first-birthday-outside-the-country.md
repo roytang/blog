@@ -12,9 +12,9 @@ url: /2007/08/first-birthday-outside-the-country/
 
 Check. Yeap, I turned 29 a couple of days ago.
 
-There&#8217;s a typhoon signal no. 8 over HK right now as I type this. For people in the Philippines, that&#8217;s hard to imagine since our local indicators only go up to storm signal no. 4. But it&#8217;s really a bit calm where I am right now, some wind but not much rain. I&#8217;m not inclined to go out though, I&#8217;m running out of clothes as it is.
+There&'s a typhoon signal no. 8 over HK right now as I type this. For people in the Philippines, that&'s hard to imagine since our local indicators only go up to storm signal no. 4. But it&'s really a bit calm where I am right now, some wind but not much rain. I&'m not inclined to go out though, I&'m running out of clothes as it is.
 
-I&#8217;m flying back next Tuesday, hopefully the storm has dissipated by then. I miss my own bed. :p
+I&'m flying back next Tuesday, hopefully the storm has dissipated by then. I miss my own bed. :p
 
 ## Comments
 

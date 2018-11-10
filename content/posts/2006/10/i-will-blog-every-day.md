@@ -8,7 +8,7 @@ type: post
 url: /2006/10/i-will-blog-every-day/
 ---
 
-I&#8217;m bored, let&#8217;s do this.
+I&'m bored, let&'s do this.
 
 I will blog every day of October.
 

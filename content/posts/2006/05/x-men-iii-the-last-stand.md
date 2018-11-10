@@ -10,7 +10,7 @@ type: post
 url: /2006/05/x-men-iii-the-last-stand/
 ---
 
-There&#8217;s only one thing I have to say about the third X-men movie: Totally unexpected.
+There&'s only one thing I have to say about the third X-men movie: Totally unexpected.
 
 Comic book series fans will enjoy it more, as it fundamentally screws with what such a fan would expect from an X-men movie.
 

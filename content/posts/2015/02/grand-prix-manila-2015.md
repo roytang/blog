@@ -12,13 +12,13 @@ type: post
 url: /2015/02/grand-prix-manila-2015/
 ---
 
-One of my many, many loyal blog readers pointed out to me that I had yet to post about Grand Prix Manila, which took place in the first week of this year. I&#8217;ve been meaning to post about it, but it got lost in my backlog. So here we are.
+One of my many, many loyal blog readers pointed out to me that I had yet to post about Grand Prix Manila, which took place in the first week of this year. I&'ve been meaning to post about it, but it got lost in my backlog. So here we are.
 
 [<img class="aligncenter size-full wp-image-963" src="http://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0.jpg" alt="Day-2-Opening_0" width="1920" height="1120" srcset="https://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0.jpg 1920w, https://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0-300x175.jpg 300w, https://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0-1024x597.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />][1]
 
-Yes indeed, I still play Magic, &#8220;on and off&#8221;, as it happens with most Magic players with busy lives and/or multiple other hobbies. I wouldn&#8217;t miss a chance to play a local Grand Prix of course, so I started getting back into standard as soon as Khans of Tarkir rotated in. I couldn&#8217;t stand the grindy midrange Abzan mirrors, so I&#8217;ve been playing Jeskai pretty much since the format started; Mantis Riders at first, then transitioned to tokens in December after I did poorly at a couple of GPTs.
+Yes indeed, I still play Magic, &#8220;on and off&#8221;, as it happens with most Magic players with busy lives and/or multiple other hobbies. I wouldn&'t miss a chance to play a local Grand Prix of course, so I started getting back into standard as soon as Khans of Tarkir rotated in. I couldn&'t stand the grindy midrange Abzan mirrors, so I&'ve been playing Jeskai pretty much since the format started; Mantis Riders at first, then transitioned to tokens in December after I did poorly at a couple of GPTs.
 
-The list I ran, largely based off Yuuya Watanabe&#8217;s Player&#8217;s Championship deck (sideboard might not be accurate&#8230;I may have taken too long to write this up :p):
+The list I ran, largely based off Yuuya Watanabe&'s Player&'s Championship deck (sideboard might not be accurate&#8230;I may have taken too long to write this up :p):
 
 {{< cardlist title="Jeskai Tokens" >}}
   
@@ -94,7 +94,7 @@ The list I ran, largely based off Yuuya Watanabe&#8217;s Player&#8217;s Champion
   
 {{< /cardlist >}}
 
-This was probably the GP where I was most prepared in terms of deckbuilding &#8211; I didn&#8217;t scrimp on card availability this time although my team pool hasn&#8217;t been as large as it used to be. Playtesting wasn&#8217;t much, mostly against Abzan variants and the aforementioned GPTs where I crashed and burned.
+This was probably the GP where I was most prepared in terms of deckbuilding &#8211; I didn&'t scrimp on card availability this time although my team pool hasn&'t been as large as it used to be. Playtesting wasn&'t much, mostly against Abzan variants and the aforementioned GPTs where I crashed and burned.
 
 I did pretty well on day one:
 
@@ -108,12 +108,12 @@ I did pretty well on day one:
 - R08 2-1 WIN vs jeskai tokens
 - R09 2-0 WIN vs abzan midrange (terry soh)
 
-That&#8217;s 8 and 1, my best Day One performance ever. My deck was running well, I was in the zone, I had some good matchups and luck was in favor a lot; I won at least 3 games against different opponents due to their mulligans to 5 or worse. I performed well enough to warrant a mention in the coverage even:
+That&'s 8 and 1, my best Day One performance ever. My deck was running well, I was in the zone, I had some good matchups and luck was in favor a lot; I won at least 3 games against different opponents due to their mulligans to 5 or worse. I performed well enough to warrant a mention in the coverage even:
 
 
 ![Snippet from Day One Coverage](http://roytang.net/wp-content/uploads/2015/02/day1coverage.png)
 
-Unfortunately Day Two didn&#8217;t go quite as well; apparently the luck I had during Day One had to be paid back with interest. I lost at least three games off mulligans to five, and my lack of playtesting against some archetypes such as UW Heroic cost me some suboptimal plays.
+Unfortunately Day Two didn&'t go quite as well; apparently the luck I had during Day One had to be paid back with interest. I lost at least three games off mulligans to five, and my lack of playtesting against some archetypes such as UW Heroic cost me some suboptimal plays.
 
 - R10 0-2 LOSS vs uw heroic
 - R11 2-1 WIN vs abzan aggro
@@ -122,7 +122,7 @@ Unfortunately Day Two didn&#8217;t go quite as well; apparently the luck I had 
 - R14 0-2 LOSS vs monored
 - R15 2-1 WIN vs abzan aggro
 
-Going 3-3 on Day Two means I finished the GP at 11-4, which was the same record I had <a href="http://roytang.net/2012/06/grand-prix-manila-2012/">back in 2012</a>. That&#8217;s good enough this year for a 37th place finish and some cash:
+Going 3-3 on Day Two means I finished the GP at 11-4, which was the same record I had <a href="http://roytang.net/2012/06/grand-prix-manila-2012/">back in 2012</a>. That&'s good enough this year for a 37th place finish and some cash:
   
 ![Snippet from final standing](http://roytang.net/wp-content/uploads/2015/02/2015-01-04-16.12.24.jpg)
 

@@ -8,15 +8,15 @@ type: post
 url: /2006/10/webcomics-i-like-2006-edition/
 ---
 
-I don&#8217;t really read a lot of webcomics. Well, at least not as many as some people. I generally prefer the ones with feeds. Here are the ones I follow that don&#8217;t have feeds. That is, I like them well enough to bother hitting their website to check for new comics.
+I don&'t really read a lot of webcomics. Well, at least not as many as some people. I generally prefer the ones with feeds. Here are the ones I follow that don&'t have feeds. That is, I like them well enough to bother hitting their website to check for new comics.
 
 [Sinfest
   
-][1] &#8211; awesome. It&#8217;s like a mature Calvin and Hobbes. Only with a talking pig instead of a tiger. And ninjas. And God!
+][1] &#8211; awesome. It&'s like a mature Calvin and Hobbes. Only with a talking pig instead of a tiger. And ninjas. And God!
 
 [Real Life
   
-][2] &#8211; gaming-related webcomic. Despite it&#8217;s title, has nothing to do with Real Life at all.
+][2] &#8211; gaming-related webcomic. Despite it&'s title, has nothing to do with Real Life at all.
 
 [8-bit Theatre
   
@@ -32,11 +32,11 @@ I don&#8217;t really read a lot of webcomics. Well, at least not as many as some
 
 [Shortpacked
   
-][6] &#8211; toys-related webcomic. Occasionally funny. I read it mostly so I can get a sense of an industry that I like but don&#8217;t really have time to interact with.
+][6] &#8211; toys-related webcomic. Occasionally funny. I read it mostly so I can get a sense of an industry that I like but don&'t really have time to interact with.
 
 [Questionable Content
   
-][7] &#8211; eh, I&#8217;m not sure why I follow this. I&#8217;m not sure I can explain it, so from Wikipedia: &#8220;the style ranges between romantic melodrama, humor about indie rock music, and sexual or scatological humor&#8221;. I started reading it a while back and I stuck around. Not really funny. Well maybe it is if you follow indie rock.
+][7] &#8211; eh, I&'m not sure why I follow this. I&'m not sure I can explain it, so from Wikipedia: &#8220;the style ranges between romantic melodrama, humor about indie rock music, and sexual or scatological humor&#8221;. I started reading it a while back and I stuck around. Not really funny. Well maybe it is if you follow indie rock.
 
 And the ones that do have feeds:
 
@@ -50,13 +50,13 @@ And the ones that do have feeds:
 
 [Pvp Online
   
-][10] &#8211; this one is not as popular as the above two, but popular nonetheless. It&#8217;s about guys working in a gaming mag, so more geekiness abounds. Eh, my feed for this seems to be dead. I&#8217;ll look for a new one.
+][10] &#8211; this one is not as popular as the above two, but popular nonetheless. It&'s about guys working in a gaming mag, so more geekiness abounds. Eh, my feed for this seems to be dead. I&'ll look for a new one.
 
 [xkcd
   
-][11] &#8211; this is awesome and geeky, but not in the usual geeky way. The description is &#8220;A webcomic of romance, sarcasm, math, and language.&#8221; Read it, maybe you&#8217;ll like it!
+][11] &#8211; this is awesome and geeky, but not in the usual geeky way. The description is &#8220;A webcomic of romance, sarcasm, math, and language.&#8221; Read it, maybe you&'ll like it!
 
-Edit: Well, I was trying to figure out why I didn&#8217;t have feeds of the first group, and I checked, and now I got feeds for all of &#8217;em! The list above is kept in original form however.
+Edit: Well, I was trying to figure out why I didn&'t have feeds of the first group, and I checked, and now I got feeds for all of &'em! The list above is kept in original form however.
 
  [1]: http://www.sinfest.net/
  [2]: http://www.reallifecomics.com/

@@ -17,7 +17,7 @@ Comments implemented using the django.contrib.comments. No problems here, the on
 
 RSS feeds implemented using django.contrib.syndication, this one seems fine.
 
-I tested it and it&#8217;s running fine on localhost. I also have a free django hosting account at http://bells-n-whistles.net, so I try to upload it there. However, when I access the website there (
+I tested it and it&'s running fine on localhost. I also have a free django hosting account at http://bells-n-whistles.net, so I try to upload it there. However, when I access the website there (
   
 [
   

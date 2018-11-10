@@ -27,7 +27,7 @@ Regionals 2007
    
 I played Korlash/Mishra built by Flores, going 5-and-3.
 
-I was debating whether I would even go to play in the tournament, as I was totally unprepared and was quite tired. I figured a straight aggro deck would be fine, as I didn&#8217;t want to play Reveillark again for the expected nine rounds. I lent out the merfolk deck, so I cobbled together a build of Elves the night before instead:
+I was debating whether I would even go to play in the tournament, as I was totally unprepared and was quite tired. I figured a straight aggro deck would be fine, as I didn&'t want to play Reveillark again for the expected nine rounds. I lent out the merfolk deck, so I cobbled together a build of Elves the night before instead:
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -62,7 +62,7 @@ I was debating whether I would even go to play in the tournament, as I was total
       4 <a href="http://magiccards.info/autocard.php?card=Wolf-SKull Shaman">Wolf-SKull Shaman</a>
     </li>
     <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Wren's Run Vanquisher">Wren&#8217;s Run Vanquisher</a>
+      4 <a href="http://magiccards.info/autocard.php?card=Wren's Run Vanquisher">Wren&'s Run Vanquisher</a>
     </li>
     <li>
       4 <a href="http://magiccards.info/autocard.php?card=Imperious Perfect">Imperious Perfect</a>
@@ -95,7 +95,7 @@ I was debating whether I would even go to play in the tournament, as I was total
       Sideboard
     </li>
     <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Tormod's Crypt">Tormod&#8217;s Crypt</a>
+      3 <a href="http://magiccards.info/autocard.php?card=Tormod's Crypt">Tormod&'s Crypt</a>
     </li>
     <li>
       3 <a href="http://magiccards.info/autocard.php?card=Primal Command">Primal Command</a>
@@ -122,7 +122,7 @@ I was debating whether I would even go to play in the tournament, as I was total
   
 <!--more-->
 
-I figured the Riftsweepers, Jagged-Scar and Hexhunters main gave me good game against the consensus best deck of the format (Faeries), and the relatively large size of my men, plus Finks and Primal Command in the board meant I would have favorable odds against other aggro. Control decks with Wrath of God will probably be either a coin flip or an uphill battle, although the Treetops will help. I hoped I wouldn&#8217;t meet any Reveillark or Wrath-based decks.
+I figured the Riftsweepers, Jagged-Scar and Hexhunters main gave me good game against the consensus best deck of the format (Faeries), and the relatively large size of my men, plus Finks and Primal Command in the board meant I would have favorable odds against other aggro. Control decks with Wrath of God will probably be either a coin flip or an uphill battle, although the Treetops will help. I hoped I wouldn&'t meet any Reveillark or Wrath-based decks.
 
 **
     
@@ -144,9 +144,9 @@ I boarded -3 Riftsweeper, -1 Wolf-Skull Shaman, bringing in 2 Chameleon Colossus
 
 In game two, I was taking beats from two Oversouls, but was one turn from winning off Overrun when he cast Primal Command for 7 life and Akroma, giving him enough to stay alive and finish me off.
 
-I board out -1 Hexhunter (didn&#8217;t see any Oblivions Rings), -3 Jagged Scar, +3 Kitchen Finks (better against Wrath), +1 Wolf-Skull Shaman.
+I board out -1 Hexhunter (didn&'t see any Oblivions Rings), -3 Jagged Scar, +3 Kitchen Finks (better against Wrath), +1 Wolf-Skull Shaman.
 
-I draw my seven for game three and see Forest, Llanowar, Wren&#8217;s Run Vanquisher, Imperious Perfect, Wilt-Leaf Cavaliers WIlt-Leaf Liege. I figure what the hell, I have gas, and drawing a second forest will put me over the top. I keep.
+I draw my seven for game three and see Forest, Llanowar, Wren&'s Run Vanquisher, Imperious Perfect, Wilt-Leaf Cavaliers WIlt-Leaf Liege. I figure what the hell, I have gas, and drawing a second forest will put me over the top. I keep.
 
 My opponent mulligans his seven, then agonizes over the six before mulliganning again to five.
 
@@ -164,7 +164,7 @@ _
    
 He drops a land, go.
 
-I draw a third Llanowar. I play Imperious Perfect using the forest and two llanowars. I swing with Vanquisher for four. He drops to thirteen. Go. He plays the fourth land, and if he plays Wrath, I&#8217;m basically done. He looks over his hand and I know he doesn&#8217;t have the Wrath. He plays Mwonvuli Acid Moss, taking away my only land. (I suppose he boarded them in to slow-down me getting to Overrun mana). He searches his library before finally settling on Highland Weald. He&#8217;s looking at ten damage next turn, so the Wealed optimizes his chance of topdecking either Wrath, Firespout, or Glittering Wish to get Firespout.
+I draw a third Llanowar. I play Imperious Perfect using the forest and two llanowars. I swing with Vanquisher for four. He drops to thirteen. Go. He plays the fourth land, and if he plays Wrath, I&'m basically done. He looks over his hand and I know he doesn&'t have the Wrath. He plays Mwonvuli Acid Moss, taking away my only land. (I suppose he boarded them in to slow-down me getting to Overrun mana). He searches his library before finally settling on Highland Weald. He&'s looking at ten damage next turn, so the Wealed optimizes his chance of topdecking either Wrath, Firespout, or Glittering Wish to get Firespout.
    
 _
     
@@ -172,13 +172,13 @@ _
    
 _ 
 
-I draw a forest and play it, then swing for ten. He&#8217;s at three life. He windmills the top card &#8211; and it&#8217;s a Wooded Bastion. He scoops.
+I draw a forest and play it, then swing for ten. He&'s at three life. He windmills the top card &#8211; and it&'s a Wooded Bastion. He scoops.
 
 Game record: 2-1
 
 Match record: 1-0
 
-I felt pretty good, going up against a Wrath deck and winning (mostly due to lucking out in the third game?). It&#8217;s a bit of a struggle, but chances are I wouldn&#8217;t face any more such decks right?
+I felt pretty good, going up against a Wrath deck and winning (mostly due to lucking out in the third game?). It&'s a bit of a struggle, but chances are I wouldn&'t face any more such decks right?
 
 **
     
@@ -198,7 +198,7 @@ Round 3: Monogreen Elves vs GWU Reveillark
    
 ** 
 
-Oh wow. If regular UW Reveillark was a tough matchup, this one is even worse, since he has green both to gain life and tutor for creatures (Primal Command) AND accelerate. I&#8217;m going home early.
+Oh wow. If regular UW Reveillark was a tough matchup, this one is even worse, since he has green both to gain life and tutor for creatures (Primal Command) AND accelerate. I&'m going home early.
 
 Game record: 2-5
 
@@ -210,9 +210,9 @@ Summary: 1-2 Drop
    
 ** 
 
-Well, if it&#8217;s one thing I&#8217;ve learned during the past few weeks of mediocre performances: it&#8217;s usually not worth to keep going after taking two losses. Playing today might very well have been a mistake; if I didn&#8217;t have trading meetups set for the day, I probably wouldn&#8217;t have gone at all. It was 4 PM and there were six more rounds to go, I wasn&#8217;t going to bother.
+Well, if it&'s one thing I&'ve learned during the past few weeks of mediocre performances: it&'s usually not worth to keep going after taking two losses. Playing today might very well have been a mistake; if I didn&'t have trading meetups set for the day, I probably wouldn&'t have gone at all. It was 4 PM and there were six more rounds to go, I wasn&'t going to bother.
 
-Will I make it to Nationals this year? I don&#8217;t know &#8211; the ratings cutoff is still a month away, and I&#8217;m only two 5-2 finishes away from making it (assuming I didn&#8217;t lose too much today). In any case, time to focus on block constructed for GPTs&#8230;
+Will I make it to Nationals this year? I don&'t know &#8211; the ratings cutoff is still a month away, and I&'m only two 5-2 finishes away from making it (assuming I didn&'t lose too much today). In any case, time to focus on block constructed for GPTs&#8230;
 
  [1]: http://roytang.net/magic/2006/06/magic-regionals-2006/
  [2]: http://http://roytang.net/magic/2007/06/magic-regionals-2007/

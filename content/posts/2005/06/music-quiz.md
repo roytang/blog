@@ -12,7 +12,7 @@ type: post
 url: /2005/06/music-quiz/
 ---
 
-I&#8217;m bored.
+I&'m bored.
 
 What do the following have in common?
 

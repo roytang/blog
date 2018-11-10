@@ -35,9 +35,9 @@ I actually had some trouble using [django-pingback][1] on my custom blog engine;
       </table>
     </div>
     
-    But it wasn&#8217;t exactly working for me, for some reason the function wasn&#8217;t being called. After some debugging I found that I needed to use named parameters for catslug, year, month, slug in the URLConf for the post permalink in order for this to work. I&#8217;m not sure if this was because I was doing it wrong or it&#8217;s some sort of undocumented requirement.</li> 
+    But it wasn&'t exactly working for me, for some reason the function wasn&'t being called. After some debugging I found that I needed to use named parameters for catslug, year, month, slug in the URLConf for the post permalink in order for this to work. I&'m not sure if this was because I was doing it wrong or it&'s some sort of undocumented requirement.</li> 
     
-      * The pingback client was throwing a KeyError whenever a post I made would have anchor tags without an href attribute. Granted that there isn&#8217;t much point in having an <a>anchor tag without the href</a>, but the code shouldn&#8217;t just choke on it. I modified the following line in client.py: <div class="hl_wrap">
+      * The pingback client was throwing a KeyError whenever a post I made would have anchor tags without an href attribute. Granted that there isn&'t much point in having an <a>anchor tag without the href</a>, but the code shouldn&'t just choke on it. I modified the following line in client.py: <div class="hl_wrap">
           <table class="sourcetable">
             <tr>
               <td class="linenos">
@@ -73,7 +73,7 @@ I actually had some trouble using [django-pingback][1] on my custom blog engine;
           </table>
         </div></ul> 
     
-    Those are all the changes I made to get pingbacks working. I hope they&#8217;re still working now, as I haven&#8217;t received any pingbacks since the django version of this blog went live >.
+    Those are all the changes I made to get pingbacks working. I hope they&'re still working now, as I haven&'t received any pingbacks since the django version of this blog went live >.
 
  [1]: http://code.google.com/p/django-pingback/
  [2]: http://hg.piranha.org.ua/django-pingback/file/6ca8eadcd22d/README.md#l1

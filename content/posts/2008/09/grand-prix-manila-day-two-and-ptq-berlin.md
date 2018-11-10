@@ -122,15 +122,15 @@ Edit: I forgot that I managed to borrow an Ajani Goldmane on the day of the PTQ 
    
 _ 
 
-I have a couple more tournament reports to wrap up after this, so I&#8217;ll make this quick.
+I have a couple more tournament reports to wrap up after this, so I&'ll make this quick.
 
-Round 1 vs Faeries: 0-2 loss. The opponent was a guy from HK; luckily I&#8217;m pretty used to talking with HK-accented people, so we had almost no communication trouble at all. The only time I couldn&#8217;t understand him was when he tried to bounce something using Cryptic Command, I had no idea what the phrase he was using for bouncing was! I made a misplay in game two by playing a Spectral Procession from my hand instead of from under Windbrisk Heights when it was available. I also had a sideboarding problem where I didn&#8217;t think he would have Stillmoon Cavaliers (and hence had no Moonglove Extract). Those same cavaliers helped him stabilize at 3 life to take game two.
+Round 1 vs Faeries: 0-2 loss. The opponent was a guy from HK; luckily I&'m pretty used to talking with HK-accented people, so we had almost no communication trouble at all. The only time I couldn&'t understand him was when he tried to bounce something using Cryptic Command, I had no idea what the phrase he was using for bouncing was! I made a misplay in game two by playing a Spectral Procession from my hand instead of from under Windbrisk Heights when it was available. I also had a sideboarding problem where I didn&'t think he would have Stillmoon Cavaliers (and hence had no Moonglove Extract). Those same cavaliers helped him stabilize at 3 life to take game two.
 
-Round 2 vs Demigod DW: 2-1 win. My opponent didn&#8217;t board out Ashenmoor Gougers, which are so bad in this format. He was stuck on three lands for game three, and I had a Forge-Tender on the board to stop Spout, and he couldn&#8217;t cast the Soul Snuffers.
+Round 2 vs Demigod DW: 2-1 win. My opponent didn&'t board out Ashenmoor Gougers, which are so bad in this format. He was stuck on three lands for game three, and I had a Forge-Tender on the board to stop Spout, and he couldn&'t cast the Soul Snuffers.
 
-Round 3 vs Unknown Deck (I have something scribbled in my notes, but I couldn&#8217;t read it!): 2-1 win.
+Round 3 vs Unknown Deck (I have something scribbled in my notes, but I couldn&'t read it!): 2-1 win.
 
-Round 4 vs Gbw No Doran: 0-2 loss. In game three, he had two Stillmoon Cavaliers that I didn&#8217;t see at all in the first two games. Those guys went all the way.
+Round 4 vs Gbw No Doran: 0-2 loss. In game three, he had two Stillmoon Cavaliers that I didn&'t see at all in the first two games. Those guys went all the way.
 
 Round 5 vs Little Kid GW: 2-0 win. It was fun for the Stillmoon Cavalier to jump on block 5/6 flying indestructible vigilance guys. His two big guys on the board were no match to my seven + Mirrorweave in game one. In game two, apparently he boarded in Runed Halo, which are pretty bad vs Spectral Procession.
 
@@ -140,7 +140,7 @@ Round 7 vs Demigod DW: 2-0 win.
 
 Tournament record: 5-2. I finished the PTQ in 14th place, good enough to win 4 booster packs. My prize rares were: Balefire Liege, Glamerdye, Ashling the Extinguisher, Scarecrone (Not so good)
 
-I watched the finals of the Grand Prix of course. The official coverage is okay, but it doesn&#8217;t capture some of the unique FIlipino elements. Even though I was still playing in the PTQ during the quarters, we immediately knew that Luis Magisa had won his match since every Filipino in the crowd watching literally burst into cheers. Contrast to the lackluster clapping when Magisa lost to a Japanese Faerie player in the semis.
+I watched the finals of the Grand Prix of course. The official coverage is okay, but it doesn&'t capture some of the unique FIlipino elements. Even though I was still playing in the PTQ during the quarters, we immediately knew that Luis Magisa had won his match since every Filipino in the crowd watching literally burst into cheers. Contrast to the lackluster clapping when Magisa lost to a Japanese Faerie player in the semis.
 
 During the awarding ceremony, the crowd was very rowdy, chanting &#8220;Burger! Burger!&#8221; when Luis Magisa accepted his giant check. (
    
@@ -152,9 +152,9 @@ Bry would hate that
    
 .) The winner of the event, Sugaya pandered to the crowd as well, more than willing to pose for photos after accepting his giant check. (His get-up was ridiculous.)
 
-A lot of players were asking name players such as Tomoharu Saito or Raphael Levy to sign some cards for them; I&#8217;m not sure if it&#8217;s good for us to treat them that way. They&#8217;re Magic celebrities sure, but I don&#8217;t think their signature adds anything to the cards. It&#8217;s ok to look up to them for their gameplay or deck ideas or what not, but I don&#8217;t think we should idolize them or anything &#8211; they&#8217;re still Magic players like the rest of us, except they&#8217;re more willing to devote their time to the game.And someday, we&#8217;re going to have to rise up and challenge their dominance of Magic in the Asia-Pacific region.
+A lot of players were asking name players such as Tomoharu Saito or Raphael Levy to sign some cards for them; I&'m not sure if it&'s good for us to treat them that way. They&'re Magic celebrities sure, but I don&'t think their signature adds anything to the cards. It&'s ok to look up to them for their gameplay or deck ideas or what not, but I don&'t think we should idolize them or anything &#8211; they&'re still Magic players like the rest of us, except they&'re more willing to devote their time to the game.And someday, we&'re going to have to rise up and challenge their dominance of Magic in the Asia-Pacific region.
 
-That&#8217;s all for GP Manila, hopefully we can have another big event in the Philippines soon. Props go out to the people at
+That&'s all for GP Manila, hopefully we can have another big event in the Philippines soon. Props go out to the people at
    
 [
     

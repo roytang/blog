@@ -14,9 +14,9 @@ Bomb blasts rock Davao, General Santos, Makati &#8211; INQ7.net
   
 ][1] 
 
-> Makati City, three people were killed while at least 20 others were injured after an explosion rocked a bus plying EDSA as it passed underneath the Metro Rail Transit&#8217;s Ayala Station, Metro Manila police chief Director Avelino Razon Jr. said.
+> Makati City, three people were killed while at least 20 others were injured after an explosion rocked a bus plying EDSA as it passed underneath the Metro Rail Transit&'s Ayala Station, Metro Manila police chief Director Avelino Razon Jr. said.
 
-What a way to celebrate Valentine&#8217;s day. And here I was just [blogging about security issues][2]. (Although looks like this incident wasn&#8217;t actually in the MRT.)
+What a way to celebrate Valentine&'s day. And here I was just [blogging about security issues][2]. (Although looks like this incident wasn&'t actually in the MRT.)
 
 These are the sort of things they should be focusing on, not optical media piracy.
 

@@ -15,7 +15,7 @@ Sinfest
    
 ][1] 
    
-archives. But then I thought, why should I bother going through these comics manually over the net? I&#8217;m a programmer, I&#8217;ll make a
+archives. But then I thought, why should I bother going through these comics manually over the net? I&'m a programmer, I&'ll make a
    
 [
     
@@ -25,7 +25,7 @@ SinfestDownloader
    
 !
 
-I&#8217;ve left it running for about 4 hours now. There&#8217;s a lot of Sinfest strips&#8230;around 40MB worth have already been downloaded!
+I&'ve left it running for about 4 hours now. There&'s a lot of Sinfest strips&#8230;around 40MB worth have already been downloaded!
 
 I wonder if this violates any sort of copyright? &#8230;
 

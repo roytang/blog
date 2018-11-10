@@ -17,6 +17,6 @@ http://www.randomencounters.bells-n-whistles.net/blog/
   
 ][1] 
 
-I think the apache service needed to restart mod_python or something&#8230;(I don&#8217;t have SSH access so&#8230;)
+I think the apache service needed to restart mod_python or something&#8230;(I don&'t have SSH access so&#8230;)
 
  [1]: http://www.randomencounters.bells-n-whistles.net/blog/

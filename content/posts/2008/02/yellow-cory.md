@@ -14,6 +14,6 @@ If Cory Aquino ever went out in public without wearing bright yellow clothes, wo
 
 _
   
-&#8220;That lady looks a lot like Cory! Except she&#8217;s not wearing yellow!&#8221;
+&#8220;That lady looks a lot like Cory! Except she&'s not wearing yellow!&#8221;
   
 _

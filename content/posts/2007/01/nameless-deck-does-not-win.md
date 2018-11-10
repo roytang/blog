@@ -19,6 +19,6 @@ again this past weekend, but I forgot to name it &#8220;Nameless Deck Wins&#8221
 
 I went 2-3-drop, with the losses all going to aggro decks (2 Boros, 1 KarstenBot). The Boros matchup is winnable, but really tight, with no room for error.
 
-Anyway, with Planar Chaos coming out, my colors (Red/Green/Black) look like they&#8217;re getting a good boost, so hopefully I can further improve this deck. And hopefully think of a better name.
+Anyway, with Planar Chaos coming out, my colors (Red/Green/Black) look like they&'re getting a good boost, so hopefully I can further improve this deck. And hopefully think of a better name.
 
  [1]: http://roytang.net/magic/2007/01/nameless-deck-wins/

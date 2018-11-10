@@ -27,7 +27,7 @@ I actually initially thought that there would be a PTQ this weekend. When I foun
       3 <a href="http://magiccards.info/autocard.php?card=Ashenmoor Gouger">Ashenmoor Gouger</a>
     </li>
     <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Hell's Thunder">Hell&#8217;s Thunder</a>
+      2 <a href="http://magiccards.info/autocard.php?card=Hell's Thunder">Hell&'s Thunder</a>
     </li>
     <li>
       4 <a href="http://magiccards.info/autocard.php?card=Demigod of Revenge">Demigod of Revenge</a>
@@ -60,7 +60,7 @@ I actually initially thought that there would be a PTQ this weekend. When I foun
       Lands
     </li>
     <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Auntie's Hovel">Auntie&#8217;s Hovel</a>
+      4 <a href="http://magiccards.info/autocard.php?card=Auntie's Hovel">Auntie&'s Hovel</a>
     </li>
     <li>
       4 <a href="http://magiccards.info/autocard.php?card=Graven Cairns">Graven Cairns</a>
@@ -120,15 +120,15 @@ Unfortunately, things did not go well for our hero. Tournament report follows.
 
 <!--more-->
 
-Since I usually arrive at Galleria early, I spent a couple of hours waiting for the round to start and watch the people playtesting. I saw a lot of green decks which worried me &#8211; particularly Wilt-Leaf Liege. I haven&#8217;t played Standard since before the Grand Prix &#8211; I had no idea what was the local metagame coming in.
+Since I usually arrive at Galleria early, I spent a couple of hours waiting for the round to start and watch the people playtesting. I saw a lot of green decks which worried me &#8211; particularly Wilt-Leaf Liege. I haven&'t played Standard since before the Grand Prix &#8211; I had no idea what was the local metagame coming in.
 
-I lost round one to a mirror match in two games. It was close, as I lost both games with him at 1 life. I almost won game two when he played two Incinerates during his turn to finish me from six life. I had the Wild Ricochet for the second Incinerate, bringing him down to two. He has one card left in hand and is tapped out and I have four lands and Hell&#8217;s Thunder in the yard. Any burn spell or land I draw wins me the match. I draw a land and play it and announce &#8220;Unearth Hell&#8217;s Thunder.&#8221; He wants to call a judge because he&#8217;s not sure of what he&#8217;s about to do. He shows me the Faerie Macabre in hand and even though the judge is still coming I already know I&#8217;ve lost.
+I lost round one to a mirror match in two games. It was close, as I lost both games with him at 1 life. I almost won game two when he played two Incinerates during his turn to finish me from six life. I had the Wild Ricochet for the second Incinerate, bringing him down to two. He has one card left in hand and is tapped out and I have four lands and Hell&'s Thunder in the yard. Any burn spell or land I draw wins me the match. I draw a land and play it and announce &#8220;Unearth Hell&'s Thunder.&#8221; He wants to call a judge because he&'s not sure of what he&'s about to do. He shows me the Faerie Macabre in hand and even though the judge is still coming I already know I&'ve lost.
 
 After the match I asked him for tips on how to play the deck and he told me he just plays out Blightning as soon as possible, whereas I was sandbagging it and playing creatures first.
 
-Round two I face Shorecrasher/Bant, an early Rhox War Monk sticks around in game one long enough to make it hard for me to win. In game two I get a nice draw with turn two Blossom and 2 Javelins. He&#8217;s stuck on two lands, missing two land drops before finally playing a Birds of Paradise. My only removal in hand consists of the two Javelins&#8230;I decide to overkill the BoP and hope he doesn&#8217;t draw any more lands. Of course he draws a Flooded Grove next turn and then he plays out his hand and I&#8217;m finished off by a growing Shorecrasher.
+Round two I face Shorecrasher/Bant, an early Rhox War Monk sticks around in game one long enough to make it hard for me to win. In game two I get a nice draw with turn two Blossom and 2 Javelins. He&'s stuck on two lands, missing two land drops before finally playing a Birds of Paradise. My only removal in hand consists of the two Javelins&#8230;I decide to overkill the BoP and hope he doesn&'t draw any more lands. Of course he draws a Flooded Grove next turn and then he plays out his hand and I&'m finished off by a growing Shorecrasher.
 
-Starting out at 0-2. Why do I play Magic again? Seriously, I&#8217;ve been playing badly for a while now.
+Starting out at 0-2. Why do I play Magic again? Seriously, I&'ve been playing badly for a while now.
 
 I watch the match on the adjacent table while waiting for the next round. I see turn 5 Violent Ultimatim into turn 7 Violent Ultimatum into turn 9 Violent Ultimatum. Geez.
 
@@ -138,7 +138,7 @@ Round four I was playing some sort of bant-colored control, and I finally manage
    
 [Idyllic Tutor][1]
    
-and I have no idea what he&#8217;s doing. He searches an reveals
+and I have no idea what he&'s doing. He searches an reveals
    
 [Enchanted Evening][2]
    
@@ -148,7 +148,7 @@ and I have no idea what he&#8217;s doing. He searches an reveals
    
 on my Goblin Deathraiders and I flip mountain, and suddenly I have no permanents on board. I lose shortly thereafter.
 
-He mulligans to five in game two and is at four life before having any suitable defense, and I end it quickly. Next game it&#8217;s my turn as I mulligan to five, sending back one-land hands each time. I lost the third game to Spring Cleaning again. Awesome!
+He mulligans to five in game two and is at four life before having any suitable defense, and I end it quickly. Next game it&'s my turn as I mulligan to five, sending back one-land hands each time. I lost the third game to Spring Cleaning again. Awesome!
 
 I drop obviously. I should have stayed at home >.
 

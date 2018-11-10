@@ -18,18 +18,18 @@ My first two rounds went like this:
   * Round 1 0-2 loss vs R/G/W Planeswalkers
   * Round 2 1-2 loss vs Faeries
 
-Very disheartening, but I didn&#8217;t drop because I really wanted to get in more practice games. Besides, if I won the last 4 matches, I could still make top 4.
+Very disheartening, but I didn&'t drop because I really wanted to get in more practice games. Besides, if I won the last 4 matches, I could still make top 4.
 
   * Round 3 2-0 win vs B/W Reanimator
   * Round 4 2-1 win vs R/W Reveillark
   * Round 5 2-1 win vs R/W Reveillark
   * Round 6 2-1 win vs 5-color control (mirror)
 
-I punted the first game of the last round, because we were basically just laying down lands and drawing cards and I thought I was pretty safe until he Banefire&#8217;d me for 16 damage. Then he got manascrewed in the second and third game, so somehow I lucksacked my way into 3rd place and winning some packs with (mostly) crappy rares.
+I punted the first game of the last round, because we were basically just laying down lands and drawing cards and I thought I was pretty safe until he Banefire&'d me for 16 damage. Then he got manascrewed in the second and third game, so somehow I lucksacked my way into 3rd place and winning some packs with (mostly) crappy rares.
 
-I think I&#8217;m good to go with 5cc for City Champs in two weeks, though I&#8217;m still very uncertain about the B/W Tokens matchup, and not sure if the additional Scourglass I put in will be enough. R/W Reveillark seems to be favorable, while the mirror match is also decent for me since I have built-in planeswalkers to win the long game. Faeries is around 50-50, I have to draw an aggressively defensive hand and keep them off Mistbind Cliques to win.
+I think I&'m good to go with 5cc for City Champs in two weeks, though I&'m still very uncertain about the B/W Tokens matchup, and not sure if the additional Scourglass I put in will be enough. R/W Reveillark seems to be favorable, while the mirror match is also decent for me since I have built-in planeswalkers to win the long game. Faeries is around 50-50, I have to draw an aggressively defensive hand and keep them off Mistbind Cliques to win.
 
-My prize packs had: Telemin Performance (foil), Master Transmuter, Blood Tyrant, Soul&#8217;s Majesty, Worldheart Phoenix. Bah, I want Banefires or Exotic Orchards!
+My prize packs had: Telemin Performance (foil), Master Transmuter, Blood Tyrant, Soul&'s Majesty, Worldheart Phoenix. Bah, I want Banefires or Exotic Orchards!
 
  [1]: http://roytang.net/magic/2009/03/standard-mar-28/
  [2]: http://magiccards.info/autocard.php?card=Plumeveil

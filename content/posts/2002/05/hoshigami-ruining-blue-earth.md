@@ -7,9 +7,9 @@ type: post
 url: /2002/05/hoshigami-ruining-blue-earth/
 ---
 
-First off, I haven&#8217;t finished the game yet, I&#8217;m somewhere in Chapter 5. I stopped playing the game a month or so ago out of sheer irritation.
+First off, I haven&'t finished the game yet, I&'m somewhere in Chapter 5. I stopped playing the game a month or so ago out of sheer irritation.
 
-For the uninitiated, H:RBE is a tactical RPG for the PSX, released during the last year the PSX. The game is similar in some respects to games like Final Fantasy Tactics and Tactics Ogre, with an emphasis on turn-based squad-level combats. Unlike FFT and TO&#8217;s similar Active Time system, H:RBE uses a system called RAP, where each character can perform as many actions as he wants provided he still has the RAP gauge to pay for it. The more RAP you use, the sooner your next turn comes, and vice versa. I bought this game hoping it would be at least comparable to either FFT or TO. Was I disappointed? Read on.
+For the uninitiated, H:RBE is a tactical RPG for the PSX, released during the last year the PSX. The game is similar in some respects to games like Final Fantasy Tactics and Tactics Ogre, with an emphasis on turn-based squad-level combats. Unlike FFT and TO&'s similar Active Time system, H:RBE uses a system called RAP, where each character can perform as many actions as he wants provided he still has the RAP gauge to pay for it. The more RAP you use, the sooner your next turn comes, and vice versa. I bought this game hoping it would be at least comparable to either FFT or TO. Was I disappointed? Read on.
    
 
    
@@ -27,35 +27,35 @@ The Good:
    
 
    
-* Difficulty. Yes, difficulty is good, to a certain extent. Hoshigami brings a new level of difficulty to the table that we didn&#8217;t get to have in the ridiculously easy FFT. Veteran gamers were looking for a level of difficulty closer to that of the old favorite, Tactics Ogre. The game&#8217;s difficulty is actually still good (albeit good on the masochistic side) but the actual difficulty is overshadowed by the fact that it&#8217;s \_tedious\_. Read on.
+* Difficulty. Yes, difficulty is good, to a certain extent. Hoshigami brings a new level of difficulty to the table that we didn&'t get to have in the ridiculously easy FFT. Veteran gamers were looking for a level of difficulty closer to that of the old favorite, Tactics Ogre. The game&'s difficulty is actually still good (albeit good on the masochistic side) but the actual difficulty is overshadowed by the fact that it&'s \_tedious\_. Read on.
 
 The Bad:
 
-* Lack of variation. You basically have only five things to do: attack, shoot, move, cast spells or use items. And spells do only one of three things: deal/heal damage, or create/heal status or break equipment. Where&#8217;s the Haste spell? Protection spells?
+* Lack of variation. You basically have only five things to do: attack, shoot, move, cast spells or use items. And spells do only one of three things: deal/heal damage, or create/heal status or break equipment. Where&'s the Haste spell? Protection spells?
    
 
    
-* Long battles. The lack of variation wouldn&#8217;t be so bad if you didn&#8217;t have to endure it for hours at a time.
+* Long battles. The lack of variation wouldn&'t be so bad if you didn&'t have to endure it for hours at a time.
    
 
    
-* No saving between successive battles. That was a bad, bad, design boo-boo. You&#8217;ve been fighting for hours on end, and you&#8217;re almost finished, when a lucky archer drops the bomb on Elena.
+* No saving between successive battles. That was a bad, bad, design boo-boo. You&'ve been fighting for hours on end, and you&'re almost finished, when a lucky archer drops the bomb on Elena.
    
 
    
-* Bad AI. You know what I&#8217;m talking about. Archers who don&#8217;t understand the trajectory of their weapons. Enemies who kill each other. Soldiers who attack even if the hit chance is 0%.
+* Bad AI. You know what I&'m talking about. Archers who don&'t understand the trajectory of their weapons. Enemies who kill each other. Soldiers who attack even if the hit chance is 0%.
    
 
    
-* Unforgiving design. Permanent death. Underlevelled party has no chance against higher level party. Masses of enemies thrown at you. It&#8217;s like the designers decided that instead of simply working on tactically challenging battles, they would throw lots of enemies at you, at higher levels than you would expect and hope that you have the tactical ability to overcome this. It was a good idea except for the fact that LOW-LEVEL CHARACTERS STAND NO CHANCE AGAINST HIGH-LEVEL CHARACTERS. Even if you&#8217;re only two levels behind, your damage and hit rate become so pitiful that you simply won&#8217;t survive one-on-one, what more two-on-one. The game would&#8217;ve been 300 times better if either a) story battles had the same level as you; or b) The number of units on each side are comparable. As it is, the only real reliable way to win in battles is through either Coinfeigms or leveling-up. Which wouldn&#8217;t be so bad except that&#8230;
+* Unforgiving design. Permanent death. Underlevelled party has no chance against higher level party. Masses of enemies thrown at you. It&'s like the designers decided that instead of simply working on tactically challenging battles, they would throw lots of enemies at you, at higher levels than you would expect and hope that you have the tactical ability to overcome this. It was a good idea except for the fact that LOW-LEVEL CHARACTERS STAND NO CHANCE AGAINST HIGH-LEVEL CHARACTERS. Even if you&'re only two levels behind, your damage and hit rate become so pitiful that you simply won&'t survive one-on-one, what more two-on-one. The game would&'ve been 300 times better if either a) story battles had the same level as you; or b) The number of units on each side are comparable. As it is, the only real reliable way to win in battles is through either Coinfeigms or leveling-up. Which wouldn&'t be so bad except that&#8230;
    
 
    
-* Levelling-up is tedious. Since you will almost never meet enemies in the Towers who are at the same level as yours, you&#8217;re stuck fighting lower level goons while occasionally hitting yourselves for EXP. And not only that&#8230;
+* Levelling-up is tedious. Since you will almost never meet enemies in the Towers who are at the same level as yours, you&'re stuck fighting lower level goons while occasionally hitting yourselves for EXP. And not only that&#8230;
    
 
    
-* Levelling up Coinfeigms is tedious. Yes it is. The interface is so bad; every time you engrave your coin, you must go back to the top of the list of seals and look for the seal again. Given that you often want to engrave your coins multiple times with the same seals, the game becomes unnecessarily tedious. Adding to this is the &#8220;random&#8221; factor involved in engraving. I&#8217;m sure during development it seemed like a neat concept and all, but in practice all it means is that you have to occasionally save in-between engravings.
+* Levelling up Coinfeigms is tedious. Yes it is. The interface is so bad; every time you engrave your coin, you must go back to the top of the list of seals and look for the seal again. Given that you often want to engrave your coins multiple times with the same seals, the game becomes unnecessarily tedious. Adding to this is the &#8220;random&#8221; factor involved in engraving. I&'m sure during development it seemed like a neat concept and all, but in practice all it means is that you have to occasionally save in-between engravings.
    
 
    
@@ -69,4 +69,4 @@ The Ugly
 
 * that sad, sad battle theme. I end up unplugging the audio cord on the TV whenever I play Hoshigami.
 
-All in all, what went wrong in this game? The thing is that the designers thought people wanted a difficult game, so they made a difficult game. The problem is that they achieve that difficulty through repetitiveness, redundancy and tediousness. On the GameFAQs message boards I read an analogy comparing Hoshigami to Chess. The difference between Hoshigami and Chess is that in Chess, both sides start with the same pieces, and you win or lose based on your own tactical decisions. In Hoshigami, not only does your opponent get more pieces than you, they&#8217;re all bishops and knights while you&#8217;re stuck with a platoon of pawns. And you have to play that game of chess some 50 times, without losing, ever.
+All in all, what went wrong in this game? The thing is that the designers thought people wanted a difficult game, so they made a difficult game. The problem is that they achieve that difficulty through repetitiveness, redundancy and tediousness. On the GameFAQs message boards I read an analogy comparing Hoshigami to Chess. The difference between Hoshigami and Chess is that in Chess, both sides start with the same pieces, and you win or lose based on your own tactical decisions. In Hoshigami, not only does your opponent get more pieces than you, they&'re all bishops and knights while you&'re stuck with a platoon of pawns. And you have to play that game of chess some 50 times, without losing, ever.

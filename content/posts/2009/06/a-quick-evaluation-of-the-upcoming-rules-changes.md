@@ -12,7 +12,7 @@ A couple of friends were over from Singapore last weekend, and we decided to han
   * Number of times damage on the stack came up relevant: None
   * Number of times there was a double-blocking situation: One, but we forgot to order blockers and I just immediately used a trick to get rid of one blocker.
 
-Among our group, 50% are actively playing competitively, so we can&#8217;t say that we were making bad strategic decisions, but really rule change #5 practically never came up. 
+Among our group, 50% are actively playing competitively, so we can&'t say that we were making bad strategic decisions, but really rule change #5 practically never came up. 
 
 (We also opened zero planeswalkers, only 1 [Maelstrom Pulse][1] and 1 [Noble Hierarch][2] et cetera. Not so good returns from the boxen in terms of cash cards&#8230;)
 

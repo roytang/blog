@@ -7,7 +7,7 @@ type: post
 url: /2009/10/zendikar-draft-1/
 ---
 
-I was able to chain a sealed event into a number of drafts this weekend. Here&#8217;s one of my better drafts:
+I was able to chain a sealed event into a number of drafts this weekend. Here&'s one of my better drafts:
 
 
 

@@ -8,7 +8,7 @@ type: post
 url: /2004/10/i-vow-revenge/
 ---
 
-Okay, so I didn&#8217;t perform very well at the recent company bowling tournament. It&#8217;s quite embarassing, considering both my parents are pretty decent bowlers. Which is why,
+Okay, so I didn&'t perform very well at the recent company bowling tournament. It&'s quite embarassing, considering both my parents are pretty decent bowlers. Which is why,
   
 **
   

@@ -7,15 +7,15 @@ type: post
 url: /2007/07/i-suck-at-standard/
 ---
 
-Just to make it, y&#8217;know, official: I suck at Standard.
+Just to make it, y&'know, official: I suck at Standard.
 
-I played in two Nationals qualifiers over the past two weekends. The first one with the Mishra deck (Flores&#8217; Legends of Team CMU) to a disappointing 4-3 finish in a sea of Angelfire, Solar Flare and Gruul. Disappointed with the decks performance, I took a look at the result of Australian Nationals that same weekend, and decided to play the Rakdos &#8220;Satanic Sligh&#8221; build that had won that event in today&#8217;s qualifier, which was incidentally the last one I could play given my schedule.
+I played in two Nationals qualifiers over the past two weekends. The first one with the Mishra deck (Flores&' Legends of Team CMU) to a disappointing 4-3 finish in a sea of Angelfire, Solar Flare and Gruul. Disappointed with the decks performance, I took a look at the result of Australian Nationals that same weekend, and decided to play the Rakdos &#8220;Satanic Sligh&#8221; build that had won that event in today&'s qualifier, which was incidentally the last one I could play given my schedule.
 
-I guess I wasn&#8217;t the only one thinking that, as of course I failed to predict how th metagame would shift. There were a lot more burn decks this time around, and my first two matches were among them. I split the first two for a disappointing start, then lost rounds four and five in quick succession. Frustrated at my inability to play the format and the terrible 2-3 record, I ticked &#8220;Drop&#8221; in the Result Slip and went home quite a bit sleepy.
+I guess I wasn&'t the only one thinking that, as of course I failed to predict how th metagame would shift. There were a lot more burn decks this time around, and my first two matches were among them. I split the first two for a disappointing start, then lost rounds four and five in quick succession. Frustrated at my inability to play the format and the terrible 2-3 record, I ticked &#8220;Drop&#8221; in the Result Slip and went home quite a bit sleepy.
 
-So ends this year&#8217;s quest for Nationals. Again, just to reiterate: I suck at Standard.
+So ends this year&'s quest for Nationals. Again, just to reiterate: I suck at Standard.
 
-I&#8217;m terrible at guessing what decks are doing (I failed to predict that my round four opponent would Resurrect an Akroma, thinking that only Solar Flare decks did that and not Angelfire&#8230;), I&#8217;m terrible at predicting the metagame (I had Martyrs of Ashes in my sideboard that should have been Bottle Gnomes for the burn mirror) and I make really disastrous play errors (I suspended Rift Bolt instead of hardcasting with my monored opponent at five&#8230;allowing him to Char me at EOT and burn again during his turn to take the game)
+I&'m terrible at guessing what decks are doing (I failed to predict that my round four opponent would Resurrect an Akroma, thinking that only Solar Flare decks did that and not Angelfire&#8230;), I&'m terrible at predicting the metagame (I had Martyrs of Ashes in my sideboard that should have been Bottle Gnomes for the burn mirror) and I make really disastrous play errors (I suspended Rift Bolt instead of hardcasting with my monored opponent at five&#8230;allowing him to Char me at EOT and burn again during his turn to take the game)
 
 I need more solid constructed finishes to boost my ratings so I could be in the top 75 next year (and not have to grind it out in the qualifiers again). Sadly, my best constructed finish this year was actually
    

@@ -127,7 +127,7 @@ url: /2007/03/so-many-bad-plays/
                   2 <a>Detritivore<br /> </a>
                 </li>
                 <li>
-                  2 <a>Tormod&#8217;s Crypt<br /> </a>
+                  2 <a>Tormod&'s Crypt<br /> </a>
                 </li>
                 <li>
                   2 <a>Electrolyze<br /> </a>
@@ -146,7 +146,7 @@ url: /2007/03/so-many-bad-plays/
                 <span class="decktotals"><br /> 15 sideboard cards<br /> </span></td> </tr> </tbody> </table> 
                 
                 <p>
-                  This deck is named &#8220;Under Development&#8221; because I basically threw it together two days ago with almost no playtesting. Basically, today&#8217;s tournament was my playtesting, as I could use it to gauge whether I like the feel of the deck and I should continue using it. Also, it&#8217;s my first team playing with basic islands again in constructed since forever.
+                  This deck is named &#8220;Under Development&#8221; because I basically threw it together two days ago with almost no playtesting. Basically, today&'s tournament was my playtesting, as I could use it to gauge whether I like the feel of the deck and I should continue using it. Also, it&'s my first team playing with basic islands again in constructed since forever.
                 </p>
                 
                 <p>
@@ -174,7 +174,7 @@ url: /2007/03/so-many-bad-plays/
                 </p>
                 
                 <p>
-                  Game 3 I lost due to a bad play on my part. My opponent was tapped out with like 5 creatures that are also tapped, and an untapped Mangara (with summoning sickness) On my side, I have a morphed Shapeshifter and morphed Brine Elemental, with Stomping Ground, Plaxmanta and Demonfire in hand. My opponent is at 18, I&#8217;m at 10. I have six lands in play, if I play the Stomping Ground and take the two life loss, I can lock him down with the Brine Elemental. I&#8217;m not sure what I&#8217;m thinking however, I play the Stomping Ground tapped and Demonfire the Mangara for 1, then swing for 4.
+                  Game 3 I lost due to a bad play on my part. My opponent was tapped out with like 5 creatures that are also tapped, and an untapped Mangara (with summoning sickness) On my side, I have a morphed Shapeshifter and morphed Brine Elemental, with Stomping Ground, Plaxmanta and Demonfire in hand. My opponent is at 18, I&'m at 10. I have six lands in play, if I play the Stomping Ground and take the two life loss, I can lock him down with the Brine Elemental. I&'m not sure what I&'m thinking however, I play the Stomping Ground tapped and Demonfire the Mangara for 1, then swing for 4.
                 </p>
                 
                 <p>
@@ -194,7 +194,7 @@ url: /2007/03/so-many-bad-plays/
                 </p>
                 
                 <p>
-                  &#8211; Opponent&#8217;s turn: no untap phase, does nothing
+                  &#8211; Opponent&'s turn: no untap phase, does nothing
                 </p>
                 
                 <p>
@@ -218,11 +218,11 @@ url: /2007/03/so-many-bad-plays/
                 </p>
                 
                 <p>
-                  This guy somehow managed to draw 3 castigates in each game that he won. I won the second due to aggro, and we want to game 3. Game 3 was close, very close. During his turn, he was at 4, I was at 6, he had a Mindslicer and a Rack in play. I have no board and 2 cards in hands. He&#8217;s afraid of the Demonfire, so he plays Smallpox, saccing the Mindslicer, hoping to have us both in topdeck mode and me with no answer to the rack. I let Smallpox resolve, and respond to the Mindslicer trigger by playing Plaxmanta. Plaxmanta survives, and will swing on the next turn for 2; he&#8217;s at 3 and I&#8217;m at 5. However, it seems I have no answer to the Rack. My turn, untap, upkeep take 3 from Rack (down to 2), I draw a land and hold in my hand. I swing for 2 with the Plaxmanta, bringing him down to one. But it looks like I&#8217;m losing to the Rack. I pass the turn to see what happens. He draws an Extirpate and starts looking through my &#8216;yard, and I spot the bad play. I HAD A THINK TWICE!!! I could have avoided 2 points of Rack damage, enough for the Plaxmanta to seal the deal. Gah, I am teh suck.
+                  This guy somehow managed to draw 3 castigates in each game that he won. I won the second due to aggro, and we want to game 3. Game 3 was close, very close. During his turn, he was at 4, I was at 6, he had a Mindslicer and a Rack in play. I have no board and 2 cards in hands. He&'s afraid of the Demonfire, so he plays Smallpox, saccing the Mindslicer, hoping to have us both in topdeck mode and me with no answer to the rack. I let Smallpox resolve, and respond to the Mindslicer trigger by playing Plaxmanta. Plaxmanta survives, and will swing on the next turn for 2; he&'s at 3 and I&'m at 5. However, it seems I have no answer to the Rack. My turn, untap, upkeep take 3 from Rack (down to 2), I draw a land and hold in my hand. I swing for 2 with the Plaxmanta, bringing him down to one. But it looks like I&'m losing to the Rack. I pass the turn to see what happens. He draws an Extirpate and starts looking through my &#8216;yard, and I spot the bad play. I HAD A THINK TWICE!!! I could have avoided 2 points of Rack damage, enough for the Plaxmanta to seal the deal. Gah, I am teh suck.
                 </p>
                 
                 <p>
-                  I take the well-deserved loss and drop from the tournament, quite tired. A really bad result for me after more than a month of cutting back on Magic tournaments, not a very good comeback. However, I think the playtesting session was a success, as I found quite a few weaknesses in the deck and also found that I like playing it, it&#8217;s quite fun. So, I will probably tweak this deck and continue to play it in Standard tournaments for the time being. I probably won&#8217;t play in Block Constructed until FS comes out, so is my deck for April.
+                  I take the well-deserved loss and drop from the tournament, quite tired. A really bad result for me after more than a month of cutting back on Magic tournaments, not a very good comeback. However, I think the playtesting session was a success, as I found quite a few weaknesses in the deck and also found that I like playing it, it&'s quite fun. So, I will probably tweak this deck and continue to play it in Standard tournaments for the time being. I probably won&'t play in Block Constructed until FS comes out, so is my deck for April.
                 </p>
                 
                 <p>

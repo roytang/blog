@@ -7,9 +7,9 @@ type: post
 url: /2008/10/gpt-taipei-i-top8/
 ---
 
-I haven&#8217;t had a top eight result in a while. Thank goodness for limited season!
+I haven&'t had a top eight result in a while. Thank goodness for limited season!
 
-I registered a deck that I would have loved to play, with highlights such as Caldera Hellion, 2 Oblivion Rings and 2 Resounding Thunders, plus a lot of good blue/black stuff. Of course, we pass the card pools and here&#8217;s the one I ended up playing:
+I registered a deck that I would have loved to play, with highlights such as Caldera Hellion, 2 Oblivion Rings and 2 Resounding Thunders, plus a lot of good blue/black stuff. Of course, we pass the card pools and here&'s the one I ended up playing:
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -161,7 +161,7 @@ I registered a deck that I would have loved to play, with highlights such as Cal
       1 <a href="http://magiccards.info/autocard.php?card=Coma Veil">Coma Veil</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&#8217;s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&'s Capsule</a>
     </li>
     <li>
       2 <a href="http://magiccards.info/autocard.php?card=Fatestitcher">Fatestitcher</a>
@@ -173,10 +173,10 @@ I registered a deck that I would have loved to play, with highlights such as Cal
       1 <a href="http://magiccards.info/autocard.php?card=Outrider of Jhess">Outrider of Jhess</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Sphinx's Herald">Sphinx&#8217;s Herald</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Sphinx's Herald">Sphinx&'s Herald</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Behemoth's Herald">Behemoth&#8217;s Herald</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Behemoth's Herald">Behemoth&'s Herald</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Cavern Thoctar">Cavern Thoctar</a>
@@ -227,7 +227,7 @@ I registered a deck that I would have loved to play, with highlights such as Cal
       1 <a href="http://magiccards.info/autocard.php?card=Dragon Fodder">Dragon Fodder</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Dragon's Herald">Dragon&#8217;s Herald</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Dragon's Herald">Dragon&'s Herald</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Goblin Mountaineer">Goblin Mountaineer</a>
@@ -239,7 +239,7 @@ I registered a deck that I would have loved to play, with highlights such as Cal
       1 <a href="http://magiccards.info/autocard.php?card=Ridge Rannet">Ridge Rannet</a>
     </li>
     <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Soul's Fire">Soul&#8217;s Fire</a>
+      2 <a href="http://magiccards.info/autocard.php?card=Soul's Fire">Soul&'s Fire</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Volcanic Submersion">Volcanic Submersion</a>
@@ -262,9 +262,9 @@ I registered a deck that I would have loved to play, with highlights such as Cal
   </div>
 </div>
 
-The exalted theme is pretty good and I was glad for a chance to try it out. I&#8217;m basically splashing red and black for Resounding Thunder, Broodmate Dragon and Infest. The dragon is rightly a bomb and won me every game where he resolved. The Infest was probably a mistake &#8211; it&#8217;s not good against everybody and most of the time it sits in my hand bewailing the lack of swamps. I often side it out for the second Guardians of Akrasa.
+The exalted theme is pretty good and I was glad for a chance to try it out. I&'m basically splashing red and black for Resounding Thunder, Broodmate Dragon and Infest. The dragon is rightly a bomb and won me every game where he resolved. The Infest was probably a mistake &#8211; it&'s not good against everybody and most of the time it sits in my hand bewailing the lack of swamps. I often side it out for the second Guardians of Akrasa.
 
-I intentionally played a lower curve this time. Before I would have been using stuff like the Yoked Plowbeast, but I decided I wanted to be attacking on turns three and four instead of cycling, then finishing with fliers. A lot of players will build sealed decks like 5-color Naya decks with lots of fat monsters typically leaving them open during the early turns. Not that Naya is a bad strategy mind you, it&#8217;s just that I seem to face Mosstodons, Cavern Thoctars and Ridge Rannets all the time.
+I intentionally played a lower curve this time. Before I would have been using stuff like the Yoked Plowbeast, but I decided I wanted to be attacking on turns three and four instead of cycling, then finishing with fliers. A lot of players will build sealed decks like 5-color Naya decks with lots of fat monsters typically leaving them open during the early turns. Not that Naya is a bad strategy mind you, it&'s just that I seem to face Mosstodons, Cavern Thoctars and Ridge Rannets all the time.
 
 Tournament report follows, highlights only.
 
@@ -280,7 +280,7 @@ I lost game two to a resolved
    
 [Realm Razer][1]
    
-, a card which I grossly underestimated before, not playing it in my prerelease pool. It&#8217;s basically Armageddon + body; as soon as you have any sort of creature advantage you just play it out. I actually boarded in the 3rd obelisk for game 3 to make it easier to recover from his bomb. I also played aggressively with both creatures and removal so that he neved had a creature advantage. At the end of the game, he did have the Realm Razer in hand but couldn&#8217;t play it because he was behind by around 4 creatures to one.
+, a card which I grossly underestimated before, not playing it in my prerelease pool. It&'s basically Armageddon + body; as soon as you have any sort of creature advantage you just play it out. I actually boarded in the 3rd obelisk for game 3 to make it easier to recover from his bomb. I also played aggressively with both creatures and removal so that he neved had a creature advantage. At the end of the game, he did have the Realm Razer in hand but couldn&'t play it because he was behind by around 4 creatures to one.
 
 **
     
@@ -304,7 +304,7 @@ Round 4 vs JT Porter.
    
 ** 
    
-I don&#8217;t normally name-drop here, mostly because I&#8217;m never sure if any of the guys I name would mind. Porter is a former National champ, GP winner and a well-known Magic player in the community so he
+I don&'t normally name-drop here, mostly because I&'m never sure if any of the guys I name would mind. Porter is a former National champ, GP winner and a well-known Magic player in the community so he
    
 _
     
@@ -312,7 +312,7 @@ probably
    
 _ 
    
-won&#8217;t mind
+won&'t mind
 
 Anyway, yeah it was Porter, so I figured I had to hit my A-game. And not make any bad plays
    
@@ -322,7 +322,7 @@ _
    
 _ 
    
-Let&#8217;s skip game one where I was stuck with my only 3 blue cards and Infest in hand while having only Plains, a Forest and a Swamp.  Skip game two as well, I just came out fast and aggro&#8217;ed early.
+Let&'s skip game one where I was stuck with my only 3 blue cards and Infest in hand while having only Plains, a Forest and a Swamp.  Skip game two as well, I just came out fast and aggro&'ed early.
 
 It was late in game three and I had stabilized at eight life. Porter had a Cavern Thoctar and the blue exalted archer out. I was swinging back with Stoic Angel backed by Guardians of Akrasa. I played Sigiled Paladin and swung, then passed the turn, leaving him at 15 life (he had previously gained a buttload due to
    
@@ -330,7 +330,7 @@ It was late in game three and I had stabilized at eight life. Porter had a Caver
    
 ).
 
-On his turn, he swings with the Cavern Thoctar, which is a printed 5/5. I look at the Resounding Thunder in my hand and figure first strike damage off the Sigiled Paladin + 3 from the burn spell was good. It wasn&#8217;t, since I forgot about the exalted guy making the Thoctar a 6/6. I facepalmed myself and Porter gave me a casual &#8220;Ok lang yan Roy!&#8221; I figured I had lost the game right there, but we don&#8217;t give up &#8217;til the fighting&#8217;s done, so I kept going. Who knows, even a former National Champ can make a mistake!
+On his turn, he swings with the Cavern Thoctar, which is a printed 5/5. I look at the Resounding Thunder in my hand and figure first strike damage off the Sigiled Paladin + 3 from the burn spell was good. It wasn&'t, since I forgot about the exalted guy making the Thoctar a 6/6. I facepalmed myself and Porter gave me a casual &#8220;Ok lang yan Roy!&#8221; I figured I had lost the game right there, but we don&'t give up &'til the fighting&'s done, so I kept going. Who knows, even a former National Champ can make a mistake!
 
 I ripped the topdeck and saw a Grixis obelisk. I swung with the Angel for four, bringing him to 11. Then I play the Obelisk, and now having a black source I manage to play the last card in my hand &#8211; Broodmate Dragon! I take a
    
@@ -346,7 +346,7 @@ On my turn I swing with the Dragon again and bring Porter down to 3. Then I re-p
 
 I had no cards in hand and was dead on the board. I had already used the Resounding Thunder and the Oblivion Ring so my only possible out had to be on top of deck in order for me to win. I flipped the top card unto the table &#8211; and showed him the Bant Charm! &#8220;Archers to bottom of library,&#8221; I said and the dragon token took the win!
 
-2-1 win. Remember, even if you&#8217;re playing against very good players, never give up &#8217;til the fighting&#8217;s done!
+2-1 win. Remember, even if you&'re playing against very good players, never give up &'til the fighting&'s done!
 
 **
     
@@ -378,7 +378,7 @@ The top eight was booster draft of course. Unfortunately, this was my first time
    
 ) and just settled into Grixis.
 
-Here&#8217;s my top 8 draft deck:
+Here&'s my top 8 draft deck:
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -464,7 +464,7 @@ Here&#8217;s my top 8 draft deck:
       1 <a href="http://magiccards.info/autocard.php?card=Cancel">Cancel</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&#8217;s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&'s Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Agony Warp">Agony Warp</a>
@@ -494,7 +494,7 @@ Here&#8217;s my top 8 draft deck:
       1 <a href="http://magiccards.info/autocard.php?card=Coma Veil">Coma Veil</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&#8217;s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&'s Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Filigree Sages">Filigree Sages</a>
@@ -512,7 +512,7 @@ Here&#8217;s my top 8 draft deck:
       1 <a href="http://magiccards.info/autocard.php?card=Mighty Emergence">Mighty Emergence</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Soul's Might">Soul&#8217;s Might</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Soul's Might">Soul&'s Might</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Carrion Thrash">Carrion Thrash</a>
@@ -535,7 +535,7 @@ Here&#8217;s my top 8 draft deck:
   </div>
 </div>
 
-I didn&#8217;t get too much removal &#8211; I was cut off from red on the left side and from black on the right, so I think I got a pretty mediocre draft. Cruel Ultimatum was pretty much my only bomb.
+I didn&'t get too much removal &#8211; I was cut off from red on the left side and from black on the right, so I think I got a pretty mediocre draft. Cruel Ultimatum was pretty much my only bomb.
 
 **
     
@@ -545,9 +545,9 @@ Quarterfinals vs Naya
    
 :
 
-Game one he managed to bring in an early Realm Razer, but I actually had a slight creature advantage so we stalled and rebuilt lands. Finally, with one card in hand he swung with the Realm Razer giving me a chance to kill it and bring back our lands. Obviously he wanted those lands back for a reason, and he was ahead in number of creatures so I figured he must have a Titanic Ultimatum in hand. Unluckily for him, I already had the Cruel Ultimatum in hand and he just gave me back the lands to cast it! There&#8217;s practically no way to recover from my Ultimatum resolving so we went into game two.
+Game one he managed to bring in an early Realm Razer, but I actually had a slight creature advantage so we stalled and rebuilt lands. Finally, with one card in hand he swung with the Realm Razer giving me a chance to kill it and bring back our lands. Obviously he wanted those lands back for a reason, and he was ahead in number of creatures so I figured he must have a Titanic Ultimatum in hand. Unluckily for him, I already had the Cruel Ultimatum in hand and he just gave me back the lands to cast it! There&'s practically no way to recover from my Ultimatum resolving so we went into game two.
 
-Unfortunately, I lost both games two and three and in both cases it came down to me not having the third swamp to cast Cruel Ultimatum. I lost game two when he Realm Razer&#8217;ed with a creature advantage. In game three I was racing him with an Onyx Goblet of all things, and I had the cancel for the Realm Razer, but he managed to hit his Titanic Ultimatum mana the turn before I would&#8217;ve taken it out of his hand with Cruel Ultimatum (the last swamp was on top of my library!)
+Unfortunately, I lost both games two and three and in both cases it came down to me not having the third swamp to cast Cruel Ultimatum. I lost game two when he Realm Razer&'ed with a creature advantage. In game three I was racing him with an Onyx Goblet of all things, and I had the cancel for the Realm Razer, but he managed to hit his Titanic Ultimatum mana the turn before I would&'ve taken it out of his hand with Cruel Ultimatum (the last swamp was on top of my library!)
 
 **
     
@@ -585,11 +585,11 @@ Final Record: 5-1-2 (matches)
    
 and
    
-[Hell&#8217;s Thunder][10]
+[Hell&'s Thunder][10]
    
 .
 
-Overall, a pretty good day for me&#8230;I think the last time I ever went undefeated in Swiss was somewhere around Time Spiral block constructed. If I had managed to win the trial and get the 3 byes I would have seriously considered splurging the cash to go Taipei, but after reading in the forums that the visa requirements are a bit of a hassle (and I wouldn&#8217;t be able to get a promo price for the ticket anymore), I&#8217;m not so sure anymore. Let&#8217;s see how I do in succeeding trials&#8230;
+Overall, a pretty good day for me&#8230;I think the last time I ever went undefeated in Swiss was somewhere around Time Spiral block constructed. If I had managed to win the trial and get the 3 byes I would have seriously considered splurging the cash to go Taipei, but after reading in the forums that the visa requirements are a bit of a hassle (and I wouldn&'t be able to get a promo price for the ticket anymore), I&'m not so sure anymore. Let&'s see how I do in succeeding trials&#8230;
 
  [1]: http://magiccards.info/autocard.php?card=Realm Razer
  [2]: http://magiccards.info/autocard.php?card=Rhox War Monk

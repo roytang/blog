@@ -18,25 +18,25 @@ The content of this post is regarding my own opinion and who I plan to vote for.
   * [Rappler Senatorial profiles][2]
   * I would also Google &#8220;rappler [candidate name] interview&#8221; for the interview article for each candidate (too many to list here)
 
-Here&#8217;s a [link to a Google doc of my own notes on each candidate][3], which I used as basis for recommendations below. (I didn&#8217;t want to clutter up the blog post with details)
+Here&'s a [link to a Google doc of my own notes on each candidate][3], which I used as basis for recommendations below. (I didn&'t want to clutter up the blog post with details)
 
 &nbsp;
 
 **Recommendations**
 
-A number of people have asked me to recommend who they should vote; while I prefer that they do their own research I don&#8217;t mind giving suggestions. Here are my recommendations:
+A number of people have asked me to recommend who they should vote; while I prefer that they do their own research I don&'t mind giving suggestions. Here are my recommendations:
 
 **Strongly recommended: **Jun Magsaysay, Risa Hontiveros, Teddy Casino
 
-**It&#8217;s okay to vote for: **Legarda, Escudero, Pimentel, Madrigal, Zubiri, Hagedorn, Poe
+**It&'s okay to vote for: **Legarda, Escudero, Pimentel, Madrigal, Zubiri, Hagedorn, Poe
 
-**It&#8217;s okay to vote for the following if you don&#8217;t mind them being members of or associated with political dynasties: **Cayetano, Gordon, Angara, Ejercito, Aquino
+**It&'s okay to vote for the following if you don&'t mind them being members of or associated with political dynasties: **Cayetano, Gordon, Angara, Ejercito, Aquino
 
-**It&#8217;s okay to vote for the following if you don&#8217;t mind their strong association with religious groups: **Delos Reyes, Villanueva
+**It&'s okay to vote for the following if you don&'t mind their strong association with religious groups: **Delos Reyes, Villanueva
 
 **Definitely DO NOT VOTE: **Honasan, Trillianes, Maceda, Mitos Magsaysay, Villar, Enrile, Binay, Cojuangco
 
-For the &#8220;it&#8217;s okay to vote for&#8221; groups, just use your own preferences, i.e. if you don&#8217;t like Erap you probably won&#8217;t vote for JV Ejercito.
+For the &#8220;it&'s okay to vote for&#8221; groups, just use your own preferences, i.e. if you don&'t like Erap you probably won&'t vote for JV Ejercito.
 
 &nbsp;
 
@@ -57,15 +57,15 @@ The following will most likely be the 12 I will vote on Monday (barring somethin
  11. Angara (Team PNoy)
  12. Aquino (Team PNoy)
 
-I understand that the choices aren&#8217;t perfect (I&#8217;m not too fond of some of them&#8230;), but we have a limited selection of viable candidates and I&#8217;d rather fill up all 12 slots to at least have an infinitesimally small chance that the candidates I don&#8217;t want don&#8217;t get in.
+I understand that the choices aren&'t perfect (I&'m not too fond of some of them&#8230;), but we have a limited selection of viable candidates and I&'d rather fill up all 12 slots to at least have an infinitesimally small chance that the candidates I don&'t want don&'t get in.
 
 &nbsp;
 
-**What about the Party List?**<span style="line-height: 13px;"> There are really too many Party Lists to evaluate. Just don&#8217;t vote for some ridiculous group; look for a group with a strong advocacy and track record. My personal preference is for <strong>#95 AGHAM Party List</strong>, because SCIENCE! Here&#8217;s <a href="http://agham.org.ph/category/legislation/">a list of legislation they&#8217;ve supported</a> if you&#8217;re interested.</span>
+**What about the Party List?**<span style="line-height: 13px;"> There are really too many Party Lists to evaluate. Just don&'t vote for some ridiculous group; look for a group with a strong advocacy and track record. My personal preference is for <strong>#95 AGHAM Party List</strong>, because SCIENCE! Here&'s <a href="http://agham.org.ph/category/legislation/">a list of legislation they&'ve supported</a> if you&'re interested.</span>
 
 &nbsp;
 
-That&#8217;s the last post from me before the elections on Monday (I&#8217;ll probably be ranting more [on Twitter][4]). If you have a chance to vote go out and do so, but be sure to do so wisely; it&#8217;s your privilege and an expression of what you want for this country. Let&#8217;s hope that the surveys are wrong and the voting public miraculously smartens up.
+That&'s the last post from me before the elections on Monday (I&'ll probably be ranting more [on Twitter][4]). If you have a chance to vote go out and do so, but be sure to do so wisely; it&'s your privilege and an expression of what you want for this country. Let&'s hope that the surveys are wrong and the voting public miraculously smartens up.
 
 &nbsp;
 

@@ -9,7 +9,7 @@ type: post
 url: /2008/12/colophon-2008/
 ---
 
-**Frontend**: All page templates are valid (X)HTML. However, I choose not to claim valid XHTML (and no doc type declaration) since I can&#8217;t guarantee that blog posts I write are compliant! The site uses standard CSS and uses the [Blueprint CSS Framework][1] for the grid layout of the page. The site design is entirely original (if not simple and bland &#8211; I&#8217;m not very good with website design yet!). The site has minor usage of [JQuery Javascript library][2] in some parts.
+**Frontend**: All page templates are valid (X)HTML. However, I choose not to claim valid XHTML (and no doc type declaration) since I can&'t guarantee that blog posts I write are compliant! The site uses standard CSS and uses the [Blueprint CSS Framework][1] for the grid layout of the page. The site design is entirely original (if not simple and bland &#8211; I&'m not very good with website design yet!). The site has minor usage of [JQuery Javascript library][2] in some parts.
 
 **Backend**: The server side uses [Python][3] and [Django][4] behind mod_python on Apache, with a MySQL database. The following Django apps and Python libraries are used:
 

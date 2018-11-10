@@ -7,7 +7,7 @@ type: post
 url: /2008/04/shadowmoor-prerelease/
 ---
 
-The prerelease was held last April 19 at Robinson&#8217;s Galleria. The last time I went 4-0 and won a shirt was Time Spiral prerelease. I have a good feeling about this one. Then I crack open the following sealed pool:
+The prerelease was held last April 19 at Robinson&'s Galleria. The last time I went 4-0 and won a shirt was Time Spiral prerelease. I have a good feeling about this one. Then I crack open the following sealed pool:
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -397,7 +397,7 @@ and
    
 [Windbrisk Raptor][5]
    
-to win the game. In fact I don&#8217;t recall winning without either one of those cards. Without a common &#8220;Bury&#8221; removal effect in red and or black, neither of those creatures ever died. In the very last game, I finally managed to connect with a 25/25 Troll while I had the Raptor in play. The game was almost over for me before that turn as I was at 5 life facing that RB witch. With one troll attack suddenly I was up to 30! My opponent had to stare at the attacking 25/25 troll for a few seconds&#8230;
+to win the game. In fact I don&'t recall winning without either one of those cards. Without a common &#8220;Bury&#8221; removal effect in red and or black, neither of those creatures ever died. In the very last game, I finally managed to connect with a 25/25 Troll while I had the Raptor in play. The game was almost over for me before that turn as I was at 5 life facing that RB witch. With one troll attack suddenly I was up to 30! My opponent had to stare at the attacking 25/25 troll for a few seconds&#8230;
 
 Some thoughts on Shadowmoor sealed:
  
@@ -419,12 +419,12 @@ Some thoughts on Shadowmoor sealed:
     
     [Mercy Killing][9]
     
-    were pretty much my only control cards. And even though I didn&#8217;t have it,
+    were pretty much my only control cards. And even though I didn&'t have it,
     
     [Prison Term][10]
     
     seems pretty strong as well. 
-  * I&#8217;m not sure about the BR deck in this format, as their creatures are really puny. If you have the
+  * I&'m not sure about the BR deck in this format, as their creatures are really puny. If you have the
     
     [Ashenmoor Liege][11]
     
@@ -432,12 +432,12 @@ Some thoughts on Shadowmoor sealed:
     
     [Ashenmoor Gouger][12]
     
-    maybe, but those are rares and uncommons. Red only has one good common removal this time around (although it&#8217;s very good &#8211;
+    maybe, but those are rares and uncommons. Red only has one good common removal this time around (although it&'s very good &#8211;
     
     [Magma Burst][13]
     
     good.) 
-  * That silly Scarecrow that can&#8217;t get counters? He blocks Wither guys all day long. 
+  * That silly Scarecrow that can&'t get counters? He blocks Wither guys all day long. 
   * Seeing as how all my matches were GW vs RB, I have no idea how blue works in this set. 
 
 

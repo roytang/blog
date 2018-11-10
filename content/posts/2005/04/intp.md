@@ -21,12 +21,12 @@ url: /2005/04/intp/
 > You would make an excellent mathematician, programmer, or professor.
 
 <div align="center">
-  <a href="http://www.blogthings.com/mbtiquiz/"><br /> What&#8217;s Your Personality Type?<br /> </a>
+  <a href="http://www.blogthings.com/mbtiquiz/"><br /> What&'s Your Personality Type?<br /> </a>
 </div>
 
-Got this from [Peng&#8217;s blog][1]. It&#8217;s a simplified version of the Myers-Brigg personality test, which I&#8217;ve taken before, with the same results.
+Got this from [Peng&'s blog][1]. It&'s a simplified version of the Myers-Brigg personality test, which I&'ve taken before, with the same results.
 
-Well not really, my results sometimes vary from INTP to INFP. Each letter in the result stands for one aspect of your personality. In this case, Introverted iNtuitive Thinking/Feeling Perceiving. I&#8217;m pretty sure I&#8217;m somewhere dead even on the thinking/feeling scale. I often confuse myself, so I&#8217;m pretty sure the test would be confused as well.
+Well not really, my results sometimes vary from INTP to INFP. Each letter in the result stands for one aspect of your personality. In this case, Introverted iNtuitive Thinking/Feeling Perceiving. I&'m pretty sure I&'m somewhere dead even on the thinking/feeling scale. I often confuse myself, so I&'m pretty sure the test would be confused as well.
 
  [1]: http://beautiful-rookery.blogspot.com
 

@@ -31,7 +31,7 @@ Round three I got a bye since there were only seven people in my pod.
 
 In SSS, I started out U/W but with the possibility of shifting into red due to second-pick Flame Javelin. I had grabbed early Aethertows and Thistledown Duos, but my mistakes came when I saw two Tattermunge Duos passing by late and my not shifting into the the obviously open R/G. I would realize the mistake in later packs as I would be passed more Tattermunge Duos, Puncture Bolts, Runes of the Deus and the Deus of Calamity itself.
 
-I lost round four &#8211; I don&#8217;t even remember the battle anymore. But I was really frustrated with how it turned out, so I dropped from the tournament right then.
+I lost round four &#8211; I don&'t even remember the battle anymore. But I was really frustrated with how it turned out, so I dropped from the tournament right then.
 
 Final record 1-4: No limited points gained, a bunch lost. Not a good day, obv. Still, the draftaganza was a good experience and hopefully NG will hold more similar events in the future.
 

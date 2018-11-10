@@ -11,7 +11,7 @@ type: post
 url: /2018/11/the-sky-is-falling/
 ---
 
-There&#8217;s a lot of doom and gloom and bad news in the world these days, giving us ordinary folk little reason to be optimistic. Examples include:
+There&'s a lot of doom and gloom and bad news in the world these days, giving us ordinary folk little reason to be optimistic. Examples include:
 
   * we are almost certainly too late to prevent climate change at all and [social collapse is now an actual possibility][1]
   * Trump has begun taking steps to walk back a [nuclear arms control treaty][2]
@@ -20,7 +20,7 @@ There&#8217;s a lot of doom and gloom and bad news in the world these days, givi
     
   * locally, some friends of mine are largely pessimistic about the future of Philippine society as it seems that we are falling further into the trap of autocratic leanings and dynasty-driven patronage
 
-I wonder if things are looking so bad because we are coming from a period of relative peace and expansion of liberal democracy the past few decades (not saying things are perfect, but at least we haven&#8217;t gotten into any world wars recently). Maybe some of the societal and cultural problems highlighted above may be nothing more than society trying to find a new equilibrium in an age of political correctness and social justice. Climate change is of course, a game changing problem that we as a society seem to be unable to face or control.&nbsp; 
+I wonder if things are looking so bad because we are coming from a period of relative peace and expansion of liberal democracy the past few decades (not saying things are perfect, but at least we haven&'t gotten into any world wars recently). Maybe some of the societal and cultural problems highlighted above may be nothing more than society trying to find a new equilibrium in an age of political correctness and social justice. Climate change is of course, a game changing problem that we as a society seem to be unable to face or control.&nbsp; 
 
 I like to think of myself as an optimist, but even I am increasingly wary of where our world and my country are heading. I am slightly comforted by the words of an American novelist, which I heard from the recent season of Daredevil:  
 

@@ -7,7 +7,7 @@ type: post
 url: /2004/08/the-dictatorship-of-stone-cold-bison/
 ---
 
-I&#8217;ve known about
+I&'ve known about
    
 [
     

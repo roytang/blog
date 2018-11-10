@@ -8,7 +8,7 @@ type: post
 url: /2006/01/users-don39t-know-what-they-want/
 ---
 
-[Today&#8217;s Dilbert ][1]takes the old programming truism to an extreme &#8211; &#8220;Users don&#8217;t know what they want.&#8221;
+[Today&'s Dilbert ][1]takes the old programming truism to an extreme &#8211; &#8220;Users don&'t know what they want.&#8221;
 
  [1]: http://www.dilbert.com/comics/dilbert/archive/dilbert-20060129.html
 

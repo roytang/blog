@@ -7,7 +7,7 @@ type: post
 url: /2004/09/petals-around-the-rose/
 ---
 
-It&#8217;s a puzzle. or a game. Or both.
+It&'s a puzzle. or a game. Or both.
 
 [
     

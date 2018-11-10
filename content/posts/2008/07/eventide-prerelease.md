@@ -7,7 +7,7 @@ type: post
 url: /2008/07/eventide-prerelease/
 ---
 
-It&#8217;s been three whole weeks since I last managed to attend a Magic tournament. Despite the hectic work schedule and the fact that spoilers have failed to impress me, I managed to wrangle a Saturday off to hit Robinson&#8217;s Galleria for the Eventide Prerelease.
+It&'s been three whole weeks since I last managed to attend a Magic tournament. Despite the hectic work schedule and the fact that spoilers have failed to impress me, I managed to wrangle a Saturday off to hit Robinson&'s Galleria for the Eventide Prerelease.
 
 So we show up early and join the first flight. I open and register a Shadowmoor tournament pack with next to nothing in terms of decent cards. I think the best removal it had was an Aethertow, and none after that. I was glad that usually small set Prereleases required passing the tournament pack. Naturally, after I was done registering, the judge told us that for our table, we would keep the tournament pack. Doh!
 
@@ -41,7 +41,7 @@ I decided to go mostly white, splashing green for some acceleration and utility 
    
 [Cinder Pyromancer][7]
    
-seemed awesome as well so I was willing to put in one mountain just to splash him. I had trouble deciding what to cut so I stuck with 17 lands (didn&#8217;t have any good Retracers anyway)
+seemed awesome as well so I was willing to put in one mountain just to splash him. I had trouble deciding what to cut so I stuck with 17 lands (didn&'t have any good Retracers anyway)
 
 My decklist:
 
@@ -102,7 +102,7 @@ My decklist:
       2 <a href="http://magiccards.info/autocard.php?card=Hobgoblin Dragoon">Hobgoblin Dragoon</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Painter's Servant">Painter&#8217;s Servant</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Painter's Servant">Painter&'s Servant</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Pili-Pala">Pili-Pala</a>
@@ -147,7 +147,7 @@ My round one opponent thankfully read
    
 [Cinder Pyromancer][7]
    
-for me out loud when I played it and I realized it didn&#8217;t actually hit creatures (not as awesome as I thought!) and I lost the first game due to pretty much having only a dorky 0/1. I boarded it out for a
+for me out loud when I played it and I realized it didn&'t actually hit creatures (not as awesome as I thought!) and I lost the first game due to pretty much having only a dorky 0/1. I boarded it out for a
    
 [Snakeform][8]
    
@@ -165,7 +165,7 @@ and he had no immediate answers. I managed to get the life totals to 36-8 in my 
    
 [Voracious Hatchling][11]
    
-in play, which then proceeded to chase the life totals to to the other side of the board. I made several bad plays with the Hatchling, especially when he swung the 3/3 Hatchling into my 3/3 first-striking Kithkin with one mana open. I instinctively blocked, and of course he had the scar! This was very early on, and I don&#8217;t think he would have been able to win without the Hatchling, so I should have just gone all-in and mass blocked with everyone. I lose the match 1-2.
+in play, which then proceeded to chase the life totals to to the other side of the board. I made several bad plays with the Hatchling, especially when he swung the 3/3 Hatchling into my 3/3 first-striking Kithkin with one mana open. I instinctively blocked, and of course he had the scar! This was very early on, and I don&'t think he would have been able to win without the Hatchling, so I should have just gone all-in and mass blocked with everyone. I lose the match 1-2.
 
 Round three, my opponent seemed new to tournaments, so I found myself holding back at some points. Flores said
    
@@ -175,9 +175,9 @@ Mercy will kill you!
    
 _ 
    
-but luckily it didn&#8217;t and I won in two games.
+but luckily it didn&'t and I won in two games.
 
-Round four, and I&#8217;m paired up with
+Round four, and I&'m paired up with
    
 [
     
@@ -185,9 +185,9 @@ Switch
    
 ][12] 
    
-, who cardpools with me and was one of the people I came to the prerelease with. Not cool, but we don&#8217;t have a choice. We get the pack either way, so we just play for the win on the record. I get in an aggro start &#8211; &#8220;I want to win the game,&#8221; showing Scourge of the Nobilis &#8211; and win in two.
+, who cardpools with me and was one of the people I came to the prerelease with. Not cool, but we don&'t have a choice. We get the pack either way, so we just play for the win on the record. I get in an aggro start &#8211; &#8220;I want to win the game,&#8221; showing Scourge of the Nobilis &#8211; and win in two.
 
-Switch and I win five packs between the two of us, but we open more unexciting rares (R/U liege for the lose!). So far I&#8217;m still not too excited about Eventide, or Magic in general these past few weeks to be honest. I&#8217;m more interested in Block than Standard, but Block seems to be dominated by Faeries, which I find annoying. I hope Eventide shakes up the block meta enough so that it&#8217;s more varied by the time Grand Prix Manila rolls around.
+Switch and I win five packs between the two of us, but we open more unexciting rares (R/U liege for the lose!). So far I&'m still not too excited about Eventide, or Magic in general these past few weeks to be honest. I&'m more interested in Block than Standard, but Block seems to be dominated by Faeries, which I find annoying. I hope Eventide shakes up the block meta enough so that it&'s more varied by the time Grand Prix Manila rolls around.
 
  [1]: http://magiccards.info/autocard.php?card=Endless Horizons
  [2]: http://magiccards.info/autocard.php?card=Glamerdye

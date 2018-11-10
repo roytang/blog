@@ -16,9 +16,9 @@ The main problems are that (a) HTTP requests can be spoofed, they do not need t
 
 For explicit validations for which you wrote out some logic (for example: email address must be so-and-so format), it is obvious that you need that on the server side. But for some classes of validation you may forget to handle them especially if they do not explicitly generate errors in the webpage on the client-side.
 
-First example: when the contents of a drop-down list are dependent on some other value on the form. On the client-side you probably already restrict the choices such that the user is unable to select an invalid combination so it doesn&#8217;t look like a check is needed. But on the server-side, you still have to check that the choice submitted for the drop-down field is a valid value given the other values submitted in the request.
+First example: when the contents of a drop-down list are dependent on some other value on the form. On the client-side you probably already restrict the choices such that the user is unable to select an invalid combination so it doesn&'t look like a check is needed. But on the server-side, you still have to check that the choice submitted for the drop-down field is a valid value given the other values submitted in the request.
 
-Second example: when you hide or disable certain fields in the web page depending on some other value on the form. Same as above, you don&#8217;t need to add a specific check on the client-side since the user is already prevented from doing so by the UI. But on the server-side, you have to make sure not to save or process any values from those hidden/disabled fields if the other values on the form indicate they shouldn&#8217;t be processed.
+Second example: when you hide or disable certain fields in the web page depending on some other value on the form. Same as above, you don&'t need to add a specific check on the client-side since the user is already prevented from doing so by the UI. But on the server-side, you have to make sure not to save or process any values from those hidden/disabled fields if the other values on the form indicate they shouldn&'t be processed.
 
 Weak validations on the server side are dangerous because at the very least they will create bad data in your system and at the very worst may expose you to security vulnerabilities.
 

@@ -10,11 +10,11 @@ type: post
 url: /2008/09/groundhog-day/
 ---
 
-I caught Groundhog Day for the Nth time today on HBO (N roughly around 50). My father claims it&#8217;s his favorite movie of all time; high praise considering he watches every movie that comes out EVER. I&#8217;m not actually going to talk about the movie; it&#8217;s awesome, if you haven&#8217;t seen it, you should. You&#8217;re missing half your life.
+I caught Groundhog Day for the Nth time today on HBO (N roughly around 50). My father claims it&'s his favorite movie of all time; high praise considering he watches every movie that comes out EVER. I&'m not actually going to talk about the movie; it&'s awesome, if you haven&'t seen it, you should. You&'re missing half your life.
 
 If you had one day of eternity, what would you do?
 
-Too bad it&#8217;s not possible to train to be Batman (your body gets reset every morning); you need to focus on mastering mental disciplines first. Ideally you would have an internet connection available; it should take a few man-years or so to memorize Wikipedia. Probably at some point I would test the limits of what a human being could accomplish in the span of 24 hours. Is it possible to take over the world in 24 hours? Since you get infinite repeats, maybe.
+Too bad it&'s not possible to train to be Batman (your body gets reset every morning); you need to focus on mastering mental disciplines first. Ideally you would have an internet connection available; it should take a few man-years or so to memorize Wikipedia. Probably at some point I would test the limits of what a human being could accomplish in the span of 24 hours. Is it possible to take over the world in 24 hours? Since you get infinite repeats, maybe.
 
 I wonder if a remake of Groundhog Day would sell in this day and age.
 

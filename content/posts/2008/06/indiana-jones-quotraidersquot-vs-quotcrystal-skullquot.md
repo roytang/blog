@@ -15,7 +15,7 @@ So I saw _Indiana Jones and the Kingdom of the Crystal Skull _last Friday. Two
   
 _ 
   
-Instead of doing a lame movie review, here&#8217;s a double header feature!
+Instead of doing a lame movie review, here&'s a double header feature!
 
 (Warning: Spoilers for both movies follow)
 
@@ -78,7 +78,7 @@ Instead of doing a lame movie review, here&#8217;s a double header feature!
   
   <tr>
     <th>
-      Indy&#8217;s Love Interest
+      Indy&'s Love Interest
     </th>
     
     <td>
@@ -96,7 +96,7 @@ Instead of doing a lame movie review, here&#8217;s a double header feature!
   
   <tr>
     <th>
-      Indy&#8217;s Sidekick
+      Indy&'s Sidekick
     </th>
     
     <td>
@@ -208,7 +208,7 @@ Instead of doing a lame movie review, here&#8217;s a double header feature!
     </th>
     
     <td>
-      Had the flesh peeled off their bones via dated 80&#8217;s-style special effects
+      Had the flesh peeled off their bones via dated 80&'s-style special effects
     </td>
     
     <td>
@@ -230,7 +230,7 @@ Instead of doing a lame movie review, here&#8217;s a double header feature!
     </td>
     
     <td>
-      Re-attached to it&#8217;s body and flew off to Dimension X
+      Re-attached to it&'s body and flew off to Dimension X
     </td>
     
     <th>
@@ -248,7 +248,7 @@ Instead of doing a lame movie review, here&#8217;s a double header feature!
     </td>
     
     <td>
-      Indy and Marion get married, and we&#8217;re tempted with Shia Lebouf attempting to don the fedora.
+      Indy and Marion get married, and we&'re tempted with Shia Lebouf attempting to don the fedora.
     </td>
     
     <th>

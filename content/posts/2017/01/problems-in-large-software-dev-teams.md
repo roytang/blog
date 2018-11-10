@@ -8,7 +8,7 @@ type: post
 url: /2017/01/problems-in-large-software-dev-teams/
 ---
 
-Hopefully by now most developers and project managers are well aware [of the mythical man-month and Brooks&#8217; Law:][1]
+Hopefully by now most developers and project managers are well aware [of the mythical man-month and Brooks&' Law:][1]
 
 > Adding manpower to a late software project makes it later
 
@@ -69,7 +69,7 @@ The idea is that communications overhead scales up quickly as you add more peopl
       The need for good coding and development standards increases
     </li>
     <li style="font-weight: 400;">
-      Higher likelihood of code duplication (&#8220;I didn&#8217;t know that Developer R already wrote a function that does X!&#8221;)
+      Higher likelihood of code duplication (&#8220;I didn&'t know that Developer R already wrote a function that does X!&#8221;)
     </li>
     <li style="font-weight: 400;">
       More important for code to be well-decoupled, to reduce the likelihood of one developer breaking a lot of things

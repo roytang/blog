@@ -7,7 +7,7 @@ type: post
 url: /2004/09/celsius-desktop/
 ---
 
-This is one of my favorite desktop wallpapers, I&#8217;ve used it several times, I always like bringing it back:
+This is one of my favorite desktop wallpapers, I&'ve used it several times, I always like bringing it back:
 
 [
   
@@ -15,11 +15,11 @@ This is one of my favorite desktop wallpapers, I&#8217;ve used it several times,
   
 ][2] 
 
-However, I always forget where I got it from. It&#8217;s from
+However, I always forget where I got it from. It&'s from
    
 [
     
-RPGamer&#8217;s Theme Central
+RPGamer&'s Theme Central
    
 ][3]
 

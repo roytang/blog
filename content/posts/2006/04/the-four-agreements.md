@@ -26,7 +26,7 @@ url: /2006/04/the-four-agreements/
   
 >** 
   
-> Don&#8217;t take anything personally &#8211; Nothing others do is because of you. What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others, you won&#8217;t be the victim of needless suffering.
+> Don&'t take anything personally &#8211; Nothing others do is because of you. What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others, you won&'t be the victim of needless suffering.
   
 > **
   
@@ -34,7 +34,7 @@ url: /2006/04/the-four-agreements/
   
 >** 
   
-> Don&#8217;t make assumptions &#8211; Find the courage to ask questions and to express what you really want. Communicate with others as clearly as you can to avoid misunderstandings, sadness and drama. With just this one agreement, you can completely transform your life.
+> Don&'t make assumptions &#8211; Find the courage to ask questions and to express what you really want. Communicate with others as clearly as you can to avoid misunderstandings, sadness and drama. With just this one agreement, you can completely transform your life.
   
 > **
   
@@ -44,6 +44,6 @@ url: /2006/04/the-four-agreements/
   
 > Always do your best &#8211; Your best is going to change from moment to moment; it will be different when you are healthy as opposed to sick. Under any circumstance, simply do your best, and you will avoid self-judgment, self-abuse and regret.
 
-I&#8217;m not really a fan of reading self-help books. But I like to have short lists like these. They&#8217;re nice sounding.
+I&'m not really a fan of reading self-help books. But I like to have short lists like these. They&'re nice sounding.
 
  [1]: http://www.businessballs.com/thefouragreementsdonmiguelruiz.htm

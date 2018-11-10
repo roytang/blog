@@ -7,13 +7,13 @@ type: post
 url: /2008/11/drafting-with-roy-1-triple-shards/
 ---
 
-Just kidding. I don&#8217;t have a draft cap or anything. I went drafting with our would-be GP Taipei contingent last November 12 (Wednesday). I actually almost never play sanctioned matches outside of the weekend tournaments, but I was a bit tired from work and wanted to blow off steam, so I went ahead to Robinson&#8217;s Galleria and waited a couple of hours for the 8-man draft to fill up.
+Just kidding. I don&'t have a draft cap or anything. I went drafting with our would-be GP Taipei contingent last November 12 (Wednesday). I actually almost never play sanctioned matches outside of the weekend tournaments, but I was a bit tired from work and wanted to blow off steam, so I went ahead to Robinson&'s Galleria and waited a couple of hours for the 8-man draft to fill up.
 
 I opened with Cruel Ultimatum as my first pick, then got a couple of white weenies (Akrasan Squire and Sigiled Paladin) before getting a 4th-pick Agony Warp. I grabbed some more blue and black fliers and felt myself going into Grixis again.
 
-Second pack I opened Flameblast Dragon, Oblivion Ring, Branching Bolt, Soul&#8217;s Fire, etc. I gazed longingly at the removal for a bit before tucking away my flying bomb rare. I got a Resounding Thunder later on and also rare-drafted Rafiq of the Many and Ad Nauseaum.
+Second pack I opened Flameblast Dragon, Oblivion Ring, Branching Bolt, Soul&'s Fire, etc. I gazed longingly at the removal for a bit before tucking away my flying bomb rare. I got a Resounding Thunder later on and also rare-drafted Rafiq of the Many and Ad Nauseaum.
 
-Here&#8217;s my draft deck:
+Here&'s my draft deck:
  
   
 
@@ -84,13 +84,13 @@ Here&#8217;s my draft deck:
       Spells
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&#8217;s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier&'s Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Resounding Wave">Resounding Wave</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Executioner's Capsule">Executioner&#8217;s Capsule</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Executioner's Capsule">Executioner&'s Capsule</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Resounding Thunder">Resounding Thunder</a>
@@ -129,7 +129,7 @@ Here&#8217;s my draft deck:
       1 <a href="http://magiccards.info/autocard.php?card=Sigiled Paladin">Sigiled Paladin</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Soul's Grace">Soul&#8217;s Grace</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Soul's Grace">Soul&'s Grace</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Call to Heel">Call to Heel</a>
@@ -180,19 +180,19 @@ Round two game one, we were exchanging small blows. Eventually he was at 8 and I
 
 Round two game two, mana screw. Nothing to see here, but obviously if I had been smart enough to leave regeneration mana open in game one I would have gotten the benefit of a third game.
 
-Round three game one, I bring him to two, but he stabilizes and clears my board and I don&#8217;t draw burn to finish him off.
+Round three game one, I bring him to two, but he stabilizes and clears my board and I don&'t draw burn to finish him off.
 
 Round three game two, I manage to go obelisk into five drop into quietus spike again, quickly taking him from 20 to 8 in one swing. I win the game and we go to the rubber match.
 
-I shuffle up and the TO hands us the pack that we&#8217;re playing for. &#8220;We should open it, so that if it&#8217;s a crap rare we don&#8217;t have to play the third game&#8221;, I joke around as I search for any useful sideboard cards.
+I shuffle up and the TO hands us the pack that we&'re playing for. &#8220;We should open it, so that if it&'s a crap rare we don&'t have to play the third game&#8221;, I joke around as I search for any useful sideboard cards.
 
-Round three game three he doesn&#8217;t draw any creatures and I have a steady stream, so I keep the prize pack.
+Round three game three he doesn&'t draw any creatures and I have a steady stream, so I keep the prize pack.
 
 It turned out to contain a
    
 [Mindlock Orb][1]
    
-, if we had opened it I might not have wanted to play the third game. :p My other prize pack had another Cruel Ultimatum, I think it&#8217;s a set now!
+, if we had opened it I might not have wanted to play the third game. :p My other prize pack had another Cruel Ultimatum, I think it&'s a set now!
 
 Good luck to the pinoy GP Taipei contingent!
 

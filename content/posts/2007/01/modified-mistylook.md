@@ -8,11 +8,11 @@ type: post
 url: /2007/01/modified-mistylook/
 ---
 
-The original is [here][1]. Yeah, I didn&#8217;t like the header image so I removed it.
+The original is [here][1]. Yeah, I didn&'t like the header image so I removed it.
 
-I&#8217;m tired of moving themes around, so I&#8217;ll settle on this for a while. Simple and clean. I&#8217;ll just fuss around with the plugins later.
+I&'m tired of moving themes around, so I&'ll settle on this for a while. Simple and clean. I&'ll just fuss around with the plugins later.
 
-And yeah, I&#8217;m also changing the categories around. There should be a plugin to search posts and assign multiple posts to new categories at the same time.
+And yeah, I&'m also changing the categories around. There should be a plugin to search posts and assign multiple posts to new categories at the same time.
 
 My vacation time is almost up&#8230;I still have too many things to watch&#8230;
 

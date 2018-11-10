@@ -8,6 +8,6 @@ type: post
 url: /2004/10/energy-bliss/
 ---
 
-There&#8217;s a new, official [Windows XP Theme][1] out. Supposedly meant for Tablet PCs, it works for regular desktops too. Cool.
+There&'s a new, official [Windows XP Theme][1] out. Supposedly meant for Tablet PCs, it works for regular desktops too. Cool.
 
  [1]: http://monksd.com/wordpress/index.php?p=41

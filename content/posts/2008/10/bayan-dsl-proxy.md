@@ -8,9 +8,9 @@ type: post
 url: /2008/10/bayan-dsl-proxy/
 ---
 
-If you&#8217;ve been having trouble with Bayan DSL web connections to some websites (which we have for the past few weeks or so), you may be surprised to know that they have an HTTP proxy server you can use. Strange, considering that when reporting such problems to their trunkline, they never ask whether you&#8217;re using that proxy server or not. I don&#8217;t recall ever being told about it by the Bayan DSL staff.
+If you&'ve been having trouble with Bayan DSL web connections to some websites (which we have for the past few weeks or so), you may be surprised to know that they have an HTTP proxy server you can use. Strange, considering that when reporting such problems to their trunkline, they never ask whether you&'re using that proxy server or not. I don&'t recall ever being told about it by the Bayan DSL staff.
 
-My brother found out about it last night and lo and behold! The websites we&#8217;ve previously had trouble accessing, such as Yahoo Mail, Multiply, Flickr, etc. have become accessible and Youtube videos now stream well, etc.
+My brother found out about it last night and lo and behold! The websites we&'ve previously had trouble accessing, such as Yahoo Mail, Multiply, Flickr, etc. have become accessible and Youtube videos now stream well, etc.
 
 The settings are:
 

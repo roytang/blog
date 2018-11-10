@@ -8,9 +8,9 @@ type: post
 url: /2008/02/a-few-pictures-from-kerwin-and-joy39s-wedding/
 ---
 
-I wanted to test out multiply&#8217;s uploader, so [here you go][1]
+I wanted to test out multiply&'s uploader, so [here you go][1]
 
-Edit 9 years later: Sadly, Multiply is no longer up. Also, weird how back then Facebook wasn&#8217;t popular yet for photo sharing.
+Edit 9 years later: Sadly, Multiply is no longer up. Also, weird how back then Facebook wasn&'t popular yet for photo sharing.
   
 .
 

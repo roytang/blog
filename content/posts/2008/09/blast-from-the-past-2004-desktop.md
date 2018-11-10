@@ -22,7 +22,7 @@ _
   
 _ 
 
-Actually, I still like that wallpaper. It&#8217;s well-drawn. It&#8217;s from
+Actually, I still like that wallpaper. It&'s well-drawn. It&'s from
   
 [
   
@@ -60,7 +60,7 @@ Items I had in the quick-launch toolbar:
   * Yahoo Messenger
   * No idea
 
-For reference, here&#8217;s today&#8217;s desktop, same wallpaper:
+For reference, here&'s today&'s desktop, same wallpaper:
 
 [
   

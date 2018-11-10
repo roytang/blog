@@ -16,9 +16,9 @@ For those not in the know, the A-Team was a bunch of rogue ex-commandos who usua
 
 The A-Team TV series was most famous for having as one of its cast the [now-popular-on-the-internet][1] tough-talking, fool-pitying [Mr. T][2]. I also particularly like the antics of their resident screwball flyball, &#8220;Crazy Man&#8221; Murdock.
 
-I remember that Marvel even had an A-Team comic book out when I was a kid; I had an issue or two. I&#8217;m tempted to go out and look for copies of those now. 😀
+I remember that Marvel even had an A-Team comic book out when I was a kid; I had an issue or two. I&'m tempted to go out and look for copies of those now. 😀
 
-It was a good episode too, but ended with a cliffhanger. It&#8217;s a good thing I&#8217;m free to watch the next episode tomorrow. 😀
+It was a good episode too, but ended with a cliffhanger. It&'s a good thing I&'m free to watch the next episode tomorrow. 😀
 
  [1]: http://www.mrtvseverything.com/
  [2]: http://en.wikipedia.org/wiki/Mr._T

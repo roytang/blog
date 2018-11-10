@@ -43,7 +43,7 @@ My take:
    
 ** 
    
-Undercosted cards that demand a 2 life payment are usually pretty good. (See: Shocklands, Char, Psionic Blast, Vampiric Tutor). Thoughtseize is widely anticipated to be the chase rare of the set, with starcitygames.com pre-order prices starting at a staggering 17.50 USD. That seems bit too high for a utility spell though, so I&#8217;m not going to go out of my way to get them yet. Although I wouldn&#8217;t mind opening one or two this weekend.
+Undercosted cards that demand a 2 life payment are usually pretty good. (See: Shocklands, Char, Psionic Blast, Vampiric Tutor). Thoughtseize is widely anticipated to be the chase rare of the set, with starcitygames.com pre-order prices starting at a staggering 17.50 USD. That seems bit too high for a utility spell though, so I&'m not going to go out of my way to get them yet. Although I wouldn&'t mind opening one or two this weekend.
 
 **
     
@@ -105,7 +105,7 @@ My take:
    
 ** 
    
-The elemental deck almost builds itself. (Most of the tribe decks do, actually) I hope one or both of the above rares are in the precon, that makes &#8217;em easier to get. With the elemental harbinger, I can see a toolbox-type elemental deck that can use various evoke elementals and giants like Nova Chaser to finish &#8217;em off.  Lots of possibilities here actually. Force of Savagery pops in for 9? Pandemonium? Fatal Frenzy? Elementals are hot, and I&#8217;m not talking about just the Flamekin.
+The elemental deck almost builds itself. (Most of the tribe decks do, actually) I hope one or both of the above rares are in the precon, that makes &'em easier to get. With the elemental harbinger, I can see a toolbox-type elemental deck that can use various evoke elementals and giants like Nova Chaser to finish &'em off.  Lots of possibilities here actually. Force of Savagery pops in for 9? Pandemonium? Fatal Frenzy? Elementals are hot, and I&'m not talking about just the Flamekin.
 
 **
     
@@ -195,7 +195,7 @@ My take:
    
 ** 
    
-There&#8217;s a good chance I&#8217;d like this land cycle better than the rare ones. I think Gemstone Mine just became stupid. The red one may be the best, as it facilitates a mostly-red elemental deck splashing for various evokers.
+There&'s a good chance I&'d like this land cycle better than the rare ones. I think Gemstone Mine just became stupid. The red one may be the best, as it facilitates a mostly-red elemental deck splashing for various evokers.
 
 **
     
@@ -223,7 +223,7 @@ My take:
    
 ** 
    
-I don&#8217;t think it&#8217;s a tier-one card, but one can&#8217;t help imagine the mischief created by turn 2 Hoofprint, turn 3 Hoofprint, turn 4 Careful Consideration.
+I don&'t think it&'s a tier-one card, but one can&'t help imagine the mischief created by turn 2 Hoofprint, turn 3 Hoofprint, turn 4 Careful Consideration.
 
 **
     
@@ -255,7 +255,7 @@ The comparison to Isamaru is obvious of course, as is the reason the Lions were 
 
 **
     
-Wren&#8217;s Run Vanquisher
+Wren&'s Run Vanquisher
    
 ** 
    
@@ -267,7 +267,7 @@ Creature &#8211; Elf Warrior (Uncommon)
    
 
    
-As an additional cost to play Wren&#8217;s Run Vanquisher, reveal an Elf card from your hand or pay {3}.
+As an additional cost to play Wren&'s Run Vanquisher, reveal an Elf card from your hand or pay {3}.
    
 
    
@@ -289,7 +289,7 @@ My take:
    
 ** 
    
-I like this better than the red or white equivalents. Face it, if Isamaru were in the same standard as 3/3 for 1G with deathtouch, he might not have been able to swing on turn 2 that often. That being said, I could see a deck with 4 Goldmeadow Stalwart and 4 Wren&#8217;s Run Vanquishe&#8230;that&#8217;s a lot of speed. And it also puts you in the correct colors for the next card.
+I like this better than the red or white equivalents. Face it, if Isamaru were in the same standard as 3/3 for 1G with deathtouch, he might not have been able to swing on turn 2 that often. That being said, I could see a deck with 4 Goldmeadow Stalwart and 4 Wren&'s Run Vanquishe&#8230;that&'s a lot of speed. And it also puts you in the correct colors for the next card.
 
 **
     
@@ -305,11 +305,11 @@ Legendary Creature &#8211; Kithkin Advisor (Rare)
    
 
    
-Noncreature spells with converted mana cost 4 or greater can&#8217;t be played.
+Noncreature spells with converted mana cost 4 or greater can&'t be played.
    
 
    
-Noncreature spells with {X} in their mana costs can&#8217;t be played.
+Noncreature spells with {X} in their mana costs can&'t be played.
    
 
   
@@ -329,8 +329,8 @@ My take:
    
 ** 
    
-This guy stops Force of Will. Oh and Wrath of God and Damnation. That W/G aggro deck is looking pretty good. Throw in some Changeling effects (to facilitate the Vanquisher and the Stalwart) and you&#8217;re good to go. Not sure how well such a deck would fare in standard, but Block Constructed seems to be a given.
+This guy stops Force of Will. Oh and Wrath of God and Damnation. That W/G aggro deck is looking pretty good. Throw in some Changeling effects (to facilitate the Vanquisher and the Stalwart) and you&'re good to go. Not sure how well such a deck would fare in standard, but Block Constructed seems to be a given.
 
-That&#8217;s all for today!
+That&'s all for today!
 
  [1]: http://mtgsalvation.com/lorwyn-spoiler.html

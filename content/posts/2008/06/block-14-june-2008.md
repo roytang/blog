@@ -9,7 +9,7 @@ url: /2008/06/block-14-june-2008/
 
 The tournament was last Staurday, 14-June and the format wasLorwyn/Shadowmoor Block Constructed.
 
-I had been having a bad constructed record over the past few tournaments, so I thought I&#8217;d play in one of the smaller tournaments before heading into another GPT. I didn&#8217;t want to play Kithkin (too random) or Faeries (not enough components). I though I would go for control instead and thus assembled the following Commandments decklist:
+I had been having a bad constructed record over the past few tournaments, so I thought I&'d play in one of the smaller tournaments before heading into another GPT. I didn&'t want to play Kithkin (too random) or Faeries (not enough components). I though I would go for control instead and thus assembled the following Commandments decklist:
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -141,9 +141,9 @@ I had been having a bad constructed record over the past few tournaments, so I t
 
 Round 1: Mirror match!
 
-In this round I encountered the first problem with this deck, the mirror takes forever! We stretched game one over 45 minutes of the 50 minute round. I almost made a few mistakes here, such as killing my own men with two firespouts intended to kill Oona &#8211; but the spectators were a bit too obvious that I should&#8217;ve paid only green. I had gotten him down to eight before he went back up to 20 with Dawnglow Infusion. I went down to 1, held on and clawed back to five life. Eventually I won with 13 damage from a Horde of Notions + buddies alpha strike.
+In this round I encountered the first problem with this deck, the mirror takes forever! We stretched game one over 45 minutes of the 50 minute round. I almost made a few mistakes here, such as killing my own men with two firespouts intended to kill Oona &#8211; but the spectators were a bit too obvious that I should&'ve paid only green. I had gotten him down to eight before he went back up to 20 with Dawnglow Infusion. I went down to 1, held on and clawed back to five life. Eventually I won with 13 damage from a Horde of Notions + buddies alpha strike.
 
-We tried to play game two in the last five minutes, and he had a quick start and I had a bad draw, but he couldn&#8217;t finish me in extra turns.
+We tried to play game two in the last five minutes, and he had a quick start and I had a bad draw, but he couldn&'t finish me in extra turns.
 
 Game record: 1-0
    
@@ -163,7 +163,7 @@ Match record: 2-0
 
 Round 3 vs Faeries:
 
-I actually didn&#8217;t know how to play this matchup; I figured I should wait for the Bitterblossom on turn 2 with Broken Ambitions, but he wasn&#8217;t playing anything either so I blinked first, walking my evoked Mulldrifter into his own Broken Ambitions. After which he played BB on his own turn. I don&#8217;t remember more details, but I lost in two, most probably because I don&#8217;t really know how to play the matchup.
+I actually didn&'t know how to play this matchup; I figured I should wait for the Bitterblossom on turn 2 with Broken Ambitions, but he wasn&'t playing anything either so I blinked first, walking my evoked Mulldrifter into his own Broken Ambitions. After which he played BB on his own turn. I don&'t remember more details, but I lost in two, most probably because I don&'t really know how to play the matchup.
 
 Game record: 3-2
    
@@ -183,7 +183,7 @@ Match record: 3-1
 
 Round 5 vs Kithkin:
 
-My opponent had complained that he had fought Elementals all five rounds &#8211; except I wasn&#8217;t the usual Elemental deck!
+My opponent had complained that he had fought Elementals all five rounds &#8211; except I wasn&'t the usual Elemental deck!
 
 In game one, a forge tender ran smack into the Plumeveil, and he never recovered from that.
 
@@ -199,7 +199,7 @@ Match record 4-1
 
 Round six vs Kithkin:
 
-I easily beat him game one due to no maindeck Forge Tenders, meaning I actually got rid of five or so creatures with a Firespout. In game two I mulliganned and had mana issues. In game three he had something like a God start &#8211; two Forge Tenders, Wizened Cenn, Meadowgrain, Thistledown Liege and a Reveillark under the hideaway land. I eventually ran out of Cryptics to stall and couldn&#8217;t use the spouts due to the BFTs.
+I easily beat him game one due to no maindeck Forge Tenders, meaning I actually got rid of five or so creatures with a Firespout. In game two I mulliganned and had mana issues. In game three he had something like a God start &#8211; two Forge Tenders, Wizened Cenn, Meadowgrain, Thistledown Liege and a Reveillark under the hideaway land. I eventually ran out of Cryptics to stall and couldn&'t use the spouts due to the BFTs.
 
 Final Game record: 7-4
    
@@ -207,4 +207,4 @@ Final Game record: 7-4
    
 Final Match record: 4-2
 
-It was a small tournament so 4-2 was good enough for 5th place, winning me 4 packs. The rares were: Rage Reflection, Ghastlord of Fugue, Dramatic Entrance and Painter&#8217;s Servant.
+It was a small tournament so 4-2 was good enough for 5th place, winning me 4 packs. The rares were: Rage Reflection, Ghastlord of Fugue, Dramatic Entrance and Painter&'s Servant.

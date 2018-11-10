@@ -14,7 +14,7 @@ Bitty Browser
   
 ][1] 
 
-Holy crap, that&#8217;s cool.
+Holy crap, that&'s cool.
 
 <table border="1" width="240" cellspacing="0" cellpadding="12">
   <tr>
@@ -27,11 +27,11 @@ Holy crap, that&#8217;s cool.
         <a href="http://b1.bitty.com/browser/xmlparser/?mode=delicious_username&feed_url=http%3A%2F%2Fdel%2Eicio%2Eus%2Frss%2Froytang"><br /> Open &#8220;del.icio.us links&#8221; in a new window<br /> </a><br /> <a href="http://www.bitty.com/"><br /> About Bitty Browser<br /> </a><br /> <a href="http://www.turnstyle.com/"><br /> About Turnstyle<br /> </a></td> </tr> </tbody> </table> 
         
         <p>
-          &#8230;but this one doesn&#8217;t seem to work on Firefox though, all I get are Google ads? Am I doing something wrong?
+          &#8230;but this one doesn&'t seem to work on Firefox though, all I get are Google ads? Am I doing something wrong?
         </p>
         
         <p>
-          Let&#8217;s try the launch link:
+          Let&'s try the launch link:
         </p>
         
         <p>

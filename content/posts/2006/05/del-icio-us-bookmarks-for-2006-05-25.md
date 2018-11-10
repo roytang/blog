@@ -11,7 +11,7 @@ url: /2006/05/del-icio-us-bookmarks-for-2006-05-25/
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-05-25
 
-  * [The Programmers&#8217; Booklist
+  * [The Programmers&' Booklist
   
 ][3] &#8212;
   

@@ -7,9 +7,9 @@ type: post
 url: /2009/05/regionals-2009-finest-hour-top-8/
 ---
 
-Last Friday, I was still unsure what to play at Regionals this year, having decided to nix Five-Color Control. Given the cards available, I could easily assemble RDW/Blightning or Chapin&#8217;s 5-Color Blood. But in the end, I gave in to [the hype][1] surrounding Tommy Ashton&#8217;s PTQ-winning decklist, [Bant with Finest Hour][2]:
+Last Friday, I was still unsure what to play at Regionals this year, having decided to nix Five-Color Control. Given the cards available, I could easily assemble RDW/Blightning or Chapin&'s 5-Color Blood. But in the end, I gave in to [the hype][1] surrounding Tommy Ashton&'s PTQ-winning decklist, [Bant with Finest Hour][2]:
 
-However, due to card availability issues, I didn&#8217;t have any [Dauntless Escort][3]s and only 1 [Noble Hierarch][4]. I moved cards around and tried to fit in [Vendillion Clique][5], which would serve as an additional evasive attacker on top of [Shorecrasher Mimic][6] and [Jhessian Infiltrator][7], plus a little extra disruption. The decklist I turned in on Sunday for Regionals:
+However, due to card availability issues, I didn&'t have any [Dauntless Escort][3]s and only 1 [Noble Hierarch][4]. I moved cards around and tried to fit in [Vendillion Clique][5], which would serve as an additional evasive attacker on top of [Shorecrasher Mimic][6] and [Jhessian Infiltrator][7], plus a little extra disruption. The decklist I turned in on Sunday for Regionals:
 
 <div class="decklist_wrap">
   <!--
@@ -138,7 +138,7 @@ However, due to card availability issues, I didn&#8217;t have any [Dauntless Esc
   </div>
 </div>
 
-Here&#8217;s the quick tournament report:
+Here&'s the quick tournament report:
 
   * Round 1 2-0 vs Sanity Grinding
   * Round 2 0-2 vs 5-color Bloodbraid
@@ -153,7 +153,7 @@ Here&#8217;s the quick tournament report:
 
 The deck plays a lot like fish/merfolk, looking for fast explosive starts and protecting it with light countermagic. Basically you want to lead with an evasive attacker ([Shorecrasher Mimic][6], [Jhessian Infiltrator][7] or [Vendillion Clique][5]) and follow up with a card to turn it into massive damage ([Rafiq of the Many][8], [Finest Hour][9] or [Elspeth, Knight-Errant][10]), protecting the aggro with [Negate][11] or [Bant Chamr][12].
 
-When I lost to the 5-color blood deck (that eventually won one of the four invites&#8230;), I felt like I was playing so badly because I was unsure of how the matchup should be played. I didn&#8217;t even board in Forge-Tender! I made a lot of gameplay errors throughout the tournament, so it&#8217;s basically a miracle that I still made top eight anyway. Part of it was probably because a lot of people weren&#8217;t really familiar with the card itself, Finest Hour:
+When I lost to the 5-color blood deck (that eventually won one of the four invites&#8230;), I felt like I was playing so badly because I was unsure of how the matchup should be played. I didn&'t even board in Forge-Tender! I made a lot of gameplay errors throughout the tournament, so it&'s basically a miracle that I still made top eight anyway. Part of it was probably because a lot of people weren&'t really familiar with the card itself, Finest Hour:
 
 ![Finest Hour][13]
 
@@ -161,21 +161,21 @@ Some things to note about this card:
 
   1. During the extra combat step, exalted will trigger again, meaning a Rhox War Monk is 4/5 on the first swing and 5/6 on the second. I won the decider match against Kithkin because he thought my Vendillion Clique would be swinging for eight instead of nine.
 
-  2. Multiple copies of the card will trigger multiple times. In game 3 of the mirror match my opponent was at five life and had a [Lorescale Coatl][14] and a [Jhessian Infiltrator][7] in play. I had Rhox War Monk and Finest Hour, then tapped out for the 2nd Finest Hour and swing, telling him I&#8217;m getting 3 combat steps so his two blockers weren&#8217;t enough. He&#8217;s not sure I&#8217;m right so we call a judge. 
+  2. Multiple copies of the card will trigger multiple times. In game 3 of the mirror match my opponent was at five life and had a [Lorescale Coatl][14] and a [Jhessian Infiltrator][7] in play. I had Rhox War Monk and Finest Hour, then tapped out for the 2nd Finest Hour and swing, telling him I&'m getting 3 combat steps so his two blockers weren&'t enough. He&'s not sure I&'m right so we call a judge. 
 
-The head judge comes over and we explain the question. He picks up Finest Hour and reads it. Then he picks up the second Finest Hour and reads it. It&#8217;s the same card man!
+The head judge comes over and we explain the question. He picks up Finest Hour and reads it. Then he picks up the second Finest Hour and reads it. It&'s the same card man!
 
-He rules that I&#8217;m correct that I&#8217;m getting 2 extra combat steps, and my opponent scoops. I later found out that while the ruling was correct, there was some missing information. Reading the card carefully, you&#8217;d see that while I would get 2 additional combat steps, I would only get to untap the Rhox War Monk during the first combat step!
+He rules that I&'m correct that I&'m getting 2 extra combat steps, and my opponent scoops. I later found out that while the ruling was correct, there was some missing information. Reading the card carefully, you&'d see that while I would get 2 additional combat steps, I would only get to untap the Rhox War Monk during the first combat step!
 
 Playoffs for nationals slot: 0-2 vs [GB Warrior Elves][15]. Boo!
 
-I managed to stabilize in the first game at around 9 life by using Cliques to trade with [Wren's Run Vanquishers][16], and eventually we went into topdeck mode with me having a War Monk and a coupl of other creatures, unfortunately he had both an [Imperious Perfect][17] and a [Bramblewood Paragon][18] then drew into [Necrogenesis][19]. He didn&#8217;t have many tokens yet, so I really just needed to draw either Rafiq or Elspeth so that my War Monk could put me ahead. But we just kept drawing lands and his token generators gave him enough creature advantage to push for the win.
+I managed to stabilize in the first game at around 9 life by using Cliques to trade with [Wren's Run Vanquishers][16], and eventually we went into topdeck mode with me having a War Monk and a coupl of other creatures, unfortunately he had both an [Imperious Perfect][17] and a [Bramblewood Paragon][18] then drew into [Necrogenesis][19]. He didn&'t have many tokens yet, so I really just needed to draw either Rafiq or Elspeth so that my War Monk could put me ahead. But we just kept drawing lands and his token generators gave him enough creature advantage to push for the win.
 
 I will say right now that I basically threw away the 2nd game of the playoff match, wasting my best Swiss constructed performance in like, forever. My opening seven in the 2nd game was Brushland, BoP, Noble Hierarch, 2 Rhox War Monk, Sower of Temptation, and a Vendillion Clique. I felt really good about the war monks and the sower since I felt that stealing a [Wren's Run Vanquisher][20] or [Chameleon Colossus][21] would be key to winning the matchup. I instinctively kept and almost immediately regretted it when the BoP died to [Nameless Inversion][22] when I missed the 2nd land drop.
 
-In terms of what I&#8217;d change in the deck, I&#8217;d remove Gaddock Teeg, he was pretty useless. I&#8217;m thinking about [Murkfiend Liege][23] for that slot since it&#8217;s another card that makes Shorecrasher Mimic explosive while also providing a decent effect. [Oversoul of Dusk][24] I boarded in only for [Blightning][25] but never got to play it. The slot could probably be better used for spot removal (i.e. [Path to Exile][26])
+In terms of what I&'d change in the deck, I&'d remove Gaddock Teeg, he was pretty useless. I&'m thinking about [Murkfiend Liege][23] for that slot since it&'s another card that makes Shorecrasher Mimic explosive while also providing a decent effect. [Oversoul of Dusk][24] I boarded in only for [Blightning][25] but never got to play it. The slot could probably be better used for spot removal (i.e. [Path to Exile][26])
 
-It&#8217;s too bad that I missed the slot, but still it was a pretty good performance considering I had basically assembled the deck over a one-day period and had no playtesting at all. Hopefully this will jack up my constructed rating by a lot so that I could still make it in on rating by putting in solid finished in the coming GPTs.
+It&'s too bad that I missed the slot, but still it was a pretty good performance considering I had basically assembled the deck over a one-day period and had no playtesting at all. Hopefully this will jack up my constructed rating by a lot so that I could still make it in on rating by putting in solid finished in the coming GPTs.
 
 Next week: Limited again!
 

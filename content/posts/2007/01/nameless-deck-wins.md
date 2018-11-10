@@ -129,7 +129,7 @@ The strategy is simple:
    
 
    
-&#8211; chip away at the opponent&#8217;s life total with creatures
+&#8211; chip away at the opponent&'s life total with creatures
    
 
    
@@ -163,7 +163,7 @@ Round 2:
    
 
    
-I felt that I had a good game one against Dragonstorm, but I made a misplay where I didn&#8217;t play the second spike feeder that would&#8217;ve kept me alive. Even with four dragons out, as long as I survive, there&#8217;s a chance to win because of Hit // Run. Game two I managed to resolve a Persecute for red, bringing his hand to one mountain. Game three, he didn&#8217;t draw the storm.
+I felt that I had a good game one against Dragonstorm, but I made a misplay where I didn&'t play the second spike feeder that would&'ve kept me alive. Even with four dragons out, as long as I survive, there&'s a chance to win because of Hit // Run. Game two I managed to resolve a Persecute for red, bringing his hand to one mountain. Game three, he didn&'t draw the storm.
 
 Round 3:
    
@@ -187,7 +187,7 @@ Round 4:
    
 
    
-His deck was mostly Elephants (Call of the Herd / Hierarch) and random small critters, plus Disintegrate as a finisher. First game, I got him with the second turn ryoclasm + Acid-Moss on the Selesnya karoo. Game two, I sided out all the LD, and brought in the Soots and the Grips, expecting Sacred Ground, Worship, and/or Glare. He drew three Call of the Herd and I couldn&#8217;t stop the stampede, I took damage down to 5 and he showed me the Disintegrate. Game three was a race, but I had a Solifuge and an early forestwalker, and the Demonfire in my hand for the win.
+His deck was mostly Elephants (Call of the Herd / Hierarch) and random small critters, plus Disintegrate as a finisher. First game, I got him with the second turn ryoclasm + Acid-Moss on the Selesnya karoo. Game two, I sided out all the LD, and brought in the Soots and the Grips, expecting Sacred Ground, Worship, and/or Glare. He drew three Call of the Herd and I couldn&'t stop the stampede, I took damage down to 5 and he showed me the Disintegrate. Game three was a race, but I had a Solifuge and an early forestwalker, and the Demonfire in my hand for the win.
 
 Round 5:
    
@@ -197,7 +197,7 @@ Round 5:
    
 
    
-I was playing in a bad mental state here, holding back on my spells for fear of permission. A friend who was watching rightfully told me that keeping my spells in hand doesn&#8217;t reduce the number of counters he had. I should&#8217;ve been playing threats one after another until I could resolve a Hit for massive damage. In the second game, my weakness to Pyroclasm becomes the end of me as it kills half my mana.
+I was playing in a bad mental state here, holding back on my spells for fear of permission. A friend who was watching rightfully told me that keeping my spells in hand doesn&'t reduce the number of counters he had. I should&'ve been playing threats one after another until I could resolve a Hit for massive damage. In the second game, my weakness to Pyroclasm becomes the end of me as it kills half my mana.
 
 Round 6:
    
@@ -207,7 +207,7 @@ Round 6:
    
 
    
-I knew what to do this time. His hand runs out of counters and he desperately throws Demonfire for 16 at me. I stay alive and respond with Demonfire for 9, winning the round. Mental note: When they play the Compulsive Research early, they have a bad hand and are looking for permission! Based on experience during the Gold Rush tournament, I usually side out the Cryoclasms against &#8216;Tron &#8211; they usually have only 4-8 viable targets, and I&#8217;d much rather have a Persecute or Krosan Grip available.
+I knew what to do this time. His hand runs out of counters and he desperately throws Demonfire for 16 at me. I stay alive and respond with Demonfire for 9, winning the round. Mental note: When they play the Compulsive Research early, they have a bad hand and are looking for permission! Based on experience during the Gold Rush tournament, I usually side out the Cryoclasms against &#8216;Tron &#8211; they usually have only 4-8 viable targets, and I&'d much rather have a Persecute or Krosan Grip available.
 
 Round 7:
    
@@ -217,8 +217,8 @@ Round 7:
    
 
    
-I like the matchup against SimicTron better, as they have Breeding Pools that the Dryads can walk through. The dryads take him down in game one despite the presence of a Sky Swallower. Game two, I&#8217;m confident of winning; I have the hellbent Demonfire in hand and he&#8217;s within reach. But I fear the Commandeer, so I point the Demonfire at a nearby Hellkite instead. Completely illogical, I lost game two because of that. I was thinking I would wait for a Persecute to clear the hand before going for the Demonfire. Game three, he was able to handle all my threats except for an early Elf and Dryad, which took him down to 1 life before he was forced to Wildfire to clear the board. PS Demonfire for one.
+I like the matchup against SimicTron better, as they have Breeding Pools that the Dryads can walk through. The dryads take him down in game one despite the presence of a Sky Swallower. Game two, I&'m confident of winning; I have the hellbent Demonfire in hand and he&'s within reach. But I fear the Commandeer, so I point the Demonfire at a nearby Hellkite instead. Completely illogical, I lost game two because of that. I was thinking I would wait for a Persecute to clear the hand before going for the Demonfire. Game three, he was able to handle all my threats except for an early Elf and Dryad, which took him down to 1 life before he was forced to Wildfire to clear the board. PS Demonfire for one.
 
-All in all, a pretty good performance for a &#8220;Rogue&#8221; decklist, 5-2, although I had seriously bad tiebreakers so I finished in 17th place, last among the 5-2&#8217;s. And I didn&#8217;t get to test my mettle against Boros. And seriously, the metagame here&#8230;it&#8217;s like 50% of people are playing some X-tron deck.
+All in all, a pretty good performance for a &#8220;Rogue&#8221; decklist, 5-2, although I had seriously bad tiebreakers so I finished in 17th place, last among the 5-2&'s. And I didn&'t get to test my mettle against Boros. And seriously, the metagame here&#8230;it&'s like 50% of people are playing some X-tron deck.
 
 One more Standard tournament next week before Planar Chaos!

@@ -8,6 +8,6 @@ type: post
 url: /2007/08/back-home/
 ---
 
-My first day of work back home, and I&#8217;m immediately greeted by a powerful storm and terrible traffic jams.
+My first day of work back home, and I&'m immediately greeted by a powerful storm and terrible traffic jams.
 
 I love this country 🙂

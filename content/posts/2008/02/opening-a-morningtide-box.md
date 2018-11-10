@@ -30,7 +30,7 @@ A box and five boosters actually. We drafted the packs, but the final distributi
       1 <a href="http://magiccards.info/autocard.php?card=Sensation Gorger">Sensation Gorger</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Titan's Revenge">Titan&#8217;s Revenge</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Titan's Revenge">Titan&'s Revenge</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Vengeful Firebrand">Vengeful Firebrand</a>
@@ -72,7 +72,7 @@ A box and five boosters actually. We drafted the packs, but the final distributi
       1 <a href="http://magiccards.info/autocard.php?card=Battletide Alchemist">Battletide Alchemist</a>
     </li>
     <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Feudkiller's Verdict">Feudkiller&#8217;s Verdict</a>
+      1 <a href="http://magiccards.info/autocard.php?card=Feudkiller's Verdict">Feudkiller&'s Verdict</a>
     </li>
     <li>
       1 <a href="http://magiccards.info/autocard.php?card=Idyllic Tutor">Idyllic Tutor</a>

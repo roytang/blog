@@ -20,11 +20,11 @@ url: /2005/02/interlude/
 &nbsp;
 
 <div>
-  i don&#8217;t always know the right words to say,<br /> i don&#8217;t always know the right thing to do,<br /> there&#8217;s just one thing i&#8217;m sure of,<br /> i only want to be with you
+  i don&'t always know the right words to say,<br /> i don&'t always know the right thing to do,<br /> there&'s just one thing i&'m sure of,<br /> i only want to be with you
 </div>
 
 &nbsp;
 
 <div>
-  i&#8217;ll be here waiting,<br /> standing by you every day<br /> hoping your heart will take notice<br /> and send a smile my way
+  i&'ll be here waiting,<br /> standing by you every day<br /> hoping your heart will take notice<br /> and send a smile my way
 </div>

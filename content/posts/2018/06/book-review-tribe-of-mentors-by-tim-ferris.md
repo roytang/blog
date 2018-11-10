@@ -11,18 +11,18 @@ type: post
 url: /2018/06/book-review-tribe-of-mentors-by-tim-ferris/
 ---
 
-This book was on sale on Amazon Kindle a while back, I figured I&#8217;d give it a whirl. Some years ago I had read one of the author&#8217;s previous books, _The Four Hour Workweek_, and I wasn&#8217;t too impressed. It was interesting at least, but a lot of the advice seemed either difficult to apply to my personal situation or involved doing stuff I wasn&#8217;t really interested in (i.e. sales and marketing and whatnot). But this new book intrigued me &#8211; it&#8217;s a collection of life advice from &#8220;mentors&#8221;, basically successful people from a wild variety of fields including entrepreneurs, celebrities, venture capitalists, athletes, chefs, scholars, bloggers, authors, and so on. I&#8217;m always a sucker for this sort of thing &#8211; even if I don&#8217;t learn anything myself personally, it&#8217;s always interesting to learn how other people approach life. Spoilers: I enjoyed the book.
+This book was on sale on Amazon Kindle a while back, I figured I&'d give it a whirl. Some years ago I had read one of the author&'s previous books, _The Four Hour Workweek_, and I wasn&'t too impressed. It was interesting at least, but a lot of the advice seemed either difficult to apply to my personal situation or involved doing stuff I wasn&'t really interested in (i.e. sales and marketing and whatnot). But this new book intrigued me &#8211; it&'s a collection of life advice from &#8220;mentors&#8221;, basically successful people from a wild variety of fields including entrepreneurs, celebrities, venture capitalists, athletes, chefs, scholars, bloggers, authors, and so on. I&'m always a sucker for this sort of thing &#8211; even if I don&'t learn anything myself personally, it&'s always interesting to learn how other people approach life. Spoilers: I enjoyed the book.
 
-There&#8217;s some common themes that are often repeated among the different mentors in the book:
+There&'s some common themes that are often repeated among the different mentors in the book:
 
   * Many recommend some form of meditation, whether it be transcendental or something else
   * Many stress how important it was to them to be able to say &#8220;no&#8221; to unnecessary commitments
   * A lot of them recommend some form of nonconformity and taking the time to find your own path
   * Some great examples of learning from failures and really makes you think about how we often overreact to failures that later on turn out to be not that big a deal
   * I was often pleasantly surprised by how well-read some of the celebrities turned out to be
-  * Each mentor also gives a short list of books they often give out as gifts, and there&#8217;s a \*lot\* of interesting books mentioned, I&#8217;ll probably try to read quite a few of them
+  * Each mentor also gives a short list of books they often give out as gifts, and there&'s a \*lot\* of interesting books mentioned, I&'ll probably try to read quite a few of them
 
-I also started using this function in the Kindle app which let&#8217;s me highlight some parts and save them for later. I would send those quotes to Google Keep. (Although to be honest there were a lot I didn&#8217;t bother to note down, mostly because I was lazy.) Here are the ones I did manage to save:
+I also started using this function in the Kindle app which let&'s me highlight some parts and save them for later. I would send those quotes to Google Keep. (Although to be honest there were a lot I didn&'t bother to note down, mostly because I was lazy.) Here are the ones I did manage to save:
 
 > _"People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things." –Steve Jobs_
 > 
@@ -46,4 +46,4 @@ I also started using this function in the Kindle app which let&#8217;s me highli
   
 >_ 
 
-Whenever I read a book like this it refreshes me a little bit and gives me a better sense of perspective and inspires me to do more things that I want to do and maybe live life a little bit more on my own terms. (Whether I actually execute on that, well that&#8217;s a different matter all together.)
+Whenever I read a book like this it refreshes me a little bit and gives me a better sense of perspective and inspires me to do more things that I want to do and maybe live life a little bit more on my own terms. (Whether I actually execute on that, well that&'s a different matter all together.)
