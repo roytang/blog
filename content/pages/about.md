@@ -3,6 +3,7 @@ title: About / Contact
 author: roy
 type: page
 date: 2018-02-11T17:15:26+00:00
+url: /about
 
 ---
 **Roy Tang** Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. [Magic][1] player on weekends. Frustrated writer and sketch artist. Student of life and all-around good guy. On a never-ending quest for awesomeness.
