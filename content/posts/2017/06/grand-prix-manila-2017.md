@@ -30,7 +30,7 @@ I woke up early and took the train. Saturday was a bit lighter commute than Frid
 
 This was the deck I ran:
 
-[cardlist title=Temur Marvel]
+{{< cardlist title="Temur Marvel" >}}
   
 [Creatures]
   
@@ -52,11 +52,11 @@ This was the deck I ran:
   
 4 Attune with Aether
   
-1 Nissa&#8217;s Renewal
+1 Nissa's Renewal
   
 4 Aetherworks Marvel
   
-3 Woodweaver&#8217;s Puzzleknot
+3 Woodweaver's Puzzleknot
   
 2 Censor
   
@@ -116,7 +116,7 @@ This was the deck I ran:
   
 [/Sideboard]
   
-[/cardlist]
+{{< /cardlist >}}
 
 I opted to play with Trackers in the main because I found my mirror match losses from Day 0 often came to a Tracker sticking on the opposing side. I also dropped down to 3 Ulamogs because it felt like I often got stupid hands with 2 or 3 of them.
 

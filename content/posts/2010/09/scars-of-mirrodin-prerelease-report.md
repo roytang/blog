@@ -19,7 +19,7 @@ The first hour was spent waiting in an unbearably hot basement area for the 8th 
 
 The pool I registered was terrible, no money rares and felt a bit short on playables, but the pool I got passed was better (not really in terms of constructed &#8220;value&#8221; cards, but pretty good in terms of playability). I think Scars limited lends itself well to monocolor decks with vast majority of the support provided by artifacts, but I couldn&#8217;t just had dragon-class bombs in separate colors, so black-red it was. Here&#8217;s my list:
 
-[deck]
+{{< cardlist >}}
   
 [Lands]
   
@@ -73,7 +73,7 @@ The pool I registered was terrible, no money rares and felt a bit short on playa
   
 1 Ratchet Bomb
   
-[/Card]
+[/Spells]
   
 [Relevant Sideboard*]
   
@@ -85,27 +85,27 @@ The pool I registered was terrible, no money rares and felt a bit short on playa
   
 [/Relevant Sideboard*]
   
-[/deck]
+{{< /cardlist >}}
 
 * I should have probably just maindecked the above listed sideboard cards in the first place, not sure why I didn&#8217;t, it&#8217;s not like I was drunk.
 
-Regarding [card]Bleak Coven Vampires[/card] &#8211; these guys are great, top-notch. Together with the [card]Galvanic Blast[/card]s, I had to reliably trigger Metalcraft, I think the 12-14 artifact count is sufficient to provide the needed consistency.
+Regarding {{< card >}}Bleak Coven Vampires{{< /card >}} &#8211; these guys are great, top-notch. Together with the {{< card >}}Galvanic Blast{{< /card >}}s, I had to reliably trigger Metalcraft, I think the 12-14 artifact count is sufficient to provide the needed consistency.
 
-Regarding [card]Skithiryx, the Blight Dragon[/card], I&#8217;m going to misspell that all the time, so from hereon, he&#8217;s called &#8220;Skittles&#8221;.
+Regarding {{< card >}}Skithiryx, the Blight Dragon{{< /card >}}, I&#8217;m going to misspell that all the time, so from hereon, he&#8217;s called &#8220;Skittles&#8221;.
 
-**Round one:** I lost the first game to mana screw, as if the gods of magic were punishing me for playing two colors in the format; I drew all swamps and no mountains, losing access to half the spells in my hand. I lost that match 1-2, the game three loss to an infectious [card]Blight Mamba[/card] given intimidate by that evil green uncommon ([card]Bellowing Tanglewurm[/card]). I kept drawing lands while it slowly bled me to death with it&#8217;s evil poison. My last-ditch blocker met a [card]shatter[/card]ing end! At least I can say this was the first time I lost a tournament match to poision counters.
+**Round one:** I lost the first game to mana screw, as if the gods of magic were punishing me for playing two colors in the format; I drew all swamps and no mountains, losing access to half the spells in my hand. I lost that match 1-2, the game three loss to an infectious {{< card >}}Blight Mamba{{< /card >}} given intimidate by that evil green uncommon ({{< card >}}Bellowing Tanglewurm{{< /card >}}). I kept drawing lands while it slowly bled me to death with it&#8217;s evil poison. My last-ditch blocker met a {{< card >}}shatter{{< /card >}}ing end! At least I can say this was the first time I lost a tournament match to poision counters.
 
 **Round two** was a breeze, and marked the first time I won a tournament match using poison counters. And I did it with Skittles, the only Infect guy in my deck. Hey, my opponent kept gaining life, luckily I had a viable alternate plan of attack. Won 2-0.
 
-**Round three**, the guy was all cool and had three colors of basics, plus a bunch of mana myr, it&#8217;s like he was doing nothing exciting, then all of a sudden brings out a [card]Liege of the Tangle[/card] on me! Luckily I had the double [card]Galvanic Blast[/card] with metalcraft active and he groaned. I lost game two to a quick [card]Tangle Angler[/card] with [card]Darksteel Axe[/card] after stalling on lands due to a poor keep _(True Magic Confessions episode 17: I don&#8217;t mulligan aggressively enough)_. In game three I drew the [card]Flesh Allergy[/card] I boarded in for the [card]Liege of the Tangle[/card] and just slowrolled that bad boy until he drew and played the Liege. Ha! Sacrificing [card]Perilous Myr[/card] to [card]Flesh Allergy[/card] is awesome when your opponent is at four life. Won 2-1.
+**Round three**, the guy was all cool and had three colors of basics, plus a bunch of mana myr, it&#8217;s like he was doing nothing exciting, then all of a sudden brings out a {{< card >}}Liege of the Tangle{{< /card >}} on me! Luckily I had the double {{< card >}}Galvanic Blast{{< /card >}} with metalcraft active and he groaned. I lost game two to a quick {{< card >}}Tangle Angler{{< /card >}} with {{< card >}}Darksteel Axe{{< /card >}} after stalling on lands due to a poor keep _(True Magic Confessions episode 17: I don&#8217;t mulligan aggressively enough)_. In game three I drew the {{< card >}}Flesh Allergy{{< /card >}} I boarded in for the {{< card >}}Liege of the Tangle{{< /card >}} and just slowrolled that bad boy until he drew and played the Liege. Ha! Sacrificing {{< card >}}Perilous Myr{{< /card >}} to {{< card >}}Flesh Allergy{{< /card >}} is awesome when your opponent is at four life. Won 2-1.
 
-**Round four**, my opponent was UR. In game one neither of had much gas and had to resort to trading blows with our 1/1 mana myrs, but I pulled out ahead after he drew too many lands and I had 3 mana myrs to clock him with. Game two, he tapped out for [card]Saberclaw Golem[/card] and I was thinking of taking it out with a non-boosted G-Blast, but for some reason thought it would be better to do so on his turn. Of course when he untaps he already has [card]Stoic Rebuttal[/card] ready, a card I already saw in game one and hence should have been aware of! I went on tilt a bit and subsequently blocked the Golem looking to trade creatures, but then he just smiled and paid the red mana to give it first strike. Facepalm!
+**Round four**, my opponent was UR. In game one neither of had much gas and had to resort to trading blows with our 1/1 mana myrs, but I pulled out ahead after he drew too many lands and I had 3 mana myrs to clock him with. Game two, he tapped out for {{< card >}}Saberclaw Golem{{< /card >}} and I was thinking of taking it out with a non-boosted G-Blast, but for some reason thought it would be better to do so on his turn. Of course when he untaps he already has {{< card >}}Stoic Rebuttal{{< /card >}} ready, a card I already saw in game one and hence should have been aware of! I went on tilt a bit and subsequently blocked the Golem looking to trade creatures, but then he just smiled and paid the red mana to give it first strike. Facepalm!
 
-I did the mental Saito faceslap and toughened up my focus for game three. I stayed in control all game, making only a minor mistake of unnecessarily untapping the [card]Rust Tick[/card] at one point, but was well ahead in life totals anyway and finished him off with 2 [card]Galvanic Blast[card]s.
+I did the mental Saito faceslap and toughened up my focus for game three. I stayed in control all game, making only a minor mistake of unnecessarily untapping the {{< card >}}Rust Tick{{< /card >}} at one point, but was well ahead in life totals anyway and finished him off with 2 {{< card >}}Galvanic Blast{{< /card >}}s.
 
 So anyway I fail to make 4-0 for the nth time in a row. I haven&#8217;t 4-0&#8217;d since Time Spiral I think. It&#8217;s fine, Prereleases should be very casual events anyway so I have a tendency to maybe play a bit looser than I would at a PTQ for example.
 
-Prize packs did not contain anything exciting. Well, a [card]Genesis Wave[/card] but that&#8217;s more of a fun, casual card.
+Prize packs did not contain anything exciting. Well, a {{< card >}}Genesis Wave{{< /card >}} but that&#8217;s more of a fun, casual card.
 
 **TLDR**; Went 3-1 at my local Scars of Mirrodin Prerelease.
 

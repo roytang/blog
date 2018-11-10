@@ -20,26 +20,26 @@ wp_jd_bitly:
 
 <img title="Inquisition of Kozilek" src="http://www.wizards.com/mtg/images/tcg/products/riseoftheeldrazi/mmbe7rmg3r_EN.jpg" alt="" width="265" height="370" /><figcaption class="wp-caption-text">Nobody expected the Kozilek inquisition!</figcaption></figure> 
 
-BDM of course already pointed out the obvious comparisons to [card]Thoughtseize[/card], which is the premier pinpoint discard spell at this mana point; [card]Thoughtseize[/card] has the advantage in versatility (can get any card) versus the slight drawback of giving up 2 points of life. That being said, if Inquisition of Kozilek had existed in Standard in place of Thoughtseize, it would still be good enough to take the same place in the one-two-three punch of the good ol&#8217; Faerie menace:
+BDM of course already pointed out the obvious comparisons to {{< card >}}Thoughtseize{{< /card >}}, which is the premier pinpoint discard spell at this mana point; {{< card >}}Thoughtseize{{< /card >}} has the advantage in versatility (can get any card) versus the slight drawback of giving up 2 points of life. That being said, if Inquisition of Kozilek had existed in Standard in place of Thoughtseize, it would still be good enough to take the same place in the one-two-three punch of the good ol&#8217; Faerie menace:
 
 Turn One: Inquisition of Kozilek
 
-Turn Two: [card]Bitterblossom[/card]
+Turn Two: {{< card >}}Bitterblossom{{< /card >}}
 
-Turn Three: [card]Jace Beleren[/card]
+Turn Three: {{< card >}}Jace Beleren{{< /card >}}
 
-What did Faeries really want to take on turn one anyway? In the mirror match, you of course wanted to take out the ubiquitous [card]Bitterblossom[/card]; when fighting the other aggro deck of the time, you&#8217;d want to pull out a [card]Figure of Destiny[/card], or at least a [card]Wizened Cenn[/card]; when faced with the opposing five-color control, you&#8217;d take away his [card]Negate[/card] or [card]Broken Ambitions[/card] to push through your own &#8216;Blossom on turn two.
+What did Faeries really want to take on turn one anyway? In the mirror match, you of course wanted to take out the ubiquitous {{< card >}}Bitterblossom{{< /card >}}; when fighting the other aggro deck of the time, you&#8217;d want to pull out a {{< card >}}Figure of Destiny{{< /card >}}, or at least a {{< card >}}Wizened Cenn{{< /card >}}; when faced with the opposing five-color control, you&#8217;d take away his {{< card >}}Negate{{< /card >}} or {{< card >}}Broken Ambitions{{< /card >}} to push through your own &#8216;Blossom on turn two.
 
-This is where pinpoint discard is at it&#8217;s best &#8211; in the early turns, protecting your early plays. In all of these cases, the Inquisition might as well be [card]Thoughtseize[/card], with the added benefit of keeping your precious two life!
+This is where pinpoint discard is at it&#8217;s best &#8211; in the early turns, protecting your early plays. In all of these cases, the Inquisition might as well be {{< card >}}Thoughtseize{{< /card >}}, with the added benefit of keeping your precious two life!
 
 Sure, it&#8217;s suboptimal as a topdeck in the late game, but so was Thoughtseize! And luckily, it&#8217;s uncommon this time around, and won&#8217;t cost you a bundle of cash like Thoughtseize did in it&#8217;s heyday.
 
-Of course, you might want to note that unlike the generic-flavored [card]Thoughtseize[/card], [card]Inquisition of Kozilek[/card] has almost no chance of being reprinted in a future set, unless the Eldrazi make some sort of second coming down the line!
+Of course, you might want to note that unlike the generic-flavored {{< card >}}Thoughtseize{{< /card >}}, {{< card >}}Inquisition of Kozilek{{< /card >}} has almost no chance of being reprinted in a future set, unless the Eldrazi make some sort of second coming down the line!
 
-Aside from the hypothetical comparison to \[card]Thoughtseize[/card\] (in truth, the only relationship those two cards would ever have would be for Inquisition to be Thoughtseize #5-8 in an extended deck that just can&#8217;t get enough), what of the implications for future standard? Among the existing decks I think the Inquisition can find a home in the current public enemy number one, Jund. Why? To proactively take out the new hindrance, referring of course to [card]Wall of Omens[/card]:<figure style="width: 265px" class="wp-caption aligncenter">
+Aside from the hypothetical comparison to {{< card >}}Thoughtseize{{< /card >}} (in truth, the only relationship those two cards would ever have would be for Inquisition to be Thoughtseize #5-8 in an extended deck that just can&#8217;t get enough), what of the implications for future standard? Among the existing decks I think the Inquisition can find a home in the current public enemy number one, Jund. Why? To proactively take out the new hindrance, referring of course to {{< card >}}Wall of Omens{{< /card >}}:<figure style="width: 265px" class="wp-caption aligncenter">
 
 <img title="Wall of Omens" src="http://www.wizards.com/mtg/images/tcg/products/riseoftheeldrazi/rnzzz20znr_EN.jpg" alt="" width="265" height="370" /><figcaption class="wp-caption-text">Future bane of aggressive decks everywhere!</figcaption></figure> 
 
-As I see it, the inquisition is currently the only way to take out the defensive beast without giving the opponent the sweet card advantage he was looking for! Aside from Jund, other black aggressive decks such as Vampires will find a good use for the new pinpoint discarder. And I reckon it&#8217;s going to play a role in any new black decks that emerge as well. Patrick Chapin([@thepchapin on twitter][1]) referred to [card]Wall of Omens[/card] as among the top 5 cards in the upcoming standard, I&#8217;m thinking [card]Inquisition of Kozilek[/card] might be right behind it!
+As I see it, the inquisition is currently the only way to take out the defensive beast without giving the opponent the sweet card advantage he was looking for! Aside from Jund, other black aggressive decks such as Vampires will find a good use for the new pinpoint discarder. And I reckon it&#8217;s going to play a role in any new black decks that emerge as well. Patrick Chapin([@thepchapin on twitter][1]) referred to {{< card >}}Wall of Omens{{< /card >}} as among the top 5 cards in the upcoming standard, I&#8217;m thinking {{< card >}}Inquisition of Kozilek{{< /card >}} might be right behind it!
 
  [1]: http://twitter.com/thepchapin

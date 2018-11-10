@@ -10,7 +10,7 @@ url: /2015/06/gp-singapore-2015/
 
 GP Singapore 2015 would be my first Modern GP and maybe only my 3rd or 4th Modern event altogether. Modern is a difficult format to prepare for; there are many decks to prepare for and it&#8217;s almost impossible to master all the matchups. For this reason, I felt much less prepared for this event than for [GP Manila back in January][1]. I put together Grixis Twin for this event. It&#8217;s a bit difficult to pilot, but I felt it had a reasonable matchup across the board and there&#8217;s always a chance of comboing out when you&#8217;re falling behind. Here&#8217;s the list I played:
 
-[cardlist title=Grixis Twin]
+{{< cardlist title="Grixis Twin" >}}
   
 [Creatures]
   
@@ -108,27 +108,19 @@ GP Singapore 2015 would be my first Modern GP and maybe only my 3rd or 4th Moder
   
 [/Sideboard]
   
-[/cardlist]
+{{< /cardlist >}}
 
 Here&#8217;s how my day 1 shook out:
 
-R1 2-0 WIN vs grixis twin
-  
-R2 2-1 WIN vs coco elves
-  
-R3 1-1 DRAW vs abzan
-  
-R4 2-0 WIN vs gw coco
-  
-R5 2-0 WIN vs grixis twin
-  
-R6 2-1 WIN vs red burn
-  
-R7 2-0 WIN vs affinity
-  
-R8 1-2 LOSS vs rg tron
-  
-R9 1-2 LOSS vs merfolk
+- R1 2-0 WIN vs grixis twin
+- R2 2-1 WIN vs coco elves
+- R3 1-1 DRAW vs abzan
+- R4 2-0 WIN vs gw coco
+- R5 2-0 WIN vs grixis twin
+- R6 2-1 WIN vs red burn
+- R7 2-0 WIN vs affinity
+- R8 1-2 LOSS vs rg tron
+- R9 1-2 LOSS vs merfolk
 
 Of course 6-2-1 doesn&#8217;t qualify for day 2. Getting eliminated in the last 2 rounds makes me feel a bit salty. The draw vs abzan was because I lost game 1 and boarded into grindy control. I&#8217;m not sure if I should have tried to quickly win game 2 first. The loss to RG tron was close; if I had won the die roll I think I would have taken the match, although I did make some sloppy plays in game 3 as well. Merfolk was an uphill battle &#8211; this was one of the matchups I had not prepared for and it seems horribly bad for my side. Game 1 he had the first turn Aether Vial, which seemed to be unbeatable. I managed to eke out a win game 2 after a timely Anger of the Gods and finally running out his Vapor Snags so I could combo off. Cursecatcher + Spell Pierce kept me off Anger of the Gods in game 3 long enough for a 2nd and 3rd lord to push through lethal damage.
 

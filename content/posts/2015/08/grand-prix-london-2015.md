@@ -14,11 +14,11 @@ url: /2015/08/grand-prix-london-2015/
 
 I was sent to London for work for a few months, which meant an opportunity to play a third GP for the year after [Manila back in January][1] and [Singapore back in June][2]. This will be the most GP events I&#8217;ve played in a one year period. I didn&#8217;t have time to practice, so I went with an updated version of the Jeskai tempo deck I was playing at the start of Khans rotation.
 
-[cardlist title=Jeskai Tempo]
+{{< cardlist title="Jeskai Tempo" >}}
   
 [Creatures]
   
-4 Jace, Vryn&#8217;s Prodigy
+4 Jace, Vryn's Prodigy
   
 3 Soulfire Grand Master
   
@@ -94,23 +94,17 @@ I was sent to London for work for a few months, which meant an opportunity to pl
   
 [/Sideboard]
   
-[/cardlist]
+{{< /cardlist >}}
 
 I was really hoping to run into a lot of monored or UR Artifacts &#8211; basically the PT Origins metagame. Unfortunately the metagame had already reacted the week before. Here&#8217;s how my day 1 shook out:
 
-R1 0-2 LOSS vs Abzan Control (mull to 6 and mull to 5)
-  
-R2 2-0 WIN vs RG Monsters (mull to 6 in game 1)
-  
-R3 2-1 WIN vs Abzan Control
-  
-R4 2-1 WIN vs Abzan Megamorph (mull to 6 in game 2)
-  
-R5 0-2 LOSS vs Abzan Megamorph
-  
-R6 0-2 LOSS vs Temur Dragons
-  
-DROP
+- R1 0-2 LOSS vs Abzan Control (mull to 6 and mull to 5)
+- R2 2-0 WIN vs RG Monsters (mull to 6 in game 1)
+- R3 2-1 WIN vs Abzan Control
+- R4 2-1 WIN vs Abzan Megamorph (mull to 6 in game 2)
+- R5 0-2 LOSS vs Abzan Megamorph
+- R6 0-2 LOSS vs Temur Dragons
+- DROP
 
 I was expecting to be slightly ahead on Abzan decks in general, but my lack of practice turned that into a 50-50 proposition instead. I made a lot of sequencing errors and play mistakes (and felt like I had too many mulligans). I lost the Temur match due to being too aggressive (and not understanding how Thunderbreak Regent worked lol).
 

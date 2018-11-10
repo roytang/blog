@@ -20,7 +20,7 @@ Yes indeed, I still play Magic, &#8220;on and off&#8221;, as it happens with mos
 
 The list I ran, largely based off Yuuya Watanabe&#8217;s Player&#8217;s Championship deck (sideboard might not be accurate&#8230;I may have taken too long to write this up :p):
 
-[cardlist title=Jeskai Tokens]
+{{< cardlist title="Jeskai Tokens" >}}
   
 [Creatures]
   
@@ -84,7 +84,7 @@ The list I ran, largely based off Yuuya Watanabe&#8217;s Player&#8217;s Champion
   
 2 Erase
   
-1 Elspeth, Sun&#8217;s Champion
+1 Elspeth, Sun's Champion
   
 2 Hushwing Gryff
   
@@ -92,67 +92,40 @@ The list I ran, largely based off Yuuya Watanabe&#8217;s Player&#8217;s Champion
   
 [/Sideboard]
   
-[/cardlist]
+{{< /cardlist >}}
 
 This was probably the GP where I was most prepared in terms of deckbuilding &#8211; I didn&#8217;t scrimp on card availability this time although my team pool hasn&#8217;t been as large as it used to be. Playtesting wasn&#8217;t much, mostly against Abzan variants and the aforementioned GPTs where I crashed and burned.
 
 I did pretty well on day one:
 
-<div>
-  R01 2-0 WIN vs ub control<br /> R02 2-0 WIN vs ub control<br /> R03 2-0 WIN vs temur<br /> R04 2-0 WIN vs temur<br /> R05 2-0 WIN vs temur<br /> R06 0-2 LOSS vs abzan whip<br /> R07 2-0 WIN vs monored<br /> R08 2-1 WIN vs jeskai tokens<br /> R09 2-0 WIN vs abzan midrange (terry soh)
-</div>
+- R01 2-0 WIN vs ub control
+- R02 2-0 WIN vs ub control
+- R03 2-0 WIN vs temur
+- R04 2-0 WIN vs temur
+- R05 2-0 WIN vs temur
+- R06 0-2 LOSS vs abzan whip
+- R07 2-0 WIN vs monored
+- R08 2-1 WIN vs jeskai tokens
+- R09 2-0 WIN vs abzan midrange (terry soh)
 
-<div>
-</div>
+That&#8217;s 8 and 1, my best Day One performance ever. My deck was running well, I was in the zone, I had some good matchups and luck was in favor a lot; I won at least 3 games against different opponents due to their mulligans to 5 or worse. I performed well enough to warrant a mention in the coverage even:
 
-<div>
-  That&#8217;s 8 and 1, my best Day One performance ever. My deck was running well, I was in the zone, I had some good matchups and luck was in favor a lot; I won at least 3 games against different opponents due to their mulligans to 5 or worse. I performed well enough to warrant a mention in the coverage even:
-</div>
 
-<div>
-</div>
+![Snippet from Day One Coverage](http://roytang.net/wp-content/uploads/2015/02/day1coverage.png)
 
-<div>
-  <a href="http://roytang.net/wp-content/uploads/2015/02/day1coverage.png"><img class="aligncenter size-full wp-image-965" src="http://roytang.net/wp-content/uploads/2015/02/day1coverage.png" alt="day1coverage" width="1211" height="138" srcset="https://roytang.net/wp-content/uploads/2015/02/day1coverage.png 1211w, https://roytang.net/wp-content/uploads/2015/02/day1coverage-300x34.png 300w, https://roytang.net/wp-content/uploads/2015/02/day1coverage-1024x117.png 1024w" sizes="(max-width: 1211px) 100vw, 1211px" /></a>
-</div>
+Unfortunately Day Two didn&#8217;t go quite as well; apparently the luck I had during Day One had to be paid back with interest. I lost at least three games off mulligans to five, and my lack of playtesting against some archetypes such as UW Heroic cost me some suboptimal plays.
 
-<div>
-</div>
+- R10 0-2 LOSS vs uw heroic
+- R11 2-1 WIN vs abzan aggro
+- R12 2-0 WIN vs jeskai tempo
+- R13 0-2 LOSS vs mardu
+- R14 0-2 LOSS vs monored
+- R15 2-1 WIN vs abzan aggro
 
-<div>
-  Unfortunately Day Two didn&#8217;t go quite as well; apparently the luck I had during Day One had to be paid back with interest. I lost at least three games off mulligans to five, and my lack of playtesting against some archetypes such as UW Heroic cost me some suboptimal plays.
-</div>
-
-<div>
-</div>
-
-<div>
-  <div>
-    <div>
-      R10 0-2 LOSS vs uw heroic<br /> R11 2-1 WIN vs abzan aggro<br /> R12 2-0 WIN vs jeskai tempo<br /> R13 0-2 LOSS vs mardu<br /> R14 0-2 LOSS vs monored<br /> R15 2-1 WIN vs abzan aggro
-    </div>
-    
-    <div>
-    </div>
-    
-    <div>
-      Going 3-3 on Day Two means I finished the GP at 11-4, which was the same record I had <a href="http://roytang.net/2012/06/grand-prix-manila-2012/">back in 2012</a>. That&#8217;s good enough this year for a 37th place finish and some cash:
-    </div>
-  </div>
+Going 3-3 on Day Two means I finished the GP at 11-4, which was the same record I had <a href="http://roytang.net/2012/06/grand-prix-manila-2012/">back in 2012</a>. That&#8217;s good enough this year for a 37th place finish and some cash:
   
-  <div>
-    <a href="http://roytang.net/wp-content/uploads/2015/02/2015-01-04-16.12.24.jpg"><img class="aligncenter size-full wp-image-966" src="http://roytang.net/wp-content/uploads/2015/02/2015-01-04-16.12.24.jpg" alt="2015-01-04 16.12.24" width="3264" height="1836" srcset="https://roytang.net/wp-content/uploads/2015/02/2015-01-04-16.12.24.jpg 3264w, https://roytang.net/wp-content/uploads/2015/02/2015-01-04-16.12.24-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/02/2015-01-04-16.12.24-1024x576.jpg 1024w" sizes="(max-width: 3264px) 100vw, 3264px" /></a>
-  </div>
-  
-  <div>
-  </div>
-  
-  <div>
-  </div>
-  
-  <div>
-    Not a bad performance at all, and it was a great weekend altogether: got to see some old friends again and it feels to do well at a high-level event. What next; should I go to GP Singapore this year too?
-  </div>
-</div>
+![Snippet from final standing](http://roytang.net/wp-content/uploads/2015/02/2015-01-04-16.12.24.jpg)
+
+Not a bad performance at all, and it was a great weekend altogether: got to see some old friends again and it feels to do well at a high-level event. What next; should I go to GP Singapore this year too?
 
  [1]: http://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0.jpg
