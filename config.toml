@@ -28,7 +28,7 @@ disqusShortname = "roytangweblog"
 [params]
     # You can use markdown here.
     brand = "Roy Tang"
-    topimage = "![Wearing dice on my head since 2008](http://apps.roytang.net/files/diceonhead.jpg \"Wearing dice on my head since 2008\")"
+    topimage = "![Wearing dice on my head since 2008](/uploads/diceonhead.jpg \"Wearing dice on my head since 2008\")"
     topline = "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
     footline = "stand tall and shake the heavens"
 
