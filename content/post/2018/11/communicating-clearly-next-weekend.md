@@ -2,8 +2,8 @@
 categories:
 - Just Another Day
 author: roy
-date: 2018-11-12 14:06:26
-publishdate: 2018-11-12 14:06:26
+date: 2018-11-12 03:06:26
+publishdate: 2018-11-12 03:06:26
 tags:
 - communication
 title: "Communicating Clearly: \"Next weekend\""

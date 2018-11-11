@@ -5,6 +5,8 @@ date: 2008-02-10 15:18:23
 title: MTG Autocard WordPress Plugin
 type: post
 url: /2008/02/mtg-autocard-wordpress-plugin/
+tags:
+- wordpress
 ---
 
 I had been planning to do this for a while: it's my first WordPress Plugin! Over at

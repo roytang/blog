@@ -1,8 +1,8 @@
 ---
 categories:
 - Just Another Day
-date: 2018-11-13 14:06:26
-publishdate: 2018-11-13 14:06:26
+date: 2018-11-13 03:06:26
+publishdate: 2018-11-13 03:06:26
 tags:
 - communication
 title: "The larger the audience, the more careful you have to be with your words"

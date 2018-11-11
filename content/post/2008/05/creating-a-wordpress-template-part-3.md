@@ -5,6 +5,8 @@ date: 2008-05-12 20:00:00
 title: Creating a WordPress Template Part 3
 type: post
 url: /2008/05/creating-a-wordpress-template-part-3/
+tags:
+- wordpress
 ---
 
 [

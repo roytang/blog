@@ -2,6 +2,8 @@
 author: roy
 categories:
 - Software Development
+tags:
+- wordpress
 date: 2016-06-30 01:30:32
 title: Performance Optimization for WordPress Blogs
 type: post

@@ -6,6 +6,9 @@ date: 2008-07-06 04:55:46
 title: "New WordPress Theme -- Thematic"
 type: post
 url: /2008/07/new-wordpress-theme-thematic/
+tags:
+- wordpress
+
 ---
 
 Changed to [Thematic ][1]
