@@ -30,6 +30,8 @@ def clean_categories():
         with mdfile.open() as f:
             post = frontmatter.load(f)
 
+            has_changes = False
+
             tags = []
             if post.get("tags") != None:
                 tags = post.get("tags")
@@ -39,6 +41,7 @@ def clean_categories():
             newcats = []
             if post.get('categories') == None:
                 post['categories'] = [default_category]
+                has_changes = True
             else: # Categories exists
                 cats = post['categories']
                 if type(cats) == str:
@@ -51,6 +54,7 @@ def clean_categories():
                         newcat = cats_map[cat]
                         # old cat is now a tag
                         tags.append(cat)
+                        has_changes = True
                         if len(newcat) > 0:
                             # move to new cat
                             if newcat not in newcats:
@@ -69,12 +73,9 @@ def clean_categories():
             print(post.get('tags'))
 
             # Save the file.
-            newfile = frontmatter.dumps(post)
-            with mdfile.open("w") as w:
-                w.write(newfile)
-            # fname = str(mdfile)
-            # newfile = io.open(fname, 'w', encoding='utf8')
-            # frontmatter.dump(post, newfile)
-            # newfile.close()            
+            if has_changes:
+                newfile = frontmatter.dumps(post)
+                with mdfile.open("w") as w:
+                    w.write(newfile)
 
 clean_categories()    

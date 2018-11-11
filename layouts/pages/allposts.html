@@ -1,10 +1,10 @@
 {{ partial "head" . }}
 <article id="main-content" class="container main_content single">
 <h3>Archive</h3>
-{{ $all_posts := where .Site.Pages "Section" "posts" }}
+{{ $all_posts := where .Site.Pages "Section" "post" }}
 <em>{{ len ($all_posts) }} posts total</em>
 
-{{ range (where .Site.Pages "Section" "posts").GroupByDate "2006 January" }}
+{{ range (where .Site.Pages "Section" "post").GroupByDate "2006 January" }}
 <h3>{{ .Key }}</h3>
 <ul>
     {{ range .Pages }}

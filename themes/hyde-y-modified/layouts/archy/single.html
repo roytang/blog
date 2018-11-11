@@ -4,7 +4,7 @@
 <article id="main-content" class="container main_content single">
 <h2>Archive for {{ $archYear }}</h2>
 
-{{ range where .Site.Pages "Section" "posts" }}
+{{ range where .Site.Pages "Section" "post" }}
     {{ if eq (.Date.Format "2006") $archYear }}
         {{ .Render "summary" }}
     {{ end }}
