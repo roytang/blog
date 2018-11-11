@@ -1,4 +1,4 @@
-baseURL = "http://hugo.roytang.net/"
+baseURL = "https://roytang.net/"
 languageCode = "en-us"
 title = "roytang.net"
 theme = "hyde-y-modified"
