@@ -6,10 +6,10 @@ month_template = '{"date": "%s-%s-01 00:00:00"}'
 def create_archives():
     # assumes cwd is the blog root
     cwd = Path.cwd() 
-    # navigate to ./content/posts
-    p = cwd / "content" / "posts"
+    # navigate to ./content/post
+    p = cwd / "content" / "post"
     if p.name != "posts":
-        print("Could not find posts folder")
+        print("Could not find post folder")
         return
     # immediately under the posts are the year folders
     for year in p.iterdir():
