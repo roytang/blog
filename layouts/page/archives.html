@@ -3,9 +3,8 @@
 <h3>Post Archives</h3>
 
 <h4>All Posts</h4> 
-{{ $all_posts := where .Site.Pages "Section" "posts" }}
+{{ $all_posts := where .Site.Pages "Section" "post" }}
 <p>If you'd like a listing of all {{ len ($all_posts) }} posts in a single page, click <a href='{{ "/allposts/" | absURL }}'>here</a></p>
-
 
 <h4>All Posts by Date</h4>
 
@@ -27,7 +26,7 @@
         <th>Dec</th>
         <th>Total</th>
     </tr>
-{{ range (where .Site.Pages "Section" "posts").GroupByDate "2006" }}
+{{ range (where .Site.Pages "Section" "post").GroupByDate "2006" }}
 <tr>
     <th>{{ .Key }}</th>
     <!-- curr month is a loop index to count table cells -->
