@@ -3,13 +3,13 @@ title: Resume
 author: roy
 type: page
 date: 2018-04-15T05:26:37+00:00
-
+url: /resume
 ---
 ## Stephen Roy J. Tang
 
 ### Senior Software Consultant, Solution Architect
 
-I am available for consulting opportunities.
+**Summary**: I have been working professionally as a software developer, technical lead and solution architect since 2003. I have a wide variety of experience with different languages and frameworks, primarily Java, JavaScript and Python, though I am very open to learning new technologies. I am available for consulting opportunities. I prefer remote work.
 
 * * *
 
