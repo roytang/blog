@@ -19,6 +19,7 @@ disqusShortname = "roytangweblog"
     email = "awesome@roytang.net"
 
 [permalinks]
+    post = "/:year/:month/:slug/"
     archm = "/:year/:month/"
     archy = "/:year/"    
 
