@@ -2,13 +2,19 @@
 <article id="main-content" class="container main_content single">
 <h3>Post Archives</h3>
 
+{{ $scratch := newScratch }}
+
 <h4>All Posts</h4> 
 {{ $all_posts := where .Site.Pages "Section" "post" }}
-<p>If you'd like a listing of all {{ len ($all_posts) }} posts in a single page, click <a href='{{ "/allposts/" | absURL }}'>here</a></p>
+{{ $scratch.Set "TotalWordCount" 0 }}
+{{ range $all_posts }}
+    {{ $scratch.Add "TotalWordCount" .WordCount }}
+{{ end }}
+<p>If you'd like a listing of all {{ len ($all_posts) }} posts in a single page, click <a href='{{ "/allposts/" | absURL }}'>here</a>. {{ $scratch.Get "TotalWordCount" }} total words!</p>
 
 <h4>All Posts by Date</h4>
 
-{{ $scratch := newScratch }}
+<p>I've been blogging since 2002! Click on the post counts below to view the posts by year or month.</p>
 <table class="grid_archive">
     <tr>
         <th>Year</th>
