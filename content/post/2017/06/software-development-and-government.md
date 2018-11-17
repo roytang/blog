@@ -11,9 +11,9 @@ url: /2017/06/software-development-and-government/
 
 Random thoughts while walking at night: The structure of government can be a bit analogous to the structure of a software development project.
 
-The **Constitution** is like the **requirements** for a project. It's kind of high-level and (I believe) shouldn't be too detailed. Supposedly the requirements are written by the client. For a country like the Philippines the client is &#8220;we the sovereign Filipino people&#8221;.
+The **Constitution** is like the **requirements** for a project. It's kind of high-level and (I believe) shouldn't be too detailed. Supposedly the requirements are written by the client. For a country like the Philippines the client is "we the sovereign Filipino people&#8221;.
 
-Slight tangent: I used to know this guy who was one of those rabid &#8220;we need to amend the constitution&#8221; types and he asked me to review a &#8220;mathematical model to track the budget as a function of tax collection and monetary policy&#8221; that he wanted to include in a proposed new constitution. I told him I didn't believe such detailed rules shouldn't be in the constitution &#8211; that would unnecessarily tie us down to a specific model that we may or may not regret later on. I ended up declining to help him with his strange hobby.
+Slight tangent: I used to know this guy who was one of those rabid "we need to amend the constitution&#8221; types and he asked me to review a "mathematical model to track the budget as a function of tax collection and monetary policy&#8221; that he wanted to include in a proposed new constitution. I told him I didn't believe such detailed rules shouldn't be in the constitution &#8211; that would unnecessarily tie us down to a specific model that we may or may not regret later on. I ended up declining to help him with his strange hobby.
 
 The **Legislative branch** are the a**nalysts**. They make the detailed specs/laws to define how we're going to satisfy the requirements/constitution. In a real project, the client usually signs off on the specs. In government, we supposedly sign off when we vote for the legislators.
 

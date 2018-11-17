@@ -16,7 +16,7 @@ If you're reading this, that means I've done it: I've read the first eight issue
 
 **Justice League**
 
-While the art is Jim Lee-fantastic, the first story arc left much to be desired. It was basically a meet-and-greet where we're introduced to the team members and after a while they knock Darkseid back down a boom tube. Nothing overly complicated, and it would be okay for an introductory arc if it didn't take six issues to get to that point. (By comparison, Morrison's far more interesting White Martian arc that launched the JLA book in 1997 finished in four issues). The characters aren't particularly fleshed out, which is fine. Justice League books have always been more about the powers and big epic battles than serious characterization, though hopefully Geoff Johns can sneak in something more than a &#8220;Hal Jordan is shallow&#8221; joke every once in a while. They're starting a new story arc with issue #9, and based on the FCBD DC New 52 book, they have a Trinity War story arc coming up next year, so hopefully the book picks up the pace.
+While the art is Jim Lee-fantastic, the first story arc left much to be desired. It was basically a meet-and-greet where we're introduced to the team members and after a while they knock Darkseid back down a boom tube. Nothing overly complicated, and it would be okay for an introductory arc if it didn't take six issues to get to that point. (By comparison, Morrison's far more interesting White Martian arc that launched the JLA book in 1997 finished in four issues). The characters aren't particularly fleshed out, which is fine. Justice League books have always been more about the powers and big epic battles than serious characterization, though hopefully Geoff Johns can sneak in something more than a "Hal Jordan is shallow&#8221; joke every once in a while. They're starting a new story arc with issue #9, and based on the FCBD DC New 52 book, they have a Trinity War story arc coming up next year, so hopefully the book picks up the pace.
 
 **Justice League International**
 
@@ -24,7 +24,7 @@ Reading this book feels like watching the animated Justice League Unlimited seri
 
 **Aquaman**
 
-It's nice that the book is really meta about Aquaman's status as a Justice League member, implying he's the butt of jokes even in the actual DC universe. The stories so far have been entertaining, and the characterization of Arthur and Mera have been okay; Johns' writing is better here than in Justice League so far. The art looks nice, though not spectacular. The ongoing &#8220;The Others&#8221; storyline seems to have promise, hopefully we'll see some epic Aquaman arcs. Not sure if I miss the hook from Peter David's days.
+It's nice that the book is really meta about Aquaman's status as a Justice League member, implying he's the butt of jokes even in the actual DC universe. The stories so far have been entertaining, and the characterization of Arthur and Mera have been okay; Johns' writing is better here than in Justice League so far. The art looks nice, though not spectacular. The ongoing "The Others&#8221; storyline seems to have promise, hopefully we'll see some epic Aquaman arcs. Not sure if I miss the hook from Peter David's days.
 
 **Wonder Woman**
 
@@ -36,7 +36,7 @@ Barry Allen is back as the only Flash in the DCnU, though we'll see how long tha
 
 **Captain Atom**
 
-So far the art on this book hasn't been very appealing to me. The story line is a lot of &#8220;oh no, I'm having trouble controlling my powers and the norms don't trust me&#8221;. I'm not sure what his range of powers were pre-New 52, but the way it's described here he's basically able to do anything, including time travel, matter transformation, etc. Anything except FIND LOVE. The book is meh, I wouldn't mind losing it.
+So far the art on this book hasn't been very appealing to me. The story line is a lot of "oh no, I'm having trouble controlling my powers and the norms don't trust me&#8221;. I'm not sure what his range of powers were pre-New 52, but the way it's described here he's basically able to do anything, including time travel, matter transformation, etc. Anything except FIND LOVE. The book is meh, I wouldn't mind losing it.
 
 **The Fury of Firestorm**
 

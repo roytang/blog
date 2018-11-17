@@ -142,7 +142,7 @@ Tournament record: 5-2. I finished the PTQ in 14th place, good enough to win 4 b
 
 I watched the finals of the Grand Prix of course. The official coverage is okay, but it doesn't capture some of the unique FIlipino elements. Even though I was still playing in the PTQ during the quarters, we immediately knew that Luis Magisa had won his match since every Filipino in the crowd watching literally burst into cheers. Contrast to the lackluster clapping when Magisa lost to a Japanese Faerie player in the semis.
 
-During the awarding ceremony, the crowd was very rowdy, chanting &#8220;Burger! Burger!&#8221; when Luis Magisa accepted his giant check. (
+During the awarding ceremony, the crowd was very rowdy, chanting "Burger! Burger!&#8221; when Luis Magisa accepted his giant check. (
    
 [
     

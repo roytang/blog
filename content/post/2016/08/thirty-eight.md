@@ -33,7 +33,7 @@ Thirty eight lessons I've learned through the years, in no particular order:
  21. All things, whether good or bad, shall eventually pass. Enjoy the good while it lasts, persist through the bad until you make it through
  22. Avoid doing or saying things in anger or hatred
  23. Things change and people change, sometimes for reasons we can't ever explain. Learn to roll with life's punches
- 24. The world is filled with people who are terrible, cruel, or manipulative. That doesn't mean there aren't good people out there and that doesn't mean you should mistrust everybody. &#8220;Do not let the world make you hard&#8221;
+ 24. The world is filled with people who are terrible, cruel, or manipulative. That doesn't mean there aren't good people out there and that doesn't mean you should mistrust everybody. "Do not let the world make you hard&#8221;
  25. Don't worry too much about things that you can't understand or can't change. Focus only on things you can affect and that matter to you
  26. Quality is nice, but quantity often works too. Many failed or mediocre attempts will eventually converge towards a quality success
  27. Learn to accept when things need to end. Let go or be dragged

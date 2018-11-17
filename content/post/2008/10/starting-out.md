@@ -31,7 +31,7 @@ the blog app has mappings for
 
 &#8216;^post/([A-Za-z\-])/' -> post detail
 
-inside the view, I want to redirect to &#8220;post/&#8221;, but with respect to the app, it should be &#8220;blog/post/&#8221;
+inside the view, I want to redirect to "post/&#8221;, but with respect to the app, it should be "blog/post/&#8221;
 
 I should subscribe to one of the Django mailing lists to ask stuff like this.
 

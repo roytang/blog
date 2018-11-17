@@ -104,7 +104,7 @@ Instead of doing a lame movie review, here's a double header feature!
     </td>
     
     <td>
-      Shia Lebouf, famous for appearing in Transformers. Homer Simpson describes him as &#8220;not quite a nerd, not quite a hunk.&#8221; Makes me think of Bumblebee.
+      Shia Lebouf, famous for appearing in Transformers. Homer Simpson describes him as "not quite a nerd, not quite a hunk.&#8221; Makes me think of Bumblebee.
     </td>
     
     <th>

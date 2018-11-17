@@ -22,7 +22,7 @@ I've lost count of the number of times I've premeditated how easy it would be to
 
 Mall security is even worse, those inspections done by security guards at mall entrances are a waste of time. At least the MRT guys have the excuse that they have to deal with droves of people at a time; There are mall entrances where they barely glance at your stuff in a routine manner; you could be sneaking in a decapitated human head in a plastic bag and they wouldn't notice. The only criminals that would be stopped by these half-hearted measures are the stupid ones. The smart (hence dangerous) ones would easily breeze through.
 
-Not that I _want _the hassle of through security checks mind you. It's just that the current practices seem pretty much a waste of time, when these inspections are just to show the public that MRTs/Malls are &#8220;safe.&#8221;
+Not that I _want _the hassle of through security checks mind you. It's just that the current practices seem pretty much a waste of time, when these inspections are just to show the public that MRTs/Malls are "safe.&#8221;
 
 Edit 14/Feb:
   

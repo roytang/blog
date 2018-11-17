@@ -156,7 +156,7 @@ Wow! This is the matchup I was prepared for! I should totally dominate this.
 
 Obviously, my lack of play testing killed me here.
 
-Game one I cleared his Faeries with spot removal, then when the coast was clear, inexplicably decided to hardcast a Cloudthresher (&#8220;Now it's my turn to attack!&#8221;) Of course he played the Sower, and I was out of burn. Trying to go aggro when I was obviously the control in this matchup&#8230;&#8221;Misassignment of role = game loss&#8221;
+Game one I cleared his Faeries with spot removal, then when the coast was clear, inexplicably decided to hardcast a Cloudthresher ("Now it's my turn to attack!&#8221;) Of course he played the Sower, and I was out of burn. Trying to go aggro when I was obviously the control in this matchup&#8230;&#8221;Misassignment of role = game loss&#8221;
 
 Game two I played a bit better, and the game went long, but I still lost to a misplay. I needed to play a 3 damage burn spell so that Bitterblossom would kill him, and having both Incinerate and Sulfurous Blast in my hand, I went for the greedy blast, hoping to clear away the Faeries on board as well. Of course I then got hit by an Rune Snag that I could've paid for if I had played the Incinerate instead! I got too greedy and didn't think it through&#8230;clearing the Faeries on board wouldn't have mattered as long as I won the game.
 

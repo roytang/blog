@@ -18,10 +18,10 @@ Well, social media is a perfectly valid channel to post your thoughts obviously.
 Here are the obvious differences/advantages of blogging:
 
   1. Blogs are publicly accessible commentary. Contrast this with Facebook, which I use mostly for interacting only with family and friends. I sometimes make some FB posts public, but mostly on request because people want to share it. It would make more sense for me to have such content on the blog so that people can share it directly without me having to fiddle with post privacy settings on FB.
-  2. Blogs are long-form. Contrast this with Twitter's post-length limitation and even Facebook where I also tend to spout out one-liners or short paragraphs. I like a blog post for longer, more detailed content. Twitter users use workarounds like the &#8220;1/N&#8221; format to post longer text content, but I'm not really a big fan of that.
+  2. Blogs are long-form. Contrast this with Twitter's post-length limitation and even Facebook where I also tend to spout out one-liners or short paragraphs. I like a blog post for longer, more detailed content. Twitter users use workarounds like the "1/N&#8221; format to post longer text content, but I'm not really a big fan of that.
   3. A blog should contain your own content. Contrast this with almost all social media where your own content is interspersed with retweets, shares, reblogs, and so on.
   4. Blogs are searchable, either using your internal search form (I have one on the sidebar!) or via Google search. It's a bit annoying sometimes trying to scroll through your FB or Twitter timeline trying to find something.
-  5. The above point means social media posts feel a lot more&#8230; ephemeral, maybe? I consider blog posts a lot more &#8220;permanent&#8221;, while social media are more of &#8220;at this point in time.&#8221;
+  5. The above point means social media posts feel a lot more&#8230; ephemeral, maybe? I consider blog posts a lot more "permanent&#8221;, while social media are more of "at this point in time.&#8221;
   6. Blogs are under your control. You're not subject to someone else's moderation. Of course that also means you're on your own if you get DDOS'ed or such hehe. Well, there's pros and cons of course.
   7. You can still push your blog content to your other social media channels. I have systems set up to push my blog posts to Twitter, Facebook and Tumblr.
 

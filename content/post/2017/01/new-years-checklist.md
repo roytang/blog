@@ -18,14 +18,14 @@ In no particular order:
   * Count your blessings for the past year and be grateful
   * Change your passwords
   * Buy a new toothbrush
-  * Make a New Year's joke (&#8220;My New Year's Resolution is 1440&#215;900!&#8221;)
+  * Make a New Year's joke ("My New Year's Resolution is 1440&#215;900!&#8221;)
   * Set a target of how many books you'll read in 2017
   * Choose the first book to read
   * Throw away a few things you no longer need
   * Make a list of where you will travel to in 2017
   * Check out what movies are coming out this year and which ones you want to watch
   * Audit your financials &#8211; where is your money going, how much do you owe, how much are you earning, where should you invest, etc
-  * Make another New Year's joke (&#8220;I haven't taken a bath since last year!&#8221;)
+  * Make another New Year's joke ("I haven't taken a bath since last year!&#8221;)
   * Pick up your keyboard and shake out all the grime that's gathered there over the past year
   * Make a list of projects you want to do in 2017
   * Choose something from the past year that you're going to stop watching or doing

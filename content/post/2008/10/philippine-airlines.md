@@ -13,7 +13,7 @@ Wow. Their session timeout value is somewhere between five to ten minutes, close
 
 Anyway, I figure the credit card hasn't been charged yet since I timed out while entering the CC details, so I go to try again. Search for the flight&#8230;wait, the one with the cheap rate was no longer available!
 
-I figure that while I was selecting dates the first time through their Online Booking application, the backend marked the last seat on that flight as &#8220;Reserved&#8221; under my uncle's name, but since I timed out before I could pay that seat may now be lost forever.
+I figure that while I was selecting dates the first time through their Online Booking application, the backend marked the last seat on that flight as "Reserved&#8221; under my uncle's name, but since I timed out before I could pay that seat may now be lost forever.
 
 I figure they probably have some sort of cleanup if the booking hasn't been confirmed (i.e. paid for), so I leave the website for a bit then come back later. I search again, and the cheap flight is there! I get my dad's credit card and proceed to go through the steps again. I get to the credit card form and input the details and click submit. Yay, it's verifying! Checking the status bar though, it seems to be verifying against a MasterCard URL&#8230;but the card I used was a Visa!I was in such a hurry I forgot to tick MasterCard.
 
@@ -21,7 +21,7 @@ Unbelievably, the credit card verification was being done from my machine (since
 
 Okay, this time it was my fault. No sweat, I'll wait for the website to fail the verification then re-input the credit card details. So I wait. Then wait some more. The website is taking forever and not doing anything. Firefox prompts that the website tried to show a popup. I right-click and enable pop-ups for the website, nothing though. I wait some more.
 
-Damnit, I finally reload the page to find that &#8220;my session has expired.&#8221; Sure enough, I tried to search for the cheap flight and it was no longer available AGAIN.
+Damnit, I finally reload the page to find that "my session has expired.&#8221; Sure enough, I tried to search for the cheap flight and it was no longer available AGAIN.
 
 I give up. I'm not going to try again. Seriously this time. I'll give the credit card back to my dad and just tell him to book manually (and to double check that the card has not been charged.)
 

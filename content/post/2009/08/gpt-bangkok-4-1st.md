@@ -592,7 +592,7 @@ Game 1 I start with [Soul Warden][22] He starts with turn 2 [Sage Owl][23] and t
 
 Game 2 He plays 2nd turn [Sage Owl][23]. It seems he's sided in [Alluring Sirens][28] which makes a bunch of my [Illusionary Servant][29]s pretty bad. Somehow I manage to counter the relevant spells and run him out of gas to steal the win.
 
-Game 3 He plays 2nd turn [Sage Owl][23]. I joke about asking for a deck check on those Owls. I'm losing badly, stalling at four lands. I'm at five life and about to die the next turn when I draw my fifth land. &#8220;You have one card in hand right?&#8221; I ask him. Hoping he has no removal left, I play the [Baneslayer Angel][19]. He draws no Doom Blades or Tendrils and the angel is impossible to race with, so I take the game from there.
+Game 3 He plays 2nd turn [Sage Owl][23]. I joke about asking for a deck check on those Owls. I'm losing badly, stalling at four lands. I'm at five life and about to die the next turn when I draw my fifth land. "You have one card in hand right?&#8221; I ask him. Hoping he has no removal left, I play the [Baneslayer Angel][19]. He draws no Doom Blades or Tendrils and the angel is impossible to race with, so I take the game from there.
 
 Although the draft and the actual quarters match was more luck than skill, a win's a win, so I [posted on Twitter][30] as soon as I got home.
 

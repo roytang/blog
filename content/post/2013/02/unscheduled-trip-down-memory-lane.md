@@ -10,7 +10,7 @@ type: post
 url: /2013/02/unscheduled-trip-down-memory-lane/
 ---
 
-&#8220;_Sir, baka pwedeng lipat na lang kayo ng taxi_,&#8221; the driver said to me apologetically. &#8220;_Hindi na po kasi ako aabot sa garage sa Sta. Mesa._&#8221; He offered to drop the flag-down fee from the fare so I just agreed. I got off and looked around.
+"_Sir, baka pwedeng lipat na lang kayo ng taxi_,&#8221; the driver said to me apologetically. "_Hindi na po kasi ako aabot sa garage sa Sta. Mesa._&#8221; He offered to drop the flag-down fee from the fare so I just agreed. I got off and looked around.
 
 One of the reasons I agreed to let him off despite the late hour was that I knew the place where we were passing by &#8211; a well lit area where I could easily get another taxi or take an alternative form of transportation if needed &#8211; it was the neighborhood I grew up in. And by some happenstance the exact spot where I got off was right across the corner near my grandparents' old house where we used to live ten-odd years ago. No more than thirty to forty meters away was where most of my childhood took place.
 
@@ -32,7 +32,7 @@ Across the street from where the house used to be, I remembered there being a wi
 
 I had back up the street and down the main road in front of the Mercury Drug and cross back to where the taxi had dropped me off. That side had a different set of shops that I remember, but there was still that small hole-in-the-wall barbershop where my dad would take us for haircuts. Our favorite barber was this small guy who was always smiling but I don't even remember his name right now.
 
-I looked back to the other side of the street and saw the police station a few meters away from the Mercury Drug. That police station used to be a small and simple one-story affair. Now it was a well-polished two-story building and it had what looked like new police cars parked just outside. There used to be a small side street beside the police station which led between the houses back to the fork in the road, and when we were kids we often went down that pass as a &#8220;shortcut&#8221;. I don't think it was ever really faster to take that route but as a kid you often found enjoyment in just passing down a different route.
+I looked back to the other side of the street and saw the police station a few meters away from the Mercury Drug. That police station used to be a small and simple one-story affair. Now it was a well-polished two-story building and it had what looked like new police cars parked just outside. There used to be a small side street beside the police station which led between the houses back to the fork in the road, and when we were kids we often went down that pass as a "shortcut&#8221;. I don't think it was ever really faster to take that route but as a kid you often found enjoyment in just passing down a different route.
 
 I walked a few meters away from the Mercury Drug towards the next corner. On that corner there used to be a shop that would rent out betamax and VHS movies. They also had Family Computers for rent that my brother and I would sometimes play at on weekends. Even though we had a NES at home, that shop had games we didn't have and I had my first encounter with a romhack here (though I didn't know it at the time) when we played a cartridge that claimed to be Super Mario Brothers 4. The shop was no longer there, I believe it had closed up years before we moved. The corner was now occupied by a small _carinderia_ but with the same name as the old shop. probably owned by the same people.
 

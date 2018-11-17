@@ -21,7 +21,7 @@ Round 2 vs The Masterpiece
    
 
    
-It was my first time seeing the Masterpiece and action, and to be honest, the first few turns weren't very impressive. We traded Hierarchs, creatures were killed by spot removal, it was an even game. Then he plays an Arena, and I realize &#8220;It's over.&#8221; I can match him threat for threat, but he's drawing a lot more than I am, and I don't draw into the maindecked Stomphowler. Game 2 goes pretty much the same way, except I get hit by Persecute &#8211; White&#8230;and the secret of this deck is 80% of my spells are white! I go down to one card in hand. He Cranials the 4 Wrath of Gods and the 4 Firemane Angels&#8230;and there's no recovering from that.
+It was my first time seeing the Masterpiece and action, and to be honest, the first few turns weren't very impressive. We traded Hierarchs, creatures were killed by spot removal, it was an even game. Then he plays an Arena, and I realize "It's over.&#8221; I can match him threat for threat, but he's drawing a lot more than I am, and I don't draw into the maindecked Stomphowler. Game 2 goes pretty much the same way, except I get hit by Persecute &#8211; White&#8230;and the secret of this deck is 80% of my spells are white! I go down to one card in hand. He Cranials the 4 Wrath of Gods and the 4 Firemane Angels&#8230;and there's no recovering from that.
 
 Round 3 vs Owling Mine
    

@@ -14,15 +14,15 @@ A [recent post on Wait But Why][1] had me thinking about lying.
 
 Some people will scoff if I say I don't lie. They're not wrong. I once spun a tall tale about a childhood rival I had visited in the province who challenged me to a swimming contest to explain [why I had lost my glasses to the sea][3]. The lie was so good, I got a follow-up question about it a year later and was so surprised I just blurted out that my rival died in accident before finally admitting to the fib
 
-But I will intentionally lie often only for fun or mischief, or in the rare case, to protect someone or avoid some problem or injustice. Even for that last scenario I will try to avoid it as much as possible. I am more likely to stay quiet or avoid discussion or maybe even stretch the truth a bit to &#8220;technically correct&#8221;, but I try to avoid any outright falsehoods unless absolutely necessary
+But I will intentionally lie often only for fun or mischief, or in the rare case, to protect someone or avoid some problem or injustice. Even for that last scenario I will try to avoid it as much as possible. I am more likely to stay quiet or avoid discussion or maybe even stretch the truth a bit to "technically correct&#8221;, but I try to avoid any outright falsehoods unless absolutely necessary
 
 For this same reason, I kind of have the same aversion to any form of salesmanship, although I am occasionally told that I am good at writing copy. At work I was sometimes asked to write some response to questions in a tender that would be less than honest.
 
-> &#8220;We don't have this feature, how should I respond?&#8221;
+> "We don't have this feature, how should I respond?&#8221;
 > 
-> &#8220;Just say we have it.&#8221;
+> "Just say we have it.&#8221;
 > 
-> &#8220;But we don't. How about I just write that this feature will be available?&#8221;
+> "But we don't. How about I just write that this feature will be available?&#8221;
 
 You can see the use of optimistic future tense to stretch the truth a bit. At one point a higher-up even told me that all the other suppliers do that to, as if that justifies it. Being asked to outright be dishonest was stressful for me at best so I later on learned to avoid such tasks altogether.
 

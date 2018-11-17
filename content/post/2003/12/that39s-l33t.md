@@ -3,7 +3,7 @@ author: roy
 categories:
 - Software Development
 date: 2003-12-12 14:05:46
-title: "That's L33T\xE2\u20AC\xA6"
+title: "That's L33T"
 type: post
 url: /2003/12/that39s-l33t/
 ---

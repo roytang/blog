@@ -2,9 +2,9 @@
 categories:
 - Gaming
 date: 2006-04-13 06:50:08
-title: 'Contrast: Suikoden V vs Baldur&#39;s Gate 2'
+title: "Contrast: Suikoden V vs Baldur's Gate 2"
 type: post
-url: /2006/04/contrast-suikoden-v-vs-baldur39s-gate-2/
+url: /2006/04/contrast-suikoden-v-vs-baldurs-gate-2/
 ---
 
 One would think it an unfair comparision, seeing as how BG2 is at least 5 years older that Suiko5. But BG2 holds up pretty well, I end having a mental coin toss as to which game I will play at any one time. They both have their merits.

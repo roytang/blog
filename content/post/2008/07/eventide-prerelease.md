@@ -185,7 +185,7 @@ Switch
    
 ][12] 
    
-, who cardpools with me and was one of the people I came to the prerelease with. Not cool, but we don't have a choice. We get the pack either way, so we just play for the win on the record. I get in an aggro start &#8211; &#8220;I want to win the game,&#8221; showing Scourge of the Nobilis &#8211; and win in two.
+, who cardpools with me and was one of the people I came to the prerelease with. Not cool, but we don't have a choice. We get the pack either way, so we just play for the win on the record. I get in an aggro start &#8211; "I want to win the game,&#8221; showing Scourge of the Nobilis &#8211; and win in two.
 
 Switch and I win five packs between the two of us, but we open more unexciting rares (R/U liege for the lose!). So far I'm still not too excited about Eventide, or Magic in general these past few weeks to be honest. I'm more interested in Block than Standard, but Block seems to be dominated by Faeries, which I find annoying. I hope Eventide shakes up the block meta enough so that it's more varied by the time Grand Prix Manila rolls around.
 

@@ -8,7 +8,7 @@ type: post
 url: /2008/07/flocking/
 ---
 
-I'm not sure why but I decided to try out the [Flock 2][1] web browser beta, the &#8220;social web browser&#8221; built on top of Firefox.
+I'm not sure why but I decided to try out the [Flock 2][1] web browser beta, the "social web browser&#8221; built on top of Firefox.
 
 This is a test actually. Flock's blog post dialog doesn't seem to provide any category support (it supports tags instead), so I want to see what category this post would go under.
   

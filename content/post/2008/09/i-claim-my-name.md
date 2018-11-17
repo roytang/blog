@@ -8,7 +8,7 @@ type: post
 url: /2008/09/i-claim-my-name/
 ---
 
-After trying out [usernamecheck.com][1], I decided to try claiming my username &#8220;roytang&#8221; at various websites. Here's a list of various websites where I have this username.
+After trying out [usernamecheck.com][1], I decided to try claiming my username "roytang&#8221; at various websites. Here's a list of various websites where I have this username.
 
 <http://friendfeed.com/roytang>&#8211; This one actually seems useful.
   
@@ -28,7 +28,7 @@ After trying out [usernamecheck.com][1], I decided to try claiming my username 
 
 There's probably more. Sometimes when I see a random website I try out my username to see if I've registered before and this is successful more often than I expect.
 
-Some &#8220;roytang&#8221;s on the web that are not me:
+Some "roytang&#8221;s on the web that are not me:
 
 http://roytang.blogspot.com &#8211; _obviously _not me
 

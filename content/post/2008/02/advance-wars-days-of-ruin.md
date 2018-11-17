@@ -24,6 +24,6 @@ Cons:
 
 &#8211; Too few COs and not enough variation
 
-&#8211; The whole &#8220;darker tone&#8221; thing they have going. The game is now set in a post-apocalyptic world. That would be fine, I have no problems with it. Except I liked the old one!
+&#8211; The whole "darker tone&#8221; thing they have going. The game is now set in a post-apocalyptic world. That would be fine, I have no problems with it. Except I liked the old one!
 
 All in all, the game is ok, although I miss the COs from AWDS.

@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Travels
 date: 2006-11-21 04:45:49
-title: "I'm Going to HK\xE2\u20AC\xA6Again"
+title: "I'm Going to HKAgain"
 type: post
 url: /2006/11/i39m-going-to-hk-again/
 ---

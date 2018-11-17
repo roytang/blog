@@ -10,9 +10,9 @@ url: /2008/03/how-a-coworker-thinks-i-would-blog/
 
 <span style="font-size: small;"><span style="color: #204a87;">(02:25:57 PHT) </span></span><span style="color: #204a87;"><strong><span style="font-size: medium;">Roy: </span></strong></span><span style="font-size: medium;">do you really think I would be emo? :p</span>
 
-<span style="font-size: small;"><span style="color: #cc0000;">(02:27:14 PHT) <span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">&#8220;&#8230; i looked at the screen&#8230; it did not look back at me&#8230; why? why? why must it be this f***** way..&#8221;<br /> </span>
+<span style="font-size: small;"><span style="color: #cc0000;">(02:27:14 PHT) <span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">"&#8230; i looked at the screen&#8230; it did not look back at me&#8230; why? why? why must it be this f***** way..&#8221;<br /> </span>
 
-<span style="font-size: small;"><span style="color: #cc0000;">(02:28:08 PHT) </span></span><span style="font-size: small;"><span style="color: #cc0000;"><span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">&#8220;&#8230; i pressed ctrl+b&#8230; the words did not become bold as i expected&#8230; instead, my data was lost when i save done&#8230; (sadness, grief&#8230;. despair)&#8221;<br /> </span>
+<span style="font-size: small;"><span style="color: #cc0000;">(02:28:08 PHT) </span></span><span style="font-size: small;"><span style="color: #cc0000;"><span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">"&#8230; i pressed ctrl+b&#8230; the words did not become bold as i expected&#8230; instead, my data was lost when i save done&#8230; (sadness, grief&#8230;. despair)&#8221;<br /> </span>
 
 <span style="font-size: small;"><span style="color: #204a87;">(02:28:16 PHT) </span></span><span style="color: #204a87;"><strong><span style="font-size: medium;">Roy: </span></strong></span><span style="font-size: medium;">hahaha<br /> </span>
 
@@ -26,7 +26,7 @@ url: /2008/03/how-a-coworker-thinks-i-would-blog/
 
 <span style="font-size: small;"><span style="color: #cc0000;">(02:29:01 PHT) </span></span><span style="font-size: small;"><span style="color: #cc0000;"><span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">ah alam ko na&#8230;<br /> </span>
 
-<span style="font-size: small;"><span style="color: #cc0000;">(02:29:37 PHT) </span></span><span style="font-size: small;"><span style="color: #cc0000;"><span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">&#8220;why does the tab key not work consistently&#8230; it's equivalent to 2 spaces in one application&#8230; 4 in another&#8230; the inconsistencies! curses!&#8221;<br /> </span>
+<span style="font-size: small;"><span style="color: #cc0000;">(02:29:37 PHT) </span></span><span style="font-size: small;"><span style="color: #cc0000;"><span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">"why does the tab key not work consistently&#8230; it's equivalent to 2 spaces in one application&#8230; 4 in another&#8230; the inconsistencies! curses!&#8221;<br /> </span>
 
 ## Comments
 

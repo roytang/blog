@@ -36,11 +36,11 @@ HDD: Seagate 2tb
   
 OS: Windows 8.1 OEM which I immediately upgraded to Windows 10 (upgrade was free at that time)
 
-This cost significantly more than any desktop I had assembled before, but it's worth it. Still going strong up to now. Can easily handle most programming tasks I throw at it, including the notoriously resource-hungry Android development process and of course Google Chrome. Pretty good for gaming as well, although I'm not really the &#8220;4k 120fps&#8221; kind of gamer.
+This cost significantly more than any desktop I had assembled before, but it's worth it. Still going strong up to now. Can easily handle most programming tasks I throw at it, including the notoriously resource-hungry Android development process and of course Google Chrome. Pretty good for gaming as well, although I'm not really the "4k 120fps&#8221; kind of gamer.
 
 I have two old monitors (a 19&#8243; and a 21&#8243;) hooked up to this desktop (haven't bothered buying a new monitor&#8230; it's on my list).
 
-Late last year I also impulse-bought a Razer Blackwidow Ultimate 2016, I'm mostly happy with it (it's my first &#8220;real&#8221; mechanical keyboard&#8221;) Recently one of the keys has been acting up, being a bit unresponsive but it got better after I removed the keycaps and cleaned up a bit under there.
+Late last year I also impulse-bought a Razer Blackwidow Ultimate 2016, I'm mostly happy with it (it's my first "real&#8221; mechanical keyboard&#8221;) Recently one of the keys has been acting up, being a bit unresponsive but it got better after I removed the keycaps and cleaned up a bit under there.
 
 <a title="Moved the tower case under the desk to get a bit more desk space. Will see if this works" href="https://www.flickr.com/photos/zroytang/39679697811/in/dateposted-public/" data-flickr-embed="true"><img src="https://farm5.staticflickr.com/4755/39679697811_83bca326de_b.jpg" alt="Moved the tower case under the desk to get a bit more desk space. Will see if this works" width="720" height="720" /></a>
 
@@ -78,7 +78,7 @@ As you can see above, I also have a much wider desk now than the dinky old compu
 
 **Text Editor.** These days any programming I do usually involves some combination of Python, JavaScript/Node or PHP, so the text editor is my weapon of choice. I tried [Atom][5] for a while, but it was a tad too slow for my tastes. I also tried [Sublime Text][6], which is great and has everything I need but for some reason keeps nagging me to pay for it. Recently I installed [VS Code][7], which has been pretty good so far so for now it's my main editor.
 
-**Other Programming Stuff.** For times that I need to dig into any Java stuff, I also still have an installation of [Eclipse Mars][8] on my machine. (I don't miss Eclipse). I also have Unity3d installed on my desktop, as I still like to pretend I have time to work on one of my gamedev projects. For SSH, I used to use Putty, but lately I discovered the great [&#8220;Bash on Ubuntu on Windows&#8221;][9]. The name is a handful, but it makes doing Linux shell stuff like SSH and curl and whatever a lot easier.
+**Other Programming Stuff.** For times that I need to dig into any Java stuff, I also still have an installation of [Eclipse Mars][8] on my machine. (I don't miss Eclipse). I also have Unity3d installed on my desktop, as I still like to pretend I have time to work on one of my gamedev projects. For SSH, I used to use Putty, but lately I discovered the great ["Bash on Ubuntu on Windows&#8221;][9]. The name is a handful, but it makes doing Linux shell stuff like SSH and curl and whatever a lot easier.
 
 **Web Browser.** Most of my work is web-related and I often use cloud resources, so the web browser is important. I recently switched from Google Chrome to Mozilla Firefox as my main browser, since the latest Firefox promised a bunch of speed improvements. TBH, I can't quite tell the difference.
 

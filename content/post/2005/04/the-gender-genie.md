@@ -14,7 +14,7 @@ The Gender Genie
   
 ][1] 
 
-Apparently, according to this handy web tool, I write like a girl, or at least I do when my posts exceed 500 words. How embarassing! Apparently I should be using more masculine words like &#8220;the&#8221;, &#8220;good&#8221; and &#8220;something&#8221; rather than feminine words like &#8220;but&#8221; and &#8220;actually&#8221;!
+Apparently, according to this handy web tool, I write like a girl, or at least I do when my posts exceed 500 words. How embarassing! Apparently I should be using more masculine words like "the&#8221;, "good&#8221; and "something&#8221; rather than feminine words like "but&#8221; and "actually&#8221;!
 
 Noted!
 

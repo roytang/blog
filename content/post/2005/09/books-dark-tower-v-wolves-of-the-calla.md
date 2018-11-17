@@ -12,7 +12,7 @@ url: /2005/09/books-dark-tower-v-wolves-of-the-calla/
 
 _
   
-&#8220;There will be water if ka wills it.&#8221; &#8211; Roland of Gilead
+"There will be water if ka wills it.&#8221; &#8211; Roland of Gilead
   
 _ 
 
@@ -20,7 +20,7 @@ I had a Powerbooks gift certificate the other week, and the Powerbooks at Megama
 
 And so it was that I once again journeyed into the world/s of the Dark Tower, following the path of Roland of Gilead and his ka-tet of gunslingers along the path of the Beam, heading inexporably towards the Dark Tower.
 
-The Dark Tower series has always been a weird sort of hybrid. Primarily a western, set in a fantasy multiverse which intersects with multiple versions of our own reality, Roland and his posse find themselves facing robots, bears, wizards, psychotic trains, undead and such. This time they face &#8220;Wolves&#8221;, an unknown new enemy who plague a farming community along the path of the Beam. Like any good RPG-party, the gunslingers decide to offer aid to the people of the Calla, though not all would accept their help. In exchange, they are granted the power to travel back to New York, the nexus of all New Yorks, where they must protect the Rose, an incarnation or manifestation of the Dark Tower.
+The Dark Tower series has always been a weird sort of hybrid. Primarily a western, set in a fantasy multiverse which intersects with multiple versions of our own reality, Roland and his posse find themselves facing robots, bears, wizards, psychotic trains, undead and such. This time they face "Wolves&#8221;, an unknown new enemy who plague a farming community along the path of the Beam. Like any good RPG-party, the gunslingers decide to offer aid to the people of the Calla, though not all would accept their help. In exchange, they are granted the power to travel back to New York, the nexus of all New Yorks, where they must protect the Rose, an incarnation or manifestation of the Dark Tower.
 
 The one thing I did not like about this copy: It had illustrations. Normally, that would be a good thing, but I find I did not really want to know what Roland of Gilead looked like, even to another person, as it spoiled my own vision of what the book tells me. That's how good the series is &#8212; it's the type of series where you form your own version of it in your head and you are completely drawn into its saga.
 

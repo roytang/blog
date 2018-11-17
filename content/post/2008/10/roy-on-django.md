@@ -7,10 +7,6 @@ type: post
 url: /2008/10/roy-on-django/
 ---
 
-[
-    
-http://royondjango.blogspot.com/
-   
-][1]
+[http://royondjango.blogspot.com/][1]
 
  [1]: http://royondjango.blogspot.com/

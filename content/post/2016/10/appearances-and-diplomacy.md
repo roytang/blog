@@ -15,7 +15,7 @@ Recently as the whole world watched one of our political leaders display his exp
 
 In my youth I was the sort of person who disdained those who prioritized form over substance. For this reason I disliked protocol and ritual and dress codes and formalities and all that. I imagine that IT people are notorious for preferring casual dress and disliking suits. I proudly enjoyed games with dated graphics when other people would fawn over the latest Crysis or whatever. I felt that anyone who prioritized appearances was somehow shallow and that one should focus more on the functional and practical. This is somewhat related to my views on [lying and salesmanship][1]
 
-As I got older though, I began to appreciate that sometimes appearances can matter too. Formalities and rituals can have meaning, especially when other people value them. And sometimes you have to dress up, either to impress people, or to fit in with the situation. These are concessions one has to make in order to be member of society. As Sheldon Cooper would say, &#8220;it's the social convention&#8221;. I guess I consider learning to navigate society's social conventions is part of being a mature adult
+As I got older though, I began to appreciate that sometimes appearances can matter too. Formalities and rituals can have meaning, especially when other people value them. And sometimes you have to dress up, either to impress people, or to fit in with the situation. These are concessions one has to make in order to be member of society. As Sheldon Cooper would say, "it's the social convention&#8221;. I guess I consider learning to navigate society's social conventions is part of being a mature adult
 
 Which is part of why the current leadership's lack of diplomacy is so annoying for me personally. It smacks of immaturity. Reacting to criticism with cussing and swearing and dredging up century-old mistakes and calling other people gay, these are behaviors I'd (sadly) expect from a 10 year old on XBox Live, not the leader of a sovereign nation.
 
@@ -30,6 +30,6 @@ And supporters will say at least he's honest and direct and real. I'm pretty sur
 ## Comments
 
 ### Comment by Karina on 2016-10-04 14:02:39 +0000
-&#8220;There’s no reason to antagonize people just because they agree with you. &#8221;
+"There’s no reason to antagonize people just because they agree with you. &#8221;
 
 I think you meant *don't agree with you. Hehe. Tsaka marami kang sentences na walang period. Lel.

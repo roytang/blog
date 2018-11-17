@@ -55,7 +55,7 @@ The Bad:
    
 
    
-* Levelling up Coinfeigms is tedious. Yes it is. The interface is so bad; every time you engrave your coin, you must go back to the top of the list of seals and look for the seal again. Given that you often want to engrave your coins multiple times with the same seals, the game becomes unnecessarily tedious. Adding to this is the &#8220;random&#8221; factor involved in engraving. I'm sure during development it seemed like a neat concept and all, but in practice all it means is that you have to occasionally save in-between engravings.
+* Levelling up Coinfeigms is tedious. Yes it is. The interface is so bad; every time you engrave your coin, you must go back to the top of the list of seals and look for the seal again. Given that you often want to engrave your coins multiple times with the same seals, the game becomes unnecessarily tedious. Adding to this is the "random&#8221; factor involved in engraving. I'm sure during development it seemed like a neat concept and all, but in practice all it means is that you have to occasionally save in-between engravings.
    
 
    

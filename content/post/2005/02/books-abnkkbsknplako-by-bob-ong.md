@@ -14,7 +14,7 @@ Picked it up as an impulse buy from National Bookstore a couple of weeks ago. An
 
 The earlier parts of the book are mostly funny and/or amusing, detailing those silly little things that school kids tend to obsess with. The latter parts start to get serious once the author gets to his college years; he goes into serious stories of dropping out of college, taking a vocational course and eventually becoming a teacher, where the book comes full circle (and a bit preachy as well).
 
-The book is hard to classify; it's not exactly comedy, it's not exactly serious. It's more like the author kept a running blog since he was in grade school and published it all. Also, there doesn't seem to be much information [about the author ][1]himself; apparently &#8220;Bob Ong&#8221; is a pseudonym of some sort. A very satisfying read all in all, I know this because I felt compelled to buy his next two books because of it. His books are cheaper than the usual book prices anyway =)
+The book is hard to classify; it's not exactly comedy, it's not exactly serious. It's more like the author kept a running blog since he was in grade school and published it all. Also, there doesn't seem to be much information [about the author ][1]himself; apparently "Bob Ong&#8221; is a pseudonym of some sort. A very satisfying read all in all, I know this because I felt compelled to buy his next two books because of it. His books are cheaper than the usual book prices anyway =)
 
  [1]: http://www.visprint.net/publications/bob/faq.htm
 

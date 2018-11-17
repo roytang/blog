@@ -7,7 +7,7 @@ type: post
 url: /2008/08/2008-philippine-open-block-top-16/
 ---
 
-The Philippine Open tournaments (one Standard and one Block) are held as side events to the Philippine Nationals. (I was not qualified obviously). I played in the block portion last Saturday, August 9 at Robinson's Galleria. I played a version of the PWC Special from GP Kobe, the so-called &#8220;Greedy Deck&#8221;
+The Philippine Open tournaments (one Standard and one Block) are held as side events to the Philippine Nationals. (I was not qualified obviously). I played in the block portion last Saturday, August 9 at Robinson's Galleria. I played a version of the PWC Special from GP Kobe, the so-called "Greedy Deck&#8221;
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -144,7 +144,7 @@ Round 2:
    
 PWC Special vs BRg Goblins
 
-Apparently, the &#8220;g&#8221; here is for the flying side of Firespout. My opponent started game one with Mountain, Tattermunge Maniac. I play a land and pass. He swings with Maniac, I drop to 18. I play another land and pass. He swings with Maniac, I drop to 16. He prowls out Earwig Squad (!) and I lost 3 Cryptic Commands from my deck. EOT, Nameless Inversion on the Earwig Squad. I play a land and a Banneret. He swings with the Maniac again. I don't want to trade my mana discount for 2 points of damage, so I let it through and drop to 14. Obviously, he has a second Earwig Squad, this time taking out 3 Reejereys from my deck (I was holding the fourth Cryptic Command, obv.) I play another Nameless Inversion for 1 black mana, then untap and lay down a Bitterblossom. Quite possibly a mistake, as he then plays a Squeaking Pie Sneak and a Mad Auntie, then swing with the Maniac for 3. Next turn he plays a second Mad Auntie, and my lone Faerie token won't be able to hold off those hordes. I scoop for game two.
+Apparently, the "g&#8221; here is for the flying side of Firespout. My opponent started game one with Mountain, Tattermunge Maniac. I play a land and pass. He swings with Maniac, I drop to 18. I play another land and pass. He swings with Maniac, I drop to 16. He prowls out Earwig Squad (!) and I lost 3 Cryptic Commands from my deck. EOT, Nameless Inversion on the Earwig Squad. I play a land and a Banneret. He swings with the Maniac again. I don't want to trade my mana discount for 2 points of damage, so I let it through and drop to 14. Obviously, he has a second Earwig Squad, this time taking out 3 Reejereys from my deck (I was holding the fourth Cryptic Command, obv.) I play another Nameless Inversion for 1 black mana, then untap and lay down a Bitterblossom. Quite possibly a mistake, as he then plays a Squeaking Pie Sneak and a Mad Auntie, then swing with the Maniac for 3. Next turn he plays a second Mad Auntie, and my lone Faerie token won't be able to hold off those hordes. I scoop for game two.
 
 I sigh and wonder if I'll be going home early. I board out 1 Bitterblossom, 1 Mirror Entity, bringing in 2 Eyeblight's Ending.
 

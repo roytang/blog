@@ -11,7 +11,7 @@ url: /2018/10/let-go-or-be-dragged/
 
 <blockquote class="wp-block-quote">
   <p>
-    &#8220;Let go or be dragged&#8221;
+    "Let go or be dragged&#8221;
   </p>
   
   <cite>Zen proverb</cite>
@@ -25,7 +25,7 @@ I'm not going to claim to be the most workaholic person ever &#8211; I've certai
 
 The key to realize this is happening and take a step back and think about whether you need to let go of things for a while. Maybe take some time off even. Learn to compartmentalize and set aside work when you leave the office. Emotional detachment is a skill I still have to learn and master, but it's essential. Otherwise (as the quoted zen proverb states), you get dragged. That means the stress starts to cascade through your personal life and your health and that can't be good for you. As the HN thread notes, work is not the end-all and be-all of life, and on your deathbed you won't wish you had worked more.
 
-_&#8220;But how can I possibly scale back my involvement, there's so much stuff to do!&#8221;._ Delegate. Ask for help. Ask to adjust the schedule. Trust your team to get things done. Find a better approach. Regardless, you shouldn't sacrifice your well-being for the sake of work. As the airline safety videos tell you, you have to take care of your own oxygen mask before taking care of others!  
+_"But how can I possibly scale back my involvement, there's so much stuff to do!&#8221;._ Delegate. Ask for help. Ask to adjust the schedule. Trust your team to get things done. Find a better approach. Regardless, you shouldn't sacrifice your well-being for the sake of work. As the airline safety videos tell you, you have to take care of your own oxygen mask before taking care of others!  
 
 
 I actually find this to be a problem with me with personal matters as well, not just with work. I tend to get attached to particular problems or issues and won't give it a rest until I've somehow managed to resolve the issue. Most of the time this isn't a big problem (I rarely have big personal issues), but some time ago a close friend and I drifted apart because I was insisting that she should follow my advice. I don't regret giving my advice &#8211; I still think I was right &#8211; but I do regret pushing so hard for it, it was her life to live, not mine. (This particular situation led to the creation of one of my personal rules: Don't insist on helping people who don't want to be helped.)  

@@ -25,7 +25,7 @@ Have I been avoiding writing? Maybe I'd fallen into the trap a lot of people fal
 
 I've also been worried about the sort of things that I write; like a lot of bloggers I somehow fell into the mindset that I should limit myself to a specific set of topics such as software development or Philippine politics or whatever. It's a bit ridiculous, this isn't a topical blog, it's a personal website and I can (and should) write about whatever I damn well please.
 
-Sidebar: If you're wondering &#8220;Why write a blog at all?&#8221;, try reading [&#8220;You should write blogs&#8221; by Steve Yegge.][4]. Looking over his reasons why not to blog, I don't even have the luxury of claiming I don't have enough time, not since I quit my job. (Hmm, I should probably write about that in a future post&#8230;)
+Sidebar: If you're wondering "Why write a blog at all?&#8221;, try reading ["You should write blogs&#8221; by Steve Yegge.][4]. Looking over his reasons why not to blog, I don't even have the luxury of claiming I don't have enough time, not since I quit my job. (Hmm, I should probably write about that in a future post&#8230;)
 
 So anyway, let's put this ramble to an end. I'll be writing regularly again for now, probably five times a week. Wish me luck!
 
@@ -37,4 +37,4 @@ So anyway, let's put this ramble to an end. I'll be writing regularly again for 
 ## Comments
 
 ### Comment by Kerwin on 2010-06-07 22:55:52 +0000
-I have the same problem. My excuse is &#8220;i'm not a writer&#8221;.
+I have the same problem. My excuse is "i'm not a writer&#8221;.

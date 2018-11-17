@@ -20,9 +20,9 @@ There are two classes of errors:
 
   * Validation errors &#8211; checks on user inputs. These errors are expected, and the most important thing here is to [present clear error messages that tell the user what was wrong and how they can correct it][1].
   * Everything else is an unexpected error, which we can breakdown further according to how the development team would react: 
-      * &#8220;That shouldn't happen!&#8221; &#8211; the broadest category, usually caused by human errors in coding/configuration or hardware problems. Examples include: database failure, typos in configuration files, different data formats used by different developers, unexpected system crashes and so on.
-      * &#8220;Hmm, oh yeah, we didn't think of that.&#8221; &#8211; i.e., design flaws or unhandled cases. These are errors caused by program flow or usage that was not anticipated in the program's design but are considered valid use.
-      * &#8220;That can't possibly happen!&#8221;, also popularly known as &#8220;We have no clue how that happened.&#8221; Most unexpected errors start out under this category then after some detective work (some developers use the term &#8220;debugging&#8221;), it transfers to one of the above categories.
+      * "That shouldn't happen!&#8221; &#8211; the broadest category, usually caused by human errors in coding/configuration or hardware problems. Examples include: database failure, typos in configuration files, different data formats used by different developers, unexpected system crashes and so on.
+      * "Hmm, oh yeah, we didn't think of that.&#8221; &#8211; i.e., design flaws or unhandled cases. These are errors caused by program flow or usage that was not anticipated in the program's design but are considered valid use.
+      * "That can't possibly happen!&#8221;, also popularly known as "We have no clue how that happened.&#8221; Most unexpected errors start out under this category then after some detective work (some developers use the term "debugging&#8221;), it transfers to one of the above categories.
 
 Unexpected errors may also be either recoverable (the user can either attempt to repeat the operation to continue or use other functions in the system) or catastrophic (the entire system or subsystem is completely unusable.)
 

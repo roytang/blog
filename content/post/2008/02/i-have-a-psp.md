@@ -7,7 +7,7 @@ type: post
 url: /2008/02/i-have-a-psp/
 ---
 
-Bought one last week, had not had time to log it until now. It was not so much planned and maybe a bit more of an impulse buy. Something like a cellphone conversation with my brother who's standing in a store in Singapore pressuring me with &#8220;Well? Should I buy one or not?&#8221; I don't like pressure, so obviously I just said, &#8220;Ok, whatever!&#8221;
+Bought one last week, had not had time to log it until now. It was not so much planned and maybe a bit more of an impulse buy. Something like a cellphone conversation with my brother who's standing in a store in Singapore pressuring me with "Well? Should I buy one or not?&#8221; I don't like pressure, so obviously I just said, "Ok, whatever!&#8221;
 
 The inevitable question arises: which one is better, PSP or NDS? A friend asked me if they have different types of games, and I tell her that the NDS has more fun/casual games, while the PSP has more action-oriented stuff. So I guess it really depends on your taste.
 

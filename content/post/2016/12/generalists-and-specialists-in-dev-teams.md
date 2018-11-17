@@ -10,7 +10,7 @@ url: /2016/12/generalists-and-specialists-in-dev-teams/
 
 In any reasonably large software project, the system will be so large that no one developer will have a good grasp of the details of every function in the codebase.
 
-The tendency is for developers to specialize &#8211; that is, developers tend to focus only on certain parts of the codebase and become more familiar with that part, while not having much knowledge about the other parts. This tendency is self-reinforcing &#8211; once it becomes known that the developer is an &#8220;expert&#8221; in the given module, there is a tendency that he will be assigned the most difficult and urgent tasks or fixes related to that module, further cementing his expertise. Thus, the developer becomes a sort of specialist within the system.
+The tendency is for developers to specialize &#8211; that is, developers tend to focus only on certain parts of the codebase and become more familiar with that part, while not having much knowledge about the other parts. This tendency is self-reinforcing &#8211; once it becomes known that the developer is an "expert&#8221; in the given module, there is a tendency that he will be assigned the most difficult and urgent tasks or fixes related to that module, further cementing his expertise. Thus, the developer becomes a sort of specialist within the system.
 
 In contrast to a specialist, you will also sometimes have developers who prefer to be generalists. That is, they are comfortable working with any part of the system, although their familiarity and knowledge are probably not as deep as the specialist for any given module.
 

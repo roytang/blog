@@ -25,7 +25,7 @@ Random statistics from 2016:
   * Weddings attended: 2
   * Wakes attended: 1
   * Games purchased (not including any I got for free for some reason): 19 (2 PS4 retail, 1 Wii U retail, 16 Steam including 3 from Humble Bundle)
-  * Games &#8220;finished&#8221; (story/campaign completed OR achievement complete): 11
+  * Games "finished&#8221; (story/campaign completed OR achievement complete): 11
   * Best Hearthstone rank: 9
   * Best Duelyst rank: 7
   * Average points per turn in Words with Friends: 26.5 (up from 25)

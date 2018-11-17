@@ -25,7 +25,7 @@ BG Elves is almost as explosive and a lot more consistent than Bant, so it's a f
 
 Despite the setback, I felt a fresh new perspective, as I was humbly reminded that despite the bad draws, despite the bad pairings, it still ultimately comes down to how well you play, and that's a factor that's well within my control (or any other Magic player's!)
 
-I quote from Zac Hill/Pchapin: _&#8220;Tight technical play decides more games of Magic than all other factors combined.&#8221;_
+I quote from Zac Hill/Pchapin: _"Tight technical play decides more games of Magic than all other factors combined.&#8221;_
 
 We all fall short, but that shouldn't stop us from striving for the perfect technical play.
 

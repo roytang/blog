@@ -22,7 +22,7 @@ So, through a complicated series of circumstances where I initiated the process 
       The USB cable used to connect the iPad to a PC is also the one used to connect it to a plug for charging via an electric outlet. This is all kinds of brilliant and literally had me with my jaw open for a few seconds.
     </li>
     <li>
-      Charging via USB is extremely slow, around 10% per hour, and the iPad will even lie about it and say &#8220;Not Charging&#8221;. Charging via outlet is much faster.
+      Charging via USB is extremely slow, around 10% per hour, and the iPad will even lie about it and say "Not Charging&#8221;. Charging via outlet is much faster.
     </li>
     <li>
       Typing on the virtual keyboard is ok for short form fields or notes type of things, but I can't imagine doing it for longer typing tasks such as blog posts (I will probably try it as some future time). I find myself typing most comfortably using one hand as it can reach across the keyboard quite easily. The lack of tactile feedback will take some getting used to. As my friend noted the virtual keyboard has touch type indicators on the F and J keys for some reason!
@@ -76,7 +76,7 @@ So, through a complicated series of circumstances where I initiated the process 
       I've only tried a few apps, and have not yet paid for anything on the App Store. Must resist impulse buys!
     </li>
     <li>
-      The best app I've seen so far from a visual wow-factor awesome-features point of view is <strong>Flipboard</strong>. My Mom picked up the iPad while I had Flipboard open and was like &#8220;Wow!&#8221; for maybe five to ten minutes.
+      The best app I've seen so far from a visual wow-factor awesome-features point of view is <strong>Flipboard</strong>. My Mom picked up the iPad while I had Flipboard open and was like "Wow!&#8221; for maybe five to ten minutes.
     </li>
     <li>
       Twitter apps: the official twitter app seems ok, but I'm using<strong> Twitterrific</strong> at the moment. I heard Tweetdeck is buggy.
@@ -117,11 +117,11 @@ Ei, btw d00d, you left the screen protector cloth thing here. I'm leaving with L
 If you want to drop by tomorrow to get it, no prob.
 
 ### Comment by bryan on 2010-10-24 15:35:50 +0000
-hey roy! im glad i have you to thank for an unbiased review. was quite excited about getting one, but was still hesitant. well you cleared all that. and now that the &#8220;committee&#8221; has approved that i deserve one for xmas, i think ill just go for the 32 gb wifi variety. regards.
+hey roy! im glad i have you to thank for an unbiased review. was quite excited about getting one, but was still hesitant. well you cleared all that. and now that the "committee&#8221; has approved that i deserve one for xmas, i think ill just go for the 32 gb wifi variety. regards.
 
 ### Comment by Pinoy Hatdog on 2010-11-01 02:31:07 +0000
 Aba aba sir roy, bumili ka na din! Haha. Personally, gusto ko hintayin ang version na may facetime (sans any external hardware).
 
-Regarding the slow (and misleading) USB charging, I think that happens when you try to charge with a mobile device (e.g. a laptop). By standard, USB connectors on desktops provide a more &#8220;stable&#8221; power output as compared to mobile devices due to their (more often) lack of a &#8220;fixed&#8221; power source.
+Regarding the slow (and misleading) USB charging, I think that happens when you try to charge with a mobile device (e.g. a laptop). By standard, USB connectors on desktops provide a more "stable&#8221; power output as compared to mobile devices due to their (more often) lack of a "fixed&#8221; power source.
 
 HTH 🙂

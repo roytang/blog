@@ -151,7 +151,7 @@ Each creature assigns combat damage equal to its toughness rather than its power
   
 _
     
-&#8220;Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble.&#8221;
+"Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble.&#8221;
    
 _ 
   
@@ -165,7 +165,7 @@ My take:
    
 ** 
    
-I think my jaw literally dropped when this was previewed. Midrange decks will love this guy. Thoughtseize provides disruption, and Doran gives the cheap beats. A &#8220;Rock&#8221; style deck may be in the offing.
+I think my jaw literally dropped when this was previewed. Midrange decks will love this guy. Thoughtseize provides disruption, and Doran gives the cheap beats. A "Rock&#8221; style deck may be in the offing.
 
 **
     

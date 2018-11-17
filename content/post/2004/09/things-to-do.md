@@ -39,7 +39,7 @@ In order of priority:
     
 ** 
     
-    &#8211; Cheese is, of course, the other computer, that's been busted for months now. &#8220;System failed memory check&#8221;, apparently. I know, I should just buy some new RAM and try it out, but I've burnt so much money replacing parts for that PC that I'm uber-cautious; I want to be sure what's wrong with it before doing anything. I need to find some free time to take the thing to a shop. 
+    &#8211; Cheese is, of course, the other computer, that's been busted for months now. "System failed memory check&#8221;, apparently. I know, I should just buy some new RAM and try it out, but I've burnt so much money replacing parts for that PC that I'm uber-cautious; I want to be sure what's wrong with it before doing anything. I need to find some free time to take the thing to a shop. 
   * **
      
     Buy a cellphone

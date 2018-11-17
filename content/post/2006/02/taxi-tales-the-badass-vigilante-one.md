@@ -20,7 +20,7 @@ Then there was the time a snatcher was running past his cab, and he opened the d
   
 _
   
-&#8220;Regalo ko na sa inyo yan,&#8221; _were his words, he said.
+"Regalo ko na sa inyo yan,&#8221; _were his words, he said.
 
 Then we went into the inevitable litany of how soft we were on crime. Apparently he had worked in Saudi for more than 10 years, and he preferred the Saudi method of eye for an eye; when a thief was caught in Suadi Arabia, his hands were cut off. He pshawed away any talk of human rights, saying that if a person was guilty he should just be killed right away. He professed a hatred of criminals and drug addicts and implied that he enjoys any chance to deliver some beatdown on them.
 
@@ -28,7 +28,7 @@ I, of course, was tempted to play devil's advocate and argue for the side of hum
 
 Now me, I've never witnessed a single snatching or holding-upping or anything like that on the mean streets of metro manila. This man was giving me insights on how it was to truly live on the streets. And I found myself thinking, at least at that level there are still people who reject the rampant criminality that apparently pervades our streets (however ends-justify-the-means his reasoning may be).
 
-The taxi driver remarked that robbers and snatchers always say something like &#8220;I just needed money to buy milk for my baby&#8221;, which is a totally BS excuse. Many hundreds, if not thousands of our countrymen struggle everyday trying to make a decent, honest living, and as long as there are people able to walk that road, &#8220;I had to do it to survive&#8221; is \*not\* an excuse.
+The taxi driver remarked that robbers and snatchers always say something like "I just needed money to buy milk for my baby&#8221;, which is a totally BS excuse. Many hundreds, if not thousands of our countrymen struggle everyday trying to make a decent, honest living, and as long as there are people able to walk that road, "I had to do it to survive&#8221; is \*not\* an excuse.
 
 That sort of petty crime on the streets is a vicious cycle, and even if you say that it's caused by poverty, it also causes poverty by itself&#8230;more often than not the victims are just the sort of people who have worked extra hard to be able to save up for something decent. As the taxi driver mentioned, many of the snatched cellphones are probably not even yet fully paid for. It's a case of poverty feeding upon itself.
 

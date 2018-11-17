@@ -12,7 +12,7 @@ type: post
 url: /2018/06/kuala-lumpur-and-the-mtg25a-rptq/
 ---
 
-I had an out of country trip last weekend to Kuala Lumpur to play Magic, but I was a bit tempted to not write about it all. The reason being that inevitably after one of these MTG-related trips the first thing people ask me is _&#8220;Nanalo ka ba?&#8221;_ (Did you win?) and this time, the answer was sadly no. (Let's get the spoilers out of the way early shall we.) However, I realized that not all stories have to have happy endings. Sometimes the journey itself is the story.
+I had an out of country trip last weekend to Kuala Lumpur to play Magic, but I was a bit tempted to not write about it all. The reason being that inevitably after one of these MTG-related trips the first thing people ask me is _"Nanalo ka ba?&#8221;_ (Did you win?) and this time, the answer was sadly no. (Let's get the spoilers out of the way early shall we.) However, I realized that not all stories have to have happy endings. Sometimes the journey itself is the story.
 
 Besides, it was my first trip ever to Malaysia, and as I like to use this blog to remember past events, it's probably a good idea to write a little bit about it. If you're here just to get my opinions on Malaysia and want to skip the MTG bits here you go:
 
@@ -29,7 +29,7 @@ Of course, the problems of card availability came up. Switch was in Singapore, a
 
 We did manage to get a bit of support from a local gaming store that let us borrow some cards we were missing, so shout out to [Roll Play Game Lounge][6] for their support (although we totally fumbled the ball.)
 
-We eventually settled on playing RB midrange, GB constrictor, and UB Improvise (&#8220;Anguished Affinity&#8221;). We decided against even trying to assemble a UW control deck because (a) we were missing too many pieces (mainly {{< card >}}Disallow{{< /card >}} and the white sideboard mythics &#8211; {{< card >}}Lyra Dawnbringer{{< /card >}} and {{< card >}}History of Benalia{{< /card >}}); and (b) we felt that piloting a control deck required a comprehensive understanding of the metagame, which we didn't have with our limited prep.
+We eventually settled on playing RB midrange, GB constrictor, and UB Improvise ("Anguished Affinity&#8221;). We decided against even trying to assemble a UW control deck because (a) we were missing too many pieces (mainly {{< card >}}Disallow{{< /card >}} and the white sideboard mythics &#8211; {{< card >}}Lyra Dawnbringer{{< /card >}} and {{< card >}}History of Benalia{{< /card >}}); and (b) we felt that piloting a control deck required a comprehensive understanding of the metagame, which we didn't have with our limited prep.
 
 Our configuration ended up being Switch in Seat A with RB midrange, me in Seat B with GB constrictor and Alex in Seat C with UB Improvise. Here is the GB list I piloted:
 
@@ -133,7 +133,7 @@ My new, upgraded set of rules (an improvement over the ones from the GP Singapor
   4. Think before scooping
   5. Life is unfair
 
-So much for &#8220;laying low&#8221;. Ah Magic, you are such a hard game to quit.
+So much for "laying low&#8221;. Ah Magic, you are such a hard game to quit.
 
  [1]: https://roytang.net/2017/12/grand-prix-singapore-2017-tournament-report/
  [2]: https://twitter.com/switchfollows

@@ -27,7 +27,7 @@ Round two vs Monowhite Kithkin was close again, but in game 3 I walked into a Co
 
 Round three I got a bye since there were only seven people in my pod.
 
-1-2 and no wins (meaning no Limited Points!) was pretty sucky, so I hoped to recover in SSS. I felt my LLM draft was decent, although I could have gotten more black removal in packs 1 and 2. The games I did play were very close and I felt that I made only mostly minor mistakes. Unfortunately, my draft deck seemed too &#8220;fair&#8221;, relying on honest attacking creatures to win the game.
+1-2 and no wins (meaning no Limited Points!) was pretty sucky, so I hoped to recover in SSS. I felt my LLM draft was decent, although I could have gotten more black removal in packs 1 and 2. The games I did play were very close and I felt that I made only mostly minor mistakes. Unfortunately, my draft deck seemed too "fair&#8221;, relying on honest attacking creatures to win the game.
 
 In SSS, I started out U/W but with the possibility of shifting into red due to second-pick Flame Javelin. I had grabbed early Aethertows and Thistledown Duos, but my mistakes came when I saw two Tattermunge Duos passing by late and my not shifting into the the obviously open R/G. I would realize the mistake in later packs as I would be passed more Tattermunge Duos, Puncture Bolts, Runes of the Deus and the Deus of Calamity itself.
 

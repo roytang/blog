@@ -46,7 +46,7 @@ You start to doubt the girl you fell in love with. Maybe she wasn't as nice as y
 
 You start to think about how you feel. Are you really in love with her? Or do you just want her because you can't have her? Are you in love with the real her, not just some made-up idea of her?
 
-&#8220;This is madness!&#8221; you finally conclude. &#8220;There has to be more to life than this&#8230; Why should I waste so much of my time and energy pining over this woman, a woman who will probably never even consider me, a woman whom I'm not even sure why I'm attracted to?&#8221; You come to a decision. You will get rid of these feelings, these emotions; push them away to some dark corner of your soul and leave them to rot.
+"This is madness!&#8221; you finally conclude. "There has to be more to life than this&#8230; Why should I waste so much of my time and energy pining over this woman, a woman who will probably never even consider me, a woman whom I'm not even sure why I'm attracted to?&#8221; You come to a decision. You will get rid of these feelings, these emotions; push them away to some dark corner of your soul and leave them to rot.
 
 And you do it. It pains your heart to do so, but you start to avoid her. You don't talk to her unless you need to. Whenever you think of her, you throw yourself into your work, your hobbies, your friends, anything to rid your mind of her lingering presence. You do what it takes. You pull out that part of your heart that remembers her smile, and you bury it inside, deep inside, so that you may never feel those painful emotions again. You kill that part of your soul that knows how to love and how to live.
 

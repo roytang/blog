@@ -104,4 +104,4 @@ There are some disadvantages too of course:
 
 In the end, there's no guarantee that using an open source framework will be painless or be better than developing one in-house. So I can understand the decision to stick with what you know. But for me as a developer, I feel that it's more rewarding to be exposed to different frameworks.
 
-In fact I wrote this post because recently someone asked me what my &#8220;go-to web framework&#8221; was and I said I didn't have one. I'd rather be flexible enough to learn and work with any existing framework. In our industry where change happens quickly and can catch you by surprise, I think that flexibility is a much more valuable asset to have.
+In fact I wrote this post because recently someone asked me what my "go-to web framework&#8221; was and I said I didn't have one. I'd rather be flexible enough to learn and work with any existing framework. In our industry where change happens quickly and can catch you by surprise, I think that flexibility is a much more valuable asset to have.

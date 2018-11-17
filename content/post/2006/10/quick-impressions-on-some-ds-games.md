@@ -17,4 +17,4 @@ Bomberman &#8211; another classic multiplayer game
 
 New Super Mario Bros. &#8211; haven't played the main game much, but has a bunch of cool minigames that are especially fun multiplayer
 
-Mario and Luigi, Partners in Time &#8211; this is the one I'm currently playing regularly. Nice Mario-style adventure-RPG. I'm told it's a sequel of sorts to their GBA adventure, but I wouldn't know. As far as I can tell, the only action in the game is &#8220;jump&#8221;!
+Mario and Luigi, Partners in Time &#8211; this is the one I'm currently playing regularly. Nice Mario-style adventure-RPG. I'm told it's a sequel of sorts to their GBA adventure, but I wouldn't know. As far as I can tell, the only action in the game is "jump&#8221;!

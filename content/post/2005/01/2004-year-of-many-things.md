@@ -10,13 +10,13 @@ url: /2005/01/2004-year-of-many-things/
 
 > _
   
-> &#8220;So, what's your New Year's resolution?&#8221;
+> "So, what's your New Year's resolution?&#8221;
   
-> &#8220;I resolve to live life on purpose, to take control of my fate, to sieze each day as if it were my last. I will be reckless. I will be daring. I will be strong. I will challenge fate. I will defy the gods. Or I will die trying.&#8221;
+> "I resolve to live life on purpose, to take control of my fate, to sieze each day as if it were my last. I will be reckless. I will be daring. I will be strong. I will challenge fate. I will defy the gods. Or I will die trying.&#8221;
   
-> &#8220;&#8230;Why can't you just quit smoking or go on a diet like ordinary people?&#8221;
+> "&#8230;Why can't you just quit smoking or go on a diet like ordinary people?&#8221;
   
-> &#8220;It's like you don't know me at all. Life is too short to be ordinary.&#8221;
+> "It's like you don't know me at all. Life is too short to be ordinary.&#8221;
   
 >_ 
 

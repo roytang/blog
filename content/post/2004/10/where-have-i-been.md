@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Just Another Day
 date: 2004-10-17 06:05:10
-title: "Where Have I Been\xE2\u20AC\xA6"
+title: "Where Have I Been"
 type: post
 url: /2004/10/where-have-i-been/
 ---

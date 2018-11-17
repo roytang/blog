@@ -7,7 +7,7 @@ type: post
 url: /2007/03/ptq-san-diego/
 ---
 
-So yeah, it was a Two-Headed Giant Limited PTQ at NG Galleria yesterday. I played with my friend Paul, and we had a rather good sealed pool, coming up with a pair of decks that had the basic strategy of &#8220;Do not block!&#8221;
+So yeah, it was a Two-Headed Giant Limited PTQ at NG Galleria yesterday. I played with my friend Paul, and we had a rather good sealed pool, coming up with a pair of decks that had the basic strategy of "Do not block!&#8221;
 
 Unfortunately, we were only able to go 5-2, ending up as the team in 10th place. Well, it's not like we would've been able to go to San Diego, but still the 750USD would have been nice. We lost one game to mana flood, and the other loss was one where we were winning &#8211; at least until the opposing team decided to take 3 turns in a row via Walk the Aeons.
 

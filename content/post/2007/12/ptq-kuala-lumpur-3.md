@@ -597,7 +597,7 @@ Round 4: 0-2 loss vs GWb.
 
 Oops&#8230;so much for that plan. I keep him back on tempo with Whirlpool Whelms and faeries, but he eventually overwhelms me with critters.
 
-Facing lethal damage in game two, I pick up the result slip and tick the &#8220;Drop&#8221; option.
+Facing lethal damage in game two, I pick up the result slip and tick the "Drop&#8221; option.
 
 Sigh, one more PTQ to go, last chance to go to Kuala Lumpur. I made so many bloopers this tournament, and my mental game was so off&#8230;must do better next time.
 

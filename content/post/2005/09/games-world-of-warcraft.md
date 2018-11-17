@@ -15,7 +15,7 @@ Blizzard seems to have hit the sweet spot of the mythical RPG spiral: you always
 
 It's very hard to get bored with the game, especially if you're a true-blue follower of the Warcraft series. You get to immerse yourself in famous locations and meet characters and heroes from the RTS games. You get to do quests, literally dozens of quests throwing themselves on you. You get to customize your character. You get to wander off to gather obscure ingredients. You get to interact with other players, challenge them, fight alongside them, raid whole cities with them. 
 
-I've tried a few other MMOs before, and none really struck me so hard as WoW&#8230;other games get you hopelessly stuck in the levelling &#8220;grind&#8221;, but WoW throws so much stuff to do at you that it's very easy to forget about that level bar. 
+I've tried a few other MMOs before, and none really struck me so hard as WoW&#8230;other games get you hopelessly stuck in the levelling "grind&#8221;, but WoW throws so much stuff to do at you that it's very easy to forget about that level bar. 
 
 I recommend the game to any serious gamer, even to those who primarily like single-player RPGs. Because honestly, you can play WoW just like a single-player RPG with a vast multitude of quests (except that you occasionally get some other characters helping you out randomly). I'll play again in a short while :p
 

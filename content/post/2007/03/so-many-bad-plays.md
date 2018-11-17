@@ -146,7 +146,7 @@ url: /2007/03/so-many-bad-plays/
                 <span class="decktotals"><br /> 15 sideboard cards<br /> </span></td> </tr> </tbody> </table> 
                 
                 <p>
-                  This deck is named &#8220;Under Development&#8221; because I basically threw it together two days ago with almost no playtesting. Basically, today's tournament was my playtesting, as I could use it to gauge whether I like the feel of the deck and I should continue using it. Also, it's my first team playing with basic islands again in constructed since forever.
+                  This deck is named "Under Development&#8221; because I basically threw it together two days ago with almost no playtesting. Basically, today's tournament was my playtesting, as I could use it to gauge whether I like the feel of the deck and I should continue using it. Also, it's my first team playing with basic islands again in constructed since forever.
                 </p>
                 
                 <p>

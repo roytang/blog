@@ -18,7 +18,7 @@ The commencement speaker was some guy from batch '69 [1] with lots of degrees, a
 
 The commencement speech was dull, the usual thing commencement speakers say, talking about the graduate's future, the uncertainty, the excitement blah blah blah. If I was the one giving a commencement speech (I have a feeling this blog post will be a basis for my never ever getting that chance), I'd probably talk less about hard work and more about passion. Hard work is nice, but it's passion, drive, energy that gets you places.
 
-They have this new thing this year, where they don't have a valedictorian, salutatiorian, etc. Instead, they have people with &#8220;High Honors&#8221; (weighted average 1.50-1.20) and people with &#8220;Highest Honors&#8221; (weighted average 1.20-1.00) It's like the college system of cum laudes. Except it sucks. &#8220;Valedictorian&#8221; looks so much better on a resume than &#8220;Highest Honors&#8221;, but if you're relying on high school accolades on your resume to land you a job, you probably won't get it anyway, so I guess it works out. Sort of.
+They have this new thing this year, where they don't have a valedictorian, salutatiorian, etc. Instead, they have people with "High Honors&#8221; (weighted average 1.50-1.20) and people with "Highest Honors&#8221; (weighted average 1.20-1.00) It's like the college system of cum laudes. Except it sucks. "Valedictorian&#8221; looks so much better on a resume than "Highest Honors&#8221;, but if you're relying on high school accolades on your resume to land you a job, you probably won't get it anyway, so I guess it works out. Sort of.
 
 Only teacher who recognized me there was good old Vlad. The guy's been teaching Econ for ten years! Well, okay maybe not. I heard he took time off to either take an MBA or go surfing in Hawaii, maybe both. But judging from the comments in the graduation speech, he still enjoys torturing the kids. Ma'am Serrano might have recognized me, but then again, she recognizes everybody.
 
@@ -26,7 +26,7 @@ The PSHS Gymnasium is an unforgiving boiling kettle of intolerable heat, especia
 
 Edit: I'm a moron. I really was incoherent. I forgot I was going to talk about the ten years after part until I saw the title published on the page itself.
 
-Anyway, yeah. Ten years. It's been ten years since I left Pisay to face the cruel world. And where am I now? No earth-shaking accomplishments yet? It's like when we were graduating, things were exciting, we were going out to conquer a brave new world! Maybe [peng ][2]was right, ten years might just be too short to &#8220;Stand tall and shake the heavens&#8221; [3] At least, I haven't heard of anyone else in the batch stunning the world with their brilliance yet, so I guess I'm not behind, yet.
+Anyway, yeah. Ten years. It's been ten years since I left Pisay to face the cruel world. And where am I now? No earth-shaking accomplishments yet? It's like when we were graduating, things were exciting, we were going out to conquer a brave new world! Maybe [peng ][2]was right, ten years might just be too short to "Stand tall and shake the heavens&#8221; [3] At least, I haven't heard of anyone else in the batch stunning the world with their brilliance yet, so I guess I'm not behind, yet.
 
 <div>
   [1] first Pisay batch ever. They had a 5-year curriculum then.<br /> [2] Figure it out.<br /> [3] (3 points for getting that reference)

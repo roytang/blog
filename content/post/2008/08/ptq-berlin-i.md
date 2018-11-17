@@ -104,7 +104,7 @@ So he says done, I don't untap and draw my Cryptic Command. At this point, I hav
 
 The spirit tokens were all of course, still quite untapped as I had not yet played the Cryptic Command. T_T
 
-Wow, what a lapse. I had to write &#8220;MISPLAY&#8221; in all caps so that I never forget.
+Wow, what a lapse. I had to write "MISPLAY&#8221; in all caps so that I never forget.
 
 Games: 2-3, Matches: 1-1
 
@@ -120,7 +120,7 @@ I got lucky in both games 2 and 3 as he drew far too many land and couldn't fini
 
 Games: 5-5, Matches: 2-1
 
-While waiting for the next round, I did a few playtest games with Joel &#8220;gjarkeld&#8221; Bantilles playing Kithkin, so I could get a better feel for the matchup. I don't usually name drop here, pero gusto raw ni Joel mabanggit sa blog ko e!
+While waiting for the next round, I did a few playtest games with Joel "gjarkeld&#8221; Bantilles playing Kithkin, so I could get a better feel for the matchup. I don't usually name drop here, pero gusto raw ni Joel mabanggit sa blog ko e!
 
 **
      
@@ -178,7 +178,7 @@ Round 7:
     
 PWC Special vs Kithkin yet again
 
-I was expecting I would win round 5 since my tendency seems to be to gravitate towards a 5-2 record. Unluckily I was paired againt Joel (whom I mentioned above; dapat daw sabihin ko &#8220;Hayup yung si Joel!&#8221;)
+I was expecting I would win round 5 since my tendency seems to be to gravitate towards a 5-2 record. Unluckily I was paired againt Joel (whom I mentioned above; dapat daw sabihin ko "Hayup yung si Joel!&#8221;)
 
 In game one he dropped me to below 10 quickly, but I stabilized a bit with a Bitterblossom. He was still at 20 and I had an entity, so I figured I needed to get a creature advantage and then entity him to death. I thought about it for a bit, then played a second Bitterblossom. I was hoping that either I would draw a Cryptic Command or he would have 1-2 turns without drawing creatures, in which case the Bitterblossom advantage would be enough. Unfortunately I went to as low as 2 and we still had equal counts and the next draw was a land, so I scooped for game two.
 

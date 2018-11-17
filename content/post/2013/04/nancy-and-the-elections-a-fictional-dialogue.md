@@ -162,7 +162,7 @@ People who follow me on Facebook or Twitter know that I've been recently made a 
 </p>
 
 <p class="c4">
-  <span class="c2"><span class="c2">10:17:34</span><span class="c3" style="color: #000000;"> </span><span class="c0">‹</span><span class="c8 c3">Scrappy coco</span><span class="c0">›</span><span class="c3" style="color: #000000;"> im really annoyed with the fact na dynasty na ang lumalabas pero sasabihin lng nila &#8220;let the people decide&#8221;.</span></span>
+  <span class="c2"><span class="c2">10:17:34</span><span class="c3" style="color: #000000;"> </span><span class="c0">‹</span><span class="c8 c3">Scrappy coco</span><span class="c0">›</span><span class="c3" style="color: #000000;"> im really annoyed with the fact na dynasty na ang lumalabas pero sasabihin lng nila "let the people decide&#8221;.</span></span>
 </p>
 
 <p class="c4">
@@ -198,7 +198,7 @@ People who follow me on Facebook or Twitter know that I've been recently made a 
 </p>
 
 <p class="c4">
-  <span class="c2">10:20:46</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> like &#8220;change your profile pic to this icon if you're going to vote intelligently&#8221;</span>
+  <span class="c2">10:20:46</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> like "change your profile pic to this icon if you're going to vote intelligently&#8221;</span>
 </p>
 
 <p class="c4">

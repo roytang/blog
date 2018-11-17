@@ -20,7 +20,7 @@ This is ridiculous, an obvious barometer showing how desperate many of our count
 
 Shocking how these people look up to Willy Revillame, host of Wowowee, as some sort of Messiah who can uplift them out of their poverty. And some paid dearly with their lives.
 
-I remember during the days of the &#8220;Pera o Bayong&#8221; contest that there would be literally hundreds of would-be contestants hanging out near the ABS-CBN compound hoping to win a big prize. I remember thinking that these people spend hours in line, many probably coming back day after day; if they could just devote themselves to some sort of honest work they would have had far better chances of improving their lives.
+I remember during the days of the "Pera o Bayong&#8221; contest that there would be literally hundreds of would-be contestants hanging out near the ABS-CBN compound hoping to win a big prize. I remember thinking that these people spend hours in line, many probably coming back day after day; if they could just devote themselves to some sort of honest work they would have had far better chances of improving their lives.
 
 While I say a prayer for those whose lives were lost, I'm glad I have the luxury of thinking that crowding in with thirty thousand people for a chance to win some cash is just too much hassle.
 

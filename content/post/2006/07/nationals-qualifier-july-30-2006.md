@@ -32,7 +32,7 @@ _
   
   <ul class="decklist_group">
     <li class="header">
-      &#8220;Azorius-12&#8221;
+      "Azorius-12&#8221;
     </li>
   </ul>
   
@@ -205,7 +205,7 @@ Horror of horrors&#8230;I've now faced variations on two decks that I played bef
    
 Match record: 7-5, Game record: 3-2
 
-Round 6: vs &#8220;Equipment Deck&#8221;
+Round 6: vs "Equipment Deck&#8221;
    
 
    

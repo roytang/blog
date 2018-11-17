@@ -11,7 +11,7 @@ url: /2006/02/del-icio-us-bookmarks-for-2006-02-24/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-24
 
-  * [Gamasutra &#8211; Soapbox &#8211; &#8220;World of Warcraft Teaches the Wrong Things&#8221;][3]
+  * [Gamasutra &#8211; Soapbox &#8211; "World of Warcraft Teaches the Wrong Things&#8221;][3]
   
     &#8212;
   

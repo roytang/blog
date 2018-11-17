@@ -9,7 +9,7 @@ type: post
 url: /2006/01/how-to-organize-a-cluttered-mind/
 ---
 
-Yeah, I haven't been posting lately. I still have a lot of thoughts running around my head, and often throughout the day I find myself thinking, &#8220;I should post an entry about this.&#8221; But at the end of the day, I'm tired and I'm exhausted from thinking about two hundred different issues and juggling twenty different priorities, so I don't post about it. I note it somewhere and sooner or later it becomes irrelevant and I forget why I wanted to post it in the first place.
+Yeah, I haven't been posting lately. I still have a lot of thoughts running around my head, and often throughout the day I find myself thinking, "I should post an entry about this.&#8221; But at the end of the day, I'm tired and I'm exhausted from thinking about two hundred different issues and juggling twenty different priorities, so I don't post about it. I note it somewhere and sooner or later it becomes irrelevant and I forget why I wanted to post it in the first place.
 
 I remarked to one of my coworkers that I often find myself remembering dozens of things in my head simultaneously and he of course reminded me of the popular notion that human beings can only remember seven things at any one time. It's the concept of limitation in humans' short-term memory or RAM.
 
@@ -27,7 +27,7 @@ But I can't help it. That's the role I play. People expect me to help them, to p
 
 At the end of the day, especially during the past couple of weeks, I've found myself mentally exhausted. I have a very easy time separating work from personal life, because by the time I step into the elevator after logging out I'm already too tired to even think about work issues.
 
-Not that I have a bad job, mind you. It's awesome. But I guess sometimes I toss myself into it a bit too much. When my personal load is light, I can easily handle everything tossed at me and people go &#8220;You're awesome!&#8221; and I nod and address the next crisis. But when my load is heavy, well, then things really get exciting.
+Not that I have a bad job, mind you. It's awesome. But I guess sometimes I toss myself into it a bit too much. When my personal load is light, I can easily handle everything tossed at me and people go "You're awesome!&#8221; and I nod and address the next crisis. But when my load is heavy, well, then things really get exciting.
 
 I forgot what my point was now, as I unconsciously launched into a narrative of how my typical day goes. I'm still getting by with my gut, but I know from experience that gut instinct only gets you so far. Sooner or later, something's gonna give and I'll need to find some way to make sure I can carry this level of awesome-ness to the next level.
 

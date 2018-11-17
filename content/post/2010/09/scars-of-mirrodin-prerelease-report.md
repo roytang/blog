@@ -17,7 +17,7 @@ I haven't written a tournament report in a while (maybe because I've been playin
 
 The first hour was spent waiting in an unbearably hot basement area for the 8th player on our table to register his sealed pool. What? yeah, he was late, and the event started early so the airconditioning was not yet on. Sad face.
 
-The pool I registered was terrible, no money rares and felt a bit short on playables, but the pool I got passed was better (not really in terms of constructed &#8220;value&#8221; cards, but pretty good in terms of playability). I think Scars limited lends itself well to monocolor decks with vast majority of the support provided by artifacts, but I couldn't just had dragon-class bombs in separate colors, so black-red it was. Here's my list:
+The pool I registered was terrible, no money rares and felt a bit short on playables, but the pool I got passed was better (not really in terms of constructed "value&#8221; cards, but pretty good in terms of playability). I think Scars limited lends itself well to monocolor decks with vast majority of the support provided by artifacts, but I couldn't just had dragon-class bombs in separate colors, so black-red it was. Here's my list:
 
 {{< cardlist >}}
   
@@ -91,7 +91,7 @@ The pool I registered was terrible, no money rares and felt a bit short on playa
 
 Regarding {{< card >}}Bleak Coven Vampires{{< /card >}} &#8211; these guys are great, top-notch. Together with the {{< card >}}Galvanic Blast{{< /card >}}s, I had to reliably trigger Metalcraft, I think the 12-14 artifact count is sufficient to provide the needed consistency.
 
-Regarding {{< card >}}Skithiryx, the Blight Dragon{{< /card >}}, I'm going to misspell that all the time, so from hereon, he's called &#8220;Skittles&#8221;.
+Regarding {{< card >}}Skithiryx, the Blight Dragon{{< /card >}}, I'm going to misspell that all the time, so from hereon, he's called "Skittles&#8221;.
 
 **Round one:** I lost the first game to mana screw, as if the gods of magic were punishing me for playing two colors in the format; I drew all swamps and no mountains, losing access to half the spells in my hand. I lost that match 1-2, the game three loss to an infectious {{< card >}}Blight Mamba{{< /card >}} given intimidate by that evil green uncommon ({{< card >}}Bellowing Tanglewurm{{< /card >}}). I kept drawing lands while it slowly bled me to death with it's evil poison. My last-ditch blocker met a {{< card >}}shatter{{< /card >}}ing end! At least I can say this was the first time I lost a tournament match to poision counters.
 
@@ -109,9 +109,9 @@ Prize packs did not contain anything exciting. Well, a {{< card >}}Genesis Wave{
 
 **TLDR**; Went 3-1 at my local Scars of Mirrodin Prerelease.
 
-**Extra discussion topic**: A friend and I were talking about how newbie-unfriendly Prereleases can be, even though it's supposed to be pretty much a &#8220;casual affair&#8221;. There are always a bunch of guys who are at their first sealed event and they take a while to register, and a lot of them don't know that the registered pool won't necessarily be the one they're going to play and get to take home. And where I play, most of the Prereleases will have the local &#8220;sharks&#8221; playing, they will usually play multiple flights. I try to keep a friendly atmosphere, but many of them are always dead serious even though it's just a prerelease, making new tournament players or young kids a bit nervous. Of course it has to be that way because there are prizes on the line, right?
+**Extra discussion topic**: A friend and I were talking about how newbie-unfriendly Prereleases can be, even though it's supposed to be pretty much a "casual affair&#8221;. There are always a bunch of guys who are at their first sealed event and they take a while to register, and a lot of them don't know that the registered pool won't necessarily be the one they're going to play and get to take home. And where I play, most of the Prereleases will have the local "sharks&#8221; playing, they will usually play multiple flights. I try to keep a friendly atmosphere, but many of them are always dead serious even though it's just a prerelease, making new tournament players or young kids a bit nervous. Of course it has to be that way because there are prizes on the line, right?
 
-My friend suggested a separate type of prerelease event where entrants are guaranteed some small token prizes (maybe two packs), regardless of their win-loss record, and some trophy prize (like a t-shirt) for going undefeated. Rules enforcement might be looser &#8211; maybe no longer requiring deck registration or pool swaps. This would make it more casual and less appealing to &#8220;sharks&#8221;, but I'm not sure how popular it would be. I'm thinking maybe we need some more casual events here like gunslinging or Intro Pack duels thing that WOTC staff sometimes talk about &#8211; we don't usually have that sort of thing in local events.
+My friend suggested a separate type of prerelease event where entrants are guaranteed some small token prizes (maybe two packs), regardless of their win-loss record, and some trophy prize (like a t-shirt) for going undefeated. Rules enforcement might be looser &#8211; maybe no longer requiring deck registration or pool swaps. This would make it more casual and less appealing to "sharks&#8221;, but I'm not sure how popular it would be. I'm thinking maybe we need some more casual events here like gunslinging or Intro Pack duels thing that WOTC staff sometimes talk about &#8211; we don't usually have that sort of thing in local events.
 
 Of course, we couldn't come up with a clear solution to make Prerelease events easier for new guys, but it's worth a thought, right?
 

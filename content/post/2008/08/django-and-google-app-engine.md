@@ -55,8 +55,8 @@ Some problems encountered when porting:
 
 
   * Can't seem to use the list_detail generic view; I get errors about undefined user attribute on the request 
-  * Sometimes after editing a view, I get random &#8220;NoneType has no attibute get&#8221; errors. Restarting the dev_appserver fixes this. 
-  * Unlike Django, GAE models don't have an &#8220;id&#8221; primary key. Instead, you must use object.key() which returns some sort of hash string (making for very inconvenient urls) 
+  * Sometimes after editing a view, I get random "NoneType has no attibute get&#8221; errors. Restarting the dev_appserver fixes this. 
+  * Unlike Django, GAE models don't have an "id&#8221; primary key. Instead, you must use object.key() which returns some sort of hash string (making for very inconvenient urls) 
   * I'm having
     
     [

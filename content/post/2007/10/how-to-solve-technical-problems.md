@@ -13,13 +13,13 @@ Typically, there are two approaches: Research and Experimentation. Today I'll ta
 
 Research means the internet of course, but what part of it exactly? At first of course you should search for the information yourself, using Google usually. But often if the technology is new or the problem is esoteric enough, you won't be able to find what you need (or you would need very precise keywords). The second step is to ask for expert help.
 
-As an example, some recent postings of mine on a Microsoft-related forum (I was trying to figure out how to do an addin for Microsoft Office) elicited a mail from someone with the subject &#8220;Hello, I need ur help&#8221;. I was feeling a bit helpful, so I gave him a reply. I'm not sure if it was smarmy or anything, but I also gave him some additional advice, and I quote:
+As an example, some recent postings of mine on a Microsoft-related forum (I was trying to figure out how to do an addin for Microsoft Office) elicited a mail from someone with the subject "Hello, I need ur help&#8221;. I was feeling a bit helpful, so I gave him a reply. I'm not sure if it was smarmy or anything, but I also gave him some additional advice, and I quote:
 
-&#8220;Also I have some additional free advice for you:
+"Also I have some additional free advice for you:
    
 
    
-1. Your email looks like SPAM. I was about to mark it as spam when I happened to spot the phrase &#8220;MSWord Addins&#8221; in the body. Learn to write better email subjects.
+1. Your email looks like SPAM. I was about to mark it as spam when I happened to spot the phrase "MSWord Addins&#8221; in the body. Learn to write better email subjects.
    
 
    

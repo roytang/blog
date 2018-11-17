@@ -22,7 +22,7 @@ It turned out to take a bit more than a weekend (mostly because my weekend was b
   
 3. DVCS
 
-I've toyed around with Google App Engine before, but now was the first time I got to use it for something more useful than following tutorials or writing random &#8220;Hello World&#8221;. I pretty much got to try all of the relevant services: cron jobs, tasks, memcache, GQL, etc. Everything was well-documented and easy to follow.
+I've toyed around with Google App Engine before, but now was the first time I got to use it for something more useful than following tutorials or writing random "Hello World&#8221;. I pretty much got to try all of the relevant services: cron jobs, tasks, memcache, GQL, etc. Everything was well-documented and easy to follow.
 
 Facebook on the other hand&#8230;this whole thing with their Graph API that they want to release the old REST API with makes things a bit confusing when searching for tutorials, as most of them will be referring to the old REST API, including the python facebook wrapper libraries available. It took me a while to get the authentication and setting up permissions thing going. The great thing is I don't need to go through that again for future facebook apps!
 

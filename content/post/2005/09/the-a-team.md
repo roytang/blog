@@ -14,7 +14,7 @@ My hiatus involves quite a bit of TV of course, especially since I get some idle
 
 For those not in the know, the A-Team was a bunch of rogue ex-commandos who usually acted as mercs, fighting for good, beating bad guys and saving the day. In the parlance of Roland of Gilead, gunslingers.
 
-The A-Team TV series was most famous for having as one of its cast the [now-popular-on-the-internet][1] tough-talking, fool-pitying [Mr. T][2]. I also particularly like the antics of their resident screwball flyball, &#8220;Crazy Man&#8221; Murdock.
+The A-Team TV series was most famous for having as one of its cast the [now-popular-on-the-internet][1] tough-talking, fool-pitying [Mr. T][2]. I also particularly like the antics of their resident screwball flyball, "Crazy Man&#8221; Murdock.
 
 I remember that Marvel even had an A-Team comic book out when I was a kid; I had an issue or two. I'm tempted to go out and look for copies of those now. 😀
 

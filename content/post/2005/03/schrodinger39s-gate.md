@@ -3,7 +3,7 @@ author: Roy
 categories:
 - Just Another Day
 date: 2005-03-20 09:07:00
-title: Schrodinger&#39;s Gate
+title: Schrodinger's Gate
 type: post
 url: /2005/03/schrodinger39s-gate/
 ---

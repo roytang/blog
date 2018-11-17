@@ -25,7 +25,7 @@ Happy new year! Last year I [posted some year-end statistics][1]. That seems lik
   * Weddings attended: 1 (down 1)
   * Wakes attended: 2 (up 1; T_T)
   * Games purchased (not including any I got for free for some reason): 67 (!) (up 48! Most of that is due to a humble bundle I got that had 30 games; (3 PS4 retail, 1 Wii U retail, 21 Steam, 1 from a GOG Pinata, 41 from Humble Bundle; maybe I should scale back a bit lol)
-  * Games &#8220;finished&#8221; (story/campaign completed OR achievement complete): 8 (FFXV, KH2, P5, BotW, One Piece:PW3, Stardew Valley, Persona Q, Ori and the Blind Forest). I'm also like 95% through FF12 Zodiac Age, but I'm trying to do as much stuff I can before finishing it.
+  * Games "finished&#8221; (story/campaign completed OR achievement complete): 8 (FFXV, KH2, P5, BotW, One Piece:PW3, Stardew Valley, Persona Q, Ori and the Blind Forest). I'm also like 95% through FF12 Zodiac Age, but I'm trying to do as much stuff I can before finishing it.
   * Best Eternal Rank: Master (363)
   * Average points per turn in Words with Friends: 27 (up from 26.5)
   * Books read: 9 D: (Down 21 from last year; year target was 52). [Here's the list.][6] Need to read moar

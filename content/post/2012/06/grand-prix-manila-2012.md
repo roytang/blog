@@ -16,7 +16,7 @@ type: post
 url: /2012/06/grand-prix-manila-2012/
 ---
 
-Last weekend was Grand Prix Manila 2012, held at the SMX at Mall of Asia. I don't really consider myself a &#8220;regular&#8221; Magic player anymore so I'm not going to give a full tournament report, though I will record some details for posterity.
+Last weekend was Grand Prix Manila 2012, held at the SMX at Mall of Asia. I don't really consider myself a "regular&#8221; Magic player anymore so I'm not going to give a full tournament report, though I will record some details for posterity.
 
 Let's start with the deck. I played some version of Naya Pod, limited by what cards were available as usual:
 
@@ -138,7 +138,7 @@ As can be seen above, I made day 2 for the first time, and I believe this is alr
 
 &nbsp;
 
-Aside from the main event, another thing I participated in during the second day was the Magic Rules Challenge! This was a fun thing they had where they set up a booth manned by a couple of judges. You could go up to them (no entrance fee) and answer up to three rules questions in a row. If you get questions right, you get foil cards! Well, the foil cards I won weren't very useful or valuable, but I had a lot of fun with the rules questions themselves, I really enjoy that stuff. I'd hang out there between rounds not only to join but also to watch other people play. The questions ranged in difficulty from quite easy (&#8220;You play {{< card >}}Grim Lavamancer{{< /card >}}'s activated ability and your opponent uses {{< card >}}Tormod's Crypt{{< /card >}}, how much damage is dealt?&#8221;) to an actual layers + {{< card >}}Humility{{< /card >}} question! It was a nice relaxing change of pace to play between rounds to take some pressure off.<figure style="width: 540px" class="wp-caption aligncenter">
+Aside from the main event, another thing I participated in during the second day was the Magic Rules Challenge! This was a fun thing they had where they set up a booth manned by a couple of judges. You could go up to them (no entrance fee) and answer up to three rules questions in a row. If you get questions right, you get foil cards! Well, the foil cards I won weren't very useful or valuable, but I had a lot of fun with the rules questions themselves, I really enjoy that stuff. I'd hang out there between rounds not only to join but also to watch other people play. The questions ranged in difficulty from quite easy ("You play {{< card >}}Grim Lavamancer{{< /card >}}'s activated ability and your opponent uses {{< card >}}Tormod's Crypt{{< /card >}}, how much damage is dealt?&#8221;) to an actual layers + {{< card >}}Humility{{< /card >}} question! It was a nice relaxing change of pace to play between rounds to take some pressure off.<figure style="width: 540px" class="wp-caption aligncenter">
 
 [<img title="My crappy foil winnings from the Magic Rules Challenge" src="https://lh5.googleusercontent.com/-NEifeaklwiU/T-CgiPLMfHI/AAAAAAAAAOg/MXDnqpjQZyo/s720/IMG_20120619_235315.jpg" alt="" width="540" height="720" />][2]<figcaption class="wp-caption-text">My crappy foil winnings from the Magic Rules Challenge</figcaption></figure> 
 

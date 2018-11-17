@@ -16,7 +16,7 @@ One of my many, many loyal blog readers pointed out to me that I had yet to pos
 
 [<img class="aligncenter size-full wp-image-963" src="http://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0.jpg" alt="Day-2-Opening_0" width="1920" height="1120" srcset="https://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0.jpg 1920w, https://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0-300x175.jpg 300w, https://roytang.net/wp-content/uploads/2015/02/Day-2-Opening_0-1024x597.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />][1]
 
-Yes indeed, I still play Magic, &#8220;on and off&#8221;, as it happens with most Magic players with busy lives and/or multiple other hobbies. I wouldn't miss a chance to play a local Grand Prix of course, so I started getting back into standard as soon as Khans of Tarkir rotated in. I couldn't stand the grindy midrange Abzan mirrors, so I've been playing Jeskai pretty much since the format started; Mantis Riders at first, then transitioned to tokens in December after I did poorly at a couple of GPTs.
+Yes indeed, I still play Magic, "on and off&#8221;, as it happens with most Magic players with busy lives and/or multiple other hobbies. I wouldn't miss a chance to play a local Grand Prix of course, so I started getting back into standard as soon as Khans of Tarkir rotated in. I couldn't stand the grindy midrange Abzan mirrors, so I've been playing Jeskai pretty much since the format started; Mantis Riders at first, then transitioned to tokens in December after I did poorly at a couple of GPTs.
 
 The list I ran, largely based off Yuuya Watanabe's Player's Championship deck (sideboard might not be accurate&#8230;I may have taken too long to write this up :p):
 

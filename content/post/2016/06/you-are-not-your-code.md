@@ -37,7 +37,7 @@ I once had to advise someone who found himself irritated at receiving lots of co
 ## Comments
 
 ### Comment by Eric on 2016-06-02 15:18:42 +0000
-This is very true. It also gets more difficult to write &#8220;correct&#8221;&#8216; code as you get older and gain more experience. The definition of &#8220;correct&#8221; is refined with experience and it becomes easy to get locked in analysis paralysis because you are much harder on yourself when reviewing your own code.
+This is very true. It also gets more difficult to write "correct&#8221;&#8216; code as you get older and gain more experience. The definition of "correct&#8221; is refined with experience and it becomes easy to get locked in analysis paralysis because you are much harder on yourself when reviewing your own code.
 
 There is something to just sitting down and making something work as a newbie. The fact that something works provides motivation to continue&#8230; So much so that this has become my new approach to mentoring junior developers. Think about the problem, refine the high level design with input from others, and then code something that works. It's easier to refactor a working system than it is to try to design the perfect implementation up front.
 

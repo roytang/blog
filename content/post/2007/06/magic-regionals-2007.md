@@ -7,7 +7,7 @@ type: post
 url: /2007/06/magic-regionals-2007/
 ---
 
-The venue is, as always, NG Galleria. The format, Standard. I was playing Mike Flores' &#8220;Legends of Team CMU&#8221; &#8211; the Mishra/Korlash aggro/control/combo deck that placed seventh in
+The venue is, as always, NG Galleria. The format, Standard. I was playing Mike Flores' "Legends of Team CMU&#8221; &#8211; the Mishra/Korlash aggro/control/combo deck that placed seventh in
    
 [
     
@@ -65,9 +65,9 @@ Round 3: This deck is very good against aggro. At least the normal Gruul aggro t
 
 Round 4: He went first, playing Ication Javilineers. I yawned inside. Easy match. I was right.
 
-Round 5: We were 5 turns into game 1 and I hadn't seen any Lotus Blooms so I was thinking it was some sort of R/U counterburn, and held back on the Rise / Fall until I knew what was going on. Then I died. Game 2, I had the Rise / Fall on turn 2. But I was thinking, &#8220;Gee, I don't wanna waste it and hit lands, I'll wait for him to play a couple more lands.&#8221; Then I lost. Stupid, stupid, stupid play against what should have been a favorable matchup. In my defense, I was really tired and pissed-off at my 2-2 (now 2-3) record. Yeah, bad excuse. Must&#8230;stay&#8230;in&#8230;top&#8230;mental&#8230;form&#8230;(and think about adding Stupors to the board).
+Round 5: We were 5 turns into game 1 and I hadn't seen any Lotus Blooms so I was thinking it was some sort of R/U counterburn, and held back on the Rise / Fall until I knew what was going on. Then I died. Game 2, I had the Rise / Fall on turn 2. But I was thinking, "Gee, I don't wanna waste it and hit lands, I'll wait for him to play a couple more lands.&#8221; Then I lost. Stupid, stupid, stupid play against what should have been a favorable matchup. In my defense, I was really tired and pissed-off at my 2-2 (now 2-3) record. Yeah, bad excuse. Must&#8230;stay&#8230;in&#8230;top&#8230;mental&#8230;form&#8230;(and think about adding Stupors to the board).
 
-Round 6: Most people need to read the Epochrasite when I play it, so I was surprised when the guy just went &#8220;Ok&#8221; after I played mine on turn 2. it turns out he had some of his own. He had a few Tombstalkers as well, but no Korlash in sight. Easy win once I got out a pair of Cloisters to stop the discard.
+Round 6: Most people need to read the Epochrasite when I play it, so I was surprised when the guy just went "Ok&#8221; after I played mine on turn 2. it turns out he had some of his own. He had a few Tombstalkers as well, but no Korlash in sight. Easy win once I got out a pair of Cloisters to stop the discard.
 
 Round 7: Blowout. Sorry if he reads this, but his deck isn't very good. I get to four Epochrasites early in the first game, then back it up with Arrows to take out the rebels. Game 2 was fun, with me at 2 life and no blockers, he swings with a Phyrexian Totem. Tendrils for 9. Ouch, your board is wiped.
 

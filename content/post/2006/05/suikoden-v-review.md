@@ -9,7 +9,7 @@ url: /2006/05/suikoden-v-review/
 
 Suikoden V is hands-down the best game in the Suikoden series.
 
-In almost all respects, it beats out the previous best game of the series (Suikoden 2): The story manages to follow the old pattern of &#8220;oh I need to flee my home and now I'm leading a band of rebels in a civil war!&#8221; but infuses with a lot of new elements: usurpers to the throne, historical wars of succession, threats of foreign invasion. There's a lot of politics involved in this game, and most of the first eight hours are a bit draggy because they spend so much time elaborating on it.
+In almost all respects, it beats out the previous best game of the series (Suikoden 2): The story manages to follow the old pattern of "oh I need to flee my home and now I'm leading a band of rebels in a civil war!&#8221; but infuses with a lot of new elements: usurpers to the throne, historical wars of succession, threats of foreign invasion. There's a lot of politics involved in this game, and most of the first eight hours are a bit draggy because they spend so much time elaborating on it.
 
 As for gameplay, the trademark Suikoden mechanic comes back again: gathering the 108 stars of destiny to your cause. This has always been the shining point of Suikoden &#8211; the 108 stars quest makes it stand above all other console RPGs where combat is basically the only thing standing between you and the ending. Simply winning all the battles will get you to an ending, but not
    

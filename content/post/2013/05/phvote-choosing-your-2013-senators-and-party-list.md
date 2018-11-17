@@ -16,7 +16,7 @@ The content of this post is regarding my own opinion and who I plan to vote for.
 
   * [<span style="line-height: 13px;">Movement for Good Governance briefers on Senatorial candidates</span>][1]
   * [Rappler Senatorial profiles][2]
-  * I would also Google &#8220;rappler [candidate name] interview&#8221; for the interview article for each candidate (too many to list here)
+  * I would also Google "rappler [candidate name] interview&#8221; for the interview article for each candidate (too many to list here)
 
 Here's a [link to a Google doc of my own notes on each candidate][3], which I used as basis for recommendations below. (I didn't want to clutter up the blog post with details)
 
@@ -36,7 +36,7 @@ A number of people have asked me to recommend who they should vote; while I pref
 
 **Definitely DO NOT VOTE: **Honasan, Trillianes, Maceda, Mitos Magsaysay, Villar, Enrile, Binay, Cojuangco
 
-For the &#8220;it's okay to vote for&#8221; groups, just use your own preferences, i.e. if you don't like Erap you probably won't vote for JV Ejercito.
+For the "it's okay to vote for&#8221; groups, just use your own preferences, i.e. if you don't like Erap you probably won't vote for JV Ejercito.
 
 &nbsp;
 

@@ -16,7 +16,7 @@ At least I have an additional 3 weeks of vacation to finish everything.
 
 Review of [last year's resolution][1]:
 
-&#8220;I will try more new things this year&#8221; : I'd say that's a resounding success. Especially with the trip to Hong Kong, I think I ate more new food there than I have during the past five years or so.
+"I will try more new things this year&#8221; : I'd say that's a resounding success. Especially with the trip to Hong Kong, I think I ate more new food there than I have during the past five years or so.
 
 Yay for me.
 

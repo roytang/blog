@@ -39,7 +39,7 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-24
 ][7] &#8212;
   
     Tagged as: quotes
-  * [Gamasutra &#8211; Soapbox &#8211; &#8220;World of Warcraft Teaches the Wrong Things&#8221;
+  * [Gamasutra &#8211; Soapbox &#8211; "World of Warcraft Teaches the Wrong Things&#8221;
   
 ][8] &#8212;
   

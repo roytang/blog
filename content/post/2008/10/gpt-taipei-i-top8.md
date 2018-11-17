@@ -330,7 +330,7 @@ It was late in game three and I had stabilized at eight life. Porter had a Caver
    
 ).
 
-On his turn, he swings with the Cavern Thoctar, which is a printed 5/5. I look at the Resounding Thunder in my hand and figure first strike damage off the Sigiled Paladin + 3 from the burn spell was good. It wasn't, since I forgot about the exalted guy making the Thoctar a 6/6. I facepalmed myself and Porter gave me a casual &#8220;Ok lang yan Roy!&#8221; I figured I had lost the game right there, but we don't give up 'til the fighting's done, so I kept going. Who knows, even a former National Champ can make a mistake!
+On his turn, he swings with the Cavern Thoctar, which is a printed 5/5. I look at the Resounding Thunder in my hand and figure first strike damage off the Sigiled Paladin + 3 from the burn spell was good. It wasn't, since I forgot about the exalted guy making the Thoctar a 6/6. I facepalmed myself and Porter gave me a casual "Ok lang yan Roy!&#8221; I figured I had lost the game right there, but we don't give up 'til the fighting's done, so I kept going. Who knows, even a former National Champ can make a mistake!
 
 I ripped the topdeck and saw a Grixis obelisk. I swung with the Angel for four, bringing him to 11. Then I play the Obelisk, and now having a black source I manage to play the last card in my hand &#8211; Broodmate Dragon! I take a
    
@@ -342,9 +342,9 @@ Porter passed back the turn with around eleven mana up and a fistful of cards. N
 
 Porter draws his card and counts his mana. He shows me Resounding Wave, bouncing the Court Archers, then swings with the Cavern Thoctar, pumping it twice to make it lethal eight damage. I grinned, of course even the best players can make mistakes! My Druid of the Anima sneaks out from the lands she had been hiding from and willingly sacrificed herself to the Thoctar. I would have been dead if Porter had noticed her and cycled the Resounding Wave instead.
 
-On my turn I swing with the Dragon again and bring Porter down to 3. Then I re-play the Court Archer (yeah, slight misplay now that I see it) and pass the turn. Porter draws his card and tells me that &#8220;naawa yung deck ko sakin&#8221;. He plays Bull Cerodon and swings with two 5/5s. The Archers chump the Thoctar and I drop to 3 life. Then he plays what he topdecked &#8211; Court Archers to block the Broodmate Dragon!
+On my turn I swing with the Dragon again and bring Porter down to 3. Then I re-play the Court Archer (yeah, slight misplay now that I see it) and pass the turn. Porter draws his card and tells me that "naawa yung deck ko sakin&#8221;. He plays Bull Cerodon and swings with two 5/5s. The Archers chump the Thoctar and I drop to 3 life. Then he plays what he topdecked &#8211; Court Archers to block the Broodmate Dragon!
 
-I had no cards in hand and was dead on the board. I had already used the Resounding Thunder and the Oblivion Ring so my only possible out had to be on top of deck in order for me to win. I flipped the top card unto the table &#8211; and showed him the Bant Charm! &#8220;Archers to bottom of library,&#8221; I said and the dragon token took the win!
+I had no cards in hand and was dead on the board. I had already used the Resounding Thunder and the Oblivion Ring so my only possible out had to be on top of deck in order for me to win. I flipped the top card unto the table &#8211; and showed him the Bant Charm! "Archers to bottom of library,&#8221; I said and the dragon token took the win!
 
 2-1 win. Remember, even if you're playing against very good players, never give up 'til the fighting's done!
 

@@ -35,7 +35,7 @@ Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2007-01-18
 ][6] &#8212;
   
     Tagged as: productivity software
-  * [Dissertation CoachIs Time Your Enemy? Conquer It with an &#8220;Unschedule!&#8221; &#8211; Mar 29.2006
+  * [Dissertation CoachIs Time Your Enemy? Conquer It with an "Unschedule!&#8221; &#8211; Mar 29.2006
   
 ][7] &#8212;
   

@@ -55,7 +55,7 @@ Round 3: Merfolk vs UG Faeries
   
 _
     
-&#8220;Basta may island, good matchup!&#8221;
+"Basta may island, good matchup!&#8221;
    
 _ 
 

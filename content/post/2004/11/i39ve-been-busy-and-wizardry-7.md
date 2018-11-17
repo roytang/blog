@@ -2,7 +2,7 @@
 categories:
 - Gaming
 date: 2004-11-12 13:37:46
-title: "I&#39;ve Been Busy\xE2\u20AC\xA6and Wizardry 7"
+title: "I've Been Busyand Wizardry 7"
 type: post
 url: /2004/11/i39ve-been-busy-and-wizardry-7/
 ---

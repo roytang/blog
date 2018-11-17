@@ -8,7 +8,7 @@ type: post
 url: /2016/10/a-programmers-hubris/
 ---
 
-> &#8220;We will encourage you to develop the three great virtues of a programmer: _laziness_, _impatience_, and _hubris_.&#8221; &#8212; Larry Wall, Programming Perl (1st edition)
+> "We will encourage you to develop the three great virtues of a programmer: _laziness_, _impatience_, and _hubris_.&#8221; &#8212; Larry Wall, Programming Perl (1st edition)
 
 Hubris is a fancier word for an excessive sense of pride. Why is this to be considered a great virtue for a programmer? Programming is at least partly an act of creation, which means there is an element of craftsmanship involved. A craftsman imbued with hubris is able to take pride in his work &#8211; he is driven to create work that is the best quality he can provide. For a programmer, this quality reflects both externally (low number of defects) and internally (code that is easy to read and maintain)
 

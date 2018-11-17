@@ -10,6 +10,6 @@ url: /2005/07/linux-is-shareware/
 
 Or so the paper says.
 
-The Philippine Daily Inquirer had an article today about Oracle targetting local SMEs. Apparently they have an advantage because they use &#8220;the Linux shareware.&#8221;
+The Philippine Daily Inquirer had an article today about Oracle targetting local SMEs. Apparently they have an advantage because they use "the Linux shareware.&#8221;
 
 Too bad I can't find the article online.

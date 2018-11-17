@@ -12,11 +12,11 @@ I remember the atmosphere at UP around the time of the infamous second evelope a
 
 Today? Today, the conversations are like this:
 
-&#8220;Mag-gimik dapat kami bukas sa Makati eh&#8230;&#8221;
+"Mag-gimik dapat kami bukas sa Makati eh&#8230;&#8221;
 
-&#8220;May rally daw bukas ah?&#8221;
+"May rally daw bukas ah?&#8221;
 
-&#8220;Oo nga, bad trip nga eh&#8221;
+"Oo nga, bad trip nga eh&#8221;
 
 That's the biggest problem facing the power-hungry vultures looking for a quick way to oust Gloria. Right now, people just don't care. At least not the people that matter, not the average middle-class joe too busy earning a living, yet not poor enough to be part of a hakot crowd. The current crisis has apparently not yet reached it's breaking point, despite the calls from different sectors for Gloria's head.
 

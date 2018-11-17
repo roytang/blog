@@ -10,7 +10,7 @@ url: /2018/11/engagement-algorithms-encourage-extreme-divisive-views/
 
 Apparently, [Youtube's algorithms tend to promote extremist content][1].
 
-This is an unsurprising (yet unforeseen) consequence of the &#8220;free&#8221; advertising-driven internet. Social media algorithms optimize for engagement (eyeballs, views, likes, whatever, etc). Meanwhile, humans are more likely to engage with controversial content. Everyday status quo content is boring by comparison. Hence, controversial or extremist content will tend to bubble to the top. 
+This is an unsurprising (yet unforeseen) consequence of the "free&#8221; advertising-driven internet. Social media algorithms optimize for engagement (eyeballs, views, likes, whatever, etc). Meanwhile, humans are more likely to engage with controversial content. Everyday status quo content is boring by comparison. Hence, controversial or extremist content will tend to bubble to the top. 
 
 It's the same reason politics has made social media divisive &#8211; promoting divisive content has turned out to be profitable in terms of engagement. This was happening before with mass media, but on a slower scale. With the worldwide internet, the spread of divisive and extremist content has accelerated rapidly. 
 

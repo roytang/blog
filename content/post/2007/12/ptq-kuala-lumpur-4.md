@@ -407,7 +407,7 @@ The pool is pretty ok I think, but no Shreikmaw makes me sad.
 
 My first round matchup is against one of the more veteran players. He's playing some R-B-W combination, fast aggro stuff. I'm faster in game 1 and manage to play Colfenor's Plans, attracting some onlookers who told me it was a deathtrap. I had read about some pros liking it and wanted to try it out. The logic being, if you're out of cards anyway, and you can only play one spell per turn anyway (the one you topdeck), and you can win with just a bit more push, might as well grab the next seven cards immediately. As one of the judges pointed out, I didn't need to play the plans, it was plain greedy, since my opponent was at six and I had a flier and two Tar Pitchers out.
 
-Game 2, I hit Footbottom Feast targetting Spiderwig Boggart then I put the Boggart in my hand then said, &#8220;draw a card from feast&#8221;. I looked at the top card before my opponent could stop me. Oops, of course the Boggart was already the draw from the feast, so I got a warning for looking at extra cards and the judge shuffles my deck. I'm glad it's not a game loss, but it doesn't matter as I lose to an aggressive Blades of Velis Vel.
+Game 2, I hit Footbottom Feast targetting Spiderwig Boggart then I put the Boggart in my hand then said, "draw a card from feast&#8221;. I looked at the top card before my opponent could stop me. Oops, of course the Boggart was already the draw from the feast, so I got a warning for looking at extra cards and the judge shuffles my deck. I'm glad it's not a game loss, but it doesn't matter as I lose to an aggressive Blades of Velis Vel.
 
 Game 3, I mull to five and am unable to recover.
 
@@ -437,7 +437,7 @@ Round 6, my opponent is a merfolk deck with Springleaf Drum, Falloysage and Vete
 
 Round 6: 0-2 loss
 
-Sigh, I'm not even getting prizes anymore. I tick &#8220;Drop&#8221; on the result slip, then change my mind and cross it out. I want to play the last round to at least get some practice&#8230;hopefully my play skill can improve just a bit.
+Sigh, I'm not even getting prizes anymore. I tick "Drop&#8221; on the result slip, then change my mind and cross it out. I want to play the last round to at least get some practice&#8230;hopefully my play skill can improve just a bit.
 
 Round 7: 0-2 loss. Bleah. I think my play was tight, but he just drew better cards. I remember he had an Epic Proportions that stopped my Lash Outs.
 

@@ -18,7 +18,7 @@ url: /2008/11/free-flex-shirt-from-adobe/
       Originally uploaded by<br /> <a href="http://www.flickr.com/people/zroytang/"><br /> zroytang<br /> </a><br /> </span></div> 
       
       <p>
-        A while back I got an email telling me that Adobe was sending out free Flex T-Shirts to people who had contributed to Flex 3. I had reported a few bugs on Flex JIRA, apparently that was enough for me to get a free shirt! The picture here shows the back of the shirt, the front just has a small Adobe logo. The &#8220;Fx&#8221; is composed of names of the contributors; my name is near the lower end of the &#8220;F&#8221;
+        A while back I got an email telling me that Adobe was sending out free Flex T-Shirts to people who had contributed to Flex 3. I had reported a few bugs on Flex JIRA, apparently that was enough for me to get a free shirt! The picture here shows the back of the shirt, the front just has a small Adobe logo. The "Fx&#8221; is composed of names of the contributors; my name is near the lower end of the "F&#8221;
       </p>
       
       <p>

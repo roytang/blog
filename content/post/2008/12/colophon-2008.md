@@ -32,7 +32,7 @@ As is typical for hobbyist software development, I started working on this site 
   3. Automatic extraction of twitter and delicious entries into the sidebar
   4. [Gravatar][18] support for comments
 
-All entries from the previous &#8220;roytang / weblog&#8221;, &#8220;Roy on Magic&#8221; and &#8220;Roy on Django&#8221; have been imported using a custom data conversion script, but nothing is perfect so some of the older posts may be badly formatted. (Comment on those posts!)
+All entries from the previous "roytang / weblog&#8221;, "Roy on Magic&#8221; and "Roy on Django&#8221; have been imported using a custom data conversion script, but nothing is perfect so some of the older posts may be badly formatted. (Comment on those posts!)
 
 **Hosting**: Provided by [Webfaction][19].
 

@@ -12,7 +12,7 @@ url: /2004/06/pinoy-culture-thank-god-it39s-over/
 
 * * *
 
-Rep. Digs Dilangalen: Mr. Chairman, I object to this &#8220;Shut up!&#8221; note. I demand that the one who sent this note be cited for contempt! This is an outrage!The Rock: I see. Can you show me this note jabroni?
+Rep. Digs Dilangalen: Mr. Chairman, I object to this "Shut up!&#8221; note. I demand that the one who sent this note be cited for contempt! This is an outrage!The Rock: I see. Can you show me this note jabroni?
 
 Digs (fuming, pulls out a piece of paper, approaches the Rock): Here it is Mr. Chair&#8212;
 
@@ -20,7 +20,7 @@ The Rock (holds up his hand): Stop right there, jabroni, no need to get close to
 
 (Digs stops in his track, obviously peeved.)
 
-The Rock: Tell you what, Mr. &#8220;Digs&#8221;&#8230;this is what we're gonna do. Why don't you take that there note, roll it up real nice, turn that thing sideways&#8230;and stick it up your candy ass!
+The Rock: Tell you what, Mr. "Digs&#8221;&#8230;this is what we're gonna do. Why don't you take that there note, roll it up real nice, turn that thing sideways&#8230;and stick it up your candy ass!
 
 (Senate explodes into chaos)
 

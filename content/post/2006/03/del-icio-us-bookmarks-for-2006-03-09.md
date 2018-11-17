@@ -15,7 +15,7 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-03-09
   
 ][3] &#8212;
   
-    &#8220;Click and hold the red square. Now, move it so that you neither touch the walls nor get hit by any of the blue blocks If you make it to 18 seconds, you are doing brilliantly!&#8221; Mindless! After a few tries I made it to 21 secs running on evasive instinct Tagged as: cool games javascript
+    "Click and hold the red square. Now, move it so that you neither touch the walls nor get hit by any of the blue blocks If you make it to 18 seconds, you are doing brilliantly!&#8221; Mindless! After a few tries I made it to 21 secs running on evasive instinct Tagged as: cool games javascript
 
  [1]: http://del.icio.us/
  [2]: http://del.icio.us/roytang

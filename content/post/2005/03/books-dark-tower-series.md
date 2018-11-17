@@ -11,7 +11,7 @@ type: post
 url: /2005/03/books-dark-tower-series/
 ---
 
-&#8220;I do not aim with my hand.
+"I do not aim with my hand.
   
 He who aims with his hand has forgotten the face of his father.
   

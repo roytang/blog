@@ -11,4 +11,4 @@ Not that it's a bad game mind you. From the ten or so hours I've played it's def
 
 That's the problem. I don't have time for above average games. It was okay when I was still in school and had tons of free time, I could afford to waste my time with midcarders like Legend of Legaia or Wild Arms, but these days there are so many things competing for my attention (thanks DSL), and work sched is a lot more tight than school, so I have to be a LOT more selective in my choice of distractions. 
 
-And &#8220;above-average&#8221; just doesn't make the cut anymore.
+And "above-average&#8221; just doesn't make the cut anymore.

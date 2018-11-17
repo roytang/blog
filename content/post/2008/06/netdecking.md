@@ -8,7 +8,7 @@ type: post
 url: /2008/06/netdecking/
 ---
 
-There was a recent thread over on the [Neutral Grounds forums ][1]about how Filipino MTG players often &#8220;netdeck&#8221; or use decklists off the internet. To anyone who starts playing MTG, the ability to build your own decks has always been one of the primary appeals. For this reason, every MTG player would like to think that they have in themselves some level of deckbuilding &#8220;skills&#8221; and that using netdecks should be treated as a loss of pride in one's own work.
+There was a recent thread over on the [Neutral Grounds forums ][1]about how Filipino MTG players often "netdeck&#8221; or use decklists off the internet. To anyone who starts playing MTG, the ability to build your own decks has always been one of the primary appeals. For this reason, every MTG player would like to think that they have in themselves some level of deckbuilding "skills&#8221; and that using netdecks should be treated as a loss of pride in one's own work.
 
 I don't feel strongly about this issue; I've used both netdecks and my own homebrew designs in tournaments before. Checking my own stats (one advantage of this blog is that I have a record of every tournament I ever played): I have a 59% match win rate when using a netdeck, and 54% when using my own homebrew designs. There's a statistically signficant difference, so I can't claim that I am an awesome deck designer. (Maybe in the future.)
 

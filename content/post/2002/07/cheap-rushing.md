@@ -28,9 +28,9 @@ to win and secondarily for fun.
 
 Get a bunch of friends together and hook up a LAN and play
   
-amongst yourselves, where you can have your own rules like &#8220;No
+amongst yourselves, where you can have your own rules like "No
   
-rushing!&#8221; or &#8220;Announce before attacking!&#8221; or &#8220;No building fifty
+rushing!&#8221; or "Announce before attacking!&#8221; or "No building fifty
   
 million towers!&#8221;
 
@@ -42,11 +42,11 @@ find that 2v2 is best, as there is little human interaction in
   
 1v1.
 
-If you think that rushing makes the game &#8220;no fun&#8221;, then maybe
+If you think that rushing makes the game "no fun&#8221;, then maybe
   
 you should be playing another game. Warcraft III is a *strategy
   
-game*, the &#8220;fun&#8221; is in finding strategies to beat your opponent.
+game*, the "fun&#8221; is in finding strategies to beat your opponent.
   
 Rushing is a strategy, just like any other, and it can be
   
@@ -64,7 +64,7 @@ rushes. Scout ahead to know they are coming. Practice against two
   
 or more computer opponents to test yourself. The key to improving
   
-is not to whine about things that are &#8220;cheap&#8221; or &#8220;no fun&#8221; but to
+is not to whine about things that are "cheap&#8221; or "no fun&#8221; but to
   
 study ways to beat those things.
 

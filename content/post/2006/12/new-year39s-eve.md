@@ -3,9 +3,9 @@ author: Roy
 categories:
 - Just Another Day
 date: 2006-12-31 03:03:11
-title: New Year&#39;s Eve
+title: New Year's Eve
 type: post
-url: /2006/12/new-year39s-eve/
+url: /2006/12/new-years-eve/
 ---
 
 It's around 7 PM on the 31st of December.

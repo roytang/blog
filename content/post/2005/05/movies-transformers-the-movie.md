@@ -19,7 +19,7 @@ Transformers: the Movie was the pinnacle of my childhood experience with the Tra
 
 I was not disappointed. Well, not much anyway. As an adult I've grown more critical of things in general, quick to spot and point out minute flaws. Some notes:
 
-The year is 2005 in Transformers the Movie, some 19 years after the movie's actual release. At least they didn't predict flying cars like Back to the Future, but how come we don't yet have cars that look like Hot Rod? The &#8220;futuristic&#8221; look of the six new Autobots introduced in the movie (Ultra Magnus, Hot Rod, Kup, Blurr, Springer and Arcee) give you an indication of how the people of 80s perceived future transportation.
+The year is 2005 in Transformers the Movie, some 19 years after the movie's actual release. At least they didn't predict flying cars like Back to the Future, but how come we don't yet have cars that look like Hot Rod? The "futuristic&#8221; look of the six new Autobots introduced in the movie (Ultra Magnus, Hot Rod, Kup, Blurr, Springer and Arcee) give you an indication of how the people of 80s perceived future transportation.
 
 Apparently, Transformers can use lightsabers, er&#8230;Laser Swords! Megatron pulls one out during his fatal battle with Optimus Prime, and later in the movie one of the Autobots does too. (I think it was Hot Rod, I forget.)
 

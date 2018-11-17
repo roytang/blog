@@ -69,7 +69,7 @@ The idea is that communications overhead scales up quickly as you add more peopl
       The need for good coding and development standards increases
     </li>
     <li style="font-weight: 400;">
-      Higher likelihood of code duplication (&#8220;I didn't know that Developer R already wrote a function that does X!&#8221;)
+      Higher likelihood of code duplication ("I didn't know that Developer R already wrote a function that does X!&#8221;)
     </li>
     <li style="font-weight: 400;">
       More important for code to be well-decoupled, to reduce the likelihood of one developer breaking a lot of things

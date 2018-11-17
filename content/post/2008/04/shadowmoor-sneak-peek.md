@@ -304,7 +304,7 @@ and played some flavor of black. After browsing the Green-White hybrids though, 
    
 [Shield of the Oversoul][2]
    
-, except this time I have a lot more quality white-green creatures to attach it to. &#8220;Terror&#8221; effects are a bit sparse in Shadowmoor limited, so once again I go with midrange evasive fatties!
+, except this time I have a lot more quality white-green creatures to attach it to. "Terror&#8221; effects are a bit sparse in Shadowmoor limited, so once again I go with midrange evasive fatties!
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -448,7 +448,7 @@ Game three he's on the play and has no one-drop again (lucky!). I lay down Overs
    
 
    
-On his turn he lays down a bunch of creatures including Safehold Elite (which can block the Oversoul!) and is ready to swing and kill me next turn. I topdeck the Shield of the Oversoul and show it to him. &#8220;That's only 7/7,&#8221; he shrugs. I show him the last card in my hand &#8211; Tower Above, and I take the win.
+On his turn he lays down a bunch of creatures including Safehold Elite (which can block the Oversoul!) and is ready to swing and kill me next turn. I topdeck the Shield of the Oversoul and show it to him. "That's only 7/7,&#8221; he shrugs. I show him the last card in my hand &#8211; Tower Above, and I take the win.
 
 Four and O! If only I had this pool last week&#8230;
 
@@ -500,7 +500,7 @@ Elsewhere Flask
   
 ** 
    
-&#8211; I get some flak for not putting in these &#8220;free&#8221; cards. I have enough trouble cutting things in the maindeck, thanks. In particular matchups I may board them in, say there's a particular threat or answer I want to draw as often or as soon as possible. Manamorphose is the better card, as it's truly free, the only requirement being having two mana free (but you get that mana back)
+&#8211; I get some flak for not putting in these "free&#8221; cards. I have enough trouble cutting things in the maindeck, thanks. In particular matchups I may board them in, say there's a particular threat or answer I want to draw as often or as soon as possible. Manamorphose is the better card, as it's truly free, the only requirement being having two mana free (but you get that mana back)
 
 **
   
@@ -530,7 +530,7 @@ Scarecrows &#8211;
    
 ** 
    
-use these to fill out your curve, they're especially useful to stop the &#8220;evasive hill giant&#8221; cycle.
+use these to fill out your curve, they're especially useful to stop the "evasive hill giant&#8221; cycle.
    
 [Lurebound Scarecrow][6]
    

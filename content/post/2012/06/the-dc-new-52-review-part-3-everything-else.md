@@ -24,15 +24,15 @@ _Superboy_ &#8211; interesting, but the character has yet to find a status quo
   
 _Supergirl_ &#8211; interesting, but the character has yet to find a status quo
 
-_Green Lantern_ &#8211; interesting, though it implies Hal is currently a GL in the league with a &#8220;fake&#8221; power ring. Most of the GL history seems to be intact, and the GL books are all leading towards some sort of &#8220;third army&#8221; event, I hope it happens soon.
+_Green Lantern_ &#8211; interesting, though it implies Hal is currently a GL in the league with a "fake&#8221; power ring. Most of the GL history seems to be intact, and the GL books are all leading towards some sort of "third army&#8221; event, I hope it happens soon.
   
 _Green Lantern Corps_ &#8211; interesting enough for me to want to read it before AvX #6 this week
   
-_Green Lantern: New Guardians_ &#8211; interesting, but I don't see where this is going. Is it possible for Raynier's &#8220;Rainbow Guardians&#8221; to become a real team?
+_Green Lantern: New Guardians_ &#8211; interesting, but I don't see where this is going. Is it possible for Raynier's "Rainbow Guardians&#8221; to become a real team?
   
 _Red Lanterns_ &#8211; mildly interesting, but I don't see where this is going. I'm not convinced the Reds were the best corps to give their own series
 
-_Teen Titans_ &#8211; interesting for me, but only because Red Robin is here. The team's &#8220;coming together adventure&#8221; has been going on for far too long and they need to reach some sort of status quo
+_Teen Titans_ &#8211; interesting for me, but only because Red Robin is here. The team's "coming together adventure&#8221; has been going on for far too long and they need to reach some sort of status quo
   
 _Blue Beetle_ &#8211; interesting, but the character has yet to find a status quo
   
@@ -56,7 +56,7 @@ _Resurrection Man_ &#8211; I like the concept, but the storyline seems to be goi
   
 _Man O War_ &#8211; I tried to bear with this, but it just bored me. I only managed to read up to issue 7
 
-_Justice League Dark_ &#8211; interesting, though they're not really a real &#8220;team&#8221; at the moment. But the team composition is solid, especially they dropped Shade who wasn't really doing anything for the book. Andrew Bennet seems a better fit
+_Justice League Dark_ &#8211; interesting, though they're not really a real "team&#8221; at the moment. But the team composition is solid, especially they dropped Shade who wasn't really doing anything for the book. Andrew Bennet seems a better fit
   
 _Swamp Thing_ &#8211; interesting, but might be a bit too weird for some, since a lot of the book feels like Alec Holland being on an acid trip of some sort. Feels very Vertigo.
   
@@ -82,7 +82,7 @@ _Dial H_ &#8211; off to a good start, but I can't help but wonder whether they'l
   
 _GI Combat_ &#8211; okay, I didn't like the last war book, I'm not gonna bother with this one.
   
-_The Ravagers_ &#8211; giving this a shot, although at the moment it just seems like another &#8220;bunch of super teens on the run from evil forces&#8221; kinda deal, and that's already what Teen Titans is doing at the moment.
+_The Ravagers_ &#8211; giving this a shot, although at the moment it just seems like another "bunch of super teens on the run from evil forces&#8221; kinda deal, and that's already what Teen Titans is doing at the moment.
 
 I'm probably going to keep on reading a good 70-80% of the books going forward, I don't feel compelled to read every single one of them any more. It's still a good chunk of books to read, and makes me look forward to the new releases every week.
 

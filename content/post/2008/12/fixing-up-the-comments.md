@@ -31,7 +31,7 @@ Edit: Wow that was stupid. Blogger didn't want to render the HTML code above!
   
 _ 
 
-I also replaced the URL in the &#8220;cancel&#8221; links for both pages. For some reason, {{ comment.permalink }} wasn't giving me anything useful.
+I also replaced the URL in the "cancel&#8221; links for both pages. For some reason, {{ comment.permalink }} wasn't giving me anything useful.
 
 2. Took me a bit of work to figure out how the moderation part works. Apparently I have to hook on some of the signals to add my moderation logic. I'm not sure yet how to handle this, or whether I should try customizing the comment form with something like a captcha to prevent comment spam.
 

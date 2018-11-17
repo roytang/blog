@@ -15,7 +15,7 @@ same deck
    
 ][1] 
    
-again this past weekend, but I forgot to name it &#8220;Nameless Deck Wins&#8221; this time, so I posted a much worse record. =(
+again this past weekend, but I forgot to name it "Nameless Deck Wins&#8221; this time, so I posted a much worse record. =(
 
 I went 2-3-drop, with the losses all going to aggro decks (2 Boros, 1 KarstenBot). The Boros matchup is winnable, but really tight, with no room for error.
 

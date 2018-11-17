@@ -36,7 +36,7 @@ I don't really read a lot of webcomics. Well, at least not as many as some peopl
 
 [Questionable Content
   
-][7] &#8211; eh, I'm not sure why I follow this. I'm not sure I can explain it, so from Wikipedia: &#8220;the style ranges between romantic melodrama, humor about indie rock music, and sexual or scatological humor&#8221;. I started reading it a while back and I stuck around. Not really funny. Well maybe it is if you follow indie rock.
+][7] &#8211; eh, I'm not sure why I follow this. I'm not sure I can explain it, so from Wikipedia: "the style ranges between romantic melodrama, humor about indie rock music, and sexual or scatological humor&#8221;. I started reading it a while back and I stuck around. Not really funny. Well maybe it is if you follow indie rock.
 
 And the ones that do have feeds:
 
@@ -54,7 +54,7 @@ And the ones that do have feeds:
 
 [xkcd
   
-][11] &#8211; this is awesome and geeky, but not in the usual geeky way. The description is &#8220;A webcomic of romance, sarcasm, math, and language.&#8221; Read it, maybe you'll like it!
+][11] &#8211; this is awesome and geeky, but not in the usual geeky way. The description is "A webcomic of romance, sarcasm, math, and language.&#8221; Read it, maybe you'll like it!
 
 Edit: Well, I was trying to figure out why I didn't have feeds of the first group, and I checked, and now I got feeds for all of 'em! The list above is kept in original form however.
 

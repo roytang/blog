@@ -8,9 +8,9 @@ type: post
 url: /2016/06/immortality/
 ---
 
-> &#8220;Do you know what's there, waiting beyond that beach? _Immortality_! _Take it! It's yours_!&#8221; &#8211; Achilles, Troy
+> "Do you know what's there, waiting beyond that beach? _Immortality_! _Take it! It's yours_!&#8221; &#8211; Achilles, Troy
 
-Each person has a different view of what their life's purpose is, but I've found more often than not it relates to some form of immortality. Usually that means leaving something behind, some trace of yourself so that the world remembers you, something that says &#8220;I was here, I existed.&#8221; For many people that means offspring, for others it may mean some other legacy: children taught, people helped, ideas expounded, inventions created, companies founded, and so on
+Each person has a different view of what their life's purpose is, but I've found more often than not it relates to some form of immortality. Usually that means leaving something behind, some trace of yourself so that the world remembers you, something that says "I was here, I existed.&#8221; For many people that means offspring, for others it may mean some other legacy: children taught, people helped, ideas expounded, inventions created, companies founded, and so on
 
 For me, I wouldn't mind actual immortality. Who knows, it may still happen in our lifetime. Medical science may yet find a way to extend our lifespans or even permanently remove aging (at which point we really need to expand beyond this planet). Or maybe we manage to survive until the singularity and live on as artificial constructs
 

@@ -5,7 +5,7 @@ author: roy
 categories:
 - Just Another Day
 date: 2011-07-31 08:01:11
-title: "Dear Citibank, About Your New Website\xE2\u20AC\xA6"
+title: "Dear Citibank, About Your New Website"
 type: post
 url: /2011/07/dear-citibank-about-your-new-website/
 ---
@@ -18,7 +18,7 @@ About this new website design/whatever. I am glad that you know have 2-factor au
 
 2. The account summary shown to me upon logout does not include transactions made during the same login session. The old website used to be able to do this.
 
-3. Something is wrong with your message composer, error handling and session management. I actually attempted to send this message through your in-app messaging three times before giving up. I keep getting an error about an &#8220;invalid character&#8221; in the message (kind of ridiculous if your messaging app does not support slahes or parentheses or whatever, there's not even any indication which character has failed), and after the error page there's no way to go back to my message to edit it AND apparently I have to login again. What's up with that?
+3. Something is wrong with your message composer, error handling and session management. I actually attempted to send this message through your in-app messaging three times before giving up. I keep getting an error about an "invalid character&#8221; in the message (kind of ridiculous if your messaging app does not support slahes or parentheses or whatever, there's not even any indication which character has failed), and after the error page there's no way to go back to my message to edit it AND apparently I have to login again. What's up with that?
 
 Thanks!
 

@@ -150,7 +150,7 @@ Game one saw him with a bad hand, his only lands were islands and two mutavaults
 
 I mistakenly assumed he was UG Faeries, so I went -2 Loxodon Warhammer, +2 Squall Line
 
-Game two, he gets out a Scryb Ranger, a Wilt-Leaf Cavaliers and a Garruk. Eventually he declares, &#8220;Here comes my combo!&#8221;, and plays out Spectral Force, untaps two lands, then plays
+Game two, he gets out a Scryb Ranger, a Wilt-Leaf Cavaliers and a Garruk. Eventually he declares, "Here comes my combo!&#8221;, and plays out Spectral Force, untaps two lands, then plays
    
 [Savor the Moment][2]
    
@@ -216,7 +216,7 @@ My boarding plan here was same as the previous round -2 Loxodon Warhammer, -1 Bi
 
 This time the hate came out, and I won game two due to a Tormod's Crypt turning his reanimation spells into dead cards.
 
-In game 3, we go into topdeck mode without him reanimating anything. Finally, he attempts Dread Return and I show him the lone card in my hand: Stonecloaker! I RFG the Akroma he wanted, but he keeps all other creatures off the board with removal. He's at three so even a single Llanowar Elves gets hits with a Damnation. I manage to play another elf; he attempts to Dread Return again. He still has four mana open so I assume has the Mannequin to respond to Stonecloaker. I take the bait, knowing I had an O-Ring in hand for the Hellkite that would come. He plays Mannequin in response as I expected. I clarify: &#8220;Is the Stonecloaker in play?&#8221; His response: &#8220;No, still on the stack.&#8221; Perfect! I let Mannequin resolve, taking me down to sixteen. We resolve Stonecloaker and I bounce the elf. On my turn I play O-Ring and swing for the last 3 damage.
+In game 3, we go into topdeck mode without him reanimating anything. Finally, he attempts Dread Return and I show him the lone card in my hand: Stonecloaker! I RFG the Akroma he wanted, but he keeps all other creatures off the board with removal. He's at three so even a single Llanowar Elves gets hits with a Damnation. I manage to play another elf; he attempts to Dread Return again. He still has four mana open so I assume has the Mannequin to respond to Stonecloaker. I take the bait, knowing I had an O-Ring in hand for the Hellkite that would come. He plays Mannequin in response as I expected. I clarify: "Is the Stonecloaker in play?&#8221; His response: "No, still on the stack.&#8221; Perfect! I let Mannequin resolve, taking me down to sixteen. We resolve Stonecloaker and I bounce the elf. On my turn I play O-Ring and swing for the last 3 damage.
 
 Games: 5-4, rounds: 2-2
 

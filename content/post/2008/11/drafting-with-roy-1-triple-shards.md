@@ -184,7 +184,7 @@ Round three game one, I bring him to two, but he stabilizes and clears my board 
 
 Round three game two, I manage to go obelisk into five drop into quietus spike again, quickly taking him from 20 to 8 in one swing. I win the game and we go to the rubber match.
 
-I shuffle up and the TO hands us the pack that we're playing for. &#8220;We should open it, so that if it's a crap rare we don't have to play the third game&#8221;, I joke around as I search for any useful sideboard cards.
+I shuffle up and the TO hands us the pack that we're playing for. "We should open it, so that if it's a crap rare we don't have to play the third game&#8221;, I joke around as I search for any useful sideboard cards.
 
 Round three game three he doesn't draw any creatures and I have a steady stream, so I keep the prize pack.
 

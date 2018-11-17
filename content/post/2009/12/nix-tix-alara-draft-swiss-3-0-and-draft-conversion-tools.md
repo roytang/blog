@@ -10,7 +10,7 @@ url: /2009/12/nix-tix-alara-draft-swiss-3-0-and-draft-conversion-tools/
 
 Now, this is a bit awkward. One of the side projects that's been in my backlog for a long time has been to work on an improved version of the MTGO Draft Converter at [zizibaloob][1]. I thought I would get started on that today, and in fact already had quite a bit of javascript done for the draft widget when I read a [new post by Brian David-Marshall over on top8magic][2] and found out that there was already a new draft recorder website: [RareDraft][3]. I got myself an invite and tried it out, it has many of the features I was planning and more! Ah, now I don't know whether it's worth continuing my own project. =/
 
-Anyway, here's the link to the unfinished, unrefined (but working!) [MtgStorm draft converter][4]. (if you've been following [me on twitter][5], you know that I created a new username [&#8220;mtgstorm&#8221;][6] for MTG-related stuff)
+Anyway, here's the link to the unfinished, unrefined (but working!) [MtgStorm draft converter][4]. (if you've been following [me on twitter][5], you know that I created a new username ["mtgstorm&#8221;][6] for MTG-related stuff)
 
 To see how far ahead RareDraft's offering is, here's a recent Alara block draft I 3-0'd on MTGO. The first output is by the MtgStorm draft converter, the second is by RareDraft.
 

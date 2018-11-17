@@ -26,7 +26,7 @@ Pragmatic Programmer: From Journeyman to Master
   
 _ 
   
-by Andrew Hunt and David Thomas &#8211; yeah, I've been in a sort of &#8220;improving my software development skills&#8221; mode lately, snapping up books like this and the previous one and going through them like life depended on it. Lots of sagely advice here, mostly stuff good developers know about inherently, and quite a few good ideas new to me.
+by Andrew Hunt and David Thomas &#8211; yeah, I've been in a sort of "improving my software development skills&#8221; mode lately, snapping up books like this and the previous one and going through them like life depended on it. Lots of sagely advice here, mostly stuff good developers know about inherently, and quite a few good ideas new to me.
 
 _
   
@@ -34,7 +34,7 @@ Ang Alamat ng Gubat
   
 _ 
   
-by Bob Ong &#8211; literally translated, it's &#8220;The Forest Legend&#8221;; the book is somewhat of a modern-day fable about how things are in the modern-day Philippines. I'm pretty sure each of the animals in the book represents some sector of society and its' faults, but I don't think I'm currently smart enough to identify them all.
+by Bob Ong &#8211; literally translated, it's "The Forest Legend&#8221;; the book is somewhat of a modern-day fable about how things are in the modern-day Philippines. I'm pretty sure each of the animals in the book represents some sector of society and its' faults, but I don't think I'm currently smart enough to identify them all.
 
 _
   

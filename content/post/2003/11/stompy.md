@@ -22,7 +22,7 @@ this host that's cheap and local][1]&#8230;. The main reason is I want to learn 
 
 * * *
 
-[Internet Timeline][2]. 2001 &#8211; &#8220;Cats becomes sole proprietor of all your base. Every Zig moved.&#8221;
+[Internet Timeline][2]. 2001 &#8211; "Cats becomes sole proprietor of all your base. Every Zig moved.&#8221;
 
 * * *
 
