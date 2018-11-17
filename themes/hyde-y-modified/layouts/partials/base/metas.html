@@ -44,6 +44,9 @@
 <meta name="twitter:description" content="{{ .Description }}" />
 <meta name="twitter:url" content="{{ .Permalink }}" />
 <meta name="twitter:domain" content="{{ .Site.BaseURL }}">
+{{ if isset .Params "featuredImage" }}
+<meta name="twitter:image" content="{{ .Params.featuredImage }}">
+{{ end }}
   {{ end }}
 
 <script type="application/ld+json">
