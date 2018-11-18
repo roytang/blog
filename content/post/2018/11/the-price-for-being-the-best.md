@@ -6,7 +6,6 @@ date: 2018-11-20T10:06:56+08:00
 categories:
   - Self-Improvement
 tags:
-  - burnout
   - quotes
 ---
 > "The price for being the best is always... having to *be* the best." 
@@ -22,4 +21,4 @@ In real life of course, the literal interpretation is ridiculous. You are not ob
 
 I have a variant of this quote that I used a lot in a previous job, where people often came to me with their technical problems and asked me for help in solving them, so a lot of my time was taken up by helping solve other people's problems. I would jokingly complain *"Ang hirap talaga maging magaling!"* It's hard being so good! - implying that being *magaling* gave me so much additional work. 
 
-Once you put yourself in a position of leadership in your field, there will be pressure to maintain that position by constantly improving and learning and showing your skills by helping other people. Humility disclaimer: I'm not claiming to be the best software developer by any stretch, it was probably more of a big fish in a small pond scenario. But the quote above is a reminder for me that pursuing excellence has a price often unmentioned, and you have to be sure you are willing to pay that price. 
+Once you put yourself in a position of leadership in your field, there will be pressure to maintain that position by constantly improving and learning and showing your skills by helping other people. Humility disclaimer: I'm not claiming to be the best software developer by any stretch, it was probably more of a big fish in a small pond scenario. But the quote above is a reminder for me that pursuing excellence has a price often unmentioned, and you have to be sure you are willing to pay that price, and that it's worth it for you.
