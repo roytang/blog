@@ -10,11 +10,7 @@ url: /2008/02/trying-out-kde4/
 
 After finding out that KDE4 was already available for Kubuntu 7.10, the nice screenshots of the new Oxygen theme and hints of a revamped panel and widget system appealed to my inner geek envy, so I decided to install and give it a whirl.
 
-[
-  
-![KDE4 Screenshot][1]
-  
-][2] 
+[![KDE4 Screenshot][1]][2] 
 
 My quick impression, after 15 minutes of usage:
   

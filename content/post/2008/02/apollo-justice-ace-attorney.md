@@ -10,13 +10,7 @@ url: /2008/02/apollo-justice-ace-attorney/
 
 Eagerly awaited, the fourth installment of the Ace Attorney series has arrived, with a brand-new leading defense attorney. Of course, not one week after I got my copy, I'm done. It kept me up at nights and made me come in to work late; well worth it.
 
-To those who are not familiar with the Ace Attorney games, it's hard to explain the appeal of the game; with all the thinking and reading to be done, it's definitely not exciting to watch. Anyone who's finished one of them knows what it is though. There's that feeling you get when you all the testimony and evidence finally come together, and you figure out how it was done but
-  
-**
-  
-you still have to figure out how to prove it!
-  
-** 
+To those who are not familiar with the Ace Attorney games, it's hard to explain the appeal of the game; with all the thinking and reading to be done, it's definitely not exciting to watch. Anyone who's finished one of them knows what it is though. There's that feeling you get when you all the testimony and evidence finally come together, and you figure out how it was done but **you still have to figure out how to prove it!** 
 
 Detailed review (and spoilers) follow.
 

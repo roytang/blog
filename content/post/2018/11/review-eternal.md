@@ -20,7 +20,8 @@ Eternal games play out almost exactly like MTG games. Each player plays mana sou
 
 Some of the relevant changes that I believe make it feel like a faster MTG:
 
-- limited fast effect windows. This is the main one. MTG Arena has to stop and ask you what you want to do every time there's an opportunity to play fast effects, and there's tons. In Eternal, there are only three windows: during combat, at the end of the enemy's turn, and whenever the enemy takes an action that affects you or one of your units. And you can only play fast spells (basically MTG instants), there are no creature abilities to activate at instant speed.
+- limited fast effect windows. This is the main one. MTG Arena has to stop and ask you what you want to do every time there's an opportunity to play fast effects, and there's tons. In Eternal, there are only three windows: during combat, at the end of the enemy's turn, and whenever the enemy plays a spell. And you can only play fast spells (basically MTG instants), there are no creature abilities to activate at instant speed.
+- the game will automatically pass priority whenever you don't have any relevant plays. MTG Arena does this automatically as well. You can turn it off, since it has a bit of disadvantage (it conveys information to the opponent)
 - similar to HS, Eternal limits the number of creatures you can have on the board. Eternal allows twelve on each side vs Heathstone's seven. This is more due to technical constraints than anything else. MTG Arena has to play the same on paper, so you can crash the game by generating some large number of creatures somehow.
 
 ![Eternal's board limit](/uploads/2018/eternal_board_limit.jpg)
