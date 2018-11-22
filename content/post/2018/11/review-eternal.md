@@ -9,6 +9,7 @@ tags:
 - ccgs
 title: 'Review: Eternal or "Eternal primer for MTG players"'
 type: post
+featuredImage: https://vignette.wikia.nocookie.net/eternalcardgame/images/6/6d/Icaria%2C_Valkyrie_Captain.png/revision/latest/scale-to-width-down/318?cb=20180307222958
 ---
 
 I said in my previous [Duelyst review](/2017/02/review-duelyst/) that [Eternal](https://www.direwolfdigital.com/eternal/) didn't really hook me. That was in Feb 2017. I stopped playing Duelyst after around six months. I started playing Eternal regularly July of that year, and have been playing regularly ever since.
@@ -97,7 +98,9 @@ It took me a while longer to hit Master rank in draft - more than one year in fa
 
 **Lore and Aesthetics**
 
-Eternal's world is described as "Six Guns and Sorcery Combined", which means there's Gunslingers alongside magic users and shamans and such. It's pretty fun, and the story is continuously being updated. Each monthly league and the occasional campaign or new card set represents a change in the story. Major characters are represented by powerful cards and often have multiple versions representing their stages of growth. A prime example is Icaria, the young Valkyrie captain who later becomes a rebellious keyword-souped Akroma-like avenger after witnessing her superior's misdeeds:
+Eternal's world is described as "Six Guns and Sorcery Combined", which means there's Gunslingers alongside magic users and shamans and such. There's a little bit of steampunk in there too, along with valkyries, yetis, centaurs, wisps, dinosaurs, radiants (basically magical aliens), grenadin (basically goblins), sentinels (basically giant robots), and a bunch of other stuff too.
+
+It's pretty fun, and the story is continuously being updated. Each monthly league and the occasional campaign or new card set represents a change in the story. Major characters are represented by powerful cards and often have multiple versions representing their stages of growth. A prime example is Icaria, the young Valkyrie captain who later becomes a rebellious keyword-souped Akroma-like avenger after witnessing her superior's misdeeds:
 
 ![Icaria, Valkyrie Captain](https://vignette.wikia.nocookie.net/eternalcardgame/images/6/6d/Icaria%2C_Valkyrie_Captain.png/revision/latest/scale-to-width-down/318?cb=20180307222958)
 
