@@ -5,6 +5,7 @@ categories:
 date: 2017-02-18 01:30:22
 tags:
 - Review
+- ccgs
 title: 'Review: Duelyst'
 type: post
 url: /2017/02/review-duelyst/

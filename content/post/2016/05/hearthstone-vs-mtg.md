@@ -2,6 +2,8 @@
 author: roy
 categories:
 - Gaming
+tags:
+- ccgs
 date: 2016-05-31 07:49:54
 title: Hearthstone vs MTG
 type: post
