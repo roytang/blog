@@ -21,7 +21,7 @@ Cons: Extremely narrow gameplay, heavily scripted. Hero looks girly.
    
 
    
-Status: 12 hours in. Kicked out of home town? Check. Branded a rebel and thrust into leadership of one side of a civil war? Check. True Rune attaching itself to your hero? Check. Only thing we need now is a permanent HQ. I can't imagine living on a boat would be very enticing for me in real life. On a side note, this is the first Suikoden where I'm actively using an FAQ to avoid missing Stars of Destiny. It was ok not to use an FAQ before, as I always had time to make a second pass to complete the 108 stars after the first play-through. But again, I'm a busy man. (On a side note to this side note, the closest I came to completing the 108 stars without using an FAQ was Suiko4 &#8211; I got 107!)
+Status: 12 hours in. Kicked out of home town? Check. Branded a rebel and thrust into leadership of one side of a civil war? Check. True Rune attaching itself to your hero? Check. Only thing we need now is a permanent HQ. I can't imagine living on a boat would be very enticing for me in real life. On a side note, this is the first Suikoden where I'm actively using an FAQ to avoid missing Stars of Destiny. It was ok not to use an FAQ before, as I always had time to make a second pass to complete the 108 stars after the first play-through. But again, I'm a busy man. (On a side note to this side note, the closest I came to completing the 108 stars without using an FAQ was Suiko4 -- I got 107!)
 
 BG2:
    

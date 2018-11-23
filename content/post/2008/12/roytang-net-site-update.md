@@ -12,12 +12,12 @@ Previously I hosted two separate WordPress blogs on roytang.net, the old one I'v
 
 The blog now has the following sections/categories:
 
-  * [Magic the Gathering][1] &#8211; for posts related to MTG
-  * [Software Development][2] &#8211; for posts related to Software Development (hopefully I can write more about this topic)
-  * [Gaming][3] &#8211; originally I didn't have this category, but looking at previous contents of the blog and my delicious links, this is one of the things I write about the most, so I made it a separate category
-  * [Weblog][4] &#8211; everything else I can think of
+  * [Magic the Gathering][1] -- for posts related to MTG
+  * [Software Development][2] -- for posts related to Software Development (hopefully I can write more about this topic)
+  * [Gaming][3] -- originally I didn't have this category, but looking at previous contents of the blog and my delicious links, this is one of the things I write about the most, so I made it a separate category
+  * [Weblog][4] -- everything else I can think of
 
-Each category has a separate RSS feed you can subscribe to &#8211; so that if you're only interested in MTG posts you can subscribe to the MTG category feed, etc. There's also a master feed that syndicates all the posts in all categories, available at the top of the page.
+Each category has a separate RSS feed you can subscribe to -- so that if you're only interested in MTG posts you can subscribe to the MTG category feed, etc. There's also a master feed that syndicates all the posts in all categories, available at the top of the page.
 
 <div class="flockcredit" style="text-align: right; color: #ccc; font-size: x-small;">
   Blogged with the <a style="color: #999; font-weight: bold;" title="Flock Browser" href="http://www.flock.com/blogged-with-flock" target="_new">Flock Browser</a>

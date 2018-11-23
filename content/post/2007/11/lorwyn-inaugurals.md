@@ -37,7 +37,7 @@ here
 
 I had very minimal testing, but I was fairly sure aggro decks were a cakewalk, and control decks are winnable headaches. The tournament report follows.
 
-I register for the tourney, and on the spot I name the deck "Manny&#8221;
+I register for the tourney, and on the spot I name the deck "Manny"
 
 **
     
@@ -95,7 +95,7 @@ Game 3, we had less than ten minutes left, so I play quickly. However, since I h
 
 **
     
-Round 3 &#8211; B/R Goblins
+Round 3 -- B/R Goblins
    
 ** 
 
@@ -107,7 +107,7 @@ and Phyrexian Ironfoot + Epochrasite is really bad for their deck. 2-0 win.
 
 **
     
-Round 4 &#8211; UGw Shifters
+Round 4 -- UGw Shifters
    
 ** 
 
@@ -157,7 +157,7 @@ top 8. I fight on.
 
 **
     
-Round 5 &#8211; B/G Tarmorack
+Round 5 -- B/G Tarmorack
    
 ** 
   
@@ -171,7 +171,7 @@ Wooh! Lucky, a good matchup. I take it again in two games with massive card adva
 
 **
     
-Round 6 &#8211; R/G aggro
+Round 6 -- R/G aggro
    
 ** 
 
@@ -185,7 +185,7 @@ Game three he gets the Barbs down while we're still at a high enough life. I pla
 
 **
     
-Round 7 &#8211; U/W control
+Round 7 -- U/W control
    
 ** 
   
@@ -231,7 +231,7 @@ I play Shapeshifter to kill Crovax. He plays Akroma.
    
 
    
-I play Mannequin on Shapeshifter. (Opponent: "Ano ba yan!&#8221;)
+I play Mannequin on Shapeshifter. (Opponent: "Ano ba yan!")
    
 
    
@@ -243,7 +243,7 @@ I play Mannequin again, targetting shapeshifter, copying Triskelavus (a Shapeshi
    
 
    
-He plays Disenchant on the Shapeshifter! (Opponent: "Ang squatter naman&#8221;)
+He plays Disenchant on the Shapeshifter! (Opponent: "Ang squatter naman")
    
 
    
@@ -257,19 +257,19 @@ We race some more, I win with 3 life remaining.
    
 2-0 win
 
-Yeah, one more win and possibily top 8! But I look at the standings and I'm last among the 5-2s :( Boo! 21th place, too far away. If I win the last round I make top 16 and win three packs. Lose, and I probably still get one pack. Then, it's practically "no bearning&#8221; for me now, I get at least one pack either way. (Yes, this story does not end in a top eight finish, I apologize.)
+Yeah, one more win and possibily top 8! But I look at the standings and I'm last among the 5-2s :( Boo! 21th place, too far away. If I win the last round I make top 16 and win three packs. Lose, and I probably still get one pack. Then, it's practically "no bearning" for me now, I get at least one pack either way. (Yes, this story does not end in a top eight finish, I apologize.)
 
-So I slack off in round 8. In a matchup where I need to slack off the least &#8211; pickles.
+So I slack off in round 8. In a matchup where I need to slack off the least -- pickles.
 
 **
     
-Round 8 &#8211; UB pickles
+Round 8 -- UB pickles
    
 ** 
   
 
    
-He's playing pickles with black instead of the usual white for momentary blink. He has an aggro mode with Ironfoots and Shadowmages, Cryptic Command for permission, Ancestral Visions for card draw. This is the first round I'm playing the pickles combo, so I'm sorta still stupid (or slacking off, as I said.) What I understand about the pickles matchup is that you have to be careful not to tap out if your opponent has 10-11 mana already &#8211; since he can lock you down at any time (even less for the white version which has blink).
+He's playing pickles with black instead of the usual white for momentary blink. He has an aggro mode with Ironfoots and Shadowmages, Cryptic Command for permission, Ancestral Visions for card draw. This is the first round I'm playing the pickles combo, so I'm sorta still stupid (or slacking off, as I said.) What I understand about the pickles matchup is that you have to be careful not to tap out if your opponent has 10-11 mana already -- since he can lock you down at any time (even less for the white version which has blink).
 
 Game one I lost to pickles lock.
    
@@ -277,7 +277,7 @@ Game one I lost to pickles lock.
    
 I side in +4 Nameless Inversion (Mistake&#8230;should have also brought in +3 Extirpate)
 
-Game two I lost to pickles lock. Okay, a bit longer story. I lost to pickles lock after making the misplay of bouncing the Brine Elemental so he could delay me one more turn. He had Liliana Vess out &#8211; he was going to get the other half of the combo no matter what. If I had an Extirpate then the bounce was the correct play, as there was already a Brine Elemental in the yard.
+Game two I lost to pickles lock. Okay, a bit longer story. I lost to pickles lock after making the misplay of bouncing the Brine Elemental so he could delay me one more turn. He had Liliana Vess out -- he was going to get the other half of the combo no matter what. If I had an Extirpate then the bounce was the correct play, as there was already a Brine Elemental in the yard.
 
 So, I finish 5-3 with the Mannequin deck, a crappy 32nd place, winning a single booster! In fairness, I got an Auntie's Hovel from that booster, so it's all good.
 

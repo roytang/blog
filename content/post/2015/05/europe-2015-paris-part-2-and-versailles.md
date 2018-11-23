@@ -40,7 +40,7 @@ It was late in the afternoon by the time we finished our tour of the Chateau an
 
 **Wednesday March 18th**
 
-After eating our last breakfast at the old lady's pattiserie near our hotel, we took the Metro to the Montmarte hill overlooking Paris and famous for the white-domed Basilica of the Sacré Cœur ("Sacred Heart&#8221;), though we didn't bother going inside the church. We spent some time here listening to a street performer and taking pictures of pigeons (omitted here for brevity, available upon request)<figure id="attachment_1109" style="width: 10032px" class="wp-caption aligncenter">
+After eating our last breakfast at the old lady's pattiserie near our hotel, we took the Metro to the Montmarte hill overlooking Paris and famous for the white-domed Basilica of the Sacré Cœur ("Sacred Heart"), though we didn't bother going inside the church. We spent some time here listening to a street performer and taking pictures of pigeons (omitted here for brevity, available upon request)<figure id="attachment_1109" style="width: 10032px" class="wp-caption aligncenter">
 
 [<img class="size-full wp-image-1109" src="http://roytang.net/wp-content/uploads/2015/05/montmarte.jpg" alt="Panorama of the view from the Montmarte hill" width="10032" height="3024" srcset="https://roytang.net/wp-content/uploads/2015/05/montmarte.jpg 10032w, https://roytang.net/wp-content/uploads/2015/05/montmarte-300x90.jpg 300w, https://roytang.net/wp-content/uploads/2015/05/montmarte-1024x309.jpg 1024w, https://roytang.net/wp-content/uploads/2015/05/montmarte-500x151.jpg 500w" sizes="(max-width: 10032px) 100vw, 10032px" />][15]<figcaption class="wp-caption-text">Panorama of the view from the Montmarte hill. Unfortunately the Eiffel Tower was not visible from here</figcaption></figure> 
 
@@ -60,7 +60,7 @@ Before the weekend we took a leisurely afternoon/evening walk to the Barcelona c
 
 I spent Saturday at Gigamesh having a good time playing with Spanish cards at the DTK prerelease. I had spent some time during the past few days studying up on the card lists in Spanish, worried that I would have a tough time with the local players. Most of them understood English well enough though.
 
-Finally, Sunday was our flight back to Manila through Singapore, and the end of our trip. And the end of this series of posts, I hope you enjoyed it &#8211; I'm not sure I'd be willing to go into such detail again haha. Well, I have a couple more trips planned this year, so let's see what happens there. Thanks for reading!
+Finally, Sunday was our flight back to Manila through Singapore, and the end of our trip. And the end of this series of posts, I hope you enjoyed it -- I'm not sure I'd be willing to go into such detail again haha. Well, I have a couple more trips planned this year, so let's see what happens there. Thanks for reading!
 
  [1]: http://roytang.net/2015/03/europe-trip-2015/
  [2]: http://roytang.net/2015/04/europe-2015-barcelona-part-1/

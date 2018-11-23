@@ -12,12 +12,12 @@ Yesterday, the guard at my office building pissed me off quite a bit. He refused
 
 On hindsight, I let my being pissed off cloud my better judgement. What I should have done was:
 
-&#8211; first, ask for a copy of the building circular or memorandum stating the dress code
+-- first, ask for a copy of the building circular or memorandum stating the dress code
 
-&#8211; second, ask to see his supervisor and ask why just last week I was allowed to wear slippers, but not this week
+-- second, ask to see his supervisor and ask why just last week I was allowed to wear slippers, but not this week
 
-&#8211; third, if all else failed, try to get in through the basement entrance
+-- third, if all else failed, try to get in through the basement entrance
 
-&#8211; only after all of the above fail should I have gone home for shoes
+-- only after all of the above fail should I have gone home for shoes
 
 I think I need to be more cunning.

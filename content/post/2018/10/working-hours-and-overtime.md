@@ -20,7 +20,7 @@ Luckily, I didn't have to speculate too much, because I had data (I love data). 
   * I had 15 weeks where I worked more than 60 hours.
   * My record for number of hours in a single week was week 34 of 2015 where I had a whopping 80.50 hours in a single week. This was when I was deployed on-site to London and was also on call for support at the same time, so basically working all the time.
 
-So luckily I've not been in the "100-hour week&#8221; situation that the RDR2 team found them in (though I came close). I'm not sure if this is an accurate representation of what it's like to work in the software industry in general, though I'm sure it's typical of my former workplace. Hopefully, overtime is something I can avoid or minimize in my own career moving forward.
+So luckily I've not been in the "100-hour week" situation that the RDR2 team found them in (though I came close). I'm not sure if this is an accurate representation of what it's like to work in the software industry in general, though I'm sure it's typical of my former workplace. Hopefully, overtime is something I can avoid or minimize in my own career moving forward.
 
 Read what I had to say before about overtime [here][2].
 

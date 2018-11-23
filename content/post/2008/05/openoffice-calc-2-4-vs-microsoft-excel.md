@@ -19,7 +19,7 @@ Microsoft Excel 2007 on Windows XP:
 
 OpenOffice Calc 2.4.1 on Ubuntu:
 
-  * Feature-rich &#8211; has some features that excel does not.
+  * Feature-rich -- has some features that excel does not.
   * I can have a sandwich in the time it's loading.
   * Free as in speech, and as in beer too!
   * Usability issues, such as inconveniently prompting a dialog box on every delete. (This is logged in their database as [bug # 9392][1]. There's a workaround, but hopefully it will be fixed by default in Open Office 3)

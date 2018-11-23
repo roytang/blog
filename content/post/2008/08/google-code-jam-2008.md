@@ -12,7 +12,7 @@ I joined this year's [Google Code Jam][1].
 
 It's part of my characteristic competitiveness and arrogance that I actually imagined I had a chance at winning the contest. No such luck, see [my results][2]. I was eliminated in the second online round. That I managed to get there at all was surprising considering the level of difficulty.
 
-I'm not really a com-sci guy, so I'm weak with regards to algorithms, I don't always know what the best approach for particular classes of problems &#8211; I usually just brute force it then try to optimize based on my on-the-spot analysis of each problem. It seemed it wasn't enough; there were a lot of hardcore guys who were able to get perfect scores, and I salute them.
+I'm not really a com-sci guy, so I'm weak with regards to algorithms, I don't always know what the best approach for particular classes of problems -- I usually just brute force it then try to optimize based on my on-the-spot analysis of each problem. It seemed it wasn't enough; there were a lot of hardcore guys who were able to get perfect scores, and I salute them.
 
 I'm not sure whether I'll still participate next time, as the problems don't seem to be geared towards someone of my skillset. Still, the fact that I managed to pass 3 rounds (including the qualifier) indicates some potential for winning. And I was one of only two Filipinos who made it to round 2! Good luck to the last guy&#8230;
 

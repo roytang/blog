@@ -11,14 +11,14 @@ url: /2016/08/pros-and-cons-of-a-career-in-programming/
 Pros:
 
   * It is a very rewarding career financially. Software development often ranks in the top 10 highest-earning careers in most countries
-  * There is a lot of scope &#8211; you could be developing web applications, mobile applications, embedded applications, client-side, server-side, data analysis, artificial intelligence, games, etc
+  * There is a lot of scope -- you could be developing web applications, mobile applications, embedded applications, client-side, server-side, data analysis, artificial intelligence, games, etc
   * It is very difficult to be bored. You can always automate away the boring stuff. Different projects always present different challenges. The field is evolving rapidly so there are always new things to learn.
   * It is both a creative endeavor and a technical endeavor
   * Lots of opportunities for remote work/working from home, if that is your thing
   * You get to work with a lot of smart people
   * Access to a worldwide community of people who think in a similar manner. Most beginner and intermediate problems easily solved through the internet
-  * Generally, working in a programming company is more likely to be a meritocracy &#8211; people with better technical skill are more likely to be valued
-  * There are a lot of opportunities &#8211; if you are unhappy where you are, you can easily look for another opportunity
+  * Generally, working in a programming company is more likely to be a meritocracy -- people with better technical skill are more likely to be valued
+  * There are a lot of opportunities -- if you are unhappy where you are, you can easily look for another opportunity
 
 Cons:
 

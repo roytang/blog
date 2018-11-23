@@ -7,7 +7,7 @@ type: post
 url: /2008/10/gpt-taipei-ii/
 ---
 
-2nd Trial for Taipei was last Sunday, October 17 at Robinson's Galleria. I open to register a very mediocre pool while the rest of the guys at my table open awesome pools with lots of bombs. "Gee, I hope we don't keep this pool.&#8221;
+2nd Trial for Taipei was last Sunday, October 17 at Robinson's Galleria. I open to register a very mediocre pool while the rest of the guys at my table open awesome pools with lots of bombs. "Gee, I hope we don't keep this pool."
 
 The judge comes over, rolls the dice and we keep our pools. Awkward.
 
@@ -252,7 +252,7 @@ Round 1
    
 ** 
    
-: Lost this one in 3 games to a Sharding Sphinx. Embarassing, since it was the guy's first time to play Shards of Alara. I had a bad sequence where I had Cavern Thoctar and Jungle Weaver in my hand; I played the Weaver first, then next turn attacked with the Weaver and played the Thoctar. At that point he already had some small fliers available so really I should've just either kept the Weaver behind to block or played the Thoctar first (so that the Weaver could block next turn). I was very close to winning &#8211; if I had only managed to have a blocker for the Sharding Sphinx one turn earlier.
+: Lost this one in 3 games to a Sharding Sphinx. Embarassing, since it was the guy's first time to play Shards of Alara. I had a bad sequence where I had Cavern Thoctar and Jungle Weaver in my hand; I played the Weaver first, then next turn attacked with the Weaver and played the Thoctar. At that point he already had some small fliers available so really I should've just either kept the Weaver behind to block or played the Thoctar first (so that the Weaver could block next turn). I was very close to winning -- if I had only managed to have a blocker for the Sharding Sphinx one turn earlier.
 
 1-2 games, 0-1 rounds. It's usually not good for me if I lose round one.
 
@@ -274,11 +274,11 @@ Round 3:
    
 I saw this guy's deck on the same table in round one and it was kind of sick. War Monk, Bant Charm, Stoic Angel, Rafiq of the Many&#8230;practically a Bant precon. I managed to win game one though.
 
-In game two, we stalled on the ground and he was killing me wih the Exalted Aven. After that game I realized that I had both Quietus Spike and Vithian Stinger in play. I called over a judge and asked "Does Deathtouch trigger on non-combat damage?&#8221; The answer was of course yes and of course I facepalmed. I could have wiped his whole board with that combo!
+In game two, we stalled on the ground and he was killing me wih the Exalted Aven. After that game I realized that I had both Quietus Spike and Vithian Stinger in play. I called over a judge and asked "Does Deathtouch trigger on non-combat damage?" The answer was of course yes and of course I facepalmed. I could have wiped his whole board with that combo!
 
 I kept a hand with four land and two spells in game three, but didn't get much action then lost the game.
 
-4-4 games, 1-2 rounds. I actually ticked "Drop&#8221; on the match result slip, planning to leave. Later I changed my mind, since top sixteen could still win me a few packs, and I went over to the judge table to get myself undropped.
+4-4 games, 1-2 rounds. I actually ticked "Drop" on the match result slip, planning to leave. Later I changed my mind, since top sixteen could still win me a few packs, and I went over to the judge table to get myself undropped.
 
 **
     

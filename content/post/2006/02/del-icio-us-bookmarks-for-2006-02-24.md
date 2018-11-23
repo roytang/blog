@@ -11,12 +11,12 @@ url: /2006/02/del-icio-us-bookmarks-for-2006-02-24/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-24
 
-  * [Gamasutra &#8211; Soapbox &#8211; "World of Warcraft Teaches the Wrong Things&#8221;][3]
+  * [Gamasutra -- Soapbox -- "World of Warcraft Teaches the Wrong Things"][3]
   
     &#8212;
   
     Tagged as: articles games mmorpgs warcraft
-  * [Ubersite &#8211; The Ultimate MS Paint: It Will Make You Cry][4]
+  * [Ubersite -- The Ultimate MS Paint: It Will Make You Cry][4]
   
     &#8212;
   

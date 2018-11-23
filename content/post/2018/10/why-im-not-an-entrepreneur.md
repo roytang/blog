@@ -12,7 +12,7 @@ For years now, I've had numerous discussions with friends and family about the p
 
 **Government red tape and paperwork**
 
-I have a friend who manages a small business for his family, as he's often ranting about the situation here in the Philippines, about how there's always a lot of filing requirements, many of which don't make sense and are seemingly designed to make it easier for unscrupulous employees to bilk you for money. A direct quote: "It is literally easier to cheat on taxes and filing requirements via connections/bribery than it is to make a good faith effort to follow regulations.&#8221; This is not something I would want to deal with.
+I have a friend who manages a small business for his family, as he's often ranting about the situation here in the Philippines, about how there's always a lot of filing requirements, many of which don't make sense and are seemingly designed to make it easier for unscrupulous employees to bilk you for money. A direct quote: "It is literally easier to cheat on taxes and filing requirements via connections/bribery than it is to make a good faith effort to follow regulations." This is not something I would want to deal with.
 
 **Hiring other people**
 
@@ -20,6 +20,6 @@ A while back I was discussing with someone the prospect of setting up a food sta
 
 **Marketing and Sales**
 
-With my background as an engineer, I'm not too fond of marketing and sales. However, I have spent the last couple of years working with a small startup, where I had a lot more visibility into the overall business process, so I guess I have a slightly better appreciation of marketing and sales now. These skills are largely focused on manipulating humans, whereas my own skillset is largely focused on manipulating computers. It doesn't help that a lot of marketing techniques and sales methods feel very "scummy&#8221; to me, like clickbait ads and so on. I know these can be done well and in ways that conform with my own personal code of honour, but still, in my head these skills constitute "black arts&#8221; and "necessary evils.&#8221; 
+With my background as an engineer, I'm not too fond of marketing and sales. However, I have spent the last couple of years working with a small startup, where I had a lot more visibility into the overall business process, so I guess I have a slightly better appreciation of marketing and sales now. These skills are largely focused on manipulating humans, whereas my own skillset is largely focused on manipulating computers. It doesn't help that a lot of marketing techniques and sales methods feel very "scummy" to me, like clickbait ads and so on. I know these can be done well and in ways that conform with my own personal code of honour, but still, in my head these skills constitute "black arts" and "necessary evils." 
 
-All of these are hurdles I'd have to overcome if I ever really want to start a business. That, or I'd have to find business partners willing to handle all this drudge work for me so that I can focus on the parts I enjoy &#8211; engineering and problem solving and implementation. Until then, I'll have to content myself with working as an independent consultant.
+All of these are hurdles I'd have to overcome if I ever really want to start a business. That, or I'd have to find business partners willing to handle all this drudge work for me so that I can focus on the parts I enjoy -- engineering and problem solving and implementation. Until then, I'll have to content myself with working as an independent consultant.

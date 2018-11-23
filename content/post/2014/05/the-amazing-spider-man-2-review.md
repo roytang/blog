@@ -29,7 +29,7 @@ Well, I haven't written anything in a while, so I figured I'd write some words o
 
 **Oh no, two airplanes might collide because there's no electricity! **How was this even relevant to Spider-man's battle? It's not like he knew what was going on at the airport!
 
-**"You need me, I know the specs to the grid thingy!&#8221;** Uh, it turns out all you needed to do was know how to pick up a key from a dead guy's hand and unlock a panel. And I thought her field was in biochemistry or something, not electrical engineering?
+**"You need me, I know the specs to the grid thingy!"** Uh, it turns out all you needed to do was know how to pick up a key from a dead guy's hand and unlock a panel. And I thought her field was in biochemistry or something, not electrical engineering?
 
 **I have to admit, the death at the end caught me off guard. **I knew it had to happen sooner or later, but given that they cut MJ out of this movie and had a subplot of Gwen flying off to England (which she did in the comics and she managed to come back to New York before the big deal at the bridge), I assumed it would be happening in the next film. Though by the time they had her falling from the tower, I would've been annoyed if they didn't go through with it after the build-up. But now I'm worried that they're going to rush the Peter-MJ relationship in the next movie the same way they rushed the Peter-Harry friendship in this one, since they didn't get the chance to introduce MJ while Peter and Gwen were still a thing.
 

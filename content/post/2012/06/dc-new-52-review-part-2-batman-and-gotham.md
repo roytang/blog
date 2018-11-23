@@ -30,11 +30,11 @@ Batman seems to be the Wolverine of DC Comics: he has a lot of his own books, an
 
 **Batman and Robin**
 
-What makes the current combination of Batman and Robin interesting is that unlike Bruce's relationship with the previous Robins Dick and Tim (and even Jason) where having a partner was seen to improve Batman's temperament and bring a lighter side to the superhero team, in Damian's case he's very much as grim as his father what with the whole being raised by assassins bit. And we get exactly what we can expect &#8211; Bruce trying to teach Damian how to become a better person despite his upbringing and despite forces around them trying to bring Damian down into the dark side. The art is a bit uneven but it works, and the book is well worth the read.
+What makes the current combination of Batman and Robin interesting is that unlike Bruce's relationship with the previous Robins Dick and Tim (and even Jason) where having a partner was seen to improve Batman's temperament and bring a lighter side to the superhero team, in Damian's case he's very much as grim as his father what with the whole being raised by assassins bit. And we get exactly what we can expect -- Bruce trying to teach Damian how to become a better person despite his upbringing and despite forces around them trying to bring Damian down into the dark side. The art is a bit uneven but it works, and the book is well worth the read.
 
 **Batgirl**
 
-It was a bit controversial when they revealed Barbara Gordon would be getting her legs back with the reboot. Oracle had been a staple of the Batman family for so long that fans would surely miss her, not to mention the fans of previous Batgirls Cass Cain and Stephanie Brown (neither of which have been seen in action in the New 52). While the events of _The Killing Joke_ haven't been retconned away (Barbara explicitly recalls the shooting incident in several flashbacks), they haven't explained yet as of this writing the "miracle&#8221; that gave Barbara back the use of her legs. The current storylines haven't been particularly exciting; I think I enjoyed Stephanie's schoolgirl problems more, but they're entertaining enough I suppose. The art is okay, if not a bit too shiny. Will continue reading.
+It was a bit controversial when they revealed Barbara Gordon would be getting her legs back with the reboot. Oracle had been a staple of the Batman family for so long that fans would surely miss her, not to mention the fans of previous Batgirls Cass Cain and Stephanie Brown (neither of which have been seen in action in the New 52). While the events of _The Killing Joke_ haven't been retconned away (Barbara explicitly recalls the shooting incident in several flashbacks), they haven't explained yet as of this writing the "miracle" that gave Barbara back the use of her legs. The current storylines haven't been particularly exciting; I think I enjoyed Stephanie's schoolgirl problems more, but they're entertaining enough I suppose. The art is okay, if not a bit too shiny. Will continue reading.
 
 **Batwing**
 
@@ -42,7 +42,7 @@ I like Batwing if only for the fact that a superhero from Africa has his own tit
 
 **Batwoman**
 
-I really like the artwork here and the panel layouts. They all feel so crisp and I love paging through them. The stories are okay, except that they don't put enough effort towards the accessibility of the character. I've read some of Batwoman's history before so I know a bit what she's about, but this book mostly just dives straight in and expects the reader to "get it&#8221;. It's nice that Batwoman doesn't end up as one of Batman's "formal&#8221; allies. Instead she ends up working with a certain government agency. (This book is also not part of the Night of Owls crossover I think). However, I find some story details a bit tough to follow, not sure if it's because of the unusual layouts or the lack of introductory detail &#8211; I find myself having to read each issue one more time to get most of the details. They're usually worth it though, and this is a book I'm going to keep following.
+I really like the artwork here and the panel layouts. They all feel so crisp and I love paging through them. The stories are okay, except that they don't put enough effort towards the accessibility of the character. I've read some of Batwoman's history before so I know a bit what she's about, but this book mostly just dives straight in and expects the reader to "get it". It's nice that Batwoman doesn't end up as one of Batman's "formal" allies. Instead she ends up working with a certain government agency. (This book is also not part of the Night of Owls crossover I think). However, I find some story details a bit tough to follow, not sure if it's because of the unusual layouts or the lack of introductory detail -- I find myself having to read each issue one more time to get most of the details. They're usually worth it though, and this is a book I'm going to keep following.
 
 **Nightwing**
 
@@ -54,7 +54,7 @@ This book has trouble keeping my interest. It's mostly Catwoman getting into thi
 
 **Birds of Prey**
 
-I've never read the previous _Birds of Prey_ series, so I'm not sure how this compares, but the book is interesting enough. I like the team's variety &#8211; there's one of Batman's archvillains here, Black Canary is always cool, I'm not entirely sure Katana is sane, and I like the way Starling handles things. The art is passable, though not really standing out for me. No reason to drop this title.
+I've never read the previous _Birds of Prey_ series, so I'm not sure how this compares, but the book is interesting enough. I like the team's variety -- there's one of Batman's archvillains here, Black Canary is always cool, I'm not entirely sure Katana is sane, and I like the way Starling handles things. The art is passable, though not really standing out for me. No reason to drop this title.
 
 **Red Hood and the Outlaws**
 

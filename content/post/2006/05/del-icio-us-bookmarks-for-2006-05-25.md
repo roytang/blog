@@ -16,7 +16,7 @@ Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-05-25
 ][3] &#8212;
   
     Tagged as: books cool
-  * [Ultimate Utopia XXIII &#8211; Google Video
+  * [Ultimate Utopia XXIII -- Google Video
   
 ][4] &#8212;
   

@@ -8,7 +8,7 @@ type: post
 url: /2007/08/hong-kong-saga-part-three/
 ---
 
-It's a bit strange, but somehow Hong Kong is becoming a bit familiar to me by now. This is only my third time here of course, and I've spent less than five weeks here in total since 2004. Still I find that certain things like ordering at restaurants and riding the MTR have started to become a bit more "normal&#8221; for me.
+It's a bit strange, but somehow Hong Kong is becoming a bit familiar to me by now. This is only my third time here of course, and I've spent less than five weeks here in total since 2004. Still I find that certain things like ordering at restaurants and riding the MTR have started to become a bit more "normal" for me.
 
 Originally when I was told that I would be staying in HK for two weeks, I was a bit depressed, as I didn't really enjoy the prolonged stay last time. Hong Kong is not a particularly exciting place for me as I'm not the sort of person who totally enjoys being either a tourist or a shopper, which are the usual reasons why people come to HK. I'm not planning to go to Disneyland or Ocean Park so when people ask what I plan to do during the weekend I just tell them the truth: I have no plans. Probably bum around.
 

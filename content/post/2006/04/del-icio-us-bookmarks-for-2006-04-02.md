@@ -26,7 +26,7 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-04-02
 ][5] &#8212;
   
     Tagged as: videos
-  * [Anytime is the Right Time to Start a Company &#8211; Blue Flavor
+  * [Anytime is the Right Time to Start a Company -- Blue Flavor
   
 ][6] &#8212;
   

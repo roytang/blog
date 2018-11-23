@@ -9,7 +9,7 @@ url: /2005/01/games-namco-capcom-combine-forces-to-create-sim-rpg/
 
 [
     
-RPGamer &#8211; News Bulletin &#8211; Namco, Capcom Combine Forces to Create Sim-RPG
+RPGamer -- News Bulletin -- Namco, Capcom Combine Forces to Create Sim-RPG
    
 ][1] 
 

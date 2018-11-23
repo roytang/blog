@@ -13,13 +13,13 @@ Typically, there are two approaches: Research and Experimentation. Today I'll ta
 
 Research means the internet of course, but what part of it exactly? At first of course you should search for the information yourself, using Google usually. But often if the technology is new or the problem is esoteric enough, you won't be able to find what you need (or you would need very precise keywords). The second step is to ask for expert help.
 
-As an example, some recent postings of mine on a Microsoft-related forum (I was trying to figure out how to do an addin for Microsoft Office) elicited a mail from someone with the subject "Hello, I need ur help&#8221;. I was feeling a bit helpful, so I gave him a reply. I'm not sure if it was smarmy or anything, but I also gave him some additional advice, and I quote:
+As an example, some recent postings of mine on a Microsoft-related forum (I was trying to figure out how to do an addin for Microsoft Office) elicited a mail from someone with the subject "Hello, I need ur help". I was feeling a bit helpful, so I gave him a reply. I'm not sure if it was smarmy or anything, but I also gave him some additional advice, and I quote:
 
 "Also I have some additional free advice for you:
    
 
    
-1. Your email looks like SPAM. I was about to mark it as spam when I happened to spot the phrase "MSWord Addins&#8221; in the body. Learn to write better email subjects.
+1. Your email looks like SPAM. I was about to mark it as spam when I happened to spot the phrase "MSWord Addins" in the body. Learn to write better email subjects.
    
 
    
@@ -27,7 +27,7 @@ As an example, some recent postings of mine on a Microsoft-related forum (I was 
    
 
    
-3. You might want to read this: http://catb.org/~esr/faqs/smart-questions.html&#8221;
+3. You might want to read this: http://catb.org/~esr/faqs/smart-questions.html"
 
 I'm not trying to deride him or anything, god knows I've sent my own share of personal email requests for help before. And it's correct that they are often ignored, so it's not very effective. I think the most effective way, as mentioned in the ESR link above, is to use forums. Specifically, don't look for forums where newbies like us ask questions; use forums where experts congregate. By forum, I'm not strictly referring to bulletin boards, it also includes mailing-lists.
 
@@ -51,7 +51,7 @@ a very active mailing-list
    
 , where you can even expect replies from some of the guys who actually made Flex. If you visit some of the active blogs about Flex (there are a lot), many of them will reference the flexcoders mailing list so you know you can get a lot of good help there.
 
-Non-official forums are better because people are more likely to be passionate than paid reps. One problem I often encounter when researching is Microsoft. Whenever I search for Microsoft-related stuff inevitably sources dry up &#8211; there are literally hundreds of unofficial forums where many newbies ask questions. Now, what to recognize about Microsoft is that they have hundreds (maybe thousands?) of experts called MVPs in every different Microsoft technology. These MVPs are recognized by Microsoft for providing unofficial support to the community. So, the trick is to figure out where you can post such that a good number of MVPs will see your question and possibly respond.
+Non-official forums are better because people are more likely to be passionate than paid reps. One problem I often encounter when researching is Microsoft. Whenever I search for Microsoft-related stuff inevitably sources dry up -- there are literally hundreds of unofficial forums where many newbies ask questions. Now, what to recognize about Microsoft is that they have hundreds (maybe thousands?) of experts called MVPs in every different Microsoft technology. These MVPs are recognized by Microsoft for providing unofficial support to the community. So, the trick is to figure out where you can post such that a good number of MVPs will see your question and possibly respond.
 
 I'm not sure what the best place would be, but the one that I have gotten the most results from would be
    
@@ -73,7 +73,7 @@ Joel on Software
    
 . A lot of very good developers frequent those forums, so even if no one can answer your questions, they might be able to point you in the right direction.
 
-Beyond forums, well good luck. At this point you might need to resort to personal emails, although I have personally never gotten any success from such a method. Or you probably have to resort to detailed experimentation or even &#8211; god forbid &#8211; giving up.
+Beyond forums, well good luck. At this point you might need to resort to personal emails, although I have personally never gotten any success from such a method. Or you probably have to resort to detailed experimentation or even -- god forbid -- giving up.
 
  [1]: http://www.adobe.com/products/flex/
  [2]: http://tech.groups.yahoo.com/group/flexcoders/
@@ -116,7 +116,7 @@ just trying to run a scam.
 ### Comment by [Roy](http://roytang.net/blog) on 2007-10-31 21:21:42 +0000
 That's probably a good idea, but not really something that's an option with
   
-the company I'm in. You know the deal &#8211; I'd need all sorts of authorizations
+the company I'm in. You know the deal -- I'd need all sorts of authorizations
   
 to be able to subcontract someone, it's not worth it, especially for a simple
   

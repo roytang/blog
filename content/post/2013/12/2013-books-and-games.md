@@ -15,11 +15,11 @@ I guess it's my lack of focus really but my reading rate has really gone down ov
 For 2013 as far as I can tell I only finished reading the following novels:
 
   * Slaughterhouse Five (Kurt Vonnegut)
-  * Foundation Trilogy (Isaac Asimov) &#8211; I only read up to Second Foundation, I'll get around to the later books sometime I guess
-  * A Memory of Light (Sanderson/Jordan) &#8211; been reading the Wheel of Time for years and I'm glad Sanderson was able to bring it to a decent end
+  * Foundation Trilogy (Isaac Asimov) -- I only read up to Second Foundation, I'll get around to the later books sometime I guess
+  * A Memory of Light (Sanderson/Jordan) -- been reading the Wheel of Time for years and I'm glad Sanderson was able to bring it to a decent end
   * Shadows in Flight (Orson Scott Card)
 
-I suppose I should make it a new years resolution to read more books. I have a reading list that I have [stored on Dropbox][1] that I'm trying to work through. I think getting more paper books helps &#8211; most of my reading the past few years has been mostly e-books but having at least one paper book around that I can pick up without worrying about a charger or something is also good. I'm around halfway through a copy of Dune I picked up at a used bookstore.
+I suppose I should make it a new years resolution to read more books. I have a reading list that I have [stored on Dropbox][1] that I'm trying to work through. I think getting more paper books helps -- most of my reading the past few years has been mostly e-books but having at least one paper book around that I can pick up without worrying about a charger or something is also good. I'm around halfway through a copy of Dune I picked up at a used bookstore.
 
 As for games, this is the hobby that takes up most of my free time, however my backlog is horrendously large. Inspired by a [NeoGAF thread][2], I've started tracking purchases and finishes/completes.
 
@@ -70,7 +70,7 @@ And the games I finished in 2013:
   * Disgaea 3 main story
   * Civ5 BNW (I'm going to go ahead and count this since I'm sure I got more than a full game's worth of it already)
 
-So the count is at -41 or such. It's pretty bad, but also around what I expected lol. I'm fairly close to finishing a number of those games (I'm at the SMT4 final dungeon and the last chapter of FF 13-2 right now). A lot of the backlog is due to me randomly picking up Humble Bundles which increase the count significantly. Hopefully I'll be able to have a much smaller backlog in 2014 &#8211; but there are already a number of release I'm looking forward to, not to mention the possibility of picking up a PS4 early next year.
+So the count is at -41 or such. It's pretty bad, but also around what I expected lol. I'm fairly close to finishing a number of those games (I'm at the SMT4 final dungeon and the last chapter of FF 13-2 right now). A lot of the backlog is due to me randomly picking up Humble Bundles which increase the count significantly. Hopefully I'll be able to have a much smaller backlog in 2014 -- but there are already a number of release I'm looking forward to, not to mention the possibility of picking up a PS4 early next year.
 
 &nbsp;
 

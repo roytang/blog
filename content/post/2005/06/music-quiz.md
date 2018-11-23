@@ -16,12 +16,12 @@ I'm bored.
 
 What do the following have in common?
 
-&#8211; Three Doors Down
+-- Three Doors Down
 
-&#8211; Five For Fighting
+-- Five For Fighting
 
-&#8211; Spin Doctors
+-- Spin Doctors
 
-&#8211; Rey Valera
+-- Rey Valera
 
 Easy enough.

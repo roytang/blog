@@ -13,7 +13,7 @@ This coming weekend is the release of Shadowmoor. As with any new set coming in,
 
 Of course it’s not entirely true that the metagame is unknown. We have the carry-over decks from the past metagame to consider. And from there we try to predict what the opponents for the upcoming metagame are.
 
-For this exercise, I will consider two decks to be the primary "prey&#8221;:
+For this exercise, I will consider two decks to be the primary "prey":
  
   
 

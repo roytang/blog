@@ -38,7 +38,7 @@ wp-syntax-cache-content:
   handle, protocol=pickle.HIGHEST_PROTOCOL)</p></div>\n\";}\n"
 ---
 
-So the other day I was reworking a Python script that I had been using for years on my home PC to manage and categorize some downloaded files for me. This time I wanted to add some smarter behavior to make it more able to figure out when to group files into folders without constantly needing manual intervention from me. To do this, I needed to persist some data between runs &#8211; so that the script remembers how it categorized previous files and is able to group similar files together.
+So the other day I was reworking a Python script that I had been using for years on my home PC to manage and categorize some downloaded files for me. This time I wanted to add some smarter behavior to make it more able to figure out when to group files into folders without constantly needing manual intervention from me. To do this, I needed to persist some data between runs -- so that the script remembers how it categorized previous files and is able to group similar files together.
 
 Now since my software development career has largely been as an enterprise-y kind of developer, my first thought was to just use a database to store the data. I already had a MySql installation on my machine so that was fine, I just needed Python to interface with it. After looking up how to do it, I balked at having to install a new Python library just to connect to MySql and reconsidered.
 

@@ -10,11 +10,11 @@ url: /2006/03/ballmer-bemused-forbes-com/
 
 [
   
-Ballmer, Bemused &#8211; Forbes.com
+Ballmer, Bemused -- Forbes.com
   
 ][1] 
 
-An interview with Steve Ballmer &#8211; a lot of "Microsoft is cool&#8221; gibberish, but one nice quote stands out for me:
+An interview with Steve Ballmer -- a lot of "Microsoft is cool" gibberish, but one nice quote stands out for me:
 
 > Forbes.com: Right now, I can go out and get a free alternative to just about every product Microsoft sells. Why do people keep paying you for something they could get free?
 > 

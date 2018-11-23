@@ -7,7 +7,7 @@ type: post
 url: /2009/05/alara-reborn-prerelease-for-real-this-time/
 ---
 
-And so, our delayed prerelease. My sealed deck (at least after initial tweaks &#8211; it varies slightly from my submitted list):
+And so, our delayed prerelease. My sealed deck (at least after initial tweaks -- it varies slightly from my submitted list):
 
 <div class="decklist_wrap">
   <!--

@@ -127,7 +127,7 @@ Bah! With the lack of tables and losses, I tell DJ to drop me from the tournamen
 
 Round 3: 2-0 win vs B/W Runed Halo deck.
 
-With the lack of tables we're forced to play at the nearby Dim Sum place (luckily they didn't chase us away). The kid is a nice guy, but he's playing in his first tournament and he learned Magic barely three weeks ago. He has nice cards though &#8211; his deck had Rune Halos, Archons of Justice, Hallowed Burial, Oona. Unfortunately, he had too many do-nothings &#8211; first time I've ever seen
+With the lack of tables we're forced to play at the nearby Dim Sum place (luckily they didn't chase us away). The kid is a nice guy, but he's playing in his first tournament and he learned Magic barely three weeks ago. He has nice cards though -- his deck had Rune Halos, Archons of Justice, Hallowed Burial, Oona. Unfortunately, he had too many do-nothings -- first time I've ever seen
    
 [Goldenglow Moth][1]
    
@@ -135,7 +135,7 @@ and
    
 [Greater Auramancy][2]
    
-in a constructed deck (I know you need to click the links &#8211; I doubt you know what those cards are!).
+in a constructed deck (I know you need to click the links -- I doubt you know what those cards are!).
 
 I crush him without any opposition. I give him some friendly words of advice, although I'm not sure how he felt taking them from someone who was 0-2.
 

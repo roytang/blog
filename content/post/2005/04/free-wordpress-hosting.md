@@ -12,7 +12,7 @@ url: /2005/04/free-wordpress-hosting/
 
 [
   
-Wordpress host &#8211; free blog
+Wordpress host -- free blog
   
 ][1] 
 

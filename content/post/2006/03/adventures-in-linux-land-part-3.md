@@ -20,11 +20,11 @@ Also, now that I was a bit more familiar with Adept, I used it to install Firefo
 
 For next time:
 
-&#8211; install Firefox 1.5.x
+-- install Firefox 1.5.x
 
-&#8211; get my screen resolution above 1028&#215;768 (Edit, 20 mins. later: I couldn't sleep, so I went ahead and did this. I will probably be late tomorrow. I feel extra geeky now =/)
+-- get my screen resolution above 1028&#215;768 (Edit, 20 mins. later: I couldn't sleep, so I went ahead and did this. I will probably be late tomorrow. I feel extra geeky now =/)
 
-&#8211; find more stuff to do
+-- find more stuff to do
 
 ## Comments
 

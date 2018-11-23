@@ -92,7 +92,7 @@ Round 1: UB Faeries
 
 It's basically impossible to join a standard tournament without seeing UB Faeries. This matchup is a race, since usually there's no blocking involved. But I felt confident since they have Bitterblossom and I have Psionic Blast, so I had a lower damage target. However, the main enemy in this matchup is Cryptic Command, since it stalls one round of damage which is huge in such a close race. I won game one easily since I got a nuts draw and my opponent seemed not used to playing against the fish.
 
-I &#8216;m not sure exactly how I sideboarded here but it was almost certainly wrong, as I remember changing my board decisions 2 or 3 times. I proceeded to lose games two and three, although game three was very close. My opponent had boarded in more removal (4 Shriekmaws) which meant I almost never had a lord on the board &#8211; good choice.
+I &#8216;m not sure exactly how I sideboarded here but it was almost certainly wrong, as I remember changing my board decisions 2 or 3 times. I proceeded to lose games two and three, although game three was very close. My opponent had boarded in more removal (4 Shriekmaws) which meant I almost never had a lord on the board -- good choice.
 
 Games 1-2 Matches 0-1
 
@@ -122,7 +122,7 @@ Games 5-6 Matches 2-2
 
 I didn't even bother writing the matchup in the notes anymore, I would surely remember that 4 out of the first five rounds I faced Faeries.
 
-Game one my opponent tried to stay alive by using a Sower on my Lord of Atlantis &#8211; but that doesn't actually do anything since my guys get the bonus no matter where the Lord is. I lose game two to fast beats, then in game three I get the nuts draw: Turn 1 &#8211; Suspend Visions, Turn 2 &#8211; Banneret, Turn 3 &#8211; Reejerey, Adept (revealing Adept), untap island, one more Adept (revealing 3rd Adept). I actually had the 4th Adept as well, but I didn't want to overcommit to the board. No hope for the opponent's survival here&#8230;
+Game one my opponent tried to stay alive by using a Sower on my Lord of Atlantis -- but that doesn't actually do anything since my guys get the bonus no matter where the Lord is. I lose game two to fast beats, then in game three I get the nuts draw: Turn 1 -- Suspend Visions, Turn 2 -- Banneret, Turn 3 -- Reejerey, Adept (revealing Adept), untap island, one more Adept (revealing 3rd Adept). I actually had the 4th Adept as well, but I didn't want to overcommit to the board. No hope for the opponent's survival here&#8230;
 
 Games 7-7 Matches 3-2
 
@@ -144,7 +144,7 @@ Round 7: Monored Burn
    
 ** 
 
-Finally, an opponent without islands! It's immediately obvious what he's playing when his turn 1 is mountain, suspend rift bolt. I take some hits, and he chooses to point his burn at me instead of my critters, which I think is a mistake. Against a straight control deck that's fine, but this one is an aggro-control swarm; I only need to make sure his burn doesn't deal the twentieth point of damage and surely my creatures can finish the job. At least, that was the plan, until he played Crusher and suspended Big Gargs. I kept chumping the Crusher while waiting for my answer &#8211; Sower. When I finally drew it, it forced him to sac the Crusher and he was already in topdeck mode so I just went in, dealing 4-5 points of damage at a time to win the game at one life. The Sage's Dousing and Silvergill Adepts were awesome in this matchup, ensuring that he loses steam before me.
+Finally, an opponent without islands! It's immediately obvious what he's playing when his turn 1 is mountain, suspend rift bolt. I take some hits, and he chooses to point his burn at me instead of my critters, which I think is a mistake. Against a straight control deck that's fine, but this one is an aggro-control swarm; I only need to make sure his burn doesn't deal the twentieth point of damage and surely my creatures can finish the job. At least, that was the plan, until he played Crusher and suspended Big Gargs. I kept chumping the Crusher while waiting for my answer -- Sower. When I finally drew it, it forced him to sac the Crusher and he was already in topdeck mode so I just went in, dealing 4-5 points of damage at a time to win the game at one life. The Sage's Dousing and Silvergill Adepts were awesome in this matchup, ensuring that he loses steam before me.
 
 I board in Flash Freeze for Delays. Second game is much like the first, except he draws no creatures except for a lone Mogg Fanatic which he sacs to off a Banneret, and he's also mana flooded. He's learned from the first game and keeps killing the lords, but eventually even the 1/1s manage to kill him. I ended the game at a comfortable 4 life, holding 2 flash freeze and a sage's dousing.
 

@@ -123,7 +123,7 @@ Round 3: 1-2 loss vs Green/white/black:
    
 ** 
 
-His deck is the same as mine, except with more removal. Skill came into play here, but sadly it was my lack of skill Game one was close, but I lost game two to a 4/4 indestructible Vanquisher that suddenly became 7/1 courtesy of Nameless Inversion. I could have blocked the Vanquisher for at least two more turns; I knew he had the Inversion in hand (he revealed it for the Vanquisher) when he attacked with me at six life, still I said "take.&#8221; =( Checking the top cards of my library afterwards, I might have won in two more turns, since he was at one life with no fliers and I was going to draw the Shield.
+His deck is the same as mine, except with more removal. Skill came into play here, but sadly it was my lack of skill Game one was close, but I lost game two to a 4/4 indestructible Vanquisher that suddenly became 7/1 courtesy of Nameless Inversion. I could have blocked the Vanquisher for at least two more turns; I knew he had the Inversion in hand (he revealed it for the Vanquisher) when he attacked with me at six life, still I said "take." =( Checking the top cards of my library afterwards, I might have won in two more turns, since he was at one life with no fliers and I was going to draw the Shield.
 
 **
     

@@ -141,7 +141,7 @@ I had been having a bad constructed record over the past few tournaments, so I t
 
 Round 1: Mirror match!
 
-In this round I encountered the first problem with this deck, the mirror takes forever! We stretched game one over 45 minutes of the 50 minute round. I almost made a few mistakes here, such as killing my own men with two firespouts intended to kill Oona &#8211; but the spectators were a bit too obvious that I should've paid only green. I had gotten him down to eight before he went back up to 20 with Dawnglow Infusion. I went down to 1, held on and clawed back to five life. Eventually I won with 13 damage from a Horde of Notions + buddies alpha strike.
+In this round I encountered the first problem with this deck, the mirror takes forever! We stretched game one over 45 minutes of the 50 minute round. I almost made a few mistakes here, such as killing my own men with two firespouts intended to kill Oona -- but the spectators were a bit too obvious that I should've paid only green. I had gotten him down to eight before he went back up to 20 with Dawnglow Infusion. I went down to 1, held on and clawed back to five life. Eventually I won with 13 damage from a Horde of Notions + buddies alpha strike.
 
 We tried to play game two in the last five minutes, and he had a quick start and I had a bad draw, but he couldn't finish me in extra turns.
 
@@ -183,7 +183,7 @@ Match record: 3-1
 
 Round 5 vs Kithkin:
 
-My opponent had complained that he had fought Elementals all five rounds &#8211; except I wasn't the usual Elemental deck!
+My opponent had complained that he had fought Elementals all five rounds -- except I wasn't the usual Elemental deck!
 
 In game one, a forge tender ran smack into the Plumeveil, and he never recovered from that.
 
@@ -199,7 +199,7 @@ Match record 4-1
 
 Round six vs Kithkin:
 
-I easily beat him game one due to no maindeck Forge Tenders, meaning I actually got rid of five or so creatures with a Firespout. In game two I mulliganned and had mana issues. In game three he had something like a God start &#8211; two Forge Tenders, Wizened Cenn, Meadowgrain, Thistledown Liege and a Reveillark under the hideaway land. I eventually ran out of Cryptics to stall and couldn't use the spouts due to the BFTs.
+I easily beat him game one due to no maindeck Forge Tenders, meaning I actually got rid of five or so creatures with a Firespout. In game two I mulliganned and had mana issues. In game three he had something like a God start -- two Forge Tenders, Wizened Cenn, Meadowgrain, Thistledown Liege and a Reveillark under the hideaway land. I eventually ran out of Cryptics to stall and couldn't use the spouts due to the BFTs.
 
 Final Game record: 7-4
    

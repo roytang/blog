@@ -17,7 +17,7 @@ I've been wanting to toy around with Javascript hacks to extend the Blogger temp
 
 I'm also wondering whether it's possible to have a Javascript hack that allows Blogger to have categories? The Category names would have to be included in maybe the post title text or the post body text, then we'd have a Javascript parser that determines the correct categories for each post. Then we could append category names to the URL to allow viewing by category, using javascript again to parse the URL to find which categories need to be displayed.
 
-Seems like a lot of work though. My Javascript is not as strong as I want it to be &#8212; although I have a pretty good idea of how it works, I'm no expert. So I guess working on these hacks would be good practice, but maybe the time would be better spent learning PHP and preparing to move to a paid webhost? (If wasting time is a consideration, it's too late &#8211; I've already spent some two hours fooling around with the current template.)
+Seems like a lot of work though. My Javascript is not as strong as I want it to be &#8212; although I have a pretty good idea of how it works, I'm no expert. So I guess working on these hacks would be good practice, but maybe the time would be better spent learning PHP and preparing to move to a paid webhost? (If wasting time is a consideration, it's too late -- I've already spent some two hours fooling around with the current template.)
 
 A bit sleepy. After all, it is almost 4 AM. I'll try to fix this thing later.
 

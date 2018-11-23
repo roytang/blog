@@ -55,7 +55,7 @@ Round 3: Merfolk vs UG Faeries
   
 _
     
-"Basta may island, good matchup!&#8221;
+"Basta may island, good matchup!"
    
 _ 
 
@@ -99,7 +99,7 @@ Round 6: Merfolk vs G/B Rock
    
 ** 
 
-Apparently my opponent kept a greedy hand &#8211; six lands and a BoP. I had him at ten life before he could even untap with four mana. He surveys the ten power worth of Merfolk on the board and scoops. We finish game one in under two minutes &#8211; the adjacent table hasn't even finished shuffling yet!
+Apparently my opponent kept a greedy hand -- six lands and a BoP. I had him at ten life before he could even untap with four mana. He surveys the ten power worth of Merfolk on the board and scoops. We finish game one in under two minutes -- the adjacent table hasn't even finished shuffling yet!
 
 Game two I board in Sowers and Unsummons. He gets a Troll down and a Warhammer equipped. I grab his other creatures using Sowers to chump-block and race him with 8-10 power of Merfolk and Conclaves. I dealt a total of 32 damage during this game, just enough to win.
 
@@ -119,6 +119,6 @@ Game two and hold off on attacking early, instead building up advantage through 
 
 Final record: Games 11-6 Matches 5-2, #11
 
-Slightly better record this time, the Unsummons really helped against the green decks. Still a bit disappointing as it means I won't have a Prerelease pass for free this time around. I win two packs &#8211; rares are Mind Shatter and Notorious Throng.
+Slightly better record this time, the Unsummons really helped against the green decks. Still a bit disappointing as it means I won't have a Prerelease pass for free this time around. I win two packs -- rares are Mind Shatter and Notorious Throng.
 
 Next: Shadowmoor Prerelease!

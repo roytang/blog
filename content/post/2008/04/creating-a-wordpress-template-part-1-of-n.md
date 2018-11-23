@@ -19,7 +19,7 @@ Roy on Magic
    
 ][1] 
    
-blog has been using the default WordPress Template since forever, and I've been trying to find a good WP Template that fits the "Magic the Gathering&#8221; theme.
+blog has been using the default WordPress Template since forever, and I've been trying to find a good WP Template that fits the "Magic the Gathering" theme.
 
 Put the above points together, and I have a new personal project. Just for fun, I'll log my progress here.
    
@@ -45,9 +45,9 @@ I think about how I would layout the page. I could open up an HTML editor and dr
   
 ][3] 
 
-When a reader comes to the site, I want him to read the most recent article first, so I place the latest post content in the leftmost column. I imagine that I can figure out later how to make only one post appear there. After the most recent article, I want the user to see a list of the recent posts, so I put in the second column where he can quickly scan it. In the last column I'll place the "About&#8221; stuff, etc.
+When a reader comes to the site, I want him to read the most recent article first, so I place the latest post content in the leftmost column. I imagine that I can figure out later how to make only one post appear there. After the most recent article, I want the user to see a list of the recent posts, so I put in the second column where he can quickly scan it. In the last column I'll place the "About" stuff, etc.
 
-Next, I open up a text editor. I know that most "pro&#8221; web designers recommend the use of CSS for layouts so I try out the 3-column layout, using 3 floating divs inside a container div. It looks fine in Firefox, but it doesn't look so hot in IE.
+Next, I open up a text editor. I know that most "pro" web designers recommend the use of CSS for layouts so I try out the 3-column layout, using 3 floating divs inside a container div. It looks fine in Firefox, but it doesn't look so hot in IE.
    
 _
     
@@ -65,9 +65,9 @@ _
   
 ][4] 
 
-If I had more time, I would've looked up how to fix this using CSS, but I was impatient and still had the "newb&#8221; excuse so I just made a mockup page using a table layout instead. [TODO: Screenshot]
+If I had more time, I would've looked up how to fix this using CSS, but I was impatient and still had the "newb" excuse so I just made a mockup page using a table layout instead. [TODO: Screenshot]
 
-Next I need an image to place in the header area, preferably artwork from a green Magic card. The best place to look is the official website, so I browse over to MagicTheGathering.com and look over the recent entries in the "Wallpaper of the Week&#8221; feature. I settle on the card art for
+Next I need an image to place in the header area, preferably artwork from a green Magic card. The best place to look is the official website, so I browse over to MagicTheGathering.com and look over the recent entries in the "Wallpaper of the Week" feature. I settle on the card art for
    
 [
     
@@ -89,21 +89,21 @@ The Winnower Patrol image fits surprisingly well, at least it looks that way to 
 
 Now that I have a rough layout, I want to start working on the WordPress side. I already have a local WordPress installation, so to make things easier I export the content of the Roy on Magic site and import it into my local test installation.
 
-Next I go into my local wordpress folder and create a copy of the default theme. I name the new folder "green&#8221; &#8211; I'll think of a creative name for the theme later.
+Next I go into my local wordpress folder and create a copy of the default theme. I name the new folder "green" -- I'll think of a creative name for the theme later.
 
 I go into the folder and wonder where I should start. I'm a bit familiar already with the files so I know that to create the basic layout I have to modify the ff:
 
-a. styles.css &#8211; I delete the contents and paste in the styles from my HTML mockup
+a. styles.css -- I delete the contents and paste in the styles from my HTML mockup
 
-b. header.php &#8211; similarly, I copy-paste the header code from my HTML mockup into the header file. Additionally, I have to change the hardcoded "Roy on Magic&#8221; to <?php bloginfo(&#8216;name'); ?> and the description to <?php bloginfo(&#8216;description'); ?>
+b. header.php -- similarly, I copy-paste the header code from my HTML mockup into the header file. Additionally, I have to change the hardcoded "Roy on Magic" to <?php bloginfo(&#8216;name'); ?> and the description to <?php bloginfo(&#8216;description'); ?>
 
-c. index.php &#8211; this is the page that renders the posts. I'm not yet too familiar with how WP does the post retrieval, so I just copy the table row from the HTML mockup and then put in the default post generation code.
+c. index.php -- this is the page that renders the posts. I'm not yet too familiar with how WP does the post retrieval, so I just copy the table row from the HTML mockup and then put in the default post generation code.
 
-d. sidebar.php &#8211; similar to index, I just copy the default sidebar content first and place it inside the HTML mockup tags. I also paste the third column contents from the mockup into the currently empty third column.
+d. sidebar.php -- similar to index, I just copy the default sidebar content first and place it inside the HTML mockup tags. I also paste the third column contents from the mockup into the currently empty third column.
 
-e. footer.php &#8211; similarly merged from mockup and the default template.
+e. footer.php -- similarly merged from mockup and the default template.
 
-I login to WordPress and change the theme to "green&#8221; and check it out in the browser:
+I login to WordPress and change the theme to "green" and check it out in the browser:
 
 [
   

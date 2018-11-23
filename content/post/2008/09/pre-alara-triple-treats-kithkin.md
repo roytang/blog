@@ -27,7 +27,7 @@ I changed the sideboard, taking out the janky Pollen Lullabies and putting in 3 
 
 Round 1 vs Kithkin (mirror match): 2-1 win. I basically just overloaded with Spectrals and Cloudgoats to take game 3.
 
-Round 2 vs Faeries: 2-0 win. My opponent had what he called "the three-land curse&#8221; in game two and hardly put up a fight.
+Round 2 vs Faeries: 2-0 win. My opponent had what he called "the three-land curse" in game two and hardly put up a fight.
 
 Round 3 vs Unknown deck (no notes): 2-0 win. I'll update this if I figure it out.
 

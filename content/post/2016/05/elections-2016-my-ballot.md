@@ -26,18 +26,18 @@ For Vice President, there is no other choice but **Leni Robredo**. Full disclos
 
 For the Senate, just a quick run through:
 
-  1. **Risa Hontiveros** &#8211; I voted for in 2010, still voting for her now.
-  2. **Lorna Kapunan** &#8211; a newbie, but given one of the likely winners of the presidential race, we will need more Human Rights advocates in the senate
-  3. **Ina Ambolodto **&#8211; some representation for our Mindanao/Muslim brethren. She was recommended by Jesse Robredo to be part of his team in the DILG, a big plus for me
-  4. **Leila de Lima **&#8211; for Justice! Not afraid to go up against influential groups
-  5. **Francis Pangilinan** &#8211; reasonably good track record, focus on agriculture
-  6. **Joel Villanueva **&#8211; on the strength of his TESDA track record
-  7. **Sherwin Gatchalian **&#8211; I still associate him with some text spam ads during the previous elections, but multiple people have vouched for how he has improved things in Valenzuela, so I'll give him a chance
-  8. **Rafael Alunan** &#8211; reasonably good track record during the Ramos administration. As a Duterte supporter, he is also my concession to their camp; as an intelligent man I hope he can help keep the mayor's baser instincts in check should he become president
-  9. **Dick Gordon** &#8211; he's not perfect, and I disagree with his stand on a number of issues, but if I was willing to vote for him as president in 2010, there's no reason not to vote for him now as a Senator where he would have less power
- 10. **Roman Romulo** &#8211; focus on education. He's only here because I'm a sucker for his political ad haha. He also has a reasonable legislative record focused on education
- 11. **TG Guingona **&#8211; filling out the slots with a couple of re-electionists. #11 and #12 are soft slots, they are more likely to change depending on my mood during election day. Both of these guys seem to have reasonable track records and I don't mind re-electing them.
- 12. **Ralph Recto** &#8211; see above.
+  1. **Risa Hontiveros** -- I voted for in 2010, still voting for her now.
+  2. **Lorna Kapunan** -- a newbie, but given one of the likely winners of the presidential race, we will need more Human Rights advocates in the senate
+  3. **Ina Ambolodto **-- some representation for our Mindanao/Muslim brethren. She was recommended by Jesse Robredo to be part of his team in the DILG, a big plus for me
+  4. **Leila de Lima **-- for Justice! Not afraid to go up against influential groups
+  5. **Francis Pangilinan** -- reasonably good track record, focus on agriculture
+  6. **Joel Villanueva **-- on the strength of his TESDA track record
+  7. **Sherwin Gatchalian **-- I still associate him with some text spam ads during the previous elections, but multiple people have vouched for how he has improved things in Valenzuela, so I'll give him a chance
+  8. **Rafael Alunan** -- reasonably good track record during the Ramos administration. As a Duterte supporter, he is also my concession to their camp; as an intelligent man I hope he can help keep the mayor's baser instincts in check should he become president
+  9. **Dick Gordon** -- he's not perfect, and I disagree with his stand on a number of issues, but if I was willing to vote for him as president in 2010, there's no reason not to vote for him now as a Senator where he would have less power
+ 10. **Roman Romulo** -- focus on education. He's only here because I'm a sucker for his political ad haha. He also has a reasonable legislative record focused on education
+ 11. **TG Guingona **-- filling out the slots with a couple of re-electionists. #11 and #12 are soft slots, they are more likely to change depending on my mood during election day. Both of these guys seem to have reasonable track records and I don't mind re-electing them.
+ 12. **Ralph Recto** -- see above.
 
 For party-list, once again I'm voting for **AGHAM**. I always heavily favor science and education, because playing Civilization taught me that it's difficult to keep up with other civs if our science % is too low haha.
 

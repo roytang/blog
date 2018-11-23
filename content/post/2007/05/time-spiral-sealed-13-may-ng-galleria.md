@@ -13,7 +13,7 @@ The format was Time Spiral Block Sealed, and I was feeling good. I opened a card
 
 I went 5-1 in the first six rounds, always hovering near the top tables. Also took down quite a few of the top limited players in the country. Not too shabby for a deck built in under a minute! For the seventh and last round, my opponent asked for the win since I was guaranteed top eight status already. After some negotiation, he agreed to split his prizes with me after I conceded.
 
-So my finish was a respectable 5-2, but with some pretty good wins and quite a number of packs taken home. Nacatl War-Pride is quite good in sealed (dunno in draft), it's practically a "must-kill&#8221; creature. Pyrohemia is a true bomb, as it turned the game around for me more than once.
+So my finish was a respectable 5-2, but with some pretty good wins and quite a number of packs taken home. Nacatl War-Pride is quite good in sealed (dunno in draft), it's practically a "must-kill" creature. Pyrohemia is a true bomb, as it turned the game around for me more than once.
 
 I love playing Limited Magic, much more so than Constructed, despite the fact it feels more expensive (I'm still not sure whether it actually
    

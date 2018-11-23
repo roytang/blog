@@ -210,11 +210,11 @@ Five and one! If I win the next round I can draw into the top eight&#8230;
 
 Round seven is Faeries again! We trade game one and two, and game three I thought I had it lost&#8230;
 
-It was his turn, the third turn in extra time and I was at nine. I had no chance of winning at this point, but he had Bitterblossom and seven tokens without summoning sickness. I had nothing. He plays Mutavault, his fifth land, then swings with the seven tokens. I would take seven and go down to two, losing on the fifth turn even if I had a sweeper because of the Mutavault. I signal no blockers and prepare to write down "2&#8221; on my life total&#8230;
+It was his turn, the third turn in extra time and I was at nine. I had no chance of winning at this point, but he had Bitterblossom and seven tokens without summoning sickness. I had nothing. He plays Mutavault, his fifth land, then swings with the seven tokens. I would take seven and go down to two, losing on the fifth turn even if I had a sweeper because of the Mutavault. I signal no blockers and prepare to write down "2" on my life total&#8230;
 
 He signals wait. He taps his mutavault and indicates he's animating it. He plays Mirrorweave targetting Mutavault.
 
-My hand shoots into the air, "Judge!&#8221;
+My hand shoots into the air, "Judge!"
 
 Some explanations later, we get the ruling: the Faeries become lands and are removed from combat!
 

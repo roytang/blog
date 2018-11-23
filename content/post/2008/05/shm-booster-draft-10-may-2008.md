@@ -23,7 +23,7 @@ Pack one, pick two:
    
 [Wicker Warcrawler][2]
 
-There's a group of people I draft with on a semiregular basis; "Be a man, take the artifact!&#8221; has been one of our running jokes for years now. The thing abut the warcrawler is that many people don't realize that it gets the -1/-1 counter at the end of combat, so the first attack or block is a six, and will often net you card advantage in the form of a chump block.
+There's a group of people I draft with on a semiregular basis; "Be a man, take the artifact!" has been one of our running jokes for years now. The thing abut the warcrawler is that many people don't realize that it gets the -1/-1 counter at the end of combat, so the first attack or block is a six, and will often net you card advantage in the form of a chump block.
 
 Pack one, pick three:
    

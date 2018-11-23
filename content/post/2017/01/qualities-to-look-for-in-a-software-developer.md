@@ -13,7 +13,7 @@ Just a list I've been maintaining for a while:
 _(Disclaimer: This list in no way implies that developers who don't exhibit all of these attributes are terrible human beings who don't deserve to live. But working with developers who exhibit many of these traits will probably result in a better experience over the course of your developer career.)_
 
 <li style="font-weight: 400;">
-  <span style="font-weight: 400;">Laziness, </span><span style="font-weight: 400;">Impatience and </span><span style="font-weight: 400;">Hubris &#8211; from <a href="http://wiki.c2.com/?LazinessImpatienceHubris">the well-known (notorious?) Larry Wall quote</a></span>
+  <span style="font-weight: 400;">Laziness, </span><span style="font-weight: 400;">Impatience and </span><span style="font-weight: 400;">Hubris -- from <a href="http://wiki.c2.com/?LazinessImpatienceHubris">the well-known (notorious?) Larry Wall quote</a></span>
 </li>
 <li style="font-weight: 400;">
   <span style="font-weight: 400;">Communicates well; is able to explain and communicate his ideas clearly, especially to nontechnical people; able to write good documentation</span>

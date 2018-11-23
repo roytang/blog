@@ -31,7 +31,7 @@ url: /2006/02/looking-out-over-punta-fuego/
     </p>
     
     <p>
-      You get thirsty fast inside the resort though &#8211; mineral water was an expensive P55 a pop inside the resort, and there was no other free water. Bad news for someone like me who is used to drinking a lot of water.
+      You get thirsty fast inside the resort though -- mineral water was an expensive P55 a pop inside the resort, and there was no other free water. Bad news for someone like me who is used to drinking a lot of water.
     </p>
     
     <p>

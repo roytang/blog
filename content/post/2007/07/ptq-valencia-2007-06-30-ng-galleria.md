@@ -189,27 +189,27 @@ Card-specific notes:
    
 
    
-&#8211; Thelonite Hermit is pretty awesome, allowing you to win out of nowhere with 8 additional surprise damagae (24 if you have a shifter)
+-- Thelonite Hermit is pretty awesome, allowing you to win out of nowhere with 8 additional surprise damagae (24 if you have a shifter)
    
 
    
-&#8211; Vesuvan Shapeshifter + Llanowar Reborn is awesome tech. A grafted shifter beats most other things in combat. I've been able to take down Calciderms and Spectral Forces without losing my shifter
+-- Vesuvan Shapeshifter + Llanowar Reborn is awesome tech. A grafted shifter beats most other things in combat. I've been able to take down Calciderms and Spectral Forces without losing my shifter
    
 
    
-&#8211; Llanowar Reborn may be the best or 2nd best of the uncommon FS lands.
+-- Llanowar Reborn may be the best or 2nd best of the uncommon FS lands.
    
 
    
-&#8211; Willbender is awesome in the GW Goyf matchup &#8211; mostly because their removal (Temporal Isolation/Bound in Silence) is so effective on their own creatures. And their Griffin Guide is so nice on mine.
+-- Willbender is awesome in the GW Goyf matchup -- mostly because their removal (Temporal Isolation/Bound in Silence) is so effective on their own creatures. And their Griffin Guide is so nice on mine.
    
 
    
-&#8211; Draining Whelk is stupid here. I think it should be in the board, coming in against RG mana ramp decks.
+-- Draining Whelk is stupid here. I think it should be in the board, coming in against RG mana ramp decks.
 
 Anyway, yeah I scrubbed out in the quarterfinals. At that point I was really tired and just wanted to go home. My deck also annoyed me in the last game. I cast all 3 foresees trying to find and answer to an 8/9 flying Tarmagoyf but I didn't find any. I picked up my prize for the top eight finish (seven packs)&#8230;I was a bit disappointed as well since I fought through so many rounds and only got seven packs, I was hoping maybe 10-12. Well, I've never had a top 8 finish before so maybe I was expecting more stuff :p
 
-On my way home I was thinking about quitting Magic. I started to play "seriously&#8221; about a year ago, and all I have to show for it so far was a PTQ top 8. Playing Magic is so fucking hard. Let me rephrase: playing Magic is easy. Being good at Magic is so fucking hard. You need to pay attention to everything, you need to have the best deck, you need to know how to sideboard in all the matchups. At some point it stops being fun.
+On my way home I was thinking about quitting Magic. I started to play "seriously" about a year ago, and all I have to show for it so far was a PTQ top 8. Playing Magic is so fucking hard. Let me rephrase: playing Magic is easy. Being good at Magic is so fucking hard. You need to pay attention to everything, you need to have the best deck, you need to know how to sideboard in all the matchups. At some point it stops being fun.
 
 It's going to become harder since most of the guys I grew up playing the game with are either no longer playing or out of the country. And I'm too cheap to pay for more stuff on MTGO. Many of the Magic players in the office have migrated to playing WoW CCG.
 

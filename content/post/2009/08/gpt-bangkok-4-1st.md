@@ -592,7 +592,7 @@ Game 1 I start with [Soul Warden][22] He starts with turn 2 [Sage Owl][23] and t
 
 Game 2 He plays 2nd turn [Sage Owl][23]. It seems he's sided in [Alluring Sirens][28] which makes a bunch of my [Illusionary Servant][29]s pretty bad. Somehow I manage to counter the relevant spells and run him out of gas to steal the win.
 
-Game 3 He plays 2nd turn [Sage Owl][23]. I joke about asking for a deck check on those Owls. I'm losing badly, stalling at four lands. I'm at five life and about to die the next turn when I draw my fifth land. "You have one card in hand right?&#8221; I ask him. Hoping he has no removal left, I play the [Baneslayer Angel][19]. He draws no Doom Blades or Tendrils and the angel is impossible to race with, so I take the game from there.
+Game 3 He plays 2nd turn [Sage Owl][23]. I joke about asking for a deck check on those Owls. I'm losing badly, stalling at four lands. I'm at five life and about to die the next turn when I draw my fifth land. "You have one card in hand right?" I ask him. Hoping he has no removal left, I play the [Baneslayer Angel][19]. He draws no Doom Blades or Tendrils and the angel is impossible to race with, so I take the game from there.
 
 Although the draft and the actual quarters match was more luck than skill, a win's a win, so I [posted on Twitter][30] as soon as I got home.
 
@@ -639,7 +639,7 @@ But I think the judge was correct. Resolution of Harm's Way's effect would only 
 ### Comment by [Dee Barizo](http://magicgameplan.com/blog/) on 2009-08-04 00:46:43 +0000
 Congrats on the win 🙂
 
-I thought about how I would build your sealed deck before I looked at your actual build. My build was very close to yours &#8211; just off by two cards. I would've gone -1 Assassinate, -1 Runeclaw Bear, +1 Rampant Growth, and +1 Divine Verdict. I like going with consistency over power especially if my deck is already pretty good.
+I thought about how I would build your sealed deck before I looked at your actual build. My build was very close to yours -- just off by two cards. I would've gone -1 Assassinate, -1 Runeclaw Bear, +1 Rampant Growth, and +1 Divine Verdict. I like going with consistency over power especially if my deck is already pretty good.
 
 Also, in your draft, I'm surprised you didn't play Armorer Ascension, Gorgon Flail, and Magebane Armor. Those three cards seem better that Cancel, Negate, and Whispersilk Cloak.
 

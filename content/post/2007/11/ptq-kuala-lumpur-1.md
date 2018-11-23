@@ -33,7 +33,7 @@ Okay, that makes me sad. I'm at 0-2 obviously I'm pretty much dead. I decided no
 
 Round 3: 2-0 win vs R/G
 
-Worst problem was an Epic Proportions&#8230;no wait, that was the previous tournament. I count 58 cards in the opponent's pile shuffle and mention to him that he's over 40. He says "Yeah, probably should trim it.&#8221; and he's right. He's color screwed both games, so easy win.
+Worst problem was an Epic Proportions&#8230;no wait, that was the previous tournament. I count 58 cards in the opponent's pile shuffle and mention to him that he's over 40. He says "Yeah, probably should trim it." and he's right. He's color screwed both games, so easy win.
 
 Round 4: 2-1 win vs (I forgot what the deck was)
 
@@ -41,6 +41,6 @@ My deck really performed here, giving me so much removal I couldn't even remembe
 
 Round 5: 1-2 loss vs B/G
 
-The opponent jokes around about his bad deck and wonders how he even got two wins. I lose game 1 to 1/1s and 2/2s, all I had was the Stonybrook Angler.  Game 2 I mulligan to six and he keeps, but he misses the 3rd land drop. I have a Cloudgrown Oak carrying a Runed Stalactite, a five-turn clock. He gets the third land and tries to play Eyeblight's Ending on it and I shake my head. "Elf.&#8221; He gets out a few blockers at 8 and trades two for one with the Oak. I cast the Treefolk Harbinger for Changeling Titan. When the Titan attacks, he tries the Eyeblight's Ending again, and I shake my head again. Right, he scoops and we go to game three. Game three I mulligan to six again, only it's a proper mana screw this time. I barely put up a fight and lose to random dorks.
+The opponent jokes around about his bad deck and wonders how he even got two wins. I lose game 1 to 1/1s and 2/2s, all I had was the Stonybrook Angler.  Game 2 I mulligan to six and he keeps, but he misses the 3rd land drop. I have a Cloudgrown Oak carrying a Runed Stalactite, a five-turn clock. He gets the third land and tries to play Eyeblight's Ending on it and I shake my head. "Elf." He gets out a few blockers at 8 and trades two for one with the Oak. I cast the Treefolk Harbinger for Changeling Titan. When the Titan attacks, he tries the Eyeblight's Ending again, and I shake my head again. Right, he scoops and we go to game three. Game three I mulligan to six again, only it's a proper mana screw this time. I barely put up a fight and lose to random dorks.
 
 So 2-3 and drop. Quite disappointing, as it seems I'm not improving my limited game at all. I still made a suboptimal sealed deck build (was siding in the same six cards every round) and made several play mistakes. I would blame lack of sleep, but obviously I didn't have my A-game this time around. Hopefully, the next few PTQs are better for me.

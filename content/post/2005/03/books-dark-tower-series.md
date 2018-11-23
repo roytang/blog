@@ -27,9 +27,9 @@ I do not kill with my gun.
   
 He who kills with his gun has forgotten the face of his father.
   
-I kill with my Heart.&#8221;
+I kill with my Heart."
 
-&#8211;The Gunslinger's Catechism
+--The Gunslinger's Catechism
 
 I've finished books 3 (Wastelands) and 4 (Wizard and Glass) of Stephen King's amazing Dark Tower series. The sprawling worlds travelled by Roland of Gilead and his band of gunslingers continues to draw me in; I guess the romantic western atmosphere really appeals to me.
 

@@ -13,7 +13,7 @@ Or any other fast food place really. There are a lot of people like me who view 
   1. **Know what you're going to order.** 
   
     Don't be one of those annoying people who chats with all her friends while they're waiting in line, then when they get up to the front of the line they spend 15 minutes discussing various options with the guy behind the counter. Walking up to the counter without knowing what you're going to order is the most inconsiderate thing to do to people in the line behind you. This isn't a five-star restaurant where you have a guy waiting on you, this is a frickin' fast food where you have five other people lined up behind you just wanting to have a bite.
-    Just last night I had to stand in line behind a lady who was ordering for her family. Every few minutes she'd look back to her husband and two kids seated at one of the tables and ask them what option they'd what. The cashier would ring up the bill, but before her orders are ready she has something new to ask for. "Oh, you serve fries here? Can we have a large?&#8221; What, have you never eaten at a burger joint before?
+    Just last night I had to stand in line behind a lady who was ordering for her family. Every few minutes she'd look back to her husband and two kids seated at one of the tables and ask them what option they'd what. The cashier would ring up the bill, but before her orders are ready she has something new to ask for. "Oh, you serve fries here? Can we have a large?" What, have you never eaten at a burger joint before?
     
     _
   

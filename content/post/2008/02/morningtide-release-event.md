@@ -130,7 +130,7 @@ Round 3, game 3: My notes tell me I dealt no damage this game. I was basically b
 
 Round 4, game 1: My opponent asks the players on the adjacent table and ask if I'm really allowed to tap it for Drowner. They nod and look at the Drowner, the Schoolmaster and the Commerce and advise him to scoop.
 
-Round 4, game 2: I was well in control here, locking down the board with Stonybrook Angler. He used a Warren Pilferers to champion into a Boggart Mob. I brought out Guile. He swings with mob, I figure if Guile blocks, he'll just get back the Mob with Pilferers and recast, wasting his mana. Guile blocks the Mob to kill it. Blunder &#8211; I had forgotten he had a Shriekmaw in the yard, which he promptly gets to dispose of my Incarnation. I lose to the wave of goblins and quickly shuffle up for game 3.
+Round 4, game 2: I was well in control here, locking down the board with Stonybrook Angler. He used a Warren Pilferers to champion into a Boggart Mob. I brought out Guile. He swings with mob, I figure if Guile blocks, he'll just get back the Mob with Pilferers and recast, wasting his mana. Guile blocks the Mob to kill it. Blunder -- I had forgotten he had a Shriekmaw in the yard, which he promptly gets to dispose of my Incarnation. I lose to the wave of goblins and quickly shuffle up for game 3.
 
 Round 4, game 3: Anticlimactic, as he drew no gas and all lands while I was beating with 2 1/1s.
 

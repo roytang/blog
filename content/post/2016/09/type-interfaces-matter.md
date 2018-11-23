@@ -14,7 +14,7 @@ In one of the bigger Java projects that I took over, I was often annoyed to fi
 
 > public void doTheThing(HashMap<K, V> params)
 
-Which is silly &#8211; not because of the naming, that's obviously not a real-world function name. The silly part is requiring a particular implementation (HashMap) instead of the generic interface (Map). It unnecessarily restricts your API and makes it less flexible. Unless your function specifically cares about the hashing part, there's no reason the parameter isn't a Map instead
+Which is silly -- not because of the naming, that's obviously not a real-world function name. The silly part is requiring a particular implementation (HashMap) instead of the generic interface (Map). It unnecessarily restricts your API and makes it less flexible. Unless your function specifically cares about the hashing part, there's no reason the parameter isn't a Map instead
 
 Since most Java libraries will perform proper encapsulation and give you a generic Map type, it adds some mismatch when you have to plug one of those types into your function; one would need to instantiate a new HashMap and copy the contents of the generic Map into it so that your function accepts it
 

@@ -48,7 +48,7 @@ awww. this entry screams geek. and it runs in the family pa 🙂
 (geek is meant as a compliment, sometimes geek means cool)
 
 ### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-03-25 12:55:00 +0000
-You should hear the conversations we have at home &#8211; we often have discussions
+You should hear the conversations we have at home -- we often have discussions
   
 on economics theory, especially since Vlad was Alvin's econ teacher this year.
   

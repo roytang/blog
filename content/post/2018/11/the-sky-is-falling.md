@@ -30,7 +30,7 @@ I like to think of myself as an optimist, but even I am increasingly wary of whe
     "Life is to be lived, not controlled; and humanity is won by continuing to play in face of certain defeat."
   </p>
   
-  <cite>&#8211; Ralph Ellison</cite>
+  <cite>-- Ralph Ellison</cite>
 </blockquote>
 
 We have to hold out hope that humanity and society can adapt and survive these crises, that we have not come all this way simply to lose to our own hubris.

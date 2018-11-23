@@ -14,7 +14,7 @@ url: /2017/12/grand-prix-singapore-2017-tournament-report/
 
 I had [booked the Singapore trip][1] earlier in the year, since I almost always [attend Grand Prixs in Singapore][2] as its an easy trip and gives a good opportunity to visit friends. Unfortunately, I ended up not having time to prepare for the tournament itself. Fortunately, it was a limited event rather than constructed, so I figured maybe I could wing it and still do well. (Spoiler: I could not.)
 
-Prior to the trip, my prep for the sealed format had consisted of a single pool at my prerelease and reading a few articles online the night before the trip. I went there on Day 0/Friday to try a last chance trial, but didn't get past the first round due to a "I'm still testing&#8221; mentality that meant poor mulligans and not reading the cards and tilting and scooping before figuring out there was an alternative.
+Prior to the trip, my prep for the sealed format had consisted of a single pool at my prerelease and reading a few articles online the night before the trip. I went there on Day 0/Friday to try a last chance trial, but didn't get past the first round due to a "I'm still testing" mentality that meant poor mulligans and not reading the cards and tilting and scooping before figuring out there was an alternative.
 
 Later that night, we opened 6 different sealed pools and tried out a few different builds to get a feel for the format. I liked the B/W vampires archetype best, and felt that the format was aggressive and wanted to avoid dinosaur decks which would have too many high-end drops. (Spoilers: Dinosaur decks would be my undoing). I knew I wanted to open cards like Bishop's Soldier, Mark of the Vampire, Walk the Plank, Vanquish the Weak, Ixalan's Binding and so on.
 
@@ -125,7 +125,7 @@ Round 6: Loss vs B/G dinosaurs and removal. Ok, guy had a really solid pool and 
 
 Round 7: Loss vs R/G dinos. Ugh. Now I see the problem with not having enough two drops. Not able to push through enough early damage means the opponent stabilizes. Mana problems at 16 lands doesn't help either. No more losses to give after this one.
 
-Round 8: Loss vs R/G dinos again. Similar story as the last round. I message my friend who had gone home earlier. "Good news! I don't have to come in early tomorrow!&#8221; Sigh.
+Round 8: Loss vs R/G dinos again. Similar story as the last round. I message my friend who had gone home earlier. "Good news! I don't have to come in early tomorrow!" Sigh.
 
 Round 9: Playing just for fun now. Aaand I lose a very close game 3 to another B/W deck.
 

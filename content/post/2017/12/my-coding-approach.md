@@ -25,9 +25,9 @@ I'm not sure if this is the best approach, but it works for me. It feels increme
 
 I realize that a lot of modern software engineering advocates recommend some kind of test-driven approach. I imagine with such an approach start with the smallest iota of functionality, write a test for it, then write the actual code, then work outwards from there, building more complexity on top. So for the example above, maybe I should have started with the retrieval logic on the backend then work my way outwards from there.
 
-I do that sometimes but I find that as a full-stack engineer my natural tendency is work my way across a new feature in this manner &#8211; from user interface to backend and back. Combined with the difficulty of writing code to test UI/HTML/JavaScript, this means I rarely get into the mindset of test-driven development. It's not something I ever got used to. Maybe someday a switch will click and I will get it and my mind will be blown.
+I do that sometimes but I find that as a full-stack engineer my natural tendency is work my way across a new feature in this manner -- from user interface to backend and back. Combined with the difficulty of writing code to test UI/HTML/JavaScript, this means I rarely get into the mindset of test-driven development. It's not something I ever got used to. Maybe someday a switch will click and I will get it and my mind will be blown.
 
-My approach does have some benefits though, in that I'm defining the interfaces first before diving into the guts of the logic. In that sense it's kind of "test-driven&#8221; except all my testing is manual.
+My approach does have some benefits though, in that I'm defining the interfaces first before diving into the guts of the logic. In that sense it's kind of "test-driven" except all my testing is manual.
 
 I do think having such a systematic, incremental method of implementation is a good skill for the junior programmer to learn though. My experience is that many younger programmers (especially those fresh out of college) tend to write huge chunks of code/logic/functionality then get surprised when the very first thing breaks down.
 

@@ -262,7 +262,7 @@ I registered a deck that I would have loved to play, with highlights such as Cal
   </div>
 </div>
 
-The exalted theme is pretty good and I was glad for a chance to try it out. I'm basically splashing red and black for Resounding Thunder, Broodmate Dragon and Infest. The dragon is rightly a bomb and won me every game where he resolved. The Infest was probably a mistake &#8211; it's not good against everybody and most of the time it sits in my hand bewailing the lack of swamps. I often side it out for the second Guardians of Akrasa.
+The exalted theme is pretty good and I was glad for a chance to try it out. I'm basically splashing red and black for Resounding Thunder, Broodmate Dragon and Infest. The dragon is rightly a bomb and won me every game where he resolved. The Infest was probably a mistake -- it's not good against everybody and most of the time it sits in my hand bewailing the lack of swamps. I often side it out for the second Guardians of Akrasa.
 
 I intentionally played a lower curve this time. Before I would have been using stuff like the Yoked Plowbeast, but I decided I wanted to be attacking on turns three and four instead of cycling, then finishing with fliers. A lot of players will build sealed decks like 5-color Naya decks with lots of fat monsters typically leaving them open during the early turns. Not that Naya is a bad strategy mind you, it's just that I seem to face Mosstodons, Cavern Thoctars and Ridge Rannets all the time.
 
@@ -330,9 +330,9 @@ It was late in game three and I had stabilized at eight life. Porter had a Caver
    
 ).
 
-On his turn, he swings with the Cavern Thoctar, which is a printed 5/5. I look at the Resounding Thunder in my hand and figure first strike damage off the Sigiled Paladin + 3 from the burn spell was good. It wasn't, since I forgot about the exalted guy making the Thoctar a 6/6. I facepalmed myself and Porter gave me a casual "Ok lang yan Roy!&#8221; I figured I had lost the game right there, but we don't give up 'til the fighting's done, so I kept going. Who knows, even a former National Champ can make a mistake!
+On his turn, he swings with the Cavern Thoctar, which is a printed 5/5. I look at the Resounding Thunder in my hand and figure first strike damage off the Sigiled Paladin + 3 from the burn spell was good. It wasn't, since I forgot about the exalted guy making the Thoctar a 6/6. I facepalmed myself and Porter gave me a casual "Ok lang yan Roy!" I figured I had lost the game right there, but we don't give up 'til the fighting's done, so I kept going. Who knows, even a former National Champ can make a mistake!
 
-I ripped the topdeck and saw a Grixis obelisk. I swung with the Angel for four, bringing him to 11. Then I play the Obelisk, and now having a black source I manage to play the last card in my hand &#8211; Broodmate Dragon! I take a
+I ripped the topdeck and saw a Grixis obelisk. I swung with the Angel for four, bringing him to 11. Then I play the Obelisk, and now having a black source I manage to play the last card in my hand -- Broodmate Dragon! I take a
    
 [Pestermite][3]
    
@@ -342,9 +342,9 @@ Porter passed back the turn with around eleven mana up and a fistful of cards. N
 
 Porter draws his card and counts his mana. He shows me Resounding Wave, bouncing the Court Archers, then swings with the Cavern Thoctar, pumping it twice to make it lethal eight damage. I grinned, of course even the best players can make mistakes! My Druid of the Anima sneaks out from the lands she had been hiding from and willingly sacrificed herself to the Thoctar. I would have been dead if Porter had noticed her and cycled the Resounding Wave instead.
 
-On my turn I swing with the Dragon again and bring Porter down to 3. Then I re-play the Court Archer (yeah, slight misplay now that I see it) and pass the turn. Porter draws his card and tells me that "naawa yung deck ko sakin&#8221;. He plays Bull Cerodon and swings with two 5/5s. The Archers chump the Thoctar and I drop to 3 life. Then he plays what he topdecked &#8211; Court Archers to block the Broodmate Dragon!
+On my turn I swing with the Dragon again and bring Porter down to 3. Then I re-play the Court Archer (yeah, slight misplay now that I see it) and pass the turn. Porter draws his card and tells me that "naawa yung deck ko sakin". He plays Bull Cerodon and swings with two 5/5s. The Archers chump the Thoctar and I drop to 3 life. Then he plays what he topdecked -- Court Archers to block the Broodmate Dragon!
 
-I had no cards in hand and was dead on the board. I had already used the Resounding Thunder and the Oblivion Ring so my only possible out had to be on top of deck in order for me to win. I flipped the top card unto the table &#8211; and showed him the Bant Charm! "Archers to bottom of library,&#8221; I said and the dragon token took the win!
+I had no cards in hand and was dead on the board. I had already used the Resounding Thunder and the Oblivion Ring so my only possible out had to be on top of deck in order for me to win. I flipped the top card unto the table -- and showed him the Bant Charm! "Archers to bottom of library," I said and the dragon token took the win!
 
 2-1 win. Remember, even if you're playing against very good players, never give up 'til the fighting's done!
 
@@ -535,7 +535,7 @@ Here's my top 8 draft deck:
   </div>
 </div>
 
-I didn't get too much removal &#8211; I was cut off from red on the left side and from black on the right, so I think I got a pretty mediocre draft. Cruel Ultimatum was pretty much my only bomb.
+I didn't get too much removal -- I was cut off from red on the left side and from black on the right, so I think I got a pretty mediocre draft. Cruel Ultimatum was pretty much my only bomb.
 
 **
     

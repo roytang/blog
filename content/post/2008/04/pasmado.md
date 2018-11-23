@@ -16,7 +16,7 @@ I am _pasmado_. Sometimes at least, especially when under stress or it's really
 
 I thought about looking for a solution (one that didn't involve pee), and did a bit of research on the concept of _pasmado _online. The difficult part was figuring out what the condition was called in English. I asked a few people and none could give any decisive answer.
 
-My brother claimed the concept did not exist in Western medicine so there was no English term for it. Some thought that the condition was fictional and only exists in old wives' tales. Quoting a Pugad Baboy comic: "Kung totoo yung pasmado, ano sa English yun?&#8221; "Edi pasmatic&#8221;.
+My brother claimed the concept did not exist in Western medicine so there was no English term for it. Some thought that the condition was fictional and only exists in old wives' tales. Quoting a Pugad Baboy comic: "Kung totoo yung pasmado, ano sa English yun?" "Edi pasmatic".
 
 Eventually I dug up a [thread about pasmado on yehey.com ][1]that told me what the English medical term was: Palmar Hyperhidrosis. Sure enough, Wikipedia confirmed that [such a condition did exist ][2]. I even came across a website called [CureSweatyPalms.com!
   

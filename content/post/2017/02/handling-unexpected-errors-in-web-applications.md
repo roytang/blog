@@ -18,11 +18,11 @@ Nobody expects software errors. And nobody can predict how they will happen. (If
 
 There are two classes of errors:
 
-  * Validation errors &#8211; checks on user inputs. These errors are expected, and the most important thing here is to [present clear error messages that tell the user what was wrong and how they can correct it][1].
+  * Validation errors -- checks on user inputs. These errors are expected, and the most important thing here is to [present clear error messages that tell the user what was wrong and how they can correct it][1].
   * Everything else is an unexpected error, which we can breakdown further according to how the development team would react: 
-      * "That shouldn't happen!&#8221; &#8211; the broadest category, usually caused by human errors in coding/configuration or hardware problems. Examples include: database failure, typos in configuration files, different data formats used by different developers, unexpected system crashes and so on.
-      * "Hmm, oh yeah, we didn't think of that.&#8221; &#8211; i.e., design flaws or unhandled cases. These are errors caused by program flow or usage that was not anticipated in the program's design but are considered valid use.
-      * "That can't possibly happen!&#8221;, also popularly known as "We have no clue how that happened.&#8221; Most unexpected errors start out under this category then after some detective work (some developers use the term "debugging&#8221;), it transfers to one of the above categories.
+      * "That shouldn't happen!" -- the broadest category, usually caused by human errors in coding/configuration or hardware problems. Examples include: database failure, typos in configuration files, different data formats used by different developers, unexpected system crashes and so on.
+      * "Hmm, oh yeah, we didn't think of that." -- i.e., design flaws or unhandled cases. These are errors caused by program flow or usage that was not anticipated in the program's design but are considered valid use.
+      * "That can't possibly happen!", also popularly known as "We have no clue how that happened." Most unexpected errors start out under this category then after some detective work (some developers use the term "debugging"), it transfers to one of the above categories.
 
 Unexpected errors may also be either recoverable (the user can either attempt to repeat the operation to continue or use other functions in the system) or catastrophic (the entire system or subsystem is completely unusable.)
 
@@ -32,16 +32,16 @@ Ideally, what happens when an unexpected error occurs? There's a number of thing
   2. The user needs to be presented with enough information to give to the support team to allow them to determine the cause and fix the error.
   3. The program needs to capture what information it can to help the support team find and fix the error.
 
-For client-side errors (typically JavaScript problems, but can also be problems in HTML/CSS rendering), all of the above are difficult, since the mechanisms by which you present #1 and #2 and by which you can do #3 may be compromised by the error. Typically for any client-side errors, you are almost entirely reliant on the user's description of the error and the steps that led to it &#8211; not the most reliable source of information, but you make do with what you have. If you are unable to reproduce the error during debugging, you are in for a whole lot of speculation and trial and error.
+For client-side errors (typically JavaScript problems, but can also be problems in HTML/CSS rendering), all of the above are difficult, since the mechanisms by which you present #1 and #2 and by which you can do #3 may be compromised by the error. Typically for any client-side errors, you are almost entirely reliant on the user's description of the error and the steps that led to it -- not the most reliable source of information, but you make do with what you have. If you are unable to reproduce the error during debugging, you are in for a whole lot of speculation and trial and error.
 
 For server-side errors, it's a bit easier than client-side errors. The first two items are typically handled by having a catch-all error page in the application that gives an error code and message for unexpected errors.
 
-For the last item, it generally means logging, either to a file or a database-backed audit trail (the file is more reliable). Generally we log the error/exception encountered, including the stack trace, and some log messages on each request/page access. A majority of the time, having the stack trace is sufficient. The access logs allow us to back-trace previous steps which might have contributed to the problem. Any special conditions encountered in the code should also be logged &#8211; this helps to identify errors that can only happen under some combination of special conditions.
+For the last item, it generally means logging, either to a file or a database-backed audit trail (the file is more reliable). Generally we log the error/exception encountered, including the stack trace, and some log messages on each request/page access. A majority of the time, having the stack trace is sufficient. The access logs allow us to back-trace previous steps which might have contributed to the problem. Any special conditions encountered in the code should also be logged -- this helps to identify errors that can only happen under some combination of special conditions.
 
 You don't want to log too much information (what to log might need to be a separate post all on its own), but just enough to help the support team determine the cause of the problem.
 
 Sometimes, the error is specific to the data being used by the users, or happens only in the environment they are using. And the support team investigating the problem will often not have access to that data or that environment, so your logging and the error reports have to be good enough to allow them to deduce the conditions that caused the error.
 
-Error handling for deployed systems is already hard &#8211; so make sure not to make it harder on the future support team by having standard error handling and logging mechanisms.
+Error handling for deployed systems is already hard -- so make sure not to make it harder on the future support team by having standard error handling and logging mechanisms.
 
  [1]: http://roytang.net/2016/11/unclear-error-messages/

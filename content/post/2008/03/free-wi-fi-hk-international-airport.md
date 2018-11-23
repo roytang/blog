@@ -20,7 +20,7 @@ Whenever I'm bored and traveling I tend to think of random insane scenarios that
 
 While watching a 15-year old Chinese kid struggle with a Rubik's Cube on the MTR:
 
-Me (stands up and walks over to the kid, extending hand): "Give me that!&#8221; (Grabs the cube and solves it in ten seconds flat, and immediately jump off at Central station while the rest of the passengers watch in awe)
+Me (stands up and walks over to the kid, extending hand): "Give me that!" (Grabs the cube and solves it in ten seconds flat, and immediately jump off at Central station while the rest of the passengers watch in awe)
 
 &#8212;
 

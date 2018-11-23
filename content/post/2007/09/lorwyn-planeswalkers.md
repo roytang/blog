@@ -29,7 +29,7 @@ Ajani Goldmane
    
 
    
-Planeswalker &#8211; Ajani
+Planeswalker -- Ajani
    
 
    
@@ -53,7 +53,7 @@ My take:
    
 ** 
    
-Unlike every other planeswalker, resolving Ajani's "finishing move&#8221; does not guarantee a win in a Limited game. More likely, it's going to die to a common like Oblivion Ring. However, Ajani is still pretty good in limited, due to that very nice special move: you play her on turn 4 with 2-3 creatures on the board, pump them once, then swing. Next turn, play another creature or so, pump, swing. Sooner or later, all your guys are bigger than his guys. Also, if you're dying to some stupid 1/1 evasion guy, just gain 2 life a turn. Constructed application: A finisher and support life gain in Martyr-based decks. If you use Sacred Mesa, her special ability even becomes useful!
+Unlike every other planeswalker, resolving Ajani's "finishing move" does not guarantee a win in a Limited game. More likely, it's going to die to a common like Oblivion Ring. However, Ajani is still pretty good in limited, due to that very nice special move: you play her on turn 4 with 2-3 creatures on the board, pump them once, then swing. Next turn, play another creature or so, pump, swing. Sooner or later, all your guys are bigger than his guys. Also, if you're dying to some stupid 1/1 evasion guy, just gain 2 life a turn. Constructed application: A finisher and support life gain in Martyr-based decks. If you use Sacred Mesa, her special ability even becomes useful!
 
 **
     
@@ -67,7 +67,7 @@ Jace Beleren
    
 
    
-Planeswalker &#8211; Jace
+Planeswalker -- Jace
    
 
    
@@ -91,7 +91,7 @@ My take:
    
 ** 
    
-Costing 1UU is useless for Jace, as you will almost never play him on the third turn. More likely you would play him on a later turn, with counter back-up. A simple Constructed application would be to use his special move 3 times, but that's just a bad Harmonize. The other two abilities require you to build your deck around them &#8211; you're not going to use that finisher unless you're actually a mill deck, and the normal ability smells of Owling Mine to me. In limited, just build a defensive deck around him and keep pumping up loyalty. Resolving the finishing move will surely win you the game.
+Costing 1UU is useless for Jace, as you will almost never play him on the third turn. More likely you would play him on a later turn, with counter back-up. A simple Constructed application would be to use his special move 3 times, but that's just a bad Harmonize. The other two abilities require you to build your deck around them -- you're not going to use that finisher unless you're actually a mill deck, and the normal ability smells of Owling Mine to me. In limited, just build a defensive deck around him and keep pumping up loyalty. Resolving the finishing move will surely win you the game.
 
 **
     
@@ -105,7 +105,7 @@ Liliana Vess
    
 
    
-Planeswalker &#8211; Liliana
+Planeswalker -- Liliana
    
 
    
@@ -129,7 +129,7 @@ My take:
    
 ** 
    
-Ah, Liliana, first among equals. Well, first to be previewed anyway. The finisher will win you games in Limited &#8211; but only after much blood has already been spilled. The special move on the other hand, pulls out all your other bombs from your deck (hope you had a few!) The normal move is meh in both Limited and Constructed &#8211; paying 5 for a repeating single discard effect isn't really that good. For Constructed, her finisher has a strange synergy with Jace Beleren's&#8230;populate the graveyards, then animate 'em all under my control. Well, it's pretty good with Damnation as well. A bit of a "win more&#8221; card, if you live long enough to get Liliana online, you're probably a control deck and you're already winning.
+Ah, Liliana, first among equals. Well, first to be previewed anyway. The finisher will win you games in Limited -- but only after much blood has already been spilled. The special move on the other hand, pulls out all your other bombs from your deck (hope you had a few!) The normal move is meh in both Limited and Constructed -- paying 5 for a repeating single discard effect isn't really that good. For Constructed, her finisher has a strange synergy with Jace Beleren's&#8230;populate the graveyards, then animate 'em all under my control. Well, it's pretty good with Damnation as well. A bit of a "win more" card, if you live long enough to get Liliana online, you're probably a control deck and you're already winning.
 
 **
     
@@ -143,7 +143,7 @@ Chandra Nalaar
    
 
    
-Planeswalker &#8211; Chandra
+Planeswalker -- Chandra
    
 
    
@@ -181,7 +181,7 @@ Garruk Wildspeaker
    
 
    
-Planeswalker &#8211; Garruk
+Planeswalker -- Garruk
    
 
    

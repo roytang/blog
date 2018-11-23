@@ -15,7 +15,7 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-15
     &#8212;
   
     Tagged as: coding web
-  * [Online test based on Jung &#8211; Myers-Briggs typology][4]
+  * [Online test based on Jung -- Myers-Briggs typology][4]
   
     &#8212;
   
@@ -25,7 +25,7 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-15
     &#8212;
   
     Tagged as: wallpapers
-  * [TTCS OSSWIN CD &#8211; open source software for Windows][6]
+  * [TTCS OSSWIN CD -- open source software for Windows][6]
   
     &#8212;
   

@@ -8,13 +8,13 @@ type: post
 url: /2003/10/new-beginning/
 ---
 
-"If history is to change, let it change!
-
-If the world is to be destroyed, so be it!
-
-If my fate is to die, I must simply laugh.&#8221;
-
-&#8211; Magus, Chrono Trigger
+> "If history is to change, let it change!
+> 
+> If the world is to be destroyed, so be it!
+> 
+> If my fate is to die, I must simply laugh."
+> 
+> -- Magus, Chrono Trigger
 
 For as long as I have known about it, I have always liked this quote. It speaks of a certain ferocity, a certain stubbornness, a firm, unbending belief that whatever life throws at you, you will be able to not only handle it, but laugh in the face of its absurdity. This is how I would want my life to be; to be able to face any kind of adversity and address it without pause.
 

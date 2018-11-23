@@ -11,7 +11,7 @@ url: /2006/03/del-icio-us-bookmarks-for-2006-03-12/
 
 Shared bookmarks for [del.icio.us][1] user [roytang ][2]on 2006-03-12
 
-  * [WordPress &#8211; USB
+  * [WordPress -- USB
   
 ][3] &#8212;
   

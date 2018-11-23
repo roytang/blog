@@ -17,7 +17,7 @@ django-tagging
   
 ][1] 
   
-. Unfortunately, the featured downloads on the Google Code site are quite out-of-date and would not work with Django 1.0, so I did a subversion checkout instead. If you're getting an error like "ImportError: cannot import name parse_lookup&#8221;, then you need to get the source code from SVN.
+. Unfortunately, the featured downloads on the Google Code site are quite out-of-date and would not work with Django 1.0, so I did a subversion checkout instead. If you're getting an error like "ImportError: cannot import name parse_lookup", then you need to get the source code from SVN.
 
 Adding the tagging to the blog was pretty easy:
 
@@ -25,11 +25,11 @@ Adding the tagging to the blog was pretty easy:
 
 2. Add a tagging.fields.TagField to the Post model
 
-3. Add a "tags&#8221; text field to the post form used.
+3. Add a "tags" text field to the post form used.
 
 4. Modify templates to display the tags.
 
-5. I used something like "/tag/&#8221; url mapping to get all posts associated with a tag. Then you just need to write a wrapper around the object_list generic view:
+5. I used something like "/tag/" url mapping to get all posts associated with a tag. Then you just need to write a wrapper around the object_list generic view:
 
 > from tagging.models import Tag, TaggedItem
 > 

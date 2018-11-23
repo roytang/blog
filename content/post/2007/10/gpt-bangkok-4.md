@@ -355,7 +355,7 @@ Obviously, I suck. More on that later.
 
 Round 1: 0-2 loss. I lose due to bad beats here, mulliganing into a one-land hand both games.
 
-Round 2: 2-1 win. The win here was over a former National champ, who apparently has never beaten me before, as he shook his head commenting "Roy Tang, hindi ko matalo&#8230;&#8221; Strangely, I only remember beating him one other time&#8230;
+Round 2: 2-1 win. The win here was over a former National champ, who apparently has never beaten me before, as he shook his head commenting "Roy Tang, hindi ko matalo&#8230;" Strangely, I only remember beating him one other time&#8230;
 
 Round 3: 0-2 loss. Several misplays here. More on that leter.
 

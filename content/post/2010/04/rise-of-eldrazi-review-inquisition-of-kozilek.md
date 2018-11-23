@@ -30,7 +30,7 @@ Turn Three: {{< card >}}Jace Beleren{{< /card >}}
 
 What did Faeries really want to take on turn one anyway? In the mirror match, you of course wanted to take out the ubiquitous {{< card >}}Bitterblossom{{< /card >}}; when fighting the other aggro deck of the time, you'd want to pull out a {{< card >}}Figure of Destiny{{< /card >}}, or at least a {{< card >}}Wizened Cenn{{< /card >}}; when faced with the opposing five-color control, you'd take away his {{< card >}}Negate{{< /card >}} or {{< card >}}Broken Ambitions{{< /card >}} to push through your own &#8216;Blossom on turn two.
 
-This is where pinpoint discard is at it's best &#8211; in the early turns, protecting your early plays. In all of these cases, the Inquisition might as well be {{< card >}}Thoughtseize{{< /card >}}, with the added benefit of keeping your precious two life!
+This is where pinpoint discard is at it's best -- in the early turns, protecting your early plays. In all of these cases, the Inquisition might as well be {{< card >}}Thoughtseize{{< /card >}}, with the added benefit of keeping your precious two life!
 
 Sure, it's suboptimal as a topdeck in the late game, but so was Thoughtseize! And luckily, it's uncommon this time around, and won't cost you a bundle of cash like Thoughtseize did in it's heyday.
 

@@ -9,9 +9,9 @@ url: /2007/07/i-suck-at-standard/
 
 Just to make it, y'know, official: I suck at Standard.
 
-I played in two Nationals qualifiers over the past two weekends. The first one with the Mishra deck (Flores' Legends of Team CMU) to a disappointing 4-3 finish in a sea of Angelfire, Solar Flare and Gruul. Disappointed with the decks performance, I took a look at the result of Australian Nationals that same weekend, and decided to play the Rakdos "Satanic Sligh&#8221; build that had won that event in today's qualifier, which was incidentally the last one I could play given my schedule.
+I played in two Nationals qualifiers over the past two weekends. The first one with the Mishra deck (Flores' Legends of Team CMU) to a disappointing 4-3 finish in a sea of Angelfire, Solar Flare and Gruul. Disappointed with the decks performance, I took a look at the result of Australian Nationals that same weekend, and decided to play the Rakdos "Satanic Sligh" build that had won that event in today's qualifier, which was incidentally the last one I could play given my schedule.
 
-I guess I wasn't the only one thinking that, as of course I failed to predict how th metagame would shift. There were a lot more burn decks this time around, and my first two matches were among them. I split the first two for a disappointing start, then lost rounds four and five in quick succession. Frustrated at my inability to play the format and the terrible 2-3 record, I ticked "Drop&#8221; in the Result Slip and went home quite a bit sleepy.
+I guess I wasn't the only one thinking that, as of course I failed to predict how th metagame would shift. There were a lot more burn decks this time around, and my first two matches were among them. I split the first two for a disappointing start, then lost rounds four and five in quick succession. Frustrated at my inability to play the format and the terrible 2-3 record, I ticked "Drop" in the Result Slip and went home quite a bit sleepy.
 
 So ends this year's quest for Nationals. Again, just to reiterate: I suck at Standard.
 

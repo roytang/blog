@@ -22,7 +22,7 @@ For Senators:
 
 **Martin Bautista:** A successful doctor in the US, decided to come back to the Philippines to offer to serve the country. Focus: Healthcare, including reproductive health
 
-**Alex Lacson:** I have to admit, I'm only voting for him because of his book "12 Little Things A Pinoy Can Do To Help His Country.&#8221; I'm a sucker for anyone who is able to point out to Filipinos that change has to start with ourselves, even with little things. It's good to have new faces in the Senate instead of just the same old trapos. Focus: education, employment.
+**Alex Lacson:** I have to admit, I'm only voting for him because of his book "12 Little Things A Pinoy Can Do To Help His Country." I'm a sucker for anyone who is able to point out to Filipinos that change has to start with ourselves, even with little things. It's good to have new faces in the Senate instead of just the same old trapos. Focus: education, employment.
 
 **Adel Tamano:** Originally I wanted to avoid voting for any NP candidates, given how ticked off I am by MV. But unlike the presidential race which is all-or-nothing, I prefer giving other parties some space in the senatorial race so that the Senate won't be a rubber stamp of the administration. Tamano is a good choice, he's another former educator (was head of the Pamantasan ng Lungsod ng Maynila) and adds representation for Mindanao
 
@@ -46,7 +46,7 @@ Whew, composing this post took a while. I have to admit some of my choices were 
 What is your opinion on straight-ticket voting? You don't think that it would help your president in getting things done or that it would lessen the chances of clashing political agenda?
 
 ### Comment by [Roy](http://roytang.net) on 2010-05-08 11:04:18 +0000
-Straight-ticket voting is a lot like block voting &#8211; it's great for the voter who doesn't want to think too hard.
+Straight-ticket voting is a lot like block voting -- it's great for the voter who doesn't want to think too hard.
 
 I'm not inclined to give any one President absolute power; and dominating both the Senate and the House is as close to absolute power as one can legally get within our system.
 

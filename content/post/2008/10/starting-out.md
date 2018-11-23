@@ -15,11 +15,11 @@ Started using a simple Post model. Added the new post form and view. Can now suc
 
 Next:
 
-&#8211; create the detail page that will show the post after saving
+-- create the detail page that will show the post after saving
 
 Figure out:
 
-&#8211; when redirecting, how can I make the redirect URL decoupled from the urls.py of the parent app?
+-- when redirecting, how can I make the redirect URL decoupled from the urls.py of the parent app?
 
 i.e. if the parent app has the following mapping:
 
@@ -31,7 +31,7 @@ the blog app has mappings for
 
 &#8216;^post/([A-Za-z\-])/' -> post detail
 
-inside the view, I want to redirect to "post/&#8221;, but with respect to the app, it should be "blog/post/&#8221;
+inside the view, I want to redirect to "post/", but with respect to the app, it should be "blog/post/"
 
 I should subscribe to one of the Django mailing lists to ask stuff like this.
 

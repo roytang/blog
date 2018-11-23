@@ -40,7 +40,7 @@ Update: This project is on-hold, not surprisingly. It turns out I don't actually
 ## Comments
 
 ### Comment by [Hannes Foulds](http://hannesfoulds.blogspot.com/search/label/Magic%3A%20The%20Gathering) on 2007-08-24 15:21:57 +0000
-I am attempting something very similar &#8211; writing a game engine for Magic: The
+I am attempting something very similar -- writing a game engine for Magic: The
   
 Gatering in .NET 2.0 with C#.
 

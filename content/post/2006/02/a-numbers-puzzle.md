@@ -56,24 +56,24 @@ Edit 2017: The link above is dead, so I've recovered the answer from the Wayback
 
 They're all prisoners!
 
-1) 85 &#8211; Al Capone
+1) 85 -- Al Capone
   
-2) 37 &#8211; Paul Newman's character in Cool Hand Luke
+2) 37 -- Paul Newman's character in Cool Hand Luke
   
-3) 655321 &#8211; Alex in A Clockwork Orange
+3) 655321 -- Alex in A Clockwork Orange
   
-4) 64389000 &#8211; The Man in the Iron Mask
+4) 64389000 -- The Man in the Iron Mask
   
-5) 466 64 &#8211; Nelson Mandela
+5) 466 64 -- Nelson Mandela
   
-6) 24601 &#8211; Jean Valjean in Les Miserables
+6) 24601 -- Jean Valjean in Les Miserables
   
-7) 101 980 &#8211; Slobodan Milosevic
+7) 101 980 -- Slobodan Milosevic
   
-8) 95 057 &#8211; Timothy McVeigh
+8) 95 057 -- Timothy McVeigh
   
-9) 42799 &#8211; Frank Sinatra
+9) 42799 -- Frank Sinatra
   
-10) 6 &#8211; Patrick McGoohan's character in The Prisoner
+10) 6 -- Patrick McGoohan's character in The Prisoner
 
  [1]: http://j-walkblog.com/index.php?/weblog/comments/davids_puzzle/

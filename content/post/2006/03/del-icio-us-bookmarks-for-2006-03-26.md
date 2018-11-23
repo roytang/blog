@@ -11,7 +11,7 @@ url: /2006/03/del-icio-us-bookmarks-for-2006-03-26/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-03-26
 
-  * [Main Page &#8211; Wikiquote][3]
+  * [Main Page -- Wikiquote][3]
   
     &#8212;
   
@@ -21,12 +21,12 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-03-26
     &#8212;
   
     Tagged as: articles psychology zen
-  * [FORTUNE: Secrets of greatness: How I work &#8211; Mar. 16, 2006][5]
+  * [FORTUNE: Secrets of greatness: How I work -- Mar. 16, 2006][5]
   
     &#8212;
   
     Tagged as: articles lifehacks
-  * [Be smarter at work, slack off &#8211; Mar. 17, 2006][6]
+  * [Be smarter at work, slack off -- Mar. 17, 2006][6]
   
     &#8212;
   

@@ -10,7 +10,7 @@ url: /2005/02/bomb-blasts-rock-rp-cities/
 
 [
   
-Bomb blasts rock Davao, General Santos, Makati &#8211; INQ7.net
+Bomb blasts rock Davao, General Santos, Makati -- INQ7.net
   
 ][1] 
 

@@ -16,7 +16,7 @@ You have to be able to look within yourself to find your own drive, to find the 
 
 Despite some bad spots, I've still had a pretty good twelve months though. I've traveled a lot, and plan to travel more before the year ends. I'm still learning new things. I'm still blessed with good family and friends and a means to sustain myself and my wants.
 
-My birthday always feels like a good opportunity to step back and take a breather and find some perspective. And to re-affirm the choice to keep moving forward &#8211; one step at a time&#8230;
+My birthday always feels like a good opportunity to step back and take a breather and find some perspective. And to re-affirm the choice to keep moving forward -- one step at a time&#8230;
 
 &nbsp;
 

@@ -9,9 +9,9 @@ url: /2009/09/zendikar-prerelease-and-limited-impressions/
 
 As you might have heard, there was a helluva storm in the Philippines yesterday, and I was pretty much stuck at the [Titan Hobby Shop][1] for most of the day. Luckily, that meant I get to play in the Zendikar prerelease.
 
-My Zendikar prerelease record: 1-3 =/ I had a decent pool and went with a UW build, but I played too loosely and the stars just weren't aligned. My pool was very bad value-wise as well, having mostly "nice&#8221; rares like [Lullmage Mentor][2] and [Lorthos, the Tidemaker][3]. 
+My Zendikar prerelease record: 1-3 =/ I had a decent pool and went with a UW build, but I played too loosely and the stars just weren't aligned. My pool was very bad value-wise as well, having mostly "nice" rares like [Lullmage Mentor][2] and [Lorthos, the Tidemaker][3]. 
 
-My sealed pool had [Blade of the Bloodchief][4], which I was a bit skeptical about, but it's pretty good in a situation where you're always trading creatures or you have lots of removal. It would probably be lots better in a vampire deck though. The Legendary Octopus was pretty good if you got to untap with it, obviously. I also had [Sphinx of Lost Truths][5] but it was never able to save me in time. The "loot 3&#8221; ability isn't very good when you only have one card in hand, so you better make sure you have a lot of guys to hold the fort while you wait for the seven mana to kick it. [Sphinx of Jwar Isle][6] is a lot better.
+My sealed pool had [Blade of the Bloodchief][4], which I was a bit skeptical about, but it's pretty good in a situation where you're always trading creatures or you have lots of removal. It would probably be lots better in a vampire deck though. The Legendary Octopus was pretty good if you got to untap with it, obviously. I also had [Sphinx of Lost Truths][5] but it was never able to save me in time. The "loot 3" ability isn't very good when you only have one card in hand, so you better make sure you have a lot of guys to hold the fort while you wait for the seven mana to kick it. [Sphinx of Jwar Isle][6] is a lot better.
 
 I had to face [Sorin Markov][7] in one game, and although he costs six, that first ability is a game breaker, especially against my U/W sealed, which had tons of small guys that easily get eaten by his vampire abilities. I lost that game T_T
 

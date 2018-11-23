@@ -20,9 +20,9 @@ I also cleaned up some of the global files that were being accessed from fatebac
 
 For the curious, this site is maintained in several layers:
 
-  * the blogger template &#8211; ideally, I shouldn't have to change this too often
-  * an external javascript file &#8211; ideally, if I want to do small changes to the site, I'll just modify this and use DHTML to do it
-  * an external stylesheet &#8211; ideally, if I want to make changes to layout, I just adjust this one
+  * the blogger template -- ideally, I shouldn't have to change this too often
+  * an external javascript file -- ideally, if I want to do small changes to the site, I'll just modify this and use DHTML to do it
+  * an external stylesheet -- ideally, if I want to make changes to layout, I just adjust this one
 
 A while back I was also wondering if it was viable to use XSL transformations for a blogger blog&#8230;but I'm too lazy to try to figure it out now.
 

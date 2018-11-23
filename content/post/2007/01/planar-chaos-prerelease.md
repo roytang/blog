@@ -15,7 +15,7 @@ Quick Hits:
    
 
    
-* Damnation seems easy to get &#8211; 3 of the people I knew who were playing opened it.
+* Damnation seems easy to get -- 3 of the people I knew who were playing opened it.
    
 
    
@@ -31,7 +31,7 @@ Quick Hits:
    
 
    
-* Third round opponent&#8230;some red also. First game I only saw an Avalanche Rider and the 7/7 echo guy. Second game he put up more of a fight, and the "free echo&#8221; goblin helped him a lot. He get out the Goblin Advisor and went all aggro on me before I managed to stablize. Those exploding goblins can't get past a Dream Stalker! Game record: 6-1, match record: 3-0.
+* Third round opponent&#8230;some red also. First game I only saw an Avalanche Rider and the 7/7 echo guy. Second game he put up more of a fight, and the "free echo" goblin helped him a lot. He get out the Goblin Advisor and went all aggro on me before I managed to stablize. Those exploding goblins can't get past a Dream Stalker! Game record: 6-1, match record: 3-0.
    
 
    
@@ -77,6 +77,6 @@ Notes on specific cards:
    
 
    
-* Pongify is fun as expected. I loved it when my opponent attacked with a 7/7 he had just paid echo for, and I shake my head, show him the card and say: "Monkey?&#8221;
+* Pongify is fun as expected. I loved it when my opponent attacked with a 7/7 he had just paid echo for, and I shake my head, show him the card and say: "Monkey?"
 
 Overall, the set is awesome for sealed deck play, the block environment looks good. The design of the cards isn't particular innovative since everything is either a throwback or a reprint, but the choice of cards and abilities to bring back&#8230;everything is awesome. I'm definitely going to play the release tournament.

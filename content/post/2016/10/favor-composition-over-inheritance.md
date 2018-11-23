@@ -8,11 +8,11 @@ type: post
 url: /2016/10/favor-composition-over-inheritance/
 ---
 
-"[Composition over inheritance][1]&#8221; is an object-oriented programming principle that I'm sad to say many devs I've encountered aren't too familiar with. Composition provides greater flexibility, modularity, and extensibility in large software systems as compared to inheritance, especially for statically typed languages like Java that don't support multiple inheritance
+"[Composition over inheritance][1]" is an object-oriented programming principle that I'm sad to say many devs I've encountered aren't too familiar with. Composition provides greater flexibility, modularity, and extensibility in large software systems as compared to inheritance, especially for statically typed languages like Java that don't support multiple inheritance
 
 The most common examples of the problems caused by too much inheritance involved generic object such as the game objects example in the wikipedia page linked above. I want to cite a more enterprise-y example I've encountered in past projects
 
-Let's say in your system, you have a base class "ScreenController&#8221;, which contains all the common behaviors for screens in your system. Behaviors could include startup behaviors, variables the screen needs to track, how to handle the actions when the user clicks buttons, that sort of thing. Then each dev working on a different screen in your system will just extend this base class for their own screen, and you have a type hierarchy that looks something like this:
+Let's say in your system, you have a base class "ScreenController", which contains all the common behaviors for screens in your system. Behaviors could include startup behaviors, variables the screen needs to track, how to handle the actions when the user clicks buttons, that sort of thing. Then each dev working on a different screen in your system will just extend this base class for their own screen, and you have a type hierarchy that looks something like this:
 
 [<img class="aligncenter size-full wp-image-1506" src="http://roytang.net/wp-content/uploads/2016/10/fcoi1.png" alt="fcoi1" width="188" height="118" />][2]
 
@@ -20,7 +20,7 @@ Alright, that's fine, a perfectly acceptable use of inheritance. But then as you
 
 [<img class="aligncenter size-full wp-image-1507" src="http://roytang.net/wp-content/uploads/2016/10/fcoi2.png" alt="fcoi2" width="234" height="214" />][3]
 
-Okay, it's a bit more complicated now, but it's probably still manageable right? But then one of the devs realizes that your project needs some modal screens too, which have some additional behavior as well. An example would be a modal screen that allows the user to select some parameters (a "selection screen&#8221;). Some modal screens also need to be search screens or maintenance screens too. If you insist on using inheritance, you need to mix and match all the possible combinations and might start seeing a hierarchy similar to:
+Okay, it's a bit more complicated now, but it's probably still manageable right? But then one of the devs realizes that your project needs some modal screens too, which have some additional behavior as well. An example would be a modal screen that allows the user to select some parameters (a "selection screen"). Some modal screens also need to be search screens or maintenance screens too. If you insist on using inheritance, you need to mix and match all the possible combinations and might start seeing a hierarchy similar to:
 
 [<img class="aligncenter size-full wp-image-1508" src="http://roytang.net/wp-content/uploads/2016/10/fcoi3.png" alt="fcoi3" width="269" height="391" srcset="https://roytang.net/wp-content/uploads/2016/10/fcoi3.png 269w, https://roytang.net/wp-content/uploads/2016/10/fcoi3-206x300.png 206w" sizes="(max-width: 269px) 100vw, 269px" />][4]
 
@@ -42,7 +42,7 @@ And each screen will just have to add the specific behaviors it needs like so:
     	}
     
 
-This setup is a lot more flexible and easily extensible, since you don't have to uproot entire type hierarchies when some new common behavior needs to be added. Such robust design is especially important for larger projects and systems that may have hundreds of screens. The only downside is that you have to implement support for this approach early in the project &#8211; the longer you wait, the more complicated it becomes to adjust the existing code to the new paradigm. Definitely something to consider if you're a technical lead on a large project just starting out
+This setup is a lot more flexible and easily extensible, since you don't have to uproot entire type hierarchies when some new common behavior needs to be added. Such robust design is especially important for larger projects and systems that may have hundreds of screens. The only downside is that you have to implement support for this approach early in the project -- the longer you wait, the more complicated it becomes to adjust the existing code to the new paradigm. Definitely something to consider if you're a technical lead on a large project just starting out
 
 &nbsp;
 

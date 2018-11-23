@@ -11,7 +11,7 @@ url: /2004/11/tonight-on-the-net-20041112/
 
 * Interesting read: There's this [spouse of an EA developer ][1]who's taking it to EA's supposedly unfair labor practices on livejournal.
   * Cool thing: A [chess program ][2]that shows you the computer's train of thought!
-  * [Interesting English Trivia ][3]&#8211; yes it's geeky 😀
+  * [Interesting English Trivia ][3]-- yes it's geeky 😀
   * Tech news: [Winamp is dead, long live Winamp!
   
 ][4] I actually like Winamp, especially version 5. There are quite a number of things I'd like to change with it, but it's a lot better than WMP. I wonder if there are any other, better (or at least promising) alternatives?

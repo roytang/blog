@@ -32,7 +32,7 @@ _
   
   <ul class="decklist_group">
     <li class="header">
-      "Azorius-12&#8221;
+      "Azorius-12"
     </li>
   </ul>
   
@@ -137,7 +137,7 @@ Deck notes:
    
 
    
-* First played on 30 July, 2006 &#8211; Standard Constructed Nationals Qualifer at Robinson's Galleria.
+* First played on 30 July, 2006 -- Standard Constructed Nationals Qualifer at Robinson's Galleria.
    
 
    
@@ -205,7 +205,7 @@ Horror of horrors&#8230;I've now faced variations on two decks that I played bef
    
 Match record: 7-5, Game record: 3-2
 
-Round 6: vs "Equipment Deck&#8221;
+Round 6: vs "Equipment Deck"
    
 
    

@@ -20,11 +20,11 @@ I only decided on a deck after the B&R announcement shortly before the release o
 
 [<img class="size-full wp-image-2013" src="http://roytang.net/wp-content/uploads/2017/06/content_ulamog__ceaseless1.jpg" alt="" width="500" height="300" srcset="https://roytang.net/wp-content/uploads/2017/06/content_ulamog__ceaseless1.jpg 500w, https://roytang.net/wp-content/uploads/2017/06/content_ulamog__ceaseless1-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][1]<figcaption class="wp-caption-text">If you're playing Standard this year, you're familiar with this guy</figcaption></figure> 
 
-**Day 0 &#8211; Friday, June 2**
+**Day 0 -- Friday, June 2**
 
 As I'm from Quezon City, the venue is quite far, and to be honest I was a bit stressed out at the idea of commuting to SMX three days in a row. But still I went. I started out determined to play as many Standard grinders as a I could on Day 0, both to up my chance of earning byes for the GP and to give me more familiarity with my deck. Unfortunately, things did not go so well. I ended up 2-6 for the day, not even earning any prize points. I played quite a few mirror matches, something I hadn't been able to do in my previous tests. It gave me some insights so even though I came home late that night, I stayed up late tweaking the main deck and the sideboard based on what I learned during the day.
 
-**Day 1 &#8211; Saturday, June 3**
+**Day 1 -- Saturday, June 3**
 
 I woke up early and took the train. Saturday was a bit lighter commute than Friday, but not by much.
 
@@ -136,11 +136,11 @@ DROP
 
 I feel like I didn't make any particularly bad plays during the first 3 rounds. The Marvel spins just didn't work out for me. I may have been already starting to feel the lack of sleep during round 5 so that's a thing. (I immediately went home to sleep after dropping.)
 
-Their decks did seem particularly tuned towards beating Marvel. That's one of the big downsides of just netdecking the dominant deck &#8211; everyone's gunning for you. The lack of prep time was really hard on me too. The last time I did well in a Grand Prix was [GP Manila back in 2015][2], and that time I had been playing Jeskai for months before the GP. Unfortunately I had been caught between a rock and a hard place &#8211; if i had assembled a deck months before it likely would have been Saheeli combo (since I used to play Twin in Modern), which meant I would have been the victim of the bannings. Ah well, can't dwell on the past too much. Have to note it for next time.
+Their decks did seem particularly tuned towards beating Marvel. That's one of the big downsides of just netdecking the dominant deck -- everyone's gunning for you. The lack of prep time was really hard on me too. The last time I did well in a Grand Prix was [GP Manila back in 2015][2], and that time I had been playing Jeskai for months before the GP. Unfortunately I had been caught between a rock and a hard place -- if i had assembled a deck months before it likely would have been Saheeli combo (since I used to play Twin in Modern), which meant I would have been the victim of the bannings. Ah well, can't dwell on the past too much. Have to note it for next time.
 
 Will there be a next time? On the bus ride home I was so dejected at the poor performance I wondered if I was just done with Standard forever. But I suppose it depends largely on the metagame; Marvel was pretty bad whether you were playing it or against it. In any case, I'm also somehow qualified for Nationals this year, so at the very least I'm playing Standard again in September. (Mostly because I want the promo Inkmoth Nexus)
 
-**Day 2 &#8211; Sunday, June 4**
+**Day 2 -- Sunday, June 4**
 
 I decided to come back to just play for some prizes in side events (and also because I had to return some cards I borrowed). Day two had one of my favorite side events: Chaos Sealed! I played this after scrubbing out of [GP Singapore 2015][3], so this may become a day two tradition for me lol.
 

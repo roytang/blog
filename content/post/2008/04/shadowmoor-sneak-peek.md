@@ -304,7 +304,7 @@ and played some flavor of black. After browsing the Green-White hybrids though, 
    
 [Shield of the Oversoul][2]
    
-, except this time I have a lot more quality white-green creatures to attach it to. "Terror&#8221; effects are a bit sparse in Shadowmoor limited, so once again I go with midrange evasive fatties!
+, except this time I have a lot more quality white-green creatures to attach it to. "Terror" effects are a bit sparse in Shadowmoor limited, so once again I go with midrange evasive fatties!
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -432,7 +432,7 @@ Round 4 vs RG 2-1 win
    
 
    
-I lose game one to a powerful curve &#8211; turn one Nurturer Initiate, turn two Devoted Druid, turn three Ram-Gang, turn four Morselhoarder (!), and quickly lose without being able to put up a decent defense.
+I lose game one to a powerful curve -- turn one Nurturer Initiate, turn two Devoted Druid, turn three Ram-Gang, turn four Morselhoarder (!), and quickly lose without being able to put up a decent defense.
    
 
    
@@ -448,7 +448,7 @@ Game three he's on the play and has no one-drop again (lucky!). I lay down Overs
    
 
    
-On his turn he lays down a bunch of creatures including Safehold Elite (which can block the Oversoul!) and is ready to swing and kill me next turn. I topdeck the Shield of the Oversoul and show it to him. "That's only 7/7,&#8221; he shrugs. I show him the last card in my hand &#8211; Tower Above, and I take the win.
+On his turn he lays down a bunch of creatures including Safehold Elite (which can block the Oversoul!) and is ready to swing and kill me next turn. I topdeck the Shield of the Oversoul and show it to him. "That's only 7/7," he shrugs. I show him the last card in my hand -- Tower Above, and I take the win.
 
 Four and O! If only I had this pool last week&#8230;
 
@@ -460,7 +460,7 @@ Some thoughts on particular cards:
   
 ** 
    
-&#8211; this is a pretty bad to mediocre removal card, yet I keep putting it in. I kept dreaming of having the Liege and the Oversoul in play, then EOT mercy kill the Oversoul, gaining 7 3/3 elves. This particular fantasy play has yet to happen. Still, the card has it's roles, particularly getting rid of utility Q creatures, a role which Curse of Chains or Aethertow (both excellent removal cards) cannot fulfill.
+-- this is a pretty bad to mediocre removal card, yet I keep putting it in. I kept dreaming of having the Liege and the Oversoul in play, then EOT mercy kill the Oversoul, gaining 7 3/3 elves. This particular fantasy play has yet to happen. Still, the card has it's roles, particularly getting rid of utility Q creatures, a role which Curse of Chains or Aethertow (both excellent removal cards) cannot fulfill.
 
 **
   
@@ -500,7 +500,7 @@ Elsewhere Flask
   
 ** 
    
-&#8211; I get some flak for not putting in these "free&#8221; cards. I have enough trouble cutting things in the maindeck, thanks. In particular matchups I may board them in, say there's a particular threat or answer I want to draw as often or as soon as possible. Manamorphose is the better card, as it's truly free, the only requirement being having two mana free (but you get that mana back)
+-- I get some flak for not putting in these "free" cards. I have enough trouble cutting things in the maindeck, thanks. In particular matchups I may board them in, say there's a particular threat or answer I want to draw as often or as soon as possible. Manamorphose is the better card, as it's truly free, the only requirement being having two mana free (but you get that mana back)
 
 **
   
@@ -518,7 +518,7 @@ Gleeful Sabotage
   
 ** 
    
-&#8211; the format is rife with common artifact creatures and powerful auras, so play this one maindeck.
+-- the format is rife with common artifact creatures and powerful auras, so play this one maindeck.
    
 [Smash to Smithereens][5]
    
@@ -526,11 +526,11 @@ and the 1/1 elf that can kill enchantments are similarly solid.
 
 **
     
-Scarecrows &#8211;
+Scarecrows --
    
 ** 
    
-use these to fill out your curve, they're especially useful to stop the "evasive hill giant&#8221; cycle.
+use these to fill out your curve, they're especially useful to stop the "evasive hill giant" cycle.
    
 [Lurebound Scarecrow][6]
    
@@ -550,7 +550,7 @@ is fairly strong; note that it gains the -1/-1 counter at end of combat, so the 
   
 ** 
    
-&#8211; Icy Manipulator, except more mana-intensive. Still very good, especially in midrange decks where you can take out the crucial blocker that stops your fatties.
+-- Icy Manipulator, except more mana-intensive. Still very good, especially in midrange decks where you can take out the crucial blocker that stops your fatties.
 
 That's all for today. Next week: Constructed again!
 

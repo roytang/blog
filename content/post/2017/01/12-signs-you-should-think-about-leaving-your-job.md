@@ -23,7 +23,7 @@ Signs you think about leaving your current job:
  11. You hate your commute
  12. You start reading articles about signs you should think about leaving your job
 
-A lot of people feel trapped in their current job. They feel that they will be unable to find better or at least similar work and will rather stay than risk it. It's a false sense of "job security&#8221; vs fear. It might be true that you have no good options. But if you're not looking at all, it's 100% surely true.
+A lot of people feel trapped in their current job. They feel that they will be unable to find better or at least similar work and will rather stay than risk it. It's a false sense of "job security" vs fear. It might be true that you have no good options. But if you're not looking at all, it's 100% surely true.
 
 Even if you don't find better options, the act of looking for them helps you through some sort of catharsis. It confirms if you really have no choice but to stay. It helps you understand your place in the job market and what you can do to improve your position and maybe open up more options later on.
 

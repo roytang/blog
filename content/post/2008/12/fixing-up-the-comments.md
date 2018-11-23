@@ -23,7 +23,7 @@ http://code.djangoproject.com/ticket/8968
   
 . I wasn't confident enough to try patching it, so as a temporary workaround, I overrode the flag and delete templates and placed the following inside the form:
 
-<input type=&#8221;hidden&#8221; name=&#8221;next&#8221; value=&#8221;{{ comment.get\_content\_object_url }}&#8221; />
+<input type="hidden" name="next" value="{{ comment.get\_content\_object_url }}" />
 
 _
   
@@ -31,7 +31,7 @@ Edit: Wow that was stupid. Blogger didn't want to render the HTML code above!
   
 _ 
 
-I also replaced the URL in the "cancel&#8221; links for both pages. For some reason, {{ comment.permalink }} wasn't giving me anything useful.
+I also replaced the URL in the "cancel" links for both pages. For some reason, {{ comment.permalink }} wasn't giving me anything useful.
 
 2. Took me a bit of work to figure out how the moderation part works. Apparently I have to hook on some of the signals to add my moderation logic. I'm not sure yet how to handle this, or whether I should try customizing the comment form with something like a captcha to prevent comment spam.
 

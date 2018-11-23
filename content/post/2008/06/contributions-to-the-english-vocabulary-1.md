@@ -8,4 +8,4 @@ type: post
 url: /2008/06/contributions-to-the-english-vocabulary-1/
 ---
 
-Testimonger (noun) &#8211; someone who gives testimonials
+Testimonger (noun) -- someone who gives testimonials

@@ -24,7 +24,7 @@ yuzo_related_post_metabox:
     </p>
     
     <p>
-      My tendency for multitasking probably doesn't help either. Even when I'm playing a video game or out on a walk, I can still get distracted by notifications on my phone. I'm used to it and I expect it and I don't really want to disconnect &#8211; so maybe I'm kind of asking for it too.
+      My tendency for multitasking probably doesn't help either. Even when I'm playing a video game or out on a walk, I can still get distracted by notifications on my phone. I'm used to it and I expect it and I don't really want to disconnect -- so maybe I'm kind of asking for it too.
     </p>
     
     <p>
@@ -36,4 +36,4 @@ yuzo_related_post_metabox:
     </p>
     
     <p>
-      Supposedly you should be setting aside specific times of the day for when you hunker down to work. That way your mind gets conditioned that "this is work time&#8221;. And it makes it easier for you to create that separation between work time and nonwork time. And hopefully flow comes to you at the proper time instead of randomly while pooping. That's not always easy though, and not always viable due to scheduling concerns. But it should be a step in the right direction. Hopefully it's not too late to learn that kind of discipline.</span></div> </div>
+      Supposedly you should be setting aside specific times of the day for when you hunker down to work. That way your mind gets conditioned that "this is work time". And it makes it easier for you to create that separation between work time and nonwork time. And hopefully flow comes to you at the proper time instead of randomly while pooping. That's not always easy though, and not always viable due to scheduling concerns. But it should be a step in the right direction. Hopefully it's not too late to learn that kind of discipline.</span></div> </div>

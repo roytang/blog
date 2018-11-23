@@ -41,7 +41,7 @@ The ending itself was bittersweet (and easily trolled haha), but I found it an a
 
 <img class="alignnone size-full" src="http://i.imgur.com/RTcRL3u.png" width="1920" height="1080" />
 
-While I found the main cast of Noctis, Ignis, Gladio and Prompto to have engaging personalities, they don't really have much backstory in-game (most of the character backstories are in Brotherhood). In fact, later on, a startling revelation is made about one of them and none of them really bat an eye at all. It was in the sense of "hey, we don't care about that, we're your friends,&#8221; but it still felt like something that should have been explored further.
+While I found the main cast of Noctis, Ignis, Gladio and Prompto to have engaging personalities, they don't really have much backstory in-game (most of the character backstories are in Brotherhood). In fact, later on, a startling revelation is made about one of them and none of them really bat an eye at all. It was in the sense of "hey, we don't care about that, we're your friends," but it still felt like something that should have been explored further.
 
 The interaction among the group is great though. They regularly banter and tease each other even during combat. It really felt like they were a group of long-time friends.
 
@@ -55,7 +55,7 @@ Combat is fluid and there's a lot of movement and jumping around and looking for
 
 **The Open World**
 
-The open world gives the party a lot to do. There's "hunts&#8221; dished out by people in diners (basically quests to go kill a specific bunch of monsters) and other side quests given out by various characters. There's a fishing minigame, because apparently it's a hobby of Noctis. The fishing minigame is okay, except I didn't have the patience to try to get the most difficult fish.
+The open world gives the party a lot to do. There's "hunts" dished out by people in diners (basically quests to go kill a specific bunch of monsters) and other side quests given out by various characters. There's a fishing minigame, because apparently it's a hobby of Noctis. The fishing minigame is okay, except I didn't have the patience to try to get the most difficult fish.
 
 Then there's the photos and the food porn. A lot of pandering to the modern-day youths here, I'm surprised instagram hasn't been invented in their world. Cooking is Ignis' specialty, and the game renders each dish really well, sometimes enough to make you hungry.
 
@@ -69,7 +69,7 @@ Anyway, I'm no exception. Exporting a lot of photos is a pain though, as there i
 
 **Achievements**
 
-Speaking of achievements, I was a touch disappointed with FFXV's achievement set. I got the Platinum trophy, but I felt like it was a bit too easy, as there was still a lot of things to do in the game outside of the achievements. I don't want annoying grindy achievements, but I don't want them to be too easy and "no challenge&#8221; either.
+Speaking of achievements, I was a touch disappointed with FFXV's achievement set. I got the Platinum trophy, but I felt like it was a bit too easy, as there was still a lot of things to do in the game outside of the achievements. I don't want annoying grindy achievements, but I don't want them to be too easy and "no challenge" either.
 
 **Other stuff**
 

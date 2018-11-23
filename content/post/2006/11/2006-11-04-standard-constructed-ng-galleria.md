@@ -9,7 +9,7 @@ url: /2006/11/2006-11-04-standard-constructed-ng-galleria/
 
 This tournament and three others for each Saturday of November are run-ups to the Time Spiral Gold Rush tournament in December. I've been agonizing over the past couple of weeks as to what I can play in the diverse new standard enivornment. In the end, instead of doing my usual thing and building an original decklist, I decided to work from an existing archetype instead. I believe that in order for me to become a better Standard player, I have to get more match experience before designing decks, since my thinking is still on a casual level most of the time.
 
-By Thursday evening I had decided to go for a modified Ghazi Glare build, with a red splash for reach. My decklist, named "Elephant Glare&#8221;:
+By Thursday evening I had decided to go for a modified Ghazi Glare build, with a red splash for reach. My decklist, named "Elephant Glare":
 
 4 Call of the Herd
    
@@ -119,11 +119,11 @@ Win: 2-1
 
 Round 3 vs Marnel featuring Vesuvan Lockdown
 
-Marnel is an officemante, and he and I were playtesting last night and his deck was a slightly difficult matchup for me &#8211; I won 2 out of 4 games but both wins were based on really good draws. So he and I face off in round 3 and I'm like, "This is just a playtest, so we're not going to draw, right?&#8221;
+Marnel is an officemante, and he and I were playtesting last night and his deck was a slightly difficult matchup for me -- I won 2 out of 4 games but both wins were based on really good draws. So he and I face off in round 3 and I'm like, "This is just a playtest, so we're not going to draw, right?"
 
-Marnel's deck plays morph guys &#8211; lots of 'em. He'd only finished the changes last night. It's an awesome deck and fun to play. And most importantly, people won't know how to handle it! As long as he doesn't play any insanely fast aggro, he's got a good chance of winning.
+Marnel's deck plays morph guys -- lots of 'em. He'd only finished the changes last night. It's an awesome deck and fun to play. And most importantly, people won't know how to handle it! As long as he doesn't play any insanely fast aggro, he's got a good chance of winning.
 
-Unfortunately, I am not insanely fast aggro, and we go to a close game 3. During my last turn I'm at 2 and he's at 5 with a SSS in play. He did the Thelonite Hermit + Vesuvan Shapeshifter bit during the last 2 turns, so he has a battalion of saps on his side and I will surely lose with his next swing. I decide to go for the draw: "Squall Line for 5?&#8221; But he shows me the Cancel.
+Unfortunately, I am not insanely fast aggro, and we go to a close game 3. During my last turn I'm at 2 and he's at 5 with a SSS in play. He did the Thelonite Hermit + Vesuvan Shapeshifter bit during the last 2 turns, so he has a battalion of saps on his side and I will surely lose with his next swing. I decide to go for the draw: "Squall Line for 5?" But he shows me the Cancel.
 
 The loss means I don't get top 8 status anymore, but this is just practice. 😀
 
@@ -137,7 +137,7 @@ Win: 2-0
 
 Round 5 vs ugr beats
 
-Sometime during the match I morph a Thelonite Hermit and he's like "Eh? Is there still Morph in Standard?&#8221; =/
+Sometime during the match I morph a Thelonite Hermit and he's like "Eh? Is there still Morph in Standard?" =/
 
 Anyway, this seems like a weaker version of Sea Stompy. I see no Slums or Plaxmantas or Snakes, and I know how to work around the permission. Win game one no problem. Game 2, I was at 9 and he had two mana open so I psyched myself out and did not Demonfire his Yavimaya Dryad + Moldervine Cloak. Oops, lost to Char on the next swing. Game 3, he has a bad draw and only gets two lands out early, plus birds and elves. I hit the Acid-Moss when he taps out for a Viper that trades with an Elephant. Demonfire and Thornscape Battlemage take out 2 birds, and he only has a Karplusan and a Llanowar Elf and a Giant Solifuge out. He's at 5 I'm at 6, I pass the turn. He looks at his hand and swing with the Solifuge. I have a guildmage, a morphed hermit and the battlemage on my side, so the easy play is single-block the Solifuge and swing for six (with the Guildmage pump) the next turn. I'm about to do that, but I realize he hasn't made a land drop yet! If I take 2 from the Solifuge, he can play Mountain, Char for the win! I do the double-block trading 2-for-1, since I'm ahead in board position anyway. He frowns and plays Island, go. I swing with the Guildmage, bringing him down to three, then play 2 more Guildmages. He frowns again, realizes he can't play Char anymore, then offers the handshake.
 
@@ -179,7 +179,7 @@ Him: Swamp, Dark Confidant
    
 
    
-Me: Land, Assault on Confidant (topdecked the Assault &#8211; ah, Assault and Dark Confidant, you were made for each other)
+Me: Land, Assault on Confidant (topdecked the Assault -- ah, Assault and Dark Confidant, you were made for each other)
 
 I eventually overwhelm him with Elephants. We go to game 2, and he has a not-so-awesome draw and plays four Bad Moons over the first five turns. He gets a swing in with a 5/5 Nether Traitor, but on my turn, I play the ever-so-awesome Glare of Subdual. I have the Ghazi in play, so I just keep pumping out saps to hold off the ever-increasing army of dudes. He made the mistake of telling me he was waiting for the Plagued Rusalka to come out (so he could finish off my saps with the Rusalka + Nether Traitor combination attack), so I alpha-strike him with just enough damage to kill.
 

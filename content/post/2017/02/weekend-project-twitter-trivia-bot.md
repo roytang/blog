@@ -19,7 +19,7 @@ Some technical details:
 
 My scripting language of choice for the past few years has been Python 2.7. I'm using [Tweepy][2]&nbsp;to interact with the Twitter API, [PyMySQL][3]&nbsp;to connect&nbsp;to the database, and [Flask][4]&nbsp;to run the webapp.&nbsp;I haven't used Flask in some time, but it's still very straightforward. I actually had a harder time configuring the webapp&nbsp;with mod_wsgi on my host.
 
-The main problem with a trivia system is that you need a large and high-quality set of questions.&nbsp;Right now the bot is using a small trivia set &#8211;around a thousand questions I got from a variety of sources.&nbsp;If I want to leave this bot running for a while, I'm going to need a much larger trivia set. However, reviewing and collating the questions is a nontrivial task. Hopefully I can add new questions every so often.
+The main problem with a trivia system is that you need a large and high-quality set of questions.&nbsp;Right now the bot is using a small trivia set --around a thousand questions I got from a variety of sources.&nbsp;If I want to leave this bot running for a while, I'm going to need a much larger trivia set. However, reviewing and collating the questions is a nontrivial task. Hopefully I can add new questions every so often.
 
 Feel free to follow the bot and help test it out. I'd be grateful!
 

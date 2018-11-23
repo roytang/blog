@@ -20,6 +20,6 @@ Of course these humans won't be exactly like us. Maybe they were spawned in diff
 
 Maybe because of their different superstitions, they are unable to survive massive plagues and disease in their middle ages. Maybe because of their differences they are unable to resist the temptation to devolve into thermonuclear war. Maybe they lack focus on technological advances and are unable to bridge the gap to the stars before their ever-growing population outgrows the resources their earth provides for them.
 
-If the nature of humans on this other earth is close to what we have here &#8211; selfish, bickering, superstitious, xenophobic then the odds of these humans able to evolve past their world and into the stars is pretty low.
+If the nature of humans on this other earth is close to what we have here -- selfish, bickering, superstitious, xenophobic then the odds of these humans able to evolve past their world and into the stars is pretty low.
 
  [1]: https://en.wikipedia.org/wiki/Great_Filter

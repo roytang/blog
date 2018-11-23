@@ -7,7 +7,7 @@ type: post
 url: /2005/09/final-fantasy-vii-advent-children/
 ---
 
-A friend of mine said, "It's for die-hard fans only.&#8221;
+A friend of mine said, "It's for die-hard fans only."
 
 He's right. Luckily, there are roughly seventy trillion die-hard FF7 fans. And I doubt they will be disappointed.
 

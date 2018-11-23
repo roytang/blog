@@ -14,6 +14,6 @@ If you're not familiar with the series, One Piece is an anime about pirates, the
 
 Side note: It's really difficult to multitask when watching anime. I can watch episodes of 24 or Smallville while working since I can rely on the audio to keep track of the story, but since I prefer my anime subbed, it really needs my full attention to watch it.
 
-The series is pretty good, occasionally funny, and doesn't have the same pacing problems as Dragonball (the pacing of the Naruto anime seems better though). The action is decent, most battles are simplistic slugfests where Luffy and his crew win simply by more "will to win&#8221;; a typical thing in these types of anime. The only complaint would be that they spend too much time summarizing the previous episodes at the start of each new one, but that's a problem only because I watch multiple episodes at a time.
+The series is pretty good, occasionally funny, and doesn't have the same pacing problems as Dragonball (the pacing of the Naruto anime seems better though). The action is decent, most battles are simplistic slugfests where Luffy and his crew win simply by more "will to win"; a typical thing in these types of anime. The only complaint would be that they spend too much time summarizing the previous episodes at the start of each new one, but that's a problem only because I watch multiple episodes at a time.
 
 I have more than a hundred episodes to watch, and since I can't watch them during work I typically marathon at least ten episodes on weekends. At this rate I'll be done in, what, half a year?

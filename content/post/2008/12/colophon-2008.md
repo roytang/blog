@@ -9,7 +9,7 @@ type: post
 url: /2008/12/colophon-2008/
 ---
 
-**Frontend**: All page templates are valid (X)HTML. However, I choose not to claim valid XHTML (and no doc type declaration) since I can't guarantee that blog posts I write are compliant! The site uses standard CSS and uses the [Blueprint CSS Framework][1] for the grid layout of the page. The site design is entirely original (if not simple and bland &#8211; I'm not very good with website design yet!). The site has minor usage of [JQuery Javascript library][2] in some parts.
+**Frontend**: All page templates are valid (X)HTML. However, I choose not to claim valid XHTML (and no doc type declaration) since I can't guarantee that blog posts I write are compliant! The site uses standard CSS and uses the [Blueprint CSS Framework][1] for the grid layout of the page. The site design is entirely original (if not simple and bland -- I'm not very good with website design yet!). The site has minor usage of [JQuery Javascript library][2] in some parts.
 
 **Backend**: The server side uses [Python][3] and [Django][4] behind mod_python on Apache, with a MySQL database. The following Django apps and Python libraries are used:
 
@@ -32,7 +32,7 @@ As is typical for hobbyist software development, I started working on this site 
   3. Automatic extraction of twitter and delicious entries into the sidebar
   4. [Gravatar][18] support for comments
 
-All entries from the previous "roytang / weblog&#8221;, "Roy on Magic&#8221; and "Roy on Django&#8221; have been imported using a custom data conversion script, but nothing is perfect so some of the older posts may be badly formatted. (Comment on those posts!)
+All entries from the previous "roytang / weblog", "Roy on Magic" and "Roy on Django" have been imported using a custom data conversion script, but nothing is perfect so some of the older posts may be badly formatted. (Comment on those posts!)
 
 **Hosting**: Provided by [Webfaction][19].
 

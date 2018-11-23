@@ -156,7 +156,7 @@ losses vs control: 1
    
 win% ratio vs control: 85%
 
-My play was a lot tighter this time, making fewer play mistakes. I love playing with a decklist that I put together myself, as it means I'm extremely familiar with the synergies involved. My sideboard was pretty weak this time though, as I gave in to "the fear&#8221; and most of my board was dedicated hate against dragonstorm and narco-bridge combo decks.
+My play was a lot tighter this time, making fewer play mistakes. I love playing with a decklist that I put together myself, as it means I'm extremely familiar with the synergies involved. My sideboard was pretty weak this time though, as I gave in to "the fear" and most of my board was dedicated hate against dragonstorm and narco-bridge combo decks.
 
 Still, I like the deck, it's fun, and it can occasionally come back from 18-to-1 life deficits to win the game in one turn. I'll probably play this before regionals, but my work sched will probably prevent me from playing it in any other Saturday events until then.
 

@@ -7,7 +7,7 @@ type: post
 url: /2007/01/nameless-deck-wins/
 ---
 
-I played the following decklist last Saturday at NG Galleria, giving it the incredibly clever name "Nameless Deck Wins&#8221;
+I played the following decklist last Saturday at NG Galleria, giving it the incredibly clever name "Nameless Deck Wins"
 
 4 Birds of Paradise
    
@@ -129,19 +129,19 @@ The strategy is simple:
    
 
    
-&#8211; chip away at the opponent's life total with creatures
+-- chip away at the opponent's life total with creatures
    
 
    
-&#8211; minor land destruction for disruption
+-- minor land destruction for disruption
    
 
    
-&#8211; pull lands out of the deck and into play
+-- pull lands out of the deck and into play
    
 
    
-&#8211; go for the Demonfire finish
+-- go for the Demonfire finish
 
 Cryoclasm and Hit // Run provide additional damage in addition to removal. Main deck cryoclasm is good, as 5 out of 7 opponents had the requisite islands or plains to be targetted. Spike Feeder keeps me alive against Boros/Dragonstorm. People are usually surprised when I play the Strangling Soots in games 2 or 3, but the Soots do something unbelievably good against aggro decks: they trade evenly with Call of the Herd.
 
@@ -207,7 +207,7 @@ Round 6:
    
 
    
-I knew what to do this time. His hand runs out of counters and he desperately throws Demonfire for 16 at me. I stay alive and respond with Demonfire for 9, winning the round. Mental note: When they play the Compulsive Research early, they have a bad hand and are looking for permission! Based on experience during the Gold Rush tournament, I usually side out the Cryoclasms against &#8216;Tron &#8211; they usually have only 4-8 viable targets, and I'd much rather have a Persecute or Krosan Grip available.
+I knew what to do this time. His hand runs out of counters and he desperately throws Demonfire for 16 at me. I stay alive and respond with Demonfire for 9, winning the round. Mental note: When they play the Compulsive Research early, they have a bad hand and are looking for permission! Based on experience during the Gold Rush tournament, I usually side out the Cryoclasms against &#8216;Tron -- they usually have only 4-8 viable targets, and I'd much rather have a Persecute or Krosan Grip available.
 
 Round 7:
    
@@ -219,6 +219,6 @@ Round 7:
    
 I like the matchup against SimicTron better, as they have Breeding Pools that the Dryads can walk through. The dryads take him down in game one despite the presence of a Sky Swallower. Game two, I'm confident of winning; I have the hellbent Demonfire in hand and he's within reach. But I fear the Commandeer, so I point the Demonfire at a nearby Hellkite instead. Completely illogical, I lost game two because of that. I was thinking I would wait for a Persecute to clear the hand before going for the Demonfire. Game three, he was able to handle all my threats except for an early Elf and Dryad, which took him down to 1 life before he was forced to Wildfire to clear the board. PS Demonfire for one.
 
-All in all, a pretty good performance for a "Rogue&#8221; decklist, 5-2, although I had seriously bad tiebreakers so I finished in 17th place, last among the 5-2's. And I didn't get to test my mettle against Boros. And seriously, the metagame here&#8230;it's like 50% of people are playing some X-tron deck.
+All in all, a pretty good performance for a "Rogue" decklist, 5-2, although I had seriously bad tiebreakers so I finished in 17th place, last among the 5-2's. And I didn't get to test my mettle against Boros. And seriously, the metagame here&#8230;it's like 50% of people are playing some X-tron deck.
 
 One more Standard tournament next week before Planar Chaos!

@@ -45,7 +45,7 @@ Game two he gets the controllish upper hand and ends the game at 20.
    
 
    
-Game three I push hard for a while and he manages to stabilize a bit at 6. He plays a Sacred Mesa with only six lands in play (I took out a couple with the Acid-Moss) and I think "Good luck maintaining that.&#8221; I put up more pressure and finish with the Demonfire for three.
+Game three I push hard for a while and he manages to stabilize a bit at 6. He plays a Sacred Mesa with only six lands in play (I took out a couple with the Acid-Moss) and I think "Good luck maintaining that." I put up more pressure and finish with the Demonfire for three.
 
 Round 4: 1-2 vs RU Control
    
@@ -81,7 +81,7 @@ Games one and two are boring.
    
 
    
-Game three is quite possibly my stupidest move in the past year. We're both down to 10, he swings with five pegasus. I consider the lone Squall Line in my hand. "Squall Line for 4?&#8221; Remand. I take the 5 damage. My turn, I topdeck the Demonfire, assuring victory! I swing, saps make it through and bring him down to 5. And thus my stupid move: I played the Squall Line first, and ANNOUNCE IT FOR 5. Goddamn, I must've been really out of it. I was so excited by the topdeck that I failed to think. Stupid. Stupid. Stupid. I offer my opponent the win, since he can still hit top 8 (he was paired down), and he can just split the packs with me.
+Game three is quite possibly my stupidest move in the past year. We're both down to 10, he swings with five pegasus. I consider the lone Squall Line in my hand. "Squall Line for 4?" Remand. I take the 5 damage. My turn, I topdeck the Demonfire, assuring victory! I swing, saps make it through and bring him down to 5. And thus my stupid move: I played the Squall Line first, and ANNOUNCE IT FOR 5. Goddamn, I must've been really out of it. I was so excited by the topdeck that I failed to think. Stupid. Stupid. Stupid. I offer my opponent the win, since he can still hit top 8 (he was paired down), and he can just split the packs with me.
 
 Round 7: 2-0 vs Dragonstorm
    

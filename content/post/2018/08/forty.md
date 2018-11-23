@@ -12,11 +12,11 @@ url: /2018/08/forty/
 
 <blockquote class="wp-block-quote">
   <p>
-    "Life begins at forty" &#8211; Walter B. Pitkin
+    "Life begins at forty" -- Walter B. Pitkin
   </p>
 </blockquote>
 
-It's supposed to be a milestone of some kind, isn't it? Like any other birthday though, I don't feel much different. I still feel like a kid (hence the "kid-at-heart&#8221; in this blog's header), no more an adult than I was twenty years ago. More or less still the same person. I still enjoy the same pursuits, prefer the same foods, have the same hobbies, appreciate the same things. I would like to believe that despite the harshness of the world I still remain mostly an idealist. That in the face of chaos I remain stoic and committed to reason. That I can still step forward into the world with faith in humanity. (Though the past few years have been challenging to say the least.)
+It's supposed to be a milestone of some kind, isn't it? Like any other birthday though, I don't feel much different. I still feel like a kid (hence the "kid-at-heart" in this blog's header), no more an adult than I was twenty years ago. More or less still the same person. I still enjoy the same pursuits, prefer the same foods, have the same hobbies, appreciate the same things. I would like to believe that despite the harshness of the world I still remain mostly an idealist. That in the face of chaos I remain stoic and committed to reason. That I can still step forward into the world with faith in humanity. (Though the past few years have been challenging to say the least.)
 
 Not everything is the same of course. What is humanity if not change? Perhaps a little bit wiser, maybe a bit more battle-scarred, almost certainly a tiny bit less optimistic and a tiny bit more cynical. Knees a little bit more wobbly. A tiny bit more forgetful. Traveled more of the world. Learned more about people. Maybe even understood them a little bit more. Hoped, dreamed, disappointed, challenged, failed, got back up again, got hurt, hurt people back, achieved victory, suffered defeat. Seen more, lived more.   
 

@@ -23,7 +23,7 @@ Thoughtseize
    
 ** 
    
-&#8211; B
+-- B
    
 
    
@@ -51,11 +51,11 @@ Incandescent Soulstoke
    
 ** 
    
-&#8211; 2R
+-- 2R
    
 
    
-Creature &#8211; Elemental Shaman (Rare)
+Creature -- Elemental Shaman (Rare)
    
 
    
@@ -75,11 +75,11 @@ Nova Chaser
    
 ** 
    
-&#8211; 3R
+-- 3R
    
 
    
-Creature &#8211; Elemental Warrior (Rare)
+Creature -- Elemental Warrior (Rare)
    
 
    
@@ -113,11 +113,11 @@ Eyes of the Wisent
    
 ** 
    
-&#8211; 1G
+-- 1G
    
 
    
-Tribal Enchantment &#8211; Elemental (Rare)
+Tribal Enchantment -- Elemental (Rare)
    
 
    
@@ -137,11 +137,11 @@ Doran, the Siege Tower
    
 ** 
    
-&#8211; BGW
+-- BGW
    
 
    
-Legendary Creature &#8211; Treefolk Shaman (Rare)
+Legendary Creature -- Treefolk Shaman (Rare)
    
 
    
@@ -151,7 +151,7 @@ Each creature assigns combat damage equal to its toughness rather than its power
   
 _
     
-"Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble.&#8221;
+"Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble."
    
 _ 
   
@@ -165,7 +165,7 @@ My take:
    
 ** 
    
-I think my jaw literally dropped when this was previewed. Midrange decks will love this guy. Thoughtseize provides disruption, and Doran gives the cheap beats. A "Rock&#8221; style deck may be in the offing.
+I think my jaw literally dropped when this was previewed. Midrange decks will love this guy. Thoughtseize provides disruption, and Doran gives the cheap beats. A "Rock" style deck may be in the offing.
 
 **
     
@@ -203,11 +203,11 @@ Hoofprint of the Stag
    
 ** 
    
-&#8211; 1W
+-- 1W
    
 
    
-Tribal Enchantment &#8211; Elemental (Rare)
+Tribal Enchantment -- Elemental (Rare)
    
 
    
@@ -231,11 +231,11 @@ Goldmeadow Stalwart
    
 ** 
    
-&#8211; W
+-- W
    
 
    
-Creature &#8211; Kithkin Soldier (Uncommon)
+Creature -- Kithkin Soldier (Uncommon)
    
 
    
@@ -259,11 +259,11 @@ Wren's Run Vanquisher
    
 ** 
    
-&#8211; 1G
+-- 1G
    
 
    
-Creature &#8211; Elf Warrior (Uncommon)
+Creature -- Elf Warrior (Uncommon)
    
 
    
@@ -297,11 +297,11 @@ Gaddock Teeg
    
 ** 
    
-&#8211; GW
+-- GW
    
 
    
-Legendary Creature &#8211; Kithkin Advisor (Rare)
+Legendary Creature -- Kithkin Advisor (Rare)
    
 
    

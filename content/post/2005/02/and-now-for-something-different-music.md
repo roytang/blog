@@ -10,25 +10,25 @@ type: post
 url: /2005/02/and-now-for-something-different-music/
 ---
 
-Currently listening to "Boulevard of Broken Songs&#8221;, a neat mashup mainly of Green Day's "Boulevard of Broken Dreams&#8221; and Oasis' "Wonderwall&#8221;. This and some other mashups [here.
+Currently listening to "Boulevard of Broken Songs", a neat mashup mainly of Green Day's "Boulevard of Broken Dreams" and Oasis' "Wonderwall". This and some other mashups [here.
   
 ][1] 
   
 (haven't listened to the others though&#8230;)
 
-Another interesting mashup that came out quite a while back was ["This Is How You Remind Me Someday&#8221; ][2], where Nickelback is caught basically reusing the same chords for two songs. Great stuff.
+Another interesting mashup that came out quite a while back was ["This Is How You Remind Me Someday" ][2], where Nickelback is caught basically reusing the same chords for two songs. Great stuff.
 
 Other songs/bands I've been listening to lately:
 
-Locally, Spongecola is hot. Their album has several good tracks (since I don't listen to radio, I'm not sure which of them are popular or not.) My favorites are "Jeepney&#8221;, "Lunes&#8221;, "22&#8221;, "Partisan&#8221;, "Dragonfly&#8221;, "Jillian&#8221; and "KLSP&#8221;&#8230;um, I'm pretty close to naming the whole album :p. They also have this great live rendition of Madonna's "Crazy For You&#8221; going around.
+Locally, Spongecola is hot. Their album has several good tracks (since I don't listen to radio, I'm not sure which of them are popular or not.) My favorites are "Jeepney", "Lunes", "22", "Partisan", "Dragonfly", "Jillian" and "KLSP"&#8230;um, I'm pretty close to naming the whole album :p. They also have this great live rendition of Madonna's "Crazy For You" going around.
 
-Sugarfree's last album is also heavy on my playlist &#8211; I think their "Hari ng Sablay&#8221; has been getting some serious airplay. My favorite Sugarfree track is from their first album though &#8211; it's "Burnout&#8221;.
+Sugarfree's last album is also heavy on my playlist -- I think their "Hari ng Sablay" has been getting some serious airplay. My favorite Sugarfree track is from their first album though -- it's "Burnout".
 
-Of course there's Rivermaya's new single "You'll Be Safe Here&#8221;. Pretty good, Rico Blanco is really good with the lyrics.
+Of course there's Rivermaya's new single "You'll Be Safe Here". Pretty good, Rico Blanco is really good with the lyrics.
 
-For live performances, I posted a link to the [AlphaQuam Live Music Archive ][3]on [delicious ][4]a while back. They have this great performance of "Careless Whisper&#8221; by Ben Folds and Rufus Wainwright. If you want more rock-type sounds, try Vertical Horizon's live rendition of "You're A God&#8221;, complete with Top Gun intro.
+For live performances, I posted a link to the [AlphaQuam Live Music Archive ][3]on [delicious ][4]a while back. They have this great performance of "Careless Whisper" by Ben Folds and Rufus Wainwright. If you want more rock-type sounds, try Vertical Horizon's live rendition of "You're A God", complete with Top Gun intro.
 
-Oh, and one song that's been on LSS for me all day: "King of Pain&#8221; by Sting. Not sure why.
+Oh, and one song that's been on LSS for me all day: "King of Pain" by Sting. Not sure why.
 
 <div>
   There's a little black spot on the sun today<br /> That's my soul up there&#8230;

@@ -9,7 +9,7 @@ url: /2006/10/the-ds-stylus/
 
 I predicted it as soon as I saw one of those DS thingies:
 
-"If I bought one of those, I'd lose the stylus within a month.&#8221;
+"If I bought one of those, I'd lose the stylus within a month."
 
 I didn't even get to three whole weeks without losing it. =/
 

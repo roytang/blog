@@ -581,7 +581,7 @@ Seems pretty solid right? No outright bombs or anything, but the deck looks like
 
 Round 1: 0-2 loss vs Urw
 
-Wow. Not a good start. His deck was pretty good though &#8211; two Peppersmokes and two Tarfires kept me behind in the early game.
+Wow. Not a good start. His deck was pretty good though -- two Peppersmokes and two Tarfires kept me behind in the early game.
 
 Round 2: 2-0 win vs (don't remember)
 
@@ -597,7 +597,7 @@ Round 4: 0-2 loss vs GWb.
 
 Oops&#8230;so much for that plan. I keep him back on tempo with Whirlpool Whelms and faeries, but he eventually overwhelms me with critters.
 
-Facing lethal damage in game two, I pick up the result slip and tick the "Drop&#8221; option.
+Facing lethal damage in game two, I pick up the result slip and tick the "Drop" option.
 
 Sigh, one more PTQ to go, last chance to go to Kuala Lumpur. I made so many bloopers this tournament, and my mental game was so off&#8230;must do better next time.
 

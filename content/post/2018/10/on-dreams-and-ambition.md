@@ -25,6 +25,6 @@ Having worked in a startup recently, I can see how much hard work it takes to tr
 
 For sure part of me still has that same ambition and fire from six years ago, that still hopes I'll be able to figure out something clever and build something great and make a name for myself. But now there's another part too, and that part just tells me that I've already worked hard enough, that I don't need to prove anything to anyone, that I've earned a break.
 
-I know that this isn't an option for anyone and I realize that I am quite privileged financially &#8211; having significant savings contributes to the fact that I can even consider taking a rest. 
+I know that this isn't an option for anyone and I realize that I am quite privileged financially -- having significant savings contributes to the fact that I can even consider taking a rest. 
 
 But this isn't about financial security. This is more about two conflicting philosophies. The first is that you should work hard to get the most out of life (ambition). The second is that happiness should not be dependent on success (contentment). Ambition pushes us to keep reaching for ever-increasing heights; but too much ambition means we may never find contentment since we keep searching for something greater beyond the horizon. It's a kind of delicate balance we need to walk. We need the fire of ambition to keep us moving forward, but we also need the wisdom of contentment to appreciate where we currently are.

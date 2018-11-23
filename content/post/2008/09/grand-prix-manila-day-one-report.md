@@ -31,11 +31,11 @@ I shuffle up with my first round opponent. I keep a two-lander with some good cr
 
 I board in Sowers and Austere Commands. For game two, the tides are reversed, as I gain two life off a Kitchen Finks and never change my life total after that. An early Wren's Run Packmaster that got Sower'ed basically won me the game.
 
-For game three, we didn't have much time, with barely 15 minutes left in the clock. However, my opponent had to mulligan to four cards, so we started with twelve minutes left on the clock. Not enough time for the control deck to win normally, I instead went aggro with Finks. I sowered the first creature he played &#8211; a Wren's Run Vanquisher, planning to aggro with it. Unfortunately, the very next turn he managed to play out a second Vanquisher AND a Packmaster, following up later turns with two consecutive Colossus, making it difficult to advance on the ground. I had managed to bring him to 3 life by this point, but then he slowly started climbing up in life via Sapseep Forest. We hit time and it was clear neither of us could win in the five extra turns.
+For game three, we didn't have much time, with barely 15 minutes left in the clock. However, my opponent had to mulligan to four cards, so we started with twelve minutes left on the clock. Not enough time for the control deck to win normally, I instead went aggro with Finks. I sowered the first creature he played -- a Wren's Run Vanquisher, planning to aggro with it. Unfortunately, the very next turn he managed to play out a second Vanquisher AND a Packmaster, following up later turns with two consecutive Colossus, making it difficult to advance on the ground. I had managed to bring him to 3 life by this point, but then he slowly started climbing up in life via Sapseep Forest. We hit time and it was clear neither of us could win in the five extra turns.
 
-I was a bit frustrated at this point since I was wondering whether he took too long in mulliganning, but I realized three minutes for three mulligans seemed reasonable. On the fifth turn I offered "Would you like to concede?&#8221; but neither of us would give way so my first round ended in a draw. I was well in control of the game and would have won easily if we only had ten or fifteen more minutes.
+I was a bit frustrated at this point since I was wondering whether he took too long in mulliganning, but I realized three minutes for three mulligans seemed reasonable. On the fifth turn I offered "Would you like to concede?" but neither of us would give way so my first round ended in a draw. I was well in control of the game and would have won easily if we only had ten or fifteen more minutes.
 
-This was one thing I had not planned &#8211; I would be hitting extra time more often than not; I needed to learn to play faster.
+This was one thing I had not planned -- I would be hitting extra time more often than not; I needed to learn to play faster.
 
 Match Record: 0-0-1
 
@@ -89,15 +89,15 @@ Round 5.
   
 ** 
   
-He starts out with a Plains and a Stalwart, and I know the enemy. My chances are good as long as he doesn't have that 1-2-3 punch autopilot draw. Oh wait, yes he did &#8211; almost. I stayed alive but had to use up my Shriekmaw to take out a Wizened Cenn, which meant I was helpless against the Burrenton Forge-Tender and Spectral Procession that followed. He got an even more insane draw on the next game; I could only remember that I was unable to fight back.
+He starts out with a Plains and a Stalwart, and I know the enemy. My chances are good as long as he doesn't have that 1-2-3 punch autopilot draw. Oh wait, yes he did -- almost. I stayed alive but had to use up my Shriekmaw to take out a Wizened Cenn, which meant I was helpless against the Burrenton Forge-Tender and Spectral Procession that followed. He got an even more insane draw on the next game; I could only remember that I was unable to fight back.
 
 Match record: 1-3-1
 
 Game record: 5-8-1
 
-At this point I was tired of losing and decided to drop. I remember ticking drop on my result slip, but based on the play history at the DCI webapp, I actually got a match loss for the next round. Huh. Oh well, I don't feel like contesting it &#8211; I'm sure the guy appreciated the free DCI rating points (I lost about 20-30 in that one)
+At this point I was tired of losing and decided to drop. I remember ticking drop on my result slip, but based on the play history at the DCI webapp, I actually got a match loss for the next round. Huh. Oh well, I don't feel like contesting it -- I'm sure the guy appreciated the free DCI rating points (I lost about 20-30 in that one)
 
-So, my Grand Prix was over &#8211; I spent the rest of the day watching my teammates play and watching feature matches. It was great seeing Levy, Saito, Shuhei, etc. in action. The Japanese especially, they make their moves quickly, never hesitating, it's amazing. We also got some Chameleon Colossuses and Makeshift Mannequins signed by the artist Darrel Riche.
+So, my Grand Prix was over -- I spent the rest of the day watching my teammates play and watching feature matches. It was great seeing Levy, Saito, Shuhei, etc. in action. The Japanese especially, they make their moves quickly, never hesitating, it's amazing. We also got some Chameleon Colossuses and Makeshift Mannequins signed by the artist Darrel Riche.
 
 **
   
@@ -143,7 +143,7 @@ Bonus Tournament Report: Switch playing 5-color Elementals
   
 > (20:55:49) switch_nftzu: you saw my death in round 8
 
-Indeed, I did see him die in the final round &#8211; to a 4/4 Protection from Black, red and white, protection from converted mana cost 3 or greater, first strike, lifelink, vigilance monster. Of course, it was some guy from HK playing with a deck that had
+Indeed, I did see him die in the final round -- to a 4/4 Protection from Black, red and white, protection from converted mana cost 3 or greater, first strike, lifelink, vigilance monster. Of course, it was some guy from HK playing with a deck that had
   
 [Mistmeadow Skulk][3]
   
@@ -157,13 +157,13 @@ Switch finished with a 5-3 record.
 
 Alex unfortunately, dropped out at the same round I did, finishing with a 1-4 record.
 
-Paul was still playing with a long shot of making the top 64. We found him battling a Caucasian guy in a Kithkin mirror match. He was well ahead &#8211; having something like eight creatures to his opponents two, and didn't even bother taking down the opposing Ajani Goldmane instead going straight for the head. After he won the match, his opponent commented that he should have spared two Spirit tokens to take out Ajani, given how comfortably ahead he was &#8211; an untimely Spectral Procession might have turned the game around.
+Paul was still playing with a long shot of making the top 64. We found him battling a Caucasian guy in a Kithkin mirror match. He was well ahead -- having something like eight creatures to his opponents two, and didn't even bother taking down the opposing Ajani Goldmane instead going straight for the head. After he won the match, his opponent commented that he should have spared two Spirit tokens to take out Ajani, given how comfortably ahead he was -- an untimely Spectral Procession might have turned the game around.
 
 Paul just shrugged, enjoying his 6-2 finish. (What a lucksack! :p) Unfortunately, this was only good enough for a 90+ finish, not enough for him to make day two.
 
 Overall Team Snafubar match record: 13-12-1. Alex and I brought the average down, but I think we still had fun playing. This was easily my worst constructed weekend so far, and I would definitely lose somewhere around a hundred points of Constructed rating, but it wasn't so bad.
 
-We left the mall and decided to crash at a friend's place. Sometime around 1 AM, I decided to come back the next day to PTQ with Kithkin. I wouldn't have much sleep, but what the hell &#8211; I planned on a 3-day Magic weekend, so I might as well go on with it!
+We left the mall and decided to crash at a friend's place. Sometime around 1 AM, I decided to come back the next day to PTQ with Kithkin. I wouldn't have much sleep, but what the hell -- I planned on a 3-day Magic weekend, so I might as well go on with it!
 
  [1]: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpman08/welcome
  [2]: http://roytang.net/magic/2008/09/grand-prix-manila-grinders-and-day-one-decks/

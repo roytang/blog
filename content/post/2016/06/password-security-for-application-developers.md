@@ -29,7 +29,7 @@ Cryptographic hash functions are designed to be collision-resistant, meaning the
 
 **Force good password practices on your users**. This means requiring sufficiently strong passwords. Many modern services provide quick feedback on how strong the input password is. Optionally you can also require that the password contains a varied amount of lower case letters, upper case letters, numbers, and other special characters, but this is not really necessary if the passwords are of sufficient length. Also consider requiring users to change their passwords after a set period
 
-**You should disallow the most common passwords.** A list of the most commonly used passwords (such as "password&#8221; and "123456&#8221;) are available from previously leaked password hacks. Microsoft has recently started to roll out this sort of check now in their services. Actually, one good idea I've heard of before is to have a uniqueness check on the password field &#8211; disallow users from having the same password as any other user, but this may not be feasible depending on how you hash the passwords
+**You should disallow the most common passwords.** A list of the most commonly used passwords (such as "password" and "123456") are available from previously leaked password hacks. Microsoft has recently started to roll out this sort of check now in their services. Actually, one good idea I've heard of before is to have a uniqueness check on the password field -- disallow users from having the same password as any other user, but this may not be feasible depending on how you hash the passwords
 
 * * *
 

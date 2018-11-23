@@ -12,9 +12,9 @@ Usually, whenever a Catholic priest gives a homily during Mass, he stands behind
 
 At the place where I go to Mass, the priests prefer to stand in front of the altar, closer to the audience, holding a microphone in their hands and pacing around a bit during the homily.
 
-I remarked to my brother during the Easter Sunday mass: "I bet priests would make great stand-up comics.&#8221;
+I remarked to my brother during the Easter Sunday mass: "I bet priests would make great stand-up comics."
 
-His response: "That would make an awesome sitcom.&#8221;
+His response: "That would make an awesome sitcom."
 
 Imagine, if you will, a priest at a small parish, occasionally bored with what is surely his life's calling. Every so often, he sneaks out to his local comedy club and performs as a stand-up comic. Hilarity ensues.
 

@@ -10,7 +10,7 @@ url: /2005/05/tired/
 
 One thing about spending a free day at home. The temperature in my room gets really high during the afternoon, it's quite uncomfortable. Especially since I'm used to wasting away most of my daylight hours in an airconditioned office.
 
-It's good to spend a couple of days away from the office though &#8211; God only knows I've been so damn uninspired with work lately. For the past two weeks or so, I haven't had much heart for my work. Most of the time, I code while wondering if I should file for half a day's sick leave and head home. Except that I don't know if boredom is a valid excuse.
+It's good to spend a couple of days away from the office though -- God only knows I've been so damn uninspired with work lately. For the past two weeks or so, I haven't had much heart for my work. Most of the time, I code while wondering if I should file for half a day's sick leave and head home. Except that I don't know if boredom is a valid excuse.
 
 (Madness, despair and self-doubt lay ahead, uncharacteristically. You have been warned.)
 

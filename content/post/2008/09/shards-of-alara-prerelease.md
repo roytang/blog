@@ -562,7 +562,7 @@ My second flight pool:
 
 This pool was significantly worse; I basically just put together all the removal I had and hoped I could control the board.
 
-I only went 2 and 2 this time though; I lost round one after my opponent hit the cycling off Resounding Thunder before I did. I lost round four in two games &#8211; both to a resolved Realm Razer that left me defenseless.
+I only went 2 and 2 this time though; I lost round one after my opponent hit the cycling off Resounding Thunder before I did. I lost round four in two games -- both to a resolved Realm Razer that left me defenseless.
 
 So, 5-3 in eight rounds. It wasn't bad, but it wasn't good either.
 

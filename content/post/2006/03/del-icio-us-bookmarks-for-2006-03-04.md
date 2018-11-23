@@ -21,7 +21,7 @@ Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-03-04
 ][4] &#8212;
   
     Awesome alternate-universe Transformers series set during the early industrial age. Check out the initial sketches!Tagged as: comics transformers
-  * [YouTube &#8211; Real Life Simpsons Intro
+  * [YouTube -- Real Life Simpsons Intro
   
 ][5] &#8212;
   

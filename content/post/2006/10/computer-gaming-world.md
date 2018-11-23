@@ -7,7 +7,7 @@ type: post
 url: /2006/10/computer-gaming-world/
 ---
 
-Awesome thing for old-school gamers &#8211; CGW has made available PDFs of their first 100 issues
+Awesome thing for old-school gamers -- CGW has made available PDFs of their first 100 issues
    
 [
     

@@ -40,7 +40,7 @@ The primary question about this transcript is of course, did Gloria conspire wit
   
 > GMA: Ah ok, ok.
 
-The damning words in this excerpt come from the man named Gary: "Pipilitin ma'am natin yan.&#8221; (Liberal translation: We will try to make it happen) It implies that Gary was telling GMA that he would do something to manipulate the results to create a 1 million margin of votes. The observant reader should note that (a) GMA did not ask the man Gary to do anything. However, Gary implied doing something illegal which she should have spoken against; and (b) Any manipulation at this point does not seem aimed at stealing a victory, but rather making the victory appear to be a decisive victory
+The damning words in this excerpt come from the man named Gary: "Pipilitin ma'am natin yan." (Liberal translation: We will try to make it happen) It implies that Gary was telling GMA that he would do something to manipulate the results to create a 1 million margin of votes. The observant reader should note that (a) GMA did not ask the man Gary to do anything. However, Gary implied doing something illegal which she should have spoken against; and (b) Any manipulation at this point does not seem aimed at stealing a victory, but rather making the victory appear to be a decisive victory
 
 > Conversation between Gary and an unidentified woman believed to be PGMA on 02 22:29 hotel June
   
@@ -72,9 +72,9 @@ The damning words in this excerpt come from the man named Gary: "Pipilitin ma'am
   
 > Macalintal.
 
-Again, the damning words come from the man named Gary: "Dun naman sa Basilan at Lanao Sur, ito ho yung ginawa nilang magpataas sa inyo, maayos naman ang paggawa eh.&#8221; (Literal-and-not-too-gramatically-correct translation: In Basilan and Lanao Sur, the increases they did for you, they were done well.)
+Again, the damning words come from the man named Gary: "Dun naman sa Basilan at Lanao Sur, ito ho yung ginawa nilang magpataas sa inyo, maayos naman ang paggawa eh." (Literal-and-not-too-gramatically-correct translation: In Basilan and Lanao Sur, the increases they did for you, they were done well.)
 
-These two excerpts are the most important because, as far as I can tell, these are the only ones that imply the President's direct knowledge of cheating done on her behalf. If they avoid, can get rid of, explain away or otherwise cancel out these two excerpts, GMA can easily avoid culpability from the rest of the transcript. For all we know, there could be some wacky explanation that has a small probability of being true. ("One million votes? No, we were talking about one million man-minutes spent counting the ballots!&#8221; &#8212; Okay, so I'm not very creative right now. Submit your own wacky explanation!)
+These two excerpts are the most important because, as far as I can tell, these are the only ones that imply the President's direct knowledge of cheating done on her behalf. If they avoid, can get rid of, explain away or otherwise cancel out these two excerpts, GMA can easily avoid culpability from the rest of the transcript. For all we know, there could be some wacky explanation that has a small probability of being true. ("One million votes? No, we were talking about one million man-minutes spent counting the ballots!" &#8212; Okay, so I'm not very creative right now. Submit your own wacky explanation!)
 
 Is she guilty of electoral fraud? Maybe. This tape at best constitutes what I believe to be called prima facie evidence. As we all should know by now however, wiretapped conversations are not admissible in any court of law in the Philippines. Not even in an impeachment trial, which is not really a court of law.
 

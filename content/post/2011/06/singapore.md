@@ -10,7 +10,7 @@ type: post
 url: /2011/06/singapore/
 ---
 
-I was in Singapore from June 2 &#8211; June 6, mostly to visit friends who are getting married and compete in the MTG Grand Prix held there last weekend. I like bullet points, so here's a summary of my trip:
+I was in Singapore from June 2 -- June 6, mostly to visit friends who are getting married and compete in the MTG Grand Prix held there last weekend. I like bullet points, so here's a summary of my trip:
 
 **Props:**
 

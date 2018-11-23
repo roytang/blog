@@ -12,7 +12,7 @@ url: /2018/11/shogun-and-the-rest-of-james-clavells-asian-saga/
 
 [<img class="aligncenter size-full wp-image-2417" src="http://roytang.net/wp-content/uploads/2017/06/1901150_10152838020443912_1173953250_n1.jpg" alt="" width="720" height="960" srcset="https://roytang.net/wp-content/uploads/2017/06/1901150_10152838020443912_1173953250_n1.jpg 720w, https://roytang.net/wp-content/uploads/2017/06/1901150_10152838020443912_1173953250_n1-225x300.jpg 225w" sizes="(max-width: 720px) 100vw, 720px" />][1]
 
-Shogun was the first novel I ever read outside of required school readings and it remains one of favorites to this day after many rereadings. It had it all &#8211; the age of exploration, religious conflict, language barriers, duty, honor, love, betrayal, war, sacrifice, samurai, ninjas, guns, cannons, etc and it still influences my thinking to this day.
+Shogun was the first novel I ever read outside of required school readings and it remains one of favorites to this day after many rereadings. It had it all -- the age of exploration, religious conflict, language barriers, duty, honor, love, betrayal, war, sacrifice, samurai, ninjas, guns, cannons, etc and it still influences my thinking to this day.
 
 One of my favorite quotes from this book:
 

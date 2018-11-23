@@ -19,7 +19,7 @@ Some other things we might consider declaring war on (in no particular order):
 
   1. Poverty
   2. Ignorance
-  3. Misinformation (sorry, "Alternative facts&#8221;)
+  3. Misinformation (sorry, "Alternative facts")
   4. Abusive government officials
   5. Traffic
   6. Rights abuses
@@ -49,7 +49,7 @@ Some other things we might consider declaring war on (in no particular order):
  30. Hashtags
  31. Hypocrisy
  32. Multi-level marketing
- 33. Working at "Edi sa puso mo&#8221;
+ 33. Working at "Edi sa puso mo"
  34. Redundancy
  35. Low effort blog posts that start out serious but end up trying a bit too hard to be funny
  36. People who don't understand sarcasm

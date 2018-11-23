@@ -264,7 +264,7 @@ and
   </div>
 </div>
 
-The pool had decent removal, but no big game-winning bombs. I immediately went for red with the 2 Iguanars, and later was deciding between Naya or Jund. Eventually I just went four colors, Jund splashing white for removal. The deck was pretty decent and I figured I could hit 5-2 or even better if I got lucky. I kept wondering all day whether Manaplasm was any good and later someone pointed out I should have maindecked Topan Ascetic &#8211; I keep underestimating that guy &#8211; so I tried out swapping him for the Ooze, but couldn't get definite results to tell me the &#8216;plasm really sucked.
+The pool had decent removal, but no big game-winning bombs. I immediately went for red with the 2 Iguanars, and later was deciding between Naya or Jund. Eventually I just went four colors, Jund splashing white for removal. The deck was pretty decent and I figured I could hit 5-2 or even better if I got lucky. I kept wondering all day whether Manaplasm was any good and later someone pointed out I should have maindecked Topan Ascetic -- I keep underestimating that guy -- so I tried out swapping him for the Ooze, but couldn't get definite results to tell me the &#8216;plasm really sucked.
 
 **
     
@@ -364,9 +364,9 @@ On a side note, it seems I'm getting more blog readers, as more people are menti
 ### Comment by ogie on 2008-11-24 17:42:30 +0000
 I kept wondering all day whether Manaplasm was any good and later someone
   
-pointed out I should have maindecked Topan Ascetic &#8211; I keep underestimating
+pointed out I should have maindecked Topan Ascetic -- I keep underestimating
   
-that guy &#8211; so I tried out swapping him for the Ooze, but couldn’t get definite
+that guy -- so I tried out swapping him for the Ooze, but couldn’t get definite
   
 results to tell me the ‘plasm really sucked.
 

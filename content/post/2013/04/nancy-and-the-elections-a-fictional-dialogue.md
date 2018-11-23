@@ -162,7 +162,7 @@ People who follow me on Facebook or Twitter know that I've been recently made a 
 </p>
 
 <p class="c4">
-  <span class="c2"><span class="c2">10:17:34</span><span class="c3" style="color: #000000;"> </span><span class="c0">‹</span><span class="c8 c3">Scrappy coco</span><span class="c0">›</span><span class="c3" style="color: #000000;"> im really annoyed with the fact na dynasty na ang lumalabas pero sasabihin lng nila "let the people decide&#8221;.</span></span>
+  <span class="c2"><span class="c2">10:17:34</span><span class="c3" style="color: #000000;"> </span><span class="c0">‹</span><span class="c8 c3">Scrappy coco</span><span class="c0">›</span><span class="c3" style="color: #000000;"> im really annoyed with the fact na dynasty na ang lumalabas pero sasabihin lng nila "let the people decide".</span></span>
 </p>
 
 <p class="c4">
@@ -198,7 +198,7 @@ People who follow me on Facebook or Twitter know that I've been recently made a 
 </p>
 
 <p class="c4">
-  <span class="c2">10:20:46</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> like "change your profile pic to this icon if you're going to vote intelligently&#8221;</span>
+  <span class="c2">10:20:46</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> like "change your profile pic to this icon if you're going to vote intelligently"</span>
 </p>
 
 <p class="c4">
@@ -410,11 +410,11 @@ People who follow me on Facebook or Twitter know that I've been recently made a 
 </p>
 
 <p class="c4">
-  <span class="c2">10:33:53</span><span class="c3"> </span><span class="c0">‹</span><span class="c3 c11">derp</span><span class="c0">›</span><span class="c3"> </span><span class="c3 c13">> ‹in-in› and the intelligent people are not registered </span><span class="c3"><&#8211; woohoo! I'm intelligent!</span>
+  <span class="c2">10:33:53</span><span class="c3"> </span><span class="c0">‹</span><span class="c3 c11">derp</span><span class="c0">›</span><span class="c3"> </span><span class="c3 c13">> ‹in-in› and the intelligent people are not registered </span><span class="c3"><-- woohoo! I'm intelligent!</span>
 </p>
 
 <p class="c4">
-  <span class="c2">10:34:05</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> we just need more ideas. there are lots of smart people that could be helping &#8211; social scientists, psychologists, behavioral scientists, etc. &#8211; who might be able to come up with ways to more easily propagate stuff like this</span>
+  <span class="c2">10:34:05</span><span class="c3"> </span><span class="c0">‹</span><span class="c1">jaeger</span><span class="c0">›</span><span class="c3"> we just need more ideas. there are lots of smart people that could be helping -- social scientists, psychologists, behavioral scientists, etc. -- who might be able to come up with ways to more easily propagate stuff like this</span>
 </p>
 
 <p class="c4">

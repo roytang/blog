@@ -25,6 +25,6 @@ We get the same amount of time (24 hours) every day as everyone else though. Tha
 
 Supposedly it's all about setting your priorities and focusing on what's important. Unfortunately focus has always been a problem of mine since I like to dabble in a wide variety of things. I look at the list of things I want to do and I tell myself I have to decide to sacrifice some of these so that the others can get done. Focus only on what matters. What if everything matters?
 
-People will say you should cut back on TV or playing video games if you want to get stuff done, that these things are a waste of time. But as John Lennon said "Time you enjoy wasting is not wasted time&#8221;. If doing these things is what you want to do, you should go for it, just be aware of what you're sacrificing in exchange
+People will say you should cut back on TV or playing video games if you want to get stuff done, that these things are a waste of time. But as John Lennon said "Time you enjoy wasting is not wasted time". If doing these things is what you want to do, you should go for it, just be aware of what you're sacrificing in exchange
 
 I believe that some time within this century attitudes of people towards work and time will begin to change. That the idea of working 40-50 hour days being a normal thing will start to fade away. (Or maybe I am being too optimistic). Until that time comes, we all need to consciously manage our time and priorities in order to cope

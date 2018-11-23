@@ -13,7 +13,7 @@ url: /2003/07/27-jul-2003-i-have-made-a-terrible-mistake/
 
 * I installed Civilization III, and told myself, "Gee, I guess
   
-    I'll try it out for an hour or so.&#8221; I didn't stop for six hours.
+    I'll try it out for an hour or so." I didn't stop for six hours.
   
     So much for getting anything done over the weekend.
   * Luckily (or not), my being awake those six hours of early morning
@@ -35,7 +35,7 @@ url: /2003/07/27-jul-2003-i-have-made-a-terrible-mistake/
     [Softhome][1] again. Now I have to wait
   
     'til August before I can check that address again.
-  * Apparently, this website is now named "roywantsmeat&#8221;, after my
+  * Apparently, this website is now named "roywantsmeat", after my
   
     battle.net account. If I ever get a domain name, that's what I would
   

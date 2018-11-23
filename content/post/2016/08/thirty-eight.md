@@ -33,14 +33,14 @@ Thirty eight lessons I've learned through the years, in no particular order:
  21. All things, whether good or bad, shall eventually pass. Enjoy the good while it lasts, persist through the bad until you make it through
  22. Avoid doing or saying things in anger or hatred
  23. Things change and people change, sometimes for reasons we can't ever explain. Learn to roll with life's punches
- 24. The world is filled with people who are terrible, cruel, or manipulative. That doesn't mean there aren't good people out there and that doesn't mean you should mistrust everybody. "Do not let the world make you hard&#8221;
+ 24. The world is filled with people who are terrible, cruel, or manipulative. That doesn't mean there aren't good people out there and that doesn't mean you should mistrust everybody. "Do not let the world make you hard"
  25. Don't worry too much about things that you can't understand or can't change. Focus only on things you can affect and that matter to you
  26. Quality is nice, but quantity often works too. Many failed or mediocre attempts will eventually converge towards a quality success
  27. Learn to accept when things need to end. Let go or be dragged
  28. Sometimes you just need the courage to power through the difficult parts
  29. For many things, the best way to improve is with time and practice and effort
  30. Learn from the past, look to the the future, but live in the present
- 31. Life isn't fair. Just because you've done all the right things doesn't mean you'll get what you want, even if you feel like you deserve it (the converse is also true &#8211; even if you do all the wrong things you won't necessarily get punished for it)
+ 31. Life isn't fair. Just because you've done all the right things doesn't mean you'll get what you want, even if you feel like you deserve it (the converse is also true -- even if you do all the wrong things you won't necessarily get punished for it)
  32. Strive to be fair and honest with people you deal with. Give credit where credit is due
  33. In order to learn, teach. In order to lead, follow
  34. When you are ahead, strive for stability and balance. When you are behind, be willing to gamble

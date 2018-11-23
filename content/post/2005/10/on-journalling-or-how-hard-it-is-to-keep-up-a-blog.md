@@ -8,7 +8,7 @@ type: post
 url: /2005/10/on-journalling-or-how-hard-it-is-to-keep-up-a-blog/
 ---
 
-In my line of work, which is to say "large-scale database systems&#8221;, there's always the idea of "journalling&#8221; or the "audit trail.&#8221; Basically, it means that for every transaction of significance, a record is kept of that transaction, stored in a log somewhere, so that should something malefic happen, the logs can be parsed and the trail can be followed, blame can be assigned and countermeasures can be taken.
+In my line of work, which is to say "large-scale database systems", there's always the idea of "journalling" or the "audit trail." Basically, it means that for every transaction of significance, a record is kept of that transaction, stored in a log somewhere, so that should something malefic happen, the logs can be parsed and the trail can be followed, blame can be assigned and countermeasures can be taken.
 
 Okay, that's not really limited to large-scale database systems. Any nontrivial software system should have some sort of journalling scheme involved, as printlogging is usually part and parcel of the development process.
 

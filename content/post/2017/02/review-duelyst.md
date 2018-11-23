@@ -21,13 +21,13 @@ Hearthstone, Spellweaver and Eternal played like digital MTG with some advantage
 
 In a game of Duelyst your General (the analogue to Hearthstone's hero) and his minions are played into a 9&#215;5 board. Minions can only be summoned on empty spaces adjacent to one of your units. During your turn, each unit can either: attack an adjacent enemy; or move up to two spaces, then attack an adjacent enemy.
 
-Having a board and unit movement greatly enhances the "positioning matters&#8221; mechanic as compared to Hearthstone. In HS, it only mattered whether minions were adjacent, to the left or to the right. In Duelyst, you can position minions to prevent enemies from reaching your General, or to restrict enemies from moving completely.
+Having a board and unit movement greatly enhances the "positioning matters" mechanic as compared to Hearthstone. In HS, it only mattered whether minions were adjacent, to the left or to the right. In Duelyst, you can position minions to prevent enemies from reaching your General, or to restrict enemies from moving completely.
 
-That means a number of spells and abilities care about positioning too. Each of the available Generals has a Bloodborn spell (BBS), the equivalent of Hearthstone's Hero Power. One of the Generals has a BBS which allows her to deal damage to all enemy units in the same column as the opposing General. This means you have to be careful where you place your minions whenever her BBS is active! There are spells that affect a small area (2&#215;2 or 3&#215;3 and so on). There are spells that care about adjacency ("Destroy target minion that is not nearby any general&#8221;). And so on.
+That means a number of spells and abilities care about positioning too. Each of the available Generals has a Bloodborn spell (BBS), the equivalent of Hearthstone's Hero Power. One of the Generals has a BBS which allows her to deal damage to all enemy units in the same column as the opposing General. This means you have to be careful where you place your minions whenever her BBS is active! There are spells that affect a small area (2&#215;2 or 3&#215;3 and so on). There are spells that care about adjacency ("Destroy target minion that is not nearby any general"). And so on.
 
 **Factions and Generals**
 
-Hearthstone has different heroes, and each hero has a different card pool available. By contrast, Duelyst has factions and Generals. Each faction has its own card pool, and of course there is a global or "neutral&#8221; card pool as well. Each faction also has two Generals, each of which has a different BBS. The factions and Generals encourage a lot of different playstyles.
+Hearthstone has different heroes, and each hero has a different card pool available. By contrast, Duelyst has factions and Generals. Each faction has its own card pool, and of course there is a global or "neutral" card pool as well. Each faction also has two Generals, each of which has a different BBS. The factions and Generals encourage a lot of different playstyles.
 
 [<img class="aligncenter size-full wp-image-1729" src="http://roytang.net/wp-content/uploads/2017/02/20170216154217_1.jpg" alt="" width="1920" height="1080" srcset="https://roytang.net/wp-content/uploads/2017/02/20170216154217_1.jpg 1920w, https://roytang.net/wp-content/uploads/2017/02/20170216154217_1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/02/20170216154217_1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/02/20170216154217_1-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/02/20170216154217_1-1200x675.jpg 1200w" sizes="(max-width: 1920px) 100vw, 1920px" />][6]
 
@@ -37,18 +37,18 @@ Some factions like the Songhai are more focused on spell-based damage and backst
 
 As expected, many of Duelyst keywords care about positioning, and thus have no meaningful equivalent in either MTG or HS. Namely:
 
-  * **Airdrop** &#8211; minions with Airdrop can be summoned anywhere on the board
-  * **Backstab** &#8211; this unit deals extra damage when attacking from behind (yes, even facing matters!) and doesn't receive a counterattack
-  * **Blast** &#8211; attack hits all enemies in the same row or column
-  * **Flying** &#8211; may move anywhere on the battlefield
-  * **Frenzy** &#8211; normal attacks hit ALL adjacent enemies
-  * **Infiltrate** &#8211; gains bonus effect if its on the enemy's starting side of the board
-  * **Provoke **&#8211; somewhat like HS's **Taunt. A**djacent enemies cannot move and _must_ attack a Provoke unit if there is one nearby
-  * **Ranged** &#8211; can attack from anywhere on the board
-  * **Shadow Creep** &#8211; this is a modifier that can be added to board tiles. An enemy standing on Shadow Creep takes 1 damage at the end of the Shadow Creep owner's turn
-  * **Zeal **&#8211; gains bonus effect as long as it's next to the General
+  * **Airdrop** -- minions with Airdrop can be summoned anywhere on the board
+  * **Backstab** -- this unit deals extra damage when attacking from behind (yes, even facing matters!) and doesn't receive a counterattack
+  * **Blast** -- attack hits all enemies in the same row or column
+  * **Flying** -- may move anywhere on the battlefield
+  * **Frenzy** -- normal attacks hit ALL adjacent enemies
+  * **Infiltrate** -- gains bonus effect if its on the enemy's starting side of the board
+  * **Provoke **-- somewhat like HS's **Taunt. A**djacent enemies cannot move and _must_ attack a Provoke unit if there is one nearby
+  * **Ranged** -- can attack from anywhere on the board
+  * **Shadow Creep** -- this is a modifier that can be added to board tiles. An enemy standing on Shadow Creep takes 1 damage at the end of the Shadow Creep owner's turn
+  * **Zeal **-- gains bonus effect as long as it's next to the General
 
-Duelyst also has a number of keywords that are analogous to abilities in MTG and HS. **Rush** is the same as MTG's **Haste **and HS's **Charge**. **Opening Gambit **and **Dying Wish** are the same as HS's **Battlecry** and **Deathrattle. **(I worry that at some point new cardgames will run out of names for "enters the field&#8221; and "leaves the field&#8221;.) And so on &#8211; no need to cover everything here.
+Duelyst also has a number of keywords that are analogous to abilities in MTG and HS. **Rush** is the same as MTG's **Haste **and HS's **Charge**. **Opening Gambit **and **Dying Wish** are the same as HS's **Battlecry** and **Deathrattle. **(I worry that at some point new cardgames will run out of names for "enters the field" and "leaves the field".) And so on -- no need to cover everything here.
 
 **Skill Level, Competitive Play and F2P**
 
@@ -71,7 +71,7 @@ If I think Duelyst is more skill-based than HS, why did I find it easier to get 
 
 At first I told myself I would stop playing Duelyst after I completed the Steam Achievements. Then I said I would stop playing after I got to S-Rank. But I'm still playing it now. By comparison, I now launch HS once or twice a week, and I don't clear the quests.
 
-Duelyst is still a young game &#8211; the second expansion just came out last December. So in the future it may yet be plagued with the problems Hearthstone currently has. The developers have shown themselves to be responsive in nerfing problematic cards and shaking up the meta though. Whether they are able to keep this up remains to be seen. In the meantime, I'm willing to keep playing as long as the game is still enjoyable.
+Duelyst is still a young game -- the second expansion just came out last December. So in the future it may yet be plagued with the problems Hearthstone currently has. The developers have shown themselves to be responsive in nerfing problematic cards and shaking up the meta though. Whether they are able to keep this up remains to be seen. In the meantime, I'm willing to keep playing as long as the game is still enjoyable.
 
 &nbsp;
 

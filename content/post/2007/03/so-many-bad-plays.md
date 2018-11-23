@@ -146,7 +146,7 @@ url: /2007/03/so-many-bad-plays/
                 <span class="decktotals"><br /> 15 sideboard cards<br /> </span></td> </tr> </tbody> </table> 
                 
                 <p>
-                  This deck is named "Under Development&#8221; because I basically threw it together two days ago with almost no playtesting. Basically, today's tournament was my playtesting, as I could use it to gauge whether I like the feel of the deck and I should continue using it. Also, it's my first team playing with basic islands again in constructed since forever.
+                  This deck is named "Under Development" because I basically threw it together two days ago with almost no playtesting. Basically, today's tournament was my playtesting, as I could use it to gauge whether I like the feel of the deck and I should continue using it. Also, it's my first team playing with basic islands again in constructed since forever.
                 </p>
                 
                 <p>
@@ -182,27 +182,27 @@ url: /2007/03/so-many-bad-plays/
                 </p>
                 
                 <p>
-                  &#8211; Play stomping ground. lose 2 life (down to 8)
+                  -- Play stomping ground. lose 2 life (down to 8)
                 </p>
                 
                 <p>
-                  &#8211; Attack with both morphs, Mangara does not block
+                  -- Attack with both morphs, Mangara does not block
                 </p>
                 
                 <p>
-                  &#8211; Unmorph Brine Elemental, opponent takes 7 and drops to 11
+                  -- Unmorph Brine Elemental, opponent takes 7 and drops to 11
                 </p>
                 
                 <p>
-                  &#8211; Opponent's turn: no untap phase, does nothing
+                  -- Opponent's turn: no untap phase, does nothing
                 </p>
                 
                 <p>
-                  &#8211; My turn: Swing with morph and Brine Elemental. Opponent attemps to take one down using Mangara. I play Plaxmanta to counter the ability. Unmorph shapeshifter and copy Brine Elemental. Opponent goes down to 6 or 1 depending opn whether Mangara blocked.
+                  -- My turn: Swing with morph and Brine Elemental. Opponent attemps to take one down using Mangara. I play Plaxmanta to counter the ability. Unmorph shapeshifter and copy Brine Elemental. Opponent goes down to 6 or 1 depending opn whether Mangara blocked.
                 </p>
                 
                 <p>
-                  &#8211; My next turn: PS Demonfire you
+                  -- My next turn: PS Demonfire you
                 </p>
                 
                 <p>

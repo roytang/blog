@@ -12,11 +12,11 @@ url: /2002/08/they-don39t-know-what-they39re-missing/
 
 I'm pissed off.
 
-Today I went to Ortigas for a job interview with a nameless IT company where my cousin Rachel works. I was quite optimistic too &#8212; the position was for a "Java Trainee.&#8221; I was more than willing to be trained, and a trainee position meant you didn't have to be proficient in Java right? Turns out I was wrong. =( Apparently they needed someone with some experience in Java, preferably with a project or two under his belt. I tried to convince the interviewer that I had a lot of raw talent and learn pretty fast anyway, but I haven't got any high hopes. That pissed me off.
+Today I went to Ortigas for a job interview with a nameless IT company where my cousin Rachel works. I was quite optimistic too &#8212; the position was for a "Java Trainee." I was more than willing to be trained, and a trainee position meant you didn't have to be proficient in Java right? Turns out I was wrong. =( Apparently they needed someone with some experience in Java, preferably with a project or two under his belt. I tried to convince the interviewer that I had a lot of raw talent and learn pretty fast anyway, but I haven't got any high hopes. That pissed me off.
 
 Even worse, I had gone to Ortigas with just enough cash to make the trip back and forth. I had left a good two hundred bucks at home &#8216;coz I forgot to pick 'em up and put 'em in my wallet. I was thinking of trying out the arcade version of Capcom vs SNK 2, maybe buying a CD or two. But no! Now I couldn't even grab a bite on the way home. That pissed me off.
 
-Later that night, my mother was watching "While You Were Sleeping&#8221;, and I was feeling so depressed I was wondering what would happen if I ended up like Sandra Bullock at the start of the movie &#8212; alone, and working a dead end job as a ticket seller. Sigh
+Later that night, my mother was watching "While You Were Sleeping", and I was feeling so depressed I was wondering what would happen if I ended up like Sandra Bullock at the start of the movie &#8212; alone, and working a dead end job as a ticket seller. Sigh
 
 It's not just the fact that I'm still unemployed &#8212; it's been a good nine months now and I've kinda gotten used to that. It's the realization that despite whatever work I've done in school, I can't get a job. It's as if everything I learned in college was useless.
 
@@ -47,7 +47,7 @@ In any case, I guess I have no choice but to keep going and hope for the best. I
 
 > _
   
-> "I know now I have to keep on breathing. Because the sun will rise tomorrow, and you never know what the tide will bring.&#8221;
+> "I know now I have to keep on breathing. Because the sun will rise tomorrow, and you never know what the tide will bring."
   
 >_
 

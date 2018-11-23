@@ -17,7 +17,7 @@ Towards the start of the year, I told myself I should throw out/get rid of/dispo
 
 Why do we keep around all this old stuff we don't need?
 
-Part of it may be from a mentality of scarcity &#8211; we don't want to throw away stuff for fear of finding out that we may need it later. But reasonably, if you haven't used a thing in years, maybe you'll never use it and even if you had need of one, how difficult would it be to find one again? Some kind of pack rat mentality. I know a few of my friends who would be very familiar with this.
+Part of it may be from a mentality of scarcity -- we don't want to throw away stuff for fear of finding out that we may need it later. But reasonably, if you haven't used a thing in years, maybe you'll never use it and even if you had need of one, how difficult would it be to find one again? Some kind of pack rat mentality. I know a few of my friends who would be very familiar with this.
 
 Other things we keep around for some sort of nostalgia or as keepsakes of other people and faraway places. That's fine I suppose, but maybe one shouldn't put too much value in things that don't actually have them. Case in point: I have a bunch of rocks here from different countries I visited in Europe, haha. Pictures, letters, and other personal keepsakes one might consider digitizing and storing in the cloud.
 

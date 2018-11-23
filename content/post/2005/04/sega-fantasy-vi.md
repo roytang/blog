@@ -15,6 +15,6 @@ SegaFantasyVI
 
 I was about 20 seconds away from being late for work this morning. And this flash video is why.
 
-(Click "New Game&#8221; to view the whole thing.)
+(Click "New Game" to view the whole thing.)
 
  [1]: http://www.hcn.zaq.ne.jp/cabic508/rsf/frame1.html

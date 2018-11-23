@@ -8,7 +8,7 @@ type: post
 url: /2016/09/investigating-the-drug-killings/
 ---
 
-It's no secret that many are unhappy with the way the congressional investigations into the so-called "drug war&#8221; and related killings here in the Philippines. If I were in charge of these investigations, these are the some of the questions I'd want answered:
+It's no secret that many are unhappy with the way the congressional investigations into the so-called "drug war" and related killings here in the Philippines. If I were in charge of these investigations, these are the some of the questions I'd want answered:
 
 (Disclaimers: I'm not a lawyer or any kind of expert. Understandably, the resource persons may be reluctant to answer some of these in open session, in which case an executive session could be done. Some may have already been asked/answered during the hearings and I just missed them as I do not watch all the sessions live. Additional or different sets of resource persons may need to be called upon)
 
@@ -20,12 +20,12 @@ Drug war and prevalence:
   * Where does this data come from?
   * How does the prevalence compare with previous years and administrations?
   * How does the prevalence (per capita) compare with other countries, particularly those with similar economic levels?
-  * What are the sources of intel that leads to the "drug watchlists&#8221;?
-  * What are the sources of intel that lead to the president's "narco-list&#8221;?
+  * What are the sources of intel that leads to the "drug watchlists"?
+  * What are the sources of intel that lead to the president's "narco-list"?
   * How do our tactics in this drug war compare to those of other countries with similar programs? Which of those countries have been successful?
   * Do we have data on the prevalence of drug usage during the president's term in Davao? Have the harsh methods proven to be effective?
-  * Do we have any updated data since the "drug war&#8221; began? Has the drug prevalence gone down?
-  * Do we have any quantifiable target for the "drug war&#8221;? When do we declare success? Can we receive regular updates?
+  * Do we have any updated data since the "drug war" began? Has the drug prevalence gone down?
+  * Do we have any quantifiable target for the "drug war"? When do we declare success? Can we receive regular updates?
 
 Drug surrenderees:
 
@@ -36,11 +36,11 @@ Drug surrenderees:
   * Have any of the surrenderees later been found to still be involved in drug operations?
   * There are reports of people mistakenly added to these surrenderee lists or forced to come forward, are the police investigating them?
 
-Suspects killed during police operations ("nanlaban&#8221;):
+Suspects killed during police operations ("nanlaban"):
 
   * How many drug-related operations have the police conducted? How does this rate compare with previous years and administrations?
   * How many suspects are killed vs arrested? How does this rate compare with previous years and administrations?
-  * How do the above rates compare with other countries, particularly those with similar drug prevalence rates? How does it compare with other countries that have ongoing "drug wars&#8221;?
+  * How do the above rates compare with other countries, particularly those with similar drug prevalence rates? How does it compare with other countries that have ongoing "drug wars"?
   * How many cases of suspects killed during police operations are under investigation? Who conducts the investigations? Do they have enough resources?
   * What are the rules of engagement during police operations? Are all officers given the proper training re: these rules?
   * Are there any resources or other things that could be provided to the police to help minimize unnecessary loss of life?
@@ -50,7 +50,7 @@ Suspects killed during police operations ("nanlaban&#8221;):
   * Do we have data on the incidence rate of police killings during the president's term in Davao? How did it compare to other areas?
   * If relatives of those killed suspect foul play, who can they turn to? Most of them will be poor with limited resources, do we need to provide them legal assistance?
 
-Suspects killed while in custody (mainly "nang-agaw ng baril&#8221;):
+Suspects killed while in custody (mainly "nang-agaw ng baril"):
 
   * How many suspects have been killed while in custody (compared with arrests)? How does this rate compare with previous years and administrations?
   * What is the protocol or procedure for officers handling suspects in custody? Are there any procedures to prevent the suspect being able to grab officers' weapons? Are all officers given the proper training re: these rules?
@@ -58,12 +58,12 @@ Suspects killed while in custody (mainly "nang-agaw ng baril&#8221;):
   * Are the involved officers under any sort of administrative or criminal liability for carelessness in such situations?
   * Do we have data on the incidence rate of suspects killed in custody during the president's term in Davao? How did it compare to other areas?
 
-Non-suspects killed during any sort of police operations ("collateral damage&#8221;):
+Non-suspects killed during any sort of police operations ("collateral damage"):
 
   * Are there any such incidents?
   * In case there are such incidents, are the involved officers under any sort of administrative or criminal liability? Is there any automatic investigation or counseling for the officers involved?
 
-Vigilante killings ("cardboard killings&#8221; and riding-in-tandem killings):
+Vigilante killings ("cardboard killings" and riding-in-tandem killings):
 
   * How many such incidents have been recorded and are under investigation by the police?
   * What are the statuses of these investigations? What priority is given by to these cases?

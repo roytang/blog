@@ -11,7 +11,7 @@ url: /2009/04/ssc-draft-at-arb-quotprereleasequot/
 
 As any Filipino player can tell you, local prereleases had to be postponed due to some problems with customs. Since NG had already rented out the space for the prerelease at Galleria, they went ahead and held some constructed events + drafts for people who came, and graciously gave out freebies to those disappointed would-be prereleasers. Kudos to NG for handling the situation well.
 
-I lent out my 5cc deck for a friend to play, and went SSC drafting instead. I opened a crappy pack and just took removal &#8211; [Skeletonize][1] then second pick [Executioner's Capsule][2] hoping to go Jund. The black dried up though, so I went Naya instead. I drafted no money, really just building something I could play. The guy to my left drafted like 2 mythic rares, four normal rares lol.
+I lent out my 5cc deck for a friend to play, and went SSC drafting instead. I opened a crappy pack and just took removal -- [Skeletonize][1] then second pick [Executioner's Capsule][2] hoping to go Jund. The black dried up though, so I went Naya instead. I drafted no money, really just building something I could play. The guy to my left drafted like 2 mythic rares, four normal rares lol.
 
 Here's my draft deck:
 

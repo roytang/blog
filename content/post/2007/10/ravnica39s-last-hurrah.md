@@ -36,4 +36,4 @@ Boo. I should never have listened to that Dark Confidant.
 
 Farewell Ravnica. Begone Lightning Helix! Begone Remand! It was fun, but time for something new.
 
-Next week: GPT Bangkok &#8211; Lorwyn Sealed.
+Next week: GPT Bangkok -- Lorwyn Sealed.

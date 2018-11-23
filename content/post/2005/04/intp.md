@@ -10,7 +10,7 @@ url: /2005/04/intp/
 
 > The Thinker
 > 
-> You are analytical and logical &#8211; and on a quest to learn everything you can.
+> You are analytical and logical -- and on a quest to learn everything you can.
   
 > Smart and complex, you always love a new intellectual challenge.
   

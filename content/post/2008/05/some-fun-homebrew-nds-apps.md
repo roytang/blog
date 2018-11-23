@@ -18,7 +18,7 @@ I was neglecting the NDS a bit, so I decided to look for some fun homebrew stuff
     
 ][1] 
     
-    &#8211; a neat little toy app that allows you to draw diagrams on the touch screen that would then become affected by physics. It's a bit like a free-form
+    -- a neat little toy app that allows you to draw diagrams on the touch screen that would then become affected by physics. It's a bit like a free-form
     
     [
      
@@ -33,14 +33,14 @@ I was neglecting the NDS a bit, so I decided to look for some fun homebrew stuff
     
 ][3] 
     
-    &#8211; a painting/sketching app for the DS, you can create images that have a painting feel to them 
+    -- a painting/sketching app for the DS, you can create images that have a painting feel to them 
   * [
      
     ScummVM DS
     
 ][4] 
     
-    &#8211; SCUMM was the adventure-game engine that drove a lot of the point-and-click adventure games of the 80s such as the Monkey Island and Maniac Mansion games. Provided you have a copy of those games, ScummVM DS allows you to play all those old games on your DS! 
+    -- SCUMM was the adventure-game engine that drove a lot of the point-and-click adventure games of the 80s such as the Monkey Island and Maniac Mansion games. Provided you have a copy of those games, ScummVM DS allows you to play all those old games on your DS! 
 
 
    

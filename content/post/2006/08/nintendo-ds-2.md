@@ -17,9 +17,9 @@ _
    
 .
 
-Since we've been putting in a lot of long hours at work lately, one of our developers had the bright idea to bring his DS to the office. Now, whenever one has idle time, one of the first questions is, "Hey, where's the DS?&#8221;
+Since we've been putting in a lot of long hours at work lately, one of our developers had the bright idea to bring his DS to the office. Now, whenever one has idle time, one of the first questions is, "Hey, where's the DS?"
 
-My experience with the DS is unfortunately limited to just one cart &#8211; New Super Mario Bros. The funnest thing about New Super Mario Bros. is the buttload of minigames that comes with it. Even though we only had one DS to share among roughly fifty people, we kept passing it around trying to beat the minigame high scores.
+My experience with the DS is unfortunately limited to just one cart -- New Super Mario Bros. The funnest thing about New Super Mario Bros. is the buttload of minigames that comes with it. Even though we only had one DS to share among roughly fifty people, we kept passing it around trying to beat the minigame high scores.
 
 Then a second developer decided to bring his DS to the office&#8230;and lo and behold, we were exposed to the DS' wireless networking capabilities. Now, we get to waste two people's time simultaneously via head-to-head minigames!
 

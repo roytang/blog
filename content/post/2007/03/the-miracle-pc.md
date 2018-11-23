@@ -21,7 +21,7 @@ I have no idea if I need to do any sort of diagnostics on this machine.
 ### Comment by [Arthur Abon](http://arthur-abon-resume.atspace.com/) on 2007-03-22 00:28:00 +0000
 Scan for malware perhaps? Sounds like something was trying to hide a dll and
   
-the boot sector from the OS to me &#8211; of course I could just be paranoid.
+the boot sector from the OS to me -- of course I could just be paranoid.
 
 ### Comment by [Roy](http://roytang.net/blog) on 2007-03-22 08:42:32 +0000
 Nah, I found it really it was bad memory. (The mem test that came with Ubuntu

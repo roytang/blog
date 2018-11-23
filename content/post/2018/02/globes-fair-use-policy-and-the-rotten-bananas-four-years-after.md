@@ -9,19 +9,19 @@ type: post
 url: /2018/02/globes-fair-use-policy-and-the-rotten-bananas-four-years-after/
 ---
 
-Around four years ago (give or take a few days), one of my many Twitter interactions with Globe Telecom's CS account went a little bit viral due to them trying to justify their Fair Use Policy by calling 3% of their users "rotten bananas&#8221;. Apparently I didn't bother writing on the blog about it back then, so I thought I'd do it now.
+Around four years ago (give or take a few days), one of my many Twitter interactions with Globe Telecom's CS account went a little bit viral due to them trying to justify their Fair Use Policy by calling 3% of their users "rotten bananas". Apparently I didn't bother writing on the blog about it back then, so I thought I'd do it now.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="GiJBHdX">
   <a href="https://imgur.com/GiJBHdX">View post on imgur.com</a>
 </blockquote>
 
-The exchange went a tiny bit viral on social media, with friends telling me about people I don't know sharing the image of the conversation on Facebook and Twitter. (I'm not sure if it was the exact same image above.). Even today, if you [Google &#8216;Globe "rotten bananas&#8221;][1]&#8216; you still get [a few relevant hits.][2]
+The exchange went a tiny bit viral on social media, with friends telling me about people I don't know sharing the image of the conversation on Facebook and Twitter. (I'm not sure if it was the exact same image above.). Even today, if you [Google &#8216;Globe "rotten bananas"][1]&#8216; you still get [a few relevant hits.][2]
 
 I believe the CS account eventually deleted the offending tweets, I can only see my own tweets on the matter:
 
 {{< tweet 431649435047583745 >}}
 
-Today, Globe Telecom no longer offers any plans with "unlimited data&#8221;, as far as I know. I feel like I can claim some nontrivial responsibility in that decision, but it doesn't seem like something to be proud of.
+Today, Globe Telecom no longer offers any plans with "unlimited data", as far as I know. I feel like I can claim some nontrivial responsibility in that decision, but it doesn't seem like something to be proud of.
 
 I myself had resisted shifting to a new plan for a while (so I can carry over my unlimited data), but eventually had to shift to a 3gb capped plan because I wanted to get my mom a new phone on the cheap. They do offer unlimited data for their new fiber home broadband plans, for around 30% higher monthly fees than the capped plans.
 

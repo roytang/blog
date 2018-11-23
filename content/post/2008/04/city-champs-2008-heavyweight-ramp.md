@@ -120,7 +120,7 @@ Round 1: BG Elves
 
 Game one goes long, he stalls the ground with a lot of elves while I'm holding him off with Walls and Colossi. I'm at 9 and a Troll Ascetic with a Warhammer has gotten him to 36. After burning 3 Harmonizes I finally get a Sulfurous blast and wipe his side, going down to six. Unfortunately, the the Ascetic and 2 Treetop Villages survived, making it too dangerous to counterattack. I already have a Disintegrate in hand, so I just need to wait for the Hostility to win the game with. Unfortunately, he draws Profane Command before I draw Hostility.
 
-Game two he has no blockers on turn two so I foolishly send in the Treetop, which of course gets sent to the &#8216;yard via Nameless Inversion. I stall on land afterwards and never recover. Funny, I remember another Green player making the exact same mistake against me on turn 2 when I used to play Mannequin &#8211; I need to learn from my opponents' mistakes as well.
+Game two he has no blockers on turn two so I foolishly send in the Treetop, which of course gets sent to the &#8216;yard via Nameless Inversion. I stall on land afterwards and never recover. Funny, I remember another Green player making the exact same mistake against me on turn 2 when I used to play Mannequin -- I need to learn from my opponents' mistakes as well.
 
 0-2 games, 0-1 matches (Not a good start obviously)
 
@@ -156,7 +156,7 @@ Wow! This is the matchup I was prepared for! I should totally dominate this.
 
 Obviously, my lack of play testing killed me here.
 
-Game one I cleared his Faeries with spot removal, then when the coast was clear, inexplicably decided to hardcast a Cloudthresher ("Now it's my turn to attack!&#8221;) Of course he played the Sower, and I was out of burn. Trying to go aggro when I was obviously the control in this matchup&#8230;&#8221;Misassignment of role = game loss&#8221;
+Game one I cleared his Faeries with spot removal, then when the coast was clear, inexplicably decided to hardcast a Cloudthresher ("Now it's my turn to attack!") Of course he played the Sower, and I was out of burn. Trying to go aggro when I was obviously the control in this matchup&#8230;"Misassignment of role = game loss"
 
 Game two I played a bit better, and the game went long, but I still lost to a misplay. I needed to play a 3 damage burn spell so that Bitterblossom would kill him, and having both Incinerate and Sulfurous Blast in my hand, I went for the greedy blast, hoping to clear away the Faeries on board as well. Of course I then got hit by an Rune Snag that I could've paid for if I had played the Incinerate instead! I got too greedy and didn't think it through&#8230;clearing the Faeries on board wouldn't have mattered as long as I won the game.
 
@@ -206,7 +206,7 @@ My third Faeries matchup today. I easily win game one due to the 6 board sweeper
 
 Game two I mulligan to five and fall to 2 life before I can muster a good defense. At two life, Threshers and Blasts are useless, so on to game three.
 
-My first game three! We trade blows and go long, eventually I'm at 7 and he's at 8. I have six lands and am holding both Incinerate and Disintegrate, so I can kill him by EOT 3 damage and Sorcery-speed 5 damage, but I'm afraid of Rune Snag so I wait. Eventually, he resolves a Mistbind Clique that teams up with Conclaves to kill me. After the game he tells me that he boarded out the Rune Snags &#8211; apparently it's a common tactic vs Mana Ramp, something I would have known if I had bothered to do any research on the deck at all.
+My first game three! We trade blows and go long, eventually I'm at 7 and he's at 8. I have six lands and am holding both Incinerate and Disintegrate, so I can kill him by EOT 3 damage and Sorcery-speed 5 damage, but I'm afraid of Rune Snag so I wait. Eventually, he resolves a Mistbind Clique that teams up with Conclaves to kill me. After the game he tells me that he boarded out the Rune Snags -- apparently it's a common tactic vs Mana Ramp, something I would have known if I had bothered to do any research on the deck at all.
 
 11-6 games, 5-3 matches
 

@@ -11,7 +11,7 @@ url: /2006/04/del-icio-us-bookmarks-for-2006-04-14/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang][2] on 2006-04-14
 
-  * [YouTube &#8211; darth vader police japan
+  * [YouTube -- darth vader police japan
   
 ][3] &#8212;
   

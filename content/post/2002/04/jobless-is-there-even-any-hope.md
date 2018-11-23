@@ -16,7 +16,7 @@ Yes, my friends, it is a job fair. Hopeful job-seekers from all over the capital
 
 Here's one, an engineering job, sounds promising. Oh, it's in Bulacan, a good three hours away from home. No thanks. Hmm, there's an opening in this Japanese company. Wait, I already applied for that a couple of months ago. How about a teaching job at some technical college? No thanks, there are better schools out there for me to teach at.
 
-I chuckle at my own audacity. For someone who had been unemployed for a good six months now I was being extremely picky. How many job applications had I botched over the past six months? At least three that sounded promising. And for no apparent reason aside from the vague "I wouldn't like it there&#8221; or "It's not the right job for me.&#8221; Sometimes I wonder what it is I really want.
+I chuckle at my own audacity. For someone who had been unemployed for a good six months now I was being extremely picky. How many job applications had I botched over the past six months? At least three that sounded promising. And for no apparent reason aside from the vague "I wouldn't like it there" or "It's not the right job for me." Sometimes I wonder what it is I really want.
 
 Or maybe that's the problem. For someone who spent the last few years of his engineering studies whining about how he should have shifted to another course, I had no real idea about what it was I wanted to do. Well, no practical idea at least. I know I eventually want to work in interactive entertainment software (read: computer games), but that's not really a plausible option right now. Aside from that, nothing. I have no idea where to go or how to get there.
 

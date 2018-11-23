@@ -12,13 +12,13 @@ I wonder if the Catholic Church considers piracy as a sin&#8230;at least one tha
 
 Yeah, I go to confession. Once a year, around the Holy Week period usually. Once a year is the minimum frequency required by the Catholic Church, but I wonder how many observe it?
 
-Many parishes in busy Metro Manila hold a "Kumpisalang Bayan&#8221; (er&#8230;I'd say "Mass Confessional&#8221;, Mass as in lots of people, would be a reasonable translation) around the Holy Week period, where several priests receive confessions from any and all comers. Problem is that there's always a queue for each priest. Here's a tip: Choose the queue with the least number of old people, especially old women. Old women seem to take the longest time for some reason.
+Many parishes in busy Metro Manila hold a "Kumpisalang Bayan" (er&#8230;I'd say "Mass Confessional", Mass as in lots of people, would be a reasonable translation) around the Holy Week period, where several priests receive confessions from any and all comers. Problem is that there's always a queue for each priest. Here's a tip: Choose the queue with the least number of old people, especially old women. Old women seem to take the longest time for some reason.
 
-If I were writing a webcomic, one of the characters would go to confession, and the priest would give him an unreasonable penance, something like "Recite the Our Father ten thousand times&#8221;, and the guy would go like
+If I were writing a webcomic, one of the characters would go to confession, and the priest would give him an unreasonable penance, something like "Recite the Our Father ten thousand times", and the guy would go like
 
 > <% for (int i = 0; i < 10000; i++) { %>
   
-> Our Father who art in heaven&#8230;&#8221;
+> Our Father who art in heaven&#8230;"
   
 > <% } %>
 

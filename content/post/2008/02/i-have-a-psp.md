@@ -7,7 +7,7 @@ type: post
 url: /2008/02/i-have-a-psp/
 ---
 
-Bought one last week, had not had time to log it until now. It was not so much planned and maybe a bit more of an impulse buy. Something like a cellphone conversation with my brother who's standing in a store in Singapore pressuring me with "Well? Should I buy one or not?&#8221; I don't like pressure, so obviously I just said, "Ok, whatever!&#8221;
+Bought one last week, had not had time to log it until now. It was not so much planned and maybe a bit more of an impulse buy. Something like a cellphone conversation with my brother who's standing in a store in Singapore pressuring me with "Well? Should I buy one or not?" I don't like pressure, so obviously I just said, "Ok, whatever!"
 
 The inevitable question arises: which one is better, PSP or NDS? A friend asked me if they have different types of games, and I tell her that the NDS has more fun/casual games, while the PSP has more action-oriented stuff. So I guess it really depends on your taste.
 
@@ -31,7 +31,7 @@ is available on the PSP with rewritten dialogue, added characters and added batt
    
 **
     
-Ace Attorney 4 &#8211; Apollo Justice
+Ace Attorney 4 -- Apollo Justice
    
 ** 
    
@@ -63,6 +63,6 @@ Final Fantasy
    
 ** 
    
-, but the PSP can possibly bring me back into that fold. PSX-style games on a handheld is huge, as one of the biggest drawbacks of playing on a console was needing to be stuck in front of a television to play those games. Amusingly, most of the games I have on the PSP now are ports/remakes of Playstation-era (or earlier!) games, which shows my preference for older games. I'm not even aware of what other games are available now &#8211; FF Tactics takes up way too much of my mindspace.
+, but the PSP can possibly bring me back into that fold. PSX-style games on a handheld is huge, as one of the biggest drawbacks of playing on a console was needing to be stuck in front of a television to play those games. Amusingly, most of the games I have on the PSP now are ports/remakes of Playstation-era (or earlier!) games, which shows my preference for older games. I'm not even aware of what other games are available now -- FF Tactics takes up way too much of my mindspace.
 
 I need to go play some more&#8230;

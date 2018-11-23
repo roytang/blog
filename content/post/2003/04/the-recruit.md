@@ -19,7 +19,7 @@ The story is simple enough. Colin Farell plays James Clayton, a young man just 
   
 chick who may or may not be a double agent, but definitely has the hots for him. The three of them expectedly get involved a complicated plot involving double agents, unofficial operatives and the standard amount of secret agent sex.
 
-The best parts of the movie involve the CIA training. We get a glimpse into the kind of psychological warfare business they teach the recruits at the training centre affectionately called "The Farm.&#8221; Here Al Pacino does what he does, drilling his principles into his students: "Trust no one.&#8221;; "Nothing is what is seems.&#8221;, and "Everything is a test.&#8221;
+The best parts of the movie involve the CIA training. We get a glimpse into the kind of psychological warfare business they teach the recruits at the training centre affectionately called "The Farm." Here Al Pacino does what he does, drilling his principles into his students: "Trust no one."; "Nothing is what is seems.", and "Everything is a test."
 
 The weakest part has to be the character of James Clayton himself. The character of Leila puts it best: Why the hell does James feel like doing anything he can to please Burke? James never has any real motivation for following Burke like he was the Messiah. Aside from that mysterious star on the CIA wall at Langley (which may or may not be related to his father), there is nothing stopping James from just calling it quits and heading home. Hell, I wouldn't have wanted to go through that training,
   

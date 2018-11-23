@@ -120,9 +120,9 @@ Unfortunately, things did not go well for our hero. Tournament report follows.
 
 <!--more-->
 
-Since I usually arrive at Galleria early, I spent a couple of hours waiting for the round to start and watch the people playtesting. I saw a lot of green decks which worried me &#8211; particularly Wilt-Leaf Liege. I haven't played Standard since before the Grand Prix &#8211; I had no idea what was the local metagame coming in.
+Since I usually arrive at Galleria early, I spent a couple of hours waiting for the round to start and watch the people playtesting. I saw a lot of green decks which worried me -- particularly Wilt-Leaf Liege. I haven't played Standard since before the Grand Prix -- I had no idea what was the local metagame coming in.
 
-I lost round one to a mirror match in two games. It was close, as I lost both games with him at 1 life. I almost won game two when he played two Incinerates during his turn to finish me from six life. I had the Wild Ricochet for the second Incinerate, bringing him down to two. He has one card left in hand and is tapped out and I have four lands and Hell's Thunder in the yard. Any burn spell or land I draw wins me the match. I draw a land and play it and announce "Unearth Hell's Thunder.&#8221; He wants to call a judge because he's not sure of what he's about to do. He shows me the Faerie Macabre in hand and even though the judge is still coming I already know I've lost.
+I lost round one to a mirror match in two games. It was close, as I lost both games with him at 1 life. I almost won game two when he played two Incinerates during his turn to finish me from six life. I had the Wild Ricochet for the second Incinerate, bringing him down to two. He has one card left in hand and is tapped out and I have four lands and Hell's Thunder in the yard. Any burn spell or land I draw wins me the match. I draw a land and play it and announce "Unearth Hell's Thunder." He wants to call a judge because he's not sure of what he's about to do. He shows me the Faerie Macabre in hand and even though the judge is still coming I already know I've lost.
 
 After the match I asked him for tips on how to play the deck and he told me he just plays out Blightning as soon as possible, whereas I was sandbagging it and playing creatures first.
 

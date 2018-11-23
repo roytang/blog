@@ -26,9 +26,9 @@ I have to admit that I posted this there hoping to incite some discussion and fi
 
 More thoughts:
 
-EDSA Revolution (1986) &#8211; I was of course too young to remember the events&#8230;except for the fact that my favorite cartoons kept getting cancelled for some reason. But what I've read tells a story of a time of turbulence and despair such that there was no other way for people to regain their individual freedoms than to take to the streets and claim it back. I cannot personally attest to the factuality of the such narrations, since history is of course written by the winners. Hence, I do not presume to compare the current time to the events of twelve years ago.
+EDSA Revolution (1986) -- I was of course too young to remember the events&#8230;except for the fact that my favorite cartoons kept getting cancelled for some reason. But what I've read tells a story of a time of turbulence and despair such that there was no other way for people to regain their individual freedoms than to take to the streets and claim it back. I cannot personally attest to the factuality of the such narrations, since history is of course written by the winners. Hence, I do not presume to compare the current time to the events of twelve years ago.
 
-EDSA 2 (2001) &#8211; Whereas EDSA 1 was an outcry to regain lost freedoms, EDSA 2 was an outcry against corruption. Personally, I did not participate in EDSA 2. Sure, at some point I felt the fever, that wave of indignation rushing through the nation when Erap's goons tried to prevent impeachment, and I _almost _
+EDSA 2 (2001) -- Whereas EDSA 1 was an outcry to regain lost freedoms, EDSA 2 was an outcry against corruption. Personally, I did not participate in EDSA 2. Sure, at some point I felt the fever, that wave of indignation rushing through the nation when Erap's goons tried to prevent impeachment, and I _almost _
   
 went there. (Of course I didn't on account of being lazy.) But afterwards, I felt not too satisfied with the outcome. Maybe it's just because [I'm Lawful Good][1], but somehow I was not entirely happy that the institutions established by law (impeachment) failed us and we had to go to the streets again to correct the course of our beleaguered country. But I went with it, I figured that we would learn from this mistake and be more vigilant, and we would never have to do it again.
 
@@ -46,6 +46,6 @@ I'm not yet convinced that GMA's resignation is a moral imperative. And it seems
 
 Personally, I want our institutions to work. I want change to be effected without having to go out on the streets every time. I want the Senate hearings to push through and conclude, for legislation to be enacted to remove whatever loopholes allow the abuses of the GMA administration. I want charges brought before the courts (surely at the very least Abalos can be charged), and I want the law to take it's course. I want the people to be educated so that we can elect better leaders.
 
-We have a government for a reason. While citizens have their part to play, we shouldn't have to go out on the streets to have change. Doing so is an indication of failure not only on the part of the president, but on all our institutions &#8211; the Senate and the courts included.
+We have a government for a reason. While citizens have their part to play, we shouldn't have to go out on the streets to have change. Doing so is an indication of failure not only on the part of the president, but on all our institutions -- the Senate and the courts included.
 
  [1]: http://roytang.net/blog/2008/02/im-lawful-good/

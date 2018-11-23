@@ -14,7 +14,7 @@ After around 30 minutes of struggling with the unintuitiveness and some helpful 
 
 1. Turn on Bluetooth on the Acer Aspire using the Bluetooth button.
 
-2. Right-click the Bluetooth icon on the systray -> Show Bluetooth Devices -> Options -> tick "Allow Bluetooth devices to find this computer&#8221;
+2. Right-click the Bluetooth icon on the systray -> Show Bluetooth Devices -> Options -> tick "Allow Bluetooth devices to find this computer"
 
 3. Enable Bluetooth on the N73 via menu -> Tools -> Bluetooth
 
@@ -24,13 +24,13 @@ After around 30 minutes of struggling with the unintuitiveness and some helpful 
 
 6. Back to the Vista PC, right-click the Bluetooth icon in the systray, then choose Add Device.
 
-7. Tick "My device is set up and ready to be found.&#8221; and click Next.
+7. Tick "My device is set up and ready to be found." and click Next.
 
 8. The wizard should list your phone. Choose the phone and click Next.
 
-9. Tick "Let me choose my own passkey&#8221;, and type a passkey.
+9. Tick "Let me choose my own passkey", and type a passkey.
 
-10. You get the message to "Please enter the passkey on your Bluetooth device now&#8221;, so do just that.
+10. You get the message to "Please enter the passkey on your Bluetooth device now", so do just that.
 
 11. The bluetooth connection should be all set up, to send a file to your N73, right-click the bluetooth icon and click Send a file
 

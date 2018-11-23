@@ -8,13 +8,13 @@ type: post
 url: /2016/06/everyone-is-biased/
 ---
 
-_Grammar note: "Biased&#8221; is an adjective. "Bias&#8221; is a noun. It is not appropriate to say that a person or an entity "is bias&#8221;. Unless you are talking to like a prejudice elemental or something (takes note of that for hypothetical hipster RPG)_
+_Grammar note: "Biased" is an adjective. "Bias" is a noun. It is not appropriate to say that a person or an entity "is bias". Unless you are talking to like a prejudice elemental or something (takes note of that for hypothetical hipster RPG)_
 
-In a (long-winded) discussion during the recent election period, someone told me that I "obviously had a bias&#8221; and my answer was "Of course I do! Everyone does!&#8221; People have different histories and backgrounds which means for any given topic they are likely to start from different points. These biases are perfectly okay and healthy and they're called opinions. (Cue quote about opinions being like assholes). Example: I'm not in favor of the death penalty therefore I'm biased against candidates that want to promote it
+In a (long-winded) discussion during the recent election period, someone told me that I "obviously had a bias" and my answer was "Of course I do! Everyone does!" People have different histories and backgrounds which means for any given topic they are likely to start from different points. These biases are perfectly okay and healthy and they're called opinions. (Cue quote about opinions being like assholes). Example: I'm not in favor of the death penalty therefore I'm biased against candidates that want to promote it
 
 Although we are all entitled to our own opinions, many times we are called upon to make objective judgments. Common examples are jury trials, elections, or when you're a judge in some contest. During these instances we have to be careful to weigh our own biases and opinions objectively to make sure we are giving a fair judgment
 
-What you do need to note is when you become subject to [cognitive biases][1] &#8211; unconscious, automatic influences on human judgment and decision making that reliably produce reasoning errors. **Be wary of your own cognitive biases** and try to mitigate or compensate for them in your reasoning
+What you do need to note is when you become subject to [cognitive biases][1] -- unconscious, automatic influences on human judgment and decision making that reliably produce reasoning errors. **Be wary of your own cognitive biases** and try to mitigate or compensate for them in your reasoning
 
 Research has also shown that [people have a bias blind spot][2]. This means **we think we are less biased than other people**. This is why it is important to **examine your own arguments** from time to time to see whether you are subject to any of the known cognitive biases. When there is a need to be objective, we need to be extra critical of our own arguments
 

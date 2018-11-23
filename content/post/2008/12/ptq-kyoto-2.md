@@ -247,7 +247,7 @@ The last limited tournament of the season, it was last week, December 20 at Robi
 
 _(The decklist above only lists 39 cards&#8230;not sure what the missing 40th card was )_
 
-The pool was pretty meaty, with lots of removal. Unfortunately, removal doesn't help if you don't draw it. I lost round 2 to an opposing Mycoloth without drawing any of my O-rings. In round 3 I lost in game 3 to mana screw &#8211; I drew a lot of red burn but the mountain didn't come out until I was on my last legs.
+The pool was pretty meaty, with lots of removal. Unfortunately, removal doesn't help if you don't draw it. I lost round 2 to an opposing Mycoloth without drawing any of my O-rings. In round 3 I lost in game 3 to mana screw -- I drew a lot of red burn but the mountain didn't come out until I was on my last legs.
 
 Round 1: 2-1 win
   

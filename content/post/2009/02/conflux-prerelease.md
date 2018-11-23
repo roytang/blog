@@ -288,7 +288,7 @@ Usually I have to register an awesome pool and then get passed a mediocre one. I
 
 _I need to find a way to format these decklists better&#8230;_
 
-The deck's plan was basically early game skirmish with small exalted guys, use [Wall of Reverence][1] to survive midrange before I let loose with huge 5-power and up fatties. Oh, and hitting a turn 3 Woolly Thoctar is pretty good too &#8211; which I managed to do in all of the rounds I won. I _really_ wanted to use the [Maelstrom Archangel][2] but sadly there was not enough support.
+The deck's plan was basically early game skirmish with small exalted guys, use [Wall of Reverence][1] to survive midrange before I let loose with huge 5-power and up fatties. Oh, and hitting a turn 3 Woolly Thoctar is pretty good too -- which I managed to do in all of the rounds I won. I _really_ wanted to use the [Maelstrom Archangel][2] but sadly there was not enough support.
 
 **Round 1**
 
@@ -312,11 +312,11 @@ Game one goes long, as we both have answers to each others threats, and I had ga
 
 I hated having the stupid 1/1s stuck in my hand so I sideboarded with: -2 [Aven Squire][11], -1 [Sighted-Caste Sorcerer][12], -1 [Akrasan Squire][13], +2 [Celestial Purge][14], +1 [Savage Hunger][15], +1 [Dark Temper][16], going into a more controllish build.
 
-Game two, I have a forest and a plains and a [Woolly Thoctar][5] in my opener, and I dutifully play plains and forest on the first two turns. On the third turn, I announce "Mountain&#8221; before ripping it off the top and playing the third turn Thoctar. He eventually manages to wipe me with [Malfegor][10] again, but I was too far ahead and managed to eke out the win anyway.
+Game two, I have a forest and a plains and a [Woolly Thoctar][5] in my opener, and I dutifully play plains and forest on the first two turns. On the third turn, I announce "Mountain" before ripping it off the top and playing the third turn Thoctar. He eventually manages to wipe me with [Malfegor][10] again, but I was too far ahead and managed to eke out the win anyway.
 
 Game three, I know we're short on time so I try to play quickly. We're trading creatures again, but I manage to stabilize with [Wall of Reverence][1] and [Exuberant Firestoker][17] in play. I need to make a crucial decision when he plays out [Fleshbag Marauder][18] with around two minutes left on the clock (the flight judge was sitting beside us showing us the timer). Keeping the wall helps me live longer, but I had [Godsire][4] in hand and the Exuberant meant I just needed to wait for two more lands, so I sac the wall, playing to win.
 
-Sure enough, with barely seven seconds left on the clock, I rip the seventh land, play the [Godsire][4] and say "End of turn, you take two from Exuberant, go!&#8221;. That drops him to 15 and gives me three extra turns to end it with the Godsire. He thinks real hard on his turn, then lays down [Spearbreaker Behemoth][3] to stand in the way. I untap in the first extra turn and show him the last card in my hand &#8211; [Oblivion Ring][6]. His Behemoth goes bye-bye and I deal nine damage in the red zone, plus two damage from the Exuberant, dropping him to four. He untaps, draws his card, shakes his head and offers the handshake. 
+Sure enough, with barely seven seconds left on the clock, I rip the seventh land, play the [Godsire][4] and say "End of turn, you take two from Exuberant, go!". That drops him to 15 and gives me three extra turns to end it with the Godsire. He thinks real hard on his turn, then lays down [Spearbreaker Behemoth][3] to stand in the way. I untap in the first extra turn and show him the last card in my hand -- [Oblivion Ring][6]. His Behemoth goes bye-bye and I deal nine damage in the red zone, plus two damage from the Exuberant, dropping him to four. He untaps, draws his card, shakes his head and offers the handshake. 
 
 That game was a rush&#8230;
 

@@ -14,6 +14,6 @@ Well I finally decided to start a full-blown web journal. I used to keep one som
 
 Anyway, I decided to make over this site because nothing much of anything else has been happening around here lately. With Mon in town, the two of us and David have been spending every other day at David's wonderful airconditioned room playing Capcom vs SNK 2 and Final Fantasy X. Mon mentioned that modded PS2's are now able to play copied PS1 discs, so it's probably a good time to buy one now. Assuming of course, that I have cash.
 
-I'm still for the most part unemployed. Oh who am I kidding, I'm still a bum. Or "employment challenged.&#8221; Whatever. At least Mon and David aren't working either. =P I really need a job &#8212; seeing as how I really want both a new computer and a PS2. In fact, I'm already seriously considering a call center job, however dead-end it may seem.
+I'm still for the most part unemployed. Oh who am I kidding, I'm still a bum. Or "employment challenged." Whatever. At least Mon and David aren't working either. =P I really need a job &#8212; seeing as how I really want both a new computer and a PS2. In fact, I'm already seriously considering a call center job, however dead-end it may seem.
 
 Another time.

@@ -1275,7 +1275,7 @@ This draft converter created by [Benjamin Peebles-Mundy][1].
   
 Visit the [draft converter][2] today!
 
-I thought the deck was pretty solid, albeit with a bit of a high curve. I won round one versus white green by racing with fliers. I lost round 2 to monoblack &#8211; just got outraced by those dang vamps! I am sad that I never got to cast Sorin Markov =(
+I thought the deck was pretty solid, albeit with a bit of a high curve. I won round one versus white green by racing with fliers. I lost round 2 to monoblack -- just got outraced by those dang vamps! I am sad that I never got to cast Sorin Markov =(
 
  [1]: mailto:ben@mundy.net
  [2]: http://www.zizibaloob.com/

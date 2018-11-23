@@ -39,12 +39,12 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-24
 ][7] &#8212;
   
     Tagged as: quotes
-  * [Gamasutra &#8211; Soapbox &#8211; "World of Warcraft Teaches the Wrong Things&#8221;
+  * [Gamasutra -- Soapbox -- "World of Warcraft Teaches the Wrong Things"
   
 ][8] &#8212;
   
     Tagged as: articles games mmorpgs warcraft
-  * [Ubersite &#8211; The Ultimate MS Paint: It Will Make You Cry
+  * [Ubersite -- The Ultimate MS Paint: It Will Make You Cry
   
 ][9] &#8212;
   

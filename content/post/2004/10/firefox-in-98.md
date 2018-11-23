@@ -23,7 +23,7 @@ Now that you mention it, I don't think I've ever seen the desktop icon for
   
 Firefox. Then again, I keep forgetting if I'm installing Firefox, or just
   
-watered down Mozilla. And I delete most desktop icons anyway &#8211; I already
+watered down Mozilla. And I delete most desktop icons anyway -- I already
   
 clutter it up with downloads whenever the data drives are out of space
   
@@ -45,7 +45,7 @@ spent 26 minutes on 7 or 8 turns. I guess that's why his ranking's low.)
 
 Anyways, I've also tried Yahoo! Bridge and Yahoo! Hearts lately. Too bad
   
-today's the first day of classes in Ateneo &#8211; and next week is the first week
+today's the first day of classes in Ateneo -- and next week is the first week
   
 of UP. I'm finally full-time employed! Woot!
 

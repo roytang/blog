@@ -41,7 +41,7 @@ Morph Labs
    
 ][4] 
    
-, who sponsored the event. I was a bit worried since I'm going in without having a presentation, although everyone is encouraged to present. Turns out I needn't have worried &#8211; over 80 people attended the event, there wouldn't have been enough time for everyone to present!
+, who sponsored the event. I was a bit worried since I'm going in without having a presentation, although everyone is encouraged to present. Turns out I needn't have worried -- over 80 people attended the event, there wouldn't have been enough time for everyone to present!
 
 All in all, the talks were interesting, with a wide range of technical topics discussed involving multiple programming languages including C++, Java, Ruby and Python (with much playful jeering between the many Ruby advocates and the few Java developers). There was even a short comedy sketch by
    
@@ -72,7 +72,7 @@ but it's still no excuse to limit expanding developers' horizons.
   
 Unfortunately the current trend of us moving towards generalization of skills
   
-over specialization pretty much screws up the progress department &#8211; we end up
+over specialization pretty much screws up the progress department -- we end up
   
 with engineers who have a broad range of outdated unpolished skills than
   
@@ -104,7 +104,7 @@ timing right&#8230; and possibly gather surveys or statistics or whatever first 
   
 drive points home.
 
-(Posting about this stuff externally has a different impact &#8211; it hints that
+(Posting about this stuff externally has a different impact -- it hints that
   
 there's already a small group of people initiating changes inside a company
   

@@ -8,7 +8,7 @@ type: post
 url: /2006/12/the-next-generation-of-faqs/
 ---
 
-Something I didn't expect from the Youtube phenomenon: apparently, FAQ writers can now link to instructional videos for difficult to describe game walkthroughs. If you don't have any idea what I mean, an "FAQ&#8221; is a document that helps someone to do a particular thing by providing answers to Frequently Asked Questions. In my case, I most often read FAQs for video games to help through the difficult spots, usually from [GameFAQs
+Something I didn't expect from the Youtube phenomenon: apparently, FAQ writers can now link to instructional videos for difficult to describe game walkthroughs. If you don't have any idea what I mean, an "FAQ" is a document that helps someone to do a particular thing by providing answers to Frequently Asked Questions. In my case, I most often read FAQs for video games to help through the difficult spots, usually from [GameFAQs
   
 ][1] 
   
