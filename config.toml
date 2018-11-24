@@ -31,7 +31,8 @@ disqusShortname = "roytangweblog"
     brand = "Roy Tang"
     topimage = "![Wearing dice on my head since 2008](/uploads/diceonhead.jpg \"Wearing dice on my head since 2008\")"
     topline = "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
-    footline = "stand tall and shake the heavens"
+    footline = "(c) 2018 Roy Tang"
+    featuredImage = "https://roytang.net/uploads/diceonhead.jpg"
 
     # Sidebar position
     # false, true, "left", "right"

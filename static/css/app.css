@@ -30,3 +30,17 @@ table.grid_archive a {
 .feed_container small {
     font-size: 75%; color: gray;
 }
+
+.grid_archive { display: initial; }
+.list_archive { display: none; }
+.topline img { border-radius: 50% }  
+
+@media screen and (max-width: 640px) { 
+    .topline { display: none; }  
+    .grid_archive { display: none; }
+    .list_archive { display: initial; }
+    .main_header {
+        padding-top: 1rem !important;
+        padding-bottom: 1rem !important;
+    }
+}

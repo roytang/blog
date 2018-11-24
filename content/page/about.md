@@ -8,6 +8,8 @@ url: /about
 ---
 **About Roy Tang** 
 
+![Wearing dice on my head since 2008](/uploads/diceonhead.jpg)
+
 Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. [Magic][1] player on weekends. Frustrated writer and sketch artist. Student of life and all-around good guy. On a never-ending quest for awesomeness. I'm a software developer by profession, currently working for [Maroon Studios][2]. I'm not averse to freelance consulting, if you have something interesting for me. I like Python and JavaScript, but I'm always willing to learn new things. 
 
 To contact me, there are some helpful links on the sidebar. Best way is probably Twitter, my DMs are open.

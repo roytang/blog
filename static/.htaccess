@@ -4,5 +4,7 @@ RewriteRule ^tag/(.*)/$ tags/$1/ [R=301,L]
 RewriteRule ^tag/(.*)$ tags/$1/ [R=301,L]
 RewriteRule ^category/(.*)/$ categories/$1/ [R=301,L]
 RewriteRule ^category/(.*)$ categories/$1/ [R=301,L]
+RewriteRule ^blog/(.*)$ $1 [L,R=301]
+RewriteRule ^magic/(.*)$ $1 [L,R=301]
 
 ErrorDocument 404 /404.html
