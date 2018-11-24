@@ -27,15 +27,7 @@ List of games I'm planning (or want) to play:
    
 
    
-5. Everything on the
-   
-[
-    
-Top 20 Indie Adventure Games
-   
-][1] 
-   
-list.
+5. Everything on the [Top 20 Indie Adventure Games][1] list.
 
 Too many games I want to play and not enough time&#8230;the story of every gamer-turned-working-man I suppose. Most of my gaming is done on the NDS these days, though I wish it had even more good games (When is Phantom Hourglass coming out anyway?)
 

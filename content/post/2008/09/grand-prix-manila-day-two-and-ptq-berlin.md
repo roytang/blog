@@ -7,15 +7,8 @@ type: post
 url: /2008/09/grand-prix-manila-day-two-and-ptq-berlin/
 ---
 
-Grand Prix Manila 08 has come and gone and is in the history books. While the
-   
-[
-    
-Wizards official coverage
-   
-][1] 
-   
-gives you the play-by-play and the results, I’ll see if I can’t provide any interesting stories about my first constructed Grand Prix event.
+Grand Prix Manila 08 has come and gone and is in the history books. While the [
+Wizards official coverage][1] gives you the play-by-play and the results, I’ll see if I can’t provide any interesting stories about my first constructed Grand Prix event.
 
 For the PTQ on day two, I decided to just use the Kithkin build we made for Paul, except that I put in Stillmoon Cavaliers maindeck, taking out Knight of Meadowgrain. I also fixed up the sideboard a bit. The list I played:
 
@@ -142,27 +135,11 @@ Tournament record: 5-2. I finished the PTQ in 14th place, good enough to win 4 b
 
 I watched the finals of the Grand Prix of course. The official coverage is okay, but it doesn't capture some of the unique FIlipino elements. Even though I was still playing in the PTQ during the quarters, we immediately knew that Luis Magisa had won his match since every Filipino in the crowd watching literally burst into cheers. Contrast to the lackluster clapping when Magisa lost to a Japanese Faerie player in the semis.
 
-During the awarding ceremony, the crowd was very rowdy, chanting "Burger! Burger!" when Luis Magisa accepted his giant check. (
-   
-[
-    
-Bry would hate that
-   
-][2] 
-   
-.) The winner of the event, Sugaya pandered to the crowd as well, more than willing to pose for photos after accepting his giant check. (His get-up was ridiculous.)
+During the awarding ceremony, the crowd was very rowdy, chanting "Burger! Burger!" when Luis Magisa accepted his giant check. ([Bry would hate that][2].) The winner of the event, Sugaya pandered to the crowd as well, more than willing to pose for photos after accepting his giant check. (His get-up was ridiculous.)
 
 A lot of players were asking name players such as Tomoharu Saito or Raphael Levy to sign some cards for them; I'm not sure if it's good for us to treat them that way. They're Magic celebrities sure, but I don't think their signature adds anything to the cards. It's ok to look up to them for their gameplay or deck ideas or what not, but I don't think we should idolize them or anything -- they're still Magic players like the rest of us, except they're more willing to devote their time to the game.And someday, we're going to have to rise up and challenge their dominance of Magic in the Asia-Pacific region.
 
-That's all for GP Manila, hopefully we can have another big event in the Philippines soon. Props go out to the people at
-   
-[
-    
-Neutral Grounds
-   
-][3] 
-   
-for organizing the event and being able to support 600+ people even though the DCI people were only expecting around 400+.
+That's all for GP Manila, hopefully we can have another big event in the Philippines soon. Props go out to the people at [Neutral Grounds][3] for organizing the event and being able to support 600+ people even though the DCI people were only expecting around 400+.
 
  [1]: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpman08/welcome
  [2]: http://bryanbibat.blogspot.com/2008/09/on-cheeseburgers.html

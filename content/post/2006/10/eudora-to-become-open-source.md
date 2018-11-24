@@ -8,9 +8,7 @@ type: post
 url: /2006/10/eudora-to-become-open-source/
 ---
 
-QUALCOMM Press Center -- QUALCOMM Launches Project in Collaboration with Mozilla Foundation to Develop Open Source Version of Eudora Email Program --[link
-  
-][1] 
+QUALCOMM Press Center -- QUALCOMM Launches Project in Collaboration with Mozilla Foundation to Develop Open Source Version of Eudora Email Program --[link][1] 
 
 Wow.
 

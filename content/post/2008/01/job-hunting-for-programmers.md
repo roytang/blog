@@ -7,15 +7,7 @@ type: post
 url: /2008/01/job-hunting-for-programmers/
 ---
 
-No, I'm not job hunting. But other people are, apparently. I got a comment on an
-   
-[
-    
-old post I made about my job hunting days
-   
-][1] 
-   
-. Not only that, but the guy IM'd me asking to talk (I put my yahoo id on this site somewhere me). It's a bit strange, but I figured, why not? What I got from listening to him was that he was just extremely frustrated at how difficult it is to find a good job, so he was looking for people who had gone through similar experiences. He'd been unemployed for almost two months after quitting from a crappy job last November.
+No, I'm not job hunting. But other people are, apparently. I got a comment on an [old post I made about my job hunting days][1]. Not only that, but the guy IM'd me asking to talk (I put my yahoo id on this site somewhere me). It's a bit strange, but I figured, why not? What I got from listening to him was that he was just extremely frustrated at how difficult it is to find a good job, so he was looking for people who had gone through similar experiences. He'd been unemployed for almost two months after quitting from a crappy job last November.
 
 I was going to be late, so I just gave him a few tips that I think could improve his chances of finding a good programming job. I thought I'd share them here as well. Note that I'm no expert on this or anything, just my opinions. Text in italics are additional notes not included in the original conversation:
 

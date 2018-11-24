@@ -10,11 +10,7 @@ tags:
 url: /2005/04/free-wordpress-hosting/
 ---
 
-[
-  
-Wordpress host -- free blog
-  
-][1] 
+[Wordpress host -- free blog][1] 
 
 I've wanted to try WordPress for a while now, but not having easy access to a PHP-enabled server of my own, I haven't had the chance.
 

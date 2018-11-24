@@ -86,15 +86,7 @@ _
 
 
    
-Bearing the deck I've named "
-   
-[
-    
-the mightiest deck in the universe
-   
-][1] 
-   
-", I got the following results:
+Bearing the deck I've named "[the mightiest deck in the universe][1]", I got the following results:
 
 Round 1: 2-0 win vs UB Teferi control w Curse of the Cabal
    

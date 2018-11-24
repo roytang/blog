@@ -11,9 +11,7 @@ url: /2006/06/del-icio-us-bookmarks-for-2006-06-14/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-06-14
 
-  * [How to install ANYTHING in Ubuntu!
-  
-][3] &#8212;
+  * [How to install ANYTHING in Ubuntu!][3] &#8212;
   
     Tagged as: linux
 

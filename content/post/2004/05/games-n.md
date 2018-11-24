@@ -9,10 +9,6 @@ url: /2004/05/games-n/
 
 N s a nice little slightly-addictive flash game about a ninja trying to get through doors.
    
-[
-    
-Check it out.
-   
-][1]
+[Check it out.][1]
 
  [1]: http://www.harveycartel.org/metanet/downloads.html

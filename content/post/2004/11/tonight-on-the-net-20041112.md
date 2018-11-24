@@ -12,9 +12,7 @@ url: /2004/11/tonight-on-the-net-20041112/
 * Interesting read: There's this [spouse of an EA developer ][1]who's taking it to EA's supposedly unfair labor practices on livejournal.
   * Cool thing: A [chess program ][2]that shows you the computer's train of thought!
   * [Interesting English Trivia ][3]-- yes it's geeky 😀
-  * Tech news: [Winamp is dead, long live Winamp!
-  
-][4] I actually like Winamp, especially version 5. There are quite a number of things I'd like to change with it, but it's a lot better than WMP. I wonder if there are any other, better (or at least promising) alternatives?
+  * Tech news: [Winamp is dead, long live Winamp!][4] I actually like Winamp, especially version 5. There are quite a number of things I'd like to change with it, but it's a lot better than WMP. I wonder if there are any other, better (or at least promising) alternatives?
   * People who have too much time on their hands: [&#8216;King of Pirates' ][5]has downloaded more than 900,000 songs!
 
  [1]: http://www.livejournal.com/users/ea_spouse/

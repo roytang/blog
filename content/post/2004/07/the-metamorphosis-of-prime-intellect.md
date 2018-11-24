@@ -11,11 +11,7 @@ url: /2004/07/the-metamorphosis-of-prime-intellect/
 
 Found this on [kuro5hin][1]: it's a fairly well-written science fiction piece.
   
-[
-  
-Link
-  
-][2]
+[Link][2]
 
  [1]: http://www.kuro5hin.org
  [2]: http://www.kuro5hin.org/prime-intellect/

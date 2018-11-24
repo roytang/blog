@@ -13,9 +13,7 @@ Part 1 of this series is
    
 [
     
-here
-   
-][1] 
+here][1] 
    
 .
 
@@ -25,9 +23,7 @@ Here's my current WIP:
 
 [
   
-<img class="aligncenter size-thumbnail wp-image-489" title="screenshot" src="/files/uploads/2008/05/screenshot-150x150.png" alt="" width="150" height="150" />
-  
-][2] 
+<img class="aligncenter size-thumbnail wp-image-489" title="screenshot" src="/files/uploads/2008/05/screenshot-150x150.png" alt="" width="150" height="150" />][2] 
 
 Changes since the last part:
 
@@ -164,9 +160,7 @@ Still, WordPress has turned out remarkably easy to customize, the PHP functions 
    
 [
     
-codex.wordpress.com
-   
-][3] 
+codex.wordpress.com][3] 
    
 is pretty thorough as well.
 

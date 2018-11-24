@@ -9,31 +9,7 @@ tags:
 - wordpress
 ---
 
-[
-    
-Part 1
-   
-][1] 
-   
-.
-
-[
-    
-Part 2
-   
-][2] 
-   
-.
-
-Moonglove Winnower template is currently live on
-   
-[
-    
-Roy on Magic
-   
-][3] 
-   
-.
+[Part 1][1]. [Part 2][2]. Moonglove Winnower template is currently live on [Roy on Magic][3].
 
 I made several color and formatting changes since the last update. Relatively easy due to the stylesheet. I also had to scrap the CSS hack for implementing equal height columns, it was causing problems with anchors in the URL. I went with a 1-pixel high background image instead.
 

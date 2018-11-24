@@ -8,9 +8,7 @@ type: post
 url: /2006/04/the-four-agreements/
 ---
 
-[the four agreements, don miguel ruiz book -- a code for life and personal development
-  
-][1] 
+[the four agreements, don miguel ruiz book -- a code for life and personal development][1] 
 
 > **
   

@@ -11,9 +11,7 @@ url: /2006/04/del-icio-us-bookmarks-for-2006-04-06/
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-04-06
 
-  * [How I won the Mid-Atlantic regionals with my Song of Blood Deck How I won the Mid-Atlantic regionals with my Song of Blood Deck
-  
-][3] &#8212;
+  * [How I won the Mid-Atlantic regionals with my Song of Blood Deck How I won the Mid-Atlantic regionals with my Song of Blood Deck][3] &#8212;
   
     Tagged as: magicthegathering
 

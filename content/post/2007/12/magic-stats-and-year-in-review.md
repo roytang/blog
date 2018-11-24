@@ -7,13 +7,7 @@ type: post
 url: /2007/12/magic-stats-and-year-in-review/
 ---
 
-I believe that this year, I have managed to improve my Magic-playing a bit (despite the abundance of embarassing mistakes).I also believe I'm slightly better at Limited than I am at Constructed. TO back up these beliefs, I could point to my DCI ratings. But as a programmer who loves stats, I compiled additional stats for my own pleasure:
-   
-[
-    
-My Playing Stats
-   
-][1] 
+I believe that this year, I have managed to improve my Magic-playing a bit (despite the abundance of embarassing mistakes).I also believe I'm slightly better at Limited than I am at Constructed. TO back up these beliefs, I could point to my DCI ratings. But as a programmer who loves stats, I compiled additional stats for my own pleasure: [My Playing Stats][1] 
    
 .
 

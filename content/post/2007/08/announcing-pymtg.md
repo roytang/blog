@@ -9,21 +9,13 @@ url: /2007/08/announcing-pymtg/
 
 I couldn't sleep, so obviously, I had to start a new personal project.
 
-[
-    
-PyMTG
-   
-][1] 
+[PyMTG][1] 
 
 I was inspired after forum-browsing lead me to look at existing MTG open-source software. I've been thinking of starting a true-blue personal software project for a while now, and the idea of PyMTG appeals to me for several reasons:
 
 (a) It's related to one of my current hobbies
    
-
-   
 (b) Allows me to become familiar with a new language (Python)
-   
-
    
 (c) It's moderately to insanely difficult (depending on how well I set my targets), i.e. it's of a scale large enough to be challenging.
 

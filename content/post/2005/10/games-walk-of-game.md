@@ -7,15 +7,7 @@ type: post
 url: /2005/10/games-walk-of-game/
 ---
 
-Voting for the
-   
-[
-    
-Walk of Game
-   
-][1] 
-   
-is up. 
+Voting for the [Walk of Game][1] is up. 
 
 My votes were: Starcraft, Civilization, Final Fantasy and Street Fighter II. Also Sid Meier and the Pac-man guy. 
 

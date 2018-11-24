@@ -13,40 +13,26 @@ Edit: One-time update, because I found the script to get the bookmarks was being
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-24
 
-  * [How to stay organized at work? | Ask MetaFilter
-  
-][3] &#8212;
+  * [How to stay organized at work? | Ask MetaFilter][3] &#8212;
   
     Tagged as: askmefi lifehacks
-  * [Maverick
-  
-][4] &#8212;
+  * [Maverick][4] &#8212;
   
     Lightweight open-source java web framework Tagged as: coding framework java opensource web
 
-  * [Meet Joe Bloggs
-  
-][5] &#8212;
+  * [Meet Joe Bloggs][5] &#8212;
   
     Tagged as: blogs development software
-  * [Deep Thoughts by Jack Handey
-  
-][6] &#8212;
+  * [Deep Thoughts by Jack Handey][6] &#8212;
   
     Tagged as: humor quotes
-  * [DreckNet Fortune
-  
-][7] &#8212;
+  * [DreckNet Fortune][7] &#8212;
   
     Tagged as: quotes
-  * [Gamasutra -- Soapbox -- "World of Warcraft Teaches the Wrong Things"
-  
-][8] &#8212;
+  * [Gamasutra -- Soapbox -- "World of Warcraft Teaches the Wrong Things"][8] &#8212;
   
     Tagged as: articles games mmorpgs warcraft
-  * [Ubersite -- The Ultimate MS Paint: It Will Make You Cry
-  
-][9] &#8212;
+  * [Ubersite -- The Ultimate MS Paint: It Will Make You Cry][9] &#8212;
   
     Tagged as: art cool
 

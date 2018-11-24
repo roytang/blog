@@ -8,11 +8,7 @@ type: post
 url: /2005/01/a-giant-hammer/
 ---
 
-[
-  
-![giant hammer][1]
-  
-][2] 
+[![giant hammer][1]][2] 
 
 We have a giant hammer prop at home. Made out of a stick and some cardboard (I think). Naturally, we bash each other with it. There are only four things I think of when I see this hammer:
 

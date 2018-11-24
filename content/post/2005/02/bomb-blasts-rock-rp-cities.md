@@ -8,11 +8,7 @@ type: post
 url: /2005/02/bomb-blasts-rock-rp-cities/
 ---
 
-[
-  
-Bomb blasts rock Davao, General Santos, Makati -- INQ7.net
-  
-][1] 
+[Bomb blasts rock Davao, General Santos, Makati -- INQ7.net][1] 
 
 > Makati City, three people were killed while at least 20 others were injured after an explosion rocked a bus plying EDSA as it passed underneath the Metro Rail Transit's Ayala Station, Metro Manila police chief Director Avelino Razon Jr. said.
 

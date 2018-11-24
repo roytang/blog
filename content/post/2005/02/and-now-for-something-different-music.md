@@ -10,11 +10,7 @@ type: post
 url: /2005/02/and-now-for-something-different-music/
 ---
 
-Currently listening to "Boulevard of Broken Songs", a neat mashup mainly of Green Day's "Boulevard of Broken Dreams" and Oasis' "Wonderwall". This and some other mashups [here.
-  
-][1] 
-  
-(haven't listened to the others though&#8230;)
+Currently listening to "Boulevard of Broken Songs", a neat mashup mainly of Green Day's "Boulevard of Broken Dreams" and Oasis' "Wonderwall". This and some other mashups [here.][1] (haven't listened to the others though&#8230;)
 
 Another interesting mashup that came out quite a while back was ["This Is How You Remind Me Someday" ][2], where Nickelback is caught basically reusing the same chords for two songs. Great stuff.
 

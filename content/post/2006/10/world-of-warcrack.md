@@ -7,11 +7,7 @@ type: post
 url: /2006/10/world-of-warcrack/
 ---
 
-[
-    
-Soul Kerfuffle: The View From the Top
-   
-][1] 
+[Soul Kerfuffle: The View From the Top][1] 
 
 Funny, just before I read this blog post, I was thinking about how I didn't really have time for WoW.
 

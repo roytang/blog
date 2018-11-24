@@ -32,12 +32,6 @@ Entrepreneurial weaknesses:
 
 * problems you may want to solve may not have a significant market
 
-From
-  
-[
-  
-Idiot Startup
-  
-][1]
+From [Idiot Startup][1]
 
  [1]: http://idiotstartup.com/what-entrepreneur-are-you-test

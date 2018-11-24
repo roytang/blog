@@ -8,11 +8,7 @@ type: post
 url: /2005/03/to-the-tale-and-other-such-concerns-the-hunt-is-on/
 ---
 
-[
-  
-To the Tale, and Other Such Concerns: The Hunt is On
-  
-][1] 
+[To the Tale, and Other Such Concerns: The Hunt is On][1] 
 
 Check the link for the puzzle, then highlight the box below for the answers. (Answers found with the help of [Switch][2])
 

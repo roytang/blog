@@ -8,11 +8,7 @@ type: post
 url: /2006/03/world-public-opinion-rp-to-us-you39re-number-one/
 ---
 
-[
-  
-World Public Opinion
-  
-][1] 
+[World Public Opinion][1] 
 
 Check out the link, apparently the Philippines is the United States' #1 fan.
 

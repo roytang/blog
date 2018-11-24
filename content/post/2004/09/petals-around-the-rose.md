@@ -9,10 +9,6 @@ url: /2004/09/petals-around-the-rose/
 
 It's a puzzle. or a game. Or both.
 
-[
-    
-Link
-   
-][1]
+[Link][1]
 
  [1]: http://www.borrett.id.au/computing/petals-j.htm

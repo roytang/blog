@@ -26,11 +26,7 @@ Movies seen lately: Bandits and Ice Age. Oh, and for the umpteenth time, Austin 
 
 Random Links of the day:
   
-[
-  
-Phoenix Genesis
-  
-][3]
+[Phoenix Genesis][3]
 
  [1]: http://www.thegia.com/
  [2]: http://www.asti.dost.gov.ph/

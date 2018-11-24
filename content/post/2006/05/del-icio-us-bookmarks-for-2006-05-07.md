@@ -14,9 +14,7 @@ url: /2006/05/del-icio-us-bookmarks-for-2006-05-07/
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-05-07
 
-  * [001-your-first-wp-plugin.mov (video/quicktime Object)
-  
-][3] &#8212;
+  * [001-your-first-wp-plugin.mov (video/quicktime Object)][3] &#8212;
   
     Tagged as: WordPress
 

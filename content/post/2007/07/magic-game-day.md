@@ -7,25 +7,9 @@ type: post
 url: /2007/07/magic-game-day/
 ---
 
-Today is of course the release of Magic's Xth edition,
-   
-[
-    
-Magic Game Day
-   
-][1] 
-   
-.
+Today is of course the release of Magic's Xth edition, [Magic Game Day][1].
 
-As usual, I played at
-   
-[
-    
-Neutral Grounds
-   
-][2] 
-   
-in Galleria. Helluva lot of people there, more than I was expecting for a Core Set Release tournament.
+As usual, I played at [Neutral Grounds][2] in Galleria. Helluva lot of people there, more than I was expecting for a Core Set Release tournament.
 
 The format is, as usual, Sealed Deck with four rounds of Swiss pairings. Players were grouped in Flights of 32 people each (previous prerelease tournaments had 48-people flights), each win gets you an Xth booster pack and the top 2 of each flight (the ones who went 4-0) get something extra. Apparently the extra prizes were stuff like a bag, a shirt and a big (cardboard) Kamahl card box. I of course got the crappy box.
 

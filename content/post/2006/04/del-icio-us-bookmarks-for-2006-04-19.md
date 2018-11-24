@@ -11,19 +11,13 @@ url: /2006/04/del-icio-us-bookmarks-for-2006-04-19/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-04-19
 
-  * [Floatutorial: Step by step CSS float tutorial
-  
-][3] &#8212;
+  * [Floatutorial: Step by step CSS float tutorial][3] &#8212;
   
     Tagged as: coding css design web
-  * [Recording Industry vs The People
-  
-][4] &#8212;
+  * [Recording Industry vs The People][4] &#8212;
   
     Tagged as: music politics tech
-  * [JavaScript RegExp Example: Regular Expression Tester
-  
-][5] &#8212;
+  * [JavaScript RegExp Example: Regular Expression Tester][5] &#8212;
   
     Tagged as: coding javascript
 

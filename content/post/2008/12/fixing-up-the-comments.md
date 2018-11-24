@@ -13,13 +13,7 @@ I played around with the built-in comments app today, trying to clean it up.
 
 Some findings:
 
-1. Some of the moderation views, such as flagging a post or deleting a post, accept a next parameter that determines where the view will redirect to after the operation. However, the way the url's are set up, there's no easy way to pass this parameter normally, even through query strings. THis lovely bug is documented in
-  
-[
-  
-http://code.djangoproject.com/ticket/8968
-  
-][1] 
+1. Some of the moderation views, such as flagging a post or deleting a post, accept a next parameter that determines where the view will redirect to after the operation. However, the way the url's are set up, there's no easy way to pass this parameter normally, even through query strings. THis lovely bug is documented in [http://code.djangoproject.com/ticket/8968][1] 
   
 . I wasn't confident enough to try patching it, so as a temporary workaround, I overrode the flag and delete templates and placed the following inside the form:
 
@@ -37,11 +31,7 @@ I also replaced the URL in the "cancel" links for both pages. For some reason, {
 
 3. I have a pending problem now that submitting comments from the preview or error page does not redirect to the correct place. (i.e. the post page). I tried adding the next parameter to the form, but apparently comment.get\_content\_object_url returns an empty string here because the comment has not yet been saved to the database. I think the content object should be provided in the context for the preview page. This would be handled by
   
-[
-  
-http://code.djangoproject.com/ticket/9268
-  
-][2] 
+[http://code.djangoproject.com/ticket/9268][2] 
   
 , except apparently no one's paying attention to it yet.
 
@@ -55,11 +45,7 @@ Non-comment related:
 
 2. The script to import from WordPress has some problems. Since I'm storing the post body in markdown format, I use
   
-[
-  
-html2text
-  
-][3] 
+[html2text][3] 
   
 to convert the HTML body from old posts into markdown, but nice stuff like image alignments and tables are lost. I think I have to make do with editing straight HTML for old posts imported from WordPress, and just clean them up later as needed.
 

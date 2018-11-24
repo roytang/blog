@@ -8,17 +8,9 @@ type: post
 url: /2005/06/politics-alleged-destabliziation-tape/
 ---
 
-[
-  
-Download recordings of alleged destabilization tape -- INQ7.net
-  
-][1] 
+[Download recordings of alleged destabilization tape -- INQ7.net][1] 
 
-[
-  
-Transcript at PCIJ blog
-  
-][2] 
+[Transcript at PCIJ blog][2] 
 
 I don't do much politics, but for those out of the loop, the government has recently released some tapes of conversations allegedly edited to make it look like the President has been participating in electoral fraud.
 

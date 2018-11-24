@@ -44,8 +44,6 @@ The Rock: It doesn't matter what you think!
 
 &#8230;or maybe I just watch too much wrestling. Heaven knows it's a lot more entertaining than Philippine politics.
 
-Reminds me of something a friend and I talked about the other day. Since we're obviously not doing so well with elections, we should have a new way of choosing our leaders: trial-by-combat! A DBZ-style fighting tournament (probably at the Araneta Coliseum) to determine who will be the next leader! Hey, at least it would be more entertaining, and FPJ would probably have a much better chance, unless he faces someone like [Sonny Parsons
-  
-][1]
+Reminds me of something a friend and I talked about the other day. Since we're obviously not doing so well with elections, we should have a new way of choosing our leaders: trial-by-combat! A DBZ-style fighting tournament (probably at the Araneta Coliseum) to determine who will be the next leader! Hey, at least it would be more entertaining, and FPJ would probably have a much better chance, unless he faces someone like [Sonny Parsons][1]
 
  [1]: http://www.ananova.com/news/story/sm_632387.html

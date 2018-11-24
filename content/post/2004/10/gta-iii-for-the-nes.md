@@ -7,11 +7,7 @@ type: post
 url: /2004/10/gta-iii-for-the-nes/
 ---
 
-[
-    
-http://www.grandtheftendo.com/
-   
-][1] 
+[http://www.grandtheftendo.com/][1] 
    
 Nuff said.
 

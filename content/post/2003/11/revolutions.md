@@ -9,11 +9,7 @@ url: /2003/11/revolutions/
 
 So I saw Matrix: Revolutions last Friday. Nice movie, entertaining to watch, but it's not as deep as you'd expect, and the Matrix trilogy really ends not with a bang but with a whisper. I like
    
-[
-    
-this review
-   
-][1] 
+[this review][1] 
    
 , it analyzes things very well.
 
@@ -25,11 +21,7 @@ I feel like quitting Warcraft III for a while &#8212; maybe a couple of weeks. I
 
 Square has
    
-[
-    
-a flash-based FXX-2 site up.
-   
-][2] 
+[a flash-based FXX-2 site up.][2] 
    
 I like the voice samples they have available. I think I'll like this game.
 
@@ -37,11 +29,7 @@ I like the voice samples they have available. I think I'll like this game.
 
 I don't know why I bothered, but I signed up for
    
-[
-    
-nanowrimo
-   
-][3] 
+[nanowrimo][3] 
    
 again. I have like half a novel's worth of plot running around in my head. Whether I find the time to commit it to something printable is another matter entirely.
 

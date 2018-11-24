@@ -7,13 +7,7 @@ type: post
 url: /2005/10/world-of-warcraft-gorilla-press/
 ---
 
-[
-  
-
-  
-![][1]
-  
-][2] 
+[![][1]][2] 
 
 (Click the thumbnail for full-size version)
 

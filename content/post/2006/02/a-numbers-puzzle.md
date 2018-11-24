@@ -42,11 +42,7 @@ _
   
 Via
   
-[
-  
-J-Walk
-  
-][1] 
+[J-Walk][1] 
   
 (Warning: the link will show you the answer!)
   

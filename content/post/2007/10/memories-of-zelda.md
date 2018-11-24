@@ -7,15 +7,7 @@ type: post
 url: /2007/10/memories-of-zelda/
 ---
 
-Can holding a stylus cause carpal tunnel syndrome? Legend of Zelda: Phantom Hourglass for a few days now; the controls are purely-stylus driven so my wrist aches a bit after a few hours of play. Of course the game has been consuming a good number of my waking hours (I didn't even play any
-   
-[
-    
-Magic
-   
-][1] 
-   
-this weekend), but that's not what this post is about. This post is about the original Legend of Zelda.
+Can holding a stylus cause carpal tunnel syndrome? Legend of Zelda: Phantom Hourglass for a few days now; the controls are purely-stylus driven so my wrist aches a bit after a few hours of play. Of course the game has been consuming a good number of my waking hours (I didn't even play any [Magic][1] this weekend), but that's not what this post is about. This post is about the original Legend of Zelda.
 
 The first time I played the game, I was able to borrow some sort of faulty and/or bootleg copy that wasn't able to save games. Stupid right? Well, it could save as long as the console wasn't powered off, so you could still progress a bit. So in theory, with a single marathon gaming session, I could've finished the game. The thing is, during those days my dad didn't like having us play too much video games. At most he'd let us play maybe 1-2 hours at a time. On weekends. I'm sure there's some sort of speed run where some hardcore dude finished the Legend of Zelda in like fifteen minutes, but no way I would've been able to do that as a kid.
 

@@ -14,9 +14,7 @@ I've downloaded a few utilities that I can try at work to see if it can improve 
 
 The first one is [SlickRun][1]. Basically it's a Start -> Run replacement -- press a predefined hotkey and a small command line tool appears where I can type shortcut-like commands. One of the features I liked while using Kubuntu was something similar -- I think it was called Katapult. It sorts of automates an old trick I was using before, where I would put shortcuts to commonly used programs in a predefined folder that exists on the path. I'll see if this is better than that one, since this one requires less effort to set up the shortcuts.
 
-Second is an egg-timer type app, [AleJenJes Countdown Timer
-  
-][2] -- I don't know why it has such a weird name. But anyway, it's just a simple Stop/Go timer I can use for timeboxing.
+Second is an egg-timer type app, [AleJenJes Countdown Timer][2] -- I don't know why it has such a weird name. But anyway, it's just a simple Stop/Go timer I can use for timeboxing.
 
 Last is a Window WP right-click menu addon, [FileMenuTools][3]. Some nice common tasks can be added to the context menu, some I do regularly.
 
@@ -34,9 +32,7 @@ That's basically it. I can add more features or bells and whistles later. I coul
   
 [
   
-todo.txt series at lifehacker
-  
-][5] 
+todo.txt series at lifehacker][5] 
   
 -- in fact, I'll go read that first for ideas.
 

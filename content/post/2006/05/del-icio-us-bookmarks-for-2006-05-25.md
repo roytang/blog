@@ -11,14 +11,10 @@ url: /2006/05/del-icio-us-bookmarks-for-2006-05-25/
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-05-25
 
-  * [The Programmers' Booklist
-  
-][3] &#8212;
+  * [The Programmers' Booklist][3] &#8212;
   
     Tagged as: books cool
-  * [Ultimate Utopia XXIII -- Google Video
-  
-][4] &#8212;
+  * [Ultimate Utopia XXIII -- Google Video][4] &#8212;
   
     Tagged as: games videos
 

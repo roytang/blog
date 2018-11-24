@@ -8,9 +8,7 @@ type: post
 url: /2017/03/fake-devs-and-whiteboard-interviews/
 ---
 
-Recently, a developer needed to undergo a tech interview at US immigration:[
-  
-][1] 
+Recently, a developer needed to undergo a tech interview at US immigration:[][1] 
 
 [<img class="aligncenter size-full wp-image-1845" src="http://roytang.net/wp-content/uploads/2017/03/Untitled.png" alt="" width="598" height="297" srcset="https://roytang.net/wp-content/uploads/2017/03/Untitled.png 598w, https://roytang.net/wp-content/uploads/2017/03/Untitled-300x149.png 300w" sizes="(max-width: 598px) 100vw, 598px" />][2]
 

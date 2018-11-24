@@ -7,23 +7,7 @@ type: post
 url: /2007/06/standard-ng-galleria-02-jun-2007/
 ---
 
-The saga of the
-   
-[
-    
-mightiest deck in the universe
-   
-][1] 
-   
-continues. My
-   
-[
-    
-previous outing
-   
-][2] 
-   
-showed me a solid control matchup and maybe 60% aggro matchup. I tweaked the sideboard to improve the aggro game post-board, dropping the useless Yixlid Jailers for 4 Last Gasps.
+The saga of the [mightiest deck in the universe][1] continues. My [previous outing][2] showed me a solid control matchup and maybe 60% aggro matchup. I tweaked the sideboard to improve the aggro game post-board, dropping the useless Yixlid Jailers for 4 Last Gasps.
 
 Here's how I did:
    
@@ -97,9 +81,7 @@ Obviously, I did a lot worse than the previous tournament, as all my percentages
    
 [
     
-article today
-   
-][3] 
+article today][3] 
    
 on magicthegathering.com about how you should avoid racing aggro and avoid taking damage as much as possible&#8230;I think I basically violated every single principle in that article during those losing matches. Yes, even the lone control matchup -- I didn't kill a Hellkite thinking I would just race it with Korlash, but the Bust on his turn sealed my fate.
 

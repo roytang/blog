@@ -7,11 +7,7 @@ type: post
 url: /2004/07/games-maniac-mansion-deluxe/
 ---
 
-[
-    
-Maniac Mansion Deluxe
-   
-][1] 
+[Maniac Mansion Deluxe][1] 
    
 is a 256-color remake of the original Maniac Mansion, done by a group calling themselves LucasFan Games. I'm not sure how legal this is, but hey, it's Maniac Mansion! 
 

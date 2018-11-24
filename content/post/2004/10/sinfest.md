@@ -9,21 +9,7 @@ url: /2004/10/sinfest/
 
 I was bored. And I was going through the
    
-[
-    
-Sinfest
-   
-][1] 
-   
-archives. But then I thought, why should I bother going through these comics manually over the net? I'm a programmer, I'll make a
-   
-[
-    
-SinfestDownloader
-   
-][2] 
-   
-!
+[Sinfest][1] archives. But then I thought, why should I bother going through these comics manually over the net? I'm a programmer, I'll make a [SinfestDownloader][2]!
 
 I've left it running for about 4 hours now. There's a lot of Sinfest strips&#8230;around 40MB worth have already been downloaded!
 

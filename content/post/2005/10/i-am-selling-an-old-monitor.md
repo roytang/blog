@@ -10,11 +10,7 @@ type: post
 url: /2005/10/i-am-selling-an-old-monitor/
 ---
 
-[
-  
-Here
-  
-][1] 
+[Here][1] 
 
 Update: Sold for the low, low price of P1500!
 

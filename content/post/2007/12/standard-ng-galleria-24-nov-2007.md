@@ -11,9 +11,7 @@ Yeah, I post these late, I'm a busy man. But I want to have a record so here we 
    
 [
     
-the last time
-   
-][1] 
+the last time][1] 
    
 , except I removed the 2 grim harvests from the board and put in +2 sudden death (to improve the pickles matchup)
 

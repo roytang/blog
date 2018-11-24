@@ -31,14 +31,10 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-03-26
     &#8212;
   
     Tagged as: articles lifehacks
-  * [How to make a custom TV-torrent feed · TorrentFreak, torrents and more
-  
-][7] &#8212;
+  * [How to make a custom TV-torrent feed · TorrentFreak, torrents and more][7] &#8212;
   
     Tagged as: torrents tv
-  * [Getting My Bearings: The best of del.icio.us
-  
-][8] &#8212;
+  * [Getting My Bearings: The best of del.icio.us][8] &#8212;
   
     Tagged as: delicious tagging
 

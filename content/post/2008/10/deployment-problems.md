@@ -17,15 +17,7 @@ Comments implemented using the django.contrib.comments. No problems here, the on
 
 RSS feeds implemented using django.contrib.syndication, this one seems fine.
 
-I tested it and it's running fine on localhost. I also have a free django hosting account at http://bells-n-whistles.net, so I try to upload it there. However, when I access the website there (
-  
-[
-  
-http://www.randomencounters.bells-n-whistles.net/blog/
-  
-][1] 
-  
-), I get the following error:
+I tested it and it's running fine on localhost. I also have a free django hosting account at http://bells-n-whistles.net, so I try to upload it there. However, when I access the website there ([http://www.randomencounters.bells-n-whistles.net/blog/][1]), I get the following error:
 
 <pre>'comments' is not a valid tag library: Could not load template library from django.templatetags.comments, No module named comments
 

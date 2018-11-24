@@ -7,15 +7,7 @@ type: post
 url: /2007/11/lorwyn-inaugurals/
 ---
 
-Tournament was on Saturday, November 10. Format was Standard. I didn't have any good deck ideas this time around (some would argue I never do!), so I played a netdeck. I played the Mannequin deck that originally appeared in US States, as reported by BDM
-   
-[
-    
-here
-   
-][1] 
-   
-. I had to change the board around a bit, I went with:
+Tournament was on Saturday, November 10. Format was Standard. I didn't have any good deck ideas this time around (some would argue I never do!), so I played a netdeck. I played the Mannequin deck that originally appeared in US States, as reported by BDM [here][1]. I had to change the board around a bit, I went with:
 
 4 Nameless Inversion (to help kill black/artifact critters)
    

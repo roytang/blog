@@ -10,9 +10,7 @@ url: /2006/02/today39s-del-icio-us-bookmarks-2/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-16
 
-  * [Sketch Swap
-  
-][3] &#8212;
+  * [Sketch Swap][3] &#8212;
   
     Awesome (and slightly addictive) flash (I think it's flash) page that allows you to sketch something and get a sketch in return.Tagged as: cool flash sketching
 

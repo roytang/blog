@@ -11,9 +11,7 @@ url: /2006/04/del-icio-us-bookmarks-for-2006-04-24/
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-04-24
 
-  * [Escape ycc/ESC
-  
-][3] &#8212;
+  * [Escape ycc/ESC][3] &#8212;
   
     Tagged as: flash games
 

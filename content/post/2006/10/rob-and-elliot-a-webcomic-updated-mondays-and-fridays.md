@@ -9,9 +9,7 @@ type: post
 url: /2006/10/rob-and-elliot-a-webcomic-updated-mondays-and-fridays/
 ---
 
-I'md reading a new one: [Rob and Elliot: A webcomic updated Mondays and Fridays
-  
-][1] 
+I'md reading a new one: [Rob and Elliot: A webcomic updated Mondays and Fridays][1] 
   
 . Via Shortpacked.
 

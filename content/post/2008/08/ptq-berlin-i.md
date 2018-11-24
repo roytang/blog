@@ -7,15 +7,7 @@ type: post
 url: /2008/08/ptq-berlin-i/
 ---
 
-The tournament was last Saturday, Aug 16 at Robinson's Galleria. I played the same deck as
-   
-[
-    
-last week
-   
-][1] 
-   
-, except I had the following sideboard:
+The tournament was last Saturday, Aug 16 at Robinson's Galleria. I played the same deck as [last week][1], except I had the following sideboard:
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -82,13 +74,9 @@ Round 2:
    
 PWC Special vs Kithkin/Mirror Master
 
-Ooh, my first Kithkin matchup with this deck! Let's see how I do. The following picture from my life total notes should explain it clearly:
+Ooh, my first Kithkin matchup with this deck! Let's see how I do. The following picture from my life total notes should explain it clearly: 
 
-[
-  
-<img class="alignnone size-full wp-image-468" title="picture0002" src="/files/uploads/2008/08/picture0002.jpg" alt="" width="500" height="375" />
-  
-][3] 
+[<img class="alignnone size-full wp-image-468" title="picture0002" src="/files/uploads/2008/08/picture0002.jpg" alt="" width="500" height="375" />][3] 
 
 Long version: I lost the first game quite badly.
 

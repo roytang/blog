@@ -7,13 +7,7 @@ type: post
 url: /2007/11/states-champs-2007-data/
 ---
 
-I still have no idea what to play for Lorwyn Standard, so I was eagerly awaiting this year's States/Champs results. There are already partial results up at MTG.com, and I had some time so I did some of my programming hocus-pocus and extracted some fun data.
-
-[
-    
-States / Champs 2007 Card Counts
-   
-][1] 
+I still have no idea what to play for Lorwyn Standard, so I was eagerly awaiting this year's States/Champs results. There are already partial results up at MTG.com, and I had some time so I did some of my programming hocus-pocus and extracted some fun data. [States / Champs 2007 Card Counts][1] 
 
 The data is of course extracted from top eight decklists, so what we have here are literally the best decks this past weekend. Some interesting things to note:
  

@@ -7,15 +7,7 @@ type: post
 url: /2007/09/lorwyn-planeswalkers/
 ---
 
-The full spoiler is of course now available at
-   
-[
-    
-MtgSalvation
-   
-][1] 
-   
-; I'll talk about planeswalkers first. Each planeswalker is rare and has 3 abilities: a normal attack, a special move, and a finishing move.
+The full spoiler is of course now available at [MtgSalvation][1]; I'll talk about planeswalkers first. Each planeswalker is rare and has 3 abilities: a normal attack, a special move, and a finishing move.
 
 **
     

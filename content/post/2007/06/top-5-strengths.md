@@ -46,11 +46,7 @@ I'm amused by how the first and second strengths are a bit in opposite direction
 
 Via
   
-[
-  
-Chief Happiness Officer
-  
-][2]
+[Chief Happiness Officer][2]
 
  [1]: http://www.authentichappiness.sas.upenn.edu
  [2]: http://positivesharing.com/2007/06/monday-tip-use-your-strengths-at-work/

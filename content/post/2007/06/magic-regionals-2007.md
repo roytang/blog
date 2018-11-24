@@ -7,23 +7,7 @@ type: post
 url: /2007/06/magic-regionals-2007/
 ---
 
-The venue is, as always, NG Galleria. The format, Standard. I was playing Mike Flores' "Legends of Team CMU" -- the Mishra/Korlash aggro/control/combo deck that placed seventh in
-   
-[
-    
-New Jersey Regionals
-   
-][1] 
-   
-, with a modified sideboard since I couldn't get all of the cards in time. Flores discusses the deck in detail
-   
-[
-    
-here
-   
-][2] 
-   
-(requries a Premium SCG.com account)
+The venue is, as always, NG Galleria. The format, Standard. I was playing Mike Flores' "Legends of Team CMU" -- the Mishra/Korlash aggro/control/combo deck that placed seventh in [New Jersey Regionals][1], with a modified sideboard since I couldn't get all of the cards in time. Flores discusses the deck in detail [here][2] (requries a Premium SCG.com account)
 
 Round 1 0-2 Loss vs GUB NarcoBridge (Dregde combo)
    
@@ -73,13 +57,7 @@ Round 7: Blowout. Sorry if he reads this, but his deck isn't very good. I get to
 
 Round 8: Again, blowout. The matchup is pretty much as Flores describes it, block with Epoc during early turns, trade one of your legends for card advantage, then climb back quickly with either Korlash or Mishra.
 
-Final record: 5-3, finishing 42nd. Despite my game win ratio, I had the worst tiebreaks of all 5-3s (since I climbed back from a 2-3 deficit). At least it was better than my disastrous 1-4-drop Regionals record
-   
-[
-    
-last year
-   
-][3] 
+Final record: 5-3, finishing 42nd. Despite my game win ratio, I had the worst tiebreaks of all 5-3s (since I climbed back from a 2-3 deficit). At least it was better than my disastrous 1-4-drop Regionals record [last year][3] 
    
 .
 

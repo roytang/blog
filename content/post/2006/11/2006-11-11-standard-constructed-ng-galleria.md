@@ -7,15 +7,7 @@ type: post
 url: /2006/11/2006-11-11-standard-constructed-ng-galleria/
 ---
 
-Same deck as
-   
-[
-    
-last week
-   
-][1] 
-   
-.
+Same deck as [last week][1].
 
 Round 1: 2-0 vs WUb Sliver-Mill.
    

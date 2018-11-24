@@ -8,11 +8,7 @@ type: post
 url: /2006/03/ballmer-bemused-forbes-com/
 ---
 
-[
-  
-Ballmer, Bemused -- Forbes.com
-  
-][1] 
+[Ballmer, Bemused -- Forbes.com][1] 
 
 An interview with Steve Ballmer -- a lot of "Microsoft is cool" gibberish, but one nice quote stands out for me:
 

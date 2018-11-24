@@ -14,11 +14,7 @@ As a big Transformers fan back in the day, I have to say: the movie is okay. Act
 
 Some questionable things though:
 
-[
-  
-Spoilers!
-  
-][1] 
+[Spoilers!][1] 
 
   * Why does the all-spark only create violent, gun-toting robots? Where the hell did the Autobots come from?
   * I don't recall seeing the Decepticon symbol anywhere, was it there?

@@ -15,39 +15,25 @@ But I heard that delicious now supports this functionality directly&#8230;
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2007-01-18
 
-  * [Ironic Sans: Idea: A building shaped like Godzilla
-  
-][3] &#8212;
+  * [Ironic Sans: Idea: A building shaped like Godzilla][3] &#8212;
   
     Tagged as: blogs cool funny
-  * [Piled Higher and Deeper
-  
-][4] &#8212;
+  * [Piled Higher and Deeper][4] &#8212;
   
     Tagged as: webcomics
-  * [Fumbling Towards Geekdom: A 2006 productivity hot-or-not guide
-  
-][5] &#8212;
+  * [Fumbling Towards Geekdom: A 2006 productivity hot-or-not guide][5] &#8212;
   
     Tagged as: productivity
-  * [My Freeware Page -- AleJenJes Countdown Timer
-  
-][6] &#8212;
+  * [My Freeware Page -- AleJenJes Countdown Timer][6] &#8212;
   
     Tagged as: productivity software
-  * [Dissertation CoachIs Time Your Enemy? Conquer It with an "Unschedule!" -- Mar 29.2006
-  
-][7] &#8212;
+  * [Dissertation CoachIs Time Your Enemy? Conquer It with an "Unschedule!" -- Mar 29.2006][7] &#8212;
   
     Tagged as: productivity
-  * [David Seah : The Printable CEO
-  
-][8] &#8212;
+  * [David Seah : The Printable CEO][8] &#8212;
   
     Tagged as: productivity
-  * [Jim Gibbon.com Â» Blog Archive Â» Top 5 productivity tips of 2006
-  
-][9] &#8212;
+  * [Jim Gibbon.com Â» Blog Archive Â» Top 5 productivity tips of 2006][9] &#8212;
   
     Tagged as: productivity
 

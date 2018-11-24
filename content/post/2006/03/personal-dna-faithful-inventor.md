@@ -8,11 +8,7 @@ type: post
 url: /2006/03/personal-dna-faithful-inventor/
 ---
 
-[
-  
-Full description
-  
-][1] 
+[Full description][1] 
 
 Edit 2018: The old link was broken because the site in question changed their format. Here's a [fixed link][2].
 

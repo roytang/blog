@@ -26,9 +26,7 @@ Some comments on the Yahoo webapps.
       
         [
        
-        a Yahoo Group
-      
-][1] 
+        a Yahoo Group][1] 
       
         . I get two moderators, me and a dummy email account. I login with both accounts, using Firefox for one and IE for the other. I try to update the group description with one account, then the other. Bam! First guy's changes are lost, without notification! If this were some sort of mission-critical webapp, that would be a dangerous bug. 
 

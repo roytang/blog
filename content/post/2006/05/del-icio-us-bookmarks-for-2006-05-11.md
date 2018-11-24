@@ -11,9 +11,7 @@ url: /2006/05/del-icio-us-bookmarks-for-2006-05-11/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-05-11
 
-  * [ASCII by Jason Scott: The Best and the Interesting
-  
-][3] &#8212;
+  * [ASCII by Jason Scott: The Best and the Interesting][3] &#8212;
   
     Tagged as: psychology
 

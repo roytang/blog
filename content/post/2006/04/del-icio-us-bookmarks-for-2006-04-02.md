@@ -11,29 +11,19 @@ url: /2006/04/del-icio-us-bookmarks-for-2006-04-02/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-04-02
 
-  * [Why specs matter [dive into mark]
-  
-][3] &#8212;
+  * [Why specs matter [dive into mark]][3] &#8212;
   
     Tagged as: articles development
-  * [How to Have a 36 Hour Day
-  
-][4] &#8212;
+  * [How to Have a 36 Hour Day][4] &#8212;
   
     Tagged as: lifehacks
-  * [Qooqle Video
-  
-][5] &#8212;
+  * [Qooqle Video][5] &#8212;
   
     Tagged as: videos
-  * [Anytime is the Right Time to Start a Company -- Blue Flavor
-  
-][6] &#8212;
+  * [Anytime is the Right Time to Start a Company -- Blue Flavor][6] &#8212;
   
     Tagged as: articles entrepreneurship
-  * [Developer Testing, Discussions about Software Quality
-  
-][7] &#8212;
+  * [Developer Testing, Discussions about Software Quality][7] &#8212;
   
     Tagged as: developertesting programming
 

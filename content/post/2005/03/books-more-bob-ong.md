@@ -21,9 +21,7 @@ In fact, after reading "Bakit Baligtad", I realized the particular appeal of Bob
 
 Both books are generally hit-or-miss though, with a bit more hit than miss, same as the first one. Some good parts, some you'd want to sleep through. They're good for the price they're at. In any case, I'll probably pick up his next book as an impulse buy if I see it.
 
-My favorite part of these two books (I'm not sure which book it was in anymore) was a list of amusing signs found all over the Philippines. One of them is described as such: [on a cracked lopsided wall along Libis, QC: Danger Wall is Falling!
-  
-][3] 
+My favorite part of these two books (I'm not sure which book it was in anymore) was a list of amusing signs found all over the Philippines. One of them is described as such: [on a cracked lopsided wall along Libis, QC: Danger Wall is Falling!][3] 
 
 Hehe, that cracks me up, and I'm not sure why. I'd like to see that wall.
 

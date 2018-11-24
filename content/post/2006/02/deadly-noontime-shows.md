@@ -10,9 +10,7 @@ url: /2006/02/deadly-noontime-shows/
 
 In a few months people will forget anyway.
 
-Yesterday [74 people died in a tragic stampede.
-  
-][1] 
+Yesterday [74 people died in a tragic stampede.][1] 
   
 The reason? Crowding to get into the one-year anniversary show of a local noontime variety show. Wowowee.
 

@@ -9,15 +9,7 @@ type: post
 url: /2008/10/django-tagging/
 ---
 
-I wanted to add some basic tagging to my blog app so I tried out
-  
-[
-  
-django-tagging
-  
-][1] 
-  
-. Unfortunately, the featured downloads on the Google Code site are quite out-of-date and would not work with Django 1.0, so I did a subversion checkout instead. If you're getting an error like "ImportError: cannot import name parse_lookup", then you need to get the source code from SVN.
+I wanted to add some basic tagging to my blog app so I tried out [django-tagging][1]. Unfortunately, the featured downloads on the Google Code site are quite out-of-date and would not work with Django 1.0, so I did a subversion checkout instead. If you're getting an error like "ImportError: cannot import name parse_lookup", then you need to get the source code from SVN.
 
 Adding the tagging to the blog was pretty easy:
 

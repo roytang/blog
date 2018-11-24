@@ -20,30 +20,14 @@ I recently found out Beerkada had its' own website at [beerkada.net][1]. In an 
 
 Not being a regular reader of the Philippine Star, and the last Beerkada book I read having been 3-4 years old already, I went through the archives to catch up. Some choice strips so far:
 
-  * [Trailers
-  
-][2] 
-  * [Jazz
-  
-][3] 
-  * [Interweb
-  
-][4] 
-  * [Taxicab
-  
-][5] 
-  * [Benoit
-  
-][6] 
-  * [Big Bird
-  
-][7] 
-  * [Twin Towers
-  
-][8] 
-  * [Nerd
-  
-][9] 
+  * [Trailers][2] 
+  * [Jazz][3] 
+  * [Interweb][4] 
+  * [Taxicab][5] 
+  * [Benoit][6] 
+  * [Big Bird][7] 
+  * [Twin Towers][8] 
+  * [Nerd][9] 
 
 Not surprisingly, most of the strips I linked were related to 80's cartoon characters in some way. I guess one of the reasons I enjoy Beerkada is that Lyndon Gregorio and I are obviously of the same generation.
 

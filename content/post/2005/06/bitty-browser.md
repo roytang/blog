@@ -8,11 +8,7 @@ type: post
 url: /2005/06/bitty-browser/
 ---
 
-[
-  
-Bitty Browser
-  
-][1] 
+[Bitty Browser][1] 
 
 Holy crap, that's cool.
 

@@ -11,14 +11,10 @@ url: /2006/04/del-icio-us-bookmarks-for-2006-04-05/
 
 Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-04-05
 
-  * [How I Work: Bill Gates -- Apr. 4, 2006
-  
-][3] &#8212;
+  * [How I Work: Bill Gates -- Apr. 4, 2006][3] &#8212;
   
     Tagged as: articles lifehacks
-  * [How to be Lucky: ProBlogger Blog Tips
-  
-][4] &#8212;
+  * [How to be Lucky: ProBlogger Blog Tips][4] &#8212;
   
     Tagged as: lifehacks
 

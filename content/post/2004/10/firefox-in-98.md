@@ -10,9 +10,7 @@ url: /2004/10/firefox-in-98/
 
 This internet shop is using Windows 98, apparently. And it looks like Firefox's icon doesn't show properly in 98?
 
-Oh, and [Yahoo has a new front page.
-  
-][1]
+Oh, and [Yahoo has a new front page.][1]
 
  [1]: http://www.yahoo.com
 

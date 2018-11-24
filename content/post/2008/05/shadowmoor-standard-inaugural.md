@@ -13,9 +13,7 @@ I was planning to play Green-White midrange, as documented on
    
 [
     
-Deckbuilding for an Unknown Metagame
-   
-][1] 
+Deckbuilding for an Unknown Metagame][1] 
    
 . Due to card availability issues, the final list I played is:
 

@@ -13,11 +13,7 @@ Anyway, I said, sure. I'll make some, it'll be easy. After all, trivial programs
 
 Anyway, in case someone in the world finds these examples useful:
 
-[
-    
-Twenty random java programs
-   
-][1] 
+[Twenty random java programs][1] 
    
 .
 

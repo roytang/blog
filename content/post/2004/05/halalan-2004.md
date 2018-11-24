@@ -68,19 +68,11 @@ A few notes, I suppose.
 
 First, the internet is surprisingly useful to voters this time around. If you need to know where you're voting,
   
-[
-  
-findprecinct.com
-  
-][1] 
+[findprecinct.com][1] 
   
 is the place to start. Need help deciding? I used the
   
-[
-  
-sample ballot at the Eleksyon 2004 website
-  
-][2] 
+[sample ballot at the Eleksyon 2004 website][2] 
   
 to help me fill up those slots.
 

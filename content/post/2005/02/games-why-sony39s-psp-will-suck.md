@@ -8,11 +8,7 @@ type: post
 url: /2005/02/games-why-sony39s-psp-will-suck/
 ---
 
-[
-  
-GearLive: Why Sony's PSP will suck
-  
-][1] 
+[GearLive: Why Sony's PSP will suck][1] 
 
 I'm not actually particularly interested in the PSP, but this article is interesting and has quickly convinced me that the PSP will in fact, suck.
 

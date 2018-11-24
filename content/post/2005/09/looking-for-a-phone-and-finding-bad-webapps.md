@@ -13,31 +13,9 @@ Anyway, yeah. I'm supposed to be trying to get a phone. People have been harassi
 
 Now, bear with me a bit, I'm really stupid when it comes to phones, since I've practically never owned one. If there's any better way or better place to look for the info than the way I describe here, tell me about it. 😀
 
-First, to find out what are the available phones and their features, I check the website of one of the major providers to see what handsets they list, since supposedly this tells me what models are available locally. FYI, I chose to use
-   
-[
-    
-Smart's website
-   
-][1] 
+First, to find out what are the available phones and their features, I check the website of one of the major providers to see what handsets they list, since supposedly this tells me what models are available locally. FYI, I chose to use [Smart's website][1] 
 
-Now, this helps me find phones which have features I like. But the Smart website only gives me prices offered by Smart when the phone is tied to one of their plans. Let's assume I want a bit more flexibility and don't want to be tied to the plan. I have no idea where to check the prices though, so I hit two auction sites instead:
-   
-[
-    
-ebili
-   
-][2] 
-   
-and
-   
-[
-    
-bidshot
-   
-][3] 
-   
-, so I can get some idea what people are willing to pay for these models.
+Now, this helps me find phones which have features I like. But the Smart website only gives me prices offered by Smart when the phone is tied to one of their plans. Let's assume I want a bit more flexibility and don't want to be tied to the plan. I have no idea where to check the prices though, so I hit two auction sites instead: [ebili][2] and [bidshot][3], so I can get some idea what people are willing to pay for these models.
 
 Easy enough right? Check the features, cross-check the prices, choose a phone. Some notes on these websites:
 

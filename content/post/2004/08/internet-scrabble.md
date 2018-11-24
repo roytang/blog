@@ -7,13 +7,7 @@ type: post
 url: /2004/08/internet-scrabble/
 ---
 
-For some reason, I keep looking for
-   
-[
-    
-things to do online.
-   
-][1] 
+For some reason, I keep looking for [things to do online.][1] 
    
 (I guess I really want to distract myself&#8230;I really should be studying for the JITSE though.)
 

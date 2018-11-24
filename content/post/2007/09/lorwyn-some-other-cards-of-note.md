@@ -7,15 +7,7 @@ type: post
 url: /2007/09/lorwyn-some-other-cards-of-note/
 ---
 
-Lorwyn prerelease and two days, and of course MTG Salvation is
-   
-[
-    
-spoiler-complete
-   
-][1] 
-   
-.  Some thoughts on cards:
+Lorwyn prerelease in two days, and of course MTG Salvation is [spoiler-complete][1].  Some thoughts on cards:
 
 **
     

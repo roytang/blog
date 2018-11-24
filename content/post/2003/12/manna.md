@@ -10,9 +10,7 @@ type: post
 url: /2003/12/manna/
 ---
 
-&#8230;is a very nicely written, and highly plausible [story
-  
-][1] 
+&#8230;is a very nicely written, and highly plausible [story][1] 
   
 .
 

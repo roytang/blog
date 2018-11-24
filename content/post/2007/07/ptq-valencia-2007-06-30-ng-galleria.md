@@ -167,23 +167,7 @@ The Round 1 Loss was due to terrible mistakes on my part, mostly because I put t
 
 For the quarterfinals loss, I couldn't think fo any play mistakes. However, my sideboard was stupid. All I could bring in were some Penumbra Spiders. I have some ideas for sideboard changes should I be able to play Block again.
 
-The deck is solid, with game against both aggro and control. My decklist is
-   
-[
-    
-here
-   
-][1] 
-   
-. It's actually a modification of the
-   
-[
-    
-Top 8 Shifters deck from GP Montreal
-   
-][2] 
-   
-. I didn't have any Vensers, so I tossed in random stuff like Psionic Blasts and Call of the Herds.
+The deck is solid, with game against both aggro and control. My decklist is [here][1]. It's actually a modification of the [Top 8 Shifters deck from GP Montreal][2]. I didn't have any Vensers, so I tossed in random stuff like Psionic Blasts and Call of the Herds.
 
 Card-specific notes:
    
@@ -235,15 +219,7 @@ I can't lose sight of the fun.
 
 Luckily, it's fun to win, so that makes it a bit easier. It's fun to have a face-down Willbender in play when your opponent's Ancestral Vision is about to resolve. It's fun to beat down using your opponent's Griffin Guides. It's fun to come back from one life to win the game. It's fun to win, and it's also fun to play. And playing against some of the best players in the country, I'm almost there. Am I good enough yet? We'll see soon enough&#8230;
 
-Edit: Oh noes!
-   
-[
-    
-My picture is on the internets
-   
-][3] 
-   
-!
+Edit: Oh noes! [My picture is on the internets][3]!
 
  [1]: http://www.roytang.net/wiki/index.php/UG_Shifters
  [2]: http://www.wizards.com/default.asp?x=mtgcom/daily/mf152

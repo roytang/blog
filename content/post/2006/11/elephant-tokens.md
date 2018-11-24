@@ -15,15 +15,7 @@ url: /2006/11/elephant-tokens/
   
 <span style="font-size: 0.9em; margin-top: 0px"><br /> <br /> <a href="http://www.flickr.com/photos/65204400@N00/288525040/"><br /> elephant_tokens<br /> </a><br /> </span>
 
-Originally uploaded by
-   
-[
-    
-zroytang
-   
-][1] 
-   
-.
+Originally uploaded by [zroytang][1].
    
 
    

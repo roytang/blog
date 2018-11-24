@@ -12,8 +12,6 @@ The response of the western world to the recent backlash against published carto
 
 People are dying now, from riots against Danish embassies in protest of the actions of the Denmark papers. Western-cultured individuals would question why any intelligent human being would rail against a government for the actions of its' media outlets. But these radicals are the sort that don't understand the virtues of the free press. The sheer number of Muslims reacting violently is a testament as to how many of the freedoms that we in the Western-oriented world take for granted can be considered as unimaginable in some cultures.
 
-The frightening thing is that with all the tension between the Western world and Islam right now, these small things are the sort that could be used as an excuse to trigger a third world war. And someone may have even [added fuel to the fire on purpose.
-  
-][1]
+The frightening thing is that with all the tension between the Western world and Islam right now, these small things are the sort that could be used as an excuse to trigger a third world war. And someone may have even [added fuel to the fire on purpose.][1]
 
  [1]: http://www.neandernews.com/?p=54

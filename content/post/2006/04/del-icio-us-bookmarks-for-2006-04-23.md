@@ -11,14 +11,10 @@ url: /2006/04/del-icio-us-bookmarks-for-2006-04-23/
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-04-23
 
-  * [How to destroy the Earth @ Things Of Interest
-  
-][3] &#8212;
+  * [How to destroy the Earth @ Things Of Interest][3] &#8212;
   
     Tagged as: cool humor
-  * [diesel sweeties: pixelated robot romance web comic & t-shirt party
-  
-][4] &#8212;
+  * [diesel sweeties: pixelated robot romance web comic & t-shirt party][4] &#8212;
   
     Tagged as: webcomics
 

@@ -115,15 +115,7 @@ Kher Keep
    
 1 Swamp
 
-I'm pretty sure I misbuilt this, you can see the complete pool
-   
-[
-    
-here
-   
-][1] 
-   
-. Obviously, the black was too strong to be just a small splash as I wanted. Maybe green should have been the splash? I often ended up boarding +2 swamp +1 sudden death +1 dark withering -2 forest -1 citanul woodreaders -1 thallid germinator. I really like that sliver linear I had going.
+I'm pretty sure I misbuilt this, you can see the complete pool [here][1]. Obviously, the black was too strong to be just a small splash as I wanted. Maybe green should have been the splash? I often ended up boarding +2 swamp +1 sudden death +1 dark withering -2 forest -1 citanul woodreaders -1 thallid germinator. I really like that sliver linear I had going.
 
 First round was against a guy playing UGR, he had Call of the Herd which was annoying. He had in both games one and three, and I practically lost to it. Game two I won the back of turn two Gemhide, turn three Bonesplitter and he missed the third land drop.
    

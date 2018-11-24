@@ -19,11 +19,7 @@ I'm terrible at guessing what decks are doing (I failed to predict that my round
 
 I need more solid constructed finishes to boost my ratings so I could be in the top 75 next year (and not have to grind it out in the qualifiers again). Sadly, my best constructed finish this year was actually
    
-[
-    
-in Block
-   
-][1] 
+[in Block][1] 
    
 .
 

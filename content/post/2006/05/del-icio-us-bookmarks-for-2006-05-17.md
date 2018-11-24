@@ -11,9 +11,7 @@ url: /2006/05/del-icio-us-bookmarks-for-2006-05-17/
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-05-17
 
-  * [Google Web Toolkit
-  
-][3] &#8212;
+  * [Google Web Toolkit][3] &#8212;
   
     Tagged as: development framework web
 

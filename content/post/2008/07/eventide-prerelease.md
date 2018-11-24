@@ -143,49 +143,15 @@ My decklist:
   </div>
 </div>
 
-My round one opponent thankfully read
-   
-[Cinder Pyromancer][7]
-   
-for me out loud when I played it and I realized it didn't actually hit creatures (not as awesome as I thought!) and I lost the first game due to pretty much having only a dorky 0/1. I boarded it out for a
-   
-[Snakeform][8]
-   
-(which I would do so for the rest of the rounds), then proceeded to win games two and three in very tight races.
+My round one opponent thankfully read [Cinder Pyromancer][7] for me out loud when I played it and I realized it didn't actually hit creatures (not as awesome as I thought!) and I lost the first game due to pretty much having only a dorky 0/1. I boarded it out for a [Snakeform][8] (which I would do so for the rest of the rounds), then proceeded to win games two and three in very tight races.
 
-In round two I thought I had game three in the bag when I managed to play turn one
+In round two I thought I had game three in the bag when I managed to play turn one [Duergar Assailant][9] into turn three [Scourge of the Nobilis][10]
    
-[Duergar Assailant][9]
-   
-into turn three
-   
-[Scourge of the Nobilis][10]
-   
-and he had no immediate answers. I managed to get the life totals to 36-8 in my favor before I foolishly traded my heroic dwarf in combat and he stabilized with a
-   
-[Voracious Hatchling][11]
-   
-in play, which then proceeded to chase the life totals to to the other side of the board. I made several bad plays with the Hatchling, especially when he swung the 3/3 Hatchling into my 3/3 first-striking Kithkin with one mana open. I instinctively blocked, and of course he had the scar! This was very early on, and I don't think he would have been able to win without the Hatchling, so I should have just gone all-in and mass blocked with everyone. I lose the match 1-2.
+and he had no immediate answers. I managed to get the life totals to 36-8 in my favor before I foolishly traded my heroic dwarf in combat and he stabilized with a [Voracious Hatchling][11] in play, which then proceeded to chase the life totals to to the other side of the board. I made several bad plays with the Hatchling, especially when he swung the 3/3 Hatchling into my 3/3 first-striking Kithkin with one mana open. I instinctively blocked, and of course he had the scar! This was very early on, and I don't think he would have been able to win without the Hatchling, so I should have just gone all-in and mass blocked with everyone. I lose the match 1-2.
 
-Round three, my opponent seemed new to tournaments, so I found myself holding back at some points. Flores said
-   
-_
-    
-Mercy will kill you!
-   
-_ 
-   
-but luckily it didn't and I won in two games.
+Round three, my opponent seemed new to tournaments, so I found myself holding back at some points. Flores said _Mercy will kill you!_ but luckily it didn't and I won in two games.
 
-Round four, and I'm paired up with
-   
-[
-    
-Switch
-   
-][12] 
-   
-, who cardpools with me and was one of the people I came to the prerelease with. Not cool, but we don't have a choice. We get the pack either way, so we just play for the win on the record. I get in an aggro start -- "I want to win the game," showing Scourge of the Nobilis -- and win in two.
+Round four, and I'm paired up with [Switch][12], who cardpools with me and was one of the people I came to the prerelease with. Not cool, but we don't have a choice. We get the pack either way, so we just play for the win on the record. I get in an aggro start -- "I want to win the game," showing Scourge of the Nobilis -- and win in two.
 
 Switch and I win five packs between the two of us, but we open more unexciting rares (R/U liege for the lose!). So far I'm still not too excited about Eventide, or Magic in general these past few weeks to be honest. I'm more interested in Block than Standard, but Block seems to be dominated by Faeries, which I find annoying. I hope Eventide shakes up the block meta enough so that it's more varied by the time Grand Prix Manila rolls around.
 

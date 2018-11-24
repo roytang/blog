@@ -10,11 +10,7 @@ url: /2007/05/some-simple-electoral-reforms/
 
 1. Ban the distribution of sample ballots and election paraphernalia on election day within the vicinity of voting precincts. Seriously, check out the amount of trash generated on election day near the precinct:
 
-[
-  
-![][1]
-  
-][1] 
+[![][1]][1] 
 
 And I noted that the current level of trash is already an improvement from last year!
 

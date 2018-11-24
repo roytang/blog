@@ -7,15 +7,7 @@ type: post
 url: /2008/09/grand-prix-manila-grinders-and-day-one-decks/
 ---
 
-Grand Prix Manila 08 has come and gone and is in the history books. While the
-   
-[
-    
-Wizards official coverage
-   
-][1] 
-   
-gives you the play-by-play and the results, I’ll see if I can’t provide any interesting stories about my first constructed Grand Prix event.
+Grand Prix Manila 08 has come and gone and is in the history books. While the [Wizards official coverage][1] gives you the play-by-play and the results, I’ll see if I can’t provide any interesting stories about my first constructed Grand Prix event.
 
 **
     

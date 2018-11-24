@@ -11,19 +11,13 @@ url: /2006/03/del-icio-us-bookmarks-for-2006-03-04/
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2006-03-04
 
-  * [20 greatest cartoon characters
-  
-][3] &#8212;
+  * [20 greatest cartoon characters][3] &#8212;
   
     Tagged as: cartoons
-  * [Transformers: Evolution
-  
-][4] &#8212;
+  * [Transformers: Evolution][4] &#8212;
   
     Awesome alternate-universe Transformers series set during the early industrial age. Check out the initial sketches!Tagged as: comics transformers
-  * [YouTube -- Real Life Simpsons Intro
-  
-][5] &#8212;
+  * [YouTube -- Real Life Simpsons Intro][5] &#8212;
   
     Tagged as: simpsons
 
