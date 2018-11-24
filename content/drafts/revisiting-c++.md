@@ -1,8 +1,7 @@
 ---
 title: Revisiting C++ after a decade
 author: roy
-type: post
-date: 2018-11-17T09:07:22+08:00
+date: 2019-11-17T09:07:22+08:00
 categories:
   - Software Development
 tags:

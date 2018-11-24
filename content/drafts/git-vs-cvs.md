@@ -1,8 +1,8 @@
 ---
 title: Git vs CVS
 author: roy
-type: post
-date: 2018-11-28T10:06:56+08:00
+draft: true
+date: 2019-11-28T10:06:56+08:00
 categories:
   - Software Development
 ---
@@ -15,4 +15,4 @@ My experience with this was a bit amazing in retrospect. Mostly because for a la
 
 Git has a few other advantages of course. One of my favorites is being able to address specific commits individually by hash, and see the file changes and so on. When we were using CVS if you wanted to rollback to a specific change, you had to have the foresight to have tagged that change so that you can check it out again. And CVS for us was always very slow for larger projects with thousands of files, leading to annoyingly long build cycles and wait times. Git seems to be a lot more performant.
 
-I hold no ill will towards my old company for making me use CVS all those years. When I started out it was a reasonable choice, but as time went by better options simply became available, and like many companies it was difficult to leave entrenched systems. I did propose the use of VCS over the years, at first Mercurial and later Git as well, but there was never a good time to migrate without being overly disruptive (this happens often when Everything Is Urgent). Probably if I had gotten in on a larger project on the ground floor, but the last time I had a chance for that was around 2007 I think, when Git was still in infancy. Still, I heard from people still there that they're already migrating to Git, so good for them (even though they waited til I was gone!). 
+I hold no ill will towards my old company for making me use CVS all those years. When I started out it was a reasonable choice, but as time went by better options simply became available, and like many companies it was difficult to leave entrenched systems. I did propose the use of distributed VCS over the years; at first Mercurial and later Git as well, but there was never a good time to migrate without being overly disruptive (this happens when Everything Is Urgent). Probably if I had gotten in on a larger project on the ground floor, but the last time I had a chance for that was around 2007 I think, when Git was still in infancy. Still, I heard from people still there that they're already in migrating to Git, so good for them (even though they waited til I was gone!). 
