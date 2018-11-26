@@ -8,34 +8,6 @@ tags:
 title: The Simplest Code That Can Do The Job
 type: post
 url: /2017/01/the-simplest-code-that-can-do-the-job/
-wp-syntax-cache-content:
-- "a:1:{i:1;s:2299:\"\n<div class=\"wp_syntax\" style=\"position:relative;\"><table><tr><td
-  class=\"code\"><pre class=\"python\" style=\"font-family:monospace;\"><span style=\"color:
-  #ff7700;font-weight:bold;\">def</span> load_db<span style=\"color: black;\">&#40;</span><span
-  style=\"color: black;\">&#41;</span>:\n\tall_series <span style=\"color: #66cc66;\">=</span>
-  <span style=\"color: black;\">&#123;</span><span style=\"color: black;\">&#125;</span>\n\t<span
-  style=\"color: #ff7700;font-weight:bold;\">with</span> <span style=\"color: #008000;\">open</span><span
-  style=\"color: black;\">&#40;</span>DATABASE_FILE<span style=\"color: #66cc66;\">,</span>
-  <span style=\"color: #483d8b;\">'rb'</span><span style=\"color: black;\">&#41;</span>
-  <span style=\"color: #ff7700;font-weight:bold;\">as</span> handle:\n\t\tall_series
-  <span style=\"color: #66cc66;\">=</span> <span style=\"color: #dc143c;\">pickle</span>.<span
-  style=\"color: black;\">load</span><span style=\"color: black;\">&#40;</span>handle<span
-  style=\"color: black;\">&#41;</span>\n\t<span style=\"color: #ff7700;font-weight:bold;\">return</span>
-  all_series\n&nbsp;\n<span style=\"color: #ff7700;font-weight:bold;\">def</span>
-  save_db<span style=\"color: black;\">&#40;</span>all_series<span style=\"color:
-  black;\">&#41;</span>:\n\t<span style=\"color: #ff7700;font-weight:bold;\">with</span>
-  <span style=\"color: #008000;\">open</span><span style=\"color: black;\">&#40;</span>DATABASE_FILE<span
-  style=\"color: #66cc66;\">,</span> <span style=\"color: #483d8b;\">'wb'</span><span
-  style=\"color: black;\">&#41;</span> <span style=\"color: #ff7700;font-weight:bold;\">as</span>
-  handle:\n\t\t<span style=\"color: #dc143c;\">pickle</span>.<span style=\"color:
-  black;\">dump</span><span style=\"color: black;\">&#40;</span>all_series<span style=\"color:
-  #66cc66;\">,</span> handle<span style=\"color: #66cc66;\">,</span> protocol<span
-  style=\"color: #66cc66;\">=</span><span style=\"color: #dc143c;\">pickle</span>.<span
-  style=\"color: black;\">HIGHEST_PROTOCOL</span><span style=\"color: black;\">&#41;</span></pre></td></tr></table><p
-  class=\"theCode\" style=\"display:none;\">def load_db():\n\tall_series = {}\n\twith
-  open(DATABASE_FILE, 'rb') as handle:\n\t\tall_series = pickle.load(handle)\n\treturn
-  all_series\n\ndef save_db(all_series):\n\twith open(DATABASE_FILE, 'wb') as handle:\n\t\tpickle.dump(all_series,
-  handle, protocol=pickle.HIGHEST_PROTOCOL)</p></div>\n\";}\n"
 ---
 
 So the other day I was reworking a Python script that I had been using for years on my home PC to manage and categorize some downloaded files for me. This time I wanted to add some smarter behavior to make it more able to figure out when to group files into folders without constantly needing manual intervention from me. To do this, I needed to persist some data between runs -- so that the script remembers how it categorized previous files and is able to group similar files together.
@@ -46,7 +18,8 @@ As programmers, we have a tendency sometimes to over-engineer solutions because 
 
 I ended up just using pickle, which was already built-in to Python:
 
-<pre lang="python">def load_db():
+{{< highlight python >}}
+def load_db():
 	all_series = {}
 	with open(DATABASE_FILE, 'rb') as handle:
 		all_series = pickle.load(handle)
@@ -55,7 +28,7 @@ I ended up just using pickle, which was already built-in to Python:
 def save_db(all_series):
 	with open(DATABASE_FILE, 'wb') as handle:
 		pickle.dump(all_series, handle, protocol=pickle.HIGHEST_PROTOCOL)
-</pre>
+{{< /highlight >}}
 
 (Above code _probably_ gives you an idea what kind of files I'm sorting&#8230;)
 
