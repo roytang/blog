@@ -2,7 +2,9 @@
 author: roy
 categories:
 - Tech Life
-date: 2019-11-29T10:06:56+08:00
+tags:
+- walking
+date: 2018-11-29T10:06:56+08:00
 title: "Review: Fitbit Charge 2"
 type: post
 ---

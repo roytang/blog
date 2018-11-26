@@ -2,7 +2,9 @@
 author: roy
 categories:
 - Just Another Day
-date: 2019-11-28T10:06:56+08:00
+tags:
+- walking
+date: 2018-11-28T10:06:56+08:00
 title: Daily Walks
 type: post
 ---
