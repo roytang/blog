@@ -7,7 +7,8 @@ tags:
 - Movies
 - Review
 - TV Series
-title: October 2018 Watching Lately
+- watching lately
+title: "Watching Lately: October 2018"
 type: post
 url: /2018/10/october-2018-watching-lately/
 ---
