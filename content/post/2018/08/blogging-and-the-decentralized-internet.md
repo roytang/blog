@@ -1,9 +1,10 @@
 ---
 author: roy
 categories:
-- Opinions
 - Tech Life
 - Writing
+tags:
+- blogging
 date: 2018-08-14 15:36:32
 title: Blogging and the Decentralized Internet
 type: post

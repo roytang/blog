@@ -48,7 +48,7 @@ disqusShortname = "roytangweblog"
     highlight = "default"
 
     # Google Analytics.
-    googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = "UA-129889874-1"
 
     # Sidebar social links.
     github = "roytang" # Your Github profile ID

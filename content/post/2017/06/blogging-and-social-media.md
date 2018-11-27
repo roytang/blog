@@ -1,8 +1,10 @@
 ---
 author: roy
 categories:
-- Opinions
 - Writing
+tags:
+- blogging
+- social media
 date: 2017-06-05 01:30:42
 title: Blogging and Social Media
 type: post
