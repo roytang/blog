@@ -8,7 +8,7 @@ def create_archives():
     cwd = Path.cwd() 
     # navigate to ./content/post
     p = cwd / "content" / "post"
-    if p.name != "posts":
+    if p.name != "post":
         print("Could not find post folder")
         return
     # immediately under the posts are the year folders
