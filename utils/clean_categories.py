@@ -18,17 +18,23 @@ cats_map = {
     "Politics": "Opinions",
     "Puzzles": "Tech Life", # das weird
     "Review" : "",
-    "TV Series": "Pop Culture"
+    "TV Series": "Pop Culture",
+    "Current Events": "",
+    "Myself": ""
 }
 
 def clean_categories():
     cwd = Path.cwd() 
     # navigate to ./content/posts
-    p = cwd / "content" / "posts"
+    p = cwd / "content" / "post"
     for mdfile in p.glob("**/*.md"):
         print(str(mdfile))
         with mdfile.open() as f:
-            post = frontmatter.load(f)
+            try:
+                post = frontmatter.load(f)
+            except:
+                print("Error parsing file")
+                continue
 
             has_changes = False
 

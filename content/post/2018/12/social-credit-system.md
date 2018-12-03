@@ -2,8 +2,9 @@
 author: roy
 categories:
 - Tech Life
+date: 2018-12-04 02:06:56
+tags:
 - Current Events
-date: 2018-12-04T10:06:56+08:00
 title: Social Credit System
 type: post
 ---

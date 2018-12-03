@@ -15,20 +15,11 @@ url: /resume
 
 #### Contact Details
 
-##### Current Residence
-Tandang Sora, Quezon City, Philippines
-
-##### Email
-[roytang@gmail.com](mailto:roytang@gmail.com)
-
-##### Skype
-royjtang
-
-##### Website
-[https://roytang.net](https://roytang.net)
-
-##### LinkedIn
-[https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang)
+| Current Residence | Preferred Contact Method |
+|------|-----|
+| Tandang Sora, Quezon City, Philippines | Email: [roytang@gmail.com](mailto:roytang@gmail.com) |
+| **website** | **LinkedIn** |
+| [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang) |
 
 ***
 

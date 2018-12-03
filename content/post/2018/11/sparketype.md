@@ -1,9 +1,11 @@
 ---
-title: "Sparketype"
-date: 2018-11-15T10:00:21+08:00
-publishdate: 2018-11-15T10:00:21+08:00
 categories:
+- Just Another Day
+date: 2018-11-15 02:00:21
+publishdate: 2018-11-15 02:00:21
+tags:
 - Myself
+title: Sparketype
 ---
 
 It's been a while since I took one of those internet quizzes that categorize you and try to describe your personality. I ran into this one called [Sparketypes](https://www.goodlifeproject.com/sparketypes/) recently. Here's my result:
