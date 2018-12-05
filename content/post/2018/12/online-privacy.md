@@ -2,7 +2,7 @@
 author: roy
 categories:
 - Tech Life
-date: 2018-12-08T09:56:56+08:00
+date: 2018-12-07T09:56:56+08:00
 title: "Online Privacy"
 type: post
 ---

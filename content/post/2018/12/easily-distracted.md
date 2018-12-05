@@ -2,7 +2,7 @@
 author: roy
 categories:
 - Self-improvement
-date: 2018-12-07T09:56:56+08:00
+date: 2018-12-06T09:56:56+08:00
 title: "Easily Distracted"
 type: post
 ---
@@ -33,3 +33,6 @@ I didn't list plain old laziness among the reasons above, though I'm surely guil
 
 All of these are some demons I need to tame if I really want to become more independent; I guess at least recognizing them is key and compensating for them where necessary, and making sure I only drop projects if I'm convinced they're not worth it.
 
+Coincidentally relevant webcomic:
+
+{{< tweet 1070082567402110977 >}}

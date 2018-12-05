@@ -2,7 +2,7 @@
 author: roy
 categories:
 - Tech Life
-date: 2018-12-11T09:56:56+08:00
+date: 2018-12-08T09:56:56+08:00
 title: "Quora"
 type: post
 ---
