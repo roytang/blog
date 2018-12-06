@@ -23,7 +23,7 @@ Here are the obvious differences/advantages of blogging:
   2. Blogs are long-form. Contrast this with Twitter's post-length limitation and even Facebook where I also tend to spout out one-liners or short paragraphs. I like a blog post for longer, more detailed content. Twitter users use workarounds like the "1/N" format to post longer text content, but I'm not really a big fan of that.
   3. A blog should contain your own content. Contrast this with almost all social media where your own content is interspersed with retweets, shares, reblogs, and so on.
   4. Blogs are searchable, either using your internal search form (I have one on the sidebar!) or via Google search. It's a bit annoying sometimes trying to scroll through your FB or Twitter timeline trying to find something.
-  5. The above point means social media posts feel a lot more&#8230; ephemeral, maybe? I consider blog posts a lot more "permanent", while social media are more of "at this point in time."
+  5. The above point means social media posts feel a lot more...  ephemeral, maybe? I consider blog posts a lot more "permanent", while social media are more of "at this point in time."
   6. Blogs are under your control. You're not subject to someone else's moderation. Of course that also means you're on your own if you get DDOS'ed or such hehe. Well, there's pros and cons of course.
   7. You can still push your blog content to your other social media channels. I have systems set up to push my blog posts to Twitter, Facebook and Tumblr.
 

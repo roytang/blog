@@ -279,7 +279,7 @@ It looks Five-Color Control will be my weapon of choice in Standard, at least un
 ## Comments
 
 ### Comment by [Benj](http://benjmtg.blogspot.com/) on 2009-03-30 13:29:50 +0000
-Congrats on the great performance, and for winning the PR passes. Weird that you didn't come across any Blightning deck&#8230; is the meta in Galleria really control-heavy?
+Congrats on the great performance, and for winning the PR passes. Weird that you didn't come across any Blightning deck...  is the meta in Galleria really control-heavy?
 
 ### Comment by roy on 2009-04-03 23:08:16 +0000
 I think there were about 6 other people playing 5-color control. Faeries konti lang. Lots of R/W decks, even though I only faced one.

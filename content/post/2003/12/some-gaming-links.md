@@ -15,7 +15,7 @@ Today's random links:
 
 [Lost Levels][2] 
    
--- covers games that were never made available to the general (well, American at least) public. They have this neat feature about the games that would have been Final Fantasy IV and Seiken Densetsu, but got cancelled; another nice feature is that they've uncovered a preliminary script for what would have been the NES release of the Japanese Final Fantasy 2&#8230;neat!
+-- covers games that were never made available to the general (well, American at least) public. They have this neat feature about the games that would have been Final Fantasy IV and Seiken Densetsu, but got cancelled; another nice feature is that they've uncovered a preliminary script for what would have been the NES release of the Japanese Final Fantasy 2... neat!
 
 Quote:
 

@@ -15,7 +15,7 @@ Some notes:
   
 -- the Django template engine included with GAE seems to be earlier than version 1, as the escapejs filter wasn't available and I had to write it myself. Still, being familiar with the Django template engine helped a lot
   
--- WordPress.com blogs don't allow Javascript inside the posts, so the blog sharing code I provide won't work there. It works on Blogger though. I'll look for a workaround&#8230;(iframes?)
+-- WordPress.com blogs don't allow Javascript inside the posts, so the blog sharing code I provide won't work there. It works on Blogger though. I'll look for a workaround... (iframes?)
   
 -- I've yet to try using memcache, so the current version doesn't cache anything, I mean to try it in a future version
   

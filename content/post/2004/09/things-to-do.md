@@ -57,4 +57,4 @@ In order of priority:
 
 
    
-Hmm&#8230;that's it for now.
+Hmm... that's it for now.

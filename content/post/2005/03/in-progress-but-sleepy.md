@@ -11,7 +11,7 @@ type: post
 url: /2005/03/in-progress-but-sleepy/
 ---
 
-As it may mention in the page title, I'm currently screwing around with the blogger template, so this blog may look a bit&#8230;um&#8230;screwy for a while.
+As it may mention in the page title, I'm currently screwing around with the blogger template, so this blog may look a bit... um... screwy for a while.
 
 I've been wanting to toy around with Javascript hacks to extend the Blogger template functionality. The first thing I did was add some Javascript that allows you to show/hide individual posts on the page. But actually, I don't really like it, I'll remove it later.
 

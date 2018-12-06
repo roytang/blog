@@ -18,7 +18,7 @@ Second is an egg-timer type app, [AleJenJes Countdown Timer][2] -- I don't know
 
 Last is a Window WP right-click menu addon, [FileMenuTools][3]. Some nice common tasks can be added to the context menu, some I do regularly.
 
-I've also looked at some a few PIM programs, but my experience is that I'm not very good at this sort of thing&#8230;the only one that's stuck to me for a while was [GTDTiddlyWiki][4], and I don't even use that regularly anymore. I'm thinking I should find some way to integrate task management into my workflow. Maybe I could write the program myself, the requirements are simple:
+I've also looked at some a few PIM programs, but my experience is that I'm not very good at this sort of thing... the only one that's stuck to me for a while was [GTDTiddlyWiki][4], and I don't even use that regularly anymore. I'm thinking I should find some way to integrate task management into my workflow. Maybe I could write the program myself, the requirements are simple:
 
 1. I want to be able to specify tasks that I want to be reminded of. As an initial example, maybe I could schedule daily, weekly or monthly tasks.
 

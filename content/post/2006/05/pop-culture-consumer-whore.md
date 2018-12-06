@@ -14,6 +14,6 @@ Sometimes it's frightening to consider the existent of how much popular culture 
   * Episode 21 of Smallville Season 5
   * Episodes 18 and 19 of Simpsons Season 17
   * 8 hours of Suikoden V gameplay
-  * &#8230;and probably 2-3 odd hours of watching random cartoons or wrestling on TV
+  * ... and probably 2-3 odd hours of watching random cartoons or wrestling on TV
 
-Hmm&#8230;I forgot to watch a movie though. At least I'm not a complete TV zombie&#8230;I'm usually either a PC zombie or a PS2 zombie :p
+Hmm... I forgot to watch a movie though. At least I'm not a complete TV zombie... I'm usually either a PC zombie or a PS2 zombie :p

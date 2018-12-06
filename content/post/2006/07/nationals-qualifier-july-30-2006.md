@@ -171,7 +171,7 @@ Round 3: vs Ghost Husk
    
 
    
-Hah! Complete and utter domination. There is nothing in black-white aggro that my deck can't answer. His card advantage pales in comparison to the might of Court Hussar! Game 2 I side in Repeals out of courtesy (if I didn't board he might think I wasn't taking him seriously! And Repeals are instant-speed removal&#8230;better than Fetters against Husk), but they never show and I still win easily.
+Hah! Complete and utter domination. There is nothing in black-white aggro that my deck can't answer. His card advantage pales in comparison to the might of Court Hussar! Game 2 I side in Repeals out of courtesy (if I didn't board he might think I wasn't taking him seriously! And Repeals are instant-speed removal... better than Fetters against Husk), but they never show and I still win easily.
    
 
    
@@ -191,7 +191,7 @@ Round 5: vs Firemane Control
    
 
    
-Horror of horrors&#8230;I've now faced variations on two decks that I played before in Nationals Qualifiers. Unfortunately, Firemane Control was not a matchup I was anticipating&#8230;and it's a pretty bad matchup for me as well. I have no way to stop the recurring Angels / Shard Phoenix (no Azorius GMs show up to save the day), and my creatures are too small to overtake his awesome lifegain. This deck packs Isperia the Inscrutable!
+Horror of horrors... I've now faced variations on two decks that I played before in Nationals Qualifiers. Unfortunately, Firemane Control was not a matchup I was anticipating... and it's a pretty bad matchup for me as well. I have no way to stop the recurring Angels / Shard Phoenix (no Azorius GMs show up to save the day), and my creatures are too small to overtake his awesome lifegain. This deck packs Isperia the Inscrutable!
    
 
    
@@ -201,7 +201,7 @@ Round 6: vs "Equipment Deck"
    
 
    
-I have no idea what this deck is called. Basically relies on Godo, Bandit Warlord, Firemane Angel and Sunforger searches to win. I won game 1 due to my awesome weenies. Game 2 our life totals were 21-37 when the round ended&#8230;he had a Godo, an Angel, 2 Sunforgers and Tatsumasa out, but the board was locked by a single Azorius GM backed by around 17 lands. Best play: he manages to draw a helix to hit my GM, and I had no cards left in hand. I cast Remand and draw a card. He casts the Helix again, the GM dies and he passes the turn. Then I show him the GM I drew from the Remand&#8230;
+I have no idea what this deck is called. Basically relies on Godo, Bandit Warlord, Firemane Angel and Sunforger searches to win. I won game 1 due to my awesome weenies. Game 2 our life totals were 21-37 when the round ended... he had a Godo, an Angel, 2 Sunforgers and Tatsumasa out, but the board was locked by a single Azorius GM backed by around 17 lands. Best play: he manages to draw a helix to hit my GM, and I had no cards left in hand. I cast Remand and draw a card. He casts the Helix again, the GM dies and he passes the turn. Then I show him the GM I drew from the Remand... 
    
 
    
@@ -229,6 +229,6 @@ This U/G/R aggro-control deck is simply awesome. The guy I'm fighting also beat 
    
 Match record: 11-7, Game record: 5-3
 
-I finish at 35th place&#8230;not bad, but not enough to get an invite. I'm wondering if I'm still going to play at next Saturday's qualifier&#8230;which is the last chance for me as I don't plan to go to Baguio to play. But, how can I tweak my deck further to win?
+I finish at 35th place... not bad, but not enough to get an invite. I'm wondering if I'm still going to play at next Saturday's qualifier... which is the last chance for me as I don't plan to go to Baguio to play. But, how can I tweak my deck further to win?
 
  [1]: #

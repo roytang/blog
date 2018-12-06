@@ -21,7 +21,7 @@ Let me repeat: consoles suck. Not console games mind you, console games are grea
 Disclaimer: Okay, I've overreacting, consoles don't _really_ suck, but I [really hate my PS2 right now][2].
 
 <div>
-  [1] Zelda, Metroid, Castlevania&#8230;well ok, that last one was a Konami<br /> [2] heaven knows my brother is still trying to finish Wizardry VII<br /> [3] gee, is it because of piracy? Probably not, piracy ups prices from the game publishers themselves. What's happening here is that local PS2 titles are priced far beyond the actual release prices of the games. Maybe it's stupidity.
+  [1] Zelda, Metroid, Castlevania... well ok, that last one was a Konami<br /> [2] heaven knows my brother is still trying to finish Wizardry VII<br /> [3] gee, is it because of piracy? Probably not, piracy ups prices from the game publishers themselves. What's happening here is that local PS2 titles are priced far beyond the actual release prices of the games. Maybe it's stupidity.
 </div>
 
  [1]: http://www.gearlive.com/index.php/news/article/feature_why_sonys_psp_will_suck_02070458/

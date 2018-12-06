@@ -18,6 +18,6 @@ His response: "That would make an awesome sitcom."
 
 Imagine, if you will, a priest at a small parish, occasionally bored with what is surely his life's calling. Every so often, he sneaks out to his local comedy club and performs as a stand-up comic. Hilarity ensues.
 
-Too bad it wouldn't work in a Philippine setting. (No comedy clubs here&#8230;)
+Too bad it wouldn't work in a Philippine setting. (No comedy clubs here... )
 
 Remember, you read it here first! If it comes out on any network, they're surely ripping me off.

@@ -20,7 +20,7 @@ However, there's something that makes it really difficult for me to go pure Ubun
 
 The freaking XP installer wiped my partition table.
 
-After running the XP installer just to see what options I had for repairing the previous Windows installation, I found that the Grub bootloader wouldn't work anymore, my PC refused to boot at all. I lost some 60GB of downloaded data that day. (I was able to recover some 4GB of personal data&#8230;pictures and such.) Up to now I'm still wondering if the XP installer saw that I had a different OS installed and just had a "Oh yeah? It's me or nothing!" tendency.
+After running the XP installer just to see what options I had for repairing the previous Windows installation, I found that the Grub bootloader wouldn't work anymore, my PC refused to boot at all. I lost some 60GB of downloaded data that day. (I was able to recover some 4GB of personal data... pictures and such.) Up to now I'm still wondering if the XP installer saw that I had a different OS installed and just had a "Oh yeah? It's me or nothing!" tendency.
 
 In any case, I'm on a clean XP install now. I'll probably reinstall Ubuntu some time (dual boot again), but for now I seem to be another Microsoft sheep again.
 

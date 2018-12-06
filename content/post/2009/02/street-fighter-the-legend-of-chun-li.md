@@ -17,7 +17,7 @@ It was so bad. I could've been able to forgive the fact that they roughly 80% of
 
 I'm not sure if it was a problem with the theater's copy, but there were no subtitles for the Chinese/Thai dialogues, which made up a nontrivial portion of the movie. Also, did they really, absolutely need to have the Kikoushou? The internal world of the movie would have been so much more consistent if Chun-Li did not magically learn the ability to create a fireball from nothing. And it's totally unexplained as well!
 
-Nash and Maya were pretty much useless. Gen, supposedly a really old guy who's a rival for Akuma, was played by the same guy who played Liu Kang in Mortal Kombat, except he was wearing a really bad wig and apparently could not die. Michael Clark Duncan is wasted in his role as Balrog, who is not even hinted to be a boxer at all&#8230;in fact he went so far as to use a bow and arrow in this movie. (Oh, and getting beaned by a pineapple)
+Nash and Maya were pretty much useless. Gen, supposedly a really old guy who's a rival for Akuma, was played by the same guy who played Liu Kang in Mortal Kombat, except he was wearing a really bad wig and apparently could not die. Michael Clark Duncan is wasted in his role as Balrog, who is not even hinted to be a boxer at all... in fact he went so far as to use a bow and arrow in this movie. (Oh, and getting beaned by a pineapple)
 
 [@altealice][1] asks: are there enough lolz to make watching it worthwhile?
 

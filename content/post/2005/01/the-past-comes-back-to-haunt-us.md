@@ -20,7 +20,7 @@ So, anyway, yeah. Coming back to bite you in the ass. And for this reason, I'm h
 
 What am I saying? Am I going to be more circumspect in the future, and avoid anything that may get me in trouble? Hell, no. Although I did breifly consider taking down the [Unrequited][4] post, I'm pretty sure I should stand for what I've written. No matter how bad, sappy, or stupid it was, it's my work, I should just take it for what it is. Hence bringing back the old posts.
 
-Hmm&#8230;I really only wanted to post that I was bringing back the old posts. I talk a lot.
+Hmm... I really only wanted to post that I was bringing back the old posts. I talk a lot.
 
  [1]: http://topcities.com
  [2]: http://www.archive.org

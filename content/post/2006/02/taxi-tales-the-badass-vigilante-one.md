@@ -8,7 +8,7 @@ type: post
 url: /2006/02/taxi-tales-the-badass-vigilante-one/
 ---
 
-&#8230;or so he claimed.
+... or so he claimed.
 
 The conversation started off easily enough, he said the MMDA over at Megamall were staring him down for daring to wait for me to run up to his cab. For some reason, he soon digressed into how earlier that day he had witnessed a man snatch a cellphone from a young woman inside a jeepney. The young woman was of course dumbstruck as the perp made his escape. My host candidly told me that if only he'd had a passenger to watch his cab for him, he would have stepped out of his cab (he was deep in traffic) and given chase himself.
 
@@ -30,6 +30,6 @@ Now me, I've never witnessed a single snatching or holding-upping or anything li
 
 The taxi driver remarked that robbers and snatchers always say something like "I just needed money to buy milk for my baby", which is a totally BS excuse. Many hundreds, if not thousands of our countrymen struggle everyday trying to make a decent, honest living, and as long as there are people able to walk that road, "I had to do it to survive" is \*not\* an excuse.
 
-That sort of petty crime on the streets is a vicious cycle, and even if you say that it's caused by poverty, it also causes poverty by itself&#8230;more often than not the victims are just the sort of people who have worked extra hard to be able to save up for something decent. As the taxi driver mentioned, many of the snatched cellphones are probably not even yet fully paid for. It's a case of poverty feeding upon itself.
+That sort of petty crime on the streets is a vicious cycle, and even if you say that it's caused by poverty, it also causes poverty by itself... more often than not the victims are just the sort of people who have worked extra hard to be able to save up for something decent. As the taxi driver mentioned, many of the snatched cellphones are probably not even yet fully paid for. It's a case of poverty feeding upon itself.
 
 We wandered into more discussions about gun control, the situation in America and Saudi Arabia and almost always his solutions came back to some form of harsh and inhumane punishment or perhaps vigilantism. Maybe it's not a bad idea; imagine how much safer Metro Manila might be if we had some sort of Batman-like character prowling the night and scaring the hell out of would-be criminals?

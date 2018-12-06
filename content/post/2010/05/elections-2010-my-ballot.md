@@ -62,6 +62,6 @@ But this will only work for sure at the onset. Politics is politics, and no one 
 Chry, I think what you actually want is then to get are leaders, who, regardless of different political backgrounds, aim for the same platform. Just because they're enemies, doesn't mean that healthcare enthusiasts will not want healthcare related issues solved (though, leaders will always surprise you).
 
 ### Comment by edebelenmd on 2010-05-15 21:36:14 +0000
-Hmmm&#8230; so hindi na kita puwede sisihin kung bakit hindi umuunlad ang Pilipinas? 😛
+Hmmm...  so hindi na kita puwede sisihin kung bakit hindi umuunlad ang Pilipinas? 😛
 
 Nice post! Just let me know when SRJT is running for president! 😀

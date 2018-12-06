@@ -47,11 +47,11 @@ The Bad:
    
 
    
-* Unforgiving design. Permanent death. Underlevelled party has no chance against higher level party. Masses of enemies thrown at you. It's like the designers decided that instead of simply working on tactically challenging battles, they would throw lots of enemies at you, at higher levels than you would expect and hope that you have the tactical ability to overcome this. It was a good idea except for the fact that LOW-LEVEL CHARACTERS STAND NO CHANCE AGAINST HIGH-LEVEL CHARACTERS. Even if you're only two levels behind, your damage and hit rate become so pitiful that you simply won't survive one-on-one, what more two-on-one. The game would've been 300 times better if either a) story battles had the same level as you; or b) The number of units on each side are comparable. As it is, the only real reliable way to win in battles is through either Coinfeigms or leveling-up. Which wouldn't be so bad except that&#8230;
+* Unforgiving design. Permanent death. Underlevelled party has no chance against higher level party. Masses of enemies thrown at you. It's like the designers decided that instead of simply working on tactically challenging battles, they would throw lots of enemies at you, at higher levels than you would expect and hope that you have the tactical ability to overcome this. It was a good idea except for the fact that LOW-LEVEL CHARACTERS STAND NO CHANCE AGAINST HIGH-LEVEL CHARACTERS. Even if you're only two levels behind, your damage and hit rate become so pitiful that you simply won't survive one-on-one, what more two-on-one. The game would've been 300 times better if either a) story battles had the same level as you; or b) The number of units on each side are comparable. As it is, the only real reliable way to win in battles is through either Coinfeigms or leveling-up. Which wouldn't be so bad except that... 
    
 
    
-* Levelling-up is tedious. Since you will almost never meet enemies in the Towers who are at the same level as yours, you're stuck fighting lower level goons while occasionally hitting yourselves for EXP. And not only that&#8230;
+* Levelling-up is tedious. Since you will almost never meet enemies in the Towers who are at the same level as yours, you're stuck fighting lower level goons while occasionally hitting yourselves for EXP. And not only that... 
    
 
    

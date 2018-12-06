@@ -15,7 +15,7 @@ All in all, the talks were interesting, with a wide range of technical topics di
 
 It felt good getting to know the community and meet some new people and see the cool (and geeky) things local developers are doing. Although I code day in and day out for work, I could probably still learn a lot from the development community. The uptake of newer technologies is a lot faster in the community than at work, so somehow it's a refreshing change of pace.
 
-Hmm&#8230;I wonder if I would be able to rustle up something to present at the next Barcamp?
+Hmm... I wonder if I would be able to rustle up something to present at the next Barcamp?
 
  [1]: http://devblog.michaelgalero.com/
  [2]: http://barcamp.org/BarCampManila
@@ -60,7 +60,7 @@ Problem is, we've been making too much noise recently that it's possible that
   
 people would dismiss this as yet another random rabble. XP We have to get the
   
-timing right&#8230; and possibly gather surveys or statistics or whatever first to
+timing right...  and possibly gather surveys or statistics or whatever first to
   
 drive points home.
 
@@ -68,7 +68,7 @@ drive points home.
   
 there's already a small group of people initiating changes inside a company
   
-wherein changes were traditionally dictated only by the core group. Hehehe&#8230;
+wherein changes were traditionally dictated only by the core group. Hehehe... 
   
 )
 

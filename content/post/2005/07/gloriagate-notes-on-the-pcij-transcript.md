@@ -16,7 +16,7 @@ The primary question about this transcript is of course, did Gloria conspire wit
 
 > Conversation between man and a woman on 29 09:43 hotel 2004
   
-> GMA: Hello&#8230;
+> GMA: Hello... 
   
 > Gary: Hello, ma’am, good morning. Ok ma’am, mas mataas ho siya pero mag-compensate po sa
   
@@ -30,7 +30,7 @@ The primary question about this transcript is of course, did Gloria conspire wit
   
 > Gary: Pipilitin ma’am natin yan. Pero as of the other day, 982.
   
-> GMA: Kaya nga eh&#8230;
+> GMA: Kaya nga eh... 
   
 > Gary: And then if we can get more in Lanao..
   

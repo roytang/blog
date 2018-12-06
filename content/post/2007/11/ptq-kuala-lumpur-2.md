@@ -31,7 +31,7 @@ Round 5: 2-0 win vs RB
 
 I had some fun clashes in that last round. In one I flip Profane Command with my opponent at a very low life. "Oh come on! Put it at the bottom!" he jokes.
 
-Wow, doing pretty well aren't we? 4-1 going into the 6th round of a PTQ is pretty swell. One more win and I can draw into top eight&#8230;
+Wow, doing pretty well aren't we? 4-1 going into the 6th round of a PTQ is pretty swell. One more win and I can draw into top eight... 
 
 Round 6 I get smashed in the face. 0-2 loss vs I don't even remember what. The guy I fought here is well known as one of the better players around, he often top 8's local tourneys, etc. I have played him maybe 4-5 times and I have never won against him. And it always seems to be a blowout too. Of course it's all superstition, as I have on occasion been able to play evenly with other players who are also very good. I need to learn to improve my mental game so I don't get rattled by specific players. Someday, I will beat him!
 

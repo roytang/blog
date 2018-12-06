@@ -33,7 +33,7 @@ Okay, that makes me sad. I'm at 0-2 obviously I'm pretty much dead. I decided no
 
 Round 3: 2-0 win vs R/G
 
-Worst problem was an Epic Proportions&#8230;no wait, that was the previous tournament. I count 58 cards in the opponent's pile shuffle and mention to him that he's over 40. He says "Yeah, probably should trim it." and he's right. He's color screwed both games, so easy win.
+Worst problem was an Epic Proportions... no wait, that was the previous tournament. I count 58 cards in the opponent's pile shuffle and mention to him that he's over 40. He says "Yeah, probably should trim it." and he's right. He's color screwed both games, so easy win.
 
 Round 4: 2-1 win vs (I forgot what the deck was)
 

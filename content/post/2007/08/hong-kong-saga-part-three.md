@@ -29,7 +29,7 @@ hey! nasa hongkong ka pa ba? if you're not after the parks and the shopping
 
 hanap ka nung dyecast (tama ba?) initial D na cars or transformers! or, kung
   
-ayaw mo bumili for you&#8230; bili ka for me at babayaran na lang kita. hehehe
+ayaw mo bumili for you...  bili ka for me at babayaran na lang kita. hehehe
 
 went to HK last year 3 days work, another 2 days for leisure. i spent one
   

@@ -62,7 +62,7 @@ _Swamp Thing_ -- interesting, but might be a bit too weird for some, since a lot
   
 _Animal Man_ -- see Swamp Thing. Art is pretty good, but still weird.
   
-_Frankenstein, Agent of SHADE_ -- interesting enough. Art is&#8230; unique.
+_Frankenstein, Agent of SHADE_ -- interesting enough. Art is...  unique.
   
 _I, Vampire_ -- surprisingly interesting, even if I'm already reading another Vampire series (American Vampire). Curious to see where it goes.
   

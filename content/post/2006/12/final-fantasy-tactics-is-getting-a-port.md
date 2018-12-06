@@ -7,7 +7,7 @@ type: post
 url: /2006/12/final-fantasy-tactics-is-getting-a-port/
 ---
 
-&#8230;
+... 
    
 [on the PSP][1]. How sad that my all-time favorite console game is getting a bunch of spiffy new features on a handheld I chose not to support. =(
 

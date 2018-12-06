@@ -28,7 +28,7 @@ ako!!! Please patawarin ako ng mga taong natamaan ng bato.
 ### Comment by aira &quot;BOB&quot; ong on 2008-02-01 22:07:20 +0000
 THaNK you sa lahat ng tumangkilik nito kahit na merong mga nagagalit. And I am
   
-really feel sorry for them&#8230;.
+really feel sorry for them... .
 
 ### Comment by aira &quot;BOB&quot; ong on 2008-02-01 22:08:55 +0000
 And anyway, I am not a teacher yet!!! I'm 16 going to be 17 next

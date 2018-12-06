@@ -284,7 +284,7 @@ I reinstalled MTGO3 last week because I figured I could get some casual play out
   </div>
 </div>
 
-Pretty decent pool (if I do say so myself): ok removal, 3 pyroclasm effects, the white scepter which is good at board control. No blowout bombs, but quite possible to 6-1 or 7-0 with it. If only the pilot was someone much better than me&#8230;
+Pretty decent pool (if I do say so myself): ok removal, 3 pyroclasm effects, the white scepter which is good at board control. No blowout bombs, but quite possible to 6-1 or 7-0 with it. If only the pilot was someone much better than me... 
 
 I win round one, lose round two, win round three, then lose two in a row, taking me straight out of top eight contention. I win a tight round six, then the server knocks everyone offline; I get back on, but my round seven opponent does not, so free win. Final record: 4-3.
 

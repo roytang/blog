@@ -43,17 +43,17 @@ Joke lang :p
 ### Comment by noems on 2008-04-21 17:39:36 +0000
 di ba ung pasmado ung nanginginig na ang kamay? and the oldies would tell us
   
-not to wet our hands after ironing&#8230; or to not take a shower right after a
+not to wet our hands after ironing...  or to not take a shower right after a
   
 strenuous activity dahil 'baka ma pasma'?
 
 i was about to say that doctors dont believe in the concept of pasma until you
   
-mentioned a scientific name for it&#8230; unless its for 'sweaty hands' and not
+mentioned a scientific name for it...  unless its for 'sweaty hands' and not
   
 the pasma am referring to?
 
-anyhow&#8230; tama si pen, just pee on it. hehe
+anyhow...  tama si pen, just pee on it. hehe
 
 ### Comment by [Roy](http://roytang.net/blog) on 2008-04-21 20:09:49 +0000
 I suspect the condition we refer to as "pasmado" is actually a combination of

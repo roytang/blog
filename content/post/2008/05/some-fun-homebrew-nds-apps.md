@@ -21,7 +21,7 @@ For more details, you can also check out the recently concluded [Homebrew Week a
    
 .
 
-Now if you'll excuse me, I'm trying to help Guybrush find Big Whoop&#8230;
+Now if you'll excuse me, I'm trying to help Guybrush find Big Whoop... 
 
  [1]: http://tobw.net/index.php?cat_id=3&project=Pocket+Physics
  [2]: http://en.wikipedia.org/wiki/The_Incredible_Machine

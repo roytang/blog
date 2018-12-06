@@ -267,7 +267,7 @@ Game one I lost to pickles lock.
    
 
    
-I side in +4 Nameless Inversion (Mistake&#8230;should have also brought in +3 Extirpate)
+I side in +4 Nameless Inversion (Mistake... should have also brought in +3 Extirpate)
 
 Game two I lost to pickles lock. Okay, a bit longer story. I lost to pickles lock after making the misplay of bouncing the Brine Elemental so he could delay me one more turn. He had Liliana Vess out -- he was going to get the other half of the combo no matter what. If I had an Extirpate then the bounce was the correct play, as there was already a Brine Elemental in the yard.
 

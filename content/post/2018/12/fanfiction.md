@@ -2,6 +2,8 @@
 author: roy
 categories:
 - Writing
+tags:
+- nostalgia
 date: 2018-12-12T09:56:56+08:00
 title: "Fanfiction"
 type: post

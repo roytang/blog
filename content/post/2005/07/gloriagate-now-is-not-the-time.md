@@ -12,7 +12,7 @@ I remember the atmosphere at UP around the time of the infamous second evelope a
 
 Today? Today, the conversations are like this:
 
-"Mag-gimik dapat kami bukas sa Makati eh&#8230;"
+"Mag-gimik dapat kami bukas sa Makati eh... "
 
 "May rally daw bukas ah?"
 

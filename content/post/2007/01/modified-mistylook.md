@@ -14,6 +14,6 @@ I'm tired of moving themes around, so I'll settle on this for a while. Simple an
 
 And yeah, I'm also changing the categories around. There should be a plugin to search posts and assign multiple posts to new categories at the same time.
 
-My vacation time is almost up&#8230;I still have too many things to watch&#8230;
+My vacation time is almost up... I still have too many things to watch... 
 
  [1]: http://wpthemes.info/misty-look/

@@ -24,7 +24,7 @@ Case two and three are by far the best in the game. The plots are involving, and
 
 Case four is by far the weakest of the four cases, though still enjoyable.  My main problems with it are that it's (a) easy -- the path to uncover the truth is almost handed to you directly. I would have expected the last case to be the most difficult one; and (b) it doesn't satisfy all of the unanswered questions from case one.The most important unanswered question of course being: what happened to Maya? Really, we get to see Gumshoe _and Meekins (?!?) _again, but no Maya Fey? Oh well, I guess they had to leave something for future episodes.
 
-Inevitably, one must compare Apollo to Phoenix. And Apollo's main problem here isn't the fact that PW already has 3 games under his belt or that he's still a rookie; his main problem is that he has no Edgeworth. No ruthless opposition who will eat him up if he makes a single mistake. Don't get me wrong, Gavin is fine. But he's too&#8230;nice. I don't have any other way to say it.
+Inevitably, one must compare Apollo to Phoenix. And Apollo's main problem here isn't the fact that PW already has 3 games under his belt or that he's still a rookie; his main problem is that he has no Edgeworth. No ruthless opposition who will eat him up if he makes a single mistake. Don't get me wrong, Gavin is fine. But he's too... nice. I don't have any other way to say it.
 
 And really, Apollo and Trucy turn out to be brother and sister? What is this, Star Wars? Well, ok, that one's not so bad.
 

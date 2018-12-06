@@ -20,7 +20,7 @@ After around 30 minutes of struggling with the unintuitiveness and some helpful 
 
 4. Scroll right on the N73 and the Paired Device screen is shown. Choose Options -> New Paired Device
 
-5. The N73 should list your computer name (mine is PANDA!), select the computer name and you'll be prompted for a passkey. Don't input anything yet&#8230;
+5. The N73 should list your computer name (mine is PANDA!), select the computer name and you'll be prompted for a passkey. Don't input anything yet... 
 
 6. Back to the Vista PC, right-click the Bluetooth icon in the systray, then choose Add Device.
 
@@ -38,7 +38,7 @@ After around 30 minutes of struggling with the unintuitiveness and some helpful 
 
 _
   
-Side note: After step 10, Vista seems to want to install drivers for the N73&#8230;but it doesn't seem to be necessary
+Side note: After step 10, Vista seems to want to install drivers for the N73... but it doesn't seem to be necessary
   
 _ 
 

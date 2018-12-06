@@ -31,13 +31,13 @@ After thinking about this, I thought I'd evaluate my own skills to see what coul
   * Web Development. I know HTML and various scripting languages, can use Macromedia Dreamweaver and Flash, what can't I do? The problem comes up again: I know it all in theory, but lack the experience. It's not like I'm churning out webpages at a dime a
   
     dozen, and most places looking for web developers ask for some level of experience. Curses.
-  * Write. Or at least I like to think I can. But it doesn't sound very profitable to be writing for a living&#8230;
+  * Write. Or at least I like to think I can. But it doesn't sound very profitable to be writing for a living... 
 
 Sigh, that's it. Pretty sad, huh? The main problem seems to be most of what I can do is self-taught and relies on my raw talent instead of actual experience. What is it with the world? Why can't they just recognize my genius and overlook my lack of experience? I learn impossibly fast anyway, anything I don't know I can pick up quickly. Argh.
 
 Oh well, at least now I feel better, having put my thoughts into words. This journal thing is probably really healthy for me. I get to whine without burdening anyone with my problems.
 
-There's still some hope, at least. Sir Louie, the ECE guy Tito Ferry set me up with, said he'd ask around, although he did recommend I learn a few more skills by taking some short courses at APC, an IT school near SM North. I'm a bit hesistant about that though &#8212; short courses will undoubtedly cost money, and I don't want to bother my parents about cash any more than I have to. It's bad enough I can't help them make ends meet&#8230;
+There's still some hope, at least. Sir Louie, the ECE guy Tito Ferry set me up with, said he'd ask around, although he did recommend I learn a few more skills by taking some short courses at APC, an IT school near SM North. I'm a bit hesistant about that though &#8212; short courses will undoubtedly cost money, and I don't want to bother my parents about cash any more than I have to. It's bad enough I can't help them make ends meet... 
 
 Anything else? Lately we've been watching Excel Saga (ridiculosuly funny! Pedro!!!) and Scryed. AXN is showing two new anime series: Ayashi no Ceres and Gensomaden Saiyuki. And they brought back Monday night anime, so more anime all around. Oh yeah, the A/V cable for our PSX is apparently busted. Which probably explains why I got rather pissed off today. Just when I was gonna get adult Rei back into the party! Without the PSX to distract me, I had no choice but to face my real-world problems
 

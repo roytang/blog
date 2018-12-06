@@ -596,7 +596,7 @@ Game 3 He plays 2nd turn [Sage Owl][23]. I joke about asking for a deck check on
 
 Although the draft and the actual quarters match was more luck than skill, a win's a win, so I [posted on Twitter][30] as soon as I got home.
 
-19 days remain until [Grand Prix Bangkok][1]&#8230;
+19 days remain until [Grand Prix Bangkok][1]... 
 
  [1]: http://www.wizards.com/magic/Magazine/Article.aspx?x=mtgcom/grandprix/bangkok09
  [2]: http://magiccards.info/autocard.php?card=Blinding Mage

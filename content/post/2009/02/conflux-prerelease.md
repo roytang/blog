@@ -286,7 +286,7 @@ Usually I have to register an awesome pool and then get passed a mediocre one. I
   </div>
 </div>
 
-_I need to find a way to format these decklists better&#8230;_
+_I need to find a way to format these decklists better... _
 
 The deck's plan was basically early game skirmish with small exalted guys, use [Wall of Reverence][1] to survive midrange before I let loose with huge 5-power and up fatties. Oh, and hitting a turn 3 Woolly Thoctar is pretty good too -- which I managed to do in all of the rounds I won. I _really_ wanted to use the [Maelstrom Archangel][2] but sadly there was not enough support.
 
@@ -318,7 +318,7 @@ Game three, I know we're short on time so I try to play quickly. We're trading c
 
 Sure enough, with barely seven seconds left on the clock, I rip the seventh land, play the [Godsire][4] and say "End of turn, you take two from Exuberant, go!". That drops him to 15 and gives me three extra turns to end it with the Godsire. He thinks real hard on his turn, then lays down [Spearbreaker Behemoth][3] to stand in the way. I untap in the first extra turn and show him the last card in my hand -- [Oblivion Ring][6]. His Behemoth goes bye-bye and I deal nine damage in the red zone, plus two damage from the Exuberant, dropping him to four. He untaps, draws his card, shakes his head and offers the handshake. 
 
-That game was a rush&#8230;
+That game was a rush... 
 
 2-1 matches, 4-3 games
 
@@ -340,7 +340,7 @@ Fortunately, he had kept a subpar six, drawing his red mana only on turn three, 
   
 Not a bad prerelease, and Conflux looks fun, but I'm not too sure how good the five-color cards will be once Alara Reborn comes out. [Celestial Purge][14] is pretty awesome and I think it's even better than [Path to Exile][22] which is really bad in the early turns. I would have maindecked it if not for the possibility of being a dead card against Bant decks. If only it had cycling! Sad that we did not open any [Banefire][23].
 
-Still not sure if I'll be playing constructed again anytime soon&#8230;
+Still not sure if I'll be playing constructed again anytime soon... 
 
  [1]: http://magiccards.info/autocard.php?card=Wall of Reverence
  [2]: http://magiccards.info/autocard.php?card=Maelstrom Archangel

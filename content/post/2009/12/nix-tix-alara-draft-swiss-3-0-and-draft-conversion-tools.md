@@ -28,7 +28,7 @@ Powered by [MtgStorm Draft Converter][4]
 
 
 
-In hindsight, mine might be better in some cases because I'm using pure JavaScript, while theirs is using flash (and does not seem to resize to fit the containing column)&#8230;yeah, technical jargon.
+In hindsight, mine might be better in some cases because I'm using pure JavaScript, while theirs is using flash (and does not seem to resize to fit the containing column)... yeah, technical jargon.
 
  [1]: http://www.zizibaloob.com/
  [2]: http://www.top8magic.com/2009/12/crabs-for-christmas/

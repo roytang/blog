@@ -18,7 +18,7 @@ The GO and TU coalitions seem largely irrelevant to me, you can be fairly sure t
 
 Or maybe I should just go with the recent ads that have appeared exhorting people to boycott the senatorial slots altogether?
 
-This election seems so&#8230; bleah.
+This election seems so...  bleah.
 
 Although I should note, I think AGHAM party list is a good idea.
 

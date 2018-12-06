@@ -589,7 +589,7 @@ and
    
 .
 
-Overall, a pretty good day for me&#8230;I think the last time I ever went undefeated in Swiss was somewhere around Time Spiral block constructed. If I had managed to win the trial and get the 3 byes I would have seriously considered splurging the cash to go Taipei, but after reading in the forums that the visa requirements are a bit of a hassle (and I wouldn't be able to get a promo price for the ticket anymore), I'm not so sure anymore. Let's see how I do in succeeding trials&#8230;
+Overall, a pretty good day for me... I think the last time I ever went undefeated in Swiss was somewhere around Time Spiral block constructed. If I had managed to win the trial and get the 3 byes I would have seriously considered splurging the cash to go Taipei, but after reading in the forums that the visa requirements are a bit of a hassle (and I wouldn't be able to get a promo price for the ticket anymore), I'm not so sure anymore. Let's see how I do in succeeding trials... 
 
  [1]: http://magiccards.info/autocard.php?card=Realm Razer
  [2]: http://magiccards.info/autocard.php?card=Rhox War Monk

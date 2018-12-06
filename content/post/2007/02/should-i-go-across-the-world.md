@@ -34,7 +34,7 @@ Thanks Peng. I've already told them I'm willing to go, but asked for assurance
   
 that I would have internet at home when I'm there. 😀 Don't know if it will
   
-push through&#8230;
+push through... 
 
 ### Comment by [Melanie](http://creditreview.livejournal.com/) on 2007-12-06 15:21:34 +0000
 I believe it's quite difficult and, of course, fearful but all these

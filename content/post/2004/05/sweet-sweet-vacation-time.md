@@ -17,7 +17,7 @@ I really only wanted to clean up &#8216;coz I wanted to read the Street Fighter 
 
 I've downloaded some Java code that will help me extract ID3 data from MP3 files. I'm hoping to use it to properly catalog all the MP3s on disk, assuming I get unlazy enough.
 
-Heh, while I was Mon's place, he made the brilliant observation that practically everything we do is fueled by how lazy (or unlazy) we are at any time&#8230;
+Heh, while I was Mon's place, he made the brilliant observation that practically everything we do is fueled by how lazy (or unlazy) we are at any time... 
 
  [1]: http://battle.net/war3
  [2]: http://inq7.net

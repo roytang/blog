@@ -16,9 +16,9 @@ Last Saturday, I helped an old man cross a very dangerous street! This may seem 
 
 * * *
 
-I'm thinking of getting a domain name and paid webhosting&#8230;there's [
+I'm thinking of getting a domain name and paid webhosting... there's [
   
-this host that's cheap and local][1]&#8230;. The main reason is I want to learn a web-based scripting language, maybe PHP. This is actually a no-brainer, as it's the cheapest of the things I'm thinking of getting&#8230;(new TV, new PC, DSL, new cellphone&#8230;), but not yet, maybe by January&#8230;
+this host that's cheap and local][1]... . The main reason is I want to learn a web-based scripting language, maybe PHP. This is actually a no-brainer, as it's the cheapest of the things I'm thinking of getting... (new TV, new PC, DSL, new cellphone... ), but not yet, maybe by January... 
 
 * * *
 

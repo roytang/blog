@@ -20,7 +20,7 @@ Pros:
 
 Cons:
 
--- No hard campaign? No unlockables? Without the unlockables, I'm not inclined to play through the trial maps, since there's no incentive. (I may still do it at some unspecified point in the future, but when faced with the possibility of playing **Final Fantasy Tactics** instead&#8230;)
+-- No hard campaign? No unlockables? Without the unlockables, I'm not inclined to play through the trial maps, since there's no incentive. (I may still do it at some unspecified point in the future, but when faced with the possibility of playing **Final Fantasy Tactics** instead... )
 
 -- Too few COs and not enough variation
 

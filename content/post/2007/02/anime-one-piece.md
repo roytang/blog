@@ -10,7 +10,7 @@ type: post
 url: /2007/02/anime-one-piece/
 ---
 
-If you're not familiar with the series, One Piece is an anime about pirates, the same way Naruto is about ninjas. Like Naruto, they don't live in a world very different from our own. The One Piece universe is a lot more insane than Naruto's though. I've only watched less than a hundred episodes, but so far the Straw Hat Pirates have encountered giant sea cows, talking reindeer, a guy who can eat anything, a man-shark&#8230;too many to mention.
+If you're not familiar with the series, One Piece is an anime about pirates, the same way Naruto is about ninjas. Like Naruto, they don't live in a world very different from our own. The One Piece universe is a lot more insane than Naruto's though. I've only watched less than a hundred episodes, but so far the Straw Hat Pirates have encountered giant sea cows, talking reindeer, a guy who can eat anything, a man-shark... too many to mention.
 
 Side note: It's really difficult to multitask when watching anime. I can watch episodes of 24 or Smallville while working since I can rely on the audio to keep track of the story, but since I prefer my anime subbed, it really needs my full attention to watch it.
 

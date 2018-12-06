@@ -16,7 +16,7 @@ I'm especially wary now about committing stuff to optical media; going through a
 
 So, am I too much of a packrat? I dunno, like I said I know people who have loads more stuff on CDs/DVDs than I do, and they've never watched them all. At least I've managed to consume at least 90% of the stuff I archive. I guess it's a geek thing, to want to have access to "historical data" and stuff. Organizing all of it is probably a geek thing too. Heck, I'm trying to think of a way to have everything be searchable.
 
-I'm considering buying something like a 250 GB external and just using that as a backup. Eventually it would run out, but by then something like 1 TB drives might be common enough. Tempting&#8230;
+I'm considering buying something like a 250 GB external and just using that as a backup. Eventually it would run out, but by then something like 1 TB drives might be common enough. Tempting... 
 
 ## Comments
 
@@ -40,7 +40,7 @@ You might even find it refreshing if you throw all those CD's away. Sometimes
 it's good not to have these attachments.
 
 ### Comment by [Roy](http://roytang.net/blog) on 2007-12-30 00:43:42 +0000
-&#8230;or maybe you're just not geeky enough. :p
+... or maybe you're just not geeky enough. :p
 
 Or maybe it's a boy scout thing. You always need to be prepared to whip out
   
@@ -48,4 +48,4 @@ half a season of Heroes on demand.
 
 I probably will dispose of most of them. I'm keeping the Simpsons ones though.
 
-"Spider-pig, Spider-pig, does whatever a spider-pig can&#8230;"
+"Spider-pig, Spider-pig, does whatever a spider-pig can... "

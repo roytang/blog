@@ -14,7 +14,7 @@ A couple of friends were over from Singapore last weekend, and we decided to han
 
 Among our group, 50% are actively playing competitively, so we can't say that we were making bad strategic decisions, but really rule change #5 practically never came up. 
 
-(We also opened zero planeswalkers, only 1 [Maelstrom Pulse][1] and 1 [Noble Hierarch][2] et cetera. Not so good returns from the boxen in terms of cash cards&#8230;)
+(We also opened zero planeswalkers, only 1 [Maelstrom Pulse][1] and 1 [Noble Hierarch][2] et cetera. Not so good returns from the boxen in terms of cash cards... )
 
  [1]: http://magiccards.info/autocard.php?card=Maelstrom Pulse
  [2]: http://magiccards.info/autocard.php?card=Noble Hierarch

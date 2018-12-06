@@ -103,7 +103,7 @@ I actually ran this deck through a couple of grinders, both times losing to RUG 
 
 1-0 matches, 2-1 games
 
-**Round 2** My round 2 opponent was&#8230;er, I'm not sure. He was definitely Singaporean and I think he was playing either Darkblade or Cawblade. But I did win, in 3 games!
+**Round 2** My round 2 opponent was... er, I'm not sure. He was definitely Singaporean and I think he was playing either Darkblade or Cawblade. But I did win, in 3 games!
 
 2-0 matches 4-2 games
 
@@ -127,7 +127,7 @@ Second game was worse for me, as I was low on lands and he kept me low with a Te
 
 4-1 matches, 8-5 games
 
-That was a bit heartbreaking, I felt like he knew the matchup inside-out (he probably did) and just crushed me at every opportunity. I went into round six a bit off&#8230;
+That was a bit heartbreaking, I felt like he knew the matchup inside-out (he probably did) and just crushed me at every opportunity. I went into round six a bit off... 
 
 **Round 6** was against a Malaysian guy sporting RB Vampires. He led with a quick pair of {{< card >}}Vampire Lacerator{{< /card >}}s into a {{< card >}}Kalastria Highborn{{< /card >}}. I remember going for the early Batterskull, but my notes don't show me gaining life, instead losing it in chunks of four. I think he killed the Germ somehow.
 

@@ -38,7 +38,7 @@ OS: Windows 8.1 OEM which I immediately upgraded to Windows 10 (upgrade was free
 
 This cost significantly more than any desktop I had assembled before, but it's worth it. Still going strong up to now. Can easily handle most programming tasks I throw at it, including the notoriously resource-hungry Android development process and of course Google Chrome. Pretty good for gaming as well, although I'm not really the "4k 120fps" kind of gamer.
 
-I have two old monitors (a 19&#8243; and a 21&#8243;) hooked up to this desktop (haven't bothered buying a new monitor&#8230; it's on my list).
+I have two old monitors (a 19&#8243; and a 21&#8243;) hooked up to this desktop (haven't bothered buying a new monitor...  it's on my list).
 
 Late last year I also impulse-bought a Razer Blackwidow Ultimate 2016, I'm mostly happy with it (it's my first "real" mechanical keyboard") Recently one of the keys has been acting up, being a bit unresponsive but it got better after I removed the keycaps and cleaned up a bit under there.
 

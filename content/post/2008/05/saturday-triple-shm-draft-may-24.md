@@ -19,7 +19,7 @@ into
    
 [Thistledown Liege][2]
 
-In the only match I lost I basically had no chance anyway; the guy's deck had like 2 Tattermunge Duo, 2 Puncture Bolt, 2 Scar, 1 Flame Javelin, 1 Boartusk Liege, 1 Tattermunge Witch&#8230;and those were just the cards I saw!
+In the only match I lost I basically had no chance anyway; the guy's deck had like 2 Tattermunge Duo, 2 Puncture Bolt, 2 Scar, 1 Flame Javelin, 1 Boartusk Liege, 1 Tattermunge Witch... and those were just the cards I saw!
 
 Rares I drafted:
    

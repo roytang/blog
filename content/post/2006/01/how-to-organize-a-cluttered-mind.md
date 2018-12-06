@@ -40,7 +40,7 @@ Ei Roy,
 
 While it's kewl that you can handle the stress of fielding all those "help me"
   
-calls, that's not a healthy company practice&#8230;
+calls, that's not a healthy company practice... 
 
 Well, it's certainly got good and bad going for it. It's good because everyone
   
@@ -48,7 +48,7 @@ realizes how utterly indispensable you are, so you'll never be fired. Other
   
 stuff too.
 
-I think tho' that there's more bad than good in it&#8230; There's the stress,
+I think tho' that there's more bad than good in it...  There's the stress,
   
 which is one thing. And there's also the probability that this role you have
   
@@ -80,7 +80,7 @@ process for doing this kind of technical advising instead of you having to go
   
 through many that you have to gut it out =P
 
-I mean, you can manage the load now, but if your company ever expands&#8230;
+I mean, you can manage the load now, but if your company ever expands... 
 
 ### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2006-02-01 22:57:00 +0000
 Eh, I'm fine.
@@ -147,7 +147,7 @@ to. I always have the option of saying I don't have time or asking somebody to
   
 check it for me.
 
-"I mean, you can manage the load now, but if your company ever expands&#8230;"
+"I mean, you can manage the load now, but if your company ever expands... "
 
 Note that I never said I was the only one doing this. 😀 In fact, I think the
   

@@ -8,7 +8,7 @@ type: post
 url: /2016/10/daily-habits/
 ---
 
-I've picked up quite a few daily habits since the start of the year. To name a few: I've been doing [daily sketches][1], I've been going on a daily walking routine, learning Spanish on [Duolingo][2], I have a quick stretching/exercise routine I do in the mornings, etc. (I'm also supposed to be writing daily, but this has proven more difficult to keep doing consistently&#8230;)
+I've picked up quite a few daily habits since the start of the year. To name a few: I've been doing [daily sketches][1], I've been going on a daily walking routine, learning Spanish on [Duolingo][2], I have a quick stretching/exercise routine I do in the mornings, etc. (I'm also supposed to be writing daily, but this has proven more difficult to keep doing consistently... )
 
 I like those daily habits that can be easily tracked with technology. Duolingo tracks my Spanish learning streak (currently on a 147-day streak). [r/sketchdaily][3] tracks my drawing streaks. I have an app on my phone that tracks how often I meet my daily walking target (usually the only problem is if it rains)
 

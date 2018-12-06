@@ -397,7 +397,7 @@ and
    
 [Windbrisk Raptor][5]
    
-to win the game. In fact I don't recall winning without either one of those cards. Without a common "Bury" removal effect in red and or black, neither of those creatures ever died. In the very last game, I finally managed to connect with a 25/25 Troll while I had the Raptor in play. The game was almost over for me before that turn as I was at 5 life facing that RB witch. With one troll attack suddenly I was up to 30! My opponent had to stare at the attacking 25/25 troll for a few seconds&#8230;
+to win the game. In fact I don't recall winning without either one of those cards. Without a common "Bury" removal effect in red and or black, neither of those creatures ever died. In the very last game, I finally managed to connect with a 25/25 Troll while I had the Raptor in play. The game was almost over for me before that turn as I was at 5 life facing that RB witch. With one troll attack suddenly I was up to 30! My opponent had to stare at the attacking 25/25 troll for a few seconds... 
 
 Some thoughts on Shadowmoor sealed:
  

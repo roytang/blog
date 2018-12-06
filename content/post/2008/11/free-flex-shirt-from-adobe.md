@@ -31,7 +31,7 @@ url: /2008/11/free-flex-shirt-from-adobe/
 The names are all blurred! You should upload a better pic.
 
 ### Comment by KC on 2008-11-22 22:53:48 +0000
-Ah, yes&#8230; the new shirt. I remember that he was trying to be subtle about it.
+Ah, yes...  the new shirt. I remember that he was trying to be subtle about it.
   
 Una, kunwari may question so he asked me to come over his seat. Since I didn't
   

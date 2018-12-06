@@ -122,7 +122,7 @@ The Philippine Open tournaments (one Standard and one Block) are held as side ev
   </div>
 </div>
 
-As usual, assembled the day before with zero playtesting. I've been busy for the past two weeks so was not able to think of Magic during that time period&#8230;
+As usual, assembled the day before with zero playtesting. I've been busy for the past two weeks so was not able to think of Magic during that time period... 
 
 **
     
@@ -180,9 +180,9 @@ I win the first game since my Bitterblossom came out before his. I board in Wisp
 
 Game two I lose to a turn four Chameleon Colossus that I have no answer for.
 
-Game three I made a play mistake that may have cost me the game. He had Doran out and was beating down, I had Wispmare and Nameless Inversion in hand but didn't play out the Wispmare, still hoping to catch a Bitterblossom (which I later found he sided out!) After passing the turn, I realized I could've killed Doran with those two cards and the Wispmare would survive to counterattack. I did that play the following turn and got rid of Doran, then started rallying with a Bitterblossom. We hit the time limit here, but due to Bitterblossom I would die in turn four of extra time; meaning I had to win with a lethal attack on turn two. It's turn one; I'm at two life and he has no blockers; he plays out Treefolk Harbinger and tutors for Crib Swap, putting it on top. That Crib Swap didn't matter; what mattered was the Crib Swap he had in hand. On turn two, during my upkeep, I drop to one life and he turns one of the active Faeries into a changeling, and suddenly I'm short by one point of damage to win the game (the Harbinger can block my ground guy!). I need to topdeck: any sort of removal (to clear the blocker) or Wispmare (to clear the Bitterblossom) or Cryptic Command. I go into my draw step and rip&#8230;a swamp.
+Game three I made a play mistake that may have cost me the game. He had Doran out and was beating down, I had Wispmare and Nameless Inversion in hand but didn't play out the Wispmare, still hoping to catch a Bitterblossom (which I later found he sided out!) After passing the turn, I realized I could've killed Doran with those two cards and the Wispmare would survive to counterattack. I did that play the following turn and got rid of Doran, then started rallying with a Bitterblossom. We hit the time limit here, but due to Bitterblossom I would die in turn four of extra time; meaning I had to win with a lethal attack on turn two. It's turn one; I'm at two life and he has no blockers; he plays out Treefolk Harbinger and tutors for Crib Swap, putting it on top. That Crib Swap didn't matter; what mattered was the Crib Swap he had in hand. On turn two, during my upkeep, I drop to one life and he turns one of the active Faeries into a changeling, and suddenly I'm short by one point of damage to win the game (the Harbinger can block my ground guy!). I need to topdeck: any sort of removal (to clear the blocker) or Wispmare (to clear the Bitterblossom) or Cryptic Command. I go into my draw step and rip... a swamp.
 
-I'm signing the result slip and I keep thinking about if I had played that Wispmare a turn earlier, I would've had an extra point of damage to work with&#8230;
+I'm signing the result slip and I keep thinking about if I had played that Wispmare a turn earlier, I would've had an extra point of damage to work with... 
 
 Games: 5-5, Matches -2
 
@@ -240,7 +240,7 @@ Final Record:
 
 Games: 11-7, Matches: 5-2
 
-X-2 finish is good enough for me to land in the 16th spot, and I win&#8230;3 boosters! The only good rare I get is Cascade Bluffs.
+X-2 finish is good enough for me to land in the 16th spot, and I win... 3 boosters! The only good rare I get is Cascade Bluffs.
 
 This deck is awesome and fun to play, but having Bitterblossom out against red or doran is really scary and leads to quite close finishes. I don't know yet about the Faerie matchup (only fought one, but seems positive) and the Kithkin matchup (none encountered!), although I think the Pollen Lullaby would work well against the Kith.
 

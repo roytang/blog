@@ -24,7 +24,7 @@ Roy: We don't know that. We don't have enough information on the gate's state to
 
 Alvin: Tell you what, when we get to the seminary, we'll split up, you take the direct route, I'll go for the gate.
 
-Roy: Huh? I don't see what your experiment would prove. It makes no sense to compare the travel time of a person taking the direct route and a person going through either the closed or open gate. We know the outcome depends only on the current state of the gate. A more sensible experiment would be to have two people try to go through the gate, but one of them will find it closed, one of them will find it open, and&#8230;
+Roy: Huh? I don't see what your experiment would prove. It makes no sense to compare the travel time of a person taking the direct route and a person going through either the closed or open gate. We know the outcome depends only on the current state of the gate. A more sensible experiment would be to have two people try to go through the gate, but one of them will find it closed, one of them will find it open, and... 
 
 Alvin: Let's just do it.
 

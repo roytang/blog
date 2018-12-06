@@ -26,7 +26,7 @@ I have to admit that I posted this there hoping to incite some discussion and fi
 
 More thoughts:
 
-EDSA Revolution (1986) -- I was of course too young to remember the events&#8230;except for the fact that my favorite cartoons kept getting cancelled for some reason. But what I've read tells a story of a time of turbulence and despair such that there was no other way for people to regain their individual freedoms than to take to the streets and claim it back. I cannot personally attest to the factuality of the such narrations, since history is of course written by the winners. Hence, I do not presume to compare the current time to the events of twelve years ago.
+EDSA Revolution (1986) -- I was of course too young to remember the events... except for the fact that my favorite cartoons kept getting cancelled for some reason. But what I've read tells a story of a time of turbulence and despair such that there was no other way for people to regain their individual freedoms than to take to the streets and claim it back. I cannot personally attest to the factuality of the such narrations, since history is of course written by the winners. Hence, I do not presume to compare the current time to the events of twelve years ago.
 
 EDSA 2 (2001) -- Whereas EDSA 1 was an outcry to regain lost freedoms, EDSA 2 was an outcry against corruption. Personally, I did not participate in EDSA 2. Sure, at some point I felt the fever, that wave of indignation rushing through the nation when Erap's goons tried to prevent impeachment, and I _almost _
   
@@ -40,7 +40,7 @@ I'm not sure how they imagine GMAs forced resignation would help our country. Th
 
 2. ???
 
-3. Profit! Er&#8230;corruption ends!
+3. Profit! Er... corruption ends!
 
 I'm not yet convinced that GMA's resignation is a moral imperative. And it seems that a large number of citizens are not yet convinced either. I'm not sure if it's possible for the current crop of personalities to convince me; I'm not even sure what they are offering in exchange.
 

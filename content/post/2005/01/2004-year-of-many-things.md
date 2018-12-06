@@ -14,7 +14,7 @@ url: /2005/01/2004-year-of-many-things/
   
 > "I resolve to live life on purpose, to take control of my fate, to sieze each day as if it were my last. I will be reckless. I will be daring. I will be strong. I will challenge fate. I will defy the gods. Or I will die trying."
   
-> "&#8230;Why can't you just quit smoking or go on a diet like ordinary people?"
+> "... Why can't you just quit smoking or go on a diet like ordinary people?"
   
 > "It's like you don't know me at all. Life is too short to be ordinary."
   
@@ -40,7 +40,7 @@ In mostly chronological, but actually no particular, order:
   * Oh, and I'm not sure, but I may very well have pissed off my dentist.
   * I started taking this blog a bit more seriously. Added the comments thing, made it a bit more public. My favorite post of this year: [My Eyeglasses Belong to the Sea][1].
 
-Seriously, I think I've changed a lot this past year. Especially due to the first entry above. Personally, I feel like I've broadened my horizons somewhat, I feel stronger, better as a person, more confident in myself. I'm a lot less antisocial now, and heaven forbid, I actually greet people in the office in the mornings and before I go home! Professionally, I feel like I've accomplished a lot as well. I learned a lot of new things; I'm a Web developer now, although my area of expertise is now apparently Oracle Reports; Participated in a lot more projects than I did in 2003, learned a lot of new stuff; Became a trainer for several batches of newbies (I think half the office calls me &#8216;Sir' now&#8230;); had my first ON, etc. All in all, a very productive/fruitful/exciting year was 2004.
+Seriously, I think I've changed a lot this past year. Especially due to the first entry above. Personally, I feel like I've broadened my horizons somewhat, I feel stronger, better as a person, more confident in myself. I'm a lot less antisocial now, and heaven forbid, I actually greet people in the office in the mornings and before I go home! Professionally, I feel like I've accomplished a lot as well. I learned a lot of new things; I'm a Web developer now, although my area of expertise is now apparently Oracle Reports; Participated in a lot more projects than I did in 2003, learned a lot of new stuff; Became a trainer for several batches of newbies (I think half the office calls me &#8216;Sir' now... ); had my first ON, etc. All in all, a very productive/fruitful/exciting year was 2004.
 
 And the future? What does 2005 hold for our brave not-so-young hero?
 

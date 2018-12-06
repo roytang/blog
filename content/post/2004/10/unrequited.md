@@ -46,7 +46,7 @@ You start to doubt the girl you fell in love with. Maybe she wasn't as nice as y
 
 You start to think about how you feel. Are you really in love with her? Or do you just want her because you can't have her? Are you in love with the real her, not just some made-up idea of her?
 
-"This is madness!" you finally conclude. "There has to be more to life than this&#8230; Why should I waste so much of my time and energy pining over this woman, a woman who will probably never even consider me, a woman whom I'm not even sure why I'm attracted to?" You come to a decision. You will get rid of these feelings, these emotions; push them away to some dark corner of your soul and leave them to rot.
+"This is madness!" you finally conclude. "There has to be more to life than this...  Why should I waste so much of my time and energy pining over this woman, a woman who will probably never even consider me, a woman whom I'm not even sure why I'm attracted to?" You come to a decision. You will get rid of these feelings, these emotions; push them away to some dark corner of your soul and leave them to rot.
 
 And you do it. It pains your heart to do so, but you start to avoid her. You don't talk to her unless you need to. Whenever you think of her, you throw yourself into your work, your hobbies, your friends, anything to rid your mind of her lingering presence. You do what it takes. You pull out that part of your heart that remembers her smile, and you bury it inside, deep inside, so that you may never feel those painful emotions again. You kill that part of your soul that knows how to love and how to live.
 
@@ -56,6 +56,6 @@ And then you see her again.
 
 She greets you, talks to you, compliments you, smiles at you. And suddenly all your hard work fades away. Your world is no longer your own. You're falling in love, all over again.
 
-You recognize it, and you accept it. You are able to survive, because somehow, through all those moments of pain, heartbreak and despair, a light shines through. Every so often, you manage to get some time to sit with her, talk to her, see her smile. And those moments, while very rare, are also very precious. Those moments are pure, unadulterated bliss, and you wish there was a way to make them last forever. They are no more than fleeting instants between oceans of pain, but somehow, those few moments are enough to make all of the loneliness worthwhile&#8230;
+You recognize it, and you accept it. You are able to survive, because somehow, through all those moments of pain, heartbreak and despair, a light shines through. Every so often, you manage to get some time to sit with her, talk to her, see her smile. And those moments, while very rare, are also very precious. Those moments are pure, unadulterated bliss, and you wish there was a way to make them last forever. They are no more than fleeting instants between oceans of pain, but somehow, those few moments are enough to make all of the loneliness worthwhile... 
 
-And the cruel, vicious cycle repeats itself&#8230;
+And the cruel, vicious cycle repeats itself... 

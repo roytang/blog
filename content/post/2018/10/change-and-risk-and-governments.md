@@ -22,7 +22,7 @@ I've also had the dubious pleasure of living under a system of government heavil
 
 In such situations, you will often find yourself fed up. You will be tempted to throw everything away and start over and rebuild everything from scratch. You wonder who made all of these past decisions that have resulted in such a terrible system and what the heck were they thinking?
 
-Unfortunately, you can't just throw everything away. People still need to eat, and the system users still need to do their work. You can instead do some kind of system-wide one-time big-time change. But the problem with that is&#8230;
+Unfortunately, you can't just throw everything away. People still need to eat, and the system users still need to do their work. You can instead do some kind of system-wide one-time big-time change. But the problem with that is... 
 
 **Change Is Risk**
 

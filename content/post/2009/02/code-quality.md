@@ -13,7 +13,7 @@ The current design required a lot of inheritance -- the usual way of doing thing
 
 I remembered this after reading [Joel Spolsky and Jeff Atwood's discussion on unit tests and code quality][1]. The most relevant quote from their discussion is 
 
-> And I find, sadly, to be completely honest with everybody listening, quality really doesn't matter that much, in the big scheme of things&#8230;
+> And I find, sadly, to be completely honest with everybody listening, quality really doesn't matter that much, in the big scheme of things... 
 
 It reminds me of a discussion I once had with the boss on one of his visits when he caught me doing code reviews. He asked me whether it was worth the effort for me to be doing these reviews. How many critical problems did I find on average? How many would have been caught by QA anyway? His point wasn't to diss on code reviews, but was that although we want to have quality, sometimes we put too much effort into it, and the costs don't always justify it. 
 

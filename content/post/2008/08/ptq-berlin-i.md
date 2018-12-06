@@ -58,7 +58,7 @@ Round 1
    
 : PWC Special vs GRBW Persist
 
-I won this in three games. The opponent's deck was very rogue&#8230;tons of persist creatures: Murderous Redcap, Kitchen Finks, Twilight Shepherd&#8230;and
+I won this in three games. The opponent's deck was very rogue... tons of persist creatures: Murderous Redcap, Kitchen Finks, Twilight Shepherd... and
    
 [Rendclaw Troll][2]
    
@@ -82,7 +82,7 @@ Long version: I lost the first game quite badly.
 
 In the second game, I managed to stabilize and race. My army had been tapped low by Pollen Lullaby and the guys weren't going to untap. All I had was a Mirror Entity. He was on six and I was at nine (see the life totals in the image!) He had six spirit tokens and a random kithkin (I think it was a Meadowgrain).
 
-So he plays Ajani, pumps 'em all and swings for the kill. I show my own Pollen Lullaby and we clash: He shows a land, I show&#8230;
+So he plays Ajani, pumps 'em all and swings for the kill. I show my own Pollen Lullaby and we clash: He shows a land, I show... 
    
 <card>
     
@@ -142,7 +142,7 @@ I remember reading somewhere that Justice Toast was an underdog to Merfolk, so I
 
 Games: 7-7, Matches: 3-2
 
-Hay&#8230;I was thinking of dropping at this point, but I figured I needed more play experience for the GP (I don't think I'll be able to play in the last 2 Sunday GPTs)
+Hay... I was thinking of dropping at this point, but I figured I needed more play experience for the GP (I don't think I'll be able to play in the last 2 Sunday GPTs)
 
 **
      
@@ -196,7 +196,7 @@ About the deck:
 
 Right now, I'd say there's about a 60-70% chance I'll be playing this deck at the Grand Prix (even though I've been known to make deck switches at the last minute)! I went 2-2 against Kithkin today, and 2-1 against other decks. One of the Kithkin losses was arguably due to sheer stupidity/lack of focus, so there's definitely room for improvement there that should come with practice.
 
-Now to figure out the QnT matchup&#8230;
+Now to figure out the QnT matchup... 
    
 </card>
 

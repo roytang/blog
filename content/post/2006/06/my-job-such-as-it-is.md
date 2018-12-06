@@ -14,8 +14,8 @@ Before I started out in the current job, I wouldn't have thought it likely that 
 
 Not that it's a bad job mind you. Just the opposite in fact, above average pay and work I enjoy doing (most of the time). Sure, it gets stressful at times; especially since I'm currently serving as technical lead on one of the larger projects, such that I often get overwhelmed by technical requests. But somehow I've grown used to it here. For lack of a better term, I've grown some roots.
 
-And yesterday, I was promoted. I haven't been briefed on the details yet, but I know from others that it's not a salary increase thing, more of additional benefits. Still, it's good to be recognized, even if I was expecting it (people were kidding me for months that I was already past due for it&#8230;) Even though I was expecting it, I still failed to gather my usual wordiness and basically stammered a couple of thank you's as my speech. Hey, I didn't expect to have to talk to two hundred people!
+And yesterday, I was promoted. I haven't been briefed on the details yet, but I know from others that it's not a salary increase thing, more of additional benefits. Still, it's good to be recognized, even if I was expecting it (people were kidding me for months that I was already past due for it... ) Even though I was expecting it, I still failed to gather my usual wordiness and basically stammered a couple of thank you's as my speech. Hey, I didn't expect to have to talk to two hundred people!
 
-Man, now it's gonna be even harder to resign&#8230;
+Man, now it's gonna be even harder to resign... 
 
  [1]: http://www.pinoytechblog.com/archives/salary-averages-comparison

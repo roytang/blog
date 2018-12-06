@@ -120,7 +120,7 @@ We play an extra round for fun, but I still take it with damage, although he did
 
 Round 2, game 1: I win by lib-death again. Needed only a single Schoolmaster this time.
 
-Round 2, game 2: Turn four he plays Boldwyr Heavyweights. I search out and play Guile. He swings for eight. I topdeck Weight of Conscience. He manages to kill Guile (duh&#8230;Final Sting Faerie). I manage to draw him again.
+Round 2, game 2: Turn four he plays Boldwyr Heavyweights. I search out and play Guile. He swings for eight. I topdeck Weight of Conscience. He manages to kill Guile (duh... Final Sting Faerie). I manage to draw him again.
 
 Round 3, game 1: I overcommit the Drowner and the Schoolmaster + a couple of other guys, and he shows me an Incendiary Command. Feast of Footbottomgives him back some elves and I scoop to damage.
 

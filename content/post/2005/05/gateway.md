@@ -11,7 +11,7 @@ type: post
 url: /2005/05/gateway/
 ---
 
-We saw [Revenge of the Sith ][1]at the Gateway mall in Cubao. It's less than a year old, and it's target audience is a higher class than the usual malls. It's like it's trying to be something like the Podium, which makes it a bit out of place in Cubao. The mall is good anyway, as you'd expect. Not my type of place to hang out, but has the comforts you'd expect of such a mall&#8230;clean, not much of a crowd, and people greeting you when you get off the taxi. It seems a bit tight, though. The hallways are a bit narrow, and the layout is a bit confusing. Or maybe I'm just used to Megamall.
+We saw [Revenge of the Sith ][1]at the Gateway mall in Cubao. It's less than a year old, and it's target audience is a higher class than the usual malls. It's like it's trying to be something like the Podium, which makes it a bit out of place in Cubao. The mall is good anyway, as you'd expect. Not my type of place to hang out, but has the comforts you'd expect of such a mall... clean, not much of a crowd, and people greeting you when you get off the taxi. It seems a bit tight, though. The hallways are a bit narrow, and the layout is a bit confusing. Or maybe I'm just used to Megamall.
 
 The last time I was there, the only thing to see was the Taco Bell. It was therefore my first time at the cinemas there. It's okay. We got reserved seats, so no crowds for us, and [Alvin ][2]kept laughing at all the lined-up people who didn't have the foresight to buy reserved tickets.
 
@@ -30,7 +30,7 @@ half of the trilogy. ang galing ngayon ko nga lang naisip na si luke ay
 sith+jedi. cool.
 
 ### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-05-29 11:30:00 +0000
-OC-ness kicking in&#8230;I think you meant "the first trilogy"&#8230;the first half of
+OC-ness kicking in... I think you meant "the first trilogy"... the first half of
   
 the trilogy would be Phantom Menace and the first part of Attack of the
   
@@ -50,7 +50,7 @@ teka. san nanggaling yung jedi half ni luke? di ba ordinary mortal lang si
 padme?
 
 ### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-05-29 16:04:00 +0000
-I didn't really mean it that way&#8230;I was thinking more like "born from a Sith,
+I didn't really mean it that way... I was thinking more like "born from a Sith,
   
 trained by Jedi"
 

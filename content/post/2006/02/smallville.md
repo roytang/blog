@@ -12,7 +12,7 @@ url: /2006/02/smallville/
 
 I figure there are three reasons why people continue to watch Smallville:
 
-  * We want to see Clark become Superman (and Lex become&#8230;Lex)
+  * We want to see Clark become Superman (and Lex become... Lex)
   * We want to see all the cool comic-book references and cameos
   * We actually like all the drama and though we know otherwise, we harbor some sort of hope that maybe Clark and Lana will still get together anyhow
 

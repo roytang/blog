@@ -34,7 +34,7 @@ I used to have a strong sense of pride when playing video games, I almost never 
 
 There's some sort of mystery lost when you're playing a game and you know that anytime you get stuck you can just google as a fallback. Well, that's the tradeoff I guess. In exchange though, we get a lot more online gaming content these days, not just walkthroughs: we get let's plays and livestreams and speedruns and all that kind of stuff. Sometimes you don't even have to be playing a game to enjoy the content, so that's kind of cool too.
 
-And you can still finish a game without a walkthrough&#8230;you just need the discipline to stay away from the internet.
+And you can still finish a game without a walkthrough... you just need the discipline to stay away from the internet.
 
 &nbsp;
 

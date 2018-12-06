@@ -217,7 +217,7 @@ Mentally, I panicked, and decided to just get the Entity and Mulldrifter, and ho
    
 Of course, he top decks into the Nameless Inversion, killing the Magus and taking me out of the tournament in one swing.
 
-Terrible&#8230;so many things gone wrong. I should have reserved a blink to protect the Moat. If I hadn't played the lens, the Mirror Entity could have protected the Moat. Or I could have Venser'ed. I also evoked the Reveillark purely out of instinct, thinking something like I could bring back Cloudskate+ Entity, bounce the Body Double, recast it and win the game, but I wouldn't have had enough mana for that.
+Terrible... so many things gone wrong. I should have reserved a blink to protect the Moat. If I hadn't played the lens, the Mirror Entity could have protected the Moat. Or I could have Venser'ed. I also evoked the Reveillark purely out of instinct, thinking something like I could bring back Cloudskate+ Entity, bounce the Body Double, recast it and win the game, but I wouldn't have had enough mana for that.
 
 Lack of experience with the deck was partly to blame, since I didn't have the instinct to recognize that I couldn't combo with the Body Double in play. Still, I need to address this lack of thinking-through my plays since I often turns wins or draws into losses unnecessarily.
 

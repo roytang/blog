@@ -20,7 +20,7 @@ It seemed like a brilliant idea at the time.
 
 _
   
-(I was thinking of making a mock-up drawing of the above hypothesis and claiming that I drew it when I was four. But Ubuntu doesn't seem to have any simple "Paint" application installed&#8230;)
+(I was thinking of making a mock-up drawing of the above hypothesis and claiming that I drew it when I was four. But Ubuntu doesn't seem to have any simple "Paint" application installed... )
   
 _
 

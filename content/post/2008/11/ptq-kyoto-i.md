@@ -304,7 +304,7 @@ Round 3
    
 ** 
 
-In the first game, he showed me 2 Courier's Capsule, 2 Executioner's Capsule, then finished me off with Cruel Ultimatum. It's my first time to be on the receiving end&#8230;that hurts! In the second game, he takes me out with Vein Drinker and Hell's Thunder. I look over his pool afterwards, it was pretty sick. I don't think I really had any chance of winning.
+In the first game, he showed me 2 Courier's Capsule, 2 Executioner's Capsule, then finished me off with Cruel Ultimatum. It's my first time to be on the receiving end... that hurts! In the second game, he takes me out with Vein Drinker and Hell's Thunder. I look over his pool afterwards, it was pretty sick. I don't think I really had any chance of winning.
 
 2-1 matches, 4-3 games
 

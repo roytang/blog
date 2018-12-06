@@ -30,7 +30,7 @@ def save_db(all_series):
 		pickle.dump(all_series, handle, protocol=pickle.HIGHEST_PROTOCOL)
 {{< /highlight >}}
 
-(Above code _probably_ gives you an idea what kind of files I'm sorting&#8230;)
+(Above code _probably_ gives you an idea what kind of files I'm sorting... )
 
 As an added benefit, I didn't need to design any database schemas or tables or whatnot, pickle just lets me serialize the map as-is and reload it later from disk without any hassle.
 

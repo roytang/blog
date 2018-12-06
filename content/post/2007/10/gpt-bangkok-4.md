@@ -355,17 +355,17 @@ Obviously, I suck. More on that later.
 
 Round 1: 0-2 loss. I lose due to bad beats here, mulliganing into a one-land hand both games.
 
-Round 2: 2-1 win. The win here was over a former National champ, who apparently has never beaten me before, as he shook his head commenting "Roy Tang, hindi ko matalo&#8230;" Strangely, I only remember beating him one other time&#8230;
+Round 2: 2-1 win. The win here was over a former National champ, who apparently has never beaten me before, as he shook his head commenting "Roy Tang, hindi ko matalo... " Strangely, I only remember beating him one other time... 
 
 Round 3: 0-2 loss. Several misplays here. More on that leter.
 
 Round 4: 2-1 win. The guy was a bit green, we had to call a judge several times over minor issues.
 
-2-2. Maybe I could still get a decent finish&#8230;just need to win 3 in a row.
+2-2. Maybe I could still get a decent finish... just need to win 3 in a row.
 
 Round 5: 0-2 loss. Damn it!
 
-So I drop. Damn, I hate dropping, it makes me feel so incompetent at Magic. I know, it happens, bad beats etc. But in this case I really was incompetent.  Learn from your mistakes right? The mistakes here were&#8230;
+So I drop. Damn, I hate dropping, it makes me feel so incompetent at Magic. I know, it happens, bad beats etc. But in this case I really was incompetent.  Learn from your mistakes right? The mistakes here were... 
 
 1. Not enough removal. Seriously, I should've probably at least splashed for the Tarfire and the Consuming Bonfire. That would've been a better choice than Rootgrapple. (To be fair, the Treefolk Instant actually took out Garuk for me. I still lost that game though.)
 
@@ -373,7 +373,7 @@ So I drop. Damn, I hate dropping, it makes me feel so incompetent at Magic. I kn
    
 
    
-3. Not having a good plan.Yeah. Evasion guys would have been a good plan. A bunch of small Kithkin guys? Not so much. Even though I could get the awesome double Stalwart opening (I never did), it's not consistent enough. Trying to win in Sealed by rushing small dudes isn't a very reliable since it's more likely for them to have midrange guys as well. I had a few fatties yeah, but in n environment with 2 common tappers, it wasn't very effective. Which reminds me&#8230;
+3. Not having a good plan.Yeah. Evasion guys would have been a good plan. A bunch of small Kithkin guys? Not so much. Even though I could get the awesome double Stalwart opening (I never did), it's not consistent enough. Trying to win in Sealed by rushing small dudes isn't a very reliable since it's more likely for them to have midrange guys as well. I had a few fatties yeah, but in n environment with 2 common tappers, it wasn't very effective. Which reminds me... 
 
 4. Not having a way to kill tappers!
 

@@ -21,11 +21,11 @@ I was not disappointed. Well, not much anyway. As an adult I've grown more criti
 
 The year is 2005 in Transformers the Movie, some 19 years after the movie's actual release. At least they didn't predict flying cars like Back to the Future, but how come we don't yet have cars that look like Hot Rod? The "futuristic" look of the six new Autobots introduced in the movie (Ultra Magnus, Hot Rod, Kup, Blurr, Springer and Arcee) give you an indication of how the people of 80s perceived future transportation.
 
-Apparently, Transformers can use lightsabers, er&#8230;Laser Swords! Megatron pulls one out during his fatal battle with Optimus Prime, and later in the movie one of the Autobots does too. (I think it was Hot Rod, I forget.)
+Apparently, Transformers can use lightsabers, er... Laser Swords! Megatron pulls one out during his fatal battle with Optimus Prime, and later in the movie one of the Autobots does too. (I think it was Hot Rod, I forget.)
 
 Amazingly, while the Autobots and Decepticons never actually hit each other with their weapons in the TV series, their appearance in a movie suddenly made Starscream's use of the Megatron-gun a lot more efficient, accurate and lethal. Ironhide, Prowl, Brawn and Ratchet go down with a single shot each in the first few minutes of the movie. More Autobots died in the first twenty minutes than in the entire run of the series prior to the movie.
 
-This wouldn't be much of a problem if the Autobots actually had the same numbers they had in the series. It's a well-known fact that the Autobots greatly outnumbered the Decepticons almost all the time, since there are far more types of cars than there are jets and guns and other stuff. But in the movie, there are apprently less than twenty Autobots still in active service. What happened to the rest? We're limited to Optimus Prime, the more popular first-batch Autobots, the Dinobots and the new guys. The Decepticons get a slightly better deal. They get both the first and second batch of jets, the Constructicons, Insecticons, and even the triple-changers Blitzwing and Astrotrain. Also, I think Blaster's cassette-bots make their first cartoon appearance here. Conspiciously absent are the second set of &#8216;combiner' teams&#8230;the Protectobots, Aerialbots, Combaticons and Stunticons. Some of the fights might have gone better had the Autobots thought to bring around Omega Supreme or Skyfire.
+This wouldn't be much of a problem if the Autobots actually had the same numbers they had in the series. It's a well-known fact that the Autobots greatly outnumbered the Decepticons almost all the time, since there are far more types of cars than there are jets and guns and other stuff. But in the movie, there are apprently less than twenty Autobots still in active service. What happened to the rest? We're limited to Optimus Prime, the more popular first-batch Autobots, the Dinobots and the new guys. The Decepticons get a slightly better deal. They get both the first and second batch of jets, the Constructicons, Insecticons, and even the triple-changers Blitzwing and Astrotrain. Also, I think Blaster's cassette-bots make their first cartoon appearance here. Conspiciously absent are the second set of &#8216;combiner' teams... the Protectobots, Aerialbots, Combaticons and Stunticons. Some of the fights might have gone better had the Autobots thought to bring around Omega Supreme or Skyfire.
 
 The Dinobots are apparently stupider than I remember. I guess my memories preferred the comic-book Dinobots, where Grimlock actually managed to become Autobot leader. Here Blurr has trouble convincing them to board a ship.
 
@@ -52,4 +52,4 @@ decepticons. nalipat kami sa voltron and voltes v.
 
 \*sings\* the transformers.. more than meets the eye.. autobot (something
   
-something to) fight the evil forces of the decepticons&#8230;
+something to) fight the evil forces of the decepticons... 

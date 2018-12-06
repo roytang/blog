@@ -40,7 +40,7 @@ A good reader screen reads at 300wpm right? At 472wpm, I think that makes you a 
 my god, 289 wpm at 64% comprehension!! i'm like a grade-schooler!
 
 ### Comment by guzeppe on 2009-01-01 06:12:21 +0000
-664 wpm, 67% comprehension&#8230; not sure what that means.
+664 wpm, 67% comprehension...  not sure what that means.
 
 ### Comment by [trinity](http://trinity.wordpress.com/) on 2009-02-24 15:43:13 +0000
 214 wpm at 73% comperhension.

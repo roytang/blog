@@ -219,6 +219,6 @@ Round 7:
    
 I like the matchup against SimicTron better, as they have Breeding Pools that the Dryads can walk through. The dryads take him down in game one despite the presence of a Sky Swallower. Game two, I'm confident of winning; I have the hellbent Demonfire in hand and he's within reach. But I fear the Commandeer, so I point the Demonfire at a nearby Hellkite instead. Completely illogical, I lost game two because of that. I was thinking I would wait for a Persecute to clear the hand before going for the Demonfire. Game three, he was able to handle all my threats except for an early Elf and Dryad, which took him down to 1 life before he was forced to Wildfire to clear the board. PS Demonfire for one.
 
-All in all, a pretty good performance for a "Rogue" decklist, 5-2, although I had seriously bad tiebreakers so I finished in 17th place, last among the 5-2's. And I didn't get to test my mettle against Boros. And seriously, the metagame here&#8230;it's like 50% of people are playing some X-tron deck.
+All in all, a pretty good performance for a "Rogue" decklist, 5-2, although I had seriously bad tiebreakers so I finished in 17th place, last among the 5-2's. And I didn't get to test my mettle against Boros. And seriously, the metagame here... it's like 50% of people are playing some X-tron deck.
 
 One more Standard tournament next week before Planar Chaos!

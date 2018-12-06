@@ -22,7 +22,7 @@ One could argue that I could keep the copies on disc in case someone wants to bo
 
 Side note: I'm pretty sure the tendency to archive, compile and categorize everything is a symptom of [NADD][1].
 
-I'm almost done convincing myself now, maybe I _will _toss out those old discs&#8230;
+I'm almost done convincing myself now, maybe I _will _toss out those old discs... 
 
  [1]: www.randsinrepose.com/archives/2003/07/10/nadd.html
 
@@ -31,7 +31,7 @@ I'm almost done convincing myself now, maybe I _will _toss out those old discs
 ### Comment by noems on 2008-07-15 09:39:59 +0000
 how about donating some of your copies to kapal-muks leechers like me? 😛
   
-depends ofcourse on what you have&#8230; kenshin would be nice since i haven't
+depends ofcourse on what you have...  kenshin would be nice since i haven't
   
 seen it 😀
 

@@ -18,7 +18,7 @@ Now, the question is, what next? I seem to be a total newbie at this Linux thing
 
 _
   
-(To be continued&#8230;)
+(To be continued... )
   
 _
 
@@ -27,7 +27,7 @@ _
 ## Comments
 
 ### Comment by [Wwe Lita](http://www.wwe-lita.net) on 2006-09-08 10:09:58 +0000
-\*\*wwe divas&#8230;\*\*
+\*\*wwe divas... \*\*
 
 Hey ! Thanx for the nice post.. Have you heard of the WWE Divas ? We know al
   
@@ -35,4 +35,4 @@ they are the hottest and sexiest women alive ! But as the biggest fan on earth
   
 for wwe diva lita, i have to say that wwe's lita is the sexiest of all the wwe
   
-divas ! Please s&#8230;
+divas ! Please s... 

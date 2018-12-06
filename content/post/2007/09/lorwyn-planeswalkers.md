@@ -121,7 +121,7 @@ My take:
    
 ** 
    
-Ah, Liliana, first among equals. Well, first to be previewed anyway. The finisher will win you games in Limited -- but only after much blood has already been spilled. The special move on the other hand, pulls out all your other bombs from your deck (hope you had a few!) The normal move is meh in both Limited and Constructed -- paying 5 for a repeating single discard effect isn't really that good. For Constructed, her finisher has a strange synergy with Jace Beleren's&#8230;populate the graveyards, then animate 'em all under my control. Well, it's pretty good with Damnation as well. A bit of a "win more" card, if you live long enough to get Liliana online, you're probably a control deck and you're already winning.
+Ah, Liliana, first among equals. Well, first to be previewed anyway. The finisher will win you games in Limited -- but only after much blood has already been spilled. The special move on the other hand, pulls out all your other bombs from your deck (hope you had a few!) The normal move is meh in both Limited and Constructed -- paying 5 for a repeating single discard effect isn't really that good. For Constructed, her finisher has a strange synergy with Jace Beleren's... populate the graveyards, then animate 'em all under my control. Well, it's pretty good with Damnation as well. A bit of a "win more" card, if you live long enough to get Liliana online, you're probably a control deck and you're already winning.
 
 **
     
@@ -197,6 +197,6 @@ My take:
    
 ** 
    
-My favorite is the green one of course. Garruk compares favorably with Call of the Herd. Play him, and immediately make a 3/3 to defend him. If he takes an Incinerate, that's fine, you still have the token you made. If not&#8230;wow, more free Beasts! I'd use him this way in either Limited or Constructed. In fact, I can build a green deck just starting with 4 Call of the Herd 4 Garruk Wildspeaker&#8230;that's at least 20 creatures right there. Another application would be to use the normal move to accelerate into early 6-7 casting cost threats, butI like 3/3s better. The finisher is decent, and pretty good in Limited. It has a disadvantage over an actual Overrun in that your opponent can see it coming, but if you're planning to use it then you're probably winning anyway; in a defensive board the 3/3 beast is a better idea.
+My favorite is the green one of course. Garruk compares favorably with Call of the Herd. Play him, and immediately make a 3/3 to defend him. If he takes an Incinerate, that's fine, you still have the token you made. If not... wow, more free Beasts! I'd use him this way in either Limited or Constructed. In fact, I can build a green deck just starting with 4 Call of the Herd 4 Garruk Wildspeaker... that's at least 20 creatures right there. Another application would be to use the normal move to accelerate into early 6-7 casting cost threats, butI like 3/3s better. The finisher is decent, and pretty good in Limited. It has a disadvantage over an actual Overrun in that your opponent can see it coming, but if you're planning to use it then you're probably winning anyway; in a defensive board the 3/3 beast is a better idea.
 
  [1]: http:// "http://forums.mtgsalvation.com/showthread.php?t=85382"

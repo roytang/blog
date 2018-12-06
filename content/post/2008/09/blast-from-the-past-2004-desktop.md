@@ -44,7 +44,7 @@ Items I had in the quick-launch toolbar:
   * Outlook (I never used this)
   * Excel
   * No idea
-  * Thunderbird again&#8230;apparently I never cleaned up this taskbar.
+  * Thunderbird again... apparently I never cleaned up this taskbar.
   * Visualboy Advance
   * Firefox
   * Quicktime (3 different media players too!)

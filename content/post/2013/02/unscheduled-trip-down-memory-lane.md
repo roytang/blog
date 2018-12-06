@@ -43,4 +43,4 @@ By that point I was satisfied with my unscheduled trip down memory lane. I stood
 ## Comments
 
 ### Comment by [Kay Javier](http://facebook.com/profile.php?id=736711443) on 2013-02-09 20:00:52 +0000
-Aya, you made me smile while reading this&#8230; it's a good feeling remembering good old happy days. 🙂 Ice store Mejia&#8230; across was construction supply store hehe&#8230;. 🙂
+Aya, you made me smile while reading this...  it's a good feeling remembering good old happy days. 🙂 Ice store Mejia...  across was construction supply store hehe... . 🙂

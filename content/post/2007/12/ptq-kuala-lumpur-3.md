@@ -11,7 +11,7 @@ Dec-2, Sunday. Lorwyn Sealed. The usual location of course, NG Galleria.
 
 _
     
-I find your lack of socks&#8230;disturbing
+I find your lack of socks... disturbing
    
 _ 
 
@@ -595,10 +595,10 @@ Sigh. 1 and 2 after 3 rounds. I figure I'll play until I get the 3rd loss, maybe
 
 Round 4: 0-2 loss vs GWb.
 
-Oops&#8230;so much for that plan. I keep him back on tempo with Whirlpool Whelms and faeries, but he eventually overwhelms me with critters.
+Oops... so much for that plan. I keep him back on tempo with Whirlpool Whelms and faeries, but he eventually overwhelms me with critters.
 
 Facing lethal damage in game two, I pick up the result slip and tick the "Drop" option.
 
-Sigh, one more PTQ to go, last chance to go to Kuala Lumpur. I made so many bloopers this tournament, and my mental game was so off&#8230;must do better next time.
+Sigh, one more PTQ to go, last chance to go to Kuala Lumpur. I made so many bloopers this tournament, and my mental game was so off... must do better next time.
 
 But first, next week: Standard.

@@ -51,7 +51,7 @@ As I said, uneventful.
 ## Comments
 
 ### Comment by [noemi](http://trinity.wordpress.com) on 2007-04-12 19:25:26 +0000
-namatay naman si Jack ah,&#8230; for a few minutes nga lang. hehe db? the season
+namatay naman si Jack ah,...  for a few minutes nga lang. hehe db? the season
   
 when david palmer was assassinated?
 

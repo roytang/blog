@@ -39,5 +39,5 @@ url: /2006/02/looking-out-over-punta-fuego/
     </p>
     
     <p>
-      I suppose that it may have been a good change of pace for me&#8230;
+      I suppose that it may have been a good change of pace for me... 
     </p>

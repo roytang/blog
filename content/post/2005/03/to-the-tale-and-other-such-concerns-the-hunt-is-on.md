@@ -27,7 +27,7 @@ It was fun, though.
 ## Comments
 
 ### Comment by [clair](http://clair.free.net.ph) on 2005-03-14 09:41:00 +0000
-Darn it&#8230; I haven't solved it yet. Must give it time. I think that I might be
+Darn it...  I haven't solved it yet. Must give it time. I think that I might be
   
 thinking too hard. Then again, I am not so good at puzzles. It takes me a
   

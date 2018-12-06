@@ -208,7 +208,7 @@ Round 4: WG vs UBR Reanimator
    
 ** 
 
-He went first. Hellkites, Akromas&#8230;I pretty much knew what to expect after the second turn Merfolk Looter. Hellkite on turn four killed my mana producers and I got stuck on three lands with no O-Rings to save me.
+He went first. Hellkites, Akromas... I pretty much knew what to expect after the second turn Merfolk Looter. Hellkite on turn four killed my mana producers and I got stuck on three lands with no O-Rings to save me.
 
 My boarding plan here was same as the previous round -2 Loxodon Warhammer, -1 Birds of Paradise, -1 Primal Command, -1 Wilt-Leaf Liege, +3 Tormod's Crypt, +2 Stonecloaker.
 

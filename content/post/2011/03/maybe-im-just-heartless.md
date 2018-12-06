@@ -10,7 +10,7 @@ type: post
 url: /2011/03/maybe-im-just-heartless/
 ---
 
-&#8230;but I feel like this country has spent far too much energy pleading and praying for and glorifying and sensationalizing three drug mules when we should be trying to figure out how they got past our airport security and immigration officers in the first place.
+... but I feel like this country has spent far too much energy pleading and praying for and glorifying and sensationalizing three drug mules when we should be trying to figure out how they got past our airport security and immigration officers in the first place.
 
 ## Comments
 

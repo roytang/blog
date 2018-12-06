@@ -11,6 +11,6 @@ url: /2004/10/gta-iii-for-the-nes/
    
 Nuff said.
 
-Man&#8230;I want to do a project like that. 😛
+Man... I want to do a project like that. 😛
 
  [1]: http://www.grandtheftendo.com/

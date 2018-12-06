@@ -26,7 +26,7 @@ Sony, one of Square's major stockholders, will have it's shares diluted to 8% of
 
 Namco, another game company also has some stock in both Square and Enix, and is the publisher of Xenogears' prequel, Xenosaga.
 
-Square also has a US publishing deal with EA, set to expire at the end of the year. (This last tidbit may not mean anything&#8230;)
+Square also has a US publishing deal with EA, set to expire at the end of the year. (This last tidbit may not mean anything... )
 
 Square also recently acquired the Quest team (responsible for Tactics Ogre series) and the rights to the Ogre Battle franchise.
 
@@ -46,6 +46,6 @@ Although not really related to the merger, things also look bright for fans of F
 
 I've been looking around on message boards after the news came out, and it seems a lot of people are worried about how Enix might screw up Final Fantasy, or Square screw up Dragon Warrior or anything like that. To this, again I say: They're not stupid. FF and DW, although they have the same roots, are completely different series now, and their different styles again reflect how Square and Enix can complement each other's strengths. Well, I guess DW will benefit the most, as it's sorely lacking in FFs specialty: really good graphics.
 
-Another concern that has been raised has been the possibility of a monopoly in RPG games. With this merger, a lot of the big RPG names are now under one roof. Won't the lesser competition cause more lackluster RPGs to be put out? Maybe, but I doubt it. Square Enix still can't afford to let up on the quality, as there are still a good number of other good up-and-coming series out there: Suikoden (Konami), Wild Arms (Sony?), Tales (Namco) and Breath of Fire (Capcom) all still have quite some following and good potential. In fact the above titles will probably slug it out for the Number 2 Console RPG Developer slot&#8230;
+Another concern that has been raised has been the possibility of a monopoly in RPG games. With this merger, a lot of the big RPG names are now under one roof. Won't the lesser competition cause more lackluster RPGs to be put out? Maybe, but I doubt it. Square Enix still can't afford to let up on the quality, as there are still a good number of other good up-and-coming series out there: Suikoden (Konami), Wild Arms (Sony?), Tales (Namco) and Breath of Fire (Capcom) all still have quite some following and good potential. In fact the above titles will probably slug it out for the Number 2 Console RPG Developer slot... 
 
 All in all, the opinions I've read on the web are mixed: some are good, some are bad. My own personal take is that it's good; mergers generally mean two companies wanting to capitalize on each other's strengths, not share each other's weaknesses. Let's just wait and see, and hope for the best. 😛

@@ -26,7 +26,7 @@ I'm not saying knowledge of these things isn't useful. If you want to do more co
 
 But the problems with the whiteboard interviewing process isn't that they require knowledge of these things; it's that they require it under pressure, off the top of your head, without access to the internet. This doesn't reflect how programming work happens in the real world, where you often have a team, an IDE, and even the entire internet to help you.
 
-Unfortunately, it's often far too costly for companies to evaluate you under real-world conditions, so many resort to this common interviewing process. After all, it is difficult to evaluate the performance of even developers you have been working with for months, what more someone who just whipped up a short function on a whiteboard in twenty minutes? We tried some variations on it at our last company, but for me it is a problem yet unsolved. Maybe someday&#8230;
+Unfortunately, it's often far too costly for companies to evaluate you under real-world conditions, so many resort to this common interviewing process. After all, it is difficult to evaluate the performance of even developers you have been working with for months, what more someone who just whipped up a short function on a whiteboard in twenty minutes? We tried some variations on it at our last company, but for me it is a problem yet unsolved. Maybe someday... 
 
 &nbsp;
 

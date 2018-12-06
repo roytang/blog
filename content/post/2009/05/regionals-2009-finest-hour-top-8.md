@@ -153,7 +153,7 @@ Here's the quick tournament report:
 
 The deck plays a lot like fish/merfolk, looking for fast explosive starts and protecting it with light countermagic. Basically you want to lead with an evasive attacker ([Shorecrasher Mimic][6], [Jhessian Infiltrator][7] or [Vendillion Clique][5]) and follow up with a card to turn it into massive damage ([Rafiq of the Many][8], [Finest Hour][9] or [Elspeth, Knight-Errant][10]), protecting the aggro with [Negate][11] or [Bant Chamr][12].
 
-When I lost to the 5-color blood deck (that eventually won one of the four invites&#8230;), I felt like I was playing so badly because I was unsure of how the matchup should be played. I didn't even board in Forge-Tender! I made a lot of gameplay errors throughout the tournament, so it's basically a miracle that I still made top eight anyway. Part of it was probably because a lot of people weren't really familiar with the card itself, Finest Hour:
+When I lost to the 5-color blood deck (that eventually won one of the four invites... ), I felt like I was playing so badly because I was unsure of how the matchup should be played. I didn't even board in Forge-Tender! I made a lot of gameplay errors throughout the tournament, so it's basically a miracle that I still made top eight anyway. Part of it was probably because a lot of people weren't really familiar with the card itself, Finest Hour:
 
 ![Finest Hour][13]
 
@@ -221,7 +221,7 @@ Edited.
 ### Comment by Jagard on 2009-06-08 11:20:44 +0000
 He rules that I'm correct that I'm getting <b>2 extra combat steps</b>, and my opponent scoops. I later found out that while the ruling was correct, there was some missing information. Reading the card carefully, you'd see that while I would get 2 additional combat steps, I would only get to untap the Rhox War Monk during the first combat step!
 
-&#8212;- I play Finest Hour too. However, I'm unsure about the judge's ruling about this. The same situation happened to me last Friday. However, the judge ruled that we only get 1 extra combat step considering that "it's the first combat phase of the turn" as stated on the card. Oh well, off to the forums and FAQ's for me&#8230;
+&#8212;- I play Finest Hour too. However, I'm unsure about the judge's ruling about this. The same situation happened to me last Friday. However, the judge ruled that we only get 1 extra combat step considering that "it's the first combat phase of the turn" as stated on the card. Oh well, off to the forums and FAQ's for me... 
 
 ### Comment by roy on 2009-06-08 23:59:15 +0000
 It's correct, the 2 Finest Hours will both trigger in the first combat phase of the turn, when they resolve it will still be the first combat step, and they'll each give you one extra combat step. 

@@ -15,7 +15,7 @@ Another online game I found lately is the totally addictive time-waster [gridloc
 
 And just to show how much free time people have on your hands, just now I found that someone has managed to create an [entire Lemmings game written in JavaScript!][3] 
 
-I think it's also great that all three of these games work well with Firefox, without me having to install any silly extensions. (I'm not particularly fond of slow-loading flash games&#8230;)
+I think it's also great that all three of these games work well with Firefox, without me having to install any silly extensions. (I'm not particularly fond of slow-loading flash games... )
 
  [1]: http://wwww.kingdomofloathing.com
  [2]: http://www.corwin.ca/gridlock/

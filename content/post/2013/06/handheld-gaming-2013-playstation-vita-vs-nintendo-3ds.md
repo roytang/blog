@@ -20,4 +20,4 @@ I have access to both a first-generation 3DS with ambassador status (this is act
 
 The only real downside of the Vita as far as I can tell is that the memory cards are helluva expensive; but maybe that will change this week.
 
-And&#8230;that's it. Just thought I'd write some gaming stuff since E3 is happening in a few hours. 😀
+And... that's it. Just thought I'd write some gaming stuff since E3 is happening in a few hours. 😀

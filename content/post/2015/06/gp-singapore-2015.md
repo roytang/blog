@@ -132,7 +132,7 @@ Given the Champions of Kamigawa, Worldwake and Rise of Eldrazi packs of course o
 
 [<img class="aligncenter size-full wp-image-1124" src="http://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08.jpg" alt="2015-06-29 12.22.08" width="3264" height="1836" srcset="https://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08.jpg 3264w, https://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" />][3]
 
-Well, I didn't too well this trip, but at least there's still some swag and some winnings so it wasn't a complete loss. And it's always good to visit with my friends in Singapore so overall it was a good trip. I might be able to hit another GP later this year&#8230;it depends on how work plans shake out.
+Well, I didn't too well this trip, but at least there's still some swag and some winnings so it wasn't a complete loss. And it's always good to visit with my friends in Singapore so overall it was a good trip. I might be able to hit another GP later this year... it depends on how work plans shake out.
 
  [1]: http://roytang.net/2015/02/grand-prix-manila-2015/
  [2]: http://roytang.net/wp-content/uploads/2015/06/2015-06-28-14.41.46.jpg

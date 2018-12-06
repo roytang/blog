@@ -19,9 +19,9 @@ Some comments on the Yahoo webapps.
   
         which breaks even more layouts, including this one (mental note: fix that tomorrow). 
       * Doh! I actually had to change the Outgoing name, which was set to the original account name. Why doesn't it update the mail setting when I change the (global) Yahoo account setting? Updated it to "AllTheThingsSheKeepsInsideAreT" 
-      * I sent some mail messages with the long name and a long subject line. As I suspected&#8230;Yahoo compensates for the unwrappable words by expanding the grid cell, breaking the layout. This was a problem I encountered before in the webapps at workand I still don't have a solution that would work in all browsers. 
+      * I sent some mail messages with the long name and a long subject line. As I suspected... Yahoo compensates for the unwrappable words by expanding the grid cell, breaking the layout. This was a problem I encountered before in the webapps at workand I still don't have a solution that would work in all browsers. 
   * I'm also interested in how popular webapps handle timestamping, so I try this out as well. For the uninformed, timestamping means handling the case where two people both try to edit the same record at roughly the same time. If there's no handling, the person who updates first usually has his changes lost, without any notification.</p> 
-      * I try it out first with Yahoo Address Book and Notepad. Both experiments fail&#8230;there's no timestamping. I tested it by opening a record (Address Book entry/Notepad note) for updating in two separate Firefox tabs. I update one tab and save, then update the second tab and save. Changes made in the first tab are lost. 
+      * I try it out first with Yahoo Address Book and Notepad. Both experiments fail... there's no timestamping. I tested it by opening a record (Address Book entry/Notepad note) for updating in two separate Firefox tabs. I update one tab and save, then update the second tab and save. Changes made in the first tab are lost. 
       * Well, I guess that's okay, since technically, only one person at a time is expected to access these webapps. So I do something else. I create
       
         [

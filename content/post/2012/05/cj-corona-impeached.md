@@ -15,7 +15,7 @@ url: /2012/05/cj-corona-impeached/
 
 Time for some Monday morning quarterbacking!
 
-Disclaimer: I Am Not A Lawyer. I'm just a guy with opinions. And you know what they say about opinions&#8230;
+Disclaimer: I Am Not A Lawyer. I'm just a guy with opinions. And you know what they say about opinions... 
 
 Today, the Philippine Senate has impeached the Chief Justice of the Supreme Court by a vote of 20 to 3.
 
@@ -33,7 +33,7 @@ And rushing out of the trial, claiming a low blood sugar attack, conveniently ri
 
 There were very few real winners in this trial, but a clear one has to be the Senate President Juan Ponce Enrile. Despite all the incompetence of the related parties, he did the best job he could, presiding over a very fair trial, calling it straight down the middle down to the very end. Respect.
 
-Also, time for a lesson in bad arguments (mostly for internet commenters): "Let he who is without sin cast the first stone" -- this is a logical fallacy called ["Tu quoque"][1], a form of ad hominem. While this is great for bibilical parables, probably not the best argument to cite for legal proceedings. Sure, a whole lot of the accusers themselves are probably corrupt or misdeclaring their SALNs or whatever. Impeach them too. Impeach them all if we have to. (Fortunately for the president, incompetence is not an impeachable offense&#8230;yet.)
+Also, time for a lesson in bad arguments (mostly for internet commenters): "Let he who is without sin cast the first stone" -- this is a logical fallacy called ["Tu quoque"][1], a form of ad hominem. While this is great for bibilical parables, probably not the best argument to cite for legal proceedings. Sure, a whole lot of the accusers themselves are probably corrupt or misdeclaring their SALNs or whatever. Impeach them too. Impeach them all if we have to. (Fortunately for the president, incompetence is not an impeachable offense... yet.)
 
 That's my 2 cents. Now can we move on? We still have to prepare for the next circus, it's coming in May 2013.
 

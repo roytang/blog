@@ -8,6 +8,6 @@ type: post
 url: /2006/01/i-wasn39t-planning-on-making-resolutions/
 ---
 
-&#8230;but what the hell.
+... but what the hell.
 
 I will try more new things this year.

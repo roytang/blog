@@ -18,7 +18,7 @@ One of my many, many loyal blog readers pointed out to me that I had yet to pos
 
 Yes indeed, I still play Magic, "on and off", as it happens with most Magic players with busy lives and/or multiple other hobbies. I wouldn't miss a chance to play a local Grand Prix of course, so I started getting back into standard as soon as Khans of Tarkir rotated in. I couldn't stand the grindy midrange Abzan mirrors, so I've been playing Jeskai pretty much since the format started; Mantis Riders at first, then transitioned to tokens in December after I did poorly at a couple of GPTs.
 
-The list I ran, largely based off Yuuya Watanabe's Player's Championship deck (sideboard might not be accurate&#8230;I may have taken too long to write this up :p):
+The list I ran, largely based off Yuuya Watanabe's Player's Championship deck (sideboard might not be accurate... I may have taken too long to write this up :p):
 
 {{< cardlist title="Jeskai Tokens" >}}
   

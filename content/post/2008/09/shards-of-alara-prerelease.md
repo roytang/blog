@@ -594,4 +594,4 @@ Wordpress that automatically formats the decklists for me. Unfortunately since
   
 you're using Blogger, it's more difficult since Blogger doesn't support
   
-plugins. It might be possible using JavaScript&#8230;I'll think about it hehe
+plugins. It might be possible using JavaScript... I'll think about it hehe

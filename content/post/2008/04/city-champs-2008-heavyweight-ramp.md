@@ -140,9 +140,9 @@ Round 3: G/W Mana Ramp
    
 ** 
 
-Game one I gain a ton of life from triple Condemn; He plays Crovax and next turn he casts Primal Command for Akroma, Angel of Wrath. I untap and play Hostility. Crovax blocks and returns to hand., taking him from 27 life to 25. He untaps and plays Akroma. End of his turn, cast Incinerate, creating 3 3/1 tokens. Cast Skred to kill Wall of Roots (blocker). My turn, untap, draw. Incinerate, creating 3 more tokens. Disintegrate for 5, creating 5 more tokens. Attack with 11 tokens + Hostility, 39 damage on the board and only Akroma as the blocker&#8230;nick deck.
+Game one I gain a ton of life from triple Condemn; He plays Crovax and next turn he casts Primal Command for Akroma, Angel of Wrath. I untap and play Hostility. Crovax blocks and returns to hand., taking him from 27 life to 25. He untaps and plays Akroma. End of his turn, cast Incinerate, creating 3 3/1 tokens. Cast Skred to kill Wall of Roots (blocker). My turn, untap, draw. Incinerate, creating 3 more tokens. Disintegrate for 5, creating 5 more tokens. Attack with 11 tokens + Hostility, 39 damage on the board and only Akroma as the blocker... nick deck.
 
-Game two&#8230;my notes make it appear that I just played a fatty and pummelled him to death.
+Game two... my notes make it appear that I just played a fatty and pummelled him to death.
 
 4-2 games 2-1 matches
 
@@ -156,9 +156,9 @@ Wow! This is the matchup I was prepared for! I should totally dominate this.
 
 Obviously, my lack of play testing killed me here.
 
-Game one I cleared his Faeries with spot removal, then when the coast was clear, inexplicably decided to hardcast a Cloudthresher ("Now it's my turn to attack!") Of course he played the Sower, and I was out of burn. Trying to go aggro when I was obviously the control in this matchup&#8230;"Misassignment of role = game loss"
+Game one I cleared his Faeries with spot removal, then when the coast was clear, inexplicably decided to hardcast a Cloudthresher ("Now it's my turn to attack!") Of course he played the Sower, and I was out of burn. Trying to go aggro when I was obviously the control in this matchup... "Misassignment of role = game loss"
 
-Game two I played a bit better, and the game went long, but I still lost to a misplay. I needed to play a 3 damage burn spell so that Bitterblossom would kill him, and having both Incinerate and Sulfurous Blast in my hand, I went for the greedy blast, hoping to clear away the Faeries on board as well. Of course I then got hit by an Rune Snag that I could've paid for if I had played the Incinerate instead! I got too greedy and didn't think it through&#8230;clearing the Faeries on board wouldn't have mattered as long as I won the game.
+Game two I played a bit better, and the game went long, but I still lost to a misplay. I needed to play a 3 damage burn spell so that Bitterblossom would kill him, and having both Incinerate and Sulfurous Blast in my hand, I went for the greedy blast, hoping to clear away the Faeries on board as well. Of course I then got hit by an Rune Snag that I could've paid for if I had played the Incinerate instead! I got too greedy and didn't think it through... clearing the Faeries on board wouldn't have mattered as long as I won the game.
 
 4-4 games 2-2 matches
 
@@ -220,7 +220,7 @@ My opponent and I knows each other from prior tournaments and we're both known t
 
 Finally I get to use my anti-Lark sideboard. I knew coming in that Mana Ramp generally lost to &#8216;Lark, so I packed ten sideboard cards for the matchup: 4 Cryoclasm, 3 Extirpate and 3 Void. I don't remember how I boarded, but I reduced my creature count (expecting Moat), keeping only Hostility among my fatties.
 
-And of course&#8230;it didn't go well. I resolved a Void, named five and he showed me his hand full of 2s: Rune Snags, Blinks and Remove Souls. He eventually draws into two Larks, and I don't have the Extirpates to fight back.
+And of course... it didn't go well. I resolved a Void, named five and he showed me his hand full of 2s: Rune Snags, Blinks and Remove Souls. He eventually draws into two Larks, and I don't have the Extirpates to fight back.
 
 **
     
@@ -230,4 +230,4 @@ Final record:
    
 11-8 games, 5-4 matches, finished #95 (won Extended Art Imperious Perfect)
 
-Underperformed again as usual. Of course, given that I came up with the decklist the night before and had zero playtesting I suppose it's not so bad. And given the 3 faerie decks I faced I don't think I would have done as well with the Lark deck. This deck is workable but could use a bit of tuning. (Obviously the Heavyweights are such a joke and have to go&#8230;) People don't usually expect the unusually high amount of burn, and I even have the ability to deal upwards of 30 damage with the Hostility combo, so it's pretty flexible. I'll see what I can do to improve the Lark matchup&#8230;
+Underperformed again as usual. Of course, given that I came up with the decklist the night before and had zero playtesting I suppose it's not so bad. And given the 3 faerie decks I faced I don't think I would have done as well with the Lark deck. This deck is workable but could use a bit of tuning. (Obviously the Heavyweights are such a joke and have to go... ) People don't usually expect the unusually high amount of burn, and I even have the ability to deal upwards of 30 damage with the Hostility combo, so it's pretty flexible. I'll see what I can do to improve the Lark matchup... 

@@ -14,7 +14,7 @@ I suppose it was to be expected, but the airport in Legazpi was a far cry from t
 
 Of course, there was Mayon, visible as soon as we descended from the clouds. Unfortunately the peak stayed hidden from us for the entire weekend, maybe another time. Still, Sunday morning we climbed Lignon Hill, which is a lot smaller than Mayon. We were hoping that by the time we finish the 30-minute walk to the top the peak would show itself. No such luck.
 
-The walk upwards was&#8230;invigorating in a way. I have a newfound respect for slopes. The road we were walking on our way to the peak can't have been more than 30 degrees at its most difficult, yet my leg muscles felt dead tired before we were halfway up. Just shows how out of shape I was. The trip down was much faster of course.
+The walk upwards was... invigorating in a way. I have a newfound respect for slopes. The road we were walking on our way to the peak can't have been more than 30 degrees at its most difficult, yet my leg muscles felt dead tired before we were halfway up. Just shows how out of shape I was. The trip down was much faster of course.
 
 The rest of the stay was mostly eating and shopping for _pasalubong.
   
@@ -24,4 +24,4 @@ Of course, I suck at buying gifts for people so I'm glad I had a DS while everyo
 
 Our parents dropped us off at the airport in time for the return flight. We checked in and sat down to wait. The rain outside started getting worse, and eventually there was a message that our flight is canceled. Boo! After asking around, I was told I'd get a full refund for the round trip flight. (So we got to fly to Albay for free) I called up my parents and asked them to get us bus tickets.
 
-As I mentioned at the start, traveling by land sucks. It's hard to sleep, and I'm prone to motion-sickness on extended bus trips. Still, we made it back to Manila alive and well. I had a bit of a headache and some of the aforementioned nausea and hardly any sleep, as I expected&#8230;
+As I mentioned at the start, traveling by land sucks. It's hard to sleep, and I'm prone to motion-sickness on extended bus trips. Still, we made it back to Manila alive and well. I had a bit of a headache and some of the aforementioned nausea and hardly any sleep, as I expected... 

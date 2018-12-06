@@ -18,7 +18,7 @@ Done so far:
 
   * Imported posts and comments from Blogger
   * Go through every single post and assign categories (that took a while =p)
-  * Updated many links / images in the posts to point to this server (There should be no more broken links&#8230;I hope)
+  * Updated many links / images in the posts to point to this server (There should be no more broken links... I hope)
 
 I'm still gonna play around with WordPress, PHP and MySQL a bit later, see if I can get something nice going.
 

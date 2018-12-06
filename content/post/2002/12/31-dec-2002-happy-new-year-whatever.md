@@ -24,7 +24,7 @@ url: /2002/12/31-dec-2002-happy-new-year-whatever/
     hour and a half commute might sap my energy too much. Maybe I should carry
   
     chcocolates to work. 😛
-  * We got a PS2&#8230;in fact most of my free time these past couple of weeks
+  * We got a PS2... in fact most of my free time these past couple of weeks
   
     have been sapped by two huge beasts named Suikoden III and Fallout 2.
   

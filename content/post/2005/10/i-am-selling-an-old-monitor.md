@@ -23,7 +23,7 @@ Subj.
   
 Anybody have?
 
-I'ts better, if you have XRumer 5.04&#8230;
+I'ts better, if you have XRumer 5.04... 
   
 Gimme link
 

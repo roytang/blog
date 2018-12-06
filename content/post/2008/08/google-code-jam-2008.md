@@ -14,7 +14,7 @@ It's part of my characteristic competitiveness and arrogance that I actually ima
 
 I'm not really a com-sci guy, so I'm weak with regards to algorithms, I don't always know what the best approach for particular classes of problems -- I usually just brute force it then try to optimize based on my on-the-spot analysis of each problem. It seemed it wasn't enough; there were a lot of hardcore guys who were able to get perfect scores, and I salute them.
 
-I'm not sure whether I'll still participate next time, as the problems don't seem to be geared towards someone of my skillset. Still, the fact that I managed to pass 3 rounds (including the qualifier) indicates some potential for winning. And I was one of only two Filipinos who made it to round 2! Good luck to the last guy&#8230;
+I'm not sure whether I'll still participate next time, as the problems don't seem to be geared towards someone of my skillset. Still, the fact that I managed to pass 3 rounds (including the qualifier) indicates some potential for winning. And I was one of only two Filipinos who made it to round 2! Good luck to the last guy... 
 
 After the code jam, I'm thinking of taking a look at TopCoder.com which hosts weekly programming contests. I'm not sure whether I'll really have time, but I'll probably try it once or twice to see how well I fare.
 

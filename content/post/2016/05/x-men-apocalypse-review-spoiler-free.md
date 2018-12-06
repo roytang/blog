@@ -29,6 +29,6 @@ url: /2016/05/x-men-apocalypse-review-spoiler-free/
   * plot is all over the place, a lot of WTF moments here and there. OMG that stupid arrow D:
   * lots of faults, but you'll probably enjoy it anyway if you're an X-men fan just for all the random easter eggs you spot ("Hey, it's random third-string comic book character in a completely different role!")
   * post-credits scene? YES
-  * I'm kind of hoping they go for Dark Phoenix Saga next (Aliens!) but the PCS tells us they have more sinister designs in mind&#8230;
+  * I'm kind of hoping they go for Dark Phoenix Saga next (Aliens!) but the PCS tells us they have more sinister designs in mind... 
   * Will Mama like it? Probably not.
   * I'd rate it worse than DoFP, probably around the same or slightly worse than First Class

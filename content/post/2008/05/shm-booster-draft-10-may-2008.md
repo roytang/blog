@@ -276,7 +276,7 @@ and
    
 [Oversoul of Dusk][13]
    
-! Wow&#8230;what a haul! Not bad for skipping the constructed tournament on that day.
+! Wow... what a haul! Not bad for skipping the constructed tournament on that day.
 
  [1]: http://magiccards.info/autocard.php?card=Mossbridge Troll
  [2]: http://magiccards.info/autocard.php?card=Wicker Warcrawler

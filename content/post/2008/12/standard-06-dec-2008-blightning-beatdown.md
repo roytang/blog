@@ -126,7 +126,7 @@ I lost round one to a mirror match in two games. It was close, as I lost both ga
 
 After the match I asked him for tips on how to play the deck and he told me he just plays out Blightning as soon as possible, whereas I was sandbagging it and playing creatures first.
 
-Round two I face Shorecrasher/Bant, an early Rhox War Monk sticks around in game one long enough to make it hard for me to win. In game two I get a nice draw with turn two Blossom and 2 Javelins. He's stuck on two lands, missing two land drops before finally playing a Birds of Paradise. My only removal in hand consists of the two Javelins&#8230;I decide to overkill the BoP and hope he doesn't draw any more lands. Of course he draws a Flooded Grove next turn and then he plays out his hand and I'm finished off by a growing Shorecrasher.
+Round two I face Shorecrasher/Bant, an early Rhox War Monk sticks around in game one long enough to make it hard for me to win. In game two I get a nice draw with turn two Blossom and 2 Javelins. He's stuck on two lands, missing two land drops before finally playing a Birds of Paradise. My only removal in hand consists of the two Javelins... I decide to overkill the BoP and hope he doesn't draw any more lands. Of course he draws a Flooded Grove next turn and then he plays out his hand and I'm finished off by a growing Shorecrasher.
 
 Starting out at 0-2. Why do I play Magic again? Seriously, I've been playing badly for a while now.
 

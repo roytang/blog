@@ -151,7 +151,7 @@ Win: 2-0
 
 Round 7 vs Monoblack Aggro
 
-After round 6 I was hoping I'd get paired with this guy&#8230;I could take his deck any day of the week. Game one starts out like this:
+After round 6 I was hoping I'd get paired with this guy... I could take his deck any day of the week. Game one starts out like this:
    
 
    

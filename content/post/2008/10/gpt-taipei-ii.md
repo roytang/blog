@@ -272,7 +272,7 @@ Round 3:
    
 ** 
    
-I saw this guy's deck on the same table in round one and it was kind of sick. War Monk, Bant Charm, Stoic Angel, Rafiq of the Many&#8230;practically a Bant precon. I managed to win game one though.
+I saw this guy's deck on the same table in round one and it was kind of sick. War Monk, Bant Charm, Stoic Angel, Rafiq of the Many... practically a Bant precon. I managed to win game one though.
 
 In game two, we stalled on the ground and he was killing me wih the Exalted Aven. After that game I realized that I had both Quietus Spike and Vithian Stinger in play. I called over a judge and asked "Does Deathtouch trigger on non-combat damage?" The answer was of course yes and of course I facepalmed. I could have wiped his whole board with that combo!
 

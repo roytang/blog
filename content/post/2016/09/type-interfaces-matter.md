@@ -8,7 +8,7 @@ type: post
 url: /2016/09/type-interfaces-matter/
 ---
 
-&#8230;especially for strongly-typed languages.
+... especially for strongly-typed languages.
 
 In one of the bigger Java projects that I took over, I was often annoyed to find some devs had written method signatures like
 

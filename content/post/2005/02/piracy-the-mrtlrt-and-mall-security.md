@@ -38,10 +38,10 @@ She is a friend of one of my friends:)
 
 Anyhow, it's really easy to sneak optical media into the train stations. You
   
-could hide them in so many different ways&#8230;
+could hide them in so many different ways... 
 
 ### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-02-14 20:32:00 +0000
-yup&#8230;you probably know a few other people I know as well. =)
+yup... you probably know a few other people I know as well. =)
 
 ### Comment by [btflpenguin](http://www.blogger.com/profile/2001080) on 2005-02-14 20:49:00 +0000
 they're looking for unlabelled CDs? di pa umaabot sa kanila ang flash drives?
@@ -60,7 +60,7 @@ in my wallet :p
 parang pag naglagay sila ng metal detectors tataas lang ang fare hehe
 
 ### Comment by [eclair](http://clair.free.net.ph) on 2005-02-15 09:56:00 +0000
-Hmmm&#8230; I wonder who else we both know&#8230; =)
+Hmmm...  I wonder who else we both know...  =)
 
 I carry my flash drive with me all the time and it contains MP3s I got from
   

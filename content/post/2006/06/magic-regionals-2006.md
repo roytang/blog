@@ -7,9 +7,9 @@ type: post
 url: /2006/06/magic-regionals-2006/
 ---
 
-I played at Robinson's Galleria last Saturday. So much for my first constructed outing in 10 years&#8230;not a very good outcome for me.
+I played at Robinson's Galleria last Saturday. So much for my first constructed outing in 10 years... not a very good outcome for me.
 
-I played 4-color Firemane Control&#8230;no permission, but lots of life gain and 4 Wrath of Gods packed maindeck, a specifically anti-aggro build. I was anticipating lots of Gruul beats and Orzhov aggro decks, and I was ready to beat them to the ground. Unfortunately, I faced not a single one of those decks. :(
+I played 4-color Firemane Control... no permission, but lots of life gain and 4 Wrath of Gods packed maindeck, a specifically anti-aggro build. I was anticipating lots of Gruul beats and Orzhov aggro decks, and I was ready to beat them to the ground. Unfortunately, I faced not a single one of those decks. :(
 
 Round 1 vs Wildfire/Vore
    
@@ -21,7 +21,7 @@ Round 2 vs The Masterpiece
    
 
    
-It was my first time seeing the Masterpiece and action, and to be honest, the first few turns weren't very impressive. We traded Hierarchs, creatures were killed by spot removal, it was an even game. Then he plays an Arena, and I realize "It's over." I can match him threat for threat, but he's drawing a lot more than I am, and I don't draw into the maindecked Stomphowler. Game 2 goes pretty much the same way, except I get hit by Persecute -- White&#8230;and the secret of this deck is 80% of my spells are white! I go down to one card in hand. He Cranials the 4 Wrath of Gods and the 4 Firemane Angels&#8230;and there's no recovering from that.
+It was my first time seeing the Masterpiece and action, and to be honest, the first few turns weren't very impressive. We traded Hierarchs, creatures were killed by spot removal, it was an even game. Then he plays an Arena, and I realize "It's over." I can match him threat for threat, but he's drawing a lot more than I am, and I don't draw into the maindecked Stomphowler. Game 2 goes pretty much the same way, except I get hit by Persecute -- White... and the secret of this deck is 80% of my spells are white! I go down to one card in hand. He Cranials the 4 Wrath of Gods and the 4 Firemane Angels... and there's no recovering from that.
 
 Round 3 vs Owling Mine
    
@@ -33,14 +33,14 @@ Round 4 vs The Masterpiece AGAIN
    
 
    
-Yeah, same story here. I think my mistake was I keep shooting down Fetters instead of Arenas&#8230;but eh, the deck is really far superior.
+Yeah, same story here. I think my mistake was I keep shooting down Fetters instead of Arenas... but eh, the deck is really far superior.
 
 Round 5 vs Greater Good
    
 
    
-Well, my back is starting to ache by now. One of the guys I came here with managed to get a monoblock chair with a back&#8230;oh what I would give for that. Oh yeah, the game. I ate a lot of Kokushos and Yoseis, that's what I remember. And he kept using the Top every turn. After a while I stopped caring and didn't even check whether he was cheating me with the Top or not.
+Well, my back is starting to ache by now. One of the guys I came here with managed to get a monoblock chair with a back... oh what I would give for that. Oh yeah, the game. I ate a lot of Kokushos and Yoseis, that's what I remember. And he kept using the Top every turn. After a while I stopped caring and didn't even check whether he was cheating me with the Top or not.
 
 Anyway, it was about 5 PM at that time, and there were 3 rounds to go. But I figured I wouldn't make it anyway, and I had to catch up on work, so I said goodbye to the guys and went back to the office.
 
-Most important lesson learned: Next time, just play aggro. With an eight-round tournament, playing a control deck is likely to give you a migraine by round four or five. And the metagame is so wide, it's useless trying to prepare for everything anyway, so just throw caution to the winds and send your creatures in the red zone. Oh yeah, a Gruul deck which I helped prepare (the base of the deck came from me) did a lot better than me&#8230;his record was 3-2 by the fifth round.
+Most important lesson learned: Next time, just play aggro. With an eight-round tournament, playing a control deck is likely to give you a migraine by round four or five. And the metagame is so wide, it's useless trying to prepare for everything anyway, so just throw caution to the winds and send your creatures in the red zone. Oh yeah, a Gruul deck which I helped prepare (the base of the deck came from me) did a lot better than me... his record was 3-2 by the fifth round.

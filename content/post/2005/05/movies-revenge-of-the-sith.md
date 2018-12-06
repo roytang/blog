@@ -18,7 +18,7 @@ Seriously, people need to stop picking it apart and just enjoy the movie. Spoile
 
 R2-D2=funny. Apparently that droid can do anything. Imagine having a universal socket that can hack any computer system? Plus apparently he's smart and handy enough to fight off a couple of war droids. Not bad for an Astromech.
 
-Mace Windu vs. Palpatine=good fight. Better than Yoda vs. Palpatine. Mace Windu is obviously better than Yoda at this, probably because he's Morpheus' cousin or something, or so my brother claimed. Speaking of which, my brother, sitting beside me, was cringing all throughout their fight. "Oh&#8230;he's gonna die&#8230;he's gonna die&#8230;"
+Mace Windu vs. Palpatine=good fight. Better than Yoda vs. Palpatine. Mace Windu is obviously better than Yoda at this, probably because he's Morpheus' cousin or something, or so my brother claimed. Speaking of which, my brother, sitting beside me, was cringing all throughout their fight. "Oh... he's gonna die... he's gonna die... "
 
 Seriously, what was up with those 3 Jedi Mace Windu brought with him? They had like 1 hit point each. What was he thinking?
 
@@ -30,11 +30,11 @@ Seriously, what was up with those 3 Jedi Mace Windu brought with him? They had l
   
 > Mace Windu: Crap.
 
-Anakin's turning to the Dark Side was believable enough, given a bit of suspension of disbelief. We should've known it was Padme that would lead to his fall. Too bad Anakin was so gullible&#8230;despite Obi-wan praising him for his wisdom. Women&#8230;why do they [lead us to the dark side][1]?
+Anakin's turning to the Dark Side was believable enough, given a bit of suspension of disbelief. We should've known it was Padme that would lead to his fall. Too bad Anakin was so gullible... despite Obi-wan praising him for his wisdom. Women... why do they [lead us to the dark side][1]?
 
 General Grievous was boring, kept running away. I hear he was better in the Clone Wars animated series. I'll watch it sometime.
 
-If you think about it&#8230;all those references to the later trilogy seemed conveniently crammed into the last part of the movie. So don't think about it. Just enjoy the wholeness of the circle. 😀
+If you think about it... all those references to the later trilogy seemed conveniently crammed into the last part of the movie. So don't think about it. Just enjoy the wholeness of the circle. 😀
 
 Overall, the six-episode story was very good. Lucas' sub-par execution make it an easy target for nitpickers, but the Star Wars mythos as a whole is rock-solid foundation, upon which writers far better than Lucas can improve on.
 

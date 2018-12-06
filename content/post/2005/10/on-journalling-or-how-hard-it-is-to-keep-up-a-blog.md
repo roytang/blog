@@ -22,6 +22,6 @@ Blogging, is of course, one of those outlets, one of those forms of introspectio
 
 Shall I offer some excuse of why I have been so long without an entry? Some vague representations of WoW addiction, business at work or general laziness? I just did.
 
-In any case, our story continues&#8230;
+In any case, our story continues... 
 
  [1]: http://www.worldofwarcraft.com/

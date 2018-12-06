@@ -104,7 +104,7 @@ Games 3-3 Matches 1-1
 
 <span style="font-weight: bold"><br /> Round 3: UB Faeries<br /> </span>
 
-Yes, once again Faeries! Game one I had my opponent at one life and she had Bitterblossom out so I thought I would win, but end of turn Scion + Spellstutter + me forgetting to count the Faerie Conclave meant she was able to take me from 17 to 0 in one turn&#8230;
+Yes, once again Faeries! Game one I had my opponent at one life and she had Bitterblossom out so I thought I would win, but end of turn Scion + Spellstutter + me forgetting to count the Faerie Conclave meant she was able to take me from 17 to 0 in one turn... 
 
 However, I managed to pull ahead and comfortably win games two and three.
 
@@ -122,7 +122,7 @@ Games 5-6 Matches 2-2
 
 I didn't even bother writing the matchup in the notes anymore, I would surely remember that 4 out of the first five rounds I faced Faeries.
 
-Game one my opponent tried to stay alive by using a Sower on my Lord of Atlantis -- but that doesn't actually do anything since my guys get the bonus no matter where the Lord is. I lose game two to fast beats, then in game three I get the nuts draw: Turn 1 -- Suspend Visions, Turn 2 -- Banneret, Turn 3 -- Reejerey, Adept (revealing Adept), untap island, one more Adept (revealing 3rd Adept). I actually had the 4th Adept as well, but I didn't want to overcommit to the board. No hope for the opponent's survival here&#8230;
+Game one my opponent tried to stay alive by using a Sower on my Lord of Atlantis -- but that doesn't actually do anything since my guys get the bonus no matter where the Lord is. I lose game two to fast beats, then in game three I get the nuts draw: Turn 1 -- Suspend Visions, Turn 2 -- Banneret, Turn 3 -- Reejerey, Adept (revealing Adept), untap island, one more Adept (revealing 3rd Adept). I actually had the 4th Adept as well, but I didn't want to overcommit to the board. No hope for the opponent's survival here... 
 
 Games 7-7 Matches 3-2
 
@@ -134,7 +134,7 @@ Round 6: BRwu Control
 
 A strange controllish deck, I got hit by Avalanche Riders, Reveillarks and Hellkites, etc. I was close to sealing off game one with him at 5 and me holding the PsiBlast, but he manages to get a Tendrils off and I lost after that.
 
-I board in +2 Sower -2 Sage's Dousing. I win the next two games easily without drawing the Sowers though&#8230;I just make it a point to be more careful about Tendrils.
+I board in +2 Sower -2 Sage's Dousing. I win the next two games easily without drawing the Sowers though... I just make it a point to be more careful about Tendrils.
 
 Games 9-8 Matches 4-2
 

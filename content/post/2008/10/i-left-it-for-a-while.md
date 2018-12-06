@@ -9,10 +9,10 @@ type: post
 url: /2008/10/i-left-it-for-a-while/
 ---
 
-&#8230;and now it works!
+... and now it works!
 
 [http://www.randomencounters.bells-n-whistles.net/blog/][1] 
 
-I think the apache service needed to restart mod_python or something&#8230;(I don't have SSH access so&#8230;)
+I think the apache service needed to restart mod_python or something... (I don't have SSH access so... )
 
  [1]: http://www.randomencounters.bells-n-whistles.net/blog/

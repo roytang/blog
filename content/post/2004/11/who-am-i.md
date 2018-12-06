@@ -34,6 +34,6 @@ _
 Haven't seen this in a while. The new look seems a little bland, but it works.
 
 ### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2004-11-14 16:16:00 +0000
-Bland? How dare you! I'll smite you! j/k I know it's a bit&#8230;um, sleepy. I'm
+Bland? How dare you! I'll smite you! j/k I know it's a bit... um, sleepy. I'm
   
 just trying things out, ya know? 😀

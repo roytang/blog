@@ -206,11 +206,11 @@ Game record: 10-4
    
 Match record: 5-1
 
-Five and one! If I win the next round I can draw into the top eight&#8230;
+Five and one! If I win the next round I can draw into the top eight... 
 
-Round seven is Faeries again! We trade game one and two, and game three I thought I had it lost&#8230;
+Round seven is Faeries again! We trade game one and two, and game three I thought I had it lost... 
 
-It was his turn, the third turn in extra time and I was at nine. I had no chance of winning at this point, but he had Bitterblossom and seven tokens without summoning sickness. I had nothing. He plays Mutavault, his fifth land, then swings with the seven tokens. I would take seven and go down to two, losing on the fifth turn even if I had a sweeper because of the Mutavault. I signal no blockers and prepare to write down "2" on my life total&#8230;
+It was his turn, the third turn in extra time and I was at nine. I had no chance of winning at this point, but he had Bitterblossom and seven tokens without summoning sickness. I had nothing. He plays Mutavault, his fifth land, then swings with the seven tokens. I would take seven and go down to two, losing on the fifth turn even if I had a sweeper because of the Mutavault. I signal no blockers and prepare to write down "2" on my life total... 
 
 He signals wait. He taps his mutavault and indicates he's animating it. He plays Mirrorweave targetting Mutavault.
 
@@ -244,7 +244,7 @@ Final Match record: 5-2-1
    
 Finish: 17th, winning two packs. The packs contained Wheel of Sun and Moon and Order of Whiteclay.
 
-A bit disappointed, since I had begged out of Father's Day dinner in order to finish the tournament since I was doing well. Still, it's a decent finish and brings to an end my month-long streak of bad tournament results. The Commandments deck is exhausting yet fun to play, now all I need to do is figure out the Faeries matchup&#8230;
+A bit disappointed, since I had begged out of Father's Day dinner in order to finish the tournament since I was doing well. Still, it's a decent finish and brings to an end my month-long streak of bad tournament results. The Commandments deck is exhausting yet fun to play, now all I need to do is figure out the Faeries matchup... 
 
 Next week: I don't know if I can play in the last GPT.
 
@@ -256,6 +256,6 @@ Uh. Decklist needs fixing? The Plumeveils are still in the board and I see no
 hint of those Macabres. 😀 5-2-1 in a GPT is a nice record.
 
 ### Comment by Roy on 2008-06-17 02:55:24 +0000
-Corrected&#8230;I forgot to edit after copy and paste.
+Corrected... I forgot to edit after copy and paste.
 
 5-2-1 is a good record yes, but I want to do better!

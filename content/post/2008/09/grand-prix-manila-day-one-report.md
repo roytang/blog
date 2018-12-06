@@ -61,7 +61,7 @@ Round 3.
   
 ** 
   
-This one was traditional UW merfolk. I lost game one to an aggro rush, making a mistake of walking a Cryptic Command into a Cursecatcher (curses, haven't fought against those in a while!) In game two I managed to take control and win the game. In game three, I had a nice hand: 3 lands and four relevant spells (Firepout, Cryptic Command x2, Kitchen FInks). However, all 3 lands were filter lands! I figured it was okay&#8230; i had two draws to get there, and drawing any other non-filter lands would get me running. Of course, it turned out to be a bad keep, and I never went beyond those 3 lands.
+This one was traditional UW merfolk. I lost game one to an aggro rush, making a mistake of walking a Cryptic Command into a Cursecatcher (curses, haven't fought against those in a while!) In game two I managed to take control and win the game. In game three, I had a nice hand: 3 lands and four relevant spells (Firepout, Cryptic Command x2, Kitchen FInks). However, all 3 lands were filter lands! I figured it was okay...  i had two draws to get there, and drawing any other non-filter lands would get me running. Of course, it turned out to be a bad keep, and I never went beyond those 3 lands.
 
 Match record: 0-2-1
 

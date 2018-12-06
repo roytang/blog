@@ -19,7 +19,7 @@ Even I felt a bit shaken up I might add, even considering cutting short the tour
 ### Comment by noems on 2007-11-21 19:46:27 +0000
 would that really make us feel safer? sometimes, we can't even be sure if the
   
-authorities have got the right group/person. or if they did,&#8230; its seldom
+authorities have got the right group/person. or if they did,...  its seldom
   
 that they can stop the next attack.
 

@@ -243,7 +243,7 @@ My take:
    
 ** 
    
-The comparison to Isamaru is obvious of course, as is the reason the Lions were pulled out of the Core Set. That said, I like the next guy better&#8230;
+The comparison to Isamaru is obvious of course, as is the reason the Lions were pulled out of the Core Set. That said, I like the next guy better... 
 
 **
     
@@ -281,7 +281,7 @@ My take:
    
 ** 
    
-I like this better than the red or white equivalents. Face it, if Isamaru were in the same standard as 3/3 for 1G with deathtouch, he might not have been able to swing on turn 2 that often. That being said, I could see a deck with 4 Goldmeadow Stalwart and 4 Wren's Run Vanquishe&#8230;that's a lot of speed. And it also puts you in the correct colors for the next card.
+I like this better than the red or white equivalents. Face it, if Isamaru were in the same standard as 3/3 for 1G with deathtouch, he might not have been able to swing on turn 2 that often. That being said, I could see a deck with 4 Goldmeadow Stalwart and 4 Wren's Run Vanquishe... that's a lot of speed. And it also puts you in the correct colors for the next card.
 
 **
     

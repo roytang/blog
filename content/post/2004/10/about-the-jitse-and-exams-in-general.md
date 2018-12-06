@@ -22,7 +22,7 @@ Oh, and the JITSE itself? A tip to anyone who might want to take it: Don't bothe
 ## Comments
 
 ### Comment by Anonymous on 2005-10-23 01:10:00 +0000
-trust me &#8230; you'll regret NOT reading those books. Can you post your FE
+trust me ...  you'll regret NOT reading those books. Can you post your FE
   
 number or your full name so I can verify if you passed? \*countdown to Oct. 30\*
 
@@ -36,7 +36,7 @@ Thanks for the concern though. May I know who you are?
 surprised.html
 
 ### Comment by ruby on 2007-03-22 08:23:21 +0000
-hi&#8230;i would like to know if you had with you the booklet when you took the
+hi... i would like to know if you had with you the booklet when you took the
   
 exam? the questionnaire..actually, i have no idea what would be scope of the
   

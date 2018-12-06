@@ -29,6 +29,6 @@ Wow, not many people can fulfill their new year's resolution. Good for you
   
 with that one!
 
-Now as for this year, you have got a pretty vague one going&#8230; maybe that will
+Now as for this year, you have got a pretty vague one going...  maybe that will
   
 make it easier to achieve 🙂

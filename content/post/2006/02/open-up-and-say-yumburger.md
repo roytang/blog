@@ -10,7 +10,7 @@ url: /2006/02/open-up-and-say-yumburger/
 
 [pamie.com: Open Up and Say Yumburger.][1] 
 
-Awesome, awesome blog post about some "Ugly Americans" and their um&#8230;"unique" experience dining at Jollibee. Highlights the world of difference between the American palette and the Filipino one. While they make a good point that Jollibee is the "crappy burger joint food" of the Philippines as compared to McDonald's which is the "crappy burger joint food" of the US, I don't think I've ever heard any Filipino reference Jollibee food in any such disparaging manner.
+Awesome, awesome blog post about some "Ugly Americans" and their um... "unique" experience dining at Jollibee. Highlights the world of difference between the American palette and the Filipino one. While they make a good point that Jollibee is the "crappy burger joint food" of the Philippines as compared to McDonald's which is the "crappy burger joint food" of the US, I don't think I've ever heard any Filipino reference Jollibee food in any such disparaging manner.
 
 Of course, I like Jollibee too, which is proof that I am a Filipino. :p I don't think I've eaten McDonald's food in more than a year. While there are probably a good number of Americans who hate McDonald's food, Jollibee seems to be universally loved, or at least tolerated, by Filipinos.
 

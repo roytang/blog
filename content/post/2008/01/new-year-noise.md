@@ -42,4 +42,4 @@ Sadly, that recording was no longer around during the last New Year's Eve. My
   
 dad said that the cassette player was no longer working and he wasn't sure
   
-where the recording was&#8230;
+where the recording was... 

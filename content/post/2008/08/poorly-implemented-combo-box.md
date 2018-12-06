@@ -28,7 +28,7 @@ Amihan (1102)
 
 Apolonio Samson (1106)
 
-and so on&#8230;
+and so on... 
 
 I'm still wondering how 801 got there, though.
 
@@ -40,7 +40,7 @@ Googled "manila zip codes". First hit has ZIP codes per municipality, arranged
   
 by location alphabetically.
 
-Wala lang&#8230; nakakabobo kasi pag-draft ng prototypes. Tinopak ako last week at
+Wala lang...  nakakabobo kasi pag-draft ng prototypes. Tinopak ako last week at
   
 linagay ko lahat ng country + country code sa mga country code dropdown list
   

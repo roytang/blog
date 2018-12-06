@@ -413,7 +413,7 @@ Game 3, I mull to five and am unable to recover.
 
 Round 1: 1-2 loss. Yes, not a good start.
 
-Second round is&#8230;some guy. Don't recall what he was playing. I win in 2 games.
+Second round is... some guy. Don't recall what he was playing. I win in 2 games.
 
 Round 2: 2-0 win
 
@@ -437,10 +437,10 @@ Round 6, my opponent is a merfolk deck with Springleaf Drum, Falloysage and Vete
 
 Round 6: 0-2 loss
 
-Sigh, I'm not even getting prizes anymore. I tick "Drop" on the result slip, then change my mind and cross it out. I want to play the last round to at least get some practice&#8230;hopefully my play skill can improve just a bit.
+Sigh, I'm not even getting prizes anymore. I tick "Drop" on the result slip, then change my mind and cross it out. I want to play the last round to at least get some practice... hopefully my play skill can improve just a bit.
 
 Round 7: 0-2 loss. Bleah. I think my play was tight, but he just drew better cards. I remember he had an Epic Proportions that stopped my Lash Outs.
 
 A 3-4 finish, how terrible. Before this season I had actually envisioned myself as a decent limited player. Obviously, Lorwyn limited is hard, I need to do so much to improve my deck construction and technical play.
 
-Next: Morningtide Release Events? I won't be able to play in the prerelease since I'll be out of town&#8230;
+Next: Morningtide Release Events? I won't be able to play in the prerelease since I'll be out of town... 

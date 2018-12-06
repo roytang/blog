@@ -35,7 +35,7 @@ Round 5: A 4-0 start feels good. A friend warns me beforehand that my next oppon
 
 1-2 loss.
 
-Round 6: Mannequin Mirror match here, but his build is new, as he shows me Ponder on the first turn. I lose game one to Profane Command. In game 2, 3 of the lands I draw are Faerie Conclaves&#8230;coincidentally he draws 3 Riftwing Cloudskates. I was behind on creatures and mana all day. Obviously, I need to figure out the mirror match&#8230;
+Round 6: Mannequin Mirror match here, but his build is new, as he shows me Ponder on the first turn. I lose game one to Profane Command. In game 2, 3 of the lands I draw are Faerie Conclaves... coincidentally he draws 3 Riftwing Cloudskates. I was behind on creatures and mana all day. Obviously, I need to figure out the mirror match... 
 
 0-2 loss.
 
@@ -45,7 +45,7 @@ Round 7: U/W control. It's my turn to be insane with the Riftwing Cloudskates he
 
 2-1 win.
 
-One more win gets me into top eight&#8230;
+One more win gets me into top eight... 
 
 Round 8: R/G Big Mana. 90% of the deck is really easy for me to beat, after all it's creatures and burn, I'm removal and card advantage. I take the first game easily, but fumble on sideboarding -- I certainly wasn't aware of this matchup going in, so I had no idea. Bottle Gnomes? Extirpate? I just bring in 3 Vesuvan Shapeshifters to handle his Red Akroma and Hellkites. Game two, he shows me the other 10% of his deck that would give me fits: Chandra Nalar. My entire offense literally stops after Chandra takes down one creature and Incinerate knocks out my last one. I lose to the card disadvantage and proceed to search my board for answers to Chandra. I had none (I don't own any Pithing Needles sir), so I just sucked it up and decided to try for a fast aggro kill. I had a good hand too -- Faerie Conclave into suspended Cloudskate. But midgame he shows me another aspect of his deck -- land destruction. I get hit by Avalanche Riders and Mwonvuli Acid-Moss and he even shows me his sideboarded card: Rootgrapple! I have mana problems up to the end, and he even gets Chandra out again. I didn't get in a single point of damage for this game.
 

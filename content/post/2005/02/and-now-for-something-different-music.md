@@ -10,13 +10,13 @@ type: post
 url: /2005/02/and-now-for-something-different-music/
 ---
 
-Currently listening to "Boulevard of Broken Songs", a neat mashup mainly of Green Day's "Boulevard of Broken Dreams" and Oasis' "Wonderwall". This and some other mashups [here.][1] (haven't listened to the others though&#8230;)
+Currently listening to "Boulevard of Broken Songs", a neat mashup mainly of Green Day's "Boulevard of Broken Dreams" and Oasis' "Wonderwall". This and some other mashups [here.][1] (haven't listened to the others though... )
 
 Another interesting mashup that came out quite a while back was ["This Is How You Remind Me Someday" ][2], where Nickelback is caught basically reusing the same chords for two songs. Great stuff.
 
 Other songs/bands I've been listening to lately:
 
-Locally, Spongecola is hot. Their album has several good tracks (since I don't listen to radio, I'm not sure which of them are popular or not.) My favorites are "Jeepney", "Lunes", "22", "Partisan", "Dragonfly", "Jillian" and "KLSP"&#8230;um, I'm pretty close to naming the whole album :p. They also have this great live rendition of Madonna's "Crazy For You" going around.
+Locally, Spongecola is hot. Their album has several good tracks (since I don't listen to radio, I'm not sure which of them are popular or not.) My favorites are "Jeepney", "Lunes", "22", "Partisan", "Dragonfly", "Jillian" and "KLSP"... um, I'm pretty close to naming the whole album :p. They also have this great live rendition of Madonna's "Crazy For You" going around.
 
 Sugarfree's last album is also heavy on my playlist -- I think their "Hari ng Sablay" has been getting some serious airplay. My favorite Sugarfree track is from their first album though -- it's "Burnout".
 
@@ -27,7 +27,7 @@ For live performances, I posted a link to the [AlphaQuam Live Music Archive ][
 Oh, and one song that's been on LSS for me all day: "King of Pain" by Sting. Not sure why.
 
 <div>
-  There's a little black spot on the sun today<br /> That's my soul up there&#8230;
+  There's a little black spot on the sun today<br /> That's my soul up there... 
 </div>
 
  [1]: http://www.partyben.com/downloads/

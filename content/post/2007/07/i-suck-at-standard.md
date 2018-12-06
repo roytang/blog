@@ -15,7 +15,7 @@ I guess I wasn't the only one thinking that, as of course I failed to predict ho
 
 So ends this year's quest for Nationals. Again, just to reiterate: I suck at Standard.
 
-I'm terrible at guessing what decks are doing (I failed to predict that my round four opponent would Resurrect an Akroma, thinking that only Solar Flare decks did that and not Angelfire&#8230;), I'm terrible at predicting the metagame (I had Martyrs of Ashes in my sideboard that should have been Bottle Gnomes for the burn mirror) and I make really disastrous play errors (I suspended Rift Bolt instead of hardcasting with my monored opponent at five&#8230;allowing him to Char me at EOT and burn again during his turn to take the game)
+I'm terrible at guessing what decks are doing (I failed to predict that my round four opponent would Resurrect an Akroma, thinking that only Solar Flare decks did that and not Angelfire... ), I'm terrible at predicting the metagame (I had Martyrs of Ashes in my sideboard that should have been Bottle Gnomes for the burn mirror) and I make really disastrous play errors (I suspended Rift Bolt instead of hardcasting with my monored opponent at five... allowing him to Char me at EOT and burn again during his turn to take the game)
 
 I need more solid constructed finishes to boost my ratings so I could be in the top 75 next year (and not have to grind it out in the qualifiers again). Sadly, my best constructed finish this year was actually
    

@@ -323,9 +323,9 @@ Game one I take an early lead and lay down [Scourglass][10] for security. He sho
 
 Game two I have a 12/12 [Lord of Extinction][2] and he eventually runs out of chump blockers.
 
-Game three, we're trading on board, but I get a slight advantage with Shieldmages and he's down to seven. I have [Cloudhearth Drake][14] and [Glassdust Hulk][15]. Eventually I go [Lord of Extinction][2] into [Sharuum the Hegemon][16] bringing back [Ethersworn Shieldmage][17], then declare combat. He thinks about hitting the Drake with [Intimidation Bolt][18] but realizes the Shieldmage protects the Drake so he tells me to swing and moves to block&#8230;
+Game three, we're trading on board, but I get a slight advantage with Shieldmages and he's down to seven. I have [Cloudhearth Drake][14] and [Glassdust Hulk][15]. Eventually I go [Lord of Extinction][2] into [Sharuum the Hegemon][16] bringing back [Ethersworn Shieldmage][17], then declare combat. He thinks about hitting the Drake with [Intimidation Bolt][18] but realizes the Shieldmage protects the Drake so he tells me to swing and moves to block... 
 
-&#8230;but I point out the Glassdust Hulk is 5/6 and unblockable due to Sharuum. He can't block either the Hulk nor the Drake so I take the win.
+... but I point out the Glassdust Hulk is 5/6 and unblockable due to Sharuum. He can't block either the Hulk nor the Drake so I take the win.
 
 4-1 games, 2-0 rounds
 

@@ -450,7 +450,7 @@ Game three he's on the play and has no one-drop again (lucky!). I lay down Overs
    
 On his turn he lays down a bunch of creatures including Safehold Elite (which can block the Oversoul!) and is ready to swing and kill me next turn. I topdeck the Shield of the Oversoul and show it to him. "That's only 7/7," he shrugs. I show him the last card in my hand -- Tower Above, and I take the win.
 
-Four and O! If only I had this pool last week&#8230;
+Four and O! If only I had this pool last week... 
 
 Some thoughts on particular cards:
 

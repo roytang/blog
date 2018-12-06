@@ -151,7 +151,7 @@ Round 5: 2-1 win vs RG
 
 I'm number ten! A win brings me into the top eight.
 
-Round six vs an old-time Magic player. He's always around at tournaments and generally a nice guy. His deck is black/red and chock-full of removal, creatures basically don't stay long on our board. I lose game one, no obvious misplays. Game two, I'm ahead on racing, but then he drops a Kaervek the Merciless! All I have in hand is a Dark Withering&#8230;but that can't touch Kaervek. I draw a Dustwasp and take the five damage, going down to four, hoping the flyer will be enough to raise him. Next turn he Dread Returns an Emberwilde Augur and plays another creature. I can't race those guys, so I just pass the turn. During his upkeep, he tosses the Goblin at me and shows the Ghostfire. GG.
+Round six vs an old-time Magic player. He's always around at tournaments and generally a nice guy. His deck is black/red and chock-full of removal, creatures basically don't stay long on our board. I lose game one, no obvious misplays. Game two, I'm ahead on racing, but then he drops a Kaervek the Merciless! All I have in hand is a Dark Withering... but that can't touch Kaervek. I draw a Dustwasp and take the five damage, going down to four, hoping the flyer will be enough to raise him. Next turn he Dread Returns an Emberwilde Augur and plays another creature. I can't race those guys, so I just pass the turn. During his upkeep, he tosses the Goblin at me and shows the Ghostfire. GG.
    
 
    

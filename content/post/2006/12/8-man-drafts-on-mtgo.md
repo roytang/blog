@@ -11,4 +11,4 @@ One of the nice things about Magic: Online is the concept of "Nix Tix". Basicall
 
 I just finished the fourth draft off an initial 3-booster pack (12 dollar) investment, so I basically got 13 packs for the price of 3. I finally lost in round 1 of draft 4. It's addictive, I think I'll play some more!
 
-(Nix Tix weekends are a bit hard on my credit card&#8230;)
+(Nix Tix weekends are a bit hard on my credit card... )

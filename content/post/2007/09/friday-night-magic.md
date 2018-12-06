@@ -7,7 +7,7 @@ type: post
 url: /2007/09/friday-night-magic/
 ---
 
-I played at an FNM for the first time last Friday, in a cramped room at the back of the Neutral Grounds in Galleria. It was definitely&#8230;different than the usual weekend tournaments. I mean people playing Rhox different. Asking whether equip costs needed to be paid every turn different. Not that I'm picking on noobs or anything; it was all fun and refreshing. Everything was a lot more casual than the highly competitive PTQs or GPTs.
+I played at an FNM for the first time last Friday, in a cramped room at the back of the Neutral Grounds in Galleria. It was definitely... different than the usual weekend tournaments. I mean people playing Rhox different. Asking whether equip costs needed to be paid every turn different. Not that I'm picking on noobs or anything; it was all fun and refreshing. Everything was a lot more casual than the highly competitive PTQs or GPTs.
 
 I brought the Rakdos deck of course, seeing as how that was the only standard deck I had built for weeks now. I lost the first round to another burn deck (lost the race), but won the next 3 rounds to finish 3-1. Of course my tiebreaks were terrible, so I ended up fifth and winning only one booster pack. FNM is fun, but I don't know if I would do it again though.
 

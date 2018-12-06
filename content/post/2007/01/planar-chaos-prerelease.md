@@ -31,11 +31,11 @@ Quick Hits:
    
 
    
-* Third round opponent&#8230;some red also. First game I only saw an Avalanche Rider and the 7/7 echo guy. Second game he put up more of a fight, and the "free echo" goblin helped him a lot. He get out the Goblin Advisor and went all aggro on me before I managed to stablize. Those exploding goblins can't get past a Dream Stalker! Game record: 6-1, match record: 3-0.
+* Third round opponent... some red also. First game I only saw an Avalanche Rider and the 7/7 echo guy. Second game he put up more of a fight, and the "free echo" goblin helped him a lot. He get out the Goblin Advisor and went all aggro on me before I managed to stablize. Those exploding goblins can't get past a Dream Stalker! Game record: 6-1, match record: 3-0.
    
 
    
-* Fourth round opponent&#8230;well, it seems everybody but me plays red. First game I played out all the tricks my deck had with a Clockwork Hydra. Auramancer's Guile + Hydra meant I could attack without losing +1/+1 counters. He bounces the Hydra, I play it again. He shoots the Hydra, I save it with a lion. He forces my Hydra into a bad block, I blink it out. He tries to Lightning Axe, I flashback the blink. This game was way fun on my end.
+* Fourth round opponent... well, it seems everybody but me plays red. First game I played out all the tricks my deck had with a Clockwork Hydra. Auramancer's Guile + Hydra meant I could attack without losing +1/+1 counters. He bounces the Hydra, I play it again. He shoots the Hydra, I save it with a lion. He forces my Hydra into a bad block, I blink it out. He tries to Lightning Axe, I flashback the blink. This game was way fun on my end.
    
 
    
@@ -79,4 +79,4 @@ Notes on specific cards:
    
 * Pongify is fun as expected. I loved it when my opponent attacked with a 7/7 he had just paid echo for, and I shake my head, show him the card and say: "Monkey?"
 
-Overall, the set is awesome for sealed deck play, the block environment looks good. The design of the cards isn't particular innovative since everything is either a throwback or a reprint, but the choice of cards and abilities to bring back&#8230;everything is awesome. I'm definitely going to play the release tournament.
+Overall, the set is awesome for sealed deck play, the block environment looks good. The design of the cards isn't particular innovative since everything is either a throwback or a reprint, but the choice of cards and abilities to bring back... everything is awesome. I'm definitely going to play the release tournament.

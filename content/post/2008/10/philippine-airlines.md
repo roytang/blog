@@ -7,15 +7,15 @@ type: post
 url: /2008/10/philippine-airlines/
 ---
 
-My dad asked me to help book a flight from Manila to Boracay for my uncle who would be a balikbayan this weekend. The rates at PAL were better, so we decided to book using their website. I did the search for the flights, booked the seats, input my uncle's details, etc. When we got to the screen to input the credit card info, my dad went to call my uncle to confirm and to get his credit card. He can't have been gone five minutes. When he came back, I enter the credit card info in the form, click submit&#8230;and I get a session timeout error.
+My dad asked me to help book a flight from Manila to Boracay for my uncle who would be a balikbayan this weekend. The rates at PAL were better, so we decided to book using their website. I did the search for the flights, booked the seats, input my uncle's details, etc. When we got to the screen to input the credit card info, my dad went to call my uncle to confirm and to get his credit card. He can't have been gone five minutes. When he came back, I enter the credit card info in the form, click submit... and I get a session timeout error.
 
 Wow. Their session timeout value is somewhere between five to ten minutes, closer to five. I'm not sure if this is reasonable, especially given that their website isn't that user-friendly to begin with and you may spend some time poring through the flight lists to get one that you want.
 
-Anyway, I figure the credit card hasn't been charged yet since I timed out while entering the CC details, so I go to try again. Search for the flight&#8230;wait, the one with the cheap rate was no longer available!
+Anyway, I figure the credit card hasn't been charged yet since I timed out while entering the CC details, so I go to try again. Search for the flight... wait, the one with the cheap rate was no longer available!
 
 I figure that while I was selecting dates the first time through their Online Booking application, the backend marked the last seat on that flight as "Reserved" under my uncle's name, but since I timed out before I could pay that seat may now be lost forever.
 
-I figure they probably have some sort of cleanup if the booking hasn't been confirmed (i.e. paid for), so I leave the website for a bit then come back later. I search again, and the cheap flight is there! I get my dad's credit card and proceed to go through the steps again. I get to the credit card form and input the details and click submit. Yay, it's verifying! Checking the status bar though, it seems to be verifying against a MasterCard URL&#8230;but the card I used was a Visa!I was in such a hurry I forgot to tick MasterCard.
+I figure they probably have some sort of cleanup if the booking hasn't been confirmed (i.e. paid for), so I leave the website for a bit then come back later. I search again, and the cheap flight is there! I get my dad's credit card and proceed to go through the steps again. I get to the credit card form and input the details and click submit. Yay, it's verifying! Checking the status bar though, it seems to be verifying against a MasterCard URL... but the card I used was a Visa!I was in such a hurry I forgot to tick MasterCard.
 
 Unbelievably, the credit card verification was being done from my machine (since I could see the mastercard URL in the browser status bar), instead of on the server where it could be done more reliably.
 

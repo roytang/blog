@@ -35,7 +35,7 @@ Yeah, you need some plugins.
 
 XMMS is the closest thing you could get to Winamp, btw. You could even use the
   
-old skins of WinAmp (Classic skins is the name&#8230; If they have .wsz at the
+old skins of WinAmp (Classic skins is the name...  If they have .wsz at the
   
 name, rename it to .zip and it would work 😉 Real neat huh?)
 
@@ -66,21 +66,21 @@ Enjoy Kubuntu!
 ### Comment by [Roy](http://roytang.net/blog) on 2006-03-14 16:27:16 +0000
 I was looking at the screens, and I seemed to like KDE better, don't know why.
   
-Hmm&#8230;can I have both, and switch on the fly or something?
+Hmm... can I have both, and switch on the fly or something?
 
-I got Amarok to work after awhile&#8230;turned out I was doing something wrong
+I got Amarok to work after awhile... turned out I was doing something wrong
   
 with updating the gstreamer update.
 
-I'll check out XMMS, but I'm really quite impressed with Amarok so far&#8230;it's
+I'll check out XMMS, but I'm really quite impressed with Amarok so far... it's
   
 got some things going for it that Winamp doesn't.
 
-Thanks for the heads up&#8230;luckily, since I'm still just toying around with the
+Thanks for the heads up... luckily, since I'm still just toying around with the
   
 ubuntu install, I don't care much if anyone hijacks root or whatnot =p
 
-Whenever I boot into kubuntu, I'm on #kubuntu on freenode&#8230;although #ubuntu-
+Whenever I boot into kubuntu, I'm on #kubuntu on freenode... although #ubuntu-
   
 ph sounds better, para Pinoy hehe
 

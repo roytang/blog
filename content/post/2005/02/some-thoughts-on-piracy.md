@@ -9,7 +9,7 @@ url: /2005/02/some-thoughts-on-piracy/
 
 I tried to play two PS2 games today: Spiderman 2 and Naruto -- Narutimate Hero 2. I knew we had pirated copies of both.
 
-Spiderman 2 -- failed. The PS2 wouldn't even play the disc. Instead it made a wonderful churning noise that made me quickly hit the eject button. This is Sony's best form of copy protection: In my experience, our PS2 can only play somewhere between 30% -- 50% of all pirated discs out there. I don't know&#8230;it may just be our PS2 model. Sometimes if I particularly like a game, I will buy 2-3 pirated copies until I find one that agrees with our PS2. This is why I have 3 copies of [Star Ocean: Til The End Of Time][1].
+Spiderman 2 -- failed. The PS2 wouldn't even play the disc. Instead it made a wonderful churning noise that made me quickly hit the eject button. This is Sony's best form of copy protection: In my experience, our PS2 can only play somewhere between 30% -- 50% of all pirated discs out there. I don't know... it may just be our PS2 model. Sometimes if I particularly like a game, I will buy 2-3 pirated copies until I find one that agrees with our PS2. This is why I have 3 copies of [Star Ocean: Til The End Of Time][1].
 
 Naruto 2 -- failed. I couldn't find the disc. I tried searching through all the PS2 DVD cases we have, but I was unsuccessful. In the average pinoy techie's house, there would be hundreds of audio CDs, VCDs, data CDs and DVDs, many of them pirated. Finding one specific disc outside of its case is a nigh-impossible task. Going out and buying a new (pirated) copy would be far easier [1]
 

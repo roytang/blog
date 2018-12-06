@@ -57,7 +57,7 @@ The following will most likely be the 12 I will vote on Monday (barring somethin
  11. Angara (Team PNoy)
  12. Aquino (Team PNoy)
 
-I understand that the choices aren't perfect (I'm not too fond of some of them&#8230;), but we have a limited selection of viable candidates and I'd rather fill up all 12 slots to at least have an infinitesimally small chance that the candidates I don't want don't get in.
+I understand that the choices aren't perfect (I'm not too fond of some of them... ), but we have a limited selection of viable candidates and I'd rather fill up all 12 slots to at least have an infinitesimally small chance that the candidates I don't want don't get in.
 
 &nbsp;
 

@@ -11,7 +11,7 @@ url: /2007/01/del-icio-us-bookmarks-for-2007-01-18/
 
 Daily delicious plugin broken down, this is being generated manually.
 
-But I heard that delicious now supports this functionality directly&#8230;
+But I heard that delicious now supports this functionality directly... 
 
 Shared bookmarks for [del.icio.us][1] user [roytang][2] on 2007-01-18
 

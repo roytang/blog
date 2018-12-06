@@ -27,12 +27,12 @@ Seriously, everytime I go to fight the ranking battles, I have to go through thr
 
 Really, the "I'd like an explanation" thing could just be placed in the second menu. I should only have to decide two things: One, I want to fight a ranking battle; and two, I want to choose my opponent. Single battles or team battles are slightly worse, as you must choose your fighter and your difficulty level in addition to the above choices. I wonder how hard it would have been to make a simple menu system for the arena, instead of relying on the conversation system? 
 
-I realize this is a really petty thing to note, but when you start playing the battle arena, you have to go through those menus repeatedly every two or three minutes. It got annoying fast. And don't get me started on those bunny races&#8230; 
+I realize this is a really petty thing to note, but when you start playing the battle arena, you have to go through those menus repeatedly every two or three minutes. It got annoying fast. And don't get me started on those bunny races...  
 
 The other bad thing is: bad endings. Well, I wasn't expecting much given that the story wasn't that good anyway, but eh? The general ending wasn't much more than "Hey, we're still alive! Cool!", and the individual endings were a bit sleepy. Or maybe it was just the lackluster music playing during the endings? 
 
-Overall though, a decidedly good game, one I'm going to try to finish at least two more times, and a worthy end to the Star Ocean series. Looking forward to Tri-Ace's next series&#8230; </p> 
+Overall though, a decidedly good game, one I'm going to try to finish at least two more times, and a worthy end to the Star Ocean series. Looking forward to Tri-Ace's next series...  </p> 
 
 <div>
-  [1] and a side-story for a portable<br /> [2] that means I actually finished two RPGs last year. That's right. I think FF X-2 was an RPG and was released last year.<br /> [3] just finished the Maze of Tribulations today. Quick tip: the boss there is cake if you have paralysis immunity. Mmm&#8230;cake.<br /> [4] read: Nel<br /> [5] which is why I never finished Xenosaga. I hope we get more RPGs that don't try to be a cinemafest like Metal Gear Solid 3. Gee, two quick reviews of games I didn't finish in a foot note! I'm proud.
+  [1] and a side-story for a portable<br /> [2] that means I actually finished two RPGs last year. That's right. I think FF X-2 was an RPG and was released last year.<br /> [3] just finished the Maze of Tribulations today. Quick tip: the boss there is cake if you have paralysis immunity. Mmm... cake.<br /> [4] read: Nel<br /> [5] which is why I never finished Xenosaga. I hope we get more RPGs that don't try to be a cinemafest like Metal Gear Solid 3. Gee, two quick reviews of games I didn't finish in a foot note! I'm proud.
 </div>

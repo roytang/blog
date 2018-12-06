@@ -163,6 +163,6 @@ A box and five boosters actually. We drafted the packs, but the final distributi
 
 Not a bad box.
 
-After some practice drafts, using the above box and some fake lorwyn packs, the viable archetypes seem to be R/G Warriors, B/u Rogues and Mono-W Kithkin. Of course the archetypes from LLL still apply, such as UB Faeries, Uw Merfolk, etc.  Mono-W Kithkin, which used to suck in Triple-LOR, got a good dose of commons such as the 2W 2/2/ Flying Reinforce 2 and the Order of the Golden Cricket. B/u Rogues is fun, the only problem being that your guys are so small (Festercreep really hurts!). And R/G Warriors&#8230;that archetype has existed since triple-LOR and just gets the Banneret, Battle-Axe and the Paragon as support.
+After some practice drafts, using the above box and some fake lorwyn packs, the viable archetypes seem to be R/G Warriors, B/u Rogues and Mono-W Kithkin. Of course the archetypes from LLL still apply, such as UB Faeries, Uw Merfolk, etc.  Mono-W Kithkin, which used to suck in Triple-LOR, got a good dose of commons such as the 2W 2/2/ Flying Reinforce 2 and the Order of the Golden Cricket. B/u Rogues is fun, the only problem being that your guys are so small (Festercreep really hurts!). And R/G Warriors... that archetype has existed since triple-LOR and just gets the Banneret, Battle-Axe and the Paragon as support.
 
 The art of Boldwyr Heavyweights is really amusing.

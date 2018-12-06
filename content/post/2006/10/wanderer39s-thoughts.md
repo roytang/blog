@@ -18,7 +18,7 @@ That's ridiculous of course; I wouldn't last long living a life where I had to s
 
 The current job is actually great in that it constantly challenges me, pushing me to find smarter ways to do things, to be brilliant, to rise to the challenges. But it's not perfect. There are periods of time where the team has no choice but to go into crunch mode. Like now. And any developer can tell you, when your team is in crunch mode, you can literally feel the weight of the world on your shoulders. Luckily, many of the devs on the current team are still hard-working and still have a bit of fight left in them, hopefully enough to see the project through. But I'm starting to feel the weight myself; I don't think I've ever been this tired of a project before.
 
-Instead of becoming a hobo, I figured I'd take a vacation after the project is done. I've already told the appropriate people that I'd like to take a two-week leave before moving on to the next project. But right now, two weeks seems a bit lame. I'm thinking a bit more&#8230;maybe two or three months. I don't even care if it's unpaid.
+Instead of becoming a hobo, I figured I'd take a vacation after the project is done. I've already told the appropriate people that I'd like to take a two-week leave before moving on to the next project. But right now, two weeks seems a bit lame. I'm thinking a bit more... maybe two or three months. I don't even care if it's unpaid.
 
 I mentioned this to a colleague, and she told me I'd be bored out of my wits by the end of the first week. Wow, that's ridiculous. As long as I have electricity, I don't think I can be bored. (Didn't we just lose all electricity across Luzon last week? Shut up.)
 
