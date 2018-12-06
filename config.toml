@@ -33,6 +33,7 @@ disqusShortname = "roytangweblog"
     topline = "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
     footline = "(c) 2018 Roy Tang"
     featuredImage = "https://roytang.net/uploads/diceonhead.jpg"
+    description = "Roy Tang's blog. Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
 
     # Sidebar position
     # false, true, "left", "right"
