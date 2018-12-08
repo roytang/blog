@@ -16,6 +16,7 @@
 
 <p>I've been blogging since 2002! Click on the post counts below to view the posts by year or month.</p>
 <table class="grid_archive">
+<thead>
     <tr>
         <th>Year</th>
         <th>Jan</th>
@@ -32,6 +33,8 @@
         <th>Dec</th>
         <th>Total</th>
     </tr>
+</thead>
+<tbody>
 {{ range (where .Site.Pages "Section" "post").GroupByDate "2006" }}
 <tr>
     <th>{{ .Key }}</th>
@@ -68,6 +71,7 @@
     <td class="arc"><a href='{{ .Key | absURL }}'>{{ len (.Pages) }}</a></td>
 </tr>
 {{ end }}
+</tbody>
 </table>
 
 <div class="list_archive">

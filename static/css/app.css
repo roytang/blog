@@ -1,10 +1,8 @@
 table.grid_archive td.arc {
-    background-color:#dceaeb;
     text-align: center;
 }
 table.grid_archive a {
     text-decoration: none;
-    color: black;
 }
 .spoiler {
     display: none;
@@ -31,7 +29,6 @@ table.grid_archive a {
     font-size: 75%; color: gray;
 }
 
-.grid_archive { display: initial; }
 .list_archive { display: none; }
 .topline img { border-radius: 50% }  
 
@@ -43,4 +40,18 @@ table.grid_archive a {
         padding-top: 1rem !important;
         padding-bottom: 1rem !important;
     }
+}
+
+/* Dark mode! */
+.main_wrapper > .main_header {
+    background-color: rgb(0, 0, 0);
+}
+.main_wrapper {
+    background-color: rgb(30, 32, 37);
+}
+.main_wrapper > .main_content, .main_wrapper > .main_content h1, .main_wrapper > .main_content h3, .main_wrapper > .main_content h4 {
+    color: white;
+}
+.main_wrapper > .main_content h1 {
+    color: white;
 }
