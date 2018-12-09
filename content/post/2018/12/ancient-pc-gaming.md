@@ -6,7 +6,7 @@ categories:
 date: 2018-12-09T09:56:56+08:00
 title: "Ancient PC Gaming"
 type: post
-featuredImage: /uploads/2018/rtk3kerwins.jpg
+featuredImage: https://roytang.net/uploads/2018/rtk3kerwins.jpg
 ---
 
 I recently found a stash of old DOS games we used to play, so I thought I'd write about the early days of PC gaming. My PC gaming career (such as it is) started way back in the MS-DOS era. It was an interesting time to be a gamer, to say the least. It was a time when you had to make bootdisks and fiddle around with files like `autoexec.bat` and `himem.sys` to make sure your PC booted with the correct configuration required to run your game. I got to become familiar with things like VGA drivers and sound drivers and so on.
