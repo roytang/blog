@@ -2,8 +2,6 @@
 author: roy
 categories:
 - Just Another Day
-tags:
-- python
 date: 2018-12-05T09:56:56+08:00
 title: "Sometimes things don't work out and that's fine"
 type: post

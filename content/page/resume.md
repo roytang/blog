@@ -1,42 +1,94 @@
 ---
-title: Resume
+title: Stephen Roy J. Tang
 author: roy
 type: page
 date: 2018-04-15T05:26:37+00:00
 url: /resume
 ---
-## Stephen Roy J. Tang
+[roytang@gmail.com](mailto:roytang@gmail.com) | [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang)
 
-### Senior Software Consultant, Solution Architect
-
-**Summary**: I have been working professionally as a software developer, technical lead and solution architect since 2003. I have a wide variety of experience with different languages and frameworks, primarily Java, JavaScript and Python, though I am very open to learning new technologies. I am available for consulting opportunities. I prefer remote work.
-
-* * *
-
-#### Contact Details
-
-| Current Residence | Preferred Contact Method |
-|------|-----|
-| Tandang Sora, Quezon City, Philippines | Email: [roytang@gmail.com](mailto:roytang@gmail.com) |
-| **website** | **LinkedIn** |
-| [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang) |
+[View/download this resume in PDF format](/RoyTang.pdf)
 
 ***
 
-#### Education Attainment and Certifications
-| Year |  Institution   |     |
-|------|-----|-----|
-|2001|College of Engineering, University of the Philippines - Diliman | Bachelor of Science in Electronics and Communications Engineering|
-|2004|PhilNITS | Japan IT Standards Examination (JITSE) Certification|
-|2012|Oracle Certified Professional|Java SE 6 Programmer|
+I have been working professionally as a software developer, technical lead and solution architect since 2003. I am based in the Philippines. I have a wide variety of experience with different languages, frameworks and databases, primarily Java, JavaScript and Python, though I am very open to learning new technologies. I can work well in a team setting, in a leadership role, or as a solo developer. I communicate well, I learn quickly, and I always strive for excellence in my work. I am available for consulting opportunities. I prefer remote work.
 
 ***
 
-#### Work Experience and Skills
+#### Overview
+
+<table>
+<tr>
+<td style="width: 20%">2016-2018</td>
+<td><strong><a href="https://maroonstudios.com">Maroon Studios</a></strong> - Solution Architect and Technical Consultant lead</td>
+</tr>
+<tr>
+<td style="width: 20%">2016-2018</td>
+<td><strong><a href="https://healthblocks.ph">Healthblocks</a></strong> - Solution Architect and Technical Consultant lead</td>
+</tr>
+<tr>
+<td style="width: 20%">2016-2018</td>
+<td>Various freelance projects</td>
+</tr>
+<tr>
+<td style="width: 20%">2003-2015</td>
+<td><strong><a href="https://www.azeus.com/careers/philippines/">Azeus Systems Limited Philippines</a></strong> - Senior full stack developer and technical lead</td>
+</tr>
+<tr>
+<td style="width: 20%">2001</td>
+<td><strong>University of the Philippines Diliman</a></strong> - Graduated BS Electronics and Communcations Engineering</td>
+</tr>
+<tr>
+<td style="width:20%"><em>Domains</em></td>
+<td>Web services, Government projects, Social care, Finance, Healthcare, Blockchain</td>
+</tr>
+
+<tr>
+<td><em>Specialization</em></td>
+<td>Security, Performance, Accessibility, Systems Integration, API Development, Data Analytics, Reporting, Mobile (iOS and Android)</td>
+</tr>
+
+<tr>
+<td><em>Languages</em></td>
+<td>Java, Python, JavaScript, PHP, C++, HTML, CSS</td>
+</tr>
+
+<tr>
+<td><em>Frameworks</em></td>
+<td>Django, Flask, Laravel, React-Native, jQuery, Spring, Wordpress</td>
+</tr>
+
+<tr>
+<td><em>Databases</em></td>
+<td>SQL, Oracle, MarkLogic NoSQL, MySQL, PostgreSQL, JDBC, ODBC</td>
+</tr>
+
+<tr>
+<td><em>OSes and Webservers</em></td>
+<td>Windows, Linux, MacOS, Apache Web Server, Nginx, Apache Tomcat, Oracle Application Server, Jboss</td>
+</tr>
+
+<tr>
+<td><em>Services</em></td>
+<td>Amazon Web Services, Google Compute Engine, Alicloud</td>
+</tr>
+
+<tr>
+<td><em>Standards</em></td>
+<td>Accessibility (WCAG), Infosec (ISO27001), HK Gov (HK OGCIO), UK Gov (UK Data Protection Act)</td>
+</tr>
+
+</table>
+
+***
+
+#### Career Details
 
 ##### 2016 to Present
-[Maroon Studios](https://maroonstudios.com) - Solution Architect and Technical Consultant
-[Healthblocks](https://healthblocks.ph) - Solution Architect and Technical Consultant
+
+- [Maroon Studios](https://maroonstudios.com) - Solution Architect and Technical Consultant
+- [Healthblocks](https://healthblocks.ph) - Solution Architect and Technical Consultant
+- Various small freelance projects
 
 ###### Technologies and Frameworks used:
 
@@ -50,6 +102,7 @@ url: /resume
 - WordPress customisation, themes, and plugins
 - Amazon Web Services (AWS) setup and deployment 
 - Alicloud setup and deployment 
+- Blockchain (Multichain and Ethereum based)
  
 ##### 2003 to 2015
 [Azeus Systems Limited Philippines](https://www.azeus.com/careers/philippines/) - Technical Lead and Full Stack Developer
@@ -104,4 +157,13 @@ url: /resume
 ##### Other skills (outside of work experience)
 
 - Unity Game Development Framework
+
+***
+
+#### Education Attainment and Certifications
+| Year |  Institution   |     |
+|------|-----|-----|
+|2001|College of Engineering, University of the Philippines - Diliman | Bachelor of Science in Electronics and Communications Engineering|
+|2004|PhilNITS | Japan IT Standards Examination (JITSE) Certification|
+|2012|Oracle Certified Professional|Java SE 6 Programmer|
 
