@@ -1,7 +1,7 @@
 ---
 author: roy
 categories:
-- Tech Life
+- Opinions
 date: 2018-12-15T09:56:56+08:00
 title: The Great Filter
 type: post
