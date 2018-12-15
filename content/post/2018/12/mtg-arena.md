@@ -51,6 +51,8 @@ It's great to have an option for BO3 play. The complexity of competitive Magic s
 
 I also have this not-so-competitive BG midrange deck that I was building towards before I netdecked the MonoBlue one. I had already spent a few mythic wildcards towards it, kind of a bad choice really, because the ranked ladder does this weird matchmaking thing where you're more likely to fight against decks that have similar rare/mythic counts. So what usually happens is my unoptimized BG monstrosity gets roflstomped by tuned netdecks and such. After discovering this, I now mostly only play either the starter decks on ranked (to fulfill my daily quests) or Competitive Constructed with the Monoblue (in order to build up gold/cards). I still occasionally do break out the BG deck for fun.
 
+I wrote most of the above paragraphs in a draft a week or two ago, and they just recently released a new patch that overhauled the rank system and matchmaking. I haven't explored it too much yet, I hope it's better.
+
 ### F2P, ESports, and Competitive Play
 
 Wizards announced recently that [Arena will join the Pro Tour as part of their competitive play offerings and there will be a combined $10M prize pool for both paper Magic and Arena in 2019](https://magic.wizards.com/en/competitive-magic). This is exciting for me because it offers a more convenient avenue for competitive play. I'll be honest, I'm a bit older now and I'm not too fond of playing in big paper MTG tournaments anymore. You have to travel somewhere, and it's often hot and crowded and I have to shufffle with my sweat hands and you have to make sure your opponent's not cheating and so on. But if I'm playing from the comfort of my home computer, well that's a lot better for me! 
