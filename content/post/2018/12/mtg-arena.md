@@ -59,4 +59,4 @@ I was initially planning to play Arena same way I play other online CCGs - grind
 
 ### Summary
 
-MTG Arena is still in open beta, and I assume the formal release will be around late 2019, when the next rotation comes in. I'm optimistic and hoping for the best and hopefully all the issues will be ironed out. Arena has the potential to trounce the online CCG scene, especially since Valve's Artifact hasn't been able to live up to its hype (though I might still try it). All Wizards has to do is to not screw things up!
+MTG Arena is still in open beta, and I assume the formal release will be around late 2019, when the next rotation comes in. I'll probably make a follow-up post at that time. I'm optimistic and hoping for the best and hopefully all the issues will be ironed out. Arena has the potential to trounce the online CCG scene, especially since Valve's Artifact hasn't been able to live up to its hype (though I might still try it). All Wizards has to do is to not screw things up!
