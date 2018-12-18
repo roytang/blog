@@ -5,7 +5,7 @@ categories:
 date: 2006-11-11 09:00:47
 title: "I'm a Moron"
 type: post
-url: /2006/11/i39m-a-moron/
+url: /2006/11/im-a-moron/
 ---
 
 Yeah pretty much.
