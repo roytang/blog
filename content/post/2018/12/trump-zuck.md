@@ -1,0 +1,16 @@
+---
+author: roy
+categories:
+- Opinions
+tags:
+- Current Events
+date: 2018-12-21T10:56:56+08:00
+title: "On Trump and Zuckerberg"
+type: post
+---
+
+Like many non-Americans, I'm acutely aware of the shenanigans of Donald Trump, current US president. It would be a fascinating story, if only it weren't so bad for the world. His character arc is of someone who rose to the level of this own incompetence. Before becoming president, he was basically the worst kind of businessman - a sleazy con man/grifter always looking out for ways to scam other people to further his own interests. A snake oil salesman who somehow stumbled into becoming president of the most powerful country on the planet. Who knows why he ran for president? Maybe the Russians goaded him into it. Maybe he thought it was good for his businesses. Maybe he thought he could profit off campaign contributions. The most unlikely reason seems to be that he thought he could do good for his country. And now he finds himself in an impossible position, the pressures and problems which could be understand by very few other people in the world. And now he finds himself under increased legal scrutiny that could threaten him, his family, and even his con man businesses.
+
+Like many tech guys, I'm also acutely aware of the problems besetting Mark Zuckerberg and his super-dominant social network Facebook, mostly problems of his own making. Again, it would be a fascinating story, if it weren't so bad for the world. He and Trump have had some strange parallels in his character arc. Much like Trump, he seems to have risen to the level of his own incompetence. He started this software company when he was still in college and somehow it grew and snowballed until he was in charge of the most powerful communication platform on the planet. He certainly didn't start out with noble intentions, calling his users "dumbfucks" and everything, so it's no surprise he and his company made a lot of stumbles along the way, many of them only coming out just now. He surely had no idea that his proposed advertising business model and his mission of connecting the world would lead to fake news, Russian collusion, and numerous privacy problems. His position as head of Facebook leads to pressures and problems which could be understand by very few other people in the world. And now he finds himself under increased legal scrutiny that could threaten his business model, his company, and even his legacy.
+
+The two men are vastly different of course, but I just find the parallels interesting. The world is being moved by men who were completely unprepared for their positions and are basically making it up as they go along. (Of course, many, many people are making it up as they go along...)
