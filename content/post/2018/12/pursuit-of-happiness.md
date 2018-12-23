@@ -1,7 +1,7 @@
 ---
 author: roy
 categories:
-- Philippines
+- Just Another Day
 tags:
 - happiness
 date: 2018-12-23T13:56:56+08:00
