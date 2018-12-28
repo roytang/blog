@@ -11,7 +11,7 @@ Back during the [early days of gaming](/2018/12/ancient-pc-gaming/) (both PC and
 
 Ever since the advent of Steam and its constant sales, this has been a lot more challenging, especially since I have had much less time for gaming since I started working. The gaming industry has also grown exponentially since then, with many more high-quality "must play" releases per year. As a result, I've accumulated a signficant gaming collection and backlog, most of it on PC, but some on consoles too.
 
-![](/uploads/2018/steam-backlog.png
+![](/uploads/2018/steam-backlog.png)
 
 There's all sorts of ways to get extra games, mostly on PC:
 
