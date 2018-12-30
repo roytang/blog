@@ -2,6 +2,8 @@
 author: roy
 categories:
 - Tech Life
+tags:
+- linkedin
 date: 2018-12-30T13:56:56+08:00
 title: "Noone reads LinkedIn profiles"
 type: post
