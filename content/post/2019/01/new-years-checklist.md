@@ -35,6 +35,8 @@ In no particular order:
   * Make a list for the new year!
   * Clean up the photos on your phone, tablet and computer
   * Delete all files downloaded 2017 or earlier
+  * Follow up on the people who owe you money or things
+  * Review your recurring luxury costs (Netflix, etc) and evaluate whether you still really need them
 
 2019 Movies/TV/Games calendar:
 
