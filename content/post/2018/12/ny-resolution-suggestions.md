@@ -26,6 +26,7 @@ I'm not a big believer in New Year's resolutions, but here's some suggestions if
 - figure out what it means to be happy
 - start twelve new side projects
 - finish one side project
+- once a week, throw out a few things you no longer need
 
 These aren't things I'm committing to, but they are examples of the sort of NYRs I'd be likely to take on.
 
