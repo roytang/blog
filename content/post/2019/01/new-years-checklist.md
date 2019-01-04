@@ -55,7 +55,7 @@ Movies:
   
 Games:
 
-- 11 Jan 2019
+- 11 Jan Tales of Vesperia Definitive Edition
 - 25 Jan Kingdom Hearts III
 - 15 Feb Civ6 Gathering Storm
 
