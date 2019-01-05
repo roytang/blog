@@ -1,7 +1,10 @@
 ---
 author: roy
 categories:
-- Books
+- Pop culture
+- Philippines
+tags:
+- books
 date: 2018-12-20T10:56:56+08:00
 title: "Book Stores"
 type: post
