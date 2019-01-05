@@ -17,10 +17,9 @@ For a solution architect in particular, it helps to be familiar with a wide arra
 
 Interestingly, the term "solution architect" has been increasing in usage over the past few years, if Google Trends is any indication:
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1671_RC04/embed_loader.js"></script>
-<script type="text/javascript">
-  trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"solution architect","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=solution%20architect","guestPath":"https://trends.google.com:443/trends/embed/"});
-</script>
+![](/uploads/2019/solution-architect.png)
+
+*(I originally tried Google Trend's embed option, but the embedded chart kept crashing my browser tab, so now you get a screen capture instead)*
 
 If you'd asked me five years ago I would have said such a role was within the scope of a senior engineer or technical lead. I guess as time goes on, the role becomes more distinct and formalized? At this point, I think the concept might still be a bit too nebulous for anyone to really specialize in it though. 
 
