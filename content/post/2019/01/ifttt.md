@@ -1,7 +1,7 @@
 ---
 title: IFTTT
 author: roy
-date: 2019-01-07T13:58:22+08:00
+date: 2019-01-06T13:58:22+08:00
 categories:
   - Tech Life
 ---
