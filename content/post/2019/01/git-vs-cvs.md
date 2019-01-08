@@ -1,8 +1,7 @@
 ---
 title: Git vs CVS
 author: roy
-draft: true
-date: 2019-11-28T10:06:56+08:00
+date: 2019-01-12T10:06:56+08:00
 categories:
   - Software Development
 ---
