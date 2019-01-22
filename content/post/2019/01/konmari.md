@@ -14,7 +14,11 @@ I don't know much about this Konmari thing. I think it's been around for a while
 
 Some people aren't reacting well to the idea of throwing away books though:
 
-{{< tweet 1080957281636835328 >}}
+Edit 22 Jan: The account has gone private, so the previous embedded tweet is no longer accessible. I'm quoting the original text here:
+
+> Do NOT listen to Marie Kondo or Konmari in relation to books. Fill your apartment & world with them. I don’t give a shite if you throw out your knickers and Tupperware but the woman is very misguided about BOOKS. Every human needs a v extensive library not clean, boring shelves
+> 
+> — Anakana Schofield ([@AnakanaSchofiel](https://twitter.com/AnakanaSchofiel)) [January 3, 2019](https://twitter.com/jaymelynilao/status/1080957281636835328)
 
 Maybe it's missing the point of decluterring though. The idea is getting rid of things that "don't give you joy", so if having books give you joy, then obviously you keep your books, regardless of whether those books are challenging, difficult, depressing etc. Maybe the point is that you have to be constantly re-evaluating whether the hoarding is a positive spin in your life. (And I say this as someone who has a bunch of books waiting to be read just lying around his room.)
 
