@@ -19,4 +19,4 @@ Anyway, here's the screenshots!
 
 ![](/uploads/2019/roytangnet_2019.png)
 
-
+This post was partially inspired by [this](https://www.arun.is/blog/10-year-challenge/).
