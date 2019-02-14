@@ -4,6 +4,8 @@ date: 2019-02-15T13:56:56+08:00
 type: post
 categories:
 - Opinions
+tags:
+- current events
 title: "Speaking truth to power"
 type: post
 ---
