@@ -24,6 +24,8 @@ If only I didn't have something holding me back.
 
 If only I knew what I knew now.
 
+If only I had fought harder for it.
+
 If only I could speak to her again one last time.
 
 If only I realized what it all meant.
