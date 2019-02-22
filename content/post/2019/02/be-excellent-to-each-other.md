@@ -7,7 +7,7 @@ categories:
 tags:
 - movies
 - quotes
-title: "Be excellent to each other, and party on dudes"
+title: "Be excellent to each other, and party on, dudes"
 type: post
 featuredImage: https://roytang.net/uploads/2019/be-excellent.jpg
 ---
