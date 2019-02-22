@@ -28,4 +28,4 @@ If only I could speak to her again one last time.
 
 If only I realized what it all meant.
 
-While unavoidable, best not to linger in these alternate worlds too long. Regret is a trap that takes us away from the present.
+While unavoidable, best not to linger in these alternate worlds too long. Regret is a trap that takes us away from the present. Learn what we can from our mistakes, and move on. 
