@@ -16,6 +16,6 @@ It seems that there's always work that desperately needs to be done, but if you 
 
 There was a time when I was gung ho about work, when I would be happy to take on whatever new challenge got thrown at me. That time was fun for a while, but it's probably not sustainable forever.
 
-These days I won't do any work that doesn't align with my greater objectives (whatever those may be). I won't do any work that gets in the way of life, self-care, dreams, or mental health. I won't do any work I don't believe in. I won't work with people I find annoying or stressful. 
+These days I won't do any work that doesn't align with my greater objectives (whatever those may be). I won't do any work that gets in the way of life, family, self-care, dreams, or mental health. I won't do any work I don't believe in. I won't work with people I find annoying or stressful. I won't do any work I don't want to do.
 
 Life is too short to be so obsessed about work.
