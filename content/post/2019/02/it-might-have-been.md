@@ -6,6 +6,7 @@ categories:
 - Just Another Day
 tags:
 - quotes
+- regret
 title: "It might have been"
 type: post
 ---
