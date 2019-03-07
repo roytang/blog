@@ -3,7 +3,9 @@ author: roy
 date: 2019-03-06T13:56:56+08:00
 type: post
 categories:
-- Gaming
+- Just Another Day
+tags:
+- quotes
 title: "Whatever doesn't kill you"
 type: post
 ---
@@ -17,3 +19,5 @@ I liked this quote a lot when I was younger and more gung-ho, especially about t
 As I've grown older my views on things like self-care and burnout have evolved, and the quote seems a bit silly to you know. I mean, we all know there are things that won't kill you but can make you weaker, like depression or getting disabled or yes even burnout. 
 
 And frankly, there are more important things than being stronger.
+
+Edit: Hey, I've [posted about this quote before](/2016/11/whatever-doesnt-kill-you-only-makes-you-stronger/)!
