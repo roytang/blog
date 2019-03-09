@@ -21,6 +21,6 @@ Quote 2:
 > 
 > (Unknown source)
 
-We accept that the natural order of the world is inherintly unfair. There are stronger creatures and weaker creatures, there are predators and there are prey.
+We accept that the natural order of the world is inherently unfair. There are stronger creatures and weaker creatures, there are predators and there are prey.
 
 But does it follow that because the natural world is unfair, that human society must also be unfair? 
