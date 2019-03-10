@@ -4,7 +4,7 @@ categories:
 - Software Development
 tags:
 - quora
-date: 2019-03-11T13:56:56+08:00
+date: 2019-03-12T13:56:56+08:00
 title: "What are the pros and cons of a programming career?"
 type: post
 ---
