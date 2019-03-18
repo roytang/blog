@@ -4,6 +4,8 @@ date: 2019-03-05T13:56:56+08:00
 type: post
 categories:
 - Gaming
+tags:
+- vita
 title: "RIP PS Vita"
 type: post
 ---
