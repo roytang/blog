@@ -20,9 +20,6 @@
         {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
         <guid>{{ .Permalink }}</guid>
         <description>
-        {{ range .Params.categories }}
-        #{{ . }}
-        {{ end }}
         {{ range .Params.tags }}
         #{{ . }}
         {{ end }}

@@ -27,7 +27,7 @@ Quadrant 2: Person A believes Party B is bad for the country, and Person A has g
 Quadrant 3: Person A believes Party B is good for the country, and Person A has bad motives
 - Person A does not believe the negative things about Party B (or does not care), and merely wants to use them to further their ambitions
 
-Quadrant 4: Person A believes Party B is good for the country, and Person A has bad motives
+Quadrant 4: Person A believes Party B is bad for the country, and Person A has bad motives
 - Greed/Ambition: Person A believes that Party B's politics is inevitably how the country works and is just looking out for theirselves
 
 Due to my own leanings, I do not believe quadrants 1 and 3 are likely (I have yet to see evidence indicating otherwise), so this does not paint a good picture of Person A. People of course have complex motivations, and most of the time even the villains may see themselves as being the heroes. I can only hope that at worst Person A is somewhere in quadrant 2 and not quadrant 4
