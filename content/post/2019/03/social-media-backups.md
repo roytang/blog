@@ -14,6 +14,8 @@ I'm not saying these services are going to fail and shut down mind you (though t
 
 - these services may decide to ban you or remove some of your content for some reason
 - your account might get hacked and you lose control of the account
+- maybe those services get [some new policy that bans certain types of posts](https://www.theverge.com/2018/12/6/18127869/tumblr-livejournal-porn-ban-strikethrough) and some of your content gets purged (accidentally or not)
+- maybe they [botch a server migration and lose all your data](https://www.latimes.com/entertainment/music/la-et-ms-myspace-loses-12-years-uploaded-music-20190318-story.html). (Also, goddammit Yahoo Messenger!)
 - it makes it easier for you to quit these services if you ever decide to
 - offline backups are easier to search and parse (for whatever reason)
 - etc
