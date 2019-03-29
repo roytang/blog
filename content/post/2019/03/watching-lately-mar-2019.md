@@ -27,3 +27,4 @@ Not much else to report. The Arrowverse is limping along. Recent episodes of **S
 
 In more sci-fi land, **The Orville** has been fantastic, with their surprise twist to the Isaac storyline culminating in one of the best space battles portrayed on TV. **Star Trek Discovery** is not as good, but I still like it, as it feels a lot more classic Trek than S1 and the overarching S2 plot is more interesting to me too.
 
+Next month is looking packed. The big headliners to look forward to are of course **Avengers Endgame**, **Shazam**, and the final season of **Game of Thrones**!
