@@ -5,10 +5,9 @@ categories:
 tags:
 - current events
 - philosophy
-date: 2019-04-03T13:56:56+08:00
+date: 2019-04-04T13:56:56+08:00
 title: "Justice vs Vengeance"
 type: post
-draft: true
 ---
 
 via [/u/haveanicedayreddit on reddit](https://np.reddit.com/r/politics/comments/b87waa/the_supreme_courts_conservatives_just_legalized/ejwf8j5/):
