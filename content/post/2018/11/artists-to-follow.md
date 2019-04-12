@@ -16,7 +16,7 @@ During the past few years, I've started following more artists (mostly comic-boo
 
 **Marcio Takara** is a relatively new comic book artist I discovered a couple of years ago. I haven't actually read too many of his comic book work, but I am a big fan of [his instagram](https://www.instagram.com/marciotakara/) where he's always posting finished works and WIPs. His linework isn't as detailed as Jim Lee, it's a completely different and more cartoony style, but I like it. And his coloring is spot-on too! He also has [a website](https://www.marciotakara.com/).
 
-{{< instagram BqdyDpxHsv9 >}}
+{{< instagram BriKMMWHm9o >}}
 
 **Kenneth Rocafort** was an artist I discovered when DC had their "New 52" reboot, his DC work includes Red Hood and the Outlaws and Superman. I'm a fan of his detailed pencils and his color work. He has [an instagram](https://www.instagram.com/mitografia_kr) and [a twitter](https://twitter.com/Mitografia/) and he posts regularly, especially his drawings in a small notebook.
 
