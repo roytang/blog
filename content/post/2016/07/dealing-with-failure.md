@@ -1,7 +1,9 @@
 ---
 author: roy
 categories:
-- Opinions
+- Self-improvement
+tags:
+- quora
 date: 2016-07-12 01:30:04
 title: Dealing with Failure
 type: post
