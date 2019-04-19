@@ -8,7 +8,7 @@ title: "Mobile games have a short shelf life"
 type: post
 ---
 
-Rami Ismail of Vlambeer points out some of the problems with the mobile app ecosystem: platform SDKs update so often, so older mobile games often break, such that the reasonable option is to make freemium games that you update continuously rather than single purchase games that won't work a year later unless you burn capital on them:
+Rami Ismail of Vlambeer [points out some of the problems with the mobile app ecosystem](https://variety.com/2019/gaming/features/android-ios-apple-google-game-dev-problems-1203191551/): platform SDKs update so often, so older mobile games often break, such that the reasonable option is to make freemium games that you update continuously rather than single purchase games that won't work a year later unless you burn capital on them:
 
 > "... I’m just a little wary of the smartphone market right now. I don’t currently feel at ease developing for those platforms because the SDKs change, their hardware specs change and when you don’t update the game just breaks."
 
