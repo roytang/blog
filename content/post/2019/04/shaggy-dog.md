@@ -7,7 +7,7 @@ title: "Shaggy Dogs"
 type: post
 ---
 
-I was struggling to remember the term - I new there was one - for the type of stories where it's long-winded and the narrator is generally trying to keep the audience hanging and eventually ending in an anticlimax. These are called [Shaggy Dog Stories](https://en.wikipedia.org/wiki/Shaggy_dog_story), there's even [a subreddit for them](https://www.reddit.com/r/shaggydogstories).
+I was struggling to remember the term - I knew there was one - for the type of stories where it's long-winded and the narrator is generally trying to keep the audience hanging and eventually ending in an anticlimax. These are called [Shaggy Dog Stories](https://en.wikipedia.org/wiki/Shaggy_dog_story), there's even [a subreddit for them](https://www.reddit.com/r/shaggydogstories).
 
 The ones I heard the most growing up were from my high school crowd, and I remember two of them:
 
