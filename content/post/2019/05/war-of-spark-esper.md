@@ -2,7 +2,7 @@
 author: roy
 categories:
 - Magic the Gathering
-date: 2019-05-01 04:22:32
+date: 2019-05-01T13:56:56+08:00
 tags:
 - magic arena
 - war of the spark
