@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-07-28 01:30:03
+tags:
+- Software Development
 title: Evaluation of Programmer Performance
 type: post
 url: /2016/07/evaluation-of-programmer-performance/

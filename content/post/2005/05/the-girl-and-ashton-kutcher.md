@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2005-05-15 12:22:00
+tags:
+- Opinions
 title: The girl and Ashton Kutcher
 type: post
 url: /2005/05/the-girl-and-ashton-kutcher/

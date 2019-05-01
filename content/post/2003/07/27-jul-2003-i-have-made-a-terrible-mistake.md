@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Gaming
-- Just Another Day
+categories: []
 date: 2003-07-27 01:30:04
 tags:
 - Legacy Blog Posts
+- Gaming
 title: '27-JUL-2003: I have made a terrible mistake'
 type: post
 url: /2003/07/27-jul-2003-i-have-made-a-terrible-mistake/

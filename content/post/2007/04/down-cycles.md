@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-04-28 22:56:35
 title: Down Cycles
 type: post

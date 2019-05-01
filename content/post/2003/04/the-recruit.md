@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2003-04-12 01:30:44
 tags:
 - Legacy Blog Posts
 - Movies
+- Pop Culture
 title: The Recruit
 type: post
 url: /2003/04/the-recruit/
@@ -25,4 +25,4 @@ The weakest part has to be the character of James Clayton himself. The characte
   
 secret agent or not.
 
-Overall: Enjoyable enough, despite the predictability of the overall plot. Ending is a bit disappointing, but only a bit, as it leaves an important plot point hanging. I hope we see these characters again sometime... 
+Overall: Enjoyable enough, despite the predictability of the overall plot. Ending is a bit disappointing, but only a bit, as it leaves an important plot point hanging. I hope we see these characters again sometime...

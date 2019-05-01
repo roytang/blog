@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-03-09 01:30:55
+tags:
+- Software Development
 title: Fake Devs and Whiteboard Interviews
 type: post
 url: /2017/03/fake-devs-and-whiteboard-interviews/

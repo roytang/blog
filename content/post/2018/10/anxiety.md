@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2018-10-30 05:03:07
 title: Anxiety
 type: post

@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-04-13 15:07:00
 title: Nuns and Earthquakes
 type: post

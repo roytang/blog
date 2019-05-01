@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2016-11-29 01:30:44
+tags:
 - Opinions
 - Self-Improvement
-date: 2016-11-29 01:30:44
 title: Are you willing to accept criticism?
 type: post
 url: /2016/11/are-you-willing-to-accept-criticism/

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2007-11-30 03:11:51
+tags:
+- Philippines
 title: Drama at the Manila Pen
 type: post
 url: /2007/11/drama-at-the-manila-pen/

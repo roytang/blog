@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-02-02 01:30:25
+tags:
+- Software Development
 title: Handling unexpected errors in web applications
 type: post
 url: /2017/02/handling-unexpected-errors-in-web-applications/

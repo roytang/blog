@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-12-23 19:47:09
 title: Spare Time
 type: post

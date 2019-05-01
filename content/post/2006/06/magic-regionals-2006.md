@@ -1,8 +1,9 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2006-06-19 18:17:11
-title: "Magic -- Regionals 2006"
+tags:
+- Magic the Gathering
+title: Magic -- Regionals 2006
 type: post
 url: /2006/06/magic-regionals-2006/
 ---

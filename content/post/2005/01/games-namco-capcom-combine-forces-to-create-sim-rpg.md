@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-01-27 15:21:37
+tags:
+- Gaming
 title: 'Games: Namco, Capcom Combine Forces to Create Sim-RPG'
 type: post
 url: /2005/01/games-namco-capcom-combine-forces-to-create-sim-rpg/

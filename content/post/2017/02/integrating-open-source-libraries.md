@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-02-16 01:30:00
+tags:
+- Software Development
 title: Integrating Open Source Libraries
 type: post
 url: /2017/02/integrating-open-source-libraries/

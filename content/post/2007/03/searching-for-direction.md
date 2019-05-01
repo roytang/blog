@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-03-11 08:26:36
 title: Searching for Direction
 type: post
@@ -28,4 +27,4 @@ When I started to write this post I meant to end it with "And if I can't pick a 
 
 Will I choose an ordinary life or a daring life of adventure? Or try to pursue both ends, working as a mild-mannered programmer by day, and writing my own destiny by night?
 
-Well... this post didn't end quite like I'd hoped. That happens sometimes... 
+Well... this post didn't end quite like I'd hoped. That happens sometimes...

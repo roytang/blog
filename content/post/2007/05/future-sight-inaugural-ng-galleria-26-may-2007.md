@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-05-27 08:58:39
+tags:
+- Magic the Gathering
 title: Future Sight Inaugural @ NG Galleria 26-May-2007
 type: post
 url: /2007/05/future-sight-inaugural-ng-galleria-26-may-2007/

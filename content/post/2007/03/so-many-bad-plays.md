@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-03-24 03:07:13
+tags:
+- Magic the Gathering
 title: So Many Bad Plays
 type: post
 url: /2007/03/so-many-bad-plays/

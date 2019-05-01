@@ -1,10 +1,10 @@
 ---
 author: roy
-date: 2019-03-27T13:56:56+08:00
-type: post
-categories:
+categories: []
+date: 2019-03-27 05:56:56
+tags:
 - Tech Life
-title: "Export your social media data"
+title: Export your social media data
 type: post
 ---
 

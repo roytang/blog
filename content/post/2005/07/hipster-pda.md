@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2005-07-10 16:28:00
+tags:
+- Tech Life
 title: Hipster PDA?
 type: post
 url: /2005/07/hipster-pda/

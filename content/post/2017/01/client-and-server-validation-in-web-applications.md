@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-01-05 01:30:39
+tags:
+- Software Development
 title: Client and Server Validation in Web applications
 type: post
 url: /2017/01/client-and-server-validation-in-web-applications/

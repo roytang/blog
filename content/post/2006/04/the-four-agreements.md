@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Self-Improvement
+categories: []
 date: 2006-04-23 04:14:35
+tags:
+- Self-Improvement
 title: The Four Agreements
 type: post
 url: /2006/04/the-four-agreements/

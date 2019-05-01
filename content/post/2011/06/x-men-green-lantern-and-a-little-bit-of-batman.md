@@ -2,13 +2,13 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2011-06-24 14:57:28
 tags:
 - Comics
 - Movies
 - Review
+- Pop Culture
 title: X-Men, Green Lantern and a little bit of Batman
 type: post
 url: /2011/06/x-men-green-lantern-and-a-little-bit-of-batman/

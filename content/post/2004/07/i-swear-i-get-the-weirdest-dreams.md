@@ -1,9 +1,8 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-07-01 11:29:12
-title: "I swear I get the weirdest dreams"
+title: I swear I get the weirdest dreams
 type: post
 url: /2004/07/i-swear-i-get-the-weirdest-dreams/
 ---

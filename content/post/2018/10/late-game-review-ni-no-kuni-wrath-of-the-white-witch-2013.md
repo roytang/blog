@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2018-10-13 01:00:15
 tags:
 - late-game-review
 - Review
-title: "Late Game Review -- Ni No Kuni: Wrath of the White Witch (2013)"
+- Gaming
+title: 'Late Game Review -- Ni No Kuni: Wrath of the White Witch (2013)'
 type: post
 url: /2018/10/late-game-review-ni-no-kuni-wrath-of-the-white-witch-2013/
 ---

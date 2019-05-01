@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2005-07-10 15:31:00
-title: "Gloriagate -- Notes on the PCIJ Transcript"
+tags:
+- Philippines
+title: Gloriagate -- Notes on the PCIJ Transcript
 type: post
 url: /2005/07/gloriagate-notes-on-the-pcij-transcript/
 ---

@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2015-02-11 05:48:37
 tags:
 - grand-prix
 - standard
 - tournament-report
+- Magic the Gathering
 title: Grand Prix Manila 2015
 type: post
 url: /2015/02/grand-prix-manila-2015/

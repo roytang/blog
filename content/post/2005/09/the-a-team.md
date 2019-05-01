@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-09-05 03:29:00
 tags:
 - TV Series
+- Pop Culture
 title: The A-Team!
 type: post
 url: /2005/09/the-a-team/

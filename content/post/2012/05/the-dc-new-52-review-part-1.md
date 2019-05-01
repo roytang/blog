@@ -2,11 +2,11 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2012-05-27 15:08:32
 tags:
 - Comics
+- Pop Culture
 title: The DC New 52 Review (Part 1)
 type: post
 url: /2012/05/the-dc-new-52-review-part-1/

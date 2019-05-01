@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-01-10 15:25:00
+tags:
+- Tech Life
 title: Adventures in Linux Land, Part 1
 type: post
 url: /2006/01/adventures-in-linux-land-part-1/

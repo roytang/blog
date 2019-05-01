@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-01-23 06:00:31
-title: "Games: Star Ocean -- Till the End of Time"
+tags:
+- Gaming
+title: 'Games: Star Ocean -- Till the End of Time'
 type: post
 url: /2005/01/games-star-ocean-till-the-end-of-time/
 ---

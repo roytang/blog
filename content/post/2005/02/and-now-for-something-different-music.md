@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-02-17 14:15:00
 tags:
 - Music
-title: "And Now For Something Different -- Music"
+- Pop Culture
+title: And Now For Something Different -- Music
 type: post
 url: /2005/02/and-now-for-something-different-music/
 ---

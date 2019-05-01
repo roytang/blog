@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2018-01-01 01:00:03
 title: My 2017 in numbers
 type: post

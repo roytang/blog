@@ -1,12 +1,11 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
+date: 2019-01-20 05:56:56
 tags:
 - chess
 - bucket list
-date: 2019-01-20T13:56:56+08:00
-title: "Chess in the Park!"
+title: Chess in the Park!
 type: post
 ---
 

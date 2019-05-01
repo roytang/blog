@@ -1,13 +1,12 @@
 ---
-categories:
-- Just Another Day
 author: roy
+categories: []
 date: 2018-11-12 03:06:26
 publishdate: 2018-11-12 03:06:26
+slug: communicating-clearly-next-weekend
 tags:
 - communication
-title: "Communicating Clearly: \"Next weekend\""
-slug: communicating-clearly-next-weekend
+title: 'Communicating Clearly: "Next weekend"'
 ---
 
 Had a slightly confusing conversation a couple of weeks ago with my mom which went something like:

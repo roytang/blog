@@ -2,10 +2,9 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2011-03-30 23:28:57
-title: "Maybe I'm just heartless"
+title: Maybe I'm just heartless
 type: post
 url: /2011/03/maybe-im-just-heartless/
 ---

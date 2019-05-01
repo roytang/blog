@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2010-06-25 08:00:46
 title: Free Time
 type: post

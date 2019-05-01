@@ -1,13 +1,13 @@
 ---
 author: roy
-categories:
-- Self-Improvement
-- Meta
-- Tech Life
+categories: []
 date: 2018-03-01 01:00:07
 tags:
 - Learning Things
-title: "Let's Encrypt!"
+- Self-Improvement
+- Meta
+- Tech Life
+title: Let's Encrypt!
 type: post
 url: /2018/03/lets-encrypt/
 ---

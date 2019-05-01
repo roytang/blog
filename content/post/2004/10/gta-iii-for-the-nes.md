@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-10-29 15:14:40
+tags:
+- Gaming
 title: GTA III for the NES?
 type: post
 url: /2004/10/gta-iii-for-the-nes/

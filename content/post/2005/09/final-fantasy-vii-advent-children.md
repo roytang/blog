@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-09-17 16:11:00
-title: "Final Fantasy VII -- Advent Children"
+tags:
+- Gaming
+title: Final Fantasy VII -- Advent Children
 type: post
 url: /2005/09/final-fantasy-vii-advent-children/
 ---

@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2008-09-08 00:00:35
-title: "Blast From The Past -- 2004 Desktop"
+tags:
+- Meta
+title: Blast From The Past -- 2004 Desktop
 type: post
 url: /2008/09/blast-from-the-past-2004-desktop/
 ---

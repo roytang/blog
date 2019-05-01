@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2004-07-04 01:52:03
 tags:
 - Movies
+- Pop Culture
 title: 'Movies: Spiderman 2'
 type: post
 url: /2004/07/movies-spiderman-2/

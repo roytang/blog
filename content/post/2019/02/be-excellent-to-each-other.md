@@ -1,15 +1,14 @@
 ---
 author: roy
-date: 2019-02-18T13:56:56+08:00
-type: post
-categories:
-- Pop Culture
+categories: []
+date: 2019-02-18 05:56:56
+featuredImage: https://roytang.net/uploads/2019/be-excellent.jpg
 tags:
 - movies
 - quotes
-title: "Be excellent to each other, and party on, dudes"
+- Pop Culture
+title: Be excellent to each other, and party on, dudes
 type: post
-featuredImage: https://roytang.net/uploads/2019/be-excellent.jpg
 ---
 
 ![](/uploads/2019/be-excellent.jpg)

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-10-05 15:45:04
+tags:
+- Tech Life
 title: Bayan DSL Proxy
 type: post
 url: /2008/10/bayan-dsl-proxy/

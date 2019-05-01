@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Self-Improvement
+categories: []
 date: 2008-06-01 00:35:45
+tags:
+- Self-Improvement
 title: Above Average
 type: post
 url: /2008/06/above-average/

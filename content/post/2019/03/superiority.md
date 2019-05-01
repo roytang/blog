@@ -1,12 +1,10 @@
 ---
 author: roy
-date: 2019-03-22T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
+categories: []
+date: 2019-03-22 05:56:56
 tags:
 - quotes
-title: "Hemingway on Superiority"
+title: Hemingway on Superiority
 type: post
 ---
 

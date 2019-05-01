@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2010-06-08 23:20:52
+tags:
+- Tech Life
 title: The Setup
 type: post
 url: /2010/06/the-setup/

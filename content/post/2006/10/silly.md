@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-10-16 08:18:50
 title: Silly
 type: post

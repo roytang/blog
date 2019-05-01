@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2017-01-10 01:30:33
+tags:
+- Opinions
 title: Thoughts on Authoritarianism vs Democracy
 type: post
 url: /2017/01/thoughts-on-authoritarianism-vs-democracy/

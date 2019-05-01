@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2004-10-22 13:49:34
+tags:
+- Tech Life
 title: Energy Bliss
 type: post
 url: /2004/10/energy-bliss/

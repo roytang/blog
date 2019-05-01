@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Self-Improvement
-- Pop Culture
+categories: []
+date: 2019-01-15 05:56:56
 tags:
 - books
-date: 2019-01-15T13:56:56+08:00
+- Self-Improvement
+- Pop Culture
 title: Konmari
 type: post
 ---
@@ -27,4 +27,3 @@ I think this kind of decluttering and minimalism doesn't just apply to possessio
 There's sometimes a bigger picture to look at too. Maybe a specific thing doesn't "bring you joy", but your gradnchildren really like seeing that thing when they visit, and seeing them happy brings you joy, so you keep it anyway. 
 
 Maybe the bigger lesson is to not rely on someone from a Netflix show to tell you how to live your life. It's good to take advice from other people, but everyone has different tastes and different things can bring you joy. You decide what brings you joy.
-

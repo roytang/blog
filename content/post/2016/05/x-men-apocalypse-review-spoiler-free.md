@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2016-05-20 18:10:52
 tags:
 - Comics
 - Movies
+- Pop Culture
 title: X-Men Apocalypse Review (Spoiler-Free)
 type: post
 url: /2016/05/x-men-apocalypse-review-spoiler-free/

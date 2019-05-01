@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2013-03-24 16:44:57
 title: Scenes from a Quiz Night
 type: post

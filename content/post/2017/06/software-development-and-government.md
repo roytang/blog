@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2017-06-29 01:30:34
+tags:
 - Philippines
 - Software Development
-date: 2017-06-29 01:30:34
 title: Software Development and Government
 type: post
 url: /2017/06/software-development-and-government/

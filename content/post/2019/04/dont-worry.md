@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-04-06T13:56:56+08:00
-title: "Don't worry, be happy"
+categories: []
+date: 2019-04-06 05:56:56
+title: Don't worry, be happy
 type: post
 ---
 

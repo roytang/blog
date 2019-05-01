@@ -1,10 +1,11 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2017-01-01 05:30:04
+tags:
 - Opinions
 - Self-Improvement
-date: 2017-01-01 05:30:04
-title: "New Year's Checklist"
+title: New Year's Checklist
 type: post
 url: /2017/01/new-years-checklist/
 ---

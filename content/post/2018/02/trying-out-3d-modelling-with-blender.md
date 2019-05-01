@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Self-Improvement
+categories: []
 date: 2018-02-01 01:00:54
 tags:
 - Learning Things
+- Self-Improvement
 title: Trying out 3d Modelling with Blender
 type: post
 url: /2018/02/trying-out-3d-modelling-with-blender/

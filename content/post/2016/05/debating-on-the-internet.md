@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-05-24 00:30:51
+tags:
+- Opinions
 title: Debating On The Internet
 type: post
 url: /2016/05/debating-on-the-internet/

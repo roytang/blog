@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2007-07-28 20:50:33
+tags:
+- Software Development
 title: Rich Internet Applications
 type: post
 url: /2007/07/rich-internet-applications/

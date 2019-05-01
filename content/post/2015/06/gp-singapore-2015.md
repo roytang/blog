@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2015-06-29 06:37:38
+tags:
+- Magic the Gathering
 title: GP Singapore 2015
 type: post
 url: /2015/06/gp-singapore-2015/

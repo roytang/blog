@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2018-12-17T09:56:56+08:00
-title: "The Spaces In Between"
+categories: []
+date: 2018-12-17 01:56:56
+title: The Spaces In Between
 type: post
 ---
 

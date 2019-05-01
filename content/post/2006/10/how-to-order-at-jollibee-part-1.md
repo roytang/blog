@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-10-02 10:57:28
 title: How to Order at Jollibee, Part 1
 type: post

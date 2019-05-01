@@ -1,10 +1,10 @@
 ---
 author: roy
-date: 2019-03-26T13:56:56+08:00
-type: post
-categories:
+categories: []
+date: 2019-03-26 05:56:56
+tags:
 - Tech Life
-title: "Google Plus is dying"
+title: Google Plus is dying
 type: post
 ---
 

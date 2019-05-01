@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2007-08-11 08:29:20
+tags:
+- Software Development
 title: Announcing PyMTG
 type: post
 url: /2007/08/announcing-pymtg/

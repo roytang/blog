@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-09-08 01:30:02
+tags:
+- Software Development
 title: Will AI replace all our jobs?
 type: post
 url: /2016/09/will-ai-replace-all-our-jobs/

@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Philippines
+categories: []
 date: 2018-10-21 01:00:34
+tags:
+- Philippines
 title: The QC Memorial Circle
 type: post
 url: /2018/10/the-qc-memorial-circle/

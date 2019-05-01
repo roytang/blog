@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2003-11-09 04:26:26
+tags:
+- Gaming
 title: Revolutions
 type: post
 url: /2003/11/revolutions/

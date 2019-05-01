@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-06-17 05:52:09
 title: Not Very Mainstream
 type: post

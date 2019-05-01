@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-05-23 14:50:00
 title: Hypertension
 type: post

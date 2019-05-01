@@ -1,12 +1,11 @@
 ---
 author: roy
-date: 2019-02-25T13:56:56+08:00
-type: post
-categories:
-- Philippines
+categories: []
+date: 2019-02-25 05:56:56
 tags:
 - current events
-title: "EDSA"
+- Philippines
+title: EDSA
 type: post
 ---
 

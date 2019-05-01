@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-04-13 01:26:20
 title: Scorching Heat
 type: post

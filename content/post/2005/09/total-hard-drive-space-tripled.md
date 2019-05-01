@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2005-09-05 03:16:00
+tags:
+- Tech Life
 title: 'Total Hard Drive Space: Tripled!'
 type: post
 url: /2005/09/total-hard-drive-space-tripled/

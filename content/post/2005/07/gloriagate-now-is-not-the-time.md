@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2005-07-12 15:03:00
-title: "Gloriagate -- Now is not the time"
+tags:
+- Philippines
+title: Gloriagate -- Now is not the time
 type: post
 url: /2005/07/gloriagate-now-is-not-the-time/
 ---

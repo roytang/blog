@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2005-05-02 15:16:46
 tags:
 - Hardware
+- Tech Life
 title: "PIMP MY RIG \xE2\u20AC\u201D we test parts for you.."
 type: post
 url: /2005/05/pimp-my-rig-we-test-parts-for-you/

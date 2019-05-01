@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2009-08-09 12:43:04
 tags:
 - birthday

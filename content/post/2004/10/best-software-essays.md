@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2004-10-27 15:24:38
+tags:
+- Software Development
 title: Best Software Essays
 type: post
 url: /2004/10/best-software-essays/

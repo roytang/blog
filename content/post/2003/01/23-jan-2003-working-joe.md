@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2003-01-23 01:30:28
 tags:
 - Legacy Blog Posts
+- Software Development
 title: '23 Jan 2003: Working Joe'
 type: post
 url: /2003/01/23-jan-2003-working-joe/

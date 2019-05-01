@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2008-07-17 16:16:12
 tags:
 - Movies
-title: "Movies -- The Dark Knight"
+- Pop Culture
+title: Movies -- The Dark Knight
 type: post
 url: /2008/07/movies-the-dark-knight/
 ---

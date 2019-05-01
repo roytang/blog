@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2010-04-09 17:41:45
+tags:
+- Magic the Gathering
 title: MTG Storm!
 type: post
 url: /2010/04/mtg-storm/

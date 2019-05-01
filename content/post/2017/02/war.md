@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2017-02-14 01:30:56
+tags:
 - Opinions
 - Philippines
-date: 2017-02-14 01:30:56
 title: War
 type: post
 url: /2017/02/war/

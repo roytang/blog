@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2007-09-22 21:49:17
 tags:
 - Books
-title: "Ender's Game Series"
+- Pop Culture
+title: Ender's Game Series
 type: post
 url: /2007/09/ender39s-game-series/
 ---

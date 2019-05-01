@@ -1,9 +1,12 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-04-29 05:56:56
+tags:
 - Pop Culture
-date: 2019-04-29T13:56:56+08:00
-title: "Watching Lately: April 2019"
+- Movies
+- TV
+title: 'Watching Lately: April 2019'
 type: post
 ---
 
@@ -16,4 +19,3 @@ TV-wise, I've been on a rewatch binge of **30 Rock** that unfortunately started 
 Both **Star Trek Discovery** and **The Orville** finished their second seasons this month. Discovery closed off their time loops neatly and sent the Discovery into an unknown future, meaning they get to start season 3 now no longer bound by Star Trek history and free to forge their own path. The season was ok, I enjoyed the classic Trek references and all the timey-wimey stuff. The Orville had a great season, with the introduction of a new enemy empire and possibly one of the best TV space battles of all time. They ended their season with a timey-wimey episode as well, looks like that's a trend for April.
 
 **Game of Thrones** final season started up in April of course, and its only halfway through. I'll probably have a lot more to say about it when the season ends in May.
-

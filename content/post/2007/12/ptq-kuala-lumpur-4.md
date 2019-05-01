@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-12-24 01:30:42
+tags:
+- Magic the Gathering
 title: 'PTQ Kuala Lumpur #4'
 type: post
 url: /2007/12/ptq-kuala-lumpur-4/
@@ -443,4 +444,4 @@ Round 7: 0-2 loss. Bleah. I think my play was tight, but he just drew better car
 
 A 3-4 finish, how terrible. Before this season I had actually envisioned myself as a decent limited player. Obviously, Lorwyn limited is hard, I need to do so much to improve my deck construction and technical play.
 
-Next: Morningtide Release Events? I won't be able to play in the prerelease since I'll be out of town... 
+Next: Morningtide Release Events? I won't be able to play in the prerelease since I'll be out of town...

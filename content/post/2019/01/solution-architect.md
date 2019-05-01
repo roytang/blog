@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-01-07 05:56:56
+tags:
 - Software Development
-date: 2019-01-07T13:56:56+08:00
-title: "Solution Architect"
+title: Solution Architect
 type: post
 ---
 
@@ -21,5 +22,4 @@ Interestingly, the term "solution architect" has been increasing in usage over t
 
 *(I originally tried Google Trend's embed option, but the embedded chart kept crashing my browser tab, so now you get a screen capture instead)*
 
-If you'd asked me five years ago I would have said such a role was within the scope of a senior engineer or technical lead. I guess as time goes on, the role becomes more distinct and formalized? At this point, I think the concept might still be a bit too nebulous for anyone to really specialize in it though. 
-
+If you'd asked me five years ago I would have said such a role was within the scope of a senior engineer or technical lead. I guess as time goes on, the role becomes more distinct and formalized? At this point, I think the concept might still be a bit too nebulous for anyone to really specialize in it though.

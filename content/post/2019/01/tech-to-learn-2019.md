@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-01-08 05:56:56
+tags:
 - Software Development
-date: 2019-01-08T13:56:56+08:00
-title: "Tech to Learn in 2019"
+title: Tech to Learn in 2019
 type: post
 ---
 

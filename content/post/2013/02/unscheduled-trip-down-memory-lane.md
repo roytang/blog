@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2013-02-08 06:50:44
 tags:
 - Nostalgia

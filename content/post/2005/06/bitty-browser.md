@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2005-06-08 22:26:00
+tags:
+- Tech Life
 title: Bitty Browser
 type: post
 url: /2005/06/bitty-browser/

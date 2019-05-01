@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2006-12-27 11:42:14
+tags:
+- Gaming
 title: Japan is Furious about Dragon Quest IX
 type: post
 url: /2006/12/japan-is-furious-about-dragon-quest-ix/

@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-02-26 01:14:08
 title: WWE Raw In Manila!
 type: post

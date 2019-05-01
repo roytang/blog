@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-07-26 01:30:39
+tags:
+- Opinions
 title: The Promise of Social Media
 type: post
 url: /2016/07/the-promise-of-social-media/

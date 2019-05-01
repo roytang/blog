@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Writing
+categories: []
+date: 2019-01-10 05:56:56
 tags:
 - blogging
-date: 2019-01-10T13:56:56+08:00
-title: "Not all posts have to be profound"
+- Writing
+title: Not all posts have to be profound
 type: post
 ---
 

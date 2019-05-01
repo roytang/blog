@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2003-10-27 14:39:38
+tags:
+- Meta
 title: New Beginning
 type: post
 url: /2003/10/new-beginning/

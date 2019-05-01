@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2016-12-30 00:44:30
 tags:
 - Review
+- Gaming
 title: 'Review: Xenoblade Chronicles X'
 type: post
 url: /2016/12/review-xenoblade-chronicles-x/

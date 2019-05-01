@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-04-09 22:36:09
 title: The Gender Genie
 type: post

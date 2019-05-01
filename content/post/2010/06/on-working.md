@@ -1,9 +1,9 @@
 ---
 author: Roy
-categories:
-- Just Another Day
-- Opinions
+categories: []
 date: 2010-06-22 16:05:11
+tags:
+- Opinions
 title: On Working
 type: post
 url: /2010/06/on-working/

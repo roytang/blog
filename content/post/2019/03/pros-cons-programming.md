@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
+date: 2019-03-12 05:56:56
 tags:
 - quora
-date: 2019-03-12T13:56:56+08:00
-title: "What are the pros and cons of a programming career?"
+- Software Development
+title: What are the pros and cons of a programming career?
 type: post
 ---
 

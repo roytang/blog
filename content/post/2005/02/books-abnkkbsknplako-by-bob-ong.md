@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-02-01 05:06:00
 tags:
 - Books
+- Pop Culture
 title: 'Books: ABNKKBSKNPLAko? by Bob Ong'
 type: post
 url: /2005/02/books-abnkkbsknplako-by-bob-ong/

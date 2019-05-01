@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2008-01-16 06:37:45
+tags:
+- Gaming
 title: 'Advance Wars: Dual Strike'
 type: post
 url: /2008/01/advance-wars-dual-strike/

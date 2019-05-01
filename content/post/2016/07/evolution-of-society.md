@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-07-19 01:30:19
+tags:
+- Opinions
 title: Evolution of Society
 type: post
 url: /2016/07/evolution-of-society/

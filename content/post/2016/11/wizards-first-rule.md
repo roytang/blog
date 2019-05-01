@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-11-22 01:30:07
-title: "Wizard's First Rule and Demagoguery"
+tags:
+- Opinions
+title: Wizard's First Rule and Demagoguery
 type: post
 url: /2016/11/wizards-first-rule/
 ---

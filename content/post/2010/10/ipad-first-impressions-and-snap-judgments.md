@@ -2,9 +2,10 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2010-10-24 04:28:52
+tags:
+- Tech Life
 title: 'iPad: First Impressions and Snap Judgments'
 type: post
 url: /2010/10/ipad-first-impressions-and-snap-judgments/

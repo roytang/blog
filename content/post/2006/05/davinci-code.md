@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-05-17 16:07:35
 tags:
 - Movies
+- Pop Culture
 title: DaVinci Code
 type: post
 url: /2006/05/davinci-code/

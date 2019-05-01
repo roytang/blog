@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-12-16 01:56:56
+tags:
 - Pop Culture
-date: 2018-12-16T09:56:56+08:00
-title: "Watching Too Much TV?"
+title: Watching Too Much TV?
 type: post
 ---
 

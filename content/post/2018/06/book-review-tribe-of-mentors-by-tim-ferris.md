@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
-- Self-Improvement
+categories: []
 date: 2018-06-17 01:00:03
 tags:
 - Books
+- Pop Culture
+- Self-Improvement
 title: 'Book Review: Tribe of Mentors by Tim Ferris'
 type: post
 url: /2018/06/book-review-tribe-of-mentors-by-tim-ferris/

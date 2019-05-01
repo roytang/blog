@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2008-02-09 19:10:15
+tags:
+- Gaming
 title: I have a PSP
 type: post
 url: /2008/02/i-have-a-psp/
@@ -18,4 +19,4 @@ so I can beat up the guys at work is a strong incentive to buy a 2nd PSP. But I'
 
 After the end of the lifetime of the PS2, I had been thinking that I may never again play console-style long games in the vein of **Final Fantasy**, but the PSP can possibly bring me back into that fold. PSX-style games on a handheld is huge, as one of the biggest drawbacks of playing on a console was needing to be stuck in front of a television to play those games. Amusingly, most of the games I have on the PSP now are ports/remakes of Playstation-era (or earlier!) games, which shows my preference for older games. I'm not even aware of what other games are available now -- FF Tactics takes up way too much of my mindspace.
 
-I need to go play some more... 
+I need to go play some more...

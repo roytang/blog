@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2004-10-24 05:53:33
+tags:
+- Software Development
 title: Sinfest!
 type: post
 url: /2004/10/sinfest/

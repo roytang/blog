@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-01-02 05:56:56
+tags:
 - Self-Improvement
-date: 2019-01-02T13:56:56+08:00
-title: "Don't Break the Chain"
+title: Don't Break the Chain
 type: post
 ---
 
@@ -16,4 +17,3 @@ It helps if you're tracking how long your current streak is, either via a calend
 Of course, at some point you're going to fail, and the streak will break. We're only human after all, and [we don't have to be on all the time](/2018/10/you-dont-have-to-be-on-all-the-time/). Failures happen, and that's okay. If the activity is important to you, it should be a simple matter to simply try again and start the chain over. This is of course, a point of weakness: at the time you break the chain, this is when you are most vulnerable to quitting. That's why you have to minimize breaking the chain.
 
 Not all NYRs or recurring activities have to go on forever though. Sometimes you just want to do 30-day challenges. Or maybe you want to try this activity for a while to see if it works out for you. No need to push yourself to continue with a chain that you find isn't worthwhile.
-

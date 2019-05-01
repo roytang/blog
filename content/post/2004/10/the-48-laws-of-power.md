@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2004-10-25 15:36:12
 tags:
 - Books
+- Pop Culture
 title: The 48 Laws of Power
 type: post
 url: /2004/10/the-48-laws-of-power/

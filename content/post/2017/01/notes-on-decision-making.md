@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2017-01-24 01:30:20
+tags:
+- Opinions
 title: Notes on Decision Making
 type: post
 url: /2017/01/notes-on-decision-making/

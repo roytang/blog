@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2004-12-24 13:30:39
+tags:
+- Software Development
 title: Excel problem
 type: post
 url: /2004/12/excel-problem/

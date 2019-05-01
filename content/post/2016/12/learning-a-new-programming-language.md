@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-12-22 01:30:46
+tags:
+- Software Development
 title: Learning a New Programming Language
 type: post
 url: /2016/12/learning-a-new-programming-language/

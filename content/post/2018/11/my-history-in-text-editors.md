@@ -1,14 +1,15 @@
 ---
-title: My history in text editors
 author: roy
+categories: []
+date: 2018-11-10 05:07:22
+tags:
+- Tech Life
+- Software Development
+title: My history in text editors
 type: post
-date: 2018-11-10T05:07:22+00:00
 url: /2018/11/my-history-in-text-editors/
-categories:
-  - Tech Life
-  - Software Development
-
 ---
+
 Text editors (and by extension IDEs) are a programmer&#8217;s best friend. I thought I&#8217;d look back at a number of text editors I&#8217;ve used over the years. (I grew up with Windows, so I won&#8217;t list vim/emacs/nano here, even though I&#8217;m at least a bit proficient with vim by now. That is, I know how to exit vim.)
 
   1. Notepad -- of course, the default editor in Windows. The one we turn to when all else fails. It used to be pretty bad at handling UTF-8 and probably just gives up on large files, but for quick and dirty work, it&#8217;s sufficient.  

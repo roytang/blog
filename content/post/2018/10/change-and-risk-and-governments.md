@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Philippines
-- Opinions
-- Software Development
+categories: []
 date: 2018-10-31 05:03:25
 tags:
 - Politics
+- Philippines
+- Opinions
+- Software Development
 title: Change and Risk and Governments
 type: post
 url: /2018/10/change-and-risk-and-governments/

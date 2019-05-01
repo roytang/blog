@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Travels
+categories: []
 date: 2007-02-06 13:34:33
+tags:
+- Travels
 title: Should I Go Across The World?
 type: post
 url: /2007/02/should-i-go-across-the-world/

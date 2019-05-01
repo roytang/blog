@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Self-Improvement
+categories: []
 date: 2016-12-20 01:30:19
+tags:
+- Self-Improvement
 title: Learning New Skills
 type: post
 url: /2016/12/learning-new-skills/

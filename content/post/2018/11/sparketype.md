@@ -1,6 +1,5 @@
 ---
-categories:
-- Just Another Day
+categories: []
 date: 2018-11-15 02:00:21
 publishdate: 2018-11-15 02:00:21
 tags:

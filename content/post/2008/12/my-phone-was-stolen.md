@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2008-12-20 04:38:21
 title: My Phone Was Stolen
 type: post

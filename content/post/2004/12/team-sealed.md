@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2004-12-06 13:59:44
+tags:
+- Magic the Gathering
 title: Team Sealed!
 type: post
 url: /2004/12/team-sealed/

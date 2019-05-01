@@ -1,13 +1,13 @@
 ---
 author: Roy
-categories:
-- Pop Culture
-- Philippines
+categories: []
 date: 2005-12-11 09:26:00
 tags:
 - Music
 - Review
-title: "Music - Ultraelectromagnetic Jam"
+- Pop Culture
+- Philippines
+title: Music - Ultraelectromagnetic Jam
 type: post
 url: /2005/12/music-ultraelectromagnetic-jam/
 ---

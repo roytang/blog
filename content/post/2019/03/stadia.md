@@ -1,12 +1,11 @@
 ---
 author: roy
-date: 2019-03-23T13:56:56+08:00
-type: post
-categories:
-- Gaming
+categories: []
+date: 2019-03-23 05:56:56
 tags:
 - stadia
-title: "Google Stadia"
+- Gaming
+title: Google Stadia
 type: post
 ---
 

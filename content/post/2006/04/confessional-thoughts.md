@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-04-13 18:34:40
 title: Confessional Thoughts
 type: post

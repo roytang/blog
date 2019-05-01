@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Meta
-- Software Development
+categories: []
 date: 2005-03-25 11:35:00
 tags:
 - javascript
+- Meta
+- Software Development
 title: In Progress, But Sleepy
 type: post
 url: /2005/03/in-progress-but-sleepy/

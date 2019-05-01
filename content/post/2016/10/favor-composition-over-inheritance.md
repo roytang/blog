@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-10-20 01:30:10
+tags:
+- Software Development
 title: Favor Composition Over Inheritance
 type: post
 url: /2016/10/favor-composition-over-inheritance/

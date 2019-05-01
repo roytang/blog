@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-06-22 16:04:00
 title: Radio is so Primitive
 type: post

@@ -1,10 +1,11 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-04-20 05:56:56
+tags:
 - Tech Life
 - Gaming
-date: 2019-04-20T13:56:56+08:00
-title: "Mobile games have a short shelf life"
+title: Mobile games have a short shelf life
 type: post
 ---
 
@@ -17,4 +18,3 @@ I noticed this a while back when I was looking at what games I had previously pu
 Unlike consoles where the platform SDK is locked in for an entire generation, mobile app SDKs are updated on a regular basis, which means mobile game devs need to support the equivalent of new console platforms more than once a year. Mobile gaming fares even worse than PC gaming, despite the wide variety of PC configurations, the software-level support for games is pretty much standardized at the OS-level and companies like Microsoft are careful to support backward compatibility.
 
 One of my pipe dreams is of course to get into game development, and for a while I considered mobile as a possible option for that (if I ever get around to it), but with the state of the ecosystem these days that seems unlikely.
-

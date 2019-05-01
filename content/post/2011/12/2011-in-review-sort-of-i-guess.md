@@ -2,8 +2,7 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2011-12-31 11:26:02
 title: 2011 in Review. Sort of. I guess.
 type: post

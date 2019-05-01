@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Links
+categories: []
 date: 2006-10-03 13:06:40
+tags:
+- Links
 title: Webcomics I Like, 2006 Edition
 type: post
 url: /2006/10/webcomics-i-like-2006-edition/

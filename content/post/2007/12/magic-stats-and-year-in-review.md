@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-12-26 17:34:01
+tags:
+- Magic the Gathering
 title: Magic Stats! (And Year in Review)
 type: post
 url: /2007/12/magic-stats-and-year-in-review/

@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Links
+categories: []
 date: 2006-02-24 00:00:02
 format: link
+tags:
+- Links
 title: Del.icio.us bookmarks for 2006-02-24
 type: post
 url: /2006/02/del-icio-us-bookmarks-for-2006-02-24/

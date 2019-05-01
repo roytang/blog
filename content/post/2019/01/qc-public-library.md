@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
+date: 2019-01-21 05:56:56
 tags:
 - quezon city
 - books
-date: 2019-01-21T13:56:56+08:00
-title: "The Quezon City Public Library"
+- Philippines
+title: The Quezon City Public Library
 type: post
 ---
 

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Travels
+categories: []
 date: 2015-04-25 05:56:41
+tags:
+- Travels
 title: 'Europe 2015: Rome and Vatican City'
 type: post
 url: /2015/04/europe-2015-rome-and-vatican-city/

@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-03-11 14:17:00
 title: 'To the Tale, and Other Such Concerns: The Hunt is On'
 type: post

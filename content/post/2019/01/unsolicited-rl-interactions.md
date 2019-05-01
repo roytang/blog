@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
+date: 2019-01-22 05:56:56
 tags:
 - pet peeves
-date: 2019-01-22T13:56:56+08:00
-title: "Unsolicited real-life interactions"
+title: Unsolicited real-life interactions
 type: post
 ---
 
@@ -18,4 +17,3 @@ Like my tweet above says, it's like advertising spam in real life. I'm sure it b
 It's also probably because most of the time if I'm walking around in a mall, I have a specific purpose in mind, whether just to get from point A to point B, or to go to X store to buy Y thing, or trying to catch up on daily walking. Sometimes I'll be in a "exploring" mode, and will probably be more amenable to that kind of thing, but that's a bit rare.
 
 I understand of course that people need to make a living and that stuff needs to be told and there *are* actually people who could use help or might be interested in that condo flier. I wish there was some way to "opt out" of unsolicited marketing in real life. Maybe some sort of statement shirt I could wear that says "Strangers: Don't talk to me unless I talk to you." Since there's not, I just try to avoid contact and maybe have a scary expression on my face. It rarely works though.
-

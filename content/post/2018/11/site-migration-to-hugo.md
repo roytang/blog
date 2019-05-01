@@ -1,12 +1,12 @@
 ---
-categories:
-- Meta
-- Tech Life
+categories: []
 date: 2018-11-14 03:06:26
 publishdate: 2018-11-14 03:06:26
 tags:
 - hugo
 - wordpress
+- Meta
+- Tech Life
 title: Site Migration from Wordpress to Hugo
 ---
 
@@ -106,4 +106,3 @@ Despite the effort, the great thing is that I did learn a few things, so at the 
 - how to create Github Webhooks
 - more .htaccess stuff
 - usage of pathlib.Path in Python3 (no more os.glob for me!)
-  

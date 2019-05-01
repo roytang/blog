@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-12-28 01:00:38
+tags:
+- Software Development
 title: My Coding Approach
 type: post
 url: /2017/12/my-coding-approach/

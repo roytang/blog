@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Links
+categories: []
 date: 2006-03-26 18:00:01
 format: link
+tags:
+- Links
 title: Del.icio.us bookmarks for 2006-03-26
 type: post
 url: /2006/03/del-icio-us-bookmarks-for-2006-03-26/

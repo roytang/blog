@@ -2,14 +2,14 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2010-04-19 11:00:36
 jd_tweet_this:
 - true
 tags:
 - Limited
-title: "Rise of Eldrazi -- Limited Impressions"
+- Magic the Gathering
+title: Rise of Eldrazi -- Limited Impressions
 type: post
 url: /2010/04/rise-of-eldrazi-limited-impressions/
 wp_jd_bitly:

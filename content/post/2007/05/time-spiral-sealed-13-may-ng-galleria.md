@@ -1,8 +1,9 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-05-16 06:39:56
-title: "Time Spiral Sealed -- 13 May @ NG Galleria"
+tags:
+- Magic the Gathering
+title: Time Spiral Sealed -- 13 May @ NG Galleria
 type: post
 url: /2007/05/time-spiral-sealed-13-may-ng-galleria/
 ---

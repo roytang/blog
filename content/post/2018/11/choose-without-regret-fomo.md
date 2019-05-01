@@ -1,12 +1,11 @@
 ---
-title: '"Choose without Regret" and the Fear of Missing Out'
 author: roy
-type: post
-date: 2018-11-22T10:06:56+08:00
-categories:
-  - Just Another Day
+categories: []
+date: 2018-11-22 02:06:56
 tags:
-  - regret
+- regret
+title: '"Choose without Regret" and the Fear of Missing Out'
+type: post
 ---
 
 With the rise of social media, we get to see a lot of things our friends are doing or buying or places they're going to, and this has led to the rise of the phenomenon called FOMO or Fear of Missing Out. It's a type of envy of other people's lives and as a type of envy it's also a form of regret for our own life choices.

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Gaming
+categories: []
 date: 2008-02-28 07:02:16
+tags:
+- Gaming
 title: 'Apollo Justice: Ace Attorney'
 type: post
 url: /2008/02/apollo-justice-ace-attorney/

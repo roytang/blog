@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-03-21 10:58:34
+tags:
+- Magic the Gathering
 title: I Hate Trading
 type: post
 url: /2009/03/i-hate-trading/

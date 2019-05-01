@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-07-14 01:30:07
+tags:
+- Software Development
 title: Certifications
 type: post
 url: /2016/07/certifications/

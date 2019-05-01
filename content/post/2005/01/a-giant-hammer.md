@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-01-24 13:20:55
 title: A Giant Hammer
 type: post

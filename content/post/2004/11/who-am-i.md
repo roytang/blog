@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-11-14 03:00:50
 title: Who Am I?
 type: post

@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2008-06-03 12:17:57
 tags:
 - Movies
 - Review
+- Pop Culture
 title: 'Indiana Jones: Raiders vs Crystal Skull'
 type: post
 url: /2008/06/indiana-jones-quotraidersquot-vs-quotcrystal-skullquot/

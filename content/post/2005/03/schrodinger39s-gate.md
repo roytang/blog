@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-03-20 09:07:00
 title: Schrodinger's Gate
 type: post

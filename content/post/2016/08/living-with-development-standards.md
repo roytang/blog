@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-08-11 01:30:02
+tags:
+- Software Development
 title: Living With Development Standards
 type: post
 url: /2016/08/living-with-development-standards/

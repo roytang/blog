@@ -1,10 +1,10 @@
 ---
 author: roy
-date: 2019-03-16T13:56:56+08:00
-type: post
-categories:
+categories: []
+date: 2019-03-16 05:56:56
+tags:
 - Software Development
-title: "Don't stay in the same place too long"
+title: Don't stay in the same place too long
 type: post
 ---
 
@@ -16,4 +16,4 @@ The main advantage of not staying too long comes in the form of personal growth.
 
 I don't consider this a [regret](/2018/11/choose-without-regret-and-the-fear-of-missing-out/), I'm still pretty happy and satisfied with where I am in life. Thinking about this is more of an alternate universe "what if" scenario. I have to admit that staying that long did have some advantages - I got to work with and meet some good people, younger ones even, who became good friends. But this is not an argument in favor of staying that long, as you would still have the chance to build relationships even if you move on. It's possible in that alternate universe I may have made even better friends or may have even been friends with the same ones I have now somehow.
 
-So, given a chance to give advice to my younger self, I would probably recommend the second path. There is more uncertainty there to be sure, but life is risk, and to live is to explore. Taking the change to move to a new environment optimizes for personal growth, and it's probably better to be doing it when you are young and full of energy. 
+So, given a chance to give advice to my younger self, I would probably recommend the second path. There is more uncertainty there to be sure, but life is risk, and to live is to explore. Taking the change to move to a new environment optimizes for personal growth, and it's probably better to be doing it when you are young and full of energy.

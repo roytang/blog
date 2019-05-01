@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-10-18 14:00:23
 title: Taxi Tales
 type: post

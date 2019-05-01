@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-09-16 23:34:41
+tags:
+- Magic the Gathering
 title: GPT Bangkok 3
 type: post
 url: /2007/09/gpt-bangkok-3/

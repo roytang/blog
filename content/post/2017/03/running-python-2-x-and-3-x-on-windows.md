@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-03-02 01:30:38
 tags:
 - python
+- Software Development
 title: Running Python 2.x and 3.x on Windows
 type: post
 url: /2017/03/running-python-2-x-and-3-x-on-windows/

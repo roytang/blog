@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2004-11-23 15:12:58
 tags:
 - Books
+- Pop Culture
 title: I Like To Read
 type: post
 url: /2004/11/i-like-to-read/

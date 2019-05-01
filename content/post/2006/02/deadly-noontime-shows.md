@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2006-02-05 07:25:44
+tags:
+- Philippines
 title: Deadly Noontime Shows
 type: post
 url: /2006/02/deadly-noontime-shows/

@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Philippines
-- Tech Life
+categories: []
 date: 2016-08-16 01:30:24
 tags:
 - Nostalgia
+- Philippines
+- Tech Life
 title: Internet History
 type: post
 url: /2016/08/internet-history/

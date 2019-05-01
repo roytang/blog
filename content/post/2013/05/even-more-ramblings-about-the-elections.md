@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Opinions
+categories: []
 date: 2013-05-01 14:36:26
+tags:
+- Opinions
 title: Even more ramblings about the elections
 type: post
 url: /2013/05/even-more-ramblings-about-the-elections/

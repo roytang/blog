@@ -1,10 +1,10 @@
 ---
 author: roy
-date: 2019-03-01T13:56:56+08:00
-type: post
-categories:
+categories: []
+date: 2019-03-01 05:56:56
+tags:
 - Gaming
-title: "Ranked Ladders"
+title: Ranked Ladders
 type: post
 ---
 

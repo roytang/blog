@@ -1,13 +1,12 @@
 ---
 author: roy
-date: 2019-02-20T13:56:56+08:00
-type: post
-categories:
-- Software Development
-- Philippines
+categories: []
+date: 2019-02-20 05:56:56
 tags:
 - reddit
-title: "Reddit PH: Software Dev Q&A"
+- Software Development
+- Philippines
+title: 'Reddit PH: Software Dev Q&A'
 type: post
 ---
 
@@ -60,4 +59,3 @@ Ok, sorry I know that explanation doesn't really work for a 5-year old lol
 > [acequeen21](https://www.reddit.com/r/Philippines/comments/arsxjg/afternoon_random_discussion_feb_18_2019/egptmll/): Do you have plans going abroad? Either work temporarily or move permanently. Why or why not?
 
 Nah, I like living here, in spite of everything, and I'm programming avails me a good living naman. I've worked abroad on short stints (pinadala ng company), but TBH, I had never even considered leaving the country long-term, but I started looking into it after 2016. Hassle for me na ma-uproot and to try to start over elsewhere.
-

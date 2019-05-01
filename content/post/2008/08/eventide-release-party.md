@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-08-07 18:04:39
+tags:
+- Magic the Gathering
 title: Eventide Release Party
 type: post
 url: /2008/08/eventide-release-party/

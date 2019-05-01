@@ -1,9 +1,9 @@
 ---
 author: Roy
-categories:
-- Just Another Day
-- Software Development
+categories: []
 date: 2006-01-29 07:26:00
+tags:
+- Software Development
 title: How to Organize a Cluttered Mind?
 type: post
 url: /2006/01/how-to-organize-a-cluttered-mind/

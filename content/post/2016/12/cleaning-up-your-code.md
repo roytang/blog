@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-12-29 01:30:36
+tags:
+- Software Development
 title: Cleaning up your Code
 type: post
 url: /2016/12/cleaning-up-your-code/

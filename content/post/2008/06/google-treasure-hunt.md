@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Software Development
+categories: []
 date: 2008-06-09 06:16:21
+tags:
+- Software Development
 title: Google Treasure Hunt
 type: post
 url: /2008/06/google-treasure-hunt/

@@ -1,10 +1,10 @@
 ---
 author: roy
-date: 2019-03-17T13:56:56+08:00
-type: post
-categories:
+categories: []
+date: 2019-03-17 05:56:56
+tags:
 - Software Development
-title: "Lies and marketing"
+title: Lies and marketing
 type: post
 ---
 
@@ -20,5 +20,4 @@ An example in the software engineering sphere would be a developer writing proje
 
 I understand the motivation from the sales side, but not only is that intellectually dishonest (to say the least), it also puts your engineering teams in a bind should the project push through - you now committed them to do an extra feature without proper estimation or scheduling and so on.
 
-For me it's okay to sell something by promoting its strengths and advantages, but not by being dishonest about its capabilities or weaknesses. I suspect that this cripples me a bit in the real world where people with less scruples are more willing to bend the truth to make money. But for me personally, honesty and integrity are more important than making more sales. 
-
+For me it's okay to sell something by promoting its strengths and advantages, but not by being dishonest about its capabilities or weaknesses. I suspect that this cripples me a bit in the real world where people with less scruples are more willing to bend the truth to make money. But for me personally, honesty and integrity are more important than making more sales.

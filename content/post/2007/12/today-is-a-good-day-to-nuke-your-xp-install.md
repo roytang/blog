@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2007-12-29 08:40:16
+tags:
+- Tech Life
 title: Today is a good day to nuke your XP install
 type: post
 url: /2007/12/today-is-a-good-day-to-nuke-your-xp-install/

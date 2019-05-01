@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2017-06-15 04:22:32
 tags:
 - grand-prix
 - standard
 - tournament-report
+- Magic the Gathering
 title: Grand Prix Manila 2017
 type: post
 url: /2017/06/grand-prix-manila-2017/

@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Tech Life
+categories: []
 date: 2018-05-25 01:00:01
+tags:
+- Tech Life
 title: Logs and Memories and Audit Trails
 type: post
 url: /2018/05/logs-and-memories-and-audit-trails/

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2013-06-15 17:30:08
+tags:
+- Opinions
 title: 'Movie Review: Man of Steel (Spoilers!)'
 type: post
 url: /2013/06/movie-review-man-of-steel-spoilers/

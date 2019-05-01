@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Travels
+categories: []
 date: 2006-12-18 07:13:55
-title: "Hong Kong -- After Landing At The Airport"
+tags:
+- Travels
+title: Hong Kong -- After Landing At The Airport
 type: post
 url: /2006/12/hong-kong-after-landing-at-the-airport/
 ---

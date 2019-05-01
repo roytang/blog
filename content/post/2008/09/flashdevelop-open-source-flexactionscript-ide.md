@@ -1,8 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-09-21 07:39:33
-title: "FlashDevelop -- open source Flex/Actionscript IDE"
+tags:
+- Software Development
+title: FlashDevelop -- open source Flex/Actionscript IDE
 type: post
 url: /2008/09/flashdevelop-open-source-flexactionscript-ide/
 ---

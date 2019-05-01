@@ -1,9 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-10-19 07:33:00
 tags:
 - royondjango
+- Software Development
 title: Starting out
 type: post
 url: /2008/10/starting-out/

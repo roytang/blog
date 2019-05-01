@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2016-08-09 01:30:46
 title: Thirty Eight
 type: post

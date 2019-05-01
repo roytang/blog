@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-01-11 01:30:06
 tags:
 - python
+- Software Development
 title: The Simplest Code That Can Do The Job
 type: post
 url: /2017/01/the-simplest-code-that-can-do-the-job/

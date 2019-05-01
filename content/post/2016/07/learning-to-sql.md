@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-07-21 01:30:37
+tags:
+- Software Development
 title: Learning to SQL
 type: post
 url: /2016/07/learning-to-sql/

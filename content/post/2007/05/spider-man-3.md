@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2007-05-06 05:59:21
 tags:
 - Movies
+- Pop Culture
 title: Spider-man 3
 type: post
 url: /2007/05/spider-man-3/

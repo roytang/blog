@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2002-04-05 04:00:49
 title: Do it to Julia!
 type: post

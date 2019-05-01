@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2003-12-28 03:00:24
-title: "The Captain's Hat"
+tags:
+- Gaming
+title: The Captain's Hat
 type: post
 url: /2003/12/the-captain39s-hat/
 ---

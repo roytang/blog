@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-06-21 01:30:12
+tags:
+- Opinions
 title: Everyone is Biased
 type: post
 url: /2016/06/everyone-is-biased/

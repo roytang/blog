@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2005-05-08 15:18:00
+tags:
+- Software Development
 title: CSS-Based Design
 type: post
 url: /2005/05/css-based-design/

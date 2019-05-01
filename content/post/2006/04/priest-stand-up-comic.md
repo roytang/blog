@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-04-23 04:41:55
 title: Priest / Stand-up Comic
 type: post

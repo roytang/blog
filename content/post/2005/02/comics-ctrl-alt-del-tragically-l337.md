@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-02-01 14:45:31
 tags:
 - Comics
-title: "Comics: Ctrl Alt Del -- Tragically l337"
+- Pop Culture
+title: 'Comics: Ctrl Alt Del -- Tragically l337'
 type: post
 url: /2005/02/comics-ctrl-alt-del-tragically-l337/
 ---

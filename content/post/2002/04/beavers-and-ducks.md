@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2002-04-01 04:00:11
 tags:
 - Legacy Blog Posts

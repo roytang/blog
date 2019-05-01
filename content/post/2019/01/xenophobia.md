@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
+date: 2019-01-23 05:56:56
 tags:
 - current events
-date: 2019-01-23T13:56:56+08:00
+- Pop Culture
 title: Xenophobia
 type: post
 ---

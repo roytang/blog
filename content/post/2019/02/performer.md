@@ -1,10 +1,10 @@
 ---
 author: roy
-date: 2019-02-07T13:56:56+08:00
-type: post
-categories:
+categories: []
+date: 2019-02-07 05:56:56
+tags:
 - Self Improvement
-title: "Performance Art and Picking Up New Hobbies"
+title: Performance Art and Picking Up New Hobbies
 type: post
 ---
 

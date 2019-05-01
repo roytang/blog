@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-08-22 05:07:43
+tags:
+- Software Development
 title: Barcamp Manila
 type: post
 url: /2008/08/barcamp-manila/

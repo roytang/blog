@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Travels
+categories: []
 date: 2004-10-30 05:22:09
+tags:
+- Travels
 title: Getting Away From It All
 type: post
 url: /2004/10/getting-away-from-it-all/

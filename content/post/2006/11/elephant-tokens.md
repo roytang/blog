@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2006-11-04 08:34:48
+tags:
+- Magic the Gathering
 title: Elephant Tokens
 type: post
 url: /2006/11/elephant-tokens/

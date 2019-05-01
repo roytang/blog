@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-10-06 01:00:36
+tags:
 - Opinions
 - Philippines
-date: 2018-10-06 01:00:36
 title: What is education for?
 type: post
 url: /2018/10/what-is-education-for/

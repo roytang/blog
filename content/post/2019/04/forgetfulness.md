@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-04-15T13:56:56+08:00
-title: "Forgetfulness"
+categories: []
+date: 2019-04-15 05:56:56
+title: Forgetfulness
 type: post
 ---
 

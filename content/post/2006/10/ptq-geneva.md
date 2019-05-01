@@ -1,8 +1,9 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2006-10-21 19:43:21
-title: "PTQ -- Geneva"
+tags:
+- Magic the Gathering
+title: PTQ -- Geneva
 type: post
 url: /2006/10/ptq-geneva/
 ---

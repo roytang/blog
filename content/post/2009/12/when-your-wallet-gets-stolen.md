@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2009-12-28 07:21:22
 title: When Your Wallet Gets Stolen
 type: post

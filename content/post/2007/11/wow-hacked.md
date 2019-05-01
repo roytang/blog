@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2007-11-22 05:55:27
+tags:
+- Gaming
 title: WoW, Hacked!
 type: post
 url: /2007/11/wow-hacked/
@@ -19,4 +20,4 @@ We still have no idea how it happened. My best guess is a keylogger on the other
 
 Edit 23-Nov 7:37 AM: Around 12:30 AM today, Blizzard reset my account password and notified that they were in the process of character transfer reversal. I immediately went in and updated the details. Very good service, Changed my passwords elsewhere too, for good measure.
 
-More as it develops... 
+More as it develops...

@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2009-02-01 12:59:35
+tags:
+- Software Development
 title: Code Quality
 type: post
 url: /2009/02/code-quality/

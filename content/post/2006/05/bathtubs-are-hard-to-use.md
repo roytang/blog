@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-05-03 07:01:00
 title: Bathtubs are hard to use.
 type: post

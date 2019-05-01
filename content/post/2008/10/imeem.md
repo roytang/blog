@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-10-21 05:29:54
+tags:
+- Tech Life
 title: Imeem
 type: post
 url: /2008/10/imeem/

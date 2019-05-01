@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-05-01 07:11:00
 title: Tired
 type: post

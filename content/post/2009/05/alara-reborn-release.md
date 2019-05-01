@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-05-09 12:38:49
+tags:
+- Magic the Gathering
 title: Alara Reborn Release
 type: post
 url: /2009/05/alara-reborn-release/

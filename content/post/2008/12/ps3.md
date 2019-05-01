@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2008-12-20 17:00:27
+tags:
+- Gaming
 title: PS3!
 type: post
 url: /2008/12/ps3/

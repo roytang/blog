@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-02-06 06:04:33
+tags:
+- Gaming
 title: Some thoughts on piracy
 type: post
 url: /2005/02/some-thoughts-on-piracy/

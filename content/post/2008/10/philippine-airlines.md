@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-10-21 06:44:00
+tags:
+- Software Development
 title: Philippine Airlines
 type: post
 url: /2008/10/philippine-airlines/

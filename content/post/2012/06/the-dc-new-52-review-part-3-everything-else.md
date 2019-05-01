@@ -4,11 +4,11 @@ aktt_notify_twitter:
 aktt_tweeted:
 - 1
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2012-06-21 07:23:51
 tags:
 - Comics
+- Pop Culture
 title: 'The DC New 52 Review Part 3: Everything Else'
 type: post
 url: /2012/06/the-dc-new-52-review-part-3-everything-else/

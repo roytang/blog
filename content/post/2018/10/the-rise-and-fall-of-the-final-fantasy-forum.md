@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2018-10-16 13:00:51
 tags:
 - Nostalgia
+- Tech Life
 title: The Rise and Fall of the Final Fantasy Forum
 type: post
 url: /2018/10/the-rise-and-fall-of-the-final-fantasy-forum/

@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2018-10-22 01:00:30
-title: "You don't have to be on all the time"
+title: You don't have to be on all the time
 type: post
 url: /2018/10/you-dont-have-to-be-on-all-the-time/
 ---

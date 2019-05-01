@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
+date: 2019-04-04 05:56:56
 tags:
 - current events
 - philosophy
-date: 2019-04-04T13:56:56+08:00
-title: "Justice vs Vengeance"
+- Philippines
+title: Justice vs Vengeance
 type: post
 ---
 

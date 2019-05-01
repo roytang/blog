@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-11-02 03:58:45
+tags:
+- Magic the Gathering
 title: The Mysterious Fertile Ground
 type: post
 url: /2007/11/the-mysterious-fertile-ground/

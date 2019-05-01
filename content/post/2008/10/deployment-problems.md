@@ -1,9 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-10-21 06:52:00
 tags:
 - royondjango
+- Software Development
 title: Deployment Problems
 type: post
 url: /2008/10/deployment-problems/

@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
+date: 2019-01-17 05:56:56
 tags:
 - Javascript
-date: 2019-01-17T13:56:56+08:00
+- Software Development
 title: I still Google the most basic things
 type: post
 ---

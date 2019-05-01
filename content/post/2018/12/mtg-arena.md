@@ -1,14 +1,14 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
-- Gaming
+categories: []
+date: 2018-12-18 01:56:56
+featuredImage: https://roytang.net/uploads/2018/mtgarena.png
 tags:
 - ccgs
-date: 2018-12-18T09:56:56+08:00
-title: "MTG Arena"
+- Magic the Gathering
+- Gaming
+title: MTG Arena
 type: post
-featuredImage: https://roytang.net/uploads/2018/mtgarena.png
 ---
 
 I've been playing [MTG Arena](https://magic.wizards.com/en/mtgarena) for a good while now, a little bit during the closed beta, and now I think we're still in open beta (?) because things still keep changing around. But I figured I could put in a little commentary about how this thing is going so far. I'm coming off the POV of a long-time [Magic the Gathering](/categories/magic-the-gathering/) player of course, with a little bit of comparison to [Eternal](/2018/11/review-eternal-or-eternal-primer-for-mtg-players/) and [Hearthstone](/2016/05/hearthstone-vs-mtg/), the two digital CCGs I'm most familiar with.

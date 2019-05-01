@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-12-28 04:59:12
 title: Pack Rat Mentality
 type: post

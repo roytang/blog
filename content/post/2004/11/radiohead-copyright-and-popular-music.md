@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2004-11-22 15:15:26
 tags:
 - Music
+- Pop Culture
 title: Radiohead, Copyright and Popular Music
 type: post
 url: /2004/11/radiohead-copyright-and-popular-music/

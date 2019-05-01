@@ -1,9 +1,8 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-05-09 23:29:00
-title: "That's Just Swell"
+title: That's Just Swell
 type: post
 url: /2005/05/that39s-just-swell/
 ---

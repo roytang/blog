@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Opinions
+categories: []
 date: 2016-12-27 01:30:07
+tags:
+- Opinions
 title: Decluttering
 type: post
 url: /2016/12/decluttering/

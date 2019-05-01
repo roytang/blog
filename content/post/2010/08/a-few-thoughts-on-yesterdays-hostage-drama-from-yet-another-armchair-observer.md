@@ -1,10 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2010-08-24 00:15:26
-title: "A Few Thoughts on Yesterday's Hostage Drama From Yet Another
-  Armchair Observer"
+title: A Few Thoughts on Yesterday's Hostage Drama From Yet Another Armchair Observer
 type: post
 url: /2010/08/a-few-thoughts-on-yesterdays-hostage-drama-from-yet-another-armchair-observer/
 ---

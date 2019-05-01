@@ -1,15 +1,14 @@
 ---
 author: roy
-date: 2018-12-28T13:56:56+08:00
-type: post
-categories:
-- Pop Culture
+categories: []
+date: 2018-12-28 05:56:56
 tags:
 - Movies
 - Review
 - TV Series
 - watching lately
-title: "Watching Lately: December 2018"
+- Pop Culture
+title: 'Watching Lately: December 2018'
 type: post
 ---
 

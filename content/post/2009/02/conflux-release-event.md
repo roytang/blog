@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-02-08 04:14:29
+tags:
+- Magic the Gathering
 title: Conflux Release Event
 type: post
 url: /2009/02/conflux-release-event/

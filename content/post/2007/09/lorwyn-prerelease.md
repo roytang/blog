@@ -1,8 +1,9 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-09-30 05:22:38
-title: "Lorwyn -- Prerelease"
+tags:
+- Magic the Gathering
+title: Lorwyn -- Prerelease
 type: post
 url: /2007/09/lorwyn-prerelease/
 ---

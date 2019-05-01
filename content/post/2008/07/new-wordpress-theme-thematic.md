@@ -1,14 +1,13 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2008-07-06 04:55:46
-title: "New WordPress Theme -- Thematic"
-type: post
-url: /2008/07/new-wordpress-theme-thematic/
 tags:
 - wordpress
-
+- Meta
+title: New WordPress Theme -- Thematic
+type: post
+url: /2008/07/new-wordpress-theme-thematic/
 ---
 
 Changed to [Thematic ][1]

@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Opinions
-- Philippines
+categories: []
 date: 2018-10-11 01:00:26
 tags:
 - Politics
+- Opinions
+- Philippines
 title: The perils of hyperpartisanship
 type: post
 url: /2018/10/the-perils-of-hyperpartisanship/

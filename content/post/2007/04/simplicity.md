@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-04-12 07:44:19
 title: Simplicity
 type: post

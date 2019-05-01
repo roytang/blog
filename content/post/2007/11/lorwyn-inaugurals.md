@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-11-25 00:16:41
+tags:
+- Magic the Gathering
 title: Lorwyn Inaugurals
 type: post
 url: /2007/11/lorwyn-inaugurals/

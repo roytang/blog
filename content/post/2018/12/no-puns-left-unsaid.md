@@ -1,13 +1,12 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2018-12-01T09:59:21+08:00
+categories: []
+date: 2018-12-01 01:59:21
+featuredImage: null
 tags:
 - puns
-title: 'No puns left unsaid'
+title: No puns left unsaid
 type: post
-featuredImage: 
 ---
 
 It's December the 1st, there's this image I often share on this day:

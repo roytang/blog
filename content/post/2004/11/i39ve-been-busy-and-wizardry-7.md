@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-11-12 13:37:46
-title: "I've Been Busyand Wizardry 7"
+tags:
+- Gaming
+title: I've Been Busyand Wizardry 7
 type: post
 url: /2004/11/i39ve-been-busy-and-wizardry-7/
 ---

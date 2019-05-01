@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-05-03 20:52:39
+tags:
+- Magic the Gathering
 title: Shadowmoor Standard Inaugural
 type: post
 url: /2008/05/shadowmoor-standard-inaugural/

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-03-16 01:30:54
+tags:
+- Software Development
 title: Google Code Jam and Competitive Programming
 type: post
 url: /2017/03/google-code-jam-and-competitive-programming/

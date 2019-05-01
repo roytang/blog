@@ -1,10 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
+date: 2018-12-02 02:06:56
 tags:
 - walking
-date: 2018-12-02T10:06:56+08:00
 title: Benefits of Walking
 type: post
 ---
@@ -23,7 +22,7 @@ These days, as I've mentioned in the other post, I intentionally try to find the
 
 The philosopher Henry David Thoreau said of walking:
 
-> “I think that I cannot preserve my health and spirits, unless I spend four hours a day at least—and it is commonly more than that—sauntering through the woods and over the hills and fields, absolutely free from all worldly engagements. You may safely say, A penny for your thoughts, or a thousand pounds. When sometimes I am reminded that the mechanics and shopkeepers stay in their shops not only all the forenoon, but all the afternoon too, sitting with crossed legs, so many of them—as if the legs were made to sit upon, and not to stand or walk upon—I think that they deserve some credit for not having all committed suicide long ago.” 
+> “I think that I cannot preserve my health and spirits, unless I spend four hours a day at least—and it is commonly more than that—sauntering through the woods and over the hills and fields, absolutely free from all worldly engagements. You may safely say, A penny for your thoughts, or a thousand pounds. When sometimes I am reminded that the mechanics and shopkeepers stay in their shops not only all the forenoon, but all the afternoon too, sitting with crossed legs, so many of them—as if the legs were made to sit upon, and not to stand or walk upon—I think that they deserve some credit for not having all committed suicide long ago." 
 
 Four hours a day seems excessive of course. I have other things to do. And unlike Thoreau, I don't have the benefit of having nearby woods or hills or fields to saunter through. Mine is more of an urban jungle. But I'm not much of a naturalist anyway (biology was always my weakest science), and I find there is still much to see as I walk through Metro Manila's uneven streets. People rushing by. Small businesses I hadn't noticed before. A large franchise restaurant that's often empty. A couple quietly holding hands in the dusk. Too many politicians' posters. The endless traffic. One time a biker almost got run over by a car. He managed to jump off the bike and landed right beside me on the sidewalk. Sometimes I feel I'm not observant enough, I should take more opportunity during these walks to observe more things.
 

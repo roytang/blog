@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Travels
+categories: []
 date: 2004-04-18 07:05:18
+tags:
+- Travels
 title: Roy goes to HK
 type: post
 url: /2004/04/roy-goes-to-hk/

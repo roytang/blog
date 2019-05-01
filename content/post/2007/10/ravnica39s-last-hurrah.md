@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-10-13 02:00:22
-title: "Ravnica's Last Hurrah"
+tags:
+- Magic the Gathering
+title: Ravnica's Last Hurrah
 type: post
 url: /2007/10/ravnica39s-last-hurrah/
 ---

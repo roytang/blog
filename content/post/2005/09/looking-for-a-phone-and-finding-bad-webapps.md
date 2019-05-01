@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2005-09-10 11:59:00
+tags:
+- Software Development
 title: Looking for a phone and finding bad webapps
 type: post
 url: /2005/09/looking-for-a-phone-and-finding-bad-webapps/

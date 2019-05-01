@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-10-12 07:37:30
+tags:
+- Tech Life
 title: Eudora to Become Open Source
 type: post
 url: /2006/10/eudora-to-become-open-source/

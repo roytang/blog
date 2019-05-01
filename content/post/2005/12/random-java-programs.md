@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2005-12-04 15:56:00
+tags:
+- Software Development
 title: Random Java Programs
 type: post
 url: /2005/12/random-java-programs/

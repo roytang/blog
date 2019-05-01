@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Gaming
+categories: []
 date: 2008-03-08 05:12:51
+tags:
+- Gaming
 title: Scrabble
 type: post
 url: /2008/03/scrabble/

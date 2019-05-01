@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-09-05 03:10:00
 title: Two Weeks of Freedom
 type: post

@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-10-24 13:00:00
+tags:
 - Opinions
 - Philippines
-date: 2018-10-24 13:00:00
 title: Suggested additions to HS curriculum
 type: post
 url: /2018/10/suggested-additions-to-hs-curriculum/

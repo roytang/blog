@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2018-03-29 01:00:11
+tags:
+- Tech Life
 title: Rethinking Facebook
 type: post
 url: /2018/03/rethinking-facebook/

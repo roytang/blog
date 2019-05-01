@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2008-06-09 00:24:28
 tags:
 - Movies
+- Pop Culture
 title: Kung Fu Panda
 type: post
 url: /2008/06/kung-fu-panda/

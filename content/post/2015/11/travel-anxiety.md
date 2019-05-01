@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Travels
+categories: []
 date: 2015-11-19 17:09:06
+tags:
+- Travels
 title: Travel anxiety
 type: post
 url: /2015/11/travel-anxiety/

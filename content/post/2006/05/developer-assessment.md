@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2006-05-20 23:17:30
+tags:
+- Software Development
 title: Developer Assessment
 type: post
 url: /2006/05/developer-assessment/

@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
+date: 2018-12-22 02:56:56
 tags:
 - Current Events
-date: 2018-12-22T10:56:56+08:00
-title: "Notes on Facebook"
+- Tech Life
+title: Notes on Facebook
 type: post
 ---
 

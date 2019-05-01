@@ -1,10 +1,10 @@
 ---
 author: roy
-date: 2019-01-29T13:56:56+08:00
-type: post
-categories:
+categories: []
+date: 2019-01-29 05:56:56
+tags:
 - Tech Life
-title: "Dark Mode"
+title: Dark Mode
 type: post
 ---
 

@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
-- Just Another Day
+categories: []
 date: 2014-05-05 14:35:24
 tags:
 - Comics
+- Pop Culture
 title: The Amazing Spider-Man 2 Review!
 type: post
 url: /2014/05/the-amazing-spider-man-2-review/

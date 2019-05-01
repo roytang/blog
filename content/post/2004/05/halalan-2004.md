@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2004-05-10 01:00:58
+tags:
+- Philippines
 title: Halalan 2004
 type: post
 url: /2004/05/halalan-2004/

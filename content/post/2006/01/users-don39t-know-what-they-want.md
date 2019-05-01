@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Software Development
+categories: []
 date: 2006-01-29 15:42:00
-title: "Users don't know what they want."
+tags:
+- Software Development
+title: Users don't know what they want.
 type: post
 url: /2006/01/users-don39t-know-what-they-want/
 ---

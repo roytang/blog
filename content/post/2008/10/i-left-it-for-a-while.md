@@ -1,10 +1,10 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-10-24 06:54:00
 tags:
 - royondjango
-title: "I left it for a while"
+- Software Development
+title: I left it for a while
 type: post
 url: /2008/10/i-left-it-for-a-while/
 ---

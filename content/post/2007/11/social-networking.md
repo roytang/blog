@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2007-11-30 04:52:24
+tags:
+- Tech Life
 title: Social Networking
 type: post
 url: /2007/11/social-networking/

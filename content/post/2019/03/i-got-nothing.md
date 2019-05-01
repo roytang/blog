@@ -1,10 +1,8 @@
 ---
 author: roy
-date: 2019-03-07T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
-title: "We can't be at our best all the time, otherwise it's not our best"
+categories: []
+date: 2019-03-07 05:56:56
+title: We can't be at our best all the time, otherwise it's not our best
 type: post
 ---
 

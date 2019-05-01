@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2006-10-21 15:21:54
+tags:
+- Gaming
 title: The DS Stylus
 type: post
 url: /2006/10/the-ds-stylus/

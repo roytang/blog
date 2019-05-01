@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
+date: 2016-06-30 01:30:32
 tags:
 - wordpress
-date: 2016-06-30 01:30:32
+- Software Development
 title: Performance Optimization for WordPress Blogs
 type: post
 url: /2016/06/performance-optimization-for-wordpress-blogs/

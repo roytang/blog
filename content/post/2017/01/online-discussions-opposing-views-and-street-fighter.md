@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2017-01-17 01:30:54
+tags:
+- Opinions
 title: Online Discussions, Opposing Views, and Street Fighter
 type: post
 url: /2017/01/online-discussions-opposing-views-and-street-fighter/

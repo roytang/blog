@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Travels
+categories: []
 date: 2015-05-30 16:13:53
+tags:
+- Travels
 title: 'Europe 2015: Paris Part, Versailles and Barcelona Again'
 type: post
 url: /2015/05/europe-2015-paris-part-2-and-versailles/

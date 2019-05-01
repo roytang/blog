@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-04-19 08:27:28
+tags:
+- Tech Life
 title: Recording Industry vs The People
 type: post
 url: /2006/04/recording-industry-vs-the-people/

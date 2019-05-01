@@ -1,13 +1,13 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
-date: 2019-05-01T13:56:56+08:00
+categories: []
+date: 2019-05-01 05:56:56
 tags:
 - magic arena
 - war of the spark
 - constructed
-title: "War of the Spark Standard: Esper"
+- Magic the Gathering
+title: 'War of the Spark Standard: Esper'
 type: post
 ---
 

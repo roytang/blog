@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Meta
+categories: []
 date: 2002-07-12 01:30:08
 tags:
 - Legacy Blog Posts
+- Meta
 title: 'rant.07.12.2002: personal websites'
 type: post
 url: /2002/07/rant-07-12-2002-personal-websites/

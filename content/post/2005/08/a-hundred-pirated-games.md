@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-08-14 09:40:00
+tags:
+- Gaming
 title: A hundred pirated games
 type: post
 url: /2005/08/a-hundred-pirated-games/

@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2009-12-27 06:40:55
+tags:
+- Software Development
 title: New Comments System
 type: post
 url: /2009/12/new-comments-system/

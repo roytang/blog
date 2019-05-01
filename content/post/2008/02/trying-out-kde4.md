@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2008-02-03 07:45:28
+tags:
+- Tech Life
 title: Trying out KDE4
 type: post
 url: /2008/02/trying-out-kde4/

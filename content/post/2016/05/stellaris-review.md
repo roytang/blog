@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2016-05-18 23:55:55
+tags:
+- Gaming
 title: Stellaris (Review)
 type: post
 url: /2016/05/stellaris-review/

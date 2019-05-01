@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2005-03-05 14:33:00
+tags:
+- Tech Life
 title: My First Nigerian Spam
 type: post
 url: /2005/03/my-first-nigerian-spam/

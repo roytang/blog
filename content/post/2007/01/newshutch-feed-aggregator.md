@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2007-01-18 00:31:27
-title: "NewsHutch -- feed aggregator"
+tags:
+- Tech Life
+title: NewsHutch -- feed aggregator
 type: post
 url: /2007/01/newshutch-feed-aggregator/
 ---

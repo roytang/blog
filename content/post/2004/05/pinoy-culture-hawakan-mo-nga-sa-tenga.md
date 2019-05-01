@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-05-25 13:30:01
 title: 'Pinoy Culture: Hawakan Mo Nga Sa Tenga'
 type: post

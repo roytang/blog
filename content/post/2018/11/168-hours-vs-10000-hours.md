@@ -1,14 +1,15 @@
 ---
-title: 168 hours vs 10000 hours
 author: roy
+categories: []
+date: 2018-11-09 05:07:22
+tags:
+- Self-Improvement
+- Software Development
+title: 168 hours vs 10000 hours
 type: post
-date: 2018-11-09T05:07:22+00:00
 url: /2018/11/168-hours-vs-10000-hours/
-categories:
-  - Self-Improvement
-  - Software Development
-
 ---
+
 According to Malcolm Gladwell&#8217;s book Outliers, you need 10,000 hours of continuous sustained practice to become an expert. 
 
 There are 168 hours in a week. If you never sleep and you eat as you practice, you can become an expert in 60 weeks. (Around 14 months)

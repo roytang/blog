@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-10-19 14:37:29
 title: Bad Bowler!
 type: post

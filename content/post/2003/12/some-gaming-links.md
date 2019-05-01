@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2003-12-11 14:42:49
+tags:
+- Gaming
 title: Some Gaming Links
 type: post
 url: /2003/12/some-gaming-links/

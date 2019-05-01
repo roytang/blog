@@ -2,9 +2,10 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Travels
+categories: []
 date: 2011-06-07 00:02:36
+tags:
+- Travels
 title: Singapore
 type: post
 url: /2011/06/singapore/

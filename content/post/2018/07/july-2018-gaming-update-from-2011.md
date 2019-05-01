@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2018-07-16 01:00:04
+tags:
+- Gaming
 title: 'July 2018: Gaming Update from 2011'
 type: post
 url: /2018/07/july-2018-gaming-update-from-2011/

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2004-04-18 07:07:44
+tags:
+- Meta
 title: What to do with this website?
 type: post
 url: /2004/04/what-to-do-with-this-website/

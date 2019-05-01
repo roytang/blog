@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-04-10 02:19:00
 title: Congrats Neil
 type: post

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2006-02-04 18:45:20
+tags:
+- Meta
 title: Welcome to roytang.net
 type: post
 url: /2006/02/welcome-to-roytang-net/

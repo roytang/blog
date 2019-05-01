@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-09-14 07:48:00
 tags:
 - Books
-title: "Books -- Neverwhere"
+- Pop Culture
+title: Books -- Neverwhere
 type: post
 url: /2005/09/books-neverwhere/
 ---

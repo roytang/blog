@@ -2,8 +2,7 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2010-08-04 19:23:01
 jd_tweet_this:
 - true
@@ -11,7 +10,8 @@ tags:
 - Limited
 - m11
 - sealed
-title: "M11 Sealed -- You Make the Play"
+- Magic the Gathering
+title: M11 Sealed -- You Make the Play
 type: post
 url: /2010/08/m11-sealed-you-make-the-play/
 wp_jd_bitly:

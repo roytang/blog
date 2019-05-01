@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-04-06 01:30:33
+tags:
+- Software Development
 title: MarkLogic NoSQL
 type: post
 url: /2017/04/marklogic-nosql/

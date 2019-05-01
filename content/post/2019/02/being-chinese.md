@@ -1,10 +1,8 @@
 ---
 author: roy
-date: 2019-02-05T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
-title: "Being Chinese"
+categories: []
+date: 2019-02-05 05:56:56
+title: Being Chinese
 type: post
 ---
 

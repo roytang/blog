@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2007-03-13 04:49:48
+tags:
+- Tech Life
 title: The Miracle PC
 type: post
 url: /2007/03/the-miracle-pc/

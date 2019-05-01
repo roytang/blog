@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2006-03-26 00:42:36
 tags:
 - grand-prix
 - Limited
+- Magic the Gathering
 title: Grand Prix Manila
 type: post
 url: /2006/03/grand-prix-manila/

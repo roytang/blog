@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-12-04 15:40:00
 tags:
 - Comics
-title: "Comics -- Batgirl"
+- Pop Culture
+title: Comics -- Batgirl
 type: post
 url: /2005/12/comics-batgirl/
 ---

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2008-12-26 16:26:24
+tags:
+- Meta
 title: roytang.net site update
 type: post
 url: /2008/12/roytang-net-site-update/

@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-09-08 21:52:02
+tags:
+- Magic the Gathering
 title: 'Pre-Lorwyn Triple Treat I: Standard'
 type: post
 url: /2007/09/pre-lorwyn-triple-treat-i-standard/

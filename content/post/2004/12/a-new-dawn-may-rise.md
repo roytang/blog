@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-12-06 13:35:03
 title: A New Dawn May Rise
 type: post

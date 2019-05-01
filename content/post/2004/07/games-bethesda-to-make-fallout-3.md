@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-07-13 14:31:18
+tags:
+- Gaming
 title: 'Games: Bethesda to Make Fallout 3!'
 type: post
 url: /2004/07/games-bethesda-to-make-fallout-3/

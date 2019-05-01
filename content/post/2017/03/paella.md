@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Travels
+categories: []
 date: 2017-03-28 01:30:09
+tags:
+- Travels
 title: Paella
 type: post
 url: /2017/03/paella/

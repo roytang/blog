@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2008-09-26 07:07:15
+tags:
+- Meta
 title: I Claim My Name
 type: post
 url: /2008/09/i-claim-my-name/

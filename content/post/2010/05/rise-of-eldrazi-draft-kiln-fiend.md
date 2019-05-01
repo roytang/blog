@@ -2,8 +2,7 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2010-05-26 08:41:44
 jd_tweet_this:
 - true
@@ -11,7 +10,8 @@ tags:
 - draft
 - Limited
 - roe
-title: "Rise of Eldrazi Draft -- Kiln Fiend"
+- Magic the Gathering
+title: Rise of Eldrazi Draft -- Kiln Fiend
 type: post
 url: /2010/05/rise-of-eldrazi-draft-kiln-fiend/
 wp_jd_bitly:

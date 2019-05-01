@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2004-11-15 00:41:05
 tags:
 - Books
+- Pop Culture
 title: The Alchemist
 type: post
 url: /2004/11/the-alchemist/

@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2018-12-04 02:06:56
 tags:
 - Current Events
+- Tech Life
 title: Social Credit System
 type: post
 ---

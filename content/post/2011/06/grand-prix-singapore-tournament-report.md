@@ -2,14 +2,14 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2011-06-08 13:06:55
 tags:
 - constructed
 - grand-prix
 - standard
 - tournament-report
+- Magic the Gathering
 title: Grand Prix Singapore Tournament Report
 type: post
 url: /2011/06/grand-prix-singapore-tournament-report/

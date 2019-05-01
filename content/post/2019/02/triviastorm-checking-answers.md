@@ -1,15 +1,14 @@
 ---
 author: roy
-date: 2019-02-03T13:56:56+08:00
-type: post
-categories:
-- Software Development
+categories: []
+date: 2019-02-03 05:56:56
 tags:
 - projects
 - python
 - triviastorm
 - testing
-title: "TriviaStorm: Text/Answer parsing"
+- Software Development
+title: 'TriviaStorm: Text/Answer parsing'
 type: post
 ---
 

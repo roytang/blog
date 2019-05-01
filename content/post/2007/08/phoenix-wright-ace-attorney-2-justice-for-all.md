@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2007-08-05 05:57:23
+tags:
+- Gaming
 title: 'Phoenix Wright Ace Attorney 2: Justice for All'
 type: post
 url: /2007/08/phoenix-wright-ace-attorney-2-justice-for-all/

@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-06-09 16:13:45
+tags:
+- Magic the Gathering
 title: Standard @ NG Galleria 02-Jun-2007
 type: post
 url: /2007/06/standard-ng-galleria-02-jun-2007/

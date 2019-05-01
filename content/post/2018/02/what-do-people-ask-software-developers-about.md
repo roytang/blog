@@ -1,10 +1,11 @@
 ---
 author: roy
-categories:
-- Software Development
-- Tech Life
+categories: []
 date: 2018-02-15 01:00:16
 draft: true
+tags:
+- Software Development
+- Tech Life
 title: What do people ask software developers about?
 type: post
 url: /?p=2606

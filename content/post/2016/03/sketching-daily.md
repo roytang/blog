@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2016-03-15 15:39:33
 title: Sketching Daily
 type: post

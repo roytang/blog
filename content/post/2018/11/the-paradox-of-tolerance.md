@@ -1,15 +1,15 @@
 ---
-title: The Paradox of Tolerance
 author: roy
-type: post
-date: 2018-11-08T05:07:02+00:00
-url: /2018/11/the-paradox-of-tolerance/
-categories:
-  - Opinions
+categories: []
+date: 2018-11-08 05:07:02
 tags:
-  - philiosophy
-
+- philiosophy
+- Opinions
+title: The Paradox of Tolerance
+type: post
+url: /2018/11/the-paradox-of-tolerance/
 ---
+
 When I was young, I was a fan of Voltaire&#8217;s famous quote "I disapprove of what you say, but I will defend to the death your right to say it.". Today, in the face of a world where hatemongers and the intolerant are able to use modern communication technologies to more easily spread their views, I realize that things may not be so black and white. Like so many beliefs I held when I was young, I now find myself of the opinion that instead of absolute tolerance (which may not even be possible), there is some semblance of intolerance that may be needed to keep to the ideal.  
 
 

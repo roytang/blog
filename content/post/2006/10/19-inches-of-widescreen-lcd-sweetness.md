@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-10-29 04:08:49
 tags:
 - Hardware
+- Tech Life
 title: 19-inches of Widescreen LCD Sweetness
 type: post
 url: /2006/10/19-inches-of-widescreen-lcd-sweetness/

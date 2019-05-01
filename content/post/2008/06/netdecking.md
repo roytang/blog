@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-06-01 01:47:15
+tags:
+- Magic the Gathering
 title: Netdecking
 type: post
 url: /2008/06/netdecking/

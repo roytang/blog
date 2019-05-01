@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- self-improvement
+categories: []
+date: 2019-04-14 05:56:56
 tags:
 - quotes
-date: 2019-04-14T13:56:56+08:00
-title: "The Ship of Theseus"
+- self-improvement
+title: The Ship of Theseus
 type: post
 ---
 

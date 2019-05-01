@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2009-02-28 22:54:05
 tags:
 - Movies
 - Review
+- Pop Culture
 title: 'Street Fighter: The Legend of Chun Li'
 type: post
 url: /2009/02/street-fighter-the-legend-of-chun-li/

@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2017-07-04 01:30:52
 tags:
 - Movies
+- Pop Culture
 title: Pisay (the movie)
 type: post
 url: /2017/07/pisay-the-movie/

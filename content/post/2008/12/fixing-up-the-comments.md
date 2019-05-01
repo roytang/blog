@@ -1,9 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-12-01 04:58:00
 tags:
 - royondjango
+- Software Development
 title: Fixing up the comments
 type: post
 url: /2008/12/fixing-up-the-comments/

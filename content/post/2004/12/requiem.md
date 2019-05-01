@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-12-02 13:11:14
 title: Requiem
 type: post

@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2018-12-14T09:56:56+08:00
-title: "Tell people you're not going to make it"
+categories: []
+date: 2018-12-14 01:56:56
+title: Tell people you're not going to make it
 type: post
 ---
 

@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2018-12-24T13:56:56+08:00
-title: "Gift Giving"
+categories: []
+date: 2018-12-24 05:56:56
+title: Gift Giving
 type: post
 ---
 
@@ -24,4 +23,3 @@ Also, typically most exchanges will have value requirements in the P300 to P500 
 Another anecdote, only slightly related: when we were kids, my brother had this gift exchange in school that he forgot to ask my mom to get a gift for. I helped him put together a weird gift out of scraps (to put it kindly). We had fun putting it together, but the recipient did not appreciate it, and I remember he said he got a scolding from the teacher lol.
 
 Anyway, the end result of all of this combined with my usual frugality is that I rarely buy anyone gifts, even for Christmas or birthdays. I will sometimes buy gifts if I happen to chance something that I know the recipient will like (like the Lego example above), especially if it's on sale or at a reasonable price. Most other occasions I think family and friends already know I don't usually give gifts. And in return, I tend to not expect too much in the way of gifts either, although I am of course appreciative of them.
-

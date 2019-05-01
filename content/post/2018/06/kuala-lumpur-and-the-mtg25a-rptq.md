@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
-- Travels
+categories: []
 date: 2018-06-16 01:00:49
 tags:
 - standard
 - tournament-report
+- Magic the Gathering
+- Travels
 title: Kuala Lumpur and the MTG25A RPTQ
 type: post
 url: /2018/06/kuala-lumpur-and-the-mtg25a-rptq/

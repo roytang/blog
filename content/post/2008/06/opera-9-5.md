@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-06-17 06:29:28
+tags:
+- Tech Life
 title: Opera 9.5
 type: post
 url: /2008/06/opera-9-5/

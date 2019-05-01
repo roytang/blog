@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-08-18 01:30:21
+tags:
+- Software Development
 title: Programming is Finding the Right Arrangement of Code
 type: post
 url: /2016/08/programming-is-finding-the-right-arrangement-of-code/

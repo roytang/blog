@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2005-10-25 13:30:00
+tags:
+- Tech Life
 title: SessionSaver Firefox Extension and Page State
 type: post
 url: /2005/10/sessionsaver-firefox-extension-and-page-state/

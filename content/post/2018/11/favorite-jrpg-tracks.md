@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Gaming
-- Pop Culture
+categories: []
 date: 2018-11-06 05:06:02
 tags:
 - Music
+- Gaming
+- Pop Culture
 title: Favorite JRPG Tracks
 type: post
 url: /2018/11/favorite-jrpg-tracks/

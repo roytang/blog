@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Gaming
-- Tech Life
+categories: []
 date: 2017-07-06 01:30:43
 tags:
 - Hardware
+- Gaming
+- Tech Life
 title: 'Hardware Review: Steam Link'
 type: post
 url: /2017/07/hardware-review-steam-link/

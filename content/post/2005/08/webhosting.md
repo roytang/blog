@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Meta
+categories: []
 date: 2005-08-14 15:47:00
+tags:
+- Meta
 title: Webhosting?
 type: post
 url: /2005/08/webhosting/

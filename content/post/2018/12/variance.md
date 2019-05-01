@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2018-12-19T10:56:56+08:00
-title: "Variance"
+categories: []
+date: 2018-12-19 02:56:56
+title: Variance
 type: post
 ---
 
@@ -14,5 +13,3 @@ This is why I often enjoy games like [Scrabble](/2008/03/scrabble/) or [MTG](/ca
 This is also why I probably couldn't thrive in any career that involves a lot of repetitiveness or doing the same thing day in and day out. I can't imagine working as something like a security guard or a cashier (aside from the low pay obviously). This is why programming is great for me a career - it's highly skill intensive and at the same time there's a lot of variance because you're almost never solving the same problem twice. And if you are encountering the same problems repeatedly, then you have a new problem to solve - how to stop those problems from repeating.
 
 Love of variance can be a double-edged sword though. The main problem is that it gives me difficulty in trying to do things that require consistent discipline or repeated practice - developing habits like regular exercise can be a challenge. This is why even in my [daily walking](/2018/11/daily-walks/), I dislike taking the same route too often. It is a problem to be overcome.
-
-

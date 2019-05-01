@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-08-29 06:25:54
+tags:
+- Gaming
 title: Internet Scrabble!
 type: post
 url: /2004/08/internet-scrabble/

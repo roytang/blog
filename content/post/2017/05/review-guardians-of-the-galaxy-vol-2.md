@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2017-05-03 01:30:47
 tags:
 - Movies
 - Review
+- Pop Culture
 title: 'Review: Guardians of the Galaxy Vol 2'
 type: post
 url: /2017/05/review-guardians-of-the-galaxy-vol-2/

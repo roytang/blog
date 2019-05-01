@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-12-30 11:00:38
+tags:
+- Magic the Gathering
 title: 'Nix Tix Alara Draft (Swiss): 3-0 and Draft Conversion Tools'
 type: post
 url: /2009/12/nix-tix-alara-draft-swiss-3-0-and-draft-conversion-tools/

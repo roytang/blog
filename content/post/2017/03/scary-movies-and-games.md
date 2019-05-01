@@ -1,12 +1,11 @@
 ---
 author: roy
-categories:
-- Gaming
-- Just Another Day
-- Pop Culture
+categories: []
 date: 2017-03-14 01:30:47
 tags:
 - Movies
+- Gaming
+- Pop Culture
 title: Scary Movies and Games
 type: post
 url: /2017/03/scary-movies-and-games/

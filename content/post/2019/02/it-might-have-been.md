@@ -1,17 +1,15 @@
 ---
 author: roy
-date: 2019-02-24T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
+categories: []
+date: 2019-02-24 05:56:56
 tags:
 - quotes
 - regret
-title: "It might have been"
+title: It might have been
 type: post
 ---
 
->  “Of all sad words of tongue or pen, the saddest are these, 'It might have been.”
+>  “Of all sad words of tongue or pen, the saddest are these, 'It might have been."
 > 
 > ― John Greenleaf Whittier, Maud Muller - Pamphlet 
 
@@ -31,4 +29,4 @@ If only I could speak to her again one last time.
 
 If only I realized what it all meant.
 
-While unavoidable, best not to linger in these alternate worlds too long. Regret is a trap that takes us away from the present. Learn what we can from our mistakes, and move on. 
+While unavoidable, best not to linger in these alternate worlds too long. Regret is a trap that takes us away from the present. Learn what we can from our mistakes, and move on.

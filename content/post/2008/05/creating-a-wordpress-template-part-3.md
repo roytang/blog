@@ -1,12 +1,12 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-05-12 20:00:00
+tags:
+- wordpress
+- Software Development
 title: Creating a WordPress Template Part 3
 type: post
 url: /2008/05/creating-a-wordpress-template-part-3/
-tags:
-- wordpress
 ---
 
 [Part 1][1]. [Part 2][2]. Moonglove Winnower template is currently live on [Roy on Magic][3].

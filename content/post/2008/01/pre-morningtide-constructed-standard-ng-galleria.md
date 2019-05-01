@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-01-06 04:43:10
+tags:
+- Magic the Gathering
 title: 'Pre Morningtide Constructed: Standard @ NG Galleria'
 type: post
 url: /2008/01/pre-morningtide-constructed-standard-ng-galleria/
@@ -23,4 +24,4 @@ Ugh. Terrible way to start the year. My own fault for bringing an outdated versi
 
 I'm thinking about building an entirely new deck now, and maybe actually do some testing (I just need to find people to test with... ) But if I were to keep going with Mannequin I think I need to try the Mind Stone build and lose the Grim Harvests. I also need more Pithing Needles as I keep randomly losing to manlands.
 
-No Magic for me for the next two weeks though, due to personal matters. That means I miss the Morningtide prerelease -- the first time I'm missing a prerelease since Ravnica. I'll be back in time for the sneak peek... 
+No Magic for me for the next two weeks though, due to personal matters. That means I miss the Morningtide prerelease -- the first time I'm missing a prerelease since Ravnica. I'll be back in time for the sneak peek...

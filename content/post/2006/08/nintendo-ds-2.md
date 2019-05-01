@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2006-08-27 07:28:54
+tags:
+- Gaming
 title: Nintendo DS
 type: post
 url: /2006/08/nintendo-ds-2/
@@ -23,4 +24,4 @@ My experience with the DS is unfortunately limited to just one cart -- New Super
 
 Then a second developer decided to bring his DS to the office... and lo and behold, we were exposed to the DS' wireless networking capabilities. Now, we get to waste two people's time simultaneously via head-to-head minigames!
 
-At least it gives us something to do while waiting for those blowup scripts... 
+At least it gives us something to do while waiting for those blowup scripts...

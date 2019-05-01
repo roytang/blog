@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2017-12-23 01:00:35
 tags:
 - grand-prix
 - Limited
 - tournament-report
+- Magic the Gathering
 title: Grand Prix Singapore 2017 Tournament Report
 type: post
 url: /2017/12/grand-prix-singapore-2017-tournament-report/

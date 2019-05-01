@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2018-10-09 01:00:22
-title: "Why I'm Not An Entrepreneur"
+title: Why I'm Not An Entrepreneur
 type: post
 url: /2018/10/why-im-not-an-entrepreneur/
 ---

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Software Development
+categories: []
 date: 2008-03-07 17:56:19
+tags:
+- Software Development
 title: Trust and Evil Programmers
 type: post
 url: /2008/03/trust-and-evil-programmers/

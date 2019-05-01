@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2006-12-26 22:12:37
-title: "The Escapist -- The Rise and Fall of Troika"
+tags:
+- Gaming
+title: The Escapist -- The Rise and Fall of Troika
 type: post
 url: /2006/12/the-escapist-the-rise-and-fall-of-troika/
 ---

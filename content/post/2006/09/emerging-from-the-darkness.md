@@ -1,9 +1,9 @@
 ---
 author: Roy
-categories:
-- Just Another Day
-- Philippines
+categories: []
 date: 2006-09-29 19:57:22
+tags:
+- Philippines
 title: Emerging From The Darkness
 type: post
 url: /2006/09/emerging-from-the-darkness/

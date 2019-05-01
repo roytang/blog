@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-12-07 01:56:56
+tags:
 - Tech Life
-date: 2018-12-07T09:56:56+08:00
-title: "Online Privacy"
+title: Online Privacy
 type: post
 ---
 
@@ -20,5 +21,3 @@ To be honest, I accept that these companies are tracking my data because I would
 I have been starting [to wean myself off Facebook](/2018/03/rethinking-facebook/), though that proves difficult due to network effects. But it would probably be more difficult for me to cease usage of my Google account, since I use it for a bunch of cloud stuff. Well, I did get it started by making Firefox my main browser.
 
 I do understand the use case for privacy. If you're handling any sort of sensitive information or anything dangerous, say as an investigative journalist in a fascist regime, then maybe an extra level of protection is required. So I appreciate the existence of secure alternatives. I recently found [a reddit thread](https://np.reddit.com/r/pcmasterrace/comments/8sffn7/pc_users_guide_to_privacy/) that had a good summary of the modern online privacy options available. If you want or need online privacy, you have to understand that there's a tradeoff in terms of convenience. You can give up Google or Facebook services or use Tor and VPNs and all those other stuff, but you lose some features too. And maybe that's fine, it's up to you to determine that's acceptable for you.
-
-

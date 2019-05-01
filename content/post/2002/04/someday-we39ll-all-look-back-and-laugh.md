@@ -1,11 +1,10 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2002-04-14 05:00:19
 tags:
 - Legacy Blog Posts
-title: "Someday we'll all look back and laugh."
+title: Someday we'll all look back and laugh.
 type: post
 url: /2002/04/someday-we39ll-all-look-back-and-laugh/
 ---

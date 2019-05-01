@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-04-24 05:56:56
+tags:
 - Philippines
-date: 2019-04-24T13:56:56+08:00
-title: "Earthquakes"
+title: Earthquakes
 type: post
 ---
 

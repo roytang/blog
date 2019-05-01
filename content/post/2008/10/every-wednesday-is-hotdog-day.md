@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2008-10-15 05:05:14
+tags:
+- Meta
 title: Every Wednesday is Hotdog Day!
 type: post
 url: /2008/10/every-wednesday-is-hotdog-day/

@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
+date: 2019-04-11 05:56:56
 tags:
 - manga
 - comics
-date: 2019-04-11T13:56:56+08:00
-title: "Promised Neverland and Dr. Stone"
+- Pop Culture
+title: Promised Neverland and Dr. Stone
 type: post
 ---
 

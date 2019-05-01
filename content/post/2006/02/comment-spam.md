@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2006-02-22 05:42:38
+tags:
+- Meta
 title: Comment Spam!
 type: post
 url: /2006/02/comment-spam/

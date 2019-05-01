@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2008-01-14 06:38:03
 title: Family
 type: post

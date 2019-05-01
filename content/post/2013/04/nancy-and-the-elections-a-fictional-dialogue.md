@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Opinions
+categories: []
 date: 2013-04-25 14:14:16
+tags:
+- Opinions
 title: 'Nancy and the Elections: A Fictional Dialogue'
 type: post
 url: /2013/04/nancy-and-the-elections-a-fictional-dialogue/

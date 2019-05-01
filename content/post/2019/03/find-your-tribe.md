@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-03-29 05:56:56
+tags:
 - Tech Life
-date: 2019-03-29T13:56:56+08:00
-title: "You can find your tribe, but others can too"
+title: You can find your tribe, but others can too
 type: post
 ---
 

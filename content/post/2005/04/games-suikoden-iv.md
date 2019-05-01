@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-04-13 14:40:00
+tags:
+- Gaming
 title: 'Games: Suikoden IV'
 type: post
 url: /2005/04/games-suikoden-iv/

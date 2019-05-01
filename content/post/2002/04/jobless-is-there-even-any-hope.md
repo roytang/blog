@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2002-04-28 04:00:10
 tags:
 - Job Hunting

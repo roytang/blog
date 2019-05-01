@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Gaming
+categories: []
 date: 2005-02-10 02:55:02
-title: "Games: Why Sony's PSP will suck"
+tags:
+- Gaming
+title: 'Games: Why Sony''s PSP will suck'
 type: post
 url: /2005/02/games-why-sony39s-psp-will-suck/
 ---

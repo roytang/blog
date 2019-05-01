@@ -1,9 +1,8 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-10-01 08:14:38
-title: "Wanderer's Thoughts"
+title: Wanderer's Thoughts
 type: post
 url: /2006/10/wanderer39s-thoughts/
 ---

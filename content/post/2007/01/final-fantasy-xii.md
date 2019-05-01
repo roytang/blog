@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2007-01-10 01:17:11
+tags:
+- Gaming
 title: Final Fantasy XII
 type: post
 url: /2007/01/final-fantasy-xii/

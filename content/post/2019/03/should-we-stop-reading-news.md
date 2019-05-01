@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
+date: 2019-03-31 05:56:56
 tags:
 - current events
-date: 2019-03-31T13:56:56+08:00
-title: "Should we stop reading the news?"
+title: Should we stop reading the news?
 type: post
 ---
 

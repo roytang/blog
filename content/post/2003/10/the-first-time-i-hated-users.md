@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Software Development
+categories: []
 date: 2003-10-30 01:45:44
+tags:
+- Software Development
 title: The First Time I Hated Users
 type: post
 url: /2003/10/the-first-time-i-hated-users/

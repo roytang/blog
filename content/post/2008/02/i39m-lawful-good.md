@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2008-02-25 05:39:29
-title: "I'm Lawful Good"
+tags:
+- Meta
+title: I'm Lawful Good
 type: post
 url: /2008/02/i39m-lawful-good/
 ---

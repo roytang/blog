@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2006-10-23 16:20:21
+tags:
+- Gaming
 title: Computer Gaming World
 type: post
 url: /2006/10/computer-gaming-world/

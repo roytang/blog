@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2008-05-20 04:49:13
+tags:
+- Meta
 title: Anti Comment Spam
 type: post
 url: /2008/05/anti-comment-spam/

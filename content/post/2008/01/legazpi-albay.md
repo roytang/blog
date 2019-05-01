@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Travels
+categories: []
 date: 2008-01-21 05:13:21
+tags:
+- Travels
 title: Legazpi, Albay
 type: post
 url: /2008/01/legazpi-albay/
@@ -24,4 +25,4 @@ Of course, I suck at buying gifts for people so I'm glad I had a DS while everyo
 
 Our parents dropped us off at the airport in time for the return flight. We checked in and sat down to wait. The rain outside started getting worse, and eventually there was a message that our flight is canceled. Boo! After asking around, I was told I'd get a full refund for the round trip flight. (So we got to fly to Albay for free) I called up my parents and asked them to get us bus tickets.
 
-As I mentioned at the start, traveling by land sucks. It's hard to sleep, and I'm prone to motion-sickness on extended bus trips. Still, we made it back to Manila alive and well. I had a bit of a headache and some of the aforementioned nausea and hardly any sleep, as I expected... 
+As I mentioned at the start, traveling by land sucks. It's hard to sleep, and I'm prone to motion-sickness on extended bus trips. Still, we made it back to Manila alive and well. I had a bit of a headache and some of the aforementioned nausea and hardly any sleep, as I expected...

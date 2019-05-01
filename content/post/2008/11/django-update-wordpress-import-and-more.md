@@ -1,11 +1,11 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-11-23 00:04:00
 tags:
 - royondjango
 - wordpress
-title: "Django Update -- WordPress Import and More"
+- Software Development
+title: Django Update -- WordPress Import and More
 type: post
 url: /2008/11/django-update-wordpress-import-and-more/
 ---

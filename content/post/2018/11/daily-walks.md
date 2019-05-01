@@ -1,10 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
+date: 2018-11-28 02:06:56
 tags:
 - walking
-date: 2018-11-28T10:06:56+08:00
 title: Daily Walks
 type: post
 ---

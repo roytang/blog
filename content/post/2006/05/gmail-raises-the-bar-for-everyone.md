@@ -1,8 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2006-05-03 06:56:37
-title: "GMail raises the bar for everyone"
+tags:
+- Software Development
+title: GMail raises the bar for everyone
 type: post
 url: /2006/05/gmail-raises-the-bar-for-everyone/
 ---

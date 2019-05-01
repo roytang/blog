@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-05-29 08:37:00
 tags:
 - Movies
 - Review
+- Pop Culture
 title: 'Movies: Transformers the Movie'
 type: post
 url: /2005/05/movies-transformers-the-movie/
@@ -52,4 +52,4 @@ decepticons. nalipat kami sa voltron and voltes v.
 
 \*sings\* the transformers.. more than meets the eye.. autobot (something
   
-something to) fight the evil forces of the decepticons... 
+something to) fight the evil forces of the decepticons...

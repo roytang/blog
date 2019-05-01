@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-09-22 01:30:22
+tags:
+- Software Development
 title: Overhead scales up rapidly in software projects
 type: post
 url: /2016/09/overhead-scales-up-rapidly-in-software-projects/
@@ -20,4 +21,4 @@ In so many words, the above is simply a restatement of the famous "Mythical man-
 
 In practice though, I find that people who are aware of this quote find themselves falling into the trap of "this won't happen to me", so a more nuanced discussion of the problems of scale might need to be had. Management typically responds more to qualitative costs, so maybe there are some metrics that you team could find? Something like "for every N developers, we need an additional X amount of coordination work" and so on
 
-Or maybe it's one of those myths we are doomed to relive again and again... 
+Or maybe it's one of those myths we are doomed to relive again and again...

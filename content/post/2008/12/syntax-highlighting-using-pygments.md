@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-12-28 18:37:31
+tags:
+- Software Development
 title: Syntax Highlighting using Pygments
 type: post
 url: /2008/12/syntax-highlighting-using-pygments/

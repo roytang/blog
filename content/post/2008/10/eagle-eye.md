@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2008-10-04 22:59:40
 tags:
 - Movies
 - Review
+- Pop Culture
 title: Eagle Eye
 type: post
 url: /2008/10/eagle-eye/

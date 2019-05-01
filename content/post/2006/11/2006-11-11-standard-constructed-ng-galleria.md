@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2006-11-11 07:51:30
+tags:
+- Magic the Gathering
 title: 2006-11-11 Standard Constructed @ NG Galleria
 type: post
 url: /2006/11/2006-11-11-standard-constructed-ng-galleria/

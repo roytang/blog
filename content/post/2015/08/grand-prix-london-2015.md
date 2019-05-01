@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2015-08-31 13:36:12
 tags:
 - grand-prix
 - standard
 - tournament-report
+- Magic the Gathering
 title: Grand Prix London 2015
 type: post
 url: /2015/08/grand-prix-london-2015/

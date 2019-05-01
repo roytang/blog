@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Writing
+categories: []
 date: 2016-12-13 01:30:25
+tags:
+- Writing
 title: Nine Ways to Work Around Mental Blocks
 type: post
 url: /2016/12/nine-ways-to-work-around-mental-blocks/

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2004-10-20 15:00:11
+tags:
+- Tech Life
 title: Google Desktop
 type: post
 url: /2004/10/google-desktop/

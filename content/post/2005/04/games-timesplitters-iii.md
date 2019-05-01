@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-04-11 14:10:00
+tags:
+- Gaming
 title: 'Games: Timesplitters III'
 type: post
 url: /2005/04/games-timesplitters-iii/

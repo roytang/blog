@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-12-30 17:33:08
 tags:
 - Books
-title: "The Rock Says"
+- Pop Culture
+title: The Rock Says
 type: post
 url: /2006/12/the-rock-says/
 ---

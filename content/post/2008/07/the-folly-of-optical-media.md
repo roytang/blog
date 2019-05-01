@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2008-07-05 21:25:05
 title: The Folly of Optical Media
 type: post

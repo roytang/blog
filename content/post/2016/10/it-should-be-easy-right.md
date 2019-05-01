@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-10-27 01:30:28
+tags:
+- Software Development
 title: It Should Be Easy, Right?
 type: post
 url: /2016/10/it-should-be-easy-right/

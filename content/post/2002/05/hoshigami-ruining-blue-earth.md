@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2002-05-24 16:00:57
+tags:
+- Gaming
 title: 'Hoshigami: Ruining Blue Earth'
 type: post
 url: /2002/05/hoshigami-ruining-blue-earth/

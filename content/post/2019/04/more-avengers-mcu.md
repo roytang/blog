@@ -1,9 +1,11 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-04-28 05:56:56
+tags:
 - Pop Culture
-date: 2019-04-28T13:56:56+08:00
-title: "More thoughts on Avengers Endgame and the MCU"
+- Movies
+title: More thoughts on Avengers Endgame and the MCU
 type: post
 ---
 
@@ -16,7 +18,7 @@ Before even going into the movie that was seemingly sold out everywhere despite 
 - With Nebula now on Earth, they know where Thanos is and the plan is to go beat him up, get the stones and use that to resotre all the dusted people. But Thanos has destroyed the stones, making the snap apparently irreversible. Thor is frustrated and goes for the head this time, and we timeskip five years.
 - Both the timeskip and the length of it caught me a bit off-guard, I wasn't expecting it. I can imagine that Infinity War could've ended here too (if not for the pesky detail of Carol not yet being introduced.) Aparently five years was not enough for the people of the world to move on. That's understandable, but I would have assumed they would clean up the mess a little bit.
 - Next we have the rat that saves the world. Pure blind luck gets Scott out of the Quantum Realm; the only reason it took five years to get to this point is that rat was lazy.
-- Continuing the MCU tradition of trying to complete the Community cast, we get a 2-second cameo by Ken Jeong/Senor Chang
+- Continuing the MCU tradition of trying to complete the Community cast, we get a 2-second cameo by Ken Jeong/Senor Chang. Later on we also get a slightly longer cameo from Yvette Nicole-Brown/Shirley!
 - Scott gets to meet grown-up Cassie, setting up the stage for her Phase 4 adventures as Stature, and perhaps, the Young Avengers? Who else would be there?
 - After some meandering, Scott makes his way to the Avengers compound, and finally explains his ludicrous timey-wimey plan of using the quantum realm to do a time heist. They need someone smart to figure this out so they go to Tony, and we get to meet his daughter Morgan (I would guess at 4 years old). Tony dismisses their plan as some fantasy Back to the Future-type nonsense. Apparently (as would be explained further on), Back to the Future rules do not apply in the MCU - changing the past does not affect the future. I initially thought they would try to use time travel to go back and redo the battle of Wakanda, this time with more foreknowledge and Carol on their side and thus stop the snap from even happening, but this throws that out the window. There's no getting around it now - the snap is irrevocably part of MCU history and future films will have to work around that or otherwise deal with the consequences.
 - They need another smart guy, so they go see Bruce, who is now Smart Hulk. Not what I was expecting, though not unprecedented from the comics. Banner has had a weird character arc since Age of Ultron, going from permanently Hulk to unable to Hulk and now both Banner and Hulk.

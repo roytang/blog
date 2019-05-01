@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2004-07-17 14:36:07
+tags:
+- Philippines
 title: 'Current Events: RP troops to withdraw from Iraq'
 type: post
 url: /2004/07/current-events-rp-troops-to-withdraw-from-iraq/

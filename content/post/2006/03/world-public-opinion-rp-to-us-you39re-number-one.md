@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2006-03-04 05:29:41
-title: "World Public Opinion -- RP to US: You're Number One!"
+tags:
+- Philippines
+title: 'World Public Opinion -- RP to US: You''re Number One!'
 type: post
 url: /2006/03/world-public-opinion-rp-to-us-you39re-number-one/
 ---

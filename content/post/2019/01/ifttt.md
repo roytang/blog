@@ -1,9 +1,10 @@
 ---
-title: IFTTT
 author: roy
-date: 2019-01-06T13:58:22+08:00
-categories:
-  - Tech Life
+categories: []
+date: 2019-01-06 05:58:22
+tags:
+- Tech Life
+title: IFTTT
 ---
 
 A free web-based service I've found very useful over the past few years is [IFTTT](https://ifttt.com). The initialism is a bit unwieldy; it stands for "If this, then that". It basically provides a way to "glue" different services and APIs together so you can set up some kind of automation. You set up rules with conditions and specify what to do when those conditions are met.

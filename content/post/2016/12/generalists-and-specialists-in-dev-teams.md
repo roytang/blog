@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-12-15 01:30:25
+tags:
+- Software Development
 title: Generalists and Specialists in Dev Teams
 type: post
 url: /2016/12/generalists-and-specialists-in-dev-teams/

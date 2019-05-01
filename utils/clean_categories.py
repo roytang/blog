@@ -46,36 +46,45 @@ def clean_categories():
 
             newcats = []
             if post.get('categories') == None:
-                post['categories'] = [default_category]
-                has_changes = True
+                # post['categories'] = [default_category]
+                # has_changes = True
+                pass
             else: # Categories exists
                 cats = post['categories']
                 if type(cats) == str:
                     cats = [cats] # standardize to a list
+
                 for cat in cats:
-                    if cats_map.get(cat) == None: # no changes, copy over as-is
-                        if cat not in newcats:
-                            newcats.append(cat)
-                    else:
-                        newcat = cats_map[cat]
-                        # old cat is now a tag
+                    has_changes = True
+                    if cat == default_category:
+                        continue
+                    if cat not in tags:
                         tags.append(cat)
-                        has_changes = True
-                        if len(newcat) > 0:
-                            # move to new cat
-                            if newcat not in newcats:
-                                newcats.append(newcat)
-                        else:
-                            # move to default cat if no other cats
-                            if len(cats) == 1:
-                                newcats.append(default_category)
+                    # if cats_map.get(cat) == None: # no changes, copy over as-is
+                    #     if cat not in newcats:
+                    #         newcats.append(cat)
+                    # else:
+                    #     newcat = cats_map[cat]
+                    #     # old cat is now a tag
+                    #     tags.append(cat)
+                    #     has_changes = True
+                    #     if len(newcat) > 0:
+                    #         # move to new cat
+                    #         if newcat not in newcats:
+                    #             newcats.append(newcat)
+                    #     else:
+                    #         # move to default cat if no other cats
+                    #         if len(cats) == 1:
+                    #             newcats.append(default_category)
+                newcats = [] # no more cats!
 
             if len(tags) > 0:
                 post['tags'] = tags
-            if len(newcats) > 0:
-                post['categories'] = newcats
+            # if len(newcats) > 0:
+            #     post['categories'] = newcats
+            post['categories'] = [] # no more cats!
 
-            print(post['categories'])
+            # print(post['categories'])
             print(post.get('tags'))
 
             # Save the file.

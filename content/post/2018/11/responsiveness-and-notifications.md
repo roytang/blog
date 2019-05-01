@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2018-11-05 05:05:41
+tags:
+- Tech Life
 title: Responsiveness and Notifications
 type: post
 url: /2018/11/responsiveness-and-notifications/

@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-03-28 14:22:01
 title: Graduation Day, and 10 Years After
 type: post
@@ -99,4 +98,4 @@ And when are you and Lorenz going to post a tanaga or two? ;)
 ### Comment by [btflpenguin](http://www.blogger.com/profile/2001080) on 2005-04-08 10:01:00 +0000
 may tanaga ako! may tanaga ako! ang hirap at medyo wala syang kwenta pero
   
-meron akong gawa. san ko post? dito? kakahiya... 
+meron akong gawa. san ko post? dito? kakahiya...

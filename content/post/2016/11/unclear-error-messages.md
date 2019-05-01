@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-11-17 01:30:37
+tags:
+- Software Development
 title: Unclear error messages
 type: post
 url: /2016/11/unclear-error-messages/

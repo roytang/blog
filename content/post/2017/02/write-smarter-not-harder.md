@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Writing
+categories: []
 date: 2017-02-21 01:30:57
+tags:
+- Writing
 title: Write Smarter, Not Harder
 type: post
 url: /2017/02/write-smarter-not-harder/

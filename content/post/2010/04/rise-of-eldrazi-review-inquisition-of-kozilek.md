@@ -2,11 +2,12 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2010-04-09 17:39:10
 jd_tweet_this:
 - true
+tags:
+- Magic the Gathering
 title: 'Rise of Eldrazi Review: Inquisition of Kozilek'
 type: post
 url: /2010/04/rise-of-eldrazi-review-inquisition-of-kozilek/

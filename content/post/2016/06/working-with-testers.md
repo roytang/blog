@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-06-23 01:30:25
+tags:
+- Software Development
 title: Working with Testers
 type: post
 url: /2016/06/working-with-testers/

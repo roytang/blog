@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-09-19 05:03:38
+tags:
+- Magic the Gathering
 title: 'Pre-Alara Triple Treats: Kithkin'
 type: post
 url: /2008/09/pre-alara-triple-treats-kithkin/

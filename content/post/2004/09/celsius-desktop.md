@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-09-12 08:42:09
+tags:
+- Gaming
 title: Celsius Desktop
 type: post
 url: /2004/09/celsius-desktop/

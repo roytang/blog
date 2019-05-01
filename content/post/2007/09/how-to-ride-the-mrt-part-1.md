@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2007-09-08 23:30:58
+tags:
+- Philippines
 title: How to Ride the MRT, Part 1
 type: post
 url: /2007/09/how-to-ride-the-mrt-part-1/

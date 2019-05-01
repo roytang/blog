@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
+categories: []
+date: 2008-12-29 08:51:06
+tags:
 - Links
 - Meta
-date: 2008-12-29 08:51:06
 title: Speed Reading
 type: post
 url: /2008/12/speed-reading/

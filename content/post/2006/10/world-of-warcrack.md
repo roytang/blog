@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2006-10-18 08:20:26
+tags:
+- Gaming
 title: World of Warcrack
 type: post
 url: /2006/10/world-of-warcrack/

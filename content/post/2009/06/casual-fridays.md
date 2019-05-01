@@ -1,9 +1,9 @@
 ---
 author: Roy
-categories:
-- Just Another Day
-- Opinions
+categories: []
 date: 2009-06-23 13:05:11
+tags:
+- Opinions
 title: Casual Fridays?
 type: post
 url: /2009/06/casual-fridays/

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Opinions
+categories: []
 date: 2006-02-07 07:26:06
+tags:
+- Opinions
 title: On the Mohammed Cartoons Issue
 type: post
 url: /2006/02/on-the-mohammed-cartoons-issue/

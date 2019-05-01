@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2006-10-15 03:50:25
+tags:
+- Magic the Gathering
 title: Drafting in Time Spiral
 type: post
 url: /2006/10/drafting-in-time-spiral/

@@ -1,10 +1,8 @@
 ---
 author: roy
-date: 2019-03-24T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
-title: "Meritocracy"
+categories: []
+date: 2019-03-24 05:56:56
+title: Meritocracy
 type: post
 ---
 
@@ -24,4 +22,4 @@ All this meritocract quote reminds me of a quote from the Simpsons' villainous M
 > 
 > Homer: Mr. Burns, I insist that we cheat! 
 > 
-> Mr. Burns: Excellent! 
+> Mr. Burns: Excellent!

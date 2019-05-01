@@ -1,12 +1,12 @@
 ---
 author: roy
-date: 2019-02-02T13:56:56+08:00
-type: post
-categories:
-- Gaming
-title: "Game Review: Slay the Spire"
-type: post
+categories: []
+date: 2019-02-02 05:56:56
 featuredImage: https://roytang.net/uploads/2019/slaythespire.jpg
+tags:
+- Gaming
+title: 'Game Review: Slay the Spire'
+type: post
 ---
 
 I picked up Slay the Spire during the last (Winter) Steam Sale, not really knowing what I was getting into. I had heard some good things, but I didn't really know much other than it was a roguelite where I had to go through a dungeon. But it was cheap so I took the dive.

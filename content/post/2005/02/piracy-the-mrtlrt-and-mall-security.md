@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2005-02-13 13:00:00
+tags:
+- Philippines
 title: Piracy, the MRT/LRT and Mall Security
 type: post
 url: /2005/02/piracy-the-mrtlrt-and-mall-security/

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-07-03 07:27:13
+tags:
+- Tech Life
 title: Flocking
 type: post
 url: /2008/07/flocking/

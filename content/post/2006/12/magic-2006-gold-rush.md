@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2006-12-17 07:51:11
+tags:
+- Magic the Gathering
 title: 'Magic: 2006 Gold Rush'
 type: post
 url: /2006/12/magic-2006-gold-rush/

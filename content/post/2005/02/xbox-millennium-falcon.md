@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-02-02 13:23:10
 title: Xbox Millennium Falcon
 type: post

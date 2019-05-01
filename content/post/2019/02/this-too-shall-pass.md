@@ -1,12 +1,10 @@
 ---
 author: roy
-date: 2019-02-21T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
+categories: []
+date: 2019-02-21 05:56:56
 tags:
 - quotes
-title: "This too shall pass"
+title: This too shall pass
 type: post
 ---
 

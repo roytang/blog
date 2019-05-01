@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-02-23 01:30:00
 tags:
 - projects
 - python
 - triviastorm
+- Software Development
 title: 'Weekend Project: Twitter Trivia Bot'
 type: post
 url: /2017/02/weekend-project-twitter-trivia-bot/

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-12-08 01:30:44
+tags:
+- Software Development
 title: Power Distance in Software Development
 type: post
 url: /2016/12/power-distance-in-software-development/

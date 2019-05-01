@@ -1,12 +1,11 @@
 ---
 author: roy
-date: 2019-03-03T13:56:56+08:00
-type: post
-categories:
-- Software Development
+categories: []
+date: 2019-03-03 05:56:56
 tags:
 - quora
-title: "Studying a large project codebase"
+- Software Development
+title: Studying a large project codebase
 type: post
 ---
 

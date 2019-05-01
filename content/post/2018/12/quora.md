@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-12-08 01:56:56
+tags:
 - Tech Life
-date: 2018-12-08T09:56:56+08:00
-title: "Quora"
+title: Quora
 type: post
 ---
 

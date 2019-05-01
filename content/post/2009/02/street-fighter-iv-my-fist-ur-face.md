@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2009-02-13 14:20:38
+tags:
+- Gaming
 title: 'Street Fighter IV: My Fist Ur Face'
 type: post
 url: /2009/02/street-fighter-iv-my-fist-ur-face/

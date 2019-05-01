@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-06-28 19:34:58
+tags:
+- Tech Life
 title: A Week So Far With Vista
 type: post
 url: /2008/06/a-week-so-far-with-vista/

@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-08-14 15:43:00
 title: Pop Ratio
 type: post

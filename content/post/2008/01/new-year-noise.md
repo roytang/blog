@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2008-01-01 04:06:05
 title: New Year Noise
 type: post
@@ -42,4 +41,4 @@ Sadly, that recording was no longer around during the last New Year's Eve. My
   
 dad said that the cassette player was no longer working and he wasn't sure
   
-where the recording was... 
+where the recording was...

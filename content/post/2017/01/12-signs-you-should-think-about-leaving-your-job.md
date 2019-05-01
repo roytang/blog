@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2017-01-31 01:30:38
+tags:
+- Opinions
 title: 12 Signs You Should Think About Leaving Your Job
 type: post
 url: /2017/01/12-signs-you-should-think-about-leaving-your-job/

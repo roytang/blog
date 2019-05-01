@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-10-08 14:57:28
+tags:
+- Magic the Gathering
 title: MTGO PTQ San Diego Schedule (Manila Time)
 type: post
 url: /2009/10/mtgo-ptq-san-diego-schedule-manila-time/

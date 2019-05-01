@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2002-04-20 04:00:33
 title: Snorks are underwater smurfs.
 type: post

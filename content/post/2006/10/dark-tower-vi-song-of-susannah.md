@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-10-29 09:16:01
 tags:
 - Books
-title: "Dark Tower VI -- Song of Susannah"
+- Pop Culture
+title: Dark Tower VI -- Song of Susannah
 type: post
 url: /2006/10/dark-tower-vi-song-of-susannah/
 ---

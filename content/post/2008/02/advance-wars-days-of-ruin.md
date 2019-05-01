@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2008-02-11 15:53:38
+tags:
+- Gaming
 title: 'Advance Wars: Days of Ruin'
 type: post
 url: /2008/02/advance-wars-days-of-ruin/

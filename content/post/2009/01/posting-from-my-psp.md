@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2009-01-21 12:12:37
+tags:
+- Meta
 title: Posting from my PSP
 type: post
 url: /2009/01/posting-from-my-psp/

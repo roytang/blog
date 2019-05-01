@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-05-25 14:33:00
 tags:
 - Movies
+- Pop Culture
 title: 'Movies: Revenge of the Sith'
 type: post
 url: /2005/05/movies-revenge-of-the-sith/

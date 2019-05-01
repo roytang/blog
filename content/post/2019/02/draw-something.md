@@ -1,12 +1,11 @@
 ---
 author: roy
-date: 2019-02-10T13:56:56+08:00
-type: post
-categories:
-- Tech Life
+categories: []
+date: 2019-02-10 05:56:56
 tags:
 - drawing
-title: "Draw Something"
+- Tech Life
+title: Draw Something
 type: post
 ---
 
@@ -28,4 +27,3 @@ Just a fun little throwback: some years back me and some friends played an app c
 ![](/uploads/2019/drawsomething/16700279_10155351712138912_7482828409577866200_o_10155351712138912.jpg)
 ![](/uploads/2019/drawsomething/16700408_10155351712433912_6581717741574307617_o_10155351712433912.jpg)
 ![](/uploads/2019/drawsomething/16707224_10155351712778912_3678544977402468028_o_10155351712778912.jpg)
-

@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-04-01 05:56:56
+tags:
 - Travels
-date: 2019-04-01T13:56:56+08:00
-title: "I Got A US Visa!"
+title: I Got A US Visa!
 type: post
 ---
 

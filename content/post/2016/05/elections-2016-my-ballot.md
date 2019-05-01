@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2016-05-02 16:35:05
-title: "Elections 2016 -- My Ballot"
+tags:
+- Philippines
+title: Elections 2016 -- My Ballot
 type: post
 url: /2016/05/elections-2016-my-ballot/
 ---

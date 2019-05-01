@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-10-25 03:28:00
 title: When Are You Sick Enough to Call In Sick?
 type: post

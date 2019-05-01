@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-06-06 22:30:57
+tags:
+- Opinions
 title: Immortality
 type: post
 url: /2016/06/immortality/

@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-08-19 05:47:32
+tags:
+- Software Development
 title: The Survey for People Who Make Websites
 type: post
 url: /2008/08/the-survey-for-people-who-make-websites/

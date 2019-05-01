@@ -1,14 +1,14 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2018-10-29 05:02:53
 tags:
 - Movies
 - Review
 - TV Series
 - watching lately
-title: "Watching Lately: October 2018"
+- Pop Culture
+title: 'Watching Lately: October 2018'
 type: post
 url: /2018/10/october-2018-watching-lately/
 ---

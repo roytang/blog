@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-12-06 01:56:56
+tags:
 - Self-improvement
-date: 2018-12-06T09:56:56+08:00
-title: "Easily Distracted"
+title: Easily Distracted
 type: post
 ---
-
 
 Via [a blog post by Dave Martin](http://davemart.in/resistance/), I read about Steven Pressfield's quotes on "The Resistance" that keeps us from doing our work:
 

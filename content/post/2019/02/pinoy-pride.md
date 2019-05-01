@@ -1,12 +1,12 @@
 ---
 author: roy
-date: 2019-02-17T13:56:56+08:00
-type: post
-categories:
-- Philippines
-title: "Pinoy Pride"
-type: post
+categories: []
+date: 2019-02-17 05:56:56
 featuredImage: https://roytang.net/uploads/2019/pinoy-pride.png
+tags:
+- Philippines
+title: Pinoy Pride
+type: post
 ---
 
 Filipinos have this weird concept of nationalistic/Pinoy pride where we as a nation brag about anyone who has even remote traces of Filipino blood and gets some sort of global recognition. I've even seen a few meme images about it:
@@ -20,4 +20,3 @@ I imagine that this tendency is because we are so starved of things to be proud 
 I don't really get this kind of Pinoy pride. I mean, I feel no special pride upon learning that some famous person happens to share some portion of my ethnicity, or that by geographical coincidence we were born in the same country. At best learning of such a thing would maybe elicit a "Neat!" from me. I don't really get the wild celebration over something like Pacquiao winning another bout or the country winning Ms Universe, etc. I suppose I'd have a better reaction if it was related to one of my interests, like a Pinoy winning a [Magic](/categories/magic-the-gathering/) World Championship, but that's less of pride and more of it inspires me that maybe I can do that too. 
 
 This is not to say I don't have a sense of national pride at all. There are some national accomplishments that do make me proud - an example would be ousting the dictator Marcos in 1986. Or maybe if we had some great advancement in science or culture. Something that would be worthy of a [Civilization Great Person](https://civilization.fandom.com/wiki/Great_People_(Civ6)) lol. (This post totally did not come around because I was thinking about what a modded Philippines civ should look like...)
-

@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-09-21 13:54:42
+tags:
+- Gaming
 title: Petals Around The Rose
 type: post
 url: /2004/09/petals-around-the-rose/

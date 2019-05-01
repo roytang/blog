@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2017-03-07 01:30:58
 title: Planning / Reacting / Relaxing
 type: post

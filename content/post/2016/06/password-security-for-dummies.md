@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2016-06-14 01:30:08
+tags:
+- Tech Life
 title: Password Security for Dummies
 type: post
 url: /2016/06/password-security-for-dummies/

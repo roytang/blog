@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-04-09 01:00:39
 title: An Uneventful Holy Week
 type: post

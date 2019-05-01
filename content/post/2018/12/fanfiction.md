@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Writing
+categories: []
+date: 2018-12-12 01:56:56
 tags:
 - nostalgia
-date: 2018-12-12T09:56:56+08:00
-title: "Fanfiction"
+- Writing
+title: Fanfiction
 type: post
 ---
 
@@ -14,4 +14,3 @@ This might surprise you, but I tried my hand at writing fanfiction back in the d
 Anyway, I'm not exceptionally proud of the writings, but I like having all my work available on this blog/website/whatever, so I've added them at this link: [Fanfiction](/tags/fanfiction/). Give them a read, if you'd like. The Final Fantasy ones are also available at [my user page on Fanfiction.net](https://www.fanfiction.net/u/107111/roytang). The Ranma one I can't find anywhere else on the web, for some reason. 
 
 It was kind of fun going through these again. Hmm, since I've been having trouble finishing original fiction projects, maybe I should try my hand at Fanfiction again, might be easier? I'll think about it.
-

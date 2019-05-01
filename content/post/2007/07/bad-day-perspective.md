@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-07-11 06:14:38
 title: Bad Day Perspective
 type: post

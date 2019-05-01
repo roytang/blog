@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-12-25 04:30:00
-title: "Games -- I Give Up On Dragon Quest VIII"
+tags:
+- Gaming
+title: Games -- I Give Up On Dragon Quest VIII
 type: post
 url: /2005/12/games-i-give-up-on-dragon-quest-viii/
 ---

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2008-03-19 03:36:26
+tags:
+- Tech Life
 title: Laptop Keyboards Suck
 type: post
 url: /2008/03/laptop-keyboards-suck/

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Writing
+categories: []
 date: 2016-12-06 01:30:39
+tags:
+- Writing
 title: Nanowrimo 2016 Post-Mortem
 type: post
 url: /2016/12/nanowrimo-2016-post-mortem/

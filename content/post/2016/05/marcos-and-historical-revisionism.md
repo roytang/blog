@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Philippines
-- Opinions
+categories: []
 date: 2016-05-16 07:04:23
 tags:
 - Politics
+- Philippines
+- Opinions
 title: Marcos and Historical Revisionism
 type: post
 url: /2016/05/marcos-and-historical-revisionism/

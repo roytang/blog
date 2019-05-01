@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2008-03-20 22:31:47
 title: How A Coworker Thinks I Would Blog
 type: post

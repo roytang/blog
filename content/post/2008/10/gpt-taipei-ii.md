@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-10-21 13:30:40
+tags:
+- Magic the Gathering
 title: GPT Taipei II
 type: post
 url: /2008/10/gpt-taipei-ii/

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-07-21 07:27:37
+tags:
+- Tech Life
 title: GMail Redesigned
 type: post
 url: /2008/07/gmail-redesigned/

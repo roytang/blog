@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-01-01 06:24:37
 title: New Year 2007
 type: post

@@ -1,15 +1,14 @@
 ---
 author: roy
-date: 2019-01-28T13:56:56+08:00
-type: post
-categories:
-- Pop Culture
+categories: []
+date: 2019-01-28 05:56:56
 tags:
 - Movies
 - Review
 - TV Series
 - watching lately
-title: "Watching Lately: January 2019"
+- Pop Culture
+title: 'Watching Lately: January 2019'
 type: post
 ---
 

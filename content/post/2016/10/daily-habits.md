@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Self-Improvement
+categories: []
 date: 2016-10-25 01:30:07
+tags:
+- Self-Improvement
 title: Daily Habits
 type: post
 url: /2016/10/daily-habits/

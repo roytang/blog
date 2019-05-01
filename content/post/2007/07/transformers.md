@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2007-07-01 16:56:45
 tags:
 - Movies
+- Pop Culture
 title: Transformers
 type: post
 url: /2007/07/transformers/

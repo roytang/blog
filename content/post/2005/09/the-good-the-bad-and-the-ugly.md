@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-09-06 02:32:00
 tags:
 - Movies
+- Pop Culture
 title: The Good, The Bad and the Ugly
 type: post
 url: /2005/09/the-good-the-bad-and-the-ugly/

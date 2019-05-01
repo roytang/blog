@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Gaming
+categories: []
 date: 2006-12-27 00:07:00
+tags:
+- Gaming
 title: The Next Generation of FAQs
 type: post
 url: /2006/12/the-next-generation-of-faqs/

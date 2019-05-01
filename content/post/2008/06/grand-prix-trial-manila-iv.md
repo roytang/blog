@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-06-16 10:00:26
+tags:
+- Magic the Gathering
 title: Grand Prix Trial Manila IV
 type: post
 url: /2008/06/grand-prix-trial-manila-iv/

@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2017-03-18 01:30:41
 tags:
 - Review
+- Gaming
 title: 'Review: Final Fantasy XV'
 type: post
 url: /2017/03/review-final-fantasy-xv/

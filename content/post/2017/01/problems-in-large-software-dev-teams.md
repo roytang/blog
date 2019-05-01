@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-01-26 01:30:20
+tags:
+- Software Development
 title: Problems in Large Software Dev Teams
 type: post
 url: /2017/01/problems-in-large-software-dev-teams/

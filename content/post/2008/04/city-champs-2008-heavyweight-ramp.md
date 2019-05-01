@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-04-03 06:51:58
+tags:
+- Magic the Gathering
 title: 'City Champs 2008: Heavyweight Ramp'
 type: post
 url: /2008/04/city-champs-2008-heavyweight-ramp/
@@ -230,4 +231,4 @@ Final record:
    
 11-8 games, 5-4 matches, finished #95 (won Extended Art Imperious Perfect)
 
-Underperformed again as usual. Of course, given that I came up with the decklist the night before and had zero playtesting I suppose it's not so bad. And given the 3 faerie decks I faced I don't think I would have done as well with the Lark deck. This deck is workable but could use a bit of tuning. (Obviously the Heavyweights are such a joke and have to go... ) People don't usually expect the unusually high amount of burn, and I even have the ability to deal upwards of 30 damage with the Hostility combo, so it's pretty flexible. I'll see what I can do to improve the Lark matchup... 
+Underperformed again as usual. Of course, given that I came up with the decklist the night before and had zero playtesting I suppose it's not so bad. And given the 3 faerie decks I faced I don't think I would have done as well with the Lark deck. This deck is workable but could use a bit of tuning. (Obviously the Heavyweights are such a joke and have to go... ) People don't usually expect the unusually high amount of burn, and I even have the ability to deal upwards of 30 damage with the Hostility combo, so it's pretty flexible. I'll see what I can do to improve the Lark matchup...

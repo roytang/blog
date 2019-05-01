@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2004-10-23 00:35:06
+tags:
+- Tech Life
 title: Firefox 1.0 on November 9
 type: post
 url: /2004/10/firefox-1-0-on-november-9/

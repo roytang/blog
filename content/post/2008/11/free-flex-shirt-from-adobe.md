@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Software Development
+categories: []
 date: 2008-11-21 05:42:21
+tags:
+- Software Development
 title: Free Flex Shirt from Adobe
 type: post
 url: /2008/11/free-flex-shirt-from-adobe/

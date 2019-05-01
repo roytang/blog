@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2002-07-10 01:30:18
 tags:
 - Legacy Blog Posts
+- Gaming
 title: Cheap Rushing
 type: post
 url: /2002/07/cheap-rushing/

@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-08-17 06:59:01
 title: Abundance and Scarcity
 type: post

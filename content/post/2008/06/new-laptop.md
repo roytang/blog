@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-06-21 21:46:54
+tags:
+- Tech Life
 title: New Laptop!
 type: post
 url: /2008/06/new-laptop/

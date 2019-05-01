@@ -1,9 +1,8 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-11-11 09:00:47
-title: "I'm a Moron"
+title: I'm a Moron
 type: post
 url: /2006/11/im-a-moron/
 ---

@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2013-12-28 15:50:30
-title: "2013 -- Books and Games"
+tags:
+- Gaming
+title: 2013 -- Books and Games
 type: post
 url: /2013/12/2013-books-and-games/
 ---

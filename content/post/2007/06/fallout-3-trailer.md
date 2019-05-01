@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2007-06-09 18:18:49
+tags:
+- Gaming
 title: Fallout 3 Trailer
 type: post
 url: /2007/06/fallout-3-trailer/

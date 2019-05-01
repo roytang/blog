@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Travels
+categories: []
 date: 2015-04-12 02:33:34
+tags:
+- Travels
 title: 'Europe 2015: Barcelona Part 2'
 type: post
 url: /2015/04/europe-2015-barcelona-part-2/

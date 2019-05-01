@@ -1,8 +1,9 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-04-12 21:46:10
-title: "Pre-Shadowmoor TripleTreat II -- Merfolk Again"
+tags:
+- Magic the Gathering
+title: Pre-Shadowmoor TripleTreat II -- Merfolk Again
 type: post
 url: /2008/04/pre-shadowmoor-tripletreat-ii-merfolk-again/
 ---

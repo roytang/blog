@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-04-20 16:34:39
+tags:
+- Gaming
 title: Sega Fantasy VI
 type: post
 url: /2005/04/sega-fantasy-vi/

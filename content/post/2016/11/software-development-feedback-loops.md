@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-11-03 01:30:18
+tags:
+- Software Development
 title: Software Development Feedback Loops
 type: post
 url: /2016/11/software-development-feedback-loops/

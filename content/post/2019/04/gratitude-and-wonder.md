@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-04-07T13:56:56+08:00
-title: "Gratitude and wonder"
+categories: []
+date: 2019-04-07 05:56:56
+title: Gratitude and wonder
 type: post
 ---
 

@@ -1,12 +1,14 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-04-27 05:56:56
+featuredImage: https://roytang.net/uploads/2019/endgame.jpg
+tags:
 - Pop Culture
 - Magic the Gathering
-date: 2019-04-27T13:56:56+08:00
-title: "We're in the Endgames now"
+- Movies
+title: We're in the Endgames now
 type: post
-featuredImage: https://roytang.net/uploads/2019/endgame.jpg
 ---
 
 Two endgames to discuss in one post! MTG War of the Spark and Avengers Endgame spoilers ahoy!

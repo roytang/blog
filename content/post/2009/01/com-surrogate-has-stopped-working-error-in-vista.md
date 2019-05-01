@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Software Development
+categories: []
 date: 2009-01-01 18:16:48
+tags:
+- Software Development
 title: COM Surrogate Has Stopped Working Error in Vista
 type: post
 url: /2009/01/com-surrogate-has-stopped-working-error-in-vista/

@@ -1,12 +1,11 @@
 ---
 author: roy
-date: 2019-01-30T13:56:56+08:00
-type: post
-categories:
-- Pop Culture
+categories: []
+date: 2019-01-30 05:56:56
 tags:
 - books
-title: "Hardy Boys"
+- Pop Culture
+title: Hardy Boys
 type: post
 ---
 

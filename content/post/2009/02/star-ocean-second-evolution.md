@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2009-02-08 09:51:46
+tags:
+- Gaming
 title: 'Star Ocean: Second Evolution'
 type: post
 url: /2009/02/star-ocean-second-evolution/

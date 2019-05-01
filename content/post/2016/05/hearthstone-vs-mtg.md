@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
+date: 2016-05-31 07:49:54
 tags:
 - ccgs
-date: 2016-05-31 07:49:54
+- Gaming
 title: Hearthstone vs MTG
 type: post
 url: /2016/05/hearthstone-vs-mtg/

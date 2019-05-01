@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2008-02-27 15:59:43
 title: Doodles
 type: post

@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-01-26T13:56:56+08:00
-title: "Life Isn't Fair"
+categories: []
+date: 2019-01-26 05:56:56
+title: Life Isn't Fair
 type: post
 ---
 
@@ -23,4 +22,4 @@ Quote 2:
 
 We accept that the natural order of the world is inherently unfair. There are stronger creatures and weaker creatures, there are predators and there are prey.
 
-But does it follow that because the natural world is unfair, that human society must also be unfair? 
+But does it follow that because the natural world is unfair, that human society must also be unfair?

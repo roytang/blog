@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-03-06 09:34:00
 tags:
 - Books
 - Review
+- Pop Culture
 title: 'Books: More Bob Ong'
 type: post
 url: /2005/03/books-more-bob-ong/

@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-12-31 03:03:11
 title: New Year's Eve
 type: post

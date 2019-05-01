@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-03-10 05:56:56
+tags:
 - Writing
-date: 2019-03-10T13:56:56+08:00
-title: "750 Words"
+title: 750 Words
 type: post
 ---
 

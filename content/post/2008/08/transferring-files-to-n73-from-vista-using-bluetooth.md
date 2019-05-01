@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-08-22 07:46:38
+tags:
+- Tech Life
 title: Transferring Files to N73 from Vista Using Bluetooth
 type: post
 url: /2008/08/transferring-files-to-n73-from-vista-using-bluetooth/

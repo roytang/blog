@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-10-03 06:39:51
 tags:
 - TV Series
+- Pop Culture
 title: Smallville, Season Six
 type: post
 url: /2006/10/smallville-season-six/

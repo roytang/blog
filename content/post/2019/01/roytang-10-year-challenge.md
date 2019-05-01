@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-01-27 05:56:56
+tags:
 - Meta
-date: 2019-01-27T13:56:56+08:00
-title: "roytang.net 10 Year Challenge"
+title: roytang.net 10 Year Challenge
 type: post
 ---
 

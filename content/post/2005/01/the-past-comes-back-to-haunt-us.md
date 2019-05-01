@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Meta
+categories: []
 date: 2005-01-11 15:45:33
+tags:
+- Meta
 title: The Past Comes Back to Haunt Us
 type: post
 url: /2005/01/the-past-comes-back-to-haunt-us/

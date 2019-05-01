@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2010-07-23 07:16:32
 title: What Am I Doing Now?
 type: post

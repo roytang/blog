@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-06-27 08:25:06
+tags:
+- Gaming
 title: 'Games: Naruto: Narutimate Hero'
 type: post
 url: /2004/06/games-naruto-narutimate-hero/

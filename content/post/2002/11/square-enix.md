@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2002-11-30 01:30:03
 tags:
 - Legacy Blog Posts
+- Gaming
 title: Square Enix
 type: post
 url: /2002/11/square-enix/

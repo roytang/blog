@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-12-26 17:18:16
+tags:
+- Magic the Gathering
 title: The Importance of Having a Team
 type: post
 url: /2007/12/the-importance-of-having-a-team/

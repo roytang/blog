@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2017-06-27 01:30:57
 title: Adulting
 type: post

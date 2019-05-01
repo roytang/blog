@@ -1,10 +1,8 @@
 ---
 author: roy
-date: 2019-02-11T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
-title: "Insomnia"
+categories: []
+date: 2019-02-11 05:56:56
+title: Insomnia
 type: post
 ---
 

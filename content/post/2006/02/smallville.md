@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-02-24 07:18:44
 tags:
 - TV Series
+- Pop Culture
 title: Smallville
 type: post
 url: /2006/02/smallville/

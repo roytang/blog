@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-04-18 05:56:56
+tags:
 - Gaming
-date: 2019-04-18T13:56:56+08:00
-title: "Starcraft 2"
+title: Starcraft 2
 type: post
 ---
 

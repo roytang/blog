@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Opinions
+categories: []
 date: 2016-08-02 01:30:15
+tags:
+- Opinions
 title: Motivation vs Discipline
 type: post
 url: /2016/08/motivation-vs-discipline/

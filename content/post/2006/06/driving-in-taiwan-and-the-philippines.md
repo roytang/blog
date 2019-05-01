@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2006-06-11 21:42:17
+tags:
+- Philippines
 title: Driving in Taiwan and the Philippines
 type: post
 url: /2006/06/driving-in-taiwan-and-the-philippines/

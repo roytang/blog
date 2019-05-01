@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-03-28 23:44:53
+tags:
+- Magic the Gathering
 title: Standard on Mar 28
 type: post
 url: /2009/03/standard-on-mar-28/

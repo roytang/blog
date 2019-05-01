@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Links
+categories: []
 date: 2006-09-17 03:39:58
+tags:
+- Links
 title: Guest Chair
 type: post
 url: /2006/09/guest-chair/

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-02-26 05:03:09
+tags:
+- Tech Life
 title: Adventures in Linux-land, part 2
 type: post
 url: /2006/02/adventures-in-linux-land-part-2/
@@ -35,4 +36,4 @@ they are the hottest and sexiest women alive ! But as the biggest fan on earth
   
 for wwe diva lita, i have to say that wwe's lita is the sexiest of all the wwe
   
-divas ! Please s... 
+divas ! Please s...

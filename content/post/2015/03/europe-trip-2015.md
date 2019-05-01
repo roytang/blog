@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Travels
+categories: []
 date: 2015-03-28 01:20:46
+tags:
+- Travels
 title: Europe Trip 2015
 type: post
 url: /2015/03/europe-trip-2015/

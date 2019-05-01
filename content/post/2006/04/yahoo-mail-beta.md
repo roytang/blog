@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-04-28 05:21:35
+tags:
+- Tech Life
 title: Yahoo Mail Beta
 type: post
 url: /2006/04/yahoo-mail-beta/

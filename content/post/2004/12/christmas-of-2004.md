@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-12-24 14:34:13
 title: Christmas of 2004
 type: post

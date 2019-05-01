@@ -1,13 +1,11 @@
 ---
-categories:
-- Just Another Day
+categories: []
 date: 2018-11-13 03:06:26
 publishdate: 2018-11-13 03:06:26
 tags:
 - communication
-title: "The larger the audience, the more careful you have to be with your words"
+title: The larger the audience, the more careful you have to be with your words
 ---
-
 
 The larger the audience, the more careful you have to be with your words.
 
@@ -29,4 +27,4 @@ When you're the head of an entire country, you have to be more careful with what
 
 
 
-The larger your audience, the more responsible you should be. 
+The larger your audience, the more responsible you should be.

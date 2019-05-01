@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-07-28 08:09:27
 title: Going to HK Again
 type: post

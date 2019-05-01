@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-10-06 01:30:27
-title: "A Programmer's Hubris"
+tags:
+- Software Development
+title: A Programmer's Hubris
 type: post
 url: /2016/10/a-programmers-hubris/
 ---

@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2008-05-11 05:00:13
 tags:
 - Comics
+- Pop Culture
 title: 'Pinoy Comic Strips: Beerkada'
 type: post
 url: /2008/05/pinoy-comic-strips-beerkada/

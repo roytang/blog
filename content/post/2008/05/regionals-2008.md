@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-05-18 08:44:12
+tags:
+- Magic the Gathering
 title: Regionals 2008
 type: post
 url: /2008/05/regionals-2008/

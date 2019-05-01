@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-09-29 01:30:42
+tags:
+- Software Development
 title: Type Interfaces Matter
 type: post
 url: /2016/09/type-interfaces-matter/

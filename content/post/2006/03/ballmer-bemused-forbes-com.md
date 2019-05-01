@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-03-26 07:57:59
-title: "Ballmer, Bemused -- Forbes.com"
+tags:
+- Tech Life
+title: Ballmer, Bemused -- Forbes.com
 type: post
 url: /2006/03/ballmer-bemused-forbes-com/
 ---

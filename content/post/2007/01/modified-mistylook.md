@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2007-01-15 22:45:53
+tags:
+- Meta
 title: Modified MistyLook
 type: post
 url: /2007/01/modified-mistylook/

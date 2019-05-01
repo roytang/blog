@@ -1,10 +1,11 @@
 ---
 author: Roy
-categories:
-- Links
+categories: []
 date: 2004-08-28 09:42:19
 format: link
-title: "August's End"
+tags:
+- Links
+title: August's End
 type: post
 url: /2004/08/august39s-end/
 ---

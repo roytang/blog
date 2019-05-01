@@ -1,11 +1,11 @@
 ---
-title: Revisiting C++ after a decade
 author: roy
-date: 2019-01-05T13:58:22+08:00
-categories:
-  - Software Development
+categories: []
+date: 2019-01-05 05:58:22
 tags:
-  - c++
+- c++
+- Software Development
+title: Revisiting C++ after a decade
 ---
 
 This year I had the dubious privilege of having to work with a C++ project again. Although my college education was in C, that was a completely different animal. I did self-study C++ for a bit back even before I was working, mostly because I was interested in game development even back then. I remember trying some OpenGL and/or DirectX stuff back with good old Borland Turbo-C++ during the DOS days and using the [Dev-C++ IDE][1] when I shifted to Windows. Professionally, I think there was at least one project where I had to work on a Windows-based application using C++ on Visual Studio 6 (before all this .NET nonsense), but for the life of me I can't even remember which project it was anymore. I do remember struggling more with the compiler and the IDE and the layouting of Windows components more than the language itself. And even then, I mostly used the language as an extension of C and not really taking advantage of the more advanced features.

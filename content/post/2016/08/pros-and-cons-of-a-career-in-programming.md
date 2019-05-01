@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-08-04 01:30:57
+tags:
+- Software Development
 title: Pros and Cons of a Career in Programming
 type: post
 url: /2016/08/pros-and-cons-of-a-career-in-programming/

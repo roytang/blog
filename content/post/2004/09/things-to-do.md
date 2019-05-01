@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-09-12 05:50:25
+tags:
+- Gaming
 title: Things To Do
 type: post
 url: /2004/09/things-to-do/

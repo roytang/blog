@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-09-05 01:01:07
+tags:
+- Gaming
 title: Liberated Games
 type: post
 url: /2004/09/liberated-games/

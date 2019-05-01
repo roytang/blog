@@ -1,10 +1,11 @@
 ---
 author: Roy
-categories:
-- Links
+categories: []
 date: 2006-02-19 00:00:02
 format: link
-title: "Today's del.icio.us bookmarks"
+tags:
+- Links
+title: Today's del.icio.us bookmarks
 type: post
 url: /2006/02/today39s-del-icio-us-bookmarks/
 ---

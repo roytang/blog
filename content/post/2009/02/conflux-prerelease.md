@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-02-01 00:00:24
+tags:
+- Magic the Gathering
 title: Conflux Prerelease
 type: post
 url: /2009/02/conflux-prerelease/

@@ -1,9 +1,8 @@
 ---
-title: "Exploration"
-date: 2018-11-16T10:00:21+08:00
-publishdate: 2018-11-16T10:00:21+08:00
-categories:
-- Just Another Day
+categories: []
+date: 2018-11-16 02:00:21
+publishdate: 2018-11-16 02:00:21
+title: Exploration
 ---
 
 The most efficient way to find something you like is to identify it, figure out where to find it, then go find it. This is why we have search engines and indexes and maps. This is why bookstores and groceries and department stores try to sort their wares into logical arrangements, to facilitate this efficient search.

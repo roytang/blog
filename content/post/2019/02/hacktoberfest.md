@@ -1,14 +1,13 @@
 ---
 author: roy
-date: 2019-02-14T13:56:56+08:00
-type: post
-categories:
-- Software Development
+categories: []
+date: 2019-02-14 05:56:56
 tags:
 - swag
 - hacktoberfest
 - open source
-title: "Hacktoberfest"
+- Software Development
+title: Hacktoberfest
 type: post
 ---
 

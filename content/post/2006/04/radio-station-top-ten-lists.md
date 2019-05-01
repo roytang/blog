@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-04-01 21:42:02
 title: Radio Station Top Ten Lists
 type: post

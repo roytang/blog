@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2017-02-07 01:30:31
+tags:
+- Gaming
 title: Gaming Walkthroughs
 type: post
 url: /2017/02/gaming-walkthroughs/

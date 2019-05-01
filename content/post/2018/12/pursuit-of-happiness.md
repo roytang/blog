@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
+date: 2018-12-23 05:56:56
 tags:
 - happiness
-date: 2018-12-23T13:56:56+08:00
-title: "The Pursuit of Happiness"
+title: The Pursuit of Happiness
 type: post
 ---
 
@@ -13,7 +12,7 @@ type: post
 
 Interesting article, a quote:
 
-> Kahneman argues that satisfaction is based mostly on comparisons. “Life satisfaction is connected to a large degree to social yardsticks–achieving goals, meeting expectations.”
+> Kahneman argues that satisfaction is based mostly on comparisons. “Life satisfaction is connected to a large degree to social yardsticks–achieving goals, meeting expectations."
 
 While I guess this is largely true for society as a whole, it's something I try to avoid for myself, since [comparison is the thief of joy](/2018/11/comparison-is-the-thief-of-joy/).
 

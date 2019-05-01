@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-12-31 05:56:56
+tags:
 - Self Improvement
-date: 2018-12-31T13:56:56+08:00
-title: "Suggested New Year's Resolutions"
+title: Suggested New Year's Resolutions
 type: post
 ---
 

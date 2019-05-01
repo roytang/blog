@@ -1,12 +1,12 @@
 ---
 author: roy
-date: 2019-02-16T13:56:56+08:00
-type: post
-categories:
-- Gaming
-title: "Game Review: Hollow Knight"
-type: post
+categories: []
+date: 2019-02-16 05:56:56
 featuredImage: https://roytang.net/uploads/2019/hollowknight-2.jpg
+tags:
+- Gaming
+title: 'Game Review: Hollow Knight'
+type: post
 ---
 
 Back in 2017 during a Steam Sale, I was trying to choose a [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) to play. My choices came down to either Ori and the Blind Forest or Hollow Knight. My impression that was that Ori had the more challenging platforming, while Hollow Knight had the more challenging combat. I chose Ori at that time, and I enjoyed that game. Last October, Hollow Knight was in a Humble Monthly, and I decided to go for it. I played it for just about a month since January, and my impressions remain the same, but I now think that while Ori had a better visual presentation, Hollow Knight is the superior game.

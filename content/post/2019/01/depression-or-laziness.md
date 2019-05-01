@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-01-25T13:56:56+08:00
-title: "Depression or just laziness?"
+categories: []
+date: 2019-01-25 05:56:56
+title: Depression or just laziness?
 type: post
 ---
 

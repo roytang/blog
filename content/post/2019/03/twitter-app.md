@@ -1,10 +1,10 @@
 ---
 author: roy
-date: 2019-03-25T13:56:56+08:00
-type: post
-categories:
+categories: []
+date: 2019-03-25 05:56:56
+tags:
 - Software Development
-title: "A Quick Twitter App I Wrote"
+title: A Quick Twitter App I Wrote
 type: post
 ---
 

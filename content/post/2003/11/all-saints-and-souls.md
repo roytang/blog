@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2003-11-01 13:32:29
+tags:
+- Gaming
 title: All Saints and Souls
 type: post
 url: /2003/11/all-saints-and-souls/
@@ -13,4 +14,4 @@ Anyway, I bought Temple of Elemental Evil today. I hear it's quite buggy though 
 
 Well, checking out the disk space led to other stuff, so now I'm resigned to spending the rest of the night cleaning up the stuff on the computer, installing new programs, getting rid of old ones, and lots of other general maintenance work.
 
-Chances are I'll be goofing again in a while though. Just like now... 
+Chances are I'll be goofing again in a while though. Just like now...

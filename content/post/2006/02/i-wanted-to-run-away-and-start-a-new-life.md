@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-02-13 07:44:15
 title: I Wanted to Run Away And Start A New Life
 type: post

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-09-06 01:30:54
+tags:
+- Opinions
 title: Random Thoughts on Time
 type: post
 url: /2016/09/random-thoughts-on-time/

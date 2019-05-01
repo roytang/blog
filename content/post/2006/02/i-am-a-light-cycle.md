@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2006-02-23 19:53:15
+tags:
+- Gaming
 title: I Am A Light Cycle
 type: post
 url: /2006/02/i-am-a-light-cycle/

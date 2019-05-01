@@ -1,11 +1,12 @@
 ---
 author: roy
-categories:
-- Tech Life
-date: 2018-12-10T09:56:56+08:00
-title: "Macbook Air (2017 Model)"
-type: post
+categories: []
+date: 2018-12-10 01:56:56
 featuredImage: https://roytang.net/uploads/2018/macbookair.jpg
+tags:
+- Tech Life
+title: Macbook Air (2017 Model)
+type: post
 ---
 
 Friends will know I've been wanting to get a Macbook for quite a while now. I have chat messages as far back as 2016 musing about buying a Macbook Pro. I haven't had a serious [personal laptop purchase since 2008](/2008/06/new-laptop/). (Side note: Qualifier "serious" because I do have a low-spec MSI laptop I think I bought for cheap some years ago that I'm not really happy with. It's got a dead battery now, I should probably install it with a more lightweight Linux or something and maybe use it as a torrent device or such?)

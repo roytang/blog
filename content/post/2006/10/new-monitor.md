@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-10-30 08:28:38
 tags:
 - Hardware
+- Tech Life
 title: new monitor
 type: post
 url: /2006/10/new-monitor/

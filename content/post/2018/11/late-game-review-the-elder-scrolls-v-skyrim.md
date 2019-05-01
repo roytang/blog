@@ -1,17 +1,17 @@
 ---
-title: 'Late Game Review: The Elder Scrolls V — Skyrim'
 author: roy
-type: post
-date: 2018-11-11T05:07:53+00:00
-url: /2018/11/late-game-review-the-elder-scrolls-v-skyrim/
-categories:
-  - Gaming
+categories: []
+date: 2018-11-11 05:07:53
 tags:
-  - late-game-review
-  - review
-
+- late-game-review
+- review
+- Gaming
+title: "Late Game Review: The Elder Scrolls V \xE2\u20AC\u201D Skyrim"
+type: post
+url: /2018/11/late-game-review-the-elder-scrolls-v-skyrim/
 ---
-_(“Late Game Review” because I’m trying to play through games on my ridiculously old backlog, so these games are pretty old)_<figure class="wp-block-image">
+
+_(“Late Game Review" because I’m trying to play through games on my ridiculously old backlog, so these games are pretty old)_<figure class="wp-block-image">
 
 <img src="https://roytang.net/wp-content/uploads/2018/10/skyrim.jpg" alt="" class="wp-image-2936" srcset="https://roytang.net/wp-content/uploads/2018/10/skyrim.jpg 958w, https://roytang.net/wp-content/uploads/2018/10/skyrim-300x176.jpg 300w, https://roytang.net/wp-content/uploads/2018/10/skyrim-768x450.jpg 768w, https://roytang.net/wp-content/uploads/2018/10/skyrim-600x351.jpg 600w" sizes="(max-width: 958px) 100vw, 958px" /></figure> 
 

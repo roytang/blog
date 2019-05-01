@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
+date: 2019-04-09 05:56:56
 tags:
 - nostalgia
-date: 2019-04-09T13:56:56+08:00
-title: "Digging Through Time"
+- Tech Life
+title: Digging Through Time
 type: post
 ---
 

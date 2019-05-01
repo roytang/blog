@@ -4,11 +4,11 @@ aktt_notify_twitter:
 aktt_tweeted:
 - 1
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2012-06-03 06:31:50
 tags:
 - Comics
+- Pop Culture
 title: 'DC New 52 Review Part 2: Batman and Gotham'
 type: post
 url: /2012/06/dc-new-52-review-part-2-batman-and-gotham/

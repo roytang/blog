@@ -1,9 +1,8 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-05-14 23:29:32
-title: "Other People's Toilets"
+title: Other People's Toilets
 type: post
 url: /2006/05/other-people39s-toilets/
 ---

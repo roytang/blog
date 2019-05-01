@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Self-Improvement
+categories: []
 date: 2017-08-12 01:30:05
+tags:
+- Self-Improvement
 title: Compartmentalization
 type: post
 url: /2017/08/compartmentalization/

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-12-15 01:56:56
+tags:
 - Opinions
-date: 2018-12-15T09:56:56+08:00
 title: The Great Filter
 type: post
 ---

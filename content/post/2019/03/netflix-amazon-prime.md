@@ -1,13 +1,12 @@
 ---
 author: roy
-date: 2019-03-04T13:56:56+08:00
-type: post
-categories:
-- Pop Culture
+categories: []
+date: 2019-03-04 05:56:56
 tags:
 - tv
 - movies
-title: "Netflix and Amazon Prime: An abundance of content"
+- Pop Culture
+title: 'Netflix and Amazon Prime: An abundance of content'
 type: post
 ---
 
@@ -28,4 +27,3 @@ Not content with Netflix though, I also subbed to Amazon Prime around six months
 There's definitely still a lot of holes in the streaming content available locally though - we don't have Hulu for one thing. And the new services like DC Universe and Disney+ probably won't be available here for a while. I'm hoping those companies choose to have Netflix distribute internationally in the meantime. For the regular network shows like the Arrowverse shows, I still have to use traditional less legal methods to keep up weekly. Hopefully we're moving towards a future where international viewers have the same legal streaming options available as the Western world does. 
 
 (I really should cut down on my TV shows though...)
-

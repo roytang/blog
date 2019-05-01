@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2016-10-04 01:30:39
+tags:
 - Opinions
 - Philippines
-date: 2016-10-04 01:30:39
 title: Appearances and Diplomacy
 type: post
 url: /2016/10/appearances-and-diplomacy/

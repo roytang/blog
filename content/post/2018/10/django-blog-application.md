@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2018-10-28 05:02:37
 tags:
 - projects
 - python
 - royondjango
+- Software Development
 title: Django Blog Application
 type: post
 url: /2018/10/django-blog-application/

@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
+date: 2019-04-08 05:56:56
 tags:
 - quora
-date: 2019-04-08T13:56:56+08:00
-title: "How can I find my interests in life?"
+title: How can I find my interests in life?
 type: post
 ---
 

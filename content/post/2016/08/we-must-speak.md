@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2016-08-20 01:18:40
+tags:
 - Opinions
 - Philippines
-date: 2016-08-20 01:18:40
 title: We Must Speak
 type: post
 url: /2016/08/we-must-speak/

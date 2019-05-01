@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-12-26 05:56:56
+tags:
 - Gaming
-date: 2018-12-26T13:56:56+08:00
-title: "Gaming Backlogs"
+title: Gaming Backlogs
 type: post
 ---
 
@@ -30,4 +31,3 @@ I'm trying to do better - this year I have been trying to work through my older 
 - new games coming out that I want to play lol
 
 Realistically, I'll never be able to got through my entire Steam collection in my lifetime, but I can try! Maybe I should do something like go through all the small games first, and just immediately stop playing if I find them not to my liking. (This is a bit difficult for me since I dislike giving up on things). Hmm, that's an idea. What if I do a Twitch/Youtube channel where I feature and try out lesser-known indie games on Steam? I certainly have a whole lot of them! Something to consider for the future!
-

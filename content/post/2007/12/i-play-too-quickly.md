@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-12-01 08:27:08
+tags:
+- Magic the Gathering
 title: I Play Too Quickly
 type: post
 url: /2007/12/i-play-too-quickly/

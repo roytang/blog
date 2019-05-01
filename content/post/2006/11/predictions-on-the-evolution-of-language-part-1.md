@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Opinions
+categories: []
 date: 2006-11-06 06:48:38
+tags:
+- Opinions
 title: Predictions on the Evolution of Language, Part 1
 type: post
 url: /2006/11/predictions-on-the-evolution-of-language-part-1/

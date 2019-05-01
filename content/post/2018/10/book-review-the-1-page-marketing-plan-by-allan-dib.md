@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2018-10-10 01:00:51
 tags:
 - Books
 - Review
+- Pop Culture
 title: 'Book Review: The 1-Page Marketing Plan by Allan Dib'
 type: post
 url: /2018/10/book-review-the-1-page-marketing-plan-by-allan-dib/

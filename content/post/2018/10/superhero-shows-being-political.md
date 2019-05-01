@@ -1,13 +1,13 @@
 ---
 author: roy
-categories:
-- Pop Culture
-- Opinions
+categories: []
 date: 2018-10-27 05:02:37
 tags:
 - Comics
 - Politics
 - TV Series
+- Pop Culture
+- Opinions
 title: Superhero shows being political
 type: post
 url: /2018/10/superhero-shows-being-political/

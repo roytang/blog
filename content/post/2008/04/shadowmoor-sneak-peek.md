@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-04-26 22:42:32
+tags:
+- Magic the Gathering
 title: Shadowmoor Sneak Peek
 type: post
 url: /2008/04/shadowmoor-sneak-peek/

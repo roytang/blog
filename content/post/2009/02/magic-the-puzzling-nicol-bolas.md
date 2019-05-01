@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-02-08 06:59:44
+tags:
+- Magic the Gathering
 title: 'Magic the Puzzling: Nicol Bolas'
 type: post
 url: /2009/02/magic-the-puzzling-nicol-bolas/

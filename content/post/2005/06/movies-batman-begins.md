@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-06-19 11:39:00
 tags:
 - Movies
+- Pop Culture
 title: 'Movies: Batman Begins'
 type: post
 url: /2005/06/movies-batman-begins/

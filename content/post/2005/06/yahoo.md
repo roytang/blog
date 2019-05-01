@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2005-06-16 16:21:00
+tags:
+- Software Development
 title: Yahoo!
 type: post
 url: /2005/06/yahoo/

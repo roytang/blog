@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2003-11-17 14:36:19
 title: Stompy
 type: post

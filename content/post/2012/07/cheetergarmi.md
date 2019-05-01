@@ -2,8 +2,7 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2012-07-13 07:08:25
 tags:
 - Nostalgia

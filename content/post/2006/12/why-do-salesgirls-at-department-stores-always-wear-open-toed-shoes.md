@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-12-30 15:09:25
 title: Why Do Salesgirls at Department Stores Always Wear Open-Toed Shoes
 type: post

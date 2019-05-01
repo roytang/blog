@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-06-08 22:30:10
+tags:
+- Software Development
 title: The Programming Application Process
 type: post
 url: /2016/06/the-programming-application-process/

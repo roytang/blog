@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2007-10-07 05:11:08
+tags:
+- Gaming
 title: Memories of Zelda
 type: post
 url: /2007/10/memories-of-zelda/

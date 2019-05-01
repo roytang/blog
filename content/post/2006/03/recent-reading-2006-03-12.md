@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-03-12 00:42:25
 tags:
 - Books
+- Pop Culture
 title: Recent Reading 2006-03-12
 type: post
 url: /2006/03/recent-reading-2006-03-12/

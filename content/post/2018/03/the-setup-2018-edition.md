@@ -1,10 +1,11 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-03-15 01:00:18
+tags:
 - Gaming
 - Software Development
 - Tech Life
-date: 2018-03-15 01:00:18
 title: The Setup 2018 Edition
 type: post
 url: /2018/03/the-setup-2018-edition/

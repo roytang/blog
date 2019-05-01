@@ -2,12 +2,12 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2010-09-25 23:40:14
 tags:
 - Limited
 - tournament-report
+- Magic the Gathering
 title: Scars of Mirrodin Prerelease Report!
 type: post
 url: /2010/09/scars-of-mirrodin-prerelease-report/

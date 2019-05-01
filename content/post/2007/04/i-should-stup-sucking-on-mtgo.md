@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-04-14 23:53:33
+tags:
+- Magic the Gathering
 title: I Should Stup Sucking on MTGO
 type: post
 url: /2007/04/i-should-stup-sucking-on-mtgo/

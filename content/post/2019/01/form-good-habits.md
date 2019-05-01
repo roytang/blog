@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Self-Improvement
+categories: []
+date: 2019-01-03 05:56:56
 tags:
 - Books
-date: 2019-01-03T13:56:56+08:00
-title: "Form good habits and become their slave"
+- Self-Improvement
+title: Form good habits and become their slave
 type: post
 ---
 
@@ -21,4 +21,3 @@ The book tells us that:
 Therefore, in order to improve your life, you should form good habits and become their slave. So if you have a NYR like "quit smoking", you should choose a "good habit" to replace the "bad habit" of smoking with. Maybe every time you get an urge to smoke, you pick up a book instead and start reading? Just a suggestion.
 
 (The rest of Mandino's book consists mostly of recommended self-affirmations, which is the "good habit" he recommends to improve your life.)
-

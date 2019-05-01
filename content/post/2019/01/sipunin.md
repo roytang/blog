@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-01-11T13:56:56+08:00
-title: "Sipunin"
+categories: []
+date: 2019-01-11 05:56:56
+title: Sipunin
 type: post
 ---
 

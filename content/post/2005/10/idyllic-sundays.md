@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-10-23 08:35:00
 title: Idyllic Sundays
 type: post

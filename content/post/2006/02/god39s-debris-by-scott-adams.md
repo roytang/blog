@@ -1,12 +1,12 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-02-07 06:43:07
 tags:
 - Books
 - Review
-title: "God's Debris by Scott Adams"
+- Pop Culture
+title: God's Debris by Scott Adams
 type: post
 url: /2006/02/god39s-debris-by-scott-adams/
 ---

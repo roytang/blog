@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-08-25 01:30:43
+tags:
+- Software Development
 title: The Secrets to Perfect Estimates
 type: post
 url: /2016/08/the-secrets-to-perfect-estimates/

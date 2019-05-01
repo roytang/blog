@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-04-05 00:57:37
+tags:
+- Magic the Gathering
 title: Standard on April 4
 type: post
 url: /2009/04/standard-on-april-4/

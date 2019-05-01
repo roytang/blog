@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-07-15 23:46:10
 title: Potpourri
 type: post

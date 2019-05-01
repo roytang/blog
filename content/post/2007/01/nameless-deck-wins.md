@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-01-07 21:07:34
+tags:
+- Magic the Gathering
 title: Nameless Deck Wins
 type: post
 url: /2007/01/nameless-deck-wins/

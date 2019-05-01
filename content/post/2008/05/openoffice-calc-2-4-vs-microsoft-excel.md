@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-05-14 20:00:33
+tags:
+- Tech Life
 title: OpenOffice Calc 2.4 vs Microsoft Excel
 type: post
 url: /2008/05/openoffice-calc-2-4-vs-microsoft-excel/

@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Travels
+categories: []
 date: 2004-05-12 11:14:42
-title: "So I Went to HK"
+tags:
+- Travels
+title: So I Went to HK
 type: post
 url: /2004/05/so-i-went-to-hk/
 ---

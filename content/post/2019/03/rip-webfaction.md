@@ -1,13 +1,12 @@
 ---
 author: roy
-date: 2019-03-15T13:56:56+08:00
-type: post
-categories:
-- Tech Life
-- Meta
+categories: []
+date: 2019-03-15 05:56:56
 tags:
 - webfaction
-title: "RIP Webfaction?"
+- Tech Life
+- Meta
+title: RIP Webfaction?
 type: post
 ---
 

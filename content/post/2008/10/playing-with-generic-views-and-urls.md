@@ -1,9 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-10-20 13:44:00
 tags:
 - royondjango
+- Software Development
 title: Playing with Generic Views and URLs
 type: post
 url: /2008/10/playing-with-generic-views-and-urls/

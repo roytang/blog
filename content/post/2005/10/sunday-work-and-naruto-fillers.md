@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-10-29 22:56:00
 tags:
 - TV Series
+- Pop Culture
 title: Sunday Work and Naruto Fillers
 type: post
 url: /2005/10/sunday-work-and-naruto-fillers/

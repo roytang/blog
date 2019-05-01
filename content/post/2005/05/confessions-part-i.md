@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-05-30 13:27:00
 title: Confessions, Part I
 type: post

@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Pop Culture
-- Meta
+categories: []
 date: 2004-11-24 22:23:59
 tags:
 - Books
-title: "The Waste Lands -- Found"
+- Pop Culture
+- Meta
+title: The Waste Lands -- Found
 type: post
 url: /2004/11/the-waste-lands-found/
 ---

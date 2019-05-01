@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-07-28 19:03:11
 title: Brush with the Law
 type: post

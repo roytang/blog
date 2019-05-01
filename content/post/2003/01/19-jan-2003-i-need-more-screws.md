@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2003-01-19 01:30:05
 tags:
 - Hardware
 - Legacy Blog Posts
+- Tech Life
 title: '19 Jan 2003: I need more screws!'
 type: post
 url: /2003/01/19-jan-2003-i-need-more-screws/

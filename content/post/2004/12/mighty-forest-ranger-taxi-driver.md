@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-12-12 15:13:02
 title: Mighty Forest Ranger Taxi Driver
 type: post

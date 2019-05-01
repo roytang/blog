@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-07-07 01:30:00
+tags:
+- Software Development
 title: 'Web Security: File Upload Vulnerabilities'
 type: post
 url: /2016/07/web-security-file-upload-vulnerabilities/

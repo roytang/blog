@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2008-02-13 15:51:57
-title: "A Few Pictures from Kerwin and Joy's Wedding"
+tags:
+- Tech Life
+title: A Few Pictures from Kerwin and Joy's Wedding
 type: post
 url: /2008/02/a-few-pictures-from-kerwin-and-joy39s-wedding/
 ---

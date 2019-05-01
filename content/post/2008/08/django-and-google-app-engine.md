@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-08-25 04:37:43
+tags:
+- Software Development
 title: Django and Google App Engine
 type: post
 url: /2008/08/django-and-google-app-engine/

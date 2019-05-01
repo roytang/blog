@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-01-01 01:56:56
+tags:
 - Self-Improvement
-date: 2019-01-01T09:56:56+08:00
-title: "New Year's Checklist 2019"
+title: New Year's Checklist 2019
 type: post
 ---
 

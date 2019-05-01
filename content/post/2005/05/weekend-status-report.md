@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-05-02 09:41:00
 title: Weekend Status Report
 type: post

@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2004-11-04 17:15:49
 tags:
 - Books
+- Pop Culture
 title: Cryptonomicon
 type: post
 url: /2004/11/cryptonomicon/

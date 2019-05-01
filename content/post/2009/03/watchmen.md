@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2009-03-08 08:13:22
 tags:
 - Movies
 - Review
+- Pop Culture
 title: Watchmen
 type: post
 url: /2009/03/watchmen/

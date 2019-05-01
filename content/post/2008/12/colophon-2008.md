@@ -1,9 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-12-27 02:08:22
 tags:
 - royondjango
+- Software Development
 title: Colophon 2008
 type: post
 url: /2008/12/colophon-2008/

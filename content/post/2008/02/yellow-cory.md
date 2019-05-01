@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2008-02-25 08:28:29
+tags:
+- Philippines
 title: Yellow Cory
 type: post
 url: /2008/02/yellow-cory/

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2017-02-28 01:30:33
+tags:
+- Opinions
 title: Boxes
 type: post
 url: /2017/02/boxes/

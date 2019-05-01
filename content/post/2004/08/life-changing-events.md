@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-08-28 10:26:02
 draft: true
 private: true
@@ -26,4 +25,4 @@ How did I change? For one thing, I seem to have gotten back a whole lot friendli
 
 Two things have happened as a result of this, basically: one, I'm more open to people now; and two, I spent some time thinking about love and life, and my life in general, where I want to go and what I want to do. I think I learned a lot about myself; maybe I'll write about it one of these days.
 
-For now, I just want to remember that she is the reason I'm feeling this way... 
+For now, I just want to remember that she is the reason I'm feeling this way...

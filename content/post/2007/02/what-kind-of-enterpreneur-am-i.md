@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2007-02-28 18:06:16
+tags:
+- Meta
 title: What Kind of Enterpreneur Am I?
 type: post
 url: /2007/02/what-kind-of-enterpreneur-am-i/

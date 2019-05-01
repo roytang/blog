@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2004-10-31 06:56:49
+tags:
+- Tech Life
 title: Firefox in 98?
 type: post
 url: /2004/10/firefox-in-98/

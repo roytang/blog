@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2006-04-13 06:50:08
-title: "Contrast: Suikoden V vs Baldur's Gate 2"
+tags:
+- Gaming
+title: 'Contrast: Suikoden V vs Baldur''s Gate 2'
 type: post
 url: /2006/04/contrast-suikoden-v-vs-baldurs-gate-2/
 ---

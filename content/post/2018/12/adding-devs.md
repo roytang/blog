@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
+date: 2018-12-13 01:56:56
 tags:
 - devto
-date: 2018-12-13T09:56:56+08:00
-title: "Adding Developers to a Late Project"
+- Software Development
+title: Adding Developers to a Late Project
 type: post
 ---
 

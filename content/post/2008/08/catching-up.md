@@ -1,9 +1,9 @@
 ---
 author: Roy
-categories:
-- Gaming
-- Just Another Day
+categories: []
 date: 2008-08-07 18:02:03
+tags:
+- Gaming
 title: Catching Up
 type: post
 url: /2008/08/catching-up/

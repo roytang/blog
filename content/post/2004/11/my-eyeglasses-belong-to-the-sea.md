@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-11-03 09:30:02
 title: My Eyeglasses Belong To The Sea
 type: post

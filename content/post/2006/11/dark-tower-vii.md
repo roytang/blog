@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-11-18 02:09:13
 tags:
 - Books
+- Pop Culture
 title: Dark Tower VII
 type: post
 url: /2006/11/dark-tower-vii/

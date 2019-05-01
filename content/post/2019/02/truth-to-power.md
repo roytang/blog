@@ -1,12 +1,11 @@
 ---
 author: roy
-date: 2019-02-15T13:56:56+08:00
-type: post
-categories:
-- Opinions
+categories: []
+date: 2019-02-15 05:56:56
 tags:
 - current events
-title: "Speaking truth to power"
+- Opinions
+title: Speaking truth to power
 type: post
 ---
 

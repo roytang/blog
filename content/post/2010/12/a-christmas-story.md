@@ -2,8 +2,7 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2010-12-20 15:33:57
 title: A Christmas Story
 type: post

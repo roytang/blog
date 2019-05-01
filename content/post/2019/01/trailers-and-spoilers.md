@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
+date: 2019-01-24 05:56:56
 tags:
 - movies
-date: 2019-01-24T13:56:56+08:00
+- Pop Culture
 title: Trailers and Spoilers
 type: post
 ---
@@ -19,4 +19,4 @@ It might also be a problem with these comic book movies that they come from an e
 
 I think the perfect trailer for a completely new franchise gives you a taste of what's to come without giving you details of the major conflict and so on. The *Captain Marvel* and *Shazam* trailers have been pretty good in this regard.
 
-For a sequel, the perfect trailer for me would be the first trailer for *Avengers: Endgame*, which basically acted as a "story so far", giving no new info that we didn't know from *Infinity War*. Other than the actual movie's title at least, which I had been anticipating for a long time. 
+For a sequel, the perfect trailer for me would be the first trailer for *Avengers: Endgame*, which basically acted as a "story so far", giving no new info that we didn't know from *Infinity War*. Other than the actual movie's title at least, which I had been anticipating for a long time.

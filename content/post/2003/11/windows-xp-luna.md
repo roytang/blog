@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2003-11-26 02:35:26
+tags:
+- Tech Life
 title: 'Windows XP: Luna'
 type: post
 url: /2003/11/windows-xp-luna/

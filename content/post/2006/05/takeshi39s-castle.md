@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-05-04 07:13:29
 tags:
 - TV Series
-title: "Takeshi's Castle"
+- Pop Culture
+title: Takeshi's Castle
 type: post
 url: /2006/05/takeshi39s-castle/
 ---

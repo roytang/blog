@@ -2,8 +2,7 @@
 aktt_notify_twitter:
 - true
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2010-11-23 15:35:45
 title: Randomly Amazed
 type: post

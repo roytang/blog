@@ -1,13 +1,12 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Pop Culture
-- Tech Life
+categories: []
 date: 2018-05-01 01:00:47
 tags:
 - Movies
 - TV Series
+- Pop Culture
+- Tech Life
 title: Spoiler Alert!
 type: post
 url: /2018/05/spoiler-alert/

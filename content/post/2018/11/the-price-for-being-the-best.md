@@ -1,13 +1,14 @@
 ---
-title: The Price for Being the Best
 author: roy
-type: post
-date: 2018-11-20T10:06:56+08:00
-categories:
-  - Self-Improvement
+categories: []
+date: 2018-11-20 02:06:56
 tags:
-  - quotes
+- quotes
+- Self-Improvement
+title: The Price for Being the Best
+type: post
 ---
+
 > "The price for being the best is always... having to *be* the best." 
 > 
 > - Terry Pratchet, *Lords and Ladies*

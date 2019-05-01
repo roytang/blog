@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-12-16 21:22:26
 title: The More They Stay The Same
 type: post

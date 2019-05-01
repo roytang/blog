@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-12-05 05:17:00
 title: The Left Half of My Mouth is Numb, Thanks
 type: post

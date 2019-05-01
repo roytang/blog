@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-10-28 17:07:00
-title: "Games -- Walk of Game"
+tags:
+- Gaming
+title: Games -- Walk of Game
 type: post
 url: /2005/10/games-walk-of-game/
 ---

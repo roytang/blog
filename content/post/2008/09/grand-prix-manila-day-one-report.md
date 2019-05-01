@@ -1,11 +1,11 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-09-07 00:40:02
 tags:
 - grand-prix
 - standard
 - tournament-report
+- Magic the Gathering
 title: Grand Prix Manila Day One Report
 type: post
 url: /2008/09/grand-prix-manila-day-one-report/

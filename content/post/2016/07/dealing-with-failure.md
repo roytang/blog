@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Self-improvement
+categories: []
+date: 2016-07-12 01:30:04
 tags:
 - quora
-date: 2016-07-12 01:30:04
+- Self-improvement
 title: Dealing with Failure
 type: post
 url: /2016/07/dealing-with-failure/

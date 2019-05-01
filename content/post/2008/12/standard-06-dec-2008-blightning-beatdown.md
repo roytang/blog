@@ -1,8 +1,9 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-12-06 22:16:37
-title: "Standard 06 Dec 2008 -- Blightning Beatdown"
+tags:
+- Magic the Gathering
+title: Standard 06 Dec 2008 -- Blightning Beatdown
 type: post
 url: /2008/12/standard-06-dec-2008-blightning-beatdown/
 ---

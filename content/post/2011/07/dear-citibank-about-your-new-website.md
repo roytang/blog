@@ -2,10 +2,9 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2011-07-31 08:01:11
-title: "Dear Citibank, About Your New Website"
+title: Dear Citibank, About Your New Website
 type: post
 url: /2011/07/dear-citibank-about-your-new-website/
 ---

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2006-02-15 16:14:10
+tags:
+- Philippines
 title: Open Up and Say Yumburger.
 type: post
 url: /2006/02/open-up-and-say-yumburger/

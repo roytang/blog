@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2003-11-04 15:52:19
+tags:
+- Gaming
 title: W3Chart
 type: post
 url: /2003/11/w3chart-2/

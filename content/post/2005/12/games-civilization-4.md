@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-12-31 00:35:00
-title: "Games -- Civilization 4"
+tags:
+- Gaming
+title: Games -- Civilization 4
 type: post
 url: /2005/12/games-civilization-4/
 ---
@@ -19,4 +20,4 @@ But I'm not playing it again. Why? Because the game's performance is crap-tastic
 
 It's a testament to both the addictiveness of the gameplay and how much patience I've gained recently that I was able to finish two games at all. But as it is, I'm not playing it again until some radical performance improvment happens.
 
-Maybe I can still find a copy of Civ3... 
+Maybe I can still find a copy of Civ3...

@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-08-13 01:30:55
 tags:
 - Review
+- Opinions
 title: 'Review: Stranger Things'
 type: post
 url: /2016/08/review-stranger-things/

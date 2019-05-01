@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2018-10-23 01:00:35
 tags:
 - philosophy
+- Opinions
 title: Capitalism
 type: post
 url: /2018/10/capitalism/

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-06-01 22:31:10
+tags:
+- Software Development
 title: You Are Not Your Code
 type: post
 url: /2016/06/you-are-not-your-code/

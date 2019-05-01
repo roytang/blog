@@ -1,11 +1,12 @@
 ---
 author: roy
-categories:
-- Gaming
-date: 2019-01-13T13:56:56+08:00
-title: "Papers Please"
-type: post
+categories: []
+date: 2019-01-13 05:56:56
 featuredImage: https://roytang.net/uploads/2019/papers-please.jpg
+tags:
+- Gaming
+title: Papers Please
+type: post
 ---
 
 I had been eyeing [Lucas Pope](https://twitter.com/dukope)'s acclaimed indie hit *Papers Please* on Steam for a while, but finally bit the bullet on it during the last sale. The story of the game itself is interesting, as Pope was more or less a one-man team, doing the design, code, music and art for the game himself.

@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2005-09-12 11:00:00
+tags:
+- Philippines
 title: Manny Pacquiao
 type: post
 url: /2005/09/manny-pacquiao/

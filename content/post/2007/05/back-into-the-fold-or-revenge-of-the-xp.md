@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2007-05-28 04:58:02
+tags:
+- Tech Life
 title: Back into the Fold (or Revenge of the XP)
 type: post
 url: /2007/05/back-into-the-fold-or-revenge-of-the-xp/

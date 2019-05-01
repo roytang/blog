@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-06-09 11:23:00
 title: The Sort of Conversations I Have At Work
 type: post

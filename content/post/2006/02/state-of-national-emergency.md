@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2006-02-24 07:42:40
+tags:
+- Philippines
 title: State of National Emergency
 type: post
 url: /2006/02/state-of-national-emergency/

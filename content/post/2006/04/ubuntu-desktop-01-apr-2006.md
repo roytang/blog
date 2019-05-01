@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-04-02 07:01:41
+tags:
+- Tech Life
 title: Ubuntu Desktop 01-Apr-2006
 type: post
 url: /2006/04/ubuntu-desktop-01-apr-2006/

@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-08-03 13:54:33
+tags:
+- Magic the Gathering
 title: 'GPT Bangkok #4 *1st*'
 type: post
 url: /2009/08/gpt-bangkok-4-1st/

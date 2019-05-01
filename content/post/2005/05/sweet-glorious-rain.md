@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-05-08 17:03:00
 title: Sweet Glorious Rain
 type: post

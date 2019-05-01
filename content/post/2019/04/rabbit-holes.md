@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-04-22 05:56:56
+tags:
 - Pop Culture
-date: 2019-04-22T13:56:56+08:00
-title: "Rabbit Holes"
+title: Rabbit Holes
 type: post
 ---
 
@@ -15,4 +16,4 @@ There's also the rabbit hole of streaming TV - I've found out that *30 Rock* is 
 
 So that's my long weekend. Not that I haven't been productive at all. I did manage to dive into the rabbit hole of spring cleaning a bit, moving things around and dusting and throwing things into a garbage bag at 11:30 in the evening, and that satisfied my OC-ness for a bit. But there were some side projects I wanted to get into and and didn't get to, and so on.
 
-I think falling down rabbit holes is okay, as long as you recognize what's happening to you and you have the self-control to pull yourself back as needed. Everything in moderation, as they say. Today is a Monday, so back to dreary real-life responsibilities and less rabbits for now I guess. 
+I think falling down rabbit holes is okay, as long as you recognize what's happening to you and you have the self-control to pull yourself back as needed. Everything in moderation, as they say. Today is a Monday, so back to dreary real-life responsibilities and less rabbits for now I guess.

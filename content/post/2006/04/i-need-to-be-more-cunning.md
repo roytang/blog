@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-04-01 22:00:11
 title: I Need To Be More Cunning
 type: post

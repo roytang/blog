@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Tech Life
-- Writing
+categories: []
+date: 2018-12-03 02:06:56
 tags:
 - blogging
-date: 2018-12-03T10:06:56+08:00
+- Tech Life
+- Writing
 title: Daily Blogging
 type: post
 ---
@@ -33,4 +33,3 @@ If you're writing to become a "professional blogger" of some sort, or otherwise 
 I of course write mostly for myself, though I do appreciate it when I find out people are reading the blog. I prefer posts that I can look back to in a few years to remember what was going on with me at the time. I try to write about things I'm doing, shows I'm watching, projects I'm trying out, games I'm playing, opinions on current events, and generally random thoughts going through my head and so on. I find that the daily writing, like the daily walking, helps improve my thinking processes. And it often encourages me to be a bit more experimental - I can try things out and even if I fail, the floor is that I have a story for a blog post. There is also less pressure for new posts to be super deep or meaningful or otherwise with my daily blogging, there is no room for perfectionism to get in the way.
 
 I don't know how long I can keep this up on a daily basis. I'll try to revisit this after a year maybe to see how far I've gone.
-

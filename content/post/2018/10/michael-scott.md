@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Pop Culture
+categories: []
 date: 2018-10-26 03:00:01
 tags:
 - TV Series
+- Pop Culture
 title: Michael Scott
 type: post
 url: /2018/10/michael-scott/

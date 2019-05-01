@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-04-23T13:56:56+08:00
-title: "Project Management Tip: Kalma Lang"
+categories: []
+date: 2019-04-23 05:56:56
+title: 'Project Management Tip: Kalma Lang'
 type: post
 ---
 

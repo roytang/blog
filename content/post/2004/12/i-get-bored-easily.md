@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-12-09 17:12:45
 title: I Get Bored Easily
 type: post

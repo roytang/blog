@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-10-17 05:27:31
 title: About the JITSE, and Exams in general
 type: post

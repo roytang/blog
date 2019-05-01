@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-09-27 09:52:06
+tags:
+- Magic the Gathering
 title: Zendikar Prerelease and Limited Impressions
 type: post
 url: /2009/09/zendikar-prerelease-and-limited-impressions/

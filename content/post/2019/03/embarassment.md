@@ -1,10 +1,8 @@
 ---
 author: roy
-date: 2019-03-14T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
-title: "Embarassment, Office Christmas Parties, and Singing Off-Key"
+categories: []
+date: 2019-03-14 05:56:56
+title: Embarassment, Office Christmas Parties, and Singing Off-Key
 type: post
 ---
 

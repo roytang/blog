@@ -1,15 +1,13 @@
 ---
 author: roy
-date: 2019-03-08T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
+categories: []
+date: 2019-03-08 05:56:56
+featuredImage: https://roytang.net/uploads/2019/different-better.jpg
 tags:
 - quotes
 - regret
-title: "Different is not necessarily better"
+title: Different is not necessarily better
 type: post
-featuredImage: https://roytang.net/uploads/2019/different-better.jpg
 ---
 
 ![](/uploads/2019/different-better.jpg)

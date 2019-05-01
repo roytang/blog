@@ -2,9 +2,10 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2010-04-09 12:23:30
+tags:
+- Magic the Gathering
 title: By way of introduction
 type: post
 url: /2010/04/by-way-of-introduction/

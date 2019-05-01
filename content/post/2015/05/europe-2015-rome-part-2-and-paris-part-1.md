@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Travels
+categories: []
 date: 2015-05-03 14:52:29
+tags:
+- Travels
 title: 'Europe 2015: Rome Part 2 and Paris Part 1'
 type: post
 url: /2015/05/europe-2015-rome-part-2-and-paris-part-1/

@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Links
+categories: []
 date: 2006-09-10 08:44:05
 format: link
+tags:
+- Links
 title: 'Google Trends: World domination vs World peace'
 type: post
 url: /2006/09/google-trends-world-domination-vs-world-peace/

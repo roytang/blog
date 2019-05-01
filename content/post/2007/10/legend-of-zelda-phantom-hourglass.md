@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2007-10-13 23:49:01
-title: "Legend of Zelda -- Phantom Hourglass"
+tags:
+- Gaming
+title: Legend of Zelda -- Phantom Hourglass
 type: post
 url: /2007/10/legend-of-zelda-phantom-hourglass/
 ---

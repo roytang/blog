@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2018-11-02 05:03:45
-title: "I'll probably never be an entrepreneur"
+title: I'll probably never be an entrepreneur
 type: post
 url: /2018/11/ill-probably-never-be-an-entrepreneur/
 ---

@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-10-29 14:05:18
 title: I Vow Revenge!
 type: post

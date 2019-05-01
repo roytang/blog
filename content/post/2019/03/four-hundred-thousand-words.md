@@ -1,12 +1,11 @@
 ---
 author: roy
-date: 2019-03-02T13:56:56+08:00
-type: post
-categories:
-- Writing
+categories: []
+date: 2019-03-02 05:56:56
 tags:
 - Blogging
-title: "Four Hundred Thousand Words"
+- Writing
+title: Four Hundred Thousand Words
 type: post
 ---
 

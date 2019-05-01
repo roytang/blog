@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-09-05 04:51:00
 tags:
 - Books
-title: "Books: Dark Tower V -- Wolves of the Calla"
+- Pop Culture
+title: 'Books: Dark Tower V -- Wolves of the Calla'
 type: post
 url: /2005/09/books-dark-tower-v-wolves-of-the-calla/
 ---

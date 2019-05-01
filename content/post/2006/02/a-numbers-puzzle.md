@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Tech Life
+categories: []
 date: 2006-02-17 06:23:46
 tags:
 - Puzzles
+- Tech Life
 title: A Numbers Puzzle
 type: post
 url: /2006/02/a-numbers-puzzle/

@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Tech Life
-- Writing
+categories: []
+date: 2018-08-14 15:36:32
 tags:
 - blogging
-date: 2018-08-14 15:36:32
+- Tech Life
+- Writing
 title: Blogging and the Decentralized Internet
 type: post
 url: /2018/08/blogging-and-the-decentralized-internet/

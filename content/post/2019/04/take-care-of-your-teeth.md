@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-04-05T13:56:56+08:00
-title: "Take care of your teeth"
+categories: []
+date: 2019-04-05 05:56:56
+title: Take care of your teeth
 type: post
 ---
 

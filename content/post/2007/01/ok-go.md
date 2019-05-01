@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2007-01-13 22:08:30
+tags:
+- Meta
 title: Ok Go!
 type: post
 url: /2007/01/ok-go/

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Software Development
+categories: []
 date: 2004-10-21 09:53:33
+tags:
+- Software Development
 title: This is me being surprised
 type: post
 url: /2004/10/this-is-me-being-surprised/

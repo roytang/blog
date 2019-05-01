@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Links
+categories: []
 date: 2006-04-19 18:00:02
 format: link
+tags:
+- Links
 title: Del.icio.us bookmarks for 2006-04-19
 type: post
 url: /2006/04/del-icio-us-bookmarks-for-2006-04-19/

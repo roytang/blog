@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-03-11 16:22:59
+tags:
+- Gaming
 title: Movie-ID puzzle
 type: post
 url: /2005/03/movie-id-puzzle/

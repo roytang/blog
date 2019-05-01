@@ -1,10 +1,11 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-04-10 05:56:56
+tags:
 - Tech Life
 - Meta
-date: 2019-04-10T13:56:56+08:00
-title: "Initial Page Load"
+title: Initial Page Load
 type: post
 ---
 

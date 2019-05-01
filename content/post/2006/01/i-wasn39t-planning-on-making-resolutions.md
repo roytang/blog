@@ -1,9 +1,8 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-01-01 08:12:00
-title: "I Wasn't Planning On Making Resolutions"
+title: I Wasn't Planning On Making Resolutions
 type: post
 url: /2006/01/i-wasn39t-planning-on-making-resolutions/
 ---

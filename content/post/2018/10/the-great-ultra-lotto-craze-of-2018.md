@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Philippines
+categories: []
 date: 2018-10-20 01:00:40
+tags:
+- Philippines
 title: The Great Ultra Lotto Craze of 2018
 type: post
 url: /2018/10/the-great-ultra-lotto-craze-of-2018/

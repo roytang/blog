@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2017-03-08 15:59:10
 tags:
 - Hardware
 - Review
+- Tech Life
 title: Sony 4K HDR Bravia X8000D
 type: post
 url: /2017/03/sony-4k-hdr-bravia-x8000d/

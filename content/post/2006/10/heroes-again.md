@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-10-29 06:31:27
 tags:
 - TV Series
+- Pop Culture
 title: Heroes Again
 type: post
 url: /2006/10/heroes-again/

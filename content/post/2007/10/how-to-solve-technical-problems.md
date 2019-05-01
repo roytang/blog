@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2007-10-29 02:19:40
+tags:
+- Software Development
 title: How to Solve Technical Problems
 type: post
 url: /2007/10/how-to-solve-technical-problems/

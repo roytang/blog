@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-10-19 01:00:22
+tags:
 - Gaming
 - Software Development
-date: 2018-10-19 01:00:22
 title: Working hours and overtime
 type: post
 url: /2018/10/working-hours-and-overtime/

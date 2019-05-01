@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Meta
+categories: []
 date: 2005-04-11 14:31:13
-title: Free WordPress Hosting
-type: post
 tags:
 - wordpress
+- Meta
+title: Free WordPress Hosting
+type: post
 url: /2005/04/free-wordpress-hosting/
 ---
 

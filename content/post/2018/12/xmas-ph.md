@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-12-25 05:56:56
+tags:
 - Philippines
-date: 2018-12-25T13:56:56+08:00
-title: "Christmas in the Philippines"
+title: Christmas in the Philippines
 type: post
 ---
 
@@ -16,4 +17,4 @@ Some random notes I had jotted down about Christmas:
 - People who live in subdivisions get an upsurge of roving bands of kids who sing Christmas carols *(sometimes badly)* somewhere between 6-9pm every night in December. They appear more often as Christmas day draws near. We rarely ever give them anything. The sheer volume is a problem. It's not like American Halloween where it's one night in a year, this is every night for a month. *(Actually, some of these kids sometimes try this during Oct/Nov going "Happy Halloween" instead of "Merry Christmas!", but that's much rarer.)* Sometimes even while I'm walking around the subdivision they'll come up to me saying "Namamasko po!" *(only in the Philippines is Christmas a verb)*, which annoys me as it kind of smacks of mendicacy. Maybe it would be different if some of the kids' groups weren't obviously like they just randomly got together and decided to see if they could get some money from low effort carolling. We usually end up ignoring the doorbells around the time when there are carollers, but that seemed unwise. I suggested we just put a sign saying something to the effect of "PATAWAD! BAWAL MANGAROLING!" but I'm told that wasn't nice or something lol
 - Most companies in Metro Manila hold some kind of Christmas party in December, so most events places are booked, good luck to anyone trying to arrange their Christmas party late. Common Christmas party fare include lechon, gift exchanges, raffles, and the dignity of new company employees "required" to render a performance number.
 - I think (but don't have the statistics to back me up on this) that petty crime also has an uptick during December. Both times I've been the [victim of pickpocketing](/2009/12/when-your-wallet-gets-stolen/) were around this time. It makes sense - people are more desperate during Christmas, and the crowds make it easier for pickpockets.
-- Most of these are from a middle-class Metro Manila experience of course, since that's what I know. Even the poorer families try to get into the spirit, with some even taking on debts just to be able to have a decent Christmas celebration, which for me is a bad idea. I think there's a lot of pressure from society to have "proper" celebrations, but if you're hard up, even a simply Christmas dinner at Jollibee should be enough. 
+- Most of these are from a middle-class Metro Manila experience of course, since that's what I know. Even the poorer families try to get into the spirit, with some even taking on debts just to be able to have a decent Christmas celebration, which for me is a bad idea. I think there's a lot of pressure from society to have "proper" celebrations, but if you're hard up, even a simply Christmas dinner at Jollibee should be enough.

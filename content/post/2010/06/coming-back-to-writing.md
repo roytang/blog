@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Writing
+categories: []
 date: 2010-06-07 00:03:21
+tags:
+- Writing
 title: Coming Back to Writing
 type: post
 url: /2010/06/coming-back-to-writing/

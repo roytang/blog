@@ -1,8 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2009-02-10 14:15:50
-title: "Zed Shaw -- the ACL is Dead"
+tags:
+- Software Development
+title: Zed Shaw -- the ACL is Dead
 type: post
 url: /2009/02/zed-shaw-the-acl-is-dead/
 ---

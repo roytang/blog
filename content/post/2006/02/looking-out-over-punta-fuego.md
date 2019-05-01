@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Travels
+categories: []
 date: 2006-02-13 06:58:53
+tags:
+- Travels
 title: Looking Out Over Punta Fuego
 type: post
 url: /2006/02/looking-out-over-punta-fuego/

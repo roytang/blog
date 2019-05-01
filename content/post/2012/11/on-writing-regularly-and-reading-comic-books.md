@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
-- Writing
+categories: []
 date: 2012-11-24 10:58:34
 tags:
 - Comics
+- Pop Culture
+- Writing
 title: On writing regularly and reading comic books
 type: post
 url: /2012/11/on-writing-regularly-and-reading-comic-books/

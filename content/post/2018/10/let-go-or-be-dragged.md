@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Self-Improvement
+categories: []
 date: 2018-10-08 01:00:23
+tags:
+- Self-Improvement
 title: Let Go or Be Dragged
 type: post
 url: /2018/10/let-go-or-be-dragged/

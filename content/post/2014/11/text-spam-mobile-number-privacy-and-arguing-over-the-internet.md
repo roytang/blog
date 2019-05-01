@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2014-11-09 00:22:11
 title: Text spam, mobile number privacy and arguing over the internet
 type: post

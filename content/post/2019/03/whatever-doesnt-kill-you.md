@@ -1,12 +1,10 @@
 ---
 author: roy
-date: 2019-03-06T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
+categories: []
+date: 2019-03-06 05:56:56
 tags:
 - quotes
-title: "Whatever doesn't kill you"
+title: Whatever doesn't kill you
 type: post
 ---
 

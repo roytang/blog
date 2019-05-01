@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-10-18 01:30:04
+tags:
+- Opinions
 title: Introspection and Self-Awareness
 type: post
 url: /2016/10/introspection-and-self-awareness/

@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2018-10-17 01:00:18
 title: On Dreams and Ambition
 type: post

@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2007-04-22 04:05:16
+tags:
+- Magic the Gathering
 title: Future Sight Prerelease
 type: post
 url: /2007/04/future-sight-prerelease/
@@ -17,4 +18,4 @@ So, my finish is again 3-1, same as the PLC pre-release. My overall record for T
 
 My opinions on Future Sight? My deck was almost 80% TSP anyway, so it's hard to say. In general red seems pretty good in the set, getting some decent burn in the form of Ghostfire. As for creatures, Gathan Raiders, as I expected, are quite good; that 1/1 that suspends itself when it dies is a bit annoying, Grandeur is useless in limited, and yes, Angel of Slavation and that Scourge of Kher Ridges are pretty much bombs.
 
-There should be one or more TSP limited events over the next two weeks... I hope I can open decent cards the next time around... 
+There should be one or more TSP limited events over the next two weeks... I hope I can open decent cards the next time around...

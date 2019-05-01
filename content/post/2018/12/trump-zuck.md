@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
+date: 2018-12-21 02:56:56
 tags:
 - Current Events
-date: 2018-12-21T10:56:56+08:00
-title: "On Trump and Zuckerberg"
+- Opinions
+title: On Trump and Zuckerberg
 type: post
 ---
 
@@ -33,5 +33,4 @@ He surely had no idea that his proposed advertising business model and his missi
 
 His position as head of Facebook leads to pressures and problems which could be understand by very few other people in the world. And now he finds himself under increased legal scrutiny that could threaten his business model, his company, and even his legacy.
 
-Someday (perhaps soon), Trump and Zuckerberg will be held to account for their failings. Until then, the world is being moved by men who were completely unprepared for their positions and are basically making it up as they go along. (Of course, many, many people are making it up as they go along...). I'm not sure if there any lessons to be learned from these observations, but maybe it's just a stark reminder that a man's reach cannot exceed his grasp. 
-
+Someday (perhaps soon), Trump and Zuckerberg will be held to account for their failings. Until then, the world is being moved by men who were completely unprepared for their positions and are basically making it up as they go along. (Of course, many, many people are making it up as they go along...). I'm not sure if there any lessons to be learned from these observations, but maybe it's just a stark reminder that a man's reach cannot exceed his grasp.

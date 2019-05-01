@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2006-10-08 04:04:46
+tags:
+- Magic the Gathering
 title: Time Spiral Release
 type: post
 url: /2006/10/time-spiral-release/
@@ -25,4 +26,4 @@ Great cards: Fathom Seer, Mystic Teachings (searches for Bogardan Hellkite!), Th
    
 Not-so-hot: Lim-dul the Necromancer
 
-Next Saturday is constructed, I wonder if I can have a deck ready by then... 
+Next Saturday is constructed, I wonder if I can have a deck ready by then...

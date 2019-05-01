@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-11-22 18:37:11
+tags:
+- Magic the Gathering
 title: 'Drafting with Roy #1 (Triple Shards)'
 type: post
 url: /2008/11/drafting-with-roy-1-triple-shards/

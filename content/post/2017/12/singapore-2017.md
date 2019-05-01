@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Travels
+categories: []
 date: 2017-12-22 01:00:35
+tags:
+- Travels
 title: Singapore 2017
 type: post
 url: /2017/12/singapore-2017/

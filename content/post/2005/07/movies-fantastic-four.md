@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-07-10 16:14:00
 tags:
 - Movies
+- Pop Culture
 title: 'Movies: Fantastic Four'
 type: post
 url: /2005/07/movies-fantastic-four/

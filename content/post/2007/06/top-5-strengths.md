@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-06-24 03:55:43
 title: Top 5 Strengths
 type: post

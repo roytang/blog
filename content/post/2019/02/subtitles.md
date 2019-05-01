@@ -1,20 +1,19 @@
 ---
 author: roy
-date: 2019-02-12T13:56:56+08:00
-type: post
-categories:
-- Pop Culture
+categories: []
+date: 2019-02-12 05:56:56
 tags:
 - tv
-title: "Subtitles"
+- Pop Culture
+title: Subtitles
 type: post
 ---
 
 [Interesting article on closed captioning](https://medium.com/s/the-upgrade/why-gen-z-loves-closed-captioning-ec4e44b8d02f), or as I like to call them, subtitles. My first exposure to subtitles was anime of course, but these days I vastly prefer having subtitles on any show, even if it's dubbed in a language I do understand. From the article:
 
-> “Why do you have captions on?” I asked.
+> “Why do you have captions on?" I asked.
 > 
-> “It helps me with my ADHD: I can focus on the words, I catch things I missed, and I never have to go back,” she replied. “And I can text while I watch.”
+> “It helps me with my ADHD: I can focus on the words, I catch things I missed, and I never have to go back," she replied. “And I can text while I watch."
 
 I don't think I have ADHD, that's not something diagnosed very often over here, though I'm sure I exhibit a certain lack of focus. But I can relate to how subtitles help me avoid having to rewind a show for something I missed. The subtitles act like a kind of fallback to the verbal/audio cues, helping me when I get distracted (quite easily) and when I'm multitasking. They also help with accents and murmured words and things like that. 
 

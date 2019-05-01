@@ -1,12 +1,11 @@
 ---
 author: roy
-date: 2019-02-13T13:56:56+08:00
-type: post
-categories:
-- Opinions
+categories: []
+date: 2019-02-13 05:56:56
 tags:
 - current events
-title: "Companies banned because of their governments"
+- Opinions
+title: Companies banned because of their governments
 type: post
 ---
 

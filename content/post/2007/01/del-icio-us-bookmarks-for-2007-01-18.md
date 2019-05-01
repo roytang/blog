@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Links
+categories: []
 date: 2007-01-19 01:37:55
 format: link
+tags:
+- Links
 title: Del.icio.us bookmarks for 2007-01-18
 type: post
 url: /2007/01/del-icio-us-bookmarks-for-2007-01-18/

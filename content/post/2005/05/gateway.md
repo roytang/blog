@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Pop Culture
+categories: []
 date: 2005-05-26 14:33:00
 tags:
 - Movies
+- Pop Culture
 title: Gateway
 type: post
 url: /2005/05/gateway/

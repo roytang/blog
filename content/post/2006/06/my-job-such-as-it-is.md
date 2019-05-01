@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Software Development
+categories: []
 date: 2006-06-25 08:55:40
+tags:
+- Software Development
 title: My Job, Such As It Is
 type: post
 url: /2006/06/my-job-such-as-it-is/

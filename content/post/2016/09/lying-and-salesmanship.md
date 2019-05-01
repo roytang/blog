@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-09-27 01:30:41
+tags:
+- Opinions
 title: Lying and Salesmanship
 type: post
 url: /2016/09/lying-and-salesmanship/

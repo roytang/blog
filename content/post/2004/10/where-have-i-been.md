@@ -1,9 +1,8 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-10-17 06:05:10
-title: "Where Have I Been"
+title: Where Have I Been
 type: post
 url: /2004/10/where-have-i-been/
 ---

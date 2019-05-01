@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-09-10 07:54:50
 title: Will Lend Money For Food
 type: post

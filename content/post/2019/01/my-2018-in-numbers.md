@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-01-04 05:56:56
+tags:
 - Self Improvement
-date: 2019-01-04T13:56:56+08:00
 title: My 2018 in review
 type: post
 ---
@@ -65,4 +66,4 @@ Others:
   * Times I won the lotto: 0 (I kind of regret putting this number two years ago, as now I can't remove it without looking suspicious)
   * Bears defeated in single combat: 0
 
-Overall, the year was a lot busier than 2017, since I took on a lot more work, especially in the middle half of the year. I'm looking to lighten the load a bit in 2019, we'll see. 
+Overall, the year was a lot busier than 2017, since I took on a lot more work, especially in the middle half of the year. I'm looking to lighten the load a bit in 2019, we'll see.

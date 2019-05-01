@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2018-10-25 13:00:02
 tags:
 - risk-management
+- Software Development
 title: Gladwell and Risk Management
 type: post
 url: /2018/10/gladwell-and-risk-management/

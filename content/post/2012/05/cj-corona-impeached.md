@@ -4,10 +4,11 @@ aktt_notify_twitter:
 aktt_tweeted:
 - 1
 author: roy
-categories:
+categories: []
+date: 2012-05-29 13:51:13
+tags:
 - Opinions
 - Philippines
-date: 2012-05-29 13:51:13
 title: CJ Corona Impeached
 type: post
 url: /2012/05/cj-corona-impeached/

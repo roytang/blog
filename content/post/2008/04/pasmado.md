@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2008-04-13 04:54:33
+tags:
+- Philippines
 title: Pasmado
 type: post
 url: /2008/04/pasmado/

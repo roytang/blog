@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Writing
+categories: []
 date: 2005-10-22 10:22:00
+tags:
+- Writing
 title: On Journalling, or How Hard It Is to Keep Up a Blog
 type: post
 url: /2005/10/on-journalling-or-how-hard-it-is-to-keep-up-a-blog/

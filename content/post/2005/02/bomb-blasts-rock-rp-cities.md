@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2005-02-14 12:58:03
+tags:
+- Philippines
 title: Bomb blasts rock RP Cities
 type: post
 url: /2005/02/bomb-blasts-rock-rp-cities/

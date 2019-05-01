@@ -1,11 +1,11 @@
 ---
 author: roy
-date: 2018-12-29T13:56:56+08:00
-title: "Duolingo"
-type: post
-categories:
+categories: []
+date: 2018-12-29 05:56:56
+tags:
 - Self Improvement
 - Tech Life
+title: Duolingo
 type: post
 ---
 

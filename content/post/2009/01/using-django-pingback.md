@@ -1,9 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2009-01-04 07:22:20
 tags:
 - royondjango
+- Software Development
 title: Using Django Pingback
 type: post
 url: /2009/01/using-django-pingback/

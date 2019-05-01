@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- self-improvement
-- software development
+categories: []
+date: 2019-04-17 05:56:56
 tags:
 - quotes
-date: 2019-04-17T13:56:56+08:00
-title: "Learning from failure"
+- self-improvement
+- software development
+title: Learning from failure
 type: post
 ---
 

@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
+date: 2013-05-11 13:09:20
+tags:
 - Opinions
 - Philippines
-date: 2013-05-11 13:09:20
 title: 'PHVote: Choosing your 2013 Senators and Party List'
 type: post
 url: /2013/05/phvote-choosing-your-2013-senators-and-party-list/

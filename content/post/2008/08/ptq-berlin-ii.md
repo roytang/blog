@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2008-08-23 17:35:11
+tags:
+- Magic the Gathering
 title: PTQ Berlin II
 type: post
 url: /2008/08/ptq-berlin-ii/

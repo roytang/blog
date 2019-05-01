@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Pop Culture
-- Gaming
+categories: []
 date: 2018-10-14 01:00:45
 tags:
 - Books
 - Review
+- Pop Culture
+- Gaming
 title: 'Book Review: Masters of Doom by David Kushner'
 type: post
 url: /2018/10/book-review-masters-of-doom-by-david-kushner/

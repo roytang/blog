@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2004-10-17 07:21:49
 draft: true
 private: true
@@ -58,4 +57,4 @@ She greets you, talks to you, compliments you, smiles at you. And suddenly all y
 
 You recognize it, and you accept it. You are able to survive, because somehow, through all those moments of pain, heartbreak and despair, a light shines through. Every so often, you manage to get some time to sit with her, talk to her, see her smile. And those moments, while very rare, are also very precious. Those moments are pure, unadulterated bliss, and you wish there was a way to make them last forever. They are no more than fleeting instants between oceans of pain, but somehow, those few moments are enough to make all of the loneliness worthwhile... 
 
-And the cruel, vicious cycle repeats itself... 
+And the cruel, vicious cycle repeats itself...

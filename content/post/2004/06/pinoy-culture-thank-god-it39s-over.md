@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2004-06-27 04:55:38
-title: "Pinoy Culture: Thank God It's Over"
+tags:
+- Philippines
+title: 'Pinoy Culture: Thank God It''s Over'
 type: post
 url: /2004/06/pinoy-culture-thank-god-it39s-over/
 ---

@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2007-09-22 06:55:40
+tags:
+- Meta
 title: roytang on magic
 type: post
 url: /2007/09/roytang-on-magic/

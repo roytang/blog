@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-08-23 01:30:04
+tags:
+- Opinions
 title: The Things We Learn In School
 type: post
 url: /2016/08/the-things-we-learn-in-school/

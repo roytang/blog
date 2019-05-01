@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2018-10-15 01:00:34
+tags:
+- Software Development
 title: Mentoring in Software Development
 type: post
 url: /2018/10/mentoring-in-software-development/

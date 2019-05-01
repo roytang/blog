@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-11-10 01:30:09
+tags:
+- Software Development
 title: Be Willing To Throw Prototypes Away
 type: post
 url: /2016/11/be-willing-to-throw-prototypes-away/

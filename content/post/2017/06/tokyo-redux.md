@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Travels
+categories: []
 date: 2017-06-13 01:30:29
+tags:
+- Travels
 title: Tokyo, Redux
 type: post
 url: /2017/06/tokyo-redux/

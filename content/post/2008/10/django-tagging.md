@@ -1,9 +1,9 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-10-26 04:22:00
 tags:
 - royondjango
+- Software Development
 title: django-tagging
 type: post
 url: /2008/10/django-tagging/

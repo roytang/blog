@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2009-10-03 18:18:03
+tags:
+- Software Development
 title: 'Weekend Project #1: MTG Utils Decklist Sharing Tool'
 type: post
 url: /2009/10/weekend-project-1-mtg-utils-decklist-sharing-tool/

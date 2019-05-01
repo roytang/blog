@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Writing
+categories: []
+date: 2017-06-05 01:30:42
 tags:
 - blogging
 - social media
-date: 2017-06-05 01:30:42
+- Writing
 title: Blogging and Social Media
 type: post
 url: /2017/06/blogging-and-social-media/

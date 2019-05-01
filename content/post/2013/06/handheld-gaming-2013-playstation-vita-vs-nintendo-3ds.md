@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2013-06-10 14:38:51
+tags:
+- Gaming
 title: 'Handheld Gaming 2013: Playstation Vita vs Nintendo 3DS'
 type: post
 url: /2013/06/handheld-gaming-2013-playstation-vita-vs-nintendo-3ds/

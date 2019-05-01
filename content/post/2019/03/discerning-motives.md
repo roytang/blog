@@ -1,12 +1,11 @@
 ---
 author: roy
-date: 2019-03-21T13:56:56+08:00
-type: post
-categories:
-- Philippines
+categories: []
+date: 2019-03-21 05:56:56
 tags:
 - politics
-title: "Discerning motives"
+- Philippines
+title: Discerning motives
 type: post
 ---
 

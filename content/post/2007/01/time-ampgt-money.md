@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2007-01-28 06:14:13
 title: Time > Money
 type: post

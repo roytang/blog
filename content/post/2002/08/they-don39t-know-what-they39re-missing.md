@@ -1,11 +1,10 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2002-08-06 16:00:08
 tags:
 - Job Hunting
-title: "They Don't Know What They're Missing"
+title: They Don't Know What They're Missing
 type: post
 url: /2002/08/they-don39t-know-what-they39re-missing/
 ---

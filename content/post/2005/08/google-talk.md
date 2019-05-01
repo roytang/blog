@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2005-08-24 16:02:00
+tags:
+- Tech Life
 title: Google Talk
 type: post
 url: /2005/08/google-talk/

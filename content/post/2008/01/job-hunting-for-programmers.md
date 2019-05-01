@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2008-01-29 06:04:44
+tags:
+- Software Development
 title: Job Hunting for Programmers
 type: post
 url: /2008/01/job-hunting-for-programmers/

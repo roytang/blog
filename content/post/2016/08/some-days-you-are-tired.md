@@ -1,7 +1,6 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2016-08-30 01:30:49
 title: Some days you are tired
 type: post

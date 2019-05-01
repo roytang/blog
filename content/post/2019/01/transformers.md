@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
+date: 2019-01-18 05:56:56
 tags:
 - transformers
 - comics
 - toys
-date: 2019-01-18T13:56:56+08:00
+- Pop Culture
 title: Transformers!
 type: post
 ---

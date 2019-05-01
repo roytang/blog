@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-11-15 01:30:55
+tags:
+- Opinions
 title: Bad news
 type: post
 url: /2016/11/bad-news/

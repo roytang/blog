@@ -1,13 +1,14 @@
 ---
-title: Version Issues
 author: roy
+categories: []
+date: 2018-11-07 05:06:56
+tags:
+- Software Development
+title: Version Issues
 type: post
-date: 2018-11-07T05:06:56+00:00
 url: /2018/11/version-issues/
-categories:
-  - Software Development
-
 ---
+
 SCM (Software Configuration Management) doesn&#8217;t just refer to version control for the software you&#8217;re building. It also means controlling the versions of software you depend on. This includes operating system and programming runtimes. Sometimes even minor version differences can cause issues in running your software. I have two example stories to share:
 
   1. One of our clients asked us for help with an upgrade their production servers from CentOS 6.4 to 6.9. It was supposed to be a straightforward yum upgrade, which meant of course there would be a problem. The problem turned out to be one of the SOAP calls to a third-party service. After a bunch of retries and log checking, we found that OpenSSL was complaining that the third party&#8217;s certificate didn&#8217;t have enough bits in the Diffie-Hellman (DH) parameters. Complaining to the third party would have taken forever, so we had to find a workaround ourselves. I had previously been told that OpenSSL was the same version before and after the upgrade, but after we did our own checking, we found that there was a minor version difference. That led to a lot of searching until I managed to [find release notes from Red Hat][1] (which was upstream of CentOS). The release notes linked us to [this bug][2] which gave us the workaround we needed.

@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-11-08 01:30:12
-title: "Whatever Doesn't Kill You Only Makes You Stronger"
+tags:
+- Opinions
+title: Whatever Doesn't Kill You Only Makes You Stronger
 type: post
 url: /2016/11/whatever-doesnt-kill-you-only-makes-you-stronger/
 ---

@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2005-06-07 23:04:06
-title: "Politics -- Alleged Destabliziation Tape"
+tags:
+- Philippines
+title: Politics -- Alleged Destabliziation Tape
 type: post
 url: /2005/06/politics-alleged-destabliziation-tape/
 ---

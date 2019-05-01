@@ -1,9 +1,10 @@
 ---
 author: Roy
-categories:
-- Philippines
+categories: []
 date: 2010-05-10 02:15:38
-title: "Elections 2010 -- Annoyances"
+tags:
+- Philippines
+title: Elections 2010 -- Annoyances
 type: post
 url: /2010/05/elections-2010-annoyances/
 ---

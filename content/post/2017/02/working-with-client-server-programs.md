@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-02-09 01:30:50
+tags:
+- Software Development
 title: Working with Client-Server Programs
 type: post
 url: /2017/02/working-with-client-server-programs/

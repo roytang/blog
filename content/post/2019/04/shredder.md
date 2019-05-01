@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-04-19T13:56:56+08:00
-title: "Shredder!"
+categories: []
+date: 2019-04-19 05:56:56
+title: Shredder!
 type: post
 ---
 

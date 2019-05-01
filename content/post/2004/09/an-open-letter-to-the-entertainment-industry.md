@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-09-22 13:32:55
+tags:
+- Gaming
 title: An Open Letter to the Entertainment Industry
 type: post
 url: /2004/09/an-open-letter-to-the-entertainment-industry/

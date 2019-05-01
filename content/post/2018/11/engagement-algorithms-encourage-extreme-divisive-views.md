@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2018-11-04 05:04:28
+tags:
+- Tech Life
 title: Engagement algorithms encourage extreme/divisive views
 type: post
 url: /2018/11/engagement-algorithms-encourage-extreme-divisive-views/

@@ -1,14 +1,14 @@
 ---
 author: roy
-categories:
-- Pop Culture
-date: 2018-11-30T10:06:56+08:00
+categories: []
+date: 2018-11-30 02:06:56
 tags:
 - Movies
 - Review
 - TV Series
 - watching lately
-title: "Watching Lately: November 2018"
+- Pop Culture
+title: 'Watching Lately: November 2018'
 type: post
 ---
 
@@ -23,4 +23,3 @@ In less-biographical movies, I also watched **Teen Titans Go To The Movies**. I'
 In rewatch land, since I finished the Spider-Man PS4 game lately, I also watched **Spider-Man 2**, **Spider-Man 3**, and **Amazing Spider-Man**, they're nice movies to have playing in the background while you're working on other stuff. [Tobey 2](/2004/07/movies-spiderman-2/) was pretty good and I think it aged well, I'd say comparable with Tobey 1 even. [Tobey 3](/2007/05/spider-man-3/) was trying to do way too much what with Venom and Sandman and Harry-Goblin. Andrew 1 had a lot of potential, but I think this series leaned too much into the dark and mysterious and sinister plot route.
 
 TV-wise, nothing much other than the usual superhero series, though I'm still behind on Gifted and Doctor Who. I caught Trevor Noah's new Netflix special, it was okay, but too exceptionally. Netflix also added a couple of "best of" seasons of Jeopardy which I thoroughly enjoyed. Watching these makes me think I'd never be able to win an episode of Jeopardy, but of course I don't think it's fair to compare myself to some of Jeopardy's all-time champions.
-

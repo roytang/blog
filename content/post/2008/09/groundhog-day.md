@@ -1,10 +1,10 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2008-09-07 03:41:45
 tags:
 - Movies
+- Pop Culture
 title: Groundhog Day
 type: post
 url: /2008/09/groundhog-day/

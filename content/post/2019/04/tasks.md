@@ -1,9 +1,8 @@
 ---
 author: roy
-categories:
-- Just Another Day
-date: 2019-04-16T13:56:56+08:00
-title: "Tasks you enjoy"
+categories: []
+date: 2019-04-16 05:56:56
+title: Tasks you enjoy
 type: post
 ---
 

@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2006-10-09 08:10:10
+tags:
+- Gaming
 title: Dual Screen Pirates?
 type: post
 url: /2006/10/dual-screen-pirates/

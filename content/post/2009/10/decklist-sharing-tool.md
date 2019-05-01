@@ -1,7 +1,8 @@
 ---
-categories:
-- Magic the Gathering
+categories: []
 date: 2009-10-03 18:27:51
+tags:
+- Magic the Gathering
 title: Decklist Sharing Tool
 type: post
 url: /2009/10/decklist-sharing-tool/

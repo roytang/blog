@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Travels
+categories: []
 date: 2004-10-31 06:22:47
+tags:
+- Travels
 title: Posting From the Boondocks
 type: post
 url: /2004/10/posting-from-the-boondocks/

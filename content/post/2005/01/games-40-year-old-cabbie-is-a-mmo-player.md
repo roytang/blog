@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2005-01-31 14:17:56
+tags:
+- Gaming
 title: 'Games: 40-year old cabbie is a MMO Player'
 type: post
 url: /2005/01/games-40-year-old-cabbie-is-a-mmo-player/

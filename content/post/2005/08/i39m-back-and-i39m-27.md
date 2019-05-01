@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Just Another Day
+categories: []
 date: 2005-08-14 08:42:00
 tags:
 - birthday
-title: "I'm Back. And I'm 27."
+title: I'm Back. And I'm 27.
 type: post
 url: /2005/08/i39m-back-and-i39m-27/
 ---

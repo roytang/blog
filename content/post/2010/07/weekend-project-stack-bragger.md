@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2010-07-21 07:00:55
+tags:
+- Software Development
 title: 'Weekend Project: Stack Bragger'
 type: post
 url: /2010/07/weekend-project-stack-bragger/

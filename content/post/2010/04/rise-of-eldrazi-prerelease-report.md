@@ -2,13 +2,13 @@
 aktt_notify_twitter:
 - false
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2010-04-18 02:48:10
 jd_tweet_this:
 - true
 tags:
 - Limited
+- Magic the Gathering
 title: Rise of Eldrazi Prerelease Report
 type: post
 url: /2010/04/rise-of-eldrazi-prerelease-report/

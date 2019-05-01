@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2018-05-14 01:00:02
+tags:
+- Philippines
 title: Barangay Elections
 type: post
 url: /2018/05/barangay-elections/

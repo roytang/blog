@@ -1,14 +1,13 @@
 ---
 author: roy
-date: 2019-01-31T13:56:56+08:00
-type: post
-categories:
-- Pop Culture
+categories: []
+date: 2019-01-31 05:56:56
 tags:
 - game design
 - comics
 - transformers
-title: "Some Youtube Channels I Like"
+- Pop Culture
+title: Some Youtube Channels I Like
 type: post
 ---
 

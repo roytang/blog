@@ -1,14 +1,14 @@
 ---
-title: "Game Review: Marvel's Spider-Man for PS4"
-date: 2018-11-18T10:00:21+08:00
-publishdate: 2018-11-18T10:00:21+08:00
-categories:
-- Gaming
+categories: []
+date: 2018-11-18 02:00:21
+draft: false
+featuredImage: https://i.imgur.com/KcHOHTc.png
+publishdate: 2018-11-18 02:00:21
 tags:
 - comics
 - review
-draft: false
-featuredImage: https://i.imgur.com/KcHOHTc.png
+- Gaming
+title: 'Game Review: Marvel''s Spider-Man for PS4'
 ---
 
 Finally had the time to play *Marvel's Spider-Man for PS4*. Took just a little under two weeks from start to Platinum. Maybe mild, unmarked spoilers somewhere in this review, be warned!
@@ -37,4 +37,3 @@ Finally had the time to play *Marvel's Spider-Man for PS4*. Took just a little u
  
 As is tradition, here's a screendump, awash with in-game spoilers! (Mainly because I chose to include the automatic screenshots that came with each Trophy unlock). You can see during the later parts I was using the comic costume almost exclusively!
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/GXG9Qb5"><a href="//imgur.com/GXG9Qb5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-

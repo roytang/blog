@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-11-21 08:41:55
+tags:
+- Gaming
 title: Web-Based Games
 type: post
 url: /2004/11/web-based-games/

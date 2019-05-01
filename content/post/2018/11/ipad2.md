@@ -1,10 +1,11 @@
 ---
-title: "iPad Restrospective"
-date: 2018-11-24T10:00:21+08:00
-publishdate: 2018-11-24T10:00:21+08:00
-categories:
+categories: []
+date: 2018-11-24 02:00:21
+featuredImage: https://roytang.net/uploads/2018/ipad_screen.jpg
+publishdate: 2018-11-24 02:00:21
+tags:
 - Tech Life
-featuredImage: "https://roytang.net/uploads/2018/ipad_screen.jpg"
+title: iPad Restrospective
 ---
 
 Looking back on 8 years of apple tablets.

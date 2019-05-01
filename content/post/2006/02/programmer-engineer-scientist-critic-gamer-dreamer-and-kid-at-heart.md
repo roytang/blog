@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2006-02-18 01:02:28
+tags:
+- Opinions
 title: Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart.
 type: post
 url: /2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/

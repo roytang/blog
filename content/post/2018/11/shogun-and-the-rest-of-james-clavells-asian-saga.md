@@ -1,11 +1,11 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2018-11-01 05:03:25
 tags:
 - Books
-title: "Shogun, and the rest of James Clavell's Asian Saga"
+- Pop Culture
+title: Shogun, and the rest of James Clavell's Asian Saga
 type: post
 url: /2018/11/shogun-and-the-rest-of-james-clavells-asian-saga/
 ---

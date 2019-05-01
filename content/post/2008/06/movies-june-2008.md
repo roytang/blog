@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2008-06-29 08:44:02
 tags:
 - Movies
-title: "Movies -- June 2008"
+- Pop Culture
+title: Movies -- June 2008
 type: post
 url: /2008/06/movies-june-2008/
 ---

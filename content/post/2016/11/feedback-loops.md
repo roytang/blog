@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Self-Improvement
+categories: []
 date: 2016-11-01 01:30:14
+tags:
+- Self-Improvement
 title: Feedback Loops
 type: post
 url: /2016/11/feedback-loops/

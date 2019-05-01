@@ -1,10 +1,10 @@
 ---
 author: roy
-date: 2019-02-19T13:56:56+08:00
-type: post
-categories:
+categories: []
+date: 2019-02-19 05:56:56
+tags:
 - Tech life
-title: "Noisy channels"
+title: Noisy channels
 type: post
 ---
 

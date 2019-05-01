@@ -1,12 +1,13 @@
 ---
 author: Roy
-categories:
-- Links
+categories: []
 date: 2006-05-07 18:00:02
 enclosure:
-- "|\n    http://txfx.net/files/wp-movies/001-your-first-wp-plugin.mov\n    5947292\n
-  \   video/quicktime\n    \n"
+- "|\n    http://txfx.net/files/wp-movies/001-your-first-wp-plugin.mov\n    5947292\n\
+  \    video/quicktime\n    \n"
 format: link
+tags:
+- Links
 title: Del.icio.us bookmarks for 2006-05-07
 type: post
 url: /2006/05/del-icio-us-bookmarks-for-2006-05-07/

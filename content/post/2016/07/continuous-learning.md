@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Opinions
+categories: []
 date: 2016-07-05 01:30:50
+tags:
+- Opinions
 title: Continuous Learning
 type: post
 url: /2016/07/continuous-learning/

@@ -1,10 +1,8 @@
 ---
 author: roy
-date: 2019-02-28T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
-title: "Push off work"
+categories: []
+date: 2019-02-28 05:56:56
+title: Push off work
 type: post
 ---
 

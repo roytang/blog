@@ -1,9 +1,9 @@
 ---
 author: Roy
-categories:
-- Just Another Day
-- Tech Life
+categories: []
 date: 2004-05-12 05:17:51
+tags:
+- Tech Life
 title: Sweet Sweet Vacation Time
 type: post
 url: /2004/05/sweet-sweet-vacation-time/

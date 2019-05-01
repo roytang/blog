@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Gaming
+categories: []
 date: 2017-06-10 01:30:38
 tags:
 - Review
+- Gaming
 title: 'Review: Persona 5 (You Never Saw It Coming)'
 type: post
 url: /2017/06/review-persona-5-you-never-saw-it-coming/

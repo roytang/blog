@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2006-05-27 02:24:25
 tags:
 - Movies
+- Pop Culture
 title: 'X-Men III: The Last Stand'
 type: post
 url: /2006/05/x-men-iii-the-last-stand/

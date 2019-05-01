@@ -1,10 +1,11 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2018-11-26 02:00:21
+publishdate: 2018-11-26 02:00:21
+tags:
 - Pop Culture
-date: 2018-11-26T10:00:21+08:00
-publishdate: 2018-11-26T10:00:21+08:00
-title: 'Artists to Follow on Social Media'
+title: Artists to Follow on Social Media
 type: post
 ---
 

@@ -1,7 +1,6 @@
 ---
 author: Roy
-categories:
-- Just Another Day
+categories: []
 date: 2006-05-07 00:05:05
 title: Pop-Culture Consumer Whore
 type: post

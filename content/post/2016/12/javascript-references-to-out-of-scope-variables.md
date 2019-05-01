@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2016-12-01 01:30:53
 tags:
 - javascript
+- Software Development
 title: 'Javascript: References to out-of-scope variables.'
 type: post
 url: /2016/12/javascript-references-to-out-of-scope-variables/

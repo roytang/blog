@@ -1,8 +1,9 @@
 ---
 author: Roy
-categories:
-- Meta
+categories: []
 date: 2005-12-11 16:08:00
+tags:
+- Meta
 title: Moving Things Around A Bit
 type: post
 url: /2005/12/moving-things-around-a-bit/

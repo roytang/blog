@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2016-06-16 01:30:02
+tags:
 - Software Development
 - Tech Life
-date: 2016-06-16 01:30:02
 title: Password Security for Application Developers
 type: post
 url: /2016/06/password-security-for-application-developers/

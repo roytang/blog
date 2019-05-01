@@ -1,9 +1,9 @@
 ---
 author: Roy
-categories:
-- Just Another Day
-- Philippines
+categories: []
 date: 2007-05-01 04:01:50
+tags:
+- Philippines
 title: Wowowee
 type: post
 url: /2007/05/wowowee/

@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2009-01-04 14:56:07
+tags:
+- Gaming
 title: Valkyria Chronicles
 type: post
 url: /2009/01/valkyria-chronicles/

@@ -1,7 +1,8 @@
 ---
-categories:
-- Software Development
+categories: []
 date: 2005-08-14 08:46:00
+tags:
+- Software Development
 title: HTML/CSS Trickery
 type: post
 url: /2005/08/htmlcss-trickery/

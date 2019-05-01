@@ -1,13 +1,13 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
+date: 2019-04-02 05:56:56
+featuredImage: https://roytang.net/uploads/2019/minus.jpg
 tags:
 - webcomics
-date: 2019-04-02T13:56:56+08:00
-title: "Minus"
+- Pop Culture
+title: Minus
 type: post
-featuredImage: https://roytang.net/uploads/2019/minus.jpg
 ---
 
 Some number of years back I first encountered this comic image and I really liked it because it had a message of boundless optimism, of no challenge too large to overcome.

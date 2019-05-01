@@ -4,13 +4,13 @@ aktt_notify_twitter:
 aktt_tweeted:
 - 1
 author: roy
-categories:
-- Magic the Gathering
+categories: []
 date: 2012-06-19 08:02:25
 tags:
 - grand-prix
 - standard
 - tournament-report
+- Magic the Gathering
 title: Grand Prix Manila 2012
 type: post
 url: /2012/06/grand-prix-manila-2012/

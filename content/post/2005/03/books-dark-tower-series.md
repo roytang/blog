@@ -1,11 +1,11 @@
 ---
 author: Roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-03-24 08:30:00
 tags:
 - Books
 - Review
+- Pop Culture
 title: 'Books: Dark Tower series'
 type: post
 url: /2005/03/books-dark-tower-series/

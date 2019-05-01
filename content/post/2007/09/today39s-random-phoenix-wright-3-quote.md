@@ -1,8 +1,9 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2007-09-01 18:10:35
-title: "Today's Random Phoenix Wright 3 Quote"
+tags:
+- Gaming
+title: Today's Random Phoenix Wright 3 Quote
 type: post
 url: /2007/09/today39s-random-phoenix-wright-3-quote/
 ---

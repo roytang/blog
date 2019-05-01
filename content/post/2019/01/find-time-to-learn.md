@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
+categories: []
+date: 2019-01-14 05:56:56
+tags:
 - Software Development
-date: 2019-01-14T13:56:56+08:00
-title: "Finding Time to Learn new Things"
+title: Finding Time to Learn new Things
 type: post
 ---
 

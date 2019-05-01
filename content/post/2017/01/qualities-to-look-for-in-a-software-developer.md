@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2017-01-19 01:30:29
+tags:
+- Software Development
 title: Qualities to Look for in a Software Developer
 type: post
 url: /2017/01/qualities-to-look-for-in-a-software-developer/

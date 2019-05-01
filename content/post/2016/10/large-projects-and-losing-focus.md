@@ -1,9 +1,9 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Opinions
+categories: []
 date: 2016-10-11 01:30:52
+tags:
+- Opinions
 title: Large Projects and Losing Focus
 type: post
 url: /2016/10/large-projects-and-losing-focus/

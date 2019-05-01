@@ -1,7 +1,8 @@
 ---
-categories:
-- Gaming
+categories: []
 date: 2004-07-19 13:52:57
+tags:
+- Gaming
 title: Online Jigsaw Puzzles!
 type: post
 url: /2004/07/online-jigsaw-puzzles/

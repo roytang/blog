@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Pop Culture
+categories: []
 date: 2005-05-08 11:34:00
 tags:
 - Books
 - Review
-title: "Wheel of Time 10 -- Crossroads of Twilight"
+- Pop Culture
+title: Wheel of Time 10 -- Crossroads of Twilight
 type: post
 url: /2005/05/wheel-of-time-10-crossroads-of-twilight/
 ---

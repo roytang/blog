@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Tech Life
+categories: []
 date: 2018-05-13 01:00:36
+tags:
+- Tech Life
 title: Google Duplex and Conversation AIs
 type: post
 url: /2018/05/google-duplex-and-conversation-ais/

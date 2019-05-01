@@ -1,10 +1,8 @@
 ---
 author: roy
-date: 2019-02-06T13:56:56+08:00
-type: post
-categories:
-- Just Another Day
-title: "Picking Your Battles"
+categories: []
+date: 2019-02-06 05:56:56
+title: Picking Your Battles
 type: post
 ---
 

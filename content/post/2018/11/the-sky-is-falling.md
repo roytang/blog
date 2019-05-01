@@ -1,11 +1,10 @@
 ---
 author: roy
-categories:
-- Just Another Day
-- Opinions
+categories: []
 date: 2018-11-03 05:03:48
 tags:
 - Politics
+- Opinions
 title: The sky is falling
 type: post
 url: /2018/11/the-sky-is-falling/

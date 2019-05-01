@@ -1,8 +1,9 @@
 ---
 author: roy
-categories:
-- Philippines
+categories: []
 date: 2016-09-26 01:30:56
+tags:
+- Philippines
 title: Investigating the Drug Killings
 type: post
 url: /2016/09/investigating-the-drug-killings/

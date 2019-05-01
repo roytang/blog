@@ -1,9 +1,10 @@
 ---
 author: roy
-categories:
-- Software Development
+categories: []
 date: 2003-12-12 14:05:46
-title: "That's L33T"
+tags:
+- Software Development
+title: That's L33T
 type: post
 url: /2003/12/that39s-l33t/
 ---

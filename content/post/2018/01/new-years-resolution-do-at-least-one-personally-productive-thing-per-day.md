@@ -1,10 +1,10 @@
 ---
 author: roy
-categories:
-- Self-Improvement
+categories: []
 date: 2018-01-06 01:00:04
-title: "New Year's Resolution: Do at least one personally productive
-  thing per day"
+tags:
+- Self-Improvement
+title: 'New Year''s Resolution: Do at least one personally productive thing per day'
 type: post
 url: /2018/01/new-years-resolution-do-at-least-one-personally-productive-thing-per-day/
 ---

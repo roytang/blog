@@ -1,12 +1,12 @@
 ---
 author: roy
-categories:
-- Pop Culture
-- Tech Life
+categories: []
 date: 2005-06-14 16:02:00
 tags:
 - Music
 - Puzzles
+- Pop Culture
+- Tech Life
 title: Music Quiz
 type: post
 url: /2005/06/music-quiz/
