@@ -2,6 +2,9 @@
 <article id="main-content" class="container main_content list">
   <header class="container">
     {{ partial "bloc/content/h1-title" . }}
+    {{ if .RSSLink }}
+        <a href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}">Subscribe via RSS</a>
+    {{ end }}
   </header>
   <ul class="container content">
     {{ range $index, $page := .Paginator.Pages }}
