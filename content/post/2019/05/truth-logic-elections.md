@@ -8,7 +8,7 @@ title: "Truth, Logic, and Elections"
 type: post
 ---
 
-From a friend's Facebook post:
+From a [friend's Facebook post](https://www.facebook.com/permalink.php?story_fbid=10157380641633991&id=827533990):
 
 > Less than 2 weeks to the elections, I want to share a hard lesson I learned from the previous one. Especially given that I've had formal lessons in rhetoric and logic.
 > 
