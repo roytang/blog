@@ -2,8 +2,8 @@
 author: roy
 date: 2019-05-04T13:56:56+08:00
 tags:
-- quotes
-- poetry
+- philippines
+- politics
 title: "Truth, Logic, and Elections"
 type: post
 ---
