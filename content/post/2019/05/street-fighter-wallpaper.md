@@ -1,0 +1,16 @@
+---
+author: roy
+date: 2019-05-07T13:56:56+08:00
+tags:
+- gaming
+- wallpapers
+title: "Street Fighter Background Wallpapers"
+type: post
+---
+
+I often prefer having a randomly changing background wallpaper, even back in the day when Windows didn't support it natively and I had to install various plugins to support it. I like the variance! The one I've been using recently was this set of wallpapers based on Street Fighter stage backgrounds, which I got from a reddit thread that I unfortunately can't find anymore (I'll update this post if I find it later).
+
+In the meantime, I thought I'd share:
+{{< gallery dir="gallery/sfwall/" />}}
+
+(I also took this opportunity to install a Hugo gallery plugin for this sort of thing. Credits to [Hugo Easy Gallery](https://github.com/liwenyip/hugo-easy-gallery/)!)
