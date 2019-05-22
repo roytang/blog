@@ -14,3 +14,5 @@ In the meantime, I thought I'd share:
 {{< gallery dir="gallery/sfwall/" />}}
 
 (I also took this opportunity to install a Hugo gallery plugin for this sort of thing. Credits to [Hugo Easy Gallery](https://github.com/liwenyip/hugo-easy-gallery/)!)
+
+Edit: Found [the link to the reddit thread](https://www.reddit.com/r/StreetFighter/comments/9i5y65/street_fighter_3_enhanced_stage_wallpapers/)!
