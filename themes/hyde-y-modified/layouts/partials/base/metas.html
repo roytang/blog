@@ -36,6 +36,12 @@
     {{ end }}
   {{ end }}
 
+{{ if .Params.featuredImage }}
+<meta property="og:image" content="{{ .Params.featuredImage }}">
+{{ else if .Site.Params.featuredImage }}
+<meta property="og:image" content="{{ .Site.Params.featuredImage }}">
+{{ end }}
+
   {{ if ne .Site.Params.twitter "" }}
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@{{ .Site.Params.twitter }}" />
