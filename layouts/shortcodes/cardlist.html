@@ -1,7 +1,4 @@
 <div class="mtgdecklist">
-    <div class="header">
-        <h4>{{ .Get "title" }}<hr></h4>
-    </div>
 {{ $s := newScratch }}    
 {{ $s.Set "LineCount" 0 }}
 {{ range split (.Inner) "\n" }}
@@ -14,6 +11,9 @@
 {{ $s.Set "ColumnLimit" (div ($s.Get "LineCount") 3) }}
 {{ $s.Set "CurrentLine" 0 }}
 {{ $s.Set "CurrentLineInCurrentColumn" 0 }}
+<div class="header">
+    <h4>{{ .Get "title" }} LC = {{ $s.Get "LineCount"}}, CL = {{ $s.Get "ColumnLimit" }}<hr></h4>
+</div>
 <div class="content">
     <div class="wrapper">
         <div class="box">
@@ -33,7 +33,16 @@
             <div class="section_header">{{ $line }}</div>
                 <ul>
                     {{ else }}
-                    <li>{{ . }}</li>
+                    {{ $s.Set "CardName" "" }}
+                    <li>{{ range $index, $value := split . " " }}
+                            {{ if (gt $index 0) }}
+                                {{ $s.Add "CardName" . }}
+                                {{ $s.Add "CardName" " " }}
+                            {{ else }}
+                                {{ . }}
+                            {{ end }}
+                        {{ end }}
+                        <a target="_new" href='http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name={{ $s.Get "CardName" }}' >{{ $s.Get "CardName" }}</a></li>
                     {{ end }}
                     {{ $s.Add "CurrentLine" 1 }}
                     {{ $s.Add "CurrentLineInCurrentColumn" 1 }}
