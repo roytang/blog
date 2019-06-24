@@ -16,20 +16,14 @@
 </div>
 <div class="content">
     <div class="wrapper">
-        <div class="box">
             {{ range split (.Inner) "\n" }}
                 {{ $line := trim (.) "\n\r " }}
                 {{ if gt (len $line) 0 }}
                     {{ if hasPrefix $line "[/" }}
                 </ul>
-                        {{ if (gt ($s.Get "CurrentLineInCurrentColumn") ($s.Get "ColumnLimit")) }}
-                            {{ if (lt ($s.Get "CurrentLine") ($s.Get "LineCount")) }}
         </div>
-        <div class="box">
-                            {{ end }}
-                            {{ $s.Set "CurrentLineInCurrentColumn" 0 }}
-                        {{ end }}
                     {{ else if hasPrefix $line "[" }}
+        <div class="box">
             <div class="section_header">{{ $line }}</div>
                 <ul>
                     {{ else }}

@@ -9,6 +9,7 @@ table.grid_archive a {
 }
 .mtgdecklist {
     width:100%;margin:0px auto;
+    padding: 10px;
 }
 .mtgdecklist .header h4 {
     font-size:150%;font-weight:bold;text-align:center;
@@ -17,10 +18,11 @@ table.grid_archive a {
     display: grid;
     grid-template-columns: auto auto auto;
     grid-gap: 10px;
+    border: 1px black solid;
+    background-color: #f0f0f0;
 }
 .mtgdecklist .box {
-    padding: 20px;
-    border: 1px black solid;
+    padding: 10px;
 }
 .mtgdecklist .section_header {
     font-size:100%;font-weight:bold; 
