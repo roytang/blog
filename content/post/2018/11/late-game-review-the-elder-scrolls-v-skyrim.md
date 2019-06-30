@@ -6,7 +6,7 @@ tags:
 - late-game-review
 - review
 - Gaming
-title: "Late Game Review: The Elder Scrolls V \xE2\u20AC\u201D Skyrim"
+title: "Late Game Review: The Elder Scrolls V - Skyrim"
 type: post
 url: /2018/11/late-game-review-the-elder-scrolls-v-skyrim/
 ---
@@ -56,11 +56,7 @@ I had a \*lot\* of mods installed, mostly additional gameplay/quests, additional
 
 I also have the Legendary Edition on Steam (free upgrade since I had the DLCs), but I don&#8217;t think I have the patience to go through the entire game again. The size of the game and the excellent mod community mean one could very well play Skyrim forever, especially since Bethesda tells us&nbsp;[The Elder Scrolls 6 is still a ways away][6]. Unfortunately, there are still a lot of other games to play, and now I&#8217;m finally able to uninstall Skyrim. But before that here&#8217;s an Imgur dump of my Steam screenshots folder:<figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
 
-<div class="wp-block-embed__wrapper">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/ZWNxtnz">
-    <a href="https://imgur.com/a/ZWNxtnz">View post on imgur.com</a>
-  </blockquote>
-</div></figure>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZWNxtnz"><a href="//imgur.com/a/ZWNxtnz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
  [1]: https://i.imgur.com/0mR5pvs.png
  [2]: https://www.nexusmods.com/skyrim/mods/70219/
