@@ -4,6 +4,7 @@ categories: []
 date: 2019-06-08 05:56:56
 tags:
 - travels
+- ustrip2019
 title: 'US 2019 - Tourist mode exercise'
 type: post
 ---
