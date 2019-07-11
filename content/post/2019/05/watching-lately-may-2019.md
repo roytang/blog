@@ -6,6 +6,7 @@ tags:
 - movies
 - tv
 - manga
+- watching lately
 title: "Watching Lately: May 2019"
 type: post
 ---
