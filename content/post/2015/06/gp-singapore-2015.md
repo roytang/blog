@@ -4,6 +4,9 @@ categories: []
 date: 2015-06-29 06:37:38
 tags:
 - Magic the Gathering
+- grand prix
+- modern
+- travels
 title: GP Singapore 2015
 type: post
 url: /2015/06/gp-singapore-2015/
