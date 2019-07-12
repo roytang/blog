@@ -21,6 +21,15 @@ By my own count, I had ridden on an airplane 23 times now in my lifetime (19 int
 - need to pass security/immigration/customs. Added feature this time was the stricter TSA screening. And the customs form I needed to fill up as I entered the US gave me some worry as well, because I was carrying some foodstuffs meant to be given to relatives and I wasn't sure if I had to declare them or not (apparently the default answer is just don't declare them? IDK). I had a similar issue on the way back into the PH, but even though I was given a customs form to fill up, no one actually asked for it?!? ¯\\\_(ツ)\_/¯
 - need to pray that your checked luggage doesn't get lost or stolen from. Additionally, in the US, the TSA may open your checked luggage outside of your presence, and if you're using a non-TSA approved luggage lock, they will break your lock to do so. I had the misfortune of getting [this souvenir from the TSA](https://photos.app.goo.gl/BMYFgcLnrtpwiEd66) because of this (I have since purchased TSA-approved locks)
 - need to make sure no one else claims your checked baggage at the carousel
+- will I even be able to sleep during the long haul flight? Undoubtably yes, but only in very short bursts that I presume are not healthy. Airplane economy seats are often very uncomfortable for me and and have very little leg room, and the seat backs are not conducive to me sleeping. I am so uncomfortable on airplanes that I've come to realize that me preparing movies/books/comics/games to entertain me during the flight is a waste of time, as I typically won't indulge in those activities when I'm not very comfortable. Typically, a long haul flight goes like this for me:
+  - Try to sleep
+  - Wake up after 2-8 minutes due to some noise or due to my neck hurting
+  - Check the flight status/time to see how much longer I have to tolerate this nonsense
+  - Stare for a while into the void, doing nothing, hoping I can somehow make this flight go by faster
+  - (Optional) Get up and go to the 0.5 square meter lavatory so I can stretch my legs
+  - Make tiny adjustment in neck or butt or leg position(s) and hope that helps me sleep better
+  - Repeat
+
 
 The start of my trip gave me some anxiety as well, when I went to the check-in counter at NAIA, the Asiana lady could not scan my machine-readable passport, presumably due to a fold on the relevant page. She said she would process me manually but warned me that there was a possibility that they would reject my passport at my US entry point since a machine-readable passport was a requirement. I even had to sign a waiver absolving Asiana of any liability in case I was not allowed to enter the US! Basically they gave me reason to be worried during the entire length of the 18-hour trip to SFO. Spoilers: there was no issue at the US border, and there was never any further issue scanning my passport at any point including at the e-Gate as I was re-entering the PH. (Props to NAIA for having e-Gates now.)
 
