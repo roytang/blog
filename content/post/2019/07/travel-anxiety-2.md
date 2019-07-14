@@ -4,7 +4,7 @@ categories: []
 date: 2019-07-13 05:56:56
 tags:
 - travels
-- ustrip
+- ustrip2019
 title: 'Travel Anxiety, Part 2'
 type: post
 ---
