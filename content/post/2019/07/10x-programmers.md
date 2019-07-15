@@ -73,3 +73,7 @@ The items listed here remind me of the type of programmer stereotype where one p
 I'm not claiming that 10x engineers don't exist, I'm sure they do, and I know from experience many of the above stereotypes can be true. But stereotypes are just that - stereotypes. Every programmer has had a different path and there can be superproductive programmers who also know how to well work with teams and can be great mentors and write great documentation.
 
 I'm also not necessarily claiming to be a 10x programmer even though I claim to relate to the items here (false humility?). I would appreciate being paid a 10x salary though. :D
+
+A second thread on 10x programmers I like, from Alan Cooper:
+
+{{% twitter 1150215587978596353 %}}
