@@ -1,0 +1,11 @@
+<p class="container content">
+    {{ .Summary }}
+</p>
+{{ range .Params.media }}
+    <img src="{{ . }}" />
+{{ end }}
+
+<a href="{{ .Permalink }}"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format .Site.Data.Formats.date }}</time></a>
+
+<hr>
+  
