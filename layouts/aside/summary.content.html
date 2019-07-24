@@ -1,5 +1,13 @@
+{{ if .Params.reply }}
+    Reply to <a href="https://twitter.com/{{ .Params.in_reply_to_screen_name }}/status/{{ .Params.in_reply_to_status_id_str }}">@{{ .Params.in_reply_to_screen_name }} on {{ .Params.source }}</a>:
+{{ end }}
+
+{{ if .Params.retweet }}
+    Retweeted <a href="https://twitter.com/{{ .Params.retweeted_screen_name }}/status/{{ .Params.id }}">@{{ .Params.retweeted_screen_name }} on {{ .Params.source }}</a>:
+{{ end }}
+
 <p class="container content">
-    {{ .Summary }}
+    {{ .Content }}
 </p>
 {{ range .Params.media }}
     <img src="{{ . }}" />
