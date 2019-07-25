@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-exhale"]
+	path = themes/hugo-theme-exhale
+	url = https://github.com/roytang/hugo-theme-exhale
