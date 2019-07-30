@@ -7,6 +7,7 @@ tags:
 - wordpress
 - Meta
 - Tech Life
+- changelog
 title: Site Migration from Wordpress to Hugo
 featuredImage: https://roytang.net/uploads/2018/blog-hugo-2018.png
 ---

@@ -4,6 +4,7 @@ categories: []
 date: 2008-05-24 16:58:27
 tags:
 - Meta
+- changelog
 title: Bear With Me
 type: post
 url: /2008/05/bear-with-me/

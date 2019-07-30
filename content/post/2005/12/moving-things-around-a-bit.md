@@ -4,14 +4,18 @@ categories: []
 date: 2005-12-11 16:08:00
 tags:
 - Meta
+- changelog
 title: Moving Things Around A Bit
 type: post
 url: /2005/12/moving-things-around-a-bit/
+featuredImage: https://roytang.net/uploads/2005/layout20051211.png
 ---
 
 I was getting a bit bored with the place, so I spruced it up a bit, switched some colors, moved stuff around. You know, just to pretend something's happening. And to showcase my sorely lacking UI design skills. :p
   
-[Screenshot captured for posterity.][1] 
+Screenshot captured for posterity:
+
+![](/uploads/2005/layout20051211.png)
 
 I also cleaned up some of the global files that were being accessed from fateback, since I will eventually drop that host completely. Right now, the external files used by this site are hsoted on my geocities account (which I should also organize/clean up in some way.)
 

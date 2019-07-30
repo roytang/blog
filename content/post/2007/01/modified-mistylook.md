@@ -4,6 +4,7 @@ categories: []
 date: 2007-01-15 22:45:53
 tags:
 - Meta
+- changelog
 title: Modified MistyLook
 type: post
 url: /2007/01/modified-mistylook/

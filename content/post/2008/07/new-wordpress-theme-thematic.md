@@ -5,6 +5,7 @@ date: 2008-07-06 04:55:46
 tags:
 - wordpress
 - Meta
+- changelog
 title: New WordPress Theme -- Thematic
 type: post
 url: /2008/07/new-wordpress-theme-thematic/
