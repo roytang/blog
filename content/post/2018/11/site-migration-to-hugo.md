@@ -8,6 +8,7 @@ tags:
 - Meta
 - Tech Life
 title: Site Migration from Wordpress to Hugo
+featuredImage: https://roytang.net/uploads/2018/blog-hugo-2018.png
 ---
 
 ### Leaving Wordpress
@@ -96,6 +97,10 @@ Legacy comments from WP are imported directly into the markdown of each page. Fu
 
 I'm not much of a CSS/site design guy, I'm more a "find an existing theme and tweak it to your liking" guy, so I browsed Hugo's available themes for a while and settled on [Hyde-Y](https://github.com/enten/hyde-y), which I proceeded to modify a bit, adding a picture to the sidebar and so on. It's simple and clean and straightforward, nothing too fancy. Maybe I'll revisit the theme later.
 
+For posterity's sake, a screenshot of the new layout/theme:
+
+![](/uploads/2018/blog-hugo-2018.png)
+
 ### Summary
 
 At the end of it, it turned out a bit more effort than I expected. I'll probably be cleaning up the exported older posts every so often because I'm OC that well. The theming/templating turned out to be a bit more complicated than I expected, but I think it was easier to manage than Wordpress. The last time I tried to use a custom blog engine, I got tired of maintaining and upating it so I switched back to Wordpress, hopefully that doesn't happen here. Not having to maintain a web interface is a pretty good indicator.
@@ -106,3 +111,4 @@ Despite the effort, the great thing is that I did learn a few things, so at the 
 - how to create Github Webhooks
 - more .htaccess stuff
 - usage of pathlib.Path in Python3 (no more os.glob for me!)
+
