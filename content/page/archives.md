@@ -1,1 +1,16 @@
-{"layout":"archives","url":"/archives", "title":"Archives"}
+---
+author: roy
+url: /archives
+title: Archives
+type: page
+---
+
+<h4>All Posts by Date</h4>
+
+<p>I've been blogging since 2002! Click on the post counts below to view the posts by year or month.</p>
+
+{{< archives/grid-or-list >}}
+
+<h4>Tags</h4>
+
+{{< archives/tagsbycount >}}

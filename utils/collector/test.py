@@ -1,5 +1,6 @@
 SOURCE_FILE = "D:\\temp\\twitter\\tweet.js"
 OUTPUT_DIR = "D:\\repos\\blog\\content\\aside\\"
+TWITTER_USERNAME = 'roytang'
 
 import frontmatter
 import json
@@ -36,6 +37,8 @@ with open(SOURCE_FILE, encoding='utf-8') as f:
         post['source'] = 'twitter'
         post['id'] = d1["id_str"]
 
+        post['source_url'] = "https://twitter.com/%s/statuses/%s/" % (TWITTER_USERNAME, post['id'])
+
         tags = []
         for ht in d1["entities"]["hashtags"]:
             tags.append(ht["text"])
@@ -60,9 +63,12 @@ with open(SOURCE_FILE, encoding='utf-8') as f:
         if content.startswith("RT @"):
             post["retweet"] = True
             colon_idx = content.find(":")
-            post['retweeted_screen_name'] = content[4:colon_idx]
+            retweeted_screen_name = content[4:colon_idx]
+            mdlink = "[@%s](https://twitter.com/%s/)" % (retweeted_screen_name, retweeted_screen_name)
             # blockquote the content
-            content = "> " + content[colon_idx+1:]
+            rt_content = content[colon_idx+1:]
+            content = "RT @%s" % (retweeted_screen_name) # the 'entities' code below should turn this into a link
+            content = content + '\n\n> ' + rt_content
 
         if "entities" in d1:
             # replace mentions with link
@@ -100,5 +106,5 @@ with open(SOURCE_FILE, encoding='utf-8') as f:
             w.write(newfile)
 
         idx = idx + 1
-        if idx > 20:
+        if idx > 100:
             break

@@ -3,3 +3,5 @@
 
 <div class="feed_container"></div>
 
+<script src="/js/app.js"></script>
+
