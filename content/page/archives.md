@@ -14,3 +14,9 @@ type: page
 <h4>Tags</h4>
 
 {{< archives/tagsbycount >}}
+
+<h4>Other Stuff</h4>
+
+[Site changelog](/tags/changelog/)
+
+[Older (ancient) versions of this site](/archives/ancient/)
