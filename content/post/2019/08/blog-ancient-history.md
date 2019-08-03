@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2019-08-04 05:56:56
+date: 2019-08-04 00:00:00
 tags:
 - meta
 - nostalgia
