@@ -23,15 +23,11 @@ def index(ix):
 
     from pathlib import Path
     import frontmatter
-    import io
-    from textblob import TextBlob
-    from dateutil.parser import parse
 
     cwd = Path.cwd() 
     # navigate to ./content/posts
     p = cwd / "content" / "post"
     for mdfile in p.glob("**/*.md"):
-        print(str(mdfile))
         with mdfile.open(encoding='utf-8') as f:
             post = frontmatter.load(f)
             post_text = str(post)
@@ -50,8 +46,6 @@ def index(ix):
                 if rp.endswith(".md"):
                     rp = rp.replace(".md", "/")
                 u = rp
-
-            print(u)
 
             writer.update_document(title=t, content=post_text,
                 path=str(mdfile), tags=",".join(tags), date=d, url=u)
