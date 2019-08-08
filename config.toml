@@ -34,7 +34,8 @@ disqusShortname = "roytangweblog"
     featuredImage = "https://roytang.net/uploads/diceonhead.jpg"
     description = "Roy Tang's blog. Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
     mainColor = "#004F00"
-
+    comments_enabled = true
+    
     # Sidebar position
     # false, true, "left", "right"
     sidebar = "left"
