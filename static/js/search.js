@@ -20,7 +20,7 @@ var ready = function ( fn ) {
 ready(() => {
     const urlParams = new URLSearchParams(window.location.search);
     const q = urlParams.get('q');
-    let searchUrl = "http://apps.roytang.net/search/?q="+q;
+    let searchUrl = "https://apps.roytang.net/search/?q="+q;
     let parentNode = document.getElementById("search-results");
 
     fetch(searchUrl)
@@ -28,7 +28,6 @@ ready(() => {
             return response.json();
         })
         .then(function(jsonResponse) {
-            console.log(jsonResponse);
             for (let i in jsonResponse) {
                 let r = jsonResponse[i];
                 let article = document.createElement("article");
