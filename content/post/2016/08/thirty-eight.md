@@ -4,6 +4,8 @@ categories: []
 date: 2016-08-09 01:30:46
 title: Thirty Eight
 type: post
+tags:
+- birthday
 url: /2016/08/thirty-eight/
 ---
 

@@ -4,6 +4,8 @@ categories: []
 date: 2014-08-09 11:47:19
 title: Thirty-Six
 type: post
+tags:
+- birthday
 url: /2014/08/thirty-six/
 ---
 
