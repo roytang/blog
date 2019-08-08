@@ -2,3 +2,4 @@ public
 temp.txt
 .DS_Store
 node_modules/
+utils/index/
