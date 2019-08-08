@@ -8,7 +8,7 @@ schema = Schema(path=ID(unique=True),
                 content=TEXT(analyzer=StemmingAnalyzer(), stored=True),
                 title=TEXT(stored=True),
                 tags=KEYWORD,
-                date=DATETIME,
+                date=DATETIME(stored=True),
                 url=STORED,
                 )
 
