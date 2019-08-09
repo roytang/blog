@@ -3,6 +3,7 @@ storage = FileStorage("utils/index")
 
 from whoosh.fields import Schema, TEXT, KEYWORD, ID, STORED, DATETIME
 from whoosh.analysis import StemmingAnalyzer
+from datetime import datetime
 
 schema = Schema(path=ID(unique=True),
                 content=TEXT(analyzer=StemmingAnalyzer(), stored=True),
@@ -18,7 +19,7 @@ try:
 except:
     ix = storage.create_index(schema)
 
-def index(ix):
+def index(ix, all=False):
     writer = ix.writer()
 
     from pathlib import Path
@@ -28,6 +29,12 @@ def index(ix):
     # navigate to ./content/posts
     p = cwd / "content" / "post"
     for mdfile in p.glob("**/*.md"):
+        modtime = datetime.fromtimestamp(mdfile.stat().st_mtime)
+        n = datetime.now()
+        daysdelta = (n - modtime).days
+        if not all and daysdelta > 1:
+            # dont index files older than 1 day
+            continue
         with mdfile.open(encoding='utf-8') as f:
             post = frontmatter.load(f)
             post_text = str(post)
