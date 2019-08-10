@@ -5,7 +5,7 @@ type: page
 date: 2018-04-15T05:26:37+00:00
 url: /resume
 ---
-[roytang@gmail.com](mailto:roytang@gmail.com) | [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang)
+[hello@roytang.net](hello@roytang.net) | [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang)
 
 [View/download this resume in PDF format](/RoyTang.pdf)
 
@@ -19,11 +19,15 @@ I have been working professionally as a software developer, technical lead and s
 
 <table>
 <tr>
-<td style="width: 20%">2016-2018</td>
+<td style="width: 20%">2019</td>
+<td><strong><a href="https://www.bodiesapp.com/">BodiesApp</a></strong> - Technical Consultant</td>
+</tr>
+<tr>
+<td style="width: 20%">2016-2019</td>
 <td><strong><a href="https://maroonstudios.com">Maroon Studios</a></strong> - Solution Architect and Technical Consultant lead</td>
 </tr>
 <tr>
-<td style="width: 20%">2016-2018</td>
+<td style="width: 20%">2016-2019</td>
 <td><strong><a href="https://healthblocks.ph">Healthblocks</a></strong> - Solution Architect and Technical Consultant lead</td>
 </tr>
 <tr>
@@ -84,7 +88,13 @@ I have been working professionally as a software developer, technical lead and s
 
 #### Career Details
 
-##### 2016 to Present
+##### 2019 to present
+
+- [BodiesApp](https://www.bodiesapp.com/) - Technical Consultant 
+- Consulting on development of a multi-tier system including mobile clients, web platform and API backends
+- Working with globally distributed development and testing teams
+
+##### 2016 to 2019
 
 - [Maroon Studios](https://maroonstudios.com) - Solution Architect and Technical Consultant
 - [Healthblocks](https://healthblocks.ph) - Solution Architect and Technical Consultant
@@ -103,6 +113,11 @@ I have been working professionally as a software developer, technical lead and s
 - Amazon Web Services (AWS) setup and deployment 
 - Alicloud setup and deployment 
 - Blockchain (Multichain and Ethereum based)
+
+###### Notable projects:
+
+- [Ambertime Coin](https://ambertime.org/en/english-home) - blockchain wallet and services platform
+- [Ticket2Me](https://ticket2me.net/) - online ticketing platform
  
 ##### 2003 to 2015
 [Azeus Systems Limited Philippines](https://www.azeus.com/careers/philippines/) - Technical Lead and Full Stack Developer

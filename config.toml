@@ -1,6 +1,6 @@
 baseURL = "https://roytang.net/"
 languageCode = "en-us"
-title = "roytang / weblog"
+title = "Roy Tang"
 theme = "exhale"
 
 # Pagination
