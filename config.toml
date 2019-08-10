@@ -36,6 +36,7 @@ disqusShortname = "roytangweblog"
     mainColor = "#004F00"
     footline = "[←](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous)</a>An IndieWeb Webring 🕸💍[→](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next)"
     comments_enabled = true
+    webmention_username = 'roytang.net'
     
     # Sidebar position
     # false, true, "left", "right"

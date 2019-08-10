@@ -52,3 +52,7 @@ a:hover {
     color: black;
     text-decoration: underline;
 }
+
+.about img {
+    float: left;
+}
