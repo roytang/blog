@@ -24,7 +24,7 @@ I've had a site on the internet since around 2001, in some form or another. I've
 
 This is a personal site; you can find here my posts about a random assortment of topics that interest me. Some of the most common topics include [software development](/tags/software-development/), [Magic the gathering](/tags/magic-the-gathering/), [pop culture](/tags/pop-culture), [gaming](/tags/gaming), and [tech life](/tech-life/). 
 
-This site is hosted on [Webfaction](https://www.webfaction.com/?aid=7808). If you are interested in web hosting services, kindly support me by using [my affiliate link](https://www.webfaction.com/?aid=7808).
+This site is statically generated using [Hugo](https://gohugo.io/) and the [source is available on Github](https://github.com/roytang/blog). This site is hosted on [Webfaction](https://www.webfaction.com/?aid=7808). If you are interested in web hosting services, kindly support me by using [my affiliate link](https://www.webfaction.com/?aid=7808).
 
 ---
 
