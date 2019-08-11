@@ -16,7 +16,7 @@ disqusShortname = "roytangweblog"
 
 [author]
     name = "Roy Tang"
-    email = "awesome@roytang.net"
+    email = "hello@roytang.net"
 
 [permalinks]
     post = "/:year/:month/:slug/"
