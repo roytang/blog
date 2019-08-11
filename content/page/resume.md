@@ -116,7 +116,7 @@ I have been working professionally as a software developer, technical lead and s
 
 ###### Notable projects:
 
-- [Ambertime Coin](https://ambertime.org/en/english-home) - blockchain wallet and services platform
+- Ambertime Coin - blockchain wallet and services platform
 - [Ticket2Me](https://ticket2me.net/) - online ticketing platform
  
 ##### 2003 to 2015
