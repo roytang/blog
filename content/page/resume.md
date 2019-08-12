@@ -154,7 +154,7 @@ I have been working professionally as a software developer, technical lead and s
         - UK Data Protection Act
 - Other roles
     - System Analyst (from Oct 2005 onwards): Design and review of implementation of various client requirements; writing functional specifications and database design; on-site consultations with clients and technology partners to discuss requirements and iterate on implementation details. On-site locations include London (United Kingdom) and Hong Kong
-    - Presales Consultatn (from Apr 2008 onwards): Responsible for drafting technical replies to client tender requirements for presales purposes and consulting on costing and estimation concerns
+    - Presales Consultant (from Apr 2008 onwards): Responsible for drafting technical replies to client tender requirements for presales purposes and consulting on costing and estimation concerns
     - In-House Organisation Trainer (from May 2004 onwards): Prepared organizational training materials and conducted training sessions for new hires on the following topics: SQL, Oracle PL/SQL, HTML, CSS, JavaScript, Java, JSP, Java Servlets, Oracle Forms and Reports
 - Skills, Programming Languages, and Tools used
     - Web front-end languages: HTML, CSS, JavaScript
