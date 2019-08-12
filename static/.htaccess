@@ -5,7 +5,7 @@ RewriteRule ^tag/(.*)$ tags/$1/ [R=301,L]
 RewriteRule ^category/(.*)/$ categories/$1/ [R=301,L]
 RewriteRule ^category/(.*)$ categories/$1/ [R=301,L]
 
-RedirectMatch 301 ^/blog/(.*)$ $1
-RedirectMatch 301 ^/magic/(.*)$ $1
+RedirectMatch 301 ^/blog/(.*)$ /$1
+RedirectMatch 301 ^/magic/(.*)$ /$1
 
 ErrorDocument 404 /404.html
