@@ -4,6 +4,7 @@ categories: []
 date: 2015-04-25 05:56:41
 tags:
 - Travels
+- europe2015
 title: 'Europe 2015: Rome and Vatican City'
 type: post
 url: /2015/04/europe-2015-rome-and-vatican-city/
@@ -25,9 +26,11 @@ At the reception desk, we were greeted by a pretty Italian lady named Alina who 
 
 She directed us to a small restaurant at a corner a few blocks from the hotel, the Montecarlo, saying that she ate there all the time. We were a bit early for the lunch hour so we had to wait a few minutes for them to be ready. We were seated at an outdoors table; I ordered some carbonara, since Marco from Freehostels had recommended it, while my two companions ordered cacio e pepe, recommended by Alina at Migdal Palace.
 
-While waiting for the meals to be served we pored over the maps to plan out our Rome trip. We only had 3 days in Rome, so we allocated today for walking around a bit and seeing nearby things, then the next day we would visit the Vatican, and on the third day the Colosseum.<figure id="attachment_1048" style="width: 3264px" class="wp-caption aligncenter">
+While waiting for the meals to be served we pored over the maps to plan out our Rome trip. We only had 3 days in Rome, so we allocated today for walking around a bit and seeing nearby things, then the next day we would visit the Vatican, and on the third day the Colosseum.
 
-[<img class="size-full wp-image-1048" src="http://roytang.net/wp-content/uploads/2015/04/carbonara.jpg" alt="Carbonara!" width="3264" height="1836" srcset="https://roytang.net/wp-content/uploads/2015/04/carbonara.jpg 3264w, https://roytang.net/wp-content/uploads/2015/04/carbonara-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/04/carbonara-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/04/carbonara-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" />][5]<figcaption class="wp-caption-text">Carbonara!</figcaption></figure> 
+<figure id="attachment_1048" class="wp-caption aligncenter">
+
+<img class="size-full wp-image-1048" src="http://roytang.net/wp-content/uploads/2015/04/carbonara.jpg" alt="Carbonara!" srcset="https://roytang.net/wp-content/uploads/2015/04/carbonara.jpg 3264w, https://roytang.net/wp-content/uploads/2015/04/carbonara-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/04/carbonara-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/04/carbonara-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" /><figcaption class="wp-caption-text">Carbonara!</figcaption></figure> 
 
 The carbonara was very good and very cheesy; the sauce was egg-based without cream (as opposed to the cream-based ones I'm used to) and luckily no mushrooms (I dislike mushrooms). I also had a few bites of my friends' cacio e pepe and it was a strange combination of tastes but also very good.
 
@@ -37,7 +40,7 @@ We made our way through the city, passing by a couple of plazas with small fou
 
 We visited the Pantheon (an ancient Roman circular domed structure adorned with various exhibits including the remains of the ninja turtle Raphael), the church of Saint Ignatius de Loyola (which would turn out to be the first of many well-decorated churches we would visit) among other places. We made our way to the well-known Trevi Fountain, but unfortunately for us, it was undergoing renovation at this time and was drained of water. We walked around a bit more and late at night we ended up eating at this kinda fancy Italian restaurant which charged us an extra 5 euros for the tablecloth (or at least that what the chef's gestures looked like when we asked him to explain the bill)
 
-Not too much detail to talk about here, but here are some pictures I shared via Google Plus: [Wednesday afternoon in Rome][6].  (You might need to be logged in to Google to access, I have no idea how this works)
+Not too much detail to talk about here, but here are some pictures I shared via Google Plus: [Wednesday afternoon in Rome](https://photos.app.goo.gl/DHC1ba4c85S6SAUf7).  (You might need to be logged in to Google to access, I have no idea how this works)
 
 **Thursday March 12th**
 
@@ -67,7 +70,7 @@ I'm finding it difficult to find the words to describe the Basilica itself, I gu
 
 We left the Basilica at around 3pm and had a late lunch at a restaurant along the Via de Conciliazone. After that it was still early so we spent a couple more hours walking around checking a few more sites and running into some weird yet entertaining street art. We wanted to visit the Villa Medici, but it was closed on this day. Eventually we got tired and decided to take a taxi back to the hotel and rest.
 
-Some pictures from this day on Google Plus again: [Thursday in Rome][7].
+Some pictures from this day on Google Plus again: [Thursday in Rome](https://photos.app.goo.gl/ogifR1WwGTjstBqk8).
 
 **To be continued**
 
@@ -77,6 +80,5 @@ I was hoping to cover all of the Rome leg in one post, but this post is already
  [2]: http://roytang.net/2015/04/europe-2015-barcelona-part-1/
  [3]: http://roytang.net/2015/04/europe-2015-barcelona-part-2/
  [4]: http://www.agoda.com/migdal-palace/hotel/rome-it.html
- [5]: http://roytang.net/wp-content/uploads/2015/04/carbonara.jpg
- [6]: https://plus.google.com/101676225200042912359/stories/7bbd6197-2015-3c75-b7a2-a5669d16e00214c0b7dff15?authkey=CJjY1sLljsq35QE
- [7]: https://plus.google.com/101676225200042912359/stories/46649659-3417-3269-91bd-80c5c912ba5114c107aba00
+ 
+ 
