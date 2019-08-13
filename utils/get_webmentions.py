@@ -21,7 +21,7 @@ import urllib.request, json
 with urllib.request.urlopen(endpoint) as url:
     data = json.loads(url.read().decode())
     for link in data['children']:
-        print(link)
+        # print(link)
 
         content = ""
         if link['wm-property'] == 'like-of':
