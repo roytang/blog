@@ -6,5 +6,6 @@ type: page
 comments_enabled: false
 ---
 
-<div id="search-results"></div>
+<p><b>You searched for:</b> <span id="search-criteria">Loading...</span></p>
+<div id="search-results">Loading...</div>
 <script src="/js/search.js"></script>

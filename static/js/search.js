@@ -22,12 +22,18 @@ ready(() => {
     const q = urlParams.get('q');
     let searchUrl = "https://apps.roytang.net/search/?q="+q;
     let parentNode = document.getElementById("search-results");
+    document.getElementById("search-criteria").innerText = q;
 
     fetch(searchUrl)
         .then(function(response) {
             return response.json();
         })
         .then(function(jsonResponse) {
+            let h = "";
+            if (jsonResponse.length == 0) {
+                h += "Sorry, your search got no results!";
+            }
+            parentNode.innerText = h;
             for (let i in jsonResponse) {
                 let r = jsonResponse[i];
                 let article = document.createElement("article");
