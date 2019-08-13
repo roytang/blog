@@ -30,13 +30,24 @@ disqusShortname = "roytangweblog"
     # You can use markdown here.
     brand = "Roy Tang"
     topimage = "![Wearing dice on my head since 2008](/uploads/diceonhead.jpg \"Wearing dice on my head since 2008\")"
-    topline = "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
+    topline = "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart."
     featuredImage = "https://roytang.net/uploads/diceonhead.jpg"
     description = "Roy Tang's blog. Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
-    mainColor = "#004F00"
+    mainColor = "#57cc8a"
     footline = "[←](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous)</a>An IndieWeb Webring 🕸💍[→](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next)"
     comments_enabled = true
     webmention_username = 'roytang.net'
+    # can use markdown here
+    hero_text = """**Roy Tang** is:
+
+- [programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart](/2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/)
+- Frustrated writer and [sketch artist](/2016/03/sketching-daily/)
+- [Magic](/tags/magic-the-gathering) player on weekends
+- [Randomly amazed](/2010/11/randomly-amazed/)
+- [Software developer](/tags/software-development/) since 2003. If you'd like to work with me, take a look at my [resume](/resume).
+
+[roytang.net](https://roytang.net) is a personal site; I post about a random assortment of topics that interest me including [software development](/tags/software-development/), [Magic the Gathering](/tags/magic-the-gathering/), [pop culture](/tags/pop-culture), [gaming](/tags/gaming), and [tech life](tags)</a>. This site is perpetually under renovation.
+    """
     
     # Sidebar position
     # false, true, "left", "right"
@@ -55,16 +66,13 @@ disqusShortname = "roytangweblog"
     googleAnalytics = "UA-129889874-1"
 
     # Sidebar social links.
+    location = "Philippines"
+    locationlink = "/tags/philippines"
     github = "roytang" # Your Github profile ID
-    bitbucket = "" # Your Bitbucket profile ID
     linkedin = "roytang" # Your LinkedIn profile ID (from public URL)
-    googleplus = "" # Your Google+ profile ID
-    facebook = "" # Your Facebook profile ID
     twitter = "roytang" # Your Twitter profile ID
-    youtube = ""  # Your Youtube channel ID
-    flattr = ""  # populate with your flattr uid
-    flickr = "" # Your Flickr profile ID
-    vimeo = "" # Your Vimeo profile ID
+    instagram = "roytang0400"
+    reddit = "hungryroy"
 
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page

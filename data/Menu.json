@@ -1,0 +1,26 @@
+[
+    { 
+        "Name": "Posts",
+        "URL": "/post/"
+    },
+    { 
+        "Name": "Comments",
+        "URL": "/comment/"
+    },
+    { 
+        "Name": "Links",
+        "URL": "/links/"
+    },
+    { 
+        "Name": "Archives",
+        "URL": "/archives/"
+    },
+    { 
+        "Name": "Resume",
+        "URL": "/resume/"
+    },
+    { 
+        "Name": "About",
+        "URL": "/about/"
+    }
+]

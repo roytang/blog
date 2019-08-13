@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2019-08-14 00:00:00
+date: 2019-08-15 00:00:00
 tags:
 - writing
 title: "Writing brings clarity"

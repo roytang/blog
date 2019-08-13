@@ -4,6 +4,7 @@ author: roy
 type: page
 date: 2018-04-15T05:26:37+00:00
 url: /resume
+comments_enabled: false
 ---
 [hello@roytang.net](hello@roytang.net) | [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang)
 
