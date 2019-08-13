@@ -28,7 +28,7 @@ def index(ix, all=False):
 
     cwd = Path.cwd() 
     # navigate to ./content/posts
-    p = cwd / "content" / "post"
+    p = cwd / "content"
     for mdfile in p.glob("**/*.md"):
         try:
             modtime = datetime.fromtimestamp(mdfile.stat().st_mtime)
@@ -71,8 +71,9 @@ def index(ix, all=False):
                     u = rp
                 writer.update_document(title=t, content=post_text,
                     path=str(mdfile), tags=",".join(tags), date=d, url=u)
-        except:
+        except Exception as e:
             print("Failed to index " + str(mdfile))
+            print(e)
 
     writer.commit()
 
