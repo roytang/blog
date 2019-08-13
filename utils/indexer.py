@@ -30,46 +30,49 @@ def index(ix, all=False):
     # navigate to ./content/posts
     p = cwd / "content" / "post"
     for mdfile in p.glob("**/*.md"):
-        modtime = datetime.fromtimestamp(mdfile.stat().st_mtime)
-        n = datetime.now()
-        daysdelta = (n - modtime).days
-        if not all and daysdelta > 1:
-            # dont index files older than 1 day
-            continue
-        with mdfile.open(encoding='utf-8') as f:
-            post = frontmatter.load(f)
-            post_text = str(post)
-            draft = post.get('draft')
-            if draft:
-                # dont index drafts
+        try:
+            modtime = datetime.fromtimestamp(mdfile.stat().st_mtime)
+            n = datetime.now()
+            daysdelta = (n - modtime).days
+            if not all and daysdelta > 1:
+                # dont index files older than 1 day
                 continue
-            d = post.get('date')
-            if d > n:
-                # dont index files from the future
-                continue
-            t = str(post.get('title'))
-            tags = []
-            if post.get("tags") != None:
-                tags = post.get("tags")
-                if type(tags) == str:
-                    tags = [tags] # standardize to a list
+            with mdfile.open(encoding='utf-8') as f:
+                post = frontmatter.load(f)
+                post_text = str(post)
+                draft = post.get('draft')
+                if draft:
+                    # dont index drafts
+                    continue
+                d = post.get('date')
+                if d > n:
+                    # dont index files from the future
+                    continue
+                t = str(post.get('title'))
+                tags = []
+                if post.get("tags") != None:
+                    tags = post.get("tags")
+                    if type(tags) == str:
+                        tags = [tags] # standardize to a list
 
-            u = post.get("url")
-            if not u:
-                rp = mdfile.relative_to(p)
-                # use the title slug when possible
-                if t is not None and len(t) > 0:
-                    slug = slugify(t)
-                    rp = rp.with_name(slug) # repl
-                rp = str(rp)
-                rp = "/" + rp.replace("\\", "/")
-                if rp.endswith(".md"):
-                    rp = rp.replace(".md", "/")
-                else:
-                    rp = rp + "/"
-                u = rp
-            writer.update_document(title=t, content=post_text,
-                path=str(mdfile), tags=",".join(tags), date=d, url=u)
+                u = post.get("url")
+                if not u:
+                    rp = mdfile.relative_to(p)
+                    # use the title slug when possible
+                    if t is not None and len(t) > 0:
+                        slug = slugify(t)
+                        rp = rp.with_name(slug) # repl
+                    rp = str(rp)
+                    rp = "/" + rp.replace("\\", "/")
+                    if rp.endswith(".md"):
+                        rp = rp.replace(".md", "/")
+                    else:
+                        rp = rp + "/"
+                    u = rp
+                writer.update_document(title=t, content=post_text,
+                    path=str(mdfile), tags=",".join(tags), date=d, url=u)
+        except:
+            print("Failed to index " + str(mdfile))
 
     writer.commit()
 
