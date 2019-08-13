@@ -73,6 +73,8 @@ disqusShortname = "roytangweblog"
     twitter = "roytang" # Your Twitter profile ID
     instagram = "roytang0400"
     reddit = "hungryroy"
+    mastodon = "roytang@mastodon.technology"
+    mastodon_url = "https://mastodon.technology/@roytang"
 
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page
