@@ -44,14 +44,3 @@ Takeaways: Blogging is great, even if you're already using social media. Try it 
  [3]: https://www.instagram.com/roytang0400
  [4]: http://tumblr.roytang.net/
  [5]: https://www.linkedin.com/in/roytang/
-
-## Comments
-
-### Comment by [Ryan Biddulph](http://www.bloggingfromparadise.com/) on 2017-06-06 21:32:42 +0000
-Hi Roy,
-
-Good points all around. I see my blog as MY blog. Own your domain and hosting and it is less rented real estate, unlike the squatting we do on social. 
-
-I found this post via a Google alert for blogging. Well done 🙂
-
-Ryan

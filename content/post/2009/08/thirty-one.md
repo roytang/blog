@@ -38,10 +38,3 @@ For many people, this ordinary life may be enough, and that's great for them. Th
 Again, I was never one for being so easily satisfied.
 
 Thirty-one years now. Days flying by at an unforgiving pace. How will I find myself spending the next thirty-one?
-
-## Comments
-
-### Comment by [Ryan Tani](http://ryantani.com/) on 2009-08-10 19:58:27 +0000
-Inspiring. I'm in a similar emo mode right now as my 27th birthday approaches. I, too, am nowhere near reaching my dreams, but I guess that's as it should be. We all forget that where we are now used to be a dream; we just make up new ones all the time. 
-
-Anyway belated happy birthday! I'm sure you will be insanely successful one day, as people who have the initials RT always do 😉

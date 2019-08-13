@@ -25,8 +25,3 @@ I've been drafting on MTGO again lately, and I wonder why they can't have that s
 I just want to play. Is that too much to ask?
 
 _Roy will hopefully have something for the coming Standard PTQ season. Finally, a format I can play!_
-
-## Comments
-
-### Comment by Jaime on 2009-03-21 23:13:10 +0000
-While admittedly, I've never been a good player per se, I have to agree with this post 100%. I really preferred the online magic tools that allowed you to play and make your own deck. But they've never really been able to catch up to the most recent cards, and they never have a following as good as MTG played IRL.

@@ -51,14 +51,3 @@ Equal Rites
 _ 
   
 by Terry Pratchett -- I think this is the third Discworld book, but it's only the first one I finished. I'm not sure, it seems like the Discworld books make relatively quick and painless reading. It's light fantasy of course, much the same way that Douglas Adams is light sci-fi; not the sort of thing you should seriously form a whole range of theories about, but fascinating nonetheless. I believe I will try to read more of these books.
-
-## Comments
-
-### Comment by [Clair](http://clair.pinoyweb.net) on 2006-03-14 09:34:59 +0000
-I love Stainless Longganisa! I got inspired to write about my dream to get
-  
-published. Hahaha. <a href="http://clair.pinoyweb.net/?p=551" rel="nofollow">http://clair.pinoyweb.net/?p=551</a>
-
-I still have to return Switch's The Fifth Elephant (T Pratchett). It's good!
-  
-😀

@@ -28,8 +28,3 @@ url: /2005/06/the-sort-of-conversations-i-have-at-work/
 [18:13]<Roy> iwasan mo na lang na sabayan sya sa hallway
 
 [18:13]<Roy> delikado
-
-## Comments
-
-### Comment by jovelyn on 2008-03-16 15:54:44 +0000
-dilikado tlga

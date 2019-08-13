@@ -27,8 +27,3 @@ Disclaimer: Okay, I've overreacting, consoles don't _really_ suck, but I [really
 
  [1]: http://www.gearlive.com/index.php/news/article/feature_why_sonys_psp_will_suck_02070458/
  [2]: http://roytang.net/blog/2005/02/some-thoughts-on-piracy/
-
-## Comments
-
-### Comment by [erick](http://ask) on 2006-11-25 14:43:27 +0000
-my psp is the best the DS sucks ass

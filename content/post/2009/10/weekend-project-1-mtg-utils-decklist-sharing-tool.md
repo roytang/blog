@@ -24,8 +24,3 @@ Some notes:
 
  [1]: http://appengine.google.com/
  [2]: http://mtg-utils.appspot.com/deck/
-
-## Comments
-
-### Comment by Some anonymous person on 2009-10-04 11:26:11 +0000
-"Posted by by roytang on Sat 03 Oct 2009 as a deck for Standard"

@@ -13,8 +13,3 @@ Edit: After a WordPress upgrade, this post was messing up the layout. Changed to
 [Trailer is here][1]
 
  [1]: http://www.youtube.com/v/ZSA9UcjJnjo
-
-## Comments
-
-### Comment by [Huda Swithun](http://qvhl.net) on 2007-10-22 04:40:44 +0000
-you had me suicidal, suicida. Huda Swithun.

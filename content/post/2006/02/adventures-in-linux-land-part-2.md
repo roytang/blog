@@ -24,16 +24,3 @@ _
 _
 
  [1]: http://roytang.net/blog/2006/01/adventures-in-linux-land-part-1/
-
-## Comments
-
-### Comment by [Wwe Lita](http://www.wwe-lita.net) on 2006-09-08 10:09:58 +0000
-\*\*wwe divas... \*\*
-
-Hey ! Thanx for the nice post.. Have you heard of the WWE Divas ? We know al
-  
-they are the hottest and sexiest women alive ! But as the biggest fan on earth
-  
-for wwe diva lita, i have to say that wwe's lita is the sexiest of all the wwe
-  
-divas ! Please s...

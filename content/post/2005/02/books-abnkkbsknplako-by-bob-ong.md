@@ -17,23 +17,3 @@ The earlier parts of the book are mostly funny and/or amusing, detailing those s
 The book is hard to classify; it's not exactly comedy, it's not exactly serious. It's more like the author kept a running blog since he was in grade school and published it all. Also, there doesn't seem to be much information [about the author ][1]himself; apparently "Bob Ong" is a pseudonym of some sort. A very satisfying read all in all, I know this because I felt compelled to buy his next two books because of it. His books are cheaper than the usual book prices anyway =)
 
  [1]: http://www.visprint.net/publications/bob/faq.htm
-
-## Comments
-
-### Comment by aira ong on 2008-02-01 22:05:55 +0000
-wow grabe !! I cannot believe that someone really published it. Sikat na pala
-  
-ako!!! Please patawarin ako ng mga taong natamaan ng bato.
-
-### Comment by aira &quot;BOB&quot; ong on 2008-02-01 22:07:20 +0000
-THaNK you sa lahat ng tumangkilik nito kahit na merong mga nagagalit. And I am
-  
-really feel sorry for them... .
-
-### Comment by aira &quot;BOB&quot; ong on 2008-02-01 22:08:55 +0000
-And anyway, I am not a teacher yet!!! I'm 16 going to be 17 next
-  
-month(2-19-08)
-
-### Comment by Shane on 2008-05-02 11:45:31 +0000
-soorry!!!!!!!!!ndi ako nani2wala sau!!!NYEK!!

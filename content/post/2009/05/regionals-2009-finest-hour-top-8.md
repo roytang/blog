@@ -206,28 +206,3 @@ Next week: Limited again!
  [24]: http://magiccards.info/autocard.php?card=Oversoul of Dusk
  [25]: http://magiccards.info/autocard.php?card=Blightning
  [26]: http://magiccards.info/autocard.php?card=Path to Exile
-
-## Comments
-
-### Comment by Alex on 2009-05-19 02:17:39 +0000
-Roy, your opening seven only mentioned 6 cards. What's the last card?
-
-But still, it was a gamble. Unfortunately, your opponent had a spot removal.
-
-Any summary of the first game of the Top8 match?
-
-### Comment by roy on 2009-05-19 06:32:50 +0000
-Edited.
-
-### Comment by Jagard on 2009-06-08 11:20:44 +0000
-He rules that I'm correct that I'm getting <b>2 extra combat steps</b>, and my opponent scoops. I later found out that while the ruling was correct, there was some missing information. Reading the card carefully, you'd see that while I would get 2 additional combat steps, I would only get to untap the Rhox War Monk during the first combat step!
-
-&#8212;- I play Finest Hour too. However, I'm unsure about the judge's ruling about this. The same situation happened to me last Friday. However, the judge ruled that we only get 1 extra combat step considering that "it's the first combat phase of the turn" as stated on the card. Oh well, off to the forums and FAQ's for me... 
-
-### Comment by roy on 2009-06-08 23:59:15 +0000
-It's correct, the 2 Finest Hours will both trigger in the first combat phase of the turn, when they resolve it will still be the first combat step, and they'll each give you one extra combat step. 
-
-The only caveat is that you only get to untap a creature at the time the triggers resolve, which is during the first combat step.
-
-### Comment by Jagard on 2009-06-09 04:15:53 +0000
-Oh okay, I'll ask just to make sure. I was resigned to the fact that I only get one. Even the FAQ supports this. But you have a point. There's a period after the untap clause, meaning the extra combat step resolves independently of the "if" condition.

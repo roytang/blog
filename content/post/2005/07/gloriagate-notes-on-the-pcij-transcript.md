@@ -88,10 +88,3 @@ Some other notes on the tape:
 That's all on this matter for now. I will raise more of my own opinions in a later post.
 
  [1]: http://www.pcij.org/blog/wp-docs/complete-transcript.pdf
-
-## Comments
-
-### Comment by [btflpenguin](http://www.blogger.com/profile/2001080) on 2005-07-11 21:06:00 +0000
-thanks for the summary, now i don't have to read the whole thing (you're right
-  
-it is boring).

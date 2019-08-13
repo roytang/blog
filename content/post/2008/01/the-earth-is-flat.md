@@ -22,23 +22,3 @@ _
 (I was thinking of making a mock-up drawing of the above hypothesis and claiming that I drew it when I was four. But Ubuntu doesn't seem to have any simple "Paint" application installed... )
   
 _
-
-## Comments
-
-### Comment by [mikong](http://devblog.michaelgalero.com/) on 2008-01-27 14:27:11 +0000
-Ubuntu doesn't have a simple Paint app installed but you might want to check
-  
-out Gimp. It's a mere 16+MB download. But you don't have to draw it coz I also
-  
-imagined it the same way when I was a kid so I'm thinking that's how a lot of
-  
-kids might imagine it before it's explained in school. Though I thought the
-  
-lower half of the sphere is the ocean where the earth floats (that's why it
-  
-ends up in the middle or the plane near the equator as you describe it).
-
-🙂
-
-### Comment by [Roy](http://roytang.net/blog) on 2008-01-27 14:57:16 +0000
-I already use Gimp. But sometimes you just want a simple drawing program. 😀

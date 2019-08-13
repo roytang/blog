@@ -264,16 +264,3 @@ _
 Indiana Jones and Kingdom of the Crystal Skull!
   
 _
-
-## Comments
-
-### Comment by Kam on 2008-06-04 12:56:08 +0000
-Lazy.
-
-### Comment by Switch on 2008-06-04 21:26:18 +0000
-Added: One of the Mayans was Ernie Reyes, Jr.
-
-### Comment by [Roy](http://roytang.net/blog) on 2008-06-05 13:39:26 +0000
-Wow, you're right. He gets such lame roles now. To think he used to be a ninja
-  
-turtle.

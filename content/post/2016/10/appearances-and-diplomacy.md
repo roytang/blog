@@ -27,10 +27,3 @@ And supporters will say at least he's honest and direct and real. I'm pretty sur
 &nbsp;
 
  [1]: http://roytang.net/2016/09/lying-and-salesmanship/
-
-## Comments
-
-### Comment by Karina on 2016-10-04 14:02:39 +0000
-"There’s no reason to antagonize people just because they agree with you. "
-
-I think you meant *don't agree with you. Hehe. Tsaka marami kang sentences na walang period. Lel.

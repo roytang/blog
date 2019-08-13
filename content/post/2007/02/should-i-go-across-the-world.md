@@ -22,24 +22,3 @@ _
 Abangan.
   
 _
-
-## Comments
-
-### Comment by peng on 2007-02-08 06:17:05 +0000
-wow! good luck making a decision.
-
-enlarging your comfort zone is always a good thing 🙂
-
-### Comment by [Roy](http://roytang.net/blog) on 2007-02-11 12:20:49 +0000
-Thanks Peng. I've already told them I'm willing to go, but asked for assurance
-  
-that I would have internet at home when I'm there. 😀 Don't know if it will
-  
-push through... 
-
-### Comment by [Melanie](http://creditreview.livejournal.com/) on 2007-12-06 15:21:34 +0000
-I believe it's quite difficult and, of course, fearful but all these
-  
-difficulties and fears will vanish because going accross the world is very
-  
-interesting.

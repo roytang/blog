@@ -20,11 +20,3 @@ About this new website design/whatever. I am glad that you know have 2-factor au
 3. Something is wrong with your message composer, error handling and session management. I actually attempted to send this message through your in-app messaging three times before giving up. I keep getting an error about an "invalid character" in the message (kind of ridiculous if your messaging app does not support slahes or parentheses or whatever, there's not even any indication which character has failed), and after the error page there's no way to go back to my message to edit it AND apparently I have to login again. What's up with that?
 
 Thanks!
-
-## Comments
-
-### Comment by Another Citi customer on 2013-02-23 16:57:04 +0000
-It seems that they don't want you to use apostrophes and double quotes. I tried sending them messages too and I experienced the same frustrating error message which would require you to login and enter OTP twice. I guess this may be related to <a href="http://en.wikipedia.org/wiki/SQL_injection" rel="nofollow">http://en.wikipedia.org/wiki/SQL_injection</a>. The developers may have opted to disallow customers from using those characters, but yes, that is lame and there are other solutions to this.
-
-### Comment by Pete on 2015-08-26 19:56:19 +0000
-Amazingly five years on -- same problem! I've spent ages trying to reply to finally discover you can't use brackets (as in brackets). This is ridiculous and as you say no clue as to what needs removed.

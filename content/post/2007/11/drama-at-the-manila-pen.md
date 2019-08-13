@@ -20,12 +20,3 @@ A Manila Penn guard interviewed on TV today summed it all up: "Naapektuhan lang 
 Bonus:
 
 There was a media segment during the live coverage where a reporter was describing the actions of the soldiers as they prepared to invade the hotel. He was telling everyone on live TV how the soldiers were hiding near the entrance of the hotel. Way to blow the operation details. What, are they thinking no one inside the hotel can watch television?
-
-## Comments
-
-### Comment by jACK on 2007-12-01 09:20:18 +0000
-Basta putanginang trillanes iyan! si robert reyes sana ituloy tuloy niya ang
-  
-hunger strike niya.
-
-mga hayup na yan! na curfew pa ako!

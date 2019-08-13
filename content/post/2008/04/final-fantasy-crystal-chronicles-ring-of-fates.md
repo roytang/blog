@@ -39,13 +39,3 @@ The second gripe is a bit related: there are some platforms that require a parti
 These problems are mostly confined to the last dungeon of the game though, most of the time I just breezed through. The story mode will take about ten hours to complete, assuming decent platforming skills. THis may seem a bit short to the average RPG player who grew up with Final Fantasy VII, but it's actually a nice bite-sized helping for guys like me who don't have much time to dedicate to gaming and want to get on to the next game as soon as possible.
 
 I give FFCC:RoF 3.5 out of 5 stars, decent enough. What? I don't give ratings here? Right.
-
-## Comments
-
-### Comment by switch on 2008-04-28 16:30:26 +0000
-From what I'd seen, I'd say it may also be a spiritual successor to Brave
-  
-Fencer Musashi on the PS. Now that game needs a sequel.
-
-### Comment by [Roy](http://roytang.net/blog) on 2008-04-28 21:05:18 +0000
-Actually, it did have a sequel. There was a Musashi game on the PS2.

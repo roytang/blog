@@ -15,13 +15,3 @@ Details and download are at [http://www.roytang.net/wiki/index.php/MTG\_Autocard
 
  [1]: http://roytang.net/magic/
  [2]: http://www.roytang.net/wiki/index.php/MTG_Autocard_WP
-
-## Comments
-
-### Comment by Mario B on 2011-07-05 16:23:34 +0000
-Hey there im trying to find this exact plugin to use in my wordpress blog and ur link seems to be dead, do u still have this for download?
-
-### Comment by [roy](http://roytang.net) on 2011-07-06 05:01:16 +0000
-Hi, I'm no longer maintaining this plugin and am now using the WordPress MTG Helper plugin, you can find it here: <a href="http://www.distractedbysquirrels.com/work/#work1178" rel="nofollow">http://www.distractedbysquirrels.com/work/#work1178</a>
-
-Cheers 😀

@@ -44,11 +44,3 @@ Shared bookmarks for [del.icio.us ][1]user [roytang ][2]on 2006-02-15
  [5]: http://www.mydeskcity.com/1600BZ61.htm "http://www.mydeskcity.com/1600BZ61.htm"
  [6]: http://www.ttcsweb.org/osswin-cd/#download "http://www.ttcsweb.org/osswin-cd/#download"
  [7]: http://www.youtube.com/w/Real-Transformer?v=dut6jxCiakg "http://www.youtube.com/w/Real-Transformer?v=dut6jxCiakg"
-
-## Comments
-
-### Comment by [jgalucio](http://myfinanceinfo.com/) on 2008-11-15 22:45:17 +0000
-Thanks for your interesting article
-
-### Comment by [rubenriojas](http://www.businesic.com) on 2008-12-11 02:43:39 +0000
-Hmm. Good.

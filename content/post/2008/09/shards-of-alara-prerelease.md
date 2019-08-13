@@ -572,27 +572,3 @@ Slops to the venue at Eastwood. The playing area was in the open, it was humid a
 Anyway, Alara seems pretty good, especially in limited. The multicolor theme is always fun, and there's surprisingly a lot of color-fixing available for four or five color decks. However, we probably won't play at the release party, seeing as how we played the prerelease TWICE.
 
  [1]: http://magiccards.info/autocard.php?card=Angelic Benediction
-
-## Comments
-
-### Comment by [Benj](http://benjmtg.blogspot.com/) on 2008-10-09 03:14:29 +0000
-Nice blog you got here. Sana dumami pa ang mga pinoy MTG bloggers. 🙂
-
-Question: How do you make the decklists look like the way they do in yellow
-  
-boxes? Even the cardnames have links. Do you do that manually? I'm really
-  
-interested in having the same thing for my own blog. 😉
-
-Thanks in advance, and keep up the good work!
-
-### Comment by [Roy](http://) on 2008-10-09 05:12:23 +0000
-Hi Benj. I actually read your blog also, sana nga dumami tayo hehe.
-
-About the decklists and cardnames, I do programming so I wrote a plugin for
-  
-Wordpress that automatically formats the decklists for me. Unfortunately since
-  
-you're using Blogger, it's more difficult since Blogger doesn't support
-  
-plugins. It might be possible using JavaScript... I'll think about it hehe

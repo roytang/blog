@@ -27,11 +27,3 @@ I find it all fascinating and amazing. And even more than that, within my lifeti
  [2]: http://twitter.com/actuallynph
  [3]: http://twitter.com/neilhimself
  [4]: http://twitter.com/kuyakim_atienza
-
-## Comments
-
-### Comment by Kerwin on 2010-11-23 23:49:52 +0000
-i'm telling you, the time will come when no one will be going out of their houses at all, they'll all be interacting online.
-
-### Comment by [roy](http://roytang.net) on 2010-11-24 03:27:54 +0000
-@Kerwin: Actually with the trends in mobile internet usage, it's more likely that the opposite will be true -- the online world will be leaving people's houses and interacting with us in the outside world!

@@ -109,20 +109,3 @@ That's my iPad experience as of now. I actually also started a [thread on Reddit
 If anyone has any tips or suggestions to help me enjoy the new toy, feel free to comment 😀
 
  [1]: http://www.reddit.com/r/ipad/comments/duddt/im_getting_an_ipad_tomorrow_what_do_i_need_to/
-
-## Comments
-
-### Comment by dave on 2010-10-24 14:22:23 +0000
-Ei, btw d00d, you left the screen protector cloth thing here. I'm leaving with Liza on Wednesday, will be back Nov. 9
-
-If you want to drop by tomorrow to get it, no prob.
-
-### Comment by bryan on 2010-10-24 15:35:50 +0000
-hey roy! im glad i have you to thank for an unbiased review. was quite excited about getting one, but was still hesitant. well you cleared all that. and now that the "committee" has approved that i deserve one for xmas, i think ill just go for the 32 gb wifi variety. regards.
-
-### Comment by Pinoy Hatdog on 2010-11-01 02:31:07 +0000
-Aba aba sir roy, bumili ka na din! Haha. Personally, gusto ko hintayin ang version na may facetime (sans any external hardware).
-
-Regarding the slow (and misleading) USB charging, I think that happens when you try to charge with a mobile device (e.g. a laptop). By standard, USB connectors on desktops provide a more "stable" power output as compared to mobile devices due to their (more often) lack of a "fixed" power source.
-
-HTH 🙂

@@ -37,15 +37,3 @@ On a side note, the first character that I ever noticed had this problem was Bab
 Anyway maybe that's enough rambling for now. Looking forward to Captain America, Transformers 3, etc, etc. Despite my not being 100% satisfied with the current wave of superhero movies, it's still a good time to be a comic book fan. 😀
 
 &nbsp;
-
-## Comments
-
-### Comment by Ritchie on 2011-06-24 15:22:15 +0000
-The only problem I have with X-Men First Class is that SOME IDIOT thought Magneto looked good in yellow.
-
-When I watch comic movies, the first thing I tell myself is that it's a different universe, meaning events that happen won't necessarily mirror the comic origins. All I really care about is that the characters remain true to their core essence (for example, Magneto NOT looking good in yellow). On the topic of GL, that's precisely my issue with it. Hal's essence isn't that of a light-hearted joker. Every time I looked at a trailer, I was seeing Kyle Rayner PRETENDING to be Hal Jordan. I know Reynolds is a popular actor, but he was a TERRIBLE choice for Hal. For a reverse analogy, it's like they hired Michael Rosenbaum to play Spider-Man.
-
-Thor, on the other hand, hit all the right notes for me because the characters were being true to the behavior people expected of them (though I'll admit it wouldn't have hurt if Jane Foster was more independent and forceful instead of being so awed at Thor), and the casting was solid.
-
-### Comment by [roy](http://roytang.net) on 2011-06-25 15:58:28 +0000
-I don't actually mind Magneto in the yellow and blue. I guess in my head he wasn't really that guy yet. I agree that the wisecracking Hal Jordan wasn't particularly keeping true to the character, but at least they kept it to a minimum and most of the jokes are left in Hal's apartment. I agree that Reynolds is a terrible choice though, as it's hard to take him seriously :p

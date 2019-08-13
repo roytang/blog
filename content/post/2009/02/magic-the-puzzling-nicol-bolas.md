@@ -27,15 +27,3 @@ Answers next week!
  [3]: http://magiccards.info/autocard.php?card=Tezzeret the Seeker
  [4]: http://magiccards.info/autocard.php?card=Elspeth, Knight-Errant
  [5]: http://magiccards.info/autocard.php?card=Sarkhan Vol
-
-## Comments
-
-### Comment by switch on 2009-02-09 04:35:19 +0000
-Whichever player goes first eventually kills all the planeswalkers on the other side:
-
-Player B goes first: Elspeth makes 1/1, Sarkhan gives +1/+1 and haste, goon deals Bolas 2 damage, Ajani finishes him off with Lightning Helix. Tezzeret twiddles his thumbs.
-
-Player A goes first: with no library considerations, Bolas kills Elspeth. Sarkhan gains loyalty, Ajani Lightning Helixes him, and Tezzeret does nothing important (can he gain loyalty?). Bolas picks off Sarkhan, the two remaining wait to die. With artifact creatures in library, Bolas kills Tezzeret, Player B retaliates as above, Bolas kills Elspeth, Sarkhan pumps critter, Ajani twiddles thumbs, Bolas kills Sarkhan, then Ajani.
-
-### Comment by roy on 2009-02-10 07:38:58 +0000
-Bah, I guess it was too easy. :p

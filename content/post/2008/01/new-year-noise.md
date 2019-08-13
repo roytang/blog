@@ -24,21 +24,3 @@ The following are some superstitions we observe as the New Year chimes in:
 Hm, not as many as I thought. 😀
 
 Happy New Year!
-
-## Comments
-
-### Comment by peng on 2008-01-05 07:32:01 +0000
-i have to give kudos to the noise recording. our family has often used pots
-  
-and pans to contribute in lieu of firecrackers.
-
-hmmm i've never seen you in polka dots.
-
-### Comment by [Roy](http://roytang.net/blog) on 2008-01-08 22:38:52 +0000
-I'm a guy; I've never worn polka dots.
-
-Sadly, that recording was no longer around during the last New Year's Eve. My
-  
-dad said that the cassette player was no longer working and he wasn't sure
-  
-where the recording was...

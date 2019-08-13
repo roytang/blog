@@ -38,12 +38,3 @@ I wish more bands had contributed to the effort though, as the &#8216;heads prob
 All in all, awesome album. If you have listened to the Eraserheads music at one time or another, go find a way to get it.
 
  [1]: http://en.wikipedia.org/wiki/Eraserheads
-
-## Comments
-
-### Comment by jacky on 2006-07-20 09:55:13 +0000
-goodwork guys and thank you for having Cueshe in
-
-ULTRAELECTROMAGNETIC album i realy realy appreciate that
-
-im Jacky proud to be Cueshean (";)

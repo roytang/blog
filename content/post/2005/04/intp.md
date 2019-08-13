@@ -28,23 +28,3 @@ Got this from [Peng's blog][1]. It's a simplified version of the Myers-Brigg pe
 Well not really, my results sometimes vary from INTP to INFP. Each letter in the result stands for one aspect of your personality. In this case, Introverted iNtuitive Thinking/Feeling Perceiving. I'm pretty sure I'm somewhere dead even on the thinking/feeling scale. I often confuse myself, so I'm pretty sure the test would be confused as well.
 
  [1]: http://beautiful-rookery.blogspot.com
-
-## Comments
-
-### Comment by [Clair](http://clair.free.net.ph) on 2005-05-02 16:31:00 +0000
-My results are here:
-
-<a href="http://www.livejournal.com/users/eclair/96688.html" rel="nofollow">http://www.livejournal.com/users/eclair/96688.html</a>
-
-Didn't post it on my main blog. Mapupuno na naman ng meme yung pag nagkataon!
-
-### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-05-02 16:58:00 +0000
-Actually, I dislike memes. I seldom pay them notice. I like this one because I
-  
-like the Myers-Brigg test, which has a solid, well-known foundation in
-  
-psychology.
-
-I think this is typical of an INTP
-
-:p

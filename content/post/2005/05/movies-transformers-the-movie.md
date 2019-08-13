@@ -38,18 +38,3 @@ Strangely enough, when the Autobots crash through Unicron's eye, we don't see an
 The rest of the movie went pretty much as I remembered it. With a lot of forgettable 80s-style music running in the background. Amazingly, at the end, Rodimus Prime declares an end to the Cybertronian wars, and a new era of peace. I don't recall any peace being negotiated with the Decepticons, who looked like they outnumbered the Autobots fifteen-million to one during Unicron's attack.
 
 I'm quite relieved, as watching the movie failed to change my nostalgic childhood memories of the Transformers, although I still vastly prefer the comic book series. Not at all bad for a series made to sell toys.
-
-## Comments
-
-### Comment by [btflpenguin](http://www.blogger.com/profile/2001080) on 2005-05-29 19:45:00 +0000
-i loved the transformers! my brother had optimus prime and we used it as my
-  
-barbie's mode of transport. pero i stopped watching the cartoons when it got
-  
-so complicated and there were lots of groups within the autobots and
-  
-decepticons. nalipat kami sa voltron and voltes v.
-
-\*sings\* the transformers.. more than meets the eye.. autobot (something
-  
-something to) fight the evil forces of the decepticons...

@@ -15,36 +15,4 @@ I'm especially wary now about committing stuff to optical media; going through a
 
 So, am I too much of a packrat? I dunno, like I said I know people who have loads more stuff on CDs/DVDs than I do, and they've never watched them all. At least I've managed to consume at least 90% of the stuff I archive. I guess it's a geek thing, to want to have access to "historical data" and stuff. Organizing all of it is probably a geek thing too. Heck, I'm trying to think of a way to have everything be searchable.
 
-I'm considering buying something like a 250 GB external and just using that as a backup. Eventually it would run out, but by then something like 1 TB drives might be common enough. Tempting... 
-
-## Comments
-
-### Comment by [mikong](http://devblog.michaelgalero.com/) on 2007-12-28 23:01:23 +0000
-You're probably too much of a packrat. And you don't need to compare yourself
-  
-to people you know. What's important is if you need those videos, and from
-  
-what you said I'm guessing you don't. Don't backup those videos unless they're
-  
-very rare or your favorite of all time.
-
-There are a couple people I know who back everything up, and sometimes I
-  
-borrow from them. A lot of other people borrow from them too. I think we only
-  
-need a few them. If you're not the go-to-guy for these things, don't backup.
-
-You might even find it refreshing if you throw all those CD's away. Sometimes
-  
-it's good not to have these attachments.
-
-### Comment by [Roy](http://roytang.net/blog) on 2007-12-30 00:43:42 +0000
-... or maybe you're just not geeky enough. :p
-
-Or maybe it's a boy scout thing. You always need to be prepared to whip out
-  
-half a season of Heroes on demand.
-
-I probably will dispose of most of them. I'm keeping the Simpsons ones though.
-
-"Spider-pig, Spider-pig, does whatever a spider-pig can... "
+I'm considering buying something like a 250 GB external and just using that as a backup. Eventually it would run out, but by then something like 1 TB drives might be common enough. Tempting...

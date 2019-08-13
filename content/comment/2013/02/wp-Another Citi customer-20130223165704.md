@@ -1,0 +1,12 @@
+---
+author:
+  name: Another Citi customer
+  url: ''
+date: 2013-02-23 16:57:04+00:00
+parent_page:
+  title: Dear Citibank, About Your New Website
+  urlpath: /2011/07/dear-citibank-about-your-new-website/
+source: wordpress
+---
+
+It seems that they don't want you to use apostrophes and double quotes. I tried sending them messages too and I experienced the same frustrating error message which would require you to login and enter OTP twice. I guess this may be related to <a href="http://en.wikipedia.org/wiki/SQL_injection" rel="nofollow">http://en.wikipedia.org/wiki/SQL_injection</a>. The developers may have opted to disallow customers from using those characters, but yes, that is lame and there are other solutions to this.

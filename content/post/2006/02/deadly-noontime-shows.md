@@ -24,37 +24,3 @@ I remember during the days of the "Pera o Bayong" contest that there would be li
 While I say a prayer for those whose lives were lost, I'm glad I have the luxury of thinking that crowding in with thirty thousand people for a chance to win some cash is just too much hassle.
 
  [1]: http://news.inq7.net/nation/index.php?index=1&story_id=65164
-
-## Comments
-
-### Comment by dave on 2006-02-06 03:57:53 +0000
-Ei Roy,
-
-This actually made me think of one of those Discovery programs I saw a while
-  
-back, about how the Battle Of Agincourt during the Hundred Years war may
-  
-actually have been the French being defeated by themselves and the terrain
-  
-rather than any special prowess of the English (although it probably helped to
-  
-have arrows raining down on them, even if the arrows couldn't penetrate their
-  
-armor).
-
-<a href="http://www.crowddynamics.com/Battlefield%20Detectives/Agincourt.htm" rel="nofollow">http://www.crowddynamics.com/Battlefield%20Detectives/Agincourt.htm</a>
-
-Once a crowd gets to a certain size, nothing is as dangerous as their
-  
-interaction with barriers around them. Once people start crowding in front and
-  
-the ones in the back don't realize the ones in front are impeded, the pushing
-  
-of the ones in the back easily propagates and gets amplified by layers of
-  
-other people pushing until the front ranks are crushed.
-
-### Comment by [Roy](http://roytang.net/blog) on 2006-02-06 15:18:42 +0000
-I skimmed over the link, and my first thought was: those guys need more micro!
-
-I think the same applies to the Wowowee people.

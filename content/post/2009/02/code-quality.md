@@ -32,22 +32,3 @@ Back to the code review I was doing: I eventually shipped it back with a few min
  [2]: http://www.codinghorror.com/blog/archives/000150.html "gold-plating blog post on codinghorror"
  [3]: http://www.fastcompany.com/magazine/06/writestuff.html?page=0%2C0 "The Write the Right Stuff"
  [4]: http://c2.com/xp/YouArentGonnaNeedIt.html "WikiWikiWeb entry for You Aren't Gonna Need It"
-
-## Comments
-
-### Comment by Aleks on 2009-02-04 00:25:24 +0000
-Refactoring is an investment. You should be able to justify the effort to refactor the code on its long-term benefits. 
-
-As for code reviews, I now think that its effectivity is largely dependent on when it's conducted. It's less effective when the developer is already done with the whole module/functionality and the QA team is about to do their thing. I think it's better to conduct the reviews when the developer has done a little coding and his design has been laid out.
-
-### Comment by Aleks on 2009-02-04 00:44:54 +0000
-That's supposed to be:
-  
-You \*will\* be able to justify the effort to refactor the code on its long-term benefits.
-
-### Comment by roy on 2009-02-08 12:42:50 +0000
-I know full well about the benefits of refactoring and code reviews. What I'm saying is, there are other factors to consider. 
-
-As developers who take pride in our work surely you should want to refactor and have someone looking at your code almost all the time. But like all things, software is largely a product of compromise. 
-
-Sure, it works out well in the long run. But sometimes you just want to make it through the short run, you have to realize that cutting back on these code quality measures and accepting the technical debt is a viable business option.

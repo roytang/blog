@@ -75,8 +75,3 @@ Edit: The original recommendations list missed out Grace Poe. Also added a short
  [2]: http://www.rappler.com/nation/politics/elections-2013/data/candidates/senator?limitstart=0
  [3]: https://docs.google.com/document/d/1Nlyo6P6MoOvdrrBCj533U-CZ3rzQWNaHtweq8_EyASU/edit
  [4]: https://twitter.com/roytang
-
-## Comments
-
-### Comment by edebelenmd on 2013-05-11 21:37:39 +0000
-Thanks for the summary, Roy. This makes things a lot easier. So, when are you running for public office? #SRJTfor2016

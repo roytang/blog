@@ -43,10 +43,3 @@ These practices won't prevent your application from being hacked. In truth, prob
  [1]: http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage/6415#6415
  [2]: https://en.wikipedia.org/wiki/Dictionary_attack
  [3]: https://en.wikipedia.org/wiki/Rainbow_table
-
-## Comments
-
-### Comment by joaquin on 2016-06-16 09:49:28 +0000
-Some applications hash the passwords multiple times along with a unique salt to make brute-force attacks much harder. However this still won't prevent it, especially since computing power seems to always be on the bad guys' side.
-
-Another technique would be to store the salts and/or the number of hash iterations outside the DB where the passwords are stored. This way, even if the DB is compromised, hackers will still be lacking vital info to crack the passwords.

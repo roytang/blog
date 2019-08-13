@@ -38,17 +38,3 @@ Alvin: Ahead by a bit under two minutes. Told ya!
 Roy: Okay, you were right, it was open. But I don't see what this little experiment proves, after all, if we were in the same situation again later, this experiment doesn't help us make a decision.
 
 Alvin: Basta. I was right.
-
-## Comments
-
-### Comment by [btflpenguin](http://www.blogger.com/profile/2001080) on 2005-03-24 09:18:00 +0000
-awww. this entry screams geek. and it runs in the family pa 🙂
-
-(geek is meant as a compliment, sometimes geek means cool)
-
-### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-03-25 12:55:00 +0000
-You should hear the conversations we have at home -- we often have discussions
-  
-on economics theory, especially since Vlad was Alvin's econ teacher this year.
-  
-😀

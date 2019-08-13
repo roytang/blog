@@ -36,33 +36,3 @@ Me (making hand-to-mouth signs): Hungry! Give me some food!
 &#8212;
 
 Luckily, I never do any of these.
-
-## Comments
-
-### Comment by noems on 2008-04-04 15:46:23 +0000
-may i ask why do you always go to hongkong? Transformers!!
-
-### Comment by [Roy](http://roytang.net/blog) on 2008-04-04 21:13:03 +0000
-I'm sorry, I completely forgot na nagpabili ka ng Transformers. T_T Not that I
-  
-would have had time to buy you anything, since busy talaga.
-
-I usually go to Hong Kong for work, meeting up with clients, etc. The company
-  
-I work for is HK-based so a lot of the work comes from there.
-
-### Comment by [noems](http://trinity.wordpress.com) on 2008-04-06 19:59:22 +0000
-wow bigtime. edi bossing ka na pala if you're the one meeting with clients. di
-  
-nyo ba kailangan ng business analyst? =P
-
-### Comment by [Roy](http://roytang.net/blog) on 2008-04-07 08:10:55 +0000
-Although I go onsite, usually it's just for technical assistance stuff.
-  
-Although the last two times I went it was because I had to work directly with
-  
-a partner company.
-
-And we don't usually hire analysts directly, you need to work your way up from
-  
-being a programmer before you get any SA work. 😀

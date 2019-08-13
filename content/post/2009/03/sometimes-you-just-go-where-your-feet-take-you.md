@@ -48,13 +48,3 @@ The next day I would return to Manila, back to the grind of everyday life.
 _Author's note: I wish I did have something more interesting to write about, but it was really a short, uneventful two-night stay in Hong Kong. Still, I felt I needed to blog about it, so that I have a record that I was in HK at this time. For more small details on my trip, I've been posting on [twitter][1]._
 
  [1]: http://twitter.com/roytang
-
-## Comments
-
-### Comment by [noemi](http://trinity.wordpress.com/) on 2009-03-27 10:35:58 +0000
-i did something like that the one and only time i've been to HK. its different no? although it was my first time there, i wasnt scared of anything happening. well, mostly i did walk along busy streets. but it was rare that a street is empty. its teeming with night markets and shops and all.
-
-ginawa mo nang quiapo ang hk a.
-
-### Comment by roy on 2009-03-27 23:31:52 +0000
-I've actually did this the first time I was there before. This was the longest I've ever walked around the HK streets at night though.

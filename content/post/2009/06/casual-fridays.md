@@ -22,26 +22,3 @@ However, given that, why do we have dress-down days? Does it imply that during t
 Obviously, I would prefer to be allowed to wear whatever I want; wearing comfortable clothes is a lot more conducive to work for me than "looking professional". But again, I will stipulate that not everyone may think this way.
 
 What do you think, dear reader? Dress-down days: yay or nay?
-
-## Comments
-
-### Comment by [Cecil](http://ennui1981.multiply.com/) on 2009-06-23 21:31:02 +0000
-Yes to dress-down days. Comfort over "professional look", more specifically to those jobs without much client interaction, and with very unpredictable long hours. Just nothing too sloppy. 🙂
-
-### Comment by Rommel on 2009-06-23 23:40:14 +0000
-After a few years working with lots of different people, I don't believe in the look better / more professional, get better output. Comfy rules! But of course we gotta look good too, slob look not allowed.
-
-### Comment by Chry on 2009-06-25 00:47:00 +0000
-Yea for dress-how-you-want days. Some people like to dress up; some down. We should just let people decide how they want to come to work.
-
-It's been said that one feels smart if one dresses smart. This probably only works for not-so-intelligent people. 😛
-
-### Comment by [flash-player](http://www.therobinsonsmusic.net/flash/) on 2009-07-07 22:18:11 +0000
-Cool!
-
-### Comment by zhen on 2009-08-03 23:24:42 +0000
-why dress professionally -- to look professional since we do carry the company's name and image.
-
-why have dress down days -- because it's weekend and most likely, people may want to have after work activities that formal clothing will not be appropriate for, and having to carry a 2nd set of clothes is such hassle.
-
-why have dress down day when the elevators broke down -- hell no idea. =D

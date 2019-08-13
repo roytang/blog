@@ -34,25 +34,3 @@ Some comments on the Yahoo webapps.
 I'm sleepy. More later.
 
  [1]: http://groups.yahoo.com/group/roytang/
-
-## Comments
-
-### Comment by [eClair](http://www.blogger.com/profile/3338893) on 2005-06-17 14:55:00 +0000
-I have stopped using my Yahoo!mail account except for Yahoo!groups. I really
-  
-like Gmail better -- not just the amount of inbox space but also labels and
-  
-what not.
-
-Whoa! You really are playing around with Yahoo!
-
-### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-06-19 16:48:00 +0000
-I actually don't use my Yahoo mail account either. Only for stuff life account
-  
-registrations, and experiments like these.
-
-GMail is incredible of course. I don't even use Thunderbird anymore because of
-  
-it.
-
-I want more industrial-strength webapps to toy around with!

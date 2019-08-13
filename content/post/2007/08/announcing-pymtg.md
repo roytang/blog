@@ -29,16 +29,3 @@ Wish me luck 🙂
 Update: This project is on-hold, not surprisingly. It turns out I don't actually have time to learn a new language. :(
 
  [1]: http://www.roytang.net/wiki/index.php/PyMTG
-
-## Comments
-
-### Comment by [Hannes Foulds](http://hannesfoulds.blogspot.com/search/label/Magic%3A%20The%20Gathering) on 2007-08-24 15:21:57 +0000
-I am attempting something very similar -- writing a game engine for Magic: The
-  
-Gatering in .NET 2.0 with C#.
-
-My project has been dorment for a while do to a demanding project at work, but
-  
-I think an evendour like this is very worthwile.
-
-Don't give up on the project, and try and keep us updated of the progress 😉

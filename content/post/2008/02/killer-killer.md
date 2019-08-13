@@ -31,19 +31,3 @@ When playing with more people, the game can be balanced by adding more Killers a
 The game is best played with a group of people who know each other well and are comfortable staring into each other's eyes. It's a game of concentration, bluffing and deception that is probably close to impossible to accurately translate into a digital game.
 
 And because I just now noticed that WordPress now allows me to tag posts, I will tag this one with a term I coined just now: "meatspace-games"
-
-## Comments
-
-### Comment by [peng](http://btflpenguin.multiply.com) on 2008-02-15 07:17:40 +0000
-i LOVE killer-killer. i believe the doctor heals with a blink though.
-
-### Comment by [Roy](http://roytang.net/blog) on 2008-02-25 21:41:55 +0000
-I guess it depends on the particular set of rules that people know. I didn't
-  
-even remember how the game could handle 10 or more people until playing it
-  
-again.
-
-Besides, blinking can happen involuntarily. Healing cannot. And making the
-  
-doctor blink means the Policeman can make a mistake and catch the Doctor!

@@ -25,13 +25,3 @@ So now this site has SSL! Hooray!
  [3]: https://github.com/requests/requests-oauthlib/issues/287
  [4]: https://github.com/will-in-wi/letsencrypt-webfaction
  [5]: https://github.com/will-in-wi/letsencrypt-webfaction/issues/116#issuecomment-368930373
-
-## Comments
-
-### Comment by [MrValdez](http://mrvaldez.ph) on 2018-03-01 11:49:29 +0000
-Nice. I got SSL from Cloudflare.
-
-<a href="https://www.troyhunt.com/the-6-step-happy-path-to-https/" rel="nofollow">https://www.troyhunt.com/the-6-step-happy-path-to-https/</a>
-
-### Comment by [roy](http://roytang.net) on 2018-03-14 20:14:54 +0000
-Oh nice, I didnt know Cloudflare provided SSL

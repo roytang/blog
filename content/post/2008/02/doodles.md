@@ -12,12 +12,3 @@ I usually have a stack of random printouts on my office desk. I also usually tak
 I took photos of some of my doodles (yeah, no scanner): [Roy's Doodles][1]
 
  [1]: http://www.flickr.com/photos/zroytang/sets/72157603996824684/ "Roy's Doodles"
-
-## Comments
-
-### Comment by [Tago](http://tagofabic.multiply.com) on 2008-03-22 10:39:01 +0000
-Hahaha. 😀 I also have plenty of printouts (of fspecs, pspecs, etc) that have
-  
-plenty of doodles at the back. 😀 Sayang, recycle them printouts so doodle at
-  
-the back. 😀

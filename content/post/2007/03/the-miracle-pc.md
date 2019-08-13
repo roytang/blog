@@ -16,23 +16,3 @@ When I got home today, the computer had been miraculously fixed. My brother said
 I knew before that the internet had the capacity to heal itself. I'm surprised my PC also this capacity.
 
 I have no idea if I need to do any sort of diagnostics on this machine.
-
-## Comments
-
-### Comment by [Arthur Abon](http://arthur-abon-resume.atspace.com/) on 2007-03-22 00:28:00 +0000
-Scan for malware perhaps? Sounds like something was trying to hide a dll and
-  
-the boot sector from the OS to me -- of course I could just be paranoid.
-
-### Comment by [Roy](http://roytang.net/blog) on 2007-03-22 08:42:32 +0000
-Nah, I found it really it was bad memory. (The mem test that came with Ubuntu
-  
-really helped)
-
-I removed one of the 256MB pieces and Ubuntu works fine now (although I now
-  
-have only 256MB of memory left). Windows XP cannot boot at all, I guess one of
-  
-the files really did become corrupted. So I'm now a 100% linux user (at least
-  
-for the PC in my room)

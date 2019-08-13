@@ -30,14 +30,3 @@ As is tradition, most of the long weekend was spent watching a whole lot of stuf
 As I said, uneventful.
 
  [1]: http://www.kaizoku-fansubs.com/
-
-## Comments
-
-### Comment by [noemi](http://trinity.wordpress.com) on 2007-04-12 19:25:26 +0000
-namatay naman si Jack ah,...  for a few minutes nga lang. hehe db? the season when david palmer was assassinated? i like Heroes. sayang ung nabili ko na pirated hanggang ep 17 lang, pero i was able to watch ep 18 on dailymotion. you should check out the official website also, to see the interactive novels/comics. ganda. plus it gives the story more meaning. have you seen Prison Break? the first time my heart pounded from the suspense was while watching Runaway Jury. surprisingly, that happened to me as well while watching Prison Break, well at least with the first 12 eps i think.
-
-### Comment by [Roy](http://roytang.net/blog) on 2007-04-12 23:49:25 +0000
-Despite having a copy of the entire first season of Prison Break in the house since last year, I have yet to watch a single episode. I don't have time to marathon it. Funny stuff takes priority (usually anime) before serious stuff. And 24 > Heroes > Prison Break, so last priority sya hehe.
-
-### Comment by peng on 2007-04-13 23:59:51 +0000
-i've stopped watching heroes. too slow for my low eq. i don't see how they are going to defeat sylar if peter does not stop being such a wuss.

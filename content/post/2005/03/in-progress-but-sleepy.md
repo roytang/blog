@@ -22,37 +22,3 @@ Seems like a lot of work though. My Javascript is not as strong as I want it to 
 A bit sleepy. After all, it is almost 4 AM. I'll try to fix this thing later.
 
 On hindsight, I should've set up a test blog and toyed around with that instead of modifying this one directly.
-
-## Comments
-
-### Comment by [btflpenguin](http://www.blogger.com/profile/2001080) on 2005-03-26 20:32:00 +0000
-ito ba yung may link na "more" sa bottom ng post and you click on it to see
-  
-the entire post? when you figure it out, pakopya code ha 🙂
-
-### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-03-26 20:39:00 +0000
-No, I'm actually referring to something different. See \[this\]\[1\] for an
-  
-example of what I did earlier.
-
-But I know how to do it using javascript, I'm not sure if it can be done
-  
-easily using blogger templates though. Isipin ko muna yun.
-
-Pero blogger had an article before about something similar, you might want to
-  
-look at it: <a href="http://help.blogger.com/bin/answer.py?answer=898&#038;topic=41" rel="nofollow">http://help.blogger.com/bin/answer.py?answer=898&topic=41</a>
-
-[1]: <a href="http://roytang.sinfree.net/test/index.html" rel="nofollow">http://roytang.sinfree.net/test/index.html</a>
-
-### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-03-26 20:49:00 +0000
-They also had another article about what I implemented dun sa test page:
-
-<a href="http://help.blogger.com/bin/answer.py?answer=897&#038;topic=41" rel="nofollow">http://help.blogger.com/bin/answer.py?answer=897&topic=41</a>
-
-### Comment by [btflpenguin](http://www.blogger.com/profile/2001080) on 2005-03-27 03:21:00 +0000
-ay ang galing! have always wondered how to do that.
-
-and you tried it out on your next post.
-
-salamat.

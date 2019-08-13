@@ -22,15 +22,3 @@ Back to Street Fighter: When picking up a new fighting game, I typically try to 
 In the same way, in any online discussion it's important to expose yourself to a variety of opinions, and not limit your discussions only to people with similar views. Political discussion online can get toxic so it becomes tempting to block out those views that you disagree with, but this tends to create an echo chamber effect. It's a good idea to keep a healthy amount of opposing views on your feeds. Although where you draw the line is of course your own decision; Personally I try to avoid blocking any friends and have not yet had occasion to do so, although I do block any sites that tend to promote misinformation or stuff like racism.
 
 Unlike competition, the goal of an online discussion (especially for sensitive topics like politics) isn't really winning. Discussion should lead to some sort of progress or learning, or in the worst case, "agreeing to disagree". But regardless of the outcome, understanding opposing points of view should give you valuable insights into your own views, and maybe even convince you to reconsider them.
-
-## Comments
-
-### Comment by MrValdez on 2017-01-17 12:45:58 +0000
-Any chance you've read Sirlin's Playing to Win book?
-
-He talks about how competitive playing will bring out the best in you if you remove bad mentality (such as that shouting contest you mentioned) and play with your best. While the book is fighting game centric, it has value on bringing something to a person's mindset.
-
-<a href="http://www.sirlin.net/ptw/" rel="nofollow">http://www.sirlin.net/ptw/</a>
-
-### Comment by [roy](http://roytang.net) on 2017-01-17 14:14:25 +0000
-Yes, yes I have! I always recommend it to anyone interested in competitive play.

@@ -314,21 +314,3 @@ Playing Limited now feels so different from playing Limited back when I wasn't a
  [8]: http://magiccards.info/autocard.php?card=Bant Battlemage
  [9]: http://magiccards.info/autocard.php?card=Branching Bolt
  [10]: http://magiccards.info/autocard.php?card=Manaforce Mace
-
-## Comments
-
-### Comment by Jaime on 2009-03-01 16:54:34 +0000
-Wow, long time since I've played magic myself. Good thing you can keep up with the card upkeeps. And I guess just a bit more practice?
-
-Also, Re: "I'm pretty sure giving it flying would make it an invalid target, feel free to correct me if I'm wrong", I think you're right, since the card states "deals 3 damage to target creature with/without flying" versus "Target a flying/non-flying creature, and Branching Bolt deals 3 damage to it."
-
-### Comment by Jaime on 2009-03-02 01:35:23 +0000
-To clarify, the spell wouldn't fizzle, but it would deal no damage. Hmm. Magic Lawyering is tough stuff. Am I wrong in that you can theoretically target a non-flying creature with the flying component but it won't deal damage unless you can somehow give it flying before it resolves?
-
-### Comment by roy on 2009-03-02 07:01:35 +0000
-If the target is not legal upon resolution, the spell will not resolve (fizzles)
-
-You can't target a nonflyer with the flyer mode.
-
-### Comment by [Daniel Duterte](http://incrementalgrowth.blogspot.com/) on 2009-03-11 04:19:35 +0000
-Manaforce Mace is very playable when you have 4+ basic land types. I think it's also probably fine when you're only 3, but I wouldn't pick it very highly in the third pack.

@@ -40,29 +40,3 @@ For Congressman and District councilors, I'm abstaining. I don't know who the ca
 For party-list, I choose **AGHAM** party list (same one I voted for last time). It's sad that they are supporting Villar, but I'll just overlook that since I'm strongly leaning towards their Science and Technology advocacy. S&T; isn't usually a concern of ordinary Filipinos, but that's something that has to change as it's one of the ways we can climb out of where we are now and attempt to become an industrialized country.
 
 Whew, composing this post took a while. I have to admit some of my choices were rushed (particularly for Senator), as most of my decision-making energy was spent researching the Presidentiables. Although things can still change between now and Monday, this will probably be close to my final ballot.
-
-## Comments
-
-### Comment by Chry on 2010-05-08 09:00:21 +0000
-What is your opinion on straight-ticket voting? You don't think that it would help your president in getting things done or that it would lessen the chances of clashing political agenda?
-
-### Comment by [Roy](http://roytang.net) on 2010-05-08 11:04:18 +0000
-Straight-ticket voting is a lot like block voting -- it's great for the voter who doesn't want to think too hard.
-
-I'm not inclined to give any one President absolute power; and dominating both the Senate and the House is as close to absolute power as one can legally get within our system.
-
-### Comment by Jaime on 2010-05-08 13:21:31 +0000
-Well, what roytang says is true, but you have to realize that that option DOES help get things done. Even in a dictatorship that is focused on enriching / empowering only select individuals, whatever mandate the dictator wills is still expeditiously performed. 
-
-I sincerely believe that the Checks and Balances mechanics of a Democracy are intended to stabilize an already secure country, with change happening only if majority or all sides agree on said change (on the notion that, clearly, it must be for the better for most / all the people, since they all want it). 
-
-I'm inclined to do straight-ticket voting, because I do believe drastic change needs to be done to get the ball rolling. 
-
-But this will only work for sure at the onset. Politics is politics, and no one stays allied for too long. 
-
-Chry, I think what you actually want is then to get are leaders, who, regardless of different political backgrounds, aim for the same platform. Just because they're enemies, doesn't mean that healthcare enthusiasts will not want healthcare related issues solved (though, leaders will always surprise you).
-
-### Comment by edebelenmd on 2010-05-15 21:36:14 +0000
-Hmmm...  so hindi na kita puwede sisihin kung bakit hindi umuunlad ang Pilipinas? 😛
-
-Nice post! Just let me know when SRJT is running for president! 😀

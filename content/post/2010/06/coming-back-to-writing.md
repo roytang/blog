@@ -34,8 +34,3 @@ So anyway, let's put this ramble to an end. I'll be writing regularly again for 
  [2]: http://twitter.com/roytang
  [3]: http://tumblr.roytang.net
  [4]: http://sites.google.com/site/steveyegge2/you-should-write-blogs
-
-## Comments
-
-### Comment by Kerwin on 2010-06-07 22:55:52 +0000
-I have the same problem. My excuse is "i'm not a writer".

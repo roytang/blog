@@ -212,13 +212,3 @@ Of course, I'm still not particularly strong in web design, so the two current "
 Hopefully this gives me a chance to whip up more interesting themes and polish the old CSS skills some more. Enjoy!
 
  [1]: http://www.b-list.org/weblog/2006/jun/14/django-tips-template-context-processors/ "Django tips: Template context processors by James Bennet"
-
-## Comments
-
-### Comment by Radek on 2011-12-16 19:38:11 +0000
-Hi,
-
-Nice do you have working example or download that I can try and look how it works?
-
-### Comment by [roy](http://roytang.net) on 2011-12-18 08:03:56 +0000
-Hi Radek, unfortunately I'm unable to find the original source code for this; I had previously been running a Django-backed blog but have since migrated it and the posts over to WordPress

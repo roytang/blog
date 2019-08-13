@@ -629,26 +629,3 @@ Although the draft and the actual quarters match was more luck than skill, a win
  [28]: http://magiccards.info/autocard.php?card=Alluring Sirens
  [29]: http://magiccards.info/autocard.php?card=Illusionary Servant
  [30]: http://twitter.com/roytang/status/3086843964
-
-## Comments
-
-### Comment by Aleks on 2009-08-03 23:22:57 +0000
-Congrats (again)!
-
-But I think the judge was correct. Resolution of Harm's Way's effect would only occur after combat damage assignment right? So during assignment, you cannot assign trample damage since there's not enough damage for it to be lethal.
-
-### Comment by [Dee Barizo](http://magicgameplan.com/blog/) on 2009-08-04 00:46:43 +0000
-Congrats on the win 🙂
-
-I thought about how I would build your sealed deck before I looked at your actual build. My build was very close to yours -- just off by two cards. I would've gone -1 Assassinate, -1 Runeclaw Bear, +1 Rampant Growth, and +1 Divine Verdict. I like going with consistency over power especially if my deck is already pretty good.
-
-Also, in your draft, I'm surprised you didn't play Armorer Ascension, Gorgon Flail, and Magebane Armor. Those three cards seem better that Cancel, Negate, and Whispersilk Cloak.
-
-Anyways, good luck at the Grand Prix!
-
-### Comment by roy on 2009-08-04 08:10:45 +0000
-@Dee I only had 14 creatures, I didn't want to be stuck with too many cards that relied on having creatures in play. Cancel and Negate were pretty good for me in the actual games. Since my opponent turned out to have ground stall guys (Wall of Frost, etc) also, Magebane Armor would have been pretty bad. 
-
-Whisperslik Cloak is by far the best of those 3 equipment, since a cloak on a baneslayer angel is basically game.
-
-Thanks for the comment!

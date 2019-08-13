@@ -24,16 +24,3 @@ I haven't removed most of the preinstalled Acer crap yet, but I've removed the 9
 Oh, Windows Update is prompting me for a restart! It's also my first time working with an OS that has Windows Update enabled, and some people have told me how annoying the restart prompts are especially while playing games. Luckily, I can afford to restart right now.
 
 All in all, Vista seems okay, and I believe it's a good upgrade to XP, which has been getting boring to me. I was originally planning on dual-booting this laptop with Linux, but I think I'll stick with Vista for a while.
-
-## Comments
-
-### Comment by [PCSecurityExpert](http://hubpages.com/hub/free-malware-removal) on 2008-07-15 21:31:18 +0000
-I think OEM vendors have some kind of agreement with McAfee and Norton which
-  
-forces them to install these antiviruses -- no matter how bad performing they
-  
-are. If I'm more or less tolerant with McAfee, then Norton is a system killer.
-  
-I've just come across a report where it's said that Norton slows start-up by
-  
-50%. Awful! Avast antivirus is much less resource-hungry.

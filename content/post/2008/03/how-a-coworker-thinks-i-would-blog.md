@@ -26,13 +26,3 @@ url: /2008/03/how-a-coworker-thinks-i-would-blog/
 <span style="font-size: small;"><span style="color: #cc0000;">(02:29:01 PHT) </span></span><span style="font-size: small;"><span style="color: #cc0000;"><span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">ah alam ko na... <br /> </span>
 
 <span style="font-size: small;"><span style="color: #cc0000;">(02:29:37 PHT) </span></span><span style="font-size: small;"><span style="color: #cc0000;"><span style="font-size: medium;"><strong>Coworker</strong></span></span></span><span style="color: #cc0000;"><strong><span style="font-size: medium;">: </span></strong></span><span style="font-size: medium;">"why does the tab key not work consistently...  it's equivalent to 2 spaces in one application...  4 in another...  the inconsistencies! curses!"<br /> </span>
-
-## Comments
-
-### Comment by noems on 2008-04-04 15:42:35 +0000
-haha sabagay, ibahin mo lang yung bagsak ng buhok mo, medyo emo na. (at least
-  
-your hair from high school).
-
-### Comment by [Roy](http://roytang.net/blog) on 2008-04-04 23:01:14 +0000
-I don't even remember what my hair looked like back then. :p

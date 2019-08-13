@@ -19,8 +19,3 @@ The two villains that appear in the movie -- Ra's Al Ghul and Scarecrow -- compl
 All in all, worth the watch. The tantalizing hint at the end of the movie suggests a sequel, but the question is, who will play the Joker?
 
 Also, we watched in the new cinemas at SM North. Nice, everything seems a lot roomier and the seats were comfy. I didn't get to see what the comfort rooms were like as the movie had me glued to my seat.
-
-## Comments
-
-### Comment by [btflpenguin](http://www.blogger.com/profile/2001080) on 2005-06-25 05:50:00 +0000
-saw batman begins 2 days ago. gush gush gush. ang ganda nga!

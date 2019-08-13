@@ -20,22 +20,3 @@ At the place we have been working at, there's this guy who speaks English in a w
 As I type this, mentally I hear myself saying it with a Chinese accent, as is my tendency when hanging around people with strange accents too long. Probably my grasp of good English grammar is suffering a bit as well.
 
 This was a random rant, thanks.
-
-## Comments
-
-### Comment by noems on 2007-08-10 17:45:05 +0000
-hey! nasa hongkong ka pa ba? if you're not after the parks and the shopping
-  
-(specifically for clothes) edi go shopping for toys! 🙂
-
-hanap ka nung dyecast (tama ba?) initial D na cars or transformers! or, kung
-  
-ayaw mo bumili for you...  bili ka for me at babayaran na lang kita. hehehe
-
-went to HK last year 3 days work, another 2 days for leisure. i spent one
-  
-whole day in disneyland and 1 whole day in Ocean Park. bad trip lang cause it
-  
-was summer time, kaya grabe ang init sa park. ang hindi namin na visit, ung
-  
-mga toy stores. 🙂

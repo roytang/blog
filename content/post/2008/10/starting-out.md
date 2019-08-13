@@ -34,22 +34,3 @@ the blog app has mappings for
 inside the view, I want to redirect to "post/", but with respect to the app, it should be "blog/post/"
 
 I should subscribe to one of the Django mailing lists to ask stuff like this.
-
-## Comments
-
-### Comment by Tim Medina on 2008-10-20 08:46:00 +0000
-Hey Roy!
-
-Good to see another pinoy interested in django. (You might want to join the
-  
-\[google group of pinoy django users\]\[1\])
-
-About your problem, you might want to take a look at \[ this\]\[2\].
-
-\[Tim\]\[3\]
-
-[1]: <a href="http://djangoph.com" rel="nofollow">http://djangoph.com</a>
-
-[2]: <a href="http://docs.djangoproject.com/en/dev/topics/http/urls/#reverse" rel="nofollow">http://docs.djangoproject.com/en/dev/topics/http/urls/#reverse</a>
-
-[3]: <a href="http://devblog.timmedina.com/" rel="nofollow">http://devblog.timmedina.com/</a>

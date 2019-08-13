@@ -31,24 +31,3 @@ If you Stampede and swing with everyone, you win! Unless he has {{< card >}}Cond
 What's the correct play?
 
  [1]: http://roytang.net/wp-content/uploads/2010/08/youmaketheplay.png
-
-## Comments
-
-### Comment by [Nick Davis](http://www.ccgtradepost.com) on 2010-08-04 19:37:15 +0000
-Swing with the team.
-
-1. You Win
-  
-OR
-  
-2. He Condemns Angel, you gain 8 life. You are at 3. He MUST block with the three critters (unless giant growth) to not die. 4/5 tree becomes unanimated again. Play the Stormfront Pegasus. If he swings with the team, sac the boar to gain 4, leaving you at 7, then chump the largest flier. You are at 1 life with one more turn.
-
-but that's a LOT of speculation! 😀
-
-### Comment by [Nick Davis](http://www.ccgtradepost.com) on 2010-08-04 19:38:33 +0000
-What ACTUALLY happened, btw?
-
-### Comment by Roy on 2010-08-05 05:49:23 +0000
-What actually happened was that I wish I never thought of Condemn. If I had swung I would have won, but as it is I forgot that the 4/5 tree would become unanimated and counted the counterattack as lethal so I didn't push and later lost to Plummet.
-
-Misplay on my part obviously, if I had done the math correctly and figured I'd be alive at 1, then swinging with the team would definitely have been correct!

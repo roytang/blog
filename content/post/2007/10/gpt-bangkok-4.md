@@ -383,23 +383,3 @@ So I drop. Damn, I hate dropping, it makes me feel so incompetent at Magic. I kn
 6. Impatience.In round 3 again, I was facing a creature stall on game one and I made a massive mistake, attacking with two Treefolk and two Springjacks hoping I could get at least one double-strike off the clash. Obviously I got none, and I lost two Springjacks for nothing. I should've just waited out the stall instead of being impatient.
 
 I make so many mistakes like this which make me question why some people think I'm a good limited player. I'm not &#8212; I just had a good streak for a while that brought my rating up to 1800 but it will surely drop down now. I'm glad I decided not to even consider going to GP:Bangkok as I'm obviously not yet ready. Luckily there are 4 Kuala Lumpur PTQs scheduled for the Philippines, all of them Lorwyn Sealed of course, giving me a chance to learn from my mistakes and make a comeback.
-
-## Comments
-
-### Comment by ogie jaro on 2007-11-02 16:56:59 +0000
-hi, i chanced upon your site a couple of months back and just would like to
-  
-say that i really like your work, you should consider submitting articles for
-  
-ng
-
-anyway from a quick scan of your pool, i think you have a viable UW tempo
-  
-option
-
-have a nice day
-
-### Comment by Roy on 2007-11-02 17:08:03 +0000
-eh, I'll consider submitting an article to NG if I actually get a decent
-  
-finish. 😀

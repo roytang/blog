@@ -24,17 +24,3 @@ Side note: I'm pretty sure the tendency to archive, compile and categorize every
 I'm almost done convincing myself now, maybe I _will _toss out those old discs... 
 
  [1]: www.randsinrepose.com/archives/2003/07/10/nadd.html
-
-## Comments
-
-### Comment by noems on 2008-07-15 09:39:59 +0000
-how about donating some of your copies to kapal-muks leechers like me? 😛
-  
-depends ofcourse on what you have...  kenshin would be nice since i haven't
-  
-seen it 😀
-
-### Comment by [Roy](http://roytang.net/blog) on 2008-07-15 22:43:42 +0000
-I actually \*do\* have some episodes of Kenshin, but it's not complete, and the
-  
-discs are really old and I'm not sure where they are (daming rason :p)

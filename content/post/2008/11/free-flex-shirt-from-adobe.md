@@ -22,20 +22,3 @@ url: /2008/11/free-flex-shirt-from-adobe/
         <br clear="all" />
       </p>
 </div>
-
-## Comments
-
-### Comment by [mikong](http://devblog.michaelgalero.com/) on 2008-11-21 22:53:20 +0000
-The names are all blurred! You should upload a better pic.
-
-### Comment by KC on 2008-11-22 22:53:48 +0000
-Ah, yes...  the new shirt. I remember that he was trying to be subtle about it.
-  
-Una, kunwari may question so he asked me to come over his seat. Since I didn't
-  
-notice, he walked over sa JV area to parade his shirt. We eventually got the
-  
-hint 😛
-
-### Comment by [Tago](http://tagofabic.multiply.com) on 2008-12-15 20:19:27 +0000
-Inggit! haha 😀

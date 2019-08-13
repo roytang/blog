@@ -70,16 +70,3 @@ This might be the longest post I've ever written. Here are the answers to trivia
 <a href="#q14" name="a14">[14]</a> Sugar Rush
 
  [1]: http://en.wikipedia.org/wiki/Pub_quiz
-
-## Comments
-
-### Comment by Kerwin on 2013-03-24 16:54:06 +0000
-I know #2! Kung kasali ako sana 5th na kayo. hehe.
-
-### Comment by [Roy Tang](http://facebook.com/profile.php?id=632418911) on 2013-03-24 16:58:19 +0000
-Lol nasagutan naman namin yun. Gusto mo sumama next time?
-
-### Comment by The guy on 2013-03-25 00:03:01 +0000
-> the guy who answered for our team kept beating himself up
-  
-<a href="http://i.imgur.com/aRA8EZA.gif" rel="nofollow">http://i.imgur.com/aRA8EZA.gif</a>

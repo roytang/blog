@@ -14,12 +14,3 @@ Seriously. Having to hit an extra key just to use "Home" or "End"? For some reas
 I like laptops, but keyboards need to improve in some way. My suggestion? Remove the trackpad and have an extra row for those keys that you would have relegated to "Fn" status.  While using the keyboard is around 200 times more productive than using the mouse (citation needed), the mouse is around 200 times more productive than the trackpad.
 
 Who designs these interfaces anyway? Do Mac users have similar issues?
-
-## Comments
-
-### Comment by Ovidiu C. on 2008-04-30 20:53:13 +0000
-I have a huge bad @$$ Microsoft Natural Keyboard 4000, but I rarely use the
-  
-arrow keys, insert, delete, home, end, page up/down etc. I would rather keep
-  
-my fingers on the home row and Vim is perfect for that.

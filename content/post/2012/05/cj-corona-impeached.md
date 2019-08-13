@@ -41,11 +41,3 @@ That's my 2 cents. Now can we move on? We still have to prepare for the next cir
 &nbsp;
 
  [1]: http://en.wikipedia.org/wiki/Tu_quoque
-
-## Comments
-
-### Comment by [Rocky](http://allyouneedisgodislove.blogspot.com) on 2012-05-29 13:55:18 +0000
-Good post, Roy. Mostly agree, especially about the midnight appointment thingie.
-
-### Comment by your most loving brother on 2012-05-29 14:55:06 +0000
-I also hate that "Tu Quoque" argument. Walang sense eh.

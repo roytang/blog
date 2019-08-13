@@ -16,14 +16,3 @@ I know some of my own batchmates are active in bands, I wonder if I can get any 
  [1]: http://rebelpixel.com
  [2]: http://lyrics.rebelpixel.com
  [3]: http://rebelpixel.com/archives/2005/08/11/pop-ratio-originals/
-
-## Comments
-
-### Comment by [switch](http://www.blogger.com/profile/9515166) on 2005-08-15 21:30:00 +0000
-There used to be a site (i forget now) where Popgun used to have some track
-  
-on. I have them, if you want.
-
-BTW, Popgun has already disbanded, apparently. Rocky has a band called The
-  
-Haneps, and Nico and Monsi are with Ryan in Tsubibo.

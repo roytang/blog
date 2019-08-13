@@ -248,15 +248,3 @@ Finish: 17th, winning two packs. The packs contained Wheel of Sun and Moon and O
 A bit disappointed, since I had begged out of Father's Day dinner in order to finish the tournament since I was doing well. Still, it's a decent finish and brings to an end my month-long streak of bad tournament results. The Commandments deck is exhausting yet fun to play, now all I need to do is figure out the Faeries matchup... 
 
 Next week: I don't know if I can play in the last GPT.
-
-## Comments
-
-### Comment by [Ritch](http://5-color-commentary.blogspot.com/2008_06_01_archive.html) on 2008-06-17 01:07:23 +0000
-Uh. Decklist needs fixing? The Plumeveils are still in the board and I see no
-  
-hint of those Macabres. 😀 5-2-1 in a GPT is a nice record.
-
-### Comment by Roy on 2008-06-17 02:55:24 +0000
-Corrected... I forgot to edit after copy and paste.
-
-5-2-1 is a good record yes, but I want to do better!

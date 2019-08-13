@@ -28,14 +28,3 @@ Eventually they get off near the bridge along Visayas Avenue. Some of the passen
 The incident lasted no more than ten, maybe fifteen minutes, but it left me wondering whether I should have said something to the man, whether I should have intervened or asked them at least what was going on, especially when the possibility of domestic violence was revealed. But I didn't, and neither did anybody else. As I stepped off the jeep I was trying to justify it to myself: I didn't know the entire situation, it was none of my business, what could I have done for them in that short time, etc. One of the other passengers had commented "Mahirap na makialam", and somehow I felt that way too, that it was none of my business. I guess most people would be expected to react that way, but I've always prided myself that I didn't do things just because "most people" do it.
 
 Ok, admittedly this story was not very Christmas-y. But it made me think of a discussion I had earlier in the day about how it was hard to feel the Christmas spirit anymore with all the stuff that needs to be done at work, all the shopping time and the large crowds in the malls and all. But there I was in a small timespan with an opportunity to maybe help or even just listen to another troubled soul  and I couldn't be bothered. No one else was. The other passengers just looked at them as they got off, made a few snide comments and that was that. The driver just wanted to get on with his trip so he could maybe earn some money. Maybe I'm over-thinking it a bit, maybe it was just some sort of breakdown on the woman's part or something. Or maybe I just missed an opportunity to exhibit some Christmas spirit.
-
-## Comments
-
-### Comment by Jaime on 2011-01-23 11:18:06 +0000
-I think the key here is to differentiate what is help, and what would be aggravating the situation.
-
-In your mind, nothing violent happened, and you cannot "fix" the situation without knowing what the problem was, so what was there for you to do? Interview the guy (since the woman was not in any state to be interviewed) and get an informative answer?
-
-Calling the DSWD hotline might have been the "best" thing to do at the time, but that's just effort transfer, and you're not even sure who's right. No smoking gun. No scarring on the woman's body (kung binubugbog nga siya, you would see it on her). It might have been just a scene, or still a lover's spat gone wrong, or actual domestic violence, but unlike police, you have no right to react to it without being intrusive as there is no physical evidence -- good Samaritan or not.
-
-I would not trust the man's information, nor the woman's. So it's really hard to intervene in this case without a thorough investigation or background.

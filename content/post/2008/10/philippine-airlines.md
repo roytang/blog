@@ -27,18 +27,3 @@ Damnit, I finally reload the page to find that "my session has expired." Sure en
 I give up. I'm not going to try again. Seriously this time. I'll give the credit card back to my dad and just tell him to book manually (and to double check that the card has not been charged.)
 
 I always have a bad time with Airline websites -- I hate the Cebu Pacific one as well. These companies need to get better web developers.
-
-## Comments
-
-### Comment by noems on 2008-10-22 18:57:35 +0000
-ayy nako. i'm hating the cebu pacific site right now.
-
-i spent almost the whole afternoon booking and reloading pages. i haven't
-  
-passed the flight selection yet!
-
-With the heavy traffic of Users specially with their frequent promos, they
-  
-really should improve the website.
-
-If you can't serve it, don't sell it.

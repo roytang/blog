@@ -38,8 +38,3 @@ I walked a few meters away from the Mercury Drug towards the next corner. On tha
 I thought about walking a bit farther down the road because I knew the bakery was still there. It was an old bakery, as far as I can tell it had been there for more than thirty years now, surely nothing to scoff at. We used to buy _pandesal _there in the mornings for as long as I could remember. I thought about buying some right then and there just for nostalgia sake but as I recalled their best _pandesal_ was when you bought it at five in the morning.
 
 By that point I was satisfied with my unscheduled trip down memory lane. I stood there for a few minutes trying to see if I could get a jeepney ride, but the jeepneys running the route I had to take where all full despite the late hour -- that hasn't changed in more than a decade. Eventually I gave up and just hailed another cab. We drove away back towards the present, leaving the past behind
-
-## Comments
-
-### Comment by [Kay Javier](http://facebook.com/profile.php?id=736711443) on 2013-02-09 20:00:52 +0000
-Aya, you made me smile while reading this...  it's a good feeling remembering good old happy days. 🙂 Ice store Mejia...  across was construction supply store hehe... . 🙂

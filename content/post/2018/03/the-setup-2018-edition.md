@@ -109,11 +109,3 @@ All the photos in this post are available as a Flickr dataset: <https://www.flic
  [12]: https://www.videolan.org/vlc/index.html
  [13]: http://www.uderzo.it/main_products/space_sniffer/
  [14]: https://www.audacityteam.org/
-
-## Comments
-
-### Comment by shibainu on 2018-03-15 13:34:00 +0000
-doesnt the BoUoW (Bash on Ubuntu on Windows) introduce a lot of other bloatware?
-
-### Comment by [roy](http://roytang.net) on 2018-03-15 23:35:29 +0000
-IDK actually. It's supposedly part of the Linux Subsystem for Windows so I guess it comes with some other stuff, but I really only use the shell and any relevant command line utils and I don't notice any bloat.

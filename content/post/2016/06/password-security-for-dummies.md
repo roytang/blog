@@ -59,21 +59,3 @@ Well, that post turned out longer than I expected! It might seem like overkill t
  [2]: http://imgs.xkcd.com/comics/password_strength.png
  [3]: http://stackoverflow.com/
  [4]: https://lastpass.com/
-
-## Comments
-
-### Comment by joaquin on 2016-06-14 11:32:45 +0000
-PasswdSafe is another password vault that you can use. It keeps a local db file of your passwords unlike other services that require you to store it in their server. It's free to use so that's another plus for me.
-
-What I do is sync the db file to my dropbox so I can access it anywhere.
-
-### Comment by Jaime on 2016-06-14 14:35:57 +0000
-The problem with #2 comes from required password formats (which ultimately give a framework for hackers to brute-force attack).
-
-Some (ancient) websites put a character limit on passwords, which make it difficult to get fancy. Some (modern) websites require that you put a number, punctuation, etc. and that there must be capital letters integrated into your system. If your original password does not have accommodations for these rules, you're going to have to change algorithms.
-
-There was also that time when Gawker websites had problems with passwords containing unicode characters. Better make sure that your passwords use the same standard characters.
-
-&#8212; 
-
-One way to fight against difficult-to-remember passwords (such as tr0ubadour&3) that don't use standard English words is to use Latinized words from a different language! This works especially well if you're multi-lingual. They defend better against a dictionary-biased brute-force attack than using standard word concatenation without the memorization penalty.

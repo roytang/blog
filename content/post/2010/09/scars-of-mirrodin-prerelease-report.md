@@ -114,8 +114,3 @@ Prize packs did not contain anything exciting. Well, a {{< card >}}Genesis Wave{
 My friend suggested a separate type of prerelease event where entrants are guaranteed some small token prizes (maybe two packs), regardless of their win-loss record, and some trophy prize (like a t-shirt) for going undefeated. Rules enforcement might be looser -- maybe no longer requiring deck registration or pool swaps. This would make it more casual and less appealing to "sharks", but I'm not sure how popular it would be. I'm thinking maybe we need some more casual events here like gunslinging or Intro Pack duels thing that WOTC staff sometimes talk about -- we don't usually have that sort of thing in local events.
 
 Of course, we couldn't come up with a clear solution to make Prerelease events easier for new guys, but it's worth a thought, right?
-
-## Comments
-
-### Comment by Switch on 2011-05-23 03:58:14 +0000
-Re: extra discussion, the prereleases here are usually pretty friendly affairs, friendly enough to get my girlfriend to play. The prize scheme is a little different, with 1 pack for less than a win and a draw, 2 packs for 4-8 points, 4 packs for 9-10 points and 6 for 11-12 points (if i remember correctly). I think in general you should loosen up at these things, but geography and relative costs are a factor here, as well, since there's probably ten venues with events, usually both days, and a large event at Suntec.

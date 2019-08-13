@@ -28,36 +28,3 @@ Hehe, that cracks me up, and I'm not sure why. I'd like to see that wall.
  [1]: http://roytang.net/blog/2005/02/books-abnkkbsknplako-by-bob-ong/
  [2]: http://www.google.com/search?q=bobong+pinoy&sourceid=mozilla-search&start=0&start=0&ie=utf-8&oe=utf-8&client=firefox-a&rls=org.mozilla:en-US:official
  [3]: http://www.google.com/search?hl=en&lr=&c2coff=1&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&q=%22danger+wall+is+falling%22&btnG=Search
-
-## Comments
-
-### Comment by [clair](http://clair.free.net.ph) on 2005-03-08 22:16:00 +0000
-I should grab a copy of some of his books. I have always wanted to read some
-  
-of them. Oh well.
-
-Would you lend them to me?! 😉
-
-### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-03-09 14:09:00 +0000
-Sure, I don't mind, but how would I get them to you? They're really
-
-cheap though. I bought all three as impulse buys.
-
-### Comment by [clair](http://clair.free.net.ph) on 2005-03-10 11:15:00 +0000
-Good question!
-
-Hmmm. Do you still hang out at UP? I go there sometimes to see Mario and
-  
-incidentally Dave too.
-
-### Comment by [Roy](http://www.blogger.com/profile/1694272) on 2005-03-11 23:06:00 +0000
-Unfortunately, I don't think I've been to UP since I started working.
-
-Work has this bad habit of eating up free time. If it didn't pay so well, I
-  
-wouldn't work at all!
-
-### Comment by [clair](http://clair.free.net.ph) on 2005-03-14 09:38:00 +0000
-Well, true...  \*sigh\* Working is something that eats up a lot of people's times
-  
-and energies.

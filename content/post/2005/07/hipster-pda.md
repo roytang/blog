@@ -18,8 +18,3 @@ I still largely prefer the advantages of electronic storage: cut/paste functiona
 A notepad would be nice. You know, like the ones reporters used to carry around.
 
  [1]: http://sacha.free.net.ph/notebook/wiki/2005.06.02.php#3
-
-## Comments
-
-### Comment by [eClair](http://www.blogger.com/profile/3338893) on 2005-07-11 21:30:00 +0000
-But Hipster PDAs are so easy to use and carry around! 😀

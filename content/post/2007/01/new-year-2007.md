@@ -20,14 +20,3 @@ Review of [last year's resolution][1]:
 Yay for me.
 
  [1]: http://roytang.net/blog/2006/01/i-wasnt-planning-on-making-resolutions/
-
-## Comments
-
-### Comment by [J David](http://www.jdavidmacor.com) on 2007-01-02 04:10:39 +0000
-Wow, not many people can fulfill their new year's resolution. Good for you
-  
-with that one!
-
-Now as for this year, you have got a pretty vague one going...  maybe that will
-  
-make it easier to achieve 🙂
