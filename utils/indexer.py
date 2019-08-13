@@ -4,6 +4,7 @@ storage = FileStorage("utils/index")
 from whoosh.fields import Schema, TEXT, KEYWORD, ID, STORED, DATETIME
 from whoosh.analysis import StemmingAnalyzer
 from datetime import datetime
+from slugify import slugify
 
 schema = Schema(path=ID(unique=True),
                 content=TEXT(analyzer=StemmingAnalyzer(), stored=True),
@@ -38,7 +39,14 @@ def index(ix, all=False):
         with mdfile.open(encoding='utf-8') as f:
             post = frontmatter.load(f)
             post_text = str(post)
+            draft = post.get('draft')
+            if draft:
+                # dont index drafts
+                continue
             d = post.get('date')
+            if d > n:
+                # dont index files from the future
+                continue
             t = str(post.get('title'))
             tags = []
             if post.get("tags") != None:
@@ -48,12 +56,18 @@ def index(ix, all=False):
 
             u = post.get("url")
             if not u:
-                rp = str(mdfile.relative_to(p))
+                rp = mdfile.relative_to(p)
+                # use the title slug when possible
+                if t is not None and len(t) > 0:
+                    slug = slugify(t)
+                    rp = rp.with_name(slug) # repl
+                rp = str(rp)
                 rp = "/" + rp.replace("\\", "/")
                 if rp.endswith(".md"):
                     rp = rp.replace(".md", "/")
+                else:
+                    rp = rp + "/"
                 u = rp
-
             writer.update_document(title=t, content=post_text,
                 path=str(mdfile), tags=",".join(tags), date=d, url=u)
 
@@ -74,5 +88,6 @@ def query_test():
             print(hit.highlights("content"))
             print("------------")
 
-index(ix)
+import sys
+index(ix, 'all' in sys.argv[1:])
 

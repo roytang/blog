@@ -1,0 +1,4 @@
+python-frontmatter==0.4.2
+python-slugify==3.0.3
+Whoosh==2.7.4
+
