@@ -5,6 +5,7 @@ tags:
 - tech life
 title: "Wanted: Note-taking / To-do app"
 type: post
+draft: true
 ---
 
 I have a smattering of todo-lists and notes scattered over several platforms: plain text files, evernote, google keep, google docs, [standard notes](https://standardnotes.org/), and recently I also started trying [Trello](https://trello.com/).
