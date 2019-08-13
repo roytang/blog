@@ -1,0 +1,15 @@
+---
+author:
+  name: Aleks Felipe
+  photo: https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg
+  type: card
+  url: https://twitter.com/aleksfelipe
+date: 2019-08-13 04:33:06
+parent_page:
+  title: Forty One
+  urlpath: /2019/08/forty-one/
+source: webmention
+webmention_type: like-of
+---
+
+[Aleks Felipe](https://twitter.com/aleksfelipe) liked this [on twitter](https://twitter.com/roytang/status/1159618447531270144#favorited-by-12953232)
