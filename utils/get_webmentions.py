@@ -28,6 +28,8 @@ with urllib.request.urlopen(endpoint) as url:
             content = "[%s](%s) liked this [on twitter](%s)" % (link['author']['name'], link['author']['url'], link['url'])
         if link['wm-property'] == 'repost-of':
             content = "[%s](%s) shared this [on twitter](%s)" % (link['author']['name'], link['author']['url'], link['url'])
+        if link['wm-property'] == 'mention-of':
+            content = "[%s](%s) mentioned [%s](%s)" % (link['wm-source'], link['wm-source'], link['wm-target'], link['wm-target'])
 
         fm = frontmatter.Post(content)
         fm['source'] = 'webmention'
