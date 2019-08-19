@@ -8,7 +8,7 @@ tags:
 - triviastorm
 - testing
 - Software Development
-title: 'TriviaStorm: Text/Answer parsing'
+title: 'TriviaStorm: Text and Answer parsing'
 type: post
 ---
 
