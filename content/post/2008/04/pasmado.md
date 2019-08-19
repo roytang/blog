@@ -9,9 +9,7 @@ type: post
 url: /2008/04/pasmado/
 ---
 
-_
-  
-Pasmado _is a term generally well-known among Filipinos. It refers to a condition of excessive sweating and/or trembling in the hands and/or feet. The concept is so well-known among Filipinos that it has developed several old wives' tales of its' own, such as the ever-popular solution of peeing on your hands first thing in the morning to get rid of the conditions.
+_Pasmado_ is a term generally well-known among Filipinos. It refers to a condition of excessive sweating and/or trembling in the hands and/or feet. The concept is so well-known among Filipinos that it has developed several old wives' tales of its' own, such as the ever-popular solution of peeing on your hands first thing in the morning to get rid of the conditions.
 
 I am _pasmado_. Sometimes at least, especially when under stress or it's really, really humid. The reason I got to thinking about it was that I finally realized it was affecting the way I play in Magic tournaments. After a few rounds of playing Magic, it always happens that the card sleeves start sticking to each other due to my sweaty hands. It's quite a distraction and one my opponents even commented on my sweaty hands after the post-match handshake.
 
