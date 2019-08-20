@@ -37,6 +37,9 @@ disqusShortname = "roytangweblog"
     footline = "[←](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous)</a>An IndieWeb Webring 🕸💍[→](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next)"
     comments_enabled = true
     webmention_username = 'roytang.net'
+    comments_endpoint = 'https://apps.roytang.net/blog/comments'
+    recaptcha_key = '6Ld80rMUAAAAAIKde9k3z7KtfmjHSwT48S_Cy5-k'
+
     # can use markdown here
     hero_text = """**Roy Tang** is a:
 
