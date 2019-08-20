@@ -24,10 +24,14 @@ Social media killed blogging (or tried to anyway), but advertising ruined bloggi
 
 I'm not begrudging anyone their right to try to earn a living. I just wish the business model didn't have to be so annoying lol. The advertising business model existed before the internet of course, and was good enough to drive "free" industries like radio and television. So when people wanted to start making money off the internet, it was easy to adopt the same model. People online were used to other people providing content for free after all. 
 
-What other business models could exist? Looking at free-to-play gaming, there's one other model that I think could work: microtransactions. And I don't mean nickel-and-diming people to read content like modern online newspapers do (looking at you New York Times and Washington Post). I mean something like cosmetics and content packs and making money off "whales", the same way games like Hearthstone and Magic Arena does it. Magic Arena's model doesn't annoy me at all. I don't play regularly enough to want to buy things and am content just being free-to-play. But that doesn't stop other people from making purchases for cosmetics and so on.
+What other business models could exist on the internet? 
+
+There's hiding content behind a paywall, which is the approach of newspapers like the New York Times or the Washington Post or sites like Medium. That kind of thing gets annoying too and commercialization can ruin the site as well. I recently read [this writeup](https://blog.elementary.io/welcome-to-the-new-blog/) about how a company moved their blog away from Medium because it gradually became a worse proposition as they started to monetize.
+
+Looking at free-to-play gaming, there's one other model that I think could work: microtransactions. I mean something like cosmetics and content packs and making money off "whales", the same way games like Hearthstone and Magic Arena does it. Magic Arena's model doesn't annoy me at all. I don't play regularly enough to want to buy things and am content just being free-to-play. But that doesn't stop other people from making purchases for cosmetics and so on.
 
 Although I realize I might not enjoy that world either. Imagine if Twitter or Instagram had cosmetic purchases where you could buy like stuff to decorate your profile page or custom frames for your posts or something like that. I think it would be a huge hit among some people, at the same time be really annoying for other people (people like me lol). 
 
 ## 3
 
-I guess what I'm saying is: I wish we could live in an (online) world where people weren't constantly trying to make money off each other. I realize that this comes from a position of privilege - of having enough so that I don't need to be thinking about earning money all the time. I realize that's not the world works and that commercialization is a sad reality that I have to live with, but a man can dream.
+I guess what I'm saying is: I wish we could live in an (online) world where people weren't constantly trying to make money off each other. I realize that this comes from a position of privilege - of having enough so that I don't need to be thinking about earning money all the time. I realize that's not the world works and that commercialization is a sad reality that I have to live with, but a man can dream. 
