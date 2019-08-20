@@ -20,7 +20,7 @@ var ready = function ( fn ) {
 ready(() => {
     const urlParams = new URLSearchParams(window.location.search);
     const q = urlParams.get('q');
-    let searchUrl = "https://apps.roytang.net/search/?q="+q;
+    let searchUrl = "https://apps.roytang.net/blog/search/?q="+q;
     let parentNode = document.getElementById("search-results");
     document.getElementById("search-criteria").innerText = q;
 
