@@ -38,6 +38,7 @@ disqusShortname = "roytangweblog"
     comments_enabled = true
     webmention_username = 'roytang.net'
     comments_endpoint = 'https://apps.roytang.net/blog/comments'
+    micropub_endpoint = 'https://apps.roytang.net/blog/micropub'
     recaptcha_key = '6Ld80rMUAAAAAIKde9k3z7KtfmjHSwT48S_Cy5-k'
 
     # can use markdown here
