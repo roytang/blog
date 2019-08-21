@@ -1,0 +1,11 @@
+---
+date: 2016-03-23 03:55:25
+location: ''
+source: instagram
+syndicated:
+- type: instagram
+  url: https://instagram.com/p/BDSv6YUsoD9/
+tags: []
+---
+
+A biker almost got ran over by a car. He managed to jump off the bike and landed right beside me on the sidewalk. Bike was crushed

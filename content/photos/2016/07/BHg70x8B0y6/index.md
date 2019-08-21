@@ -1,0 +1,12 @@
+---
+date: 2016-07-06 02:14:27
+location: ''
+source: instagram
+syndicated:
+- type: instagram
+  url: https://instagram.com/p/BHg70x8B0y6/
+tags:
+- sketchdaily
+---
+
+Tiger lilies #sketchdaily

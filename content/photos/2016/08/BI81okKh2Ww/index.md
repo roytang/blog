@@ -1,0 +1,12 @@
+---
+date: 2016-08-10 18:50:29
+location: ''
+source: instagram
+syndicated:
+- type: instagram
+  url: https://instagram.com/p/BI81okKh2Ww/
+tags:
+- discworld
+---
+
+Could have sworn I also had a copy of Colour of Magic and Lords and Ladies, but these were the only ones I found... I wonder if I should collect them all lol #discworld
