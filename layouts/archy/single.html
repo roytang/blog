@@ -1,13 +1,46 @@
+{{ $scratch := newScratch }}
 {{ $archYear := .Date.Format "2006" }}
 
 {{ partial "head" . }}
 <section class="h-feed">
 <h2 class="p-name">Archive for {{ $archYear }}</h2>
 
-{{ range where .Site.Pages "Section" "post" }}
+{{ $scratch.Set "postCount" 0 }}
+{{ range where .Site.RegularPages "Section" "post" }}
+    {{ if eq (.Date.Format "2006") $archYear }}
+        {{ $scratch.Add "postCount" 1 }}
+    {{ end }}
+{{ end }}
+{{ $scratch.Set "photosCount" 0 }}
+{{ range where .Site.RegularPages "Section" "photos" }}
+    {{ if eq (.Date.Format "2006") $archYear }}
+        {{ $scratch.Add "photosCount" 1 }}
+    {{ end }}
+{{ end }}
+
+
+<a href="#posts">Posts ({{ $scratch.Get "postCount" }})</a> :: <a href="#photos">Photos ({{ $scratch.Get "photosCount" }})</a>
+
+<h3 id="posts">Posts</h3>
+{{ range where .Site.RegularPages "Section" "post" }}
     {{ if eq (.Date.Format "2006") $archYear }}
         {{ .Render "list_item" }}
     {{ end }}
 {{ end }}
+
+<h3 id="photos">Photos</h3>
+{{ range (where .Site.RegularPages "Section" "photos").GroupByDate "2006 January"}}
+{{ if strings.Contains .Key $archYear }}
+<h3>{{ .Key }}</h3>
+<div class="image-list">
+{{ range .Pages }}
+    {{ .Render "image_list" }}
+{{ end }}
+</div>
+{{ end }}
+{{ end }}
+
 </section>
+
+{{ partial "block/navigation" . }}
 {{ partial "foot" . }}
