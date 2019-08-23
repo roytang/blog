@@ -14,7 +14,7 @@ With Python 3, a new cleaner option is available to replace all of the above lib
 {{< highlight python >}}
 from pathlib import path
 
-# Declaring a path object is as straightforward as passing the path to the constructor
+# Declaring a path object is just passing the path string
 p = Path("/home/roytang/stuff")
 
 # Other paths can be derived using the / operator
@@ -35,7 +35,7 @@ for mdfile in p.glob("**/*.md"):
         newdir.mkdir(parents=True)
 
     newfile = newdir / newfile # path objects can be either files or dirs
-    # unfortunately there is no provided alternative for file copying, so you still need shutil!
+    # for file copying, you still need shutil!
     import shutil
     shutil.copy(str(mdfile), str(newfile))
 {{< /highlight >}}
