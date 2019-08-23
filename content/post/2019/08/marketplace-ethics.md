@@ -1,6 +1,6 @@
 ---
 title: "Marketplace Ethics"
-date: 2019-08-25
+date: 2019-08-26
 tags:
 - philosophy
 ---
