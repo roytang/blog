@@ -9,7 +9,10 @@ type: page
 
 <p>I've been blogging since 2002! Click on the post counts below to view the posts by year or month.</p>
 
-{{< archives/grid-or-list >}}
+{{< archives/grid-or-list section="post" >}}
+
+<h4>Photos</h4>
+{{< archives/grid-or-list section="photos" >}}
 
 <h4>Tags</h4>
 
