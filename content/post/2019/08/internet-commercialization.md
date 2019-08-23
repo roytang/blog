@@ -6,11 +6,11 @@ tags:
 - blogging
 ---
 
-## 0
+### 0
 
 A while back, I read this post from 2015: [Who is doing this to my internet?](http://veekaybee.github.io/2015/07/28/who-is-doing-this-to-my-internet/) lamenting the changing nature of the internet due to commercialization and advertising.
 
-## 1
+### 1
 
 It's a bit funny that the OP was lamenting about the "good old days" of the internet back in **2012**, when by then the big social media networks like Facebook and Twitter were already relatively well-entrenched. When I think of the "good old days" of the internet I tend to harken back pre-social media to the heyday of blogging around 2005-2008 maybe? Those were times when instead of everybody holed up in social media silos, there were still a lot of people running independent websites and blogs. 
 
@@ -20,7 +20,7 @@ I'll be honest and tell you I thought about this myself, and added the Google Ad
 
 Social media killed blogging (or tried to anyway), but advertising ruined blogging in the same way it ruined social media. People thought they could earn money, so they changed what they posted to try to earn more views/followers/clicks. It became less about being genuine (if it ever was) and more about pandering to a wider audience and driving traffic. There was a rise in clickbait and polarizing headlines and replicating content from other sites. Things like truth or originality didn't matter, clicks and views did. 
 
-## 2
+### 2
 
 I'm not begrudging anyone their right to try to earn a living. I just wish the business model didn't have to be so annoying lol. The advertising business model existed before the internet of course, and was good enough to drive "free" industries like radio and television. So when people wanted to start making money off the internet, it was easy to adopt the same model. People online were used to other people providing content for free after all. 
 
@@ -32,6 +32,6 @@ Looking at free-to-play gaming, there's one other model that I think could work:
 
 Although I realize I might not enjoy that world either. Imagine if Twitter or Instagram had cosmetic purchases where you could buy like stuff to decorate your profile page or custom frames for your posts or something like that. I think it would be a huge hit among some people, at the same time be really annoying for other people (people like me lol). 
 
-## 3
+### 3
 
 I guess what I'm saying is: I wish we could live in an (online) world where people weren't constantly trying to make money off each other. I realize that this comes from a position of privilege - of having enough so that I don't need to be thinking about earning money all the time. I realize that's not the world works and that commercialization is a sad reality that I have to live with, but a man can dream. 
