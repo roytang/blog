@@ -4,3 +4,4 @@ temp.txt
 node_modules/
 utils/index/
 resources/_gen/
+markov.md
