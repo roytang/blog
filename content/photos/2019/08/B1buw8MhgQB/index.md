@@ -1,5 +1,5 @@
 ---
-date: '2019-08-21T16:48:16+00:00'
+date: 2019-08-21T16:48:16+00:00
 geo: ''
 location: ''
 source: micropub
