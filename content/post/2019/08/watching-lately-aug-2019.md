@@ -19,7 +19,7 @@ I watched a Japanese film at Eigasai in UP Diliman for the first time ever, upon
 
 ### Young Justice
 
-Back half of Young Justice Outsiders finished this week. I've honestly been kind of meh for this half of the season as I feel like they're all over the place and there's too many plot threads going on at once.
+Back half of Young Justice Outsiders finished this week. I've honestly been a bit whelmed for this half of the season as I feel like they're all over the place and there's too many plot threads going on at once.
 
 ### Fleabag
 

@@ -34,3 +34,7 @@ I was reminded of this quote only because I was reading some discussion about pr
 
 Three can keep a secret if two of them are dead.
 
+### Black Mirror
+
+There's a Black Mirror episode where the personality of a human who passed away is recreated based on his social media postings and what not. Because of the nature of humans, I don't believe this process can ever be 100% accurate. What you will get is a shadow of the original human, an approximation of who he chose to present himself as. His true self will have been forever lost.
+
