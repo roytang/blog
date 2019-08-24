@@ -6,6 +6,10 @@ source: micropub
 syndicated:
 - type: instagram
   url: https://www.instagram.com/p/B1buw8MhgQB/
+tags:
+- sketch
+- xmen 
+- polaris
 ---
 
 Polaris. Back to digital again, and trying out colors. A bit happier with my proportions this time. Now 3 out of 6 of the Peter David era X-Factor #sketch #xmen #polaris
