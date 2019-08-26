@@ -174,6 +174,13 @@ def import_post(post):
         reblogscount = reblogscount + 1
         return
 
+    if ptype == 'answer':
+        caption = "Someone on Tumblr asked:\n\r<blockquote>%s</blockquote>\n\r%s" % (post['question'], post['answer'])
+        create_post(post, "notes", caption, {"tags": ["answers"]})
+        return
+
+    return
+
     if ptype == 'photo':
         if 'photo-link-url' in post:
             url = post['photo-link-url']
@@ -251,10 +258,6 @@ def import_post(post):
             caption = caption + ("\n\r--%s" % (source))
         create_post(post, "notes", caption, {"tags": ["quotes"]})
         return
-
-    if ptype == 'answer':
-        # print(post)
-        pass
 
     unprocessed = unprocessed + 1
     if ptype not in countbytype:
