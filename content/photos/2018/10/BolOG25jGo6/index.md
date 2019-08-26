@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BolOG25jGo6/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/178781594500/my-collection-of-foreign-coins-leftover-from
 tags: []
 ---
 

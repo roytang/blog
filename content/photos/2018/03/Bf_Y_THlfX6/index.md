@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/Bf_Y_THlfX6/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/171595534290/late-night-sketch-ironman-marvel-procreate-time
 tags:
 - ironman
 - marvel

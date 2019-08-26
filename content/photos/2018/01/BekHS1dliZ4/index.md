@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BekHS1dliZ4/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/170296415525/whiteboard-doodle-httpifttt2enotju
 tags: []
 ---
 

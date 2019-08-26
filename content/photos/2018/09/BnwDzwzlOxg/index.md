@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BnwDzwzlOxg/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/178111865085/dice-throne-gamenight-httpsifttt2mxronj
 tags:
 - gamenight
 ---

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BjzTCk7jlUf/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/174720563725/cheezilla-httpsifttt2jsf7co
 tags: []
 ---
 

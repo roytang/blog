@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BiuU--nAE6S/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/173863429410/muffin-httpsifttt2rk9sfr
 tags: []
 ---
 
