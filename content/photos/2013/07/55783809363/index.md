@@ -4,6 +4,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/55783809363/summers-brother-high-five
+tags:
+- comics allnewxmen
 ---
 
 <p>Summers Brother High Five! </p>

@@ -4,6 +4,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/177168603375/heres-a-thing-i-started-doing-a-few-weeks-back
+tags:
+- spiderman
 ---
 
 <p>Here’s a thing I started doing a few weeks back<br/></p>

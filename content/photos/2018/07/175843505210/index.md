@@ -4,6 +4,9 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/175843505210/marvel-adventures-spider-man-57
+tags:
+- comics
+- spider-man
 ---
 
 <p>Marvel 

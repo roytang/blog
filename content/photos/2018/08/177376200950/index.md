@@ -4,6 +4,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/177376200950/ive-been-rewatching-modern-family-since-it
+tags:
+- modern family
 ---
 
 <p>

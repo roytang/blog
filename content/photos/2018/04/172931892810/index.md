@@ -4,4 +4,6 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/172931892810
+tags:
+- transformers
 ---

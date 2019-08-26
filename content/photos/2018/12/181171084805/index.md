@@ -4,6 +4,11 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/181171084805/into-the-spider-verse-spoiler-free-review
+tags:
+- spider-man
+- into the spider verse
+- marvel
+- comics
 ---
 
 <p>

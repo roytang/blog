@@ -4,6 +4,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/141777022625/easter-reflections
+tags:
+- sundaypunday
 ---
 
 <p>Easter Reflections</p>
