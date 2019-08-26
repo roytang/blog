@@ -95,13 +95,19 @@ def create_post(p, kind, content, params):
     tags = p.get("tag", [])
     if not isinstance(tags, list):
         tags = [tags]
+    if "tags" in params:
+        for t in params["tags"]:
+            if t not in tags:
+                tags.append(t)
+
     if len(tags) > 0:
         post["tags"] = tags
 
     post["source"] = "tumblr"
     id = p["@id"]
     for param in params:
-        post[param] = params[param]
+        if param != "tags":
+            post[param] = params[param]
     outdir = contentdir / kind / d.strftime("%Y") / d.strftime("%M")
     if not outdir.exists():
         outdir.mkdir(parents=True)
@@ -169,6 +175,7 @@ def import_post(post):
         return
 
     if ptype == 'photo':
+        return
         if 'photo-link-url' in post:
             url = post['photo-link-url']
             if url.startswith("https://www.instagram.com/"):
@@ -236,8 +243,12 @@ def import_post(post):
             return
 
     if ptype == 'quote':
-        #print(post['quote-text'])
-        pass
+        caption = "<blockquote>%s</blockquote>" % (post['quote-text'])
+        source = post.get('quote-source', '')
+        if len(source) > 0:
+            caption = caption + ("\n\r--%s" % (source))
+        create_post(post, "notes", caption, {"tags": ["quotes"]})
+        return
 
     if ptype == 'answer':
         # print(post)
