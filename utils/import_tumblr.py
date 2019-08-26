@@ -175,7 +175,6 @@ def import_post(post):
         return
 
     if ptype == 'photo':
-        return
         if 'photo-link-url' in post:
             url = post['photo-link-url']
             if url.startswith("https://www.instagram.com/"):
@@ -190,23 +189,26 @@ def import_post(post):
                     return
 
         if 'photo-caption' in post:
-            text = post['photo-caption']
-            p = MyParser()
-            p.feed(text)
-            for u in p.output_list:
-                url = get_final_url(u)
-                if url.startswith("https://www.instagram.com/"):
-                    # remove my username as needed
-                    url = url.replace("/roytang0400", "")
-                    url = urlparse(url)
-                    url = "https://instagram.com" + url.path
-                    if url in urlmap:
-                        u = urlmap[url]
-                        source_path = Path(u['source_path'])
-                        full_path = contentdir / source_path
-                        add_syndication(full_path, post['@url-with-slug'], "tumblr")
-                        instagramcount = instagramcount + 1
-                        return
+            tags = post.get("tag", [])
+            # processed photos imported to tumblr via IFTTT
+            if len(tags) == 2 and "IFTTT" in tags and "Instagram" in tags:
+                text = post['photo-caption']
+                p = MyParser()
+                p.feed(text)
+                for u in p.output_list:
+                    url = get_final_url(u)
+                    if url.startswith("https://www.instagram.com/"):
+                        # remove my username as needed
+                        url = url.replace("/roytang0400", "")
+                        url = urlparse(url)
+                        url = "https://instagram.com" + url.path
+                        if url in urlmap:
+                            u = urlmap[url]
+                            source_path = Path(u['source_path'])
+                            full_path = contentdir / source_path
+                            add_syndication(full_path, post['@url-with-slug'], "tumblr")
+                            instagramcount = instagramcount + 1
+                            return
 
         create_photo_post(post)
         return
