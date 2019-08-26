@@ -25,6 +25,10 @@ Back half of Young Justice Outsiders finished this week. I've honestly been a bi
 
 I didn't know anything about this Amazon Prime series going in either, only that it was a comedy and it was well-reviewed. I did enjoy watch it, although it's more of a tragic comedy than anything else. Basically about how people deal with absurdly difficult situations in their daily life. The story is well-told, but I'm not sure I get all the hype.
 
+### The Boys
+
+Another Amazon Prime series. I hadn't read the source material, and I was a bit turned off by the first episode, but I powered through. I knew it would be dark going in, and possibly gratuitous in terms of the sex and violence at some points, so not many surprises there. The plot seems in my head to be "What if superheroes were driven by a greedy corporation", which certainly doesn't help address my [misgivings about capitalism](/2018/10/capitalism/). Looking over the Wikipedia entry for the comic book series, it seems the TV show had some significant divergences, which is understandable, so I don't think I'll be seeking out the comic books. The series was enjoyable enough to binge over a few days, although some parts are a bit predictable. 
+
 ### Rocko's Modern Life: Static Cling
 
 Netflix tried to bring Rocko into the modern era, although strangely none of the characters have aged at all. Although they are cartoon characters so I guess that makes sense? The special is about as ridiculous as the old cartoon was, unsurprisingly, although it does try to convey a message about how change is an inevitable part of life. I did like that they had a reference to my favorite episode, R-E-C-Y-C-L-E Recycle~
