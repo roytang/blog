@@ -4,6 +4,9 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/153514515765/500-posts-hooray
+tags:
+- 500 posts
+- tumblr milestone
 ---
 
 <p>500 posts! Hooray?</p>
