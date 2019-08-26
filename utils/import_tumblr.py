@@ -163,29 +163,24 @@ def import_post(post):
     global urlmap
 
     ptype = post['@type']
-    tags = post.get("tag", [])
-    if len(tags) == 0:
-        return
-    for tag in tags:
-        if tag not in ["IFTTT", "Instagram"]:
-            return
 
-    unprocessed = unprocessed + 1
+    if post['@is_reblog'] == 'true':
+        reblogscount = reblogscount + 1
+        return
 
     if ptype == 'photo':
         if 'photo-link-url' in post:
             url = post['photo-link-url']
-            print(url)
             if url.startswith("https://www.instagram.com/"):
                 url = urlparse(url)
                 url = "https://instagram.com" + url.path
-                u = urlmap[url]
-
-                source_path = Path(u['source_path'])
-                full_path = contentdir / source_path
-                add_syndication(full_path, post['@url-with-slug'], "tumblr")
-                instagramcount = instagramcount + 1
-                return
+                if url in urlmap:
+                    u = urlmap[url]
+                    source_path = Path(u['source_path'])
+                    full_path = contentdir / source_path
+                    add_syndication(full_path, post['@url-with-slug'], "tumblr")
+                    instagramcount = instagramcount + 1
+                    return
 
         if 'photo-caption' in post:
             text = post['photo-caption']
@@ -198,16 +193,16 @@ def import_post(post):
                     url = url.replace("/roytang0400", "")
                     url = urlparse(url)
                     url = "https://instagram.com" + url.path
-                    u = urlmap[url]
+                    if url in urlmap:
+                        u = urlmap[url]
+                        source_path = Path(u['source_path'])
+                        full_path = contentdir / source_path
+                        add_syndication(full_path, post['@url-with-slug'], "tumblr")
+                        instagramcount = instagramcount + 1
+                        return
 
-                    source_path = Path(u['source_path'])
-                    full_path = contentdir / source_path
-                    add_syndication(full_path, post['@url-with-slug'], "tumblr")
-                    instagramcount = instagramcount + 1
-                    return
-
-
-    return
+        create_photo_post(post)
+        return
 
     if ptype == 'link':
         if 'link-url' in post and post['link-url'].find("://roytang.net") >= 0:
@@ -232,21 +227,13 @@ def import_post(post):
                 # )
                 return
 
-    if post['@is_reblog'] == 'true':
-        reblogscount = reblogscount + 1
-        return
-
-    if ptype == 'photo':
-        #create_photo_post(post)
-        return
-
     if ptype == 'regular':
         if 'regular-title' in post:
-            #print(post['regular-title'])
             create_post(post, "post", post.get('regular-body', ''), { 'title': post.get('regular-title', '') })
             return
         else:
             create_post(post, "notes", post.get('regular-body', ''), {})
+            return
 
     if ptype == 'quote':
         #print(post['quote-text'])
