@@ -5,7 +5,7 @@ import xmltodict
 import frontmatter
 from pathlib import Path
 from datetime import datetime
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 import urllib
 import shutil
 import os
@@ -108,7 +108,7 @@ def create_post(p, kind, content, params):
     for param in params:
         if param != "tags":
             post[param] = params[param]
-    outdir = contentdir / kind / d.strftime("%Y") / d.strftime("%M")
+    outdir = contentdir / kind / d.strftime("%Y") / d.strftime("%m")
     if not outdir.exists():
         outdir.mkdir(parents=True)
     outfile = outdir / ( id + ".md" )
@@ -174,12 +174,21 @@ def import_post(post):
         reblogscount = reblogscount + 1
         return
 
+    if ptype == 'video':
+        player = post['video-player'][0]
+        if player is not None and player != "None":
+            caption = "%s\n\r%s" % (post['video-caption'], player)
+        else:
+            u = urlparse(post['video-source'])
+            v = parse_qs(u.query)['v'][0]
+            caption = "%s\n\r{{< youtube %s >}}" % (post['video-caption'], v)
+        create_post(post, "notes", caption, {"tags": ["video"]})
+        return
+
     if ptype == 'answer':
         caption = "Someone on Tumblr asked:\n\r<blockquote>%s</blockquote>\n\r%s" % (post['question'], post['answer'])
         create_post(post, "notes", caption, {"tags": ["answers"]})
         return
-
-    return
 
     if ptype == 'photo':
         if 'photo-link-url' in post:
