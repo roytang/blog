@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BN3Yi5KhpMs/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/154318573675/under-the-bridge-sketchdaily-part-of-this-drawing
 tags:
 - sketchdaily
 ---

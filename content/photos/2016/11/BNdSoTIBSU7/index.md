@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNdSoTIBSU7/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153886724410/antelope-sketchdaily
 tags:
 - sketchdaily
 ---

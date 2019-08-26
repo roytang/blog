@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BPH-gkFlfmU/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155716068680/some-sort-of-dragon-shaped-bottle-sketchdaily
 tags:
 - sketchdaily
 ---

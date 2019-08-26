@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BG6vkkxMoNQ/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146255652000/kraken-sketchdaily
 tags:
 - sketchdaily
 ---

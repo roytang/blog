@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/Ba6xpDOlZ6_/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/166984000555/i-was-supposed-to-be-cleaning-stuff-in-my-room-but
 tags: []
 ---
 

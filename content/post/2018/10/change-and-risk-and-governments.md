@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-31 05:03:25
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/179611484840/change-and-risk-and-governments
 tags:
 - Politics
 - Philippines

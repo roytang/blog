@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-05-01 01:00:47
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/173467318760/spoiler-alert
 tags:
 - Movies
 - TV Series

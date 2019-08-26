@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BJAbaGUh6ct/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/148832478395/nighttime-break-sketchdaily
 tags:
 - sketchdaily
 ---

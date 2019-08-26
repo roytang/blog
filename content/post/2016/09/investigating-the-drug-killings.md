@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-09-26 01:30:56
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/150939408620/investigating-the-drug-killings
 tags:
 - Philippines
 title: Investigating the Drug Killings

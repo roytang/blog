@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BRRtN7mgZAu/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158045813925/a-bunch-of-quick-sketches-to-catch-up-with-my
 tags:
 - sketchdaily
 ---

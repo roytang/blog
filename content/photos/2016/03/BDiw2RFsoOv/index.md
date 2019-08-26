@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BDiw2RFsoOv/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/141903418990/this-one-was-a-request-sketchdaily
 tags:
 - sketchdaily
 ---

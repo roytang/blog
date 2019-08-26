@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BDv31C1MoMy/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/142189678780/i-say-i-say-i-say-sketchdaily
 tags:
 - sketchdaily
 ---

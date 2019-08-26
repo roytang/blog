@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BVN371tAgVp/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/161712275175/random-doodles-from-last-night-trying-to-get-back
 tags:
 - sketchdaily
 ---

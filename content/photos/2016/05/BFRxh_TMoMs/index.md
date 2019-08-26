@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BFRxh_TMoMs/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/144209505620/final-boss-sketchdaily
 tags:
 - sketchdaily
 ---

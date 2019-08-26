@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BJ9MY6FBYtX/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149958440630/til-about-the-term-surrender-cobra-google-it
 tags:
 - sketchdaily
 ---

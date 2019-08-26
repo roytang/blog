@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BPM5viklqJa/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155803024680/optimus-sketchdaily-transformers
 tags:
 - sketchdaily
 - transformers

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-12-29 01:30:36
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155095230190/cleaning-up-your-code
 tags:
 - Software Development
 title: Cleaning up your Code

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-11-15 01:30:55
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153195272165/bad-news
 tags:
 - Opinions
 title: Bad news

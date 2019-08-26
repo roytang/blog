@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BQ3ohj6Aivn/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/157624456065/batgirl-sketchdaily
 tags:
 - sketchdaily
 ---

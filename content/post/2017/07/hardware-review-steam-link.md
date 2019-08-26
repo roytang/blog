@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-07-06 01:30:43
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/162650311295/hardware-review-steam-link
 tags:
 - Hardware
 - Gaming

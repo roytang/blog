@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BMDFOlgBzbx/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152360262120/graveyard-patrol-sketchdaily-inktober
 tags:
 - sketchdaily
 - inktober

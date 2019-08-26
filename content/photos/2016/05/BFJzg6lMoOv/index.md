@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BFJzg6lMoOv/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/144048469555/stonehenge-sketchdaily
 tags:
 - sketchdaily
 ---

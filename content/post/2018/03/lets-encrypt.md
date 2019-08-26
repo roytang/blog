@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-03-01 01:00:07
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/171398937145/lets-encrypt
 tags:
 - Learning Things
 - Self-Improvement

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BHWzOSAhOGZ/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146794996320/hulk-vs-saitama-sketchdaily-this-is-terrible
 tags:
 - sketchdaily
 ---

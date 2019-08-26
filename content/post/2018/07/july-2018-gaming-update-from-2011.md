@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-07-16 01:00:04
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/175935008180/july-2018-gaming-update-from-2011
 tags:
 - Gaming
 title: 'July 2018: Gaming Update from 2011'

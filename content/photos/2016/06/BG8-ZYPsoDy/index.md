@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BG8-ZYPsoDy/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146300667745/professor-leyton-and-the-poorly-drawn-hands
 tags:
 - sketchdaily
 ---

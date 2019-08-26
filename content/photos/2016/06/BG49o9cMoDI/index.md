@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BG49o9cMoDI/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146222240055/light-out-darkest-hour-sketchdaily-transformers
 tags:
 - sketchdaily
 - transformers

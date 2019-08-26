@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BE6i0rYsoGF/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/143748702700/hypnotic-specter-sketchdaily-mtg
 tags:
 - sketchdaily
 - mtg

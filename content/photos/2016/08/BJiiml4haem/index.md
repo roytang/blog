@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BJiiml4haem/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149468460725/pink-coral-sketchdaily
 tags:
 - sketchdaily
 ---

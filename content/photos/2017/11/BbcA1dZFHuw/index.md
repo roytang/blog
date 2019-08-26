@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BbcA1dZFHuw/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/167449395540/the-niece-is-staying-over-so-i-had-her-assemble
 tags:
 - Legos
 ---

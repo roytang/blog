@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BIM0yq6hRFF/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/147840500875/megaman-drawn-with-left-hand-sketchdaily
 tags:
 - sketchdaily
 ---

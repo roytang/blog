@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGSqyqxMoHp/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/145478744375/dhalsim-sketchdaily-streetfighter
 tags:
 - sketchdaily
 - streetfighter

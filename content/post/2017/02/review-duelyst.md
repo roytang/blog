@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-02-18 01:30:22
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/157377150285/review-duelyst
 tags:
 - Review
 - ccgs

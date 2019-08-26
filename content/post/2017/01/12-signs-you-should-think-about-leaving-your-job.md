@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-01-31 01:30:38
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/156605048785/12-signs-you-should-think-about-leaving-your-job
 tags:
 - Opinions
 title: 12 Signs You Should Think About Leaving Your Job

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-03-16 01:30:54
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158457157955/google-code-jam-and-competitive-programming
 tags:
 - Software Development
 title: Google Code Jam and Competitive Programming

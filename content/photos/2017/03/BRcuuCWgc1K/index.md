@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BRcuuCWgc1K/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158221873245/not-a-fan-of-these-new-mtg-fat-pack-boxes-but-at
 tags:
 - MTG
 ---

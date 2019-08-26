@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BMbpkxVBxjT/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152768436925/rejected-disney-princesses-taco-belle
 tags:
 - sketchdaily
 ---

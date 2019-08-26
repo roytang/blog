@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-06-13 01:30:29
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/161756970360/tokyo-redux
 tags:
 - Travels
 title: Tokyo, Redux

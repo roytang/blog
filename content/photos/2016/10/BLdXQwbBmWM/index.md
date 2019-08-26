@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BLdXQwbBmWM/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151698853435/worrying-sketchdaily-inktober
 tags:
 - sketchdaily
 - inktober

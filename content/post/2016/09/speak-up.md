@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-09-20 01:30:45
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/150660450975/speak-up
 tags:
 - Opinions
 title: Speak Up

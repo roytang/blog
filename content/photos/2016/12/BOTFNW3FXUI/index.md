@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BOTFNW3FXUI/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/154781464100/magi-sketchdaily
 tags:
 - sketchdaily
 ---

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-11-17 01:30:37
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153281781825/unclear-error-messages
 tags:
 - Software Development
 title: Unclear error messages

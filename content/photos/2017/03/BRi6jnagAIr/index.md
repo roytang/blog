@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BRi6jnagAIr/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158314655395/swamp-frog-sketchdaily-paperbyfiftythree
 tags:
 - sketchdaily
 - paperbyfiftythree

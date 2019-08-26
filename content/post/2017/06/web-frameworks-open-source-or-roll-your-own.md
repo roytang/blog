@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-06-22 04:19:27
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/162111375975/web-frameworks-open-source-or-roll-your-own
 tags:
 - Software Development
 title: Web Frameworks -- Open Source or Roll Your Own?

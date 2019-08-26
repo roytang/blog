@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-10-13 01:30:27
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151729262325/coding-frameworks
 tags:
 - Software Development
 title: Coding Frameworks

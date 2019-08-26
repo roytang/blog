@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BQZj9S7FhbJ/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/157132000225/give-me-all-the-bacon-and-eggs-you-have
 tags:
 - sketchdaily
 ---

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNamgOyBaUT/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153841363705/cape-and-cowl-sketchdaily
 tags:
 - sketchdaily
 ---

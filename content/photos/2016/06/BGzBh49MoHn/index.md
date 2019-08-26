@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGzBh49MoHn/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146107073470/long-live-the-king-sketchdaily
 tags:
 - sketchdaily
 ---

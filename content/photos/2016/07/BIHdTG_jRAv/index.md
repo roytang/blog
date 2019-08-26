@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BIHdTG_jRAv/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/147740235060/i-tried-drawing-some-of-the-star-trek-voyager
 tags:
 - sketchdaily
 ---

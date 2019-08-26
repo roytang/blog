@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BRlrzhBgWBP/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158361088740/ye-olde-magic-shoppe-sketchdaily
 tags:
 - sketchdaily
 - paperbyfiftythree

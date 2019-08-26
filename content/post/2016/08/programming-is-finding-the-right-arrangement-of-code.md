@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-08-18 01:30:21
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149105212450/programming-is-finding-the-right-arrangement-of
 tags:
 - Software Development
 title: Programming is Finding the Right Arrangement of Code

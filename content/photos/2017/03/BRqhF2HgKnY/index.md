@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BRqhF2HgKnY/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158438096595/piranha-plant-sketchdaily-procreate
 tags:
 - sketchdaily
 - procreate

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BJPyhQHBZ1J/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149122349970/idk-some-kind-of-dog-painting-is-hard
 tags:
 - sketchdaily
 ---

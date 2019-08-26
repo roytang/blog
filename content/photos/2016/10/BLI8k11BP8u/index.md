@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BLI8k11BP8u/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151332120620/army-of-darkness-sketchdaily-inktober
 tags:
 - sketchdaily
 - inktober

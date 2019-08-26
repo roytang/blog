@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BOvcTAQFuMW/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155269738165/2017-goal-world-domination-sketchdaily
 tags:
 - sketchdaily
 ---

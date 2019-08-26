@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGW-QHCMoNz/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/145562113095/snake-frog-toad-sketchdaily-metalgear
 tags:
 - sketchdaily
 - metalgear

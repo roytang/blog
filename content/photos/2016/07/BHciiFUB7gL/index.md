@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BHciiFUB7gL/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146900776980/george-sketchdaily
 tags:
 - sketchdaily
 ---

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BMsiOoAhuod/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153066108870/lightning-sketchdaily-ff13
 tags:
 - sketchdaily
 - ff13

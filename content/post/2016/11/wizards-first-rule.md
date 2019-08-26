@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-11-22 01:30:07
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153496463610/wizards-first-rule-and-demagoguery
 tags:
 - Opinions
 title: Wizard's First Rule and Demagoguery

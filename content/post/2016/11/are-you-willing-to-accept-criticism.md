@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-11-29 01:30:44
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153798744930/are-you-willing-to-accept-criticism
 tags:
 - Opinions
 - Self-Improvement

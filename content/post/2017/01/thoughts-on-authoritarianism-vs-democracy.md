@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-01-10 01:30:33
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155650139150/thoughts-on-authoritarianism-vs-democracy
 tags:
 - Opinions
 title: Thoughts on Authoritarianism vs Democracy

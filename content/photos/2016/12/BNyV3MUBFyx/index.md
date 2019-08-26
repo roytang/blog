@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNyV3MUBFyx/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/154237690635/tranquil-meadow-sketchdaily
 tags:
 - sketchdaily
 ---

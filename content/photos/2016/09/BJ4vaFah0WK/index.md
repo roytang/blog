@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BJ4vaFah0WK/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149875057250/supergirl-sketchdaily-not-too-happy-with-this-one
 tags:
 - sketchdaily
 ---

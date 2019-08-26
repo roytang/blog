@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BJ0ThrDBmmN/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149794935945/bmx-men-sketchdaily
 tags:
 - sketchdaily
 ---

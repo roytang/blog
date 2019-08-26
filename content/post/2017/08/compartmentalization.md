@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-08-12 01:30:05
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/164080714155/compartmentalization
 tags:
 - Self-Improvement
 title: Compartmentalization

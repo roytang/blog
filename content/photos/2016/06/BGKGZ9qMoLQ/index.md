@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGKGZ9qMoLQ/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/145309869725/underwater-baby-the-thing-about-sketchdaily-is
 tags:
 - sketchdaily
 ---

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BDG-c53MoJg/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/141272819805/the-devil-of-hells-kitchen-sketchdaily
 tags:
 - sketchdaily
 ---

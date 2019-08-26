@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BEOTliLMoJJ/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/142849614515/this-ryu-amiibo-is-surprisingly-detailed
 tags: []
 ---
 

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-03-14 01:30:47
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158375285550/scary-movies-and-games
 tags:
 - Movies
 - Gaming

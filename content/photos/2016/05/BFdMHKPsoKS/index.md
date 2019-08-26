@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BFdMHKPsoKS/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/144438506990/mother-of-dragons-sketchdaily
 tags:
 - sketchdaily
 ---

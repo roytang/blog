@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BE_Nl5xMoD8/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/143841833385/may-the-4th-be-with-you-sketchdaily
 tags:
 - sketchdaily
 ---

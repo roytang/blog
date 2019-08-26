@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-03-29 01:00:11
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/172361367865/rethinking-facebook
 tags:
 - Tech Life
 title: Rethinking Facebook

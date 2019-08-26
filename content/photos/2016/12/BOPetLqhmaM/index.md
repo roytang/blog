@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BOPetLqhmaM/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/154720978410/ninja-escape-sketchdaily
 tags:
 - sketchdaily
 ---

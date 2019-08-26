@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BElw9wRsoHZ/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/143327729525/feeling-a-bit-crabby-today-so-just-a-quick-disney
 tags:
 - sketchdaily
 ---

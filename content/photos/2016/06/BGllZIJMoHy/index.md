@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGllZIJMoHy/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/145849017940/morning-rituals-sketchdaily
 tags:
 - sketchdaily
 ---

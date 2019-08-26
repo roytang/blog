@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BKw31vEhhHP/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/150892883980/street-bubble-guy-sketchdaily
 tags:
 - sketchdaily
 ---

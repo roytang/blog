@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BOxGXLVlrLZ/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155298404125/professor-layton-and-the-curious-reflection
 tags:
 - sketchdaily
 ---

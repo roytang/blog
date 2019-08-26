@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BO2EsC-lvSF/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155389734240/random-doodles-sketchdaily
 tags:
 - sketchdaily
 ---

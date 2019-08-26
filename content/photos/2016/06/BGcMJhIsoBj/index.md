@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGcMJhIsoBj/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/145663931755/mr-jones-sketchdaily
 tags:
 - sketchdaily
 ---

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-08-14 15:36:32
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/176991513285/blogging-and-the-decentralized-internet
 tags:
 - blogging
 - Tech Life

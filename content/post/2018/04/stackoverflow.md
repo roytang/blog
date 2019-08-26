@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-04-29 01:00:36
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/173402418810/stackoverflow
 tags:
 - Software Development
 title: StackOverflow

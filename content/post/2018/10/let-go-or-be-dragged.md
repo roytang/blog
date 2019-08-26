@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-08 01:00:23
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/178840728950/let-go-or-be-dragged
 tags:
 - Self-Improvement
 title: Let Go or Be Dragged

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-06-27 01:30:57
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/162298851645/adulting
 title: Adulting
 type: post
 url: /2017/06/adulting/

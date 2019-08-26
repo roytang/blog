@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BEEQvijMoBb/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/142635516390/some-girl-sketchdaily
 tags:
 - sketchdaily
 ---

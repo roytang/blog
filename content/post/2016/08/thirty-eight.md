@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2016-08-09 01:30:46
-title: Thirty Eight
-type: post
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/148666684075/thirty-eight
 tags:
 - birthday
+title: Thirty Eight
+type: post
 url: /2016/08/thirty-eight/
 ---
 

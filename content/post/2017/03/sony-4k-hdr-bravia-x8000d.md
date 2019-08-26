@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-03-08 15:59:10
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158153649870/sony-4k-hdr-bravia-x8000d
 tags:
 - Hardware
 - Review

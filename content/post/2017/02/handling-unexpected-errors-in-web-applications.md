@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-02-02 01:30:25
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/156694527375/handling-unexpected-errors-in-web-applications
 tags:
 - Software Development
 title: Handling unexpected errors in web applications

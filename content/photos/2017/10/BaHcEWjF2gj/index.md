@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BaHcEWjF2gj/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/166294360580/inktober-day-10-gigantic-sketchdaily
 tags:
 - Inktober
 - sketchdaily

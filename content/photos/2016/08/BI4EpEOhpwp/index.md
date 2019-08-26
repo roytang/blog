@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BI4EpEOhpwp/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/148676356960/doctor-pikachu-allons-y-chu-sketchdaily
 tags:
 - sketchdaily
 - pokemon

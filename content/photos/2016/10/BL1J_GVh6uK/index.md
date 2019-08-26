@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BL1J_GVh6uK/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152116613660/philippines-and-japan-decide-to-hold-joint-naval
 tags:
 - sketchdaily
 - inktober

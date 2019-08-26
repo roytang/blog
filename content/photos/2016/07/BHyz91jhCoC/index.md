@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BHyz91jhCoC/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/147332490550/peacock-sketchdaily
 tags:
 - sketchdaily
 ---

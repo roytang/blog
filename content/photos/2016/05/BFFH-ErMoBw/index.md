@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BFFH-ErMoBw/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/143957849865/not-much-time-today-so-heres-a-poorly-drawn
 tags:
 - sketchdaily
 ---

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-01-06 01:00:04
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/169364670980/new-years-resolution-do-at-least-one-personally
 tags:
 - Self-Improvement
 title: 'New Year''s Resolution: Do at least one personally productive thing per day'

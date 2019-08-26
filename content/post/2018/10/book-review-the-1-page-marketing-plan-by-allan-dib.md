@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-10 01:00:51
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/178903135010/book-review-the-1-page-marketing-plan-by-allan
 tags:
 - Books
 - Review

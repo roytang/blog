@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-09-13 01:30:19
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/150335483210/pain
 tags:
 - Nostalgia
 title: Pain

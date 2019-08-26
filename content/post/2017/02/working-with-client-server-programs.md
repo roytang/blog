@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-02-09 01:30:50
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/156998734395/working-with-client-server-programs
 tags:
 - Software Development
 title: Working with Client-Server Programs

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BV1XnrIAskD/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/162309033030/afternoon-doodle-sketch-sketchdaily
 tags:
 - sketch
 - sketchdaily

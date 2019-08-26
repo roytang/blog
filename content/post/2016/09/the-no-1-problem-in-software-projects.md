@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-09-01 01:30:06
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149772492325/the-no-1-problem-in-software-projects
 tags:
 - Software Development
 title: The No. 1 Problem in Software Projects

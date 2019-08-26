@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-01 05:03:25
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/179643297025/shogun-and-the-rest-of-james-clavells-asian-saga
 tags:
 - Books
 - Pop Culture

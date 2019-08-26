@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-12-06 01:30:39
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/154099368165/nanowrimo-2016-post-mortem
 tags:
 - Writing
 title: Nanowrimo 2016 Post-Mortem

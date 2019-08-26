@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-08-09 01:30:47
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/163968954100/thirty-nine
 tags:
 - birthday
 title: Thirty Nine

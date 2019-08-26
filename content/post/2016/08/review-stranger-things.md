@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-08-13 01:30:55
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/148861917440/review-stranger-things
 tags:
 - Review
 - Opinions

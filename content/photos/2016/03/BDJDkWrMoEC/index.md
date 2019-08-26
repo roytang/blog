@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BDJDkWrMoEC/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/141316531505/studying-body-proportions-rocket-for-scale
 tags:
 - sketchdaily
 ---

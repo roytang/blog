@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-02-28 01:30:33
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/157801807630/boxes
 tags:
 - Opinions
 title: Boxes

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-06-17 01:00:03
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/174962368170/book-review-tribe-of-mentors-by-tim-ferris
 tags:
 - Books
 - Pop Culture

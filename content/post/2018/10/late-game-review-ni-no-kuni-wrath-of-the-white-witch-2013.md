@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-13 01:00:15
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/178996306410/late-game-review-ni-no-kuni-wrath-of-the-white
 tags:
 - late-game-review
 - Review

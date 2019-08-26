@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-30 05:03:07
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/179578318360/anxiety
 title: Anxiety
 type: post
 url: /2018/10/anxiety/

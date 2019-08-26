@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BHvz7GjhAdJ/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/147271785415/pigeon-sketchdaily
 tags:
 - sketchdaily
 ---

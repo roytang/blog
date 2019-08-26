@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BEJhtfJMoBt/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/142746889375/joust-sketchdaily
 tags:
 - sketchdaily
 ---

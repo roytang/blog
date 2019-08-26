@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BN9s10PBpdU/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/154425145185/lost-garden-gnome-sketchdaily
 tags:
 - sketchdaily
 ---

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BIlDR0kBPoV/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/148311518335/augustus-sketchdaily
 tags:
 - sketchdaily
 ---

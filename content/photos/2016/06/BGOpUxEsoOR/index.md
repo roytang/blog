@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGOpUxEsoOR/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/145397715220/a-link-to-the-past-sketchdaily-zelda-beyondbidj
 tags:
 - sketchdaily
 - zelda

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-10-27 01:30:28
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152360039435/it-should-be-easy-right
 tags:
 - Software Development
 title: It Should Be Easy, Right?

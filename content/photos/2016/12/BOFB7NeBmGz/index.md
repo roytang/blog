@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BOFB7NeBmGz/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/154546180950/hood-sketchdaily
 tags:
 - sketchdaily
 ---

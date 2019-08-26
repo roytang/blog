@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-02-16 01:30:00
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/157295804435/integrating-open-source-libraries
 tags:
 - Software Development
 title: Integrating Open Source Libraries

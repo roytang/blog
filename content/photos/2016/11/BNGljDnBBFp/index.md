@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNGljDnBBFp/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153507422655/children-of-the-corn-sketchdaily
 tags:
 - sketchdaily
 ---

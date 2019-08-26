@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-06-05 01:30:42
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/161448834110/blogging-and-social-media
 tags:
 - blogging
 - social media

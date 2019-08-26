@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BC4TEIUsoK4/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/140949570295/just-a-quick-skeletor-today-sketchdaily-actually
 tags:
 - sketchdaily
 ---

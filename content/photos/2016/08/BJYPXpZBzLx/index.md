@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BJYPXpZBzLx/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149277300325/another-dog-sketchdaily-just-playing-around-with
 tags:
 - sketchdaily
 ---

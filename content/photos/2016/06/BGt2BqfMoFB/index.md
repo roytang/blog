@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGt2BqfMoFB/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146009754295/cola-sketchdaily
 tags:
 - sketchdaily
 ---

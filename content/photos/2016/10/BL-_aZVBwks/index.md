@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BL-_aZVBwks/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152289369140/picasso-sketchdaily-inktober-i-shouldve-done-a
 tags:
 - sketchdaily
 - inktober

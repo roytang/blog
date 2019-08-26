@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-01-01 05:30:04
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155236616630/new-years-checklist
 tags:
 - Opinions
 - Self-Improvement

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BI81okKh2Ww/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/148766917315/could-have-sworn-i-also-had-a-copy-of-colour-of
 tags:
 - discworld
 ---

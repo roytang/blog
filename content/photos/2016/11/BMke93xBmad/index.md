@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BMke93xBmad/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152920314360/at-home-drawing-pictures-of-mountain-tops-with
 tags:
 - sketchdaily
 ---

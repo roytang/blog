@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BJj6QXDDlw-/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149497725795/psylocke-sketchdaily-marvel-face-needs-work-and
 tags:
 - sketchdaily
 - marvel

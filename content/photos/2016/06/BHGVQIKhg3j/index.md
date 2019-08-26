@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BHGVQIKhg3j/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146478517075/farmers-market-sketchdaily
 tags:
 - sketchdaily
 ---

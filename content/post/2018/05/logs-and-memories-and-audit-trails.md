@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-05-25 01:00:01
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/174228687020/logs-and-memories-and-audit-trails
 tags:
 - Tech Life
 title: Logs and Memories and Audit Trails

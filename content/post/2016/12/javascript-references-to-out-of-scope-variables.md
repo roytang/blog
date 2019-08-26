@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-12-01 01:30:53
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153885002880/javascript-references-to-out-of-scope-variables
 tags:
 - javascript
 - Software Development

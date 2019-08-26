@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-06-20 01:30:08
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/162027355450/a-bus-ride-in-metro-manila
 tags:
 - Philippines
 title: A Bus Ride in Metro Manila

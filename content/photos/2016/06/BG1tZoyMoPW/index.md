@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BG1tZoyMoPW/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146156244130/i-literally-had-trouble-with-this-one-sketchdaily
 tags:
 - sketchdaily
 ---

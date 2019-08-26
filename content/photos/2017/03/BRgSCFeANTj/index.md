@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BRgSCFeANTj/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158272668645/some-kid-sketchdaily-paperbyfiftythree
 tags:
 - sketchdaily
 - paperbyfiftythree

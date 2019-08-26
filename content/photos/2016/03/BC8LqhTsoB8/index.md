@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BC8LqhTsoB8/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/141036770055/happy-birthday-albert-einstein-sketchdaily
 tags:
 - sketchdaily
 ---

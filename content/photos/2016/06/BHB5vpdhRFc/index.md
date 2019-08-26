@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BHB5vpdhRFc/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/146396964415/emperor-thaurissan-sketchdaily-hearthstone
 tags:
 - sketchdaily
 - hearthstone

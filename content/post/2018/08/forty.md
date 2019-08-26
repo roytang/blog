@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-08-09 02:02:51
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/176790437145/forty
 tags:
 - birthday
 title: Forty

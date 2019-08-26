@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGAo-xUsoNH/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/145125759050/struck-down-sketchdaily
 tags:
 - sketchdaily
 ---

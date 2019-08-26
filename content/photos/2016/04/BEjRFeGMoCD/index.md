@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BEjRFeGMoCD/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/143275562805/some-quick-figure-drawing-practice-sketchdaily
 tags:
 - sketchdaily
 ---

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BMXuboiBMPQ/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152709651935/treehouse-sketchdaily
 tags:
 - sketchdaily
 ---

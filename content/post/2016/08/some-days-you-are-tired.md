@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-08-30 01:30:49
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149677785905/some-days-you-are-tired
 title: Some days you are tired
 type: post
 url: /2016/08/some-days-you-are-tired/

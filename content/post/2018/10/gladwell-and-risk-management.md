@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-25 13:00:02
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/179418119885/gladwell-and-risk-management
 tags:
 - risk-management
 - Software Development

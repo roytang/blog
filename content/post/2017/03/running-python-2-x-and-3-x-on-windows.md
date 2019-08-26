@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-03-02 01:30:38
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/157884428980/running-python-2x-and-3x-on-windows
 tags:
 - python
 - Software Development

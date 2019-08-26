@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNmeuSOh-JP/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/154033896615/snowfall-sketchdaily
 tags:
 - sketchdaily
 ---

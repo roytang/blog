@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BESXS_LsoNj/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/142931247375/booster-gold-sketchdaily
 tags:
 - sketchdaily
 ---

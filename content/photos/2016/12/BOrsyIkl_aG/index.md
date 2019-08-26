@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BOrsyIkl_aG/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155206406285/happy-new-year-sketchdaily
 tags:
 - sketchdaily
 ---

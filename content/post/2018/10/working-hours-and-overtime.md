@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-19 01:00:22
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/179195990370/working-hours-and-overtime
 tags:
 - Gaming
 - Software Development

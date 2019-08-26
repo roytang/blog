@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BDOWa-1soHA/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/141440271775/power-man-and-iron-fist-sketchdaily
 tags:
 - sketchdaily
 ---

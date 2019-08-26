@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BEUuKbKsoK0/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/142983080250/cigarette-smoking-man-sketchdaily
 tags:
 - sketchdaily
 ---

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-29 05:02:53
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/179544983725/october-2018-watching-lately
 tags:
 - Movies
 - Review

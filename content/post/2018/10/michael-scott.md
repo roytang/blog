@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-26 03:00:01
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/179438414995/michael-scott
 tags:
 - TV Series
 - Pop Culture

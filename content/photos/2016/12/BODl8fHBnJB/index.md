@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BODl8fHBnJB/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/154524618500/pig-and-duck-sketchdaily
 tags:
 - sketchdaily
 ---

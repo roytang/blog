@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BEu2hTXMoC_/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/143518757950/tormented-gate-stone-golem-from-darksiders
 tags:
 - sketchdaily
 ---

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-01-24 01:30:20
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/156288896135/notes-on-decision-making
 tags:
 - Opinions
 title: Notes on Decision Making

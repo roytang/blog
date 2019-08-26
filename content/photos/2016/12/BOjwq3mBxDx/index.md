@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BOjwq3mBxDx/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155066845145/hyena-sketchdaily
 tags:
 - sketchdaily
 ---

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BMgj70xBchH/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152853355395/lord-of-the-rings-sketchdaily
 tags:
 - sketchdaily
 ---

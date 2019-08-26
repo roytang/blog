@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-10-06 01:30:27
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151405943800/a-programmers-hubris
 tags:
 - Software Development
 title: A Programmer's Hubris

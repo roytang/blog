@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-11-24 01:30:31
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153581662850/your-product-should-be-easy-to-install
 tags:
 - Software Development
 title: Your Product Should Be Easy to Install

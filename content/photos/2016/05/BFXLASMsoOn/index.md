@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BFXLASMsoOn/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/144313454460/super-rough-sketchdaily-of-jaina-proudmoore
 tags:
 - sketchdaily
 ---

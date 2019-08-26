@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGZqetSsoLY/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/145615298125/natsu-sketchdaily-fairytail
 tags:
 - sketchdaily
 - fairytail

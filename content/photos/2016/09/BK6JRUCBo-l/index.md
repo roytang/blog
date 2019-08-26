@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BK6JRUCBo-l/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151061293345/leonardo-sketchdaily
 tags:
 - sketchdaily
 ---

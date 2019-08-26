@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-23 01:00:35
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/179331792540/capitalism
 tags:
 - philosophy
 - Opinions

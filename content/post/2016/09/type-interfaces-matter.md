@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-09-29 01:30:42
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151079461050/type-interfaces-matter
 tags:
 - Software Development
 title: Type Interfaces Matter

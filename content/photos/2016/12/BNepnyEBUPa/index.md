@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNepnyEBUPa/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153906454390/boxer-sketchdaily
 tags:
 - sketchdaily
 ---

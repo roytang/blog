@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-10-21 01:00:34
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/179261105400/the-qc-memorial-circle
 tags:
 - Philippines
 title: The QC Memorial Circle

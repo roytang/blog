@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BFg1t9oMoBX/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/144505818725/ducks-bathe-together-sketchdaily
 tags:
 - sketchdaily
 ---

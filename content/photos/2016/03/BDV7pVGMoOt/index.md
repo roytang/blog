@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BDV7pVGMoOt/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/141609488050/sushi-go-sketchdaily-sketchbookpro-note
 tags:
 - sketchdaily
 - sketchbookpro

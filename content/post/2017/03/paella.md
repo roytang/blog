@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-03-28 01:30:09
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158914820230/paella
 tags:
 - Travels
 title: Paella

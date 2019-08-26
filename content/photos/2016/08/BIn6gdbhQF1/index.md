@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BIn6gdbhQF1/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/148369308920/dude-thats-not-a-pokemon-sketchdaily
 tags:
 - sketchdaily
 ---

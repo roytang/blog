@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BHtXQ5nhtQi/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/147223807120/rainbow-lorikeet-sketchdaily
 tags:
 - sketchdaily
 ---

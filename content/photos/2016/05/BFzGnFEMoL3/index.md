@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BFzGnFEMoL3/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/144864560145/tracer-sketchdaily-overwatch
 tags:
 - sketchdaily
 - overwatch

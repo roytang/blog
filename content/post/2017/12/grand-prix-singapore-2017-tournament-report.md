@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-12-23 01:00:35
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/168840859090/grand-prix-singapore-2017-tournament-report
 tags:
 - grand-prix
 - Limited

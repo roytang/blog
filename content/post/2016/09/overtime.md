@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-09-15 01:30:48
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/150425629585/overtime
 tags:
 - Software Development
 title: Overtime

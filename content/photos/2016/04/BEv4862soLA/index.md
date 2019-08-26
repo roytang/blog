@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BEv4862soLA/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/143533983245/lucina-whose-head-looks-a-bit-too-big
 tags:
 - sketchdaily
 ---

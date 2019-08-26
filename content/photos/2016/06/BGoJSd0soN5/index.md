@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGoJSd0soN5/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/145900890525/penguins-wait-what-sketchdaily
 tags:
 - sketchdaily
 ---

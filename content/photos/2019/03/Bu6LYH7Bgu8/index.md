@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/Bu6LYH7Bgu8/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/183402270925/i-have-this-sneaking-suspicion-that-i-might-be
 tags:
 - mtg
 - dice

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-06-29 01:30:34
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/162378129730/software-development-and-government
 tags:
 - Philippines
 - Software Development

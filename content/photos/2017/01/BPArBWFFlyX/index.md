@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BPArBWFFlyX/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/155580268935/dottergnan-sketchdaily
 tags:
 - sketchdaily
 ---

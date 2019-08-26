@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-11-08 01:30:12
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152879119345/whatever-doesnt-kill-you-only-makes-you-stronger
 tags:
 - Opinions
 title: Whatever Doesn't Kill You Only Makes You Stronger

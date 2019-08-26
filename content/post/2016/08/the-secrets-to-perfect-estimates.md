@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-08-25 01:30:43
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149440457605/the-secrets-to-perfect-estimates
 tags:
 - Software Development
 title: The Secrets to Perfect Estimates

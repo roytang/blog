@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BIQCeM9BA2J/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/147898852950/youre-free-now-legolas-sketchdaily
 tags:
 - sketchdaily
 ---

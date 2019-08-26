@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-04-06 01:30:33
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/159248321940/marklogic-nosql
 tags:
 - Software Development
 title: MarkLogic NoSQL

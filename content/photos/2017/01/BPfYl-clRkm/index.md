@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BPfYl-clRkm/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/156125225240/superdog-vs-inkredibuldog-sketchdaily-a
 tags:
 - sketchdaily
 ---

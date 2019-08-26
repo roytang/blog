@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BLno7pPhbAO/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151876931020/riding-through-the-rain-sketchdaily-inktober
 tags:
 - sketchdaily
 - inktober

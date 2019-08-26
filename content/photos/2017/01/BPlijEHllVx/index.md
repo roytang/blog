@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BPlijEHllVx/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/156239289180/theres-a-new-kind-of-criminal-in-gotham
 tags:
 - sketchdaily
 ---

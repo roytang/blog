@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BLYZtOJhpya/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151607598370/jump-sketchdaily-inktober
 tags:
 - sketchdaily
 - inktober

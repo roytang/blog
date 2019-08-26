@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-03-18 01:30:41
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158531276530/review-final-fantasy-xv
 tags:
 - Review
 - Gaming

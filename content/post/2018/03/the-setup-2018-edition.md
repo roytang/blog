@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-03-15 01:00:18
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/171882327160/the-setup-2018-edition
 tags:
 - Gaming
 - Software Development

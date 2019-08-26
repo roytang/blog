@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BPfJLSglTyX/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/156121793975/my-first-published-artwork-in-pilipino-funny
 tags: []
 ---
 

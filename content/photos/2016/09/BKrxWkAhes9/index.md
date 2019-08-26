@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BKrxWkAhes9/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/150803029840/presidential-spokesperson-sketchdaily
 tags:
 - sketchdaily
 - philippines

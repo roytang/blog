@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BRGneFtAdRM/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/157867532855/some-kind-of-possum-having-coffee-for-some-reason
 tags:
 - sketchdaily
 ---

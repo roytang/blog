@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BRS7RnUAGwv/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158064550330/wilma-sketchdaily
 tags:
 - sketchdaily
 ---

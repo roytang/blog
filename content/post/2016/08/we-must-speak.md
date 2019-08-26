@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-08-20 01:18:40
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/149200161460/we-must-speak
 tags:
 - Opinions
 - Philippines

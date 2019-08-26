@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-09-08 01:30:02
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/150100376215/will-ai-replace-all-our-jobs
 tags:
 - Software Development
 title: Will AI replace all our jobs?

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNHNbVPhBca/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/153514265965/meat-sketchdaily
 tags:
 - sketchdaily
 ---

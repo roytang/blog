@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BDujVWmMoB0/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/142162879135/just-a-quick-flash-sketchdaily
 tags:
 - sketchdaily
 ---

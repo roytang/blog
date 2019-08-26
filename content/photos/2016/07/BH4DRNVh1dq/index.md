@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BH4DRNVh1dq/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/147438157720/hawkman-sketchdaily-capping-off-bird-week
 tags:
 - sketchdaily
 ---

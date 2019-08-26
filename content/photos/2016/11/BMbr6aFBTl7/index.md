@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BMbr6aFBTl7/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152769059565/bonus-sketch-taco-belldandy-sketchdaily
 tags:
 - sketchdaily
 ---

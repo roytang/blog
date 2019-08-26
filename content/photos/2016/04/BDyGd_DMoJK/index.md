@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BDyGd_DMoJK/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/142240478015/wheee-mtg-modern
 tags:
 - mtg
 - modern

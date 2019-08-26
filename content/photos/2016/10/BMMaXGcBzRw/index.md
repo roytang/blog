@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BMMaXGcBzRw/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/152513603790/even-monks-listen-to-the-radio-sketchdaily
 tags:
 - sketchdaily
 - inktober

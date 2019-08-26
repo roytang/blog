@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-10-04 01:30:39
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151314825145/appearances-and-diplomacy
 tags:
 - Opinions
 - Philippines

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BZ3s2lwAwL5/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/166076754715/i-thought-id-try-to-catch-up-to-this-inktober
 tags:
 - inktober
 ---

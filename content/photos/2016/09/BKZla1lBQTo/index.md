@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BKZla1lBQTo/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/150472689720/the-killing-joke-sketchdaily
 tags:
 - sketchdaily
 ---

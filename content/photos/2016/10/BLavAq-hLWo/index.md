@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BLavAq-hLWo/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151652871260/magic-carpet-ride-sketchdaily-inktober
 tags:
 - sketchdaily
 - inktober

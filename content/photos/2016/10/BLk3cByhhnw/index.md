@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BLk3cByhhnw/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/151828860470/turnip-head-sketchdaily-inktober
 tags:
 - sketchdaily
 - inktober

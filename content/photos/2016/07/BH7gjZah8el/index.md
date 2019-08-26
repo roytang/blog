@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BH7gjZah8el/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/147500105420/quick-and-lazy-flamingo-sketchdaily-birdweek
 tags:
 - sketchdaily
 - birdweek

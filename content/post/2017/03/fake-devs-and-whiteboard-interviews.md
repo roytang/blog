@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2017-03-09 01:30:55
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/158171956790/fake-devs-and-whiteboard-interviews
 tags:
 - Software Development
 title: Fake Devs and Whiteboard Interviews
