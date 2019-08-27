@@ -340,6 +340,7 @@ def import_post(post):
                 #     }
                 # )
                 # return
+                pass
 
     reblogscount = reblogscount + 1
     unprocessed = unprocessed + 1
