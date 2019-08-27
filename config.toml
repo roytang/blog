@@ -13,7 +13,7 @@ disqusShortname = "roytangweblog"
 [taxonomies]
     tag = "tags"
     topic = "categories"
-    source = "sources"
+    source = "source"
 
 [author]
     name = "Roy Tang"
