@@ -12,7 +12,7 @@ import os
 import json
 import urllib.request
 from bs4 import BeautifulSoup
-
+from urllib.error import HTTPError
 from html.parser import HTMLParser
 
 class MyParser(HTMLParser):
@@ -71,7 +71,10 @@ def create_photo_post(p):
     if p["@is_reblog"]:
         kind = "reposts"
         # ugh this is going to slow us down
-        post['repost_source'] = get_repost_source(p["@url-with-slug"])
+        repost_source = get_repost_source(p["@url-with-slug"])
+        if not repost_source:
+            return # exception getting the url, let's just fail
+        post['repost_source'] = repost_source
 
     outdir = contentdir / kind / d.strftime("%Y") / d.strftime("%m") / id
     if not outdir.exists():
@@ -88,44 +91,61 @@ def create_photo_post(p):
         shutil.copy(str(imgfile), str(to_file))    
 
 def get_repost_source(url):
-    with urllib.request.urlopen(url) as fp:
-        mybytes = fp.read()
-        mystr = mybytes.decode("utf8")
-        soup = BeautifulSoup(mystr, "html.parser")
+    try:
+        with urllib.request.urlopen(url) as fp:
+            mybytes = fp.read()
+            mystr = mybytes.decode("utf8")
+            soup = BeautifulSoup(mystr, "html.parser")
 
-        # try the content_source first
-        divs = soup.findAll("div", {"class": "content_source"})
-        for div in divs:
-            a = div.a
-            return {
-                "type": "tumblr",
-                "name": a.text.replace("Source:", "").strip(),
-                "url": a['href']
-            }
-        
-        # next we try quotes_source
-        divs = soup.findAll("div", {"class": "cont"})
-        # we get the very last p
-        lastp = None
-        for div in divs:
-            for para in div.findAll("p"):
-                if para.text.find("(via ") >= 0:
-                    lastp = para
-        if lastp is not None:
-            a = lastp.a
-            return {
-                "type": "tumblr",
-                "name": a.text.strip(),
-                "url": a['href']
-            }
+            # look for "roytang reblogged this from"
+            lis = soup.findAll("li", {"class": "tumblelog_roytang"})
+            for li in lis:
+                anchors = li.findAll("a", {"class", "source_tumblelog"})
+                for anchor in anchors:
+                    return {
+                        "type": "tumblr",
+                        "name": anchor.text.strip(),
+                        "url": anchor['href']
+                    }
+
+            # try the content_source first
+            divs = soup.findAll("div", {"class": "content_source"})
+            for div in divs:
+                a = div.a
+                return {
+                    "type": "tumblr",
+                    "name": a.text.replace("Source:", "").strip(),
+                    "url": a['href']
+                }
             
-        # default!
-        print("##### Couldnt find source, using default %s" % (url))
-        return {
-            "type": "tumblr",
-            "name": "tumlbr",
-            "url": url
-        }
+            # next we try quotes_source
+            divs = soup.findAll("div", {"class": "cont"})
+            # we get the very last p
+            lastp = None
+            for div in divs:
+                for para in div.findAll("p"):
+                    if para.text.find("(via ") >= 0:
+                        lastp = para
+            if lastp is not None:
+                a = lastp.a
+                return {
+                    "type": "tumblr",
+                    "name": a.text.strip(),
+                    "url": a['href']
+                }
+
+    except HTTPError as e:
+        print("Error fetching the URL")
+        print(e)
+        return False # bad practice!
+            
+    # default!
+    print("##### Couldnt find source, using default %s" % (url))
+    return {
+        "type": "tumblr",
+        "name": "tumlbr",
+        "url": url
+    }
 
 
 def create_post(p, kind, content, params):
@@ -141,7 +161,10 @@ def create_post(p, kind, content, params):
     if p["@is_reblog"]:
         kind = "reposts"
         # ugh this is going to slow us down
-        post['repost_source'] = get_repost_source(p["@url-with-slug"])
+        repost_source = get_repost_source(p["@url-with-slug"])
+        if not repost_source:
+            return # exception getting the url, let's just fail
+        post['repost_source'] = repost_source
 
     tags = p.get("tag", [])
     if not isinstance(tags, list):
@@ -289,7 +312,7 @@ def import_post(post):
 
         create_photo_post(post)
         return
-        
+
     reblogscount = reblogscount + 1
     unprocessed = unprocessed + 1
     if ptype not in countbytype:
