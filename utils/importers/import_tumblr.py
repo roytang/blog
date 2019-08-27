@@ -10,6 +10,8 @@ import urllib
 import shutil
 import os
 import json
+import urllib.request
+from bs4 import BeautifulSoup
 
 from html.parser import HTMLParser
 
@@ -91,6 +93,53 @@ def create_post(p, kind, content, params):
             "url": p["@url-with-slug"]
         }
     ]
+    if p["@is_reblog"]:
+        kind = "reposts"
+        # ugh this is going to slow us down
+        with urllib.request.urlopen(p["@url-with-slug"]) as fp:
+            mybytes = fp.read()
+            mystr = mybytes.decode("utf8")
+            soup = BeautifulSoup(mystr, "html.parser")
+
+            # try the content_source first
+            divs = soup.findAll("div", {"class": "content_source"})
+            found = False
+            for div in divs:
+                a = div.a
+                post["repost_source"] = {
+                    "type": "tumblr",
+                    "name": a.text.replace("Source:", "").strip(),
+                    "url": a['href']
+                }
+                found = True
+            
+            if not found:
+                # next we try quotes_source
+                divs = soup.findAll("div", {"class": "cont"})
+                # we get the very last p
+                lastp = None
+                for div in divs:
+                    for para in div.findAll("p"):
+                        if para.text.find("(via ") >= 0:
+                            lastp = para
+                if lastp is not None:
+                    a = lastp.a
+                    post["repost_source"] = {
+                        "type": "tumblr",
+                        "name": a.text.strip(),
+                        "url": a['href']
+                    }
+                    found = True
+                
+            if not found:
+                # default!
+                print("##### Couldnt find source, using default %s" % (p["@url-with-slug"]))
+                post["repost_source"] = {
+                    "type": "tumblr",
+                    "name": "tumlbr",
+                    "url": p["@url-with-slug"]
+                }
+
 
     tags = p.get("tag", [])
     if not isinstance(tags, list):
@@ -170,9 +219,33 @@ def import_post(post):
 
     ptype = post['@type']
 
-    if post['@is_reblog'] == 'true':
-        reblogscount = reblogscount + 1
+    if post['@is_reblog'] != 'true':
         return
+
+    if ptype == 'regular':
+        if 'regular-title' in post:
+            create_post(post, "post", post.get('regular-body', ''), { 'title': post.get('regular-title', '') })
+            return
+        else:
+            create_post(post, "notes", post.get('regular-body', ''), {})
+            return
+
+    if ptype == 'quote':
+        caption = "<blockquote>%s</blockquote>" % (post['quote-text'])
+        source = post.get('quote-source', '')
+        if len(source) > 0:
+            caption = caption + ("\n\r--%s" % (source))
+        create_post(post, "notes", caption, {"tags": ["quotes"]})
+        return
+
+    reblogscount = reblogscount + 1
+    unprocessed = unprocessed + 1
+    if ptype not in countbytype:
+        countbytype[ptype] = 1
+    else:
+        countbytype[ptype] = countbytype[ptype] + 1
+
+    return
 
     if ptype == 'video':
         player = post['video-player'][0]
@@ -251,29 +324,6 @@ def import_post(post):
                 #     }
                 # )
                 return
-
-    if ptype == 'regular':
-        if 'regular-title' in post:
-            create_post(post, "post", post.get('regular-body', ''), { 'title': post.get('regular-title', '') })
-            return
-        else:
-            create_post(post, "notes", post.get('regular-body', ''), {})
-            return
-
-    if ptype == 'quote':
-        caption = "<blockquote>%s</blockquote>" % (post['quote-text'])
-        source = post.get('quote-source', '')
-        if len(source) > 0:
-            caption = caption + ("\n\r--%s" % (source))
-        create_post(post, "notes", caption, {"tags": ["quotes"]})
-        return
-
-    unprocessed = unprocessed + 1
-    if ptype not in countbytype:
-        countbytype[ptype] = 1
-    else:
-        countbytype[ptype] = countbytype[ptype] + 1
-
 
 with postsfile.open(encoding="UTF-8") as fd:
     doc = xmltodict.parse(fd.read())
