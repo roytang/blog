@@ -68,6 +68,11 @@ def create_photo_post(p):
         post["photo_link_url"] = p["photo-link-url"]
     id = p["@id"]
 
+    if p["@is_reblog"]:
+        kind = "reposts"
+        # ugh this is going to slow us down
+        post['repost_source'] = get_repost_source(p["@url-with-slug"])
+
     outdir = contentdir / kind / d.strftime("%Y") / d.strftime("%m") / id
     if not outdir.exists():
         outdir.mkdir(parents=True)
@@ -81,6 +86,46 @@ def create_photo_post(p):
     for imgfile in mediadir.glob(id + "*.*"):
         to_file = outdir / imgfile.name
         shutil.copy(str(imgfile), str(to_file))    
+
+def get_repost_source(url):
+    with urllib.request.urlopen(url) as fp:
+        mybytes = fp.read()
+        mystr = mybytes.decode("utf8")
+        soup = BeautifulSoup(mystr, "html.parser")
+
+        # try the content_source first
+        divs = soup.findAll("div", {"class": "content_source"})
+        for div in divs:
+            a = div.a
+            return {
+                "type": "tumblr",
+                "name": a.text.replace("Source:", "").strip(),
+                "url": a['href']
+            }
+        
+        # next we try quotes_source
+        divs = soup.findAll("div", {"class": "cont"})
+        # we get the very last p
+        lastp = None
+        for div in divs:
+            for para in div.findAll("p"):
+                if para.text.find("(via ") >= 0:
+                    lastp = para
+        if lastp is not None:
+            a = lastp.a
+            return {
+                "type": "tumblr",
+                "name": a.text.strip(),
+                "url": a['href']
+            }
+            
+        # default!
+        print("##### Couldnt find source, using default %s" % (url))
+        return {
+            "type": "tumblr",
+            "name": "tumlbr",
+            "url": url
+        }
 
 
 def create_post(p, kind, content, params):
@@ -96,50 +141,7 @@ def create_post(p, kind, content, params):
     if p["@is_reblog"]:
         kind = "reposts"
         # ugh this is going to slow us down
-        with urllib.request.urlopen(p["@url-with-slug"]) as fp:
-            mybytes = fp.read()
-            mystr = mybytes.decode("utf8")
-            soup = BeautifulSoup(mystr, "html.parser")
-
-            # try the content_source first
-            divs = soup.findAll("div", {"class": "content_source"})
-            found = False
-            for div in divs:
-                a = div.a
-                post["repost_source"] = {
-                    "type": "tumblr",
-                    "name": a.text.replace("Source:", "").strip(),
-                    "url": a['href']
-                }
-                found = True
-            
-            if not found:
-                # next we try quotes_source
-                divs = soup.findAll("div", {"class": "cont"})
-                # we get the very last p
-                lastp = None
-                for div in divs:
-                    for para in div.findAll("p"):
-                        if para.text.find("(via ") >= 0:
-                            lastp = para
-                if lastp is not None:
-                    a = lastp.a
-                    post["repost_source"] = {
-                        "type": "tumblr",
-                        "name": a.text.strip(),
-                        "url": a['href']
-                    }
-                    found = True
-                
-            if not found:
-                # default!
-                print("##### Couldnt find source, using default %s" % (p["@url-with-slug"]))
-                post["repost_source"] = {
-                    "type": "tumblr",
-                    "name": "tumlbr",
-                    "url": p["@url-with-slug"]
-                }
-
+        post['repost_source'] = get_repost_source(p["@url-with-slug"])
 
     tags = p.get("tag", [])
     if not isinstance(tags, list):
@@ -238,15 +240,6 @@ def import_post(post):
         create_post(post, "notes", caption, {"tags": ["quotes"]})
         return
 
-    reblogscount = reblogscount + 1
-    unprocessed = unprocessed + 1
-    if ptype not in countbytype:
-        countbytype[ptype] = 1
-    else:
-        countbytype[ptype] = countbytype[ptype] + 1
-
-    return
-
     if ptype == 'video':
         player = post['video-player'][0]
         if player is not None and player != "None":
@@ -256,11 +249,6 @@ def import_post(post):
             v = parse_qs(u.query)['v'][0]
             caption = "%s\n\r{{< youtube %s >}}" % (post['video-caption'], v)
         create_post(post, "notes", caption, {"tags": ["video"]})
-        return
-
-    if ptype == 'answer':
-        caption = "Someone on Tumblr asked:\n\r<blockquote>%s</blockquote>\n\r%s" % (post['question'], post['answer'])
-        create_post(post, "notes", caption, {"tags": ["answers"]})
         return
 
     if ptype == 'photo':
@@ -300,6 +288,20 @@ def import_post(post):
                             return
 
         create_photo_post(post)
+        return
+        
+    reblogscount = reblogscount + 1
+    unprocessed = unprocessed + 1
+    if ptype not in countbytype:
+        countbytype[ptype] = 1
+    else:
+        countbytype[ptype] = countbytype[ptype] + 1
+
+    return
+
+    if ptype == 'answer':
+        caption = "Someone on Tumblr asked:\n\r<blockquote>%s</blockquote>\n\r%s" % (post['question'], post['answer'])
+        create_post(post, "notes", caption, {"tags": ["answers"]})
         return
 
     if ptype == 'link':
