@@ -313,15 +313,6 @@ def import_post(post):
         create_photo_post(post)
         return
 
-    reblogscount = reblogscount + 1
-    unprocessed = unprocessed + 1
-    if ptype not in countbytype:
-        countbytype[ptype] = 1
-    else:
-        countbytype[ptype] = countbytype[ptype] + 1
-
-    return
-
     if ptype == 'answer':
         caption = "Someone on Tumblr asked:\n\r<blockquote>%s</blockquote>\n\r%s" % (post['question'], post['answer'])
         create_post(post, "notes", caption, {"tags": ["answers"]})
@@ -348,7 +339,14 @@ def import_post(post):
                 #         "link-text": post.get('link-text', '')
                 #     }
                 # )
-                return
+                # return
+
+    reblogscount = reblogscount + 1
+    unprocessed = unprocessed + 1
+    if ptype not in countbytype:
+        countbytype[ptype] = 1
+    else:
+        countbytype[ptype] = countbytype[ptype] + 1
 
 with postsfile.open(encoding="UTF-8") as fd:
     doc = xmltodict.parse(fd.read())
