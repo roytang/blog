@@ -6,13 +6,13 @@ import frontmatter
 from pathlib import Path
 from datetime import datetime
 from urllib.parse import urlparse, parse_qs
+from urllib.error import HTTPError
 import urllib
 import shutil
 import os
 import json
 import urllib.request
 from bs4 import BeautifulSoup
-from urllib.error import HTTPError
 from html.parser import HTMLParser
 
 class MyParser(HTMLParser):
@@ -68,7 +68,7 @@ def create_photo_post(p):
         post["photo_link_url"] = p["photo-link-url"]
     id = p["@id"]
 
-    if p["@is_reblog"]:
+    if p["@is_reblog"] == 'true':
         kind = "reposts"
         # ugh this is going to slow us down
         repost_source = get_repost_source(p["@url-with-slug"])
@@ -158,7 +158,7 @@ def create_post(p, kind, content, params):
             "url": p["@url-with-slug"]
         }
     ]
-    if p["@is_reblog"]:
+    if p["@is_reblog"] == 'true':
         kind = "reposts"
         # ugh this is going to slow us down
         repost_source = get_repost_source(p["@url-with-slug"])
@@ -244,8 +244,8 @@ def import_post(post):
 
     ptype = post['@type']
 
-    if post['@is_reblog'] != 'true':
-        return
+    # if post['@is_reblog'] != 'true':
+    #     return
 
     if ptype == 'regular':
         if 'regular-title' in post:
@@ -329,18 +329,24 @@ def import_post(post):
             return
         else:
             if 'link-url' in post:
-                # print('link: %s :: %s' % (post['link-url'], post['@url-with-slug']) )
-                # create_post(
-                #     post,
-                #     "links",
-                #     post.get('link-description', ''),
-                #     {
-                #         "link-url": post.get('link-url', ''),
-                #         "link-text": post.get('link-text', '')
-                #     }
-                # )
-                # return
-                pass
+                print('link: %s :: %s' % (post['link-url'], post['@url-with-slug']) )
+                caption = post.get('link-description', '')
+                if post["@is_reblog"] == 'true':
+                    caption = ('[%s](%s)\n\r' % (post.get('link-text'), post.get('link-url'))) + caption
+                create_post(
+                    post,
+                    "links",
+                    caption,
+                    {
+                        "link": {
+                            "url": post.get('link-url', ''),
+                            "text": post.get('link-text', ''),
+                            "source": "tumblr",
+                            "source_url": post['@url-with-slug']
+                        }
+                    }
+                )
+                return
 
     reblogscount = reblogscount + 1
     unprocessed = unprocessed + 1
