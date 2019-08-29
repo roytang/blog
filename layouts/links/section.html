@@ -1,0 +1,17 @@
+{{ partial "head" . }}
+<article id="main-content" class="container main_content single">
+<h3>Links Archive</h3>
+<em>Links shared from various places. I'll organize them someday.</em>
+
+{{ range (where .Site.RegularPages "Section" "links").GroupByDate "2006 January" }}
+<h3>{{ .Key }}</h3>
+<ul>
+    {{ range where .Pages "Kind" "page" }}
+    <li><a href="{{ .Params.link.url }}">{{ .Params.link.text }}</a> <small>{{ .Date.Format "Mon, Jan 2, 2006" }}
+        via <a href="{{ .Params.link.source_url }}">{{ .Params.link.source }}</a></small></li>
+    {{ end }}
+</ul>
+{{ end }}
+
+</article>
+{{ partial "foot" . }}

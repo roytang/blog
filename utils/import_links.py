@@ -1,5 +1,8 @@
 from pathlib import Path
 import urllib.request
+import xmltodict
+from importers.pocket import create_post
+from datetime import datetime
 
 remote_url = "https://getpocket.com/users/hungryroy/feed/all"
 
@@ -12,9 +15,12 @@ def import_feed():
         mystr = mybytes.decode("utf8")
         fp.close()
 
-    cwd = Path.cwd() 
-    p = cwd / "content" / "links.xml"
-    with p.open("w", encoding="utf8") as f:
-        f.write(mystr)
+    items = xmltodict.parse(mystr)['rss']['channel']['item']
+    for a in items:
+        link_text = a['title']
+        link_url = a['link']
+        d = datetime.strptime(a['pubDate'], "%a, %d %b %Y %H:%M:%S %z")
+
+        create_post(d, link_text, link_url, overwrite=False)
 
 import_feed()

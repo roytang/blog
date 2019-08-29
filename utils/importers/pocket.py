@@ -20,14 +20,11 @@ contentdir = cwd / "content"
 
 from bs4 import BeautifulSoup
 
-def create_post(d, link_text, link_url):
+def create_post(d, link_text, link_url, overwrite=True):
     post = frontmatter.Post("")
     title = link_text
     post['title'] = title
     slug = slugify(title)
-    # if not title.startswith("http") and title.find(":") > 0:
-    #     title_parts = title.split(":")
-    #     slug = slugify(title_parts[0])
     post['slug'] = slug
     post['date'] = d
 
@@ -45,6 +42,10 @@ def create_post(d, link_text, link_url):
     if not outdir.exists():
         outdir.mkdir(parents=True)
     outfile = outdir / ( id + ".md" )
+
+    if outfile.exists() and not overwrite():
+        return
+
     newfile = frontmatter.dumps(post)
     with outfile.open("w", encoding="UTF-8") as w:
         w.write(newfile)
@@ -78,28 +79,29 @@ def get_link_title(url):
     # default
     return url            
 
-count = 0
-with source.open(encoding="UTF-8") as fd:
-    soup = BeautifulSoup(fd.read(), "html.parser")
-    rows = soup.find_all('a')
-    for row in rows:
-        link_text = row.text
-        d = datetime.utcfromtimestamp(int(row['time_added']))
-        link_url = row['href']
+def import_file():
+    count = 0
+    with source.open(encoding="UTF-8") as fd:
+        soup = BeautifulSoup(fd.read(), "html.parser")
+        rows = soup.find_all('a')
+        for row in rows:
+            link_text = row.text
+            d = datetime.utcfromtimestamp(int(row['time_added']))
+            link_url = row['href']
 
-        tags = row["tags"].split(",")
-        if 'ifttt' in tags:
-            continue
-        
-        if link_url.startswith("https://ifttt.com/missing_link"):
-            continue
+            tags = row["tags"].split(",")
+            if 'ifttt' in tags:
+                continue
+            
+            if link_url.startswith("https://ifttt.com/missing_link"):
+                continue
 
-        if link_url == link_text:
-            link_text = get_link_title(link_url)
+            if link_url == link_text:
+                link_text = get_link_title(link_url)
 
 
-        create_post(d, link_text, link_url)
+            create_post(d, link_text, link_url)
 
-        count = count + 1
+            count = count + 1
 
-print(count)
+    print(count)
