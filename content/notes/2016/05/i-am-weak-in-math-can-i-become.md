@@ -1,0 +1,14 @@
+---
+date: 2016-05-15 00:00:00
+slug: i-am-weak-in-math-can-i-become
+source: quora
+syndicated:
+- type: quora
+  url: https://www.quora.com/I-am-weak-in-math-can-I-become-a-software-engineer/answer/Roy-Tang
+tags:
+- answers
+---
+
+Someone on [quora]() asked:
+> [I am weak in math can I become a software engineer?](https://www.quora.com/I-am-weak-in-math-can-I-become-a-software-engineer/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It will be more difficult. It’s not really that you need specific types of math knowledge, but you need to have a certain problem-solving mindset.</p></span>
