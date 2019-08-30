@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-06-08 22:30:10
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/740673534859587585/
 tags:
 - Software Development
 title: The Programming Application Process

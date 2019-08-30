@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-12 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1116581926138040321/
 tags:
 - Links
 title: 'Recent Links: Black Holes, Stealth Wealth, Distinguished Engineers'

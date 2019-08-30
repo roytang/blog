@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BJt7tp3hVS6/
 - type: tumblr
   url: https://tumblr.roytang.net/post/149682410055/dance-like-nobodys-watching-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/770462677537792001/
 tags:
 - sketchdaily
 ---

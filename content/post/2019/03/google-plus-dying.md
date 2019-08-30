@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-26 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1110421951393210368/
 tags:
 - Tech Life
 title: Google Plus is dying

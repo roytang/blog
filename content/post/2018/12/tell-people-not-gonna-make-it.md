@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-14 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1073397515817545731/
 title: Tell people you're not going to make it
 type: post
 ---

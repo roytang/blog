@@ -5,6 +5,8 @@ date: 2016-09-13 01:30:19
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/150335483210/pain
+- type: twitter
+  url: https://twitter.com/roytang/statuses/775506904101552128/
 tags:
 - Nostalgia
 title: Pain

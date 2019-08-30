@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-29 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1090128433152176128/
 tags:
 - Tech Life
 title: Dark Mode

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-07-07 01:30:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/750868946899857409/
 tags:
 - Software Development
 title: 'Web Security: File Upload Vulnerabilities'

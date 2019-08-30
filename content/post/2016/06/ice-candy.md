@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-06-28 01:30:57
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/747604318648471554/
 tags:
 - Nostalgia
 title: Ice Candy

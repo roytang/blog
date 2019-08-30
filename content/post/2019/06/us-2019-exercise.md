@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2019-06-08 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1137726352528945153/
 tags:
 - travels
 - ustrip2019
-title: 'US 2019 - Tourist mode exercise'
+title: US 2019 - Tourist mode exercise
 type: post
 ---
 

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNhTUZdBit8/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/804713793888600064/
 tags:
 - bottleofwin
 ---

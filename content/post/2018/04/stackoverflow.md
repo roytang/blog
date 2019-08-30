@@ -5,6 +5,8 @@ date: 2018-04-29 01:00:36
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/173402418810/stackoverflow
+- type: twitter
+  url: https://twitter.com/roytang/statuses/990424748806017025/
 tags:
 - Software Development
 title: StackOverflow

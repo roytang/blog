@@ -5,6 +5,8 @@ date: 2017-03-02 01:30:38
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/157884428980/running-python-2x-and-3x-on-windows
+- type: twitter
+  url: https://twitter.com/roytang/statuses/837115319877533698/
 tags:
 - python
 - Software Development

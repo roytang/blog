@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-29 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1111509534542045185/
 tags:
 - Tech Life
 title: You can find your tribe, but others can too

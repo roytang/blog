@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/12973030333/bob-a-fett-mailbox-win
+- type: twitter
+  url: https://twitter.com/roytang/statuses/137589925137752064/
 ---
 
 <blockquote>

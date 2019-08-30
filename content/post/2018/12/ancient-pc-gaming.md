@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2018-12-09 01:56:56
 featuredImage: https://roytang.net/uploads/2018/rtk3kerwins.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1071587578023952384/
 tags:
 - Tech Life
 - Gaming

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-09 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1094114043743342592/
 tags:
 - blogging
 - Tech Life

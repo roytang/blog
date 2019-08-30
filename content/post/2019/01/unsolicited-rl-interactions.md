@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-22 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1087591721989492742/
 tags:
 - pet peeves
 title: Unsolicited real-life interactions

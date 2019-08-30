@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BPz25tRF_D9/
 - type: tumblr
   url: https://tumblr.roytang.net/post/156485797555/puss-in-boot-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/825339724097318912/
 tags:
 - sketchdaily
 ---

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-08 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1115133250240950272/
 tags:
 - quora
 title: How can I find my interests in life?

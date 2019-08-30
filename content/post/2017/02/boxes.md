@@ -5,6 +5,8 @@ date: 2017-02-28 01:30:33
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/157801807630/boxes
+- type: twitter
+  url: https://twitter.com/roytang/statuses/836389463391625216/
 tags:
 - Opinions
 title: Boxes

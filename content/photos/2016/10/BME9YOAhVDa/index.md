@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BME9YOAhVDa/
 - type: tumblr
   url: https://tumblr.roytang.net/post/152390093125/i-dont-give-a-hoot-sketchdaily-inktober
+- type: twitter
+  url: https://twitter.com/roytang/statuses/791717701525831680/
 tags:
 - sketchdaily
 - inktober

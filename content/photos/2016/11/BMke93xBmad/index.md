@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BMke93xBmad/
 - type: tumblr
   url: https://tumblr.roytang.net/post/152920314360/at-home-drawing-pictures-of-mountain-tops-with
+- type: twitter
+  url: https://twitter.com/roytang/statuses/796154426180378624/
 tags:
 - sketchdaily
 ---

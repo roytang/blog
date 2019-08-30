@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-03-13 05:56:56
 featuredImage: https://roytang.net/uploads/2019/naps.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1105710960919105536/
 title: Routines
 type: post
 ---

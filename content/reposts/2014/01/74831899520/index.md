@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/74831899520/hodor-hanknows-old-draft-from-george-rr
+- type: twitter
+  url: https://twitter.com/roytang/statuses/428171403058491392/
 ---
 
 <p>Hodor!</p>

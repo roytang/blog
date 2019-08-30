@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BT_oPVpAjIC/
 - type: tumblr
   url: https://tumblr.roytang.net/post/160584818855/x-men-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/863025128485117952/
 tags:
 - sketchdaily
 ---

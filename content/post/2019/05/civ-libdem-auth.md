@@ -1,12 +1,15 @@
 ---
 author: roy
-date: 2019-05-26T13:56:56+08:00
+date: 2019-05-26 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1132527472979992576/
 tags:
 - current events
 - politics
 - philippines
 - gaming
-title: "Civilization, Liberal Democracy, and Authoritarianism"
+title: Civilization, Liberal Democracy, and Authoritarianism
 type: post
 ---
 

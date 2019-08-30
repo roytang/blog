@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-05 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1114045781848285184/
 title: Take care of your teeth
 type: post
 ---

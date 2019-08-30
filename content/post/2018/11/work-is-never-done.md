@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-19 02:06:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1064353659406962688/
 tags:
 - burnout
 - Self-Improvement

@@ -5,6 +5,8 @@ date: 2017-12-28 01:00:38
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/169017917280/my-coding-approach
+- type: twitter
+  url: https://twitter.com/roytang/statuses/946186540031660032/
 tags:
 - Software Development
 title: My Coding Approach

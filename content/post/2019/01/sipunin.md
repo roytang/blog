@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-11 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1083605170523643904/
 title: Sipunin
 type: post
 ---

@@ -1,9 +1,12 @@
 ---
 author: roy
-date: 2019-05-03T13:56:56+08:00
+date: 2019-05-03 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1124192813946679297/
 tags:
 - blogging
-title: "Defy Categorization"
+title: Defy Categorization
 type: post
 ---
 

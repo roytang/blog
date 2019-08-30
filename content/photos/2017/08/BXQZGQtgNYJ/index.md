@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BXQZGQtgNYJ/
 - type: tumblr
   url: https://tumblr.roytang.net/post/163678900330/twinferno-transformers
+- type: twitter
+  url: https://twitter.com/roytang/statuses/892405987730231297/
 tags:
 - transformers
 ---

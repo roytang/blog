@@ -2,6 +2,9 @@
 categories: []
 date: 2018-11-15 02:00:21
 publishdate: 2018-11-15 02:00:21
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062906094404730881/
 tags:
 - Myself
 title: Sparketype

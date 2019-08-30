@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-16 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1085416546032328706/
 tags:
 - Self-Improvement
 title: Things that bring me joy

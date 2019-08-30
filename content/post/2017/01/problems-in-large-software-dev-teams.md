@@ -5,6 +5,8 @@ date: 2017-01-26 01:30:20
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/156378509465/problems-in-large-software-dev-teams
+- type: twitter
+  url: https://twitter.com/roytang/statuses/824431448748920836/
 tags:
 - Software Development
 title: Problems in Large Software Dev Teams

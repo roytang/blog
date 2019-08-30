@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-07 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1114771114977366016/
 title: Gratitude and wonder
 type: post
 ---

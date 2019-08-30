@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2018-12-18 01:56:56
 featuredImage: https://roytang.net/uploads/2018/mtgarena.png
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1074847827149365248/
 tags:
 - ccgs
 - Magic the Gathering

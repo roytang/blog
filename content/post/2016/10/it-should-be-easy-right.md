@@ -5,6 +5,8 @@ date: 2016-10-27 01:30:28
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/152360039435/it-should-be-easy-right
+- type: twitter
+  url: https://twitter.com/roytang/statuses/791452958550548480/
 tags:
 - Software Development
 title: It Should Be Easy, Right?

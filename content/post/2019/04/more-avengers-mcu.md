@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-28 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1122395872870969345/
 tags:
 - Pop Culture
 - Movies

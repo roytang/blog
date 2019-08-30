@@ -2,9 +2,12 @@
 author: roy
 categories: []
 date: 2019-07-16 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1151010066574843905/
 tags:
 - software development
-title: '10X Programmers'
+title: 10X Programmers
 type: post
 ---
 

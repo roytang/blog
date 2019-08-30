@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-12 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1105347991534297088/
 tags:
 - quora
 - Software Development

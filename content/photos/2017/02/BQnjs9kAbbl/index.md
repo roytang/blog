@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BQnjs9kAbbl/
 - type: tumblr
   url: https://tumblr.roytang.net/post/157358141290/spider-gwen-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/832615841413885952/
 tags:
 - sketchdaily
 ---

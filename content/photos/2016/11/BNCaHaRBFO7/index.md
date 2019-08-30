@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BNCaHaRBFO7/
 - type: tumblr
   url: https://tumblr.roytang.net/post/153430258670/supermoon-version-sketchdaily-the-other-one-felt
+- type: twitter
+  url: https://twitter.com/roytang/statuses/800365874259443713/
 tags:
 - sketchdaily
 ---

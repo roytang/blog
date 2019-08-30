@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-14 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1106073232011153408/
 title: Embarassment, Office Christmas Parties, and Singing Off-Key
 type: post
 ---

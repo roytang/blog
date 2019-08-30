@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-05 05:05:41
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1059311747746725888/
 tags:
 - Tech Life
 title: Responsiveness and Notifications

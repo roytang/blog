@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BTbZZLdlEho/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/857925931696099334/
 tags:
 - boardgamenight
 ---

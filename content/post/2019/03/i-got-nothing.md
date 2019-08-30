@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-07 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1103537378067734528/
 title: We can't be at our best all the time, otherwise it's not our best
 type: post
 ---

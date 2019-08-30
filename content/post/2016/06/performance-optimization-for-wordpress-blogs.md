@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-06-30 01:30:32
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/748331247005499392/
 tags:
 - wordpress
 - Software Development

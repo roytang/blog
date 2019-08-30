@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-06 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1103174123960893440/
 tags:
 - quotes
 title: Whatever doesn't kill you

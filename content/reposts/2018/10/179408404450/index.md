@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179408404450/idontevenhaveone-tahneetalks-fluffmugger
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1055330920578867201/
 ---
 
 <p><a href="http://idontevenhaveone.tumblr.com/post/179042751077/tahneetalks-fluffmugger-thetrippytrip-we" class="tumblr_blog">idontevenhaveone</a>:</p>

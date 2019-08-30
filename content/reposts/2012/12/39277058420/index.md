@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/39277058420/govph-plan-your-year-ahead-attached-is-the
+- type: twitter
+  url: https://twitter.com/roytang/statuses/285599867739467778/
 ---
 
 <p><a class="tumblr_blog" href="http://govph.tumblr.com/post/39269403346/plan-your-year-ahead-attached-is-the-list-of-2013">govph</a>:</p>

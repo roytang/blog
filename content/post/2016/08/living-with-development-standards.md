@@ -5,6 +5,8 @@ date: 2016-08-11 01:30:02
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/148766447685/living-with-development-standards
+- type: twitter
+  url: https://twitter.com/roytang/statuses/763551342354989056/
 tags:
 - Software Development
 title: Living With Development Standards

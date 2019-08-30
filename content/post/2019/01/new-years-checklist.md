@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-01 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1079939358118031361/
 tags:
 - Self-Improvement
 title: New Year's Checklist 2019

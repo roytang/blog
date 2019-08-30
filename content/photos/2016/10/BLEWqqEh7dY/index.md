@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BLEWqqEh7dY/
 - type: tumblr
   url: https://tumblr.roytang.net/post/151245188185/dobby-having-cake-sketchdaily-inktober
+- type: twitter
+  url: https://twitter.com/roytang/statuses/782625378808557568/
 tags:
 - sketchdaily
 - inktober

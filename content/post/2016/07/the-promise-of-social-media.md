@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-07-26 01:30:39
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/757753334505889793/
 tags:
 - Opinions
 title: The Promise of Social Media

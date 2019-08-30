@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-27 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1110784449678061569/
 tags:
 - Tech Life
 title: Export your social media data

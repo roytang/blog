@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-06 05:58:22
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1081793845480828928/
 tags:
 - Tech Life
 title: IFTTT

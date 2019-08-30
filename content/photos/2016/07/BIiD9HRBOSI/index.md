@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BIiD9HRBOSI/
 - type: tumblr
   url: https://tumblr.roytang.net/post/148250901610/the-letter-r-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/759784781362130944/
 tags:
 - sketchdaily
 ---

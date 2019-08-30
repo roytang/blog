@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-02-02 05:56:56
 featuredImage: https://roytang.net/uploads/2019/slaythespire.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1091578222427422721/
 tags:
 - Gaming
 title: 'Game Review: Slay the Spire'

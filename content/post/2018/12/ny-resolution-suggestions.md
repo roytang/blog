@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-31 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1079618734866776064/
 tags:
 - Self Improvement
 title: Suggested New Year's Resolutions

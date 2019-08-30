@@ -5,6 +5,8 @@ date: 2016-11-01 01:30:14
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/152578570115/feedback-loops
+- type: twitter
+  url: https://twitter.com/roytang/statuses/793265097091256320/
 tags:
 - Self-Improvement
 title: Feedback Loops

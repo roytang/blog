@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-06-06 22:30:57
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/739952883853086720/
 tags:
 - Opinions
 title: Immortality

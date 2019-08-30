@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/51566181350/uncannybrettwhite-pizza-party-tasm2-set-may
+- type: twitter
+  url: https://twitter.com/roytang/statuses/339415645768785921/
 ---
 
 <p><a class="tumblr_blog" href="http://uncannybrettwhite.tumblr.com/post/51563404234/pizza-party-tasm2-set-may-26-back-when-i-was">uncannybrettwhite</a>:</p>

@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BP-aJRFFLGN/
 - type: tumblr
   url: https://tumblr.roytang.net/post/156674192345/cyborg-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/826824600277352448/
 tags:
 - sketchdaily
 ---

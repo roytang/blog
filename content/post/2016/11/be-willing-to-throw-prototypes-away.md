@@ -5,6 +5,8 @@ date: 2016-11-10 01:30:09
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/152975317560/be-willing-to-throw-prototypes-away
+- type: twitter
+  url: https://twitter.com/roytang/statuses/796527659325030404/
 tags:
 - Software Development
 title: Be Willing To Throw Prototypes Away

@@ -5,6 +5,8 @@ date: 2018-06-16 01:00:49
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/174930816550/kuala-lumpur-and-the-mtg25a-rptq
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1007802329796632576/
 tags:
 - standard
 - tournament-report

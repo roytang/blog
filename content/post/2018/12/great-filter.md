@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-15 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1073761176033607681/
 tags:
 - Opinions
 title: The Great Filter

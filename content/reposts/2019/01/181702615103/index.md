@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/181702615103/bear1na-spider-man-and-gwen-stacy-spider-gwen
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1081097969221468161/
 ---
 
 <p><a href="http://bear1na.tumblr.com/post/180221575219/spider-man-and-gwen-stacy-spider-gwen-iron-fist" class="tumblr_blog">bear1na</a>:</p>

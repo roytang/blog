@@ -1,10 +1,13 @@
 ---
 author: roy
-date: 2019-05-08T13:56:56+08:00
+date: 2019-05-08 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1126035583355240448/
 tags:
 - books
 - pop culture
-title: "Wheel of Time: New Spring"
+title: 'Wheel of Time: New Spring'
 type: post
 ---
 

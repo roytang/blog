@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-06-01 22:31:10
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/738139596274335744/
 tags:
 - Software Development
 title: You Are Not Your Code

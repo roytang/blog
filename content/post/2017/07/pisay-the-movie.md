@@ -5,6 +5,8 @@ date: 2017-07-04 01:30:52
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/162571925985/pisay-the-movie
+- type: twitter
+  url: https://twitter.com/roytang/statuses/882050108887629825/
 tags:
 - Movies
 - Pop Culture

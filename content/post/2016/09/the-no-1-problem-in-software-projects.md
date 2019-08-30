@@ -5,6 +5,8 @@ date: 2016-09-01 01:30:06
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/149772492325/the-no-1-problem-in-software-projects
+- type: twitter
+  url: https://twitter.com/roytang/statuses/771158787684241408/
 tags:
 - Software Development
 title: The No. 1 Problem in Software Projects

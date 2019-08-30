@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BNzjAlPBJUI/
 - type: tumblr
   url: https://tumblr.roytang.net/post/154252606460/daredevil-sketchdaily-inspired-by-daredevil
+- type: twitter
+  url: https://twitter.com/roytang/statuses/807281568427413504/
 tags:
 - sketchdaily
 - '10'

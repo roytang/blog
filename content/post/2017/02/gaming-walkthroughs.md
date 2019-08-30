@@ -5,6 +5,8 @@ date: 2017-02-07 01:30:31
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/156913195500/gaming-walkthroughs
+- type: twitter
+  url: https://twitter.com/roytang/statuses/828778870916730887/
 tags:
 - Gaming
 title: Gaming Walkthroughs

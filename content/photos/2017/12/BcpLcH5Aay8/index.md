@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BcpLcH5Aay8/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/940930372455497728/
 tags:
 - starwars
 ---

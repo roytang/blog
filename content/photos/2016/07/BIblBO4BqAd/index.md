@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BIblBO4BqAd/
 - type: tumblr
   url: https://tumblr.roytang.net/post/148131931520/explosive-sorcery-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/758872295385346049/
 tags:
 - sketchdaily
 ---

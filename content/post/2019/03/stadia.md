@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-23 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1109349809981407232/
 tags:
 - stadia
 - Gaming

@@ -5,6 +5,8 @@ date: 2018-10-31 05:03:25
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179611484840/change-and-risk-and-governments
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1057499795806453761/
 tags:
 - Politics
 - Philippines

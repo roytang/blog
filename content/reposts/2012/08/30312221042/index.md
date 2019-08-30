@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/30312221042/no-idea-if-all-new-x-men-is-going-to-be-any-good
+- type: twitter
+  url: https://twitter.com/roytang/statuses/240064331558027264/
 ---
 
 <p>No idea if All New X-Men is going to be any good, but I really like the currently available preview cover.</p>

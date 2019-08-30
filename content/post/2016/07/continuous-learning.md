@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-07-05 01:30:50
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/750145895153410048/
 tags:
 - Opinions
 title: Continuous Learning

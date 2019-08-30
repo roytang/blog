@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BJu637Bh1oE/
 - type: tumblr
   url: https://tumblr.roytang.net/post/149697537400/a-convoy-of-perfectly-normal-earth-cars
+- type: twitter
+  url: https://twitter.com/roytang/statuses/770602971872845824/
 tags:
 - sketchdaily
 - transformers

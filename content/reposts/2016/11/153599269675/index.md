@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/153599269675/joshua-wright-i-have-no-idea-where-this-is
+- type: twitter
+  url: https://twitter.com/roytang/statuses/801771491914346496/
 ---
 
 <p><a href="http://joshua-wright.tumblr.com/post/153587074864/i-have-no-idea-where-this-is-going" class="tumblr_blog">joshua-wright</a>:</p><blockquote>

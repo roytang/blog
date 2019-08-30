@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BMfbI2rBFx4/
 - type: tumblr
   url: https://tumblr.roytang.net/post/152836595035/i-have-a-bunch-of-other-stuff-to-do-today-so-ill
+- type: twitter
+  url: https://twitter.com/roytang/statuses/795442314248388608/
 tags:
 - sketchdaily
 ---

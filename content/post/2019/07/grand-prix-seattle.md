@@ -2,12 +2,15 @@
 author: roy
 categories: []
 date: 2019-07-01 05:56:56
+featuredImage: https://i.imgur.com/Wi48Efw.png
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1145575114370629633/
 tags:
 - grand prix
 - limited
 - magic the gathering
-title: 'Grand Prix Seattle 2019'
-featuredImage: https://i.imgur.com/Wi48Efw.png
+title: Grand Prix Seattle 2019
 type: post
 ---
 
@@ -443,4 +446,3 @@ That was it for me playing Magic. I did enjoy the rest of the MagicFest though, 
 This is the 2nd time I've played a CFB GP, the first one was [GP London back in 2015](https://roytang.net/2015/08/grand-prix-london-2015/), but this is the first time since they've been given a monopoly on GPs worldwide. I will admit to being a bit annoyrd at the higher entry fees for the events, and the fact that the prize wall items seem to be more expensive now too. The GP playmat used to be complimentary with main event entry too, this time I had to pay a bit extra for it. I guess there are a lot of expenses, but the costs are discouraging me from considering travel to future GPs. Also, I miss that system by ChainLinks (who used to manage the SEA GPs) where they give each player a lanyard for the weekend which could be used to enter events and tracks your dci number and prize points. For this GP, they gave out physical cards to represent your prize points, and this almost got me in trouble because I accidentally left them at the AirBNB when I headed out on Sunday and had to double back to get them. CFB also had online pairings, but I wish they did that thing where you could subscribe to an FB messenger bot that would message you automatically with your pairings. They did have some nice tech usage like having restaurant-style buzzers for on-demand events though.
 
 After very time I do poorly at a GP, I ask myself whether I should quit playing Magic competitively. Or at least the travelling for GPs part. It is kind of a young man's game after all. Anyway, Magic Arena gives me a good outlet for playing Magic competitively without leaving the comfort of home, so that helps. But it's hard to say for sure, we'll see where the future takes us.
-

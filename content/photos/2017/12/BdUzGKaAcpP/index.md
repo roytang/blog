@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BdUzGKaAcpP/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/947069302926135296/
 tags:
 - zelda
 - botw

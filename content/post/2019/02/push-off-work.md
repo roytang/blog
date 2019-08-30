@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-28 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1101000203308593152/
 title: Push off work
 type: post
 ---

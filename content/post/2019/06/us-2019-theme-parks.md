@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2019-06-09 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1137726355976663041/
 tags:
 - travels
 - ustrip2019
-title: 'US 2019 - Theme parks'
+title: US 2019 - Theme parks
 type: post
 ---
 

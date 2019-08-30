@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-07-19 01:30:19
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/755213535005794304/
 tags:
 - Opinions
 title: Evolution of Society

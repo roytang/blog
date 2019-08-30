@@ -1,8 +1,11 @@
 ---
 author: roy
-date: 2019-05-05T13:56:56+08:00
-tags:
-title: "Tinkerers"
+date: 2019-05-05 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1124947652028837888/
+tags: null
+title: Tinkerers
 type: post
 ---
 

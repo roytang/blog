@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-05-18 23:55:55
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/733086300287471616/
 tags:
 - Gaming
 title: Stellaris (Review)

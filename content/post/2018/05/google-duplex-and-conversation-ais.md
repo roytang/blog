@@ -5,6 +5,8 @@ date: 2018-05-13 01:00:36
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/173847026285/google-duplex-and-conversation-ais
+- type: twitter
+  url: https://twitter.com/roytang/statuses/995495428085907457/
 tags:
 - Tech Life
 title: Google Duplex and Conversation AIs

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-04 05:04:28
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1058948073542557696/
 tags:
 - Tech Life
 title: Engagement algorithms encourage extreme/divisive views

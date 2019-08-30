@@ -4,6 +4,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/181926569205/bumblebee-spoiler-free-review-attached-image
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1083763561220976649/
 tags:
 - transformers
 - bumblebee

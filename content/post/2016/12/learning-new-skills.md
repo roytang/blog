@@ -5,6 +5,8 @@ date: 2016-12-20 01:30:19
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/154700481275/learning-new-skills
+- type: twitter
+  url: https://twitter.com/roytang/statuses/811021339221958656/
 tags:
 - Self-Improvement
 title: Learning New Skills

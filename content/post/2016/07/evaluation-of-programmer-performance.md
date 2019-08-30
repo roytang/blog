@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-07-28 01:30:03
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/758475409994514440/
 tags:
 - Software Development
 title: Evaluation of Programmer Performance

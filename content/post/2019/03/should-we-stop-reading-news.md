@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-31 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1112234013333303296/
 tags:
 - current events
 title: Should we stop reading the news?

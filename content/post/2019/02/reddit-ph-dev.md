@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-20 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1098101182524997632/
 tags:
 - reddit
 - Software Development

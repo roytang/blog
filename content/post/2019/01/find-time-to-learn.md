@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-14 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1084691902367178752/
 tags:
 - Software Development
 title: Finding Time to Learn new Things

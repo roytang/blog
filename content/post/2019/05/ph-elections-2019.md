@@ -1,11 +1,14 @@
 ---
 author: roy
-date: 2019-05-10T13:56:56+08:00
+date: 2019-05-10 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1126774487330869248/
 tags:
 - philippines
 - politics
 - current events
-title: "PH Elections 2019: Otso Diretso, Compromises, Lesser Evils"
+title: 'PH Elections 2019: Otso Diretso, Compromises, Lesser Evils'
 type: post
 ---
 

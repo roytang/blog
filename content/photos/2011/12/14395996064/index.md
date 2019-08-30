@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/14395996064/pizza-again
+- type: twitter
+  url: https://twitter.com/roytang/statuses/148318392493936640/
 ---
 
 <p>Pizza again?</p>

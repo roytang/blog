@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/50984796827/brianmichaelbendis-guardians-of-the-galaxy-3
+- type: twitter
+  url: https://twitter.com/roytang/statuses/336817878265372672/
 ---
 
 <p><a class="tumblr_blog" href="http://brianmichaelbendis.tumblr.com/post/50965141291/guardians-of-the-galaxy-3-variant-leinil-yu">brianmichaelbendis</a>:</p>

@@ -5,6 +5,8 @@ date: 2017-12-23 01:00:35
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/168840859090/grand-prix-singapore-2017-tournament-report
+- type: twitter
+  url: https://twitter.com/roytang/statuses/944376613269106688/
 tags:
 - grand-prix
 - Limited

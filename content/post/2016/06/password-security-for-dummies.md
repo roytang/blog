@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-06-14 01:30:08
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/742536346351370241/
 tags:
 - Tech Life
 title: Password Security for Dummies

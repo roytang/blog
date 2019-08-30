@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-14 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1117306633313488896/
 tags:
 - quotes
 - self-improvement

@@ -5,6 +5,8 @@ date: 2017-12-22 01:00:35
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/168806095625/singapore-2017
+- type: twitter
+  url: https://twitter.com/roytang/statuses/944022699998957570/
 tags:
 - Travels
 title: Singapore 2017

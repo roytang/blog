@@ -5,6 +5,8 @@ date: 2017-01-17 01:30:54
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/155970854510/online-discussions-opposing-views-and-street
+- type: twitter
+  url: https://twitter.com/roytang/statuses/821169667309977600/
 tags:
 - Opinions
 title: Online Discussions, Opposing Views, and Street Fighter

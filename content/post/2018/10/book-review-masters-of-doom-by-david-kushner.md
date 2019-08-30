@@ -5,6 +5,8 @@ date: 2018-10-14 01:00:45
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179028108415/book-review-masters-of-doom-by-david-kushner
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1051276597037273093/
 tags:
 - Books
 - Review

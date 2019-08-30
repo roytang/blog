@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-03 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1113320991025971201/
 tags:
 - Tech Life
 title: Social Media Hiatus

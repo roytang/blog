@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BPDL4JlFhr9/
 - type: tumblr
   url: https://tumblr.roytang.net/post/155628664840/baby-thundercats-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/818489714563026946/
 tags:
 - sketchdaily
 ---

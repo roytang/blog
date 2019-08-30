@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BOMHgHNhkBU/
 - type: tumblr
   url: https://tumblr.roytang.net/post/154667420705/star-destroyer-sketchdaily-starwars
+- type: twitter
+  url: https://twitter.com/roytang/statuses/810739513857310720/
 tags:
 - sketchdaily
 - starwars

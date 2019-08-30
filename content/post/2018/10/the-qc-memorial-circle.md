@@ -5,6 +5,8 @@ date: 2018-10-21 01:00:34
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179261105400/the-qc-memorial-circle
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1053813721590575104/
 tags:
 - Philippines
 title: The QC Memorial Circle

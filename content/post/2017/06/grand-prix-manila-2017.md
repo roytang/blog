@@ -5,6 +5,8 @@ date: 2017-06-15 04:22:32
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/161843110255/grand-prix-manila-2017
+- type: twitter
+  url: https://twitter.com/roytang/statuses/875212334569930753/
 tags:
 - grand-prix
 - standard

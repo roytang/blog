@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-24 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1099550732120932353/
 tags:
 - quotes
 - regret

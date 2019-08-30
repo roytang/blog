@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-05 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1070136255277658113/
 title: Sometimes things don't work out and that's fine
 type: post
 ---

@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/62809972449/maxwittert-jean-scott-episode-2-max
+- type: twitter
+  url: https://twitter.com/roytang/statuses/385047050943209472/
 ---
 
 <p><a class="tumblr_blog" href="http://maxwittert.tumblr.com/post/61538625664/jean-scott-episode-2-c-max-wittert">maxwittert</a>:</p>

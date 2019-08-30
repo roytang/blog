@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2019-07-15 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1150715600425164800/
 tags:
 - tech life
 - photography
-title: 'Testing the Galaxy A50 Camera'
+title: Testing the Galaxy A50 Camera
 type: post
 ---
 
@@ -24,4 +27,3 @@ Things look quite a bit more washed out, is that the proper term? I did like fiv
 For reference, I also tried this with the new 2018 iPad, which had a pretty good camera as well, the shot turned out ok, [closer to the A50 one](https://photos.app.goo.gl/u41sXTe9vtzhotTy9).
 
 I also took an extra shot of Rippersnapper with the Galaxy A50 and the detail in the shot was pretty sweet, I [posted it on instagram](https://www.instagram.com/p/Bz4_55-BbTI/).
-

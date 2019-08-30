@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-23 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1087954120726728714/
 tags:
 - current events
 - Pop Culture

@@ -5,6 +5,8 @@ date: 2017-01-19 01:30:29
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/156059772860/qualities-to-look-for-in-a-software-developer
+- type: twitter
+  url: https://twitter.com/roytang/statuses/821894763750322176/
 tags:
 - Software Development
 title: Qualities to Look for in a Software Developer

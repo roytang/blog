@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-25 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1121293654503636992/
 tags:
 - Self-Improvement
 title: The Ghurka and the map

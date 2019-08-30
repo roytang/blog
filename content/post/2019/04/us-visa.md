@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-01 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1112596637023694849/
 tags:
 - Travels
 title: I Got A US Visa!

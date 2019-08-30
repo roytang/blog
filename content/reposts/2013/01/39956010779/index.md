@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/39956010779/awesome-jean-greys-life-reference-by-stuart
+- type: twitter
+  url: https://twitter.com/roytang/statuses/288404380573638656/
 ---
 
 <blockquote>

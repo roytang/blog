@@ -5,6 +5,8 @@ date: 2018-10-12 01:00:31
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/178965365230/my-top-10-favorite-movies-of-all-time
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1050552671269281793/
 tags:
 - Movies
 - Review

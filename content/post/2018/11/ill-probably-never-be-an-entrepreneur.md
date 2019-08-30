@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-02 05:03:45
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1058223328995901445/
 title: I'll probably never be an entrepreneur
 type: post
 url: /2018/11/ill-probably-never-be-an-entrepreneur/

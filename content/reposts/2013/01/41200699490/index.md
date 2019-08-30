@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/41200699490/ilovecharts-coincidence
+- type: twitter
+  url: https://twitter.com/roytang/statuses/293757768744173568/
 ---
 
 <p><a class="tumblr_blog" href="http://ilovecharts.tumblr.com/post/41196142110/coincidence">ilovecharts</a>:</p>

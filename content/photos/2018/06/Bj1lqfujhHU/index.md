@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/Bj1lqfujhHU/
 - type: tumblr
   url: https://tumblr.roytang.net/post/174748999335/we-scrubbed-out-of-the-team-unified-standard-rptq
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1005734253160816641/
 tags:
 - iconicmasters
 - mtg

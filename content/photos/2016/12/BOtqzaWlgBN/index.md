@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BOtqzaWlgBN/
 - type: tumblr
   url: https://tumblr.roytang.net/post/155239083945/2016bestnine
+- type: twitter
+  url: https://twitter.com/roytang/statuses/815461492174848000/
 tags:
 - 2016bestnine
 ---

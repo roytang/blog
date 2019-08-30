@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BI6ygvjBHYi/
 - type: tumblr
   url: https://tumblr.roytang.net/post/148728759845/bell-tower-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/763264835593306112/
 tags:
 - sketchdaily
 ---

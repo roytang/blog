@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-08-02 01:30:15
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/760287230523047936/
 tags:
 - Opinions
 title: Motivation vs Discipline

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BdpcO2lA05x/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/949974510014533633/
 tags:
 - dragonballz
 ---

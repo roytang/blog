@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-21 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1120375757388357633/
 title: Holy Week
 type: post
 ---

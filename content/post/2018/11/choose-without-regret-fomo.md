@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-22 02:06:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1065440399991480321/
 tags:
 - regret
 title: '"Choose without Regret" and the Fear of Missing Out'

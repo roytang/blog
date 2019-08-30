@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-04 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1081068498057682944/
 tags:
 - Self Improvement
 title: My 2018 in review

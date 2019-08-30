@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-28 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1111147076564463616/
 tags:
 - quotes
 title: Find the others

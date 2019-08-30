@@ -2,11 +2,14 @@
 author: roy
 categories: []
 date: 2019-07-12 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1149560093026836481/
 tags:
 - travels
 - ustrip2019
 - tech life
-title: 'US 2019 - San Francisco area and Trip Summary'
+title: US 2019 - San Francisco area and Trip Summary
 type: post
 ---
 
@@ -31,4 +34,4 @@ We had a fourth of July barbecue at my uncle's house, and I stayed the night at 
 - I used Southwest for all the domestic flights. SW is interesting because they don't have reserved seatings for their flights - you're assigned a boarding priority and when you board you just pick from whatever seat is available. Also apparently they let me bring free checked baggage whereas other airlines don't so I guess I randomly made a good decision.
 - US airports don't seem very interesting, or maybe I'm just spoiled by airports like Singapore's Changi or HKIA where I don't mind spending a lot of time there
 - I didn't spend as much as I thought I would (mostly due to the hospitality of our hosts), but still the fact that food is so expensive here really tells me a lot about how Americans view things financially. A decent meal is typically $10-$15, maybe more. Compare that to the cost of things that would be considered luxuries in the Philippines: a new video game is $60, basically 4 or 5 meals worth; a month's Netflix sub or a comic book are less than the cost of a meal; and so on. It basically makes it so easy to impulse buy say, a $1 chocolate bar or a $4 bag of chips since these are so inexpensive compared to normal meals, but over here I'd balk at P35 chocolate bars or P150 bag of chips. I guess I'm worried that having spent time in the US, I'd be more spendy when I get back lol.
-- in summary, I was able to visit 4 states: California, Nevada, Texas, and Washington. (Arizona for a layover). Not bad! I didn't get to visit the East Coast during this trip, so maybe that's something to look forward to in the future. I am not yet sure if I even want to go back; maybe one trip is already plently, just enough to experience what life is like over there. 
+- in summary, I was able to visit 4 states: California, Nevada, Texas, and Washington. (Arizona for a layover). Not bad! I didn't get to visit the East Coast during this trip, so maybe that's something to look forward to in the future. I am not yet sure if I even want to go back; maybe one trip is already plently, just enough to experience what life is like over there.

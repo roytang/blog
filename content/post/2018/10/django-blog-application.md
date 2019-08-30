@@ -5,6 +5,8 @@ date: 2018-10-28 05:02:37
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179506819850/django-blog-application
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1056426133871357952/
 tags:
 - projects
 - python

@@ -5,6 +5,8 @@ date: 2016-11-03 01:30:18
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/152666290735/software-development-feedback-loops
+- type: twitter
+  url: https://twitter.com/roytang/statuses/793988761541611525/
 tags:
 - Software Development
 title: Software Development Feedback Loops

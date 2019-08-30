@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-25 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1077444555706757121/
 tags:
 - Philippines
 title: Christmas in the Philippines

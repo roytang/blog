@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BKDz1aOBjOn/
 - type: tumblr
   url: https://tumblr.roytang.net/post/150077845090/i-tried-out-the-ipad-pros-multitask-feature-for
+- type: twitter
+  url: https://twitter.com/roytang/statuses/773541586215010304/
 tags:
 - sketchdaily
 ---

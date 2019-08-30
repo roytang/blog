@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BaHXTCoF8uC/
 - type: tumblr
   url: https://tumblr.roytang.net/post/166293262225/inktober-day-9-screech-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/918156975489323009/
 tags:
 - Inktober
 - sketchdaily

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-06 05:06:02
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1059674107753758720/
 tags:
 - Music
 - Gaming

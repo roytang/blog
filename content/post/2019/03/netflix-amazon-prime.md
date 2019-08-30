@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-04 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1102449112383963136/
 tags:
 - tv
 - movies

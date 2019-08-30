@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-13 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1116945493697945600/
 tags:
 - quotes
 title: It is necessary to be lost

@@ -5,6 +5,8 @@ date: 2018-03-29 01:00:11
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/172361367865/rethinking-facebook
+- type: twitter
+  url: https://twitter.com/roytang/statuses/979177921981140994/
 tags:
 - Tech Life
 title: Rethinking Facebook

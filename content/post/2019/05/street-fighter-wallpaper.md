@@ -1,10 +1,13 @@
 ---
 author: roy
-date: 2019-05-07T13:56:56+08:00
+date: 2019-05-07 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1125641923203665920/
 tags:
 - gaming
 - wallpapers
-title: "Street Fighter Background Wallpapers"
+title: Street Fighter Background Wallpapers
 type: post
 ---
 

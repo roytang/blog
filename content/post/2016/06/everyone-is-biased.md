@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-06-21 01:30:12
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/745072693842612225/
 tags:
 - Opinions
 title: Everyone is Biased

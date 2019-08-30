@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BKSRQEZBEt0/
 - type: tumblr
   url: https://tumblr.roytang.net/post/150345761215/just-a-boat-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/775576589815930880/
 tags:
 - sketchdaily
 ---

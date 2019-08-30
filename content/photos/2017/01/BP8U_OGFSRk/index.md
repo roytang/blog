@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BP8U_OGFSRk/
 - type: tumblr
   url: https://tumblr.roytang.net/post/156638965900/draw-a-dinosaur-day-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/826531785416773632/
 tags:
 - sketchdaily
 ---

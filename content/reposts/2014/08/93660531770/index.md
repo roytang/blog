@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/93660531770/captainamericagotg
+- type: twitter
+  url: https://twitter.com/roytang/statuses/495821159863439360/
 ---
 
 <p>#GOTG Spoilers (kind of)</p>

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-28 02:06:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1067614443666882562/
 tags:
 - walking
 title: Daily Walks

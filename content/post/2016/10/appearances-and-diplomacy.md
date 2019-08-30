@@ -5,6 +5,8 @@ date: 2016-10-04 01:30:39
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/151314825145/appearances-and-diplomacy
+- type: twitter
+  url: https://twitter.com/roytang/statuses/783117922109624320/
 tags:
 - Opinions
 - Philippines

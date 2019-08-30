@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-16 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1074124255397330944/
 tags:
 - Pop Culture
 title: Watching Too Much TV?

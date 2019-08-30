@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/Ba6xpDOlZ6_/
 - type: tumblr
   url: https://tumblr.roytang.net/post/166984000555/i-was-supposed-to-be-cleaning-stuff-in-my-room-but
+- type: twitter
+  url: https://twitter.com/roytang/statuses/925392553503088645/
 tags: []
 ---
 

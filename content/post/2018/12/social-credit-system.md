@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-04 02:06:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1069789089065517056/
 tags:
 - Current Events
 - Tech Life

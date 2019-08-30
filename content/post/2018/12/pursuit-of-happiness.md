@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-23 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1076743339259691009/
 tags:
 - happiness
 title: The Pursuit of Happiness

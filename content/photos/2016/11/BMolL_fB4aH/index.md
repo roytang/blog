@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BMolL_fB4aH/
 - type: tumblr
   url: https://tumblr.roytang.net/post/152996597395/saint-walker-blue-lantern-sketchdaily-in
+- type: twitter
+  url: https://twitter.com/roytang/statuses/796731058381275137/
 tags:
 - sketchdaily
 ---

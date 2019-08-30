@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BKhLq6IBp4n/
 - type: tumblr
   url: https://tumblr.roytang.net/post/150612208435/use-your-imagination-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/777675386754895872/
 tags:
 - sketchdaily
 ---

@@ -2,9 +2,12 @@
 author: roy
 categories: []
 date: 2019-07-14 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1150316625717059584/
 tags:
 - tech life
-title: 'Samsung Galaxy A50'
+title: Samsung Galaxy A50
 type: post
 ---
 
@@ -21,4 +24,3 @@ I thought about doing the contract renewal over the phone, but that meant having
 The handset itself looks pretty good and as expected it's performing a lot better than the older phone, since this unit just came out early this year. It's a lot thinner and slightly taller and has a cool reflective back frame. There's a triple camera that reviews tell me are really good but I wouldn't know because I'm terrible at photography. Maybe I'll take some comparison shots with the old phone if I feel like it. The battery life is reasonable, looks like it could last a full day if I do a full charge.
 
 One thing I want to do differently this time to try to maximize the battery life is to avoid leaving the phone charging overnight, since that's supposedly bad for battery life. Like many other things, I'm a bit obsessive-compulsive about my phone's battery always being charged, so I like having the phone fully charged when I wake up in the mornings. (My friends will happily tell you that if they send me a phone screenshot where their battery is at like 13% my first comment would be that they need to charge.) This time I will try to wean myself off that habit, let's see how that works out.
-

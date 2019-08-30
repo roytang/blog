@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-28 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1089766030644310018/
 tags:
 - Movies
 - Review

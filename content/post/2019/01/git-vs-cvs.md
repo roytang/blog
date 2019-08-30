@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-12 02:06:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1083929194474680321/
 tags:
 - Software Development
 title: Git vs CVS

@@ -5,6 +5,8 @@ date: 2018-08-09 02:02:51
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/176790437145/forty
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1027381049075085312/
 tags:
 - birthday
 title: Forty

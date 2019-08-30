@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-26 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1121729995523674112/
 tags:
 - Pop Culture
 title: Shaggy Dogs

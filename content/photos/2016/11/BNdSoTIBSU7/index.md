@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BNdSoTIBSU7/
 - type: tumblr
   url: https://tumblr.roytang.net/post/153886724410/antelope-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/804149327492956160/
 tags:
 - sketchdaily
 ---

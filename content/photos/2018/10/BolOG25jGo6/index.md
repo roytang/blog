@@ -7,6 +7,10 @@ syndicated:
   url: https://instagram.com/p/BolOG25jGo6/
 - type: tumblr
   url: https://tumblr.roytang.net/post/178781594500/my-collection-of-foreign-coins-leftover-from
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1048484338176851968/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1048472312696254464/
 tags: []
 ---
 

@@ -5,6 +5,8 @@ date: 2017-06-05 01:30:42
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/161448834110/blogging-and-social-media
+- type: twitter
+  url: https://twitter.com/roytang/statuses/871564754325839872/
 tags:
 - blogging
 - social media

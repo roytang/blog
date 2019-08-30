@@ -1,11 +1,14 @@
 ---
 author: roy
-date: 2019-05-14T13:56:56+08:00
+date: 2019-05-14 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1128223843087200257/
 tags:
 - philippines
 - politics
 - current events
-title: "Things were simpler before we were woke"
+title: Things were simpler before we were woke
 type: post
 ---
 

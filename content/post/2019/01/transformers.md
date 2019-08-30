@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-18 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1086142356611649536/
 tags:
 - transformers
 - comics

@@ -1,10 +1,13 @@
 ---
 author: roy
-date: 2019-05-04T13:56:56+08:00
+date: 2019-05-04 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1124555114218389504/
 tags:
 - philippines
 - politics
-title: "Truth, Logic, and Elections"
+title: Truth, Logic, and Elections
 type: post
 ---
 

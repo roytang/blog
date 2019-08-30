@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-06-16 01:30:02
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/743255093370290176/
 tags:
 - Software Development
 - Tech Life

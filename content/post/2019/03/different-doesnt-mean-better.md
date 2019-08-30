@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-03-08 05:56:56
 featuredImage: https://roytang.net/uploads/2019/different-better.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1103899705782595584/
 tags:
 - quotes
 - regret

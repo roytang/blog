@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BLvrCxXhbQU/
 - type: tumblr
   url: https://tumblr.roytang.net/post/152022268235/leaves-in-the-wind-sketchdaily-inktober
+- type: twitter
+  url: https://twitter.com/roytang/statuses/788721899245371392/
 tags:
 - sketchdaily
 - inktober

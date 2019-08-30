@@ -4,6 +4,9 @@ date: 2018-11-18 02:00:21
 draft: false
 featuredImage: https://i.imgur.com/KcHOHTc.png
 publishdate: 2018-11-18 02:00:21
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1063992483883954176/
 tags:
 - comics
 - review

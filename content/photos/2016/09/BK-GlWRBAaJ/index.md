@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BK-GlWRBAaJ/
 - type: tumblr
   url: https://tumblr.roytang.net/post/151135835715/current-events-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/781745574211092482/
 tags:
 - sketchdaily
 ---

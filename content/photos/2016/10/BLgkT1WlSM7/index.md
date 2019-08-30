@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BLgkT1WlSM7/
 - type: tumblr
   url: https://tumblr.roytang.net/post/151753270075/scared-sketchdaily-inktober
+- type: twitter
+  url: https://twitter.com/roytang/statuses/786596032394170368/
 tags:
 - sketchdaily
 - inktober

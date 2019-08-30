@@ -3,6 +3,9 @@ categories: []
 date: 2018-11-24 02:00:21
 featuredImage: https://roytang.net/uploads/2018/ipad_screen.jpg
 publishdate: 2018-11-24 02:00:21
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1066165074539229186/
 tags:
 - Tech Life
 title: iPad Restrospective

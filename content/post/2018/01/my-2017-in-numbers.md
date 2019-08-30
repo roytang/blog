@@ -5,6 +5,8 @@ date: 2018-01-01 01:00:03
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/169167606615/my-2017-in-numbers
+- type: twitter
+  url: https://twitter.com/roytang/statuses/947634555661537280/
 title: My 2017 in numbers
 type: post
 url: /2018/01/my-2017-in-numbers/

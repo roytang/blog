@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-10 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1083242880909623296/
 tags:
 - blogging
 - Writing

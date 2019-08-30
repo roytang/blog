@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/12470755200/ilovecharts-fiveoverseven-pechakucha-theme
+- type: twitter
+  url: https://twitter.com/roytang/statuses/133578808543547392/
 ---
 
 <p><a href="http://ilovecharts.tumblr.com/post/12470694882/fiveoverseven-pechakucha-theme-design-think">ilovecharts</a>:</p>

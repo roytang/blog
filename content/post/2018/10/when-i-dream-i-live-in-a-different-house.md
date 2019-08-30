@@ -5,6 +5,8 @@ date: 2018-10-18 01:00:16
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179163237665/when-i-dream-i-live-in-a-different-house
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1052726525617954816/
 tags:
 - Nostalgia
 title: When I dream I live in a different house

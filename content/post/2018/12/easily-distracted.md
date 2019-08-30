@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-06 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1070498661086445568/
 tags:
 - Self-improvement
 title: Easily Distracted

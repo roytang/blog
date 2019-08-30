@@ -2,6 +2,9 @@
 categories: []
 date: 2018-11-13 03:06:26
 publishdate: 2018-11-13 03:06:26
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062195180940521472/
 tags:
 - communication
 title: The larger the audience, the more careful you have to be with your words

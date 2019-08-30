@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-11 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1072310332327112704/
 tags:
 - Tech Life
 title: Github Pages

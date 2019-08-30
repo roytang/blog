@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-29 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1078893695682920448/
 tags:
 - Self Improvement
 - Tech Life

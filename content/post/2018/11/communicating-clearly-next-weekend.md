@@ -4,6 +4,9 @@ categories: []
 date: 2018-11-12 03:06:26
 publishdate: 2018-11-12 03:06:26
 slug: communicating-clearly-next-weekend
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062030309087162368/
 tags:
 - communication
 title: 'Communicating Clearly: "Next weekend"'

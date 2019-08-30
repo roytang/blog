@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-05 05:58:22
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1081599258204213249/
 tags:
 - c++
 - Software Development

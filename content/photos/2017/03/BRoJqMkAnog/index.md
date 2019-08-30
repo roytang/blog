@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BRoJqMkAnog/
 - type: tumblr
   url: https://tumblr.roytang.net/post/158400308395/books-and-covers-sketchdaily-paperbyfiftythree
+- type: twitter
+  url: https://twitter.com/roytang/statuses/841706505980248064/
 tags:
 - sketchdaily
 - paperbyfiftythree

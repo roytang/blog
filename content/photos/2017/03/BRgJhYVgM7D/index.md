@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BRgJhYVgM7D/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/840580303152398338/
 tags:
 - popquiz
 - hungrymeeples

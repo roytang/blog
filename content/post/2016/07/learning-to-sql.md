@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-07-21 01:30:37
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/755941238457729028/
 tags:
 - Software Development
 title: Learning to SQL

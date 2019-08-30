@@ -5,6 +5,8 @@ date: 2016-09-15 01:30:48
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/150425629585/overtime
+- type: twitter
+  url: https://twitter.com/roytang/statuses/776234109811232768/
 tags:
 - Software Development
 title: Overtime

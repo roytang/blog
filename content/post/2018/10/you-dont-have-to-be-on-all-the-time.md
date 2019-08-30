@@ -5,6 +5,8 @@ date: 2018-10-22 01:00:30
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179296490925/you-dont-have-to-be-on-all-the-time
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1054176116884324353/
 title: You don't have to be on all the time
 type: post
 url: /2018/10/you-dont-have-to-be-on-all-the-time/

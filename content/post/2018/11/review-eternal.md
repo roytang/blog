@@ -4,6 +4,9 @@ categories: []
 date: 2018-11-25 02:00:21
 featuredImage: https://vignette.wikia.nocookie.net/eternalcardgame/images/6/6d/Icaria%2C_Valkyrie_Captain.png/revision/latest/scale-to-width-down/318?cb=20180307222958
 publishdate: 2018-11-25 02:00:21
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1066527632571940864/
 tags:
 - Review
 - ccgs

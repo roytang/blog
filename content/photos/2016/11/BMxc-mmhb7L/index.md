@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BMxc-mmhb7L/
 - type: tumblr
   url: https://tumblr.roytang.net/post/153151710465/long-and-sleepy-bus-ride-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/797979640497213440/
 tags:
 - sketchdaily
 ---

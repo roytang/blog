@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-20 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1086867132988690433/
 tags:
 - chess
 - bucket list

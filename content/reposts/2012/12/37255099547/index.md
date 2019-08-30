@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/37255099547/brianmichaelbendis-chris-bachalo-gallery
+- type: twitter
+  url: https://twitter.com/roytang/statuses/276285097227980802/
 ---
 
 <p><a class="tumblr_blog" href="http://brianmichaelbendis.tumblr.com/post/37237755706/chris-bachalo-gallery-this-is-why-i-am-so">brianmichaelbendis</a>:</p>

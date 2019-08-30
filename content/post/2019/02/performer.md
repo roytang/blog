@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-07 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1093389936219312128/
 tags:
 - Self Improvement
 title: Performance Art and Picking Up New Hobbies

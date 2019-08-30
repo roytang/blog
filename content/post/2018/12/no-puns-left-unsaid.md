@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2018-12-01 01:59:21
 featuredImage: null
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1068687161296371713/
 tags:
 - puns
 title: No puns left unsaid

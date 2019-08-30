@@ -5,6 +5,8 @@ date: 2018-10-27 05:02:37
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179473575315/superhero-shows-being-political
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1056063758265708544/
 tags:
 - Comics
 - Politics

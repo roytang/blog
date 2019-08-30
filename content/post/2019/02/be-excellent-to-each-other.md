@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-02-18 05:56:56
 featuredImage: https://roytang.net/uploads/2019/be-excellent.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1097376450062241793/
 tags:
 - movies
 - quotes

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-02 02:06:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1069065944608243714/
 tags:
 - walking
 title: Benefits of Walking

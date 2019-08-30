@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2018-11-26 02:00:21
 publishdate: 2018-11-26 02:00:21
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1066891116186877955/
 tags:
 - Pop Culture
 title: Artists to Follow on Social Media

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-27 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1078169381421629440/
 tags:
 - Writing
 title: Private writing

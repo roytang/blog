@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/174947452130/lord-brixie-every-time-i-see-this-im-equally
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1008017691691675651/
 ---
 
 <p><a href="http://lord-brixie.tumblr.com/post/164009442623/every-time-i-see-this-im-equally-unprepared-for" class="tumblr_blog">lord-brixie</a>:</p><blockquote><p>Every time I see this I’m equally unprepared for the punchline bc I forget it’s a joke until the end</p></blockquote>

@@ -5,6 +5,8 @@ date: 2016-09-27 01:30:41
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/150987667115/lying-and-salesmanship
+- type: twitter
+  url: https://twitter.com/roytang/statuses/780581915728482304/
 tags:
 - Opinions
 title: Lying and Salesmanship

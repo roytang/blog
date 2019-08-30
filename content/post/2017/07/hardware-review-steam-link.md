@@ -5,6 +5,8 @@ date: 2017-07-06 01:30:43
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/162650311295/hardware-review-steam-link
+- type: twitter
+  url: https://twitter.com/roytang/statuses/882775461666988032/
 tags:
 - Hardware
 - Gaming

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-01 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1091215660615647232/
 title: Trust
 type: post
 ---

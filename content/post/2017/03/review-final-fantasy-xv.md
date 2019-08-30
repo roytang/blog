@@ -5,6 +5,8 @@ date: 2017-03-18 01:30:41
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/158531276530/review-final-fantasy-xv
+- type: twitter
+  url: https://twitter.com/roytang/statuses/842912468863270912/
 tags:
 - Review
 - Gaming

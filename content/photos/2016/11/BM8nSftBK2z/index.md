@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BM8nSftBK2z/
 - type: tumblr
   url: https://tumblr.roytang.net/post/153338223800/marcosnotahero-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/799550432506945537/
 tags:
 - marcosnotahero
 - sketchdaily

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-05-20 18:10:52
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/733721781865975809/
 tags:
 - Comics
 - Movies

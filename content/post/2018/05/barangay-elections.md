@@ -5,6 +5,8 @@ date: 2018-05-14 01:00:02
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/173880361735/barangay-elections
+- type: twitter
+  url: https://twitter.com/roytang/statuses/995857983312711680/
 tags:
 - Philippines
 title: Barangay Elections

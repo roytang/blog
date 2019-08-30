@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-04-02 05:56:56
 featuredImage: https://roytang.net/uploads/2019/minus.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1112958985378979840/
 tags:
 - webcomics
 - Pop Culture

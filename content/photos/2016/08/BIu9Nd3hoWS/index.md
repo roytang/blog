@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BIu9Nd3hoWS/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/761599514692247552/
 tags:
 - geekfightph
 ---

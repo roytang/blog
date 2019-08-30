@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-08-04 01:30:57
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/761012997141790720/
 tags:
 - Software Development
 title: Pros and Cons of a Career in Programming

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-06 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1114408494634078208/
 title: Don't worry, be happy
 type: post
 ---

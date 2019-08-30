@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-15 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1117669572453314560/
 title: Forgetfulness
 type: post
 ---

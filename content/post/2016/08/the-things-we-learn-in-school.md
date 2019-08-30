@@ -5,6 +5,8 @@ date: 2016-08-23 01:30:04
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/149346984750/the-things-we-learn-in-school
+- type: twitter
+  url: https://twitter.com/roytang/statuses/767899019590955008/
 tags:
 - Opinions
 title: The Things We Learn In School

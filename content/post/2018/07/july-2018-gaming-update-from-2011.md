@@ -5,6 +5,8 @@ date: 2018-07-16 01:00:04
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/175935008180/july-2018-gaming-update-from-2011
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1018678641327333384/
 tags:
 - Gaming
 title: 'July 2018: Gaming Update from 2011'

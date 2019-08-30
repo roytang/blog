@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2018-12-10 01:56:56
 featuredImage: https://roytang.net/uploads/2018/macbookair.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1071949230204424192/
 tags:
 - Tech Life
 title: Macbook Air (2017 Model)

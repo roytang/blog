@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNt5Sowhlfc/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/806486152693817345/
 tags:
 - minsanlang
 ---

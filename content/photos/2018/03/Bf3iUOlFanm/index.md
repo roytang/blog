@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/Bf3iUOlFanm/
 - type: tumblr
   url: https://tumblr.roytang.net/post/171486660665/pencil-sketch-httpifttt2fmqlou
+- type: twitter
+  url: https://twitter.com/roytang/statuses/969972601178255360/
 tags: []
 ---
 

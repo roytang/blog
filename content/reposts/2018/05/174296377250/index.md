@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/174296377250/brotoro-laughhard-my-chinese-foreign-exchange
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1000643695891402752/
 ---
 
 <p><a href="http://brotoro.tumblr.com/post/174138475619/laughhard-my-chinese-foreign-exchange-friend" class="tumblr_blog">brotoro</a>:</p>

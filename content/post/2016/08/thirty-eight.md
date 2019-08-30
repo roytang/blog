@@ -5,6 +5,8 @@ date: 2016-08-09 01:30:46
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/148666684075/thirty-eight
+- type: twitter
+  url: https://twitter.com/roytang/statuses/762827906749980673/
 tags:
 - birthday
 title: Thirty Eight

@@ -5,6 +5,8 @@ date: 2016-08-16 01:30:24
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/149008100535/internet-history
+- type: twitter
+  url: https://twitter.com/roytang/statuses/765363759812599808/
 tags:
 - Nostalgia
 - Philippines

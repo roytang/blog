@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-08 05:07:02
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1060399840348258304/
 tags:
 - philiosophy
 - Opinions

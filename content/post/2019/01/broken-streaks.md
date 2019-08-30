@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-09 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1082880426300055552/
 tags:
 - Self Improvement
 title: Broken streaks

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-07 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1082155237404786688/
 tags:
 - Software Development
 title: Solution Architect

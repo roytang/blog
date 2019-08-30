@@ -5,6 +5,8 @@ date: 2016-09-26 01:30:56
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/150939408620/investigating-the-drug-killings
+- type: twitter
+  url: https://twitter.com/roytang/statuses/780220108832735232/
 tags:
 - Philippines
 title: Investigating the Drug Killings

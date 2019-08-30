@@ -1,7 +1,11 @@
 ---
 categories: []
 date: 2018-11-14 03:06:26
+featuredImage: https://roytang.net/uploads/2018/blog-hugo-2018.png
 publishdate: 2018-11-14 03:06:26
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062557630156234753/
 tags:
 - hugo
 - wordpress
@@ -9,7 +13,6 @@ tags:
 - Tech Life
 - changelog
 title: Site Migration from Wordpress to Hugo
-featuredImage: https://roytang.net/uploads/2018/blog-hugo-2018.png
 ---
 
 ### Leaving Wordpress
@@ -112,4 +115,3 @@ Despite the effort, the great thing is that I did learn a few things, so at the 
 - how to create Github Webhooks
 - more .htaccess stuff
 - usage of pathlib.Path in Python3 (no more os.glob for me!)
-

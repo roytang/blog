@@ -2,11 +2,14 @@
 author: roy
 categories: []
 date: 2018-11-11 05:07:53
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1061487292571881472/
 tags:
 - late-game-review
 - review
 - Gaming
-title: "Late Game Review: The Elder Scrolls V - Skyrim"
+title: 'Late Game Review: The Elder Scrolls V - Skyrim'
 type: post
 url: /2018/11/late-game-review-the-elder-scrolls-v-skyrim/
 ---

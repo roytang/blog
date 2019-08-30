@@ -2,9 +2,12 @@
 author: roy
 categories: []
 date: 2019-02-11 05:56:56
-title: Insomnia
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1094839008985792512/
 tags:
 - sleep
+title: Insomnia
 type: post
 ---
 

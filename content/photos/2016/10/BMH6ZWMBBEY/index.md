@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BMH6ZWMBBEY/
 - type: tumblr
   url: https://tumblr.roytang.net/post/152440346000/tracking-sketchdaily-inktober
+- type: twitter
+  url: https://twitter.com/roytang/statuses/792133358578962432/
 tags:
 - sketchdaily
 - inktober

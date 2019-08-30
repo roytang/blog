@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-23 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1120568183390392321/
 title: 'Project Management Tip: Kalma Lang'
 type: post
 ---

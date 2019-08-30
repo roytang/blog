@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-02-17 05:56:56
 featuredImage: https://roytang.net/uploads/2019/pinoy-pride.png
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1097014022120050691/
 tags:
 - Philippines
 title: Pinoy Pride

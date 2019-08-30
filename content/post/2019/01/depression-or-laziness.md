@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-25 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1088678151675437056/
 title: Depression or just laziness?
 type: post
 ---

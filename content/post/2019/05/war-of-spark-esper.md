@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-05-01 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1123468208848166915/
 tags:
 - magic arena
 - war of the spark

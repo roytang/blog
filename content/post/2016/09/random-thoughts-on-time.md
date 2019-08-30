@@ -5,6 +5,8 @@ date: 2016-09-06 01:30:54
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/150008188090/random-thoughts-on-time
+- type: twitter
+  url: https://twitter.com/roytang/statuses/772971696970199042/
 tags:
 - Opinions
 title: Random Thoughts on Time

@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-03-20 05:56:56
 featuredImage: https://roytang.net/uploads/2019/ztd-phi.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1108247376584675328/
 tags:
 - vita
 - Gaming

@@ -5,6 +5,8 @@ date: 2016-10-18 01:30:04
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/151957396925/introspection-and-self-awareness
+- type: twitter
+  url: https://twitter.com/roytang/statuses/788190748474765313/
 tags:
 - Opinions
 title: Introspection and Self-Awareness

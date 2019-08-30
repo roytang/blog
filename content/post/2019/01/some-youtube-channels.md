@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-31 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1090954925729857538/
 tags:
 - game design
 - comics

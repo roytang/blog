@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BITUNgeBnub/
 - type: tumblr
   url: https://tumblr.roytang.net/post/147967180615/night-of-the-living-bread-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/757709445547917312/
 tags:
 - sketchdaily
 ---

@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BPxOln1lmJf/
 - type: tumblr
   url: https://tumblr.roytang.net/post/156442006285/helmet-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/824969605873541120/
 tags:
 - sketchdaily
 ---

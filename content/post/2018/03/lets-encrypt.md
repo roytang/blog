@@ -5,6 +5,8 @@ date: 2018-03-01 01:00:07
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/171398937145/lets-encrypt
+- type: twitter
+  url: https://twitter.com/roytang/statuses/969018906449973248/
 tags:
 - Learning Things
 - Self-Improvement

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-02 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1080343396487700480/
 tags:
 - Self-Improvement
 title: Don't Break the Chain

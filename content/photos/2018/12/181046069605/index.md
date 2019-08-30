@@ -4,6 +4,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/181046069605/arrowverse-elseworlds-crossover-spoiler-free
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1072846222283677696/
 tags:
 - dc comics
 - arrowverse

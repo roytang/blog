@@ -5,6 +5,8 @@ date: 2016-09-22 01:30:22
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/150752272600/overhead-scales-up-rapidly-in-software-projects
+- type: twitter
+  url: https://twitter.com/roytang/statuses/778768860925362176/
 tags:
 - Software Development
 title: Overhead scales up rapidly in software projects

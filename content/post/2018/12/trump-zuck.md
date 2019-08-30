@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-21 02:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1075949393793159168/
 tags:
 - Current Events
 - Opinions

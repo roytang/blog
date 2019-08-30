@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-24 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1109698164339150848/
 title: Meritocracy
 type: post
 ---

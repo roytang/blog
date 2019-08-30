@@ -5,6 +5,8 @@ date: 2018-10-15 01:00:34
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179062308380/mentoring-in-software-development
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1051639033951084544/
 tags:
 - Software Development
 title: Mentoring in Software Development

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-20 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1119483118224908288/
 tags:
 - Tech Life
 - Gaming

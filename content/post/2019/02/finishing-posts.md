@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-04 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1092303095961407488/
 tags:
 - writing
 title: Finishing Posts

@@ -5,6 +5,8 @@ date: 2017-06-10 01:30:38
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/161640913350/review-persona-5-you-never-saw-it-coming
+- type: twitter
+  url: https://twitter.com/roytang/statuses/873354848841945088/
 tags:
 - Review
 - Gaming

@@ -5,6 +5,8 @@ date: 2017-02-14 01:30:56
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/157214374710/war
+- type: twitter
+  url: https://twitter.com/roytang/statuses/831316572258066433/
 tags:
 - Opinions
 - Philippines

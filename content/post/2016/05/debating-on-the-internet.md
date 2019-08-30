@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-05-24 00:30:51
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/734907532423106561/
 tags:
 - Opinions
 title: Debating On The Internet

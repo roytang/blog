@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2018-11-23 02:06:56
 featuredImage: https://scontent.fmnl6-1.fna.fbcdn.net/v/t1.0-9/46457953_2126057790765540_2707398764645056512_n.png?_nc_cat=1&_nc_eui2=AeHlamd43MbKtvYNgW45S4CHv4ea2ts2v74dzHS9LWX7MAEUvwWfk9DjIcbDh6EiHjuR0kVC1rcyPicuAUBur1GvYEetvA3_oJsfib86AVmQuQ&_nc_ht=scontent.fmnl6-1.fna&oh=2215ae92187e8f4748a2952ee8b7d47d&oe=5C8194C5
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1065802775878090752/
 tags:
 - Gaming
 title: Thoughts on DLC

@@ -5,6 +5,8 @@ date: 2018-10-10 01:00:51
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/178903135010/book-review-the-1-page-marketing-plan-by-allan
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1049831215094738944/
 tags:
 - Books
 - Review

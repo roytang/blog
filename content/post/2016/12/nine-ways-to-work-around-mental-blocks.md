@@ -5,6 +5,8 @@ date: 2016-12-13 01:30:25
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/154400160995/nine-ways-to-work-around-mental-blocks
+- type: twitter
+  url: https://twitter.com/roytang/statuses/808485333427953669/
 tags:
 - Writing
 title: Nine Ways to Work Around Mental Blocks

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-07 05:06:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1060037520895959045/
 tags:
 - Software Development
 title: Version Issues

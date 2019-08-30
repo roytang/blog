@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BU6-GHMAUIA/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/871376693197508608/
 tags:
 - gpmanila
 - mtg

@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BOxGXLVlrLZ/
 - type: tumblr
   url: https://tumblr.roytang.net/post/155298404125/professor-layton-and-the-curious-reflection
+- type: twitter
+  url: https://twitter.com/roytang/statuses/815944312181719040/
 tags:
 - sketchdaily
 ---

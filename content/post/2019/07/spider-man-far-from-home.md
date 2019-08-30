@@ -2,9 +2,12 @@
 author: roy
 categories: []
 date: 2019-07-07 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1148110146637357057/
 tags:
 - movies
-title: 'Spider-Man Far From Home'
+title: Spider-Man Far From Home
 type: post
 ---
 
@@ -30,5 +33,3 @@ Spoilery stuff follows:
 - the final postcredits scene will have fans speculating for a while, but it looks like Fury is busy setting up SWORD? Or could it be something else?
 
 Great movie, and I'm looking forward to Marvel hopefully announcing their Phase 4 plans at SDCC later this month!
-
-

@@ -5,6 +5,8 @@ date: 2016-10-20 01:30:10
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/152049049735/favor-composition-over-inheritance
+- type: twitter
+  url: https://twitter.com/roytang/statuses/788916969630212096/
 tags:
 - Software Development
 title: Favor Composition Over Inheritance

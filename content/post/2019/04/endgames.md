@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-04-27 05:56:56
 featuredImage: https://roytang.net/uploads/2019/endgame.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1122018176613650432/
 tags:
 - Pop Culture
 - Magic the Gathering

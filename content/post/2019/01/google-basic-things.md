@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-17 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1085779207324614656/
 tags:
 - Javascript
 - Software Development

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-05-31 07:49:54
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/737551762349907968/
 tags:
 - ccgs
 - Gaming

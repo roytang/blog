@@ -1,9 +1,12 @@
 ---
 author: roy
-date: 2019-05-23T13:56:56+08:00
+date: 2019-05-23 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1131440390027059200/
 tags:
 - quotes
-title: "In Search of Knowledge"
+title: In Search of Knowledge
 type: post
 ---
 

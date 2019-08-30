@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BHl8BMSht0j/
 - type: tumblr
   url: https://tumblr.roytang.net/post/147084583505/dempsey-revised-sketchdaily-hajimenoippo
+- type: twitter
+  url: https://twitter.com/roytang/statuses/751323059219533824/
 tags:
 - sketchdaily
 - hajimenoippo

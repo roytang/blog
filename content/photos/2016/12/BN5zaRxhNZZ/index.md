@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BN5zaRxhNZZ/
 - type: tumblr
   url: https://tumblr.roytang.net/post/154361142310/decorating-aboard-the-milano-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/808162076820721664/
 tags:
 - sketchdaily
 ---

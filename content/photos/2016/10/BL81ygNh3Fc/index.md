@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BL81ygNh3Fc/
 - type: tumblr
   url: https://tumblr.roytang.net/post/152250598000/squall-sketchdaily-inktober
+- type: twitter
+  url: https://twitter.com/roytang/statuses/790575125628391424/
 tags:
 - sketchdaily
 - inktober

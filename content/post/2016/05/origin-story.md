@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-05-25 21:34:25
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/735585353936048128/
 tags:
 - Software Development
 title: Origin Story

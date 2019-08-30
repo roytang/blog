@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-25 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1110059423018430464/
 tags:
 - Software Development
 title: A Quick Twitter App I Wrote

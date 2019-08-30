@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BKLDFqMhBTu/
 - type: tumblr
   url: https://tumblr.roytang.net/post/150207297305/inappropriate-places-to-catch-pokemon-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/774560290998452224/
 tags:
 - sketchdaily
 ---

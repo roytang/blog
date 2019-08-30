@@ -2,9 +2,12 @@
 author: roy
 categories: []
 date: 2019-07-17 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1151372037207842816/
 tags:
 - travels
-title: 'Why Travel?'
+title: Why Travel?
 type: post
 ---
 
@@ -21,4 +24,3 @@ I think the real value of travel is in getting a chance to step away from your d
 And when we come back from our travel, when we reacquaint ourselves with what we had before, we get to see our old rhythms and comfort zones with fresh eyes. What used to be routine may look different in light of recent experiences. When resuming old habits we get to ask a fresh set of "Why?", "Do I really need this?", or "Could this be done better?". We gain a newfound appreciation of things we missed. And hopefully, we are changed for the better.
 
 I think that's where the value is. We travel so we can be forever changed.
-

@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BP6ufe5lgQT/
 - type: tumblr
   url: https://tumblr.roytang.net/post/156614857685/bumblebee-sketchdaily-transformers
+- type: twitter
+  url: https://twitter.com/roytang/statuses/826306389928714240/
 tags:
 - sketchdaily
 - transformers

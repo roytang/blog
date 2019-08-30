@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-10 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1104623641822707712/
 tags:
 - Writing
 title: 750 Words

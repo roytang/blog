@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-17 02:06:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1063628892274126848/
 tags:
 - decision making
 - Self improvement

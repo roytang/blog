@@ -1,12 +1,15 @@
 ---
 author: roy
-date: 2019-05-06T13:56:56+08:00
+date: 2019-05-06 05:56:56
+featuredImage: https://roytang.net/uploads/2019/english.png
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1125279358590050304/
 tags:
 - grammar
 - writing
-title: "Grammar Nazi"
+title: Grammar Nazi
 type: post
-featuredImage: "https://roytang.net/uploads/2019/english.png"
 ---
 
 I am, admittedly, a grammar nazi. 

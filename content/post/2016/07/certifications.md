@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-07-14 01:30:07
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/753402994813759488/
 tags:
 - Software Development
 title: Certifications

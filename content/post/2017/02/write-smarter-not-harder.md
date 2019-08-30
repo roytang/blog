@@ -5,6 +5,8 @@ date: 2017-02-21 01:30:57
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/157507996575/write-smarter-not-harder
+- type: twitter
+  url: https://twitter.com/roytang/statuses/833852350179733504/
 tags:
 - Writing
 title: Write Smarter, Not Harder

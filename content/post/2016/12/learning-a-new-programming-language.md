@@ -5,6 +5,8 @@ date: 2016-12-22 01:30:46
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/154785178865/learning-a-new-programming-language
+- type: twitter
+  url: https://twitter.com/roytang/statuses/811747729823199232/
 tags:
 - Software Development
 title: Learning a New Programming Language

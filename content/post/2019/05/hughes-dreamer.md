@@ -1,10 +1,13 @@
 ---
 author: roy
-date: 2019-05-02T13:56:56+08:00
+date: 2019-05-02 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1123830637658607616/
 tags:
 - quotes
 - poetry
-title: "Langston Hughes: The Dream Keeper"
+title: 'Langston Hughes: The Dream Keeper'
 type: post
 ---
 

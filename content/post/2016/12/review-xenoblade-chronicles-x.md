@@ -5,6 +5,8 @@ date: 2016-12-30 00:44:30
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/155140128410/review-xenoblade-chronicles-x
+- type: twitter
+  url: https://twitter.com/roytang/statuses/814635071391014916/
 tags:
 - Review
 - Gaming

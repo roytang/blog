@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-24 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1077105633634193411/
 title: Gift Giving
 type: post
 ---

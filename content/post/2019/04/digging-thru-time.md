@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-09 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1115495273026002944/
 tags:
 - nostalgia
 - Tech Life

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-06-23 01:30:25
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/745791201761198080/
 tags:
 - Software Development
 title: Working with Testers

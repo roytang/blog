@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BJLJWDHhanE/
 - type: tumblr
   url: https://tumblr.roytang.net/post/149032714755/go-play-outside-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/765566862209982464/
 tags:
 - sketchdaily
 ---

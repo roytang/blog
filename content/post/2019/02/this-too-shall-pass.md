@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-21 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1098463485485371392/
 tags:
 - quotes
 title: This too shall pass

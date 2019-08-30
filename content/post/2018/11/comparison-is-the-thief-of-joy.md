@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-27 02:06:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1067252273649197056/
 tags:
 - Self-Improvement
 title: Comparison is the Thief of Joy

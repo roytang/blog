@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-12 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1072672782968860672/
 tags:
 - nostalgia
 - Writing

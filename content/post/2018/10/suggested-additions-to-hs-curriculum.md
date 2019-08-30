@@ -5,6 +5,8 @@ date: 2018-10-24 13:00:00
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/179383985370/suggested-additions-to-hs-curriculum
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1055083035366961152/
 tags:
 - Opinions
 - Philippines

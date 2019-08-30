@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-11 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1105278572955140096/
 tags:
 - walking
 - Daily Life

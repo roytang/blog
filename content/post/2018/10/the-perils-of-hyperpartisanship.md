@@ -5,6 +5,8 @@ date: 2018-10-11 01:00:26
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/178934461095/the-perils-of-hyperpartisanship
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1050190283546218496/
 tags:
 - Politics
 - Opinions

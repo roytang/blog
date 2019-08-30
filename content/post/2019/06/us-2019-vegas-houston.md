@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2019-06-19 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1141344604954013696/
 tags:
 - travels
 - ustrip2019
-title: 'US 2019 - Anaheim, Los Angeles, Las Vegas and Houston'
+title: US 2019 - Anaheim, Los Angeles, Las Vegas and Houston
 type: post
 ---
 

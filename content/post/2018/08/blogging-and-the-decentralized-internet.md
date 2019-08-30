@@ -5,6 +5,8 @@ date: 2018-08-14 15:36:32
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/176991513285/blogging-and-the-decentralized-internet
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1029405845946359809/
 tags:
 - blogging
 - Tech Life

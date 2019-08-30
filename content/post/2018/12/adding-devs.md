@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-13 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1073035117860454400/
 tags:
 - devto
 - Software Development

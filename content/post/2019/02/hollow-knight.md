@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-02-16 05:56:56
 featuredImage: https://roytang.net/uploads/2019/hollowknight-2.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1096650858681565184/
 tags:
 - Gaming
 title: 'Game Review: Hollow Knight'

@@ -5,6 +5,8 @@ date: 2018-10-06 01:00:36
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/178776519530/what-is-education-for
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1048404538967949312/
 tags:
 - Opinions
 - Philippines

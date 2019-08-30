@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-21 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1087229341401001984/
 tags:
 - quezon city
 - books

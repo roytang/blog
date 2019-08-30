@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-25 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1099913137439064064/
 tags:
 - current events
 - Philippines

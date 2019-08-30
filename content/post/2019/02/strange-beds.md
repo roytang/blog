@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-26 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1100275426658787328/
 title: Strange beds
 type: post
 ---

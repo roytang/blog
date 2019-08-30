@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-19 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1086504717298077697/
 tags:
 - Self-Improvement
 title: Anxiety

@@ -5,6 +5,8 @@ date: 2016-08-25 01:30:43
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/149440457605/the-secrets-to-perfect-estimates
+- type: twitter
+  url: https://twitter.com/roytang/statuses/768623831711903745/
 tags:
 - Software Development
 title: The Secrets to Perfect Estimates

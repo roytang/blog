@@ -5,6 +5,8 @@ date: 2018-02-01 01:00:54
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/170364110450/trying-out-3d-modelling-with-blender
+- type: twitter
+  url: https://twitter.com/roytang/statuses/958868554547449857/
 tags:
 - Learning Things
 - Self-Improvement

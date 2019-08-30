@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BVxAhBxgNhT/
 - type: tumblr
   url: https://tumblr.roytang.net/post/162241064320/breath-of-the-wild-guardian-sketch
+- type: twitter
+  url: https://twitter.com/roytang/statuses/878981912186028032/
 tags:
 - sketch
 - sketchdaily

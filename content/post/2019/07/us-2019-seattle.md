@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2019-07-03 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1146299864504000512/
 tags:
 - travels
 - ustrip2019
-title: 'US 2019 - Seattle'
+title: US 2019 - Seattle
 type: post
 ---
 

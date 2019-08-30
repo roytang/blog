@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-19 02:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1075224606062067713/
 title: Variance
 type: post
 ---

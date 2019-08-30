@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BdYAa5MAowZ/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/947520813682569216/
 tags:
 - medianoche
 ---

@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/155213968845/incidentalcomics-a-new-year-happy-new-year-you
+- type: twitter
+  url: https://twitter.com/roytang/statuses/815252223533969408/
 ---
 
 <p><a href="http://incidentalcomics.tumblr.com/post/155210764828/a-new-year-happy-new-year-you-can-now-pre-order" class="tumblr_blog">incidentalcomics</a>:</p><blockquote>

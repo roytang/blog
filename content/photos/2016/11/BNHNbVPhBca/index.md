@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BNHNbVPhBca/
 - type: tumblr
   url: https://tumblr.roytang.net/post/153514265965/meat-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/801041656296284160/
 tags:
 - sketchdaily
 ---

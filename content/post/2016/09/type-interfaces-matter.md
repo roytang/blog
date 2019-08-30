@@ -5,6 +5,8 @@ date: 2016-09-29 01:30:42
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/151079461050/type-interfaces-matter
+- type: twitter
+  url: https://twitter.com/roytang/statuses/781306007297417216/
 tags:
 - Software Development
 title: Type Interfaces Matter

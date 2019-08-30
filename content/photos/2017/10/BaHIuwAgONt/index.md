@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BaHIuwAgONt/
 - type: tumblr
   url: https://tumblr.roytang.net/post/166290008820/inktober-day-7-shy-i-regret-going-for-those
+- type: twitter
+  url: https://twitter.com/roytang/statuses/918124953878323205/
 tags:
 - Inktober
 - sketchdaily

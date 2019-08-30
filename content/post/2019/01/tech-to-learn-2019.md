@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-01-08 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1082517612947492870/
 tags:
 - Software Development
 title: Tech to Learn in 2019

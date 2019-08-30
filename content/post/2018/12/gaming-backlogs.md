@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-26 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1077807054759317505/
 tags:
 - Gaming
 title: Gaming Backlogs

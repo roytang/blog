@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-10 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1094476467151532038/
 tags:
 - drawing
 - Tech Life

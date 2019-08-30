@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-07-12 01:30:04
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/752679115585646592/
 tags:
 - quora
 - Self-improvement

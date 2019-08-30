@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-03-16 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1106797838137204737/
 tags:
 - Software Development
 title: Don't stay in the same place too long

@@ -5,6 +5,8 @@ date: 2017-03-07 01:30:58
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/158089393515/planning-reacting-relaxing
+- type: twitter
+  url: https://twitter.com/roytang/statuses/838927216926941184/
 title: Planning / Reacting / Relaxing
 type: post
 url: /2017/03/planning-reacting-relaxing/

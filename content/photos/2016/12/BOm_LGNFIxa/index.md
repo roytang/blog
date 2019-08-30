@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BOm_LGNFIxa/
 - type: tumblr
   url: https://tumblr.roytang.net/post/155123268650/i-hope-that-in-episode-8-luke-teaches-leia-how-to
+- type: twitter
+  url: https://twitter.com/roytang/statuses/814521121005535232/
 tags:
 - sketchdaily
 ---

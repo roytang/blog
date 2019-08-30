@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-10 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1115857589227655171/
 tags:
 - Tech Life
 - Meta

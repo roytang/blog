@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-12-08 01:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1071225212354654208/
 tags:
 - Tech Life
 title: Quora

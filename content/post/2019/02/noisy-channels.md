@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-02-19 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1097739863800066049/
 tags:
 - Tech life
 title: Noisy channels

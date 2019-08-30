@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/83513200339/poetry
+- type: twitter
+  url: https://twitter.com/roytang/statuses/458591027331612672/
 ---
 
 <p>Poetry~</p>

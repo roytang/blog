@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BH6jhe6BKaq/
 - type: tumblr
   url: https://tumblr.roytang.net/post/147485625990/2nd-pod-actually-had-better-pulls-mtgemn
+- type: twitter
+  url: https://twitter.com/roytang/statuses/754224664738689024/
 tags:
 - mtgemn
 ---

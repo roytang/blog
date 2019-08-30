@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2018-11-09 05:07:22
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1060762234127900678/
 tags:
 - Self-Improvement
 - Software Development

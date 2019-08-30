@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2019-05-30 05:56:56
+featuredImage: https://roytang.net/uploads/2019/arena-mythic.png
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1134084884425842688/
 tags:
 - magic arena
 - war of the spark
@@ -9,7 +13,6 @@ tags:
 - Magic the Gathering
 title: 'Magic Arena: First Time Mythic! I did it!'
 type: post
-featuredImage: "https://roytang.net/uploads/2019/arena-mythic.png"
 ---
 
 ![](/uploads/2019/arena-mythic.png)

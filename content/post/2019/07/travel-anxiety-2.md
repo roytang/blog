@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2019-07-13 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1149923712529063936/
 tags:
 - travels
 - ustrip2019
-title: 'Travel Anxiety, Part 2'
+title: Travel Anxiety, Part 2
 type: post
 ---
 

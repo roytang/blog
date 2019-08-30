@@ -1,13 +1,16 @@
 ---
 author: roy
-date: 2019-05-25T13:56:56+08:00
+date: 2019-05-25 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1132181051604910080/
 tags:
 - pop culture
 - movies
 - tv
 - manga
 - watching lately
-title: "Watching Lately: May 2019"
+title: 'Watching Lately: May 2019'
 type: post
 ---
 

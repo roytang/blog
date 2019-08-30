@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-30 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1123121320139599873/
 tags:
 - quotes
 title: Churchill on Giving In

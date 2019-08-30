@@ -5,6 +5,8 @@ date: 2018-02-08 01:00:19
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/170631485475/globes-fair-use-policy-and-the-rotten-bananas
+- type: twitter
+  url: https://twitter.com/roytang/statuses/961417890678403072/
 tags:
 - Tech Life
 title: Globe's Fair Use Policy and the "Rotten Bananas", four years later

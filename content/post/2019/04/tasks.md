@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-16 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1118033109331660800/
 title: Tasks you enjoy
 type: post
 ---

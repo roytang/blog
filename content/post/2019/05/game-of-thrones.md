@@ -1,11 +1,14 @@
 ---
 author: roy
-date: 2019-05-20T13:56:56+08:00
+date: 2019-05-20 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1130353507511484416/
 tags:
 - pop culture
 - tv
 - books
-title: "Game of Thrones"
+title: Game of Thrones
 type: post
 ---
 
@@ -22,4 +25,3 @@ Experiencing the series as a book reader was interesting, since we knew what was
 But I think the poor writing in season 8 makes me look forward to the books more, if only to see if and how GRRM is able to deliver a better and more satisfying ending. I think the ending for the Starks is probably what he had in mind all along (or very close to it); in his initial outline for the entire series, it was always about the Starks. Whether he sticks to that plan or pivots after seeing the reactions to the show, we shall see. I read a [great thread on Twitter](https://twitter.com/dsilvermint/status/1125856091261136896?s=21) describing GRRM as a "pantser" kind of writer, i.e. he writes by the seat of his pants, letting the characters and events drive the story forward instead of strictly following an outline. It makes for good narrative, but is probably also why he's taking forever to finish. And we hope he will finish! Maybe someday, when the books are done, we eventually get a better and more faithful remake series (cue the "Game of Thrones: Brotherhood" jokes).
 
 Overall though, I think history will look kindly on the entire series of Game of Thrones for what it did. It brought epic fantasy to the forefront of pop culture. People talked excitedly about every episode as it came out and speculated about what would happen. Even my dad got into it, even though I often had to explain some bits to him, and he didn't like watching the show without subtitles. They failed to stick the landing, so they don't belong in the same conversation as series like *Breaking Bad*, but there were a lot of epic moments and some very good television in those eight seasons, and the show ultimately deserves its places in the cultural zeitgeist. Because of this show, we are getting other epic fantasies as TV series moving forward. I'm most looking forward to Amazon's upcoming [Wheel of Time](/2019/05/wheel-of-time-new-spring/) series, hopefully they don't screw it up. (That one would take maybe two decades to finish!)
-

@@ -1,10 +1,13 @@
 ---
 author: roy
-date: 2019-05-11T13:56:56+08:00
+date: 2019-05-11 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1127092820152586240/
 tags:
 - books
 - pop culture
-title: "Wheel of Time: Eye of the World"
+title: 'Wheel of Time: Eye of the World'
 type: post
 ---
 
@@ -26,4 +29,3 @@ Still, the book does take its time. After Shadar Logoth, the party gets split up
 The Nynaeve and Lan relationship wasn't built up very well either I think. It seems they just were suddenly affectionate near the end, after barely anything more than longing looks and barely any conversations for most of the book. Also, I'm looking forward to the WoT TV series if only to learn how to properly pronounce "Nynaeve".
 
 The book ends with a victory for the good guys. Not THE victory, as some of them think, but it is a victory. But it is also a strange place, as Rand discovers what he can do and decides to leave the group for a while. The next book takes them to Ilian for the Great Hunt I believe, and I seem to recall that it may be a long time before the Emond Fielders are together in the same place again. Onwards!
-

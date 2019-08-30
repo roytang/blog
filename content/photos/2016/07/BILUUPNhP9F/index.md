@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BILUUPNhP9F/
 - type: tumblr
   url: https://tumblr.roytang.net/post/147811452220/solitude-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/756583770476675072/
 tags:
 - sketchdaily
 ---
