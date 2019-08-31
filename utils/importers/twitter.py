@@ -102,19 +102,21 @@ def get_content(t):
             mdlink = "[@%s](https://twitter.com/%s/)" % (screen_name, screen_name)
             content = content.replace("@"+screen_name, mdlink)
         # clean urls
-        # for u in t["entities"]["urls"]:
-        #     url = u["url"]
-        #     expanded_url = u["expanded_url"]
-        #     expanded_url, no_errors = get_final_url(expanded_url)
-        #     content = content.replace(url, expanded_url)
+        for u in t["entities"]["urls"]:
+            url = u["url"]
+            expanded_url = u["expanded_url"]
+            print("##### A URL!!! %s" % expanded_url)
+            # expanded_url, no_errors = get_final_url(expanded_url)
+            # content = content.replace(url, expanded_url)
 
     return content
 
 def create_post(t):
-    content = get_content(t)
     id = t['id_str']
-    post = frontmatter.Post(content)
     d = datetime.strptime(t['created_at'], "%a %b %d %H:%M:%S %z %Y")
+
+    content = get_content(t)
+    post = frontmatter.Post(content)
     post['date'] = d
     post['syndicated'] = [
         {
@@ -122,13 +124,15 @@ def create_post(t):
             "url": "https://twitter.com/roytang/statuses/%s/" % (t['id'])
         }
     ]
+
     kind = "notes"
     if "in_reply_to_status_id_str" in t and "in_reply_to_screen_name" in t:
         kind = "replies"
         post["reply_to"] = {
             "type": "twitter",
             "url": "https://twitter.com/%s/statuses/%s/" % (t['in_reply_to_screen_name'], t['in_reply_to_status_id_str']),
-            "name": t["in_reply_to_screen_name"]
+            "name": t["in_reply_to_screen_name"],
+            "label": "%s's tweet" % (t["in_reply_to_screen_name"]) 
         }
     elif content.startswith("RT @"):
         kind = "reposts"
