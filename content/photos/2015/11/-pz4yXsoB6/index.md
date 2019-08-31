@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/-pz4yXsoB6/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/670803305111511040/
 tags:
 - lucky
 ---

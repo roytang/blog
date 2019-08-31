@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BDyGd_DMoJK/
 - type: tumblr
   url: https://tumblr.roytang.net/post/142240478015/wheee-mtg-modern
+- type: twitter
+  url: https://twitter.com/roytang/statuses/717006066685321216/
 tags:
 - mtg
 - modern

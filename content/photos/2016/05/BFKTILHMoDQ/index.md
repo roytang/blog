@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BFKTILHMoDQ/
 - type: tumblr
   url: https://tumblr.roytang.net/post/144061023140/nothings-perfect-the-worlds-not-perfect-but
+- type: twitter
+  url: https://twitter.com/roytang/statuses/729418798374080512/
 tags: []
 ---
 

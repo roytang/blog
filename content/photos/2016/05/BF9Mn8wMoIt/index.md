@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BF9Mn8wMoIt/
 - type: tumblr
   url: https://tumblr.roytang.net/post/145055997295/some-guy-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/736582108596948992/
 tags:
 - sketchdaily
 ---

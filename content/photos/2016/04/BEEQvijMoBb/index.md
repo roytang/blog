@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BEEQvijMoBb/
 - type: tumblr
   url: https://tumblr.roytang.net/post/142635516390/some-girl-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/719561934836609025/
 tags:
 - sketchdaily
 ---

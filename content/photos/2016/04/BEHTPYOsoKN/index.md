@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BEHTPYOsoKN/
 - type: tumblr
   url: https://tumblr.roytang.net/post/142702086470/some-guy-sketchdaily-disclaimer-a-sketch-is-not
+- type: twitter
+  url: https://twitter.com/roytang/statuses/719989636672593920/
 tags:
 - sketchdaily
 ---

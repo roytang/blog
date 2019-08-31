@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BB2ZgHgsoDD/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/699596470085791745/
 tags:
 - sketchdaily
 ---

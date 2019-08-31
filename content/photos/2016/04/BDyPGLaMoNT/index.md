@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BDyPGLaMoNT/
 - type: tumblr
   url: https://tumblr.roytang.net/post/142243584065/rural-vs-urban-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/717025038210236417/
 tags:
 - sketchdaily
 ---

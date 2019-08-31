@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BB7JoahMoMd/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/700265257390845953/
 tags:
 - sketchdaily
 - dawnofjustice

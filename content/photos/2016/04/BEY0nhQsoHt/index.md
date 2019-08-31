@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BEY0nhQsoHt/
 - type: tumblr
   url: https://tumblr.roytang.net/post/143064734960/practicing-three-point-perspective-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/722455569538244608/
 tags:
 - sketchdaily
 ---

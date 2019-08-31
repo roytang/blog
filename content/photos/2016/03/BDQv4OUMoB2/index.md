@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BDQv4OUMoB2/
 - type: tumblr
   url: https://tumblr.roytang.net/post/141493102300/ham-and-cheese-sandwich-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/712312053705285632/
 tags:
 - sketchdaily
 ---

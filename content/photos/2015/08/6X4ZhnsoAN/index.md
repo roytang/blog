@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/6X4ZhnsoAN/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632251151040299008/
 tags:
 - gplondon
 ---

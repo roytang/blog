@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/9E92Y-soKx/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/656610759753908224/
 tags:
 - oldschoolcool
 ---

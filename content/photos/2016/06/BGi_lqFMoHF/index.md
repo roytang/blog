@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BGi_lqFMoHF/
 - type: tumblr
   url: https://tumblr.roytang.net/post/145794483755/eating-ramen-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/741901466944708610/
 tags:
 - sketchdaily
 ---

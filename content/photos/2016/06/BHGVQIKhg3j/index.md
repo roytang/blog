@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BHGVQIKhg3j/
 - type: tumblr
   url: https://tumblr.roytang.net/post/146478517075/farmers-market-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/746874917237362689/
 tags:
 - sketchdaily
 ---

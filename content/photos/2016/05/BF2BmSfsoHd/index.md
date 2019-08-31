@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BF2BmSfsoHd/
 - type: tumblr
   url: https://tumblr.roytang.net/post/144922043310/laserbeak-sketchdaily-transformers
+- type: twitter
+  url: https://twitter.com/roytang/statuses/735572698961567744/
 tags:
 - sketchdaily
 - transformers

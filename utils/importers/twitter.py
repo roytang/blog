@@ -105,7 +105,7 @@ def get_content(t):
         for u in t["entities"]["urls"]:
             url = u["url"]
             expanded_url = u["expanded_url"]
-            print("##### A URL!!! %s" % expanded_url)
+            # print("##### A URL!!! %s" % expanded_url)
             # expanded_url, no_errors = get_final_url(expanded_url)
             # content = content.replace(url, expanded_url)
 
@@ -134,13 +134,14 @@ def create_post(t):
             "name": t["in_reply_to_screen_name"],
             "label": "%s's tweet" % (t["in_reply_to_screen_name"]) 
         }
-    elif content.startswith("RT @"):
+    elif t["full_text"].startswith("RT @"):
         kind = "reposts"
         # dont process reposts for now
         return False
     else:
         # dont process others for now
         return False
+
     media = []
     for m in t.get("extended_entities", {}).get("media", []):
         media.append(m["media_url_https"])
@@ -170,6 +171,7 @@ def create_post(t):
         outdir.mkdir(parents=True)
     outfile = outdir / ( id + ".md" )
     newfile = frontmatter.dumps(post)
+
     with outfile.open("w", encoding="UTF-8") as w:
         w.write(newfile)
     return True
@@ -180,7 +182,7 @@ def process_tweet(d1):
 
     # detect content syndicated from elsewhere
     # instagram, tumblr, roytang.net
-    if tweet_source.find("IFTTT") >= 0 or tweet_source.find("Tumblr") >= 0:
+    if tweet_source.find("IFTTT") >= 0 or tweet_source.find("Tumblr") >= 0 or tweet_source.find("instagram.com") > 0:
         # print(d1["full_text"])
 
         for u in d1.get('entities', {}).get("urls", []):
@@ -225,6 +227,9 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
     d = json.load(f)
     idx = 0
     for d1 in d:
+        # if d1["id_str"] != "738398022963363841":
+        #     continue
+
         if process_tweet(d1):
             continue
 

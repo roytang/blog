@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BFZgCFDMoCn/
 - type: tumblr
   url: https://tumblr.roytang.net/post/144357543430/harry-taylor-pitcher-for-the-kansas-city-as-from
+- type: twitter
+  url: https://twitter.com/roytang/statuses/731558240111054849/
 tags:
 - sketchdaily
 ---

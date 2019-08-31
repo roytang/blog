@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BFpA--UMoC_/
 - type: tumblr
   url: https://tumblr.roytang.net/post/144664228630/duel-of-an-era-shishio-part-2-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/733741764985663488/
 tags:
 - sketchdaily
 - rurounikenshin

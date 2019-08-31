@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BFawss3MoL_/
 - type: tumblr
   url: https://tumblr.roytang.net/post/144386241995/worst-monopoly-set-ever
+- type: twitter
+  url: https://twitter.com/roytang/statuses/731735624911196160/
 tags: []
 ---
 

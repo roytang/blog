@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BDsQ13isoPT/
 - type: tumblr
   url: https://tumblr.roytang.net/post/142113675260/mtgsoi-prerelease
+- type: twitter
+  url: https://twitter.com/roytang/statuses/716184450946629633/
 tags:
 - mtgsoi
 ---

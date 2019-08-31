@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BFB_QnQsoBD/
 - type: tumblr
   url: https://tumblr.roytang.net/post/143896308485/ariba-ariba-andale-andale-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/728249211452432384/
 tags:
 - sketchdaily
 ---

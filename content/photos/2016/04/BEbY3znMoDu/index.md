@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BEbY3znMoDu/
 - type: tumblr
   url: https://tumblr.roytang.net/post/143117300270/trying-out-perspectives-again-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/722816772374552577/
 tags:
 - sketchdaily
 ---

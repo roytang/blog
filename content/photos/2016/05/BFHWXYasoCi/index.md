@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BFHWXYasoCi/
 - type: tumblr
   url: https://tumblr.roytang.net/post/144000086045/cardboard-box-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/729003706809651200/
 tags:
 - sketchdaily
 ---

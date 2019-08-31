@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BDqehXnMoLp/
 - type: tumblr
   url: https://tumblr.roytang.net/post/142073463470/this-seemed-funnier-in-my-head-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/715933058499608577/
 tags:
 - sketchdaily
 ---

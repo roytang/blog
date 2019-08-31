@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BE4-xn7soBl/
 - type: tumblr
   url: https://tumblr.roytang.net/post/143720926185/tlavonian-moose-cavalry-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/726981506992754688/
 tags:
 - sketchdaily
 ---

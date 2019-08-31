@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BEoQtaisoBX/
 - type: tumblr
   url: https://tumblr.roytang.net/post/143381114130/more-disney-today-sketchdaily-i-havent-seen-this
+- type: twitter
+  url: https://twitter.com/roytang/statuses/724628407850426368/
 tags:
 - sketchdaily
 ---

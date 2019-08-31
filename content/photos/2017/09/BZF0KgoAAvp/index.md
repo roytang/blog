@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BZF0KgoAAvp/
 - type: twitter
   url: https://twitter.com/roytang/statuses/908931787883151360/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/908932684977602560/
 tags:
 - mtg
 ---

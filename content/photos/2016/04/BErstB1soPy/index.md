@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BErstB1soPy/
 - type: tumblr
   url: https://tumblr.roytang.net/post/143453807915/todays-sketchdaily-theme-was-platypus-i-think
+- type: twitter
+  url: https://twitter.com/roytang/statuses/725112181537181696/
 tags:
 - sketchdaily
 ---

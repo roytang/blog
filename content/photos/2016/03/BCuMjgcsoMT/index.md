@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BCuMjgcsoMT/
 - type: tumblr
   url: https://tumblr.roytang.net/post/140730625660/casey-jones-sketchdaily
+- type: twitter
+  url: https://twitter.com/roytang/statuses/707449298984837120/
 tags:
 - sketchdaily
 ---
