@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1537966035
 tags:
 - books
+- stormlight archive
 title: 'Book Review: Words of Radiance by Sanderson, Brandon'
 ---
 

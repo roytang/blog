@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1537966674
 tags:
 - books
+- harry potter
 title: 'Book Review: Harry Potter and the Prisoner of Azkaban by Rowling, J.K.'
 ---
 

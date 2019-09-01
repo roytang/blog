@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1552013302
 tags:
 - books
+- harry potter
 title: 'Book Review: Harry Potter and the Deathly Hallows by Rowling, J.K.'
 ---
 

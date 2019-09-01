@@ -6,30 +6,31 @@ tags:
 - Books
 - Review
 - Pop Culture
+- dark tower
 title: 'Books: Dark Tower series'
 type: post
 url: /2005/03/books-dark-tower-series/
 ---
 
-"I do not aim with my hand.
-  
-He who aims with his hand has forgotten the face of his father.
-  
-I aim with my Eye.
-
-I do not shoot with my hand.
-  
-He who aims with his hand has forgotten the face of his father.
-  
-I shoot with my Mind.
-
-I do not kill with my gun.
-  
-He who kills with his gun has forgotten the face of his father.
-  
-I kill with my Heart."
-
---The Gunslinger's Catechism
+> "I do not aim with my hand.
+>   
+> He who aims with his hand has forgotten the face of his father.
+>   
+> I aim with my Eye.
+> 
+> I do not shoot with my hand.
+>   
+> He who aims with his hand has forgotten the face of his father.
+>   
+> I shoot with my Mind.
+> 
+> I do not kill with my gun.
+>   
+> He who kills with his gun has forgotten the face of his father.
+>   
+> I kill with my Heart."
+> 
+> --The Gunslinger's Catechism
 
 I've finished books 3 (Wastelands) and 4 (Wizard and Glass) of Stephen King's amazing Dark Tower series. The sprawling worlds travelled by Roland of Gilead and his band of gunslingers continues to draw me in; I guess the romantic western atmosphere really appeals to me.
 

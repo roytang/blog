@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/2109440552
 tags:
 - books
+- mistborn
 title: 'Book Review: The Hero of Ages by Sanderson, Brandon'
 ---
 

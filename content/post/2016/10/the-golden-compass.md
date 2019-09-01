@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1778115581
 tags:
 - books
+- dark materials
 title: 'Book Review: The Golden Compass by Pullman, Philip'
 ---
 

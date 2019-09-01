@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1548999922
 tags:
 - books
+- harry potter
 title: 'Book Review: Harry Potter and the Order of the Phoenix by Rowling, J.K.'
 ---
 

@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/2106145410
 tags:
 - books
+- mistborn
 title: 'Book Review: The Well of Ascension by Sanderson, Brandon'
 ---
 

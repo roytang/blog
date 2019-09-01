@@ -7,6 +7,7 @@ syndicated:
 tags:
 - books
 - pop culture
+- wheel of time
 title: 'Wheel of Time: Eye of the World'
 type: post
 ---

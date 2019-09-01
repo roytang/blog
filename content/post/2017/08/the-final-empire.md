@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/2104551754
 tags:
 - books
+- mistborn
 title: 'Book Review: The Final Empire by Sanderson, Brandon'
 ---
 <a href="https://www.goodreads.com/book/show/68428.The_Final_Empire" style="float: left; padding-right: 20px"><img border="0" alt="The Final Empire (Mistborn, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717416l/68428._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/68428.The_Final_Empire">The Final Empire</a> by <a href="https://www.goodreads.com/author/show/38550.Brandon_Sanderson">Brandon Sanderson</a><br/>

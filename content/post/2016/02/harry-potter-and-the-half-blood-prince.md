@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1550941406
 tags:
 - books
+- harry potter
 title: 'Book Review: Harry Potter and the Half-Blood Prince by Rowling, J.K.'
 ---
 

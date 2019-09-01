@@ -7,6 +7,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1537964638
 tags:
 - books
+- harry potter
 title: 'Book Review: Harry Potter and the Sorcerer''s Stone by Rowling, J.K.'
 ---
 

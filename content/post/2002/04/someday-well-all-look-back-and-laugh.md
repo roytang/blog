@@ -6,7 +6,7 @@ tags:
 - Legacy Blog Posts
 title: Someday we'll all look back and laugh.
 type: post
-url: /2002/04/someday-we39ll-all-look-back-and-laugh/
+url: /2002/04/someday-well-all-look-back-and-laugh/
 ---
 
 So the ECE board exams are now over. Six months (okay three) of hard work and preparation (well alright, occasionally glancing at my books) and what do we get? A bunch of questions chosen seemingly at random. The Math and Electronics parts were good enough actually, and I felt pretty confident there. The second day was bad. The Communications exam might as well have been a random set of questions about cookie dough and displacer beasts. Me, Marc and Dennis went through at least a hundred questions in various topics an hour and a half before the exam but not one of the stuff we reviewed came out. Instead we're bombarded with questions about obscure standards and various laws. \*Sigh\*
