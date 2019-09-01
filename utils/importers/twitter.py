@@ -139,9 +139,9 @@ def create_post(t):
         kind = "reposts"
         # dont process reposts for now
         return False
-    else:
-        # dont process others for now
-        return False
+    # else:
+    #     # dont process others for now
+    #     return False
 
     media = []
     for m in t.get("extended_entities", {}).get("media", []):
@@ -262,73 +262,6 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
 
         if not is_reply and not is_retweet and len(media) == 0:
             raw = raw + 1
-
-        # post = frontmatter.Post(d1["full_text"])
-        # post['date'] = d1["created_at"]
-        # post['source'] = 'twitter'
-        # post['id'] = d1["id_str"]
-
-        # tags = []
-        # for ht in d1["entities"]["hashtags"]:
-        #     tags.append(ht["text"])
-        # if len(tags) > 0:
-        #     post['tags'] = tags
-
-        # # replies
-        # post["reply"] = False
-        # for prop in ["in_reply_to_status_id_str", "in_reply_to_screen_name"]:
-        #     if prop in d1:
-        #         post[prop] = d1[prop]
-        #         post["reply"] = True
-        #         replies = replies + 1
-
-        # # handle retweet
-        # post["retweet"] = False
-        # if content.startswith("RT @"):
-        #     post["retweet"] = True
-        #     colon_idx = content.find(":")
-        #     retweeted_screen_name = content[4:colon_idx]
-        #     mdlink = "[@%s](https://twitter.com/%s/)" % (retweeted_screen_name, retweeted_screen_name)
-        #     # blockquote the content
-        #     rt_content = content[colon_idx+1:]
-        #     content = "RT @%s" % (retweeted_screen_name) # the 'entities' code below should turn this into a link
-        #     content = content + '\n\n> ' + rt_content
-        #     retweets = retweets + 1
-
-        # if "entities" in d1:
-        #     # replace mentions with link
-        #     for m in d1["entities"]["user_mentions"]:
-        #         screen_name = m["screen_name"]
-        #         # replace with markdown link
-        #         mdlink = "[@%s](https://twitter.com/%s/)" % (screen_name, screen_name)
-        #         content = content.replace("@"+screen_name, mdlink)
-        #     # clean urls
-        #     # for u in d1["entities"]["urls"]:
-        #     #     url = u["url"]
-        #     #     expanded_url = u["expanded_url"]
-        #     #     expanded_url, no_errors = get_final_url(expanded_url)
-
-        #     #     if expanded_url.startswith("https://twitter.com/") and expanded_url.find("/status/") > 0 and no_errors:
-        #     #         # handle QTs by creating a markdown embed
-        #     #         qtid = expanded_url[expanded_url.find("/status/")+8:]
-        #     #         # remove ? query params if it exists
-        #     #         if qtid.find("?") > 0:
-        #     #             qtid = qtid.split("?")[0]
-        #     #         if qtid.endswith("/"):
-        #     #             qtid = qtid[:-1]
-        #     #         # finally, make sure the qtid is a numeric string
-        #     #         if not is_number(qtid):
-        #     #             content = content.replace(url, expanded_url)
-        #     #         else:
-        #     #             mdembed = "{{< tweet %s >}}" % qtid
-        #     #             content = content.replace(url, mdembed)
-        #     #     else:
-        #     #         content = content.replace(url, expanded_url)
-
-        # post.content = content
-        # # newfile = frontmatter.dumps(post)
-        # # with open(OUTPUT_DIR + d1["id_str"] + ".md", "w", encoding='utf-8') as w:
-        # #     w.write(newfile)
 
         idx = idx + 1
         # if idx > 100:
