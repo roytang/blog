@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2013-05-01 14:36:26
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/329605256155643904/
 tags:
 - Opinions
 title: Even more ramblings about the elections

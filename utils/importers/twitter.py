@@ -14,15 +14,20 @@ import os
 import inspect
 from datetime import datetime
 
+
+cwd = Path.cwd()
+contentdir = cwd / "content"
+blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
+urlmapfile = blogdir / "urlmap.json"
+
 urlcachefile = Path("d:\\temp\\twitter\\urlcache.json")
 urlcache = {}
 if urlcachefile.exists():
     with urlcachefile.open(encoding="UTF-8") as f:
         urlcache = json.loads(f.read())
 
-blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
-urlmapfile = blogdir / "urlmap.json"
 urlmap = {}
+urlmapdupes = {}
 with urlmapfile.open(encoding="UTF-8") as f:
     tempurlmap = json.loads(f.read())
     for u in tempurlmap:
@@ -31,11 +36,40 @@ with urlmapfile.open(encoding="UTF-8") as f:
             for s in u1['syndicated']:
                 if 'url' in s:
                     su = s['url']
-                    urlmap[su] = u1
+                    if su in urlmap:
+                        # we expect syndicated urls to be unique, 
+                        # so if it's already in the map,
+                        # it must be a dupe
+                        # (This is really just to clean up my own mess!)
+                        if su not in urlmapdupes:
+                            urlmapdupes[su] = [u1, urlmap[su]]
+                        else:
+                            urlmapdupes[su].append(u1)
+                    else:
+                        urlmap[su] = u1
         urlmap[u] = u1
-
-cwd = Path.cwd()
-contentdir = cwd / "content"
+        title = u1.get("title", "").strip()
+        if len(title) > 0:
+            urlmap[title] = u1
+# clean up any found dupes by syndicated url
+for su in urlmapdupes:
+    dupes = urlmapdupes[su]
+    canonical = None
+    for_deletion = []
+    for d in dupes:
+        if d["source_path"].startswith("post"):
+            if canonical is not None:
+                print("##### WTH. More than one canonical urls were detected for %s" % (su))
+            canonical = d
+        else:
+            for_deletion.append(d)
+    if canonical is None:
+        print("##### Dupes were detected for %s but no canonical url found!" % (su))
+    else:
+        for d in for_deletion:
+            source_path = Path(d['source_path'])
+            full_path = contentdir / source_path
+            os.remove(str(full_path))
 
 def is_number(s):
     try:
@@ -92,7 +126,7 @@ def add_syndication(mdfile, url, stype):
         newfile = frontmatter.dumps(post)
         with mdfile.open("w", encoding="UTF-8") as w:
             w.write(newfile)
-
+    
 def get_content(t):
     content  = t['full_text']
     if "entities" in t:
@@ -139,9 +173,9 @@ def create_post(t):
         kind = "reposts"
         # dont process reposts for now
         return False
-    # else:
-    #     # dont process others for now
-    #     return False
+    else:
+        # dont process others for now
+        return False
 
     media = []
     for m in t.get("extended_entities", {}).get("media", []):
@@ -182,38 +216,50 @@ def process_tweet(d1):
 
     # detect content syndicated from elsewhere
     # instagram, tumblr, roytang.net
-    if tweet_source.find("IFTTT") >= 0 or tweet_source.find("Tumblr") >= 0 or tweet_source.find("instagram.com") > 0:
-        # print(d1["full_text"])
+    syndicated_sources = ["IFTTT", "Tumblr", "instagram.com", "Mailchimp"]
+    for s in syndicated_sources:
+        if tweet_source.find(s) >= 0:
+            # print(d1["full_text"])
+            for u in d1.get('entities', {}).get("urls", []):
+                raw_url = u["url"]
+                url = u["expanded_url"]
+                url, no_errors = get_final_url(url)
 
-        for u in d1.get('entities', {}).get("urls", []):
-            url = u["expanded_url"]
-            url, no_errors = get_final_url(url)
+                if not no_errors:
+                    print(d1["full_text"])
 
-            if not no_errors:
-                print(d1["full_text"])
-
-            url = url.replace("www.instagram.com", "instagram.com")
-            url = urldefrag(url)[0]
-            if url in urlmap:
-                u = urlmap[url]
-                source_path = Path(u['source_path'])
-                full_path = contentdir / source_path
-                add_syndication(full_path, orig_tweet_url, "twitter")
-                return True
-
-            if url.find("://roytang.net") >= 0:
-                link_url = urlparse(url)
-                u = urlmap.get(link_url.path, None)
-                if u is not None:
+                url = url.replace("www.instagram.com", "instagram.com")
+                url = urldefrag(url)[0]
+                if url in urlmap:
+                    u = urlmap[url]
                     source_path = Path(u['source_path'])
                     full_path = contentdir / source_path
                     add_syndication(full_path, orig_tweet_url, "twitter")
                     return True
-                else:
-                    print("######## Unmatched roytang url: %s" % (url))
-                    return True
-            
-            # print("######## URL = %s" % (url))
+
+                if url.find("://roytang.net") >= 0:
+                    link_url = urlparse(url)
+                    u = urlmap.get(link_url.path, None)
+                    if u is None:
+                        # try matching by title
+                        title_search_term = d1["full_text"]
+                        title_search_term = title_search_term.replace("New blog post: ", "")
+                        title_search_term = title_search_term.replace("New post: ", "")
+                        title_search_term = title_search_term.replace(raw_url, "")
+                        title_search_term = title_search_term.strip()
+                        u = urlmap.get(title_search_term, None)
+                    if u is not None:
+                        source_path = Path(u['source_path'])
+                        full_path = contentdir / source_path
+                        add_syndication(full_path, orig_tweet_url, "twitter")
+                        return True
+                    else:
+                        print("######## Unmatched roytang url: %s" % (url))
+                        print(d1["full_text"])
+                        return True
+                
+                # print("######## URL = %s" % (url))
+            break
 
     return create_post(d1)
 

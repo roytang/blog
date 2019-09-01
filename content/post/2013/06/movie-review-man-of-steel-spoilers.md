@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2013-06-15 17:30:08
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/345956429003382784/
 tags:
 - Opinions
 title: 'Movie Review: Man of Steel (Spoilers!)'

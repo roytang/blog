@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2014-08-09 11:47:19
-title: Thirty-Six
-type: post
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/498073063942942723/
 tags:
 - birthday
+title: Thirty-Six
+type: post
 url: /2014/08/thirty-six/
 ---
 

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2013-06-10 14:38:51
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/344101402244681730/
 tags:
 - Gaming
 title: 'Handheld Gaming 2013: Playstation Vita vs Nintendo 3DS'

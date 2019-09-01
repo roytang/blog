@@ -7,6 +7,8 @@ slug: communicating-clearly-next-weekend
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1062030309087162368/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1061830791523717120/
 tags:
 - communication
 title: 'Communicating Clearly: "Next weekend"'

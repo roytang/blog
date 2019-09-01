@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2015-08-31 13:36:12
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/638344620737347584/
 tags:
 - grand-prix
 - standard

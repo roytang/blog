@@ -2,9 +2,13 @@
 author: roy
 categories: []
 date: 2013-12-28 15:50:30
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/416959578710896640/
 tags:
 - Gaming
-title: 2013 -- Books and Games
+- books
+title: 2013 - Books and Games
 type: post
 url: /2013/12/2013-books-and-games/
 ---

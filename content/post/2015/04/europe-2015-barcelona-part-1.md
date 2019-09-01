@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2015-04-09 05:43:59
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/586042166570385409/
 tags:
 - Travels
 - europe2015
@@ -85,4 +88,3 @@ As I expected, this post already feels way too long. I was hoping I could cover 
  [1]: http://roytang.net/2015/03/europe-trip-2015/
  [2]: http://www.freehostelsbarcelona.com/
  [8]: http://roytang.net/2013/03/scenes-from-a-quiz-night/
- 

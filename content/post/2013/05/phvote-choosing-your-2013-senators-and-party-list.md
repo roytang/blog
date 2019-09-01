@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2013-05-11 13:09:20
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/333207242134388739/
 tags:
 - Opinions
 - Philippines

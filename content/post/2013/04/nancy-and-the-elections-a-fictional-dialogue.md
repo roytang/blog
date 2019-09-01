@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2013-04-25 14:14:16
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/327425369479192576/
 tags:
 - Opinions
 title: 'Nancy and the Elections: A Fictional Dialogue'

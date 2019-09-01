@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2015-03-28 01:20:46
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/581627019219226624/
 tags:
 - Travels
 - europe2015

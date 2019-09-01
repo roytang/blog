@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-01-13 03:04:31
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/687108898684207104/
 tags:
 - Philippines
 title: 'Comparing Singapore and PH: Apples and Oranges'

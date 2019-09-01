@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2015-06-29 06:37:38
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/615408816650194945/
 tags:
 - Magic the Gathering
 - grand prix

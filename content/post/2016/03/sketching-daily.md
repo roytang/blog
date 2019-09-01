@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2016-03-15 15:39:33
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/709773745733259264/
 title: Sketching Daily
 type: post
 url: /2016/03/sketching-daily/

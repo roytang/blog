@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2015-08-09 06:39:47
-title: Thirty-Seven
-type: post
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/630267345903054848/
 tags:
 - birthday
+title: Thirty-Seven
+type: post
 url: /2015/08/thirty-seven/
 ---
 

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2015-11-19 17:09:06
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/667389154402021377/
 tags:
 - Travels
 title: Travel anxiety

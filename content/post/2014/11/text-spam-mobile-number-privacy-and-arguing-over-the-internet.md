@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2014-11-09 00:22:11
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/531240333997142016/
 title: Text spam, mobile number privacy and arguing over the internet
 type: post
 url: /2014/11/text-spam-mobile-number-privacy-and-arguing-over-the-internet/

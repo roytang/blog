@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2015-05-03 14:52:29
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/594877233501605890/
 tags:
 - Travels
 - europe2015
@@ -84,4 +87,3 @@ Next: [The Louvre and The Versailles](/2015/05/europe-2015-paris-part-2-and-vers
  [2]: http://roytang.net/2015/04/europe-2015-barcelona-part-1/
  [3]: http://roytang.net/2015/04/europe-2015-barcelona-part-2/
  [4]: http://roytang.net/2015/04/europe-2015-rome-and-vatican-city/
- 

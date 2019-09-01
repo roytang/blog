@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2013-03-24 16:44:57
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/315866889219874816/
 title: Scenes from a Quiz Night
 type: post
 url: /2013/03/scenes-from-a-quiz-night/

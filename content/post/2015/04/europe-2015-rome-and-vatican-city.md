@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2015-04-25 05:56:41
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/591843319669399552/
 tags:
 - Travels
 - europe2015
@@ -80,5 +83,3 @@ I was hoping to cover all of the Rome leg in one post, but this post is already
  [2]: http://roytang.net/2015/04/europe-2015-barcelona-part-1/
  [3]: http://roytang.net/2015/04/europe-2015-barcelona-part-2/
  [4]: http://www.agoda.com/migdal-palace/hotel/rome-it.html
- 
- 
