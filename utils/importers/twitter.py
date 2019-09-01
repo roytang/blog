@@ -64,6 +64,7 @@ def get_final_url(url):
     except:
         e = sys.exc_info()[0]
         print("Error: " + url)
+        urlcache[url] = url
         print(e)
         return url, False
 
@@ -106,8 +107,8 @@ def get_content(t):
             url = u["url"]
             expanded_url = u["expanded_url"]
             # print("##### A URL!!! %s" % expanded_url)
-            # expanded_url, no_errors = get_final_url(expanded_url)
-            # content = content.replace(url, expanded_url)
+            expanded_url, no_errors = get_final_url(expanded_url)
+            content = content.replace(url, expanded_url)
 
     return content
 
@@ -170,10 +171,10 @@ def create_post(t):
     if not outdir.exists():
         outdir.mkdir(parents=True)
     outfile = outdir / ( id + ".md" )
-    newfile = frontmatter.dumps(post)
+    # newfile = frontmatter.dumps(post)
 
-    with outfile.open("w", encoding="UTF-8") as w:
-        w.write(newfile)
+    # with outfile.open("w", encoding="UTF-8") as w:
+    #     w.write(newfile)
     return True
 
 def process_tweet(d1):
@@ -227,7 +228,8 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
     d = json.load(f)
     idx = 0
     for d1 in d:
-        # if d1["id_str"] != "738398022963363841":
+        # print(d1["id"])
+        # if d1["id_str"] != "1145894355170779137":
         #     continue
 
         if process_tweet(d1):
