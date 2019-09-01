@@ -9,6 +9,6 @@ tags:
 - answers
 ---
 
-Someone on [quora]() asked:
+Someone on [quora](https://quora.com) asked:
 > [Have any Filipinos (well-known or not) been clinically diagnosed as psychopaths or sociopaths, or at least have such tendencies?](https://www.quora.com/Have-any-Filipinos-well-known-or-not-been-clinically-diagnosed-as-psychopaths-or-sociopaths-or-at-least-have-such-tendencies/answer/Roy-Tang)
 <span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Psychological therapy and diagnosis isn't really a thing in the Philippines. As in, it's not something people believe in, and although there are people who undergo therapy, it is rare and seldom talked about</p></span>

@@ -9,6 +9,6 @@ tags:
 - answers
 ---
 
-Someone on [quora]() asked:
+Someone on [quora](https://quora.com) asked:
 > [What can I do to improve my posture? It hurts when I try to sit up for long periods of time?](https://www.quora.com/What-can-I-do-to-improve-my-posture-It-hurts-when-I-try-to-sit-up-for-long-periods-of-time/answer/Roy-Tang)
 <span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">There's this exercise I've been trying for about a month now: <span class="qlink_container"><a class="external_link" data-qt-tooltip="makeuseof.com" href="http://www.makeuseof.com/tag/this-3-minute-exercise-will-actually-fix-your-posture/" onclick="return Q.openUrl(this, 20186212);" rel="noopener nofollow" target="_blank">This 3-Minute Exercise Will Actually Fix Your Posture</a></span> </p><p class="ui_qtext_para u-ltr u-text-align--start">I think it's made some improvement, I don't know how much.</p><p class="ui_qtext_para u-ltr u-text-align--start">If your back is hurting consistently, it might be be better to consult a doctor about it.</p></span>

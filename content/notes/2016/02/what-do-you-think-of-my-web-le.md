@@ -9,6 +9,6 @@ tags:
 - answers
 ---
 
-Someone on [quora]() asked:
+Someone on [quora](https://quora.com) asked:
 > [What do you think of my web learning path?](https://www.quora.com/What-do-you-think-of-my-web-learning-path/answer/Roy-Tang)
 <span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">I think it's better to have some level of familiarity with the full stack (frontend to backend) before deciding to specialize. A solid understanding of the fundamentals of how the server side works will be useful for front end development</p></span>

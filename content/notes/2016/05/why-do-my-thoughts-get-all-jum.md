@@ -9,6 +9,6 @@ tags:
 - answers
 ---
 
-Someone on [quora]() asked:
+Someone on [quora](https://quora.com) asked:
 > [Why do my thoughts get all jumbled up? How do I organize them?](https://www.quora.com/Why-do-my-thoughts-get-all-jumbled-up-How-do-I-organize-them/answer/Roy-Tang)
 <span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Write. Keep a journal or write a blog. As long as you write regularly.</p><p class="ui_qtext_para u-ltr u-text-align--start">Writing lets your sort out your thoughts and clarify them and lets you learn how they should be organized.</p><p class="ui_qtext_para u-ltr u-text-align--start">Don’t worry that other people might not like what you write, you can write for yourself (at least at first). Writing for yourself is a lot like meditation, except that the physical act of typing out or manually writing out your thoughts can make it more satisfying and give a better sense of permanence.</p></span>

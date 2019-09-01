@@ -9,6 +9,6 @@ tags:
 - answers
 ---
 
-Someone on [quora]() asked:
+Someone on [quora](https://quora.com) asked:
 > [Does the shape of one's nail determine one's personality?](https://www.quora.com/Does-the-shape-of-ones-nail-determine-ones-personality/answer/Roy-Tang)
 <span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">No.</p></span>

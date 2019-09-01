@@ -9,6 +9,6 @@ tags:
 - answers
 ---
 
-Someone on [quora]() asked:
+Someone on [quora](https://quora.com) asked:
 > [What are effective psychological methods to cope with overwhelm?](https://www.quora.com/What-are-effective-psychological-methods-to-cope-with-overwhelm/answer/Roy-Tang)
 <span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Let's say you are faced with a decision where there are multiple viable choices such that you are unable to immediately make an easy decision. The fact that you are unable to make an easy decision means the choices are more or less the same and the differences are too small to matter or you don't have enough available information to differentiate them.</p><p class="ui_qtext_para u-ltr u-text-align--start">If you don't have to make a decision quickly, but the decision is unimportant, just pick one at random and go with it.</p><p class="ui_qtext_para u-ltr u-text-align--start">If you don't have to make a decision quickly, but the decision is important, try to gather further information to help guide your choice. Eventually either the choice will become clear or it simplifies into the case below.</p><p class="ui_qtext_para u-ltr u-text-align--start">If you DO have to make a decision quickly, pick one at random and go with it.</p></span>

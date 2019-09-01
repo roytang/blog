@@ -150,7 +150,7 @@ def create_post(d, title, url, answer_text, overwrite=True):
 
     url = "https://www.quora.com%s" % (url)   
 
-    caption = "Someone on [quora]() asked:\n\r"
+    caption = "Someone on [quora](https://quora.com) asked:\n\r"
     caption = caption + ("> [%s](%s)\n\r" % (title, url))
     caption = caption + answer_text
     post = frontmatter.Post(caption)

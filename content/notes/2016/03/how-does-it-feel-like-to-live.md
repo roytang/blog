@@ -9,6 +9,6 @@ tags:
 - answers
 ---
 
-Someone on [quora]() asked:
+Someone on [quora](https://quora.com) asked:
 > [How does it feel like to live a secret life?](https://www.quora.com/How-does-it-feel-like-to-live-a-secret-life/answer/Roy-Tang)
 <span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It can be a terrible way to live, depending on the secret. You have to live with deceiving your family and friends, and that rots you away from within</p></span>
