@@ -171,10 +171,9 @@ def create_post(t):
     if not outdir.exists():
         outdir.mkdir(parents=True)
     outfile = outdir / ( id + ".md" )
-    # newfile = frontmatter.dumps(post)
-
-    # with outfile.open("w", encoding="UTF-8") as w:
-    #     w.write(newfile)
+    newfile = frontmatter.dumps(post)
+    with outfile.open("w", encoding="UTF-8") as w:
+        w.write(newfile)
     return True
 
 def process_tweet(d1):
