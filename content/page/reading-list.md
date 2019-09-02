@@ -25,7 +25,7 @@ Finished reading (parentheses indicates year read, and link to relevant content 
 29. The Lord of the Rings by J. R. R. Tolkien. 
 31. A Brief History of Time by Stephen Hawking. 
 33. The Count of Monte Cristo by Alexandre Dumas. 
-34. His Dark Materials Trilogy by Philip Pullman. ([2016(/tags/dark-materials)])
+34. His Dark Materials Trilogy by Philip Pullman. ([2016](/tags/dark-materials))
 38. Lord of the Flies by William Golding. (1992, 2nd year HS English class)
 44. The Art of War by Sun Tzu. 
 46. Flowers For Algernon by Daniel Keyes. ([2014](https://twitter.com/roytang/statuses/420592683871006720/))
