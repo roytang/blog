@@ -43,7 +43,7 @@ def create_post(d, link_text, link_url, overwrite=True):
         outdir.mkdir(parents=True)
     outfile = outdir / ( id + ".md" )
 
-    if outfile.exists() and not overwrite():
+    if outfile.exists() and not overwrite:
         return
 
     newfile = frontmatter.dumps(post)
