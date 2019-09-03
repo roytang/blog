@@ -9,6 +9,7 @@ from datetime import datetime
 from urllib.parse import urlparse
 import os
 import requests
+import json
 
 token = os.environ['WEBMENTION_TOKEN']
 endpoint = "https://webmention.io/api/mentions.jf2?token=%s" % (token)
@@ -16,6 +17,12 @@ endpoint = "https://webmention.io/api/mentions.jf2?token=%s" % (token)
 cwd = Path.cwd() 
 p = cwd / "content" / "post"
 cf = cwd / "content" / "comment"
+
+blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
+urlmapfile = blogdir / "urlmap.json"
+urlmap = {}
+with urlmapfile.open(encoding="UTF-8") as f:
+    urlmap = json.loads(f.read())
 
 import urllib.request, json 
 with urllib.request.urlopen(endpoint) as url:
@@ -50,13 +57,8 @@ with urllib.request.urlopen(endpoint) as url:
     
         url = urlparse(link["wm-target"])
         u = url.path
-        # also fetch the title
-        n = requests.get(link["wm-target"])
-        al = n.text
-        # this is a bit hacky, but should work as long as the theme implements microformats
-        startstr = 'class="p-name">'
-        startidx = al.find(startstr) + len(startstr)
-        title = al[startidx : al.find('</', startidx)]
+        um = urlmap.get(u)
+        title = um['title']
     
         fm['parent_page'] = { 'urlpath' : u, 'title': title }
         fm['author'] = link['author']
