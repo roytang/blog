@@ -6,8 +6,7 @@ author:
   url: https://twitter.com/sleeplikeababy1
 date: 2019-08-13 04:33:09
 parent_page:
-  title: '><html lang=en><head><meta charset=utf-8><title>Out of sync with the world
-    &middot; Roy Tang'
+  title: Out of sync with the world
   urlpath: /2019/08/out-of-sync-with-the-world/
 source: webmention
 webmention_type: repost-of

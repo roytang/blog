@@ -6,8 +6,7 @@ author:
   url: https://twitter.com/mikong
 date: 2019-08-13 04:33:11
 parent_page:
-  title: '><html lang=en><head><meta charset=utf-8><title>Book Review: Utopia for
-    Realists by Rutger Bregman &middot; Roy Tang'
+  title: 'Book Review: Utopia for Realists by Rutger Bregman'
   urlpath: /2019/08/book-review-utopia-for-realists-by-rutger-bregman/
 source: webmention
 webmention_type: like-of

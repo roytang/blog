@@ -6,8 +6,7 @@ author:
   url: https://twitter.com/aleksfelipe
 date: 2019-08-13 04:33:08
 parent_page:
-  title: '><html lang=en><head><meta charset=utf-8><title>Fighting Games &middot;
-    Roy Tang'
+  title: Fighting Games
   urlpath: /2019/08/fighting-games/
 source: webmention
 webmention_type: like-of
