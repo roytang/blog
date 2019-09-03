@@ -1,6 +1,7 @@
 SHELL:=/bin/bash
 BASEDIR=$(CURDIR)
-OUTPUTDIR=public/blog
+OUTPUTDIR=public
+HUGOOUTPUTDIR=public/blog
 .PHONY: all
 all: clean get_repository build deploy
 .PHONY: clean
@@ -22,6 +23,7 @@ deploy:
 	@cd $(OUTPUTDIR) \
 	 && git config user.email "roytang@gmail.com" \
 	 && git config user.name "Roy Tang" \
+	 && git add . \
 	 && git status \
 	 && git commit -a -m "Deploy via Makefile" \
 	 && git push -f -q https://$(GITHUB_TOKEN)@github.com/roytang/roytang.github.io.git master
