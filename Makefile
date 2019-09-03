@@ -20,10 +20,9 @@ build:
 deploy:
 	@echo "Preparing commit"
 	@cd $(OUTPUTDIR) \
-	 && git config user.email "you@youremail.com" \
-	 && git config user.name "Your Name" \
-	 && git add . \
+	 && git config user.email "roytang@gmail.com" \
+	 && git config user.name "Roy Tang" \
 	 && git status \
-	 && git commit -m "Deploy via Makefile" \
+	 && git commit -a -m "Deploy via Makefile" \
 	 && git push -f -q https://$(GITHUB_TOKEN)@github.com/roytang/roytang.github.io.git master
 	@echo "Pushed to remote"
