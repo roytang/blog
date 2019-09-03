@@ -3,10 +3,10 @@
 <div id="comments" class="comments-title"><h3>Comments</h3></div>
 
 {{ $url := urls.Parse .Permalink }}		
-{{ $filtered := where .Site.RegularPages "Section" "comments" }}
+{{ $filtered := where .Site.RegularPages "Section" "comment" }}
 {{ range sort $filtered "Params.date" }}
     {{ if .Params.parent_page }}
-        {{ if eq .Params.parent_page.url_path $url.Path }}
+        {{ if eq .Params.parent_page.urlpath $url.Path }}
 <div class="comment">
     <h4 class="p-name">Comment by 
             {{ if .Params.author.url }}
