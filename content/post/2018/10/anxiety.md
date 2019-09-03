@@ -17,9 +17,9 @@ Webcomic PVP Online recently did [a short series on the character Cole suffering
 
 [<img src="https://roytang.net/wp-content/uploads/2018/10/pvp201810111.jpg" alt="" class="wp-image-2850" srcset="https://roytang.net/wp-content/uploads/2018/10/pvp201810111.jpg 970w, https://roytang.net/wp-content/uploads/2018/10/pvp201810111-300x96.jpg 300w, https://roytang.net/wp-content/uploads/2018/10/pvp201810111-768x245.jpg 768w, https://roytang.net/wp-content/uploads/2018/10/pvp201810111-600x192.jpg 600w" sizes="(max-width: 970px) 100vw, 970px" />][1]</figure> 
 
-I generally consider myself to be a well-adjusted and functioning adult (more or less), but I did grow up as a socially anxious introvert, so I still find myself suffering mild anxiety from time to time. The most common scenario is when someone messages you like "Hey, can we talk later?" with no additional context whatsoever. Depending on your relationship with that person, you might start to overthink things. "Am I in trouble? Did something go wrong? What did I tell her last time? Did I forget to submit something?" And so on. Relevant tweet:<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+I generally consider myself to be a well-adjusted and functioning adult (more or less), but I did grow up as a socially anxious introvert, so I still find myself suffering mild anxiety from time to time. The most common scenario is when someone messages you like "Hey, can we talk later?" with no additional context whatsoever. Depending on your relationship with that person, you might start to overthink things. "Am I in trouble? Did something go wrong? What did I tell her last time? Did I forget to submit something?" And so on. Relevant tweet:
 
-{{< tweet 888463047857197056 >}}
+(Edit: Um, the relevant tweet seems to have been deleted :/)
 
 Which is nonsense of course. Without any additional context, there is an equal likelihood the discussion would end up being about something positive or neutral, instead of something negative. Anxiety is caused mostly by fear and uncertainty, magnified by a time gap. That time gap is filled by a hyperactive imagination with worst-case scenarios.
 
