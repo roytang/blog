@@ -6,7 +6,7 @@ author:
   url: https://twitter.com/aleksfelipe
 date: 2019-08-13 04:33:06
 parent_page:
-  title: Forty One
+  title: '><html lang=en><head><meta charset=utf-8><title>Forty One &middot; Roy Tang'
   urlpath: /2019/08/forty-one/
 source: webmention
 webmention_type: like-of

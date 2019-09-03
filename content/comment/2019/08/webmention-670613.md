@@ -6,7 +6,8 @@ author:
   url: https://twitter.com/aleksfelipe
 date: 2019-08-18 15:12:41
 parent_page:
-  title: MCQ Richmond (Modern) with Grixis Death Shadow
+  title: '><html lang=en><head><meta charset=utf-8><title>MCQ Richmond (Modern) with
+    Grixis Death Shadow &middot; Roy Tang'
   urlpath: /2019/08/mcq-richmond-modern-with-grixis-death-shadow/
 source: webmention
 webmention_type: like-of
