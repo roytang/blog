@@ -16,7 +16,7 @@ get_repository:
 build:
 	@echo "Generating site"
 	hugo version
-	hugo --gc --minify
+	hugo --gc --minify --destination $(BASEDIR)/$(HUGOOUTPUTDIR)
 .PHONY: deploy
 deploy:
 	@echo "Preparing commit"
@@ -25,6 +25,6 @@ deploy:
 	 && git config user.name "Roy Tang" \
 	 && git add . \
 	 && git status \
-	 && git commit -a -m "Deploy via Makefile" \
+	 && git commit -m "Deploy via Makefile" \
 	 && git push -f -q https://$(GITHUB_TOKEN)@github.com/roytang/roytang.github.io.git master
 	@echo "Pushed to remote"
