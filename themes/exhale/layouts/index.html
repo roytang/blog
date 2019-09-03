@@ -5,7 +5,7 @@
 <section class="h-feed">
     <a class="u-url" href="/"></a>
     <h1 class="p-name">Recent activity</h1>
-{{ $paginator := .Paginate .Pages }}
+{{ $paginator := .Paginate .Site.RegularPages }}
 {{ range $paginator.Pages }}
     {{ if not (eq .Section "page") }}
     {{ .Render "list_item" }}
