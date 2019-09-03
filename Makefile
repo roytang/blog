@@ -15,7 +15,7 @@ get_repository:
 .PHONY: build
 build:
 	@echo "Generating site"
-	pip install -r requirements.txt
+	pip install -r utils/requirements.txt
 	python utils/markov.py
 	hugo version
 	hugo --gc --minify --destination $(BASEDIR)/$(HUGOOUTPUTDIR)
