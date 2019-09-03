@@ -1,6 +1,6 @@
 SHELL:=/bin/bash
 BASEDIR=$(CURDIR)
-OUTPUTDIR=public
+OUTPUTDIR=public/blog
 .PHONY: all
 all: clean get_repository build deploy
 .PHONY: clean
@@ -11,7 +11,6 @@ clean:
 get_repository:
 	@echo "Getting public repository"
 	git clone https://github.com/roytang/roytang.github.io.git public
-	mkdir $(BASEDIR)/$(OUTPUTDIR)
 .PHONY: build
 build:
 	@echo "Generating site"
