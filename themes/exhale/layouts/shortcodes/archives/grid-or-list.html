@@ -1,0 +1,5 @@
+<div class="grid-or-list">
+{{ .Scratch.Set "section" (.Get "section") }}
+{{ partial "archives/grid" . }}
+{{ partial "archives/list" . }}
+</div>

@@ -1,0 +1,59 @@
+{{ $scratch := newScratch }}
+<table class="grid_archive">
+<thead>
+    <tr>
+        <th>Year</th>
+        <th>Jan</th>
+        <th>Feb</th>
+        <th>Mar</th>
+        <th>Apr</th>
+        <th>May</th>
+        <th>Jun</th>
+        <th>Jul</th>
+        <th>Aug</th>
+        <th>Sep</th>
+        <th>Oct</th>
+        <th>Nov</th>
+        <th>Dec</th>
+        <th>Total</th>
+    </tr>
+</thead>
+<tbody>
+{{ range (where .Site.RegularPages "Section" ( .Scratch.Get "section" )).GroupByDate "2006" }}
+<tr>
+    <th>{{ .Key }}</th>
+    <!-- curr month is a loop index to count table cells -->
+    {{ $scratch.Set "CurrMonth" 1 }}
+    {{ range (.Pages.GroupByDate "1").Reverse }}
+        {{ $scratch.Set "ThisMonth" (int .Key) }} 
+        {{ $this_month := $scratch.Get "ThisMonth" }}
+        {{ $curr_month := $scratch.Get "CurrMonth" }}
+        {{ if lt $curr_month $this_month }}
+            <!-- add empty cells until we get to the correct current month -->
+            {{ $scratch.Set "ThisMonthMinus1" $this_month }}
+            {{ $scratch.Add "ThisMonthMinus1" -1 }}
+            {{ range $i, $sequence :=  (seq ($curr_month) ($scratch.Get "ThisMonthMinus1") ) }}
+                <td></td>
+                {{ $scratch.Add "CurrMonth" 1 }}
+            {{ end }}        
+        {{ end }}
+        <td class="arc">
+            {{ $count := len (where .Pages "Kind" "page") }}
+            {{ range first 1 .Pages }}
+                <a href='{{ .Date.Format "/2006/01/" | absURL }}'>{{ $count }}</a>
+            {{ end }}
+        </td>
+        {{ $scratch.Add "CurrMonth" 1 }}
+    {{ end }}    
+    <!-- add empty cells until we get to the end month -->
+    {{ $curr_month := $scratch.Get "CurrMonth" }}
+    {{ if lt $curr_month 13 }}
+        {{ range $i, $sequence :=  (seq ($curr_month) 12 ) }}
+            <td></td>
+        {{ end }}        
+    {{ end }}
+    <td class="arc"><a href='{{ .Key | absURL }}'>{{ len (.Pages) }}</a></td>
+</tr>
+{{ end }}
+</tbody>
+</table>

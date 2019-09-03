@@ -1,0 +1,13 @@
+{{ $mainPermalink := .RelPermalink }}
+{{ $caption := .Summary }}
+{{ $scratch := newScratch }}
+{{ range .Resources.ByType "image" }}
+{{ $scratch.Set "thumbnail" (.Resize "200x") }}
+{{ $thumb := $scratch.Get "thumbnail" }}
+<a href="{{ $mainPermalink }}">
+    <figure>
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ $caption }}" title="{{ $caption }}" />
+    </figure>
+</a>
+
+{{ end }}

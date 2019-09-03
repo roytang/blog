@@ -1,0 +1,64 @@
+<div class="hero">
+    <div class="hero-content">
+    {{ with .Site.Params.hero_text }}
+    {{ . | markdownify }}
+    {{end}}
+    </div>
+    <div class="hero-links">
+        {{ with .Site.Params.locationlink }}
+        <a href="{{ . }}">
+        {{end}}
+        {{ with .Site.Params.location }}
+        <span class="fas fa-map-marker-alt"></span>&nbsp;{{ . }}</a>
+        {{ end }}
+        {{ with .Site.Params.locationlink }}
+        </a>
+        {{end}}
+
+        {{ with .Site.Params.twitter }}
+        <a id="contact-link-twitter" rel="me" class="contact_link" href="https://twitter.com/{{ . }}">
+          <span class="fab fa-twitter-square"></span>&nbsp;@{{ . }}</a>
+        {{ end }}
+    
+        {{ with .Site.Params.mastodon_url }}
+        <a id="contact-link-mastodon" rel="me" class="contact_link" href="{{ . }}">
+        {{ end }}
+        {{ with .Site.Params.mastodon }}
+        <span class="fab fa-mastodon"></span>&nbsp;@{{ . }}</a>
+        {{ end }}
+        {{ with .Site.Params.mastodon_url }}
+        </a>
+        {{ end }}
+    
+        {{ with .Site.Params.linkedin }}
+        <a id="contact-link-linkedin" rel="me" class="contact_link" href="https://www.linkedin.com/in/{{ . }}">
+          <span class="fab fa-linkedin"></span>&nbsp;{{ . }}</a>
+        {{ end }}
+        
+        {{ with .Site.Params.github }}
+        <a id="contact-link-github" rel="me" class="contact_link" href="https://github.com/{{ . }}">
+          <span class="fab fa-github-square"></span>&nbsp;{{ . }}</a>
+        {{ end }}
+
+        {{ with .Site.Params.instagram }}
+        <a id="contact-link-instagram" rel="me" class="contact_link" href="https://instagram.com/{{ . }}">
+          <span class="fab fa-instagram"></span>&nbsp;{{ . }}</a>
+        {{ end }}
+
+        {{ with .Site.Params.reddit }}
+        <a id="contact-link-reddit" rel="me" class="contact_link" href="https://reddit.com/u/{{ . }}">
+          <span class="fab fa-reddit-square"></span>&nbsp;/u/{{ . }}</a>
+        {{ end }}
+
+        {{ with .Site.Author.email }}
+        <a id="contact-link-email" rel="me" class="contact_link" href="mailto:{{ . }}">
+          <span class="fa fa-envelope-square"></span>&nbsp;{{ . }}</a>
+        {{ end }}
+
+        {{ if not .IsPage }}
+         <a id="contact-link-rss" class="contact_link" href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}' type="application/rss+xml">
+            <span class="fa fa-rss-square"></span>&nbsp;RSS Feed</a>
+        {{ end }}
+
+    </div>
+</div>

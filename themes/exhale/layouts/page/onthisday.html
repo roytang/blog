@@ -1,0 +1,19 @@
+{{ $scratch := newScratch }}
+{{ $archMonth := now.Format "January" }}
+{{ $archDay := now.Format "02" }}
+
+{{ partial "head" . }}
+<section class="h-feed">
+<h2 class="p-name">On this day</h2>
+
+{{ range .Site.RegularPages }}
+    {{ if and (eq (.Date.Format "02") $archDay) (eq (.Date.Format "January") $archMonth) }}
+        {{ .Render "list_item" }}
+    {{ end }}
+{{ end }}
+</section>
+
+</section>
+
+{{ partial "block/navigation" . }}
+{{ partial "foot" . }}

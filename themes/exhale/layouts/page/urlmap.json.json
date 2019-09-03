@@ -1,0 +1,22 @@
+{
+    {{ range .Site.RegularPages }}
+    "{{ .RelPermalink }}": {
+        "full_url": "{{ .Permalink }}",
+        "kind": "{{ .Kind }}",
+        "source_path": {{ .File.Path |jsonify }},
+        {{ if .Params.syndicated }}
+        "syndicated": [
+            {{ range .Params.syndicated }}
+            {
+                "url": "{{ .url }}",
+                "type": "{{ .type }}"
+            },
+            {{ end }}
+            {}
+        ],
+        {{ end }}
+        "title": {{ .Title | jsonify }}
+    },
+    {{ end }}
+    "Dummy": {}
+}

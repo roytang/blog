@@ -1,0 +1,125 @@
+{{ partial "head" . }}
+<article id="main-content" class="container main_content single">
+<h3>Post Archives</h3>
+
+{{ $scratch := newScratch }}
+
+<h4>All Posts</h4> 
+{{ $all_posts := where .Site.Pages "Section" "post" }}
+{{ $scratch.Set "TotalWordCount" 0 }}
+{{ range $all_posts }}
+    {{ $scratch.Add "TotalWordCount" .WordCount }}
+{{ end }}
+<p>If you'd like a listing of all {{ len ($all_posts) }} posts in a single page, click <a href='{{ "/post/" | absURL }}'>here</a>. {{ $scratch.Get "TotalWordCount" }} total words!</p>
+
+<h4>All Posts by Date</h4>
+
+<p>I've been blogging since 2002! Click on the post counts below to view the posts by year or month.</p>
+<table class="grid_archive">
+<thead>
+    <tr>
+        <th>Year</th>
+        <th>Jan</th>
+        <th>Feb</th>
+        <th>Mar</th>
+        <th>Apr</th>
+        <th>May</th>
+        <th>Jun</th>
+        <th>Jul</th>
+        <th>Aug</th>
+        <th>Sep</th>
+        <th>Oct</th>
+        <th>Nov</th>
+        <th>Dec</th>
+        <th>Total</th>
+    </tr>
+</thead>
+<tbody>
+{{ range (where .Site.Pages "Section" "post").GroupByDate "2006" }}
+<tr>
+    <th>{{ .Key }}</th>
+    <!-- curr month is a loop index to count table cells -->
+    {{ $scratch.Set "CurrMonth" 1 }}
+    {{ range (.Pages.GroupByDate "1").Reverse }}
+        {{ $scratch.Set "ThisMonth" (int .Key) }} 
+        {{ $this_month := $scratch.Get "ThisMonth" }}
+        {{ $curr_month := $scratch.Get "CurrMonth" }}
+        {{ if lt $curr_month $this_month }}
+            <!-- add empty cells until we get to the correct current month -->
+            {{ $scratch.Set "ThisMonthMinus1" $this_month }}
+            {{ $scratch.Add "ThisMonthMinus1" -1 }}
+            {{ range $i, $sequence :=  (seq ($curr_month) ($scratch.Get "ThisMonthMinus1") ) }}
+                <td></td>
+                {{ $scratch.Add "CurrMonth" 1 }}
+            {{ end }}        
+        {{ end }}
+        <td class="arc">
+            {{ $count := len (where .Pages "Kind" "page") }}
+            {{ range first 1 .Pages }}
+                <a href='{{ .Date.Format "/2006/01/" | absURL }}'>{{ $count }}</a>
+            {{ end }}
+        </td>
+        {{ $scratch.Add "CurrMonth" 1 }}
+    {{ end }}    
+    <!-- add empty cells until we get to the end month -->
+    {{ $curr_month := $scratch.Get "CurrMonth" }}
+    {{ if lt $curr_month 13 }}
+        {{ range $i, $sequence :=  (seq ($curr_month) 12 ) }}
+            <td></td>
+        {{ end }}        
+    {{ end }}
+    <td class="arc"><a href='{{ .Key | absURL }}'>{{ len (.Pages) }}</a></td>
+</tr>
+{{ end }}
+</tbody>
+</table>
+
+<div class="list_archive">
+    <ul>
+    {{ range (where .Site.Pages "Section" "post").GroupByDate "2006 January" }}
+        {{ $count := len (.Pages) }}
+        {{ $key := .Key }}
+        {{ range first 1 .Pages }}
+            <li><a href='{{ .Date.Format "/2006/01/" | absURL }}'>{{ $key }}</a> ({{ $count }})</li>
+        {{ end }}
+    {{ end }}
+    </ul>
+</div>
+
+<p />
+
+<h4>All Posts by Tag</h4>
+
+<!--
+{{ if not (eq (len $.Site.Taxonomies.tags) 0) }}
+    {{ $fontUnit := "rem" }}
+    {{ $largestFontSize := 2.0 }}
+    {{ $largestFontSize := 2.5 }}
+    {{ $smallestFontSize := 1.0 }}
+    {{ $fontSpread := sub $largestFontSize $smallestFontSize }}
+    {{ $max := add (len (index $.Site.Taxonomies.tags.ByCount 0).Pages) 1 }}
+    {{ $min := len (index $.Site.Taxonomies.tags.ByCount.Reverse 0).Pages }}
+    {{ $spread := sub $max $min }}
+    {{ $fontStep := div $fontSpread $spread }}
+
+    <div id="tag-cloud" style="padding: 5px 15px">
+        {{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
+            {{ $currentTagCount := len $taxonomy.Pages }}
+            {{ $currentFontSize := (add $smallestFontSize (mul (sub $currentTagCount $min) $fontStep) ) }}
+            {{ $count := len $taxonomy.Pages }}
+            {{ $weigth := div (sub (math.Log $count) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
+            {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weigth) ) }}
+            <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" style="font-size:{{$currentFontSize}}{{$fontUnit}}">{{ $name }}</a>
+        {{ end }}
+    </div>
+{{ end }}
+-->
+
+<ul>
+{{ range .Site.Taxonomies.tags.ByCount }}
+	<li><a href="/tags/{{ .Name | urlize  }}">{{ .Name | humanize }}</a> ({{ .Count }})</li>
+{{ end }}
+</ul>
+
+</article>
+{{ partial "foot" . }}

@@ -1,0 +1,58 @@
+{{ $caption := .Summary }}
+{{ $scratch := newScratch }}
+{{ $link_url := .Params.photo_link_url }}
+{{ range .Resources.ByType "image" }}
+
+{{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+
+{{ $tinyw := default "500x" }}
+{{ $smallw := default "800x" }}
+{{ $mediumw := default "1200x" }}
+
+{{/* resize the src image to the given sizes, if necessary */}}
+
+{{/* Commented out the image resizing for now until I can appreciate it better!
+
+{{ if ge .Width "500" }}
+{{ $scratch.Set "tiny" (.Resize $tinyw) }}
+{{ end }}
+{{ if ge .Width "800" }}
+{{ $scratch.Set "small" (.Resize $smallw) }}
+{{ end }}
+{{ if ge .Width "1200" }}
+{{ $scratch.Set "medium" (.Resize $mediumw) }}
+{{ end }}
+
+*/}}
+
+{{/* add the processed images to the scratch */}}
+
+{{ $tiny := $scratch.Get "tiny" }}
+{{ $small := $scratch.Get "small" }}
+{{ $medium := $scratch.Get "medium" }}
+
+{{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+
+{{ if $link_url }}<a href="{{ $link_url }}" title="{{ $caption }}">{{ end }}
+<img 
+{{/*
+  sizes="(min-width: 35em) 1200px, 100vw"
+  srcset='
+  {{ if ge .Width "500" }}
+    {{ with $tiny.RelPermalink }}{{.}} 500w,{{ end }}
+  {{ end }}
+  {{ if ge .Width "800" }}
+    {{ with $small.RelPermalink }}, {{.}} 800w,{{ end }}
+  {{ end }}
+  {{ if ge .Width "1200" }}
+    {{ with $medium.RelPermalink }}, {{.}} 1200w,{{ end }}
+  {{ end }}
+  {{ .RelPermalink }}
+  '
+*/}}
+    src="{{ .RelPermalink }}" 
+    alt="{{ $caption }}"
+    title="{{ $caption }}"
+  />
+{{ if $link_url }}</a>{{ end }}
+{{ end }}

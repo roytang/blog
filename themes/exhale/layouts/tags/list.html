@@ -1,0 +1,10 @@
+{{ partial "head" . }}
+  <section class="h-feed">
+      <p class="p-name">All entries tagged {{ .Title }}. You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
+    {{ range $index, $page := .Paginator.Pages }}
+        {{ .Render "list_item" }}
+    {{ end }}
+  {{ partial "pagination" . }}
+</section>
+{{ partial "block/hero" . }}
+{{ partial "foot" . }}

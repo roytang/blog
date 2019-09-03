@@ -1,0 +1,5 @@
+<ul>
+{{ range .Site.Taxonomies.tags.ByCount }}
+	<li><a href="/tags/{{ .Name | urlize  }}">{{ .Name | humanize }}</a> ({{ .Count }})</li>
+{{ end }}
+</ul>

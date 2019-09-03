@@ -1,0 +1,12 @@
+<div class="title">
+    <a class="u-url post-title" href="{{ .Permalink }}">
+        <h2 class="p-name">{{ .Title }}</h2>
+    </a>
+    <h3 class="p-name">Comment by 
+    {{ if .Params.author.url }}
+        <a href="{{ .Params.author.url }}">{{ .Params.author.name }}</a>
+    {{ else }}
+        <span class='linkless-commenter'>{{ .Params.author.name }} </span>
+    {{ end }}
+    on <a href="{{ .Params.parent_page.urlpath | absURL  }}">{{ .Params.parent_page.Title }}</a></h3>
+</div>

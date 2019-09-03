@@ -1,0 +1,47 @@
+{{ if and (.IsPage) ($.Param "comments_enabled") (not (eq .Type "page")) }}
+<div class="comments">
+<div id="comments" class="comments-title"><h3>Comments</h3></div>
+
+{{ $url := urls.Parse .Permalink }}		
+{{ $filtered := where .Site.Pages "Params.parent_page.urlpath" $url.Path }}
+{{ range sort $filtered "Params.date" }}
+<div class="comment">
+    <h4 class="p-name">Comment by 
+            {{ if .Params.author.url }}
+                <a href="{{ .Params.author.url }}">{{ .Params.author.name }}</a>
+            {{ else }}
+                <span class='linkless-commenter'>{{ .Params.author.name }} </span>
+            {{ end }}
+            on <a href="{{ .Permalink  }}">{{.Date.Format "2006-01-02"}}</a></h4>
+    {{.Content}}
+</div>
+{{ end }}
+
+{{ if .Site.Params.comments_endpoint }}
+<form id="comments-form" action="{{ .Site.Params.comments_endpoint }}" method="POST">
+    <p><input name="name" placeholder="Your name" required /></p>
+    <p><input name="url" placeholder="Your URL (optional)" /></p>
+    <p><textarea name="content" required placeholder="Your comment (markdown supported). Comments will be reviewed before appearing on the site." rows="5"></textarea></p>
+
+    {{ if .Site.Params.recaptcha_key }}
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script>
+        var form = document.getElementById('comments-form');
+        form.addEventListener("submit", function(event){
+            if (grecaptcha.getResponse() === '') {                            
+            event.preventDefault();
+            alert('Please check the recaptcha');
+            }
+        }
+        , false);
+    </script>
+    <div class="g-recaptcha" data-sitekey="{{ .Site.Params.recaptcha_key }}" data-size="compact"></div>
+    {{ end }}
+
+    <button type="submit" >Submit comment</button>
+</form>
+{{ end }}
+
+</div>
+
+{{ end }}

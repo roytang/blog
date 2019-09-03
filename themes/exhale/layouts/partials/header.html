@@ -1,0 +1,17 @@
+<header class="mainheader h-card vcard about-author">
+    <img class="u-photo" src="{{ .Site.Params.featuredImage }}" alt="" />
+    <div>
+        <a style="display: none" href={{ .Site.BaseURL }} class="p-name u-url url author metatag" rel="me">
+            {{ .Site.Author.name }}
+        </a>
+        <p class="u-email" style="display:none">{{ .Site.Author.email }}</p>
+        <h1><a class="baselink" href="{{ .Site.BaseURL }}">
+        {{ .Site.Title }}
+        </a></h1>
+        <p class="p-note">{{ .Site.Params.topline | markdownify }}</p>
+    </div>
+</header>
+<div class="secondheader">
+    {{ partial "header/search" . }}
+</div>
+

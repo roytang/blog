@@ -1,0 +1,25 @@
+    <div class="meta">
+        <div class="meta1">
+        <p class="meta_item"><time class="dt-published" datetime="{{ .Date.Format "2006-01-02 15:04:05" }}">{{ .Date.Format .Site.Data.Formats.date }}</time></p>
+        
+        {{ if eq .Section "post" }}
+        <p class="meta_item">:: {{ .WordCount }} words</p>
+        {{ end }}
+
+        {{ if and .Params.source .Params.source_url }}
+        <p class="meta_item">:: via <a target="_new" href="{{ .Params.source_url }}">{{ .Params.source }}</a></p>
+        {{ end }}
+        </div>
+
+        <p>
+        {{ range .Params.tags }}
+        <a class="tag p-category" href="{{ "/tags/" | absURL }}{{ . | urlize }}"><i class="fas fa-tag"></i> {{ .  | urlize }}</a>
+        {{ end }}
+        </p>
+
+        
+        {{ range .Params.syndicated }}
+        <p></p><a rel="syndication" class="u-syndication" href="{{ .url }}">View on {{ .type }}</a></p>
+        {{ end }}
+
+    </div>

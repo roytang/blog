@@ -1,0 +1,11 @@
+<div class="list_archive">
+    <ul>
+    {{ range (where .Site.RegularPages "Section" ( .Scratch.Get "section" )).GroupByDate "2006 January" }}
+        {{ $count := len (.Pages) }}
+        {{ $key := .Key }}
+        {{ range first 1 .Pages }}
+            <li><a href='{{ .Date.Format "/2006/01/" | absURL }}'>{{ $key }}</a> ({{ $count }})</li>
+        {{ end }}
+    {{ end }}
+    </ul>
+</div>

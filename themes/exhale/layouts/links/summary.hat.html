@@ -1,0 +1,5 @@
+<div class="title">
+    <i class="fas fa-link"></i> shared via <a href="{{ .Params.link.source_url }}">{{ .Params.link.source }}</a>:
+    <a class="u-bookmark-of h-cite post-title" href="{{ .Params.link.url }}"><h2 class="p-name">{{ .Params.link.text }}</h2></a>
+</div>
+{{ partial "block/meta" . }}
