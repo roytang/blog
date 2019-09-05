@@ -171,6 +171,11 @@ def create_post(t):
         }
     elif t["full_text"].startswith("RT @"):
         kind = "reposts"
+        post['repost_source'] = {
+            "type": "twitter",
+            "name": t["in_reply_to_screen_name"],
+            "url": "????"
+        }        
         # dont process reposts for now
         return False
     else:
