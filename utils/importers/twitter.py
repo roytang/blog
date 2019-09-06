@@ -182,19 +182,20 @@ def create_post(t):
             # RTed status is inaccessible, we'll just render it as an ordinary note
             pass
         else:
-            kind = "reposts"
             if "retweeted_user" in rc:
+                kind = "reposts"
                 post['repost_source'] = {
                     "type": "twitter",
                     "name": rc["retweeted_user"],
                     "url": "https://twitter.com/%s/statuses/%s/" % (rc['retweeted_user'], rc['retweeted_id'])
                 }        
+                # dont process reposts for now
+                return False
             else:
                 # 785744070027030528 fails this
+                # RTed status is inaccessible, we'll just render it as an ordinary note
                 pass
 
-            # dont process reposts for now
-            return False
     else:
         # dont process others for now
         return False
