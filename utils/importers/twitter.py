@@ -211,7 +211,7 @@ def create_post(t):
                     "url": "https://twitter.com/%s/statuses/%s/" % (rc['retweeted_user'], rc['retweeted_id'])
                 }        
                 # dont process reposts for now
-                return False
+                # return False
             else:
                 # 785744070027030528 fails this
                 # RTed status is inaccessible, we'll just render it as an ordinary note
@@ -307,7 +307,7 @@ def process_tweet(d1):
         og = urlmap.get(orig_tweet_url)
         if og['source_path'].startswith('post\\') or og['source_path'].startswith('photos\\'):
             # no need to process further any tweets that are already mapped to a post
-            return False
+            return True
 
     tweet_source = d1["source"]
     # detect content syndicated from elsewhere
