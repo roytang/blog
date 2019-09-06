@@ -88,6 +88,10 @@ def is_number(s):
 def get_final_url(url):
     global urlcache
     if url in urlcache:
+        if urlcache[url].endswith("imgur.com/removed.png"):
+            # rewrite the cache so we don't use this imgur 404:
+            urlcache[url] = url
+            return urlcache[url], True
         return urlcache[url], True
 
     try:
