@@ -6,6 +6,9 @@ tags:
 title: MTGO PTQ San Diego Schedule (Manila Time)
 type: post
 url: /2009/10/mtgo-ptq-san-diego-schedule-manila-time/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/4710457907/
 ---
 
 The following are M10 sealed:
