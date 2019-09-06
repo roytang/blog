@@ -275,6 +275,9 @@ def process_syn_url(d1, raw_url, url):
     url = url.replace("www.instagram.com", "instagram.com")
     url = url.replace("/roytang0400", "")
     url = urldefrag(url)[0]
+    if url.find("instagram.com") >= 0 and url.find("?") >= 0:
+        # remove utm and other misc query params from insta urls
+        url = url.split("?")[0]
     if url in urlmap:
         u = urlmap[url]
         source_path = Path(u['source_path'])
@@ -347,8 +350,8 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
     d = json.load(f)
     idx = 0
     for d1 in d:
-        # if d1["id_str"] != "1142622292221943808":
-        #     continue
+        if d1["id_str"] != "1033369979884847106":
+            continue
 
         if process_tweet(d1):
             continue
