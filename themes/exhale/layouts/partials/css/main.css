@@ -449,41 +449,18 @@ hr {
 }
 
 div.image-list {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
 }
 
 div.image-list a {
-    font-size: 16px; 
-    display: inline-block;
-    margin-bottom: 4px;
-    width: calc(100% - 2px);
-    margin-right: 4px;
+    display: block;
 }
 
 div.image-list img {
     box-shadow: 1px 1px 0 0 var(--second-color);    
-    max-width: none;
 }
   
-div.image-list a:nth-of-type(2n) {
-    margin-right: 0;
-}
-  
-@media screen and (min-width: 50em) {
-    div.image-list a {
-        width: calc(25% - 3px);
-    }
-
-    div.image-list a:nth-of-type(2n) {
-        margin-right: 4px;
-    }
-
-    div.image-list a:nth-of-type(4n) {
-        margin-right: 0;
-    }
-}
-
 div.comment {
     border: 1px var(--third-color) dotted;
     background-color: var(--second-container-color);
