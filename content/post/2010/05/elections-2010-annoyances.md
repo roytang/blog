@@ -7,6 +7,9 @@ tags:
 title: Elections 2010 -- Annoyances
 type: post
 url: /2010/05/elections-2010-annoyances/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/13702419244/
 ---
 
 Expect long lines, hot and sweaty rooms and maybe disorganized Comelec. Here are some other annoyances I encountered (just a quick brain dump):

@@ -7,6 +7,9 @@ tags:
 title: Elections 2010 -- My Ballot
 type: post
 url: /2010/05/elections-2010-my-ballot/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/13612799085/
 ---
 
 For President, I'm voting **Dick Gordon**, because I believe that the Philippines should be a meritocracy where people are chosen as leaders based on the strength of their accomplishments and qualifications.
