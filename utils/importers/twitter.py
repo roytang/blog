@@ -63,15 +63,19 @@ for su in urlmapdupes:
     canonical = None
     for_deletion = []
     for d in dupes:
-        if d["source_path"].startswith("post"):
+        if d["source_path"].startswith("post") or len(d['syndicated']) > 2:
             if canonical is not None:
                 print("##### WTH. More than one canonical urls were detected for %s" % (su))
+                print(dupes)
             canonical = d
         else:
             for_deletion.append(d)
+
     if canonical is None:
         print("##### Dupes were detected for %s but no canonical url found!" % (su))
+        print(dupes)
     else:
+        urlmap[su] = canonical
         for d in for_deletion:
             source_path = Path(d['source_path'])
             full_path = contentdir / source_path
@@ -249,8 +253,56 @@ def create_post(t):
         w.write(newfile)
     return True
 
-def process_tweet(d1):
+def process_syn_url(d1, raw_url, url):
     orig_tweet_url = "https://twitter.com/%s/statuses/%s/" % (TWITTER_USERNAME, d1['id_str'])
+
+    url, no_errors = get_final_url(url)
+
+    if not no_errors:
+        print(d1["full_text"])
+
+    url = url.replace("www.instagram.com", "instagram.com")
+    url = urldefrag(url)[0]
+    if url in urlmap:
+        u = urlmap[url]
+        source_path = Path(u['source_path'])
+        full_path = contentdir / source_path
+        add_syndication(full_path, orig_tweet_url, "twitter")
+        return True
+
+    if url.find("://roytang.net") >= 0:
+        link_url = urlparse(url)
+        u = urlmap.get(link_url.path, None)
+        if u is None:
+            # try matching by title
+            title_search_term = d1["full_text"]
+            title_search_term = title_search_term.replace("New blog post: ", "")
+            title_search_term = title_search_term.replace("New post: ", "")
+            title_search_term = title_search_term.replace(raw_url, "")
+            title_search_term = title_search_term.strip()
+            u = urlmap.get(title_search_term, None)
+        if u is not None:
+            source_path = Path(u['source_path'])
+            full_path = contentdir / source_path
+            add_syndication(full_path, orig_tweet_url, "twitter")
+            return True
+        else:
+            print("######## Unmatched roytang url: %s" % (url))
+            print(d1["full_text"])
+            return True
+
+    return False
+
+def process_tweet(d1):
+
+    orig_tweet_url = "https://twitter.com/%s/statuses/%s/" % (TWITTER_USERNAME, d1['id_str'])
+
+    if orig_tweet_url in urlmap:
+        og = urlmap.get(orig_tweet_url)
+        if og['source_path'].startswith('post\\') or og['source_path'].startswith('photos\\'):
+            # no need to process further any tweets that are already mapped to a post
+            return False
+
     tweet_source = d1["source"]
 
     # detect content syndicated from elsewhere
@@ -262,42 +314,15 @@ def process_tweet(d1):
             for u in d1.get('entities', {}).get("urls", []):
                 raw_url = u["url"]
                 url = u["expanded_url"]
-                url, no_errors = get_final_url(url)
-
-                if not no_errors:
-                    print(d1["full_text"])
-
-                url = url.replace("www.instagram.com", "instagram.com")
-                url = urldefrag(url)[0]
-                if url in urlmap:
-                    u = urlmap[url]
-                    source_path = Path(u['source_path'])
-                    full_path = contentdir / source_path
-                    add_syndication(full_path, orig_tweet_url, "twitter")
+                if process_syn_url(d1, raw_url, url):
                     return True
-
-                if url.find("://roytang.net") >= 0:
-                    link_url = urlparse(url)
-                    u = urlmap.get(link_url.path, None)
-                    if u is None:
-                        # try matching by title
-                        title_search_term = d1["full_text"]
-                        title_search_term = title_search_term.replace("New blog post: ", "")
-                        title_search_term = title_search_term.replace("New post: ", "")
-                        title_search_term = title_search_term.replace(raw_url, "")
-                        title_search_term = title_search_term.strip()
-                        u = urlmap.get(title_search_term, None)
-                    if u is not None:
-                        source_path = Path(u['source_path'])
-                        full_path = contentdir / source_path
-                        add_syndication(full_path, orig_tweet_url, "twitter")
-                        return True
-                    else:
-                        print("######## Unmatched roytang url: %s" % (url))
-                        print(d1["full_text"])
-                        return True
-                
                 # print("######## URL = %s" % (url))
+
+            # also process raw urls
+            raw_urls = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', d1["full_text"])
+            for raw_url in raw_urls:
+                if process_syn_url(d1, raw_url, raw_url):
+                    return True
             break
 
     return create_post(d1)
@@ -312,8 +337,7 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
     d = json.load(f)
     idx = 0
     for d1 in d:
-        # print(d1["id"])
-        # if d1["id_str"] != "226400584331300864":
+        # if d1["id_str"] != "27545066491":
         #     continue
 
         if process_tweet(d1):
