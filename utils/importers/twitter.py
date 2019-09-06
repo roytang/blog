@@ -10,7 +10,7 @@ from urllib.parse import urlparse, parse_qs, urldefrag
 from urllib.error import HTTPError
 import sys
 from pathlib import Path
-import os
+import os, shutil
 import inspect
 from datetime import datetime
 import re
@@ -19,6 +19,7 @@ cwd = Path.cwd()
 contentdir = cwd / "content"
 blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
 urlmapfile = blogdir / "urlmap.json"
+mediadir = Path("D:\\temp\\twitter\\tweet_media")
 
 def load_map_from_json(filename):
     cachefile = Path(filename)
@@ -224,18 +225,11 @@ def create_post(t):
     for m in t.get("extended_entities", {}).get("media", []):
         media.append(m["media_url_https"])
     if len(media) > 0:
-        if kind != "reposts":
+        if kind != "reposts" and kind != "replies":
             kind = "photos" 
+        
         # dont process media for now
-        return False
-
-    # if p["@is_reblog"] == 'true':
-    #     kind = "reposts"
-    #     # ugh this is going to slow us down
-    #     repost_source = get_repost_source(p["@url-with-slug"])
-    #     if not repost_source:
-    #         return # exception getting the url, let's just fail
-    #     post['repost_source'] = repost_source
+        # return False
 
     tags = []
     for tag in t.get('entites', {}).get('hashtags', []):
@@ -245,9 +239,21 @@ def create_post(t):
 
     post["source"] = "twitter"
     outdir = contentdir / kind / d.strftime("%Y") / d.strftime("%m")
+    if len(media) > 0:
+        outdir = outdir / (id)
+
     if not outdir.exists():
         outdir.mkdir(parents=True)
-    outfile = outdir / ( id + ".md" )
+
+    if len(media) > 0:
+        outfile = outdir / ( "index.md" )
+        # find photos
+        for imgfile in mediadir.glob(id + "*.*"):
+            to_file = outdir / imgfile.name
+            shutil.copy(str(imgfile), str(to_file))    
+    else:
+        outfile = outdir / ( id + ".md" )
+
     newfile = frontmatter.dumps(post)
     with outfile.open("w", encoding="UTF-8") as w:
         w.write(newfile)
@@ -257,11 +263,11 @@ def process_syn_url(d1, raw_url, url):
     orig_tweet_url = "https://twitter.com/%s/statuses/%s/" % (TWITTER_USERNAME, d1['id_str'])
 
     url, no_errors = get_final_url(url)
-
     if not no_errors:
         print(d1["full_text"])
 
     url = url.replace("www.instagram.com", "instagram.com")
+    url = url.replace("/roytang0400", "")
     url = urldefrag(url)[0]
     if url in urlmap:
         u = urlmap[url]
@@ -304,13 +310,11 @@ def process_tweet(d1):
             return False
 
     tweet_source = d1["source"]
-
     # detect content syndicated from elsewhere
     # instagram, tumblr, roytang.net
     syndicated_sources = ["IFTTT", "Tumblr", "instagram.com", "Mailchimp"]
     for s in syndicated_sources:
         if tweet_source.find(s) >= 0:
-            # print(d1["full_text"])
             for u in d1.get('entities', {}).get("urls", []):
                 raw_url = u["url"]
                 url = u["expanded_url"]
@@ -337,7 +341,7 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
     d = json.load(f)
     idx = 0
     for d1 in d:
-        # if d1["id_str"] != "27545066491":
+        # if d1["id_str"] != "1096805915511140352":
         #     continue
 
         if process_tweet(d1):
