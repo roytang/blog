@@ -7,6 +7,9 @@ tags:
 title: Casual Fridays?
 type: post
 url: /2009/06/casual-fridays/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/2294145658/
 ---
 
 Here's the scenario: Last Sunday in the early morning, there was a fire in our office building, which hit some power stuff in the basement. So yesterday (Monday), the whole building was running on generators without air conditioning. Last night, we were notified that the power was back in the building, but just in case, we should come in to work in casual clothes ("dress down"), normally reserved for casual Fridays/Saturdays.

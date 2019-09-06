@@ -6,6 +6,9 @@ tags:
 title: I Hate Trading
 type: post
 url: /2009/03/i-hate-trading/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1365442557/
 ---
 
 For the record: I hate trading.

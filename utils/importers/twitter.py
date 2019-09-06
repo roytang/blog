@@ -91,7 +91,7 @@ def get_final_url(url):
         if urlcache[url].endswith("imgur.com/removed.png"):
             # rewrite the cache so we don't use this imgur 404:
             urlcache[url] = url
-            return urlcache[url], True
+            return url, True
         return urlcache[url], True
 
     try:
@@ -212,9 +212,9 @@ def create_post(t):
                 # RTed status is inaccessible, we'll just render it as an ordinary note
                 pass
 
-    else:
-        # dont process others for now
-        return False
+    # else:
+    #     # dont process others for now
+    #     return False
 
     media = []
     for m in t.get("extended_entities", {}).get("media", []):
@@ -313,7 +313,7 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
     idx = 0
     for d1 in d:
         # print(d1["id"])
-        # if d1["id_str"] != "1793910736":
+        # if d1["id_str"] != "226400584331300864":
         #     continue
 
         if process_tweet(d1):
