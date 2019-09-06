@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1011757100605759488/
+tags:
+- aeabos
 ---
 
 RT [@greggreiner](https://twitter.com/greggreiner/): Left: Long term investment.

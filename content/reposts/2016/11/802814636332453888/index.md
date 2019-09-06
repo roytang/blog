@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/802814636332453888/
+tags:
+- DuterteCarriesThings
 ---
 
 RT [@marocharim](https://twitter.com/marocharim/): IDK, but #DuterteCarriesThings can be a thing https://t.co/hHGko77dFP

@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1071160627144445953/
+tags:
+- SSBU_KEN
 ---
 
 RT [@rebaken7](https://twitter.com/rebaken7/): UMEHARA～

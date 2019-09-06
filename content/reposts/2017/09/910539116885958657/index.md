@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/910539116885958657/
+tags:
+- DiNyoBaNaririnig
 ---
 
 RT [@RegisAndanar](https://twitter.com/RegisAndanar/): This Filipino version of Do You Hear the People Sing gave me chills. #DiNyoBaNaririnig https://t.co/KP5OpryVgo

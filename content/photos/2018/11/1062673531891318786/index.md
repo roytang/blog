@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1062673531891318786/
+tags:
+- PS4share
 ---
 
 Marvel's Spider-Man

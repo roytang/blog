@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/725719476184838144/
+tags:
+- NationalSuperheroDay
+- batfork
 ---
 
 RT [@DocHackenbush](https://twitter.com/DocHackenbush/): #NationalSuperheroDay (original tweet by [@TechnicallyRon](https://twitter.com/TechnicallyRon/)) #batfork https://t.co/jaYU56hC5S

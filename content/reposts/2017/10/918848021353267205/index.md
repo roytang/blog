@@ -8,6 +8,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/918848021353267205/
+tags:
+- Thorsday
+- Thor
+- ThorRagnarok
 ---
 
 RT [[@OriginalFunko](https://twitter.com/OriginalFunko/)](https://twitter.com/OriginalFunko/): RT &amp; follow [[@OriginalFunko](https://twitter.com/OriginalFunko/)](https://twitter.com/OriginalFunko/) for your chance to WIN a #Thorsday Prize Pack!

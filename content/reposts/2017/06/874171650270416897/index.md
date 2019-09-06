@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/874171650270416897/
+tags:
+- E32017
 ---
 
 RT [@_dpiddy](https://twitter.com/_dpiddy/): Here you go, I fixed the Dragon Ball Fighter Z trailer. #E32017 https://t.co/tHy0wbZV1p

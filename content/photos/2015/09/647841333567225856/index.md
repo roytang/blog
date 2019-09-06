@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/647841333567225856/
+tags:
+- MTGBFZ
 ---
 
 Gw allies deck i ran at #MTGBFZ prerelease, only went 1-2 (lol). Was considering the ub build shown as alternative https://t.co/hDSsKZ9Nml

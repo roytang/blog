@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1030204036845170688/
+tags:
+- MyTwitterAnniversary
 ---
 
 Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/slrdAtVXPq

@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/421150669211308032/
+tags:
+- StarWars
 ---
 
 RT [@DeathStarPR](https://twitter.com/DeathStarPR/): This is no joke.

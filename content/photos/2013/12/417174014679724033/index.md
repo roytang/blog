@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/417174014679724033/
+tags:
+- GLOBEiPhone5C
 ---
 
 RT @PRAsiaWorldwide: RT for a chance to WIN a #GLOBEiPhone5C this coming New Year! https://t.co/gCgc2EYMOL

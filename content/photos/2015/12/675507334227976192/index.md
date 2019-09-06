@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/675507334227976192/
+tags:
+- starwarsmarathon
 ---
 
 Some wisdom for the days ahead #starwarsmarathon https://t.co/4TImCbfsUA

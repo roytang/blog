@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/965176659472138240/
+tags:
+- BlackPanther
 ---
 
 RT [@yellowmello](https://twitter.com/yellowmello/): This might be the best #BlackPanther photo ever https://t.co/dEsKYy6ppu

@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1148095764909838336/
+tags:
+- SpiderMan
+- Jeopardy
 ---
 
 RT [@JamesStevenson](https://twitter.com/JamesStevenson/): SMH. 🤦‍♂️ #SpiderMan #Jeopardy [@TomHolland1996](https://twitter.com/TomHolland1996/) https://t.co/wIGCNd0lyP

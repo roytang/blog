@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1059635024327102464/
+tags:
+- PS4share
 ---
 
 #PS4share https://t.co/RHBc8ZN3wY

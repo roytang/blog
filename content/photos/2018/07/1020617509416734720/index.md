@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1020617509416734720/
+tags:
+- mtgnationalsph
 ---
 
 I was told I should draft white #mtgnationalsph https://t.co/U2clH3ea6n

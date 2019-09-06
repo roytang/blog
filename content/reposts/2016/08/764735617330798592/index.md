@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/764735617330798592/
+tags:
+- C90
+- "C90\u30B3\u30B9\u30D7\u30EC"
 ---
 
 RT [@kiyuryo1](https://twitter.com/kiyuryo1/): 頑張ったで賞

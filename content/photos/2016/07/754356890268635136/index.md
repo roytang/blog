@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/754356890268635136/
+tags:
+- CitiesSkylines
 ---
 
 That last achievement took forever #CitiesSkylines [@habeo](https://twitter.com/habeo/) [@barayantan](https://twitter.com/barayantan/) https://t.co/xOVqhwMJIU

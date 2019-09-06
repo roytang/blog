@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/922448025183707136/
+tags:
+- FactsFirst
 ---
 
 RT [@CNN](https://twitter.com/CNN/): “Some people might try to tell you that it’s a banana.” #FactsFirst https://t.co/LbmRKiGJe9

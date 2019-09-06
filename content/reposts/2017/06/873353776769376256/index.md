@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/873353776769376256/
+tags:
+- BlackPanther
 ---
 
 RT [@theblackpanther](https://twitter.com/theblackpanther/): HERO. LEGEND. KING. Watch the teaser trailer now. #BlackPanther https://t.co/2d0lGExv81

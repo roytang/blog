@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/925240248015007744/
+tags:
+- mtg
 ---
 
 What should I do with these stacks of foils? #mtg https://t.co/QfT01CAK7r

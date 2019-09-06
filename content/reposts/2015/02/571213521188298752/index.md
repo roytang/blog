@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/571213521188298752/
+tags:
+- CivilWar
 ---
 
 RT [@GwendolynStacy](https://twitter.com/GwendolynStacy/): "So /that's/ how the #CivilWar starts... (But seriously, what colors are this dress?)" https://t.co/uFmIMF4Cfb

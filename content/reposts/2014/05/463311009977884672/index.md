@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/463311009977884672/
+tags:
+- NBSfinds
 ---
 
 RT [@nbsalert](https://twitter.com/nbsalert/): #NBSfinds THE FOREVER WATCH: A NOVEL by David Ramirez (Hardcover - P999). https://t.co/EzGq3xPpF8

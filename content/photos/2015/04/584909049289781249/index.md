@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/584909049289781249/
+tags:
+- grammarnazi
 ---
 
 Business World editors not doing well #grammarnazi https://t.co/Sp2MfDqGH9

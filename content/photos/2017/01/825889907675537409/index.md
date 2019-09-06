@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/825889907675537409/
+tags:
+- PS4share
 ---
 
 FINAL FANTASY XV

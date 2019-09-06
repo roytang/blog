@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/513185527625822208/
+tags:
+- mtgktk
 ---
 
 #mtgktk prerelease https://t.co/bW1EKZXiDe

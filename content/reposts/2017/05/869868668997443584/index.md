@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/869868668997443584/
+tags:
+- DefendRepublic
 ---
 
 RT [@PilosopoTanya](https://twitter.com/PilosopoTanya/): Ang tunay na kalaban #DefendRepublic https://t.co/VKlpCaZTTZ

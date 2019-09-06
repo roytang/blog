@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/874391908449046528/
+tags:
+- SupermanDay
 ---
 
 RT [@GSUniverse](https://twitter.com/GSUniverse/): "Once you choose hope, anything's possible." Happy #SupermanDay! https://t.co/v4Zc5B7mvp

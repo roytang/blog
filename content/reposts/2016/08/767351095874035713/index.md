@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767351095874035713/
+tags:
+- NinoyDiKaNagIisa
 ---
 
 RT [@aikarobredo](https://twitter.com/aikarobredo/): Remembering Ninoy Aquino today. "The Filipino is worth dying for." #NinoyDiKaNagIisa https://t.co/M6ZdK0iLdh

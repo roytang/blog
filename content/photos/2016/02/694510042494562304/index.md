@@ -4,6 +4,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/694510042494562304/
+tags:
+- Netflix
+- NetflixPHShows
 ---
 
 Rurouni Kenshin? Why yes, that makes perfect sense #Netflix #NetflixPHShows https://t.co/XCZXzS4Dyq

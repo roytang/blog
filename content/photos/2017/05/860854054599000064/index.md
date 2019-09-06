@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/860854054599000064/
+tags:
+- MTGAKH
 ---
 
 Played some paper #MTGAKH sealed today. Did terribly lol. How would you build this pool: https://t.co/UQG1WTkuFL

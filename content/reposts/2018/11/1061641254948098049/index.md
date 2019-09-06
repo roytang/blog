@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1061641254948098049/
+tags:
+- puppet
 ---
 
 RT [@NellSco](https://twitter.com/NellSco/): Faces of world leaders receiving despot Vladimir Putin. Says it all. #puppet https://t.co/XFWDoBpVx1

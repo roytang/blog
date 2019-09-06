@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1040265780540174336/
+tags:
+- NintendoSwitch
 ---
 
 RT [@TheBY2K](https://twitter.com/TheBY2K/): How dare you, Capcom? #NintendoSwitch https://t.co/eFfcFqUYUr

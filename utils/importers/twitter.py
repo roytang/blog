@@ -234,6 +234,12 @@ def create_post(t):
     tags = []
     for tag in t.get('entites', {}).get('hashtags', []):
         tags.append(tag['text'])
+
+    parsed_tags = re.findall(r"\s#(\w+)", " " + content)
+    for tag in parsed_tags:
+        if tag not in tags:
+            tags.append(tag)
+
     if len(tags) > 0:
         post["tags"] = tags
 
@@ -341,7 +347,7 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
     d = json.load(f)
     idx = 0
     for d1 in d:
-        # if d1["id_str"] != "1096805915511140352":
+        # if d1["id_str"] != "1142622292221943808":
         #     continue
 
         if process_tweet(d1):

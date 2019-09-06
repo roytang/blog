@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/853851145541894145/
+tags:
+- persona5
 ---
 
 WTF "Throbbing King of Desire" #persona5 https://t.co/CWdhcfQryy

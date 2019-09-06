@@ -4,6 +4,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/789250430140153856/
+tags:
+- OneMoreTurn
+- Civilization6
 ---
 
 Today's agenda: stand the test of time #OneMoreTurn #Civilization6 https://t.co/CMsqNKRNZK

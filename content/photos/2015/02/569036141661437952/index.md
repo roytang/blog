@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/569036141661437952/
+tags:
+- tallmasterracr
 ---
 
 #tallmasterracr https://www.timehop.com/ https://t.co/HvhFxdF92g

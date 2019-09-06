@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/982573267830493184/
+tags:
+- GPSeattle
 ---
 
 RT [@madolaf](https://twitter.com/madolaf/): Yas. #GPSeattle https://t.co/Es09883rZN

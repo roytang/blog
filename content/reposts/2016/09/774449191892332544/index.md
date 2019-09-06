@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/774449191892332544/
+tags:
+- StarTrek50
 ---
 
 RT [@sliderwave](https://twitter.com/sliderwave/): #StarTrek50 https://t.co/QvGMWcAxZu

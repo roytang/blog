@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/633026404398067712/
+tags:
+- gplondon
 ---
 
 Well #gplondon was a bust, I scrubbed out of the SSS as well. But at least there's swag! https://t.co/zSLEQ5i7a7

@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1062278408149843968/
+tags:
+- PS4share
 ---
 
 This is the best costume in the game  #PS4share https://t.co/ks7l5635F5

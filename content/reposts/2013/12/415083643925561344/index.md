@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/415083643925561344/
+tags:
+- asoiaf
 ---
 
 RT [@GeorgeRRMartin_](https://twitter.com/GeorgeRRMartin_/): Well played bookstore, well played. #asoiaf https://t.co/0PklpWzv6L

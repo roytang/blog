@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/453011988658937856/
+tags:
+- 'True'
+- Programming
 ---
 
 RT [@siavash](https://twitter.com/siavash/): Reading other people's code! #True #Programming https://t.co/9P6iNNXKU4

@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/277381177441132544/
+tags:
+- fb
 ---
 
 Teaching angkong to play plants vs zombies #fb https://t.co/McbX6uwB

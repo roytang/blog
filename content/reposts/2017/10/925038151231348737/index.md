@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/925038151231348737/
+tags:
+- SpiderManPS4
+- ParisGamesWeek2017
 ---
 
 RT [@insomniacgames](https://twitter.com/insomniacgames/): Watch our brand new #SpiderManPS4 teaser trailer from #ParisGamesWeek2017 now! https://t.co/DjpQUnyXrO

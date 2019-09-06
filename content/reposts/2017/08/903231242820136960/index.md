@@ -8,6 +8,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/903231242820136960/
+tags:
+- NeverAgain
+- Marcos100
+- MarcosArtrocities
 ---
 
 RT [@sanflowerr](https://twitter.com/sanflowerr/): NOT A HERO #NeverAgain #Marcos100 #MarcosArtrocities https://t.co/N83ZHl2qep

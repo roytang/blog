@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/785159470506795008/
+tags:
+- FFXV
+- postingforposterity
 ---
 
 RT [@DiceSMS](https://twitter.com/DiceSMS/): #FFXV #postingforposterity https://t.co/JaTumYKZcJ

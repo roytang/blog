@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1003604200750628865/
+tags:
+- Microsoft
+- github
 ---
 
 RT [@aurel_herve](https://twitter.com/aurel_herve/): Can't wait to see the new #Microsoft version of GitHub

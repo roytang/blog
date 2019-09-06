@@ -8,6 +8,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/880808860625260545/
+tags:
+- look
+- that
+- fridayfeeling
 ---
 
 RT [@rubyetc](https://twitter.com/rubyetc/): #look it's #that #fridayfeeling https://t.co/33PLY6oZ8n

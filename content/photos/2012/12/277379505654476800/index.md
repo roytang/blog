@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/277379505654476800/
+tags:
+- fb
 ---
 
 May rock star sa bahay! #fb https://t.co/lDJJcobv

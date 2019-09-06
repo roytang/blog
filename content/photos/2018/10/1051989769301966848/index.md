@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1051989769301966848/
+tags:
+- '1'
 ---
 
 The Mighty Thor (2015) #1 cover art by Russell Dauterman https://t.co/upZ8ukZVRC

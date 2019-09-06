@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/776609305873088512/
+tags:
+- MTGKLD
 ---
 
 "Runaway train never coming back~" #MTGKLD https://t.co/O20Wp4ph5z

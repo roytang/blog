@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1105648208741654529/
+tags:
+- '85'
 ---
 
 Green Lantern - Green Arrow #85 DC tackles the drug problem https://t.co/iKjNyzxBnp

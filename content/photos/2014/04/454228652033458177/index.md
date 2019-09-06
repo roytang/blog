@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/454228652033458177/
+tags:
+- fb
 ---
 
 Zinger box is judging you #fb [@FacesPics](https://twitter.com/FacesPics/) https://t.co/wAyJX7vbsm

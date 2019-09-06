@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/751087934263029761/
+tags:
+- hearthstone
 ---
 
 Druid time? #hearthstone https://t.co/vFwIvmqUPm

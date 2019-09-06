@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/755678690722193408/
+tags:
+- KorteDiKalsada
 ---
 
 RT [@v_vangogh](https://twitter.com/v_vangogh/): #KorteDiKalsada https://t.co/BEXKXocUKr

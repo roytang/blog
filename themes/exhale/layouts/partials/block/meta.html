@@ -13,7 +13,7 @@
 
         <p>
         {{ range .Params.tags }}
-        <a class="tag p-category" href="{{ "/tags/" | absURL }}{{ . | urlize }}"><i class="fas fa-tag"></i> {{ .  | urlize }}</a>
+        <a class="tag p-category" href="{{ "/tags/" | absURL }}{{ . | urlize }}"><i class="fas fa-tag"></i>&nbsp;{{ .  | urlize }}</a>
         {{ end }}
         </p>
 

@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1079679918449946625/
+tags:
+- PS4share
 ---
 
 Thought I'd finish a game from last year's backlog before the new year lol #PS4share https://t.co/kmVD26oP6a

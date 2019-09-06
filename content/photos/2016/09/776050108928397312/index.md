@@ -4,6 +4,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/776050108928397312/
+tags:
+- pokemongo
+- filthycasual
 ---
 
 Woohoo I took a gym #pokemongo #filthycasual https://t.co/6vQmwL75pC

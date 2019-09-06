@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/930416354540142592/
+tags:
+- MomMovieReview
 ---
 
 RT [@JimZub](https://twitter.com/JimZub/): Here it is, True Believers, my Mom's review of THOR: RAGNAROK!

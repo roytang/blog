@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/816517519590600708/
+tags:
+- RogueOneStarWars
 ---
 
 RT [@diegoluna_](https://twitter.com/diegoluna_/): I got emotional reading this! #RogueOneStarWars https://t.co/kfNXxYxWWI

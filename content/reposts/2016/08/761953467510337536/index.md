@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/761953467510337536/
+tags:
+- Rio2016
 ---
 
 RT [@KeithOlbermann](https://twitter.com/KeithOlbermann/): Another reason to hate the Olympics

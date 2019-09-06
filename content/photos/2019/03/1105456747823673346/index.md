@@ -4,6 +4,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1105456747823673346/
+tags:
+- mtg
+- dice
+- rakdos
 ---
 
 I have this sneaking suspicion that I might be favoring Rakdos too much #mtg #dice #rakdos 

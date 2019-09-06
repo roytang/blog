@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/761923995465756672/
+tags:
+- PokemonGO
 ---
 
 RT [@WesterosWatch](https://twitter.com/WesterosWatch/): Gotta catch em all #PokemonGO https://t.co/qB47CnvIXp

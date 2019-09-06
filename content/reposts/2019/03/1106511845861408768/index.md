@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1106511845861408768/
+tags:
+- DioknoSaSenado
+- 25ChelDiokno
 ---
 
 RT [@cassiedeluria](https://twitter.com/cassiedeluria/): OMFGGGGGGGG IM DEAD AAAAAA #DioknoSaSenado #25ChelDiokno https://t.co/8cELkF21vK

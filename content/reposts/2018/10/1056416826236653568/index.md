@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1056416826236653568/
+tags:
+- CanadaCup2018
 ---
 
 RT [@HiFightTH](https://twitter.com/HiFightTH/): STEERING WHEEL CONTROLLER!!!!!!?????

@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/396092874464305152/
+tags:
+- mtg
 ---
 
 Sorting #mtg cards, still at letter C. [@aleksfelipe](https://twitter.com/aleksfelipe/) [@switchfollows](https://twitter.com/switchfollows/) should we keep all these lol https://t.co/6HIiscZLD4

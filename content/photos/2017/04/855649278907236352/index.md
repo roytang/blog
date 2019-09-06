@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/855649278907236352/
+tags:
+- MTGAKH
 ---
 
 And apparently we are going again #MTGAKH https://t.co/toJlgqGF5h
