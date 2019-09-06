@@ -8,4 +8,6 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/942720204
+- type: twitter
+  url: https://twitter.com/roytang/statuses/20989219195/
 ---

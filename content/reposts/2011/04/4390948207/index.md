@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/4390948207/chry-dont-suddenly-paste-links-to-hilarious
+- type: twitter
+  url: https://twitter.com/roytang/statuses/55641114664902656/
 ---
 
 <p>[chry] don&rsquo;t suddenly paste links to hilarious pics for me to impulsively click on to view!</p>

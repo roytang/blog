@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/1042004246/one-of-the-better-sinfest-strips-click-for
+- type: twitter
+  url: https://twitter.com/roytang/statuses/22608530984/
 ---
 
 <p>One of the better Sinfest strips. Click for full-size.</p>

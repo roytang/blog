@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2012-11-24 10:58:34
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/272293264802066433/
 tags:
 - Comics
 - Pop Culture

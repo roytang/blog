@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/3650846467/pinoytumblr-darna-lives-a-fan-fiction-made-by
+- type: twitter
+  url: https://twitter.com/roytang/statuses/43882753195909120/
 ---
 
 <p><a href="http://www.pinoytumblr.com/post/3646930369">pinoytumblr</a>:</p>

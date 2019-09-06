@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/1032689962/my-current-wallpaper-click-for-full-size
+- type: twitter
+  url: https://twitter.com/roytang/statuses/22464226784/
 ---
 
 <p>My current wallpaper. Click for full-size.</p>

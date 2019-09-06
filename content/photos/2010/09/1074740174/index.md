@@ -5,4 +5,6 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/1074740174
+- type: twitter
+  url: https://twitter.com/roytang/statuses/23133956192/
 ---

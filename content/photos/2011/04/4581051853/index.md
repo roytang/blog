@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/4581051853/nakaka-highblood-kasi-ang-sc2
+- type: twitter
+  url: https://twitter.com/roytang/statuses/58186948375871489/
 ---
 
 <p>Nakaka-highblood kasi ang SC2</p>

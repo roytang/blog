@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/4748629024/reminds-me-of-paxi-d
+- type: twitter
+  url: https://twitter.com/roytang/statuses/60366629212663808/
 ---
 
 <p>Reminds me of Paxi :D</p>

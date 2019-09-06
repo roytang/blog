@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/1173243378/lego-thor-is-here-more-starcraft-lego-stuff
+- type: twitter
+  url: https://twitter.com/roytang/statuses/25316061449/
 ---
 
 <p>Lego Thor is here!</p>

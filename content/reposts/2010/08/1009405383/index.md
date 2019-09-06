@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/1009405383/alvintang-pertinacious-drmcmuffin
+- type: twitter
+  url: https://twitter.com/roytang/statuses/22101014998/
 ---
 
 <p><a href="http://alvintang.tumblr.com/post/1009395496/pertinacious-drmcmuffin-followandreblog">alvintang</a>:</p>

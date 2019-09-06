@@ -4,4 +4,6 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/4620407784
+- type: twitter
+  url: https://twitter.com/roytang/statuses/58691174977904640/
 ---

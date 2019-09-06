@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/1046613763/soupsoup-samsung-ships-one-million-galaxy-s
+- type: twitter
+  url: https://twitter.com/roytang/statuses/22686051006/
 ---
 
 <p><a href="http://soupsoup.tumblr.com/post/1042961259/samsung-ships-one-million-galaxy-s-smartphones">soupsoup</a>:</p>
