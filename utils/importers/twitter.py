@@ -20,11 +20,17 @@ contentdir = cwd / "content"
 blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
 urlmapfile = blogdir / "urlmap.json"
 
-urlcachefile = Path("d:\\temp\\twitter\\urlcache.json")
-urlcache = {}
-if urlcachefile.exists():
-    with urlcachefile.open(encoding="UTF-8") as f:
-        urlcache = json.loads(f.read())
+def load_map_from_json(filename):
+    cachefile = Path(filename)
+    cache = {}
+    if cachefile.exists():
+        with cachefile.open(encoding="UTF-8") as f:
+            cache = json.loads(f.read())
+    return cache
+
+urlcachefile = "d:\\temp\\twitter\\urlcache.json"
+urlcache = load_map_from_json(urlcachefile)
+retweetscache = load_map_from_json("d:\\temp\\twitter\\retweets.json")
 
 urlmap = {}
 urlmapdupes = {}
@@ -69,7 +75,8 @@ for su in urlmapdupes:
         for d in for_deletion:
             source_path = Path(d['source_path'])
             full_path = contentdir / source_path
-            os.remove(str(full_path))
+            if full_path.exists():
+                os.remove(str(full_path))
 
 def is_number(s):
     try:
@@ -170,14 +177,24 @@ def create_post(t):
             "label": "%s's tweet" % (t["in_reply_to_screen_name"]) 
         }
     elif t["full_text"].startswith("RT @"):
-        kind = "reposts"
-        post['repost_source'] = {
-            "type": "twitter",
-            "name": t["in_reply_to_screen_name"],
-            "url": "????"
-        }        
-        # dont process reposts for now
-        return False
+        rc = retweetscache.get(id)
+        if rc is None:
+            # RTed status is inaccessible, we'll just render it as an ordinary note
+            pass
+        else:
+            kind = "reposts"
+            if "retweeted_user" in rc:
+                post['repost_source'] = {
+                    "type": "twitter",
+                    "name": rc["retweeted_user"],
+                    "url": "https://twitter.com/%s/statuses/%s/" % (rc['retweeted_user'], rc['retweeted_id'])
+                }        
+            else:
+                # 785744070027030528 fails this
+                pass
+
+            # dont process reposts for now
+            return False
     else:
         # dont process others for now
         return False
@@ -319,7 +336,7 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
         #     break
 
 # save the url cache for future use
-with urlcachefile.open("w", encoding="UTF-8") as f:
+with Path(urlcachefile).open("w", encoding="UTF-8") as f:
     f.write(json.dumps(urlcache))
 
 for source in countbysource:
