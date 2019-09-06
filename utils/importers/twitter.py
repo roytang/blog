@@ -13,7 +13,7 @@ from pathlib import Path
 import os
 import inspect
 from datetime import datetime
-
+import re
 
 cwd = Path.cwd()
 contentdir = cwd / "content"
@@ -137,19 +137,31 @@ def add_syndication(mdfile, url, stype):
 def get_content(t):
     content  = t['full_text']
     if "entities" in t:
+        # get raw urls in the text
+        raw_urls = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', content)
         # replace mentions with link
         for m in t["entities"]["user_mentions"]:
             screen_name = m["screen_name"]
             # replace with markdown link
             mdlink = "[@%s](https://twitter.com/%s/)" % (screen_name, screen_name)
             content = content.replace("@"+screen_name, mdlink)
+        processed_urls = []
         # clean urls
         for u in t["entities"]["urls"]:
             url = u["url"]
+            processed_urls.append(url)
             expanded_url = u["expanded_url"]
+            processed_urls.append(expanded_url)
             # print("##### A URL!!! %s" % expanded_url)
             expanded_url, no_errors = get_final_url(expanded_url)
+            processed_urls.append(expanded_url)
             content = content.replace(url, expanded_url)
+
+        # find urls that were not in the entities
+        for raw_url in raw_urls:
+            if raw_url not in processed_urls:
+                expanded_url, no_errors = get_final_url(raw_url)
+                content = content.replace(raw_url, expanded_url)
 
     return content
 
@@ -297,7 +309,7 @@ with Path(SOURCE_FILE).open(encoding='utf-8') as f:
     idx = 0
     for d1 in d:
         # print(d1["id"])
-        # if d1["id_str"] != "1145894355170779137":
+        # if d1["id_str"] != "1793910736":
         #     continue
 
         if process_tweet(d1):
