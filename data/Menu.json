@@ -8,12 +8,12 @@
         "URL": "/photos/"
     },
     { 
-        "Name": "Comments",
-        "URL": "/comment/"
-    },
-    { 
         "Name": "Links",
         "URL": "/links/"
+    },
+    { 
+        "Name": "Tags",
+        "URL": "/tags/"
     },
     { 
         "Name": "Archives",

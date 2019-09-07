@@ -14,10 +14,6 @@ type: page
 <h4>Photos</h4>
 {{< archives/grid-or-list section="photos" >}}
 
-<h4>Tags</h4>
-
-{{< archives/tagsbycount >}}
-
 <h4>Other Stuff</h4>
 
 [Site changelog](/tags/changelog/)

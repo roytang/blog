@@ -488,3 +488,7 @@ a.u-syndication {
     display: inline;
 }
 
+div.two-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

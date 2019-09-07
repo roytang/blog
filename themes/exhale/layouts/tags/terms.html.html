@@ -1,0 +1,23 @@
+{{ partial "head" . }}
+<p>Maybe someday these tags will be better organized. But for now, here we are.</p>
+<div class="two-column">
+<div>
+<h4>Tags by Name</h4>
+<ul>
+{{ range .Site.Taxonomies.tags.Alphabetical }}
+	<li><a href="/tags/{{ .Name | urlize  }}">{{ .Name }}</a> ({{ .Count }})</li>
+{{ end }}
+</ul>
+</div>
+<div>
+<h4>Tags by Count</h4>
+<ul>
+{{ range .Site.Taxonomies.tags.ByCount }}
+	<li><a href="/tags/{{ .Name | urlize  }}">{{ .Name }}</a> ({{ .Count }})</li>
+{{ end }}
+</ul>
+</div>
+</div>
+
+{{ partial "block/hero" . }}
+{{ partial "foot" . }}
