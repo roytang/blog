@@ -1,5 +1,5 @@
 ---
-date: 2019-07-01 15:08:43+00:00
+date: 2019-07-01 15:08:43
 reply_to:
   label: jaymelynilao's tweet
   name: jaymelynilao

@@ -1,8 +1,11 @@
 ---
-title: "Marketplace Ethics"
 date: 2019-08-26
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1165777925502898176/
 tags:
 - philosophy
+title: Marketplace Ethics
 ---
 
 I brought up among one of my friend groups this Reddit thread where the poster says they were able to buy hundreds of dollars worth of [Magic](/tags/magic-the-gathering/) cards from a garage sale for around $70. (Not gonna link to the original thread because it might seem like I'm shaming the OP.)

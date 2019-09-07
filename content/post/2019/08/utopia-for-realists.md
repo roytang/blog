@@ -1,6 +1,9 @@
 ---
 categories: []
 date: 2019-08-01 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1157239008809951233/
 tags:
 - books
 title: 'Book Review: Utopia for Realists by Rutger Bregman'
@@ -65,4 +68,4 @@ On worrying about what other people think:
 
 > A few years ago, Australian writer Bronnie Ware published a book titled The Top Five Regrets of the Dying, about patients she had tended during her nursing career. 2 And guess what? No one said he or she would have liked to pay closer attention to coworkers' PowerPoint presentations or to have brain-stormed a little more on disruptive co-creation in the network society. The biggest regret was: "I wish I'd had the courage to live a life true to myself, not the life others expected of me." Number two: "I wish I didn't work so hard." 
 
-Overall a very good read, despite my criticisms, and a lot of his thought appeal to my own ideals personally. 
+Overall a very good read, despite my criticisms, and a lot of his thought appeal to my own ideals personally.

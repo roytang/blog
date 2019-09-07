@@ -1,9 +1,12 @@
 ---
 categories: []
 date: 2019-08-15 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1161792178265440262/
 tags:
 - writing
-title: "Writing brings clarity"
+title: Writing brings clarity
 type: post
 ---
 

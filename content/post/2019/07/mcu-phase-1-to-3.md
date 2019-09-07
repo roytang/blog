@@ -2,10 +2,13 @@
 author: roy
 categories: []
 date: 2019-07-22 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1153476681954418688/
 tags:
 - movies
 - comics
-title: 'A Look Back at the Marvel Cinematic Universe'
+title: A Look Back at the Marvel Cinematic Universe
 type: post
 ---
 

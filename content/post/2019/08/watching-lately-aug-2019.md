@@ -2,14 +2,18 @@
 author: roy
 categories: []
 date: 2019-08-31
+slug: watching-lately-aug-2019
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1167591080860295171/
 tags:
 - Pop Culture
 - Movies
 - TV
 - watching lately
-title: 'Watching Lately: August 2019: Young Justice, The Boys, Fleabag, One Cut of the Dead'
+title: 'Watching Lately: August 2019: Young Justice, The Boys, Fleabag, One Cut of
+  the Dead'
 type: post
-slug: watching-lately-aug-2019
 ---
 
 Hmm, surprisingly I haven't watched too much stuff this month.
@@ -46,4 +50,3 @@ I think I ended up enjoying the season overall, as it tackles a lot of issues I 
 Netflix tried to bring Rocko into the modern era, although strangely none of the characters have aged at all. Although they are cartoon characters so I guess that makes sense? The special is about as ridiculous as the old cartoon was, unsurprisingly, although it does try to convey a message about how change is an inevitable part of life. I did like that they had a reference to my favorite episode, R-E-C-Y-C-L-E Recycle~
 
 More next month! Maybe!
-

@@ -1,10 +1,13 @@
 ---
 categories: []
 date: 2019-08-08 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1159256063729963009/
 tags:
 - devnotes
 - software development
-title: "Devnotes: PostgreSQL on the command line"
+title: 'Devnotes: PostgreSQL on the command line'
 type: post
 ---
 
@@ -39,4 +42,3 @@ Now, when I connected today, I had to do some queries, but I wasn't superfamilia
 You can also just directly run an SQL query, just make sure to end it with a semicolon.
 
 If the command outputs a lot of records, it will show them to you in a page-able vim-like format. You can recognize it when it stops with a `:` after each page and you can hit spacebar to proceed, and at the end it shows `(END)`. And like vim, you might not know how to get out of this view. I had to google it myself, you just have to hit `q` to go back to the psql shell.
-

@@ -2,11 +2,14 @@
 author: roy
 categories: []
 date: 2019-07-20 05:56:56
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1152458840299974657/
 tags:
 - software development
 - react native
 - mobile
-title: 'Upgrading a React Native Project'
+title: Upgrading a React Native Project
 type: post
 ---
 
@@ -57,4 +60,3 @@ At this point, I make my other app changes and test on both my Android phone and
 I see no indication that I have satisfied Google's action item, but it let me publish the update without complaints, so I'm done!
 
 My initial estimate that the work was nontrivial ends up correct, I spent way more manhours than I expected on the upgrade. Part of it was learning how to do the iOS deployment, so hopefully that ends up easier in the future.
-

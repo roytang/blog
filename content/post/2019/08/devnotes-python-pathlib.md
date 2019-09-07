@@ -1,10 +1,13 @@
 ---
-title: "Devnotes: Python Pathlib"
 date: 2019-08-27
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1166140339972952064/
 tags:
 - software development
 - devnotes
 - python
+title: 'Devnotes: Python Pathlib'
 ---
 
 Ever since I started learning Python back in 2008ish, I've been using it as my primary scripting language for various tasks such as processing log files, organizing my own file system, processing stuff on this blog, and so on. A lot of it is basically moving files around. In the days of Python 2, that involved a lot of imports of different libraries like `os`, `shutil` and `glob`. It can become a bit messy with so many imports, and I often can't remember which import I need for a particular case and end up having to search for the documentation (or stackoverflow, let's not kid ourselves here).

@@ -1,11 +1,14 @@
 ---
 categories: []
 date: 2019-09-01 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1168183317507858433/
 tags:
 - ccgs
 - Magic the Gathering
 - Gaming
-title: "MTG Arena: Thoughts on Historic"
+title: 'MTG Arena: Thoughts on Historic'
 type: post
 ---
 

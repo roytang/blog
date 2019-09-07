@@ -1,11 +1,14 @@
 ---
 categories: []
 date: 2019-08-07 00:00:00
+featuredImage: https://roytang.net/uploads/2019/ssf2shinkuhadouken.gif
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1158908212730630151/
 tags:
 - gaming
-title: "Fighting Games"
+title: Fighting Games
 type: post
-featuredImage: https://roytang.net/uploads/2019/ssf2shinkuhadouken.gif
 ---
 
 This past weekend was [EVO 2019](https://en.wikipedia.org/wiki/Evo_2019), the world's biggest celebrations of fighting games. If I had stayed in the US another month maybe I could have gone to Vegas to attend and lose badly. Instead, I thought I'd write about fighting games.

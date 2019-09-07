@@ -1,10 +1,13 @@
 ---
 categories: []
 date: 2019-08-04 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1157821550239846400/
 tags:
 - meta
 - nostalgia
-title: "A Look Back At This Site's Ancient History"
+title: A Look Back At This Site's Ancient History
 type: post
 ---
 
@@ -30,5 +33,3 @@ I thought about including all of this stuff in the [blog's git repo](https://roy
 - I haven't vetted all the files, just the pages; there might be some stuff floating around in there that's not exactly legal (read: piracy). I've cleaned up what I can, but we don't want to run afoul of Github's policies or whatever so better safe than sorry
 
 Most of the blog-like content had already been absorbed into this blog previously. It's fun to go through some of the other stuff too, like looking at a snapshot of the sort of things or sites or files I was interested in almost 20 years ago (unsurprisingly, mostly the same things as today!)
-
-

@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/B0lc1uBhmBL/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1156605474214752258/
 tags:
 - sketch
 - xmen

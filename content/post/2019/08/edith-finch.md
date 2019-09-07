@@ -1,11 +1,14 @@
 ---
 categories: []
 date: 2019-08-23 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1164691569775190016/
 tags:
 - gaming
-title: "Games: What Remains of Edith Finch"
-url: /2019/08/edith-finch/
+title: 'Games: What Remains of Edith Finch'
 type: post
+url: /2019/08/edith-finch/
 ---
 
 I might be lending out my PS4 next month when the latest annual release of a sports franchise rolls around, so I figured I'd finish off a PS4 game before the console vanishes on me for a few months. *What Remains of Edith Finch* came out on PS+ a couple of months ago and people are always raving about how good it is and how it's relatively short, so I decided to give it a go. I went in blind, not knowing anything, since mysteriously no one on Reddit could explain what makes the game good. This is understandably so as any sort of information kind of spoils the story for you. As such, consider yourself warned that this review might be considered spoiler-y. Overall if you like story-based games, just go ahead and play this one, then come back here to read the review if you'd like.

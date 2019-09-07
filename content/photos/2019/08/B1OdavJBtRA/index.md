@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/B1OdavJBtRA/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1162363334664105985/
 tags: []
 ---
 

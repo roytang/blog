@@ -1,9 +1,12 @@
 ---
 categories: []
 date: 2019-08-16 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1162154657311088646/
 tags:
 - tech life
-title: "Note-taking / Todo Workflow"
+title: Note-taking / Todo Workflow
 type: post
 ---
 

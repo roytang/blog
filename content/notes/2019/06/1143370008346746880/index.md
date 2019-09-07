@@ -1,5 +1,5 @@
 ---
-date: 2019-06-25 04:07:07+00:00
+date: 2019-06-25 04:07:07
 source: twitter
 syndicated:
 - type: twitter

@@ -1,10 +1,13 @@
 ---
 categories: []
 date: 2019-08-25 00:00:00
-title: "Three Hearts"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1165416348576636928/
 tags:
 - quotes
 - tech life
+title: Three Hearts
 type: post
 ---
 
@@ -37,4 +40,3 @@ Three can keep a secret if two of them are dead.
 ### Black Mirror
 
 There's a Black Mirror episode where the personality of a human who passed away is recreated based on his social media postings and what not. Because of the nature of humans, I don't believe this process can ever be 100% accurate. What you will get is a shadow of the original human, an approximation of who he chose to present himself as. His true self will have been forever lost.
-

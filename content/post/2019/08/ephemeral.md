@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-08-29
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1166866136694177792/
 tags:
 - tech life
 title: Ephemeral social media

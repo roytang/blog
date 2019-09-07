@@ -1,9 +1,12 @@
 ---
 categories: []
 date: 2019-08-09 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1159618447531270144/
 tags:
 - birthday
-title: 'Forty One'
+title: Forty One
 type: post
 ---
 
@@ -25,4 +28,3 @@ Things I considered doing today:
 The other day a friend who has his birthday a couple of days away from mine told us he'd prefer not to celebrate and not to be greeted, as around this time of the year he always has certain troubles. Birthdays don't mean as much to grownups. Pretty much just another year, and most years are not enough different from one another that they all kind of blend in together. I still like to do the blog post though, just as a marker of sorts. An increment to a counter. I don't have any particular deep thoughts or reflections prepared for this one though. 
 
 Next year though! Next year is life, the universe and everything!
-

@@ -1,10 +1,13 @@
 ---
 categories: []
 date: 2019-08-28 00:00:00
-title: "Python: Markov Chains"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1166502708343390210/
 tags:
 - software development
 - python
+title: 'Python: Markov Chains'
 type: post
 ---
 

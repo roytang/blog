@@ -1,12 +1,15 @@
 ---
 categories: []
 date: 2019-08-18 00:00:00
+featuredImage: /uploads/2019/mcq-richmond.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1163020056479051777/
 tags:
 - magic the gathering
 - modern
-title: "MCQ Richmond (Modern) with Grixis Death Shadow"
+title: MCQ Richmond (Modern) with Grixis Death Shadow
 type: post
-featuredImage: /uploads/2019/mcq-richmond.jpg
 ---
 
 Should I still write tournament reports even though I did poorly? Spoilers, but the answer is that has never stopped me before!

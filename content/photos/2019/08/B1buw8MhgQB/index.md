@@ -1,14 +1,16 @@
 ---
-date: 2019-08-21T16:48:16+00:00
+date: 2019-08-21 16:48:16
 geo: ''
 location: ''
 source: micropub
 syndicated:
 - type: instagram
   url: https://instagram.com/p/B1buw8MhgQB/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1164233838765195265/
 tags:
 - sketch
-- xmen 
+- xmen
 - polaris
 ---
 

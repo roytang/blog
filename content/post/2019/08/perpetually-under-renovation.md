@@ -1,12 +1,15 @@
 ---
 categories: []
 date: 2019-08-14 00:00:00
+featuredImage: /uploads/2019/roytangnet_201908.png
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1161429828043755522/
 tags:
 - meta
 - changelog
-title: "Perpetually under renovation"
+title: Perpetually under renovation
 type: post
-featuredImage: /uploads/2019/roytangnet_201908.png
 ---
 
 Perhaps unsurprisingly, I'm enjoying tinkering with the site layout at the moment. I give up on expecting a "stable version" of the site anytime soon and readers can expect incremental updates unannounced going forward. This site is now perpetually under renovation.

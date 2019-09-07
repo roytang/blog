@@ -1,11 +1,14 @@
 ---
 categories: []
 date: 2019-08-24 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1165053929215975424/
 tags:
 - software development
 - tech life
 - devnotes
-title: "Devnotes: Migrating Mercurial to Git"
+title: 'Devnotes: Migrating Mercurial to Git'
 type: post
 ---
 
@@ -27,4 +30,3 @@ git checkout HEAD
 The process was fairly quick, and the commit history from the Mercurial side was even retained, I would have been happy just retaining HEAD! After that, I just create a new private repo on Gitlab, set that as the remote, then push to Gitlab as usual. 
 
 It's a good thing I remembered to check my Bitbucket account, as apparently they will be deleting the old Mercurial repos when time is up!
-

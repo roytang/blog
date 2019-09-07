@@ -1,14 +1,18 @@
 ---
+aliases:
+- /2019/08/devnotes-tt-miniproject-django-rest-framework-unit-testing-vuejs-geocoding-nightwatch-e2e-testing/
 categories: []
 date: 2019-08-20 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1164173034338639872/
 tags:
 - devnotes
 - software development
-title: "Devnotes: TT Miniproject (Django Rest Framework, Unit Testing, VueJS, Geocoding, Nightwatch e2e Testing)"
+title: 'Devnotes: TT Miniproject (Django Rest Framework, Unit Testing, VueJS, Geocoding,
+  Nightwatch e2e Testing)'
 type: post
 url: /2019/08/devnotes-tt-miniproject
-aliases:
-- /2019/08/devnotes-tt-miniproject-django-rest-framework-unit-testing-vuejs-geocoding-nightwatch-e2e-testing/
 ---
 
 I recently found myself doing a really small project as sort of a proof of concept/demo for a potential client. It often seems that it might be a waste of time to do something like this since you don't know if the project will actually push through or maybe the client will want something else. To kind of hedge my bets a bit, I decided to take the opportunity to try out some new technologies so that no matter what I at least learned something from all of this. (What is life if not learning?)

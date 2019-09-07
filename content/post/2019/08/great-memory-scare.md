@@ -1,10 +1,13 @@
 ---
 categories: []
 date: 2019-08-22 00:00:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1164328992012460033/
 tags:
 - tech life
 - gaming
-title: "The Great Memory Scare of 2019"
+title: The Great Memory Scare of 2019
 type: post
 ---
 

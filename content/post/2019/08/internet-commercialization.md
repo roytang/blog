@@ -1,9 +1,12 @@
 ---
-title: "Internet Commercialization"
 date: 2019-08-21
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1163966623872692229/
 tags:
 - tech life
 - blogging
+title: Internet Commercialization
 ---
 
 ### 0
@@ -34,4 +37,4 @@ Although I realize I might not enjoy that world either. Imagine if Twitter or In
 
 ### 3
 
-I guess what I'm saying is: I wish we could live in an (online) world where people weren't constantly trying to make money off each other. I realize that this comes from a position of privilege - of having enough so that I don't need to be thinking about earning money all the time. I realize that's not the world works and that commercialization is a sad reality that I have to live with, but a man can dream. 
+I guess what I'm saying is: I wish we could live in an (online) world where people weren't constantly trying to make money off each other. I realize that this comes from a position of privilege - of having enough so that I don't need to be thinking about earning money all the time. I realize that's not the world works and that commercialization is a sad reality that I have to live with, but a man can dream.

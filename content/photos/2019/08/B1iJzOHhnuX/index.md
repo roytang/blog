@@ -6,6 +6,8 @@ source: micropub
 syndicated:
 - type: instagram
   url: https://instagram.com/p/B1iJzOHhnuX/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1165134973524959232/
 tags:
 - test
 - pleaseignore
