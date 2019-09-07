@@ -15,6 +15,9 @@
             {}
         ],
         {{ end }}
+        {{ if .Params.link }}
+        "link": {{ .Params.link.url |jsonify }},
+        {{ end }}
         "title": {{ .Title | jsonify }}
     },
     {{ end }}

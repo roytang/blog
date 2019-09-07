@@ -18,6 +18,7 @@
         </p>
 
         
+        <p>
         {{ range .Params.syndicated }}
         <a rel="syndication" title="View on {{ .type }}" class='
         {{ if eq (lower .type) "twitter"}}fab fa-twitter-square{{ end }}
@@ -27,5 +28,6 @@
         {{ if eq (lower .type) "goodreads"}}fab fa-goodreads{{ end }}
         u-syndication' href="{{ .url }}" title="View on {{ .type }}"></a>
         {{ end }}
+        </p>
 
     </div>

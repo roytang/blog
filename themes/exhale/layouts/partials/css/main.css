@@ -485,4 +485,6 @@ article.reposts, article.links {
 
 a.u-syndication {
     padding: 0.1rem;
+    display: inline;
 }
+
