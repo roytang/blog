@@ -5,7 +5,7 @@ location: ''
 source: micropub
 syndicated:
 - type: instagram
-  url: https://www.instagram.com/p/B1jaZoqhXyi/
+  url: https://instagram.com/p/B1jaZoqhXyi/
 tags:
 - xmen
 - sketch

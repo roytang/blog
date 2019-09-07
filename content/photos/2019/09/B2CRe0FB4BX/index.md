@@ -5,7 +5,7 @@ location: ''
 source: micropub
 syndicated:
 - type: instagram
-  url: https://www.instagram.com/p/B2CRe0FB4BX/
+  url: https://instagram.com/p/B2CRe0FB4BX/
 tags:
 - popquiz
 ---

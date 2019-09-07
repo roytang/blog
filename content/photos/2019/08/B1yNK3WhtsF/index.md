@@ -5,5 +5,5 @@ location: ''
 source: micropub
 syndicated:
 - type: instagram
-  url: https://www.instagram.com/p/B1yNK3WhtsF/
+  url: https://instagram.com/p/B1yNK3WhtsF/
 ---

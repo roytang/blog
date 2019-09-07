@@ -5,7 +5,7 @@ location: ''
 source: micropub
 syndicated:
 - type: instagram
-  url: https://www.instagram.com/p/B1bA1tvBzO1/
+  url: https://instagram.com/p/B1bA1tvBzO1/
 ---
 
 Pizza rickroll. This is a test.

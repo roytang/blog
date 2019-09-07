@@ -5,7 +5,7 @@ location: ''
 source: micropub
 syndicated:
 - type: instagram
-  url: https://www.instagram.com/p/B18x1K4BIkV/
+  url: https://instagram.com/p/B18x1K4BIkV/
 tags:
 - procreate
 ---
