@@ -2,6 +2,7 @@
 <div class="comments">
 <div id="comments" class="comments-title"><h3>Comments</h3></div>
 
+{{ if eq .Section "post" }}
 {{ $url := urls.Parse .Permalink }}		
 {{ $filtered := where .Site.RegularPages "Section" "comment" }}
 {{ range sort $filtered "Params.date" }}
@@ -19,6 +20,7 @@
 </div>
         {{ end }}
     {{ end }}
+{{ end }}
 {{ end }}
 
 {{ if .Site.Params.comments_endpoint }}
