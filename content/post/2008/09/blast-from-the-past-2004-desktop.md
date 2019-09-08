@@ -13,11 +13,7 @@ I was going through some old files today, I found this screenshot of my desktop 
 
 [<img class="alignnone size-medium wp-image-545" title="desktop" src="/files/uploads/2008/09/desktop-300x240.jpg" alt="" width="300" height="240" />][1] 
 
-_
-  
-(Click for larger image)
-  
-_ 
+_(Click for larger image)_ 
 
 Actually, I still like that wallpaper. It's well-drawn. It's from
   
@@ -55,9 +51,7 @@ Items I had in the quick-launch toolbar:
 
 For reference, here's today's desktop, same wallpaper:
 
-[
-  
-<img class="alignnone size-medium wp-image-547" title="screenshot001" src="/files/uploads/2008/09/screenshot001-300x187.png" alt="" width="300" height="187" />][3]
+[<img class="alignnone size-medium wp-image-547" title="screenshot001" src="/files/uploads/2008/09/screenshot001-300x187.png" alt="" width="300" height="187" />][3]
 
  [1]: /files/uploads/2008/09/desktop.jpg
  [2]: http://www.rpgamer.com/mc/012302.html
