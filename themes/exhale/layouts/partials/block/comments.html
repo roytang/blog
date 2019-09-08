@@ -1,7 +1,7 @@
 {{ if and (.IsPage) ($.Param "comments_enabled") (not (eq .Type "page")) }}
 <div class="comments">
 
-
+{{ if eq "Section" "post" }}
 {{ $related := .Site.RegularPages.Related . | first 5 }}
 {{ with $related }}
 <h3>See Also</h3>
@@ -10,6 +10,7 @@
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
 </ul>
+{{ end }}
 {{ end }}
 
 <div id="comments" class="comments-title"><h3>Comments</h3></div>
