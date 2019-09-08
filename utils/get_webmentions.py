@@ -78,6 +78,7 @@ with urllib.request.urlopen(endpoint) as url:
             "photo": link['author'].get('photo', ''),
             "source_url": link["wm-source"],
             "mention_url": link["url"],
+            "source": "webmention"
         }
 
         # save the comment into newdir
