@@ -82,6 +82,7 @@ with urllib.request.urlopen(endpoint) as url:
         }
 
         # save the comment into newdir
-        with Path(newfile).open("w", encoding="UTF-8") as f:
-            f.write(json.dumps(comment))
+        if not newfile.exists():
+            with Path(newfile).open("w", encoding="UTF-8") as f:
+                f.write(json.dumps(comment))
     
