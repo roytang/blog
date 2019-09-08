@@ -14,25 +14,19 @@
 
 <div id="comments" class="comments-title"><h3>Comments</h3></div>
 
-{{ if eq .Section "post" }}
-{{ $url := urls.Parse .Permalink }}		
-{{ $filtered := where .Site.RegularPages "Section" "comment" }}
-{{ range sort $filtered "Params.date" }}
-    {{ if .Params.parent_page }}
-        {{ if eq .Params.parent_page.urlpath $url.Path }}
+
+{{ range .Resources.Match "comment-*.json" }}
+{{ $data := . | transform.Unmarshal }}
 <div class="comment">
     <h4 class="p-name">Comment by 
-            {{ if .Params.author.url }}
-                <a href="{{ .Params.author.url }}">{{ .Params.author.name }}</a>
+            {{ if $data.url }}
+                <a href="{{ $data.url }}">{{ $data.name }}</a>
             {{ else }}
-                <span class='linkless-commenter'>{{ .Params.author.name }} </span>
+                <span class='linkless-commenter'>{{ $data.name }} </span>
             {{ end }}
-            on <a href="{{ .Permalink  }}">{{.Date.Format "2006-01-02"}}</a></h4>
-    {{.Content}}
+            on <a href="#{{ $data.id  }}">{{ $data.date }}</a></h4>
+    {{ $data.text }}
 </div>
-        {{ end }}
-    {{ end }}
-{{ end }}
 {{ end }}
 
 {{ if .Site.Params.comments_endpoint }}
