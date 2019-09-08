@@ -13,6 +13,7 @@ import json
 
 token = os.environ['WEBMENTION_TOKEN']
 endpoint = "https://webmention.io/api/mentions.jf2?token=%s" % (token)
+print(endpoint)
 
 cwd = Path.cwd() 
 p = cwd / "content" / "post"
@@ -38,35 +39,48 @@ with urllib.request.urlopen(endpoint) as url:
         if link['wm-property'] == 'mention-of':
             content = "[%s](%s) mentioned [%s](%s)" % (link['wm-source'], link['wm-source'], link['wm-target'], link['wm-target'])
 
-        fm = frontmatter.Post(content)
-        fm['source'] = 'webmention'
         datestr = link['wm-received']
-        date = date = datetime.strptime(datestr, '%Y-%m-%dT%H:%M:%SZ')
-        fm['date'] = date
-        # create the year folder if it doesnt exist
-        yearfldr = cf / str(date.year)
-        if not yearfldr.exists():
-            yearfldr.mkdir()
-        # same for month 
-        month = str(date.month)
-        if len(month) == 1:
-            month = "0" + month
-        monthfldr = yearfldr / month
-        if not monthfldr.exists():
-            monthfldr.mkdir()
-    
+        date = datetime.strptime(datestr, '%Y-%m-%dT%H:%M:%SZ')
         url = urlparse(link["wm-target"])
-        u = url.path
-        um = urlmap.get(u)
-        title = um['title']
-    
-        fm['parent_page'] = { 'urlpath' : u, 'title': title }
-        fm['author'] = link['author']
-        fm['webmention_type'] = link['wm-property']
-    
-        newfile = frontmatter.dumps(fm)
-        newfilename = "webmention-%s.md" % ( link['wm-id'] )
-        outfile = monthfldr / newfilename
-        with outfile.open("w", encoding='utf-8') as w:
-            w.write(newfile)                                
+        info = urlmap.get(url.path)
+        if info is None:
+            print("##### Path not found, map manually %s" % url.path)
+            continue
+        parentmd = cwd / "content" / info["source_path"]
+        if parentmd.name != "index.md":
+            # migrate the post to a page bundle
+            newdir = parentmd.parent / parentmd.stem
+            if not newdir.exists():
+                newdir.mkdir(parents=True)
+            if parentmd.exists():
+                newfile = newdir / "index.md"
+                os.rename(str(parentmd), str(newfile))
+        else:
+            newdir = parentmd.parent
+
+        id = "webmention-%s" % (link["wm-id"])
+        wtype = link['wm-property']
+        if wtype == 'like-of':
+            newfile = newdir / ( "like-%s.json" % (id) )
+        elif wtype == 'repost-of':
+            newfile = newdir / ( "repost-%s.json" % (id) )
+        elif wtype == 'mention-of':
+            newfile = newdir / ( "mention-%s.json" % (id) )
+        else:
+            newfile = newdir / ( "comment-%s.json" % (id) )
+
+        comment = {
+            "id": id,
+            "name": link['author']['name'],
+            "url": link['author'].get('url', ''),
+            "text": link.get("content", {}).get("text", ""), 
+            "date": date.strftime("%Y-%m-%d %H:%M:%S"),
+            "photo": link['author'].get('photo', ''),
+            "source_url": link["wm-source"],
+            "mention_url": link["url"],
+        }
+
+        # save the comment into newdir
+        with Path(newfile).open("w", encoding="UTF-8") as f:
+            f.write(json.dumps(comment))
     
