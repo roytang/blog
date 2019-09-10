@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148515117460/im-a-bit-busy-today-so-ill-make-this-quick
 - type: twitter
   url: https://twitter.com/roytang/statuses/761694933115961344/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154799948703912:0
 tags:
 - sketchdaily
 - flash

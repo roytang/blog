@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/149875057250/supergirl-sketchdaily-not-too-happy-with-this-one
 - type: twitter
   url: https://twitter.com/roytang/statuses/771983738473484288/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154876120658912:0
 tags:
 - sketchdaily
 ---

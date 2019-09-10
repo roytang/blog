@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/149741313790/the-f15-eagle-a-perfectly-normal-earth-jet
 - type: twitter
   url: https://twitter.com/roytang/statuses/770925279183269888/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154864984813912:1
 tags:
 - sketchdaily
 ---

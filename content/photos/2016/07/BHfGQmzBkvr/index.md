@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146949244780/lazy-river-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/750360385987842049/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154722785748912:0
 tags:
 - sketchdaily
 ---

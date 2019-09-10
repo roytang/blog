@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/149122349970/idk-some-kind-of-dog-painting-is-hard
 - type: twitter
   url: https://twitter.com/roytang/statuses/766220329186390016/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154830141093912:1
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/155991136045/desperate-shot-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/821347399222358017/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155284945588912:0
 tags:
 - sketchdaily
 ---

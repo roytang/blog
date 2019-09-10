@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146009754295/cola-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/743428550271766528/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154675363318912:0
 tags:
 - sketchdaily
 ---

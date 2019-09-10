@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148082146465/ancient-tome-sketchdaily-alt-title-rare-first
 - type: twitter
   url: https://twitter.com/roytang/statuses/758515110319095812/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154776457418912:1
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148596832100/its-so-fluffy-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/762339087537827840/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154802785743912:1
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142849614515/this-ryu-amiibo-is-surprisingly-detailed
 - type: twitter
   url: https://twitter.com/roytang/statuses/721007827460853760/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154533862698912:1
 tags: []
 ---
 

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142073463470/this-seemed-funnier-in-my-head-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/715933058499608577/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154503850978912:0
 tags:
 - sketchdaily
 ---

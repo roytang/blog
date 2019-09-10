@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145615298125/natsu-sketchdaily-fairytail
 - type: twitter
   url: https://twitter.com/roytang/statuses/740588411216531456/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154656335228912:0
 tags:
 - sketchdaily
 - fairytail

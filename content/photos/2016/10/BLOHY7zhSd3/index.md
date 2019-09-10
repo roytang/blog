@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/151422795115/banana-kaiju-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/783999148739719168/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154967012723912:1
 tags:
 - sketchdaily
 - inktober

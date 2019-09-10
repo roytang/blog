@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/154425145185/lost-garden-gnome-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/808710563643723776/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155179599808912:0
 tags:
 - sketchdaily
 ---

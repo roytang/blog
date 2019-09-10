@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152709651935/treehouse-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/794358854377160712/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155059781893912:0
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145478744375/dhalsim-sketchdaily-streetfighter
 - type: twitter
   url: https://twitter.com/roytang/statuses/739603936118595584/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154650125923912:0
 tags:
 - sketchdaily
 - streetfighter

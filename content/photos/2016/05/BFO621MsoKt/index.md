@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/144152433750/priorities-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/730069118557151234/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154589588288912:1
 tags:
 - sketchdaily
 ---

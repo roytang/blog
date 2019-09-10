@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/147721413315/an-agile-and-toasty-warm-knight-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/755913311422644224/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154760696408912:0
 tags:
 - sketchdaily
 ---

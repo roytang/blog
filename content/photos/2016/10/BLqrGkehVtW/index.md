@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/151932415995/king-candy-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/788018345383780352/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155005813018912:0
 tags:
 - sketchdaily
 - inktober

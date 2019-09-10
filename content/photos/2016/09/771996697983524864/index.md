@@ -1,9 +1,11 @@
 ---
-date: 2016-09-03 09:02:10+00:00
+date: 2016-09-03 09:02:10
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/771996697983524864/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154876231018912
 tags:
 - BackToTheFuture
 ---

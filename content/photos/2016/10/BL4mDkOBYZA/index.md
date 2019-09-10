@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152177120985/stuffy-doll-sketchdaily-inktober-mtg
 - type: twitter
   url: https://twitter.com/roytang/statuses/789977560369229825/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155023676768912:0
 tags:
 - sketchdaily
 - inktober

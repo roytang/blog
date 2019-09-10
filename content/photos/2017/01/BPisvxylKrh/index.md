@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/156184335345/i-swing-for-five-sketchdaily-mtg
 - type: twitter
   url: https://twitter.com/roytang/statuses/822924855326736386/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155297122773912:0
 tags:
 - sketchdaily
 - mtg

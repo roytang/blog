@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/143585988565/shishio-sketchdaily-maybe-ill-complete-the-rest
 - type: twitter
   url: https://twitter.com/roytang/statuses/726075663560536064/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154566555258912:0
 tags:
 - sketchdaily
 ---

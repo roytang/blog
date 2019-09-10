@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/151183657725/a-pair-of-wandering-mercenaries-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/782150707147378688/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154955388533912:0
 tags:
 - sketchdaily
 - inktober

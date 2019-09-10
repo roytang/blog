@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142298815000/hank-and-peter-having-a-tete-a-tete-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/717382099259424768/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154513194568912:0
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/154962119575/what-a-haul-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/813227943359037440/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155220329873912:0
 tags:
 - sketchdaily
 ---

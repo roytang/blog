@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145663931755/mr-jones-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/740943923778965504/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154656335228912:1
 tags:
 - sketchdaily
 ---

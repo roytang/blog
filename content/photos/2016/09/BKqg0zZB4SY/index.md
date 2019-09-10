@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/150777074560/pumpkin-spies-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/778988993987739649/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154930867308912:0
 tags:
 - sketchdaily
 ---

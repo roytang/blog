@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/154917947405/cardinal-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/812851679930576897/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155216441883912:0
 tags:
 - sketchdaily
 ---

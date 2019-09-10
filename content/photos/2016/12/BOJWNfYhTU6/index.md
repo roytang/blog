@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/154618176660/well-take-the-next-chance-and-the-next-until
 - type: twitter
   url: https://twitter.com/roytang/statuses/810349659399090177/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155195119548912:2
 tags:
 - sketchdaily
 - rogueone

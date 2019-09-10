@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148465417950/tiny-green-arrow-says-you-have-failed-this-city
 - type: twitter
   url: https://twitter.com/roytang/statuses/761319869933559812/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154797455538912:0
 tags:
 - sketchdaily
 ---

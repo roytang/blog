@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/149985892470/some-sort-of-city-sketchdaily-the-colors-here-are
 - type: twitter
   url: https://twitter.com/roytang/statuses/772835640996196352/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154881507193912:1
 tags:
 - sketchdaily
 ---

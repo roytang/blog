@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/155942329315/cloud-racing-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/820970440768258048/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155280891923912:1
 tags:
 - sketchdaily
 ---

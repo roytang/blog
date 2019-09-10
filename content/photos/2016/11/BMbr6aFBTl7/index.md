@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152769059565/bonus-sketch-taco-belldandy-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/794916249432166401/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155064099178912:1
 tags:
 - sketchdaily
 ---

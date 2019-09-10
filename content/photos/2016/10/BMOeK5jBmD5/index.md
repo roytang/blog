@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152551986130/trick-or-treat-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/793056457239437316/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155046264658912:1
 tags:
 - sketchdaily
 - inktober

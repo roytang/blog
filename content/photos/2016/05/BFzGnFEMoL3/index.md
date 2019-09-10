@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/144864560145/tracer-sketchdaily-overwatch
 - type: twitter
   url: https://twitter.com/roytang/statuses/735161508544405504/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154622230698912:0
 tags:
 - sketchdaily
 - overwatch

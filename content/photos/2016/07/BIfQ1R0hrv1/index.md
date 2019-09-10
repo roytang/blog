@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148197994395/injured-at-least-for-now-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/759390853404254208/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154782903753912:1
 tags:
 - sketchdaily
 ---

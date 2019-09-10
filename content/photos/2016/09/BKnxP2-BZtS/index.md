@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/150727917380/campfire-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/778602448005033984/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154925411593912:1
 tags:
 - sketchdaily
 ---

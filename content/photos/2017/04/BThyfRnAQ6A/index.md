@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/160169811120/at-the-airport-way-too-early-and-there-was-a-whole
 - type: twitter
   url: https://twitter.com/roytang/statuses/858825524818345984/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155585038473912
 tags: []
 ---
 

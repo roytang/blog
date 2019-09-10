@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148832478395/nighttime-break-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/764058445335048192/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154814367243912:1
 tags:
 - sketchdaily
 ---

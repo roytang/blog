@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/161712275175/random-doodles-from-last-night-trying-to-get-back
 - type: twitter
   url: https://twitter.com/roytang/statuses/874037158423736321/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155743943958912
 tags:
 - sketchdaily
 ---

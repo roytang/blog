@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145397752605/murlocs-sketchdaily-hearthstone-barayantan
 - type: twitter
   url: https://twitter.com/roytang/statuses/739038240196296704/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154644055948912:4
 tags:
 - sketchdaily
 - hearthstone

@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/-pz4yXsoB6/
 - type: twitter
   url: https://twitter.com/roytang/statuses/670803305111511040/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154219582083912:1
 tags:
 - lucky
 ---

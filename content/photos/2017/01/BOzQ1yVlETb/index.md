@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/155341198375/a-skyline-somewhere-in-metro-manila-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/816248832891715584/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155244355293912:1
 tags:
 - sketchdaily
 ---

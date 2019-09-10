@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152853355395/lord-of-the-rings-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/795602408000946176/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155068451678912:1
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/158272668645/some-kid-sketchdaily-paperbyfiftythree
 - type: twitter
   url: https://twitter.com/roytang/statuses/840599033462833153/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155435235983912
 tags:
 - sketchdaily
 - paperbyfiftythree

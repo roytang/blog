@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/153841363705/cape-and-cowl-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/803770821894402055/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155132059883912:0
 tags:
 - sketchdaily
 ---

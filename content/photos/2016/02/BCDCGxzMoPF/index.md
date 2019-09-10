@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BCDCGxzMoPF/
 - type: twitter
   url: https://twitter.com/roytang/statuses/701376321096552448/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154387632903912:0
 tags:
 - sketchdaily
 ---

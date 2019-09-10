@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/153170759420/rampaging-forest-troll-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/798154612880486402/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155088281698912:1
 tags:
 - sketchdaily
 ---

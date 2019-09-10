@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/158438096595/piranha-plant-sketchdaily-procreate
 - type: twitter
   url: https://twitter.com/roytang/statuses/842039510577868800/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155448978233912
 tags:
 - sketchdaily
 - procreate

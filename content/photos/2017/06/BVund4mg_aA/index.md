@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/162204004575/city-sprawl-sketch-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/878645322540617729/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155788062223912:0
 tags:
 - sketch
 - sketchdaily

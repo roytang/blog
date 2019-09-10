@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/155945256225/cloud-computing-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/821000539165102080/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155280891923912:2
 tags:
 - sketchdaily
 ---

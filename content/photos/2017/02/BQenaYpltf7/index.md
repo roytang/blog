@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/157220327605/waiting-out-the-storm-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/831357364238430208/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155363603728912:0
 tags:
 - sketchdaily
 ---

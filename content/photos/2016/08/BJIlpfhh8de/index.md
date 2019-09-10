@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148984147250/taekwando-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/765206869568815104/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154822023993912:1
 tags:
 - sketchdaily
 ---

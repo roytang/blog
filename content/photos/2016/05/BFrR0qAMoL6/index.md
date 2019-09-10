@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/144706805575/ciri-sketchdaily-witcher
 - type: twitter
   url: https://twitter.com/roytang/statuses/734060267089199104/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154613353638912:1
 tags:
 - sketchdaily
 - witcher

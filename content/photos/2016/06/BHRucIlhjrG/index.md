@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146700321405/shouldnt-have-walked-into-kfc-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/748478416597323776/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154710562383912:1
 tags:
 - sketchdaily
 ---

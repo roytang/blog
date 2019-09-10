@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/158045813925/a-bunch-of-quick-sketches-to-catch-up-with-my
 - type: twitter
   url: https://twitter.com/roytang/statuses/838567448152506368/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155418433963912
 tags:
 - sketchdaily
 ---

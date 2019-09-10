@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152920314360/at-home-drawing-pictures-of-mountain-tops-with
 - type: twitter
   url: https://twitter.com/roytang/statuses/796154426180378624/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155074164178912:0
 tags:
 - sketchdaily
 ---

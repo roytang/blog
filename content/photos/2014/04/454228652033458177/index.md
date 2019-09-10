@@ -1,9 +1,11 @@
 ---
-date: 2014-04-10 12:05:24+00:00
+date: 2014-04-10 12:05:24
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/454228652033458177/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10152896805768912:2
 tags:
 - fb
 ---

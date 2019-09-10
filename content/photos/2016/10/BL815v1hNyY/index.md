@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152250631005/missing-piece-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/790575386421760000/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155028728473912:1
 tags:
 - sketchdaily
 - inktober

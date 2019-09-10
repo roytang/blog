@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142162879135/just-a-quick-flash-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/716506588953993218/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154507535748912:0
 tags:
 - sketchdaily
 ---

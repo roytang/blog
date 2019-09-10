@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152070575250/those-those-are-emblems-of-fallen-empires-that
 - type: twitter
   url: https://twitter.com/roytang/statuses/789114814069108736/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155016048733912:0
 tags:
 - sketchdaily
 - inktober

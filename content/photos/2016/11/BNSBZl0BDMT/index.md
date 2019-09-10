@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/153690373335/lazy-afternoon-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/802563331236171776/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155123164653912:0
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/151792871440/gambit-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/786917964289376256/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154991348728912:1
 tags:
 - sketchdaily
 - inktober

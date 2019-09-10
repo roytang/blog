@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146156244130/i-literally-had-trouble-with-this-one-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/744535485058473986/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154683039863912:0
 tags:
 - sketchdaily
 ---

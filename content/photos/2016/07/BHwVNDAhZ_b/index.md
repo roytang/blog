@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/147281820095/secretary-bird-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/752785821527334912/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154738681063912:0
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146053075415/reaper-of-flight-moonsilver-sketchdaily-mtg
 - type: twitter
   url: https://twitter.com/roytang/statuses/743714019349958660/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154675363318912:1
 tags:
 - sketchdaily
 - mtg

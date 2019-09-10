@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146396964415/emperor-thaurissan-sketchdaily-hearthstone
 - type: twitter
   url: https://twitter.com/roytang/statuses/746251477983756288/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154693105698912:1
 tags:
 - sketchdaily
 - hearthstone

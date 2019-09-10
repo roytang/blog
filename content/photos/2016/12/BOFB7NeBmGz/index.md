@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/154546180950/hood-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/809742104683495424/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155188607108912:1
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/158148105855/meatball-sandwich-sketchdaily-paperbyfiftythree
 - type: twitter
   url: https://twitter.com/roytang/statuses/839455591567409152/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155422636223912
 tags:
 - sketchdaily
 - paperbyfiftythree

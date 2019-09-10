@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/154524618500/pig-and-duck-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/809539843730587648/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155188607108912:0
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/147388369845/shoebill-sketchdaily-this-bird-looks-nefarious
 - type: twitter
   url: https://twitter.com/roytang/statuses/753531507843530752/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154743791843912:0
 tags:
 - sketchdaily
 ---

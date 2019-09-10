@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BBK3uJUMoFs/
 - type: twitter
   url: https://twitter.com/roytang/statuses/693470475263938560/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154344918023912:0
 tags:
 - drawadinosaurday
 - grimlock

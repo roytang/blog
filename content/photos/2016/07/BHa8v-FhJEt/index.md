@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146873210080/sone-rich-old-guy-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/749776521695420416/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154719168378912:0
 tags:
 - sketchdaily
 ---

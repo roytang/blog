@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/149958440630/til-about-the-term-surrender-cobra-google-it
 - type: twitter
   url: https://twitter.com/roytang/statuses/772610416350552064/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154881507193912:0
 tags:
 - sketchdaily
 ---

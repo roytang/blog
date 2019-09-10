@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148369308920/dude-thats-not-a-pokemon-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/760608408433287168/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154792420318912:0
 tags:
 - sketchdaily
 ---

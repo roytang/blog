@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152643495885/i-wish-i-could-have-drawn-a-betta-fish
 - type: twitter
   url: https://twitter.com/roytang/statuses/793829957554282496/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155052492793912:1
 tags:
 - sketchdaily
 ---

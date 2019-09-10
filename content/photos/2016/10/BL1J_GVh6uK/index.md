@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/152116613660/philippines-and-japan-decide-to-hold-joint-naval
 - type: twitter
   url: https://twitter.com/roytang/statuses/789493657627951104/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155019707483912:0
 tags:
 - sketchdaily
 - inktober

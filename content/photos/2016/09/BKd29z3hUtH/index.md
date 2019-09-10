@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/150546023650/reigun-sketchdaily-yuyuhakusho
 - type: twitter
   url: https://twitter.com/roytang/statuses/777207647179247616/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154916505283912:0
 tags:
 - sketchdaily
 - yuyuhakusho

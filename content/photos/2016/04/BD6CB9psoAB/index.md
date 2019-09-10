@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142412271830/red-robin-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/718122206245466113/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154518085573912:0
 tags:
 - sketchdaily
 ---

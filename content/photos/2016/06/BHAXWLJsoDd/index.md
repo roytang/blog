@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146364262965/pomegranate-sketchdaily-doesnt-look-like
 - type: twitter
   url: https://twitter.com/roytang/statuses/746035097359376384/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154693105698912:0
 tags:
 - sketchdaily
 ---

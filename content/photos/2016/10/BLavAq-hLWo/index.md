@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/151652871260/magic-carpet-ride-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/785775136817414144/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154984368833912:0
 tags:
 - sketchdaily
 - inktober

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/140949570295/just-a-quick-skeletor-today-sketchdaily-actually
 - type: twitter
   url: https://twitter.com/roytang/statuses/708870988616740865/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154431593383912:1
 tags:
 - sketchdaily
 ---

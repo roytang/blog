@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/151380500050/storm-cloud-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/783658945672048640/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154967012723912:0
 tags:
 - sketchdaily
 - inktober

@@ -46,8 +46,6 @@ fburlmapday = {} # secondary map, if the first one fails
 with dumpfile.open(encoding="UTF-8") as f:
     dump = json.loads(f.read())
     for d in dump:
-        if d["url"][-2:-1] == ":":
-            continue
         minutes = datetime.strptime(d["date"], "%Y-%m-%d %H:%M:%S").strftime("%Y-%m-%d %H:%M")
         if minutes in fburlmap:
             fburlmap[minutes].append(d)
@@ -60,6 +58,7 @@ with dumpfile.open(encoding="UTF-8") as f:
             fburlmapday[day] = [d]
 
 notesfolder = Path("D:\\repos\\blog\\content\\notes")
+photosfolder = Path("D:\\repos\\blog\\content\\photos")
 cachednotes = {}
 
 count = 0
@@ -67,6 +66,7 @@ unprocessed = []
 contentless = []
 syndicated = []
 notfound = []
+othertimelines = []
 regex = re.compile(r"\@\[[0-9]+:[0-9]+:([^\]]+)\]", re.IGNORECASE)
 for post in posts:
     date = datetime.utcfromtimestamp(post["timestamp"])
@@ -81,15 +81,23 @@ for post in posts:
         if "post" in d:
             content = d["post"]
             postcount = postcount + 1
-    if content.find("I was watching this and thought I was Ryu,") < 0:
-        continue
+    # if content.find("Too much bad news this week, time for some chocolate") < 0:
+    #     continue
     print(content)
 
     # let's worry about content less posts later
     if len(content) > 0:
 
-        search = clean_string(content)
+        search = content
         search = regex.sub(r'\g<1>', search)
+        search = clean_string(search)
+        print(search)
+
+        title = post.get("title", "")
+        if title.startswith("Roy Tang wrote on ") and title.endswith("timeline."):
+            othertimelines.append(post)
+            # ignore posts written on other people's timelines
+            continue
         
         # find the fburl for this post
         match = None
@@ -111,8 +119,11 @@ for post in posts:
             notfound.append(post)
             continue
 
+        print(match)
+
         # check for any matching notes for the same year and month
         searchfolder = notesfolder / date.strftime("%Y") / date.strftime("%m")
+        searchfolder2 = photosfolder / date.strftime("%Y") / date.strftime("%m")
         my = date.strftime("%Y-%m")
         if my in cachednotes:
             for note in cachednotes[my]:
@@ -123,6 +134,22 @@ for post in posts:
         else:
             foundnotes = []
             for mdfile in searchfolder.glob("**/*.md"):
+                with mdfile.open(encoding="UTF-8") as f:
+                    try:
+                        mdpost = frontmatter.load(f)
+                    except:
+                        print("Error parsing file")
+                        continue
+                    foundnotes.append({
+                        "date": mdpost['date'],
+                        "text": mdpost.content,
+                        "file": mdfile
+                    })
+                    if clean_string(mdpost.content).find(search) >= 0:
+                        add_syndication(mdfile, match["url"], "facebook")
+                        syndicated.append(post)
+                        processed = True
+            for mdfile in searchfolder2.glob("**/*.md"):
                 with mdfile.open(encoding="UTF-8") as f:
                     try:
                         mdpost = frontmatter.load(f)
@@ -151,7 +178,8 @@ with Path("d:\\temp\\contentless.json").open("w", encoding="UTF-8") as f:
     f.write(json.dumps(contentless, indent=4))
 
 
-print(len(notfound))
-print(len(contentless))
-print(len(syndicated))
+print("notfound %s" % (len(notfound)))
+print("othertimelines %s" % (len(othertimelines)))
+print("contentless %s" % (len(contentless)))
+print("syndicated %s" % (len(syndicated)))
 print(count)

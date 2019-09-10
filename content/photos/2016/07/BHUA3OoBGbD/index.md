@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146745564860/bb8-sketchdaily-starwars
 - type: twitter
   url: https://twitter.com/roytang/statuses/748800405455327233/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154710562383912:2
 tags:
 - sketchdaily
 - starwars

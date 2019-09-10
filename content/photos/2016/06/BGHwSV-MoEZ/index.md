@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145264935645/genghis-khan-having-colors-is-nice-but-takes-up
 - type: twitter
   url: https://twitter.com/roytang/statuses/738067905884000257/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154640072493912:0
 tags:
 - sketchdaily
 - procreate

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148250901610/the-letter-r-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/759784781362130944/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154786519288912:0
 tags:
 - sketchdaily
 ---

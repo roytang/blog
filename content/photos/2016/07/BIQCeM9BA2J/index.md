@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/147898852950/youre-free-now-legolas-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/757248214575841280/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154769300673912:0
 tags:
 - sketchdaily
 ---

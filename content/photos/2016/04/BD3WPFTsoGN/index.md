@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142354401245/the-dark-side-of-the-force-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/717744424881508352/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154513194568912:1
 tags:
 - sketchdaily
 ---

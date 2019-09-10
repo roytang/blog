@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BFDhVPNsoBk/
 - type: tumblr
   url: https://tumblr.roytang.net/post/143930416285/i-got-this-villains-lootcrate-back-when-i-was-in
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154579412603912:1
 tags: []
 ---
 

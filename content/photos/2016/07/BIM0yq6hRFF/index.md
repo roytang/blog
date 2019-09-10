@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/147840500875/megaman-drawn-with-left-hand-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/756795932532936704/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154765210458912:1
 tags:
 - sketchdaily
 ---

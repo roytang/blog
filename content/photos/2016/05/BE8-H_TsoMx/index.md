@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/143797140180/ant-meeting-sketchdaily-til-that-the-ant-from
 - type: twitter
   url: https://twitter.com/roytang/statuses/727543027401527296/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154575170108912:0
 tags:
 - sketchdaily
 ---

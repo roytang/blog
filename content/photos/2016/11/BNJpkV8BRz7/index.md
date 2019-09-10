@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/153555291435/you-monster-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/801385022028705792/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155114868833912:0
 tags:
 - sketchdaily
 ---

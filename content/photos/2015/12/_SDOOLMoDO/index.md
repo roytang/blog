@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/_SDOOLMoDO/
 - type: twitter
   url: https://twitter.com/roytang/statuses/676466526426259456/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154248325043912:0
 tags: []
 ---
 

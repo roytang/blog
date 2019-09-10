@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/158187729300/alien-tourists-were-encouraged-to-prank-the-locals
 - type: twitter
   url: https://twitter.com/roytang/statuses/839809051777196033/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155430673713912:0
 tags:
 - sketchdaily
 - paperbyfiftythree

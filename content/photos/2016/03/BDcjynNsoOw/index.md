@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/141763557425/i-drew-all-the-stuff-on-my-desk-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/713974323669639168/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154482594378912:0
 tags:
 - sketchdaily
 ---

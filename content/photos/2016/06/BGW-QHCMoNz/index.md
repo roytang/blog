@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145562113095/snake-frog-toad-sketchdaily-metalgear
 - type: twitter
   url: https://twitter.com/roytang/statuses/740209678764769281/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154653737623912:0
 tags:
 - sketchdaily
 - metalgear

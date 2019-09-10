@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/140657088695/monkey-d-luffy-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/706999655683391489/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154418042353912:1
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/147904942590/i-know-bruce-wouldve-been-sure-but-still
 - type: twitter
   url: https://twitter.com/roytang/statuses/757286769368899584/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154769300673912:1
 tags:
 - justiceleague
 - sketchdaily

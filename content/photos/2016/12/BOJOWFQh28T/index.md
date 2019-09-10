@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BOJOWFQh28T/
 - type: twitter
   url: https://twitter.com/roytang/statuses/810332355776933888/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155195119548912:1
 tags: []
 ---
 

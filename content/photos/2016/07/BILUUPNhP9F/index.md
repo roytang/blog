@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/147811452220/solitude-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/756583770476675072/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154765210458912:0
 tags:
 - sketchdaily
 ---

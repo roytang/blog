@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/144313454460/super-rough-sketchdaily-of-jaina-proudmoore
 - type: twitter
   url: https://twitter.com/roytang/statuses/731230524073594880/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154595512918912:2
 tags:
 - sketchdaily
 ---

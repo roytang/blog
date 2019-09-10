@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/146646893245/arche-from-tales-of-phantasia-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/748071716211986432/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154707619178912:0
 tags:
 - sketchdaily
 ---

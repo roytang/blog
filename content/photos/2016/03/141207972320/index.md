@@ -6,6 +6,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/141207972320/we-must-remain-vigilant
 - type: twitter
   url: https://twitter.com/roytang/statuses/710512970023968769/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154449619428912:0
 tags:
 - daredevil
 ---

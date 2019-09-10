@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142464764720/street-scene-sketchdaily-2pts-if-you-can-identify
 - type: twitter
   url: https://twitter.com/roytang/statuses/718471817111863301/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154518085573912:1
 tags:
 - sketchdaily
 ---

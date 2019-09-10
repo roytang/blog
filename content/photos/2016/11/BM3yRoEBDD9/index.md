@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/153256896580/ant-archaeologists-find-the-remnants-of-an-ancient
 - type: twitter
   url: https://twitter.com/roytang/statuses/798870898015092736/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155093750793912:1
 tags:
 - sketchdaily
 ---

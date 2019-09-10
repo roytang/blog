@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142746889375/joust-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/720302931468156934/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154529974663912:1
 tags:
 - sketchdaily
 ---

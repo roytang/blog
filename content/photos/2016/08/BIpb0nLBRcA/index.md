@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148397341115/yellow-team-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/760822411830984705/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154792420318912:2
 tags:
 - sketchdaily
 ---

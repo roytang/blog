@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145900890525/penguins-wait-what-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/742626484959907840/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154668058083912:1
 tags:
 - sketchdaily
 ---

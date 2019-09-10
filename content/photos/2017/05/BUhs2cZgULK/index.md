@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/161066009735/my-mom-who-is-a-touch-typist-said-my-keyboard-is
 - type: twitter
   url: https://twitter.com/roytang/statuses/867820331871993856/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155655517518912
 tags: []
 ---
 

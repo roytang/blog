@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/140875637430/battle-costume-cammy-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/708415516738658304/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154426635628912:1
 tags:
 - sketchdaily
 ---

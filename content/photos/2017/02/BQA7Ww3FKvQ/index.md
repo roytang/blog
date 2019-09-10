@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/156717518775/groundhog-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/827179106320130048/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155330462088912:1
 tags:
 - sketchdaily
 ---

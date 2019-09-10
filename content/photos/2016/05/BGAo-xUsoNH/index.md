@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145125759050/struck-down-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/737066677976715265/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154634019628912:0
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/144452369865/chilling-by-the-trees-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/732208728561180673/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154602847328912:1
 tags:
 - sketchdaily
 ---

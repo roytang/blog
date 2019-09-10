@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/150289251990/rejected-beast-wars-characters-cowscream
 - type: twitter
   url: https://twitter.com/roytang/statuses/775146812277743617/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154901213733912:0
 tags:
 - sketchdaily
 - transformers

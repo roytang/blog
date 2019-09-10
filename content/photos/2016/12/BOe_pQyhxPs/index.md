@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/154979201405/sleeping-in-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/813396250565476352/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155220329873912:2
 tags:
 - sketchdaily
 ---

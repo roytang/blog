@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/144128736685/three-dogs-and-two-trees-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/729868778977165312/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154589588288912:0
 tags:
 - sketchdaily
 ---

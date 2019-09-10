@@ -5,6 +5,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/85U2aesoDt/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154147479673912:0
 tags: []
 ---
 

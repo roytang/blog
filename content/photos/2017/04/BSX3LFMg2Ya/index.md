@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/159102356715/ive-fallen-off-the-sketchdaily-wagon-for-a
 - type: twitter
   url: https://twitter.com/roytang/statuses/848421254315085824/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155495667623912
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/150921679275/lifes-a-glitch-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/780112926329929728/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154938049648912:1
 tags:
 - sketchdaily
 ---

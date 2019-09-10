@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/149794935945/bmx-men-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/771359460950413316/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154871391563912:0
 tags:
 - sketchdaily
 ---

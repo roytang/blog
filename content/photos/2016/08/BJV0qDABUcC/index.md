@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/149232163660/catwoman-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/767069466224132100/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154838075413912:0
 tags:
 - sketchdaily
 ---

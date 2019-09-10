@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/153306568415/are-you-sure-this-isnt-your-first-rodeo
 - type: twitter
   url: https://twitter.com/roytang/statuses/799296635125628929/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155099284543912:0
 tags:
 - sketchdaily
 ---

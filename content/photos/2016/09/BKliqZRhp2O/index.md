@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/150688550760/lion-o-sketchdaily-thundercats
 - type: twitter
   url: https://twitter.com/roytang/statuses/778288889203159040/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154925411593912:0
 tags:
 - sketchdaily
 - thundercats

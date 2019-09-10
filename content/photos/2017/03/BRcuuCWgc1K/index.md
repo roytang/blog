@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/158221873245/not-a-fan-of-these-new-mtg-fat-pack-boxes-but-at
 - type: twitter
   url: https://twitter.com/roytang/statuses/840099165652762625/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155430673713912
 tags:
 - MTG
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/150116076325/magneto-gets-grumpy-if-he-hasnt-had-coffee-yet
 - type: twitter
   url: https://twitter.com/roytang/statuses/773828612009123840/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154888501033912:2
 tags:
 - sketchdaily
 ---

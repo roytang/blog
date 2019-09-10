@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142189678780/i-say-i-say-i-say-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/716692396478570496/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154507535748912:1
 tags:
 - sketchdaily
 ---

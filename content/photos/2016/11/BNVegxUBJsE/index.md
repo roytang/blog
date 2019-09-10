@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/153754702600/hey-elroy-check-out-the-antique-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/803049565284769796/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155126752048912:0
 tags:
 - sketchdaily
 ---

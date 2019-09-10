@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/150803029840/presidential-spokesperson-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/779165610936832000/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154930867308912:2
 tags:
 - sketchdaily
 - philippines

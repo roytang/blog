@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/147740235060/i-tried-drawing-some-of-the-star-trek-voyager
 - type: twitter
   url: https://twitter.com/roytang/statuses/756040588894560256/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154760696408912:1
 tags:
 - sketchdaily
 ---

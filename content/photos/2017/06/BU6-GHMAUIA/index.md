@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BU6-GHMAUIA/
 - type: twitter
   url: https://twitter.com/roytang/statuses/871376693197508608/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155683534788912
 tags:
 - gpmanila
 - mtg

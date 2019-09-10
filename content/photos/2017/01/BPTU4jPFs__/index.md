@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/155915563705/kraken-attack-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/820761325085356033/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155280891923912:0
 tags:
 - sketchdaily
 ---

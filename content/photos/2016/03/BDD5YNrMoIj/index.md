@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/141206433025/trying-out-an-app-for-sketching-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/710503354032463872/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154446826693912:1
 tags:
 - sketchdaily
 ---

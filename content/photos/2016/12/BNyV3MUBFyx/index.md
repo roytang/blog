@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/154237690635/tranquil-meadow-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/807111931198926849/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155161972988912:0
 tags:
 - sketchdaily
 ---

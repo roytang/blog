@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/158109584835/factory-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/839119621320032257/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155422636223912:0
 tags:
 - sketchdaily
 ---

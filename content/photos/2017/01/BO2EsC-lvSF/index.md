@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/155389734240/random-doodles-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/816644317167177728/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155249609388912:0
 tags:
 - sketchdaily
 ---

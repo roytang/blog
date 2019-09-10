@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/149178765780/trying-to-copy-a-sketch-from-one-of-favorite-comic
 - type: twitter
   url: https://twitter.com/roytang/statuses/766663333722333184/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154835035613912:0
 tags:
 - sketchdaily
 ---

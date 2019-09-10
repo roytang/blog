@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/142579650130/pit-from-kid-icarus-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/719211678315839488/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154522728248912:1
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145967350245/garden-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/743125795091025920/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154672468068912:1
 tags:
 - sketchdaily
 ---

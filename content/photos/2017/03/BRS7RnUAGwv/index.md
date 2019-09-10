@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/158064550330/wilma-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/838733542607683584/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155419585333912:0
 tags:
 - sketchdaily
 ---

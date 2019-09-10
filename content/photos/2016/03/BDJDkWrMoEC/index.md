@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/141316531505/studying-body-proportions-rocket-for-scale
 - type: twitter
   url: https://twitter.com/roytang/statuses/711229515842740224/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154452988198912:1
 tags:
 - sketchdaily
 ---

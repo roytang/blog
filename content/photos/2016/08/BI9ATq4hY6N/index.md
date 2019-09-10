@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/148770682010/strawberry-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/763576642128187392/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154810849108912:2
 tags:
 - sketchdaily
 ---

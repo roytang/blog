@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/150639907120/juzam-djinn-sketchdaily-mtg
 - type: twitter
   url: https://twitter.com/roytang/statuses/777909562498134017/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154920473213912:1
 tags:
 - sketchdaily
 - mtg

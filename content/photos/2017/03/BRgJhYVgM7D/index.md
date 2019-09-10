@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BRgJhYVgM7D/
 - type: twitter
   url: https://twitter.com/roytang/statuses/840580303152398338/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155435235983912:1
 tags:
 - popquiz
 - hungrymeeples

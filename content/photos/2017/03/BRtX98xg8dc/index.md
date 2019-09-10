@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/158481158445/back-to-the-future-x-jetsons-x-flintstones
 - type: twitter
   url: https://twitter.com/roytang/statuses/842441670071316480/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10155451991328912
 tags:
 - sketchdaily
 - procreate

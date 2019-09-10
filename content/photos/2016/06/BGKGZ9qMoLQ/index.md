@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/145309869725/underwater-baby-the-thing-about-sketchdaily-is
 - type: twitter
   url: https://twitter.com/roytang/statuses/738398022963363841/
+- type: facebook
+  url: https://www.facebook.com/10155666240078912/posts/10154640072493912:1
 tags:
 - sketchdaily
 ---
