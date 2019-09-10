@@ -2,6 +2,8 @@ import json
 from pathlib import Path
 from datetime import datetime
 import frontmatter
+import re
+import string
 
 def add_syndication(mdfile, url, stype):
     with mdfile.open(encoding="UTF-8") as f:
@@ -27,6 +29,12 @@ def add_syndication(mdfile, url, stype):
         with mdfile.open("w", encoding="UTF-8") as w:
             w.write(newfile)
 
+printable = set(string.printable)
+def clean_string(str):
+    # clean string for matching purposes
+    str = "".join(list(filter(lambda x: x in printable, str)))
+    return str[0:100]
+
 importfile = Path("D:\\temp\\facebook-stephenroytang-20190718\\posts\\your_posts_1.json")
 with importfile.open(encoding="UTF-8") as f:
     posts = json.loads(f.read())
@@ -34,6 +42,7 @@ with importfile.open(encoding="UTF-8") as f:
 dumpfile = Path("D:\\temp\\dump.json")
 # map timestamp to url 
 fburlmap = {}
+fburlmapday = {} # secondary map, if the first one fails
 with dumpfile.open(encoding="UTF-8") as f:
     dump = json.loads(f.read())
     for d in dump:
@@ -44,19 +53,27 @@ with dumpfile.open(encoding="UTF-8") as f:
             fburlmap[minutes].append(d)
         else:
             fburlmap[minutes] = [d]
+        day = datetime.strptime(d["date"], "%Y-%m-%d %H:%M:%S").strftime("%Y-%m-%d")
+        if day in fburlmapday:
+            fburlmapday[day].append(d)
+        else:
+            fburlmapday[day] = [d]
 
 notesfolder = Path("D:\\repos\\blog\\content\\notes")
 cachednotes = {}
 
 count = 0
-syndicated = 0
+unprocessed = []
+contentless = []
+syndicated = []
 notfound = []
+regex = re.compile(r"\@\[[0-9]+:[0-9]+:([^\]]+)\]", re.IGNORECASE)
 for post in posts:
     date = datetime.utcfromtimestamp(post["timestamp"])
     if date.year > 2017:
         continue
 
-    print(date)
+    post['fmdate'] = date.strftime("%Y-%m-%d %H:%M:%S")
     data = post.get("data", [])
     content = ""
     postcount = 0
@@ -64,25 +81,33 @@ for post in posts:
         if "post" in d:
             content = d["post"]
             postcount = postcount + 1
+    if content.find("I was watching this and thought I was Ryu,") < 0:
+        continue
     print(content)
 
     # let's worry about content less posts later
     if len(content) > 0:
 
+        search = clean_string(content)
+        search = regex.sub(r'\g<1>', search)
+        
         # find the fburl for this post
         match = None
         datestr = date.strftime("%Y-%m-%d %H:%M")
         if datestr in fburlmap:
             fburl = fburlmap[datestr]
             for fbu in fburl:
-                if fbu["text"].find(content) >= 0:
+                if clean_string(fbu["text"]).find(search) >= 0:
                     match = fbu
                     break
-        
         if match is None:
-            print(datestr)
-            print("#### NOT FOUND IN FB DUMP!")
-            post["fmdate"] = datestr
+            datestr = date.strftime("%Y-%m-%d")
+            fburl = fburlmapday.get(datestr, [])
+            for fbu in fburl:
+                if clean_string(fbu["text"]).find(search) >= 0:
+                    match = fbu
+                    break
+        if match is None:
             notfound.append(post)
             continue
 
@@ -91,36 +116,42 @@ for post in posts:
         my = date.strftime("%Y-%m")
         if my in cachednotes:
             for note in cachednotes[my]:
-                if note["text"].find(content) >= 0:
-                    print("##### FOUND!!!")
-                    syndicated = syndicated + 1
+                if clean_string(note["text"]).find(search) >= 0:
+                    syndicated.append(post)
                     add_syndication(note["file"], match["url"], "facebook")
+                    processed = True
         else:
             foundnotes = []
             for mdfile in searchfolder.glob("**/*.md"):
-                with mdfile.open() as f:
+                with mdfile.open(encoding="UTF-8") as f:
                     try:
-                        post = frontmatter.load(f)
+                        mdpost = frontmatter.load(f)
                     except:
                         print("Error parsing file")
                         continue
                     foundnotes.append({
-                        "date": post['date'],
-                        "text": post.content,
+                        "date": mdpost['date'],
+                        "text": mdpost.content,
                         "file": mdfile
                     })
-                    if post.content.find(content) >= 0:
-                        print("#### FOUND!!!")
+                    if clean_string(mdpost.content).find(search) >= 0:
                         add_syndication(mdfile, match["url"], "facebook")
-                        syndicated = syndicated + 1
+                        syndicated.append(post)
+                        processed = True
             # cache the foundnotes for the given month and year
             cachednotes[my] = foundnotes
+    else:
+        contentless.append(post)
 
     count = count + 1
 
 with Path("d:\\temp\\notfound.json").open("w", encoding="UTF-8") as f:
-    f.write(json.dumps(notfound))
+    f.write(json.dumps(notfound, indent=4))
+with Path("d:\\temp\\contentless.json").open("w", encoding="UTF-8") as f:
+    f.write(json.dumps(contentless, indent=4))
+
 
 print(len(notfound))
-print(syndicated)
+print(len(contentless))
+print(len(syndicated))
 print(count)
