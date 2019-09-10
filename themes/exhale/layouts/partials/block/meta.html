@@ -21,6 +21,7 @@
         <p>
         {{ range .Params.syndicated }}
         <a rel="syndication" title="View on {{ .type }}" class='
+        {{ if eq (lower .type) "facebook"}}fab fa-facebook-square{{ end }}
         {{ if eq (lower .type) "twitter"}}fab fa-twitter-square{{ end }}
         {{ if eq (lower .type) "tumblr"}}fab fa-tumblr-square{{ end }}
         {{ if eq (lower .type) "instagram"}}fab fa-instagram{{ end }}
