@@ -1,0 +1,9 @@
+---
+date: 2019-07-14 08:10:30
+source: twitter
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1150316625717059584/
+---
+
+New post: Samsung Galaxy A50 https://roytang.net/2019/07/samsung-galaxy-a50/ : "Since I was going to be staying in the US for more than a month, on my first day there, I went over to Best Buy and got myself a T-Mobile sim card and plan, and the staff there helpfully offered to install the sim into my …
