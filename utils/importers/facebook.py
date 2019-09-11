@@ -81,7 +81,7 @@ for post in posts:
         if "post" in d:
             content = d["post"]
             postcount = postcount + 1
-    # if content.find("Too much bad news this week, time for some chocolate") < 0:
+    # if content.find("ano sa tagalog ang twitter") < 0:
     #     continue
     # print(content)
 
@@ -92,6 +92,7 @@ for post in posts:
         search = content
         search = regex.sub(r'\g<1>', search)
         search = clean_string(search)
+        # print(search)
 
         title = post.get("title", "")
         if title.startswith("Roy Tang wrote on ") and title.endswith("timeline."):
@@ -125,7 +126,7 @@ for post in posts:
             my = date.strftime("%Y-%m")
             if my in cachednotes:
                 for note in cachednotes[my]:
-                    if clean_string(note["text"]).find(search) >= 0:
+                    if clean_string(note["text"]).startswith(search):
                         syndicated.append(post)
                         add_syndication(note["file"], match["url"], "facebook")
                         processed = True
@@ -143,7 +144,7 @@ for post in posts:
                             "text": mdpost.content,
                             "file": mdfile
                         })
-                        if clean_string(mdpost.content).find(search) >= 0:
+                        if clean_string(mdpost.content).startswith(search):
                             add_syndication(mdfile, match["url"], "facebook")
                             syndicated.append(post)
                             processed = True
@@ -159,7 +160,7 @@ for post in posts:
                             "text": mdpost.content,
                             "file": mdfile
                         })
-                        if clean_string(mdpost.content).find(search) >= 0:
+                        if clean_string(mdpost.content).starstwith(search):
                             add_syndication(mdfile, match["url"], "facebook")
                             syndicated.append(post)
                             processed = True
