@@ -6,7 +6,6 @@ import re
 import string
 
 def add_syndication(mdfile, url, stype):
-    print(mdfile)
     with mdfile.open(encoding="UTF-8") as f:
         try:
             post = frontmatter.load(f)
