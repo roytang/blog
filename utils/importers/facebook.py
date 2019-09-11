@@ -83,15 +83,15 @@ for post in posts:
             postcount = postcount + 1
     # if content.find("Too much bad news this week, time for some chocolate") < 0:
     #     continue
-    print(content)
+    # print(content)
 
+    processed = False
     # let's worry about content less posts later
     if len(content) > 0:
 
         search = content
         search = regex.sub(r'\g<1>', search)
         search = clean_string(search)
-        print(search)
 
         title = post.get("title", "")
         if title.startswith("Roy Tang wrote on ") and title.endswith("timeline."):
@@ -117,59 +117,59 @@ for post in posts:
                     break
         if match is None:
             notfound.append(post)
-            continue
-
-        print(match)
-
-        # check for any matching notes for the same year and month
-        searchfolder = notesfolder / date.strftime("%Y") / date.strftime("%m")
-        searchfolder2 = photosfolder / date.strftime("%Y") / date.strftime("%m")
-        my = date.strftime("%Y-%m")
-        if my in cachednotes:
-            for note in cachednotes[my]:
-                if clean_string(note["text"]).find(search) >= 0:
-                    syndicated.append(post)
-                    add_syndication(note["file"], match["url"], "facebook")
-                    processed = True
+            # continue
         else:
-            foundnotes = []
-            for mdfile in searchfolder.glob("**/*.md"):
-                with mdfile.open(encoding="UTF-8") as f:
-                    try:
-                        mdpost = frontmatter.load(f)
-                    except:
-                        print("Error parsing file")
-                        continue
-                    foundnotes.append({
-                        "date": mdpost['date'],
-                        "text": mdpost.content,
-                        "file": mdfile
-                    })
-                    if clean_string(mdpost.content).find(search) >= 0:
-                        add_syndication(mdfile, match["url"], "facebook")
+            # check for any matching notes for the same year and month
+            searchfolder = notesfolder / date.strftime("%Y") / date.strftime("%m")
+            searchfolder2 = photosfolder / date.strftime("%Y") / date.strftime("%m")
+            my = date.strftime("%Y-%m")
+            if my in cachednotes:
+                for note in cachednotes[my]:
+                    if clean_string(note["text"]).find(search) >= 0:
                         syndicated.append(post)
+                        add_syndication(note["file"], match["url"], "facebook")
                         processed = True
-            for mdfile in searchfolder2.glob("**/*.md"):
-                with mdfile.open(encoding="UTF-8") as f:
-                    try:
-                        mdpost = frontmatter.load(f)
-                    except:
-                        print("Error parsing file")
-                        continue
-                    foundnotes.append({
-                        "date": mdpost['date'],
-                        "text": mdpost.content,
-                        "file": mdfile
-                    })
-                    if clean_string(mdpost.content).find(search) >= 0:
-                        add_syndication(mdfile, match["url"], "facebook")
-                        syndicated.append(post)
-                        processed = True
-            # cache the foundnotes for the given month and year
-            cachednotes[my] = foundnotes
+            else:
+                foundnotes = []
+                for mdfile in searchfolder.glob("**/*.md"):
+                    with mdfile.open(encoding="UTF-8") as f:
+                        try:
+                            mdpost = frontmatter.load(f)
+                        except:
+                            print("Error parsing file")
+                            continue
+                        foundnotes.append({
+                            "date": mdpost['date'],
+                            "text": mdpost.content,
+                            "file": mdfile
+                        })
+                        if clean_string(mdpost.content).find(search) >= 0:
+                            add_syndication(mdfile, match["url"], "facebook")
+                            syndicated.append(post)
+                            processed = True
+                for mdfile in searchfolder2.glob("**/*.md"):
+                    with mdfile.open(encoding="UTF-8") as f:
+                        try:
+                            mdpost = frontmatter.load(f)
+                        except:
+                            print("Error parsing file")
+                            continue
+                        foundnotes.append({
+                            "date": mdpost['date'],
+                            "text": mdpost.content,
+                            "file": mdfile
+                        })
+                        if clean_string(mdpost.content).find(search) >= 0:
+                            add_syndication(mdfile, match["url"], "facebook")
+                            syndicated.append(post)
+                            processed = True
+                # cache the foundnotes for the given month and year
+                cachednotes[my] = foundnotes
     else:
         contentless.append(post)
 
+    if not processed:
+        unprocessed.append(post)
     count = count + 1
 
 with Path("d:\\temp\\notfound.json").open("w", encoding="UTF-8") as f:
@@ -182,4 +182,5 @@ print("notfound %s" % (len(notfound)))
 print("othertimelines %s" % (len(othertimelines)))
 print("contentless %s" % (len(contentless)))
 print("syndicated %s" % (len(syndicated)))
+print("unprocessed %s" % (len(unprocessed)))
 print(count)

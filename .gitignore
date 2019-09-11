@@ -3,6 +3,5 @@ temp.txt
 .DS_Store
 node_modules/
 utils/index/
-resources/_gen/
 markov.md
 *.pyc
