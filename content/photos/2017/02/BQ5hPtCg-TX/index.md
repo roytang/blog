@@ -11,8 +11,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/835146689723891713/
 - type: facebook
   url: https://www.facebook.com/10155666240078912/posts/10155391753193912:2
-- type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10155391753193912:0
 tags:
 - sketchdaily
 ---

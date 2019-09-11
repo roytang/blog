@@ -9,8 +9,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/632251151040299008/
 - type: facebook
   url: https://www.facebook.com/10155666240078912/posts/10154016606693912:1
-- type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10154016606693912:0
 tags:
 - gplondon
 ---
