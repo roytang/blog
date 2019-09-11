@@ -1,8 +1,8 @@
 {{ if and (.IsPage) ($.Param "comments_enabled") (not (eq .Type "page")) }}
 <div class="comments">
 
-{{ if eq "Section" "post" }}
-{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ if eq .Section "post" }}
+{{ $related := (where .Site.RegularPages "Section" "post").Related . | first 5 }}
 {{ with $related }}
 <h3>See Also</h3>
 <ul>
