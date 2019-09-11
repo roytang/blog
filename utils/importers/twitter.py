@@ -64,10 +64,10 @@ for su in urlmapdupes:
     canonical = None
     for_deletion = []
     for d in dupes:
-        if d["source_path"].startswith("post") or len(d['syndicated']) > 2:
+        if d["source_path"].startswith("post") or d["source_path"].startswith("links") or len(d['syndicated']) > 2:
             if canonical is not None:
-                print("##### WTH. More than one canonical urls were detected for %s" % (su))
-                print(dupes)
+                print("\n\r##### WTH. More than one canonical urls were detected for %s" % (su))
+                print(json.dumps(dupes, indent=4))
             canonical = d
         else:
             for_deletion.append(d)
@@ -340,63 +340,139 @@ def process_tweet(d1):
 
     return create_post(d1)
 
-countbysource = {}
-replies = 0
-retweets = 0
-withmedia = 0
-raw = 0
+def import_all():
+    countbysource = {}
+    replies = 0
+    retweets = 0
+    withmedia = 0
+    raw = 0
 
-with Path(SOURCE_FILE).open(encoding='utf-8') as f:
-    d = json.load(f)
-    idx = 0
-    for d1 in d:
-        if d1["id_str"] != "1033369979884847106":
-            continue
+    with Path(SOURCE_FILE).open(encoding='utf-8') as f:
+        d = json.load(f)
+        idx = 0
+        for d1 in d:
+            # if d1["id_str"] != "1033369979884847106":
+            #     continue
 
-        if process_tweet(d1):
-            continue
+            if process_tweet(d1):
+                continue
 
-        tweet_source = d1["source"]
-        if tweet_source not in countbysource:
-            countbysource[tweet_source] = 1
-        else:
-            countbysource[tweet_source] = countbysource[tweet_source] + 1
+            tweet_source = d1["source"]
+            if tweet_source not in countbysource:
+                countbysource[tweet_source] = 1
+            else:
+                countbysource[tweet_source] = countbysource[tweet_source] + 1
 
-        is_reply = False
-        if "in_reply_to_status_id_str" in d1 and "in_reply_to_screen_name" in d1:
-            replies = replies + 1
-            is_reply = True
+            is_reply = False
+            if "in_reply_to_status_id_str" in d1 and "in_reply_to_screen_name" in d1:
+                replies = replies + 1
+                is_reply = True
 
-        # handle retweet
-        is_retweet = False
-        content = d1["full_text"]
-        if content.startswith("RT @"):
-            retweets = retweets + 1
-            is_retweet = True
+            # handle retweet
+            is_retweet = False
+            content = d1["full_text"]
+            if content.startswith("RT @"):
+                retweets = retweets + 1
+                is_retweet = True
 
-        media = []
-        if "extended_entities" in d1:
-            for m in d1["extended_entities"]["media"]:
-                media.append(m["media_url_https"])
+            media = []
+            if "extended_entities" in d1:
+                for m in d1["extended_entities"]["media"]:
+                    media.append(m["media_url_https"])
 
-        if len(media) > 0:
-            withmedia = withmedia + 1
+            if len(media) > 0:
+                withmedia = withmedia + 1
 
-        if not is_reply and not is_retweet and len(media) == 0:
-            raw = raw + 1
+            if not is_reply and not is_retweet and len(media) == 0:
+                raw = raw + 1
 
-        idx = idx + 1
-        # if idx > 100:
-        #     break
+            idx = idx + 1
+            # if idx > 100:
+            #     break
 
-# save the url cache for future use
-with Path(urlcachefile).open("w", encoding="UTF-8") as f:
-    f.write(json.dumps(urlcache))
+    # save the url cache for future use
+    with Path(urlcachefile).open("w", encoding="UTF-8") as f:
+        f.write(json.dumps(urlcache))
 
-for source in countbysource:
-    print("countbysource: %s = %s" % (source, countbysource[source]))
-print("replies: %s" % (replies))
-print("retweets: %s" % (retweets))
-print("withmedia: %s" % (withmedia))
-print("raw: %s" % (raw))
-print("total: %s" % (idx))
+    for source in countbysource:
+        print("countbysource: %s = %s" % (source, countbysource[source]))
+    print("replies: %s" % (replies))
+    print("retweets: %s" % (retweets))
+    print("withmedia: %s" % (withmedia))
+    print("raw: %s" % (raw))
+    print("total: %s" % (idx))
+
+def thread_replies():
+    with Path(SOURCE_FILE).open(encoding='utf-8') as f:
+        d = json.load(f)
+        idx = 0
+        # process in reverse order so tweet sequences are in order
+        d = reversed(d)
+        for d1 in d:
+            is_reply = False
+            if "in_reply_to_status_id_str" in d1 and "in_reply_to_screen_name" in d1:
+                is_reply = True
+            if not is_reply:
+                continue
+            id_str = d1['id_str']
+            # if id_str != "602009895437737984" and id_str != "602009747294924802":
+            #     continue
+            orig_tweet_url = "https://twitter.com/%s/statuses/%s/" % (TWITTER_USERNAME, id_str)
+            date = datetime.strptime(d1['created_at'], "%a %b %d %H:%M:%S %z %Y")
+            # process replies to myself
+            if d1["in_reply_to_screen_name"] == TWITTER_USERNAME:
+                replied_to_url = "https://twitter.com/%s/statuses/%s/" % (d1['in_reply_to_screen_name'], d1['in_reply_to_status_id_str'])
+                info = urlmap[replied_to_url]
+                source_path = Path(info['source_path'])
+                full_path = contentdir / source_path
+                # welp, we might as well move them to bundles
+                if full_path.name == "index.md":
+                    parentdir = full_path.parent
+                else:
+                    parentdir = full_path.parent / full_path.stem
+                    if not parentdir.exists():
+                        parentdir.mkdir(parents=True)
+                    oldfile = full_path
+                    full_path = parentdir / "index.md"
+                    shutil.move(str(oldfile), str(full_path))
+                    # also update the urlmap!
+                    urlmap[replied_to_url]['source_path'] = str(full_path.relative_to(contentdir))
+                # append the reply to the original post, and add it as a syndication as well
+                with full_path.open(encoding="UTF-8") as f:
+                    try:
+                        post = frontmatter.load(f)
+                    except:
+                        print("Error parsing file")
+                        return
+                    post['syndicated'].append({
+                        'type': 'twitter',
+                        'url': orig_tweet_url
+                    })
+                    content = get_content(d1)
+                    post.content = post.content + "\n\r" + content
+                    newfile = frontmatter.dumps(post)
+                    with full_path.open("w", encoding="UTF-8") as w:
+                        w.write(newfile)
+                # copy over any media from the reply as well
+                media = []
+                for m in d1.get("extended_entities", {}).get("media", []):
+                    media.append(m["media_url_https"])
+                for imgfile in mediadir.glob(d1["id_str"] + "*.*"):
+                    to_file = parentdir / imgfile.name
+                    shutil.copy(str(imgfile), str(to_file))    
+                # delete any existing file created for this reply
+                oldfile = contentdir / "replies" / date.strftime("%Y") / date.strftime("%m") / (id_str + ".md")
+                if oldfile.exists():
+                    os.remove(str(oldfile))
+                oldfolder = contentdir / "replies" / date.strftime("%Y") / date.strftime("%m") / (id_str)
+                if oldfolder.exists():
+                    shutil.rmtree(str(oldfolder))
+                # replace this entry in the urlmap! this is so that succeeding replies can find the correct root tweet to attach to
+                urlmap[orig_tweet_url] = info
+            else:
+                continue
+
+            idx = idx + 1
+        print(idx)
+
+thread_replies()
