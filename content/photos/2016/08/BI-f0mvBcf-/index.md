@@ -10,7 +10,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/763786708890640384/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10154814367243912:0
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154814367243912:0
 tags:
 - sketchdaily
 - marvel

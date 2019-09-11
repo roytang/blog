@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/861910314832375808/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10155607751028912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155607751028912
 ---
 
 I'm surprised I'm still listed as an ECE. Wala bang expiry? Lol https://t.co/sDF8lzijqx

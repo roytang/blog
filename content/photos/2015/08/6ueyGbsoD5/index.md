@@ -6,7 +6,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/6ueyGbsoD5/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10154035906983912:1
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154035906983912:1
 tags:
 - tourist
 ---

@@ -8,7 +8,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/871376693197508608/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10155683534788912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155683534788912
 tags:
 - gpmanila
 - mtg

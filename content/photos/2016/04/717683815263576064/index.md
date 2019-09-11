@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/717683815263576064/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10154515058788912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154515058788912
 ---
 
 PS4 now supports remote play on PC/Mac! https://t.co/BDm5ohkpks

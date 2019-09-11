@@ -8,7 +8,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/703768811837612032/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10154399672928912:1
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154399672928912:1
 tags:
 - sketchdaily
 ---

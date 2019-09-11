@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/901467376687824898/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10155983423193912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155983423193912
 ---
 
 TIL there was a second Eraserheads tribute album https://t.co/9W1EXrGk5v

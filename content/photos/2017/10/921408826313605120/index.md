@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/921408826313605120/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10156123421688912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156123421688912
 ---
 
 I have two Steam coupons I'm never going to use. Anyone want them? https://t.co/GHHwlmkjg8

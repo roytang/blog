@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/866286597729169408/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10155643557833912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155643557833912
 ---
 
 Duolingo has Japanese now! https://t.co/R1AzID7LzZ

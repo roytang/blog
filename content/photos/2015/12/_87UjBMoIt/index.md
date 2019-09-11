@@ -6,7 +6,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/_87UjBMoIt/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10154284178318912:0
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154284178318912:0
 tags: []
 ---
 

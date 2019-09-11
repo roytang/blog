@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/931540341919965184/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10156192043848912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156192043848912
 - type: twitter
   url: https://twitter.com/roytang/statuses/931540407829151744/
 - type: twitter
@@ -57,6 +57,7 @@ JUSTICE LEAGUE Spoiler-Free Review:
 - Imax was okay. There was one scene where I instinctively moved my head to avoid an incoming projectile
 - Magugustuhan ba ni Mama: It's very much a fantasy action movie so probably not. 
 7/?
-- we still get Batman with guns and Superman who threatens to kill
+
+- we still get Batman with guns and Superman who threatens to kill
 - no title drop and no Superfriends reference = LAME
 8/?

@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/911056471554584576/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10156051846353912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156051846353912
 ---
 
 All my disks are red D: https://t.co/bv7YH0ejso

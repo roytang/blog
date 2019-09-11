@@ -10,7 +10,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/735572698961567744/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10154624868883912:0
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154624868883912:0
 tags:
 - sketchdaily
 - transformers

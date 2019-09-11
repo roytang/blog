@@ -10,7 +10,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/840099165652762625/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10155430673713912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155430673713912
 tags:
 - MTG
 ---

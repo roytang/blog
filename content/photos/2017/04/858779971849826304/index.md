@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/858779971849826304/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10155584701973912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155584701973912
 ---
 
 Maybe someday flying abroad won't be like this https://t.co/EJ636hrHaB

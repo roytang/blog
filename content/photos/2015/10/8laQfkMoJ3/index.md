@@ -8,7 +8,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/652169592182304769/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10154134398968912:0
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154134398968912:0
 tags:
 - psvita
 - danganronpa

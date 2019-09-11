@@ -10,7 +10,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/805442559220862976/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10155142674858912:1
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155142674858912:1
 tags:
 - sketchdaily
 ---

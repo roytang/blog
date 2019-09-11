@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/771996697983524864/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10154876231018912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154876231018912
 tags:
 - BackToTheFuture
 ---

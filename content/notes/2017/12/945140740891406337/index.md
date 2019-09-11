@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/945140740891406337/
 - type: facebook
-  url: https://www.facebook.com/10155666240078912/posts/10156288081443912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156288081443912
 - type: twitter
   url: https://twitter.com/roytang/statuses/945140919581294592/
 - type: twitter
@@ -19,4 +19,5 @@ It's nice that the missing girl was found before Christmas, but this might make 
 Not every case is going to go viral, since people only have so much attention to give to such cases before they get tired of their feeds being nothing but missing person reports.
 
 I don't have an alternative. Obviously if a loved one is missing, you'll try everything you can.
-I think in this particular case, they got lucky that she was found, and they had contacts who were able to help the call go viral.
+
+I think in this particular case, they got lucky that she was found, and they had contacts who were able to help the call go viral.
