@@ -10,3 +10,5 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1166618522270797825/
 ---
+
+[@shanselman](https://twitter.com/shanselman/) Thanks!

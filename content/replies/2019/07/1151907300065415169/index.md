@@ -10,3 +10,5 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1151907300065415169/
 ---
+
+[@jaymelynilao](https://twitter.com/jaymelynilao/) [@SeresaTagAraw](https://twitter.com/SeresaTagAraw/) pano nagwiwithdraw sa CR!

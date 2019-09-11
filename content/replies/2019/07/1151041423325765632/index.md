@@ -10,3 +10,5 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1151041423325765632/
 ---
+
+[@aleksfelipe](https://twitter.com/aleksfelipe/) This is the best way to learn lol

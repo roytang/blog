@@ -10,3 +10,5 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1165182644650299394/
 ---
+
+[@wrongwaygoback](https://twitter.com/wrongwaygoback/) no you can't
