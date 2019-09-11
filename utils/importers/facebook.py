@@ -6,6 +6,7 @@ import re
 import string
 
 def add_syndication(mdfile, url, stype):
+    print(mdfile)
     with mdfile.open(encoding="UTF-8") as f:
         try:
             post = frontmatter.load(f)
@@ -81,7 +82,7 @@ for post in posts:
         if "post" in d:
             content = d["post"]
             postcount = postcount + 1
-    # if content.find("ano sa tagalog ang twitter") < 0:
+    # if content.find("Zinger box") < 0:
     #     continue
     # print(content)
 
@@ -126,7 +127,7 @@ for post in posts:
             my = date.strftime("%Y-%m")
             if my in cachednotes:
                 for note in cachednotes[my]:
-                    if clean_string(note["text"]).startswith(search):
+                    if clean_string(note["text"]).find(search) >= 0:
                         syndicated.append(post)
                         add_syndication(note["file"], match["url"], "facebook")
                         processed = True
@@ -144,10 +145,11 @@ for post in posts:
                             "text": mdpost.content,
                             "file": mdfile
                         })
-                        if clean_string(mdpost.content).startswith(search):
+                        if clean_string(mdpost.content).find(search) >= 0:
                             add_syndication(mdfile, match["url"], "facebook")
                             syndicated.append(post)
                             processed = True
+                            break
                 for mdfile in searchfolder2.glob("**/*.md"):
                     with mdfile.open(encoding="UTF-8") as f:
                         try:
@@ -160,10 +162,11 @@ for post in posts:
                             "text": mdpost.content,
                             "file": mdfile
                         })
-                        if clean_string(mdpost.content).starstwith(search):
+                        if clean_string(mdpost.content).find(search) >= 0:
                             add_syndication(mdfile, match["url"], "facebook")
                             syndicated.append(post)
                             processed = True
+                            break
                 # cache the foundnotes for the given month and year
                 cachednotes[my] = foundnotes
     else:
