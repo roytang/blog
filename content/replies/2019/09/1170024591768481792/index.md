@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1170024591768481792/
 ---
-
-[@magnifique_f8h](https://twitter.com/magnifique_f8h/) This reminds i was talking to someone the other day and she said ker grade school kid didnt know what the verb "dial" meant lol

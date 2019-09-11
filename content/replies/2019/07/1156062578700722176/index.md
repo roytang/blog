@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1156062578700722176/
 ---
-
-[@jaymelynilao](https://twitter.com/jaymelynilao/) saan yan?

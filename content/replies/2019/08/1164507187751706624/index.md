@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164507187751706624/
 ---
-
-[@Westraid](https://twitter.com/Westraid/) This seems oddly specific

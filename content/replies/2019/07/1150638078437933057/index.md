@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1150638078437933057/
 ---
-
-[@Woerlan](https://twitter.com/Woerlan/) it's the 3rd quarter already, if they're not announcing anything at EVO they might as well give up on 2019 lol

@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1166331230557626368/
 ---
-
-[@capnfabs](https://twitter.com/capnfabs/) [@newsycombinator](https://twitter.com/newsycombinator/) Wow was i unknowingly following two different bots lol

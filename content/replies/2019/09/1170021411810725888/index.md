@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1170021411810725888/
 ---
-
-[@magnifique_f8h](https://twitter.com/magnifique_f8h/) oh, i thought it was something more complicated than that. sorry! lol

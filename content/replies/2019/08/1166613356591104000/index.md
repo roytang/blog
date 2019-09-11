@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1166613356591104000/
 ---
-
-[@shanselman](https://twitter.com/shanselman/) How to do this?

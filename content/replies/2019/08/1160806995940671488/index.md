@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1160806995940671488/
 ---
-
-[@marcopadillo](https://twitter.com/marcopadillo/) pano mo nattrack ung kilometreage nung bike mo?

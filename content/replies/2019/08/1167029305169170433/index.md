@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1167029305169170433/
 ---
-
-[@Westraid](https://twitter.com/Westraid/) ah i forgot to put the “stay at home” part lol

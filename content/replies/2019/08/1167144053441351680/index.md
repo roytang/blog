@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1167144053441351680/
 ---
-
-[@magnifique_f8h](https://twitter.com/magnifique_f8h/) what you can do half and half?

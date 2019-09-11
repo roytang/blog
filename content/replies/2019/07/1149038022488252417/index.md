@@ -12,5 +12,3 @@ syndicated:
 tags:
 - embracedeath
 ---
-
-[@JWonggg](https://twitter.com/JWonggg/) [@samuraishodown](https://twitter.com/samuraishodown/) #embracedeath

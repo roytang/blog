@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1151055634529308672/
 ---
-
-[@aleksfelipe](https://twitter.com/aleksfelipe/) basta Azeus, early years yun hahaha

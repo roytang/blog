@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1166570974810124289/
 ---
-
-[@momblogger](https://twitter.com/momblogger/) with recent newspapers conveniently and conspicuously in the pictures for good measure

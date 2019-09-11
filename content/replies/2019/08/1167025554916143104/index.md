@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1167025554916143104/
 ---
-
-[@Westraid](https://twitter.com/Westraid/) its the perfect season for videogames

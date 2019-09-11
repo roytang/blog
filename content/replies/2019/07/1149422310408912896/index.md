@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1149422310408912896/
 ---
-
-[@Westraid](https://twitter.com/Westraid/) Lol I didn't even notice it went down

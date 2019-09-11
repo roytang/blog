@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1158614851737882624/
 ---
-
-ended up having to rollback the windows 10 1903 upgrade from a couple of days ago, was causing too many issues

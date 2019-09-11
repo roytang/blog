@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1168122098872545281/
 ---
-
-[@wrongwaygoback](https://twitter.com/wrongwaygoback/) Shocks arent rotating yet tho?

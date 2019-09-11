@@ -1,5 +1,5 @@
-<div class="content">
-    {{ .Summary }}
-
-    <p><a href="{{ .Permalink }}">view post</a></p>
+<div class="e-content">
+{{ .Content }}
+{{ partial "block/photos" . }}
 </div>
+

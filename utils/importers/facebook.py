@@ -35,7 +35,7 @@ def clean_string(str):
     str = "".join(list(filter(lambda x: x in printable, str)))
     return str[0:100]
 
-importfile = Path("D:\\temp\\facebook-stephenroytang-20190718\\posts\\your_posts_1.json")
+importfile = Path("D:\\temp\\unprocessed.json")
 with importfile.open(encoding="UTF-8") as f:
     posts = json.loads(f.read())
 
@@ -179,7 +179,8 @@ with Path("d:\\temp\\notfound.json").open("w", encoding="UTF-8") as f:
     f.write(json.dumps(notfound, indent=4))
 with Path("d:\\temp\\contentless.json").open("w", encoding="UTF-8") as f:
     f.write(json.dumps(contentless, indent=4))
-
+with Path("d:\\temp\\unprocessed.json").open("w", encoding="UTF-8") as f:
+    f.write(json.dumps(unprocessed, indent=4))
 
 print("notfound %s" % (len(notfound)))
 print("othertimelines %s" % (len(othertimelines)))

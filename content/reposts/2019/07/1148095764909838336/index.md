@@ -1,5 +1,5 @@
 ---
-date: 2019-07-08 05:05:35+00:00
+date: 2019-07-08 05:05:35
 repost_source:
   name: JamesStevenson
   type: twitter
@@ -13,4 +13,4 @@ tags:
 - Jeopardy
 ---
 
-RT [@JamesStevenson](https://twitter.com/JamesStevenson/): SMH. 🤦‍♂️ #SpiderMan #Jeopardy [@TomHolland1996](https://twitter.com/TomHolland1996/) https://t.co/wIGCNd0lyP
+SMH. 🤦‍♂️ #SpiderMan #Jeopardy [@TomHolland1996](https://twitter.com/TomHolland1996/)

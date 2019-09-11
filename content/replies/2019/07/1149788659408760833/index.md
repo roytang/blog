@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1149788659408760833/
 ---
-
-[@Westraid](https://twitter.com/Westraid/) if we combine our special powers, the rain won't know what to do! :p I hope you didn't get wet this time!

@@ -10,5 +10,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164491442846224384/
 ---
-
-[@gangbadoy](https://twitter.com/gangbadoy/) panget ang response sa trial balloon nila e
