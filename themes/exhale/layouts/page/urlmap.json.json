@@ -3,6 +3,7 @@
     "{{ .RelPermalink }}": {
         "full_url": "{{ .Permalink }}",
         "kind": "{{ .Kind }}",
+        "date": "{{ .Date.Format "2006-01-02" }}",
         "source_path": {{ .File.Path |jsonify }},
         {{ if .Params.syndicated }}
         "syndicated": [
