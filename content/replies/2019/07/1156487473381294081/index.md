@@ -10,3 +10,5 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1156487473381294081/
 ---
+
+[@visakanv](https://twitter.com/visakanv/) What are examples of these great daily bots

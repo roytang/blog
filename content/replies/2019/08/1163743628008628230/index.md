@@ -10,3 +10,5 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1163743628008628230/
 ---
+
+[@wrongwaygoback](https://twitter.com/wrongwaygoback/) I really could have used this while i was travelling a couple of months ago!

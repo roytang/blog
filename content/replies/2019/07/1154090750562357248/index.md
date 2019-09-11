@@ -10,3 +10,5 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1154090750562357248/
 ---
+
+[@kierongillen](https://twitter.com/kierongillen/) This reminds me of "SHOW ME WHAT YOU GOT" from Rick and Morty https://rickandmorty.fandom.com/wiki/Cromulons

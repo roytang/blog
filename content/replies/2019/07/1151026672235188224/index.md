@@ -10,3 +10,5 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1151026672235188224/
 ---
+
+[@joyarmadamba](https://twitter.com/joyarmadamba/) lol it's not that
