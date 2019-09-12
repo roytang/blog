@@ -1,6 +1,9 @@
-SOURCE_FILE = "D:\\temp\\twitter\\tweet.js"
-OUTPUT_DIR = "D:\\repos\\blog\\content\\aside\\"
-TWITTER_USERNAME = 'roytang'
+SOURCE_FILE = "D:\\temp\\roy_mtg-twitter\\tweet.js"
+TWITTER_USERNAME = 'roy_mtg'
+auto_tags = ["mtg"]
+syndicated_sources = ["IFTTT", "Tumblr", "instagram.com", "Mailchimp", "Twitter Web", "TweetDeck", "mtgstorm"]
+debug_id = None
+# debug_id = "20327212292" 
 
 import frontmatter
 import json
@@ -14,24 +17,16 @@ import os, shutil
 import inspect
 from datetime import datetime
 import re
-from utils import loadurlmap
+from utils import loadurlmap, load_map_from_json, URLResolver
 
 cwd = Path.cwd()
 contentdir = cwd / "content"
 blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
-mediadir = Path("D:\\temp\\twitter\\tweet_media")
+mediadir = Path("D:\\temp\\roy_mtg-twitter\\tweet_media")
 
-def load_map_from_json(filename):
-    cachefile = Path(filename)
-    cache = {}
-    if cachefile.exists():
-        with cachefile.open(encoding="UTF-8") as f:
-            cache = json.loads(f.read())
-    return cache
-
-urlcachefile = "d:\\temp\\twitter\\urlcache.json"
-urlcache = load_map_from_json(urlcachefile)
 retweetscache = load_map_from_json("d:\\temp\\twitter\\retweets.json")
+
+resolver = URLResolver()
 
 def loadurlmap(cleanupdupes=False):
     blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
@@ -97,35 +92,6 @@ def is_number(s):
     except ValueError:
         return False
 
-def get_final_url(url):
-    global urlcache
-    if url in urlcache:
-        if urlcache[url].endswith("imgur.com/removed.png"):
-            # rewrite the cache so we don't use this imgur 404:
-            urlcache[url] = url
-            return url, True
-        return urlcache[url], True
-
-    try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-        req = urllib.request.Request(url, headers=headers)
-
-        response = urllib.request.urlopen(req)
-        urlcache[url] = response.geturl()
-        return response.geturl(), True
-    except HTTPError as e:
-        print("Error: " + url)
-        print(str(e.getcode()) + "::" + e.reason)
-        urlcache[url] = url
-        return url, False
-    except:
-        e = sys.exc_info()[0]
-        print("Error: " + url)
-        urlcache[url] = url
-        print(e)
-        return url, False
-
-
 def add_syndication(mdfile, url, stype):
     with mdfile.open(encoding="UTF-8") as f:
         try:
@@ -169,14 +135,14 @@ def get_content(t):
             expanded_url = u["expanded_url"]
             processed_urls.append(expanded_url)
             # print("##### A URL!!! %s" % expanded_url)
-            expanded_url, no_errors = get_final_url(expanded_url)
+            expanded_url, no_errors = resolver.get_final_url(expanded_url)
             processed_urls.append(expanded_url)
             content = content.replace(url, expanded_url)
 
         # find urls that were not in the entities
         for raw_url in raw_urls:
             if raw_url not in processed_urls:
-                expanded_url, no_errors = get_final_url(raw_url)
+                expanded_url, no_errors = resolver.get_final_url(raw_url)
                 content = content.replace(raw_url, expanded_url)
 
     return content
@@ -191,7 +157,7 @@ def create_post(t):
     post['syndicated'] = [
         {
             "type": "twitter",
-            "url": "https://twitter.com/roytang/statuses/%s/" % (t['id'])
+            "url": "https://twitter.com/%s/statuses/%s/" % (TWITTER_USERNAME, t['id'])
         }
     ]
 
@@ -246,6 +212,10 @@ def create_post(t):
     for tag in parsed_tags:
         if tag not in tags:
             tags.append(tag)
+    
+    for tag in auto_tags:
+        if tag not in tags:
+            tags.append(tag)
 
     if len(tags) > 0:
         post["tags"] = tags
@@ -275,7 +245,7 @@ def create_post(t):
 def process_syn_url(d1, raw_url, url):
     orig_tweet_url = "https://twitter.com/%s/statuses/%s/" % (TWITTER_USERNAME, d1['id_str'])
 
-    url, no_errors = get_final_url(url)
+    url, no_errors = resolver.get_final_url(url)
     if not no_errors:
         print(d1["full_text"])
 
@@ -292,7 +262,7 @@ def process_syn_url(d1, raw_url, url):
         add_syndication(full_path, orig_tweet_url, "twitter")
         return True
 
-    if url.find("://roytang.net") >= 0:
+    if url.find("://roytang.net") >= 0 or url.find("://mtgstorm.com") >= 0:
         link_url = urlparse(url)
         u = urlmap.get(link_url.path, None)
         if u is None:
@@ -326,9 +296,9 @@ def process_tweet(d1):
             return True
 
     tweet_source = d1["source"]
+    # print("#### %s: %s" % (tweet_source, orig_tweet_url))
     # detect content syndicated from elsewhere
     # instagram, tumblr, roytang.net
-    syndicated_sources = ["IFTTT", "Tumblr", "instagram.com", "Mailchimp"]
     for s in syndicated_sources:
         if tweet_source.find(s) >= 0:
             for u in d1.get('entities', {}).get("urls", []):
@@ -358,8 +328,8 @@ def import_all():
         d = json.load(f)
         idx = 0
         for d1 in d:
-            # if d1["id_str"] != "1033369979884847106":
-            #     continue
+            if debug_id is not None and d1["id_str"] != debug_id:
+                continue
 
             if process_tweet(d1):
                 continue
@@ -398,8 +368,7 @@ def import_all():
             #     break
 
     # save the url cache for future use
-    with Path(urlcachefile).open("w", encoding="UTF-8") as f:
-        f.write(json.dumps(urlcache))
+    resolver.save_cache()
 
     for source in countbysource:
         print("countbysource: %s = %s" % (source, countbysource[source]))
@@ -416,6 +385,7 @@ def thread_replies():
         # process in reverse order so tweet sequences are in order
         d = reversed(d)
         for d1 in d:
+            print(d1)
             is_reply = False
             if "in_reply_to_status_id_str" in d1 and "in_reply_to_screen_name" in d1:
                 is_reply = True
@@ -485,4 +455,5 @@ def thread_replies():
             idx = idx + 1
         print(idx)
 
-# thread_replies()
+thread_replies()
+# import_all()

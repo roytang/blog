@@ -129,3 +129,40 @@ class MDSearcher:
                 return m
         return None
 
+class URLResolver:
+
+    def __init__(self):
+        self.urlcachefile = "d:\\temp\\twitter\\urlcache.json"
+        self.urlcache = load_map_from_json(self.urlcachefile)
+
+    def get_final_url(self, url, usecache=True):
+        if usecache and url in self.urlcache:
+            if self.urlcache[url].endswith("imgur.com/removed.png"):
+                # rewrite the cache so we don't use this imgur 404:
+                self.urlcache[url] = url
+                return url, True
+            print(self.urlcache[url])
+            return self.urlcache[url], True
+
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+            response = requests.get(url, headers=headers)
+            self.urlcache[url] = response.url
+            return response.url, True
+        except HTTPError as e:
+            print("Error: " + url)
+            print(str(e.getcode()) + "::" + e.reason)
+            self.urlcache[url] = url
+            return url, False
+        except:
+            e = sys.exc_info()[0]
+            print("Error: " + url)
+            self.urlcache[url] = url
+            print(e)
+            return url, False
+
+    def save_cache(self):
+        with Path(self.urlcachefile).open("w", encoding="UTF-8") as f:
+            f.write(json.dumps(self.urlcache, indent=2))
+
+
