@@ -14,11 +14,11 @@ import os, shutil
 import inspect
 from datetime import datetime
 import re
+from utils import loadurlmap
 
 cwd = Path.cwd()
 contentdir = cwd / "content"
 blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
-urlmapfile = blogdir / "urlmap.json"
 mediadir = Path("D:\\temp\\twitter\\tweet_media")
 
 def load_map_from_json(filename):
@@ -33,55 +33,62 @@ urlcachefile = "d:\\temp\\twitter\\urlcache.json"
 urlcache = load_map_from_json(urlcachefile)
 retweetscache = load_map_from_json("d:\\temp\\twitter\\retweets.json")
 
-urlmap = {}
-urlmapdupes = {}
-with urlmapfile.open(encoding="UTF-8") as f:
-    tempurlmap = json.loads(f.read())
-    for u in tempurlmap:
-        u1 = tempurlmap[u]
-        if "syndicated" in u1:
-            for s in u1['syndicated']:
-                if 'url' in s:
-                    su = s['url']
-                    if su in urlmap:
-                        # we expect syndicated urls to be unique, 
-                        # so if it's already in the map,
-                        # it must be a dupe
-                        # (This is really just to clean up my own mess!)
-                        if su not in urlmapdupes:
-                            urlmapdupes[su] = [u1, urlmap[su]]
+def loadurlmap(cleanupdupes=False):
+    blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
+    urlmapfile = blogdir / "urlmap.json"
+    urlmap = {}
+    urlmapdupes = {}
+    with urlmapfile.open(encoding="UTF-8") as f:
+        tempurlmap = json.loads(f.read())
+        for u in tempurlmap:
+            u1 = tempurlmap[u]
+            if "syndicated" in u1:
+                for s in u1['syndicated']:
+                    if 'url' in s:
+                        su = s['url']
+                        if su in urlmap:
+                            # we expect syndicated urls to be unique, 
+                            # so if it's already in the map,
+                            # it must be a dupe
+                            # (This is really just to clean up my own mess!)
+                            if su not in urlmapdupes:
+                                urlmapdupes[su] = [u1, urlmap[su]]
+                            else:
+                                urlmapdupes[su].append(u1)
                         else:
-                            urlmapdupes[su].append(u1)
-                    else:
-                        urlmap[su] = u1
-        urlmap[u] = u1
-        title = u1.get("title", "").strip()
-        if len(title) > 0:
-            urlmap[title] = u1
-# clean up any found dupes by syndicated url
-for su in urlmapdupes:
-    dupes = urlmapdupes[su]
-    canonical = None
-    for_deletion = []
-    for d in dupes:
-        if d["source_path"].startswith("post") or d["source_path"].startswith("links") or len(d['syndicated']) > 2:
-            if canonical is not None:
-                print("\n\r##### WTH. More than one canonical urls were detected for %s" % (su))
-                print(json.dumps(dupes, indent=4))
-            canonical = d
-        else:
-            for_deletion.append(d)
+                            urlmap[su] = u1
+            urlmap[u] = u1
+            title = u1.get("title", "").strip()
+            if len(title) > 0:
+                urlmap[title] = u1
+    if cleanupdupes:
+        # clean up any found dupes by syndicated url
+        for su in urlmapdupes:
+            dupes = urlmapdupes[su]
+            canonical = None
+            for_deletion = []
+            for d in dupes:
+                if d["source_path"].startswith("post") or d["source_path"].startswith("links") or len(d['syndicated']) > 2:
+                    if canonical is not None:
+                        print("\n\r##### WTH. More than one canonical urls were detected for %s" % (su))
+                        print(json.dumps(dupes, indent=4))
+                    canonical = d
+                else:
+                    for_deletion.append(d)
 
-    if canonical is None:
-        print("##### Dupes were detected for %s but no canonical url found!" % (su))
-        print(dupes)
-    else:
-        urlmap[su] = canonical
-        for d in for_deletion:
-            source_path = Path(d['source_path'])
-            full_path = contentdir / source_path
-            if full_path.exists():
-                os.remove(str(full_path))
+            if canonical is None:
+                print("##### Dupes were detected for %s but no canonical url found!" % (su))
+                print(dupes)
+            else:
+                urlmap[su] = canonical
+                for d in for_deletion:
+                    source_path = Path(d['source_path'])
+                    full_path = contentdir / source_path
+                    if full_path.exists():
+                        os.remove(str(full_path))
+    return urlmap
+
+urlmap = loadurlmap(False)
 
 def is_number(s):
     try:
@@ -418,6 +425,9 @@ def thread_replies():
             # if id_str != "602009895437737984" and id_str != "602009747294924802":
             #     continue
             orig_tweet_url = "https://twitter.com/%s/statuses/%s/" % (TWITTER_USERNAME, id_str)
+            # dont bother if already syndicated
+            if orig_tweet_url in urlmap:
+                continue
             date = datetime.strptime(d1['created_at'], "%a %b %d %H:%M:%S %z %Y")
             # process replies to myself
             if d1["in_reply_to_screen_name"] == TWITTER_USERNAME:
@@ -475,4 +485,4 @@ def thread_replies():
             idx = idx + 1
         print(idx)
 
-thread_replies()
+# thread_replies()
