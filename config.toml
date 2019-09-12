@@ -10,6 +10,8 @@ paginatePath = "page"
 # Enable Disqus integration
 disqusShortname = "roytangweblog"
 
+enableGitInfo = true
+
 [taxonomies]
     tag = "tags"
     topic = "categories"
