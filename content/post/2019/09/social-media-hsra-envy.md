@@ -1,12 +1,15 @@
 ---
 categories: []
 date: 2019-09-12 00:00:00
+slug: social-media-hsra-envy
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1171939378945560579/
 tags:
 - self-improvement
 - philosophy
 title: Social Media, High School Reunion Anxiety, and Envy
 type: post
-slug: social-media-hsra-envy
 ---
 
 The following article made the rounds recently: [I Quit Social Media for a Year and Nothing Magical Happened](https://joshcsimmons.com/2019/09/10/i-quit-social-media-for-a-year-and-nothing-magical-happened/). It's interesting enough not only on its own, but also for the discussion generated around any piece about qutting social media. I will admit I've been flirting with the idea myself, but that's a topic for another day. Of particular interest to me at the moment is this comment about the article on [Hacker News](https://news.ycombinator.com/item?id=20934675):
@@ -35,4 +38,4 @@ Somewhat related: Our 25th high school reunion is coming up next year, and this 
 > 
 > So 2a - your life didn't turn out the way you wanted. You know what? My life didn't turn out the way I wanted. ... I'm willing to bet nobody's life turned out exactly the way they planned. And that's OK.
 > 
-> 2b - other batchmates have done better. OK so please for your own mental and emotional health do NOT compare other people's external stuff (visible on Facebook, Instagram, etc) to your internal stuff. That's illogical and bad science. Also will drive you crazy. 
+> 2b - other batchmates have done better. OK so please for your own mental and emotional health do NOT compare other people's external stuff (visible on Facebook, Instagram, etc) to your internal stuff. That's illogical and bad science. Also will drive you crazy.
