@@ -12,4 +12,5 @@ syndicated:
 
 So glad to hear, thanks! For everyone else, get your free copy of Shape Up right here: https://basecamp.com/shapeup - no email required! 
 Quoted [wordandpictures's tweet](https://twitter.com/wordandpictures/status/1171477673790410753):
-> Going to school with "Shape Up" by [@basecamp](https://twitter.com/basecamp/) 's [@rjs](https://twitter.com/rjs/) and [@jasonfried](https://twitter.com/jasonfried/). Honestly, one of the most tactical/true to life works I've read on software product development. Super helpful for young pups like us at Threshold. 🤘
+
+> Going to school with "Shape Up" by [@basecamp](https://twitter.com/basecamp/) 's [@rjs](https://twitter.com/rjs/) and [@jasonfried](https://twitter.com/jasonfried/). Honestly, one of the most tactical/true to life works I've read on software product development. Super helpful for young pups like us at Threshold. 🤘

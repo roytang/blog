@@ -14,4 +14,5 @@ syndicated:
 
 
 Quoted [michael_nielsen's tweet](https://twitter.com/michael_nielsen/status/1074150124169773056):
-> Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )
+
+> Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )

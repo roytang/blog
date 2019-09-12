@@ -8,4 +8,5 @@ syndicated:
 
 The sad story of what it's like to work at Google today 
 Quoted [jessiedotjs's tweet](https://twitter.com/jessiedotjs/status/1162364434846822401):
-> Why did I leave Google? A thread.
+
+> Why did I leave Google? A thread.

@@ -8,4 +8,5 @@ syndicated:
 
 This is great 
 Quoted [joshuawongcf's tweet](https://twitter.com/joshuawongcf/status/1160123743701590016):
-> More than thousand HKers sing Les Miserables' 'Do you hear the people sing?' at HK international airport with their calls for free election and democracy. Here is the Ground Zero in the war against authoritarian rule. That's the reason for us never surrender.
+
+> More than thousand HKers sing Les Miserables' 'Do you hear the people sing?' at HK international airport with their calls for free election and democracy. Here is the Ground Zero in the war against authoritarian rule. That's the reason for us never surrender.

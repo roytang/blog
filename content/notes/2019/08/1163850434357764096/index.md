@@ -8,4 +8,5 @@ syndicated:
 
 Watch the video in the post. It's 17 mins, but its great 
 Quoted [kottke's tweet](https://twitter.com/kottke/status/1163845906996826120):
-> Video showing the process (and impressive end result) of making a 658-page flipbook over three months by Laika animator Andy Bailey https://kottke.org/19/08/the-return-of-grumpy-cloud
+
+> Video showing the process (and impressive end result) of making a 658-page flipbook over three months by Laika animator Andy Bailey https://kottke.org/19/08/the-return-of-grumpy-cloud
