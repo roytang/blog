@@ -3,7 +3,7 @@ TWITTER_USERNAME = 'roy_mtg'
 auto_tags = ["mtg"]
 syndicated_sources = ["IFTTT", "Tumblr", "instagram.com", "Mailchimp", "Twitter Web", "TweetDeck", "mtgstorm"]
 debug_id = None
-# debug_id = "20327212292" 
+# debug_id = "11143081155" 
 
 import frontmatter
 import json
@@ -206,17 +206,16 @@ def create_post(t):
 
     tags = []
     for tag in t.get('entites', {}).get('hashtags', []):
-        tags.append(tag['text'])
+        tags.append(tag['text'].lower())
 
     parsed_tags = re.findall(r"\s#(\w+)", " " + content)
     for tag in parsed_tags:
         if tag not in tags:
-            tags.append(tag)
-    
+            tags.append(tag.lower())
+
     for tag in auto_tags:
         if tag not in tags:
             tags.append(tag)
-
     if len(tags) > 0:
         post["tags"] = tags
 
@@ -385,7 +384,6 @@ def thread_replies():
         # process in reverse order so tweet sequences are in order
         d = reversed(d)
         for d1 in d:
-            print(d1)
             is_reply = False
             if "in_reply_to_status_id_str" in d1 and "in_reply_to_screen_name" in d1:
                 is_reply = True
@@ -455,5 +453,5 @@ def thread_replies():
             idx = idx + 1
         print(idx)
 
-thread_replies()
-# import_all()
+# thread_replies()
+import_all()
