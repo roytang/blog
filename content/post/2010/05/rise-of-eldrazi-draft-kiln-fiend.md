@@ -6,6 +6,9 @@ categories: []
 date: 2010-05-26 08:41:44
 jd_tweet_this:
 - true
+syndicated:
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/14750765001/
 tags:
 - draft
 - Limited

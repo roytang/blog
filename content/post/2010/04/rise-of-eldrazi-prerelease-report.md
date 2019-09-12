@@ -6,6 +6,9 @@ categories: []
 date: 2010-04-18 02:48:10
 jd_tweet_this:
 - true
+syndicated:
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/12375262436/
 tags:
 - Limited
 - Magic the Gathering

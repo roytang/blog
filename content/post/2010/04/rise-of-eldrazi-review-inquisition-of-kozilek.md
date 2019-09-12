@@ -6,6 +6,9 @@ categories: []
 date: 2010-04-09 17:39:10
 jd_tweet_this:
 - true
+syndicated:
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/11892357790/
 tags:
 - Magic the Gathering
 title: 'Rise of Eldrazi Review: Inquisition of Kozilek'

@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2009-12-30 11:00:38
+syndicated:
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/7193308065/
 tags:
 - Magic the Gathering
 title: 'Nix Tix Alara Draft (Swiss): 3-0 and Draft Conversion Tools'

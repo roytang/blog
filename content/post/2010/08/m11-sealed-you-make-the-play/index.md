@@ -6,6 +6,9 @@ categories: []
 date: 2010-08-04 19:23:01
 jd_tweet_this:
 - true
+syndicated:
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/20327212292/
 tags:
 - Limited
 - m11
