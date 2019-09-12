@@ -6,7 +6,7 @@ tags:
 - Magic the Gathering
 title: 'Nix Tix Alara Draft (Swiss): 3-0 and Draft Conversion Tools'
 type: post
-url: /2009/12/nix-tix-alara-draft-swiss-3-0-and-draft-conversion-tools/
+url: /2009/12/nix-tix-alara-draft-swiss-3-0/
 ---
 
 Now, this is a bit awkward. One of the side projects that's been in my backlog for a long time has been to work on an improved version of the MTGO Draft Converter at [zizibaloob][1]. I thought I would get started on that today, and in fact already had quite a bit of javascript done for the draft widget when I read a [new post by Brian David-Marshall over on top8magic][2] and found out that there was already a new draft recorder website: [RareDraft][3]. I got myself an invite and tried it out, it has many of the features I was planning and more! Ah, now I don't know whether it's worth continuing my own project. =/

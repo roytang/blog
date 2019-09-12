@@ -36,3 +36,14 @@ print(idx)
 with Path("d:\\temp\\anchors-map.json").open("w") as f:
     f.write(json.dumps(anchors_map, indent=2))
 
+def replaces_values(name, listValues, index)
+  if index = 0:
+      return name
+  if (name = '${' + index + '}'):
+    newvalue = listValues[0]
+  else
+    // slice returns the list minus the first N elemments
+    replaces_values(name, listValues.slice(1), index+1) 
+  end
+  return 'newvalue'
+end
