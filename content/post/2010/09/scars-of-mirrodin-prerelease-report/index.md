@@ -7,6 +7,8 @@ date: 2010-09-25 23:40:14
 syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/25540595136/
+- type: plurk
+  url: https://plurk.com/p/7tba8p
 tags:
 - Limited
 - tournament-report

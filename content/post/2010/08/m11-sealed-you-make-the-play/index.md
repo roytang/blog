@@ -9,6 +9,8 @@ jd_tweet_this:
 syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/20327212292/
+- type: plurk
+  url: https://plurk.com/p/6qtays  
 tags:
 - Limited
 - m11
