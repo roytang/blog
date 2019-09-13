@@ -25,7 +25,7 @@
             {{ else }}
                 <span class='linkless-commenter'>{{ $data.name }} </span>
             {{ end }}
-            on <a href="#{{ $data.id  }}">{{ $data.date }}</a></h4>
+            on <a href="{{ if $data.mention_url }}{{ $data.mention_url }}{{ else }}{{ $data.url }}{{ end }}">{{ $data.date }}</a></h4>
     {{ $data.text }}
 </div>
 {{ end }}

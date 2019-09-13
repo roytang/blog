@@ -21,23 +21,31 @@ def import_plurks():
     matched = []
     unmatched = []
     for jsfile in importdir.glob("**/*.js"):
-        #print(jsfile)
         with jsfile.open() as f:
             rawjs = f.read()
             splitidx = rawjs.find("=")
             rawjs = rawjs[splitidx+1:-1]
             plurks = json.loads(rawjs)
             for plurk in plurks:
+                # if plurk["base_id"] != "coybyg":
+                #     continue
                 d = datetime.strptime(plurk['posted'], "%a, %d %b %Y %H:%M:%S %Z")
-                monthstr = d.strftime("%Y-%m-%d")
-                info = searcher.find_by_day_and_text(monthstr, plurk['content_raw'])
+                datestr = d.strftime("%Y-%m-%d")
+                info = searcher.find_by_day_and_text(datestr, plurk['content_raw'])
+                if info is None:
+                    datestr = d.strftime("%Y-%m")
+                    info = searcher.find_by_month_and_text(datestr, plurk['content_raw'])
                 if info is not None:
                     matched.append((plurk, info))
                 else:
                     unmatched.append(plurk)
-    #print(json.dumps(unmatched, indent=2))
+    # print(json.dumps(matched, indent=2))
+    print(json.dumps(unmatched, indent=2))
     print(len(matched))
     print(len(unmatched))
     resolver.save_cache()
+
+    with Path("D:\\temp\\plurk-unmatched.json").open("w", encoding="UTF-8") as f:
+        f.write(json.dumps(unmatched, indent=2))
 
 import_plurks()

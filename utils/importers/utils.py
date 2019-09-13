@@ -109,10 +109,10 @@ class MDSearcher:
                 continue
             date = mdpost.get('date', datetime.now())
             info = {
-                "date": date,
+                "date": date.strftime("%Y-%m-%d %H:%M:%S"),
                 "text": mdpost.content,
                 "matchtext": clean_string(mdpost.content),
-                "file": mdfile
+                "file": str(mdfile)
             }
             self.filelist.append(info)
             datestr = date.strftime("%Y-%m")
@@ -132,6 +132,18 @@ class MDSearcher:
             if text.startswith(m['matchtext']):
                 return m
             if m['matchtext'].startswith(text):
+                return m
+        return None
+
+    def find_by_month_and_text(self, datestr, text):
+        if self.resolver is not None:
+            text = self.resolver.replace_urls(text)
+        text = clean_string(text)
+        matches = self.filesbymonth.get(datestr, [])
+        for m in matches:
+            if len(m['matchtext']) > 10 and text.startswith(m['matchtext']):
+                return m
+            if len(text) > 10 and m['matchtext'].startswith(text):
                 return m
         return None
 
