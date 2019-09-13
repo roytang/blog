@@ -11,11 +11,12 @@ import inspect
 from datetime import datetime
 import re
 
-from utils import loadurlmap, MDSearcher
+from utils import loadurlmap, MDSearcher, URLResolver
 urlmap = loadurlmap(False)
 
 def import_plurks():
-    searcher = MDSearcher()
+    resolver = URLResolver()
+    searcher = MDSearcher(resolver=resolver)
     importdir = Path("D:\\temp\\plurk-roytang-backup\\data\\plurks")
     matched = []
     unmatched = []
@@ -27,7 +28,6 @@ def import_plurks():
             rawjs = rawjs[splitidx+1:-1]
             plurks = json.loads(rawjs)
             for plurk in plurks:
-                #print(plurk)
                 d = datetime.strptime(plurk['posted'], "%a, %d %b %Y %H:%M:%S %Z")
                 monthstr = d.strftime("%Y-%m-%d")
                 info = searcher.find_by_day_and_text(monthstr, plurk['content_raw'])
@@ -35,9 +35,9 @@ def import_plurks():
                     matched.append((plurk, info))
                 else:
                     unmatched.append(plurk)
-    print(json.dumps(unmatched, indent=2))
+    #print(json.dumps(unmatched, indent=2))
     print(len(matched))
     print(len(unmatched))
-
+    resolver.save_cache()
 
 import_plurks()

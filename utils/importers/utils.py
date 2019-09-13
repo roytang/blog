@@ -1,6 +1,4 @@
-SOURCE_FILE = "D:\\temp\\twitter\\tweet.js"
-OUTPUT_DIR = "D:\\repos\\blog\\content\\aside\\"
-TWITTER_USERNAME = 'roytang'
+URL_CACHE_FILE = "d:\\temp\\twitter\\urlcache.json"
 
 import frontmatter
 import json
@@ -81,23 +79,28 @@ def loadurlmap(cleanupdupes=False):
 
 import string
 printable = set(string.printable)
+markdown_link = re.compile("\[([^\]]+)\]\((http[s]?://[^)]+)\)")
 def clean_string(str):
     # clean string for matching purposes
     str = html.unescape(str)
+    # remove markdown links
+    str = markdown_link.sub(r'\g<1>', str)
     str = "".join(list(filter(lambda x: x in printable, str)))
     return str[0:100]
 
 class MDSearcher:
 
-    def __init__(self, kind=None):
+    def __init__(self, kind=None, resolver=None):
         # index all the mdfiles
         cwd = Path.cwd()
         searchdir = cwd / "content"
         if kind is not None:
             searchdir = searchdir / kind
+        self.resolver = resolver
         self.filelist = []
         self.filesbymonth = {}
         self.filesbyday = {}
+        print("## MDSearcher: Building search index")
         for mdfile in searchdir.glob("**/*.md"):
             try:
                 mdpost = frontmatter.load(mdfile)
@@ -118,8 +121,11 @@ class MDSearcher:
             datestr = date.strftime("%Y-%m-%d")
             self.filesbyday[datestr] = self.filesbyday.get(datestr, [])
             self.filesbyday[datestr].append(info)
+        print("## MDSearcher: Done building search index")
 
     def find_by_day_and_text(self, datestr, text):
+        if self.resolver is not None:
+            text = self.resolver.replace_urls(text)
         text = clean_string(text)
         daymatches = self.filesbyday.get(datestr, [])
         for m in daymatches:
@@ -132,8 +138,15 @@ class MDSearcher:
 class URLResolver:
 
     def __init__(self):
-        self.urlcachefile = "d:\\temp\\twitter\\urlcache.json"
-        self.urlcache = load_map_from_json(self.urlcachefile)
+        self.urlcache = load_map_from_json(URL_CACHE_FILE)
+
+    def replace_urls(self, str):
+        raw_urls = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', str)
+        for raw_url in raw_urls:
+            final_url, no_errors = self.get_final_url(raw_url)
+            if no_errors and raw_url != final_url:
+                str = str.replace(raw_url, final_url)
+        return str
 
     def get_final_url(self, url, usecache=True):
         if usecache and url in self.urlcache:
@@ -141,7 +154,7 @@ class URLResolver:
                 # rewrite the cache so we don't use this imgur 404:
                 self.urlcache[url] = url
                 return url, True
-            print(self.urlcache[url])
+            # print(self.urlcache[url])
             return self.urlcache[url], True
 
         try:
@@ -162,7 +175,9 @@ class URLResolver:
             return url, False
 
     def save_cache(self):
-        with Path(self.urlcachefile).open("w", encoding="UTF-8") as f:
+        with Path(URL_CACHE_FILE).open("w", encoding="UTF-8") as f:
             f.write(json.dumps(self.urlcache, indent=2))
 
 
+# print(clean_string("[@NoGunsNoKilling](https://twitter.com/NoGunsNoKilling/) what is that Batman figure on the left, looks neat"))
+#MDSearcher()
