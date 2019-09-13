@@ -83,6 +83,8 @@ markdown_link = re.compile("\[([^\]]+)\]\((http[s]?://[^)]+)\)")
 def clean_string(str):
     # clean string for matching purposes
     str = html.unescape(str)
+    # remove hashes for some silly plurk reason
+    str = str.replace("#", "")
     # remove markdown links
     str = markdown_link.sub(r'\g<1>', str)
     str = "".join(list(filter(lambda x: x in printable, str)))
@@ -190,6 +192,29 @@ class URLResolver:
         with Path(URL_CACHE_FILE).open("w", encoding="UTF-8") as f:
             f.write(json.dumps(self.urlcache, indent=2))
 
+def add_syndication(mdfile, url, stype):
+    with mdfile.open(encoding="UTF-8") as f:
+        try:
+            post = frontmatter.load(f)
+        except:
+            print("Error parsing file")
+            return
+
+        if post.get('syndicated') == None:
+            post['syndicated'] = []
+        else:
+            for s in post['syndicated']:
+                if s["type"] == stype and s["url"] == url:
+                    # dont add a duplicate!
+                    return
+
+        post['syndicated'].append({
+            'type': stype,
+            'url': url
+        })
+        newfile = frontmatter.dumps(post)
+        with mdfile.open("w", encoding="UTF-8") as w:
+            w.write(newfile)
 
 # print(clean_string("[@NoGunsNoKilling](https://twitter.com/NoGunsNoKilling/) what is that Batman figure on the left, looks neat"))
 #MDSearcher()

@@ -11,7 +11,7 @@ import inspect
 from datetime import datetime
 import re
 
-from utils import loadurlmap, MDSearcher, URLResolver
+from utils import loadurlmap, MDSearcher, URLResolver, add_syndication
 urlmap = loadurlmap(False)
 
 def import_plurks():
@@ -29,6 +29,11 @@ def import_plurks():
             for plurk in plurks:
                 # if plurk["base_id"] != "coybyg":
                 #     continue
+                plurk_url = "https://plurk.com/p/%s" % plurk["base_id"]
+                if plurk_url in urlmap:
+                    # no need to do anything, already syndicated
+                    continue
+                plurk["plurk_url"] = plurk_url
                 d = datetime.strptime(plurk['posted'], "%a, %d %b %Y %H:%M:%S %Z")
                 datestr = d.strftime("%Y-%m-%d")
                 info = searcher.find_by_day_and_text(datestr, plurk['content_raw'])
@@ -40,6 +45,10 @@ def import_plurks():
                 else:
                     unmatched.append(plurk)
     # print(json.dumps(matched, indent=2))
+    for match in matched:
+        plurk = match[0]
+        info = match[1]
+        add_syndication(Path(info["file"]), plurk["plurk_url"], "plurk")
     print(json.dumps(unmatched, indent=2))
     print(len(matched))
     print(len(unmatched))

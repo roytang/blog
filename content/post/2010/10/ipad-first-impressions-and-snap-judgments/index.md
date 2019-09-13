@@ -12,6 +12,8 @@ url: /2010/10/ipad-first-impressions-and-snap-judgments/
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/28571035582/
+- type: plurk
+  url: https://plurk.com/p/8frcw6
 ---
 
 So, through a complicated series of circumstances where I initiated the process but actually managed to get myself surprised, I now own an iPad Wifi+3g 64GB (yes, it's the most expensive model, don't worry it did not break the piggy bank). It was purchased from Singapore and brought to me by a friend last Friday. I've used an iPad before (during the CCS trip Baguio), but this is the first time I've had the chance to customize the applications and content, and have it exclusive for my own use. I've had it for about a day and half, here are my snap judgments and quick impressions:
