@@ -437,3 +437,18 @@ div.two-column {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+::placeholder {
+    color: white;
+}
+
+form input, form textarea, form button {
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-bottom: 1px solid var(--third-color);
+}
+
+@media screen and (max-height: 575px){
+    #rc-imageselect, .g-recaptcha {transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;}
+}
