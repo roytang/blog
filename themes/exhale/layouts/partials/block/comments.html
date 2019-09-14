@@ -33,7 +33,7 @@
                 <span class='linkless-commenter'>{{ $data.name }} </span>
             {{ end }}
             on <a href="{{ if $data.mention_url }}{{ $data.mention_url }}{{ else }}{{ $data.url }}{{ end }}">{{ $data.date }}</a></h4>
-    {{ $data.text }}
+    {{ $data.text | markdownify }}
 </div>
 {{ end }}
 {{ end }}
