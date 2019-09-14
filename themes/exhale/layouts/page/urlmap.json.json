@@ -16,7 +16,19 @@
             {}
         ],
         {{ end }}
-        {{ if .Params.link }}
+        {{ with .Resources.Match "comment-*.json" }}
+        "comments": [
+            {{ range . }}
+            {
+                {{ $data := . | transform.Unmarshal }}
+                "url": {{ if $data.mention_url }}{{ $data.mention_url |jsonify }}{{ else }}{{ $data.url |jsonify }}{{ end }},
+                "source_file": {{ .Name |jsonify }}
+            },
+            {{ end }}
+            {}
+        ],
+        {{ end }}
+                {{ if .Params.link }}
         "link": {{ .Params.link.url |jsonify }},
         {{ end }}
         "title": {{ .Title | jsonify }}

@@ -59,15 +59,16 @@ with urllib.request.urlopen(endpoint) as url:
             newdir = parentmd.parent
 
         id = "webmention-%s" % (link["wm-id"])
+        datestr = date.strftime('%Y%m%dT%H%M%S')
         wtype = link['wm-property']
         if wtype == 'like-of':
-            newfile = newdir / ( "like-%s.json" % (id) )
+            newfile = newdir / ( "like-%s-%s.json" % (datestr, id) )
         elif wtype == 'repost-of':
-            newfile = newdir / ( "repost-%s.json" % (id) )
+            newfile = newdir / ( "repost-%s-%s.json" % (datestr, id) )
         elif wtype == 'mention-of':
-            newfile = newdir / ( "mention-%s.json" % (id) )
+            newfile = newdir / ( "mention-%s-%s.json" % (datestr, id) )
         else:
-            newfile = newdir / ( "comment-%s.json" % (id) )
+            newfile = newdir / ( "comment-%s-%s.json" % (datestr, id) )
 
         comment = {
             "id": id,

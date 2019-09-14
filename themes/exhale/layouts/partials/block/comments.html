@@ -23,7 +23,7 @@
 
 {{ with .Resources.Match "comment-*.json" }}
 <div id="comments" class="comments-title"><h3>Comments</h3></div>
-{{ range . }}
+{{ range sort . "Name" "asc" }}
 {{ $data := . | transform.Unmarshal }}
 <div class="comment">
     <h4>Comment by 
