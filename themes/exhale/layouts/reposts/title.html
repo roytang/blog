@@ -1,7 +1,3 @@
 <div class="title">
-        <p><i class="fas fa-retweet"></i> <a href="/reposts/">Repost</a> from <a class="u-repost-of" href="{{ .Params.repost_source.url }}">{{ .Params.repost_source.name }}</a>:</p>
-        {{ if .Title }}
-                <a class="u-url post-title" href="{{ .Permalink }}"><h3 class="p-name">{{ .Title }}</h2></a>
-                <hr />
-        {{ end }}
+    <i class="fas fa-retweet"></i> <a href="/reposts/">Repost</a> from <a class="u-repost-of" href="{{ .Params.repost_source.url }}">{{ .Params.repost_source.name }}</a>:
 </div>

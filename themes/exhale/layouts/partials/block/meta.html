@@ -1,35 +1,27 @@
-    <div class="meta">
-        <div class="meta1">
-        <p class="meta_item"><time class="dt-published" datetime="{{ .Date.Format "2006-01-02 15:04:05" }}">{{ .Date.Format .Site.Data.Formats.date }}</time></p>
-        
-        {{ if eq .Section "post" }}
-        <p class="meta_item">:: {{ .WordCount }} words</p>
-        {{ end }}
+<div class="meta">
+    <small>Posted by <a rel="author" class="p-author h-card" href="…">{{ .Site.Author.name }}</a> at 
+    <a href="{{ .RelPermalink }}"><time class="dt-published" datetime="{{ .Date.Format .Site.Data.Formats.timestamp }}">{{ .Date.Format .Site.Data.Formats.datetime }}</time></a>
+    </small>
+    
+    <p>
+    {{ range .Params.tags }}
+    <a class="tag p-category" href="{{ "/tags/" | absURL }}{{ . | urlize }}"><i class="fas fa-tag"></i>&nbsp;{{ .  | urlize }}</a>
+    {{ end }}
+    </p>
 
-        {{ if and .Params.source .Params.source_url }}
-        <p class="meta_item">:: via <a target="_new" href="{{ .Params.source_url }}">{{ .Params.source }}</a></p>
-        {{ end }}
-        </div>
+    
+    <p>
+    {{ range .Params.syndicated }}
+    <a rel="syndication" title="View on {{ .type }}" class='
+    {{ if eq (lower .type) "facebook"}}fab fa-facebook-square
+    {{ else if eq (lower .type) "twitter"}}fab fa-twitter-square
+    {{ else if eq (lower .type) "tumblr"}}fab fa-tumblr-square
+    {{ else if eq (lower .type) "instagram"}}fab fa-instagram
+    {{ else if eq (lower .type) "quora"}}fab fa-quora
+    {{ else if eq (lower .type) "goodreads"}}fab fa-goodreads
+    {{ else }}fa fa-external-link-alt{{ end }}
+    u-syndication' href="{{ .url }}" title="View on {{ .type }}"></a>
+    {{ end }}
+    </p>
 
-        <p>
-        {{ range .Params.tags }}
-        <a class="tag p-category" href="{{ "/tags/" | absURL }}{{ . | urlize }}"><i class="fas fa-tag"></i>&nbsp;{{ .  | urlize }}</a>
-        {{ end }}
-        </p>
-
-        
-        <p>
-        {{ range .Params.syndicated }}
-        <a rel="syndication" title="View on {{ .type }}" class='
-        {{ if eq (lower .type) "facebook"}}fab fa-facebook-square
-        {{ else if eq (lower .type) "twitter"}}fab fa-twitter-square
-        {{ else if eq (lower .type) "tumblr"}}fab fa-tumblr-square
-        {{ else if eq (lower .type) "instagram"}}fab fa-instagram
-        {{ else if eq (lower .type) "quora"}}fab fa-quora
-        {{ else if eq (lower .type) "goodreads"}}fab fa-goodreads
-        {{ else }}fa fa-external-link-alt{{ end }}
-        u-syndication' href="{{ .url }}" title="View on {{ .type }}"></a>
-        {{ end }}
-        </p>
-
-    </div>
+</div>

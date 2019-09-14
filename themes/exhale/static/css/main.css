@@ -1,5 +1,5 @@
 :root {
-    --main-color: {{ .Site.Params.mainColor | default "orange" }};
+    --main-color: #57cc8a;
     --second-color: coral;
     --third-color: rgb(32, 192, 192);
     --container-color: #353b43;
@@ -293,62 +293,7 @@ article .e-content, article .comments {
 
 code {
     font-size: 0.9rem;
-    color: orange;
-}
-
-@media (min-width: 550px) {
-    .list_item {
-        display: grid;
-        grid-template-columns: [c-left-start] 1fr [c-main-start] 3.5fr [c-main-end];
-        grid-template-rows: [r-title-start] auto [r-main-start] auto [r-comments-start] auto [r-main-end];
-        border-bottom: 1px var(--main-color) dotted;
-        width: 100%;
-    }
-
-    .list_item .title {
-        grid-column: c-main-start / c-main-end;
-        grid-row: r-title-start / r-main-start;
-        padding-left: 0.5rem;
-    }
-
-    .list_item .content {
-        grid-column: c-main-start / c-main-end;
-        grid-row: r-main-start / r-comments-start;
-    }
-
-    .list_item .meta {
-        grid-column: c-left-start / c-main-start;
-        grid-row: r-title-start / r-main-end;
-        font-size: 0.7rem;
-        color: var(--third-color);
-        text-align: right;
-        padding-top: 1rem;
-        padding-right: 1rem;
-        display: block;
-    }
-
-    .comments-title {
-        padding-right: 1rem;
-        font-size: 0.7rem;
-        color: gray;
-        text-align: right;
-    }
-
-    .list_item .comments {
-        grid-column: c-main-start / c-main-end;
-    }
-    
-    .list_item .meta time {
-        font-size: 0.9rem;
-    }
-
-    .list_item .tag, .list_item .meta_item {
-        display: block;
-    }
-    
-    .list_item .navigation {
-        grid-column: c-left-start / c-main-end;
-    }
+    color: var(--second-color);
 }
 
 .about-author img.u-photo {

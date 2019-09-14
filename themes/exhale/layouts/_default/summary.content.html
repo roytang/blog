@@ -1,9 +1,3 @@
 <div class="content">
-{{ with .Params.featuredImage }}
-    <img class="summary-image-preview" src="{{ . }}" />
-{{ end }}
-{{ .Summary }}
-{{ if .Truncated }}
-<p><a href="{{ .Permalink }}">read more</a></p>
-{{ end }}
+{{ .Content }}
 </div>

@@ -3,6 +3,7 @@ import urllib.request
 import xmltodict
 from importers.pocket import create_post
 from datetime import datetime
+import html
 
 remote_url = "https://getpocket.com/users/hungryroy/feed/all"
 
@@ -17,7 +18,8 @@ def import_feed():
 
     items = xmltodict.parse(mystr)['rss']['channel']['item']
     for a in items:
-        link_text = a['title']
+        # print(html.unescape(a['title']))
+        link_text = html.unescape(a['title'])
         link_url = a['link']
         d = datetime.strptime(a['pubDate'], "%a, %d %b %Y %H:%M:%S %z")
 
