@@ -245,6 +245,7 @@ class PostBuilder():
         self.date = datetime.now() # reasonable default
         self.source = source
         self.media = []
+        self.tags = []
 
     def add_syndication(self, stype, url):
         if self.post.get('syndicated') is None:
@@ -281,6 +282,7 @@ class PostBuilder():
             self.post[param] = self.params[param]
         self.post["date"] = self.date
         self.post["source"] = self.source
+        self.post["tags"] = self.tags
         outdir = contentdir / self.kind / self.date.strftime("%Y") / self.date.strftime("%m") / self.id
         if not outdir.exists():
             outdir.mkdir(parents=True)
@@ -299,3 +301,8 @@ class PostBuilder():
             urllib.request.install_opener(opener)
             urllib.request.urlretrieve(m, str(download_to))
 
+def add_to_listmap(map, key, value):
+    if key in map:
+        map[key].append(value)
+    else:
+        map[key] = [value]
