@@ -11,7 +11,7 @@ import inspect
 from datetime import datetime
 import re
 
-from utils import loadurlmap, MDSearcher, URLResolver, add_syndication
+from utils import loadurlmap, MDSearcher, URLResolver, add_syndication, get_content, PostBuilder
 urlmap = loadurlmap(False)
 
 def import_plurks():
@@ -43,18 +43,22 @@ def import_plurks():
                 if info is not None:
                     matched.append((plurk, info))
                 else:
-                    unmatched.append(plurk)
+                    post = PostBuilder(plurk["base_id"], source="plurk", content=plurk["content_raw"])
+                    post.date = d
+                    post.add_syndication("plurk", plurk_url)
+                    post.resolve_links(resolver)
+                    post.save()
     # print(json.dumps(matched, indent=2))
     for match in matched:
         plurk = match[0]
         info = match[1]
         add_syndication(Path(info["file"]), plurk["plurk_url"], "plurk")
-    print(json.dumps(unmatched, indent=2))
-    print(len(matched))
-    print(len(unmatched))
+    # print(json.dumps(unmatched, indent=2))
+    # print(len(matched))
+    # print(len(unmatched))
     resolver.save_cache()
 
-    with Path("D:\\temp\\plurk-unmatched.json").open("w", encoding="UTF-8") as f:
-        f.write(json.dumps(unmatched, indent=2))
+    # with Path("D:\\temp\\plurk-unmatched.json").open("w", encoding="UTF-8") as f:
+    #     f.write(json.dumps(unmatched, indent=2))
 
 import_plurks()

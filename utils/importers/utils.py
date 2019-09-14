@@ -14,6 +14,9 @@ from datetime import datetime
 import re
 import html
 
+cwd = Path(os.environ['HUGO_BLOG_SRCDIR'])
+contentdir = cwd / "content"
+
 def load_map_from_json(filename):
     cachefile = Path(filename)
     cache = {}
@@ -218,3 +221,81 @@ def add_syndication(mdfile, url, stype):
 
 # print(clean_string("[@NoGunsNoKilling](https://twitter.com/NoGunsNoKilling/) what is that Batman figure on the left, looks neat"))
 #MDSearcher()
+
+def get_content(content, resolver):
+    raw_urls = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', content)
+    for raw_url in raw_urls:
+        expanded_url, no_errors = resolver.get_final_url(raw_url)
+        if expanded_url.find("www.youtube.com") >= 0:
+            # convert youtube links to embeds
+            link_url = urlparse(expanded_url)
+            qps = parse_qs(link_url.query)
+            content = content.replace(raw_url, "{{< youtube %s >}}" % (qps["v"][0]))
+        content = content.replace(raw_url, expanded_url)
+
+    return content
+
+class PostBuilder():
+
+    def __init__(self, id, content="", source=""):
+        self.params = {}
+        self.id = id # id is also the slug
+        self.post = frontmatter.Post(content)
+        self.kind = "notes" # reasonable default
+        self.date = datetime.now() # reasonable default
+        self.source = source
+        self.media = []
+
+    def add_syndication(self, stype, url):
+        if self.post.get('syndicated') is None:
+            self.post['syndicated'] = []
+        self.post['syndicated'].append({
+            "type": stype,
+            "url": url
+        })
+
+    # follow link shorteners
+    # extract embeds via:
+    # - youtube
+    # - imgur
+    def resolve_links(self, resolver):
+        content = self.post.content
+        raw_urls = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', content)
+        for raw_url in raw_urls:
+            expanded_url, no_errors = resolver.get_final_url(raw_url)
+            if expanded_url.find("www.youtube.com") >= 0:
+                # convert youtube links to embeds
+                link_url = urlparse(expanded_url)
+                qps = parse_qs(link_url.query)
+                content = content.replace(raw_url, "{{< youtube %s >}}" % (qps["v"][0]))
+            elif expanded_url.find("imgur.com") >= 0 or expanded_url.endswith(".jpg"):
+                self.media.append(expanded_url)
+                content = content.replace(raw_url, "")
+            else:
+                content = content.replace(raw_url, expanded_url)
+
+        self.post.content = content
+
+    def save(self):
+        for param in self.params:
+            self.post[param] = self.params[param]
+        self.post["date"] = self.date
+        self.post["source"] = self.source
+        outdir = contentdir / self.kind / self.date.strftime("%Y") / self.date.strftime("%m") / self.id
+        if not outdir.exists():
+            outdir.mkdir(parents=True)
+
+        outfile = outdir / ( "index.md" )
+        newfile = frontmatter.dumps(self.post)
+        with outfile.open("w", encoding="UTF-8") as w:
+            w.write(newfile)
+        # copy over any media from the reply as well
+        for m in self.media:
+            filename = m[m.rfind("/")+1:]
+            download_to = outdir / filename
+            print("Downloading %s" % (m))
+            opener = urllib.request.build_opener()
+            opener.addheaders = [('User-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36')]
+            urllib.request.install_opener(opener)
+            urllib.request.urlretrieve(m, str(download_to))
+
