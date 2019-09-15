@@ -89,6 +89,7 @@ fm = frontmatter.Post("\n\r".join(content))
 fm['title'] = 'Markov Chain Demo'
 fm['date'] = datetime.now()
 fm['url'] = '/demos/markov'
+fm['hidden'] = True
 
 # create the year folder if it doesnt exist
 
