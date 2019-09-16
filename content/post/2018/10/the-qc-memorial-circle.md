@@ -14,7 +14,7 @@ type: post
 url: /2018/10/the-qc-memorial-circle/
 ---
 
-{{< instagram Bo_SUmNAGhV >}}
+{{< photo "2018/10/bo_sumnaghv/" >}}
 
 I took a quick walk around the QC memorial circle the other day. There was some kind of event going on in the main plaza for the Department of Agriculture; Secretary Pinol was there giving a speech. I walked a couple of rounds around the park so I could meet my daily steps target. The sun was coming down and I'm not the best photographer but I thought it looked good on the Quezon Memorial Shrine so I took the above shot.
 

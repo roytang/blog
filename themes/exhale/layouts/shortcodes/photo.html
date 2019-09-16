@@ -1,0 +1,15 @@
+{{ $path := printf "/photos/%s" (.Get 0) }}
+{{ range where (where .Site.RegularPages "Section" "photos" ) ".RelPermalink" "==" $path }}
+    {{ $mainPermalink := .RelPermalink }}
+    {{ $summary := .Summary }}
+    {{ range .Resources.ByType "image" }}
+        <a href="{{ $mainPermalink }}">
+            <figure>
+            <img src="{{ .RelPermalink }}" alt="{{ $summary }}" title="{{ $summary }}" />
+            <figcaption>
+            {{ $summary }}
+            </figcaption>
+            </figure>
+        </a>
+    {{ end }}
+{{ end }}
