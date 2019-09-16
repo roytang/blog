@@ -22,17 +22,19 @@
 {{ end }}
 
 {{ with .Resources.Match "comment-*.json" }}
-<div id="comments" class="comments-title"><h3>Comments</h3></div>
+<div id="header-comments" class="comments-title"><h3>Comments</h3></div>
 {{ range sort . "Name" "asc" }}
 {{ $data := . | transform.Unmarshal }}
 <div class="comment">
-    <h4>Comment by 
-            {{ if $data.url }}
-                <a href="{{ $data.url }}">{{ $data.name }}</a>
-            {{ else }}
-                <span class='linkless-commenter'>{{ $data.name }} </span>
-            {{ end }}
-            on <a href="{{ if $data.mention_url }}{{ $data.mention_url }}{{ else }}{{ $data.url }}{{ end }}">{{ $data.date }}</a></h4>
+    {{ with $data.photo }}
+    <img class="commenter-photo" src="{{ . }}" />
+    {{ end }}
+        {{ if $data.url }}
+            <a href="{{ $data.url }}">{{ $data.name }}</a>
+        {{ else }}
+            <span class='linkless-commenter'>{{ $data.name }} </span>
+        {{ end }}
+        on <a href="{{ if $data.mention_url }}{{ $data.mention_url }}{{ else }}{{ $data.url }}{{ end }}">{{ $data.date }}</a>:
     {{ $data.text | markdownify }}
 </div>
 {{ end }}

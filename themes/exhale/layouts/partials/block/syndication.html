@@ -1,0 +1,15 @@
+
+{{ with .Params.syndicated }}
+/ Syndicated: 
+{{ range . }}
+<a rel="syndication" title="View on {{ .type }}" class='
+{{ if eq (lower .type) "facebook"}}fab fa-facebook-square
+{{ else if eq (lower .type) "twitter"}}fab fa-twitter-square
+{{ else if eq (lower .type) "tumblr"}}fab fa-tumblr-square
+{{ else if eq (lower .type) "instagram"}}fab fa-instagram
+{{ else if eq (lower .type) "quora"}}fab fa-quora
+{{ else if eq (lower .type) "goodreads"}}fab fa-goodreads
+{{ else }}fa fa-external-link-alt{{ end }}
+u-syndication' href="{{ .url }}" title="View on {{ .type }}"></a>
+{{ end }}
+{{ end }}

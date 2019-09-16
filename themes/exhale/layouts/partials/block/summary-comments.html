@@ -1,0 +1,9 @@
+{{ if eq "Y" (.Scratch.Get "list_item") }}
+/
+    {{ $likes := len (.Resources.Match "like-*.json") }}
+    {{ if gt $likes 0 }}
+    <a href="{{.RelPermalink}}#likes"><i class="far fa-heart"></i> {{ $likes }}</a>
+    {{ end }}
+    {{ $comments := len (.Resources.Match "comment-*.json") }}
+    <a href="{{.RelPermalink}}#header-comments"><i class="fas fa-comments"></i> {{ $comments }}</a>
+{{ end }}

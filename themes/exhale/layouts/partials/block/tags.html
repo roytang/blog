@@ -1,0 +1,6 @@
+{{ with .Params.tags }}
+/
+{{ range . }}
+<a class="tag p-category" href="{{ "/tags/" | absURL }}{{ . | urlize }}"><i class="fas fa-tag"></i>&nbsp;{{ .  | urlize }}</a>
+{{ end }}
+{{ end }}

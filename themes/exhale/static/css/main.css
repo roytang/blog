@@ -269,9 +269,6 @@ article .e-content, article .comments {
     padding-right: 0;
     padding-left: 0;
     padding-bottom: 0.5rem;
-    display: grid;
-    grid-template-columns: repeat(auto, 1fr);
-    grid-auto-rows: auto;
 }
 
 .comments-title {
@@ -451,4 +448,17 @@ form input, form textarea, form button {
 
 @media screen and (max-height: 575px){
     #rc-imageselect, .g-recaptcha {transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;}
+}
+
+.commenter-photo {
+    display: inline;
+    width: 1rem;
+    margin: 0;
+    padding: 0;
+    border-radius: 25%;
+    box-shadow: none;
+}
+
+.comment * {
+    vertical-align: top;
 }
