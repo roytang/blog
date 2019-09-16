@@ -6,3 +6,5 @@ syndicated:
   url: https://plurk.com/p/9wk9ys
 tags: []
 ---
+
+Source: http://www.goodgamery.com/articles/goblinspiritbomb.jpg
