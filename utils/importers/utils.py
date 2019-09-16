@@ -93,6 +93,8 @@ def clean_string(str):
     str = "".join(list(filter(lambda x: x in printable, str)))
     return str[0:100]
 
+
+excluded_kinds = ["archm", "archy"]
 class MDSearcher:
 
     def __init__(self, kind=None, resolver=None):
@@ -107,6 +109,13 @@ class MDSearcher:
         self.filesbyday = {}
         print("## MDSearcher: Building search index")
         for mdfile in searchdir.glob("**/*.md"):
+            excluded = False
+            for k in excluded_kinds:
+                if str(mdfile).find("\\%s\\" % k) >= 0:
+                    excluded = True
+                    break
+            if excluded:
+                continue
             try:
                 mdpost = frontmatter.load(mdfile)
             except:

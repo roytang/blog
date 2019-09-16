@@ -27,7 +27,7 @@ def import_plurks():
             rawjs = rawjs[splitidx+1:-1]
             plurks = json.loads(rawjs)
             for plurk in plurks:
-                # if plurk["base_id"] != "coybyg":
+                # if plurk["base_id"] != "9ah6mc":
                 #     continue
                 plurk_url = "https://plurk.com/p/%s" % plurk["base_id"]
                 if plurk_url in urlmap:
@@ -54,11 +54,31 @@ def import_plurks():
         info = match[1]
         add_syndication(Path(info["file"]), plurk["plurk_url"], "plurk")
     # print(json.dumps(unmatched, indent=2))
-    # print(len(matched))
-    # print(len(unmatched))
+    print(len(matched))
+    print(len(unmatched))
     resolver.save_cache()
 
     # with Path("D:\\temp\\plurk-unmatched.json").open("w", encoding="UTF-8") as f:
     #     f.write(json.dumps(unmatched, indent=2))
+
+def import_plurk_comments():
+    importdir = Path("D:\\temp\\plurk-roytang-backup\\data\\responses")
+    matched = []
+    unmatched = []
+    for jsfile in importdir.glob("**/*.js"):
+        parent_id = jsfile.stem
+        print(parent_id)
+        parent_url = "https://plurk.com/p/%s" % (parent_id)
+        if parent_url in urlmap:
+            with jsfile.open() as f:
+                rawjs = f.read()
+                splitidx = rawjs.find("=")
+                rawjs = rawjs[splitidx+1:-1]
+                reacts = json.loads(rawjs)
+                for react in reacts:
+                    #print(react)
+                    pass
+        else:
+            print("### ERROR: Missing parent file for %s" % str(jsfile))
 
 import_plurks()
