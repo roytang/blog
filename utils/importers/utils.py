@@ -280,7 +280,8 @@ class PostBuilder():
                 content = content.replace(raw_url, "{{< youtube %s >}}" % (qps["v"][0]))
             elif expanded_url.find("imgur.com") >= 0 or expanded_url.endswith(".jpg"):
                 self.media.append(expanded_url)
-                content = content.replace(raw_url, "")
+                # leave the image url for context
+                #content = content.replace(raw_url, "")
             else:
                 content = content.replace(raw_url, expanded_url)
 
@@ -316,7 +317,10 @@ class PostBuilder():
 class CommentBuilder():
 
     def __init__(self, source_path):
+        if type(source_path).__name__ == "str":
+            source_path = Path(source_path)
         self.source_path = source_path
+
 
     def add_comment(self, id, date, author, source, content, url=None, overwrite=False):
         datestr = date.strftime('%Y%m%dT%H%M%S')
@@ -333,6 +337,7 @@ class CommentBuilder():
             "date": date.strftime("%Y-%m-%d %H:%M:%S"),
             "photo": author.get('photo', ''),
             "source_url": url,
+            "mention_url": url,
             "source": source
         }
 

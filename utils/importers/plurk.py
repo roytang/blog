@@ -11,7 +11,8 @@ import inspect
 from datetime import datetime
 import re
 
-from utils import loadurlmap, MDSearcher, URLResolver, add_syndication, get_content, PostBuilder
+from utils import loadurlmap, add_syndication, get_content, add_to_listmap, contentdir
+from utils import MDSearcher, URLResolver, PostBuilder, CommentBuilder
 urlmap = loadurlmap(False)
 
 def import_plurks():
@@ -63,22 +64,35 @@ def import_plurks():
 
 def import_plurk_comments():
     importdir = Path("D:\\temp\\plurk-roytang-backup\\data\\responses")
-    matched = []
-    unmatched = []
     for jsfile in importdir.glob("**/*.js"):
         parent_id = jsfile.stem
-        print(parent_id)
+        # if parent_id != "9wk9ys":
+        #     continue
         parent_url = "https://plurk.com/p/%s" % (parent_id)
         if parent_url in urlmap:
+            parent_info = urlmap[parent_url]
             with jsfile.open() as f:
                 rawjs = f.read()
                 splitidx = rawjs.find("=")
                 rawjs = rawjs[splitidx+1:-1]
                 reacts = json.loads(rawjs)
                 for react in reacts:
-                    #print(react)
-                    pass
+                    cb = CommentBuilder(contentdir / parent_info['source_path'])
+                    date = datetime.strptime(react['posted'], "%a, %d %b %Y %H:%M:%S %Z")
+                    author_name = react['user'].get('display_name')
+                    if author_name is None:
+                        author_name = react['user'].get('nick_name')
+                    author = {
+                        "name": author_name,
+                        "url": "https://plurk.com/%s" % (react['user']['nick_name']),
+                        "photo": "https://avatars.plurk.com/%s-small%s.gif" % (react['user']['id'], react['user']['avatar']),
+                    }
+                    cb.add_comment(react['id'], date, author, "plurk", react['content_raw'], url=parent_url , overwrite=True)
+
+
         else:
             print("### ERROR: Missing parent file for %s" % str(jsfile))
 
-import_plurks()
+#import_plurks()
+
+import_plurk_comments()
