@@ -27,7 +27,9 @@
 {{ $data := . | transform.Unmarshal }}
 <div class="comment">
     {{ with $data.photo }}
-    <img class="commenter-photo" src="{{ . }}" />
+    <a href="{{ $data.url }}">
+        <img class="commenter-photo" src="{{ . }}" alt="{{ $data.name }}" />
+    </a>
     {{ end }}
         {{ if $data.url }}
             <a href="{{ $data.url }}">{{ $data.name }}</a>
