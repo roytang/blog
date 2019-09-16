@@ -5,7 +5,7 @@ import re
 import xmltodict
 
 from utils import loadurlmap, add_syndication, get_content, add_to_listmap
-from utils import MDSearcher, URLResolver, PostBuilder
+from utils import MDSearcher, URLResolver, PostBuilder, CommentBuilder
 urlmap = loadurlmap(False)
 
 def import_wp():
@@ -22,7 +22,7 @@ def import_wp():
                 parent = item["wp:post_parent"]
                 add_to_listmap(attachments_map, parent, item)
             elif post_type == "post" and item["wp:status"] == "publish":
-                print(item["title"])
+                #print(item["title"])
                 post_count = post_count + 1
                 content = item["content:encoded"]
                 content = content.replace("http://ireadcomicbooks.com/wp-content/uploads", "/uploads")
@@ -35,7 +35,16 @@ def import_wp():
                 # post.add_syndication("plurk", plurk_url)
                 # post.resolve_links(resolver)
                 post.save()
-
+                if "wp:comment" in item:
+                    print(item["title"])
+                    comment_xml = item["wp:comment"]
+                    cb = CommentBuilder(post.get_source_path())
+                    date = datetime.strptime(comment_xml['wp:comment_date_gmt'], "%Y-%m-%d %H:%M:%S")
+                    author = {
+                        "name": comment_xml.get('wp:comment_author'),
+                        "url": comment_xml.get('wp:comment_author_url'),
+                    }
+                    cb.add_comment(comment_xml['wp:comment_id'], date, author, "wordpress", comment_xml['wp:comment_content'], overwrite=True)
     print(post_count)
 
 import_wp()

@@ -301,6 +301,36 @@ class PostBuilder():
             urllib.request.install_opener(opener)
             urllib.request.urlretrieve(m, str(download_to))
 
+    def get_source_path(self):
+        return contentdir / self.kind / self.date.strftime("%Y") / self.date.strftime("%m") / self.id / "index.md"
+
+class CommentBuilder():
+
+    def __init__(self, source_path):
+        self.source_path = source_path
+
+    def add_comment(self, id, date, author, source, content, url=None, overwrite=False):
+        datestr = date.strftime('%Y%m%dT%H%M%S')
+        newfile = self.source_path.parent / ( "comment-%s-%s.json" % (datestr, id) )
+
+        if newfile.exists() and not overwrite:
+            return
+
+        comment = {
+            "id": id,
+            "name": author['name'],
+            "url": author.get('url', ''),
+            "text": content, 
+            "date": date.strftime("%Y-%m-%d %H:%M:%S"),
+            "photo": author.get('photo', ''),
+            "source_url": url,
+            "source": source
+        }
+
+        # save the comment into newdir
+        with Path(newfile).open("w", encoding="UTF-8") as f:
+            f.write(json.dumps(comment))
+
 def add_to_listmap(map, key, value):
     if key in map:
         map[key].append(value)
