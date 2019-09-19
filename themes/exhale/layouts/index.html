@@ -6,9 +6,12 @@
     <a class="u-url" href="/"></a>
     <h1 class="p-name">Recent activity</h1>
 {{ $paginator := .Paginate .Site.RegularPages }}
-{{ range $paginator.Pages }}
-    {{ if not (eq .Section "page") }}
-    {{ .Render "list_item" }}
+{{ range ($paginator.Pages).GroupByDate .Site.Data.Formats.date }}
+    <h3>{{ .Key }}</h3>
+    {{ range .Pages }}
+        {{ if not (eq .Section "page") }}
+        {{ .Render "list_item" }}
+        {{ end }}
     {{ end }}
 {{ end }}
 </section>
