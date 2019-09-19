@@ -1,4 +1,6 @@
 <div class="content">
 {{ .Content }}
-{{ partial "block/photos" . }}
+<div class="image-list">
+{{ .Render "image_list" }}
+</div>
 </div>
