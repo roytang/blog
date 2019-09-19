@@ -6,8 +6,15 @@
 <section class="h-feed">
 <h2 class="p-name">On this day</h2>
 
-{{ range .Site.RegularPages }}
+{{ $slice := slice }}
+{{ range (.Site.RegularPages) }}
     {{ if and (eq (.Date.Format "02") $archDay) (eq (.Date.Format "January") $archMonth) }}
+        {{ $slice = $slice | append . }}
+    {{ end }}
+{{ end }}
+{{ range $slice.GroupByDate "2006" }}
+    <h3>{{ .Key }}</h3>
+    {{ range .Pages }}
         {{ .Render "list_item" }}
     {{ end }}
 {{ end }}
