@@ -1,0 +1,9 @@
+{{ $path := printf "/notes/%s" (.Get 0) }}
+{{ range where (where .Site.RegularPages "Section" "notes" ) ".RelPermalink" "==" $path }}
+    On 
+    <a href="{{ .RelPermalink }}"><time datetime="{{ .Date.Format .Site.Data.Formats.timestamp }}">{{ .Date.Format .Site.Data.Formats.datetime }}</time></a>
+    I wrote:
+    <blockquote>
+        {{ .Content }}
+    </blockquote>
+{{ end }}
