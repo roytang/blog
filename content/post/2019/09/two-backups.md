@@ -1,11 +1,14 @@
 ---
 categories: []
 date: 2019-09-20 12:00:00
+slug: two-backups
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1175052600951103491/
 tags:
 - tech life
 - gaming
 title: A Tale of Two Backups
-slug: two-backups
 type: post
 ---
 
