@@ -7,6 +7,10 @@ tags:
 title: The Captain's Hat
 type: post
 url: /2003/12/the-captain39s-hat/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/12/no-title.html
 ---
 
 Check this out: 

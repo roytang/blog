@@ -8,6 +8,10 @@ tags:
 title: Free WordPress Hosting
 type: post
 url: /2005/04/free-wordpress-hosting/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/04/blogsome-free-wordpress-hosting.html
 ---
 
 [Wordpress host -- free blog][1] 

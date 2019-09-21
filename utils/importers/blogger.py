@@ -18,8 +18,6 @@ def import_blogger(importfilepath):
     importfile = Path(importfilepath)
     with importfile.open(encoding="UTF-8") as fd:
         doc = xmltodict.parse(fd.read())
-        with Path("out.json").open("w", encoding="UTF-8") as fw:
-            fw.write(json.dumps(doc, indent=2))
         for e in doc["feed"]["entry"]:
             if e["category"]["@term"] == "http://schemas.google.com/blogger/2008/kind#post":
                 post_count = post_count + 1
@@ -45,5 +43,7 @@ def import_blogger(importfilepath):
 
     print(len(unmatched))
     print(post_count)
+    with Path("out.json").open("w", encoding="UTF-8") as fw:
+        fw.write(json.dumps(unmatched, indent=2))
 
 import_blogger("C:\\temp\\blog-09-21-2019.xml")

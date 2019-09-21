@@ -7,6 +7,10 @@ tags:
 title: Bomb blasts rock RP Cities
 type: post
 url: /2005/02/bomb-blasts-rock-rp-cities/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/bomb-blasts-rock-davao-general-santos.html
 ---
 
 [Bomb blasts rock Davao, General Santos, Makati -- INQ7.net][1] 

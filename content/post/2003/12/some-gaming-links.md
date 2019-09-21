@@ -6,6 +6,10 @@ tags:
 title: Some Gaming Links
 type: post
 url: /2003/12/some-gaming-links/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/12/no-title_11.html
 ---
 
 Today's random links:

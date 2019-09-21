@@ -2,11 +2,13 @@
 author: Roy
 categories: []
 date: 2004-08-28 10:26:02
-draft: true
-private: true
 title: Life-Changing Events
 type: post
 url: /2004/08/life-changing-events/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/08/life-changing-events.html
 ---
 
 "Life-changing events"... one would think I'm about to speak of something like a natural disaster, getting married or quitting my job, something that would create a profound change in my life.

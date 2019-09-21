@@ -6,6 +6,10 @@ tags:
 title: 'Hoshigami: Ruining Blue Earth'
 type: post
 url: /2002/05/hoshigami-ruining-blue-earth/
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/05/review-hoshigami-ruining-blue-earth.html
+source: roywantsmeat
 ---
 
 First off, I haven't finished the game yet, I'm somewhere in Chapter 5. I stopped playing the game a month or so ago out of sheer irritation.

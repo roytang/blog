@@ -7,6 +7,10 @@ tags:
 title: New Beginning
 type: post
 url: /2003/10/new-beginning/
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/10/if-history-is-to-change-let-it-change.html
+source: roywantsmeat
 ---
 
 > "If history is to change, let it change!

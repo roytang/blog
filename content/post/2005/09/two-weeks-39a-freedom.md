@@ -5,6 +5,11 @@ date: 2005-09-05 03:10:00
 title: Two Weeks of Freedom
 type: post
 url: /2005/09/two-weeks-39a-freedom/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/09/two-weeks-freedom.html
+
 ---
 
 Freedom from work at least. I've been meaning to take a two-week leave since late last year, but never found a chance. Now is the perfect time, just before I jump full-swing into the next large project (which may or may not be confidential in nature)

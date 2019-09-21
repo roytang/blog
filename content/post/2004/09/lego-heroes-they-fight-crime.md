@@ -8,6 +8,10 @@ tags:
 title: Lego Heroes, They Fight Crime!
 type: post
 url: /2004/09/lego-heroes-they-fight-crime/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/09/something-random-found-today-some-guys.html
 ---
 
 Something random found today:

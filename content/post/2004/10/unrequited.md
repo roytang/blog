@@ -2,18 +2,16 @@
 author: Roy
 categories: []
 date: 2004-10-17 07:21:49
-draft: true
-private: true
 title: Unrequited
 type: post
 url: /2004/10/unrequited/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/unrequited.html
 ---
 
-**
-  
-(Warning: sappy!)
-  
-** 
+**(Warning: sappy!)** 
 
 Have you ever been in love with someone who can't love you back?
 

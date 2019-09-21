@@ -7,6 +7,10 @@ tags:
 title: 'Birthday #24'
 type: post
 url: /2002/08/birthday-24/
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/08/10-aug-2002.html
+source: roywantsmeat
 ---
 
 I turned 24 yesterday.

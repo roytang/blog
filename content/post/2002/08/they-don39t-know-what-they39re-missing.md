@@ -7,6 +7,10 @@ tags:
 title: They Don't Know What They're Missing
 type: post
 url: /2002/08/they-dont-know-what-theyre-missing/
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/08/07-aug-2002.html
+source: roywantsmeat
 ---
 
 I'm pissed off.

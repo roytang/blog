@@ -6,6 +6,10 @@ tags:
 title: I've Been Busyand Wizardry 7
 type: post
 url: /2004/11/i39ve-been-busy-and-wizardry-7/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/ive-been-busy.html
 ---
 
 ... or maybe just distracted. After putting in some fifty hours over a four-day period last weekend, I thought I'd cool off for a few days, doing nothing but what needs to be done, and some surfing and sleep when I get home.

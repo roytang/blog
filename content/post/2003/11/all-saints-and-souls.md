@@ -6,6 +6,10 @@ tags:
 title: All Saints and Souls
 type: post
 url: /2003/11/all-saints-and-souls/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/11/whee.html
 ---
 
 Whee... holiday. For those not from the Philippines, All Saints Day and All Souls Day are non-working holidays for us, and the roads are generally jammed anywhere near cemeteries as Filipinos flock to the graveyards to remember their deceased loved ones. Sadly, since my folks are out of town, and I have no idea how to get to the resting place of my grandparents without them, all I can do is say a prayer for them right here. \*says a silent prayer\*

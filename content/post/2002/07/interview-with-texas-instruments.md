@@ -7,6 +7,10 @@ tags:
 title: Interview With Texas Instruments
 type: post
 url: /2002/07/interview-with-texas-instruments/
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/07/03-jul-2002.html
+source: roywantsmeat
 ---
 
 Sometimes my still being unemployed depresses me greatly (Although my periods of depression typically last no more than thirty minutes.)
