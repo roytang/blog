@@ -31,10 +31,10 @@ In modern times though, I have also seriously enjoyed IDW's Transformers line of
 
 Recently over the past five years or so, I started buying a few modern Transformers toys as well. I'm not a big collector or anything, so I only buy one  every so often, preferably when they're on discount/sale, and only the smaller ones. It's fun seeing how they've updated modern toys to have a lot more articulation and so on. I mostly have them standing on my desk.
 
-{{< instagram BXQZGQtgNYJ >}}
+{{< photo "2017/08/bxqzgqtgnyj/" >}}
 
-{{< instagram BZ6ML5jApww >}}
+{{< photo "2017/10/bz6ml5japww/" >}}
 
-{{< instagram Bsmx_nfh8zF >}}
+{{< photo "2019/01/bsmx_nfh8zf/" >}}
 
 Transformers was my first realy fandom, and something I'll probably never get over, no matter how old I get. I have a couple of nephews, when they've grown up a bit, I plan to be that uncle who always gifts them Transformers, to set up the next generation of robot fans. Despite my lack of love for the Bayverse series of films, I am grateful that those movies led a resurgence in their popularity, leading to more modern-day comics, toys and animated series as well, so even the young'uns will be able more... much more than meets the eye!

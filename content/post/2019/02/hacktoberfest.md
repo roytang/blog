@@ -20,7 +20,7 @@ I've always wanted to start participating in Open Source, but it's a bit difficu
 
 I'm only posting about this now, four months after the fact, because my Hacktoberfest swag only came in last week and I had to swing by the post office to pick them up. Here's some pics:
 
-{{< instagram Btxn5ayBMTO >}}
+{{< photo "2019/02/btxn5aybmto/" >}}
 
 I'm not really a stickers guy, so I'm not sure where I'll put the stickers. Maybe they'd look good on my Macbook Air? I like the shirts though, since Americans have better shirt sizes from me than locally.
 

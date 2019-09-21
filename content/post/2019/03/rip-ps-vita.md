@@ -18,4 +18,4 @@ Sadness for the little handheld that could. The [PSP](/2008/02/i-have-a-psp/) th
 
 I haven't had much opportunity for handheld gaming the past few years, since I don't travel as much anymore. But I still pick up my PS Vita every so often, much more so than my 3DS (which my niece has absconded with anyway). And I still have a few more games there I consider part of my backlog I want to someday finish. (Namely *Tales of Hearts R* and *Zero Time Dilemma*, at the very least) And my Vita is still doing pretty well, no obvious issues, so I'm hoping it can stick around for a long while.
 
-{{< instagram Bujac3RBRht >}}
+{{< photo "2019/03/bujac3rbrht/" >}}
