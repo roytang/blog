@@ -46,6 +46,6 @@ Some random things I noted about Facebook recently:
 
 [Dave Winer](http://scripting.com/) makes a point that Facebook, despite all its flaws, did bring something good to humanity, even if only for a little while.
 
-{{< tweet 1075254515149008896 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Facebook offers ordinary people something they&#39;ve never had before. A place to publish their ideas for anyone to read. For all its flaws they have done something remarkable, something the news industry could have but did not do.</p>&mdash; Dave (@davewiner) <a href="https://twitter.com/davewiner/status/1075254515149008896?ref_src=twsrc%5Etfw">December 19, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 I don't know what happens next. Maybe Facebook will clean up its act and gets to stay around. Maybe it gets replaced by the next big thing. Or maybe it gets replaced by many small things. Whatever comes next, hopefully society will be more careful in how we handle the implications of the convenience that tech and social media bring us.

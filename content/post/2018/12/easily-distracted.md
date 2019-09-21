@@ -38,4 +38,4 @@ All of these are some demons I need to tame if I really want to become more inde
 
 Coincidentally relevant webcomic:
 
-{{< tweet 1070082567402110977 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">inspiration strikes <a href="https://t.co/qihgd0Q8to">pic.twitter.com/qihgd0Q8to</a></p>&mdash; the Awkward Yeti (Nick Seluk) (@theawkwardyeti) <a href="https://twitter.com/theawkwardyeti/status/1070082567402110977?ref_src=twsrc%5Etfw">December 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

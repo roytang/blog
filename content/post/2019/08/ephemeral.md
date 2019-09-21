@@ -15,7 +15,7 @@ I read this post: [Why I'm automatically deleting my old tweets using AWS Lambda
 
 To each his own and I kind of understand the intent, but this kind of thinking is a bit anathema to me. In fact, I tweeted this just a few days ago:
 
-{{% tweet 1166149784350027776 %}}
+{{< note "2019/08/1166149784350027776/" >}}
 
 In fact, I wrote the tweet above because I was annoyed that there was no more way to recover older things like chat logs from now-defunct messenger apps (Yahoo Messenger, ICQ, AIM) that I used back in the day. I'm sure most of the content there was inane and probably of no relevance to anyone other than me, but I wish I had found a way to archive them anyway. Unlike physical posessions which eat up space and can be problematic when sorting and arranging, digital archives are much cheaper to retain and easier to access. 
 

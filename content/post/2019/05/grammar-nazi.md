@@ -18,7 +18,7 @@ I think it's something that comes with being a voracious reader, especially as a
 
 I used to be pretty anal about it too. I would correct most people given any opportunity, especially online in forums and social media and what not. These days I'm less inclined to do so, at least for strangers on the internet whose first language may or may not be English, unless the grammar is especially atrocious or the poster was asking for it in some way. I guess the advice in the following tweet mostly applies for me these days:
 
-{{< tweet 1125066018768945152 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s what I was taught about manners: Correcting someone&#39;s <a href="https://twitter.com/hashtag/grammar?src=hash&amp;ref_src=twsrc%5Etfw">#grammar</a> in public is rude. Here&#39;s what I was taught about intellectual priorities: Focusing on grammar and ignoring content is petty and pedantic. But that&#39;s just me... <a href="https://t.co/R1A6wPqFPI">https://t.co/R1A6wPqFPI</a></p>&mdash; Diana B. Henriques (@dianabhenriques) <a href="https://twitter.com/dianabhenriques/status/1125066018768945152?ref_src=twsrc%5Etfw">May 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Even if don't speak up, I reserve the right to silently judge someone for poor grammar. Filipinos are notorious for judging others based on how good their English is:
 

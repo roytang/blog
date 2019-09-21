@@ -11,9 +11,7 @@ title: Finishing Posts
 type: post
 ---
 
-I saw the following question on Twitter:
-
-{{< tweet 1091555027053772800 >}}
+I saw the [following question on Twitter](https://twitter.com/andreasklinger/status/1091555027053772800):
 
 > "People who write a lot of blogposts... How do you know when a post is done?"
 

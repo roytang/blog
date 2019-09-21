@@ -9,9 +9,7 @@ title: Embarassment, Office Christmas Parties, and Singing Off-Key
 type: post
 ---
 
-I read this tweet from [@GaryGulman](https://twitter.com/GaryGulman), a standup comic who gives out tips for comedy writers:
-
-{{< tweet 1105136402092703744 >}}
+I read this [tweet](https://twitter.com/GaryGulman/status/1105136402092703744) from [@GaryGulman](https://twitter.com/GaryGulman), a standup comic who gives out tips for comedy writers:
 
 > Today, put together a list of the most embarrassing moments in your life. Take one or two and write them out in detail. Next time you’re in front of a warm crowd, work on telling the story. 
 

@@ -27,6 +27,6 @@ One of the problems with sleep is that even though it feels great, when you slee
 
 I'll end this post with this tweet:
 
-{{< tweet 943137889977819138 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">GOD: You have probably 70-80 years at most before you die, ideally.<br>MAN: oh. well, i&#39;ll make the most of-<br>GOD: You&#39;ll be unconscious for 1/3 of the time. <br>MAN: ..uh<br>GOD: *leans in* That&#39;ll be your favorite part.</p>&mdash; Ray 🦔 (@SirEviscerate) <a href="https://twitter.com/SirEviscerate/status/943137889977819138?ref_src=twsrc%5Etfw">December 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ...then I'll go take a nap.

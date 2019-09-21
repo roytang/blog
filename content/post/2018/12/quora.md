@@ -13,7 +13,7 @@ type: post
 
 Recently, Q&A site Quora announced that they got hacked.
 
-{{< tweet 236815222147514368 >}}
+{{< note "2012/08/236815222147514368/" >}}
 
 I started reading Quora back around 2012. My impression then of the site is that it encouraged insightful, well-written, story-like answers. This was opposed to other Q&A sites like Stackoverflow which encourared concise and clinical answers. This impression was amplified by the 2013 release of a Best of Quora EBook which I thoroughly enjoyed. 
 

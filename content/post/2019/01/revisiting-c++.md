@@ -27,7 +27,7 @@ Some notes:
 - As I mentioned, I didn't have much experience with C++ features like templates and generic types, so one of the challenges we faced early on was making heads or tails of the usage of this third party library called [JSON Spirit][3], which was used for representing JSON objects. The library uses a lot of generics and templates and typedefs, so it took a bunch of code tracing and a bit of trial and error for us to get the hang of it.
 - one thing we discovered early on was that the use of deeply-nested templates and generic types led to a lot of quite obtuse error messages, a bit of a challenge for us who didn't have much C++ experience. This problem is succinctly described in the following tweet:
 
-{{< tweet 1002648636516282368 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In C++ we don&#39;t say &quot;Missing asterisk&quot; we say &quot;error C2664: &#39;void std::vector&lt;block,std::allocator&lt;_Ty&gt;&gt;::push_back(const block &amp;)&#39;: cannot convert argument 1 from &#39;std::_Vector_iterator&lt;std::_Vector_val&lt;std::_Simple_types&lt;block&gt;&gt;&gt;&#39; to &#39;block &amp;&amp;&#39;&quot; and i think that&#39;s beautiful</p>&mdash; mcc (@mcclure111) <a href="https://twitter.com/mcclure111/status/1002648636516282368?ref_src=twsrc%5Etfw">June 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 So there were a lot of challenges along the way, but this is fairly typical for developers coming into a project with an existing large codebase. And on the upside (my usual upside), I learned a lot, and I felt like a C++ genius a few weeks in. When you climb a learning curve quickly, it can make you feel amazing:
 
