@@ -1,0 +1,169 @@
+{
+	"id": "3010499940",
+	"name": "27052008097.jpg",
+	"description": "Toys on my desktop at work. Mostly LEGO!\n<i>Uploaded with the <a href=\"http://www.flock.com/\">Flock Browser</a></i>",
+	"count_views": "17",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2008-05-27 19:18:12",
+	"count_tags": "2",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2008-11-07 05:21:47",
+	"photopage": "https://www.flickr.com/photos/zroytang/3010499940/",
+	"original": "https://live.staticflickr.com/3245/3010499940_6acdf9cc40_o.jpg",
+	"license": "All Rights Reserved",
+	"exif": {
+		"IFD0:Compression": {
+			"full": "IFD0:Compression",
+			"label": "Compression",
+			"value": "JPEG (old-style)",
+			"raw_value": "JPEG (old-style)"
+		},
+		"IFD0:Orientation": {
+			"full": "IFD0:Orientation",
+			"label": "Orientation",
+			"value": "Horizontal (normal)",
+			"raw_value": "Horizontal (normal)"
+		},
+		"IFD0:XResolution": {
+			"full": "IFD0:XResolution",
+			"label": "X-Resolution",
+			"value": "300 dpi",
+			"raw_value": "300"
+		},
+		"IFD0:YResolution": {
+			"full": "IFD0:YResolution",
+			"label": "Y-Resolution",
+			"value": "300 dpi",
+			"raw_value": "300"
+		},
+		"IFD0:YCbCrPositioning": {
+			"full": "IFD0:YCbCrPositioning",
+			"label": "YCbCr Positioning",
+			"value": "Centered",
+			"raw_value": "Centered"
+		},
+		"ExifIFD:ExposureTime": {
+			"full": "ExifIFD:ExposureTime",
+			"label": "Exposure",
+			"value": "0.05 sec (1/20)",
+			"raw_value": "1/20"
+		},
+		"ExifIFD:FNumber": {
+			"full": "ExifIFD:FNumber",
+			"label": "Aperture",
+			"value": "f/2.8",
+			"raw_value": "2.8"
+		},
+		"ExifIFD:ISO": {
+			"full": "ExifIFD:ISO",
+			"label": "ISO Speed",
+			"value": "100",
+			"raw_value": "100"
+		},
+		"ExifIFD:DateTimeOriginal": {
+			"full": "ExifIFD:DateTimeOriginal",
+			"label": "Date and Time (Original)",
+			"value": "2008:05:27 19:18:12",
+			"raw_value": "2008:05:27 19:18:12"
+		},
+		"ExifIFD:CreateDate": {
+			"full": "ExifIFD:CreateDate",
+			"label": "Date and Time (Digitized)",
+			"value": "2008:05:27 19:18:12",
+			"raw_value": "2008:05:27 19:18:12"
+		},
+		"ExifIFD:LightSource": {
+			"full": "ExifIFD:LightSource",
+			"label": "Light Source",
+			"value": "Flash",
+			"raw_value": "Flash"
+		},
+		"ExifIFD:Flash": {
+			"full": "ExifIFD:Flash",
+			"label": "Flash",
+			"value": "Auto, Fired",
+			"raw_value": "Auto, Fired"
+		},
+		"ExifIFD:FocalLength": {
+			"full": "ExifIFD:FocalLength",
+			"label": "Focal Length",
+			"value": "5.6 mm",
+			"raw_value": "5.6 mm"
+		},
+		"ExifIFD:ColorSpace": {
+			"full": "ExifIFD:ColorSpace",
+			"label": "Color Space",
+			"value": "sRGB",
+			"raw_value": "sRGB"
+		},
+		"ExifIFD:CustomRendered": {
+			"full": "ExifIFD:CustomRendered",
+			"label": "Custom Rendered",
+			"value": "Normal",
+			"raw_value": "Normal"
+		},
+		"ExifIFD:ExposureMode": {
+			"full": "ExifIFD:ExposureMode",
+			"label": "Exposure Mode",
+			"value": "Auto",
+			"raw_value": "Auto"
+		},
+		"ExifIFD:WhiteBalance": {
+			"full": "ExifIFD:WhiteBalance",
+			"label": "White Balance",
+			"value": "Auto",
+			"raw_value": "Auto"
+		},
+		"ExifIFD:DigitalZoomRatio": {
+			"full": "ExifIFD:DigitalZoomRatio",
+			"label": "Digital Zoom Ratio",
+			"value": "1",
+			"raw_value": "1"
+		},
+		"ExifIFD:SceneCaptureType": {
+			"full": "ExifIFD:SceneCaptureType",
+			"label": "Scene Capture Type",
+			"value": "Standard",
+			"raw_value": "Standard"
+		},
+		"ExifIFD:GainControl": {
+			"full": "ExifIFD:GainControl",
+			"label": "Gain Control",
+			"value": "Low gain up",
+			"raw_value": "Low gain up"
+		}
+	},
+	"groups": [
+
+	],
+	"albums": [
+
+	],
+	"tags": [
+		{
+			"tag": "toys",
+			"user": "https://www.flickr.com/photos/zroytang/",
+			"date_create": "2008-11-07 05:21:47"
+		},
+		{
+			"tag": "LEGO",
+			"user": "https://www.flickr.com/photos/zroytang/",
+			"date_create": "2008-11-07 05:21:47"
+		}
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

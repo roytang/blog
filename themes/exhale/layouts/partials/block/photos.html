@@ -33,7 +33,15 @@
 
 {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
 
-{{ if $link_url }}<a href="{{ $link_url }}" title="{{ $caption }}">{{ end }}
+{{ if not (eq .Title .Name) }}
+  {{ $scratch.Set "figcaption" .Title }}
+{{ else }}
+  {{ $scratch.Set "figcaption" $caption }}
+{{ end }}
+{{ $figcaption := $scratch.Get "figcaption" }}
+
+{{ if $link_url }}<a href="{{ $link_url }}" title="{{ $figcaption }}">{{ end }}
+<figure>
 <img 
 {{/*
   sizes="(min-width: 35em) 1200px, 100vw"
@@ -51,8 +59,15 @@
   '
 */}}
     src="{{ .RelPermalink }}" 
-    alt="{{ $caption }}"
-    title="{{ $caption }}"
+    alt="{{ $figcaption }}"
+    title="{{ $figcaption }}"
   />
+{{ if not (eq .Title .Name) }}
+{{ with .Title }}
+<figcaption>{{ . | markdownify }}</figcaption>
+{{ end }}
+{{ else }}
+{{ end }}
+</figure>  
 {{ if $link_url }}</a>{{ end }}
 {{ end }}
