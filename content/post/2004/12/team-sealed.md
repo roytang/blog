@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-12-06 13:59:44
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/12/team-sealed.html
 tags:
 - Magic the Gathering
 title: Team Sealed!

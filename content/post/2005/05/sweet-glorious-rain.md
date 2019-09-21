@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-05-08 17:03:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/sweet-glorious-rain.html
 title: Sweet Glorious Rain
 type: post
 url: /2005/05/sweet-glorious-rain/

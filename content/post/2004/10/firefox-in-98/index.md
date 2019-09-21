@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-31 06:56:49
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/firefox-in-98.html
 tags:
 - Tech Life
 title: Firefox in 98?

@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-02-01 05:06:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/books-abnkkbsknplako-by-bob-ong.html
 tags:
 - Books
 - Pop Culture

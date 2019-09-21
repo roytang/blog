@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-07-17 14:36:07
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/07/current-events-rp-troops-to-withdraw.html
 tags:
 - Philippines
 title: 'Current Events: RP troops to withdraw from Iraq'

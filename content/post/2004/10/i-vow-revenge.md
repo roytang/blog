@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-29 14:05:18
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/i-vow-revenge.html
 title: I Vow Revenge!
 type: post
 url: /2004/10/i-vow-revenge/

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2003-11-26 02:35:26
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/11/windows-xp-luna.html
 tags:
 - Tech Life
 title: 'Windows XP: Luna'

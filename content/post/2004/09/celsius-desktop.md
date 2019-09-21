@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-09-12 08:42:09
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/09/celsius-desktop.html
 tags:
 - Gaming
 title: Celsius Desktop

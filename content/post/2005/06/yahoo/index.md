@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-06-16 16:21:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/06/yahoo.html
 tags:
 - Software Development
 title: Yahoo!

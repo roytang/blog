@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-10-22 10:22:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/10/on-journalling-or-how-hard-it-is-to.html
 tags:
 - Writing
 title: On Journalling, or How Hard It Is to Keep Up a Blog

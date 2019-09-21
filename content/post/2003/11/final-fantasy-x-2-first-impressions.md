@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2003-11-26 02:52:48
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/11/final-fantasy-x-2-first-impressions.html
 tags:
 - Gaming
 title: 'Final Fantasy X-2: First Impressions'

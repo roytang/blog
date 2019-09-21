@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-03-20 09:07:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/03/schrodingers-gate.html
 title: Schrodinger's Gate
 type: post
 url: /2005/03/schrodinger39s-gate/

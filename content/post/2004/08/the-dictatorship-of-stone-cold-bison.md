@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-08-28 14:58:08
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/08/dictatorship-of-stone-cold-bison.html
 tags:
 - Gaming
 title: The Dictatorship of Stone-Cold Bison

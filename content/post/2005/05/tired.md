@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-05-01 07:11:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/tired.html
 title: Tired
 type: post
 url: /2005/05/tired/

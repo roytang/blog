@@ -3,6 +3,10 @@ author: Roy
 categories: []
 date: 2004-11-12 13:50:42
 format: link
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/tonight-on-net-20041112.html
 tags:
 - Links
 title: Tonight On The Net 20041112

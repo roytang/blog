@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-02-14 13:29:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/interlude.html
 title: Interlude
 type: post
 url: /2005/02/interlude/

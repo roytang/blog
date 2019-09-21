@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-12-11 09:26:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/12/music-ultraelectromagnetic-jam.html
 tags:
 - Music
 - Review

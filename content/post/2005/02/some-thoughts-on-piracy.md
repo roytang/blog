@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-02-06 06:04:33
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/some-thoughts-on-piracy.html
 tags:
 - Gaming
 title: Some thoughts on piracy

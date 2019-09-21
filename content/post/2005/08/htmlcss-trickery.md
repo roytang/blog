@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-08-14 08:46:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/08/htmlcss-trickery.html
 tags:
 - Software Development
 title: HTML/CSS Trickery

@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-07-19 13:52:57
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/07/online-jigsaw-puzzles.html
 tags:
 - Gaming
 title: Online Jigsaw Puzzles!

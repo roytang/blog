@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2002-04-20 04:00:33
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/04/snorks-are-underwater-smurfs.html
 title: Snorks are underwater smurfs.
 type: post
 url: /2002/04/snorks-are-underwater-smurfs/

@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2004-12-06 13:35:03
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/12/new-dawn-may-rise.html
 title: A New Dawn May Rise
 type: post
 url: /2004/12/a-new-dawn-may-rise/

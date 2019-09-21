@@ -3,6 +3,10 @@ author: Roy
 categories: []
 date: 2004-08-28 09:42:19
 format: link
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/08/augusts-end.html
 tags:
 - Links
 title: August's End

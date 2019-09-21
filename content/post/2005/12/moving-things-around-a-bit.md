@@ -2,13 +2,17 @@
 author: Roy
 categories: []
 date: 2005-12-11 16:08:00
+featuredImage: https://roytang.net/uploads/2005/layout20051211.png
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/12/moving-things-around-bit.html
 tags:
 - Meta
 - changelog
 title: Moving Things Around A Bit
 type: post
 url: /2005/12/moving-things-around-a-bit/
-featuredImage: https://roytang.net/uploads/2005/layout20051211.png
 ---
 
 I was getting a bit bored with the place, so I spruced it up a bit, switched some colors, moved stuff around. You know, just to pretend something's happening. And to showcase my sorely lacking UI design skills. :p

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-05-12 05:17:51
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/05/sweet-sweet-vacation-time.html
 tags:
 - Tech Life
 title: Sweet Sweet Vacation Time

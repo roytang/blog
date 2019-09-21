@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-08-14 09:40:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/08/hundred-pirated-games.html
 tags:
 - Gaming
 title: A hundred pirated games

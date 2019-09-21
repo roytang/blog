@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2004-12-02 13:11:14
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/12/requiem.html
 title: Requiem
 type: post
 url: /2004/12/requiem/

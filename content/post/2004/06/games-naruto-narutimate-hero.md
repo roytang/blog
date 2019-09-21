@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-06-27 08:25:06
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/06/games-naruto-narutimate-hero.html
 tags:
 - Gaming
 title: 'Games: Naruto: Narutimate Hero'

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-11-23 15:12:58
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/i-like-to-read.html
 tags:
 - Books
 - Pop Culture

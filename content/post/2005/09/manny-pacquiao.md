@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-09-12 11:00:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/09/manny-pacquiao.html
 tags:
 - Philippines
 title: Manny Pacquiao

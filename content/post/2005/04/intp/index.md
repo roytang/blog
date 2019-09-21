@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-04-30 23:45:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/intp.html
 title: INTP
 type: post
 url: /2005/04/intp/

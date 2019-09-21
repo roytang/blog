@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-11-15 00:41:05
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/alchemist.html
 tags:
 - Books
 - Pop Culture

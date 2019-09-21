@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-02-10 02:55:02
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/games-why-sonys-psp-will-suck.html
 tags:
 - Gaming
 title: 'Games: Why Sony''s PSP will suck'

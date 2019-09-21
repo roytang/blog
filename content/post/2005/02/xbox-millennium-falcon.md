@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-02-02 13:23:10
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/xbox-millennium-falcon.html
 title: Xbox Millennium Falcon
 type: post
 url: /2005/02/xbox-millennium-falcon/

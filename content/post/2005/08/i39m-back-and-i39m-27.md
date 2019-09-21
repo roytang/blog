@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-08-14 08:42:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/08/im-back-and-im-27.html
 tags:
 - birthday
 title: I'm Back. And I'm 27.

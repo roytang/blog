@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-05-15 12:22:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/girl-and-ashton-kutcher.html
 tags:
 - Opinions
 title: The girl and Ashton Kutcher

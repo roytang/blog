@@ -3,6 +3,10 @@ author: roy
 categories: []
 date: 2004-07-20 14:53:42
 format: link
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/07/metamorphosis-of-prime-intellect.html
 tags:
 - Links
 title: The Metamorphosis of Prime Intellect

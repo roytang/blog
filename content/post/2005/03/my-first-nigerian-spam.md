@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-03-05 14:33:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/03/my-first-nigerian-spam.html
 tags:
 - Tech Life
 title: My First Nigerian Spam

@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-04-13 15:07:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/04/nuns-and-earthquakes.html
 title: Nuns and Earthquakes
 type: post
 url: /2005/04/nuns-and-earthquakes/

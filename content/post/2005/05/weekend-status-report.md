@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-05-02 09:41:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/weekend-status-report.html
 title: Weekend Status Report
 type: post
 url: /2005/05/weekend-status-report/

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-11-22 15:15:26
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/radiohead-copyright-and-popular-music.html
 tags:
 - Music
 - Pop Culture

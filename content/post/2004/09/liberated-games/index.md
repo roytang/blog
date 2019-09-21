@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-09-05 01:01:07
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/09/liberated-games.html
 tags:
 - Gaming
 title: Liberated Games

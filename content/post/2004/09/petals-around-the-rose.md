@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-09-21 13:54:42
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/09/petals-around-rose.html
 tags:
 - Gaming
 title: Petals Around The Rose

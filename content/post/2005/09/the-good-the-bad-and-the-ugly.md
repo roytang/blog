@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-09-06 02:32:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/09/good-bad-and-ugly.html
 tags:
 - Movies
 - Pop Culture

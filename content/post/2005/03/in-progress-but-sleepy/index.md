@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-03-25 11:35:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/03/in-progress-but-sleepy.html
 tags:
 - javascript
 - Meta

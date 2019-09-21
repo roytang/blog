@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-10-23 09:46:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/10/i-have-phone-nokia-6020.html
 tags:
 - Hardware
 - Tech Life

@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-06-19 11:39:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/06/movies-batman-begins.html
 tags:
 - Movies
 - Pop Culture

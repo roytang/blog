@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-01-27 15:21:37
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/01/games-namco-capcom-combine-forces-to.html
 tags:
 - Gaming
 title: 'Games: Namco, Capcom Combine Forces to Create Sim-RPG'

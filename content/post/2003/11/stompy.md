@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2003-11-17 14:36:19
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/11/stompy.html
 title: Stompy
 type: post
 url: /2003/11/stompy/

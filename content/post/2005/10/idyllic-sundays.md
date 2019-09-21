@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-10-23 08:35:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/10/idyllic-sundays.html
 title: Idyllic Sundays
 type: post
 url: /2005/10/idyllic-sundays/

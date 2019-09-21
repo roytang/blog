@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-04-13 14:40:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/04/games-suikoden-iv.html
 tags:
 - Gaming
 title: 'Games: Suikoden IV'

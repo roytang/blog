@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-09-05 03:29:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/09/a-team.html
 tags:
 - TV Series
 - Pop Culture

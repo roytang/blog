@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-03-28 14:22:01
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/03/graduation-day-and-10-years-after.html
 title: Graduation Day, and 10 Years After
 type: post
 url: /2005/03/graduation-day-and-10-years-after/

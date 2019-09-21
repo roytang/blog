@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-03-24 08:30:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/03/books-dark-tower-series.html
 tags:
 - Books
 - Review

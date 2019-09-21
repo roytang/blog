@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2006-01-01 07:25:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2006/01/i-wish-i-had-something-snazzy-to-say.html
 tags:
 - Job Hunting
 title: I Wish I Had Something Snazzy To Say About The New Year

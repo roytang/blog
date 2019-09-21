@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-25 15:36:12
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/48-laws-of-power.html
 tags:
 - Books
 - Pop Culture

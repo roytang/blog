@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-05-25 14:33:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/movies-revenge-of-sith.html
 tags:
 - Movies
 - Pop Culture

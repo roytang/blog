@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2002-04-01 04:00:11
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/04/beavers-and-ducks.html
 tags:
 - Legacy Blog Posts
 title: Beavers and Ducks

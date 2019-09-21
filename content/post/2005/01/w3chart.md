@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-01-18 17:03:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/01/w3chart.html
 tags:
 - Gaming
 title: w3chart

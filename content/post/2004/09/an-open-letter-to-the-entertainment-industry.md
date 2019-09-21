@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-09-22 13:32:55
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/09/open-letter-to-entertainment-industry.html
 tags:
 - Gaming
 title: An Open Letter to the Entertainment Industry

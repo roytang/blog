@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-05-09 23:29:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/thats-just-swell.html
 title: That's Just Swell
 type: post
 url: /2005/05/that39s-just-swell/

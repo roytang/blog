@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-05-29 08:37:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/movies-transformers-movie.html
 tags:
 - Movies
 - Review

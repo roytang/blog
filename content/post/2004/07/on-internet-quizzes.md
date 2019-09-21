@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-07-11 11:43:04
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/07/on-internet-quizzes.html
 title: On Internet Quizzes
 type: post
 url: /2004/07/on-internet-quizzes/

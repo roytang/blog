@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-01-31 14:17:56
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/01/games-40-year-old-cabbie-is-mmo-player.html
 tags:
 - Gaming
 title: 'Games: 40-year old cabbie is a MMO Player'

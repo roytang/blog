@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-09-12 05:50:25
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/09/things-to-do.html
 tags:
 - Gaming
 - books

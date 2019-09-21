@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-07-02 16:13:44
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/07/games-maniac-mansion-deluxe.html
 tags:
 - Gaming
 title: 'Games: Maniac Mansion Deluxe'

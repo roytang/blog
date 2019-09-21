@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-04-20 16:34:39
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/04/sega-fantasy-vi.html
 tags:
 - Gaming
 title: Sega Fantasy VI

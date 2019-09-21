@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-11-03 09:30:02
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/my-eyeglasses-belong-to-sea.html
 title: My Eyeglasses Belong To The Sea
 type: post
 url: /2004/11/my-eyeglasses-belong-to-the-sea/

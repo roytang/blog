@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-22 13:49:34
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/energy-bliss.html
 tags:
 - Tech Life
 title: Energy Bliss

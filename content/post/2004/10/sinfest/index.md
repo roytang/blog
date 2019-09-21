@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-10-24 05:53:33
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/sinfest.html
 tags:
 - Software Development
 title: Sinfest!

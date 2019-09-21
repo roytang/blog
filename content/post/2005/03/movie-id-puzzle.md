@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-03-11 16:22:59
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/03/movie-id-puzzle.html
 tags:
 - Gaming
 title: Movie-ID puzzle

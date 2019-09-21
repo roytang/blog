@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-04-18 07:07:44
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/04/what-to-do-with-this-website.html
 tags:
 - Meta
 title: What to do with this website?

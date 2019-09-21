@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-04-09 22:36:09
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/04/gender-genie.html
 title: The Gender Genie
 type: post
 url: /2005/04/the-gender-genie/

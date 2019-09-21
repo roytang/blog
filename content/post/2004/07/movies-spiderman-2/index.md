@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-07-04 01:52:03
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/07/movies-spiderman-2.html
 tags:
 - Movies
 - Pop Culture

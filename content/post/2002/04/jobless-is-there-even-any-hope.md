@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2002-04-28 04:00:10
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/04/jobless-is-there-even-any-hope.html
 tags:
 - Job Hunting
 title: 'Jobless: Is there even any hope?'

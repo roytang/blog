@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-06-22 16:04:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/06/radio-is-so-primitive.html
 title: Radio is so Primitive
 type: post
 url: /2005/06/radio-is-so-primitive/

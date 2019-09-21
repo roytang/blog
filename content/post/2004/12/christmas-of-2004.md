@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-12-24 14:34:13
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/12/christmas-of-2004.html
 title: Christmas of 2004
 type: post
 url: /2004/12/christmas-of-2004/

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-18 14:00:23
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/taxi-tales.html
 title: Taxi Tales
 type: post
 url: /2004/10/taxi-tales/

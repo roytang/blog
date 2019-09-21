@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-17 05:27:31
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/about-jitse-and-exams-in-general.html
 title: About the JITSE, and Exams in general
 type: post
 url: /2004/10/about-the-jitse-and-exams-in-general/

@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-10-27 00:17:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/10/i-am-selling-old-monitor.html
 tags:
 - Hardware
 - Tech Life

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-31 06:22:47
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/posting-from-boondocks.html
 tags:
 - Travels
 title: Posting From the Boondocks

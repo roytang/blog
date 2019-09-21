@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-05-10 01:00:58
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/05/halalan-2004.html
 tags:
 - Philippines
 title: Halalan 2004

@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-12-05 05:17:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/12/left-half-of-my-mouth-is-numb-thanks.html
 title: The Left Half of My Mouth is Numb, Thanks
 type: post
 url: /2005/12/the-left-half-of-my-mouth-is-numb-thanks/

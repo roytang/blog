@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-07-10 16:14:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/07/movies-fantastic-four.html
 tags:
 - Movies
 - Pop Culture

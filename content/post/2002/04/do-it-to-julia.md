@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2002-04-05 04:00:49
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/04/do-it-to-julia.html
 title: Do it to Julia!
 type: post
 url: /2002/04/do-it-to-julia/

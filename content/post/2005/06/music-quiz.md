@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-06-14 16:02:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/06/music-quiz.html
 tags:
 - Music
 - Puzzles

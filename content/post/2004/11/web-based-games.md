@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-11-21 08:41:55
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/web-based-games.html
 tags:
 - Gaming
 title: Web-Based Games

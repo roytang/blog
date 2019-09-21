@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-06-27 04:55:38
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/06/pinoy-culture-thank-god-its-over.html
 tags:
 - Philippines
 title: 'Pinoy Culture: Thank God It''s Over'

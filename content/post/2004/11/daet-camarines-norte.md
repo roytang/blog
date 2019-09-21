@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-11-03 02:37:53
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/daet-camarines-norte.html
 tags:
 - Travels
 title: Daet, Camarines Norte

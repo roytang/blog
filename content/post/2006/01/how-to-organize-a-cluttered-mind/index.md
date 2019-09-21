@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2006-01-29 07:26:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2006/01/how-to-organize-cluttered-mind.html
 tags:
 - Software Development
 title: How to Organize a Cluttered Mind?

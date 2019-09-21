@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2002-01-06 04:00:28
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/01/06-jan-2002.html
 tags:
 - Legacy Blog Posts
 title: 06 Jan 2002

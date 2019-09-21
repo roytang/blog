@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-07-10 16:28:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/07/hipster-pda.html
 tags:
 - Tech Life
 title: Hipster PDA?

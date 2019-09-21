@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2004-08-01 15:19:57
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/08/new-hardware.html
 tags:
 - Hardware
 - Tech Life

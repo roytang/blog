@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-01-11 15:45:33
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/01/past-comes-back-to-haunt-us.html
 tags:
 - Meta
 title: The Past Comes Back to Haunt Us

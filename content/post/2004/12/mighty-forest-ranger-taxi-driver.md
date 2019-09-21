@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-12-12 15:13:02
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/12/mighty-forest-ranger-taxi-driver.html
 title: Mighty Forest Ranger Taxi Driver
 type: post
 url: /2004/12/mighty-forest-ranger-taxi-driver/

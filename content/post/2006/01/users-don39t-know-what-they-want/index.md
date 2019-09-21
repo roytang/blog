@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2006-01-29 15:42:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2006/01/users-dont-know-what-they-want.html
 tags:
 - Software Development
 title: Users don't know what they want.

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-04-18 07:05:18
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/04/roy-goes-to-hk.html
 tags:
 - Travels
 title: Roy goes to HK

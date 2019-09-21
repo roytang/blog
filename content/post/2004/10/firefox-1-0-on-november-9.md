@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-23 00:35:06
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/firefox-10-on-november-9.html
 tags:
 - Tech Life
 title: Firefox 1.0 on November 9

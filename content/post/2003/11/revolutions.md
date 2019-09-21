@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2003-11-09 04:26:26
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/11/revolutions.html
 tags:
 - Gaming
 title: Revolutions

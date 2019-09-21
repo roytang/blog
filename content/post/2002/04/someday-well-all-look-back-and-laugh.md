@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2002-04-14 05:00:19
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/04/someday-well-all-look-back-and-laugh.html
 tags:
 - Legacy Blog Posts
 title: Someday we'll all look back and laugh.

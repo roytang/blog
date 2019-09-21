@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-05-23 14:50:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/hypertension.html
 title: Hypertension
 type: post
 url: /2005/05/hypertension/

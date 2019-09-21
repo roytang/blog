@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2003-11-26 03:00:48
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/11/knights-of-old-republic.html
 tags:
 - Gaming
 title: Knights of the Old Republic

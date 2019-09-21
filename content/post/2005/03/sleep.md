@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-03-08 15:36:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/03/sleep.html
 title: Sleep
 type: post
 url: /2005/03/sleep/

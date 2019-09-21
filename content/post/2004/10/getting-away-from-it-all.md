@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-30 05:22:09
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/getting-away-from-it-all.html
 tags:
 - Travels
 title: Getting Away From It All

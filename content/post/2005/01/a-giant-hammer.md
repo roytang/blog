@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-01-24 13:20:55
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/01/giant-hammer.html
 title: A Giant Hammer
 type: post
 url: /2005/01/a-giant-hammer/

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2006-01-10 15:25:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2006/01/adventures-in-linux-land-part-1.html
 tags:
 - Tech Life
 title: Adventures in Linux Land, Part 1

@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-12-30 12:19:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/12/how-would-it-feel-to-be-developer.html
 tags:
 - Gaming
 title: How Would It Feel to Be A Developer-Slave?

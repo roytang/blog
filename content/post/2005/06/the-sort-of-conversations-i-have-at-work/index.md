@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-06-09 11:23:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/06/sort-of-conversations-i-have-at-work.html
 title: The Sort of Conversations I Have At Work
 type: post
 url: /2005/06/the-sort-of-conversations-i-have-at-work/

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-11-14 03:00:50
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/who-am-i.html
 title: Who Am I?
 type: post
 url: /2004/11/who-am-i/

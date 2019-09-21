@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-05-29 08:00:07
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/05/games-n.html
 tags:
 - Gaming
 title: 'Games: N'

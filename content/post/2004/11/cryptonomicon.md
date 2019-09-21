@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-11-04 17:15:49
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/cryptonomicon.html
 tags:
 - Books
 - Pop Culture

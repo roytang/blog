@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-09-10 11:59:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/09/looking-for-phone-and-finding-bad.html
 tags:
 - Software Development
 title: Looking for a phone and finding bad webapps

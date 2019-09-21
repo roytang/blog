@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-04-11 14:10:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/04/games-timesplitters-iii.html
 tags:
 - Gaming
 title: 'Games: Timesplitters III'

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-20 15:00:11
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/google-desktop.html
 tags:
 - Tech Life
 title: Google Desktop

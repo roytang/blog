@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-08-29 06:25:54
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/08/internet-scrabble.html
 tags:
 - Gaming
 title: Internet Scrabble!

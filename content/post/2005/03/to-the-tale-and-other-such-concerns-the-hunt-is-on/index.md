@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-03-11 14:17:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/03/to-tale-and-other-such-concerns-hunt.html
 title: 'To the Tale, and Other Such Concerns: The Hunt is On'
 type: post
 url: /2005/03/to-the-tale-and-other-such-concerns-the-hunt-is-on/

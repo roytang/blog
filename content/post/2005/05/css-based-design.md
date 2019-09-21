@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-05-08 15:18:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/css-based-design.html
 tags:
 - Software Development
 title: CSS-Based Design

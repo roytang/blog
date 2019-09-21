@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-04-10 02:19:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/04/congrats-neil.html
 title: Congrats Neil
 type: post
 url: /2005/04/congrats-neil/

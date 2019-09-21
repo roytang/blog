@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-12-24 13:30:39
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/12/excel-problem.html
 tags:
 - Software Development
 title: Excel problem

@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-02-13 13:00:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/piracy-mrtlrt-and-mall-security.html
 tags:
 - Philippines
 title: Piracy, the MRT/LRT and Mall Security

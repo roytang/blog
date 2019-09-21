@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-10-29 15:14:40
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/gta-iii-for-nes.html
 tags:
 - Gaming
 title: GTA III for the NES?

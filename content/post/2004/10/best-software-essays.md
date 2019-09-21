@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2004-10-27 15:24:38
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/best-software-essays.html
 tags:
 - Software Development
 title: Best Software Essays
