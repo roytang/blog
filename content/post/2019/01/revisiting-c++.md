@@ -17,9 +17,9 @@ Although I knew about the language features in theory, I didn't have much experi
 
 One of our senior developers (who was not available full-time for the project) *did* have C++ experience though, and he used to train new hires in C++ at his old company. So he dug out some of his old training slides and gave us a C++ refresher/crash course in the span of an afternoon. A bit too much info crammed into too little time, but still informative. Especially for me, since it's been so long since I touched the language, the slides reminded me of a few things I had already forgotten.
 
-Some notes:
+{{< note "2018/08/1035019095287189504/" >}}
 
-{{< tweet 1035019095287189504 >}}
+Some notes:
 
 - having worked almost exclusively with dynamic languages the past few years, I haven't had the chance of use the [old XKCD "compiling" excuse][2] in a while. When we first tried compiling the project, we were seeing build times in the 10-15 minutes range, which was worrying for our coding cycles. And since we were "relearning" C++, as it were, we were bound to have more iterations than normal. Luckily we found that the build process tended to be a bit faster on succeeding builds, I guess it does some kind of incremental build? Later on, compiling would take around 2-3 minutes.
 - makefiles are something I've never had to deal with before (that sort of thing used to be handled by an IDE during my last go-around with C++). But I had to figure them out early on in this project, otherwise we couldn't add our own new files to the codebase!

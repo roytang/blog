@@ -14,7 +14,7 @@ type: post
 
 Last week I was able to tick an item off my bucket list: I played chess in the park with strangers! (Yes, my bucket list items are that level lol)
 
-{{< tweet 1085123142467506176 >}}
+{{< note "2019/01/1085123142467506176/" >}}
 
 When watching TV/movies, I was always fascinated by those scenes where people are in the park playing chess and I wanted to play chess in the park with strangers too. In hindsight, it makes more sense that people would actually be playing with people they knew, but the idea of playing chess with strangers seemed fun to me for some reason.
 

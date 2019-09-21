@@ -18,9 +18,9 @@ Mentoring is one of those tasks that's to be expected of anyone in a senior soft
 
 I'm not sure how good I am when it comes to mentoring other software developers. When I first became technical lead on projects, I got some evaluations from junior developers saying I can be "intimidating". I think it comes from the fact that I have a natural tendency towards being snarky and being annoyed at bad code. It's something I'm trying to improve, and while I'll never be cuddly, I think I've made some great strides in being approachable and in advice-giving. I do try to be accommodating and I'm always willing to help anyone who asks for it.
 
-To that end, a while back I tweeted the following (it's currently my pinned tweet):<figure class="wp-block-embed-twitter wp-block-embed">
+To that end, a while back I tweeted the following (it's currently my pinned tweet):
 
-{{< tweet 905431727681572865 >}}
+{{< note "2017/09/905431727681572865/" >}}
 
 (Side note: If you're working in tech and interested in business stuff, Stephanie Hurlburt is a good follow on Twitter)
 

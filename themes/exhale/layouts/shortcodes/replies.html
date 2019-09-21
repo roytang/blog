@@ -1,8 +1,8 @@
-{{ $path := printf "/notes/%s" (.Get 0) }}
-{{ range where (where .Site.RegularPages "Section" "notes" ) ".RelPermalink" "==" $path }}
+{{ $path := printf "/replies/%s" (.Get 0) }}
+{{ range where (where .Site.RegularPages "Section" "replies" ) ".RelPermalink" "==" $path }}
     On 
     <a href="{{ .RelPermalink }}"><time datetime="{{ .Date.Format .Site.Data.Formats.timestamp }}">{{ .Date.Format .Site.Data.Formats.datetime }}</time></a>
-    I wrote:
+    I replied to <a class="u-repost-of" href="{{ .Params.reply_to.url }}">{{ .Params.reply_to.label }}</a>:
     <blockquote>
         {{ .Content }}
         {{ .Render "image_list" }}

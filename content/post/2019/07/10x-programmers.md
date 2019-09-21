@@ -13,7 +13,7 @@ type: post
 
 The topic of the mythical ["10x programmer"](https://softwareengineering.stackexchange.com/questions/179616/a-good-programmer-can-be-as-10x-times-more-productive-than-a-mediocre-one) has been the topic of discussion recently on tech twitter, due to [a thread](https://twitter.com/skirani/status/1149302828420067328?s=19) listing out the supposed signs of being such a mythical beast.
 
-{{% twitter 1149302828420067328 %}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">10x engineers<br><br>Founders if you ever come across this rare breed of engineers, grab them. If you have a 10x engineer as part of your first few engineers, you increase the odds of your startup success significantly.<br><br>OK, here is a tough question.<br><br>How do you spot a 10x engineer?</p>&mdash; Shekhar Kirani (@skirani) <a href="https://twitter.com/skirani/status/1149302828420067328?ref_src=twsrc%5Etfw">July 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 The thread received a lot of negative responses, mainly because several of these items can be considered red flags indicating someone who doesn't play well with others - hates meetings, prefer irregular hours, poor mentoring ability, disdain for documentation, find process miserable, works alone to produce great code, etc. These attributes remind me of Steve McConnel's description of programming heroics in *Professional Software Development*:
 
@@ -79,4 +79,4 @@ I'm also not necessarily claiming to be a 10x programmer even though I claim to 
 
 A second thread on 10x programmers I like, from Alan Cooper:
 
-{{% twitter 1150215587978596353 %}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve worked with more than one “10x” programmer. Their brilliance is astonishing, but their output is rarely practically realized. 1</p>&mdash; Alan Cooper (@MrAlanCooper) <a href="https://twitter.com/MrAlanCooper/status/1150215587978596353?ref_src=twsrc%5Etfw">July 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

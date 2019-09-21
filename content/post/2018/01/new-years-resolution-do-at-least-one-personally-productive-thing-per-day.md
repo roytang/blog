@@ -16,7 +16,7 @@ url: /2018/01/new-years-resolution-do-at-least-one-personally-productive-thing-p
 
 I'm not super big on New Year's Resolutions anymore. (I seldom even do the 1920&#215;1440 joke these days.) I mean, I'm all about productivity and improvement and changing for the better, but I've found that very specific resolutions don't often work for me. Mostly because I have very little focus (obviously something that an be improved).
 
-{{< tweet 682613316246585344 >}}
+{{< note "2015/12/682613316246585344/" >}}
 
 So my tendency now is to stick to general, high level resolutions (like the above) that don't go into anything too specific. And so this year I decided on something like that. My NYR for this year is: Do at least one personally productive thing per day.
 

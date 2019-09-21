@@ -32,7 +32,7 @@ Often, it is simply a matter of shifting your perspective: think about how a sit
   <a href="https://twitter.com/neiltyson/status/741361923061653504?ref_src=twsrc%5Etfw">June 10, 2016</a>
 </blockquote>
 
-{{< tweet 766531070116278272 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chastising Duterte is not mutually exclusive with supporting De Lima. But to the trolls, insult the president = <a href="https://t.co/FXfg0wigJ3">pic.twitter.com/FXfg0wigJ3</a></p>&mdash; Natashya Gutierrez (@natashya_g) <a href="https://twitter.com/natashya_g/status/766531070116278272?ref_src=twsrc%5Etfw">August 19, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Another tip: **Do not listen only to people who have the same opinion as you do. **If you only expose yourself to people who think along the same lines, you are enabling the same set of biases until they become subconscious. This traps you in an echo chamber of people constantly reinforcing the same ideas. A friend and I recently were discussing how certain people react poorly to differing opinions and theorized that maybe that person grew up surrounded by people who enabled his biases
 

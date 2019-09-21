@@ -27,7 +27,7 @@ But the most mysterious problem is an incessant beeping. It's been happening for
 
 Speaking of charger problems, another issue I have with Apple tablets in general is hardware-related but not with the tablet itself - the problem is their lightning cables, which tend to rapidly fall apart over time. I'm talking the official Apple lightning cables here. I've tried some unoffical ones as well, but those seem highly inconsistent as to whether they'll even work, so I tend to prefer the official ones. I just wish they lasted longer.
 
-{{< tweet 382888558639333376 >}}
+{{< photo "2013/09/382888558639333376/" >}}
 
 Some friends have told me that supposedly the cable material is not very tolerant of our tropical heat. Apple needs to be better than this! More pictures (these are 3 different cables.):
 

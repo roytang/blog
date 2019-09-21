@@ -19,7 +19,7 @@ Some things I've been watching lately, aside from the usual TV shows I follow:
 
 I watched **Alita: Battle Angel**, with the friend who introduced me to the series in the first place. The movie looked fantastic and the fight scenes were great. Plot was supercondensed, several books' worth of story combined into one. Ended in a weird place, kinda? Easily the best western live action anime adaptation by far.
 
-{{< tweet 1093511652643762176 >}}
+{{< note "2019/02/1093511237898448896/" >}}
 
 In another volume of "catching up with older films to improve my geek cred", I watched **The Usual Suspects** on Netflix. The movie was still really good, despite the internet having spoiled the Keyser Soze twist for me (and countless others) many years ago. I can see why Spacey won an Oscar for his performance here.
 

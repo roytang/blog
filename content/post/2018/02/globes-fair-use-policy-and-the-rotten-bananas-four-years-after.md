@@ -19,12 +19,13 @@ Around four years ago (give or take a few days), one of my many Twitter interact
 <blockquote class="imgur-embed-pub" lang="en" data-id="GiJBHdX">
   <a href="https://imgur.com/GiJBHdX">View post on imgur.com</a>
 </blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 The exchange went a tiny bit viral on social media, with friends telling me about people I don't know sharing the image of the conversation on Facebook and Twitter. (I'm not sure if it was the exact same image above.). Even today, if you [Google &#8216;Globe "rotten bananas"][1]&#8216; you still get [a few relevant hits.][2]
 
 I believe the CS account eventually deleted the offending tweets, I can only see my own tweets on the matter:
 
-{{< tweet 431649435047583745 >}}
+{{< replies "2014/02/431649435047583745/" >}}
 
 Today, Globe Telecom no longer offers any plans with "unlimited data", as far as I know. I feel like I can claim some nontrivial responsibility in that decision, but it doesn't seem like something to be proud of.
 
@@ -33,6 +34,7 @@ I myself had resisted shifting to a new plan for a while (so I can carry over my
 <blockquote class="imgur-embed-pub" lang="en" data-id="Cg5GI3G">
   <a href="https://imgur.com/Cg5GI3G">View post on imgur.com</a>
 </blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 If you think about it, a 3gb bandwidth cap seems ridiculous in this day and age, but I've pretty much changed my behavior around it. I now very rarely watch Youtube or Facebook videos on the go for example. I prefer to watch stuff on the Desktop. (Phone screens are too tiny to appreciate most videos anyway.)
 

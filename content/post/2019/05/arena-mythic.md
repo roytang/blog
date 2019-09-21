@@ -74,4 +74,4 @@ I'm not sure how accurate these game counts are, it felt like I did more matches
 
 Anyway, I won't be able to play Arena again until July, probably the meta will be completely different again by that time lol. For now, a welcome respite from the tyranny of the shuffler.
 
-{{% twitter 1133406151507243009 %}}
+{{< note "2019/05/1133406151507243009/" >}}
