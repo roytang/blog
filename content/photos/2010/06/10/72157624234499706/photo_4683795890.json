@@ -1,0 +1,72 @@
+{
+	"id": "4683795890",
+	"name": "09062010075",
+	"description": "",
+	"count_views": "5",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2010-06-09 06:27:22",
+	"count_tags": "0",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2010-06-08 16:26:19",
+	"photopage": "https://www.flickr.com/photos/zroytang/4683795890/",
+	"original": "https://live.staticflickr.com/4009/4683795890_7700e44892_o.jpg",
+	"license": "All Rights Reserved",
+	"exif": {
+		"Make": "Nokia",
+		"Model": "5800 Xpres",
+		"Orientation": "Horizontal (normal)",
+		"XResolution": "300 dpi",
+		"YResolution": "300 dpi",
+		"ResolutionUnit": "inches",
+		"YCbCrPositioning": "Centered",
+		"ExposureTime": "0.05 sec (1/20)",
+		"FNumber": "f/2.8",
+		"ISO": "224",
+		"ExifVersion": "0220",
+		"DateTimeOriginal": "2010:06:09 06:27:22",
+		"CreateDate": "2010:06:09 06:27:22",
+		"ComponentsConfiguration": "Y, Cb, Cr, -",
+		"LightSource": "Flash",
+		"Flash": "On, Fired",
+		"FocalLength": "3.7 mm",
+		"FlashpixVersion": "0100",
+		"ColorSpace": "sRGB",
+		"CustomRendered": "Normal",
+		"ExposureMode": "Auto",
+		"WhiteBalance": "Auto",
+		"DigitalZoomRatio": "1",
+		"SceneCaptureType": "Standard",
+		"GainControl": "High gain up",
+		"Compression": "JPEG (old-style)",
+		"ThumbnailOffset": "2060",
+		"ThumbnailLength": "3316"
+	},
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157624234499706",
+			"title": "The Setup",
+			"url": "https://www.flickr.com/photos/zroytang/sets/72157624234499706/"
+		}
+	],
+	"tags": [
+
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

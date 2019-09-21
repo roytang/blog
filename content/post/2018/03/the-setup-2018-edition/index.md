@@ -48,13 +48,13 @@ I have two old monitors (a 19&#8243; and a 21&#8243;) hooked up to this desktop 
 
 Late last year I also impulse-bought a Razer Blackwidow Ultimate 2016, I'm mostly happy with it (it's my first "real" mechanical keyboard") Recently one of the keys has been acting up, being a bit unresponsive but it got better after I removed the keycaps and cleaned up a bit under there.
 
-<a title="Moved the tower case under the desk to get a bit more desk space. Will see if this works" href="https://www.flickr.com/photos/zroytang/39679697811/in/dateposted-public/" data-flickr-embed="true"><img src="https://farm5.staticflickr.com/4755/39679697811_83bca326de_b.jpg" alt="Moved the tower case under the desk to get a bit more desk space. Will see if this works" width="720" height="720" /></a>
+{{< photo "2018/03/72157688688295540/" "moved" >}}
 
 As you can see above, I also have a much wider desk now than the dinky old computer table in the old post.
 
 **Laptop.** My only laptop currently is a work-issued Acer Aspire ES1-433-38DR. It's nice and handy and workable, but it's not even a year old and I've already had some issues with the laptop suddenly dying when it's not plugged in. For this reason (and a few other reasons like being able to publish iOS apps), I've been considering getting a Macbook Pro. (The only thing holding me back is the ridiculous price!)
 
-<a title="P_20180311_235708" href="https://www.flickr.com/photos/zroytang/38939653510/in/dateposted-public/" data-flickr-embed="true"><img src="https://farm5.staticflickr.com/4783/38939653510_441b87e717_b.jpg" alt="P_20180311_235708" width="1024" height="768" /></a>
+{{< photo "2018/03/72157688688295540/" "P_20180311_235708" >}}
 
 **Gaming consoles.** Gaming is one of my indulgences, so there's a few:
 
@@ -64,14 +64,14 @@ As you can see above, I also have a much wider desk now than the dinky old compu
   * I also bought a [Steam Link][2] to stream gaming from my desktop. I use my Logitech F710 wireless controller with it. It's great when I have platformers on Steam that I want to play.
   * Handhelds: I have both a [PS Vita and a 3DS][3]. Okay, actually I have two 3DSes, the other one is a 3DSXL. I rarely do handheld gaming anymore though, unless there's a long ride or something. I do still tend to carry one of these whenever I go out with a bag. Just in case.
 
-<a title="P_20180311_235839" href="https://www.flickr.com/photos/zroytang/38939651450/in/dateposted-public/" data-flickr-embed="true"><img src="https://farm5.staticflickr.com/4792/38939651450_7203005b12_b.jpg" alt="P_20180311_235839" width="1024" height="768" /></a>
+{{< photo "2018/03/72157688688295540/" "P_20180311_235839" >}}
 
 **TV.** Mid 2017 one of our 32-inch Samsung TVs in the house conked out with a bad display so we decided to buy a new one. We decided on a [43&#8243; LG Smart TV][4]. Super happy with this, the display is much better than the previous TV. IDK how it works, I think they have some sort of software optimization that makes things look better. It's great for Netflix, Youtube, Gaming, etc.
   
-<a title="IMG_0187" href="https://www.flickr.com/photos/zroytang/38939651730/in/dateposted-public/" data-flickr-embed="true"><img src="https://farm5.staticflickr.com/4801/38939651730_b80aa43b3b_b.jpg" alt="IMG_0187" width="1024" height="701" /></a>
-  
-<a title="IMG_0211" href="https://www.flickr.com/photos/zroytang/38939652370/in/dateposted-public/" data-flickr-embed="true"><img src="https://farm5.staticflickr.com/4776/38939652370_714312f4da_b.jpg" alt="IMG_0211" width="1024" height="768" /></a>
+{{< photo "2018/03/72157688688295540/" "img_0187" >}}
 
+{{< photo "2018/03/72157688688295540/" "img_0211" >}}
+  
 **Tablet.** I have an 9.7&#8243; iPad Pro that I bought late 2016. I also bought an Apple Pencil for it, my main intention was to have a tool for sketching. Pretty happy with it, even though it looks pretty battle-scarred by now as I'm not the most careful user.
 
 **Cellphone.** Wow, I was still using the Nokia 5800 in that last post. I've gone through quite a few Android smartphones since then, mostly Samsung Galaxy models, with the most recent one being a secondhand S5. I always have problems with battery life (probably due to being on data all the time) so last December I decided to buy myself an ASUS Zenfone Max 4. It's not as high-spec as the Samsung Galaxy line, but this has 10000mAH battery which means I can go all day without having to scrounge around for a charger. I haven't used my Powerbank in a while!
@@ -98,7 +98,7 @@ As you can see above, I also have a much wider desk now than the dinky old compu
 
 **Odds and Ends**. I have a bunch of other software utilities I often recommend. I use [VLC Media Player][12] for watching stuff on my desktop (doesn't everybody?). I use [Space Sniffer][13] to check disk usage. [Audacity][14] for the rare instance that I have to do some kind of audio editing.
 
-All the photos in this post are available as a Flickr dataset: <https://www.flickr.com/photos/zroytang/sets/72157688688295540>
+All the photos in this post are available as a [Flickr dataset](/photos/2018/03/72157688688295540/)
 
  [1]: https://roytang.net/2010/06/the-setup/
  [2]: https://roytang.net/2017/07/hardware-review-steam-link/

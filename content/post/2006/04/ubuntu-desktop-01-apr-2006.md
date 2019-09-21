@@ -9,9 +9,7 @@ type: post
 url: /2006/04/ubuntu-desktop-01-apr-2006/
 ---
 
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;">
-  <a title="photo sharing" href="http://www.flickr.com/photos/65204400@N00/121882754/"><br /> <img style="border: solid 2px #000000;" src="http://static.flickr.com/34/121882754_641eaf5286_m.jpg" alt="" /><br /> </a><span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/65204400@N00/121882754/">Ubuntu Desktop </a>Originally uploaded by <a href="http://www.flickr.com/people/65204400@N00/">zroytang<br /> </a><br /> .<br /> </span>
-</div>
+{{< photo "2006/04/121882754/" >}}
 
 I'm getting a lot more comfortable with Ubuntu... I spent about half an hour today customizing the environment and setting up some stuff. I can do my downloading in Ubuntu now; I just need to set up some sort of shared FAT32 partition that both WinXP and Ubuntu can access for easy transfer between the two OS. (Currently, Ubuntu only has read-only access to the NTFS file system)
 

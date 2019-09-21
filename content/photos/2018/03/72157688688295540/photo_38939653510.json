@@ -1,0 +1,91 @@
+{
+	"id": "38939653510",
+	"name": "P_20180311_235708",
+	"description": "",
+	"count_views": "0",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2018-03-11 23:57:08",
+	"count_tags": "0",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2018-03-11 09:54:03",
+	"photopage": "https://www.flickr.com/photos/zroytang/38939653510/",
+	"original": "https://live.staticflickr.com/4783/38939653510_65af10139e_o.jpg",
+	"license": "All Rights Reserved",
+	"exif": {
+		"JFIFVersion": "1.01",
+		"ResolutionUnit": "inches",
+		"XResolution": "1",
+		"YResolution": "1",
+		"ModifyDate": "2018:03:11 23:57:08",
+		"Model": "ASUS_X00ID",
+		"YCbCrPositioning": "Centered",
+		"Software": "msm8937_64-user 7.1.1 NMF26F 14.2016.1712.226-20180103 release-keys",
+		"Make": "asus",
+		"GPSDateStamp": "2018:03:11",
+		"GPSAltitudeRef": "Unknown (2)",
+		"GPSLongitudeRef": "East",
+		"GPSLongitude": "121 deg 2' 27.15\" E",
+		"GPSProcessingMethod": "ASCII",
+		"GPSLatitudeRef": "North",
+		"GPSTimeStamp": "15:56:59",
+		"GPSAltitude": "0 m",
+		"GPSLatitude": "14 deg 40' 46.88\" N",
+		"ColorSpace": "sRGB",
+		"FNumber": "f/2.0",
+		"CreateDate": "2018:03:11 23:57:08",
+		"FocalLength": "3.4 mm",
+		"ExposureMode": "Auto",
+		"SubSecTimeDigitized": "876503",
+		"FocalLengthIn35mmFormat": "3 mm",
+		"SceneCaptureType": "Standard",
+		"SceneType": "Directly photographed",
+		"SubSecTimeOriginal": "876503",
+		"ExposureProgram": "Not Defined",
+		"WhiteBalance": "Auto",
+		"SubSecTime": "876503",
+		"MeteringMode": "Center-weighted average",
+		"DateTimeOriginal": "2018:03:11 23:57:08",
+		"ComponentsConfiguration": "Y, Cb, Cr, -",
+		"ExifVersion": "0220",
+		"Flash": "Off, Did not fire",
+		"BrightnessValue": "0",
+		"ISO": "1600",
+		"SensingMethod": "One-chip color area",
+		"FlashpixVersion": "0100",
+		"MakerNoteUnknownText": "<ZenCircleTag>ZenUI,PixelMasterCamera,AutoMode</ZenCircleTag>",
+		"ExposureTime": "0.083 sec (1/12)",
+		"InteropIndex": "R98 - DCF basic file (sRGB)",
+		"InteropVersion": "0100",
+		"ThumbnailLength": "9253",
+		"ThumbnailOffset": "1161",
+		"Compression": "JPEG (old-style)"
+	},
+	"groups": [
+
+	],
+	"albums": [
+		{
+			"id": "72157688688295540",
+			"title": "The Setup 2018",
+			"url": "https://www.flickr.com/photos/zroytang/sets/72157688688295540/"
+		}
+	],
+	"tags": [
+
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}

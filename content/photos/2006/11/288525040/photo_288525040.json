@@ -1,0 +1,202 @@
+{
+	"id": "288525040",
+	"name": "elephant_tokens",
+	"description": "Fear the elephants! These are the elephant tokens I used for the Glare deck in constructed tournaments.",
+	"count_views": "82",
+	"count_faves": "0",
+	"count_comments": "0",
+	"date_taken": "2006-11-04 23:48:48",
+	"count_tags": "0",
+	"count_notes": "0",
+	"rotation": 0,
+	"date_imported": "2006-11-04 07:48:54",
+	"photopage": "https://www.flickr.com/photos/zroytang/288525040/",
+	"original": "https://live.staticflickr.com/99/288525040_ba2ad3c65b_o.jpg",
+	"license": "All Rights Reserved",
+	"exif": {
+		"IFD0:Compression": {
+			"full": "IFD0:Compression",
+			"label": "Compression",
+			"value": "JPEG (old-style)",
+			"raw_value": "JPEG (old-style)"
+		},
+		"IFD0:Orientation": {
+			"full": "IFD0:Orientation",
+			"label": "Orientation",
+			"value": "Horizontal (normal)",
+			"raw_value": "Horizontal (normal)"
+		},
+		"IFD0:XResolution": {
+			"full": "IFD0:XResolution",
+			"label": "X-Resolution",
+			"value": "72 dpi",
+			"raw_value": "72"
+		},
+		"IFD0:YResolution": {
+			"full": "IFD0:YResolution",
+			"label": "Y-Resolution",
+			"value": "72 dpi",
+			"raw_value": "72"
+		},
+		"IFD0:ModifyDate": {
+			"full": "IFD0:ModifyDate",
+			"label": "Date and Time (Modified)",
+			"value": "2006:11:04 23:48:48",
+			"raw_value": "2006:11:04 23:48:48"
+		},
+		"IFD0:YCbCrPositioning": {
+			"full": "IFD0:YCbCrPositioning",
+			"label": "YCbCr Positioning",
+			"value": "Co-sited",
+			"raw_value": "Co-sited"
+		},
+		"ExifIFD:ExposureTime": {
+			"full": "ExifIFD:ExposureTime",
+			"label": "Exposure",
+			"value": "0.025 sec (1/40)",
+			"raw_value": "1/40"
+		},
+		"ExifIFD:FNumber": {
+			"full": "ExifIFD:FNumber",
+			"label": "Aperture",
+			"value": "f/3.5",
+			"raw_value": "3.5"
+		},
+		"ExifIFD:ExposureProgram": {
+			"full": "ExifIFD:ExposureProgram",
+			"label": "Exposure Program",
+			"value": "Program AE",
+			"raw_value": "Program AE"
+		},
+		"ExifIFD:ISO": {
+			"full": "ExifIFD:ISO",
+			"label": "ISO Speed",
+			"value": "64",
+			"raw_value": "64"
+		},
+		"ExifIFD:DateTimeOriginal": {
+			"full": "ExifIFD:DateTimeOriginal",
+			"label": "Date and Time (Original)",
+			"value": "2006:11:04 23:48:48",
+			"raw_value": "2006:11:04 23:48:48"
+		},
+		"ExifIFD:CreateDate": {
+			"full": "ExifIFD:CreateDate",
+			"label": "Date and Time (Digitized)",
+			"value": "2006:11:04 23:48:48",
+			"raw_value": "2006:11:04 23:48:48"
+		},
+		"ExifIFD:CompressedBitsPerPixel": {
+			"full": "ExifIFD:CompressedBitsPerPixel",
+			"label": "Compressed Bits Per Pixel",
+			"value": "8",
+			"raw_value": "8"
+		},
+		"ExifIFD:ExposureCompensation": {
+			"full": "ExifIFD:ExposureCompensation",
+			"label": "Exposure Bias",
+			"value": "+0.3 EV",
+			"raw_value": "+0.3"
+		},
+		"ExifIFD:MaxApertureValue": {
+			"full": "ExifIFD:MaxApertureValue",
+			"label": "Max Aperture Value",
+			"value": "3.5",
+			"raw_value": "3.5"
+		},
+		"ExifIFD:MeteringMode": {
+			"full": "ExifIFD:MeteringMode",
+			"label": "Metering Mode",
+			"value": "Center-weighted average",
+			"raw_value": "Center-weighted average"
+		},
+		"ExifIFD:LightSource": {
+			"full": "ExifIFD:LightSource",
+			"label": "Light Source",
+			"value": "Unknown",
+			"raw_value": "Unknown"
+		},
+		"ExifIFD:Flash": {
+			"full": "ExifIFD:Flash",
+			"label": "Flash",
+			"value": "On, Return detected",
+			"raw_value": "On, Return detected"
+		},
+		"ExifIFD:FocalLength": {
+			"full": "ExifIFD:FocalLength",
+			"label": "Focal Length",
+			"value": "6.3 mm",
+			"raw_value": "6.3 mm"
+		},
+		"ExifIFD:ColorSpace": {
+			"full": "ExifIFD:ColorSpace",
+			"label": "Color Space",
+			"value": "sRGB",
+			"raw_value": "sRGB"
+		},
+		"ExifIFD:CustomRendered": {
+			"full": "ExifIFD:CustomRendered",
+			"label": "Custom Rendered",
+			"value": "Normal",
+			"raw_value": "Normal"
+		},
+		"ExifIFD:ExposureMode": {
+			"full": "ExifIFD:ExposureMode",
+			"label": "Exposure Mode",
+			"value": "Manual",
+			"raw_value": "Manual"
+		},
+		"ExifIFD:WhiteBalance": {
+			"full": "ExifIFD:WhiteBalance",
+			"label": "White Balance",
+			"value": "Auto",
+			"raw_value": "Auto"
+		},
+		"ExifIFD:SceneCaptureType": {
+			"full": "ExifIFD:SceneCaptureType",
+			"label": "Scene Capture Type",
+			"value": "Standard",
+			"raw_value": "Standard"
+		},
+		"ExifIFD:Contrast": {
+			"full": "ExifIFD:Contrast",
+			"label": "Contrast",
+			"value": "Normal",
+			"raw_value": "Normal"
+		},
+		"ExifIFD:Saturation": {
+			"full": "ExifIFD:Saturation",
+			"label": "Saturation",
+			"value": "Normal",
+			"raw_value": "Normal"
+		},
+		"ExifIFD:Sharpness": {
+			"full": "ExifIFD:Sharpness",
+			"label": "Sharpness",
+			"value": "Hard",
+			"raw_value": "Hard"
+		}
+	},
+	"groups": [
+
+	],
+	"albums": [
+
+	],
+	"tags": [
+
+	],
+	"people": [
+
+	],
+	"notes": [
+
+	],
+	"privacy": "public",
+	"comment_permissions": "any flickr member",
+	"tagging_permissions": "people you follow",
+	"safety": "safe",
+	"comments": [
+
+	]
+}
