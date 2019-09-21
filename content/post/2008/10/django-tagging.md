@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2008-10-26 04:22:00
+source: royondjango
+syndicated:
+- type: blogger
+  url: https://royondjango.blogspot.com/2008/10/django-tagging.html
 tags:
 - royondjango
 - Software Development

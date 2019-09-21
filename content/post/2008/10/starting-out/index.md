@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2008-10-19 07:33:00
+source: royondjango
+syndicated:
+- type: blogger
+  url: https://royondjango.blogspot.com/2008/10/starting-out.html
 tags:
 - royondjango
 - Software Development

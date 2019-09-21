@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2008-10-24 06:54:00
+source: royondjango
+syndicated:
+- type: blogger
+  url: https://royondjango.blogspot.com/2008/10/i-left-it-for-while.html
 tags:
 - royondjango
 - Software Development

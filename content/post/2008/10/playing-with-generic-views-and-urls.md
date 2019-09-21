@@ -7,6 +7,10 @@ tags:
 title: Playing with Generic Views and URLs
 type: post
 url: /2008/10/playing-with-generic-views-and-urls/
+source: royondjango
+syndicated:
+- type: blogger
+  url: https://royondjango.blogspot.com/2008/10/when-redirecting-how-can-i-make.html
 ---
 
 "when redirecting, how can I make the redirect URL decoupled from the urls.py of the parent app?"

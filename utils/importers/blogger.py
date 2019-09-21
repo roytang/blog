@@ -18,40 +18,45 @@ def import_blogger(importfilepath):
     importfile = Path(importfilepath)
     with importfile.open(encoding="UTF-8") as fd:
         doc = xmltodict.parse(fd.read())
+        with Path("out.json").open("w", encoding="UTF-8") as fw:
+            fw.write(json.dumps(doc, indent=2))
         for e in doc["feed"]["entry"]:
-            if e["category"]["@term"] == "http://schemas.google.com/blogger/2008/kind#post":
-                post_count = post_count + 1
-                title = e["title"].get("#text")
-                date = datetime.strptime(e["published"][:-10], "%Y-%m-%dT%H:%M:%S") # 2004-09-12T16:42:00.000+08:00
-                url = ""
-                for l in e["link"]:
-                    if l["@rel"] == "alternate":
-                        url = l['@href']
-                        break
-                # if already syndicated, do nothing
-                if url in urlmap:
-                    continue
-                # try by title first
-                match = urlmap.get(title)
-                if match is None:
-                    match = urlmap.get(clean_string(title))
+            if not isinstance(e["category"], list):
+                categories = [e["category"]]
+            else:
+                categories = e["category"]
+            for cat in categories:
+                if cat["@term"] == "http://schemas.google.com/blogger/2008/kind#post":
+                    post_count = post_count + 1
+                    title = e["title"].get("#text")
+                    date = datetime.strptime(e["published"][:-10], "%Y-%m-%dT%H:%M:%S") # 2004-09-12T16:42:00.000+08:00
+                    url = ""
+                    for l in e["link"]:
+                        if l["@rel"] == "alternate":
+                            url = l['@href']
+                            break
+                    # if already syndicated, do nothing
+                    if url in urlmap:
+                        continue
+                    # try by title first
+                    match = urlmap.get(title)
+                    if match is None:
+                        match = urlmap.get(clean_string(title))
 
-                if match is None:
-                    unmatched.append(e)
-                    # tag:blogger.com,1999:blog-6021610.post-113910668167270022
-                    id = e["id"][e["id"].find(".post-")+6:]
-                    post = PostBuilder(id, source="roywantsmeat", content=e["content"]["#text"])
-                    post.date = date
-                    post.kind = "post"
-                    post.title = title
-                    post.add_syndication("blogger", url)
-                    post.save()
+                    if match is None:
+                        unmatched.append(e)
+                        # tag:blogger.com,1999:blog-6021610.post-113910668167270022
+                        id = e["id"][e["id"].find(".post-")+6:]
+                        post = PostBuilder(id, source="royondjango", content=e["content"]["#text"])
+                        post.date = date
+                        post.kind = "post"
+                        post.title = title
+                        post.add_syndication("blogger", url)
+                        post.save()
 
-                else:
-                    add_syndication(urlmap_to_mdfile(match), url, "blogger", "roywantsmeat")
+                    else:
+                        add_syndication(urlmap_to_mdfile(match), url, "blogger", "royondjango")
     print(len(unmatched))
     print(post_count)
-    with Path("out.json").open("w", encoding="UTF-8") as fw:
-        fw.write(json.dumps(unmatched, indent=2))
 
-import_blogger("C:\\temp\\blog-09-21-2019.xml")
+import_blogger("C:\\temp\\royondjango-blog-09-21-2019.xml")

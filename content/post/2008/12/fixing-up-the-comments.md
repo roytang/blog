@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2008-12-01 04:58:00
+source: royondjango
+syndicated:
+- type: blogger
+  url: https://royondjango.blogspot.com/2008/12/fixing-up-comments.html
 tags:
 - royondjango
 - Software Development
