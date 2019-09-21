@@ -38,9 +38,17 @@ def import_blogger(importfilepath):
 
                 if match is None:
                     unmatched.append(e)
+                    # tag:blogger.com,1999:blog-6021610.post-113910668167270022
+                    id = e["id"][e["id"].find(".post-")+6:]
+                    post = PostBuilder(id, source="roywantsmeat", content=e["content"]["#text"])
+                    post.date = date
+                    post.kind = "post"
+                    post.title = title
+                    post.add_syndication("blogger", url)
+                    post.save()
+
                 else:
                     add_syndication(urlmap_to_mdfile(match), url, "blogger", "roywantsmeat")
-
     print(len(unmatched))
     print(post_count)
     with Path("out.json").open("w", encoding="UTF-8") as fw:

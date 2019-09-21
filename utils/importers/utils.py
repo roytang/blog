@@ -261,6 +261,7 @@ class PostBuilder():
         self.id = id # id is also the slug
         self.post = frontmatter.Post(content)
         self.kind = "notes" # reasonable default
+        self.title = None # reasonable default
         self.date = datetime.now() # reasonable default
         self.source = source
         self.media = []
@@ -303,6 +304,8 @@ class PostBuilder():
         self.post["date"] = self.date
         self.post["source"] = self.source
         self.post["tags"] = self.tags
+        if self.title is not None:
+            self.post["title"] = self.title
         outdir = contentdir / self.kind / self.date.strftime("%Y") / self.date.strftime("%m") / self.id
         if not outdir.exists():
             outdir.mkdir(parents=True)
