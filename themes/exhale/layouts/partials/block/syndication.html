@@ -11,6 +11,7 @@
 {{ else if eq (lower .type) "goodreads"}}fab fa-goodreads
 {{ else if eq (lower .type) "flickr"}}fab fa-flickr
 {{ else if eq (lower .type) "blogger"}}fab fa-blogger
+{{ else if eq (lower .type) "youtube"}}fab fa-youtube
 {{ else }}fa fa-external-link-alt{{ end }}
 u-syndication' href="{{ .url }}" title="View on {{ .type }}"></a>
 {{ end }}

@@ -1,0 +1,17 @@
+---
+archive_url: https://roytang.net/archive/videos/dU_McBxCiLI.mp4
+date: 2018-03-06 17:28:11
+source: youtube
+syndicated:
+- type: youtube
+  url: https://www.youtube.com/watch?v=dU_McBxCiLI
+tags:
+- drawing
+- sketch
+- procreate
+---
+
+20180307 ironman
+
+
+{{< youtube "dU_McBxCiLI" >}}
