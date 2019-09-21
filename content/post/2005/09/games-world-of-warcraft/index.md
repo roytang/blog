@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-09-08 00:17:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/09/games-world-of-warcraft.html
 tags:
 - Gaming
 title: Games -- World of Warcraft

@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-06-07 23:04:06
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/06/politics-alleged-destabliziation-tape.html
 tags:
 - Philippines
 title: Politics -- Alleged Destabliziation Tape

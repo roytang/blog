@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-05-12 11:14:42
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/05/so-i-went-to-hk.html
 tags:
 - Travels
 title: So I Went to HK

@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-10-28 17:07:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/10/games-walk-of-game.html
 tags:
 - Gaming
 title: Games -- Walk of Game

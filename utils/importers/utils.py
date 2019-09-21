@@ -17,6 +17,9 @@ import html
 cwd = Path(os.environ['HUGO_BLOG_SRCDIR'])
 contentdir = cwd / "content"
 
+def urlmap_to_mdfile(info):
+    return contentdir / info["source_path"]
+
 def load_map_from_json(filename):
     cachefile = Path(filename)
     cache = {}
@@ -53,6 +56,7 @@ def loadurlmap(cleanupdupes=False):
             title = u1.get("title", "").strip()
             if len(title) > 0:
                 urlmap[title] = u1
+                urlmap[clean_string(title)] = u1
     if cleanupdupes:
         # clean up any found dupes by syndicated url
         for su in urlmapdupes:
@@ -84,10 +88,14 @@ import string
 printable = set(string.printable)
 markdown_link = re.compile("\[([^\]]+)\]\((http[s]?://[^)]+)\)")
 def clean_string(str):
+    if str is None or len(str) == 0:
+        return str
     # clean string for matching purposes
     str = html.unescape(str)
     # remove hashes for some silly plurk reason
     str = str.replace("#", "")
+    # remove nonalpha
+    str = re.sub(r'\W+', '', str)
     # remove markdown links
     str = markdown_link.sub(r'\g<1>', str)
     str = "".join(list(filter(lambda x: x in printable, str)))
@@ -204,7 +212,7 @@ class URLResolver:
         with Path(URL_CACHE_FILE).open("w", encoding="UTF-8") as f:
             f.write(json.dumps(self.urlcache, indent=2))
 
-def add_syndication(mdfile, url, stype):
+def add_syndication(mdfile, url, stype, source=None):
     with mdfile.open(encoding="UTF-8") as f:
         try:
             post = frontmatter.load(f)
@@ -224,6 +232,8 @@ def add_syndication(mdfile, url, stype):
             'type': stype,
             'url': url
         })
+        if not source is None and post.get("source") is None:
+            post["source"] = source
         newfile = frontmatter.dumps(post)
         with mdfile.open("w", encoding="UTF-8") as w:
             w.write(newfile)

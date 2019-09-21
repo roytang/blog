@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-12-31 00:35:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/12/games-civilization-4.html
 tags:
 - Gaming
 title: Games -- Civilization 4

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-05-02 15:16:46
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/pimp-my-rig-we-test-parts-for-you.html
 tags:
 - Hardware
 - Tech Life

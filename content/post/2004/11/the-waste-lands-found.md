@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2004-11-24 22:23:59
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/11/waste-lands-found.html
 tags:
 - Books
 - Pop Culture

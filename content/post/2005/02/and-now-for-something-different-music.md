@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-02-17 14:15:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/and-now-for-something-different-music.html
 tags:
 - Music
 - Pop Culture

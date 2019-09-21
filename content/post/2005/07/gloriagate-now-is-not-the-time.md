@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-07-12 15:03:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/07/gloriagate-now-is-not-time.html
 tags:
 - Philippines
 title: Gloriagate -- Now is not the time

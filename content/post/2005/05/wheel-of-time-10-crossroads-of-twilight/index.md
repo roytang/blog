@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-05-08 11:34:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/05/wheel-of-time-10-crossroads-of.html
 tags:
 - Books
 - Review

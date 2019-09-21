@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-02-16 11:01:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/games-legend-of-zelda-minish-cap.html
 tags:
 - Gaming
 title: 'Games: Legend of Zelda -- Minish Cap'

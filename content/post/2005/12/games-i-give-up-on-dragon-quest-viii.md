@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-12-25 04:30:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/12/games-i-give-up-on-dragon-quest-viii.html
 tags:
 - Gaming
 title: Games -- I Give Up On Dragon Quest VIII

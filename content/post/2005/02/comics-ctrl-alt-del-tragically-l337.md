@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-02-01 14:45:31
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/02/comics-ctrl-alt-del-tragically-l337.html
 tags:
 - Comics
 - Pop Culture

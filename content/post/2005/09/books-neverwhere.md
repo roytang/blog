@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-09-14 07:48:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/09/books-neverwhere.html
 tags:
 - Books
 - Pop Culture

@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-09-17 16:11:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/09/final-fantasy-vii-advent-children.html
 tags:
 - Gaming
 title: Final Fantasy VII -- Advent Children

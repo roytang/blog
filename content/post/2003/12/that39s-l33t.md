@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2003-12-12 14:05:46
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2003/12/thats-l33t.html
 tags:
 - Software Development
 title: That's L33T

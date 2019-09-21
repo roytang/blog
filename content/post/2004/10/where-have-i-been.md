@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-10-17 06:05:10
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/10/where-have-i-been.html
 title: Where Have I Been
 type: post
 url: /2004/10/where-have-i-been/

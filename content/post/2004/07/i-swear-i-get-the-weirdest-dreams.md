@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2004-07-01 11:29:12
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2004/07/i-swear-i-get-weirdest-dreams.html
 title: I swear I get the weirdest dreams
 type: post
 url: /2004/07/i-swear-i-get-the-weirdest-dreams/

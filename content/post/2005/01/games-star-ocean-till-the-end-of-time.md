@@ -1,6 +1,10 @@
 ---
 categories: []
 date: 2005-01-23 06:00:31
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/01/games-star-ocean-till-end-of-time.html
 tags:
 - Gaming
 title: 'Games: Star Ocean -- Till the End of Time'

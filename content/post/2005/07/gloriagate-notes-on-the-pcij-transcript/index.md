@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-07-10 15:31:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/07/gloriagate-notes-on-pcij-transcript.html
 tags:
 - Philippines
 title: Gloriagate -- Notes on the PCIJ Transcript

@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-03-26 05:04:00
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/03/games-warcraft-iii-rude-and-annoying.html
 tags:
 - Gaming
 title: 'Games: Warcraft III -- Rude And Annoying Teammates'

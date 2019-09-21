@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2005-01-11 12:50:17
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2005/01/2004-year-of-many-things.html
 title: 2004  -- Year of Many Things
 type: post
 url: /2005/01/2004-year-of-many-things/
