@@ -9,7 +9,7 @@ paginatePath = "page"
 
 # Enable Disqus integration
 disqusShortname = "roytangweblog"
-
+rssLimit = 50
 enableGitInfo = true
 
 [taxonomies]
