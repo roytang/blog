@@ -11,8 +11,10 @@ type: post
 url: /2006/03/grand-prix-manila/
 ---
 
+{{< photo "2006/03/118022394/" >}}
+
 <p style="float: right; margin-left: 10px; margin-bottom: 10px;">
-  <a title="photo sharing" href="http://www.flickr.com/photos/65204400@N00/118022394/"><br /> <img style="border: 2px solid #000000;" src="http://static.flickr.com/40/118022394_2504dd158b_m.jpg" /><br /> </a><span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/65204400@N00/118022394/">Can you find me in the picture?<br /> </a>Originally uploaded by&nbsp;<a href="http://www.flickr.com/people/65204400@N00/">zroytang</a>.<br /> </span><br /> Maybe it's just me, but&nbsp;<a href="http://www.wizards.com/default.asp?x=mtgevent/gpmani06/welcome">Wizard's&nbsp;</a>coverage of Grand Prix Manila last weekend seems just&nbsp;<em>a tad&nbsp;</em>condescending to Filipino Magic players. Not that we mind, after all, local bets actually did kick ass and shrugged off the Japanese invasion.
+Maybe it's just me, but&nbsp;<a href="http://www.wizards.com/default.asp?x=mtgevent/gpmani06/welcome">Wizard's&nbsp;</a>coverage of Grand Prix Manila last weekend seems just&nbsp;<em>a tad&nbsp;</em>condescending to Filipino Magic players. Not that we mind, after all, local bets actually did kick ass and shrugged off the Japanese invasion.
 </p>
 
 If you are in fact a Filipino Magic player, then I hope you know what I'm talking about -- last weekend at the Robinson's Galleria Trade Hall, almost four hundred local and foreign Magic: The Gathering players gathered for the third-ever Grand Prix event held in Manila.
