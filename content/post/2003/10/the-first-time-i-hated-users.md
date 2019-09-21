@@ -8,7 +8,7 @@ title: The First Time I Hated Users
 type: post
 url: /2003/10/the-first-time-i-hated-users/
 source: roywantsmeat
-syndication:
+syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2003/10/yesterday-at-around-6-pm-as-i-was.html
 ---

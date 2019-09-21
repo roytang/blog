@@ -6,7 +6,7 @@ title: When Are You Sick Enough to Call In Sick?
 type: post
 url: /2005/10/when-are-you-sick-enough-to-call-in-sick/
 source: roywantsmeat
-syndication:
+syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2005/10/how-can-you-tell-when-youre-sick.html
 ---
