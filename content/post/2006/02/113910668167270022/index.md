@@ -6,6 +6,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2006/02/moved-again.html
 tags: []
 title: Moved again...
+slug: moved-again
 ---
 
 Hopefully for the last time ^_^<br /><br /><a href="http://roytang.net">http://roytang.net/blog</a><br /><br />Farewell blogger!
