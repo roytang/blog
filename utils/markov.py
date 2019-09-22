@@ -2,7 +2,7 @@ from pathlib import Path
 import re
 import random
 import frontmatter
-from datetime import datetime
+from datetime import datetime, timedelta
 
 START_OF_LINE = "AVeryLongMarkerForStartOfLine"
 END_OF_LINE = "AVeryLongMarkerForEndOfLine"
@@ -87,7 +87,7 @@ for i in range(0, random.randint(10, 20)):
 
 fm = frontmatter.Post("\n\r".join(content))
 fm['title'] = 'Markov Chain Demo'
-fm['date'] = datetime.now()
+fm['date'] = datetime.now() - timedelta(days=399) # subtract a random number of days so it doesnt appear in Onthisday and on the front page
 fm['url'] = '/demos/markov'
 fm['hidden'] = True
 
