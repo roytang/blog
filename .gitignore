@@ -4,5 +4,5 @@ temp.txt
 node_modules/
 utils/index/
 markov.md
-_gen/
+resources/_gen/
 *.pyc
