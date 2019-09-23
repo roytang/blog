@@ -1,10 +1,13 @@
 ---
 categories: []
 date: 2019-09-23 00:00:00
+slug: climate-strikes-back
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1175956234534608896/
 tags:
 - current events
 title: The Climate Strikes Back
-slug: climate-strikes-back
 type: post
 ---
 
