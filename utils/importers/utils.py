@@ -151,9 +151,9 @@ class MDSearcher:
         text = clean_string(text)
         daymatches = self.filesbyday.get(datestr, [])
         for m in daymatches:
-            if text.startswith(m['matchtext']):
+            if len(m['matchtext']) > 10 and text.startswith(m['matchtext']):
                 return m
-            if m['matchtext'].startswith(text):
+            if len(text) > 10 and m['matchtext'].startswith(text):
                 return m
         return None
 

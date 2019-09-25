@@ -12,10 +12,20 @@ from utils import loadurlmap, add_syndication, get_content, add_to_listmap, cont
 from utils import MDSearcher, URLResolver, PostBuilder, CommentBuilder
 urlmap = loadurlmap(False)
 postsfile = Path("d:\\temp\\fbposts.json")
+
 excludefile = Path("d:\\temp\\fb-exclude.json")
 excludes = []
 with excludefile.open() as f:
     excludes = json.loads(f.read())
+def exclude_id(fbid):
+    rawfbid = fbid
+    colonidx = fbid.rfind(":")
+    if colonidx >= 0:
+        rawfbid = fbid[:colonidx]
+    if rawfbid in excludes:
+        return True
+    return False
+
 
 def resolve_anchor(anchor):
     
@@ -49,9 +59,9 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
     with postsfile.open(encoding="UTF-8") as f:
         posts = json.loads(f.read())
         for post in posts:
-            colonidx = post["url"].rfind(":")
-            if colonidx >= 6: # ignore the one in https://
-                post["url"] = post["url"][:colonidx]
+            # colonidx = post["url"].rfind(":")
+            # if colonidx >= 6: # ignore the one in https://
+            #     post["url"] = post["url"][:colonidx]
             for m in post["media"]:
                 postsmap[m] = post
 
@@ -84,7 +94,7 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
             colonidx = fbid.find(":")
             if colonidx >= 0:
                 fbid = fbid[:colonidx]
-            if fbid in excludes:
+            if exclude_id(fbid):
                 continue
             fb_url = fb_url_template % (fbid)
             # Dec 15, 2015, 3:22 AM
@@ -111,10 +121,10 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
     for k in photosmap:
         v = photosmap[k]
         vpost = v[0]["post"] # post should be the same for all in the array
-        print(vpost)
+        # print(vpost)
         # check for syndication
         fb_url = vpost["url"]
-        # if fb_url != "https://www.facebook.com/stephen.roy.tang/posts/10155244681943912":
+        # if fb_url != "https://www.facebook.com/stephen.roy.tang/posts/10157444984478912":
         #     continue
         if fb_url in urlmap:
             # already syndicated, nothing to do
@@ -124,11 +134,9 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
 
         fb_id = fb_url.rfind("/")
         fb_id = fb_url[fb_id+1:]
-        if fb_id in excludes:
-            continue        
+        if exclude_id(fb_id):
+            continue
 
-        print(fb_id)
-        print(fb_url)
         # determine the overall caption for the post, if any
         date = datetime.strptime(vpost["date"], "%b %d, %Y, %I:%M %p")
         caption = None
@@ -158,7 +166,7 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
                 os.remove(info["file"])
         else:
             # unmatched, create new post
-            post = PostBuilder(fb_id, source="facebook", content=caption)
+            post = PostBuilder(fb_id.replace(":", "-"), source="facebook", content=caption)
             post.date = date
             post.kind = "photos"
             post.add_syndication("facebook", fb_url)
@@ -167,9 +175,6 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
                 post.media.append(photo_loc)
             post.tags.extend(tags)
             post.save()
-
-# import_photos("D:/temp/facebook/photos_and_videos/album/16.html", "file://d:/temp/facebook/%s", ["pickups"])
-# import_photos("D:/temp/facebook/photos_and_videos/album/23.html", "file://d:/temp/facebook/%s", ["timeline-photos"])
 
 def get_posts_data(posts_export_filepath):
     with Path(posts_export_filepath).open(encoding="UTF-8") as f:
@@ -199,7 +204,7 @@ def get_posts_data(posts_export_filepath):
                 if len(div.text) > 0:
                     caption = div.text
                     # clean tagged users
-                    parsed_tags = re.findall(r"@\[\d+:\d+:[A-Za-z\s\.\-]+\]", caption)
+                    parsed_tags = re.findall(r"@\[\d+:\d+:[A-Za-z\s\.\-\(\)]+\]", caption)
                     for tag in parsed_tags:
                         # remove outer @[] and split by :
                         tagparts = tag[2:-1].split(":")
@@ -226,5 +231,7 @@ def get_posts_data(posts_export_filepath):
 
 # get_posts_data("D:/temp/facebook/posts/your_posts_1.html")
 
-import_photos("D:/temp/facebook/photos_and_videos/album/14.html", "file://d:/temp/facebook/%s", ["timeline-photos"])
+# import_photos("D:/temp/facebook/photos_and_videos/album/16.html", "file://d:/temp/facebook/%s", ["pickups"])
+# import_photos("D:/temp/facebook/photos_and_videos/album/23.html", "file://d:/temp/facebook/%s", ["timeline-photos"])
+import_photos("D:/temp/facebook/photos_and_videos/album/14.html", "file://d:/temp/facebook/%s", ["mobile-uploads"])
 

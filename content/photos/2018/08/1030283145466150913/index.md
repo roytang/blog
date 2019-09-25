@@ -1,9 +1,11 @@
 ---
-date: 2018-08-17 02:40:18+00:00
+date: 2018-08-17 02:40:18
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1030283145466150913/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156852749978912
 ---
 
 Today's meeting doodle https://t.co/QnYAKdumFp
