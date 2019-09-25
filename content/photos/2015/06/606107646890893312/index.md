@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/606107646890893312/
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10153832905253912:0
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153832905253912
 tags: null
 ---
 
