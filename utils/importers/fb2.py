@@ -226,5 +226,5 @@ def get_posts_data(posts_export_filepath):
 
 # get_posts_data("D:/temp/facebook/posts/your_posts_1.html")
 
-import_photos("D:/temp/facebook/photos_and_videos/album/23.html", "file://d:/temp/facebook/%s", ["timeline-photos"])
+import_photos("D:/temp/facebook/photos_and_videos/album/14.html", "file://d:/temp/facebook/%s", ["timeline-photos"])
 

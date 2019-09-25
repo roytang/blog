@@ -7,7 +7,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1072846222283677696/
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10157118239468912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157118240223912
 tags:
 - dc comics
 - arrowverse

@@ -6,6 +6,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/181171084805/into-the-spider-verse-spoiler-free-review
 - type: twitter
   url: https://twitter.com/roytang/statuses/1074342469976903680/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1074362328882257921/
 tags:
 - spider-man
 - into the spider verse

@@ -8,6 +8,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/177168603375/heres-a-thing-i-started-doing-a-few-weeks-back
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156858795548912
+tags:
+- spider-man
 ---
 
-Here’s a thing I started doing a few weeks back https://t.co/gmefMFULZu
+Here’s a thing I started doing a few weeks back
