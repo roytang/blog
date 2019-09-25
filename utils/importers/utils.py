@@ -256,6 +256,26 @@ def get_content(content, resolver):
 
 class PostBuilder():
 
+    @staticmethod
+    def from_mdfile(mdfile):
+        id = mdfile.stem
+        mdpost = frontmatter.load(mdfile)
+        date = mdpost.get('date', datetime.now())
+        info = {
+            "date": date.strftime("%Y-%m-%d %H:%M:%S"),
+            "text": mdpost.content,
+            "matchtext": clean_string(mdpost.content),
+            "file": str(mdfile)
+        }
+        post = PostBuilder(id, content=mdpost.content, source=mdpost.get("source", ""))
+        post.kind = "gibberish" # require the caller to replace it, not easy to extract from the file (we can, pero katamad)
+        post.title = mdpost.get("title")
+        post.date = mdpost.get("date")
+        post.tags = mdpost.get("tags")
+        for syn in mdpost.get('syndicated', []):
+            post.add_syndication(syn['type'], syn['url'])
+        return post
+
     def __init__(self, id, content="", source=""):
         self.params = {}
         self.id = id # id is also the slug

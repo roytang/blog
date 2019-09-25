@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from datetime import datetime
 import frontmatter
-import re
+import re, os
 import string
 from urllib.parse import urlparse, parse_qs, urldefrag
 from urllib.error import HTTPError
@@ -123,8 +123,21 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
         if len(caption) > 0:
             info = searcher.find_by_day_and_text(datestr, caption)
         if info is not None:
-            for item in v:
+            if info["file"].find("photos") >= 0:
                 add_syndication(Path(info["file"]), fb_url, "facebook")
+            else:
+                # why is it in another folder? let's move it!
+                post = PostBuilder.from_mdfile(Path(info["file"]))
+                post.kind = "photos"
+                post.source = "facebook"
+                post.add_syndication("facebook", fb_url)
+                for item in v:
+                    photo_loc = photo_loc_template % (item["photo_location"])
+                    post.media.append(photo_loc)
+                post.save()
+                # delete the old file
+                os.remove(info["file"])
+
         else:
             pass
             # post = PostBuilder(first_id, source="facebook", content=caption)
