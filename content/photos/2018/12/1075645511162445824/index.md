@@ -9,7 +9,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1075645648400052225/
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10157135524038912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157135526798912
 ---
 
 Something to do: Every time you see an epal "there's no such thing as premature campaigning" ad from one of the devil's minions, share something about one of the lesser-known but better and vastly more deserving senatorial candidates. Here's senatorial candidate Chel Diokno https://t.co/8mJIsFxem7

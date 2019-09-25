@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1063809869646487553/
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10157059924898912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157059925123912
 ---
 
 Every time you fill up one of these Captchas you are contributing to the AI rebellion https://t.co/I7D6qDPACi

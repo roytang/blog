@@ -1,13 +1,15 @@
 ---
 date: 2018-12-12 21:43:00
-source: facebook
+source: tumblr
 syndicated:
-- type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10157118256658912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1072849384574984193/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1072849384574984193/
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181046297550/aquaman-spoiler-free-review-i-came-in-with-low
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157118257318912
 tags:
 - timeline-photos
 ---

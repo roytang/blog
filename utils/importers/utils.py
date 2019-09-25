@@ -92,17 +92,17 @@ def clean_string(str):
         return str
     # clean string for matching purposes
     str = html.unescape(str)
+    # remove markdown links
+    str = markdown_link.sub(r'\g<1>', str)
     # remove hashes for some silly plurk reason
     str = str.replace("#", "")
     # remove nonalpha
     str = re.sub(r'\W+', '', str)
-    # remove markdown links
-    str = markdown_link.sub(r'\g<1>', str)
     str = "".join(list(filter(lambda x: x in printable, str)))
     return str[0:100]
 
 
-excluded_kinds = ["archm", "archy"]
+excluded_kinds = ["archm", "archy", "links", "replies", "reposts"]
 class MDSearcher:
 
     def __init__(self, kind=None, resolver=None):

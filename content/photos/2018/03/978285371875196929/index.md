@@ -5,7 +5,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/978285371875196929/
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10156524461698912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156524461833912
 ---
 
 Programmers are... https://t.co/yHUmtZjk3I
