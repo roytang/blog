@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/847857947833008128/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155491364058912  
 ---
 
-Google maps right now https://t.co/EQmYqTFEqV
+Google maps right now 
