@@ -4,6 +4,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1031232678119526401/
+- type: tumblr
+  url: https://tumblr.roytang.net/post/177168603375/heres-a-thing-i-started-doing-a-few-weeks-back
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156858795548912
 ---
 
 Here’s a thing I started doing a few weeks back https://t.co/gmefMFULZu
