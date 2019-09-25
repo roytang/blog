@@ -8,4 +8,4 @@ tags:
 - pickups
 ---
 
-Link amiibo (c/o @[571733562:2048:Luis Formilleza]) vs Kenshin
+Link amiibo (c/o [Luis Formilleza](https://www.facebook.com/571733562)) vs Kenshin

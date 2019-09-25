@@ -91,9 +91,22 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
                 else:
                     print("#### Well, now what?")
         date = datetime.strptime(k, "%b %d, %Y, %I:%M %p")
+
+        # clean tagged users in caption
+        # @[< numeric id>:< something?? >:< name >]
+        # (@\[\d+:\d+:[A-Za-z\s]+\])
+        parsed_tags = re.findall(r"@\[\d+:\d+:[A-Za-z\s]+\]", caption)
+        for tag in parsed_tags:
+            # remove outer @[] and split by :
+            tagparts = tag[2:-1].split(":")
+            replacement = "[%s](https://www.facebook.com/%s)" % (tagparts[2], tagparts[0])
+            caption = caption.replace(tag, replacement)
         print(caption)
         datestr = date.strftime("%Y-%m-%d")
-        info = searcher.find_by_day_and_text(datestr, caption)
+        if caption is not None:
+            info = searcher.find_by_day_and_text(datestr, caption)
+        else:
+            caption = ""
         if info is not None:
             for item in v:
                 add_syndication(Path(info["file"]), item["fb_url"], "facebook")
