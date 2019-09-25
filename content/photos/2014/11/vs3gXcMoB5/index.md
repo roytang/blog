@@ -5,5 +5,7 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/vs3gXcMoB5/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153371331373912
 tags: []
 ---

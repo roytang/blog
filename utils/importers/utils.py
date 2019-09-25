@@ -303,6 +303,12 @@ class PostBuilder():
             self.post[param] = self.params[param]
         self.post["date"] = self.date
         self.post["source"] = self.source
+
+        parsed_tags = re.findall(r"\s#(\w+)", " " + self.post.content)
+        for tag in parsed_tags:
+            if tag not in self.tags:
+                self.tags.append(tag.lower())
+
         self.post["tags"] = self.tags
         if self.title is not None:
             self.post["title"] = self.title
@@ -318,11 +324,15 @@ class PostBuilder():
         for m in self.media:
             filename = m[m.rfind("/")+1:]
             download_to = outdir / filename
-            print("Downloading %s" % (m))
-            opener = urllib.request.build_opener()
-            opener.addheaders = [('User-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36')]
-            urllib.request.install_opener(opener)
-            urllib.request.urlretrieve(m, str(download_to))
+            if m.startswith("file://"):
+                filepath = Path(m.replace("file://", ""))
+                shutil.copy(str(filepath), str(download_to))    
+            else:
+                print("Downloading %s" % (m))
+                opener = urllib.request.build_opener()
+                opener.addheaders = [('User-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36')]
+                urllib.request.install_opener(opener)
+                urllib.request.urlretrieve(m, str(download_to))
 
     def get_source_path(self):
         return contentdir / self.kind / self.date.strftime("%Y") / self.date.strftime("%m") / self.id / "index.md"
