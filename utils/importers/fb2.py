@@ -12,9 +12,10 @@ from utils import loadurlmap, add_syndication, get_content, add_to_listmap, cont
 from utils import MDSearcher, URLResolver, PostBuilder, CommentBuilder
 urlmap = loadurlmap(False)
 postsfile = Path("d:\\temp\\fbposts.json")
-
-# with Path("d:\\temp\\anchors.json").open() as f:
-#     anchors = json.loads(f.read())
+excludefile = Path("d:\\temp\\fb-exclude.json")
+excludes = []
+with excludefile.open() as f:
+    excludes = json.loads(f.read())
 
 def resolve_anchor(anchor):
     
@@ -48,6 +49,9 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
     with postsfile.open(encoding="UTF-8") as f:
         posts = json.loads(f.read())
         for post in posts:
+            colonidx = post["url"].rfind(":")
+            if colonidx >= 6: # ignore the one in https://
+                post["url"] = post["url"][:colonidx]
             for m in post["media"]:
                 postsmap[m] = post
 
@@ -72,8 +76,16 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
                     nextdiv = a.find_next_sibling("div", {"class": "_3-95"})
                     if nextdiv is not None:
                         caption = nextdiv.text
+            # if not fb_url.startswith("https://www.facebook.com/photo.php?fbid=10157592577573912"):
+            #     continue
             u = urlparse(fb_url)
             fbid = parse_qs(u.query)['fbid'][0]
+            # remove the :N at the end of fb urls
+            colonidx = fbid.find(":")
+            if colonidx >= 0:
+                fbid = fbid[:colonidx]
+            if fbid in excludes:
+                continue
             fb_url = fb_url_template % (fbid)
             # Dec 15, 2015, 3:22 AM
             date = datetime.strptime(datestr, "%b %d, %Y, %I:%M %p")
@@ -88,7 +100,8 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
             if photo_location in postsmap:
                 # group by post url
                 photo["post"] = postsmap[photo_location]
-                add_to_listmap(photosmap, postsmap[photo_location]["url"], photo)
+                #photo["post"]["new_fb_url"] = fb_url
+                add_to_listmap(photosmap, fb_url, photo)
 
     # print(json.dumps(photosmap, indent=2))
     # return
@@ -98,6 +111,7 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
     for k in photosmap:
         v = photosmap[k]
         vpost = v[0]["post"] # post should be the same for all in the array
+        print(vpost)
         # check for syndication
         fb_url = vpost["url"]
         # if fb_url != "https://www.facebook.com/stephen.roy.tang/posts/10155244681943912":
@@ -110,6 +124,11 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
 
         fb_id = fb_url.rfind("/")
         fb_id = fb_url[fb_id+1:]
+        if fb_id in excludes:
+            continue        
+
+        print(fb_id)
+        print(fb_url)
         # determine the overall caption for the post, if any
         date = datetime.strptime(vpost["date"], "%b %d, %Y, %I:%M %p")
         caption = None
@@ -137,18 +156,17 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
                 post.save()
                 # delete the old file
                 os.remove(info["file"])
-
         else:
-            pass
-            # post = PostBuilder(first_id, source="facebook", content=caption)
-            # post.date = date
-            # post.kind = "photos"
-            # for item in v:
-            #     post.add_syndication("facebook", item["fb_url"])
-            #     photo_loc = photo_loc_template % (item["photo_location"])
-            #     post.media.append(photo_loc)
-            # post.tags.extend(tags)
-            # post.save()
+            # unmatched, create new post
+            post = PostBuilder(fb_id, source="facebook", content=caption)
+            post.date = date
+            post.kind = "photos"
+            post.add_syndication("facebook", fb_url)
+            for item in v:
+                photo_loc = photo_loc_template % (item["photo_location"])
+                post.media.append(photo_loc)
+            post.tags.extend(tags)
+            post.save()
 
 # import_photos("D:/temp/facebook/photos_and_videos/album/16.html", "file://d:/temp/facebook/%s", ["pickups"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/23.html", "file://d:/temp/facebook/%s", ["timeline-photos"])
