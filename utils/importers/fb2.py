@@ -234,4 +234,5 @@ def get_posts_data(posts_export_filepath):
 # import_photos("D:/temp/facebook/photos_and_videos/album/16.html", "file://d:/temp/facebook/%s", ["pickups"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/23.html", "file://d:/temp/facebook/%s", ["timeline-photos"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/14.html", "file://d:/temp/facebook/%s", ["mobile-uploads"])
-import_photos("D:/temp/facebook/photos_and_videos/album/17.html", "file://d:/temp/facebook/%s", ["ps4"])
+# import_photos("D:/temp/facebook/photos_and_videos/album/17.html", "file://d:/temp/facebook/%s", ["ps4"])
+import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
