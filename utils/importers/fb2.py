@@ -70,6 +70,7 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
     with Path(photo_export_filepath).open(encoding="UTF-8") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
         items = soup.findAll("div", {"class": "pam"})
+        count = 0
         for item in items:
             fb_url = ""
             photo_location = ""
@@ -88,6 +89,7 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
                         caption = nextdiv.text
             # if not fb_url.startswith("https://www.facebook.com/photo.php?fbid=10157592577573912"):
             #     continue
+            print(fb_url)
             u = urlparse(fb_url)
             fbid = parse_qs(u.query)['fbid'][0]
             # remove the :N at the end of fb urls
@@ -175,7 +177,8 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
                 post.media.append(photo_loc)
             post.tags.extend(tags)
             post.save()
-
+    print(count)
+    
 def get_posts_data(posts_export_filepath):
     with Path(posts_export_filepath).open(encoding="UTF-8") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
@@ -263,8 +266,7 @@ def import_status_updates():
                     syndicated = syndicated + 1
                     continue
                 count = count + 1
-                if caption.startswith("Retweeted"):
-                    print(caption)
+                print(caption)
 
     print(syndicated)
     print(count)
@@ -277,6 +279,7 @@ def import_status_updates():
 # import_photos("D:/temp/facebook/photos_and_videos/album/17.html", "file://d:/temp/facebook/%s", ["ps4"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
 
-import_status_updates()
+# import_status_updates()
 
 
+import_photos("D:/temp/facebook/photos_and_videos/album/7.html", "file://d:/temp/facebook/%s", [])
