@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BZYb6kjgJDM/
 - type: twitter
   url: https://twitter.com/roytang/statuses/911552480504369157/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156055527403912:0
 tags:
 - popquizph
 - hungrymeeples

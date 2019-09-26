@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/166294360580/inktober-day-10-gigantic-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/918167470493634561/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156101286448912:2
 tags:
 - Inktober
 - sketchdaily

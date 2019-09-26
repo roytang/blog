@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BbpHCDZFbpL/
 - type: twitter
   url: https://twitter.com/roytang/statuses/931913493770637312/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156194347148912:1
 tags:
 - popquizph
 ---

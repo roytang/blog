@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/Bd2fMkegZ85/
 - type: twitter
   url: https://twitter.com/roytang/statuses/951810598102339584/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156332741978912:0
 tags:
 - hkpf
 ---

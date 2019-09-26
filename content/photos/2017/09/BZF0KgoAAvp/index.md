@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/908931787883151360/
 - type: twitter
   url: https://twitter.com/roytang/statuses/908932684977602560/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156036537493912:0
 tags:
 - mtg
 ---

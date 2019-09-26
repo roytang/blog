@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BdFiELFgJQp/
 - type: twitter
   url: https://twitter.com/roytang/statuses/944920776897163265/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156286224778912:0
 tags:
 - nochebuena
 - '2017'

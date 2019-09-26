@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/172269434615/this-sketch-took-just-enough-time-for-the-meeting
 - type: twitter
   url: https://twitter.com/roytang/statuses/978213100569747456/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156523964368912:0
 tags:
 - transformers
 ---

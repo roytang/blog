@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/930152682383388673/
 - type: twitter
   url: https://twitter.com/roytang/statuses/930070284702449664/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156182000983912:0
 tags:
 - Legos
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/166109635000/hound-transformers
 - type: twitter
   url: https://twitter.com/roytang/statuses/916302977501188096/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156088502058912:0
 tags:
 - transformers
 ---

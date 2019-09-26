@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/174275192830/some-people-reminded-me-i-havent-drawn-anything
 - type: twitter
   url: https://twitter.com/roytang/statuses/1000416181612961792/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156662658908912:0
 tags: []
 ---
 

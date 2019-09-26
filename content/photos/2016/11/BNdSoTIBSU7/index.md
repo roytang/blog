@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/153886724410/antelope-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/804149327492956160/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155134744583912:0
 tags:
 - sketchdaily
 ---

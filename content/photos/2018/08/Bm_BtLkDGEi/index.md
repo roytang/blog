@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/177448673355/tiny-starwars-things-httpsifttt2wpr7e9
 - type: twitter
   url: https://twitter.com/roytang/statuses/1034082650846359552/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156876315533912:0
 tags:
 - StarWars
 ---

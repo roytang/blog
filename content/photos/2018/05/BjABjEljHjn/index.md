@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/174080188050/dread-it-run-from-it-destiny-still-arrives
 - type: twitter
   url: https://twitter.com/roytang/statuses/998191021770137600/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156649705453912:0
 tags: []
 ---
 

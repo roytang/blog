@@ -7,6 +7,8 @@ syndicated:
   url: https://instagram.com/p/BdpcO2lA05x/
 - type: twitter
   url: https://twitter.com/roytang/statuses/949974510014533633/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156321048748912:0
 tags:
 - dragonballz
 ---
