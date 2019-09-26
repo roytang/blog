@@ -240,20 +240,26 @@ def import_status_updates():
 
     count = 0
     syndicated = 0
-    searcher = MDSearcher()
+    resolver = URLResolver()
+    searcher = MDSearcher(resolver=resolver)
     with postsfile.open(encoding="UTF-8") as f:
         posts = json.loads(f.read())
         for post in posts:
+            if post["url"] in urlmap:
+                continue
+            # if post["url"].find("250030333254") <= 0:
+            #     continue
             if "Roy Tang updated his status." in post["headers"]:
-                print(post["caption"])
                 date = datetime.strptime(post['date'], "%b %d, %Y, %I:%M %p")
-                count = count + 1
                 caption = "\n\n".join(post["caption"])
                 datestr = date.strftime("%Y-%m-%d")
                 info = searcher.find_by_day_and_text(datestr, caption)
                 if info is not None:
                     add_syndication(Path(info["file"]), post["url"], "facebook")
                     syndicated = syndicated + 1
+                    continue
+                count = count + 1
+                # print(caption)
 
     print(syndicated)
     print(count)

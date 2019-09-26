@@ -1,4 +1,4 @@
-URL_CACHE_FILE = "d:\\temp\\twitter\\urlcache.json"
+URL_CACHE_FILE = "d:\\temp\\urlcache.json"
 
 import frontmatter
 import json
@@ -148,9 +148,10 @@ class MDSearcher:
     def get_daymatch(self, datestr, text):
         daymatches = self.filesbyday.get(datestr, [])
         for m in daymatches:
-            if len(m['matchtext']) > 10 and text.startswith(m['matchtext']):
+            matchtext = clean_string(m["matchtext"])
+            if len(matchtext) > 10 and text.startswith(matchtext):
                 return m
-            if len(text) > 10 and m['matchtext'].startswith(text):
+            if len(text) > 10 and matchtext.startswith(text):
                 return m
         return None
 
