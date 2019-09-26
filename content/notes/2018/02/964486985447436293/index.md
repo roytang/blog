@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/964486988857466885/
 - type: twitter
   url: https://twitter.com/roytang/statuses/964486990849699840/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156423012653912
 ---
 
 BLACK PANTHER spoiler-free review!
@@ -22,4 +24,5 @@ BLACK PANTHER spoiler-free review!
 
 - my expectations  were probably set a bit too high what with some people saying it's the  best MCU movie since Iron Man or calling it revolutionary or eye-opening
 - off the top of my head I consider Civil War, Spider-Man Homecoming and Thor Ragnarok better than this one (3/7)
--   I understand that it's revolutionary in the sense that it's a  major   hollowood motion picture filled with a cast of mostly african  descent   and that some of the characters are motivated by real world racial issues. (4/7)
+
+-   I understand that it's revolutionary in the sense that it's a  major   hollowood motion picture filled with a cast of mostly african  descent   and that some of the characters are motivated by real world racial issues. (4/7)

@@ -16,6 +16,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/946778700749578240/
 - type: twitter
   url: https://twitter.com/roytang/statuses/946778702536368128/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156299113278912
 ---
 
 In a quiet suburban neighborhood there was a lot that had been empty for years.
@@ -38,6 +40,7 @@ From the darkness beyond a tall figure emerged engulfed in a hooded cloak seemin
 
 They stared at each other for a long while, the hooded figure and the man in the suit.
  Finally, the hooded figure spoke in a deep voice that seemed to reverberate across the area.
-WHO DISTURBS MY REST, the voice boomed.
+
+WHO DISTURBS MY REST, the voice boomed.
  The man in the suit held a fist to his mouth and coughed before speaking.
  "Sir, I'm from city hall. You can't build a tower here, you're violating at least three zoning ordinances!"

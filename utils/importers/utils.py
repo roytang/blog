@@ -10,7 +10,7 @@ import sys
 from pathlib import Path
 import os, shutil
 import inspect
-from datetime import datetime
+from datetime import datetime, timedelta
 import re
 import html
 
@@ -145,10 +145,7 @@ class MDSearcher:
             self.filesbyday[datestr].append(info)
         print("## MDSearcher: Done building search index")
 
-    def find_by_day_and_text(self, datestr, text):
-        if self.resolver is not None:
-            text = self.resolver.replace_urls(text)
-        text = clean_string(text)
+    def get_daymatch(self, datestr, text):
         daymatches = self.filesbyday.get(datestr, [])
         for m in daymatches:
             if len(m['matchtext']) > 10 and text.startswith(m['matchtext']):
@@ -156,6 +153,23 @@ class MDSearcher:
             if len(text) > 10 and m['matchtext'].startswith(text):
                 return m
         return None
+
+    def find_by_day_and_text(self, datestr, text):
+        if self.resolver is not None:
+            text = self.resolver.replace_urls(text)
+        text = clean_string(text)
+        date = datetime.strptime(datestr, "%Y-%m-%d")
+        m = self.get_daymatch(datestr, text)
+        # if not found, try +/- one day to account for tz shiz
+        if m is None:
+            dateplus = date + timedelta(days=1)
+            dateplus = dateplus.strftime("%Y-%m-%d")
+            m = self.get_daymatch(dateplus, text)
+        if m is None:
+            dateminus = date + timedelta(days=-1)
+            dateminus = dateminus.strftime("%Y-%m-%d")
+            m = self.get_daymatch(dateminus, text)
+        return m
 
     def find_by_month_and_text(self, datestr, text):
         if self.resolver is not None:

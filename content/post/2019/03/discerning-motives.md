@@ -5,6 +5,8 @@ date: 2019-03-21 05:56:56
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1108609656723787776/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157328707358912
 tags:
 - politics
 - Philippines

@@ -211,6 +211,12 @@ def get_posts_data(posts_export_filepath):
                         replacement = "[%s](https://www.facebook.com/%s)" % (tagparts[2], tagparts[0])
                         caption = caption.replace(tag, replacement)
                     captions.append(caption)
+            headers = []
+            divs = item.find_all("div", {"class": "_2lel"})
+            for div in divs:
+                if len(div.text) > 0:
+                    header = div.text
+                    headers.append(header)
             u = urlparse(fb_url)
             params = parse_qs(u.query)
             if 'fbid' in params:
@@ -223,11 +229,34 @@ def get_posts_data(posts_export_filepath):
                 "url": fb_url,
                 "date": datestr,
                 "media": media,
+                "headers": headers,
                 "caption": captions,
                 "other_urls": other_urls
             })
         with postsfile.open("w", encoding="UTF-8") as f:
             f.write(json.dumps(posts, indent=2))
+
+def import_status_updates():
+
+    count = 0
+    syndicated = 0
+    searcher = MDSearcher()
+    with postsfile.open(encoding="UTF-8") as f:
+        posts = json.loads(f.read())
+        for post in posts:
+            if "Roy Tang updated his status." in post["headers"]:
+                print(post["caption"])
+                date = datetime.strptime(post['date'], "%b %d, %Y, %I:%M %p")
+                count = count + 1
+                caption = "\n\n".join(post["caption"])
+                datestr = date.strftime("%Y-%m-%d")
+                info = searcher.find_by_day_and_text(datestr, caption)
+                if info is not None:
+                    add_syndication(Path(info["file"]), post["url"], "facebook")
+                    syndicated = syndicated + 1
+
+    print(syndicated)
+    print(count)
 
 # get_posts_data("D:/temp/facebook/posts/your_posts_1.html")
 
@@ -235,4 +264,6 @@ def get_posts_data(posts_export_filepath):
 # import_photos("D:/temp/facebook/photos_and_videos/album/23.html", "file://d:/temp/facebook/%s", ["timeline-photos"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/14.html", "file://d:/temp/facebook/%s", ["mobile-uploads"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/17.html", "file://d:/temp/facebook/%s", ["ps4"])
-import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
+# import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
+
+import_status_updates()
