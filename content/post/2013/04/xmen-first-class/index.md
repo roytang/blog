@@ -2,6 +2,9 @@
 date: 2013-04-06 13:03:36
 slug: xmen-first-class
 source: ireadcomicbooks
+syndicated:
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152178706118912
 tags:
 - comics
 title: X-Men First Class

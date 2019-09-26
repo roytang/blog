@@ -247,19 +247,24 @@ def import_status_updates():
         for post in posts:
             if post["url"] in urlmap:
                 continue
-            # if post["url"].find("250030333254") <= 0:
+            # if post["url"].find("10156784754818912") <= 0:
             #     continue
             if "Roy Tang updated his status." in post["headers"]:
                 date = datetime.strptime(post['date'], "%b %d, %Y, %I:%M %p")
                 caption = "\n\n".join(post["caption"])
                 datestr = date.strftime("%Y-%m-%d")
-                info = searcher.find_by_day_and_text(datestr, caption)
+
+                search_text = caption
+                # "Retweeted Mo Twister (@djmotwister):" -> "RT @djmotwister"
+                search_text = re.sub(r"(Retweeted [^(]+)\(([^\)]+)\)", r"RT \2", search_text)
+                info = searcher.find_by_day_and_text(datestr, search_text)
                 if info is not None:
                     add_syndication(Path(info["file"]), post["url"], "facebook")
                     syndicated = syndicated + 1
                     continue
                 count = count + 1
-                # print(caption)
+                if caption.startswith("Retweeted"):
+                    print(caption)
 
     print(syndicated)
     print(count)
@@ -273,3 +278,4 @@ def import_status_updates():
 # import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
 
 import_status_updates()
+

@@ -13,6 +13,9 @@ import inspect
 from datetime import datetime, timedelta
 import re
 import html
+from bs4 import BeautifulSoup
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
 
 cwd = Path(os.environ['HUGO_BLOG_SRCDIR'])
 contentdir = cwd / "content"
@@ -91,7 +94,10 @@ def clean_string(str):
     if str is None or len(str) == 0:
         return str
     # clean string for matching purposes
+    # strip html entities
     str = html.unescape(str)
+    # strip html tags
+    str = BeautifulSoup(str, "html.parser").text
     # remove markdown links
     str = markdown_link.sub(r'\g<1>', str)
     # remove hashes for some silly plurk reason
@@ -102,7 +108,7 @@ def clean_string(str):
     return str[0:100]
 
 
-excluded_kinds = ["archm", "archy", "links", "replies", "reposts"]
+excluded_kinds = ["archm", "archy", "links", "replies"]
 class MDSearcher:
 
     def __init__(self, kind=None, resolver=None):
@@ -149,6 +155,7 @@ class MDSearcher:
         daymatches = self.filesbyday.get(datestr, [])
         for m in daymatches:
             matchtext = clean_string(m["matchtext"])
+            # print(matchtext)
             if len(matchtext) > 10 and text.startswith(matchtext):
                 return m
             if len(text) > 10 and matchtext.startswith(text):
@@ -159,6 +166,7 @@ class MDSearcher:
         if self.resolver is not None:
             text = self.resolver.replace_urls(text)
         text = clean_string(text)
+        # print(text)
         date = datetime.strptime(datestr, "%Y-%m-%d")
         m = self.get_daymatch(datestr, text)
         # if not found, try +/- one day to account for tz shiz
