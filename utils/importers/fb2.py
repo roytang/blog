@@ -252,11 +252,19 @@ def import_status_updates():
                 continue
             # if post["url"].find("123163401028086") <= 0:
             #     continue
+            fb_id = Path(post["url"]).stem            
+            print(fb_id)
+            print(fb_id in excludes)
+            if fb_id in excludes:
+                continue
+            print("Proceeding!")
             if "Roy Tang updated his status." in post["headers"]:
                 date = datetime.strptime(post['date'], "%b %d, %Y, %I:%M %p")
                 caption = ""
                 if len(post["caption"]) > 0:
                     caption = post["caption"][0]
+                else:
+                    continue
                 datestr = date.strftime("%Y-%m-%d")
 
                 # resolve urls
@@ -291,7 +299,6 @@ def import_status_updates():
                     continue
                 else:
                     # unmatched, create new post
-                    fb_id = Path(post["url"]).stem
                     p = PostBuilder(fb_id.replace(":", "-"), source="facebook", content=caption)
                     p.date = date
                     p.add_syndication("facebook", post["url"])

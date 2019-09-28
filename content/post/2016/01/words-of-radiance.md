@@ -6,7 +6,7 @@ syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1537966035
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10154298736098912  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154305211688912  
 tags:
 - books
 - stormlight archive
