@@ -90,9 +90,12 @@ def import_photos(photo_export_filepath, photo_loc_template, tags, merge=False):
                         caption = nextdiv.text
             # if not fb_url.startswith("https://www.facebook.com/photo.php?fbid=10157592577573912"):
             #     continue
-            # print(fb_url)
             u = urlparse(fb_url)
-            fbid = parse_qs(u.query)['fbid'][0]
+            qparams = parse_qs(u.query)
+            if 'fbid' in qparams:
+                fbid = parse_qs(u.query)['fbid'][0]
+            else:
+                fbid = Path(fb_url).stem
             # remove the :N at the end of fb urls
             colonidx = fbid.find(":")
             if colonidx >= 0:
@@ -423,7 +426,8 @@ def get_post_stats(posts_export_filepath):
 # import_photos("D:/temp/facebook/photos_and_videos/album/17.html", "file://d:/temp/facebook/%s", ["ps4"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/7.html", "file://d:/temp/facebook/%s", [])
-import_photos("D:/temp/facebook/photos_and_videos/album/10.html", "file://d:/temp/facebook/%s", ["travels", "london2015"], merge=True)
+# import_photos("D:/temp/facebook/photos_and_videos/album/10.html", "file://d:/temp/facebook/%s", ["travels", "london2015"], merge=True)
+import_photos("D:/temp/facebook/photos_and_videos/album/24.html", "file://d:/temp/facebook/%s", ["travels", "japan2017"], merge=True)
 
 # import_status_updates()
 
