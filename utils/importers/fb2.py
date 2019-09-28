@@ -52,7 +52,8 @@ def resolve_anchor(anchor):
 
 from bs4 import BeautifulSoup
 
-def import_photos(photo_export_filepath, photo_loc_template, tags):
+## merge: combine posts where applicable
+def import_photos(photo_export_filepath, photo_loc_template, tags, merge=False):
 
     # load the posts data for use in grouping the photos under a post id
     postsmap = {}
@@ -118,6 +119,21 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
     # print(json.dumps(photosmap, indent=2))
     # return
 
+    if merge:
+        oldphotosmap = photosmap
+        photosmap = {}
+        # Rewrite the photosmap
+        for k in oldphotosmap:
+            v = oldphotosmap[k]
+            for photo in v:
+                post_url = photo["post"]["url"]
+                colonidx = post_url.rfind(":")
+                if colonidx > 10: # ignore the colon in https://
+                    post_url = post_url[:colonidx]
+                    photo["post"]["url"] = post_url
+                    photo["post"]["caption"] = "" 
+                add_to_listmap(photosmap, post_url, photo)
+
     searcher = MDSearcher()
     count = 0
     for k in photosmap:
@@ -172,9 +188,17 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
             post.date = date
             post.kind = "photos"
             post.add_syndication("facebook", fb_url)
+            resources = []
             for item in v:
                 photo_loc = photo_loc_template % (item["photo_location"])
                 post.media.append(photo_loc)
+                if item["caption"] != caption:
+                    resources.append({
+                        "src": Path(item["photo_location"]).name,
+                        "title": item["caption"]
+                    })
+            if len(resources) > 0:
+                post.params["resources"] = resources
             post.tags.extend(tags)
             post.save()
     print(count)
@@ -399,7 +423,7 @@ def get_post_stats(posts_export_filepath):
 # import_photos("D:/temp/facebook/photos_and_videos/album/17.html", "file://d:/temp/facebook/%s", ["ps4"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/7.html", "file://d:/temp/facebook/%s", [])
-import_photos("D:/temp/facebook/photos_and_videos/album/8.html", "file://d:/temp/facebook/%s", ["japan2015"])
+import_photos("D:/temp/facebook/photos_and_videos/album/10.html", "file://d:/temp/facebook/%s", ["travels", "london2015"], merge=True)
 
 # import_status_updates()
 
