@@ -7,4 +7,6 @@ syndicated:
 tags: []
 ---
 
-Duterte: puro 75 ang grade ko Miriam: ang presidente dapat may academic excellence
+Duterte: puro 75 ang grade ko 
+
+Miriam: ang presidente dapat may academic excellence
