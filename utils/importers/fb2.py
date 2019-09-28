@@ -427,7 +427,8 @@ def get_post_stats(posts_export_filepath):
 # import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/7.html", "file://d:/temp/facebook/%s", [])
 # import_photos("D:/temp/facebook/photos_and_videos/album/10.html", "file://d:/temp/facebook/%s", ["travels", "london2015"], merge=True)
-import_photos("D:/temp/facebook/photos_and_videos/album/24.html", "file://d:/temp/facebook/%s", ["travels", "japan2017"], merge=True)
+# import_photos("D:/temp/facebook/photos_and_videos/album/24.html", "file://d:/temp/facebook/%s", ["travels", "japan2017"], merge=True)
+import_photos("D:/temp/facebook/photos_and_videos/album/5.html", "file://d:/temp/facebook/%s", ["travels", "europe", "europe2015"], merge=True)
 
 # import_status_updates()
 
