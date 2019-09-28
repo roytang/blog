@@ -250,7 +250,7 @@ def import_status_updates():
         for post in posts:
             if post["url"] in urlmap:
                 continue
-            # if post["url"].find("10156592015618912") <= 0:
+            # if post["url"].find("123163401028086") <= 0:
             #     continue
             if "Roy Tang updated his status." in post["headers"]:
                 date = datetime.strptime(post['date'], "%b %d, %Y, %I:%M %p")
@@ -290,7 +290,7 @@ def import_status_updates():
                     syndicated = syndicated + 1
                     continue
                 else:
-                    # # unmatched, create new post
+                    # unmatched, create new post
                     # fb_id = Path(post["url"]).stem
                     # p = PostBuilder(fb_id.replace(":", "-"), source="facebook", content=caption)
                     # p.date = date

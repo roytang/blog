@@ -96,6 +96,11 @@ def clean_string(str):
     if str is None or len(str) == 0:
         return str
     # clean string for matching purposes
+
+    # make sure we are not frustrated by http => https redirects
+    # just make everything https
+    str = str.replace("http://", "https://")
+    str = urllib.parse.unquote(str)
     # strip html entities
     str = html.unescape(str)
     # strip html tags
@@ -157,7 +162,7 @@ class MDSearcher:
         daymatches = self.filesbyday.get(datestr, [])
         for m in daymatches:
             matchtext = clean_string(m["matchtext"])
-            # print(matchtext)
+            #print(matchtext)
             if len(matchtext) > 10 and text.startswith(matchtext):
                 return m
             if len(text) > 10 and matchtext.startswith(text):
@@ -168,7 +173,7 @@ class MDSearcher:
         if self.resolver is not None:
             text = self.resolver.replace_urls(text)
         text = clean_string(text)
-        # print(text)
+        #print(text)
         date = datetime.strptime(datestr, "%Y-%m-%d")
         m = self.get_daymatch(datestr, text)
         # if not found, try +/- one day to account for tz shiz
