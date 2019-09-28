@@ -89,7 +89,7 @@ def import_photos(photo_export_filepath, photo_loc_template, tags):
                         caption = nextdiv.text
             # if not fb_url.startswith("https://www.facebook.com/photo.php?fbid=10157592577573912"):
             #     continue
-            print(fb_url)
+            # print(fb_url)
             u = urlparse(fb_url)
             fbid = parse_qs(u.query)['fbid'][0]
             # remove the :N at the end of fb urls
@@ -311,6 +311,86 @@ def import_status_updates():
     print(syndicated)
     print(count)
 
+def get_post_stats(posts_export_filepath):
+    countbyheader = {}
+    countbyyear = {}
+    with Path(posts_export_filepath).open(encoding="UTF-8") as f:
+        soup = BeautifulSoup(f.read(), "html.parser")
+        posts = []
+        items = soup.findAll("div", {"class": "pam"})
+        for item in items:
+            media = []
+            other_urls = []
+            anchors = item.find_all('a')
+            for a in anchors:
+                url = a["href"]
+                #print(url)
+                if url.find("https://www.facebook.com") >= 0:
+                    # fb_url = resolve_anchor(url)
+                    fb_url = url
+                    datestr = a.text
+                elif url.startswith("photos_and_videos"):
+                    media.append(url)
+                    # nextdiv = a.find_next_sibling("div", {"class": "_3-95"})
+                    # if nextdiv is not None:
+                    #     caption = nextdiv.text
+                else:
+                    other_urls.append(url)
+            captions = []
+            divs = item.find_all("div", {"class": "_2pin"})
+            for div in divs:
+                if len(div.text) > 0:
+                    caption = div.text
+                    captions.append(caption)
+            headers = []
+            divs = item.find_all("div", {"class": "_2lel"})
+            for div in divs:
+                if len(div.text) > 0:
+                    header = div.text
+                    headers.append(header)
+            # # Dec 15, 2015, 3:22 AM
+            date = datetime.strptime(datestr, "%b %d, %Y, %I:%M %p")
+            posts.append({
+                "url": fb_url,
+                "date": datestr,
+                "media": media,
+                "headers": headers,
+                "caption": captions,
+                "other_urls": other_urls
+            })
+            year = date.strftime("%Y")
+            countbyyear[year] = countbyyear.get(year, 0) + 1
+            # if "Roy Tang updated his status." in headers:
+            #     countbyyear[year] = countbyyear.get(year, 0) + 1
+            for header in headers:
+                if header.startswith("Roy Tang wrote on ") and header.endswith("'s timeline."):
+                    header = "Roy Tang wrote on someone's timeline."
+                elif header.startswith("Roy Tang posted ") and header.endswith(" on Tumblr."):
+                    header = "Roy Tang posted something on Tumblr."
+                elif header.startswith("Roy Tang reviewed ") and header.endswith(" on Goodreads — "):
+                    header = "Roy Tang reviewed a book on Goodreads."
+                elif header.startswith("Roy Tang finished reading ") and header.endswith(" on Goodreads — "):
+                    header = "Roy Tang finished reading a book on Goodreads."
+                elif header.startswith("Roy Tang finished reading ") and header.endswith(" on Goodreads."):
+                    header = "Roy Tang finished reading a book on Goodreads."
+                elif header.startswith("Roy Tang listened to ") and header.endswith(" on Spotify."):
+                    header = "Roy Tang listened to a track on Spotify."
+                elif header.startswith("Roy Tang was traveling "):
+                    header = "Roy Tang was travelling somewhere."
+                elif header.startswith("Roy Tang was watching "):
+                    header = "Roy Tang was watching something."
+                elif header.startswith("Roy Tang posted in "):
+                    header = "Roy Tang posted to a group."
+                countbyheader[header] = countbyheader.get(header, 0) + 1
+    print("Count by header:")
+    for h in countbyheader:
+        print("\t%d: %s" % (countbyheader[h], h))
+    print("Count by year:")
+    for h in countbyyear:
+        print("\t%d: %s" % (countbyyear[h], h))
+    print("Total posts: %d" % (len(posts)))
+
+# get_post_stats("D:/temp/facebook/posts/your_posts_1.html")
 # get_posts_data("D:/temp/facebook/posts/your_posts_1.html")
 
 # import_photos("D:/temp/facebook/photos_and_videos/album/16.html", "file://d:/temp/facebook/%s", ["pickups"])
@@ -319,7 +399,7 @@ def import_status_updates():
 # import_photos("D:/temp/facebook/photos_and_videos/album/17.html", "file://d:/temp/facebook/%s", ["ps4"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/7.html", "file://d:/temp/facebook/%s", [])
+import_photos("D:/temp/facebook/photos_and_videos/album/8.html", "file://d:/temp/facebook/%s", ["japan2015"])
 
-import_status_updates()
-
+# import_status_updates()
 

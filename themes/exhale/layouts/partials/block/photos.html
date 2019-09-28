@@ -41,7 +41,7 @@
 {{ $figcaption := $scratch.Get "figcaption" }}
 
 {{ if $link_url }}<a href="{{ $link_url }}" title="{{ $figcaption }}">{{ end }}
-<figure>
+<figure id="{{ .Name | safeURL }}">
 <img 
 {{/*
   sizes="(min-width: 35em) 1200px, 100vw"
