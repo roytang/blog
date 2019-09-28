@@ -56,6 +56,8 @@ def loadurlmap(cleanupdupes=False):
                         else:
                             urlmap[su] = u1
             urlmap[u] = u1
+            if 'full_url' in u1:
+                urlmap[u1["full_url"]] = u1
             title = u1.get("title", "").strip()
             if len(title) > 0:
                 urlmap[title] = u1
@@ -363,7 +365,6 @@ class PostBuilder():
         newfile = frontmatter.dumps(self.post)
         with outfile.open("w", encoding="UTF-8") as w:
             w.write(newfile)
-        # copy over any media from the reply as well
         for m in self.media:
             filename = m[m.rfind("/")+1:]
             download_to = outdir / filename

@@ -254,19 +254,52 @@ def import_status_updates():
             #     continue
             if "Roy Tang updated his status." in post["headers"]:
                 date = datetime.strptime(post['date'], "%b %d, %Y, %I:%M %p")
-                caption = "\n\n".join(post["caption"])
+                caption = ""
+                if len(post["caption"]) > 0:
+                    caption = post["caption"][0]
                 datestr = date.strftime("%Y-%m-%d")
+
+                # resolve urls
+                raw_urls = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', caption)
+                urlmatched = False
+                for raw_url in raw_urls:
+                    expanded_url, no_errors = resolver.get_final_url(raw_url)
+                    caption = caption.replace(raw_url, expanded_url)
+                    if expanded_url.find("://roytang.net") >= 0:
+                        info = urlmap.get(expanded_url)
+                        if info is not None:
+                            add_syndication(urlmap_to_mdfile(info), post["url"], "facebook")
+                            syndicated = syndicated + 1
+                            urlmatched = True
+                            continue
+                        else:
+                            print("##### Unmatched roytang url!")
+                            print(expanded_url)
+                            print(post)
+
+                if urlmatched:
+                    continue
 
                 search_text = caption
                 # "Retweeted Mo Twister (@djmotwister):" -> "RT @djmotwister"
                 search_text = re.sub(r"(Retweeted [^@]+)([^\)]+)\)", r"RT \2", search_text)
                 info = searcher.find_by_day_and_text(datestr, search_text)
+                # info = None
                 if info is not None:
                     add_syndication(Path(info["file"]), post["url"], "facebook")
                     syndicated = syndicated + 1
                     continue
+                else:
+                    # # unmatched, create new post
+                    # fb_id = Path(post["url"]).stem
+                    # p = PostBuilder(fb_id.replace(":", "-"), source="facebook", content=caption)
+                    # p.date = date
+                    # p.add_syndication("facebook", post["url"])
+                    # p.save()
+                    pass
+
                 count = count + 1
-                print(caption)
+                #print(caption)
 
     print(syndicated)
     print(count)
@@ -278,8 +311,8 @@ def import_status_updates():
 # import_photos("D:/temp/facebook/photos_and_videos/album/14.html", "file://d:/temp/facebook/%s", ["mobile-uploads"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/17.html", "file://d:/temp/facebook/%s", ["ps4"])
 # import_photos("D:/temp/facebook/photos_and_videos/album/29.html", "file://d:/temp/facebook/%s", ["ios-photos"])
+# import_photos("D:/temp/facebook/photos_and_videos/album/7.html", "file://d:/temp/facebook/%s", [])
 
-# import_status_updates()
+import_status_updates()
 
 
-import_photos("D:/temp/facebook/photos_and_videos/album/7.html", "file://d:/temp/facebook/%s", [])

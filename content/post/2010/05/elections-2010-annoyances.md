@@ -2,14 +2,16 @@
 author: Roy
 categories: []
 date: 2010-05-10 02:15:38
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/13702419244/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/125711517443787
 tags:
 - Philippines
 title: Elections 2010 -- Annoyances
 type: post
 url: /2010/05/elections-2010-annoyances/
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/13702419244/
 ---
 
 Expect long lines, hot and sweaty rooms and maybe disorganized Comelec. Here are some other annoyances I encountered (just a quick brain dump):

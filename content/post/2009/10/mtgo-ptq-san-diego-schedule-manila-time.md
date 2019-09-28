@@ -1,14 +1,16 @@
 ---
 categories: []
 date: 2009-10-08 14:57:28
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/4710457907/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/148460495892
 tags:
 - Magic the Gathering
 title: MTGO PTQ San Diego Schedule (Manila Time)
 type: post
 url: /2009/10/mtgo-ptq-san-diego-schedule-manila-time/
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/4710457907/
 ---
 
 The following are M10 sealed:

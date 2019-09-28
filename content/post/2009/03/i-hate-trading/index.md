@@ -1,14 +1,16 @@
 ---
 categories: []
 date: 2009-03-21 10:58:34
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1365442557/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/58383229143
 tags:
 - Magic the Gathering
 title: I Hate Trading
 type: post
 url: /2009/03/i-hate-trading/
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/1365442557/
 ---
 
 For the record: I hate trading.

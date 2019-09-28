@@ -2,14 +2,16 @@
 author: Roy
 categories: []
 date: 2010-05-07 13:38:50
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/13612799085/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/124192574260413
 tags:
 - Philippines
 title: Elections 2010 -- My Ballot
 type: post
 url: /2010/05/elections-2010-my-ballot/
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/13612799085/
 ---
 
 For President, I'm voting **Dick Gordon**, because I believe that the Philippines should be a meritocracy where people are chosen as leaders based on the strength of their accomplishments and qualifications.

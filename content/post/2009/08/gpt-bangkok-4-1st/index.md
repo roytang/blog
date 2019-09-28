@@ -1,14 +1,16 @@
 ---
 categories: []
 date: 2009-08-03 13:54:33
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/3105223995/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/111199742706
 tags:
 - Magic the Gathering
 title: 'GPT Bangkok #4 *1st*'
 type: post
 url: /2009/08/gpt-bangkok-4-1st/
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/3105223995/
 ---
 
 [Grand Prix Bangkok][1] happens three weekends from now, and I've already booked the flight and hotel. All I need now are byes!
