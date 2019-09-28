@@ -7,4 +7,10 @@ syndicated:
 tags: []
 ---
 
-Avengers Infinity War Spoiler Free Review:  - I'm amazed that so little of this movie has been widely spoiled - movie was fantastic. the movie somehow managed to do everything it needed to do while not doing disservice to any of the bazillion characters involved.  - the plot moves quickly. there is no good time to pee. - there is one post-credits scene. - very happy to have watched in imax
+Avengers Infinity War Spoiler Free Review:
+
+- I'm amazed that so little of this movie has been widely spoiled
+- movie was fantastic. the movie somehow managed to do everything it needed to do while not doing disservice to any of the bazillion characters involved.
+- the plot moves quickly. there is no good time to pee.
+- there is one post-credits scene.
+- very happy to have watched in imax

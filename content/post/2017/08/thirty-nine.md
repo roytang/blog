@@ -7,6 +7,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/163968954100/thirty-nine
 - type: twitter
   url: https://twitter.com/roytang/statuses/895113929877278722/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155938045863912
 tags:
 - birthday
 title: Thirty Nine

@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156973753303912
-tags: []
+tags: 
+- lyrics
 ---
 
 Saan ka nagtungo, tumila na ang ambon sana man lang naghintay kahit na konting sandali

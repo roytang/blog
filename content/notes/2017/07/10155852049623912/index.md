@@ -7,4 +7,6 @@ syndicated:
 tags: []
 ---
 
-Celebrity couple who are living together: bad example daw dahil sa influence nila  Political leader who makes rapes jokes and openly talks about wanting to kill people: no comment
+Celebrity couple who are living together: bad example daw dahil sa influence nila  
+
+Political leader who makes rapes jokes and openly talks about wanting to kill people: no comment

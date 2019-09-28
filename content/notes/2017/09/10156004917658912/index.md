@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156004917658912
-tags: []
+tags: 
+- lyrics
 ---
 
 Someday you will find me Caught beneath a landslide
