@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155041890913912
-tags: []
+tags: 
+- movies
 ---
 
 DOCTOR STRANGE Spoiler-free review:

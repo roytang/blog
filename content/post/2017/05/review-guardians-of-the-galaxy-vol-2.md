@@ -7,6 +7,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/160248397455/review-guardians-of-the-galaxy-vol-2
 - type: twitter
   url: https://twitter.com/roytang/statuses/859598652574236676/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155588909688912
 tags:
 - Movies
 - Review
