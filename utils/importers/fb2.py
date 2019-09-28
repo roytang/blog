@@ -291,11 +291,11 @@ def import_status_updates():
                     continue
                 else:
                     # unmatched, create new post
-                    # fb_id = Path(post["url"]).stem
-                    # p = PostBuilder(fb_id.replace(":", "-"), source="facebook", content=caption)
-                    # p.date = date
-                    # p.add_syndication("facebook", post["url"])
-                    # p.save()
+                    fb_id = Path(post["url"]).stem
+                    p = PostBuilder(fb_id.replace(":", "-"), source="facebook", content=caption)
+                    p.date = date
+                    p.add_syndication("facebook", post["url"])
+                    p.save()
                     pass
 
                 count = count + 1
