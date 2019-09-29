@@ -5,14 +5,15 @@
 <section class="h-feed">
     <a class="u-url" href="/"></a>
     <h1 class="p-name">Recent activity</h1>
-{{ $paginator := .Paginate (where .Site.RegularPages "Section" "!=" "page") }}
-{{ range ($paginator.Pages).GroupByDate .Site.Data.Formats.date }}
-    <h3>{{ .Key }}</h3>
-    {{ range .Pages }}
-        {{ .Render "list_item" }}
+    {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}    
+    {{ $paginator := .Paginate $pages }}
+    {{ range ($paginator.Pages).GroupByDate .Site.Data.Formats.date }}
+        <h3>{{ .Key }}</h3>
+        {{ range .Pages }}
+            {{ .Render "list_item" }}
+        {{ end }}
     {{ end }}
-{{ end }}
-{{ partial "pagination" . }}
+    {{ partial "pagination" . }}
 </section>
 
 <p>Want to read more? Browse <a href="/post/">ALL THE POSTS</a>!</p>
