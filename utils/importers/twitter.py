@@ -479,6 +479,8 @@ def cleanup_videos():
                     # delete all the video files except for the one with the lowest bitrate
                     mdfile = urlmap_to_mdfile(info)
                     container = mdfile.parent
+                    print(mdfile)
+                    continue
                     for v in videos:
                         if v == lowest_video:
                             continue

@@ -142,6 +142,7 @@ def import_photos(photo_export_filepath, photo_loc_template, tags, merge=False):
     for k in photosmap:
         v = photosmap[k]
         vpost = v[0]["post"] # post should be the same for all in the array
+        print(vpost)
         # print(vpost)
         # check for syndication
         fb_url = vpost["url"]
@@ -153,10 +154,10 @@ def import_photos(photo_export_filepath, photo_loc_template, tags, merge=False):
         #print(fb_url)
         count = count + 1
 
-        fb_id = fb_url.rfind("/")
-        fb_id = fb_url[fb_id+1:]
+        fb_id = Path(fb_url).name
         if exclude_id(fb_id):
             continue
+        print(fb_id)
 
         # determine the overall caption for the post, if any
         date = datetime.strptime(vpost["date"], "%b %d, %Y, %I:%M %p")
@@ -428,7 +429,8 @@ def get_post_stats(posts_export_filepath):
 # import_photos("D:/temp/facebook/photos_and_videos/album/7.html", "file://d:/temp/facebook/%s", [])
 # import_photos("D:/temp/facebook/photos_and_videos/album/10.html", "file://d:/temp/facebook/%s", ["travels", "london2015"], merge=True)
 # import_photos("D:/temp/facebook/photos_and_videos/album/24.html", "file://d:/temp/facebook/%s", ["travels", "japan2017"], merge=True)
-import_photos("D:/temp/facebook/photos_and_videos/album/5.html", "file://d:/temp/facebook/%s", ["travels", "europe", "europe2015"], merge=True)
+# import_photos("D:/temp/facebook/photos_and_videos/album/5.html", "file://d:/temp/facebook/%s", ["travels", "europe", "europe2015"], merge=True)
+import_photos("D:/temp/facebook/photos_and_videos/your_videos.html", "file://d:/temp/facebook/%s", ["videos"])
 
 # import_status_updates()
 
