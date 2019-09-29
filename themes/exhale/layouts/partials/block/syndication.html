@@ -1,4 +1,6 @@
-
+{{ with .Params.source }}
+/ via <a href="/source/{{ . }}" title="View all entries from {{ . }}">{{ . }}</a>
+{{ end }}
 {{ with .Params.syndicated }}
 / Syndicated: 
 {{ range . }}
