@@ -203,9 +203,29 @@ table.grid_archive a {
 
 /* Pagination */
 
+.pagination {
+    font-size: 0.9rem;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.pagination .page_numbers {
+    padding: 0.3rem;
+}
+
+@media (min-width: 550px) {
+    .pagination {
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .pagination .page_numbers {
+        text-align: right;
+    }
+}
+
 .pagination a {
     text-decoration: none;
-    padding: 0.3rem;
+    padding: 0.2rem;
     background-color: var(--second-container-color);
     border: 1px var(--second-color) solid;
     margin: 4px;

@@ -3,39 +3,44 @@
 {{ if gt $pag.TotalPages 1 }}
 <div class="pagination">
 
-{{ if and (not (eq $pag $pag.First)) (not (eq $pag.Prev $pag.First)) }}
-<a aria-label="Newest" href="{{ $baseurl }}{{ $pag.First.URL }}">
-  <span aria-hidden="true">Newest</span>
-</a>
-{{ end }}
+<div class="arrows">
+  {{ if and (not (eq $pag $pag.First)) (not (eq $pag.Prev $pag.First)) }}
+  <a aria-label="{{ .Site.Data.Strings.first }}" href="{{ $baseurl }}{{ $pag.First.URL }}">
+    <span aria-hidden="true">{{ .Site.Data.Strings.first }}</span>
+  </a>
+  {{ end }}
 
-{{ if $pag.HasPrev }}
-<a aria-label="Newer" href="{{ if $pag.HasPrev }}{{ $baseurl }}{{ $pag.Prev.URL }}{{ else }}#{{ end }}">
-  <span aria-hidden="true">Newer</span>
-</a>
-{{ end }}
+  {{ if $pag.HasPrev }}
+  <a aria-label="{{ .Site.Data.Strings.previous }}" href="{{ if $pag.HasPrev }}{{ $baseurl }}{{ $pag.Prev.URL }}{{ else }}#{{ end }}">
+    <span aria-hidden="true">{{ .Site.Data.Strings.previous }}</span>
+  </a>
+  {{ end }}
 
-<span>Page {{ $pag.PageNumber }} of {{ $pag.Last.PageNumber }}</span>
+  {{ if $pag.HasNext }}
+  <a aria-label="{{ .Site.Data.Strings.next }}" href="{{ if $pag.HasNext }}{{ $baseurl }}{{ $pag.Next.URL }}{{ else }}#{{ end }}">
+    <span aria-hidden="true">{{ .Site.Data.Strings.next }}</span>
+  </a>
+  {{ end }}
 
-<select onchange="console.log('Change'); console.log(this.value); window.location=this.value;">
-  <option>Jump to page</option>
-{{ range $pag.Pagers }}
-<option value="{{ $baseurl }}{{ .URL }}">
-    {{ .PageNumber }}{{ if eq . $pag }} (current){{ end }}
-</option>
-{{ end }}
-</select>
-
-{{ if $pag.HasNext }}
-<a{{ if not $pag.HasNext }} class="disabled"{{ end }} aria-label="Older" href="{{ if $pag.HasNext }}{{ $baseurl }}{{ $pag.Next.URL }}{{ else }}#{{ end }}">
-  <span aria-hidden="true">Older</span>
-</a>
-{{ end }}
-
-{{ if and (not (eq $pag $pag.Last)) (not (eq $pag.Next $pag.Last)) }}
-<a aria-label="Oldest" href="{{ $baseurl }}{{ $pag.Last.URL }}">
-  <span aria-hidden="true">Oldest</span>
-</a>
+  {{ if and (not (eq $pag $pag.Last)) (not (eq $pag.Next $pag.Last)) }}
+  <a aria-label="{{ .Site.Data.Strings.last }}" href="{{ $baseurl }}{{ $pag.Last.URL }}">
+    <span aria-hidden="true">{{ .Site.Data.Strings.last }}</span>
+  </a>
+  {{ end }}
 </div>
-{{ end }}
+
+<div class="page_numbers">
+  <span>Page {{ $pag.PageNumber }} of {{ $pag.Last.PageNumber }}</span>
+
+  <select onchange="if (this.value.length > 0) window.location=this.value;">
+    <option>Jump to page</option>
+  {{ range $pag.Pagers }}
+  <option value="{{ $baseurl }}{{ .URL }}">
+      {{ .PageNumber }}{{ if eq . $pag }} (current){{ end }}
+  </option>
+  {{ end }}
+  </select>
+</div>
+
+</div>
 {{ end }}
