@@ -1,5 +1,5 @@
-SOURCE_FILE = "D:\\temp\\roy_mtg-twitter\\tweet.js"
-TWITTER_USERNAME = 'roy_mtg'
+SOURCE_FILE = "D:\\temp\\twitter\\tweet.js"
+TWITTER_USERNAME = 'roytang'
 auto_tags = ["mtg"]
 syndicated_sources = ["IFTTT", "Tumblr", "instagram.com", "Mailchimp", "Twitter Web", "TweetDeck", "mtgstorm"]
 debug_id = None
@@ -453,5 +453,44 @@ def thread_replies():
             idx = idx + 1
         print(idx)
 
+from utils import urlmap_to_mdfile
+
+def cleanup_videos():
+    with Path(SOURCE_FILE).open(encoding='utf-8') as f:
+        d = json.load(f)
+        idx = 0
+        for d1 in d:
+            orig_tweet_url = "https://twitter.com/%s/statuses/%s/" % (TWITTER_USERNAME, d1["id_str"])
+            info = urlmap.get(orig_tweet_url)
+            if info is None:
+                continue
+            for m in d1.get("extended_entities", {}).get("media", []):
+                if "video_info" in m:
+                    videos = []
+                    lowest_bitrate = 1000000000000
+                    lowest_video = ""
+                    for vi in m["video_info"]["variants"]:
+                        if 'bitrate' in vi:
+                            videos.append(vi["url"])
+                            bitrate = int(vi['bitrate'])
+                            if bitrate < lowest_bitrate:
+                                lowest_video = vi["url"]
+                                lowest_bitrate = bitrate
+                    # delete all the video files except for the one with the lowest bitrate
+                    mdfile = urlmap_to_mdfile(info)
+                    container = mdfile.parent
+                    for v in videos:
+                        if v == lowest_video:
+                            continue
+                        name = Path(v).name
+                        if name.find("?") >= 0:
+                            name = name.split("?")[0]
+                        vfilename = d1["id_str"] + "-" + name
+                        vfile = container / vfilename
+                        print(vfile)
+                        os.remove(str(vfile))
+
 # thread_replies()
-import_all()
+# import_all()
+
+cleanup_videos()

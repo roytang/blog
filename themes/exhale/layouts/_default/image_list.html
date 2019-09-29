@@ -9,5 +9,7 @@
       <img src="{{ $thumb.RelPermalink }}" alt="{{ $caption }}" title="{{ $caption }}" />
     </figure>
 </a>
-
+{{ end }}
+{{ range .Resources.Match "*.mp4" }}
+<video id="{{ .Name | safeURL }}" src="{{ .RelPermalink }}" controls></video>
 {{ end }}

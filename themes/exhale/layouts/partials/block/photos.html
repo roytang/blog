@@ -71,3 +71,7 @@
 </figure>  
 {{ if $link_url }}</a>{{ end }}
 {{ end }}
+
+{{ range .Resources.Match "*.mp4" }}
+<video id="{{ .Name | safeURL }}" src="{{ .RelPermalink }}" controls></video>
+{{ end }}
