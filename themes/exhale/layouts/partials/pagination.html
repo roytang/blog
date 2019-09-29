@@ -2,26 +2,40 @@
 {{ $pag := .Paginator }}
 {{ if gt $pag.TotalPages 1 }}
 <div class="pagination">
-<a aria-label="First" href="{{ $baseurl }}{{ $pag.First.URL }}">
-  <span aria-hidden="true">««</span>
-</a>
 
-<a{{ if not $pag.HasPrev }} class="disabled"{{ end }} aria-label="Previous" href="{{ if $pag.HasPrev }}{{ $baseurl }}{{ $pag.Prev.URL }}{{ else }}#{{ end }}">
-  <span aria-hidden="true">«</span>
-</a>
-
-{{ range $pag.Pagers }}
-<a{{ if eq . $pag }} class="active"{{ end }} href="{{ $baseurl }}{{ .URL }}">
-  {{ .PageNumber }}
+{{ if and (not (eq $pag $pag.First)) (not (eq $pag.Prev $pag.First)) }}
+<a aria-label="Newest" href="{{ $baseurl }}{{ $pag.First.URL }}">
+  <span aria-hidden="true">Newest</span>
 </a>
 {{ end }}
 
-<a{{ if not $pag.HasNext }} class="disabled"{{ end }} aria-label="Next" href="{{ if $pag.HasNext }}{{ $baseurl }}{{ $pag.Next.URL }}{{ else }}#{{ end }}">
-  <span aria-hidden="true">»</span>
+{{ if $pag.HasPrev }}
+<a aria-label="Newer" href="{{ if $pag.HasPrev }}{{ $baseurl }}{{ $pag.Prev.URL }}{{ else }}#{{ end }}">
+  <span aria-hidden="true">Newer</span>
 </a>
+{{ end }}
 
-<a aria-label="Last" href="{{ $baseurl }}{{ $pag.Last.URL }}">
-  <span aria-hidden="true">»»</span>
+<span>Page {{ $pag.PageNumber }} of {{ $pag.Last.PageNumber }}</span>
+
+<select onchange="console.log('Change'); console.log(this.value); window.location=this.value;">
+  <option>Jump to page</option>
+{{ range $pag.Pagers }}
+<option value="{{ $baseurl }}{{ .URL }}">
+    {{ .PageNumber }}{{ if eq . $pag }} (current){{ end }}
+</option>
+{{ end }}
+</select>
+
+{{ if $pag.HasNext }}
+<a{{ if not $pag.HasNext }} class="disabled"{{ end }} aria-label="Older" href="{{ if $pag.HasNext }}{{ $baseurl }}{{ $pag.Next.URL }}{{ else }}#{{ end }}">
+  <span aria-hidden="true">Older</span>
+</a>
+{{ end }}
+
+{{ if and (not (eq $pag $pag.Last)) (not (eq $pag.Next $pag.Last)) }}
+<a aria-label="Oldest" href="{{ $baseurl }}{{ $pag.Last.URL }}">
+  <span aria-hidden="true">Oldest</span>
 </a>
 </div>
+{{ end }}
 {{ end }}

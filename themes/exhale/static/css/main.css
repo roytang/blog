@@ -206,6 +206,9 @@ table.grid_archive a {
 .pagination a {
     text-decoration: none;
     padding: 0.3rem;
+    background-color: var(--second-container-color);
+    border: 1px var(--second-color) solid;
+    margin: 4px;
 }
 
 .pagination .active {
