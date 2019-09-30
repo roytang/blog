@@ -7,7 +7,7 @@
 <h2 class="p-name">On this day</h2>
 
 {{ $slice := slice }}
-{{ range (.Site.RegularPages) }}
+{{ range (where site.RegularPages "Type" "in" site.Params.mainSections) }}
     {{ if and (eq (.Date.Format "02") $archDay) (eq (.Date.Format "January") $archMonth) }}
         {{ $slice = $slice | append . }}
     {{ end }}

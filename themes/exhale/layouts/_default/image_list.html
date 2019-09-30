@@ -2,7 +2,7 @@
 {{ $caption := .Summary }}
 {{ $scratch := newScratch }}
 {{ range .Resources.ByType "image" }}
-{{ $scratch.Set "thumbnail" (.Resize "200x") }}
+{{ $scratch.Set "thumbnail" (.Resize "300x") }}
 {{ $thumb := $scratch.Get "thumbnail" }}
 <a href="{{ $mainPermalink }}#{{ .Name | safeURL }}">
     <figure>

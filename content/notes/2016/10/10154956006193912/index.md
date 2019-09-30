@@ -8,6 +8,7 @@ tags: []
 ---
 
 Luke Cage spoiler-free review:
+
 - this is an unapologetically very black show. It highlights black culture, black music, black history, and so on
 - gang violence, sleazy politicians, corrupt cops
 - most of the cast give great performances
