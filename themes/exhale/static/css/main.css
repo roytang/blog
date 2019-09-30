@@ -415,7 +415,11 @@ hr {
 
 div.image-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, 33%);
+}
+
+div.image-list figure {
+    margin: 0.5rem;
 }
 
 div.image-list a {
@@ -424,6 +428,7 @@ div.image-list a {
 
 div.image-list img {
     box-shadow: 1px 1px 0 0 var(--second-color);    
+    width: 100%;
 }
   
 div.comment {
