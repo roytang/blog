@@ -3,44 +3,44 @@
 {{ if gt $pag.TotalPages 1 }}
 <div class="pagination">
 
-<div class="arrows">
-  {{ if and (not (eq $pag $pag.First)) (not (eq $pag.Prev $pag.First)) }}
-  <a aria-label="{{ .Site.Data.Strings.first }}" href="{{ $baseurl }}{{ $pag.First.URL }}">
-    <span aria-hidden="true">{{ .Site.Data.Strings.first }}</span>
-  </a>
-  {{ end }}
+  <div class="page_numbers">
+    <span>Page {{ $pag.PageNumber }} of {{ $pag.Last.PageNumber }}</span>
+  
+    <select onchange="if (this.value.length > 0) window.location=this.value;">
+      <option>Jump to page</option>
+    {{ range $pag.Pagers }}
+    <option value="{{ $baseurl }}{{ .URL }}">
+        {{ .PageNumber }}{{ if eq . $pag }} (current){{ end }}
+    </option>
+    {{ end }}
+    </select>
+  </div>
+  
+  <div class="arrows">
+    {{ if and (not (eq $pag $pag.First)) (not (eq $pag.Prev $pag.First)) }}
+    <a aria-label="{{ .Site.Data.Strings.first }}" href="{{ $baseurl }}{{ $pag.First.URL }}">
+      <span aria-hidden="true">{{ .Site.Data.Strings.first }}</span>
+    </a>
+    {{ end }}
 
-  {{ if $pag.HasPrev }}
-  <a aria-label="{{ .Site.Data.Strings.previous }}" href="{{ if $pag.HasPrev }}{{ $baseurl }}{{ $pag.Prev.URL }}{{ else }}#{{ end }}">
-    <span aria-hidden="true">{{ .Site.Data.Strings.previous }}</span>
-  </a>
-  {{ end }}
+    {{ if $pag.HasPrev }}
+    <a aria-label="{{ .Site.Data.Strings.previous }}" href="{{ if $pag.HasPrev }}{{ $baseurl }}{{ $pag.Prev.URL }}{{ else }}#{{ end }}">
+      <span aria-hidden="true">{{ .Site.Data.Strings.previous }}</span>
+    </a>
+    {{ end }}
 
-  {{ if $pag.HasNext }}
-  <a aria-label="{{ .Site.Data.Strings.next }}" href="{{ if $pag.HasNext }}{{ $baseurl }}{{ $pag.Next.URL }}{{ else }}#{{ end }}">
-    <span aria-hidden="true">{{ .Site.Data.Strings.next }}</span>
-  </a>
-  {{ end }}
+    {{ if $pag.HasNext }}
+    <a aria-label="{{ .Site.Data.Strings.next }}" href="{{ if $pag.HasNext }}{{ $baseurl }}{{ $pag.Next.URL }}{{ else }}#{{ end }}">
+      <span aria-hidden="true">{{ .Site.Data.Strings.next }}</span>
+    </a>
+    {{ end }}
 
-  {{ if and (not (eq $pag $pag.Last)) (not (eq $pag.Next $pag.Last)) }}
-  <a aria-label="{{ .Site.Data.Strings.last }}" href="{{ $baseurl }}{{ $pag.Last.URL }}">
-    <span aria-hidden="true">{{ .Site.Data.Strings.last }}</span>
-  </a>
-  {{ end }}
-</div>
-
-<div class="page_numbers">
-  <span>Page {{ $pag.PageNumber }} of {{ $pag.Last.PageNumber }}</span>
-
-  <select onchange="if (this.value.length > 0) window.location=this.value;">
-    <option>Jump to page</option>
-  {{ range $pag.Pagers }}
-  <option value="{{ $baseurl }}{{ .URL }}">
-      {{ .PageNumber }}{{ if eq . $pag }} (current){{ end }}
-  </option>
-  {{ end }}
-  </select>
-</div>
+    {{ if and (not (eq $pag $pag.Last)) (not (eq $pag.Next $pag.Last)) }}
+    <a aria-label="{{ .Site.Data.Strings.last }}" href="{{ $baseurl }}{{ $pag.Last.URL }}">
+      <span aria-hidden="true">{{ .Site.Data.Strings.last }}</span>
+    </a>
+    {{ end }}
+  </div>
 
 </div>
 {{ end }}
