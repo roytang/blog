@@ -17,7 +17,7 @@ import os, shutil
 import inspect
 from datetime import datetime
 import re
-from utils import loadurlmap, load_map_from_json, URLResolver
+from utils import loadurlmap, load_map_from_json, URLResolver, PostBuilder
 
 cwd = Path.cwd()
 contentdir = cwd / "content"
@@ -476,11 +476,21 @@ def cleanup_videos():
                             if bitrate < lowest_bitrate:
                                 lowest_video = vi["url"]
                                 lowest_bitrate = bitrate
-                    # delete all the video files except for the one with the lowest bitrate
+                    
                     mdfile = urlmap_to_mdfile(info)
-                    container = mdfile.parent
-                    print(mdfile)
+                    if str(mdfile).find("\\photos\\") >= 0:
+                        print(mdfile)
+                        # move it to notes, since it's not a photo
+                        p = PostBuilder.from_mdfile(mdfile)
+                        p.kind = "notes"
+                        p.save() 
+                        # delete the old files
+                        container = mdfile.parent
+                        for f in container.iterdir():
+                            os.remove(str(f))
+                        container.rmdir()
                     continue
+                    # delete all the video files except for the one with the lowest bitrate
                     for v in videos:
                         if v == lowest_video:
                             continue
@@ -491,6 +501,7 @@ def cleanup_videos():
                         vfile = container / vfilename
                         print(vfile)
                         os.remove(str(vfile))
+                    
 
 # thread_replies()
 # import_all()

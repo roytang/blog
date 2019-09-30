@@ -289,6 +289,8 @@ class PostBuilder():
     @staticmethod
     def from_mdfile(mdfile):
         id = mdfile.stem
+        if mdfile.name == "index.md":
+            id = mdfile.parent.stem
         mdpost = frontmatter.load(mdfile)
         date = mdpost.get('date', datetime.now())
         info = {
@@ -304,6 +306,14 @@ class PostBuilder():
         post.tags = mdpost.get("tags")
         for syn in mdpost.get('syndicated', []):
             post.add_syndication(syn['type'], syn['url'])
+        # also copy over all the extra files in the source bundle
+        if mdfile.name == "index.md":
+            container = mdfile.parent
+            for f in container.iterdir():
+                if f.name != mdfile.name:
+                    filepath = "file://%s" % (str(f))
+                    filepath = filepath.replace("\\", "/")
+                    post.media.append(filepath)
         return post
 
     def __init__(self, id, content="", source=""):
@@ -373,6 +383,11 @@ class PostBuilder():
         for m in self.media:
             filename = m[m.rfind("/")+1:]
             download_to = outdir / filename
+            print(self.kind)
+            print(self.id)
+            print(outdir)
+            print(filename)
+            print(download_to)
             if m.startswith("file://"):
                 filepath = Path(m.replace("file://", ""))
                 shutil.copy(str(filepath), str(download_to))    
