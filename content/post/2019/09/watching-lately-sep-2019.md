@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-09-30
 slug: watching-lately-sep-2019
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1178474950673522688/
 tags:
 - Pop Culture
 - Movies
