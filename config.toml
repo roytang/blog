@@ -23,11 +23,11 @@ enableGitInfo = true
 
 [permalinks]
     post = "/:year/:month/:slug/"
-    photos = "/:year/:month/:slug/"
-    notes = "/:year/:month/:slug/"
-    links = "/:year/:month/:slug/"
-    replies = "/:year/:month/:slug/"
-    reposts = "/:year/:month/:slug/"
+    photos = "/:year/:month/:filename/"
+    notes = "/:year/:month/:filename/"
+    links = "/:year/:month/:filename/"
+    replies = "/:year/:month/:filename/"
+    reposts = "/:year/:month/:filename/"
     archm = "/:year/:month/"
     archy = "/:year/"    
 
