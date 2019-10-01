@@ -42,8 +42,16 @@
 {{ end }}
 {{ end }}
 
+
+{{ range .Params.syndicated }}
+    {{ if eq .type "twitter" }}
+    <a href="{{ .url }}">Share or reply to this post on Twitter</a>. Replies will appear as comments in this section.
+    {{ end }}
+{{ end }}
+
+{{ if eq .Section "post" }}
 {{ if .Site.Params.comments_endpoint }}
-<div id="comments-form-title"><h3>Leave a comment</h3></div>
+<div id="comments-form-title"><h3>You can submit a comment via the form below</h3></div>
 <form id="comments-form" action="{{ .Site.Params.comments_endpoint }}" method="POST">
     <p><input name="name" placeholder="Your name" required /><input name="url" placeholder="Your URL (optional)" /></p>
     <p><textarea name="content" required placeholder="Your comment (markdown supported). Comments will be reviewed before appearing on the site." rows="3"></textarea></p>
@@ -65,6 +73,7 @@
 
     <button type="submit" >Submit your comment</button>
 </form>
+{{ end }}
 {{ end }}
 
 {{ $webmentionTarget := .Permalink }}
