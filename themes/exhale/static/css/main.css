@@ -488,3 +488,24 @@ form input, form textarea, form button {
     box-shadow: none;
 }
 
+.section-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.section-list li {
+    display: block;
+    background-color: var(--container-color);
+    box-shadow: 1px 1px 0 0 var(--second-color);   
+    margin: 0.5rem;
+    padding: 0.5rem;     
+}
+
+@media (min-width: 550px) {
+    .section-list {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}

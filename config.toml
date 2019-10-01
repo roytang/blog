@@ -23,6 +23,11 @@ enableGitInfo = true
 
 [permalinks]
     post = "/:year/:month/:slug/"
+    photos = "/:year/:month/:slug/"
+    notes = "/:year/:month/:slug/"
+    links = "/:year/:month/:slug/"
+    replies = "/:year/:month/:slug/"
+    reposts = "/:year/:month/:slug/"
     archm = "/:year/:month/"
     archy = "/:year/"    
 
@@ -44,7 +49,7 @@ enableGitInfo = true
     micropub_endpoint = 'https://apps.roytang.net/blog/micropub'
     recaptcha_key = '6Ld80rMUAAAAAIKde9k3z7KtfmjHSwT48S_Cy5-k'
     sourceFileBase = 'https://github.com/roytang/blog/tree/master/content/'
-    mainSections = ["post", "link", "photos", "replies", "reposts", "notes"]
+    mainSections = ["post", "notes", "photos", "replies", "reposts", "links"]
 
     # can use markdown here
     hero_text = """**Roy Tang** is a:

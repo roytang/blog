@@ -1,0 +1,8 @@
+<ul class="section-list">
+{{ $sections := .Site.Data.Sections }}
+{{ $pages := .Site.RegularPages }}
+{{ range .Site.Params.mainSections }}
+  {{ $section := index $sections . }}
+  <li><a href="/{{ . }}">{{ $section.label }}</a> {{ $section.descrip }} ({{ len (where $pages "Section" "==" . ) }} items)</li>
+{{ end }}
+</ul>

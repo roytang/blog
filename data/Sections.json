@@ -1,0 +1,26 @@
+{
+    "post": {
+        "label": "Posts",
+        "descrip": "Traditional blog posts, usually longer than other types, with a title."
+    },
+    "photos": {
+        "label": "Photos",
+        "descrip": "Photos, sketches, screenshots, and definitely memes."
+    },
+    "notes": {
+        "label": "Notes",
+        "descrip": "Microblog-like status updates."
+    },
+    "replies": {
+        "label": "Replies",
+        "descrip": "Replies to content on other sites."
+    },
+    "reposts": {
+        "label": "Reposts",
+        "descrip": "Reposts of content from other sites."
+    },
+    "links": {
+        "label": "Links",
+        "descrip": "Shared links."
+    }
+}
