@@ -2,7 +2,7 @@
 date: 2019-09-05 16:02:46
 geo: ''
 location: ''
-source: micropub
+source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/B2CRe0FB4BX/
