@@ -1,6 +1,6 @@
 {{ partial "head" . }}
   <section class="h-feed">
-      <p class="p-name">Archives of content imported from other sites</p>
+      <p class="p-name">Archives of content imported from other sites.</p><p><a href="/2019/10/archive-of-my-own/">Explanation</a></p>
 <ul class="section-list">
   {{ range .Paginator.Pages }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>: {{ .Params.description |markdownify }}</li>

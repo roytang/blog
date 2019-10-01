@@ -12,16 +12,8 @@
         "URL": "/links/"
     },
     { 
-        "Name": "Tags",
-        "URL": "/tags/"
-    },
-    { 
         "Name": "Archives",
         "URL": "/archives/"
-    },
-    { 
-        "Name": "Resume",
-        "URL": "/resume/"
     },
     { 
         "Name": "About",

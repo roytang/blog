@@ -498,7 +498,7 @@ form input, form textarea, form button {
 
 .section-list li {
     display: block;
-    background-color: var(--container-color);
+    background-color: var(--second-container-color);
     box-shadow: 1px 1px 0 0 var(--second-color);   
     margin: 0.5rem;
     padding: 0.5rem;     

@@ -7,6 +7,7 @@ tags:
 - tech life
 - indieweb
 - social media
+- changelog
 title: 'An Archive of My Own'
 type: post
 draft: true
