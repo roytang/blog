@@ -1,0 +1,12 @@
+{{ partial "head" . }}
+  <section class="h-feed">
+      <p class="p-name">Archives of content imported from other sites</p>
+<ul class="section-list">
+  {{ range .Paginator.Pages }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>: {{ .Params.description |markdownify }}</li>
+  {{ end }}
+</ul>  
+  {{ partial "pagination" . }}
+</section>
+{{ partial "block/hero" . }}
+{{ partial "foot" . }}
