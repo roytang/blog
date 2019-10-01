@@ -6,6 +6,9 @@ tags:
 title: Killer-killer
 type: post
 url: /2008/02/killer-killer/
+tags:
+- meatspace-games
+- favorites
 ---
 
 During a recent out-of-town trip I observed that despite the abundance of digital entertainment available (what with all the NDS and PSP owners bringing the goods, not to mention some people bringing a Wii), some people still got together to play some face-to-face IRL games. I'm talking the types of games that are not easily translatable into digital format and will probably remain so for quite a while.

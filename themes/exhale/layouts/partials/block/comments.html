@@ -43,48 +43,52 @@
 {{ end }}
 
 
+<div class="feedback">If you enjoyed my content for some reason, I'd love to hear from you! Here are some options:
+<ul>
 {{ range .Params.syndicated }}
     {{ if eq .type "twitter" }}
-    <a href="{{ .url }}">Share or reply to this post on Twitter</a>. Replies will appear as comments in this section.
+    <li>You can <a href="{{ .url }}">share or reply to this post on Twitter</a>. Replies will appear as comments in this section.</li>
     {{ end }}
 {{ end }}
-
 {{ if eq .Section "post" }}
 {{ if .Site.Params.comments_endpoint }}
-<div id="comments-form-title"><h3>You can submit a comment via the form below</h3></div>
+<li>You can submit a comment using the form below.
 <form id="comments-form" action="{{ .Site.Params.comments_endpoint }}" method="POST">
-    <p><input name="name" placeholder="Your name" required /><input name="url" placeholder="Your URL (optional)" /></p>
-    <p><textarea name="content" required placeholder="Your comment (markdown supported). Comments will be reviewed before appearing on the site." rows="3"></textarea></p>
-
-    {{ if .Site.Params.recaptcha_key }}
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-    <script>
-        var form = document.getElementById('comments-form');
-        form.addEventListener("submit", function(event){
-            if (grecaptcha.getResponse() === '') {                            
-            event.preventDefault();
-            alert('Please check the recaptcha');
+        <p><input name="name" placeholder="Your name" required /><input name="url" placeholder="Your URL (optional)" /></p>
+        <p><textarea name="content" required placeholder="Your comment (markdown supported). Comments will be reviewed before appearing on the site." rows="3"></textarea></p>
+    
+        {{ if .Site.Params.recaptcha_key }}
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+        <script>
+            var form = document.getElementById('comments-form');
+            form.addEventListener("submit", function(event){
+                if (grecaptcha.getResponse() === '') {                            
+                event.preventDefault();
+                alert('Please check the recaptcha');
+                }
             }
-        }
-        , false);
-    </script>
-    <div class="g-recaptcha" data-sitekey="{{ .Site.Params.recaptcha_key }}" data-size="compact"></div>
-    {{ end }}
-
-    <button type="submit" >Submit your comment</button>
-</form>
+            , false);
+        </script>
+        <div class="g-recaptcha" data-sitekey="{{ .Site.Params.recaptcha_key }}" data-size="compact"></div>
+        {{ end }}
+    
+        <button type="submit" >Submit your comment</button>
+    </form>
+</li>    
+{{ end }}    
 {{ end }}
-{{ end }}
-
 {{ $webmentionTarget := .Permalink }}
 {{ with .Site.Params.webmention_username }}  
-<div id="webmention-form-title"><h3>Leave a webmention (experimental)</h3></div>
-<form id="webmention-form" action="https://webmention.io/{{ . }}/webmention" method="POST">
-    <input name="target" value="{{ $webmentionTarget }}" type="hidden" />
-    <input name="source" placeholder="Your URL that mentions this page" style="width:400px" required />
-    <button type="submit" >Submit</button>
-</form>
+<li>You can write a reply on your own site and submit the URL as a <a href="https://indieweb.org/webmention">webmention</a> via the form below. (Experimental!)
+    <form id="webmention-form" action="https://webmention.io/{{ . }}/webmention" method="POST">
+        <input name="target" value="{{ $webmentionTarget }}" type="hidden" />
+        <input name="source" placeholder="Your URL that mentions this page" style="width:400px" required />
+        <button type="submit" >Submit</button>
+    </form>
+</li>
 {{ end }}
+<li>Or you can just <a href="mailto:{{ .Site.Author.email }}">email me</a>!</li>
+</ul>
 </div>
 
 {{ end }}

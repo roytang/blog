@@ -9,6 +9,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/961417890678403072/
 tags:
 - Tech Life
+- favorites
 title: Globe's Fair Use Policy and the "Rotten Bananas", four years later
 type: post
 url: /2018/02/globes-fair-use-policy-and-the-rotten-bananas-four-years-after/

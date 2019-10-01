@@ -9,6 +9,7 @@ tags:
 - reddit
 - Software Development
 - Philippines
+- favorites
 title: 'Reddit PH: Software Dev Q&A'
 type: post
 ---

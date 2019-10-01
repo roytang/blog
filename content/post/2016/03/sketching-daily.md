@@ -8,6 +8,8 @@ syndicated:
 title: Sketching Daily
 type: post
 url: /2016/03/sketching-daily/
+tags:
+- favorites
 ---
 
 I've had a bit more free time recently, and I've been filling that time by starting up some hobbies (some old, some new). One of them has been sketching. I've been drawing things for as long as I remember -- I have elementary and high school notebooks with more doodles and x-men drawings than there are notes. And even at work, I often find other meeting participants checking out the random sketches I had been absently doing while other people were speaking.

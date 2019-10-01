@@ -8,7 +8,7 @@
 <h3>{{ .Key }}</h3>
 <ul>
     {{ range where .Pages "Kind" "page" }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a> <small>{{ .Date.Format "Mon, Jan 2, 2006" }}</small></li>
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a> <small>{{ .Date.Format "Mon, Jan 2, 2006" }} ({{ .WordCount }} words)</small></li>
     {{ end }}
 </ul>
 {{ end }}

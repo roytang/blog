@@ -509,3 +509,8 @@ form input, form textarea, form button {
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
+
+.feedback {
+    margin: 1rem;
+    font-size: 0.9rem;
+}
