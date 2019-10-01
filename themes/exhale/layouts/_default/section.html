@@ -1,0 +1,16 @@
+{{ partial "head" . }}
+  <section class="h-feed">
+        {{ $sections := .Site.Data.Sections }}
+        {{ $section := index $sections .Type }}    
+      <p class="p-name">{{ $section.label }}: {{ $section.descrip }} You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
+  {{ range (.Paginator.Pages).GroupByDate .Site.Data.Formats.month }}
+      <h3>{{ .Key }}</h3>
+      {{ range .Pages }}
+          {{ .Render "list_item" }}
+      {{ end }}
+  {{ end }}
+  {{ partial "pagination" . }}
+
+</section>
+{{ partial "block/hero" . }}
+{{ partial "foot" . }}
