@@ -3,4 +3,7 @@
     {{ partial "block/tags" . }}
     {{ partial "block/syndication" . }}
     {{ partial "block/summary-comments" . }}
+    {{ if eq .Section "post" }}
+    / {{ .WordCount }} words
+    {{ end }}
 </div>
