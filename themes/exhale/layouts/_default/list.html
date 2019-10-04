@@ -1,6 +1,8 @@
 {{ partial "head" . }}
   <section class="h-feed">
-      <p class="p-name">{{ .Title }}. You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
+      <a class="u-url" href="{{ .Permalink }}"></a>
+      <p class="p-name">{{ .Title }}.</p>
+      <p>You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
   {{ range (.Paginator.Pages).GroupByDate .Site.Data.Formats.month }}
       <h3>{{ .Key }}</h3>
       {{ range .Pages }}

@@ -1,0 +1,1 @@
+{"layout":"stream","url":"/stream","title":"Activity Stream", "outputs": ["html", "rss"]}

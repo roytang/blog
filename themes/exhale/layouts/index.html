@@ -3,7 +3,7 @@
 {{ partial "block/hero" . }}
 
 <section class="h-feed">
-    <a class="u-url" href="{{ .Site.Params.baseURL }}"></a>
+    <a class="u-url" href="{{ .Permalink }}"></a>
     <h3 class="p-name">Recent Posts</h1>
     <ul>
         {{ range first 20 (where .Site.RegularPages "Section" "post") }}

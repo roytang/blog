@@ -10,7 +10,6 @@ tags:
 - changelog
 title: 'An Archive of My Own'
 type: post
-draft: true
 ---
 
 A post about making a guy [making an archive of his twitter data](https://www.zachleat.com/web/own-my-tweets/) made the rounds lately, so I figured I should make my own post about my ongoing efforts in this regard. I mentioned in an [earlier post](/2019/08/ephemeral-social-media/) that I like being able to use social media to dig through my own history. But as the first link above says, these social media sites can go away since nothing lasts forever. In the spirit of the [Indieweb principle to own your data](https://indieweb.org/own_your_data), for the past few months I've been working on archiving most of my social media content on my own site. I also intend to cut down on my social media accounts and activities, and having a backup of all the data on my own site helps with that effort.
@@ -30,7 +29,7 @@ Another question is if I were to import content from Twitter, Facebook, etc, how
 - [replies](/replies/): replies to content on other sites. This is mostly just twitter replies at the moment.
 - [reposts](/reposts/): reposts/shares of content on other sites. This would include twitter retweets and tumblr reblogs.
 
-I also wanted two types of home page: one is the more traditional homepage listing only the most recent posts, while another would be a firehose of all posts+the above content, probably at a URL like /stream/. Unfortunately, I couldn't (yet) figure out how to do this with Hugo, as the pagination support is limited to the homepage and not to custom pages. Maybe someday.
+I also wanted two types of home page: one is the more traditional homepage listing only the most recent posts, while another would be a firehose of all posts+the above content, currently [here](/stream/). Unfortunately, I couldn't (yet) figure out how to paginate this page with Hugo, as the pagination support is limited to the homepage and listing pages and not to custom pages. Maybe someday.
 
 Basically, I wrote a hodgepodge of different python scripts to import data from various social media sources into this hugo blog. It has been a huge effort, and frankly the sort of thing I only expect someone as insane as me would do. The scripts are [available on this blog's own repo](https://github.com/roytang/blog/tree/master/utils/importers), but they are not portable at all and highly specific to my use cases and require certain temp files I keep around on my local filesystem that are unavailable in the repo. 
 
