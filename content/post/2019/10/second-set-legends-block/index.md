@@ -3,10 +3,13 @@ author: roy
 categories: []
 date: 2019-10-02
 slug: second-set-legends-block
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1179207584982732805/
 tags:
 - mtg
 - magic the gathering
-title: 'The Second Set of Legends Block'
+title: The Second Set of Legends Block
 type: post
 ---
 
