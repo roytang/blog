@@ -3,12 +3,15 @@ author: roy
 categories: []
 date: 2019-10-05
 slug: archive-of-my-own
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1180294423269249024/
 tags:
 - tech life
 - indieweb
 - social media
 - changelog
-title: 'An Archive of My Own'
+title: An Archive of My Own
 type: post
 ---
 
