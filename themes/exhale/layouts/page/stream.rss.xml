@@ -20,7 +20,22 @@
             <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
             {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
             <guid>{{ .Permalink }}</guid>
-            <description>{{ .Summary | html }}</description>
+            <description>{{ .Summary | html }}
+{{ range .Resources.ByType "image" }}
+{{ $thumb := (.Resize "300x") }}
+    <figure>
+        <img src="{{ $thumb.Permalink }}" />
+        {{ if not (eq .Title .Name) }}
+            {{ with .Title }}
+            <figcaption>{{ . | markdownify | html }}</figcaption>
+            {{ end }}
+        {{ end }}
+    </figure>
+{{ end }}
+{{ range .Resources.Match "*.mp4" }}
+<video src="{{ .Permalink }}" controls></video>
+{{ end }}
+            </description>
         </item>
     {{ end }}
     </channel>
