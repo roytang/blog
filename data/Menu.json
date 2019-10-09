@@ -1,5 +1,9 @@
 [
     { 
+        "Name": "Stream",
+        "URL": "/stream/"
+    },
+    { 
         "Name": "Posts",
         "URL": "/post/"
     },

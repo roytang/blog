@@ -47,7 +47,7 @@
 <ul>
 {{ range .Params.syndicated }}
     {{ if eq .type "twitter" }}
-    <li>You can <a href="{{ .url }}">share or reply to this post on Twitter</a>. Replies will appear as comments in this section.</li>
+    <li>You can <a href="{{ .url }}">share or reply to this post on Twitter</a>. {{ if eq .Section "post" }}Replies will appear as comments in this section.{{ end }}</li>
     {{ end }}
 {{ end }}
 {{ if eq .Section "post" }}
@@ -82,7 +82,7 @@
 <li>You can write a reply on your own site and submit the URL as a <a href="https://indieweb.org/webmention">webmention</a> via the form below. (Experimental!)
     <form id="webmention-form" action="https://webmention.io/{{ . }}/webmention" method="POST">
         <input name="target" value="{{ $webmentionTarget }}" type="hidden" />
-        <input name="source" placeholder="Your URL that mentions this page" style="width:400px" required />
+        <input name="source" placeholder="Your reply URL" style="width:90%" required />
         <button type="submit" >Submit</button>
     </form>
 </li>
