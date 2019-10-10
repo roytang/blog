@@ -1,4 +1,4 @@
-{{ $path := printf "/photos/%s" (.Get 0) }}
+{{ $path := printf "/%s" (.Get 0) }}
 {{ $param2 := (.Get 1) }}
 {{ $filename := printf "%s*.*" ($param2) }}
 {{ $paramCaption := (.Get 2) }}
