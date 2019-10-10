@@ -36,7 +36,6 @@ Some other minor notes and questions:
 - the mutant resurrection engine seems quite fragile, since it's reliant on five different mutants (six counting Xavier), so any one of them dying could disable the resurrections permanently
 - while we understand why Charles behaves so radically different from previous incarnations (because Moira had succeeded in breaking him), a lot of the other X-Men still feel very out of character, especially the cultish behavior in House of X #5
 - the introduction of Dominions, godlike entities existing outside of space and time, is a completely new addition to Marvel cosmology AFAIK
-- post-decimation there should only be around 200-300 powered mutants remaining (considering some have gotten repowered afterwards). Or is the decimation meaningless now since the resurrection engine can just restore the 16M mutants killed during the Genoshan genocide (they can have as many mutants as they want!)
 - why is all of this happening now? After all these years, why have Moira, Charles and Erik decided to start their Krakoa nation at this point in time? What was the triggering event? 
 - I haven't said much about the art in these two series, because the implications of the story are already a lot, but the art is great, although by the end  a lot of the faces seemed a bit samey to me. But I especially like a lot of the coloring work, especially in the X2 timeline and during the assault on the Mothermold
 
