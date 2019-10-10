@@ -8,6 +8,9 @@ tags:
 - comics
 title: 'Comics Review: House of X/Powers of X'
 type: post
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1182187545464987648/
 ---
 
 _While you slept, the world changed._
