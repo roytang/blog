@@ -8,9 +8,13 @@
 
 body {
     font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
-    font-size: 1em;
+    font-size: 0.9em;
     background-color: #242930;
     color: white;
+}
+
+strong {
+    color: var(--second-color);
 }
 
 a {
