@@ -1,7 +1,7 @@
 ---
 author: roy
 categories: []
-date: 2019-10-12 08:00:00
+date: 2019-10-12 04:00:00
 slug: this-is-metro-manila
 tags:
 - philippines
