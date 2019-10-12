@@ -1,0 +1,17 @@
+{
+	"@context": [
+		"https://www.w3.org/ns/activitystreams",
+		"https://w3id.org/security/v1"
+	],
+
+	"id": "https://roytang.net/activitypub/actor.json",
+	"type": "Person",
+	"preferredUsername": "roy",
+	"inbox": "https://roytang.net/inbox",
+
+	"publicKey": {
+		"id": "https://roytang.net/activitypub/actor.json#main-key",
+		"owner": "https://roytang.net/activitypub/actor.json",
+		"publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAozcbzNmzWqN/3jNLuNkd\n/0AkhrwUytr/s+DiPPktn+G9SkeQE8Heom3f20x7vhHPbuxw9M5EyA1tSFvud1T2\nZpWZQN2SYBRZarP7bU9wOgNLGCWp7/LMmxIYrXdnwJny01toBXpZsm/XFfHGMLXz\nP3iXl+rgkkUXQP1Ezh1Ls5x5nQmzE/+GqO0M0YQ7CfB3vRBhu1+nQlCA6fkJOsCH\nDdHo3us7/mBTWMMidl9OyaTjPc2V2MWphxq4dVQhQdGBO8rB2LDnDJDP/mUDw/h5\n0bDeKmecq7KTVXKb/v/aJpD0WyEnDtUn5P/TP5Dg+JnyBKfOn1oNpCOusUEamHtH\n4wIDAQAB\n-----END PUBLIC KEY-----"
+	}
+}

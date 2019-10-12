@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^/?$ index.json [L]
+
+<Files "index.json">
+   ForceType application/json
+</Files>
