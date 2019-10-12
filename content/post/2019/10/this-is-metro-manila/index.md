@@ -2,14 +2,16 @@
 author: roy
 categories: []
 date: 2019-10-12 04:00:00
+featuredImage: https://roytang.net/2019/10/this-is-metro-manila/P_20181126_170127.jpg
 slug: this-is-metro-manila
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1182915928121413634/
 tags:
 - philippines
-title: 'This is Metro Manila'
+title: This is Metro Manila
 type: post
-featuredImage: https://roytang.net/2019/10/this-is-metro-manila/P_20181126_170127.jpg
 ---
-
 
 *(Note: This post discusses the traffic situation in Metro Manila. I’ve had this post in the works for a while, and it kept getting longer and longer (possibly my longest post to date). I also had my friend [David](https://www.facebook.com/DavidRamirezSFFwriter/) review it first to make sure I wasn’t saying anything too ridiculous, and he and I discussed some of the things and some of his points made it into the final post.)*
 
