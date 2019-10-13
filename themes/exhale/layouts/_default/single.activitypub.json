@@ -1,0 +1,36 @@
+{
+    "@context": [
+      "https://www.w3.org/ns/activitystreams"
+    ],
+    {{ with  .OutputFormats.Get "activitypub" }}
+        "id": "{{ .Permalink }}",
+    {{ end }}    
+    "type": "Create",
+    "actor": "https://roytang.net/activitypub/actor.json",
+    "published": "{{ .Date.Format .Site.Data.Formats.timestampjson }}",
+    "to": [
+      "https://www.w3.org/ns/activitystreams#Public"
+    ],
+    "cc": [
+      "https://roytang.net/activitypub/followers"
+    ],
+    "object": {
+      "id": "{{ .Permalink }}",
+      "type": "Note",
+      "summary": null,
+      "inReplyTo": null,
+      "published": "2019-10-12T07:38:27Z",
+      "url": "{{ .Permalink }}",
+      "attributedTo": "https://roytang.net/activitypub/actor.json",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://roytang.net/activitypub/followers"
+      ],
+      "sensitive": false,
+      "content": "New post: {{ .Title }} {{ .Permalink }}",
+      "attachment": [],
+      "tag": []
+    }
+  }

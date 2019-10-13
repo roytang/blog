@@ -8,6 +8,7 @@
 	"type": "Person",
 	"preferredUsername": "roy",
 	"inbox": "https://roytang.net/inbox",
+	"outbox": "https://roytang.net/activity.json",
 
 	"publicKey": {
 		"id": "https://roytang.net/activitypub/actor.json#main-key",

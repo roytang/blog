@@ -1,0 +1,17 @@
+{
+{{ with  .OutputFormats.Get "activitypub" }}
+  "id": "{{ .Permalink }}",
+{{ end }}    
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "summary": "Recent Activity",
+  "type": "OrderedCollection",
+  "totalItems": 50,  
+  "orderedItems": [
+    {{ range $key, $page := first 50 (where site.RegularPages "Type" "in" site.Params.mainSections) }}    
+      {{ if ne $key 0 }}, {{ end }}
+      {{ with $page }}
+      {{ .Render "single" }}
+      {{ end }}
+    {{ end }}
+  ]
+}

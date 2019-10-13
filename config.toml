@@ -12,6 +12,20 @@ disqusShortname = "roytangweblog"
 rssLimit = 50
 enableGitInfo = true
 
+[mediaTypes]
+  [mediaTypes."application/ld+json"]
+    suffixes = ["json"]
+
+[outputFormats]
+  [outputFormats.ActivityPub]
+    baseName = "activity"
+    isPlainText = true
+    mediaType = "application/ld+json"
+
+[outputs]
+  page = ["HTML", "ActivityPub"]
+  home = ["HTML", "RSS", "ActivityPub"]
+
 [taxonomies]
     tag = "tags"
     topic = "categories"
