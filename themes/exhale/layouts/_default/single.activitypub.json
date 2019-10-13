@@ -29,8 +29,21 @@
         "https://roytang.net/activitypub/followers"
       ],
       "sensitive": false,
-      "content": "New post: {{ .Title }} {{ .Permalink }}",
-      "attachment": [],
+      {{ $path := printf "%s %s" (.Title) (.Permalink) }}
+      "content": {{ $path | jsonify }},
+      "attachment": [
+        {{ range $key, $image := .Resources.ByType "image" }}
+        {{ if ne $key 0 }}, {{ end }}
+        {{ with $image }}
+          {
+            "type": "Document",
+            "mediaType": "{{ .MediaType }}",
+            "url": "{{ .Permalink }}",
+            "name": {{ .Name | jsonify }}
+          }
+          {{ end }}        
+        {{ end }}          
+      ],
       "tag": []
     }
   }
