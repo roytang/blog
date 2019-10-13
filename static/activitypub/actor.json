@@ -7,6 +7,9 @@
 	"id": "https://roytang.net/activitypub/actor.json",
 	"type": "Person",
 	"preferredUsername": "roy",
+	"name": "Roy Tang",
+	"summary": "I'm testing integrating activitypub with my personal website. Please don't send anything to this account yet, it will get swallowed into the void.",
+	"url": "http://roytang.net/",
 	"inbox": "https://roytang.net/inbox",
 	"outbox": "https://roytang.net/activity.json",
 
