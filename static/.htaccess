@@ -5,6 +5,8 @@ RewriteRule ^tag/(.*)$ tags/$1/ [R=301,L]
 RewriteRule ^category/(.*)/$ categories/$1/ [R=301,L]
 RewriteRule ^category/(.*)$ categories/$1/ [R=301,L]
 
+RedirectMatch 301 ^/.well-known/webfinger(.*)$ https://tracker.roytang.net/activitypub/webfinger/$1
+
 RedirectMatch 301 ^/blog/(.*)$ /$1
 RedirectMatch 301 ^/magic/(.*)$ /$1
 
