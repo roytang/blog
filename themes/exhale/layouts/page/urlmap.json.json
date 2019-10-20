@@ -4,6 +4,7 @@
         "full_url": "{{ .Permalink }}",
         "kind": "{{ .Kind }}",
         "date": "{{ .Date.Format "2006-01-02" }}",
+        "timestamp": "{{ .Date.Format .Site.Data.Formats.timestampjson }}",
         "source_path": {{ .File.Path |jsonify }},
         {{ if .Params.syndicated }}
         "syndicated": [
