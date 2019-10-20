@@ -2,9 +2,12 @@
 author: roy
 categories: []
 date: 2019-10-20
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1185854214645407746/
 tags:
 - tech life
-title: 'Archiving Yahoo Groups'
+title: Archiving Yahoo Groups
 type: post
 ---
 
