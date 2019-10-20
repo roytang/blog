@@ -472,11 +472,18 @@ div.two-column {
     color: white;
 }
 
-form input, form textarea, form button {
+form input, form textarea {
     background-color: transparent;
     color: white;
     border: none;
     border-bottom: 1px solid var(--third-color);
+}
+
+form button {
+    background-color: transparent;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid var(--third-color);
 }
 
 @media screen and (max-height: 575px){

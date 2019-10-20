@@ -54,7 +54,9 @@
 {{ if .Site.Params.comments_endpoint }}
 <li>You can submit a comment using the form below.
 <form id="comments-form" action="{{ .Site.Params.comments_endpoint }}" method="POST">
-        <p><input name="name" placeholder="Your name" required /><input name="url" placeholder="Your URL (optional)" /></p>
+        <p><input name="name" placeholder="Your name" required maxlength="200" />
+            <input name="email" maxlength="200" placeholder="Your Email (optional, won't be published)" />
+            <input name="url" maxlength="500" placeholder="Your URL (optional)" /></p>
         <p><textarea name="content" required placeholder="Your comment (markdown supported). Comments will be reviewed before appearing on the site." rows="3"></textarea></p>
     
         {{ if .Site.Params.recaptcha_key }}
