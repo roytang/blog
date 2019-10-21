@@ -2,6 +2,20 @@
 
 {{ partial "block/hero" . }}
 
+<section class="h-feed">
+    <a class="u-url" href="/"></a>
+    <h1 class="p-name">Recent Posts</h1>
+    {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}    
+    {{ $paginator := .Paginate $pages }}
+    {{ range ($paginator.Pages).GroupByDate .Site.Data.Formats.date }}
+        <h3>{{ .Key }}</h3>
+        {{ range .Pages }}
+            {{ .Render "list_item" }}
+        {{ end }}
+    {{ end }}
+    {{ partial "pagination" . }}
+</section>
+
 <p>Want to read more? You can browse different types of content below:</p>
 {{ partial "block/section-list" . }}
 
