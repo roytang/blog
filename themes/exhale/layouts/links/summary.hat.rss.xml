@@ -1,0 +1,2 @@
+Shared via {{ .Params.link.source }}:
+    <a href="{{ .Params.link.url }}">{{ .Params.link.text }}</a>
