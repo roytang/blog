@@ -383,11 +383,6 @@ class PostBuilder():
         for m in self.media:
             filename = m[m.rfind("/")+1:]
             download_to = outdir / filename
-            print(self.kind)
-            print(self.id)
-            print(outdir)
-            print(filename)
-            print(download_to)
             if m.startswith("file://"):
                 filepath = Path(m.replace("file://", ""))
                 shutil.copy(str(filepath), str(download_to))    
@@ -437,3 +432,10 @@ def add_to_listmap(map, key, value):
         map[key].append(value)
     else:
         map[key] = [value]
+
+def time_to_date(ts):
+    ts = int(ts)
+
+    # if you encounter a "year is out of range" error the timestamp
+    # may be in milliseconds, try `ts /= 1000` in that case
+    return datetime.utcfromtimestamp(ts) #.strftime('%Y-%m-%d %H:%M:%S'))

@@ -525,3 +525,14 @@ form button {
     margin: 1rem;
     font-size: 0.9rem;
 }
+
+/* Handle code samples exceeding the width */
+pre {
+    overflow-x: auto;
+    max-width: 100%;
+    
+}
+  
+div.content {
+    max-width: 100%;
+}
