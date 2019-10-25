@@ -23,8 +23,8 @@ enableGitInfo = true
     mediaType = "application/ld+json"
 
 [outputs]
-  page = ["HTML", "ActivityPub"]
-  home = ["HTML", "RSS", "ActivityPub"]
+  page = ["HTML"]
+  home = ["HTML", "RSS"]
 
 [taxonomies]
     tag = "tags"
