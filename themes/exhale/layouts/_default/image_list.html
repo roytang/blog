@@ -1,7 +1,8 @@
 {{ $mainPermalink := .RelPermalink }}
 {{ $caption := .Summary }}
 {{ $scratch := newScratch }}
-{{ range .Resources.ByType "image" }}
+{{ with .Resources.ByType "image" }}
+{{ range . }}
 {{ $scratch.Set "thumbnail" (.Resize "300x") }}
 {{ $thumb := $scratch.Get "thumbnail" }}
 <a href="{{ $mainPermalink }}#{{ .Name | safeURL }}">
@@ -9,6 +10,7 @@
       <img src="{{ $thumb.RelPermalink }}" alt="{{ $caption }}" title="{{ $caption }}" />
     </figure>
 </a>
+{{ end }}
 {{ end }}
 {{ range .Resources.Match "*.mp4" }}
 <video id="{{ .Name | safeURL }}" src="{{ .RelPermalink }}" controls></video>
