@@ -8,4 +8,12 @@ link:
 slug: deepfakes-aren-t-the-problem-we-are-3-quarks-daily
 source: pocket
 title: Deepfakes aren't the problem, We are | 3 Quarks Daily
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1055286684961660928/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1054913352080609281/  
+tags:
+- reads
+- feedly  
 ---

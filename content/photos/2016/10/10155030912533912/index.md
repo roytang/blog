@@ -6,4 +6,5 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155030912533912
 tags:
 - timeline-photos
+- puns
 ---

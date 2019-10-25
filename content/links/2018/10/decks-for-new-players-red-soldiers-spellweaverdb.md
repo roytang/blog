@@ -8,4 +8,7 @@ link:
 slug: decks-for-new-players-red-soldiers-spellweaverdb
 source: pocket
 title: "Decks for New Players: Red Soldiers \u2014 SpellweaverDB"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1055377323086753793/
 ---
