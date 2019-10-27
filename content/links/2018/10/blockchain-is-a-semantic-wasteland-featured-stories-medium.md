@@ -8,4 +8,7 @@ link:
 slug: blockchain-is-a-semantic-wasteland-featured-stories-medium
 source: pocket
 title: Blockchain Is a Semantic Wasteland - Featured Stories - Medium
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1056231977253253120/
 ---
