@@ -5,7 +5,6 @@ date: 2019-11-01
 slug: watching-lately-oct-2019
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1190758325350207488/
 tags:
 - Pop Culture
 - Movies
