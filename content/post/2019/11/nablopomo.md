@@ -3,6 +3,9 @@ author: roy
 categories: []
 date: 2019-11-03
 slug: nablopomo
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1190969726891155456/
 tags:
 - writing
 - blogging
