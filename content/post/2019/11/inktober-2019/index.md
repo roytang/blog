@@ -4,6 +4,9 @@ date: 2019-11-02
 slug: inktober-2019
 title: "Inktober 2019: Director's Cut"
 type: post
+tags:
+- inktober
+- inktober2019
 ---
 
 For the uninitiated, [Inktober](https://inktober.com/rules) is a drawing challenge where you have to make one drawing in ink (no digital! but you do you I guess) for each day in October, with each drawing based on a certain prompt. This year's prompts list is:
