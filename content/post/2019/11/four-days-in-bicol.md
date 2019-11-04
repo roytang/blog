@@ -2,12 +2,15 @@
 author: roy
 categories: []
 date: 2019-11-04
+featuredImage: https://roytang.net/2019/11/bicol-trip-photo-dump/20191102_082508.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1191241464069668864/
 tags:
 - travels
 - philippines
-title: 'Four Days in Bicol'
+title: Four Days in Bicol
 type: post
-featuredImage: https://roytang.net/2019/11/bicol-trip-photo-dump/20191102_082508.jpg
 ---
 
 Something I haven't done in a while: travel with my parents to Bicol to pay respects to our ancestors during the *undas* long weekend. In fact, the last time I made this trip was [back in 2004](/2004/10/getting-away-from-it-all/), 15 years ago! (I technically also visited Bicol about 11ish years ago, but that was via a flight to Legaspi, Albay, and not to my dad's hometown.)
