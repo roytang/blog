@@ -1,13 +1,20 @@
 {{ $mainPermalink := .RelPermalink }}
-{{ $caption := .Summary }}
+{{ $caption := .Title | default .Summary }}
 {{ $scratch := newScratch }}
 {{ with .Resources.ByType "image" }}
 {{ range . }}
 {{ $scratch.Set "thumbnail" (.Resize "300x") }}
 {{ $thumb := $scratch.Get "thumbnail" }}
+{{ if not (eq .Title .Name) }}
+  {{ $scratch.Set "figcaption" .Title }}
+{{ else }}
+  {{ $scratch.Set "figcaption" $caption }}
+{{ end }}
+{{ $figcaption := $scratch.Get "figcaption" }}
+
 <a href="{{ $mainPermalink }}#{{ .Name | safeURL }}">
     <figure>
-      <img src="{{ $thumb.RelPermalink }}" alt="{{ $caption }}" title="{{ $caption }}" />
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" />
     </figure>
 </a>
 {{ end }}

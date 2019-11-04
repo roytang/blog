@@ -7,10 +7,9 @@ theme = "exhale"
 paginate = 50
 paginatePath = "page"
 
-# Enable Disqus integration
-disqusShortname = "roytangweblog"
 rssLimit = 50
 enableGitInfo = true
+canonifyURLs = true
 
 [mediaTypes]
   [mediaTypes."application/ld+json"]
