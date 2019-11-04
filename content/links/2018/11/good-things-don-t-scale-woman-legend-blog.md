@@ -8,4 +8,7 @@ link:
 slug: good-things-don-t-scale-woman-legend-blog
 source: pocket
 title: "Good things don't scale  \xB7 Woman. Legend.Blog"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1059066283566776320/
 ---

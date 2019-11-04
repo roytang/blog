@@ -8,4 +8,7 @@ link:
 slug: everything-old-isnt-new-again-yet-mimix
 source: pocket
 title: "Everything Old Isn\u2019t New Again (Yet) \u2013 Mimix"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1059096526155366402/
 ---
