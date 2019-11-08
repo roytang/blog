@@ -4,12 +4,12 @@
 
     {{ if .PrevInSection }}
     <a class="prev" href="{{ .PrevInSection.Permalink }}" title="{{ .PrevInSection.Title }}">
-        <i class="fas fa-arrow-left"></i> {{ with .PrevInSection.Title }}{{ . }}{{ else }} Previous {{ end }}
+        {{ with .PrevInSection.Title }}Previous: {{ . }}{{ else }} Previous {{ end }}
     </a>
     {{end}}
     {{ if .NextInSection }}
     <a class="next" href="{{ .NextInSection.Permalink }}" title="{{ .NextInSection.Title }}">
-            {{ with .NextInSection.Title }}{{ . }}{{ else }} Next {{ end }} <i class="fas fa-arrow-right"></i>
+        {{ with .NextInSection.Title }}Next: {{ . }}{{ else }} Next {{ end }} 
     </a>
     {{end}}
   {{ end }}

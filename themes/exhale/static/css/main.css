@@ -390,7 +390,7 @@ code {
 
 @media (min-width: 550px) {
     .hero {
-        grid-template-columns: 3fr 1fr;
+        grid-template-columns: 3fr 2fr;
     }
 
     .hero-links {
@@ -535,4 +535,25 @@ pre {
   
 div.content {
     max-width: 100%;
+}
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+    fill: var(--main-color);
+}
+
+.svg-icon circle {
+    stroke: var(--main-color);
+    stroke-width: 1;
 }
