@@ -19,13 +19,14 @@ I am envious sometimes of people who are able to narrow down their interests to 
 
 ("Sports" is just an example, it might as well be "arts and crafts" or "birdwatching" or something else.)
 
-Compare that with someone like myself, who has like a bajillion hobbies/interests, if I needed to think about things like the above, I would have to choose among topics like (in no particular order):
+Compare that with someone like myself, who has like a bajillion hobbies/interests, if I needed to think about things like the above, I would have to choose among topics like (in no particular order, and non extensive):
 
 - software development (this already covers a lot of subtopics by itself!)
 - the tech industry
 - startups/entrepreneurship 
 - general science/advances in science
 - gaming (pc, console, handheld, boardgames, esports)
+- game design/development
 - magic the gathering
 - books (sci-fi, fantasy)
 - comics (marvel, dc, manga, webcomics, etc)
