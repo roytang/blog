@@ -33,6 +33,7 @@ canonifyURLs = true
 [author]
     name = "Roy Tang"
     email = "hello@roytang.net"
+    url = "https://roytang.net"
 
 [permalinks]
     post = "/:year/:month/:slug/"
