@@ -8,4 +8,7 @@ link:
 slug: stripe-the-developer-coefficient-pdf
 source: pocket
 title: 'Stripe: The Developer Coefficient (PDF)'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1061519201309999104/
 ---
