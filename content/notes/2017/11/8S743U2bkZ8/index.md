@@ -5,6 +5,8 @@ source: youtube
 syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=8S743U2bkZ8
+- type: twitter
+  url: https://twitter.com/roytang/statuses/929617853023625216/  
 tags:
 - StreetFighterV
 ---

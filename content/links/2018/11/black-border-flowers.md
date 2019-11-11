@@ -8,4 +8,7 @@ link:
 slug: black-border-flowers
 source: pocket
 title: Black Border Flowers
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1061896924893188096/
 ---

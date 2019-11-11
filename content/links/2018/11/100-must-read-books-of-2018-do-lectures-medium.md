@@ -8,4 +8,7 @@ link:
 slug: 100-must-read-books-of-2018-do-lectures-medium
 source: pocket
 title: "100 Must-Read Books Of 2018. \u2013 Do Lectures \u2013 Medium"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1061927207994572800/
 ---

@@ -8,4 +8,7 @@ link:
 slug: yuval-noah-harari-on-why-technology-favors-tyranny-the-atlantic
 source: pocket
 title: Yuval Noah Harari on Why Technology Favors Tyranny - The Atlantic
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062001258188410880/
 ---
