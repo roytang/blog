@@ -65,8 +65,8 @@ with urllib.request.urlopen(endpoint) as url:
             newfile = newdir / ( "like-%s-%s.json" % (datestr, id) )
         elif wtype == 'repost-of':
             newfile = newdir / ( "repost-%s-%s.json" % (datestr, id) )
-        elif wtype == 'mention-of':
-            newfile = newdir / ( "mention-%s-%s.json" % (datestr, id) )
+        # elif wtype == 'mention-of':
+        #     newfile = newdir / ( "mention-%s-%s.json" % (datestr, id) )
         else:
             newfile = newdir / ( "comment-%s-%s.json" % (datestr, id) )
 
@@ -79,7 +79,8 @@ with urllib.request.urlopen(endpoint) as url:
             "photo": link['author'].get('photo', ''),
             "source_url": link["wm-source"],
             "mention_url": link["url"],
-            "source": "webmention"
+            "source": "webmention",
+            "type": wtype
         }
 
         # save the comment into newdir
