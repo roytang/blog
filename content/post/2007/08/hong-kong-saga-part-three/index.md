@@ -4,6 +4,7 @@ categories: []
 date: 2007-08-04 01:48:31
 tags:
 - Travels
+- hong kong
 title: Hong Kong Saga, Part Three
 type: post
 url: /2007/08/hong-kong-saga-part-three/

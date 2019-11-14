@@ -8,6 +8,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2004/05/so-i-went-to-hk.html
 tags:
 - Travels
+- hong kong
 title: So I Went to HK
 type: post
 url: /2004/05/so-i-went-to-hk/

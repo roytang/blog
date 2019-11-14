@@ -4,6 +4,7 @@ categories: []
 date: 2007-01-10 06:11:35
 tags:
 - Travels
+- hong kong
 title: The Food in Hong Kong
 type: post
 url: /2007/01/the-food-in-hong-kong/

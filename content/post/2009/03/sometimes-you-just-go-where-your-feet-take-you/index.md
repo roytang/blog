@@ -4,6 +4,7 @@ categories: []
 date: 2009-03-15 08:11:47
 tags:
 - Travels
+- hong kong
 title: Sometimes You Just Go Where Your Feet Take You
 type: post
 url: /2009/03/sometimes-you-just-go-where-your-feet-take-you/

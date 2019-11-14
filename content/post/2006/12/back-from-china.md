@@ -4,6 +4,8 @@ categories: []
 date: 2006-12-16 20:49:18
 tags:
 - Travels
+- hong kong
+- china
 title: Back from China
 type: post
 url: /2006/12/back-from-china/

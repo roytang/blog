@@ -4,6 +4,7 @@ categories: []
 date: 2008-03-19 18:22:06
 tags:
 - Travels
+- hong kong
 title: Free Wi-fi @HK International Airport
 type: post
 url: /2008/03/free-wi-fi-hk-international-airport/
