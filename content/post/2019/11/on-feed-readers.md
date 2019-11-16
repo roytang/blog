@@ -24,6 +24,8 @@ The first flaw I find in most readers (including social media feeds) is that the
 
 I imagine there could be some in-between categories as well, possibly customizable. Something like a feed where I have unread counts, but also automatically mark as read articles that are too old? IDK.
 
+I remembered this when I realized I could import my [Youtube subscriptions as RSS](https://roytang.net/2019/08/1167000875090378752/). That gave me a whole lot of new feeds to follow, but I realized it was kind of a waste of time because most of the channels I follow are there for me to browse through when I'm looking for entertainment, but usually not the kind of content I want to regularly appear in my feeds. (So they're under the first type.) Importing them basically added a lot of noise to my feed reader.
+
 Facebook actually had something like you could add friends to a "Close Friends" list, and their posts would be prioritized for you and appear in your notification bar. I don't FB much anymore, so IDK if this feature is still around, but as I recall you can't use it with Pages.
 
 ---
@@ -34,6 +36,6 @@ This is one of my major grips when using Flipboard, especially for the "Latest n
 
 ---
 
-I must admit I haven't explored too much the paid features of services like Feedly or Inoreader, so maybe they support something similar to these features already. (I feel like it's unlikely though.) In addition to traditional RSS readers though, I'd also like my reader to be able to support following other kinds of sources like social media, ActivityStreams-compliant streams (Mastodon, etc), microformats feeds, and so on.
+I must admit I haven't explored too much the paid features of services like Feedly or Inoreader, so maybe they support something similar to these features already. (I feel like it's unlikely though. And I'm not really up for paying the monthly fees haha.) In addition to traditional RSS readers though, I'd also like my reader to be able to support following other kinds of sources like social media, ActivityStreams-compliant streams (Mastodon, etc), microformats feeds, and so on.
 
 Maybe someday I'll get around to finally building that feed reader I wanted for myself!
