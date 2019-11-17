@@ -1,6 +1,6 @@
 ---
 title: "On Feed Readers"
-date: 2019-11-18
+date: 2019-11-17
 tags:
 - tech life
 ---
