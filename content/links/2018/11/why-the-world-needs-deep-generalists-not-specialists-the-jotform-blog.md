@@ -8,4 +8,7 @@ link:
 slug: why-the-world-needs-deep-generalists-not-specialists-the-jotform-blog
 source: pocket
 title: Why the world needs deep generalists, not specialists | The JotForm Blog
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1064563573685436417/
 ---
