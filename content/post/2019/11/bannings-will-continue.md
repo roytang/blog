@@ -1,10 +1,13 @@
 ---
-title: "MTG: The bannings will continue until morale improves"
 date: 2019-11-19 08:00:00
 slug: mtg-bannings
-tags: 
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1196766178833813504/
+tags:
 - mtg
 - magic the gathering
+title: 'MTG: The bannings will continue until morale improves'
 ---
 
 The past few years have not been good for competitive balance in MTG. Following yesterday's deservedly heavy-handed [B&R announcement](https://magic.wizards.com/en/articles/archive/news/november-18-2019-banned-and-restricted-announcement), standard is now at 14 cards banned since 2017. Before 2017, the standard bannings have been relatively sparse. Working backwards:
@@ -35,4 +38,4 @@ So, if I were the play design team, I would pay special attention to these thing
 
 These days I really only play Standard on Magic Arena, not much on paper, but it's still interesting to follow. The high power level is kind of a good indicator in that we know they are pushing cards and trying to find the limits of an exciting competitive environment, but it also means they have to be super careful. Even some pros [were complaining](https://twitter.com/PVDDR/status/1196463680671637504) that some of their expensive decks were now worthless after the bans, so the consecutive bannings are really bad for the playerbase and disincentivizing them from investing in the game. 
 
-I do hope the play design team has learned its lessons, and hopefully we start to get a more balanced competitive environment once Theros 2: Elspeth Boogaloo rolls out early next year. 
+I do hope the play design team has learned its lessons, and hopefully we start to get a more balanced competitive environment once Theros 2: Elspeth Boogaloo rolls out early next year.
