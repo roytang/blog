@@ -17,7 +17,7 @@
             {}
         ],
         {{ end }}
-        {{ with .Resources.Match "comment-*.json" }}
+        {{ with .Resources.Match "*.json" }}
         "comments": [
             {{ range . }}
             {
