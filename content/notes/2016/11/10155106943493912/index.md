@@ -7,7 +7,7 @@ syndicated:
 tags: []
 ---
 
-sang alamat:
+Isang alamat:
 ---
 Isa kang pamilyado at may hinire kang kasambahay. Tapos sa simula, parang ok sya, maayos ang trabaho, nagagawa lahat at minsan sobra-sobra pa.
 
@@ -22,6 +22,7 @@ E biglang namatay, hindi na tuloy umasenso yung kaso at hindi mo na mapagbayad. 
 Aba, ano sya, siniswerte! Di ba parang ang kapal ng mukha. Nung pinagsabihan mo, hiniritan ka pa nung anak:
 
 "Bakit po ba hindi kayo makapag-move on? Patay na nga po si nanay sana respetuhin nyo na lang. Madami naman po syang nagawang mabuti para sa inyo diba? Pinagluto nya kayo at pinamalengke at pinagsilbihan? Kung galit po kayo sa kanya bakit naglalakad pa rin kayo dyan sa sahig nyo, di ba sya ang naglinis nyan at nagtawag ng taga-ayos nung nasira yan? Bakit nakatayo pa rin yang Christmas tree nyo e diba si nanay ang nagdecorate nyan? Bakit hindi nyo na lang sya patawarin para magkaron na ng healing?"
+
 ---
 
 Moral of this story is left as homework for the readers
