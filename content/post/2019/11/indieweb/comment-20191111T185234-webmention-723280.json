@@ -1,1 +1,34 @@
-{"name": "\ud83c\udf42\ud83c\udf83Pumpkin Spice Nurse McHurt\ud83c\udf83\ud83c\udf42", "source_url": "https://brid-gy.appspot.com/post/twitter/roytang/1193962253445414913", "source": "webmention", "mention_url": "https://twitter.com/NurseMcHurt/status/1193962253445414913", "photo": "https://webmention.io/avatar/pbs.twimg.com/3d412e612d9ea9223fbef390428e2d220c9f833b28be24a9adcde19ce9c39c22.jpg", "id": "webmention-723280", "type": "mention-of", "text": "Lmao I've been bitching over on Mastodon about how it's never going to be more than a niche techy thing since it's pretty unfriendly to anyone without more than a passing interest in indieweb shit\n\nBut this guy puts it way better.", "date": "2019-11-11 18:52:34", "url": "https://twitter.com/NurseMcHurt"}
+{
+  "id": "webmention-723280",
+  "type": "comment",
+  "name": "\ud83c\udf42\ud83c\udf83Pumpkin Spice Nurse McHurt\ud83c\udf83\ud83c\udf42",
+  "url": "https://twitter.com/NurseMcHurt",
+  "text": "[https://brid-gy.appspot.com/post/twitter/roytang/1193962253445414913](https://brid-gy.appspot.com/post/twitter/roytang/1193962253445414913) mentioned [https://roytang.net/2019/11/indieweb/](https://roytang.net/2019/11/indieweb/)",
+  "date": "2019-11-11 18:52:34",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/3d412e612d9ea9223fbef390428e2d220c9f833b28be24a9adcde19ce9c39c22.jpg",
+  "source_url": "https://twitter.com/NurseMcHurt/status/1193962253445414913",
+  "mention_url": "https://twitter.com/NurseMcHurt/status/1193962253445414913",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "\ud83c\udf42\ud83c\udf83Pumpkin Spice Nurse McHurt\ud83c\udf83\ud83c\udf42",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/3d412e612d9ea9223fbef390428e2d220c9f833b28be24a9adcde19ce9c39c22.jpg",
+      "url": "https://twitter.com/NurseMcHurt"
+    },
+    "url": "https://twitter.com/NurseMcHurt/status/1193962253445414913",
+    "published": "2019-11-11T18:42:38+00:00",
+    "wm-received": "2019-11-11T18:52:34Z",
+    "wm-id": 723280,
+    "wm-source": "https://brid-gy.appspot.com/post/twitter/roytang/1193962253445414913",
+    "wm-target": "https://roytang.net/2019/11/indieweb/",
+    "content": {
+      "html": "Lmao I've been bitching over on Mastodon about how it's never going to be more than a niche techy thing since it's pretty unfriendly to anyone without more than a passing interest in indieweb shit\n\nBut this guy puts it way better.\n<a class=\"u-mention\" href=\"https://ift.tt/2Ny7fiy\"></a>\n<a class=\"u-mention\" href=\"https://roytang.net/2019/11/indieweb/\"></a>",
+      "text": "Lmao I've been bitching over on Mastodon about how it's never going to be more than a niche techy thing since it's pretty unfriendly to anyone without more than a passing interest in indieweb shit\n\nBut this guy puts it way better."
+    },
+    "mention-of": "https://roytang.net/2019/11/indieweb/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}

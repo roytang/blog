@@ -1,1 +1,30 @@
-{"date": "2019-11-13 02:29:38", "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1194052290363232257/2251223190", "source": "webmention", "url": "https://twitter.com/elf_follows", "name": "Christine", "type": "like-of", "mention_url": "https://twitter.com/roytang/status/1194052290363232257#favorited-by-2251223190", "photo": "https://webmention.io/avatar/pbs.twimg.com/504dfe7f67de5e32e3bd11d755ef8c6c1539c67615473e8a4b59bbed278f2de0.jpg", "text": "", "id": "webmention-723865"}
+{
+  "id": "webmention-723865",
+  "type": "like",
+  "name": "Christine",
+  "url": "https://twitter.com/elf_follows",
+  "text": "[Christine](https://twitter.com/elf_follows) liked this [on twitter](https://twitter.com/roytang/status/1194052290363232257#favorited-by-2251223190)",
+  "date": "2019-11-13 02:29:38",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/504dfe7f67de5e32e3bd11d755ef8c6c1539c67615473e8a4b59bbed278f2de0.jpg",
+  "source_url": "https://twitter.com/roytang/status/1194052290363232257#favorited-by-2251223190",
+  "mention_url": "https://twitter.com/roytang/status/1194052290363232257#favorited-by-2251223190",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christine",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/504dfe7f67de5e32e3bd11d755ef8c6c1539c67615473e8a4b59bbed278f2de0.jpg",
+      "url": "https://twitter.com/elf_follows"
+    },
+    "url": "https://twitter.com/roytang/status/1194052290363232257#favorited-by-2251223190",
+    "published": null,
+    "wm-received": "2019-11-13T02:29:38Z",
+    "wm-id": 723865,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1194052290363232257/2251223190",
+    "wm-target": "https://roytang.net/2019/11/prod-crisis/",
+    "like-of": "https://roytang.net/2019/11/prod-crisis/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

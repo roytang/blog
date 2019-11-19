@@ -1,1 +1,30 @@
-{"id": "webmention-723300", "date": "2019-11-11 21:13:31", "text": "", "type": "like-of", "photo": "https://webmention.io/avatar/pbs.twimg.com/18e5af3f10425d9d3313fe15d8cf4402afdded6663f5598d485ea01e85d6228d.jpg", "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1193551787376156672/5398102", "url": "https://twitter.com/u0421793", "name": "Ian K Tindale", "source": "webmention", "mention_url": "https://twitter.com/roytang/status/1193551787376156672#favorited-by-5398102"}
+{
+  "id": "webmention-723300",
+  "type": "like",
+  "name": "Ian K Tindale",
+  "url": "https://twitter.com/u0421793",
+  "text": "[Ian K Tindale](https://twitter.com/u0421793) liked this [on twitter](https://twitter.com/roytang/status/1193551787376156672#favorited-by-5398102)",
+  "date": "2019-11-11 21:13:31",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/18e5af3f10425d9d3313fe15d8cf4402afdded6663f5598d485ea01e85d6228d.jpg",
+  "source_url": "https://twitter.com/roytang/status/1193551787376156672#favorited-by-5398102",
+  "mention_url": "https://twitter.com/roytang/status/1193551787376156672#favorited-by-5398102",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ian K Tindale",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/18e5af3f10425d9d3313fe15d8cf4402afdded6663f5598d485ea01e85d6228d.jpg",
+      "url": "https://twitter.com/u0421793"
+    },
+    "url": "https://twitter.com/roytang/status/1193551787376156672#favorited-by-5398102",
+    "published": null,
+    "wm-received": "2019-11-11T21:13:31Z",
+    "wm-id": 723300,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1193551787376156672/5398102",
+    "wm-target": "https://roytang.net/2019/11/indieweb/",
+    "like-of": "https://roytang.net/2019/11/indieweb/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

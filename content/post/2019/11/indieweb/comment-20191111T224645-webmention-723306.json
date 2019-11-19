@@ -1,1 +1,30 @@
-{"source": "webmention", "mention_url": "https://boffosocko.com/2019/11/11/indieweb-updates-and-thoughts-roy-tang/", "text": "", "url": "https://boffosocko.com/author/chrisaldrich/", "source_url": "https://boffosocko.com/2019/11/11/indieweb-updates-and-thoughts-roy-tang/", "id": "webmention-723306", "photo": "https://webmention.io/avatar/secure.gravatar.com/e224f23cbbaa375f5ea2d56689cc7d373239dc85f6e382a9c11590db0a4c64c3.jpg", "name": "Chris Aldrich", "type": "mention-of", "date": "2019-11-11 22:46:45"}
+{
+  "id": "webmention-723306",
+  "type": "comment",
+  "name": "Chris Aldrich",
+  "url": "https://boffosocko.com/author/chrisaldrich/",
+  "text": "[https://boffosocko.com/2019/11/11/indieweb-updates-and-thoughts-roy-tang/](https://boffosocko.com/2019/11/11/indieweb-updates-and-thoughts-roy-tang/) mentioned [https://roytang.net/2019/11/indieweb/](https://roytang.net/2019/11/indieweb/)",
+  "date": "2019-11-11 22:46:45",
+  "photo": "https://webmention.io/avatar/secure.gravatar.com/e224f23cbbaa375f5ea2d56689cc7d373239dc85f6e382a9c11590db0a4c64c3.jpg",
+  "source_url": "https://boffosocko.com/2019/11/11/indieweb-updates-and-thoughts-roy-tang/",
+  "mention_url": "https://boffosocko.com/2019/11/11/indieweb-updates-and-thoughts-roy-tang/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chris Aldrich",
+      "photo": "https://webmention.io/avatar/secure.gravatar.com/e224f23cbbaa375f5ea2d56689cc7d373239dc85f6e382a9c11590db0a4c64c3.jpg",
+      "url": "https://boffosocko.com/author/chrisaldrich/"
+    },
+    "url": "https://boffosocko.com/2019/11/11/indieweb-updates-and-thoughts-roy-tang/",
+    "published": "2019-11-11T00:00:24+00:00",
+    "wm-received": "2019-11-11T22:46:45Z",
+    "wm-id": 723306,
+    "wm-source": "https://boffosocko.com/2019/11/11/indieweb-updates-and-thoughts-roy-tang/",
+    "wm-target": "https://roytang.net/2019/11/indieweb/",
+    "mention-of": "https://roytang.net/2019/11/indieweb/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}

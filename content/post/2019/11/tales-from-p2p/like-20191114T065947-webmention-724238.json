@@ -1,1 +1,30 @@
-{"source": "webmention", "mention_url": "https://twitter.com/roytang/status/1194798433502150658#favorited-by-262052694", "name": "Hoco27", "text": "", "type": "like-of", "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1194798433502150658/262052694", "photo": "https://webmention.io/avatar/pbs.twimg.com/6ce24f857d3df8ef4364bc88f72fef9e998a166d5ba7e28ae279e0c4d2d69e79.jpg", "id": "webmention-724238", "url": "https://twitter.com/hoco27", "date": "2019-11-14 06:59:47"}
+{
+  "id": "webmention-724238",
+  "type": "like",
+  "name": "Hoco27",
+  "url": "https://twitter.com/hoco27",
+  "text": "[Hoco27](https://twitter.com/hoco27) liked this [on twitter](https://twitter.com/roytang/status/1194798433502150658#favorited-by-262052694)",
+  "date": "2019-11-14 06:59:47",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/6ce24f857d3df8ef4364bc88f72fef9e998a166d5ba7e28ae279e0c4d2d69e79.jpg",
+  "source_url": "https://twitter.com/roytang/status/1194798433502150658#favorited-by-262052694",
+  "mention_url": "https://twitter.com/roytang/status/1194798433502150658#favorited-by-262052694",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Hoco27",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6ce24f857d3df8ef4364bc88f72fef9e998a166d5ba7e28ae279e0c4d2d69e79.jpg",
+      "url": "https://twitter.com/hoco27"
+    },
+    "url": "https://twitter.com/roytang/status/1194798433502150658#favorited-by-262052694",
+    "published": null,
+    "wm-received": "2019-11-14T06:59:47Z",
+    "wm-id": 724238,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1194798433502150658/262052694",
+    "wm-target": "https://roytang.net/2019/11/tales-from-p2p/",
+    "like-of": "https://roytang.net/2019/11/tales-from-p2p/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

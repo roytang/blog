@@ -1,1 +1,34 @@
-{"name": "gRegor Morrill", "source_url": "https://gregorlove.com/2019/11/hello-and-welcome/", "source": "webmention", "mention_url": "https://gregorlove.com/2019/11/hello-and-welcome/", "photo": "https://webmention.io/avatar/gregorlove.com/1dfe16005864a9fc9564a3884378cdc89abd66b173ed10bce2ac60ed782dab01.jpeg", "id": "webmention-723281", "type": "in-reply-to", "text": "Hello and welcome to the indieweb! I think there is a tendency to think of those two principles from a developer perspective, like they are telling people to learn how to write HTML and do all the nitty gritty stuff. That isn't the intention, though. We can always improve the documentation on the wiki and would love to have you involved in the conversation.", "date": "2019-11-11 18:57:55", "url": "https://gregorlove.com/"}
+{
+  "id": "webmention-723281",
+  "type": "comment",
+  "name": "gRegor Morrill",
+  "url": "https://gregorlove.com/",
+  "text": "",
+  "date": "2019-11-11 18:57:55",
+  "photo": "https://webmention.io/avatar/gregorlove.com/1dfe16005864a9fc9564a3884378cdc89abd66b173ed10bce2ac60ed782dab01.jpeg",
+  "source_url": "https://gregorlove.com/2019/11/hello-and-welcome/",
+  "mention_url": "https://gregorlove.com/2019/11/hello-and-welcome/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "gRegor Morrill",
+      "photo": "https://webmention.io/avatar/gregorlove.com/1dfe16005864a9fc9564a3884378cdc89abd66b173ed10bce2ac60ed782dab01.jpeg",
+      "url": "https://gregorlove.com/"
+    },
+    "url": "https://gregorlove.com/2019/11/hello-and-welcome/",
+    "published": "2019-11-11T10:57:00-08:00",
+    "wm-received": "2019-11-11T18:57:55Z",
+    "wm-id": 723281,
+    "wm-source": "https://gregorlove.com/2019/11/hello-and-welcome/",
+    "wm-target": "https://roytang.net/2019/11/indieweb/",
+    "content": {
+      "html": "<p>Hello and welcome to the indieweb! I think there is a tendency to think of those two principles from a developer perspective, like they are telling people to learn how to write HTML and do all the nitty gritty stuff. That isn't the intention, though. We can always improve the documentation on the wiki and would love to have you involved in the conversation.</p>",
+      "text": "Hello and welcome to the indieweb! I think there is a tendency to think of those two principles from a developer perspective, like they are telling people to learn how to write HTML and do all the nitty gritty stuff. That isn't the intention, though. We can always improve the documentation on the wiki and would love to have you involved in the conversation."
+    },
+    "in-reply-to": "https://roytang.net/2019/11/indieweb/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

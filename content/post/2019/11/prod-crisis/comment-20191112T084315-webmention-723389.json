@@ -1,1 +1,34 @@
-{"text": "Likes https://roytang.net/2019/11/prod-crisis/.\nhttps://lostfocus.de/2019/11/23923/", "name": "Dominik", "date": "2019-11-12 08:43:15", "source": "webmention", "source_url": "https://lostfocus.de/2019/11/23923/", "photo": "https://webmention.io/avatar/secure.gravatar.com/20fd7426a0da480111ec2cdd59ce97ed0009b4e5cdcfd2874f75ff0ec64d0ac8.jpg", "type": "mention-of", "id": "webmention-723389", "url": "https://lostfocus.de/author/dominik/", "mention_url": "https://lostfocus.de/2019/11/23923/"}
+{
+  "id": "webmention-723389",
+  "type": "comment",
+  "name": "Dominik",
+  "url": "https://lostfocus.de/author/dominik/",
+  "text": "[https://lostfocus.de/2019/11/23923/](https://lostfocus.de/2019/11/23923/) mentioned [https://roytang.net/2019/11/prod-crisis/](https://roytang.net/2019/11/prod-crisis/)",
+  "date": "2019-11-12 08:43:15",
+  "photo": "https://webmention.io/avatar/secure.gravatar.com/20fd7426a0da480111ec2cdd59ce97ed0009b4e5cdcfd2874f75ff0ec64d0ac8.jpg",
+  "source_url": "https://lostfocus.de/2019/11/23923/",
+  "mention_url": "https://lostfocus.de/2019/11/23923/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik",
+      "photo": "https://webmention.io/avatar/secure.gravatar.com/20fd7426a0da480111ec2cdd59ce97ed0009b4e5cdcfd2874f75ff0ec64d0ac8.jpg",
+      "url": "https://lostfocus.de/author/dominik/"
+    },
+    "url": "https://lostfocus.de/2019/11/23923/",
+    "published": "2019-11-12T09:43:01+00:00",
+    "wm-received": "2019-11-12T08:43:15Z",
+    "wm-id": 723389,
+    "wm-source": "https://lostfocus.de/2019/11/23923/",
+    "wm-target": "https://roytang.net/2019/11/prod-crisis/",
+    "content": {
+      "html": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2019/11/prod-crisis/\">https://roytang.net/2019/11/prod-crisis/</a>.</p>\n<p><a href=\"https://lostfocus.de/2019/11/23923/\">https://lostfocus.de/2019/11/23923/</a></p>",
+      "text": "Likes https://roytang.net/2019/11/prod-crisis/.\nhttps://lostfocus.de/2019/11/23923/"
+    },
+    "mention-of": "https://roytang.net/2019/11/prod-crisis/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}

@@ -1,1 +1,30 @@
-{"photo": "https://webmention.io/avatar/pbs.twimg.com/7963c6dee679566b89086e7e77bf879e46380f3a15fc2212dc28bd8975c20c0b.jpg", "date": "2019-11-14 02:27:05", "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1194798433502150658/955453269727363072", "type": "like-of", "url": "https://twitter.com/oyelski", "text": "", "name": "Yael Esperat", "mention_url": "https://twitter.com/roytang/status/1194798433502150658#favorited-by-955453269727363072", "source": "webmention", "id": "webmention-724213"}
+{
+  "id": "webmention-724213",
+  "type": "like",
+  "name": "Yael Esperat",
+  "url": "https://twitter.com/oyelski",
+  "text": "[Yael Esperat](https://twitter.com/oyelski) liked this [on twitter](https://twitter.com/roytang/status/1194798433502150658#favorited-by-955453269727363072)",
+  "date": "2019-11-14 02:27:05",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/7963c6dee679566b89086e7e77bf879e46380f3a15fc2212dc28bd8975c20c0b.jpg",
+  "source_url": "https://twitter.com/roytang/status/1194798433502150658#favorited-by-955453269727363072",
+  "mention_url": "https://twitter.com/roytang/status/1194798433502150658#favorited-by-955453269727363072",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Yael Esperat",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7963c6dee679566b89086e7e77bf879e46380f3a15fc2212dc28bd8975c20c0b.jpg",
+      "url": "https://twitter.com/oyelski"
+    },
+    "url": "https://twitter.com/roytang/status/1194798433502150658#favorited-by-955453269727363072",
+    "published": null,
+    "wm-received": "2019-11-14T02:27:05Z",
+    "wm-id": 724213,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1194798433502150658/955453269727363072",
+    "wm-target": "https://roytang.net/2019/11/tales-from-p2p/",
+    "like-of": "https://roytang.net/2019/11/tales-from-p2p/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

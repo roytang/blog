@@ -1,1 +1,34 @@
-{"text": "Liked Indieweb Updates and Thoughts by  Roy Tang\nI mentioned before that I was looking into indieweb stuff. There\u2019s a whole wiki of information about it if you\u2019re into that sort of thing, but also here\u2019s a recent post which kind of serves as an overview..https://simply.micro.jenett.org/2019/11/11/20:50:10/", "id": "webmention-723325", "type": "mention-of", "url": "https://simply.micro.jenett.org/author/admin/", "photo": "https://webmention.io/avatar/secure.gravatar.com/07bfd9ed555db1a8279c364effe6155c8c0fe4418da9438cd45ebd326d6bdb86.png", "mention_url": "https://simply.micro.jenett.org/2019/11/11/20:50:10/", "name": "joe jenett", "source_url": "https://simply.micro.jenett.org/2019/11/11/20:50:10/", "date": "2019-11-12 01:50:18", "source": "webmention"}
+{
+  "id": "webmention-723325",
+  "type": "comment",
+  "name": "joe jenett",
+  "url": "https://simply.micro.jenett.org/author/admin/",
+  "text": "[https://simply.micro.jenett.org/2019/11/11/20:50:10/](https://simply.micro.jenett.org/2019/11/11/20:50:10/) mentioned [https://roytang.net/2019/11/indieweb/](https://roytang.net/2019/11/indieweb/)",
+  "date": "2019-11-12 01:50:18",
+  "photo": "https://webmention.io/avatar/secure.gravatar.com/07bfd9ed555db1a8279c364effe6155c8c0fe4418da9438cd45ebd326d6bdb86.png",
+  "source_url": "https://simply.micro.jenett.org/2019/11/11/20:50:10/",
+  "mention_url": "https://simply.micro.jenett.org/2019/11/11/20:50:10/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "joe jenett",
+      "photo": "https://webmention.io/avatar/secure.gravatar.com/07bfd9ed555db1a8279c364effe6155c8c0fe4418da9438cd45ebd326d6bdb86.png",
+      "url": "https://simply.micro.jenett.org/author/admin/"
+    },
+    "url": "https://simply.micro.jenett.org/2019/11/11/20:50:10/",
+    "published": "2019-11-11T20:50:10+00:00",
+    "wm-received": "2019-11-12T01:50:18Z",
+    "wm-id": 723325,
+    "wm-source": "https://simply.micro.jenett.org/2019/11/11/20:50:10/",
+    "wm-target": "https://roytang.net/2019/11/indieweb/",
+    "content": {
+      "html": "Liked <a href=\"https://roytang.net/2019/11/indieweb/\" class=\"p-name u-url\">Indieweb Updates and Thoughts</a> by <a href=\"https://roytang.net\" class=\"h-card p-author\"> Roy Tang</a>\n<blockquote class=\"e-summary\"><p>I mentioned before that I was looking into indieweb stuff. There\u2019s a whole wiki of information about it if you\u2019re into that sort of thing, but also here\u2019s a recent post which kind of serves as an overview..</p></blockquote><p><a href=\"https://simply.micro.jenett.org/2019/11/11/20:50:10/\">https://simply.micro.jenett.org/2019/11/11/20:50:10/</a></p>",
+      "text": "Liked Indieweb Updates and Thoughts by  Roy Tang\nI mentioned before that I was looking into indieweb stuff. There\u2019s a whole wiki of information about it if you\u2019re into that sort of thing, but also here\u2019s a recent post which kind of serves as an overview..https://simply.micro.jenett.org/2019/11/11/20:50:10/"
+    },
+    "mention-of": "https://roytang.net/2019/11/indieweb/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}

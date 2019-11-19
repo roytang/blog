@@ -1,1 +1,30 @@
-{"date": "2019-11-11 11:00:47", "url": "https://grant.codes/", "source": "webmention", "mention_url": "https://grant.codes/2019/11/11/11-00-37", "name": "Grant Richmond", "id": "webmention-723194", "photo": "https://webmention.io/avatar/images.weserv.nl/dfb65a6f7511453c890e0808b4d455c8e7db06586874e1db43d7d974636786eb.jpg", "text": "", "source_url": "https://grant.codes/2019/11/11/11-00-37"}
+{
+  "id": "webmention-723194",
+  "type": "like",
+  "name": "Grant Richmond",
+  "url": "https://grant.codes/",
+  "text": "[Grant Richmond](https://grant.codes/) liked this [on twitter](https://grant.codes/2019/11/11/11-00-37)",
+  "date": "2019-11-11 11:00:47",
+  "photo": "https://webmention.io/avatar/images.weserv.nl/dfb65a6f7511453c890e0808b4d455c8e7db06586874e1db43d7d974636786eb.jpg",
+  "source_url": "https://grant.codes/2019/11/11/11-00-37",
+  "mention_url": "https://grant.codes/2019/11/11/11-00-37",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Grant Richmond",
+      "photo": "https://webmention.io/avatar/images.weserv.nl/dfb65a6f7511453c890e0808b4d455c8e7db06586874e1db43d7d974636786eb.jpg",
+      "url": "https://grant.codes/"
+    },
+    "url": "https://grant.codes/2019/11/11/11-00-37",
+    "published": "2019-11-11T11:00:37",
+    "wm-received": "2019-11-11T11:00:47Z",
+    "wm-id": 723194,
+    "wm-source": "https://grant.codes/2019/11/11/11-00-37",
+    "wm-target": "https://roytang.net/2019/11/indieweb/",
+    "like-of": "https://roytang.net/2019/11/indieweb/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

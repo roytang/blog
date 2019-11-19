@@ -1,1 +1,30 @@
-{"url": "https://twitter.com/baphometadata", "photo": "https://webmention.io/avatar/pbs.twimg.com/f2b7cc9298e924d71ad280533ef373b2b7a2bc61b0a2f212aac8b72c86faaa19.jpg", "type": "like-of", "name": "DAD SHOGGOTH \ud83d\udc40 \ud83d\udc40", "text": "", "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1193551787376156672/2868925860", "source": "webmention", "mention_url": "https://twitter.com/roytang/status/1193551787376156672#favorited-by-2868925860", "id": "webmention-723317", "date": "2019-11-11 23:44:35"}
+{
+  "id": "webmention-723317",
+  "type": "like",
+  "name": "DAD SHOGGOTH \ud83d\udc40 \ud83d\udc40",
+  "url": "https://twitter.com/baphometadata",
+  "text": "[DAD SHOGGOTH \ud83d\udc40 \ud83d\udc40](https://twitter.com/baphometadata) liked this [on twitter](https://twitter.com/roytang/status/1193551787376156672#favorited-by-2868925860)",
+  "date": "2019-11-11 23:44:35",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/f2b7cc9298e924d71ad280533ef373b2b7a2bc61b0a2f212aac8b72c86faaa19.jpg",
+  "source_url": "https://twitter.com/roytang/status/1193551787376156672#favorited-by-2868925860",
+  "mention_url": "https://twitter.com/roytang/status/1193551787376156672#favorited-by-2868925860",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "DAD SHOGGOTH \ud83d\udc40 \ud83d\udc40",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f2b7cc9298e924d71ad280533ef373b2b7a2bc61b0a2f212aac8b72c86faaa19.jpg",
+      "url": "https://twitter.com/baphometadata"
+    },
+    "url": "https://twitter.com/roytang/status/1193551787376156672#favorited-by-2868925860",
+    "published": null,
+    "wm-received": "2019-11-11T23:44:35Z",
+    "wm-id": 723317,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1193551787376156672/2868925860",
+    "wm-target": "https://roytang.net/2019/11/indieweb/",
+    "like-of": "https://roytang.net/2019/11/indieweb/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
