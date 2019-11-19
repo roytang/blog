@@ -8,9 +8,11 @@
   {{ with .Site.Params.micropub_endpoint }}  
   <link rel="micropub" href="{{ . }}">   
   {{ end }}
+  {{ if .IsPage }}
   {{ with .Site.Params.webmention_username }}  
     <link rel="webmention" href="https://webmention.io/{{ . }}/webmention" />
     <link rel="pingback" href="https://webmention.io/{{ . }}/xmlrpc" />  
+  {{ end }}
   {{ end }}
   {{ partial "metas" . }}
   <link rel="stylesheet" href="/css/main.css" />
