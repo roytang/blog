@@ -1,7 +1,10 @@
 ---
-title: "The World Can Be Suffocating"
-date: 2019-11-05T20:08:23+08:00
+date: 2019-11-05 12:08:23
 slug: world-can-be-suffocating
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1191735312248180737/
+title: The World Can Be Suffocating
 ---
 
 The world can be suffocating.

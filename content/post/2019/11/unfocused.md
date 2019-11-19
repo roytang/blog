@@ -1,6 +1,9 @@
 ---
-title: "Unfocused"
 date: 2019-11-08
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1192676847038992390/
+title: Unfocused
 ---
 
 I am envious sometimes of people who are able to narrow down their interests to a specific scope, it's kind of like a lot of their decisions are made easier. Consider a person whose only hobby/interest is something like sports (not necessarily all sports, or just one sport, just sports in general).

@@ -1,9 +1,12 @@
 ---
-title: "What to do in a production crisis"
-slug: prod-crisis
 date: 2019-11-12
+slug: prod-crisis
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1194052290363232257/
 tags:
 - software development
+title: What to do in a production crisis
 ---
 
 Despite our best efforts as software developers, it can still happen: production goes down. Or some sort of bug introduces catastrophic data error. Hopefully you have a support/DevOps team to handle the response. If not, the dev team themselves have to step in. This usual means a mad rush to figure out what happened and how to fix it, sometimes during off hours and maybe even into the early morning, all while facing pressure from clients and higher-ups. I was advising another developer in such a situation a while back, and it was his first stint as technical lead so he was extra worried. I gave him a few tips to see him through the time of crisis.

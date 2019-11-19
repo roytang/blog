@@ -1,10 +1,13 @@
 ---
-title: "Anime Opening/Ending Themes"
+date: 2019-11-11 05:07:32
 slug: anime-op
-date: 2019-11-11T13:07:32+08:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1193770770398400512/
 tags:
 - anime
 - music
+title: Anime Opening/Ending Themes
 ---
 
 Had a friendly discussion last night about our favorite anime theme music, figured I'd share some of my favorites. J-Pop in general and anime theme music in particular have a kind of energy that you just don't get from Western music. I think that generally I tend to favor those that openings for series that I had a chance to watch on TV (instead of via streaming/online channels), since back in those days I had to sit through the openings! (So most of these are rather old!)

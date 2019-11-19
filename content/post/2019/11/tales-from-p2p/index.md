@@ -1,9 +1,12 @@
 ---
-title: "Tales from a P2P Bus"
-slug: tales-from-p2p
 date: 2019-11-14
+slug: tales-from-p2p
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1194798433502150658/
 tags:
 - philippines
+title: Tales from a P2P Bus
 ---
 
 It's a lot more uncommon for me to go to places like Ortigas or Makati nowadays, but when I do I almost always take the P2P bus. The P2P (Point-to-Point) buses were introduced in Metro Manila I think around late 2015/early 2016, as a pricier alternative to the usual city buses. The fares are more expensive, but the buses are also much more comfortable and they don't make stops along their route, only at the endpoints, so their travel time is faster compared to the usual city buses.

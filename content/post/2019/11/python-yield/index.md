@@ -1,10 +1,13 @@
 ---
-title: "DevNotes: Python's yield"
-slug: python-yield
 date: 2019-11-07
+slug: python-yield
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1192280118468792321/
 tags:
 - software development
 - devnotes
+title: 'DevNotes: Python''s yield'
 ---
 
 I've been using Python for well over 10 years, and I still don't have an intuitive mastery of one of its keywords: `yield`. Everytime I see it in someone's code I need to stop and mentally remind myself what it does. I figured I'd write a devnote to help improve my recall.

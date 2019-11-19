@@ -1,9 +1,12 @@
 ---
-title: "An Offline Walk"
-slug: an-offline-walk
 date: 2019-11-16
+slug: an-offline-walk
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1195500391577915393/
 tags:
 - tech life
+title: An Offline Walk
 ---
 
 The other day, a family member mistakenly took my phone with them to the office so I was without a phone all day. This meant my daily walk had to be offline, which was a weird thing I hadn't experienced in a while. I couldn't help but note my hand's instinctively reaching for the mobile phone that wasn't there. Mobile phones are so ubiquitous in our daily lives, but sometimes it feels like a crutch how we can be totally dependent on them.

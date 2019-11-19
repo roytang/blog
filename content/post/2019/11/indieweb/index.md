@@ -1,11 +1,14 @@
 ---
-title: "Indieweb Updates and Thoughts"
-slug: indieweb
 date: 2019-11-10 15:00:00
+slug: indieweb
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1193551787376156672/
 tags:
 - tech life
 - meta
 - changelog
+title: Indieweb Updates and Thoughts
 ---
 
 I [mentioned before](/2019/07/move-fast-break-things/) that I was looking into indieweb stuff. There's a [whole wiki of information](https://indieweb.org/) about it if you're into that sort of thing, but also [here's a recent post](https://www.jvt.me/posts/2019/10/20/indieweb-talk/) which kind of serves as an overview. I have some comments on the content of this post, more on that [later](#later).
@@ -37,4 +40,3 @@ The thing about these concepts is that there is a lot of work involved and there
 I can imagine there might be created a service that supports most of the Indieweb features and can easily be adopted by the mass market, although that has a lot of its own challenges as well, and it's kind of like replacing one kind of silo with another? At least it would be a more open silo I guess? I think [micro.blog](https://micro.blog/) already supports the indieweb stuff, but I haven't yet looked too closely into that.
 
 I am still moving forward with the indieweb stuff, and I am hopeful that it manages to coalesce into something that can challenge the way the modern internet works, but that may be a long way off. As far as I can tell, adoption is not yet very widespread, and AFAICT the main people driving the effort with their [Homebrew Website Clubs](https://indieweb.org/events/2019-11-13-homebrew-website-club) are in Western countries. It's even possible that I'm the first in the Philippines looking into this Indieweb stuff. :)
-

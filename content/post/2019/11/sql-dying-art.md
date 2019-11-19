@@ -1,10 +1,13 @@
 ---
-title: "Is SQL a dying art?"
-slug: sql-dying-art
 date: 2019-11-13
+slug: sql-dying-art
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1194436027081019406/
 tags:
 - software development
 - sql
+title: Is SQL a dying art?
 ---
 
 I was helping my brother check some database issues the other week, and he mentioned how impressed he was with how quickly I was able to come up with SQL queries on the fly. I told him that SQL was one of the skills I considered myself to have mastery over. This shouldn't be surprising given my early career path:
@@ -22,4 +25,3 @@ These days I feel like SQL knowledge has become a much rarer skill among develop
 - a possible secondary reason is the rise of alternative data storage solutions such as NoSQL databases.
 
 Realistically, the need for people who can write good SQL may never go away, but the poor of people who can do so may be getting smaller due to the reasons above. Well, maybe it's a good thing for me, since scarcity means it may become a more valuable skill as time goes on!
-

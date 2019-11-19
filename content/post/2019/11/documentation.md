@@ -1,9 +1,12 @@
 ---
-title: "The Perils of Handover Documentation"
+date: 2019-11-06 12:07:37
 slug: handover-documentation
-date: 2019-11-06T20:07:37+08:00
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1192065025537716226/
 tags:
 - software development
+title: The Perils of Handover Documentation
 ---
 
 A while back I found myself having to figure out how to compile/build/run a mobile application. The developers previously assigned to the project were no longer available to consult with, but they did leave behind some documentation. However, their documentation quality left a lot to be desired. The instructions they left basically amounted to:

@@ -1,14 +1,18 @@
 ---
-title: "Hong Kong: The Revolution of Our Time"
-slug: hong-kong-revolution-of-our-time
 date: 2019-11-15
+featuredImage: https://roytang.net/2019/11/hong-kong-revolution-of-our-time/mei-hong-kong.jpg
+resources:
+- src: mei-hong-kong.jpg
+  title: 'Not surprisingly, the online gaming community has been more supportive,
+    appropriating Mei from Overwatch as a symbol of the protests. (Image source: reddit)'
+slug: hong-kong-revolution-of-our-time
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1195160540429066241/
 tags:
 - current events
 - hong kong
-resources:
-- src: mei-hong-kong.jpg
-  title: 'Not surprisingly, the online gaming community has been more supportive, appropriating Mei from Overwatch as a symbol of the protests. (Image source: reddit)'
-featuredImage: https://roytang.net/2019/11/hong-kong-revolution-of-our-time/mei-hong-kong.jpg
+title: 'Hong Kong: The Revolution of Our Time'
 ---
 
 Hong Kong is on fire. 

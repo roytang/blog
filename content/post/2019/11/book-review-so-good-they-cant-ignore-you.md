@@ -1,10 +1,13 @@
 ---
-title: "Book Review: So Good They Cant Ignore You by Cal Newport"
-slug: So Good They Can't Ignore You
 date: 2019-11-09
+slug: So Good They Can't Ignore You
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1192987972989325312/
 tags:
 - books
 - review
+title: 'Book Review: So Good They Cant Ignore You by Cal Newport'
 ---
 
 Aha! I finally managed to finish a book again!
