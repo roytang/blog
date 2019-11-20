@@ -1,1 +1,37 @@
-{"date": "2019-11-11 09:20:14", "source": "webmention", "mention_url": "https://janboddez.tech/notes/946613625", "name": "Jan Boddez", "text": "\u201cIndieWeb Updates and Thoughts\u201d https://roytang.net/2019/11/indieweb/", "source_url": "https://janboddez.tech/notes/946613625", "photo": "", "url": "https://janboddez.tech/", "id": "webmention-723186"}
+{
+  "id": "webmention-723186",
+  "type": "comment",
+  "name": "Jan Boddez",
+  "url": "https://janboddez.tech/",
+  "text": "<p>\u201cIndieWeb Updates and Thoughts\u201d<span> <a href=\"https://roytang.net/2019/11/indieweb/\">https://roytang.net/2019/11/indieweb/</a></span></p>",
+  "date": "2019-11-11 09:20:14",
+  "photo": "",
+  "source_url": "https://janboddez.tech/notes/946613625",
+  "mention_url": "https://janboddez.tech/notes/946613625",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jan Boddez",
+      "photo": "",
+      "url": "https://janboddez.tech/"
+    },
+    "url": "https://janboddez.tech/notes/946613625",
+    "published": "2019-11-11T10:03:04+01:00",
+    "wm-received": "2019-11-11T09:20:14Z",
+    "wm-id": 723186,
+    "wm-source": "https://janboddez.tech/notes/946613625",
+    "wm-target": "https://roytang.net/2019/11/indieweb/",
+    "syndication": [
+      "https://mastodon.social/@janboddez/103118536993576491"
+    ],
+    "content": {
+      "html": "<p>\u201cIndieWeb Updates and Thoughts\u201d<span> <a href=\"https://roytang.net/2019/11/indieweb/\">https://roytang.net/2019/11/indieweb/</a></span></p>",
+      "text": "\u201cIndieWeb Updates and Thoughts\u201d https://roytang.net/2019/11/indieweb/"
+    },
+    "mention-of": "https://roytang.net/2019/11/indieweb/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
