@@ -1,8 +1,3 @@
 {{ if not .Params.hidden }}
-{{ .Scratch.Set "list_item" "Y" }}
-<article class="list_item {{ .Type }} h-entry">
-    {{ .Render "summary.hat" }}
-    {{ .Render "summary.content" }}
-    {{ .Render "summary.boot" }}
-</article>
+{{ partialCached "summary" . .File.Path }}
 {{ end }}
