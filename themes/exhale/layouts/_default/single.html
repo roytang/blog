@@ -1,8 +1,7 @@
-{{ partial "head" . }}
+{{ define "main" }}
 <article class="list_item {{ .Type }} h-entry">
 {{ .Render "single.hat" }}
 {{ .Render "single.content" }}
 {{ .Render "single.boot" }}
 </article>
-{{ partial "block/hero" . }}
-{{ partial "foot" . }}
+{{ end }}

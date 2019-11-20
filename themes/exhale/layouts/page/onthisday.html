@@ -1,8 +1,8 @@
+{{ define "main" }}
 {{ $scratch := newScratch }}
 {{ $archMonth := now.Format "January" }}
 {{ $archDay := now.Format "02" }}
 
-{{ partial "head" . }}
 <section class="h-feed">
 <h2 class="p-name">On this day</h2>
 
@@ -22,5 +22,4 @@
 
 </section>
 
-{{ partial "block/navigation" . }}
-{{ partial "foot" . }}
+{{ end }}

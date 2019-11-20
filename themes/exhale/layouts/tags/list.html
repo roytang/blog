@@ -1,4 +1,4 @@
-{{ partial "head" . }}
+{{ define "main" }}
   <section class="h-feed">
     <a class="u-url" href="{{ .Permalink }}"></a>
     <p class="p-name">All entries tagged {{ .Title }}.</p>
@@ -11,5 +11,4 @@
   {{ end }}
   {{ partial "pagination" . }}
 </section>
-{{ partial "block/hero" . }}
-{{ partial "foot" . }}
+{{ end }}

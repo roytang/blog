@@ -14,4 +14,8 @@
 <div class="secondheader">
     {{ partial "header/search" . }}
 </div>
-
+<div class="panel">
+    {{ range .Site.Data.Menu }}
+    <a href="{{ .URL | absURL }}"{{ if and ( isset . "Title" ) ( ne .Title "" ) }} title="{{ .Title }}"{{ end }}>{{ .Name }}</a>
+    {{ end }}
+</div>

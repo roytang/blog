@@ -1,7 +1,4 @@
-{{ partial "head" . }}
-
-{{ partial "block/hero" . }}
-
+{{ define "main" }}
 <section class="h-feed">
     <a class="u-url" href="/"></a>
     <h1 class="p-name">Recent Activity</h1>
@@ -16,5 +13,4 @@
 
 <p>Want to read more? You can browse different types of content below:</p>
 {{ partial "block/section-list" . }}
-
-{{ partial "foot" . }}
+{{ end }}

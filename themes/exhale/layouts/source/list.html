@@ -1,4 +1,4 @@
-{{ partial "head" . }}
+{{ define "main" }}
   <section class="h-feed">
       {{ with .Params.description }}
       <p class="p-name">{{ . | markdownify }}.</p>
@@ -14,5 +14,4 @@
   {{ end }}
   {{ partial "pagination" . }}
 </section>
-{{ partial "block/hero" . }}
-{{ partial "foot" . }}
+{{ end }}

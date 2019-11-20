@@ -1,4 +1,4 @@
-{{ partial "head" . }}
+{{ define "main" }}
   <section class="h-feed">
       <a class="u-url" href="{{ .Permalink }}"></a>
       <p class="p-name">{{ .Title }}.</p>
@@ -12,5 +12,4 @@
   {{ partial "pagination" . }}
 
 </section>
-{{ partial "block/hero" . }}
-{{ partial "foot" . }}
+{{ end }}

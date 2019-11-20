@@ -1,7 +1,6 @@
-{{ partial "head" . }}
-{{ partial "block/title" . }}
+{{ define "main" }}
 <article class="page">
 {{ .Render "single.content" }}
 </article>
 {{ partial "block/hero" . }}
-{{ partial "foot" . }}
+{{ end }}

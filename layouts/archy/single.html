@@ -1,7 +1,8 @@
+{{ define "main" }}
+
 {{ $scratch := newScratch }}
 {{ $archYear := .Date.Format "2006" }}
 
-{{ partial "head" . }}
 <section class="h-feed">
 <h2 class="p-name">Archive for {{ $archYear }}</h2>
 
@@ -43,4 +44,5 @@
 </section>
 
 {{ partial "block/navigation" . }}
-{{ partial "foot" . }}
+
+{{ end }}

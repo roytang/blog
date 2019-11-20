@@ -1,4 +1,4 @@
-{{ partial "head" . }}
+{{ define "main" }}
   <section class="h-feed">
         {{ $sections := .Site.Data.Sections }}
         {{ $section := index $sections .Type }}    
@@ -12,5 +12,4 @@
   {{ partial "pagination" . }}
 
 </section>
-{{ partial "block/hero" . }}
-{{ partial "foot" . }}
+{{ end }}
