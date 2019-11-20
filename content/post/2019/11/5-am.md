@@ -1,7 +1,10 @@
 ---
-title: "Five AM"
 date: 2019-11-20
 slug: five-am
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1196972579342475266/
+title: Five AM
 ---
 
 The world looks a bit different at 5 AM.
