@@ -1,11 +1,14 @@
 ---
-title: "Grab Overpricing"
 date: 2019-11-21
 slug: grab-overpricing
-tags: 
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1197335006806519808/
+tags:
 - tech life
 - current events
 - philippines
+title: Grab Overpricing
 ---
 
 So the Philippine Competition Commission recently [fined rideshare provider Grab P23M for overcharging their customers](https://www.philstar.com/business/2019/11/19/1969865/grab-fined-p23-million-overcharging). Apparently only P5M of that is meant to go back to the affected riders, which seems like a piddly amount considering the number of riders in the Philippines. We'll see how of that I actually get credited back, if any.
