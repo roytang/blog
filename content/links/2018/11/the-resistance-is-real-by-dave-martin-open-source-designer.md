@@ -8,4 +8,7 @@ link:
 slug: the-resistance-is-real-by-dave-martin-open-source-designer
 source: pocket
 title: The Resistance is Real by Dave Martin | Open Source Designer
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1066085770858033152/
 ---

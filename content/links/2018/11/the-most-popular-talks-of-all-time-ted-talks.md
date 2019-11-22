@@ -8,4 +8,7 @@ link:
 slug: the-most-popular-talks-of-all-time-ted-talks
 source: pocket
 title: The most popular talks of all time | TED Talks
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1066095420668030977/
 ---

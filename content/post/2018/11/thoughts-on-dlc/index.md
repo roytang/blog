@@ -2,7 +2,11 @@
 author: roy
 categories: []
 date: 2018-11-23 02:06:56
-featuredImage: https://scontent.fmnl6-1.fna.fbcdn.net/v/t1.0-9/46457953_2126057790765540_2707398764645056512_n.png?_nc_cat=1&_nc_eui2=AeHlamd43MbKtvYNgW45S4CHv4ea2ts2v74dzHS9LWX7MAEUvwWfk9DjIcbDh6EiHjuR0kVC1rcyPicuAUBur1GvYEetvA3_oJsfib86AVmQuQ&_nc_ht=scontent.fmnl6-1.fna&oh=2215ae92187e8f4748a2952ee8b7d47d&oe=5C8194C5
+featuredResource: 
+  filename: dlc-as-burgers.jpg
+resources:
+  src: dlc-as-burgers.jpg
+  title: DLC as Burgers
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1065802775878090752/
@@ -10,11 +14,13 @@ tags:
 - Gaming
 title: Thoughts on DLC
 type: post
+dontinlinephotos: true
 ---
 
 This meme appeared on my timelines again and so I thought I'd talk about DLCs for a bit.
 
-![DLCs as burgers](https://scontent.fmnl6-1.fna.fbcdn.net/v/t1.0-9/46457953_2126057790765540_2707398764645056512_n.png?_nc_cat=1&_nc_eui2=AeHlamd43MbKtvYNgW45S4CHv4ea2ts2v74dzHS9LWX7MAEUvwWfk9DjIcbDh6EiHjuR0kVC1rcyPicuAUBur1GvYEetvA3_oJsfib86AVmQuQ&_nc_ht=scontent.fmnl6-1.fna&oh=2215ae92187e8f4748a2952ee8b7d47d&oe=5C8194C5)
+
+{{< img src="dlc-as-burgers.jpg" alt="DLC as Burgers" >}}
 
 Spoiler: I largely disagree with the sentiment that the state of DLC in gaming is pretty bad. I've commented quite a few times on Reddit threads regarding this over the years, here's [my favorite one](https://www.reddit.com/r/gaming/comments/fxbd5/im_sick_of_this_entire_dlc_scam_cutting_content/c1jdipw/):
 
