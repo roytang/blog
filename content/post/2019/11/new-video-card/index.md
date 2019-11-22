@@ -1,19 +1,24 @@
 ---
 author: roy
 date: 2019-11-22
-tags:
-- tech life
-title: New Video Card! 
-slug: new-video-card
-type: post
 featuredImage: https://roytang.net/2019/11/new-video-card/box.jpg
 resources:
 - src: 3dmark2.jpg
-  title: '3dMARK test results'
+  title: 3dMARK test results
 - src: box.jpg
-  title: 'I forgot to take a pic of the card after unboxing, so have a pic of the box instead.'
+  title: I forgot to take a pic of the card after unboxing, so have a pic of the box
+    instead.
 - src: case.jpg
-  title: 'The card glowing after installation inside my super dusty case (I will clean it out someday soonish!)'
+  title: The card glowing after installation inside my super dusty case (I will clean
+    it out someday soonish!)
+slug: new-video-card
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1197698518749786114/
+tags:
+- tech life
+title: New Video Card!
+type: post
 ---
 
 This is a follow up to my previous [posts](/2019/08/the-great-memory-scare-of-2019/) about my [2019 PC troubles](/2019/09/two-backups/).
@@ -48,4 +53,3 @@ Next were the game tests!
 - Dragon Ball Fighter Z: Smooth!
 
 Alright, everything looks good! I'll probably be testing the card with a few other games over the weekend, but otherwise everything looks great!
-
