@@ -6,13 +6,33 @@
 
 {{ $mainPermalink := .Permalink }}
 {{ with .Params.featuredImage }}
-<div class="image-list">
-    <a href="{{ $mainPermalink }}">
-        <figure>
-        <img src="{{ . }}" />
-        </figure>
-    </a>
-</div>
+    <div class="image-list">
+        <a href="{{ $mainPermalink }}">
+            <figure>
+            <img src="{{ . }}" />
+            </figure>
+        </a>
+    </div>
 {{ end }}
+
+{{ if .Params.featuredResource }}
+    {{ $mainPermalink := .RelPermalink }}
+    {{ $caption := .Title | default .Summary }}
+    <div class="image-list">
+        {{ if .Params.featuredResource.photo }}
+            {{ $filename := .Params.featuredResource.filename }}
+            {{ range where (where .Site.RegularPages "Section" "photos" ) ".RelPermalink" "==" .Params.featuredResource.photo }}
+                {{ range .Resources.Match $filename }}
+                    {{ partial "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) }}    
+                {{ end }}
+            {{ end }}
+        {{ else }}
+            {{ range .Resources.Match .Params.featuredResource.filename }}
+                {{ partial "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) }}    
+            {{ end }}
+        {{ end }}
+    </div>
+{{ end }}
+
 
 </div>

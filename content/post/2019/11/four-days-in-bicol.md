@@ -2,7 +2,9 @@
 author: roy
 categories: []
 date: 2019-11-04
-featuredImage: https://roytang.net/2019/11/bicol-trip-photo-dump/20191102_082508.jpg
+featuredResource:
+  photo: "/2019/11/bicol-trip-photo-dump/"
+  filename: "20191102_082508.jpg"
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1191241464069668864/

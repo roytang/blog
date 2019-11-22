@@ -1,0 +1,15 @@
+{{ $scratch := newScratch }}
+{{ $scratch.Set "thumbnail" (.context.Resize "300x") }}
+{{ $thumb := $scratch.Get "thumbnail" }}
+{{ if not (eq .context.Title .context.Name) }}
+  {{ $scratch.Set "figcaption" .context.Title }}
+{{ else }}
+  {{ $scratch.Set "figcaption" .caption }}
+{{ end }}
+{{ $figcaption := $scratch.Get "figcaption" }}
+
+<a href="{{ .mainPermalink }}#{{ .context.Name | safeURL }}">
+    <figure>
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" />
+    </figure>
+</a>

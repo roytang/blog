@@ -4,15 +4,4 @@
 <p><a href="{{ .Permalink }}">read more ({{ .WordCount }} words)</a></p>
 {{ end }}
 
-{{ $mainPermalink := .Permalink }}
-{{ with .Params.featuredImage }}
-<div class="image-list">
-    <a href="{{ $mainPermalink }}">
-        <figure>
-        <img src="{{ . }}" />
-        </figure>
-    </a>
-</div>
-{{ end }}
-
 </div>

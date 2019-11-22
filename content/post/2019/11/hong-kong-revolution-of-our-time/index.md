@@ -1,6 +1,7 @@
 ---
 date: 2019-11-15
-featuredImage: https://roytang.net/2019/11/hong-kong-revolution-of-our-time/mei-hong-kong.jpg
+featuredResource: 
+  filename: mei-hong-kong.jpg
 resources:
 - src: mei-hong-kong.jpg
   title: 'Not surprisingly, the online gaming community has been more supportive,

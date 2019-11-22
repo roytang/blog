@@ -1,7 +1,8 @@
 ---
 author: roy
 date: 2019-11-22
-featuredImage: https://roytang.net/2019/11/new-video-card/box.jpg
+featuredResource: 
+  filename: box.jpg
 resources:
 - src: 3dmark2.jpg
   title: 3dMARK test results

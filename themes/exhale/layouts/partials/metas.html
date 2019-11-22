@@ -36,11 +36,29 @@
     {{ end }}
   {{ end }}
 
-{{ if .Params.featuredImage }}
-<meta property="og:image" content="{{ .Params.featuredImage }}">
-{{ else if .Site.Params.featuredImage }}
-<meta property="og:image" content="{{ .Site.Params.featuredImage }}">
+
+{{ $.Scratch.Set "featuredImage" .Site.Params.featuredImage }}
+{{ with .Params.featuredImage }}
+  {{ $.Scratch.Set "featuredImage" . }}
 {{ end }}
+
+{{ if .Params.featuredResource }}
+    {{ if .Params.featuredResource.photo }}
+        {{ $filename := .Params.featuredResource.filename }}
+        {{ range where (where .Site.RegularPages "Section" "photos" ) ".RelPermalink" "==" .Params.featuredResource.photo }}
+            {{ range .Resources.Match $filename }}
+              {{ $.Scratch.Set "featuredImage" .Permalink }}              
+            {{ end }}
+        {{ end }}
+    {{ else }}
+        {{ range .Resources.Match .Params.featuredResource.filename }}
+            {{ $.Scratch.Set "featuredImage" .Permalink }}              
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ $.Scratch.Get "featuredImage" }}
+<meta property="og:image" content='{{ $.Scratch.Get "featuredImage" }}'>
 
   {{ if ne .Site.Params.twitter "" }}
 <meta name="twitter:card" content="summary" />
@@ -50,11 +68,7 @@
 <meta name="twitter:description" content="{{ .Description }}" />
 <meta name="twitter:url" content="{{ .Permalink }}" />
 <meta name="twitter:domain" content="{{ .Site.BaseURL }}">
-{{ if .Params.featuredImage }}
-<meta name="twitter:image" content="{{ .Params.featuredImage | absURL }}">
-{{ else if .Site.Params.featuredImage }}
-<meta name="twitter:image" content="{{ .Site.Params.featuredImage }}">
-{{ end }}
+<meta name="twitter:image" content='{{ $.Scratch.Get "featuredImage" }}'>
   {{ end }}
 
 <script type="application/ld+json">
