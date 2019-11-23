@@ -1,11 +1,14 @@
 ---
-title: "One Year with Hugo: Highs and Lows"
-date: 2019-11-23T03:48:47+08:00
+date: 2019-11-22 19:48:47
 slug: one-year-with-hugo
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1198008086260338689/
 tags:
 - tech life
 - blogging
 - hugo
+title: 'One Year with Hugo: Highs and Lows'
 ---
 
 It was a bit more than a year ago that I decided to [haphazardly and suddenly migrate from Wordpress to Hugo](/2018/11/site-migration-from-wordpress-to-hugo/). It's a good time to look back and reflect on that decision and consider where we are now, and how to move forward.
