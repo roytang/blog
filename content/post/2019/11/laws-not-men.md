@@ -2,6 +2,9 @@
 title: "Laws Not Men"
 slug: laws-not-men
 date: 2019-11-24T10:47:57+08:00
+tags:
+- philippines
+- current events
 ---
 
 In yet another example of what is wrong with this country, the [PNP are planning to arrest vape users](https://www.philstar.com/headlines/2019/11/21/1970619/pnp-begins-enforcing-vape-ban-duterte-warns-courts) after [Duterte's directive](https://cnnphilippines.com/news/2019/11/19/Rodrigo-Duterte-vape-ban.html), despite there actually being yet no law or executive order banning vaping. Thus, the arrests are meaningless and merely another form of harassment.
