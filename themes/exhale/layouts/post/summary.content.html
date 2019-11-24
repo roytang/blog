@@ -23,12 +23,12 @@
             {{ $filename := .Params.featuredResource.filename }}
             {{ range where (where .Site.RegularPages "Section" "photos" ) ".RelPermalink" "==" .Params.featuredResource.photo }}
                 {{ range .Resources.Match $filename }}
-                    {{ partial "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) }}    
+                    {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Name }}    
                 {{ end }}
             {{ end }}
         {{ else }}
             {{ range .Resources.Match .Params.featuredResource.filename }}
-                {{ partial "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) }}    
+                {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Name }}    
             {{ end }}
         {{ end }}
     </div>
