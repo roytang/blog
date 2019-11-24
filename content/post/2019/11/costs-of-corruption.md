@@ -19,5 +19,5 @@ It's easy to say, "I don't want to make a scene, I'll just keep quiet and live m
 
 Given our current leadership, I had been thinking recently about what an actual good administration would look like. In my view, the point of presidency shouldn't just be to execute the laws, but to provide an example of leadership for the people, in that he/she inspires the people to be better. I don't yet know how it can be done, but for any one president to be able to turn this country around, he needs to be able to inspire the citizenry to not just be good citizens, but to be better than that. A great president will need to understand that the success of his term doesn't depend solely on him and his appointees, but rather on each citizen taking a stand against the normalized corruption in our culture.
 
-Again, maybe someday.
+This might be a bit difficult for a president limited to a six year term, certainly a lot of political will is needed. And not the kind that you [squander on political favors](/2016/11/10155101341788912/). A tall order, but we as a country should be better for the trying. Again, maybe someday.
 
