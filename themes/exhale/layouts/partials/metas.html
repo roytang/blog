@@ -57,7 +57,6 @@
     {{ end }}
 {{ end }}
 
-{{ $.Scratch.Get "featuredImage" }}
 <meta property="og:image" content='{{ $.Scratch.Get "featuredImage" }}'>
 
   {{ if ne .Site.Params.twitter "" }}
