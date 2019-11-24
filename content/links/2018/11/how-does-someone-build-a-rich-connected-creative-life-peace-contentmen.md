@@ -8,4 +8,7 @@ link:
 slug: how-does-someone-build-a-rich-connected-creative-life-peace-contentmen
 source: pocket
 title: How does someone build a rich, connected, creative life? - peace contentmen
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1066587578739163137/
 ---
