@@ -10,8 +10,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154831960403912
 tags:
-- videos
 - sketchdaily
+- videos
 ---
 
 Sketch timelapse using Procreate

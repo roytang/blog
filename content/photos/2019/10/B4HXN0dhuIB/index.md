@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B4HXN0dhuIB/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 26: dark #inktober #sketchdaily

@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B4QaJrDlp7n/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 31: ripe #inktober #sketchdaily woohoo completed!

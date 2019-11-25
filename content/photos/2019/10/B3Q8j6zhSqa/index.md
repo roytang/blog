@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B3Q8j6zhSqa/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 6: husky #inktober #sketchdaily

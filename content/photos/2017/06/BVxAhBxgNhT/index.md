@@ -14,10 +14,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155788062223912
 tags:
-- sketchdaily
 - sketch
-- zelda
+- sketchdaily
 - botw
+- zelda
 ---
 
 Breath of the Wild - Guardian #sketch  #sketchdaily #zelda #botw

@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B3V_VkYBvOn/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 8: frail #inktober #sketchdaily this one didnt turn out as well as i imagined it would

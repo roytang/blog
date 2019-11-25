@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B3qjuL4hVGd/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 15: legend #inktober #sketchdaily maybe phoning it in a bit here lol. some of the green bled through from the last one

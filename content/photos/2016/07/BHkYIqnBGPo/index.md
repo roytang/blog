@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154727225983912:0
 tags:
-- fallout
 - sketchdaily
+- fallout
 ---
 
 Welcome to the wasteland #fallout #sketchdaily

@@ -10,8 +10,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154854195993912
 tags:
-- videos
 - sketchdaily
+- videos
 ---
 
 Petra sketch timelapse

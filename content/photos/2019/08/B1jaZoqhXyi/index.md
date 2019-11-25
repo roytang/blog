@@ -12,9 +12,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1165299931772522497/
 tags:
 - strongguy
-- ownyourgram
-- xmen
 - sketch
+- xmen
+- ownyourgram
 ---
 
 Guido. I was originally gonna draw Hulk, but I realized I could continue the X-Factor theme instead. #xmen #sketch #strongguy

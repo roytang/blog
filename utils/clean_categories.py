@@ -150,8 +150,12 @@ def clean_categories():
             # tags = new_tags              
 
 
-            if len(tags) > 0:
+            oldlen = len(tags)
+            if oldlen > 0:
                 tags = list(set(tags))
+                newlen = len(tags)
+                if oldlen > newlen:
+                    has_changes = True
                 post['tags'] = tags
             # if len(newcats) > 0:
             #     post['categories'] = newcats

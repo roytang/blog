@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154650125923912:0
 tags:
-- sketchdaily
 - streetfighter
+- sketchdaily
 ---
 
 Dhalsim #sketchdaily #streetfighter

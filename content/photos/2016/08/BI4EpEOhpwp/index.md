@@ -14,9 +14,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154808391798912:0
 tags:
-- pokemon
-- sketchdaily
 - doctorwho
+- sketchdaily
+- pokemon
 ---
 
 Doctor Pikachu "allons-y-chu!" #sketchdaily #pokemon #doctorwho

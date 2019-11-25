@@ -8,8 +8,8 @@ syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=dU_McBxCiLI
 tags:
-- drawing
 - sketch
+- drawing
 - procreate
 ---
 

@@ -8,7 +8,6 @@ syndicated:
 tags:
 - mtgeldraine
 - mtg
-- mtg
 ---
 
 I will admit I enjoyed the #MTGEldraine brawl on Arena. I may get into this format if it becomes regular, so that I have a palette cleanser for standard #mtg

@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B3TaB_Rh6wR/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 7: enchanted #inktober #sketchdaily I retconned wizard dude to have glasses

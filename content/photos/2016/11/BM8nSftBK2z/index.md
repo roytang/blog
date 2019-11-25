@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155099284543912:1
 tags:
-- sketchdaily
 - marcosnotahero
+- sketchdaily
 ---
 
 #marcosnotahero #sketchdaily

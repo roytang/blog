@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B3cPt_LB6dj/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 10 pattern (a bit of a stretch) #inktober #sketchdaily also i probably overdid the blood

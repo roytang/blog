@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B3xfwuFhB6c/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 18: misfit #inktober #sketchdaily I’m currently taking suggestions for how to handle the day 20 prompt lol

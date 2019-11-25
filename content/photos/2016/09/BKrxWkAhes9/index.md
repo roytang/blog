@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154930867308912:2
 tags:
-- philippines
 - sketchdaily
+- philippines
 ---
 
 Presidential spokesperson #sketchdaily #philippines (one more because i had fun)

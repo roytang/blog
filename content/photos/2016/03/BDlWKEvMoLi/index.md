@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154496202148912:0
 tags:
-- sketchdaily
 - bottlegnomes
+- sketchdaily
 ---
 
 Reinforcements... or refreshments? #sketchdaily #bottlegnomes

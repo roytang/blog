@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154650125923912:2
 tags:
-- pokemon
 - sketchdaily
+- pokemon
 ---
 
 Sneaky Cat, Polite Owl and Clown Seal #pokemon #sketchdaily

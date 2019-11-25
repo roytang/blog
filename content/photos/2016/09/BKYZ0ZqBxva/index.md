@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154909529858912:1
 tags:
-- onepiece
 - sketchdaily
+- onepiece
 ---
 
 Going Merry #sketchdaily #onepiece I might add the crew at a later date

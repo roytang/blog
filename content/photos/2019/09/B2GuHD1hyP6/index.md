@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B2GuHD1hyP6/
 tags:
-- comics
-- marvel
 - sketch
+- marvel
+- comics
 ---
 
 Quick doodle. Sam and Bucky. #sketch #comics #marvel

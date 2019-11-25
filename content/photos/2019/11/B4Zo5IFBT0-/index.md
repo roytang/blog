@@ -10,8 +10,8 @@ syndicated:
   url: https://instagram.com/p/B4Zo5IFBT0-/
 tags:
 - sketchdaily
-- mtg
 - procreate
+- mtg
 ---
 
 Serra Avenger #sketchdaily #mtg #procreate  Lets see if we cant keep the daily drawing going on after inktober. At least we are back to digital this time

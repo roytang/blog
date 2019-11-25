@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154608134168912:0
 tags:
-- onepiece
 - sketchdaily
+- onepiece
 ---
 
 Usopp and Chopper #sketchdaily #onepiece

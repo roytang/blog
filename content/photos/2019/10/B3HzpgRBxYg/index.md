@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B3HzpgRBxYg/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 3: bait #inktober #sketchdaily If you’ve been following along and you think I’m trying to make this a series and that I have a plan for where this is going, you are only half right

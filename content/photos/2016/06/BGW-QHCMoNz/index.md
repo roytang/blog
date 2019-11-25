@@ -14,10 +14,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154653737623912:0
 tags:
-- chronotrigger
 - sketchdaily
-- metalgear
 - nintendo
+- metalgear
+- chronotrigger
 ---
 
 Snake, Frog, Toad #sketchdaily #metalgear #chronotrigger #nintendo

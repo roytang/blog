@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B3mmdjfBMIP/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 14 overgrown #inktober #sketchdaily lol so i found these colored markers and thought i could use them to show like a jungle-y area overgrown with vines but these lines are way thicker than i expected so this was way better in my head. A…

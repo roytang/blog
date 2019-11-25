@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155195119548912:2
 tags:
-- sketchdaily
 - rogueone
+- sketchdaily
 ---
 
 "We'll take the next chance, and the next, until we win or the chances are spent. You're rebels aren't you?" #sketchdaily #rogueone

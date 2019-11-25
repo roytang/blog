@@ -8,8 +8,8 @@ syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=JIdnKBEwPHo
 tags:
-- drawing
 - batman
+- drawing
 - sketchdaily
 ---
 

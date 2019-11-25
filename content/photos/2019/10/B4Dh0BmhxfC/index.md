@@ -9,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B4Dh0BmhxfC/
 tags:
+- sketchdaily
 - inktober
 - inktober2019
-- sketchdaily
 ---
 
 #inktober2019 day 23: ancient #inktober #sketchdaily a few days behind now, trying to claw my way to the finish

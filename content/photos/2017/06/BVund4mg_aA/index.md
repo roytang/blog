@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155788062223912:0
 tags:
-- sketchdaily
 - sketch
+- sketchdaily
 ---
 
 City sprawl #sketch #sketchdaily

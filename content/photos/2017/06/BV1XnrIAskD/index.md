@@ -14,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155796852218912
 tags:
-- sketchdaily
 - sketch
+- sketchdaily
 ---
 
 Afternoon doodle #sketch  #sketchdaily
