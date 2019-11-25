@@ -2,7 +2,7 @@
 categories: []
 date: 2009-07-02 12:06:11
 tags:
-- Magic the Gathering
+- mtg
 title: We All Fall Short
 type: post
 url: /2009/07/we-all-fall-short/

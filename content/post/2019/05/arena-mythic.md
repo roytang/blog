@@ -7,10 +7,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1134084884425842688/
 tags:
-- magic arena
+- magicarena
 - war of the spark
 - constructed
-- Magic the Gathering
+- mtg
 title: 'Magic Arena: First Time Mythic! I did it!'
 type: post
 ---

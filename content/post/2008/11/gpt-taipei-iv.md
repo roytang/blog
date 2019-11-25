@@ -2,7 +2,7 @@
 categories: []
 date: 2008-11-12 08:06:21
 tags:
-- Magic the Gathering
+- mtg
 title: GPT Taipei IV
 type: post
 url: /2008/11/gpt-taipei-iv/

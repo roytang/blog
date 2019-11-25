@@ -10,9 +10,9 @@ syndicated:
 - type: plurk
   url: https://plurk.com/p/7tba8p
 tags:
-- Limited
+- limited
 - tournament-report
-- Magic the Gathering
+- mtg
 title: Scars of Mirrodin Prerelease Report!
 type: post
 url: /2010/09/scars-of-mirrodin-prerelease-report/

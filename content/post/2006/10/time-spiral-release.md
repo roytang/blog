@@ -2,7 +2,7 @@
 categories: []
 date: 2006-10-08 04:04:46
 tags:
-- Magic the Gathering
+- mtg
 title: Time Spiral Release
 type: post
 url: /2006/10/time-spiral-release/

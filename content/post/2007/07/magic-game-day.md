@@ -2,7 +2,7 @@
 categories: []
 date: 2007-07-14 08:04:54
 tags:
-- Magic the Gathering
+- mtg
 title: Magic Game Day
 type: post
 url: /2007/07/magic-game-day/

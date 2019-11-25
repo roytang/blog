@@ -2,7 +2,7 @@
 categories: []
 date: 2007-01-21 08:53:33
 tags:
-- Magic the Gathering
+- mtg
 title: Planar Chaos Prerelease
 type: post
 url: /2007/01/planar-chaos-prerelease/

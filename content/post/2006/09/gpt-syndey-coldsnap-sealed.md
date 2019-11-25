@@ -2,7 +2,7 @@
 categories: []
 date: 2006-09-10 08:37:07
 tags:
-- Magic the Gathering
+- mtg
 title: GPT Syndey -- Coldsnap Sealed
 type: post
 url: /2006/09/gpt-syndey-coldsnap-sealed/

@@ -2,7 +2,7 @@
 categories: []
 date: 2008-03-20 22:18:35
 tags:
-- Magic the Gathering
+- mtg
 title: 'City Champs Trials IV: Reveillark Blink'
 type: post
 url: /2008/03/city-champs-trials-iv-reveillark-blink/

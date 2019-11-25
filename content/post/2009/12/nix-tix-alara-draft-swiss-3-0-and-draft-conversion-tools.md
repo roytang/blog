@@ -6,7 +6,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/7193308065/
 tags:
-- Magic the Gathering
+- mtg
 title: 'Nix Tix Alara Draft (Swiss): 3-0 and Draft Conversion Tools'
 type: post
 url: /2009/12/nix-tix-alara-draft-swiss-3-0/

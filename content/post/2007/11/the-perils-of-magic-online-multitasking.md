@@ -2,7 +2,7 @@
 categories: []
 date: 2007-11-29 17:32:09
 tags:
-- Magic the Gathering
+- mtg
 title: The Perils of Magic Online Multitasking
 type: post
 url: /2007/11/the-perils-of-magic-online-multitasking/

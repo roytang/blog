@@ -2,7 +2,7 @@
 categories: []
 date: 2007-06-23 19:31:47
 tags:
-- Magic the Gathering
+- mtg
 title: Magic -- Regionals 2007
 type: post
 url: /2007/06/magic-regionals-2007/

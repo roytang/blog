@@ -2,7 +2,7 @@
 categories: []
 date: 2008-11-22 19:31:05
 tags:
-- Magic the Gathering
+- mtg
 title: PTQ Kyoto I
 type: post
 url: /2008/11/ptq-kyoto-i/

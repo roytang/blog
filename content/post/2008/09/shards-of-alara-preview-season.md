@@ -2,7 +2,7 @@
 categories: []
 date: 2008-09-04 06:57:33
 tags:
-- Magic the Gathering
+- mtg
 title: Shards of Alara Preview Season
 type: post
 url: /2008/09/shards-of-alara-preview-season/

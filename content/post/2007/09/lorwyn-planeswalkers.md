@@ -2,7 +2,7 @@
 categories: []
 date: 2007-09-24 05:54:48
 tags:
-- Magic the Gathering
+- mtg
 title: Lorwyn -- Planeswalkers
 type: post
 url: /2007/09/lorwyn-planeswalkers/

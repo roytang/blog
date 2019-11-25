@@ -2,7 +2,7 @@
 categories: []
 date: 2007-09-22 14:59:57
 tags:
-- Magic the Gathering
+- mtg
 title: Friday Night Magic
 type: post
 url: /2007/09/friday-night-magic/

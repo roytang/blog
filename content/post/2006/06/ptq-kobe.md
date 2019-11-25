@@ -2,7 +2,7 @@
 categories: []
 date: 2006-06-11 18:50:28
 tags:
-- Magic the Gathering
+- mtg
 title: PTQ-Kobe
 type: post
 url: /2006/06/ptq-kobe/

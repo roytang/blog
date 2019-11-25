@@ -10,7 +10,7 @@ tags:
 - grand-prix
 - standard
 - tournament-report
-- Magic the Gathering
+- mtg
 title: Grand Prix Manila 2012
 type: post
 url: /2012/06/grand-prix-manila-2012/

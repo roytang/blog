@@ -6,7 +6,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1163020056479051777/
 tags:
-- magic the gathering
+- mtg
 - modern
 title: MCQ Richmond (Modern) with Grixis Death Shadow
 type: post

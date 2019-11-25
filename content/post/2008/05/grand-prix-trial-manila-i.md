@@ -2,7 +2,7 @@
 categories: []
 date: 2008-05-25 05:14:40
 tags:
-- Magic the Gathering
+- mtg
 title: Grand Prix Trial Manila I
 type: post
 url: /2008/05/grand-prix-trial-manila-i/

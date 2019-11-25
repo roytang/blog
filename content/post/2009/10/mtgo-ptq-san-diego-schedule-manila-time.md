@@ -7,7 +7,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/148460495892
 tags:
-- Magic the Gathering
+- mtg
 title: MTGO PTQ San Diego Schedule (Manila Time)
 type: post
 url: /2009/10/mtgo-ptq-san-diego-schedule-manila-time/

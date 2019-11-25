@@ -23,10 +23,66 @@ cats_map = {
     "Myself": ""
 }
 
+albums_map = {
+    "sketch": "sketchbook",
+    "sketchdaily": "sketchbook"
+}
+
+tags_map = {
+    "magic the gathering": "mtg",
+    "magicarena": "mtg",
+    "magic arena": "mtg",
+    "magic arena": "magicarena",
+    "m11": "mtg",
+    "m12": "mtg",
+    "m13": "mtg",
+    "mtgakh": "mtg",
+    "mtgavr": "mtg",
+    "mtgbar": "mtg",
+    "mtgbfz": "mtg",
+    "mtgdom": "mtg",
+    "mtgdtk": "mtg",
+    "mtgeldraine": "mtg",
+    "mtgemn": "mtg",
+    "mtgfinance": "mtg",
+    "mtgfnm": "mtg",
+    "mtgfrf": "mtg",
+    "mtggtc": "mtg",
+    "mtghou": "mtg",
+    "mtginn": "mtg",
+    "mtgjou": "mtg",
+    "mtgkld": "mtg",
+    "mtgktk": "mtg",
+    "mtgmm2015": "mtg",
+    "mtgnationals": "mtg",
+    "mtgnationalsph": "mtg",
+    "mtgnph": "mtg",
+    "mtgo": "mtg",
+    "mtgocc": "mtg",
+    "mtgocube": "mtg",
+    "mtgogw": "mtg",
+    "mtgpc": "mtg",
+    "mtgrix": "mtg",
+    "mtgrna": "mtg",
+    "mtgseattle": "mtg",
+    "mtgsoi": "mtg",
+    "mtgun3": "mtg",
+    "mtgwar": "mtg",
+    "mtgwmc": "mtg",
+    "mtgwritingcontest": "mtg",
+    "mtgxln": "mtg",
+}
+
+delete_tags = [
+    "magic the gathering",
+    "magic arena"
+]
+
 def clean_categories():
+    count = 0
     cwd = Path.cwd() 
     # navigate to ./content/posts
-    p = cwd / "content" / "post"
+    p = cwd / "content"
     for mdfile in p.glob("**/*.md"):
         print(str(mdfile))
         with mdfile.open() as f:
@@ -41,6 +97,7 @@ def clean_categories():
             tags = []
             if post.get("tags") != None:
                 tags = post.get("tags")
+                print(tags)
                 if type(tags) == str:
                     tags = [tags] # standardize to a list
 
@@ -78,6 +135,21 @@ def clean_categories():
                     #             newcats.append(default_category)
                 newcats = [] # no more cats!
 
+            new_tags = []
+            for tag in tags:
+                tag = tag.lower()
+                if tag in delete_tags:
+                    has_changes = True
+                else:
+                    new_tags.append(tag)
+                if tag in tags_map:
+                    new_tag = tags_map[tag]
+                    has_changes = True
+                    if new_tag not in new_tags and new_tag not in delete_tags:
+                        new_tags.append(new_tag)
+            tags = new_tags              
+                    
+
             if len(tags) > 0:
                 post['tags'] = tags
             # if len(newcats) > 0:
@@ -92,5 +164,6 @@ def clean_categories():
                 newfile = frontmatter.dumps(post)
                 with mdfile.open("w") as w:
                     w.write(newfile)
-
+                    count = count + 1
+    print("Updated files: " + str(count))
 clean_categories()    

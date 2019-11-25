@@ -2,7 +2,7 @@
 categories: []
 date: 2009-05-03 14:44:35
 tags:
-- Magic the Gathering
+- mtg
 title: Alara Reborn Prerelease (for real this time)
 type: post
 url: /2009/05/alara-reborn-prerelease-for-real-this-time/

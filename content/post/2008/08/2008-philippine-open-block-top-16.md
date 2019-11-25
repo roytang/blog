@@ -2,7 +2,7 @@
 categories: []
 date: 2008-08-11 07:55:49
 tags:
-- Magic the Gathering
+- mtg
 title: 2008 Philippine Open Block *Top 16*
 type: post
 url: /2008/08/2008-philippine-open-block-top-16/

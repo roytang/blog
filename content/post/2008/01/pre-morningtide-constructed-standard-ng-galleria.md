@@ -2,7 +2,7 @@
 categories: []
 date: 2008-01-06 04:43:10
 tags:
-- Magic the Gathering
+- mtg
 title: 'Pre Morningtide Constructed: Standard @ NG Galleria'
 type: post
 url: /2008/01/pre-morningtide-constructed-standard-ng-galleria/

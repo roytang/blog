@@ -2,7 +2,7 @@
 categories: []
 date: 2008-09-30 17:47:51
 tags:
-- Magic the Gathering
+- mtg
 title: Shards of Alara Prerelease
 type: post
 url: /2008/09/shards-of-alara-prerelease/

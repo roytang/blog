@@ -2,7 +2,7 @@
 categories: []
 date: 2008-04-03 06:51:58
 tags:
-- Magic the Gathering
+- mtg
 title: 'City Champs 2008: Heavyweight Ramp'
 type: post
 url: /2008/04/city-champs-2008-heavyweight-ramp/

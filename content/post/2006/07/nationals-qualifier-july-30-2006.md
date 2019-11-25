@@ -2,7 +2,7 @@
 categories: []
 date: 2006-07-30 07:18:00
 tags:
-- Magic the Gathering
+- mtg
 title: Nationals Qualifier, July 30, 2006
 type: post
 url: /2006/07/nationals-qualifier-july-30-2006/

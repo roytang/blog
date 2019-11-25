@@ -1,4 +1,5 @@
 ---
+categories: []
 date: 2016-04-02 01:44:10
 location: ''
 source: instagram
@@ -13,6 +14,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154503850978912:1
 tags:
 - mtgsoi
+- mtg
 ---
 
 #mtgsoi prerelease

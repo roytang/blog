@@ -10,8 +10,8 @@ syndicated:
 tags:
 - standard
 - tournament-report
-- Magic the Gathering
-- Travels
+- mtg
+- travels
 title: Kuala Lumpur and the MTG25A RPTQ
 type: post
 url: /2018/06/kuala-lumpur-and-the-mtg25a-rptq/

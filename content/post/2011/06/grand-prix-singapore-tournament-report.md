@@ -9,7 +9,7 @@ tags:
 - grand-prix
 - standard
 - tournament-report
-- Magic the Gathering
+- mtg
 title: Grand Prix Singapore Tournament Report
 type: post
 url: /2011/06/grand-prix-singapore-tournament-report/

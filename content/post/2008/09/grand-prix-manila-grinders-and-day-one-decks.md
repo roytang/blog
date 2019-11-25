@@ -2,7 +2,7 @@
 categories: []
 date: 2008-09-04 05:45:49
 tags:
-- Magic the Gathering
+- mtg
 title: Grand Prix Manila Grinders and Day One Decks
 type: post
 url: /2008/09/grand-prix-manila-grinders-and-day-one-decks/

@@ -1,4 +1,5 @@
 ---
+categories: []
 date: 2019-11-19 08:00:00
 slug: mtg-bannings
 syndicated:
@@ -6,7 +7,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1196766178833813504/
 tags:
 - mtg
-- magic the gathering
 title: 'MTG: The bannings will continue until morale improves'
 ---
 

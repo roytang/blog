@@ -2,7 +2,7 @@
 categories: []
 date: 2006-10-21 19:43:21
 tags:
-- Magic the Gathering
+- mtg
 title: PTQ -- Geneva
 type: post
 url: /2006/10/ptq-geneva/

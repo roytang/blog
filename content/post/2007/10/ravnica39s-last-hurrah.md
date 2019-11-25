@@ -3,7 +3,7 @@ author: roy
 categories: []
 date: 2007-10-13 02:00:22
 tags:
-- Magic the Gathering
+- mtg
 title: Ravnica's Last Hurrah
 type: post
 url: /2007/10/ravnica39s-last-hurrah/

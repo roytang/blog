@@ -11,9 +11,9 @@ syndicated:
   url: https://twitter.com/roy_mtg/statuses/14750765001/
 tags:
 - draft
-- Limited
+- limited
 - roe
-- Magic the Gathering
+- mtg
 title: Rise of Eldrazi Draft -- Kiln Fiend
 type: post
 url: /2010/05/rise-of-eldrazi-draft-kiln-fiend/

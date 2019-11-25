@@ -2,7 +2,7 @@
 categories: []
 date: 2008-06-08 23:38:17
 tags:
-- Magic the Gathering
+- mtg
 title: Draftaganza June 7 2008
 type: post
 url: /2008/06/draftaganza-june-7-2008/

@@ -2,7 +2,7 @@
 categories: []
 date: 2008-02-16 17:23:20
 tags:
-- Magic the Gathering
+- mtg
 title: Opening a Morningtide Box
 type: post
 url: /2008/02/opening-a-morningtide-box/

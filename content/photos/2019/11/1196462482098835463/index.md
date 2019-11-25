@@ -1,4 +1,5 @@
 ---
+categories: []
 date: 2019-11-18 16:17:39
 source: twitter
 syndicated:

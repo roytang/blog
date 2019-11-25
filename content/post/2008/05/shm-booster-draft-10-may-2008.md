@@ -2,7 +2,7 @@
 categories: []
 date: 2008-05-10 12:19:55
 tags:
-- Magic the Gathering
+- mtg
 title: SHM Booster Draft 10 May 2008
 type: post
 url: /2008/05/shm-booster-draft-10-may-2008/

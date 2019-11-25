@@ -8,8 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1074847827149365248/
 tags:
 - ccgs
-- Magic the Gathering
-- Gaming
+- mtg
+- gaming
 title: MTG Arena
 type: post
 ---

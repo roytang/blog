@@ -10,7 +10,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/11892357790/
 tags:
-- Magic the Gathering
+- mtg
 title: 'Rise of Eldrazi Review: Inquisition of Kozilek'
 type: post
 url: /2010/04/rise-of-eldrazi-review-inquisition-of-kozilek/

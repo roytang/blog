@@ -6,10 +6,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1123468208848166915/
 tags:
-- magic arena
+- magicarena
 - war of the spark
 - constructed
-- Magic the Gathering
+- mtg
 title: 'War of the Spark Standard: Esper'
 type: post
 ---

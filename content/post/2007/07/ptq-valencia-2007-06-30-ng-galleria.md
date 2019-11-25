@@ -2,7 +2,7 @@
 categories: []
 date: 2007-07-01 16:15:39
 tags:
-- Magic the Gathering
+- mtg
 title: PTQ Valencia 2007-06-30 @ NG Galleria
 type: post
 url: /2007/07/ptq-valencia-2007-06-30-ng-galleria/

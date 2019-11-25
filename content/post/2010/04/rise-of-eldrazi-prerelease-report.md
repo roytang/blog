@@ -10,8 +10,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/12375262436/
 tags:
-- Limited
-- Magic the Gathering
+- limited
+- mtg
 title: Rise of Eldrazi Prerelease Report
 type: post
 url: /2010/04/rise-of-eldrazi-prerelease-report/

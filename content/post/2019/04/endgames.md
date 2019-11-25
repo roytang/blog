@@ -7,9 +7,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1122018176613650432/
 tags:
-- Pop Culture
-- Magic the Gathering
-- Movies
+- pop culture
+- mtg
+- movies
 title: We're in the Endgames now
 type: post
 ---

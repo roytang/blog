@@ -5,7 +5,7 @@ tags:
 - grand-prix
 - standard
 - tournament-report
-- Magic the Gathering
+- mtg
 title: Grand Prix Manila Day One Report
 type: post
 url: /2008/09/grand-prix-manila-day-one-report/

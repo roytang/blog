@@ -2,7 +2,7 @@
 categories: []
 date: 2006-08-20 19:51:58
 tags:
-- Magic the Gathering
+- mtg
 title: Coldsnap Sealed
 type: post
 url: /2006/08/coldsnap-sealed/

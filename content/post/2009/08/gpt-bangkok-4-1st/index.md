@@ -7,7 +7,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/111199742706
 tags:
-- Magic the Gathering
+- mtg
 title: 'GPT Bangkok #4 *1st*'
 type: post
 url: /2009/08/gpt-bangkok-4-1st/

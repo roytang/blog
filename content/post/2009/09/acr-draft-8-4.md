@@ -2,7 +2,7 @@
 categories: []
 date: 2009-09-21 13:12:06
 tags:
-- Magic the Gathering
+- mtg
 title: ACR Draft 8-4
 type: post
 url: /2009/09/acr-draft-8-4/

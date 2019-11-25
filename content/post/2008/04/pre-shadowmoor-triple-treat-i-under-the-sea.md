@@ -2,7 +2,7 @@
 categories: []
 date: 2008-04-07 04:36:06
 tags:
-- Magic the Gathering
+- mtg
 title: Pre-Shadowmoor Triple Treat I -- Under the Sea
 type: post
 url: /2008/04/pre-shadowmoor-triple-treat-i-under-the-sea/

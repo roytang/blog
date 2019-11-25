@@ -2,7 +2,7 @@
 categories: []
 date: 2009-06-22 04:09:00
 tags:
-- Magic the Gathering
+- mtg
 title: A Quick Evaluation of the Upcoming Rules Changes
 type: post
 url: /2009/06/a-quick-evaluation-of-the-upcoming-rules-changes/

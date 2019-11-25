@@ -2,7 +2,7 @@
 categories: []
 date: 2007-09-22 06:35:31
 tags:
-- Magic the Gathering
+- mtg
 title: Roy on Magic
 type: post
 url: /2007/09/roy-on-magic/

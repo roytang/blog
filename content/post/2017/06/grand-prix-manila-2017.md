@@ -11,7 +11,7 @@ tags:
 - grand-prix
 - standard
 - tournament-report
-- Magic the Gathering
+- mtg
 title: Grand Prix Manila 2017
 type: post
 url: /2017/06/grand-prix-manila-2017/

@@ -2,7 +2,7 @@
 categories: []
 date: 2007-11-01 00:53:59
 tags:
-- Magic the Gathering
+- mtg
 title: States / Champs 2007 Data
 type: post
 url: /2007/11/states-champs-2007-data/

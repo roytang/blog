@@ -2,7 +2,7 @@
 categories: []
 date: 2008-05-22 20:55:05
 tags:
-- Magic the Gathering
+- mtg
 title: Predictions for Pro Tour Hollywood
 type: post
 url: /2008/05/predictions-for-pro-tour-hollywood/

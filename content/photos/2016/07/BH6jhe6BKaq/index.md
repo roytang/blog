@@ -1,4 +1,5 @@
 ---
+categories: []
 date: 2016-07-16 01:02:22
 location: ''
 source: instagram
@@ -13,6 +14,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154748206723912:1
 tags:
 - mtgemn
+- mtg
 ---
 
 2nd pod actually had better pulls! #mtgemn

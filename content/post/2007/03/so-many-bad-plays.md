@@ -3,7 +3,7 @@ author: Roy
 categories: []
 date: 2007-03-24 03:07:13
 tags:
-- Magic the Gathering
+- mtg
 title: So Many Bad Plays
 type: post
 url: /2007/03/so-many-bad-plays/

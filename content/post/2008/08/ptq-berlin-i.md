@@ -2,7 +2,7 @@
 categories: []
 date: 2008-08-16 21:03:50
 tags:
-- Magic the Gathering
+- mtg
 title: PTQ Berlin I
 type: post
 url: /2008/08/ptq-berlin-i/

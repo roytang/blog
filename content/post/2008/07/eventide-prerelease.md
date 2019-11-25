@@ -2,7 +2,7 @@
 categories: []
 date: 2008-07-12 19:25:33
 tags:
-- Magic the Gathering
+- mtg
 title: Eventide Prerelease
 type: post
 url: /2008/07/eventide-prerelease/

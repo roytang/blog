@@ -5,7 +5,7 @@ author: roy
 categories: []
 date: 2010-04-09 12:23:30
 tags:
-- Magic the Gathering
+- mtg
 title: By way of introduction
 type: post
 url: /2010/04/by-way-of-introduction/

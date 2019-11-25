@@ -2,7 +2,7 @@
 categories: []
 date: 2009-05-18 14:59:52
 tags:
-- Magic the Gathering
+- mtg
 title: 'Regionals 2009: Finest Hour *Top 8*'
 type: post
 url: /2009/05/regionals-2009-finest-hour-top-8/

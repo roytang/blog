@@ -2,7 +2,7 @@
 categories: []
 date: 2008-10-30 06:00:39
 tags:
-- Magic the Gathering
+- mtg
 title: HamSandwich.dec
 type: post
 url: /2008/10/hamsandwich-dec/

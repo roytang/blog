@@ -2,7 +2,7 @@
 categories: []
 date: 2008-04-29 05:58:00
 tags:
-- Magic the Gathering
+- mtg
 title: Deck Building for an Unknown Metagame
 type: post
 url: /2008/04/deck-building-for-an-unknown-metagame/

@@ -2,7 +2,7 @@
 categories: []
 date: 2009-03-01 06:56:23
 tags:
-- Magic the Gathering
+- mtg
 title: Conflux Online Release Event (Return to MTGO)
 type: post
 url: /2009/03/conflux-online-release-event-return-to-mtgo/

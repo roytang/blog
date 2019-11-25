@@ -2,7 +2,7 @@
 categories: []
 date: 2008-06-16 09:00:56
 tags:
-- Magic the Gathering
+- mtg
 title: Block 14-June-2008
 type: post
 url: /2008/06/block-14-june-2008/

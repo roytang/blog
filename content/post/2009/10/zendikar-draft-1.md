@@ -2,7 +2,7 @@
 categories: []
 date: 2009-10-27 13:24:36
 tags:
-- Magic the Gathering
+- mtg
 title: 'Zendikar Draft #1'
 type: post
 url: /2009/10/zendikar-draft-1/

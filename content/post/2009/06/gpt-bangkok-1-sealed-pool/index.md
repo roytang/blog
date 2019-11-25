@@ -2,7 +2,7 @@
 categories: []
 date: 2009-06-09 05:34:53
 tags:
-- Magic the Gathering
+- mtg
 title: 'GPT Bangkok #1 Sealed Pool'
 type: post
 url: /2009/06/gpt-bangkok-1-sealed-pool/

@@ -2,7 +2,7 @@
 categories: []
 date: 2007-10-20 11:33:07
 tags:
-- Magic the Gathering
+- mtg
 title: GPT Bangkok 4
 type: post
 url: /2007/10/gpt-bangkok-4/

@@ -2,7 +2,7 @@
 categories: []
 date: 2007-03-31 19:51:04
 tags:
-- Magic the Gathering
+- mtg
 title: 'PTQ: San Diego'
 type: post
 url: /2007/03/ptq-san-diego/

@@ -2,7 +2,7 @@
 categories: []
 date: 2007-12-08 07:01:35
 tags:
-- Magic the Gathering
+- mtg
 title: 'PTQ Kuala Lumpur #3'
 type: post
 url: /2007/12/ptq-kuala-lumpur-3/

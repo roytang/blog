@@ -8,7 +8,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1179207584982732805/
 tags:
 - mtg
-- magic the gathering
 title: The Second Set of Legends Block
 type: post
 ---

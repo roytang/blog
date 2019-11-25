@@ -7,7 +7,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/58383229143
 tags:
-- Magic the Gathering
+- mtg
 title: I Hate Trading
 type: post
 url: /2009/03/i-hate-trading/

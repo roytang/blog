@@ -2,7 +2,7 @@
 categories: []
 date: 2008-02-04 09:12:47
 tags:
-- Magic the Gathering
+- mtg
 title: Morningtide Release Event
 type: post
 url: /2008/02/morningtide-release-event/

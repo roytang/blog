@@ -2,7 +2,7 @@
 categories: []
 date: 2007-07-28 07:09:15
 tags:
-- Magic the Gathering
+- mtg
 title: I Suck At Standard
 type: post
 url: /2007/07/i-suck-at-standard/

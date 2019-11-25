@@ -6,8 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1168183317507858433/
 tags:
 - ccgs
-- Magic the Gathering
-- Gaming
+- mtg
+- gaming
 title: 'MTG Arena: Thoughts on Historic'
 type: post
 ---

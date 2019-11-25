@@ -9,7 +9,7 @@ syndicated:
 tags:
 - grand prix
 - limited
-- magic the gathering
+- mtg
 title: Grand Prix Seattle 2019
 type: post
 ---

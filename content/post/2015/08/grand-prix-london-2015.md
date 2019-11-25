@@ -9,7 +9,7 @@ tags:
 - grand-prix
 - standard
 - tournament-report
-- Magic the Gathering
+- mtg
 title: Grand Prix London 2015
 type: post
 url: /2015/08/grand-prix-london-2015/

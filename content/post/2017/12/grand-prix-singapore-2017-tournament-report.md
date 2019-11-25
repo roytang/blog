@@ -9,9 +9,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/944376613269106688/
 tags:
 - grand-prix
-- Limited
+- limited
 - tournament-report
-- Magic the Gathering
+- mtg
 title: Grand Prix Singapore 2017 Tournament Report
 type: post
 url: /2017/12/grand-prix-singapore-2017-tournament-report/

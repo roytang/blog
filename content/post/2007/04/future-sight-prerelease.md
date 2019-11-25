@@ -2,7 +2,7 @@
 categories: []
 date: 2007-04-22 04:05:16
 tags:
-- Magic the Gathering
+- mtg
 title: Future Sight Prerelease
 type: post
 url: /2007/04/future-sight-prerelease/

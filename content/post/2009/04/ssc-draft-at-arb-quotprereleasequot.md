@@ -2,8 +2,8 @@
 categories: []
 date: 2009-04-26 04:50:52
 tags:
-- Limited
-- Magic the Gathering
+- limited
+- mtg
 title: SSC Draft at ARB "Prerelease"
 type: post
 url: /2009/04/ssc-draft-at-arb-quotprereleasequot/

@@ -2,7 +2,7 @@
 categories: []
 date: 2008-09-19 05:03:38
 tags:
-- Magic the Gathering
+- mtg
 title: 'Pre-Alara Triple Treats: Kithkin'
 type: post
 url: /2008/09/pre-alara-triple-treats-kithkin/

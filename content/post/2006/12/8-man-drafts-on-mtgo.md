@@ -2,7 +2,7 @@
 categories: []
 date: 2006-12-30 17:19:37
 tags:
-- Magic the Gathering
+- mtg
 title: 8-Man Drafts on MTGO
 type: post
 url: /2006/12/8-man-drafts-on-mtgo/

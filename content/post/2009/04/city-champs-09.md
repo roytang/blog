@@ -2,7 +2,7 @@
 categories: []
 date: 2009-04-22 11:40:44
 tags:
-- Magic the Gathering
+- mtg
 title: City Champs 09
 type: post
 url: /2009/04/city-champs-09/

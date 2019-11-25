@@ -10,12 +10,12 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/20327212292/
 - type: plurk
-  url: https://plurk.com/p/6qtays  
+  url: https://plurk.com/p/6qtays
 tags:
-- Limited
+- limited
 - m11
+- mtg
 - sealed
-- Magic the Gathering
 title: M11 Sealed -- You Make the Play
 type: post
 url: /2010/08/m11-sealed-you-make-the-play/

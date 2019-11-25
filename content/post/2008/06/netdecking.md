@@ -3,7 +3,7 @@ author: roy
 categories: []
 date: 2008-06-01 01:47:15
 tags:
-- Magic the Gathering
+- mtg
 title: Netdecking
 type: post
 url: /2008/06/netdecking/

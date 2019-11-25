@@ -2,7 +2,7 @@
 categories: []
 date: 2009-06-12 08:34:03
 tags:
-- Magic the Gathering
+- mtg
 title: I For One Welcome Our New Non-Damage Stacking Overlords
 type: post
 url: /2009/06/i-for-one-welcome-our-new-non-damage-stacking-overlords/

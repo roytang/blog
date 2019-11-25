@@ -2,7 +2,7 @@
 categories: []
 date: 2008-04-20 05:35:06
 tags:
-- Magic the Gathering
+- mtg
 title: Shadowmoor Prerelease
 type: post
 url: /2008/04/shadowmoor-prerelease/

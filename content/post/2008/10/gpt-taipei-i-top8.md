@@ -2,7 +2,7 @@
 categories: []
 date: 2008-10-11 21:11:49
 tags:
-- Magic the Gathering
+- mtg
 title: GPT Taipei I *Top8*
 type: post
 url: /2008/10/gpt-taipei-i-top8/

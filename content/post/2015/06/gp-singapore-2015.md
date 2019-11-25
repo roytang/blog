@@ -6,7 +6,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/615408816650194945/
 tags:
-- Magic the Gathering
+- mtg
 - grand prix
 - modern
 - travels

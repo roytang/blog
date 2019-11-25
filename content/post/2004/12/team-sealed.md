@@ -6,7 +6,7 @@ syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2004/12/team-sealed.html
 tags:
-- Magic the Gathering
+- mtg
 title: Team Sealed!
 type: post
 url: /2004/12/team-sealed/

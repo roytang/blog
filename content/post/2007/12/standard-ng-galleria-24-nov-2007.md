@@ -2,7 +2,7 @@
 categories: []
 date: 2007-12-08 06:35:47
 tags:
-- Magic the Gathering
+- mtg
 title: Standard @ NG Galleria 24-Nov-2007
 type: post
 url: /2007/12/standard-ng-galleria-24-nov-2007/

@@ -2,7 +2,7 @@
 categories: []
 date: 2008-05-25 04:06:13
 tags:
-- Magic the Gathering
+- mtg
 title: Saturday Triple SHM Draft -- May 24
 type: post
 url: /2008/05/saturday-triple-shm-draft-may-24/

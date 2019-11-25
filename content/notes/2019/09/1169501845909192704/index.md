@@ -1,11 +1,13 @@
 ---
+categories: []
 date: 2019-09-05 06:45:43
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1169501845909192704/
 tags:
-- MTGEldraine
+- mtgeldraine
+- mtg
 - mtg
 ---
 
