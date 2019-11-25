@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2017-03-10 14:05:08
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155435235983912:0
 tags:
-- sketchdaily
 - dragonballz
+- sketchdaily
 ---
 
 18 #sketchdaily #dragonballz

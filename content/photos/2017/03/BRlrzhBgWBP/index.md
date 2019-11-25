@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2017-03-13 11:44:37
 location: ''
 source: instagram
@@ -13,8 +15,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155444228798912:0
 tags:
 - sketchdaily
-- paperbyfiftythree
 - MTG
+- paperbyfiftythree
 ---
 
 Ye olde magic shoppe #sketchdaily #paperbyfiftythree #MTG

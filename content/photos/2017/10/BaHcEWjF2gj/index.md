@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2017-10-11 10:32:26
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156101286448912:2
 tags:
-- Inktober
 - sketchdaily
+- Inktober
 - transformers
 ---
 

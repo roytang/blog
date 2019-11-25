@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2017-06-27 00:01:40
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155796852218912
 tags:
-- sketch
 - sketchdaily
+- sketch
 ---
 
 Afternoon doodle #sketch  #sketchdaily

@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2017-01-25 20:20:13
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155310886053912:1
 tags:
-- sketchdaily
 - dragonballz
+- sketchdaily
 ---
 
 "Believe me, my heart is exceptionally pure... pure evil!" #sketchdaily #dragonballz

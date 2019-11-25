@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-02-15 05:06:52
 location: ''
 source: instagram
@@ -10,8 +12,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154374518698912:1
 tags:
-- sfv
 - sketchdaily
+- sfv
 ---
 
 Rise Up! #sfv #sketchdaily

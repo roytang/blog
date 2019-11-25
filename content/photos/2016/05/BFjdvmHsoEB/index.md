@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-05-18 08:46:32
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154608134168912:0
 tags:
-- sketchdaily
 - onepiece
+- sketchdaily
 ---
 
 Usopp and Chopper #sketchdaily #onepiece

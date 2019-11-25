@@ -135,22 +135,23 @@ def clean_categories():
                     #             newcats.append(default_category)
                 newcats = [] # no more cats!
 
-            new_tags = []
-            for tag in tags:
-                tag = tag.lower()
-                if tag in delete_tags:
-                    has_changes = True
-                else:
-                    new_tags.append(tag)
-                if tag in tags_map:
-                    new_tag = tags_map[tag]
-                    has_changes = True
-                    if new_tag not in new_tags and new_tag not in delete_tags:
-                        new_tags.append(new_tag)
-            tags = new_tags              
-                    
+            # new_tags = []
+            # for tag in tags:
+            #     tag = tag.lower()
+            #     if tag in delete_tags:
+            #         has_changes = True
+            #     else:
+            #         new_tags.append(tag)
+            #     if tag in tags_map:
+            #         new_tag = tags_map[tag]
+            #         has_changes = True
+            #         if new_tag not in new_tags and new_tag not in delete_tags:
+            #             new_tags.append(new_tag)
+            # tags = new_tags              
+
 
             if len(tags) > 0:
+                tags = list(set(tags))
                 post['tags'] = tags
             # if len(newcats) > 0:
             #     post['categories'] = newcats
@@ -159,11 +160,20 @@ def clean_categories():
             # print(post['categories'])
             print(post.get('tags'))
 
+            album = None
+            for tag in tags:
+                if tag in albums_map:
+                    album = albums_map[tag]      
+            if album is not None:
+                has_changes = True
+                post['album'] = album
+
             # Save the file.
             if has_changes:
                 newfile = frontmatter.dumps(post)
                 with mdfile.open("w") as w:
                     w.write(newfile)
                     count = count + 1
+
     print("Updated files: " + str(count))
 clean_categories()    

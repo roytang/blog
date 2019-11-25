@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2017-10-11 09:50:45
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156101286448912:1
 tags:
-- Inktober
 - sketchdaily
+- Inktober
 ---
 
 #Inktober day 9: Screech #sketchdaily

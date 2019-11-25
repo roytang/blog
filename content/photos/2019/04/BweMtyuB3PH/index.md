@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 categories: []
 date: 2019-04-20 02:11:29
 location: ''
@@ -10,7 +11,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1119530579966550016/
 tags:
 - mtgwar
-- mtg
 - mtg
 - sketch
 ---

@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2017-06-25 07:22:49
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155788062223912
 tags:
-- sketch
 - sketchdaily
+- sketch
 - zelda
 - botw
 ---

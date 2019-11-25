@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-06-07 08:51:52
 location: ''
 source: instagram
@@ -12,9 +14,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154653737623912:0
 tags:
+- chronotrigger
 - sketchdaily
 - metalgear
-- chronotrigger
 - nintendo
 ---
 

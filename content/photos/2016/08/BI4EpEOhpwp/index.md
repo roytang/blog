@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-08-08 22:25:26
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154808391798912:0
 tags:
-- sketchdaily
 - pokemon
+- sketchdaily
 - doctorwho
 ---
 

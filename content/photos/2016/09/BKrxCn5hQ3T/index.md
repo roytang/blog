@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-09-22 20:46:03
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154930867308912:1
 tags:
-- sketchdaily
 - philippines
+- sketchdaily
 ---
 
 Senator Boxer #sketchdaily #philippines

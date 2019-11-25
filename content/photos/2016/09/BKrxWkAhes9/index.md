@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-09-22 20:48:47
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154930867308912:2
 tags:
-- sketchdaily
 - philippines
+- sketchdaily
 ---
 
 Presidential spokesperson #sketchdaily #philippines (one more because i had fun)

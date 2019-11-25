@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-07-09 00:52:54
 location: ''
 source: instagram

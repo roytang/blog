@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2019-09-07 09:41:33
 source: instagram
 syndicated:
@@ -7,9 +9,9 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B2GuHD1hyP6/
 tags:
-- sketch
 - comics
 - marvel
+- sketch
 ---
 
 Quick doodle. Sam and Bucky. #sketch #comics #marvel

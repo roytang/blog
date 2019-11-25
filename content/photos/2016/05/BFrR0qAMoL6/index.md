@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-05-21 09:36:18
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154613353638912:1
 tags:
-- sketchdaily
 - witcher
+- sketchdaily
 ---
 
 Ciri #sketchdaily #witcher

@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-02-20 07:04:44
 location: ''
 source: instagram
@@ -10,8 +12,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154384018833912:1
 tags:
-- bsg
 - sketchdaily
+- bsg
 ---
 
 Bill Adama #bsg #sketchdaily

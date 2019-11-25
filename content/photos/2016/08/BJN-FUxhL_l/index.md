@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-08-17 10:31:25
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154830141093912:0
 tags:
-- chronotrigger
 - sketchdaily
+- chronotrigger
 ---
 
 Magus from #chronotrigger #sketchdaily

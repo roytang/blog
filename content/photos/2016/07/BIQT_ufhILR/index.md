@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-07-24 11:49:58
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154769300673912:1
 tags:
-- justiceleague
 - sketchdaily
+- justiceleague
 ---
 
 I know Bruce wouldve been sure, but still... #justiceleague #sketchdaily

@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2016-05-23 09:46:31
 location: ''
 source: instagram
@@ -12,8 +14,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154619792453912:0
 tags:
-- mtg
 - sketchdaily
+- mtg
 ---
 
 Coral Trickster #mtg #sketchdaily

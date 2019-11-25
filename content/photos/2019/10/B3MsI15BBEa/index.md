@@ -1,4 +1,6 @@
 ---
+album: sketchbook
+categories: []
 date: 2019-10-04 14:25:44
 source: instagram
 syndicated:
@@ -7,8 +9,8 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/B3MsI15BBEa/
 tags:
-- inktober2019
 - inktober
+- inktober2019
 - sketchdaily
 ---
 
