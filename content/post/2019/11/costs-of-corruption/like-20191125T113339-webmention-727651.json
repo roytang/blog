@@ -1,0 +1,30 @@
+{
+  "mention_url": "https://twitter.com/roytang/status/1198859775225815040#favorited-by-12953232",
+  "source": "webmention",
+  "source_obj": {
+    "like-of": "https://roytang.net/2019/11/costs-of-corruption/",
+    "wm-target": "https://roytang.net/2019/11/costs-of-corruption/",
+    "wm-received": "2019-11-25T11:33:39Z",
+    "published": null,
+    "url": "https://twitter.com/roytang/status/1198859775225815040#favorited-by-12953232",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1198859775225815040/12953232",
+    "wm-id": 727651,
+    "type": "entry",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "author": {
+      "url": "https://twitter.com/aleksfelipe",
+      "name": "Aleks Felipe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg",
+      "type": "card"
+    }
+  },
+  "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1198859775225815040/12953232",
+  "id": "webmention-727651",
+  "date": "2019-11-25 11:33:39",
+  "url": "https://twitter.com/aleksfelipe",
+  "name": "Aleks Felipe",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg",
+  "type": "like",
+  "text": "[Aleks Felipe](https://twitter.com/aleksfelipe) liked this [on twitter](https://twitter.com/roytang/status/1198859775225815040#favorited-by-12953232)"
+}
