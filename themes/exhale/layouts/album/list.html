@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <section class="h-feed">
+    <p class="p-name">{{ .Title }}: You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
+  {{ range (.Paginator.Pages).GroupByDate "2006 January"}}
+        <h3>{{ .Key }}</h3>
+        <div class="image-list">
+        {{ range .Pages }}
+            {{ .Render "image_list" }}
+        {{ end }}
+        </div>
+    {{ end }}
+  {{ partial "pagination" . }}
+</section>
+{{ end }}
