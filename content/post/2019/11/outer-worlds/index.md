@@ -1,12 +1,15 @@
 ---
-title: "Review: The Outer Worlds"
-slug: outer-worlds
-date: 2019-11-26
-tags:
-- gaming
 album: gaming
+date: 2019-11-26
 featuredResource:
   filename: The Outer Worlds_20191109171134.jpg
+slug: outer-worlds
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1199147871741906949/
+tags:
+- gaming
+title: 'Review: The Outer Worlds'
 ---
 
 I bought the Outer Worlds [earlier this month](/2019/11/b4op_a_h17a/), mainly because I had been without both my graphics card and my PS4 for a bit and I kind of wanted to play a relatively new game. I got the PS4 version because I hadn't yet replaced my video card at the time and besides, the game was not available on Steam. I guess minor spoilers follow.
