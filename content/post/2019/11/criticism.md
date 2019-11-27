@@ -1,7 +1,10 @@
 ---
 date: 2019-11-27
-title: Criticism
 slug: criticism
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1199653369700405250/
+title: Criticism
 ---
 
 1. Criticizing the logistics or implementation of an event doesn't necessarily mean you want it to fail or you want to the organizers to be embarassed. On the contrary, pointing out flaws allows for improvements.
