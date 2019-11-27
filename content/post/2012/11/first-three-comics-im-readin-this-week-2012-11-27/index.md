@@ -5,6 +5,9 @@ source: ireadcomicbooks
 tags:
 - comics
 title: The first three comics I'm reading this week 2012-11-27
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/273433776779038721/
 ---
 
 Tomorrow is new comics day! Here are the titles I'm most excited for this week:

@@ -5,6 +5,11 @@ source: ireadcomicbooks
 tags:
 - comics
 title: "The first three comics I\u2019m reading this week 2012-12-04"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/275897639416000512/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/527321487281137
 ---
 
 It's actually kind of a light week this week. There's a couple of Marvel NOW! #1s coming in, and nothing too exciting particularly on the DC side.

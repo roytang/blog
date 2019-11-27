@@ -8,4 +8,7 @@ link:
 slug: do-not-measure-developers-measure-projects-anaxi
 source: pocket
 title: Do NOT Measure Developers - Measure Projects | Anaxi
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1067455932211372034/
 ---
