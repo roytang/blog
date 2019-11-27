@@ -328,6 +328,11 @@ code {
     vertical-align: center;
 }
 
+.title time {
+    color: var(--third-color);
+    font-size: 0.6em;
+}
+
 .post-title {
     color: var(--second-color);
 }
