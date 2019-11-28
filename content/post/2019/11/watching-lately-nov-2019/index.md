@@ -2,7 +2,12 @@
 author: roy
 categories: []
 date: 2019-11-28
+featuredResource:
+  filename: broly.png
 slug: watching-lately-nov-2019
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1199916391597559808/
 tags:
 - Pop Culture
 - Movies
@@ -10,8 +15,6 @@ tags:
 - watching lately
 title: 'Watching Lately: November 2019: Broly, Justice League, Arrowverse, Mandalorian'
 type: post
-featuredResource:
-  filename: broly.png
 ---
 
 Nothing in the cinema this month (going to the cinema is expensive!). I did watch a couple of animated movies this month:
