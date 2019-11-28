@@ -83,7 +83,10 @@ import random
 
 content = ["This is the demo output for a Markov chain Python script, based on posts from this site. [More info](/2019/08/python-markov-chains/)"]
 for i in range(0, random.randint(10, 20)):
-    content.append(markov.sentence())
+    sentence = markov.sentence()
+    # avoid hugo errors
+    sentence = sentence.replace("{{", "{\{")
+    content.append(sentence)
 
 fm = frontmatter.Post("\n\r".join(content))
 fm['title'] = 'Markov Chain Demo'
