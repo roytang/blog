@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1116581926138040321/
 tags:
 - Links
+- recent links
 title: 'Recent Links: Black Holes, Stealth Wealth, Distinguished Engineers'
 type: post
 ---

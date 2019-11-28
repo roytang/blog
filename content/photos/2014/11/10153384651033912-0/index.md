@@ -7,6 +7,8 @@ syndicated:
 tags:
 - mobile-uploads
 - gasta
+- pickups
+album: pickups
 ---
 
 Late night impulse buying #gasta
