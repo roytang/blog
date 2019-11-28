@@ -25,52 +25,53 @@ cats_map = {
 
 albums_map = {
     "sketch": "sketchbook",
-    "sketchdaily": "sketchbook"
+    "sketchdaily": "sketchbook",
+    "pickups": "pickups"
 }
 
 tags_map = {
-    "magic the gathering": "mtg",
-    "magicarena": "mtg",
-    "magic arena": "mtg",
-    "magic arena": "magicarena",
-    "m11": "mtg",
-    "m12": "mtg",
-    "m13": "mtg",
-    "mtgakh": "mtg",
-    "mtgavr": "mtg",
-    "mtgbar": "mtg",
-    "mtgbfz": "mtg",
-    "mtgdom": "mtg",
-    "mtgdtk": "mtg",
-    "mtgeldraine": "mtg",
-    "mtgemn": "mtg",
-    "mtgfinance": "mtg",
-    "mtgfnm": "mtg",
-    "mtgfrf": "mtg",
-    "mtggtc": "mtg",
-    "mtghou": "mtg",
-    "mtginn": "mtg",
-    "mtgjou": "mtg",
-    "mtgkld": "mtg",
-    "mtgktk": "mtg",
-    "mtgmm2015": "mtg",
-    "mtgnationals": "mtg",
-    "mtgnationalsph": "mtg",
-    "mtgnph": "mtg",
-    "mtgo": "mtg",
-    "mtgocc": "mtg",
-    "mtgocube": "mtg",
-    "mtgogw": "mtg",
-    "mtgpc": "mtg",
-    "mtgrix": "mtg",
-    "mtgrna": "mtg",
-    "mtgseattle": "mtg",
-    "mtgsoi": "mtg",
-    "mtgun3": "mtg",
-    "mtgwar": "mtg",
-    "mtgwmc": "mtg",
-    "mtgwritingcontest": "mtg",
-    "mtgxln": "mtg",
+    # "magic the gathering": "mtg",
+    # "magicarena": "mtg",
+    # "magic arena": "mtg",
+    # "magic arena": "magicarena",
+    # "m11": "mtg",
+    # "m12": "mtg",
+    # "m13": "mtg",
+    # "mtgakh": "mtg",
+    # "mtgavr": "mtg",
+    # "mtgbar": "mtg",
+    # "mtgbfz": "mtg",
+    # "mtgdom": "mtg",
+    # "mtgdtk": "mtg",
+    # "mtgeldraine": "mtg",
+    # "mtgemn": "mtg",
+    # "mtgfinance": "mtg",
+    # "mtgfnm": "mtg",
+    # "mtgfrf": "mtg",
+    # "mtggtc": "mtg",
+    # "mtghou": "mtg",
+    # "mtginn": "mtg",
+    # "mtgjou": "mtg",
+    # "mtgkld": "mtg",
+    # "mtgktk": "mtg",
+    # "mtgmm2015": "mtg",
+    # "mtgnationals": "mtg",
+    # "mtgnationalsph": "mtg",
+    # "mtgnph": "mtg",
+    # "mtgo": "mtg",
+    # "mtgocc": "mtg",
+    # "mtgocube": "mtg",
+    # "mtgogw": "mtg",
+    # "mtgpc": "mtg",
+    # "mtgrix": "mtg",
+    # "mtgrna": "mtg",
+    # "mtgseattle": "mtg",
+    # "mtgsoi": "mtg",
+    # "mtgun3": "mtg",
+    # "mtgwar": "mtg",
+    # "mtgwmc": "mtg",
+    # "mtgwritingcontest": "mtg",
+    # "mtgxln": "mtg",
 }
 
 delete_tags = [
@@ -150,15 +151,16 @@ def clean_categories():
             # tags = new_tags              
 
 
-            oldlen = len(tags)
-            if oldlen > 0:
-                tags = list(set(tags))
-                newlen = len(tags)
-                if oldlen > newlen:
-                    has_changes = True
-                post['tags'] = tags
+            # oldlen = len(tags)
+            # if oldlen > 0:
+            #     tags = list(set(tags))
+            #     newlen = len(tags)
+            #     if oldlen > newlen:
+            #         has_changes = True
+            #     post['tags'] = tags
             # if len(newcats) > 0:
             #     post['categories'] = newcats
+            post['tags'] = tags
             post['categories'] = [] # no more cats!
 
             # print(post['categories'])

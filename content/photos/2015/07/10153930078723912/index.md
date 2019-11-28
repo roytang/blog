@@ -1,4 +1,6 @@
 ---
+album: pickups
+categories: []
 date: 2015-07-07 22:41:00
 source: facebook
 syndicated:

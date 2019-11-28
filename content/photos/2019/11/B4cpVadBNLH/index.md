@@ -1,4 +1,5 @@
 ---
+album: pickups
 date: 2019-11-04 14:57:15
 source: instagram
 syndicated:
