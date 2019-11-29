@@ -2,11 +2,14 @@
 author: roy
 categories: []
 date: 2019-11-29
+slug: recent-links-2019-11-29
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1200233530187534337/
 tags:
 - Links
 - recent links
-slug: recent-links-2019-11-29
-title: 'Recent Links for 11/29'
+title: Recent Links for 11/29
 type: post
 ---
 
