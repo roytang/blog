@@ -5,6 +5,11 @@ source: ireadcomicbooks
 tags:
 - comics
 title: This Week In Comics 2012-12-01
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/274500511280033792/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/411448848922699
 ---
 
 Let's see what the comic book man brought us this week! (Mild spoilers may ensue)
