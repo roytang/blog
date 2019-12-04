@@ -43,6 +43,9 @@ with sourcefile.open() as f:
         g.add_data(dict(data=data, title=""))
         res = g.burn()
 
+        # let's do this manually for now:
+        res = res.replace('width="800" height="400" viewBox', 'viewBox')
+
         outfile = root / ("%s.svg" % (s))
         with outfile.open('w') as w:
             w.write(res)

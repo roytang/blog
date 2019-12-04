@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a3="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="800" height="400" viewBox="0 0 800 400" a3:scriptImplementation="Adobe"><!-- Created with SVG.Graph --><!-- SVG.Graph by Jason R. Coombs --><!-- Based on SVG::Graph by Sean E. Russel --><!-- Based on Perl SVG:TT:Graph by Leo Lapworth & Stephan Morgan --><!-- //////////////////////////////////////////////////////////////////--><defs><style type="text/css">/*
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a3="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" viewBox="0 0 800 400" a3:scriptImplementation="Adobe"><!-- Created with SVG.Graph --><!-- SVG.Graph by Jason R. Coombs --><!-- Based on SVG::Graph by Sean E. Russel --><!-- Based on Perl SVG:TT:Graph by Leo Lapworth & Stephan Morgan --><!-- //////////////////////////////////////////////////////////////////--><defs><style type="text/css">/*
 Base styles for svg.charts.Graph
 */
 .svgBackground {
