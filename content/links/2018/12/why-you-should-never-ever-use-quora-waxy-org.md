@@ -8,4 +8,7 @@ link:
 slug: why-you-should-never-ever-use-quora-waxy-org
 source: pocket
 title: "Why You Should Never, Ever Use Quora \u2013 Waxy.org"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1070226872452165632/
 ---
