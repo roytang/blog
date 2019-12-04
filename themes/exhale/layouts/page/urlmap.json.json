@@ -2,7 +2,7 @@
     {{ range .Site.RegularPages }}
     "{{ .RelPermalink }}": {
         "full_url": "{{ .Permalink }}",
-        "kind": "{{ .Kind }}",
+        "kind": "{{ .Section }}",
         "date": "{{ .Date.Format "2006-01-02" }}",
         "timestamp": "{{ .Date.Format .Site.Data.Formats.timestampjson }}",
         "source_path": {{ .File.Path |jsonify }},

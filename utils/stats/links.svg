@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a3="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="800" height="400" viewBox="0 0 800 400" a3:scriptImplementation="Adobe"><!-- Created with SVG.Graph --><!-- SVG.Graph by Jason R. Coombs --><!-- Based on SVG::Graph by Sean E. Russel --><!-- Based on Perl SVG:TT:Graph by Leo Lapworth & Stephan Morgan --><!-- //////////////////////////////////////////////////////////////////--><defs><style type="text/css">/*
+Base styles for svg.charts.Graph
+*/
+.svgBackground {
+    fill: #fff
+    }
+.graphBackground {
+    fill: #f0f0f0
+    }
+/* graphs titles */
+.mainTitle {
+    text-anchor: middle;
+    fill: #000;
+    font-size: 16px;
+    font-family: "Arial", sans-serif;
+    font-weight: normal
+    }
+.subTitle {
+    text-anchor: middle;
+    fill: #999;
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+    font-weight: normal
+    }
+.axis {
+    stroke: #000;
+    stroke-width: 1px
+    }
+.guideLines {
+    stroke: #666;
+    stroke-width: 1px;
+    stroke-dasharray: 5, 5
+    }
+.xAxisLabels {
+    text-anchor: middle;
+    fill: #000;
+    font-size: 12px;
+    font-family: "Arial", sans-serif;
+    font-weight: normal
+    }
+.yAxisLabels {
+    text-anchor: end;
+    fill: #000;
+    font-size: 12px;
+    font-family: "Arial", sans-serif;
+    font-weight: normal
+    }
+.xAxisTitle {
+    text-anchor: middle;
+    fill: #f00;
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+    font-weight: normal
+    }
+.yAxisTitle {
+    fill: #f00;
+    text-anchor: middle;
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+    font-weight: normal
+    }
+.dataPointLabel {
+    fill: #000;
+    text-anchor: middle;
+    font-size: 10px;
+    font-family: "Arial", sans-serif;
+    font-weight: normal
+    }
+.staggerGuideLine {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.5px
+    }
+.keyText {
+    fill: #000;
+    text-anchor: start;
+    font-size: 10px;
+    font-family: "Arial", sans-serif;
+    font-weight: normal
+    }
+/*
+default fill styles for multiple datasets (probably only use a single
+dataset on this graph though)
+*/
+.key1, .fill1 {
+    fill: #f00;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 0.5px
+    }
+.key2, .fill2 {
+    fill: #00f;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key3, .fill3 {
+    fill: #0f0;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key4, .fill4 {
+    fill: #fc0;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key5, .fill5 {
+    fill: #0cf;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key6, .fill6 {
+    fill: #f0f;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key7, .fill7 {
+    fill: #0ff;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key8, .fill8 {
+    fill: #ff0;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key9, .fill9 {
+    fill: #c66;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key10, .fill10 {
+    fill: #639;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key11, .fill11 {
+    fill: #390;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }
+.key12, .fill12 {
+    fill: #96F;
+    fill-opacity: 0.5;
+    stroke: none;
+    stroke-width: 1px
+    }</style></defs><!-- include default stylesheet if none specified --><!--SVG Background--><rect width="800" height="400" x="0" y="0" class="svgBackground"/><g transform="translate (28.599999999999998 10)"><rect x="0" y="0" width="742.4" height="371" class="graphBackground"/><path d="M 0 0 v371" class="axis" id="xAxis"/><path d="M 0 371 h742.4" class="axis" id="yAxis"/><text class="xAxisLabels" x="46.4" y="386" style="text-anchor: middle">2010</text><text class="xAxisLabels" x="139.2" y="386" style="text-anchor: middle">2012</text><text class="xAxisLabels" x="232.0" y="386" style="text-anchor: middle">2013</text><text class="xAxisLabels" x="324.79999999999995" y="386" style="text-anchor: middle">2014</text><text class="xAxisLabels" x="417.59999999999997" y="386" style="text-anchor: middle">2015</text><text class="xAxisLabels" x="510.4" y="386" style="text-anchor: middle">2016</text><text class="xAxisLabels" x="603.1999999999999" y="386" style="text-anchor: middle">2017</text><text class="xAxisLabels" x="696.0" y="386" style="text-anchor: middle">2018</text><text class="yAxisLabels" x="-3" y="375.0" style="text-anchor: end">0</text><text class="yAxisLabels" x="-3" y="340.3" style="text-anchor: end">11</text><text class="yAxisLabels" x="-3" y="305.6" style="text-anchor: end">22</text><text class="yAxisLabels" x="-3" y="270.9" style="text-anchor: end">33</text><text class="yAxisLabels" x="-3" y="236.2" style="text-anchor: end">44</text><text class="yAxisLabels" x="-3" y="201.5" style="text-anchor: end">55</text><text class="yAxisLabels" x="-3" y="166.79999999999998" style="text-anchor: end">66</text><text class="yAxisLabels" x="-3" y="132.09999999999997" style="text-anchor: end">77</text><text class="yAxisLabels" x="-3" y="97.39999999999998" style="text-anchor: end">88</text><text class="yAxisLabels" x="-3" y="62.69999999999999" style="text-anchor: end">99</text><text class="yAxisLabels" x="-3" y="28.0" style="text-anchor: end">110</text><path d="M 0 336.3 h742.4" class="guideLines"/><path d="M 0 301.6 h742.4" class="guideLines"/><path d="M 0 266.9 h742.4" class="guideLines"/><path d="M 0 232.2 h742.4" class="guideLines"/><path d="M 0 197.5 h742.4" class="guideLines"/><path d="M 0 162.79999999999998 h742.4" class="guideLines"/><path d="M 0 128.09999999999997 h742.4" class="guideLines"/><path d="M 0 93.39999999999998 h742.4" class="guideLines"/><path d="M 0 58.69999999999999 h742.4" class="guideLines"/><path d="M 0 24.0 h742.4" class="guideLines"/><rect x="0.0" y="361.53636363636366" width="82.0" height="9.463636363636365" class="fill1"/><rect x="92.8" y="355.22727272727275" width="82.0" height="15.772727272727273" class="fill1"/><rect x="185.6" y="282.6727272727273" width="82.0" height="88.32727272727273" class="fill1"/><rect x="278.4" y="288.9818181818182" width="82.0" height="82.01818181818183" class="fill1"/><rect x="371.2" y="314.2181818181818" width="82.0" height="56.78181818181819" class="fill1"/><rect x="464.0" y="342.6090909090909" width="82.0" height="28.390909090909094" class="fill1"/><rect x="556.8" y="367.8454545454546" width="82.0" height="3.1545454545454548" class="fill1"/><rect x="649.6" y="39.77272727272725" width="82.0" height="331.22727272727275" class="fill1"/><g><text x="41.0" y="355.53636363636366" class="dataPointLabel" style="None stroke: #fff; stroke-width: 2;">3</text><text x="41.0" y="355.53636363636366" class="dataPointLabel">3</text><text x="133.8" y="349.22727272727275" class="dataPointLabel" style="None stroke: #fff; stroke-width: 2;">5</text><text x="133.8" y="349.22727272727275" class="dataPointLabel">5</text><text x="226.6" y="276.6727272727273" class="dataPointLabel" style="None stroke: #fff; stroke-width: 2;">28</text><text x="226.6" y="276.6727272727273" class="dataPointLabel">28</text><text x="319.4" y="282.9818181818182" class="dataPointLabel" style="None stroke: #fff; stroke-width: 2;">26</text><text x="319.4" y="282.9818181818182" class="dataPointLabel">26</text><text x="412.2" y="308.2181818181818" class="dataPointLabel" style="None stroke: #fff; stroke-width: 2;">18</text><text x="412.2" y="308.2181818181818" class="dataPointLabel">18</text><text x="505.0" y="336.6090909090909" class="dataPointLabel" style="None stroke: #fff; stroke-width: 2;">9</text><text x="505.0" y="336.6090909090909" class="dataPointLabel">9</text><text x="597.8" y="361.8454545454546" class="dataPointLabel" style="None stroke: #fff; stroke-width: 2;">1</text><text x="597.8" y="361.8454545454546" class="dataPointLabel">1</text><text x="690.6" y="33.77272727272725" class="dataPointLabel" style="None stroke: #fff; stroke-width: 2;">105</text><text x="690.6" y="33.77272727272725" class="dataPointLabel">105</text></g></g><g transform="translate(781 30)"><rect x="0" y="0" width="12" height="12" class="key1"/><text x="17" y="12" class="keyText"></text></g></svg>
