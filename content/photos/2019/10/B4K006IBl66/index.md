@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1188860957679869962/
 - type: instagram
   url: https://instagram.com/p/B4K006IBl66/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/don5jk/october_29th_storm/f5rcqmv/
 tags:
 - inktober2019
 - inktober

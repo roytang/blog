@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1184860034884390918/
 - type: instagram
   url: https://instagram.com/p/B3uYEQBBtEh/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dj3ndc/october_17th_baby_birds/f45n342/
 tags:
 - sketchdaily
 - inktober

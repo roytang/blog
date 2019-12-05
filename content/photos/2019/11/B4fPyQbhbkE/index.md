@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1191736349210091520/
 - type: instagram
   url: https://instagram.com/p/B4fPyQbhbkE/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dqydoa/november_3rd_tufted_coquette/f6m4r4o/
 tags:
 - sketchdaily
 - mtg

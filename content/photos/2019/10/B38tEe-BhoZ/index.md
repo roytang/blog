@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1186877961766670336/
 - type: instagram
   url: https://instagram.com/p/B38tEe-BhoZ/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dlf71p/october_22nd_clocks/f4uemr4/
 tags:
 - sketchdaily
 - inktober

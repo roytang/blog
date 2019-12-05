@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1189311338713092097/
 - type: instagram
   url: https://instagram.com/p/B4OBCdVFKl9/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dp440u/october_30th_plums/f5vb8z7/
 tags:
 - sketchdaily
 - inktober

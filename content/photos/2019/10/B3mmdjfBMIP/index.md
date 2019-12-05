@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1183766254152245248/
 - type: instagram
   url: https://instagram.com/p/B3mmdjfBMIP/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dhnxdi/october_14th_thanksgiving/f3t3zyl/
 tags:
 - sketchdaily
 - inktober

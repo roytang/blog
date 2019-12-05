@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1180723133785034752/
 - type: instagram
   url: https://instagram.com/p/B3Q8j6zhSqa/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/de0srl/october_6th_paws/f2q6bg6/
 tags:
 - sketchdaily
 - inktober

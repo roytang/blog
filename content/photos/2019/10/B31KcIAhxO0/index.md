@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1185839702395572224/
 - type: instagram
   url: https://instagram.com/p/B31KcIAhxO0/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dk176j/october_19th_shoes/f4e9u5h/
 tags:
 - sketchdaily
 - inktober

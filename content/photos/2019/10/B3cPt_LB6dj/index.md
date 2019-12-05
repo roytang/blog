@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1182305829690707968/
 - type: instagram
   url: https://instagram.com/p/B3cPt_LB6dj/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dfv8lc/october_10th_knitting/f36ykb0/
 tags:
 - sketchdaily
 - inktober

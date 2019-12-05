@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1188504689597472773/
 - type: instagram
   url: https://instagram.com/p/B4IRirMh8uK/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dnqw28/october_27th_inspector_gadget/f5gq2cb/
 tags:
 - sketchdaily
 - inktober

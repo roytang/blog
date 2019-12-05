@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1181061609713741824/
 - type: instagram
   url: https://instagram.com/p/B3TaB_Rh6wR/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/degu49/october_7th_magic/f2watuz/
 tags:
 - sketchdaily
 - inktober

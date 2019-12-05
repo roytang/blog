@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1180126861025841155/
 - type: instagram
   url: https://instagram.com/p/B3MsI15BBEa/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dd4roy/october_4th_free_draw_friday/f2eiqkg/
 tags:
 - sketchdaily
 - inktober

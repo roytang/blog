@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1186487960771932160/
 - type: instagram
   url: https://instagram.com/p/B358OkeBjUK/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dkxozj/october_21st_pirates/f4p4if3/
 tags:
 - sketchdaily
 - inktober

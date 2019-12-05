@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1179245042264891393/
 - type: instagram
   url: https://instagram.com/p/B3GcPswhxCU/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dc7lk9/october_2nd_zombies/f26zoxh/
 tags:
 - sketchdaily
 - inktober

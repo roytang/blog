@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1190951076352143360/
 - type: instagram
   url: https://instagram.com/p/B4Zo5IFBT0-/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dq1ncf/november_1st_free_draw_friday/f6c12dl/
 tags:
 - sketchdaily
 - procreate

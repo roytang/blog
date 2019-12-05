@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1189649825840685056/
 - type: instagram
   url: https://instagram.com/p/B4QaJrDlp7n/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dpkt7s/october_31st_fruit/f5w50yv/
 tags:
 - sketchdaily
 - inktober

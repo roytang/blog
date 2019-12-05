@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1184793259253612545/
 - type: instagram
   url: https://instagram.com/p/B3twtijhqtn/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dimkm7/october_16th_space_saloon/f41625n/
 tags:
 - sketchdaily
 - inktober

@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1184323910206140416/
 - type: instagram
   url: https://instagram.com/p/B3qjuL4hVGd/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/di54a2/october_15th_fictional_transportation/f3wjmmi/
 tags:
 - sketchdaily
 - inktober

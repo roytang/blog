@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1179456354316148737/
 - type: instagram
   url: https://instagram.com/p/B3HzpgRBxYg/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/dco935/october_3rd_fishmonger/f2atizw/
 tags:
 - sketchdaily
 - inktober
