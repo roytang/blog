@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/787591354159394816/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155001691223912:0
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/57qj0j/october_16th_instagram/d8u5nj4/
 tags:
 - sketchdaily
 - inktober

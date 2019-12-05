@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/759784781362130944/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154786519288912:0
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/4vg7n9/july_31st_calligraphy_illumination/d5yfhoe/
 tags:
 - sketchdaily
 ---

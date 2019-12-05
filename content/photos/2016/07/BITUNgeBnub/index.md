@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/757709445547917312/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154772535683912:0
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/4uhhah/july_25th_bread/d5qndg3/
 tags:
 - sketchdaily
 ---

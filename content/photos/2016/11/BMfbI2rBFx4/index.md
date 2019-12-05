@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/795442314248388608/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155068451678912:0
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/5beyc9/november_6th_succulents/d9oz2xd/
 tags:
 - sketchdaily
 ---

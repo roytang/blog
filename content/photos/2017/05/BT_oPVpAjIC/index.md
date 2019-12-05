@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/863025128485117952/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155616108028912
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/6airi5/may_11th_halle_berry/dhgqwim/
 tags:
 - sketchdaily
 ---

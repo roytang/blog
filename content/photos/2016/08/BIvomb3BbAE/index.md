@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/761694933115961344/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154799948703912:0
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/4w9cv6/august_5th_free_draw_friday/d660kk0/
 tags:
 - sketchdaily
 - flash

@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/916303222045859842/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156088502058912:1
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/74m8ah/october_6th_sword/dnzpetx/
 tags:
 - sketchdaily
 - Inktober

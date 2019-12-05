@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/839455591567409152/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155422636223912
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/5y6wtd/march_8th_meatball_sandwich/denrk85/
 tags:
 - sketchdaily
 - paperbyfiftythree

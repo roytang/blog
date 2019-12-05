@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/841359384810799106/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155444228798912:0
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/5z3u1h/march_13th_magic_shop/devpl59/
 tags:
 - sketchdaily
 - paperbyfiftythree

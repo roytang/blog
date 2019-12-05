@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/840599033462833153/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155435235983912
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/5yrue5/march_11th_private_eyes/desqja5/
 tags:
 - sketchdaily
 - paperbyfiftythree
