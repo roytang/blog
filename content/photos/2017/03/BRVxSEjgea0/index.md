@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/839119621320032257/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155422636223912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/5xzdd7/march_7th_a_factory/demc4eo/
 tags:
 - sketchdaily
 ---

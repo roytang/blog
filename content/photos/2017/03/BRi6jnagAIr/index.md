@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/840969604923039744/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155441083433912
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/5yxpmw/march_12th_future_appliances/deu35kt/
 tags:
 - sketchdaily
 - paperbyfiftythree

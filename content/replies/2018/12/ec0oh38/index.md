@@ -1,0 +1,16 @@
+---
+date: 2018-12-18 02:07:09+00:00
+reply_to:
+  label: a comment by silversoul007 on 'Used book stores in QC?' on /r/Philippines
+  name: ''
+  type: reddit
+  url: /r/Philippines/comments/a75srs/used_book_stores_in_qc/ec0nk2n/
+source: reddit
+syndicated:
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/a75srs/used_book_stores_in_qc/ec0oh38/
+tags:
+- Philippines
+---
+
+Thanks! Up to what time kaya yan meron? Try ko dumaan this week

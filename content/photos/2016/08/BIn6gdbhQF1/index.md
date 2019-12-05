@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/760608408433287168/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154792420318912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4vrekf/august_2nd_pokestops/d61ox2q/
 tags:
 - sketchdaily
 ---

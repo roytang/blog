@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/762110464067309569/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154802785743912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4wf0k8/august_6th_seahorses/d67cqel/
 tags:
 - sketchdaily
 - aquaman

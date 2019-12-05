@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/754358874640117762/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154748206723912:2
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4t3o6p/july_16th_bird_week_final_day_flamingo/d5ep00x/
 tags:
 - sketchdaily
 - birdweek

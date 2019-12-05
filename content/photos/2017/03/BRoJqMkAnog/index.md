@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/841706505980248064/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155444228798912
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/5zavy1/march_14th_appendix_n_book_cover/dex8gt1/
 tags:
 - sketchdaily
 - paperbyfiftythree

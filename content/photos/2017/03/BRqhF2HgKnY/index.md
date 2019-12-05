@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/842039510577868800/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155448978233912
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/5zi3pz/march_15th_evil_vegetation/deyojb1/
 tags:
 - sketchdaily
 - procreate

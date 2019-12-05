@@ -9,6 +9,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/156121793975/my-first-published-artwork-in-pilipino-funny
 - type: twitter
   url: https://twitter.com/roytang/statuses/822424414553784320/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/5p2vx6/january_20th_free_draw_friday/dco8qeq/
 tags: []
 ---
 

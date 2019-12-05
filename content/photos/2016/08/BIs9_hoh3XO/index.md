@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/761319869933559812/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154797455538912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4w3gvl/august_4th_lasers/d64j8wv/
 tags:
 - sketchdaily
 ---

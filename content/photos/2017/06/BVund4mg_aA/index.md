@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/878645322540617729/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155788062223912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/6iztuj/june_23rd_free_draw_friday/djcfbsa/
 tags:
 - sketch
 - sketchdaily
