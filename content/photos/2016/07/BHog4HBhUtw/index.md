@@ -13,8 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/751685574667411456/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154731652148912:0
-- type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/4rzfeo/july_9th_rhymes/d55cbfq/
 tags:
 - sketchdaily
 ---
