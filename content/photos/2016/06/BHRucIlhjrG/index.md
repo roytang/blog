@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/748478416597323776/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154710562383912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4qkjnq/june_30th_mashed_potatoes/d4ttmp2/
 tags:
 - sketchdaily
 ---
