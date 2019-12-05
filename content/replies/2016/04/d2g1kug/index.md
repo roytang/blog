@@ -1,0 +1,17 @@
+---
+date: 2016-04-25 01:57:00+00:00
+reply_to:
+  label: a comment by hungryroy on '2016 Senatorial Candidates Information Megathread'
+    on /r/Philippines
+  name: ''
+  type: reddit
+  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xiau/
+source: reddit
+syndicated:
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g1kug/
+tags:
+- Philippines
+---
+
+claimed to have a copy of an audio recording between a “ranking government official” and a “lawmaker” who were supposedly talking about an alleged attempt to cover up the real turn of events on the Mamasapano incident. - http://newsinfo.inquirer.net/758540/duterte-valeroso-should-voluntary-appear-at-new-mamasapano-probe\n\nAdvocacies: http://www.rappler.com/nation/politics/elections/2016/130308-diosdado-valeroso-advocacies-senatorial-elections
