@@ -24,6 +24,12 @@
             {{ .Render "summary.hat" }}
             {{ .Render "summary.content" }}
             </description>
+            <category>{{ .Section }}</category>
+            {{ with .Params.tags }}
+            {{ range . }}            
+            <category>{{ . }}</category>
+            {{ end }}
+            {{ end }}
         </item>
     {{ end }}
     </channel>
