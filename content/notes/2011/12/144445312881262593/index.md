@@ -10,4 +10,4 @@ tags:
 - onepiece
 ---
 
-Zoro is hilarious https://imgur.com/TwAgA #onepiece
+Zoro is hilarious #onepiece
