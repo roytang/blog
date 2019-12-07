@@ -7,6 +7,8 @@ slug: this-is-metro-manila
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1182915928121413634/
+- type: reddit
+  url: https://reddit.com/r/Philippines/comments/dguj62/this_is_metro_manila/
 tags:
 - philippines
 title: This is Metro Manila
