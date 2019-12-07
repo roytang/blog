@@ -111,7 +111,6 @@ def gen_svg_music(infile):
       
 
 # export file is from https://benjaminbenben.com/lastfm-to-csv/
-infile = "C:\\Users\\USER\\Dropbox\\backups\\lastfm-roytang-20191206.csv"
-
-gen_svg_music(infile)
-# gen_svg_blog()
+# infile = "C:\\Users\\USER\\Dropbox\\backups\\lastfm-roytang-20191206.csv"
+# gen_svg_music(infile)
+gen_svg_blog()
