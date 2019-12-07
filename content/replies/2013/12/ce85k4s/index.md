@@ -1,5 +1,5 @@
 ---
-date: 2013-12-23 00:00:00+00:00
+date: 2013-12-23 00:00:00
 reply_to:
   label: '''ZELDA: ALBW - Question about item rentals'' on /r/3DS'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - 3DS
 ---
 
-There is no other way to acquire those items other than renting/buying them from that guy.\n\nThat being said, do not be concerned by the item rental system, it's still a ridiculously good game even if you don't like it.\n\n
+There is no other way to acquire those items other than renting/buying them from that guy.
+
+That being said, do not be concerned by the item rental system, it's still a ridiculously good game even if you don't like it.

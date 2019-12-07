@@ -1,5 +1,5 @@
 ---
-date: 2016-03-16 00:00:00+00:00
+date: 2016-03-16 00:00:00
 reply_to:
   label: a comment by JRL1981 on 'Let's have a level exchange! - March 14, 2016' on
     /r/MarioMaker
@@ -14,4 +14,6 @@ tags:
 - MarioMaker
 ---
 
-Cleared and starred :d\n\nTook me a couple of tries. Nice usage of skewers.
+Cleared and starred :d
+
+Took me a couple of tries. Nice usage of skewers.

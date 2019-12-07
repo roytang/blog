@@ -1,5 +1,5 @@
 ---
-date: 2014-08-22 00:00:00+00:00
+date: 2014-08-22 00:00:00
 reply_to:
   label: a comment by [deleted] on 'What's the saddest answer on an AMA?' on /r/AskReddit
   name: ''
@@ -13,4 +13,6 @@ tags:
 - AskReddit
 ---
 
-> To be honest, IE isn't really that bad \n\nIf you're able to make this statement with a straight face, you've never had to write cross-browser compliant websites.
+> To be honest, IE isn't really that bad 
+
+If you're able to make this statement with a straight face, you've never had to write cross-browser compliant websites.

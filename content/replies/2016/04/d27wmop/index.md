@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:35:09+00:00
+date: 2016-04-18 19:35:09
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Jericho Petilla (Liberal)\n\nHistory: Governor (Leyte), DOE Secretary\n\nhttps://en.wikipedia.org/wiki/Jericho_Petilla
+Jericho Petilla (Liberal)
+
+History: Governor (Leyte), DOE Secretary
+
+https://en.wikipedia.org/wiki/Jericho_Petilla

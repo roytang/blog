@@ -1,5 +1,5 @@
 ---
-date: 2016-04-24 17:48:47+00:00
+date: 2016-04-24 17:48:47
 reply_to:
   label: a comment by internatty on '2016 Senatorial Candidates Information Megathread'
     on /r/Philippines
@@ -14,4 +14,6 @@ tags:
 - Philippines
 ---
 
-Highlights from this interview:\n\n- platform: jobs, education\n- increased employment rate in TESDA from 20+% to 70+%\n- in congress, author of FOI bill and moved to arrest congress members leaving the plenary to avoid the bill being passed\n- He/CIBAC said to have received kickbacks from Napoles (included in 3rd batch of people charged, but he says the NBI cleared him already because the docs used as basis were fake)\n- billboards funded by JIL church\n
+Highlights from this interview:
+
+- platform: jobs, education\n- increased employment rate in TESDA from 20+% to 70+%\n- in congress, author of FOI bill and moved to arrest congress members leaving the plenary to avoid the bill being passed\n- He/CIBAC said to have received kickbacks from Napoles (included in 3rd batch of people charged, but he says the NBI cleared him already because the docs used as basis were fake)\n- billboards funded by JIL church\n

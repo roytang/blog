@@ -1,5 +1,5 @@
 ---
-date: 2016-04-05 05:54:03+00:00
+date: 2016-04-05 05:54:03
 reply_to:
   label: '''Is it inappropriate to add a statement on my LinkedIn profile about not
     wanting to receive connection invites from people associated with multi-level
@@ -15,4 +15,6 @@ tags:
 - answers
 ---
 
-No, it is not inappropriate. It's your LinkedIn, you can do whatever you want.\n\nMine has a statement that any recruiters who want to connect with me must include the word PINEAPPLE (all caps) in their invite. No one has ever complied haha
+No, it is not inappropriate. It's your LinkedIn, you can do whatever you want.
+
+Mine has a statement that any recruiters who want to connect with me must include the word PINEAPPLE (all caps) in their invite. No one has ever complied haha

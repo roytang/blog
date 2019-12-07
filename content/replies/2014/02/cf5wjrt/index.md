@@ -1,5 +1,5 @@
 ---
-date: 2014-02-03 00:00:00+00:00
+date: 2014-02-03 00:00:00
 reply_to:
   label: '''R&D lessening the amount of shuffle effects'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-As someone with sweaty hands especially over a long tournament, I appreciate any effort to reduce the amount of shuffling that needs to be done\n\nIt's one of the reasons I mostly play on MTGO these days...
+As someone with sweaty hands especially over a long tournament, I appreciate any effort to reduce the amount of shuffling that needs to be done
+
+It's one of the reasons I mostly play on MTGO these days...

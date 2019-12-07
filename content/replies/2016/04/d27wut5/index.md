@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:40:03+00:00
+date: 2016-04-18 19:40:03
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Alma Moreno (UNA) - Lacsamana, Alma on the ballot\n\nHistory: Actress, Councilor (Paranaque)\n\nhttps://en.wikipedia.org/wiki/Alma_Moreno
+Alma Moreno (UNA) - Lacsamana, Alma on the ballot
+
+History: Actress, Councilor (Paranaque)
+
+https://en.wikipedia.org/wiki/Alma_Moreno

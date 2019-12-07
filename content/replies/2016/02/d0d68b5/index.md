@@ -1,5 +1,5 @@
 ---
-date: 2016-02-25 00:00:00+00:00
+date: 2016-02-25 00:00:00
 reply_to:
   label: '''February 25th - A Dozen'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Not following the theme today. A friend challenged me to draw their kid after I said drawing babies was tough: http://imgur.com/bFQnqyw\n\nI had to partially trace a reference image for this one though, not sure if that's cheating. (My first attempt had horrible proportions)
+Not following the theme today. A friend challenged me to draw their kid after I said drawing babies was tough: http://imgur.com/bFQnqyw
+
+I had to partially trace a reference image for this one though, not sure if that's cheating. (My first attempt had horrible proportions)

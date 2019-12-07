@@ -1,5 +1,5 @@
 ---
-date: 2016-03-16 00:00:00+00:00
+date: 2016-03-16 00:00:00
 reply_to:
   label: '''Set out to make a level that previews the boss like you''re being watched
     until they try to finally stop you. Here is "From the Belly of the Beasts."''
@@ -15,4 +15,6 @@ tags:
 - MarioMaker
 ---
 
-Some of those early vine jumps were way too tight, making the first part way harder than the rest of it lol. Boss fight was nice.\n\nHow do you make that large fireball with wings that's followed by some smaller fireballs with wings?
+Some of those early vine jumps were way too tight, making the first part way harder than the rest of it lol. Boss fight was nice.
+
+How do you make that large fireball with wings that's followed by some smaller fireballs with wings?

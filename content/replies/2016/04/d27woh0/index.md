@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:36:11+00:00
+date: 2016-04-18 19:36:11
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Neri Colmenares (Makabayan)\n\nHistory: HR Lawyer, Party-List Representative (Bayan Muna)\n\nhttps://en.wikipedia.org/wiki/Neri_Colmenares
+Neri Colmenares (Makabayan)
+
+History: HR Lawyer, Party-List Representative (Bayan Muna)
+
+https://en.wikipedia.org/wiki/Neri_Colmenares

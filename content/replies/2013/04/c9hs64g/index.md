@@ -1,5 +1,5 @@
 ---
-date: 2013-04-19 00:00:00+00:00
+date: 2013-04-19 00:00:00
 reply_to:
   label: '''Why does Wizards always print sets that have roughly 1-2 dozen cards that
     are constructed playable while the majority of the set is useless?'' on /r/magicTCG'
@@ -14,4 +14,6 @@ tags:
 - magicTCG
 ---
 
-Tournament-level constructed isn't the only format people play.\n\nAnyway, here's a recent Mark Rosewater post about bad cards: http://markrosewater.tumblr.com/post/48263537056/you-often-defend-the-printing-of-bad-cards-however-it
+Tournament-level constructed isn't the only format people play.
+
+Anyway, here's a recent Mark Rosewater post about bad cards: http://markrosewater.tumblr.com/post/48263537056/you-often-defend-the-printing-of-bad-cards-however-it

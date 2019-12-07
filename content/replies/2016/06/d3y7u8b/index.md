@@ -1,5 +1,5 @@
 ---
-date: 2016-06-06 16:27:44+00:00
+date: 2016-06-06 16:27:44
 reply_to:
   label: '''June 6th - The New Pokemon Starters'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Pokemans: http://i.imgur.com/rUYx9En.jpg\n\n(Yes, I just copied the reference image. Lazy today :p)
+Pokemans: http://i.imgur.com/rUYx9En.jpg
+
+(Yes, I just copied the reference image. Lazy today :p)

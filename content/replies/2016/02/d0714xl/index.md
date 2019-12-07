@@ -1,5 +1,5 @@
 ---
-date: 2016-02-20 00:00:00+00:00
+date: 2016-02-20 00:00:00
 reply_to:
   label: '''February 20th - Serious Saturday: Two 10 Minute Figure Studies'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Am I allowed to not follow the theme at all? LOL\n\nBill Adama from BSG: http://i.imgur.com/BkpaMak.jpg
+Am I allowed to not follow the theme at all? LOL
+
+Bill Adama from BSG: http://i.imgur.com/BkpaMak.jpg

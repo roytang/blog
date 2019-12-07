@@ -1,5 +1,5 @@
 ---
-date: 2016-04-01 16:22:13+00:00
+date: 2016-04-01 16:22:13
 reply_to:
   label: '''April 1rd - Free Draw Friday'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - SketchDaily
 ---
 
-Literally Hitler: http://i.imgur.com/fnuMawW.jpg\n\n(This seemed funnier in my head)\n\nDrawn using Sketchpad Pro on iPad
+Literally Hitler: http://i.imgur.com/fnuMawW.jpg
+
+(This seemed funnier in my head)
+
+Drawn using Sketchpad Pro on iPad

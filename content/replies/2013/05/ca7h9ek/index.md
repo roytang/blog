@@ -1,5 +1,5 @@
 ---
-date: 2013-05-28 00:00:00+00:00
+date: 2013-05-28 00:00:00
 reply_to:
   label: '''Tales of the Abyss or Etrian Odyssey?'' on /r/3DS'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - 3DS
 ---
 
-I didn't really enjoy ToA (haven't finished yet, but I'm about 80% through the game). Too much unnecessary walking around for me.\n\nDunno about EO4, but I enjoyed the demo.
+I didn't really enjoy ToA (haven't finished yet, but I'm about 80% through the game). Too much unnecessary walking around for me.
+
+Dunno about EO4, but I enjoyed the demo.

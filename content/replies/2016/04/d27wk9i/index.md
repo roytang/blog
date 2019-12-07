@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:33:40+00:00
+date: 2016-04-18 19:33:40
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Leila de Lima (Liberal)\n\nHistory: CHR Chair, DOJ Secretary\n\nhttps://en.wikipedia.org/wiki/Leila_de_Lima
+Leila de Lima (Liberal)
+
+History: CHR Chair, DOJ Secretary
+
+https://en.wikipedia.org/wiki/Leila_de_Lima

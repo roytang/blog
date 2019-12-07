@@ -1,5 +1,5 @@
 ---
-date: 2012-05-29 00:00:00+00:00
+date: 2012-05-29 00:00:00
 reply_to:
   label: '''Your wallet is not ready'' on /r/Steam'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Steam
 ---
 
-Aren't these usually in July?\n\nMan, I hope DX:HR and/or the Witcher 2 get good price drops :D
+Aren't these usually in July?
+
+Man, I hope DX:HR and/or the Witcher 2 get good price drops :D

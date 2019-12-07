@@ -1,5 +1,5 @@
 ---
-date: 2014-07-07 00:00:00+00:00
+date: 2014-07-07 00:00:00
 reply_to:
   label: '''Greg Land To Draw The New Spider-Woman Comic'' on /r/comicbooks'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - comicbooks
 ---
 
-First off: There's going to be a Spider-Woman comic? Yay!\n\nGreg Land? Boo!
+First off: There's going to be a Spider-Woman comic? Yay!
+
+Greg Land? Boo!

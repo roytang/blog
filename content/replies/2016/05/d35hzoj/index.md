@@ -1,5 +1,5 @@
 ---
-date: 2016-05-14 18:54:49+00:00
+date: 2016-05-14 18:54:49
 reply_to:
   label: '''May 14th - Random Wikipedia Article'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - SketchDaily
 ---
 
-My 3 articles were https://en.wikipedia.org/wiki/2-hydroxymuconate-semialdehyde_hydrolase, https://en.wikipedia.org/wiki/New_Hance_Trail and https://en.wikipedia.org/wiki/Harry_Taylor_(1957_pitcher)\n\nI managed to find an image reference for Harry Taylor from this site: http://www.kansascitybaseballhistoricalsociety.com/we%20remember.html\n\nHere's the sketch: https://65.media.tumblr.com/4dc3aa979e4e33d3f6e8b6788a744562/tumblr_o76kibBuTh1qzqfdio1_540.jpg (It doesn't look a lot like him though =/)
+My 3 articles were https://en.wikipedia.org/wiki/2-hydroxymuconate-semialdehyde_hydrolase, https://en.wikipedia.org/wiki/New_Hance_Trail and https://en.wikipedia.org/wiki/Harry_Taylor_(1957_pitcher)
+
+I managed to find an image reference for Harry Taylor from this site: http://www.kansascitybaseballhistoricalsociety.com/we%20remember.html
+
+Here's the sketch: https://65.media.tumblr.com/4dc3aa979e4e33d3f6e8b6788a744562/tumblr_o76kibBuTh1qzqfdio1_540.jpg (It doesn't look a lot like him though =/)

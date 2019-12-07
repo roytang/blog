@@ -1,5 +1,5 @@
 ---
-date: 2016-06-13 08:02:08+00:00
+date: 2016-06-13 08:02:08
 reply_to:
   label: '''June 13th - A Bathroom'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Morning rituals: http://i.imgur.com/F5TlkmV.jpg\n\nThis was based on my memory of the bathroom we had in the flat when I had to stay in London for work. When I was done, I realized I had completely forgotten to put in the toilet on the right-side wall
+Morning rituals: http://i.imgur.com/F5TlkmV.jpg
+
+This was based on my memory of the bathroom we had in the flat when I had to stay in London for work. When I was done, I realized I had completely forgotten to put in the toilet on the right-side wall

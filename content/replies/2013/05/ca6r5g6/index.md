@@ -1,5 +1,5 @@
 ---
-date: 2013-05-27 00:00:00+00:00
+date: 2013-05-27 00:00:00
 reply_to:
   label: a comment by Becer on '[MM] Pacts, Reveillark, Ethersworn Canonist, and more'
     on /r/magicTCG
@@ -14,4 +14,4 @@ tags:
 - magicTCG
 ---
 
-I'm not saying I expect the meta to change when MM comes out, just that hopefully someday the meta gives me something nice and easy to build :p\n\n
+I'm not saying I expect the meta to change when MM comes out, just that hopefully someday the meta gives me something nice and easy to build :p

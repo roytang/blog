@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:45:11+00:00
+date: 2016-04-18 19:45:11
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Dante Liban (Independent)\n\nHistory: Congressman (QC)
+Dante Liban (Independent)
+
+History: Congressman (QC)

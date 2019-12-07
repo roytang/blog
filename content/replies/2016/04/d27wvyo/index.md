@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:40:44+00:00
+date: 2016-04-18 19:40:44
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Manny Pacquiao (UNA)\n\nHistory: Boxer, Congressman (Sarangani)\n\nhttps://en.wikipedia.org/wiki/Manny_Pacquiao
+Manny Pacquiao (UNA)
+
+History: Boxer, Congressman (Sarangani)
+
+https://en.wikipedia.org/wiki/Manny_Pacquiao

@@ -1,5 +1,5 @@
 ---
-date: 2013-05-13 00:00:00+00:00
+date: 2013-05-13 00:00:00
 reply_to:
   label: a comment by Keranth on 'Do you prefer a game which has great gameplay and
     a sub-par story or a game with less emphasis on gameplay, but a detailed, interactive
@@ -15,4 +15,6 @@ tags:
 - truegaming
 ---
 
-> Turn-based RPGs, for example, really have nothing to show in terms of gameplay. I suppose responsive menus and quick responses to button presses, but past that it gets pretty hard to improve the gameplay aspect of it.\n\nWat. I take it these type of games aren't really your style. Skill trees and builds, ability choices, enemy balancing, equipment choices are all gameplay elements.
+> Turn-based RPGs, for example, really have nothing to show in terms of gameplay. I suppose responsive menus and quick responses to button presses, but past that it gets pretty hard to improve the gameplay aspect of it.
+
+Wat. I take it these type of games aren't really your style. Skill trees and builds, ability choices, enemy balancing, equipment choices are all gameplay elements.

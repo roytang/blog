@@ -1,5 +1,5 @@
 ---
-date: 2014-05-08 00:00:00+00:00
+date: 2014-05-08 00:00:00
 reply_to:
   label: a comment by Wizards_Alison on '"if everything goes as expected, we plan
     on switching from the current version of Magic Online to the new version this
@@ -15,4 +15,6 @@ tags:
 - magicTCG
 ---
 
-Thank you for taking the time to reply Alison. Wizards has always been very good in engaging the community, so hopefully at some point there can be a more open dialogue to discuss the feedback with the community and the perceived problems with the new client.\n\nI personally do not mind using the new client, but some of the reports here like slower machines being unable to run it at all are worrying; if enough of the population have a problem with the new client, it may negatively affect the user base.
+Thank you for taking the time to reply Alison. Wizards has always been very good in engaging the community, so hopefully at some point there can be a more open dialogue to discuss the feedback with the community and the perceived problems with the new client.
+
+I personally do not mind using the new client, but some of the reports here like slower machines being unable to run it at all are worrying; if enough of the population have a problem with the new client, it may negatively affect the user base.

@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:46:22+00:00
+date: 2016-04-18 19:46:22
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Ramon Montano (Independent)\n\nHistory: Military officer during Cory admin\n\nhttps://en.wikipedia.org/wiki/Ramon_Monta%C3%B1o
+Ramon Montano (Independent)
+
+History: Military officer during Cory admin
+
+https://en.wikipedia.org/wiki/Ramon_Monta%C3%B1o

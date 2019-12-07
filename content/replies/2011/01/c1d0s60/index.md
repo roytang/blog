@@ -1,5 +1,5 @@
 ---
-date: 2011-01-17 00:00:00+00:00
+date: 2011-01-17 00:00:00
 reply_to:
   label: a comment by Moneo on 'Who else refuses to buy games at full-price anymore?'
     on /r/gaming
@@ -14,4 +14,8 @@ tags:
 - gaming
 ---
 
-Really? Did you get that from the multiple game of the year awards it garnered? :p\n\nDunno whether bnet is "shitty" or not but I've personally logged more than 500 games online, and I'm no pro just a casual player mostly. Hundreds of games are ongoing at any one time on bnet, I'm not sure under what definition of shitty that qualifies.\n\nTldr sc2 is an awesome game
+Really? Did you get that from the multiple game of the year awards it garnered? :p
+
+Dunno whether bnet is "shitty" or not but I've personally logged more than 500 games online, and I'm no pro just a casual player mostly. Hundreds of games are ongoing at any one time on bnet, I'm not sure under what definition of shitty that qualifies.
+
+Tldr sc2 is an awesome game

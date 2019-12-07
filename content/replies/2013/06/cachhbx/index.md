@@ -1,5 +1,5 @@
 ---
-date: 2013-06-05 00:00:00+00:00
+date: 2013-06-05 00:00:00
 reply_to:
   label: '''Win one of 50 copies of our new game, Quell Memento!'' on /r/vita'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - vita
 ---
 
-Is this still go? I'd love to give it a try, US here.\n\nThanks! :D
+Is this still go? I'd love to give it a try, US here.
+
+Thanks! :D

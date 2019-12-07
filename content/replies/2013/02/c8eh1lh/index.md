@@ -1,5 +1,5 @@
 ---
-date: 2013-02-13 00:00:00+00:00
+date: 2013-02-13 00:00:00
 reply_to:
   label: '''Is it wrong that i do not enjoy hard games? I am unable to enjoy a game
     that challenges me.'' on /r/truegaming'
@@ -14,4 +14,6 @@ tags:
 - truegaming
 ---
 
-People enjoy different things.\n\nThat being said, try to challenge yourself every so often, maybe you'll learn new things or grow somehow.
+People enjoy different things.
+
+That being said, try to challenge yourself every so often, maybe you'll learn new things or grow somehow.

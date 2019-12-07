@@ -1,5 +1,5 @@
 ---
-date: 2016-07-12 12:47:17+00:00
+date: 2016-07-12 12:47:17
 reply_to:
   label: '''Reddit, what''s something special about your country''s McDonald''s?''
     on /r/AskReddit'
@@ -15,4 +15,6 @@ tags:
 - '2'
 ---
 
-We serve a McSpaghetti. The first time I tried a McDonald's overseas I tried to order a McSpaghetti and the Chinese lady behind the counter looked at me like I was a madman\n\nAlso they are consistently #2 behind a local Bee-themed franchise
+We serve a McSpaghetti. The first time I tried a McDonald's overseas I tried to order a McSpaghetti and the Chinese lady behind the counter looked at me like I was a madman
+
+Also they are consistently #2 behind a local Bee-themed franchise

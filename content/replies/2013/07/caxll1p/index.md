@@ -1,5 +1,5 @@
 ---
-date: 2013-07-07 00:00:00+00:00
+date: 2013-07-07 00:00:00
 reply_to:
   label: '''Weekly /r/Games Discussion - What have you been playing, and what do you
     think of it?'' on /r/Games'
@@ -14,4 +14,8 @@ tags:
 - Games
 ---
 
-I just finished The Last Of Us! Fantastic game (as everyone has been saying)\n\nI also started up Infamous 2 again (I lost my save when my old PS3 hard drive had a problem, and I didn't have cloud saving enabled then)\n\nAlso doing a little BlazBlue on the Vita on the side. The missions are hard!
+I just finished The Last Of Us! Fantastic game (as everyone has been saying)
+
+I also started up Infamous 2 again (I lost my save when my old PS3 hard drive had a problem, and I didn't have cloud saving enabled then)
+
+Also doing a little BlazBlue on the Vita on the side. The missions are hard!

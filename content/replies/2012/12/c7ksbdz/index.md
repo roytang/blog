@@ -1,5 +1,5 @@
 ---
-date: 2012-12-23 00:00:00+00:00
+date: 2012-12-23 00:00:00
 reply_to:
   label: 'a comment by rindindin on ''Steam Holiday Sale: Day 3'' on /r/Games'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Games
 ---
 
-Nah, I feel that way too. This year's sale isn't too exciting really. Or maybe it's just that there aren't many games I'd want to buy anymore. \n\nI miss those great achievement hunts they used to have.
+Nah, I feel that way too. This year's sale isn't too exciting really. Or maybe it's just that there aren't many games I'd want to buy anymore. 
+
+I miss those great achievement hunts they used to have.

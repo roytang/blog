@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:39:27+00:00
+date: 2016-04-18 19:39:27
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Rey Langit (UNA)\n\nHistory: Journalist, radio host\n\nhttps://en.wikipedia.org/wiki/Rey_Langit
+Rey Langit (UNA)
+
+History: Journalist, radio host
+
+https://en.wikipedia.org/wiki/Rey_Langit

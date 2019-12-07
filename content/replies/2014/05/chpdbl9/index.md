@@ -1,5 +1,5 @@
 ---
-date: 2014-05-24 00:00:00+00:00
+date: 2014-05-24 00:00:00
 reply_to:
   label: '''X-MEN: DAYS OF FUTURE PAST - Mega Movie Discussion Thread (SPOILERS)''
     on /r/comicbooks'
@@ -14,4 +14,6 @@ tags:
 - comicbooks
 ---
 
-Old Charles said some stuff to young Charles that I liked, it started something like "It's the greatest gift that we have, to bear the pain without breaking, ..." does anyone remember the rest of it.\n\nGreat movie! It's the X-Men movie we deserve!
+Old Charles said some stuff to young Charles that I liked, it started something like "It's the greatest gift that we have, to bear the pain without breaking, ..." does anyone remember the rest of it.
+
+Great movie! It's the X-Men movie we deserve!

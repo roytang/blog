@@ -1,5 +1,5 @@
 ---
-date: 2013-07-08 00:00:00+00:00
+date: 2013-07-08 00:00:00
 reply_to:
   label: '''Rev3Game''s review of Civilization 5: Brave New World'' on /r/Games'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Games
 ---
 
-So, I purchased it on GMG before watching the review, might have been a good idea to do it in the reverse order. I still would have purchased it anyway. \n\nAnyway, I found out from the review that this is the last expansion for civ 5? I'm kind of disappointed because I was hoping they would implement a "random events" system like what they had in the last civ4 expansion. Still probably gonna spend a couple of hundred hours here though :p
+So, I purchased it on GMG before watching the review, might have been a good idea to do it in the reverse order. I still would have purchased it anyway. 
+
+Anyway, I found out from the review that this is the last expansion for civ 5? I'm kind of disappointed because I was hoping they would implement a "random events" system like what they had in the last civ4 expansion. Still probably gonna spend a couple of hundred hours here though :p

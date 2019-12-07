@@ -1,5 +1,5 @@
 ---
-date: 2013-05-20 00:00:00+00:00
+date: 2013-05-20 00:00:00
 reply_to:
   label: '''If you were to win the Invitational Tournament what card would you design?''
     on /r/magicTCG'
@@ -14,4 +14,12 @@ tags:
 - magicTCG
 ---
 
-RR\n\nCreature - Whatever\n\n2/1\n\nHaste, First Strike\n\nWhenever CARDNAME deals combat damage to a player, you may pay RR. If you do, [Relentless Assault]
+RR
+
+Creature - Whatever
+
+2/1
+
+Haste, First Strike
+
+Whenever CARDNAME deals combat damage to a player, you may pay RR. If you do, [Relentless Assault]

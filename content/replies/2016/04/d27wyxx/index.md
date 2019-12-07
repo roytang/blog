@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:42:30+00:00
+date: 2016-04-18 19:42:30
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Levito Baligod (Independent)\n\nHistory: Anti-PDAF Lawyer
+Levito Baligod (Independent)
+
+History: Anti-PDAF Lawyer

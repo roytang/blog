@@ -1,5 +1,5 @@
 ---
-date: 2013-10-07 00:00:00+00:00
+date: 2013-10-07 00:00:00
 reply_to:
   label: '''A shot of the Nova Corps in Guardians of the Galaxy'' on /r/comicbooks'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - comicbooks
 ---
 
-Why are their uniforms all blue? Where is the yellow?!?\n\nThey don't feel like Novas if they're not yellow.
+Why are their uniforms all blue? Where is the yellow?!?
+
+They don't feel like Novas if they're not yellow.

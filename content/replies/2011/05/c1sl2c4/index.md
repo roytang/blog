@@ -1,5 +1,5 @@
 ---
-date: 2011-05-05 00:00:00+00:00
+date: 2011-05-05 00:00:00
 reply_to:
   label: '''Do the Non-Americans of Reddit realize how fucking huge the United States
     is geographically?'' on /r/AskReddit'
@@ -14,4 +14,6 @@ tags:
 - AskReddit
 ---
 
-I'm sure I do.\n\nDo Americans realize how huge the rest of the world is though?
+I'm sure I do.
+
+Do Americans realize how huge the rest of the world is though?

@@ -1,5 +1,5 @@
 ---
-date: 2017-01-14 07:52:20+00:00
+date: 2017-01-14 07:52:20
 reply_to:
   label: '''Question regarding primary/secondary accounts and region DLC'' on /r/PlayStationPlus'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - PlayStationPlus
 ---
 
-AFAIK only the console where the account is set as primary can that account's games be played by other accounts.\n\nFor cross-region compatibility of game DLC, it depends on the game.
+AFAIK only the console where the account is set as primary can that account's games be played by other accounts.
+
+For cross-region compatibility of game DLC, it depends on the game.

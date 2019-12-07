@@ -1,5 +1,5 @@
 ---
-date: 2016-01-26 00:00:00+00:00
+date: 2016-01-26 00:00:00
 reply_to:
   label: '''Sorted cards by first letter. ''s'' is structurally unstable'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-I sorted all my commons/uncommons a while back, somewhere between 20-25k cards all in all (a good number from pre-Modern sets). Booster boxes can hold like 2-3 letters at a time, i.e. one booster box is enough for all As, Bs and half of Cs. All the Ss needed more than two booster boxes =/\n\nAlso, I probably need better storage than booster boxes
+I sorted all my commons/uncommons a while back, somewhere between 20-25k cards all in all (a good number from pre-Modern sets). Booster boxes can hold like 2-3 letters at a time, i.e. one booster box is enough for all As, Bs and half of Cs. All the Ss needed more than two booster boxes =/
+
+Also, I probably need better storage than booster boxes

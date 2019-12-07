@@ -1,5 +1,5 @@
 ---
-date: 2011-01-02 00:00:00+00:00
+date: 2011-01-02 00:00:00
 reply_to:
   label: '''Reddit, what are the "must play" video games?'' on /r/gaming'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - gaming
 ---
 
-Not everyone plays FPS.\n\nNot everyone plays RPGs.\n\nI guess Super Mario Bros. is a given though.
+Not everyone plays FPS.
+
+Not everyone plays RPGs.
+
+I guess Super Mario Bros. is a given though.

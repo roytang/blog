@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:35:26+00:00
+date: 2016-04-18 19:35:26
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Ralph Recto (Liberal)\n\nHistory: Congressman (Batangas), Senator\n\nhttps://en.wikipedia.org/wiki/Ralph_Recto
+Ralph Recto (Liberal)
+
+History: Congressman (Batangas), Senator
+
+https://en.wikipedia.org/wiki/Ralph_Recto

@@ -1,5 +1,5 @@
 ---
-date: 2014-06-24 00:00:00+00:00
+date: 2014-06-24 00:00:00
 reply_to:
   label: '''[STEAM] [OPERATION: Everyone Work as a Team] Each team gets to win twice!''
     on /r/gaming'
@@ -14,4 +14,6 @@ tags:
 - gaming
 ---
 
-I think we should spend a day agreeing not to collude, just to see if the whole thing is rigged or whether reddit really has that big an effect\n\n...for SCIENCE!
+I think we should spend a day agreeing not to collude, just to see if the whole thing is rigged or whether reddit really has that big an effect
+
+...for SCIENCE!

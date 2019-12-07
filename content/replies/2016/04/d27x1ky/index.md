@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:44:10+00:00
+date: 2016-04-18 19:44:10
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Richard Gordon (Independent)\n\nHistory: PRC Chair, SBMA Chair, DOT Secretary, Senator\n\nhttps://en.wikipedia.org/wiki/Richard_J._Gordon
+Richard Gordon (Independent)
+
+History: PRC Chair, SBMA Chair, DOT Secretary, Senator
+
+https://en.wikipedia.org/wiki/Richard_J._Gordon

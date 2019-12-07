@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:34:34+00:00
+date: 2016-04-18 19:34:34
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-TG Guingona (Liberal)\n\nHistory: Congressman (Bukidnon), Senator\n\nhttps://en.wikipedia.org/wiki/TG_Guingona
+TG Guingona (Liberal)
+
+History: Congressman (Bukidnon), Senator
+
+https://en.wikipedia.org/wiki/TG_Guingona

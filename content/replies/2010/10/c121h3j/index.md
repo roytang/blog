@@ -1,5 +1,5 @@
 ---
-date: 2010-10-12 00:00:00+00:00
+date: 2010-10-12 00:00:00
 reply_to:
   label: a comment by MelechRic on 'How To Estimate Software' on /r/programming
   name: ''
@@ -13,4 +13,6 @@ tags:
 - programming
 ---
 
-I wish I could bookmark posts on reddit, so that I could save this to respond to some future email about estimation.\n\nInstead, I'll just leave this here.
+I wish I could bookmark posts on reddit, so that I could save this to respond to some future email about estimation.
+
+Instead, I'll just leave this here.

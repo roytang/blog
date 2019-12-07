@@ -1,5 +1,5 @@
 ---
-date: 2013-07-08 00:00:00+00:00
+date: 2013-07-08 00:00:00
 reply_to:
   label: 'a comment by [deleted] on ''Rev3Game''s review of Civilization 5: Brave
     New World'' on /r/Games'
@@ -14,4 +14,6 @@ tags:
 - Games
 ---
 
-Already made the purchase, but I didn't get any credit so I guess neither did you. Sorry man, maybe I did it wrong or something.\n\nEdit: Thanks for the helpful post though! Have some upvotes instead :D
+Already made the purchase, but I didn't get any credit so I guess neither did you. Sorry man, maybe I did it wrong or something.
+
+Edit: Thanks for the helpful post though! Have some upvotes instead :D

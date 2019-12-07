@@ -1,5 +1,5 @@
 ---
-date: 2017-03-02 08:08:28+00:00
+date: 2017-03-02 08:08:28
 reply_to:
   label: '''My wife is a Duterte fanatic and she''s so emotional about it'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Ask her why she is so emotional about it. \n\nThe Jim Paredes thing was really stupid (although IDK if it's true that he's not a Filipino citizen). He shouldn't have fed the trolls
+Ask her why she is so emotional about it. 
+
+The Jim Paredes thing was really stupid (although IDK if it's true that he's not a Filipino citizen). He shouldn't have fed the trolls

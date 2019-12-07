@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:54:11+00:00
+date: 2016-04-18 19:54:11
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Diosdado Valeroso (Independent)\n\nHistory: Retired police supt.
+Diosdado Valeroso (Independent)
+
+History: Retired police supt.

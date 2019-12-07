@@ -1,5 +1,5 @@
 ---
-date: 2013-12-08 00:00:00+00:00
+date: 2013-12-08 00:00:00
 reply_to:
   label: '''PS4 Reddit Giveaway [details inside]'' on /r/PS4'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - PS4
 ---
 
-You'll even ship outside the US? :D\n\nWell, I guess we'll find out if/when I get lucky enough to win
+You'll even ship outside the US? :D
+
+Well, I guess we'll find out if/when I get lucky enough to win

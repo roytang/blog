@@ -1,5 +1,5 @@
 ---
-date: 2012-12-23 00:00:00+00:00
+date: 2012-12-23 00:00:00
 reply_to:
   label: '''IMA Former call center "Supervisor" for one of the largest software companies
     AMA'' on /r/IAmA'
@@ -14,4 +14,6 @@ tags:
 - IAmA
 ---
 
-Why is "Supervisor" in quotes?\n\nAny interesting tales of debauchery on the job?
+Why is "Supervisor" in quotes?
+
+Any interesting tales of debauchery on the job?

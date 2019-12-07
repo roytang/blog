@@ -1,5 +1,5 @@
 ---
-date: 2013-04-05 00:00:00+00:00
+date: 2013-04-05 00:00:00
 reply_to:
   label: '''Question about "Avenging Spider-Man"...'' on /r/comics'
   name: ''
@@ -14,4 +14,10 @@ tags:
 - '6'
 ---
 
-#6 is part of the Omega Effect crossover with the Daredevil and Punisher books\n\n#8 is an epilogue for the Ends of the Earth storyline from Amazing Spider-man\n\nThey are probably not included in Vol 2 because they are included with separate volumes for their own storylines. \n\nIt should be fine to miss them, but you might also be interested in reading the above two storylines.
+#6 is part of the Omega Effect crossover with the Daredevil and Punisher books
+
+#8 is an epilogue for the Ends of the Earth storyline from Amazing Spider-man
+
+They are probably not included in Vol 2 because they are included with separate volumes for their own storylines. 
+
+It should be fine to miss them, but you might also be interested in reading the above two storylines.

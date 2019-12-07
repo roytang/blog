@@ -1,5 +1,5 @@
 ---
-date: 2013-04-28 00:00:00+00:00
+date: 2013-04-28 00:00:00
 reply_to:
   label: '''[Steam] Free Game Under $8'' on /r/RandomActsOfGaming'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - RandomActsOfGaming
 ---
 
-574.\n\nI would like Hearthfire DLC for Skyrim :D
+574.
+
+I would like Hearthfire DLC for Skyrim :D

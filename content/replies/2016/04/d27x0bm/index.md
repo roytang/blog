@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:43:22+00:00
+date: 2016-04-18 19:43:22
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Walden Bello (Independent)\n\nHistory: Professor (UP Diliman), Anti-Marcos Activist, Party-List Representative (Akbayan)\n\nhttps://en.wikipedia.org/wiki/Walden_Bello
+Walden Bello (Independent)
+
+History: Professor (UP Diliman), Anti-Marcos Activist, Party-List Representative (Akbayan)
+
+https://en.wikipedia.org/wiki/Walden_Bello

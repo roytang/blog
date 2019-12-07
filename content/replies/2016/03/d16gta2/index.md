@@ -1,5 +1,5 @@
 ---
-date: 2016-03-20 05:25:27+00:00
+date: 2016-03-20 05:25:27
 reply_to:
   label: a comment by presidium on 'Finding die-hard supporters of politicians cringey'
     on /r/Philippines
@@ -14,4 +14,6 @@ tags:
 - Philippines
 ---
 
-I didn't say I wanted to spoil the ballot :p\n\nMore stuff about abstaining: http://www.businessmirror.com.ph/abstain4president2016/
+I didn't say I wanted to spoil the ballot :p
+
+More stuff about abstaining: http://www.businessmirror.com.ph/abstain4president2016/

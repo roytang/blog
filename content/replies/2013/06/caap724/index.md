@@ -1,5 +1,5 @@
 ---
-date: 2013-06-03 00:00:00+00:00
+date: 2013-06-03 00:00:00
 reply_to:
   label: '''ELI5:The difference between watt, joules, and amps.'' on /r/explainlikeimfive'
   name: ''
@@ -13,4 +13,10 @@ tags:
 - explainlikeimfive
 ---
 
-These are units for different things.\n\nAmps (amperes) are a unit of current which is the rate at which charge flows.\n\nJoules are a unit of work or energy.\n\nWatts are a unit of power which is the rate at which energy is generated or consumed.
+These are units for different things.
+
+Amps (amperes) are a unit of current which is the rate at which charge flows.
+
+Joules are a unit of work or energy.
+
+Watts are a unit of power which is the rate at which energy is generated or consumed.

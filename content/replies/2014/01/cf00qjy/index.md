@@ -1,5 +1,5 @@
 ---
-date: 2014-01-27 00:00:00+00:00
+date: 2014-01-27 00:00:00
 reply_to:
   label: '''Tell us about the first deck you made'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,4 @@ tags:
 - magicTCG
 ---
 
-Taigas, Kird Apes, Lightning Bolts, Channel and Fireball of course\n\n
+Taigas, Kird Apes, Lightning Bolts, Channel and Fireball of course

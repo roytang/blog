@@ -1,5 +1,5 @@
 ---
-date: 2013-09-08 00:00:00+00:00
+date: 2013-09-08 00:00:00
 reply_to:
   label: '''The Problem(s) with Scry Lands'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-> Many sets have had dual (or even triple) lands that enter the battlefield tapped or have some other tapping restriction--and these have never been rare.\n\nCelestial Colonnade cycle (Worldwake manlands) was rare
+> Many sets have had dual (or even triple) lands that enter the battlefield tapped or have some other tapping restriction--and these have never been rare.
+
+Celestial Colonnade cycle (Worldwake manlands) was rare

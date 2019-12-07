@@ -1,5 +1,5 @@
 ---
-date: 2016-05-31 13:17:24+00:00
+date: 2016-05-31 13:17:24
 reply_to:
   label: '''May 31st - A Cemetery'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Graveyard encounter: http://i.imgur.com/1spSng2.jpg\n\nPlaying around with Procreate a bit
+Graveyard encounter: http://i.imgur.com/1spSng2.jpg
+
+Playing around with Procreate a bit

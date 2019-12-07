@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:37:47+00:00
+date: 2016-04-18 19:37:47
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Aldin Ali (PMM)\n\nHistory: ??? (if anyone has info, I can edit it in)
+Aldin Ali (PMM)
+
+History: ??? (if anyone has info, I can edit it in)

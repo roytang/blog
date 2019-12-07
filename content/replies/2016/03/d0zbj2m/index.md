@@ -1,5 +1,5 @@
 ---
-date: 2016-03-14 00:00:00+00:00
+date: 2016-03-14 00:00:00
 reply_to:
   label: a comment by Avaris1982 on 'Let's have a level exchange! - March 12, 2016'
     on /r/MarioMaker
@@ -14,4 +14,6 @@ tags:
 - MarioMaker
 ---
 
-I uploaded a new version here: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982 if you still want to try it out.\n\nI've tried your level, it's fun and seems to be just the right amount of difficulty, although I had a bit more retries at the last room than I was happy with haha. Cleared and starred!
+I uploaded a new version here: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982 if you still want to try it out.
+
+I've tried your level, it's fun and seems to be just the right amount of difficulty, although I had a bit more retries at the last room than I was happy with haha. Cleared and starred!

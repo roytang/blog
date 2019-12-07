@@ -1,5 +1,5 @@
 ---
-date: 2011-04-16 00:00:00+00:00
+date: 2011-04-16 00:00:00
 reply_to:
   label: '''1 Copy of Portal 2 to give away, draw something creative!'' on /r/gaming'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - gaming
 ---
 
-Here you go:\nhttp://imgur.com/ITVSv\n\nJust something I randomly drew today :D
+Here you go:\nhttp://imgur.com/ITVSv
+
+Just something I randomly drew today :D

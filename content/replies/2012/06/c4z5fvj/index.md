@@ -1,5 +1,5 @@
 ---
-date: 2012-06-12 00:00:00+00:00
+date: 2012-06-12 00:00:00
 reply_to:
   label: '''Sharing psn purchase between two accounts'' on /r/PS3'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - PS3
 ---
 
-It should be tied to the PSN account that purchases it. You'd have to have the same account available on both systems in order to download the game. \n\nOnce you have downloaded the game to a system, any account on that system can play the game (as long as the original account used to download it is still on the system)
+It should be tied to the PSN account that purchases it. You'd have to have the same account available on both systems in order to download the game. 
+
+Once you have downloaded the game to a system, any account on that system can play the game (as long as the original account used to download it is still on the system)

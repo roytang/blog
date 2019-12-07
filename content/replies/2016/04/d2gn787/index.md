@@ -1,5 +1,5 @@
 ---
-date: 2016-04-25 15:45:59+00:00
+date: 2016-04-25 15:45:59
 reply_to:
   label: a comment by hungryroy on '2016 Senatorial Candidates Information Megathread'
     on /r/Philippines
@@ -14,4 +14,6 @@ tags:
 - Philippines
 ---
 
-UP Polsoc profile: https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/13015498_10154096869208374_3665080132849127612_n.jpg?oh=ddb4263f29b47c19e7812f4d3a603f19&oe=57749BEA\n\nhttp://i.imgur.com/QeDaJEU.jpg
+UP Polsoc profile: https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/13015498_10154096869208374_3665080132849127612_n.jpg?oh=ddb4263f29b47c19e7812f4d3a603f19&oe=57749BEA
+
+http://i.imgur.com/QeDaJEU.jpg

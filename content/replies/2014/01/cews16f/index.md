@@ -1,5 +1,5 @@
 ---
-date: 2014-01-23 00:00:00+00:00
+date: 2014-01-23 00:00:00
 reply_to:
   label: a comment by PunNotIntended on 'Moving to work in the Philippines' on /r/Philippines
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Sorry, I misread "a year of BSc Computer Science" =/\n\nFor a local without a degree, getting a job would be hard, I don't know how much that changes for foreigners.
+Sorry, I misread "a year of BSc Computer Science" =/
+
+For a local without a degree, getting a job would be hard, I don't know how much that changes for foreigners.

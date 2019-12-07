@@ -1,5 +1,5 @@
 ---
-date: 2012-12-11 00:00:00+00:00
+date: 2012-12-11 00:00:00
 reply_to:
   label: a comment by ubernostrum on 'Let's talk about triggers, part two' on /r/magicTCG
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-> If your opponent starts to declare blockers, and you interrupt and point out the trigger at that point, it's fine.\n\nSorry, but I'm unclear on this, isn't this what happened in Owen's case, except that there was something about Owen waiting a few seconds after the attack to declare blocks?
+> If your opponent starts to declare blockers, and you interrupt and point out the trigger at that point, it's fine.
+
+Sorry, but I'm unclear on this, isn't this what happened in Owen's case, except that there was something about Owen waiting a few seconds after the attack to declare blocks?

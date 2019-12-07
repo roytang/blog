@@ -1,5 +1,5 @@
 ---
-date: 2010-10-11 00:00:00+00:00
+date: 2010-10-11 00:00:00
 reply_to:
   label: a comment by [deleted] on 'What will people look back on in 100 years from
     now and find hysterical/shocking?' on /r/AskReddit
@@ -14,4 +14,6 @@ tags:
 - AskReddit
 ---
 
-> How we worked 40 hours per week for companies that don't share profits with employees.\n\nThis.
+> How we worked 40 hours per week for companies that don't share profits with employees.
+
+This.

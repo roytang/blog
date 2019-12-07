@@ -1,5 +1,5 @@
 ---
-date: 2016-06-21 13:10:05+00:00
+date: 2016-06-21 13:10:05
 reply_to:
   label: '''June 21st - Mollusks'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Kraken attack! http://i.imgur.com/xiV79Ck.jpg\n\nOr maybe just a giant octopus. Whatever
+Kraken attack! http://i.imgur.com/xiV79Ck.jpg
+
+Or maybe just a giant octopus. Whatever

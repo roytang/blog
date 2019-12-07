@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:34:52+00:00
+date: 2016-04-18 19:34:52
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Francis Pangilinan (Liberal)\n\nHistory: Councilor (QC), Senator\n\nhttps://en.wikipedia.org/wiki/Francis_Pangilinan
+Francis Pangilinan (Liberal)
+
+History: Councilor (QC), Senator
+
+https://en.wikipedia.org/wiki/Francis_Pangilinan

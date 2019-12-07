@@ -1,5 +1,5 @@
 ---
-date: 2016-05-02 17:34:03+00:00
+date: 2016-05-02 17:34:03
 reply_to:
   label: '''May 2nd - Hippies'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-The Hypnotic Specter: http://i.imgur.com/CcYpCu3.jpg Often referred to lovingly by old-school MTG players as "Hippie"\n\nOkay, maybe it's cheating a bit on the theme, but if you saw one of those IRL you might think you're on drugs! A stretch? Haha\n
+The Hypnotic Specter: http://i.imgur.com/CcYpCu3.jpg Often referred to lovingly by old-school MTG players as "Hippie"
+
+Okay, maybe it's cheating a bit on the theme, but if you saw one of those IRL you might think you're on drugs! A stretch? Haha\n

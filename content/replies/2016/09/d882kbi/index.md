@@ -1,5 +1,5 @@
 ---
-date: 2016-09-30 08:23:25+00:00
+date: 2016-09-30 08:23:25
 reply_to:
   label: '''September 30th - Free Draw Friday'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-You're getting some Philippine politics/current events again from me today, I apologize if that's not your thing :p\n\nhttp://imgur.com/g3MorHG
+You're getting some Philippine politics/current events again from me today, I apologize if that's not your thing :p
+
+http://imgur.com/g3MorHG

@@ -1,5 +1,5 @@
 ---
-date: 2013-07-04 00:00:00+00:00
+date: 2013-07-04 00:00:00
 reply_to:
   label: a comment by Ironicotine on 'X post from /r/playstationplus. EU vs. NA. How
     does /r/vita feel about this?' on /r/vita
@@ -14,4 +14,6 @@ tags:
 - vita
 ---
 
-As he mentioned:\n\n> Once you purchase them and they are in your download list, they remain free for as long as you are a + member.\n\n
+As he mentioned:
+
+> Once you purchase them and they are in your download list, they remain free for as long as you are a + member.

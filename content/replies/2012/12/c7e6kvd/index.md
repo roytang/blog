@@ -1,5 +1,5 @@
 ---
-date: 2012-12-10 00:00:00+00:00
+date: 2012-12-10 00:00:00
 reply_to:
   label: '''The end of Amazing Spider-Man, and the beginning of Superior Spider-Man''
     on /r/comicbooks'
@@ -14,4 +14,8 @@ tags:
 - comicbooks
 ---
 
-Marvel has said it won't be Peter Parker.\n\nIt's not a true reboot, continuity is still going to stand.\n\nNobody knows.
+Marvel has said it won't be Peter Parker.
+
+It's not a true reboot, continuity is still going to stand.
+
+Nobody knows.

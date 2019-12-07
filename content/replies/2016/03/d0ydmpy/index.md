@@ -1,5 +1,5 @@
 ---
-date: 2016-03-14 00:00:00+00:00
+date: 2016-03-14 00:00:00
 reply_to:
   label: '''March 13th - House of Cards'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-I have no idea how to make it look like Kevin Spacey: http://i.imgur.com/eVQNxYb.jpg\n\nI think it's the eyes. Eyes are tough.
+I have no idea how to make it look like Kevin Spacey: http://i.imgur.com/eVQNxYb.jpg
+
+I think it's the eyes. Eyes are tough.

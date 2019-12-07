@@ -1,5 +1,5 @@
 ---
-date: 2012-04-17 00:00:00+00:00
+date: 2012-04-17 00:00:00
 reply_to:
   label: 'a comment by xHassassin on ''Kickstarter abuse: $20k for a game made for
     free in RPG Maker'' on /r/gaming'
@@ -14,4 +14,6 @@ tags:
 - gaming
 ---
 
-> Truths, if you want to get into game design learn computer science and get a solid paying job at some software firm. You'll have enough code knowledge and free time to code games yourself and be set in terms of money.\n\nThe free time part above made me lol
+> Truths, if you want to get into game design learn computer science and get a solid paying job at some software firm. You'll have enough code knowledge and free time to code games yourself and be set in terms of money.
+
+The free time part above made me lol

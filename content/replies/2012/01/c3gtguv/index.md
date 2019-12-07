@@ -1,5 +1,5 @@
 ---
-date: 2012-01-14 00:00:00+00:00
+date: 2012-01-14 00:00:00
 reply_to:
   label: '''If this was printed, there would be some really interesting decks'' on
     /r/magicTCG'
@@ -14,4 +14,18 @@ tags:
 - magicTCG
 ---
 
-I would've gone with something like: \n\nGenetic Sliver \n\n[cost unknown] \n\nCreature - Sliver \n\nAs CARDNAME comes into play, choose a creature type.\n\nNonsliver creatures of the chosen type are slivers in addition to their normal types.\n\nSliver creatures are of the chosen type in addition to their normal types.\n\n[unknown P/T, probably 2/2]
+I would've gone with something like: 
+
+Genetic Sliver 
+
+[cost unknown] 
+
+Creature - Sliver 
+
+As CARDNAME comes into play, choose a creature type.
+
+Nonsliver creatures of the chosen type are slivers in addition to their normal types.
+
+Sliver creatures are of the chosen type in addition to their normal types.
+
+[unknown P/T, probably 2/2]

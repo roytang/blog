@@ -1,5 +1,5 @@
 ---
-date: 2015-03-29 00:00:00+00:00
+date: 2015-03-29 00:00:00
 reply_to:
   label: '''[Serious] reddit, I have aspergers (Autsim) Is it wrong to become really
     anger when people make fun me ?'' on /r/AskReddit'
@@ -14,4 +14,8 @@ tags:
 - AskReddit
 ---
 
-It's not wrong to be angry; those people are assholes.\n\nHowever, it is quite useless. Try not to let other people get to you. If these are people you know, let them know it's not okay. If these are people you can avoid, do so. \n\nLife is too short to be upset at assholes
+It's not wrong to be angry; those people are assholes.
+
+However, it is quite useless. Try not to let other people get to you. If these are people you know, let them know it's not okay. If these are people you can avoid, do so. 
+
+Life is too short to be upset at assholes

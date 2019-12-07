@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:38:52+00:00
+date: 2016-04-18 19:38:52
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Isko Moreno (PMP) - Domagoso, Isko on the ballot\n\nHistory: Actor, Councilor, Vice Mayor (Manila)\n\nhttps://en.wikipedia.org/wiki/Isko_Moreno
+Isko Moreno (PMP) - Domagoso, Isko on the ballot
+
+History: Actor, Councilor, Vice Mayor (Manila)
+
+https://en.wikipedia.org/wiki/Isko_Moreno

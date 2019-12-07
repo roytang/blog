@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 06:14:12+00:00
+date: 2016-04-18 06:14:12
 reply_to:
   label: a comment by [deleted] on 'SFV - RYU Meaty Set ups off EVERYTHING' on /r/StreetFighter
   name: ''
@@ -13,4 +13,6 @@ tags:
 - StreetFighter
 ---
 
-I tick throw, but I've never thought of faking it lol\n\nThanks for the help/advice!
+I tick throw, but I've never thought of faking it lol
+
+Thanks for the help/advice!

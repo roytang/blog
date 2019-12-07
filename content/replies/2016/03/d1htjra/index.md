@@ -1,5 +1,5 @@
 ---
-date: 2016-03-29 16:15:33+00:00
+date: 2016-03-29 16:15:33
 reply_to:
   label: '''March 29th - Marie Antoinette'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Sorry, not following the theme today!\n\nA friend requested a drawing of another friend as a superhero: http://i.imgur.com/eFn6glz.jpg
+Sorry, not following the theme today!
+
+A friend requested a drawing of another friend as a superhero: http://i.imgur.com/eFn6glz.jpg

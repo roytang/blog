@@ -1,5 +1,5 @@
 ---
-date: 2013-11-16 00:00:00+00:00
+date: 2013-11-16 00:00:00
 reply_to:
   label: '''PS4 remote play from 10 miles away on LTE.'' on /r/vita'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - vita
 ---
 
-Does the PS4 at home need to be on? Or the Vita can wake it up from standby? \n\nWill it work even if someone else is using the PS4?
+Does the PS4 at home need to be on? Or the Vita can wake it up from standby? 
+
+Will it work even if someone else is using the PS4?

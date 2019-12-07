@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:47:33+00:00
+date: 2016-04-18 19:47:33
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Cresente Paez (Independent)\n\nHistory: Party-List Representative (Coop-NATCCO)\n\nhttps://en.wikipedia.org/wiki/Coop-NATCCO
+Cresente Paez (Independent)
+
+History: Party-List Representative (Coop-NATCCO)
+
+https://en.wikipedia.org/wiki/Coop-NATCCO

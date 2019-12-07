@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:38:06+00:00
+date: 2016-04-18 19:38:06
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Melchor Chavez (PMM)\n\nHistory: Journalist\n\nhttps://en.wikipedia.org/wiki/Melchor_Chavez
+Melchor Chavez (PMM)
+
+History: Journalist
+
+https://en.wikipedia.org/wiki/Melchor_Chavez

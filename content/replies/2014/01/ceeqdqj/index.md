@@ -1,5 +1,5 @@
 ---
-date: 2014-01-01 00:00:00+00:00
+date: 2014-01-01 00:00:00
 reply_to:
   label: '''I made a $20 Standard deck (including sideboard) that doesn''t suck. 5-0
     @ FNM'' on /r/magicTCG'
@@ -14,4 +14,6 @@ tags:
 - magicTCG
 ---
 
-Don't you dare. Don't you dare tempt me into putting this together on MTGO and trying it out in a daily and promptly losing a bunch of money\n\nEdit: Launching the client now
+Don't you dare. Don't you dare tempt me into putting this together on MTGO and trying it out in a daily and promptly losing a bunch of money
+
+Edit: Launching the client now

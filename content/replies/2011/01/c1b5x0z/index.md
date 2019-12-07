@@ -1,5 +1,5 @@
 ---
-date: 2011-01-03 00:00:00+00:00
+date: 2011-01-03 00:00:00
 reply_to:
   label: '''Steam Holiday Sale Day 14 (Final): Neverwinter Nights 2, Hitman, L4D2,
     Plants vs Zombies, Killing Floor, Amnesia, NFS Hot Pursuit, Dead Space, more''
@@ -15,4 +15,6 @@ tags:
 - gaming
 ---
 
-Grotesque Tactics is the daily indie sale today:\nhttp://store.steampowered.com/app/46450/\n\nAny feedback on this game?
+Grotesque Tactics is the daily indie sale today:\nhttp://store.steampowered.com/app/46450/
+
+Any feedback on this game?

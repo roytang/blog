@@ -1,5 +1,5 @@
 ---
-date: 2012-11-08 00:00:00+00:00
+date: 2012-11-08 00:00:00
 reply_to:
   label: '''MRT During Rush Hour'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-It's actually worse during mornings at North EDSA, since the mass of people there trying to get into the station reaches all the way to the ground level at EDSA itself, sometimes extending maybe a quarter of a kilometer on either side (thankfully, the cops keep them on the sidewalk and don't let them spill out onto the road itself anymore)\n\nNo one likes riding the MRT, far too overcrowded. I support raising the fares because (a) I don't want to subsidize this shit and (b) hopefully we either get more trains or less people riding due to higher fares (kinda antipoor I know, but there you go)
+It's actually worse during mornings at North EDSA, since the mass of people there trying to get into the station reaches all the way to the ground level at EDSA itself, sometimes extending maybe a quarter of a kilometer on either side (thankfully, the cops keep them on the sidewalk and don't let them spill out onto the road itself anymore)
+
+No one likes riding the MRT, far too overcrowded. I support raising the fares because (a) I don't want to subsidize this shit and (b) hopefully we either get more trains or less people riding due to higher fares (kinda antipoor I know, but there you go)

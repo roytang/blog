@@ -1,5 +1,5 @@
 ---
-date: 2013-06-11 00:00:00+00:00
+date: 2013-06-11 00:00:00
 reply_to:
   label: '''Sony''s E3 isn''t on Spike TV, and I can''t find where/when to watch it
     online.'' on /r/answers'
@@ -14,4 +14,8 @@ tags:
 - answers
 ---
 
-http://www.ustream.tv/channel/playstation-live---english-2\nhttp://blog.us.playstation.com\n\nI think Spike TV announced earlier that they would be Microsoft exclusive for E3 (I hear "they paid us some monies")\n\nAlso, there's /r/Games, /r/ps3 subs that you can join for the sony news.
+http://www.ustream.tv/channel/playstation-live---english-2\nhttp://blog.us.playstation.com
+
+I think Spike TV announced earlier that they would be Microsoft exclusive for E3 (I hear "they paid us some monies")
+
+Also, there's /r/Games, /r/ps3 subs that you can join for the sony news.

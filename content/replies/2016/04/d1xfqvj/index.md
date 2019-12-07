@@ -1,5 +1,5 @@
 ---
-date: 2016-04-10 17:15:03+00:00
+date: 2016-04-10 17:15:03
 reply_to:
   label: '''April 10th - Drapery'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Pit (from Kid Icarus): http://i.imgur.com/FVYPLSY.jpg\n\n(His clothes have a lot of folds, right?)
+Pit (from Kid Icarus): http://i.imgur.com/FVYPLSY.jpg
+
+(His clothes have a lot of folds, right?)

@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:36:38+00:00
+date: 2016-04-18 19:36:38
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Susan Ople (Nacionalista)\n\nHistory: Chief of Staff of former Senator/DFA sec Blas Ople, DOLE USec\n\nhttps://en.wikipedia.org/wiki/Susan_Ople
+Susan Ople (Nacionalista)
+
+History: Chief of Staff of former Senator/DFA sec Blas Ople, DOLE USec
+
+https://en.wikipedia.org/wiki/Susan_Ople

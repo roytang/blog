@@ -1,5 +1,5 @@
 ---
-date: 2013-05-01 00:00:00+00:00
+date: 2013-05-01 00:00:00
 reply_to:
   label: a comment by SiriusC on '(Was told to ask here in /r/PS3) A question about
     Plus and free games' on /r/PlayStationPlus
@@ -14,4 +14,8 @@ tags:
 - PlayStationPlus
 ---
 
-It's actually right there on the sidebar.\n\n> Do I keep everything if I cancel?\nNo, you keep some things and get the rest back when you renew.\n\n> You lose access to (until renewal):\nFree games (PS3, PS Vita, PSP, PS One, Minis)
+It's actually right there on the sidebar.
+
+> Do I keep everything if I cancel?\nNo, you keep some things and get the rest back when you renew.
+
+> You lose access to (until renewal):\nFree games (PS3, PS Vita, PSP, PS One, Minis)

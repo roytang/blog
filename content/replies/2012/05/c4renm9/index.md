@@ -1,5 +1,5 @@
 ---
-date: 2012-05-23 00:00:00+00:00
+date: 2012-05-23 00:00:00
 reply_to:
   label: a comment by [deleted] on 'Quick question about declaring blockers and attackers.'
     on /r/magicTCG
@@ -14,4 +14,6 @@ tags:
 - magicTCG
 ---
 
-If he plays the Death Wind after blockers are assigned, you do not take damage. Blocked creatures remain blocked even if the blocker is removed. \n\nIn order to deal damage to you, he would have to Death Wind before you block.
+If he plays the Death Wind after blockers are assigned, you do not take damage. Blocked creatures remain blocked even if the blocker is removed. 
+
+In order to deal damage to you, he would have to Death Wind before you block.

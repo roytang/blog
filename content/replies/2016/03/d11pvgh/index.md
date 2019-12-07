@@ -1,5 +1,5 @@
 ---
-date: 2016-03-16 00:00:00+00:00
+date: 2016-03-16 00:00:00
 reply_to:
   label: '''Want a video of your level? I can help! Round 2'' on /r/MarioMaker'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - MarioMaker
 ---
 
-Title: Spoony Castle\nBookmark: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982\n\nThere are two branching paths. Also, there's mushrooms hidden in invisible blocks in a few places to help you along the way\n
+Title: Spoony Castle\nBookmark: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982
+
+There are two branching paths. Also, there's mushrooms hidden in invisible blocks in a few places to help you along the way\n

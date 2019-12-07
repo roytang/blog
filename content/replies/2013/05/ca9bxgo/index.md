@@ -1,5 +1,5 @@
 ---
-date: 2013-05-31 00:00:00+00:00
+date: 2013-05-31 00:00:00
 reply_to:
   label: '''Cavern of Souls heavily misinterpreted by idiot friend.'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,14 @@ tags:
 - magicTCG
 ---
 
-Spend (this mana only) to cast a creature spell of the chosen type\n\nvs\n\nSpend this mana (only to cast a creature spell of the chosen type)\n\nI can see where the parsing might have been misunderstandable.\n\nAnyway, just show him this thread. Or ask a judge. Or show him some youtube videos on MTGO/pro level play of how it's used.\n\nOp's friend: Your interpretation is wrong, sorry!
+Spend (this mana only) to cast a creature spell of the chosen type
+
+vs
+
+Spend this mana (only to cast a creature spell of the chosen type)
+
+I can see where the parsing might have been misunderstandable.
+
+Anyway, just show him this thread. Or ask a judge. Or show him some youtube videos on MTGO/pro level play of how it's used.
+
+Op's friend: Your interpretation is wrong, sorry!

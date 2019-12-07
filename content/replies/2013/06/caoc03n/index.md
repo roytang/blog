@@ -1,5 +1,5 @@
 ---
-date: 2013-06-23 00:00:00+00:00
+date: 2013-06-23 00:00:00
 reply_to:
   label: a comment by Toiletpaperqueen on 'Playstation plus on ps3 and ps4.' on /r/PS3
   name: ''
@@ -13,4 +13,6 @@ tags:
 - PS3
 ---
 
-> So Sony will stop with the Instant Game Collection when Ps4 is released?\n\nUm, no, where did you get that. New games are added to the IGC regularly. Once the PS4 is releaed, the IGC will include PS4, PS3 and PS Vita games.
+> So Sony will stop with the Instant Game Collection when Ps4 is released?
+
+Um, no, where did you get that. New games are added to the IGC regularly. Once the PS4 is releaed, the IGC will include PS4, PS3 and PS Vita games.

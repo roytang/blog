@@ -1,5 +1,5 @@
 ---
-date: 2013-03-31 00:00:00+00:00
+date: 2013-03-31 00:00:00
 reply_to:
   label: 'a comment by okaylogarithm on ''Preview for Superior Spidey #7, How long
     till Peter comes back?'' on /r/comicbooks'
@@ -14,4 +14,6 @@ tags:
 - comicbooks
 ---
 
-From the article: "And a new development for a Spider-Man who hasn’t been seen for some time. And by time, we mean centuries. "\n\nDan Slott has already said before that Miguel will be appearing in SSM: http://www.comicsalliance.com/2013/01/09/spider-man-2099-superior-dan-slott-video/
+From the article: "And a new development for a Spider-Man who hasn’t been seen for some time. And by time, we mean centuries. "
+
+Dan Slott has already said before that Miguel will be appearing in SSM: http://www.comicsalliance.com/2013/01/09/spider-man-2099-superior-dan-slott-video/

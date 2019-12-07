@@ -1,5 +1,5 @@
 ---
-date: 2014-08-28 00:00:00+00:00
+date: 2014-08-28 00:00:00
 reply_to:
   label: '''What do you not get the appeal of?'' on /r/AskReddit'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - AskReddit
 ---
 
-Cats.\n\n(Don't kill me reddit!)
+Cats.
+
+(Don't kill me reddit!)

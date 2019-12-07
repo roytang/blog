@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:40:27+00:00
+date: 2016-04-18 19:40:27
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Getulio Napenas (UNA)\n\nHistory: SAF Commander\n\nhttps://en.wikipedia.org/wiki/Getulio_Nape%C3%B1as
+Getulio Napenas (UNA)
+
+History: SAF Commander
+
+https://en.wikipedia.org/wiki/Getulio_Nape%C3%B1as

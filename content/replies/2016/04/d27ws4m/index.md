@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:38:25+00:00
+date: 2016-04-18 19:38:25
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Sandra Cam (PMP)\n\nHistory: Jueteng whistleblower
+Sandra Cam (PMP)
+
+History: Jueteng whistleblower

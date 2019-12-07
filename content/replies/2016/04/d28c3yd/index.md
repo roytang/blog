@@ -1,5 +1,5 @@
 ---
-date: 2016-04-19 01:45:46+00:00
+date: 2016-04-19 01:45:46
 reply_to:
   label: a comment by hungryroy on '2016 Senatorial Candidates Information Megathread'
     on /r/Philippines
@@ -14,4 +14,6 @@ tags:
 - Philippines
 ---
 
-Recent controversies:\n\n- opposed the RH bill\n- plagiarized a speech \n- Sotto is one of the two senators who have inserted provision on libel under the Cybercrime Prevention Act of 2012 or Anti-Cybercrime Law
+Recent controversies:
+
+- opposed the RH bill\n- plagiarized a speech \n- Sotto is one of the two senators who have inserted provision on libel under the Cybercrime Prevention Act of 2012 or Anti-Cybercrime Law

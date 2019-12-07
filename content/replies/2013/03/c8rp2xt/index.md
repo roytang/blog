@@ -1,5 +1,5 @@
 ---
-date: 2013-03-08 00:00:00+00:00
+date: 2013-03-08 00:00:00
 reply_to:
   label: '''Tactics Ogre or We Stand Together?'' on /r/vita'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - vita
 ---
 
-What is "We Stand Together"?\n\nTactics Ogre: Let Us Cling Together is easily best-in-class for the genre so you can ho ahead and get this without regret.
+What is "We Stand Together"?
+
+Tactics Ogre: Let Us Cling Together is easily best-in-class for the genre so you can ho ahead and get this without regret.

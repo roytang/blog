@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:48:54+00:00
+date: 2016-04-18 19:48:54
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Samuel Pagdilao (Independent)\n\nHistory: Police Director PNP CIDG, Party-List Representative (ACT-CIS)\n\nhttps://en.wikipedia.org/wiki/Samuel_Pagdilao
+Samuel Pagdilao (Independent)
+
+History: Police Director PNP CIDG, Party-List Representative (ACT-CIS)
+
+https://en.wikipedia.org/wiki/Samuel_Pagdilao

@@ -1,5 +1,5 @@
 ---
-date: 2016-03-24 16:37:57+00:00
+date: 2016-03-24 16:37:57
 reply_to:
   label: '''March 24th - Watercolors'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Sushi Go! http://i.imgur.com/FQdgF0t.jpg\n\n(Note: Anthropomorphized food is weird and slightly unsettling)
+Sushi Go! http://i.imgur.com/FQdgF0t.jpg
+
+(Note: Anthropomorphized food is weird and slightly unsettling)

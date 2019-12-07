@@ -1,5 +1,5 @@
 ---
-date: 2016-06-14 08:01:17+00:00
+date: 2016-06-14 08:01:17
 reply_to:
   label: '''June 14th - Penguins'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Penguins! Wait, what? http://i.imgur.com/Nrn5CAH.jpg\n\n...I might have had a bit too much fun with this one
+Penguins! Wait, what? http://i.imgur.com/Nrn5CAH.jpg
+
+...I might have had a bit too much fun with this one

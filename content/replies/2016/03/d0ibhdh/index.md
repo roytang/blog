@@ -1,5 +1,5 @@
 ---
-date: 2016-03-01 00:00:00+00:00
+date: 2016-03-01 00:00:00
 reply_to:
   label: '''February 29th - Karaoke'' on /r/SketchDaily'
   name: ''
@@ -14,4 +14,8 @@ tags:
 - '1'
 ---
 
-Out of theme again today.\n\nGoddess of Thunder: http://i.imgur.com/7i0H9Nj.jpg (from Thor (2014) #1)\n\nI'm happy with how this turned out. I wish I had a better way to upload the drawings than taking pictures of them with my phone :p
+Out of theme again today.
+
+Goddess of Thunder: http://i.imgur.com/7i0H9Nj.jpg (from Thor (2014) #1)
+
+I'm happy with how this turned out. I wish I had a better way to upload the drawings than taking pictures of them with my phone :p

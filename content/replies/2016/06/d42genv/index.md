@@ -1,5 +1,5 @@
 ---
-date: 2016-06-09 16:26:36+00:00
+date: 2016-06-09 16:26:36
 reply_to:
   label: '''June 9th - Trilogy'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Mr Jones: http://i.imgur.com/8dnYKrn.jpg\n\nEdit: Reference - https://tytempletonart.wordpress.com/2012/03/14/convention-sketches-i-dont-hate/
+Mr Jones: http://i.imgur.com/8dnYKrn.jpg
+
+Edit: Reference - https://tytempletonart.wordpress.com/2012/03/14/convention-sketches-i-dont-hate/

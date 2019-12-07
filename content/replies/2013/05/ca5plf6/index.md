@@ -1,5 +1,5 @@
 ---
-date: 2013-05-25 00:00:00+00:00
+date: 2013-05-25 00:00:00
 reply_to:
   label: '''Marvel Comics Recommendations'' on /r/comicbooks'
   name: ''
@@ -14,4 +14,10 @@ tags:
 - '1'
 ---
 
-Thor: GOT is very good.\n\nCable and X-force is a bit meh. Uncanny X-Force is better IMHO\n\nLook into X-Men #1 coming out this week.\n\nConsider: Daredevil, Captain Marvel, Young Avengers
+Thor: GOT is very good.
+
+Cable and X-force is a bit meh. Uncanny X-Force is better IMHO
+
+Look into X-Men #1 coming out this week.
+
+Consider: Daredevil, Captain Marvel, Young Avengers

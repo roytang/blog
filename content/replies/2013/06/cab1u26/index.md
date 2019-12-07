@@ -1,5 +1,5 @@
 ---
-date: 2013-06-03 00:00:00+00:00
+date: 2013-06-03 00:00:00
 reply_to:
   label: a comment by hermit_the_frog on 'ELI5:The difference between watt, joules,
     and amps.' on /r/explainlikeimfive
@@ -14,4 +14,6 @@ tags:
 - explainlikeimfive
 ---
 
-When I say "this wire has 2 amperes", I just mean that if you measured the current in the wire at that time, it would be 2 amperes.\n\nI'm not sure if wires are rated that way. (They probably are for safety purposes)
+When I say "this wire has 2 amperes", I just mean that if you measured the current in the wire at that time, it would be 2 amperes.
+
+I'm not sure if wires are rated that way. (They probably are for safety purposes)

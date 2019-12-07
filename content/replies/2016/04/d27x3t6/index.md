@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:45:32+00:00
+date: 2016-04-18 19:45:32
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Edu Manzano (Independent)\n\nHistory: Actor, Vice Mayor (Makati), OMB Chair\n\nhttps://en.wikipedia.org/wiki/Edu_Manzano
+Edu Manzano (Independent)
+
+History: Actor, Vice Mayor (Makati), OMB Chair
+
+https://en.wikipedia.org/wiki/Edu_Manzano

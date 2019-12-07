@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:51:17+00:00
+date: 2016-04-18 19:51:17
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Roman Romulo (Independent)\n\nHistory: Congressman (Pasig City)\n\n
+Roman Romulo (Independent)
+
+History: Congressman (Pasig City)

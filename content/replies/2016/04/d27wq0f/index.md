@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:37:09+00:00
+date: 2016-04-18 19:37:09
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Sherwin Gatchalian (NPC)\n\nHistory: Congressman, Mayor (Valenzuela City)\n\nhttps://en.wikipedia.org/wiki/Sherwin_Gatchalian
+Sherwin Gatchalian (NPC)
+
+History: Congressman, Mayor (Valenzuela City)
+
+https://en.wikipedia.org/wiki/Sherwin_Gatchalian

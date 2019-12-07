@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:32:13+00:00
+date: 2016-04-18 19:32:13
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Martin Romualdez (Lakas)\n\nHistory: Congressman, Leyte 1st District\n\nhttps://en.wikipedia.org/wiki/Martin_Romualdez
+Martin Romualdez (Lakas)
+
+History: Congressman, Leyte 1st District
+
+https://en.wikipedia.org/wiki/Martin_Romualdez

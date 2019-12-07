@@ -1,5 +1,5 @@
 ---
-date: 2016-06-05 23:42:42+00:00
+date: 2016-06-05 23:42:42
 reply_to:
   label: '''June 5th - India'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Street Fighter V's Dhalsim: http://i.imgur.com/kDNWyTf.jpg\n\nHe's from India!
+Street Fighter V's Dhalsim: http://i.imgur.com/kDNWyTf.jpg
+
+He's from India!

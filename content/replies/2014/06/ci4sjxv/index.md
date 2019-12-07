@@ -1,5 +1,5 @@
 ---
-date: 2014-06-11 00:00:00+00:00
+date: 2014-06-11 00:00:00
 reply_to:
   label: '''R.I.P.'' on /r/vita'
   name: ''
@@ -13,4 +13,10 @@ tags:
 - vita
 ---
 
-I dunno about you guys, but I reckon I'll still be using my Vita at least a year or two from now.\n\nI still have a decent Vita backlog...and I'm still looking forward to Tales of Hearts R and probably Freedom Wars. \n\nThat's not even counting the additional playtime it's going to get when I get a PS4\n\nEdit: And also Gravity Rush 2! And Disgaea 4 (best on handheld~)!
+I dunno about you guys, but I reckon I'll still be using my Vita at least a year or two from now.
+
+I still have a decent Vita backlog...and I'm still looking forward to Tales of Hearts R and probably Freedom Wars. 
+
+That's not even counting the additional playtime it's going to get when I get a PS4
+
+Edit: And also Gravity Rush 2! And Disgaea 4 (best on handheld~)!

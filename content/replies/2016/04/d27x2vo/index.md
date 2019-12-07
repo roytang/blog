@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:44:57+00:00
+date: 2016-04-18 19:44:57
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Panfilo Lacson (Independent)\n\nHistory: PNP Director-General, Senator\n\nhttps://en.wikipedia.org/wiki/Panfilo_Lacson
+Panfilo Lacson (Independent)
+
+History: PNP Director-General, Senator
+
+https://en.wikipedia.org/wiki/Panfilo_Lacson

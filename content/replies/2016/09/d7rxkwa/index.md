@@ -1,5 +1,5 @@
 ---
-date: 2016-09-18 16:54:19+00:00
+date: 2016-09-18 16:54:19
 reply_to:
   label: 'a comment by eyeclaudius on ''This is canon. and it''s hilarious. [Fantastic
     Four #497]'' on /r/comicbooks'
@@ -14,4 +14,6 @@ tags:
 - comicbooks
 ---
 
-He will be an Iron Man (Infamous Iron Man) later this year http://screenrant.com/marvel-comics-infamous-iron-man-doctor-doom/ after Civil War II\n\n(There will be another Iron Man as well, a black teenage girl. Who knows what happens to Tony Stark)
+He will be an Iron Man (Infamous Iron Man) later this year http://screenrant.com/marvel-comics-infamous-iron-man-doctor-doom/ after Civil War II
+
+(There will be another Iron Man as well, a black teenage girl. Who knows what happens to Tony Stark)

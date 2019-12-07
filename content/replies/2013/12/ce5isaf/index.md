@@ -1,5 +1,5 @@
 ---
-date: 2013-12-19 00:00:00+00:00
+date: 2013-12-19 00:00:00
 reply_to:
   label: '''Hey Steam people! I just downloaded Steam for the first time, Not a whole
     lot of money, what titles should I pick up?'' on /r/Steam'
@@ -14,4 +14,6 @@ tags:
 - Steam
 ---
 
-There are a bunch of free to play MMOs. Off the top of my head: Neverwinter, DCUO, War Thunder, Marvel Heroes, etc (I'm not vouching for which ones are good)\n\nHere's a listing of free-to-play games, there's a lot: http://store.steampowered.com/genre/Free%20to%20Play/
+There are a bunch of free to play MMOs. Off the top of my head: Neverwinter, DCUO, War Thunder, Marvel Heroes, etc (I'm not vouching for which ones are good)
+
+Here's a listing of free-to-play games, there's a lot: http://store.steampowered.com/genre/Free%20to%20Play/

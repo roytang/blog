@@ -1,5 +1,5 @@
 ---
-date: 2016-04-19 01:40:09+00:00
+date: 2016-04-19 01:40:09
 reply_to:
   label: a comment by hungryroy on '2016 Senatorial Candidates Information Megathread'
     on /r/Philippines
@@ -14,4 +14,8 @@ tags:
 - Philippines
 ---
 
-Someone PM'd me this:\n\n"He's the author of Airline Passenger's Rights Bill. It requires airlines to provide free food for 2-hr flight delay and free phone or internet and hotel for cancelled flights."\n\nColmenares is more recently well-known for pushing for the SSS pension increase which was vetoed by the president.\n
+Someone PM'd me this:
+
+"He's the author of Airline Passenger's Rights Bill. It requires airlines to provide free food for 2-hr flight delay and free phone or internet and hotel for cancelled flights."
+
+Colmenares is more recently well-known for pushing for the SSS pension increase which was vetoed by the president.\n

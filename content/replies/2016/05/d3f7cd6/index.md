@@ -1,5 +1,5 @@
 ---
-date: 2016-05-22 14:39:19+00:00
+date: 2016-05-22 14:39:19
 reply_to:
   label: '''May 22nd - Bobcats'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Bobcat: http://i.imgur.com/KY6jaJ0.jpg\n\nThat was fun!
+Bobcat: http://i.imgur.com/KY6jaJ0.jpg
+
+That was fun!

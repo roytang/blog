@@ -1,5 +1,5 @@
 ---
-date: 2013-08-30 00:00:00+00:00
+date: 2013-08-30 00:00:00
 reply_to:
   label: '''The Dimension Z Saga is Over (SPOILERS)'' on /r/comicbooks'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - comicbooks
 ---
 
-I enjoyed this arc, despite JRJR's terrrible artwork. That being said, it seems we're getting Carlos Pacheco starting next issue, looking forward to that.\n\nSo, Ian was real after all right? Sharon was just mistaken when she said Zola was messing with Cap's head
+I enjoyed this arc, despite JRJR's terrrible artwork. That being said, it seems we're getting Carlos Pacheco starting next issue, looking forward to that.
+
+So, Ian was real after all right? Sharon was just mistaken when she said Zola was messing with Cap's head

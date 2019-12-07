@@ -1,5 +1,5 @@
 ---
-date: 2014-05-01 00:00:00+00:00
+date: 2014-05-01 00:00:00
 reply_to:
   label: '''FTV: Annihilation Card List'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-If this is the actual list, then it's terrible.\n\nThen again, I don't know what I was expecting.
+If this is the actual list, then it's terrible.
+
+Then again, I don't know what I was expecting.

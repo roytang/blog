@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:35:45+00:00
+date: 2016-04-18 19:35:45
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Joel Villanueva (Liberal)\n\nHistory: Party-List Representative (CIBAC), TESDA Director General\n\nhttps://en.wikipedia.org/wiki/Joel_Villanueva
+Joel Villanueva (Liberal)
+
+History: Party-List Representative (CIBAC), TESDA Director General
+
+https://en.wikipedia.org/wiki/Joel_Villanueva

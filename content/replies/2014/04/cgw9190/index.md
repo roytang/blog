@@ -1,5 +1,5 @@
 ---
-date: 2014-04-19 00:00:00+00:00
+date: 2014-04-19 00:00:00
 reply_to:
   label: '''Random daily discussion thread - 04/19/14'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Which of the following should I binge-watch today? \n\n- True Detective season 1\n- Suits season 3 part 2\n- Parks and Recreation season 1\n- Stein's Gate
+Which of the following should I binge-watch today? 
+
+- True Detective season 1\n- Suits season 3 part 2\n- Parks and Recreation season 1\n- Stein's Gate

@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:31:09+00:00
+date: 2016-04-18 19:31:09
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Mark Lapid (Aksyon)\n\nHistory: Actor, Pampanga Governor, TIEZA general manager\n\nhttps://en.wikipedia.org/wiki/Mark_Lapid
+Mark Lapid (Aksyon)
+
+History: Actor, Pampanga Governor, TIEZA general manager
+
+https://en.wikipedia.org/wiki/Mark_Lapid

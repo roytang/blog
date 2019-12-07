@@ -1,5 +1,5 @@
 ---
-date: 2016-02-21 00:00:00+00:00
+date: 2016-02-21 00:00:00
 reply_to:
   label: '''February 21st - Share Your Process'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Here's my attempt (I don't have the process thing), just a quick 10-minute sketch: http://i.imgur.com/SxRILdn.jpg\n\nIDK how to make her look more like the real deal =/
+Here's my attempt (I don't have the process thing), just a quick 10-minute sketch: http://i.imgur.com/SxRILdn.jpg
+
+IDK how to make her look more like the real deal =/

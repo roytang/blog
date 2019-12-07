@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:31:23+00:00
+date: 2016-04-18 19:31:23
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Larry Gadon (KBL)\n\nHistory: Lawyer
+Larry Gadon (KBL)
+
+History: Lawyer

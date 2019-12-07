@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:34:13+00:00
+date: 2016-04-18 19:34:13
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Franklin Drilon (Liberal)\n\nHistory: DOJ Secretary, DOLE Secretary, Senate President, LP Chairman\n\nhttps://en.wikipedia.org/wiki/Franklin_Drilon
+Franklin Drilon (Liberal)
+
+History: DOJ Secretary, DOLE Secretary, Senate President, LP Chairman
+
+https://en.wikipedia.org/wiki/Franklin_Drilon

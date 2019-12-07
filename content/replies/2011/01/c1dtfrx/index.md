@@ -1,5 +1,5 @@
 ---
-date: 2011-01-23 00:00:00+00:00
+date: 2011-01-23 00:00:00
 reply_to:
   label: '''Need help with planeswalker loyalty rules'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-If the damage is prevented, it can't be redirected.\n\nYou can target a planeswalker as long as your spell says "target planeswalker" or maybe "target permanent". Lightning bolt can only target creatures or players.
+If the damage is prevented, it can't be redirected.
+
+You can target a planeswalker as long as your spell says "target planeswalker" or maybe "target permanent". Lightning bolt can only target creatures or players.

@@ -1,5 +1,5 @@
 ---
-date: 2012-03-21 00:00:00+00:00
+date: 2012-03-21 00:00:00
 reply_to:
   label: '''Magic Celebration Steam Code'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-I will take it, happily! :D\n\nMy steamid is hungryroy. Cheers :D
+I will take it, happily! :D
+
+My steamid is hungryroy. Cheers :D

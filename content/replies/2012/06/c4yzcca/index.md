@@ -1,5 +1,5 @@
 ---
-date: 2012-06-11 00:00:00+00:00
+date: 2012-06-11 00:00:00
 reply_to:
   label: '''[M13] Magic 2013 spoilers for June 11th'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - magicTCG
 ---
 
-If you have two sublime archangels, they grant each other an extra instance of exalted, i.e. the lone attacker gets +4/+4\n\nWith three, it's +9/+9, with four it's +16/+16\n\nThis is a standard of clones (Phantasmal Image/Phyrexian Metamorph). Sounds fun :D
+If you have two sublime archangels, they grant each other an extra instance of exalted, i.e. the lone attacker gets +4/+4
+
+With three, it's +9/+9, with four it's +16/+16
+
+This is a standard of clones (Phantasmal Image/Phyrexian Metamorph). Sounds fun :D

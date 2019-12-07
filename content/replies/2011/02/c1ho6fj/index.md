@@ -1,5 +1,5 @@
 ---
-date: 2011-02-21 00:00:00+00:00
+date: 2011-02-21 00:00:00
 reply_to:
   label: '''Back to the Future Ep. 1 Available for Free Right Now'' on /r/gaming'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - gaming
 ---
 
-After registering, they sent me my password in plaintext via email =/\n\nOh well, free game is free!
+After registering, they sent me my password in plaintext via email =/
+
+Oh well, free game is free!

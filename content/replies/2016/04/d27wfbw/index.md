@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:30:40+00:00
+date: 2016-04-18 19:30:40
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Lorna Kapunan (Aksyon)\n\nHistory: HR Lawyer
+Lorna Kapunan (Aksyon)
+
+History: HR Lawyer

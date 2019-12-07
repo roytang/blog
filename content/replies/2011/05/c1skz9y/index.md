@@ -1,5 +1,5 @@
 ---
-date: 2011-05-05 00:00:00+00:00
+date: 2011-05-05 00:00:00
 reply_to:
   label: '''Ipad + Reddit = Fail. Help please.'' on /r/ipad'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - ipad
 ---
 
-Get the Alien Blue app, it's worth it\n\nEdit: As mentioned multiple times below, it should be Alien Blue HD for the iPad
+Get the Alien Blue app, it's worth it
+
+Edit: As mentioned multiple times below, it should be Alien Blue HD for the iPad

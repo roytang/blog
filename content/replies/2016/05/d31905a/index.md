@@ -1,5 +1,5 @@
 ---
-date: 2016-05-11 13:24:54+00:00
+date: 2016-05-11 13:24:54
 reply_to:
   label: a comment by lookwhosmorty on 'Looking for an episode where mr burns was
     trying to attack someone but all he could do was flail his arms weakly and deal
@@ -15,4 +15,6 @@ tags:
 - TheSimpsons
 ---
 
-I believe that's it!\n\n> (Mr Burns voice) Excellent
+I believe that's it!
+
+> (Mr Burns voice) Excellent

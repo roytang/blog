@@ -1,5 +1,5 @@
 ---
-date: 2016-05-24 13:22:57+00:00
+date: 2016-05-24 13:22:57
 reply_to:
   label: '''Reddit, If someone gave you a box containing everything you''ve ever lost,
     what would be the first thing you''d look for?'' on /r/AskReddit'
@@ -14,4 +14,6 @@ tags:
 - AskReddit
 ---
 
-All those Transformers I used to have back in the 80s! @_@\n\nDon't judge me!
+All those Transformers I used to have back in the 80s! @_@
+
+Don't judge me!

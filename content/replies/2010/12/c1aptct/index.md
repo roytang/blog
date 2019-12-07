@@ -1,5 +1,5 @@
 ---
-date: 2010-12-30 00:00:00+00:00
+date: 2010-12-30 00:00:00
 reply_to:
   label: '''Should I take her back?'' on /r/AskReddit'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - AskReddit
 ---
 
-Nope. Keep moving forward!\n\nEdit: I forgot to say I didn't even read most of your paragraph. It doesn't really matter, keep moving forward, don't look back! You'll experience more of life that way.
+Nope. Keep moving forward!
+
+Edit: I forgot to say I didn't even read most of your paragraph. It doesn't really matter, keep moving forward, don't look back! You'll experience more of life that way.

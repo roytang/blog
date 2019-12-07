@@ -1,5 +1,5 @@
 ---
-date: 2016-05-24 17:33:59+00:00
+date: 2016-05-24 17:33:59
 reply_to:
   label: '''May 24th - Overwatch'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Tracer: http://i.imgur.com/n3TvOoS.jpg\n\nI'm not too happy with how this turned out, the proportions are out of whack. The legs are a bit too small and the head a bit too big, but I was too lazy to go and rework it =/
+Tracer: http://i.imgur.com/n3TvOoS.jpg
+
+I'm not too happy with how this turned out, the proportions are out of whack. The legs are a bit too small and the head a bit too big, but I was too lazy to go and rework it =/

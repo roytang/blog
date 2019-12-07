@@ -1,5 +1,5 @@
 ---
-date: 2012-01-29 00:00:00+00:00
+date: 2012-01-29 00:00:00
 reply_to:
   label: '''What are your thoughts on the New 52 Justice League?'' on /r/comicbooks'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - comicbooks
 ---
 
-The book is great, except I find the pacing horribly slow. I understand  they're taking it slow deliberately because they're targetting new readers who may or may not be familiar with the rest of the league, but I feel like with a bit tighter pacing they could have gotten the current 5-issue plot in 3 issues or so.\n\nMaybe I just got spoiled by Morrison's JLA run. By issue 5, Morrison was already on the second story arc!
+The book is great, except I find the pacing horribly slow. I understand  they're taking it slow deliberately because they're targetting new readers who may or may not be familiar with the rest of the league, but I feel like with a bit tighter pacing they could have gotten the current 5-issue plot in 3 issues or so.
+
+Maybe I just got spoiled by Morrison's JLA run. By issue 5, Morrison was already on the second story arc!

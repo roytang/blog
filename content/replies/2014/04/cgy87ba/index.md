@@ -1,5 +1,5 @@
 ---
-date: 2014-04-22 00:00:00+00:00
+date: 2014-04-22 00:00:00
 reply_to:
   label: '''30+ people of Reddit, what advice would you give your 25 Year Old self
     right now if you could?'' on /r/AskReddit'
@@ -14,4 +14,10 @@ tags:
 - AskReddit
 ---
 
-Don't lose sight of who you are.\n\nDon't let other people judge you.\n\nYes, she *was* interested in you, maybe it's not too late.\n\nInvest in Apple stock and Tarmogoyfs the day Future Sight comes out.
+Don't lose sight of who you are.
+
+Don't let other people judge you.
+
+Yes, she *was* interested in you, maybe it's not too late.
+
+Invest in Apple stock and Tarmogoyfs the day Future Sight comes out.

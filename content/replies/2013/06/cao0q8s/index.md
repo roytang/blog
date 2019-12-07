@@ -1,5 +1,5 @@
 ---
-date: 2013-06-22 00:00:00+00:00
+date: 2013-06-22 00:00:00
 reply_to:
   label: '''Playstation plus on ps3 and ps4.'' on /r/PS3'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - PS3
 ---
 
-You only need one subscription for ps3, ps4 and psvita.\n\nThe longer you wait, the less free games you get. (You can no longer avail of free games that are removed from the Instant Game Collection before you subscribe)
+You only need one subscription for ps3, ps4 and psvita.
+
+The longer you wait, the less free games you get. (You can no longer avail of free games that are removed from the Instant Game Collection before you subscribe)

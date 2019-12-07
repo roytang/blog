@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:41:06+00:00
+date: 2016-04-18 19:41:06
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Shariff Albani (Independent)\n\nHistory: 2010 senatorial candidate under KBL, consultant
+Shariff Albani (Independent)
+
+History: 2010 senatorial candidate under KBL, consultant

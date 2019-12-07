@@ -1,5 +1,5 @@
 ---
-date: 2016-12-28 01:01:46+00:00
+date: 2016-12-28 01:01:46
 reply_to:
   label: '''December 27th - Knitting'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-"Scott, did you give an ant a Christmas sweater?"\n"He was cold!"\n\nhttp://imgur.com/LGH0LUT
+"Scott, did you give an ant a Christmas sweater?"\n"He was cold!"
+
+http://imgur.com/LGH0LUT

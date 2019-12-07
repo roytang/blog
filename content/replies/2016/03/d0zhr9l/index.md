@@ -1,5 +1,5 @@
 ---
-date: 2016-03-15 00:00:00+00:00
+date: 2016-03-15 00:00:00
 reply_to:
   label: '''Let''s have a level exchange! - March 14, 2016'' on /r/MarioMaker'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - MarioMaker
 ---
 
-Title: Spoony Castle\nBookmark: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982\n\nIt's a revision of a previous one I submitted. I hope it's not too difficult :)
+Title: Spoony Castle\nBookmark: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982
+
+It's a revision of a previous one I submitted. I hope it's not too difficult :)

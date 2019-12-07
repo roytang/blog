@@ -1,5 +1,5 @@
 ---
-date: 2012-04-02 00:00:00+00:00
+date: 2012-04-02 00:00:00
 reply_to:
   label: '''BIR wants my family to pay 160% more in taxes.'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-What was the reason given?\n\nAlso, won't the entire amount go to the BIR (as in be part of their tax collection)
+What was the reason given?
+
+Also, won't the entire amount go to the BIR (as in be part of their tax collection)

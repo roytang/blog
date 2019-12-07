@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:37:27+00:00
+date: 2016-04-18 19:37:27
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Tito Sotto (NPC)\n\nHistory: Actor, Vice Mayor (QC), Senator\n\nhttps://en.wikipedia.org/wiki/Tito_Sotto
+Tito Sotto (NPC)
+
+History: Actor, Vice Mayor (QC), Senator
+
+https://en.wikipedia.org/wiki/Tito_Sotto

@@ -1,5 +1,5 @@
 ---
-date: 2016-04-19 01:56:48+00:00
+date: 2016-04-19 01:56:48
 reply_to:
   label: a comment by hungryroy on '2016 Senatorial Candidates Information Megathread'
     on /r/Philippines
@@ -14,4 +14,6 @@ tags:
 - Philippines
 ---
 
-Some of his stands on various issues from the 2013 elections: http://filipinofreethinkers.org/2013/05/01/know-their-stand-dick-gordon-senatorial-candidate/\n\nSome of the highlights for me are that he is against RH and is pro-Political dynasties
+Some of his stands on various issues from the 2013 elections: http://filipinofreethinkers.org/2013/05/01/know-their-stand-dick-gordon-senatorial-candidate/
+
+Some of the highlights for me are that he is against RH and is pro-Political dynasties

@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:50:29+00:00
+date: 2016-04-18 19:50:29
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Jovito Palparan (Independent)\n\nHistory: Army general, Party-List representative (Bantay)\n\nhttps://en.wikipedia.org/wiki/Jovito_Palparan
+Jovito Palparan (Independent)
+
+History: Army general, Party-List representative (Bantay)
+
+https://en.wikipedia.org/wiki/Jovito_Palparan

@@ -1,5 +1,5 @@
 ---
-date: 2012-01-25 00:00:00+00:00
+date: 2012-01-25 00:00:00
 reply_to:
   label: a comment by bananapanorama on 'The Binding of Isaac devs, not giving a fuck'
     on /r/gaming
@@ -14,4 +14,4 @@ tags:
 - gaming
 ---
 
-You are being downvoted because reddiquette states: Moderate based on quality, not opinion. Well-written and interesting content can be worthwhile, even if you disagree with it.\n\n
+You are being downvoted because reddiquette states: Moderate based on quality, not opinion. Well-written and interesting content can be worthwhile, even if you disagree with it.

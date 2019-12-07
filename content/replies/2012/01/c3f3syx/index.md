@@ -1,5 +1,5 @@
 ---
-date: 2012-01-08 00:00:00+00:00
+date: 2012-01-08 00:00:00
 reply_to:
   label: '''Girls won''t talk to me even if I feign confidence. Why?'' on /r/AskReddit'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - AskReddit
 ---
 
-Don't feign confidence, **be** confident.\n\nTake as many opportunities as you can to try to strike up conversations - don't restrict yourself to parties, and don't restrict yourself just to girls you want to hit on\n\nJust keep trying, be yourself, you'll get used to it eventually.
+Don't feign confidence, **be** confident.
+
+Take as many opportunities as you can to try to strike up conversations - don't restrict yourself to parties, and don't restrict yourself just to girls you want to hit on
+
+Just keep trying, be yourself, you'll get used to it eventually.

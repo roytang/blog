@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:42:56+00:00
+date: 2016-04-18 19:42:56
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Greco Belgica (Independent)\n\nHistory: Councilor (Manila), filed and won cases against PDAF/DAP in SC\n\nhttps://en.wikipedia.org/wiki/Greco_Belgica
+Greco Belgica (Independent)
+
+History: Councilor (Manila), filed and won cases against PDAF/DAP in SC
+
+https://en.wikipedia.org/wiki/Greco_Belgica

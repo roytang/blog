@@ -1,5 +1,5 @@
 ---
-date: 2012-12-09 00:00:00+00:00
+date: 2012-12-09 00:00:00
 reply_to:
   label: '''Cable and X-force Preview'' on /r/comicbooks'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - comicbooks
 ---
 
-I like how Havok was all "WTF Nate?!?"\n\nIs this out next week?
+I like how Havok was all "WTF Nate?!?"
+
+Is this out next week?

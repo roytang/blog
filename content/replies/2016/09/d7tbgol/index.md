@@ -1,5 +1,5 @@
 ---
-date: 2016-09-19 16:36:27+00:00
+date: 2016-09-19 16:36:27
 reply_to:
   label: '''September 19th - Genies'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Juzam Djinn: http://imgur.com/E9pJ8Kp\n\n(from MTG. Original artwork by Mark Tedin)
+Juzam Djinn: http://imgur.com/E9pJ8Kp
+
+(from MTG. Original artwork by Mark Tedin)

@@ -1,5 +1,5 @@
 ---
-date: 2014-03-30 00:00:00+00:00
+date: 2014-03-30 00:00:00
 reply_to:
   label: 'a comment by Acid__Reflux on ''inFAMOUS: Second Son [Official Discussion
     Thread #2]'' on /r/PS4'
@@ -14,4 +14,6 @@ tags:
 - PS4
 ---
 
-Have you read this Kill Switch review: http://killscreendaily.com/articles/reviews/infamous-second-son-shows-what-ps4-capable-and-nothing-more/\n\nI'm wondering how accurate their complaints about the game are
+Have you read this Kill Switch review: http://killscreendaily.com/articles/reviews/infamous-second-son-shows-what-ps4-capable-and-nothing-more/
+
+I'm wondering how accurate their complaints about the game are

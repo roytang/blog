@@ -1,5 +1,5 @@
 ---
-date: 2012-02-19 00:00:00+00:00
+date: 2012-02-19 00:00:00
 reply_to:
   label: '''Why did Hitler have a vitamin C deficiency?'' on /r/Jokes'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Jokes
 ---
 
-"Mr Hitler sir, what's your favorite vitamin sir?"\n\n"Nazi!"
+"Mr Hitler sir, what's your favorite vitamin sir?"
+
+"Nazi!"

@@ -1,5 +1,5 @@
 ---
-date: 2016-06-04 11:37:58+00:00
+date: 2016-06-04 11:37:58
 reply_to:
   label: a comment by huseph on 'June 4th - Seashells' on /r/SketchDaily
   name: ''
@@ -13,4 +13,8 @@ tags:
 - SketchDaily
 ---
 
-I have a daily reminder set. \n\nIf you're having trouble or don't have much time for a particular day, don't hesitate to phone it in :p\n\nI also try to pick something related to draw from one of my many other interests - gaming, comic books, movies, books, etc
+I have a daily reminder set. 
+
+If you're having trouble or don't have much time for a particular day, don't hesitate to phone it in :p
+
+I also try to pick something related to draw from one of my many other interests - gaming, comic books, movies, books, etc

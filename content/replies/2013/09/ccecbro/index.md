@@ -1,5 +1,5 @@
 ---
-date: 2013-09-24 00:00:00+00:00
+date: 2013-09-24 00:00:00
 reply_to:
   label: a comment by Crackerpool on 'Tutor Tuesday for September 24, 2013. Ask /r/MagicTCG
     Anything!' on /r/magicTCG
@@ -14,4 +14,6 @@ tags:
 - magicTCG
 ---
 
-From the Theros release notes: http://www.wizards.com/magic/Magazine/Article.aspx?x=mtg/faq/ths\n\n> The type-changing ability that can make the God not be a creature functions only on the battlefield. It's always a creature card in other zones, regardless of your devotion to its color.
+From the Theros release notes: http://www.wizards.com/magic/Magazine/Article.aspx?x=mtg/faq/ths
+
+> The type-changing ability that can make the God not be a creature functions only on the battlefield. It's always a creature card in other zones, regardless of your devotion to its color.

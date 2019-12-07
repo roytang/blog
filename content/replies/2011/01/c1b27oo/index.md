@@ -1,5 +1,5 @@
 ---
-date: 2011-01-02 00:00:00+00:00
+date: 2011-01-02 00:00:00
 reply_to:
   label: a comment by [deleted] on 'Why are there so many Half Life 2 games?' on /r/gaming
   name: ''
@@ -13,4 +13,8 @@ tags:
 - gaming
 ---
 
-I'm not one to troll :)\n\nI'm not that much of an FPS player so I never really got into the Half-Life series.\n\nTheir naming convention is weird with HL2E1 and HL2E2, I initially thought they were like parts of HL2 or something.
+I'm not one to troll :)
+
+I'm not that much of an FPS player so I never really got into the Half-Life series.
+
+Their naming convention is weird with HL2E1 and HL2E2, I initially thought they were like parts of HL2 or something.

@@ -1,5 +1,5 @@
 ---
-date: 2016-05-24 19:19:20+00:00
+date: 2016-05-24 19:19:20
 reply_to:
   label: '''What is a good skill to learn in One''s free time?'' on /r/AskReddit'
   name: ''
@@ -13,4 +13,12 @@ tags:
 - AskReddit
 ---
 
-Sketching.\n\nCooking.\n\nProgramming.\n\nPoetry.\n\nForeign Languages.
+Sketching.
+
+Cooking.
+
+Programming.
+
+Poetry.
+
+Foreign Languages.

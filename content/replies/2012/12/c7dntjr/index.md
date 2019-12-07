@@ -1,5 +1,5 @@
 ---
-date: 2012-12-09 00:00:00+00:00
+date: 2012-12-09 00:00:00
 reply_to:
   label: a comment by [deleted] on 'Why haven't there been any Mario-level platformers
     outside of Nintendo?' on /r/truegaming
@@ -14,4 +14,6 @@ tags:
 - truegaming
 ---
 
-How is that relevant to the question? The same thing can be said for franchises like Call of Duty, Madden, etc.\n\nI **like** Mario games, I'd love if it something similar came out on the PS3/Vita
+How is that relevant to the question? The same thing can be said for franchises like Call of Duty, Madden, etc.
+
+I **like** Mario games, I'd love if it something similar came out on the PS3/Vita

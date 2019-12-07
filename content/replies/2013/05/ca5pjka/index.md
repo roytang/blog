@@ -1,5 +1,5 @@
 ---
-date: 2013-05-25 00:00:00+00:00
+date: 2013-05-25 00:00:00
 reply_to:
   label: '''GamesRadar: The 100 most anticipated games of 2013'' on /r/Games'
   name: ''
@@ -13,4 +13,20 @@ tags:
 - Games
 ---
 
-I was a bit bored so I did some counting. Of the games on this list:\n\nxbox360 - 36 games, 2 exclusives\n\nxbox one - 7 games, 1 exclusive\n\nps3 - 44 games, 8 exclusives\n\nps4 - 10 games, 3 exclusives\n\nvita - 6 games, 2 exclusives (this makes me sad)\n\nwiiu - 22 games, 9 exclusives\n\n3ds - 15 games, 8 exclusives\n\npc - 50 games, 20 exclusives
+I was a bit bored so I did some counting. Of the games on this list:
+
+xbox360 - 36 games, 2 exclusives
+
+xbox one - 7 games, 1 exclusive
+
+ps3 - 44 games, 8 exclusives
+
+ps4 - 10 games, 3 exclusives
+
+vita - 6 games, 2 exclusives (this makes me sad)
+
+wiiu - 22 games, 9 exclusives
+
+3ds - 15 games, 8 exclusives
+
+pc - 50 games, 20 exclusives

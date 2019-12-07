@@ -1,5 +1,5 @@
 ---
-date: 2016-04-20 21:28:00+00:00
+date: 2016-04-20 21:28:00
 reply_to:
   label: a comment by batangbronse on '2016 Senatorial Candidates Information Megathread'
     on /r/Philippines
@@ -14,4 +14,6 @@ tags:
 - Philippines
 ---
 
-This was for the Dacer-Corbito double murder case. He was cleared of it by the SC in 2011 so he was able to return home.\n\nHowever, I think it speaks a bit ill of him that he chose to evade the law until he was cleared. (I guess some would say it's justifiable given our justice system, but as a lawmaker and police officer maybe he should be one of the first to abide by the rules)
+This was for the Dacer-Corbito double murder case. He was cleared of it by the SC in 2011 so he was able to return home.
+
+However, I think it speaks a bit ill of him that he chose to evade the law until he was cleared. (I guess some would say it's justifiable given our justice system, but as a lawmaker and police officer maybe he should be one of the first to abide by the rules)

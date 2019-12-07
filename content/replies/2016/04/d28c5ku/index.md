@@ -1,5 +1,5 @@
 ---
-date: 2016-04-19 01:46:51+00:00
+date: 2016-04-19 01:46:51
 reply_to:
   label: a comment by hungryroy on '2016 Senatorial Candidates Information Megathread'
     on /r/Philippines
@@ -14,4 +14,6 @@ tags:
 - Philippines
 ---
 
-Absentee congressman\n\nCalled LGBT's "worse than animals"
+Absentee congressman
+
+Called LGBT's "worse than animals"

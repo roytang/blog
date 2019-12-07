@@ -1,5 +1,5 @@
 ---
-date: 2012-02-26 00:00:00+00:00
+date: 2012-02-26 00:00:00
 reply_to:
   label: a comment by someswedishgirl on 'Would you like to know your reddit stats?'
     on /r/AskReddit
@@ -14,4 +14,6 @@ tags:
 - AskReddit
 ---
 
-Oh, is it more common to use 24-hour time over there?\n\nHope you have a great Sunday afternoon :D
+Oh, is it more common to use 24-hour time over there?
+
+Hope you have a great Sunday afternoon :D

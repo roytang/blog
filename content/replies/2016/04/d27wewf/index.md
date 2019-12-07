@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:30:25+00:00
+date: 2016-04-18 19:30:25
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Risa Hontiveros (Akbayan)\n\nHistory: Journalist, Party List Representative\n\nhttps://en.wikipedia.org/wiki/Risa_Hontiveros
+Risa Hontiveros (Akbayan)
+
+History: Journalist, Party List Representative
+
+https://en.wikipedia.org/wiki/Risa_Hontiveros

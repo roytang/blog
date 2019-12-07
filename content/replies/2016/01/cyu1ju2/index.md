@@ -1,5 +1,5 @@
 ---
-date: 2016-01-11 00:00:00+00:00
+date: 2016-01-11 00:00:00
 reply_to:
   label: a comment by Schootingstarr on 'Trapped in an elevator for 41 hours' on /r/interestingasfuck
   name: ''
@@ -13,4 +13,10 @@ tags:
 - interestingasfuck
 ---
 
-The country's name in the local language is "Pilipinas". The citizens are "Pilipinos"\n\nThe national language is called "Filipino" (in English) and "Pilipino" (in Filipino). \n\nIt used to be that the official Filipino alphabet did not include the letter F. This is no longer the case https://en.wikipedia.org/wiki/Filipino_alphabet\n\nAlso, in English, the correct adjective to use is "Philippine", i.e. the Philippine population.
+The country's name in the local language is "Pilipinas". The citizens are "Pilipinos"
+
+The national language is called "Filipino" (in English) and "Pilipino" (in Filipino). 
+
+It used to be that the official Filipino alphabet did not include the letter F. This is no longer the case https://en.wikipedia.org/wiki/Filipino_alphabet
+
+Also, in English, the correct adjective to use is "Philippine", i.e. the Philippine population.

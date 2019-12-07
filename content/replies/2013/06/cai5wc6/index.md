@@ -1,5 +1,5 @@
 ---
-date: 2013-06-14 00:00:00+00:00
+date: 2013-06-14 00:00:00
 reply_to:
   label: '''microsoft engineer on xb1 defends DRM; compares to Steam'' on /r/Games'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Games
 ---
 
->Honestly, if you care about anything other then pure games AT ALL. Xbox 1 > PS4. If all you do is play games, and nothing else, PS4.\n\nI only want to play games on my gaming console, so okay!\n\nThis just in: Microsoft Engineer told me to go for PS4!
+>Honestly, if you care about anything other then pure games AT ALL. Xbox 1 > PS4. If all you do is play games, and nothing else, PS4.
+
+I only want to play games on my gaming console, so okay!
+
+This just in: Microsoft Engineer told me to go for PS4!

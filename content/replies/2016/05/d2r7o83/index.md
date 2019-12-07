@@ -1,5 +1,5 @@
 ---
-date: 2016-05-03 16:56:33+00:00
+date: 2016-05-03 16:56:33
 reply_to:
   label: '''May 3rd - Ants'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Um...hi? http://i.imgur.com/jhVIakW.jpg\n\nI only now noticed, but the ant from Bug's Life doesn't have the correct number of limbs. ANTZ was more accurate
+Um...hi? http://i.imgur.com/jhVIakW.jpg
+
+I only now noticed, but the ant from Bug's Life doesn't have the correct number of limbs. ANTZ was more accurate

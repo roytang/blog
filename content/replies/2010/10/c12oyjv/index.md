@@ -1,5 +1,5 @@
 ---
-date: 2010-10-19 00:00:00+00:00
+date: 2010-10-19 00:00:00
 reply_to:
   label: '''Am I crazy? Do other people do this?'' on /r/AskReddit'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - AskReddit
 ---
 
-It's fine, enjoy your solo moments. :D\n\nI sometimes do kung fu poses when I find myself alone in the elevator.
+It's fine, enjoy your solo moments. :D
+
+I sometimes do kung fu poses when I find myself alone in the elevator.

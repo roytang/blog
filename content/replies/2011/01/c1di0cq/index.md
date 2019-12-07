@@ -1,5 +1,5 @@
 ---
-date: 2011-01-21 00:00:00+00:00
+date: 2011-01-21 00:00:00
 reply_to:
   label: '''What''s the best accidental word you''ve ever made?'' on /r/AskReddit'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - AskReddit
 ---
 
-Not a word but an emoticon: ffO\n\nIt's for when you raise both hands in front of you in frustration.
+Not a word but an emoticon: ffO
+
+It's for when you raise both hands in front of you in frustration.

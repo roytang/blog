@@ -1,5 +1,5 @@
 ---
-date: 2011-12-24 00:00:00+00:00
+date: 2011-12-24 00:00:00
 reply_to:
   label: '''So, /r/gaming. Who wants Limbo?'' on /r/gaming'
   name: ''
@@ -13,4 +13,10 @@ tags:
 - gaming
 ---
 
-http://fast1.onesite.com/capcom-unity.com/user/snow_infernus/large/7ad442c40c4401e7065fd7559bf7bbe1.jpg?v=134550 \n\n:D\n\nhttp://steamcommunity.com/id/hungryroy\n\nHappy holidays and good karma to you :D
+http://fast1.onesite.com/capcom-unity.com/user/snow_infernus/large/7ad442c40c4401e7065fd7559bf7bbe1.jpg?v=134550 
+
+:D
+
+http://steamcommunity.com/id/hungryroy
+
+Happy holidays and good karma to you :D

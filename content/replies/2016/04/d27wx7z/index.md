@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:41:30+00:00
+date: 2016-04-18 19:41:30
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Rafael Alunan (Independent)\n\nHistory: DOT secretary, DILG secretary
+Rafael Alunan (Independent)
+
+History: DOT secretary, DILG secretary

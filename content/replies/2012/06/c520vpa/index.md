@@ -1,5 +1,5 @@
 ---
-date: 2012-06-18 00:00:00+00:00
+date: 2012-06-18 00:00:00
 reply_to:
   label: '''Best turn based RPG on PS3?'' on /r/PS3'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - PS3
 ---
 
-Disgaea 3/4.\n\nOkay, that might not be what you want/expect.
+Disgaea 3/4.
+
+Okay, that might not be what you want/expect.

@@ -1,5 +1,5 @@
 ---
-date: 2013-02-10 00:00:00+00:00
+date: 2013-02-10 00:00:00
 reply_to:
   label: a comment by CarolineJohnson on 'Combat in the Tales series - Am I missing
     something?' on /r/truegaming
@@ -14,4 +14,6 @@ tags:
 - truegaming
 ---
 
-> the use of "Kangaroo War" instead of "Ragnarok War."\n\nI found this hilarious lol
+> the use of "Kangaroo War" instead of "Ragnarok War."
+
+I found this hilarious lol

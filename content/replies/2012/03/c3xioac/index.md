@@ -1,5 +1,5 @@
 ---
-date: 2012-03-04 00:00:00+00:00
+date: 2012-03-04 00:00:00
 reply_to:
   label: '''Questions from a new player'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-Copying a spell means a new copy of that spell is put on the stack but you don't pay the costs. It does not counter the spell. The card itself says it only affects instants and sorceries.\n\nEdit: Corrected as mentioned by Merestil
+Copying a spell means a new copy of that spell is put on the stack but you don't pay the costs. It does not counter the spell. The card itself says it only affects instants and sorceries.
+
+Edit: Corrected as mentioned by Merestil

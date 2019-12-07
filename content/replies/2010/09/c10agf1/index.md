@@ -1,5 +1,5 @@
 ---
-date: 2010-09-23 00:00:00+00:00
+date: 2010-09-23 00:00:00
 reply_to:
   label: a comment by trident042 on 'I'll be that guy this time - the Pre-release
     will be my first actual Magic tourney ever.  Tips?  Simple tourney stuff everyone
@@ -15,4 +15,6 @@ tags:
 - magicTCG
 ---
 
-You're welcome. I think it's happened to me twice now that I got free wins at a prerelease due to my opponent using the promo card.\n\nActually, if you get a non-promo Wurmcoil Engine, you should almost certainly play it, no matter what deck you have. :D
+You're welcome. I think it's happened to me twice now that I got free wins at a prerelease due to my opponent using the promo card.
+
+Actually, if you get a non-promo Wurmcoil Engine, you should almost certainly play it, no matter what deck you have. :D

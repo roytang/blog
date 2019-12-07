@@ -1,5 +1,5 @@
 ---
-date: 2016-11-05 14:36:14+00:00
+date: 2016-11-05 14:36:14
 reply_to:
   label: '''November 5th - Beauty and the Beast'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Rejected Disney princesses: Taco Belle http://imgur.com/weIrtds\n\nEdit: Bonus sketch: Taco Belldandy http://imgur.com/KElvzfh
+Rejected Disney princesses: Taco Belle http://imgur.com/weIrtds
+
+Edit: Bonus sketch: Taco Belldandy http://imgur.com/KElvzfh

@@ -1,5 +1,5 @@
 ---
-date: 2016-04-28 14:34:45+00:00
+date: 2016-04-28 14:34:45
 reply_to:
   label: '''April 28th - Utopian Paradise'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Sorry, I'm unable to follow the theme today because of reasons. (i.e. I can't think of anything in-theme)\n\nInstead, I give you Lucina, Whose Head Seems A Bit Too Big: http://i.imgur.com/uVghyMh.jpg
+Sorry, I'm unable to follow the theme today because of reasons. (i.e. I can't think of anything in-theme)
+
+Instead, I give you Lucina, Whose Head Seems A Bit Too Big: http://i.imgur.com/uVghyMh.jpg

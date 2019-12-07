@@ -1,5 +1,5 @@
 ---
-date: 2015-06-01 00:00:00+00:00
+date: 2015-06-01 00:00:00
 reply_to:
   label: a comment by CrazyMike366 on 'Pascal Maynard rare drafts foil goyf in T8
     of GP Vegas' on /r/magicTCG
@@ -14,4 +14,6 @@ tags:
 - magicTCG
 ---
 
-> They will not just be a list of each set's most powerful tournament-level cards.\n\n"not just" means that the list of mythics can contain cards other than the set's most powerful tournament-level cards (and this has been 100% true). It doesn't mean that mythics can't be powerful tournament-level cards\n\n
+> They will not just be a list of each set's most powerful tournament-level cards.
+
+"not just" means that the list of mythics can contain cards other than the set's most powerful tournament-level cards (and this has been 100% true). It doesn't mean that mythics can't be powerful tournament-level cards

@@ -1,5 +1,5 @@
 ---
-date: 2014-04-26 00:00:00+00:00
+date: 2014-04-26 00:00:00
 reply_to:
   label: 'a comment by tuna1694 on ''[JOU] LSV Set Review: Green & The Rest'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-Very true, the man likes to draw the extra cards, that's not too much of a bad thing though.\n\nBlue is very good in Theros as well, so I wouldn't mind recommending it for the prerelease anyway (a lot of people I know seem to prefer White, which is cool too)
+Very true, the man likes to draw the extra cards, that's not too much of a bad thing though.
+
+Blue is very good in Theros as well, so I wouldn't mind recommending it for the prerelease anyway (a lot of people I know seem to prefer White, which is cool too)

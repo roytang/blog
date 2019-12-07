@@ -1,5 +1,5 @@
 ---
-date: 2010-10-01 00:00:00+00:00
+date: 2010-10-01 00:00:00
 reply_to:
   label: a comment by Zalaxy on 'Civ5 a technical disaster and QC failure. Due to
     Firaxis layoffs?' on /r/gaming
@@ -14,4 +14,6 @@ tags:
 - gaming
 ---
 
-Just curious, what laptop do you have?\n\nTo reduce the freeze, kill off the opposing players so they don't get their turns :D
+Just curious, what laptop do you have?
+
+To reduce the freeze, kill off the opposing players so they don't get their turns :D

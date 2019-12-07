@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:33:20+00:00
+date: 2016-04-18 19:33:20
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - Philippines
 ---
 
-Ina Ambolodto (Liberal)\n\nHistory: Educator, Vice Mayor (Northern Kabuntalan, Maguindanao), Acting Governor (Maguindanao), Asst Sec for Muslim Affairs and Special Concerns, DILG\n\nhttps://en.wikipedia.org/wiki/Ina_Ambolodto
+Ina Ambolodto (Liberal)
+
+History: Educator, Vice Mayor (Northern Kabuntalan, Maguindanao), Acting Governor (Maguindanao), Asst Sec for Muslim Affairs and Special Concerns, DILG
+
+https://en.wikipedia.org/wiki/Ina_Ambolodto

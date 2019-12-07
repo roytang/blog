@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:43:45+00:00
+date: 2016-04-18 19:43:45
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Ray Dorona (Independent)\n\nHistory: CEO and President Blue Rays Unified Solutions
+Ray Dorona (Independent)
+
+History: CEO and President Blue Rays Unified Solutions

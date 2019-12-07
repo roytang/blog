@@ -1,5 +1,5 @@
 ---
-date: 2016-03-25 16:24:57+00:00
+date: 2016-03-25 16:24:57
 reply_to:
   label: '''March 25th - Free Draw Friday'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Dawn of Justice: http://i.imgur.com/GkczQz4.jpg\n\nThis one took me longer than Man of Steel's running time, around two and a half hours (I was sketching while watching in preparation for Batman vs Superman tomorrow). Not sure how terribly slow that is haha (Please tell me so I can know how much I need to improve :p)
+Dawn of Justice: http://i.imgur.com/GkczQz4.jpg
+
+This one took me longer than Man of Steel's running time, around two and a half hours (I was sketching while watching in preparation for Batman vs Superman tomorrow). Not sure how terribly slow that is haha (Please tell me so I can know how much I need to improve :p)

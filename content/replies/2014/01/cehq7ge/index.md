@@ -1,5 +1,5 @@
 ---
-date: 2014-01-05 00:00:00+00:00
+date: 2014-01-05 00:00:00
 reply_to:
   label: a comment by Astantia on 'A question about Wild Ricochet' on /r/magicTCG
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-> I think the correct play here is to choose cancel as it's own target, then choose cancel as it's own target for the copy as well.\n\nComp Rules 114.4. A spell or ability on the stack is an illegal target for itself.
+> I think the correct play here is to choose cancel as it's own target, then choose cancel as it's own target for the copy as well.
+
+Comp Rules 114.4. A spell or ability on the stack is an illegal target for itself.

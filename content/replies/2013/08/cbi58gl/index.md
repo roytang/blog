@@ -1,5 +1,5 @@
 ---
-date: 2013-08-07 00:00:00+00:00
+date: 2013-08-07 00:00:00
 reply_to:
   label: '''How Many Life Points Is One Card Worth?'' on /r/magicTCG'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - magicTCG
 ---
 
-DAE cringe at "life points"? :p\n\nIf you're at 20, almost all damage is as we say locally "malayo sa bituka" (far from the gut), so I'd almost always take the first 5 damage from the 5/3 before chump blocking. Remember, it's really only the final point of damage that kills you.\n\n
+DAE cringe at "life points"? :p
+
+If you're at 20, almost all damage is as we say locally "malayo sa bituka" (far from the gut), so I'd almost always take the first 5 damage from the 5/3 before chump blocking. Remember, it's really only the final point of damage that kills you.

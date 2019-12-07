@@ -1,5 +1,5 @@
 ---
-date: 2010-11-26 00:00:00+00:00
+date: 2010-11-26 00:00:00
 reply_to:
   label: '''Happy Thanksgiving Giveaway! 10 copies of Deus Ex!'' on /r/gaming'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - gaming
 ---
 
-You should pick me so that we can test whether an American can gift a game on Steam to someone in a third world country. \n\nAlso, I've never played it, and all that jazz :D
+You should pick me so that we can test whether an American can gift a game on Steam to someone in a third world country. 
+
+Also, I've never played it, and all that jazz :D

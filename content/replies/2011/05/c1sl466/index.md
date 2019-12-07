@@ -1,5 +1,5 @@
 ---
-date: 2011-05-05 00:00:00+00:00
+date: 2011-05-05 00:00:00
 reply_to:
   label: '''IAmA guy who quit his job and moved to Rwanda to volunteer for Kiva.org.
     In a week, I start some other world-exploration adventures, described inside.
@@ -15,4 +15,8 @@ tags:
 - IAmA
 ---
 
-I have no idea about microfinance or Kiva or Rwanda (and probably some other people are as ignorant as me), can you give us a lowdown?\n\nHow much life savings did you set aside before going on your world tour? Do you still earn money while travelling?\n\nI've always fantasized about going off to travel the world but I feel like it would be terribly difficult to leave behind my roots even for a shortish amount of time. How did you overcome that sort of thing?
+I have no idea about microfinance or Kiva or Rwanda (and probably some other people are as ignorant as me), can you give us a lowdown?
+
+How much life savings did you set aside before going on your world tour? Do you still earn money while travelling?
+
+I've always fantasized about going off to travel the world but I feel like it would be terribly difficult to leave behind my roots even for a shortish amount of time. How did you overcome that sort of thing?

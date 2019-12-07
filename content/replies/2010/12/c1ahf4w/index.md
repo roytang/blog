@@ -1,5 +1,5 @@
 ---
-date: 2010-12-28 00:00:00+00:00
+date: 2010-12-28 00:00:00
 reply_to:
   label: 'a comment by TarkiB on ''Steam Holiday Sale Day 8: Killing Floor, Mirror''s
     Edge, Machinarium, HAWX, Lost Planet 2, EVE, SW KOTOR, Cities XL, SF4, more''
@@ -15,4 +15,6 @@ tags:
 - gaming
 ---
 
-> before 20 seconds ago impossible to buy online as a digital download. Great game.\n\nWhat do you mean, was it not available on Steam before today?
+> before 20 seconds ago impossible to buy online as a digital download. Great game.
+
+What do you mean, was it not available on Steam before today?

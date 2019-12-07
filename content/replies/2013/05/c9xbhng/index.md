@@ -1,5 +1,5 @@
 ---
-date: 2013-05-13 00:00:00+00:00
+date: 2013-05-13 00:00:00
 reply_to:
   label: '''[Contest][Steam] Giving Away 1 Game.'' on /r/RandomActsOfGaming'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - RandomActsOfGaming
 ---
 
-Song: Look in Her Eyes by Gary V http://www.youtube.com/watch?v=nSmgsFVXjnE\nGame: Eh, I'll think of one later, I just wanted to give you a song lol\n\n:D
+Song: Look in Her Eyes by Gary V http://www.youtube.com/watch?v=nSmgsFVXjnE\nGame: Eh, I'll think of one later, I just wanted to give you a song lol
+
+:D

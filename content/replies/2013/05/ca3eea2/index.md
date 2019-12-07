@@ -1,5 +1,5 @@
 ---
-date: 2013-05-22 00:00:00+00:00
+date: 2013-05-22 00:00:00
 reply_to:
   label: '''Question about IGC.'' on /r/PlayStationPlus'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - PlayStationPlus
 ---
 
-You can get what is currently free. As long as you have "purchased" a free game, it stays in your download list and you can redownload it any time as long as your subscription is active, even after it rotates from the IGC.\n\nThis should be in the sidebar, it gets asked all the time.
+You can get what is currently free. As long as you have "purchased" a free game, it stays in your download list and you can redownload it any time as long as your subscription is active, even after it rotates from the IGC.
+
+This should be in the sidebar, it gets asked all the time.

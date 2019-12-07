@@ -1,5 +1,5 @@
 ---
-date: 2013-05-13 00:00:00+00:00
+date: 2013-05-13 00:00:00
 reply_to:
   label: '''[Giveaway][Steam] Any game that isn''t the third of a series'' on /r/RandomActsOfGaming'
   name: ''
@@ -13,4 +13,8 @@ tags:
 - RandomActsOfGaming
 ---
 
-Skyrim: Dawnguard or Dragonborn DLC pls :D\n\nOr if that's not allowed...Monaco? :D\n\nThanks dude
+Skyrim: Dawnguard or Dragonborn DLC pls :D
+
+Or if that's not allowed...Monaco? :D
+
+Thanks dude

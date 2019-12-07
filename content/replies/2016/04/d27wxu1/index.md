@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:41:51+00:00
+date: 2016-04-18 19:41:51
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Godofredo Arquiza\n\nHistory: Party-List Representative (Senior Citizens)
+Godofredo Arquiza
+
+History: Party-List Representative (Senior Citizens)

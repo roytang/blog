@@ -1,5 +1,5 @@
 ---
-date: 2012-03-05 00:00:00+00:00
+date: 2012-03-05 00:00:00
 reply_to:
   label: '''Hello, Redditors of all kinds.'' on /r/AskReddit'
   name: ''
@@ -13,4 +13,10 @@ tags:
 - AskReddit
 ---
 
-There's a help page: http://www.reddit.com/help \n\nAnd an FAQ page: http://www.reddit.com/help/faq\n\nAnd a search box on the right side of the page.\n\nEnjoy reddit!
+There's a help page: http://www.reddit.com/help 
+
+And an FAQ page: http://www.reddit.com/help/faq
+
+And a search box on the right side of the page.
+
+Enjoy reddit!

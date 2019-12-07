@@ -1,5 +1,5 @@
 ---
-date: 2011-12-23 00:00:00+00:00
+date: 2011-12-23 00:00:00
 reply_to:
   label: '''I''ve got 8 Steam games to give away'' on /r/gaming'
   name: ''
@@ -13,4 +13,12 @@ tags:
 - gaming
 ---
 
-Happy holidays\n\nAnd good karma to you sir\n\nI'd love Borderlands \n\n:D\n\nreddit id @ gmail.com if you choose me :D
+Happy holidays
+
+And good karma to you sir
+
+I'd love Borderlands 
+
+:D
+
+reddit id @ gmail.com if you choose me :D

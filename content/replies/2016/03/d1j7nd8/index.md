@@ -1,5 +1,5 @@
 ---
-date: 2016-03-30 16:18:35+00:00
+date: 2016-03-30 16:18:35
 reply_to:
   label: '''March 30th - Gnomes'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Reinforcements... or refreshments? http://i.imgur.com/F4Y2sz9.jpg\n\n(These are Bottle Gnomes from MTG. Reference: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389449)
+Reinforcements... or refreshments? http://i.imgur.com/F4Y2sz9.jpg
+
+(These are Bottle Gnomes from MTG. Reference: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389449)

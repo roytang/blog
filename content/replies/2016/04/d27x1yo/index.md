@@ -1,5 +1,5 @@
 ---
-date: 2016-04-18 19:44:24+00:00
+date: 2016-04-18 19:44:24
 reply_to:
   label: '''2016 Senatorial Candidates Information Megathread'' on /r/Philippines'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - Philippines
 ---
 
-Eid Kabalu (Independent)\n\nHistory: MILF Spokesman
+Eid Kabalu (Independent)
+
+History: MILF Spokesman

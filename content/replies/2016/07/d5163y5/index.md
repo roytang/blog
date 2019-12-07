@@ -1,5 +1,5 @@
 ---
-date: 2016-07-06 09:08:21+00:00
+date: 2016-07-06 09:08:21
 reply_to:
   label: '''July 6th - Tiger Lilies'' on /r/SketchDaily'
   name: ''
@@ -13,4 +13,6 @@ tags:
 - SketchDaily
 ---
 
-Tiger Lilies http://i.imgur.com/rmsqDBt.jpg\n\nEdit: Apparently I forgot to include the imgur link in the comment, but somehow got an upvote anyway
+Tiger Lilies http://i.imgur.com/rmsqDBt.jpg
+
+Edit: Apparently I forgot to include the imgur link in the comment, but somehow got an upvote anyway

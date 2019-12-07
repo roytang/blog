@@ -1,5 +1,5 @@
 ---
-date: 2011-12-21 00:00:00+00:00
+date: 2011-12-21 00:00:00
 reply_to:
   label: '''I''m spending at least $100 on the Steam sale. It''s all going to Reddit.''
     on /r/gaming'
@@ -14,4 +14,6 @@ tags:
 - gaming
 ---
 
-I'd like to join http://steamcommunity.com/id/hungryroy\n\nHappy holidays and good karma to you sir! :D
+I'd like to join http://steamcommunity.com/id/hungryroy
+
+Happy holidays and good karma to you sir! :D

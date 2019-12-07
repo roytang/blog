@@ -1,5 +1,5 @@
 ---
-date: 2010-10-21 00:00:00+00:00
+date: 2010-10-21 00:00:00
 reply_to:
   label: a comment by [deleted] on 'I'm getting an iPad tomorrow, what do I need to
     know to get the most out of it?' on /r/ipad
@@ -14,4 +14,6 @@ tags:
 - ipad
 ---
 
-Thanks for the suggestions! \n\nThe iPad was purchased for me by a friend, so I did not have any choice with the model. I don't have Wifi ubiquitously where I am, so the 3G is cool with me anyways. :D
+Thanks for the suggestions! 
+
+The iPad was purchased for me by a friend, so I did not have any choice with the model. I don't have Wifi ubiquitously where I am, so the 3G is cool with me anyways. :D
