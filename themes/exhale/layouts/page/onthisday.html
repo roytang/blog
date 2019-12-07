@@ -4,7 +4,7 @@
 {{ $archDay := now.Format "02" }}
 
 <section class="h-feed">
-<h2 class="p-name">On this day</h2>
+<h3 class="p-name">On this day</h3>
 
 {{ $slice := slice }}
 {{ range (where site.RegularPages "Type" "in" site.Params.mainSections) }}

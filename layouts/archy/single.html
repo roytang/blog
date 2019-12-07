@@ -4,7 +4,7 @@
 {{ $archYear := .Date.Format "2006" }}
 
 <section class="h-feed">
-<h2 class="p-name">Archive for {{ $archYear }}</h2>
+<h3 class="p-name">Archive for {{ $archYear }}</h3>
 
 {{ $scratch.Set "postCount" 0 }}
 {{ range where .Site.RegularPages "Section" "post" }}
