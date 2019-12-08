@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179333404347/avengers-2012-1-by-jonathan-hickman-and-jerome
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1054553196474126336/
 tags:
 - marvel
 - comics

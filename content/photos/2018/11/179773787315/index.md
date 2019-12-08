@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179773787315/invincible-iron-man-600-by-brian-michael-bendis
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1059264269252988929/
 tags:
 - marvel
 - comics

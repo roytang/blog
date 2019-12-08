@@ -303,7 +303,7 @@ class PostBuilder():
         post.kind = "gibberish" # require the caller to replace it, not easy to extract from the file (we can, pero katamad)
         post.title = mdpost.get("title")
         post.date = mdpost.get("date")
-        post.tags = mdpost.get("tags")
+        post.tags = mdpost.get("tags", [])
         for syn in mdpost.get('syndicated', []):
             post.add_syndication(syn['type'], syn['url'])
         # also copy over all the extra files in the source bundle
@@ -385,7 +385,8 @@ class PostBuilder():
                 filepath = Path(m.replace("file://", ""))
                 filename = filepath.name
                 download_to = outdir / filename
-                shutil.copy(str(filepath), str(download_to))    
+                if str(filepath) != str(download_to):
+                    shutil.copy(str(filepath), str(download_to))    
             else:
                 print("Downloading %s" % (m))
                 filename = m[m.rfind("/")+1:]

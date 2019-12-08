@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181965260685/cantstopthinkingcomics-war-of-the-realms-by
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1084269035364200448/
 tags:
 - ireadcomicbooks
 ---

@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180970935572/jla-v3-44-tower-of-babel-part-2-of-4-by-mark-waid
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1071947852673359872/
 tags:
 - dc
 - comics

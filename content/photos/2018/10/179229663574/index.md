@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179229663574/supercrooks-4-by-mark-millar-and-leinel-francis
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1053466030050340864/
 tags:
 - comic
 - supercrooks

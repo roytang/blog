@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/182695960342/its-spider-man-week-on-ireadcomicbooks-to-cap
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1094415784594542592/
 tags:
 - marvel
 - comics

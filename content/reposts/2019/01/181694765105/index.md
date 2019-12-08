@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181694765105/mikaeled-that-person-who-helps-others-simply
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1081007492392513537/
 tags:
 - ireadcomicbooks
 ---

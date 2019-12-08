@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181790282591/russelldauterman-my-favorite-thing-i-drew-in
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1082094682551799809/
 tags:
 - ireadcomicbooks
 ---

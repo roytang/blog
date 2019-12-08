@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179485492410/i-found-out-batman-ninja-is-on-netflix-so-i
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1056203394275258369/
 tags:
 - dc
 - comics

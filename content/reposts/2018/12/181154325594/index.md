@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181154325594/why-i-love-comics-peter-parker-the-spectacular
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1074122172321447936/
 tags:
 - marvel
 - comics

@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181911857439/x-factor-92-cover-by-joe-quesada-this-is-one-of
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1083544243292065792/
 tags:
 - marvel
 - comics

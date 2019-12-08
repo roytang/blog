@@ -6,7 +6,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156982241303912
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179008685600/venom-spoiler-free-review
-tags: 
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1051079317776715776/
+tags:
 - ireadcomicbooks
 - spoilerfreerview
 ---

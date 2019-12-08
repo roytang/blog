@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180464642718/otto-learns-what-it-means-to-be-spider-man
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1066512001847971842/
 tags:
 - marvel
 - comics

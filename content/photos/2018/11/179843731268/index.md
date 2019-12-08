@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179843731268/immortal-hulk-7-by-al-ewing-and-joe-bennett-for
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1059989030526504960/
 tags:
 - ireadcomicbooks
 - '7'

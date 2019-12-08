@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180637779279/sevenheadstencrowns-new-avengers-by-leinil
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1068323911585210369/
 tags:
 - marvel
 - comics

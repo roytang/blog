@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181474196904/old-man-hawkeye-1-cover-by-marco-chechetto
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1078470832513601536/
 tags:
 - marvel
 - comics

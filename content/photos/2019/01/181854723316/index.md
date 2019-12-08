@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181854723316/stormwatch-1-by-brandon-choi-jim-lee-scott
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1082819463144267777/
 tags:
 - image
 - comics

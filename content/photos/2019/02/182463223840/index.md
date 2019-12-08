@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/182463223840/uncanny-x-men-136-1980-and-crisis-on-infinite
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1091154337764646914/
 tags:
 - comics
 - marvel

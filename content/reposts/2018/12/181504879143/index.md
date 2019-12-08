@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181504879143/travisellisor-page-20-from-aquaman-2011-9
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1078833116104572929/
 tags:
 - comics
 - Aquaman

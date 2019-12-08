@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179098008956/batman-new-52-1-by-scott-snyder-and-greg-capulo
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1052016479091200005/
 tags:
 - dc
 - comics

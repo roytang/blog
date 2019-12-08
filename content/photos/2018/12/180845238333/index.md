@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180845238333/the-x-traitor-mystery-was-introduced-in-uncanny
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1070498283859128320/
 tags:
 - marvel
 - comics

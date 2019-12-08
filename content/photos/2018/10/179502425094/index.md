@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179502425094/detective-comics-988-by-james-robinson-and
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1056365111781310464/
 tags:
 - dc
 - comics

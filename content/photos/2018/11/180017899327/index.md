@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180017899327/all-new-x-men-1-connecting-covers-by-stuart
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1061801050741620736/
 tags:
 - marvel
 - comics

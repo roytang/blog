@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179946676061
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1061076244073209856/
 tags:
 - comics
 - dc

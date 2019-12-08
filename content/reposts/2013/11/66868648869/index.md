@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/400605968721260544/
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180039096525/eyesofamaranthine-x-men-50th-anniversary-30
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062037904724316160/
 ---
 
 <p><a class="tumblr_blog" href="https://eyesofamaranthine.tumblr.com/post/65640059170">eyesofamaranthine</a>:</p>

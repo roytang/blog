@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180811685048/bear1na-guardians-of-the-galaxy-1-variant
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1070135957070983168/
 tags:
 - marvel
 - comics

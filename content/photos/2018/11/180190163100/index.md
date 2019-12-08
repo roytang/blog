@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180190163100/this-guardians-iteration-is-the-best-cosmic-ghost
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1063612974273884160/
 tags:
 - marvel
 - comics

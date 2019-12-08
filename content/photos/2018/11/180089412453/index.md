@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180089412453/daredevil-609-cover-art-by-phil-noto
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062525790842224640/
 tags:
 - marvel
 - comics

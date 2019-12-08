@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/182124799020/the-green-lantern-2-oa-splash-page-art-by-liam
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1086443293343387649/
 tags:
 - dc
 - dc comics

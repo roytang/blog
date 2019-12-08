@@ -10,6 +10,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154449619428912:0
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179080184865/roytang-we-must-remain-vigilant
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1051849087316893698/
 tags:
 - daredevil
 ---

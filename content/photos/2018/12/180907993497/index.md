@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180907993497/young-avengers-12-art-by-jim-cheung
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1071223015394996230/
 tags:
 - marvel
 - comics

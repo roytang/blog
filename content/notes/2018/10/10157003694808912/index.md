@@ -6,7 +6,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10157003694808912
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179331448050/daredevil-season-3-spoiler-free-review
-tags: 
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1054535545068679168/
+tags:
 - ireadcomicbooks
 - spoilerfreerview
 ---

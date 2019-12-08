@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179298145670/avengers-vs-x-men-11-by-brian-michael-bendis-and
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1054190817970151424/
 tags:
 - marvel
 - comics

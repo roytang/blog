@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180584047295/young-avengers-12-kate-bishop-takes-the-mantle-of
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1067755237165936641/
 tags:
 - marvel
 - comics

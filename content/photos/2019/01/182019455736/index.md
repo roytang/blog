@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/182019455736/champions-2019-1
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1084993785782771712/
 tags:
 - marvel
 - comics

@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180123127347/jla-v3-3-and-4-by-grant-morrison-and-howard
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062888194826530816/
 tags:
 - dc
 - comics

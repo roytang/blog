@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/182135294475
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1086618241399771137/
 tags:
 - ireadcomicbooks
 ---

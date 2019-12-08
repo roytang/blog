@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181662995678/artverso-gary-frank-doomsday-clock
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1080645129634041856/
 tags:
 - ireadcomicbooks
 ---

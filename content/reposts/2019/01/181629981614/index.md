@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181629981614/artverso-leinil-francis-yu-x-force
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1080282722684293120/
 tags:
 - ireadcomicbooks
 ---

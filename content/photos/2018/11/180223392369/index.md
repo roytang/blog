@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180223392369/the-x-men-fight-fake-news-and-also-search-for-cat
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1063975262424104961/
 tags:
 - marvel
 - comics

@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181233770333/shazam-1-cover-by-dave-eaglesham
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1075209287377580032/
 tags:
 - dc
 - comics

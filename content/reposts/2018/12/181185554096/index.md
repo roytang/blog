@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181185554096/jetslay-clark-kent-changing-into-superman
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1074484471779549184/
 tags:
 - ireadcomicbooks
 ---

@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179573104627/aquaman-14-cover-art-by-joe-prado-ivan-reis
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1057089913735266304/
 tags:
 - comics
 - dc

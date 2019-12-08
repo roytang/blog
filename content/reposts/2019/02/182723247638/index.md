@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/182723247638/comicbookcovers-comicbookcovers-recursion
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1094778185386995712/
 tags:
 - ireadcomicbooks
 ---

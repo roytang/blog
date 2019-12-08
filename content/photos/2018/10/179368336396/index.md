@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179368336396/thor-god-of-thunder-3-by-jason-aaron-and-esaad
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1054915598440898561/
 tags:
 - marvel
 - comics

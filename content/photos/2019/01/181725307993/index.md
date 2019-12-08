@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181725307993/spider-men-1-cover-by-jim-cheung
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1081369846858817541/
 tags:
 - marvel
 - comics

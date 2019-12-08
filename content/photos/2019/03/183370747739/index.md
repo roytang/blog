@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/183370747739/captain-marvel-2016-1-cover-by-kris-anka
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1104925111482806273/
 tags:
 - marvel
 - comics

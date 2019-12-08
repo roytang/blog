@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/182755851905/themarvelproject-marvel-house-ad-for-the-phalanx
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1095260229078564865/
 tags:
 - ireadcomicbooks
 ---

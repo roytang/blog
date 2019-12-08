@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/182045993574/browsethestacks-the-marvelous-cover-art-of
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1085356116371013632/
 tags:
 - ireadcomicbooks
 ---

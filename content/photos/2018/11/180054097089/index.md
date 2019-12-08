@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180054097089/amazing-spider-man-v2-50-by-j-michael
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062163352305233920/
 tags:
 - marvel
 - comics

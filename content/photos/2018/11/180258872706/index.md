@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/180258872706/superman-2018-1-adam-hughes-variant-cover
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1064337697135837184/
 tags:
 - comics
 - dc comics

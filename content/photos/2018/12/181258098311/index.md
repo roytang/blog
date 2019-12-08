@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181258098311/fool-doctor-doom-does-as-he-pleases-spidey-super
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1075571626178211840/
 tags:
 - marvel
 - comics

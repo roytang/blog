@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/179197478248/all-new-x-men-4-by-brian-michael-bendis-and
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1053103684647878657/
 tags:
 - marvel
 - x-men

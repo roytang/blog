@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181094675659/immortal-iron-fist-8-by-fraction-brubaker-and
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1073397373160865792/
 tags:
 - marvel
 - comics
