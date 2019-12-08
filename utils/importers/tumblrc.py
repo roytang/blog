@@ -52,8 +52,9 @@ def get_file_hash(path):
         file_hash.update(chunk)
     return file_hash.hexdigest()
 
-def create_photo_post(p):
-    content = p.get('photo-caption', '')
+def create_photo_post(p, content = None):
+    if content is None:
+        content = p.get('photo-caption', '')
 
     id = p["@id"]
     post = utils.PostBuilder(id, content)
@@ -246,7 +247,7 @@ def import_post(post):
         # already syndicated, no need to process
         return
 
-    # if post["@id"] != "182723247638":
+    # if post["@id"] != "182463223840":
     #     return
 
     # print(ptype)
@@ -265,13 +266,15 @@ def import_post(post):
             pb.params["album"] = "comicbooks"
             pb.save()
 
-    # if ptype == 'regular':
-    #     if 'regular-title' in post:
-    #         create_post(post, "post", post.get('regular-body', ''), { 'title': post.get('regular-title', '') })
-    #         return
-    #     else:
-    #         create_post(post, "notes", post.get('regular-body', ''), {})
-    #         return
+    if ptype == 'regular':
+        body = post.get('regular-body', '')
+        body = BeautifulSoup(body, "html.parser").text
+        pb = create_photo_post(post, body)
+        if len(pb.media) > 0:
+            pb.params["album"] = "comicbooks"
+            pb.save()
+            return
+        print(body)
 
     if ptype == 'photo':
         pb = create_photo_post(post)
@@ -279,42 +282,7 @@ def import_post(post):
         pb.save()
         return
 
-    # if ptype == 'answer':
-    #     caption = "Someone on Tumblr asked:\n\r<blockquote>%s</blockquote>\n\r%s" % (post['question'], post['answer'])
-    #     create_post(post, "notes", caption, {"tags": ["answers"]})
-    #     return
 
-    # if ptype == 'link':
-    #     if 'link-url' in post and post['link-url'].find("://roytang.net") >= 0:
-    #         link_url = urlparse(post['link-url'])
-    #         u = urlmap[link_url.path]
-    #         source_path = Path(u['source_path'])
-    #         full_path = contentdir / source_path
-    #         add_syndication(full_path, post['@url-with-slug'], "tumblr")
-    #         roytangcount = roytangcount+1
-    #         return
-    #     else:
-    #         if 'link-url' in post:
-    #             print('link: %s :: %s' % (post['link-url'], post['@url-with-slug']) )
-    #             caption = post.get('link-description', '')
-    #             if post["@is_reblog"] == 'true':
-    #                 caption = ('[%s](%s)\n\r' % (post.get('link-text'), post.get('link-url'))) + caption
-    #             create_post(
-    #                 post,
-    #                 "links",
-    #                 caption,
-    #                 {
-    #                     "link": {
-    #                         "url": post.get('link-url', ''),
-    #                         "text": post.get('link-text', ''),
-    #                         "source": "tumblr",
-    #                         "source_url": post['@url-with-slug']
-    #                     }
-    #                 }
-    #             )
-    #             return
-
-    # reblogscount = reblogscount + 1
     unprocessed = unprocessed + 1
     if ptype not in countbytype:
         countbytype[ptype] = 1

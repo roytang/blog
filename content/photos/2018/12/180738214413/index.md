@@ -1,0 +1,17 @@
+---
+album: comicbooks
+date: 2018-12-03 02:00:52
+source: tumblr
+syndicated:
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/180738214413/house-of-m-6-by-olivier-coipel
+tags:
+- marvel
+- comics
+- x-men
+- avengers
+- ireadcomicbooks
+- '6'
+---
+
+House of M #6 by Olivier Coipel
