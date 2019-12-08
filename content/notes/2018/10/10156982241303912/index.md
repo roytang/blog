@@ -4,7 +4,11 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156982241303912
-tags: []
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/179008685600/venom-spoiler-free-review
+tags: 
+- ireadcomicbooks
+- spoilerfreerview
 ---
 
 VENOM spoiler-free review:

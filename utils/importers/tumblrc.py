@@ -274,6 +274,7 @@ def import_post(post):
             pb.params["album"] = "comicbooks"
             pb.save()
             return
+        print(purlslug)
         print(body)
 
     if ptype == 'photo':
