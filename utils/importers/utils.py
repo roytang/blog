@@ -381,13 +381,15 @@ class PostBuilder():
         with outfile.open("w", encoding="UTF-8") as w:
             w.write(newfile)
         for m in self.media:
-            filename = m[m.rfind("/")+1:]
-            download_to = outdir / filename
             if m.startswith("file://"):
                 filepath = Path(m.replace("file://", ""))
+                filename = filepath.name
+                download_to = outdir / filename
                 shutil.copy(str(filepath), str(download_to))    
             else:
                 print("Downloading %s" % (m))
+                filename = m[m.rfind("/")+1:]
+                download_to = outdir / filename
                 opener = urllib.request.build_opener()
                 opener.addheaders = [('User-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36')]
                 urllib.request.install_opener(opener)

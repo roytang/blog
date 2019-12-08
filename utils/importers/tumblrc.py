@@ -44,51 +44,45 @@ def get_final_url(url):
         print("Error: " + url)
         return url
 
+import hashlib
+def get_file_hash(path):
+    with open(path, "rb") as f:
+        file_hash = hashlib.md5()
+        chunk = f.read(8192)
+        file_hash.update(chunk)
+    return file_hash.hexdigest()
+
 def create_photo_post(p):
     kind = "photos"
     content = p.get('photo-caption', '')
-    post = frontmatter.Post(content)
+
+    id = p["@id"]
+    post = utils.PostBuilder(id, content)
     d = datetime.strptime(p["@date-gmt"], "%Y-%m-%d %H:%M:%S %Z")
-    post['date'] = d
-    post['syndicated'] = [
-        {
-            "type": "tumblr",
-            "url": p["@url-with-slug"]
-        }
-    ]
+    post.date = d
+    post.add_syndication("tumblr", p["@url-with-slug"])
 
     tags = p.get("tag", [])
     if not isinstance(tags, list):
         tags = [tags]
+    tags.append("ireadcomicbooks")
     if len(tags) > 0:
-        post["tags"] = tags
+        post.tags = tags
 
-    post["source"] = "tumblr"
-    if "photo-link-url" in p:
-        post["photo_link_url"] = p["photo-link-url"]
-    id = p["@id"]
-
-    if p["@is_reblog"] == 'true':
-        kind = "reposts"
-        # ugh this is going to slow us down
-        repost_source = get_repost_source(p["@url-with-slug"])
-        if not repost_source:
-            return # exception getting the url, let's just fail
-        post['repost_source'] = repost_source
-
-    outdir = contentdir / kind / d.strftime("%Y") / d.strftime("%m") / id
-    if not outdir.exists():
-        outdir.mkdir(parents=True)
-    outfile = outdir / "index.md"
-
-    newfile = frontmatter.dumps(post)
-    with outfile.open("w", encoding="UTF-8") as w:
-        w.write(newfile)
+    post.source = "tumblr"
 
     # find photos
+    filehashes = []
+
     for imgfile in mediadir.glob(id + "*.*"):
-        to_file = outdir / imgfile.name
-        shutil.copy(str(imgfile), str(to_file))    
+        filehash = get_file_hash(imgfile)
+        if filehash in filehashes:
+            # duplicate of already processed image, ignore
+            continue
+        filehashes.append(filehash)
+        post.media.append("file://" + str(imgfile))
+
+    return post
 
 def get_repost_source(url):
     try:
@@ -247,7 +241,12 @@ def import_post(post):
 
     ptype = post['@type']
     purl = post["@url"]
-    # if post["@id"] != "180811685048":
+
+    if purl in urlmap:
+        # already syndicated, no need to process
+        return
+
+    # if post["@id"] != "182723247638":
     #     return
 
     # print(ptype)
@@ -259,7 +258,12 @@ def import_post(post):
         if repost_source["url"] in urlmap:
             um = urlmap[repost_source["url"]]
             utils.add_syndication(utils.urlmap_to_mdfile(um), purl, "tumblr")
-        print(repost_source)
+        else:
+            pb = create_photo_post(post)
+            pb.kind = "reposts"
+            pb.params["repost_source"] = repost_source
+            pb.params["album"] = "comicbooks"
+            pb.save()
     else:
         return
 
