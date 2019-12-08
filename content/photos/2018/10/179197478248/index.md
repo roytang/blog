@@ -1,0 +1,16 @@
+---
+album: comicbooks
+date: 2018-10-19 02:00:58
+source: tumblr
+syndicated:
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/179197478248/all-new-x-men-4-by-brian-michael-bendis-and
+tags:
+- marvel
+- x-men
+- comics
+- ireadcomicbooks
+- '4'
+---
+
+<p>All New X-Men #4 by Brian Michael Bendis and Stuart Immonen<br/></p>

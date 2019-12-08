@@ -1,0 +1,19 @@
+---
+album: comicbooks
+date: 2018-12-20 02:00:33
+source: tumblr
+syndicated:
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/181258098311/fool-doctor-doom-does-as-he-pleases-spidey-super
+tags:
+- marvel
+- comics
+- doctor doom
+- namor
+- ireadcomicbooks
+- '53'
+---
+
+<p>Fool! Doctor Doom does as he pleases! Spidey Super Stories Vol 1 #53
+
+(July, 1981)<br/></p>

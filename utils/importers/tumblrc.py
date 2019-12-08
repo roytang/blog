@@ -53,7 +53,6 @@ def get_file_hash(path):
     return file_hash.hexdigest()
 
 def create_photo_post(p):
-    kind = "photos"
     content = p.get('photo-caption', '')
 
     id = p["@id"]
@@ -61,6 +60,7 @@ def create_photo_post(p):
     d = datetime.strptime(p["@date-gmt"], "%Y-%m-%d %H:%M:%S %Z")
     post.date = d
     post.add_syndication("tumblr", p["@url-with-slug"])
+    post.kind = "photos"
 
     tags = p.get("tag", [])
     if not isinstance(tags, list):
@@ -241,8 +241,8 @@ def import_post(post):
 
     ptype = post['@type']
     purl = post["@url"]
-
-    if purl in urlmap:
+    purlslug = post["@url-with-slug"]
+    if purl in urlmap or purlslug in urlmap:
         # already syndicated, no need to process
         return
 
@@ -253,8 +253,8 @@ def import_post(post):
     
     if post['@is_reblog'] == 'true':
         reblogscount = reblogscount + 1
-        print(post["@url-with-slug"])
-        repost_source = get_repost_source(post["@url-with-slug"])
+        print()
+        repost_source = get_repost_source(purlslug)
         if repost_source["url"] in urlmap:
             um = urlmap[repost_source["url"]]
             utils.add_syndication(utils.urlmap_to_mdfile(um), purl, "tumblr")
@@ -264,9 +264,6 @@ def import_post(post):
             pb.params["repost_source"] = repost_source
             pb.params["album"] = "comicbooks"
             pb.save()
-    else:
-        return
-
 
     # if ptype == 'regular':
     #     if 'regular-title' in post:
@@ -276,63 +273,11 @@ def import_post(post):
     #         create_post(post, "notes", post.get('regular-body', ''), {})
     #         return
 
-    # if ptype == 'quote':
-    #     caption = "<blockquote>%s</blockquote>" % (post['quote-text'])
-    #     source = post.get('quote-source', '')
-    #     if len(source) > 0:
-    #         caption = caption + ("\n\r--%s" % (source))
-    #     create_post(post, "notes", caption, {"tags": ["quotes"]})
-    #     return
-
-    # if ptype == 'video':
-    #     player = post['video-player'][0]
-    #     if player is not None and player != "None":
-    #         caption = "%s\n\r%s" % (post['video-caption'], player)
-    #     else:
-    #         u = urlparse(post['video-source'])
-    #         v = parse_qs(u.query)['v'][0]
-    #         caption = "%s\n\r{{< youtube %s >}}" % (post['video-caption'], v)
-    #     create_post(post, "notes", caption, {"tags": ["video"]})
-    #     return
-
-    # if ptype == 'photo':
-    #     if 'photo-link-url' in post:
-    #         url = post['photo-link-url']
-    #         if url.startswith("https://www.instagram.com/"):
-    #             url = urlparse(url)
-    #             url = "https://instagram.com" + url.path
-    #             if url in urlmap:
-    #                 u = urlmap[url]
-    #                 source_path = Path(u['source_path'])
-    #                 full_path = contentdir / source_path
-    #                 add_syndication(full_path, post['@url-with-slug'], "tumblr")
-    #                 instagramcount = instagramcount + 1
-    #                 return
-
-    #     if 'photo-caption' in post:
-    #         tags = post.get("tag", [])
-    #         # processed photos imported to tumblr via IFTTT
-    #         if len(tags) == 2 and "IFTTT" in tags and "Instagram" in tags:
-    #             text = post['photo-caption']
-    #             p = MyParser()
-    #             p.feed(text)
-    #             for u in p.output_list:
-    #                 url = get_final_url(u)
-    #                 if url.startswith("https://www.instagram.com/"):
-    #                     # remove my username as needed
-    #                     url = url.replace("/roytang0400", "")
-    #                     url = urlparse(url)
-    #                     url = "https://instagram.com" + url.path
-    #                     if url in urlmap:
-    #                         u = urlmap[url]
-    #                         source_path = Path(u['source_path'])
-    #                         full_path = contentdir / source_path
-    #                         add_syndication(full_path, post['@url-with-slug'], "tumblr")
-    #                         instagramcount = instagramcount + 1
-    #                         return
-
-    #     create_photo_post(post)
-    #     return
+    if ptype == 'photo':
+        pb = create_photo_post(post)
+        pb.params["album"] = "comicbooks"
+        pb.save()
+        return
 
     # if ptype == 'answer':
     #     caption = "Someone on Tumblr asked:\n\r<blockquote>%s</blockquote>\n\r%s" % (post['question'], post['answer'])

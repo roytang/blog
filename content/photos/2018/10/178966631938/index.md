@@ -1,0 +1,15 @@
+---
+album: comicbooks
+date: 2018-10-12 02:00:57
+source: tumblr
+syndicated:
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/178966631938/amazing-spider-man-672-written-by-dan-slott-art
+tags:
+- marvel
+- spider-man
+- comics
+- ireadcomicbooks
+---
+
+<p>Amazing Spider-Man 672, written by Dan Slott, art by Humberto Ramos<br/></p>
