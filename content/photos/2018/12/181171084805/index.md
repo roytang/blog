@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1074362328882257921/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157126962883912
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/181189289135
 tags:
 - spider-man
 - into the spider verse

@@ -7,7 +7,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1105619571036377088/
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1105648208741654529/  
+  url: https://twitter.com/roytang/statuses/1105648208741654529/
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/183439449612
 tags:
 - green arrow
 - green lantern

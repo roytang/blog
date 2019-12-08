@@ -10,6 +10,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/39956010779/awesome-jean-greys-life-reference-by-stuart
 - type: twitter
   url: https://twitter.com/roytang/statuses/288404380573638656/
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/180362050416
 ---
 
 <blockquote>

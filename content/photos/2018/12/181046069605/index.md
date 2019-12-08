@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1072846222283677696/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157118240223912
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/181046084670
 tags:
 - dc comics
 - arrowverse
