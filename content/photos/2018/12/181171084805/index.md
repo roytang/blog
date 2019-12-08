@@ -11,7 +11,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157126962883912
 - type: tumblr
-  url: https://ireadcomicbooks.tumblr.com/post/181189289135
+  url: https://ireadcomicbooks.tumblr.com/post/181189289135/roytang-into-the-spider-verse-spoiler-free
 tags:
 - spider-man
 - into the spider verse

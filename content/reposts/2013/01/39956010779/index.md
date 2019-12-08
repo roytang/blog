@@ -11,7 +11,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/288404380573638656/
 - type: tumblr
-  url: https://ireadcomicbooks.tumblr.com/post/180362050416
+  url: https://ireadcomicbooks.tumblr.com/post/180362050416/roytang-awesome-jean-greys-life-reference
 ---
 
 <blockquote>

@@ -9,7 +9,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157118240223912
 - type: tumblr
-  url: https://ireadcomicbooks.tumblr.com/post/181046084670
+  url: https://ireadcomicbooks.tumblr.com/post/181046084670/roytang-arrowverse-elseworlds-crossover
 tags:
 - dc comics
 - arrowverse

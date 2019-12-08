@@ -9,7 +9,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1105648208741654529/
 - type: tumblr
-  url: https://ireadcomicbooks.tumblr.com/post/183439449612
+  url: https://ireadcomicbooks.tumblr.com/post/183439449612/roytang-green-lantern-green-arrow-85-dc
 tags:
 - green arrow
 - green lantern

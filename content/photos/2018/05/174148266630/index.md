@@ -7,7 +7,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/998948291193778182/
 - type: tumblr
-  url: https://ireadcomicbooks.tumblr.com/post/180570749755
+  url: https://ireadcomicbooks.tumblr.com/post/180570749755/roytang-uncanny-x-men-325-for-some-reason-i
 ---
 
 <p>Uncanny X-Men #325 For some reason I always liked the Wolverine and Colossus commentary in this issue</p>

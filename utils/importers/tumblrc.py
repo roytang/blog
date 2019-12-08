@@ -258,13 +258,14 @@ def import_post(post):
         repost_source = get_repost_source(purlslug)
         if repost_source["url"] in urlmap:
             um = urlmap[repost_source["url"]]
-            utils.add_syndication(utils.urlmap_to_mdfile(um), purl, "tumblr")
+            utils.add_syndication(utils.urlmap_to_mdfile(um), purlslug, "tumblr")
         else:
             pb = create_photo_post(post)
             pb.kind = "reposts"
             pb.params["repost_source"] = repost_source
             pb.params["album"] = "comicbooks"
             pb.save()
+
 
     if ptype == 'regular':
         body = post.get('regular-body', '')
