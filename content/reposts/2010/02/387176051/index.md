@@ -1,7 +1,7 @@
 ---
 date: 2010-02-13 13:13:54
 repost_source:
-  name: tumlbr
+  name: tumblr
   type: tumblr
   url: https://tumblr.roytang.net/post/387176051/warning-corny-crappykid-nakakaaliw-naman
 source: tumblr
