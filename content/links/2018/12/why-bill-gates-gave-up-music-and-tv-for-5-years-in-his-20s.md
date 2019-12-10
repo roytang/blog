@@ -8,4 +8,7 @@ link:
 slug: why-bill-gates-gave-up-music-and-tv-for-5-years-in-his-20s
 source: pocket
 title: Why Bill Gates gave up music and TV for 5 years in his 20s
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1071860080805642241/
 ---
