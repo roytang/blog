@@ -20,6 +20,10 @@ I have been working professionally as a software developer, technical lead and s
 
 <table>
 <tr>
+<td style="width: 20%">2016-2020</td>
+<td>Freelance software developer, technical lead, and software architect consultant, various projects and clients.</td>
+</tr>
+<tr>
 <td style="width: 20%">2019</td>
 <td><strong><a href="https://www.bodiesapp.com/">BodiesApp</a></strong> - Technical Consultant</td>
 </tr>
@@ -30,10 +34,6 @@ I have been working professionally as a software developer, technical lead and s
 <tr>
 <td style="width: 20%">2016-2019</td>
 <td><strong><a href="https://healthblocks.ph">Healthblocks</a></strong> - Solution Architect and Technical Consultant lead</td>
-</tr>
-<tr>
-<td style="width: 20%">2016-2018</td>
-<td>Various freelance projects</td>
 </tr>
 <tr>
 <td style="width: 20%">2003-2015</td>
