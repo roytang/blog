@@ -1,7 +1,7 @@
 [
     { 
         "Name": "Blog",
-        "URL": "/post/"
+        "URL": "/blog/"
     },
     { 
         "Name": "Photos",
