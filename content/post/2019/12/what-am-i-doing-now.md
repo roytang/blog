@@ -3,6 +3,9 @@ title: "What Am I Doing Now"
 date: 2019-12-16T23:24:27+08:00
 tags:
 - meta
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1206806712650362880/
 ---
 
 A few days ago, a friend from a company I used to work for said to me something along the lines of "{Company Executive} asked me how you are doing", and I couldn't give anything other than a pithy "I'm alive" answer.
