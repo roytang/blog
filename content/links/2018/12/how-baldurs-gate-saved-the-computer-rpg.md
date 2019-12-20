@@ -8,4 +8,7 @@ link:
 slug: how-baldurs-gate-saved-the-computer-rpg
 source: pocket
 title: "How \u2018Baldur\u2019s Gate\u2019 Saved the Computer RPG"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1076199423502364674/
 ---
