@@ -572,3 +572,8 @@ div.grid3 {
     margin-bottom: 1em;
 }
 
+figcaption {
+    font-size: 0.9em;
+    font-weight: bolder;
+    text-align: center;
+}
