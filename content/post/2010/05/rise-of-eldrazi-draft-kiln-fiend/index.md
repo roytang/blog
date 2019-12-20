@@ -21,6 +21,7 @@ wp_jd_bitly:
 - http://bit.ly/aWIbSv
 wp_jd_target:
 - http://mtgstorm.com/2010/05/rise-of-eldrazi-draft-kiln-fiend/
+dontinlinephotos: true
 ---
 
 <link rel='stylesheet' href='http://mtgstorm.com/drafts/draft.css' />
@@ -38,8 +39,7 @@ Powered by MtgStorm Draft Converter</p>
 
 Here's the final deck:
   
-[<img src="http://roytang.net/wp-content/uploads/2010/05/UR-kiln-fiend-deck-300x187.png" alt="" title="UR-kiln-fiend-deck" width="300" height="187" class="aligncenter size-medium wp-image-48" srcset="https://roytang.net/wp-content/uploads/2010/05/UR-kiln-fiend-deck-300x187.png 300w, https://roytang.net/wp-content/uploads/2010/05/UR-kiln-fiend-deck-1024x640.png 1024w, https://roytang.net/wp-content/uploads/2010/05/UR-kiln-fiend-deck.png 1440w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+{{< img src="UR-kiln-fiend-deck.png" alt="MTGO screenshot" >}}
 
 I easily won rounds one and two of the draft, but lost the finals to an RG deck that had great draws while I didn't have any Kiln Fiend blowouts.
 
- [1]: http://roytang.net/wp-content/uploads/2010/05/UR-kiln-fiend-deck.png

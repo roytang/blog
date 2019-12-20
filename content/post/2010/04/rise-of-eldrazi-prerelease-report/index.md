@@ -19,6 +19,9 @@ wp_jd_bitly:
 - http://bit.ly/9baEIH
 wp_jd_target:
 - http://mtgstorm.com/2010/04/rise-of-eldrazi-prerelease-report/
+resources:
+- src: 18042010051.jpg
+  title: 'My 2-2 record wins me only two packs, where I got these not-so-awesome rares'
 ---
 
 I played in the Rise of Eldrazi Prerelease Event yesterday at Eton Cyberpod in the Ortigas area. It was a new mall, so I went there a bit before opening time in case I had trouble finding the venue. Turns out that wouldn't be a problem as there were a bunch of Magic players outside the mall waiting for it to open when I got there. It turns out that the mall had recently changed it's opening hours from 10 AM to 11 AM though, so we all had to wait outside in the heat for an additional hour before we could start the event. =/
@@ -291,10 +294,8 @@ My lack of review about the limited format shows up here, as I misread the green
 
 **Round 4** vs G/R/W. He takes a quick game one, but I manage to stall out game two with a 2 {{< card >}}Souls Attendants{{< /card >}} start. He has a lot of Eldrazi spawn generation going so I gain something like 20 life off of them before I finish the game by getting {{< card >}}Lord of Shatterskull Pass{{< /card >}} to level 6. We have only around 15 minutes left for game 3, but unfortunately I have to mull to six and start with a two-lander. I don't draw lands for the first 5-6 turns, but stay alive due to cheap removal and drawing the 2 {{< card >}}Souls Attendants{{< /card >}} again. I finally start drawing lands and claw my way back, eventually managing to play a {{< card >}}Conquering Manticore{{< /card >}} that can break through the sky and he's unable to answer it. **2-2 matches, 5-6 games**.
 
-I'm disappointed with my performance -- I think this has been my worst prerelease in a while.My 2-2 record wins me only two packs, where I got these not-so-awesome rares:
-
-[<img class="aligncenter size-medium wp-image-40" title="18042010051" src="http://roytang.net/wp-content/uploads/2010/04/18042010051-300x225.jpg" alt="" width="300" height="225" srcset="https://roytang.net/wp-content/uploads/2010/04/18042010051-300x225.jpg 300w, https://roytang.net/wp-content/uploads/2010/04/18042010051-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+I'm disappointed with my performance -- I think this has been my worst prerelease in a while.
 
 Next: I'll post more detailed thoughts on RoE limited.
 
- [1]: http://roytang.net/wp-content/uploads/2010/04/18042010051.jpg
+ 

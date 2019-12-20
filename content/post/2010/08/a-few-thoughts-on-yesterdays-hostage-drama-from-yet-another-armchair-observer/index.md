@@ -7,11 +7,10 @@ type: post
 url: /2010/08/a-few-thoughts-on-yesterdays-hostage-drama-from-yet-another-armchair-observer/
 tags:
 - current events
+dontinlinephotos: true
 ---
 
-<div>
-  <a href="http://roytang.net/wp-content/uploads/2010/08/tactical_facepalm.jpg"><img class="aligncenter size-full wp-image-710" title="tactical_facepalm" src="http://roytang.net/wp-content/uploads/2010/08/tactical_facepalm.jpg" alt="" width="480" height="384" srcset="https://roytang.net/wp-content/uploads/2010/08/tactical_facepalm.jpg 600w, https://roytang.net/wp-content/uploads/2010/08/tactical_facepalm-300x240.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /></a>
-</div>
+{{< img src="tactical_facepalm.jpg" alt="Tactical Facepalm" >}}
 
 **August 23, 2010**: A disgruntled and decorated police officer who had been dismissed on charges of extortion took hostage a bus full of tourists from Hong Kong. The hostage drama unfolded in front of the Quirino Grandstand in Manila with the expected media circus, confused cops and SWAT who didn’t know what to do and a tragic ending that involved dead hostages and a bullet to the head.
 
