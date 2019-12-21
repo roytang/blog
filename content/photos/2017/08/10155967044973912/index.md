@@ -6,6 +6,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155967044973912
 tags:
 - timeline-photos
+- tv
+- spoiler-free-review
 ---
 
 DEFENDERS spoiler-free review and episode guide:

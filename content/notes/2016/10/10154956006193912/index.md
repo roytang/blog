@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154956006193912
-tags: []
+tags: 
+- tv
+- spoiler-free-review
 ---
 
 Luke Cage spoiler-free review:

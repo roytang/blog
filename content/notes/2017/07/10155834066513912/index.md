@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155834066513912
-tags: []
+tags: 
+- movies
+- spoiler-free-review
 ---
 
 Spider-man Homecoming Spoiler-free review:

@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154796013953912
-tags: []
+tags: 
+- movies
+- spoiler-free-review
 ---
 
 SUICIDE SQUAD Spoiler-Free Review:

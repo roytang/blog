@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155413680773912
-tags: []
+tags: 
+- movies
+- spoiler-free-review
 ---
 
 Right. I watched Logan yesterday.

@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154253842668912
 tags: 
 - movies
+- spoiler-free-review
 ---
 
 As is tradition, my spoiler-free review of The Force Awakens: 

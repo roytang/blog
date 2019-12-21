@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156326129133912
-tags: []
+tags: 
+- tv
+- spoiler-free-review
 ---
 
 Black Mirror S4 spoiler-free review!

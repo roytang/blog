@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155378247863912
 tags: 
 - movies
+- spoiler-free-review
 ---
 
 Arrival spoiler-free review:

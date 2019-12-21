@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154367398403912
 tags: 
 - movies
+- spoiler-free-review
 ---
 
 Here we go, DEADPOOL spoiler-free review: 

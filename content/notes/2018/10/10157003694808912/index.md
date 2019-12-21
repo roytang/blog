@@ -10,7 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1054535545068679168/
 tags:
 - ireadcomicbooks
-- spoilerfreerview
+- spoiler-free-review
 ---
 
 Daredevil Season 3 spoiler-free review

@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155193559958912
 tags: 
 - movies
+- spoiler-free-review
 ---
 
 ROGUE ONE Spoiler-free review:

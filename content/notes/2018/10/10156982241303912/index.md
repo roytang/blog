@@ -10,7 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1051079317776715776/
 tags:
 - ireadcomicbooks
-- spoilerfreerview
+- spoiler-free-review
+- movies
 ---
 
 VENOM spoiler-free review:

@@ -12,6 +12,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10157118257318912
 tags:
 - timeline-photos
+- movies
+- spoiler-free-review
 ---
 
 Aquaman Spoiler-Free review!

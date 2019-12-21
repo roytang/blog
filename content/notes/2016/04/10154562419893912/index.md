@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154562419893912
-tags: []
+tags: 
+- movies
+- spoiler-free-review
 ---
 
 Captain America Civil War spoiler-free review:

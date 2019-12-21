@@ -17,6 +17,8 @@ tags:
 - into the spider verse
 - marvel
 - comics
+- spoiler-free-review
+- movies
 ---
 
 <p>

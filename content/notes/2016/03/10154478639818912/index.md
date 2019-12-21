@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154478639818912
 tags: 
 - movies
+- spoiler-free-review
 ---
 
 Batman vs Superman Dawn of Justice Spoiler-Free Review: 

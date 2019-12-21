@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156133009878912
-tags: []
+tags: 
+- movies
+- spoiler-free-review
 ---
 
 THOR RAGNAROK spoiler-free review:
