@@ -119,3 +119,5 @@ I post about a random assortment of topics that interest me including [software 
     extensions = []
     extensionmask = []
 
+[markup.goldmark.renderer]
+    unsafe= true
