@@ -6,6 +6,11 @@ tags:
 resources:
 - src: howtowatchastarwar.png
   title: Comic does not reflect my viewing experience
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1208611412697698304/
+- type: facebook
+  url: https://www.facebook.com/photo.php?fbid=10158023153908912&set=a.126100068911&type=3
 ---
 
 RISE OF SKYWALKER Spoiler-free review:
