@@ -2,7 +2,7 @@
 date: 2019-12-22 12:00:00
 tags: 
 - movies
-- spoiler-free-review
+- pop culture
 title: 'Star Wars: Rise of Skywalker (spoilers!)'
 ---
 
