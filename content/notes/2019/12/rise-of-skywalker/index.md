@@ -3,6 +3,9 @@ date: 2019-12-22 12:00:00
 tags: 
 - movies
 - spoiler-free-review
+resources:
+- src: howtowatchastarwar.png
+  title: Comic does not reflect my viewing experience
 ---
 
 RISE OF SKYWALKER Spoiler-free review:
