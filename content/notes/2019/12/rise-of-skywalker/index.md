@@ -1,5 +1,5 @@
 ---
-date: 2019-12-22 12:00:00
+date: 2019-12-22
 tags: 
 - movies
 - spoiler-free-review
@@ -19,5 +19,6 @@ RISE OF SKYWALKER Spoiler-free review:
 - magugustuhan ba ni Mama: The movie is generally family-friendly (outside of the violence), but my mom doesn't like space battles and she would probably be confused by the rapid pace of events and all these characters she's not familiar with, so no.
 - I watched in IMAX 3D, but I don't think there was much noticeable 3D, the movie is probably perfectly fine without IMAX
 - there is no post-credits scene
+- I think I liked *The Last Jedi* more than this one
 
 I have a bit more [spoilery comments posted here](/2019/12/star-wars-rise-of-skywalker-spoilers/).

@@ -1,5 +1,5 @@
 ---
-date: 2019-12-22 12:00:00
+date: 2019-12-22
 tags: 
 - movies
 - pop culture
