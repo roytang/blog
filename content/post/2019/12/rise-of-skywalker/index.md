@@ -1,6 +1,9 @@
 ---
 date: 2019-12-22
-tags: 
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1208616239091859456/
+tags:
 - movies
 - pop culture
 title: 'Star Wars: Rise of Skywalker (spoilers!)'
