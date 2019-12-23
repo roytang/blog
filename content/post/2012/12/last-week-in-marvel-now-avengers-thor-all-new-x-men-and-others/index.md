@@ -5,6 +5,11 @@ source: ireadcomicbooks
 tags:
 - comics
 title: 'Last Week In Marvel NOW!: Avengers, Thor, All-New X-Men and others'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/282892823555080192/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/128572420635591
 ---
 
 It's "Last Week in Marvel NOW!" since this is going up on Sunday/Monday. And what a lot of Marvel NOW! we got, since many of the top titles are double shipping this month. Hopefully the schedule normalizes back to monthlies soon, I'm already reading far too many books as it is! (Well, that's kind of a good problem to have right?) Luckily Marvel only has two books coming out on Christmas week, gives me some time to catch up.
