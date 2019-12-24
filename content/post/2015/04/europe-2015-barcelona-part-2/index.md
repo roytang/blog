@@ -11,25 +11,6 @@ tags:
 title: 'Europe 2015: Barcelona Part 2'
 type: post
 url: /2015/04/europe-2015-barcelona-part-2/
-dontinlinephotos: true
-resources:
-- src: petanque.jpg
-  title: 'Googling "barcelona street game where old men throw metal balls" tells us this is called Petanque. -- Photo credit: Ryan Liwanag'
-- src: park-guell-roof.jpg
-  title: 'The roof of the columned area looks like shattered plates -- Photo Credit: Ryan Liwanag'
-- src: park-guell.jpg
-  title: 'This lizard is kind of a big deal, souvenir shops often have keychains featuring it. Photo credit: Ryan Liwanag'
-- src: paella.jpg
-  title: 'Yummy paella!'  
-- src: sagrada1.jpg
-  title: Sagrada Familia -- Under Construction
-- src: sagrada2.jpg
-  title: South facade of the Sagrada Familia -- it looks like some sort of Nativity scene
-- src: hospital_sant_pau.jpg
-  title: 'Hospital Sant Pau -- Photo Credit: Ryan Liwanag'
-- src: hospital_sant_pau_2.jpg
-  title: Another view of the hospital
-  
 ---
 
 _Previously: I [went to Europe][1], decided I should tell you more about it and [started talking about Barcelona][2]_
@@ -40,7 +21,7 @@ For today, we had decided to visit Park Güell, a Barcelona tourist spot creat
 
 The park was some 4 to 5 kilometers north of our hostel by foot, though as usual we took a more leisurely pace. One of the interesting things we saw along the way was a park-like area near a major thoroughfare where we found a number of old men (and one young man apparently playing hooky on what should be a school day) playing some sort of game which involved tossing metal balls around in a sand-covered lot.
 
-{{< img src="petanque.jpg" >}}
+{{< photo "2015/04/europe-trip/" "petanque" >}}
 
 There were benches nearby so we sat there for a while observing the game and trying to figure out the rules. As far as we could tell, first they toss a smaller ball that then acts as a target, and they have to lob the larger metal balls as close as possible to the target.
 
@@ -52,13 +33,13 @@ We climbed up a hilly area that afforded a good view of the city of Barcelona be
 
 I have not much to say about the Park itself, given my lack of architectural and artistic vocabulary. There's a large columned area where the roof is lined with what I could describe as shattered plates, an impression which would turn out to be typical of Gaudi's work.
 
-{{< img src="park-guell-roof.jpg" >}}
+{{< photo "2015/04/europe-trip/" "park-guell-roof" >}}
 
 The columned area is surrounded by a gardens area on one side and on the other side an overhang held up by a series of earthy stone columns one of which is carved in the shape of a washer-woman (which took us a few minutes to find). There's also an actual school inside the park (I'm not sure how that works with the entrance fees) so we get to see a playground full of children enjoying themselves as we walk around the side area to get to the actual front of the park.
 
 The front gate of the park features two guardhouses that give me the impression of gingerbread houses (though one of them was undergoing renovation). The gate opens to an intricately decorated walkway leading up back to the columned area. By intricately decorated, I mean there's more of the shattered plates designs everywhere.
 
-{{< img src="park-guell.jpg" >}}
+{{< photo "2015/04/europe-trip/" "park-guell" >}}
 
 After touring the park we were kind of beat, and we had not yet had lunch despite it being late afternoon. So we decided to take a taxi back to the hostel and rest a bit before heading out to search for some paella.
 
@@ -66,7 +47,7 @@ When we were ready to head out, the person at the hostel reception desk recommen
 
 Undaunted, we walked around a bit for an alternative before settling on a small bar that advertised paella at less than 10 euros each. The proprietor turned out to be a Chinese person affording us the opportunity to miscommunicate with him in two languages as he did not speak English. Paella is a Valencian dish although it's also common in Catalonia, so I went with Paella Valenciana (okay, it's also because I eat meat and not seafood)
 
-{{< img src="paella.jpg" >}}
+{{< photo "2015/04/europe-trip/" "paella" >}}
 
 After partaking heartily of the delicious paella which took a while to cook, we also ordered some churros with chocolate dip before heading back to the hostel and crashing for the day.
 
@@ -78,19 +59,19 @@ We headed out Tuesday with the intent of visiting the Sagrada Familia and not m
 
 The Sagrada Familia itself is a church designed by Gaudi, a large somewhat out-of-place structure occupying one of these city blocks. One of the hostel people had told us its' history, about how it was started back in the 1800s and that construction was still ongoing up to now. There's a fee for going inside the church, with the funds contributing to the construction.
 
-{{< img src="sagrada1.jpg" >}}
+{{< photo "2015/04/europe-trip/" "sagrada1" >}}
 
 We opt not to go inside, as the facade of the church already offers a lot to see. There seemed to be three different facades and numerous spires, each lined with decorations and statues of a different theme.
 
-{{< img src="sagrada2.jpg" >}}
+{{< photo "2015/04/europe-trip/" "sagrada2" >}}
 
 We spent some time admiring the structure, and even a few minutes in an FC Barcelona exhibit right across the street. Afterwards, we headed up a slightly-inclined street towards one of the tourist spots highlighted on our map before deciding to have a late lunch in one of the open air restaurant areas in the middle of the street.
 
 We managed to arrive at the Sant Pau hospital knowing nothing about what it is other than it was a nearby spot on our tourist map. The sign outside tells us it's a UNESCO world heritage site, but it doesn't look too impressive from the outside. Nonetheless we paid to go inside and we were surprised to find that it's actually a rather large complex with a number of elaborately-designed buildings inside.
 
-{{< img src="hospital_sant_pau.jpg" >}}
+{{< photo "2015/04/europe-trip/" "hospital_sant_pau" >}}
 
-{{< img src="hospital_sant_pau_2.jpg" >}}
+{{< photo "2015/04/europe-trip/" "hospital_sant_pau_2" >}}
 
 This place was a hospital during wartime. It's no longer a hospital though, the hospital was moved to a modern site. It's currently a museum and cultural center and some of the buildings are being used as UNESCO offices. There are almost a dozen buildings lining a central plaza dotted with orange trees. Each building has a different facade, though all in the same style, designed by the Catalan architect Lluís Domènech i Montaner. There was some sort of media event going on though, and we were only able to visit a few of the buildings. The thing about visiting these types of architectural displays is that we're always walking around with our heads tilted upwards.
 

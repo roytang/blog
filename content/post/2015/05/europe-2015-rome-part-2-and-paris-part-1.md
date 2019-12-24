@@ -13,43 +13,33 @@ type: post
 url: /2015/05/europe-2015-rome-part-2-and-paris-part-1/
 ---
 
-_Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Rome and Vatican City][4]_
+_Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Rome and Vatican City][4] | [Europe trip photo album](/album/europe2015)_
 
 **Friday March 13th**
 
 This was our last day in Rome and we were planning to visit the Colosseum and the nearby Palatino Hill. It was a long walk and we passed by a few palaces and the usual open plazas, many of the landmarks identified by Egpytian obelisks placed there by the Roman emperors. Rome is chock-full of cobblestone roads and plazas lined with souvenir shops and pizzerias and buildings fronted by 12-foot-high steel doors with large lion-head knockers and churches liberally sprinkled every other block. One of the churches we passed through was the Santa Maria in Cosmedin church which featured the Bocca del Verita/Mouth of Truth, made famous by the 1953 film Roman Holiday. There's a short queue outside the church for tourists wanting to take a picture at the Mouth of Truth.
 
-<figure id="attachment_1072" class="wp-caption aligncenter">
-
-<img class="size-full wp-image-1072" src="http://roytang.net/wp-content/uploads/2015/05/mouthoftruth.jpg" alt="Supposedly if you lie with your hand inside the mouth, you will lose your hand. I would have pretended to lose my hand, but the guy ahead of us in the queue already did that gag" srcset="https://roytang.net/wp-content/uploads/2015/05/mouthoftruth.jpg 638w, https://roytang.net/wp-content/uploads/2015/05/mouthoftruth-300x224.jpg 300w, https://roytang.net/wp-content/uploads/2015/05/mouthoftruth-402x300.jpg 402w" sizes="(max-width: 638px) 100vw, 638px" /><figcaption class="wp-caption-text">Supposedly if you lie with your hand inside the mouth, you will lose your hand. I would have pretended to lose my hand, but the guy ahead of us in the queue already did that gag. Photo Credit: Ryan Liwanag</figcaption></figure> 
+{{< photo "2015/04/europe-trip/" "mouthoftruth" >}}
 
 The church itself wasn't too large -- it was only a minor basilica, but there was a display of the relics of St. Valentine.
 
 We also passed by a large elliptical open field on the way to the Colosseum, which we found out later to be the site of the Circus Maximus. It used to be the site of ancient Roman chariot races. For some reason, I decided to pick up a rock from the field and take it back home as a souvenir (hopefully not illegal LOL)
 
-<figure id="attachment_1074" class="wp-caption aligncenter">
-
-<img class="wp-image-1074 size-full" src="http://roytang.net/wp-content/uploads/2015/05/circus_maximus.jpg" alt="circus_maximus" srcset="https://roytang.net/wp-content/uploads/2015/05/circus_maximus.jpg 3264w, https://roytang.net/wp-content/uploads/2015/05/circus_maximus-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/05/circus_maximus-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/05/circus_maximus-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" /><figcaption class="wp-caption-text">The Circus Maximus reminds me of the UP Sunken Garden, although it is significantly longer</figcaption></figure> 
+{{< photo "2015/04/europe-trip/" "circus-maximus" >}}
 
 After that we arrived at the Colosseum itself. Outside the Colosseum were the usual merchants selling various souvenirs including replica Roman soldier helmets and swords. I asked the merchant how much one of them was an he jokingly told me it was one million euro. There were some people offering guided tours, but we decided to go our own this time. The ticket price was 16 euro for a combination ticket that gave us access to the Colosseum and the nearby Palatino Hill and Roman forum.
 
-<figure id="attachment_1078" class="wp-caption aligncenter">
-
-<img class="size-full wp-image-1078" src="http://roytang.net/wp-content/uploads/2015/05/colo-outside.jpg" alt="The outside of the Colosseum - the pillars are riddled with holes" srcset="https://roytang.net/wp-content/uploads/2015/05/colo-outside.jpg 3264w, https://roytang.net/wp-content/uploads/2015/05/colo-outside-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/05/colo-outside-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/05/colo-outside-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" /><figcaption class="wp-caption-text">The outside of the Colosseum -- the pillars are riddled with holes</figcaption></figure> 
+{{< photo "2015/04/europe-trip/" "colo-outside" >}}
 
 The Colosseum had a few exhibits inside showing artifacts recovered from the site that gave insights as to how the ancient Romans enjoyed the games, including graffiti from the stone seats depicting Roman gladiators and pots and pans indicating the audience cooked meals while watching.
 
-<figure id="attachment_1077" class="wp-caption aligncenter">
-
-<img class="size-full wp-image-1077" src="http://roytang.net/wp-content/uploads/2015/05/colo-inside.jpg" alt="There's a mess of tunnels underneath what used to be the Colosseum floor - they raised up animals using trapdoor platforms from this level" srcset="https://roytang.net/wp-content/uploads/2015/05/colo-inside.jpg 3264w, https://roytang.net/wp-content/uploads/2015/05/colo-inside-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/05/colo-inside-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/05/colo-inside-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" /><figcaption class="wp-caption-text">There's a mess of tunnels underneath what used to be the Colosseum floor -- they raised up animals using trapdoor platforms from this level</figcaption></figure> 
+{{< photo "2015/04/europe-trip/" "colo-inside" >}}
 
 The Colosseum has three levels and a basement level, although our ticket did not allow us access to the basement. It was thankfully a rather warm day although still a bit windy, as we spent some time going around the first and second levels. I had to resist the urge to shout "ARE YOU NOT ENTERTAINED?!?"
 
 Just across the street from the Colosseum and up an inclined road was the entrance to the Palatine Hill and Roman Forum. We head up the elevated area first to go around the gardens and building ruins of the former palace. We were already a bit tired by this point and climbing up the hill was exhausting but it did afford us a good elevated view of the Colosseum and the nearby sights.
 
-<figure id="attachment_1080" class="wp-caption aligncenter">
-
-<img class="size-full wp-image-1080" src="http://roytang.net/wp-content/uploads/2015/05/palatino.jpg" alt="The view overlooking the Roman forum and nearby ruins" srcset="https://roytang.net/wp-content/uploads/2015/05/palatino.jpg 3264w, https://roytang.net/wp-content/uploads/2015/05/palatino-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/05/palatino-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/05/palatino-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" /><figcaption class="wp-caption-text">The view overlooking the Roman forum and nearby ruins</figcaption></figure> 
+{{< photo "2015/04/europe-trip/" "palatino" >}}
 
 We wasted some time trying to figure out the correct path to climb down the hill (we totally weren't lost!) At the base of the hill we visited the ruins of the Roman Forum (disappointingly, it was just a bunch of stones) and we also visited a couple of temples before deciding that we were too tired to look at everything. Tapped out, we tried to figure out where the exit was.
 
@@ -71,11 +61,9 @@ From there we made our way to the Champs-Elysees. I wasn't sure what I expected
 
 From there we walked a bit south until we were at the Seine near the Pont Alexandre, a well-decorated bridge which gave us a good view of the Eiffel Tower in the distance. The bridge was surrounded by pillars on each end with ornate gold statues atop them. Apparently this bridge is a popular location for prenup pics; we counted no less than 6 couples in tuxedos and wedding gowns having their pictures taken on or near the bridge.
 
-<figure id="attachment_1087" class="wp-caption aligncenter">
+{{< photo "2015/04/europe-trip/" "pont_alexander" >}}
 
-<img class="size-full wp-image-1087" src="http://roytang.net/wp-content/uploads/2015/05/pont_alexander.jpg" alt="The bridge gives us a good view of the Eiffel Tower in the distance" srcset="https://roytang.net/wp-content/uploads/2015/05/pont_alexander.jpg 3264w, https://roytang.net/wp-content/uploads/2015/05/pont_alexander-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/05/pont_alexander-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/05/pont_alexander-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" /><figcaption class="wp-caption-text">The bridge gives us a good view of the Eiffel Tower in the distance</figcaption></figure> 
-
-<figure id="attachment_1086" class="wp-caption aligncenter"><img class="size-full wp-image-1086" src="http://roytang.net/wp-content/uploads/2015/05/golden_statue.jpg" alt="One of the golden statues watching over the Pont Alexander" srcset="https://roytang.net/wp-content/uploads/2015/05/golden_statue.jpg 3264w, https://roytang.net/wp-content/uploads/2015/05/golden_statue-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/05/golden_statue-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/05/golden_statue-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" /><figcaption class="wp-caption-text">One of the golden statues watching over the Pont Alexander</figcaption></figure> 
+{{< photo "2015/04/europe-trip/" "golden_statue" >}}
 
 It was almost dusk by then so we started to make our way back to the hotel. We make our way through a maze of streets named after different capital cities, passing near the La Madeleine church. By this time night had rolled around and the buildings and restaurants are illuminated in various shades of neon. We arrive at the hotel late at night, and we turn in early in preparation for more walking around the next day.
 
@@ -83,7 +71,7 @@ Next: [The Louvre and The Versailles](/2015/05/europe-2015-paris-part-2-and-vers
 
 &nbsp;
 
- [1]: http://roytang.net/2015/03/europe-trip-2015/
- [2]: http://roytang.net/2015/04/europe-2015-barcelona-part-1/
- [3]: http://roytang.net/2015/04/europe-2015-barcelona-part-2/
- [4]: http://roytang.net/2015/04/europe-2015-rome-and-vatican-city/
+ [1]: /2015/03/europe-trip-2015/
+ [2]: /2015/04/europe-2015-barcelona-part-1/
+ [3]: /2015/04/europe-2015-barcelona-part-2/
+ [4]: /2015/04/europe-2015-rome-and-vatican-city/

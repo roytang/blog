@@ -11,20 +11,6 @@ tags:
 title: 'Europe 2015: Barcelona Part 1'
 type: post
 url: /2015/04/europe-2015-barcelona-part-1/
-dontinlinephotos: true
-resources:
-- src: day1_penis.jpg
-  title: "Dona i Ocell' Sculpture at Parc Joan de Miro -- Photo credit: Ryan Liwanag"
-- src: centro_de_las_arenas.jpg
-  title: 'The view from atop the Centro Comercial de las Arenas -- Photo Credit: Ryan Liwanag'
-- src: bubbleguy.jpg
-  title: 'Bubble Guy -- Photo Credit: Ryan Liwanag'
-- src: fountain.jpg
-  title: 'Fountain Show -- Photo Credit: Ryan Liwanag'
-- src: church.jpg
-  title: 'Maria Reina Church in Barcelona'
-- src: quiz-night.jpg
-  title: 'Our quiz night results -- who knows what place we finished'
 ---
 
 _My [previous post][1] only skimmed my trip to Europe. I did not want to write too much, partly because I was uncertain at how many would be interested to hear the sordid details and partly because while I was writing the post, the words did not flow as freely as I would have wanted. Despite this, I have received good feedback and more than one person had asked for more details. So here we are._
@@ -43,21 +29,21 @@ For this leg we would be staying at [Free Hostels Barcelona][2]. The lady at the
 
 After resting up for a bit, we went out to spend the afternoon taking in a bit more of the city. We made our way towards the nearby Plaza España; the friendly hostel reception lady told us the mall there would give us a good view of the city from the top floor. On the way we passed by what one of my companions called out as a "giant penis":
 
-{{< img src="day1_penis.jpg" >}}
+{{< photo "2015/04/europe-trip/" "day1_penis" >}}
 
 We climbed to the top of the Centro Comercial de las Arenas, which I found comparable to a small mall back home with mostly high-end shops. The circular rooftop was an open-air area that gave a good view of the nearby city and some fancy restaurants that we thought of eating at but never managed to get back to.
 
-{{< img src="centro_de_las_arenas.jpg" >}}
+{{< photo "2015/04/europe-trip/" "centro_de_las_arenas" >}}
 
 We decided to head towards that large building in the distance (I believe it was some sort of museum) since friendly hostel lady told us there was a nice fountain show there we could see. On the way we got distracted by this street performer doing bubbles.
 
-{{< img src="bubbleguy.jpg" >}}
+{{< photo "2015/04/europe-trip/" "bubbleguy" >}}
 
 Since we were a bit too early for the fountain show, we sat there for a while to take a break from all the walking and let ourselves be entertained by the large bubbles and the little kids enjoying them. He was using two short sticks with some rope entwined to catch some of his soap solution and he would let the brisk wind create the large bubbles. "I should try this back home, the niece would enjoy it." (Spoiler: I haven't tried it)
 
 Shortly before 7 pm we went to the fountain area where there was already a large number of people gathered around the nearby steps and other seating areas in anticipation of the show. There were street performers entertaining some sections of the crowd with some sort of dance-off, but the fountain show began before they could come over to our side.
 
-{{< img src="fountain.jpg" >}}
+{{< photo "2015/04/europe-trip/" "fountain" >}}
 
 The fountain show was some sort of preprogrammed series of lights and changes in the fountain heights and angles against a backdrop of someone who sounds like Freddie Mercury singing something that starts with "Barcelonaaaaaaa~" The show was very good, I don't believe I've seen anything like it locally (but then again I don't see fountain shows too often). Imagine, I said to myself, somewhere out there are people who design these shows for a living.
 
@@ -71,7 +57,7 @@ It was Sunday and as a Catholic I was planning to hear English mass. As far as
 
 The church I wanted to go to was around 3.5 kilometers away, a 40 minute walk according to Google Maps. I allocated an hour and a half to walk there at a more leisurely pace. It turned out to be a good call, as Google Maps didn't tell me I'd be walking up a bunch of inclined roads (these wouldn't be the only inclines I'd have trouble with in Barcelona... ). I passed by mostly residential areas, with small parks every few blocks letting me take a few minutes break when I needed it.
 
-{{< img src="church.jpg" >}}
+{{< photo "2015/04/europe-trip/" "church" >}}
 
 I was greeted at the church entrance by some white folks who were waiting for the mass to start. The church itself wasn't too large, it was maybe a third the size of where I usually hear mass back home. There weren't too many attendees, maybe around 50 people at best, which is less than I would have thought given the large Catholic population in Spain, though I guess most of them hear mass in the local languages. Most of the attendees seemed to be locals instead of expats; for some reason I was expecting a larger Asian/Filipino presence, maybe based on when I heard mass in Hong Kong or Singapore. The priest was very friendly and would greet each mass-goer as they left after the service. He even gave me a "good job!" with thumbs up as I went out, not sure why 😀
 
@@ -81,7 +67,7 @@ We decided to walk along the Via Laietana, a thoroughfare famous for buildings w
 
 It was night time by the time we found the pub among a maze of side streets, and the friendly British proprietor welcomed us for their quiz night. The questions were recited out loud in both Spanish and English (leading to one of my companions translating the Spanish instead of paying attention to the English one!). We took an early lead since we used our joker early, but fell behind when it came to the music-related categories (not an uncommon result for our quiz nights!)
 
-{{< img src="quiz-night.jpg" >}}
+{{< photo "2015/04/europe-trip/" "quiz-night" >}}
 
 After the pub quiz, we decided to take a cab home since it was late. The cost wasn't too prohibitive since there were three of us to split the bill. I think it came out to just 2-3 euros each.
 

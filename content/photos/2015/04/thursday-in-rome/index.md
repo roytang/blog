@@ -7,4 +7,5 @@ tags:
 - europe2015
 title: 'Thursday in Rome (Mar 12-13 2015)'
 slug: thursday-in-rome
+album: europe2015
 ---
