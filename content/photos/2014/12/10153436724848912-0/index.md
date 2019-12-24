@@ -6,7 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153436724848912:0
 tags:
 - mobile-uploads
-- nochebuena2014
+- nochebuena
 ---
 
 #NocheBuena2014

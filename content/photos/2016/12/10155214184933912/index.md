@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155214184933912
 tags:
 - timeline-photos
+- nochebuena
 ---
 
 Noche buena 2016

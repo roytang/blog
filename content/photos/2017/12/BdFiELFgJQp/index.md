@@ -11,7 +11,6 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156286224778912:0
 tags:
 - nochebuena
-- '2017'
 ---
 
 #nochebuena #2017
