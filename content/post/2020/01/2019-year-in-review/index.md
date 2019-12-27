@@ -13,7 +13,10 @@ Well, it has certainly been another revolution around the sun. I added the tag [
 Work, Learning and Self Improvement:
 
   * Hours worked: ???
+    * I've been cutting back on my work commitments this year, preferring to spend more time on personal projects.
   * Programming languages/frameworks learned: Only 1 really new thing, that's the Ionic mobile app framework. (Down from 4 last year)
+    * I did do a [miniproject](/2019/08/devnotes-tt-miniproject/) which let me try out a few new things.
+    * I also explored a bit and learned a lot about web standards and [Indieweb things](/2019/11/indieweb/) this year
   * Books read: 4, same as last year. 
     * [So Good They Can't Ignore You by Cal Newport](/2019/11/so-good-they-cant-ignore-you/)
     * [Utopia for Realists by Rutger Bergman](/2019/08/book-review-utopia-for-realists-by-rutger-bregman/)
@@ -24,7 +27,7 @@ Work, Learning and Self Improvement:
 
 Writing and Social media:
 
-  * Facebook status updates: ??? (1093 last year)
+  * Facebook status updates: 125 (1093 last year). Operation: Reduce Facebook Usage is proceeding smoothly.
   * Tweets: ??? (1566 last year)
   * [Instagram](/source/instagram) posts: 75. Up from 21 last year, mostly due to travel and doing [inktober](/tags/inktober) this year.
   * Answers written on Quora: 0.
@@ -34,7 +37,7 @@ Writing and Social media:
 
 Gaming:
 
-  * Games purchased (not including any I got for free for some reason): 25, again mostly from Humble bundles, down from 34 last year.
+  * Games purchased (not including any I got for free for some reason): 35, again mostly from Humble bundles, down from 34 last year.
     * Steam:
       * banner saga 2
       * sentinels
@@ -47,6 +50,7 @@ Gaming:
       * 7 games august monthly
       * 7 games oct monthly
       * 6 games dec monthly
+      * 10 games dec humble choice
     * ps4
       * outer worlds
   * However, my gaming spend is slightly up this year, mostly due to me deciding to pay full price for ps4 Outer Worlds.
@@ -58,8 +62,10 @@ Gaming:
       * [Hollow Knight](/2019/02/game-review-hollow-knight/)
       * [Slay the Spire](/2019/02/game-review-slay-the-spire/)
   * Best MTGA Rank: [Mythic!!](/2019/05/magic-arena-first-time-mythic-i-did-it/)
-  * Average points per turn in Words with Friends: 26, same as last year
+  * MTG paper tournament games played: 28
+  * MTG paper tournament games win rate: 39% (See [my MTG stats](/about/stats/mtg))
   * MTG GPs attended: 1. I originally wasn't planning on it, but I attended [GP Seattle](/2019/07/grand-prix-seattle-2019/) in June.
+  * Average points per turn in Words with Friends: 26, same as last year
 
 Others:
 
@@ -69,7 +75,7 @@ Others:
   * Baptisms attended: 0 (down 1)
   * Weddings attended: 2 (up 2)
   * Wakes attended: 1 :(
-  * Things watched on Netflix: 789 (Up 69 from last year)
+  * Things watched on Netflix: 416 (789 last year)
   * Quiz nights attended: 27 (winning 3 times) - waaay up from 8 last year.
   * Grab trips: 46 (down 55 from last year!))
   * Times I won the lotto: 0 (I kind of regret putting this number two years ago, as now I can't remove it without looking suspicious)

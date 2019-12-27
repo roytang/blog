@@ -577,3 +577,11 @@ figcaption {
     font-weight: bolder;
     text-align: center;
 }
+
+.e-content table {
+    width: 100%;
+}
+
+.e-content table tr:nth-child(even) {
+    background: #333
+}
