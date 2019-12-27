@@ -10,6 +10,8 @@ syndicated:
 title: My 2016 in numbers
 type: post
 url: /2017/01/my-2016-in-numbers/
+tags:
+- yearnotes
 ---
 
 Random statistics from 2016:
@@ -42,7 +44,7 @@ Random statistics from 2016:
   * Times I won the lotto: 0
   * Bears defeated in single combat: 0
 
- [1]: http://roytang.net/2016/12/nanowrimo-2016-post-mortem/
+ [1]: /2016/12/nanowrimo-2016-post-mortem/
  [2]: https://www.reddit.com/r/SketchDaily/
  [3]: http://www.wolframalpha.com/input/?i=facebook+report#_=_
  [4]: https://www.goodreads.com/user_challenges/5011237

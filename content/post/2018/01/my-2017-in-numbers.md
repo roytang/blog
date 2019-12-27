@@ -10,6 +10,8 @@ syndicated:
 title: My 2017 in numbers
 type: post
 url: /2018/01/my-2017-in-numbers/
+tags:
+- yearnotes
 ---
 
 Happy new year! Last year I [posted some year-end statistics][1]. That seems like a good way to recap the year, so let's do it again. Random statistics from 2017:
@@ -45,9 +47,9 @@ Happy new year! Last year I [posted some year-end statistics][1]. That seems lik
 
 Looking forward to better numbers in 2018!
 
- [1]: http://roytang.net/2017/01/my-2016-in-numbers/
- [2]: http://roytang.net/2016/12/nanowrimo-2016-post-mortem/
+ [1]: /2017/01/my-2016-in-numbers/
+ [2]: /2016/12/nanowrimo-2016-post-mortem/
  [3]: https://www.reddit.com/r/SketchDaily/
- [4]: http://roytang.net/2017/04/marklogic-nosql/
+ [4]: /2017/04/marklogic-nosql/
  [5]: http://www.wolframalpha.com/input/?i=facebook+report#_=_
  [6]: https://www.goodreads.com/user_challenges/6842480

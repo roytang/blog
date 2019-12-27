@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1081068498057682944/
 tags:
 - Self Improvement
+- yearnotes
 title: My 2018 in review
 type: post
 ---
