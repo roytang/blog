@@ -1,14 +1,18 @@
 ---
-title: "Review: XCom 2"
-slug: xcom2
 date: 2019-12-27
-tags:
-- gaming
+featuredResource:
+  filename: 20191226125254_1.jpg
 resources:
 - src: 20191226125254_1.jpg
-  title: "The corridor of death where I finished the game. Probably around 15-20 aliens died in this area"
-featuredResource: 
-  filename: 20191226125254_1.jpg
+  title: The corridor of death where I finished the game. Probably around 15-20 aliens
+    died in this area
+slug: xcom2
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1210420310807367685/
+tags:
+- gaming
+title: 'Review: XCom 2'
 ---
 
 Kind of a late game review since this game came out in 2016, but XCom 2 is the game I've been playing the past couple of weeks. (the newer one, not Terror from the Deep, though that was fun too). I finished my first run yesterday, just on normal (Veteran) difficulty, nothing special, but here are my thoughts on the game:
@@ -27,4 +31,3 @@ Kind of a late game review since this game came out in 2016, but XCom 2 is the g
   - Taking control of two enemy mech units at the same time and charging them into other enemy squads
   - Setting up an corridor of death where the enemies just run into my soldiers on overwatch and ambush them. I finished the final mission during the enemy turn this way (see image below)
 - The run took me about 30 hours over two weeks (stats below). I'm not sure if I have the energy for a second run right now, maybe I'll let the game rest for a while before coming back to it. I considered buying the *War of the Chosen* expansion immediately as well, but I guess I'll do that when I have the energy for a second run.
-
