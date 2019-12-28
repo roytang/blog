@@ -18,8 +18,3 @@ Palpatine's Journey
                     Your browser does not support the video tag.
                     </video>
 
-
-<video width="320" height="180" controls>
-                    <source src="https://video.twimg.com/ext_tw_video/1207871281795760129/pu/vid/1280x720/WUuWlrtiWJiPd-bX.mp4?tag=10.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                    </video>
