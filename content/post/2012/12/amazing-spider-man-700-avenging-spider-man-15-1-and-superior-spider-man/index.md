@@ -5,6 +5,11 @@ source: ireadcomicbooks
 tags:
 - comics
 title: 'Amazing Spider-Man #700, Avenging Spider-Man #15.1 and Superior Spider-Man'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/284857134741602304/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/574954912531389
 ---
 
 When I first heard about <em>Amazing Spider-Man</em> ending and being replaced by a new <em>Superior Spider-Man</em> series starring someone other than Peter Parker, my first thought was: maybe they're finally retiring Peter for good. Peter is at a pretty good point in his personal life: he has a good, fulfilling job at Horizon Labs so he doesn't have to miss the bills, Aunt May is well taken care of by Jameson Sr. so he doesn't have to worry about her all the time, and there were even some signs of how he and Mary Jane still cared so deeply for each other. After everything Peter had given to the world as Spider-Man, it wouldn't be too much to ask for him to pass the baton to someone else and ride off into the sunset to live happily ever after (maybe after foiling one last big supervillain plot of course). Peter could still make occasional appearances as a mentor or tech supplier for whoever would be the new Spider-Man. It would be a well-deserved rest and retirement for someone who has had to bear so much responsibility for the past 50 years of <em>Amazing Spider-Man,</em> an ideal fantasy ending.

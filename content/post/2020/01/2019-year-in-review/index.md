@@ -54,13 +54,26 @@ Gaming:
     * ps4
       * outer worlds
   * However, my gaming spend is slightly up this year, mostly due to me deciding to pay full price for ps4 Outer Worlds.
-  * Games "finished" (story/campaign completed OR achievement complete): 6, down from 10 last year.
-      * [XCOM2](/2019/12/xcom2/)
-      * [Outer Worlds](/2019/11/outer-worlds/)
-      * [What Remains of Edith Finch](/2019/08/edith-finch/)
-      * [Zero Time Dilemma](/2019/03/zero-time-dilemma/)
-      * [Hollow Knight](/2019/02/game-review-hollow-knight/)
-      * [Slay the Spire](/2019/02/game-review-slay-the-spire/)
+  * Games "finished" (story/campaign completed OR achievement complete): 7, down from 10 last year.
+    * [XCOM2](/2019/12/xcom2/)
+    * [Outer Worlds](/2019/11/outer-worlds/)
+    * [What Remains of Edith Finch](/2019/08/edith-finch/)
+    * [Zero Time Dilemma](/2019/03/zero-time-dilemma/)
+    * [Hollow Knight](/2019/02/game-review-hollow-knight/)
+    * [Slay the Spire](/2019/02/game-review-slay-the-spire/)
+    * Age of Decadence. I'd actually almost forgotten that I finished it this year, as I don't seem to have written about it. Only one ending for now though, I'll get back to it at some point in the future. 
+  * Steam playtime this year: 633.47 hours (down from 745.08 hours last year)
+  * Most played Steam games for the year:
+    * Eternal Card Game - 240.48 hours
+    * Sid Meier's Civilization VI - 145.22 hours
+    * Hollow Knight - 37.77 hours
+    * Slay the Spire - 36.65 hours
+    * Sentinels of the Multiverse - 33.68 hours
+    * XCOM 2 - 32.20 hours
+    * Street Fighter V - 23.68 hours
+    * DRAGON BALL FighterZ - 17.88 hours
+    * Borderlands 2 - 17.47 hours (Lol, this is my long-running BL2 PC save that I've still never finished)
+    * The Banner Saga - 15.20 hours (I did a second run of this for achievement purposes, but I have to do one more hard run for achievement completion)
   * Best MTGA Rank: [Mythic!!](/2019/05/magic-arena-first-time-mythic-i-did-it/)
   * MTG paper tournament games played: 28
   * MTG paper tournament games win rate: 39% (See [my MTG stats](/about/stats/mtg))
