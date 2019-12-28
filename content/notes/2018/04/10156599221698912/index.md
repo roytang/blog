@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156599221698912
-tags: []
+tags: 
+- spoiler-free-review
+- movies
 ---
 
 Avengers Infinity War Spoiler Free Review:
