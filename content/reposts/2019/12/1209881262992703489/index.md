@@ -17,9 +17,3 @@ I Tried Giving My Daughter The Worst Xmas Gift Ever &amp; I Didn’t Expect This
                     <source src="https://video.twimg.com/ext_tw_video/1207832518210121728/pu/vid/1280x720/ChoIaEUlcZJeiHqe.mp4?tag=10.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                     </video>
-
-
-<video width="320" height="180" controls>
-                    <source src="https://video.twimg.com/ext_tw_video/1207832518210121728/pu/vid/1280x720/ChoIaEUlcZJeiHqe.mp4?tag=10.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                    </video>
