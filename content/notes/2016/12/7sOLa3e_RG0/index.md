@@ -5,6 +5,8 @@ source: youtube
 syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=7sOLa3e_RG0
+- type: twitter
+  url: https://twitter.com/roytang/statuses/814851104680869888/  
 tags:
 - '#PS4share'
 - PlayStation 4
@@ -13,7 +15,6 @@ tags:
 - hungryroy
 ---
 
-STREET FIGHTER V_20161230205518
-
+Street Fighter 2016 championship: Me (Karin) vs [@alvinjtang](https://twitter.com/alvinjtang/) (Ryu) 
 
 {{< youtube "7sOLa3e_RG0" >}}

@@ -12,9 +12,9 @@ Well, it has certainly been another revolution around the sun. I added the tag [
 
 Work, Learning and Self Improvement:
 
-  * Hours worked: ???
+  * Hours worked: 180 hours (estimated) - down from 1163 hours last year
     * I've been cutting back on my work commitments this year, preferring to spend more time on personal projects.
-  * Programming languages/frameworks learned: Only 1 really new thing, that's the Ionic mobile app framework. (Down from 4 last year)
+  * Programming languages/frameworks learned: Only 1 really new thing, that's the Ionic mobile app framework. (Down from 4 last year). Some other stuff though:
     * I did do a [miniproject](/2019/08/devnotes-tt-miniproject/) which let me try out a few new things.
     * I also explored a bit and learned a lot about web standards and [Indieweb things](/2019/11/indieweb/) this year
   * Books read: 4, same as last year. 
@@ -62,6 +62,7 @@ Gaming:
     * [Hollow Knight](/2019/02/game-review-hollow-knight/)
     * [Slay the Spire](/2019/02/game-review-slay-the-spire/)
     * Age of Decadence. I'd actually almost forgotten that I finished it this year, as I don't seem to have written about it. Only one ending for now though, I'll get back to it at some point in the future. 
+    * Borderlands 2. I finally finished my long-running Steam save file. (I started playing it in 2013!). Main story only, my save is now currently in the DLC campaigns.
   * Steam playtime this year: 633.47 hours (down from 745.08 hours last year)
   * Most played Steam games for the year:
     * Eternal Card Game - 240.48 hours
@@ -72,7 +73,7 @@ Gaming:
     * XCOM 2 - 32.20 hours
     * Street Fighter V - 23.68 hours
     * DRAGON BALL FighterZ - 17.88 hours
-    * Borderlands 2 - 17.47 hours (Lol, this is my long-running BL2 PC save that I've still never finished)
+    * Borderlands 2 - 17.47 hours
     * The Banner Saga - 15.20 hours (I did a second run of this for achievement purposes, but I have to do one more hard run for achievement completion)
   * Best MTGA Rank: [Mythic!!](/2019/05/magic-arena-first-time-mythic-i-did-it/)
   * MTG paper tournament games played: 28
