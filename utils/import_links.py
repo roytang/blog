@@ -4,6 +4,9 @@ import xmltodict
 from importers.pocket import create_post
 from datetime import datetime
 import html
+from importers.utils import URLResolver
+
+resolver = URLResolver()
 
 remote_url = "https://getpocket.com/users/hungryroy/feed/all"
 
@@ -21,6 +24,10 @@ def import_feed():
         # print(html.unescape(a['title']))
         link_text = html.unescape(a['title'])
         link_url = a['link']
+        # resolve link_url to final form
+        expanded_url, no_errors = resolver.get_final_url(link_url)
+        if no_errors:
+            link_url = expanded_url
         d = datetime.strptime(a['pubDate'], "%a, %d %b %Y %H:%M:%S %z")
 
         create_post(d, link_text, link_url, overwrite=False)
