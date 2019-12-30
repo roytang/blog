@@ -1,0 +1,30 @@
+{
+  "type": "like",
+  "url": "https://twitter.com/Woerlan",
+  "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1211336305948401667/35668033",
+  "id": "webmention-738820",
+  "source_obj": {
+    "type": "entry",
+    "wm-private": false,
+    "wm-target": "https://roytang.net/2019/12/watching-lately-december-2019/",
+    "published": null,
+    "like-of": "https://roytang.net/2019/12/watching-lately-december-2019/",
+    "wm-received": "2019-12-30T06:53:08Z",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1211336305948401667/35668033",
+    "url": "https://twitter.com/roytang/status/1211336305948401667#favorited-by-35668033",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a918db530ef1f55fcf30350f2ebde6861269d0548308777c2cfcdbb8e466ee69.jpg",
+      "name": "Ritchie",
+      "url": "https://twitter.com/Woerlan"
+    },
+    "wm-id": 738820,
+    "wm-property": "like-of"
+  },
+  "mention_url": "https://twitter.com/roytang/status/1211336305948401667#favorited-by-35668033",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/a918db530ef1f55fcf30350f2ebde6861269d0548308777c2cfcdbb8e466ee69.jpg",
+  "name": "Ritchie",
+  "date": "2019-12-30 06:53:08",
+  "source": "webmention",
+  "text": "[Ritchie](https://twitter.com/Woerlan) liked this [on twitter](https://twitter.com/roytang/status/1211336305948401667#favorited-by-35668033)"
+}
