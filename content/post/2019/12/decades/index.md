@@ -1,8 +1,11 @@
 ---
-title: "Decades"
 date: 2019-12-31
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1211842022539235328/
 tags:
 - decadenotes
+title: Decades
 ---
 
 Today is the last day of the 2010s. I was originally planning a short retrospective on the past decade, but that felt a bit unfair to the other decades prior which hadn't received such reflection, so let's go through all of the four decades I've lived through so far.
