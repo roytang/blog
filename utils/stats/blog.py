@@ -7,7 +7,7 @@ from datetime import datetime
 
 # load the url map
 blogdir = Path(os.environ['HUGO_BLOG_OUTDIR'])
-stats = {"comments": {}}
+stats = {"comments": {}, "words": {}, "words_posts": {}}
 kinds = ["comments"]
 urlmapfile = blogdir / "urlmap.json"
 with urlmapfile.open(encoding="UTF-8") as f:
@@ -23,6 +23,10 @@ with urlmapfile.open(encoding="UTF-8") as f:
         d = datetime.strptime(um["date"], '%Y-%m-%d')
         year = d.strftime('%Y')
         stats[kind][year] = stats[kind].get(year,0) + 1
+        if um.get("wordcount"):
+            stats["words"][year] = stats["words"].get(year, 0) + um["wordcount"]
+            if kind == "post":
+                stats["words_posts"][year] = stats["words_posts"].get(year, 0) + um["wordcount"]
         if "comments" in um:
             comments = len(um["comments"])
             stats['comments'][year] = stats['comments'].get(year,0) + comments

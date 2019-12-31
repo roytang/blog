@@ -12,6 +12,18 @@ date: 2018-02-11T17:15:26+00:00
 
 ---
 
+### Words written by year (blog posts only)
+
+{{< html "utils/stats/words_posts.svg" >}}
+
+---
+
+### Words written by year (all content)
+
+{{< html "utils/stats/words.svg" >}}
+
+---
+
 ### Comments by year
 
 {{< html "utils/stats/comments.svg" >}}

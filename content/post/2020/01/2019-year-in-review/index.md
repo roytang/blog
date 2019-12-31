@@ -33,7 +33,8 @@ Writing and Social media:
   * Answers written on Quora: 0.
   * 0 words written for [Nanowrimo](https://nanowrimo.org/)
   * 35 sketches submitted to [r/sketchdaily](https://www.reddit.com/r/sketchdaily)
-  * 222 blog posts, up from 105 last year. A record for this blog's lifetime. It may be a bit above the volume I want though. Full stats for content on this blog available [here](/about/stats/).
+  * 224 blog posts, 119529 words worth; up from 105 posts and 62888 words last year. A record for this blog's lifetime. It may be a bit above the volume I want though. 
+  * Full stats for content on this blog available [here](/about/stats/).
 
 Gaming:
 
