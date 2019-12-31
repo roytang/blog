@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1079939358118031361/
 tags:
 - Self-Improvement
+- new-years-checklist
 title: New Year's Checklist 2019
 type: post
 ---

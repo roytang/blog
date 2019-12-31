@@ -83,7 +83,7 @@ Gaming:
 
 Others:
 
-  * Fitbit activity: 1,820,053 steps, 1,419.64 km walked
+  * Fitbit activity: 1,766,878 steps, 1,378.15 km walked. Down from 1,820,053 steps, 1,419.64 km last year. Roughly a 3% drop. I've been a lot lazier about walking, especially when the weather is too hot or rainy, which happens quite often. Need to find a way to get around this.
   * Donuts eaten: 1.5, down from 4 last year. This is a ridiculous statistic to track, but I suppose the downtrend is good.
   * Other countries visited: 1, 2 if you count the layover in South Korea. This year's [US trip](/tags/ustrip2019/) was totally unplanned.
   * Baptisms attended: 0 (down 1)

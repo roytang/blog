@@ -10,6 +10,7 @@ syndicated:
 tags:
 - Opinions
 - Self-Improvement
+- new-years-checklist
 title: New Year's Checklist
 type: post
 url: /2017/01/new-years-checklist/

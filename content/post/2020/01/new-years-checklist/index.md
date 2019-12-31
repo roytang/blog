@@ -6,10 +6,12 @@ tags:
 - Self-Improvement
 title: New Year's Checklist 2020
 slug: new-years-checklist
+tags:
+- new-years-checklist
 type: post
 ---
 
-Most of these are carried over from the [2019 checklist](/2019/01/new-years-checklist/). Maybe an annual thing, eh?
+It's a new year! I don't have any clever jokes or deep wisdom or long, introspective essays to share at this time (I have those the rest of the year though!). Instead, here's a checklist for the new year. 
 
 In no particular order:
 
@@ -20,7 +22,6 @@ In no particular order:
   * Count your blessings for the past year and be grateful
   * Change your passwords
   * Buy a new toothbrush
-  * Make a new decade's joke
   * Set a target of how many books you'll read in 2020
   * Choose the first book to read
   * Throw away a few things you no longer need
