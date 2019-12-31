@@ -40,7 +40,7 @@ def gen_chart(xaxis, yaxis, filename):
 
 def gen_svg_blog():
     sourcefile = root / "blog.json"
-    sections = ["post", "comments", "notes", "photos", "reposts", "replies", "links"]
+    sections = ["post", "comments", "notes", "photos", "reposts", "replies", "links", "words", "words_posts"]
     with sourcefile.open() as f:
         stats = json.loads(f.read())
         for s in sections:
@@ -49,7 +49,8 @@ def gen_svg_blog():
             years.sort()
 
             # don't include current year in stats
-            years.remove(thisyear)
+            if thisyear in years:
+                years.remove(thisyear)
             data = []
             for year in years:
                 data.append(sdata[year])
