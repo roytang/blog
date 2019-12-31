@@ -1,6 +1,6 @@
 ---
 title: "2019 Year in Review"
-date: 2020-01-01
+date: 2020-01-02
 draft: true
 tags:
 - yearnotes
