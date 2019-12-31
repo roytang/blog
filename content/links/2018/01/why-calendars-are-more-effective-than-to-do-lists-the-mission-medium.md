@@ -11,3 +11,5 @@ source: pocket
 title: "Why Calendars are More Effective Than To Do Lists \u2013 The Mission \u2013\
   \ Medium"
 ---
+
+ by [@UnmistakableCEO](https://twitter.com/UnmistakableCEO/)

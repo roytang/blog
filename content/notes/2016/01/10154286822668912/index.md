@@ -8,4 +8,12 @@ tags:
 - lyrics
 ---
 
-Day after day Leaving the past behind Coming to terms With stitches and burns and Learning to fly again
+Day after day 
+
+Leaving the past behind 
+
+Coming to terms 
+
+With stitches and burns and 
+
+Learning to fly again
