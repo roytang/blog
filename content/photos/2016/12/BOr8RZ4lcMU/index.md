@@ -9,7 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/815218437052100608/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155235841388912:2
-tags: []
+tags: 
+- medianoche
 ---
 
 Media noche 2016
