@@ -9,6 +9,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/947127099491520512/
 tags:
 - 2017bestnine
+- bestnine
 ---
 
 #2017bestnine

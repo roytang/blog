@@ -29,7 +29,7 @@ Writing and Social media:
 
   * Facebook status updates: 125 (1093 last year). Operation: Reduce Facebook Usage is proceeding smoothly.
   * Tweets: ??? (1566 last year)
-  * [Instagram](/source/instagram) posts: 75. Up from 21 last year, mostly due to travel and doing [inktober](/tags/inktober) this year.
+  * [Instagram](/source/instagram) posts: 76. Up from 21 last year, mostly due to travel and doing [inktober](/tags/inktober) this year.
   * Answers written on Quora: 0.
   * 0 words written for [Nanowrimo](https://nanowrimo.org/)
   * 35 sketches submitted to [r/sketchdaily](https://www.reddit.com/r/sketchdaily)
