@@ -2,12 +2,13 @@
 author: roy
 categories: []
 date: 2020-01-01 01:56:56
-tags:
-- Self-Improvement
-title: New Year's Checklist 2020
 slug: new-years-checklist
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1212204513152688128/
 tags:
 - new-years-checklist
+title: New Year's Checklist 2020
 type: post
 ---
 
