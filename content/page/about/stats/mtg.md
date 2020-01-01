@@ -1,9 +1,13 @@
 ---
-title: Stats
+title: "Stats :: MTG"
 author: roy
 type: page
 url: /about/stats/mtg
 date: 2019-12-27
+---
+
+Stats :: [Website](/about/stats) :: [Social Media](/about/stats/socmed) :: [MTG](/about/stats/mtg) :: [Listening](/about/stats/listening)
+
 ---
 
 ### DCI Number

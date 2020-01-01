@@ -12,8 +12,9 @@ Well, it has certainly been another revolution around the sun. I added the tag [
 
 Work, Learning and Self Improvement:
 
-  * Hours worked: 180 hours (estimated) - down from 1163 hours last year
+  * Hours worked: 180-200 hours (estimated) - down from 1163 hours last year
     * I've been cutting back on my work commitments this year, preferring to spend more time on personal projects.
+    * I'm still in a decent spot financially despite that, mostly due to lowered expenses for the year, except for the totally unplanned US trip I took midyear.
   * Programming languages/frameworks learned: Only 1 really new thing, that's the Ionic mobile app framework. (Down from 4 last year). Some other stuff though:
     * I did do a [miniproject](/2019/08/devnotes-tt-miniproject/) which let me try out a few new things.
     * I also explored a bit and learned a lot about web standards and [Indieweb things](/2019/11/indieweb/) this year
@@ -23,18 +24,18 @@ Work, Learning and Self Improvement:
     * [Wheel of Time: New Spring by Robert Jorden](/2019/05/wheel-of-time-new-spring/)
     * [Wheel of Time: Eye of the World by Robert Jorden](/2019/05/wheel-of-time-eye-of-the-world/) (Reread)
     * Action item: read more books
-  * Duolingo streak: 354 days (as of 27/Dec). I believe this is my longest streak ever since i started using Duolingo last 2015. (Whether I'm actually getting good enough at Spanish or Japanese is another matter)
+  * Duolingo streak: 355 days. I believe this is my longest streak ever since i started using Duolingo last 2015. (Whether I'm actually getting good enough at Spanish or Japanese is another matter)
 
 Writing and Social media:
 
-  * Facebook status updates: 125 (1093 last year). Operation: Reduce Facebook Usage is proceeding smoothly.
-  * Tweets: ??? (1566 last year)
-  * [Instagram](/source/instagram) posts: 76. Up from 21 last year, mostly due to travel and doing [inktober](/tags/inktober) this year.
+  * Facebook status updates: 315 (1081 last year). Operation: Reduce Facebook Usage is proceeding smoothly.
+  * Tweets: 1124 (down from 1550 last year)
+  * [Instagram](/source/instagram) photos: 108. Up from 21 last year, mostly due to travel and doing [inktober](/tags/inktober) this year.
   * Answers written on Quora: 0.
   * 0 words written for [Nanowrimo](https://nanowrimo.org/)
   * 35 sketches submitted to [r/sketchdaily](https://www.reddit.com/r/sketchdaily)
   * 224 blog posts, 119529 words worth; up from 105 posts and 62888 words last year. A record for this blog's lifetime. It may be a bit above the volume I want though. 
-  * Full stats for content on this blog available [here](/about/stats/).
+  * Full stats for content on this blog and social media activity available [here](/about/stats/).
 
 Gaming:
 

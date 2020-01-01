@@ -501,9 +501,25 @@ def cleanup_videos():
                         vfile = container / vfilename
                         print(vfile)
                         os.remove(str(vfile))
-                    
+
+def stats():
+    countbysource = {}
+    replies = 0
+    retweets = 0
+    withmedia = 0
+    raw = 0
+
+    count_by_year = {}
+    with Path(SOURCE_FILE).open(encoding='utf-8') as f:
+        d = json.load(f)
+        idx = 0
+        for t in d:
+            dt = datetime.strptime(t['created_at'], "%a %b %d %H:%M:%S %z %Y")
+            count_by_year[dt.year] = count_by_year.get(dt.year, 0) + 1
+    print(json.dumps(count_by_year, indent=2))
+
 
 # thread_replies()
 # import_all()
-
-cleanup_videos()
+# cleanup_videos()
+stats()

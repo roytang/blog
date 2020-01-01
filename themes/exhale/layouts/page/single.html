@@ -1,4 +1,11 @@
 {{ define "main" }}
+<div class="title">
+{{ if .Title }}
+    <a class="u-url post-title" href="{{ .Permalink }}"><h3 class="p-name">{{ .Title }}</h3></a>
+    <hr />
+{{ end }}
+</div>
+
 <article class="page">
 {{ .Render "single.content" }}
 </article>

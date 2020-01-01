@@ -13,7 +13,7 @@ thisyear = datetime.now().strftime("%Y")
 print(thisyear)
 root = Path(__file__).parent.absolute()
 
-def gen_chart(xaxis, yaxis, filename):
+def gen_chart(xaxis, yaxis, filename, title="", extra_data=[]):
     g = bar.VerticalBar(xaxis)
     options = dict(
         scale_integers=True,
@@ -27,7 +27,9 @@ def gen_chart(xaxis, yaxis, filename):
     )
     g.__dict__.update(options)
 
-    g.add_data(dict(data=yaxis, title=""))
+    g.add_data(dict(data=yaxis, title=title))
+    for d in extra_data:
+            g.add_data(dict(data=d["data"], title=d.get("title", "")))
     res = g.burn()
 
     # let's do this manually for now:
@@ -55,7 +57,6 @@ def gen_svg_blog():
             for year in years:
                 data.append(sdata[year])
             gen_chart(years, data, s)
-
 import csv
 def gen_svg_music(infile):
     with Path(infile).open(encoding='UTF-8') as f:

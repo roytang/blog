@@ -1,9 +1,13 @@
 ---
-title: Stats
+title: "Stats :: Website"
 author: roy
 type: page
 url: /about/stats
 date: 2018-02-11T17:15:26+00:00
+---
+
+Stats :: [Website](/about/stats) :: [Social Media](/about/stats/socmed) :: [MTG](/about/stats/mtg) :: [Listening](/about/stats/listening)
+
 ---
 
 ### [Blog posts](/post) by year
