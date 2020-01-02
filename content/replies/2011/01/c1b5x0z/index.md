@@ -15,6 +15,7 @@ tags:
 - gaming
 ---
 
-Grotesque Tactics is the daily indie sale today:\nhttp://store.steampowered.com/app/46450/
+Grotesque Tactics is the daily indie sale today:
+http://store.steampowered.com/app/46450/
 
 Any feedback on this game?

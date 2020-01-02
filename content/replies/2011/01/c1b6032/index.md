@@ -15,4 +15,7 @@ tags:
 
 For SNES RPGs look for any of the following:
 
-* Chrono Trigger\n* Secret of Mana \n* Seiken Densetsu 3\n* Dragon Quest VI\n
+* Chrono Trigger
+* Secret of Mana 
+* Seiken Densetsu 3
+* Dragon Quest VI
