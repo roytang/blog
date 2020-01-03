@@ -8,4 +8,7 @@ link:
 slug: secrets-of-happiness-from-the-oldest-of-the-old
 source: pocket
 title: Secrets of Happiness from the Oldest of the Old
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1081212795742535683/
 ---

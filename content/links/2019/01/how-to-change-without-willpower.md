@@ -8,4 +8,7 @@ link:
 slug: how-to-change-without-willpower
 source: pocket
 title: How to Change Without Willpower
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1081212797529325569/
 ---
