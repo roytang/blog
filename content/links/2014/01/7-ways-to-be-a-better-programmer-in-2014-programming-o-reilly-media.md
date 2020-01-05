@@ -8,4 +8,7 @@ link:
 slug: 7-ways-to-be-a-better-programmer-in-2014-programming-o-reilly-media
 source: pocket
 title: 7 Ways to be a Better Programmer in 2014 - Programming - O'Reilly Media
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/419738774164103168/
 ---

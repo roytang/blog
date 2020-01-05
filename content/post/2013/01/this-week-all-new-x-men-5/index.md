@@ -5,6 +5,11 @@ source: ireadcomicbooks
 tags:
 - comics
 title: 'This Week: All-New X-Men #5'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/287590241404063745/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/130024337162100
 ---
 
 <a href="http://ireadcomicbooks.com/2013/01/this-week-all-new-x-men-5/img_0131/" rel="attachment wp-att-130"><img class="aligncenter size-medium wp-image-130" alt="IMG_0131" src="/uploads/2013/01/IMG_0131-300x225.png" width="300" height="225" /></a>
