@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/956110192202072064/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156363653853912
+tags:
+- tv
 ---
 
 I had put off watching PUNISHER (on Netflix) since i wasn't really too hyped about it. But now that I finally got around to it, I really like it.

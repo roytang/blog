@@ -1,8 +1,11 @@
 ---
-title: "2019 Year in Review"
 date: 2020-01-04
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1213291036761571328/
 tags:
 - yearnotes
+title: 2019 Year in Review
 ---
 
 Well, it has certainly been another revolution around the sun. I added the tag [yearnotes](/tags/yearnotes) for these end-of-year recap and statistic things.
@@ -95,6 +98,3 @@ Others:
   * Grab trips: 46 (down 55 from last year!))
   * Times I won the lotto: 0 (I kind of regret putting this number two years ago, as now I can't remove it without looking suspicious)
   * Bears defeated in single combat: 0
-
-
-

@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157291363398912
-tags: []
+tags: 
+- tv
 ---
 
 Star Trek fans: You're probably already watching Discovery, but if you're not also watching The Orville, you're really missing out!
