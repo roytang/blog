@@ -45,7 +45,7 @@ def import_main(filepath):
 
             post = PostBuilder(post_id, source="miiverse", content=content)
             post.date = dt
-            post.kind = "note"
+            post.kind = "notes"
             for img in contentContainer.find_all("img"):
                 post.kind = "photos"
                 post.media.append(img["src"])
