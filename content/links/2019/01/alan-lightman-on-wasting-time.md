@@ -8,4 +8,7 @@ link:
 slug: alan-lightman-on-wasting-time
 source: pocket
 title: Alan Lightman On Wasting Time
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1082648810726326277/
 ---
