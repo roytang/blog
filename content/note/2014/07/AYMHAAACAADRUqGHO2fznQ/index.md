@@ -12,3 +12,5 @@ tags:
 Posted in MiiVerse's [Mario Kart 8 Community](https://archiverse.guide/game/14866558073268532646):
 
 Finally managed to win a grand prix lol
+
+{{< youtube "IlBq2IBAWVo" >}}

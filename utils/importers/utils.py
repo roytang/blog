@@ -434,7 +434,7 @@ class CommentBuilder():
 
         # save the comment into newdir
         with Path(newfile).open("w", encoding="UTF-8") as f:
-            f.write(json.dumps(comment))
+            f.write(json.dumps(comment, indent=2))
 
 def add_to_listmap(map, key, value):
     if key in map:

@@ -1,7 +1,7 @@
 IMPORT_FILE = "d:\\temp\\archiverse.html"
 from pathlib import Path
 from bs4 import BeautifulSoup
-from utils import PostBuilder
+from utils import PostBuilder, CommentBuilder
 from datetime import datetime
 
 import re
@@ -56,4 +56,52 @@ def import_main(filepath):
 
         print(len(posts))
 
-import_main(IMPORT_FILE)
+def import_comments(filepath, parent_source_path):
+    with Path(filepath).open(encoding='UTF-8') as f:
+        soup = BeautifulSoup(f.read(), "html.parser")
+        posts = soup.findAll("div", {"class": "post"})
+        index = 0
+        for post in posts:
+            index = index + 1
+            if index == 1:
+                continue # skip first entry, its always the orig post
+
+            timestamp = post.findAll("span", {"class": "timestamp"})[0]
+            dt = datetime.strptime(strip_date_ordinal(timestamp.text), "%A, %B %d, %Y %H:%M:%S %p")
+            print(dt)
+            contentContainer = post.find("p", {"class": "post-content-memo"})
+            content = contentContainer.text
+            print(content)
+
+            # to derive the post id, let's find the archive link
+            anchors = post.find_all("a")
+            archive_link = ""
+            for a in anchors:
+                if a.text == "View Archive Page":
+                    archive_link = a["href"]
+                    break
+
+            post_id = archive_link.split("/")[-1]
+
+            # get author details
+            container = post.find("p", {"class":"user-name"})
+            anchor = container.find("a")
+            span = container.find("span")
+            author_name = "%s (%s)" % (anchor.text, span.text)
+            author_url = "https://archiverse.guide%s" % (anchor["href"])
+
+            img = post.find("img", {"class", "icon"})
+
+            author = {
+                "name": author_name,
+                "url": author_url,
+                "photo": img["src"]
+            }
+
+            cb = CommentBuilder(Path(parent_source_path))
+            cb.add_comment(post_id, dt, author, "miiverse", content, overwrite=True)
+
+
+# import_main(IMPORT_FILE)
+import_comments("d:\\temp\\comments1.html", "D:\\repos\\blog\content\\note\\2014\\08\\AYMHAAACAADMUKl8-uaEQw\\index.md")
+import_comments("d:\\temp\\comments2.html", "D:\\repos\\blog\content\\photos\\2014\\08\\AYMHAAACAABnUYoE7CRSyQ\\index.md")
