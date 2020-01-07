@@ -20,10 +20,16 @@ canonifyURLs = true
     baseName = "activity"
     isPlainText = true
     mediaType = "application/ld+json"
+  [outputFormats.jsonfeed]
+    baseName = "feed"
+    isPlainText = true
+    mediaType = "application/json"    
 
 [outputs]
   page = ["HTML"]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "jsonfeed"]
+  section = ["HTML", "RSS", "jsonfeed"]
+  taxonomy = ["HTML", "RSS", "jsonfeed"]
 
 [taxonomies]
     tag = "tags"

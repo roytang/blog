@@ -90,6 +90,7 @@
 <link href='/index.xml' rel="alternate" type="application/rss+xml" title="{{ .Title }}" />
 {{ else }}
 <link href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}' rel="alternate" type="application/rss+xml" title="{{ .Title }}" />
+<link href='{{ with .OutputFormats.Get "jsonfeed" }}{{ .RelPermalink }}{{ end }}' rel="alternate" type="application/json" title="{{ .Title }} JSON Feed" />
 {{ end }}
 <link rel="canonical" href="{{ .Permalink }}" />
 
