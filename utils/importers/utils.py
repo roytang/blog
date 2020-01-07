@@ -284,6 +284,10 @@ def get_content(content, resolver):
 
     return content
 
+def filename_from_url(url):
+    filename = url[url.rfind("/")+1:]
+    return filename
+
 class PostBuilder():
 
     @staticmethod
@@ -326,6 +330,7 @@ class PostBuilder():
         self.source = source
         self.media = []
         self.tags = []
+        self.filename_from_url = filename_from_url # overridable 
 
     def add_syndication(self, stype, url):
         if self.post.get('syndicated') is None:
@@ -389,8 +394,9 @@ class PostBuilder():
                     shutil.copy(str(filepath), str(download_to))    
             else:
                 print("Downloading %s" % (m))
-                filename = m[m.rfind("/")+1:]
+                filename = self.filename_from_url(m)
                 download_to = outdir / filename
+                ctr = 0
                 opener = urllib.request.build_opener()
                 opener.addheaders = [('User-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36')]
                 urllib.request.install_opener(opener)
