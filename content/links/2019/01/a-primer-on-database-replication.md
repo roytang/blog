@@ -8,4 +8,7 @@ link:
 slug: a-primer-on-database-replication
 source: pocket
 title: A Primer on Database Replication
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1082974978214113286/
 ---
