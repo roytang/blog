@@ -2,7 +2,6 @@
 title: "Stats :: Listening"
 author: roy
 type: page
-url: /about/stats/listening/
 date: 2018-02-11T17:15:26+00:00
 ---
 
