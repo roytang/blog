@@ -52,6 +52,7 @@ canonifyURLs = true
     fiction = "/:year/:month/:slug/"
     archm = "/:year/:month/"
     archy = "/:year/"    
+    page = "/:filename/"
 
 #
 # All parameters below here are optional and can be mixed and matched.

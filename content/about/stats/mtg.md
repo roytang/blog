@@ -2,7 +2,6 @@
 title: "Stats :: MTG"
 author: roy
 type: page
-url: /about/stats/mtg
 date: 2019-12-27
 ---
 

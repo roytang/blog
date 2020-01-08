@@ -1,16 +1,9 @@
 ---
-title: About 
-author: roy
+title: "About::Site"
+date: 2020-01-08T21:23:27+08:00
 type: page
-date: 2018-02-11T17:15:26+00:00
-url: /about
-contentClass: about
+
 ---
-
-
-**Wearing dice on my head since 2008** 
-
-![Wearing dice on my head since 2008](/uploads/diceonhead.jpg)
 
 **roytang.net**
 
