@@ -4,7 +4,8 @@ source: roywantsmeat
 syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2004/01/2003-year-in-review.html
-tags: []
+tags: 
+- yearnotes
 title: 2003 Year in Review
 ---
 

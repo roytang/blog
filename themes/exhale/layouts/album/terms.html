@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <section class="h-feed">
+      {{ with .Params.description }}
+      <p class="p-name">{{ . | markdownify }}.</p>
+      {{ else }}
+      <p class="p-name">{{ .Title }}.</p>
+      {{ end }}
+      <p>You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
+      <ul>
+      {{ range .Pages }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+      </ul>
+</section>
+{{ end }}
