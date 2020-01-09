@@ -1,5 +1,6 @@
 ---
-date: 2016-02-22 00:00:00+00:00
+album: sketchbook
+date: 2016-02-22 00:00:00
 reply_to:
   label: a comment by Powersimon on 'February 22nd - Passive Aggressive Cupcakes'
     on /r/SketchDaily
@@ -11,7 +12,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4700mt/february_22nd_passive_aggressive_cupcakes/d095xhe/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 How much time do you spend on something like this?

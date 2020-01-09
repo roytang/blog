@@ -1,6 +1,5 @@
 ---
 album: sketchbook
-categories: []
 date: 2019-08-24 16:24:15
 geo: ''
 location: ''

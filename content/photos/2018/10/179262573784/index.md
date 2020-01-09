@@ -12,7 +12,6 @@ tags:
 - marvel
 - journey into mystery
 - ireadcomicbooks
-- '646'
 ---
 
 <p>Journey into Mystery #646 by Kathryn Immonen and Valerio Schiti<br/></p>

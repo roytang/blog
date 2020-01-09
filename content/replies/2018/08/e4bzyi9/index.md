@@ -1,5 +1,6 @@
 ---
-date: 2018-08-17 03:06:12+00:00
+album: sketchbook
+date: 2018-08-17 03:06:12
 reply_to:
   label: '''August 16th - Random'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/97qo3u/august_16th_random/e4bzyi9/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Today's meeting doodle https://twitter.com/roytang/status/1030283145466150913?s=19

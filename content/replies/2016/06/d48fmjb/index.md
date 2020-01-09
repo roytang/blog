@@ -1,5 +1,6 @@
 ---
-date: 2016-06-14 06:14:15+00:00
+album: sketchbook
+date: 2016-06-14 06:14:15
 reply_to:
   label: a comment by modesthelen on 'June 13th - A Bathroom' on /r/SketchDaily
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4nunnz/june_13th_a_bathroom/d48fmjb/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Nice! I should try that dotted shading thing some time

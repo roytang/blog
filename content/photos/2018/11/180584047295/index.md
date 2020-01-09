@@ -13,7 +13,6 @@ tags:
 - avengers
 - hawkeye
 - ireadcomicbooks
-- '12'
 ---
 
 Young Avengers #12 Kate Bishop takes the mantle of Hawkeye

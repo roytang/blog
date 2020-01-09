@@ -1,5 +1,6 @@
 ---
-date: 2016-05-18 23:59:38+00:00
+album: sketchbook
+date: 2016-05-18 23:59:38
 reply_to:
   label: a comment by KunoKillerkarpfen on 'May 18th - Visual Prompts' on /r/SketchDaily
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4jvll0/may_18th_visual_prompts/d3axzr2/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Lol good eye. I had drawn them on the opposite side of the page :D

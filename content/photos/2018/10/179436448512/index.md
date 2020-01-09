@@ -12,7 +12,6 @@ tags:
 - dc
 - superman
 - ireadcomicbooks
-- '15'
 ---
 
 <p>Superman (New 52) #15 cover art by Kenneth Rocafort<br/></p>

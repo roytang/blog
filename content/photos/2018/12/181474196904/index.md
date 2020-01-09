@@ -14,7 +14,6 @@ tags:
 - old man hawkeye
 - covers
 - ireadcomicbooks
-- '1'
 ---
 
 Old Man Hawkeye #1 cover by Marco Chechetto

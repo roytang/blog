@@ -12,7 +12,6 @@ tags:
 - comics
 - shazam
 - ireadcomicbooks
-- '1'
 ---
 
 Shazam #1 cover by Dave Eaglesham

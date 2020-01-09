@@ -1,5 +1,6 @@
 ---
-date: 2016-04-26 23:57:45+00:00
+album: sketchbook
+date: 2016-04-26 23:57:45
 reply_to:
   label: '''April 26th - Platypus'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4ghubp/april_26th_platypus/d2inm3j/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Perry is a very suspicious platypus: http://i.imgur.com/MLNIN0W.jpg

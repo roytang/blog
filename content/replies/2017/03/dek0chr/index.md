@@ -1,5 +1,6 @@
 ---
-date: 2017-03-06 00:40:39+00:00
+album: sketchbook
+date: 2017-03-06 00:40:39
 reply_to:
   label: '''March 3rd - Free draw friday'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/5x9d5h/march_3rd_free_draw_friday/dek0chr/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Fishing by the shore: http://imgur.com/K1uNd9V

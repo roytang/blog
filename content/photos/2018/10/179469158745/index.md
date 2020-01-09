@@ -12,7 +12,6 @@ tags:
 - marvel
 - x-men
 - ireadcomicbooks
-- '14'
 ---
 
 <p>All New X-Men #14 by Brian Michael Bendis and Stuart Immonen. Summers brothers high five!<br/></p>

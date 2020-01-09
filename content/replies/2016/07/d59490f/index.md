@@ -11,8 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/AskReddit/comments/4sg8n2/reddit_whats_something_special_about_your/d59490f/
 tags:
-- AskReddit
-- '2'
+- askreddit
 ---
 
 We serve a McSpaghetti. The first time I tried a McDonald's overseas I tried to order a McSpaghetti and the Chinese lady behind the counter looked at me like I was a madman

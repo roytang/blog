@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-03-01 00:00:00
 reply_to:
   label: '''February 29th - Karaoke'' on /r/SketchDaily'
@@ -10,8 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/489cgt/february_29th_karaoke/d0ibhdh/
 tags:
-- SketchDaily
-- '1'
+- sketchdaily
 ---
 
 Out of theme again today.

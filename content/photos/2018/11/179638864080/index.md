@@ -12,7 +12,6 @@ tags:
 - comics
 - avengers
 - ireadcomicbooks
-- '2'
 ---
 
 <p>Uncanny Avengers (2012) #2 covert art by John Cassaday<br/></p>

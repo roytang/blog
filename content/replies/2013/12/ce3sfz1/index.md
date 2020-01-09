@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2013-12-17 00:00:00
 reply_to:
   label: '''DECEMBER XVIIth - I AM SPARTACUS'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/1t2u7y/december_xviith_i_am_spartacus/ce3sfz1/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Roman vs Jazz: http://i.imgur.com/kkD27Nq.jpg

@@ -12,7 +12,6 @@ tags:
 - comics
 - cosmic ghost rider
 - ireadcomicbooks
-- '1'
 ---
 
 <p>Cosmic Ghost Rider #1 cover art by Antonio Fabella<br/></p>

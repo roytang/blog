@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-11-05 14:36:14
 reply_to:
   label: '''November 5th - Beauty and the Beast'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/5b8yci/november_5th_beauty_and_the_beast/d9mvcjb/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Rejected Disney princesses: Taco Belle http://imgur.com/weIrtds

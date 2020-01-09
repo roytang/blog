@@ -12,7 +12,6 @@ tags:
 - comics
 - batman
 - ireadcomicbooks
-- '988'
 ---
 
 Detective Comics #988 by James Robinson and Stephen Segovia. Grammatical error missed by editors

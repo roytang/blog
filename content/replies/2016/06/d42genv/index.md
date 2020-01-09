@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-09 16:26:36
 reply_to:
   label: '''June 9th - Trilogy'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4n9u8a/june_9th_trilogy/d42genv/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Mr Jones: http://i.imgur.com/8dnYKrn.jpg

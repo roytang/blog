@@ -1,6 +1,5 @@
 ---
 album: sketchbook
-categories: []
 date: 2017-10-11 10:32:26
 location: ''
 source: instagram
@@ -16,7 +15,7 @@ syndicated:
 tags:
 - transformers
 - sketchdaily
-- Inktober
+- inktober
 ---
 
 #Inktober day 10: Gigantic #sketchdaily #transformers

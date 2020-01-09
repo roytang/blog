@@ -11,7 +11,6 @@ tags:
 - comic
 - supercrooks
 - ireadcomicbooks
-- '4'
 ---
 
 <p>Supercrooks #4 by Mark Millar and Leinel Francis Yu (Pinoy pride!)<br/></p>

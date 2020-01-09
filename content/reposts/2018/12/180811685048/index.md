@@ -16,7 +16,6 @@ tags:
 - comics
 - guardians of the galaxy
 - ireadcomicbooks
-- '1'
 ---
 
 <p><a href="http://bear1na.tumblr.com/post/180304021229/guardians-of-the-galaxy-1-variant-cover-by-gerald" class="tumblr_blog">bear1na</a>:</p>

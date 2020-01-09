@@ -12,7 +12,6 @@ tags:
 - comics
 - thor
 - ireadcomicbooks
-- '3'
 ---
 
 <p>Thor God of Thunder #3 by Jason Aaron and Esaad Ribic<br/></p>

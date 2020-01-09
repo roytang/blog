@@ -1,5 +1,6 @@
 ---
-date: 2017-01-15 01:24:32+00:00
+album: sketchbook
+date: 2017-01-15 01:24:32
 reply_to:
   label: '''January 14th - Self Portrait'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/5nwlay/january_14th_self_portrait/dcft2p6/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Shoe: http://imgur.com/RfPHs9L

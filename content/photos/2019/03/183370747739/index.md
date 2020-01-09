@@ -13,7 +13,6 @@ tags:
 - captain marvel
 - kris anka
 - ireadcomicbooks
-- '1'
 ---
 
 Captain Marvel (2016) #1 cover by Kris Anka

@@ -12,7 +12,6 @@ tags:
 - comics
 - x-men
 - ireadcomicbooks
-- '1'
 ---
 
 <p>All-New X-Men #1 connecting covers by Stuart Immonen<br/></p>

@@ -13,7 +13,6 @@ tags:
 - ghost rider
 - guardians of the galaxy
 - ireadcomicbooks
-- '3'
 ---
 
 This Guardians iteration is the best. Cosmic Ghost Rider #3 by Donny Cates and Dylan Burnett.

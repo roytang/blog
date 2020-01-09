@@ -11,7 +11,6 @@ syndicated:
   url: https://www.reddit.com/r/comics/comments/1bns4v/question_about_avenging_spiderman/c98eua8/
 tags:
 - comics
-- '6'
 ---
 
 #6 is part of the Omega Effect crossover with the Daredevil and Punisher books

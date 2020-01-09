@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-14 08:01:17
 reply_to:
   label: '''June 14th - Penguins'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4o0e2e/june_14th_penguins/d48hwed/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Penguins! Wait, what? http://i.imgur.com/Nrn5CAH.jpg

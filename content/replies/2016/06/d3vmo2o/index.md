@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-04 11:37:58
 reply_to:
   label: a comment by huseph on 'June 4th - Seashells' on /r/SketchDaily
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4mheie/june_4th_seashells/d3vmo2o/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 I have a daily reminder set. 

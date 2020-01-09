@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-07-27 08:07:13
 reply_to:
   label: a comment by mushroomlevel on 'July 27th - Ancient tomes' on /r/SketchDaily
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4utj80/july_27th_ancient_tomes/d5spong/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Tales of Zestiria!

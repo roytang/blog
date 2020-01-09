@@ -1,6 +1,5 @@
 ---
 album: sketchbook
-categories: []
 date: 2016-03-13 17:35:39
 location: ''
 source: instagram

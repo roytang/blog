@@ -1,6 +1,5 @@
 ---
 album: sketchbook
-categories: []
 date: 2017-03-13 11:44:37
 location: ''
 source: instagram
@@ -16,7 +15,7 @@ syndicated:
 tags:
 - sketchdaily
 - paperbyfiftythree
-- MTG
+- mtg
 ---
 
 Ye olde magic shoppe #sketchdaily #paperbyfiftythree #MTG

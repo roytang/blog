@@ -13,7 +13,6 @@ tags:
 - spider-man
 - future foundation
 - ireadcomicbooks
-- '660'
 ---
 
 <p>It’s Spider-Man week on ireadcomicsbooks! Here’s the cover to Amazing Spider-Man #660 by Stefano Caselli and Lorenzo de Felici, featuring the Future Foundation costume!<br/></p>

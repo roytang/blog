@@ -11,7 +11,6 @@ tags:
 - dc comics
 - superman
 - ireadcomicbooks
-- '2'
 ---
 
 Superman (DC Rebirth) #2 variant cover by Kenneth Rocafort

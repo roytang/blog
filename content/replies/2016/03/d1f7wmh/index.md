@@ -1,5 +1,6 @@
 ---
-date: 2016-03-27 14:01:35+00:00
+album: sketchbook
+date: 2016-03-27 14:01:35
 reply_to:
   label: '''March 27th - Baby Animals'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4c5cw1/march_27th_baby_animals/d1f7wmh/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Easter reflection: http://i.imgur.com/p6fmjYI.jpg

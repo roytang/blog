@@ -1,5 +1,6 @@
 ---
-date: 2016-07-02 10:51:57+00:00
+album: sketchbook
+date: 2016-07-02 10:51:57
 reply_to:
   label: '''July 2nd - Hulk Versus ???'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4qweba/july_2nd_hulk_versus/d4wh3pf/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Hulk vs Saitama http://i.imgur.com/ch6tGgi.jpg

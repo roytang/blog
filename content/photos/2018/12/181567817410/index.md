@@ -12,7 +12,6 @@ tags:
 - comics
 - thor
 - ireadcomicbooks
-- '8'
 ---
 
 Thor (2018) #8 by Jason Aaron and Mike del Mundo. Thori is great lol

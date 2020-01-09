@@ -7,7 +7,6 @@ syndicated:
 tags:
 - comicbooks
 - reddit_submission
-- '1'
 ---
 
 #### Posted on r/comicbooks: [Anyone else really enjoy All-new X-Men #1? (spoilery maybe)](https://reddit.com/r/comicbooks/comments/136on5/anyone_else_really_enjoy_allnew_xmen_1_spoilery/)

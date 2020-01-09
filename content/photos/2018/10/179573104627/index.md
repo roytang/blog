@@ -12,7 +12,6 @@ tags:
 - dc
 - aquaman
 - ireadcomicbooks
-- '14'
 ---
 
 <p>Aquaman #14 cover art by  Joe Prado, Ivan Reis <br/></p>

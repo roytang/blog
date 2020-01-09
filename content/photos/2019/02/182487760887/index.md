@@ -13,7 +13,6 @@ tags:
 - dc comics
 - superman
 - ireadcomicbooks
-- '1'
 ---
 
 New Superman #1 cover by Bogdanovic and Shannon

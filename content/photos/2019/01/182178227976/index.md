@@ -13,7 +13,6 @@ tags:
 - fantastic four
 - esad ribic
 - ireadcomicbooks
-- '1'
 ---
 
 Fantastic Four (2018) #1 cover by Esad Ribic

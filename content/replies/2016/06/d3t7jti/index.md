@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-02 15:49:05
 reply_to:
   label: '''June 2nd - Classic Rock Album Covers'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4m651b/june_2nd_classic_rock_album_covers/d3t7jti/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Never Mind: http://i.imgur.com/TeiAJ1s.png

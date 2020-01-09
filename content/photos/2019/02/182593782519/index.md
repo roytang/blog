@@ -13,7 +13,6 @@ tags:
 - spider-man
 - todd mcfarlane
 - ireadcomicbooks
-- '300'
 ---
 
 <p>It’s Spider-Man week on ireadcomicbooks! Here’s the famous Amazing Spider-Man #300 cover by the amazing Todd McFarlane!<br/></p>

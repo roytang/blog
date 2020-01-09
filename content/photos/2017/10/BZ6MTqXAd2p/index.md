@@ -1,6 +1,5 @@
 ---
 album: sketchbook
-categories: []
 date: 2017-10-06 07:04:35
 location: ''
 source: instagram
@@ -15,7 +14,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156088502058912:1
 tags:
 - sketchdaily
-- Inktober
+- inktober
 ---
 
 #Inktober day 6: sword #sketchdaily

@@ -1,5 +1,6 @@
 ---
-date: 2016-04-28 05:24:15+00:00
+album: sketchbook
+date: 2016-04-28 05:24:15
 reply_to:
   label: '''April 27th - Stone'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4gnhxy/april_27th_stone/d2kd3rf/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Tormented gate stone golem (from Darksiders): http://i.imgur.com/o4uo2OD.jpg

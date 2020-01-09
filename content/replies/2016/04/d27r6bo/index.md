@@ -1,5 +1,6 @@
 ---
-date: 2016-04-18 17:36:29+00:00
+album: sketchbook
+date: 2016-04-18 17:36:29
 reply_to:
   label: '''April 18th - Cotton Candy'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4fatrr/april_18th_cotton_candy/d27r6bo/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Cotton candy: http://i.imgur.com/NZRA5Ko.jpg

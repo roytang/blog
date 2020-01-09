@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-04-10 17:15:03
 reply_to:
   label: '''April 10th - Drapery'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4e52jg/april_10th_drapery/d1xfqvj/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Pit (from Kid Icarus): http://i.imgur.com/FVYPLSY.jpg

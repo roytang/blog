@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-05-28 15:41:15
 reply_to:
   label: '''May 28th - Self Portrait & Self Promotion'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4lezd6/may_28th_self_portrait_self_promotion/d3n11qk/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Self-portrait attempt: http://i.imgur.com/G2lp06D.jpg

@@ -12,7 +12,6 @@ tags:
 - masks
 - comics
 - ireadcomicbooks
-- '1'
 ---
 
 <p>Masks #1 cover art by Alex Ross<br/></p>

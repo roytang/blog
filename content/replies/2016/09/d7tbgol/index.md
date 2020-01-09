@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-09-19 16:36:27
 reply_to:
   label: '''September 19th - Genies'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/53gk2s/september_19th_genies/d7tbgol/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Juzam Djinn: http://imgur.com/E9pJ8Kp

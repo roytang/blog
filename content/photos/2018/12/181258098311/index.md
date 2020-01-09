@@ -13,7 +13,6 @@ tags:
 - doctor doom
 - namor
 - ireadcomicbooks
-- '53'
 ---
 
 <p>Fool! Doctor Doom does as he pleases! Spidey Super Stories Vol 1 #53

@@ -13,12 +13,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1078833116104572929/
 tags:
 - comics
-- Aquaman
-- Black Manta
-- Ivan Reis
-- Joe Prado
+- aquaman
+- black manta
+- ivan reis
+- joe prado
 - ireadcomicbooks
-- '9'
 ---
 
 <p><a href="http://travisellisor.tumblr.com/post/181374416960/page-20-from-aquaman-2011-9-by-ivan-reis-joe" class="tumblr_blog">travisellisor</a>:</p>

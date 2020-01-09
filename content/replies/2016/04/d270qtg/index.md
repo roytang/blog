@@ -1,5 +1,6 @@
 ---
-date: 2016-04-18 01:51:11+00:00
+album: sketchbook
+date: 2016-04-18 01:51:11
 reply_to:
   label: '''April 17th - Addiction'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4f5rxl/april_17th_addiction/d270qtg/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Cigarette-smoking man: http://i.imgur.com/ncFhSlj.jpg

@@ -12,7 +12,6 @@ tags:
 - comics
 - avengers
 - ireadcomicbooks
-- '1'
 ---
 
 <p>Avengers (2012) #1 by Jonathan Hickman and Jerome Opena<br/></p>

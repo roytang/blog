@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-20 20:39:29
 reply_to:
   label: '''June 20th - Summer/Winter'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4oxnns/june_20th_summerwinter/d4h40uf/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Hot Rod from Transformers: The Movie (1986): http://i.imgur.com/SWnvnBc.jpg

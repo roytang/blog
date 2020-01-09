@@ -12,7 +12,6 @@ tags:
 - dc
 - mister miracle
 - ireadcomicbooks
-- '11'
 ---
 
 Darkseid eating from a veggie tray. Mister Miracle #11 by Tom King and Mitch Gerads

@@ -14,7 +14,6 @@ tags:
 - batwoman
 - detective comics
 - ireadcomicbooks
-- '944'
 ---
 
 Detectiv Comics #944 cover art by Martinez, Fernandez and Anderson

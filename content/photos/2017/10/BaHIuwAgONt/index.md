@@ -1,6 +1,5 @@
 ---
 album: sketchbook
-categories: []
 date: 2017-10-11 07:43:28
 location: ''
 source: instagram
@@ -15,7 +14,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156101286448912:0
 tags:
 - sketchdaily
-- Inktober
+- inktober
 ---
 
 #Inktober day 7: shy. I regret going for those realistic style hands, the proportions are terrible #sketchdaily

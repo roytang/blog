@@ -11,7 +11,6 @@ syndicated:
   url: https://ireadcomicbooks.tumblr.com/post/181308873107/why-i-love-comics-guardians-of-the-galaxy-5
 tags:
 - ireadcomicbooks
-- '5'
 ---
 
 <p><a href="http://why-i-love-comics.tumblr.com/post/181147116608/guardians-of-the-galaxy-5-2013-written-by-brian" class="tumblr_blog">why-i-love-comics</a>:</p>

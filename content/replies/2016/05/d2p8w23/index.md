@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-05-02 03:38:53
 reply_to:
   label: '''May 1st - World Building'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4h894l/may_1st_world_building/d2p8w23/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 The Tlavonian Republic is located in the temperate regions of the the largest continent, of which it is the most powerful civilization. They are best known for their domestication of moose, which they use for Cavalry.

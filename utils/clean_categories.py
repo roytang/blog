@@ -136,19 +136,19 @@ def clean_categories():
                     #             newcats.append(default_category)
                 newcats = [] # no more cats!
 
-            # new_tags = []
-            # for tag in tags:
-            #     tag = tag.lower()
-            #     if tag in delete_tags:
-            #         has_changes = True
-            #     else:
-            #         new_tags.append(tag)
-            #     if tag in tags_map:
-            #         new_tag = tags_map[tag]
-            #         has_changes = True
-            #         if new_tag not in new_tags and new_tag not in delete_tags:
-            #             new_tags.append(new_tag)
-            # tags = new_tags              
+            new_tags = []
+            for tag in tags:
+                tag = tag.lower()
+                if tag in delete_tags or tag.isnumeric():
+                    has_changes = True
+                else:
+                    new_tags.append(tag)
+                if tag in tags_map:
+                    new_tag = tags_map[tag]
+                    has_changes = True
+                    if new_tag not in new_tags and new_tag not in delete_tags:
+                        new_tags.append(new_tag)
+            tags = new_tags              
 
 
             # oldlen = len(tags)
@@ -161,7 +161,8 @@ def clean_categories():
             # if len(newcats) > 0:
             #     post['categories'] = newcats
             post['tags'] = tags
-            post['categories'] = [] # no more cats!
+            if post.get('categories', None) is not None:
+                post.__delitem__('categories') # no more cats!
 
             # print(post['categories'])
             print(post.get('tags'))

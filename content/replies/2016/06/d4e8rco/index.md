@@ -1,5 +1,6 @@
 ---
-date: 2016-06-18 13:12:17+00:00
+album: sketchbook
+date: 2016-06-18 13:12:17
 reply_to:
   label: '''June 18th - Chess'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4onnyl/june_18th_chess/d4e8rco/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Long live the king: http://i.imgur.com/GWJ0C5r.jpg

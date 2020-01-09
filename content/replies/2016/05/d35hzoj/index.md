@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-05-14 18:54:49
 reply_to:
   label: '''May 14th - Random Wikipedia Article'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4jal1m/may_14th_random_wikipedia_article/d35hzoj/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 My 3 articles were https://en.wikipedia.org/wiki/2-hydroxymuconate-semialdehyde_hydrolase, https://en.wikipedia.org/wiki/New_Hance_Trail and https://en.wikipedia.org/wiki/Harry_Taylor_(1957_pitcher)

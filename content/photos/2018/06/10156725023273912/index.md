@@ -6,7 +6,6 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156725023273912
 tags:
 - timeline-photos
-- '1'
 ---
 
 I've been nominated by [David Ramirez](https://www.facebook.com/827533990) to choose my 10 favorite films. I don't feel like the poster thing either, instead I'll (attempt to) draw the poster!

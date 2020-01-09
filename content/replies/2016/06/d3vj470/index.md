@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-04 07:43:52
 reply_to:
   label: '''June 3rd - Free Draw Friday!'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4mbvbp/june_3rd_free_draw_friday/d3vj470/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 I didn't have any ideas for this week's free draw, so I asked some friends for random things to draw and just drew all of them:

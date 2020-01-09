@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-05-27 14:19:22
 reply_to:
   label: a comment by PopsicleMud on 'May 27th - Free Draw Friday' on /r/SketchDaily
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4l9s0m/may_27th_free_draw_friday/d3lrey1/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 I couldn't tell who it was sorry :( I always find portraits of real-life people difficult to get accurately (maybe I'll attempt Nathan Fillion one of these days too)

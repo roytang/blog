@@ -12,7 +12,6 @@ tags:
 - comics
 - batman
 - ireadcomicbooks
-- '1'
 ---
 
 <p>Batman (New 52) #1 by Scott Snyder and Greg Capulo<br/></p>

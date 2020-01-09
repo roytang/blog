@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-05-03 16:56:33
 reply_to:
   label: '''May 3rd - Ants'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4hm9o8/may_3rd_ants/d2r7o83/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Um...hi? http://i.imgur.com/jhVIakW.jpg

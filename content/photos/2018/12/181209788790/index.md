@@ -12,7 +12,6 @@ tags:
 - young justice
 - comics
 - ireadcomicbooks
-- '1'
 ---
 
 <p>Young Justice (2018) #1 cover by Patrick Gleason<br/></p>

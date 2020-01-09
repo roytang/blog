@@ -1,5 +1,6 @@
 ---
-date: 2016-04-09 17:19:35+00:00
+album: sketchbook
+date: 2016-04-09 17:19:35
 reply_to:
   label: '''April 9th - Hands'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4e0icw/april_9th_hands/d1wbhed/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Just some handiwork today: http://i.imgur.com/yfjYNaT.jpg

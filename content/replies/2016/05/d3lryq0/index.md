@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-05-27 14:33:14
 reply_to:
   label: a comment by samitheninja on 'May 27th - Free Draw Friday' on /r/SketchDaily
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4l9s0m/may_27th_free_draw_friday/d3lryq0/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 I think the face looks fine. For the hands, I would guess that it starts with not getting the wrist part right (where the hand joins the arms). I try to place the back of the hand first before adding the fingers, so that I know the fingers will end up in sensible positions. Take a picture of what your own hand would look like in the given pose then use it as reference. 

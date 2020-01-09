@@ -15,7 +15,6 @@ tags:
 - batman
 - robin
 - ireadcomicbooks
-- '20'
 ---
 
 Justice League (2019) #20 Batman has a new favorite Robin. art by Jorge Jimenez, words by Scott Snyder

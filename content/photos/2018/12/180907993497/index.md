@@ -13,7 +13,6 @@ tags:
 - avengers
 - young avengers
 - ireadcomicbooks
-- '12'
 ---
 
 Young Avengers #12, art by Jim Cheung

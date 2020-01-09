@@ -15,7 +15,6 @@ tags:
 - grant morrison
 - liam sharp
 - ireadcomicbooks
-- '1'
 ---
 
 The Green Lantern (2018) #1 cover by Liam Sharp

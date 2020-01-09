@@ -16,8 +16,6 @@ tags:
 - superman
 - supergirl
 - ireadcomicbooks
-- '136'
-- '7'
 ---
 
 Uncanny X-Men #136 (1980) and Crisis on Infinite Earths #7 (1985). I only now realized how similar these covers were

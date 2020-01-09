@@ -11,7 +11,6 @@ syndicated:
   url: https://www.reddit.com/r/explainlikeimfive/comments/1fwzze/eli5_how_the_marvel_multiverse_works/caentf4/
 tags:
 - explainlikeimfive
-- '616'
 ---
 
 There is one main comics universe (it's often referred to as universe #616), all of the Marvel guys are there, including both Avengers and X-Men and a whole bunch of other people.

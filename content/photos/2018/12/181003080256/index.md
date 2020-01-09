@@ -12,7 +12,6 @@ tags:
 - comics
 - teen titans
 - ireadcomicbooks
-- '13'
 ---
 
 Teen Titans (DC Rebirth) #13

@@ -1,5 +1,6 @@
 ---
-date: 2016-03-23 17:45:50+00:00
+album: sketchbook
+date: 2016-03-23 17:45:50
 reply_to:
   label: a comment by hungryroy on 'March 23rd - XKCD' on /r/SketchDaily
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4blmz1/march_23rd_xkcd/d1aqcu1/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 http://xkcd.com/386/

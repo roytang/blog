@@ -12,7 +12,6 @@ tags:
 - comics
 - daredevil
 - ireadcomicbooks
-- '609'
 ---
 
 Daredevil #609 cover art by Phil Noto

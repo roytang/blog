@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-03-25 16:24:57
 reply_to:
   label: '''March 25th - Free Draw Friday'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4bvq56/march_25th_free_draw_friday/d1d5gxe/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Dawn of Justice: http://i.imgur.com/GkczQz4.jpg

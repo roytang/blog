@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-03-30 16:18:35
 reply_to:
   label: '''March 30th - Gnomes'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4cju4u/march_30th_gnomes/d1j7nd8/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Reinforcements... or refreshments? http://i.imgur.com/F4Y2sz9.jpg

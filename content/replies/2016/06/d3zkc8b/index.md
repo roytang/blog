@@ -1,5 +1,6 @@
 ---
-date: 2016-06-07 15:50:18+00:00
+album: sketchbook
+date: 2016-06-07 15:50:18
 reply_to:
   label: '''June 7th - Herpetology'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4mxzue/june_7th_herpetology/d3zkc8b/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Snake, Frog and Toad: http://i.imgur.com/e1vQX8q.jpg

@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-13 08:02:08
 reply_to:
   label: '''June 13th - A Bathroom'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4nunnz/june_13th_a_bathroom/d472j3h/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Morning rituals: http://i.imgur.com/F5TlkmV.jpg

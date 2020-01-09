@@ -12,7 +12,6 @@ tags:
 - comics
 - avengers
 - ireadcomicbooks
-- '22'
 ---
 
 <p>I was disappointed when Age of Ultron did not have this line. 

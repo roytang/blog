@@ -12,7 +12,6 @@ tags:
 - hawkeye
 - comics
 - ireadcomicbooks
-- '7'
 ---
 
 <p>Hawkeye (2012) #7 by Matt Fraction and David Aja<br/></p>

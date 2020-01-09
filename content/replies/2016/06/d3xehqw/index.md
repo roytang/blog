@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-05 23:42:42
 reply_to:
   label: '''June 5th - India'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4mmhir/june_5th_india/d3xehqw/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Street Fighter V's Dhalsim: http://i.imgur.com/kDNWyTf.jpg

@@ -12,7 +12,6 @@ tags:
 - comics
 - mister miracle
 - ireadcomicbooks
-- '11'
 ---
 
 <p>Mister Miracle #11 variant cover by Mitch Gerads<br/></p>

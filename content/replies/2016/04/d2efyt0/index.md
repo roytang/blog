@@ -1,5 +1,6 @@
 ---
-date: 2016-04-23 17:28:12+00:00
+album: sketchbook
+date: 2016-04-23 17:28:12
 reply_to:
   label: '''April 23rd - Figure Drawing'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4g2nky/april_23rd_figure_drawing/d2efyt0/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Just some quick figure drawing practice: http://i.imgur.com/eUiHh5J.jpg

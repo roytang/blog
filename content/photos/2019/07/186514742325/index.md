@@ -10,7 +10,6 @@ tags:
 - comics
 - x men
 - ireadcomicbooks
-- '1'
 ---
 
 House of X (2019) #1

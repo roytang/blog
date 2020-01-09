@@ -1,5 +1,6 @@
 ---
-date: 2016-06-24 08:02:39+00:00
+album: sketchbook
+date: 2016-06-24 08:02:39
 reply_to:
   label: '''June 24th - Free Draw Friday'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4plrjr/june_24th_free_draw_friday/d4lzq7d/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Emperor Thaurissan (from Hearthstone): http://i.imgur.com/F7Rh1nD.jpg

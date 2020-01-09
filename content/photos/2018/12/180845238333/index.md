@@ -16,8 +16,6 @@ tags:
 - gambit
 - jean grey
 - ireadcomicbooks
-- '287'
-- '335'
 ---
 
 The X-Traitor mystery was introduced in Uncanny X-Men #287 (1992) and was left unresolved until Onslaught: X-Men and Uncanny X-Men #335 (1996)

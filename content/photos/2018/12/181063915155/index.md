@@ -12,7 +12,6 @@ tags:
 - comics
 - avengers
 - ireadcomicbooks
-- '1'
 ---
 
 Avengers: The Children’s Crusade #1 cover by Jim Cheung

@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-01 18:02:34
 reply_to:
   label: '''June 1st - Genghis Khan'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4m0626/june_1st_genghis_khan/d3s0icf/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Genghis Khan: http://i.imgur.com/eipOFwQ.png

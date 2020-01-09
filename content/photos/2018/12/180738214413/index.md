@@ -13,7 +13,6 @@ tags:
 - x-men
 - avengers
 - ireadcomicbooks
-- '6'
 ---
 
 House of M #6 by Olivier Coipel

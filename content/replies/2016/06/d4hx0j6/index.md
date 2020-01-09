@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-06-21 13:10:05
 reply_to:
   label: '''June 21st - Mollusks'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4p3iqw/june_21st_mollusks/d4hx0j6/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Kraken attack! http://i.imgur.com/xiV79Ck.jpg

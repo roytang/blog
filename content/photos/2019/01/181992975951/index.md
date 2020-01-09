@@ -16,7 +16,6 @@ tags:
 - quentin quire
 - america chavez
 - ireadcomicbooks
-- '1'
 ---
 
 West Coast Avengers (2018) #1 cover by Stefano Caselli and Nolan Woodard

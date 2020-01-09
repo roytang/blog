@@ -14,7 +14,6 @@ tags:
 - flash
 - justice league
 - ireadcomicbooks
-- '34'
 ---
 
 Flash (Rebirth) #34 Justice League movie variant cover by McKone and Fajardo

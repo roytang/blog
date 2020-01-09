@@ -16,7 +16,6 @@ tags:
 - wonder woman
 - jae lee
 - ireadcomicbooks
-- '14'
 ---
 
 Justice League (2018) #14 variant cover by Jae Lee

@@ -12,7 +12,6 @@ tags:
 - comics
 - spider-man
 - ireadcomicbooks
-- '57'
 ---
 
 <p>Marvel Adventures Spider-Man #57<br/></p>

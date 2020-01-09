@@ -1,5 +1,6 @@
 ---
-date: 2016-06-14 06:11:57+00:00
+album: sketchbook
+date: 2016-06-14 06:11:57
 reply_to:
   label: a comment by Meowcedess on 'June 13th - A Bathroom' on /r/SketchDaily
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4nunnz/june_13th_a_bathroom/d48fkk2/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Looks good!

@@ -12,7 +12,6 @@ tags:
 - comics
 - iron fist
 - ireadcomicbooks
-- '8'
 ---
 
 Immortal Iron Fist #8 by Fraction, Brubaker and Aja

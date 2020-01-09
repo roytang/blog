@@ -1,5 +1,6 @@
 ---
-date: 2016-03-31 16:15:34+00:00
+album: sketchbook
+date: 2016-03-31 16:15:34
 reply_to:
   label: '''March 31st - Flower Buds'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4cp39l/march_31st_flower_buds/d1kkk2t/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Airport: http://i.imgur.com/xgnBILJ.jpg

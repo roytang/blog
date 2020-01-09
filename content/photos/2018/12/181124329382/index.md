@@ -12,7 +12,6 @@ tags:
 - comics
 - hawkeye
 - ireadcomicbooks
-- '1'
 ---
 
 Hawkeye (2012) #1 cover by David Aja

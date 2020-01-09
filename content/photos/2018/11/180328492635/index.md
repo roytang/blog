@@ -12,7 +12,6 @@ tags:
 - comics
 - justice league
 - ireadcomicbooks
-- '6'
 ---
 
 <p>Justice League (New 52) #6 by Geoff Johns and Jim Lee<br/></p>

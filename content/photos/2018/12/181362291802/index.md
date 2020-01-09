@@ -12,7 +12,6 @@ tags:
 - marvel
 - comics
 - ireadcomicbooks
-- '21'
 ---
 
 Spider-man (2016) #21

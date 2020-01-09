@@ -1,5 +1,6 @@
 ---
-date: 2016-05-30 18:36:28+00:00
+album: sketchbook
+date: 2016-05-30 18:36:28
 reply_to:
   label: '''May 30th - Heroes'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4lojoa/may_30th_heroes/d3peyeu/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Superman's bald-headed nemesis: http://i.imgur.com/aj15O9u.jpg

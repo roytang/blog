@@ -9,8 +9,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/796206437697486848/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155074164178912:1
-tags:
-- '2016'
+tags: []
 ---
 
 Too much bad news this week, time for some chocolate #2016

@@ -1,5 +1,6 @@
 ---
-date: 2018-06-26 13:47:40+00:00
+album: sketchbook
+date: 2018-06-26 13:47:40
 reply_to:
   label: a comment by viraelin on 'June 26th - Yoshitaka Amano' on /r/SketchDaily
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/8tyigs/june_26th_yoshitaka_amano/e1bh4lg/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 this is amazing

@@ -12,7 +12,6 @@ tags:
 - x-men
 - comics
 - ireadcomicbooks
-- '4'
 ---
 
 <p>All New X-Men #4 by Brian Michael Bendis and Stuart Immonen<br/></p>

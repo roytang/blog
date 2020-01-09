@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-05-02 17:34:03
 reply_to:
   label: '''May 2nd - Hippies'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4hfeme/may_2nd_hippies/d2puxyg/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 The Hypnotic Specter: http://i.imgur.com/CcYpCu3.jpg Often referred to lovingly by old-school MTG players as "Hippie"

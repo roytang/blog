@@ -12,7 +12,6 @@ tags:
 - comics
 - iron man
 - ireadcomicbooks
-- '600'
 ---
 
 <p>Invincible Iron Man #600 by Brian Michael Bendis and Andrea Sorrentino<br/></p>

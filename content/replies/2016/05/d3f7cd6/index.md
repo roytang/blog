@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-05-22 14:39:19
 reply_to:
   label: '''May 22nd - Bobcats'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4khpa7/may_22nd_bobcats/d3f7cd6/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Bobcat: http://i.imgur.com/KY6jaJ0.jpg

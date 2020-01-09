@@ -1,5 +1,6 @@
 ---
-date: 2016-04-15 16:12:00+00:00
+album: sketchbook
+date: 2016-04-15 16:12:00
 reply_to:
   label: '''April 15th - Free Draw Friday'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4evqf1/april_15th_free_draw_friday/d244rbe/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Batgirl: http://i.imgur.com/xlnNVvw.jpg

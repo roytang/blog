@@ -7,7 +7,6 @@ syndicated:
 tags:
 - comiccharacterdrawing
 - reddit_submission
-- '50'
 ---
 
 #### Posted on r/comiccharacterdrawing: [[OA] Batman v Superman (based on Batman #50 alternate cover)](https://reddit.com/r/comiccharacterdrawing/comments/4byv2b/oa_batman_v_superman_based_on_batman_50_alternate/)

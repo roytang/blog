@@ -1,6 +1,5 @@
 ---
 album: sketchbook
-categories: []
 date: 2016-12-09 10:51:33
 location: ''
 source: instagram
@@ -15,7 +14,6 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155161972988912:1
 tags:
 - sketchdaily
-- '10'
 ---
 
 Daredevil #sketchdaily Inspired by Daredevil (2015) #10 cover by Ron Garney

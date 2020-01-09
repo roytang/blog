@@ -1,5 +1,6 @@
 ---
-date: 2016-03-21 18:15:13+00:00
+album: sketchbook
+date: 2016-03-21 18:15:13
 reply_to:
   label: '''March 21st - Marvel Super Heroes'' on /r/SketchDaily'
   name: ''
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4bbfoq/march_21st_marvel_super_heroes/d18475y/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Power Man and Iron First: http://i.imgur.com/TiOUiqf.jpg

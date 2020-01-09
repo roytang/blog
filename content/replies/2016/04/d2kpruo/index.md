@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-04-28 14:34:45
 reply_to:
   label: '''April 28th - Utopian Paradise'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4gt0q4/april_28th_utopian_paradise/d2kpruo/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Sorry, I'm unable to follow the theme today because of reasons. (i.e. I can't think of anything in-theme)

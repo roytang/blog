@@ -1,6 +1,5 @@
 ---
 album: sketchbook
-categories: []
 date: 2016-02-12 08:37:30
 location: ''
 source: instagram
@@ -13,7 +12,6 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154370917538912:0
 tags:
 - sketchdaily
-- '6'
 ---
 
 I read Harry Potter and the Goblet of Fire today (2016 book #6). #sketchdaily I didnt have a reference image for this one so they look weird. Also, robes are tough

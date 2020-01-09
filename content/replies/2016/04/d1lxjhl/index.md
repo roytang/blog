@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-04-01 16:22:13
 reply_to:
   label: '''April 1rd - Free Draw Friday'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4culef/april_1rd_free_draw_friday/d1lxjhl/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Literally Hitler: http://i.imgur.com/fnuMawW.jpg

@@ -1,4 +1,5 @@
 ---
+album: sketchbook
 date: 2016-05-31 13:17:24
 reply_to:
   label: '''May 31st - A Cemetery'' on /r/SketchDaily'
@@ -10,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4lu5bv/may_31st_a_cemetery/d3qbzgf/
 tags:
-- SketchDaily
+- sketchdaily
 ---
 
 Graveyard encounter: http://i.imgur.com/1spSng2.jpg

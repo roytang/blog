@@ -13,7 +13,6 @@ tags:
 - x-men
 - cyclops
 - ireadcomicbooks
-- '11'
 ---
 
 <p>Avengers vs X-Men #11 by Brian Michael Bendis and Olivier Copiel<br/></p>

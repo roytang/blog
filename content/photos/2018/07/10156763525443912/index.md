@@ -6,7 +6,6 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156763525443912
 tags:
 - timeline-photos
-- '9'
 ---
 
 Posters of my favorite movies #9 out of 10!

@@ -12,7 +12,6 @@ tags:
 - comics
 - x-factor
 - ireadcomicbooks
-- '92'
 ---
 
 <p>X-Factor #92 cover by Joe Quesada. This is one of my favorite covers of all time (despite the hologram), but I can no longer find my physical copy of it, not sure if I sold it off before. More annoying is that the Marvel Unlimited version of this issue does not include the wraparound cover! The above image is sourced from <a href="http://marvel.wikia.com/wiki/X-Factor_Vol_1_92">http://marvel.wikia.com/wiki/X-Factor_Vol_1_92</a><br/></p>
