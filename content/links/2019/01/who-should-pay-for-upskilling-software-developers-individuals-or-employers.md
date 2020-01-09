@@ -8,4 +8,7 @@ link:
 slug: who-should-pay-for-upskilling-software-developers-individuals-or-employers
 source: pocket
 title: Who Should Pay for Upskilling Software Developers? Individuals or Employers?
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1083416670293712901/
 ---

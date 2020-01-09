@@ -10,4 +10,5 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1083280472388423680/
 ---
 
-RT [@_AlexHirsch](https://twitter.com/_AlexHirsch/): What the fresh hell. This is REAL. Filmed in 1958- about a conman who grifts a small town of suckers into building a wall.…
+What the fresh hell. This is REAL. Filmed in 1958- about a conman who grifts a small town of suckers into building a wall. History not subtle enough for you? GUESS THE GRIFTER'S NAME 
+(And watch until the end)

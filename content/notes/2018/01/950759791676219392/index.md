@@ -6,9 +6,14 @@ syndicated:
   url: https://twitter.com/roytang/statuses/950759791676219392/
 - type: twitter
   url: https://twitter.com/roytang/statuses/950759880649928704/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156326129133912
+tags: 
+- tv
+- spoiler-free-review  
 ---
 
-Black Mirror S4 reviews (episodes listed from most enjoyed to least):
+Black Mirror S4 spoiler-free review! (episodes listed from most enjoyed to least):
 
 4.6. Black Museum (reminds me of White Christmas)
 
