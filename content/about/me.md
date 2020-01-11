@@ -15,7 +15,8 @@ type: page
 
 <div class="grid_item">
 
-- Roy Tang
+Roy Tang:
+
 - I'm from the [Philippines](/tags/philippines) (GMT+8)
 - Technically, this entire site is about me (and my thoughts), so this page is a bit redundant. Maybe that alone already tells you everything you need to know?
 - [programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart](/2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/)
