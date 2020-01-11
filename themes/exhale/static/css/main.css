@@ -563,6 +563,15 @@ SVG Icons - svgicons.sparkk.fr
     stroke-width: 1;
 }
 
+div.grid2 {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    border: 1px var(--main-color) solid;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-bottom: 1em;
+}
+
 div.grid3 {
     display: grid;
     grid-template-columns: 1fr 2fr 2fr;
