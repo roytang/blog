@@ -21,4 +21,5 @@ type: page
   - Webmentions are handled via webmention.io.
   - content I post on Twitter, Instagram and other services are fed back into this site via custom Python scripts.
 - This site is hosted on [Webfaction](https://www.webfaction.com/?aid=7808) (affiliate link). 
+- An off-site mirror/backup is generated every so often to [https://roytang.github.io/](https://roytang.github.io/).
 
