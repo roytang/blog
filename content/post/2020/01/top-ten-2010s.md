@@ -1,10 +1,13 @@
 ---
-title: "My Top Tens of the 2010s"
 date: 2020-01-11
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1215806319304814592/
 tags:
 - movies
 - tv
 - gaming
+title: My Top Tens of the 2010s
 ---
 
 Apparently I'm not done looking back at the 2010s yet. I had some "top tens of 2010s" discussions with some friends recently, here are my personal lists, each in no particular order:
