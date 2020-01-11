@@ -594,3 +594,7 @@ figcaption {
 .e-content table tr:nth-child(even) {
     background: #333
 }
+
+p {
+    text-align: justify;    
+}
