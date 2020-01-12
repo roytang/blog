@@ -1,9 +1,12 @@
 ---
-title: "Weeknotes 2020-01-12"
 date: 2020-01-12
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1216214016697171969/
 tags:
 - weeknotes
 - changelog
+title: Weeknotes 2020-01-12
 ---
 
 I've been thinking for a while about doing regular weeknotes. This is a type of post I've seen in some blogs where they recap the things that've happened to them during the past week. I've actually been doing these privately for a while, and now I'm going to try making them public. I think the advantages are obvious in terms of (a) having notes to recall what you were doing over a certain time period; and (b) guaranteeing regular writing output on the blog. One disadvantage over the private weeknotes is that in private I can usually include some more personal items (usually family visits and concerns, stuff like that), that aren't part of what I usually make public. I may end up having both public weeknotes and private weeknotes? We'll see. Another concern is for a lot of the examples of weeknotes I've seen, they usually write about work-related concerns/issues. I've never been inclined to be too specific about work-related concerns in public, mostly out of respect for my employers who usually don't expect me to write openly for internal matters. In reality, I expect my weeknotes to lean less towards technical things, and more towards hobby stuff, movies and tv shows watched, and so on. Again, we'll probably figure this out as we go along. Let's get on with it then.
