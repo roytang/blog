@@ -1,4 +1,8 @@
 <div class="e-content">
+{{ if (.Params.toc) }}
+Table of Contents:
+    {{ .TableOfContents }}
+{{ end }}
 {{ .Content }}
 {{ if .Params.dontinlinephotos }}
 {{ else }}
