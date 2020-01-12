@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1084473949239427072/
 ---
 
-Why dictators lie: https://www.reddit.com/r/changemyview/comments/af4q1u/cmv_if_you_critically_examine_the_bible_like_a/edw9fng/ https://t.co/4UV1GWL1fC
+Why dictators lie: https://www.reddit.com/r/changemyview/comments/af4q1u/cmv_if_you_critically_examine_the_bible_like_a/edw9fng/ 

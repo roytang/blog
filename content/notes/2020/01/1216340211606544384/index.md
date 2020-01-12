@@ -13,4 +13,11 @@ Obviously it's all scary and everyone should take care etc, and not to belittle 
 Quoted [ABSCBNNews's tweet](https://twitter.com/ABSCBNNews/status/1216322269670064129):
 
 > Streaks of lightning blazed through columns of ashes amid #TaalVolcano eruption as seen from Nasugbu, Batangas on Sunday evening. Photo from Domcar Lagto, ABS-CBN News
-more pics of the eruption https://twitter.com/itskyylliieee/status/1216290913246273536
+
+more pics of the eruption 
+
+Quoted [itskyylliieee's tweet](https://twitter.com/itskyylliieee/status/1216290913246273536):
+
+> This is the original picture tho guys: please don’t be frightened I just edited the pics at VSCO
+> 
+> Also the pics aren’t taken by me btw (credits to whoever person taken it) I just edited the pics and put an additional prayer.
