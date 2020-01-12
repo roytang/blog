@@ -598,3 +598,8 @@ figcaption {
 p {
     text-align: justify;    
 }
+
+#TableOfContents {
+    color: var(--second-color);
+}
+
