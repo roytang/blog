@@ -4,6 +4,8 @@ source: stackexchange
 syndicated:
 - type: stackexchange
   url: https://superuser.com/questions/233276/windows-7-account-settings-vanished
+- type: twitter
+  url: https://twitter.com/roytang/statuses/25949896687222785/  
 tags:
 - windows-7
 - questions
