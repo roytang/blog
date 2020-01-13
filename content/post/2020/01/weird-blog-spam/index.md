@@ -1,9 +1,12 @@
 ---
-title: "Weird Blog Spam"
 date: 2020-01-13
+dontinlinephotos: true
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1216576419154796544/
 tags:
 - tech life
-dontinlinephotos: true
+title: Weird Blog Spam
 ---
 
 I am generally receptive to receiving emails from strangers, so I don't mind having a contact email publicly accessible on this site. But I don't know if it's a consequence of having a reasonably active blog or what, but in the past few years, I've sometimes gotten what I like to call "weird blog spam." 
