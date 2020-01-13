@@ -1,7 +1,6 @@
 ---
 title: "Weird Blog Spam"
 date: 2020-01-13
-draft: true
 tags:
 - tech life
 dontinlinephotos: true
