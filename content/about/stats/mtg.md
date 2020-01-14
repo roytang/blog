@@ -15,6 +15,10 @@ Stats :: [Website](/about/stats) :: [Social Media](/about/stats/socmed) :: [MTG]
 
 ### Paper Magic stats 
 
+<div id="stats_table">
+
 {{< markdown "utils/stats/mtg.md" >}}
+
+</div> 
 
 ** I wish I also had lifetime stats for Magic Online and Magic Arena, but I don't have any data sources for those
