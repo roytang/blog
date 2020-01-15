@@ -10,4 +10,3 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1085027318601461760/
 ---
 
-RT [@ditzkoff](https://twitter.com/ditzkoff/): https://t.co/RdTHq5dgyK

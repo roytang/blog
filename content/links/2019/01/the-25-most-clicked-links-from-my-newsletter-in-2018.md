@@ -8,4 +8,7 @@ link:
 slug: the-25-most-clicked-links-from-my-newsletter-in-2018
 source: pocket
 title: The 25 Most-Clicked Links from My Newsletter in 2018
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1085258189073985537/
 ---
