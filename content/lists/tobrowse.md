@@ -1,6 +1,4 @@
 ---
-url: /lists/tobrowse/
-type: page
 title: To-Browse List
 ---
 

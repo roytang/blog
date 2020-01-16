@@ -1,8 +1,6 @@
 ---
 title: What Am I Doing Now?
 author: roy
-type: page
-url: /now
 comments_enabled: false
 ---
 

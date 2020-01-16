@@ -1,6 +1,4 @@
 ---
-url: /lists/reading/
-type: page
 title: Reading List
 ---
 
