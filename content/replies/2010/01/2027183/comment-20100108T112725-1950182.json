@@ -1,0 +1,11 @@
+{
+  "id": 1950182,
+  "name": "GaryF",
+  "url": "https://stackoverflow.com/users/1035/garyf",
+  "text": "The possible issue with that is if you're doing any range or ordering operations then having a large but real value may do something unexpected.",
+  "date": "2010-01-08 11:27:25",
+  "photo": "https://www.gravatar.com/avatar/1b5863cbb2d0009e78eaa85ea89fe2a6?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/2027171/how-to-express-never-with-java-util-date/2027183#2027183",
+  "mention_url": "https://stackoverflow.com/questions/2027171/how-to-express-never-with-java-util-date/2027183#2027183",
+  "source": "stackexchange"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 1981936,
+  "name": "ajsie",
+  "url": "https://stackoverflow.com/users/206446/ajsie",
+  "text": "so you mean when i write the class i just declare it as final. and when i have instantiated the class and call a method, the method will assign a value to it which cannot be changed?",
+  "date": "2010-01-13 04:16:02",
+  "photo": "https://www.gravatar.com/avatar/d084e44bfe1566d87abf80d1f6c0b8a4?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/2054327/point-of-having-an-instance-variable-as-final/2054343#2054343",
+  "mention_url": "https://stackoverflow.com/questions/2054327/point-of-having-an-instance-variable-as-final/2054343#2054343",
+  "source": "stackexchange"
+}

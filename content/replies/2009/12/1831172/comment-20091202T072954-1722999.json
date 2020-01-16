@@ -1,0 +1,11 @@
+{
+  "id": 1722999,
+  "name": "Doug Neiner",
+  "url": "https://stackoverflow.com/users/152083/doug-neiner",
+  "text": "`$.live` does not currently support `focus` and `blur` events.",
+  "date": "2009-12-02 07:29:54",
+  "photo": "https://www.gravatar.com/avatar/6868c2908859c318f4fa0911eb6029b0?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/1831152/how-to-stop-setinterval/1831172#1831172",
+  "mention_url": "https://stackoverflow.com/questions/1831152/how-to-stop-setinterval/1831172#1831172",
+  "source": "stackexchange"
+}

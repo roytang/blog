@@ -1,0 +1,11 @@
+{
+  "id": 4887341,
+  "name": "T.J. Crowder",
+  "url": "https://stackoverflow.com/users/157247/t-j-crowder",
+  "text": "*\"They fire in order of declaration.\"* No, they fire in order of *execution* (the order in which you executed the `ready` or hyper-overloaded `$` function). You can *declare* your function you pass into those anywhere. (A small point, but precision can really matter with these things.) http://jsbin.com/ulevi3",
+  "date": "2010-12-17 14:27:40",
+  "photo": "https://www.gravatar.com/avatar/ca3e484c121268e4c8302616b2395eb9?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/4471349/how-many-times-can-i-have-jquerys-document-ready-function-declared-on-a-page/4471375#4471375",
+  "mention_url": "https://stackoverflow.com/questions/4471349/how-many-times-can-i-have-jquerys-document-ready-function-declared-on-a-page/4471375#4471375",
+  "source": "stackexchange"
+}

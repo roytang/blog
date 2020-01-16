@@ -1,0 +1,11 @@
+{
+  "id": 1982184,
+  "name": "Roy Tang",
+  "url": "https://stackoverflow.com/users/18494/roy-tang",
+  "text": "I think you need to assign a value in the constructor, otherwise the compiler will throw an error.",
+  "date": "2010-01-13 05:28:38",
+  "photo": "https://www.gravatar.com/avatar/c7874a4682d547b17543476272725198?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/2054327/point-of-having-an-instance-variable-as-final/2054343#2054343",
+  "mention_url": "https://stackoverflow.com/questions/2054327/point-of-having-an-instance-variable-as-final/2054343#2054343",
+  "source": "stackexchange"
+}

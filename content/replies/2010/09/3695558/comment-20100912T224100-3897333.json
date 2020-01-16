@@ -1,0 +1,11 @@
+{
+  "id": 3897333,
+  "name": "Ben",
+  "url": "https://stackoverflow.com/users/325085/ben",
+  "text": "in the SELECT property i can grab only the string i create in the source, string that i create from 3 variables, i want to know if i can SELECT each one of the variables for example i want to search for \"HIL\" and get HILTON LOS ANGELES USA suggest, when i select it it will show only \"HILTON\", there is a way to solve it?",
+  "date": "2010-09-12 22:41:00",
+  "photo": "https://www.gravatar.com/avatar/8f130bb62d864fa1c21715599882122e?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/3695414/how-to-use-jquery-ui-autocomplete-1-8-4/3695558#3695558",
+  "mention_url": "https://stackoverflow.com/questions/3695414/how-to-use-jquery-ui-autocomplete-1-8-4/3695558#3695558",
+  "source": "stackexchange"
+}

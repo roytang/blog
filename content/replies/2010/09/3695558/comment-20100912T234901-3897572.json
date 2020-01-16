@@ -1,0 +1,11 @@
+{
+  "id": 3897572,
+  "name": "Roy Tang",
+  "url": "https://stackoverflow.com/users/18494/roy-tang",
+  "text": "You can isolate the variable you want in the \"value\" property of the returned object, as described in the documentation. For your example, the object can be { \"label\" : \"HILTON LOS ANGELES USA\", \"value\" : \"HILTON\" }",
+  "date": "2010-09-12 23:49:01",
+  "photo": "https://www.gravatar.com/avatar/c7874a4682d547b17543476272725198?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/3695414/how-to-use-jquery-ui-autocomplete-1-8-4/3695558#3695558",
+  "mention_url": "https://stackoverflow.com/questions/3695414/how-to-use-jquery-ui-autocomplete-1-8-4/3695558#3695558",
+  "source": "stackexchange"
+}

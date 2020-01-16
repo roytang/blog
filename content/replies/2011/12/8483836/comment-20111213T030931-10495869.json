@@ -1,0 +1,11 @@
+{
+  "id": 10495869,
+  "name": "palAlaa",
+  "url": "https://stackoverflow.com/users/2067571/palalaa",
+  "text": "I redirect to the login page through a filter, but I can't store the url in the session or request param because session time out, I can store it in local storage, but there are many websites redirect to the page I was already on without using local storage!",
+  "date": "2011-12-13 03:09:31",
+  "photo": "https://www.gravatar.com/avatar/f53125b59305a81a346f1890b38bf062?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/8483809/how-to-redirect-to-specified-page-after-session-timeout/8483836#8483836",
+  "mention_url": "https://stackoverflow.com/questions/8483809/how-to-redirect-to-specified-page-after-session-timeout/8483836#8483836",
+  "source": "stackexchange"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 3233257,
+  "name": "Mike Sherov",
+  "url": "https://stackoverflow.com/users/260528/mike-sherov",
+  "text": "@hristo, Comet isn't a specific technology. It's the name given to any technique to simulate pushing data over the web. It's as much a technology as Ajax is.",
+  "date": "2010-06-30 02:48:53",
+  "photo": "https://www.gravatar.com/avatar/a123410cfb9ea6510294a295bb548530?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/3146067/how-to-detect-incoming-chat-message/3146107#3146107",
+  "mention_url": "https://stackoverflow.com/questions/3146067/how-to-detect-incoming-chat-message/3146107#3146107",
+  "source": "stackexchange"
+}

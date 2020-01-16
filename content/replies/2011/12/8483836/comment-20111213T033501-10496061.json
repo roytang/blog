@@ -1,0 +1,11 @@
+{
+  "id": 10496061,
+  "name": "Roy Tang",
+  "url": "https://stackoverflow.com/users/18494/roy-tang",
+  "text": "If you forward to the login page instead of redirect (using requestDispatcher.forward), you can retain any attributes saved into the request. In this way you can store the original url as a request attribute and add it as a hidden field in your login jsp",
+  "date": "2011-12-13 03:35:01",
+  "photo": "https://www.gravatar.com/avatar/c7874a4682d547b17543476272725198?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/8483809/how-to-redirect-to-specified-page-after-session-timeout/8483836#8483836",
+  "mention_url": "https://stackoverflow.com/questions/8483809/how-to-redirect-to-specified-page-after-session-timeout/8483836#8483836",
+  "source": "stackexchange"
+}

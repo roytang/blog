@@ -1,0 +1,11 @@
+{
+  "id": 10477074,
+  "name": "jfriend00",
+  "url": "https://stackoverflow.com/users/816620/jfriend00",
+  "text": "Depending upon the lifetime you have to operate over, 8 digits may not be enough and if you need a whole bunch of random numbers quickly, the current time may not advance fast enough.  Time is generally a good thing to use for a non-repeating unique number, but the 8 digit limitation might handicap that for this particular use.",
+  "date": "2011-12-12 07:13:47",
+  "photo": "https://i.stack.imgur.com/Xu7hp.jpg?s=128&g=1",
+  "source_url": "https://stackoverflow.com/questions/8470859/how-to-generate-an-random-8-character-string-that-wont-occur-twice-in-jquery/8470875#8470875",
+  "mention_url": "https://stackoverflow.com/questions/8470859/how-to-generate-an-random-8-character-string-that-wont-occur-twice-in-jquery/8470875#8470875",
+  "source": "stackexchange"
+}

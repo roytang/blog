@@ -1,0 +1,11 @@
+{
+  "id": 10496043,
+  "name": "Roy Tang",
+  "url": "https://stackoverflow.com/users/18494/roy-tang",
+  "text": "It is correct that executing the SQL directly in JDBC is faster",
+  "date": "2011-12-13 03:32:17",
+  "photo": "https://www.gravatar.com/avatar/c7874a4682d547b17543476272725198?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/8483352/how-to-reference-an-oracle-pl-sql-out-parameter-of-tablerowtype-as-an-object-in/8483644#8483644",
+  "mention_url": "https://stackoverflow.com/questions/8483352/how-to-reference-an-oracle-pl-sql-out-parameter-of-tablerowtype-as-an-object-in/8483644#8483644",
+  "source": "stackexchange"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 4887351,
+  "name": "Ryan Kinal",
+  "url": "https://stackoverflow.com/users/363815/ryan-kinal",
+  "text": "`$(function() { ... })` is actually equivalent to `$(document).ready(function() { ... })`",
+  "date": "2010-12-17 14:28:18",
+  "photo": "https://www.gravatar.com/avatar/a1f961d1884c890688c64bb98912f1fb?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/4471349/how-many-times-can-i-have-jquerys-document-ready-function-declared-on-a-page/4471375#4471375",
+  "mention_url": "https://stackoverflow.com/questions/4471349/how-many-times-can-i-have-jquerys-document-ready-function-declared-on-a-page/4471375#4471375",
+  "source": "stackexchange"
+}

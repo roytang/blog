@@ -1,0 +1,11 @@
+{
+  "id": 10495635,
+  "name": "Matthew Quiros",
+  "url": "https://stackoverflow.com/users/855680/matthew-quiros",
+  "text": "Am I right to think that though using a cursor will preserve the goal of storing all logic in the Oracle side, directly executing the SQL from JDBC will perform faster?",
+  "date": "2011-12-13 02:45:02",
+  "photo": "https://www.gravatar.com/avatar/1c699a13b6675c37d665469d556de9ba?s=128&d=identicon&r=PG",
+  "source_url": "https://stackoverflow.com/questions/8483352/how-to-reference-an-oracle-pl-sql-out-parameter-of-tablerowtype-as-an-object-in/8483644#8483644",
+  "mention_url": "https://stackoverflow.com/questions/8483352/how-to-reference-an-oracle-pl-sql-out-parameter-of-tablerowtype-as-an-object-in/8483644#8483644",
+  "source": "stackexchange"
+}
