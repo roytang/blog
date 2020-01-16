@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1217311777035366401/
 tags:
 - CrisisOnInfiniteEarths
+- spoiler-free-review
 ---
 
 #CrisisOnInfiniteEarths spoiler free review: low budget, pacing and writing issues, but idc because all the dc comics fan service kept making me smile
