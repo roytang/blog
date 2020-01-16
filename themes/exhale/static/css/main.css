@@ -603,13 +603,13 @@ p {
     color: var(--second-color);
 }
 
-#stats_table {
+table {
     width: 100%;
 }
 
 @media (max-width: 480px) {
 
-    #stats_table { 
+    table { 
         font-size: 2.5vw;
     }
  
