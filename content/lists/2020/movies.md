@@ -19,3 +19,4 @@ List of new (to me) movies watched in 2020. Ongoing!
 | 10 | Coming to America | 1988 | Jan 15 | I had low expectations, but it was better than I thought it would be. Ma would like it! | 3.5 |
 | 11 | MIB International | 2019 | Jan 15 | Kind of predictable | 3 |
 | 12 | Batman vs TMNT | 2019 | Jan 16 | Ridiculous, but fun. Good for kids. | 4 |
+| 13 | 6 Underground | 2019 | Jan 17 | The editing and scene transitions were all over the place. A very Michael Bay film. | 3.5 |
