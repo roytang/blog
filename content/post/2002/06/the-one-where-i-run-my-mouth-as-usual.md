@@ -7,6 +7,10 @@ tags:
 title: The One Where I Run My Mouth, As Usual
 type: post
 url: /2002/06/the-one-where-i-run-my-mouth-as-usual/
+source: roywantsmeat
+syndicated:
+- type: blogger
+  url: https://roywantsmeat.blogspot.com/2002/07/01-jul-2002.html
 ---
 
 Well I finally decided to start a full-blown web journal. I used to keep one some years ago &#8212; I think it greatly helped me develop my english skills. Or not. Anyway, I tend to run my mouth off for paragraphs at a time anyway, and so many things run through my head at any given time it probably makes sense to put down at least some of it on paper (or in a computer at least.)
