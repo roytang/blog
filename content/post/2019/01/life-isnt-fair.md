@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1089040594498932743/
 title: Life Isn't Fair
 type: post
+tags:
+- quotes
 ---
 
 Quote 1:

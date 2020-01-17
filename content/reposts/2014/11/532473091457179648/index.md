@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/532473091457179648/
 ---
 
-RT [@codinghorror](https://twitter.com/codinghorror/): REMINDER https://t.co/UBJCLFlCBc
+REMINDER https://t.co/UBJCLFlCBc
