@@ -28,3 +28,4 @@ comments_enabled: false
 | Handheld | Playstation Vita | 2013 |
 | Handheld | New 3DSXL | 2015 |
 
+Previously: [The Setup](/2010/06/the-setup/) | [The Setup 2018](/2018/03/the-setup-2018-edition/)
