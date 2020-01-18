@@ -1,0 +1,30 @@
+{
+  "source": "webmention",
+  "text": "[Aleks Felipe](https://twitter.com/aleksfelipe) liked this [on twitter](https://twitter.com/roytang/status/1218367261032890369#favorited-by-12953232)",
+  "id": "webmention-745786",
+  "mention_url": "https://twitter.com/roytang/status/1218367261032890369#favorited-by-12953232",
+  "source_obj": {
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1218367261032890369/12953232",
+    "wm-received": "2020-01-18T08:03:23Z",
+    "author": {
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg",
+      "name": "Aleks Felipe",
+      "type": "card",
+      "url": "https://twitter.com/aleksfelipe"
+    },
+    "wm-property": "like-of",
+    "published": null,
+    "wm-private": false,
+    "wm-id": 745786,
+    "like-of": "https://roytang.net/2020/01/saturday-morning-up/",
+    "wm-target": "https://roytang.net/2020/01/saturday-morning-up/",
+    "type": "entry",
+    "url": "https://twitter.com/roytang/status/1218367261032890369#favorited-by-12953232"
+  },
+  "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1218367261032890369/12953232",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg",
+  "date": "2020-01-18 08:03:23",
+  "name": "Aleks Felipe",
+  "type": "like",
+  "url": "https://twitter.com/aleksfelipe"
+}
