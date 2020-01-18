@@ -10,8 +10,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/821913868213489664/
 ---
 
-RT [@TheCooperReview](https://twitter.com/TheCooperReview/): What's a software engineer's favorite food? 
+What's a software engineer's favorite food? 
+
 .
+
 .
+
 .
+
 Low-hanging fruit. https://t.co/ItZD1I1ato

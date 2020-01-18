@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/954324929096265728/
 ---
 
-RT [@ZettoSan03](https://twitter.com/ZettoSan03/): What every conversation about crypto-currancy sounds like to me. https://t.co/ZE7SMXCx3e
+What every conversation about crypto-currancy sounds like to me. 
