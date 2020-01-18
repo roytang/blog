@@ -20,3 +20,4 @@ List of new (to me) movies watched in 2020. Ongoing!
 | 11 | MIB International | 2019 | Jan 15 | Kind of predictable | 3 |
 | 12 | Batman vs TMNT | 2019 | Jan 16 | Ridiculous, but fun. Good for kids. | 4 |
 | 13 | 6 Underground | 2019 | Jan 17 | The editing and scene transitions were all over the place. A very Michael Bay film. | 3.5 |
+| 14 | The Wolf of Wall Street | 2013 | Jan 18 | This movie does nothing to improve my opinion of modern capitalism. | 4.5 |
