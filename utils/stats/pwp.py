@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup
 totals = { "win": 0, "lose": 0, "draw": 0}
 totals_by_format = {}
 totals_by_year = {}
+totals_by_venue = {}
 
 events = []
 with Path(filename).open(encoding="UTF-8") as f:
@@ -77,6 +78,11 @@ with Path(filename).open(encoding="UTF-8") as f:
                 totals_by_year[year] = {}
             totals_by_year[year][lresult] = totals_by_year[year].get(lresult, 0) + 1
 
+            venue = event["location"]
+            if venue not in totals_by_venue:
+                totals_by_venue[venue] = {}
+            totals_by_venue[venue][lresult] = totals_by_venue[venue].get(lresult, 0) + 1
+
         event["matches"] = matches
 
         events.append(event)
@@ -105,11 +111,26 @@ with outfile.open("w", encoding="UTF-8") as w:
 
     w.write(headers)
     format_row("Total", totals)
+    w.write("\n| |")
     w.write("\n| *By Format* |")
     for key in totals_by_format:
         format_row(key, totals_by_format[key])
+    w.write("\n| |")
     w.write("\n| *By Year* |")
     for key in totals_by_year:
         format_row(key, totals_by_year[key])
+    w.write("\n| |")
+    w.write("\n| *Top 10 Venues* |")
+    venuelist = []
+    for key in totals_by_venue:
+        venuelist.append({ "key": key, "data": totals_by_venue[key]})
+    # sort by total
+    venuelist.sort(key=lambda item:(item["data"].get("win", 0)+item["data"].get("loss", 0)+item["data"].get("draw", 0)), reverse=True)
+    count = 0
+    for venue in venuelist:
+        format_row(venue["key"], venue["data"])
+        count = count + 1
+        if count >= 10:
+            break
 
-print(json.dumps(stats, indent=2))
+# print(json.dumps(stats, indent=2))
