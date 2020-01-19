@@ -30,6 +30,8 @@ albums_map = {
 }
 
 tags_map = {
+    "comicbooks": "comics",
+    "games": "gaming",
     # "magic the gathering": "mtg",
     # "magicarena": "mtg",
     # "magic arena": "mtg",
@@ -76,7 +78,11 @@ tags_map = {
 
 delete_tags = [
     "magic the gathering",
-    "magic arena"
+    "magic arena",
+    "1s",
+    "comicbooks",
+    "games",
+    "reddit_submission"
 ]
 
 def clean_categories():
@@ -85,12 +91,13 @@ def clean_categories():
     # navigate to ./content/posts
     p = cwd / "content"
     for mdfile in p.glob("**/*.md"):
-        print(str(mdfile))
-        with mdfile.open() as f:
+        # print(str(mdfile))
+        with mdfile.open(encoding='UTF-8') as f:
             try:
                 post = frontmatter.load(f)
-            except:
-                print("Error parsing file")
+            except Exception as e:
+                print("Error parsing file: " + str(mdfile))
+                print(e)
                 continue
 
             has_changes = False
@@ -98,7 +105,7 @@ def clean_categories():
             tags = []
             if post.get("tags") != None:
                 tags = post.get("tags")
-                print(tags)
+                # print(tags)
                 if type(tags) == str:
                     tags = [tags] # standardize to a list
 
@@ -165,7 +172,7 @@ def clean_categories():
                 post.__delitem__('categories') # no more cats!
 
             # print(post['categories'])
-            print(post.get('tags'))
+            # print(post.get('tags'))
 
             album = None
             for tag in tags:
@@ -178,7 +185,7 @@ def clean_categories():
             # Save the file.
             if has_changes:
                 newfile = frontmatter.dumps(post)
-                with mdfile.open("w") as w:
+                with mdfile.open("w", encoding='UTF-8') as w:
                     w.write(newfile)
                     count = count + 1
 
