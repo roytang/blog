@@ -9,7 +9,10 @@ syndicated:
   url: https://tumblr.roytang.net/post/156121793975/my-first-published-artwork-in-pilipino-funny
 - type: twitter
   url: https://twitter.com/roytang/statuses/822424414553784320/
-tags: []
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155292746808912
+tags:
+- timeline-photos
 ---
 
-My first published artwork, in Pilipino Funny Komiks some untold number of years ago
+My first published artwork, in Funny Komiks circa 1985. The printer butchered my coloring!
