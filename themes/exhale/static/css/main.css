@@ -270,6 +270,7 @@ article {
     margin: 0.5rem;
     margin-bottom: 1rem;
     padding: 0.3rem;
+    padding-left: 0.8rem;
     box-shadow: 4px 4px 0 0 var(--second-color);
 }
 
