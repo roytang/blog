@@ -1,12 +1,15 @@
-# generate that stats json file for all site/blog items
+# 1. go to PWP history tab
+# 2. JS console: document.querySelectorAll("a.Expand").forEach(function(a) { a.click(); });
+# 3. Go to inspector, look for the div with class HistoryPanelRows, copy outer html
+# 4. Paste outer html into a tempfile and change the filename below accordingly.
+
+filename = "d:\\temp\\pwp.html"
 
 from pathlib import Path
 import os
 import json
 from datetime import datetime
 from bs4 import BeautifulSoup
-
-filename = "d:\\temp\\pwp.html"
 
 totals = { "win": 0, "lose": 0, "draw": 0}
 totals_by_format = {}
@@ -89,24 +92,24 @@ headers = """
 | --- | --- | --- | --- | --- | --- | --- | --- |"""
 row_template = "\n| %s | %s | %.2f | %s | %.2f |%s | %.2f | %s |"\
 
-# outfile = Path.cwd() / "utils" / "stats" / "mtg.md"
-# with outfile.open("w", encoding="UTF-8") as w:
-#     def format_row(label, row):
-#         win = row.get("win", 0)
-#         loss = row.get("loss", 0)
-#         draw = row.get("draw", 0)
-#         total = win + loss + draw
-#         w.write(row_template % (label, win, win*100/total, loss, loss*100/total, draw, draw*100/total, total))
+outfile = Path.cwd() / "utils" / "stats" / "mtg.md"
+with outfile.open("w", encoding="UTF-8") as w:
+    def format_row(label, row):
+        win = row.get("win", 0)
+        loss = row.get("loss", 0)
+        draw = row.get("draw", 0)
+        total = win + loss + draw
+        w.write(row_template % (label, win, win*100/total, loss, loss*100/total, draw, draw*100/total, total))
 
-#     row = totals
+    row = totals
 
-#     w.write(headers)
-#     format_row("Total", totals)
-#     w.write("\n| *By Format* |")
-#     for key in totals_by_format:
-#         format_row(key, totals_by_format[key])
-#     w.write("\n| *By Year* |")
-#     for key in totals_by_year:
-#         format_row(key, totals_by_year[key])
+    w.write(headers)
+    format_row("Total", totals)
+    w.write("\n| *By Format* |")
+    for key in totals_by_format:
+        format_row(key, totals_by_format[key])
+    w.write("\n| *By Year* |")
+    for key in totals_by_year:
+        format_row(key, totals_by_year[key])
 
 print(json.dumps(stats, indent=2))

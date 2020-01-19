@@ -13,6 +13,8 @@ Stats :: [Website](/about/stats) :: [Social Media](/about/stats/socmed) :: [MTG]
 
 #36918016. this is really only here for me to look at if I forget it, but you can also [look me up](https://www.wizards.com/Magic/PlaneswalkerPoints/36918016) if you like.
 
+#56883435. In January 2020, I managed to recover a second DCI number that I had only used for a few events in 2001. This has since been merged into the history of the above DCI number with the help of Wizards support.
+
 ### Paper Magic stats 
 
 <div id="stats_table">
