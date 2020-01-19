@@ -21,3 +21,4 @@ List of new (to me) movies watched in 2020. Ongoing!
 | 12 | Batman vs TMNT | 2019 | Jan 16 | Ridiculous, but fun. Good for kids. | 4 |
 | 13 | 6 Underground | 2019 | Jan 17 | The editing and scene transitions were all over the place. A very Michael Bay film. | 3.5 |
 | 14 | The Wolf of Wall Street | 2013 | Jan 18 | This movie does nothing to improve my opinion of modern capitalism. | 4.5 |
+| 15 | Parasite | 2019 | Jan 19 | Really good, but IDK how to begin to describe it. Worth overcoming the 1 inch subtitle barrier for. | 5 |
