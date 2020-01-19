@@ -1,0 +1,30 @@
+{
+  "id": "webmention-746032",
+  "name": "Scott",
+  "source_obj": {
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1218479294990692352/600625671",
+    "wm-property": "like-of",
+    "like-of": "https://roytang.net/2020/01/1218479294990692352/",
+    "author": {
+      "name": "Scott",
+      "url": "https://twitter.com/sourpeach3",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4e4990aaa5c54adb26391b65f09e2fb651a2b06aa98757c2780f4f38ad4c5a41.jpg"
+    },
+    "wm-private": false,
+    "wm-id": 746032,
+    "wm-received": "2020-01-19T15:39:14Z",
+    "published": null,
+    "wm-target": "https://roytang.net/2020/01/1218479294990692352/",
+    "type": "entry",
+    "url": "https://twitter.com/roytang/status/1218479294990692352#favorited-by-600625671"
+  },
+  "source": "webmention",
+  "text": "[Scott](https://twitter.com/sourpeach3) liked this [on twitter](https://twitter.com/roytang/status/1218479294990692352#favorited-by-600625671)",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/4e4990aaa5c54adb26391b65f09e2fb651a2b06aa98757c2780f4f38ad4c5a41.jpg",
+  "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1218479294990692352/600625671",
+  "date": "2020-01-19 15:39:14",
+  "mention_url": "https://twitter.com/roytang/status/1218479294990692352#favorited-by-600625671",
+  "type": "like",
+  "url": "https://twitter.com/sourpeach3"
+}
