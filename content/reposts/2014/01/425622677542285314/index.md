@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/425622677542285314/
 ---
 
-RT [@nbccommunity](https://twitter.com/nbccommunity/): He's offering me something Ive been searching for my whole life --- millions of dollars. And being a man or whatever he s…
+He's offering me something Ive been searching for my whole life --- millions of dollars. And being a man or whatever he said. #Community
