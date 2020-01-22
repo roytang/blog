@@ -2,6 +2,7 @@
 date: 2008-12-27 02:08:22
 tags:
 - royondjango
+- django
 - python
 - software development
 title: Colophon 2008

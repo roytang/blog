@@ -6,6 +6,7 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/10/when-redirecting-how-can-i-make.html
 tags:
 - royondjango
+- django
 - python
 - software development
 title: Playing with Generic Views and URLs

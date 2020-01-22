@@ -6,6 +6,7 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/10/django-tagging.html
 tags:
 - royondjango
+- django
 - python
 - software development
 title: django-tagging

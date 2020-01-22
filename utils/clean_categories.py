@@ -33,7 +33,6 @@ tags_map = {
     "comicbooks": "comics",
     "games": "gaming",
     "royondjango": "django",
-    "royondjango": "python",
     # "magic the gathering": "mtg",
     # "magicarena": "mtg",
     # "magic arena": "mtg",

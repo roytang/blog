@@ -6,6 +6,7 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/10/deployment-problems.html
 tags:
 - royondjango
+- django
 - python
 - software development
 title: Deployment Problems

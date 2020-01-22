@@ -6,6 +6,7 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/12/fixing-up-comments.html
 tags:
 - royondjango
+- django
 - python
 - software development
 title: Fixing up the comments

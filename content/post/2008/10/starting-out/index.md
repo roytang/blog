@@ -6,6 +6,7 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/10/starting-out.html
 tags:
 - royondjango
+- django
 - python
 - software development
 title: Starting out

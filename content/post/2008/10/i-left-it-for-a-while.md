@@ -6,6 +6,7 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/10/i-left-it-for-while.html
 tags:
 - royondjango
+- django
 - python
 - software development
 title: I left it for a while

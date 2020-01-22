@@ -2,6 +2,7 @@
 date: 2009-01-04 07:22:20
 tags:
 - royondjango
+- django
 - python
 - software development
 title: Using Django Pingback

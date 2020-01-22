@@ -2,6 +2,7 @@
 date: 2009-02-14 14:17:32
 tags:
 - royondjango
+- django
 - python
 - software development
 title: Stylesheet Switcher using Django

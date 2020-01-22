@@ -5,6 +5,7 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/11/django-update-wordpress-import-and-more.html
 tags:
 - royondjango
+- django
 - python
 - wordpress
 - software development

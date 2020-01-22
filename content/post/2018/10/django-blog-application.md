@@ -10,6 +10,7 @@ tags:
 - projects
 - python
 - royondjango
+- django
 - software development
 title: Django Blog Application
 type: post
