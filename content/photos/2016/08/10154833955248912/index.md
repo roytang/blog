@@ -1,11 +1,12 @@
 ---
+album: timeline
 date: 2016-08-19 12:57:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154833955248912
 - type: twitter
-  url: https://twitter.com/roytang/statuses/766499576446525440/  
+  url: https://twitter.com/roytang/statuses/766499576446525440/
 tags:
 - timeline-photos
 ---

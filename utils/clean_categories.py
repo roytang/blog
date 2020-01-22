@@ -26,7 +26,8 @@ cats_map = {
 albums_map = {
     "sketch": "sketchbook",
     "sketchdaily": "sketchbook",
-    "pickups": "pickups"
+    "pickups": "pickups",
+    "timeline-photos": "timeline"
 }
 
 tags_map = {
@@ -149,7 +150,7 @@ def clean_categories():
                 tag = tag.lower()
                 if tag in delete_tags or tag.isnumeric():
                     has_changes = True
-                else:
+                elif tag not in new_tags:
                     new_tags.append(tag)
                 if tag in tags_map:
                     new_tag = tags_map[tag]
