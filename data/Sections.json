@@ -11,14 +11,6 @@
         "label": "Notes",
         "descrip": "Microblog-like status updates."
     },
-    "replies": {
-        "label": "Replies",
-        "descrip": "Replies to content on other sites."
-    },
-    "reposts": {
-        "label": "Reposts",
-        "descrip": "Reposts of content from other sites."
-    },
     "fiction": {
         "label": "Fiction",
         "descrip": "Some works of fiction I have written."

@@ -1,1 +1,2 @@
 {{ if .Params.reply_to }}Reply to {{ .Params.reply_to.label }} at {{ .Params.reply_to.url }}:{{ end }}
+{{ if .Params.repost_source }}Repost from {{ .Params.repost_source.name }} {{ .Params.repost_source.url }}:{{ end }}
