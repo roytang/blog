@@ -643,3 +643,8 @@ td {
         width: 100%;
     }
 }
+
+.image-list figure {
+    height: 16em;
+    overflow: hidden;
+}
