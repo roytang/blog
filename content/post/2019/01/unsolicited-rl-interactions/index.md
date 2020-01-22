@@ -13,7 +13,7 @@ type: post
 
 One of my pet peeves is people coming up to me cold/unsolicited and trying to sell me things:
 
-{{< note "2019/01/1085428692442992640" >}}
+{{< note "2019/01/1085428692442992640/" >}}
 
 Like my tweet above says, it's like advertising spam in real life. I'm sure it bothers other people too, but it annoys me a bit disproportionately. I'm an introvert by nature so every unexpected interaction -- even just the effort to shake my head at whatever they're handing out -- takes away from my precious pool of socializing points. In addition to those people trying to flag you down as you walk about the mall, I also dislike it when salespeople in a store approach me unsolicited while I'm browsing, offering their help. If I need help, I'll ask for it! If I'm interested in what your stall has, I'll approach the stall myself! 
 

@@ -14,4 +14,6 @@ tags:
 - magicTCG
 ---
 
-The one where the opponent is at 5 life with no blockers or answers\n Heck even at 10 life
+The one where the opponent is at 5 life with no blockers or answers
+
+Heck even at 10 life

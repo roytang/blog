@@ -10,4 +10,3 @@ syndicated:
   url: https://twitter.com/roytang/statuses/823123017278492672/
 ---
 
-RT [@brianfhclement](https://twitter.com/brianfhclement/): https://t.co/uCEnOtkTJr
