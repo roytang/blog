@@ -13,6 +13,8 @@ tags:
 title: Grand Prix London 2015
 type: post
 url: /2015/08/grand-prix-london-2015/
+featuredResource: 
+  filename: 11889502_10154022099223912_6484358864581399871_n.jpg
 ---
 
 I was sent to London for work for a few months, which meant an opportunity to play a third GP for the year after [Manila back in January][1] and [Singapore back in June][2]. This will be the most GP events I've played in a one year period. I didn't have time to practice, so I went with an updated version of the Jeskai tempo deck I was playing at the start of Khans rotation.
@@ -117,8 +119,5 @@ Losing at competitive Magic is a downer. Well, competitive anything really. It's
 
 I played a sealed after dropping out of the main event, but only managed to win 4 boosters. I also played the SSS on Sunday, but scrubbed out again. I quit the weekend after that, since it felt like I was on tilt and was dead tired. So the GP was a bust, but at least there was swag!
 
-[<img class="aligncenter size-full wp-image-1136" src="http://roytang.net/wp-content/uploads/2015/08/11889502_10154022099223912_6484358864581399871_n.jpg" alt="11889502_10154022099223912_6484358864581399871_n" width="960" height="717" srcset="https://roytang.net/wp-content/uploads/2015/08/11889502_10154022099223912_6484358864581399871_n.jpg 960w, https://roytang.net/wp-content/uploads/2015/08/11889502_10154022099223912_6484358864581399871_n-300x224.jpg 300w, https://roytang.net/wp-content/uploads/2015/08/11889502_10154022099223912_6484358864581399871_n-402x300.jpg 402w" sizes="(max-width: 960px) 100vw, 960px" />][3]
-
- [1]: http://roytang.net/2015/02/grand-prix-manila-2015/
- [2]: http://roytang.net/2015/06/gp-singapore-2015/
- [3]: http://roytang.net/wp-content/uploads/2015/08/11889502_10154022099223912_6484358864581399871_n.jpg
+ [1]: /2015/02/grand-prix-manila-2015/
+ [2]: /2015/06/gp-singapore-2015/

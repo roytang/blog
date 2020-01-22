@@ -13,6 +13,7 @@ tags:
 title: GP Singapore 2015
 type: post
 url: /2015/06/gp-singapore-2015/
+dontinlinephotos: true
 ---
 
 GP Singapore 2015 would be my first Modern GP and maybe only my 3rd or 4th Modern event altogether. Modern is a difficult format to prepare for; there are many decks to prepare for and it's almost impossible to master all the matchups. For this reason, I felt much less prepared for this event than for [GP Manila back in January][1]. I put together Grixis Twin for this event. It's a bit difficult to pilot, but I felt it had a reasonable matchup across the board and there's always a chance of comboing out when you're falling behind. Here's the list I played:
@@ -133,14 +134,13 @@ Of course 6-2-1 doesn't qualify for day 2. Getting eliminated in the last 2 roun
 
 The problem of course with not making day 2 is that one doesn't really plan on it, so you're never sure what to do on Sunday. I skipped out on the Sunday Super Series and instead decided to play some Chaos Sealed on Sunday afternoon.
 
-[<img class="aligncenter size-full wp-image-1123" src="http://roytang.net/wp-content/uploads/2015/06/2015-06-28-14.41.46.jpg" alt="2015-06-28 14.41.46" width="3264" height="1836" srcset="https://roytang.net/wp-content/uploads/2015/06/2015-06-28-14.41.46.jpg 3264w, https://roytang.net/wp-content/uploads/2015/06/2015-06-28-14.41.46-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/06/2015-06-28-14.41.46-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/06/2015-06-28-14.41.46-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" />][2]
+{{< img src="2015-06-28-14.41.46.jpg" alt="" >}}
 
 Given the Champions of Kamigawa, Worldwake and Rise of Eldrazi packs of course one would hope for some significant value like Jace the Mindsculptor or maybe even just a Sensei's Divining Top or some such. Instead I got such hits as Terra Eternal, Spearbreaker Behemoth, Spawnsire of Ulamog and Kusari-Gama. At least I got a Jace Architect of Thought and an Ojutai Soul of Winter which were good enough to get me 4 wins in 5 rounds of swiss. I wanted to claim a complete set of DTK with the points I won, but it took too long for my results to come in and someone got the last set before me. So I settled for a booster box and a t-shirt instead.
 
-[<img class="aligncenter size-full wp-image-1124" src="http://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08.jpg" alt="2015-06-29 12.22.08" width="3264" height="1836" srcset="https://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08.jpg 3264w, https://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08-500x281.jpg 500w" sizes="(max-width: 3264px) 100vw, 3264px" />][3]
+{{< img src="2015-06-29-12.22.08.jpg" alt="" >}}
 
 Well, I didn't too well this trip, but at least there's still some swag and some winnings so it wasn't a complete loss. And it's always good to visit with my friends in Singapore so overall it was a good trip. I might be able to hit another GP later this year... it depends on how work plans shake out.
 
- [1]: http://roytang.net/2015/02/grand-prix-manila-2015/
- [2]: http://roytang.net/wp-content/uploads/2015/06/2015-06-28-14.41.46.jpg
- [3]: http://roytang.net/wp-content/uploads/2015/06/2015-06-29-12.22.08.jpg
+ [1]: /2015/02/grand-prix-manila-2015/
+ 
