@@ -1,5 +1,5 @@
 ---
-date: 2012-11-12 00:00:00+00:00
+date: 2012-11-12 00:00:00
 reply_to:
   label: '''How to bring down Brainiac (x-post from /r/Superman)'' on /r/comicbooks'
   name: ''
@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/130u54/how_to_bring_down_brainiac_xpost_from_rsuperman/c705bcl/
 tags:
-- comicbooks
+- comics
 ---
 
 I like that leftmost supergirl

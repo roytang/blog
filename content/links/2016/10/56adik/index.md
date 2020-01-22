@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/56adik/survey_results_satisfaction_with_the_drug_war/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

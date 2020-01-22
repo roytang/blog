@@ -13,6 +13,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/5ctjvc/both_the_americans_protesting_the_outcome_of_a/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

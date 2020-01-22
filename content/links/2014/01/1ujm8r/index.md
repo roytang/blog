@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PlayStationPlus/comments/1ujm8r/na_playstation_plus_dont_starve_dmc_free_for/
 tags:
-- PlayStationPlus
-- reddit_submission
+- playstationplus
 ---

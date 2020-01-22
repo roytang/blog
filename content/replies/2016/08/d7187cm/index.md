@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/4zzzhe/the_saga_of_dcs_neverending_universe_turns_out/d7187cm/
 tags:
-- comicbooks
+- comics
 ---
 
 I'm referring to the House of M universe where Logan was a shield agent and Magneto was some kind of royalty etc. Obviously the stuff in the first issue where they had Scarlet Witch in Genosha and the resulting consequences of the story arc ("No more mutants") took place in 616, so I didn't bother specifying

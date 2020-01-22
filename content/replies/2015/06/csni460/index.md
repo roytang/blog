@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/3blb59/all_new_marvel_title_covers/csni460/
 tags:
-- comicbooks
+- comics
 ---
 
 I understand where you're coming from, but to claim that Marvel doesn't make new heroes is maybe just a little bit disingenuous.

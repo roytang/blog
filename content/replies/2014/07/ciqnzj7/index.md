@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/2a1rnj/greg_land_to_draw_the_new_spiderwoman_comic/ciqnzj7/
 tags:
-- comicbooks
+- comics
 ---
 
 First off: There's going to be a Spider-Woman comic? Yay!

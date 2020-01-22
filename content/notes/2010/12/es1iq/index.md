@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AskReddit/comments/es1iq/i_would_like_to_manageinvest_my_finances_better/
 tags:
-- AskReddit
-- reddit_submission
+- askreddit
 ---
 
 #### Posted on r/AskReddit: [I would like to manage/invest my finances better, where do I start?](https://reddit.com/r/AskReddit/comments/es1iq/i_would_like_to_manageinvest_my_finances_better/)

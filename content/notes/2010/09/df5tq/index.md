@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AskReddit/comments/df5tq/why_arent_lawyers_required_when_interrogating/
 tags:
-- AskReddit
-- reddit_submission
+- askreddit
 ---
 
 #### Posted on r/AskReddit: [Why aren't lawyers required when interrogating suspects?](https://reddit.com/r/AskReddit/comments/df5tq/why_arent_lawyers_required_when_interrogating/)

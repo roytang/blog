@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Jokes/comments/75m605/today_was_a_great_day_1010/
 tags:
-- Jokes
-- reddit_submission
+- jokes
 ---
 
 #### Posted on r/Jokes: [Today was a great day. 10/10!](https://reddit.com/r/Jokes/comments/75m605/today_was_a_great_day_1010/)

@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1baq10/preview_for_superior_spidey_7_how_long_till_peter/c958wii/
 tags:
-- comicbooks
+- comics
 ---
 
 From the article: "And a new development for a Spider-Man who hasn’t been seen for some time. And by time, we mean centuries. "

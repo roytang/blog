@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/1ndgjt/cosmic_marvel_question_not_sure_if_spoiler/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Cosmic Marvel question (not sure if spoiler)](https://reddit.com/r/comicbooks/comments/1ndgjt/cosmic_marvel_question_not_sure_if_spoiler/)

@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1f0itr/marvel_comics_recommendations/ca5plf6/
 tags:
-- comicbooks
+- comics
 ---
 
 Thor: GOT is very good.

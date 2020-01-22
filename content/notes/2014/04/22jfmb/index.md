@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/22jfmb/question_about_brubakers_winter_soldier_story_line/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Question about Brubaker's Winter Soldier story line](https://reddit.com/r/comicbooks/comments/22jfmb/question_about_brubakers_winter_soldier_story_line/)

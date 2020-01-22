@@ -1,5 +1,5 @@
 ---
-date: 2013-06-13 00:00:00+00:00
+date: 2013-06-13 00:00:00
 reply_to:
   label: a comment by [deleted] on 'This comes directly from Xbox's Twitter. It's
     confirmed that Xbox One WILL NOT WORK in any country outside of the 21 Listed
@@ -12,7 +12,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1g898f/this_comes_directly_from_xboxs_twitter_its/cahs006/
 tags:
-- Games
+- gaming
 ---
 
 This may surprise you, but there are more than 5 countries in Asia

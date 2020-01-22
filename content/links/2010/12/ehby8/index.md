@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/comics/comments/ehby8/30_comic_books_you_should_have_read/
 tags:
 - comics
-- reddit_submission
 ---

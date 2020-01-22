@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/nmnoy/so_does_anyone_actually_like_the_state_of_affairs/c3aanca/
 tags:
-- Games
+- gaming
 ---
 
 I like the Civ DLC. I don't enjoy map packs, but then again I don't have to buy them. But I like the additional civs being added every now and then. Keeps the game fresh. In fact, I'd like to have as many civs as possible, but I don't want to have to wait forever for that game. And with Steam, I never have to buy them full price, I just wait for the next big sale. 

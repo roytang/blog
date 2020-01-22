@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1nvpl3/a_shot_of_the_nova_corps_in_guardians_of_the/ccmq6by/
 tags:
-- comicbooks
+- comics
 ---
 
 Why are their uniforms all blue? Where is the yellow?!?

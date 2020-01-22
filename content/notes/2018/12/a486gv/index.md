@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/a486gv/survey_where_is_the_best_place_for_software/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Survey: Where is the best place for software developers to work in the Philippines?](https://reddit.com/r/Philippines/comments/a486gv/survey_where_is_the_best_place_for_software/)

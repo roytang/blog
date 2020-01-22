@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AdviceAnimals/comments/1ot7ei/yoda_does_chicago/
 tags:
-- AdviceAnimals
-- reddit_submission
+- adviceanimals
 ---
 
 #### Posted on r/AdviceAnimals: [Yoda does Chicago](https://reddit.com/r/AdviceAnimals/comments/1ot7ei/yoda_does_chicago/)

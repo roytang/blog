@@ -12,5 +12,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/q02rd/buy_one_take_one_promo_for_dd_games_at_gogcom/
 tags:
 - gaming
-- reddit_submission
 ---

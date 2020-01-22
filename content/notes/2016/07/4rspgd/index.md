@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/ModernMagic/comments/4rspgd/jeskai_sideboard_choices/
 tags:
-- ModernMagic
-- reddit_submission
+- modernmagic
 ---
 
 #### Posted on r/ModernMagic: [Jeskai sideboard choices](https://reddit.com/r/ModernMagic/comments/4rspgd/jeskai_sideboard_choices/)

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/8oetik/holiday_ba_ang_15th/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Holiday ba ang 15th?](https://reddit.com/r/Philippines/comments/8oetik/holiday_ba_ang_15th/)

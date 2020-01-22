@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1de48x/weekly_pull_list_for_512013/c9pjydp/
 tags:
-- comicbooks
+- comics
 ---
 
 Most books are released on a monthly basis, but they don't all come out on the same week, so usually a different set of books comes out every week.

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/3frke5/rphilippines_what_do_you_think_of_this_antibinay/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [r/Philippines, what do you think of this (anti-Binay)](https://reddit.com/r/Philippines/comments/3frke5/rphilippines_what_do_you_think_of_this_antibinay/)

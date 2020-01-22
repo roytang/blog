@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/skyrim/comments/zl5l5/can_anyone_suggest_interesting_content_mods/
 tags:
 - skyrim
-- reddit_submission
 ---
 
 #### Posted on r/skyrim: [Can anyone suggest interesting content mods (quests, dungeons, etc) for Skyrim (no Dawnguard)?](https://reddit.com/r/skyrim/comments/zl5l5/can_anyone_suggest_interesting_content_mods/)

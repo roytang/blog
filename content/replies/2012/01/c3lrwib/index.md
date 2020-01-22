@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/p1njz/what_are_your_thoughts_on_the_new_52_justice/c3lrwib/
 tags:
-- comicbooks
+- comics
 ---
 
 The book is great, except I find the pacing horribly slow. I understand  they're taking it slow deliberately because they're targetting new readers who may or may not be familiar with the rest of the league, but I feel like with a bit tighter pacing they could have gotten the current 5-issue plot in 3 issues or so.

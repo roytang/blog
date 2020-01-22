@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AskReddit/comments/d3v76/does_anyone_know_the_source_of_the_tactical/
 tags:
-- AskReddit
-- reddit_submission
+- askreddit
 ---
 
 #### Posted on r/AskReddit: [Does anyone know the source of the "tactical facepalm" image?](https://reddit.com/r/AskReddit/comments/d3v76/does_anyone_know_the_source_of_the_tactical/)

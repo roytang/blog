@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1doa03/official_iron_man_3_discussion_thread_spoilers/c9s85py/
 tags:
-- comicbooks
+- comics
 ---
 
 Some people I know (big comic fans) were disappointed at the Mandarin build-up then the let-down reveal. I dunno, I was kinda fine with the deception.

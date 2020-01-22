@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/1mjsl0/theros_faq/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---

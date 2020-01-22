@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/52pu6t/a_street_fighter_in_manila_how_esports_is_kicking/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

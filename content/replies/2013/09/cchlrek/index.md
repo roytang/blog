@@ -1,5 +1,5 @@
 ---
-date: 2013-09-30 00:00:00+00:00
+date: 2013-09-30 00:00:00
 reply_to:
   label: a comment by [deleted] on 'Thoroughly enjoying GTOG.' on /r/comicbooks
   name: ''
@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1nbip7/thoroughly_enjoying_gtog/cchlrek/
 tags:
-- comicbooks
+- comics
 ---
 
 All of it is on Marvel Unlimited

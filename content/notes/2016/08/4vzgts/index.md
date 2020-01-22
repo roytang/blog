@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/4vzgts/how_good_is_the_ipad_pro_apple_pencil_for_drawing/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [How good is the iPad Pro + Apple Pencil for drawing purposes?](https://reddit.com/r/ipad/comments/4vzgts/how_good_is_the_ipad_pro_apple_pencil_for_drawing/)

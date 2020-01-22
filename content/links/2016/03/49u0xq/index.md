@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/StreetFighter/comments/49u0xq/alex_screenshots_facebook/
 tags:
-- StreetFighter
-- reddit_submission
+- streetfighter
 ---

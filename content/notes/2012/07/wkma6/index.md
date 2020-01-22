@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/SteamGameSwap/comments/wkma6/h_alpha_protocol_renegade_ops_w_offers/
 tags:
-- SteamGameSwap
-- reddit_submission
+- steamgameswap
 ---
 
 #### Posted on r/SteamGameSwap: [[H] Alpha Protocol, Renegade Ops [W] Offers](https://reddit.com/r/SteamGameSwap/comments/wkma6/h_alpha_protocol_renegade_ops_w_offers/)

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/SFxT/comments/1e6f0y/question_about_transferring_the_character_dlc/
 tags:
-- SFxT
-- reddit_submission
+- sfxt
 ---
 
 #### Posted on r/SFxT: [Question about transferring the character DLC from Vita version to PS3 version](https://reddit.com/r/SFxT/comments/1e6f0y/question_about_transferring_the_character_dlc/)

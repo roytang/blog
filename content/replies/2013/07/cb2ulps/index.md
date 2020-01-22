@@ -1,5 +1,5 @@
 ---
-date: 2013-07-15 00:00:00+00:00
+date: 2013-07-15 00:00:00
 reply_to:
   label: 'a comment by pizzademons on ''EVO 2013: Finals Day is LIVE [tournament info
     inside]'' on /r/Games'
@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1ia7ps/evo_2013_finals_day_is_live_tournament_info_inside/cb2ulps/
 tags:
-- Games
+- gaming
 ---
 
 Watching SF4 top 8 now, stream is at ~119k

@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/55036u/miriam_santiago_has_passed_away/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

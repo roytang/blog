@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/3gu58w/is_there_a_way_for_me_to_use_an_apple_account_on/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Is there a way for me to use an Apple account on the iTunes store without specifying a payment method?](https://reddit.com/r/ipad/comments/3gu58w/is_there_a_way_for_me_to_use_an_apple_account_on/)

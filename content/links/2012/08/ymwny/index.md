@@ -12,5 +12,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/ymwny/fallout_new_vegas_the_lonesome_road_something/
 tags:
 - gaming
-- reddit_submission
 ---

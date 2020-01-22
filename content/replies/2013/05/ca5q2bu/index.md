@@ -1,5 +1,5 @@
 ---
-date: 2013-05-25 00:00:00+00:00
+date: 2013-05-25 00:00:00
 reply_to:
   label: '''Nick Lowe Vets Dazzler''s "Uncanny" S.H.I.E.L.D. Recruitment'' on /r/comicbooks'
   name: ''
@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1f07yd/nick_lowe_vets_dazzlers_uncanny_shield_recruitment/ca5q2bu/
 tags:
-- comicbooks
+- comics
 ---
 
 We could always use more Dazzler

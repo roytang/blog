@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/selfhosted/comments/7xgses/looking_for_an_open_source_selfhosted_live/
 tags:
 - selfhosted
-- reddit_submission
 ---
 
 #### Posted on r/selfhosted: [Looking for an open source self-hosted live support chat solution](https://reddit.com/r/selfhosted/comments/7xgses/looking_for_an_open_source_selfhosted_live/)

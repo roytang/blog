@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1loqcn/do_i_need_to_read_trinity_war_to_read_forever_evil/cc1dqiu/
 tags:
-- comicbooks
+- comics
 ---
 
 You don't have to. If you want, I'll just give you a summary right here.

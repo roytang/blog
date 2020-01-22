@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/apple/comments/eekx0/is_there_a_website_that_tracksnotifies_you_when/
 tags:
 - apple
-- reddit_submission
 ---
 
 #### Posted on r/apple: [Is there a website that tracks/notifies you when apps are on sale/have a price drop on the App Store?](https://reddit.com/r/apple/comments/eekx0/is_there_a_website_that_tracksnotifies_you_when/)

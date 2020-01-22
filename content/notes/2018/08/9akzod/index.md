@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/answers/comments/9akzod/can_someone_help_identify_these_insects/
 tags:
 - answers
-- reddit_submission
 ---
 
 #### Posted on r/answers: [Can someone help identify these insects?](https://reddit.com/r/answers/comments/9akzod/can_someone_help_identify_these_insects/)

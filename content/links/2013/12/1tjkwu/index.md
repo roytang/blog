@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/vita/comments/1tjkwu/winners_2013_playstationblog_game_of_the_year/
 tags:
 - vita
-- reddit_submission
 ---

@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/todayilearned/comments/iuqij/til_voltron_was_narrated_by_optimus_prime/
 tags:
 - todayilearned
-- reddit_submission
 ---

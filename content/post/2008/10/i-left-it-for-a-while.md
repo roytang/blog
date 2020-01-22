@@ -1,5 +1,4 @@
 ---
-categories: []
 date: 2008-10-24 06:54:00
 source: royondjango
 syndicated:
@@ -7,7 +6,8 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/10/i-left-it-for-while.html
 tags:
 - royondjango
-- Software Development
+- python
+- software development
 title: I left it for a while
 type: post
 url: /2008/10/i-left-it-for-a-while/

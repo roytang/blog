@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/vita/comments/1fky1b/ps_this_month_for_vita_orc_attack_virtues_last/
 tags:
 - vita
-- reddit_submission
 ---

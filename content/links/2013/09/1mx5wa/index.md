@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/vita/comments/1mx5wa/the_drop_new_playstation_releases_for_september/
 tags:
 - vita
-- reddit_submission
 ---

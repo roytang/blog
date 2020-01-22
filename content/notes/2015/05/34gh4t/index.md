@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/34gh4t/spoilersdiscussion_hickmans_avengers_new_avengers/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [[SPOILERS][Discussion] Hickman's Avengers / New Avengers run discussion (Spoilers ahoy!)](https://reddit.com/r/comicbooks/comments/34gh4t/spoilersdiscussion_hickmans_avengers_new_avengers/)

@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/london/comments/3ixso7/planning_to_visit_the_natural_history_museum_this/
 tags:
 - london
-- reddit_submission
 ---
 
 #### Posted on r/london: [Planning to visit the Natural History Museum this afternoon](https://reddit.com/r/london/comments/3ixso7/planning_to_visit_the_natural_history_museum_this/)

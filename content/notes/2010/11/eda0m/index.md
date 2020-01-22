@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/eda0m/two_questions_about_the_app_store/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Two questions about the app store](https://reddit.com/r/ipad/comments/eda0m/two_questions_about_the_app_store/)

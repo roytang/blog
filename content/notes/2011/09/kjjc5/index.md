@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/kjjc5/does_anyone_know_a_good_primer_for_how_to_play/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---
 
 #### Posted on r/magicTCG: [Does anyone know a good primer for how to play the Modern Pyromancer Ascension Deck?](https://reddit.com/r/magicTCG/comments/kjjc5/does_anyone_know_a_good_primer_for_how_to_play/)

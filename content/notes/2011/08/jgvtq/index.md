@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/StreetFighter/comments/jgvtq/theres_a_new_sf3_dynamic_theme_for_ps3_anyone/
 tags:
-- StreetFighter
-- reddit_submission
+- streetfighter
 ---
 
 #### Posted on r/StreetFighter: [There's a new SF3 dynamic theme for PS3. Anyone know how I can get the wallpapers from that theme?](https://reddit.com/r/StreetFighter/comments/jgvtq/theres_a_new_sf3_dynamic_theme_for_ps3_anyone/)

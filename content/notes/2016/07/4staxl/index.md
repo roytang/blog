@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/4staxl/reddit_help_me_remember_an_old_famicom_game/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [Reddit, help me remember an old Famicom game](https://reddit.com/r/gaming/comments/4staxl/reddit_help_me_remember_an_old_famicom_game/)

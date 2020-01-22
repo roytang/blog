@@ -1,5 +1,5 @@
 ---
-date: 2013-06-04 00:00:00+00:00
+date: 2013-06-04 00:00:00
 reply_to:
   label: '''Villains Month to include four "Batman" issues focusing on Bane, Penguin,
     Riddler and the Joker'' on /r/comicbooks'
@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1fl6rc/villains_month_to_include_four_batman_issues/cabsisg/
 tags:
-- comicbooks
+- comics
 ---
 
 Wasn't Snyder's Zero Year about to start? This will interrupt it?

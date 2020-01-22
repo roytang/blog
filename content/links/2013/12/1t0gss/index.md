@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/1t0gss/no_more_hammers_to_be_sold_inside_malls/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

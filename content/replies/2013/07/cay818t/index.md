@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1huy6b/rev3games_review_of_civilization_5_brave_new_world/cay818t/
 tags:
-- Games
+- gaming
 ---
 
 Already made the purchase, but I didn't get any credit so I guess neither did you. Sorry man, maybe I did it wrong or something.

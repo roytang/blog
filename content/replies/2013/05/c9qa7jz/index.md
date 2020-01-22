@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1de48x/weekly_pull_list_for_512013/c9qa7jz/
 tags:
-- comicbooks
+- comics
 ---
 
 Why is Aquaman #19 only out this week when the rest of the DCs are in the 20s already?

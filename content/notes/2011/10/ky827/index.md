@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/ky827/dc_new_52_teen_titans/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [DC New 52: Teen Titans](https://reddit.com/r/comicbooks/comments/ky827/dc_new_52_teen_titans/)

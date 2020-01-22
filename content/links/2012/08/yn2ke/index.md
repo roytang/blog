@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/futurama/comments/yn2ke/jurassic_bark_reference_in_fallout_new_vegas/
 tags:
 - futurama
-- reddit_submission
 ---

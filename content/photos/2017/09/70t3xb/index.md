@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/70t3xb/congress_response_to_metro_manila_traffic/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Congress response to metro manila traffic](https://reddit.com/r/Philippines/comments/70t3xb/congress_response_to_metro_manila_traffic/)

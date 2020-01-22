@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/12jynf/ax_consequences_is_my_favorite_title_out_right_now/c6vr3si/
 tags:
-- comicbooks
+- comics
 ---
 
 It's explained in Uncanny X-Men #20, which happens after the end of AvX. [](#s "Magik takes Colossus to some demon world and slices the juggernaut out of him")

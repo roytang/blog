@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/1smuoi/lightning_returns_final_fantasy_xiii_collectors/
 tags:
 - gaming
-- reddit_submission
 ---

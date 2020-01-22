@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/3nbmqa/recommend_me_a_platformer/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [Recommend me a platformer](https://reddit.com/r/gaming/comments/3nbmqa/recommend_me_a_platformer/)

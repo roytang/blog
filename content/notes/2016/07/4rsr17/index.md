@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/spikes/comments/4rsr17/modern_jeskai_control_sideboard_choices/
 tags:
 - spikes
-- reddit_submission
 ---
 
 #### Posted on r/spikes: [[Modern] Jeskai control sideboard choices](https://reddit.com/r/spikes/comments/4rsr17/modern_jeskai_control_sideboard_choices/)

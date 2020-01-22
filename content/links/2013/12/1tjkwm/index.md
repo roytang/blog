@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS4/comments/1tjkwm/winners_2013_playstationblog_game_of_the_year/
 tags:
-- PS4
-- reddit_submission
+- ps4
 ---

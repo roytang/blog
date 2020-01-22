@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/vita/comments/1jfshf/help_vita_charger_not_working/
 tags:
 - vita
-- reddit_submission
 ---
 
 #### Posted on r/vita: [Help - Vita charger not working =(](https://reddit.com/r/vita/comments/1jfshf/help_vita_charger_not_working/)

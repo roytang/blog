@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AndroidQuestions/comments/4bh3wa/problems_with_asus_memopad_7/
 tags:
-- AndroidQuestions
-- reddit_submission
+- androidquestions
 ---
 
 #### Posted on r/AndroidQuestions: [Problems with ASUS Memopad 7](https://reddit.com/r/AndroidQuestions/comments/4bh3wa/problems_with_asus_memopad_7/)

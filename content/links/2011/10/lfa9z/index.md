@@ -12,5 +12,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/lfa9z/infamous_festival_of_blood_dlc_makes_you_make/
 tags:
 - gaming
-- reddit_submission
 ---

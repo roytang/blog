@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/15adqp/steam_holiday_sale_day_3/c7ksbdz/
 tags:
-- Games
+- gaming
 ---
 
 Nah, I feel that way too. This year's sale isn't too exciting really. Or maybe it's just that there aren't many games I'd want to buy anymore. 

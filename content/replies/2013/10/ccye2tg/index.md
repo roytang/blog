@@ -1,5 +1,5 @@
 ---
-date: 2013-10-24 00:00:00+00:00
+date: 2013-10-24 00:00:00
 reply_to:
   label: '''We are the independent publisher & developer Paradox Interactive - Ask
     us Anything!'' on /r/Games'
@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1p272v/we_are_the_independent_publisher_developer/ccye2tg/
 tags:
-- Games
+- gaming
 ---
 
 Please explain how to play crusader kings 2

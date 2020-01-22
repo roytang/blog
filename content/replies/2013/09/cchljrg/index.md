@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1ndgjt/cosmic_marvel_question_not_sure_if_spoiler/cchljrg/
 tags:
-- comicbooks
+- comics
 ---
 
 We'll probably get an explanation at the same as the Thanos and Peter Quill ones.

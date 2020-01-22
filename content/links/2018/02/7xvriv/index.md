@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/photoshopbattles/comments/7xvriv/psbattle_this_image_of_philippine_president/
 tags:
 - photoshopbattles
-- reddit_submission
 ---

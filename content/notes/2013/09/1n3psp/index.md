@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/television/comments/1n3psp/what_tv_series_had_the_best_pilot_episode_ever/
 tags:
 - television
-- reddit_submission
 ---
 
 #### Posted on r/television: [What TV series had the best pilot episode ever?](https://reddit.com/r/television/comments/1n3psp/what_tv_series_had_the_best_pilot_episode_ever/)

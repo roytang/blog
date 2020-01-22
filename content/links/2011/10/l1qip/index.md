@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/l1qip/michael_ps3_long_live_play_advertisement/
 tags:
 - gaming
-- reddit_submission
 ---

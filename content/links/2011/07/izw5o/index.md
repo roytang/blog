@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/bestof/comments/izw5o/friendly_neighborhood_married_man/
 tags:
 - bestof
-- reddit_submission
 ---

@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/pics/comments/2uvmfy/toyota_vios_crushed_by_passenger_bus/
 tags:
 - pics
-- reddit_submission
 ---

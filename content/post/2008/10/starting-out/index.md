@@ -1,5 +1,4 @@
 ---
-categories: []
 date: 2008-10-19 07:33:00
 source: royondjango
 syndicated:
@@ -7,7 +6,8 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/10/starting-out.html
 tags:
 - royondjango
-- Software Development
+- python
+- software development
 title: Starting out
 type: post
 url: /2008/10/starting-out/

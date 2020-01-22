@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/SomebodyMakeThis/comments/18ozg6/smt_a_locationbased_reminder_app/
 tags:
-- SomebodyMakeThis
-- reddit_submission
+- somebodymakethis
 ---
 
 #### Posted on r/SomebodyMakeThis: [[SMT] a location-based reminder app](https://reddit.com/r/SomebodyMakeThis/comments/18ozg6/smt_a_locationbased_reminder_app/)

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AskReddit/comments/hf0ei/reddit_what_do_you_think_is_the_secret_to_a_truly/
 tags:
-- AskReddit
-- reddit_submission
+- askreddit
 ---
 
 #### Posted on r/AskReddit: [Reddit, what do you think is the secret to a truly happy life?](https://reddit.com/r/AskReddit/comments/hf0ei/reddit_what_do_you_think_is_the_secret_to_a_truly/)

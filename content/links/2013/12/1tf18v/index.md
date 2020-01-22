@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/books/comments/1tf18v/whats_on_your_bookshelf_for_2014/
 tags:
 - books
-- reddit_submission
 ---

@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/1smup4/lightning_returns_final_fantasy_xiii_collectors/
 tags:
-- PS3
-- reddit_submission
+- ps3
 ---

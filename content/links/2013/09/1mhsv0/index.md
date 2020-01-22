@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/1mhsv0/the_drop_week_of_september_16th_2013_new_releases/
 tags:
-- PS3
-- reddit_submission
+- ps3
 ---

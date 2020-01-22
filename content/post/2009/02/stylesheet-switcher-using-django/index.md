@@ -1,9 +1,9 @@
 ---
-categories: []
 date: 2009-02-14 14:17:32
 tags:
 - royondjango
-- Software Development
+- python
+- software development
 title: Stylesheet Switcher using Django
 type: post
 url: /2009/02/stylesheet-switcher-using-django/

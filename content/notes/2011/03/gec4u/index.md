@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/masseffect/comments/gec4u/are_there_any_sales_for_bioware_points_or_any/
 tags:
 - masseffect
-- reddit_submission
 ---
 
 #### Posted on r/masseffect: [Are there any sales for Bioware points? Or any other way to get Mass Effect 2 DLC?](https://reddit.com/r/masseffect/comments/gec4u/are_there_any_sales_for_bioware_points_or_any/)

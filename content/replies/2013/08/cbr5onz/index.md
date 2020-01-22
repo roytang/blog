@@ -1,5 +1,5 @@
 ---
-date: 2013-08-20 00:00:00+00:00
+date: 2013-08-20 00:00:00
 reply_to:
   label: a comment by Scorpionius on 'How would YOU end Superior Spider-man??' on
     /r/comicbooks
@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1knyrf/how_would_you_end_superior_spiderman/cbr5onz/
 tags:
-- comicbooks
+- comics
 ---
 
 I support this idea. Lol.

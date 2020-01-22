@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/4cvks2/some_examples_of_cognitive_dissonance_ive/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Some examples of cognitive dissonance I've observed in comment threads during the election period](https://reddit.com/r/Philippines/comments/4cvks2/some_examples_of_cognitive_dissonance_ive/)

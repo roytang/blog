@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1huy6b/rev3games_review_of_civilization_5_brave_new_world/cay8ote/
 tags:
-- Games
+- gaming
 ---
 
 So, I purchased it on GMG before watching the review, might have been a good idea to do it in the reverse order. I still would have purchased it anyway. 

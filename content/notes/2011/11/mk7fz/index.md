@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/skyrim/comments/mk7fz/bug_in_wolf_queen_v6_quest/
 tags:
 - skyrim
-- reddit_submission
 ---
 
 #### Posted on r/skyrim: [Bug in wolf queen v6 quest](https://reddit.com/r/skyrim/comments/mk7fz/bug_in_wolf_queen_v6_quest/)

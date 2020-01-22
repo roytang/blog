@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Steam/comments/3burwv/im_from_asia_and_will_be_travelling_to_europe_for/
 tags:
-- Steam
-- reddit_submission
+- steam
 ---
 
 #### Posted on r/Steam: [I'm from Asia and will be travelling to Europe for work for a few months. Will I have any problem with Steam?](https://reddit.com/r/Steam/comments/3burwv/im_from_asia_and_will_be_travelling_to_europe_for/)

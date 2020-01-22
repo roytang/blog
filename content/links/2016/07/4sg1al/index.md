@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/mtgpilipinas/comments/4sg1al/pyromancer_ascension_tournament_report_upcoming/
 tags:
 - mtgpilipinas
-- reddit_submission
 ---

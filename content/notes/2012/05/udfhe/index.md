@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/udfhe/does_anyone_know_the_schedule_for_the_next_banned/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---
 
 #### Posted on r/magicTCG: [Does anyone know the schedule for the next Banned & Restricted List changes?](https://reddit.com/r/magicTCG/comments/udfhe/does_anyone_know_the_schedule_for_the_next_banned/)

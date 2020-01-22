@@ -12,5 +12,4 @@ syndicated:
   url: https://reddit.com/r/vita/comments/2dt217/the_drop_new_playstation_games_for_8192014/
 tags:
 - vita
-- reddit_submission
 ---

@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/dfkp3/telltale_games_has_tales_of_monkey_island_all_5/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [Telltale Games has Tales of Monkey Island (all 5 episodes) on sale for $4.95](https://reddit.com/r/gaming/comments/dfkp3/telltale_games_has_tales_of_monkey_island_all_5/)

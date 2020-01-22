@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/help/comments/7orcxy/how_can_i_find_my_oldest_reddit_posts_and/
 tags:
 - help
-- reddit_submission
 ---
 
 #### Posted on r/help: [How can I find my oldest reddit posts and comments, without having to click "next" through endless pages of my profile page?](https://reddit.com/r/help/comments/7orcxy/how_can_i_find_my_oldest_reddit_posts_and/)

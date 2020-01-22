@@ -13,8 +13,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/25207862594633728/
 - type: plurk
-  url: https://plurk.com/p/a4k5zg  
+  url: https://plurk.com/p/a4k5zg
 tags:
 - todayilearned
-- reddit_submission
 ---

@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/civ/comments/18abtf/civ5_question/
 tags:
 - civ
-- reddit_submission
 ---
 
 #### Posted on r/civ: [Civ5 question](https://reddit.com/r/civ/comments/18abtf/civ5_question/)

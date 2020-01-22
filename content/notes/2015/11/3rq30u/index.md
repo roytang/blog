@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/buildapc/comments/3rq30u/is_a_gtx970_worth_it_if_i_dont_plan_to_play_at/
 tags:
 - buildapc
-- reddit_submission
 ---
 
 #### Posted on r/buildapc: [Is a GTX970 worth it if I dont plan to play at ridiculously high resolutions or anything like 4k gaming?](https://reddit.com/r/buildapc/comments/3rq30u/is_a_gtx970_worth_it_if_i_dont_plan_to_play_at/)

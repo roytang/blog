@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/1vdalf/are_there_really_only_46_dc_new_52_ongoings_now/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---

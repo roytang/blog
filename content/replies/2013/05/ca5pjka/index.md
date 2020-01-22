@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1f0x9a/gamesradar_the_100_most_anticipated_games_of_2013/ca5pjka/
 tags:
-- Games
+- gaming
 ---
 
 I was a bit bored so I did some counting. Of the games on this list:

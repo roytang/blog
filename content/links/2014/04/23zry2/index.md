@@ -12,5 +12,4 @@ syndicated:
   url: https://reddit.com/r/shield/comments/23zry2/season_official_synopsis_declassifying_marvels/
 tags:
 - shield
-- reddit_submission
 ---

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/5bxlzn/google_maps_today/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Google Maps today](https://reddit.com/r/Philippines/comments/5bxlzn/google_maps_today/)

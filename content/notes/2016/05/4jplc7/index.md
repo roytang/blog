@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Stellaris/comments/4jplc7/what_should_i_do_if_i_have_an_excess_of_both/
 tags:
-- Stellaris
-- reddit_submission
+- stellaris
 ---
 
 #### Posted on r/Stellaris: [What should I do if I have an excess of both minerals and energy?](https://reddit.com/r/Stellaris/comments/4jplc7/what_should_i_do_if_i_have_an_excess_of_both/)

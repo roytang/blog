@@ -1,5 +1,5 @@
 ---
-date: 2013-06-21 00:00:00+00:00
+date: 2013-06-21 00:00:00
 reply_to:
   label: a comment by mrbojangles0 on 'What Microsoft Should Have Done (by Soren Johnson)'
     on /r/Games
@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1gskb5/what_microsoft_should_have_done_by_soren_johnson/canfuhs/
 tags:
-- Games
+- gaming
 ---
 
 Physical copies can be lost or get damaged.

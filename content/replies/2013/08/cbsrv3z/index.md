@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1ktlbl/with_only_one_issue_left_to_go_what_does/cbsrv3z/
 tags:
-- comicbooks
+- comics
 ---
 
 So far it's been 5 issues of "hey let's split up into 3 different groups that don't make sense and go to random places together and occasionally hit each other". It feels like everything significant is going to happen in the sixth issue.

@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/15vxrn/can_anyone_suggest_a_free_offline_trivia_app/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Can anyone suggest a free offline trivia app?](https://reddit.com/r/ipad/comments/15vxrn/can_anyone_suggest_a_free_offline_trivia_app/)

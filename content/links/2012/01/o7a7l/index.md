@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/pics/comments/o7a7l/how_to_know_if_you_are_a_hipster/
 tags:
 - pics
-- reddit_submission
 ---

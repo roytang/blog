@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/tf2/comments/eudah/im_thinking_of_getting_tf2_but/
 tags:
 - tf2
-- reddit_submission
 ---
 
 #### Posted on r/tf2: [I'm thinking of getting TF2 but...](https://reddit.com/r/tf2/comments/eudah/im_thinking_of_getting_tf2_but/)

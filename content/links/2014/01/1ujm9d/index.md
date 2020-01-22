@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/1ujm9d/na_playstation_plus_dont_starve_dmc_free_for/
 tags:
-- PS3
-- reddit_submission
+- ps3
 ---

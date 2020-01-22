@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/uv5mu/newsaramacom_dc_adds_four_to_new_52_including/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---

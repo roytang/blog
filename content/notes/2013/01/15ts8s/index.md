@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/15ts8s/noobish_question_about_transferring_epubs_to/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Noobish question about transferring epubs to ibooks via itunes](https://reddit.com/r/ipad/comments/15ts8s/noobish_question_about_transferring_epubs_to/)

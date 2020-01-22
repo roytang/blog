@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/3DS/comments/2eys2s/ultimate_nes_remix_announced_for_the_nintendo_3ds/
 tags:
-- 3DS
-- reddit_submission
+- 3ds
 ---

@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/vita/comments/194roe/question_about_the_vita_and_ps/
 tags:
 - vita
-- reddit_submission
 ---
 
 #### Posted on r/vita: [Question about the Vita and PS+](https://reddit.com/r/vita/comments/194roe/question_about_the_vita_and_ps/)

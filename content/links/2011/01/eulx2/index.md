@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/eulx2/why_are_there_so_many_half_life_2_games/
 tags:
 - gaming
-- reddit_submission
 ---

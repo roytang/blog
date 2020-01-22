@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/camote/comments/ofk2h/hi_guys/
 tags:
 - camote
-- reddit_submission
 ---
 
 #### Posted on r/camote: [Hi guys!](https://reddit.com/r/camote/comments/ofk2h/hi_guys/)

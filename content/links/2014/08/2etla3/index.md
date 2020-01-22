@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Games/comments/2etla3/kingdom_hearts_hd_25_remix_new_features_trailer/
 tags:
-- Games
-- reddit_submission
+- gaming
 ---

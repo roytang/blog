@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/3DS/comments/1ka2me/smt4etrian_odyssey_streetpass/
 tags:
-- 3DS
-- reddit_submission
+- 3ds
 ---
 
 #### Posted on r/3DS: [SMT4/Etrian Odyssey Streetpass?](https://reddit.com/r/3DS/comments/1ka2me/smt4etrian_odyssey_streetpass/)

@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/56925h/100_days_in_dutertopia/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

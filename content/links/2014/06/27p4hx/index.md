@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/27p4hx/na_best_of_e3_2013_sale_20_games_on_sale_starting/
 tags:
-- PS3
-- reddit_submission
+- ps3
 ---

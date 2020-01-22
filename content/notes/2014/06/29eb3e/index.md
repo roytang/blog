@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/cscareerquestions/comments/29eb3e/developers_working_fulltime_for_software/
 tags:
 - cscareerquestions
-- reddit_submission
 ---
 
 #### Posted on r/cscareerquestions: [Developers working full-time for software companies, how is your performance evaluated?](https://reddit.com/r/cscareerquestions/comments/29eb3e/developers_working_fulltime_for_software/)

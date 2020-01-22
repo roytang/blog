@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/ebon9/can_i_merge_the_apps_from_my_itunes_library_and/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Can I "merge" the apps from my iTunes library and my iPad?](https://reddit.com/r/ipad/comments/ebon9/can_i_merge_the_apps_from_my_itunes_library_and/)

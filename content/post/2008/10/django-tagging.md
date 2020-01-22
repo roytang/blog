@@ -1,5 +1,4 @@
 ---
-categories: []
 date: 2008-10-26 04:22:00
 source: royondjango
 syndicated:
@@ -7,7 +6,8 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/10/django-tagging.html
 tags:
 - royondjango
-- Software Development
+- python
+- software development
 title: django-tagging
 type: post
 url: /2008/10/django-tagging/

@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/40ma7j/duterte_denounces_extrajudicial_killing_no_honor/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

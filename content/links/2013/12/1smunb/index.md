@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/FinalFantasy/comments/1smunb/lightning_returns_final_fantasy_xiii_collectors/
 tags:
-- FinalFantasy
-- reddit_submission
+- finalfantasy
 ---

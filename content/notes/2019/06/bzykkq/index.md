@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Seattle/comments/bzykkq/a_couple_of_tourist_questions/
 tags:
-- Seattle
-- reddit_submission
+- seattle
 ---
 
 #### Posted on r/Seattle: [A couple of tourist questions](https://reddit.com/r/Seattle/comments/bzykkq/a_couple_of_tourist_questions/)

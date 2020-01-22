@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/12e9yl/do_you_prefer_dcs_rebooting_every_n_years_or/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Do you prefer DC's rebooting every N years or Marvel's one big lump of continuity?](https://reddit.com/r/comicbooks/comments/12e9yl/do_you_prefer_dcs_rebooting_every_n_years_or/)

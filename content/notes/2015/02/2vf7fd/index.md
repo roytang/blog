@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/3DS/comments/2vf7fd/which_one_should_i_get_devil_summoner_soul/
 tags:
-- 3DS
-- reddit_submission
+- 3ds
 ---
 
 #### Posted on r/3DS: [Which one should I get: Devil Summoner Soul Hackers or Devil Survivor Overclocked?](https://reddit.com/r/3DS/comments/2vf7fd/which_one_should_i_get_devil_summoner_soul/)

@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/technology/comments/enqzx/memo_gawker_tech_team_didnt_adequately_secure_our/
 tags:
 - technology
-- reddit_submission
 ---

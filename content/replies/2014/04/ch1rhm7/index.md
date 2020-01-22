@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/23y5fu/marvel_announces_soule_and_mcnivens_death_of/ch1rhm7/
 tags:
-- comicbooks
+- comics
 ---
 
 They'll kill off Wolverine so that he becomes less popular and then the Fox X-Men movies will make less money and they can get the rights back, yay!

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/2f245s/im_planning_to_play_standard_competitively_again/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---
 
 #### Posted on r/magicTCG: [I'm planning to play Standard (competitively) again once Khans rotates in. What Theros block staples would be good to stock up on now?](https://reddit.com/r/magicTCG/comments/2f245s/im_planning_to_play_standard_competitively_again/)

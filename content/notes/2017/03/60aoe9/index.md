@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/60aoe9/japan_multiple_entry_visa_on_oldexpired_passport/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Japan multiple entry visa on old/expired passport](https://reddit.com/r/Philippines/comments/60aoe9/japan_multiple_entry_visa_on_oldexpired_passport/)

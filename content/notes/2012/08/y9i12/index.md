@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/y9i12/question_about_the_new_52_robins/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Question about the new 52 Robins](https://reddit.com/r/comicbooks/comments/y9i12/question_about_the_new_52_robins/)

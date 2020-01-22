@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/1p4fwb/custom_magic_the_gathering_cards_celebrate_indies/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---

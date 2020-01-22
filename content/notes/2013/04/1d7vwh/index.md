@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/1d7vwh/iron_man_question/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Iron Man question](https://reddit.com/r/comicbooks/comments/1d7vwh/iron_man_question/)

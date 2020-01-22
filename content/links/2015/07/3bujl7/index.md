@@ -12,5 +12,4 @@ syndicated:
   url: https://reddit.com/r/tales/comments/3bujl7/japan_expo_zestiria_collectors_edition_revealed/
 tags:
 - tales
-- reddit_submission
 ---

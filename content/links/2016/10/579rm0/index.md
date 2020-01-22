@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/579rm0/produterte_fake_news_sites/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

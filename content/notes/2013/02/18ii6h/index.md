@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/truegaming/comments/18ii6h/are_rpgs_costlier_to_make_than_other_genres/
 tags:
 - truegaming
-- reddit_submission
 ---
 
 #### Posted on r/truegaming: [Are RPGs costlier to make than other genres?](https://reddit.com/r/truegaming/comments/18ii6h/are_rpgs_costlier_to_make_than_other_genres/)

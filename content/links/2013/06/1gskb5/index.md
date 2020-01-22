@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Games/comments/1gskb5/what_microsoft_should_have_done_by_soren_johnson/
 tags:
-- Games
-- reddit_submission
+- gaming
 ---

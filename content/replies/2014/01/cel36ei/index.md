@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1uq86z/lets_talk_cataclysm_discussion_speculation_and/cel36ei/
 tags:
-- comicbooks
+- comics
 ---
 
 I wonder if something's up with ultimate reed, if he got something else from 616 while he and miles were separated.

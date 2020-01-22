@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/5fq4af/many_times_its_a_struggle_between_a_trying_to/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Many times it's a struggle between (a) trying to reach out to and understand people who hold different views; and (b) holding back because you don't feel like you can have a productive conversation with such people, especially online. How can we breach the divide?](https://reddit.com/r/Philippines/comments/5fq4af/many_times_its_a_struggle_between_a_trying_to/)

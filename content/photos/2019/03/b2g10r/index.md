@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/vita/comments/b2g10r/with_the_vita_being_officially_discontinued/
 tags:
 - vita
-- reddit_submission
 ---
 
 #### Posted on r/vita: [With the Vita being officially discontinued lately, I thought I'd knock a few titles off the old backlog. First one is Zero Time Dilemma!](https://reddit.com/r/vita/comments/b2g10r/with_the_vita_being_officially_discontinued/)

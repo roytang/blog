@@ -1,5 +1,4 @@
 ---
-categories: []
 date: 2008-10-21 06:52:00
 source: royondjango
 syndicated:
@@ -7,7 +6,8 @@ syndicated:
   url: https://royondjango.blogspot.com/2008/10/deployment-problems.html
 tags:
 - royondjango
-- Software Development
+- python
+- software development
 title: Deployment Problems
 type: post
 url: /2008/10/deployment-problems/

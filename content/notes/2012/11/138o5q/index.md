@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Games/comments/138o5q/why_havent_we_seen_a_dd_4th_edition_crpg/
 tags:
-- Games
-- reddit_submission
+- gaming
 ---
 
 #### Posted on r/Games: [Why haven't we seen a D&D 4th edition CRPG?](https://reddit.com/r/Games/comments/138o5q/why_havent_we_seen_a_dd_4th_edition_crpg/)

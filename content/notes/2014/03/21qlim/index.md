@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS4/comments/21qlim/infamous_second_son_is_it_more_than_just_a_pretty/
 tags:
-- PS4
-- reddit_submission
+- ps4
 ---
 
 #### Posted on r/PS4: [Infamous: Second Son - is it more than just a pretty face?](https://reddit.com/r/PS4/comments/21qlim/infamous_second_son_is_it_more_than_just_a_pretty/)

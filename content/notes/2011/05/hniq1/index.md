@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/hniq1/casual_gaming_question_my_mom_has_finished_all_of/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [(Casual gaming question) My mom has finished all of Angry Birds on the PC and is asking if I could recommend any games for her, looking for suggestions](https://reddit.com/r/gaming/comments/hniq1/casual_gaming_question_my_mom_has_finished_all_of/)

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Steam/comments/3p5dhc/steam_cloud_saves_question/
 tags:
-- Steam
-- reddit_submission
+- steam
 ---
 
 #### Posted on r/Steam: [Steam Cloud Saves question](https://reddit.com/r/Steam/comments/3p5dhc/steam_cloud_saves_question/)

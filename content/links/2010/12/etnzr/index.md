@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: "https://reddit.com/r/Philippines/comments/etnzr/\u0CA0_\u0CA0_dziq_p10_additional_flag_down_rate_for_cabs/"
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

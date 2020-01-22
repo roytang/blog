@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/OnePiece/comments/1fgn1u/question_for_anyone_whos_played_one_piece_pirate/
 tags:
-- OnePiece
-- reddit_submission
+- onepiece
 ---
 
 #### Posted on r/OnePiece: [Question for anyone who's played One Piece: Pirate Warriors (PS3)](https://reddit.com/r/OnePiece/comments/1fgn1u/question_for_anyone_whos_played_one_piece_pirate/)

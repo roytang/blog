@@ -1,5 +1,5 @@
 ---
-date: 2013-06-21 00:00:00+00:00
+date: 2013-06-21 00:00:00
 reply_to:
   label: a comment by PhillyGreg on 'Longest Day of the Year Sale at GoG' on /r/Games
   name: ''
@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1gskqb/longest_day_of_the_year_sale_at_gog/cang3x8/
 tags:
-- Games
+- gaming
 ---
 
 I like that there's a "cheaper=yes" param in the URL

@@ -1,5 +1,5 @@
 ---
-date: 2013-09-29 00:00:00+00:00
+date: 2013-09-29 00:00:00
 reply_to:
   label: a comment by WasThursday on 'Cosmic Marvel question (not sure if spoiler)'
     on /r/comicbooks
@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1ndgjt/cosmic_marvel_question_not_sure_if_spoiler/cchjsu0/
 tags:
-- comicbooks
+- comics
 ---
 
 Thanks!

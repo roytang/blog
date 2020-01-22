@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1g9559/microsoft_engineer_on_xb1_defends_drm_compares_to/cai5wc6/
 tags:
-- Games
+- gaming
 ---
 
 >Honestly, if you care about anything other then pure games AT ALL. Xbox 1 > PS4. If all you do is play games, and nothing else, PS4.

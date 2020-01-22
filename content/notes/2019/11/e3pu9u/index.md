@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/humblebundles/comments/e3pu9u/they_need_to_handle_regionlocked_games_better_in/
 tags:
 - humblebundles
-- reddit_submission
 ---
 
 #### Posted on r/humblebundles: [They need to handle region-locked games better in the humble monthly](https://reddit.com/r/humblebundles/comments/e3pu9u/they_need_to_handle_regionlocked_games_better_in/)

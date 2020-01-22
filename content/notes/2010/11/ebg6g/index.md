@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/ebg6g/noob_question_about_apps_from_the_app_store/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Noob question about apps from the app store](https://reddit.com/r/ipad/comments/ebg6g/noob_question_about_apps_from_the_app_store/)

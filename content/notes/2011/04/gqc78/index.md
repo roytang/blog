@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/civ/comments/gqc78/anyone_here_purchased_the_spain_inca_polynesia/
 tags:
 - civ
-- reddit_submission
 ---
 
 #### Posted on r/civ: [Anyone here purchased the Spain, Inca, Polynesia civs?](https://reddit.com/r/civ/comments/gqc78/anyone_here_purchased_the_spain_inca_polynesia/)

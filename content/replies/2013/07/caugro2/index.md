@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1hhjdd/justice_league_confusion/caugro2/
 tags:
-- comicbooks
+- comics
 ---
 
 The DC universe rebooted back in September 2011, which may be causing some of your confusion. Martian Manhunter used to be a big part of one of the Jusice League incarnations before this reboot. In the current universe, he has some sort of history with the Justice League but was never a full member I think.

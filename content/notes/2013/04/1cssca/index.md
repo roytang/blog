@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/1cssca/injustice_different_region_games_cant_play/
 tags:
-- PS3
-- reddit_submission
+- ps3
 ---
 
 #### Posted on r/PS3: [Injustice - different region games can't play against each other?](https://reddit.com/r/PS3/comments/1cssca/injustice_different_region_games_cant_play/)

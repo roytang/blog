@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Stellaris/comments/4o0it1/stellaris_postmortem_you_guys_might_find_this/
 tags:
-- Stellaris
-- reddit_submission
+- stellaris
 ---

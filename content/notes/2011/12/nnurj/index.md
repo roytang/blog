@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/WWE/comments/nnurj/just_watched_summer_slam_is_there_a_site_where_i/
 tags:
-- WWE
-- reddit_submission
+- wwe
 ---
 
 #### Posted on r/WWE: [Just watched Summer Slam. Is there a site where I can catch up with what's happened in the WWE since then?](https://reddit.com/r/WWE/comments/nnurj/just_watched_summer_slam_is_there_a_site_where_i/)

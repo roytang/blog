@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/jbnqg/fallout_new_vegas_fallout_3_and_all_dlc_on_sale/
 tags:
 - gaming
-- reddit_submission
 ---

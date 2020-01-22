@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/4t5mkn/any_color_me_badd_fans_here_need_some_help/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Any Color Me Badd fans here? Need some help](https://reddit.com/r/Philippines/comments/4t5mkn/any_color_me_badd_fans_here_need_some_help/)

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/ws6u1/has_anyone_here_made_top_64_in_a_gp_i_have_a/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---
 
 #### Posted on r/magicTCG: [Has anyone here made top 64 in a GP? I have a question](https://reddit.com/r/magicTCG/comments/ws6u1/has_anyone_here_made_top_64_in_a_gp_i_have_a/)

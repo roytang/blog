@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/p4it3/giving_away_5_amazon_promo_code_must_be_used/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [Giving away $5 Amazon promo code, must be used today Jan 31](https://reddit.com/r/gaming/comments/p4it3/giving_away_5_amazon_promo_code_must_be_used/)

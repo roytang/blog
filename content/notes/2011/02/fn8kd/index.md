@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AskReddit/comments/fn8kd/is_there_an_easy_way_to_view_multipage_articles/
 tags:
-- AskReddit
-- reddit_submission
+- askreddit
 ---
 
 #### Posted on r/AskReddit: [Is there an easy way to view multi-page articles on various websites in a single page?](https://reddit.com/r/AskReddit/comments/fn8kd/is_there_an_easy_way_to_view_multipage_articles/)

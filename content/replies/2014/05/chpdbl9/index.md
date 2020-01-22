@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/2699e4/xmen_days_of_future_past_mega_movie_discussion/chpdbl9/
 tags:
-- comicbooks
+- comics
 ---
 
 Old Charles said some stuff to young Charles that I liked, it started something like "It's the greatest gift that we have, to bear the pain without breaking, ..." does anyone remember the rest of it.

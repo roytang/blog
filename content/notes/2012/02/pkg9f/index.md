@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/pkg9f/kingdoms_of_amalur_reckoning_ps3_or_pc/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [Kingdoms of Amalur: Reckoning, PS3 or PC?](https://reddit.com/r/gaming/comments/pkg9f/kingdoms_of_amalur_reckoning_ps3_or_pc/)

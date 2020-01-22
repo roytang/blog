@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/15a4a2/simple_questionsending_textlinks_between_ipadpc/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Simple question...sending text/links between ipad/pc](https://reddit.com/r/ipad/comments/15a4a2/simple_questionsending_textlinks_between_ipadpc/)

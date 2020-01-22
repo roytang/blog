@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/StreetFighter/comments/76h9ak/steam_hori_ps3_rap_v3sa_suddenly_doesnt_work_with/
 tags:
-- StreetFighter
-- reddit_submission
+- streetfighter
 ---
 
 #### Posted on r/StreetFighter: [Steam: Hori PS3 RAP V3-SA suddenly doesn't work with SF5 :(](https://reddit.com/r/StreetFighter/comments/76h9ak/steam_hori_ps3_rap_v3sa_suddenly_doesnt_work_with/)

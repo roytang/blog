@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/27j2uw/psa_magic_2014_and_all_dlc_75_on_steam_until_june/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---

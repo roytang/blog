@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/4gubpz/movie_megathread_spoilers_captain_america_civil/d2l1qqy/
 tags:
-- comicbooks
+- comics
 ---
 
 Some stuff:

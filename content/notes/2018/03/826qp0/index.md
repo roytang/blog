@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/tipofmytongue/comments/826qp0/tomt_snes_space_shooter_where_you_move_around_in/
 tags:
 - tipofmytongue
-- reddit_submission
 ---
 
 #### Posted on r/tipofmytongue: [[TOMT] SNES (?) space shooter where you move around in a circle](https://reddit.com/r/tipofmytongue/comments/826qp0/tomt_snes_space_shooter_where_you_move_around_in/)

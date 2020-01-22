@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/53abab/this_is_canon_and_its_hilarious_fantastic_four_497/d7rxkwa/
 tags:
-- comicbooks
+- comics
 ---
 
 He will be an Iron Man (Infamous Iron Man) later this year http://screenrant.com/marvel-comics-infamous-iron-man-doctor-doom/ after Civil War II

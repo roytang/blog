@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/jgs1w/hipster_honda/
 tags:
 - gaming
-- reddit_submission
 ---

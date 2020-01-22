@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/plq5d/can_anyone_recommend_a_bot_that_sells_or_gives/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---
 
 #### Posted on r/magicTCG: [Can anyone recommend a bot that sells (or gives away maybe) commons/uncommons on MTGO?](https://reddit.com/r/magicTCG/comments/plq5d/can_anyone_recommend_a_bot_that_sells_or_gives/)

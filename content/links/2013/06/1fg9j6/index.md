@@ -13,5 +13,4 @@ syndicated:
   url: https://reddit.com/r/skyrim/comments/1fg9j6/what_is_this_weird_green_thing_not_sure_if_its/
 tags:
 - skyrim
-- reddit_submission
 ---

@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/15dshs/what_a_great_mass_effect_bundle/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [What a great Mass Effect bundle!](https://reddit.com/r/gaming/comments/15dshs/what_a_great_mass_effect_bundle/)

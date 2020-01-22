@@ -1,5 +1,5 @@
 ---
-date: 2013-08-24 00:00:00+00:00
+date: 2013-08-24 00:00:00
 reply_to:
   label: 'a comment by mulltalica on ''New 52 Lobo: Yikes.'' on /r/comicbooks'
   name: ''
@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1kybd7/new_52_lobo_yikes/cbudlwa/
 tags:
-- comicbooks
+- comics
 ---
 
 What did they do to Waller?

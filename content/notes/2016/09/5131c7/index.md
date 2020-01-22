@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Stellaris/comments/5131c7/have_there_been_a_lot_of_changes_since_release_do/
 tags:
-- Stellaris
-- reddit_submission
+- stellaris
 ---
 
 #### Posted on r/Stellaris: [Have there been a lot of changes since release? Do we have a window for the release of the Heinlein patch?](https://reddit.com/r/Stellaris/comments/5131c7/have_there_been_a_lot_of_changes_since_release_do/)

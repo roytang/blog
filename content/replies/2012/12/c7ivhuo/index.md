@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/152hkb/kieron_gillen_answers_a_question_about_young/c7ivhuo/
 tags:
-- comicbooks
+- comics
 ---
 
 The stories in the books always take place at the time they were written. Older stories adjust to the timeline of the book you're reading as needed. 

@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/1t0joe/dyad_free_for_ps_plus_members_starting_tomorrow/
 tags:
-- PS3
-- reddit_submission
+- ps3
 ---

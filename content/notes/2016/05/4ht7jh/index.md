@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/4ht7jh/survey_for_duterte_supporters/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Survey for Duterte supporters](https://reddit.com/r/Philippines/comments/4ht7jh/survey_for_duterte_supporters/)

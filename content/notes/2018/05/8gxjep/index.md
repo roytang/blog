@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/8gxjep/do_you_find_the_barangay_to_be_a_relevant_andor/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Do you find the Barangay to be a relevant and/or useful part of government?](https://reddit.com/r/Philippines/comments/8gxjep/do_you_find_the_barangay_to_be_a_relevant_andor/)

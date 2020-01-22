@@ -12,5 +12,4 @@ syndicated:
   url: https://reddit.com/r/skyrim/comments/1fizhk/psa_oblivion_on_sale_today_on_steam_yesterday_was/
 tags:
 - skyrim
-- reddit_submission
 ---

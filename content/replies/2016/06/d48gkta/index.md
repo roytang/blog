@@ -1,5 +1,5 @@
 ---
-date: 2016-06-14 06:55:19+00:00
+date: 2016-06-14 06:55:19
 reply_to:
   label: a comment by Orfez on 'Xbox Play Anywhere lets you play select games across
     Xbox One and Windows 10' on /r/Games
@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/4nwi09/xbox_play_anywhere_lets_you_play_select_games/d48gkta/
 tags:
-- Games
+- gaming
 ---
 
 It only works for digital purchases

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Games/comments/2eonbo/what_are_your_favorite_video_games_music_tracks/
 tags:
-- Games
-- reddit_submission
+- gaming
 ---
 
 #### Posted on r/Games: [What are your favorite video games music tracks?](https://reddit.com/r/Games/comments/2eonbo/what_are_your_favorite_video_games_music_tracks/)

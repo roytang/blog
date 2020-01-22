@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/vita/comments/1423kc/is_it_safe_to_get_a_vita_yet_kill_screen/
 tags:
 - vita
-- reddit_submission
 ---

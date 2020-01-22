@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/television/comments/4l4os4/how_would_you_rank_this_seasons_comic_book_shows/
 tags:
 - television
-- reddit_submission
 ---
 
 #### Posted on r/television: [How would you rank this season's comic book shows?](https://reddit.com/r/television/comments/4l4os4/how_would_you_rank_this_seasons_comic_book_shows/)

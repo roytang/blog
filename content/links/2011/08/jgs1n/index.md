@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/pics/comments/jgs1n/hipster_honda/
 tags:
 - pics
-- reddit_submission
 ---

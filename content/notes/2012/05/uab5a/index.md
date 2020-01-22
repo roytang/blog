@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Jokes/comments/uab5a/a_woman_is_pregnant_with_twins_when_she_gets_into/
 tags:
-- Jokes
-- reddit_submission
+- jokes
 ---
 
 #### Posted on r/Jokes: [A woman is pregnant with twins when she gets into a car accident...](https://reddit.com/r/Jokes/comments/uab5a/a_woman_is_pregnant_with_twins_when_she_gets_into/)

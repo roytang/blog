@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/civ/comments/18a80q/academy_tile_resources_question/
 tags:
 - civ
-- reddit_submission
 ---
 
 #### Posted on r/civ: [Academy + tile resources question](https://reddit.com/r/civ/comments/18a80q/academy_tile_resources_question/)

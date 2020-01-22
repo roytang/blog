@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AndroidQuestions/comments/szbq4/android_noob_here_i_just_got_an_lg_c660_and_have/
 tags:
-- AndroidQuestions
-- reddit_submission
+- androidquestions
 ---
 
 #### Posted on r/AndroidQuestions: [Android noob here; I just got an LG C660 and have a question](https://reddit.com/r/AndroidQuestions/comments/szbq4/android_noob_here_i_just_got_an_lg_c660_and_have/)

@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1lbviq/the_dimension_z_saga_is_over_spoilers/cbxthyp/
 tags:
-- comicbooks
+- comics
 ---
 
 I enjoyed this arc, despite JRJR's terrrible artwork. That being said, it seems we're getting Carlos Pacheco starting next issue, looking forward to that.

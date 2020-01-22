@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/eshqr/why_does_steam_have_kotor_but_not_kotor2/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [Why does Steam have KOTOR but not KOTOR2?](https://reddit.com/r/gaming/comments/eshqr/why_does_steam_have_kotor_but_not_kotor2/)

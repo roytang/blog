@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/38s7ts/question_about_wmcqs/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---
 
 #### Posted on r/magicTCG: [Question about WMCQs](https://reddit.com/r/magicTCG/comments/38s7ts/question_about_wmcqs/)

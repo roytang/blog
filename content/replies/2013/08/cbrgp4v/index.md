@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1kq0ki/marvel_universe/cbrgp4v/
 tags:
-- comicbooks
+- comics
 ---
 
 Are you asking about the concept of comic book universes in general or about what universes Marvel has specifically?

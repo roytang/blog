@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/56jexx/the_president_on_a_french_newspaper_cover/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

@@ -12,6 +12,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/6gqln7/8_years_ago_on_june_11_2009_the_m10_rules_changes/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---

@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PlayStationPlus/comments/1tjaxb/us_ps_plus_sonic_allstars_racing_transformed_free/
 tags:
-- PlayStationPlus
-- reddit_submission
+- playstationplus
 ---

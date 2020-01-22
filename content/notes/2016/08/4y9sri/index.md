@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/civ/comments/4y9sri/is_there_a_way_to_legally_get_a_digital_copy_of/
 tags:
 - civ
-- reddit_submission
 ---
 
 #### Posted on r/civ: [Is there a way to legally get a digital copy of Civ 1 and 2?](https://reddit.com/r/civ/comments/4y9sri/is_there_a_way_to_legally_get_a_digital_copy_of/)

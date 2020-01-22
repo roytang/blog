@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/14jnla/cable_and_xforce_preview/c7dnvgi/
 tags:
-- comicbooks
+- comics
 ---
 
 I like how Havok was all "WTF Nate?!?"

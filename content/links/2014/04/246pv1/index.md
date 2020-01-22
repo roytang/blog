@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/246pv1/golden_week_sale_celebrates_japanese_games/
 tags:
-- PS3
-- reddit_submission
+- ps3
 ---

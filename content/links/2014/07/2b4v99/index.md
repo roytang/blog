@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/booklists/comments/2b4v99/your_mega_summer_reading_list_70_picks_from_the/
 tags:
 - booklists
-- reddit_submission
 ---

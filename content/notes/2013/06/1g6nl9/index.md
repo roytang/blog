@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/1g6nl9/question_about_the_ending_of_daredevil_end_of/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Question about the ending of Daredevil: End of Days (spoilers)](https://reddit.com/r/comicbooks/comments/1g6nl9/question_about_the_ending_of_daredevil_end_of/)

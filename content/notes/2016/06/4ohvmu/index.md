@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/WritingPrompts/comments/4ohvmu/pi_two_monsters_flashback_1885/
 tags:
-- WritingPrompts
-- reddit_submission
+- writingprompts
 ---
 
 #### Posted on r/WritingPrompts: [[PI] Two Monsters – Flashback - 1,885](https://reddit.com/r/WritingPrompts/comments/4ohvmu/pi_two_monsters_flashback_1885/)

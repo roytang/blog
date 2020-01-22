@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/WritingPrompts/comments/5zeytf/pi_explorers_firstchapter_2105_words/
 tags:
-- WritingPrompts
-- reddit_submission
+- writingprompts
 ---
 
 #### Posted on r/WritingPrompts: [[PI] Explorers - FirstChapter - 2105 Words](https://reddit.com/r/WritingPrompts/comments/5zeytf/pi_explorers_firstchapter_2105_words/)

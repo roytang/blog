@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/4oredt/considering_changing_our_internet_to_sky/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Considering changing our internet to Sky Broadband 16mbs. Anyone have any feedback on speed, reliability, customer service, etc?](https://reddit.com/r/Philippines/comments/4oredt/considering_changing_our_internet_to_sky/)

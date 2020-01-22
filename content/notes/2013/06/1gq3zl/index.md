@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/1gq3zl/what_are_your_favorite_doctor_doom_stories_im/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [What are your favorite Doctor Doom stories? I'm looking for stories that highlight his vllainy](https://reddit.com/r/comicbooks/comments/1gq3zl/what_are_your_favorite_doctor_doom_stories_im/)

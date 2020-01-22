@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/40gfio/leila_de_lima_ad/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

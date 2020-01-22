@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/u2hd9/who_is_the_current_director_of_shield/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Who is the current director of SHIELD?](https://reddit.com/r/comicbooks/comments/u2hd9/who_is_the_current_director_of_shield/)

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/3qs409/whats_the_best_shop_in_sm_north_cyberzone_for/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [What's the best shop in SM North cyberzone for putting together a new desktop?](https://reddit.com/r/Philippines/comments/3qs409/whats_the_best_shop_in_sm_north_cyberzone_for/)

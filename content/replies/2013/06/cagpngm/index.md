@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1g4lst/what_do_you_feel_was_missing_from_the_playstation/cagpngm/
 tags:
-- Games
+- gaming
 ---
 
 The console features weren't very exciting so if they had something new there that might have helped. Although TBH the hardware spec bump is pretty significant already, I don't mind this so much.

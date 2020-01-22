@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/fbr11/just_got_a_stylussuggestions/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Just got a stylus...suggestions?](https://reddit.com/r/ipad/comments/fbr11/just_got_a_stylussuggestions/)

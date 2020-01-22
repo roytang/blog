@@ -1,6 +1,5 @@
 ---
 author: roy
-categories: []
 date: 2018-10-28 05:02:37
 syndicated:
 - type: tumblr
@@ -11,7 +10,7 @@ tags:
 - projects
 - python
 - royondjango
-- Software Development
+- software development
 title: Django Blog Application
 type: post
 url: /2018/10/django-blog-application/

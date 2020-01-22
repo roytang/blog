@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [2016 Senatorial Candidates Information Megathread](https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/)

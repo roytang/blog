@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/4s3tmz/should_i_expect_jace_vryns_prodigy_to_tank_in/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---
 
 #### Posted on r/magicTCG: [Should I expect Jace, Vryn's Prodigy to tank in price once it's out of Standard?](https://reddit.com/r/magicTCG/comments/4s3tmz/should_i_expect_jace_vryns_prodigy_to_tank_in/)

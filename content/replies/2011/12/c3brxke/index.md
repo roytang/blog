@@ -1,5 +1,5 @@
 ---
-date: 2011-12-28 00:00:00+00:00
+date: 2011-12-28 00:00:00
 reply_to:
   label: a comment by MrPopinjay on 'Gabe receives apology from Paul, Gabe doesn't
     care' on /r/Games
@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/nsujc/gabe_receives_apology_from_paul_gabe_doesnt_care/c3brxke/
 tags:
-- Games
+- gaming
 ---
 
 link pls? for curiosity!

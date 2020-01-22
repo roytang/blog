@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/eejjo/iama_request_a_philippine_lawyer/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [IAmA request: A Philippine Lawyer](https://reddit.com/r/Philippines/comments/eejjo/iama_request_a_philippine_lawyer/)

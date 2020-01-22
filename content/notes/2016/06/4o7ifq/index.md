@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/4o7ifq/question_about_flashpoint_and_rebirth/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Question about Flashpoint and Rebirth](https://reddit.com/r/comicbooks/comments/4o7ifq/question_about_flashpoint_and_rebirth/)

@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/3DS/comments/1ohyg7/gold_limited_edition_zelda_3ds_for_europe/
 tags:
-- 3DS
-- reddit_submission
+- 3ds
 ---

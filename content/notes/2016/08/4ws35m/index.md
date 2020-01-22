@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/OCPoetry/comments/4ws35m/some_days_you_are_tired/
 tags:
-- OCPoetry
-- reddit_submission
+- ocpoetry
 ---
 
 #### Posted on r/OCPoetry: [Some days you are tired](https://reddit.com/r/OCPoetry/comments/4ws35m/some_days_you_are_tired/)

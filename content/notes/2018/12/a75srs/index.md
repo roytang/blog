@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/a75srs/used_book_stores_in_qc/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Used book stores in QC?](https://reddit.com/r/Philippines/comments/a75srs/used_book_stores_in_qc/)

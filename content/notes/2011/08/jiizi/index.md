@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/jiizi/fallout_new_vegas_mods_and_savegames_question/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [Fallout: New Vegas mods and savegames question](https://reddit.com/r/gaming/comments/jiizi/fallout_new_vegas_mods_and_savegames_question/)

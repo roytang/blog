@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/ejj7b/should_i_jailbreak_my_ipad/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Should I jailbreak my iPad?](https://reddit.com/r/ipad/comments/ejj7b/should_i_jailbreak_my_ipad/)

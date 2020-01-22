@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/whatsthisbug/comments/9amcb1/manila_philippines_would_someone_be_able_to/
 tags:
 - whatsthisbug
-- reddit_submission
 ---
 
 #### Posted on r/whatsthisbug: [[Manila, Philippines] Would someone be able to identify these?](https://reddit.com/r/whatsthisbug/comments/9amcb1/manila_philippines_would_someone_be_able_to/)

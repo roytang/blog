@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/pics/comments/f6r0c/help_im_being_chased_by_missiles/
 tags:
 - pics
-- reddit_submission
 ---

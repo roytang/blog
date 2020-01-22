@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/153kg9/hal_jordan_the_master_of_deception_xpost_from/c7iyuce/
 tags:
-- comicbooks
+- comics
 ---
 
 What comic is this from?

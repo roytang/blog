@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/pics/comments/equea/psyduck_knows/
 tags:
 - pics
-- reddit_submission
 ---
 
 #### Posted on r/pics: [Psyduck knows](https://reddit.com/r/pics/comments/equea/psyduck_knows/)

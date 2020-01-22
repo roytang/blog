@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/spikes/comments/3g3s2f/standard_jeskai_erase_or_revoke_existence_in_the/
 tags:
 - spikes
-- reddit_submission
 ---
 
 #### Posted on r/spikes: [[Standard] Jeskai: Erase or Revoke Existence in the SB?](https://reddit.com/r/spikes/comments/3g3s2f/standard_jeskai_erase_or_revoke_existence_in_the/)

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/b74351/weekly_or_monthly_news_summary/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Weekly or monthly news summary?](https://reddit.com/r/Philippines/comments/b74351/weekly_or_monthly_news_summary/)

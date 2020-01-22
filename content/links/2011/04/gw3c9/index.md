@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/humor/comments/gw3c9/engineering_professor_meme/
 tags:
 - humor
-- reddit_submission
 ---

@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/2t3488/secret_wars_the_ultimate_universe_marvel_universe/cnvo6sk/
 tags:
-- comicbooks
+- comics
 ---
 
 I'm surprisingly ok with this, and even slightly enthusiastic as to what might come out of it at the end.

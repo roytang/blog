@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/oggsn/origin_is_required_for_all_pc_editions_of_mass/c3h4yx5/
 tags:
-- Games
+- gaming
 ---
 
 I dislike the whole thing not because of the DRM (I don't even see Steam as DRM), I dislike it because the Origin service at the moment is crappy. They don't have the same amount of sales Steam does, and their customer service is horrid (there are horror stories about Steam customer service)

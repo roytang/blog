@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Games/comments/5cog8l/what_is_the_modern_day_game_that_is_closest_to/
 tags:
-- Games
-- reddit_submission
+- gaming
 ---
 
 #### Posted on r/Games: [What is the modern day game that is closest to the experience of Daggerfall?](https://reddit.com/r/Games/comments/5cog8l/what_is_the_modern_day_game_that_is_closest_to/)

@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Games/comments/1f0x9a/gamesradar_the_100_most_anticipated_games_of_2013/
 tags:
-- Games
-- reddit_submission
+- gaming
 ---

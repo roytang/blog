@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/1bl4hu/superior_carnage_miniseries_coming_in_july/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---

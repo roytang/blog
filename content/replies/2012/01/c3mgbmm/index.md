@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/p4lu9/pretty_close_to_ditching_dc_for_marvel_but_i_find/c3mgbmm/
 tags:
-- comicbooks
+- comics
 ---
 
 I think the year in parenthesis is the year the series started. It makes sense for most of them, but not for Amazing Spider-Man. Pretty sure it didn't start in 1999. Shrug.

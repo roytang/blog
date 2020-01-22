@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/VPN/comments/6v2065/vpn_noob_looking_for_recommendations/
 tags:
-- VPN
-- reddit_submission
+- vpn
 ---
 
 #### Posted on r/VPN: [VPN Noob looking for recommendations](https://reddit.com/r/VPN/comments/6v2065/vpn_noob_looking_for_recommendations/)

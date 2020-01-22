@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/webcomics/comments/1rycuc/how_to_talk_to_women/
 tags:
 - webcomics
-- reddit_submission
 ---

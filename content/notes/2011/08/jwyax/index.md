@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/civ/comments/jwyax/civ5_stuck_at_please_wait/
 tags:
 - civ
-- reddit_submission
 ---
 
 #### Posted on r/civ: [Civ5 - Stuck at "Please wait"](https://reddit.com/r/civ/comments/jwyax/civ5_stuck_at_please_wait/)

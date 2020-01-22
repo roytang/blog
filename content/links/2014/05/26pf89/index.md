@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/26pf89/youll_be_able_to_play_dragon_quest_viii_on_ios/
 tags:
 - gaming
-- reddit_submission
 ---

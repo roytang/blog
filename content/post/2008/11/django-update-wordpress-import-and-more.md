@@ -1,16 +1,16 @@
 ---
-categories: []
 date: 2008-11-23 00:04:00
-tags:
-- royondjango
-- wordpress
-- Software Development
-title: Django Update -- WordPress Import and More
-type: post
-url: /2008/11/django-update-wordpress-import-and-more/
 syndicated:
 - type: blogger
   url: https://royondjango.blogspot.com/2008/11/django-update-wordpress-import-and-more.html
+tags:
+- royondjango
+- python
+- wordpress
+- software development
+title: Django Update -- WordPress Import and More
+type: post
+url: /2008/11/django-update-wordpress-import-and-more/
 ---
 
 I've been busy at work so fell a bit behind with Django. Last night I worked on a WordPress importer, so that I could migrate posts from my current blog(s) into the Django-powered blog that I'm coding. I'm using BeautifulSoup to parse the WordPress export file and insert them as Django objects.

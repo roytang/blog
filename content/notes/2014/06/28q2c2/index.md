@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/pcgaming/comments/28q2c2/using_a_dualshock_3_with_pc/
 tags:
 - pcgaming
-- reddit_submission
 ---
 
 #### Posted on r/pcgaming: [Using a dualshock 3 with PC](https://reddit.com/r/pcgaming/comments/28q2c2/using_a_dualshock_3_with_pc/)

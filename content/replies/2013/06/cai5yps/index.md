@@ -1,5 +1,5 @@
 ---
-date: 2013-06-14 00:00:00+00:00
+date: 2013-06-14 00:00:00
 reply_to:
   label: a comment by BronsonAlcott on 'Best current X-Men title in your opinion?'
     on /r/comicbooks
@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/1g9h8c/best_current_xmen_title_in_your_opinion/cai5yps/
 tags:
-- comicbooks
+- comics
 ---
 
 X-Factor is about to end though

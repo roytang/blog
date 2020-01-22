@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/23e3i4/spoilers_now_that_superior_spiderman_has_come_to/cgw542t/
 tags:
-- comicbooks
+- comics
 ---
 
 I wasn't too impressed with the final issue. Some nice sequences overall, but a number of parts seemed rushed, like how Peter explains things so quickly to Carlie, Miguel, the Avengers even. And the Goblin recognizing it was Peter after one line of banter?

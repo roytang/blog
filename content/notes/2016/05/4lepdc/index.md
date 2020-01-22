@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/spikes/comments/4lepdc/standard_can_anyone_recommend_any_good_bant/
 tags:
 - spikes
-- reddit_submission
 ---
 
 #### Posted on r/spikes: [[Standard] Can anyone recommend any good Bant Company guides?](https://reddit.com/r/spikes/comments/4lepdc/standard_can_anyone_recommend_any_good_bant/)

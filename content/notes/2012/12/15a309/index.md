@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/15a309/what_is_this_facundo_meme_supposed_to_be_about/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [What is this "Facundo" meme supposed to be about?](https://reddit.com/r/Philippines/comments/15a309/what_is_this_facundo_meme_supposed_to_be_about/)

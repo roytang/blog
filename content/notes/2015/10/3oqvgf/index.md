@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/civ/comments/3oqvgf/quick_achievements_question_for_achievements_that/
 tags:
 - civ
-- reddit_submission
 ---
 
 #### Posted on r/civ: [Quick achievements question: For achievements that count things across multiple playthroughs, does it count when I use a different computer?](https://reddit.com/r/civ/comments/3oqvgf/quick_achievements_question_for_achievements_that/)

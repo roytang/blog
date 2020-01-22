@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/9pioj3/quezon_memorial_shrine/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Quezon Memorial Shrine](https://reddit.com/r/Philippines/comments/9pioj3/quezon_memorial_shrine/)

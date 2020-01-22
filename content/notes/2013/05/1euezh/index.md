@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/1euezh/lets_say_the_xmen_movie_rights_have_reverted_to/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Let's say the X-Men movie rights have reverted to Marvel...](https://reddit.com/r/comicbooks/comments/1euezh/lets_say_the_xmen_movie_rights_have_reverted_to/)

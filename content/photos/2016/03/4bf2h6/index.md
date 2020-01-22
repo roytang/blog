@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/comiccharacterdrawing/comments/4bf2h6/oa_power_man_and_iron_fist/
 tags:
 - comiccharacterdrawing
-- reddit_submission
 ---
 
 #### Posted on r/comiccharacterdrawing: [[OA] Power Man and Iron Fist](https://reddit.com/r/comiccharacterdrawing/comments/4bf2h6/oa_power_man_and_iron_fist/)

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AskReddit/comments/lpawl/has_anyone_else_been_getting_long_load_times_and/
 tags:
-- AskReddit
-- reddit_submission
+- askreddit
 ---
 
 #### Posted on r/AskReddit: [Has anyone else been getting long load times and request timeouts on reddit over the past few days?](https://reddit.com/r/AskReddit/comments/lpawl/has_anyone_else_been_getting_long_load_times_and/)

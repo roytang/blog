@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/ny68b/so_how_did_your_crafting_turn_out/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [So, how did your crafting turn out?](https://reddit.com/r/gaming/comments/ny68b/so_how_did_your_crafting_turn_out/)

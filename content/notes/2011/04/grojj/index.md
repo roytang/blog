@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/grojj/kings_bounty_question/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [King's Bounty question](https://reddit.com/r/gaming/comments/grojj/kings_bounty_question/)

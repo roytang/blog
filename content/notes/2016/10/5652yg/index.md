@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/5652yg/from_the_local_version_of_a_few_good_men/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [From the local version of "A Few Good Men"](https://reddit.com/r/Philippines/comments/5652yg/from_the_local_version_of_a_few_good_men/)

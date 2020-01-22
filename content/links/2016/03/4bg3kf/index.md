@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/4bg3kf/get_to_know_your_presidentiables_with_this_handy/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---

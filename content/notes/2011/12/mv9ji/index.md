@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/ipad/comments/mv9ji/can_someone_recommend_a_comic_book_reader_cbrcbz/
 tags:
 - ipad
-- reddit_submission
 ---
 
 #### Posted on r/ipad: [Can someone recommend a comic book reader (CBR/CBZ) with the following features:](https://reddit.com/r/ipad/comments/mv9ji/can_someone_recommend_a_comic_book_reader_cbrcbz/)

@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/27s2kr/survey_would_this_video_make_you_interested_in/
 tags:
 - gaming
-- reddit_submission
 ---

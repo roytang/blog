@@ -10,6 +10,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/1t088a/paul_dini_superhero_cartoon_execs_dont_want/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---

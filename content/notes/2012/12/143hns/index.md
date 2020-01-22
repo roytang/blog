@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/143hns/mtgo_trading_thread/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---
 
 #### Posted on r/magicTCG: [MTGO Trading Thread?](https://reddit.com/r/magicTCG/comments/143hns/mtgo_trading_thread/)

@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/tipofmyjoystick/comments/9adwh8/famicomunknown_year_side_scrolling_rpgish/
 tags:
 - tipofmyjoystick
-- reddit_submission
 ---
 
 #### Posted on r/tipofmyjoystick: [[Famicom][Unknown year] Side scrolling RPG-ish metroidvania](https://reddit.com/r/tipofmyjoystick/comments/9adwh8/famicomunknown_year_side_scrolling_rpgish/)

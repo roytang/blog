@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Terraria/comments/4r1bf7/complete_noob_here_can_anyone_tell_me_why_this/
 tags:
-- Terraria
-- reddit_submission
+- terraria
 ---
 
 #### Posted on r/Terraria: [Complete noob here: Can anyone tell me why this isn't valid housing?](https://reddit.com/r/Terraria/comments/4r1bf7/complete_noob_here_can_anyone_tell_me_why_this/)

@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1hsy3m/weekly_rgames_discussion_what_have_you_been/caxll1p/
 tags:
-- Games
+- gaming
 ---
 
 I just finished The Last Of Us! Fantastic game (as everyone has been saying)

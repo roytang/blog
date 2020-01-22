@@ -12,5 +12,4 @@ syndicated:
   url: https://reddit.com/r/skyrim/comments/mycqh/when_i_dualwield_maces_they_block_a_large_part_of/
 tags:
 - skyrim
-- reddit_submission
 ---

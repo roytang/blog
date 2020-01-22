@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/todayilearned/comments/83nbvt/til_there_are_countries_whose_first_day_of_the/
 tags:
 - todayilearned
-- reddit_submission
 ---

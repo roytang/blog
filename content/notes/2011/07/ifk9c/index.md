@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/AskReddit/comments/ifk9c/americans_do_you_showerbathe_every_day/
 tags:
-- AskReddit
-- reddit_submission
+- askreddit
 ---
 
 #### Posted on r/AskReddit: [Americans, do you shower/bathe every day?](https://reddit.com/r/AskReddit/comments/ifk9c/americans_do_you_showerbathe_every_day/)

@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/magicTCG/comments/15lpfb/mtgo_are_you_annoyed_by_people_who_complain_about/
 tags:
-- magicTCG
-- reddit_submission
+- magictcg
 ---
 
 #### Posted on r/magicTCG: [[mtgo] Are you annoyed by people who complain about the shuffler?](https://reddit.com/r/magicTCG/comments/15lpfb/mtgo_are_you_annoyed_by_people_who_complain_about/)

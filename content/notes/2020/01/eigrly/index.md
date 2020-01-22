@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/humblebundles/comments/eigrly/is_there_any_way_to_sortfilter_the_humble_store/
 tags:
 - humblebundles
-- reddit_submission
 ---
 
 #### Posted on r/humblebundles: [Is there any way to sort/filter the Humble Store by price?](https://reddit.com/r/humblebundles/comments/eigrly/is_there_any_way_to_sortfilter_the_humble_store/)

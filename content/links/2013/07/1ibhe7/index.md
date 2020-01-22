@@ -11,6 +11,5 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/1ibhe7/the_drop_week_of_july_15th_2013_new_releases/
 tags:
-- PS3
-- reddit_submission
+- ps3
 ---

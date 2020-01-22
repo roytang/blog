@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/108e08/question_about_the_recent_events_in_ultimates/
 tags:
-- comicbooks
-- reddit_submission
+- comics
 ---
 
 #### Posted on r/comicbooks: [Question about the recent events in Ultimates (spoilers within)](https://reddit.com/r/comicbooks/comments/108e08/question_about_the_recent_events_in_ultimates/)

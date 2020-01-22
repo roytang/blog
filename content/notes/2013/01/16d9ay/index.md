@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/civ/comments/16d9ay/offline_strategy_guidetips_for_civ5_gk/
 tags:
 - civ
-- reddit_submission
 ---
 
 #### Posted on r/civ: [Offline strategy guide/tips for Civ5 G&K?](https://reddit.com/r/civ/comments/16d9ay/offline_strategy_guidetips_for_civ5_gk/)

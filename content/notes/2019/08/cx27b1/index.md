@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/coins/comments/cx27b1/how_to_clean_grimy_and_rusty_coins/
 tags:
 - coins
-- reddit_submission
 ---
 
 #### Posted on r/coins: [How to clean grimy and rusty coins?](https://reddit.com/r/coins/comments/cx27b1/how_to_clean_grimy_and_rusty_coins/)

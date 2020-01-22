@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/SteamGameSwap/comments/nsf2d/h_10_coals_w_games_see_inside/
 tags:
-- SteamGameSwap
-- reddit_submission
+- steamgameswap
 ---
 
 #### Posted on r/SteamGameSwap: [[H] 10 coals [W] games, see inside](https://reddit.com/r/SteamGameSwap/comments/nsf2d/h_10_coals_w_games_see_inside/)

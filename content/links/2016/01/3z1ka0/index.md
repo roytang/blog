@@ -11,5 +11,4 @@ syndicated:
   url: https://reddit.com/r/hungryroy/comments/3z1ka0/gamasutra_miguel_angel_hornas_blog_postmortem/
 tags:
 - hungryroy
-- reddit_submission
 ---

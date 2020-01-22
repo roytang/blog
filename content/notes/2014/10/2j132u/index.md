@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/spikes/comments/2j132u/standard_any_tips_for_the_jeskai_wins_vs_abzan/
 tags:
 - spikes
-- reddit_submission
 ---
 
 #### Posted on r/spikes: [[Standard] Any tips for the Jeskai Wins vs Abzan midrange matchups post-board?](https://reddit.com/r/spikes/comments/2j132u/standard_any_tips_for_the_jeskai_wins_vs_abzan/)

@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/14ljtu/the_end_of_amazing_spiderman_and_the_beginning_of/c7e6kvd/
 tags:
-- comicbooks
+- comics
 ---
 
 Marvel has said it won't be Peter Parker.

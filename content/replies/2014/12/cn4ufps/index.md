@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/2qcgtg/all_new_xmen_annual_1_floating_timeline_much/cn4ufps/
 tags:
-- comicbooks
+- comics
 ---
 
 Bendis is probably just waiting for someone to call him out on this on Tumblr or Twitter...

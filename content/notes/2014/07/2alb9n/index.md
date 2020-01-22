@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/OnePiece/comments/2alb9n/does_anyone_here_have_one_piece_unlimited_world/
 tags:
-- OnePiece
-- reddit_submission
+- onepiece
 ---
 
 #### Posted on r/OnePiece: [Does anyone here have One Piece: Unlimited World Red?](https://reddit.com/r/OnePiece/comments/2alb9n/does_anyone_here_have_one_piece_unlimited_world/)

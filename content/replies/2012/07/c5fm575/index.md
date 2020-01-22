@@ -1,5 +1,5 @@
 ---
-date: 2012-07-18 00:00:00+00:00
+date: 2012-07-18 00:00:00
 reply_to:
   label: 'a comment by [deleted] on ''Steam Summer Sale Day 06: 2012/07/17'' on /r/Games'
   name: ''
@@ -10,7 +10,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/wpj9w/steam_summer_sale_day_06_20120717/c5fm575/
 tags:
-- Games
+- gaming
 ---
 
 I just visit these threads for the discussions.

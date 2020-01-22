@@ -5,8 +5,7 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/4xohqs/crowdsourcing_constructive_criticism_what/
 tags:
-- Philippines
-- reddit_submission
+- philippines
 ---
 
 #### Posted on r/Philippines: [Crowdsourcing constructive criticism: what constructive suggestions do you have for the current administration to allay concerns especially on violence and extrajudicial/vigilante killings?](https://reddit.com/r/Philippines/comments/4xohqs/crowdsourcing_constructive_criticism_what/)

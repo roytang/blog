@@ -6,7 +6,6 @@ syndicated:
   url: https://reddit.com/r/gaming/comments/gaaau/fallout_new_vegas_is_it_still_buggyglitchy/
 tags:
 - gaming
-- reddit_submission
 ---
 
 #### Posted on r/gaming: [Fallout New Vegas: Is it still buggy/glitchy?](https://reddit.com/r/gaming/comments/gaaau/fallout_new_vegas_is_it_still_buggyglitchy/)
