@@ -72,7 +72,7 @@ canonifyURLs = true
     micropub_endpoint = 'https://apps.roytang.net/blog/micropub'
     recaptcha_key = '6Ld80rMUAAAAAIKde9k3z7KtfmjHSwT48S_Cy5-k'
     sourceFileBase = 'https://github.com/roytang/blog/tree/master/content/'
-    mainSections = ["post", "notes", "photos", "replies", "reposts", "fiction", "links"]
+    mainSections = ["post", "notes", "photos", "fiction", "links"]
 
     # can use markdown here
     hero_text = """**Roy Tang** is a:
