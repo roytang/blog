@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/690956343352496128/
 ---
 
-RT [@GirlForScience](https://twitter.com/GirlForScience/): This is flawless. FLAWLESS. https://t.co/EpErydJQk1
+This is flawless. FLAWLESS.

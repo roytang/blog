@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1087994568233095168/
 ---
 
-RT [@SixoTF](https://twitter.com/SixoTF/): RT if you spent *hours* of your childhood just staring at these drawings. https://t.co/suevfIe2cC
+RT if you spent *hours* of your childhood just staring at these drawings. https://t.co/suevfIe2cC
