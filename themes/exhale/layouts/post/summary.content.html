@@ -1,38 +1,17 @@
+{{ if or .Params.featuredImage .Params.featuredResource }}
+<div class="featured_image_wrapper">
+{{ partial "block/featured_image" . }}    
+<div>
+{{ end }}
+
 <div class="content p-summary">
 {{ .Summary }}
 {{ if .Truncated }}
 <p><a href="{{ .Permalink }}">read more ({{ .WordCount }} words)</a></p>
 {{ end }}
-
-{{ $mainPermalink := .Permalink }}
-{{ with .Params.featuredImage }}
-    <div class="image-list">
-        <a href="{{ $mainPermalink }}">
-            <figure>
-            <img src="{{ . }}" />
-            </figure>
-        </a>
-    </div>
-{{ end }}
-
-{{ if .Params.featuredResource }}
-    {{ $mainPermalink := .RelPermalink }}
-    {{ $caption := .Title | default .Summary }}
-    <div class="image-list">
-        {{ if .Params.featuredResource.photo }}
-            {{ $filename := .Params.featuredResource.filename }}
-            {{ range where (where .Site.RegularPages "Section" "photos" ) ".RelPermalink" "==" .Params.featuredResource.photo }}
-                {{ range .Resources.Match $filename }}
-                    {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Name }}    
-                {{ end }}
-            {{ end }}
-        {{ else }}
-            {{ range .Resources.Match .Params.featuredResource.filename }}
-                {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Name }}    
-            {{ end }}
-        {{ end }}
-    </div>
-{{ end }}
-
-
 </div>
+
+{{ if or .Params.featuredImage .Params.featuredResource }}
+</div>
+</div>
+{{ end }}

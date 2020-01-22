@@ -622,3 +622,24 @@ td {
     }
  
  }
+
+.featured_image_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.featured_image figure {
+    margin: 0;
+    margin-right: 0.5em;
+    width: 16em;
+}
+
+@media (max-width: 480px) {
+    .featured_image_wrapper {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .featured_image figure {
+        width: 100%;
+    }
+}
