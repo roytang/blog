@@ -2,7 +2,6 @@
 <div class="content e-content">
 {{ if .Params.repost_source }}<blockquote>{{ end }}
 {{ .Content }}
-{{ partial "block/photos" . }}
 {{ if .Params.repost_source }}</blockquote>{{ end }}
 <div class="image-list">
 {{ .Render "image_list" }}
