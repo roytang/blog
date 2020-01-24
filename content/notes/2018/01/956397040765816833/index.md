@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/956397040765816833/
 ---
 
-RT [@Rappin4Safety](https://twitter.com/Rappin4Safety/): This guy on reddit posted about the conspiracy he believes is real: all Vietnamese people can rip an apple in half https…
+This guy on reddit posted about the conspiracy he believes is real: all Vietnamese people can rip an apple in half
