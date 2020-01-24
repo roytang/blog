@@ -14,13 +14,14 @@ tags:
 title: 'Review: Duelyst'
 type: post
 url: /2017/02/review-duelyst/
+dontinlinephotos: true
 ---
 
 After [Hearthstone][1], I tried out a couple of other digital CCGs: [Spellweaver][2] and [Eternal][3], but neither one hooked me. The one I enjoyed the most and did pick up to play regularly was [Duelyst][4]. So this review is written from the perspective of someone who has played both Magic the Gathering (MTG) and Hearthstone (HS).
 
 Hearthstone, Spellweaver and Eternal played like digital MTG with some advantages, as I outlined in the HS post linked above. Duelyst keeps many of the same elements and advantages, but adds an extra dimension. Besides being a card game, Duelyst is also a board game.
 
-[<img class="aligncenter size-full wp-image-1724" src="http://roytang.net/wp-content/uploads/2017/02/20161015104936_1.jpg" alt="" width="1920" height="1080" srcset="https://roytang.net/wp-content/uploads/2017/02/20161015104936_1.jpg 1920w, https://roytang.net/wp-content/uploads/2017/02/20161015104936_1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/02/20161015104936_1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/02/20161015104936_1-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/02/20161015104936_1-1200x675.jpg 1200w" sizes="(max-width: 1920px) 100vw, 1920px" />][5]
+{{< img src="20161015104936_1.jpg" >}}
 
 **Board game**
 
@@ -34,7 +35,7 @@ That means a number of spells and abilities care about positioning too. Each of
 
 Hearthstone has different heroes, and each hero has a different card pool available. By contrast, Duelyst has factions and Generals. Each faction has its own card pool, and of course there is a global or "neutral" card pool as well. Each faction also has two Generals, each of which has a different BBS. The factions and Generals encourage a lot of different playstyles.
 
-[<img class="aligncenter size-full wp-image-1729" src="http://roytang.net/wp-content/uploads/2017/02/20170216154217_1.jpg" alt="" width="1920" height="1080" srcset="https://roytang.net/wp-content/uploads/2017/02/20170216154217_1.jpg 1920w, https://roytang.net/wp-content/uploads/2017/02/20170216154217_1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/02/20170216154217_1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/02/20170216154217_1-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/02/20170216154217_1-1200x675.jpg 1200w" sizes="(max-width: 1920px) 100vw, 1920px" />][6]
+{{< img src="20170216154217_1.jpg" >}}
 
 Some factions like the Songhai are more focused on spell-based damage and backstabs. The Lyonar focus on cheap, efficient creatures. Vetruvian has obelisks that can generate temporary minions. Abyssian focuses on swarm tactics and shadow creep. The Vanar rely on placement and trickery. My favorite General, the Magmar Vaath, likes to go toe-to-toe with the enemy General and **punch him in the face!**
 
@@ -63,7 +64,7 @@ I find competitive play on the ranked ladders for both Duelyst and Hearthstone 
 
 Since I've already spent a bunch of money in MTG, I don't like spending money on digital card games. So for both HS and Duelyst, I am strictly free-to-play (F2P). Both games offer similar monetization models (pay money for booster packs/cosmetics) but I was able to get further up the ladder in competitive Duelyst.
 
-[<img class="aligncenter size-full wp-image-1725" src="http://roytang.net/wp-content/uploads/2017/02/20170131192316_1.jpg" alt="" width="1920" height="1080" srcset="https://roytang.net/wp-content/uploads/2017/02/20170131192316_1.jpg 1920w, https://roytang.net/wp-content/uploads/2017/02/20170131192316_1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/02/20170131192316_1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/02/20170131192316_1-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/02/20170131192316_1-1200x675.jpg 1200w" sizes="(max-width: 1920px) 100vw, 1920px" />][7]
+{{< img src="20170131192316_1.jpg" >}}
 
 In my first full month (December), I was already able to get to Duelyst's Gold Division. This should be similar to around rank 10 in HS. After a lot (and I mean **a lot**) of grinding from Diamond rank, I managed to hit the S-Rank Division last month. This is the equivalent of HS's Legend rank. The highest rank I ever got in HS was around rank 6 or 7.
 
@@ -80,10 +81,8 @@ Duelyst is still a young game -- the second expansion just came out last Decembe
 
 &nbsp;
 
- [1]: http://roytang.net/2016/05/hearthstone-vs-mtg/
+ [1]: /2016/05/hearthstone-vs-mtg/
  [2]: http://store.steampowered.com/app/429680/
  [3]: http://store.steampowered.com/app/531640/
  [4]: https://duelyst.com/
- [5]: http://roytang.net/wp-content/uploads/2017/02/20161015104936_1.jpg
- [6]: http://roytang.net/wp-content/uploads/2017/02/20170216154217_1.jpg
- [7]: http://roytang.net/wp-content/uploads/2017/02/20170131192316_1.jpg
+ 
