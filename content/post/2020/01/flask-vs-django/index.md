@@ -1,13 +1,16 @@
 ---
-title: "Flask vs Django"
 date: 2020-01-24
+featuredResource:
+  filename: code.png
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1220540598551228418/
 tags:
 - software development
 - python
 - flask
 - django
-featuredResource:
-  filename: code.png
+title: Flask vs Django
 ---
 
 In a bid to reduce the number of webapps actually running on my server (for resource consumption reasons), I decided to migrate a small Flask app I had and merge into this larger Django app where I have a lot of my personal data tracking stuff. The Flask app was small enough, mostly containing backend support for this blog (like search and comment submissions) and some Twitter things. The migration was straightforward, taking around half a day, most of that was wrangling with Twitter API rate limits.
