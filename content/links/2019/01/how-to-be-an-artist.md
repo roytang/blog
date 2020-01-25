@@ -8,4 +8,7 @@ link:
 slug: how-to-be-an-artist
 source: pocket
 title: How to Be an Artist
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1089094654597971968/
 ---

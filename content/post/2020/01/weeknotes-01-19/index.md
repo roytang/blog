@@ -43,6 +43,8 @@ This week's site updates:
 - added the [Uses page](/about/uses/)
 - cleaned up some old posts
 
+---
+
 This coming week I'm looking forward to:
 
 - the trivia team is doing [geekfight](https://www.facebook.com/GeekFightPH/) this Tuesday. This quiz has One Piece, Batman and Magic The Gathering rounds, so I'm hoping to crush it!

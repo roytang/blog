@@ -8,4 +8,7 @@ link:
 slug: a-brief-history-of-cheese-aka-immortal-milk
 source: pocket
 title: A Brief History of Cheese (aka Immortal Milk)
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1089094656246321152/
 ---

@@ -80,6 +80,7 @@ canonifyURLs = true
 - [programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart](/2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/)
 - Frustrated writer and [sketch artist](/album/sketchbook/)
 - [Magic](/tags/mtg) player on weekends
+- Sometimes [I stream video games](/tags/twitch).
 - [Software developer](/tags/software-development/) since 2003. If you'd like to work with me, take a look at my [resume](/resume).
 
 [roytang.net](https://roytang.net) is a personal site, an [E/N site](http://sawv.org/en.html), and kind of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book); 
@@ -109,6 +110,7 @@ I post about a random assortment of topics that interest me including [software 
     linkedin = "roytang" # Your LinkedIn profile ID (from public URL)
     twitter = "roytang" # Your Twitter profile ID
     instagram = "roytang0400"
+    twitch = "twitchyroy"
     reddit = "hungryroy"
     mastodon = "roytang@mastodon.technology"
     mastodon_url = "https://mastodon.technology/@roytang"

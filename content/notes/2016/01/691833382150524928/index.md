@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@aleksfelipe](https://twitter.com/aleksfelipe/) hindi updated how? araw-araw andaming post dun
-[@aleksfelipe](https://twitter.com/aleksfelipe/) i even disabled notfis from that group since andami. but it's a closed group, you wouldnt see the posts unless you're a member
+
+[@aleksfelipe](https://twitter.com/aleksfelipe/) i even disabled notfis from that group since andami. but it's a closed group, you wouldnt see the posts unless you're a member

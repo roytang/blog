@@ -8,4 +8,7 @@ link:
 slug: we-analyzed-16625-papers-to-figure-out-where-ai-is-headed-next
 source: pocket
 title: We analyzed 16,625 papers to figure out where AI is headed next
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1089094651523534848/
 ---
