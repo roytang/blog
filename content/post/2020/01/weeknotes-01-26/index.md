@@ -1,5 +1,8 @@
 ---
 date: 2020-01-26
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1221263275301785601/
 tags:
 - weeknotes
 title: Weeknotes 2020-01-26
