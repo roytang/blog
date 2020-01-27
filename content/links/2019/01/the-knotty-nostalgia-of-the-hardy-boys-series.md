@@ -8,4 +8,7 @@ link:
 slug: the-knotty-nostalgia-of-the-hardy-boys-series
 source: pocket
 title: The Knotty Nostalgia of the Hardy Boys Series
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1089745021904060417/
 ---
