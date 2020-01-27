@@ -7,6 +7,10 @@ syndicated:
   url: https://tumblr.roytang.net/post/149677785905/some-days-you-are-tired
 - type: twitter
   url: https://twitter.com/roytang/statuses/770434574740512769/
+- type: reddit
+  url: https://reddit.com/r/OCPoetry/comments/4ws35m/some_days_you_are_tired/
+tags:
+- ocpoetry
 title: Some days you are tired
 type: post
 url: /2016/08/some-days-you-are-tired/
