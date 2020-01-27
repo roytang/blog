@@ -1,9 +1,12 @@
 ---
-title: "Dreams: Verythepast"
-date: 2020-01-27T09:25:41+08:00
+date: 2020-01-27 01:25:41
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1221625666006933504/
 tags:
 - gaming
 - dreams
+title: 'Dreams: Verythepast'
 ---
 
 I rarely tell other people my dreams anymore because it feels kind of weird, but this one was too good to pass up. It involves pro streamers and the fighting game community.
@@ -22,4 +25,4 @@ Now that I wrote it out that doesn't seem much. (There was some other inconseque
 - there was actually a detailed discussion of Guilty Gear game mechanics during the "conference". Of course, most of it was probably inaccurate.
 - The apology tweets by verythepast the next day were very detailed when I read them in the dream, enough for me to remember most of the text when I woke up (except verythepast tagged me as @roy instead of @roytang). It's always nice when I'm able to read text inside a dream, because as anyone who has seen the [Batman:TAS episode "Perchance to Dream"](https://en.wikipedia.org/wiki/Perchance_to_Dream_(Batman:_The_Animated_Series)) knows: you can't read inside a dream!
 
-I've always been amazed by the complex and sometimes convoluted plots that your subconscious can come up with for dreams. This one is relatively simple by comparison, but I still felt amazed at it when I woke up, enough to write this post immediately after! (Or perhaps the amazement is part of the dream??). 
+I've always been amazed by the complex and sometimes convoluted plots that your subconscious can come up with for dreams. This one is relatively simple by comparison, but I still felt amazed at it when I woke up, enough to write this post immediately after! (Or perhaps the amazement is part of the dream??).
