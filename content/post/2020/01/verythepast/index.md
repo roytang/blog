@@ -4,7 +4,6 @@ date: 2020-01-27T09:25:41+08:00
 tags:
 - gaming
 - dreams
-draft: true
 ---
 
 I rarely tell other people my dreams anymore because it feels kind of weird, but this one was too good to pass up. It involves pro streamers and the fighting game community.
