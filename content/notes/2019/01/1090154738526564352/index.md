@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1090154738526564352/
 ---
 
-RT [@mjseidlinger](https://twitter.com/mjseidlinger/): Ursula K. Le Guin’s writing routine is the ideal writing routine. https://t.co/D0sXigDvWe
+Ursula K. Le Guin’s writing routine is the ideal writing routine. 

@@ -7,4 +7,4 @@ syndicated:
 tags: []
 ---
 
-Ambilis! https://www.theverge.com/2017/1/28/14427086/federal-court-halts-trumps-immigration-ban?utm_campaign=reckless&utm_content=chorus&utm_medium=social&utm_source=twitter
+Ambilis! https://www.theverge.com/2017/1/28/14427086/federal-court-halts-trumps-immigration-ban
