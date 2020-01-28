@@ -24,8 +24,10 @@
             "content_html": {{ .Content | jsonify }},
             "summary": {{ .Summary | jsonify }},
             "date_published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
-            "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }},
-            "tags": {{ .Params.Tags | jsonify }}
+            "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }}
+            {{ with .Params.Tags }}
+            , "tags": {{ . | jsonify }}
+            {{ end }}
         }
         {{ end }}
     ]
