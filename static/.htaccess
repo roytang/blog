@@ -1,3 +1,5 @@
+AddDefaultCharset utf-8
+
 RewriteRule ^feed$ index.xml [R=301,L]
 RewriteRule ^feed/$ index.xml [R=301,L]
 RewriteRule ^tag/(.*)/$ tags/$1/ [R=301,L]
@@ -84,3 +86,4 @@ Header set Connection keep-alive
         Header append Cache-Control "public"
     </FilesMatch>
 </IfModule>
+
