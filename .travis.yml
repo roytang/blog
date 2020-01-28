@@ -15,9 +15,7 @@ install:
 - pip install -r utils/requirements.txt
 script:
 - python utils/markov.py
-- travis_wait (hugo --gc --minify --templateMetrics > log.txt)
-- mkdir public/build
-- mv log.txt public/build/log.txt
+- travis_wait build.sh 
 deploy:
   provider: pages
   skip-cleanup: true
