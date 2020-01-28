@@ -47,18 +47,6 @@ Stats :: [Website](/about/stats) :: [Social Media](/about/stats/socmed) :: [MTG]
 
 ---
 
-### [Reposts](/reposts) by year
-
-{{< html "utils/stats/reposts.svg" >}}
-
----
-
-### [Replies](/replies) by year
-
-{{< html "utils/stats/replies.svg" >}}
-
----
-
 ### [Links](/links) by year
 
 {{< html "utils/stats/links.svg" >}}

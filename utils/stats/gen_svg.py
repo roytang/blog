@@ -42,7 +42,7 @@ def gen_chart(xaxis, yaxis, filename, title="", extra_data=[]):
 
 def gen_svg_blog():
     sourcefile = root / "blog.json"
-    sections = ["post", "comments", "notes", "photos", "reposts", "replies", "links", "words", "words_posts"]
+    sections = ["post", "comments", "notes", "photos", "links", "words", "words_posts"]
     with sourcefile.open() as f:
         stats = json.loads(f.read())
         for s in sections:
