@@ -15,7 +15,8 @@ install:
 - pip install -r utils/requirements.txt
 script:
 - python utils/markov.py
-- travis_wait build.sh 
+- ls
+- travis_wait ./build.sh 
 deploy:
   provider: pages
   skip-cleanup: true
