@@ -4,6 +4,10 @@
         "URL": "/blog/"
     },
     { 
+        "Name": "Notes",
+        "URL": "/notes/"
+    },
+    { 
         "Name": "Photos",
         "URL": "/photos/"
     },
