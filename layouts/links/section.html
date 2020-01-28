@@ -8,7 +8,16 @@
 <ul>
     {{ range where .Pages "Kind" "page" }}
     <li><a href="{{ .Params.link.url }}">{{ .Params.link.text }}</a> <small>{{ .Date.Format "Mon, Jan 2, 2006" }}
-        via <a href="{{ .Params.link.source_url }}">{{ .Params.link.source }}</a></small></li>
+        via <a href="{{ .Params.link.source_url }}">{{ .Params.link.source }}</a> 
+        {{ with .Summary }}| {{ . }}{{ end }}
+        {{ with .Params.tags }}
+            |
+            {{ range . }}
+                <a href="/tags/{{ . }}">#{{ . }}</a>
+            {{ end }}
+        {{ end }}
+    </small>
+    </li>
     {{ end }}
 </ul>
 {{ end }}
