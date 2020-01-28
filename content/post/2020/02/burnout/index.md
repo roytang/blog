@@ -32,7 +32,7 @@ Environment challenges:
 
 Personal challenges:
 
-- I have a very strong sense of duty and obligation. I realize this doesn't sound like a negative, but it'd kind of a double-edged sword in that I take my duties as an employee very seriously and will sometimes sacrifice my own well-being if I think it is needed. For the longest time, one of [my favorite quotes has been](/2012/08/232395423602573312/):
+- I have a very strong sense of duty and responsibility. I realize this doesn't sound like a negative, but it'd kind of a double-edged sword in that I take my duties as an employee very seriously and will sometimes sacrifice my own well-being if I think it is needed. For the longest time, one of [my favorite quotes has been](/2012/08/232395423602573312/):
   > “Death is lighter than a feather, but Duty is heavier than a mountain” - Japanese proverb
   
   I find this quote symptomatic of the "hustle culture" that tends to lead to burnout. That's probably a topic for another time, but the gist of it is that most companies and projects are a never-ending well of work that needs to be done, so much so that oftentimes the reward for good work is often more work. i.e. 
