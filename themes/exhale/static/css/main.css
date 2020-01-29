@@ -4,13 +4,31 @@
     --third-color: rgb(32, 192, 192);
     --container-color: #353b43;
     --second-container-color: #353f43;
+    --background-color: #242930;
+    --text-color: white;
 }
+
+
+@media (prefers-color-scheme: light) {
+    /*
+    :root {
+        --main-color: #57cc8a;
+        --second-color: coral;
+        --third-color: rgb(32, 192, 192);
+        --container-color: #e5ebf3;
+        --second-container-color: #353f43;
+        --background-color: white;
+        --text-color: #242930;
+    }
+    */
+}
+
 
 body {
     font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
     font-size: 0.9em;
-    background-color: #242930;
-    color: white;
+    background-color: var(--background-color);
+    color: var(--text-color);
 }
 
 strong {
