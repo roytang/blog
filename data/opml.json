@@ -1,0 +1,22 @@
+{
+    "opml": {
+        "body": {
+            "outline": [
+                {
+                    "outline": [
+                        {
+                            "_text": "",
+                            "_title": "",
+                            "_type": "rss",
+                            "_xmlUrl": "",
+                            "_htmlUrl": ""
+                        }
+                    ],
+                    "_text": "Blogroll",
+                    "_title": "blogroll"
+                }
+           ]
+        },
+        "_version": "1.0"
+    }
+}

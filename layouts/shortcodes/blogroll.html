@@ -1,0 +1,11 @@
+<ul>
+    {{ $opmlJson := index .Site.Data.opml "opml" "body" "outline" }}
+    {{ range sort $opmlJson "_title" "asc" }}
+        {{ if eq ._title "blogroll" }}
+        {{ $sublist := index . "outline" }}
+        {{ range sort $sublist "_title" "asc" }}
+        <li><a href="{{ ._htmlUrl }}" target="_blank">{{ ._title }}</a></li>
+        {{ end }}
+        {{ end }}
+    {{ end }}
+</ul>
