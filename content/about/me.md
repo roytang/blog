@@ -9,7 +9,7 @@ type: page
 
 <div class="grid_item">
 
-![Wearing dice on my head since 2008](/uploads/diceonhead.jpg)
+![Wearing dice on my head since 2008](/img/profile.jpg)
 
 </div>
 
