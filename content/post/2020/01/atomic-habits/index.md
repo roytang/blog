@@ -1,11 +1,14 @@
 ---
-title: "Book Review: Atomic Habits by James Clear"
-date: 2020-01-29T09:02:31+08:00
+date: 2020-01-29 01:02:31
+featuredImage: https://jamesclear.com/wp-content/uploads/2019/09/AH-Preferred-Badge-e1568647575112-768x996.png
 slug: atomic-habits
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1222342903030337536/
 tags:
 - books
 - review
-featuredImage: https://jamesclear.com/wp-content/uploads/2019/09/AH-Preferred-Badge-e1568647575112-768x996.png
+title: 'Book Review: Atomic Habits by James Clear'
 ---
 
 Hopefully managing to read at least one book at month this year, kicking it off with [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits).
