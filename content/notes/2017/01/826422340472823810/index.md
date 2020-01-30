@@ -10,6 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/826422340472823810/
 ---
 
-RT [@KieranSuckling](https://twitter.com/KieranSuckling/): Mike Pence has deleted this 2015 tweet denouncing Muslim bans as unconstitutional.
+Mike Pence has deleted this 2015 tweet denouncing Muslim bans as unconstitutional.
 
-Retweet it now remind him, hold him…
+Retweet it now remind him, hold him responsible.

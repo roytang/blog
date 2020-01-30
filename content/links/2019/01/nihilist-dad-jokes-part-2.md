@@ -8,4 +8,7 @@ link:
 slug: nihilist-dad-jokes-part-2
 source: pocket
 title: Nihilist Dad Jokes, Part 2
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1091036308640858114/
 ---
