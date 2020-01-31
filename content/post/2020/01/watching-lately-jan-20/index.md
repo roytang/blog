@@ -1,12 +1,16 @@
 ---
-title: "Watching Lately, Jan 2020: Arrow, The Good Place, The Witcher, Kim's Convenience, The Expanse"
 date: 2020-01-31
 slug: watching-lately
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1223075263472459777/
 tags:
 - Pop Culture
 - Movies
 - TV
 - watching lately
+title: 'Watching Lately, Jan 2020: Arrow, The Good Place, The Witcher, Kim''s Convenience,
+  The Expanse'
 ---
 
 I wasn't sure if I should continue this [watching-lately](/tags/watching-lately) series since I already set up a separate page for [listing my 2020 movies watched](/lists/2020/movies). It might have been more consistent to have a list for the 2020 TV shows also? But then again, TV shows are a much different beast, since each show/season is broken into an episode and sometimes you watch them all in one go or sometimes over the span of a few months. So maybe let's keep this going for the while.
