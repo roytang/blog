@@ -6,4 +6,3 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1091372287654121472/
 ---
 
-https://t.co/iiBHx398AZ
