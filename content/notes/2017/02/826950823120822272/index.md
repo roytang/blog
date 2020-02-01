@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/826950823120822272/
 ---
 
-RT [@FoldableHuman](https://twitter.com/FoldableHuman/): In season 3 of Deep Space 9 Dax, Sisko, and Bashir go back to the 2020s and America is a fascist libertarian nightmare w…
+In season 3 of Deep Space 9 Dax, Sisko, and Bashir go back to the 2020s and America is a fascist libertarian nightmare w/ runaway poverty.

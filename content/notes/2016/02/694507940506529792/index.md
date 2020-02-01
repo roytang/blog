@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/694507940506529792/
 ---
 
-RT [@Mikey_Nicholson](https://twitter.com/Mikey_Nicholson/): It's early days but this may be the story of 2016. https://t.co/mb8w0APJ3P
+It's early days but this may be the story of 2016. 
