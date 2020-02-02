@@ -7,11 +7,17 @@ tags:
 title: Trying out KDE4
 type: post
 url: /2008/02/trying-out-kde4/
+dontinlinephotos: true
+featuredResource:
+  filename: screenshot.png
+resources:
+- src: screenshot.png
+  title: KDE4 Screenshot
 ---
 
 After finding out that KDE4 was already available for Kubuntu 7.10, the nice screenshots of the new Oxygen theme and hints of a revamped panel and widget system appealed to my inner geek envy, so I decided to install and give it a whirl.
 
-[![KDE4 Screenshot][1]][2] 
+{{< img src="screenshot.png" >}}
 
 My quick impression, after 15 minutes of usage:
   
