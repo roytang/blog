@@ -1,0 +1,30 @@
+{
+  "source": "webmention",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg",
+  "name": "Aleks Felipe",
+  "mention_url": "https://twitter.com/roytang/status/1223932629164142593#favorited-by-12953232",
+  "type": "like",
+  "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1223932629164142593/12953232",
+  "id": "webmention-751230",
+  "text": "[Aleks Felipe](https://twitter.com/aleksfelipe) liked this [on twitter](https://twitter.com/roytang/status/1223932629164142593#favorited-by-12953232)",
+  "url": "https://twitter.com/aleksfelipe",
+  "source_obj": {
+    "wm-target": "https://roytang.net/2020/02/weeknotes-2020-02-02/",
+    "wm-private": false,
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg",
+      "url": "https://twitter.com/aleksfelipe",
+      "name": "Aleks Felipe"
+    },
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1223932629164142593/12953232",
+    "wm-received": "2020-02-02T15:13:48Z",
+    "type": "entry",
+    "like-of": "https://roytang.net/2020/02/weeknotes-2020-02-02/",
+    "url": "https://twitter.com/roytang/status/1223932629164142593#favorited-by-12953232",
+    "published": null,
+    "wm-property": "like-of",
+    "wm-id": 751230
+  },
+  "date": "2020-02-02 15:13:48"
+}
