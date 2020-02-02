@@ -1,9 +1,12 @@
 ---
-title: "Weeknotes 2020-02-02. Happy palindrome day!"
 date: 2020-02-02
 slug: weeknotes-2020-02-02
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1223932629164142593/
 tags:
 - weeknotes
+title: Weeknotes 2020-02-02. Happy palindrome day!
 ---
 
 The big news this week was the passing of basketball legend Kobe Bryant. Not personally big on basketball myself, but I can get why a lot of people sympathized. It was sad, but at least it wasn't on the scale of another natural disaster or global pandemic. Although the global pandemic did also spread to the Philippines this week...
