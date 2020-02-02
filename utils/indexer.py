@@ -66,7 +66,7 @@ def indexfile(mdfile, writer, content_type, all=False):
             if d > n:
                 # dont index files from the future
                 return
-            t = str(post.get('title'))
+            t = str(post.get('title', ''))
             tags = []
             if post.get("tags") != None:
                 tags = post.get("tags")
@@ -98,13 +98,10 @@ def index(all=False):
 
     writer = ix.writer()
 
-    # navigate to ./content/posts
-    p = cwd / "content" / "post"
-    for mdfile in p.glob("**/*.md"):
-        indexfile(mdfile, writer, "post", all)
-    p = cwd / "content" / "photos"
-    for mdfile in p.glob("**/*.md"):
-        indexfile(mdfile, writer, "photos", all)
+    for kind in ["post", "photos", "notes", "links"]:
+        p = cwd / "content" / kind
+        for mdfile in p.glob("**/*.md"):
+            indexfile(mdfile, writer, kind, all)
     writer.commit()
 
 def query_test():
