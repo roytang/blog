@@ -1,6 +1,6 @@
 ---
 title: "Burnout"
-date: 2020-02-04
+date: 2020-02-06
 tags:
 - software development
 ---
@@ -9,7 +9,7 @@ In the middle of 2015, after 12ish years of working at the same company, I said 
 
 <!--more-->
 
-I remember that after a few days of ruminating over it I finally decided and said out loud to myself "That's it, I'm done." By the end of the year I had left the company. I didn't write about the burnout then, out of respect for my former employeer. But it's been a while, I think the time has come to write about it.
+I remember that after a few days of ruminating over it I finally decided and said out loud to myself "That's it, I'm done." By the end of the year I had left the company. I didn't write about the burnout then, out of respect for my former employer. But it's been a while, I think the time has come to write about it.
 
 How do I know I was burnt out? I don't believe there is any generally accepted consensus of symptoms for burnout, but I had a good set of indicators:
 
@@ -62,4 +62,4 @@ For people in leadership/management positions:
 - it isn't sufficient to simply be asking your team members "Are you still ok?", because if they're anything like me, they may not be aware that they are starting to burn out already. Pay attention to how they are performing and how much time, effort and energy they are putting them in, and don't push them unnecessarily.
 - if your team members raise a concern, make sure to not only listen but to make them know what is being done to address their concerns. Unaddressed problems lead to frustration.
 
-In generral, software development is a demanding industry, and it tends to attract people like me - industrious people who enjoy and take pride in their work. (Hence the famous quote about laziness, impatience and hubris.) Add to that the common difficulties in estimation, scheduling and planning, and it's easy to understand why burnout is rampant in this industry. All the more reason for everyone involved to be aware of the risks of burnout and how to avoid it, and perhaps to somehow help reshape the industry to better avoid it.
+In general, software development is a demanding industry, and it tends to attract people like me - industrious people who enjoy and take pride in their work. (Hence the famous quote about laziness, impatience and hubris.) Add to that the common difficulties in estimation, scheduling and planning, and it's easy to understand why burnout is rampant in this industry. All the more reason for everyone involved to be aware of the risks of burnout and how to avoid it, and perhaps to somehow help reshape the industry to better avoid it.

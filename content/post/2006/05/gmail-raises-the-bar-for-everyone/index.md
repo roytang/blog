@@ -20,37 +20,24 @@ My first attempt: I tried to load gmail in an iframe so I could read the documen
 
 My second attempt: I open gmail in a new window using javascript's window.open, then use the resulting window variable to access the document contents. Something like this:
 
-> <html>
-  
-> <body>
-  
-> <script>
-  
-> var win;
-  
-> function doIt() {
-	  
-> win = window.open(&#8216;http://www.gmail.com');
-  
-> }
-  
-> function getIt() {
-	  
-> document.getElementById("t").innerHTML = win.document.body.innerHTML;
-  
-> }
-  
-> </script>
-  
-> <br/><input type="button" onclick="doIt()" value="clickMe" />
-  
-> <br/><input type="button" onclick="getIt()" value="getContents" />
-  
-> <br/><textarea style="width:100%; height: 40%;" id="t"></textarea>
-  
-> </body>
-  
-> </html> 
+{{< highlight html >}}
+<html>
+<body>
+<script>
+  var win;
+  function doIt() {
+  win = window.open(‘http://www.gmail.com’);
+  }
+  function getIt() {
+  document.getElementById(“t”).innerHTML = win.document.body.innerHTML;
+  }
+</script>
+<br/><input type=”button” onclick=”doIt()” value=”clickMe” />
+<br/><input type=”button” onclick=”getIt()” value=”getContents” />
+<br/><textarea style=”width:100%; height: 40%;” id=”t”></textarea>
+</body>
+</html> 
+{{< / highlight >}}
 
 Wow, "Access is denied." Who knew IE actually had that much security?
 
