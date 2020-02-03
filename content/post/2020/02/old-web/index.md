@@ -1,6 +1,6 @@
 ---
-title: "Tales of the Old Browsers"
-slug: old-browsers
+title: "Tales from the Old Web (Development)"
+slug: old-web
 date: 2020-02-04
 dontinlinephotos: true
 tags:
