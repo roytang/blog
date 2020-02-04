@@ -22,3 +22,4 @@ List of new (to me) movies watched in 2020. Ongoing!
 | 13 | 6 Underground | 2019 | Jan 17 | The editing and scene transitions were all over the place. A very Michael Bay film. | 3.5 |
 | 14 | The Wolf of Wall Street | 2013 | Jan 18 | This movie does nothing to improve my opinion of modern capitalism. | 4.5 |
 | 15 | Parasite | 2019 | Jan 19 | Really good, but IDK how to begin to describe it. Worth overcoming the 1 inch subtitle barrier for. | 5 |
+| 16 | Kiki's Delivery Service | 1989 | Feb 04 | Very light-hearted and idyllic. At first it felt a bit boring, but it had me smiling by the end. | 5 |
