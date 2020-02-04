@@ -1,10 +1,13 @@
 ---
-title: "Tales from the Old Web (Development)"
-slug: old-web
 date: 2020-02-04
 dontinlinephotos: true
+slug: old-web
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1224490625556533250/
 tags:
 - software development
+title: Tales from the Old Web (Development)
 ---
 
 There was this great (and long!) [article that came out recently about the history of CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/). It reminded me a lot of the old days when I started out in web development. So join me in a walk down memory lane as I reminisce about the trials and tribulations of early web development. (This one isn't about CSS as much as that linked article.)
