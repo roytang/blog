@@ -1,0 +1,34 @@
+{
+  "id": "webmention-752409",
+  "name": "Roy Tang",
+  "url": "https://mastodon.technology/@roytang",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6ff5726f9a6dfeb42b12211a9ffdfa71a8c0197fc8fb9764f6759cf902ec6e9c.jpg",
+  "type": "comment",
+  "text": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@eatingbrb\" class=\"u-url\">@<span>eatingbrb</span></a></span> thank you for the kind words! Glad to see I'm not alone :D</p>",
+  "source": "webmention",
+  "mention_url": "https://mastodon.technology/@roytang/103602985919777152",
+  "source_url": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/103597816367114086/103602985919777152",
+  "date": "2020-02-05 00:31:20",
+  "source_obj": {
+    "wm-received": "2020-02-05T00:31:20Z",
+    "published": "2020-02-04T22:41:48",
+    "type": "entry",
+    "content": {
+      "text": "@eatingbrb thank you for the kind words! Glad to see I'm not alone :D",
+      "html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@eatingbrb\" class=\"u-url\">@<span>eatingbrb</span></a></span> thank you for the kind words! Glad to see I'm not alone :D</p>"
+    },
+    "wm-target": "https://roytang.net/2020/02/old-web/",
+    "wm-property": "in-reply-to",
+    "author": {
+      "name": "Roy Tang",
+      "url": "https://mastodon.technology/@roytang",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6ff5726f9a6dfeb42b12211a9ffdfa71a8c0197fc8fb9764f6759cf902ec6e9c.jpg",
+      "type": "card"
+    },
+    "wm-id": 752409,
+    "url": "https://mastodon.technology/@roytang/103602985919777152",
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/103597816367114086/103602985919777152",
+    "in-reply-to": "https://roytang.net/2020/02/old-web/"
+  }
+}

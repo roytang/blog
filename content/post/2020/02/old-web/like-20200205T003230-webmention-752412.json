@@ -1,0 +1,30 @@
+{
+  "id": "webmention-752412",
+  "name": "68k mentat >B)",
+  "url": "https://retro.social/@68km",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bb84a6972c1405a27faff7fbe5a327648b258e7f04b7c9a048c64e8367699342.png",
+  "type": "like",
+  "text": "[68k mentat >B)](https://retro.social/@68km) liked this [on twitter](https://mastodon.technology/@roytang/103597816367114086#favorited-by-210119)",
+  "source": "webmention",
+  "mention_url": "https://mastodon.technology/@roytang/103597816367114086#favorited-by-210119",
+  "source_url": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103597816367114086/210119",
+  "date": "2020-02-05 00:32:30",
+  "source_obj": {
+    "wm-received": "2020-02-05T00:32:30Z",
+    "published": null,
+    "url": "https://mastodon.technology/@roytang/103597816367114086#favorited-by-210119",
+    "type": "entry",
+    "author": {
+      "name": "68k mentat >B)",
+      "url": "https://retro.social/@68km",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bb84a6972c1405a27faff7fbe5a327648b258e7f04b7c9a048c64e8367699342.png",
+      "type": "card"
+    },
+    "wm-id": 752412,
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103597816367114086/210119",
+    "wm-target": "https://roytang.net/2020/02/old-web/",
+    "wm-property": "like-of",
+    "like-of": "https://roytang.net/2020/02/old-web/"
+  }
+}

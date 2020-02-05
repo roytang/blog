@@ -1,0 +1,34 @@
+{
+  "id": "webmention-752408",
+  "name": "eric \ud83e\udd87",
+  "url": "https://fosstodon.org/@eatingbrb",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/87a73e5e02a92c76803ec1e5c6980819c1c27ae4e6432fcc8059bb539e1ff5d0.jpg",
+  "type": "comment",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> great post! I wish my IE6-8 skills were still useful now in 2020, because it was great job security! I'm also still defaulting to jQuery instead of the modern tools.</p>",
+  "source": "webmention",
+  "mention_url": "https://fosstodon.org/@eatingbrb/103601744793021121",
+  "source_url": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/103597816367114086/103601744818086841",
+  "date": "2020-02-05 00:31:15",
+  "source_obj": {
+    "wm-received": "2020-02-05T00:31:15Z",
+    "published": "2020-02-04T17:26:10",
+    "type": "entry",
+    "content": {
+      "text": "@roytang great post! I wish my IE6-8 skills were still useful now in 2020, because it was great job security! I'm also still defaulting to jQuery instead of the modern tools.",
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> great post! I wish my IE6-8 skills were still useful now in 2020, because it was great job security! I'm also still defaulting to jQuery instead of the modern tools.</p>"
+    },
+    "wm-target": "https://roytang.net/2020/02/old-web/",
+    "wm-property": "in-reply-to",
+    "author": {
+      "name": "eric \ud83e\udd87",
+      "url": "https://fosstodon.org/@eatingbrb",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/87a73e5e02a92c76803ec1e5c6980819c1c27ae4e6432fcc8059bb539e1ff5d0.jpg",
+      "type": "card"
+    },
+    "wm-id": 752408,
+    "url": "https://fosstodon.org/@eatingbrb/103601744793021121",
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/103597816367114086/103601744818086841",
+    "in-reply-to": "https://roytang.net/2020/02/old-web/"
+  }
+}
