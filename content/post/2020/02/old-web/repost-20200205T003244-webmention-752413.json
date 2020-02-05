@@ -1,0 +1,30 @@
+{
+  "id": "webmention-752413",
+  "name": "eric \ud83e\udd87",
+  "url": "https://fosstodon.org/@eatingbrb",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/87a73e5e02a92c76803ec1e5c6980819c1c27ae4e6432fcc8059bb539e1ff5d0.jpg",
+  "type": "repost",
+  "text": "[eric \ud83e\udd87](https://fosstodon.org/@eatingbrb) shared this [on twitter](https://mastodon.technology/@roytang/103597816367114086#reblogged-by-261648)",
+  "source": "webmention",
+  "mention_url": "https://mastodon.technology/@roytang/103597816367114086#reblogged-by-261648",
+  "source_url": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/103597816367114086/261648",
+  "date": "2020-02-05 00:32:44",
+  "source_obj": {
+    "wm-received": "2020-02-05T00:32:44Z",
+    "published": null,
+    "url": "https://mastodon.technology/@roytang/103597816367114086#reblogged-by-261648",
+    "type": "entry",
+    "author": {
+      "name": "eric \ud83e\udd87",
+      "url": "https://fosstodon.org/@eatingbrb",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/87a73e5e02a92c76803ec1e5c6980819c1c27ae4e6432fcc8059bb539e1ff5d0.jpg",
+      "type": "card"
+    },
+    "wm-id": 752413,
+    "repost-of": "https://roytang.net/2020/02/old-web/",
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/103597816367114086/261648",
+    "wm-target": "https://roytang.net/2020/02/old-web/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}

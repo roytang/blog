@@ -1,0 +1,30 @@
+{
+  "id": "webmention-752411",
+  "name": "Gabe Kangas",
+  "url": "https://mastodon.social/@gabek",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/d7097a8cb7ae61d2da31011ffa88c34e3eb6ed0ad5e3be440aec79307d19c16f.png",
+  "type": "like",
+  "text": "[Gabe Kangas](https://mastodon.social/@gabek) liked this [on twitter](https://mastodon.technology/@roytang/103597816367114086#favorited-by-65146)",
+  "source": "webmention",
+  "mention_url": "https://mastodon.technology/@roytang/103597816367114086#favorited-by-65146",
+  "source_url": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103597816367114086/65146",
+  "date": "2020-02-05 00:32:21",
+  "source_obj": {
+    "wm-received": "2020-02-05T00:32:21Z",
+    "published": null,
+    "url": "https://mastodon.technology/@roytang/103597816367114086#favorited-by-65146",
+    "type": "entry",
+    "author": {
+      "name": "Gabe Kangas",
+      "url": "https://mastodon.social/@gabek",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/d7097a8cb7ae61d2da31011ffa88c34e3eb6ed0ad5e3be440aec79307d19c16f.png",
+      "type": "card"
+    },
+    "wm-id": 752411,
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103597816367114086/65146",
+    "wm-target": "https://roytang.net/2020/02/old-web/",
+    "wm-property": "like-of",
+    "like-of": "https://roytang.net/2020/02/old-web/"
+  }
+}
