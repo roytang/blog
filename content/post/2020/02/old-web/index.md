@@ -47,7 +47,7 @@ page. It is easier for us to meet the performance reqt.
 > 
 > If you've seen the Google Maps or GMail webapps, they both use Ajax.
 
-The response was:
+The response was (unedited):
 
 > I've used Gmail.  AJas is client side library??? Seems they process very
 fast.
@@ -58,7 +58,7 @@ fast.
 
 Most of our projects were for internal systems where the workstations had controlled environments so we were free to target a single browser only (usually IE). Some projects also had a public-facing portal though, and that required we do some cross-browser frontend stuff. Early on, the typical targets other than IE where Netscape and Firefox. This is where the IE6 compatibility headaches come in. It was usually a game of write the code for IE first, then let the testers find any NS/FF issues, then quash accordingly.
 
-We started checking in Firefox around the quirks mode era, as described in the article linked at the start of this post. The biggest challenge really was getting everything pixel-perfectly the same between brwosers. The typical problems were:
+We started checking in Firefox around the quirks mode era, as described in the article linked at the start of this post. The biggest challenge really was getting everything pixel-perfectly the same between browsers. The typical problems were:
 
 - browser differences in CSS models (the famous box model issue)
 - differences in native controls (typically the `select` and `input type='file'` controls were the more problematic ones)
