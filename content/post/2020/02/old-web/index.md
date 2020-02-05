@@ -5,6 +5,8 @@ slug: old-web
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1224490625556533250/
+- type: devto
+  url: https://dev.to/roytang/tales-from-the-old-web-development-3jh 
 tags:
 - software development
 title: Tales from the Old Web (Development)
