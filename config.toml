@@ -6,6 +6,7 @@ theme = "exhale"
 # Pagination
 paginate = 50
 paginatePath = "page"
+# ignoreFiles = ["notes", "links", "photos"]
 
 rssLimit = 50
 enableGitInfo = true
