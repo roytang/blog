@@ -1,10 +1,4 @@
-{{- $pctx := . -}}
-{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
-{{- $pages := $pctx.RegularPages -}}
-{{- $limit := .Site.Config.Services.RSS.Limit -}}
-{{- if ge $limit 1 -}}
-{{- $pages = $pages | first $limit -}}
-{{- end -}}
+{{- $pages := .Paginator.Pages -}}
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "{{ .Site.Title }}",
@@ -25,10 +19,17 @@
             "summary": {{ .Summary | jsonify }},
             "date_published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
             "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }}
-            {{ with .Params.Tags }}
-            , "tags": {{ . | jsonify }}
-            {{ end }}
+            {{ with .Params.Tags }}, "tags": {{ . | jsonify }}{{ end }}
+            {{ with .Params.syndicated }}, "syndicated": [
+                {{ range $index2, $syn := . }}
+                {{ if ge $index2 1 }}, {{end}}{
+                    "url": "{{ $syn.url }}",
+                    "type": "{{ $syn.type }}"
+                }{{ end }}
+            ]{{ end }}
         }
         {{ end }}
     ]
+    {{ if .Paginator.HasPrev }} , "prev": "{{ .Paginator.Prev.URL }}" {{ end }}
+    {{ if .Paginator.HasNext }} , "next": "{{ .Paginator.Next.URL }}" {{ end }}
 }
