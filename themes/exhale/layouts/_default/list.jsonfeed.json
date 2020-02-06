@@ -14,6 +14,7 @@
         {{ if ge $index 1 }}, {{end}}{
             "id": "{{ .Permalink }}",
             "url": "{{ .Permalink }}",
+            "path": "{{ .RelPermalink }}",
             "title": {{ .Title | jsonify }},
             "content_html": {{ .Content | jsonify }},
             "summary": {{ .Summary | jsonify }},

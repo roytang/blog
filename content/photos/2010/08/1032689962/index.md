@@ -8,7 +8,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/22464226784/
 - type: plurk
-- url: https://plurk.com/p/78slf6
+  url: https://plurk.com/p/78slf6
 ---
 
 <p>My current wallpaper. Click for full-size.</p>

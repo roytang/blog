@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1093541947984142337/
 ---
 
-RT [@TheBlackNerd](https://twitter.com/TheBlackNerd/): This is actually making me stupider https://t.co/S2baFLB7Le
+This is actually making me stupider https://t.co/S2baFLB7Le
