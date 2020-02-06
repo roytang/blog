@@ -1,8 +1,11 @@
 ---
-title: "Burnout"
 date: 2020-02-06
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1225215346279436289/
 tags:
 - software development
+title: Burnout
 ---
 
 In the middle of 2015, after 12ish years of working at the same company, I said to myself "I think I'm burnt out." 
