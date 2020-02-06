@@ -21,9 +21,3 @@ looks like it was a server side issue, [@WindowsUpdate](https://twitter.com/Wind
 Quoted [WindowsUpdate's tweet](https://twitter.com/windowsupdate/status/1225138616256483328):
 
 > [@syst_and_deploy](https://twitter.com/syst_and_deploy/) [@roytang](https://twitter.com/roytang/) Thank your for flagging this earlier. Check in with our Windows Release Health Dashboard for the latest updates: https://docs.microsoft.com/en-us/windows/release-information/windows-message-center#387.
-
-looks like it was a server side issue, [@WindowsUpdate](https://twitter.com/WindowsUpdate/) is looking into it ?s=21 
-
-Quoted [WindowsUpdate's tweet](https://twitter.com/windowsupdate/status/1225138616256483328):
-
-> [@syst_and_deploy](https://twitter.com/syst_and_deploy/) [@roytang](https://twitter.com/roytang/) Thank your for flagging this earlier. Check in with our Windows Release Health Dashboard for the latest updates: https://docs.microsoft.com/en-us/windows/release-information/windows-message-center#387.

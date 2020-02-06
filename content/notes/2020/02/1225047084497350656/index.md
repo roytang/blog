@@ -9,6 +9,7 @@ syndicated:
 ---
 
 Streaming some more Theros Ranked Draft https://www.twitch.tv/twitchyroy
-Didn't finish the draft, only went 5 games: https://www.youtube.com/watch?v=rBKgKoKxOEU
+
+Didn't finish the draft, only went 5 games: https://www.youtube.com/watch?v=rBKgKoKxOEU
 
 Jedi mind trick highlight: https://www.youtube.com/watch?v=aoKjDs1d_fg
