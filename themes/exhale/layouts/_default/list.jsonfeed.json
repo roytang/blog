@@ -18,16 +18,19 @@
             "content_html": {{ .Content | jsonify }},
             "summary": {{ .Summary | jsonify }},
             "date_published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
-            "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }}
+            "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }},
+            "section": {{ .Section | jsonify }},
+            "source_path": {{ .File.Path |jsonify }}
             {{ with .Params.Tags }}, "tags": {{ . | jsonify }}{{ end }}
-            {{ with .Params.syndicated }}, "syndicated": [
-                {{ range $index2, $syn := . }}
-                {{ if ge $index2 1 }}, {{end}}{
-                    "url": "{{ $syn.url }}",
-                    "type": "{{ $syn.type }}"
+            {{ with .Params.syndicated }}, "syndicated": {{ . | jsonify }}{{ end }}
+            {{ with .Params.link }},"link": {{ .url |jsonify }}{{ end }}
+            {{ with .Resources.Match "*.json" }}, "comments": [
+                {{ range $index2, $comm := . }}{{ if ge $index2 1 }}, {{end}}{ {{ $data := $comm | transform.Unmarshal }}
+                    "url": {{ if $data.mention_url }}{{ $data.mention_url |jsonify }}{{ else }}{{ $data.url |jsonify }}{{ end }},
+                    "source_file": {{ $comm.Name |jsonify }}
                 }{{ end }}
             ]{{ end }}
-        }
+            }
         {{ end }}
     ]
     {{ if .Paginator.HasPrev }} , "prev": "{{ .Paginator.Prev.URL }}" {{ end }}
