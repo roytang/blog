@@ -1,0 +1,30 @@
+{
+  "source_url": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103609157760699104/261648",
+  "text": "[eric \ud83e\udd87](https://fosstodon.org/@eatingbrb) liked this [on twitter](https://mastodon.technology/@roytang/103609157760699104#favorited-by-261648)",
+  "source": "webmention",
+  "name": "eric \ud83e\udd87",
+  "type": "like",
+  "id": "webmention-752933",
+  "date": "2020-02-06 17:53:47",
+  "mention_url": "https://mastodon.technology/@roytang/103609157760699104#favorited-by-261648",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/87a73e5e02a92c76803ec1e5c6980819c1c27ae4e6432fcc8059bb539e1ff5d0.jpg",
+  "url": "https://fosstodon.org/@eatingbrb",
+  "source_obj": {
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103609157760699104/261648",
+    "wm-id": 752933,
+    "wm-property": "like-of",
+    "type": "entry",
+    "wm-received": "2020-02-06T17:53:47Z",
+    "wm-target": "https://roytang.net/2020/02/burnout/",
+    "author": {
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/87a73e5e02a92c76803ec1e5c6980819c1c27ae4e6432fcc8059bb539e1ff5d0.jpg",
+      "name": "eric \ud83e\udd87",
+      "url": "https://fosstodon.org/@eatingbrb",
+      "type": "card"
+    },
+    "wm-private": false,
+    "published": null,
+    "url": "https://mastodon.technology/@roytang/103609157760699104#favorited-by-261648",
+    "like-of": "https://roytang.net/2020/02/burnout/"
+  }
+}
