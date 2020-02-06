@@ -1,0 +1,30 @@
+{
+  "name": "Ayush Sharma \ud83c\udf75 + \ud83c\udfa7 + \ud83c\udfae",
+  "mention_url": "https://mastodon.technology/@roytang/103609157760699104#favorited-by-6746",
+  "id": "webmention-752741",
+  "source_url": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103609157760699104/6746",
+  "date": "2020-02-06 06:38:40",
+  "source": "webmention",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/ec7664c6ef59b186e8c45d5bba758db6cf848ab3d34cfef07458c681a5d65dbc.jpg",
+  "source_obj": {
+    "wm-id": 752741,
+    "like-of": "https://roytang.net/2020/02/burnout/",
+    "published": null,
+    "wm-property": "like-of",
+    "author": {
+      "name": "Ayush Sharma \ud83c\udf75 + \ud83c\udfa7 + \ud83c\udfae",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/ec7664c6ef59b186e8c45d5bba758db6cf848ab3d34cfef07458c681a5d65dbc.jpg",
+      "type": "card",
+      "url": "https://mastodon.technology/@ayushsharma22"
+    },
+    "wm-private": false,
+    "wm-target": "https://roytang.net/2020/02/burnout/",
+    "wm-received": "2020-02-06T06:38:40Z",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103609157760699104/6746",
+    "type": "entry",
+    "url": "https://mastodon.technology/@roytang/103609157760699104#favorited-by-6746"
+  },
+  "text": "[Ayush Sharma \ud83c\udf75 + \ud83c\udfa7 + \ud83c\udfae](https://mastodon.technology/@ayushsharma22) liked this [on twitter](https://mastodon.technology/@roytang/103609157760699104#favorited-by-6746)",
+  "type": "like",
+  "url": "https://mastodon.technology/@ayushsharma22"
+}
