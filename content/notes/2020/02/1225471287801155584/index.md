@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1225471287801155584/
 ---
 
-[@Tejinder_dass](https://twitter.com/Tejinder_dass/) [[@WindowsUpdate](https://twitter.com/WindowsUpdate/)](https://twitter.com/WindowsUpdate/) you need to create BingSearchEnabled entry yourself. Or you can check the replies to my earlier tweets, there were some other suggestions. Or just wait for [[@WindowsUpdate](https://twitter.com/WindowsUpdate/)](https://twitter.com/WindowsUpdate/) to fix it
+[@Tejinder_dass](https://twitter.com/Tejinder_dass/) [@WindowsUpdate](https://twitter.com/WindowsUpdate/) you need to create BingSearchEnabled entry yourself. Or you can check the replies to my earlier tweets, there were some other suggestions. Or just wait for [@WindowsUpdate](https://twitter.com/WindowsUpdate/) to fix it
