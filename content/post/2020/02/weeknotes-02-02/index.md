@@ -41,7 +41,7 @@ Site changes this week:
 Other random site-related things:
 
 - I got featured on [Kicks Conder's href hunt](https://www.kickscondor.com/hrefhunt/)! This is fun for me because I sometimes use this as a reference for finding new/interesting blogs to follow
-- may or may not be related, but I was looking at the AWStats for the site, and for some reason, January was a record in terms of number of unique hits, more than 3x the monthly peak for 2019. Not sure what happeneded there
+- may or may not be related, but I was looking at the AWStats for the site, and for some reason, January was a record in terms of number of unique hits, more than 3x the monthly peak for 2019. Not sure what happened there
 - I've been thinking for a while about revamping the front page. I'm not super happy with the top menu (I kind of want more items on there), and the main feed on the front page that mixes all the different content types kind of de-emphasizes the blog posts. I like having the notes/photos/links archives on the site, but I kind of want the main focus to still be on the longer blog posts? I'll have to think about this a while.
 
 ---
