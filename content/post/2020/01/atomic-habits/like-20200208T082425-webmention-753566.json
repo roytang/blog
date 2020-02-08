@@ -1,0 +1,30 @@
+{
+  "source_obj": {
+    "wm-private": false,
+    "wm-property": "like-of",
+    "author": {
+      "url": "https://twitter.com/CoCpromotion",
+      "name": "Conscience of Consciousness",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/26b5bf51d71ea07aa862188a85e01c88fead37cc165c8d54a932875cac09c08a.jpg",
+      "type": "card"
+    },
+    "published": null,
+    "like-of": "https://roytang.net/2020/01/atomic-habits/",
+    "wm-received": "2020-02-08T08:24:25Z",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1222342903030337536/1194590239244853254",
+    "url": "https://twitter.com/roytang/status/1222342903030337536#favorited-by-1194590239244853254",
+    "wm-target": "https://roytang.net/2020/01/atomic-habits/",
+    "type": "entry",
+    "wm-id": 753566
+  },
+  "name": "Conscience of Consciousness",
+  "source": "webmention",
+  "text": "[Conscience of Consciousness](https://twitter.com/CoCpromotion) liked this [on twitter](https://twitter.com/roytang/status/1222342903030337536#favorited-by-1194590239244853254)",
+  "source_url": "https://brid-gy.appspot.com/like/twitter/roytang/1222342903030337536/1194590239244853254",
+  "url": "https://twitter.com/CoCpromotion",
+  "mention_url": "https://twitter.com/roytang/status/1222342903030337536#favorited-by-1194590239244853254",
+  "id": "webmention-753566",
+  "date": "2020-02-08 08:24:25",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/26b5bf51d71ea07aa862188a85e01c88fead37cc165c8d54a932875cac09c08a.jpg",
+  "type": "like"
+}
