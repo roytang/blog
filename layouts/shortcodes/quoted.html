@@ -1,0 +1,6 @@
+<cite class="u-quotation-of h-cite">
+    Quoted <a  href='{{ .Get "url" }}'>{{ .Get "label" }}</a>:
+</cite>
+<blockquote>
+    {{ .Inner | markdownify }}
+</blockquote>
