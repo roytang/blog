@@ -26,7 +26,7 @@ The exchange went a tiny bit viral on social media, with friends telling me abou
 
 I believe the CS account eventually deleted the offending tweets, I can only see my own tweets on the matter:
 
-{{< replies "2014/02/431649435047583745/" >}}
+{{< note "2014/02/431649435047583745/" >}}
 
 Today, Globe Telecom no longer offers any plans with "unlimited data", as far as I know. I feel like I can claim some nontrivial responsibility in that decision, but it doesn't seem like something to be proud of.
 
