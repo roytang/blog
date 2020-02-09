@@ -1,5 +1,5 @@
 ---
-date: 2020-02-04 09:59:42
+date: 2020-02-04 09:59:42+00:00
 source: twitter
 syndicated:
 - type: twitter

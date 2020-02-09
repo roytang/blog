@@ -1,5 +1,5 @@
 ---
-date: 2020-02-08 14:02:03
+date: 2020-02-08 14:02:03+00:00
 reply_to:
   label: JamieTanna's tweet
   name: JamieTanna

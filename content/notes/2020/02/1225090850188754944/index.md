@@ -1,5 +1,5 @@
 ---
-date: 2020-02-05 16:16:34
+date: 2020-02-05 16:16:34+00:00
 reply_to:
   label: MorkenTheMonk's tweet
   name: MorkenTheMonk
