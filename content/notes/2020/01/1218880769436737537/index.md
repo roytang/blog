@@ -1,5 +1,5 @@
 ---
-date: 2020-01-19 12:59:55
+date: 2020-01-19 12:59:55+00:00
 repost_source:
   name: JimMFelton
   type: twitter
@@ -12,8 +12,4 @@ syndicated:
 
 Would watch a heist movie where it’s just three hours of planning followed by this 
 
-
-<video width="320" height="581" controls>
-                    <source src="https://video.twimg.com/ext_tw_video/1218592667329794049/pu/vid/352x640/FOLXnJq9rfTYFahB.mp4?tag=10.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                    </video>
+{{< video width="320" height="581" src="https://video.twimg.com/ext_tw_video/1218592667329794049/pu/vid/352x640/FOLXnJq9rfTYFahB.mp4?tag=10.mp4" >}}
