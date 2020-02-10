@@ -25,3 +25,4 @@ List of new (to me) movies watched in 2020. Ongoing!
 | 16 | Kiki's Delivery Service | 1989 | Feb 04 | Very light-hearted and idyllic. At first it felt a bit boring, but it had me smiling by the end. | 5 |
 | 17 | Uncut Gems | 2019 | Feb 07 | Sandler gave a good performance, but I struggled to get through the early parts of the movies because his character and situation are so unrelatable to me personally. | 4 |
 | 18 | Knives Out | 2019 | Feb 09 | A fantastic murder mystery, maybe the best I've ever seen, great performances all around. | 5 |
+| 19 | Master and Commander: The Far Side of the World | 2003 | Feb 10 | Watched this because a redditor said ROTK robbed it of best picture in 2003. This is a great war movie, but he was wrong. | 5 |
