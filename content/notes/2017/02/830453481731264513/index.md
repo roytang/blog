@@ -10,4 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/830453481731264513/
 ---
 
-RT [@_Nick_theFox](https://twitter.com/_Nick_theFox/): You've been visited by incredibly rare Happy Keanu. Retweet him to spread blessings for all in your timeline. https://t.c…
+You've been visited by incredibly rare Happy Keanu. Retweet him to spread blessings for all in your timeline. 
+
+{{< video width="320" height="145" src="https://video.twimg.com/tweet_video/C4PY6__WYAMxNLf.mp4" >}}

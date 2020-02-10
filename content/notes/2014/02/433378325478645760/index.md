@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@EkaJade](https://twitter.com/EkaJade/) yes, and? :p
-[@EkaJade](https://twitter.com/EkaJade/) ah, that wasn't my picture
+
+[@EkaJade](https://twitter.com/EkaJade/) ah, that wasn't my picture

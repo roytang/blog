@@ -12,4 +12,4 @@ syndicated:
 
 Would watch a heist movie where it’s just three hours of planning followed by this 
 
-{{< video width="320" height="581" src="https://video.twimg.com/ext_tw_video/1218592667329794049/pu/vid/352x640/FOLXnJq9rfTYFahB.mp4?tag=10.mp4" >}}
+{{< video width="320" height="581" src="https://video.twimg.com/ext_tw_video/1218592667329794049/pu/vid/352x640/FOLXnJq9rfTYFahB.mp4?tag=10" >}}
