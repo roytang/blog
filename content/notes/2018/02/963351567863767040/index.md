@@ -10,4 +10,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/963351567863767040/
 ---
 
-RT [@JuliusGoat](https://twitter.com/JuliusGoat/): If we valued human life and dignity more than we valued profit and wealth, then the robots would be exciting new developmen…
+If we valued human life and dignity more than we valued profit and wealth, then the robots would be exciting new developments.
+
+
+
+Instead we see them as our new tyrants.
+
+
+
+Not because we know robots. Because we know who will train them.

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/566175668778459136/
 ---
 
-RT [@tomzalt](https://twitter.com/tomzalt/): The book Javascript Ninja has a Samurai on the cover. That happens because JS is not strongly typed.
+The book Javascript Ninja has a Samurai on the cover. That happens because JS is not strongly typed.

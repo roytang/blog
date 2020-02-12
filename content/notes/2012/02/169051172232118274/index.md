@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/169051172232118274/
 ---
 
-RT [@lukeemi4](https://twitter.com/lukeemi4/): BREAKING NEWS https://t.co/miwLWrtx
+BREAKING NEWS

@@ -10,10 +10,28 @@ syndicated:
   url: https://twitter.com/roytang/statuses/963544721627869184/
 ---
 
-RT [@tinaboads](https://twitter.com/tinaboads/): *sa jeep*
+*sa jeep*
+
 Me: kuya magkano hanggang St. Peter?
+
 Driver: san po?
+
 M: yung memorial chapel
+
 D: san po?
+
 M: yung pinaglalamayan
-D:…
+
+D: san po?
+
+M: yung lagpas ng Balara
+
+D: san po?
+
+M: kuya di ba may parang mall—
+
+D: SAMPU!!! TEN!! SAMPU!!
+
+
+
+SAMPU PALA SINASABI NIYA US2 Q NA LAMUNIN NG LUPA
