@@ -1,5 +1,5 @@
 ---
-date: 2020-02-12 11:29:55-06:00
+date: 2020-02-12 17:29:55
 link:
   source: pocket
   source_url: https://getpocket.com
@@ -9,4 +9,6 @@ source: pocket
 syndicated:
 - type: pocket
   url: https://www.wired.co.uk/article/airbnb-scam-london
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1227658725714014213/
 ---
