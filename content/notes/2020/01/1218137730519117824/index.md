@@ -9,6 +9,7 @@ syndicated:
 tags:
 - twitch
 - gaming
+- mtg
 ---
 
 Gonna stream some Theros Sealed, come watch me be terrible, if you like https://www.twitch.tv/twitchyroy

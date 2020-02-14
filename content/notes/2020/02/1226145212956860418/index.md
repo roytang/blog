@@ -6,6 +6,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1226145212956860418/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1226168911550242816/
+tags:
+- twitch
+- gaming
+- mtg
 ---
 
 Streaming even more Theros Ranked Draft https://www.twitch.tv/twitchyroy

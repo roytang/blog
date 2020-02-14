@@ -8,7 +8,8 @@ syndicated:
   url: https://www.youtube.com/watch?v=4eKEjvQpnqQ
 tags:
 - twitch
-- gaming  
+- gaming
+- mtg
 ---
 
 Casually streaming Magic Arena with Standard Bogles https://www.twitch.tv/twitchyroy

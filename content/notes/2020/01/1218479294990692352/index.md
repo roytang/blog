@@ -8,7 +8,8 @@ syndicated:
   url: https://www.youtube.com/watch?v=x-nWk7LlZJo
 tags:
 - twitch
-- gaming  
+- gaming
+- mtg
 ---
 
 Streaming Theros Sealed on MTG Arena again: https://www.twitch.tv/twitchyroy

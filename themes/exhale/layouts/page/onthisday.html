@@ -12,10 +12,12 @@
         {{ $slice = $slice | append . }}
     {{ end }}
 {{ end }}
-{{ range $slice.GroupByDate "2006" }}
-    <h3>{{ .Key }}</h3>
-    {{ range .Pages }}
-        {{ .Render "list_item" }}
+{{ with $slice }}
+    {{ range .GroupByDate "2006" }}
+        <h3>{{ .Key }}</h3>
+        {{ range .Pages }}
+            {{ .Render "list_item" }}
+        {{ end }}
     {{ end }}
 {{ end }}
 </section>

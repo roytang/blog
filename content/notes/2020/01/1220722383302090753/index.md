@@ -9,6 +9,7 @@ syndicated:
 tags:
 - twitch
 - gaming
+- starcraft2
 ---
 
 Trying out some SC2 Coop Brutation https://www.twitch.tv/twitchyroy
