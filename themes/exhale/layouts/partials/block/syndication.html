@@ -1,9 +1,4 @@
-{{ with .Params.source }}
-/ Imported from <a href="/source/{{ . }}" title="View all entries from {{ . }}">{{ . }}</a>
-{{ end }}
 {{ with .Params.syndicated }}
-/ 
-Syndicated: 
 {{ range . }}
     <a rel="syndication" title="View on {{ .type }}" class='u-syndication' href="{{ .url }}" title="View on {{ .type }}">{{ .type }}</a>
 {{ end }}

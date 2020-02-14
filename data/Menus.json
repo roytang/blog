@@ -1,0 +1,84 @@
+{
+    "main": [
+
+    ],
+    "topics": [
+        {
+            "Name": "Software Development",
+            "URL": "/tags/software-development/"
+        },
+        {
+            "Name": "Magic the Gathering",
+            "URL": "/tags/magic-the-gathering/"
+        },
+        {
+            "Name": "Gaming",
+            "URL": "/tags/gaming/"
+        },
+        {
+            "Name": "Movies",
+            "URL": "/tags/movies/"
+        },
+        {
+            "Name": "TV",
+            "URL": "/tags/tv/"
+        },
+        {
+            "Name": "Tech Life",
+            "URL": "/tags/tech-life/"
+        },
+        {
+            "Name": "View All",
+            "URL": "/tags/"
+        }
+    ],
+    "elsewhere": [
+        {
+            "Name": "Philippines",
+            "URL": "/tags/philippines/"
+        },
+        {
+            "Name": "Twitter",
+            "URL": "https://twitter.com/roytang",
+            "rel": "me"
+        },
+        {
+            "Name": "Mastodon",
+            "URL": "https://mastodon.technology/@roytang",
+            "rel": "me"
+        },
+        {
+            "Name": "Twitch",
+            "URL": "https://twitch.tv/twitchyroy",
+            "rel": "me"
+        },
+        {
+            "Name": "LinkedIn",
+            "URL": "https://www.linkedin.com/in/roytang",
+            "rel": "me"
+        },
+        {
+            "Name": "Instagram",
+            "URL": "https://instagram.com/roytang0400",
+            "rel": "me"
+        },
+        {
+            "Name": "Github",
+            "URL": "https://github.com/roytang",
+            "rel": "me"
+        },
+        {
+            "Name": "Reddit",
+            "URL": "https://reddit.com/u/hungryroy",
+            "rel": "me"
+        },
+        {
+            "Name": "Contact",
+            "URL": "/about/contact"
+        },
+        {
+            "Name": "Subscribe",
+            "URL": "/2020/02/feeds/"
+        }
+    ]
+}

@@ -1,33 +1,49 @@
 {{ define "main" }}
 
-<article style="width: 60%">
-    <a class="u-url" href="/"></a>
-    <h1 class="p-name">Recent Posts</h1>
-    {{ $pages := first 5 (where site.RegularPages "Type" "post") }}    
-    {{ range $pages }}
-        {{ .Render "home_item" }}
-    {{ end }}
-</article>
-
-<article style="width: 60%">
-    <a class="u-url" href="/"></a>
-    <h1 class="p-name">Recent Links</h1>
-    {{ $pages := first 5 (where site.RegularPages "Type" "links") }}    
-    {{ range $pages }}
-        {{ .Render "home_item" }}
-    {{ end }}
-</article>
-
-<article style="width: 60%">
-    <a class="u-url" href="/"></a>
-    <h1 class="p-name">Recent Notes</h1>
-    {{ $pages := first 5 (where site.RegularPages "Type" "notes") }}    
-    {{ range $pages }}
-        {{ .Render "list_item" }}
-    {{ end }}
-</article>
-
-{{ partialCached "block/hero" . }}
+<div class="home_content">
+    <div class="col1">
+        <div class="hero-content">
+            {{ with .Site.Params.hero_text }}
+            {{ . | markdownify }}
+            {{end}}
+        </div>
+        
+        <h1 class="p-name">Recent Posts</h1>
+        <article>
+            <a class="u-url" href="/"></a>
+            {{ $pages := first 5 (where site.RegularPages "Type" "post") }}    
+            {{ range $pages }}
+                {{ .Render "home_item" }}
+            {{ end }}
+        </article>
+        
+        <h1 class="p-name">Recent Links</h1>
+        <article>
+            <a class="u-url" href="/"></a>
+            {{ $pages := first 5 (where site.RegularPages "Type" "links") }}    
+            {{ range $pages }}
+                {{ .Render "home_item" }}
+            {{ end }}
+        </article>
+        
+        <h1 class="p-name">Recent Notes</h1>
+        <article>
+            <a class="u-url" href="/"></a>
+            {{ $pages := first 10 (where site.RegularPages "Type" "notes") }}    
+            {{ range $pages }}
+                {{ .Render "home_item" }}
+            {{ end }}
+        </article>
+    </div>
+    <div class="col2">
+        <p class="menu-label">Topics
+        {{ partial "block/menu" "topics" }}
+        </p>
+        <p class="menu-label">Elsewhere
+        {{ partial "block/menu" "elsewhere" }}
+        </p>
+    </div>
+</div>
 
 <p>Want to read more? You can browse different types of content below:</p>
 {{ partial "block/section-list" . }}
