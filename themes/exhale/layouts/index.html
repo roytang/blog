@@ -9,6 +9,23 @@
     {{ end }}
 </article>
 
+<article style="width: 60%">
+    <a class="u-url" href="/"></a>
+    <h1 class="p-name">Recent Links</h1>
+    {{ $pages := first 5 (where site.RegularPages "Type" "links") }}    
+    {{ range $pages }}
+        {{ .Render "home_item" }}
+    {{ end }}
+</article>
+
+<article style="width: 60%">
+    <a class="u-url" href="/"></a>
+    <h1 class="p-name">Recent Notes</h1>
+    {{ $pages := first 5 (where site.RegularPages "Type" "notes") }}    
+    {{ range $pages }}
+        {{ .Render "list_item" }}
+    {{ end }}
+</article>
 
 {{ partialCached "block/hero" . }}
 
