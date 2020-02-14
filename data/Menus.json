@@ -4,6 +4,10 @@
     ],
     "topics": [
         {
+            "Name": "Weeknotes",
+            "URL": "/tags/weeknotes/"
+        },
+        {
             "Name": "Software Development",
             "URL": "/tags/software-development/"
         },
@@ -28,15 +32,15 @@
             "URL": "/tags/tech-life/"
         },
         {
+            "Name": "Philippines",
+            "URL": "/tags/philippines/"
+        },
+        {
             "Name": "View All",
             "URL": "/tags/"
         }
     ],
     "elsewhere": [
-        {
-            "Name": "Philippines",
-            "URL": "/tags/philippines/"
-        },
         {
             "Name": "Twitter",
             "URL": "https://twitter.com/roytang",
@@ -75,10 +79,28 @@
         {
             "Name": "Contact",
             "URL": "/about/contact"
+        }
+    ],
+    "subscribe": [
+        {
+            "Name": "Everything (RSS)",
+            "URL": "/index.xml"
         },
         {
-            "Name": "Subscribe",
-            "URL": "/2020/02/feeds/"
+            "Name": "Blog (RSS)",
+            "URL": "/blog/index.xml"
+        },
+        {
+            "Name": "Notes (RSS)",
+            "URL": "/notes/index.xml"
+        },
+        {
+            "Name": "Photos (RSS)",
+            "URL": "/photos/index.xml"
+        },
+        {
+            "Name": "Links (RSS)",
+            "URL": "/links/index.xml"
         }
     ]
 }

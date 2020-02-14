@@ -1,0 +1,11 @@
+<div class="home_item photos">
+{{ $mainPermalink := .RelPermalink }}
+{{ $caption := .Title | default .Summary }}
+{{ $count := .Resources.ByType "image" | len }}
+{{ with .Resources.ByType "image" }}
+{{ range (first 1 .) }}
+{{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Name }}
+{{ end }}
+<a href="{{ $mainPermalink }}"><span class="photo_label">{{ $caption | truncate 50 }} {{ if gt $count 1 }}({{ $count }} images){{ end }}</span></a>
+{{ end }}
+</div>

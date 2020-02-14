@@ -48,7 +48,6 @@ a:hover {
   max-width: 960px;
   margin: 0 auto;
   display: grid;
-  grid-row-gap: 10px;
   grid-template-columns: 100%;
   grid-template-rows: [row-header-start] auto
                       [row-panel-start] auto
@@ -111,7 +110,6 @@ a:hover {
 
   .wrapper {
     grid-column-gap: 2em;
-    grid-row-gap: 20px;
     grid-template-columns: [col-left-start] 4fr [col-main-start] minmax(200px, 1fr) [col-main-end];
     grid-template-rows: [row-header-start] auto [row-panel-start] auto [row-content-start] auto [row-footer-start] auto [row-footer-end];
   }
@@ -304,7 +302,6 @@ article {
 
 
 article .e-content, article .comments {
-    padding: 1rem;
 }
 
 .list_item .meta, .home_item .meta {
@@ -683,7 +680,7 @@ a.tag {
     border-bottom: 0;
 }
 
-.notes {
+.notes, .photos {
     font-size: 0.9em;
     border: 0;
 }
@@ -699,3 +696,4 @@ header h1, header p {
     padding: 0;
     margin: 0;
 }
+

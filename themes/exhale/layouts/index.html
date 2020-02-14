@@ -26,21 +26,35 @@
             {{ end }}
         </article>
         
+        <h1 class="p-name">Recent Photos</h1>
+        <article>
+            <a class="u-url" href="/"></a>
+            {{ $pages := first 9 (where site.RegularPages "Type" "photos") }}    
+            <div class="image-list">
+            {{ range $pages }}
+                {{ .Render "home_item" }}
+            {{ end }}
+            </div>
+        </article>
+
         <h1 class="p-name">Recent Notes</h1>
         <article>
             <a class="u-url" href="/"></a>
-            {{ $pages := first 10 (where site.RegularPages "Type" "notes") }}    
+            {{ $pages := first 5 (where site.RegularPages "Type" "notes") }}    
             {{ range $pages }}
                 {{ .Render "home_item" }}
             {{ end }}
         </article>
     </div>
     <div class="col2">
-        <p class="menu-label">Topics
+        <p class="menu-label">Things I Write About
         {{ partial "block/menu" "topics" }}
         </p>
         <p class="menu-label">Elsewhere
         {{ partial "block/menu" "elsewhere" }}
+        </p>
+        <p class="menu-label">Subscribe
+        {{ partial "block/menu" "subscribe" }}
         </p>
     </div>
 </div>
