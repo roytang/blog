@@ -307,7 +307,7 @@ article .e-content, article .comments {
     padding: 1rem;
 }
 
-.list_item .meta {
+.list_item .meta, .home_item .meta {
     font-size: 0.7rem;
     color: var(--third-color);
     background-color: var(--second-container-color);
@@ -349,7 +349,8 @@ code {
 
 .title time {
     color: var(--third-color);
-    font-size: 0.6em;
+    font-size: 0.8em;
+    display: inline;
 }
 
 .post-title {
@@ -665,4 +666,19 @@ td {
 .image-list figure {
     max-height: 16em;
     overflow: hidden;
+}
+
+a.tag {
+    border: 1px var(--main-color) solid;
+    border-radius: 4px;
+    padding: 1px;
+}
+
+.home_item {
+    padding: 1em;
+    border-bottom: 1px var(--second-color) solid;
+}
+
+.home_item:last-child {
+    border-bottom: 0;
 }

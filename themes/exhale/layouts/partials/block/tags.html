@@ -1,5 +1,4 @@
 {{ with .Params.tags }}
-/ Tags: 
 {{ range . }}
 <a class="tag p-category" href="{{ "/tags/" | absURL }}{{ . | urlize }}">#{{ . }}</a>
 {{ end }}

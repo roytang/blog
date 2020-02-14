@@ -1,0 +1,7 @@
+<div class="home_item post">
+    {{ .Render "summary.hat" }}
+    <div class="meta">
+        {{ partial "block/tags" . }}
+        {{ .WordCount }} words
+    </div>    
+</div>
