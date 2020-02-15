@@ -8,4 +8,7 @@ link:
 slug: probably-overthinking-it-learning-to-program-is-getting-harder
 source: pocket
 title: 'Probably Overthinking It: Learning to program is getting harder'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/964639671891480579/
 ---

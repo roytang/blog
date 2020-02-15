@@ -8,4 +8,7 @@ link:
 slug: 2018-developer-skills-report-by-hackerrank
 source: pocket
 title: 2018 Developer Skills Report by HackerRank
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/964343115179012097/
 ---
