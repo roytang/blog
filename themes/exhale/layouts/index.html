@@ -46,17 +46,7 @@
             {{ end }}
         </article>
     </div>
-    <div class="col2">
-        <p class="menu-label">Things I Write About
-        {{ partial "block/menu" "topics" }}
-        </p>
-        <p class="menu-label">Elsewhere
-        {{ partial "block/menu" "elsewhere" }}
-        </p>
-        <p class="menu-label">Subscribe
-        {{ partial "block/menu" "subscribe" }}
-        </p>
-    </div>
+    {{ partial "sidebar" . }}
 </div>
 
 <p>Want to read more? You can browse different types of content below:</p>

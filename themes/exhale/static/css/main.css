@@ -689,6 +689,7 @@ a.tag {
     .home_content {
         display: grid;
         grid-template-columns: 3fr 1fr;
+        column-gap: 1em;
     }
 }
 
@@ -697,3 +698,5 @@ header h1, header p {
     margin: 0;
 }
 
+.sidebar {
+}
