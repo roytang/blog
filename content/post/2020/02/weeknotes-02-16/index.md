@@ -1,6 +1,9 @@
 ---
 date: 2020-02-16
 slug: weeknotes-2020-02-16
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1228873963683635201/
 tags:
 - weeknotes
 title: Weeknotes 2020-02-16
