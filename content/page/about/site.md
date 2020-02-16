@@ -5,7 +5,7 @@ type: page
 
 ---
 
-**roytang.net**
+**About roytang.net**
 
 - [roytang.net](https://roytang.net) is a personal site, an [E/N site](http://sawv.org/en.html), and kind of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)
 - I post about a random assortment of topics that interest me including [software development](/tags/software-development/), [Magic the Gathering](/tags/magic-the-gathering/), [pop culture](/tags/pop-culture), [gaming](/tags/gaming), and [tech life](tags). This site is [perpetually under renovation](/2019/08/perpetually-under-renovation/).

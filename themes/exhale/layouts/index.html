@@ -2,13 +2,7 @@
 
 <div class="home_content">
     <div class="col1">
-        <div class="hero-content">
-            {{ with .Site.Params.hero_text }}
-            {{ . | markdownify }}
-            {{end}}
-        </div>
-        
-        <h1 class="p-name">Recent Posts</h1>
+        <h2 class="p-name">Recent Posts</h2>
         <article>
             <a class="u-url" href="/"></a>
             {{ $pages := first 5 (where site.RegularPages "Type" "post") }}    
@@ -17,7 +11,7 @@
             {{ end }}
         </article>
         
-        <h1 class="p-name">Recent Links</h1>
+        <h2 class="p-name">Recent Links</h2>
         <article>
             <a class="u-url" href="/"></a>
             {{ $pages := first 5 (where site.RegularPages "Type" "links") }}    
@@ -26,7 +20,7 @@
             {{ end }}
         </article>
         
-        <h1 class="p-name">Recent Photos</h1>
+        <h2 class="p-name">Recent Photos</h2>
         <article>
             <a class="u-url" href="/"></a>
             {{ $pages := first 9 (where site.RegularPages "Type" "photos") }}    
@@ -37,7 +31,7 @@
             </div>
         </article>
 
-        <h1 class="p-name">Recent Notes</h1>
+        <h2 class="p-name">Recent Notes</h2>
         <article>
             <a class="u-url" href="/"></a>
             {{ $pages := first 5 (where site.RegularPages "Type" "notes") }}    

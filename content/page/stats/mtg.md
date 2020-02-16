@@ -3,9 +3,11 @@ title: "Stats :: MTG"
 author: roy
 type: page
 date: 2019-12-27
+aliases:
+- /about/stats/mtg
 ---
 
-Stats :: [Website](/about/stats) :: [Social Media](/about/stats/socmed) :: [MTG](/about/stats/mtg) :: [Listening](/about/stats/listening)
+Stats :: [Website](/page/stats/site) :: [Social Media](/page/stats/socmed) :: [MTG](/page/stats/mtg) :: [Listening](/page/stats/listening)
 
 ---
 

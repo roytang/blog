@@ -4,6 +4,8 @@ author: roy
 comments_enabled: false
 ---
 
+This is a [uses page](https://uses.tech/).
+
 |  | What | Since |
 |---|---|---|
 | Desktop::Case | Silverstone Precision 10SST-PS10B | 2015 |
@@ -21,6 +23,7 @@ comments_enabled: false
 | Desktop::Keyboard | Razer Blackwidow Ultimate 2016 | 2017 |
 | Desktop::Mouse | TTX PC Laser Gaming Mouse | 2019 |
 | Laptop | Macbook Air 2017, 256gb SSD | 2018 |
+| Mobile Phone | Samsung A50 | Aug 2019 |
 | Printer | HP Deskjet 3635 | 2013 (?) |
 | Console | Playstation 4 | 2017 |
 | Console | Playstation 3 | 2013 |

@@ -1,8 +1,61 @@
 {
     "main": [
-
+        {
+            "Name": "Search",
+            "URL": ""
+        },
+        {
+            "Name": "Random",
+            "URL": ""
+        },
+        {
+            "Name": "On This Day",
+            "URL": "/onthisday/"
+        },
+        {
+            "Name": "Sketchbook",
+            "URL": "/album/sketchbook/"
+        },
+        {
+            "Name": "Reading List",
+            "URL": "/page/lists/reading/"
+        },
+        {
+            "Name": "2020 Movies List",
+            "URL": "/page/lists/2020/movies/"
+        },
+        {
+            "Name": "Blogroll",
+            "URL": ""
+        }
     ],
+    "about": [
+        {
+            "Name": "About",
+            "URL": ""
+        },
+        {
+            "Name": "Contact Information",
+            "URL": ""
+        },
+        {
+            "Name": "What Am I Doing Now?",
+            "URL": ""
+        },
+        {
+            "Name": "Uses",
+            "URL": ""
+        },
+        {
+            "Name": "Stats",
+            "URL": ""
+        }
+    ],    
     "topics": [
+        {
+            "Name": "Featured Posts",
+            "URL": "/tags/favorites/"
+        },
         {
             "Name": "Weeknotes",
             "URL": "/tags/weeknotes/"
