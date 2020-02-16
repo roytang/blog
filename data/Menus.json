@@ -26,29 +26,15 @@
         },
         {
             "Name": "Blogroll",
-            "URL": ""
-        }
-    ],
-    "about": [
-        {
-            "Name": "About",
-            "URL": ""
-        },
-        {
-            "Name": "Contact Information",
-            "URL": ""
-        },
-        {
-            "Name": "What Am I Doing Now?",
-            "URL": ""
-        },
-        {
-            "Name": "Uses",
-            "URL": ""
+            "URL": "/page/blogroll"
         },
         {
             "Name": "Stats",
-            "URL": ""
+            "URL": "/page/stats/site/"
+        },
+        {
+            "Name": "Contact",
+            "URL": "/about/contact"
         }
     ],    
     "topics": [
@@ -128,10 +114,6 @@
             "Name": "Reddit",
             "URL": "https://reddit.com/u/hungryroy",
             "rel": "me"
-        },
-        {
-            "Name": "Contact",
-            "URL": "/about/contact"
         }
     ],
     "subscribe": [

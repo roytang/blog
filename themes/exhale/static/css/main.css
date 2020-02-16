@@ -690,11 +690,23 @@ a.tag {
     grid-template-columns: 1fr;
 }
 
+.sidebar {
+    font-size: 0.9em;
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+    grid-template-columns: 1fr 1fr;
+}
+
 @media (min-width: 550px) {
     .home .main_content, .section .main_content {
         display: grid;
         grid-template-columns: 3fr 1fr;
         column-gap: 1em;
+    }
+    .home .sidebar, .section .sidebar {
+        grid-template-columns: 1fr;
     }
     .home div.image-list {
         display: grid;
@@ -707,14 +719,10 @@ header h1, header p {
     margin: 0;
 }
 
-.sidebar {
-    font-size: 0.9em;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: flex-start;
+.sidebar .menu {
 }
 
-.sidebar .menu {
-    width: 16em;
+.menu ul, .menu li {
+    list-style: none;
+    padding-left: 0.5em;
 }
