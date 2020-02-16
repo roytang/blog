@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/435436410087034880/
 ---
 
-RT [@iamsuperbianca](https://twitter.com/iamsuperbianca/): From time to time I remind myself: the world is so much bigger than me and my problems, so I should get over it and mov…
+From time to time I remind myself: the world is so much bigger than me and my problems, so I should get over it and move forward.

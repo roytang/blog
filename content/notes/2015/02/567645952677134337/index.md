@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/567645952677134337/
 ---
 
-RT [@kylemeyer](https://twitter.com/kylemeyer/): Too funny. Silicon Valley Hierarchy of Needs. https://t.co/MsyuhKpJdq
+Too funny. Silicon Valley Hierarchy of Needs.

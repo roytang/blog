@@ -10,5 +10,5 @@ syndicated:
   url: https://twitter.com/roytang/statuses/567478961987256321/
 ---
 
-RT [@AcademicsSay](https://twitter.com/AcademicsSay/): The passive-aggressive voice.
-via [@Mededitor](https://twitter.com/Mededitor/) https://t.co/q6ik0BllII
+ The passive-aggressive voice.
+via [@Mededitor](https://twitter.com/Mededitor/) 
