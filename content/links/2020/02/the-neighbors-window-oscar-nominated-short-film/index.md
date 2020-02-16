@@ -10,8 +10,9 @@ syndicated:
 - type: pocket
   url: https://www.youtube.com/watch?v=k1vCrsZ80M4&feature=youtu.be
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/103659288069708294
+  url: https://mastodon.technology/users/roytang/statuses/103668921842356019
 - type: twitter
   url: https://twitter.com/roytang/statuses/1228428748644474880/
 ---
 
+=======
