@@ -1,5 +1,10 @@
 <div class="home_item post">
-    {{ .Render "summary.hat" }}
+    <div class="title">
+    {{ if .Title }}
+        <a class="u-url post-title" href="{{ .Permalink }}"><span class="p-name">{{ .Title }}</span></a>
+        {{ partial "block/timestamp" . }}
+    {{ end }}
+    </div>
     <div class="meta">
         {{ partial "block/tags" . }}
         {{ .WordCount }} words

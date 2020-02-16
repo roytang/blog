@@ -2,11 +2,11 @@
     "main": [
         {
             "Name": "Search",
-            "URL": ""
+            "URL": "https://apps.roytang.net/blog/search"
         },
         {
             "Name": "Random",
-            "URL": ""
+            "URL": "https://apps.roytang.net/blog/random"
         },
         {
             "Name": "On This Day",

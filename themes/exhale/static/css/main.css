@@ -685,11 +685,20 @@ a.tag {
     border: 0;
 }
 
+.home div.image-list {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
 @media (min-width: 550px) {
     .home .main_content, .section .main_content {
         display: grid;
         grid-template-columns: 3fr 1fr;
         column-gap: 1em;
+    }
+    .home div.image-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 33%);
     }
 }
 
