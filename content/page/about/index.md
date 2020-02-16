@@ -2,6 +2,8 @@
 title: "About"
 date: 2020-01-08T21:23:27+08:00
 type: page
+aliases:
+- /about/
 ---
 
 **About Roy Tang**

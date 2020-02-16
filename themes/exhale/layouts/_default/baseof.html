@@ -1,4 +1,6 @@
 {{ partial "head" . }}
+<div class="main">
 {{ block "main" . }}{{ end }}
-{{ partialCached "block/hero" . }}
+</div>
+{{ partial "sidebar" . }}
 {{ partial "foot" . }}

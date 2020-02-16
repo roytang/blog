@@ -17,8 +17,8 @@
   {{ partial "metas" . }}
   <link rel="stylesheet" href="/css/main.css" />
 </head>
-<body>
+<body class="{{ .Kind }}">
     <div class="wrapper">
         {{ partialCached "header" . }}
         {{ partial "footer" . }}
-        <div class="content{{ with.Params.contentClass }} {{ . }}{{ end }}">
+        <div class="main_content{{ with.Params.contentClass }} {{ . }}{{ end }}">
