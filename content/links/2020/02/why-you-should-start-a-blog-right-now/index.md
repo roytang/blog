@@ -15,4 +15,3 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1228007004787970048/
 ---
 
-Why You Should Start a Blog Right Now https://guzey.com/personal/why-have-a-blog/
