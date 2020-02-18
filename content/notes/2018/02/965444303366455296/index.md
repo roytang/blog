@@ -10,4 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/965444303366455296/
 ---
 
-RT [@jbenton](https://twitter.com/jbenton/): It’s a well-known phenomenon that researchers spend more time studying Twitter and less time studying Facebook than would seem…
+It’s a well-known phenomenon that researchers spend more time studying Twitter and less time studying Facebook than would seem to be reasonable. 
+
+
+
+The reason: Twitter’s more-open API is a lot easier to work with than FB is. (1/x)

@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155380223078912
 ---
 
-TIL Delicious is still around, but they're incompetent now https://t.co/gN2oORALFd
+TIL Delicious is still around, but they're incompetent now 
