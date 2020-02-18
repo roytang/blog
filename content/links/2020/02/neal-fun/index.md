@@ -10,9 +10,7 @@ syndicated:
 - type: pocket
   url: https://neal.fun/printing-money
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/103679538555378083
-- type: twitter
-  url: https://twitter.com/roytang/statuses/1229724780984586240/
+  url: https://mastodon.technology/users/roytang/statuses/103679561859813974
 - type: twitter
   url: https://twitter.com/roytang/statuses/1229726271849975808/
 ---
