@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/833728182339526656/
 ---
 
-RT [@nikko_ver](https://twitter.com/nikko_ver/): Good advice from Osamu Tezuka not just for manga but for all artforms https://t.co/naUsX8jeDZ
+Good advice from Osamu Tezuka not just for manga but for all artforms

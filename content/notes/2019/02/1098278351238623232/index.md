@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1098278351238623232/
 ---
 
-RT [@nathanwpyle](https://twitter.com/nathanwpyle/): if you’re just joining, this is part of a ✨new series ✨ https://t.co/59O96nFAUX
+if you’re just joining, this is part of a ✨new series ✨

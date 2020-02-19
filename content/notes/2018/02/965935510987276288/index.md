@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/965935510987276288/
 ---
 
-RT [@kierongillen](https://twitter.com/kierongillen/): If my career crashes, I plan to write an adventure for the Discworld RPG where the Luggage goes evil. This is my Worst Ca…
+If my career crashes, I plan to write an adventure for the Discworld RPG where the Luggage goes evil. This is my Worst Case Scenario.

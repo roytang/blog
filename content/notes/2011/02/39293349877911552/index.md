@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/39293349877911552/
 ---
 
-RT [@xshay](https://twitter.com/xshay/): Excellent article from the author of "you can't manage what you can't measure" about why he was wrong: http://bit.ly/k32gm vi ...
+Excellent article from the author of "you can't manage what you can't measure" about why he was wrong: http://bit.ly/k32gm via @kentbeck

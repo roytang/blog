@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/965819797551247360/
 ---
 
-RT [@GrumpySkeletor](https://twitter.com/GrumpySkeletor/): I was just sat here wondering why no-one gets killed on Eternia with a gun. Then I realised it's mainly down to there b…
+I was just sat here wondering why no-one gets killed on Eternia with a gun. Then I realised it's mainly down to there being no guns on the planet. Almost like there's a DIRECT FUCKING CORRELATION BETWEEN THE TWO.
