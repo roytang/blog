@@ -10,4 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/966353931906400256/
 ---
 
-RT [@magicroundabout](https://twitter.com/magicroundabout/): Here's a thread designed to help non-web people understand how something that seems trivial on a website can lead to s…
+Here's a thread designed to help non-web people understand how something that seems trivial on a website can lead to so many micro-decisions needing to be made.
+
+
+
+I need to add social sharing buttons to a website... 1/

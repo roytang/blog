@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/39679952873996289/
 ---
 
-RT [@shanselman](https://twitter.com/shanselman/): "What I lack in talent I make up for with intensity." - Jack Black
+"What I lack in talent I make up for with intensity." - Jack Black
