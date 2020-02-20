@@ -1,21 +1,227 @@
 {
     "opml": {
+        "head": {
+            "title": ""
+        },
         "body": {
             "outline": [
                 {
                     "outline": [
                         {
-                            "_text": "",
-                            "_title": "",
+                            "_text": "Laura Kalbag",
+                            "_title": "Laura Kalbag",
                             "_type": "rss",
-                            "_xmlUrl": "",
-                            "_htmlUrl": ""
+                            "_xmlUrl": "https://laurakalbag.com/index.xml",
+                            "_htmlUrl": "https://laurakalbag.com/"
+                        },
+                        {
+                            "_text": "Anna Goss",
+                            "_title": "Anna Goss",
+                            "_type": "rss",
+                            "_xmlUrl": "https://notes.annagoss.co/rss",
+                            "_htmlUrl": "https://notes.annagoss.co/"
+                        },
+                        {
+                            "_text": "Austin Kleon",
+                            "_title": "Austin Kleon",
+                            "_type": "rss",
+                            "_xmlUrl": "http://feeds2.feedburner.com/AustinKleon",
+                            "_htmlUrl": "http://austinkleon.com/"
+                        },
+                        {
+                            "_text": "Dan Luu",
+                            "_title": "Dan Luu",
+                            "_type": "rss",
+                            "_xmlUrl": "https://danluu.com/atom.xml",
+                            "_htmlUrl": "http://danluu.com/"
+                        },
+                        {
+                            "_text": "doubleloop",
+                            "_title": "doubleloop",
+                            "_type": "rss",
+                            "_xmlUrl": "https://doubleloop.net/feed/",
+                            "_htmlUrl": "https://doubleloop.net/"
+                        },
+                        {
+                            "_text": "Drew DeVault's Blog",
+                            "_title": "Drew DeVault's Blog",
+                            "_type": "rss",
+                            "_xmlUrl": "https://drewdevault.com/feed.xml",
+                            "_htmlUrl": "https://drewdevault.com/"
+                        },
+                        {
+                            "_text": "Flashing Palely in the Margins",
+                            "_title": "Flashing Palely in the Margins",
+                            "_type": "rss",
+                            "_xmlUrl": "http://www.inthemargins.ca/feed.rss",
+                            "_htmlUrl": "http://www.inthemargins.ca/"
+                        },
+                        {
+                            "_text": "Fogknife",
+                            "_title": "Fogknife",
+                            "_type": "rss",
+                            "_xmlUrl": "https://fogknife.com/atom.xml",
+                            "_htmlUrl": "https://fogknife.com/"
+                        },
+                        {
+                            "_text": "Idle Words",
+                            "_title": "Idle Words",
+                            "_type": "rss",
+                            "_xmlUrl": "https://idlewords.com/index.xml",
+                            "_htmlUrl": "http://idlewords.com/"
+                        },
+                        {
+                            "_text": "jlelse's Blog",
+                            "_title": "jlelse's Blog",
+                            "_type": "rss",
+                            "_xmlUrl": "https://jlelse.blog/index.xml",
+                            "_htmlUrl": "https://jlelse.blog/"
+                        },
+                        {
+                            "_text": "Julia Evans",
+                            "_title": "Julia Evans",
+                            "_type": "rss",
+                            "_xmlUrl": "http://jvns.ca/atom.xml",
+                            "_htmlUrl": "http://jvns.ca/"
+                        },
+                        {
+                            "_text": "K-Squared Ramblings",
+                            "_title": "K-Squared Ramblings",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.hyperborea.org/journal/feed/",
+                            "_htmlUrl": "https://www.hyperborea.org/journal"
+                        },
+                        {
+                            "_text": "karigee.com",
+                            "_title": "karigee.com",
+                            "_type": "rss",
+                            "_xmlUrl": "https://karigee.com/blog?format=RSS",
+                            "_htmlUrl": "https://karigee.com/"
+                        },
+                        {
+                            "_text": "Kev Quirk",
+                            "_title": "Kev Quirk",
+                            "_type": "rss",
+                            "_xmlUrl": "https://kevq.uk/feed",
+                            "_htmlUrl": "https://kevq.uk/home.rss"
+                        },
+                        {
+                            "_text": "Kicks Condor",
+                            "_title": "Kicks Condor",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.kickscondor.com/rss.xml",
+                            "_htmlUrl": "https://www.kickscondor.com/"
+                        },
+                        {
+                            "_text": "kottke.org",
+                            "_title": "kottke.org",
+                            "_type": "rss",
+                            "_xmlUrl": "http://feeds.kottke.org/main",
+                            "_htmlUrl": "http://kottke.org/"
+                        },
+                        {
+                            "_text": "MetaGrrrl",
+                            "_title": "MetaGrrrl",
+                            "_type": "rss",
+                            "_xmlUrl": "https://metagrrrl.com/feed/",
+                            "_htmlUrl": "https://metagrrrl.com/"
+                        },
+                        {
+                            "_text": "Naming Is Hard",
+                            "_title": "Naming Is Hard",
+                            "_type": "rss",
+                            "_xmlUrl": "https://blog.jensenching.com/rss/",
+                            "_htmlUrl": "https://blog.jensenching.com/"
+                        },
+                        {
+                            "_text": "Ned Batchelder's blog",
+                            "_title": "Ned Batchelder's blog",
+                            "_type": "rss",
+                            "_xmlUrl": "https://nedbatchelder.com/blog/rss.xml",
+                            "_htmlUrl": "https://nedbatchelder.com/blog"
+                        },
+                        {
+                            "_text": "Phil Gyford’s website: Everything",
+                            "_title": "Phil Gyford’s website: Everything",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.gyford.com/phil/feeds/everything/rss/",
+                            "_htmlUrl": "http://www.gyford.com/"
+                        },
+                        {
+                            "_text": "Rachel by the Bay - Writing",
+                            "_title": "Rachel by the Bay - Writing",
+                            "_type": "rss",
+                            "_xmlUrl": "http://rachelbythebay.com/w/atom.xml",
+                            "_htmlUrl": "http://rachelbythebay.com/w/"
+                        },
+                        {
+                            "_text": "Rands In Repose",
+                            "_title": "Rands In Repose",
+                            "_type": "rss",
+                            "_xmlUrl": "http://www.randsinrepose.com/index.xml",
+                            "_htmlUrl": "http://randsinrepose.com/"
+                        },
+                        {
+                            "_text": "Scripting News",
+                            "_title": "Scripting News",
+                            "_type": "rss",
+                            "_xmlUrl": "http://www.scripting.com/rss.xml",
+                            "_htmlUrl": "http://scripting.com/"
+                        },
+                        {
+                            "_text": "Seth's Blog",
+                            "_title": "Seth's Blog",
+                            "_type": "rss",
+                            "_xmlUrl": "http://sethgodin.typepad.com/seths_blog/atom.xml",
+                            "_htmlUrl": "http://sethgodin.typepad.com/seths_blog/"
+                        },
+                        {
+                            "_text": "Shane Breslin",
+                            "_title": "Shane Breslin",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.shanebreslin.com/feed/",
+                            "_htmlUrl": "https://www.shanebreslin.com/"
+                        },
+                        {
+                            "_text": "testkeis",
+                            "_title": "testkeis",
+                            "_type": "rss",
+                            "_xmlUrl": "http://testkeis.wordpress.com/feed/",
+                            "_htmlUrl": "https://testkeis.wordpress.com"
+                        },
+                        {
+                            "_text": "Uses This",
+                            "_title": "Uses This",
+                            "_type": "rss",
+                            "_xmlUrl": "http://usesthis.com/feed/",
+                            "_htmlUrl": "http://usesthis.com/"
+                        },
+                        {
+                            "_text": "Vegard Skjefstad",
+                            "_title": "Vegard Skjefstad",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.vegard.net/feed/",
+                            "_htmlUrl": "https://www.vegard.net/"
+                        },
+                        {
+                            "_text": "WARREN ELLIS LTD",
+                            "_title": "WARREN ELLIS LTD",
+                            "_type": "rss",
+                            "_xmlUrl": "http://warrenellis.ltd/feed/",
+                            "_htmlUrl": "http://warrenellis.ltd/"
+                        },
+                        {
+                            "_text": "waxy",
+                            "_title": "waxy",
+                            "_type": "rss",
+                            "_xmlUrl": "https://waxy.org/feed/",
+                            "_htmlUrl": "https://waxy.org"
                         }
                     ],
-                    "_text": "Blogroll",
+                    "_text": "blogroll",
                     "_title": "blogroll"
                 }
-           ]
+            ]
         },
         "_version": "1.0"
     }

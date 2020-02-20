@@ -1,3 +1,4 @@
+{{/* https://jlelse.blog/dev/auto-blogroll-hugo/ */}}
 <ul>
     {{ $opmlJson := index .Site.Data.opml "opml" "body" "outline" }}
     {{ range sort $opmlJson "_title" "asc" }}
