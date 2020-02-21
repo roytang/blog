@@ -1,10 +1,13 @@
 ---
-title: "Thoughts on Blogging, 2020 Edition"
 date: 2020-02-21
-tags: 
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1230701765785346052/
+tags:
 - blogging
 - writing
 - tech life
+title: Thoughts on Blogging, 2020 Edition
 ---
 
 I found this great article the other week about [Why You Should Start A Blog Right Now](https://guzey.com/personal/why-have-a-blog/). 
@@ -48,5 +51,3 @@ I used to maintain an older blogroll back in the day, but it seems that has alre
 Me: I'm having trouble writing long-form posts recently.
 
 Also me: Hey, I wrote a thousand words on blogging without thinking about it!
-
-
