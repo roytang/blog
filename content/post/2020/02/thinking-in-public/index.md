@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on Blogging, 2020 Edition"
-date: 2020-02-22
+date: 2020-02-21
 tags: 
 - blogging
 - writing

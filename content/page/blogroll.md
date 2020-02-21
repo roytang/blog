@@ -1,6 +1,6 @@
 ---
 title: "Blogroll"
-date: 2020-02-22
+date: 2020-02-21
 ---
 
 This is an incomplete list of blogs I follow, that I feel are worth sharing. 
