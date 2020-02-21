@@ -1,7 +1,6 @@
 ---
 title: "Criminal Minds"
 date: 2020-02-22
-draft: true
 tags:
 - tv
 - pop culture
