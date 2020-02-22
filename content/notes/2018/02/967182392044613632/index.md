@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/967182392044613632/
 ---
 
-RT [@zck](https://twitter.com/zck/): In honor of Dropbox filing to go public today, wanted to share a Hacker News comment from its 2007 launch. Probably my favorite Ha…
+In honor of Dropbox filing to go public today, wanted to share a Hacker News comment from its 2007 launch. Probably my favorite Hacker News comment of all time
