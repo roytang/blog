@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/835191771793522688/
 ---
 
-RT [@alexisthenedd](https://twitter.com/alexisthenedd/): keanu reeves reacting to rumors of his immortality is a case study in "how to poorly feign surprise when someone calls o…
+keanu reeves reacting to rumors of his immortality is a case study in "how to poorly feign surprise when someone calls out your life truth"

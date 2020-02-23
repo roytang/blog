@@ -10,7 +10,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/834973174454341632/
 ---
 
-RT [@SammyAlbon](https://twitter.com/SammyAlbon/): *trump becomes president*
+*trump becomes president*
+
 NASA: Shit
+
 *a few weeks later*
-NASA: we've found 7 planets, 3 we can live on and there's enough r…
+
+NASA: we've found 7 planets, 3 we can live on and there's enough room for everyone 
+
+{{< video width="320" height="180" src="https://video.twimg.com/tweet_video/C5VfQq3XUAASZfv.mp4" >}}

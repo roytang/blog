@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/967420884544774145/
 ---
 
-RT [@MalwareJake](https://twitter.com/MalwareJake/): For people telling me that blockchain makes everything better, you're wrong. Well, actually you're just confused. You were…
+For people telling me that blockchain makes everything better, you're wrong. Well, actually you're just confused. You were thinking about bacon. Given that they both begin with the letter "b" this is an understandable mistake.

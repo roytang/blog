@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/835177345984028672/
 ---
 
-RT [@comicsalliance](https://twitter.com/comicsalliance/): This Magazine Kills Fascists: Raging Against The Machine In James Roberts' 'Transformers' https://comicsalliance.com/james-roberts-transformers-fascism-politics/ https…
+This Magazine Kills Fascists: Raging Against The Machine In James Roberts' 'Transformers' http://trib.al/jcOkFVm
