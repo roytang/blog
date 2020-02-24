@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/835281547150274560/
 ---
 
-RT [@bransonreese](https://twitter.com/bransonreese/): I checked with Shigeru Miyamoto and this is canon. https://t.co/B4nimYjAf8
+I checked with Shigeru Miyamoto and this is canon.

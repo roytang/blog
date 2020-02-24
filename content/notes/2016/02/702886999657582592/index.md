@@ -8,4 +8,4 @@ tags:
 - til
 ---
 
-The twitter app has a feature that lets ne search for gifs #til https://t.co/GD2t3vze8G
+The twitter app has a feature that lets ne search for gifs #til

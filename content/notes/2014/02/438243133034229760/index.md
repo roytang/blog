@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/438243133034229760/
 ---
 
-RT [@hoverbird](https://twitter.com/hoverbird/): Everybody thinks "The Social Network" is the best movie about forming a new startup, but they are wrong. The best movie is "…
+Everybody thinks "The Social Network" is the best movie about forming a new startup, but they are wrong. The best movie is "Ghostbusters".
