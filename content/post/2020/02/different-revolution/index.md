@@ -1,9 +1,12 @@
 ---
-title: "A Different Kind of Revolution"
 date: 2020-02-25
 slug: different-revolution
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1232103048614498304/
 tags:
 - philippines
+title: A Different Kind of Revolution
 ---
 
 I watched a little bit of the Senate hearing yesterday on the ABS-CBN franchise renewal issues. One of the senators, a known lackey of the president claimed that while the president was not vindictive, "kung masama ka sa kanya, masama din sya sa yo" (I'm not sure the senator understood what vindictive means). One of the ABS head honchos later made a statement that they were "sorry if they had offended the president" even though they were just following all the relevant laws, or something to that effect. I cringed. Why do they need to apologize to an onion-skinned politician if they did nothing wrong? The whole thing had the air of "you have displeased your betters, repent and you may be forgiven." 
