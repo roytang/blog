@@ -29,8 +29,8 @@ canonifyURLs = true
 [outputs]
   page = ["HTML"]
   home = ["HTML", "RSS", "jsonfeed"]
-  section = ["HTML", "RSS", "jsonfeed"]
-  taxonomy = ["HTML", "RSS", "jsonfeed"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
 
 [taxonomies]
     tag = "tags"
