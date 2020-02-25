@@ -21,3 +21,5 @@ I tried to figure out a solution with the Tumblr and Cloudflare DNS settings for
 (Someday when I migrate off shared hosting/apache, I will have to live with rewriting all of these .htaccess workarounds to work with Nginx or such.)
 
 So now all the old links just automagically redirect to the appropriate post as expected. 
+
+(Just for fun, I also changed the tumblr's theme, since I was already logged in to the dashboard anyway.)
