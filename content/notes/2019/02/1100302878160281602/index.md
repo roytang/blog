@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1100302878160281602/
 ---
 
-RT [@NatalieAronson](https://twitter.com/NatalieAronson/): Loved today's discovery from [@tferriss](https://twitter.com/tferriss/) 5-Bullet Friday. https://t.co/FQXsKLPo3j
+Loved today's discovery from [@tferriss](https://twitter.com/tferriss/) 5-Bullet Friday.

@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/568243516658171905/
 ---
 
-RT [@ItsDumbTweets](https://twitter.com/ItsDumbTweets/): Happy new year 😂 https://t.co/65wa04roq3
+RT [@ItsDumbTweets](https://twitter.com/ItsDumbTweets/): Happy new year 😂 

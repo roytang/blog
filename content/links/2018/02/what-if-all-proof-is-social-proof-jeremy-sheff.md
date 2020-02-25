@@ -8,4 +8,8 @@ link:
 slug: what-if-all-proof-is-social-proof-jeremy-sheff
 source: pocket
 title: "What If All Proof is Social Proof? \u2013 Jeremy Sheff"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/968157789632778242/
+
 ---

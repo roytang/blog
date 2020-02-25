@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/834262413679616000/
 ---
 
-RT [@anjpessumal](https://twitter.com/anjpessumal/): Wait lang. Matagal ang processing ng brain ko https://t.co/w32owr0m9o
+Wait lang. Matagal ang processing ng brain ko

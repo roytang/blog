@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/835096078433185793/
 ---
 
-RT [@hotmanila](https://twitter.com/hotmanila/): Marcos style "democracy" as drawn by famed US cartoonist Herblock https://t.co/IaOnmqGCOU
+Marcos style "democracy" as drawn by famed US cartoonist Herblock

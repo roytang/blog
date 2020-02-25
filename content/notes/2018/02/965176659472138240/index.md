@@ -12,4 +12,4 @@ tags:
 - BlackPanther
 ---
 
-RT [@yellowmello](https://twitter.com/yellowmello/): This might be the best #BlackPanther photo ever https://t.co/dEsKYy6ppu
+This might be the best #BlackPanther photo ever https://t.co/dEsKYy6ppu

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/438682263681642497/
 ---
 
-RT [@Lozolpls](https://twitter.com/Lozolpls/): rt if u cryed (creditz to teh ownur) https://t.co/gGb3mv5vTd
+rt if u cryed (creditz to teh ownur)

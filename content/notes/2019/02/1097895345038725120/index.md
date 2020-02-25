@@ -7,4 +7,4 @@ syndicated:
 tags: null
 ---
 
-When you post something on the internet but don't include a lol, haha, emoji or gif https://t.co/m51G1AuMJn
+When you post something on the internet but don't include a lol, haha, emoji or gif
