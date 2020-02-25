@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/183064324195/cocainesocialist-marx-was-adamant-the-problem
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1100285934988414976/  
 ---
 
 <p><a href="http://cocainesocialist.tumblr.com/post/182993764270/marx-was-adamant-the-problem-with-capitalism-is" class="tumblr_blog">cocainesocialist</a>:</p>

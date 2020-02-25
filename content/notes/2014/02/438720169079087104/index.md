@@ -10,5 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/438720169079087104/
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “If you think that peace and happiness are somewhere else and you run after them, you will never arrive.”
+“If you think that peace and happiness are somewhere else and you run after them, you will never arrive.”
+
 —Thich Nhat Hanh

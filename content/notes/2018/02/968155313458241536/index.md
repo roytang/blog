@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/968155313458241536/
 ---
 
-RT [@scalzi](https://twitter.com/scalzi/): Thread. https://twitter.com/Harkaway/status/968045009768468480
+Thread. https://twitter.com/Harkaway/status/968045009768468480
