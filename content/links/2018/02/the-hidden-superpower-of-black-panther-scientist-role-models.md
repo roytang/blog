@@ -8,4 +8,7 @@ link:
 slug: the-hidden-superpower-of-black-panther-scientist-role-models
 source: pocket
 title: 'The hidden superpower of ''Black Panther'': Scientist role models'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/968503761655222278/
 ---

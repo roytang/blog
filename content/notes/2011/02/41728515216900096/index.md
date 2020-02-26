@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/41728515216900096/
 ---
 
-RT [@courage_wolf](https://twitter.com/courage_wolf/): WHEN LIFE ASKS FOR YOUR ALL, GIVE IT EVEN MORE.
+WHEN LIFE ASKS FOR YOUR ALL, GIVE IT EVEN MORE.

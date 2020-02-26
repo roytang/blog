@@ -10,4 +10,7 @@ slug: gamasutra-designing-side-quests-study-these-7-games-and-some-chris-avellon
 source: pocket
 title: Gamasutra - Designing side quests? Study these 7 games (and some Chris Avellone
   pointers)
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/968503763798495232/  
 ---

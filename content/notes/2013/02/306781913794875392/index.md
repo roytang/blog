@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/306781913794875392/
 ---
 
-RT [@martinfowler](https://twitter.com/martinfowler/): posted: My thoughts on the argument about whether estimates are good or evil - depends on their purpose http://t.co/WQ ...
+posted: My thoughts on the argument about whether estimates are good or evil - depends on their purpose http://martinfowler.com/bliki/PurposeOfEstimation.html

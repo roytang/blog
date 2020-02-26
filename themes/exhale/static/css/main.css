@@ -654,6 +654,8 @@ td {
     margin: 0;
     margin-right: 0.5em;
     width: 16em;
+    max-height: 16em;
+    overflow: hidden;
 }
 
 @media (max-width: 480px) {

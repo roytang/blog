@@ -10,5 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/968498910036615168/
 ---
 
-RT [@MicroSFF](https://twitter.com/MicroSFF/): "The experiment worked! After the release of Black Panther, black cats are adopted from shelters."
-"Start production of our r…
+"The experiment worked! After the release of Black Panther, black cats are adopted from shelters."
+
+"Start production of our refugee child superhero film!"
