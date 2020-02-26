@@ -1,4 +1,5 @@
 {{ with .Params.syndicated }}
+Also on: 
 {{ range . }}
     <a rel="syndication" title="View on {{ .type }}" class='u-syndication' href="{{ .url }}" title="View on {{ .type }}">{{ .type }}</a>
 {{ end }}

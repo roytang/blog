@@ -1,43 +1,21 @@
 {{ define "main" }}
 
-<h2 class="p-name">Recent Posts</h2>
-<article>
-    <a class="u-url" href="/"></a>
-    {{ $pages := first 5 (where site.RegularPages "Type" "post") }}    
-    {{ range $pages }}
-        {{ .Render "home_item" }}
-    {{ end }}
-</article>
+{{ $sections := .Site.Data.Home }}
+{{ $sitePages := .Site.RegularPages }}
+{{ range $sections }}
+  <h2 class="p-name">{{ .label }}</h2>
+  <p class="sub">{{ .descrip }}</p>
+  <article>
+      {{ $pages := first .count (where site.RegularPages "Type" .section) }}    
+      <div class="{{ .list_class }}">
+      {{ range $pages }}
+          {{ .Render "home_item" }}
+      {{ end }}
+      </div>
+  </article>  
+  <p class="home_article_footer"><a href="/{{ .section }}">View all</a> ({{ len (where $sitePages "Section" "==" .section ) }} items)</p>
+{{ end }}
 
-<h2 class="p-name">Recent Links</h2>
-<article>
-    <a class="u-url" href="/"></a>
-    {{ $pages := first 5 (where site.RegularPages "Type" "links") }}    
-    {{ range $pages }}
-        {{ .Render "home_item" }}
-    {{ end }}
-</article>
+<p></p>
 
-<h2 class="p-name">Recent Photos</h2>
-<article>
-    <a class="u-url" href="/"></a>
-    {{ $pages := first 9 (where site.RegularPages "Type" "photos") }}    
-    <div class="image-list">
-    {{ range $pages }}
-        {{ .Render "home_item" }}
-    {{ end }}
-    </div>
-</article>
-
-<h2 class="p-name">Recent Notes</h2>
-<article>
-    <a class="u-url" href="/"></a>
-    {{ $pages := first 5 (where site.RegularPages "Type" "notes") }}    
-    {{ range $pages }}
-        {{ .Render "home_item" }}
-    {{ end }}
-</article>
-
-<p>Want to read more? You can browse different types of content below:</p>
-{{ partial "block/section-list" . }}
 {{ end }}
