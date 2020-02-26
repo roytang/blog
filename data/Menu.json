@@ -22,9 +22,5 @@
     { 
         "Name": "About",
         "URL": "/about/"
-    },
-    { 
-        "Name": "Now",
-        "URL": "/now/"
     }
 ]

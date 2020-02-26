@@ -1,0 +1,27 @@
+[
+    {
+        "section": "post",
+        "label": "Recent Blog Posts",
+        "descrip": "Traditional blog posts, usually longer than other types, with a title.",
+        "count": 5
+    },
+    {
+        "section": "links",
+        "label": "Recent Links",
+        "descrip": "Shared links.",
+        "count": 5
+    },
+    {
+        "section": "photos",
+        "label": "Recent Photos",
+        "descrip": "Photos, sketches, screenshots, and definitely memes.",
+        "count": 9,
+        "list_class": "image-list"
+    },
+    {
+        "section": "notes",
+        "label": "Recent Notes",
+        "descrip": "Microblog-like status updates.",
+        "count": 10
+    }
+]

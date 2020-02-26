@@ -4,10 +4,11 @@ author: roy
 type: page
 aliases:
 - /about/stats
+- /about/stats/site
 date: 2018-02-11T17:15:26+00:00
 ---
 
-Stats :: [Website](/about/stats) :: [Social Media](/about/stats/socmed) :: [MTG](/about/stats/mtg) :: [Listening](/about/stats/listening)
+Stats :: [Website](/page/stats/site) :: [Social Media](/page/stats/socmed) :: [MTG](/page/stats/mtg) :: [Listening](/page/stats/listening)
 
 ---
 

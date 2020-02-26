@@ -1,0 +1,141 @@
+{
+    "main": [
+        {
+            "Name": "Search",
+            "URL": "https://apps.roytang.net/blog/search"
+        },
+        {
+            "Name": "Random",
+            "URL": "https://apps.roytang.net/blog/random"
+        },
+        {
+            "Name": "On This Day",
+            "URL": "/onthisday/"
+        },
+        {
+            "Name": "Sketchbook",
+            "URL": "/album/sketchbook/"
+        },
+        {
+            "Name": "Reading List",
+            "URL": "/page/lists/reading/"
+        },
+        {
+            "Name": "2020 Movies List",
+            "URL": "/page/lists/2020/movies/"
+        },
+        {
+            "Name": "Blogroll",
+            "URL": "/page/blogroll"
+        },
+        {
+            "Name": "Stats",
+            "URL": "/page/stats/site/"
+        },
+        {
+            "Name": "Contact",
+            "URL": "/about/contact"
+        }
+    ],    
+    "topics": [
+        {
+            "Name": "Featured Posts",
+            "URL": "/tags/favorites/"
+        },
+        {
+            "Name": "Weeknotes",
+            "URL": "/tags/weeknotes/"
+        },
+        {
+            "Name": "Software Development",
+            "URL": "/tags/software-development/"
+        },
+        {
+            "Name": "Magic the Gathering",
+            "URL": "/tags/magic-the-gathering/"
+        },
+        {
+            "Name": "Gaming",
+            "URL": "/tags/gaming/"
+        },
+        {
+            "Name": "Movies",
+            "URL": "/tags/movies/"
+        },
+        {
+            "Name": "TV",
+            "URL": "/tags/tv/"
+        },
+        {
+            "Name": "Tech Life",
+            "URL": "/tags/tech-life/"
+        },
+        {
+            "Name": "Philippines",
+            "URL": "/tags/philippines/"
+        },
+        {
+            "Name": "View All",
+            "URL": "/tags/"
+        }
+    ],
+    "elsewhere": [
+        {
+            "Name": "Twitter",
+            "URL": "https://twitter.com/roytang",
+            "rel": "me"
+        },
+        {
+            "Name": "Mastodon",
+            "URL": "https://mastodon.technology/@roytang",
+            "rel": "me"
+        },
+        {
+            "Name": "Twitch",
+            "URL": "https://twitch.tv/twitchyroy",
+            "rel": "me"
+        },
+        {
+            "Name": "LinkedIn",
+            "URL": "https://www.linkedin.com/in/roytang",
+            "rel": "me"
+        },
+        {
+            "Name": "Instagram",
+            "URL": "https://instagram.com/roytang0400",
+            "rel": "me"
+        },
+        {
+            "Name": "Github",
+            "URL": "https://github.com/roytang",
+            "rel": "me"
+        },
+        {
+            "Name": "Reddit",
+            "URL": "https://reddit.com/u/hungryroy",
+            "rel": "me"
+        }
+    ],
+    "subscribe": [
+        {
+            "Name": "Everything (RSS)",
+            "URL": "/index.xml"
+        },
+        {
+            "Name": "Blog (RSS)",
+            "URL": "/blog/index.xml"
+        },
+        {
+            "Name": "Notes (RSS)",
+            "URL": "/notes/index.xml"
+        },
+        {
+            "Name": "Photos (RSS)",
+            "URL": "/photos/index.xml"
+        },
+        {
+            "Name": "Links (RSS)",
+            "URL": "/links/index.xml"
+        }
+    ]
+}

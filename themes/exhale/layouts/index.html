@@ -1,17 +1,21 @@
 {{ define "main" }}
-{{ partialCached "block/hero" . }}
-<section class="h-feed">
-    <a class="u-url" href="/"></a>
-    <h1 class="p-name">Recent Activity</h1>
-    {{ $pages := first 50 (where site.RegularPages "Type" "in" site.Params.mainSections) }}    
-    {{ range $pages.GroupByDate .Site.Data.Formats.date }}
-        <h3>{{ .Key }}</h3>
-        {{ range .Pages }}
-            {{ .Render "list_item" }}
-        {{ end }}
-    {{ end }}
-</section>
 
-<p>Want to read more? You can browse different types of content below:</p>
-{{ partial "block/section-list" . }}
+{{ $sections := .Site.Data.Home }}
+{{ $sitePages := .Site.RegularPages }}
+{{ range $sections }}
+  <h2 class="p-name">{{ .label }}</h2>
+  <p class="sub">{{ .descrip }}</p>
+  <article>
+      {{ $pages := first .count (where site.RegularPages "Type" .section) }}    
+      <div class="{{ .list_class }}">
+      {{ range $pages }}
+          {{ .Render "home_item" }}
+      {{ end }}
+      </div>
+  </article>  
+  <p class="home_article_footer"><a href="/{{ .section }}">View all</a> ({{ len (where $sitePages "Section" "==" .section ) }} items)</p>
+{{ end }}
+
+<p></p>
+
 {{ end }}

@@ -1,0 +1,10 @@
+<div class="home_item notes">
+    {{ .Render "summary.hat" }}
+    {{ .Render "summary.content" }}
+    <div class="meta">
+        {{ partial "block/timestamp" . }}
+        {{ partial "block/tags" . }}
+        <br />
+        {{ partial "block/syndication" . }}
+    </div>    
+</div>

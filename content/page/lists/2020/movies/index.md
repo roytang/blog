@@ -6,6 +6,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1227139834818351105/
 title: 2020 Movies List
+aliases:
+- /lists/2020/movies
 ---
 
 List of new (to me) movies watched in 2020. Ongoing!

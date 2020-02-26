@@ -45,23 +45,22 @@ a:hover {
 
 .wrapper {
   width: 100%;
-  max-width: 960px;
   margin: 0 auto;
   display: grid;
-  grid-row-gap: 10px;
   grid-template-columns: 100%;
   grid-template-rows: [row-header-start] auto
                       [row-panel-start] auto
                       [row-secondheader-start] auto
                       [row-content-start] auto
                       [row-footer-start] auto [row-footer-end];
+  max-width: 1200px;
 }
 
 .mainheader {
   grid-row: row-header-start;
 }
 
-.content {
+.main_content {
   grid-row:  row-content-start;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -107,11 +106,10 @@ a:hover {
   vertical-align: top;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 900px) {
 
   .wrapper {
     grid-column-gap: 2em;
-    grid-row-gap: 20px;
     grid-template-columns: [col-left-start] 4fr [col-main-start] minmax(200px, 1fr) [col-main-end];
     grid-template-rows: [row-header-start] auto [row-panel-start] auto [row-content-start] auto [row-footer-start] auto [row-footer-end];
   }
@@ -130,7 +128,7 @@ a:hover {
     grid-row: row-panel-start;
   }
 
-  .content {
+  .main_content {
     grid-column: col-left-start / col-main-end;
     grid-row: row-content-start;
     
@@ -218,7 +216,7 @@ table.grid_archive a {
 }
 .grid-or-list .list_archive { display: none; }
 
-@media screen and (max-width: 640px) { 
+@media screen and (max-width: 860px) { 
     .grid-or-list .grid_archive { display: none; }
     .grid-or-list .list_archive { display: initial; }
 }
@@ -235,7 +233,7 @@ table.grid_archive a {
     padding: 0.3rem;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 900px) {
     .pagination {
         grid-template-columns: 1fr 1fr;
     }
@@ -289,6 +287,7 @@ article {
     margin-bottom: 1rem;
     padding: 0.3rem;
     padding-left: 0.8rem;
+    padding-right: 0.8rem;
     box-shadow: 4px 4px 0 0 var(--second-color);
 }
 
@@ -304,11 +303,10 @@ article {
 
 
 article .e-content, article .comments {
-    padding: 1rem;
 }
 
-.list_item .meta {
-    font-size: 0.7rem;
+.list_item .meta, .home_item .meta {
+    font-size: 0.8rem;
     color: var(--third-color);
     background-color: var(--second-container-color);
     padding-top: 0;
@@ -316,6 +314,12 @@ article .e-content, article .comments {
     padding-left: 0;
     padding-bottom: 0.5rem;
 }
+
+.sub {
+    font-size: 0.8rem;
+    color: var(--third-color);
+}
+
 
 .comments-title {
     font-size: 0.7rem;
@@ -349,7 +353,8 @@ code {
 
 .title time {
     color: var(--third-color);
-    font-size: 0.6em;
+    font-size: 0.8em;
+    display: inline;
 }
 
 .post-title {
@@ -412,7 +417,7 @@ code {
     padding-right: 0.2rem;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 900px) {
     .hero {
         grid-template-columns: 3fr 2fr;
     }
@@ -539,7 +544,7 @@ form button {
     padding: 0.5rem;     
 }
 
-@media (min-width: 550px) {
+@media (min-width: 900px) {
     .section-list {
         grid-template-columns: 1fr 1fr 1fr;
     }
@@ -585,7 +590,6 @@ SVG Icons - svgicons.sparkk.fr
 div.grid2 {
     display: grid;
     grid-template-columns: 2fr 2fr;
-    border: 1px var(--main-color) solid;
     padding-left: 1em;
     padding-right: 1em;
     margin-bottom: 1em;
@@ -665,4 +669,79 @@ td {
 .image-list figure {
     max-height: 16em;
     overflow: hidden;
+}
+
+a.tag {
+    border: 1px var(--main-color) solid;
+    border-radius: 4px;
+    padding: 1px;
+}
+
+.home_item {
+    padding: 1em;
+    border-bottom: 1px var(--second-color) solid;
+}
+
+.home_item:last-child {
+    border-bottom: 0;
+}
+
+.notes, .photos {
+    font-size: 0.9em;
+    border: 0;
+}
+
+.home div.image-list {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.main {
+    padding-bottom: 2em;
+}
+
+.sidebar {
+    font-size: 0.9em;
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+    grid-template-columns: 1fr 1fr;
+}
+
+@media (min-width: 900px) {
+    .main_content {
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        column-gap: 2em;
+    }
+    .sidebar {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (min-width: 450px) {
+    .home div.image-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 33%);
+    }
+}
+
+
+header h1, header p {
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar .menu {
+}
+
+.menu ul, .menu li {
+    list-style: none;
+    padding-left: 0.5em;
+}
+
+.home_article_footer {
+    width: 100%;
+    text-align: right;
 }
