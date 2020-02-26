@@ -1,0 +1,31 @@
+{
+  "url": "https://twitter.com/paulnotpaulie",
+  "id": "57718369-7be9-4033-948d-511167ce0651",
+  "source_obj": {
+    "url": "https://twitter.com/paulnotpaulie/status/1232675793223979008",
+    "content": {
+      "html": "Cheers! No obligation, obviously - bit would be very happy to be added. Just wanted to doff my cap to you as I've been enjoying your posts lately.\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+      "text": "Cheers! No obligation, obviously - bit would be very happy to be added. Just wanted to doff my cap to you as I've been enjoying your posts lately."
+    },
+    "wm-id": 761431,
+    "wm-received": "2020-02-26T15:47:09Z",
+    "author": {
+      "url": "https://twitter.com/paulnotpaulie",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9f9bdffb2e454573008384ab082348395a6bba81187574024f28bac38f4ec44f.jpg",
+      "name": "paul"
+    },
+    "published": "2020-02-26T14:36:25+00:00",
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "in-reply-to": "https://roytang.net/2020/02/thoughts-on-blogging-2020-edition/",
+    "wm-target": "https://roytang.net/2020/02/thoughts-on-blogging-2020-edition/",
+    "type": "entry",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1230701765785346052/1232675793223979008"
+  },
+  "name": "paul",
+  "date": "2020-02-26 15:47:09",
+  "text": "Cheers! No obligation, obviously - bit would be very happy to be added. Just wanted to doff my cap to you as I've been enjoying your posts lately.\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+  "photo": null,
+  "source_url": "https://twitter.com/paulnotpaulie/status/1232675793223979008"
+}

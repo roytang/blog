@@ -1,0 +1,31 @@
+{
+  "url": "https://twitter.com/paulnotpaulie",
+  "id": "63ee5246-2914-4046-a48b-4267c42b7f11",
+  "source_obj": {
+    "url": "https://twitter.com/paulnotpaulie/status/1232675074081202177",
+    "content": {
+      "html": "Hi Roy! This post (and a few more of yours) have been fuelling some of my own thoughts on blogging. Thanks!\n\n<a href=\"https://paulcapewell.com/2020/02/26/thoughts-on-blogging-and-blogrolls/\">paulcapewell.com/2020/02/26/tho\u2026</a>\n\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+      "text": "Hi Roy! This post (and a few more of yours) have been fuelling some of my own thoughts on blogging. Thanks!\n\npaulcapewell.com/2020/02/26/tho\u2026"
+    },
+    "wm-id": 761433,
+    "wm-received": "2020-02-26T15:48:21Z",
+    "author": {
+      "url": "https://twitter.com/paulnotpaulie",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9f9bdffb2e454573008384ab082348395a6bba81187574024f28bac38f4ec44f.jpg",
+      "name": "paul"
+    },
+    "published": "2020-02-26T14:33:34+00:00",
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "in-reply-to": "https://roytang.net/2020/02/thoughts-on-blogging-2020-edition/",
+    "wm-target": "https://roytang.net/2020/02/thoughts-on-blogging-2020-edition/",
+    "type": "entry",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1230701765785346052/1232675074081202177"
+  },
+  "name": "paul",
+  "date": "2020-02-26 15:48:21",
+  "text": "Hi Roy! This post (and a few more of yours) have been fuelling some of my own thoughts on blogging. Thanks!\n\n<a href=\"https://paulcapewell.com/2020/02/26/thoughts-on-blogging-and-blogrolls/\">paulcapewell.com/2020/02/26/tho\u2026</a>\n\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+  "photo": null,
+  "source_url": "https://twitter.com/paulnotpaulie/status/1232675074081202177"
+}

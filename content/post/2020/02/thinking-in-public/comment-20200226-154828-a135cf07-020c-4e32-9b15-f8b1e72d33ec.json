@@ -1,0 +1,31 @@
+{
+  "url": "https://twitter.com/roytang",
+  "id": "a135cf07-020c-4e32-9b15-f8b1e72d33ec",
+  "source_obj": {
+    "url": "https://twitter.com/roytang/status/1232675582619467776",
+    "content": {
+      "html": "thanks for the feedback! I'll probably be adding you to the blogroll in an update as well, soonish\n<a class=\"u-mention\" href=\"https://twitter.com/paulnotpaulie\"></a>",
+      "text": "thanks for the feedback! I'll probably be adding you to the blogroll in an update as well, soonish"
+    },
+    "wm-id": 761434,
+    "wm-received": "2020-02-26T15:48:28Z",
+    "author": {
+      "url": "https://twitter.com/roytang",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b044ae7e5cae596fb0c98679e35ecb6d10890f6786324a9f3740e7b729c7c267.jpg",
+      "name": "Roy Tang"
+    },
+    "published": "2020-02-26T14:35:35+00:00",
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "in-reply-to": "https://roytang.net/2020/02/thoughts-on-blogging-2020-edition/",
+    "wm-target": "https://roytang.net/2020/02/thoughts-on-blogging-2020-edition/",
+    "type": "entry",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1230701765785346052/1232675582619467776"
+  },
+  "name": "Roy Tang",
+  "date": "2020-02-26 15:48:28",
+  "text": "thanks for the feedback! I'll probably be adding you to the blogroll in an update as well, soonish\n<a class=\"u-mention\" href=\"https://twitter.com/paulnotpaulie\"></a>",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1232675582619467776"
+}
