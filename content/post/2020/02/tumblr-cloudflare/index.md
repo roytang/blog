@@ -1,9 +1,12 @@
 ---
-title: "Apparently Tumblr custom domains don't work well with Cloudflare"
 date: 2020-02-26
 slug: tumblr-cloudflare
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1232503072217276417/
 tags:
 - tech life
+title: Apparently Tumblr custom domains don't work well with Cloudflare
 ---
 
 I used to host my tumblr blog on a custom domain at [tumblr.roytang.net](https://tumblr.roytang.net). That was working fine for a while.
