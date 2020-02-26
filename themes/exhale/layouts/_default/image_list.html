@@ -2,7 +2,7 @@
 {{ $caption := .Title | default .Summary }}
 {{ with .Resources.ByType "image" }}
 {{ range . }}
-{{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Name }}
+{{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .RelPermalink }}
 {{ end }}
 {{ end }}
 {{ range .Resources.Match "*.mp4" }}

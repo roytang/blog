@@ -1,10 +1,12 @@
 <div class="home_item post">
     <div class="title">
     {{ if .Title }}
-        <a class="u-url post-title" href="{{ .Permalink }}"><span class="p-name">{{ .Title }}</span></a>
-        {{ partial "block/timestamp" . }}
+        <a class="u-url post-title" href="{{ .Permalink }}"><h3 class="p-name">{{ .Title }}</h3></a>
     {{ end }}
     </div>
+    <div class="meta">
+        {{ partial "block/timestamp" . }}
+    </div>    
     <div class="meta">
         {{ partial "block/tags" . }}
         {{ .WordCount }} words

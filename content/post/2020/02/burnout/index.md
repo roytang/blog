@@ -5,6 +5,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1225215346279436289/
 tags:
 - software development
+- favorites
 title: Burnout
 ---
 

@@ -9,6 +9,7 @@ syndicated:
   url: https://dev.to/roytang/tales-from-the-old-web-development-3jh 
 tags:
 - software development
+- favorites
 title: Tales from the Old Web (Development)
 ---
 
