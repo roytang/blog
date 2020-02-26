@@ -3,6 +3,9 @@ title: "About::Contact Information"
 date: 2020-01-11
 type: page
 toc: true
+aliases:
+- /contact/
+- /about/contact/
 ---
 
 ## Standing Invite

@@ -2,6 +2,9 @@
 title: Uses
 author: roy
 comments_enabled: false
+aliases:
+- uses
+- /about/uses
 ---
 
 This is a [uses page](https://uses.tech/).
