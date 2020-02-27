@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/571491643573997570/
 ---
 
-RT [@professorben](https://twitter.com/professorben/): Be yourself. Unless you suck. Then, become awesome instead.
+Be yourself. Unless you suck. Then, become awesome instead.

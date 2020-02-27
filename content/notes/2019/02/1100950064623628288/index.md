@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1100950064623628288/
 ---
 
-RT [@ayalamuseum](https://twitter.com/ayalamuseum/): friendly reminder to give yourself space to be terrible and fail at what you do. 
+friendly reminder to give yourself space to be terrible and fail at what you do. 
 
-because it's okay to suck at first; tha…
+
+
+because it's okay to suck at first; that's where hard work and practice comes in.

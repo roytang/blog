@@ -10,6 +10,10 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/IAmA/comments/80ow6w/im_bill_gates_cochair_of_the_bill_melinda_gates/duxodh3/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/968644273745752065/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156452440093912  
 tags:
 - IAmA
 ---

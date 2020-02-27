@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@jaymelynilao](https://twitter.com/jaymelynilao/) sino yan
-[[@jaymelynilao](https://twitter.com/jaymelynilao/)](https://twitter.com/jaymelynilao/) nakakainis itong si [[@jaymelynilao](https://twitter.com/jaymelynilao/)](https://twitter.com/jaymelynilao/) lol
+
+[@jaymelynilao](https://twitter.com/jaymelynilao/) nakakainis itong si [@jaymelynilao](https://twitter.com/jaymelynilao/) lol

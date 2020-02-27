@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/836603435059290112/
 ---
 
-RT [@RonJeffries](https://twitter.com/RonJeffries/): The truth: https://imgur.com/gallery/R3JIr
+The truth: http://imgur.com/gallery/R3JIr

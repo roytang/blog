@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/439387595416416256/
 ---
 
-RT [@JimBenton](https://twitter.com/JimBenton/): it's delicious https://t.co/d36LASxWBA
+it's delicious
