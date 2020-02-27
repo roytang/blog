@@ -35,3 +35,4 @@ List of new (to me) movies watched in 2020. Ongoing!
 | 19 | Master and Commander: The Far Side of the World | 2003 | Feb 10 | Watched this because a redditor said ROTK robbed it of best picture in 2003. This is a great 
 | 20 | Jojo Rabbit | 2019 | Feb 11 | Best movie about a Nazi ever. Most colorful depiction of Nazi Germany. Fantastic movie. | 5 |
 | 21 | Superman: Red Son | 2020 | Feb 27 | An acceptable adaptation of one of my favorite Superman stories. Minus points for not including the "House of L" epilogue. | 4 |
+| 22 | Coach Carter | 2005 | Feb 27 | I watched this because I saw it in a "top inspirational speeches" YT video. Pretty good sports movie. | 4 |
