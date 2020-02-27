@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1227139834818351105/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1233055496656977921/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1233062439228342275/
 title: 2020 Movies List
 ---
 
