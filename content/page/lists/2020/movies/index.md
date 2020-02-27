@@ -1,13 +1,15 @@
 ---
+aliases:
+- /lists/2020/movies
 date: 2020-01-01
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1226811024021409794/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1227139834818351105/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1233055496656977921/
 title: 2020 Movies List
-aliases:
-- /lists/2020/movies
 ---
 
 List of new (to me) movies watched in 2020. Ongoing!
