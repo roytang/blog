@@ -1,11 +1,14 @@
 ---
-title: "Redesign"
 date: 2020-02-27
+featuredResource:
+  filename: screenshot.png
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1232865463463489537/
 tags:
 - tech life
 - changelog
-featuredResource:
-  filename: screenshot.png
+title: Redesign
 ---
 
 During recent [weeknotes](/tags/weeknotes) I've mentioned that I've been working on a site redesign. The planned redesign had three objectives, more or less:
