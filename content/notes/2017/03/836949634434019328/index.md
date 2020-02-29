@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/836949634434019328/
 ---
 
-RT [@Recode](https://twitter.com/Recode/): Twitter will now let you mute specific words from your timeline — and mute ‘eggs’ without profile photos https://www.vox.com/2017/3/1/14776186/twitter-mute-timeline-eggs
+Twitter will now let you mute specific words from your timeline — and mute ‘eggs’ without profile photos http://www.recode.net/2017/3/1/14776186/twitter-mute-timeline-eggs

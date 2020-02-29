@@ -10,5 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/439753849323003904/
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “I think hell is something you carry around with you. Not somewhere you go.”
+“I think hell is something you carry around with you. Not somewhere you go.”
+
 —Neil Gaiman

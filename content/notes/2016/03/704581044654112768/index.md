@@ -10,5 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/704581044654112768/
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
+All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
+
 — Blaise Pascal

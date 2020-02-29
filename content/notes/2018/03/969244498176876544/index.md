@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/969244498176876544/
 ---
 
-RT [@scalzi](https://twitter.com/scalzi/): Thread. https://twitter.com/navahw/status/969239908954066944
+Thread. https://twitter.com/navahw/status/969239908954066944

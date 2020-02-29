@@ -4,7 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155406222923912
-tags: []
+- type: twitter
+  url: https://twitter.com/roytang/statuses/836948176712028160/  
+tags: 
+- philippines
 ---
 
 If you want to shut up the critics of the drug war, all you have to do is:

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/439750080635994113/
 ---
 
-RT [@keenfacts](https://twitter.com/keenfacts/): People with higher IQs tend to have a more difficult time falling asleep at night due to increased brain activity.
+People with higher IQs tend to have a more difficult time falling asleep at night due to increased brain activity.
