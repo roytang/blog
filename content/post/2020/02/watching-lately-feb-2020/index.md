@@ -1,12 +1,15 @@
 ---
 date: 2020-02-29
 slug: watching-lately
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1233595071972487175/
 tags:
 - Pop Culture
 - Movies
 - TV
 - watching lately
-title: 'Watching Lately, Feb 2020 - Not Much Apparently'
+title: Watching Lately, Feb 2020 - Not Much Apparently
 ---
 
 [2020 Movies](https://roytang.net/page/lists/2020/movies/) update: 7 movies watched in Feb. Probably the best movie I've seen this month was **Knives Out**. (**Jojo Rabbit** close second.) The goal of 200 movies for the year is getting farther!
