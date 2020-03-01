@@ -1,6 +1,9 @@
 ---
 date: 2020-03-01
 slug: weeknotes-2020-03-01
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1234118014355808257/
 tags:
 - weeknotes
 title: Weeknotes 2020-03-01
