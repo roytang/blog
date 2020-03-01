@@ -18,4 +18,4 @@ In any case, we have spent at least ten thousand pesos (roughly two hundred amer
 
 When I make a game, I will price it in this range.
 
- [1]: http://roytang.net/blog/2005/02/some-thoughts-on-piracy/
+ [1]: /2005/02/some-thoughts-on-piracy/

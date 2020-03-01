@@ -29,6 +29,6 @@ My favorite part of these two books (I'm not sure which book it was in anymore) 
 
 Hehe, that cracks me up, and I'm not sure why. I'd like to see that wall.
 
- [1]: http://roytang.net/blog/2005/02/books-abnkkbsknplako-by-bob-ong/
+ [1]: /2005/02/books-abnkkbsknplako-by-bob-ong/
  [2]: http://www.google.com/search?q=bobong+pinoy&sourceid=mozilla-search&start=0&start=0&ie=utf-8&oe=utf-8&client=firefox-a&rls=org.mozilla:en-US:official
  [3]: http://www.google.com/search?hl=en&lr=&c2coff=1&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&q=%22danger+wall+is+falling%22&btnG=Search

@@ -6,6 +6,8 @@
     --second-container-color: #353f43;
     --background-color: #242930;
     --text-color: white;
+    --main-font: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    --title-font: Verdana;
 }
 
 
@@ -25,7 +27,7 @@
 
 
 body {
-    font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    font-family: var(--main-font);
     font-size: 0.9em;
     background-color: var(--background-color);
     color: var(--text-color);
@@ -359,6 +361,15 @@ code {
 
 .post-title {
     color: var(--second-color);
+}
+
+.post-title h3, .post-title h2 {
+    font-family: var(--title-font);
+    text-transform: uppercase;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .post-title:hover {

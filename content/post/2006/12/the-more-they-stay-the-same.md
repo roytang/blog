@@ -13,4 +13,4 @@ Being without internet is like living under a rock apparently; you have no idea 
 
 Unlike the online world where things are ever-changing and skipping out for three weeks might mean missing the next big thing, life in the Philippines seems to continue to stay the same. It's still quite hot despite the Christmas season; the temperature difference was obvious as soon as the plane doors opened. Apparently our local politicians did something stupid and people got angry and wanted to go protest. These are of course the same politicians who do stupid things all the time, and also the same people who like to go to protests all the time.
 
- [1]: http://roytang.net/blog/2006/12/back-from-china/
+ [1]: /2006/12/back-from-china/

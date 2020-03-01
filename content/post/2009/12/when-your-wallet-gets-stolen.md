@@ -38,4 +38,4 @@ So, the total losses were around 2.9k, plus a few hours of hassle. It's not as b
 
 Hopefully the above story, information and tips help someone avoid any other such misfortune in the future.
 
- [1]: http://roytang.net/blog/2008/12/my-phone-was-stolen/
+ [1]: /2008/12/my-phone-was-stolen/

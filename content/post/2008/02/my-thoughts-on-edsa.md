@@ -49,4 +49,4 @@ Personally, I want our institutions to work. I want change to be effected withou
 
 We have a government for a reason. While citizens have their part to play, we shouldn't have to go out on the streets to have change. Doing so is an indication of failure not only on the part of the president, but on all our institutions -- the Senate and the courts included.
 
- [1]: http://roytang.net/blog/2008/02/im-lawful-good/
+ [1]: /2008/02/im-lawful-good/

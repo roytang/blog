@@ -15,4 +15,4 @@ Yeah I know, Hong Kong is technically a part of China, but my feet actually did 
 
 Unfortunately, I did not get to experience any kung-fu in the streets, although I did manage to get a picture with Jacky Chan.
 
- [1]: http://roytang.net/blog/2004/05/so-i-went-to-hk/
+ [1]: /2004/05/so-i-went-to-hk/

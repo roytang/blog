@@ -24,4 +24,4 @@ I've never seen Clint Eastwood this young before! But he reminds me of how I usu
 
 Good movie, though longish.
 
- [1]: http://roytang.net/blog/2005/09/books-dark-tower-v-wolves-of-the-calla/
+ [1]: /2005/09/books-dark-tower-v-wolves-of-the-calla/
