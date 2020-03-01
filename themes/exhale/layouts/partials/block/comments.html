@@ -29,7 +29,7 @@
 <div id="header-comments" class="comments-title"><h3>Comments</h3></div>
 {{ range sort . "Name" "asc" }}
 {{ $data := . | transform.Unmarshal }}
-<div class="comment">
+<div class="comment" id="comment-{{ $data.id }}">
     {{ with $data.photo }}
     <a href="{{ $data.url }}">
         <img class="commenter-photo" src="{{ . }}" alt="{{ $data.name }}" />
