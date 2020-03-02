@@ -38,4 +38,4 @@ I've been thinking about something like this recently with regards to my own wri
 
 Looping back to part the first: I guess patio11's more evergreen content belongs more in a "Garden"-like arrangement, rather than the "blogging form factor" he has been using for a while now. I like that he put together that "Greatest Hits" page. One thing I do when I find a new personal blog to follow is to browse around the last few posts to see what kind of content is generally there, but the most recent items aren't always representative of why you'd like to follow a blog. So a page like that "Greatest Hits" one serves as a nice feature to help new readers get a sense of what sort of things to expect, independently of the date "Stream". This was also the rationale as to why I added the ["Featured Posts"](/tags/favorites) link in the sidebar. during the [most recent redesign](/2020/02/redesign/). (Although I still have to review more of this blog's 18ish year history to add posts to that section!)
 
-**In conclusion:** put dates on your posts!
+**In conclusion:** put dates on your posts! But maybe also have an alternative way to browse them isn't date-sensitive.
