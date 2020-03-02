@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/308084402234195968/
 ---
 
-RT [@christophernull](https://twitter.com/christophernull/): Wanna feel old? Ralph Macchio is now the same age that Pat Morita was in the first ‘Karate Kid’ | http://t.co/sx1k9 ...
+Wanna feel old? Ralph Macchio is now the same age that Pat Morita was in the first ‘Karate Kid’ | http://ow.ly/iea8Z

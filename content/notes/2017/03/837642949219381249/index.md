@@ -12,4 +12,4 @@ tags:
 - NagaLeaks
 ---
 
-RT [@TeddyBotLocsin](https://twitter.com/TeddyBotLocsin/): I admire the mental acrobatics of those who believe #NagaLeaks Very skeptical of media(as they shld be)but will readily…
+I admire the mental acrobatics of those who believe #NagaLeaks Very skeptical of media(as they shld be)but will readily believe anon sources
