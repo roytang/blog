@@ -13,6 +13,9 @@ tags:
 - philippines
 title: This is Metro Manila
 type: post
+tags:
+- philippines
+- favorites
 ---
 
 *(Note: This post discusses the traffic situation in Metro Manila. I’ve had this post in the works for a while, and it kept getting longer and longer (possibly my longest post to date). I also had my friend [David](https://www.facebook.com/DavidRamirezSFFwriter/) review it first to make sure I wasn’t saying anything too ridiculous, and he and I discussed some of the things and some of his points made it into the final post.)*

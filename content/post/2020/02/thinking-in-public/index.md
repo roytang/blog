@@ -7,6 +7,7 @@ tags:
 - blogging
 - writing
 - tech life
+- favorites
 title: Thoughts on Blogging, 2020 Edition
 ---
 
