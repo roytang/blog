@@ -1,7 +1,10 @@
 ---
-title: "Date Your Work"
 date: 2020-03-02
 dontinlinephotos: true
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1234374721900367872/
+title: Date Your Work
 ---
 
 **Part the first:** I recently read/replied to a twitter thread by Patrick McKenzie:
