@@ -11,7 +11,7 @@ tags:
 
 Someone on [quora](https://quora.com) asked:
 
-> [<span class="ui_qtext_rendered_qtext">How can an individual become an excellent speaker?</span>](https://www.quora.com/How-do-I-become-an-excellent-orator-public-speaker-story-teller/answer/Roy-Tang)
+> [How can an individual become an excellent speaker?](https://www.quora.com/How-do-I-become-an-excellent-orator-public-speaker-story-teller/answer/Roy-Tang)
 
 <span class="ui_qtext_rendered_qtext">The answer is always practice.
 
