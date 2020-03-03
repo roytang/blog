@@ -10,5 +10,7 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [What is a coder's worst nightmare?](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext">Googling a long-running technical problem and the only hit is an unanswered stackoverflow question you yourself posted months prior (true story!)</span>
+
+> [What is a coder's worst nightmare?](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Roy-Tang)
+
+<span class="ui_qtext_rendered_qtext">Googling a long-running technical problem and the only hit is an unanswered stackoverflow question you yourself posted months prior (true story!)</span>
