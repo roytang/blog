@@ -1,5 +1,7 @@
+{{ $id := .Inner | md5 }}
 <div class="spoiler_container">
-    <a href="#" class="spoiler_header" onclick="return false;">Click to toggle spoilers</a>
-    <div class="spoiler">{{ .Inner }}</div>
+    <a class="spoiler_link" href="#spoiler-{{ $id }}">(Spoilers)</a> 
+    <a class="spoiler_target" id="spoiler-{{ $id }}"></a>
+    <div class="spoiler">{{ .Inner }} <a href="#" class="hide_spoiler">Hide Spoilers</a></div>    
 </div>
 <p />

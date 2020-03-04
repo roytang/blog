@@ -280,6 +280,12 @@ table.grid_archive a {
 .spoiler {
     display: none;
 }
+.spoiler_target:target {
+    position: fixed;
+}
+.spoiler_target:target + .spoiler {
+    display: inline;
+}
 
 article {
     display: block;
