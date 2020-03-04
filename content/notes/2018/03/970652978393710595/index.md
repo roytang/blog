@@ -10,4 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/970652978393710595/
 ---
 
-RT [@tha_rami](https://twitter.com/tha_rami/): This is super cool: the C# movement class from the phenomenally designed platformer Celeste has been posted online by the dev…
+This is super cool: the C# movement class from the phenomenally designed platformer Celeste has been posted online by the developers 'for those interested to learn from it'.
+
+ https://github.com/NoelFB/Celeste/blob/master/Source/Player.cs
