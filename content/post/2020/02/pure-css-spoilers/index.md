@@ -1,6 +1,6 @@
 ---
 title: "Pure CSS Spoilers"
-date: 2020-03-06
+date: 2020-03-05
 tags:
 - software development
 - css
