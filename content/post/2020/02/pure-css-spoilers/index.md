@@ -1,9 +1,12 @@
 ---
-title: "Pure CSS Spoilers"
 date: 2020-03-05
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1235416366804619265/
 tags:
 - software development
 - css
+title: Pure CSS Spoilers
 ---
 
 I previously had some post that had some [content hidden via spoiler tags](/2018/10/october-2018-watching-lately), using a custom Hugo shortcode. Since I'm an [old-school developer](/2020/02/old-web/) I was previously doing this using some Javascript run on load:
