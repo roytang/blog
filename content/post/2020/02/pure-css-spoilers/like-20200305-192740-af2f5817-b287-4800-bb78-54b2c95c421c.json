@@ -1,0 +1,27 @@
+{
+  "id": "af2f5817-b287-4800-bb78-54b2c95c421c",
+  "text": "[eric \ud83e\udd87](https://fosstodon.org/@eatingbrb) [liked this](https://mastodon.technology/@roytang/103768512364323509#favorited-by-261648)",
+  "url": "https://fosstodon.org/@eatingbrb",
+  "date": "2020-03-05 19:27:40",
+  "source_obj": {
+    "wm-id": 764800,
+    "type": "entry",
+    "wm-target": "https://roytang.net/2020/03/pure-css-spoilers/",
+    "author": {
+      "name": "eric \ud83e\udd87",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/87a73e5e02a92c76803ec1e5c6980819c1c27ae4e6432fcc8059bb539e1ff5d0.jpg",
+      "url": "https://fosstodon.org/@eatingbrb",
+      "type": "card"
+    },
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103768512364323509/261648",
+    "like-of": "https://roytang.net/2020/03/pure-css-spoilers/",
+    "wm-received": "2020-03-05T19:27:40Z",
+    "wm-private": false,
+    "url": "https://mastodon.technology/@roytang/103768512364323509#favorited-by-261648",
+    "published": null,
+    "wm-property": "like-of"
+  },
+  "name": "eric \ud83e\udd87",
+  "photo": null,
+  "source_url": "https://mastodon.technology/@roytang/103768512364323509#favorited-by-261648"
+}
