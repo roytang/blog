@@ -8,4 +8,7 @@ link:
 slug: word-created-by-the-simpsons-added-to-us-dictionary-bbc-news
 source: pocket
 title: Word created by The Simpsons added to US dictionary - BBC News
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/971021383982632960/
 ---

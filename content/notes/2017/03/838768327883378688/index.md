@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/838768327883378688/
 ---
 
-RT [@gdensing](https://twitter.com/gdensing/): That new Oplan name is so extra. Also why isn't Oplan 2khang 2 Furious
+That new Oplan name is so extra. Also why isn't Oplan 2khang 2 Furious

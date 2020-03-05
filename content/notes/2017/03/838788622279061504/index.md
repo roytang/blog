@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/838788622279061504/
 ---
 
-RT [@roytang](https://twitter.com/roytang/): Being willing to fight means being willing to live with the loss
+Being willing to fight means being willing to live with the loss

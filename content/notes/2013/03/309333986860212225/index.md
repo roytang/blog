@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/309333986860212225/
 ---
 
-RT [@MrAlanCooper](https://twitter.com/MrAlanCooper/): Do NOT rationalize, justify, or apologize for bad software. Of course there are reasons for that shit. Your job is to  ...
+Do NOT rationalize, justify, or apologize for bad software. Of course there are reasons for that shit. Your job is to surmount them!

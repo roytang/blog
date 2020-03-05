@@ -10,7 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/838772907262160896/
 tags:
 - gamedev
-- u
+- accessibility
+- ux
+- nintendoswitch
 ---
 
-RT [@studioanisa](https://twitter.com/studioanisa/): Say what you want about the switch but stories like these encourages us #gamedev to create diverse games!#accessibility #u…
+Say what you want about the switch but stories like these encourages us #gamedev to create diverse games!#accessibility #ux #nintendoswitch
