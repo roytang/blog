@@ -1,0 +1,27 @@
+{
+  "url": "https://framapiaf.org/@Dio94",
+  "photo": null,
+  "id": "1d4fde90-ce4c-4867-8b0b-a5c84b2efa38",
+  "text": "[Dio](https://framapiaf.org/@Dio94) liked this [on twitter](https://mastodon.technology/@roytang/103768512364323509#favorited-by-129796)",
+  "source_obj": {
+    "author": {
+      "url": "https://framapiaf.org/@Dio94",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/51e2307d10d550e87f61b0f18cbd948bd3051d8fafbc87ff1845a9b924549b18.jpg",
+      "type": "card",
+      "name": "Dio"
+    },
+    "url": "https://mastodon.technology/@roytang/103768512364323509#favorited-by-129796",
+    "wm-received": "2020-03-05T09:58:35Z",
+    "type": "entry",
+    "wm-property": "like-of",
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103768512364323509/129796",
+    "wm-target": "https://roytang.net/2020/03/pure-css-spoilers/",
+    "like-of": "https://roytang.net/2020/03/pure-css-spoilers/",
+    "wm-id": 764569,
+    "wm-private": false
+  },
+  "name": "Dio",
+  "date": "2020-03-05 09:58:35",
+  "source_url": "https://mastodon.technology/@roytang/103768512364323509#favorited-by-129796"
+}

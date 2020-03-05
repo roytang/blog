@@ -1,0 +1,27 @@
+{
+  "url": "https://floss.social/@alcinnz",
+  "photo": null,
+  "id": "eb46c712-54be-4fd6-a510-37c4d0be4973",
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) shared this [on twitter](https://mastodon.technology/@roytang/103768512364323509#reblogged-by-77011)",
+  "source_obj": {
+    "author": {
+      "url": "https://floss.social/@alcinnz",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "type": "card",
+      "name": "Adrian Cochrane"
+    },
+    "url": "https://mastodon.technology/@roytang/103768512364323509#reblogged-by-77011",
+    "wm-received": "2020-03-05T09:58:39Z",
+    "repost-of": "https://roytang.net/2020/03/pure-css-spoilers/",
+    "wm-property": "repost-of",
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/103768512364323509/77011",
+    "wm-target": "https://roytang.net/2020/03/pure-css-spoilers/",
+    "wm-private": false,
+    "wm-id": 764571,
+    "type": "entry"
+  },
+  "name": "Adrian Cochrane",
+  "date": "2020-03-05 09:58:39",
+  "source_url": "https://mastodon.technology/@roytang/103768512364323509#reblogged-by-77011"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://mastodon.nl/@Ajz",
+  "photo": null,
+  "id": "a668771b-f5cb-4165-81d2-3375c04c658d",
+  "text": "[ajz](https://mastodon.nl/@Ajz) shared this [on twitter](https://mastodon.technology/@roytang/103768512364323509#reblogged-by-133926)",
+  "source_obj": {
+    "author": {
+      "url": "https://mastodon.nl/@Ajz",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/c936b9b98ddabc905afcfed9e93375ee960c22dc6a594c84969bbd7e92c0da5e.png",
+      "type": "card",
+      "name": "ajz"
+    },
+    "url": "https://mastodon.technology/@roytang/103768512364323509#reblogged-by-133926",
+    "wm-received": "2020-03-05T09:58:35Z",
+    "repost-of": "https://roytang.net/2020/03/pure-css-spoilers/",
+    "wm-property": "repost-of",
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/103768512364323509/133926",
+    "wm-target": "https://roytang.net/2020/03/pure-css-spoilers/",
+    "wm-private": false,
+    "wm-id": 764570,
+    "type": "entry"
+  },
+  "name": "ajz",
+  "date": "2020-03-05 09:58:35",
+  "source_url": "https://mastodon.technology/@roytang/103768512364323509#reblogged-by-133926"
+}
