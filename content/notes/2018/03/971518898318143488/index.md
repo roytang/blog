@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/971518898318143488/
 ---
 
-RT [@simongerman600](https://twitter.com/simongerman600/): Great chart shows global population from 1960 until today split into urban and rural. In 1960 twice as many people live…
+Great chart shows global population from 1960 until today split into urban and rural. In 1960 twice as many people lived in rural areas than in the cities. In 2007 city dwellers overtook rural folks. Source: https://buff.ly/2tiNPpX
