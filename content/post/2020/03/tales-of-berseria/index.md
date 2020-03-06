@@ -25,4 +25,6 @@ My notes:
 - Happy to see Milla and Jude appear as cameo characters in this one, as Xillia was one of my favorite ones, and Milla may be my favorite character design in the Tales series overall. (They're in a bunch of screenshots below!)
 - In the screenshots below, you can see that I had everyone wear Normin suits for the second run lol. I like how the Tales series has introduced cosmetics with the advent of 3d models. It's not unreasonable as DLC, since they're not really essential, but they can also be fun.
 
+I'm not sure what RPG I'm playing next - FF7R is coming out in April, and I already have it preordered; there might not be time to squeeze in another long one in between.
+
 Screenshots follow!
