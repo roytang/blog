@@ -8,4 +8,7 @@ link:
 slug: 10-tips-for-javascript-debugging-like-a-pro-with-console
 source: pocket
 title: 10 Tips for Javascript Debugging Like a PRO with Console
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/971738620779429888/
 ---

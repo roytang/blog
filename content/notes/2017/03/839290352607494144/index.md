@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/839290352607494144/
 ---
 
-RT [@berkun](https://twitter.com/berkun/): 1. The main reason people give up on their ideas is they underestimate the effort gap: the time it will take to go from idea to…
+1. The main reason people give up on their ideas is they underestimate the effort gap: the time it will take to go from idea to fruition
