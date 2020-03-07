@@ -4,6 +4,9 @@ date: 2020-03-07
 featuredResource:
   filename: 20200206161636_1.jpg
 slug: tales-of-berseria
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1236125992177012742/
 tags:
 - gaming
 title: 'Late Game Review: Tales of Berseria'
