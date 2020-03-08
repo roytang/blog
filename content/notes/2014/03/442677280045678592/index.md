@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/442677280045678592/
 ---
 
-RT @Thegooglefactz: Fact: Ten out of ten people die. Don't take life too seriously.
+Fact: Ten out of ten people die. Don't take life too seriously.

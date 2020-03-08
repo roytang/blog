@@ -10,5 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/839887417146421248/
 ---
 
-RT [@WUWritingCenter](https://twitter.com/WUWritingCenter/): Fascinating [@GrammarGirl](https://twitter.com/GrammarGirl/) TED talk on new words and the democracy of language. 
-Thoughts on "adulting"? https://t.co/Om…
+Fascinating [@GrammarGirl](https://twitter.com/GrammarGirl/) TED talk on new words and the democracy of language. 
+
+Thoughts on "adulting"? http://bit.ly/1LOa9X3

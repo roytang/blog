@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/707675566397239296/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154422186298912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/49naie/march_9th_a_comic_strip_in_your_style/d0t9dtf/  
 tags:
 - sketchdaily
 ---

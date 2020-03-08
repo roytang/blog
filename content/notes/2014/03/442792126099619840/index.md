@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/442792126099619840/
 ---
 
-RT [@alexisohanian](https://twitter.com/alexisohanian/): The first version of everything is janky. Don’t fear jankiness as long as you’re solving a problem. http://t.co/fXQTVzNi…
+The first version of everything is janky. Don’t fear jankiness as long as you’re solving a problem.

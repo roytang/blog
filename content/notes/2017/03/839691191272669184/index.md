@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/839691191272669184/
 ---
 
-RT [@buwayahman](https://twitter.com/buwayahman/): The irony is that the govt is against the killing of a mountain but not of people
+The irony is that the govt is against the killing of a mountain but not of people

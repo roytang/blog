@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/45343429709938688/
 ---
 
-RT [@abeolandres](https://twitter.com/abeolandres/): Private individuals making Php500k/year to file statement of assets & liabilities on April 15 to BIR: http://yugatech.p ...
+Private individuals making Php500k/year to file statement of assets & liabilities on April 15 to BIR: http://yugatech.ph/hMFh3t
