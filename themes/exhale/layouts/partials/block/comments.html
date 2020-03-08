@@ -54,7 +54,8 @@
     <li>You can <a href="{{ .url }}">share or reply to this post on Twitter</a>. {{ if eq .Section "post" }}Replies will appear as comments in this section.{{ end }}</li>
     {{ end }}
 {{ end }}
-{{ if eq .Section "post" }}
+{{ $oneYearAgo := (now.AddDate -1 0 0) }} 
+{{ if and (eq .Section "post") ( ge .Date $oneYearAgo ) }}
 {{ if .Site.Params.comments_endpoint }}
 <li>You can submit a comment using the form below.
 <form id="comments-form" action="{{ .Site.Params.comments_endpoint }}" method="POST">
@@ -85,7 +86,7 @@
 {{ end }}
 {{ $webmentionTarget := .Permalink }}
 {{ with .Site.Params.webmention_username }}  
-<li>You can write a reply on your own site and submit the URL as a <a href="https://indieweb.org/webmention">webmention</a> via the form below. (Experimental!)
+<li>You can write a reply on your own site and submit the URL as a <a href="https://indieweb.org/webmention">webmention</a> via the form below.
     <form id="webmention-form" action="https://webmention.io/{{ . }}/webmention" method="POST">
         <input name="target" value="{{ $webmentionTarget }}" type="hidden" />
         <input name="source" placeholder="Your reply URL" style="width:90%" required />
@@ -93,7 +94,7 @@
     </form>
 </li>
 {{ end }}
-<li>Or you can just <a href="mailto:{{ .Site.Author.email }}">email me</a>!</li>
+<li>Or you can just <a href="/about/contact">contact me</a>!</li>
 </ul>
 </div>
 
