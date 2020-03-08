@@ -2,7 +2,7 @@
     {{ .Render "summary.hat" }}
     {{ .Render "summary.content" }}
     <div class="meta">
-        {{ partial "block/timestamp" . }}
+        <a href="{{ .Permalink }}"><time class="dt-published" datetime="{{ .Date.Format .Site.Data.Formats.timestamp }}">{{ .Date.Format .Site.Data.Formats.datetime }}</time></a>
         {{ partial "block/tags" . }}
         <br />
         {{ partial "block/syndication" . }}
