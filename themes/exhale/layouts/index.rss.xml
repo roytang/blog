@@ -24,6 +24,10 @@
             {{ .Render "summary.hat" }}
             {{ .Render "summary.content" }}
             </description>
+            <content:encoded><![CDATA[
+            {{ .Render "summary.hat" }}
+            {{ .Render "summary.content" }}
+            ]]></content:encoded>            
             <category>{{ .Section }}</category>
             {{ with .Params.tags }}
             {{ range . }}            
