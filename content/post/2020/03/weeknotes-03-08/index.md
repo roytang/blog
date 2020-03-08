@@ -39,6 +39,7 @@ Site changes this week:
 - Minor theme updates
 - Some older posts have been receiving a lot of spam via the comment form. I thought about disabling it completely, but instead for now I've disabled comments on posts older than 1 year, let's see how that shakes out.
 - I've been trying to minimize JS on this site for a while. Changing my spoiler tags to [pure css](/2020/03/pure-css-spoilers/) was a step in this direction.
+- [Blogroll](/page/blogroll) updated! Just a few new additions. I should figure out a way to do this automatically from my RSS reader.
   
 ---
 

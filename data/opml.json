@@ -64,6 +64,13 @@
                             "_htmlUrl": "https://fogknife.com/"
                         },
                         {
+                            "_text": "Frank Chimero",
+                            "_title": "Frank Chimero",
+                            "_type": "rss",
+                            "_xmlUrl": "https://frankchimero.com/feed.xml",
+                            "_htmlUrl": "https://www.frankchimero.com/"
+                        },
+                        {
                             "_text": "Idle Words",
                             "_title": "Idle Words",
                             "_type": "rss",
@@ -141,6 +148,13 @@
                             "_htmlUrl": "https://nedbatchelder.com/blog"
                         },
                         {
+                            "_text": "Paul Capewell",
+                            "_title": "Paul Capewell",
+                            "_type": "rss",
+                            "_xmlUrl": "https://paulcapewell.com/feed/",
+                            "_htmlUrl": "https://paulcapewell.com/"
+                        },
+                        {
                             "_text": "Phil Gyford’s website: Everything",
                             "_title": "Phil Gyford’s website: Everything",
                             "_type": "rss",
@@ -160,6 +174,13 @@
                             "_type": "rss",
                             "_xmlUrl": "http://www.randsinrepose.com/index.xml",
                             "_htmlUrl": "http://randsinrepose.com/"
+                        },
+                        {
+                            "_text": "ribbonfarm",
+                            "_title": "ribbonfarm",
+                            "_type": "rss",
+                            "_xmlUrl": "http://ribbonfarm.com/feed",
+                            "_htmlUrl": "http://www.ribbonfarm.com/"
                         },
                         {
                             "_text": "Scripting News",
