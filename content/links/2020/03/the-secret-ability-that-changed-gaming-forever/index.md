@@ -1,5 +1,5 @@
 ---
-date: 2020-03-09 13:57:49-05:00
+date: 2020-03-09 18:57:49
 link:
   source: pocket
   source_url: https://getpocket.com
@@ -9,4 +9,8 @@ source: pocket
 syndicated:
 - type: pocket
   url: https://www.youtube.com/watch?v=uIMxAnBW7dA
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103794633213206133
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1237090837806211072/
 ---
