@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/708079239174619136/
 ---
 
-RT [@wrongwaygoback](https://twitter.com/wrongwaygoback/): First it's self driving cars then it's self voting cars then its wondering how the decepticons enslaved us all
+First it's self driving cars then it's self voting cars then its wondering how the decepticons enslaved us all

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/442982590367023105/
 ---
 
-RT [@gamesTMmag](https://twitter.com/gamesTMmag/): In another dimension, every game is Mega Man (art via https://www.deviantart.com/captainslam) https://t.co/brdcYEV1YP
+In another dimension, every game is Mega Man (art via http://captainslam.deviantart.com/)

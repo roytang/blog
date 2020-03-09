@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/708076737930731520/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154426635628912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/49spyt/march_10th_helmets/d0unvlv/  
 tags:
 - sketchdaily
 ---

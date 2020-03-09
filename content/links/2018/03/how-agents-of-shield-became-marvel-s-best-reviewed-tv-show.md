@@ -8,4 +8,7 @@ link:
 slug: how-agents-of-shield-became-marvel-s-best-reviewed-tv-show
 source: pocket
 title: How Agents of SHIELD Became Marvel's Best-Reviewed TV Show
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/972501618024419328/
 ---

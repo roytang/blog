@@ -18,4 +18,4 @@ tags:
 
 What is the correct threshold for this? How do they determine when they have "enough" characters or content? How do they know when it's already "packed to the brim"?
 
-It's not like video games can be "full", it's always possible to keep adding stuff\n
+It's not like video games can be "full", it's always possible to keep adding stuff

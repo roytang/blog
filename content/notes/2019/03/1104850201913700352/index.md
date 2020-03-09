@@ -12,4 +12,4 @@ tags:
 - CaptainMarvel
 ---
 
-RT [@PamelaDayM](https://twitter.com/PamelaDayM/): #CaptainMarvel scores the 5th biggest foreign launch of all time w/$302M after passing up Star Wars: The Force Awakens ($28…
+#CaptainMarvel scores the 5th biggest foreign launch of all time w/$302M after passing up Star Wars: The Force Awakens ($281M). Yep, you heard me right. https://twitter.com/THR/status/1104765620267216898

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/10271301866/
 ---
 
-RT [@rocketkeis](https://twitter.com/rocketkeis/): Awesome picture shared by [@roytang](https://twitter.com/roytang/) - http://i.imgur.com/NslKJ.jpg
+Awesome picture shared by [@roytang](https://twitter.com/roytang/) - http://i.imgur.com/NslKJ.jpg

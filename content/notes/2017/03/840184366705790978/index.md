@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/840184366705790978/
 ---
 
-RT [@cliffxrdblvd](https://twitter.com/cliffxrdblvd/): you can only rt this today https://t.co/vFS3bp0qxz
+you can only rt this today

@@ -8,4 +8,4 @@ tags:
 - mtg
 ---
 
-Opened a couple of #mtg fat packs because I wanted red and blue boxes. Cc [@switchfollows](https://twitter.com/switchfollows/) [@aleksfelipe](https://twitter.com/aleksfelipe/) https://t.co/RAM1cCcsrq
+Opened a couple of #mtg fat packs because I wanted red and blue boxes. Cc [@switchfollows](https://twitter.com/switchfollows/) [@aleksfelipe](https://twitter.com/aleksfelipe/)
