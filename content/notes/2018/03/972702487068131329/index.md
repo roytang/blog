@@ -9,11 +9,17 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/972702487068131329/
 tags:
-- kid
+- kidthoughts
+- profound
+- musings
 ---
 
-RT [@stefanamuller](https://twitter.com/stefanamuller/): Teaching daughter shell/bash
+Teaching daughter shell/bash
+
 Me: "always pwd when you forget where you are"
+
 Her: "I wish there was a pwd for life"
 
-#kid…
+
+
+#kidthoughts #profound #musings

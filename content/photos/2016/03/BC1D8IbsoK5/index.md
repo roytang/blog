@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/708415516738658304/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154426635628912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/49xzor/march_11th_free_draw/d0vvyc7/
 tags:
 - sketchdaily
 ---
