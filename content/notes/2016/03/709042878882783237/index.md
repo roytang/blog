@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/709042878882783237/
 ---
 
-RT [@iwriteasiwrite](https://twitter.com/iwriteasiwrite/): We need more students asking tough questions. We need more people willing to face down politicians
+We need more students asking tough questions. We need more people willing to face down politicians
 
-We need less slavis…
+
+
+We need less slavish adherence to trapos
