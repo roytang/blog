@@ -8,4 +8,7 @@ link:
 slug: stack-overflow-developer-survey-2018
 source: pocket
 title: Stack Overflow Developer Survey 2018
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/973851784673398784/
 ---

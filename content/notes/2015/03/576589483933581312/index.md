@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/576589483933581312/
 ---
 
-RT [@mikong](https://twitter.com/mikong/): Did the first person who tried pancakes with bacon know how big it was gonna be?
+Did the first person who tried pancakes with bacon know how big it was gonna be?

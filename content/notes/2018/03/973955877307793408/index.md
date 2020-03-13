@@ -9,5 +9,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/973955877307793408/
 ---
-
-RT [@click_burgundy](https://twitter.com/click_burgundy/): https://t.co/8STxYiKKK1

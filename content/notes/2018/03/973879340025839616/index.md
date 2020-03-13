@@ -10,4 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/973879340025839616/
 ---
 
-RT [@Maggysche](https://twitter.com/Maggysche/): The Power of JavaScript :D https://t.co/eeNkoYBOAL
+The Power of JavaScript :D 
+
+{{< video width="320" height="179" src="https://video.twimg.com/ext_tw_video/973566759746842624/pu/vid/320x180/o2RC-VJe8UtnsOr-.mp4" >}}
