@@ -1,5 +1,20 @@
 {{ define "main" }}
 
+<!-- Pinned posts -->
+{{ $pages := where .Site.Pages "Params.pinned" true }}    
+{{ if $pages }}
+<h2 class="p-name">Pinned items</h2>
+<p class="sub"></p>
+<article>
+    <div class="pinned">
+    {{ range $pages }}
+        {{ .Render "home_item" }}
+    {{ end }}
+    </div>
+</article>  
+{{ end }}
+
+
 {{ $sections := .Site.Data.Home }}
 {{ $sitePages := .Site.RegularPages }}
 {{ range $sections }}

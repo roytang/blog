@@ -1,10 +1,12 @@
 ---
 title: "COVID19 Diary"
 date: 2020-03-14T22:00:00
+slug: covid19
 tags:
 - philippines
 - current events
 - diaries
+pinned: true
 ---
 
 This post will largely be about the effects of the COVID-19 virus on my country, the Philippines, including government and society's response, largely from a personal POV. It's actually a bit difficult to write about, but I figure it's something I would like to be able to look back on in the future, so let's give it a shot. The reason it's difficult to write about is that events are unfolding and changing rapidly, and a lot of things are still unclear. On top of that, there is anxiety to contend with, and all the news can make it difficult to think. And so we write, both as a record of events and to help clear my thoughts.
@@ -62,6 +64,8 @@ Group chats are abuzz all day with discussions such as:
 - I note the strong parallels between Trump and Duterte's approaches: both held disastrous press conferences that resulted in markets crashing!
 
 I tell everyone that since things are unclear, just stay home as much as possible. I am privileged enough that I can largely follow this advice, and many of my friends work in industries where WFH is viable. The ones who will be disproportionally affected are the poor - the ones who can't afford not to work or have no way to work remotely. 
+
+The mayor of Quezon City has declared a state of calamity.
 
 At the end of the trading day, the PSE has managed to recover a bit, closing at +1.x% up. 
 
