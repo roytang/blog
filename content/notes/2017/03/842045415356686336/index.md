@@ -8,6 +8,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/842045415356686336/
+tags:
+- dangerzone
 ---
 
-RT [@PlayStation](https://twitter.com/PlayStation/): Here's one we doubt you saw coming — Sterling Archer is coming to Rock Band 4 as a playable character: https://t.co/4tTnkO…
+Here's one we doubt you saw coming — Sterling Archer is coming to Rock Band 4 as a playable character: http://play.st/2mOhUsd #DangerZone 
+
+{{< video width="320" height="180" src="https://video.twimg.com/tweet_video/C6-J309V0AA11kf.mp4" >}}

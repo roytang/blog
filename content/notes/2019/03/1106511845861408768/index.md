@@ -13,4 +13,6 @@ tags:
 - 25ChelDiokno
 ---
 
-RT [@cassiedeluria](https://twitter.com/cassiedeluria/): OMFGGGGGGGG IM DEAD AAAAAA #DioknoSaSenado #25ChelDiokno https://t.co/8cELkF21vK
+OMFGGGGGGGG IM DEAD AAAAAA #DioknoSaSenado #25ChelDiokno 
+
+{{< video width="320" height="240" src="https://video.twimg.com/ext_tw_video/1106453086363488257/pu/vid/640x480/73YAomBHvU5WMGWs.mp4?tag=8" >}}

@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/709772421830549505/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154444130458912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4ahitu/march_15th_a_lot_of_dinosaurs/d10nllh/  
 tags:
 - sketchdaily
 ---

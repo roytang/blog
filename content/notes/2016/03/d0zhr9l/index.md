@@ -13,6 +13,8 @@ tags:
 - MarioMaker
 ---
 
-Title: Spoony Castle\nBookmark: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982
+Title: Spoony Castle
+
+Bookmark: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982
 
 It's a revision of a previous one I submitted. I hope it's not too difficult :)

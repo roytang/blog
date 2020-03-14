@@ -7,6 +7,9 @@ syndicated:
 ---
 
 Writing a flask app just to return a json: 5mins
+
 Trying to get it to deploy correctly on Apache/ModWSGI: 55mins
+
 Writing the JS to consume the json from the flask app: 5mins
+
 Fixing the CSS so that the data gotten from the json renders correctly: 55mins

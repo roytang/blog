@@ -13,6 +13,8 @@ tags:
 - MarioMaker
 ---
 
-Title: Spoony Castle\nBookmark: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982
+Title: Spoony Castle
+
+Bookmark: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982
 
 There are two branching paths. Also, there's mushrooms hidden in invisible blocks in a few places to help you along the way\n
