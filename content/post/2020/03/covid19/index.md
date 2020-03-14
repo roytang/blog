@@ -13,7 +13,9 @@ I was originally going to write about the recent COVID-19 virus happenings durin
 
 ### The story so far
 
-Locally, our country had a very small number of confirmed cases coming into the last week, I think it was at around 20 or less before Sunday. And only 1 confirmed death. The president had previously addressed the country in some kind of incoherent drunken rant that didn't say much but was easily repurposed by internet memers into some kind of spoken word poetry. The DOH claimed we had everything under control.
+Locally, our country had a very small number of confirmed cases coming into the last week, I think it was at around 20 or less before Sunday the 8th. And only 1 confirmed death. The president had previously addressed the country in some kind of incoherent drunken rant that didn't say much but was easily repurposed by internet memers into some kind of spoken word poetry. 
+
+There is a shortage of face masks. People are reminded to wash their hands regularly and practice social distancing when possible. The DOH claimed we had everything under control. *Eat Bulaga* and *Showtime* have been running shows without a live studio audience. Life was still mostly normal.
 
 But during this week, more and more cases were reported, in ever-increasing quantities. As of Saturday (the 14th) night, we were up to 111 confirmed cases and I think 8 deaths, with 40+ reported during that day alone. That fatality rate of around 7%, is way higher than the global 1-3%, which is a good indicator of how many unreported cases we probably have locally, due to the severe lack of testing.
 
@@ -49,6 +51,8 @@ I recommend to my parents to do the regular grocery run earlier, and as a result
 
 Spokespersons for different government agencies have begun issuing statements clarifying how things will actually work during the lockdown -- excuse me, "community quarantine". The air and sea restrictions are pretty clear, but the land restrictions seem impossible to implement without massive traffic. The intent is to have checkpoints at roads in and out of the metro, and to inspect passengers one by one to make sure their trips are essential. There is still no plan on how to support people who cannot work due to the lockdown.
 
+Local churches announce suspension of mass services.
+
 Group chats are abuzz all day with discussions such as:
 
 - how their companies are preparing for WFH. Some of my friends work at a company with over 200 people and they had been preparing a business continuity plan during the week, but last night's announcements have accelerated plans. They need to purchase laptops and pocket wifis for those who don't have hardware or internet at home. 
@@ -69,9 +73,11 @@ It's Pi day!
 
 We have a small extended family lunch gathering today, mostly as a send-off to some *balikbayan* relatives who are flying back to the US in a couple of weeks. The gathering was originally scheduled for Sunday, but because of the announcement we rescheduled to Saturday to avoid complications. Fewer people are able to attend, and we just have takeout instead of going to a restaurant as originally planned.
 
-In the afternoon, there is a presscon where the MMDA/PNP/some mayors are talking about a one month curfew from 8PM-5AM. The interior secretary threatens arrest for those who refuse to go home during the curfew. This causes a mix of reactions on social media and in the group chats. During the time I was still a regular commuter, by 8PM I would not have been able to get on a bus yet.
+In the afternoon, there is a presscon where the MMDA/PNP/some mayors are talking about a one month curfew from 8PM-5AM. The interior secretary threatens arrest for those who refuse to go home during the curfew. This causes a mix of reactions on social media and in the group chats. During the time I was still a regular commuter, by 8PM I would not have been able to get on a bus yet. The authorities are also requesting that malls close except for essential services such as supermarkets, banks and pharmacies.
 
 Strain in the healthcare system is starting to show. Multiple reports of healthcare personnel lacking alcohol, hand sanitizer, gloves, and other personal protective equipment (PPE).
+
+Local media giant ABS-CBN announces their hit primetime dramas are going off the air starting next week, to be replaced by reruns. Finally, a villain that *Ang Probinsyano* is unable to defeat.
 
 All day there are reports of massive crowds at the bus stations of people planning to leave the metro before the lockdown. The exodus is worse than Christmas or Holy Week holidays. Airline ticketing offices are also swamped with people looking for refunds and rebookings. 
 
