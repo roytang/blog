@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1236567396300832768/
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/103826129430502052
+- type: mastodon
+  url: https://mastodon.technology/@roytang/103786387611788129
 tags:
 - weeknotes
 title: Weeknotes 2020-03-08

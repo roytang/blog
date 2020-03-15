@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1239101831688540161/
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/103826129277040422
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826054984799260
 tags:
 - gaming
 title: Upcoming Gaming Things
