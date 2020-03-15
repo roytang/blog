@@ -10,4 +10,7 @@ slug: microsoft-is-working-hard-on-a-netflix-for-games-that-works-on-any-device-
 source: pocket
 title: "Microsoft is working hard on a Netflix-for-games that works on any device\
   \ \u2013 BGR"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/974596934961893376/  
 ---

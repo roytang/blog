@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/445219843281666048/
+title: ''
 ---
 
-RT [@leahculver](https://twitter.com/leahculver/): “The Evolution of a Software Engineer” by [@WebSeanHickey](https://twitter.com/WebSeanHickey/) https://medium.com/@webseanhickey/the-evolution-of-a-software-engineer-db854689243
+“The Evolution of a Software Engineer” by [@WebSeanHickey](https://twitter.com/WebSeanHickey/) https://medium.com/p/db854689243

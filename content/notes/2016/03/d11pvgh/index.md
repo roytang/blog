@@ -18,3 +18,7 @@ Title: Spoony Castle
 Bookmark: https://supermariomakerbookmark.nintendo.net/courses/2585-0000-01F7-0982
 
 There are two branching paths. Also, there's mushrooms hidden in invisible blocks in a few places to help you along the way\n
+
+Edit: Since the actual level may be taken down at some point in the future, here's a video of the level being cleared by a helpful redditor: 
+
+https://www.youtube.com/watch?v=oP1kVdKDmT0&feature=youtu.be

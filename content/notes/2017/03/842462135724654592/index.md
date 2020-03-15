@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/842462135724654592/
+title: ''
 ---
 
-RT [@old_zen_barrier](https://twitter.com/old_zen_barrier/): Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.
-— Ralph Waldo E…
+Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.
+
+— Ralph Waldo Emerson

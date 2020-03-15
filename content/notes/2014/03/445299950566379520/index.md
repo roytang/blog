@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/445299950566379520/
+title: ''
 ---
 
-RT [@bleroy](https://twitter.com/bleroy/): This is "fire the whole IT department" bad RT [@morrisonbrett](https://twitter.com/morrisonbrett/) I still can't believe my eyes, [@AmericanExpress](https://twitter.com/AmericanExpress/)! Fix it! http://t.…
+This is "fire the whole IT department" bad RT [@morrisonbrett](https://twitter.com/morrisonbrett/) I still can't believe my eyes, [@AmericanExpress](https://twitter.com/AmericanExpress/)! Fix it!
