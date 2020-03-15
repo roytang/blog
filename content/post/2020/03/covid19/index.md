@@ -106,6 +106,24 @@ Regardless, my intent is just to stay at home as much as possible.
 
 ### Sunday, March the 15th
 
-I hear mass online through the [facebook page of the Quiapo Church](https://www.facebook.com/quiapochurch/).
+I heard mass online through the [facebook page of the Quiapo Church](https://www.facebook.com/quiapochurch/).
+
+Ayala and Robinson's malls have announced that their Metro Manila malls will be closing indefinitely starting tomorrow. SM malls announced a [similar closure except limited to a few cities and areas](https://twitter.com/TheSMStore/status/1239123144851390464), Quezon City not included.
+
+Mayor Belmonte has [declared a curfew in Quezon City](https://www.facebook.com/notes/quezon-city-government/mayor-joy-belmonte-on-declaration-of-public-safety-hours-in-quezon-city/226925012028597/) starting Monday.
+
+A family friend has been suffering from a fever for a couple of days but refuses to go to the hospital for checkups. His two daughters, both doctors, are reportedly very exasperated at his stubbornness.
+
+Apparently the US has [attempted to acquire exclusive rights to a possible vaccine](https://twitter.com/amanbatheja/status/1239175709823819776). Capitalism ho!
+
+The lockdown is generally going smoothly. I don't think anyone was questioning the need of course. The real challenge in implementation will be tomorrow when people start going to work. My earlier expectation of general chaos, confusion and traffic has been tempered by the fact that the NCRPO supposedly reduced it to just police visibility instead of hard checkpoints.
+
+As of Sunday evening, we are at 140 cases (+29) and 12 fatalities, around 8.5% fatality rate. 
+
+Several of my friends however are quite worried about whether the police are sanitizing themselves after every check. If not, they might well become another vector for spreading the virus.
+
+I haven't left the house since the grocery run on Friday. I'm considering resuming my afternoon walks starting tomorrow. I mean, I'll probably be fine right?
+
+Here are some handy trackers: https://ncovtracker.doh.gov.ph/ and https://covid19ph.com/
 
 To be continued...
