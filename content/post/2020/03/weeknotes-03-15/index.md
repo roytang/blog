@@ -3,6 +3,8 @@ date: 2020-03-15
 slug: weeknotes-2020-03-15
 syndicated:
 - type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826089893827171
+- type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/103826054766990836
 - type: twitter
   url: https://twitter.com/roytang/statuses/1239101818052866049/

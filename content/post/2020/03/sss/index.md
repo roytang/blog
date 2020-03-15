@@ -2,10 +2,12 @@
 date: 2020-03-09
 dontinlinephotos: true
 syndicated:
-- type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/103826055094956762
 - type: twitter
   url: https://twitter.com/roytang/statuses/1239101838978191368/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826129353451388
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826055094956762
 tags:
 - philippines
 title: How to Make Voluntary SSS Payments

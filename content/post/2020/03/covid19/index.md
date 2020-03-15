@@ -3,10 +3,12 @@ date: 2020-03-14 22:00:00
 pinned: true
 slug: covid19
 syndicated:
-- type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/103826054875937754
 - type: twitter
   url: https://twitter.com/roytang/statuses/1239101824650502144/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826129192455363
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826054875937754
 tags:
 - philippines
 - current events
@@ -104,6 +106,7 @@ Minor annoyance: social media people who say we should just obey without questio
 
 Regardless, my intent is just to stay at home as much as possible. 
 
+=======
 ### Sunday, March the 15th
 
 I heard mass online through the [facebook page of the Quiapo Church](https://www.facebook.com/quiapochurch/).
