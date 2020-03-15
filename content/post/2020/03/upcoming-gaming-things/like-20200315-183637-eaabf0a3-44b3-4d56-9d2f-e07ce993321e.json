@@ -1,0 +1,27 @@
+{
+  "url": "https://twitter.com/InkasGame",
+  "source_obj": {
+    "url": "https://twitter.com/roytang/status/1239101831688540161#favorited-by-1211733535838466048",
+    "author": {
+      "url": "https://twitter.com/InkasGame",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ece0bb2c74d8671b17d5c29f2f4030e36c5a9b38e85bc41860fa14eb2a666e96.png",
+      "type": "card",
+      "name": "INKAS: The Legend"
+    },
+    "wm-target": "https://roytang.net/2020/03/upcoming-gaming-things/",
+    "wm-received": "2020-03-15T18:36:37Z",
+    "published": null,
+    "wm-id": 770192,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1239101831688540161/1211733535838466048",
+    "wm-property": "like-of",
+    "like-of": "https://roytang.net/2020/03/upcoming-gaming-things/",
+    "type": "entry",
+    "wm-private": false
+  },
+  "photo": null,
+  "text": "[INKAS: The Legend](https://twitter.com/InkasGame) [liked this](https://twitter.com/roytang/status/1239101831688540161#favorited-by-1211733535838466048)",
+  "source_url": "https://twitter.com/roytang/status/1239101831688540161#favorited-by-1211733535838466048",
+  "id": "eaabf0a3-44b3-4d56-9d2f-e07ce993321e",
+  "name": "INKAS: The Legend",
+  "date": "2020-03-15 18:36:37"
+}
