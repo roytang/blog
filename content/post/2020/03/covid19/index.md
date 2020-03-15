@@ -91,11 +91,17 @@ By the end of the day, 47 new confirmed cases had been reported, for a total of 
 
 Late in the evening, the [NCRPO announces](https://twitter.com/ANCALERTS/status/1238843668485685248) that instead of checkpoints, they will just implement increased police visibility at the metro exit points. Thread says they had meetings late into the night, I suspected they realized how ridiculous the original plan was.
 
+As we near the start of the lockdown, only the LGU of Muntinlupa has confirmed a curfew, starting Monday.
+
 It becomes increasingly clear how poor the planning and coordination for this event was, that they are just ironing out details and making plans up more or less on the fly. We had weeks where they were saying not to worry and things were under control, that time should have been spent preparing for contingencies such as this. This does not inspire confidence.
 
 Minor annoyance: social media people who say we should just obey without question. We don't have to obey dumbass rules!
 
 Regardless, my intent is just to stay at home as much as possible. 
+
+### Sunday, March the 15th
+
+I hear mass online through the [facebook page of the Quiapo Church](https://www.facebook.com/quiapochurch/).
 
 To be continued...
 
