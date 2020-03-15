@@ -1,6 +1,11 @@
 ---
 date: 2020-03-10
 slug: upcoming-gaming-things
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826054984799260
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1239101831688540161/
 tags:
 - gaming
 title: Upcoming Gaming Things

@@ -1,9 +1,14 @@
 ---
-title: "How to Make Voluntary SSS Payments"
 date: 2020-03-09
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826055094956762
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1239101838978191368/
 tags:
 - philippines
-dontinlinephotos: true
+title: How to Make Voluntary SSS Payments
 ---
 
 Since I stopped being a full-time employee at the end of 2015, I've missed around four years of monthly SSS payments. This isn't really that big a deal, since I've already paid more than 10 years of premiums, I'm already guaranteed to get a pension from SSS when I reach retirement age. However, this past January I decided to resume making SSS premium payments on a voluntary basis. I had to research a bit and ask some friends about the whole process, so I thought I'd document it here both for my own recollection and in case someone finds it useful.
@@ -46,6 +51,3 @@ Anyway, you go to the Bayad Center and you ask for a form for SSS member contrib
 About a week after making the payment, I suggested logging in to the SSS website again and checking your account details to see if the payment was recognized, just to make sure everything went fine. IDK how it could go wrong, but this is the government, so better safe than sorry!
 
 Note: I was using the old SSS webapp for this (and the screenshots above). They also have a publicly-accessible beta of their [new member portal](https://portal.sss.gov.ph/member/). It uses the same account as the old webapp, and it looks *slightly* less dated. However, I could not find a screen in the beta member portal for generating the PRNs, so you might be stuck using the old webapp.
-
-
-
