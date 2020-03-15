@@ -1,9 +1,14 @@
 ---
 date: 2020-03-15
+slug: weeknotes-2020-03-15
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826089893827171
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1239101818052866049/
 tags:
 - weeknotes
 title: Weeknotes 2020-03-15. The world is chaos, be kind.
-slug: weeknotes-2020-03-15
 ---
 
 > "It's chaos, be kind" - Michelle McNamara on the world.

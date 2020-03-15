@@ -1,12 +1,17 @@
 ---
-title: "COVID19 Diary"
-date: 2020-03-14T22:00:00
+date: 2020-03-14 22:00:00
+pinned: true
 slug: covid19
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1239101824650502144/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103826129192455363
 tags:
 - philippines
 - current events
 - diaries
-pinned: true
+title: COVID19 Diary
 ---
 
 This post will largely be about the effects of the COVID-19 virus on my country, the Philippines, including government and society's response, largely from a personal POV. It's actually a bit difficult to write about, but I figure it's something I would like to be able to look back on in the future, so let's give it a shot. The reason it's difficult to write about is that events are unfolding and changing rapidly, and a lot of things are still unclear. On top of that, there is anxiety to contend with, and all the news can make it difficult to think. And so we write, both as a record of events and to help clear my thoughts.
@@ -98,4 +103,3 @@ Minor annoyance: social media people who say we should just obey without questio
 Regardless, my intent is just to stay at home as much as possible. 
 
 To be continued...
-
