@@ -151,4 +151,14 @@ From this [breaking news post](https://www.facebook.com/gmanews/posts/1015851098
 > 
 > The presence of uniformed personnel to enforce quarantine procedures will be heightened under enhanced community quarantine. 
 
+I kind of slept through the actual announcements. Tighter lockdown as expected. No more going to work, only essential travel. No public transpo. Outbound international travellers have 3 days to get to their flights (luckily my *balikbayan* relative had previously decided to panic-rebook to this Thursday, just inside the window). Luzon-wide travel ban. Food distribution etc. Looks like a lot of the implementation problems are being left to the LGUs to decide. Government asking landlords, etc to defer rents, business to advance 13th month pay if possible.
+
+A lot of edge cases seem unhandled, mostly for poor people without cars: how do they get to groceries, hospitals? How do healthcare workers without cars get to the hospitals? Etc. Some of the people in my chat groups are very pessimistic and are worried about the implementation of food distribution and other support for the poor. If not implemented properly, could lead to social unrest. I suspect we're going to see another major announcement within 1-2 days to iron out some details.
+
+Trading at the PSE is suspended until further notice. Just as well - otherwise we might be in for daily bloodbaths. Stocks were down 7.9% today.
+
+Good news is only 2 confirmed cases today, and no additional deaths. One of the new cases is Senator Zubiri.
+
+The increased lockdown is harsh, but might be necessary for containment at this point, given the earlier mistakes. 
+
 To be continued...
