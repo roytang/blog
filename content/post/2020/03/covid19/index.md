@@ -14,6 +14,7 @@ tags:
 - current events
 - diaries
 title: COVID19 Diary
+toc: true
 ---
 
 This post will largely be about the effects of the COVID-19 virus on my country, the Philippines, including government and society's response, largely from a personal POV. It's actually a bit difficult to write about, but I figure it's something I would like to be able to look back on in the future, so let's give it a shot. The reason it's difficult to write about is that events are unfolding and changing rapidly, and a lot of things are still unclear. On top of that, there is anxiety to contend with, and all the news can make it difficult to think. And so we write, both as a record of events and to help clear my thoughts.
@@ -106,7 +107,6 @@ Minor annoyance: social media people who say we should just obey without questio
 
 Regardless, my intent is just to stay at home as much as possible. 
 
-=======
 ### Sunday, March the 15th
 
 I heard mass online through the [facebook page of the Quiapo Church](https://www.facebook.com/quiapochurch/).
@@ -128,5 +128,25 @@ Several of my friends however are quite worried about whether the police are san
 I haven't left the house since the grocery run on Friday. I'm considering resuming my afternoon walks starting tomorrow. I mean, I'll probably be fine right?
 
 Here are some handy trackers: https://ncovtracker.doh.gov.ph/ and https://covid19ph.com/
+
+### Monday, March the 16th
+
+As expected, throngs of people out in the streets trying to commute to work. So much for social distancing. 
+
+I go out for a quick medicine run (to ensure I have one month's worth). The nearby drugstore is less crowded than the last time I passed by, although still well above expectations for the early afternoon hour.
+
+{{< note "2020/03/1239402024485060614/" >}}
+
+Some of the people in my group chats are starting to get overwhelmed by anxiety at the mishandling of the situation. I send them the following:
+
+> I'm not saying we shouldn't take things seriously and/or prepare for the worst, I'm saying be mindful of your mental health by exposing yourself to too much anxiety and worry. i'm sure each of us here is already doing as much as possible to avoid risk/exposure for us and our families, it's ok to step back from all the updates every so often
+
+Word starts to spread that the government is meeting to plan a heightened lockdown. A press conference is announced for this afternoon. It seems like they announced the presscon even before the meeting starts, which means they have a presumption that an announcement will be needed. I expect that meeting to run long, most likely it will be this early to mid evening.
+
+From this [breaking news post](https://www.facebook.com/gmanews/posts/10158510980196977):
+
+> JUST IN: Presidential spokesperson Salvador Panelo says President Duterte has ordered an enhanced community quarantine of entire Luzon.
+
+Under enhanced community quarantine, the government says strict home quarantine will be implemented in all households, transportation will be suspended and provision for food and essential health services will be regulated. 
 
 To be continued...
