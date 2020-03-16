@@ -146,7 +146,9 @@ Word starts to spread that the government is meeting to plan a heightened lockdo
 From this [breaking news post](https://www.facebook.com/gmanews/posts/10158510980196977):
 
 > JUST IN: Presidential spokesperson Salvador Panelo says President Duterte has ordered an enhanced community quarantine of entire Luzon.
-
-Under enhanced community quarantine, the government says strict home quarantine will be implemented in all households, transportation will be suspended and provision for food and essential health services will be regulated. 
+> 
+> Under enhanced community quarantine, the government says strict home quarantine will be implemented in all households, transportation will be suspended and provision for food and essential health services will be regulated. 
+> 
+> The presence of uniformed personnel to enforce quarantine procedures will be heightened under enhanced community quarantine. 
 
 To be continued...
