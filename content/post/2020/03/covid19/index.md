@@ -161,4 +161,10 @@ Good news is only 2 confirmed cases today, and no additional deaths. One of the 
 
 The increased lockdown is harsh, but might be necessary for containment at this point, given the earlier mistakes. 
 
+### Tuesday, March the 17th
+
+I caught part of the morning DZMM program with Noli de Castro, he's complaining about how unclear the details of the enhanced lockdown is. He speaks to a field reporter on Commonwealth who says there are still a few jeeps running but MMDA personnel are flagging them down telling them they can't run their routes. Those with full passenger loads are told to complete one last pass then that's it. There are a lot of commuters on the road trying to get a rare ride. The reporter interviews a security guard for a hospital who says he's been waiting to get a ride for 1.5 hours.
+
+De Castro calls up the mayor of Paranaque (Edwin Olivares, also chair of the Metro Manila Mayors group), who tells him the implementation details are mostly dependent on the LGU. As for those who still need to work (like the security guard above) and don't have cars, they have no choice but to walk. (*Sakripisyo daw*)
+
 To be continued...
