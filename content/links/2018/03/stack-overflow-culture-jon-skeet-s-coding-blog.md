@@ -8,4 +8,7 @@ link:
 slug: stack-overflow-culture-jon-skeet-s-coding-blog
 source: pocket
 title: Stack Overflow Culture | Jon Skeet's coding blog
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/975151922754834432/
 ---

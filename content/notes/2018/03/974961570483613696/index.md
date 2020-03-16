@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/974961570483613696/
+title: ''
 ---
 
-RT [@attyharryroque](https://twitter.com/attyharryroque/): If  Janet Napoles becomes state witness, they might as well admit all admin Senatongs and tongressmen as state witness…
+If  Janet Napoles becomes state witness, they might as well admit all admin Senatongs and tongressmen as state witness vs opposition.

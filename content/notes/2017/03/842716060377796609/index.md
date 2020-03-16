@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/842716060377796609/
 tags:
 - StPatricksDay
+title: ''
 ---
 
-RT [@GreatestQuotes](https://twitter.com/GreatestQuotes/): "Never wrestle with pigs. You both get dirty and the pig likes it." - George Bernard Shaw #StPatricksDay
+"Never wrestle with pigs. You both get dirty and the pig likes it." - George Bernard Shaw #StPatricksDay

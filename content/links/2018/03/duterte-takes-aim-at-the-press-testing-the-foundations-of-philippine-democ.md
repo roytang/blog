@@ -8,4 +8,7 @@ link:
 slug: duterte-takes-aim-at-the-press-testing-the-foundations-of-philippine-democ
 source: pocket
 title: Duterte takes aim at the press, testing the foundations of Philippine democ
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/974932883822600192/
 ---
