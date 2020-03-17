@@ -167,4 +167,34 @@ I caught part of the morning DZMM program with Noli de Castro, he's complaining 
 
 De Castro calls up the mayor of Paranaque (Edwin Olivares, also chair of the Metro Manila Mayors group), who tells him the implementation details are mostly dependent on the LGU. As for those who still need to work (like the security guard above) and don't have cars, they have no choice but to walk. (*Sakripisyo daw*)
 
+Mid-day, a friend reports:
+
+> just got back from buying supplies and delivering to my aunt
+> 
+> lots of ppl at the banks that I passed
+> 
+> line at the grocery was long
+> 
+> line at the other grocery on anonas was hella long just to get in
+> 
+> a fair number of people just walking along the streets
+> 
+> saw one jeepney and a couple tricycles... maybe friends of brgy officials? who knows
+> 
+> saw very few cops. they must be at the entry and exit points between cities
+> 
+> If you have a car, it almost feels like holy week back in the 80s, when everything would be closed, but there are still some people going about
+
+News comes out that last night, the President declared a state of calamity for the entire country. My understanding of this is that it's mainly to unlock use of calamity funds.
+
+The OVP has set up transportation support for frontliners starting tomorrow. The military will also be deploying army trucks. Social media is full of stories of ordinary citizens volunteering to provide transportation or other support to those who still have to work.
+
+Manny Pacquiao has worked with Jack Ma's foundation to have 50,000 testing kits donated to the Philippines.
+
+Some social media influencer gets shamed for going off on people who are still going to work despite the enhanced lockdown. These trying times really make it easy to identify those who are unable to put themselves in other people's situations and empathize.
+
+Nograles talks to an early evening news program on TV , saying there will be a press conference later at 8PM discussing more details. The press conference happens past 11PM. It's just Nograles and some other cabinet members, discussing details of who will be allowed to move around, what companies/industries will still be operating, etc. Basically details they should have had from the start.
+
+The number of new cases today is +45, with 2 additional deaths. Total number of cases: 187, deaths: 14.
+
 To be continued...
