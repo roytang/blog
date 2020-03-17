@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/975419619883151360/
+title: ''
 ---
 
-RT [@DannyDutch](https://twitter.com/DannyDutch/): I’m afraid this may hurt your head a little. https://t.co/1NPju6chSx
+I’m afraid this may hurt your head a little. 
+
+{{< video width="320" height="288" src="https://video.twimg.com/ext_tw_video/975102040136454144/pu/vid/800x720/n1kzOV-OGpY9jJ9c.mp4" >}}

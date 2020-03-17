@@ -10,4 +10,7 @@ slug: ph-ranks-2nd-most-unfriendly-country-to-startups-manila-bulletin-business
 source: pocket
 title: "PH ranks 2nd most \u2018unfriendly country\u2019 to startups \xBB Manila Bulletin\
   \ Business"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/975265069020925952/
 ---

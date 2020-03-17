@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1107674421383225344/
+title: ''
 ---
 
-RT [@shitduosays](https://twitter.com/shitduosays/): what's *your* excuse https://t.co/PVxVYSpVTo
+what's *your* excuse

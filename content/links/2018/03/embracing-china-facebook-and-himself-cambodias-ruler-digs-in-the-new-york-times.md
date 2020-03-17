@@ -10,4 +10,7 @@ slug: embracing-china-facebook-and-himself-cambodias-ruler-digs-in-the-new-york-
 source: pocket
 title: "Embracing China, Facebook and Himself, Cambodia\u2019s Ruler Digs In - The\
   \ New York Times"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/975265065527111681/
 ---
