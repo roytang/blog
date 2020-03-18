@@ -197,4 +197,18 @@ Nograles talks to an early evening news program on TV , saying there will be a p
 
 The number of new cases today is +45, with 2 additional deaths. Total number of cases: 187, deaths: 14.
 
+### Wednesday, March the 18th
+
+In the afternoon, Quezon City mayor Joy Belmonte announces "Extreme Enhanced Community Quarantine" (LOL) for selected barangays in Quezon City, specifically those barangays with 2 or more confirmed cases each. This enhanced lockdown (lets be real) means additional restrictions such as checkpoints and temperature scans in certain areas. Only those with essential travel needs will be allowed to pass. During the press conference, they identified several areas to be affected:
+
+- a rectangular area around St. Luke's Hospital near E.Rodriguez
+- a circular area around the cluster of hospitals along East Avenue
+- Quirino Memorial Medical Center (facility quarantine)
+
+Additionally, Barangay Tandang Sora (where we live) is one of the identified areas with multiple cases, but they have yet to finalize which streets/areas to restrict. Reportedly, the cases are somewhere in the Himlayan area.
+
+We were worried about how the lockdown would affect us so my parents decided to do a grocery run today (our last run was Friday). This gave me quite a bit of anxiety, since they're both vulnerable seniors, but I couldn't drive and I'm not the best shopper so I can't make decisions in case of stuff being out of stock. They came back without incident, and reportedly the grocery practiced safe social distancing measures, so I assume (and hope) they're fine. For future runs, we may try some online grocery sites such as [Metromart](https://www.metromart.com/welcome/cities), or I'll do the run myself (and we just live with whatever terrible choices I make LOL.)
+
+Today we are up to 202 confirmed cases (15 new cases) with 3 additional deaths (total 17). Over the past few days we have alternated big jumps and low jumps, so we might have more new cases tomorrow.
+
 To be continued...
