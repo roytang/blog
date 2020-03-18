@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/446289118537211904/
+title: ''
 ---
 
-RT [@bmkibler](https://twitter.com/bmkibler/): “Project management is kind of like Starcraft. You have to decide how many drones to send to minerals and how many to vespine…
+“Project management is kind of like Starcraft. You have to decide how many drones to send to minerals and how many to vespine gas”

@@ -8,12 +8,39 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1107873337596760064/
+title: ''
 ---
 
-RT [@tef_ebooks](https://twitter.com/tef_ebooks/): the three true estimates:
+the three true estimates:
+
+
 
 it's quicker to do than to explain
+
 it will be done by the next meeting
+
 it won't
 
-the three true…
+
+
+the three true priorities:
+
+
+
+yesterday
+
+right now
+
+never
+
+
+
+the three true results:
+
+
+
+i made one change
+
+i changed several things and missed one
+
+changed everything &amp; still broken
