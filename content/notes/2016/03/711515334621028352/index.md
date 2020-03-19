@@ -10,6 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/711515334621028352/
 tags:
 - PiliPinasDebates2016
+title: ''
 ---
 
-RT @Pimplepopper: Si Binay tuwing korupsyon ang usapan. #PiliPinasDebates2016 https://t.co/5zDyyICwao
+Si Binay tuwing korupsyon ang usapan. #PiliPinasDebates2016 
+
+{{< video width="320" height="238" src="https://video.twimg.com/tweet_video/Cd_OvKnUkAE_xYU.mp4" >}}

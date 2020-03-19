@@ -211,4 +211,8 @@ We were worried about how the lockdown would affect us so my parents decided to 
 
 Today we are up to 202 confirmed cases (15 new cases) with 3 additional deaths (total 17). Over the past few days we have alternated big jumps and low jumps, so we might have more new cases tomorrow.
 
+### Thursday, March the 19th
+
+No major announcements today. We are up to 217 confirmed cases (+20) and 17 (+3) deaths
+
 To be continued...

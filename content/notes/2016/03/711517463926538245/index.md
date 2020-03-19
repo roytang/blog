@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/711517463926538245/
 tags:
 - LuchiForPresident
+title: ''
 ---
 
-RT [@mrsunlawyer](https://twitter.com/mrsunlawyer/): May #LuchiForPresident na raw? 😄
+May #LuchiForPresident na raw? 😄

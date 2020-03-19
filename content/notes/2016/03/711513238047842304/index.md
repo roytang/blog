@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/711513238047842304/
+title: ''
 ---
 
-RT [@GANDAbu](https://twitter.com/GANDAbu/): Korina: Mar dalian mo nga diyan sa banyo!!!
+Korina: Mar dalian mo nga diyan sa banyo!!!
+
 Mar: ORAS KO TO

@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/711584011227832320/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154457920773912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4b6tt3/march_20th_today_in_history/d16ultk/
 tags:
 - sketchdaily
 ---
