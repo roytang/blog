@@ -213,6 +213,6 @@ Today we are up to 202 confirmed cases (15 new cases) with 3 additional deaths (
 
 ### Thursday, March the 19th
 
-No major announcements today. We are up to 217 confirmed cases (+20) and 17 (+3) deaths
+No major announcements today. We are up to 217 confirmed cases (+15) and 17 (+0) deaths. Not bad considering I thought we'd get a big bump today.
 
 To be continued...
