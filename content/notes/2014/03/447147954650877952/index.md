@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/447147954650877952/
+title: ''
 ---
 
-RT [@GUBLERNATION](https://twitter.com/GUBLERNATION/): 2 nights out of the year you should behave like an out-of-control super-werewolf
+2 nights out of the year you should behave like an out-of-control super-werewolf

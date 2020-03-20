@@ -215,4 +215,12 @@ Today we are up to 202 confirmed cases (15 new cases) with 3 additional deaths (
 
 No major announcements today. We are up to 217 confirmed cases (+15) and 17 (+0) deaths. Not bad considering I thought we'd get a big bump today.
 
+### Friday, March the 20th
+
+No major announcements today. Well, there was a presscon by the president at 1am where he basically threw shade at the mayor of Pasig for daring to suggest something contrary to what the national government has advised. But nothing of significance.
+
+I got out of the house today, but only to walk a little bit around the subdivision. I thought about walking around my usual route, but that seems like an unnecessary risk.
+
+We are up to 230 cases (+13) and 18 deaths (+1). The growth rate is kind of plateauing, most probably due to lack of testing, but maybe not? We'll see what happens.
+
 To be continued...

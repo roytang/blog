@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/711974601337638913/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154461290753912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4bbfoq/march_21st_marvel_super_heroes/d18475y/
 tags:
 - sketchdaily
 ---

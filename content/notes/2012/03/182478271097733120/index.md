@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/182478271097733120/
+title: ''
 ---
 
-RT [@ilovecharts](https://twitter.com/ilovecharts/): Otters Who Look Like Benedict Cumberbatch: https://ilovecharts.tumblr.com/post/19680026858/otters-that-look-like-benedict-cumberbatch#_=_
+Otters Who Look Like Benedict Cumberbatch: http://tmblr.co/ZekEWyIL1M3g
