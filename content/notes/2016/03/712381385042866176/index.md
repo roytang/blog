@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/712381385042866176/
+title: ''
 ---
 
-RT [@ajlobster](https://twitter.com/ajlobster/): She truly is the world's greatest athlete https://t.co/bYpqw8OmD0
+She truly is the world's greatest athlete

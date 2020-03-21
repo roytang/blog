@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/844477915177766913/
+title: ''
 ---
 
-RT [@bethangsioco](https://twitter.com/bethangsioco/): Fact: Friends cancelled visit to PH. 
+Fact: Friends cancelled visit to PH. 
+
 Fact: Their singular reason is the killings. 
-Fact: It isn't d manner of reportage,…
+
+Fact: It isn't d manner of reportage,it's the KILLINGS.
