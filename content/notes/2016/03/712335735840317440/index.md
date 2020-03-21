@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/712335735840317440/
 tags:
 - Brussels
+title: ''
 ---
 
-RT [@Westraid](https://twitter.com/Westraid/): Ensemble nous vaincrons. #Brussels
+Ensemble nous vaincrons. #Brussels

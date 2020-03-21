@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/447378771247501312/
+title: ''
 ---
 
-RT [@courage_wolf](https://twitter.com/courage_wolf/): PICK YOUR BATTLES. WIN ALL OF THEM.
+PICK YOUR BATTLES. WIN ALL OF THEM.
