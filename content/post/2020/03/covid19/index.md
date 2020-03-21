@@ -224,3 +224,11 @@ I got out of the house today, but only to walk a little bit around the subdivisi
 We are up to 230 cases (+13) and 18 deaths (+1). The growth rate is kind of plateauing, most probably due to lack of testing, but maybe not? We'll see what happens.
 
 To be continued...
+
+### Saturday, March the 21st
+
+Word is going around in various QC barangays that the barangay personnel are issuing quarantine passes to households. AFAIK there has been no announcement from either the national government or the LGU, I'm not sure if it's just the barangays being creative in implementation. Feels like unnecessary bureaucracy, and probably prone to abuse? We haven't had anyone give us any yet. Regardless, we are mostly staying cooped up inside. 
+
+Rumors abound that there is a "secret protocol" at the RITM to prioritize VIPs in testing, and that the staff is furious but are afraid of violating NDAs. Sucks if true.
+
+Today we are up to 307 cases (+77) and 19 deaths (+1). This is the biggest one day jump in cases so far. Presumably there has been a lag in testing, so we may be in for even more cases in the days ahead. The coming week may very well tell us what our eventual curve is going to look like.
