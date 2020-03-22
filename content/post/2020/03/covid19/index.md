@@ -232,3 +232,21 @@ Word is going around in various QC barangays that the barangay personnel are iss
 Rumors abound that there is a "secret protocol" at the RITM to prioritize VIPs in testing, and that the staff is furious but are afraid of violating NDAs. Sucks if true.
 
 Today we are up to 307 cases (+77) and 19 deaths (+1). This is the biggest one day jump in cases so far. Presumably there has been a lag in testing, so we may be in for even more cases in the days ahead. The coming week may very well tell us what our eventual curve is going to look like.
+
+### Sunday, March the 22nd
+
+It's been just around one week of this lockdown. I think people are starting to get used to it? A lot of the less fortunate people are still suffering though. 
+
+This morning my dad and my tita went out for groceries. I didn't find out about it until I went down around lunch time. I told them later that they should just let me go out if we need to do a grocery run.
+
+I heard mass online again via the Quiapo church facebook page.
+
+I thought I was getting a handle on all this covid19 news but I felt frustrated again today at a lot of bad news:
+
+- DOH prioritizing VIP politicians for testing given limited test kits. The current head of the RITM has been removed allegedly due to his refusal to prioritize VIPs
+- 530 hospital staff in UST quarantined
+- The president asking congress for emergency powers (Senate President and the Palace spokesman both say it's not emergency powers, some kind of BS). Basically this incompetent government after all this time assuring that they have the budget needed etc, say we should trust them with even more power and budget. And still no word on plans for mass testing!
+
+Also, word in our barangay is that they are starting to distribute quarantine passes in our subdivision. We haven't gotten one yet because they ran out or something, but they'll be back tomorrow. We're also told even with the pass, others can still go out as long as you have an ID with an address. Huh, what's the point then?
+
+As of tonight we have 380 confirmed cases (+73) and 25 deaths (+6). 
