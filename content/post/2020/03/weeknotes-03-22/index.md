@@ -1,6 +1,11 @@
 ---
 date: 2020-03-22
 slug: weeknotes-2020-03-22
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103864507062854379
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1241562764147142656/
 tags:
 - weeknotes
 title: Weeknotes 2020-03-22 Quarantine Edition
