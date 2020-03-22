@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/844916312744738820/
+title: ''
 ---
 
-RT [@jameshamblin](https://twitter.com/jameshamblin/): Who among us hasn't written something the night before it's due despite having 8 years notice and millions of lives hangi…
+Who among us hasn't written something the night before it's due despite having 8 years notice and millions of lives hanging in the balance.

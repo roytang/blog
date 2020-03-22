@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/712480645402898432/
+title: ''
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): be the bridge you want to see in the world
+be the bridge you want to see in the world

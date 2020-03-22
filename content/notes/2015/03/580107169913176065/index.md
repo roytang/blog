@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/580107169913176065/
+title: ''
 ---
 
-RT [@FacesPics](https://twitter.com/FacesPics/): Optimus Prime or Darth Vader? https://t.co/xQCZWbhmFX
+Optimus Prime or Darth Vader?
