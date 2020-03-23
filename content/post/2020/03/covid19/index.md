@@ -223,8 +223,6 @@ I got out of the house today, but only to walk a little bit around the subdivisi
 
 We are up to 230 cases (+13) and 18 deaths (+1). The growth rate is kind of plateauing, most probably due to lack of testing, but maybe not? We'll see what happens.
 
-To be continued...
-
 ### Saturday, March the 21st
 
 Word is going around in various QC barangays that the barangay personnel are issuing quarantine passes to households. AFAIK there has been no announcement from either the national government or the LGU, I'm not sure if it's just the barangays being creative in implementation. Feels like unnecessary bureaucracy, and probably prone to abuse? We haven't had anyone give us any yet. Regardless, we are mostly staying cooped up inside. 
@@ -250,3 +248,19 @@ I thought I was getting a handle on all this covid19 news but I felt frustrated 
 Also, word in our barangay is that they are starting to distribute quarantine passes in our subdivision. We haven't gotten one yet because they ran out or something, but they'll be back tomorrow. We're also told even with the pass, others can still go out as long as you have an ID with an address. Huh, what's the point then?
 
 As of tonight we have 380 confirmed cases (+73) and 25 deaths (+6). 
+
+### Monday, March the 23rd
+
+We're entering the second working week of this lockdown. 
+
+The stock market was relatively calm today. The PSE Index dropped by about 0.74%.
+
+Metro Manila hospitals are at or close to capacity; The Medical City advised that their ER beds are full and the same goes for other Pasig hospitals.
+
+In a sign of how severely out of touch they are, the Speaker of the House and the Executive Secretary posted a picture of themselves with other congressmen at the house (for deliberations on the emergency powers bill), while holding a manila paper banner between them with a message along the lines of "Like our doctors and frontliners, we came to work for you, so please stay at home." The internet responded... appropriately. "ANG KAKAPAL" trended on PH twitter for a while, and since they conveniently provided an image with a space for text, the [memes started rolling](https://twitter.com/scoutmagph/status/1241981421175975937).
+
+I was so frustrated at the government today, I ended up writing a tweetstorm rant that evolved into [this blog post](/2020/03/this-is-not-the-time-for-mediocrity/). I even broke my Facebook isolation to post it there as well. It helped my sanity a little to write it out (and to get positive dopamine hits from the likes and shares.)
+
+As of tonight we have 462 confirmed cases (+82) and 33 deaths (+8). 
+
+To be continued...
