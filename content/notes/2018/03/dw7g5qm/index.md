@@ -12,6 +12,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/86jdgp/gma_news_this_official_malacañang_press_id_in/dw7g5qm/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156519043188912
 tags:
 - Philippines
 ---

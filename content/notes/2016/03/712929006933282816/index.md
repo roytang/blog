@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/712929006933282816/
+title: ''
 ---
 
-RT [@imgur](https://twitter.com/imgur/): 'People in Brussels are coming out to write messages of love in the streets.' https://imgur.com/gallery/bZDIEJU https://t.co/y8XmtUPzso
+'People in Brussels are coming out to write messages of love in the streets.' http://imgur.com/gallery/bZDIEJU

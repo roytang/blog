@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/713041616345239552/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154472200883912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4bqqal/march_24th_watercolors/d1bxqxa/
 tags:
 - sketchdaily
 - sketchbookpro
