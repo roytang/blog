@@ -18,6 +18,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1241993168062533633/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1241993170155532290/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1242003064652877824/
 title: ''
 ---
 
@@ -60,3 +62,5 @@ Instead of asking for emergency powers, maybe use your existing powers better! N
 
 
 (8/8)
+
+The private sector is stepping up to do what it can. Ordinary citizens are stepping up to donate and support and help where they can. Now is not the time for the government to be mediocre. Be better! (9/?)
