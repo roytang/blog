@@ -48,3 +48,5 @@ Ratings scale:
 | 20 | Jojo Rabbit | 2019 | Feb 11 | Best movie about a Nazi ever. Most colorful depiction of Nazi Germany. Fantastic movie. | 5 |
 | 21 | Superman: Red Son | 2020 | Feb 27 | An acceptable adaptation of one of my favorite Superman stories. Minus points for not including the "House of L" epilogue. | 4 |
 | 22 | Coach Carter | 2005 | Feb 27 | I watched this because I saw it in a "top inspirational speeches" YT video. Pretty good sports movie. | 4 |
+| 23 | Billy Madison | 1995 | Mar 23 | Watched this so I know the context of the "I award you no points and may god have mercy on your soul" clip. Typical early Sandler movie. | 3 |
+| 24 | Princess Mononoke | 1997 | Mar 23 | Much more action-packed than the last Ghibli movie I watched. Beautifully animated. | 5 |
