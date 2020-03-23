@@ -1,9 +1,5 @@
 ---
-title: "This is not the time for mediocrity"
-date: 2020-03-23T15:41:58+08:00
-tags:
-- current events
-- philippines
+date: 2020-03-23 07:41:58
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1241993156696010753/
@@ -25,6 +21,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1242003064652877824/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10158290217768912
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103872410658430335
+tags:
+- current events
+- philippines
+title: This is not the time for mediocrity
 ---
 
 I originally had this as a [tweetstorm/rant](https://twitter.com/roytang/statuses/1241993156696010753/), but it ended up quite long, so I'm posting it to the blog too. It is mostly frustration at how poorly the people in charge are handling things.
@@ -45,4 +47,4 @@ Instead of increasing fear, uncertainty and doubt with poor messaging, lay out y
 
 Instead of asking for emergency powers, maybe use your existing powers better! Not everything can be solved by throwing more authoritarianism at it.
 
-The private sector is stepping up to do what it can. Ordinary citizens are stepping up to donate and support and help where they can. Now is not the time for the government to be mediocre. Be better! 
+The private sector is stepping up to do what it can. Ordinary citizens are stepping up to donate and support and help where they can. Now is not the time for the government to be mediocre. Be better!
