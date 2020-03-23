@@ -49,9 +49,19 @@
 
 <div class="feedback">If you enjoyed my content for some reason, I'd love to hear from you! Here are some options:
 <ul>
+{{ $scratch := newScratch }}    
+{{ $scratch.Set "twitterCount" 0 }}
 {{ range .Params.syndicated }}
-    {{ if eq .type "twitter" }}
+    {{ if and (eq .type "twitter") ( eq ($scratch.Get "twitterCount") 0 ) }}
     <li>You can <a href="{{ .url }}">share or reply to this post on Twitter</a>. {{ if eq .Section "post" }}Replies will appear as comments in this section.{{ end }}</li>
+    {{ $scratch.Set "twitterCount" 1 }}
+    {{ end }}
+{{ end }}
+{{ $scratch.Set "mastoCount" 0 }}
+{{ range .Params.syndicated }}
+    {{ if and (eq .type "mastodon") ( eq ($scratch.Get "mastoCount") 0 ) }}
+    <li>You can <a href="{{ .url }}">share or reply to this post on Mastodon</a>. </li>
+    {{ $scratch.Set "mastoCount" 1 }}
     {{ end }}
 {{ end }}
 {{ $oneYearAgo := (now.AddDate -1 0 0) }} 
