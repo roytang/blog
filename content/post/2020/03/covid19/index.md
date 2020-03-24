@@ -263,4 +263,16 @@ I was so frustrated at the government today, I ended up writing a tweetstorm ran
 
 As of tonight we have 462 confirmed cases (+82) and 33 deaths (+8). 
 
+### Tuesday, March the 24th
+
+More hospitals today announced they are at capacity, including St. Luke's and Makati Medical. 
+
+Last night in the wee hours, after more than half a day of sessions, emergency powers were granted by Congress to the president. The senate version was adopted, with a [bit more checks and balances](https://www.facebook.com/kevinikhe/posts/10219934639812972). That's fine, but we must remain vigilant. For me, the main issue with the admin being granted emergency powers is that it has not proven competence and indeed has shown a tendency to abuse powers in the past. 
+
+The president held another address at 10pm (surprisingly on schedule). I did not listen to it, I'm told it was mostly thanking frontliners and law enforcement and encouraging the nation. (Sounds good.)
+
+As of tonight we have 552 confirmed cases (+90) and 35 deaths (+2). The confirmed cases rate is still accelerating, albeit slower than I thought it would. As more people are tested, the curve of the death rate becomes a bigger indicator - it may indicate whether people are already dying due to hospital over capacity.
+
+Today, the world crossed the 400,000 confirmed cases mark, 3 days after crossing 300,000.
+
 To be continued...
