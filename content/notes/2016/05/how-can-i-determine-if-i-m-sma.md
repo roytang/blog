@@ -10,5 +10,8 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [How can I determine if I'm smart enough to do Computer Science?](https://www.quora.com/How-can-I-determine-if-Im-smart-enough-to-do-Computer-Science/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It is not necessarily generally smartness thatâ€™s required for computer science, more of you have to be able to think in a certain kind of way. If youâ€™ve done well in high school math, thatâ€™s a pretty good indication. Preferably multiple different kinds of math.</p><p class="ui_qtext_para u-ltr u-text-align--start">Additionally, learning programming online is incredibly easy, so you could just take some quick free online lessons right now to try things out how programming feels like so you could have an idea.</p></span>
+
+> [How can I determine if I'm smart enough to do Computer Science?](https://www.quora.com/How-can-I-determine-if-Im-smart-enough-to-do-Computer-Science/answer/Roy-Tang)
+
+
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It is not necessarily generally smartness that’s required for computer science, more of you have to be able to think in a certain kind of way. If you’ve done well in high school math, that’s a pretty good indication. Preferably multiple different kinds of math.</p><p class="ui_qtext_para u-ltr u-text-align--start">Additionally, learning programming online is incredibly easy, so you could just take some quick free online lessons right now to try things out how programming feels like so you could have an idea.</p></span>

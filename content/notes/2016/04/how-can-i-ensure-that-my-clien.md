@@ -10,5 +10,8 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [How can I ensure that my clients will trust my new employee?](https://www.quora.com/How-can-I-ensure-that-my-clients-will-trust-my-new-employee/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Pair him with an employee that they already trust. Say it is part of your mentoring or training program. Eventually you can wean the client off the more veteran employee</p></span>
+
+> [How can I ensure that my clients will trust my new employee?](https://www.quora.com/How-can-I-ensure-that-my-clients-will-trust-my-new-employee/answer/Roy-Tang)
+
+
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Pair him with an employee that they already trust. Say it is part of your mentoring or training program. Eventually you can wean the client off the more veteran employee</p></span>

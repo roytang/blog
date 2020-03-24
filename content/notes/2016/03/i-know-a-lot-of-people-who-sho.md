@@ -13,4 +13,5 @@ Someone on [quora](https://quora.com) asked:
 
 > [I know a lot of people who shoplift (friends, coworkers, acquaintances, whatever). In your opinion, what should I do?](https://www.quora.com/I-know-a-lot-of-people-who-shoplift-friends-coworkers-acquaintances-whatever-In-your-opinion-what-should-I-do/answer/Roy-Tang)
 
+
 <span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Warn them that you don't approve of their behavior. If they fail to change their ways, I would suggest cutting them out of your life as much as possible. Maybe report them to the cops or find a way to make them get caught.</p></span>

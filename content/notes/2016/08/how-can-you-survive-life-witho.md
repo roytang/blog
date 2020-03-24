@@ -10,5 +10,8 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [How can you survive life without a will to work hard?](https://www.quora.com/How-can-you-survive-life-without-a-will-to-work-hard/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Well, the obvious answer is to develop the will to work hard. But letâ€™s assume thatâ€™s not something youâ€™re interested in (and maybe thatâ€™s fine)</p><p class="ui_qtext_para u-ltr u-text-align--start">A better answer would be to work smart, not hard. Focus on being efficient. You should look for ways to accomplish your goals with the least amount of work. This shouldnâ€™t mean doing illegal things or breaking the law though. It means being able to think outside the box to find solutions that may not be immediately obvious but are more efficient and will require less work.</p></span>
+
+> [How can you survive life without a will to work hard?](https://www.quora.com/How-can-you-survive-life-without-a-will-to-work-hard/answer/Roy-Tang)
+
+
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Well, the obvious answer is to develop the will to work hard. But let’s assume that’s not something you’re interested in (and maybe that’s fine)</p><p class="ui_qtext_para u-ltr u-text-align--start">A better answer would be to work smart, not hard. Focus on being efficient. You should look for ways to accomplish your goals with the least amount of work. This shouldn’t mean doing illegal things or breaking the law though. It means being able to think outside the box to find solutions that may not be immediately obvious but are more efficient and will require less work.</p></span>

@@ -10,5 +10,8 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [How can I improve impulse control?](https://www.quora.com/How-can-I-improve-impulse-control/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext"><ol><li>Practice</li><li>Tell your friends what you're trying to do and ask them to keep you honest</li><li>Make it more difficult to do the thing you're trying to avoid doing impulsively (associate a cost with the action)</li></ol></span>
+
+> [How can I improve impulse control?](https://www.quora.com/How-can-I-improve-impulse-control/answer/Roy-Tang)
+
+
+<span class="ui_qtext_rendered_qtext"><ol><li>Practice</li><li>Tell your friends what you're trying to do and ask them to keep you honest</li><li>Make it more difficult to do the thing you're trying to avoid doing impulsively (associate a cost with the action)</li></ol></span>

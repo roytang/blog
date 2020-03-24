@@ -13,4 +13,5 @@ Someone on [quora](https://quora.com) asked:
 
 > [What one skill, if I mastered it, would have the biggest affect on my career?](https://www.quora.com/What-one-skill-if-I-mastered-it-would-have-the-biggest-affect-on-my-career/answer/Roy-Tang)
 
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">The ability to communicate well. This includes being able to listen to what other people are saying and being able to communicate your ideas well. (This should also include things like knowing the difference between ‚Äúaffect‚Äù and ‚Äúeffect‚Äù :p)</p></span>
+
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">The ability to communicate well. This includes being able to listen to what other people are saying and being able to communicate your ideas well. (This should also include things like knowing the difference between ìaffectî and ìeffectî :p)</p></span>

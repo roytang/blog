@@ -10,5 +10,8 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [Where can I find the best web developers in the Philippines?](https://www.quora.com/Where-can-I-find-the-best-web-developers-in-the-Philippines/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">The best web developers are working for other people/firms and donâ€™t need to advertise themselves. They always have work lined up so they donâ€™t need to be camping oDesk, Freelancer, etc</p><p class="ui_qtext_para u-ltr u-text-align--start">What sort of work are you looking to provide?</p></span>
+
+> [Where can I find the best web developers in the Philippines?](https://www.quora.com/Where-can-I-find-the-best-web-developers-in-the-Philippines/answer/Roy-Tang)
+
+
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">The best web developers are working for other people/firms and don’t need to advertise themselves. They always have work lined up so they don’t need to be camping oDesk, Freelancer, etc</p><p class="ui_qtext_para u-ltr u-text-align--start">What sort of work are you looking to provide?</p></span>
