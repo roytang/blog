@@ -1,0 +1,31 @@
+{
+  "name": "Octavio Alvarez",
+  "source_obj": {
+    "content": {
+      "text": "@roytang \"... users would have to do without many of the bells and whistles we\u2019ve come to expect from modern webapps. i.e. clicking \u201cRefresh\u201d instead of timelines auto-updating...\" -  It's not like we could not create an alternative for this; it's more like we steered the whole Web in the wrong direction.",
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> \"... users would have to do without many of the bells and whistles we\u2019ve come to expect from modern webapps. i.e. clicking \u201cRefresh\u201d instead of timelines auto-updating...\" -  It's not like we could not create an alternative for this; it's more like we steered the whole Web in the wrong direction.</p>"
+    },
+    "wm-target": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-id": 774857,
+    "type": "entry",
+    "wm-property": "in-reply-to",
+    "published": "2020-03-24T12:04:13",
+    "wm-received": "2020-03-24T13:06:06Z",
+    "in-reply-to": "https://roytang.net/2020/03/browsers-and-http/",
+    "url": "https://mastodon.xyz/@alvarezp/103877932024778546",
+    "wm-private": false,
+    "author": {
+      "url": "https://mastodon.xyz/@alvarezp",
+      "name": "Octavio Alvarez",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/mastodon.technology/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png"
+    },
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/103875831680911288/103877932092795280"
+  },
+  "photo": null,
+  "id": "1ffd65e1-8c9d-4161-9fef-5d28a0f6f457",
+  "date": "2020-03-24 13:06:06",
+  "url": "https://mastodon.xyz/@alvarezp",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> \"... users would have to do without many of the bells and whistles we\u2019ve come to expect from modern webapps. i.e. clicking \u201cRefresh\u201d instead of timelines auto-updating...\" -  It's not like we could not create an alternative for this; it's more like we steered the whole Web in the wrong direction.</p>",
+  "source_url": "https://mastodon.xyz/@alvarezp/103877932024778546"
+}
