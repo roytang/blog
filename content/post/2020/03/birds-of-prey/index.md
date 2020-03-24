@@ -1,6 +1,7 @@
 ---
 title: "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn spoiler-free review!"
 date: 2020-03-25T05:12:03+08:00
+slug: birds-of-prey
 tags: 
 - movies
 - spoiler-free-review
@@ -8,7 +9,7 @@ tags:
 
 (Too late for the theatrical release, but it's [tradition](/tags/spoiler-free-review) for comic book movies, so here we are.)
 
-- Overall: Totally watchable, maybe slightly better than Suicide Squad for me
+- Overall: Totally watchable, maybe slightly better than Suicide Squad for me.
 - Somehow still fits into some kind of DCEU continuity (after [Suicide Squad](/2016/08/10154796013953912/))
 - the movie is really centered around Harley, to the detriment of the other characters. I can understand why they titled it the way they did, and I can appreciate the effort to have Harley carry a Birds of Prey introduction to the masses. But I think it could have worked a lot better titled and marketed strictly as a Harley-centric movie that happens to set up an eventual Birds of Prey follow-up
 - this one has a lot more Harley flavor than SS though: bright colors, gratuitous violence and so on

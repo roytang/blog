@@ -20,7 +20,7 @@ Ratings scale:
 
 - 5: I regret that I can never again watch it for the first time
 - 4: I would enjoy watching it again
-- 3: I wouldn't mind watching it again, if I had nothing better to do
+- 3: I wouldn't mind watching it again, maybe running in the background while I do other things
 - 2: I would not want to watch it again
 - 1: If you suggest watching it, it might be time to end the friendship
 
@@ -28,7 +28,7 @@ Ratings scale:
 |---|---|---|---|---|---|
 | 1 | Sicario | 2015 | Jan 05 | Great thriller movie, but the lesson here is so bleak | 5 |
 | 2 | Paprika | 2006 | Jan 08 | Colorful, vivid and great animation but so so bizaare | 4 |
-| 3 | Birdman | 2014 | Jan 08 | Insanely good, I can see why it won best picture | 5 |
+| 3 | Birdman or (The Unexpected Virtue of Ignorance) | 2014 | Jan 08 | Insanely good, I can see why it won best picture | 5 |
 | 4 | Looper | 2012 | Jan 09 | Entertaining enough, but raises so many time travel questions | 4 |
 | 5 | John Wick 2 | 2017 | Jan 12 | Better than I expected | 5 |
 | 6 | Ad Astra | 2019 | Jan 13 | Kinda draggy | 3.5 |
@@ -50,3 +50,4 @@ Ratings scale:
 | 22 | Coach Carter | 2005 | Feb 27 | I watched this because I saw it in a "top inspirational speeches" YT video. Pretty good sports movie. | 4 |
 | 23 | Billy Madison | 1995 | Mar 23 | Watched this so I know the context of the "I award you no points and may god have mercy on your soul" clip. Typical early Sandler movie. | 3 |
 | 24 | Princess Mononoke | 1997 | Mar 23 | Much more action-packed than the last Ghibli movie I watched. Beautifully animated. | 5 |
+| 25 | Birds of Prey and the Fantabulous Emancipation of One Harley Quinn | 2020 | Mar 25 | [Spoiler-free review](/2020/03/birds-of-prey/) | 4 |
