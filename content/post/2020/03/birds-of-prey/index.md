@@ -1,10 +1,16 @@
 ---
-title: "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn spoiler-free review!"
-date: 2020-03-25T05:12:03+08:00
+date: 2020-03-24 21:12:03
 slug: birds-of-prey
-tags: 
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103880314279390132
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1242574427188912128/
+tags:
 - movies
 - spoiler-free-review
+title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn spoiler-free
+  review!
 ---
 
 (Too late for the theatrical release, but it's [tradition](/tags/spoiler-free-review) for comic book movies, so here we are.)
