@@ -1,0 +1,27 @@
+{
+  "name": "Octavio Alvarez",
+  "id": "fc17c40a-82d8-48a0-8ef7-0bfd697ba25b",
+  "source_url": "https://mastodon.technology/@roytang/103875831680911288#reblogged-by-45631",
+  "photo": null,
+  "text": "[Octavio Alvarez](https://mastodon.xyz/@alvarezp) [shared this](https://mastodon.technology/@roytang/103875831680911288#reblogged-by-45631)",
+  "source_obj": {
+    "published": null,
+    "wm-received": "2020-03-24T12:34:32Z",
+    "wm-private": false,
+    "author": {
+      "type": "card",
+      "name": "Octavio Alvarez",
+      "url": "https://mastodon.xyz/@alvarezp",
+      "photo": "https://webmention.io/avatar/mastodon.technology/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png"
+    },
+    "repost-of": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/103875831680911288/45631",
+    "wm-target": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-property": "repost-of",
+    "wm-id": 774799,
+    "url": "https://mastodon.technology/@roytang/103875831680911288#reblogged-by-45631",
+    "type": "entry"
+  },
+  "url": "https://mastodon.xyz/@alvarezp",
+  "date": "2020-03-24 12:34:32"
+}
