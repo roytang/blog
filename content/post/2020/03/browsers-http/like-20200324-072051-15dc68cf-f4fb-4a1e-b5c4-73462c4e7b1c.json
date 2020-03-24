@@ -1,0 +1,27 @@
+{
+  "url": "https://hackers.town/@yojimbo",
+  "date": "2020-03-24 07:20:51",
+  "source_obj": {
+    "type": "entry",
+    "wm-property": "like-of",
+    "url": "https://mastodon.technology/@roytang/103875831680911288#favorited-by-191265",
+    "wm-target": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-received": "2020-03-24T07:20:51Z",
+    "like-of": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-id": 774511,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103875831680911288/191265",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/af34e38c6df11aaf16f7a3901f0aab2b9aada2b6a4263fd5501a793852b4a024.jpg",
+      "name": "CMDR Yojimbosan [UTC+13]",
+      "url": "https://hackers.town/@yojimbo"
+    },
+    "wm-private": false,
+    "published": null
+  },
+  "photo": null,
+  "id": "15dc68cf-f4fb-4a1e-b5c4-73462c4e7b1c",
+  "text": "[CMDR Yojimbosan [UTC+13]](https://hackers.town/@yojimbo) [liked this](https://mastodon.technology/@roytang/103875831680911288#favorited-by-191265)",
+  "name": "CMDR Yojimbosan [UTC+13]",
+  "source_url": "https://mastodon.technology/@roytang/103875831680911288#favorited-by-191265"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://social.coop/@christianbundy",
+  "date": "2020-03-24 07:21:03",
+  "source_obj": {
+    "type": "entry",
+    "wm-property": "like-of",
+    "url": "https://mastodon.technology/@roytang/103875831680911288#favorited-by-76916",
+    "wm-target": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-received": "2020-03-24T07:21:03Z",
+    "like-of": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-id": 774512,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103875831680911288/76916",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/d54a320e69718bc7709e7976e1a0402125b0365d402c2c803a5d77fc171a228e.jpg",
+      "name": "Christian Bundy",
+      "url": "https://social.coop/@christianbundy"
+    },
+    "wm-private": false,
+    "published": null
+  },
+  "photo": null,
+  "id": "bbdcfcd8-62ee-476a-9964-5efc36b7d962",
+  "text": "[Christian Bundy](https://social.coop/@christianbundy) [liked this](https://mastodon.technology/@roytang/103875831680911288#favorited-by-76916)",
+  "name": "Christian Bundy",
+  "source_url": "https://mastodon.technology/@roytang/103875831680911288#favorited-by-76916"
+}

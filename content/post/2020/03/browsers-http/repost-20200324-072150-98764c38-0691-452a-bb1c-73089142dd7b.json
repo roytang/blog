@@ -1,0 +1,27 @@
+{
+  "url": "https://floss.social/@alcinnz",
+  "date": "2020-03-24 07:21:50",
+  "source_obj": {
+    "type": "entry",
+    "wm-property": "repost-of",
+    "url": "https://mastodon.technology/@roytang/103875831680911288#reblogged-by-77011",
+    "wm-received": "2020-03-24T07:21:50Z",
+    "wm-target": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-id": 774513,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/103875831680911288/77011",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "name": "Adrian Cochrane",
+      "url": "https://floss.social/@alcinnz"
+    },
+    "repost-of": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-private": false,
+    "published": null
+  },
+  "photo": null,
+  "id": "98764c38-0691-452a-bb1c-73089142dd7b",
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) [shared this](https://mastodon.technology/@roytang/103875831680911288#reblogged-by-77011)",
+  "name": "Adrian Cochrane",
+  "source_url": "https://mastodon.technology/@roytang/103875831680911288#reblogged-by-77011"
+}
