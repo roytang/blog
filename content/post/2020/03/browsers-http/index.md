@@ -1,9 +1,14 @@
 ---
-title: "Browsers and HTTP"
 date: 2020-03-24
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103875831680911288
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1242287539836162048/
 tags:
 - tech life
 - software development
+title: Browsers and HTTP
 ---
 
 Drew Devault wrote a great post/rant about [the reckless limitless scope of modern web browsers](https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html):
