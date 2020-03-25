@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/845966109467561985/
 tags:
 - ohbatistrue
+title: ''
 ---
 
-RT [@gangbadoy](https://twitter.com/gangbadoy/): Tone down niyo naman posts niyo kung gaano ka init sa Manila- baka mawalan tayo ng turista. 😂   #ohbatistrue
+Tone down niyo naman posts niyo kung gaano ka init sa Manila- baka mawalan tayo ng turista. 😂   #ohbatistrue

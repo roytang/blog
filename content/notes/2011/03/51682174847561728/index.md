@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/51682174847561728/
+title: ''
 ---
 
-RT [@GeorgeBray](https://twitter.com/GeorgeBray/): Your mobile phone has more computing power than all of NASA in 1969. NASA launched a man to the moon. We launch a bird i ...
+Your mobile phone has more computing power than all of NASA in 1969. NASA launched a man to the moon. We launch a bird into pigs.

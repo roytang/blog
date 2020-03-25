@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156524461833912
 ---
 
-Programmers are... https://t.co/yHUmtZjk3I
+Programmers are... 

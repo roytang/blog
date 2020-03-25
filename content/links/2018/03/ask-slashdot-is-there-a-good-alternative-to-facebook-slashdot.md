@@ -8,4 +8,7 @@ link:
 slug: ask-slashdot-is-there-a-good-alternative-to-facebook-slashdot
 source: pocket
 title: 'Ask Slashdot: Is There a Good Alternative to Facebook? - Slashdot'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/978295377354018817/
 ---

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/713868291639353345/
+title: ''
 ---
 
-RT [@DanSlott](https://twitter.com/DanSlott/): If it was SCOTT Snyder directing a Batman/Superman movie, I'd have seen it 20 times by now.
+If it was SCOTT Snyder directing a Batman/Superman movie, I'd have seen it 20 times by now.
