@@ -279,6 +279,8 @@ Today, the world crossed the 400,000 confirmed cases mark, 3 days after crossing
 
 Went out with my dad midday to get groceries. I had volunteered to go do it alone, but the problem was I can't drive, and the 30-40 minute walk back might be problematic with the amount of stuff to buy. And it turned out if I didn't have a senior citizen with me, I'd have had to wait in a long queue. It's a tradeoff and a risk to be sure, but we tried to manage it. I did the main grocery shopping, he mostly just went to the pharmacy to buy meds. Hopefully that mitigates things. Anytime I go outside, there's an additional bit of anxiety over the next few days to see if we develop any symptoms. 
 
+On our drive back, I noted that the nearby McDonald's was the only open restaurant, and it was full of GrabFood drivers. We considered using their drive through, but I don't actually like McDonald's so I passed.
+
 One of our "honorable" senators caused a shitstorm today when he showed up to a major private hospital with his wife for them to have a caesarean birth, knowing full well he should have been under home quarantine while waiting for COVID19 test results. His results came back while they were at the hospital and he had to leave and the whole delivery ward had to be decontaminated and HCWs put into quarantine. The speaker of the house and the mayor of QC must be glad there's a new idiot taking the heat off of them.
 
 As of tonight we have 636 confirmed cases (+84) and 38 deaths (+3). 
