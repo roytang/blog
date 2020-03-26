@@ -7,6 +7,8 @@ aliases:
 - /about/uses
 ---
 
+{{< photo "2020/03/1242947311178780673/" >}}
+
 This is a [uses page](https://uses.tech/).
 
 |  | What | Since |

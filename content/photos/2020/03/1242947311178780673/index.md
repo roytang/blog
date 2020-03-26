@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1242947311178780673/
+- type: mastodon
+  url: https://mastodon.technology/@roytang/103886225375953581
 title: ''
 ---
 
