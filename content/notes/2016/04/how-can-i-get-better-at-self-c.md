@@ -10,5 +10,8 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [How can I get better at self control?](https://www.quora.com/How-can-I-get-better-at-self-control/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">The best thing about trying to develop self-control is that there are a lot of opportunities everyday to practice it. Just try something like: whenever you have an impulse for something (like to buy a new thing that you just found about, or sudden urge to have an unhealthy snack), try to delay it until the next day</p><p class="ui_qtext_para u-ltr u-text-align--start">Introspection and self-awareness helps too. Analyze your wants and needs so that you're aware what things you really need and which ones you can easily defer or outright ignore.</p></span>
+
+> [How can I get better at self control?](https://www.quora.com/How-can-I-get-better-at-self-control/answer/Roy-Tang)
+
+
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">The best thing about trying to develop self-control is that there are a lot of opportunities everyday to practice it. Just try something like: whenever you have an impulse for something (like to buy a new thing that you just found about, or sudden urge to have an unhealthy snack), try to delay it until the next day</p><p class="ui_qtext_para u-ltr u-text-align--start">Introspection and self-awareness helps too. Analyze your wants and needs so that you're aware what things you really need and which ones you can easily defer or outright ignore.</p></span>

@@ -10,5 +10,8 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [How can I be sure if I have job related depression?](https://www.quora.com/How-can-I-be-sure-if-I-have-job-related-depression/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Try to find a way to leave and move to a different company. You are obviously not working in a good environment for you. We work for a living yes, but that does not mean we need to suffer for it.</p></span>
+
+> [How can I be sure if I have job related depression?](https://www.quora.com/How-can-I-be-sure-if-I-have-job-related-depression/answer/Roy-Tang)
+
+
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Try to find a way to leave and move to a different company. You are obviously not working in a good environment for you. We work for a living yes, but that does not mean we need to suffer for it.</p></span>

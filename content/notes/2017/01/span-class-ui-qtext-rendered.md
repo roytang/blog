@@ -11,7 +11,8 @@ tags:
 
 Someone on [quora](https://quora.com) asked:
 
-> [<span class="ui_qtext_rendered_qtext">Why are there some genius like Carlos Matias La Borde who can learn programming easily while I have lots of time and still sucks at algorithms?</span>](https://www.quora.com/Why-are-there-some-genius-like-Carlos-Matias-La-Borde-who-can-learn-programming-easily-while-I-spend-lots-of-time-and-still-sucks-at-algorithms-How-should-I-improve-myself/answer/Roy-Tang)
+> [
+<span class="ui_qtext_rendered_qtext">Why are there some genius like Carlos Matias La Borde who can learn programming easily while I have lots of time and still sucks at algorithms?</span>](https://www.quora.com/Why-are-there-some-genius-like-Carlos-Matias-La-Borde-who-can-learn-programming-easily-while-I-spend-lots-of-time-and-still-sucks-at-algorithms-How-should-I-improve-myself/answer/Roy-Tang)
 
 Sometimes simply putting in time and effort may not be enough. You have to make sure your time and effort are being spent wisely. This can only be done by thinking and analysing your own learning process. Think about how you are studying algorithms and try to figure out why you are having difficulty remembering or learning. Try to identify specific problems you have instead of a general “I am really weak”.
 

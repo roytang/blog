@@ -10,5 +10,8 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [I finally let go and now I feel like I have nothing left to live for, so now what?](https://www.quora.com/I-finally-let-go-and-now-I-feel-like-I-have-nothing-left-to-live-for-so-now-what/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Your task now is to find a new purpose in life. And the best way to do this is to try new things, as many things as possible. Rarely does one find purpose in life, more often than not purpose finds you.</p><p class="ui_qtext_para u-ltr u-text-align--start">Go outside. Hang out with friends. Take up new hobbies. Take a class at the local university. Study a new language. Meet new friends. Try out a new coffee shop. Try out a new gym. Rekindle old friendships. Visit an art gallery. Go on a pub crawl. Go out and live!</p></span>
+
+> [I finally let go and now I feel like I have nothing left to live for, so now what?](https://www.quora.com/I-finally-let-go-and-now-I-feel-like-I-have-nothing-left-to-live-for-so-now-what/answer/Roy-Tang)
+
+
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Your task now is to find a new purpose in life. And the best way to do this is to try new things, as many things as possible. Rarely does one find purpose in life, more often than not purpose finds you.</p><p class="ui_qtext_para u-ltr u-text-align--start">Go outside. Hang out with friends. Take up new hobbies. Take a class at the local university. Study a new language. Meet new friends. Try out a new coffee shop. Try out a new gym. Rekindle old friendships. Visit an art gallery. Go on a pub crawl. Go out and live!</p></span>

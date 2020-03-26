@@ -10,5 +10,9 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-> [<span class="ui_qtext_rendered_qtext">Motivation: What is one thing that I can do every day that can change my life?</span>](https://www.quora.com/What-are-things-I-should-do-every-day-to-have-a-good-life/answer/Roy-Tang)
-<span class="ui_qtext_rendered_qtext">Motivation: What is one thing that I can do every day that can change my life?</span>
+
+> [
+<span class="ui_qtext_rendered_qtext">Motivation: What is one thing that I can do every day that can change my life?</span>](https://www.quora.com/What-are-things-I-should-do-every-day-to-have-a-good-life/answer/Roy-Tang)
+
+
+<span class="ui_qtext_rendered_qtext">Motivation: What is one thing that I can do every day that can change my life?</span>
