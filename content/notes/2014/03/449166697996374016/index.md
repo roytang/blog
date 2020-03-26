@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/449166697996374016/
+title: ''
 ---
 
-RT [@RonJeffries](https://twitter.com/RonJeffries/): are there defects in your code?
+are there defects in your code?
+
+
 
 THEN TEST IT SOONER AND BETTER

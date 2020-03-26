@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/449166682485846017/
+title: ''
 ---
 
-RT [@RonJeffries](https://twitter.com/RonJeffries/): is your code hard to work with?
+is your code hard to work with?
+
+
 
 THEN REFACTOR IT

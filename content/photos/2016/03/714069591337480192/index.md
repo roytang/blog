@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/714069591337480192/
 tags:
 - PS4share
+title: ''
 ---
 
-Idk what these railroad guys are into #PS4share https://t.co/Rofazd5Zta
+Idk what these railroad guys are into #PS4share

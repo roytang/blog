@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/978463641094647808/
+title: ''
 ---
 
-RT [@forexposure_txt](https://twitter.com/forexposure_txt/): "Fuck you. I will destroy your business." https://t.co/SwERjETSih
+"Fuck you. I will destroy your business."

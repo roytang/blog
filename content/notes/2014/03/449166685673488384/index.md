@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/449166685673488384/
+title: ''
 ---
 
-RT [@RonJeffries](https://twitter.com/RonJeffries/): is it hard to integrate?
+is it hard to integrate?
+
+
 
 THEN INTEGRATE SMALLER PIECES

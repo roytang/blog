@@ -285,4 +285,12 @@ One of our "honorable" senators caused a shitstorm today when he showed up to a 
 
 As of tonight we have 636 confirmed cases (+84) and 38 deaths (+3). 
 
+### Thursday, March the 26th
+
+Thankfully, nothing exceptionally stupid from the government today. 
+
+Another senator has announced that he has been diagnosed positive though. And a VP loser, rumored to have been flown to Singapore due to possible severe Covid symptoms, was forced to issue a statement, this time inviting criticism due to him and his family and staff allegedly getting prioritized with tests.
+
+As of tonight we have 707 confirmed cases (+71) and 45 deaths (+7). The world is also a sliver away from 500k cases.
+
 To be continued...

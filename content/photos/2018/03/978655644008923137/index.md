@@ -4,6 +4,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/978655644008923137/
+title: ''
 ---
-
-https://t.co/Ad7xBMoO0Z

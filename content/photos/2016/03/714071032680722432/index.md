@@ -7,6 +7,7 @@ syndicated:
 tags:
 - fallout4
 - PS4share
+title: ''
 ---
 
-Piper is the most useful companion since she was one of the X-men #fallout4 #PS4share https://t.co/OXrGUV8zTk
+Piper is the most useful companion since she was one of the X-men #fallout4 #PS4share

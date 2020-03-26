@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/449166717923516416/
+title: ''
 ---
 
-RT [@RonJeffries](https://twitter.com/RonJeffries/): are you not getting all you take on finished?
+are you not getting all you take on finished?
+
+
 
 THEN TAKE ON LESS

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/316811926095155200/
+title: ''
 ---
 
-RT [@rapplerdotcom](https://twitter.com/rapplerdotcom/): [TOP STORY] A first in history: Investment grade rating for PH https://www.rappler.com/business/economy-watch/24936-a-first-investment-grade-rating-for-ph
+[TOP STORY] A first in history: Investment grade rating for PH http://rplr.co/Yeo0zQ
