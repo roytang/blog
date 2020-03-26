@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [Do you ever feel like you put on a mask when going out and socializing?](https://www.quora.com/Do-you-ever-feel-like-you-put-on-a-mask-when-going-out-and-socializing/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Thereís a saying (I first encountered a version of it in the novel Shogun): ìThe Japanese say you have three faces. The first face, you show to the world. The second face, you show to your close friends, and your family. The third face, you never show anyone. It is the truest reflection of who you are.î</p><p class="ui_qtext_para u-ltr u-text-align--start">Itís a simplification, and it doesnít apply only to the Japanese. People choose how to present themselves to different audiences. This is because no matter how self-confident we are, on some level we still crave other peopleís approval, so we tailor how we present ourselves depending on what we perceive the audience we face will approve of.</p></span>
+> [Do you ever feel like you put on a mask when going out and socializing?](https://www.quora.com/Do-you-ever-feel-like-you-put-on-a-mask-when-going-out-and-socializing/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">There‚Äôs a saying (I first encountered a version of it in the novel Shogun): ‚ÄúThe Japanese say you have three faces. The first face, you show to the world. The second face, you show to your close friends, and your family. The third face, you never show anyone. It is the truest reflection of who you are.‚Äù</p><p class="ui_qtext_para u-ltr u-text-align--start">It‚Äôs a simplification, and it doesn‚Äôt apply only to the Japanese. People choose how to present themselves to different audiences. This is because no matter how self-confident we are, on some level we still crave other people‚Äôs approval, so we tailor how we present ourselves depending on what we perceive the audience we face will approve of.</p></span>

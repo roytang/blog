@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [How do you form a habit quickly even if you are reluctant?](https://www.quora.com/How-do-you-form-a-habit-quickly-even-if-you-are-reluctant/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Try to replace a bad habit in your life. For example, if you are a smoker every time you feel like taking a smoke instead do "New Habit X" or something</p></span>
+> [How do you form a habit quickly even if you are reluctant?](https://www.quora.com/How-do-you-form-a-habit-quickly-even-if-you-are-reluctant/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Try to replace a bad habit in your life. For example, if you are a smoker every time you feel like taking a smoke instead do "New Habit X" or something</p></span>

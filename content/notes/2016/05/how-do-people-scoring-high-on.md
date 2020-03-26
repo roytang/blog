@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [How do people scoring high on IQ tests think to solve problems?](https://www.quora.com/How-do-people-scoring-high-on-IQ-tests-think-to-solve-problems/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Often it will be a matter of differences in experiences and perspectives. Typically, people scoring high on IQ tests are more used to thinking out of the box or approaching problems from different perspectives, enabling them to see more possible solutions than people with a narrower focus. Also, practice matters. If you are more used to solving different kinds of problems, you will have more experience to draw on when approaching a new kind of problem, and problems that are similar to ones you have encountered before will be much easier.</p></span>
+> [How do people scoring high on IQ tests think to solve problems?](https://www.quora.com/How-do-people-scoring-high-on-IQ-tests-think-to-solve-problems/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Often it will be a matter of differences in experiences and perspectives. Typically, people scoring high on IQ tests are more used to thinking out of the box or approaching problems from different perspectives, enabling them to see more possible solutions than people with a narrower focus. Also, practice matters. If you are more used to solving different kinds of problems, you will have more experience to draw on when approaching a new kind of problem, and problems that are similar to ones you have encountered before will be much easier.</p></span>

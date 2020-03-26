@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [Can I create a moderately simple back-end for the application / web site without knowing programming?](https://www.quora.com/Can-I-create-a-moderately-simple-back-end-for-the-application-web-site-without-knowing-programming/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It depends on what you mean by ìmoderately simpleî and ìwithout knowing programmingî. If you only need to be build a simple CRUD website with no special logic of any sort, some frameworks such as RoR or Django have code generators that can automate all of that for you, but you have to provide the data structure first, which youíll need to write in code, so it involves a ìlittleî programming. If even that is too much for you, you can build some simple forms using online tools similar to Google Forms to capture input from users.</p><p class="ui_qtext_para u-ltr u-text-align--start">Anything more complicated than simple forms to capture data will probably require programming</p></span>
+> [Can I create a moderately simple back-end for the application / web site without knowing programming?](https://www.quora.com/Can-I-create-a-moderately-simple-back-end-for-the-application-web-site-without-knowing-programming/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It depends on what you mean by ‚Äúmoderately simple‚Äù and ‚Äúwithout knowing programming‚Äù. If you only need to be build a simple CRUD website with no special logic of any sort, some frameworks such as RoR or Django have code generators that can automate all of that for you, but you have to provide the data structure first, which you‚Äôll need to write in code, so it involves a ‚Äúlittle‚Äù programming. If even that is too much for you, you can build some simple forms using online tools similar to Google Forms to capture input from users.</p><p class="ui_qtext_para u-ltr u-text-align--start">Anything more complicated than simple forms to capture data will probably require programming</p></span>

@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [How can I be an SQL expert?](https://www.quora.com/How-can-I-be-an-SQL-expert/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">The same way you become an expert in any other field - study, practice, and learn from experience. Study SQL. Work in a job that involves writing a lot of SQL. Write complicated reports and queries. Optimize your queries. Study how other people write complicated queries. Mastery comes with time and practice</p></span>
+> [How can I be an SQL expert?](https://www.quora.com/How-can-I-be-an-SQL-expert/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">The same way you become an expert in any other field - study, practice, and learn from experience. Study SQL. Work in a job that involves writing a lot of SQL. Write complicated reports and queries. Optimize your queries. Study how other people write complicated queries. Mastery comes with time and practice</p></span>

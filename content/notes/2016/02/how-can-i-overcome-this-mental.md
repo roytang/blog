@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [How can I overcome this mental block of "not knowing what to do" as a self-employed worker?](https://www.quora.com/How-can-I-overcome-this-mental-block-of-not-knowing-what-to-do-as-a-self-employed-worker/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">By "capable of so much more" do you mean you want to be able to grow your business to earn more? Or do you want to be more involved in your business?</p><p class="ui_qtext_para u-ltr u-text-align--start">I would suggest setting up goals. Even small goals is fine, the more precise the better, i.e. instead of "earn 10% more this month" it's better to have it be "land 1 additional client this month" or "sell 10 more units this week". Keep a journal of what works and what doesn't towards your goals. Then iterate over those goals and slowly increase the scope.</p></span>
+> [How can I overcome this mental block of "not knowing what to do" as a self-employed worker?](https://www.quora.com/How-can-I-overcome-this-mental-block-of-not-knowing-what-to-do-as-a-self-employed-worker/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">By "capable of so much more" do you mean you want to be able to grow your business to earn more? Or do you want to be more involved in your business?</p><p class="ui_qtext_para u-ltr u-text-align--start">I would suggest setting up goals. Even small goals is fine, the more precise the better, i.e. instead of "earn 10% more this month" it's better to have it be "land 1 additional client this month" or "sell 10 more units this week". Keep a journal of what works and what doesn't towards your goals. Then iterate over those goals and slowly increase the scope.</p></span>

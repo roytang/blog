@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [In simple words, how do you explain to a non-engineer (like a doctor or a scientist) what a Full Stack Developer does?](https://www.quora.com/In-simple-words-how-do-you-explain-to-a-non-engineer-like-a-doctor-or-a-scientist-what-a-Full-Stack-Developer-does/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Itís probably really easy to explain it to a doctor, since they have specialties in their field too. ìItís like if you used to be a dermatologist, but now you handle internal medicine tooî</p></span>
+> [In simple words, how do you explain to a non-engineer (like a doctor or a scientist) what a Full Stack Developer does?](https://www.quora.com/In-simple-words-how-do-you-explain-to-a-non-engineer-like-a-doctor-or-a-scientist-what-a-Full-Stack-Developer-does/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It‚Äôs probably really easy to explain it to a doctor, since they have specialties in their field too. ‚ÄúIt‚Äôs like if you used to be a dermatologist, but now you handle internal medicine too‚Äù</p></span>

@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [My old coworkers keep calling me everyday. I got a new job and left due to the stress. What should I do?](https://www.quora.com/My-old-coworkers-keep-calling-me-everyday-I-got-a-new-job-and-left-due-to-the-stress-What-should-I-do/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Tell them. ìHey you know, I really enjoy our chats, but to be honest I donít really want to talk about the old job anymore. That part of my life is done, you know? I donít want to think about it anymore and move on professionally. So Iíd appreciate if we keep work out of our chats, Iím sure youíll understand, right?î</p></span>
+> [My old coworkers keep calling me everyday. I got a new job and left due to the stress. What should I do?](https://www.quora.com/My-old-coworkers-keep-calling-me-everyday-I-got-a-new-job-and-left-due-to-the-stress-What-should-I-do/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Tell them. ‚ÄúHey you know, I really enjoy our chats, but to be honest I don‚Äôt really want to talk about the old job anymore. That part of my life is done, you know? I don‚Äôt want to think about it anymore and move on professionally. So I‚Äôd appreciate if we keep work out of our chats, I‚Äôm sure you‚Äôll understand, right?‚Äù</p></span>

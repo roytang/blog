@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [What's wrong with this python variable?](https://www.quora.com/Whats-wrong-with-this-python-variable/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">which will change the value of variable ìpeso_lunaî &lt;- this doesnít happen inside your loop. Just because you made the assignment ìpeso_luna = peso * 0.165î once doesnít mean it gets evaluated all the time</p></span>
+> [What's wrong with this python variable?](https://www.quora.com/Whats-wrong-with-this-python-variable/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">which will change the value of variable ‚Äúpeso_luna‚Äù &lt;- this doesn‚Äôt happen inside your loop. Just because you made the assignment ‚Äúpeso_luna = peso * 0.165‚Äù once doesn‚Äôt mean it gets evaluated all the time</p></span>

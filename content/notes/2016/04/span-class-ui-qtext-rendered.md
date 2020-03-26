@@ -10,9 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [
-<span class="ui_qtext_rendered_qtext">My boss invited all of us to his wedding, however, fot several reasons, I don't feel like going. Is it wrong?</span>](https://www.quora.com/My-boss-invited-all-of-us-to-his-wedding-however-for-several-reasons-I-dont-feel-like-going-Is-it-wrong/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext">My boss invited all of us to his wedding, however, fot several reasons, I don't feel like going. Is it wrong?</span>
+> [<span class="ui_qtext_rendered_qtext">My boss invited all of us to his wedding, however, fot several reasons, I don't feel like going. Is it wrong?</span>](https://www.quora.com/My-boss-invited-all-of-us-to-his-wedding-however-for-several-reasons-I-dont-feel-like-going-Is-it-wrong/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext">My boss invited all of us to his wedding, however, fot several reasons, I don't feel like going. Is it wrong?</span>

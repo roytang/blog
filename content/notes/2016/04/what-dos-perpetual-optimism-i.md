@@ -10,8 +10,5 @@ tags:
 ---
 
 Someone on [quora](https://quora.com) asked:
-
-> [What dos "perpetual optimism is a force multiplier" mean?](https://www.quora.com/What-dos-perpetual-optimism-is-a-force-multiplier-mean/answer/Roy-Tang)
-
-
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It means that optimism greatly improves your odds of success. It doesn't mean you'll never fail, but optimism helps you power through the failures until you get to the successes</p></span>
+> [What dos "perpetual optimism is a force multiplier" mean?](https://www.quora.com/What-dos-perpetual-optimism-is-a-force-multiplier-mean/answer/Roy-Tang)
+<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It means that optimism greatly improves your odds of success. It doesn't mean you'll never fail, but optimism helps you power through the failures until you get to the successes</p></span>
