@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/52366829057884160/
+title: ''
 ---
 
-RT [@TagoFabic](https://twitter.com/TagoFabic/): Breakdown of Time Spent in Web Development. http://su.pr/1L6XzU
+Breakdown of Time Spent in Web Development. http://su.pr/1L6XzU
