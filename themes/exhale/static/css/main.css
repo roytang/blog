@@ -690,7 +690,7 @@ td {
     overflow: hidden;
 }
 
-a.tag {
+a.tag, a.album {
     border: 1px var(--main-color) solid;
     border-radius: 4px;
     padding: 1px;
@@ -795,3 +795,4 @@ header h1, header p {
 .second_menu > ul > li:hover > a {
     color: white;
 }
+
