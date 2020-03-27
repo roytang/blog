@@ -1,5 +1,7 @@
 ---
-date: 2020-02-19 17:33:20+00:00
+albums:
+- instagram
+date: 2020-02-19 17:33:20
 source: twitter
 syndicated:
 - type: twitter
@@ -7,4 +9,3 @@ syndicated:
 - type: instagram
   url: https://www.instagram.com/p/B8wXtP2B6xr/
 ---
-

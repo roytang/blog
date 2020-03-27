@@ -1,4 +1,6 @@
 ---
+albums:
+- instagram
 date: 2019-12-21 11:23:06
 source: instagram
 syndicated:

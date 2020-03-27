@@ -1,4 +1,6 @@
 ---
+albums:
+- instagram
 categories: []
 date: 2019-11-27 00:00:00
 source: instagram

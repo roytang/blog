@@ -465,7 +465,7 @@ hr {
 
 div.image-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 33%);
+    grid-template-columns: 1fr;
 }
 
 div.image-list figure {
@@ -710,11 +710,6 @@ a.tag {
     border: 0;
 }
 
-.home div.image-list {
-    display: grid;
-    grid-template-columns: 1fr;
-}
-
 .main {
     padding-bottom: 2em;
 }
@@ -740,7 +735,7 @@ a.tag {
 }
 
 @media (min-width: 450px) {
-    .home div.image-list {
+    div.image-list {
         display: grid;
         grid-template-columns: repeat(auto-fill, 33%);
     }
@@ -767,4 +762,36 @@ header h1, header p {
 
 #TableOfContents > ul {
     list-style-type: none;
+}
+
+.second_menu > ul {
+    list-style-type: none;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(auto-fill, 6rem);
+    padding: 0;
+}
+
+.second_menu > ul > li {
+    border: 0;
+    border-bottom: 1px var(--second-color) solid;
+    text-align: center;
+}
+
+.second_menu > ul > li.active {
+    border: 1px var(--second-color) solid;
+    border-bottom: 0;
+}
+
+.second_menu > ul > li > a {
+    color: var(--second-color);
+}
+
+.second_menu > ul > li:hover {
+    background-color: var(--second-color);
+    color: white;
+}
+
+.second_menu > ul > li:hover > a {
+    color: white;
 }

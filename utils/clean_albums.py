@@ -26,6 +26,8 @@ def clean_quora():
                 has_changes = True
 
             curr_albums = post.get("albums", [])
+            if curr_albums is None:
+                curr_albums = []
             if len(curr_albums) > 0:
                 if mdfile.name != "index.md":
                     del post["albums"]
@@ -53,9 +55,23 @@ def clean_quora():
                         if "sketchdaily" in post.get("tags", []):
                             is_sketchbook = True
                         if is_sketchbook:
-                            if "sketchbook" not in post.get("albums", []):
-                                post["albums"] = post.get("albums", []).append("sketchbook")
+                            if "sketchbook" not in curr_albums:
+                                curr_albums.append("sketchbook")
+                                post["albums"] = curr_albums
                                 has_changes = True
+
+            tags = post.get("tags", [])
+            if tags is not None and "ps4share" in tags:
+                if "gaming" not in curr_albums:
+                    curr_albums.append("gaming")
+                    post["albums"] = curr_albums
+                    has_changes = True
+
+            for syn in post.get("syndicated", []):
+                if syn["type"] == "instagram" and "instagram" not in curr_albums:
+                    curr_albums.append("instagram")
+                    post["albums"] = curr_albums
+                    has_changes = True
 
             # Save the file.
             if has_changes:

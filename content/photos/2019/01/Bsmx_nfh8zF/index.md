@@ -1,6 +1,7 @@
 ---
 albums:
 - pickups
+- instagram
 date: 2019-01-13 23:05:35
 location: ''
 source: instagram

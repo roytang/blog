@@ -1,4 +1,6 @@
 ---
+albums:
+- gaming
 date: 2017-01-07 21:01:00
 source: facebook
 syndicated:

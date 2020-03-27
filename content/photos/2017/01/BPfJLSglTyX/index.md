@@ -1,6 +1,7 @@
 ---
 albums:
 - timeline
+- instagram
 date: 2017-01-20 05:43:48
 location: ''
 source: instagram

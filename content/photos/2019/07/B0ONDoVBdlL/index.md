@@ -1,4 +1,6 @@
 ---
+albums:
+- instagram
 date: 2019-07-22 07:12:12
 location: ''
 source: instagram

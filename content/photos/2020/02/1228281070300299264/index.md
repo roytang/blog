@@ -1,5 +1,7 @@
 ---
-date: 2020-02-14 11:33:22+00:00
+albums:
+- instagram
+date: 2020-02-14 11:33:22
 source: twitter
 syndicated:
 - type: twitter
@@ -8,4 +10,4 @@ syndicated:
   url: https://instagram.com/p/B8i3t3EhmHu/
 ---
 
-Kawilihan bakery, practically an institution of Anonas Street. IDK when it was established, but we bought our morning pandesal there everyday when I was a child, so imagine it's been there at least 40 years now 
+Kawilihan bakery, practically an institution of Anonas Street. IDK when it was established, but we bought our morning pandesal there everyday when I was a child, so imagine it's been there at least 40 years now

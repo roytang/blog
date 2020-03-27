@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article>
 <h3>Links Archive</h3>
-<em>Links shared from various places. I'll organize them someday.</em>
+<p class="sub">Links shared from various places. I'll organize them someday. You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
 
 {{ range (where .Site.RegularPages "Section" "links").GroupByDate "2006 January" }}
 <h3>{{ .Key }}</h3>

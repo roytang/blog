@@ -1,13 +1,15 @@
 {{ define "main" }}
-  <section class="h-feed">
-      {{ with .Params.description }}
-      <p class="p-name">{{ . | markdownify }}.</p>
-      {{ else }}
-      <p class="p-name">{{ .Title }}.</p>
-      {{ end }}
-      <p>You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
-      {{ range .Pages }}
-          <div class="home_item photos">
+<section class="second_menu">
+  <ul>
+    <li><a href="/photos">All Photos</a></li>
+    <li class="active">Albums</li>
+  </ul>
+</section>
+<section class="albums">
+    <p class="sub">You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
+    <div class="image-list">
+    {{ range .Pages }}
+        <article class="album_item">
             {{ $caption := .Title }}
             {{ $mainPermalink := .RelPermalink }}
             {{ $scratch := newScratch }}
@@ -17,6 +19,7 @@
                 {{ $scratch.Add "count" $count_for_page }}
             {{ end }}
             {{ $count := $scratch.Get "count" }}
+            <a href="{{ $mainPermalink }}"><span class="photo_label">{{ $caption | truncate 50 }} {{ if gt $count 1 }}({{ $count }} images){{ end }}</span></a>
             {{ range (first 1 .Pages) }}
                 {{ with .Resources.ByType "image" }}
                     {{ range (first 1 .) }}
@@ -24,8 +27,8 @@
                     {{ end }}
                 {{ end }}
             {{ end }}
-            <a href="{{ $mainPermalink }}"><span class="photo_label">{{ $caption | truncate 50 }} {{ if gt $count 1 }}({{ $count }} images){{ end }}</span></a>
-          </div>          
-      {{ end }}
+        </article>          
+    {{ end }}
+    </div>
 </section>
 {{ end }}

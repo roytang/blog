@@ -1,4 +1,6 @@
 ---
+albums:
+- instagram
 date: 2019-08-24 04:39:57
 geo: ''
 location: ''

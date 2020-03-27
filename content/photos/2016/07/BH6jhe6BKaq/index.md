@@ -1,4 +1,6 @@
 ---
+albums:
+- instagram
 categories: []
 date: 2016-07-16 01:02:22
 location: ''

@@ -1,4 +1,6 @@
 ---
+albums:
+- instagram
 date: 2017-04-18 05:08:36
 location: ''
 source: instagram

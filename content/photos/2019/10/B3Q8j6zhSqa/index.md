@@ -1,6 +1,7 @@
 ---
 albums:
 - sketchbook
+- instagram
 date: 2019-10-06 05:55:06
 source: instagram
 syndicated:
