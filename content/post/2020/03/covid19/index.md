@@ -293,4 +293,12 @@ Another senator has announced that he has been diagnosed positive though. And a 
 
 As of tonight we have 707 confirmed cases (+71) and 45 deaths (+7). The world is also a sliver away from 500k cases.
 
+### Friday, March the 27th
+
+Rumors have been circulating since the day before that a lockdown level up was in the works, perhaps as soon as this weekend. No such announcement came, and some admin people claimed it was fake news.
+
+RITM rolls back the positive diagnosis for a congressman, saying they made a clerical error.
+
+As of tonight, we have 803 confirmed cases (+96, biggest daily jump so far) and 54 deaths (+9, also biggest jump).
+
 To be continued...
