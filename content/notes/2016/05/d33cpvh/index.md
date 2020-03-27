@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-12 23:22:46
 reply_to:
   label: '''May 12th - Fences'' on /r/SketchDaily'

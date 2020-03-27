@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-01 18:02:34
 reply_to:
   label: '''June 1st - Genghis Khan'' on /r/SketchDaily'

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-19 14:15:17
 reply_to:
   label: '''June 19th - Literally'' on /r/SketchDaily'

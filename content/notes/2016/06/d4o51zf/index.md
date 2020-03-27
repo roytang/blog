@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-26 01:11:32
 reply_to:
   label: '''June 25th - Farmer''s Market'' on /r/SketchDaily'

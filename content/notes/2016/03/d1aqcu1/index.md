@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-23 17:45:50
 reply_to:
   label: a comment by hungryroy on 'March 23rd - XKCD' on /r/SketchDaily

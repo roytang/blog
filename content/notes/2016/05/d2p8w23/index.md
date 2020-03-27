@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-02 03:38:53
 reply_to:
   label: '''May 1st - World Building'' on /r/SketchDaily'

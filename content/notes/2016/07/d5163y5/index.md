@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-07-06 09:08:21
 reply_to:
   label: '''July 6th - Tiger Lilies'' on /r/SketchDaily'

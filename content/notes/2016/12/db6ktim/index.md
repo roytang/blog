@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-12-14 12:42:53
 reply_to:
   label: '''December 14th - Fair Isle Patterns'' on /r/SketchDaily'

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2013-12-17 00:00:00
 reply_to:
   label: '''DECEMBER XVIIth - I AM SPARTACUS'' on /r/SketchDaily'

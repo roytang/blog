@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-14 06:12:44
 reply_to:
   label: a comment by MST_DOESNT_NEGATE on 'June 13th - A Bathroom' on /r/SketchDaily

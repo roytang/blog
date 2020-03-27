@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-07 17:44:03
 reply_to:
   label: '''May 7th - The Met Gala: Manus x Machina: Fashion in an Age of Technology''

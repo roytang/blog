@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-27 14:13:34
 reply_to:
   label: a comment by RikkiTikkiTavinator on 'May 27th - Free Draw Friday' on /r/SketchDaily

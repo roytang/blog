@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-04 11:29:33
 reply_to:
   label: '''June 4th - Seashells'' on /r/SketchDaily'

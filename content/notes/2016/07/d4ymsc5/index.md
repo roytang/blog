@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-07-04 09:49:14
 reply_to:
   label: a comment by SpookyMaidment on 'July 4th - 1776' on /r/SketchDaily

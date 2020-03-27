@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-18 01:51:11
 reply_to:
   label: '''April 17th - Addiction'' on /r/SketchDaily'

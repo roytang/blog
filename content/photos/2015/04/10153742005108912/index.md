@@ -1,5 +1,6 @@
 ---
-album: pickups
+albums:
+- pickups
 date: 2015-04-29 19:18:00
 source: facebook
 syndicated:

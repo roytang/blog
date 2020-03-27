@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-02-23 00:00:00
 reply_to:
   label: '''February 23rd - Rickshaws'' on /r/SketchDaily'

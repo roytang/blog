@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-14 17:55:38
 reply_to:
   label: '''April 14th - Highly Stylized Almost Adorable Xenomorphs'' on /r/SketchDaily'

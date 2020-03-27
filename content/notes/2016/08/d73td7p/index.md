@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-08-31 10:27:57
 reply_to:
   label: '''August 31st - Airplanes'' on /r/SketchDaily'

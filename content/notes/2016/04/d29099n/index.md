@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-19 16:05:46
 reply_to:
   label: '''April 19th - Perspective Practice'' on /r/SketchDaily'

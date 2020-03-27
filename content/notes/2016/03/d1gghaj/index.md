@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-28 16:09:01
 reply_to:
   label: '''March 28th - Old Timey Barbershop'' on /r/SketchDaily'

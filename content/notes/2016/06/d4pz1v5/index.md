@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-27 16:03:21
 reply_to:
   label: '''June 27th - Popples'' on /r/SketchDaily'

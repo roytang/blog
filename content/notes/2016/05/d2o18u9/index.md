@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-01 02:50:37
 reply_to:
   label: '''April 30th - Arches'' on /r/SketchDaily'

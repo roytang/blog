@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-23 16:53:37
 reply_to:
   label: '''March 23rd - XKCD'' on /r/SketchDaily'

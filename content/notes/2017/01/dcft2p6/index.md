@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2017-01-15 01:24:32
 reply_to:
   label: '''January 14th - Self Portrait'' on /r/SketchDaily'

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-05 16:09:43
 reply_to:
   label: a comment by pebrain21 on 'May 5th - Mexico' on /r/SketchDaily

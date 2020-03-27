@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2013-12-16 00:00:00
 reply_to:
   label: '''December 16th - Cake'' on /r/SketchDaily'

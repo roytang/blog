@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2018-08-17 03:06:12
 reply_to:
   label: '''August 16th - Random'' on /r/SketchDaily'

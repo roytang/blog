@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-18 13:12:17
 reply_to:
   label: '''June 18th - Chess'' on /r/SketchDaily'

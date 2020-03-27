@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-09 17:19:35
 reply_to:
   label: '''April 9th - Hands'' on /r/SketchDaily'

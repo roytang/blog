@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-07-04 16:09:26
 reply_to:
   label: '''July 4th - 1776'' on /r/SketchDaily'

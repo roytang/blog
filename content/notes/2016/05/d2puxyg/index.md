@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-02 17:34:03
 reply_to:
   label: '''May 2nd - Hippies'' on /r/SketchDaily'

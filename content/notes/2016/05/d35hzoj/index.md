@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-14 18:54:49
 reply_to:
   label: '''May 14th - Random Wikipedia Article'' on /r/SketchDaily'

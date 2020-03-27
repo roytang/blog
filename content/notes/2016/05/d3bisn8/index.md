@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-19 13:02:34
 reply_to:
   label: '''May 19th - Cowboy Bebop'' on /r/SketchDaily'

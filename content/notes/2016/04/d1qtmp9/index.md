@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-05 16:04:40
 reply_to:
   label: '''April 5th - Upside Down'' on /r/SketchDaily'

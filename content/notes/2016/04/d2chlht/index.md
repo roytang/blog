@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-22 01:12:11
 reply_to:
   label: '''April 21st - Inefficiency'' on /r/SketchDaily'

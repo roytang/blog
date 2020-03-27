@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-16 14:00:48
 reply_to:
   label: '''May 16th - Trees'' on /r/SketchDaily'

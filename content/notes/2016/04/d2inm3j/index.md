@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-26 23:57:45
 reply_to:
   label: '''April 26th - Platypus'' on /r/SketchDaily'

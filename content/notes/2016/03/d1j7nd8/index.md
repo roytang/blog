@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-30 16:18:35
 reply_to:
   label: '''March 30th - Gnomes'' on /r/SketchDaily'

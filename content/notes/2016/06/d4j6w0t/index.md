@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-22 10:02:37
 reply_to:
   label: '''June 22nd - Beyblades'' on /r/SketchDaily'

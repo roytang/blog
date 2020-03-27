@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-26 20:51:42
 reply_to:
   label: '''May 26th - Galaxies'' on /r/SketchDaily'

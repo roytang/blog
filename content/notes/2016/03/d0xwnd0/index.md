@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-13 00:00:00
 reply_to:
   label: '''March 12th - Skulls'' on /r/SketchDaily'

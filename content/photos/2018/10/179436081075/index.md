@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2018-10-26 01:47:41
 source: tumblr
 syndicated:

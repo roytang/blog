@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-12-28 01:01:46
 reply_to:
   label: '''December 27th - Knitting'' on /r/SketchDaily'

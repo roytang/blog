@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-07 00:00:00
 reply_to:
   label: '''March 6th - Airships'' on /r/SketchDaily'

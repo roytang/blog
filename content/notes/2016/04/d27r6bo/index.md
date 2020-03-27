@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-18 17:36:29
 reply_to:
   label: '''April 18th - Cotton Candy'' on /r/SketchDaily'

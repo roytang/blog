@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-11-05 14:36:14
 reply_to:
   label: '''November 5th - Beauty and the Beast'' on /r/SketchDaily'

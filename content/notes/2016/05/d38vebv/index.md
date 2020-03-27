@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-17 15:19:34
 reply_to:
   label: '''May 17th - Bathing'' on /r/SketchDaily'

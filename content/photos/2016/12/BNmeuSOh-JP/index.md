@@ -1,5 +1,6 @@
 ---
-album: sketchbook
+albums:
+- sketchbook
 date: 2016-12-04 09:03:58
 location: ''
 source: instagram

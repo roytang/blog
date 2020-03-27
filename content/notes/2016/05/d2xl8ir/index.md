@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-08 17:15:31
 reply_to:
   label: '''May 8th - Stonehenge'' on /r/SketchDaily'

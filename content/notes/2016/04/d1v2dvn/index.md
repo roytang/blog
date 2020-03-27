@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-08 16:14:22
 reply_to:
   label: '''April 8th - FDF! Free Draw!'' on /r/SketchDaily'

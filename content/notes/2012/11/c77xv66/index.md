@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2012-11-28 00:00:00
 reply_to:
   label: '''November 27th - Fantasy Races'' on /r/SketchDaily'

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-18 15:47:55
 reply_to:
   label: '''May 18th - Visual Prompts'' on /r/SketchDaily'

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-14 06:14:15
 reply_to:
   label: a comment by modesthelen on 'June 13th - A Bathroom' on /r/SketchDaily

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-21 16:36:54
 reply_to:
   label: '''May 21st - Witchers'' on /r/SketchDaily'

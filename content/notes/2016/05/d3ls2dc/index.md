@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-27 14:35:42
 reply_to:
   label: a comment by Knightmarish96 on 'May 27th - Free Draw Friday' on /r/SketchDaily

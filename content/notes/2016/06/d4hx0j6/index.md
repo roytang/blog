@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-21 13:10:05
 reply_to:
   label: '''June 21st - Mollusks'' on /r/SketchDaily'

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-10-07 08:06:40
 reply_to:
   label: '''October 7th - Free Draw Friday'' on /r/SketchDaily'

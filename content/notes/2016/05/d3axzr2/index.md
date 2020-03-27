@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-18 23:59:38
 reply_to:
   label: a comment by KunoKillerkarpfen on 'May 18th - Visual Prompts' on /r/SketchDaily

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-25 20:43:46
 reply_to:
   label: '''May 25th - Flies'' on /r/SketchDaily'

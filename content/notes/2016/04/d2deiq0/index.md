@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-22 18:55:06
 reply_to:
   label: '''April 22nd - Free Draw Friday Earth Day!'' on /r/SketchDaily'

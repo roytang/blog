@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-11-18 12:19:31
 reply_to:
   label: a comment by I_B_Subbing on 'November 18th - Free Draw Friday' on /r/SketchDaily

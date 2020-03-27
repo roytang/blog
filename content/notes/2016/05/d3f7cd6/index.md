@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-22 14:39:19
 reply_to:
   label: '''May 22nd - Bobcats'' on /r/SketchDaily'

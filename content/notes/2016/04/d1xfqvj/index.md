@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-10 17:15:03
 reply_to:
   label: '''April 10th - Drapery'' on /r/SketchDaily'

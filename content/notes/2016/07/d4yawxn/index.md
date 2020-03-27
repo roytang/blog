@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-07-04 01:26:14
 reply_to:
   label: '''July 3rd - Draw a Political Cartoon'' on /r/SketchDaily'

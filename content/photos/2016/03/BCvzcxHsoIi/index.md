@@ -1,5 +1,6 @@
 ---
-album: sketchbook
+albums:
+- sketchbook
 date: 2016-03-09 14:12:55
 location: ''
 source: instagram
@@ -13,7 +14,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154422186298912:1
 - type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/49naie/march_9th_a_comic_strip_in_your_style/d0t9dtf/  
+  url: https://www.reddit.com/r/SketchDaily/comments/49naie/march_9th_a_comic_strip_in_your_style/d0t9dtf/
 tags:
 - sketchdaily
 ---

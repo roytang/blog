@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-07-05 16:05:55
 reply_to:
   label: '''July 5th - Lazy River'' on /r/SketchDaily'

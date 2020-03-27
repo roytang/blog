@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-11 16:26:30
 reply_to:
   label: '''April 11th - Les Miserables'' on /r/SketchDaily'

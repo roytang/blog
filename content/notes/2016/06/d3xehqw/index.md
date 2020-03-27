@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-05 23:42:42
 reply_to:
   label: '''June 5th - India'' on /r/SketchDaily'

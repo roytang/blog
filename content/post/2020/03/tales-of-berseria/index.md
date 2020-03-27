@@ -1,5 +1,6 @@
 ---
-album: gaming
+albums:
+- gaming
 date: 2020-03-07
 featuredResource:
   filename: 20200206161636_1.jpg

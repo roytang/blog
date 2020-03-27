@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-10 16:17:32
 reply_to:
   label: '''May 10th - Jewelery Box'' on /r/SketchDaily'

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-07-02 10:51:57
 reply_to:
   label: '''July 2nd - Hulk Versus ???'' on /r/SketchDaily'

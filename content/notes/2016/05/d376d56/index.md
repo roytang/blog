@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-16 05:17:44
 reply_to:
   label: '''May 15th - Motherhood'' on /r/SketchDaily'

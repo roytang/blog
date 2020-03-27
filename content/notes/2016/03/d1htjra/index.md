@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-29 16:15:33
 reply_to:
   label: '''March 29th - Marie Antoinette'' on /r/SketchDaily'

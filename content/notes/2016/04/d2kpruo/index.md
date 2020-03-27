@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-28 14:34:45
 reply_to:
   label: '''April 28th - Utopian Paradise'' on /r/SketchDaily'

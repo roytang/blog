@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-03 06:05:45
 reply_to:
   label: '''April 2nd - Monochromatic'' on /r/SketchDaily'

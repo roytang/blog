@@ -1,5 +1,6 @@
 ---
-album: sketchbook
+albums:
+- sketchbook
 date: 2016-08-17 00:04:00
 resources:
 - src: 14068746_1556998277942279_1232118679_n_10154827106978912.mp4

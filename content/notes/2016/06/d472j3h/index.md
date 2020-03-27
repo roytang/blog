@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-13 08:02:08
 reply_to:
   label: '''June 13th - A Bathroom'' on /r/SketchDaily'

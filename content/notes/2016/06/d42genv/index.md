@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-09 16:26:36
 reply_to:
   label: '''June 9th - Trilogy'' on /r/SketchDaily'

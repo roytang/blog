@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-20 16:00:07
 reply_to:
   label: '''April 20th - Doors'' on /r/SketchDaily'

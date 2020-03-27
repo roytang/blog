@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-08 16:49:54
 reply_to:
   label: '''June 8th - Astrology'' on /r/SketchDaily'

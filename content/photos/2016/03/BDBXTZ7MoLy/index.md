@@ -1,5 +1,6 @@
 ---
-album: sketchbook
+albums:
+- sketchbook
 date: 2016-03-16 09:53:18
 location: ''
 source: instagram
@@ -13,7 +14,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154446826693912:0
 - type: reddit
-  url: https://www.reddit.com/r/SketchDaily/comments/4an4ub/march_16th_the_rockettes/d11xv61/  
+  url: https://www.reddit.com/r/SketchDaily/comments/4an4ub/march_16th_the_rockettes/d11xv61/
 tags:
 - sketchdaily
 ---

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-29 23:41:21
 reply_to:
   label: '''May 29th - Angels'' on /r/SketchDaily'

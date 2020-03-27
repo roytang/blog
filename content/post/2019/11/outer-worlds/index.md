@@ -1,5 +1,6 @@
 ---
-album: gaming
+albums:
+- gaming
 date: 2019-11-26
 featuredResource:
   filename: The Outer Worlds_20191109171134.jpg

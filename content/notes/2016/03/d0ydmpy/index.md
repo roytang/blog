@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-14 00:00:00
 reply_to:
   label: '''March 13th - House of Cards'' on /r/SketchDaily'

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-14 08:01:17
 reply_to:
   label: '''June 14th - Penguins'' on /r/SketchDaily'

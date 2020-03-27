@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2018-12-05 02:01:08
 repost_source:
   name: zeddfrost

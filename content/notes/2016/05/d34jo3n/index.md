@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-13 21:12:57
 reply_to:
   label: '''May 13th - Free Draw Friday'' on /r/SketchDaily'

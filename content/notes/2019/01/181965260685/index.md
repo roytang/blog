@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2019-01-13 02:00:56
 repost_source:
   name: cantstopthinkingcomics

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-27 14:19:22
 reply_to:
   label: a comment by PopsicleMud on 'May 27th - Free Draw Friday' on /r/SketchDaily

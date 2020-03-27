@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-06 04:01:29
 reply_to:
   label: a comment by [deleted] on 'June 5th - India' on /r/SketchDaily

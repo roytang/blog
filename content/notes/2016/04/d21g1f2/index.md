@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-13 18:01:12
 reply_to:
   label: '''April 13th - Imaginary Maps'' on /r/SketchDaily'

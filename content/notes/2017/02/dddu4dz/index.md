@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2017-02-06 02:45:18
 reply_to:
   label: '''February 5th - Aquatic fantasy creatures!'' on /r/SketchDaily'

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-23 16:44:25
 reply_to:
   label: '''May 23rd - MerMay (Mermaids)'' on /r/SketchDaily'

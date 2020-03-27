@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-04 16:25:36
 reply_to:
   label: '''April 4th - Urban Vs Rural'' on /r/SketchDaily'

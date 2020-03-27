@@ -25,6 +25,38 @@ def clean_quora():
                 post["albums"] = [curr_album]
                 has_changes = True
 
+            curr_albums = post.get("albums", [])
+            if len(curr_albums) > 0:
+                if mdfile.name != "index.md":
+                    del post["albums"]
+                    has_changes = True
+                else:
+                    container = mdfile.parent
+                    img_found = False
+                    for img in container.glob("*.jpg"):
+                        img_found = True
+                        break
+                    for img in container.glob("*.png"):
+                        img_found = True
+                        break
+                    for img in container.glob("*.gif"):
+                        img_found = True
+                        break
+                    for img in container.glob("*.mp4"):
+                        img_found = True
+                        break
+                    if not img_found:
+                        del post["albums"]
+                        has_changes = True
+                    else:
+                        is_sketchbook = False
+                        if "sketchdaily" in post.get("tags", []):
+                            is_sketchbook = True
+                        if is_sketchbook:
+                            if "sketchbook" not in post.get("albums", []):
+                                post["albums"] = post.get("albums", []).append("sketchbook")
+                                has_changes = True
+
             # Save the file.
             if has_changes:
                 newfile = frontmatter.dumps(post)

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-06 16:27:44
 reply_to:
   label: '''June 6th - The New Pokemon Starters'' on /r/SketchDaily'

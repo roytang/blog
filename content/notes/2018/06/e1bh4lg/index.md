@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2018-06-26 13:47:40
 reply_to:
   label: a comment by viraelin on 'June 26th - Yoshitaka Amano' on /r/SketchDaily

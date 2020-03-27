@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-08 00:00:00
 reply_to:
   label: '''March 8th - The good old hockey game'' on /r/SketchDaily'

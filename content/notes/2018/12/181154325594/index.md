@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2018-12-16 02:00:56
 repost_source:
   name: zdarsky

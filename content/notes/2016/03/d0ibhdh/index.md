@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-01 00:00:00
 reply_to:
   label: '''February 29th - Karaoke'' on /r/SketchDaily'

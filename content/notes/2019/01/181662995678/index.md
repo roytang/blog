@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2019-01-03 02:00:50
 repost_source:
   name: brianmichaelbendis

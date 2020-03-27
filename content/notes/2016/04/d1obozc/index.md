@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-03 18:23:48
 reply_to:
   label: '''April 3rd - Chickens'' on /r/SketchDaily'

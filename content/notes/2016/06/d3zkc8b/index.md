@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-07 15:50:18
 reply_to:
   label: '''June 7th - Herpetology'' on /r/SketchDaily'

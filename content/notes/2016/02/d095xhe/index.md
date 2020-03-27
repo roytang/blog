@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-02-22 00:00:00
 reply_to:
   label: a comment by Powersimon on 'February 22nd - Passive Aggressive Cupcakes'

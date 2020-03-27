@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-09-19 16:36:27
 reply_to:
   label: '''September 19th - Genies'' on /r/SketchDaily'

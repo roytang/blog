@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2019-01-19 13:35:51
 repost_source:
   name: catchymemes

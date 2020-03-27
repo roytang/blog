@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-31 13:17:24
 reply_to:
   label: '''May 31st - A Cemetery'' on /r/SketchDaily'

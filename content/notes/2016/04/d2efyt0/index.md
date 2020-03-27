@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-23 17:28:12
 reply_to:
   label: '''April 23rd - Figure Drawing'' on /r/SketchDaily'

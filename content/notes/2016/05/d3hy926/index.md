@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-24 17:33:59
 reply_to:
   label: '''May 24th - Overwatch'' on /r/SketchDaily'

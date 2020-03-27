@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-05 15:46:01
 reply_to:
   label: '''May 5th - Mexico'' on /r/SketchDaily'

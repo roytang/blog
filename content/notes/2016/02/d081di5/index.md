@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-02-21 00:00:00
 reply_to:
   label: '''February 21st - Share Your Process'' on /r/SketchDaily'

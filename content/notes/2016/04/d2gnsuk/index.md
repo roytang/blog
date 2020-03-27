@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-25 15:58:24
 reply_to:
   label: '''April 25th - A Fancy Tea Set'' on /r/SketchDaily'

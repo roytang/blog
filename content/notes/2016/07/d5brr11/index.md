@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-07-14 10:13:23
 reply_to:
   label: '''July 14th - Bird week Day 5 - Shoebill'' on /r/SketchDaily'

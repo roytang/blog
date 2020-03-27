@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-30 18:36:28
 reply_to:
   label: '''May 30th - Heroes'' on /r/SketchDaily'

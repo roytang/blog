@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-16 12:30:11
 reply_to:
   label: '''June 16th - Carbonated Beverage'' on /r/SketchDaily'

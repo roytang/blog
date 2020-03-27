@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-27 14:12:38
 reply_to:
   label: a comment by Pyoh on 'May 27th - Free Draw Friday' on /r/SketchDaily

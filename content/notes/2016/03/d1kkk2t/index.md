@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-31 16:15:34
 reply_to:
   label: '''March 31st - Flower Buds'' on /r/SketchDaily'

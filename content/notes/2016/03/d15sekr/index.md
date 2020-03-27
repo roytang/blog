@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-20 00:00:00
 reply_to:
   label: '''March 19th - Human Proportions'' on /r/SketchDaily'

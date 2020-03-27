@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 archive_url: https://roytang.net/archive/videos/JIdnKBEwPHo.mp4
 date: 2016-11-30 01:39:12
 source: youtube

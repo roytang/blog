@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-21 16:41:56
 reply_to:
   label: a comment by labrys on 'May 21st - Witchers' on /r/SketchDaily

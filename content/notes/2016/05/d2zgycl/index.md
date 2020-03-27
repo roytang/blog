@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-10 03:01:35
 reply_to:
   label: '''May 9th - Three Dogs'' on /r/SketchDaily'

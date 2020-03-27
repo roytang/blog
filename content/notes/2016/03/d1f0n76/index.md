@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-27 06:23:09
 reply_to:
   label: '''March 26th - Draw from Life'' on /r/SketchDaily'

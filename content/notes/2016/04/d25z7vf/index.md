@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-17 03:52:51
 reply_to:
   label: '''April 16th - Gold'' on /r/SketchDaily'

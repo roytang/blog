@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-06 16:06:52
 reply_to:
   label: '''April 6th - Emotion'' on /r/SketchDaily'

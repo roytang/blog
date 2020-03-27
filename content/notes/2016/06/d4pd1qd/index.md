@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-27 02:48:50
 reply_to:
   label: '''June 26th - Ensign Checkov'' on /r/SketchDaily'

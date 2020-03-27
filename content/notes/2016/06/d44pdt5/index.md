@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-11 08:38:19
 reply_to:
   label: '''June 11th - Motorcycles'' on /r/SketchDaily'

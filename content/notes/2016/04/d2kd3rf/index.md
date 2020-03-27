@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-28 05:24:15
 reply_to:
   label: '''April 27th - Stone'' on /r/SketchDaily'

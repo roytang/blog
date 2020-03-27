@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-04 13:49:16
 reply_to:
   label: '''May 4th - May The Fourth be with You (Star Wars)'' on /r/SketchDaily'

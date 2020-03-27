@@ -1,5 +1,6 @@
 ---
-album: timeline
+albums:
+- timeline
 date: 2017-03-30 19:37:00
 source: facebook
 syndicated:

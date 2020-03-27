@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-02 15:49:05
 reply_to:
   label: '''June 2nd - Classic Rock Album Covers'' on /r/SketchDaily'

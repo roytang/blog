@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-28 15:41:15
 reply_to:
   label: '''May 28th - Self Portrait & Self Promotion'' on /r/SketchDaily'

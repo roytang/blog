@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-23 17:36:00
 reply_to:
   label: '''June 23rd - Pomegranates'' on /r/SketchDaily'

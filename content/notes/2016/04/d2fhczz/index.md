@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-24 16:43:01
 reply_to:
   label: '''April 24th - Shellfish'' on /r/SketchDaily'

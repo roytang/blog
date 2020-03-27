@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-15 16:57:59
 reply_to:
   label: '''June 15th - Gardens'' on /r/SketchDaily'

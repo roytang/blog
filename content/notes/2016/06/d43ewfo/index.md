@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-10 08:27:15
 reply_to:
   label: '''June 10th - Free Drawlogy Friday'' on /r/SketchDaily'

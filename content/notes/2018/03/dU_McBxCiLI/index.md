@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 archive_url: https://roytang.net/archive/videos/dU_McBxCiLI.mp4
 date: 2018-03-06 17:28:11
 source: youtube

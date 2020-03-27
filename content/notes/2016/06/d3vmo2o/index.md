@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-04 11:37:58
 reply_to:
   label: a comment by huseph on 'June 4th - Seashells' on /r/SketchDaily

@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-11 18:54:12
 reply_to:
   label: '''May 11th - The Church of the Flying Spaghetti Monster'' on /r/SketchDaily'

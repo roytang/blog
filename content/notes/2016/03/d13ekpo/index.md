@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-03-18 00:00:00
 reply_to:
   label: '''March 17th - Huskies'' on /r/SketchDaily'

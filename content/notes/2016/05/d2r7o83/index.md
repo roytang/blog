@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-03 16:56:33
 reply_to:
   label: '''May 3rd - Ants'' on /r/SketchDaily'

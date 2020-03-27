@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-20 20:39:29
 reply_to:
   label: '''June 20th - Summer/Winter'' on /r/SketchDaily'

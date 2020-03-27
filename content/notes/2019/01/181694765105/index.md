@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2019-01-04 02:00:44
 repost_source:
   name: thesuperheroesnetwork

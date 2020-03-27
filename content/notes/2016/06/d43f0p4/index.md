@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-06-10 08:34:04
 reply_to:
   label: a comment by 100CupsCoffee on 'June 10th - Free Drawlogy Friday' on /r/SketchDaily

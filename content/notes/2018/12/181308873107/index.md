@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2018-12-22 02:00:42
 repost_source:
   name: why-i-love-comics

@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2019-02-11 02:00:33
 repost_source:
   name: comicbookcovers

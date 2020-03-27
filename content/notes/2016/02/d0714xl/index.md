@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-02-20 00:00:00
 reply_to:
   label: '''February 20th - Serious Saturday: Two 10 Minute Figure Studies'' on /r/SketchDaily'

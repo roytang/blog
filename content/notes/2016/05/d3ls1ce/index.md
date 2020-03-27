@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-05-27 14:35:00
 reply_to:
   label: a comment by [deleted] on 'May 27th - Free Draw Friday' on /r/SketchDaily

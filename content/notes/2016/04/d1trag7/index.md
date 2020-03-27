@@ -1,5 +1,4 @@
 ---
-album: sketchbook
 date: 2016-04-07 17:06:21
 reply_to:
   label: '''April 7th - Robin'' on /r/SketchDaily'

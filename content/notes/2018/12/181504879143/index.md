@@ -1,5 +1,6 @@
 ---
-album: comicbooks
+albums:
+- comicbooks
 date: 2018-12-29 02:00:32
 repost_source:
   name: travisellisor
