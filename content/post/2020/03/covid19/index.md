@@ -21,7 +21,11 @@ This post will largely be about the effects of the COVID-19 virus on my country,
 
 I was originally going to write about the recent COVID-19 virus happenings during this week's weeknotes, but I ended up writing so many words about it, so I decided to make a separate type of post. And its a new type of post, one that I tagged under "diaries". The post is being published early on the 15th, but the intent is I will be updating this post as events unfold.
 
-### The story so far
+### January the 30th: First positive case in PH
+
+### March the 9th: President declares public health emergency
+
+### March 9th-March 11th
 
 Locally, our country had a very small number of confirmed cases coming into the last week, I think it was at around 20 or less before Sunday the 8th. And only 1 confirmed death. The president had previously addressed the country in some kind of incoherent drunken rant that didn't say much but was easily repurposed by internet memers into some kind of spoken word poetry. 
 
@@ -29,7 +33,7 @@ There is a shortage of face masks. People are reminded to wash their hands regul
 
 But during this week, more and more cases were reported, in ever-increasing quantities. As of Saturday (the 14th) night, we were up to 111 confirmed cases and I think 8 deaths, with 40+ reported during that day alone. That fatality rate of around 7%, is way higher than the global 1-3%, which is a good indicator of how many unreported cases we probably have locally, due to the severe lack of testing.
 
-### Thursday, March the 12th
+### Thursday, March the 12th: Lockdown announced
 
 The explosive growth in cases finally made the government take drastic action; around Thursday lunchtime, rumors started circulating in online circles that the authorities were planning a lockdown of the National Capital Region. This included a leaked memo listing the recommendations that the president would have to decide on. Many details were not known, like what exactly would happen in such a lockdown. What we did know was that the lockdown would start reportedly start on Sunday, the 15th and would last for 30 days.
 
@@ -107,7 +111,7 @@ Minor annoyance: social media people who say we should just obey without questio
 
 Regardless, my intent is just to stay at home as much as possible. 
 
-### Sunday, March the 15th
+### Sunday, March the 15th 
 
 I heard mass online through the [facebook page of the Quiapo Church](https://www.facebook.com/quiapochurch/).
 
@@ -129,7 +133,7 @@ I haven't left the house since the grocery run on Friday. I'm considering resumi
 
 Here are some handy trackers: https://ncovtracker.doh.gov.ph/ and https://covid19ph.com/
 
-### Monday, March the 16th
+### Monday, March the 16th: Enhanced community quarantine announced
 
 As expected, throngs of people out in the streets trying to commute to work. So much for social distancing. 
 
@@ -300,5 +304,21 @@ Rumors have been circulating since the day before that a lockdown level up was i
 RITM rolls back the positive diagnosis for a congressman, saying they made a clerical error.
 
 As of tonight, we have 803 confirmed cases (+96, biggest daily jump so far) and 54 deaths (+9, also biggest jump).
+
+### Saturday, March the 28th
+
+Abuzz on the internets yesterday was the exchange between a science-student turned journalist and a infectious disease specialist consulting with the DOH, who sparred over some facts. The journalist was asking why we had tested so few people compared to other nearby countries of similar economic standing, but the doctor insisted the official numbers were much higher - except he was actually talking about number of tests conducted, not number of people tested, which was the comparison being made. This particular doctor had over the past few days established a reputation for being quite arrogant and self-centered, and dismissive of people who aren't "experts". Probably not the best person to be talking for the DOH (but he isn't actually an officially spokesperson - a DOH usec later confirmed the journalist's numbers were the official one).
+
+A lot of the more science-y folk in my monkeysphere are not very happy with this particular doctor and how he handles himself on social media, and one of my friends (with a background in molecular biology) even got blocked trying to ask him about the technicalities. Regardless, I try to avoid delving into his conversations too much anyway, as he is only a DOH consultant and not an official spokesperson.
+
+A lot of the things he are saying are counterproductive or non sequitur anyway. If I was a media person interviewing a Government or DOH spokesperson, the main question I would want asked would be:
+
+- between the time of the first confirmed case (January 30) and up to the lockdown of Metro Manila (roughly a 6 week period), what preparations did the DOH undertake to make sure we would have sufficient testing capacity, hospital capacity, and available PPEs for our health workers and other frontliners in case the virus spreads? 
+
+I realize looking into the past may not be the most productive thing at the moment, but if the government and the DOH want us to trust them, I think they need to acknowledge mistakes and lack of preparation. This helps us see that they know what went wrong and can adjust accordingly. Transparency begets trust, and the more trust we can have in our leadership, the easier it will be for the citizenry to bear the harsh burdens that the following weeks and/or months may entail.
+
+As of tonight, we are at 1075 cases (+272) and 68 deaths (+14), both the biggest daily jumps so far. Presumably the RITM are starting to burn through the testing backlog.
+
+Worldwide, we are past 650k cases. Jumped from 500k-600k in a day and a half.
 
 To be continued...
