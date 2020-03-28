@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/714682856900046848/
+title: ''
 ---
 
-RT [@Wolfrum](https://twitter.com/Wolfrum/): I like how "Revolution" has come to mean "Special Unicorn That Will Bring Everybody Love &amp; Happiness" rather than "A Fucking B…
+I like how "Revolution" has come to mean "Special Unicorn That Will Bring Everybody Love &amp; Happiness" rather than "A Fucking Bloodbath."

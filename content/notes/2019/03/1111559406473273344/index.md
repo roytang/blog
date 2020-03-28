@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1111559406473273344/
+title: ''
 ---
 
-RT [@jasonkarns](https://twitter.com/jasonkarns/): Bought a mechanical keyboard with more resistance so my code will be strongly typed.
+Bought a mechanical keyboard with more resistance so my code will be strongly typed.

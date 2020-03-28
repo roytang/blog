@@ -315,7 +315,7 @@ A lot of the things he are saying are counterproductive or non sequitur anyway. 
 
 - between the time of the first confirmed case (January 30) and up to the lockdown of Metro Manila (roughly a 6 week period), what preparations did the DOH undertake to make sure we would have sufficient testing capacity, hospital capacity, and available PPEs for our health workers and other frontliners in case the virus spreads? 
 
-I realize looking into the past may not be the most productive thing at the moment, but if the government and the DOH want us to trust them, I think they need to acknowledge mistakes and lack of preparation. This helps us see that they know what went wrong and can adjust accordingly. Transparency begets trust, and the more trust we can have in our leadership, the easier it will be for the citizenry to bear the harsh burdens that the following weeks and/or months may entail.
+I realize looking into the past may not be the most productive thing at the moment, but if the government and the DOH want us to trust them, I think they need to be able to acknowledge mistakes and lack of preparation. This helps us see that they know what went wrong and can adjust accordingly. Transparency begets trust, and the more trust we can have in our leadership, the easier it will be for the citizenry to bear the harsh burdens that the following weeks and/or months may entail.
 
 As of tonight, we are at 1075 cases (+272) and 68 deaths (+14), both the biggest daily jumps so far. Presumably the RITM are starting to burn through the testing backlog.
 

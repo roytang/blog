@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/847096324893769728/
+title: ''
 ---
 
-RT [@comicsalliance](https://twitter.com/comicsalliance/): New ‘Valerian and the City of a Thousand Planets’ Trailer Is as Wacky and Wild as You’d Imagine https://comicsalliance.com/valerian-trailer-luc-besson/…
+New ‘Valerian and the City of a Thousand Planets’ Trailer Is as Wacky and Wild as You’d Imagine http://trib.al/cCxRs2g

@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/317670972054441985/
+title: ''
 ---
 
-I think i might be in trouble https://t.co/4Q5iNm5Q6d
+I think i might be in trouble
