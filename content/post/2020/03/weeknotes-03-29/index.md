@@ -3,6 +3,7 @@ date: 2020-03-29
 slug: weeknotes-2020-03-29
 tags:
 - weeknotes
+- watching-lately
 title: Weeknotes 2020-03-29 Time Is Meaningless
 ---
 
@@ -23,12 +24,24 @@ On the upside, I did get to do much more stuff this work compared to last week, 
 - some cleanup/sorting of old files and stuff
 - did the groceries
 - paid my dad's credit card bills online (he was actually planning to go to the bank to pay them!)
-- watched [4 new movies](/page/lists/2020/movies/). Rate has slowed down a lot, but I figure I could get to a 100 for the year still
-- also started watching Picard (via Amazon Prime Video), since all the episodes are in
 
 ---
 
-Gaming: Since everyone's at home, I'm getting a lot of multiplayer gaming done. This week our gaming group got into team Starcraft 2 vs AI battles. (We find ladder too stressful!). Since we have discord these days for voice, there is much more coordination in the team battles. And we even have some post-match analysis going on in our discord channel!
+### Watching lately
+
+I think I'll retire the [watching lately tag](/tags/watching-lately/) and just include my media notes here in the weeknotes. More convenient, and more fine-tuned. Let's see how it works out.
+
+For this week:
+
+- watched [4 new movies](/page/lists/2020/movies/). Rate has slowed down a lot, but I figure I could get to a 100 for the year still. Princess Mononoke and Logan Lucky were particularly good
+- also started watching Picard (via Amazon Prime Video), since all the episodes have aired. I'm only a couple of episodes in, but I can already tell it has a completely different feel than TNG (or any of the TV series pre-Discovery for that matter)
+- greatly enjoyed Brooklyn Nine-Nine this week with JK Simmons!
+
+---
+
+### Gaming
+
+Since everyone's at home, I'm getting a lot of multiplayer gaming done. This week our gaming group got into team Starcraft 2 vs AI battles. (We find ladder too stressful!). Since we have discord these days for voice, there is much more coordination in the team battles. And we even have some post-match analysis going on in our discord channel!
 
 On the singleplayer side, I managed to finished Megaman 1 in the Legacy Collection! Easily the toughest of the early Megaman games. Here's [a video of me struggling to beat the yellow devil/cyclops](https://www.youtube.com/watch?v=MiWhBlrGiK8). I'm hoping to be able to beat all 6 of the games in the collection. I'm old and rusty and don't have the reflexes of 1990s Roy, but at least I have savescumming.
 
