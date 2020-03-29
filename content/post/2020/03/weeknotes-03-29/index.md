@@ -1,6 +1,11 @@
 ---
 date: 2020-03-29
 slug: weeknotes-2020-03-29
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103904182530128602
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1244101994492473344/
 tags:
 - weeknotes
 - watching-lately
