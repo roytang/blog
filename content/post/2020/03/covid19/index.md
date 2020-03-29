@@ -321,4 +321,16 @@ As of tonight, we are at 1075 cases (+272) and 68 deaths (+14), both the biggest
 
 Worldwide, we are past 650k cases. Jumped from 500k-600k in a day and a half.
 
+### Sunday, March the 29th
+
+We survived 2 weeks of quarantine/lockdown!
+
+I heard online mass again via the Quiapo Church facebook page. The priest reminds us that next Sunday is Palm Sunday, and thus next week is Holy Week. He says we just have two more weeks to go, but I am not as hopeful.
+
+It's hard to keep some of the seniors I live with under check. A couple of them went out for groceries without my knowing. I'm sure they're being careful, but that doesn't mean I won't be worried and anxious D:.
+
+Want to shout out some props to the OVP, they've been able to give support to the frontliners/health care workers even while running on donations and a limited budget. They've set up free transport routes, dorm rooms for those who want to stay near hospitals, and now they're partnering with fashion designers to make custom PPE clothes.
+
+As of tonight, we are at 1418 cases (+343) and 71 deaths (+3). We expect the cases to rise rapidly, given the increase in testing capacity, but we don't yet know where the ceiling is. Today's rate suggests doubling roughly every 3 days. 
+
 To be continued...
