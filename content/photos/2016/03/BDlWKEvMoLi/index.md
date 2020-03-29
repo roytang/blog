@@ -14,9 +14,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/715210978883809280/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154496202148912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4cju4u/march_30th_gnomes/d1j7nd8/
 tags:
 - bottlegnomes
 - sketchdaily
 ---
 
 Reinforcements... or refreshments? #sketchdaily #bottlegnomes
+
+(These are Bottle Gnomes from MTG. Reference: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389449)

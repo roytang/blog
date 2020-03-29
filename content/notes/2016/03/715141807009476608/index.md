@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/715141807009476608/
+title: ''
 ---
 
-RT [@MooseAllain](https://twitter.com/MooseAllain/): Quick reminder: April Fool’s Day has been moved to 2nd April because of the leap year.
+Quick reminder: April Fool’s Day has been moved to 2nd April because of the leap year.

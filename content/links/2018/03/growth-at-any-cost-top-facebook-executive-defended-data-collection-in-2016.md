@@ -8,4 +8,7 @@ link:
 slug: growth-at-any-cost-top-facebook-executive-defended-data-collection-in-2016
 source: pocket
 title: 'Growth At Any Cost: Top Facebook Executive Defended Data Collection In 2016'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/979540115625267200/
 ---

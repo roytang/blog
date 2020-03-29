@@ -9,8 +9,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/582357232240570369/
 tags:
-- rea
+- realtalk
+title: ''
 ---
 
-RT [@shanselman](https://twitter.com/shanselman/): People say "if you truly loved your job, you'd be energized coming back from vacation."
-Sure, but I like napping more. #rea…
+People say "if you truly loved your job, you'd be energized coming back from vacation."
+
+Sure, but I like napping more. #realtalk
