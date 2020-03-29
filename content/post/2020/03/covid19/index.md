@@ -331,6 +331,10 @@ It's hard to keep some of the seniors I live with under check. A couple of them 
 
 Want to shout out some props to the OVP, they've been able to give support to the frontliners/health care workers even while running on donations and a limited budget. They've set up free transport routes, dorm rooms for those who want to stay near hospitals, and now they're partnering with fashion designers to make custom PPE clothes.
 
+The DOH released a statement saying some of the test kits from China were faulty, but then rolled it back later (presumably not to offend China). 
+
+WHO and China are increasingly coming under scrutiny for misrepresenting figures and mishandling the crisis.
+
 As of tonight, we are at 1418 cases (+343) and 71 deaths (+3). We expect the cases to rise rapidly, given the increase in testing capacity, but we don't yet know where the ceiling is. Today's rate suggests doubling roughly every 3 days. 
 
 To be continued...
