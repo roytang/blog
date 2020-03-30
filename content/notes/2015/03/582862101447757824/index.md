@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/582862101447757824/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “Let go, or be dragged.” —Zen Proverb
+“Let go, or be dragged.” —Zen Proverb

@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/715571966057394176/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154496202148912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4cp39l/march_31st_flower_buds/d1kkk2t/
 tags:
 - sketchdaily
 ---

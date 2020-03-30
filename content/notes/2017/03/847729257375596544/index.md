@@ -8,10 +8,15 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/847729257375596544/
+title: ''
 ---
 
-RT [@Limericking](https://twitter.com/Limericking/): Mike Pence, an adult who is grown,
+Mike Pence, an adult who is grown,
+
 Cannot sit with women alone.
+
 However, he can
+
 Stand by an old man
-Whose fondness for gro…
+
+Whose fondness for groping is known.

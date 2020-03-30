@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1112294712570867713/
+title: ''
 ---
 
-RT [@ben_rosen](https://twitter.com/ben_rosen/): 90s scientists: we cloned a sheep! we landed a robot on mars!
+90s scientists: we cloned a sheep! we landed a robot on mars!
+
+
 
 scientists today: for the last time, the earth is *round*

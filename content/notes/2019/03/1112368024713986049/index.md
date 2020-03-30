@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1112368024713986049/
+title: ''
 ---
 
-RT [@MrAlanCooper](https://twitter.com/MrAlanCooper/): Software development is so NOT carpentry. Carpenters around the world get very consistent results from known materials, t…
+Software development is so NOT carpentry. Carpenters around the world get very consistent results from known materials, tools, and processes. 1 https://twitter.com/canis_veteris/status/1112157768146919425
