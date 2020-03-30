@@ -337,4 +337,28 @@ WHO and China are increasingly coming under scrutiny for misrepresenting figures
 
 As of tonight, we are at 1418 cases (+343) and 71 deaths (+3). We expect the cases to rise rapidly, given the increase in testing capacity, but we don't yet know where the ceiling is. Today's rate suggests doubling roughly every 3 days. 
 
+### Monday, March the 30th
+
+A press conference by the president was announced for 4PM today, presumably this is for the report required by the emergency powers law. I will update the time when that actually happens.
+
+So that not everything is doom and gloom, here are some (presumably good) things the admin is doing:
+
+- DOH expanded testing capabilities to 6 laboratories so far, and [there's a long list of other labs currently being accredited](https://www.facebook.com/OfficialDOHgov/posts/3188149711196259)
+- DOST says [120,000 locally-made test kits will be available by Apr 4](https://www.rappler.com/nation/256400-philippine-kits-coronavirus-tests-available-april-2020)
+- DOH says [1 million PPE sets are due to be delivered and distributed](https://news.mb.com.ph/2020/03/30/1-million-ppe-sets-worth-p1-8b-due-for-delivery-to-doh-for-distribution-to-health-workers/). Hopefully these aren't substandard quality and were not overpriced!
+
+Several friends have mentioned that they have viber/messenger chat groups for their local areas so I ask for advice if there's any for our barangay. Someone helpfully adds me to the viber group for QC, though I mute it almost immediately, as I (correctly) expect heavy volume there. I just want to have the channel available in case we need it later.
+
+Finally at around 1140pm, the promised presscon finally airs. It's pre-recorded, and rumor is it was already shot earlier and the day, no explanation for the long delay, but I would guess they had to find a decent/usable cut/take that didn't make him look too much like an idiot. I didn't watch, but here's the summary I got from friends (my comments in *italics*):
+
+- thanks frontliners *(finally! he was roundly criticized for not acknowleding them before)*
+- appeals to the private sector to contribute to this national emergency *(Pretty sure they've been doing that for the past 2 weeks)*
+- “We have allotted P200 billion for low income households who are badly affected by this crisis.” *(This is good, but still only an allocation, hopefully it's executed well)*
+- thanks those who silently helped
+- speaking about frontliners who died of COVID-19: Napaka swerte nila namatay sila para sa bayan. It will be an honor to die for the country. *(Maybe it's just me, but this feels at least a teeny bit insensitive)*
+- says he will crackdown on corruption in COVID-19 funds *(I'll believe it when I see it. Also, what about crackdown on VIPs who ask for priority testing and who violate quarantine?)*
+- thanks governments of China and Singapore as well as local businessmen for their contributions
+
+As of tonight, we are at 1546 cases (+128) and 78 deaths (+7). Low jump in cases today, have they already completed their backlog? We'll see what tomorrow brings!
+
 To be continued...
