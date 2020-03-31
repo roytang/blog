@@ -361,4 +361,14 @@ Finally at around 1140pm, the promised presscon finally airs. It's pre-recorded,
 
 As of tonight, we are at 1546 cases (+128) and 78 deaths (+7). Low jump in cases today, have they already completed their backlog? We'll see what tomorrow brings!
 
+### Tuesday, March the 31st
+
+Minutes from a meeting between the IATF and private sector representatives [were leaked online today](https://twitter.com/mlq3/status/1244827097610084353). Looks like they are recommending a two-week lockdown extension. Private sector people later [said it was just a brainstorming session](https://www.rappler.com/business/256541-philippine-chamber-commerce-industry-leaked-notes-government-businessmen-video-call-not-policy).
+
+Today, we got [a copy of the report the palace submitted](https://www.gmanetwork.com/news/news/nation/732016/duterte-s-first-report-to-congress-on-covid-19-response/story/) to congress as required by the emergency panel law. A lot of details in there.
+
+Former senator and 2016 VP loser Bongbong Marcos has declared he was found positive of COVID19. Same goes for DILG secretary Ano.
+
+Today, we are up to 2084 (+538) cases and 88 (+10) deaths. Despite a low bump yesterday, we still managed to double over 3 days. Let's see how the rest of the week goes...
+
 To be continued...
