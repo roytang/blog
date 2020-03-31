@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/451015355364671488/
+title: ''
 ---
 
-RT [@Lin_Manuel](https://twitter.com/Lin_Manuel/): If you make friends with solitude, your time with your real-life friends becomes a delightful bonus. APRIL TRUTH.
+If you make friends with solitude, your time with your real-life friends becomes a delightful bonus. APRIL TRUTH.

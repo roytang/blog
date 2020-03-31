@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/715820335128526849/
+title: ''
 ---
 
-RT [@DrunkenNovice](https://twitter.com/DrunkenNovice/): It's the day of the year when I'm most terrified. http://www.twogag.com/archives/3445
+It's the day of the year when I'm most terrified. http://www.twogag.com/archives/3445

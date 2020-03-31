@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/130178620440660
 ---
 
-Haven't played this in a while, but I didn't want to miss the chance to be near the top of the leaderboard lol http://i.imgur.com/web45.png
+Haven't played this in a while, but I didn't want to miss the chance to be near the top of the leaderboard lol

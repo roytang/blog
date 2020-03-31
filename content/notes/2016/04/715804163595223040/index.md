@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/715804163595223040/
+title: ''
 ---
 
-RT [@usdew](https://twitter.com/usdew/): April Fools Day is the one day of the year that people critically evaluate news articles before accepting them as true.
+April Fools Day is the one day of the year that people critically evaluate news articles before accepting them as true.
