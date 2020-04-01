@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/848508089011548160/
+title: ''
 ---
 
-RT [@jaicabajar](https://twitter.com/jaicabajar/): Actual meeting sa Malacañang https://t.co/REiPUpcuWf
+Actual meeting sa Malacañang

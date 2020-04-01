@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/980848498198249474/
+title: ''
 ---
 
-RT [@stttane_cK0_](https://twitter.com/stttane_cK0_/): セルってイケメンなのにストリートファッション似合わないね... https://t.co/B6xRqdGGwo
+セルってイケメンなのにストリートファッション似合わないね...
