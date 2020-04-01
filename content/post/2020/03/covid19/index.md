@@ -371,4 +371,32 @@ Former senator and 2016 VP loser Bongbong Marcos has declared he was found posit
 
 Today, we are up to 2084 (+538) cases and 88 (+10) deaths. Despite a low bump yesterday, we still managed to double over 3 days. Let's see how the rest of the week goes...
 
+### Wednesday, April the 1st
+
+I know it's April Fools Day, but there's nothing funny about today's events. I don't normally swear, but what a fucking shitshow.
+
+Sometime in the afternoon, a protest broke out at Sitio San Roque in Quezon City (near where my high school was), with the residents going out to the streets to complain about lack of food packs being distributed to them. These are urban poor-type people. Law-enforcement types came in to disperse them for violating quarantine, and violence broke out when people refused and complained. Multiple people were arrested. Arrested for complaining they were dying of hunger! The QC govt later issued a statement denying that relief goods had not been distributed to those areas and blamed instigators for causing trouble.
+
+Later, the NBI summoned a popular city mayor for questioning about an alleged violation of the Bayanihan Heal As One Act (aka the emergency powers bill aka the BaHO Act), because he violated the natgov order not to allow tricycles to ply the roads. The thing is, that happened way before the BaHO Act was passed, and the mayor appealed to the natgov to let them use tricycles and when that appeal was denied, the mayor complied with the directives. Targeting a very popular local gov official turned out to be a very unpopular move, unsurprisingly, and many just assumed the president was being insecure because this particular mayor was serving his city well and was making him look bad. This is such an idiotic move, not even particularly corrupt or evil or sinister as it doesn't really gain them anything; what purpose does it serve other than to make the people angry? An unforced error in a long line of unforced errors.
+
+Some people suggested it might be a sleight of hand - to distract us with things they are doing with the emergency funds prescribed by the BaHO act. Supposedly the 1.8B pesos worth of PPE sets being ordered by the DOH are overpriced, but they of course denied that. 
+
+And then there was this directive that all donations to the DOH and to govt hospitals need to be coursed through the OCD, and hospitals have to make their requests in writing. Many questioned this added layer of centralized bureaucracy and some openly speculated that this was so that the donations could be "repackaged" and distribution controlled by a particularly influential senator through his "Malasakit centers". If the idea is just to make sure all hospitals get served appropriately, perhaps a more prudent approach would have been for the DOH to continuously publish a priority list of hospitals with the most dire need of donations? The whole reason people are donating directly to the hospitals and hcws is the poor trust in the national government. Some have also suggested that this may be a way to exert some control over the OVP, which has been working hard to solicit donations and get supplies and support to hcws and other frontliners.
+
+The icing on the cake: at around 10pm, an unannounced live press conference by the president was aired where he warned the people to just obey, even if relief goods are delayed, promising they will not die of hunger. And for those who would violate quarantine or cause trouble, he implied that the law enforcement types should just shoot to kill.
+
+WTF. Think about that. People are anxious, worried, fearful, and most of all hungry and staving and you think the best move is to threaten them with violence and death? 
+
+Later, pictures came out of donated PPEs and face masks supposedly repackaged and branded as being from a certain senator. Unverified rumors also started to spread that certain private hospitals were raided to get their donations, so that they can be repackaged by the senator. These are yet unverified reports, the only evidence being screenshots of text convos between people who allegedly have first-hand knowledge. If it were true, one would think there would be images or video footage somewhere maybe? Someone I know asked her medical friends and they have no knowledge of such raids on the private hospitals. So maybe let's leave that for now. But I think it's a serious indictment of the trust in the natgov and that senator in particular that many people easily believe he could be behind such acts.
+
+Today, we are up to 2311 (+227) cases and 96 (+8) deaths. The slope is around the same as the past few days (slightly less), which seems to imply that the limiting factor is how many tests are being conducted?
+
+Sigh.
+
+### Thursday, April the 2nd
+
+I'm writing this at a bit past 4pm. Ever since Duterte's surprise address last night, #OUSTDUTERTENOW has been trending on Twitter, first locally to the Philippines, then worldwide at #1 (currently at 489k tweets). I took the liberty of taking a look of a few of the profiles using the hashtag, and as far as I can tell the traffic is organic; the accounts don't look like bots, they tweet about a lot of other things (honestly most of it seems to be korean fandom, so maybe they're young people), and aren't recently created egg accounts.
+
+Now, obviously I don't like Duterte as a president and think he's doing a terrible job. But I wish the Filipino people had chosen a better time to wisen up to his shortcomings than when we're in the middle of a pandemic. Even if somehow there were an orderly transition (not bloody likely), the discontinuity in administration is bound to cause friction and hiccups in our pandemic response. Unfortunately, the administration is pretty bad in their crisis control and have made multiple unforced errors (see yesterday's entry) that only increase the likelihood of social unrest and/or chaos. 
+
 To be continued...
