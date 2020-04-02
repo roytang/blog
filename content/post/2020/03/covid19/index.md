@@ -399,4 +399,20 @@ I'm writing this at a bit past 4pm. Ever since Duterte's surprise address last n
 
 Now, obviously I don't like Duterte as a president and think he's doing a terrible job. But I wish the Filipino people had chosen a better time to wisen up to his shortcomings than when we're in the middle of a pandemic. Even if somehow there were an orderly transition (not bloody likely), the discontinuity in administration is bound to cause friction and hiccups in our pandemic response. Unfortunately, the administration is pretty bad in their crisis control and have made multiple unforced errors (see yesterday's entry) that only increase the likelihood of social unrest and/or chaos. I would prefer we get past the current crisis first, then we exact accountability, but that may be wishful thinking...
 
+Thankfully, the rest of the day was relatively saner compared to yesterday. As of 7pm, I am slightly more optimistic about the country again.
+
+[Relief goods were finally distributed to the residents of Sitio San Roque.](https://twitter.com/inquirerdotnet/status/1245614612751331328)
+
+[The DILG Sec Ano has some sane words about the NBI's investigation of a popular mayor.](https://twitter.com/jeffcanoy/status/1245616090719195138) He also says they will crack down on other chief executives not following the IATF guidelines.
+
+A member of the Presidential Anti-Crime Competition floated the idea that the NBI should also investigate the OVP for "competing" against other government services. WTF? Later, the head of the PACC issued a statement saying that was not an official recommendation and the member was just expressing a personal opinion. 
+
+#OUSTDUTERTE vanished from the twitter trending lists by the time I woke up around lunch time, to be replace by typos like #OUSTDUTERE. Some are speculating it may be counter-ops by troll farms wishing to split the original hashtag. The funny thing is even the typo'd hashtag trended for a while!
+
+Since the lockdown started, we haven't gotten our regular newspaper delivery, so I've missed the opinion columns of some columnists I like such as Boo Chanco. I recently read a post of his on FB where he shared some thoughts from someone complaining how the government officials in charge had practically no knowledge of supply chain logistics, which made managing the quarantine much more difficult. Unfortunately when I checked his FB profile for the post, it could no longer be found! Either he set it to private due to being bashed by trolls or the person who shared the info asked him to take it down, maybe? 
+
+As of 7pm tonight, we are at 2633 (+322) cases and 107 (11) deaths. Still roughly the same curve. It's actually possible we do have this thing under control, given our death count so far hasn't been spiraling out of control like the US (who got their first cases much later than us). But we probably don't have an accurate count - there might be a lot of deaths going unreported as covid19-related due to not being tested, or poor people not even bothering to go to the hospitals, etc.
+
+I miss being able to go out. Not for hanging out with people, but just being able to take long walks and also to eat outside.
+
 To be continued...
