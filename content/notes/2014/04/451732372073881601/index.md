@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/451732372073881601/
+title: ''
 ---
 
-RT [@rands](https://twitter.com/rands/): The thing is, as a nerd, it's my joy to worry. I’m good at it.
+The thing is, as a nerd, it's my joy to worry. I’m good at it.

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/848770341988048896/
+title: ''
 ---
 
-RT [@cyclpsrock](https://twitter.com/cyclpsrock/): What year is it https://t.co/xhYWdRGWzk
+What year is it

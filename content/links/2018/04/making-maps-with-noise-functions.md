@@ -8,4 +8,7 @@ link:
 slug: making-maps-with-noise-functions
 source: pocket
 title: Making maps with noise functions
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/981211582444261376/
 ---

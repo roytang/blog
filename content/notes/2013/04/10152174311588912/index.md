@@ -7,4 +7,12 @@ syndicated:
 tags: []
 ---
 
-Me: Ma, iboboto mo ba si Bam Aquino? Ma: Ano ba nagawa nun? Me: Dati syang head ng National Youth Commission, nung time ni Glora Ma: Sus! Me: Tsaka kamukha nya si Ninoy. Yun ang importante.
+Me: Ma, iboboto mo ba si Bam Aquino? 
+
+Ma: Ano ba nagawa nun? 
+
+Me: Dati syang head ng National Youth Commission, nung time ni Glora 
+
+Ma: Sus! 
+
+Me: Tsaka kamukha nya si Ninoy. Yun ang importante.

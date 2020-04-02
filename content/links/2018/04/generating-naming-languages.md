@@ -8,4 +8,7 @@ link:
 slug: generating-naming-languages
 source: pocket
 title: Generating naming languages
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/981212790902935553/
 ---

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/319427873771495425/
+title: ''
 ---
 
-RT [@switchfollows](https://twitter.com/switchfollows/): worth a looksee: http://politi-ko.com/index.html
+worth a looksee: http://politi-ko.com/index.html

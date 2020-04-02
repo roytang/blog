@@ -8,4 +8,7 @@ link:
 slug: the-death-of-the-newsfeed-benedict-evans
 source: pocket
 title: "The death of the newsfeed \u2014 Benedict Evans"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/981021546050412551/
 ---
