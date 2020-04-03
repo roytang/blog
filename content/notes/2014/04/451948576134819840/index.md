@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/451948576134819840/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “Do not let the behavior of others destroy your inner peace.”
+“Do not let the behavior of others destroy your inner peace.”
+
 —Dalai Lama
