@@ -415,4 +415,16 @@ As of 7pm tonight, we are at 2633 (+322) cases and 107 (11) deaths. Still roughl
 
 I miss being able to go out. Not for hanging out with people, but just being able to take long walks and also to eat outside.
 
+### Friday, April the 3rd
+
+Overnight, the worldwide tally of cases broke past the 1,000,000 mark (doubling in around 5 days) and 50,000 deaths.
+
+A bit of good news: Late last night it was announced that mass testing of PUIs and PUMs is planned to start on April 14, so it's a solid step towards the mass testing everyone had been clamoring for.
+
+The mayor of QC issued a statement apologizing for her past statements on social media and for relief bags bearing her name. She still has a long way to go, but wow the ability to admit mistakes and apologize is super rare among politicians, and improves my trust rating of her and makes me see her more as someone just trying her best in a bad situation.
+
+We had another surprise episode of Late Night with Duterte tonight. Most of it was the usual seemingly drunken rant (a friend of ours showed the stream to a UK colleague and the comment was "he looks so wasted!"), including an appeal/threat to obey the police and trying to justify his earlier violent statements, etc. He also spent quite a lot of time picking on former senatorial candidate Chel Diokno, in a manner that made him look like a shallow playground bully, including commentary on appearance. A bit of a plot twist at the end when he castigated the PACC official who suggested to investigate the OVP for helping the people and announced he would be fired.
+
+As of tonight, we are at 3018 (+385) cases and 136 (29) deaths. Are deaths starting to accelerate?
+
 To be continued...
