@@ -417,7 +417,7 @@ I miss being able to go out. Not for hanging out with people, but just being abl
 
 ### Friday, April the 3rd
 
-Overnight, the worldwide tally of cases broke past the 1,000,000 mark, doubling in around 5 days.
+Overnight, the worldwide tally of cases broke past the 1,000,000 mark (doubling in around 5 days) and 50,000 deaths.
 
 A bit of good news: Late last night it was announced that mass testing of PUIs and PUMs is planned to start on April 14, so it's a solid step towards the mass testing everyone had been clamoring for.
 
