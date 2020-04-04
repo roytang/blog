@@ -10,6 +10,8 @@ My [COVID19 Diary](/2020/03/covid19/) is still ongoing, and I have yet to find a
 
 Today is Palm Sunday. I'm writing this early in the morning, so IDK yet how the church will adapt the usual fanfare to this whole pandemic thing.
 
+The summer heat has begun to settle in during the last few weeks of quarantine. I can't sit without a shirt or rest or my arms anywhere without sweat threatening to accumulate on the contact surface. Coincidentally around the first week of the lockdown, our aircon in the only airconditioned room in the house started making funny noises so we've stopped using it. At least we get to save electricty?
+
 ---
 
 Overall this week much less productive than the last. I felt a stronger tendency to "veg out" as it were. 
@@ -33,6 +35,10 @@ We did two online quiz nights again. I even managed to win one of them! These ar
   - I'm glad we got to revisit old friends like Seven of Nine, Data, Riker and Troi, and even Hugh, just to see what they've been up to. 
   - I must admit I felt a great deal of satisfaction when {{< spoiler class="spoiler_inline" >}}Riker shows up near the end with a whole armada (although realistically it seems logistically impossible for Starfleet to have put such a large number of top-of-the-line ships together so quickly){{< /spoiler >}}
 - only 1 new movie watched this week, the first of the Hobbit trilogy. I meant to watch all three, but you know, distractions happened.
+
+---
+
+Not many links to share today, but I will say that a new update to [Kicks Condor's Href Hunt](https://www.kickscondor.com/hrefhunt/) is out, and I'm still in the process of going through all the featured sites. If you like perusing people's personal sites, this one is always fun to check out, and the current release has a ton of sites!
 
 ---
 
