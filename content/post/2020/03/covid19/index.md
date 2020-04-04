@@ -429,7 +429,7 @@ As of tonight, we are at 3018 (+385) cases and 136 (29) deaths. Are deaths start
 
 ### Saturday, April the 4th
 
-Today was relatively uneventful, thanksfully.
+Today was relatively uneventful, thankfully.
 
 As of tonight, we are at 3094 (+76) cases and 144 (8) deaths. Virus taking a weekend break?
 

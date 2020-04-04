@@ -277,6 +277,12 @@ table.grid_archive a {
 }
 
 /* Spoiler shortcode */
+.spoiler_inline {
+    display: inline;
+}
+.spoiler_container {
+    background-color: black;
+}
 .spoiler {
     display: none;
 }

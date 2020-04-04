@@ -1,7 +1,7 @@
 {{ $id := .Inner | md5 }}
-<div class="spoiler_container">
+<div class='spoiler_container {{ with .Get "class"}}{{.}}{{ end }}'>
     <a class="spoiler_link" href="#spoiler-{{ $id }}">(Spoilers)</a> 
     <a class="spoiler_target" id="spoiler-{{ $id }}"></a>
-    <div class="spoiler">{{ .Inner }} <a href="#" class="hide_spoiler">Hide Spoilers</a></div>    
+    <div class="spoiler">{{ .Inner }} <a href="#spoiler-clear-{{ $id }}" class="hide_spoiler">Hide Spoilers</a></div>    
 </div>
 <p />
