@@ -23,7 +23,7 @@
             {{ range (first 1 .Pages) }}
                 {{ with .Resources.ByType "image" }}
                     {{ range (first 1 .) }}
-                    {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Name }}
+                    {{ partial "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) }}
                     {{ end }}
                 {{ end }}
             {{ end }}
