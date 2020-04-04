@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/452461010335461377/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “A good traveler has no fixed plans and is not intent on arriving”
+“A good traveler has no fixed plans and is not intent on arriving”
+
 —Lao Tzu

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/452309902178779136/
+title: ''
 ---
 
-RT [@saronyitbarek](https://twitter.com/saronyitbarek/): When you can't remember writing any of the code from a month ago but it's still crystal clear and you high five your pas…
+When you can't remember writing any of the code from a month ago but it's still crystal clear and you high five your past self

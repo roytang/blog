@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/584757504615120897/
+title: ''
 ---
 
-RT [@FioraAeterna](https://twitter.com/FioraAeterna/): Belmont: Mankind ill needs a savior such as you!
+Belmont: Mankind ill needs a savior such as you!
+
 Dracula: What is a man? A miserable little pile of secrets! But enou-
-Be…
+
+Belmont: NOT ALL MEN!

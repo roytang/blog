@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/849624219373654016/
+title: ''
 ---
 
-RT [@kottke](https://twitter.com/kottke/): The internet is photoshopping Mr. Bean into things and it's great https://kottke.org/17/04/the-internet-is-photoshopping-mr-bean-into-things-and-its-great
+The internet is photoshopping Mr. Bean into things and it's great http://kottke.org/17/04/the-internet-is-photoshopping-mr-bean-into-things-and-its-great
