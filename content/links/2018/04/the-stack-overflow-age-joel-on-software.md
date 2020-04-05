@@ -8,4 +8,7 @@ link:
 slug: the-stack-overflow-age-joel-on-software
 source: pocket
 title: "The Stack Overflow Age \u2013 Joel on Software"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/982265151968624642/
 ---

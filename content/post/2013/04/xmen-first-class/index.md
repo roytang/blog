@@ -5,6 +5,10 @@ source: ireadcomicbooks
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152178706118912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/320522864530964481/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/486540564745698
 tags:
 - comics
 title: X-Men First Class

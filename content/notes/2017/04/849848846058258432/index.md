@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/849848846058258432/
+title: ''
 ---
 
-RT [@MrValdez](https://twitter.com/MrValdez/): A look at wrestling from the point of view of someone who never watched wrestling. https://www.sbnation.com/2017/4/3/15147824/wrestlemania-33-recap-first-time-watching-wrestling-oh-my-good-lord
+A look at wrestling from the point of view of someone who never watched wrestling. http://www.sbnation.com/2017/4/3/15147824/wrestlemania-33-recap-first-time-watching-wrestling-oh-my-good-lord

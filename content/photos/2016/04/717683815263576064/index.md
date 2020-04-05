@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154515058788912
 ---
 
-PS4 now supports remote play on PC/Mac! https://t.co/BDm5ohkpks
+PS4 now supports remote play on PC/Mac!

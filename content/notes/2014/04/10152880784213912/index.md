@@ -7,4 +7,8 @@ syndicated:
 tags: []
 ---
 
-*while in the shoes and bag sale at the skydome*  Salesgirl: Sir sinturon po? Sale po!  /glare
+*while in the shoes and bag sale at the skydome*  
+
+Salesgirl: Sir sinturon po? Sale po!  
+
+/glare

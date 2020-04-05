@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/584893841326505984/
+title: ''
 ---
 
-RT [@elliesoderstrom](https://twitter.com/elliesoderstrom/): An important reminder about puns: https://t.co/8XV5JYeFp5
+An important reminder about puns:

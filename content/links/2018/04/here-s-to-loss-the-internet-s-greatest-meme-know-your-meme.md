@@ -8,4 +8,7 @@ link:
 slug: here-s-to-loss-the-internet-s-greatest-meme-know-your-meme
 source: pocket
 title: Here's to Loss, the Internet's Greatest Meme | Know Your Meme
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/982251128988434432/
 ---
