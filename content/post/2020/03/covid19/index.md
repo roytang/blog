@@ -431,6 +431,16 @@ As of tonight, we are at 3018 (+385) cases and 136 (29) deaths. Are deaths start
 
 Today was relatively uneventful, thankfully.
 
-As of tonight, we are at 3094 (+76) cases and 144 (8) deaths. Virus taking a weekend break?
+As of tonight, we are at 3094 (+76) cases and 144 (+8) deaths. Virus taking a weekend break?
+
+### Sunday, April the 5th
+
+We have completed three weeks of quarantine/lockdown! The original target end date for the lockdown was Apr 12th, but it seems highly probable that we will have an extension, at least until the end of April.
+
+Generally uneventful, though I would like to note that anecdotally I have been reading more stories about people who criticize the government accused of being communists/leftists rebels (as if complaining is exclusively the domain of the left!). There's even an infamous PCOO undersecretary accusing teachers at my high school alma mater of being CPP-NPA-NDF! I would guess the president's threats against the "left" has galvanized his base into painting critics with a common brush, giving them an enemy to hate in this crisis; convenient since the true enemy is invisible and cares not about your red-tagging. 
+
+In better news, a number of politicians, including some mayors and congressmen and even the president himself, have committed to donating part or all of their salaries to the relief operations. It may not be much, but it's something.
+
+As of tonight, we are at 3246 (+152) cases and 152 (+8) deaths. Let's see if the relatively lower numbers keep up during the coming week.
 
 To be continued...
