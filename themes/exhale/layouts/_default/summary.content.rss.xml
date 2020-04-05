@@ -1,4 +1,4 @@
-{{ .Summary | html }}
+{{ .Content | html }}
 {{ range .Resources.ByType "image" }}
 {{ $thumb := (.Resize "300x") }}
     <figure>
