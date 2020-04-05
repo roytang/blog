@@ -1,9 +1,14 @@
 ---
 date: 2020-04-05
 slug: weeknotes-2020-04-05
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103943818771480451
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1246638714177990656/
 tags:
 - weeknotes
-title: Weeknotes 2020-04-05 
+title: Weeknotes 2020-04-05
 ---
 
 My [COVID19 Diary](/2020/03/covid19/) is still ongoing, and I have yet to find a solution for the TOC.
