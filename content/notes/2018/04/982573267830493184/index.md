@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/982573267830493184/
 tags:
 - GPSeattle
+title: ''
 ---
 
-RT [@madolaf](https://twitter.com/madolaf/): Yas. #GPSeattle https://t.co/Es09883rZN
+Yas. #GPSeattle

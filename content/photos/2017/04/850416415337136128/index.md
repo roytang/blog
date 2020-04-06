@@ -12,4 +12,4 @@ P4: Guy Hunter
 P3: Joe Banana
 P5: Duke McFace
 
-...I'm not sure if I'm getting better at this naming thing https://t.co/6oPAMx73uZ
+...I'm not sure if I'm getting better at this naming thing

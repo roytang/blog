@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/982647755435749376/
+title: ''
 ---
 
-RT [@DAIROCKETTO](https://twitter.com/DAIROCKETTO/): this is definitely one of the most powerful images https://t.co/DaNlQmZKVQ
+this is definitely one of the most powerful images

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/56005741147996160/
+title: ''
 ---
 
-RT [@eranium](https://twitter.com/eranium/): CFO asks CEO "What happens if we invest in developing our people & then they leave us?" CEO:  'What happens if we don't, an ...
+CFO asks CEO "What happens if we invest in developing our people & then they leave us?" CEO:  'What happens if we don't, and they stay?"

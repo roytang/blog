@@ -8,4 +8,7 @@ link:
 slug: the-advantages-of-stealth-wealth-and-how-to-practice-it
 source: pocket
 title: The Advantages of Stealth Wealth and How to Practice It
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1114820195837718529/
 ---

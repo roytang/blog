@@ -8,4 +8,7 @@ link:
 slug: defining-a-distinguished-engineer
 source: pocket
 title: Defining a Distinguished Engineer
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1114820198224334851/
 ---

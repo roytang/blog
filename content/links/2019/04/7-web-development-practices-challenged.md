@@ -8,4 +8,7 @@ link:
 slug: 7-web-development-practices-challenged
 source: pocket
 title: 7 web development practices challenged
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1114880341150457856/
 ---

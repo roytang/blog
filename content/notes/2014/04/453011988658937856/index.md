@@ -11,6 +11,7 @@ syndicated:
 tags:
 - 'True'
 - Programming
+title: ''
 ---
 
-RT [@siavash](https://twitter.com/siavash/): Reading other people's code! #True #Programming https://t.co/9P6iNNXKU4
+Reading other people's code! #True #Programming
