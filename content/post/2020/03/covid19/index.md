@@ -480,7 +480,7 @@ It's Monday, so we have a new episode of Late Night with Duterte. As usual, I di
 > - We are inclined to extend the lockdown up to April 30.
 > 
 
-It looks like he is striking a softer tone than the last presscon, where it was like he wanted to pick a fight with everyone. Or maybe he's learning? Either way, at least he's getting better at communicating.
+It looks like he is striking a softer tone than the last presscon, where it was like he wanted to pick a fight with everyone. A lot of it still seems senseless and incoherent, but I guess there's a slight improvement? I prefer how the ntfcovid19ph is communicating.
 
 As of tonight, we are at 3660 (+414) cases and 163 (+11) deaths. For looking at how the trend has been adjusting since the start of the lockdown, my thesis adviser Luis Sison has been [posting some graphs regularly on Facebook.](https://www.facebook.com/luisgsison/posts/2905346532879075).
 
