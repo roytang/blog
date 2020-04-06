@@ -443,4 +443,47 @@ In better news, a number of politicians, including some mayors and congressmen a
 
 As of tonight, we are at 3246 (+152) cases and 152 (+8) deaths. Let's see if the relatively lower numbers keep up during the coming week.
 
+### Monday, April the 6th
+
+We are officially in week four of quarantine/lockdown!
+
+I think by this point, most people are already expecting an extension at least until the end of April. Even Chief Impelementer Galvez (of the  National Task Force Against COVID-19) is implying that's where the task force is leaning.
+
+Speaking of the task force, they have [a twitter](https://twitter.com/ntfcovid19ph)! They seem to be communicating better than other govt branches too, and they are [friends with the OVP apparently](https://twitter.com/ntfcovid19ph/status/1247098792848982016). Galvez is one of the bright spots in the govt fight against the virus, so far.
+
+This afternoon I went out to the nearby drugstore (around a 10-minute walk) to buy meds for my mom and maybe a tiny bit of groceries (the drugstore has a small grocery section). The drugstore had 3 short queues outside: one for regular transactions, one for senior/PWD transactions (this was the shortest line), and one for groceries (only 3 grocery people allowed inside at the same time). I was transacting for a senior, so I got to use the shortest line. Inside, what used to be the open counter of the pharmacy had a barrier of plastic wrap to separate the customers from the staff, with only a tiny hole to slide prescriptions and money and medicines across. Entire trip (including back and forth walk) took around an hour and a half.
+
+It's Monday, so we have a new episode of Late Night with Duterte. As usual, I didn't watch, but here's the summary I got from one of my chat groups:
+
+> - says poorest of the poor must receive gov’t assistance
+> - ₱100 billion for one month or the ₱270 billion for two months is not enough
+> - exploring adjustment of budgets
+> - asks for the cooperation of the public
+> - let’s heed the needs of our poor brothers and sisters
+> - on drug addicts: wag subukan ang gobyerno, ang gobyerno desperado na din (to solve the COVID-19 crisis)
+> - encourages everyone to wear masks
+> - nagdadasal ako para sa bayan
+> - kung may pera, d ko hawakan yan
+> - “it’s not my money d ko pwede nakawin, kung ma nakaw ko man, ano gawin ko sa pera na yan”
+> - if money allotted for next month is used now, no more money next month
+> - i want to give the poorest of the poor
+> - says Elly Pamatong “as president” instructs the military to catch Duterte
+> - Ako, I agree. Kung maaari lang, isali ko sila. (On adding middle class to social amelioration program)
+> - ang solusyon dito is vaccine
+> - itong problema natin, ang pang kontra nito is stay home, at wag ka mahawaan
+> - sana mapanood niyo yung Japanese
+> - hindi ko alam kung saan ako magkuha ng pera
+> - mas matindi ito sa gera, d mo makita kalaban, pati taliban takot sila
+> - Wag kang mahawa, mag-stay ka sa bahay. “pano pagkain namin?” maghanap ka ng paraan
+> - panawagan ko: be patient, intindihin niyo ang gobyerno, we’d appreciate it
+> - When the resources are all exhausted and the pandemic would claim millions of lives, I hope, really, and I pray that it would not. Pero kung ganun, wala na ako magawa.
+> - We are inclined to extend the lockdown up to April 30.
+> 
+
+It looks like he is striking a softer tone than the last presscon, where it was like he wanted to pick a fight with everyone. Or maybe he's learning? Either way, at least he's getting better at communicating.
+
+As of tonight, we are at 3660 (+414) cases and 163 (+11) deaths. For looking at how the trend has been adjusting since the start of the lockdown, my thesis adviser Luis Sison has been [posting some graphs regularly on Facebook.](https://www.facebook.com/luisgsison/posts/2905346532879075).
+
+
+
 To be continued...
