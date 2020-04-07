@@ -7,4 +7,12 @@ syndicated:
 tags: []
 ---
 
-It's odd, but I often have conversations with taxi drivers that go like:  "Sa Tandang Sora po ako" "Saan sa Tandang Sora?" "Sa may Visayas po"  Then later during the ride when we get to Visayas they're going to ask where along Visayas I'm going to get off. It's like in their head "sa may Visayas" translates to "along Visayas, please completely disregard what I just said about Tandang Sora"
+It's odd, but I often have conversations with taxi drivers that go like:  
+
+"Sa Tandang Sora po ako" 
+
+"Saan sa Tandang Sora?" 
+
+"Sa may Visayas po"  
+
+Then later during the ride when we get to Visayas they're going to ask where along Visayas I'm going to get off. It's like in their head "sa may Visayas" translates to "along Visayas, please completely disregard what I just said about Tandang Sora"

@@ -11,6 +11,7 @@ syndicated:
 tags:
 - reddit
 - flipboard
+title: ''
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): The Outlook is bleak [r/AdviceAnimals] http://e.lvme.me/qlzcvfl.jpg #reddit #flipboard
+The Outlook is bleak [r/AdviceAnimals] http://bit.ly/Oz8trQ #reddit #flipboard

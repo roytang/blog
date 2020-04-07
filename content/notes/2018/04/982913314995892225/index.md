@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/982913314995892225/
+title: ''
 ---
 
-RT [@usefulcharts](https://twitter.com/usefulcharts/): Made this chart last year as a Kickstarter award but am now making the image available as a free download. Just right cli…
+Made this chart last year as a Kickstarter award but am now making the image available as a free download. Just right click and save and feel free to share.
