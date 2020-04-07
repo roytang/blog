@@ -488,6 +488,10 @@ As of tonight, we are at 3660 (+414) cases and 163 (+11) deaths. For looking at 
 
 The lockdown/ECQ has officially been extended until the end of April.
 
+I did a grocery run today with my dad. He went to the bank while I did the grocery shopping. There's still a decent number of people in the grocery, despite them limiting entry. Proper social distancing is probably impossible. I mean, if implemented properly, each aisle of the grocery is only wide enough for one person, so that means waiting patiently while the lady in front of you slowly goes through the items on the shelves. I tried to minimize getting too close unnecessarily of course, but it's a challenge. For me, that means I'll be anxious for the next week or so in case any symptoms appear.
+
+The small Pizza Hut in the grocery building was open and doing takeout, but I only noticed when I was done, and there was a 30-45 minute wait. Should remember next time.
+
 Of interest: [Duterte's timeline of incompetence post by JGS-UPD](https://www.facebook.com/media/set/?set=a.4442633659095731&type=3%3Fsfnsn%3Dmo). I was thinking of incorporating something like this into this diary.
 
 Word is that the defendants being represented by Chel Diokno after they were subpoena'ed by the NBI were investigated [because of a social media post asking why the government doesn't have money for healthcare when they have P2B for a gulfstream jet](https://twitter.com/lianbuan/status/1247465754066178049). Sounds like suppression of freedom of speech to me?
