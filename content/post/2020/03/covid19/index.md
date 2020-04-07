@@ -484,6 +484,14 @@ It looks like he is striking a softer tone than the last presscon, where it was 
 
 As of tonight, we are at 3660 (+414) cases and 163 (+11) deaths. For looking at how the trend has been adjusting since the start of the lockdown, my thesis adviser Luis Sison has been [posting some graphs regularly on Facebook.](https://www.facebook.com/luisgsison/posts/2905346532879075).
 
+### Tuesday, April the 7th
 
+The lockdown/ECQ has officially been extended until the end of April.
+
+Of interest: [Duterte's timeline of incompetence post by JGS-UPD](https://www.facebook.com/media/set/?set=a.4442633659095731&type=3%3Fsfnsn%3Dmo). I was thinking of incorporating something like this into this diary.
+
+Word is that the defendants being represented by Chel Diokno after they were subpoena'ed by the NBI were investigated [because of a social media post asking why the government doesn't have money for healthcare when they have P2B for a gulfstream jet](https://twitter.com/lianbuan/status/1247465754066178049). Sounds like suppression of freedom of speech to me?
+
+As of tonight, we are at 3764 (+104) cases and 177 (+14) deaths.
 
 To be continued...
