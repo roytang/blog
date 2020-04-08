@@ -1,14 +1,12 @@
 {{ .Content | html }}
 {{ range .Resources.ByType "image" }}
 {{ $thumb := (.Resize "300x") }}
-    <figure>
-        <img src="{{ $thumb.Permalink }}" />
-        {{ if not (eq .Title .Name) }}
-            {{ with .Title }}
-            <figcaption>{{ . | markdownify | html }}</figcaption>
-            {{ end }}
-        {{ end }}
-    </figure>
+<img src="{{ $thumb.Permalink }}" />
+{{ if not (eq .Title .Name) }}
+    {{ with .Title }}
+    <p>{{ . | markdownify | html }}</p>
+    {{ end }}
+{{ end }}
 {{ end }}
 {{ range .Resources.Match "*.mp4" }}
 Embedded video: <a href="{{ .Permalink }}">{{ .Name }}</a>
