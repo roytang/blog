@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/718850641079046145/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154522728248912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4e0icw/april_9th_hands/d1wbhed/
 tags:
 - sketchdaily
 ---

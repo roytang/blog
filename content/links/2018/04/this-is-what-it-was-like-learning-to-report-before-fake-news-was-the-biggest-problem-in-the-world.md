@@ -10,4 +10,7 @@ slug: this-is-what-it-was-like-learning-to-report-before-fake-news-was-the-bigge
 source: pocket
 title: This Is What It Was Like Learning To Report Before Fake News Was The Biggest
   Problem In The World
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/983361178025029633/
 ---
