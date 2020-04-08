@@ -5,6 +5,8 @@ title: I miss being able to set my status
 syndicate:
 - type: mastodon
   url: https://mastodon.technology/@roytang/103964518568503150
+- type: twitter
+  url: https://twitter.com/roytang/status/1247964298376122369
 ---
 
 I miss being able to set a custom status message in my messaging app. Company I worked at for the longest time used jabber/xmpp for internal messaging, which supported setting a status message. I often used it to put short messages, jokes or PSAs, and I like to think I was one of the first at the company to practice this and it spread later. 
