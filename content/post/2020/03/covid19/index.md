@@ -23,7 +23,27 @@ This post will largely be about the effects of the COVID-19 virus on my country,
 
 I was originally going to write about the recent COVID-19 virus happenings during this week's weeknotes, but I ended up writing so many words about it, so I decided to make a separate type of post. And its a new type of post, one that I tagged under "diaries". The post is being published early on the 15th, but the intent is I will be updating this post as events unfold.
 
+### January the 29th: Govt says no travel ban needed
+
+[Even with coronavirus scare, no mainland Chinese travel ban for now – Duque](https://www.rappler.com/nation/250506-coronavirus-scare-travel-ban-mainland-chinese-not-for-now-duque)
+
+[Duterte not keen on banning travel to China amid coronavirus scare](https://cnnphilippines.com/news/2020/1/29/duterte-on-china-travel-ban.html)
+
 ### January the 30th: First positive case in PH
+
+[Philippines confirms first case of novel coronavirus](https://cnnphilippines.com/news/2020/1/30/Philippines-coronavirus-case.html)
+
+### January the 31st: Travel ban from Hubei
+
+[Duterte orders travel ban from China province amid coronavirus scare](https://www.cnnphilippines.com/news/2020/1/31/Philippines-novel-coronavirus-China-travel-ban.html)
+
+### February the 2nd: Travel ban from China
+
+[PH imposes travel ban on China as new coronavirus infections rise globally](https://news.abs-cbn.com/news/02/02/20/ph-imposes-travel-ban-on-china-as-new-coronavirus-infections-rise-globally)
+
+### March the 7th: First confirmed local case
+
+[Philippines has first local case of COVID-19](https://www.philstar.com/headlines/2020/03/07/1998804/philippines-has-first-local-case-covid-19)
 
 ### March the 9th: President declares public health emergency
 
@@ -505,5 +525,22 @@ As of tonight, we are at 3764 (+104) cases and 177 (+14) deaths.
 Some time before 9pm, we were told the president had another address tonight. It's now 11:57 and it hasn't happened. Maybe I should just be thankful.
 
 As of tonight, we are at 3870 (+106) cases and 182 (+5) deaths. Low numbers. 
+
+### Thursday, April the 9th
+
+The president's address actually aired well past midnight, so let's log it here. The content wasn't anything of relevance, more whining about limitations of budget, imploring people to obey, etc. The address also included remarks from people like DOHsec Duque, BudgetSec Dominguez, Chief Implementer Galvez, etc.
+
+One thing I will note is Duque said that [the travel ban from China helped slow the disease](https://twitter.com/cnnphilippines/status/1247925887619567616). Now, a lot of twitter reactions indicate people think this was a lie, basing it on earlier statements of Duque and other palace officials. Now, I dislike this admin of course, but that doesn't meant I can be dishonest about them. Officially, we did have a travel ban from China.
+
+*Did Duterte, Duque and other officials say there was no need for a China travel ban and that China may question it?* Yes, this happened in late January, around the time of the first 3 confirmed cases in the country. Citations: [1](https://www.rappler.com/nation/250506-coronavirus-scare-travel-ban-mainland-chinese-not-for-now-duque), [2](https://cnnphilippines.com/news/2020/1/29/duterte-on-china-travel-ban.html)
+
+*Did we did have China travel bans instituted?* Also yes, after the first case was confirmed in the country:
+  - first from Hubei province only, as of Jan 31. [Citation](https://www.cnnphilippines.com/news/2020/1/31/Philippines-novel-coronavirus-China-travel-ban.html).
+  - a few days later on Feb 2, on all of China (including HK, Taiwan and Macau. The Taiwan part was later rescinded). [Citation](https://news.abs-cbn.com/news/02/02/20/ph-imposes-travel-ban-on-china-as-new-coronavirus-infections-rise-globally).
+  - After these bans were instituted, there were questions as to whether they were really strictly being implemented, and there were screenshots and other evidence circulating that there were still flights coming in from China. That there are flights coming in from China should not in itself be relevant, given (a) flights can contain cargo, not just passengers; and (b) flights can contain Filipino citizens being repatriated from China, as these are still allowed to come in, although they have to undergo quarantine. Whether any foreigners slipped through the cracks of this travel ban is unknown.
+
+Unfortunately, not even the [timeline of incompetence post I referenced the other day](https://www.facebook.com/media/set/?set=a.4442633659095731&type=3%3Fsfnsn%3Dmo) includes this information, which is a disservice. In the interest of fairness, I have highlighted these dates and links at the top of this post.
+
+*Could the government have done more during January and February?* Less factual, but in my opinion also yes. We basically wasted a lot of time in January and February twiddling our thumbs. As far as I can tell, no additional preparations were done in Feb other than the China travel bans. Total travel ban from other countries only happned when the lockdown/ECQ happened in early March, IIRC. (Feel free to correct me if I'm wrong.)
 
 To be continued...
