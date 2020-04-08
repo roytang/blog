@@ -9,6 +9,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/103826129192455363
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/103826054875937754
+- type: indieweb.xyz
+  url: https://indieweb.xyz/en/coronavirus
 tags:
 - philippines
 - current events
