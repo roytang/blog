@@ -292,6 +292,16 @@ table.grid_archive a {
 .spoiler_target:target + .spoiler {
     display: inline;
 }
+.toc nav {
+    display: none;
+}
+.toc_target:target {
+    position: fixed;
+}
+.toc_target:target + nav {
+    display: inline;
+}
+
 
 article {
     display: block;

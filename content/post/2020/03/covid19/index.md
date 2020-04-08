@@ -498,4 +498,10 @@ Word is that the defendants being represented by Chel Diokno after they were sub
 
 As of tonight, we are at 3764 (+104) cases and 177 (+14) deaths.
 
+### Wednesday, April the 8th
+
+Some time before 9pm, we were told the president had another address tonight. It's now 11:57 and it hasn't happened. Maybe I should just be thankful.
+
+As of tonight, we are at 3870 (+106) cases and 182 (+5) deaths. Low numbers. 
+
 To be continued...
