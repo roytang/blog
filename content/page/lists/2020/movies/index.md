@@ -53,3 +53,4 @@ Ratings scale:
 | 25 | Birds of Prey and the Fantabulous Emancipation of One Harley Quinn | 2020 | Mar 25 | [Spoiler-free review](/2020/03/birds-of-prey/) | 4 |
 | 26 | Logan Lucky | 2017 | Mar 25 | Fun heist movie, but I find it hard to take the characters seriously. Might be some anti-redneck bias. | 4 |
 | 27 | The Hobbit: An Unexpected Journey | 2012 | Mar 30 |  |  |
+| 28 | The Hobbit: The Desolation of Smaug | 2013 | Apr 07 |  |  |
