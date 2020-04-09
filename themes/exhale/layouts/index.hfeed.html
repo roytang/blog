@@ -1,14 +1,11 @@
 {{ define "main" }}
-{{ partialCached "block/hero" . }}
 <section class="h-feed">
     <a class="u-url" href="/"></a>
     <h1 class="p-name">Recent Activity</h1>
     {{ $pages := first 50 (where site.RegularPages "Type" "in" site.Params.mainSections) }}    
     {{ range $pages.GroupByDate .Site.Data.Formats.date }}
         <h3>{{ .Key }}</h3>
-        {{ range .Pages }}
-            {{ .Render "list_item" }}
-        {{ end }}
+        {{ partial "block/entry-list" . }}        
     {{ end }}
 </section>
 

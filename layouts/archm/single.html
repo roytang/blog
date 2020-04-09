@@ -22,11 +22,13 @@
 <a href="#posts">Posts ({{ $scratch.Get "postCount" }})</a> :: <a href="#photos">Photos ({{ $scratch.Get "photosCount" }})</a>
 
 <h3 id="posts">Posts</h3>
+<ul class="entry_list">
 {{ range where .Site.RegularPages "Section" "post" }}
     {{ if and (eq (.Date.Format "2006") $archYear) (eq (.Date.Format "January") $archMonth) }}
-        {{ .Render "list_item" }}
+    <li>{{ .Render "list_item" }}</li>
     {{ end }}
 {{ end }}
+</ul>
 </section>
 
 <h3 id="photos">Photos</h3>

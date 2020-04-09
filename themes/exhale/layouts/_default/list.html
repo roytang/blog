@@ -1,15 +1,8 @@
 {{ define "main" }}
-  <section class="h-feed">
-      <a class="u-url" href="{{ .Permalink }}"></a>
-      <p class="p-name">{{ .Title }}.</p>
-      <p>You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
-  {{ range (.Paginator.Pages).GroupByDate .Site.Data.Formats.month }}
-      <h3>{{ .Key }}</h3>
-      {{ range .Pages }}
-          {{ .Render "list_item" }}
-      {{ end }}
-  {{ end }}
-  {{ partial "pagination" . }}
-
+<section class="h-feed">
+    <a class="u-url" href="{{ .Permalink }}"></a>
+    <p class="p-name">{{ .Title }}.</p>
+    <p>You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
+    {{ partial "block/paged-list" . }}
 </section>
 {{ end }}

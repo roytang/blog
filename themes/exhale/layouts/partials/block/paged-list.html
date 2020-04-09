@@ -1,0 +1,5 @@
+{{ range (.Paginator.Pages).GroupByDate .Site.Data.Formats.month }}
+<h3>{{ .Key }}</h3>
+{{ partial "block/entry-list" . }}
+{{ end }}
+{{ partial "pagination" . }}

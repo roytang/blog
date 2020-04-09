@@ -15,9 +15,11 @@
 {{ with $slice }}
     {{ range .GroupByDate "2006" }}
         <h3>{{ .Key }}</h3>
+        <ul class="entry_list">
         {{ range .Pages }}
-            {{ .Render "list_item" }}
+            <li>{{ .Render "list_item" }}</li>
         {{ end }}
+        </ul>
     {{ end }}
 {{ end }}
 </section>

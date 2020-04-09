@@ -812,3 +812,8 @@ header h1, header p {
     color: white;
 }
 
+ul.entry_list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
