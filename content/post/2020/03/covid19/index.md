@@ -543,4 +543,10 @@ Unfortunately, not even the [timeline of incompetence post I referenced the othe
 
 *Could the government have done more during January and February?* Less factual, but in my opinion also yes. We basically wasted a lot of time in January and February twiddling our thumbs. As far as I can tell, no additional preparations were done in Feb other than the China travel bans. Total travel ban from other countries only happned when the lockdown/ECQ happened in early March, IIRC. (Feel free to correct me if I'm wrong.)
 
+*Were we the first to lockdown, as Duterte implies?* Obviously not!
+
+As of tonight, we are at 4076 (+206) cases and 203 (+21) deaths. Biggest deaths jump so far!
+
+Since it is the Holy Week long weekend, and updating this everyday is getting tiresome, I might skip a few days and maybe resume on Easter Sunday. Unless something outlandish happens, which is not outside the realm of possibility!
+
 To be continued...
