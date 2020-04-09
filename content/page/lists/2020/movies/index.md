@@ -54,3 +54,4 @@ Ratings scale:
 | 26 | Logan Lucky | 2017 | Mar 25 | Fun heist movie, but I find it hard to take the characters seriously. Might be some anti-redneck bias. | 4 |
 | 27 | The Hobbit: An Unexpected Journey | 2012 | Mar 30 |  |  |
 | 28 | The Hobbit: The Desolation of Smaug | 2013 | Apr 07 |  |  |
+| 29 | [Project 88: Back to the Future Too](https://www.bttftoo.com/) | 2020 | Apr 10 | Fantastic fan-made shot-by-shot recreation of Back to the Future II, put together during quarantine, w/ stop motion, kids, sock puppets, bananas, potatoes and much more! https://www.youtube.com/watch?v=GcUUjWbVc4I | 5 |
