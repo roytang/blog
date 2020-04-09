@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/719211678315839488/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154522728248912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4e52jg/april_10th_drapery/d1xfqvj/
 tags:
 - sketchdaily
 ---

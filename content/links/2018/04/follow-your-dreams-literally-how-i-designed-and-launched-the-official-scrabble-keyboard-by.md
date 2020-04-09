@@ -10,4 +10,7 @@ slug: follow-your-dreams-literally-how-i-designed-and-launched-the-official-scra
 source: pocket
 title: 'Follow your dreams (literally): How I designed and launched the Official Scrabble
   Keyboard - By'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/983748779970048000/
 ---

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/719155149680214016/
+title: ''
 ---
 
-RT [@MaoiArroyo](https://twitter.com/MaoiArroyo/): Here are the accomplishments and 2016 priorities of the AGHAM party list! Support Filipino Scientists!!! https://t.co/lCFtA…
+Here are the accomplishments and 2016 priorities of the AGHAM party list! Support Filipino Scientists!!! http://fb.me/11wL9BTID

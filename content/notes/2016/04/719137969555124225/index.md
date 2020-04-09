@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/719137969555124225/
+title: ''
 ---
 
-RT [@iamsuperbianca](https://twitter.com/iamsuperbianca/): Nagshine si Cong. Leni at Sen. Alan sa debate na to.
+Nagshine si Cong. Leni at Sen. Alan sa debate na to.
