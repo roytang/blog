@@ -1,12 +1,17 @@
 ---
-title: "Naked CSS Day"
-date: 2020-04-09T19:44:35+08:00
+date: 2020-04-09 11:44:35
+featuredResource:
+  filename: Screenshot_2020-04-09.jpg
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103968591445237197
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1248224165850525701/
 tags:
 - tech life
 - software development
 - website
-featuredResource:
-  filename: Screenshot_2020-04-09.jpg
+title: Naked CSS Day
 ---
 
 It's [naked CSS day](https://css-naked-day.github.io/), so the site looks super bare-bones today! Inspired by [Laura Kalbag](https://laurakalbag.com/css-naked-day-2020/) and [Eric Meyer](https://meyerweb.com/).
@@ -16,4 +21,3 @@ Trying out the site without the CSS made me realize how I wasn't setting width a
 (Hopefully I don't forget to restore the CSS tomorrow!)
 
 Screenshot of the Naked CSS version for posterity:
-
