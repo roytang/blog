@@ -52,6 +52,7 @@ Ratings scale:
 | 24 | Princess Mononoke | 1997 | Mar 23 | Much more action-packed than the last Ghibli movie I watched. Beautifully animated. | 5 |
 | 25 | Birds of Prey and the Fantabulous Emancipation of One Harley Quinn | 2020 | Mar 25 | [Spoiler-free review](/2020/03/birds-of-prey/) | 4 |
 | 26 | Logan Lucky | 2017 | Mar 25 | Fun heist movie, but I find it hard to take the characters seriously. Might be some anti-redneck bias. | 4 |
-| 27 | The Hobbit: An Unexpected Journey | 2012 | Mar 30 |  |  |
-| 28 | The Hobbit: The Desolation of Smaug | 2013 | Apr 07 |  |  |
+| 27 | The Hobbit: An Unexpected Journey | 2012 | Mar 30 | See below | 4 |
+| 28 | The Hobbit: The Desolation of Smaug | 2013 | Apr 07 | See below | 4 |
 | 29 | [Project 88: Back to the Future Too](https://www.bttftoo.com/) | 2020 | Apr 10 | Fantastic fan-made shot-by-shot recreation of Back to the Future II, put together during quarantine, w/ stop motion, kids, sock puppets, bananas, potatoes and much more! https://www.youtube.com/watch?v=GcUUjWbVc4I | 5 |
+| 30 | The Hobbit: Battle of the Five Armies | 2014 | Apr 07 | This trilogy had far too many extra things that weren't in the books, but it was pretty good. I rank them Desolation > Five Armies > Journey. | 4 |
