@@ -8,4 +8,7 @@ link:
 slug: black-holes-are-real-and-spectacular-and-so-are-their-event-horizons
 source: pocket
 title: Black Holes Are Real And Spectacular, And So Are Their Event Horizons
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1116317262191964162/
 ---

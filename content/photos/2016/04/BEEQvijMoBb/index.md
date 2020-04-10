@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/719561934836609025/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154527302823912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4e9tic/april_11th_les_miserables/d1ylkhv/
 tags:
 - sketchdaily
 ---
