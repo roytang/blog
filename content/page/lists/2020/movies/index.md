@@ -55,4 +55,5 @@ Ratings scale:
 | 27 | The Hobbit: An Unexpected Journey | 2012 | Mar 30 | See below | 4 |
 | 28 | The Hobbit: The Desolation of Smaug | 2013 | Apr 07 | See below | 4 |
 | 29 | [Project 88: Back to the Future Too](https://www.bttftoo.com/) | 2020 | Apr 10 | Fantastic fan-made shot-by-shot recreation of Back to the Future II, put together during quarantine, w/ stop motion, kids, sock puppets, bananas, potatoes and much more! https://www.youtube.com/watch?v=GcUUjWbVc4I | 5 |
-| 30 | The Hobbit: Battle of the Five Armies | 2014 | Apr 07 | This trilogy had far too many extra things that weren't in the books, but it was pretty good. I rank them Desolation > Five Armies > Journey. | 4 |
+| 30 | The Hobbit: Battle of the Five Armies | 2014 | Apr 10 | This trilogy had far too many extra things that weren't in the books, but it was pretty good. I rank them Desolation > Five Armies > Journey. | 4 |
+| 31 | The Departed | 2006 | Apr 10 | This was intense. I liked it more than Goodfellas. | 5 |
