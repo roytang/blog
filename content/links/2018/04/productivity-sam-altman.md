@@ -8,4 +8,7 @@ link:
 slug: productivity-sam-altman
 source: pocket
 title: Productivity - Sam Altman
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/983753907368325120/
 ---
