@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/454747652844830720/
+title: ''
 ---
 
-RT [@GonzoVice](https://twitter.com/GonzoVice/): All my life, my heart has sought a thing I cannot name.
+All my life, my heart has sought a thing I cannot name.
