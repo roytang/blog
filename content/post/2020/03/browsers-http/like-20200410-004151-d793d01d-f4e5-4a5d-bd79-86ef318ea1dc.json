@@ -1,0 +1,27 @@
+{
+  "source_url": "https://mastodon.technology/@roytang/103875831680911288#favorited-by-77011",
+  "id": "d793d01d-f4e5-4a5d-bd79-86ef318ea1dc",
+  "name": "Adrian Cochrane",
+  "source_obj": {
+    "wm-private": false,
+    "author": {
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "name": "Adrian Cochrane",
+      "type": "card",
+      "url": "https://floss.social/@alcinnz"
+    },
+    "url": "https://mastodon.technology/@roytang/103875831680911288#favorited-by-77011",
+    "type": "entry",
+    "wm-property": "like-of",
+    "wm-target": "https://roytang.net/2020/03/browsers-and-http/",
+    "like-of": "https://roytang.net/2020/03/browsers-and-http/",
+    "wm-received": "2020-04-10T00:41:51Z",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103875831680911288/77011",
+    "published": null,
+    "wm-id": 780474
+  },
+  "photo": null,
+  "url": "https://floss.social/@alcinnz",
+  "date": "2020-04-10 00:41:51",
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) [liked this](https://mastodon.technology/@roytang/103875831680911288#favorited-by-77011)"
+}
