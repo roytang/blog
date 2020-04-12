@@ -562,6 +562,6 @@ As of tonight, we are at 4648 (+220 today, +572 since Thursday) cases and 297 (+
 
 Worldwide, cases are now at 1.8 million and deaths more than 100,000. 
 
-
+I kind of enjoyed the short break, so I think future updates to this diary will be sparse, instead of the daily it was before. Maybe only when significant things happen.
 
 To be continued...
