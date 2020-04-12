@@ -1,5 +1,5 @@
 ---
-date: 2020-04-05
+date: 2020-04-12
 slug: weeknotes-2020-04-12
 syndicated:
 - type: mastodon
