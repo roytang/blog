@@ -1,6 +1,11 @@
 ---
 date: 2020-04-05
 slug: weeknotes-2020-04-12
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103984949113781523
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1249271055329312774/
 tags:
 - weeknotes
 title: Weeknotes 2020-04-12 Easter Sunday Edition
