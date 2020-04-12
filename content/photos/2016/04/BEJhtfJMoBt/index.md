@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/720302931468156934/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154529974663912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4ekl91/april_13th_imaginary_maps/d21g1f2/
 tags:
 - sketchdaily
 ---

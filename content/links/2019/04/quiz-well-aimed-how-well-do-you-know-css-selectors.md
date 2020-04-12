@@ -8,4 +8,7 @@ link:
 slug: quiz-well-aimed-how-well-do-you-know-css-selectors
 source: pocket
 title: 'QUIZ: Well aimed? How well do you know CSS selectors?'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1117022660414853120/
 ---

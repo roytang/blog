@@ -8,4 +8,7 @@ link:
 slug: hiring-and-the-market-for-lemons
 source: pocket
 title: Hiring and the market for lemons
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/984830404808069121/
 ---
