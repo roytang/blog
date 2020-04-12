@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/719989636672593920/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154529974663912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4ef54a/april_12th_political_figures/d20awws/
 tags:
 - sketchdaily
 ---

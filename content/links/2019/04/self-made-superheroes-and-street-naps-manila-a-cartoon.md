@@ -8,4 +8,7 @@ link:
 slug: self-made-superheroes-and-street-naps-manila-a-cartoon
 source: pocket
 title: "Self-made superheroes and street naps: Manila \u2013\_a cartoon"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1116727642303102976/
 ---
