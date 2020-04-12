@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/724194702107373568/
 tags:
 - PiliPinasDebates2016
+title: ''
 ---
 
-RT [@karlocatapang](https://twitter.com/karlocatapang/): Ang daming pinapangako tapos tatanggalin  o babaan ang tax?? #PiliPinasDebates2016
+Ang daming pinapangako tapos tatanggalin  o babaan ang tax?? #PiliPinasDebates2016

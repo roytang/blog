@@ -817,3 +817,7 @@ ul.entry_list {
     margin: 0;
     padding: 0;
 }
+
+pre {
+    max-width: 60em;
+}

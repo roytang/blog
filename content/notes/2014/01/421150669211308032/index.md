@@ -10,7 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/421150669211308032/
 tags:
 - StarWars
+title: ''
 ---
 
-RT [@DeathStarPR](https://twitter.com/DeathStarPR/): This is no joke.
-#StarWars https://t.co/KxDsQtXRel
+This is no joke.
+
+#StarWars
