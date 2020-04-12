@@ -549,4 +549,19 @@ As of tonight, we are at 4076 (+206) cases and 203 (+21) deaths. Biggest deaths 
 
 Since it is the Holy Week long weekend, and updating this everyday is getting tiresome, I might skip a few days and maybe resume on Easter Sunday. Unless something outlandish happens, which is not outside the realm of possibility!
 
+
+### Sunday, April the 12th
+
+Today is Easter Sunday, and coincidentally marks one month since the lockdown/ECQ was originally announced.
+
+The past couple of days, word came out that a certain QC hospital was having trouble with a lack of body bags for handling cadavers. Insider reports say that bodies are piling up and they're running out of places to put them, and that the hospital got an order to underreport the deaths. The DOH got wind of this and immediately issued a statement denying the rumors. The hospital came out with a statement denying they are running out of body bags, but later admitted that their morgue is over capacity because of an unusually high number of unclaimed body bags. Apparently there was an order to hospitals to report deaths first to the DOH before anyone else, so maybe that order was misinterpreted which led to the underreporting deaths rumor. In any case, if one hospital is struggling with deaths, it's likely other hospitals are too, which is worrying.
+
+My parents haven't seen their grandkids all together since February, so today we set up a zoom call with everyone so we can enjoy their company. It was expectedly a lot of chaos, but the kids had a lot of energy and we had fun and the grandparents enjoyed the quality time, so that's something. It's highly unlikely we'll get to see each other until late May at the earliest, so this was the next best thing.
+
+As of tonight, we are at 4648 (+220 today, +572 since Thursday) cases and 297 (+50 today, +94 since Thursday) deaths. This is now the record for most deaths/day, but it's possible that some death reporting may have been delayed due to the holiday weekend.
+
+Worldwide, cases are now at 1.8 million and deaths more than 100,000. 
+
+
+
 To be continued...
