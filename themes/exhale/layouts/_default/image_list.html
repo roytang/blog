@@ -6,6 +6,9 @@
 {{ end }}
 {{ end }}
 {{ range .Resources.Match "*.mp4" }}
-<video id="{{ .Name | safeURL }}" src="{{ .RelPermalink }}" controls></video>
+<div class="video">
+    <video id="{{ .Name | safeURL }}" src="{{ .RelPermalink }}" controls></video>
+    <a href="{{ $mainPermalink }}">View post</a>
+</div>
 {{ end }}
 

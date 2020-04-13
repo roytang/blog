@@ -496,6 +496,10 @@ div.image-list img {
     box-shadow: 1px 1px 0 0 var(--second-color);    
     width: 100%;
 }
+
+div.image-list video {
+    width: 100%;
+}
   
 div.comment {
     border: 1px var(--third-color) dotted;
