@@ -1,0 +1,31 @@
+{
+  "date": "2020-04-13 15:40:28",
+  "url": "https://mastodon.technology/@AskChip",
+  "source_url": "https://mastodon.technology/@AskChip/103991826758437891",
+  "id": "6188ecfc-9cdd-43d1-bbba-ce03f0e294e6",
+  "name": "AskChip",
+  "source_obj": {
+    "type": "entry",
+    "wm-private": false,
+    "wm-property": "in-reply-to",
+    "url": "https://mastodon.technology/@AskChip/103991826758437891",
+    "wm-target": "https://roytang.net/2020/04/six-fanarts/",
+    "published": "2020-04-13T14:49:08",
+    "wm-received": "2020-04-13T15:40:28Z",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/103991799614466363/103991826758437891",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I'm curious as to how Samurai Jack, Quick Draw McGraw, Underdog, Mr Peabody and the Fairly Oddparents would look together.\ud83e\udd14</p>",
+      "text": "@roytang I'm curious as to how Samurai Jack, Quick Draw McGraw, Underdog, Mr Peabody and the Fairly Oddparents would look together.\ud83e\udd14"
+    },
+    "author": {
+      "name": "AskChip",
+      "type": "card",
+      "url": "https://mastodon.technology/@AskChip",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/c4e8054dea7442cb519fa439d439f5be534d6498d92d182453500b2eb48534f8.jpg"
+    },
+    "in-reply-to": "https://roytang.net/2020/04/six-fanarts/",
+    "wm-id": 781915
+  },
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I'm curious as to how Samurai Jack, Quick Draw McGraw, Underdog, Mr Peabody and the Fairly Oddparents would look together.\ud83e\udd14</p>",
+  "photo": null
+}

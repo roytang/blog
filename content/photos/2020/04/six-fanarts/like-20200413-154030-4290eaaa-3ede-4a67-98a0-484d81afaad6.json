@@ -1,0 +1,27 @@
+{
+  "date": "2020-04-13 15:40:30",
+  "url": "https://mastodon.technology/@AskChip",
+  "source_url": "https://mastodon.technology/@roytang/103991799614466363#favorited-by-73314",
+  "id": "4290eaaa-3ede-4a67-98a0-484d81afaad6",
+  "name": "AskChip",
+  "source_obj": {
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103991799614466363/73314",
+    "type": "entry",
+    "wm-private": false,
+    "wm-property": "like-of",
+    "url": "https://mastodon.technology/@roytang/103991799614466363#favorited-by-73314",
+    "wm-target": "https://roytang.net/2020/04/six-fanarts/",
+    "author": {
+      "name": "AskChip",
+      "type": "card",
+      "url": "https://mastodon.technology/@AskChip",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/c4e8054dea7442cb519fa439d439f5be534d6498d92d182453500b2eb48534f8.jpg"
+    },
+    "published": null,
+    "wm-received": "2020-04-13T15:40:30Z",
+    "like-of": "https://roytang.net/2020/04/six-fanarts/",
+    "wm-id": 781917
+  },
+  "text": "[AskChip](https://mastodon.technology/@AskChip) [liked this](https://mastodon.technology/@roytang/103991799614466363#favorited-by-73314)",
+  "photo": null
+}
