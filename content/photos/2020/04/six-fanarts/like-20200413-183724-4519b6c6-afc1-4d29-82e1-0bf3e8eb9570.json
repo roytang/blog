@@ -1,0 +1,27 @@
+{
+  "date": "2020-04-13 18:37:24",
+  "text": "[Chris Bielefeld](https://twitter.com/ChrisBielefeld1) [liked this](https://twitter.com/roytang/status/1249707143822864385#favorited-by-959800216571564038)",
+  "photo": null,
+  "source_obj": {
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1249707143822864385/959800216571564038",
+    "wm-received": "2020-04-13T18:37:24Z",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/cea81a1069ef50ce3bd5dae1ba21b0e108817fe2ed3846cee9d44dad9a6cd7c4.jpg",
+      "url": "https://twitter.com/ChrisBielefeld1",
+      "name": "Chris Bielefeld"
+    },
+    "wm-target": "https://roytang.net/2020/04/six-fanarts/",
+    "url": "https://twitter.com/roytang/status/1249707143822864385#favorited-by-959800216571564038",
+    "type": "entry",
+    "wm-id": 781967,
+    "wm-private": false,
+    "wm-property": "like-of",
+    "like-of": "https://roytang.net/2020/04/six-fanarts/"
+  },
+  "id": "4519b6c6-afc1-4d29-82e1-0bf3e8eb9570",
+  "source_url": "https://twitter.com/roytang/status/1249707143822864385#favorited-by-959800216571564038",
+  "url": "https://twitter.com/ChrisBielefeld1",
+  "name": "Chris Bielefeld"
+}

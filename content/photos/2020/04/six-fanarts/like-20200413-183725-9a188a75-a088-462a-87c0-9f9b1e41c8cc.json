@@ -1,0 +1,27 @@
+{
+  "date": "2020-04-13 18:37:25",
+  "text": "[Ritchie](https://twitter.com/Woerlan) [liked this](https://twitter.com/roytang/status/1249707143822864385#favorited-by-35668033)",
+  "photo": null,
+  "source_obj": {
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1249707143822864385/35668033",
+    "wm-received": "2020-04-13T18:37:25Z",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/49f5d186a48e55356bb4463544633e0f180a0700b775324aa3a4ca72053ee1de.jpg",
+      "url": "https://twitter.com/Woerlan",
+      "name": "Ritchie"
+    },
+    "wm-target": "https://roytang.net/2020/04/six-fanarts/",
+    "url": "https://twitter.com/roytang/status/1249707143822864385#favorited-by-35668033",
+    "type": "entry",
+    "wm-id": 781968,
+    "wm-private": false,
+    "wm-property": "like-of",
+    "like-of": "https://roytang.net/2020/04/six-fanarts/"
+  },
+  "id": "9a188a75-a088-462a-87c0-9f9b1e41c8cc",
+  "source_url": "https://twitter.com/roytang/status/1249707143822864385#favorited-by-35668033",
+  "url": "https://twitter.com/Woerlan",
+  "name": "Ritchie"
+}
