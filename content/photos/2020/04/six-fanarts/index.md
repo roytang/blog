@@ -1,11 +1,14 @@
 ---
-title: "Six Fanarts"
-date: 2020-04-13T20:28:41+08:00
-slug: six-fanarts
-tags:
-- SixFanarts
 albums:
 - sketchbook
+date: 2020-04-13 12:28:41
+slug: six-fanarts
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1249707143822864385/
+tags:
+- SixFanarts
+title: Six Fanarts
 ---
 
 I [posted yesterday](/2020/04/1249033881690357761/) asking for suggestions for this #SixFanarts thing that's been going around. I actually got more than six, so I decided to do twelve! (I had to reject like 4 other suggestions, sorry!)
@@ -29,4 +32,3 @@ Second set:
 - Pong Pagong (requested by Aldo on Facebook)
 
 While I was doing the Sakuragi one, I made a boo-boo where I put the rough sketch on the same layer as the Buffy one and messed it up and later I couldn't recover it. I didn't want to redo the thing, so what I did was ran the timelapse, got a screenshot of Buffy from there and pasted it back into the image lol. It's not cheating, I mean, I really did do the drawing! You can see these shenanigans and more in the timelapses below!
-
