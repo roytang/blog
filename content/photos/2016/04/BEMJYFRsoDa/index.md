@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/720671632612675584/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154533862698912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4eq5p2/april_14th_highly_stylized_almost_adorable/d22v6zl/
 tags:
 - sketchdaily
 ---
