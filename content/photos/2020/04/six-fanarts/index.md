@@ -6,6 +6,12 @@ slug: six-fanarts
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1249707143822864385/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10158362576173912
+- type: instagram
+  url: https://www.instagram.com/p/B-7LfzLh7MB/
+- type: mastodon
+  url: https://mastodon.technology/@roytang/103991799614466363
 tags:
 - SixFanarts
 title: Six Fanarts
