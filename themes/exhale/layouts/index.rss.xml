@@ -21,8 +21,8 @@
             {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
             <guid>{{ .Permalink }}</guid>
             <description>
-            {{ .Render "summary.hat" }}
-            {{ .Render "summary.content" }}
+            {{ .Render "summary.hat" | html }}
+            {{ .Render "summary.content" | html }}
             </description>
             <category>{{ .Section }}</category>
             {{ with .Params.tags }}

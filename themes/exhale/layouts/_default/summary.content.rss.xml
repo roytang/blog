@@ -1,4 +1,4 @@
-{{ .Content | html }}
+{{ .Content | }}
 {{ range .Resources.ByType "image" }}
 {{ $thumb := (.Resize "300x") }}
 <img src="{{ $thumb.Permalink }}" />

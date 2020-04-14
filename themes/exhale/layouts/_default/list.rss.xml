@@ -12,7 +12,8 @@
       {{ with .OutputFormats.Get "RSS" }}
           {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
       {{ end }}
-    {{ range .Pages }}
+      {{ $pages := first 50 .Pages }}    
+      {{ range ($pages) }}
         <item>
             <title>{{ .Render "title" }}</title>
             <link>{{ .Permalink }}</link>
@@ -20,10 +21,9 @@
             {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
             <guid>{{ .Permalink }}</guid>
             <description>
-            {{ .Render "summary.hat" }}
-            {{ .Render "summary.content" }}
+            {{ .Render "summary.hat" | html }}
+            {{ .Render "summary.content" | html }}
             </description>
-            <content:encoded></content:encoded>            
         </item>
     {{ end }}
     </channel>
