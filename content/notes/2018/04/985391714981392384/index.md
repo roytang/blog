@@ -1,5 +1,5 @@
 ---
-date: 2018-04-15 05:37:47
+date: 2018-04-15 05:37:47+00:00
 repost_source:
   name: JanelleCShane
   type: twitter
@@ -10,7 +10,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/985391714981392384/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156573327338912
+title: ''
 ---
 
-RT [@JanelleCShane](https://twitter.com/JanelleCShane/): When machine learning is astonishing - I collected some highlights from a paper on algorithmic creativity
-https://t.co/a…
+When machine learning is astonishing - I collected some highlights from a paper on algorithmic creativity
+
+http://aiweirdness.com/post/172894792687/when-algorithms-surprise-us
+
+Original paper:
+
+https://arxiv.org/pdf/1803.03453.pdf

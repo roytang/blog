@@ -9,6 +9,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/comicbooks/comments/231vkp/dick_graysons_postforever_evil_fate_has_been/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/455865193822564352/
 tags:
 - comics
 ---
