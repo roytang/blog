@@ -1,0 +1,27 @@
+{
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) [shared this](https://mastodon.technology/@roytang/103994779577322470#reblogged-by-77011)",
+  "date": "2020-04-14 03:52:12",
+  "source_obj": {
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/103994779577322470/77011",
+    "author": {
+      "type": "card",
+      "name": "Adrian Cochrane",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "url": "https://floss.social/@alcinnz"
+    },
+    "wm-received": "2020-04-14T03:52:12Z",
+    "wm-property": "repost-of",
+    "published": null,
+    "url": "https://mastodon.technology/@roytang/103994779577322470#reblogged-by-77011",
+    "type": "entry",
+    "wm-id": 782316,
+    "repost-of": "https://roytang.net/2020/04/bespoke-vs-product-development/",
+    "wm-private": false,
+    "wm-target": "https://roytang.net/2020/04/bespoke-vs-product-development/"
+  },
+  "url": "https://floss.social/@alcinnz",
+  "name": "Adrian Cochrane",
+  "photo": null,
+  "id": "cda8b143-239a-45b5-9745-eea77556676c",
+  "source_url": "https://mastodon.technology/@roytang/103994779577322470#reblogged-by-77011"
+}
