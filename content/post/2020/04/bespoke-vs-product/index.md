@@ -1,8 +1,13 @@
 ---
-title: "Bespoke vs Product Development"
 date: 2020-04-14
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103994779577322470
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1249900205387857921/
 tags:
 - software development
+title: Bespoke vs Product Development
 ---
 
 For most of my time working on software projects, it has always been for bespoke projects. Bespoke basically means a software program or package tailor-made for a specific client. The client provides all the requirements, the team fleshes out more details and specifications, some prototyping may or may not ensure, and implementation proceeds thusly. It’s relatively straightforward compared to product development.
