@@ -57,3 +57,4 @@ Ratings scale:
 | 29 | [Project 88: Back to the Future Too](https://www.bttftoo.com/) | 2020 | Apr 10 | Fantastic fan-made shot-by-shot recreation of Back to the Future II, put together during quarantine, w/ stop motion, kids, sock puppets, bananas, potatoes and much more! https://www.youtube.com/watch?v=GcUUjWbVc4I | 5 |
 | 30 | The Hobbit: Battle of the Five Armies | 2014 | Apr 10 | This trilogy had far too many extra things that weren't in the books, but it was pretty good. I rank them Desolation > Five Armies > Journey. | 4 |
 | 31 | The Departed | 2006 | Apr 10 | This was intense. I liked it more than Goodfellas. | 5 |
+| 32 | Spirited Away | 2001 | Apr 15 | Shades of Alice in Wonderland and The Wizard of Oz. Easily the best Ghibli film I've watched so far. | 5 |
