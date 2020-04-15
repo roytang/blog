@@ -564,4 +564,14 @@ Worldwide, cases are now at 1.8 million and deaths more than 100,000.
 
 I kind of enjoyed the short break, so I think future updates to this diary will be sparse, instead of the daily it was before. Maybe only when significant things happen.
 
+### Wednesday, April the 15th
+
+Three days since the last entry. Since then, I've gone out three times, the most for any week since the quarantine began. Twice was for medicine runs for the parental units (one would think they could just combine them into one request, but apparently extenuating circumstances etc), and another was for a grocery run. I still failed to get pizza at the grocery store though.
+
+We had thought about having food delivered last Easter Sunday, but apparently we decided on it too late, by 4:30pm most of the open restos were no longer delivering.
+
+Not much to report on the government side. Not that things aren't happening, but it's more of the same, mostly.
+
+As of tonight, we are at 5453 (+230 today, +805 since Sunday) cases and 349 (+14 today, +52 since Sunday) deaths. The rate of new cases has more or less held steady over the past few days, with about a thousand being added every 3-4 days. The good news is the recovery count has caught up to the death count, today it's at 353. This is excellent because it was probably only a week or so ago that the there were about twice as many deaths as recoveries.
+
 To be continued...
