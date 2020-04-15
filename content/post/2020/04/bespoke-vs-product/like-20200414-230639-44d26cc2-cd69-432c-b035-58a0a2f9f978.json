@@ -1,0 +1,27 @@
+{
+  "text": "[Jannis](https://chaos.social/@Xjs) [liked this](https://mastodon.technology/@roytang/103994779577322470#favorited-by-116058)",
+  "photo": null,
+  "name": "Jannis",
+  "url": "https://chaos.social/@Xjs",
+  "source_obj": {
+    "like-of": "https://roytang.net/2020/04/bespoke-vs-product-development/",
+    "url": "https://mastodon.technology/@roytang/103994779577322470#favorited-by-116058",
+    "wm-received": "2020-04-14T23:06:39Z",
+    "wm-target": "https://roytang.net/2020/04/bespoke-vs-product-development/",
+    "type": "entry",
+    "wm-id": 782683,
+    "wm-property": "like-of",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/103994779577322470/116058",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/529b3c7dc306adbb3df877ce3b76fac8f9dcc31d543b42636200a1200620806b.png",
+      "name": "Jannis",
+      "url": "https://chaos.social/@Xjs"
+    },
+    "wm-private": false,
+    "published": null
+  },
+  "id": "44d26cc2-cd69-432c-b035-58a0a2f9f978",
+  "date": "2020-04-14 23:06:39",
+  "source_url": "https://mastodon.technology/@roytang/103994779577322470#favorited-by-116058"
+}
