@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/985890696656650240/
+title: ''
 ---
 
-RT [@FuckYouBanks](https://twitter.com/FuckYouBanks/): So my nephew wanted to be Killmonger for his birthday... https://t.co/XxX7pvGyZa
+So my nephew wanted to be Killmonger for his birthday...
