@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/721434680071823360/
 ---
 
-Finally managed to get that 4 of a kind. Now I can quit this game lol https://t.co/4sSvBeEgc2
+Finally managed to get that 4 of a kind. Now I can quit this game lol

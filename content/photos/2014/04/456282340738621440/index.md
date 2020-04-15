@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/456282340738621440/
 ---
 
-RT [@SciencePorn](https://twitter.com/SciencePorn/): This joke is both good and bad. https://t.co/5DaJSGmUjd
+RT [@SciencePorn](https://twitter.com/SciencePorn/): This joke is both good and bad.
