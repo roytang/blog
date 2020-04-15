@@ -91,6 +91,7 @@
 {{ else }}
 <link href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}' rel="alternate" type="application/rss+xml" title="{{ .Title }}" />
 <link href='{{ with .OutputFormats.Get "jsonfeed" }}{{ .RelPermalink }}{{ end }}' rel="alternate" type="application/json" title="{{ .Title }} JSON Feed" />
+<link href='{{ with .OutputFormats.Get "hfeed" }}{{ .RelPermalink }}{{ end }}' rel="feed" type="application/html" title="{{ .Title }} H-Feed" />
 {{ end }}
 <link rel="canonical" href="{{ .Permalink }}" />
 
