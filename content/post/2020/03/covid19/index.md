@@ -570,7 +570,7 @@ Three days since the last entry. Since then, I've gone out three times, the most
 
 We had thought about having food delivered last Easter Sunday, but apparently we decided on it too late, by 4:30pm most of the open restos were no longer delivering.
 
-Not much to report on the government side. Not that things aren't happening, but it's more of the same, mostly.
+Not much to report on the government side. Not that things aren't happening, but it's more of the same, mostly. Although the good news is that some LGUs are adding their own testing programs, so hopefully we get a better idea of where we are in the days to come.
 
 As of tonight, we are at 5453 (+230 today, +805 since Sunday) cases and 349 (+14 today, +52 since Sunday) deaths. The rate of new cases has more or less held steady over the past few days, with about a thousand being added every 3-4 days. The good news is the recovery count has caught up to the death count, today it's at 353. This is excellent because it was probably only a week or so ago that the there were about twice as many deaths as recoveries.
 
