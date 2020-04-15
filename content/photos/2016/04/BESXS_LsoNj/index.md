@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/721546668840062976/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154539088268912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4f11b1/april_16th_gold/d25z7vf/
 tags:
 - sketchdaily
 ---
