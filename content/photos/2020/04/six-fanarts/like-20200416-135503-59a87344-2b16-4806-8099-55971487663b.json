@@ -1,0 +1,27 @@
+{
+  "text": "[Aleks Felipe](https://twitter.com/aleksfelipe) [liked this](https://twitter.com/roytang/status/1249707143822864385#favorited-by-12953232)",
+  "source_url": "https://twitter.com/roytang/status/1249707143822864385#favorited-by-12953232",
+  "name": "Aleks Felipe",
+  "date": "2020-04-16 13:55:03",
+  "id": "59a87344-2b16-4806-8099-55971487663b",
+  "url": "https://twitter.com/aleksfelipe",
+  "photo": null,
+  "source_obj": {
+    "published": null,
+    "type": "entry",
+    "wm-target": "https://roytang.net/2020/04/six-fanarts/",
+    "wm-property": "like-of",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1249707143822864385/12953232",
+    "wm-received": "2020-04-16T13:55:03Z",
+    "url": "https://twitter.com/roytang/status/1249707143822864385#favorited-by-12953232",
+    "wm-id": 783297,
+    "like-of": "https://roytang.net/2020/04/six-fanarts/",
+    "wm-private": false,
+    "author": {
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg",
+      "type": "card",
+      "name": "Aleks Felipe",
+      "url": "https://twitter.com/aleksfelipe"
+    }
+  }
+}
