@@ -1,8 +1,13 @@
 ---
-title: "Web Application Security"
 date: 2020-04-16
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104006104133566935
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1250624976618549249/
 tags:
 - software development
+title: Web Application Security
 ---
 
 A while back one of the biggest leaks of personal information in history was made by hackers accessing the Commission on Elections database here in the Philippines. More than 50 million voter registration records, including information such as full names, date of birth, address, among others. A small percentage of the data leaked also included email addresses and even passport numbers. The hack exposed more than half of the country’s population to the possibility of social engineering and other exploits. 
