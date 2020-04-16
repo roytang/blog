@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/324579624422096898/
+title: ''
 ---
 
-RT [@CBCebulski](https://twitter.com/CBCebulski/): RT [@westonfront](https://twitter.com/westonfront/): Both of Superman's dads are Robin Hood!
+RT [@westonfront](https://twitter.com/westonfront/): Both of Superman's dads are Robin Hood!

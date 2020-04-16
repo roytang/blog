@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/986259638038360065/
+title: ''
 ---
 
-RT [@Stana_Katic](https://twitter.com/Stana_Katic/): Everyone thinks of changing the world, but no one thinks of changing himself.
-- Leo Tolstoy https://t.co/e63ivLm768
+Everyone thinks of changing the world, but no one thinks of changing himself.
+
+- Leo Tolstoy
