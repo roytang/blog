@@ -1,10 +1,9 @@
 <div class="e-content">
 {{ if (.Params.toc) }}
-<div class="toc">
-<a class="toc_link" href="#toc">Show Table of Contents</a>
-<a class="toc_target" id="toc" />
+<details>
+    <summary>Show Table of Contents</summary>
     {{ .TableOfContents }}
-</div>    
+</details>
 {{ end }}
 {{ .Content }}
 {{ if .Params.dontinlinephotos }}

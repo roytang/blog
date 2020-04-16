@@ -276,33 +276,6 @@ table.grid_archive a {
     list-style-type: none;
 }
 
-/* Spoiler shortcode */
-.spoiler_inline {
-    display: inline;
-}
-.spoiler_container {
-    background-color: black;
-}
-.spoiler {
-    display: none;
-}
-.spoiler_target:target {
-    position: fixed;
-}
-.spoiler_target:target + .spoiler {
-    display: inline;
-}
-.toc nav {
-    display: none;
-}
-.toc_target:target {
-    position: fixed;
-}
-.toc_target:target + nav {
-    display: inline;
-}
-
-
 article {
     display: block;
     background-color: var(--container-color);
@@ -824,4 +797,12 @@ ul.entry_list {
 
 pre {
     max-width: 60em;
+}
+
+details.spoiler {
+    display:inline;
+}
+
+details summary {
+    color: var(--main-color);
 }

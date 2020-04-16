@@ -9,6 +9,8 @@ tags:
 title: Pure CSS Spoilers
 ---
 
+Edit 2020/04/17: A month and a half later, I found [a better way to do this](/2020/04/pure-html-toggles/)!
+
 I previously had some post that had some [content hidden via spoiler tags](/2018/10/october-2018-watching-lately), using a custom Hugo shortcode. Since I'm an [old-school developer](/2020/02/old-web/) I was previously doing this using some Javascript run on load:
 
 {{% highlight javascript %}}
