@@ -1,0 +1,27 @@
+{
+  "source_url": "https://mastodon.technology/@roytang/104006104133566935#favorited-by-52819",
+  "name": "Matej \u013dach \u2705",
+  "date": "2020-04-16 10:33:55",
+  "id": "7210ab13-0582-4fd2-a9f3-c6b24b4be50e",
+  "url": "https://social.matej-lach.me/@MatejLach",
+  "photo": null,
+  "source_obj": {
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/13a8daca63209b85388a3fb78f2b0d4c34dc2a69cd6c9c8a240edaba6cc7e3dd.png",
+      "name": "Matej \u013dach \u2705",
+      "url": "https://social.matej-lach.me/@MatejLach"
+    },
+    "type": "entry",
+    "wm-target": "https://roytang.net/2020/04/web-application-security/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "wm-received": "2020-04-16T10:33:55Z",
+    "wm-id": 783207,
+    "url": "https://mastodon.technology/@roytang/104006104133566935#favorited-by-52819",
+    "like-of": "https://roytang.net/2020/04/web-application-security/",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104006104133566935/52819",
+    "published": null
+  },
+  "text": "[Matej \u013dach \u2705](https://social.matej-lach.me/@MatejLach) [liked this](https://mastodon.technology/@roytang/104006104133566935#favorited-by-52819)"
+}
