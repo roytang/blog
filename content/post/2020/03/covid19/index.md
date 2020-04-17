@@ -574,4 +574,12 @@ Not much to report on the government side. Not that things aren't happening, but
 
 As of tonight, we are at 5453 (+230 today, +805 since Sunday) cases and 349 (+14 today, +52 since Sunday) deaths. The rate of new cases has more or less held steady over the past few days, with about a thousand being added every 3-4 days. The good news is the recovery count has caught up to the death count, today it's at 353. This is excellent because it was probably only a week or so ago that the there were about twice as many deaths as recoveries.
 
+### Friday, April the 17th
+
+Yesterday, a resolution by majority of senators asking the health secretary to resign came out. The signatories were mostly pro-admin senators too! Duterte quickly rejected the requested. Today, the socioeconomic planning secretary and [NEDA head offered his resignation](https://twitter.com/rapplerdotcom/status/1251045773443166208?s=21), partly due to personal reasons and partly due to "differences in philosophy with a few fellow cabinet members". The timing is weird and makes me think that he resigned due to Duque not resigning, but that's pure speculation lol. The more probable reason is that the other cabinet members don't agree with his recommendation to try to end the lockdown quickly? We can only speculate.
+
+An [entire sitio in Cebu is now considered infected](https://www.sunstar.com.ph/article/1852785) after mass testing found a large number of asymptomatic cases. Out of 53 confirmed positives, 51 were asymptomatic. That's a troubling rate, it may mean our actual number of confirmed cases may be up to 25 times more than previously thought. (Don't quote me on that, this is a single data point.)
+
+As of tonight, we are at 5878 (+218 today, +425 since Wednesday) cases, 387 (+25 today, +38 since Wednesday) deaths and 487 (+52) recoveries. Recoveries increasing faster than deaths, so that's promising.
+
 To be continued...
