@@ -114,6 +114,11 @@
             "Name": "Reddit",
             "URL": "https://reddit.com/u/hungryroy",
             "rel": "me"
+        },
+        {
+            "Name": "Ko-fi",
+            "URL": "https://ko-fi.com/roytang",
+            "rel": "me"
         }
     ],
     "subscribe": [
