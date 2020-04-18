@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/854695207647838208/
+title: ''
 ---
 
-RT [@anjpessumal](https://twitter.com/anjpessumal/): Duterte: As a matter of principle, I do not accept awards.
+Duterte: As a matter of principle, I do not accept awards.
 
-Also Duterte: https://t.co/uEvDIOxRt7
+
+
+Also Duterte:

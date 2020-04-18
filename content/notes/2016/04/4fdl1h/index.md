@@ -4,8 +4,13 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154545777493912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/722543537120616448/
 tags:
 - philippines
+- phelection2016
 ---
 
 #### Posted on r/Philippines: [2016 Senatorial Candidates Information Megathread](https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/)

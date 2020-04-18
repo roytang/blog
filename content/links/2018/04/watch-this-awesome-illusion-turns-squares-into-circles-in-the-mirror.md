@@ -8,4 +8,7 @@ link:
 slug: watch-this-awesome-illusion-turns-squares-into-circles-in-the-mirror
 source: pocket
 title: 'WATCH: This Awesome Illusion Turns Squares Into Circles in The Mirror'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/986974029784453120/
 ---
