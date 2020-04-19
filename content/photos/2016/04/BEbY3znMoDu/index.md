@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/722816772374552577/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154547346958912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4fmb51/april_20th_doors/d2ag3yl/
 tags:
 - sketchdaily
 ---
