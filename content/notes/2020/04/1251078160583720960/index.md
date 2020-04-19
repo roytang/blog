@@ -7,7 +7,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1251130160285315074/
 tags:
-- '2'
+- mtg
+- magicarena
+- twitch
+- mtgiko
 title: ''
 ---
 

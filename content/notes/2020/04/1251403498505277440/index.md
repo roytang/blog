@@ -10,7 +10,7 @@ tags:
 - twitch
 - magicarena
 - mtg
-- '3'
+- mtgiko
 title: ''
 ---
 

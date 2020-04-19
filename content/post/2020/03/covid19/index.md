@@ -582,4 +582,12 @@ An [entire sitio in Cebu is now considered infected](https://www.sunstar.com.ph/
 
 As of tonight, we are at 5878 (+218 today, +425 since Wednesday) cases, 387 (+25 today, +38 since Wednesday) deaths and 487 (+52) recoveries. Recoveries increasing faster than deaths, so that's promising.
 
+### Sunday, April the 19th
+
+I heard 6am mass via the TV. ABS-CBN broadcasts one, I think it's held in their studio. The celebrant was Fr. Jerry Orbos.
+
+Two more weeks of this, at least. Some people are hoping for partial lifting of the ECQ in May, but there's also the possibility of tighter restrictions, as the president has threatened. We'll see.
+
+
+
 To be continued...

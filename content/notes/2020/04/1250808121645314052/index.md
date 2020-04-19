@@ -10,6 +10,7 @@ tags:
 - magicarena
 - mtg
 - twitch
+- mtgiko
 title: ''
 ---
 
