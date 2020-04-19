@@ -1,6 +1,11 @@
 ---
 date: 2020-04-19
 slug: weeknotes-2020-04-19
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104024152750462417
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1251780089227825152/
 tags:
 - weeknotes
 title: Weeknotes 2020-04-19
