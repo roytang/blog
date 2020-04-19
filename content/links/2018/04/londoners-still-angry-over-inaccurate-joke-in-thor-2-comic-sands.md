@@ -8,4 +8,7 @@ link:
 slug: londoners-still-angry-over-inaccurate-joke-in-thor-2-comic-sands
 source: pocket
 title: Londoners Still Angry Over Inaccurate Joke in 'Thor 2' - Comic Sands
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/987204817692123137/
 ---

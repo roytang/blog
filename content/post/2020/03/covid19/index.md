@@ -586,8 +586,8 @@ As of tonight, we are at 5878 (+218 today, +425 since Wednesday) cases, 387 (+25
 
 I heard 6am mass via the TV. ABS-CBN broadcasts one, I think it's held in their studio. The celebrant was Fr. Jerry Orbos.
 
-Two more weeks of this, at least. Some people are hoping for partial lifting of the ECQ in May, but there's also the possibility of tighter restrictions, as the president has threatened. We'll see.
+Two more weeks of this, at least. Some people are hoping for partial lifting of the ECQ in May, but there's also the possibility of tighter restrictions, as the president has threatened. Rumors and feelers point in either direction being possible. We'll see.
 
-
+As of tonight, we are at 6259 (+172 today, +381 since friday) cases, 409 (+12 today, +22 since Friday) deaths and 572 (+56 today, +85 since Friday) recoveries. Recoveries growing faster than deaths for the past 3 days, and confirmed cases seemingly tapering off? Seems a bit too good to be true? Again, we'll see!
 
 To be continued...
