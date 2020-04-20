@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/987546842362626053/
+title: ''
 ---
 
-RT [@reverentgeek](https://twitter.com/reverentgeek/): RT if you wear glasses. https://t.co/F5DkFDKRJL
+RT if you wear glasses.
