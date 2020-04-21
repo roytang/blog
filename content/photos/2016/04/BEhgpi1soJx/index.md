@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/723678299138838529/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154552151918912
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4fxip4/april_22nd_free_draw_friday_earth_day/d2deiq0/
 tags:
 - sketchdaily
 ---

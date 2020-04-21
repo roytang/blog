@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/193877151806795776/
+title: ''
 ---
 
-RT [@rickyyean](https://twitter.com/rickyyean/): "Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy." http://t.co/rN4akMI ...
+"Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy." http://bit.ly/HRYupk (via [@paulg](https://twitter.com/paulg/))

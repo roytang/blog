@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/723318167255162880/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154550459383912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4frzup/april_21st_inefficiency/d2chlht/
 tags:
 - sketchdaily
 ---
