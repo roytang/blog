@@ -1,0 +1,27 @@
+{
+  "photo": null,
+  "id": "d33f9ec6-725e-4637-92c5-ba7cfe467f99",
+  "source_url": "https://mastodon.technology/@roytang/104034494354480304#favorited-by-63024",
+  "date": "2020-04-21 10:49:54",
+  "text": "[{ Biason::Julio::new(); }](https://functional.cafe/@juliobiason) [liked this](https://mastodon.technology/@roytang/104034494354480304#favorited-by-63024)",
+  "source_obj": {
+    "wm-id": 785227,
+    "type": "entry",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104034494354480304/63024",
+    "published": null,
+    "wm-received": "2020-04-21T10:49:54Z",
+    "wm-property": "like-of",
+    "like-of": "https://roytang.net/2020/04/working-with-people-from-other-cultures/",
+    "url": "https://mastodon.technology/@roytang/104034494354480304#favorited-by-63024",
+    "wm-target": "https://roytang.net/2020/04/working-with-people-from-other-cultures/",
+    "author": {
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/db449301c05c435d602d1d8be96a26145eb8b5f684e8a56a11c8eb8104edc0ab.jpg",
+      "type": "card",
+      "name": "{ Biason::Julio::new(); }",
+      "url": "https://functional.cafe/@juliobiason"
+    },
+    "wm-private": false
+  },
+  "name": "{ Biason::Julio::new(); }",
+  "url": "https://functional.cafe/@juliobiason"
+}
