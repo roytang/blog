@@ -1,9 +1,14 @@
 ---
-title: "Working with people from other cultures"
 date: 2020-04-21
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104034494354480304
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1252441951820906496/
 tags:
 - software development
 - communication
+title: Working with people from other cultures
 ---
 
 Unless you’re working at a small shop that only serves local clients, software development these days is often an international endeavor. That means the aspiring software developer needs to be able to work with and get along with people of different cultures.
@@ -24,4 +29,4 @@ A significant number of years later, I also got to work with some staff from a E
 
 Even work-wise, it was a vastly different way of working with the Europeans. With the Chinese people we worked with on our projects before, everything was very formal and well-documented and there would be action items and detailed program specs to follow and any changes had to go through a rigid process and schedules would need to be adjusted and such. With the Europeans, we would often have meetings and many of the items would not be resolved and would be moved to the next meeting. It would not be unusual for discussions to go round and round a few times before finally managing to come to a decision. And we’d never get clear specifications from them, only some general items or ideas of what they wanted, and we really had to iterate and show them how things would look before they would sign off (and even if they did sign off, they’re very likely to change their minds later at a moment’s notice!) If you’ve ever seen the BBC show W1A, it’s a pretty accurate portrayal of how it was! 
 
-Working remotely and communication via channels like email, IM or video calls is already a challenge even when working with other locals. The additional dimension of a foreign culture means we have to be much more willing to adjust to other people as needed. This means being more open to how other people work with, giving them the benefit of the doubt, clarifying where things seems unclear or where there may be miscommunication, and so on. 
+Working remotely and communication via channels like email, IM or video calls is already a challenge even when working with other locals. The additional dimension of a foreign culture means we have to be much more willing to adjust to other people as needed. This means being more open to how other people work with, giving them the benefit of the doubt, clarifying where things seems unclear or where there may be miscommunication, and so on.
