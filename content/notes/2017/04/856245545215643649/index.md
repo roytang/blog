@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/856245545215643649/
+title: ''
 ---
 
-RT [@wakaleo](https://twitter.com/wakaleo/): The problem with software development: https://t.co/DzvPkB91e1
+The problem with software development:
