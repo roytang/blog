@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/856246441983049731/
+title: ''
 ---
 
-RT [@meghana27](https://twitter.com/meghana27/): [@shanselman](https://twitter.com/shanselman/) Came across this today, ties in nicely with what you said. https://t.co/VeqI4dhHlQ
+[@shanselman](https://twitter.com/shanselman/) Came across this today, ties in nicely with what you said.
