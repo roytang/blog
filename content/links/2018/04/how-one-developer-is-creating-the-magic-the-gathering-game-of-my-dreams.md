@@ -8,4 +8,7 @@ link:
 slug: how-one-developer-is-creating-the-magic-the-gathering-game-of-my-dreams
 source: pocket
 title: 'How One Developer Is Creating The ''Magic: The Gathering'' Game Of My Dreams'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/989136544312299520/
 ---

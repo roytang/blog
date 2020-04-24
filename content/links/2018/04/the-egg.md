@@ -8,4 +8,7 @@ link:
 slug: the-egg
 source: pocket
 title: The Egg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/989139022483279872/
 ---

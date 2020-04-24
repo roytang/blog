@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/195034553981747200/
+title: ''
 ---
 
-RT [@alvinjtang](https://twitter.com/alvinjtang/): Dati iniimagine mo lang sa comics yung mga laban. Ang ganda mapanuod sa malaking screen.
+Dati iniimagine mo lang sa comics yung mga laban. Ang ganda mapanuod sa malaking screen.
