@@ -588,6 +588,14 @@ I heard 6am mass via the TV. ABS-CBN broadcasts one, I think it's held in their 
 
 Two more weeks of this, at least. Some people are hoping for partial lifting of the ECQ in May, but there's also the possibility of tighter restrictions, as the president has threatened. Rumors and feelers point in either direction being possible. We'll see.
 
-As of tonight, we are at 6259 (+172 today, +381 since friday) cases, 409 (+12 today, +22 since Friday) deaths and 572 (+56 today, +85 since Friday) recoveries. Recoveries growing faster than deaths for the past 3 days, and confirmed cases seemingly tapering off? Seems a bit too good to be true? Again, we'll see!
+As of tonight, we are at 6259 (+172 today, +381 since Friday) cases, 409 (+12 today, +22 since Friday) deaths and 572 (+56 today, +85 since Friday) recoveries. Recoveries growing faster than deaths for the past 3 days, and confirmed cases seemingly tapering off? Seems a bit too good to be true? Again, we'll see!
+
+### Friday, April the 24th
+
+This morning, the government officially extended the ECQ in Metro Manila up to May 15th. Not surprising, especially given the rumors and the trends.
+
+A couple of days ago, there was this altercation at a quezon city checkpoint where cops ended up shooting and killing a mentally unstable ex-military person after a short standoff. Supposedly because he made a motion as if to draw something from his bag. The police claim he had a gun, but the witnesses and relatives say otherwise. There's a lot of different videos of the encounter too. The PNP initially cleared the officer in the encounter, but today it was announced that homicide charges would be filed. It's a good step towards accountability, but I'm skeptical it would lead anywhere. But more importantly - cops really need to get over this mentality of preferring the use of lethal force.
+
+As of tonight, we are at 7192 cases (+211 today, +933 since Sunday), 477 deaths (+15 today, +68 since Sunday), and 762 (+40 today, +190 since Sunday) recoveries. It's great that recoveries are still outpacing deaths, but I'm worried about the number of still unresolved active cases. Around two weeks ago, there were a bit 4000 cases, but as of today, we only have around 1200 deaths+recoveries, so there's around 2800 cases that are serious enough to still be unresolved after 2 weeks.
 
 To be continued...
