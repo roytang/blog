@@ -58,6 +58,8 @@ The most important question is how confident are you in your own programming ski
 
 For the Q&A part, in general you just need to be honest. But you also need to be able to communicate well, which is something not many people will be able to do. Good communication skill is an essential skill as a developer though, you may want to look for ways to practice and gain confidence in it. I recommend posting on a blog (like this one) to sharpen your communication skills! (Verbal is harder to practice, you need to find someone willing to listen and give you feedback.)
 
+I would also recommend becoming familiar with the requirements for the position you are interviewing for, understanding which parts of your background are most relevant, and highlighting them during any Q&A. In fact, I would prepare a short pitch describing why you think you are a good fit for the role. Often during Q&A I like to start off with asking the candidate to give a short overview of their background, and very few actually give a good response (a lot don't even have a short response), so being prepared in this manner would be very impressive.
+
 It would also help to ask around about the specific recruitment process for the company you're interviewing for, if you have any contacts, or sometimes there's information on the internet. (Good internet searching is an essential developer skill as well!) Just knowing what to expect can boost your confidence.
 
 I've also given some other advice in a [Q&A last year on reddit](/2019/02/reddit-ph-software-dev-qa/). Good luck!
