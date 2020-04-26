@@ -8,6 +8,7 @@ These are quotes (allegedly) made by me, compiled by people I know over the year
 
 There is also [a Twitter bot](https://twitter.com/tangincheek) that randomly tweets one of these per day, if you're into that sort of thing.
 
+
 ### 1
 
 Difficult tasks are like drugs: just say 'No'.
@@ -22,14 +23,15 @@ it might have been a terrible plan, but sometimes we need to go through the terr
 
 ### 3
 
-On learning how to make code readable: "These are things you must 
-seek out on your own."
+On learning how to make code readable: &quot;These are things you must 
+
+seek out on your own.&quot;
 
 ---
 
 ### 4
 
-"I can choose to pass on the bestness"
+&quot;I can choose to pass on the bestness&quot;
 
 ---
 
@@ -66,6 +68,7 @@ I am an agent of chaos
 ### 10
 
 that's how science works... you think of things then you try it... pag na try mo 
+
 na then alam mo na
 
 ---
@@ -78,7 +81,7 @@ well of course we dont, we're not girls
 
 ### 12
 
-<hunter> why would you believe an economist
+&lt;hunter&gt; why would you believe an economist
 
 ---
 
@@ -102,8 +105,9 @@ i do it out of a sense of responsibility
 
 ### 16
 
-<hunter> I suggest you doublecheck your facts!
-<hunter> in fact, trees are plants
+&lt;hunter&gt; I suggest you doublecheck your facts!
+
+&lt;hunter&gt; in fact, trees are plants
 
 ---
 
@@ -139,34 +143,37 @@ I'll allow it
 
 ### 22
 
-<hunter> man, they all sound the same
-<hunter> i dont know if i chose the right song 
+&lt;hunter&gt; man, they all sound the same
+
+&lt;hunter&gt; i dont know if i chose the right song 
 
 ---
 
 ### 23
 
-<hunter> attempt lang?
-<hunter> nde kelangan magsucceed? 
+&lt;hunter&gt; attempt lang?
+
+&lt;hunter&gt; nde kelangan magsucceed? 
 
 ---
 
 ### 24
 
-<hunter> oh complain to mr xxx? i do that all the time
-<hunter> well i complain to everyone 
+&lt;hunter&gt; oh complain to mr xxx? i do that all the time
+
+&lt;hunter&gt; well i complain to everyone 
 
 ---
 
 ### 25
 
-<hunter> someone spilled cheese rings all over me
+&lt;hunter&gt; someone spilled cheese rings all over me
 
 ---
 
 ### 26
 
-<hunter> but will it blend?
+&lt;hunter&gt; but will it blend?
 
 ---
 
@@ -178,38 +185,45 @@ they're young and in love
 
 ### 28
 
-<hunter> the word disabled looks weird
+&lt;hunter&gt; the word disabled looks weird
 
 ---
 
 ### 29
 
-<hunter> I'm on a horse
+&lt;hunter&gt; I'm on a horse
 
 ---
 
 ### 30
 
-<hunter> look at your answer
-<hunter> then look at the question
-<hunter> look back
-<hunter> your answer is now diamonds 
+&lt;hunter&gt; look at your answer
+
+&lt;hunter&gt; then look at the question
+
+&lt;hunter&gt; look back
+
+&lt;hunter&gt; your answer is now diamonds 
 
 ---
 
 ### 31
 
-<hunter> magWHO kaya ako
-<hunter> para syang Elixir sa Final Fantasy 
-<hunter> iipunin mo para sa final boss
-<hunter> tapos pagdating dun, nde mo rin magagamit 
+&lt;hunter&gt; magWHO kaya ako
+
+&lt;hunter&gt; para syang Elixir sa Final Fantasy 
+
+&lt;hunter&gt; iipunin mo para sa final boss
+
+&lt;hunter&gt; tapos pagdating dun, nde mo rin magagamit 
 
 ---
 
 ### 32
 
-<hunter> > <c> dapat may idea tayo ng industry average so we can stop 
-being too hard on ourselves <- are you aiming to be just average?
+&lt;hunter&gt; &gt; &lt;c&gt; dapat may idea tayo ng industry average so we can stop 
+
+being too hard on ourselves &lt;- are you aiming to be just average?
 
 ---
 
@@ -233,8 +247,9 @@ but it's like trading the current set of problems for a different set of problem
 
 ### 36
 
-<hunter> wala na kong sin
-<hunter> i'm immaculate
+&lt;hunter&gt; wala na kong sin
+
+&lt;hunter&gt; i'm immaculate
 
 ---
 
@@ -246,10 +261,13 @@ parang level ni paxi ung logic
 
 ### 38
 
-<hunter> well maybe it's because i dont judge people by their 
+&lt;hunter&gt; well maybe it's because i dont judge people by their 
+
 appearances
 
-<hunter> as long as you still have the same number of bones
+
+
+&lt;hunter&gt; as long as you still have the same number of bones
 
 ---
 
@@ -291,8 +309,9 @@ life is lived moment to moment
 
 ### 45
 
-<hunter> just derp along
-<hunter> you'll be fine
+&lt;hunter&gt; just derp along
+
+&lt;hunter&gt; you'll be fine
 
 ---
 
@@ -322,9 +341,11 @@ i have special powers
 
 ### 50
 
-<hunter> it's annoying when you just want to do a thing, but then there's a process
-<hunter> that needs to be followed
-<hunter> and you feel like "bah, wag na lang" 
+&lt;hunter&gt; it's annoying when you just want to do a thing, but then there's a process
+
+&lt;hunter&gt; that needs to be followed
+
+&lt;hunter&gt; and you feel like &quot;bah, wag na lang&quot; 
 
 ---
 
@@ -336,8 +357,9 @@ thats what you get for stalking
 
 ### 52
 
-<hunter> no, we dont want to talk about it
-<hunter> it was a traumatizing experience 
+&lt;hunter&gt; no, we dont want to talk about it
+
+&lt;hunter&gt; it was a traumatizing experience 
 
 ---
 
@@ -345,21 +367,25 @@ thats what you get for stalking
 
 C: Master @tangincheek, what is your opinion on socialized health care?
 
-<hunter> socialized health care is cool
+
+
+&lt;hunter&gt; socialized health care is cool
 
 ---
 
 ### 54
 
-<hunter> i dont like communism
-<hunter> capitalism4life 
+&lt;hunter&gt; i dont like communism
+
+&lt;hunter&gt; capitalism4life 
 
 ---
 
 ### 55
 
-<hunter> but the whole world will be fine
-<hunter> fine fine time 
+&lt;hunter&gt; but the whole world will be fine
+
+&lt;hunter&gt; fine fine time 
 
 ---
 
@@ -371,14 +397,15 @@ why does it matter na wala kaming risk
 
 ### 57
 
-<hunter> if you love him, set him free
+&lt;hunter&gt; if you love him, set him free
 
 ---
 
 ### 58
 
-<hunter> dont worry
-<hunter> other people have terrible code too 
+&lt;hunter&gt; dont worry
+
+&lt;hunter&gt; other people have terrible code too 
 
 ---
 
@@ -390,69 +417,77 @@ EDSA is never done
 
 ### 60
 
-<hunter> teka iniisip ko pa kung best na ung bacon
-<hunter> i also like spam 
+&lt;hunter&gt; teka iniisip ko pa kung best na ung bacon
+
+&lt;hunter&gt; i also like spam 
 
 ---
 
 ### 61
 
-<hunter> alam nyo ung mga asian foods
-<hunter> bakit konti lang ang cheese
-<hunter> sa mga asian dishes
-<hunter> is it because we dont have enough cows 
+&lt;hunter&gt; alam nyo ung mga asian foods
+
+&lt;hunter&gt; bakit konti lang ang cheese
+
+&lt;hunter&gt; sa mga asian dishes
+
+&lt;hunter&gt; is it because we dont have enough cows 
 
 ---
 
 ### 62
 
-<hunter> man, ayoko talaga ng may dextrose lol
-<hunter> although iniimagine ko ganun pakiramdam ni wolverine
+&lt;hunter&gt; man, ayoko talaga ng may dextrose lol
+
+&lt;hunter&gt; although iniimagine ko ganun pakiramdam ni wolverine
 
 ---
 
 ### 63
 
-<hunter> i wonder if i'm doing premature optimization
-<hunter> it's the root of all evil! 
+&lt;hunter&gt; i wonder if i'm doing premature optimization
+
+&lt;hunter&gt; it's the root of all evil! 
 
 ---
 
 ### 64
 
-<hunter> c wala kasing automated tests, so may Fear
+&lt;hunter&gt; c wala kasing automated tests, so may Fear
 
 ---
 
 ### 65
 
-<hunter> wag kang magcocommit ng anything that will break other things
+&lt;hunter&gt; wag kang magcocommit ng anything that will break other things
 
 ---
 
 ### 66
 
-<hunter> however, i'm ok with the plan that involves hitting
+&lt;hunter&gt; however, i'm ok with the plan that involves hitting
 
 ---
 
 ### 67
 
-<hunter> i would kill for pizza
-<hunter> no questions asked 
+&lt;hunter&gt; i would kill for pizza
+
+&lt;hunter&gt; no questions asked 
 
 ---
 
 ### 68
 
-<hunter> people arent forced to rape =/
+&lt;hunter&gt; people arent forced to rape =/
 
 ---
 
 ### 69
 
-<hunter> i'll fix everything
-<hunter> but first i'll take a nap 
+&lt;hunter&gt; i'll fix everything
+
+&lt;hunter&gt; but first i'll take a nap 
 
 ---
 
@@ -465,16 +500,20 @@ mark my words, this will haunt us later
 ### 71
 
 may naisip ako... Pag ang janitor ay isang spy, pwede siya 
+
 tawagin na cleaning agent
 
 ---
 
 ### 72
 
-<hunter> i wouldnt want people to stay just for the money if they're not happy
-<hunter> people should go where they're happy
-<hunter> money affects your happiness minimums, not your maximums
-<hunter> your maximums are limited by things like bad work environment, bad coworkers, etc
+&lt;hunter&gt; i wouldnt want people to stay just for the money if they're not happy
+
+&lt;hunter&gt; people should go where they're happy
+
+&lt;hunter&gt; money affects your happiness minimums, not your maximums
+
+&lt;hunter&gt; your maximums are limited by things like bad work environment, bad coworkers, etc
 
 ---
 
@@ -516,17 +555,21 @@ wala pa sating pinanganak nung time ni rizal!
 
 ### 79
 
-<jaeger> we're planning a revolution
-<jaeger> kelangan mag blood compact muna
-<jaeger> mlm
+&lt;jaeger&gt; we're planning a revolution
+
+&lt;jaeger&gt; kelangan mag blood compact muna
+
+&lt;jaeger&gt; mlm
 
 ---
 
 ### 80
 
-<jaeger> i dont have the Problems tab open
-<jaeger> meron din siguro
-<jaeger> i'm more concerned about the billions of TODO and FIXME 
+&lt;jaeger&gt; i dont have the Problems tab open
+
+&lt;jaeger&gt; meron din siguro
+
+&lt;jaeger&gt; i'm more concerned about the billions of TODO and FIXME 
 
 ---
 
@@ -538,8 +581,9 @@ i'll judge who i want!
 
 ### 82
 
-<jaeger> i give up
-<jaeger> i'll let my lawyer handle it 
+&lt;jaeger&gt; i give up
+
+&lt;jaeger&gt; i'll let my lawyer handle it 
 
 ---
 
@@ -558,51 +602,54 @@ stangby
 ### 85
 
 I want to laze around.
+
 Weekends are for being lazy.
 
 ---
 
 ### 86
 
-<jaeger> problem kasi talaga ung may standards doc tayo that doesnt necessarily conform with the reality of the code
+&lt;jaeger&gt; problem kasi talaga ung may standards doc tayo that doesnt necessarily conform with the reality of the code
 
 ---
 
 ### 87
 
-<jaeger> sorry is only if I was wrong
+&lt;jaeger&gt; sorry is only if I was wrong
 
 ---
 
 ### 88
 
-"stop being poor... be awesome instead (wut)"
+&quot;stop being poor... be awesome instead (wut)&quot;
 
 ---
 
 ### 89
 
-"Be wary of what you read on the internet."
+&quot;Be wary of what you read on the internet.&quot;
 
 ---
 
 ### 90
 
-"pero yung basurahan, hindi siya hungry"
+&quot;pero yung basurahan, hindi siya hungry&quot;
 
 ---
 
 ### 91
 
-<jaeger> nde naman effective ito e
-<jaeger> kung ang goal is to reduce lates/sls
-<jaeger> dapat may parusa na lang. pag nagkawarning, magpapakalbo
+&lt;jaeger&gt; nde naman effective ito e
+
+&lt;jaeger&gt; kung ang goal is to reduce lates/sls
+
+&lt;jaeger&gt; dapat may parusa na lang. pag nagkawarning, magpapakalbo
 
 ---
 
 ### 92
 
-jaeger> yung problem pa kasi dito sa current incentive program, even if mageffort ka, most probably wala ka pa ring prize
+jaeger&gt; yung problem pa kasi dito sa current incentive program, even if mageffort ka, most probably wala ka pa ring prize
 
 ---
 
@@ -614,7 +661,7 @@ foreseeing is for psychics
 
 ### 94
 
-<jaeger> sana kofi ang pinangalan ni norman black sa anak nya
+&lt;jaeger&gt; sana kofi ang pinangalan ni norman black sa anak nya
 
 ---
 
@@ -626,19 +673,25 @@ the world is a selfish place
 
 ### 96
 
-<stang (roy)> yung handling for each screen
-<stang (roy)> has to be by each screen :p
+&lt;stang (roy)&gt; yung handling for each screen
+
+&lt;stang (roy)&gt; has to be by each screen :p
 
 ---
 
 ### 97
 
-<jaeger> do protestants observe lent
-<jaeger> or easter
-<jaeger> meron bang celebration na kasabay nung easter sunday
-<jaeger> are you getting free holidays from us
-<jaeger> i dont want you to have free holidays
-<jaeger> dapat kami lang 
+&lt;jaeger&gt; do protestants observe lent
+
+&lt;jaeger&gt; or easter
+
+&lt;jaeger&gt; meron bang celebration na kasabay nung easter sunday
+
+&lt;jaeger&gt; are you getting free holidays from us
+
+&lt;jaeger&gt; i dont want you to have free holidays
+
+&lt;jaeger&gt; dapat kami lang 
 
 ---
 
@@ -650,15 +703,17 @@ guys, sa tingin nyo ba dapat may height reqt ang mga pulis?
 
 ### 99
 
-<jaeger> time warps are also time space warps
-<jaeger> with space warp set to 0 
+&lt;jaeger&gt; time warps are also time space warps
+
+&lt;jaeger&gt; with space warp set to 0 
 
 ---
 
 ### 100
 
-<jaeger> HOT
-<jaeger> IM SO HOT RIGHT NOW 
+&lt;jaeger&gt; HOT
+
+&lt;jaeger&gt; IM SO HOT RIGHT NOW 
 
 ---
 
@@ -683,23 +738,28 @@ thats how science works... once na replicate mo na... its true
 ### 104
 
 why cant i leave you guys alone for 1 day without a bunch of 
+
 urgent things appearing when i get back
 
 ---
 
 ### 105
 
-<jaeger> so kanina ang haba ng pila ng fx
-<jaeger> tapos nung malapit na ko, ung dumating na fx, may sticker sa likod for nancy binay
-<jaeger> i was like, sasakay ba ko dito
-<jaeger> luckily nde ako umabot
-<jaeger> grabe, the driver might be an idiot! 
+&lt;jaeger&gt; so kanina ang haba ng pila ng fx
+
+&lt;jaeger&gt; tapos nung malapit na ko, ung dumating na fx, may sticker sa likod for nancy binay
+
+&lt;jaeger&gt; i was like, sasakay ba ko dito
+
+&lt;jaeger&gt; luckily nde ako umabot
+
+&lt;jaeger&gt; grabe, the driver might be an idiot! 
 
 ---
 
 ### 106
 
-<jaeger> parang gagamitin ko na yung insult na "siguro iboboto mo si nancy binay"
+&lt;jaeger&gt; parang gagamitin ko na yung insult na &quot;siguro iboboto mo si nancy binay&quot;
 
 ---
 
@@ -735,8 +795,9 @@ Imagine dati it'd take months for news to travel from Europe to Asia and vice-ve
 
 ### 112
 
-<jaeger> im just glad nde tayo nakeep ng japan
-<jaeger> i dont speak japanese 
+&lt;jaeger&gt; im just glad nde tayo nakeep ng japan
+
+&lt;jaeger&gt; i dont speak japanese 
 
 ---
 
@@ -748,22 +809,25 @@ the price of being the best is to always be the best
 
 ### 114
 
-<jaeger> excited lang ako magtrabaho kanina
-<jaeger> but now i'm tired 
+&lt;jaeger&gt; excited lang ako magtrabaho kanina
+
+&lt;jaeger&gt; but now i'm tired 
 
 ---
 
 ### 115
 
 * macho do you find it funny that people hold on to their handsfree headset while speaking to the person on the other end of the line?
-<jaeger> parang si professor x lang pag ginagamit ung telepathy
-<jaeger> kelangan hawakan ung gilid ng ulo 
+
+&lt;jaeger&gt; parang si professor x lang pag ginagamit ung telepathy
+
+&lt;jaeger&gt; kelangan hawakan ung gilid ng ulo 
 
 ---
 
 ### 116
 
-if you dont know whether you need to set it to true, you probably don't
+
 
 ---
 
@@ -775,8 +839,9 @@ effing unforeseen consequences
 
 ### 118
 
-<jaeger> ayoko na magtrabaho
-<jaeger> nakakapagod today 
+&lt;jaeger&gt; ayoko na magtrabaho
+
+&lt;jaeger&gt; nakakapagod today 
 
 ---
 
@@ -812,8 +877,9 @@ complicated lang kasi ayaw mong isimplify
 
 ### 124
 
-<jaeger> para kang si nancy
-<jaeger> wala ka namang track record pero feeling mo dapat pagkatiwalaan ka namin na kaya mo gawin 
+&lt;jaeger&gt; para kang si nancy
+
+&lt;jaeger&gt; wala ka namang track record pero feeling mo dapat pagkatiwalaan ka namin na kaya mo gawin 
 
 ---
 
@@ -831,15 +897,17 @@ c you are not your music library
 
 ### 127
 
-<jaeger> i often have trouble with pearl jam titles
-<jaeger> like they have that song where the title is old woman in a small town or something 
+&lt;jaeger&gt; i often have trouble with pearl jam titles
+
+&lt;jaeger&gt; like they have that song where the title is old woman in a small town or something 
 
 ---
 
 ### 128
 
-<jaeger> i loled
-<jaeger> you guys give me such joy 
+&lt;jaeger&gt; i loled
+
+&lt;jaeger&gt; you guys give me such joy 
 
 ---
 
@@ -851,8 +919,9 @@ happiness is free
 
 ### 130
 
-<jaeger> meron bang occupation where if the girl had that job, ayaw mo na sa kanya?
-<jaeger> kunwari magtataho, ok lang sa yo? 
+&lt;jaeger&gt; meron bang occupation where if the girl had that job, ayaw mo na sa kanya?
+
+&lt;jaeger&gt; kunwari magtataho, ok lang sa yo? 
 
 ---
 
@@ -864,8 +933,9 @@ good things come to those who go out and work for it
 
 ### 132
 
-<jaeger> never ka naman magkakaron ng certainty sa buhay
-<jaeger> so just move forward even with doubt 
+&lt;jaeger&gt; never ka naman magkakaron ng certainty sa buhay
+
+&lt;jaeger&gt; so just move forward even with doubt 
 
 ---
 
@@ -883,9 +953,11 @@ marami ka pang kakaining extra rice
 
 ### 135
 
-<jaeger> you hate too easily
-<jaeger> the dark side is strong within you 
-<jaeger> what fear you?
+&lt;jaeger&gt; you hate too easily
+
+&lt;jaeger&gt; the dark side is strong within you 
+
+&lt;jaeger&gt; what fear you?
 
 ---
 
@@ -897,7 +969,7 @@ pag nawalan tayo ng kuryente, mag-c-CVS tayo by hand
 
 ### 137
 
-Since napanood ko na Iron Man 1, papanoorin ko na lang Iron Man 2. That way, parang napanood ko na din yung 3, kasi 2+1 equaaaals'
+
 
 ---
 
@@ -915,29 +987,33 @@ even if you blabber nonsensically, at least you'll be able to correct later
 
 ### 140
 
-<jaeger> it's ok to try and fail
-<jaeger> dont be like tz 
+&lt;jaeger&gt; it's ok to try and fail
+
+&lt;jaeger&gt; dont be like tz 
 
 ---
 
 ### 141
 
-<jaeger> dont overthink it
-<jaeger> just start talking about something, anything 
+&lt;jaeger&gt; dont overthink it
+
+&lt;jaeger&gt; just start talking about something, anything 
 
 ---
 
 ### 142
 
-<jaeger> we should make a chart
-<jaeger> i like charts 
+&lt;jaeger&gt; we should make a chart
+
+&lt;jaeger&gt; i like charts 
 
 ---
 
 ### 143
 
-<jaeger> dapat umiwas ka na lang sa mga taong confused or disrespectful in general
-<jaeger> instead of being racist 
+&lt;jaeger&gt; dapat umiwas ka na lang sa mga taong confused or disrespectful in general
+
+&lt;jaeger&gt; instead of being racist 
 
 ---
 
@@ -955,14 +1031,15 @@ you dont get back time
 
 ### 146
 
-<jaeger> if the increase depends on hardships, if you had the same hardships this year as the year before, does it mean wala kang increase?
+&lt;jaeger&gt; if the increase depends on hardships, if you had the same hardships this year as the year before, does it mean wala kang increase?
 
 ---
 
 ### 147
 
-<jaeger> nde mo naman kelangan magtrabaho ng 8 hours now
-<jaeger> you dont even need to work at all 
+&lt;jaeger&gt; nde mo naman kelangan magtrabaho ng 8 hours now
+
+&lt;jaeger&gt; you dont even need to work at all 
 
 ---
 
@@ -970,14 +1047,17 @@ you dont get back time
 
 you let yourself be blinded by fear
 
+
+
 don't let yourself be controlled by fear
 
 ---
 
 ### 149
 
-<jaeger> that's terrible
-<jaeger> also it's the sort of thing no one would notice if i "accidentally" removed it 
+&lt;jaeger&gt; that's terrible
+
+&lt;jaeger&gt; also it's the sort of thing no one would notice if i &quot;accidentally&quot; removed it 
 
 ---
 
@@ -995,57 +1075,65 @@ i dont plan to die
 
 ### 152
 
-<jaeger> be that way
-<jaeger> noone ever tells me anything 
+&lt;jaeger&gt; be that way
+
+&lt;jaeger&gt; noone ever tells me anything 
 
 ---
 
 ### 153
 
-<jaeger> guys, bawal na magwithdraw ng more than 100k
-<jaeger> how will i live 
+&lt;jaeger&gt; guys, bawal na magwithdraw ng more than 100k
+
+&lt;jaeger&gt; how will i live 
 
 ---
 
 ### 154
 
-<jaeger> bawal na rin bumili ng liquor
-<jaeger> i dunno why that's needed 
+&lt;jaeger&gt; bawal na rin bumili ng liquor
+
+&lt;jaeger&gt; i dunno why that's needed 
 
 ---
 
 ### 155
 
-<jaeger> ang init
-<jaeger> i'm so hot right now 
+&lt;jaeger&gt; ang init
+
+&lt;jaeger&gt; i'm so hot right now 
 
 ---
 
 ### 156
 
-<jaeger> dapat may anagrams training course tayo
+&lt;jaeger&gt; dapat may anagrams training course tayo
 
 ---
 
 ### 157
 
-<jaeger> tag-100 naman minimum ung vote buying
-<jaeger> ang cheap nung bente pesos lang
-<jaeger> parang corneto 
+&lt;jaeger&gt; tag-100 naman minimum ung vote buying
+
+&lt;jaeger&gt; ang cheap nung bente pesos lang
+
+&lt;jaeger&gt; parang corneto 
 
 ---
 
 ### 158
 
-<jaeger> dont worry about it too much
-<jaeger> someone has to be last 
+&lt;jaeger&gt; dont worry about it too much
+
+&lt;jaeger&gt; someone has to be last 
 
 ---
 
 ### 159
 
-<jaeger> wang na ass pa
-<jaeger> asswang 
+&lt;jaeger&gt; wang na ass pa
+
+&lt;jaeger&gt; asswang 
 
 ---
 
@@ -1081,15 +1169,17 @@ i have a dirty finger
 
 ### 165
 
-<jaeger> that's not a word
-<jaeger> get your mind out of the gutter 
+&lt;jaeger&gt; that's not a word
+
+&lt;jaeger&gt; get your mind out of the gutter 
 
 ---
 
 ### 166
 
-<jaeger> the stock markey doesnt care about nancy binay
-<jaeger> basta stable ang elections 
+&lt;jaeger&gt; the stock markey doesnt care about nancy binay
+
+&lt;jaeger&gt; basta stable ang elections 
 
 ---
 
@@ -1119,30 +1209,35 @@ all of your combos are bad!
 
 ### 171
 
-<jaeger> excluding poor people because reasons
-<jaeger> that's a slippery slope to tyranny and oppression 
+&lt;jaeger&gt; excluding poor people because reasons
+
+&lt;jaeger&gt; that's a slippery slope to tyranny and oppression 
 
 ---
 
 ### 172
 
-<jaeger> you can be a tyrant
-<jaeger> mas madali maging efficient pag evil
-<jaeger> but then you'd have to be evil 
+&lt;jaeger&gt; you can be a tyrant
+
+&lt;jaeger&gt; mas madali maging efficient pag evil
+
+&lt;jaeger&gt; but then you'd have to be evil 
 
 ---
 
 ### 173
 
-<jaeger> being evil is always easy
-<jaeger> people would never be evil if it was hard 
+&lt;jaeger&gt; being evil is always easy
+
+&lt;jaeger&gt; people would never be evil if it was hard 
 
 ---
 
 ### 174
 
-<jaeger> did you read the part where i said "im not sure"?
-<jaeger> it means idkshit 
+&lt;jaeger&gt; did you read the part where i said &quot;im not sure&quot;?
+
+&lt;jaeger&gt; it means idkshit 
 
 ---
 
@@ -1178,27 +1273,35 @@ we're in peril! :p
 
 ### 180
 
-<jaeger> kasi naman
-<jaeger> you can't just say "editable grid" then understood na
-<jaeger> you say "editable grid" i hear "problems" 
+&lt;jaeger&gt; kasi naman
+
+&lt;jaeger&gt; you can't just say &quot;editable grid&quot; then understood na
+
+&lt;jaeger&gt; you say &quot;editable grid&quot; i hear &quot;problems&quot; 
 
 ---
 
 ### 181
 
-<jaeger> i just thought you'd like a warning
-<jaeger> editable grids are like the hardest thing to get right
-<jaeger> kasi everyone expects na naiintindihan mo na
-<jaeger> when the truth is, maraming details na kelangan ispecify
-<jaeger> and marami kayong case na hindi agad maiisip ihandle
-<jaeger> tapos everyone does it differently pa 
+&lt;jaeger&gt; i just thought you'd like a warning
+
+&lt;jaeger&gt; editable grids are like the hardest thing to get right
+
+&lt;jaeger&gt; kasi everyone expects na naiintindihan mo na
+
+&lt;jaeger&gt; when the truth is, maraming details na kelangan ispecify
+
+&lt;jaeger&gt; and marami kayong case na hindi agad maiisip ihandle
+
+&lt;jaeger&gt; tapos everyone does it differently pa 
 
 ---
 
 ### 182
 
-<hunter> pag lasing ka kasi you cant drive
-<hunter> so you have to take the bus 
+&lt;hunter&gt; pag lasing ka kasi you cant drive
+
+&lt;hunter&gt; so you have to take the bus 
 
 ---
 
@@ -1216,8 +1319,9 @@ everything's important
 
 ### 185
 
-<jaeger> rich naman mga ateneans
-<jaeger> they have cars 
+&lt;jaeger&gt; rich naman mga ateneans
+
+&lt;jaeger&gt; they have cars 
 
 ---
 
@@ -1241,9 +1345,11 @@ sa gabi lang nagkakatruck sa visayas
 
 ### 189
 
-<jaeger> meron ba tayong main.css where I can just add stuff
-<jaeger> without having to theme
-<jaeger> i dislike theme 
+&lt;jaeger&gt; meron ba tayong main.css where I can just add stuff
+
+&lt;jaeger&gt; without having to theme
+
+&lt;jaeger&gt; i dislike theme 
 
 ---
 
@@ -1255,14 +1361,16 @@ parang ung nagfollowup ka agad sa waiter, kakakuha pa lang nya ng order
 
 ### 191
 
-<jaeger> wag kang malumbay
-<jaeger> stop being sad 
+&lt;jaeger&gt; wag kang malumbay
+
+&lt;jaeger&gt; stop being sad 
 
 ---
 
 ### 192
 
 (5:17:58 PM) stang (roy): this might not be accurate
+
 (5:18:18 PM) stang (roy): but hey, you only live once
 
 ---
@@ -1275,10 +1383,13 @@ when will the weather change so that we dont have this ridiculous heat all the t
 
 ### 194
 
-<jaeger> kung kelan malapit na uwian, the server decides it wants to be cleaned
+&lt;jaeger&gt; kung kelan malapit na uwian, the server decides it wants to be cleaned
+
 * jaeger kicks server
-<jaeger> nde na ko mag OT, it
-<jaeger> it's stressful 
+
+&lt;jaeger&gt; nde na ko mag OT, it
+
+&lt;jaeger&gt; it's stressful 
 
 ---
 
@@ -1296,8 +1407,9 @@ i dont see how that could be answered objectively
 
 ### 197
 
-<jaeger> then bakit ito yung prize if no one likes it!
-<jaeger> ayaw ko rin kaya ko pinapamigay 
+&lt;jaeger&gt; then bakit ito yung prize if no one likes it!
+
+&lt;jaeger&gt; ayaw ko rin kaya ko pinapamigay 
 
 ---
 
@@ -1309,15 +1421,17 @@ sometimes i regret automatically replying to all
 
 ### 199
 
-<jaeger> i was about to say we have ridiculously long file names
-<jaeger> but then i remembered emeeting 
+&lt;jaeger&gt; i was about to say we have ridiculously long file names
+
+&lt;jaeger&gt; but then i remembered emeeting 
 
 ---
 
 ### 200
 
-<jaeger> well
-<jaeger> nangyari sakin last week where it was actually useful to have DoAfterDoAfterInsert 
+&lt;jaeger&gt; well
+
+&lt;jaeger&gt; nangyari sakin last week where it was actually useful to have DoAfterDoAfterInsert 
 
 ---
 
@@ -1359,7 +1473,7 @@ if rock makes you immortal... then that explains Steven Tyler
 
 ### 207
 
-ano mas maangas na reply: "yup" or "yeah"
+ano mas maangas na reply: &quot;yup&quot; or &quot;yeah&quot;
 
 ---
 
@@ -1383,17 +1497,21 @@ game, mula ngayon, pagalitan nyo ako if i'm slouching
 
 ### 211
 
-<jaeger> i'm going to put the ff in an email reply:
-<jaeger> Technically speaking, we have not implemented anything like this before; we just like to pretend we can do it when we respond to presales.
-<jaeger> too snarky?
-<jaeger> but it's the truth! 
+&lt;jaeger&gt; i'm going to put the ff in an email reply:
+
+&lt;jaeger&gt; Technically speaking, we have not implemented anything like this before; we just like to pretend we can do it when we respond to presales.
+
+&lt;jaeger&gt; too snarky?
+
+&lt;jaeger&gt; but it's the truth! 
 
 ---
 
 ### 212
 
-<jaeger> hindi kasi natin triny talaga sa proposals
-<jaeger> we just literally pretend that we can do it 
+&lt;jaeger&gt; hindi kasi natin triny talaga sa proposals
+
+&lt;jaeger&gt; we just literally pretend that we can do it 
 
 ---
 
@@ -1417,7 +1535,7 @@ catholics are christians!
 
 ### 216
 
-testers try nyo sa bug report description, sa dulo merong "ayusin mo"
+testers try nyo sa bug report description, sa dulo merong &quot;ayusin mo&quot;
 
 ---
 
@@ -1447,29 +1565,33 @@ madalas hindi ko nadidistinguish yung mga girls
 
 ### 221
 
-<jaeger> just become a hobo
-<jaeger> and live under a bridge or something
-<jaeger> tapos after 2 weeks show up at the office, shaggy and unshaven 
+&lt;jaeger&gt; just become a hobo
+
+&lt;jaeger&gt; and live under a bridge or something
+
+&lt;jaeger&gt; tapos after 2 weeks show up at the office, shaggy and unshaven 
 
 ---
 
 ### 222
 
-<jaeger> stop using opera you hipster
+&lt;jaeger&gt; stop using opera you hipster
 
 ---
 
 ### 223
 
-<jaeger> try mo mag get latest
-<jaeger> baka merong gwapo na nagcommit ng fix pero hindi pa tinest 
+&lt;jaeger&gt; try mo mag get latest
+
+&lt;jaeger&gt; baka merong gwapo na nagcommit ng fix pero hindi pa tinest 
 
 ---
 
 ### 224
 
-<hunter> sabi ko lang mahal
-<hunter> tapos when i looked around wala na sya 
+&lt;hunter&gt; sabi ko lang mahal
+
+&lt;hunter&gt; tapos when i looked around wala na sya 
 
 ---
 
@@ -1487,9 +1609,11 @@ ang condition ko to buy a car is pag meron akong driver
 
 ### 227
 
-<jaeger> .css("display", "awesome") pala
-<jaeger> hindi naging awesome yung page mo?
-<jaeger> baka it only works if awesome din yung nagexecute 
+&lt;jaeger&gt; .css(&quot;display&quot;, &quot;awesome&quot;) pala
+
+&lt;jaeger&gt; hindi naging awesome yung page mo?
+
+&lt;jaeger&gt; baka it only works if awesome din yung nagexecute 
 
 ---
 
@@ -1501,9 +1625,11 @@ whatever you do, dont cross the streams #programming
 
 ### 229
 
-<jaeger> it's isn't necessary for the picker picker to be randomly picked
-<jaeger> therefore pwedeng isa lang ung picker picker
-<jaeger> and no need for a picker picker picker 
+&lt;jaeger&gt; it's isn't necessary for the picker picker to be randomly picked
+
+&lt;jaeger&gt; therefore pwedeng isa lang ung picker picker
+
+&lt;jaeger&gt; and no need for a picker picker picker 
 
 ---
 
@@ -1521,12 +1647,17 @@ tayo kaya ako ng restaurant, house of bacon
 
 ### 232
 
-<jaeger> so i was tempted to go to hungry hippo for bacon rice
-<jaeger> but i was like, "nah, too unhealthy"
-<jaeger> so i went to east
-<jaeger> and the very first stall when i went in had a tray of bacon
-<jaeger> @_@
-<jaeger> cant fight fate! 
+&lt;jaeger&gt; so i was tempted to go to hungry hippo for bacon rice
+
+&lt;jaeger&gt; but i was like, &quot;nah, too unhealthy&quot;
+
+&lt;jaeger&gt; so i went to east
+
+&lt;jaeger&gt; and the very first stall when i went in had a tray of bacon
+
+&lt;jaeger&gt; @_@
+
+&lt;jaeger&gt; cant fight fate! 
 
 ---
 
@@ -1568,9 +1699,11 @@ we're still using the old stupid tag classes
 
 ### 239
 
-<jaeger> natawa ako dun sa image of marriage announcement between Amy Wang and Brad Holder
-<jaeger> the Wang-Holder nuptials
-<jaeger> get your mind out of the gutter 
+&lt;jaeger&gt; natawa ako dun sa image of marriage announcement between Amy Wang and Brad Holder
+
+&lt;jaeger&gt; the Wang-Holder nuptials
+
+&lt;jaeger&gt; get your mind out of the gutter 
 
 ---
 
@@ -1600,14 +1733,15 @@ also, mulan is better
 
 ### 244
 
-<jaeger> you can talk to globe, but smart cares
+&lt;jaeger&gt; you can talk to globe, but smart cares
 
 ---
 
 ### 245
 
-<jaeger> why are you asking me
-<jaeger> i cant help it if im a big deal 
+&lt;jaeger&gt; why are you asking me
+
+&lt;jaeger&gt; i cant help it if im a big deal 
 
 ---
 
@@ -1620,6 +1754,7 @@ i dont just give out my jokes for free
 ### 247
 
 trust me, im french
+
 i can french press 300 pounds
 
 ---
@@ -1650,8 +1785,9 @@ malakas ba ung smell ng something burning? baka mamatay tayo
 
 ### 252
 
-<jaeger> thats not a weakness
-<jaeger> its a feature 
+&lt;jaeger&gt; thats not a weakness
+
+&lt;jaeger&gt; its a feature 
 
 ---
 
@@ -1663,24 +1799,29 @@ you're overpreparing, just do it
 
 ### 254
 
-<jaeger> wala akong pagibig e, pagasa lang
-<jaeger> wut 
+&lt;jaeger&gt; wala akong pagibig e, pagasa lang
+
+&lt;jaeger&gt; wut 
 
 ---
 
 ### 255
 
-<jaeger> marami namang uses ang payong
-<jaeger> nde lang pang ulan
-<jaeger> pwede rin pang araw 
-<jaeger> or as a weapon
+&lt;jaeger&gt; marami namang uses ang payong
+
+&lt;jaeger&gt; nde lang pang ulan
+
+&lt;jaeger&gt; pwede rin pang araw 
+
+&lt;jaeger&gt; or as a weapon
 
 ---
 
 ### 256
 
-<jaeger> oh, have you heard about the indie game Octodad
-<jaeger> it's about an octobus trying to pretend to be a normal human in a normal family 
+&lt;jaeger&gt; oh, have you heard about the indie game Octodad
+
+&lt;jaeger&gt; it's about an octobus trying to pretend to be a normal human in a normal family 
 
 ---
 
@@ -1692,10 +1833,13 @@ i want to try different cheeses
 
 ### 258
 
-<jaeger> asia is huge
-<jaeger> it should be asia
-<jaeger> mas malaki ung odds 
-<jaeger> of tomatoes
+&lt;jaeger&gt; asia is huge
+
+&lt;jaeger&gt; it should be asia
+
+&lt;jaeger&gt; mas malaki ung odds 
+
+&lt;jaeger&gt; of tomatoes
 
 ---
 
@@ -1713,15 +1857,17 @@ whats with the haikus? / i dont know how to do that / refridgerator
 
 ### 261
 
-<jaeger> ki in that picture looks the same as i've seen him in person
-<jaeger> i never thought of him as pogi...but then again, i'm a guy 
+&lt;jaeger&gt; ki in that picture looks the same as i've seen him in person
+
+&lt;jaeger&gt; i never thought of him as pogi...but then again, i'm a guy 
 
 ---
 
 ### 262
 
-<jaeger> you should be reaching out to them more
-<jaeger> dont be your usual stoic self 
+&lt;jaeger&gt; you should be reaching out to them more
+
+&lt;jaeger&gt; dont be your usual stoic self 
 
 ---
 
@@ -1733,14 +1879,16 @@ well, just stalk them on facebook until you're comfortable enough
 
 ### 264
 
-<jaeger> well the problem is
-<jaeger> you're a plant 
+&lt;jaeger&gt; well the problem is
+
+&lt;jaeger&gt; you're a plant 
 
 ---
 
 ### 265
 
 san daw galing ang power ng koreans
+
 edi sa korean-te
 
 ---
@@ -1753,22 +1901,25 @@ ang metro manila mabudburan lang ng konting ulan, floods and traffic na
 
 ### 267
 
-<jaeger> sad news guise
-<jaeger> it's not bread and spread today 
+&lt;jaeger&gt; sad news guise
+
+&lt;jaeger&gt; it's not bread and spread today 
 
 ---
 
 ### 268
 
-<jaeger> grabe kagabi sa bus bay ng mega
-<jaeger> may dagat ng tao 
+&lt;jaeger&gt; grabe kagabi sa bus bay ng mega
+
+&lt;jaeger&gt; may dagat ng tao 
 
 ---
 
 ### 269
 
-<jaeger> i imagine some toys attending a convention
-<jaeger> bawal daw ang humans 
+&lt;jaeger&gt; i imagine some toys attending a convention
+
+&lt;jaeger&gt; bawal daw ang humans 
 
 ---
 
@@ -1780,23 +1931,27 @@ actually, im tired of being german
 
 ### 271
 
-<hunter> just leave your stuff behind
-<hunter> be free of the trappings of this world 
+&lt;hunter&gt; just leave your stuff behind
+
+&lt;hunter&gt; be free of the trappings of this world 
 
 ---
 
 ### 272
 
-<hunter> you pirates!
-<hunter> arrrr 
+&lt;hunter&gt; you pirates!
+
+&lt;hunter&gt; arrrr 
 
 ---
 
 ### 273
 
-<hunter> i'm just being helpful
-<hunter> and yet you doubt me
-<hunter> how hard it is to be a helpful man 
+&lt;hunter&gt; i'm just being helpful
+
+&lt;hunter&gt; and yet you doubt me
+
+&lt;hunter&gt; how hard it is to be a helpful man 
 
 ---
 
@@ -1808,22 +1963,25 @@ mamayang rush hour pa uulan
 
 ### 275
 
-<hunter> i dont blame him
-<hunter> ayaw ko rin magfarm 
+&lt;hunter&gt; i dont blame him
+
+&lt;hunter&gt; ayaw ko rin magfarm 
 
 ---
 
 ### 276
 
-<hunter> are you a crack addict
-<vongola> wth are you buying pirated stuff 
+&lt;hunter&gt; are you a crack addict
+
+&lt;vongola&gt; wth are you buying pirated stuff 
 
 ---
 
 ### 277
 
-<hunter> lion king 1/2? is it like ranma 1/2?
-<hunter> simba becomes a girl pag nabasa ng tubig
+&lt;hunter&gt; lion king 1/2? is it like ranma 1/2?
+
+&lt;hunter&gt; simba becomes a girl pag nabasa ng tubig
 
 ---
 
@@ -1847,8 +2005,9 @@ hey tama lahat ng pronunciation ko
 
 ### 281
 
-<hunter> i cant pronounce z anyway
-<hunter> it led to some confusion when i kept talking about dragonball sea 
+&lt;hunter&gt; i cant pronounce z anyway
+
+&lt;hunter&gt; it led to some confusion when i kept talking about dragonball sea 
 
 ---
 
@@ -1884,8 +2043,9 @@ i dont mind being approved
 
 ### 287
 
-<hunter> what if hindi natuloy yung robbery sa home alone
-<hunter> tas andun pa lahat ng traps paguwi ng family 
+&lt;hunter&gt; what if hindi natuloy yung robbery sa home alone
+
+&lt;hunter&gt; tas andun pa lahat ng traps paguwi ng family 
 
 ---
 
@@ -1897,9 +2057,11 @@ the only reason to go to hk is for work!
 
 ### 289
 
-<hunter> how can he be male
-<hunter> he doesnt wear pants
-<hunter> there's nothing there! 
+&lt;hunter&gt; how can he be male
+
+&lt;hunter&gt; he doesnt wear pants
+
+&lt;hunter&gt; there's nothing there! 
 
 ---
 
@@ -1917,27 +2079,35 @@ what if nagkatypo sa template nung pcv. tapos the form was named PRETTY CASH VOU
 
 ### 292
 
-<hunter> so im playing this rpg right
-<hunter> and i had to give a first name and a last name
-<hunter> I always use "Guy" as a first name sa rpgs
-<hunter> tapos wala akong maisip na last name so I put "Hunter"
-<hunter> i'm already 40 hours in before ko napansin na Guy Hunter didnt sound good 
+&lt;hunter&gt; so im playing this rpg right
+
+&lt;hunter&gt; and i had to give a first name and a last name
+
+&lt;hunter&gt; I always use &quot;Guy&quot; as a first name sa rpgs
+
+&lt;hunter&gt; tapos wala akong maisip na last name so I put &quot;Hunter&quot;
+
+&lt;hunter&gt; i'm already 40 hours in before ko napansin na Guy Hunter didnt sound good 
 
 ---
 
 ### 293
 
-<hunter> considering how mission-critical winona is, it needs to be more stable
-<hunter> like it should have horses 
+&lt;hunter&gt; considering how mission-critical winona is, it needs to be more stable
+
+&lt;hunter&gt; like it should have horses 
 
 ---
 
 ### 294
 
-<hunter> that thing with the singles-baiting is one of the things i dislike about weddings
-<hunter> that and the beheadings 
-<hunter> i mean, it's fine if people volunteer for it
-<hunter> but it's annoying when napipilitan mga tao 
+&lt;hunter&gt; that thing with the singles-baiting is one of the things i dislike about weddings
+
+&lt;hunter&gt; that and the beheadings 
+
+&lt;hunter&gt; i mean, it's fine if people volunteer for it
+
+&lt;hunter&gt; but it's annoying when napipilitan mga tao 
 
 ---
 
@@ -1973,8 +2143,9 @@ Code written past midnight is the most dangerous code
 
 ### 300
 
-<hunter> ugh, i dunno how users work
-<hunter> i'll stay out of this 
+&lt;hunter&gt; ugh, i dunno how users work
+
+&lt;hunter&gt; i'll stay out of this 
 
 ---
 
@@ -1992,7 +2163,7 @@ binigyan ka na ng opening, you blew it
 
 ### 303
 
-tz walks into a bar. "Ouch," he says
+tz walks into a bar. &quot;Ouch,&quot; he says
 
 ---
 
@@ -2010,12 +2181,17 @@ i remember na iniisip ko before pag naging formal ang dress code, magreresign na
 
 ### 306
 
-<hunter> gagawa ako ng shop, Snack Overflow
+&lt;hunter&gt; gagawa ako ng shop, Snack Overflow
 
-<hunter> well, maybe i'll just put it in the RPG i'm going to make
-<hunter> that's cheaper 
 
-<hunter> i'll also put in the RPG that NPC who just says "I'm working on a project with Java"
+
+&lt;hunter&gt; well, maybe i'll just put it in the RPG i'm going to make
+
+&lt;hunter&gt; that's cheaper 
+
+
+
+&lt;hunter&gt; i'll also put in the RPG that NPC who just says &quot;I'm working on a project with Java&quot;
 
 ---
 
@@ -2063,8 +2239,9 @@ parang mamamatay ka pag nasa bubong ka ng mrt
 
 ### 314
 
-<hunter> i think my intuition is pretty good here
-<hunter> there's a high probability that they are from cebu 
+&lt;hunter&gt; i think my intuition is pretty good here
+
+&lt;hunter&gt; there's a high probability that they are from cebu 
 
 ---
 
@@ -2094,9 +2271,11 @@ hey, im just representing the people here
 
 ### 319
 
-<hunter> also, jollibee fries > mcdo fries
-<hunter> might be because i dont like mcdo in general haha 
-<hunter> im just against american imperialism
+&lt;hunter&gt; also, jollibee fries &gt; mcdo fries
+
+&lt;hunter&gt; might be because i dont like mcdo in general haha 
+
+&lt;hunter&gt; im just against american imperialism
 
 ---
 
@@ -2180,9 +2359,11 @@ the unwritten rule is in your heart
 
 ### 333
 
-<hunter> step 1: read
-<hunter> step 2: ???
-<hunter> step 3: prophet! 
+&lt;hunter&gt; step 1: read
+
+&lt;hunter&gt; step 2: ???
+
+&lt;hunter&gt; step 3: prophet! 
 
 ---
 
@@ -2194,21 +2375,23 @@ if i leave, im not standing by!
 
 ### 335
 
-<hunter> it's not like we can plan ahead of time when shit happens pag malapit na yung target
+&lt;hunter&gt; it's not like we can plan ahead of time when shit happens pag malapit na yung target
 
 ---
 
 ### 336
 
-<hunter> sino may sala
-<hunter> may sala kami sa bahay 
+&lt;hunter&gt; sino may sala
+
+&lt;hunter&gt; may sala kami sa bahay 
 
 ---
 
 ### 337
 
-(AM) renz: <hunter> they can prism me all they want 
-<hunter> magpose pa ko 
+(AM) renz: &lt;hunter&gt; they can prism me all they want 
+
+&lt;hunter&gt; magpose pa ko 
 
 ---
 
@@ -2256,9 +2439,11 @@ i didnt see that written anywhere! #unwrittenlaws
 
 ### 345
 
-<hunter> pag salted, two users with the same password will have different random strings
-<hunter> yung isa matabang
-<hunter> wut 
+&lt;hunter&gt; pag salted, two users with the same password will have different random strings
+
+&lt;hunter&gt; yung isa matabang
+
+&lt;hunter&gt; wut 
 
 ---
 
@@ -2270,8 +2455,9 @@ zombies are too dead to get points
 
 ### 347
 
-<hunter> it's practically friday
-<hunter> i can almost smell the weekend 
+&lt;hunter&gt; it's practically friday
+
+&lt;hunter&gt; i can almost smell the weekend 
 
 ---
 
@@ -2283,13 +2469,13 @@ it's a good thing we're standby then!
 
 ### 349
 
-SCS. That's what our problem is
+
 
 ---
 
 ### 350
 
-don't try to justify yourself
+
 
 ---
 
@@ -2319,15 +2505,17 @@ uh, please rephrase your question in a manner specific to your problem
 
 ### 355
 
-<hunter> there is no in general at the moment
-<hunter> there is only the case by case basis 
+&lt;hunter&gt; there is no in general at the moment
+
+&lt;hunter&gt; there is only the case by case basis 
 
 ---
 
 ### 356
 
-<hunter> well mura yun for you and me
-<hunter> but poor people will be sad 
+&lt;hunter&gt; well mura yun for you and me
+
+&lt;hunter&gt; but poor people will be sad 
 
 ---
 
@@ -2387,8 +2575,9 @@ i hear you volunteering
 
 ### 366
 
-<hunter> on the contrary
-<hunter> everytime they win tuwang-tuwa sila 
+&lt;hunter&gt; on the contrary
+
+&lt;hunter&gt; everytime they win tuwang-tuwa sila 
 
 ---
 
@@ -2400,24 +2589,29 @@ i would never say something so outrageous
 
 ### 368
 
-<hunter> well no
-<hunter> feeling ko relax pa rin sila
-<hunter> theyre probably having crumpets right now
-<hunter> and chit chatting about the royal baby 
+&lt;hunter&gt; well no
+
+&lt;hunter&gt; feeling ko relax pa rin sila
+
+&lt;hunter&gt; theyre probably having crumpets right now
+
+&lt;hunter&gt; and chit chatting about the royal baby 
 
 ---
 
 ### 369
 
-<hunter> anyway, let's not worry about it
-<hunter> basta let's do our best! 
+&lt;hunter&gt; anyway, let's not worry about it
+
+&lt;hunter&gt; basta let's do our best! 
 
 ---
 
 ### 370
 
-<hunter> i dont blame people
-<hunter> but it's josiah's fault 
+&lt;hunter&gt; i dont blame people
+
+&lt;hunter&gt; but it's josiah's fault 
 
 ---
 
@@ -2429,8 +2623,9 @@ DI pwedeng driven by emotions ang diet
 
 ### 372
 
-<hunter> what kelan ko yan sinabi
-<hunter> i feel like half the things you quote about me arent true 
+&lt;hunter&gt; what kelan ko yan sinabi
+
+&lt;hunter&gt; i feel like half the things you quote about me arent true 
 
 ---
 
@@ -2461,20 +2656,22 @@ di na importante ang kasaysayan. You should focus on the present
 ### 377
 
 (8:13:46 PM) stang (roy): wala ka namang titignan
+
 (8:13:49 PM) stang (roy): it's not a mystery
 
 ---
 
 ### 378
 
-<hunter> hanggang 12 lang yung uat talaga
-<hunter> yung extra hour is for shenanigans 
+&lt;hunter&gt; hanggang 12 lang yung uat talaga
+
+&lt;hunter&gt; yung extra hour is for shenanigans 
 
 ---
 
 ### 379
 
-the answer is always "I dont know, but we can find out together"
+the answer is always &quot;I dont know, but we can find out together&quot;
 
 ---
 
@@ -2504,15 +2701,17 @@ i dont think translating hentai is a problem
 
 ### 384
 
-<hunter> oh youre asking me
-<hunter> i thought you were informing me lol 
+&lt;hunter&gt; oh youre asking me
+
+&lt;hunter&gt; i thought you were informing me lol 
 
 ---
 
 ### 385
 
-<hunter> well, in the first year of my presidency
-<hunter> the first budget i submit will have no allocation for pork barrel 
+&lt;hunter&gt; well, in the first year of my presidency
+
+&lt;hunter&gt; the first budget i submit will have no allocation for pork barrel 
 
 ---
 
@@ -2530,9 +2729,11 @@ i'm also immune to chemicals
 
 ### 388
 
-<hunter> i've actually already done the profiling
-<hunter> but i cant find anything of interest
-<hunter> but then again i wasnt looking too hard 
+&lt;hunter&gt; i've actually already done the profiling
+
+&lt;hunter&gt; but i cant find anything of interest
+
+&lt;hunter&gt; but then again i wasnt looking too hard 
 
 ---
 
@@ -2562,8 +2763,9 @@ what if we outlaw being excessively rich?
 
 ### 393
 
-<hunter> feeling ko nde na talaga ako pwede
-<hunter> parating may mga crisis starting 9pm 
+&lt;hunter&gt; feeling ko nde na talaga ako pwede
+
+&lt;hunter&gt; parating may mga crisis starting 9pm 
 
 ---
 
@@ -2587,9 +2789,11 @@ i wouldnt want to live in a place where pants are illegal
 
 ### 397
 
-<hunter> ang tagal ko pinagisipan nung violators will be whipped
-<hunter> other options were: violaters will be flogged
-<hunter> violators will be tarred and feathered 
+&lt;hunter&gt; ang tagal ko pinagisipan nung violators will be whipped
+
+&lt;hunter&gt; other options were: violaters will be flogged
+
+&lt;hunter&gt; violators will be tarred and feathered 
 
 ---
 
@@ -2607,7 +2811,7 @@ i dislike this girl
 
 ### 400
 
-sa side ko i'm like "it's written right there!"
+sa side ko i'm like &quot;it's written right there!&quot;
 
 ---
 
@@ -2625,8 +2829,9 @@ in fairness, maraming nakabasa nung violators will be whipped
 
 ### 403
 
-<hunter> i dislike na hardcoded yung pangalan ko dun sa calendar
-<hunter> the only way to get out of it is to recruit someone else named Roy 
+&lt;hunter&gt; i dislike na hardcoded yung pangalan ko dun sa calendar
+
+&lt;hunter&gt; the only way to get out of it is to recruit someone else named Roy 
 
 ---
 
@@ -2644,24 +2849,29 @@ stupid humans!
 
 ### 406
 
-<hunter> stupid humans!
-<hunter> .
-<hunter> bat kayo tumahimik
-<hunter> sorry for calling you humans stupid 
+&lt;hunter&gt; stupid humans!
+
+&lt;hunter&gt; .
+
+&lt;hunter&gt; bat kayo tumahimik
+
+&lt;hunter&gt; sorry for calling you humans stupid 
 
 ---
 
 ### 407
 
-<hunter> try using eskyuel for the actual word sequel
+&lt;hunter&gt; try using eskyuel for the actual word sequel
+
 * hunter napanood mo na yung SQL ng despicable me? 
 
 ---
 
 ### 408
 
-<hunter> catholic priests dont have sects
-<hunter> other catholics can have as much sects as they want 
+&lt;hunter&gt; catholic priests dont have sects
+
+&lt;hunter&gt; other catholics can have as much sects as they want 
 
 ---
 
@@ -2673,15 +2883,17 @@ it doesnt feel like anything, thats the point
 
 ### 410
 
-<hunter> thats what happens when you bumble around!
+&lt;hunter&gt; thats what happens when you bumble around!
 
 ---
 
 ### 411
 
-<hunter> im not sure that person exists
-<hunter> baka alamat lang
-<hunter> baka si jsze 
+&lt;hunter&gt; im not sure that person exists
+
+&lt;hunter&gt; baka alamat lang
+
+&lt;hunter&gt; baka si jsze 
 
 ---
 
@@ -2717,15 +2929,17 @@ alangan naman may sat work sa fri
 
 ### 417
 
-<hunter> im curious which part of the sentence x had trouble parsing
-<hunter> well, hindi pala sya sentence 
+&lt;hunter&gt; im curious which part of the sentence x had trouble parsing
+
+&lt;hunter&gt; well, hindi pala sya sentence 
 
 ---
 
 ### 418
 
-<hunter> i remember all your birthdays
-<hunter> pero hindi ako bumabati
+&lt;hunter&gt; i remember all your birthdays
+
+&lt;hunter&gt; pero hindi ako bumabati
 
 ---
 
@@ -2743,7 +2957,7 @@ e kasi naman suspicious talaga!
 
 ### 421
 
-is this "survey" for a "friend"?
+is this &quot;survey&quot; for a &quot;friend&quot;?
 
 ---
 
@@ -2767,24 +2981,29 @@ only the final round matters
 
 ### 425
 
-<hunter> pano kaya pag magresign ako bigla
-<hunter> hirap maging responsable lol 
+&lt;hunter&gt; pano kaya pag magresign ako bigla
+
+&lt;hunter&gt; hirap maging responsable lol 
 
 ---
 
 ### 426
 
-<hunter> ganyan naman lahat ng tao
-<hunter> it's easier to get angry over email/chat/internets whatever
-<hunter> kesa face to face
-<hunter> kasi impersonal 
+&lt;hunter&gt; ganyan naman lahat ng tao
+
+&lt;hunter&gt; it's easier to get angry over email/chat/internets whatever
+
+&lt;hunter&gt; kesa face to face
+
+&lt;hunter&gt; kasi impersonal 
 
 ---
 
 ### 427
 
-<hunter> im not sure if one should suddenly decide to take a month off while stressed
-<hunter> making decisions while stressed is a bad idea 
+&lt;hunter&gt; im not sure if one should suddenly decide to take a month off while stressed
+
+&lt;hunter&gt; making decisions while stressed is a bad idea 
 
 ---
 
@@ -2796,14 +3015,15 @@ is there a place we can go where we can just shout out loud
 
 ### 429
 
-I don't know how to work with humans
+
 
 ---
 
 ### 430
 
-<hunter> unions are bad 
-<hunter> dapat union all
+&lt;hunter&gt; unions are bad 
+
+&lt;hunter&gt; dapat union all
 
 ---
 
@@ -2833,15 +3053,17 @@ wala pang ibang nakaintindi nung joke
 
 ### 435
 
-1:30:22 <hunter> you got rejected?
-<hunter> that implies you actually tried something! 
+1:30:22 &lt;hunter&gt; you got rejected?
+
+&lt;hunter&gt; that implies you actually tried something! 
 
 ---
 
 ### 436
 
-<hunter> no i dont mind
-<hunter> it's only banned when you're being annoying 
+&lt;hunter&gt; no i dont mind
+
+&lt;hunter&gt; it's only banned when you're being annoying 
 
 ---
 
@@ -2878,7 +3100,9 @@ nothing like a critical to wake you up in the morning
 ### 442
 
 I wanted a breakfast meal
+
 I got a jolly hotdog
+
 I've never been more disappointed with a jolly hotdog in my life
 
 ---
@@ -2891,7 +3115,8 @@ we need more statuses
 
 ### 444
 
-<hunter> we should refer to colors IRL by winona status
+&lt;hunter&gt; we should refer to colors IRL by winona status
+
 * hunter for fixing na yung traffic light! 
 
 ---
@@ -2904,23 +3129,27 @@ we dont have time for shenanigans
 
 ### 446
 
-<hunter> you can watch me enjoy the device
-<hunter> iykwim 
+&lt;hunter&gt; you can watch me enjoy the device
+
+&lt;hunter&gt; iykwim 
 
 ---
 
 ### 447
 
-<hunter> I've already slept on it
-<hunter> it would help if you guys donated say P200 each to support me
-<hunter> it's not like i can't afford it 
+&lt;hunter&gt; I've already slept on it
+
+&lt;hunter&gt; it would help if you guys donated say P200 each to support me
+
+&lt;hunter&gt; it's not like i can't afford it 
 
 ---
 
 ### 448
 
-<hunter> grabe may data cap
-<hunter> how savage 
+&lt;hunter&gt; grabe may data cap
+
+&lt;hunter&gt; how savage 
 
 ---
 
@@ -2938,8 +3167,9 @@ ganyan talaga when being evasive
 
 ### 451
 
-<hunter> let the food come to you
-<hunter> be like honey to flies 
+&lt;hunter&gt; let the food come to you
+
+&lt;hunter&gt; be like honey to flies 
 
 ---
 
@@ -2981,15 +3211,17 @@ im all out of ****s to give
 
 ### 458
 
-<hunter> shift ka rin
-<hunter> oh sorry, mali basa ko 
+&lt;hunter&gt; shift ka rin
+
+&lt;hunter&gt; oh sorry, mali basa ko 
 
 ---
 
 ### 459
 
-<hunter> we're at the brink of insanity kahit andito ako
-<hunter> masanay ka na lang na living on the edge 
+&lt;hunter&gt; we're at the brink of insanity kahit andito ako
+
+&lt;hunter&gt; masanay ka na lang na living on the edge 
 
 ---
 
@@ -3025,8 +3257,9 @@ sabi kasi nya ok daw sa umaga, you just talk about not doing things until i arri
 
 ### 465
 
-<hunter> we dont have ample time for future projects either
-<hunter> we just keep getting into time debt 
+&lt;hunter&gt; we dont have ample time for future projects either
+
+&lt;hunter&gt; we just keep getting into time debt 
 
 ---
 
@@ -3038,9 +3271,11 @@ nahihirapan nga ako isipin kung anong date na at any given time
 
 ### 467
 
-<hunter> what?
-<hunter> its because we're not amateurs
-<hunter> we only use professional utils 
+&lt;hunter&gt; what?
+
+&lt;hunter&gt; its because we're not amateurs
+
+&lt;hunter&gt; we only use professional utils 
 
 ---
 
@@ -3118,30 +3353,35 @@ If it looks like the weather's about to clear and you can go out, don't do it! T
 
 ### 480
 
-<hunter> i have a problem
-<hunter> dalawa na yung payong ko dito sa office 
+&lt;hunter&gt; i have a problem
+
+&lt;hunter&gt; dalawa na yung payong ko dito sa office 
 
 ---
 
 ### 481
 
-<hunter> baka kulang yung binigay nyang letters
-<hunter> tapos umuwi na sya
-<hunter> and nde tayo makakatulog 
+&lt;hunter&gt; baka kulang yung binigay nyang letters
+
+&lt;hunter&gt; tapos umuwi na sya
+
+&lt;hunter&gt; and nde tayo makakatulog 
 
 ---
 
 ### 482
 
-<hunter> did you like store everything i ever said
-<hunter> i dont even remember that 
+&lt;hunter&gt; did you like store everything i ever said
+
+&lt;hunter&gt; i dont even remember that 
 
 ---
 
 ### 483
 
-<hunter> unattainable daw yung sagot
-<hunter> kasi kulang ng isang n 
+&lt;hunter&gt; unattainable daw yung sagot
+
+&lt;hunter&gt; kasi kulang ng isang n 
 
 ---
 
@@ -3159,15 +3399,17 @@ we should just give up on everything and go home
 
 ### 486
 
-<hunter> he was looking for you
-<hunter> you're like ships passing in the night 
+&lt;hunter&gt; he was looking for you
+
+&lt;hunter&gt; you're like ships passing in the night 
 
 ---
 
 ### 487
 
-<hunter> wth may nagquote na agad sakin sa twitter
-<hunter> you'd know if you had twitter 
+&lt;hunter&gt; wth may nagquote na agad sakin sa twitter
+
+&lt;hunter&gt; you'd know if you had twitter 
 
 ---
 
@@ -3239,30 +3481,35 @@ you and your indians
 
 ### 499
 
-<hunter> then email him
-<hunter> and complain 
+&lt;hunter&gt; then email him
+
+&lt;hunter&gt; and complain 
 
 ---
 
 ### 500
 
-<hunter> im sorry
-<hunter> i just made this one on the fly 
+&lt;hunter&gt; im sorry
+
+&lt;hunter&gt; i just made this one on the fly 
 
 ---
 
 ### 501
 
-<hunter> sabi na talaga
-<hunter> basta magpatch tayo, may problem
-<hunter> you say patching, I hear problems 
+&lt;hunter&gt; sabi na talaga
+
+&lt;hunter&gt; basta magpatch tayo, may problem
+
+&lt;hunter&gt; you say patching, I hear problems 
 
 ---
 
 ### 502
 
-<hunter> i also have to do things secretly
-<hunter> para magimprove yung stealth skills 
+&lt;hunter&gt; i also have to do things secretly
+
+&lt;hunter&gt; para magimprove yung stealth skills 
 
 ---
 
@@ -3322,8 +3569,9 @@ what if you dont do the work and be happy?
 
 ### 512
 
-<hunter> e kung philippine government na lang ang client natin
-<hunter> edi sana may pork barrel na tayo 
+&lt;hunter&gt; e kung philippine government na lang ang client natin
+
+&lt;hunter&gt; edi sana may pork barrel na tayo 
 
 ---
 
@@ -3353,8 +3601,9 @@ pag nagpause ka, hindi ka din makakagalaw
 
 ### 517
 
-<hunter> minsan surprise lang sa gabi on the way back from dinner
-<hunter> it felt like nature's rage 
+&lt;hunter&gt; minsan surprise lang sa gabi on the way back from dinner
+
+&lt;hunter&gt; it felt like nature's rage 
 
 ---
 
@@ -3372,17 +3621,21 @@ hindi ako makauwi because of this chismis
 
 ### 520
 
-<hunter> it happens more often than you think
-<hunter> i've said too much
-<hunter> i must go 
+&lt;hunter&gt; it happens more often than you think
+
+&lt;hunter&gt; i've said too much
+
+&lt;hunter&gt; i must go 
 
 ---
 
 ### 521
 
-<hunter> what is this janet
-<hunter> why do you have a project that is attuned to current events
-<hunter> ngo daw tayo e 
+&lt;hunter&gt; what is this janet
+
+&lt;hunter&gt; why do you have a project that is attuned to current events
+
+&lt;hunter&gt; ngo daw tayo e 
 
 ---
 
@@ -3400,15 +3653,17 @@ do you think i dont keep up to date?
 
 ### 524
 
-<hunter> Technology meets genius  Extensize training. opportunities for growth. Excellent work environment.
-<hunter> spot the problems 
+&lt;hunter&gt; Technology meets genius  Extensize training. opportunities for growth. Excellent work environment.
+
+&lt;hunter&gt; spot the problems 
 
 ---
 
 ### 525
 
-<hunter> south people dont matter!
-<hunter> hagcollection 
+&lt;hunter&gt; south people dont matter!
+
+&lt;hunter&gt; hagcollection 
 
 ---
 
@@ -3420,15 +3675,17 @@ northern master race vs filthy southern peasants
 
 ### 527
 
-<hunter> dont tell him!
-<hunter> hindi pa nya alam! 
+&lt;hunter&gt; dont tell him!
+
+&lt;hunter&gt; hindi pa nya alam! 
 
 ---
 
 ### 528
 
-<hunter> no!
-<hunter> cover your eyes! 
+&lt;hunter&gt; no!
+
+&lt;hunter&gt; cover your eyes! 
 
 ---
 
@@ -3446,15 +3703,17 @@ inulit mo lang yung words
 
 ### 531
 
-<hunter> what if lahat ng error message natin may "Sadly,"
-<hunter> Sadly, no workflow action is associated with this form. 
+&lt;hunter&gt; what if lahat ng error message natin may &quot;Sadly,&quot;
+
+&lt;hunter&gt; Sadly, no workflow action is associated with this form. 
 
 ---
 
 ### 532
 
-<hunter> ang brittle na ng metro manila
-<hunter> konting ulan lang 
+&lt;hunter&gt; ang brittle na ng metro manila
+
+&lt;hunter&gt; konting ulan lang 
 
 ---
 
@@ -3466,14 +3725,15 @@ yung problem is you can't really beat the final boss ship unless you grind a bit
 
 ### 534
 
-<hunter> > <c> sana di kami [framework] sa janet <- dapat improve mo na lang yung [framework] instead of complaining about it
+&lt;hunter&gt; &gt; &lt;c&gt; sana di kami [framework] sa janet &lt;- dapat improve mo na lang yung [framework] instead of complaining about it
 
 ---
 
 ### 535
 
-<hunter> we'll see about that
-<hunter> i'm really really really really really really sleepy 
+&lt;hunter&gt; we'll see about that
+
+&lt;hunter&gt; i'm really really really really really really sleepy 
 
 ---
 
@@ -3485,8 +3745,9 @@ too much chocolate today
 
 ### 537
 
-<hunter> anyway, why dont i get a per diem?
-<hunter> i make a business trip to ortigas every day 
+&lt;hunter&gt; anyway, why dont i get a per diem?
+
+&lt;hunter&gt; i make a business trip to ortigas every day 
 
 ---
 
@@ -3510,14 +3771,15 @@ wang sounds like a chinese name
 
 ### 541
 
-<hunter> im the king!
-<hunter> i now retire gracefully 
+&lt;hunter&gt; im the king!
+
+&lt;hunter&gt; i now retire gracefully 
 
 ---
 
 ### 542
 
-<hunter> kasi nga retired na ko
+&lt;hunter&gt; kasi nga retired na ko
 
 ---
 
@@ -3553,9 +3815,11 @@ macho was living a life of lie!
 
 ### 548
 
-<hunter> i must be drunk
-<hunter> wut
-<hunter> uwi na tayo 
+&lt;hunter&gt; i must be drunk
+
+&lt;hunter&gt; wut
+
+&lt;hunter&gt; uwi na tayo 
 
 ---
 
@@ -3579,20 +3843,21 @@ screw these rules!
 
 ### 552
 
-<hunter> > <ObiJuan> hunter - 4, x - 2 <- let's stop now, and never do anagrams again
+&lt;hunter&gt; &gt; &lt;ObiJuan&gt; hunter - 4, x - 2 &lt;- let's stop now, and never do anagrams again
 
 ---
 
 ### 553
 
-<hunter>'when will you ever learn. You never try.
+
 
 ---
 
 ### 554
 
-<hunter> sige, nde na kita kokonsensyahin gaano
-<hunter> tagalog is hard 
+&lt;hunter&gt; sige, nde na kita kokonsensyahin gaano
+
+&lt;hunter&gt; tagalog is hard 
 
 ---
 
@@ -3610,8 +3875,9 @@ uy adult na si wang
 
 ### 557
 
-<hunter> pero andaming papel
-<hunter> save the trees! 
+&lt;hunter&gt; pero andaming papel
+
+&lt;hunter&gt; save the trees! 
 
 ---
 
@@ -3623,8 +3889,9 @@ verdicts dont judge!
 
 ### 559
 
-<hunter> if you like
-<hunter> but once you do, there's no turning back 
+&lt;hunter&gt; if you like
+
+&lt;hunter&gt; but once you do, there's no turning back 
 
 ---
 
@@ -3636,8 +3903,9 @@ i'm always winning
 
 ### 561
 
-<hunter> no no, we only get pizza if tz fails
-<hunter> well, we might still get pizza if ory succeeds 
+&lt;hunter&gt; no no, we only get pizza if tz fails
+
+&lt;hunter&gt; well, we might still get pizza if ory succeeds 
 
 ---
 
@@ -3655,16 +3923,19 @@ did you die?
 
 ### 564
 
-<hunter> parang ok tumira sa korea
-<hunter> normal sa kanila ung 100mbps internet
+&lt;hunter&gt; parang ok tumira sa korea
+
+&lt;hunter&gt; normal sa kanila ung 100mbps internet
+
 * hunter inb4 north
 
 ---
 
 ### 565
 
-<hunter> i dont think i'd need to learn korean
-<hunter> what if i'm there to teach english 
+&lt;hunter&gt; i dont think i'd need to learn korean
+
+&lt;hunter&gt; what if i'm there to teach english 
 
 ---
 
@@ -3677,7 +3948,9 @@ but the problem with korea is that all the girls look the same
 ### 567
 
 so guys, how much money would you be willing to accept to allow someone to stalk your honeymoon
+
 let's assume you have a hot spouse
+
 people would want to stalk more if there's a hot spouse!
 
 ---
@@ -3690,8 +3963,9 @@ all our screens are godscreens
 
 ### 569
 
-<hunter> ito yung screen na nagpapakain kay tz
-<hunter> wut 
+&lt;hunter&gt; ito yung screen na nagpapakain kay tz
+
+&lt;hunter&gt; wut 
 
 ---
 
@@ -3721,9 +3995,11 @@ we should all resign and be hermits
 
 ### 574
 
-<hunter> then it's a paradox
-<hunter> baka naimpress sila kay mole
-<hunter> then they're like "all testers should be like him!" 
+&lt;hunter&gt; then it's a paradox
+
+&lt;hunter&gt; baka naimpress sila kay mole
+
+&lt;hunter&gt; then they're like &quot;all testers should be like him!&quot; 
 
 ---
 
@@ -3735,8 +4011,9 @@ it's not a thesis defense!
 
 ### 576
 
-<hunter> anong away nyo x
-<hunter> have you grown tired of wang 
+&lt;hunter&gt; anong away nyo x
+
+&lt;hunter&gt; have you grown tired of wang 
 
 ---
 
@@ -3748,8 +4025,9 @@ if we become obsolete, why would we still be around
 
 ### 578
 
-<hunter> we're not really that interested
-<hunter> well, baka si x 
+&lt;hunter&gt; we're not really that interested
+
+&lt;hunter&gt; well, baka si x 
 
 ---
 
@@ -3767,15 +4045,17 @@ If you find yourself with some free time (maybe due to code freeze), here's a fu
 
 ### 581
 
-<hunter> what tz
-<hunter> dont you like fun?!? 
+&lt;hunter&gt; what tz
+
+&lt;hunter&gt; dont you like fun?!? 
 
 ---
 
 ### 582
 
-<hunter> sadly no
-<hunter> i dont have a solution for that yet 
+&lt;hunter&gt; sadly no
+
+&lt;hunter&gt; i dont have a solution for that yet 
 
 ---
 
@@ -3787,14 +4067,15 @@ you should have offered to help her master baking
 
 ### 584
 
-just text "sorry, you're not interesting enough. thanks for playing!"
+just text &quot;sorry, you're not interesting enough. thanks for playing!&quot;
 
 ---
 
 ### 585
 
-<hunter> what is the nosebleed gesture
-<hunter> it could also mean these filthy peasants are beneath you 
+&lt;hunter&gt; what is the nosebleed gesture
+
+&lt;hunter&gt; it could also mean these filthy peasants are beneath you 
 
 ---
 
@@ -3806,17 +4087,21 @@ man, if i was uncomfortable for that long, i'd find a way to weasel out'
 
 ### 587
 
-<hunter> this is impossible for us to evaluate, do you know why
-<hunter> it's because she's a woman
-<hunter> and we're men
-<hunter> we can only evaluate stuff that makes sense 
+&lt;hunter&gt; this is impossible for us to evaluate, do you know why
+
+&lt;hunter&gt; it's because she's a woman
+
+&lt;hunter&gt; and we're men
+
+&lt;hunter&gt; we can only evaluate stuff that makes sense 
 
 ---
 
 ### 588
 
-<hunter> maybe nothing's wrong with you
-<hunter> maybe you're amazing, just the way you are 
+&lt;hunter&gt; maybe nothing's wrong with you
+
+&lt;hunter&gt; maybe you're amazing, just the way you are 
 
 ---
 
@@ -3834,9 +4119,11 @@ people arent bananas!
 
 ### 591
 
-<hunter> we have like 666 bugs for testing 
-<hunter> evil!
-<hunter> quick, close one of them! 
+&lt;hunter&gt; we have like 666 bugs for testing 
+
+&lt;hunter&gt; evil!
+
+&lt;hunter&gt; quick, close one of them! 
 
 ---
 
@@ -3866,8 +4153,9 @@ dwarves and midgets have very little in common
 
 ### 596
 
-<hunter> i dont mean my summary
-<hunter> i mean my WTH about 30 minutes ago 
+&lt;hunter&gt; i dont mean my summary
+
+&lt;hunter&gt; i mean my WTH about 30 minutes ago 
 
 ---
 
@@ -3879,9 +4167,11 @@ i was lied to as well!
 
 ### 598
 
-<hunter> yes
-<hunter> ikaw lang
-<hunter> wala nang iba 
+&lt;hunter&gt; yes
+
+&lt;hunter&gt; ikaw lang
+
+&lt;hunter&gt; wala nang iba 
 
 ---
 
@@ -3953,8 +4243,9 @@ fugue too
 
 ### 610
 
-<hunter> seriously, i can only continue dreams if i immediately go back to sleep after waking up
-<hunter> yung quick enough that you don't lose dream-memory yet 
+&lt;hunter&gt; seriously, i can only continue dreams if i immediately go back to sleep after waking up
+
+&lt;hunter&gt; yung quick enough that you don't lose dream-memory yet 
 
 ---
 
@@ -4008,9 +4299,11 @@ what if i only hate stupid people?
 
 ### 619
 
-<hunter> i dunno
-<hunter> i cant explain it
-<hunter> its one of the mysteries of the universe 
+&lt;hunter&gt; i dunno
+
+&lt;hunter&gt; i cant explain it
+
+&lt;hunter&gt; its one of the mysteries of the universe 
 
 ---
 
@@ -4022,23 +4315,27 @@ i said i'll handle it.
 
 ### 621
 
-<hunter> may kumuha ng kitkat ni x?
-<hunter> hihingi pa naman sana ako
-<hunter> lol
-<hunter> check nyo sa cctv! 
+&lt;hunter&gt; may kumuha ng kitkat ni x?
+
+&lt;hunter&gt; hihingi pa naman sana ako
+
+&lt;hunter&gt; lol
+
+&lt;hunter&gt; check nyo sa cctv! 
 
 ---
 
 ### 622
 
-<hunter> > <in-in> > <hunter> sino ba naman kasi maiintimidate kay tz <- little kids <- hindi sya pwede maging pedophile
+&lt;hunter&gt; &gt; &lt;in-in&gt; &gt; &lt;hunter&gt; sino ba naman kasi maiintimidate kay tz &lt;- little kids &lt;- hindi sya pwede maging pedophile
 
 ---
 
 ### 623
 
-<hunter> what
-<hunter> im not intimidating at all 
+&lt;hunter&gt; what
+
+&lt;hunter&gt; im not intimidating at all 
 
 ---
 
@@ -4068,8 +4365,9 @@ nung [project], aakyat pa kami ng bundok at tatawid ng ilog para makafix ng bug
 
 ### 628
 
-<hunter> so black dude si eric clapton?
-<hunter> i dunno what he looks like so it might be true 
+&lt;hunter&gt; so black dude si eric clapton?
+
+&lt;hunter&gt; i dunno what he looks like so it might be true 
 
 ---
 
@@ -4081,7 +4379,7 @@ log mo na lang then continue using a sensible browser
 
 ### 630
 
-<hunter> > <x> bakit ang mahal ng eggs benedict =/ <- galing pa sa dating pope
+&lt;hunter&gt; &gt; &lt;x&gt; bakit ang mahal ng eggs benedict =/ &lt;- galing pa sa dating pope
 
 ---
 
@@ -4093,10 +4391,13 @@ did you doubt me?
 
 ### 632
 
-<hunter> 5x4x4 combinations yung sam hong
-<hunter> 5x5x5 combinations yung the other one
-<hunter> si chin
-<hunter> how did you get those decimals 
+&lt;hunter&gt; 5x4x4 combinations yung sam hong
+
+&lt;hunter&gt; 5x5x5 combinations yung the other one
+
+&lt;hunter&gt; si chin
+
+&lt;hunter&gt; how did you get those decimals 
 
 ---
 
@@ -4138,8 +4439,9 @@ pakitimpla ako ng kape
 
 ### 639
 
-<hunter> dont be scared
-<hunter> but dont whip me either 
+&lt;hunter&gt; dont be scared
+
+&lt;hunter&gt; but dont whip me either 
 
 ---
 
@@ -4151,13 +4453,13 @@ i'm too full to walk over there
 
 ### 641
 
-> <c> sorry to interrupt <- naks, nde na basta basta nagswerve
+&gt; &lt;c&gt; sorry to interrupt &lt;- naks, nde na basta basta nagswerve
 
 ---
 
 ### 642
 
-<hunter> > <in-in> parang wala masyadong fanfare <- you might not be following the correct people on twitter
+&lt;hunter&gt; &gt; &lt;in-in&gt; parang wala masyadong fanfare &lt;- you might not be following the correct people on twitter
 
 ---
 
@@ -4169,23 +4471,27 @@ i did nazi that coming
 
 ### 644
 
-<hunter> sinong ninamedrop nya
-<hunter> ako ba 
+&lt;hunter&gt; sinong ninamedrop nya
+
+&lt;hunter&gt; ako ba 
 
 ---
 
 ### 645
 
-<hunter> 10 million lang?
-<hunter> wait, kanino nya ibibigay
-<hunter> pwede kami kumita
-<hunter> split na lang kami ni husband tag 5 million 
+&lt;hunter&gt; 10 million lang?
+
+&lt;hunter&gt; wait, kanino nya ibibigay
+
+&lt;hunter&gt; pwede kami kumita
+
+&lt;hunter&gt; split na lang kami ni husband tag 5 million 
 
 ---
 
 ### 646
 
-i wonder if the plan is like "shit, huli na tayo, akusahan na lang natin lahat para magulo"
+i wonder if the plan is like &quot;shit, huli na tayo, akusahan na lang natin lahat para magulo&quot;
 
 ---
 
@@ -4239,7 +4545,7 @@ parang everyday na ako merong shows
 
 ### 655
 
-<hunter> > <carding> dun sa wii nya <- so, are you playing with his wii now?
+&lt;hunter&gt; &gt; &lt;carding&gt; dun sa wii nya &lt;- so, are you playing with his wii now?
 
 ---
 
@@ -4257,7 +4563,7 @@ find out why it happens and how we can avoid it
 
 ### 658
 
-<hunter> > <carding> konti pagpipilian ni tall girl sa boys <- but taller boys are better
+&lt;hunter&gt; &gt; &lt;carding&gt; konti pagpipilian ni tall girl sa boys &lt;- but taller boys are better
 
 ---
 
@@ -4275,8 +4581,9 @@ i should utilize wang fully
 
 ### 661
 
-<hunter> it was funny
-<hunter> naalala ko lang because i had to kill a session 
+&lt;hunter&gt; it was funny
+
+&lt;hunter&gt; naalala ko lang because i had to kill a session 
 
 ---
 
@@ -4294,21 +4601,23 @@ i'd go but i'm feeling a little unwell
 
 ### 664
 
-<hunter> as long as it doesnt last until 3 am
-<hunter> and wala masyadong bright lights 
+&lt;hunter&gt; as long as it doesnt last until 3 am
+
+&lt;hunter&gt; and wala masyadong bright lights 
 
 ---
 
 ### 665
 
-7:13:13 <hunter> there's a long email discussion which ended with the conclusion i added there as a comment
-<hunter> do you want to be added to the thread to object to it 
+7:13:13 &lt;hunter&gt; there's a long email discussion which ended with the conclusion i added there as a comment
+
+&lt;hunter&gt; do you want to be added to the thread to object to it 
 
 ---
 
 ### 666
 
-<hunter> do you want to be added to the thread to read the explanation?
+&lt;hunter&gt; do you want to be added to the thread to read the explanation?
 
 ---
 
@@ -4362,9 +4671,11 @@ that's not even remotely answering my question
 
 ### 675
 
-<hunter> alam nyo yung old wives tale na bawal diretso umuwi pag galing sa lamay
-<hunter> nung pauwi na kami kagabi may pinabaon pa saming siopao
-<hunter> tapos dumaan pa muna kami ng shakeys para nde diretso umuwi
+&lt;hunter&gt; alam nyo yung old wives tale na bawal diretso umuwi pag galing sa lamay
+
+&lt;hunter&gt; nung pauwi na kami kagabi may pinabaon pa saming siopao
+
+&lt;hunter&gt; tapos dumaan pa muna kami ng shakeys para nde diretso umuwi
 
 ---
 
@@ -4382,29 +4693,33 @@ lol wang cant even feel code yet
 
 ### 678
 
-<hunter> parang training lang yan ni mr miyagi
-<hunter> kelangan mapinturahan yung fence 
+&lt;hunter&gt; parang training lang yan ni mr miyagi
+
+&lt;hunter&gt; kelangan mapinturahan yung fence 
 
 ---
 
 ### 679
 
-<hunter> i just got to this mode by accident
-<hunter> im not sure if i should leave
-<hunter> aha thanks 
+&lt;hunter&gt; i just got to this mode by accident
+
+&lt;hunter&gt; im not sure if i should leave
+
+&lt;hunter&gt; aha thanks 
 
 ---
 
 ### 680
 
-<hunter> c it's like having a daily standup meeting, except via email
+&lt;hunter&gt; c it's like having a daily standup meeting, except via email
 
 ---
 
 ### 681
 
-<hunter> para aware ka what issues the rest of the team is facing
-<hunter> kasi you're supposed to be part of a team, not just worrying about your own thing only 
+&lt;hunter&gt; para aware ka what issues the rest of the team is facing
+
+&lt;hunter&gt; kasi you're supposed to be part of a team, not just worrying about your own thing only 
 
 ---
 
@@ -4422,8 +4737,9 @@ so are you saying daily standup meetings are a bad idea?
 
 ### 684
 
-<hunter> may ganyan ba sa pilipinas
-<hunter> meron lang tayo nung opposite: anti-vegetarians 
+&lt;hunter&gt; may ganyan ba sa pilipinas
+
+&lt;hunter&gt; meron lang tayo nung opposite: anti-vegetarians 
 
 ---
 
@@ -4441,7 +4757,7 @@ i know this because i have oracle certification
 
 ### 687
 
-<hunter> > <rider> nakuha mo naman na yung path ng record <- but what if i want to spy on you
+&lt;hunter&gt; &gt; &lt;rider&gt; nakuha mo naman na yung path ng record &lt;- but what if i want to spy on you
 
 ---
 
@@ -4453,7 +4769,7 @@ pinanood ko yung first ep ng bagong show ni michael j fox, its a bit shaky
 
 ### 689
 
-mohammedwebster -> half muslim, half dictionary
+mohammedwebster -&gt; half muslim, half dictionary
 
 ---
 
@@ -4471,9 +4787,11 @@ there was a lot of food that day...
 
 ### 692
 
-<hunter> hey
-<hunter> why did you reset
-<hunter> you animal 
+&lt;hunter&gt; hey
+
+&lt;hunter&gt; why did you reset
+
+&lt;hunter&gt; you animal 
 
 ---
 
@@ -4485,14 +4803,15 @@ pano ba natin sila nauuto
 
 ### 694
 
-<hunter> this is a good time to invade america
+&lt;hunter&gt; this is a good time to invade america
 
 ---
 
 ### 695
 
-<hunter> none of these explanations are satisfactory
-<hunter> you are not smarter than a fifth grader 
+&lt;hunter&gt; none of these explanations are satisfactory
+
+&lt;hunter&gt; you are not smarter than a fifth grader 
 
 ---
 
@@ -4504,8 +4823,9 @@ are you saving it for marriage?
 
 ### 697
 
-<hunter> those are different numbers
-<hunter> or vital stats mo yan? 
+&lt;hunter&gt; those are different numbers
+
+&lt;hunter&gt; or vital stats mo yan? 
 
 ---
 
@@ -4529,8 +4849,9 @@ dont play online if you cant take trash talk from trolls
 
 ### 701
 
-<hunter> medyo ok pa tayo sa asia
-<hunter> since asians dont trash talk as much as americans 
+&lt;hunter&gt; medyo ok pa tayo sa asia
+
+&lt;hunter&gt; since asians dont trash talk as much as americans 
 
 ---
 
@@ -4543,6 +4864,7 @@ it's not the money that bothers me, it's the paperwork
 ### 703
 
 i dont trust house selling people
+
 i'll just cut my own lumber and build my own house
 
 ---
@@ -4567,8 +4889,9 @@ this doesnt even add up!
 
 ### 707
 
-<hunter> what did the optimist say after jumping off the building rooftop
-<hunter> "so far so good" 
+&lt;hunter&gt; what did the optimist say after jumping off the building rooftop
+
+&lt;hunter&gt; &quot;so far so good&quot; 
 
 ---
 
@@ -4581,6 +4904,7 @@ this doesnt even add up!
 ### 709
 
 families shouldnt take the train!
+
 matrtraumatize mga bata
 
 ---
@@ -4593,8 +4917,9 @@ bitter you than me
 
 ### 711
 
-<hunter> okay im out of embarrassing stories
-<hunter> im no danger 
+&lt;hunter&gt; okay im out of embarrassing stories
+
+&lt;hunter&gt; im no danger 
 
 ---
 
@@ -4612,8 +4937,9 @@ i thing therefore i am
 
 ### 714
 
-<hunter> i dont trust yung chargers nyo jan
-<hunter> parang they're slutty 
+&lt;hunter&gt; i dont trust yung chargers nyo jan
+
+&lt;hunter&gt; parang they're slutty 
 
 ---
 
@@ -4643,10 +4969,13 @@ my enthusiasm for working had faded with this stupid eclipse crap in the morning
 
 ### 719
 
-<hunter> i like to imagine [project] as this huge creaky wwii-era battleship
-<hunter> we're not really sure why it's still floating
-<hunter> and we constantly have to fix things everywhere
-<hunter> but gosh darn it we'll get to our destination before this ship sinks 
+&lt;hunter&gt; i like to imagine [project] as this huge creaky wwii-era battleship
+
+&lt;hunter&gt; we're not really sure why it's still floating
+
+&lt;hunter&gt; and we constantly have to fix things everywhere
+
+&lt;hunter&gt; but gosh darn it we'll get to our destination before this ship sinks 
 
 ---
 
@@ -4658,8 +4987,9 @@ compile errors are like body pains, they're symptoms of things we need to fix
 
 ### 721
 
-<hunter> there's that new band, i heard they're pretty good
-<hunter> the eraserheads 
+&lt;hunter&gt; there's that new band, i heard they're pretty good
+
+&lt;hunter&gt; the eraserheads 
 
 ---
 
@@ -4677,7 +5007,7 @@ for that you shall pay a terrible price
 
 ### 724
 
-his offical position is "closet heartbreaker"
+his offical position is &quot;closet heartbreaker&quot;
 
 ---
 
@@ -4695,8 +5025,9 @@ english, do you speak it?
 
 ### 727
 
-<hunter> pano mo ireresearch
-<hunter> magpopost ka sa facebook page asking "lalake ka ba?
+&lt;hunter&gt; pano mo ireresearch
+
+&lt;hunter&gt; magpopost ka sa facebook page asking &quot;lalake ka ba?
 
 ---
 
@@ -4714,22 +5045,25 @@ going home at the end of the day is a human right
 
 ### 730
 
-<hunter> iniimagine nyo ba mga worst-case scenario
-<hunter> like what if na-world trade center ang tektite 
+&lt;hunter&gt; iniimagine nyo ba mga worst-case scenario
+
+&lt;hunter&gt; like what if na-world trade center ang tektite 
 
 ---
 
 ### 731
 
-<hunter> i have sight beyond sight
-<hunter> this is stupid, i'll just go make a sandwich 
+&lt;hunter&gt; i have sight beyond sight
+
+&lt;hunter&gt; this is stupid, i'll just go make a sandwich 
 
 ---
 
 ### 732
 
-<hunter> what is this wang hat
-<hunter> can someone draw it 
+&lt;hunter&gt; what is this wang hat
+
+&lt;hunter&gt; can someone draw it 
 
 ---
 
@@ -4777,8 +5111,9 @@ if you dont care why are you complaining
 
 ### 740
 
-<hunter> foreseeing is for believing
-<hunter> that sounds better 
+&lt;hunter&gt; foreseeing is for believing
+
+&lt;hunter&gt; that sounds better 
 
 ---
 
@@ -4802,8 +5137,9 @@ NO TO MODES
 
 ### 744
 
-<hunter> it's looking with sexual desire
-<hunter> ganyan si x mag glare
+&lt;hunter&gt; it's looking with sexual desire
+
+&lt;hunter&gt; ganyan si x mag glare
 
 ---
 
@@ -4827,24 +5163,29 @@ it's better than idolizing justin bieber
 
 ### 748
 
-<hunter> there is such a thing as doing science better
-<hunter> research methodologies, approaches, thinking outside the box
-<hunter> it's like programming
-<hunter> some approaches are better than others 
+&lt;hunter&gt; there is such a thing as doing science better
+
+&lt;hunter&gt; research methodologies, approaches, thinking outside the box
+
+&lt;hunter&gt; it's like programming
+
+&lt;hunter&gt; some approaches are better than others 
 
 ---
 
 ### 749
 
-<hunter> people do things for recognition all the time
-<hunter> scientists are no different 
+&lt;hunter&gt; people do things for recognition all the time
+
+&lt;hunter&gt; scientists are no different 
 
 ---
 
 ### 750
 
-<hunter> i dont like using the term ironic
-<hunter> it's alanis' fault 
+&lt;hunter&gt; i dont like using the term ironic
+
+&lt;hunter&gt; it's alanis' fault 
 
 ---
 
@@ -4868,8 +5209,9 @@ the oop experience shouldnt be relevant
 
 ### 754
 
-<hunter> let's escape
-<hunter> and never come back 
+&lt;hunter&gt; let's escape
+
+&lt;hunter&gt; and never come back 
 
 ---
 
@@ -4881,8 +5223,9 @@ luckily i didnt commit anything stupid (i think)
 
 ### 756
 
-<hunter> may nagpost kasi sa facebook ko tapos naexcite din ako then nadisappoint
-<hunter> and i was like, i must share this feeling 
+&lt;hunter&gt; may nagpost kasi sa facebook ko tapos naexcite din ako then nadisappoint
+
+&lt;hunter&gt; and i was like, i must share this feeling 
 
 ---
 
@@ -4906,9 +5249,11 @@ i should be thanked everywhere
 
 ### 760
 
-<hunter> at the end of all things
-<hunter> when there's no one left but me and my books
-<hunter> there, i shall read them 
+&lt;hunter&gt; at the end of all things
+
+&lt;hunter&gt; when there's no one left but me and my books
+
+&lt;hunter&gt; there, i shall read them 
 
 ---
 
@@ -4950,8 +5295,9 @@ damn those meddling kids
 
 ### 767
 
-<hunter> magvolunteer kaya ako na judge
-<hunter> im willing to accept bribes 
+&lt;hunter&gt; magvolunteer kaya ako na judge
+
+&lt;hunter&gt; im willing to accept bribes 
 
 ---
 
@@ -4975,7 +5321,7 @@ that's like saying natutuwa ang devs pag may bugs
 
 ### 771
 
-time > money
+time &gt; money
 
 ---
 
@@ -5005,8 +5351,9 @@ they accepted the potato...and fried it
 
 ### 776
 
-<hunter> then the solution is simple
-<hunter> dont answer 
+&lt;hunter&gt; then the solution is simple
+
+&lt;hunter&gt; dont answer 
 
 ---
 
@@ -5030,8 +5377,9 @@ is it because people are becoming stupider?
 
 ### 780
 
-<hunter> sino may sabi nyan
-<hunter> pawang kasinungalingan 
+&lt;hunter&gt; sino may sabi nyan
+
+&lt;hunter&gt; pawang kasinungalingan 
 
 ---
 
@@ -5061,15 +5409,17 @@ black couch lang bastos na agad
 
 ### 785
 
-step 1: don't
+
 
 ---
 
 ### 786
 
-<hunter> we can call her cbags for short
-<hunter> wut
-<hunter> dont tell her i said that 
+&lt;hunter&gt; we can call her cbags for short
+
+&lt;hunter&gt; wut
+
+&lt;hunter&gt; dont tell her i said that 
 
 ---
 
@@ -5154,15 +5504,18 @@ babe, greek myth isnt real
 ### 800
 
 so pag nde mo kami sinabihan, nde kami important!
+
 you should tell us where you're going so that we're important
 
 ---
 
 ### 801
 
-<hunter> so we're only half important
-<hunter> we'll just make up stories then
-<hunter> like nagsl ka kasi buntis 
+&lt;hunter&gt; so we're only half important
+
+&lt;hunter&gt; we'll just make up stories then
+
+&lt;hunter&gt; like nagsl ka kasi buntis 
 
 ---
 
@@ -5174,7 +5527,7 @@ you're the superuser of your own life
 
 ### 803
 
-yung copy&paste pwede mong gamitin para sa ikabubuti ng lipunan
+yung copy&amp;paste pwede mong gamitin para sa ikabubuti ng lipunan
 
 ---
 
@@ -5198,13 +5551,13 @@ pwede yan, kung may shotgun
 
 ### 807
 
-> wang for all, all for wang
+&gt; wang for all, all for wang
 
 ---
 
 ### 808
 
-<hunter> each project figures out too late that they have no such standards
+&lt;hunter&gt; each project figures out too late that they have no such standards
 
 ---
 
@@ -5216,8 +5569,9 @@ pag kausap nyo si harry, do you feel like telling him he's a wizard
 
 ### 810
 
-<hunter> how can you not get this right
-<hunter> there's a song 
+&lt;hunter&gt; how can you not get this right
+
+&lt;hunter&gt; there's a song 
 
 ---
 
@@ -5241,8 +5595,9 @@ water world is a great movie!
 
 ### 814
 
-<hunter> we dont have leadership
-<hunter> we are a lawless wasteland 
+&lt;hunter&gt; we dont have leadership
+
+&lt;hunter&gt; we are a lawless wasteland 
 
 ---
 
@@ -5260,8 +5615,9 @@ unless we establish dominance over these filthy peasants
 
 ### 817
 
-<hunter> i wonder if politicians secretly have meetings like this
-<hunter> where they voice opinions theyd never say in public 
+&lt;hunter&gt; i wonder if politicians secretly have meetings like this
+
+&lt;hunter&gt; where they voice opinions theyd never say in public 
 
 ---
 
@@ -5315,16 +5671,19 @@ the rest of you should work hard
 
 ### 826
 
-<hunter> kung sabi ni master sure why not
-<hunter> hindi ako ang may final say
-<hunter> bahala na si wang 
+&lt;hunter&gt; kung sabi ni master sure why not
+
+&lt;hunter&gt; hindi ako ang may final say
+
+&lt;hunter&gt; bahala na si wang 
 
 ---
 
 ### 827
 
-<hunter> sabihin mo recovering alcoholic ka
-<hunter> you dont want to fall off the wagon 
+&lt;hunter&gt; sabihin mo recovering alcoholic ka
+
+&lt;hunter&gt; you dont want to fall off the wagon 
 
 ---
 
@@ -5348,8 +5707,9 @@ ibig sabihin, gagalingan nyo na lang
 
 ### 831
 
-<hunter> natetempt akong wag na lang umattend
-<hunter> what do i get out of it aside from free food 
+&lt;hunter&gt; natetempt akong wag na lang umattend
+
+&lt;hunter&gt; what do i get out of it aside from free food 
 
 ---
 
@@ -5427,8 +5787,9 @@ we're already trapped in the sunk cost fallacy
 
 ### 844
 
-<hunter> im not one of the chronically late :p
-<hunter> lahat ng late ko conscious decision haha 
+&lt;hunter&gt; im not one of the chronically late :p
+
+&lt;hunter&gt; lahat ng late ko conscious decision haha 
 
 ---
 
@@ -5440,8 +5801,9 @@ yung heat nya may kasamang humidity
 
 ### 846
 
-<hunter> you're wrong
-<hunter> how can you be so wrong 
+&lt;hunter&gt; you're wrong
+
+&lt;hunter&gt; how can you be so wrong 
 
 ---
 
@@ -5471,8 +5833,9 @@ baka nafix ko magically
 
 ### 851
 
-<hunter> baka magiigib pa sya ng tubig
-<hunter> at magsisibak ng kahoy 
+&lt;hunter&gt; baka magiigib pa sya ng tubig
+
+&lt;hunter&gt; at magsisibak ng kahoy 
 
 ---
 
@@ -5496,7 +5859,7 @@ you must find this answer on your own
 
 ### 855
 
-<hunter> i dont ever hope to make the cms framework accessible
+&lt;hunter&gt; i dont ever hope to make the cms framework accessible
 
 ---
 
@@ -5508,8 +5871,9 @@ ako lang ang pwede mag destroy
 
 ### 857
 
-<hunter> you dont get me
-<hunter> nobody gets me 
+&lt;hunter&gt; you dont get me
+
+&lt;hunter&gt; nobody gets me 
 
 ---
 
@@ -5533,8 +5897,9 @@ I don't know how I lasted 10 years without offending anyone... or getting fired 
 
 ### 861
 
-<hunter> bubuksan ko lang pag emergency
-<hunter> when all hope is lost 
+&lt;hunter&gt; bubuksan ko lang pag emergency
+
+&lt;hunter&gt; when all hope is lost 
 
 ---
 
@@ -5558,8 +5923,9 @@ it really doesnt work unless i say it out loud
 
 ### 865
 
-<hunter> ah well, it's a problem that even if may cute girl, idk how to determine if she is age-appropriate
-<hunter> age-appropriateness is more important 
+&lt;hunter&gt; ah well, it's a problem that even if may cute girl, idk how to determine if she is age-appropriate
+
+&lt;hunter&gt; age-appropriateness is more important 
 
 ---
 
@@ -5571,20 +5937,21 @@ hindi kelangan ipaliwanag ang preference mo
 
 ### 867
 
-sabihin mo "i dont like"
+sabihin mo &quot;i dont like&quot;
 
 ---
 
 ### 868
 
-<hunter> it's a spectrum
-<hunter> of gayness 
+&lt;hunter&gt; it's a spectrum
+
+&lt;hunter&gt; of gayness 
 
 ---
 
 ### 869
 
-pag kwinestyon ka nila, bigla kang magbreak out into song. "It's my life" by bon jovi
+pag kwinestyon ka nila, bigla kang magbreak out into song. &quot;It's my life&quot; by bon jovi
 
 ---
 
@@ -5602,8 +5969,9 @@ i'd only consider moving because traffic is stupid
 
 ### 872
 
-<hunter> > <x> a condo? <- if kaya lang bumili ng condo sa mall, dati pa ako bumili
-<hunter> tamad ako to do all the papers and shit 
+&lt;hunter&gt; &gt; &lt;x&gt; a condo? &lt;- if kaya lang bumili ng condo sa mall, dati pa ako bumili
+
+&lt;hunter&gt; tamad ako to do all the papers and shit 
 
 ---
 
@@ -5657,36 +6025,41 @@ Lahat kaya ng pag-ibig.
 
 ### 881
 
-<hunter> there are no instructions
-<hunter> only word of mouth 
+&lt;hunter&gt; there are no instructions
+
+&lt;hunter&gt; only word of mouth 
 
 ---
 
 ### 882
 
-<hunter> there's no such thing as dying of old age
-<hunter> parating may cause, "old age" isn't a cause
+&lt;hunter&gt; there's no such thing as dying of old age
+
+&lt;hunter&gt; parating may cause, &quot;old age&quot; isn't a cause
 
 ---
 
 ### 883
 
-<hunter> i only gave one choice
-<hunter> and it's already both 
+&lt;hunter&gt; i only gave one choice
+
+&lt;hunter&gt; and it's already both 
 
 ---
 
 ### 884
 
 * hunter anong gulay ang hindi para kay kuya?
-<hunter> ans: sayote 
+
+&lt;hunter&gt; ans: sayote 
 
 ---
 
 ### 885
 
-<hunter> buti pa sa [project], madali gumawa ng relationship
-<hunter> tell that to tz 
+&lt;hunter&gt; buti pa sa [project], madali gumawa ng relationship
+
+&lt;hunter&gt; tell that to tz 
 
 ---
 
@@ -5722,8 +6095,9 @@ i don't repeat jokes
 
 ### 891
 
-<hunter> this is why i hate proposals
-<hunter> so many lies 
+&lt;hunter&gt; this is why i hate proposals
+
+&lt;hunter&gt; so many lies 
 
 ---
 
@@ -5747,21 +6121,23 @@ why did you take my name in vain
 
 ### 895
 
-dapat "the great roy tang"
+dapat &quot;the great roy tang&quot;
 
 ---
 
 ### 896
 
-<hunter> i was off by 1
-<hunter> programmer kasi 
+&lt;hunter&gt; i was off by 1
+
+&lt;hunter&gt; programmer kasi 
 
 ---
 
 ### 897
 
-<hunter> also, in spanish, conductor means driver
-<hunter> that really threw me off 
+&lt;hunter&gt; also, in spanish, conductor means driver
+
+&lt;hunter&gt; that really threw me off 
 
 ---
 
@@ -5791,36 +6167,41 @@ i dont like how we don't really delete things
 
 ### 902
 
-<hunter> i expect na other places are the same or worse
-<hunter> the only real escape is to declare independence 
+&lt;hunter&gt; i expect na other places are the same or worse
+
+&lt;hunter&gt; the only real escape is to declare independence 
 
 ---
 
 ### 903
 
-<hunter> you cant kill me
-<hunter> i have a dead man's switch set up with your secret 
+&lt;hunter&gt; you cant kill me
+
+&lt;hunter&gt; i have a dead man's switch set up with your secret 
 
 ---
 
 ### 904
 
-<hunter> iniisip ko minsan to randomly treat a homeless person to a meal at jollibee or something
-<hunter> pero parang it's dangerous 
+&lt;hunter&gt; iniisip ko minsan to randomly treat a homeless person to a meal at jollibee or something
+
+&lt;hunter&gt; pero parang it's dangerous 
 
 ---
 
 ### 905
 
-<hunter> im an oldie
-<hunter> i dont replace the water 
+&lt;hunter&gt; im an oldie
+
+&lt;hunter&gt; i dont replace the water 
 
 ---
 
 ### 906
 
-<hunter> bawal talaga ako
-<hunter> im out of your league guys 
+&lt;hunter&gt; bawal talaga ako
+
+&lt;hunter&gt; im out of your league guys 
 
 ---
 
@@ -5838,22 +6219,25 @@ only humans can eat things with shells
 
 ### 909
 
-<hunter> yes, but i dont randomly viber people "Hi"
-<hunter> it's weird 
+&lt;hunter&gt; yes, but i dont randomly viber people &quot;Hi&quot;
+
+&lt;hunter&gt; it's weird 
 
 ---
 
 ### 910
 
-<hunter> sino iviviber mo
-<hunter> wag mo ko landiin wang 
+&lt;hunter&gt; sino iviviber mo
+
+&lt;hunter&gt; wag mo ko landiin wang 
 
 ---
 
 ### 911
 
-<hunter> you need to be famous first
-<hunter> otherwise, you're called an extra instead 
+&lt;hunter&gt; you need to be famous first
+
+&lt;hunter&gt; otherwise, you're called an extra instead 
 
 ---
 
@@ -5865,31 +6249,37 @@ but i'm already the man!
 
 ### 913
 
-<hunter> aliens
-<hunter> aliens who are afraid of condos 
+&lt;hunter&gt; aliens
+
+&lt;hunter&gt; aliens who are afraid of condos 
 
 ---
 
 ### 914
 
 bago yung machine ko
+
 i am above the system 
+
 suck it xp peasants
+
 
 
 ---
 
 ### 915
 
-<hunter> my machine name is now bolognese
-<hunter> im not sure what to say pag tinanong ako bakit ko pinalitan 
+&lt;hunter&gt; my machine name is now bolognese
+
+&lt;hunter&gt; im not sure what to say pag tinanong ako bakit ko pinalitan 
 
 ---
 
 ### 916
 
-<hunter> i wonder if we're already "safe"
-<hunter> lagyan natin ng condom yung server para safe 
+&lt;hunter&gt; i wonder if we're already &quot;safe&quot;
+
+&lt;hunter&gt; lagyan natin ng condom yung server para safe 
 
 ---
 
@@ -5913,7 +6303,7 @@ if you dont want to work here, why are you still here
 
 ### 920
 
-no, the proper response is "by your command"
+no, the proper response is &quot;by your command&quot;
 
 ---
 
@@ -5943,8 +6333,9 @@ my precious lead is in peril
 
 ### 925
 
-<hunter> do you think it's rude to talk to people without identifying yourself first
-<hunter> hypothetically speaking 
+&lt;hunter&gt; do you think it's rude to talk to people without identifying yourself first
+
+&lt;hunter&gt; hypothetically speaking 
 
 ---
 
@@ -5968,28 +6359,31 @@ I'm sorry, our software is perfect. The problem must be you.
 
 ### 929
 
-<hunter> what, you're too good for us now?
-<hunter> mr big shot 
+&lt;hunter&gt; what, you're too good for us now?
+
+&lt;hunter&gt; mr big shot 
 
 ---
 
 ### 930
 
-<hunter> guys may double down na ulit
-<hunter> you're already eating something unhealthy, might as well go all the way 
+&lt;hunter&gt; guys may double down na ulit
+
+&lt;hunter&gt; you're already eating something unhealthy, might as well go all the way 
 
 ---
 
 ### 931
 
-> Lunch: Freedom!!!
+&gt; Lunch: Freedom!!!
 
 ---
 
 ### 932
 
-<hunter> internet bridges
-<hunter> connecting you to the future 
+&lt;hunter&gt; internet bridges
+
+&lt;hunter&gt; connecting you to the future 
 
 ---
 
@@ -6001,8 +6395,9 @@ unions aren't bad, they're just misunderstood
 
 ### 934
 
-<hunter> the great thing about being a dev, is we're the last to be obsoleted
-<hunter> kami yung nangoobsolete ng ibang tao
+&lt;hunter&gt; the great thing about being a dev, is we're the last to be obsoleted
+
+&lt;hunter&gt; kami yung nangoobsolete ng ibang tao
 
 ---
 
@@ -6026,8 +6421,9 @@ overheard at our block: pahiram ng sausage mo
 
 ### 938
 
-<hunter> maaga ako nagigising araw-araw
-<hunter> iba yun sa maagang pumapasok 
+&lt;hunter&gt; maaga ako nagigising araw-araw
+
+&lt;hunter&gt; iba yun sa maagang pumapasok 
 
 ---
 
@@ -6039,8 +6435,9 @@ i cant quote a tangincheek
 
 ### 940
 
-<hunter> wala ka kasing finesse wang
-<hunter> brute force lang alam mo 
+&lt;hunter&gt; wala ka kasing finesse wang
+
+&lt;hunter&gt; brute force lang alam mo 
 
 ---
 
@@ -6058,15 +6455,17 @@ if it's still a problem, it's btan's fault
 
 ### 943
 
-overheard at our block: "My eggs are cracked"
+overheard at our block: &quot;My eggs are cracked&quot;
 
 ---
 
 ### 944
 
-<hunter> guys kunwari nakababa ka ng tektite
-<hunter> tapos biglang kang natae
-<hunter> san ka ccr and bakit 
+&lt;hunter&gt; guys kunwari nakababa ka ng tektite
+
+&lt;hunter&gt; tapos biglang kang natae
+
+&lt;hunter&gt; san ka ccr and bakit 
 
 ---
 
@@ -6090,8 +6489,9 @@ i need to wait until i get a chance to do something major that propels me into t
 
 ### 948
 
-<hunter> i have grown harsh
-<hunter> tempered by yesterday's betrayals 
+&lt;hunter&gt; i have grown harsh
+
+&lt;hunter&gt; tempered by yesterday's betrayals 
 
 ---
 
@@ -6110,21 +6510,24 @@ im busy fighting for rotten bananas everywhere
 ### 951
 
 be the jvm
+
 become one with the heap
 
 ---
 
 ### 952
 
-<hunter> year 2000 pinublish yung storm of swords
-<hunter> pag lampas 10 years, pwede na ispoil 
+&lt;hunter&gt; year 2000 pinublish yung storm of swords
+
+&lt;hunter&gt; pag lampas 10 years, pwede na ispoil 
 
 ---
 
 ### 953
 
-<hunter> gawa na lang kaya ako ng flappy bird
-<hunter> but my life might be ruined 
+&lt;hunter&gt; gawa na lang kaya ako ng flappy bird
+
+&lt;hunter&gt; but my life might be ruined 
 
 ---
 
@@ -6166,22 +6569,25 @@ ano first name ni pikachu? ans: cherry pie
 
 ### 960
 
-<hunter> lunch is a human right
-<hunter> pandante is not a human right 
+&lt;hunter&gt; lunch is a human right
+
+&lt;hunter&gt; pandante is not a human right 
 
 ---
 
 ### 961
 
-<hunter> I can see my house from the moon
-<hunter> kelangan lang mag enhance
+&lt;hunter&gt; I can see my house from the moon
+
+&lt;hunter&gt; kelangan lang mag enhance
 
 ---
 
 ### 962
 
-<hunter> there's no way anyone can catch up to me
-<hunter> it's mathematically impossible
+&lt;hunter&gt; there's no way anyone can catch up to me
+
+&lt;hunter&gt; it's mathematically impossible
 
 ---
 
@@ -6193,8 +6599,9 @@ pano na ang peace and quiet
 
 ### 964
 
-<hunter> i know you guys rely on me to bring levity
-<hunter> i have failed you 
+&lt;hunter&gt; i know you guys rely on me to bring levity
+
+&lt;hunter&gt; i have failed you 
 
 ---
 
@@ -6212,9 +6619,11 @@ i'm not sure how having a black guy as [human] torch works
 
 ### 967
 
-<hunter> we have like a billion random servlets
-<hunter> para tayong mcdonalds
-<hunter> "Billions served!" 
+&lt;hunter&gt; we have like a billion random servlets
+
+&lt;hunter&gt; para tayong mcdonalds
+
+&lt;hunter&gt; &quot;Billions served!&quot; 
 
 ---
 
@@ -6226,29 +6635,33 @@ beauty cant protect you from bullets. if venezuela descends into chaos, will the
 
 ### 969
 
-<hunter> but i've already moved on lol 
-<hunter> i'm focusing on international problems now 
+&lt;hunter&gt; but i've already moved on lol 
+
+&lt;hunter&gt; i'm focusing on international problems now 
 
 ---
 
 ### 970
 
-<hunter> ano sabi nung taga ukraine na apathetic
-<hunter> "kievs" 
+&lt;hunter&gt; ano sabi nung taga ukraine na apathetic
+
+&lt;hunter&gt; &quot;kievs&quot; 
 
 ---
 
 ### 971
 
-<hunter> wang doesnt have a point
-<hunter> just a tip 
+&lt;hunter&gt; wang doesnt have a point
+
+&lt;hunter&gt; just a tip 
 
 ---
 
 ### 972
 
-<hunter> may ibig sabihin ba yung band name ng u2?
-<hunter> or tipong may nagtext lang kay bono "isip ka ng band name!" "ok, u2" 
+&lt;hunter&gt; may ibig sabihin ba yung band name ng u2?
+
+&lt;hunter&gt; or tipong may nagtext lang kay bono &quot;isip ka ng band name!&quot; &quot;ok, u2&quot; 
 
 ---
 
@@ -6278,8 +6691,9 @@ devs should have commit awareness
 
 ### 977
 
-<hunter> dapat aware kung ano yung mga dapat icommit and kung ano yung hindi
-<hunter> not just blindly commit everything na may change sa local
+&lt;hunter&gt; dapat aware kung ano yung mga dapat icommit and kung ano yung hindi
+
+&lt;hunter&gt; not just blindly commit everything na may change sa local
 
 ---
 
@@ -6297,9 +6711,11 @@ the fact that you all had the privilege of meeting me was just a happy accident
 
 ### 980
 
-<hunter> no to sugarcoating
-<hunter> just be direct and honest
-<hunter> the truth will set you free
+&lt;hunter&gt; no to sugarcoating
+
+&lt;hunter&gt; just be direct and honest
+
+&lt;hunter&gt; the truth will set you free
 
 ---
 
@@ -6329,8 +6745,9 @@ PROTIP: pag nahirapan kayo sumagot sa tanong nya, distract him with some other t
 
 ### 985
 
-<hunter> pag nagalit ako, malalaman nyo
-<hunter> maghahalo ang balat sa tinalupan 
+&lt;hunter&gt; pag nagalit ako, malalaman nyo
+
+&lt;hunter&gt; maghahalo ang balat sa tinalupan 
 
 ---
 
@@ -6360,8 +6777,9 @@ IT'S HAPPENING!!!
 
 ### 990
 
-<hunter> i dont see a challenge
-<hunter> i see an opportunity 
+&lt;hunter&gt; i dont see a challenge
+
+&lt;hunter&gt; i see an opportunity 
 
 ---
 
@@ -6373,31 +6791,37 @@ the only real way to end the streak is to have the undertaker challenge himself
 
 ### 992
 
-<hunter> i seriously doubt aristotle is more famous than jesus
-<hunter> 99% of people living today wouldnt know who aristotle is
-<hunter> *was 
+&lt;hunter&gt; i seriously doubt aristotle is more famous than jesus
+
+&lt;hunter&gt; 99% of people living today wouldnt know who aristotle is
+
+&lt;hunter&gt; *was 
 
 ---
 
 ### 993
 
-<hunter> what bakit mo niredeem 
-<hunter> dapat ako mag redeem 
-<hunter> im the redeemer 
+&lt;hunter&gt; what bakit mo niredeem 
+
+&lt;hunter&gt; dapat ako mag redeem 
+
+&lt;hunter&gt; im the redeemer 
 
 ---
 
 ### 994
 
 (3:31:31 PM) stang (roy): one cant assume things
+
 (3:31:35 PM) stang (roy): that makes an ass of u and me
 
 ---
 
 ### 995
 
-<hunter> tsk you werent paying attention to me
-<hunter> pinapansin mo lang when someone is heating someone else's hotdog 
+&lt;hunter&gt; tsk you werent paying attention to me
+
+&lt;hunter&gt; pinapansin mo lang when someone is heating someone else's hotdog 
 
 ---
 
@@ -6415,16 +6839,19 @@ alam mo naman ako, i tend to worry about things even if nde pa kelangan
 
 ### 998
 
-<hunter> im not hating on her
-<hunter> i mean, i'd still tap that
-<hunter> lol 
+&lt;hunter&gt; im not hating on her
+
+&lt;hunter&gt; i mean, i'd still tap that
+
+&lt;hunter&gt; lol 
 
 ---
 
 ### 999
 
-<hunter> where do astronauts hang out? 
-<hunter> at the space bar!
+&lt;hunter&gt; where do astronauts hang out? 
+
+&lt;hunter&gt; at the space bar!
 
 ---
 
@@ -6436,9 +6863,11 @@ yeah, real people are assholes
 
 ### 1001
 
-<hunter> four of me!
-<hunter> that's four times too much awesomeness
-<hunter> how can the world take it 
+&lt;hunter&gt; four of me!
+
+&lt;hunter&gt; that's four times too much awesomeness
+
+&lt;hunter&gt; how can the world take it 
 
 ---
 
@@ -6456,15 +6885,17 @@ it means you must google
 
 ### 1004
 
-<hunter> walang bras sa westeros
-<hunter> pag tanggal ng robes, parating boobs na agad 
+&lt;hunter&gt; walang bras sa westeros
+
+&lt;hunter&gt; pag tanggal ng robes, parating boobs na agad 
 
 ---
 
 ### 1005
 
-<hunter> why do we exist
-<hunter> we are extensions of the will of the universe 
+&lt;hunter&gt; why do we exist
+
+&lt;hunter&gt; we are extensions of the will of the universe 
 
 ---
 
@@ -6476,15 +6907,17 @@ i'm not sure if it's good that i'm being compared to a eunuch
 
 ### 1007
 
-<hunter> im a shining example
+&lt;hunter&gt; im a shining example
 
 ---
 
 ### 1008
 
-<hunter> i was fixing something else
-<hunter> then i saw the problem
-<hunter> and i was like, this is fucking familiar 
+&lt;hunter&gt; i was fixing something else
+
+&lt;hunter&gt; then i saw the problem
+
+&lt;hunter&gt; and i was like, this is fucking familiar 
 
 ---
 
@@ -6508,15 +6941,17 @@ august is the best month
 
 ### 1012
 
-<hunter> i already receive too much mail meant for the other roy tangs
-<hunter> i should kill them all and absorb their power 
+&lt;hunter&gt; i already receive too much mail meant for the other roy tangs
+
+&lt;hunter&gt; i should kill them all and absorb their power 
 
 ---
 
 ### 1013
 
-<hunter> i am technically correct
-<hunter> that's the best kind of correct 
+&lt;hunter&gt; i am technically correct
+
+&lt;hunter&gt; that's the best kind of correct 
 
 ---
 
@@ -6552,23 +6987,27 @@ let the corny flow through you
 
 ### 1019
 
-<hunter> may chinese blood ka ba?
-<hunter> try to spill some of it 
+&lt;hunter&gt; may chinese blood ka ba?
+
+&lt;hunter&gt; try to spill some of it 
 
 ---
 
 ### 1020
 
-<hunter> what
-<hunter> why are you blaming me
-<hunter> it's not like corny ako 
+&lt;hunter&gt; what
+
+&lt;hunter&gt; why are you blaming me
+
+&lt;hunter&gt; it's not like corny ako 
 
 ---
 
 ### 1021
 
-<hunter> wag kayo gagaya sakin
-<hunter> it's bad 
+&lt;hunter&gt; wag kayo gagaya sakin
+
+&lt;hunter&gt; it's bad 
 
 ---
 
@@ -6586,8 +7025,9 @@ What is life without WHO
 
 ### 1024
 
-<hunter> basta keep better track
-<hunter> dont make us look out for you
+&lt;hunter&gt; basta keep better track
+
+&lt;hunter&gt; dont make us look out for you
 
 ---
 
@@ -6617,29 +7057,33 @@ im not krillin
 
 ### 1029
 
-<hunter> i think ill apply the yakimix policy to vikings
-<hunter> kakain lang ako dun pag libre 
+&lt;hunter&gt; i think ill apply the yakimix policy to vikings
+
+&lt;hunter&gt; kakain lang ako dun pag libre 
 
 ---
 
 ### 1030
 
-<hunter> idk what to do today
-<hunter> it's too early to have a crisis 
+&lt;hunter&gt; idk what to do today
+
+&lt;hunter&gt; it's too early to have a crisis 
 
 ---
 
 ### 1031
 
-<hunter> we dont have a porch
-<hunter> innova lang 
+&lt;hunter&gt; we dont have a porch
+
+&lt;hunter&gt; innova lang 
 
 ---
 
 ### 1032
 
-6:49:53 <hunter> yung tsinelas yung may letter Y
-<hunter> tsynelas 
+6:49:53 &lt;hunter&gt; yung tsinelas yung may letter Y
+
+&lt;hunter&gt; tsynelas 
 
 ---
 
@@ -6675,8 +7119,9 @@ it might lead to dark places on the internet
 
 ### 1038
 
-<hunter> dont reminisce!
-<hunter> it's dangerous 
+&lt;hunter&gt; dont reminisce!
+
+&lt;hunter&gt; it's dangerous 
 
 ---
 
@@ -6694,36 +7139,41 @@ it's not gay as long as walang swords crossing
 
 ### 1041
 
-<hunter> ugh this windows app layouting is boring
-<hunter> i'd rather go to a meeting 
+&lt;hunter&gt; ugh this windows app layouting is boring
+
+&lt;hunter&gt; i'd rather go to a meeting 
 
 ---
 
 ### 1042
 
-<hunter> wala na kasing modern day gangsters
-<hunter> theyre called corporations now 
+&lt;hunter&gt; wala na kasing modern day gangsters
+
+&lt;hunter&gt; theyre called corporations now 
 
 ---
 
 ### 1043
 
-<hunter> blue ilang beses mo na ko gusto idate
-<hunter> no means no! 
+&lt;hunter&gt; blue ilang beses mo na ko gusto idate
+
+&lt;hunter&gt; no means no! 
 
 ---
 
 ### 1044
 
-<hunter> bilhin ko na lang kaya yung HH
-<hunter> pero kailangan magpramis kayo na kakain kayo dun araw-araw for 10 years 
+&lt;hunter&gt; bilhin ko na lang kaya yung HH
+
+&lt;hunter&gt; pero kailangan magpramis kayo na kakain kayo dun araw-araw for 10 years 
 
 ---
 
 ### 1045
 
-<hunter> in any given industry, 95% of the people working there arent very good at what they do
-<hunter> 74% of all statistics are made up 
+&lt;hunter&gt; in any given industry, 95% of the people working there arent very good at what they do
+
+&lt;hunter&gt; 74% of all statistics are made up 
 
 ---
 
@@ -6741,44 +7191,51 @@ dont come on internet
 
 ### 1048
 
-<hunter> ganyan ang mga pilipino, hindi kaya sumagot directly ng tanong
-<hunter> "kumain ka na?" "busog pa ko e" 
+&lt;hunter&gt; ganyan ang mga pilipino, hindi kaya sumagot directly ng tanong
+
+&lt;hunter&gt; &quot;kumain ka na?&quot; &quot;busog pa ko e&quot; 
 
 ---
 
 ### 1049
 
-dapat tipong sisingit ka sa pila, tapos when the other people complain you're like "excuse me!" (whips out card) "preferred client ako!"
+dapat tipong sisingit ka sa pila, tapos when the other people complain you're like &quot;excuse me!&quot; (whips out card) &quot;preferred client ako!&quot;
 
 ---
 
 ### 1050
 
-<hunter> aw man, embarassing
-<hunter> my text said "please dont call know"
-<hunter> =| 
+&lt;hunter&gt; aw man, embarassing
+
+&lt;hunter&gt; my text said &quot;please dont call know&quot;
+
+&lt;hunter&gt; =| 
 
 ---
 
 ### 1051
 
-<hunter> it lives on in our hearts
-<hunter> now we shall never speak of it again 
+&lt;hunter&gt; it lives on in our hearts
+
+&lt;hunter&gt; now we shall never speak of it again 
 
 ---
 
 ### 1052
 
-<hunter> what if we encase metro manila in a glass dome
-<hunter> tapos airconditioned yung dome
-<hunter> no wait
-<hunter> what if we BLOT OUT THE SON 
+&lt;hunter&gt; what if we encase metro manila in a glass dome
+
+&lt;hunter&gt; tapos airconditioned yung dome
+
+&lt;hunter&gt; no wait
+
+&lt;hunter&gt; what if we BLOT OUT THE SON 
 
 ---
 
 ### 1053
 
-respond ka "i will crush you!"
+respond ka &quot;i will crush you!&quot;
 
 ---
 
@@ -6796,8 +7253,9 @@ c pag deads ka na, wala nang overthinking
 
 ### 1056
 
-<hunter> hindi ko alam ano time difference ng cellphone ko sa ots
-<hunter> so I NEVER GIVE UP 
+&lt;hunter&gt; hindi ko alam ano time difference ng cellphone ko sa ots
+
+&lt;hunter&gt; so I NEVER GIVE UP 
 
 ---
 
@@ -6821,8 +7279,9 @@ that one was actual wisdom
 
 ### 1060
 
-<hunter> kunwari nastranded ka on an island for 5 years
-<hunter> pagbalik mo ba, maalala mo pa din yung keyboard shortcuts ng eclipse? 
+&lt;hunter&gt; kunwari nastranded ka on an island for 5 years
+
+&lt;hunter&gt; pagbalik mo ba, maalala mo pa din yung keyboard shortcuts ng eclipse? 
 
 ---
 
@@ -6846,8 +7305,9 @@ i can only imagine that quote coming back to haunt me when im running for presid
 
 ### 1064
 
-<hunter> mas masarap pag libre
-<hunter> im not made of money 
+&lt;hunter&gt; mas masarap pag libre
+
+&lt;hunter&gt; im not made of money 
 
 ---
 
@@ -6859,8 +7319,9 @@ im not a checkbox!
 
 ### 1066
 
-<hunter> i've already been best in the country at something
-<hunter> best in the world naman 
+&lt;hunter&gt; i've already been best in the country at something
+
+&lt;hunter&gt; best in the world naman 
 
 ---
 
@@ -6884,8 +7345,9 @@ just because other people are assholes doesnt mean you have to be an asshole too
 
 ### 1070
 
-<hunter> may sequel daw yung taken where sumali sa 4-man wrestling matches si liam neeson
-<hunter> it was called taken tag 
+&lt;hunter&gt; may sequel daw yung taken where sumali sa 4-man wrestling matches si liam neeson
+
+&lt;hunter&gt; it was called taken tag 
 
 ---
 
@@ -6909,21 +7371,23 @@ i dont like proposals kasi i dont like lying
 
 ### 1074
 
-pag may binigay sayong task na impossible, respond with "I demand a trial by combat"
+pag may binigay sayong task na impossible, respond with &quot;I demand a trial by combat&quot;
 
 ---
 
 ### 1075
 
-<hunter> why would you even want to try weed
-<hunter> you can get high on [project] instead 
+&lt;hunter&gt; why would you even want to try weed
+
+&lt;hunter&gt; you can get high on [project] instead 
 
 ---
 
 ### 1076
 
-<hunter> how can donuts be wrong
-<hunter> i dont want to live in a world where donuts are wrong 
+&lt;hunter&gt; how can donuts be wrong
+
+&lt;hunter&gt; i dont want to live in a world where donuts are wrong 
 
 ---
 
@@ -6965,15 +7429,17 @@ i have all the answers
 
 ### 1083
 
-<hunter> wag kayo mag give in to fear
-<hunter> courage! 
+&lt;hunter&gt; wag kayo mag give in to fear
+
+&lt;hunter&gt; courage! 
 
 ---
 
 ### 1084
 
-<hunter> my grandfather sa father's side is pure chinese
-<hunter> ako i'm pure awesome 
+&lt;hunter&gt; my grandfather sa father's side is pure chinese
+
+&lt;hunter&gt; ako i'm pure awesome 
 
 ---
 
@@ -6991,7 +7457,7 @@ awesome people arent racist, you nigger
 
 ### 1087
 
-pag mainit na ang panahon, pinoys are like "awesomer na!"
+pag mainit na ang panahon, pinoys are like &quot;awesomer na!&quot;
 
 ---
 
@@ -7003,171 +7469,179 @@ i dont want to have to explain
 
 ### 1089
 
-<hunter> > <macho> do you guys put your phones on silent mode? <- 
+&lt;hunter&gt; &gt; &lt;macho&gt; do you guys put your phones on silent mode? &lt;- 
+
 i dont. not even when randy santiago and that other guy tell me to
 
 ---
 
 ### 1090
 
-<hunter> when you fantasize about me, i have no face?
+&lt;hunter&gt; when you fantasize about me, i have no face?
 
 ---
 
 ### 1091
 
-<hunter> living increases your risk of cancer by up to 100%
+&lt;hunter&gt; living increases your risk of cancer by up to 100%
 
 ---
 
 ### 1092
 
-<hunter> i like that i can just try a random function i'm not familiar with and immediately find a couple of bugs
+&lt;hunter&gt; i like that i can just try a random function i'm not familiar with and immediately find a couple of bugs
 
 ---
 
 ### 1093
 
-<hunter> parang ang sarap ng walang pasok
-<hunter> resign na kaya ako 
+&lt;hunter&gt; parang ang sarap ng walang pasok
+
+&lt;hunter&gt; resign na kaya ako 
 
 ---
 
 ### 1094
 
-<hunter> walang basagan ng trip
-<hunter> let them live their alternative lifestyles 
+&lt;hunter&gt; walang basagan ng trip
+
+&lt;hunter&gt; let them live their alternative lifestyles 
 
 ---
 
 ### 1095
 
-<hunter> a dream is a wish your heart makes
+&lt;hunter&gt; a dream is a wish your heart makes
 
 ---
 
 ### 1096
 
-<hunter> im a genius and i didnt even know it
+&lt;hunter&gt; im a genius and i didnt even know it
 
 ---
 
 ### 1097
 
-<hunter> monday pa lang, parang napagod na ko sa mundo
+&lt;hunter&gt; monday pa lang, parang napagod na ko sa mundo
 
 ---
 
 ### 1098
 
-<hunter> if all the days are rest days, then no days are rest days
+&lt;hunter&gt; if all the days are rest days, then no days are rest days
 
 ---
 
 ### 1099
 
-<hunter> tapon mo na yan, sardines are evil
+&lt;hunter&gt; tapon mo na yan, sardines are evil
 
 ---
 
 ### 1100
 
-<hunter> there should be a drug to help you avoid taking drugs
+&lt;hunter&gt; there should be a drug to help you avoid taking drugs
 
 ---
 
 ### 1101
 
-<hunter> bahala ka, pag druggie ka, hindi ka magiging national artist
+&lt;hunter&gt; bahala ka, pag druggie ka, hindi ka magiging national artist
 
 ---
 
 ### 1102
 
-<hunter> the words of House Tardy are "Six points pa lang!"
+&lt;hunter&gt; the words of House Tardy are &quot;Six points pa lang!&quot;
 
 ---
 
 ### 1103
 
-<hunter> what if i start my own government
-<hunter> our national food will be bacon and cheese sandwich 
+&lt;hunter&gt; what if i start my own government
+
+&lt;hunter&gt; our national food will be bacon and cheese sandwich 
 
 ---
 
 ### 1104
 
-<hunter> nagkaron nga ng one week na walang nagrerecord ng wisdom ko e
+&lt;hunter&gt; nagkaron nga ng one week na walang nagrerecord ng wisdom ko e
 
 ---
 
 ### 1105
 
-<hunter> > hindi ka pa ba naeexcite ng [project]?
+&lt;hunter&gt; &gt; hindi ka pa ba naeexcite ng [project]?
 
 ---
 
 ### 1106
 
-<hunter> is it bad for me to suddenly shout "fucking eclipse!" in front of the noobs
+&lt;hunter&gt; is it bad for me to suddenly shout &quot;fucking eclipse!&quot; in front of the noobs
 
 ---
 
 ### 1107
 
-<hunter> it makes sense na gawin mo lang pag kelangan mo na
+&lt;hunter&gt; it makes sense na gawin mo lang pag kelangan mo na
 
 ---
 
 ### 1108
 
-<hunter> that's bad
-<hunter> that's so bad 
+&lt;hunter&gt; that's bad
+
+&lt;hunter&gt; that's so bad 
 
 ---
 
 ### 1109
 
-<hunter> psychic mode
-<hunter> i try not to let my psychic powers affect my life 
+&lt;hunter&gt; psychic mode
+
+&lt;hunter&gt; i try not to let my psychic powers affect my life 
 
 ---
 
 ### 1110
 
-<hunter> good to know we're still in sync
+&lt;hunter&gt; good to know we're still in sync
 
 ---
 
 ### 1111
 
-<hunter> I AM THE ONE WHO REVIEWS
+&lt;hunter&gt; I AM THE ONE WHO REVIEWS
 
 ---
 
 ### 1112
 
-<hunter> kung ang tawag sa kinakabit ay kabit, dapat tawag sa nililigawan is ligaw #TweetLikeJaden
+&lt;hunter&gt; kung ang tawag sa kinakabit ay kabit, dapat tawag sa nililigawan is ligaw #TweetLikeJaden
 
 ---
 
 ### 1113
 
-<hunter> i dont like "uu"
-<hunter> parang tae 
+&lt;hunter&gt; i dont like &quot;uu&quot;
+
+&lt;hunter&gt; parang tae 
 
 ---
 
 ### 1114
 
-<hunter> circuses dont have windows
+&lt;hunter&gt; circuses dont have windows
 
 ---
 
 ### 1115
 
-<hunter> merong [system] user na JOLLEYV
-<hunter> i wonder if hotdog din sya 
+&lt;hunter&gt; merong [system] user na JOLLEYV
+
+&lt;hunter&gt; i wonder if hotdog din sya 
 
 ---
 
@@ -7179,245 +7653,273 @@ hindi pwera naputulan ka ng buhok mahina ka na
 
 ### 1117
 
-<hunter> today, i will clean up some shit
+&lt;hunter&gt; today, i will clean up some shit
 
 ---
 
 ### 1118
 
-<hunter> magtatayo ako jan ng HH kung jan kayo maglulunch araw-araw for 10 years
-<hunter> kahit weekends
-<hunter> kahit magresign
-<hunter> bigyan ko kayo 10% discount pag sundays 
+&lt;hunter&gt; magtatayo ako jan ng HH kung jan kayo maglulunch araw-araw for 10 years
+
+&lt;hunter&gt; kahit weekends
+
+&lt;hunter&gt; kahit magresign
+
+&lt;hunter&gt; bigyan ko kayo 10% discount pag sundays 
 
 ---
 
 ### 1119
 
-<hunter> it's not really important na malaman natin
-<hunter> the important thing is that we all learned how to work together 
+&lt;hunter&gt; it's not really important na malaman natin
+
+&lt;hunter&gt; the important thing is that we all learned how to work together 
 
 ---
 
 ### 1120
 
-<hunter> why dont we respect his desire to remain anon
-<hunter> if we have a witch hunt, less anons will be [less] forthcoming in the future
-<hunter> this is why i didnt want to find the logs lol
-<hunter> pero ginawa ko pa din haha 
+&lt;hunter&gt; why dont we respect his desire to remain anon
+
+&lt;hunter&gt; if we have a witch hunt, less anons will be [less] forthcoming in the future
+
+&lt;hunter&gt; this is why i didnt want to find the logs lol
+
+&lt;hunter&gt; pero ginawa ko pa din haha 
 
 ---
 
 ### 1121
 
-<hunter> i couldnt remain anonymous if i tried
+&lt;hunter&gt; i couldnt remain anonymous if i tried
 
 ---
 
 ### 1122
 
-<hunter> i'm smirking
-<hunter> entertaining e 
+&lt;hunter&gt; i'm smirking
+
+&lt;hunter&gt; entertaining e 
 
 ---
 
 ### 1123
 
-<hunter> thanks for volunteering as tribute
+&lt;hunter&gt; thanks for volunteering as tribute
 
 ---
 
 ### 1124
 
-<hunter> the 2nd one is stupid
-<hunter> the 1st one is ugly, but it's not stupid 
+&lt;hunter&gt; the 2nd one is stupid
+
+&lt;hunter&gt; the 1st one is ugly, but it's not stupid 
 
 ---
 
 ### 1125
 
-<hunter> both of these are ridiculous, but one is more ridiculous than the other
+&lt;hunter&gt; both of these are ridiculous, but one is more ridiculous than the other
 
 ---
 
 ### 1126
 
-<hunter> do you guys ever get the urge to quit the world and become a hermit
+&lt;hunter&gt; do you guys ever get the urge to quit the world and become a hermit
 
 ---
 
 ### 1127
 
-<hunter> no strings attached just means hindi nyo inaamin na may strings attached
+&lt;hunter&gt; no strings attached just means hindi nyo inaamin na may strings attached
 
 ---
 
 ### 1128
 
-<hunter> it's been so long, i've forgotten what it's like to be late
+&lt;hunter&gt; it's been so long, i've forgotten what it's like to be late
 
 ---
 
 ### 1129
 
-<c> para may high level stuff ka na rin 
-<hunter> feeling mo wala akong high level stuff 
-<c> the lead dev is the bridge 
-<hunter> pano ka anjan 
-<c> me? 
-<hunter> in english, 
-<hunter> how there you 
+&lt;c&gt; para may high level stuff ka na rin 
+
+&lt;hunter&gt; feeling mo wala akong high level stuff 
+
+&lt;c&gt; the lead dev is the bridge 
+
+&lt;hunter&gt; pano ka anjan 
+
+&lt;c&gt; me? 
+
+&lt;hunter&gt; in english, 
+
+&lt;hunter&gt; how there you 
 
 ---
 
 ### 1130
 
-<hunter> hindi naman kasi ito facebook
-<hunter> so bakit mo yan ginagawa dito 
+&lt;hunter&gt; hindi naman kasi ito facebook
+
+&lt;hunter&gt; so bakit mo yan ginagawa dito 
 
 ---
 
 ### 1131
 
-<hunter> > <furfur> masarap ba wang? <- i would try wang
+&lt;hunter&gt; &gt; &lt;furfur&gt; masarap ba wang? &lt;- i would try wang
 
 ---
 
 ### 1132
 
-<hunter> no, i was planning to walk over there and give you the estimate in a wild voice
+&lt;hunter&gt; no, i was planning to walk over there and give you the estimate in a wild voice
 
 ---
 
 ### 1133
 
-<hunter> may naisip ka nang innovation x?
-<hunter> meron na ako...suggestion ko may kasamang bacon yung [system]
+&lt;hunter&gt; may naisip ka nang innovation x?
+
+&lt;hunter&gt; meron na ako...suggestion ko may kasamang bacon yung [system]
 
 ---
 
 ### 1134
 
-<hunter> they want your nuts man
+&lt;hunter&gt; they want your nuts man
 
 ---
 
 ### 1135
 
-<hunter> parang ang panget ng apelyido na gosingitan
-<hunter> > ang haba ng pila!
-<hunter> > gosingitan mo! 
+&lt;hunter&gt; parang ang panget ng apelyido na gosingitan
+
+&lt;hunter&gt; &gt; ang haba ng pila!
+
+&lt;hunter&gt; &gt; gosingitan mo! 
 
 ---
 
 ### 1136
 
-<hunter> everything is a thing
+&lt;hunter&gt; everything is a thing
 
 ---
 
 ### 1137
 
-<hunter> ako bantay dito
-<hunter> the watcher on the wall 
+&lt;hunter&gt; ako bantay dito
+
+&lt;hunter&gt; the watcher on the wall 
 
 ---
 
 ### 1138
 
-<hunter> dis is not da hood yo
+&lt;hunter&gt; dis is not da hood yo
 
 ---
 
 ### 1139
 
-<hunter> > nasira internet ko. may internet ka ba? aladdin e
+&lt;hunter&gt; &gt; nasira internet ko. may internet ka ba? aladdin e
 
 ---
 
 ### 1140
 
-<hunter> i'm always here for you
+&lt;hunter&gt; i'm always here for you
 
 ---
 
 ### 1141
 
-<hunter> wag ka maniwala kay eka
-<hunter> what does she know 
+&lt;hunter&gt; wag ka maniwala kay eka
+
+&lt;hunter&gt; what does she know 
 
 ---
 
 ### 1142
 
-<hunter> well, even if the world ends today, at least i had lasagna yesterday
+&lt;hunter&gt; well, even if the world ends today, at least i had lasagna yesterday
 
 ---
 
 ### 1143
 
-<hunter> there's always a solution
-<hunter> try chinese child labor 
+&lt;hunter&gt; there's always a solution
+
+&lt;hunter&gt; try chinese child labor 
 
 ---
 
 ### 1144
 
-<hunter> i dont have infinite time
-<hunter> i wish i did 
+&lt;hunter&gt; i dont have infinite time
+
+&lt;hunter&gt; i wish i did 
 
 ---
 
 ### 1145
 
-<hunter> this is why we can't be ISO27001 certified
+&lt;hunter&gt; this is why we can't be ISO27001 certified
 
 ---
 
 ### 1146
 
-<hunter> damnit
-<hunter> every time there's a small piece of code that's already obsolete and i want to remove it
-<hunter> then i trace where it's used
-<hunter> and there's a whole iceberg of other obsolete code beneath it 
+&lt;hunter&gt; damnit
+
+&lt;hunter&gt; every time there's a small piece of code that's already obsolete and i want to remove it
+
+&lt;hunter&gt; then i trace where it's used
+
+&lt;hunter&gt; and there's a whole iceberg of other obsolete code beneath it 
 
 ---
 
 ### 1147
 
-<hunter> parang ang saya magdelete ng obsolete files
-<hunter> no code is the best code 
+&lt;hunter&gt; parang ang saya magdelete ng obsolete files
+
+&lt;hunter&gt; no code is the best code 
 
 ---
 
 ### 1148
 
-<hunter> we are not your command line!
+&lt;hunter&gt; we are not your command line!
 
 ---
 
 ### 1149
 
-<hunter> idk why i ask you guys never nyo pa ko nabigyan ng magandang sagot
+&lt;hunter&gt; idk why i ask you guys never nyo pa ko nabigyan ng magandang sagot
 
 ---
 
 ### 1150
 
-<hunter> hindi nabibili ang pag-ibig
+&lt;hunter&gt; hindi nabibili ang pag-ibig
 
 ---
 
 ### 1151
 
-<hunter> right, [project] exists
-<hunter> to be more extreme than all other projeccts 
+&lt;hunter&gt; right, [project] exists
+
+&lt;hunter&gt; to be more extreme than all other projeccts 
 
 ---
 
 ### 1152
 
-<hunter> pag magulo kasi advice ng mga tao, just drown out their voices and focus on me
+&lt;hunter&gt; pag magulo kasi advice ng mga tao, just drown out their voices and focus on me
 
 ---
 
@@ -7429,186 +7931,198 @@ time naman parati ang problem
 
 ### 1154
 
-<hunter> im not a plant, im an animal
+&lt;hunter&gt; im not a plant, im an animal
 
 ---
 
 ### 1155
 
-<hunter> wag na natin ifix yung traffic problems, lulubog din naman tayo in 100 years
+&lt;hunter&gt; wag na natin ifix yung traffic problems, lulubog din naman tayo in 100 years
 
 ---
 
 ### 1156
 
-<hunter> school education never dies
+&lt;hunter&gt; school education never dies
 
 ---
 
 ### 1157
 
-<hunter> i go home all the time
+&lt;hunter&gt; i go home all the time
 
 ---
 
 ### 1158
 
-<hunter> sayang lang wisdon ko kung hindi nyo ginagamit
+&lt;hunter&gt; sayang lang wisdon ko kung hindi nyo ginagamit
 
 ---
 
 ### 1159
 
-<hunter> dice game is a terrible game
+&lt;hunter&gt; dice game is a terrible game
 
 ---
 
 ### 1160
 
-<hunter> why dont we just
-<hunter> BLOT OUT THE SUN
+&lt;hunter&gt; why dont we just
+
+&lt;hunter&gt; BLOT OUT THE SUN
 
 ---
 
 ### 1161
 
-<hunter> dont let work problems depress you 
-<hunter> ok lang mainis, wag yung malungkot
+&lt;hunter&gt; dont let work problems depress you 
+
+&lt;hunter&gt; ok lang mainis, wag yung malungkot
 
 ---
 
 ### 1162
 
-<hunter> ayaw ko na
-<hunter> i'll just ignore this problem and hope it goes away 
+&lt;hunter&gt; ayaw ko na
+
+&lt;hunter&gt; i'll just ignore this problem and hope it goes away 
 
 ---
 
 ### 1163
 
-<hunter> where one comment ends, another one begins
-<hunter> that's life 
+&lt;hunter&gt; where one comment ends, another one begins
+
+&lt;hunter&gt; that's life 
 
 ---
 
 ### 1164
 
-<hunter> wag na lang umasa sa up
-<hunter> para nde madisappoint
-<hunter> > which is better: to hope and to be disappointed, or to never hope at all
+&lt;hunter&gt; wag na lang umasa sa up
+
+&lt;hunter&gt; para nde madisappoint
+
+&lt;hunter&gt; &gt; which is better: to hope and to be disappointed, or to never hope at all
 
 ---
 
 ### 1165
 
-<hunter> i cant be attracted to someone i see as incompetent
+&lt;hunter&gt; i cant be attracted to someone i see as incompetent
 
 ---
 
 ### 1166
 
-<hunter> pag gusto mo, friendly lang
-<hunter> pag ayaw mo, malandi
+&lt;hunter&gt; pag gusto mo, friendly lang
+
+&lt;hunter&gt; pag ayaw mo, malandi
 
 ---
 
 ### 1167
 
-<hunter> sweldo can buy bacon, but sweldo cant buy tulog
+&lt;hunter&gt; sweldo can buy bacon, but sweldo cant buy tulog
 
 ---
 
 ### 1168
 
-<hunter> kaso ano pag work mo yung sleep, baka hindi mo na maenjoy yung sleep
+&lt;hunter&gt; kaso ano pag work mo yung sleep, baka hindi mo na maenjoy yung sleep
 
 ---
 
 ### 1169
 
-<hunter> also, americans pronounce vegeta the same way they pronounce vagina
+&lt;hunter&gt; also, americans pronounce vegeta the same way they pronounce vagina
 
 ---
 
 ### 1170
 
-<hunter> design is subjective anyway, so anytime there are 2 people with strong opinions, magtatalo talaga
+&lt;hunter&gt; design is subjective anyway, so anytime there are 2 people with strong opinions, magtatalo talaga
 
 ---
 
 ### 1171
 
-<hunter> parang masama pakiramdam ko
-<hunter> i feel evil
-<hunter> wut 
+&lt;hunter&gt; parang masama pakiramdam ko
+
+&lt;hunter&gt; i feel evil
+
+&lt;hunter&gt; wut 
 
 ---
 
 ### 1172
 
-<hunter> wag na kasi maghope para nde madisappoint
+&lt;hunter&gt; wag na kasi maghope para nde madisappoint
 
 ---
 
 ### 1173
 
-<hunter> this is what happens when im not around to correct you people
+&lt;hunter&gt; this is what happens when im not around to correct you people
 
 ---
 
 ### 1174
 
-<hunter> i dont see the point in being late by only 10 minutes
+&lt;hunter&gt; i dont see the point in being late by only 10 minutes
 
 ---
 
 ### 1175
 
-<hunter> just because you ask the mountain to come to you doesnt mean it will
+&lt;hunter&gt; just because you ask the mountain to come to you doesnt mean it will
 
 ---
 
 ### 1176
 
-<hunter> pag SL, dapat lagay mong reason Sick
+&lt;hunter&gt; pag SL, dapat lagay mong reason Sick
 
 ---
 
 ### 1177
 
-<hunter> break dance in case of fire
+&lt;hunter&gt; break dance in case of fire
 
 ---
 
 ### 1178
 
-<hunter> i cant eat a foodcourt
+&lt;hunter&gt; i cant eat a foodcourt
 
 ---
 
 ### 1179
 
-<hunter> tsk that's my problem
-<hunter> too much talent 
+&lt;hunter&gt; tsk that's my problem
+
+&lt;hunter&gt; too much talent 
 
 ---
 
 ### 1180
 
-<hunter> failure is the seed of reading
+&lt;hunter&gt; failure is the seed of reading
 
 ---
 
 ### 1181
 
-<hunter> i want to make uwi na
+&lt;hunter&gt; i want to make uwi na
 
 ---
 
 ### 1182
 
 stang (roy): i dont like moving shit around for incremental value
+
 stang (roy): effort
+
 stang (roy): burn to the face na lang
 
 ---
@@ -7621,253 +8135,277 @@ Singlish: It's the same as english but they're singing...
 
 ### 1184
 
-I wouldn't want to be in Singapore... They don't have bacon'
+
 
 ---
 
 ### 1185
 
-<hunter> wth naman yung tanong
-<hunter> as if confucius could be as wise as me 
+&lt;hunter&gt; wth naman yung tanong
+
+&lt;hunter&gt; as if confucius could be as wise as me 
 
 ---
 
 ### 1186
 
-<hunter> what if pwede mo irestart yung db pero merong 1% chance na mamatay ka, would you still do it?
+&lt;hunter&gt; what if pwede mo irestart yung db pero merong 1% chance na mamatay ka, would you still do it?
 
 ---
 
 ### 1187
 
-<hunter> im not joining any cult until i know what it is
-<hunter> well, does the cult worship me? 
+&lt;hunter&gt; im not joining any cult until i know what it is
+
+&lt;hunter&gt; well, does the cult worship me? 
 
 ---
 
 ### 1188
 
-<hunter> [anagram] ipsen
+&lt;hunter&gt; [anagram] ipsen
 
 ---
 
 ### 1189
 
-<hunter> nung first trip ko to hk
-<hunter> kasi for some reason i got involved in a street chopstick fight
-<hunter> i lost badly, then the maintenance man at our building offered to train me so that i could win the tournament 
+&lt;hunter&gt; nung first trip ko to hk
+
+&lt;hunter&gt; kasi for some reason i got involved in a street chopstick fight
+
+&lt;hunter&gt; i lost badly, then the maintenance man at our building offered to train me so that i could win the tournament 
 
 ---
 
 ### 1190
 
-<hunter> left hand on scabbard, right hand on sword hilt
+&lt;hunter&gt; left hand on scabbard, right hand on sword hilt
 
 ---
 
 ### 1191
 
-<hunter> preface your face
+&lt;hunter&gt; preface your face
 
 ---
 
 ### 1192
 
-<hunter> what about girl na may bigote
-<hunter> > Nagtagumpay ka ba?
-<hunter> > bigo, te
+&lt;hunter&gt; what about girl na may bigote
+
+&lt;hunter&gt; &gt; Nagtagumpay ka ba?
+
+&lt;hunter&gt; &gt; bigo, te
 
 ---
 
 ### 1193
 
-<hunter> things can happen even if walang common interests
+&lt;hunter&gt; things can happen even if walang common interests
 
 ---
 
 ### 1194
 
-<hunter> "no" is not a proper response to "why"
+&lt;hunter&gt; &quot;no&quot; is not a proper response to &quot;why&quot;
 
 ---
 
 ### 1195
 
-<hunter> i can finish things pag may deadline
-<hunter> and may TL
-<hunter> lol 
+&lt;hunter&gt; i can finish things pag may deadline
+
+&lt;hunter&gt; and may TL
+
+&lt;hunter&gt; lol 
 
 ---
 
 ### 1196
 
-<hunter> i think all humans at some point in their lives want to tell stories
+&lt;hunter&gt; i think all humans at some point in their lives want to tell stories
 
 ---
 
 ### 1197
 
-<hunter> parasol para solb
+&lt;hunter&gt; parasol para solb
 
 ---
 
 ### 1198
 
-<hunter> if friends talaga kayo, it's ok to call him an idiot
-<hunter> if not, it's ok to lose him as a friend 
+&lt;hunter&gt; if friends talaga kayo, it's ok to call him an idiot
+
+&lt;hunter&gt; if not, it's ok to lose him as a friend 
 
 ---
 
 ### 1199
 
-<hunter> loc is like democracy
-<hunter> it's terrible, but it's better than the alternatives 
+&lt;hunter&gt; loc is like democracy
+
+&lt;hunter&gt; it's terrible, but it's better than the alternatives 
 
 ---
 
 ### 1200
 
-<hunter> i'm never satisfied
+&lt;hunter&gt; i'm never satisfied
 
 ---
 
 ### 1201
 
-<hunter> bakit tinawag na greenhills e flat area yun
+&lt;hunter&gt; bakit tinawag na greenhills e flat area yun
 
 ---
 
 ### 1202
 
-<hunter> disproven na nga yung five senses
-<hunter> tapos disprove pa yung go grow and glow
-<hunter> was anything from elementary school science even true?!? 
+&lt;hunter&gt; disproven na nga yung five senses
+
+&lt;hunter&gt; tapos disprove pa yung go grow and glow
+
+&lt;hunter&gt; was anything from elementary school science even true?!? 
 
 ---
 
 ### 1203
 
-<hunter> dapat every payslip merong random chance of some small bonus money
-<hunter> para exciting magbukas ng payslip
+&lt;hunter&gt; dapat every payslip merong random chance of some small bonus money
+
+&lt;hunter&gt; para exciting magbukas ng payslip
 
 ---
 
 ### 1204
 
-<hunter> i just got an idea for a new series 
-<hunter> tsunderecats
+&lt;hunter&gt; i just got an idea for a new series 
+
+&lt;hunter&gt; tsunderecats
 
 ---
 
 ### 1205
 
-<hunter> i dont think age requires life
+&lt;hunter&gt; i dont think age requires life
 
 ---
 
 ### 1206
 
-<hunter> sabi sayo IP addresses are truth 
+&lt;hunter&gt; sabi sayo IP addresses are truth 
 
 ---
 
 ### 1207
 
-<hunter> how about instead of people buying each other gifts, we each just buy things we want
-<hunter> then everybody is happy! 
+&lt;hunter&gt; how about instead of people buying each other gifts, we each just buy things we want
+
+&lt;hunter&gt; then everybody is happy! 
 
 ---
 
 ### 1208
 
-<hunter> better is better
+&lt;hunter&gt; better is better
 
 ---
 
 ### 1209
 
-<hunter> sana ipalabas yung zoolander sa Tagalog Movie Channel
-<hunter> > mabuti hindi naabutan ng nanay mo na ang anak nya ay naging isang sirena!
-<hunter> > syokoy! SYOKOY! 
+&lt;hunter&gt; sana ipalabas yung zoolander sa Tagalog Movie Channel
+
+&lt;hunter&gt; &gt; mabuti hindi naabutan ng nanay mo na ang anak nya ay naging isang sirena!
+
+&lt;hunter&gt; &gt; syokoy! SYOKOY! 
 
 ---
 
 ### 1210
 
-<hunter> dont buy things just because sale
-<hunter> that way lies madness 
+&lt;hunter&gt; dont buy things just because sale
+
+&lt;hunter&gt; that way lies madness 
 
 ---
 
 ### 1211
 
-<hunter> i am so, bad at using commas
+&lt;hunter&gt; i am so, bad at using commas
 
 ---
 
 ### 1212
 
-<hunter> i dont like 2014
-<hunter> i want 2012 back 
+&lt;hunter&gt; i dont like 2014
+
+&lt;hunter&gt; i want 2012 back 
 
 ---
 
 ### 1213
 
-<hunter> wag na din mrt
-<hunter> di naman mabubusog tao sa mrt 
+&lt;hunter&gt; wag na din mrt
+
+&lt;hunter&gt; di naman mabubusog tao sa mrt 
 
 ---
 
 ### 1214
 
-<hunter> do or do not, there is no pantry
+&lt;hunter&gt; do or do not, there is no pantry
 
 ---
 
 ### 1215
 
-<hunter> experience isnt invincible
+&lt;hunter&gt; experience isnt invincible
 
 ---
 
 ### 1216
 
-<hunter> now i now!
-<hunter> NOW!!! 
-<hunter> nowing is half the battle
+&lt;hunter&gt; now i now!
+
+&lt;hunter&gt; NOW!!! 
+
+&lt;hunter&gt; nowing is half the battle
 
 ---
 
 ### 1217
 
-<hunter> it's always weird when babae yung character
-<hunter> tapos may male romance options
-<hunter> i think i'll do the lesbian one lol 
+&lt;hunter&gt; it's always weird when babae yung character
+
+&lt;hunter&gt; tapos may male romance options
+
+&lt;hunter&gt; i think i'll do the lesbian one lol 
 
 ---
 
 ### 1218
 
-<hunter> we should give up on Makati FOREVER
+&lt;hunter&gt; we should give up on Makati FOREVER
 
 ---
 
 ### 1219
 
-<hunter> the sad thing about the movie rush hour is that it's more than 1 hour
+&lt;hunter&gt; the sad thing about the movie rush hour is that it's more than 1 hour
 
 ---
 
 ### 1220
 
-<hunter> > <in-in> na medyo confusing kasi di namin alam kanino ba magpapaalam ng aling mga bagay <- dun ka magpapaalam sa mukhang papayag sa gusto mo
+&lt;hunter&gt; &gt; &lt;in-in&gt; na medyo confusing kasi di namin alam kanino ba magpapaalam ng aling mga bagay &lt;- dun ka magpapaalam sa mukhang papayag sa gusto mo
 
 ---
 
 ### 1221
 
-<hunter> sa oa, ginhawa ka
+&lt;hunter&gt; sa oa, ginhawa ka
 
 ---
 
@@ -7885,65 +8423,69 @@ debugging is truth
 
 ### 1224
 
-<hunter> kung ako si mar roxas, ang gagawin ko is
-<hunter> when the pope arrives in january, i'll arrange an assassination
-<hunter> tapos i would heroically take the bullet meant for the pope
-<hunter> pero magsusurivive ako 
+&lt;hunter&gt; kung ako si mar roxas, ang gagawin ko is
+
+&lt;hunter&gt; when the pope arrives in january, i'll arrange an assassination
+
+&lt;hunter&gt; tapos i would heroically take the bullet meant for the pope
+
+&lt;hunter&gt; pero magsusurivive ako 
 
 ---
 
 ### 1225
 
-<hunter> kaya ka nga may #2 kasi sawa ka na sa #1 e
+&lt;hunter&gt; kaya ka nga may #2 kasi sawa ka na sa #1 e
 
 ---
 
 ### 1226
 
-<hunter> im always sir-zoned D:
+&lt;hunter&gt; im always sir-zoned D:
 
 ---
 
 ### 1227
 
-<hunter> i dont get stuck in traffic, traffic gets stuck around me
+&lt;hunter&gt; i dont get stuck in traffic, traffic gets stuck around me
 
 ---
 
 ### 1228
 
-<hunter> eating chocs makes me happy and sad at the same time
+&lt;hunter&gt; eating chocs makes me happy and sad at the same time
 
 ---
 
 ### 1229
 
-<hunter> masarap basta libre
-<hunter> hindi libre lahat ng masarap 
+&lt;hunter&gt; masarap basta libre
+
+&lt;hunter&gt; hindi libre lahat ng masarap 
 
 ---
 
 ### 1230
 
-<hunter> if di nyo alam, you'll enver get it
+&lt;hunter&gt; if di nyo alam, you'll enver get it
 
 ---
 
 ### 1231
 
-<hunter> makapangyarihan yung flying saucer, css3 na sya
+&lt;hunter&gt; makapangyarihan yung flying saucer, css3 na sya
 
 ---
 
 ### 1232
 
-<hunter> maybe #tic is in your heart
+&lt;hunter&gt; maybe #tic is in your heart
 
 ---
 
 ### 1233
 
-<hunter> > I'm hunter. To save time, let's just assume I'm always right
+&lt;hunter&gt; &gt; I'm hunter. To save time, let's just assume I'm always right
 
 ---
 
@@ -7955,13 +8497,13 @@ every game matters kahit hindi ka x-2 #mtg
 
 ### 1235
 
-<hunter> damnit the backlog doesnt end
+&lt;hunter&gt; damnit the backlog doesnt end
 
 ---
 
 ### 1236
 
-<hunter> i just couldnt resist the urge to correct people
+&lt;hunter&gt; i just couldnt resist the urge to correct people
 
 ---
 
@@ -7973,147 +8515,155 @@ sa kintuon cloud lang yung kelangan pure
 
 ### 1238
 
-<hunter> > <gadget> dapat dito lang sa office <- make your own question with your own magic pineapple
+&lt;hunter&gt; &gt; &lt;gadget&gt; dapat dito lang sa office &lt;- make your own question with your own magic pineapple
 
 ---
 
 ### 1239
 
-<hunter> papasok ako all the time
+&lt;hunter&gt; papasok ako all the time
 
 ---
 
 ### 1240
 
-<hunter> not everyone wants strippers
+&lt;hunter&gt; not everyone wants strippers
 
 ---
 
 ### 1241
 
-<hunter> if it's not in source control, it doesnt exist!
+&lt;hunter&gt; if it's not in source control, it doesnt exist!
 
 ---
 
 ### 1242
 
-<hunter> the days of reviews are long gone
+&lt;hunter&gt; the days of reviews are long gone
 
 ---
 
 ### 1243
 
-3:29:31 <hunter> lahat ng ailments nacucure ng sleep
+3:29:31 &lt;hunter&gt; lahat ng ailments nacucure ng sleep
 
 ---
 
 ### 1244
 
-<hunter> ang comedy nitong main server
-<hunter> the server is up, but nobody knows where it is 
+&lt;hunter&gt; ang comedy nitong main server
+
+&lt;hunter&gt; the server is up, but nobody knows where it is 
 
 ---
 
 ### 1245
 
-<hunter> pag nasusunog na bahay mo, mag text ka ng TULONG
+&lt;hunter&gt; pag nasusunog na bahay mo, mag text ka ng TULONG
 
 ---
 
 ### 1246
 
 (4:48:13 PM) stang (roy): this is impossible
+
 (4:48:17 PM) stang (roy): kelangan na ng time machine
 
 ---
 
 ### 1247
 
-<hunter> anyway, 9th worst traffic in the world pa lang daw tayo
-<hunter> pwede pa natin galingan 
+&lt;hunter&gt; anyway, 9th worst traffic in the world pa lang daw tayo
+
+&lt;hunter&gt; pwede pa natin galingan 
 
 ---
 
 ### 1248
 
-<hunter> yes, i can be a piggy bank for your math problems. actually, i can be for much money
+&lt;hunter&gt; yes, i can be a piggy bank for your math problems. actually, i can be for much money
 
 ---
 
 ### 1249
 
-<hunter> we have to go to <some place> to get the <jigglypuff> 
+&lt;hunter&gt; we have to go to &lt;some place&gt; to get the &lt;jigglypuff&gt; 
 
 ---
 
 ### 1250
 
-<hunter> > <derp> > * mole any suggestions? <-- dont listen to them <- agreed. be yourself. no one else can
-<hunter> walang ibang lata 
+&lt;hunter&gt; &gt; &lt;derp&gt; &gt; * mole any suggestions? &lt;-- dont listen to them &lt;- agreed. be yourself. no one else can
+
+&lt;hunter&gt; walang ibang lata 
 
 ---
 
 ### 1251
 
-<hunter> quantum is latin, just like gollum
+&lt;hunter&gt; quantum is latin, just like gollum
 
 ---
 
 ### 1252
 
-<hunter> sana pag pumasok ako ng before 7, may -1 late points
+&lt;hunter&gt; sana pag pumasok ako ng before 7, may -1 late points
 
 ---
 
 ### 1253
 
-<hunter> stang is the best!
+&lt;hunter&gt; stang is the best!
 
 ---
 
 ### 1254
 
-<hunter> parang ang sarap ng feeling ng may progress
+&lt;hunter&gt; parang ang sarap ng feeling ng may progress
 
 ---
 
 ### 1255
 
-<hunter> bacon wants you too
+&lt;hunter&gt; bacon wants you too
 
 ---
 
 ### 1256
 
-<hunter> the world looks different with smileys disabled
+&lt;hunter&gt; the world looks different with smileys disabled
 
 ---
 
 ### 1257
 
-<hunter> people dont change
-<hunter> workflow lang ang nagchchange
-<hunter> wut 
+&lt;hunter&gt; people dont change
+
+&lt;hunter&gt; workflow lang ang nagchchange
+
+&lt;hunter&gt; wut 
 
 ---
 
 ### 1258
 
-<hunter> you cant spell lesbian without bi
+&lt;hunter&gt; you cant spell lesbian without bi
 
 ---
 
 ### 1259
 
-<hunter> kelan kaya kayo magsasawa sa #tic
+&lt;hunter&gt; kelan kaya kayo magsasawa sa #tic
 
 ---
 
 ### 1260
 
-<hunter> ang baron lang sa modern day is geisler
-<hunter> well meron pang tagalog
-<hunter> baron tagalog 
+&lt;hunter&gt; ang baron lang sa modern day is geisler
+
+&lt;hunter&gt; well meron pang tagalog
+
+&lt;hunter&gt; baron tagalog 
 
 ---
 
@@ -8125,99 +8675,107 @@ mahirap kasi maging babae
 
 ### 1262
 
-<hunter> japanese people are corrosive
+&lt;hunter&gt; japanese people are corrosive
 
 ---
 
 ### 1263
 
-<hunter> technically, we're all foreign
+&lt;hunter&gt; technically, we're all foreign
 
 ---
 
 ### 1264
 
-<hunter> just because it's possible doesn't mean you should do it
+&lt;hunter&gt; just because it's possible doesn't mean you should do it
 
 ---
 
 ### 1265
 
-<hunter> i was reading this thing about why asians dont have much cheese in their dishes
-<hunter> apparently lactose intolerance is the default state for asians 
+&lt;hunter&gt; i was reading this thing about why asians dont have much cheese in their dishes
+
+&lt;hunter&gt; apparently lactose intolerance is the default state for asians 
 
 ---
 
 ### 1266
 
-<hunter> 99% of java devs won't know what that keyword does
-<hunter> the other 1% will make you cry 
+&lt;hunter&gt; 99% of java devs won't know what that keyword does
+
+&lt;hunter&gt; the other 1% will make you cry 
 
 ---
 
 ### 1267
 
-<hunter> today is (a) friday (b) payday (c) valentines eve (d) the 13th
-<hunter> it's like +4 to traffic! 
+&lt;hunter&gt; today is (a) friday (b) payday (c) valentines eve (d) the 13th
+
+&lt;hunter&gt; it's like +4 to traffic! 
 
 ---
 
 ### 1268
 
-<hunter> august people are the best people
+&lt;hunter&gt; august people are the best people
 
 ---
 
 ### 1269
 
-<hunter> move it to a field
-<hunter> then it's now in that field! 
+&lt;hunter&gt; move it to a field
+
+&lt;hunter&gt; then it's now in that field! 
 
 ---
 
 ### 1270
 
-<hunter> it's like transformers
-<hunter> there's more than meets the eye 
+&lt;hunter&gt; it's like transformers
+
+&lt;hunter&gt; there's more than meets the eye 
 
 ---
 
 ### 1271
 
-<hunter> furfur, you know what the 2 hardest problems in programming are right
-<hunter> 1. cache invalidation 2. naming things 3. off by one errors 
+&lt;hunter&gt; furfur, you know what the 2 hardest problems in programming are right
+
+&lt;hunter&gt; 1. cache invalidation 2. naming things 3. off by one errors 
 
 ---
 
 ### 1272
 
-<hunter> takao is an adjective. example: ang takao ni liz!
+&lt;hunter&gt; takao is an adjective. example: ang takao ni liz!
 
 ---
 
 ### 1273
 
-<hunter> i bet scorpion removes his mask to reveal he's actually skeletor
+&lt;hunter&gt; i bet scorpion removes his mask to reveal he's actually skeletor
 
 ---
 
 ### 1274
 
-<hunter> kaya ko yan gawin, but i dont think you can afford my rates 
+&lt;hunter&gt; kaya ko yan gawin, but i dont think you can afford my rates 
 
 ---
 
 ### 1275
 
-<hunter> it shouldnt be your business what other people want to put in their ass 
-<hunter> damnit, dont #tic that 
+&lt;hunter&gt; it shouldnt be your business what other people want to put in their ass 
+
+&lt;hunter&gt; damnit, dont #tic that 
 
 ---
 
 ### 1276
 
-<hunter> everytime i have to use instanceof, I die a little inside
-<hunter> adding this as source comment lol 
+&lt;hunter&gt; everytime i have to use instanceof, I die a little inside
+
+&lt;hunter&gt; adding this as source comment lol 
 
 ---
 
@@ -8229,45 +8787,47 @@ my java is already effective
 
 ### 1278
 
-<hunter> basta may hit points rpg 
+&lt;hunter&gt; basta may hit points rpg 
 
 ---
 
 ### 1279
 
-<hunter> following on twitter isnt stalking
+&lt;hunter&gt; following on twitter isnt stalking
 
 ---
 
 ### 1280
 
-<hunter> di kami pwede magbuild with reckless abandon
+&lt;hunter&gt; di kami pwede magbuild with reckless abandon
 
 ---
 
 ### 1281
 
-<hunter> i can control the nap
-<hunter> heck, i can control my sleep
+&lt;hunter&gt; i can control the nap
+
+&lt;hunter&gt; heck, i can control my sleep
 
 ---
 
 ### 1282
 
-<hunter> magreresign na ko by 2022
-<hunter> tatakbo akong presidente 
+&lt;hunter&gt; magreresign na ko by 2022
+
+&lt;hunter&gt; tatakbo akong presidente 
 
 ---
 
 ### 1283
 
-<hunter> surrender is not acceptable!
+&lt;hunter&gt; surrender is not acceptable!
 
 ---
 
 ### 1284
 
-<hunter> ang sunod sa city ay utsu
+&lt;hunter&gt; ang sunod sa city ay utsu
 
 ---
 
@@ -8279,723 +8839,774 @@ my java is already effective
 
 ### 1286
 
-<hunter> look at the letters
-<hunter> be one with the letters
-<hunter> let them flow through you 
+&lt;hunter&gt; look at the letters
+
+&lt;hunter&gt; be one with the letters
+
+&lt;hunter&gt; let them flow through you 
 
 ---
 
 ### 1287
 
-<hunter> if it dies then it's dead
+&lt;hunter&gt; if it dies then it's dead
 
 ---
 
 ### 1288
 
-<hunter> nobody really thought you came up with such wisdom on your own
+&lt;hunter&gt; nobody really thought you came up with such wisdom on your own
 
 ---
 
 ### 1289
 
-<hunter> kahit tayo kelangan natin ng user guide
+&lt;hunter&gt; kahit tayo kelangan natin ng user guide
 
 ---
 
 ### 1290
 
-<hunter> it's easy to make any app really fast
-<hunter> just remove functionality
+&lt;hunter&gt; it's easy to make any app really fast
+
+&lt;hunter&gt; just remove functionality
 
 ---
 
 ### 1291
 
-<hunter> true or false: we are very, very bad at code reuse
+&lt;hunter&gt; true or false: we are very, very bad at code reuse
 
 ---
 
 ### 1292
 
-<hunter> pressing the buttons faster wont make me move faster
+&lt;hunter&gt; pressing the buttons faster wont make me move faster
 
 ---
 
 ### 1293
 
-<hunter> bakit parating bahasa indonesia
+&lt;hunter&gt; bakit parating bahasa indonesia
 
 ---
 
 ### 1294
 
-<hunter> i'll just wave my hand and say ako bahala
-<hunter> lol
-<hunter> tama na to, baka magkatotoo 
+&lt;hunter&gt; i'll just wave my hand and say ako bahala
+
+&lt;hunter&gt; lol
+
+&lt;hunter&gt; tama na to, baka magkatotoo 
 
 ---
 
 ### 1295
 
-<hunter> dont listen to x
-<hunter> she's cute, but she's wrong 
+&lt;hunter&gt; dont listen to x
+
+&lt;hunter&gt; she's cute, but she's wrong 
 
 ---
 
 ### 1296
 
-<hunter> someone is lying and it's not me
+&lt;hunter&gt; someone is lying and it's not me
 
 ---
 
 ### 1297
 
-<hunter> introduce bugs, then go on vacation
+&lt;hunter&gt; introduce bugs, then go on vacation
 
 ---
 
 ### 1298
 
-<hunter> idk how people can live with 100% full desktops
+&lt;hunter&gt; idk how people can live with 100% full desktops
 
 ---
 
 ### 1299
 
-<hunter> you're all broken
+&lt;hunter&gt; you're all broken
 
 ---
 
 ### 1300
 
-<hunter> iniindex ko ung internet every night
+&lt;hunter&gt; iniindex ko ung internet every night
 
 ---
 
 ### 1301
 
-<hunter> our devs are not taught to use mock objects
+&lt;hunter&gt; our devs are not taught to use mock objects
 
 ---
 
 ### 1302
 
-<hunter> pag kulang ako ng tulog inaantok ako sa work
-<hunter> pag andami kong tulog inaantok pa din ako 
+&lt;hunter&gt; pag kulang ako ng tulog inaantok ako sa work
+
+&lt;hunter&gt; pag andami kong tulog inaantok pa din ako 
 
 ---
 
 ### 1303
 
-<hunter> only firefox has a dinosaur
+&lt;hunter&gt; only firefox has a dinosaur
 
 ---
 
 ### 1304
 
-<hunter> I should put my jabber status space for rent
+&lt;hunter&gt; I should put my jabber status space for rent
 
 ---
 
 ### 1305
 
-<hunter> what happens if nde ako pumirma
-<hunter> i dont think they can afford to fire me
-<hunter> lol 
+&lt;hunter&gt; what happens if nde ako pumirma
+
+&lt;hunter&gt; i dont think they can afford to fire me
+
+&lt;hunter&gt; lol 
 
 ---
 
 ### 1306
 
-<hunter> why can't you hear the pterodactly go to the CR?
-<hunter> ans: silent P
+&lt;hunter&gt; why can't you hear the pterodactly go to the CR?
+
+&lt;hunter&gt; ans: silent P
 
 ---
 
 ### 1307
 
-<hunter> introducing it in one place leads to introducing it everywhere
+&lt;hunter&gt; introducing it in one place leads to introducing it everywhere
 
 ---
 
 ### 1308
 
-<hunter> all of my quotes make sense!
+&lt;hunter&gt; all of my quotes make sense!
 
 ---
 
 ### 1309
 
-<hunter> i dont like mixing bananas with other stuffs
+&lt;hunter&gt; i dont like mixing bananas with other stuffs
 
 ---
 
 ### 1310
 
-<hunter> basta pogi naaalala mo
+&lt;hunter&gt; basta pogi naaalala mo
 
 ---
 
 ### 1311
 
-<hunter> the purpose of friendship is to have someone to help you hide the bodies
+&lt;hunter&gt; the purpose of friendship is to have someone to help you hide the bodies
 
 ---
 
 ### 1312
 
-<hunter> I AM THE ONE WHO APPROVES
+&lt;hunter&gt; I AM THE ONE WHO APPROVES
 
 ---
 
 ### 1313
 
-<hunter> para tipid sa effort, next time maniwala ka na lang agad sakin
+&lt;hunter&gt; para tipid sa effort, next time maniwala ka na lang agad sakin
 
 ---
 
 ### 1314
 
-<hunter> i'm sure i'll see the boobs first
+&lt;hunter&gt; i'm sure i'll see the boobs first
 
 ---
 
 ### 1315
 
-<hunter> this is [project], everything is high prio
+&lt;hunter&gt; this is [project], everything is high prio
 
 ---
 
 ### 1316
 
-<hunter> if you know something, ikaw na yung expert
+&lt;hunter&gt; if you know something, ikaw na yung expert
 
 ---
 
 ### 1317
 
-<hunter> i default to assuming everyone is panganay
+&lt;hunter&gt; i default to assuming everyone is panganay
 
 ---
 
 ### 1318
 
-<hunter> majority of people are panganays
+&lt;hunter&gt; majority of people are panganays
 
 ---
 
 ### 1319
 
-<hunter> tanga
+&lt;hunter&gt; tanga
 
 ---
 
 ### 1320
 
-<hunter> maybe man was never meant to work 5 days out of 7
+&lt;hunter&gt; maybe man was never meant to work 5 days out of 7
 
 ---
 
 ### 1321
 
-<hunter> what if someday maubusan kayo ng quotes ko
-<hunter> where will you get your wisdom then 
+&lt;hunter&gt; what if someday maubusan kayo ng quotes ko
+
+&lt;hunter&gt; where will you get your wisdom then 
 
 ---
 
 ### 1322
 
-<hunter> full builds can be made of bandaids too
+&lt;hunter&gt; full builds can be made of bandaids too
 
 ---
 
 ### 1323
 
-<hunter> > Minion! Tell the Philippine Minions I require their attention
+&lt;hunter&gt; &gt; Minion! Tell the Philippine Minions I require their attention
 
 ---
 
 ### 1324
 
-<hunter> i'm not a negotiating kind of person
-<hunter> i'm like yes or no
-<hunter> lol 
+&lt;hunter&gt; i'm not a negotiating kind of person
+
+&lt;hunter&gt; i'm like yes or no
+
+&lt;hunter&gt; lol 
 
 ---
 
 ### 1325
 
-<hunter> sana mondays din na-p-postpone
+&lt;hunter&gt; sana mondays din na-p-postpone
 
 ---
 
 ### 1326
 
-<hunter> if only we had a devs who could do winona things
-<hunter> that's right, a devs 
+&lt;hunter&gt; if only we had a devs who could do winona things
+
+&lt;hunter&gt; that's right, a devs 
 
 ---
 
 ### 1327
 
-<hunter> professional ba tayo? :p
+&lt;hunter&gt; professional ba tayo? :p
 
 ---
 
 ### 1328
 
-<hunter> I regretted it after I typed it
-<hunter> but I pressed enter anyway
-<hunter> para hindi lang ako may regret
+&lt;hunter&gt; I regretted it after I typed it
+
+&lt;hunter&gt; but I pressed enter anyway
+
+&lt;hunter&gt; para hindi lang ako may regret
 
 ---
 
 ### 1329
 
-<hunter> happiness is a warm empanada
+&lt;hunter&gt; happiness is a warm empanada
 
 ---
 
 ### 1330
 
-<hunter> i count complaining about things as work
+&lt;hunter&gt; i count complaining about things as work
 
 ---
 
 ### 1331
 
-<hunter> basta may naisip kang pun, responsibilidad mo sa mundo na sabihin yun
-<hunter> regardless of how bad it may be 
+&lt;hunter&gt; basta may naisip kang pun, responsibilidad mo sa mundo na sabihin yun
+
+&lt;hunter&gt; regardless of how bad it may be 
 
 ---
 
 ### 1332
 
-<hunter> I'm the public and I didn't demand!
+&lt;hunter&gt; I'm the public and I didn't demand!
 
 ---
 
 ### 1333
 
-<hunter> changes only carry over from old version to new
-<hunter> they cant go back in time 
+&lt;hunter&gt; changes only carry over from old version to new
+
+&lt;hunter&gt; they cant go back in time 
 
 ---
 
 ### 1334
 
-<chry> "nothing vindicates quite like victory" - tang, 2010
+&lt;chry&gt; &quot;nothing vindicates quite like victory&quot; - tang, 2010
 
 ---
 
 ### 1335
 
-<hunter> the trick is to care without caring
+&lt;hunter&gt; the trick is to care without caring
 
 ---
 
 ### 1336
 
-<hunter> the spirit of the bayonet is to kill and kill relentlessly and without mercy!
+&lt;hunter&gt; the spirit of the bayonet is to kill and kill relentlessly and without mercy!
 
 ---
 
 ### 1337
 
-<hunter> my favorite function name that I put in an actual program was something like preventTimeTravel()
+&lt;hunter&gt; my favorite function name that I put in an actual program was something like preventTimeTravel()
 
 ---
 
 ### 1338
 
-<hunter> future hunter isnt a whiny bitch and he accepts the consequences of his actions
+&lt;hunter&gt; future hunter isnt a whiny bitch and he accepts the consequences of his actions
 
 ---
 
 ### 1339
 
-<hunter> fair naman ako mole, tinitry ko durugin everybody
+&lt;hunter&gt; fair naman ako mole, tinitry ko durugin everybody
 
 ---
 
 ### 1340
 
-<hunter> I'm not a fan of radio
-<hunter> nde pwede magskip to the next track
+&lt;hunter&gt; I'm not a fan of radio
+
+&lt;hunter&gt; nde pwede magskip to the next track
 
 ---
 
 ### 1341
 
-<hunter> you should be apathetic towards being a social recluse too
+&lt;hunter&gt; you should be apathetic towards being a social recluse too
 
 ---
 
 ### 1342
 
-<hunter> the word joke can be used as an insult
-<hunter> i.e. "you're a joke"
+&lt;hunter&gt; the word joke can be used as an insult
+
+&lt;hunter&gt; i.e. &quot;you're a joke&quot;
 
 ---
 
 ### 1343
 
-<hunter> I don't want to solve all the problems
-<hunter> I want to solve the stupid ones
-<hunter> so we can move on to more interesting ones
-<hunter> I want the world to be a better place, is that so bad? :p
+&lt;hunter&gt; I don't want to solve all the problems
+
+&lt;hunter&gt; I want to solve the stupid ones
+
+&lt;hunter&gt; so we can move on to more interesting ones
+
+&lt;hunter&gt; I want the world to be a better place, is that so bad? :p
 
 ---
 
 ### 1344
 
-<hunter> yeah, but no one would complain before when everything was free
-<hunter> when things cost money, the dynamic changes
-<hunter> people expect things to work 
+&lt;hunter&gt; yeah, but no one would complain before when everything was free
+
+&lt;hunter&gt; when things cost money, the dynamic changes
+
+&lt;hunter&gt; people expect things to work 
 
 ---
 
 ### 1345
 
-<hunter> my AWESOME was better than your AWESOME
+&lt;hunter&gt; my AWESOME was better than your AWESOME
 
 ---
 
 ### 1346
 
-<hunter> what if we hire a guy for the sole purpose of blaming things on him
+&lt;hunter&gt; what if we hire a guy for the sole purpose of blaming things on him
 
 ---
 
 ### 1347
 
-<hunter> remember: she sells seashells at the sosyal na shoe sale sa may seashore
+&lt;hunter&gt; remember: she sells seashells at the sosyal na shoe sale sa may seashore
 
 ---
 
 ### 1348
 
-<hunter> and if you don't live, you die!
+&lt;hunter&gt; and if you don't live, you die!
 
 ---
 
 ### 1349
 
-<hunter> if it's a real sport, expect them to play to win, not to entertain
+&lt;hunter&gt; if it's a real sport, expect them to play to win, not to entertain
 
 ---
 
 ### 1350
 
-<hunter> you're lost without me
+&lt;hunter&gt; you're lost without me
 
 ---
 
 ### 1351
 
-<hunter> no one really knows what's going on
-<hunter> we just do what we can to get by
+&lt;hunter&gt; no one really knows what's going on
+
+&lt;hunter&gt; we just do what we can to get by
 
 ---
 
 ### 1352
 
-<hunter> it's like arguing that dogs are reptiles because you dont see eye to eye with biologists
+&lt;hunter&gt; it's like arguing that dogs are reptiles because you dont see eye to eye with biologists
 
 ---
 
 ### 1353
 
-<hunter> edi ireject mo furfur
-<hunter> or iaccept mo
-<hunter> we cant change the past! 
+&lt;hunter&gt; edi ireject mo furfur
+
+&lt;hunter&gt; or iaccept mo
+
+&lt;hunter&gt; we cant change the past! 
 
 ---
 
 ### 1354
 
-<hunter> > why am i so wise
+&lt;hunter&gt; &gt; why am i so wise
 
 ---
 
 ### 1355
 
-<hunter> masipag ako fool
+&lt;hunter&gt; masipag ako fool
 
 ---
 
 ### 1356
 
-<hunter> maybe [framework] is a microcosm of our everyday lives
+&lt;hunter&gt; maybe [framework] is a microcosm of our everyday lives
 
 ---
 
 ### 1357
 
-<hunter> the highest level should be "no longer needs cmmi"
+&lt;hunter&gt; the highest level should be &quot;no longer needs cmmi&quot;
 
 ---
 
 ### 1358
 
-<hunter> when I establish a country, my currency would be small strips of meat
+&lt;hunter&gt; when I establish a country, my currency would be small strips of meat
 
 ---
 
 ### 1359
 
-2:55:54 <hunter> someday you have to leave the nest
+2:55:54 &lt;hunter&gt; someday you have to leave the nest
 
 ---
 
 ### 1360
 
-<hunter> what if someday is today :p
+&lt;hunter&gt; what if someday is today :p
 
 ---
 
 ### 1361
 
-<hunter> bots can't be kind!
+&lt;hunter&gt; bots can't be kind!
 
 ---
 
 ### 1362
 
-<hunter> dun ka magsusuggest sa papayag sa yo
+&lt;hunter&gt; dun ka magsusuggest sa papayag sa yo
 
 ---
 
 ### 1363
 
-<hunter> only visible problems get fixed
+&lt;hunter&gt; only visible problems get fixed
 
 ---
 
 ### 1364
 
-<hunter> if I evacuate a sinking ship I don't expect to come back
+&lt;hunter&gt; if I evacuate a sinking ship I don't expect to come back
 
 ---
 
 ### 1365
 
-<hunter> dapat ung CAPTCHA ung ipapanood ung Land Before Time tapos tignan kung iiyak
+&lt;hunter&gt; dapat ung CAPTCHA ung ipapanood ung Land Before Time tapos tignan kung iiyak
 
 ---
 
 ### 1366
 
-<hunter> just put bacon and cats
-<hunter> then post on reddit 
+&lt;hunter&gt; just put bacon and cats
+
+&lt;hunter&gt; then post on reddit 
 
 ---
 
 ### 1367
 
-<hunter> people who dream are weak!
+&lt;hunter&gt; people who dream are weak!
 
 ---
 
 ### 1368
 
-<hunter> the spirit is willing, but the body is dreaming!
+&lt;hunter&gt; the spirit is willing, but the body is dreaming!
 
 ---
 
 ### 1369
 
-<hunter> ah...ung pwede i-improve kahit ano by adding "of justice"? :p
+&lt;hunter&gt; ah...ung pwede i-improve kahit ano by adding &quot;of justice&quot;? :p
 
 ---
 
 ### 1370
 
-<hunter> the penalty for not suiting up should be DEATH
+&lt;hunter&gt; the penalty for not suiting up should be DEATH
 
 ---
 
 ### 1371
 
-<hunter> TheLight Chuck Norris doesn't write code, he stares at the IDE and the code writes itself
+&lt;hunter&gt; TheLight Chuck Norris doesn't write code, he stares at the IDE and the code writes itself
 
 ---
 
 ### 1372
 
-<hunter> internet explorer - mabagal at walang katuturan
+&lt;hunter&gt; internet explorer - mabagal at walang katuturan
 
 ---
 
 ### 1373
 
-<huntr> just stick to YAGNI
-<huntr> keep things simple
+&lt;huntr&gt; just stick to YAGNI
+
+&lt;huntr&gt; keep things simple
 
 ---
 
 ### 1374
 
-<huntr> mas mahirap cumontra pag may kakampi
-<huntr> lalo na sa waterfall stage
+&lt;huntr&gt; mas mahirap cumontra pag may kakampi
+
+&lt;huntr&gt; lalo na sa waterfall stage
 
 ---
 
 ### 1375
 
-<huntr> you're not going to get fired for asking questions
+&lt;huntr&gt; you're not going to get fired for asking questions
 
 ---
 
 ### 1376
 
-<huntr> I tend to ascribe problems to incompetence (miscommunication) before malice
+&lt;huntr&gt; I tend to ascribe problems to incompetence (miscommunication) before malice
 
 ---
 
 ### 1377
 
-<huntr> pag harap-harapan mas mabilis magkaintindihan
+&lt;huntr&gt; pag harap-harapan mas mabilis magkaintindihan
 
 ---
 
 ### 1378
 
-<huntr> I don't have to finish a book to know what it's about :p
+&lt;huntr&gt; I don't have to finish a book to know what it's about :p
 
 ---
 
 ### 1379
 
-<huntr> those who pretend to understand are actually just pretentious
+&lt;huntr&gt; those who pretend to understand are actually just pretentious
 
 ---
 
 ### 1380
 
-<hunter> don't ask for help if you don't want it! :p
+&lt;hunter&gt; don't ask for help if you don't want it! :p
 
 ---
 
 ### 1381
 
-<huntr> design philosophy for tables: add fields as you need
+&lt;huntr&gt; design philosophy for tables: add fields as you need
 
 ---
 
 ### 1382
 
-<hunter> I'm willing to be bribed for my vote
-<hunter> just sayin'
+&lt;hunter&gt; I'm willing to be bribed for my vote
+
+&lt;hunter&gt; just sayin'
 
 ---
 
 ### 1383
 
-<hunter> we are all prisoners to our own habits
+&lt;hunter&gt; we are all prisoners to our own habits
 
 ---
 
 ### 1384
 
-<hunter> sure ka na not needed?
-<hunter> then drop them
-<hunter> drop their children
-<hunter> burn down their homes
-<hunter> delete their bos
-<hunter> leave no trace 
+&lt;hunter&gt; sure ka na not needed?
+
+&lt;hunter&gt; then drop them
+
+&lt;hunter&gt; drop their children
+
+&lt;hunter&gt; burn down their homes
+
+&lt;hunter&gt; delete their bos
+
+&lt;hunter&gt; leave no trace 
 
 ---
 
 ### 1385
 
-<hunter> magkakaron ng point where we will resolve a dispute by seeing who can toss a table the farthest
+&lt;hunter&gt; magkakaron ng point where we will resolve a dispute by seeing who can toss a table the farthest
 
 ---
 
 ### 1386
 
-<hunter> accreditations are silly little things to provide reassurance to people who dont know any better
+&lt;hunter&gt; accreditations are silly little things to provide reassurance to people who dont know any better
 
 ---
 
 ### 1387
 
-<hunter> might not be a bad idea na maglasing bago maglasik
+&lt;hunter&gt; might not be a bad idea na maglasing bago maglasik
 
 ---
 
 ### 1388
 
-<hunter> PROTIP: if your joke needs a wikipedia entry to be understood, it's not very good
+&lt;hunter&gt; PROTIP: if your joke needs a wikipedia entry to be understood, it's not very good
 
 ---
 
 ### 1389
 
-<hunter> nagaadapt ung ass ko
-<hunter> it's pretty smart
-<hunter> it's a smartass
+&lt;hunter&gt; nagaadapt ung ass ko
+
+&lt;hunter&gt; it's pretty smart
+
+&lt;hunter&gt; it's a smartass
 
 ---
 
 ### 1390
 
-<hunter> no matter how good you are, youre going to get tired of heroics at some points
-<hunter> *some point
-<hunter> I guess it's called burnout
-<hunter> mahirap talaga maging magaling lol
+&lt;hunter&gt; no matter how good you are, youre going to get tired of heroics at some points
+
+&lt;hunter&gt; *some point
+
+&lt;hunter&gt; I guess it's called burnout
+
+&lt;hunter&gt; mahirap talaga maging magaling lol
 
 ---
 
 ### 1391
 
-<hunter> it's good to hit the ground running when you can
-<hunter> masarap ung feeling ng marami ka nang nagawa before lunch
+&lt;hunter&gt; it's good to hit the ground running when you can
+
+&lt;hunter&gt; masarap ung feeling ng marami ka nang nagawa before lunch
 
 ---
 
 ### 1392
 
-<hunter> pag tinabi muna ng taxi driver ung taxi para umuhi sya or bumili ng something, I'm tempted to steal his taxi
-<hunter> but I don't know how to drive so it passes
+&lt;hunter&gt; pag tinabi muna ng taxi driver ung taxi para umuhi sya or bumili ng something, I'm tempted to steal his taxi
+
+&lt;hunter&gt; but I don't know how to drive so it passes
 
 ---
 
 ### 1393
 
-<hunter> after watching the magician yesterday, naconclude ko na mas madali magstandup comedy kung little kids ang audience mo
+&lt;hunter&gt; after watching the magician yesterday, naconclude ko na mas madali magstandup comedy kung little kids ang audience mo
 
 ---
 
 ### 1394
 
-<hunter> little kids are stupid
-<hunter> kahit anong sabihin mo basta may funny face tatawa sila
+&lt;hunter&gt; little kids are stupid
+
+&lt;hunter&gt; kahit anong sabihin mo basta may funny face tatawa sila
 
 ---
 
 ### 1395
 
-<hunter> ayaw ko sa either gwapo or panget
+&lt;hunter&gt; ayaw ko sa either gwapo or panget
 
 ---
 
 ### 1396
 
-<hunter> mrt trains dont have gender
+&lt;hunter&gt; mrt trains dont have gender
 
 ---
 
 ### 1397
 
   /*
+
    * The new and improved copy workflow function. The old function was not updated
+
    * so as not to break existing functionality. In short, this code has a high chance
+
    * of not working properly. Guess what? Everything in the project is like that!
+
    * That's how things are. Deal with it. Or review and fix this. That would be better.
+
    * I'm looking at you Brian :P
+
    */
 
 ---
@@ -9008,45 +9619,47 @@ be the bridge you want to see in the world
 
 ### 1399
 
-<hunter> some manhours are more exhausting than others
+&lt;hunter&gt; some manhours are more exhausting than others
 
 ---
 
 ### 1400
 
-<hunter> if may saturday work ka, nde ka dress down ng Friday
+&lt;hunter&gt; if may saturday work ka, nde ka dress down ng Friday
 
 ---
 
 ### 1401
 
-<hunter> parang if bibili na rin lang ako ng mac, dapat yung pro na
+&lt;hunter&gt; parang if bibili na rin lang ako ng mac, dapat yung pro na
 
 ---
 
 ### 1402
 
-<hunter> mabilis lang magcleanup ng code
-<hunter> delete all 
+&lt;hunter&gt; mabilis lang magcleanup ng code
+
+&lt;hunter&gt; delete all 
 
 ---
 
 ### 1403
 
-<hunter> just because other people are stupid doesnt mean you should be stupid too 
-<hunter> hold yourself to a higher standard
+&lt;hunter&gt; just because other people are stupid doesnt mean you should be stupid too 
+
+&lt;hunter&gt; hold yourself to a higher standard
 
 ---
 
 ### 1404
 
-<hunter> arent all facts fun
+&lt;hunter&gt; arent all facts fun
 
 ---
 
 ### 1405
 
-<hunter> roy tang is the answer
+&lt;hunter&gt; roy tang is the answer
 
 ---
 
@@ -9064,88 +9677,91 @@ The code won't lie to me. It's honest. It will say exactly what it means.
 
 ### 1408
 
-<hunter> im not good at letting things go
-<hunter> also idk what to let go
-<hunter> i should just become a sith 
+&lt;hunter&gt; im not good at letting things go
+
+&lt;hunter&gt; also idk what to let go
+
+&lt;hunter&gt; i should just become a sith 
 
 ---
 
 ### 1409
 
-<hunter> I AM THE API
+&lt;hunter&gt; I AM THE API
 
 ---
 
 ### 1410
 
-<hunter> pag sinabi nyong nde kaya, wag nyo kayanin :p
+&lt;hunter&gt; pag sinabi nyong nde kaya, wag nyo kayanin :p
 
 ---
 
 ### 1411
 
-<hunter> what if nasa simbahan ka ano, tapos bigla kang sumigaw "lord bakit ambagal ng webapp"
+&lt;hunter&gt; what if nasa simbahan ka ano, tapos bigla kang sumigaw &quot;lord bakit ambagal ng webapp&quot;
 
 ---
 
 ### 1412
 
-<hunter> i should stop working when im not working
+&lt;hunter&gt; i should stop working when im not working
 
 ---
 
 ### 1413
 
-<hunter> 99% of work is done by people who are either underqualified (and hence can make mistakes) or overqualified (and hence can be careless)
+&lt;hunter&gt; 99% of work is done by people who are either underqualified (and hence can make mistakes) or overqualified (and hence can be careless)
 
 ---
 
 ### 1414
 
-<hunter> i can only count my steps, not distance :p
+&lt;hunter&gt; i can only count my steps, not distance :p
 
 ---
 
 ### 1415
 
-<hunter> when everybody else is active, porn
+&lt;hunter&gt; when everybody else is active, porn
 
 ---
 
 ### 1416
 
-<hunter> fire exits are for the fire to exit
+&lt;hunter&gt; fire exits are for the fire to exit
 
 ---
 
 ### 1417
 
-<hunter> you're not going to die from walking through the rain
+&lt;hunter&gt; you're not going to die from walking through the rain
 
 ---
 
 ### 1418
 
-<hunter> dreamer wag ka mag emo songs pag monday ng umaga
-<hunter> dapat eye of the tiger lang
+&lt;hunter&gt; dreamer wag ka mag emo songs pag monday ng umaga
+
+&lt;hunter&gt; dapat eye of the tiger lang
 
 ---
 
 ### 1419
 
-<hunter> dapat magpakasal ka lang for you
+&lt;hunter&gt; dapat magpakasal ka lang for you
 
 ---
 
 ### 1420
 
-<hunter> yung mga naglilike pero nde nagshshare i guess it means they DONT think its a good idea
+&lt;hunter&gt; yung mga naglilike pero nde nagshshare i guess it means they DONT think its a good idea
 
 ---
 
 ### 1421
 
-<hunter> lalandiin ko pa din si x kahit kasal na
+&lt;hunter&gt; lalandiin ko pa din si x kahit kasal na
 
 ---
 
