@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/63242379561418753/
+title: ''
 ---
 
-RT [@karlocatapang](https://twitter.com/karlocatapang/): Confeermed!! RT [@ANCALERTS](https://twitter.com/ANCALERTS/) Apple to release iPad 2 in the PHL on April 29 http://bit.ly/dW7f2j
+Confeermed!! RT [@ANCALERTS](https://twitter.com/ANCALERTS/) Apple to release iPad 2 in the PHL on April 29 http://bit.ly/dW7f2j

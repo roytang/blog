@@ -7,6 +7,7 @@ syndicated:
 tags:
 - reddit
 - flipboard
+title: ''
 ---
 
 RT [@redditflipboard](https://twitter.com/redditflipboard/): 66 photos chronicling the making of THE EMPIRE STRIKES BACK (1980) [r/movies] https://imgur.com/a/HGtG0 #reddit #flipboard
