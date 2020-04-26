@@ -604,6 +604,6 @@ Three more weeks of this. It's not that I mind staying at home. But I miss being
 
 Only went out once this week, for groceries. We tried to buy a bit more than usual, hoping to reduce the number of times we need to go out. We also celebrated a couple of birthdays in the family, through a zoom call, complete with the grandkids blowing on a candle from across the internet.
 
-
+As of tonight, we are at 7579 cases (+285 today, +487 since Friday), 501 deaths (+7 today, +24 since Friday), and 862 (+70 today, +100 since Friday) recoveries. Worldwide, we are nearing 3M cases and have passed 200,000 deaths.
 
 To be continued...
