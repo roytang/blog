@@ -24,9 +24,17 @@ This policy was inspired by a [tweet from Stephanie Hurlburt](https://twitter.co
 
 ## FAQ
 
-- Can I contact you about updating one of your old posts to link back to my site for promotional purposes?
+- Can I contact you about updating one of your old posts to link back to my site for promotional purposes? 
 
 No. I'm generally not interested in such arrangements. Refer to [this post](/2020/01/weird-blog-spam/) for more details.
+
+- Do you publish sponsored content? 
+
+Sure. But the minimum rate is $10,000 per post and I reserve the right to style the sponsored post any way I want.
+
+- Can I write a guest post?
+
+This is a weird question to ask even if I knew you personally. Get your own blog!
 
 - Can I ask you to write a review for a product you might find interesting?
 
