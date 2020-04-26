@@ -592,10 +592,18 @@ As of tonight, we are at 6259 (+172 today, +381 since Friday) cases, 409 (+12 to
 
 ### Friday, April the 24th
 
-This morning, the government officially extended the ECQ in Metro Manila up to May 15th. Not surprising, especially given the rumors and the trends.
+This morning, the government officially extended the ECQ in Metro Manila (and some other areas with high Covid19 incidence) up to May 15th. Not surprising, especially given the rumors and the trends.
 
 A couple of days ago, there was this altercation at a quezon city checkpoint where cops ended up shooting and killing a mentally unstable ex-military person after a short standoff. Supposedly because he made a motion as if to draw something from his bag. The police claim he had a gun, but the witnesses and relatives say otherwise. There's a lot of different videos of the encounter too. The PNP initially cleared the officer in the encounter, but today it was announced that homicide charges would be filed. It's a good step towards accountability, but I'm skeptical it would lead anywhere. But more importantly - cops really need to get over this mentality of preferring the use of lethal force.
 
 As of tonight, we are at 7192 cases (+211 today, +933 since Sunday), 477 deaths (+15 today, +68 since Sunday), and 762 (+40 today, +190 since Sunday) recoveries. It's great that recoveries are still outpacing deaths, but I'm worried about the number of still unresolved active cases. Around two weeks ago, there were a bit 4000 cases, but as of today, we only have around 1200 deaths+recoveries, so there's around 2800 cases that are serious enough to still be unresolved after 2 weeks.
+
+### Sunday, April the 26th
+
+Three more weeks of this. It's not that I mind staying at home. But I miss being able to go out and walk around and eat outside freely, even alone. Also, I could use a haircut.
+
+Only went out once this week, for groceries. We tried to buy a bit more than usual, hoping to reduce the number of times we need to go out. We also celebrated a couple of birthdays in the family, through a zoom call, complete with the grandkids blowing on a candle from across the internet.
+
+
 
 To be continued...
