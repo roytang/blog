@@ -24,9 +24,17 @@ This policy was inspired by a [tweet from Stephanie Hurlburt](https://twitter.co
 
 ## FAQ
 
-- Can I contact you about updating one of your old posts to link back to my site for promotional purposes?
+- Can I contact you about updating one of your old posts to link back to my site for promotional purposes? 
 
 No. I'm generally not interested in such arrangements. Refer to [this post](/2020/01/weird-blog-spam/) for more details.
+
+- Do you publish sponsored content? 
+
+Sure. But the minimum rate is $10,000 per post and I reserve the right to style the sponsored post any way I want.
+
+- Can I write a guest post?
+
+This is a weird question to ask even if I knew you personally. Get your own blog!
 
 - Can I ask you to write a review for a product you might find interesting?
 
@@ -36,7 +44,7 @@ Yes. I am especially willing to write reviews for ebooks, provided it is in an a
 
 For strangers, please contact me via one of the following methods:
 
-- [email: hello@roytang.net](email:hello@roytang.net). I'm not one of those people who lets their inbox gets cluttered, so I will generally see your email within a day or so. If it's of interest, I will probably reply quickly as well. If I don't reply quickly, it's either (a) you ignored the FAQ above; or (b) I'm busy and/or need time to think of a response and will get back to you eventually.
+- [email: hello@roytang.net](email:hello@roytang.net). I'm not one of those people who lets their inbox gets cluttered, so I will generally see your email within a day or so. If it's of interest, I will probably reply quickly as well. Please include somewhere in your subject line the word "PINEAPPLE" in all caps, to indicate that you have read this FAQ. If I don't reply quickly, it's either (a) you ignored the FAQ above; or (b) you did not include the subject keyword and your email was automatically filtered away; or (c) I'm busy and/or need time to think of a response and will get back to you eventually.
 - [Twitter: @roytang](https://twitter.com/roytang/). My DMs are open.
 - [Mastodon: @roytang@mastodon.technology](https://mastodon.technology/@roytang). IDK how Mastodon DMs work, do I need to enable them?
 
