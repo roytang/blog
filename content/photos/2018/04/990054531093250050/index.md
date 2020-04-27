@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/990054531093250050/
 ---
 
-RT [@aestheticsweeb](https://twitter.com/aestheticsweeb/): https://t.co/w9F3qHzKZo
+RT [@aestheticsweeb](https://twitter.com/aestheticsweeb/): 

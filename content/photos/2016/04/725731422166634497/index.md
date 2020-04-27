@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154564560278912  
 ---
 
-This election spawns the most entertaining convos https://t.co/CQSG0mJl7m
+This election spawns the most entertaining convos

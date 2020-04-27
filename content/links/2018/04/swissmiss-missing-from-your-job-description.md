@@ -8,4 +8,7 @@ link:
 slug: swissmiss-missing-from-your-job-description
 source: pocket
 title: swissmiss  | Missing From Your Job Description
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/990256970463698946/
 ---

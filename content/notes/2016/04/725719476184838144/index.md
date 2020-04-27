@@ -11,6 +11,7 @@ syndicated:
 tags:
 - NationalSuperheroDay
 - batfork
+title: ''
 ---
 
-RT [@DocHackenbush](https://twitter.com/DocHackenbush/): #NationalSuperheroDay (original tweet by [@TechnicallyRon](https://twitter.com/TechnicallyRon/)) #batfork https://t.co/jaYU56hC5S
+#NationalSuperheroDay (original tweet by [@TechnicallyRon](https://twitter.com/TechnicallyRon/)) #batfork

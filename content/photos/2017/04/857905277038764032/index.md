@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/857905277038764032/
+title: ''
 ---
 
-... [@duolingo](https://twitter.com/duolingo/) https://t.co/l6Awvpt4Ul
+... [@duolingo](https://twitter.com/duolingo/)
