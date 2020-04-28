@@ -1,6 +1,11 @@
 ---
 date: 2020-04-28
 slug: technical-interview
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104074130524933256
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1254978666859163650/
 tags:
 - software-development
 title: Technical Interview Notes
