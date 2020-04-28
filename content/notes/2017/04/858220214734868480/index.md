@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/858220214734868480/
+title: ''
 ---
 
-RT [@gangbadoy](https://twitter.com/gangbadoy/): I want to produce a "Law &amp; Order: Metro Manila" series. Walang na so-solve na murder.
+I want to produce a "Law &amp; Order: Metro Manila" series. Walang na so-solve na murder.

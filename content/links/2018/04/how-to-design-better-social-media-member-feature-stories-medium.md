@@ -8,4 +8,7 @@ link:
 slug: how-to-design-better-social-media-member-feature-stories-medium
 source: pocket
 title: "How to Design Better Social Media \u2013 Member Feature Stories \u2013 Medium"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/990498819476545536/
 ---

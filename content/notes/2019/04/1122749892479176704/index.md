@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1122749892479176704/
+title: ''
 ---
 
-RT [@CoolComicArt](https://twitter.com/CoolComicArt/): Avengers : Endgame special thanks https://t.co/VTBMr3s8YD
+Avengers : Endgame special thanks
