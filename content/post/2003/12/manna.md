@@ -14,7 +14,5 @@ url: /2003/12/manna/
 ---
 
 ... is a very nicely written, and highly plausible [story][1] 
-  
-.
 
  [1]: http://marshallbrain.com/manna1.htm

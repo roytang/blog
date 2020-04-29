@@ -19,9 +19,7 @@ Last Saturday, I helped an old man cross a very dangerous street! This may seem 
 
 * * *
 
-I'm thinking of getting a domain name and paid webhosting... there's [
-  
-this host that's cheap and local][1]... . The main reason is I want to learn a web-based scripting language, maybe PHP. This is actually a no-brainer, as it's the cheapest of the things I'm thinking of getting... (new TV, new PC, DSL, new cellphone... ), but not yet, maybe by January... 
+I'm thinking of getting a domain name and paid webhosting... there's [this host that's cheap and local][1]... . The main reason is I want to learn a web-based scripting language, maybe PHP. This is actually a no-brainer, as it's the cheapest of the things I'm thinking of getting... (new TV, new PC, DSL, new cellphone... ), but not yet, maybe by January... 
 
 * * *
 
@@ -33,25 +31,25 @@ Star Wars: Knights of the Old Republic PC version out on Wednesday! FFX-2 out to
 
 * * *
 
-_All that is gold does not glitter</p> 
+> All that is gold does not glitter
+> 
+> Not all those who wander are lost
+> 
+> The old that is strong does not wither
+> 
+> Deep roots are not touched by the frost
+> 
+> From the shadows a light shall be woken
+> 
+> From the ashes a fire shall spring
+> 
+> Renewed shall be blade that was broken
+> 
+> The crownless again shall be king
+> 
 
-Not all those who wander are lost
+- Strider, Lord of the Rings
 
-The old that is strong does not wither
-
-Deep roots are not touched by the frost
-
-From the shadows a light shall be woken
-
-From the ashes a fire shall spring
-
-Renewed shall be blade that was broken
-
-The crownless again shall be king
-
-&#8212; Strider, Lord of the Rings
-
-</em>
 
  [1]: http://www.mobilehive.com/
  [2]: http://www.thelemon.net/issues/timeline.php
