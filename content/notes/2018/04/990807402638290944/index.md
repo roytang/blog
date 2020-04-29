@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/990807402638290944/
+title: ''
 ---
 
-RT [@MattNavarra](https://twitter.com/MattNavarra/): WOAH...! Facebook is rolling out its Reddit-style Up / Down votes for comments 
+WOAH...! Facebook is rolling out its Reddit-style Up / Down votes for comments 
 
-h/t [@earleyedition](https://twitter.com/earleyedition/) https://t.co/X2TWoPhK3a
+
+
+h/t [@earleyedition](https://twitter.com/earleyedition/)
