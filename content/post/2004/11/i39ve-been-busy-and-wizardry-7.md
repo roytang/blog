@@ -3,9 +3,11 @@ categories: []
 date: 2004-11-12 13:37:46
 tags:
 - Gaming
-title: I've Been Busyand Wizardry 7
+title: I've Been Busy and Wizardry 7
 type: post
-url: /2004/11/i39ve-been-busy-and-wizardry-7/
+slug: ive-been-busy-and-wizardry-7
+aliases:
+- /2004/11/i39ve-been-busy-and-wizardry-7/
 source: roywantsmeat
 syndicated:
 - type: blogger

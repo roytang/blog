@@ -11,11 +11,7 @@ type: post
 url: /2004/07/on-internet-quizzes/
 ---
 
-I'm not particularly fond of internet quizzes that attempt to plunk you down into a category -- but sometimes they're damn accurate.
-  
-[
-  
-Take this one for example][1]. My results are:
+I'm not particularly fond of internet quizzes that attempt to plunk you down into a category -- but sometimes they're damn accurate. [Take this one for example][1]. My results are:
 
 > You are an SEDF--Sober Emotional Destructive Follower. This makes you an evil genius. You are extremely focused and difficult to distract from your tasks. With luck, you have learned to channel your energies into improving your intellect, rather than destroying the weak and unsuspecting.
 > 
