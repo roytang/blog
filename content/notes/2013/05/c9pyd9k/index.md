@@ -16,6 +16,10 @@ tags:
 
 It's actually right there on the sidebar.
 
-> Do I keep everything if I cancel?\nNo, you keep some things and get the rest back when you renew.
-
-> You lose access to (until renewal):\nFree games (PS3, PS Vita, PSP, PS One, Minis)
+> Do I keep everything if I cancel?
+> 
+> No, you keep some things and get the rest back when you renew.
+> 
+> You lose access to (until renewal):
+> 
+> Free games (PS3, PS Vita, PSP, PS One, Minis)
