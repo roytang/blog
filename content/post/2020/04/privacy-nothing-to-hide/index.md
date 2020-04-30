@@ -1,9 +1,14 @@
 ---
-title: "Privacy and 'Nothing to Hide'"
 date: 2020-04-30
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104085455128889390
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1255703441646600193/
 tags:
 - current events
 - privacy
+title: Privacy and 'Nothing to Hide'
 ---
 
 I was reading this post about [how to respond to the "Nothing to Hide" argument](https://jlelse.blog/thoughts/2020/04/nothing-to-hide/) against the concept of privacy. The [quoted DuckDuckGo blog post](https://spreadprivacy.com/three-reasons-why-the-nothing-to-hide-argument-is-flawed/) lists some pretty good reasons, but I thought I'd expound on some thoughts as well.
