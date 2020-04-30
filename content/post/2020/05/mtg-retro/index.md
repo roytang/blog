@@ -62,6 +62,7 @@ A lot of people will say they prefer playing in paper Magic over online, but I'm
 - having to go places to play, especially annoying given the poor traffic situation in Metro Manila. Most venues are also poorly ventilated and you spend a lot of time in uncomfortable chairs and unable to get food between rounds. Compare that to being able to play in the comforts of home.
 - having to shuffle. For longer tournaments, my being [pasmado](/2008/04/pasmado/) has always been problematic. In the later rounds, my hands to get very sweaty and thus my sleeves start to clump together, and also shuffling starts to become a problem.
 - much more difficult to acquire cards. Especially here in the PH where ordering singles online isn't always viable or economically feasible.
+- having to watch out for cheating.
 - having to talk to people. I'm not as social as other players lol
 
 A more robust and interesting online platform was the introduction of [Magic Arena](/2018/12/mtg-arena/) in 2018. I've been playing it since the closed beta and I much prefer playing on Arena than on MTGO, mainly because on Arena I can get by with being completely free to play, and still be able to play top-tier constructed decks (and occasionally some limited runs as well). Arena still has a lot of limitations - it doesn't have my favorite format Modern for one thing, and it will be a while before older card sets are available there. 
