@@ -9,6 +9,7 @@ syndicated:
 title: Weekend Status Report
 type: post
 url: /2005/05/weekend-status-report/
+dontinlinephotos: true
 ---
 
 I only had three tasks laid out for me this weekend:
@@ -19,11 +20,7 @@ I only had three tasks laid out for me this weekend:
 
 3. Solve this Rubik's UFO puzzles (it is already solved in the picture):
 
-</p> 
-
-![][1]
-
-</a>
+{{< img src="rubik_ufo.jpg" >}}
 
 Of course, instead of actually devising a solution to the puzzle, I merely used my google-fu to find a [website to help me solve it][2].
 
@@ -31,5 +28,4 @@ All three tasks completed! (Mostly)
 
 I also managed to sneak in a good part of Crossroads of Twilight (Book 10 of Wheel of Time, more on that in a later post), and two movies: Shrek 2 and the Incredibles. Yes, I had not seen either movie before. And actually, I didn't see them in whole today either. I saw more than half of Incredibles, I think. And most of Shrek 2. Quick reviews, Shrek 2 was the better movie by far. Rib-tickling. I didn't bother seeing it before because it didn't really give me a feeling of being too good, but I was wrong.
 
- [1]: http://roytang.net/files/rubik_ufo_tn.jpg
  [2]: http://www.geocities.com/jaapsch/puzzles/rubufo.htm

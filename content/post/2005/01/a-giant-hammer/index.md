@@ -9,9 +9,10 @@ syndicated:
 title: A Giant Hammer
 type: post
 url: /2005/01/a-giant-hammer/
+dontinlinephotos: true
 ---
 
-[![giant hammer][1]][2] 
+{{< img src="hammer.jpg" >}}
 
 We have a giant hammer prop at home. Made out of a stick and some cardboard (I think). Naturally, we bash each other with it. There are only four things I think of when I see this hammer:
 
@@ -21,6 +22,3 @@ We have a giant hammer prop at home. Made out of a stick and some cardboard (I t
   4. Thor
 
 That is all.
-
- [1]: http://roytang.net/files/hammer_small.jpg
- [2]: http://roytang.net/files/hammer.jpg

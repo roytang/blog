@@ -13,7 +13,7 @@ url: /2005/03/graduation-day-and-10-years-after/
 
 I was back in Pisay today, to attend my brother's graduation. He's the last of us, three brothers who all went through Pisay. I've never seen the pool up close before today. It doesn't look very deep.
 
-I'm incoherent. It might be because I've been reading the [Sluggy Freelance ][1]archives since I got home.
+I'm incoherent. It might be because I've been reading the [Sluggy Freelance][1] archives since I got home.
 
 The graduation ceremony was mostly boring. I think most are, unless you're one of the graduates. Or one of the graduates' parents. Or one of those CAT guys who stops people with digital cameras from getting too close. Too bad I forgot to charge the digital camera batteries before going, or else we would have actually had more than five pictures.
 
@@ -29,7 +29,7 @@ The PSHS Gymnasium is an unforgiving boiling kettle of intolerable heat, especia
 
 Edit: I'm a moron. I really was incoherent. I forgot I was going to talk about the ten years after part until I saw the title published on the page itself.
 
-Anyway, yeah. Ten years. It's been ten years since I left Pisay to face the cruel world. And where am I now? No earth-shaking accomplishments yet? It's like when we were graduating, things were exciting, we were going out to conquer a brave new world! Maybe [peng ][2]was right, ten years might just be too short to "Stand tall and shake the heavens" [3] At least, I haven't heard of anyone else in the batch stunning the world with their brilliance yet, so I guess I'm not behind, yet.
+Anyway, yeah. Ten years. It's been ten years since I left Pisay to face the cruel world. And where am I now? No earth-shaking accomplishments yet? It's like when we were graduating, things were exciting, we were going out to conquer a brave new world! Maybe [peng][2]was right, ten years might just be too short to "Stand tall and shake the heavens" [3] At least, I haven't heard of anyone else in the batch stunning the world with their brilliance yet, so I guess I'm not behind, yet.
 
 <div>
   [1] first Pisay batch ever. They had a 5-year curriculum then.<br /> [2] Figure it out.<br /> [3] (3 points for getting that reference)

@@ -14,11 +14,11 @@ url: /2005/04/intp/
 > The Thinker
 > 
 > You are analytical and logical -- and on a quest to learn everything you can.
-  
+> 
 > Smart and complex, you always love a new intellectual challenge.
-  
+> 
 > Your biggest pet peeve is people who slow you down with trivial chit chat.
-  
+> 
 > A quiet maverick, you tend to ignore rules and authority whenever you feel like it.
 > 
 > You would make an excellent mathematician, programmer, or professor.

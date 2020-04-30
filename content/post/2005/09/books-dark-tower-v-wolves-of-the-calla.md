@@ -15,11 +15,7 @@ type: post
 url: /2005/09/books-dark-tower-v-wolves-of-the-calla/
 ---
 
-_
-  
-"There will be water if ka wills it." -- Roland of Gilead
-  
-_ 
+_"There will be water if ka wills it." -- Roland of Gilead_ 
 
 I had a Powerbooks gift certificate the other week, and the Powerbooks at Megamall happened to have a sale, so I took a look around. And lo, I was lucky enough to find a copy of the fifth book of Stephen King's epic western fantasy, The Dark Tower. It was a huge book, larger than my copies of the first four, but with the same cover style and by the same publisher, so it was the copy I wanted. I spent less than a hundred pesos on it.
 

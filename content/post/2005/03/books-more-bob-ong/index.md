@@ -15,11 +15,11 @@ type: post
 url: /2005/03/books-more-bob-ong/
 ---
 
-A while back I blogged about [Bob Ong's first book][1]. A short while after, I also picked up his next two books, _Bakit Baliktad Magbasa ng Libro Ang Mga Pilipino? _(Why Do Filipinos Read Backwards?) and _Ang Paboritong Libro ni Hudas _(Judas' Favorite Book).
+A while back I blogged about [Bob Ong's first book][1]. A short while after, I also picked up his next two books, _Bakit Baliktad Magbasa ng Libro Ang Mga Pilipino?_ (Why Do Filipinos Read Backwards?) and _Ang Paboritong Libro ni Hudas_ (Judas' Favorite Book).
 
 "Bakit Baligtad" focuses on the Philippines, its people, its quirks and its problems. "Paboritong Libro" is a lot harder to classify, as it jumps across several topics, with the unifying theme being the chapters named after anagrams of the seven deadly sins. At least I think that's the unifying theme... 
 
-"Paboritong Libro" is also the better of the two books. Or at least the easier read, as "Bakit Baligtad" had a tendency to be a lot more serious and preachy, which might turn off people looking for a light read. Also, "Bakit Baligtad" contains a significant amount of non-original material, from the [apparently-now-defunct Bobong Pinoy website ][2]and from several online forums.
+"Paboritong Libro" is also the better of the two books. Or at least the easier read, as "Bakit Baligtad" had a tendency to be a lot more serious and preachy, which might turn off people looking for a light read. Also, "Bakit Baligtad" contains a significant amount of non-original material, from the [apparently-now-defunct Bobong Pinoy website][2] and from several online forums.
 
 In fact, after reading "Bakit Baligtad", I realized the particular appeal of Bob Ong's books... all of them, including the first one, read like they were written on the internet. Maybe in a blog or something. Each book is like some sort of running commentary on some part of life in general; (the first book was about education, the second about the Philippines; I'm still not sure what the third book was about) That's why it's so hard to pin down, it leaves you with that internet feeling of "hey-when's-the-next-update?"
 

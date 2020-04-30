@@ -20,61 +20,61 @@ I went through it in about thirty minutes, skimming most and picking out only th
 The primary question about this transcript is of course, did Gloria conspire with Garcillano to cheat? Regarding this, we can only focus on those conversations which imply the President speaking directly to the man on the other end of the phone. With this in mind, I present the following excerpts:
 
 > Conversation between man and a woman on 29 09:43 hotel 2004
-  
+> 
 > GMA: Hello... 
-  
+> 
 > Gary: Hello, ma’am, good morning. Ok ma’am, mas mataas ho siya pero mag-compensate po sa
-  
+> 
 > Lanao yan.
-  
+> 
 > GMA: So I will still lead by more than one M., overall?
-  
+> 
 > Gary: More or less, it’s the advantage ma’am. Parang ganun din ang lalabas.
-  
+> 
 > GMA: It cannot be less than one M.?
-  
+> 
 > Gary: Pipilitin ma’am natin yan. Pero as of the other day, 982.
-  
+> 
 > GMA: Kaya nga eh... 
-  
+> 
 > Gary: And then if we can get more in Lanao..
-  
+> 
 > GMA: Hindi pa ba tapos?
-  
+> 
 > Gary: Hindi pa ho, meron pa hong darating na seven municipalities.
-  
+> 
 > GMA: Ah ok, ok.
 
 The damning words in this excerpt come from the man named Gary: "Pipilitin ma'am natin yan." (Liberal translation: We will try to make it happen) It implies that Gary was telling GMA that he would do something to manipulate the results to create a 1 million margin of votes. The observant reader should note that (a) GMA did not ask the man Gary to do anything. However, Gary implied doing something illegal which she should have spoken against; and (b) Any manipulation at this point does not seem aimed at stealing a victory, but rather making the victory appear to be a decisive victory
 
 > Conversation between Gary and an unidentified woman believed to be PGMA on 02 22:29 hotel June
-  
+> 
 > 04.
-  
+> 
 > Gary: Hello, ma’am. Good evening.
-  
+> 
 > GMA: Hello, dun sa Lanao del Sur at Basilan, di raw nagmamatch ang SOV sa COC.
-  
+> 
 > Gary: Ang sinasabi nya, nawawala na naman ho?
-  
+> 
 > GMA: Hindi na nag-match.
-  
+> 
 > Gary: Hindi na nag-mamatch? May posibilidad na hindi magmatch kung hindi nila sinunod yung individual SOV ng mga munisipyo. Pero aywan ko lang ho kung sa atin pabor o hindi. Dun naman sa Basilan at Lanao Sur, ito ho yung ginawa nilang magpataas sa inyo, maayos naman ang paggawa eh.
-  
+> 
 > GMA: So nag-mamatch?
-  
+> 
 > Gary: Oho, sa Basilan, alam nyo naman ang mga military dun eh, hindi masyadong marunong kasi silang gumawa eh. Katulad ho dun sa Sulu, sa General Habatan. Pero hindi naman ho, kinausap ko na yung Chairman ng Board sa Sulu, ang akin, patataguin ko muna ang EO ng Pagundaran na para hindi sila maka-testigo ho. Na-explain na ho yung sa Camarines Norte. Tomorrow we will present official communication dun po sa Senate. Dun ho sa sinasabing wala hong laman yung ballot box. Na-receive
-  
+> 
 > ho nila lahat eh.
-  
+> 
 > GMA: Oo, oo.
-  
+> 
 > Gary: Tumawag ho kayo kanina ma’am?
-  
+> 
 > GMA: Yeah, about that Lanao del Sur at Basilan.
-  
+> 
 > Gary: Iaano ko na lang ho, nagusap na kami ni Abdullah dun sa kwan kanina. About this, iaano ko ho, wag ho kayong masyadong mabahala. Anyway, we will take care of this. Kakausapin ko rin si Atty.
-  
+> 
 > Macalintal.
 
 Again, the damning words come from the man named Gary: "Dun naman sa Basilan at Lanao Sur, ito ho yung ginawa nilang magpataas sa inyo, maayos naman ang paggawa eh." (Literal-and-not-too-gramatically-correct translation: In Basilan and Lanao Sur, the increases they did for you, they were done well.)

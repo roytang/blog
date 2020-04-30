@@ -27,11 +27,11 @@ Mace Windu vs. Palpatine=good fight. Better than Yoda vs. Palpatine. Mace Windu 
 Seriously, what was up with those 3 Jedi Mace Windu brought with him? They had like 1 hit point each. What was he thinking?
 
 > Anakin: Palpatine is a powerful Sith Lord. You'll need my help.
-  
+> 
 > Mace Windu: No way, fool. He's just an old man. These 3 noobs will be enough.
-  
+> 
 > (Palpatine kills the 3 noobs almost instantly)
-  
+> 
 > Mace Windu: Crap.
 
 Anakin's turning to the Dark Side was believable enough, given a bit of suspension of disbelief. We should've known it was Padme that would lead to his fall. Too bad Anakin was so gullible... despite Obi-wan praising him for his wisdom. Women... why do they [lead us to the dark side][1]?

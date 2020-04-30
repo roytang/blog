@@ -16,10 +16,8 @@ So, my brother needed to present 20 java programs for school. He didn't have to 
 
 Anyway, I said, sure. I'll make some, it'll be easy. After all, trivial programs shouldn't take me more than 5 minutes each right? It was true, each one didn't take long. But I spent quite some time thinking about what I would actually code. The usual suspects are there -- Hello World, prime factors, factorial, simple arithmetic, palindromes. It was just harder than I thought making up twenty diverse trivial java programs to write. I'm not a teacher after all :p
 
-Anyway, in case someone in the world finds these examples useful:
+Anyway, in case someone in the world finds these examples useful: [Twenty random java programs][1].
 
-[Twenty random java programs][1] 
-   
-.
+EDIT 2020: Since the above link is no longer accessible, I've just uploaded the twenty programs as a [github repository](https://github.com/roytang/RandomJavaProgs).
 
  [1]: http://www.geocities.com/zroytang/RandomJavaProgs.zip
