@@ -13,12 +13,6 @@ Last Friday, I was still unsure what to play at Regionals this year, having deci
 However, due to card availability issues, I didn't have any [Dauntless Escort][3]s and only 1 [Noble Hierarch][4]. I moved cards around and tried to fit in [Vendillion Clique][5], which would serve as an additional evasive attacker on top of [Shorecrasher Mimic][6] and [Jhessian Infiltrator][7], plus a little extra disruption. The decklist I turned in on Sunday for Regionals:
 
 <div class="decklist_wrap">
-  <!--
-
-<p class='switcher' class="hide"><a href='#' class='hide'>Hide Decklist</a><a href='#' class='show'>Show Decklist</a></p>
-
---></p> 
-  
   <div class="decklist">
     <ul class="decklist_group">
       <li class="header">
@@ -61,7 +55,6 @@ However, due to card availability issues, I didn't have any [Dauntless Escort][3
         1 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
       </li>
     </ul>
-    
     <ul class="decklist_group">
       <li class="header">
         Creatures (26)
@@ -91,7 +84,6 @@ However, due to card availability issues, I didn't have any [Dauntless Escort][3
         4 <a href="http://magiccards.info/autocard.php?card=Rafiq of the Many">Rafiq of the Many</a>
       </li>
     </ul>
-    
     <ul class="decklist_group">
       <li class="header">
         Spells (10)
@@ -109,7 +101,6 @@ However, due to card availability issues, I didn't have any [Dauntless Escort][3
         3 <a href="http://magiccards.info/autocard.php?card=Finest Hour">Finest Hour</a>
       </li>
     </ul>
-    
     <ul class="decklist_group">
       <li class="header">
         Sideboard
@@ -133,7 +124,6 @@ However, due to card availability issues, I didn't have any [Dauntless Escort][3
         2 <a href="http://magiccards.info/autocard.php?card=Oversoul of Dusk">Oversoul of Dusk</a>
       </li>
     </ul>
-    
     <div style="clear:both">
     </div>
   </div>
@@ -182,27 +172,27 @@ Next week: Limited again!
 
  [1]: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/twtw/38
  [2]: http://sales.starcitygames.com//deckdatabase/displaydeck.php?DeckID=28398
- [3]: http://magiccards.info/autocard.php?card=Dauntless Escort
- [4]: http://magiccards.info/autocard.php?card=Noble Hierarch
- [5]: http://magiccards.info/autocard.php?card=Vendillion Clique
- [6]: http://magiccards.info/autocard.php?card=Shorecrasher Mimic
- [7]: http://magiccards.info/autocard.php?card=Jhessian Infiltrator
- [8]: http://magiccards.info/autocard.php?card=Rafiq of the Many
- [9]: http://magiccards.info/autocard.php?card=Finest Hour
- [10]: http://magiccards.info/autocard.php?card=Elspeth, Knight-Errant
+ [3]: http://magiccards.info/autocard.php?card=Dauntless%20Escort
+ [4]: http://magiccards.info/autocard.php?card=Noble%20Hierarch
+ [5]: http://magiccards.info/autocard.php?card=Vendillion%20Clique
+ [6]: http://magiccards.info/autocard.php?card=Shorecrasher%20Mimic
+ [7]: http://magiccards.info/autocard.php?card=Jhessian%20Infiltrator
+ [8]: http://magiccards.info/autocard.php?card=Rafiq%20of%20the%20Many
+ [9]: http://magiccards.info/autocard.php?card=Finest%20Hour
+ [10]: http://magiccards.info/autocard.php?card=Elspeth,%20Knight-Errant
  [11]: http://magiccards.info/autocard.php?card=Negate
- [12]: http://magiccards.info/autocard.php?card=Bant Chamr
+ [12]: http://magiccards.info/autocard.php?card=Bant%20Chamr
  [13]: http://magiccards.info/scans/en/arb/126.jpg
- [14]: http://magiccards.info/autocard.php?card=Lorescale Coatl
+ [14]: http://magiccards.info/autocard.php?card=Lorescale%20Coatl
  [15]: http://spiralmtg.blogspot.com/2009/05/battle-axe-elves-in-regionals-top-four.html
- [16]: http://magiccards.info/autocard.php?card=Wren's Run Vanquishers
- [17]: http://magiccards.info/autocard.php?card=Imperious Perfect
- [18]: http://magiccards.info/autocard.php?card=Bramblewood Paragon
+ [16]: http://magiccards.info/autocard.php?card=Wren's%20Run%20Vanquishers
+ [17]: http://magiccards.info/autocard.php?card=Imperious%20Perfect
+ [18]: http://magiccards.info/autocard.php?card=Bramblewood%20Paragon
  [19]: http://magiccards.info/autocard.php?card=Necrogenesis
- [20]: http://magiccards.info/autocard.php?card=Wren's Run Vanquisher
- [21]: http://magiccards.info/autocard.php?card=Chameleon Colossus
- [22]: http://magiccards.info/autocard.php?card=Nameless Inversion
- [23]: http://magiccards.info/autocard.php?card=Murkfiend Liege
- [24]: http://magiccards.info/autocard.php?card=Oversoul of Dusk
+ [20]: http://magiccards.info/autocard.php?card=Wren's%20Run%20Vanquisher
+ [21]: http://magiccards.info/autocard.php?card=Chameleon%20Colossus
+ [22]: http://magiccards.info/autocard.php?card=Nameless%20Inversion
+ [23]: http://magiccards.info/autocard.php?card=Murkfiend%20Liege
+ [24]: http://magiccards.info/autocard.php?card=Oversoul%20of%20Dusk
  [25]: http://magiccards.info/autocard.php?card=Blightning
- [26]: http://magiccards.info/autocard.php?card=Path to Exile
+ [26]: http://magiccards.info/autocard.php?card=Path%20to%20Exile

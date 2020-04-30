@@ -8,14 +8,7 @@ type: post
 url: /2007/05/future-sight-inaugural-ng-galleria-26-may-2007/
 ---
 
-_
-    
-(edit 24-Dec-2008: Imported decklist from the wiki, removed the dead link below, anchor tag retained for posterity)
-   
-_ 
-
-  
-
+_(edit 24-Dec-2008: Imported decklist from the wiki, removed the dead link below, anchor tag retained for posterity)_ 
 
 <div class="decklist">
   <ul class="decklist_group">

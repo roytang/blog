@@ -78,26 +78,15 @@ losses vs control: 3
    
 win% ratio vs control: 67%
 
-Obviously, I did a lot worse than the previous tournament, as all my percentages dropped. Probably due to the fact that I actually went to work before going to the tournament (which meant I had a lot less sleep... ), I made too many bad plays in the first two losses. There's an
-   
-[
-    
-article today][3] 
-   
-on magicthegathering.com about how you should avoid racing aggro and avoid taking damage as much as possible... I think I basically violated every single principle in that article during those losing matches. Yes, even the lone control matchup -- I didn't kill a Hellkite thinking I would just race it with Korlash, but the Bust on his turn sealed my fate.
+Obviously, I did a lot worse than the previous tournament, as all my percentages dropped. Probably due to the fact that I actually went to work before going to the tournament (which meant I had a lot less sleep... ), I made too many bad plays in the first two losses. There's an [article today][3] on magicthegathering.com about how you should avoid racing aggro and avoid taking damage as much as possible... I think I basically violated every single principle in that article during those losing matches. Yes, even the lone control matchup -- I didn't kill a Hellkite thinking I would just race it with Korlash, but the Bust on his turn sealed my fate.
 
 The GW aggro loss hurt -- I lost the last game because I was at three, he had a Saffi, all I had was a 9/9 Korlash with a Temporal Isolation on it and I didn't notice my opponent had a Vitu-ghazi and I thought I could survive one more turn with one life. If I had just taken out his Saffi with the Demonfire I had in hand instead of waiting to burn him to 0... I would have drawn a House Guard next turn, transmute for Tendrils, swing with Korlash, stack damage and cast Tendrils on Korlash for an 18-point life swing.
 
 The round 6 loss really broke my spirit, I was in such a bad mental state that I played badly in the round 7 zoo matchup. Not that having perfectly tight play would have helped -- he had the zoo god draws both games, I was down to eight before I even had Damnation mana.
 
 Lessons learned:
-   
 
-   
 * Never, ever try to race with damage. I may have bigger beats, but I'm usually behind on life. I should always take out threats until I can stabilize with Tendrils.
-   
-
-   
 * I need to become mentally stronger, so that play mistakes from previous losses don't affect succeeding games.
 
 Seeing as how the local metagame is maybe 60-70% aggro, I'll also probably tweak the deck to make the maindeck stronger against aggro and move some of the control hate to the board.

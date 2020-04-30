@@ -8,6 +8,7 @@ syndicated:
 tags:
 - current events
 - privacy
+- tech life
 title: Privacy and 'Nothing to Hide'
 ---
 
