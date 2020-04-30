@@ -16,9 +16,9 @@ Many parishes in busy Metro Manila hold a "Kumpisalang Bayan" (er... I'd say "Ma
 If I were writing a webcomic, one of the characters would go to confession, and the priest would give him an unreasonable penance, something like "Recite the Our Father ten thousand times", and the guy would go like
 
 > <% for (int i = 0; i < 10000; i++) { %>
-  
+> 
 > Our Father who art in heaven... "
-  
+> 
 > <% } %>
 
 &nbsp;

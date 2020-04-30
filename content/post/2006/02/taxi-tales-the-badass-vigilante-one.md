@@ -17,9 +17,7 @@ He also displayed quite a disdain for drug addicts, as he recounted the time som
 
 Then there was the time a snatcher was running past his cab, and he opened the driver-side door to smash into the guy. Once the perpetrator was on the ground, he proceeded to kick him down and even broke his wrist. (He gave me a small demo by flopping around his hand.) He said he then left the guy to the _barangay tanods_, as a gift.
   
-_
-  
-"Regalo ko na sa inyo yan," _were his words, he said.
+_"Regalo ko na sa inyo yan,"_ were his words, he said.
 
 Then we went into the inevitable litany of how soft we were on crime. Apparently he had worked in Saudi for more than 10 years, and he preferred the Saudi method of eye for an eye; when a thief was caught in Suadi Arabia, his hands were cut off. He pshawed away any talk of human rights, saying that if a person was guilty he should just be killed right away. He professed a hatred of criminals and drug addicts and implied that he enjoys any chance to deliver some beatdown on them.
 

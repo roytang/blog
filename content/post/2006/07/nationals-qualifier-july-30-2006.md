@@ -10,14 +10,7 @@ url: /2006/07/nationals-qualifier-july-30-2006/
 
 I was busy this weekend with Magic: The Gathering. Four of us from the office played at a Nationals Qualifer today at Galleria. I played a custom-built aggro-control blue-white beauty called [Azorius-12][1]. Considering that I threw it together at practically the last minute, I think I did fairly well (but not enough to get the Nationals invite). Large turnout; rumor has it more than a hundred and thirty players participated, and NG quickly ran out of chairs and tables to use.
 
-_
-    
-Edit 24-Dec-2008: Decklist migrated from the wiki, removed dead link above (anchor tag retained for posterity):
-   
-_ 
-
-  
-
+_Edit 24-Dec-2008: Decklist migrated from the wiki, removed dead link above (anchor tag retained for posterity):_ 
 
 <div class="decklist">
   <ul class="decklist_group">
@@ -140,11 +133,7 @@ Deck notes:
    
 * The sideboard is rough, because I threw it together in about ten minutes.
 
-_
-    
-(end Edit)
-   
-_ 
+_(end Edit)_ 
 
 Quick match reports:
 

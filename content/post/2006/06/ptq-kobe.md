@@ -15,24 +15,92 @@ Unfortunately as I realized later, I was so elated by having two shocklands and 
 Must practice more. Unfortunately, the only practice outlet currently is MTGO which is both expensive, and not quite as indicative of the actual environment.
 
 Decklist follows:
- 
-  
 
+{{< cardlist >}}
+[Lands]
+1 Temple Garden 
+1 Blood Crypt 
+1 Simic Growth Chamber 
+1 Izzet Boilerworks 
+1 Selesnya Sanctuary 
+4 Island 
+5 Swamp 
+2 Forest 
+[/Lands]
+[Creatures]
+1 Thoughtpicker Witch 
+1 Plaxmanta 
+1 Mourning Thrull 
+1 Restless Bones 
+1 Azorius Herald 
+1 Simic Ragworm 
+1 Mortipede 
+1 Demon's Jester 
+1 Enemy of the Guildpact 
+1 Ogre Savant 
+1 Ghor-clan Savage 
+1 Streetbreaker Wurm 
+1 Helium Squirter 
+1 Tattered Drake 
+1 Vedalken Dismisser 
+1 Rootkin Ally 
+[/Creatures]
+[Spells]
+1 Boros Signet 
+1 Clinging Darkness 
+1 Repeal 
+1 Gather Courage 
+1 Disembowel 
+1 Vigor Mortis 
+1 Brainspoil 
+1 Pollenbright Wings
+[/Spells]
+[Sideboard]
+1 Boros Garrison 
+1 Duskmantle, House of Shadow 
+1 Glass Golem 
+1 Bloodleter Quill 
+1 Selesnya Signet 
+1 Dimir Signet 
+1 Azorius Signet 
+1 Gruul Signet 
+1 Veteran Armorer 
+1 Nightguard Patrol 
+1 Conclave Equenaut 
+1 Divebomber Griffin 
+1 Auratouched Mage 
+1 Caregiver 
+1 Leave No Trace 
+1 Wojek Siren 
+1 To Arms! 
+1 Sundering Vitae 
+1 Gatherer of Graces 
+1 Goliath Spider 
+1 Simic Initiate 
+1 Terraformer 
+1 Zephyr Spirit 
+1 Drake Familiar 
+1 Eye of the Storm 
+1 Mimeofacture 
+1 Nettling Curse 
+1 Train of Thought 
+1 Scorched Rusalka 
+1 Indentured Oaf 
+1 Psychotic Fury 
+1 Dogpile 
+1 Smash 
+1 Goblin Fire Fiend 
+1 Sparkmage Apprentice 
+1 Sell-Sword Brute 
+1 Fencer's Magemark 
+1 Taste for Mayhem 
+1 Psychic Drain 
+1 Vigean Hydropon 
+1 Vigean Intuition 
+1 Scab-clan Mauler 
+1 Boros Recruit 
+1 Thundersong Trumpeter 
+1 Guardian of Vitu-ghazi 
+[/Sideboard]
+{{< /cardlist >}}
 
-<table style="border: 1px solid black; line-height: 1em" width="100%">
-  <tr>
-    <td valign="top">
-      1<br /> <a href="javascript:autoCard('Temple Garden');"><br /> Temple Garden<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Blood Crypt');"><br /> Blood Crypt<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Simic Growth Chamber');"><br /> Simic Growth Chamber<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Izzet Boilerworks');"><br /> Izzet Boilerworks<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Selesnya Sanctuary');"><br /> Selesnya Sanctuary<br /> </a><br /> 4<br /> <a href="javascript:autoCard('Island');"><br /> Island<br /> </a><br /> 5<br /> <a href="javascript:autoCard('Swamp');"><br /> Swamp<br /> </a><br /> 2<br /> <a href="javascript:autoCard('Forest');"><br /> Forest<br /> </a><br /> 16 Lands</p> 
-      
-      <p>
-        1<br /> <a href="javascript:autoCard('Thoughtpicker Witch');"><br /> Thoughtpicker Witch<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Plaxmanta');"><br /> Plaxmanta<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Mourning Thrull');"><br /> Mourning Thrull<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Restless Bones');"><br /> Restless Bones<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Azorius Herald');"><br /> Azorius Herald<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Simic Ragworm');"><br /> Simic Ragworm<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Mortipede');"><br /> Mortipede<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Demon's Jester');"><br /> Demon's Jester<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Enemy of the Guildpact');"><br /> Enemy of the Guildpact<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Ogre Savant');"><br /> Ogre Savant<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Ghor-clan Savage');"><br /> Ghor-clan Savage<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Streetbreaker Wurm');"><br /> Streetbreaker Wurm<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Helium Squirter');"><br /> Helium Squirter<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Tattered Drake');"><br /> Tattered Drake<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Vedalken Dismisser');"><br /> Vedalken Dismisser<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Rootkin Ally');"><br /> Rootkin Ally<br /> </a><br /> 16 Creatures
-      </p>
-      
-      <p>
-        1<br /> <a href="javascript:autoCard('Boros Signet');"><br /> Boros Signet<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Clinging Darkness');"><br /> Clinging Darkness<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Repeal');"><br /> Repeal<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Gather Courage');"><br /> Gather Courage<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Disembowel');"><br /> Disembowel<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Vigor Mortis');"><br /> Vigor Mortis<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Brainspoil');"><br /> Brainspoil<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Pollenbright Wings');"><br /> Pollenbright Wings<br /> </a><br /> 8 Other Spells </td> 
-        
-        <td valign="top">
-          Sideboard</p> 
-          
-          <p>
-            1<br /> <a href="javascript:autoCard('Boros Garrison');"><br /> Boros Garrison<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Duskmantle, House of Shadow');"><br /> Duskmantle, House of Shadow<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Glass Golem');"><br /> Glass Golem<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Bloodleter Quill');"><br /> Bloodleter Quill<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Selesnya Signet');"><br /> Selesnya Signet<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Dimir Signet');"><br /> Dimir Signet<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Azorius Signet');"><br /> Azorius Signet<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Gruul Signet');"><br /> Gruul Signet<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Veteran Armorer');"><br /> Veteran Armorer<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Nightguard Patrol');"><br /> Nightguard Patrol<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Conclave Equenaut');"><br /> Conclave Equenaut<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Divebomber Griffin');"><br /> Divebomber Griffin<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Auratouched Mage');"><br /> Auratouched Mage<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Caregiver');"><br /> Caregiver<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Leave No Trace');"><br /> Leave No Trace<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Wojek Siren');"><br /> Wojek Siren<br /> </a><br /> 1<br /> <a href="javascript:autoCard('To Arms!');"><br /> To Arms!<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Sundering Vitae');"><br /> Sundering Vitae<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Gatherer of Graces');"><br /> Gatherer of Graces<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Goliath Spider');"><br /> Goliath Spider<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Simic Initiate');"><br /> Simic Initiate<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Terraformer');"><br /> Terraformer<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Zephyr Spirit');"><br /> Zephyr Spirit<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Drake Familiar');"><br /> Drake Familiar<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Eye of the Storm');"><br /> Eye of the Storm<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Mimeofacture');"><br /> Mimeofacture<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Nettling Curse');"><br /> Nettling Curse<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Train of Thought');"><br /> Train of Thought<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Scorched Rusalka');"><br /> Scorched Rusalka<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Indentured Oaf');"><br /> Indentured Oaf<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Psychotic Fury');"><br /> Psychotic Fury<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Dogpile');"><br /> Dogpile<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Smash');"><br /> Smash<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Goblin Fire Fiend');"><br /> Goblin Fire Fiend<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Sparkmage Apprentice');"><br /> Sparkmage Apprentice<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Sell-Sword Brute');"><br /> Sell-Sword Brute<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Fencer's Magemark');"><br /> Fencer's Magemark<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Taste for Mayhem');"><br /> Taste for Mayhem<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Psychic Drain');"><br /> Psychic Drain<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Vigean Hydropon');"><br /> Vigean Hydropon<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Vigean Intuition');"><br /> Vigean Intuition<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Scab-clan Mauler');"><br /> Scab-clan Mauler<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Boros Recruit');"><br /> Boros Recruit<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Thundersong Trumpeter');"><br /> Thundersong Trumpeter<br /> </a><br /> 1<br /> <a href="javascript:autoCard('Guardian of Vitu-ghazi');"><br /> Guardian of Vitu-ghazi<br /> </a> </td> </tr> </table>

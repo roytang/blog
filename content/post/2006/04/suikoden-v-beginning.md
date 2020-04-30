@@ -8,11 +8,7 @@ type: post
 url: /2006/04/suikoden-v-beginning/
 ---
 
-_
-    
-(My previous practice was never to post an entry about a game until I'd finished it. This was a good idea during those days that I had a lot of free time and could finish the average RPG in a week. I haven't been in that state for four years.)
-   
-_ 
+_(My previous practice was never to post an entry about a game until I'd finished it. This was a good idea during those days that I had a lot of free time and could finish the average RPG in a week. I haven't been in that state for four years.)_ 
 
 My brother warned me that according to reviews, the first eight hours or so of Suikoden V were quite draggy. When I thought about it, that should be expected. I've played Suikoden 1-4 of course, and in all those games, a largish part of the beginning involved the setup where your young hero (or heroes as in Suikoden 3) would be thrust in the middle of a conflict that would eventually result in a quest to gather 108 Stars of Destiny.
 

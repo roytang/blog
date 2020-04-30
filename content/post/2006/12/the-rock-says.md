@@ -10,7 +10,7 @@ type: post
 url: /2006/12/the-rock-says/
 ---
 
-I was going through the bookstores at yesterday's sale day at SM North, hoping to find some bargains. I found a copy of [The Rock][1]&#8216;s book, _The Rock Says _going for the bargain basement price of 50 pesos (roughly 1 US dollar). What a steal!
+I was going through the bookstores at yesterday's sale day at SM North, hoping to find some bargains. I found a copy of [The Rock][1]'s book, _The Rock Says_ going for the bargain basement price of 50 pesos (roughly 1 US dollar). What a steal!
 
 In case you've been living under, well, a rock, you're probably aware that The Rock was one of the most popular, most electrifying men in professional wrestling, lovingly termed "sports entertainment." As a wrestling fan, such a book is a real page-turner for me. It details the story of Rock's childhood, his football days in Miami up to his days in the WWE leading up to his historic Wrestlemania XV match with the Rattlesnake, "Stone Cold" Steve Austin. As a fan whose view of the wrestling industry has been limited to what I've seen on television, the book gives a good look into the inner workings of the industry. The history, the way things are, the pitfalls, the demons of the wrestling biz are explored by The Rock's stories, especially his days of growing up to become a third-generation wrestler.
 

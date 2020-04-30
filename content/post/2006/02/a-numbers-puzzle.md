@@ -38,15 +38,7 @@ The only hint provided is:
 
 > It's not something you'll figure out by just thinking about it, but with some creative Googling you can get it.
 
-_
-  
-Via
-  
-[J-Walk][1] 
-  
-(Warning: the link will show you the answer!)
-  
-_ 
+_Via [J-Walk][1] (Warning: the link will show you the answer!)_ 
 
 Edit 2017: The link above is dead, so I've recovered the answer from the Wayback Machine, for my own sanity.
 

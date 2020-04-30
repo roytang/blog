@@ -8,12 +8,12 @@ tags:
 - Pop Culture
 title: God's Debris by Scott Adams
 type: post
-url: /2006/02/god39s-debris-by-scott-adams/
+slug: gods-debris-by-scott-adams
+aliases:
+- /2006/02/god39s-debris-by-scott-adams/
 ---
 
-[
-  
-This ][1]was Scott Adams' first non-Dilbert book. If you're used to reading Adams go on about Induhviduals and stupid managers, or if you've never read Adams trying / pretending to sound philosophical in one of his books, then this isn't what you'd expect.
+[This][1] was Scott Adams' first non-Dilbert book. If you're used to reading Adams go on about Induhviduals and stupid managers, or if you've never read Adams trying / pretending to sound philosophical in one of his books, then this isn't what you'd expect.
 
 Adams describes it as a "thought experiment" of sorts, one where he tries to provide some sort of explanation for basically life, the universe and everything. Although it's a work of fiction, it sounds like Adams is trying to see how people will react to his form of philosophy &#8212; it seems to be one of his favorite things to do something just to provoke reactions. (Yeah, he and I are alike that way.)
 

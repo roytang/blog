@@ -8,15 +8,7 @@ type: post
 url: /2006/08/nintendo-ds-2/
 ---
 
-In the current handheld wars, I've sampled both the PSP and the Nintendo DS, and I have to say, I'm much more impressed with the DS. The PSP seems to be a very serious device, as if you tried to cram a PS2 into a handheld and toss in a media player alongside. The DS on the other hand, is
-   
-_
-    
-just plain fun
-   
-_ 
-   
-.
+In the current handheld wars, I've sampled both the PSP and the Nintendo DS, and I have to say, I'm much more impressed with the DS. The PSP seems to be a very serious device, as if you tried to cram a PS2 into a handheld and toss in a media player alongside. The DS on the other hand, is _just plain fun_.
 
 Since we've been putting in a lot of long hours at work lately, one of our developers had the bright idea to bring his DS to the office. Now, whenever one has idle time, one of the first questions is, "Hey, where's the DS?"
 
