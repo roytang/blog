@@ -25,8 +25,4 @@ I am a man of myth and legend, tales of my exploits abound in the darker areas o
 
 I am nature's greatest miracle. I am the one foretold by legend, whose coming will be the beginning and the end. Prophets and sages speak my name in whispers, beasts of the jungle scatter when I approach, kings and presidents tremble in my presence, yet children come to me and adore me. I will incite war and destruction, and I will unite all nations under my wing. I am anger, I am fear, I am madness. I am light and shadow, I am order and chaos, I am life and death. I am judge, jury and executioner. I am your greatest dream. I am your worst nightmare. I am your finest hour. I am your darkest day. I am the one you seek, the one you wish to be, the one who decides your fate, I am Roy Tang.
 
-_
-  
-(Written more than 3 years ago)
-  
-_
+_(Written more than 3 years ago)_

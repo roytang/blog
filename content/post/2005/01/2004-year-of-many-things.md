@@ -11,25 +11,19 @@ type: post
 url: /2005/01/2004-year-of-many-things/
 ---
 
-> _
-  
-> "So, what's your New Year's resolution?"
-  
+> "So, what's your New Year's resolution?"_
+> 
 > "I resolve to live life on purpose, to take control of my fate, to sieze each day as if it were my last. I will be reckless. I will be daring. I will be strong. I will challenge fate. I will defy the gods. Or I will die trying."
-  
+> 
 > "... Why can't you just quit smoking or go on a diet like ordinary people?"
-  
+> 
 > "It's like you don't know me at all. Life is too short to be ordinary."
-  
->_ 
+> 
+ 
 
 So the year 2004 has come and gone, never to be seen again, unless you look in the archives. This is my looking back/looking forward post, for the transition between 2004 and 2005, no more than eleven days late. (I'm part-Chinese, so I actually get to delay this until Chinese New Year, but I'm cool, so I'll do it early.)
 
-**
-  
-2004 Highlights
-  
-** 
+**2004 Highlights** 
 
 In mostly chronological, but actually no particular, order:
 

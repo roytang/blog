@@ -10,5 +10,17 @@
 {{ else }}
 {{ partial "block/photos" . }}
 {{ end }}
+
+{{ $footnotes := .Scratch.Get "footnotes" }}
+{{ with $footnotes }}
+<p>Footnotes:</p>
+<ul>
+{{ range $index, $footnote := $footnotes }}
+  {{ $actual_index := add $index 1 }}
+  <li><a href="#footnotebase-{{ $actual_index }}" id="footnote-{{ $actual_index }}">[{{ $actual_index }}]</a> {{ $footnote }}</li>
+{{ end }}
+</ul>
+{{ end }}
+
 </div>
 

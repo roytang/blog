@@ -1,0 +1,8 @@
+{{ $footnotes := .Page.Scratch.Get "footnotes" }}
+{{ if $footnotes }}
+    {{ .Page.Scratch.Add "footnotes" .Inner }}
+{{ else }}
+    {{ .Page.Scratch.Add "footnotes" (slice .Inner) }}
+{{ end }}
+{{ $index := len ( .Page.Scratch.Get "footnotes" ) }}
+<a href="#footnote-{{ $index }}" id="footnotebase-{{ $index }}">[{{ $index }}]</a>
