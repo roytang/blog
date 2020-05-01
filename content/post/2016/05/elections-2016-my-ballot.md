@@ -7,6 +7,11 @@ tags:
 title: Elections 2016 -- My Ballot
 type: post
 url: /2016/05/elections-2016-my-ballot/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/727174641886732288/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154573042973912
 ---
 
 This has been one of the most divisive and shenanigan-filled election campaign seasons ever, and politics is normally crazy in this country so that's saying something. There's a strong use of social media this time around, and it's led to the internet being a hotbed of opinions and propaganda and memes and lies and half-truths and threats of violence. I was hoping greater citizen involvement via social media and the debates would mean citizens have more information and thus would get to be more discerning, but it seems that things have only gotten worse. Hopefully we'll get there someday, but it doesn't look like that day is soon.

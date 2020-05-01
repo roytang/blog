@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/727215239310139392/
+title: ''
 ---
 
-RT [@arlobelshee](https://twitter.com/arlobelshee/): The Core 6 Refactorings http://arlobelshee.com/the-core-6-refactorings/
+The Core 6 Refactorings http://arlobelshee.com/the-core-6-refactorings/

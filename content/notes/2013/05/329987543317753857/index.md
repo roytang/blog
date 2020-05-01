@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/329987543317753857/
+title: ''
 ---
 
-RT [@MrAlanCooper](https://twitter.com/MrAlanCooper/): If you want to know how long something will take to build, you have to build it and record your time. Even then you may b…
+If you want to know how long something will take to build, you have to build it and record your time. Even then you may be wrong.

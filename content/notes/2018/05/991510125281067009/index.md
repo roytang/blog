@@ -1,5 +1,5 @@
 ---
-date: 2018-05-02 02:50:09
+date: 2018-05-02 02:50:09+00:00
 repost_source:
   name: crypto
   type: twitter
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/991510125281067009/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156609057108912
+title: ''
 ---
 
-RT [@crypto](https://twitter.com/crypto/): Kraft Heinz’s Oscar Mayer is issuing a limited number of digital tokens called Bacoins that can be exchanged for the company’s…
+Kraft Heinz’s Oscar Mayer is issuing a limited number of digital tokens called Bacoins that can be exchanged for the company’s bacon https://bloom.bg/2Kutl26
