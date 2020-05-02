@@ -8,9 +8,7 @@ type: post
 url: /2007/12/magic-stats-and-year-in-review/
 ---
 
-I believe that this year, I have managed to improve my Magic-playing a bit (despite the abundance of embarassing mistakes).I also believe I'm slightly better at Limited than I am at Constructed. TO back up these beliefs, I could point to my DCI ratings. But as a programmer who loves stats, I compiled additional stats for my own pleasure: [My Playing Stats][1] 
-   
-.
+I believe that this year, I have managed to improve my Magic-playing a bit (despite the abundance of embarassing mistakes).I also believe I'm slightly better at Limited than I am at Constructed. TO back up these beliefs, I could point to my DCI ratings. But as a programmer who loves stats, I compiled additional stats for my own pleasure: [My Playing Stats][1].
 
 A bit of background: I've been playing Magic on and off since Revised, but only gotten into the tournament scene seriously in 2006. I've played in a few Limited tourneys before that, but I guess I took them with a different DCI number as they don't reflect on my ratings history. In particular I remember placing 2nd at a Team Sealed event at BCI Makati back during the Invasion block era. And I'm pretty sure I went 4-0 at an Onslaught prerelease, as I have the shirt to prove it.
 

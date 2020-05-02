@@ -12,107 +12,45 @@ Unfortunately, I didn't make it to the AM flights yesterdat, so I hung around Ga
 
 My flight manages to start around 4 PM, and I open the sealed pool I'm registering. The first two rares I see are Jace Beleren and Chandra Nalar! Holy crap! It means of course, that I have to pass this pool. (That always happens when I get really good bombs) Anyway, I get a decent pool as well, with Austere Command (Wrath of God!), a foil Cryptic Command (not that I'd play it), and lots of removal. I ended up with the following WRb deck:
 
-1 Goldmeadow Harrier
-   
+{{< cardlist >}}
 
-   
-1 Cenn's Heir
-   
-
-   
-1 Avian Changeling
-   
-
-   
-1 Knight of Meadowgrain
-   
-
-   
-1 Springjack Knight
-   
-
-   
-1 Kithkin Harbinger
-   
-
-   
-1 Kinsbaile Balloonist
-   
-
-   
-2 Plover Knights
-   
-
-   
-1 Shriekmaw
-   
-
-   
-1 Fire-Belly Changeling
-   
-
-   
-1 Thundercloud Shaman
-   
-
-   
-1 Hearthcage Giant
-
-1 Tarfire
-   
-
-   
-1 Nameless Inversion
-   
-
-   
-1 Eyeblight's Ending
-   
-
-   
-1 Surge of Thoughtweft
-   
-
-   
-1 Neck Snap
-   
-
-   
-1 Austere Command
-   
-
-   
-1 Wanderer's Twig
-   
-
-   
-1 Runed Stalactite
-   
-
-   
-1 Moonglove Extract
-   
-
-   
-1 Giant's Ire
-
-1 Ancient Ampitheatre
-   
-
-   
+[Land]
 1 Vivid Marsh
-   
-
-   
 8 Plains
-   
-
-   
 6 Mountains
-   
-
-   
 1 Swamp
+[/Land]
+
+[Creatures]
+1 Goldmeadow Harrier
+1 Cenn’s Heir
+1 Avian Changeling
+1 Knight of Meadowgrain
+1 Springjack Knight
+1 Kithkin Harbinger
+1 Kinsbaile Balloonist
+2 Plover Knights
+1 Shriekmaw
+1 Fire-Belly Changeling
+1 Thundercloud Shaman
+1 Hearthcage Giant
+[/Creatures]
+
+[Spells]
+1 Tarfire
+1 Nameless Inversion
+1 Eyeblight’s Ending
+1 Surge of Thoughtweft
+1 Neck Snap
+1 Austere Command
+1 Wanderer’s Twig
+1 Runed Stalactite
+1 Moonglove Extract
+1 Giant’s Ire
+1 Ancient Ampitheatre
+[/Spells]
+
+{{< /cardlist >}}
 
 I went 3-1 with this sealed deck, a bit disappointed too coz I thought the pool was really good (I had a Wrath! Well, the Thundercloud Shaman also acted like a one-sided Wrath at one point) I lost to a blue black deck where I just kept getting dead land draws. One turn from losing to two black creatures with me having only one non-black blocker, I said, "I have so much removal in this deck, surely I will draw one now." And I did, I got Shriekmaw. :/ I'm always disappointed when I get my loss in a Pre-release, I haven't won a pre-release shirt since Time Spiral!
 

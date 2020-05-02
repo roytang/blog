@@ -8,13 +8,7 @@ type: post
 url: /2007/12/standard-ng-galleria-24-nov-2007/
 ---
 
-Yeah, I post these late, I'm a busy man. But I want to have a record so here we go. Same deck as
-   
-[
-    
-the last time][1] 
-   
-, except I removed the 2 grim harvests from the board and put in +2 sudden death (to improve the pickles matchup)
+Yeah, I post these late, I'm a busy man. But I want to have a record so here we go. Same deck as [the last time][1] , except I removed the 2 grim harvests from the board and put in +2 sudden death (to improve the pickles matchup)
 
 Round 1: My opponent had a BUw Mannequin deck, splashing for O-Ring and Blink. He obviously put the deck together at the last minute though.
 

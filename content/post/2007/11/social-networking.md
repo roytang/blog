@@ -9,9 +9,7 @@ type: post
 url: /2007/11/social-networking/
 ---
 
-_
-  
-"Robert suggested we create Facebook accounts, I think in an effort to establish that we were "down" with whatever "new jives" the kids were flexing on the mean streets. I refused. Gabriel buckled, and the bullshit that ensued verified my initial assessment: that maintaining Facebook would quickly constitute another job. Of which I already have several."_
+_"Robert suggested we create Facebook accounts, I think in an effort to establish that we were "down" with whatever "new jives" the kids were flexing on the mean streets. I refused. Gabriel buckled, and the bullshit that ensued verified my initial assessment: that maintaining Facebook would quickly constitute another job. Of which I already have several."_
 
 &#8212; Tycho, Penny-Arcade
 

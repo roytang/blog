@@ -13,396 +13,127 @@ The last qualifier in the Philippines, held last December 16. I wasn't able to a
 I opened a pool with a lot of removal:
  
   
+{{< cardlist >}}
 
+[White]
+1 Hillcomber Giant 
+1 Judge of Currents 
+1 Kinsbaile Balloonist 
+1 Kinsbaile Skirmisher 
+1 Kithkin Greatheart 
+1 Kithkin Harbinger 
+2 Kithkin Healer 
+1 Lairwatch Giant 1 Sentry Oak 
+2 Springjack Knight 
+[/White]
 
-<table>
-  <tr>
-    <td>
-      1 Herbal Poultice
-    </td>
-    
-    <td>
-      1 Briarhorn
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Moonglove Extract
-    </td>
-    
-    <td>
-      1 Fertile Ground
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Bog Hoodlums
-    </td>
-    
-    <td>
-      1 Immaculate Magistrate
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Boggart Loggers
-    </td>
-    
-    <td>
-      1 Kithkin Daggerdare
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Colfenor's Plans
-    </td>
-    
-    <td>
-      2 Lace with Moonglove
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Dread
-    </td>
-    
-    <td>
-      2 Lignify
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Exiled Boggart
-    </td>
-    
-    <td>
-      2 Sylvan Echoes
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Fodder Launch
-    </td>
-    
-    <td>
-      1 Timber Protector
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      2 Footbottom Feast
-    </td>
-    
-    <td>
-      1 Warren-Scourge Elf
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Hornet Harasser
-    </td>
-    
-    <td>
-      1 Woodland Changeling
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Hunter of Eyeblights
-    </td>
-    
-    <td>
-      1 Island
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Marsh Flitter
-    </td>
-    
-    <td>
-      1 Shelldock Isle
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Prowess of the Fair
-    </td>
-    
-    <td>
-      1 Vivid Marsh
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Scarred Vinebreeder
-    </td>
-    
-    <td>
-      1 Adder-Staff Boggart
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Skeletal Changeling
-    </td>
-    
-    <td>
-      2 Axegrinder Giant
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Spiderwig Boggart
-    </td>
-    
-    <td>
-      1 Blind-Spot Giant
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Thieving Sprite
-    </td>
-    
-    <td>
-      1 Faultgrinder
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      2 Weed Strangle
-    </td>
-    
-    <td>
-      1 Fire-Belly Changeling
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Amoeboid Changeling
-    </td>
-    
-    <td>
-      2 Lash Out
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Aquitect's Will
-    </td>
-    
-    <td>
-      1 Lowland Oaf
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      2 Deeptread Merrow
-    </td>
-    
-    <td>
-      1 Rebellion of the Flamekin
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Drowner of Secrets
-    </td>
-    
-    <td>
-      2 Tar Pitcher
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Faerie Trickery
-    </td>
-    
-    <td>
-      1 Hillcomber Giant
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Familiar's Ruse
-    </td>
-    
-    <td>
-      1 Judge of Currents
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Merrow Reejerey
-    </td>
-    
-    <td>
-      1 Kinsbaile Balloonist
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Mulldrifter
-    </td>
-    
-    <td>
-      1 Kinsbaile Skirmisher
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      2 Ponder
-    </td>
-    
-    <td>
-      1 Kithkin Greatheart
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Protective Bubble
-    </td>
-    
-    <td>
-      1 Kithkin Harbinger
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Ringskipper
-    </td>
-    
-    <td>
-      2 Kithkin Healer
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Whirlpool Whelm
-    </td>
-    
-    <td>
-      1 Lairwatch Giant
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1 Sentry Oak
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      2 Springjack Knight
-    </td>
-  </tr>
-</table>
+[Blue]
+1 Amoeboid Changeling 
+1 Aquitect's Will 
+2 Deeptread Merrow 
+1 Drowner of Secrets 
+1 Faerie Trickery 
+1 Familiar's Ruse 
+1 Merrow Reejerey 
+1 Mulldrifter 
+2 Ponder 
+1 Protective Bubble 
+1 Ringskipper 
+1 Whirlpool Whelm 
+[/Blue]
+
+[Black]
+1 Bog Hoodlums 
+1 Boggart Loggers 
+1 Colfenor's Plans 
+1 Dread 
+1 Exiled Boggart 
+1 Fodder Launch 
+2 Footbottom Feast 
+1 Hornet Harasser 
+1 Hunter of Eyeblights 
+1 Marsh Flitter 
+1 Prowess of the Fair 
+1 Scarred Vinebreeder 
+1 Skeletal Changeling 
+1 Spiderwig Boggart 
+1 Thieving Sprite 
+2 Weed Strangle 
+[/Black]
+
+[Red]
+1 Adder-Staff Boggart 
+2 Axegrinder Giant 
+1 Blind-Spot Giant 
+1 Faultgrinder 
+1 Fire-Belly Changeling 
+2 Lash Out 
+1 Lowland Oaf 
+1 Rebellion of the Flamekin 
+2 Tar Pitcher 
+[/Red]
+
+[Green]
+1 Briarhorn 
+1 Fertile Ground 
+1 Immaculate Magistrate 
+1 Kithkin Daggerdare 
+2 Lace with Moonglove 
+2 Lignify 
+2 Sylvan Echoes 
+1 Timber Protector 
+1 Warren-Scourge Elf 
+1 Woodland Changeling 
+[/Green]
+
+[Artifacts and Lands]
+1 Herbal Poultice 
+1 Moonglove Extract 
+1 Island 
+1 Shelldock Isle 
+1 Vivid Marsh 
+[/Artifacts and Lands]
+
+{{< /cardlist >}}
 
 
    
 I built some deck with Goblins and Giants:
 
-<div class="decklist">
-  <ul class="decklist_group">
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Moonglove Extract">Moonglove Extract</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Boggart Loggers">Boggart Loggers</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Colfenor's Plans">Colfenor's Plans</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Dread">Dread</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Fodder Launch">Fodder Launch</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Footbottom Feast">Footbottom Feast</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Hornet Harasser">Hornet Harasser</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Marsh Flitter">Marsh Flitter</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Skeletal Changeling">Skeletal Changeling</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Spiderwig Boggart">Spiderwig Boggart</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Weed Strangle">Weed Strangle</a>
-    </li>
-    <li>
-      9 <a href="http://magiccards.info/autocard.php?card=Mountain">Mountain</a>
-    </li>
-    <li>
-      8 <a href="http://magiccards.info/autocard.php?card=Swamp">Swamp</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Vivid Marsh">Vivid Marsh</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Adder-Staff Boggart">Adder-Staff Boggart</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Axegrinder Giant">Axegrinder Giant</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Blind-Spot Giant">Blind-Spot Giant</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Fire-Belly Changeling">Fire-Belly Changeling</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Lash Out">Lash Out</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Lowland Oaf">Lowland Oaf</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Tar Pitcher">Tar Pitcher</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardlist >}}
+
+[Land]
+9 Mountain
+8 Swamp
+1 Vivid Marsh
+[/Land]
+
+[Creatures]
+1 Boggart Loggers
+1 Dread
+1 Hornet Harasser
+1 Marsh Flitter
+1 Skeletal Changeling
+1 Spiderwig Boggart
+1 Adder-Staff Boggart
+2 Axegrinder Giant
+1 Blind-Spot Giant
+1 Fire-Belly Changeling
+1 Lowland Oaf
+2 Tar Pitcher
+[/Creatures]
+
+[Spells]
+1 Moonglove Extract
+1 Colfenor's Plans
+1 Fodder Launch
+1 Footbottom Feast
+2 Weed Strangle
+2 Lash Out
+[/Spells]
+
+{{< /cardlist >}}
+
 
 The pool is pretty ok I think, but no Shreikmaw makes me sad.
 

@@ -12,346 +12,128 @@ Ugh, I feel like an idiot.
 
 Lowryn Sealed card pool:
 
-1 Runed Stalactite
-   
+{{< cardlist >}}
 
-   
-1 Wanderer's Twig
-   
-
-   
-2 Bog Hoodlums
-   
-
-   
-1 Boggart Loggers
-   
-
-   
-1 Faerie Tauntings
-   
-
-   
-1 Footbottom Feast
-   
-
-   
-1 Hornet Harasser
-   
-
-   
-1 Makeshift Mannequin
-   
-
-   
-1 Marsh Flitter
-   
-
-   
-1 Nightshade Stinger
-   
-
-   
-1 Peppersmoke
-   
-
-   
-1 Prowess of the Fair
-   
-
-   
-1 Quill-Slinger Boggart
-   
-
-   
-3 Scarred Vinebreeder
-   
-
-   
-1 Warren Pilferers
-   
-
-   
-1 Æthersnipe
-   
-
-   
-1 Amoeboid Changeling
-   
-
-   
-1 Drowner of Secrets
-   
-
-   
-1 Ego Erasure
-   
-
-   
-1 Faerie Harbinger
-   
-
-   
-1 Faerie Trickery
-   
-
-   
-1 Mistbind Clique
-   
-
-   
-1 Mulldrifter
-   
-
-   
-2 Pestermite
-   
-
-   
-2 Ponder
-   
-
-   
-1 Protective Bubble
-   
-
-   
-1 Tideshaper Mystic
-   
-
-   
-1 Cloudcrown Oak
-   
-
-   
-1 Fistful of Force
-   
-
-   
-1 Guardian of Cloverdell
-   
-
-   
-3 Lace with Moonglove
-   
-
-   
-1 Lammastide Weave
-   
-
-   
-1 Leaf Gilder
-   
-
-   
-2 Lys Alana Huntmaster
-   
-
-   
-1 Rootgrapple
-   
-
-   
-1 Timber Protector
-   
-
-   
-1 Woodland Changeling
-   
-
-   
-1 Wort, Boggart Auntie
-   
-
-   
-1 Ashling's Prerogative
-   
-
-   
-1 Axegrinder Giant
-   
-
-   
-1 Boggart Shenanigans
-   
-
-   
-1 Boggart Sprite-Chaser
-   
-
-   
-1 Consuming Bonfire
-   
-
-   
-1 Faultgrinder
-   
-
-   
-1 Flamekin Brawler
-   
-
-   
-1 Glarewielder
-   
-
-   
-1 Hurly-Burly
-   
-
-   
-1 Inner-Flame Acolyte
-   
-
-   
-1 Inner-Flame Igniter
-   
-
-   
-1 Lowland Oaf
-   
-
-   
-1 Tarfire
-   
-
-   
+[White]
 1 Cloudgoat Ranger
-   
-
-   
 2 Goldmeadow Stalwart
-   
-
-   
 1 Kinsbaile Balloonist
-   
-
-   
 2 Kinsbaile Skirmisher
-   
-
-   
 1 Kithkin Greatheart
-   
-
-   
 1 Neck Snap
-   
-
-   
 1 Oaken Brawler
-   
-
-   
 1 Pollen Lullaby
-   
-
-   
 2 Springjack Knight
-   
-
-   
 1 Surge of Thoughtweft
-   
-
-   
 1 Thoughtweft Trio
-   
-
-   
 1 Triclopean Sight
+[/White]
+
+[Blue]
+1 Æthersnipe
+1 Amoeboid Changeling
+1 Drowner of Secrets
+1 Ego Erasure
+1 Faerie Harbinger
+1 Faerie Trickery
+1 Mistbind Clique
+1 Mulldrifter
+2 Pestermite
+2 Ponder
+1 Protective Bubble
+1 Tideshaper Mystic
+[/Blue]
+
+[Black]
+2 Bog Hoodlums
+1 Boggart Loggers
+1 Faerie Tauntings
+1 Footbottom Feast
+1 Hornet Harasser
+1 Makeshift Mannequin
+1 Marsh Flitter
+1 Nightshade Stinger
+1 Peppersmoke
+1 Prowess of the Fair
+1 Quill-Slinger Boggart
+3 Scarred Vinebreeder
+1 Warren Pilferers
+[/Black]
+
+[Red]
+1 Ashling’s Prerogative
+1 Axegrinder Giant
+1 Boggart Shenanigans
+1 Boggart Sprite-Chaser
+1 Consuming Bonfire
+1 Faultgrinder
+1 Flamekin Brawler
+1 Glarewielder
+1 Hurly-Burly
+1 Inner-Flame Acolyte
+1 Inner-Flame Igniter
+1 Lowland Oaf
+1 Tarfire
+[/Red]
+
+[Green]
+1 Cloudcrown Oak
+1 Fistful of Force
+1 Guardian of Cloverdell
+3 Lace with Moonglove
+1 Lammastide Weave
+1 Leaf Gilder
+2 Lys Alana Huntmaster
+1 Rootgrapple
+1 Timber Protector
+1 Woodland Changeling
+[/Green]
+
+[Artifacts and Multicolor]
+1 Runed Stalactite
+1 Wanderer’s Twig
+1 Wort, Boggart Auntie
+[/Artifacts and Multicolor]
+
+{{< /cardlist >}}
 
 My build:
 
-1 Runed Stalactite
-   
+{{< cardlist >}}
 
-   
-1 Wanderer's Twig
-   
-
-   
-1 Cloudcrown Oak
-   
-
-   
-1 Fistful of Force
-   
-
-   
-1 Guardian of Cloverdell
-   
-
-   
-1 Lace with Moonglove
-   
-
-   
-1 Rootgrapple
-   
-
-   
-1 Timber Protector
-   
-
-   
-1 Woodland Changeling
-   
-
-   
+[Land]
 7 Forest
-   
-
-   
 10 Plains
-   
+[/Land]
 
-   
+[Creatures]
+1 Cloudcrown Oak
+1 Guardian of Cloverdell
+1 Timber Protector
+1 Woodland Changeling
 1 Cloudgoat Ranger
-   
-
-   
 2 Goldmeadow Stalwart
-   
-
-   
 1 Kinsbaile Balloonist
-   
-
-   
 2 Kinsbaile Skirmisher
-   
-
-   
 1 Kithkin Greatheart
-   
-
-   
-1 Neck Snap
-   
-
-   
 1 Oaken Brawler
-   
-
-   
 2 Springjack Knight
-   
-
-   
-1 Surge of Thoughtweft
-   
-
-   
 1 Thoughtweft Trio
-   
+[/Creatures]
 
-   
+[Spells]
+1 Runed Stalactite
+1 Wanderer’s Twig
+1 Fistful of Force
+1 Lace with Moonglove
+1 Rootgrapple
+1 Neck Snap
+1 Surge of Thoughtweft
 1 Triclopean Sight
-   
+[/Spells]
 
-   
+{{< /cardlist >}}
+
 Obviously, I suck. More on that later.
 
 Round 1: 0-2 loss. I lose due to bad beats here, mulliganing into a one-land hand both games.
@@ -371,9 +153,7 @@ So I drop. Damn, I hate dropping, it makes me feel so incompetent at Magic. I kn
 1. Not enough removal. Seriously, I should've probably at least splashed for the Tarfire and the Consuming Bonfire. That would've been a better choice than Rootgrapple. (To be fair, the Treefolk Instant actually took out Garuk for me. I still lost that game though.)
 
 2. Being blinded by shiny stuff. I saw the 2 Goldmeadow Stalwarts and the Thoughtweft Trio and just had to go Kithkin. I saw the Timber Protector and just forced my treefolk in there. I don't know if my second choice (UBR Faerie/Goblin) would have been better, but I definitely didn't give enough consideration to the other cards. I forced the Kithkin/Treefolk build too much, trying to put in a lot of Kithkin to maximize the Stalwarts I ended up with too many 2/x dorks that didn't do anything.
-   
 
-   
 3. Not having a good plan.Yeah. Evasion guys would have been a good plan. A bunch of small Kithkin guys? Not so much. Even though I could get the awesome double Stalwart opening (I never did), it's not consistent enough. Trying to win in Sealed by rushing small dudes isn't a very reliable since it's more likely for them to have midrange guys as well. I had a few fatties yeah, but in n environment with 2 common tappers, it wasn't very effective. Which reminds me... 
 
 4. Not having a way to kill tappers!
