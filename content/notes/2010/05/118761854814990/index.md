@@ -7,4 +7,8 @@ syndicated:
 tags: []
 ---
 
-Alvin: Ma, tama na Scrabble, pagamit ng PC Ma: Teka lang, dapat respetuhin mo ko nanay mo ko Alvin: Cum laude ako!
+Alvin: Ma, tama na Scrabble, pagamit ng PC 
+
+Ma: Teka lang, dapat respetuhin mo ko nanay mo ko 
+
+Alvin: Cum laude ako!

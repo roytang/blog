@@ -1,11 +1,14 @@
 ---
 albums:
 - timeline
+- sketchbook
 date: 2011-05-03 07:56:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150168099788912
+- type: reddit
+  url: https://reddit.com/r/pics/comments/h2p1b/i_doodle_a_lot_during_meetings_at_work_heres_one/
 tags:
 - timeline-photos
 ---

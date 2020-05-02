@@ -10,312 +10,116 @@ url: /2009/05/alara-reborn-prerelease-for-real-this-time/
 
 And so, our delayed prerelease. My sealed deck (at least after initial tweaks -- it varies slightly from my submitted list):
 
-<div class="decklist_wrap">
-  <!--
+<!--more-->
 
-<p class='switcher' class="hide"><a href='#' class='hide'>Hide Decklist</a><a href='#' class='show'>Show Decklist</a></p>
+{{< cardlist >}}
 
---></p> 
-  
-  <div class="decklist">
-    <ul class="decklist_group">
-      <li class="header">
-        Lands
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Crumbling Necropolis">Crumbling Necropolis</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Grixis Panorama">Grixis Panorama</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Jund Panorama">Jund Panorama</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Jungle Shrine">Jungle Shrine</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Swamp">Swamp</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Mountain">Mountain</a>
-      </li>
-      <li>
-        5 <a href="http://magiccards.info/autocard.php?card=Forest">Forest</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Creatures
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Hell's Thunder">Hell's Thunder</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Hissing Iguanar">Hissing Iguanar</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Druid of the Anima">Druid of the Anima</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Steward of Valeron">Steward of Valeron</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Igneous Pouncer">Igneous Pouncer</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Monstrous Carabid">Monstrous Carabid</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Pale Recluse">Pale Recluse</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Qasali Pridemage">Qasali Pridemage</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Maelstrom Pulse">Maelstrom Pulse</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Putrid Leech">Putrid Leech</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Naya Sojourners">Naya Sojourners</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Jund Hackblade">Jund Hackblade</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Naya Hushblade">Naya Hushblade</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Messenger Falcons">Messenger Falcons</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Spells
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Oblivion Ring">Oblivion Ring</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Resounding Silence">Resounding Silence</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Resounding Thunder">Resounding Thunder</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Fieldmist Borderpost">Fieldmist Borderpost</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Bituminous Blast">Bituminous Blast</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Colossal Might">Colossal Might</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Firewild Borderpost">Firewild Borderpost</a>
-      </li>
-    </ul>
-    
-    <div style="clear:both">
-    </div>
-  </div>
-</div>
+[Lands]
+1 Crumbling Necropolis
+1 Grixis Panorama
+1 Jund Panorama
+1 Jungle Shrine
+2 Plains
+1 Swamp
+3 Mountain
+5 Forest
+[/Lands]
+
+[Creatures]
+1 Hell's Thunder
+1 Hissing Iguanar
+1 Druid of the Anima
+1 Steward of Valeron
+1 Igneous Pouncer
+1 Monstrous Carabid
+1 Pale Recluse
+2 Qasali Pridemage
+1 Maelstrom Pulse
+2 Putrid Leech
+2 Naya Sojourners
+1 Jund Hackblade
+1 Naya Hushblade
+1 Messenger Falcons
+[/Creatures]
+
+[Spells]
+1 Oblivion Ring
+1 Resounding Silence
+1 Resounding Thunder
+1 Fieldmist Borderpost
+1 Bituminous Blast
+2 Colossal Might
+1 Firewild Borderpost
+[/Spells]
+
+{{< /cardlist >}}
 
 And the rest of the pool:
 
-<div class="decklist_wrap">
-  <!--
+{{< cardlist >}}
 
-<p class='switcher' class="hide"><a href='#' class='hide'>Hide Decklist</a><a href='#' class='show'>Show Decklist</a></p>
+[Monocolor]
+1 Akrasan Squire
+1 Angelsong
+1 Knight-Captain of Eos
+1 Sanctum Gargoyle
+1 Sunseed Nurturer
+1 Cathartic Adept
+1 Coma Veil
+1 Fatestitcher
+1 Outrider of Jhess
+1 Vectis Silencers
+1 Blister Beetle
+1 Deathgreeter
+1 Demon's Herald
+2 Dreg Reaver
+1 Glaze Fiend
+1 Puppet Conjurer
+1 Shadowfeed
+2 Shore Snapper
+1 Thunder-Thrash Elder
+1 Vicious Shadows
+1 Cylian Elf
+1 Gift of the Gargantuan
+1 Naturalize
+2 Obelisk of Bant
+1 Obelisk of Jund
+[/Monocolor]
 
---></p> 
-  
-  <div class="decklist">
-    <ul class="decklist_group">
-      <li class="header">
-        Monocolor
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Akrasan Squire">Akrasan Squire</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Angelsong">Angelsong</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Knight-Captain of Eos">Knight-Captain of Eos</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sanctum Gargoyle">Sanctum Gargoyle</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sunseed Nurturer">Sunseed Nurturer</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Cathartic Adept">Cathartic Adept</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Coma Veil">Coma Veil</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Fatestitcher">Fatestitcher</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Outrider of Jhess">Outrider of Jhess</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Vectis Silencers">Vectis Silencers</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Blister Beetle">Blister Beetle</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Deathgreeter">Deathgreeter</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Demon's Herald">Demon's Herald</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Dreg Reaver">Dreg Reaver</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Glaze Fiend">Glaze Fiend</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Puppet Conjurer">Puppet Conjurer</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Shadowfeed">Shadowfeed</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Shore Snapper">Shore Snapper</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Thunder-Thrash Elder">Thunder-Thrash Elder</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Vicious Shadows">Vicious Shadows</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Cylian Elf">Cylian Elf</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Gift of the Gargantuan">Gift of the Gargantuan</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Naturalize">Naturalize</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Obelisk of Bant">Obelisk of Bant</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Obelisk of Jund">Obelisk of Jund</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Two Colors
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Ethercaste Knight">Ethercaste Knight</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Ethersworn Shieldmage">Ethersworn Shieldmage</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Offering to Asha">Offering to Asha</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Etherium Abomination">Etherium Abomination</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Jhessian Zombies">Jhessian Zombies</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Soul Manipulation">Soul Manipulation</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Demonic Dread">Demonic Dread</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Demonspine Whip">Demonspine Whip</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sanity Gnawers">Sanity Gnawers</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Captured Sunlight">Captured Sunlight</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sigil Blessing">Sigil Blessing</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sigil of the Nayan Gods">Sigil of the Nayan Gods</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sigiled Behemoth">Sigiled Behemoth</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Tainted Sigil">Tainted Sigil</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Zealous Persecution">Zealous Persecution</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Double Negative">Double Negative</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Magefire Wings">Magefire Wings</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sages of the Anima">Sages of the Anima</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Three Colors
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Esper Charm">Esper Charm</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Tower Gargoyle">Tower Gargoyle</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Etherwrought Page">Etherwrought Page</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Mayael's Aria">Mayael's Aria</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Bant Sojourners">Bant Sojourners</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Thopter Foundry">Thopter Foundry</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Grixis Grimblade">Grixis Grimblade</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sewn-Eye Drake">Sewn-Eye Drake</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Trace of Abundance">Trace of Abundance</a>
-      </li>
-    </ul>
-    
-    <div style="clear:both">
-    </div>
-  </div>
-</div>
+[Two Colors]
+1 Ethercaste Knight
+1 Ethersworn Shieldmage
+1 Offering to Asha
+1 Etherium Abomination
+1 Jhessian Zombies
+1 Soul Manipulation
+1 Demonic Dread
+1 Demonspine Whip
+1 Sanity Gnawers
+1 Captured Sunlight
+1 Sigil Blessing
+1 Sigil of the Nayan Gods
+1 Sigiled Behemoth
+1 Tainted Sigil
+1 Zealous Persecution
+1 Double Negative
+1 Magefire Wings
+1 Sages of the Anima
+[/Two Colors]
+
+[Three Colors]
+1 Esper Charm
+1 Tower Gargoyle
+1 Etherwrought Page
+1 Mayael's Aria
+1 Bant Sojourners
+1 Thopter Foundry
+1 Grixis Grimblade
+1 Sewn-Eye Drake
+1 Trace of Abundance
+[/Three Colors]
+
+{{< /cardlist >}}
 
 This deck was doing well in between-rounds testing against decks that eventually went 3-1 and 4-0, however I did not fare so well in the actual games that count. 
 
@@ -331,5 +135,5 @@ Pretty terrible performance on my end, but I still had fun especially with the i
 
 Next week: Release party!
 
- [1]: http://magiccards.info/autocard.php?card=Enigma Sphinx
- [2]: http://magiccards.info/autocard.php?card=Behemoth Sledge
+ [1]: http://magiccards.info/autocard.php?card=Enigma%20Sphinx
+ [2]: http://magiccards.info/autocard.php?card=Behemoth%20Sledge

@@ -7,4 +7,14 @@ syndicated:
 tags: []
 ---
 
-Tinawagan ung kapatid ko twice ng recruitment ng HP: Guy: Hi, this is X from Hewlett-Packard. Has someone from our company already called you today? Alvin: Um, opo kanina po Guy: I see, naalala mo ba pangalan? Alvin: Hindi eh Guy: Was it a guy or a girl? Alvin: Guy Guy: Was it me?!?
+Tinawagan ung kapatid ko twice ng recruitment ng HP: 
+
+Guy: Hi, this is X from Hewlett-Packard. Has someone from our company already called you today? 
+
+Alvin: Um, opo kanina po 
+
+Guy: I see, naalala mo ba pangalan? 
+
+Alvin: Hindi eh Guy: Was it a guy or a girl? 
+
+Alvin: Guy Guy: Was it me?!?

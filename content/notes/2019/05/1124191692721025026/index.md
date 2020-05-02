@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1124191692721025026/
+title: ''
 ---
 
-RT [@TheWookieeRoars](https://twitter.com/TheWookieeRoars/): He knew. https://twitter.com/TIME/status/1124144061785546753
+He knew. https://twitter.com/TIME/status/1124144061785546753
