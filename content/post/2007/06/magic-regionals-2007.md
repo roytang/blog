@@ -11,33 +11,19 @@ url: /2007/06/magic-regionals-2007/
 The venue is, as always, NG Galleria. The format, Standard. I was playing Mike Flores' "Legends of Team CMU" -- the Mishra/Korlash aggro/control/combo deck that placed seventh in [New Jersey Regionals][1], with a modified sideboard since I couldn't get all of the cards in time. Flores discusses the deck in detail [here][2] (requries a Premium SCG.com account)
 
 Round 1 0-2 Loss vs GUB NarcoBridge (Dregde combo)
-   
 
-   
 Round 2 2-1 Win vs Mono-black Rack
-   
 
-   
 Round 3 1-2 Loss vs Mono-red Burn
-   
 
-   
 Round 4 2-0 Win vs White Weenie
-   
 
-   
 Round 5 0-2 Loss vs Dragonstorm
-   
 
-   
 Round 6 2-0 Win vs Rakdos
-   
 
-   
 Round 7 2-0 Win vs BW Rebel Control
-   
 
-   
 Round 8 2-0 Win vs Gruul
 
 Specific game notes:
@@ -58,27 +44,14 @@ Round 7: Blowout. Sorry if he reads this, but his deck isn't very good. I get to
 
 Round 8: Again, blowout. The matchup is pretty much as Flores describes it, block with Epoc during early turns, trade one of your legends for card advantage, then climb back quickly with either Korlash or Mishra.
 
-Final record: 5-3, finishing 42nd. Despite my game win ratio, I had the worst tiebreaks of all 5-3s (since I climbed back from a 2-3 deficit). At least it was better than my disastrous 1-4-drop Regionals record [last year][3] 
-   
-.
+Final record: 5-3, finishing 42nd. Despite my game win ratio, I had the worst tiebreaks of all 5-3s (since I climbed back from a 2-3 deficit). At least it was better than my disastrous 1-4-drop Regionals record [last year][3].
 
 Random mistakes I made:
-   
 
-   
--- Tapping Academy Ruins for mana when I should've used it to get back Chromatic Stars (Mishra was in play)
-   
-
-   
--- Playing a Graven Cairns first turn when I had a shockland
-   
-
-   
--- Not being aggressive enough against Dragonstorm
-   
-
-   
--- Random boarding mistakes -- I need to keep better track of my sideboard.
+- Tapping Academy Ruins for mana when I should've used it to get back Chromatic Stars (Mishra was in play)
+- Playing a Graven Cairns first turn when I had a shockland
+- Not being aggressive enough against Dragonstorm
+- Random boarding mistakes -- I need to keep better track of my sideboard.
 
 On playing net decks: This was the first time I had brought to a tournament a deck that someone else built. Maybe I was growing up. :p Despite my love of being a rogue deckbuilder, I have to admit I haven't been really successful at it. I realize now that one way to get better is to play some well-designed decks that other people have built so I can learn from their design. I was already playing a Korlash deck prior to this, and had heard of variants that splash blue for various reasons. But I don't think I would have ever been able to think of this current design -- the deck is just crazy. It plays very solidly and randomly gets blowout draws. I will probably play it for at least one more tournament and hope that I actually play a lot better than I did today.
 

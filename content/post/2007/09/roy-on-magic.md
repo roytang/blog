@@ -14,10 +14,6 @@ As anyone who has immersed himself in this game knows, Magic is an addictive exp
 
 So, here we go: Roy on Magic.
 
-_
-    
-(All Magic-related posts from the other blog have been moved here.)
-   
-_
+_(All Magic-related posts from the other blog have been moved here.)_
 
  [1]: http://roytang.net/blog

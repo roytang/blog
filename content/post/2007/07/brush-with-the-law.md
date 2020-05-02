@@ -7,7 +7,7 @@ type: post
 url: /2007/07/brush-with-the-law/
 ---
 
-A friend of mine, let's call her "C", was waiting for a taxi near her home. There were several other people there waiting for taxis but she had been there first. She finally managed to hail a cab and had already gotten in the back seat when an MMDA traffic guy [1] stopped her and told her that he had hailed that taxi for two women nearby that he pointed to. C said she was the one who had hailed the taxi, but the traffic guy politely but firmly insisted that she get out of the car. Indignant, C took note of the traffic guy's name plate and went on her way.
+A friend of mine, let's call her "C", was waiting for a taxi near her home. There were several other people there waiting for taxis but she had been there first. She finally managed to hail a cab and had already gotten in the back seat when an MMDA traffic guy {{< footnote >}}I'm not sure whether they're called "officers" or not.{{< /footnote >}} stopped her and told her that he had hailed that taxi for two women nearby that he pointed to. C said she was the one who had hailed the taxi, but the traffic guy politely but firmly insisted that she get out of the car. Indignant, C took note of the traffic guy's name plate and went on her way.
 
 As soon as she got to the office, C composed a letter of complaint to the MMDA director and faxed it to their office as soon as she was able. Having coursed her complaint through several different offices, it was promptly handled and a hearing with the traffic guy was scheduled during the next week.
 
@@ -21,4 +21,3 @@ My take? I'm guessing the two women were friends/acquaintances of the traffic gu
 
 I'm glad I wasn't there at the hearing though. If I had heard that lame excuse I might have done my best Phoenix Wright impression and shout "Objection!"
 
-[1] I'm not sure whether they're called "officers" or not.

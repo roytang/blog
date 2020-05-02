@@ -16,12 +16,4 @@ I went 5-1 in the first six rounds, always hovering near the top tables. Also to
 
 So my finish was a respectable 5-2, but with some pretty good wins and quite a number of packs taken home. Nacatl War-Pride is quite good in sealed (dunno in draft), it's practically a "must-kill" creature. Pyrohemia is a true bomb, as it turned the game around for me more than once.
 
-I love playing Limited Magic, much more so than Constructed, despite the fact it feels more expensive (I'm still not sure whether it actually
-   
-_
-    
-is
-   
-_ 
-   
-more expensive) Constructed Magic is fun, but I prefer not having to worry about metagames. Coming to a tournament bringing nothing but your deckbuilding and playing skills, opening your packs, building your deck and slugging it out &#8212; there's no better way to play Magic.
+I love playing Limited Magic, much more so than Constructed, despite the fact it feels more expensive (I'm still not sure whether it actually _is_ more expensive) Constructed Magic is fun, but I prefer not having to worry about metagames. Coming to a tournament bringing nothing but your deckbuilding and playing skills, opening your packs, building your deck and slugging it out &#8212; there's no better way to play Magic.

@@ -14,158 +14,74 @@ But this report is not about that disaster at the Philippine Open, this is about
 
 I came to the tournament with my usual lack of sleep and a bit of a cold, which would only get worse as the day worsened. My sealed deck:
 
+{{< cardlist >}}
+
+[Land]
 8 Islands
-   
-
-   
 8 Swamp
-   
-
-   
 1 Mountain
-   
+[/Land]
 
-   
+[Creatures]
 1 Blind Phantasm
-   
-
-   
 1 Skulking Knight
-   
-
-   
 1 Veiling Oddity
-   
-
-   
 1 Cyclopean Giant
-   
-
-   
 1 Errant Ephemeron
-   
-
-   
 1 Spiketail Drakeling
-   
-
-   
 1 Shadowmage Infiltrator
-   
-
-   
 1 Stormcloud Djinn
-   
-
-   
 1 Bog Serpent
-   
-
-   
 1 Corpulent Corpse
-   
-
-   
 1 Muck Drubb
-   
-
-   
 1 Dunerider Outlaw
-   
-
-   
 1 Merfolk Thaumaturgist
-   
-
-   
 1 Viscerid Deepwalker
-   
-
-   
 1 Dream Stalker
-   
+[/Creatures]
 
-   
+[Spells]
 1 Mystical Teachings
-   
-
-   
 1 Second Wind
-   
-
-   
 1 Think Twice
-   
-
-   
 1 Midnight Charm
-   
-
-   
 1 Haunting Hymn
-   
-
-   
 1 Strangling Soot
-   
-
-   
 1 Death Rattle
-   
-
-   
 1 Tendrils of Corruption
+[/Spells]
 
-Relevant sideboard cards:
-   
-
-   
+[Sideboard]
 1 Swamp
-   
-
-   
 1 Sudden Shock
-   
-
-   
 1 Saltcrusted Steppes
-   
-
-   
 1 Molder
+[/Sideboard]
+
+{{< /cardlist >}}
 
 It was really stupid to have Sudden Shock in the board instead of the main, but what can I say? I missed it, and I really should have gone eighteen lands, as I knew well and good that missing the 3rd land drop was akin to death in this format. Every game, I boarded in +1 Sudden Shock +1 Swamp for -1 Merfolk Thaumaturgist, -1 Dunerider Outlaw. I was so used to it that in one game where my opponent was at one life, I cast Teachings hoping to finish him off with the Sudden Shock, only to realize it was still game one and the burn spell was still in the board.
 
 Round one I'm paired with one of the few female players in the local Magic community, sporting a black/red deck. Game one, she only has a Keldon Halberdier suspended on turn 2 and nothing else. I hit my drops, use the Midnight Charm on the Halberdier and take the game easily. She dominates a long game two with a Sengir Nosferatu. I decide to save the Sudden Shock for that bat. Time is called for game 3, but by then I've already stripped her hand with a backbreaking Haunting Hymn for four and I have dominating fliers on the board, and I win on turn 3 of extra time.
-   
 
-   
 Round 1: 2-1 win vs BR Sengir Nosferatu (yeah, I name decks by their bombs)
 
 Round 2, my opponent was red/white and his bomb was Angel of Salvation (everyone has a bomb except me). Game 1 is me going "Haunting Hymn for the win!" Game 2 I see his bomb for the first time and proceed to get squashed by it. Game 3, I manage to off the Angel, having just enough swamps to Tendrils for five (including a Swamp created by the Cyclopean Giant) I squeak off a win in game 3 after we were both in topdeck mode and I drew a flier.
-   
 
-   
 Round 2: 2-1 win vs RW Angel of Salvation
 
 Round 3 is versus a guy with what appears to be a four color deck. His deck is solid, but he played a friend of mine in the previous round, so I know what his bomb is -- Oros the Avenger. I win game one on the back of Haunting Hymn again, and game 2Oros makes his first appearance. I was prepared though, and immediately locked him down with Second Wind. I'm on the defensive end for a bit, but I pull out the win eventually.
-   
 
-   
 Round 3: 2-0 win vs BRUw Oros the Avenger
 
 By this time, my cold is starting to get really bad and I seriously need to get more tissues. The airconditioned mall is also badly affecting my health despite the large crowd. My round 4 opponent is one of the higher-ranked limted players in the country. I've played against him several times before and have never won. Game one we got into some confusion as to who actually played or drew. He said he'd draw, but proceeded to lay a Plains before my first turn. I shrugged and just let it go, which was a mistake. Now that I think about, he probably effectively played and drew in that game. By game two, I'm wondering if he thinks all my nose-wiping with my hand towel is really icky. Anyway, I lost to his bomb in two games -- Sacred Mesa. I have no answer in my colors, but I listed the Saltcrusted Steppes and the Molder in my sideboard because I wonder if I should have just boarder an off-color answer?
-   
 
-   
 Round 4: 0-2 loss vs GW Sacred Mesa
 
 I finished early so I wander around for a while. One of the local judges, apparently bored, has been trying to figure out how to make an origami paper crane, to no avail. We laugh a bit as his badly-mangled piece of paper. Another player tries to help but frankly, I think his attempts are closer to making a Vampire Bat than a crane, lol.
 
 Round five and I'm at 3-1. Need two more wins for shot at top eight. I play against a red-green deck, and my Infiltrator goes the distance in both games, carrying me to victory. Wheneverhe finally draws an answer to the Infiltrator (usually an Assassinate) he smacks it down hard in annoyance. Sorry man, them's the breaks. I knew from watching previous rounds that his bomb was Sprout Swarm, but it never came up.
-   
 
-   
 Round 5: 2-0 win vs RGB Sprout Swarm
 
 After the match, I notice the judge who was previously doing the paper crane on our table, this time trying to build a card castle from basic lands. He must be really bored. Apparently the head judge challenged him to do it. Out of frustration, he gets some scotch tape and starts using it while the head judge isn't looking. Sadly, he can't get a tall enough castle stable even while cheating.

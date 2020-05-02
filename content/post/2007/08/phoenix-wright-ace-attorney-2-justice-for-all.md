@@ -8,15 +8,7 @@ type: post
 url: /2007/08/phoenix-wright-ace-attorney-2-justice-for-all/
 ---
 
-The official title is quite long. Actually, the English Title for
-   
-_
-    
-Gyakuten Saiban 3
-   
-_ 
-   
-is even worse!
+The official title is quite long. Actually, the English Title for _Gyakuten Saiban 3_ is even worse!
 
 Ace Attorney is an awesome series, I finally got around to playing the second game since the third one is scheduled for an English NDS release in September. I started playing the day I arrived in HK -- so I beat the game in six days.
 

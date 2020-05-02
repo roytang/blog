@@ -1,6 +1,6 @@
 {{ $id := .Inner | md5 }}
 <details class="spoiler">
     <summary>(Spoilers)</summary>
-    {{ .Inner }}
+    {{ .Inner | markdownify }}
 </details>
 <p />
