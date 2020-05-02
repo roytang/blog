@@ -17,12 +17,12 @@
             {{ $filename := .Params.featuredResource.filename }}
             {{ range where (where .Site.RegularPages "Section" "photos" ) ".RelPermalink" "==" .Params.featuredResource.photo }}
                 {{ range .Resources.Match $filename }}
-                    {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Name }}    
+                    {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Permalink }}
                 {{ end }}
             {{ end }}
         {{ else }}
             {{ range .Resources.Match .Params.featuredResource.filename }}
-                {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Name }}    
+                {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .Permalink }}
             {{ end }}
         {{ end }}
     </div>
