@@ -20,6 +20,8 @@ Quizzes: I watched the Geekfight, but I could only personally answer like 4 ques
 
 I burned through the remaining 5 seasons of Psych and the 2017 Psych movie as well. Overall it's a really fun series, despite usually sticking to a formula. Chock-full of pop culture references and shout-outs and in-jokes and such, just the kind of thing I enjoy.
 
+The only other thing I've watched this week was the Parks and Recreation reunion special (quarantine edition), fun episode and happy to see these guys all together again.
+
 At least I can watch other things now!
 
 ---
@@ -45,7 +47,8 @@ Other things: Trivia team set up a [Youtube channel](https://www.youtube.com/cha
 Site updates: 
 
 - cleanups of old content (mostly stuff that got mangled during import from Wordpress or elsewhere)
-- adding some new stuff/sections, but nothing linked publicly yet. Need to arrange everything correctly, may take a while.
+- together with the pass over the old content, I've been putting together some "media diet" pages. I've seen this in a few other blogs, where they track all their media (TV/movies/books) consumption. I'm already doing this more often with the [Watching lately posts](/tags/watching-lately) (and in the weeknotes), and my [2020 movies list](/lists/2020/movies), but I wanted it to include other media types too (including games), so I started putting together the lists. For the older years, I have to reconstruct the media list from old blog posts and so on, so they're bound to be incomplete and probably inaccurate, but it is what it is. I started from 2002 and working my way back to the present. It's still WIP, but the list should be [here](/media/).
+- adding some other new stuff/sections, but nothing linked publicly yet. Need to arrange everything correctly, may take a while.
 
 ---
 
