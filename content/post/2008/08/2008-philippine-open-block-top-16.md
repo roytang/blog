@@ -10,140 +10,59 @@ url: /2008/08/2008-philippine-open-block-top-16/
 
 The Philippine Open tournaments (one Standard and one Block) are held as side events to the Philippine Nationals. (I was not qualified obviously). I played in the block portion last Saturday, August 9 at Robinson's Galleria. I played a version of the PWC Special from GP Kobe, the so-called "Greedy Deck"
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mutavault">Mutavault</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Reflecting Pool">Reflecting Pool</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Secluded Glen">Secluded Glen</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Sunken Ruins">Sunken Ruins</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Vivid Creek">Vivid Creek</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Vivid Marsh">Vivid Marsh</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Wanderwine Hub">Wanderwine Hub</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mystic Gate">Mystic Gate</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Swamp">Swamp</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=  Merrow Reejerey">  Merrow Reejerey</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=  Mirror Entity">  Mirror Entity</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=  Silvergill Adept">  Silvergill Adept</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=  Sower of Temptation">  Sower of Temptation</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=  Stonybrook Banneret">  Stonybrook Banneret</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Other Spells
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=  Bitterblossom">  Bitterblossom</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=  Cryptic Command">  Cryptic Command</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=  Nameless Inversion">  Nameless Inversion</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=  Peppersmoke">  Peppersmoke</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=  Sage's Dousing">  Sage's Dousing</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Austere Command">Austere Command</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Jace Beleren">Jace Beleren</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Puppeteer Clique">Puppeteer Clique</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Arbiter of Knollridge">Arbiter of Knollridge</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Wispmare">Wispmare</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Pollen Lullaby">Pollen Lullaby</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Eyeblight's Ending">Eyeblight's Ending</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Shriekmaw">Shriekmaw</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+2 Mutavault
+3 Reflecting Pool
+3 Secluded Glen
+4 Sunken Ruins
+4 Vivid Creek
+2 Vivid Marsh
+3 Wanderwine Hub
+2 Mystic Gate
+1 Swamp 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+4 Merrow Reejerey
+3 Mirror Entity
+4 Silvergill Adept
+4 Sower of Temptation
+4 Stonybrook Banneret 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+4 Bitterblossom
+4 Cryptic Command
+4 Nameless Inversion
+2 Peppersmoke
+3 Sage's Dousing 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+2 Austere Command
+1 Jace Beleren
+1 Puppeteer Clique
+1 Arbiter of Knollridge
+4 Wispmare
+2 Pollen Lullaby
+2 Eyeblight's Ending
+2 Shriekmaw 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
+
 
 As usual, assembled the day before with zero playtesting. I've been busy for the past two weeks so was not able to think of Magic during that time period... 
 
-**
-    
-Round 1
-   
-** 
-   
-: PWC Special vs Demigod deck wins
+**Round 1**: PWC Special vs Demigod deck wins
 
 I had actually assembled the Demigod deck wins deck the day before, intending to play it, but later changed my mind when I decided I wanted to play something with Cryptic Command. Going in, I had an idea that my matchup against red was not very good (same as Faeries I guess), so I groaned inwardly when my opponent started with a mountain and a Figure of Destiny. This was not a good matchup to play my first game with this deck. I lost the two games without putting up much of a fight.
 
 Games: 0-2, Matches: 0-1
 
-**
-    
-Round 2:
-   
-** 
-   
-PWC Special vs BRg Goblins
+**Round 2:** PWC Special vs BRg Goblins
 
 Apparently, the "g" here is for the flying side of Firespout. My opponent started game one with Mountain, Tattermunge Maniac. I play a land and pass. He swings with Maniac, I drop to 18. I play another land and pass. He swings with Maniac, I drop to 16. He prowls out Earwig Squad (!) and I lost 3 Cryptic Commands from my deck. EOT, Nameless Inversion on the Earwig Squad. I play a land and a Banneret. He swings with the Maniac again. I don't want to trade my mana discount for 2 points of damage, so I let it through and drop to 14. Obviously, he has a second Earwig Squad, this time taking out 3 Reejereys from my deck (I was holding the fourth Cryptic Command, obv.) I play another Nameless Inversion for 1 black mana, then untap and lay down a Bitterblossom. Quite possibly a mistake, as he then plays a Squeaking Pie Sneak and a Mad Auntie, then swing with the Maniac for 3. Next turn he plays a second Mad Auntie, and my lone Faerie token won't be able to hold off those hordes. I scoop for game two.
 
@@ -155,13 +74,7 @@ Game three is anticlimatic, as he draws no black sources and my fish easily stom
 
 Games: 2-3, Matches: 1-1
 
-**
-    
-Round 3:
-   
-** 
-   
-PWC Special vs Faeries
+**Round 3:** PWC Special vs Faeries
 
 He mulls to six in game one, and I have a Bitterblossom first. He gets me down to one, but I resolve a Mirror Entity and the tokens swarm in for twelve damage to win the game.
 
@@ -169,13 +82,7 @@ He mulls to five and I don't take a single point of damage in this game.
 
 Games: 4-3, Matches: 2-1
 
-**
-    
-Round 4:
-   
-** 
-   
-PWC Special vs Doran
+**Round 4:** PWC Special vs Doran
 
 I win the first game since my Bitterblossom came out before his. I board in Wispmares for his Blossoms.
 
@@ -189,13 +96,7 @@ Games: 5-5, Matches -2
 
 At this point, I'm thinking of going home and back to the metaphorical drawing board, but the people I'm playing with convince me to keep going.
 
-**
-    
-Round 5:
-   
-** 
-   
-PWC Special vs Monoblue Merfolk/Wizards
+**Round 5:** PWC Special vs Monoblue Merfolk/Wizards
 
 Hooray, someone actually made a deck with the Sage of Fables/Glen Elendra Archmage combination!
 
@@ -203,13 +104,7 @@ I lose game one for some reason, but then I board in Pollen Lullabies. I never w
 
 Games: 7-6, Matches: 3-2
 
-**
-    
-Roubd 6:
-   
-** 
-   
-PWC Special vs Doran
+**Round 6:** PWC Special vs Doran
 
 Game one he has only two lands for like five turns, so it's a blowout.
 
@@ -219,13 +114,7 @@ Games: 9-6, Matches: 4-2
 
 One more round, rankings are up and I'm at 22. Top 16 still within reach!
 
-**
-    
-Round 7:
-   
-** 
-   
-PWC Special vs Red/Black Demigod Deck Wins
+**Round 7:** PWC Special vs Red/Black Demigod Deck Wins
 
 Game one I got hit with a Stigma Lasher, but the Stigma has no effect on me. I stabilize at around 10 life with a blossom in play and manage to take the game.
 
@@ -233,13 +122,7 @@ Game two he goes turn one Figure of Destiny; turn two attack, pump; turn three R
 
 Game three is too close, but I correctly counter a Flame Javelin when it matters, leaving him only with a Puncture Blast to shoot me when I'm at five (with Bitterblossom in play of course!) the turn before I swing for lethal.
 
-**
-    
-Final Record:
-   
-** 
-
-Games: 11-7, Matches: 5-2
+**Final Record:** Games: 11-7, Matches: 5-2
 
 X-2 finish is good enough for me to land in the 16th spot, and I win... 3 boosters! The only good rare I get is Cascade Bluffs.
 

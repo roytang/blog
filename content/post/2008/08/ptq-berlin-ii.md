@@ -10,109 +10,45 @@ url: /2008/08/ptq-berlin-ii/
 
 2nd PTQ was last Saturday, August 23 at Robinson's Calleria. I brought a slightly modified version of the greedy deck:
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mutavault">Mutavault</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Reflecting Pool">Reflecting Pool</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Secluded Glen">Secluded Glen</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Sunken Ruins">Sunken Ruins</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Vivid Creek">Vivid Creek</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Vivid Marsh">Vivid Marsh</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Wanderwine Hub">Wanderwine Hub</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mystic Gate">Mystic Gate</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Merrow Reejerey">Merrow Reejerey</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mirror Entity">Mirror Entity</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Silvergill Adept">Silvergill Adept</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Stonybrook Banneret">Stonybrook Banneret</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Sower of Temptation">Sower of Temptation</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Other Spells
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Bitterblossom">Bitterblossom</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Cryptic Command">Cryptic Command</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Nameless Inversion">Nameless Inversion</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Unmake">Unmake</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Sage's Dousing">Sage's Dousing</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Shriekmaw">Shriekmaw</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Crib Swap">Crib Swap</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Pollen Lullaby">Pollen Lullaby</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Hallowed Burial">Hallowed Burial</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Wispmare">Wispmare</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Vendillion Clique">Vendillion Clique</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+2 Mutavault
+4 Reflecting Pool
+4 Secluded Glen
+3 Sunken Ruins
+4 Vivid Creek
+2 Vivid Marsh
+3 Wanderwine Hub
+2 Mystic Gate 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+4 Merrow Reejerey
+2 Mirror Entity
+4 Silvergill Adept
+4 Stonybrook Banneret
+4 Sower of Temptation 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+4 Bitterblossom
+4 Cryptic Command
+4 Nameless Inversion
+3 Unmake
+3 Sage's Dousing 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+2 Shriekmaw
+2 Crib Swap
+2 Pollen Lullaby
+2 Hallowed Burial
+4 Wispmare
+3 Vendillion Clique 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 The venue is crowded as the PTQ is the same day as WoW TCG Nationals. There aren't enough tables, so around 40% of the players need to wait for tables to be freed up before they can play. As you can imagine, this makes for long rounds, around 1 hour and 45 minutes each.
 
@@ -128,15 +64,7 @@ Bah! With the lack of tables and losses, I tell DJ to drop me from the tournamen
 
 Round 3: 2-0 win vs B/W Runed Halo deck.
 
-With the lack of tables we're forced to play at the nearby Dim Sum place (luckily they didn't chase us away). The kid is a nice guy, but he's playing in his first tournament and he learned Magic barely three weeks ago. He has nice cards though -- his deck had Rune Halos, Archons of Justice, Hallowed Burial, Oona. Unfortunately, he had too many do-nothings -- first time I've ever seen
-   
-[Goldenglow Moth][1]
-   
-and
-   
-[Greater Auramancy][2]
-   
-in a constructed deck (I know you need to click the links -- I doubt you know what those cards are!).
+With the lack of tables we're forced to play at the nearby Dim Sum place (luckily they didn't chase us away). The kid is a nice guy, but he's playing in his first tournament and he learned Magic barely three weeks ago. He has nice cards though -- his deck had Rune Halos, Archons of Justice, Hallowed Burial, Oona. Unfortunately, he had too many do-nothings -- first time I've ever seen [Goldenglow Moth][1] and [Greater Auramancy][2] in a constructed deck (I know you need to click the links -- I doubt you know what those cards are!).
 
 I crush him without any opposition. I give him some friendly words of advice, although I'm not sure how he felt taking them from someone who was 0-2.
 
@@ -164,5 +92,5 @@ Final record: 3-3 matches, 7-8 games.
 
 It's too much. I can't play this deck at the Grand Prix. The wins are too marginal, and the Kithkin matchup is too much of a tossup. I need to think about how I'm going to modify it (or what deck to audible into)
 
- [1]: http://magiccards.info/autocard.php?card=Goldenglow Moth
- [2]: http://magiccards.info/autocard.php?card=Greater Auramancy
+ [1]: http://magiccards.info/autocard.php?card=Goldenglow%20Moth
+ [2]: http://magiccards.info/autocard.php?card=Greater%20Auramancy

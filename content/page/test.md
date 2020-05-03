@@ -21,3 +21,19 @@ Test 3 {{< footnote >}}Third footnote{{< /footnote >}}
 {{< /cardgroup >}}
 
 {{< /cardlist >}}
+
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+{{< /cardgroup >}}
+
+{{< /cardlist >}}

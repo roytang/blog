@@ -10,157 +10,66 @@ url: /2008/02/opening-a-morningtide-box/
 
 A box and five boosters actually. We drafted the packs, but the final distribution of rares we got were:
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Red
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Boldwyr Heavyweights">Boldwyr Heavyweights</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Countryside Crusher">Countryside Crusher</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Shared Animosity">Shared Animosity</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Sensation Gorger">Sensation Gorger</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Titan's Revenge">Titan's Revenge</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Vengeful Firebrand">Vengeful Firebrand</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Green
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Chameleon Colossus">Chameleon Colossus</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Greatbow Doyen">Greatbow Doyen</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Leaf-crowned Elder">Leaf-crowned Elder</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Reach of Branches">Reach of Branches</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Rhys the Exiled">Rhys the Exiled</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Scapeshift">Scapeshift</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Unstoppable Ash">Unstoppable Ash</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      White
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Battletide Alchemist">Battletide Alchemist</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Feudkiller's Verdict">Feudkiller's Verdict</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Idyllic Tutor">Idyllic Tutor</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Kinsbaile Borderguard">Kinsbaile Borderguard</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Preeminent captain">Preeminent captain</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Reveillark">Reveillark</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Stonehewer Giant">Stonehewer Giant</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Blue
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Declaration of Naught">Declaration of Naught</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Knowledge Exploitation">Knowledge Exploitation</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Slithermuse">Slithermuse</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Supreme Exemplar">Supreme Exemplar</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Vendillion Clique">Vendillion Clique</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Black
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Bitterblossom">Bitterblossom</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Earwig Squad">Earwig Squad</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Fendeep Summoner">Fendeep Summoner</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Maralen of the Mornsong">Maralen of the Mornsong</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Scarblade Elite">Scarblade Elite</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Stenchskipper">Stenchskipper</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Mutavault">Mutavault</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Rustic Clachan">Rustic Clachan</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Foils
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Reveillark">Reveillark</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+<!-- more -->
+
+{{< cardlist >}}
+
+{{< cardgroup title="White" >}}
+1 Battletide Alchemist
+1 Feudkiller's Verdict
+1 Idyllic Tutor
+1 Kinsbaile Borderguard
+1 Preeminent captain
+1 Reveillark
+1 Stonehewer Giant 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Blue" >}}
+3 Declaration of Naught
+1 Knowledge Exploitation
+1 Slithermuse
+1 Supreme Exemplar
+1 Vendillion Clique 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Black" >}}
+3 Bitterblossom
+1 Earwig Squad
+2 Fendeep Summoner
+1 Maralen of the Mornsong
+1 Scarblade Elite
+1 Stenchskipper 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Red" >}}
+3 Boldwyr Heavyweights
+1 Countryside Crusher
+1 Shared Animosity
+1 Sensation Gorger
+1 Titan's Revenge
+1 Vengeful Firebrand 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Green" >}}
+1 Chameleon Colossus
+1 Greatbow Doyen
+1 Leaf-crowned Elder
+1 Reach of Branches
+1 Rhys the Exiled
+1 Scapeshift
+1 Unstoppable Ash 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Lands" >}}
+1 Mutavault
+2 Rustic Clachan 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Foils" >}}
+1 Reveillark 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 Not a bad box.
 

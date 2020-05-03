@@ -16,15 +16,7 @@ Tournament report follows.
    
 <!--more-->
 
-
-  
-
-  
-**
-    
-Round 1: Merfolk vs Monored Burn
-   
-** 
+**Round 1: Merfolk vs Monored Burn** 
 
 Last week I managed to 2-0 against a burn deck but this time went against me. In game one I died due to taking 10 damage total from two Mudbutton Torchrunners that I should have just blocked early. Game two I managed to fight back, getting a nuts aggro draw that meant I only took 3 damage for the whole game. Unfortunately in game three I didn't even manage to get one damage in, due to rapid Fanatic/Marauder attacks.
 
@@ -34,11 +26,7 @@ Someday I will gather statistics on how often I lose round one.
 
 Games 1-2 Matches 0-1
 
-**
-    
-Round 2: Merfolk vs UB Bitterblossom Control
-   
-** 
+**Round 2: Merfolk vs UB Bitterblossom Control** 
 
 Weird build, with Shadowmage Infiltrators which are generally frowned upon in the Bitterblossom heavy metagame. I lost game one somehow, I think to a mainboarded Sower. The only creatures I saw were Shadowmages, Venser and Sower. I assume some sort of Mannequin build and bring in Sowers and Unsummons in case there were some sort of fatties. He gets a slow draw in game two and I win off numerous turns of attacking for one.
 
@@ -46,19 +34,9 @@ In game three, he gets out an early Bitterblossom and a Loxodon Warhammer, prett
 
 Games 3-3 Matches 1-1
 
-**
-    
-Round 3: Merfolk vs UG Faeries
-   
-** 
-  
+**Round 3: Merfolk vs UG Faeries** 
 
-  
-_
-    
-"Basta may island, good matchup!"
-   
-_ 
+_"Basta may island, good matchup!"_ 
 
 I actually didn't know he was on Faeries in game one since all he showed me were two Goyfs. An army of Merfolk happily raced the two 3/4 Goyfs. We had ten power, they had six. And he had an island!
 
@@ -68,11 +46,7 @@ In game two I start to see the Pestermites, Spellstutters and Mistbind Clique, a
 
 Games 5-3 Matches 2-1
 
-**
-    
-Round 4: Merfolk vs Monogreen aggro
-   
-** 
+**Round 4: Merfolk vs Monogreen aggro** 
 
 Game one he manages to flash in a Scryb Ranger. Then he gives it a Warhammer! He has large guys stalling the ground so I can't win the race.
 
@@ -84,21 +58,13 @@ Game three he holds on to a hand without an elf again, and I don't even take any
 
 Games 7-4 Matches 3-1
 
-**
-    
-Round 5: Merfolk vs Monored Burn
-   
-** 
+**Round 5: Merfolk vs Monored Burn** 
 
 I sigh inwardly when I see who I'm paired with, since I already know he has a burn deck. Game one goes quickly, due to me having no answer to Mutavaults pumped by Lords of Atlantis. I board in Sowers and Flash Freezes. He boarded out Gargadons and Crushers, go figure. I lose game two to unrelenting attacks from Mogg Fanatic and Mutavaults.
 
 Games 7-6 Matches 3-2
 
-**
-    
-Round 6: Merfolk vs G/B Rock
-   
-** 
+**Round 6: Merfolk vs G/B Rock** 
 
 Apparently my opponent kept a greedy hand -- six lands and a BoP. I had him at ten life before he could even untap with four mana. He surveys the ten power worth of Merfolk on the board and scoops. We finish game one in under two minutes -- the adjacent table hasn't even finished shuffling yet!
 
@@ -106,11 +72,7 @@ Game two I board in Sowers and Unsummons. He gets a Troll down and a Warhammer e
 
 Games 9-6 Matches 4-2
 
-**
-    
-Round 7: Merfolk vs Monogreen Elves
-   
-** 
+**Round 7: Merfolk vs Monogreen Elves** 
 
 Game one he gets out early Paragons, but I stabilize with a Sower on an Imperious Perfect with two +1/+1 counters. My merfolk eventually get big enough to bash through and I take game one, winning with 5 life remaining.
 

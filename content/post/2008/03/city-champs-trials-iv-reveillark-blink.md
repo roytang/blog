@@ -10,115 +10,49 @@ url: /2008/03/city-champs-trials-iv-reveillark-blink/
 
 The tournament was last Saturday, March 15, Standard. Slightly modified list from last week:
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Land:
-    </li>
-    <li>
-      6 <a href="http://magiccards.info/autocard.php?card=Islands">Islands</a>
-    </li>
-    <li>
-      5 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Adarkar Waster">Adarkar Waster</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Nimbus Maze">Nimbus Maze</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Desert">Desert</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures:
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Mulldrifter">Mulldrifter</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Reveillark">Reveillark</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Mirror Entity">Mirror Entity</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Bonded Fetch">Bonded Fetch</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Body Double">Body Double</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Riftwing Cloudskate">Riftwing Cloudskate</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Venser, Shaper Savant">Venser, Shaper Savant</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Aven Riftwatcher">Aven Riftwatcher</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Other Spells:
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Prismatic Lens">Prismatic Lens</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mind Stone">Mind Stone</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Wrath of God">Wrath of God</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Momentary Blink">Momentary Blink</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Condemn">Condemn</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard:
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Windborn Muse">Windborn Muse</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Crovax, Ascendant Hero">Crovax, Ascendant Hero</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Condemn">Condemn</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Stonecloaker">Stonecloaker</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Sower of Temptation">Sower of Temptation</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Draining Whelk">Draining Whelk</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Teferi's Moat">Teferi's Moat</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Magus of the Moat">Magus of the Moat</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+<!-- more -->
+
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+6 Islands
+5 Plains
+4 Adarkar Waster
+4 Nimbus Maze
+4 Desert 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+4 Mulldrifter
+4 Reveillark
+3 Mirror Entity
+2 Bonded Fetch
+3 Body Double
+2 Riftwing Cloudskate
+2 Venser, Shaper Savant
+3 Aven Riftwatcher 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+3 Prismatic Lens
+2 Mind Stone
+4 Wrath of God
+3 Momentary Blink
+2 Condemn 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+2 Windborn Muse
+2 Crovax, Ascendant Hero
+2 Condemn
+2 Stonecloaker
+2 Sower of Temptation
+2 Draining Whelk
+2 Teferi's Moat
+1 Magus of the Moat 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 Just a quick summary this time:
 

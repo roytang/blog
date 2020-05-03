@@ -14,15 +14,7 @@ I went in a bit confident; I had a drafted a couple of times in the past month w
 
 For the LLM draft, I went with a Treefolk-based build around Battlewand Oaks. I luckily opened a Bitterblossom in pack 3 so my splash went to black, gaining additional removal from the Morningtide pack.
 
-Round one vs U/B was close, we went to game 3. But eventually, he decided to gamble and play
-   
-[Stenchskipper][1]
-   
-with only a
-   
-[Mothdust Changeling][2]
-   
-as backup. Unfortunately both of my removal cost five and neither were in my hand at that time. I easily lost to the 6/5 flier.
+Round one vs U/B was close, we went to game 3. But eventually, he decided to gamble and play [Stenchskipper][1] with only a [Mothdust Changeling][2] as backup. Unfortunately both of my removal cost five and neither were in my hand at that time. I easily lost to the 6/5 flier.
 
 Round two vs Monowhite Kithkin was close again, but in game 3 I walked into a Coordinated Barrage that resulted in bad trades and was unable to recover.
 
@@ -37,4 +29,4 @@ I lost round four -- I don't even remember the battle anymore. But I was really 
 Final record 1-4: No limited points gained, a bunch lost. Not a good day, obv. Still, the draftaganza was a good experience and hopefully NG will hold more similar events in the future.
 
  [1]: http://magiccards.info/autocard.php?card=Stenchskipper
- [2]: http://magiccards.info/autocard.php?card=Mothdust Changeling
+ [2]: http://magiccards.info/autocard.php?card=Mothdust%20Changeling

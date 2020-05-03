@@ -12,133 +12,51 @@ The tournament was last Staurday, 14-June and the format wasLorwyn/Shadowmoor Bl
 
 I had been having a bad constructed record over the past few tournaments, so I thought I'd play in one of the smaller tournaments before heading into another GPT. I didn't want to play Kithkin (too random) or Faeries (not enough components). I though I would go for control instead and thus assembled the following Commandments decklist:
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Forest">Forest</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Island">Island</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Reflecting Pool">Reflecting Pool</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Primal Beyond">Primal Beyond</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Vivid Grove">Vivid Grove</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Vivid Creek">Vivid Creek</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Vivid Meadow">Vivid Meadow</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Mystic Gate">Mystic Gate</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Sunken Ruins">Sunken Ruins</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Fire-Lit Thicket">Fire-Lit Thicket</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Wooded Bastion">Wooded Bastion</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Mulldrifter">Mulldrifter</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Shriekmaw">Shriekmaw</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Cloudthresher">Cloudthresher</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Plumeveil">Plumeveil</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Horde of Notions">Horde of Notions</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Kitchen Finks">Kitchen Finks</a>
-    </li>
-    <li>
-      16 <a href="http://magiccards.info/autocard.php?card=creatures">creatures</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Spells
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Firespout">Firespout</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Cryptic Command">Cryptic Command</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Broken Ambitions">Broken Ambitions</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Austere Command">Austere Command</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Makeshift Mannequin">Makeshift Mannequin</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Mind Spring">Mind Spring</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Fathom Trawl">Fathom Trawl</a>
-    </li>
-    <li>
-      18 <a href="http://magiccards.info/autocard.php?card=spells">spells</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Nameless Inversion">Nameless Inversion</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mind Shatter">Mind Shatter</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Primal Command">Primal Command</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Plumeveil">Plumeveil</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Jace Beleren">Jace Beleren</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Pollen Lullaby">Pollen Lullaby</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+2 Forest
+3 Island
+3 Reflecting Pool
+1 Primal Beyond
+4 Vivid Grove
+4 Vivid Creek
+2 Vivid Meadow
+3 Mystic Gate
+2 Sunken Ruins
+1 Fire-Lit Thicket
+1 Wooded Bastion 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+4 Mulldrifter
+3 Shriekmaw
+3 Cloudthresher
+1 Plumeveil
+1 Horde of Notions
+4 Kitchen Finks 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+4 Firespout
+4 Cryptic Command
+3 Broken Ambitions
+2 Austere Command
+3 Makeshift Mannequin
+1 Mind Spring
+1 Fathom Trawl 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+2 Nameless Inversion
+2 Mind Shatter
+2 Primal Command
+3 Plumeveil
+3 Jace Beleren
+3 Pollen Lullaby 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 Round 1: Mirror match!
 
@@ -147,9 +65,7 @@ In this round I encountered the first problem with this deck, the mirror takes f
 We tried to play game two in the last five minutes, and he had a quick start and I had a bad draw, but he couldn't finish me in extra turns.
 
 Game record: 1-0
-   
 
-   
 Match record: 1-0
 
 Round 2 vs BG (Doran?)
@@ -157,9 +73,7 @@ Round 2 vs BG (Doran?)
 This was a nonmatch, as he mulled to five in game one and never recovered. In game two I won easily.
 
 Game record: 3-0
-   
 
-   
 Match record: 2-0
 
 Round 3 vs Faeries:
@@ -167,9 +81,7 @@ Round 3 vs Faeries:
 I actually didn't know how to play this matchup; I figured I should wait for the Bitterblossom on turn 2 with Broken Ambitions, but he wasn't playing anything either so I blinked first, walking my evoked Mulldrifter into his own Broken Ambitions. After which he played BB on his own turn. I don't remember more details, but I lost in two, most probably because I don't really know how to play the matchup.
 
 Game record: 3-2
-   
 
-   
 Match record: 2-1
 
 Round 4 vs Faeries:
@@ -177,9 +89,7 @@ Round 4 vs Faeries:
 This time I won in two games easily; he never had Bitterblossom and I had aggro starts, I was ahead on all metrics all the time.
 
 Game record: 5-2
-   
 
-   
 Match record: 3-1
 
 Round 5 vs Kithkin:
@@ -193,9 +103,7 @@ In game two I mulled to five and kept a two-lander with questionable land synerg
 In game three, I took some beats but stabilized at 13 after an awesome Mind Spring for five. My notes have the life at 13-23 in his favor, but he had nothing on the board and I had a full grip; he was frustrated and just scooped.
 
 Game record: 6-3
-   
 
-   
 Match record 4-1
 
 Round six vs Kithkin:
@@ -203,9 +111,7 @@ Round six vs Kithkin:
 I easily beat him game one due to no maindeck Forge Tenders, meaning I actually got rid of five or so creatures with a Firespout. In game two I mulliganned and had mana issues. In game three he had something like a God start -- two Forge Tenders, Wizened Cenn, Meadowgrain, Thistledown Liege and a Reveillark under the hideaway land. I eventually ran out of Cryptics to stall and couldn't use the spouts due to the BFTs.
 
 Final Game record: 7-4
-   
 
-   
 Final Match record: 4-2
 
 It was a small tournament so 4-2 was good enough for 5th place, winning me 4 packs. The rares were: Rage Reflection, Ghastlord of Fugue, Dramatic Entrance and Painter's Servant.

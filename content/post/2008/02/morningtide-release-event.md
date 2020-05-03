@@ -16,100 +16,41 @@ I get my product and check it out. No outright bombs or cash rares, but I immedi
 
 My deck list (minus the sideboard, I wasn't able to list them up before mixing with other cards):
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      10 <a href="http://magiccards.info/autocard.php?card=Island">Island</a>
-    </li>
-    <li>
-      7 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Mothdust Changeling">Mothdust Changeling</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Knight of Meadowgrain">Knight of Meadowgrain</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Stonybrook Angler">Stonybrook Angler</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Spellstutter Sprite">Spellstutter Sprite</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Deeptread Merrow">Deeptread Merrow</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Ameboid Changeling">Ameboid Changeling</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Stonybrook Schoolmaster">Stonybrook Schoolmaster</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Drowner of Secrets">Drowner of Secrets</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Veteran of the Depths">Veteran of the Depths</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Fencer Clique">Fencer Clique</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Inspired Sprite">Inspired Sprite</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Plover Knights">Plover Knights</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Mulldrifter">Mulldrifter</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Guile">Guile</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Other spells
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Stream of Unconsciousness">Stream of Unconsciousness</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Whirlpool Whelm">Whirlpool Whelm</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Negate">Negate</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Weight of Conscience">Weight of Conscience</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Merrow Commerce">Merrow Commerce</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Sage's Dousing">Sage's Dousing</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Swell of Courage">Swell of Courage</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+10 Island
+7 Plains 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+1 Mothdust Changeling
+1 Knight of Meadowgrain
+1 Stonybrook Angler
+1 Spellstutter Sprite
+1 Deeptread Merrow
+1 Ameboid Changeling
+2 Stonybrook Schoolmaster
+1 Drowner of Secrets
+1 Veteran of the Depths
+2 Fencer Clique
+1 Inspired Sprite
+1 Plover Knights
+1 Mulldrifter
+1 Guile 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+1 Stream of Unconsciousness
+1 Whirlpool Whelm
+1 Negate
+1 Weight of Conscience
+1 Merrow Commerce
+1 Sage's Dousing
+1 Swell of Courage 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 I'll edit this post later with the card list. For now, tourney report!
 

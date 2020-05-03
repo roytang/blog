@@ -13,108 +13,44 @@ Wizards official coverage][1] gives you the play-by-play and the results, I’ll
 
 For the PTQ on day two, I decided to just use the Kithkin build we made for Paul, except that I put in Stillmoon Cavaliers maindeck, taking out Knight of Meadowgrain. I also fixed up the sideboard a bit. The list I played:
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Burrenton Forge-Tender">Burrenton Forge-Tender</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Goldmeadow Stalwart">Goldmeadow Stalwart</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Figure of Destiny">Figure of Destiny</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Wizened Cenn">Wizened Cenn</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Knight of Meadowgrain">Knight of Meadowgrain</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Cloudgoat Ranger">Cloudgoat Ranger</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Thistledown Liege">Thistledown Liege</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Spells
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Spectral Procession">Spectral Procession</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mirror Weave">Mirror Weave</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Unmake">Unmake</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Ajani Goldmane">Ajani Goldmane</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Windbrisk Heights">Windbrisk Heights</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Rustic Clachan">Rustic Clachan</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mutavault">Mutavault</a>
-    </li>
-    <li>
-      16 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard:
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Crib Swap">Crib Swap</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Wispmare">Wispmare</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Pollen Lullaby">Pollen Lullaby</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Order of Whiteclay">Order of Whiteclay</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Reveillark">Reveillark</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Moonglove Extract">Moonglove Extract</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardlist >}}
 
+{{< cardgroup title="Lands" >}}
+4 Windbrisk Heights
+4 Rustic Clachan
+2 Mutavault
+16 Plains 
+{{< /cardgroup >}}
 
-  
-_
-    
-Edit: I forgot that I managed to borrow an Ajani Goldmane on the day of the PTQ and swapped it out for a Wilt-Leaf Liege.
-   
-_ 
+{{< cardgroup title="Creatures" >}}
+4 Burrenton Forge-Tender
+4 Goldmeadow Stalwart
+4 Figure of Destiny
+4 Wizened Cenn
+3 Knight of Meadowgrain
+4 Cloudgoat Ranger
+1 Thistledown Liege 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+4 Spectral Procession
+2 Mirror Weave
+3 Unmake
+1 Ajani Goldmane 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+2 Crib Swap
+3 Wispmare
+3 Pollen Lullaby
+2 Order of Whiteclay
+2 Reveillark
+3 Moonglove Extract 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
+
+_Edit: I forgot that I managed to borrow an Ajani Goldmane on the day of the PTQ and swapped it out for a Wilt-Leaf Liege._ 
 
 I have a couple more tournament reports to wrap up after this, so I'll make this quick.
 
@@ -138,7 +74,7 @@ I watched the finals of the Grand Prix of course. The official coverage is okay,
 
 During the awarding ceremony, the crowd was very rowdy, chanting "Burger! Burger!" when Luis Magisa accepted his giant check. ([Bry would hate that][2].) The winner of the event, Sugaya pandered to the crowd as well, more than willing to pose for photos after accepting his giant check. (His get-up was ridiculous.)
 
-A lot of players were asking name players such as Tomoharu Saito or Raphael Levy to sign some cards for them; I'm not sure if it's good for us to treat them that way. They're Magic celebrities sure, but I don't think their signature adds anything to the cards. It's ok to look up to them for their gameplay or deck ideas or what not, but I don't think we should idolize them or anything -- they're still Magic players like the rest of us, except they're more willing to devote their time to the game.And someday, we're going to have to rise up and challenge their dominance of Magic in the Asia-Pacific region.
+A lot of players were asking name players such as Tomoharu Saito or Raphael Levy to sign some cards for them; I'm not sure if it's good for us to treat them that way. They're Magic celebrities sure, but I don't think their signature adds anything to the cards. It's ok to look up to them for their gameplay or deck ideas or what not, but I don't think we should idolize them or anything -- they're still Magic players like the rest of us, except they're more willing to devote their time to the game.\And someday, we're going to have to rise up and challenge their dominance of Magic in the Asia-Pacific region.
 
 That's all for GP Manila, hopefully we can have another big event in the Philippines soon. Props go out to the people at [Neutral Grounds][3] for organizing the event and being able to support 600+ people even though the DCI people were only expecting around 400+.
 

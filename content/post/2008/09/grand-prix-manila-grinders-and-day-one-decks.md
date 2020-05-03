@@ -10,11 +10,7 @@ url: /2008/09/grand-prix-manila-grinders-and-day-one-decks/
 
 Grand Prix Manila 08 has come and gone and is in the history books. While the [Wizards official coverage][1] gives you the play-by-play and the results, I’ll see if I can’t provide any interesting stories about my first constructed Grand Prix event.
 
-**
-    
-Grand Prix Manila, Day Zero
-   
-** 
+**Grand Prix Manila, Day Zero** 
 
 I met up with Switch and Alex at the venue (Megatrade hall in SM Megamall) early and got in by 10 am. I had originally been planning to play the grinders with Kithkin; but since I was planning to play five-color control in the main event I figured I might as well get some practice in and hopefully get 3 byes.
 
@@ -24,11 +20,7 @@ The 25 land count would come back to haunt me, as I kept a two-land hand in the 
 
 Stubbornly, I thought it was only bad luck and went in for another trial. In round one I faced a Kithkin player from Singapore. I was able to keep him under control and win in two games. In round two I faced Elementals, a pretty bad matchup for 5-color control in general, but even worse when I only had 25 lands! Two Fulminator mages sealed game one for him, and in game two I managed to get myself hit by Mind Shatter for 5! Obviously I quickly lost and was dropped from the trial.
 
-_
-    
-"Ang brutal naman ng trials!" –Alex
-   
-_ 
+> "Ang brutal naman ng trials!" – Alex
 
 Alex gave it a try as well, playing Kithkin, but lost in round one of his trial as well.
 
@@ -38,528 +30,193 @@ We spent the rest of the day watching grinders, trading and building a deck for 
 
 At the end of the day, more than 480 players had signed up for the Grand Prix. The turnout would be larger than expected.
 
-**
-    
-Grand Prix Manila, Day One
-   
-** 
+**Grand Prix Manila, Day One** 
 
 Switch, Alex and I again made it to the venue early. Paul made it just before they closed off registration. The turnout was a lot more than expected and the venue couldn’t handle it, so they had to cut the registrants at 640.
 
 These are the decks we played:
 
-**
-    
-Roy
-   
-** 
-   
-, playing
-   
-**
-    
-Five-Color Knuckle-Breaker Control
-   
-** 
+**Roy** , playing **Five-Color Knuckle-Breaker Control** 
 
-  
+{{< cardlist >}}
 
+{{< cardgroup title="Lands" >}}
+4 Vivid Creek
+4 Vivid Grove
+3 Vivid Meadow
+3 Mystic Gate
+3 Cascade Bluffs
+3 Wooded Bastion
+4 Reflecting Pool
+3 Island 
+{{< /cardgroup >}}
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Mulldrifter">Mulldrifter</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Kitchen Finks">Kitchen Finks</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Shriekmaw">Shriekmaw</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Cloudthresher">Cloudthresher</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Archon of Justice">Archon of Justice</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Nucklavee">Nucklavee</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Spells
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Cryptic Command">Cryptic Command</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Broken Ambitions">Broken Ambitions</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Firespout">Firespout</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Hallowed Burial">Hallowed Burial</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Runed Halo">Runed Halo</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Oona's Grace">Oona's Grace</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Call the Skybreaker">Call the Skybreaker</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Makeshift Mannequin">Makeshift Mannequin</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Vivid Creek">Vivid Creek</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Vivid Grove">Vivid Grove</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Vivid Meadow">Vivid Meadow</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Mystic Gate">Mystic Gate</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Cascade Bluffs">Cascade Bluffs</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Wooded Bastion">Wooded Bastion</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Reflecting Pool">Reflecting Pool</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Island">Island</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard:
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Cloudthresher">Cloudthresher</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Plumeveil">Plumeveil</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Shriekmaw">Shriekmaw</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Wispmare">Wispmare</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Runed Halo">Runed Halo</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Austere Command">Austere Command</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Primal Command">Primal Command</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardgroup title="Creatures" >}}
+4 Mulldrifter
+4 Kitchen Finks
+2 Shriekmaw
+2 Cloudthresher
+1 Archon of Justice
+1 Nucklavee 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+4 Cryptic Command
+3 Broken Ambitions
+4 Firespout
+2 Hallowed Burial
+2 Runed Halo
+1 Oona's Grace
+1 Call the Skybreaker
+2 Makeshift Mannequin 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+1 Cloudthresher
+2 Plumeveil
+1 Shriekmaw
+3 Wispmare
+2 Runed Halo
+2 Austere Command
+2 Primal Command 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 I have Call the Skybreaker here because I wanted a finisher and didn't feel like looking for an Oona. Skybreaker seems like it would be awesome in the long game for the mirror. I almost didn't play the 3 Broken Ambitions; I initially had 2 Negate and 1 Crib Swap in that slot, but on the way to the venue I figured the early game defense was better.
 
-**
-    
-Switch,
-   
-** 
-   
-playing
-   
-**
-    
-Elementals
-   
-** 
+**Switch,** playing **Elementals** 
 
-  
+{{< cardlist >}}
 
+{{< cardgroup title="Lands" >}}
+3 primal beyond
+2 reflecting pool
+2 fire-lit thicket
+2 graven cairns
+1 rugged prairie
+1 murmuring bosk
+4 vivid crag
+1 vivid grove
+8 mountain 
+{{< /cardgroup >}}
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=primal beyond">primal beyond</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=reflecting pool">reflecting pool</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=fire-lit thicket">fire-lit thicket</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=graven cairns">graven cairns</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=rugged prairie">rugged prairie</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=murmuring bosk">murmuring bosk</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=vivid crag">vivid crag</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=vivid grove">vivid grove</a>
-    </li>
-    <li>
-      8 <a href="http://magiccards.info/autocard.php?card=mountain">mountain</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=elemental harbinger">elemental harbinger</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=smokebraider">smokebraider</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=mulldrifter">mulldrifter</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=chameleon colossus">chameleon colossus</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=fulminator mage">fulminator mage</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=incandescent soulstoke">incandescent soulstoke</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=vexing shusher">vexing shusher</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=ashenmoor gouger">ashenmoor gouger</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=horde of notions">horde of notions</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=shriekmaw">shriekmaw</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Spells
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=nameless inversion">nameless inversion</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=makeshift mannequin">makeshift mannequin</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=puncture blast">puncture blast</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=reveillark">reveillark</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=firespout">firespout</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=wispmare">wispmare</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=crib swap">crib swap</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=wild ricochet">wild ricochet</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=spitebellows">spitebellows</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=spiteful visions">spiteful visions</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=soul snuffers">soul snuffers</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardgroup title="Creatures" >}}
+4 elemental harbinger
+2 smokebraider
+4 mulldrifter
+3 chameleon colossus
+2 fulminator mage
+1 incandescent soulstoke
+2 vexing shusher
+4 ashenmoor gouger
+2 horde of notions
+1 shriekmaw 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+2 nameless inversion
+1 makeshift mannequin
+4 puncture blast 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+2 reveillark
+4 firespout
+1 wispmare
+2 crib swap
+2 wild ricochet
+2 spitebellows
+1 spiteful visions
+1 soul snuffers 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 The manabase here is pretty iffy. We basically tossed in whatever spare duals we had and looked for a third Primal Beyond to assemble this deck. Those Colossuses were signed by Darrel Riche after round five!
 
-**
-    
-Paul
-   
-** 
-   
-, playing
-   
-**
-    
-Mirror Master
-   
-** 
+**Paul** , playing **Mirror Master** 
 
-  
+{{< cardlist >}}
 
+{{< cardgroup title="Lands" >}}
+4 Windbrisk Heights
+4 Rustic Clachan
+2 Mutavault
+16 Plains 
+{{< /cardgroup >}}
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Burrenton Forge-Tender">Burrenton Forge-Tender</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Goldmeadow Stalwart">Goldmeadow Stalwart</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Figure of Destiny">Figure of Destiny</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Wizened Cenn">Wizened Cenn</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Knight of Meadowgrain">Knight of Meadowgrain</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Cloudgoat Ranger">Cloudgoat Ranger</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Thistledown Liege">Thistledown Liege</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Wilt-Leaf Liege">Wilt-Leaf Liege</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Spells
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Spectral Procession">Spectral Procession</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mirror Weave">Mirror Weave</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Unmake">Unmake</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Windbrisk Heights">Windbrisk Heights</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Rustic Clachan">Rustic Clachan</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mutavault">Mutavault</a>
-    </li>
-    <li>
-      16 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard:
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Oblivion Ring">Oblivion Ring</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Crib Swap">Crib Swap</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Wispmare">Wispmare</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Pollen Lullaby">Pollen Lullaby</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Reveillark">Reveillark</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Moonglove Extract">Moonglove Extract</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardgroup title="Creatures" >}}
+4 Burrenton Forge-Tender
+4 Goldmeadow Stalwart
+4 Figure of Destiny
+4 Wizened Cenn
+3 Knight of Meadowgrain
+4 Cloudgoat Ranger
+1 Thistledown Liege
+1 Wilt-Leaf Liege 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+4 Spectral Procession
+2 Mirror Weave
+3 Unmake 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+1 Oblivion Ring
+2 Crib Swap
+2 Wispmare
+3 Pollen Lullaby
+2 Reveillark
+3 Moonglove Extract 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
+
 
 Paul came in and I handed him the Kithkin deck he would be playing, and we had a few test games; him so that he actually knows how to play his deck, and me so that I would actually know how to beat Kithkin.
 
-**
-    
-Alex
-   
-** 
-   
-playing
-   
-**
-    
-Necroskitter
-   
-** 
+**Alex** playing **Necroskitter** 
 
-  
+{{< cardlist >}}
 
+{{< cardgroup title="Lands" >}}
+4 Graven Cairns
+2 Leechridden Swamp
+4 Mountains
+9 Swamps
+4 Auntie's Hovel 
+{{< /cardgroup >}}
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Stillmoon Cavaliers">Stillmoon Cavaliers</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Necroskitter">Necroskitter</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Murderous Redcap">Murderous Redcap</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Soul Snuffers">Soul Snuffers</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Shriekmaw">Shriekmaw</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Dread">Dread</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Spells
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Lash Out">Lash Out</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Puncture Blast">Puncture Blast</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Makeshift Mannequin">Makeshift Mannequin</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Incremental Blight">Incremental Blight</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Syphon Life">Syphon Life</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Graven Cairns">Graven Cairns</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Leechridden Swamp">Leechridden Swamp</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Mountains">Mountains</a>
-    </li>
-    <li>
-      9 <a href="http://magiccards.info/autocard.php?card=Swamps">Swamps</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Auntie's Hovel">Auntie's Hovel</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mind Shatter">Mind Shatter</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Unmake">Unmake</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Trip Noose">Trip Noose</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Faerie Macabre">Faerie Macabre</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Demigod of Revenge">Demigod of Revenge</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardgroup title="Creatures" >}}
+4 Stillmoon Cavaliers
+4 Necroskitter
+4 Murderous Redcap
+4 Soul Snuffers
+4 Shriekmaw
+2 Dread 
+{{< /cardgroup >}}
 
+{{< cardgroup title="Spells" >}}
+4 Lash Out
+4 Puncture Blast
+3 Makeshift Mannequin
+3 Incremental Blight
+1 Syphon Life 
+{{< /cardgroup >}}
 
-  
-_
-    
-(Alex, this was the last decklist you gave me, just tell me if it's wrong)
-   
-_ 
+{{< cardgroup title="Sideboard" >}}
+2 Mind Shatter
+3 Unmake
+3 Trip Noose
+3 Faerie Macabre
+4 Demigod of Revenge 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
+
+_(Alex, this was the last decklist you gave me, just tell me if it's wrong)_ 
    
 The Demigods were a last-minute addition to the sideboard because after building all four decks we didn't have any deck that would use them. We also had four Bitterblossoms that went unused.
 
