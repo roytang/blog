@@ -15,7 +15,8 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 &nbsp;&nbsp;Pack 1 pick 1:
   
 
-  
+<div class="draft_container">
+
 <img src="http://www.wizards.com/global/images/magic/ZEN/blood_seeker.jpg" class="card" />
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/goblin_bushwhacker.jpg" class="card" />
@@ -48,7 +49,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -56,7 +57,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 1 pick 2:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/nimana_sell_sword.jpg" class="card" />
   
@@ -88,7 +89,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -96,7 +97,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 1 pick 3:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/goblin_bushwhacker.jpg" class="card" />
   
@@ -126,7 +127,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -134,7 +135,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 1 pick 4:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/ior_ruin_expedition.jpg" class="card" />
   
@@ -162,7 +163,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -170,7 +171,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 1 pick 5:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/grazing_gladehart.jpg" class="card" />
   
@@ -196,13 +197,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/grazing_gladehart.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 6:
+&nbsp;&nbsp;Pack 1 pick 6: <div class="draft_container">
   
 
   
@@ -228,13 +229,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/whiplash_trap.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 7:
+&nbsp;&nbsp;Pack 1 pick 7: <div class="draft_container">
   
 
   
@@ -258,13 +259,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/nimana_sell_sword.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 8:
+&nbsp;&nbsp;Pack 1 pick 8: <div class="draft_container">
   
 
   
@@ -286,13 +287,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/soaring_seacliff.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 9:
+&nbsp;&nbsp;Pack 1 pick 9: <div class="draft_container">
   
 
   
@@ -312,13 +313,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/mind_sludge.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 10:
+&nbsp;&nbsp;Pack 1 pick 10: <div class="draft_container">
   
 
   
@@ -336,13 +337,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/vastwood_gorger.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 11:
+&nbsp;&nbsp;Pack 1 pick 11: <div class="draft_container">
   
 
   
@@ -358,13 +359,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/lethargy_trap.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 12:
+&nbsp;&nbsp;Pack 1 pick 12: <div class="draft_container">
   
 
   
@@ -378,13 +379,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/merfolk_wayfinder.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 13:
+&nbsp;&nbsp;Pack 1 pick 13: <div class="draft_container">
   
 
   
@@ -396,13 +397,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/sunspring_expedition.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 14:
+&nbsp;&nbsp;Pack 1 pick 14: <div class="draft_container">
   
 
   
@@ -412,13 +413,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/piranha_marsh.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 1 pick 15:
+&nbsp;&nbsp;Pack 1 pick 15: <div class="draft_container">
   
 
   
@@ -426,7 +427,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -434,7 +435,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 2 pick 1:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/relic_crush.jpg" class="card" />
   
@@ -468,7 +469,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -476,7 +477,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 2 pick 2:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/nimbus_wings.jpg" class="card" />
   
@@ -508,7 +509,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -516,7 +517,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 2 pick 3:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/hagra_crocodile.jpg" class="card" />
   
@@ -546,7 +547,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -554,7 +555,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 2 pick 4:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/hedron_scrabbler.jpg" class="card" />
   
@@ -582,7 +583,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -590,7 +591,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 2 pick 5:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/cliff_threader.jpg" class="card" />
   
@@ -616,13 +617,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/sky_ruin_drake.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 6:
+&nbsp;&nbsp;Pack 2 pick 6: <div class="draft_container">
   
 
   
@@ -648,13 +649,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/nimana_sell_sword.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 7:
+&nbsp;&nbsp;Pack 2 pick 7: <div class="draft_container">
   
 
   
@@ -678,13 +679,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/heartstabber_mosquito.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 8:
+&nbsp;&nbsp;Pack 2 pick 8: <div class="draft_container">
   
 
   
@@ -706,13 +707,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/ior_ruin_expedition.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 9:
+&nbsp;&nbsp;Pack 2 pick 9: <div class="draft_container">
   
 
   
@@ -732,13 +733,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/lavaball_trap.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 10:
+&nbsp;&nbsp;Pack 2 pick 10: <div class="draft_container">
   
 
   
@@ -756,13 +757,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/tempest_owl.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 11:
+&nbsp;&nbsp;Pack 2 pick 11: <div class="draft_container">
   
 
   
@@ -778,13 +779,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/hagra_crocodile.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 12:
+&nbsp;&nbsp;Pack 2 pick 12: <div class="draft_container">
   
 
   
@@ -798,13 +799,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/hedron_scrabbler.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 13:
+&nbsp;&nbsp;Pack 2 pick 13: <div class="draft_container">
   
 
   
@@ -816,13 +817,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/piranha_marsh.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 14:
+&nbsp;&nbsp;Pack 2 pick 14: <div class="draft_container">
   
 
   
@@ -832,13 +833,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/spell_pierce.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 2 pick 15:
+&nbsp;&nbsp;Pack 2 pick 15: <div class="draft_container">
   
 
   
@@ -846,7 +847,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -854,7 +855,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 3 pick 1:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/highland_berserker.jpg" class="card" />
   
@@ -888,7 +889,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -896,7 +897,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 3 pick 2:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/goblin_war_paint.jpg" class="card" />
   
@@ -928,7 +929,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -936,7 +937,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 3 pick 3:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/stonework_puma.jpg" class="card" />
   
@@ -966,7 +967,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -974,7 +975,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 3 pick 4:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/zendikar_farguide.jpg" class="card" />
   
@@ -1002,7 +1003,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
@@ -1010,7 +1011,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
 
 &nbsp;&nbsp;Pack 3 pick 5:
   
-
+<div class="draft_container">
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/caller_of_gales.jpg" class="card" />
   
@@ -1036,13 +1037,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/welkin_tern.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 6:
+&nbsp;&nbsp;Pack 3 pick 6: <div class="draft_container">
   
 
   
@@ -1068,13 +1069,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/giant_scorpion.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 7:
+&nbsp;&nbsp;Pack 3 pick 7: <div class="draft_container">
   
 
   
@@ -1098,13 +1099,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/giant_scorpion.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 8:
+&nbsp;&nbsp;Pack 3 pick 8: <div class="draft_container">
   
 
   
@@ -1126,13 +1127,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/soaring_seacliff.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 9:
+&nbsp;&nbsp;Pack 3 pick 9: <div class="draft_container">
   
 
   
@@ -1152,13 +1153,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/grim_discovery.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 10:
+&nbsp;&nbsp;Pack 3 pick 10: <div class="draft_container">
   
 
   
@@ -1176,13 +1177,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/hagra_crocodile.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 11:
+&nbsp;&nbsp;Pack 3 pick 11: <div class="draft_container">
   
 
   
@@ -1198,13 +1199,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/stonework_puma.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 12:
+&nbsp;&nbsp;Pack 3 pick 12: <div class="draft_container">
   
 
   
@@ -1218,13 +1219,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/bog_tatters.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 13:
+&nbsp;&nbsp;Pack 3 pick 13: <div class="draft_container">
   
 
   
@@ -1236,13 +1237,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/desecrated_earth.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 14:
+&nbsp;&nbsp;Pack 3 pick 14: <div class="draft_container">
   
 
   
@@ -1252,13 +1253,13 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   
 <img src="http://www.wizards.com/global/images/magic/ZEN/forest.jpg" class="pick" />
 
-&nbsp;&nbsp;Pack 3 pick 15:
+&nbsp;&nbsp;Pack 3 pick 15: <div class="draft_container">
   
 
   
@@ -1266,7 +1267,7 @@ I was able to chain a sealed event into a number of drafts this weekend. Here's 
   
 
   
-&nbsp;&nbsp;My Pick:
+</div>My Pick: 
   
 
   

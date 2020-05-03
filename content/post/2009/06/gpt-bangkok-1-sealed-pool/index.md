@@ -12,349 +12,123 @@ The first GPT for Bangkok was last Saturday, May 23, 2009 at Robinson's Galleria
 
 Here's the pool I was given to work with:
 
-<div class="decklist_wrap">
-  <table width="100%" border="1">
-    <tr>
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            White
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Cradle of Vitality">Cradle of Vitality</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Excommunicate">Excommunicate</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Rockcaster Platoon">Rockcaster Platoon</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Welkin Guide">Welkin Guide</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Asha's Favor">Asha's Favor</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Aven Trailblazer">Aven Trailblazer</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Lapse of Certainty">Lapse of Certainty</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Paragon of the Amesha">Paragon of the Amesha</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Valiant Guard">Valiant Guard</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Blue and Blue Hybrid
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Call to Heel">Call to Heel</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Cloudheath Drake">Cloudheath Drake</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Coma Veil">Coma Veil</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Kathari Screecher">Kathari Screecher</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Protomatter Powder">Protomatter Powder</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Faerie Mechanist">Faerie Mechanist</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Grixis Illusionist">Grixis Illusionist</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Master Transmuter">Master Transmuter</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Parasitic Strix">Parasitic Strix</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Esper Stormblade">Esper Stormblade</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Black and Black Hybrid
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Archdemon of Unx">Archdemon of Unx</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Bone Splinters">Bone Splinters</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Executioner's Capsule">Executioner's Capsule</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Fleshbag Marauder">Fleshbag Marauder</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Shadowfeed">Shadowfeed</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Absorb Vis">Absorb Vis</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Yoke of the Damned">Yoke of the Damned</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Grixis Grimblade">Grixis Grimblade</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Red and Red Hybrid
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Jund Battlemage">Jund Battlemage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Thunder-Thrash Elder">Thunder-Thrash Elder</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Viashino Skeleton">Viashino Skeleton</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Vithian Stinger">Vithian Stinger</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Kranioceros">Kranioceros</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Toxic Iguanar">Toxic Iguanar</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Volcanic Fallout">Volcanic Fallout</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Jund Hackblade">Jund Hackblade</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Green and Green Hybrid
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Court Archers">Court Archers</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Gift of the Gargantuan">Gift of the Gargantuan</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Topan Ascetic">Topan Ascetic</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Filigree Fracture">Filigree Fracture</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Nacatl Savage">Nacatl Savage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Sylvan Bounty">Sylvan Bounty</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Marisi's Twinclaws">Marisi's Twinclaws</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Naya Hushblade">Naya Hushblade</a>
-          </li>
-        </ul>
-      </td>
-      
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            White-Blue
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Jhessian Balmgiver">Jhessian Balmgiver</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Esper Cormorants">Esper Cormorants</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Aven Mimeomancer">Aven Mimeomancer</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Glassdust Hulk">Glassdust Hulk</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Offering to Asha">Offering to Asha</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Talon Trooper">Talon Trooper</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Blue-Black
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Deny Reality">Deny Reality</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Soul Manipulation">Soul Manipulation</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Black-Red
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Bituminous Blast">Bituminous Blast</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Demonic Dread">Demonic Dread</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Monstrous Carabid">Monstrous Carabid</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Red-Green
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Exploding Borders">Exploding Borders</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Nacatl Outlander">Nacatl Outlander</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Firewild Borderpost">Firewild Borderpost</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Green-White
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Steward of Valeron">Steward of Valeron</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Knight of the Reliquary">Knight of the Reliquary</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Valeron Outlander">Valeron Outlander</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Qasali Pridemage">Qasali Pridemage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Sigil Captain">Sigil Captain</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Sigil of the Nayan Gods">Sigil of the Nayan Gods</a>
-          </li>
-        </ul>
-      </td>
-      
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            Esper
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Windwright Mage">Windwright Mage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Tainted Sigil">Tainted Sigil</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Vectis Dominator">Vectis Dominator</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Jund
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Carrion Thrash">Carrion Thrash</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Morbid Bloom">Morbid Bloom</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Jund Sojourners">Jund Sojourners</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Bant
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Bant Charm">Bant Charm</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Waveskimmer Aven">Waveskimmer Aven</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Skyward Eye Prophets">Skyward Eye Prophets</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Vedalken Heretic">Vedalken Heretic</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Winged Coatl">Winged Coatl</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Grixis
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Drastic Revelation">Drastic Revelation</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Artifacts
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Obelisk of Naya">Obelisk of Naya</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Armillary Sphere">Armillary Sphere</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Kaleidostone">Kaleidostone</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Lands
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Esper Panorama">Esper Panorama</a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+{{< cardlist >}}
+
+{{< cardgroup title="White" >}}
+1 Cradle of Vitality
+1 Excommunicate
+1 Rockcaster Platoon
+1 Welkin Guide
+1 Asha's Favor
+1 Aven Trailblazer
+1 Lapse of Certainty
+1 Paragon of the Amesha
+1 Valiant Guard 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Blue + Hybrid" >}}
+1 Call to Heel
+1 Cloudheath Drake
+1 Coma Veil
+1 Kathari Screecher
+1 Protomatter Powder
+1 Faerie Mechanist
+2 Grixis Illusionist
+1 Master Transmuter
+1 Parasitic Strix
+1 Esper Stormblade 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Black + Hybrid" >}}
+1 Archdemon of Unx
+1 Bone Splinters
+1 Executioner's Capsule
+1 Fleshbag Marauder
+1 Shadowfeed
+1 Absorb Vis
+1 Yoke of the Damned
+1 Grixis Grimblade 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Red + Hybrid" >}}
+1 Jund Battlemage
+1 Thunder-Thrash Elder
+1 Viashino Skeleton
+1 Vithian Stinger
+1 Kranioceros
+1 Toxic Iguanar
+1 Volcanic Fallout
+2 Jund Hackblade 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Green + Hybrid" >}}
+1 Court Archers
+1 Gift of the Gargantuan
+1 Topan Ascetic
+1 Filigree Fracture
+1 Nacatl Savage
+1 Sylvan Bounty
+1 Marisi's Twinclaws
+2 Naya Hushblade 
+{{< /cardgroup >}}
+
+{{< cardgroup title="White/Blue" >}}
+1 Jhessian Balmgiver
+1 Esper Cormorants
+1 Aven Mimeomancer
+1 Glassdust Hulk
+1 Offering to Asha
+1 Talon Trooper 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Blue/Black" >}}
+1 Deny Reality
+1 Soul Manipulation 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Black/Red" >}}
+1 Bituminous Blast
+1 Demonic Dread
+1 Monstrous Carabid 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Red/Green" >}}
+1 Exploding Borders
+1 Nacatl Outlander
+2 Firewild Borderpost 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Green/White" >}}
+1 Steward of Valeron
+1 Knight of the Reliquary
+1 Valeron Outlander
+1 Qasali Pridemage
+1 Sigil Captain
+1 Sigil of the Nayan Gods 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Tricolor" >}}
+1 Windwright Mage
+1 Tainted Sigil
+1 Vectis Dominator
+1 Carrion Thrash
+1 Morbid Bloom
+1 Jund Sojourners
+1 Bant Charm
+1 Waveskimmer Aven
+2 Skyward Eye Prophets
+1 Vedalken Heretic
+1 Winged Coatl
+1 Drastic Revelation
+{{< /cardgroup >}}
+
+{{< cardgroup title="Others" >}}
+1 Obelisk of Naya
+1 Armillary Sphere
+1 Kaleidostone
+1 Esper Panorama
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 Let's try something different and get some audience participation. How would you build this sealed deck? Post your suggestions in the comments below!

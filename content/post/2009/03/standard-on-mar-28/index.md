@@ -10,156 +10,60 @@ url: /2009/03/standard-on-mar-28/
 
 Finally getting back into constructed play, I assembled the following 5-color control deck to bring to battle this weekend:
 
-<div class="decklist_wrap">
-  <!--
+<!-- more -->
+{{< cardlist >}}
 
-<p class='switcher' class="hide"><a href='#' class='hide'>Hide Decklist</a><a href='#' class='show'>Show Decklist</a></p>
+{{< cardgroup title="Lands" >}}
+3 Sunken Ruins
+4 Reflecting Pool
+4 Vivid Creek
+3 Vivid Meadow
+3 Vivid Marsh
+2 Cascade Bluffs
+2 Mystic Gate
+1 Fetid Heath
+1 Vivid Crag
+3 Island 
+{{< /cardgroup >}}
 
---></p> 
-  
-  <div class="decklist">
-    <ul class="decklist_group">
-      <li class="header">
-        Lands
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Sunken Ruins">Sunken Ruins</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Reflecting Pool">Reflecting Pool</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Vivid Creek">Vivid Creek</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Vivid Meadow">Vivid Meadow</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Vivid Marsh">Vivid Marsh</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Cascade Bluffs">Cascade Bluffs</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Mystic Gate">Mystic Gate</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Fetid Heath">Fetid Heath</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Vivid Crag">Vivid Crag</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Island">Island</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Spells
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Celestial Purge">Celestial Purge</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Terror">Terror</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Volcanic Fallout">Volcanic Fallout</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Wrath of God">Wrath of God</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Pithing Needle">Pithing Needle</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Broken Ambitions">Broken Ambitions</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Remove Soul">Remove Soul</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Negate">Negate</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Cruel Ultimatum">Cruel Ultimatum</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Cryptic Command">Cryptic Command</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Esper Charm">Esper Charm</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Liliana Vess">Liliana Vess</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Jace Beleren">Jace Beleren</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Obelisk of Alara">Obelisk of Alara</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Creatures
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Mulldrifter">Mulldrifter</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Plumeveil">Plumeveil</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Wall of Reverence">Wall of Reverence</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Broodmate Dragon">Broodmate Dragon</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Sideboard
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Negate">Negate</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Remove Soul">Remove Soul</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Celestial Purge">Celestial Purge</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Wrath of God">Wrath of God</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=infest">infest</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Scourglass">Scourglass</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Wydwen">Wydwen</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Kitchen Finks">Kitchen Finks</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Jace Beleren">Jace Beleren</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Mulldrifter">Mulldrifter</a>
-      </li>
-    </ul>
-    
-    <div style="clear:both">
-    </div>
-  </div>
-</div>
+{{< cardgroup title="Creatures" >}}
+3 Mulldrifter
+4 Plumeveil
+2 Wall of Reverence
+1 Broodmate Dragon 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+1 Celestial Purge
+1 Terror
+3 Volcanic Fallout
+1 Wrath of God
+1 Pithing Needle
+2 Broken Ambitions
+1 Remove Soul
+1 Negate
+2 Cruel Ultimatum
+4 Cryptic Command
+4 Esper Charm
+1 Liliana Vess
+1 Jace Beleren
+1 Obelisk of Alara 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+1 Negate
+1 Remove Soul
+2 Celestial Purge
+2 Wrath of God
+2 infest
+1 Scourglass
+1 Wydwen
+2 Kitchen Finks
+2 Jace Beleren
+1 Mulldrifter 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 Obviously based on Nassif's deck, but tweaked with some singletons that I like. I'm not exactly sold on 4x [Broken Ambitions][1], so I replaced two with the miser's [Negate][2] and [Remove Soul][3] which was good enough to catch some people by surprise. [Obelisk of Alara][4] replaces the second [Broodmate Dragon][5]; while it's not as quick a finisher as the dragon, it has the added effect of helping to stabilize the board. It pretty much acts like a planeswalker, except it's harder to remove.
 
@@ -249,30 +153,30 @@ Pretty good performance. I actually only wanted to get in some practice before C
 
 It looks Five-Color Control will be my weapon of choice in Standard, at least until Alara Reborn kicks in and we have to evaluate the metagame again. I need more practice against BW Tokens and RW decks though, as I'm still not very familiar with those matchups (they became prevalent during my short constructed hiatus). Not sure if I have time to play next week, due to some work activities next weekend, so this may have been my last practice session before City Champs!
 
- [1]: http://magiccards.info/autocard.php?card=Broken Ambitions
+ [1]: http://magiccards.info/autocard.php?card=Broken%20Ambitions
  [2]: http://magiccards.info/autocard.php?card=Negate
- [3]: http://magiccards.info/autocard.php?card=Remove Soul
- [4]: http://magiccards.info/autocard.php?card=Obelisk of Alara
- [5]: http://magiccards.info/autocard.php?card=Broodmate Dragon
- [6]: http://magiccards.info/autocard.php?card=Mind Stone
+ [3]: http://magiccards.info/autocard.php?card=Remove%20Soul
+ [4]: http://magiccards.info/autocard.php?card=Obelisk%20of%20Alara
+ [5]: http://magiccards.info/autocard.php?card=Broodmate%20Dragon
+ [6]: http://magiccards.info/autocard.php?card=Mind%20Stone
  [7]: http://magiccards.info/autocard.php?card=Bitterblossom
- [8]: http://magiccards.info/autocard.php?card=Marsh Flitter
- [9]: http://magiccards.info/autocard.php?card=Grave Pact
- [10]: http://magiccards.info/autocard.php?card=Esper Charm
+ [8]: http://magiccards.info/autocard.php?card=Marsh%20Flitter
+ [9]: http://magiccards.info/autocard.php?card=Grave%20Pact
+ [10]: http://magiccards.info/autocard.php?card=Esper%20Charm
  [11]: http://magiccards.info/autocard.php?card=Plumeveil
- [12]: http://magiccards.info/autocard.php?card=Wall of Reverence
- [13]: http://magiccards.info/autocard.php?card=Cruel Ultimatum
- [14]: http://magiccards.info/autocard.php?card=Reliquary Tower
- [15]: http://magiccards.info/autocard.php?card=Vendillion Clique
- [16]: http://magiccards.info/autocard.php?card=Tidehollow Sculler
- [17]: http://magiccards.info/autocard.php?card=Celestial Purge
- [18]: http://magiccards.info/autocard.php?card=Glorious Anthem
- [19]: http://magiccards.info/autocard.php?card=Ajani Goldmane
- [20]: http://magiccards.info/autocard.php?card=Figure of Destiny
- [21]: http://magiccards.info/autocard.php?card=Battlefield Forge
- [22]: http://magiccards.info/autocard.php?card=Windbrisk Heights
+ [12]: http://magiccards.info/autocard.php?card=Wall%20of%20Reverence
+ [13]: http://magiccards.info/autocard.php?card=Cruel%20Ultimatum
+ [14]: http://magiccards.info/autocard.php?card=Reliquary%20Tower
+ [15]: http://magiccards.info/autocard.php?card=Vendillion%20Clique
+ [16]: http://magiccards.info/autocard.php?card=Tidehollow%20Sculler
+ [17]: http://magiccards.info/autocard.php?card=Celestial%20Purge
+ [18]: http://magiccards.info/autocard.php?card=Glorious%20Anthem
+ [19]: http://magiccards.info/autocard.php?card=Ajani%20Goldmane
+ [20]: http://magiccards.info/autocard.php?card=Figure%20of%20Destiny
+ [21]: http://magiccards.info/autocard.php?card=Battlefield%20Forge
+ [22]: http://magiccards.info/autocard.php?card=Windbrisk%20Heights
  [23]: http://magiccards.info/autocard.php?card=Reveillark
- [24]: http://magiccards.info/autocard.php?card=Flamekin Harbinger
- [25]: http://magiccards.info/autocard.php?card=Siege-Gang Commander
- [26]: http://magiccards.info/autocard.php?card=Oblivion Ring
- [27]: http://magiccards.info/autocard.php?card=Sceptre of Fugue
+ [24]: http://magiccards.info/autocard.php?card=Flamekin%20Harbinger
+ [25]: http://magiccards.info/autocard.php?card=Siege-Gang%20Commander
+ [26]: http://magiccards.info/autocard.php?card=Oblivion%20Ring
+ [27]: http://magiccards.info/autocard.php?card=Sceptre%20of%20Fugue

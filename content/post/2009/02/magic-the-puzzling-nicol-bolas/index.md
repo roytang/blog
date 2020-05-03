@@ -22,8 +22,8 @@ If player A goes first, can he win? What if player B goes first?
 
 Answers next week!
 
- [1]: http://magiccards.info/autocard.php?card=Nicol Bolas, Planeswalker
- [2]: http://magiccards.info/autocard.php?card=Ajani Vengeant
- [3]: http://magiccards.info/autocard.php?card=Tezzeret the Seeker
- [4]: http://magiccards.info/autocard.php?card=Elspeth, Knight-Errant
- [5]: http://magiccards.info/autocard.php?card=Sarkhan Vol
+ [1]: http://magiccards.info/autocard.php?card=Nicol%20Bolas,%20Planeswalker
+ [2]: http://magiccards.info/autocard.php?card=Ajani%20Vengeant
+ [3]: http://magiccards.info/autocard.php?card=Tezzeret%20the%20Seeker
+ [4]: http://magiccards.info/autocard.php?card=Elspeth,%20Knight-Errant
+ [5]: http://magiccards.info/autocard.php?card=Sarkhan%20Vol

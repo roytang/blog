@@ -19,4 +19,4 @@ Obviously, it's a big change, but it's not as big a change as Sixth Edition was,
  [1]: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/42a
  [2]: http://thethinkinggamer.com/2009/06/10/threats-to-magic-2.aspx
  [3]: http://www.top8magic.com/2009/06/ruined-forever-the-magic-2010-rules-changes-by-zvi-mowshowitz/
- [4]: http://magiccards.info/autocard.php?card=Mogg Fanatic
+ [4]: http://magiccards.info/autocard.php?card=Mogg%20Fanatic

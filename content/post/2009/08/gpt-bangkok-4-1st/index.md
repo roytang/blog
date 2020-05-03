@@ -17,272 +17,102 @@ url: /2009/08/gpt-bangkok-4-1st/
 
 The fourth GPT here was yesterday, Sunday Aug 2 at Robinson's Galleria. The format is M10 Sealed and I found myself faced with the following sealed pool:
 
-<div class="decklist_wrap">
-  <table width="100%" border="1">
-    <tr>
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            White
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Blinding Mage">Blinding Mage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Divine Verdict">Divine Verdict</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Elite Vanguard">Elite Vanguard</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Harm's Way">Harm's Way</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Lifelink">Lifelink</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Palace Guard">Palace Guard</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Righteousness">Righteousness</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Safe Passage">Safe Passage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Serra Angel">Serra Angel</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Silence">Silence</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Veteran Armorsmith">Veteran Armorsmith</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Veteran Swordsmith">Veteran Swordsmith</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Wall of Faith">Wall of Faith</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=White Knight">White Knight</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Blue
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Air Elemental">Air Elemental</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Cancel">Cancel</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Convincing Mirage">Convincing Mirage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Horned Turtle">Horned Turtle</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Ice Cage">Ice Cage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Merfolk Looter">Merfolk Looter</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Negate">Negate</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Ponder">Ponder</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Sage Owl">Sage Owl</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Snapping Drake">Snapping Drake</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Traumatize">Traumatize</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Zephyr Sprite">Zephyr Sprite</a>
-          </li>
-        </ul>
-      </td>
-      
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            Black
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Assassinate">Assassinate</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Consume Spirit">Consume Spirit</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Disentomb">Disentomb</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Doom Blade">Doom Blade</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Dread Warlock">Dread Warlock</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Gravedigger">Gravedigger</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Howling Banshee">Howling Banshee</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Kelinore Bat">Kelinore Bat</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Megrim">Megrim</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Relentless Rats">Relentless Rats</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Soul Bleed">Soul Bleed</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Underworld Dreams">Underworld Dreams</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Unholy Strength">Unholy Strength</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Weakness">Weakness</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Zombie Goliath">Zombie Goliath</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Red
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Berserkers of Blood Ridge">Berserkers of Blood Ridge</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Burning Inquiry">Burning Inquiry</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Dragon Whelp">Dragon Whelp</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Goblin Artillery">Goblin Artillery</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Goblin Piker">Goblin Piker</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Jackal Familiar">Jackal Familiar</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Kindled Fury">Kindled Fury</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Lava Axe">Lava Axe</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Panic Attack">Panic Attack</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Shatter">Shatter</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Siege-Gang Commander">Siege-Gang Commander</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Wall of Fire">Wall of Fire</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Warp World">Warp World</a>
-          </li>
-        </ul>
-      </td>
-      
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            Green
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Borderland Ranger">Borderland Ranger</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Bountiful Harvest">Bountiful Harvest</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Craw Wurm">Craw Wurm</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Cudgel Troll">Cudgel Troll</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Deadly Recluse">Deadly Recluse</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Elvish Visionary">Elvish Visionary</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Emerald Oryx">Emerald Oryx</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Garruk Wildspeaker">Garruk Wildspeaker</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Llanowar Elves">Llanowar Elves</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Naturalize">Naturalize</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Rampant Growth">Rampant Growth</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Runeclaw Bear">Runeclaw Bear</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Stampeding Rhino">Stampeding Rhino</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Windstorm">Windstorm</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            Artifacts
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Coat of Arms">Coat of Arms</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Rod of Ruin">Rod of Ruin</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Spellbook">Spellbook</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Wurm's Tooth">Wurm's Tooth</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Terramorphic Expanse">Terramorphic Expanse</a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- more -->
+
+{{< cardlist >}}
+
+{{< cardgroup title="White" >}}
+1 Blinding Mage
+1 Divine Verdict
+1 Elite Vanguard
+1 Harm's Way
+1 Lifelink
+2 Palace Guard
+1 Righteousness
+1 Safe Passage
+1 Serra Angel
+1 Silence
+1 Veteran Armorsmith
+2 Veteran Swordsmith
+1 Wall of Faith
+1 White Knight 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Blue" >}}
+1 Air Elemental
+1 Cancel
+1 Convincing Mirage
+1 Horned Turtle
+1 Ice Cage
+1 Merfolk Looter
+1 Negate
+2 Ponder
+2 Sage Owl
+1 Snapping Drake
+1 Traumatize
+1 Zephyr Sprite 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Black" >}}
+1 Assassinate
+1 Consume Spirit
+2 Disentomb
+2 Doom Blade
+1 Dread Warlock
+1 Gravedigger
+1 Howling Banshee
+1 Kelinore Bat
+1 Megrim
+1 Relentless Rats
+1 Soul Bleed
+1 Underworld Dreams
+1 Unholy Strength
+1 Weakness
+1 Zombie Goliath 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Red" >}}
+1 Berserkers of Blood Ridge
+1 Burning Inquiry
+1 Dragon Whelp
+1 Goblin Artillery
+2 Goblin Piker
+1 Jackal Familiar
+2 Kindled Fury
+1 Lava Axe
+1 Panic Attack
+1 Shatter
+1 Siege-Gang Commander
+1 Wall of Fire
+1 Warp World 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Green" >}}
+1 Borderland Ranger
+1 Bountiful Harvest
+1 Craw Wurm
+1 Cudgel Troll
+1 Deadly Recluse
+2 Elvish Visionary
+1 Emerald Oryx
+1 Garruk Wildspeaker
+1 Llanowar Elves
+1 Naturalize
+1 Rampant Growth
+1 Runeclaw Bear
+2 Stampeding Rhino
+1 Windstorm 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Others" >}}
+1 Coat of Arms
+1 Rod of Ruin
+1 Spellbook
+1 Wurm's Tooth
+1 Terramorphic Expanse 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 This was only my second time with M10 Sealed, but the pool looked pretty solid to me. Having a planeswalker is a big deal, so I was already sure the primary would be green. The question was the secondary color. White offered [Blinding Mage][2], [Serra Angel][3], a solid curve of creatures and the fantastic [Safe Passage][4]. Black gave us a lot of removal, plus some solid evasive creatures. Red and blue gave us some good cards but seemed a bit shallow, so I was left choosing between black and white.
 
@@ -290,104 +120,41 @@ In the end white got the nod for the secondary, with black as tertiary splash fo
 
 Here's the list I played:
 
-<div class="decklist_wrap">
-  <table width="100%" border="1">
-    <tr>
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            Lands
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Terramorphic Expanse">Terramorphic Expanse</a>
-          </li>
-          <li>
-            7 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Swamp">Swamp</a>
-          </li>
-          <li>
-            8 <a href="http://magiccards.info/autocard.php?card=Forest">Forest</a>
-          </li>
-        </ul>
-      </td>
-      
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            Creatures
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Blinding Mage">Blinding Mage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Elite Vanguard">Elite Vanguard</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Serra Angel">Serra Angel</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Veteran Armorsmith">Veteran Armorsmith</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Veteran Swordsmith">Veteran Swordsmith</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=White Knight">White Knight</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Borderland Ranger">Borderland Ranger</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Craw Wurm">Craw Wurm</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Cudgel Troll">Cudgel Troll</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Deadly Recluse">Deadly Recluse</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Elvish Visionary">Elvish Visionary</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Llanowar Elves">Llanowar Elves</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Runeclaw Bear">Runeclaw Bear</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Stampeding Rhino">Stampeding Rhino</a>
-          </li>
-        </ul>
-      </td>
-      
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            Spells
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Harm's Way">Harm's Way</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Safe Passage">Safe Passage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Assassinate">Assassinate</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Doom Blade">Doom Blade</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Garruk Wildspeaker">Garruk Wildspeaker</a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+1 Terramorphic Expanse
+7 Plains
+1 Swamp
+8 Forest 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+1 Blinding Mage
+1 Elite Vanguard
+1 Serra Angel
+1 Veteran Armorsmith
+2 Veteran Swordsmith
+1 White Knight
+1 Borderland Ranger
+1 Craw Wurm
+1 Cudgel Troll
+1 Deadly Recluse
+2 Elvish Visionary
+1 Llanowar Elves
+1 Runeclaw Bear
+2 Stampeding Rhino 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+1 Harm's Way
+1 Safe Passage
+1 Assassinate
+2 Doom Blade
+1 Garruk Wildspeaker 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 Yes, I left [Divine Verdict][6] in the board. I'm brilliant that way.
 
@@ -435,158 +202,60 @@ Pack 3, pick 1: I chose [Armored Ascension][20] over [Sunpetal Grove][21]. Heh, 
 
 I think I passed too many evasive guys. My draft deck ended up U/W, ground stall + fliers with light permission.
 
-<div class="decklist_wrap">
-  <table width="100%" border="1">
-    <tr>
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            Lands
-          </li>
-          <li>
-            9 <a href="http://magiccards.info/autocard.php?card=Islands">Islands</a>
-          </li>
-          <li>
-            8 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-          </li>
-        </ul>
-      </td>
-      
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            Creatures
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Baneslayer Angel">Baneslayer Angel</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Blinding Mage">Blinding Mage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Griffin Sentinel">Griffin Sentinel</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Razorfoot Griffin">Razorfoot Griffin</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Rhox Pikemaster">Rhox Pikemaster</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Siege Mastodon">Siege Mastodon</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Soul Warden">Soul Warden</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Horned Turtle">Horned Turtle</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Illusionary Servant">Illusionary Servant</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Snapping Drake">Snapping Drake</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Wall of Frost">Wall of Frost</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Wind Drake">Wind Drake</a>
-          </li>
-        </ul>
-      </td>
-      
-      <td style="vertical-align: top">
-        <ul class="decklist_group">
-          <li class="header">
-            Spells
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Divine Verdict">Divine Verdict</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Safe Passage">Safe Passage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Cancel">Cancel</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Divination">Divination</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Essence Scatter">Essence Scatter</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Ice Cage">Ice Cage</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Negate">Negate</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Whispersilk Cloak">Whispersilk Cloak</a>
-          </li>
-        </ul>
-        
-        <ul class="decklist_group">
-          <li class="header">
-            On the Bench
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Armored Ascension">Armored Ascension</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Celestial Purge">Celestial Purge</a>
-          </li>
-          <li>
-            2 <a href="http://magiccards.info/autocard.php?card=Solemn Offering">Solemn Offering</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Undead Slayer">Undead Slayer</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Disorient">Disorient</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Flashfreeze">Flashfreeze</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Negate">Negate</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Disentomb">Disentomb</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Drudge Skeletons">Drudge Skeletons</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Soul Bleed">Soul Bleed</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Vampire Aristocrat">Vampire Aristocrat</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Weakness">Weakness</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Trumpet Blast">Trumpet Blast</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Yawning Fissure">Yawning Fissure</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Demon's Horn">Demon's Horn</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Gorgon Flail">Gorgon Flail</a>
-          </li>
-          <li>
-            1 <a href="http://magiccards.info/autocard.php?card=Magebane Armor">Magebane Armor</a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+9 Islands
+8 Plains 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+1 Baneslayer Angel
+1 Blinding Mage
+1 Griffin Sentinel
+1 Razorfoot Griffin
+1 Rhox Pikemaster
+1 Siege Mastodon
+1 Soul Warden
+1 Horned Turtle
+2 Illusionary Servant
+2 Snapping Drake
+1 Wall of Frost
+1 Wind Drake 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+2 Divine Verdict
+1 Safe Passage
+1 Cancel
+1 Divination
+1 Essence Scatter
+1 Ice Cage
+1 Negate
+1 Whispersilk Cloak 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+1 Armored Ascension
+2 Celestial Purge
+2 Solemn Offering
+1 Undead Slayer
+1 Disorient
+1 Flashfreeze
+1 Negate
+1 Disentomb
+1 Drudge Skeletons
+1 Soul Bleed
+1 Vampire Aristocrat
+1 Weakness
+1 Trumpet Blast
+1 Yawning Fissure
+1 Demon's Horn
+1 Gorgon Flail
+1 Magebane Armor 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 Among the top 8, there were only two of us going to Bangkok, so my quarters opponent graciously gave way and the finals opponent agreed to prize splits, et cetera.
 
@@ -605,32 +274,32 @@ Although the draft and the actual quarters match was more luck than skill, a win
 19 days remain until [Grand Prix Bangkok][1]... 
 
  [1]: http://www.wizards.com/magic/Magazine/Article.aspx?x=mtgcom/grandprix/bangkok09
- [2]: http://magiccards.info/autocard.php?card=Blinding Mage
- [3]: http://magiccards.info/autocard.php?card=Serra Angel
- [4]: http://magiccards.info/autocard.php?card=Safe Passage
+ [2]: http://magiccards.info/autocard.php?card=Blinding%20Mage
+ [3]: http://magiccards.info/autocard.php?card=Serra%20Angel
+ [4]: http://magiccards.info/autocard.php?card=Safe%20Passage
  [5]: http://magiccards.info/autocard.php?card=Overrun
- [6]: http://magiccards.info/autocard.php?card=Divine Verdict
- [7]: http://magiccards.info/autocard.php?card=Siege Mastodon
- [8]: http://magiccards.info/autocard.php?card=Harm's Way
- [9]: http://magiccards.info/autocard.php?card=Kelinore Bat
- [10]: http://magiccards.info/autocard.php?card=Doom Blade
- [11]: http://magiccards.info/autocard.php?card=Whispersilk Cloak
- [12]: http://magiccards.info/autocard.php?card=Ant Queen
- [13]: http://magiccards.info/autocard.php?card=Borderland Ranger
+ [6]: http://magiccards.info/autocard.php?card=Divine%20Verdict
+ [7]: http://magiccards.info/autocard.php?card=Siege%20Mastodon
+ [8]: http://magiccards.info/autocard.php?card=Harm's%20Way
+ [9]: http://magiccards.info/autocard.php?card=Kelinore%20Bat
+ [10]: http://magiccards.info/autocard.php?card=Doom%20Blade
+ [11]: http://magiccards.info/autocard.php?card=Whispersilk%20Cloak
+ [12]: http://magiccards.info/autocard.php?card=Ant%20Queen
+ [13]: http://magiccards.info/autocard.php?card=Borderland%20Ranger
  [14]: http://magiccards.info/autocard.php?card=Fireball
- [15]: http://magiccards.info/autocard.php?card=Prodigal Pyromancers
- [16]: http://magiccards.info/autocard.php?card=Dragon Whelp
- [17]: http://magiccards.info/autocard.php?card=Howl of the Night Pack
+ [15]: http://magiccards.info/autocard.php?card=Prodigal%20Pyromancers
+ [16]: http://magiccards.info/autocard.php?card=Dragon%20Whelp
+ [17]: http://magiccards.info/autocard.php?card=Howl%20of%20the%20Night%20Pack
  [18]: http://magiccards.info/autocard.php?card=Weakness
- [19]: http://magiccards.info/autocard.php?card=Baneslayer Angel
- [20]: http://magiccards.info/autocard.php?card=Armored Ascension
- [21]: http://magiccards.info/autocard.php?card=Sunpetal Grove
- [22]: http://magiccards.info/autocard.php?card=Soul Warden
- [23]: http://magiccards.info/autocard.php?card=Sage Owl
- [24]: http://magiccards.info/autocard.php?card=Hypnotic Spectre
- [25]: http://magiccards.info/autocard.php?card=Ice Cage
- [26]: http://magiccards.info/autocard.php?card=Griffin Sentinel
- [27]: http://magiccards.info/autocard.php?card=Phantom Warrior
- [28]: http://magiccards.info/autocard.php?card=Alluring Sirens
- [29]: http://magiccards.info/autocard.php?card=Illusionary Servant
+ [19]: http://magiccards.info/autocard.php?card=Baneslayer%20Angel
+ [20]: http://magiccards.info/autocard.php?card=Armored%20Ascension
+ [21]: http://magiccards.info/autocard.php?card=Sunpetal%20Grove
+ [22]: http://magiccards.info/autocard.php?card=Soul%20Warden
+ [23]: http://magiccards.info/autocard.php?card=Sage%20Owl
+ [24]: http://magiccards.info/autocard.php?card=Hypnotic%20Spectre
+ [25]: http://magiccards.info/autocard.php?card=Ice%20Cage
+ [26]: http://magiccards.info/autocard.php?card=GriffinSentinel
+ [27]: http://magiccards.info/autocard.php?card=Phantom%20Warrior
+ [28]: http://magiccards.info/autocard.php?card=Alluring%20Sirens
+ [29]: http://magiccards.info/autocard.php?card=Illusionary%20Servant
  [30]: http://twitter.com/roytang/status/3086843964

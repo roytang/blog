@@ -10,303 +10,111 @@ url: /2009/05/alara-reborn-release/
 
 Alara Reborn is finally available locally! For a while I thought about heading to Baguio for the King of the North tournament, but the fact is I have no standard deck ready at the moment. Besides, I wanted to practice sealed deckbuilding for the upcoming Bangkok GPTs, so this morning I was sleeving up a 40-card deck at Robinson's Galleria.
 
-<div class="decklist_wrap">
-  <!--
+{{< cardlist >}}
 
-<p class='switcher' class="hide"><a href='#' class='hide'>Hide Decklist</a><a href='#' class='show'>Show Decklist</a></p>
+{{< cardgroup title="Lands" >}}
+1 Jungle Shrine
+3 Plains
+6 Island
+5 Swamp 
+{{< /cardgroup >}}
 
---></p> 
-  
-  <div class="decklist">
-    <ul class="decklist_group">
-      <li class="header">
-        Lands
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Jungle Shrine">Jungle Shrine</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-      </li>
-      <li>
-        6 <a href="http://magiccards.info/autocard.php?card=Island">Island</a>
-      </li>
-      <li>
-        5 <a href="http://magiccards.info/autocard.php?card=Swamp">Swamp</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Creatures
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Cloudheath Drake">Cloudheath Drake</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Master of Etherium">Master of Etherium</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Fleshbag Marauder">Fleshbag Marauder</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Viscera Dragger">Viscera Dragger</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sharuum the Hegemon">Sharuum the Hegemon</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Tower Gargoyle">Tower Gargoyle</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Ethersworn Shieldmage">Ethersworn Shieldmage</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Glassdust Hulk">Glassdust Hulk</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sanctum Plowbeast">Sanctum Plowbeast</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Jhessian Zombies">Jhessian Zombies</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Lord of Extinction">Lord of Extinction</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Grixis Grimblade">Grixis Grimblade</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Spells
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Oblivion Ring">Oblivion Ring</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Scourglass">Scourglass</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Agony Warp">Agony Warp</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Kiss of the Amesha">Kiss of the Amesha</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Obelisk of Bant">Obelisk of Bant</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Mistvein Borderpost">Mistvein Borderpost</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Behemoth Sledge">Behemoth Sledge</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Wildfield Borderpost">Wildfield Borderpost</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Slave of Bolas">Slave of Bolas</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Crystallization">Crystallization</a>
-      </li>
-    </ul>
-    
-    <div style="clear:both">
-    </div>
-  </div>
-</div>
+{{< cardgroup title="Creatures" >}}
+1 Cloudheath Drake
+1 Master of Etherium
+1 Fleshbag Marauder
+1 Viscera Dragger
+1 Sharuum the Hegemon
+1 Tower Gargoyle
+2 Ethersworn Shieldmage
+1 Glassdust Hulk
+1 Sanctum Plowbeast
+2 Jhessian Zombies
+1 Lord of Extinction
+2 Grixis Grimblade 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+1 Oblivion Ring
+1 Scourglass
+1 Agony Warp
+1 Kiss of the Amesha
+1 Obelisk of Bant
+1 Mistvein Borderpost
+1 Behemoth Sledge
+1 Wildfield Borderpost
+1 Slave of Bolas
+1 Crystallization 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 And the rest of the pool:
 
-<div class="decklist_wrap">
-  <!--
+{{< cardlist >}}
 
-<p class='switcher' class="hide"><a href='#' class='hide'>Hide Decklist</a><a href='#' class='show'>Show Decklist</a></p>
+{{< cardgroup title="Monocolor" >}}
+1 Akrasan Squire
+1 Angel's Herald
+1 Guardians of Akrasa
+1 Knight of the Skyward Eye
+1 Fatestitcher
+1 Protomatter Powder
+1 Resounding Wave
+1 Skill Borrower
+1 Tortoise Formation
+1 Dreg Reaver
+1 Glaze Fiend
+1 Resounding Scream
+1 Shadowfeed
+1 Shore Snapper
+1 Dragon Fodder
+1 Scourge Devil
+1 Soul's Fire
+1 Druid of the Anima
+1 Gift of the Gargantuan
+1 Mighty Emergence
+2 Resounding Roar
+1 Soul's Might 
+{{< /cardgroup >}}
 
---></p> 
-  
-  <div class="decklist">
-    <ul class="decklist_group">
-      <li class="header">
-        Monocolor
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Akrasan Squire">Akrasan Squire</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Angel's Herald">Angel's Herald</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Guardians of Akrasa">Guardians of Akrasa</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Knight of the Skyward Eye">Knight of the Skyward Eye</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Fatestitcher">Fatestitcher</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Protomatter Powder">Protomatter Powder</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Resounding Wave">Resounding Wave</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Skill Borrower">Skill Borrower</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Tortoise Formation">Tortoise Formation</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Dreg Reaver">Dreg Reaver</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Glaze Fiend">Glaze Fiend</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Resounding Scream">Resounding Scream</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Shadowfeed">Shadowfeed</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Shore Snapper">Shore Snapper</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Dragon Fodder">Dragon Fodder</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Scourge Devil">Scourge Devil</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Soul's Fire">Soul's Fire</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Druid of the Anima">Druid of the Anima</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Gift of the Gargantuan">Gift of the Gargantuan</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Mighty Emergence">Mighty Emergence</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Resounding Roar">Resounding Roar</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Soul's Might">Soul's Might</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Two Colors
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Branching Bolt">Branching Bolt</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Kederekt Creeper">Kederekt Creeper</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Rip-Clan Crasher">Rip-Clan Crasher</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sigil Blessing">Sigil Blessing</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Thoughtcutter Agent">Thoughtcutter Agent</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Waveskimmer Aven">Waveskimmer Aven</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Jund Panorama">Jund Panorama</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sovereigns of Lost Alara">Sovereigns of Lost Alara</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Brainbite">Brainbite</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Illusory Demon">Illusory Demon</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Kathari Remnant">Kathari Remnant</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Igneous Pouncer">Igneous Pouncer</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Terminate">Terminate</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Valley Rannet">Valley Rannet</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Grizzled Leotau">Grizzled Leotau</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Leonin Armorguard">Leonin Armorguard</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sigil Captain">Sigil Captain</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sigiled Behemoth">Sigiled Behemoth</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Vectis Dominator">Vectis Dominator</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Cerodon Yearling">Cerodon Yearling</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Intimidation Bolt">Intimidation Bolt</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Nulltread Gargantuan">Nulltread Gargantuan</a>
-      </li>
-    </ul>
-    
-    <ul class="decklist_group">
-      <li class="header">
-        Three Colors
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Esper Sojourners">Esper Sojourners</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Drastic Revelation">Drastic Revelation</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Grixis Sojourners">Grixis Sojourners</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Madrush Cyclops">Madrush Cyclops</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Bant Sojourners">Bant Sojourners</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Flurry of Wings">Flurry of Wings</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Trace of Abundance">Trace of Abundance</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Bant Sureblade">Bant Sureblade</a>
-      </li>
-    </ul>
-    
-    <div style="clear:both">
-    </div>
-  </div>
-</div>
+{{< cardgroup title="Two Color" >}}
+1 Branching Bolt
+1 Kederekt Creeper
+1 Rip-Clan Crasher
+1 Sigil Blessing
+1 Thoughtcutter Agent
+1 Waveskimmer Aven
+1 Jund Panorama
+1 Sovereigns of Lost Alara
+2 Brainbite
+1 Illusory Demon
+2 Kathari Remnant
+1 Igneous Pouncer
+1 Terminate
+2 Valley Rannet
+2 Grizzled Leotau
+1 Leonin Armorguard
+1 Sigil Captain
+1 Sigiled Behemoth
+1 Vectis Dominator
+2 Cerodon Yearling
+1 Intimidation Bolt
+1 Nulltread Gargantuan 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Three Color" >}}
+1 Esper Sojourners
+1 Drastic Revelation
+1 Grixis Sojourners
+1 Madrush Cyclops
+1 Bant Sojourners
+1 Flurry of Wings
+1 Trace of Abundance
+1 Bant Sureblade 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 After the debacle with last week's manabase during the prerelease, I was more conservative with the colors. I resisted the urge to go for the additional removal offered by red and [Terminate][1]. [Lord of Extinction][2] and [Behemoth Sledge][3] were very tempting though, since they're outright bombs.
 
@@ -349,24 +157,24 @@ Didn't get the 4-0, but still in terms of deck building this one was a lot bette
 Next week is constructed (Regionals), but I don't have any deck lined up yet and will most likely cook something up the day before. I'll probably be playing something simple, aggro, red or all of the above. We'll see next week.
 
  [1]: http://magiccards.info/autocard.php?card=Terminate
- [2]: http://magiccards.info/autocard.php?card=Lord of Extinction
- [3]: http://magiccards.info/autocard.php?card=Behemoth Sledge
- [4]: http://magiccards.info/autocard.php?card=Grixis Grimblade
- [5]: http://magiccards.info/autocard.php?card=Jungle Shrine
- [6]: http://magiccards.info/autocard.php?card=Obelisk of Bant
- [7]: http://magiccards.info/autocard.php?card=Wildfield Borderpost
- [8]: http://magiccards.info/autocard.php?card=Spellbreaker Behemoth
- [9]: http://magiccards.info/autocard.php?card=Madrush Cyclops
+ [2]: http://magiccards.info/autocard.php?card=Lord%20of%20Extinction
+ [3]: http://magiccards.info/autocard.php?card=Behemoth%20Sledge
+ [4]: http://magiccards.info/autocard.php?card=Grixis%20Grimblade
+ [5]: http://magiccards.info/autocard.php?card=Jungle%20Shrine
+ [6]: http://magiccards.info/autocard.php?card=Obelisk%20of%20Bant
+ [7]: http://magiccards.info/autocard.php?card=Wildfield%20Borderpost
+ [8]: http://magiccards.info/autocard.php?card=Spellbreaker%20Behemoth
+ [9]: http://magiccards.info/autocard.php?card=Madrush%20Cyclops
  [10]: http://magiccards.info/autocard.php?card=Scourglass
- [11]: http://magiccards.info/autocard.php?card=Karthus, Tyrant of Jund
- [12]: http://magiccards.info/autocard.php?card=Master of Etherium
- [13]: http://magiccards.info/autocard.php?card=Vengeful Rebirth
- [14]: http://magiccards.info/autocard.php?card=Cloudhearth Drake
- [15]: http://magiccards.info/autocard.php?card=Glassdust Hulk
- [16]: http://magiccards.info/autocard.php?card=Sharuum the Hegemon
- [17]: http://magiccards.info/autocard.php?card=Ethersworn Shieldmage
- [18]: http://magiccards.info/autocard.php?card=Intimidation Bolt
- [19]: http://magiccards.info/autocard.php?card=Goblin Deathraiders
- [20]: http://magiccards.info/autocard.php?card=Hissing Iguanar
- [21]: http://magiccards.info/autocard.php?card=Sewn-Eye Drake
- [22]: http://magiccards.info/autocard.php?card=Tower Gargoyle
+ [11]: http://magiccards.info/autocard.php?card=Karthus,%20Tyrant%20of%20Jund
+ [12]: http://magiccards.info/autocard.php?card=Master%20of%20Etherium
+ [13]: http://magiccards.info/autocard.php?card=Vengeful%20Rebirth
+ [14]: http://magiccards.info/autocard.php?card=Cloudhearth%20Drake
+ [15]: http://magiccards.info/autocard.php?card=Glassdust%20Hulk
+ [16]: http://magiccards.info/autocard.php?card=Sharuum%20the%20Hegemon
+ [17]: http://magiccards.info/autocard.php?card=Ethersworn%20Shieldmage
+ [18]: http://magiccards.info/autocard.php?card=Intimidation%20Bolt
+ [19]: http://magiccards.info/autocard.php?card=Goblin%20Deathraiders
+ [20]: http://magiccards.info/autocard.php?card=Hissing%20Iguanar
+ [21]: http://magiccards.info/autocard.php?card=Sewn-Eye%20Drake
+ [22]: http://magiccards.info/autocard.php?card=Tower%20Gargoyle

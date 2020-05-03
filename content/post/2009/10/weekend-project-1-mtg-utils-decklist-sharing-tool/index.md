@@ -14,13 +14,12 @@ I had the decklist parsing and autocarding code available for a while (and used 
 
 Some notes:
   
--- the Django template engine included with GAE seems to be earlier than version 1, as the escapejs filter wasn't available and I had to write it myself. Still, being familiar with the Django template engine helped a lot
-  
--- WordPress.com blogs don't allow Javascript inside the posts, so the blog sharing code I provide won't work there. It works on Blogger though. I'll look for a workaround... (iframes?)
-  
--- I've yet to try using memcache, so the current version doesn't cache anything, I mean to try it in a future version
-  
--- yes, I put adsense ads there. I was like, why not? 😀
+- the Django template engine included with GAE seems to be earlier than version 1, as the escapejs filter wasn't available and I had to write it myself. Still, being familiar with the Django template engine helped a lot
+- WordPress.com blogs don't allow Javascript inside the posts, so the blog sharing code I provide won't work there. It works on Blogger though. I'll look for a workaround... (iframes?)
+- I've yet to try using memcache, so the current version doesn't cache anything, I mean to try it in a future version
+- yes, I put adsense ads there. I was like, why not? 😀
+
+Update May 2020: The app used to be deployed on Google App Engine, but is no longer available. I've since uploaded the code to Github at https://github.com/roytang/mtg-utils
 
  [1]: http://appengine.google.com/
  [2]: http://mtg-utils.appspot.com/deck/

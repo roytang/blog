@@ -58,7 +58,7 @@ And the rest of the pool:
 
 {{< cardlist >}}
 
-[Monocolor]
+{{< cardgroup title="Monocolor" >}}
 1 Akrasan Squire
 1 Angelsong
 1 Knight-Captain of Eos
@@ -84,9 +84,9 @@ And the rest of the pool:
 1 Naturalize
 2 Obelisk of Bant
 1 Obelisk of Jund
-[/Monocolor]
+{{< /cardgroup >}}
 
-[Two Colors]
+{{< cardgroup title="Two Colors" >}}
 1 Ethercaste Knight
 1 Ethersworn Shieldmage
 1 Offering to Asha
@@ -105,9 +105,9 @@ And the rest of the pool:
 1 Double Negative
 1 Magefire Wings
 1 Sages of the Anima
-[/Two Colors]
+{{< /cardgroup >}}
 
-[Three Colors]
+{{< cardgroup title="Three Colors" >}}
 1 Esper Charm
 1 Tower Gargoyle
 1 Etherwrought Page
@@ -117,7 +117,7 @@ And the rest of the pool:
 1 Grixis Grimblade
 1 Sewn-Eye Drake
 1 Trace of Abundance
-[/Three Colors]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

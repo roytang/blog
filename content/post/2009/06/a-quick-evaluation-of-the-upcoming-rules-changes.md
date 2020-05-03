@@ -17,5 +17,5 @@ Among our group, 50% are actively playing competitively, so we can't say that we
 
 (We also opened zero planeswalkers, only 1 [Maelstrom Pulse][1] and 1 [Noble Hierarch][2] et cetera. Not so good returns from the boxen in terms of cash cards... )
 
- [1]: http://magiccards.info/autocard.php?card=Maelstrom Pulse
- [2]: http://magiccards.info/autocard.php?card=Noble Hierarch
+ [1]: http://magiccards.info/autocard.php?card=Maelstrom%20Pulse
+ [2]: http://magiccards.info/autocard.php?card=Noble%20Hierarch

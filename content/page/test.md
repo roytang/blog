@@ -37,3 +37,25 @@ Test 3 {{< footnote >}}Third footnote{{< /footnote >}}
 {{< /cardgroup >}}
 
 {{< /cardlist >}}
+
+{{< cardlist >}}
+
+{{< cardgroup title="White" >}}
+{{< /cardgroup >}}
+
+{{< cardgroup title="Blue" >}}
+{{< /cardgroup >}}
+
+{{< cardgroup title="Black" >}}
+{{< /cardgroup >}}
+
+{{< cardgroup title="Red" >}}
+{{< /cardgroup >}}
+
+{{< cardgroup title="Green" >}}
+{{< /cardgroup >}}
+
+{{< cardgroup title="Others" >}}
+{{< /cardgroup >}}
+
+{{< /cardlist >}}

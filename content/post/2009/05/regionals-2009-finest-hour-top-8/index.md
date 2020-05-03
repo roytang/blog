@@ -12,122 +12,51 @@ Last Friday, I was still unsure what to play at Regionals this year, having deci
 
 However, due to card availability issues, I didn't have any [Dauntless Escort][3]s and only 1 [Noble Hierarch][4]. I moved cards around and tried to fit in [Vendillion Clique][5], which would serve as an additional evasive attacker on top of [Shorecrasher Mimic][6] and [Jhessian Infiltrator][7], plus a little extra disruption. The decklist I turned in on Sunday for Regionals:
 
-<div class="decklist_wrap">
-  <div class="decklist">
-    <ul class="decklist_group">
-      <li class="header">
-        Lands (24)
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Treetop Village">Treetop Village</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Seaside Citadel">Seaside Citadel</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Yavimaya Coast">Yavimaya Coast</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Brushland">Brushland</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Adarkar Wastes">Adarkar Wastes</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Wooded Bastion">Wooded Bastion</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Mystic Gate">Mystic Gate</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Flooded Grove">Flooded Grove</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Reflecting Pool">Reflecting Pool</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Forest">Forest</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Island">Island</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-      </li>
-    </ul>
-    <ul class="decklist_group">
-      <li class="header">
-        Creatures (26)
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Birds of Paradise">Birds of Paradise</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Noble Hierarch">Noble Hierarch</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Shorecrasher Mimic">Shorecrasher Mimic</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Jhessian Infiltrator">Jhessian Infiltrator</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Gaddock Teeg">Gaddock Teeg</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Vendillion Clique">Vendillion Clique</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Rhox War Monk">Rhox War Monk</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Rafiq of the Many">Rafiq of the Many</a>
-      </li>
-    </ul>
-    <ul class="decklist_group">
-      <li class="header">
-        Spells (10)
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Negate">Negate</a>
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Bant Charm">Bant Charm</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Elspeth, Knight-Errant">Elspeth, Knight-Errant</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Finest Hour">Finest Hour</a>
-      </li>
-    </ul>
-    <ul class="decklist_group">
-      <li class="header">
-        Sideboard
-      </li>
-      <li>
-        4 <a href="http://magiccards.info/autocard.php?card=Kitchen Finks">Kitchen Finks</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Burrenton Forge-Tender">Burrenton Forge-Tender</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Sower of Temptation">Sower of Temptation</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Negate">Negate</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Windborn Muse">Windborn Muse</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Oversoul of Dusk">Oversoul of Dusk</a>
-      </li>
-    </ul>
-    <div style="clear:both">
-    </div>
-  </div>
-</div>
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+4 Treetop Village
+3 Seaside Citadel
+3 Yavimaya Coast
+4 Brushland
+2 Adarkar Wastes
+1 Wooded Bastion
+1 Mystic Gate
+1 Flooded Grove
+1 Reflecting Pool
+1 Forest
+2 Island
+1 Plains 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+4 Birds of Paradise
+1 Noble Hierarch
+4 Shorecrasher Mimic
+4 Jhessian Infiltrator
+2 Gaddock Teeg
+3 Vendillion Clique
+4 Rhox War Monk
+4 Rafiq of the Many 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+2 Negate
+4 Bant Charm
+1 Elspeth, Knight-Errant
+3 Finest Hour 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+4 Kitchen Finks
+3 Burrenton Forge-Tender
+2 Sower of Temptation
+2 Negate
+2 Windborn Muse
+2 Oversoul of Dusk 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 Here's the quick tournament report:
 

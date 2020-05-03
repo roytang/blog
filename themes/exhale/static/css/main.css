@@ -813,10 +813,10 @@ details summary {
     border: 4px var(--main-color) solid;
 }
 
-.draft_navmenu + div {
+.draft_navmenu + div, .draft_container {
     padding: 1em;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fill, 8rem);
 }
 
 .draft_navmenu a {

@@ -14,197 +14,80 @@ You may have noticed the new color scheme and new "Theme Switcher" widget in the
 
 The model is simple:
 
-<div class="hl_wrap">
-  <table class="sourcetable">
-    <tr>
-      <td class="linenos">
-        <pre>1
-2
-3
-4
-5
-6
-7</pre>
-      </td>
-      
-      <td class="code">
-        <div class="source">
-          <pre><span class="k">class</span> <span class="nc">Theme</span><span class="p">(</span><span class="n">models</span><span class="o">.</span><span class="n">Model</span><span class="p">):</span>
-    <span class="n">slug</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">SlugField</span><span class="p">()</span>
-    <span class="n">title</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">CharField</span><span class="p">(</span><span class="n">max_length</span><span class="o">=</span><span class="mf">250</span><span class="p">)</span>
-    <span class="n">css_path</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">CharField</span><span class="p">(</span><span class="n">max_length</span><span class="o">=</span><span class="mf">500</span><span class="p">)</span>
+{{< highlight python >}}
+class Theme(models.Model):
+    slug = models.SlugField()
+    title = models.CharField(max_length=250)
+    css_path = models.CharField(max_length=500)
 
-    <span class="k">def</span> <span class="nf">__str__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">title</span>
-</pre>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+    def __str__(self):
+        return self.title
+{{< /highlight >}}        
 
 I only needed one view -- to switch the current theme.
 
 Added the ff to urls.py:
 
-<div class="hl_wrap">
-  <table class="sourcetable">
-    <tr>
-      <td class="linenos">
-        <pre>1</pre>
-      </td>
-      
-      <td class="code">
-        <div class="source">
-          <pre><span class="p">(</span><span class="s">r'^theme/([a-zA-Z0-9\-]+)/'</span><span class="p">,</span> <span class="s">'themer.views.switch'</span><span class="p">),</span>
-</pre>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+{{< highlight python >}}
+(r'^theme/([a-zA-Z0-9\-]+)/', 'themer.views.switch'),
+{{< /highlight >}}        
 
 The view code simply stores the selected theme as a cookie:
 
-<div class="hl_wrap">
-  <table class="sourcetable">
-    <tr>
-      <td class="linenos">
-        <pre>1
-2
-3
-4
-5
-6
-7
-8
-9</pre>
-      </td>
-      
-      <td class="code">
-        <div class="source">
-          <pre><span class="k">def</span> <span class="nf">switch</span><span class="p">(</span><span class="n">request</span><span class="p">,</span> <span class="n">theme_slug</span><span class="p">):</span>
-  <span class="sd">""" Sets a cookie to specify the new theme, then redirects to the referer or root url """</span>
-  <span class="n">theme</span> <span class="o">=</span> <span class="n">get_object_or_404</span><span class="p">(</span><span class="n">Theme</span><span class="p">,</span> <span class="n">slug</span><span class="o">=</span><span class="n">theme_slug</span><span class="p">)</span>
-  <span class="n">referer</span> <span class="o">=</span> <span class="s">"/"</span>
-  <span class="k">if</span> <span class="s">"HTTP_REFERER"</span> <span class="ow">in</span> <span class="n">request</span><span class="o">.</span><span class="n">META</span><span class="p">:</span>
-    <span class="n">referer</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">META</span><span class="p">[</span><span class="s">"HTTP_REFERER"</span><span class="p">]</span>
-  <span class="n">resp</span> <span class="o">=</span> <span class="n">HttpResponseRedirect</span><span class="p">(</span><span class="n">referer</span><span class="p">)</span>
-  <span class="n">resp</span><span class="o">.</span><span class="n">set_cookie</span><span class="p">(</span><span class="s">"theme"</span><span class="p">,</span> <span class="n">theme_slug</span><span class="p">,</span> <span class="mf">100000</span><span class="p">)</span>
-  <span class="k">return</span> <span class="n">resp</span>
-</pre>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+{{< highlight python >}}
+def switch(request, theme_slug):
+  """ Sets a cookie to specify the new theme, then redirects to the referer or root url """
+  theme = get_object_or_404(Theme, slug=theme_slug)
+  referer = "/"
+  if "HTTP_REFERER" in request.META:
+    referer = request.META["HTTP_REFERER"]
+  resp = HttpResponseRedirect(referer)
+  resp.set_cookie("theme", theme_slug, 100000)
+  return resp
+{{< /highlight >}}
 
 To load the stylesheet, I set up a [context processor][1] to pass both the current theme and the list of themes to the context. I wanted to do this using template tags, but I couldn't figure out how to extract a cookie from within a template tag.
 
-<div class="hl_wrap">
-  <table class="sourcetable">
-    <tr>
-      <td class="linenos">
-        <pre> 1
- 2
- 3
- 4
- 5
- 6
- 7
- 8
- 9
-10
-11
-12
-13
-14
-15</pre>
-      </td>
-      
-      <td class="code">
-        <div class="source">
-          <pre><span class="kn">from</span> <span class="nn">themer.models</span> <span class="kn">import</span> <span class="n">Theme</span>
-<span class="k">def</span> <span class="nf">context_processor</span><span class="p">(</span><span class="n">request</span><span class="p">):</span>
-    <span class="n">theme_list</span> <span class="o">=</span> <span class="n">Theme</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">all</span><span class="p">()</span>
-    <span class="k">if</span> <span class="s">"theme"</span> <span class="ow">in</span> <span class="n">request</span><span class="o">.</span><span class="n">COOKIES</span><span class="p">:</span>
-        <span class="n">slug</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">COOKIES</span><span class="p">[</span><span class="s">"theme"</span><span class="p">]</span>
-        <span class="k">try</span><span class="p">:</span>
-            <span class="n">theme</span> <span class="o">=</span> <span class="n">Theme</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">slug</span><span class="o">=</span><span class="n">slug</span><span class="p">)</span>
-        <span class="k">except</span> <span class="n">Theme</span><span class="o">.</span><span class="n">DoesNotExist</span><span class="p">:</span>
-            <span class="n">theme</span> <span class="o">=</span> <span class="bp">None</span>
-    <span class="k">else</span><span class="p">:</span>
-        <span class="k">if</span> <span class="n">theme_list</span><span class="o">.</span><span class="n">count</span><span class="p">()</span> <span class="o">&gt;</span> <span class="mf"></span><span class="p">:</span>
-            <span class="n">theme</span> <span class="o">=</span> <span class="n">theme_list</span><span class="p">[</span><span class="mf"></span><span class="p">]</span>
-        <span class="k">else</span><span class="p">:</span>
-            <span class="n">theme</span> <span class="o">=</span> <span class="bp">None</span>
-    <span class="k">return</span> <span class="p">{</span><span class="s">"current_theme"</span> <span class="p">:</span> <span class="n">theme</span><span class="p">,</span> <span class="s">"theme_list"</span> <span class="p">:</span> <span class="n">theme_list</span><span class="p">}</span>
-</pre>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+{{< highlight python >}}
+from themer.models import Theme
+def context_processor(request):
+    theme_list = Theme.objects.all()
+    if "theme" in request.COOKIES:
+        slug = request.COOKIES["theme"]
+        try:
+            theme = Theme.objects.get(slug=slug)
+        except Theme.DoesNotExist:
+            theme = None
+    else:
+        if theme_list.count() > 0:
+            theme = theme_list[0]
+        else:
+            theme = None
+    return {"current_theme" : theme, "theme_list" : theme_list}
+{{< /highlight >}}
 
 Then in my base template file, I add the following to the head section:
 
-<div class="hl_wrap">
-  <table class="sourcetable">
-    <tr>
-      <td class="linenos">
-        <pre>1</pre>
-      </td>
-      
-      <td class="code">
-        <div class="source">
-          <pre><span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">href=</span><span class="s">"{{ current_theme.css_path }}"</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="nt">/&gt;</span>
-</pre>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+{{< highlight html >}}
+<link rel="stylesheet" href="{{ current_theme.css_path }}" type="text/css" />
+{{< /highlight >}}
 
 And add the list of themes into the sidebar.
 
-<div class="hl_wrap">
-  <table class="sourcetable">
-    <tr>
-      <td class="linenos">
-        <pre> 1
- 2
- 3
- 4
- 5
- 6
- 7
- 8
- 9
-10
-11
-12</pre>
-      </td>
-      
-      <td class="code">
-        <div class="source">
-          <pre><span class="nt">&lt;h2&gt;</span>Theme Switcher<span class="nt">&lt;/h2&gt;</span>
-<span class="nt">&lt;ul&gt;</span>
+{{< highlight html >}}
+<h2>Theme Switcher</h2>
+<ul>
             {% for theme in theme_list %}
-            <span class="nt">&lt;li&gt;</span>
+            <li>
             {% ifequal theme.slug current_theme.slug %}
-            {{ theme.title }} <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"note"</span><span class="nt">&gt;</span>(current)<span class="nt">&lt;/span&gt;</span>
+            {{ theme.title }} <span class="note">(current)</span>
             {% else %}
-            <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"{% url themer.views.switch theme.slug %}"</span> <span class="na">title=</span><span class="s">"Switch to {{ theme.title }} theme"</span><span class="nt">&gt;</span>{{ theme.title }}<span class="nt">&lt;/a&gt;</span>
+            <a href="{% url themer.views.switch theme.slug %}" title="Switch to {{ theme.title }} theme">{{ theme.title }}</a>
             {% endifequal %}
-            <span class="nt">&lt;/li&gt;</span>
+            </li>
             {% endfor %}
-            <span class="nt">&lt;/ul&gt;</span>
-</pre>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+            </ul>
+{{< /highlight >}}
 
 And we're done!
 
