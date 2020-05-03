@@ -12,227 +12,86 @@ I decided to attend the Conflux release event last Saturday, Feb 7 at Neutral Gr
 
 I registered a mediocre pool and got passed one of roughly the same quality level. Here's my deck:
 
-<div class="decklist_wrap">
-  <div class="decklist">
-    <ul class="decklist_group">
-      <li class="header">
-        Land
-      </li>
-      <li>
-        5 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Swamp">Swamp</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Mountain">Mountain</a>
-      </li>
-      <li>
-        6 <a href="http://magiccards.info/autocard.php?card=Forest">Forest</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Rupture Spire">Rupture Spire</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Unstable Frontier">Unstable Frontier</a>
-      </li>
-    </ul>
-    <ul class="decklist_group">
-      <li class="header">
-        Creatures
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Aerie Mystics">Aerie Mystics</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Aven Trailblazer">Aven Trailblazer</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Rhox Meditant">Rhox Meditant</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Ember Weaver">Ember Weaver</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Gluttonous Slime">Gluttonous Slime</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sacellum Archers">Sacellum Archers</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Wild Leotau">Wild Leotau</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Nacatl Outlander">Nacatl Outlander</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Valeron Outlander">Valeron Outlander</a>
-      </li>
-    </ul>
-    <ul class="decklist_group">
-      <li class="header">
-        Spells
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Celestial Purge">Celestial Purge</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Path to Exile">Path to Exile</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Scepter of Dominance">Scepter of Dominance</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Drag Down">Drag Down</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Fiery Fall">Fiery Fall</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Exploding Borders">Exploding Borders</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Armillary Sphere">Armillary Sphere</a>
-      </li>
-    </ul>
-    <ul class="decklist_group">
-      <li class="header">
-        Sideboard
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Gleam of Resistance">Gleam of Resistance</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Lapse of Certainty">Lapse of Certainty</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sigil of the Empty Throne">Sigil of the Empty Throne</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Brackwater Elemental">Brackwater Elemental</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Constricting Tendrils">Constricting Tendrils</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Frontline Sage">Frontline Sage</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Grixis Illusionist">Grixis Illusionist</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Inkwell Leviathan">Inkwell Leviathan</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Traumatic Visions">Traumatic Visions</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Worldly Counsel">Worldly Counsel</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Absorb Vis">Absorb Vis</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Corrupted Roots">Corrupted Roots</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Grixis Slavedriver">Grixis Slavedriver</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Infectious Horror">Infectious Horror</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Pestilent Kathari">Pestilent Kathari</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Rotting Rats">Rotting Rats</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Yoke of the Damned">Yoke of the Damned</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Hellspark Elemental">Hellspark Elemental</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Kranioceros">Kranioceros</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Maniacal Rage">Maniacal Rage</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Molten Frame">Molten Frame</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Quenchable Fire">Quenchable Fire</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Toxic Iguanar">Toxic Iguanar</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Wandering Goblins">Wandering Goblins</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Gluttonous Slime">Gluttonous Slime</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Nacatl Savage">Nacatl Savage</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Scattershot Archer">Scattershot Archer</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Spore Burst">Spore Burst</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Tukatongue Thallid">Tukatongue Thallid</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Elder Mastery">Elder Mastery</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Fusion Elemental">Fusion Elemental</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Gwafa Hazid, Profiteer">Gwafa Hazid, Profiteer</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Hellkite Hatchling">Hellkite Hatchling</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Rhox Bodyguard">Rhox Bodyguard</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Sphinx Summoner">Sphinx Summoner</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Suicidal Charge">Suicidal Charge</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Vectis Agents">Vectis Agents</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Vedalken Outlander">Vedalken Outlander</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Armillary Sphere">Armillary Sphere</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Font of Mythos">Font of Mythos</a>
-      </li>
-      <li>
-        3 <a href="http://magiccards.info/autocard.php?card=Mana Cylix">Mana Cylix</a>
-      </li>
-      <li>
-        2 <a href="http://magiccards.info/autocard.php?card=Manaforce Mace">Manaforce Mace</a>
-      </li>
-      <li>
-        1 <a href="http://magiccards.info/autocard.php?card=Reliquary Tower">Reliquary Tower</a>
-      </li>
-    </ul>
-    <div style="clear:both">
-    </div>
-  </div>
-</div>
+{{< cardlist >}}
+
+{{< cardgroup title="Lands" >}}
+5 Plains
+1 Swamp
+2 Mountain
+6 Forest
+2 Rupture Spire
+1 Unstable Frontier 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+1 Aerie Mystics
+2 Aven Trailblazer
+1 Rhox Meditant
+2 Ember Weaver
+1 Gluttonous Slime
+1 Sacellum Archers
+2 Wild Leotau
+1 Nacatl Outlander
+2 Valeron Outlander 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+2 Celestial Purge
+1 Path to Exile
+1 Scepter of Dominance
+2 Drag Down
+2 Fiery Fall
+1 Exploding Borders
+1 Armillary Sphere 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+2 Gleam of Resistance
+1 Lapse of Certainty
+1 Sigil of the Empty Throne
+1 Brackwater Elemental
+1 Constricting Tendrils
+2 Frontline Sage
+1 Grixis Illusionist
+1 Inkwell Leviathan
+1 Traumatic Visions
+1 Worldly Counsel
+2 Absorb Vis
+1 Corrupted Roots
+1 Grixis Slavedriver
+1 Infectious Horror
+2 Pestilent Kathari
+2 Rotting Rats
+1 Yoke of the Damned
+1 Hellspark Elemental
+2 Kranioceros
+1 Maniacal Rage
+1 Molten Frame
+1 Quenchable Fire
+2 Toxic Iguanar
+1 Wandering Goblins
+1 Gluttonous Slime
+1 Nacatl Savage
+2 Scattershot Archer
+1 Spore Burst
+1 Tukatongue Thallid
+1 Elder Mastery
+1 Fusion Elemental
+1 Gwafa Hazid, Profiteer
+1 Hellkite Hatchling
+1 Rhox Bodyguard
+1 Sphinx Summoner
+1 Suicidal Charge
+1 Vectis Agents
+2 Vedalken Outlander
+1 Armillary Sphere
+1 Font of Mythos
+3 Mana Cylix
+2 Manaforce Mace
+1 Reliquary Tower 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 As you can note, I used only 1 out of 6 of my rares. People at nearby tables were exclaiming how they got so many bombs they were using 5 out of 6 rares. Well, whatever, that's how sealed deck goes. For my build, I was trying to go for early starts with 2- and 3-drops and just use the removal to take them out of the way and go aggro before any of my opponent's bombs could come online. I wish I could've fitted in the 2nd [Armillary Sphere][1] and the 2 [Gleam of Resistance][2], but I didn't want to have to cut more creatures.
 
@@ -244,10 +103,10 @@ It's easy to blame the deck, but there were so many issues during deck construct
 
 Looking at the upcoming NG events, most are for extended so I guess I will still not be playing much Magic in February. Gives me time to think of a deck I want to play.
 
- [1]: http://magiccards.info/autocard.php?card=Armillary Sphere
- [2]: http://magiccards.info/autocard.php?card=Gleam of Resistance
- [3]: http://magiccards.info/autocard.php?card=Volcanic Fallout
- [4]: http://magiccards.info/autocard.php?card=Martial Coup
+ [1]: http://magiccards.info/autocard.php?card=Armillary%20Sphere
+ [2]: http://magiccards.info/autocard.php?card=Gleam%20of%20Resistance
+ [3]: http://magiccards.info/autocard.php?card=Volcanic%20Fallout
+ [4]: http://magiccards.info/autocard.php?card=Martial%20Coup
  [5]: http://magiccards.info/autocard.php?card=Banefire
- [6]: http://magiccards.info/autocard.php?card=Drag Down
- [7]: http://magiccards.info/autocard.php?card=Scattershot Archers
+ [6]: http://magiccards.info/autocard.php?card=Drag%20Down
+ [7]: http://magiccards.info/autocard.php?card=Scattershot%20Archers

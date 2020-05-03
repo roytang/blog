@@ -12,282 +12,105 @@ It's my first Magic outing after more than a month of hibernation. Hopefully Con
 
 Usually I have to register an awesome pool and then get passed a mediocre one. I knew it was different this time around when the guy two seats to my right announced he was able to form a good Naya deck from the Shards of Alara packs alone! As fate would have it, we passed pools two seats to the left and I got that pool, which mostly built itself:
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Akrasan Squire">Akrasan Squire</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Sighted-Caste Sorcerer">Sighted-Caste Sorcerer</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Bloodpyre Elemental">Bloodpyre Elemental</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Exuberant Firestoker">Exuberant Firestoker</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Hissing Iguanar">Hissing Iguanar</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Elvish Visionary">Elvish Visionary</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Jungle Weaver">Jungle Weaver</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Mosstodon">Mosstodon</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Spearbreaker Behemoth">Spearbreaker Behemoth</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Godsire">Godsire</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Woolly Thoctar">Woolly Thoctar</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Aven Squire">Aven Squire</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Rhox Meditant">Rhox Meditant</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Wall of Reverence">Wall of Reverence</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Scattershot Archer">Scattershot Archer</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Spells
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Oblivion Ring">Oblivion Ring</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Resounding Silence">Resounding Silence</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Resounding Thunder">Resounding Thunder</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Skeletonize">Skeletonize</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Branching Bolt">Branching Bolt</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Obelisk of Naya">Obelisk of Naya</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Arcane Sanctum">Arcane Sanctum</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Jund Panorama">Jund Panorama</a>
-    </li>
-    <li>
-      6 <a href="http://magiccards.info/autocard.php?card=Plains">Plains</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Mountain">Mountain</a>
-    </li>
-    <li>
-      5 <a href="http://magiccards.info/autocard.php?card=Forest">Forest</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Angelsong">Angelsong</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Dispeller's Capsule">Dispeller's Capsule</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Cathartic Adept">Cathartic Adept</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Cloudheath Drake">Cloudheath Drake</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier's Capsule</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Fatestitcher">Fatestitcher</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Jhessian Lookout">Jhessian Lookout</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Kathari Screecher">Kathari Screecher</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Kederekt Leviathan">Kederekt Leviathan</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Steelclad Serpent">Steelclad Serpent</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Bone Splinters">Bone Splinters</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Shadowfeed">Shadowfeed</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Lightning Talons">Lightning Talons</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Scourge Devil">Scourge Devil</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Godtoucher">Godtoucher</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Savage Hunger">Savage Hunger</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Agony Warp">Agony Warp</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Bant Charm">Bant Charm</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Blightning">Blightning</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Sangrite Surge">Sangrite Surge</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Tower Gargoyle">Tower Gargoyle</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Obelisk of Bant">Obelisk of Bant</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Celestial Purge">Celestial Purge</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Court Homunculus">Court Homunculus</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Brackwater Elemental">Brackwater Elemental</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Cumber Stone">Cumber Stone</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Frontline Sage">Frontline Sage</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Parasitic Strix">Parasitic Strix</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Scornful Aether-Lich">Scornful Aether-Lich</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Traumatic Visions">Traumatic Visions</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Worldly Counsel">Worldly Counsel</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Dreadwing">Dreadwing</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Infectious Horror">Infectious Horror</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Pestilent Kathari">Pestilent Kathari</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Rotting Rats">Rotting Rats</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Wretched Banquet">Wretched Banquet</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Canyon Minotaur">Canyon Minotaur</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Dark Temper">Dark Temper</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Hellspark Elemental">Hellspark Elemental</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Maniacal Rage">Maniacal Rage</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Molten Frame">Molten Frame</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Viashino Slaughtermaster">Viashino Slaughtermaster</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Wandering Goblins">Wandering Goblins</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Matca Rioters">Matca Rioters</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Might of Alara">Might of Alara</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Sylvan Bounty">Sylvan Bounty</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Giltspire Avenger">Giltspire Avenger</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Goblin Outlander">Goblin Outlander</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Maelstrom Archangel">Maelstrom Archangel</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Rhox Bodyguard">Rhox Bodyguard</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Skyward Eye Prophets">Skyward Eye Prophets</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Suicidal Charge">Suicidal Charge</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Zombie Outlander">Zombie Outlander</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Bone Saw">Bone Saw</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Kaleidostone">Kaleidostone</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardlist >}}
 
-_I need to find a way to format these decklists better... _
+{{< cardgroup title="Lands" >}}
+1 Arcane Sanctum
+1 Jund Panorama
+6 Plains
+4 Mountain
+5 Forest 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Creatures" >}}
+1 Akrasan Squire
+1 Sighted-Caste Sorcerer
+1 Bloodpyre Elemental
+1 Exuberant Firestoker
+1 Hissing Iguanar
+1 Elvish Visionary
+1 Jungle Weaver
+1 Mosstodon
+1 Spearbreaker Behemoth
+1 Godsire
+1 Woolly Thoctar
+2 Aven Squire
+1 Rhox Meditant
+1 Wall of Reverence
+1 Scattershot Archer 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Spells" >}}
+2 Oblivion Ring
+1 Resounding Silence
+1 Resounding Thunder
+1 Skeletonize
+1 Branching Bolt
+1 Obelisk of Naya 
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+1 Angelsong
+1 Dispeller's Capsule
+1 Cathartic Adept
+1 Cloudheath Drake
+1 Courier's Capsule
+1 Fatestitcher
+1 Jhessian Lookout
+1 Kathari Screecher
+1 Kederekt Leviathan
+1 Steelclad Serpent
+1 Bone Splinters
+1 Shadowfeed
+1 Lightning Talons
+1 Scourge Devil
+1 Godtoucher
+1 Savage Hunger
+1 Agony Warp
+1 Bant Charm
+1 Blightning
+1 Sangrite Surge
+1 Tower Gargoyle
+1 Obelisk of Bant
+2 Celestial Purge
+1 Court Homunculus
+1 Brackwater Elemental
+2 Cumber Stone
+1 Frontline Sage
+1 Parasitic Strix
+1 Scornful Aether-Lich
+2 Traumatic Visions
+1 Worldly Counsel
+1 Dreadwing
+1 Infectious Horror
+1 Pestilent Kathari
+1 Rotting Rats
+1 Wretched Banquet
+1 Canyon Minotaur
+2 Dark Temper
+1 Hellspark Elemental
+1 Maniacal Rage
+1 Molten Frame
+1 Viashino Slaughtermaster
+1 Wandering Goblins
+1 Matca Rioters
+1 Might of Alara
+1 Sylvan Bounty
+1 Giltspire Avenger
+1 Goblin Outlander
+1 Maelstrom Archangel
+1 Rhox Bodyguard
+1 Skyward Eye Prophets
+1 Suicidal Charge
+1 Zombie Outlander
+1 Bone Saw
+1 Kaleidostone 
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
+
+
+_I need to find a way to format these decklists better..._
 
 The deck's plan was basically early game skirmish with small exalted guys, use [Wall of Reverence][1] to survive midrange before I let loose with huge 5-power and up fatties. Oh, and hitting a turn 3 Woolly Thoctar is pretty good too -- which I managed to do in all of the rounds I won. I _really_ wanted to use the [Maelstrom Archangel][2] but sadly there was not enough support.
 
@@ -343,26 +166,26 @@ Not a bad prerelease, and Conflux looks fun, but I'm not too sure how good the f
 
 Still not sure if I'll be playing constructed again anytime soon... 
 
- [1]: http://magiccards.info/autocard.php?card=Wall of Reverence
- [2]: http://magiccards.info/autocard.php?card=Maelstrom Archangel
- [3]: http://magiccards.info/autocard.php?card=Spearbreaker Behemoth
+ [1]: http://magiccards.info/autocard.php?card=Wall%20of%20Reverence
+ [2]: http://magiccards.info/autocard.php?card=Maelstrom%20Archangel
+ [3]: http://magiccards.info/autocard.php?card=Spearbreaker%20Behemoth
  [4]: http://magiccards.info/autocard.php?card=Godsire
- [5]: http://magiccards.info/autocard.php?card=Woolly Thoctar
- [6]: http://magiccards.info/autocard.php?card=Oblivion Ring
- [7]: http://magiccards.info/autocard.php?card=Scepter of Dominance
- [8]: http://magiccards.info/autocard.php?card=Vithian Stinger
- [9]: http://magiccards.info/autocard.php?card=Scattershot Archers
+ [5]: http://magiccards.info/autocard.php?card=Woolly%20Thoctar
+ [6]: http://magiccards.info/autocard.php?card=Oblivion%20Ring
+ [7]: http://magiccards.info/autocard.php?card=Scepter%20of%20Dominance
+ [8]: http://magiccards.info/autocard.php?card=Vithian%20Stinger
+ [9]: http://magiccards.info/autocard.php?card=Scattershot%20Archers
  [10]: http://magiccards.info/autocard.php?card=Malfegor
- [11]: http://magiccards.info/autocard.php?card=Aven Squire
- [12]: http://magiccards.info/autocard.php?card=Sighted-Caste Sorcerer
- [13]: http://magiccards.info/autocard.php?card=Akrasan Squire
- [14]: http://magiccards.info/autocard.php?card=Celestial Purge
- [15]: http://magiccards.info/autocard.php?card=Savage Hunger
- [16]: http://magiccards.info/autocard.php?card=Dark Temper
- [17]: http://magiccards.info/autocard.php?card=Exuberant Firestoker
- [18]: http://magiccards.info/autocard.php?card=Fleshbag Marauder
- [19]: http://magiccards.info/autocard.php?card=Rip-clan Crasher
- [20]: http://magiccards.info/autocard.php?card=Dragon Fodder
- [21]: http://magiccards.info/autocard.php?card=Volcanic Fallout
- [22]: http://magiccards.info/autocard.php?card=Path to Exile
+ [11]: http://magiccards.info/autocard.php?card=Aven%20Squire
+ [12]: http://magiccards.info/autocard.php?card=Sighted-Caste%20Sorcerer
+ [13]: http://magiccards.info/autocard.php?card=Akrasan%20Squire
+ [14]: http://magiccards.info/autocard.php?card=Celestial%20Purge
+ [15]: http://magiccards.info/autocard.php?card=Savage%20Hunger
+ [16]: http://magiccards.info/autocard.php?card=Dark%20Temper
+ [17]: http://magiccards.info/autocard.php?card=Exuberant%20Firestoker
+ [18]: http://magiccards.info/autocard.php?card=Fleshbag%20Marauder
+ [19]: http://magiccards.info/autocard.php?card=Rip-clan%20Crasher
+ [20]: http://magiccards.info/autocard.php?card=Dragon%20Fodder
+ [21]: http://magiccards.info/autocard.php?card=Volcanic%20Fallout
+ [22]: http://magiccards.info/autocard.php?card=Path%20to%20Exile
  [23]: http://magiccards.info/autocard.php?card=Banefire
