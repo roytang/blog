@@ -8,7 +8,7 @@ type: post
 url: /2008/08/the-survey-for-people-who-make-websites/
 ---
 
-[<img alt="" src="http://aneventapart.com/webdesignsurvey/templates/ala/images/i-took-the-2008-survey.gif" border="0" />][1] 
+[Link.][1] 
 
 <div class="flockcredit" style="text-align: right; color: #CCC; font-size: x-small;">
   Blogged with the<br /> <a href="http://www.flock.com/blogged-with-flock" style="color: #999; font-weight: bold;" target="_new" title="Flock Browser"><br /> Flock Browser<br /> </a>

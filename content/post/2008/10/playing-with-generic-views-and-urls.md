@@ -18,7 +18,7 @@ url: /2008/10/playing-with-generic-views-and-urls/
 
 -> It turns out that HttpResponseRedirect supports relative paths, so this was fine.
 
-return HttpResponseRedirect("../" + str(post.id) + "/")
+`return HttpResponseRedirect("../" + str(post.id) + "/")`
 
 I got the basic posting structure up.
 

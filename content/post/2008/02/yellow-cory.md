@@ -13,8 +13,4 @@ Random thought while watching the news:
 
 If Cory Aquino ever went out in public without wearing bright yellow clothes, would people recognize her?
 
-_
-  
-"That lady looks a lot like Cory! Except she's not wearing yellow!"
-  
-_
+_"That lady looks a lot like Cory! Except she's not wearing yellow!"_

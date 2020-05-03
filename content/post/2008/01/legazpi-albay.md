@@ -17,9 +17,7 @@ Of course, there was Mayon, visible as soon as we descended from the clouds. Unf
 
 The walk upwards was... invigorating in a way. I have a newfound respect for slopes. The road we were walking on our way to the peak can't have been more than 30 degrees at its most difficult, yet my leg muscles felt dead tired before we were halfway up. Just shows how out of shape I was. The trip down was much faster of course.
 
-The rest of the stay was mostly eating and shopping for _pasalubong.
-  
-_ 
+The rest of the stay was mostly eating and shopping for _pasalubong._ 
   
 Of course, I suck at buying gifts for people so I'm glad I had a DS while everyone else was walking around the informal _tiangge_.
 

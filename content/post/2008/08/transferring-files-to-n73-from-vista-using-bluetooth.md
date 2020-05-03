@@ -37,11 +37,7 @@ After around 30 minutes of struggling with the unintuitiveness and some helpful 
 
 12. You're done. Hooray!
 
-_
-  
-Side note: After step 10, Vista seems to want to install drivers for the N73... but it doesn't seem to be necessary
-  
-_ 
+_Side note: After step 10, Vista seems to want to install drivers for the N73... but it doesn't seem to be necessary_ 
 
 <div class="flockcredit" style="text-align: right; color: #ccc; font-size: x-small;">
   Blogged with the<br /> <a style="color: #999; font-weight: bold;" title="Flock Browser" href="http://www.flock.com/blogged-with-flock" target="_new"><br /> Flock Browser<br /> </a>

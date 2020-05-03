@@ -10,6 +10,8 @@ url: /2008/12/ptq-kyoto-2/
 
 The last limited tournament of the season, it was last week, December 20 at Robinson's Galleria. The format was Shards of Alara sealed deck. For once, I opened a pretty good pool. Unfortunately, I failed to make the follow through. Decklist and (short) tournament report follows.
 
+<!-- more -->
+
 {{< cardlist >}}
 
 {{< cardgroup title="Creatures" >}}

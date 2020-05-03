@@ -12,9 +12,7 @@ Despite it's age, I've only recently gotten around to loving Advance Wars: Dual 
 
 Also, I was getting bored with my desktop wallpaper so I decided to look for some AW:DS wallpaper, but the official site (linked above) had apparently shoved them off somewhere in favor of Advance Wars: Days of Ruin stuff. Instead, I called up the wayback machine to get the official wallpapers. I might as well offer them here, since wallpapers for the game are hard to find: [Advance Wars: Dual Strike official wallpapers][2].
 
-I ended up not using them after all though. My new desktop wallpaper is [here][3] 
-   
-.
+I ended up not using them after all though. My new desktop wallpaper is [here][3].
 
  [1]: http:// "http://www.advancewars.com"
  [2]: http://roytang.net/awds

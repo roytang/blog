@@ -12,6 +12,8 @@ url: /2008/10/gpt-taipei-ii/
 
 The judge comes over, rolls the dice and we keep our pools. Awkward.
 
+<!-- more -->
+
 {{< cardlist >}}
 
 {{< cardgroup title="Lands" >}}

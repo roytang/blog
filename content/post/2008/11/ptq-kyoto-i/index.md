@@ -12,6 +12,8 @@ The PTQ was last Sunday, November 17 at Robinson's Galleria.
 
 As per usual, I opened and registered a pretty good pool with 2 [Battlegrace Angel][1] and [Tezzeret the Seeker][2]. The pool I got passed to me and the deck I built below:
 
+<!-- more -->
+
 {{< cardlist >}}
 
 {{< cardgroup title="Lands" >}}

@@ -18,9 +18,7 @@ I was neglecting the NDS a bit, so I decided to look for some fun homebrew stuff
    
 There's a whole world of homebrew apps/games out there to explore, these were just the ones I could try out in one sitting. Try [this post from 4-color-rebellion][5] for some recommendations.
 
-For more details, you can also check out the recently concluded [Homebrew Week at DS Fanboy][6] 
-   
-.
+For more details, you can also check out the recently concluded [Homebrew Week at DS Fanboy][6].
 
 Now if you'll excuse me, I'm trying to help Guybrush find Big Whoop... 
 
