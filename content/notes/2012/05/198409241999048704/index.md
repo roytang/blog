@@ -8,4 +8,4 @@ tags:
 - mtg
 ---
 
-p1p1 in mtgo cube: http://i.imgur.com/uzy6L.png what's your pick?
+p1p1 in mtgo cube: what's your pick?

@@ -14,8 +14,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/727858517089001476/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154575170108912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4htin1/may_4th_may_the_fourth_be_with_you_star_wars/d2sehn6/
 tags:
 - sketchdaily
 ---
 
-May the 4th be with you #sketchdaily
+May the 4th be with you #sketchdaily 

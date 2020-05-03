@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/462859398121922561/
 tags:
 - WHCD
+title: ''
 ---
 
-RT [@WhiteHouse](https://twitter.com/WhiteHouse/): The Westeros Wing. #WHCD https://t.co/wG4KbQ7BLn
+The Westeros Wing. #WHCD

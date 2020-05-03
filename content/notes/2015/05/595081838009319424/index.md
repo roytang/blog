@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/595081838009319424/
+title: ''
 ---
 
-RT [@garrickbercero](https://twitter.com/garrickbercero/): The actual Age of Ultron https://t.co/l2jve6BPDx
+The actual Age of Ultron
