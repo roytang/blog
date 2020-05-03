@@ -1,6 +1,11 @@
 ---
 date: 2020-05-03
 slug: weeknotes-2020-05-03
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104104683333084729
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1256934046380158977/
 tags:
 - weeknotes
 title: Weeknotes 2020-05-03
@@ -51,4 +56,3 @@ Site updates:
 - adding some other new stuff/sections, but nothing linked publicly yet. Need to arrange everything correctly, may take a while.
 
 ---
-
