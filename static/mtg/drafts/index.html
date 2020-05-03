@@ -1,0 +1,74 @@
+<html>
+<head>
+<link rel="stylesheet" href="http://yui.yahooapis.com/2.5.1/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css">
+    <link rel="stylesheet" href="draft.css" />
+    <script src="json2.js"></script>
+    <script src="draft.js"></script>
+    <title>MtgStorm Draft Converter</title>
+<style>
+#hdr, #ftr, #main {
+width: 1024px; 
+margin: auto;
+font-family: Helvetica;
+}
+
+#hdr, #hdr h3 {
+background: black; color: white;
+height: 99px;
+font-size: 24px;
+}
+#main {
+width: 1024px; 
+border: 1px black solid; 
+}
+
+</style>
+</head>
+  <body>
+  <div id="hdr">
+    <h3>MtgStorm Draft Converter</h3>
+  </div>
+  <div id="main">
+  <div style="text-align: left; width: 650px; padding: 10px; float: left;">
+  
+<em>Paste Magic Online's .txt contents here then click "Convert Draft"</em>  
+<textarea id="draft_in" value="" rows="20" style="width:100%;"></textarea> 
+<input type="button" value="Convert Draft" onclick="mtgstorm.Draft.convert()" />
+
+<p>(Output will appear here. Copy and paste it into any webpage. Preview will be shown below the text box.)</p>
+<textarea id="draft_out" value="" rows="20" style="width:100%;"></textarea>
+
+<br/><br/>
+<h4>Preview Area</h4>
+<div id="draft_preview">
+</div>  
+    
+  </div>
+  <div style="text-align: left; width: 300px; padding: 10px; display: inline; background-color: #77ccff; height: 100%; float: right;">
+  
+<p>This is a draft converter for MTGO-recorded drafts, similar to the one found at <a href="http://www.zizibaloob.com">Zizibaloob</a>, except I wanted a more compact layout.
+For feedback, follow <a href="http://twitter.com/mtgstorm">mtgstorm on twitter</a>
+</p>
+    <br/><br/><br/><br/><br/>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3565826882364610";
+/* 234x60, created 9/4/08 */
+google_ad_slot = "6091929945";
+google_ad_width = 234;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>  
+
+</div>
+<div style='clear: both;'></div>
+
+  </div>
+  <div id="ftr">
+    Copyright <a href="http://roytang.net">Roy Tang</a> (all rights reserved)
+  </div>
+  
+  </body>
+</html>

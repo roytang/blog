@@ -807,3 +807,25 @@ details.spoiler {
 details summary {
     color: var(--main-color);
 }
+
+/* mtg storm draft converter */
+.card.pick {
+    border: 4px var(--main-color) solid;
+}
+
+.draft_navmenu + div {
+    padding: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.draft_navmenu a {
+    border: 1px var(--main-color) solid;
+    border-radius: 4px;
+    padding: 1px;
+    white-space: nowrap;
+}
+
+.draft_navmenu a.active {
+    border: 1px var(--second-color) solid;
+}
