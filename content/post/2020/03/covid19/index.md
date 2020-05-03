@@ -606,4 +606,17 @@ Only went out once this week, for groceries. We tried to buy a bit more than usu
 
 As of tonight, we are at 7579 cases (+285 today, +487 since Friday), 501 deaths (+7 today, +24 since Friday), and 862 (+70 today, +100 since Friday) recoveries. Worldwide, we are nearing 3M cases and have passed 200,000 deaths.
 
+### Sunday, May the 3rd
+
+Officially, this is the 3rd calendar month of quarantine.
+
+Couple of days ago we got a second tranche of relief goods from the LGU, mostly canned fish things and some rice. I haven't been out all week, but word is that they are being a bit more strict and there are more cops policing places like the wet market etc. 
+
+As of tonight, we are at 9223 cases (+295 today, +1644 for the week), 607 deaths (+4 today, +106 for the week), and 1214 (+90 today, +352 for the week) recoveries. Recoveries vastly outpacing deaths is good news, but the number of cases continues to rise linearly without any slowdown in site, probably due to testing limits I guess? 
+
+We'll see if NCR manages to leave ECQ after the 15th, but even then we're still only going into General Community Quarantine (GCQ) which is definitely not a "back to normal" scenario. 
+
+Worldwide, there have been an additional 500k cases and 45k deaths over the past week.
+
+
 To be continued...
