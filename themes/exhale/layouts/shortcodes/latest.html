@@ -1,0 +1,5 @@
+{{/* get the latest content for a given tag */}}
+{{ $tag := slice (.Get "tag") }}
+{{ range (first 1 (where .Site.RegularPages ".Params.tags" "intersect" $tag)) }}
+{{ .Content }}
+{{ end }}
