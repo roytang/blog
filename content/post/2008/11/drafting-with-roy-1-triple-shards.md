@@ -16,160 +16,61 @@ Second pack I opened Flameblast Dragon, Oblivion Ring, Branching Bolt, Soul's Fi
 
 Here's my draft deck:
  
-  
+{{< cardlist >}}
 
+[Lands]
+2 Jund Panorama
+6 Island
+6 Swamp
+3 Mountain
+[/Lands]
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Jund Panorama">Jund Panorama</a>
-    </li>
-    <li>
-      6 <a href="http://magiccards.info/autocard.php?card=Island">Island</a>
-    </li>
-    <li>
-      6 <a href="http://magiccards.info/autocard.php?card=Swamp">Swamp</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Mountain">Mountain</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Cloudheath Drake">Cloudheath Drake</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Kathari Screecher">Kathari Screecher</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Deathgreeter">Deathgreeter</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Shore Snapper">Shore Snapper</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Skeletal Kathari">Skeletal Kathari</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Bloodpyre Elemental">Bloodpyre Elemental</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Flameblast Dragon">Flameblast Dragon</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Incurable Ogre">Incurable Ogre</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Goblin Deathraiders">Goblin Deathraiders</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Kederekt Creeper">Kederekt Creeper</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Tidehollow Strix">Tidehollow Strix</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Spells
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Courier's Capsule">Courier's Capsule</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Resounding Wave">Resounding Wave</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Executioner's Capsule">Executioner's Capsule</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Resounding Thunder">Resounding Thunder</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Agony Warp">Agony Warp</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Cruel Ultimatum">Cruel Ultimatum</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Grixis Charm">Grixis Charm</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Obelisk of Bant">Obelisk of Bant</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Obelisk of Grixis">Obelisk of Grixis</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Quietus Spike">Quietus Spike</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Akrasan Squire">Akrasan Squire</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Rockcaster Platoon">Rockcaster Platoon</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Sigiled Paladin">Sigiled Paladin</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Soul's Grace">Soul's Grace</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Call to Heel">Call to Heel</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Cathartic Adept">Cathartic Adept</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Etherium Sculptor">Etherium Sculptor</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Ad Nauseam">Ad Nauseam</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Deathgreeter">Deathgreeter</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Undead Leotau">Undead Leotau</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Thunder-Thrash Elder">Thunder-Thrash Elder</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Cylian Elf">Cylian Elf</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Rafiq of the Many">Rafiq of the Many</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Sangrite Surge">Sangrite Surge</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Relic of Progenitus">Relic of Progenitus</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+[Creatures]
+1 Cloudheath Drake
+1 Kathari Screecher
+1 Deathgreeter
+1 Shore Snapper
+2 Skeletal Kathari
+1 Bloodpyre Elemental
+1 Flameblast Dragon
+1 Incurable Ogre
+1 Goblin Deathraiders
+2 Kederekt Creeper
+1 Tidehollow Strix
+[/Creatures]
+
+[Spells]
+1 Courier's Capsule
+1 Resounding Wave
+1 Executioner's Capsule
+1 Resounding Thunder
+1 Agony Warp
+1 Cruel Ultimatum
+1 Grixis Charm
+1 Obelisk of Bant
+1 Obelisk of Grixis
+1 Quietus Spike
+[/Spells]
+
+[Sideboard]
+1 Akrasan Squire
+1 Rockcaster Platoon
+1 Sigiled Paladin
+1 Soul's Grace
+1 Call to Heel
+2 Cathartic Adept
+1 Etherium Sculptor
+1 Ad Nauseam
+1 Deathgreeter
+2 Undead Leotau
+1 Thunder-Thrash Elder
+1 Cylian Elf
+1 Rafiq of the Many
+1 Sangrite Surge
+1 Relic of Progenitus
+[/Sideboard]
+
+{{< /cardlist >}}
 
 I put in the Obelisk of Bant so that I had a late game chance of cycling my supercyclers.
 
@@ -189,12 +90,8 @@ I shuffle up and the TO hands us the pack that we're playing for. "We should ope
 
 Round three game three he doesn't draw any creatures and I have a steady stream, so I keep the prize pack.
 
-It turned out to contain a
-   
-[Mindlock Orb][1]
-   
-, if we had opened it I might not have wanted to play the third game. :p My other prize pack had another Cruel Ultimatum, I think it's a set now!
+It turned out to contain a [Mindlock Orb][1], if we had opened it I might not have wanted to play the third game. :p My other prize pack had another Cruel Ultimatum, I think it's a set now!
 
 Good luck to the pinoy GP Taipei contingent!
 
- [1]: http://magiccards.info/autocard.php?card=Mindlock Orb
+ [1]: http://magiccards.info/autocard.php?card=Mindlock%20Orb

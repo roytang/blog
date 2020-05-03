@@ -10,112 +10,46 @@ url: /2008/12/standard-06-dec-2008-blightning-beatdown/
 
 I actually initially thought that there would be a PTQ this weekend. When I found out there would just be a normal Standard tournament the night before, I assembled a deck quickly. I went with Blightning Beatdown:
 
-<div class="decklist">
-  <ul class="decklist_group">
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Creatures
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Figure of Destiny">Figure of Destiny</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Goblin Deathraiders">Goblin Deathraiders</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Ashenmoor Gouger">Ashenmoor Gouger</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Hell's Thunder">Hell's Thunder</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Demigod of Revenge">Demigod of Revenge</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Spells
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Bitterblossom">Bitterblossom</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Tarfire">Tarfire</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Resounding Thunder">Resounding Thunder</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Flame Javelin">Flame Javelin</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Blightning">Blightning</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Lands
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Auntie's Hovel">Auntie's Hovel</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Graven Cairns">Graven Cairns</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mutavault">Mutavault</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Ghitu Encampment">Ghitu Encampment</a>
-    </li>
-    <li>
-      3 <a href="http://magiccards.info/autocard.php?card=Savage Lands">Savage Lands</a>
-    </li>
-    <li>
-      5 <a href="http://magiccards.info/autocard.php?card=Mountains">Mountains</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Swamp">Swamp</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Karplusan Forest">Karplusan Forest</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=reflecting pool">reflecting pool</a>
-    </li>
-  </ul>
-  
-  <ul class="decklist_group">
-    <li class="header">
-      Sideboard
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Infest">Infest</a>
-    </li>
-    <li>
-      4 <a href="http://magiccards.info/autocard.php?card=Guttural Response">Guttural Response</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Mind Shatter">Mind Shatter</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=Naturalize">Naturalize</a>
-    </li>
-    <li>
-      1 <a href="http://magiccards.info/autocard.php?card=Ashenmoor Gouger">Ashenmoor Gouger</a>
-    </li>
-    <li>
-      2 <a href="http://magiccards.info/autocard.php?card=wild ricochet">wild ricochet</a>
-    </li>
-  </ul>
-  
-  <div style="clear:both">
-  </div>
-</div>
+{{< cardlist >}}
+
+[Creatures]
+4 Figure of Destiny
+4 Goblin Deathraiders
+3 Ashenmoor Gouger
+2 Hell's Thunder
+4 Demigod of Revenge
+[/Creatures]
+
+[Spells]
+4 Bitterblossom
+4 Tarfire
+3 Resounding Thunder
+4 Flame Javelin
+4 Blightning
+[/Spells]
+
+[Lands]
+4 Auntie's Hovel
+4 Graven Cairns
+2 Mutavault
+1 Ghitu Encampment
+3 Savage Lands
+5 Mountains
+2 Swamp
+1 Karplusan Forest
+2 reflecting pool
+[/Lands]
+
+[Sideboard]
+4 Infest
+4 Guttural Response
+2 Mind Shatter
+2 Naturalize
+1 Ashenmoor Gouger
+2 wild ricochet
+[/Sideboard]
+
+{{< /cardlist >}}
 
 Unfortunately, things did not go well for our hero. Tournament report follows.
 
@@ -135,24 +69,12 @@ I watch the match on the adjacent table while waiting for the next round. I see 
 
 I play another mirror match in round three, and he hits me with early burn but I stabilize at 2 life and he draws no gas afterwards. I win game two as well.
 
-Round four I was playing some sort of bant-colored control, and I finally managed to go on the offensive after stripping his hand an stabilizing at four lands. He would Wrath or Condemn away every creature I play, trading one for one, until he draws a card which he was apparently waiting for all this time. He shows me
-   
-[Idyllic Tutor][1]
-   
-and I have no idea what he's doing. He searches an reveals
-   
-[Enchanted Evening][2]
-   
-. Crap. He then plays
-   
-[Spring Cleaning][3]
-   
-on my Goblin Deathraiders and I flip mountain, and suddenly I have no permanents on board. I lose shortly thereafter.
+Round four I was playing some sort of bant-colored control, and I finally managed to go on the offensive after stripping his hand an stabilizing at four lands. He would Wrath or Condemn away every creature I play, trading one for one, until he draws a card which he was apparently waiting for all this time. He shows me [Idyllic Tutor][1] and I have no idea what he's doing. He searches an reveals [Enchanted Evening][2]. Crap. He then plays [Spring Cleaning][3] on my Goblin Deathraiders and I flip mountain, and suddenly I have no permanents on board. I lose shortly thereafter.
 
 He mulligans to five in game two and is at four life before having any suitable defense, and I end it quickly. Next game it's my turn as I mulligan to five, sending back one-land hands each time. I lost the third game to Spring Cleaning again. Awesome!
 
 I drop obviously. I should have stayed at home >.
 
- [1]: http://magiccards.info/autocard.php?card=Idyllic Tutor
- [2]: http://magiccards.info/autocard.php?card=Enchanted Evening
- [3]: http://magiccards.info/autocard.php?card=Spring Cleaning
+ [1]: http://magiccards.info/autocard.php?card=Idyllic%20Tutor
+ [2]: http://magiccards.info/autocard.php?card=Enchanted%20Evening
+ [3]: http://magiccards.info/autocard.php?card=Spring%20Cleaning

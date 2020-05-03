@@ -15,52 +15,34 @@ To show how indecisive we are, here's the conversation we had at the store:
   
 
 
-> _
-    
 > Saleslady: Sir, anong kulay ang gusto nyo? Black, silver or white?
-    
 >   
 > Me: Alvin, ano gusto mo?
-    
 >   
 > Alvin: Kahit ano, silver na lang siguro.
-    
 >   
 > Me: Sige ate, silver na lang
-    
 >   
 > (The saleslady proceeds to take the silver model out of the box)
-    
 >   
 > Me: OK lang ba silver? Parang mas maganda black.
-    
 >   
 > Alvin: Gusto mo ba black? Ayos lang sakin kahit ano.
-    
 >   
 > Me: Meh, kahit ano naman e, di bale na.
-    
 >   
 > Saleslady: Silver na ba talaga sir?
-    
 >   
 > Me: Sige ate, test mo na.
-    
 >   
 > (She turns on the PS3)
-    
 >   
 > Alvin: Dapat nga ata black na lang.
-    
 >   
 > Me: Ate, pwede pa palitan?
-    
 >   
 > Saleslady: Naon ko na po e!
-   
->_ 
-
-
+>
    
 Anyway, yeah, non-sequitur. I thought long and hard about the PS3 purchase because obviously it's more expensive than the X-Box 360 and furthermore, and the games are expensive as well. But you gotta go with the best really.
 

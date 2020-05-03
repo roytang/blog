@@ -15,7 +15,6 @@ url: /2008/12/links-for-2008-12-01/
     <div class="delicious-link">
       <a href="http://www.aaronsw.com/weblog/productivity">HOWTO: Be more productive (Aaron Swartz's Raw Thought)<br /> </a>
     </div>
-    
     <div class="delicious-tags">
       (tags: <a href="http://delicious.com/roytang/lifehacks">lifehacks </a><a href="http://delicious.com/roytang/productivity">productivity</a>)
     </div>
