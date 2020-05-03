@@ -612,7 +612,7 @@ Officially, this is the 3rd calendar month of quarantine.
 
 Couple of days ago we got a second tranche of relief goods from the LGU, mostly canned fish things and some rice. I haven't been out all week, but word is that they are being a bit more strict and there are more cops policing places like the wet market etc. 
 
-As of tonight, we are at 9223 cases (+295 today, +1644 for the week), 607 deaths (+4 today, +106 for the week), and 1214 (+90 today, +352 for the week) recoveries. Recoveries vastly outpacing deaths is good news, but the number of cases continues to rise linearly without any slowdown in site, probably due to testing limits I guess? 
+As of tonight, we are at 9223 cases (+295 today, +1644 for the week), 607 deaths (+4 today, +106 for the week), and 1214 (+90 today, +352 for the week) recoveries. Recoveries vastly outpacing deaths is good news, but the number of cases continues to rise linearly without any slowdown in sight, probably due to testing limits I guess? 
 
 We'll see if NCR manages to leave ECQ after the 15th, but even then we're still only going into General Community Quarantine (GCQ) which is definitely not a "back to normal" scenario. 
 
