@@ -37,7 +37,6 @@ I registered a mediocre pool and got passed one of roughly the same quality leve
         1 <a href="http://magiccards.info/autocard.php?card=Unstable Frontier">Unstable Frontier</a>
       </li>
     </ul>
-    
     <ul class="decklist_group">
       <li class="header">
         Creatures
@@ -70,7 +69,6 @@ I registered a mediocre pool and got passed one of roughly the same quality leve
         2 <a href="http://magiccards.info/autocard.php?card=Valeron Outlander">Valeron Outlander</a>
       </li>
     </ul>
-    
     <ul class="decklist_group">
       <li class="header">
         Spells
@@ -97,7 +95,6 @@ I registered a mediocre pool and got passed one of roughly the same quality leve
         1 <a href="http://magiccards.info/autocard.php?card=Armillary Sphere">Armillary Sphere</a>
       </li>
     </ul>
-    
     <ul class="decklist_group">
       <li class="header">
         Sideboard
@@ -232,7 +229,6 @@ I registered a mediocre pool and got passed one of roughly the same quality leve
         1 <a href="http://magiccards.info/autocard.php?card=Reliquary Tower">Reliquary Tower</a>
       </li>
     </ul>
-    
     <div style="clear:both">
     </div>
   </div>

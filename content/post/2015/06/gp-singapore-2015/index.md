@@ -20,7 +20,7 @@ GP Singapore 2015 would be my first Modern GP and maybe only my 3rd or 4th Moder
 
 {{< cardlist title="Grixis Twin" >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 4 Deceiver Exarch
   
@@ -30,9 +30,9 @@ GP Singapore 2015 would be my first Modern GP and maybe only my 3rd or 4th Moder
   
 3 Snapcaster Mage
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
   
 4 Splinter Twin
   
@@ -56,9 +56,9 @@ GP Singapore 2015 would be my first Modern GP and maybe only my 3rd or 4th Moder
   
 2 Cryptic Command
   
-[/Spells]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 4 Island
   
@@ -84,9 +84,9 @@ GP Singapore 2015 would be my first Modern GP and maybe only my 3rd or 4th Moder
   
 1 Desolate Lighthouse
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
   
 1 Izzet Staticaster
   
@@ -114,7 +114,7 @@ GP Singapore 2015 would be my first Modern GP and maybe only my 3rd or 4th Moder
   
 1 Sower of Temptation
   
-[/Sideboard]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 

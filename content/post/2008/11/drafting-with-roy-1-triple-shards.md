@@ -18,14 +18,14 @@ Here's my draft deck:
  
 {{< cardlist >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 2 Jund Panorama
 6 Island
 6 Swamp
 3 Mountain
-[/Lands]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Cloudheath Drake
 1 Kathari Screecher
 1 Deathgreeter
@@ -37,9 +37,9 @@ Here's my draft deck:
 1 Goblin Deathraiders
 2 Kederekt Creeper
 1 Tidehollow Strix
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Courier's Capsule
 1 Resounding Wave
 1 Executioner's Capsule
@@ -50,9 +50,9 @@ Here's my draft deck:
 1 Obelisk of Bant
 1 Obelisk of Grixis
 1 Quietus Spike
-[/Spells]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 1 Akrasan Squire
 1 Rockcaster Platoon
 1 Sigiled Paladin
@@ -68,7 +68,7 @@ Here's my draft deck:
 1 Rafiq of the Many
 1 Sangrite Surge
 1 Relic of Progenitus
-[/Sideboard]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

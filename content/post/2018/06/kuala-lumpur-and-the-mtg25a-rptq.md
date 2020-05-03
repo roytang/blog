@@ -40,7 +40,7 @@ Our configuration ended up being Switch in Seat A with RB midrange, me in Seat B
 
 {{< cardlist title="GB Constrictor" >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 4 Llanowar Elves
   
@@ -60,17 +60,17 @@ Our configuration ended up being Switch in Seat A with RB midrange, me in Seat B
   
 2 Verdurous Gearhulk
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
   
 4 Adventurous Impulse
   
 2 Aethersphere Harvester
   
-[/Spells]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 4 Woodland Cemetery
   
@@ -82,9 +82,9 @@ Our configuration ended up being Switch in Seat A with RB midrange, me in Seat B
   
 7 Forest
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
   
 4 Doomfall
   
@@ -102,7 +102,7 @@ Our configuration ended up being Switch in Seat A with RB midrange, me in Seat B
   
 1 Aethersphere Harvester
   
-[/Sideboard]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 

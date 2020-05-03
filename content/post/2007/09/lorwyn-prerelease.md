@@ -14,14 +14,14 @@ My flight manages to start around 4 PM, and I open the sealed pool I'm registeri
 
 {{< cardlist >}}
 
-[Land]
+{{< cardgroup title="Lands" >}}
 1 Vivid Marsh
 8 Plains
 6 Mountains
 1 Swamp
-[/Land]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Goldmeadow Harrier
 1 Cenn’s Heir
 1 Avian Changeling
@@ -34,9 +34,9 @@ My flight manages to start around 4 PM, and I open the sealed pool I'm registeri
 1 Fire-Belly Changeling
 1 Thundercloud Shaman
 1 Hearthcage Giant
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Tarfire
 1 Nameless Inversion
 1 Eyeblight’s Ending
@@ -48,7 +48,7 @@ My flight manages to start around 4 PM, and I open the sealed pool I'm registeri
 1 Moonglove Extract
 1 Giant’s Ire
 1 Ancient Ampitheatre
-[/Spells]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

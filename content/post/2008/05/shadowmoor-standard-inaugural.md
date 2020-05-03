@@ -18,7 +18,7 @@ Due to card availability issues, the final list I played is:
 
 {{< cardlist >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 4 Llanowar Elves
 4 Birds of Paradise
 1 Tarmogoyf
@@ -29,25 +29,25 @@ Due to card availability issues, the final list I played is:
 2 Spectral Force
 2 Cloudthresher
 1 Oversoul of Dusk
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 4 Oblivion Ring
 3 Sunlance
 3 Primal Command
 2 Loxodon Warhammer
-[/Spells]
+{{< /cardgroup >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 9 Forest
 3 Plains
 1 Pendelhaven
 4 Wooded Bastion
 4 Brushland
 2 Horizon Canopy
-[/Lands]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 3 Tormod's Crypt
 2 Stonecloaker
 3 Wispmare
@@ -55,7 +55,7 @@ Due to card availability issues, the final list I played is:
 2 Squall Line
 1 Vexing Shusher
 1 Pithing Needle
-[/Sideboard]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

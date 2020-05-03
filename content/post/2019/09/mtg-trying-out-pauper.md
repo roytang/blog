@@ -18,16 +18,16 @@ We set about to gather the cards. Since we almost never sell cards, even draft c
 I took the pauper deck to my first event today, completely blind to what the meta was lol. I figured I'd just enjoy the event and see how the deck plays and what the meta is like. Here's the deck I ran:
 
 {{< cardlist title="Jeskai Pauper" >}}
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 2 Spellstutter Sprite
 4 Kor Skyfisher
 4 Seeker of the Way
 1 Standard Bearer
 4 Mulldrifter
 2 Archaeomancer
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 2 Ephemerate
 4 Skred
 4 Lightning Bolt
@@ -35,18 +35,18 @@ I took the pauper deck to my first event today, completely blind to what the met
 4 Counterspell
 1 Brainstorm
 4 Arcum's Astrolabe
-[/Spells]
+{{< /cardgroup >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 3 Terramorphic Expanse
 3 Evolving Wilds
 1 Azorius Chancery
 7 Snow-covered Island
 2 Snow-covered Plain
 3 Snow-covered Mountain
-[/Lands]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 2 Electrickery
 1 Relic of Progenitus
 2 Blue Elemental Blast
@@ -58,7 +58,7 @@ I took the pauper deck to my first event today, completely blind to what the met
 1 Pulse of Murasa
 1 Gorilla Shaman
 2 Leave No Trace
-[/Sideboard]
+{{< /cardgroup >}}
 {{< /cardlist >}}
 
 I wasn't sure what to expect, since it was pauper I expected it to play a bit more like a limited format compared to Standard or Modern. I have to say I was pleasantly surprised. The format is diverse with a lot of different decks and most of the matchups are highly interactive. I wish I could say I placed well too, but after a couple of good matches, I folded to some misplays. Here's the match record:

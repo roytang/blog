@@ -12,7 +12,7 @@ url: /2007/03/so-many-bad-plays/
 &nbsp;
 
 {{< cardlist title="Under Development Standard @ NG Galleria 24-Mar-2007" >}}
-[Lands]
+{{< cardgroup title="Lands" >}}
 4 Breeding Pool
 3 Stomping Ground
 1 Steam Vents
@@ -20,9 +20,9 @@ url: /2007/03/so-many-bad-plays/
 7 Island
 5 Forest
 1 Skargg, the Rage Pits
-[/Lands]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 3 Plaxmanta
 3 Sulfur Elemental
 3 Giant Solifuge
@@ -30,25 +30,25 @@ url: /2007/03/so-many-bad-plays/
 2 Mystic Snake
 2 Vesuvan Shapeshifter
 1 Brine Elemental
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 2 Demonfire
 3 Research // Development
 3 Search for Tomorrow
 4 Farseek
 3 Think Twice
 4 Remand
-[/Spells]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 3 Krosan Grip
 2 Detritivore
 2 Tormod's Crypt
 2 Electrolyze
 2 Serrated Arrows
 2 Pyroclasm
-[/Sideboard]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

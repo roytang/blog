@@ -24,14 +24,14 @@ So I decided to play the MCQ. With only an FNM as practice. Good luck to me, alt
 
 {{< cardlist title="Grixis Death Shadow 2019" >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 4 Death's Shadow
 4 Gurmag Angler
 3 Snapcaster Mage
 4 Street Wraith
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 2 Inquisition of Kozilek
 3 Serum Visions
 4 Thoughtseize
@@ -43,9 +43,9 @@ So I decided to play the MCQ. With only an FNM as practice. Good luck to me, alt
 2 Temur Battle Rage
 3 Thought Scour
 1 Mishra's Bauble
-[/Spells]
+{{< /cardgroup >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 2 Blood Crypt
 4 Bloodstained Mire
 1 Island
@@ -54,9 +54,9 @@ So I decided to play the MCQ. With only an FNM as practice. Good luck to me, alt
 1 Steam Vents
 1 Swamp
 2 Watery Grave
-[/Lands]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 1 Kolaghan's Command
 1 Abrade
 2 Ceremonious Rejection
@@ -67,7 +67,7 @@ So I decided to play the MCQ. With only an FNM as practice. Good luck to me, alt
 1 Anger of the Gods
 2 Liliana, the Last Hope
 1 Plague Engineer
-[/Sideboard]
+{{< /cardgroup >}}
 
 {{</ cardlist >}}
 

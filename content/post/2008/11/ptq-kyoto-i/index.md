@@ -14,16 +14,16 @@ As per usual, I opened and registered a pretty good pool with 2 [Battlegrace Ang
 
 {{< cardlist >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 1 Grixis Panorama
 1 Naya Panorama
 1 Plains
 3 Swamp
 5 Mountain
 4 Forest
-[/Lands]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Skeletal Kathari
 1 Viscera Dragger
 1 Hell's Thunder
@@ -39,9 +39,9 @@ As per usual, I opened and registered a pretty good pool with 2 [Battlegrace Ang
 2 Goblin Deathraiders
 1 Kresh the Bloodbraided
 1 Rip-Clan Crasher
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Oblivion Ring
 1 Resounding Silence
 1 Skeletonize
@@ -50,9 +50,9 @@ As per usual, I opened and registered a pretty good pool with 2 [Battlegrace Ang
 1 Jund Charm
 1 Obelisk of Grixis
 1 Arcane Sanctum
-[/Spells]
+{{< /cardgroup >}}
 
-[Sideboard Part 1]
+{{< cardgroup title="Sideboard" >}}
 1 Angel's Herald
 1 Ethersworn Canonist
 1 Excommunicate
@@ -76,9 +76,6 @@ As per usual, I opened and registered a pretty good pool with 2 [Battlegrace Ang
 1 Scavenger Drake
 1 Shadowfeed
 1 Shore Snapper
-[/Sideboard Part 1]
-
-[Sideboard Part 2]
 1 Bloodthorn Taunter
 1 Exuberant Firestoker
 1 Goblin Mountaineer
@@ -98,7 +95,7 @@ As per usual, I opened and registered a pretty good pool with 2 [Battlegrace Ang
 1 Sigil Blessing
 1 Waveskimmer Aven
 1 Obelisk of Bant
-[/Sideboard Part 2]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

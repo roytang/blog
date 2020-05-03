@@ -26,15 +26,15 @@ The list I ran, largely based off Yuuya Watanabe's Player's Championship deck (s
 
 {{< cardlist title="Jeskai Tokens" >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 4 Seeker of the Way
   
 4 Goblin Rabblemaster
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
   
 4 Raise the Alarm
   
@@ -52,9 +52,9 @@ The list I ran, largely based off Yuuya Watanabe's Player's Championship deck (s
   
 2 Chandra, Pyromancer
   
-[/Spells]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 4 Mystic Monastery
   
@@ -74,9 +74,9 @@ The list I ran, largely based off Yuuya Watanabe's Player's Championship deck (s
   
 2 Plains
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
   
 2 Glare of Heresy
   
@@ -94,7 +94,7 @@ The list I ran, largely based off Yuuya Watanabe's Player's Championship deck (s
   
 2 Magma Spray
   
-[/Sideboard]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 

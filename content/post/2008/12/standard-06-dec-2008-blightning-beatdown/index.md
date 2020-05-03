@@ -12,23 +12,23 @@ I actually initially thought that there would be a PTQ this weekend. When I foun
 
 {{< cardlist >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 4 Figure of Destiny
 4 Goblin Deathraiders
 3 Ashenmoor Gouger
 2 Hell's Thunder
 4 Demigod of Revenge
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 4 Bitterblossom
 4 Tarfire
 3 Resounding Thunder
 4 Flame Javelin
 4 Blightning
-[/Spells]
+{{< /cardgroup >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 4 Auntie's Hovel
 4 Graven Cairns
 2 Mutavault
@@ -38,16 +38,16 @@ I actually initially thought that there would be a PTQ this weekend. When I foun
 2 Swamp
 1 Karplusan Forest
 2 reflecting pool
-[/Lands]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 4 Infest
 4 Guttural Response
 2 Mind Shatter
 2 Naturalize
 1 Ashenmoor Gouger
 2 wild ricochet
-[/Sideboard]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

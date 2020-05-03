@@ -12,97 +12,46 @@ This tournament and three others for each Saturday of November are run-ups to th
 
 By Thursday evening I had decided to go for a modified Ghazi Glare build, with a red splash for reach. My decklist, named "Elephant Glare":
 
+{{< cardlist >}}
+
+{{< cardgroup title="Creatures" >}}
 4 Call of the Herd
-   
-
-   
 4 Birds of Paradise
-   
-
-   
 4 Yavimaya Dryad
-   
-
-   
 4 Loxodon Hierarch
-   
-
-   
 4 Thelonite Hermit
-   
-
-   
 4 Selesnya Guildmage
-   
-
-   
 2 Thornscape Battlemage
-   
-
-   
 2 Llanowar Elves
+{{< /cardgroup >}}
 
+{{< cardgroup title="Spells" >}}
 3 Glare of Subdual
-   
-
-   
 4 Assault // Battery
-   
-
-   
 2 Demonfire
+{{< /cardgroup >}}
 
+{{< cardgroup title="Lands" >}}
 4 Temple Garden
-   
-
-   
 4 Brushland
-   
-
-   
 3 Stomping Ground
-   
-
-   
 2 Gemstone Mine
-   
-
-   
 3 Selesnya Sanctuary
-   
-
-   
 1 Pendlehaven
-   
-
-   
 3 Vitu-ghazi , the City-Tree
-   
-
-   
 3 Forest
+{{< /cardgroup >}}
 
-Sideboard:
-   
-
-   
+{{< cardgroup title="Sideboard" >}}
 2 Squall Line
-   
-
-   
 3 Krosan Grip
-   
-
-   
 3 Moratorium Stone
-   
-
-   
 4 Mwonvuli Acid-Moss
-   
-
-   
 3 Giant Solifuge
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
+
 
 Mostly a midgame, aggro-controllish deck, despite the high creature count (32???). I go into the tournament with attitude that is just basically a playtest for the next few tourneys.
 

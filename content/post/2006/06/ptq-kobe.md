@@ -17,7 +17,7 @@ Must practice more. Unfortunately, the only practice outlet currently is MTGO wh
 Decklist follows:
 
 {{< cardlist >}}
-[Lands]
+{{< cardgroup title="Lands" >}}
 1 Temple Garden 
 1 Blood Crypt 
 1 Simic Growth Chamber 
@@ -26,8 +26,8 @@ Decklist follows:
 4 Island 
 5 Swamp 
 2 Forest 
-[/Lands]
-[Creatures]
+{{< /cardgroup >}}
+{{< cardgroup title="Creatures" >}}
 1 Thoughtpicker Witch 
 1 Plaxmanta 
 1 Mourning Thrull 
@@ -44,8 +44,8 @@ Decklist follows:
 1 Tattered Drake 
 1 Vedalken Dismisser 
 1 Rootkin Ally 
-[/Creatures]
-[Spells]
+{{< /cardgroup >}}
+{{< cardgroup title="Spells" >}}
 1 Boros Signet 
 1 Clinging Darkness 
 1 Repeal 
@@ -54,8 +54,8 @@ Decklist follows:
 1 Vigor Mortis 
 1 Brainspoil 
 1 Pollenbright Wings
-[/Spells]
-[Sideboard]
+{{< /cardgroup >}}
+{{< cardgroup title="Sideboard" >}}
 1 Boros Garrison 
 1 Duskmantle, House of Shadow 
 1 Glass Golem 
@@ -101,6 +101,6 @@ Decklist follows:
 1 Boros Recruit 
 1 Thundersong Trumpeter 
 1 Guardian of Vitu-ghazi 
-[/Sideboard]
+{{< /cardgroup >}}
 {{< /cardlist >}}
 

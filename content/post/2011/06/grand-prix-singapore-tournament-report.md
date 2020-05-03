@@ -19,7 +19,7 @@ Haven't done a tournament report in a while. Heck, I haven't really played tourn
 
 {{< cardlist >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 4 Island
   
@@ -39,9 +39,9 @@ Haven't done a tournament report in a while. Heck, I haven't really played tourn
   
 4 Tectonic Edge
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 4 Stoneforge Mystic
   
@@ -49,9 +49,9 @@ Haven't done a tournament report in a while. Heck, I haven't really played tourn
   
 2 Mirran Crusader
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
   
 4 Preordain
   
@@ -73,9 +73,9 @@ Haven't done a tournament report in a while. Heck, I haven't really played tourn
   
 4 Jace the Mind Sculptor
   
-[/Spells]
+{{< /cardgroup >}}
   
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
   
 1 Sword of Body and Mind
   
@@ -93,7 +93,7 @@ Haven't done a tournament report in a while. Heck, I haven't really played tourn
   
 2 Dismember
   
-[/Sideboard]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 

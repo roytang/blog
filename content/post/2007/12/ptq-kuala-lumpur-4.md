@@ -15,7 +15,7 @@ I opened a pool with a lot of removal:
   
 {{< cardlist >}}
 
-[White]
+{{< cardgroup title="White" >}}
 1 Hillcomber Giant 
 1 Judge of Currents 
 1 Kinsbaile Balloonist 
@@ -25,9 +25,9 @@ I opened a pool with a lot of removal:
 2 Kithkin Healer 
 1 Lairwatch Giant 1 Sentry Oak 
 2 Springjack Knight 
-[/White]
+{{< /cardgroup >}}
 
-[Blue]
+{{< cardgroup title="Blue" >}}
 1 Amoeboid Changeling 
 1 Aquitect's Will 
 2 Deeptread Merrow 
@@ -40,9 +40,9 @@ I opened a pool with a lot of removal:
 1 Protective Bubble 
 1 Ringskipper 
 1 Whirlpool Whelm 
-[/Blue]
+{{< /cardgroup >}}
 
-[Black]
+{{< cardgroup title="Black" >}}
 1 Bog Hoodlums 
 1 Boggart Loggers 
 1 Colfenor's Plans 
@@ -59,9 +59,9 @@ I opened a pool with a lot of removal:
 1 Spiderwig Boggart 
 1 Thieving Sprite 
 2 Weed Strangle 
-[/Black]
+{{< /cardgroup >}}
 
-[Red]
+{{< cardgroup title="Red" >}}
 1 Adder-Staff Boggart 
 2 Axegrinder Giant 
 1 Blind-Spot Giant 
@@ -71,9 +71,9 @@ I opened a pool with a lot of removal:
 1 Lowland Oaf 
 1 Rebellion of the Flamekin 
 2 Tar Pitcher 
-[/Red]
+{{< /cardgroup >}}
 
-[Green]
+{{< cardgroup title="Green" >}}
 1 Briarhorn 
 1 Fertile Ground 
 1 Immaculate Magistrate 
@@ -84,15 +84,15 @@ I opened a pool with a lot of removal:
 1 Timber Protector 
 1 Warren-Scourge Elf 
 1 Woodland Changeling 
-[/Green]
+{{< /cardgroup >}}
 
-[Artifacts and Lands]
+{{< cardgroup title="Others" >}}
 1 Herbal Poultice 
 1 Moonglove Extract 
 1 Island 
 1 Shelldock Isle 
 1 Vivid Marsh 
-[/Artifacts and Lands]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 
@@ -102,13 +102,13 @@ I built some deck with Goblins and Giants:
 
 {{< cardlist >}}
 
-[Land]
+{{< cardgroup title="Lands" >}}
 9 Mountain
 8 Swamp
 1 Vivid Marsh
-[/Land]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Boggart Loggers
 1 Dread
 1 Hornet Harasser
@@ -121,16 +121,16 @@ I built some deck with Goblins and Giants:
 1 Fire-Belly Changeling
 1 Lowland Oaf
 2 Tar Pitcher
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Moonglove Extract
 1 Colfenor's Plans
 1 Fodder Launch
 1 Footbottom Feast
 2 Weed Strangle
 2 Lash Out
-[/Spells]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

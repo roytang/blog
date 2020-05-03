@@ -14,15 +14,15 @@ My sealed deck:
 
 {{< cardlist >}}
 
-[Land]
+{{< cardgroup title="Lands" >}}
 8 Mountains
 7 Forest
 1 Swamp
 1 Terramorphic Expanse
 1 Kher Keep
-[/Land]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Gemhide Sliver
 1 Thornweald Archer
 1 Thallid Germinator
@@ -36,9 +36,9 @@ My sealed deck:
 1 Sedge Sliver
 1 Gathan Raiders
 1 Scourge of Kher Ridges
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Tromp the Domains
 1 Dead/Gone
 1 Rift Bolt
@@ -47,7 +47,7 @@ My sealed deck:
 1 Death Rattle
 1 Strangling Soot
 1 Prismatic Lens
-[/Spells]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

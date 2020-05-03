@@ -27,7 +27,7 @@ Here's the sealed pool I got for the LCT:
 
 {{< cardlist title="GP Seattle 2019 Last Chance Trial Sealed Pool" >}}
 
-[White]
+{{< cardgroup title="White" >}}
 1 Answered Prayers
 1 Ephemerate
 1 Giver of Runes
@@ -41,9 +41,9 @@ Here's the sealed pool I got for the LCT:
 1 Trustworthy Scout
 1 Wall of One Thousand Cuts
 1 Wing Shards
-[/White]
+{{< /cardgroup >}}
 
-[Blue]
+{{< cardgroup title="Blue" >}}
 1 Bazaar Trademage
 1 Chillerpillar
 1 Cunning Evasion
@@ -58,9 +58,9 @@ Here's the sealed pool I got for the LCT:
 1 String of Disappearances
 1 Windcaller Aven
 1 Winter's Rest
-[/Blue]
+{{< /cardgroup >}}
 
-[Black]
+{{< cardgroup title="Black" >}}
 1 Azra Smokeshaper
 1 Changeling Outcast
 1 Feaster of Fools
@@ -75,9 +75,9 @@ Here's the sealed pool I got for the LCT:
 1 Return from Extinction
 1 Umezawa's Charm
 1 Warteye Witch
-[/Black]
+{{< /cardgroup >}}
 
-[Red]
+{{< cardgroup title="Red" >}}
 1 Bladeback Sliver
 1 Firebolt
 1 Goblin War Party
@@ -91,9 +91,9 @@ Here's the sealed pool I got for the LCT:
 1 Reckless Charge
 1 Throes of Chaos
 1 Viashino Sandsprinter
-[/Red]
+{{< /cardgroup >}}
 
-[Green]
+{{< cardgroup title="Green" >}}
 1 Deep Forest Hermit
 1 Elvish Fury
 1 Krosan Tusker
@@ -107,9 +107,9 @@ Here's the sealed pool I got for the LCT:
 1 Trumpeting Herd
 1 Weather the Storm
 2 Winding Way
-[/Green]
+{{< /cardgroup >}}
 
-[Other]
+{{< cardgroup title="Others" >}}
 1 Etchings of the Chosen
 1 Ingenious Infiltrator
 1 Lavabelly Sliver
@@ -129,7 +129,7 @@ Here's the sealed pool I got for the LCT:
 1 Snow-Covered Swamp
 2 Snow-Covered Mountain
 1 Snow-Covered Forest
-[/Other]
+{{< /cardgroup >}}
 
 {{</ cardlist >}}
 
@@ -137,7 +137,7 @@ This sealed pool, like all the other MH1 pools I played, tends to pull you in di
 
 {{< cardlist title="GP Seattle 2019 Last Chance Trial Sealed Deck" >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 1 Giver of Runes
 1 Changeling Outcast
@@ -154,9 +154,9 @@ This sealed pool, like all the other MH1 pools I played, tends to pull you in di
 1 Feaster of Fools
 1 First-Sphere Gargantua
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
 
 1 Recruit the Worthy
 1 Return from Extinction
@@ -168,9 +168,9 @@ This sealed pool, like all the other MH1 pools I played, tends to pull you in di
 1 Birthing Boughs
 1 Mob
 
-[/Spells]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 5 Plains
 1 Snow-Covered Plains
@@ -180,7 +180,7 @@ This sealed pool, like all the other MH1 pools I played, tends to pull you in di
 1 Prismatic Vista
 2 Cave of Temptation
   
-[/Lands]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 
@@ -190,7 +190,7 @@ I opted not to do a second trial, as I did not want to stay out too late. Instea
 
 {{< cardlist title="GP Seattle 2019 Friday Sealed Pool" >}}
 
-[White]
+{{< cardgroup title="White" >}}
 1 Battle Screech
 1 Dismantling Blow
 1 Enduring Sliver
@@ -206,9 +206,9 @@ I opted not to do a second trial, as I did not want to stay out too late. Instea
 1 Trustworthy Scout
 1 Wall of One Thousand Cuts
 1 Wing Shards
-[/White]
+{{< /cardgroup >}}
 
-[Blue]
+{{< cardgroup title="Blue" >}}
 1 Cunning Evasion
 1 Exclude
 1 Eyekite
@@ -222,9 +222,9 @@ I opted not to do a second trial, as I did not want to stay out too late. Instea
 1 Stream of Thought
 1 String of Disappearances
 1 Windcaller Aven
-[/Blue]
+{{< /cardgroup >}}
 
-[Black]
+{{< cardgroup title="Black" >}}
 2 Azra Smokeshaper
 1 Diabolic Edict
 1 Feaster of Fools
@@ -235,9 +235,9 @@ I opted not to do a second trial, as I did not want to stay out too late. Instea
 1 Throatseeker
 2 Umezawa's Charm
 1 Venomous Changeling
-[/Black]
+{{< /cardgroup >}}
 
-[Red]
+{{< cardgroup title="Red" >}}
 1 Bogardan Dragonheart
 1 Cleaving Sliver
 1 Fists of Flame
@@ -251,9 +251,9 @@ I opted not to do a second trial, as I did not want to stay out too late. Instea
 1 Shenanigans
 1 Urza's Rage
 2 Volatile Claws
-[/Red]
+{{< /cardgroup >}}
 
-[Green]
+{{< cardgroup title="Green" >}}
 1 Conifer Wurm
 2 Elvish Fury
 1 Excavating Anurid
@@ -268,9 +268,9 @@ I opted not to do a second trial, as I did not want to stay out too late. Instea
 2 Treefolk Umbra
 1 Webweaver Changeling
 1 Winding Way
-[/Green]
+{{< /cardgroup >}}
 
-[Other]
+{{< cardgroup title="Others" >}}
 1 Abominable Treefolk
 1 Collected Conjuring
 1 Good-Fortune Unicorn
@@ -284,7 +284,7 @@ I opted not to do a second trial, as I did not want to stay out too late. Instea
 1 Snow-Covered Island
 2 Snow-Covered Swamp
 2 Snow-Covered Forest
-[/Other]
+{{< /cardgroup >}}
 
 {{</ cardlist >}}
 
@@ -294,7 +294,7 @@ Finally, the main event! I arrived on Saturday early, ready to face the challeng
 
 {{< cardlist title="GP Seattle 2019 Day 1B Sealed Pool" >}}
 
-[White]
+{{< cardgroup title="White" >}}
 3 Answered Prayers
 1 Astral Drift
 1 Face of Divinity
@@ -308,9 +308,9 @@ Finally, the main event! I arrived on Saturday early, ready to face the challeng
 1 Trustworthy Scout
 1 Wall of One Thousand Cuts
 1 Wing Shards
-[/White]
+{{< /cardgroup >}}
 
-[Blue]
+{{< cardgroup title="Blue" >}}
 1 Eyekite
 1 Faerie Seer
 1 Iceberg Cancrix
@@ -323,9 +323,9 @@ Finally, the main event! I arrived on Saturday early, ready to face the challeng
 2 String of Disappearances
 1 Twisted Reflection
 1 Winter's Rest
-[/Blue]
+{{< /cardgroup >}}
 
-[Black]
+{{< cardgroup title="Black" >}}
 2 Diabolic Edict
 1 First-Sphere Gargantua
 1 Mind Rake
@@ -335,9 +335,9 @@ Finally, the main event! I arrived on Saturday early, ready to face the challeng
 1 Shatter Assumptions
 2 Silumgar Scavenger
 2 Warteye Witch
-[/Black]
+{{< /cardgroup >}}
 
-[Red]
+{{< cardgroup title="Red" >}}
 1 Bladeback Sliver
 2 Cleaving Sliver
 1 Goblin Champion
@@ -350,9 +350,9 @@ Finally, the main event! I arrived on Saturday early, ready to face the challeng
 3 Reckless Charge
 1 Shenanigans
 1 Spiteful Sliver
-[/Red]
+{{< /cardgroup >}}
 
-[Green]
+{{< cardgroup title="Green" >}}
 1 Bellowing Elk
 1 Elvish Fury
 1 Excavating Anurid
@@ -365,9 +365,9 @@ Finally, the main event! I arrived on Saturday early, ready to face the challeng
 1 Wall of Blossoms
 1 Weather the Storm
 1 Webweaver Changeling
-[/Green]
+{{< /cardgroup >}}
 
-[Other]
+{{< cardgroup title="Others" >}}
 1 Abominable Treefolk
 1 Good-Fortune Unicorn
 1 Ice-Fang Coatl
@@ -385,7 +385,7 @@ Finally, the main event! I arrived on Saturday early, ready to face the challeng
 2 Snow-Covered Plains
 2 Snow-Covered Island
 2 Snow-Covered Swamp
-[/Other]
+{{< /cardgroup >}}
 
 {{</ cardlist >}}
 
@@ -393,7 +393,7 @@ Not too spectacular. Another sword (the better one, actually, since it stops bla
 
 {{< cardlist title="GP Seattle 2019 Day 1B Sealed Deck" >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 1 Segovian Angel
 1 Goblin Champion
@@ -408,9 +408,9 @@ Not too spectacular. Another sword (the better one, actually, since it stops bla
 1 Igneous Elemental
 1 Ore-Scale Guardian
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
 
 1 Reckless Charge
 1 On Thin Ice
@@ -421,9 +421,9 @@ Not too spectacular. Another sword (the better one, actually, since it stops bla
 2 Settle Beyond Reality
 1 Magmatic Skinhole
 
-[/Spells]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
 
 8 Mountain  
 2 Cave of Temptation
@@ -431,7 +431,7 @@ Not too spectacular. Another sword (the better one, actually, since it stops bla
 2 Snow-covered Plains
 1 Frostwalk Bastion
   
-[/Lands]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 

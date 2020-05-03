@@ -19,6 +19,8 @@ Now that I'm playing MTG again regularly on [MTG Arena](/2018/12/mtg-arena/), ma
 Here's my first totally unoptimized draft:
 
 {{< cardlist title="Esper Funsies" >}}
+
+{{< cardgroup >}}
 3 Isolated Chapel (DAR) 241
 4 Hallowed Fountain (RNA) 251
 4 Godless Shrine (RNA) 248
@@ -39,6 +41,7 @@ Here's my first totally unoptimized draft:
 4 Thief of Sanity (GRN) 205
 2 Liliana, Dreadhorde General (WAR) 97
 1 Teferi, Hero of Dominaria (DAR) GR6
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

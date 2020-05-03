@@ -12,7 +12,7 @@ The last limited tournament of the season, it was last week, December 20 at Robi
 
 {{< cardlist >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Sigiled Paladin
 1 Welkin Guide
 1 Viscera Dragger
@@ -27,9 +27,9 @@ The last limited tournament of the season, it was last week, December 20 at Robi
 1 Bull Cerodon
 1 Rip-Clan Crasher
 1 Steward of Valeron
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 2 Oblivion Ring
 1 Resounding Silence
 1 Dragon Fodder
@@ -37,18 +37,18 @@ The last limited tournament of the season, it was last week, December 20 at Robi
 1 Resounding Thunder
 1 Skeletonize
 1 Soul's Fire
-[/Spells]
+{{< /cardgroup >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 1 Obelisk of Naya
 1 Arcane Sanctum
 2 Bant Panorama
 3 Plains
 6 Mountain
 5 Forest
-[/Lands]
+{{< /cardgroup >}}
 
-[Sideboard Part 1]
+{{< cardgroup title="Sideboard" >}}
 2 Angelic Benediction
 1 Angelsong
 1 Dispeller's Capsule
@@ -71,9 +71,6 @@ The last limited tournament of the season, it was last week, December 20 at Robi
 1 Infest
 2 Shore Snapper
 2 Undead Leotau
-[/Sideboard Part 1]
-
-[Sideboard Part 2]
 1 Dragon's Herald
 1 Goblin Mountaineer
 1 Lightning Talons
@@ -93,7 +90,7 @@ The last limited tournament of the season, it was last week, December 20 at Robi
 1 Obelisk of Esper
 1 Obelisk of Grixis
 1 Esper Panorama
-[/Sideboard Part 2]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

@@ -12,24 +12,24 @@ I played the following decklist last Saturday at NG Galleria, giving it the incr
 
 {{< cardlist >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 4 Birds of Paradise
 3 Llanowar Elves
 4 Spike Feeder
 4 Yavimaya Dryad
 3 Giant Solifuge
 4 Call of the Herd
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 3 Demonfire
 4 Cryoclasm
 4 Mwonvuli Acid-moss
 4 Hit // Run
 1 Krosan Grip
-[/Spells]
+{{< /cardgroup >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 3 Stomping Ground
 3 Overgrown Tomb
 3 Blood Crypt
@@ -40,16 +40,16 @@ I played the following decklist last Saturday at NG Galleria, giving it the incr
 1 Desert
 1 Pendlehaven
 5 Forest
-[/Lands]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 4 Strangling Soot
 2 Fortune Thief
 2 Persecute
 2 Rain of Gore
 2 Krosan Grip
 3 Magus of the Scroll
-[/Sideboard]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

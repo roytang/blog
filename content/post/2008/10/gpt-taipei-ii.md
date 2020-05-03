@@ -14,13 +14,14 @@ The judge comes over, rolls the dice and we keep our pools. Awkward.
 
 {{< cardlist >}}
 
-Lands
+{{< cardgroup title="Lands" >}}
 2 Crumbling Necropolis
 9 Plains
 1 Mountain
 5 Forest
+{{< /cardgroup >}}
 
-Creatures
+{{< cardgroup title="Creatures" >}}
 2 Akrasan Squire
 1 Ranger of Eos
 1 Rockcaster Platoon
@@ -37,16 +38,18 @@ Creatures
 1 Wild Nacatl
 1 Steward of Valeron
 1 Woolly Thoctar
+{{< /cardgroup >}}
 
-Spells
+{{< cardgroup title="Spells" >}}
 1 Oblivion Ring
 1 Magma Spray
 1 Resounding Thunder
 1 Sigil Blessing
 1 Obelisk of Jund
 1 Quietus Spike
+{{< /cardgroup >}}
 
-Sideboard
+{{< cardgroup title="Sideboard" >}}
 1 Angel's Herald
 1 Angelsong
 2 Dispeller's Capsule
@@ -88,6 +91,7 @@ Sideboard
 1 Sprouting Thrinax
 1 Tidehollow Strix
 1 Obelisk of Esper
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

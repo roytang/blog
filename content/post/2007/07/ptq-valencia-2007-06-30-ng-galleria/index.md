@@ -12,15 +12,15 @@ I was playing UG shifters.
 
 {{< cardlist >}}
     
-[Land]
+{{< cardgroup title="Lands" >}}
 4 terramorphic Expans
 9 Island
 6 Forest
 3 Llanowar Reborn
 1 Pendelhaven
-[/Land]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 4 Vesuvan Shapeshifter
 4 Wall of Roots
 4 Riftwing Cloudskate
@@ -30,25 +30,25 @@ I was playing UG shifters.
 2 Aeon Chronicler
 2 Willbender
 1 Draining Whelk
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 3 Search for Tomorrow
 3 Foresee
 2 Psionic Blast
 2 Call of the Herd
 2 Take Posession
 1 Spell Burst
-[/Spells]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 3 Mwonvuli Acid-Moss
 2 Krosan Grip
 3 Delay
 2 Riftsweeper
 2 Penumbra Spider
 3 Serrated Arrows
-[/Sideboard]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

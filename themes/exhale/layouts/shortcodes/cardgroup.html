@@ -1,0 +1,24 @@
+<div class="box">
+    <div class="section_header">{{ .Get "title" }}</div>
+    <ul>
+        {{ $s := .Scratch }}
+        {{ range split (.Inner) "\n" }}
+            {{ $s.Set "CardName" "" }}
+            {{ $line := trim (.) "\n\r " }}
+            {{ if gt (len $line) 0 }}
+            <li>{{ range $index, $value := split $line " " }}
+                {{ if (gt $index 0) }}
+                    {{ if (gt $index 1) }}
+                        {{ $s.Add "CardName" " " }}
+                    {{ end }}
+                    {{ $s.Add "CardName" . }}
+                {{ else }}
+                    {{ . }}
+                {{ end }}
+            {{ end }}
+            <a target="_new" href='http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name={{ trim ($s.Get "CardName") "\n\r" }}' >{{ $s.Get "CardName" }}</a>
+            </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+</div>

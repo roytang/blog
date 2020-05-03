@@ -26,15 +26,15 @@ The pool I registered was terrible, no money rares and felt a bit short on playa
 
 {{< cardlist >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 9 Mountain
   
 8 Swamp
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 1 Copper Myr
   
@@ -64,9 +64,9 @@ The pool I registered was terrible, no money rares and felt a bit short on playa
   
 1 Hoard-Smelter Dragon
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
   
 3 Galvanic Blast
   
@@ -78,9 +78,9 @@ The pool I registered was terrible, no money rares and felt a bit short on playa
   
 1 Ratchet Bomb
   
-[/Spells]
+{{< /cardgroup >}}
   
-[Relevant Sideboard*]
+{{< cardgroup title="Relevant Sideboard*" >}}
   
 1 Rust Tick
   
@@ -88,7 +88,7 @@ The pool I registered was terrible, no money rares and felt a bit short on playa
   
 1 Flesh Allergy
   
-[/Relevant Sideboard*]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 

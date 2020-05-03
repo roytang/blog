@@ -16,7 +16,7 @@ _Edit: Decklist added!_
 
 {{< cardlist >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 1 Arcane Sanctum
 1 Bant Panorama
 1 Seaside Citadel
@@ -24,9 +24,9 @@ _Edit: Decklist added!_
 1 Island
 5 Mountain
 5 Forest
-[/Lands]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Akrasan Squire
 1 Cloudheath Drake
 2 Kederekt Leviathan
@@ -38,9 +38,9 @@ _Edit: Decklist added!_
 1 Mosstodon
 1 Wild Nacatl
 1 Woolly Thoctar
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Excommunicate
 1 Dragon Fodder
 2 Magma Spray
@@ -49,9 +49,9 @@ _Edit: Decklist added!_
 1 Waveskimmer Aven
 1 Obelisk of Bant
 1 Obelisk of Naya
-[/Spells]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 1 Angel's Herald
 1 Angelsong
 1 Bant Battlemage
@@ -89,7 +89,7 @@ _Edit: Decklist added!_
 1 Windwright Mage
 2 Obelisk of Esper
 1 Obelisk of Grixis
-[/Sideboard]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

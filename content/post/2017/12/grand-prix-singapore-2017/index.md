@@ -15,6 +15,7 @@ tags:
 title: Grand Prix Singapore 2017 Tournament Report
 type: post
 url: /2017/12/grand-prix-singapore-2017-tournament-report/
+dontinlinephotos: true
 ---
 
 I had [booked the Singapore trip][1] earlier in the year, since I almost always [attend Grand Prixs in Singapore][2] as its an easy trip and gives a good opportunity to visit friends. Unfortunately, I ended up not having time to prepare for the tournament itself. Fortunately, it was a limited event rather than constructed, so I figured maybe I could wing it and still do well. (Spoiler: I could not.)
@@ -34,7 +35,7 @@ Main event time: Amazingly, the judges had pre-registered all the sealed pools. 
 
 {{< cardlist title="GP Singapore 2017 Sealed Deck" >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 1 Blight Keeper
   
@@ -64,9 +65,9 @@ Main event time: Amazingly, the judges had pre-registered all the sealed pools. 
   
 2 Shining Aerosaur
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
   
 1 Slash of Talons
   
@@ -84,17 +85,17 @@ Main event time: Amazingly, the judges had pre-registered all the sealed pools. 
   
 1 Contract Killing
   
-[/Spells]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 9 Swamp
   
 7 Plains
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Relevant Sideboard]
+{{< cardgroup title="Sideboard" >}}
   
 1 Demystify
   
@@ -110,13 +111,13 @@ Main event time: Amazingly, the judges had pre-registered all the sealed pools. 
   
 1 Bright Reprisal
   
-[/Relevant Sideboard]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 
 Here's a blurry image if you like that sort of thing:
 
-[<img class="aligncenter size-full wp-image-2504" src="http://roytang.net/wp-content/uploads/2017/12/IMG_20171216_211718.jpg" alt="" width="4096" height="2304" srcset="https://roytang.net/wp-content/uploads/2017/12/IMG_20171216_211718.jpg 2048w, https://roytang.net/wp-content/uploads/2017/12/IMG_20171216_211718-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/12/IMG_20171216_211718-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/12/IMG_20171216_211718-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/12/IMG_20171216_211718-1200x675.jpg 1200w" sizes="(max-width: 4096px) 100vw, 4096px" />][3]
+{{< img src="IMG_20171216_211718.jpg" >}}
 
 I was pretty happy with the pool and thought I could do well. The deck looked good, if a bit lacking in two drops. To the swiss!
 
@@ -140,7 +141,7 @@ Oh well, that's Ixalan limited for me then. The next set drops early January so 
 
 Chaos Sealed was pricey since we get two Masters boosters this time. Here are the ones I pulled:
 
-[<img class="aligncenter size-full wp-image-2505" src="http://roytang.net/wp-content/uploads/2017/12/IMG_20171217_142111.jpg" alt="" width="2048" height="1152" srcset="https://roytang.net/wp-content/uploads/2017/12/IMG_20171217_142111.jpg 2048w, https://roytang.net/wp-content/uploads/2017/12/IMG_20171217_142111-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2017/12/IMG_20171217_142111-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2017/12/IMG_20171217_142111-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2017/12/IMG_20171217_142111-1200x675.jpg 1200w" sizes="(max-width: 2048px) 100vw, 2048px" />][4]
+{{< img src="IMG_20171217_142111.jpg" >}}
 
 Yup, everyone got an _Unstable_. And yup, I sadly got a _Coldsnap_. I built a red/blue deck with green and black splashes. Mostly just fliers and tempo and removal. Most expensive pull was a Verdant Catacombs from the _MM2017_. I did use a few _Unstable_ cards, just removal and some solid creatures. None of that contraption silliness, though I did have the opportunity to lose to one later on. I also had a foil Terminate that happened to be by the GP artist so I managed to get it signed.
 
@@ -150,5 +151,3 @@ I'm a bit sad about not performing well in both GPs I attended this year, and as
 
  [1]: http://roytang.net/2017/12/singapore-2017/
  [2]: http://roytang.net/2011/06/grand-prix-singapore-tournament-report/
- [3]: http://roytang.net/wp-content/uploads/2017/12/IMG_20171216_211718.jpg
- [4]: http://roytang.net/wp-content/uploads/2017/12/IMG_20171217_142111.jpg

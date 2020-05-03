@@ -22,7 +22,7 @@ Let's start with the deck. I played some version of Naya Pod, limited by what ca
 
 {{< cardlist title="A Pile of Naya" >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 4 Birds of Paradise
   
@@ -56,17 +56,17 @@ Let's start with the deck. I played some version of Naya Pod, limited by what ca
   
 1 Acidic Slime
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
   
 2 Birthing Pod
   
 1 Bonfire of the Damned
   
-[/Spells]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 4 Copperline Gorge
   
@@ -88,9 +88,9 @@ Let's start with the deck. I played some version of Naya Pod, limited by what ca
   
 1 Plains
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
   
 1 Ancient Grudge
   
@@ -110,7 +110,7 @@ Let's start with the deck. I played some version of Naya Pod, limited by what ca
   
 1 Oblivion Ring
   
-[/Sideboard]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 

@@ -18,7 +18,7 @@ I open the following Sealed Pool:
  
 {{< cardlist >}}
 
-[White]
+{{< cardgroup title="White" >}}
 1 Cenn's Heir 
 1 Crib Swap 
 1 Dawnfluke 
@@ -32,9 +32,9 @@ I open the following Sealed Pool:
 1 Surge of Thoughtweft 
 1 Wellgabber Apothecary 
 1 Wispmare 
-[/White]
+{{< /cardgroup >}}
 
-[Blue]
+{{< cardgroup title="Blue" >}}
 1 Amoeboid Changeling 
 1 Aquitect's Will 
 1 Ego Erasure 
@@ -49,9 +49,9 @@ I open the following Sealed Pool:
 1 Streambed Aquitects 
 2 Whirlpool Whelm 
 1 Wings of Velis Vel 
-[/Blue]
+{{< /cardgroup >}}
 
-[Black]
+{{< cardgroup title="Black" >}}
 1 Black Poplar Shaman 
 2 Boggart Loggers 
 1 Dreamspoiler Witches 
@@ -64,9 +64,9 @@ I open the following Sealed Pool:
 1 Shriekmaw 
 2 Skeletal Changeling 
 1 Weed Strangle 
-[/Black]
+{{< /cardgroup >}}
 
-[Red]
+{{< cardgroup title="Red" >}}
 2 Adder-Staff Boggart 
 1 Blind-Spot Giant 
 1 Boggart Forager 
@@ -78,9 +78,9 @@ I open the following Sealed Pool:
 1 Mudbutton Torchrunner 
 1 Stinkdrinker Daredevil 
 1 Sunrise Sovereign 
-[/Red]
+{{< /cardgroup >}}
 
-[Green]
+{{< cardgroup title="Green" >}}
 1 Elvish Branchbender 
 1 Elvish Eulogist 
 1 Fertile Ground 
@@ -94,15 +94,15 @@ I open the following Sealed Pool:
 1 Sylvan Echoes 
 1 Vigor 
 1 Woodland Changeling 
-[/Green]
+{{< /cardgroup >}}
 
-[Artifacts and Lands]
+{{< cardgroup title="Others" >}}
 1 Moonglove Extract 
 1 Springleaf Drum 
 1 Thousand-Year Elixir 
 1 Island 
 1 Vivid Marsh 
-[/Artifacts and Lands]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 
@@ -111,13 +111,13 @@ Out of which came the following deck:
 
 {{< cardlist >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 9 Island
 7 Swamp
 1 Vivid Marsh
-[/Lands]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 2 Boggart Loggers
 1 Dreamspoiler Witches
 1 Oona’s Prowler
@@ -131,9 +131,9 @@ Out of which came the following deck:
 1 Sentinels of Glen Elendra
 1 Spellstutter Sprite
 1 Streambed Aquitects
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Moonglove Extract
 1 Springleaf Drum
 1 Eyeblight’s Ending
@@ -142,7 +142,7 @@ Out of which came the following deck:
 1 Ponder
 1 Whirlpool Whelm
 1 Wings of Velis Vel
-[/Spells]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

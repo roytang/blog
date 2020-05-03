@@ -16,11 +16,11 @@ I was debating whether I would even go to play in the tournament, as I was total
 
 
 {{< cardlist >}}
-[Lands]
+{{< cardgroup title="Lands" >}}
 4 Treetop Village
 19 Forest
-[/Lands]
-[Creatures]
+{{< /cardgroup >}}
+{{< cardgroup title="Creatures" >}}
 4 Llanowar Elves
 3 Elvish Hexhunter
 3 Riftsweeper
@@ -30,19 +30,19 @@ I was debating whether I would even go to play in the tournament, as I was total
 4 Wilt-Leaf Cavaliers
 3 Jagged-Scar Archers
 3 Wilt-Leaf Liege
-[/Creatures]
-[Spells]
+{{< /cardgroup >}}
+{{< cardgroup title="Spells" >}}
 3 Tower Above
 2 Overrun
-[/Spells]
-[Sideboard]
+{{< /cardgroup >}}
+{{< cardgroup title="Sideboard" >}}
 3 Tormod's Crypt
 3 Primal Command
 3 Kitchen Finks
 2 Cloudthresher
 2 Squall Line
 2 Chameleon Colossus
-[/Sideboard]
+{{< /cardgroup >}}
 {{< /cardlist >}}
 
   

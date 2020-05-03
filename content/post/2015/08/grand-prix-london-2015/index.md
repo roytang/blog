@@ -21,7 +21,7 @@ I was sent to London for work for a few months, which meant an opportunity to pl
 
 {{< cardlist title="Jeskai Tempo" >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 4 Jace, Vryn's Prodigy
   
@@ -33,9 +33,9 @@ I was sent to London for work for a few months, which meant an opportunity to pl
   
 2 Stormbreath Dragon
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
   
 2 Wild Slash
   
@@ -55,9 +55,9 @@ I was sent to London for work for a few months, which meant an opportunity to pl
   
 1 Sarkhan Dragonspeaker
   
-[/Spells]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 3 Flooded Strand
   
@@ -77,9 +77,9 @@ I was sent to London for work for a few months, which meant an opportunity to pl
   
 2 Mountain
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
   
 1 End Hostilities
   
@@ -97,7 +97,7 @@ I was sent to London for work for a few months, which meant an opportunity to pl
   
 3 Arashin Cleric
   
-[/Sideboard]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 

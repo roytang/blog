@@ -29,191 +29,187 @@ I played in the Rise of Eldrazi Prerelease Event yesterday at Eton Cyberpod in t
 Annoying mall policies aside, here's my prerelease sealed pool:
 
 {{< cardlist title="Rise of Eldrazi Prerelease Sealed Pool" >}}
-[Colorless]
+{{< cardgroup title="Colorless" >}}
+1 Hand of Emrakul
+1 Skittering Invasion
+1 Ulamogs Crusher
+{{< /cardgroup >}}
   
-Hand of Emrakul
+{{< cardgroup title="White" >}}
   
-Skittering Invasion
+1 Eland Umbra
   
-Ulamogs Crusher
+1 Guard Duty
   
-[/Colorless]
+1 Hyena Umbra
   
-[White]
+1 Ikiral Outrider
   
-Eland Umbra
+1 Kabira Vindicator
   
-Guard Duty
+1 Kor Spiritdancer
   
-Hyena Umbra
+1 Lone Missionary
   
-Ikiral Outrider
+1 Near-Death Experience
   
-Kabira Vindicator
+1 Oust
   
-Kor Spiritdancer
+1 Repel the Darkness
   
-Lone Missionary
-  
-Near-Death Experience
-  
-Oust
-  
-Repel the Darkness
-  
-Smite
+1 Smite
   
 2 Souls Attendants
   
-Soulbound Guardians
+1 Soulbound Guardians
   
-Stalwart Shield-Bearers
+1 Stalwart Shield-Bearers
   
-[/White]
+{{< /cardgroup >}}
   
-[Blue]
+{{< cardgroup title="Blue" >}}
   
 2 Champions Drake
   
-Frostwind Invoker
+1 Frostwind Invoker
   
-Jwari Scuttler
+1 Jwari Scuttler
   
-Lay Bare
+1 Lay Bare
   
-Merfolk Observer
+1 Merfolk Observer
   
-Narcolepsy
+1 Narcolepsy
   
-Reality Spasm
+1 Reality Spasm
   
-Regress
+1 Regress
   
-Renegade Doppelganger
+1 Renegade Doppelganger
   
-See Beyond
+1 See Beyond
   
-Skywatcher Adept
+1 Skywatcher Adept
   
-[/Blue]
+{{< /cardgroup >}}
   
-[Black]
+{{< cardgroup title="Black" >}}
   
-Bloodrite Invoker
+1 Bloodrite Invoker
   
-Bloodthrone Vampire
+1 Bloodthrone Vampire
   
-Cadaver Imp
+1 Cadaver Imp
   
-Consuming Vapors
+1 Consuming Vapors
   
-Dread Drone
+1 Dread Drone
   
-Escaped Null
+1 Escaped Null
   
-Gloomhunter
+1 Gloomhunter
   
-Induce Despair
+1 Induce Despair
   
-Last Kiss
+1 Last Kiss
   
-Null Champion
+1 Null Champion
   
 2 Perish the Thought
   
-Shrivel
+1 Shrivel
   
-Skeletal Wurm
+1 Skeletal Wurm
   
-Suffer the Past
+1 Suffer the Past
   
-[/Black]
+{{< /cardgroup >}}
   
-[Red]
+{{< cardgroup title="Red" >}}
   
-Akoum Boulderfoot
+1 Akoum Boulderfoot
   
-Battle Rampart
+1 Battle Rampart
   
-Battle-Rattle Shaman
+1 Battle-Rattle Shaman
   
-Conquering Manticore
+1 Conquering Manticore
   
 2 Flame Slash
   
-Fissure Vent
+1 Fissure Vent
   
-Goblin TUnneler
+1 Goblin TUnneler
   
-Lagac Lizard
+1 Lagac Lizard
   
-Lord of Shatterskull Pass
+1 Lord of Shatterskull Pass
   
-Rapacious One
+1 Rapacious One
   
-Spawning Breath
+1 Spawning Breath
   
-Staggershock
+1 Staggershock
   
-Traitorous Instinct
+1 Traitorous Instinct
   
-Vent Sentinel
+1 Vent Sentinel
   
-[/Red]
+{{< /cardgroup >}}
   
-[Green]
+{{< cardgroup title="Green" >}}
   
-Ancient Stirrings
+1 Ancient Stirrings
   
-Aura Gnarlid
+1 Aura Gnarlid
   
-Gravity Well
+1 Gravity Well
   
-Haze Frog
+1 Haze Frog
   
-Jaddi Lifestrider
+1 Jaddi Lifestrider
   
-Joraga Treespeaker
+1 Joraga Treespeaker
   
-Kozileks Predator
+1 Kozileks Predator
   
-Living Destiny
+1 Living Destiny
   
 2 Naturalize
   
-Nema Siltlurker
+1 Nema Siltlurker
   
-Ondu Giant
+1 Ondu Giant
   
-Overgrown Battlement
+1 Overgrown Battlement
   
-Preys Vengeance
+1 Preys Vengeance
   
-Snake Umbra
+1 Snake Umbra
   
 2 Stomper Cub
   
-[/Green]
+{{< /cardgroup >}}
   
-[Artifact]
+{{< cardgroup title="Artifact" >}}
   
-Enatu Golem
+1 Enatu Golem
   
-Ogres Cleaver
+1 Ogres Cleaver
   
 2 Prophetic Prism
   
-Sphinx Bone-Wand
+1 Sphinx Bone-Wand
   
-Warmongers Chariot
+1 Warmongers Chariot
   
-[/Artifact]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
-Evolving Wilds
+1 Evolving Wilds
   
-[/Lands]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 
@@ -221,7 +217,7 @@ Evolving Wilds
 
 {{< cardlist title="Rise of Eldrazi Prerelease Sealed Deck" >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 8 Mountain
   
@@ -229,9 +225,9 @@ Evolving Wilds
   
 1 Evolving Wilds
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 1 Ikiral Outrider
   
@@ -257,9 +253,9 @@ Evolving Wilds
   
 1 Ulamogs Crusher
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Other Spells]
+{{< cardgroup title="Spells" >}}
   
 1 Ogres Cleaver
   
@@ -279,7 +275,7 @@ Evolving Wilds
   
 1 Skittering Invasion
   
-[/Other Spells]
+{{< /cardgroup >}}
 {{< /cardlist >}}
 
 To battle!

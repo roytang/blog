@@ -16,13 +16,13 @@ I came to the tournament with my usual lack of sleep and a bit of a cold, which 
 
 {{< cardlist >}}
 
-[Land]
+{{< cardgroup title="Lands" >}}
 8 Islands
 8 Swamp
 1 Mountain
-[/Land]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Blind Phantasm
 1 Skulking Knight
 1 Veiling Oddity
@@ -38,9 +38,9 @@ I came to the tournament with my usual lack of sleep and a bit of a cold, which 
 1 Merfolk Thaumaturgist
 1 Viscerid Deepwalker
 1 Dream Stalker
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Mystical Teachings
 1 Second Wind
 1 Think Twice
@@ -49,14 +49,14 @@ I came to the tournament with my usual lack of sleep and a bit of a cold, which 
 1 Strangling Soot
 1 Death Rattle
 1 Tendrils of Corruption
-[/Spells]
+{{< /cardgroup >}}
 
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
 1 Swamp
 1 Sudden Shock
 1 Saltcrusted Steppes
 1 Molder
-[/Sideboard]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

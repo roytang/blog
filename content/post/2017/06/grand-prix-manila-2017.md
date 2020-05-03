@@ -37,7 +37,7 @@ This was the deck I ran:
 
 {{< cardlist title="Temur Marvel" >}}
   
-[Creatures]
+{{< cardgroup title="Creatures" >}}
   
 4 Rogue Refiner
   
@@ -49,9 +49,9 @@ This was the deck I ran:
   
 1 Torrential Gearhulk
   
-[/Creatures]
+{{< /cardgroup >}}
   
-[Spells]
+{{< cardgroup title="Spells" >}}
   
 2 Chandra Flamecaller
   
@@ -73,9 +73,9 @@ This was the deck I ran:
   
 1 Magma Spray
   
-[/Spells]
+{{< /cardgroup >}}
   
-[Lands]
+{{< cardgroup title="Lands" >}}
   
 4 Aether Hub
   
@@ -93,9 +93,9 @@ This was the deck I ran:
   
 1 Island
   
-[/Lands]
+{{< /cardgroup >}}
   
-[Sideboard]
+{{< cardgroup title="Sideboard" >}}
   
 2 Negate
   
@@ -119,7 +119,7 @@ This was the deck I ran:
   
 1 Baral's Expertise
   
-[/Sideboard]
+{{< /cardgroup >}}
   
 {{< /cardlist >}}
 

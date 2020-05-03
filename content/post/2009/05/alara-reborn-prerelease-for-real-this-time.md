@@ -14,7 +14,7 @@ And so, our delayed prerelease. My sealed deck (at least after initial tweaks --
 
 {{< cardlist >}}
 
-[Lands]
+{{< cardgroup title="Lands" >}}
 1 Crumbling Necropolis
 1 Grixis Panorama
 1 Jund Panorama
@@ -23,9 +23,9 @@ And so, our delayed prerelease. My sealed deck (at least after initial tweaks --
 1 Swamp
 3 Mountain
 5 Forest
-[/Lands]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Hell's Thunder
 1 Hissing Iguanar
 1 Druid of the Anima
@@ -40,9 +40,9 @@ And so, our delayed prerelease. My sealed deck (at least after initial tweaks --
 1 Jund Hackblade
 1 Naya Hushblade
 1 Messenger Falcons
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Oblivion Ring
 1 Resounding Silence
 1 Resounding Thunder
@@ -50,7 +50,7 @@ And so, our delayed prerelease. My sealed deck (at least after initial tweaks --
 1 Bituminous Blast
 2 Colossal Might
 1 Firewild Borderpost
-[/Spells]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

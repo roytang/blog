@@ -14,7 +14,7 @@ Lowryn Sealed card pool:
 
 {{< cardlist >}}
 
-[White]
+{{< cardgroup title="White" >}}
 1 Cloudgoat Ranger
 2 Goldmeadow Stalwart
 1 Kinsbaile Balloonist
@@ -27,9 +27,9 @@ Lowryn Sealed card pool:
 1 Surge of Thoughtweft
 1 Thoughtweft Trio
 1 Triclopean Sight
-[/White]
+{{< /cardgroup >}}
 
-[Blue]
+{{< cardgroup title="Blue" >}}
 1 Æthersnipe
 1 Amoeboid Changeling
 1 Drowner of Secrets
@@ -42,9 +42,9 @@ Lowryn Sealed card pool:
 2 Ponder
 1 Protective Bubble
 1 Tideshaper Mystic
-[/Blue]
+{{< /cardgroup >}}
 
-[Black]
+{{< cardgroup title="Black" >}}
 2 Bog Hoodlums
 1 Boggart Loggers
 1 Faerie Tauntings
@@ -58,9 +58,9 @@ Lowryn Sealed card pool:
 1 Quill-Slinger Boggart
 3 Scarred Vinebreeder
 1 Warren Pilferers
-[/Black]
+{{< /cardgroup >}}
 
-[Red]
+{{< cardgroup title="Red" >}}
 1 Ashling’s Prerogative
 1 Axegrinder Giant
 1 Boggart Shenanigans
@@ -74,9 +74,9 @@ Lowryn Sealed card pool:
 1 Inner-Flame Igniter
 1 Lowland Oaf
 1 Tarfire
-[/Red]
+{{< /cardgroup >}}
 
-[Green]
+{{< cardgroup title="Green" >}}
 1 Cloudcrown Oak
 1 Fistful of Force
 1 Guardian of Cloverdell
@@ -87,13 +87,13 @@ Lowryn Sealed card pool:
 1 Rootgrapple
 1 Timber Protector
 1 Woodland Changeling
-[/Green]
+{{< /cardgroup >}}
 
-[Artifacts and Multicolor]
+{{< cardgroup title="Others" >}}
 1 Runed Stalactite
 1 Wanderer’s Twig
 1 Wort, Boggart Auntie
-[/Artifacts and Multicolor]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 
@@ -101,12 +101,12 @@ My build:
 
 {{< cardlist >}}
 
-[Land]
+{{< cardgroup title="Lands" >}}
 7 Forest
 10 Plains
-[/Land]
+{{< /cardgroup >}}
 
-[Creatures]
+{{< cardgroup title="Creatures" >}}
 1 Cloudcrown Oak
 1 Guardian of Cloverdell
 1 Timber Protector
@@ -119,9 +119,9 @@ My build:
 1 Oaken Brawler
 2 Springjack Knight
 1 Thoughtweft Trio
-[/Creatures]
+{{< /cardgroup >}}
 
-[Spells]
+{{< cardgroup title="Spells" >}}
 1 Runed Stalactite
 1 Wanderer’s Twig
 1 Fistful of Force
@@ -130,7 +130,7 @@ My build:
 1 Neck Snap
 1 Surge of Thoughtweft
 1 Triclopean Sight
-[/Spells]
+{{< /cardgroup >}}
 
 {{< /cardlist >}}
 

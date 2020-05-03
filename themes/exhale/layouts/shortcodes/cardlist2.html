@@ -1,0 +1,51 @@
+<div class="mtgdecklist">
+    {{ $s := newScratch }}    
+    {{ $s.Set "LineCount" 0 }}
+    {{ range split (.Inner) "\n" }}
+        {{ $line := trim (.) "\n\r " }}
+        {{ if gt (len $line) 0 }}
+        {{ $s.Add "LineCount" 1 }}
+        {{ end }}
+    {{ end }}
+    {{ $s.Add "LineCount" -1 }}
+    {{ $s.Set "ColumnLimit" (div ($s.Get "LineCount") 3) }}
+    {{ $s.Set "CurrentLine" 0 }}
+    {{ $s.Set "CurrentLineInCurrentColumn" 0 }}
+    <div class="header">
+        <h4>{{ .Get "title" }}<hr></h4>
+    </div>
+    <div class="content">
+        <div class="wrapper">
+                {{ range split (.Inner) "\n" }}
+                    {{ $line := trim (.) "\n\r " }}
+                    {{ if gt (len $line) 0 }}
+                        {{ if hasPrefix $line "[/" }}
+                    </ul>
+            </div>
+                        {{ else if hasPrefix $line "[" }}
+            <div class="box">
+                <div class="section_header">{{ $line }}</div>
+                    <ul>
+                        {{ else }}
+                        {{ $s.Set "CardName" "" }}
+                        <li>{{ range $index, $value := split . " " }}
+                                {{ if (gt $index 0) }}
+                                    {{ if (gt $index 1) }}
+                                        {{ $s.Add "CardName" " " }}
+                                    {{ end }}
+                                    {{ $s.Add "CardName" . }}
+                                {{ else }}
+                                    {{ . }}
+                                {{ end }}
+                            {{ end }}
+                            <a target="_new" href='http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name={{ trim ($s.Get "CardName") "\n\r" }}' >{{ $s.Get "CardName" }}</a>
+                        </li>
+                        {{ end }}
+                        {{ $s.Add "CurrentLine" 1 }}
+                        {{ $s.Add "CurrentLineInCurrentColumn" 1 }}
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    <p></p>
