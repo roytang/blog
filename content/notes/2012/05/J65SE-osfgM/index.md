@@ -4,7 +4,10 @@ source: youtube
 syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=J65SE-osfgM
+- type: twitter
+  url: https://twitter.com/roytang/statuses/198685975570952192/
 tags:
+- asoiaf  
 - nedstarkisdead
 ---
 

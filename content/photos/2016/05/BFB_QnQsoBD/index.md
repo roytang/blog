@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/728249211452432384/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154579412603912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4hyz11/may_5th_mexico/d2twqb2/  
 tags:
 - sketchdaily
 ---
