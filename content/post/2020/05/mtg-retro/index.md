@@ -1,8 +1,13 @@
 ---
-title: "Magic the Gathering Restrospective"
 date: 2020-05-05
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104113766703827612
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1257515382174134273/
 tags:
 - magic the gathering
+title: Magic the Gathering Restrospective
 toc: true
 ---
 
