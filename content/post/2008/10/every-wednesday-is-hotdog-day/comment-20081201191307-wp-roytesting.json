@@ -1,1 +1,8 @@
-{"id": "wp-roytesting-20081201191307", "name": "roytesting", "url": "", "text": "line oneline two", "date": "2008-12-01 19:13:07", "photo": ""}
+{
+  "id": "wp-roytesting-20081201191307",
+  "name": "roytesting",
+  "url": "",
+  "text": "line one\n \nline two",
+  "date": "2008-12-01 19:13:07",
+  "photo": ""
+}

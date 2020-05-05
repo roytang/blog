@@ -1,1 +1,8 @@
-{"id": "wp-Roy-20081009051223", "name": "Roy", "url": "http://", "text": "Hi Benj. I actually read your blog also, sana nga dumami tayo hehe.About the decklists and cardnames, I do programming so I wrote a plugin for  Wordpress that automatically formats the decklists for me. Unfortunately since  you're using Blogger, it's more difficult since Blogger doesn't support  plugins. It might be possible using JavaScript... I'll think about it hehe", "date": "2008-10-09 05:12:23", "photo": ""}
+{
+  "id": "wp-Roy-20081009051223",
+  "name": "Roy",
+  "url": "http://",
+  "text": "Hi Benj. I actually read your blog also, sana nga dumami tayo hehe.\n \n \nAbout the decklists and cardnames, I do programming so I wrote a plugin for\nWordpress that automatically formats the decklists for me. Unfortunately since\nyou&#39;re using Blogger, it&#39;s more difficult since Blogger doesn&#39;t support\nplugins. It might be possible using JavaScript...I&#39;ll think about it hehe",
+  "date": "2008-10-09 05:12:23",
+  "photo": ""
+}

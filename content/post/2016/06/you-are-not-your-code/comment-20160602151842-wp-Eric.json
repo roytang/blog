@@ -1,1 +1,8 @@
-{"id": "wp-Eric-20160602151842", "name": "Eric", "url": "", "text": "This is very true. It also gets more difficult to write \"correct\"&#8216; code as you get older and gain more experience. The definition of \"correct\" is refined with experience and it becomes easy to get locked in analysis paralysis because you are much harder on yourself when reviewing your own code.There is something to just sitting down and making something work as a newbie. The fact that something works provides motivation to continue...  So much so that this has become my new approach to mentoring junior developers. Think about the problem, refine the high level design with input from others, and then code something that works. It's easier to refactor a working system than it is to try to design the perfect implementation up front.", "date": "2016-06-02 15:18:42", "photo": ""}
+{
+  "id": "wp-Eric-20160602151842",
+  "name": "Eric",
+  "url": "",
+  "text": "This is very true.  It also gets more difficult to write \"correct\"' code as you get older and gain more experience.  The definition of \"correct\" is refined with experience and it becomes easy to get locked in analysis paralysis because you are much harder on yourself when reviewing your own code.\n\nThere is something to just sitting down and making something work as a newbie.  The fact that something works provides motivation to continue...  So much so that this has become my new approach to mentoring junior developers.  Think about the problem, refine the high level design with input from others, and then code something that works.  It's easier to refactor a working system than it is to try to design the perfect implementation up front.",
+  "date": "2016-06-02 15:18:42",
+  "photo": ""
+}

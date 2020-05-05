@@ -1,1 +1,8 @@
-{"id": "wp-Aleks-20090204002524", "name": "Aleks", "url": "", "text": "Refactoring is an investment. You should be able to justify the effort to refactor the code on its long-term benefits. As for code reviews, I now think that its effectivity is largely dependent on when it's conducted. It's less effective when the developer is already done with the whole module/functionality and the QA team is about to do their thing. I think it's better to conduct the reviews when the developer has done a little coding and his design has been laid out.", "date": "2009-02-04 00:25:24", "photo": ""}
+{
+  "id": "wp-Aleks-20090204002524",
+  "name": "Aleks",
+  "url": "",
+  "text": "Refactoring is an investment. You should be able to justify the effort to refactor the code on its long-term benefits. \n \nAs for code reviews, I now think that its effectivity is largely dependent on when it&#39;s conducted. It&#39;s less effective when the developer is already done with the whole module/functionality and the QA team is about to do their thing. I think it&#39;s better to conduct the reviews when the developer has done a little coding and his design has been laid out.",
+  "date": "2009-02-04 00:25:24",
+  "photo": ""
+}

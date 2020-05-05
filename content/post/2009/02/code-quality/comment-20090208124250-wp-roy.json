@@ -1,1 +1,8 @@
-{"id": "wp-roy-20090208124250", "name": "roy", "url": "", "text": "I know full well about the benefits of refactoring and code reviews. What I'm saying is, there are other factors to consider. As developers who take pride in our work surely you should want to refactor and have someone looking at your code almost all the time. But like all things, software is largely a product of compromise. Sure, it works out well in the long run. But sometimes you just want to make it through the short run, you have to realize that cutting back on these code quality measures and accepting the technical debt is a viable business option.", "date": "2009-02-08 12:42:50", "photo": ""}
+{
+  "id": "wp-roy-20090208124250",
+  "name": "roy",
+  "url": "",
+  "text": "I know full well about the benefits of refactoring and code reviews. What I&#39;m saying is, there are other factors to consider. \n \nAs developers who take pride in our work surely you should want to refactor and have someone looking at your code almost all the time. But like all things, software is largely a product of compromise. \n \nSure, it works out well in the long run. But sometimes you just want to make it through the short run, you have to realize that cutting back on these code quality measures and accepting the technical debt is a viable business option.",
+  "date": "2009-02-08 12:42:50",
+  "photo": ""
+}

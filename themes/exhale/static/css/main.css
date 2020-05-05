@@ -842,3 +842,7 @@ details summary {
     border-radius: 25%;
     box-shadow: none;
 }
+
+.comment_body p {
+    margin-top: 0;
+}

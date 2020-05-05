@@ -1,1 +1,8 @@
-{"id": "wp-Roy-20070322084232", "name": "Roy", "url": "https://roytang.net/", "text": "Nah, I found it really it was bad memory. (The mem test that came with Ubuntu  really helped)I removed one of the 256MB pieces and Ubuntu works fine now (although I now  have only 256MB of memory left). Windows XP cannot boot at all, I guess one of  the files really did become corrupted. So I'm now a 100% linux user (at least  for the PC in my room)", "date": "2007-03-22 08:42:32", "photo": ""}
+{
+  "id": "wp-Roy-20070322084232",
+  "name": "Roy",
+  "url": "https://roytang.net/",
+  "text": "Nah, I found it really it was bad memory. (The mem test that came with Ubuntu\nreally helped)\n \n \nI removed one of the 256MB pieces and Ubuntu works fine now (although I now\nhave only 256MB of memory left). Windows XP cannot boot at all, I guess one of\nthe files really did become corrupted. So I&#39;m now a 100% linux user (at least\nfor the PC in my room)",
+  "date": "2007-03-22 08:42:32",
+  "photo": ""
+}

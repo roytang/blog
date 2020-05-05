@@ -1,1 +1,8 @@
-{"id": "wp-Arthur Abon-20070322002800", "name": "Arthur Abon", "url": "http://arthur-abon-resume.atspace.com/", "text": "Scan for malware perhaps? Sounds like something was trying to hide a dll and  the boot sector from the OS to me -- of course I could just be paranoid.", "date": "2007-03-22 00:28:00", "photo": ""}
+{
+  "id": "wp-Arthur Abon-20070322002800",
+  "name": "Arthur Abon",
+  "url": "http://arthur-abon-resume.atspace.com/",
+  "text": "Scan for malware perhaps? Sounds like something was trying to hide a dll and\nthe boot sector from the OS to me - of course I could just be paranoid.",
+  "date": "2007-03-22 00:28:00",
+  "photo": ""
+}
