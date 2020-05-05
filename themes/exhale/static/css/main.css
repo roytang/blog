@@ -355,7 +355,7 @@ code {
     vertical-align: center;
 }
 
-.title time {
+.title time, .comment time {
     color: var(--third-color);
     font-size: 0.8em;
     display: inline;
@@ -406,10 +406,6 @@ code {
 
 .navigation .next {
     text-align: right;
-}
-
-.linkless-commenter {
-    color: var(--second-color);
 }
 
 .hero {
@@ -534,15 +530,6 @@ form button {
 
 @media screen and (max-height: 575px){
     #rc-imageselect, .g-recaptcha {transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;}
-}
-
-.commenter-photo {
-    display: inline;
-    width: 0.8rem;
-    margin: 0;
-    padding: 0;
-    border-radius: 25%;
-    box-shadow: none;
 }
 
 .section-list {
@@ -835,4 +822,23 @@ details summary {
 
 .draft_navmenu a.active {
     border: 1px var(--second-color) solid;
+}
+
+/* Comments */
+
+.comment {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.linkless-commenter {
+    color: var(--second-color);
+}
+
+.commenter-photo {
+    width: 1.8rem;
+    margin: 0;
+    padding: 0;
+    border-radius: 25%;
+    box-shadow: none;
 }
