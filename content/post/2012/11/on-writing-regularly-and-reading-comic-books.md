@@ -20,6 +20,8 @@ Take this blog for instance. I randomly think of things to write about while I'm
 
 Anyway what I decided was: I'll just start a new blog. What the hell right? But this time, I'll focus on a topic for the blog. Restrictions breed creativity, or something. I needed to choose a topic that (a) I was fairly knowledgeable and passionate about; and (b) I would have something regarding that topic to write about on a regular basis. I've actually tried this before for Magic the Gathering, since I pretty much enjoy that game a lot, but the problem with MTG was that I was an irregular player and rarely had something new to write about. So I'm going to choose something else right now.
 
-The easiest area that covers the above requirements for me right now is easily reading comic books. I read a ton of them and I enjoy them and I follow the regular weekly releases and am usually excited for the next week of releases. So it seems like something I would be able to write regularly about. So, here we go: <a href="http://ireadcomicbooks.com/" target="_blank">I Read Comic Books</a> (originally I was just going to go with a wordpress.com site, but I was like aw what the hell, domains are cheap)
+The easiest area that covers the above requirements for me right now is easily reading comic books. I read a ton of them and I enjoy them and I follow the regular weekly releases and am usually excited for the next week of releases. So it seems like something I would be able to write regularly about. So, here we go: [I Read Comic Books](/source/ireadcomicbooks) (originally I was just going to go with a wordpress.com site, but I was like aw what the hell, domains are cheap)
 
 Hopefully it helps me get into the groove of regular writing, and somehow that groove propagates back to this blog.
+
+(Edit 2020: I no longer have the ireadcomicbooks.com domain, but all posts from that blog have been imported into this one. The link above has been updated as well.)
