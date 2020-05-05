@@ -58,4 +58,5 @@ Ratings scale:
 | 30 | The Hobbit: Battle of the Five Armies | 2014 | Apr 10 | This trilogy had far too many extra things that weren't in the books, but it was pretty good. I rank them Desolation > Five Armies > Journey. | 4 |
 | 31 | The Departed | 2006 | Apr 10 | This was intense. I liked it more than Goodfellas. | 5 |
 | 32 | Spirited Away | 2001 | Apr 15 | Shades of Alice in Wonderland and The Wizard of Oz. Easily the best Ghibli film I've watched so far. | 5 |
-| 33 | Psych the Movie | 2017 | May 03 | It's like an extended episode of Psych! | 5 |
+| 33 | Psych the Movie | 2017 | May 03 | It's like an extended episode of Psych! | 4 |
+| 34 | Ready Player One | 2018 | May 05 | A predictable yet fun romp. | 4 |
