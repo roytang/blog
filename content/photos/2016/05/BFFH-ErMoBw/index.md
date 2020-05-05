@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/728690574476218368/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154581784063912:2
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4i46bo/may_6th_free_draw_friday/d2vmrh5/
 tags:
 - sketchdaily
 ---

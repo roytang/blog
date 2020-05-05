@@ -10,4 +10,7 @@ slug: elegant-patterns-in-modern-javascript-ice-factory-dev-community
 source: pocket
 title: "Elegant patterns in modern JavaScript: Ice\_Factory - DEV Community \U0001F469\
   \u200D\U0001F4BB\U0001F468\u200D\U0001F4BB"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/993159236212477953/
 ---
