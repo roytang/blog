@@ -1,0 +1,52 @@
+{
+  "id": "wp-43127",
+  "name": "David Ramirez",
+  "url": "https://www.facebook.com/10153435228403991/",
+  "text": "<a href=\"https://www.facebook.com/10153435228403991/\" target=\"_blank\">David Ramirez</a> liked this on Facebook.",
+  "date": "2015-08-09 11:44:16",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154003132838912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10154003132838912",
+  "source": "wordpress-social",
+  "type": "like-of",
+  "raw_source": {
+    "wp:comment_id": "43127",
+    "wp:comment_author": "David Ramirez",
+    "wp:comment_author_email": "facebook.10153435228403991@example.com",
+    "wp:comment_author_url": "https://www.facebook.com/10153435228403991/",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-08-09 11:44:16",
+    "wp:comment_date_gmt": "2015-08-09 11:44:16",
+    "wp:comment_content": "<a href=\"https://www.facebook.com/10153435228403991/\" target=\"_blank\">David Ramirez</a> liked this on Facebook.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook-like",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "10153435228403991"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/10153435228403991/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10154003132838912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "10153435228403991"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjEwMTUzNDM1MjI4NDAzOTkxIiwibmFtZSI6IkRhdmlkIFJhbWlyZXoifQ=="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:3:{s:4:\"time\";d:1439149289.3650319576263427734375;s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

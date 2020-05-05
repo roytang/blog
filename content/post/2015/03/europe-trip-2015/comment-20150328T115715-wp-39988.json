@@ -1,0 +1,56 @@
+{
+  "id": "wp-39988",
+  "name": "Chiko Tiongson",
+  "url": "https://facebook.com/profile.php?id=100000137630015",
+  "text": "Wow... 130K inclusive of fare?",
+  "date": "2015-03-28 11:57:15",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "39988",
+    "wp:comment_author": "Chiko Tiongson",
+    "wp:comment_author_email": "facebook.100000137630015@example.com",
+    "wp:comment_author_url": "https://facebook.com/profile.php?id=100000137630015",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-03-28 11:57:15",
+    "wp:comment_date_gmt": "2015-03-28 11:57:15",
+    "wp:comment_content": "Wow... 130K inclusive of fare?",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "100000137630015"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/100000137630015/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10153665627243912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "10153665627243912_10153666464548912"
+      },
+      {
+        "wp:meta_key": "social_reply_to_id",
+        "wp:meta_value": "632418911_10153665627243912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJtZXNzYWdlIjoiV293Li4uIDEzMEsgaW5jbHVzaXZlIG9mIGZhcmU/IiwiZnJvbSI6eyJpZCI6IjEwMDAwMDEzNzYzMDAxNSIsIm5hbWUiOiJDaGlrbyBUaW9uZ3NvbiJ9LCJjcmVhdGVkX3RpbWUiOiIyMDE1LTAzLTI4VDExOjU3OjE1KzAwMDAiLCJjYW5fY29tbWVudCI6ZmFsc2UsImlkIjoiMTAxNTM2NjU2MjcyNDM5MTJfMTAxNTM2NjY0NjQ1NDg5MTIiLCJyZXBseV90b19pZCI6IjYzMjQxODkxMV8xMDE1MzY2NTYyNzI0MzkxMiIsInN0YXR1c19pZCI6IjYzMjQxODkxMV8xMDE1MzY2NTYyNzI0MzkxMiJ9"
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1427572365.031548023223876953125;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

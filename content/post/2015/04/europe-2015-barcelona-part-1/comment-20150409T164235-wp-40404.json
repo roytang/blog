@@ -1,0 +1,52 @@
+{
+  "id": "wp-40404",
+  "name": "Chiko Tiongson",
+  "url": "https://facebook.com/profile.php?id=100000137630015",
+  "text": "I like that you're very thorough with your description of your trip. Wheee! And I like your pix!",
+  "date": "2015-04-09 16:42:35",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153693173993912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10153693173993912",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "40404",
+    "wp:comment_author": "Chiko Tiongson",
+    "wp:comment_author_email": "facebook.100000137630015@example.com",
+    "wp:comment_author_url": "https://facebook.com/profile.php?id=100000137630015",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-04-09 16:42:35",
+    "wp:comment_date_gmt": "2015-04-09 16:42:35",
+    "wp:comment_content": "I like that you're very thorough with your description of your trip. Wheee! And I like your pix!",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "100000137630015"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/100000137630015/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10153693173993912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "10153693173993912_10153694026583912"
+      },
+      {
+        "wp:meta_key": "social_reply_to_id",
+        "wp:meta_value": "632418911_10153693173993912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJtZXNzYWdlIjoiSSBsaWtlIHRoYXQgeW91J3JlIHZlcnkgdGhvcm91Z2ggd2l0aCB5b3VyIGRlc2NyaXB0aW9uIG9mIHlvdXIgdHJpcC4gV2hlZWUhIEFuZCBJIGxpa2UgeW91ciBwaXghIiwiZnJvbSI6eyJpZCI6IjEwMDAwMDEzNzYzMDAxNSIsIm5hbWUiOiJDaGlrbyBUaW9uZ3NvbiJ9LCJjcmVhdGVkX3RpbWUiOiIyMDE1LTA0LTA5VDE2OjQyOjM1KzAwMDAiLCJjYW5fY29tbWVudCI6ZmFsc2UsImlkIjoiMTAxNTM2OTMxNzM5OTM5MTJfMTAxNTM2OTQwMjY1ODM5MTIiLCJyZXBseV90b19pZCI6IjYzMjQxODkxMV8xMDE1MzY5MzE3Mzk5MzkxMiIsInN0YXR1c19pZCI6IjYzMjQxODkxMV8xMDE1MzY5MzE3Mzk5MzkxMiJ9"
+      }
+    ]
+  }
+}

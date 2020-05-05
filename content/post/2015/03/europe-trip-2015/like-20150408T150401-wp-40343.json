@@ -1,0 +1,52 @@
+{
+  "id": "wp-40343",
+  "name": "Ryan Liwanag",
+  "url": "https://facebook.com/profile.php?id=645071724",
+  "text": "<a href=\"https://facebook.com/profile.php?id=645071724\" target=\"_blank\">Ryan Liwanag</a> liked this on Facebook.",
+  "date": "2015-04-08 15:04:01",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "source": "wordpress-social",
+  "type": "like-of",
+  "raw_source": {
+    "wp:comment_id": "40343",
+    "wp:comment_author": "Ryan Liwanag",
+    "wp:comment_author_email": "facebook.645071724@example.com",
+    "wp:comment_author_url": "https://facebook.com/profile.php?id=645071724",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-04-08 15:04:01",
+    "wp:comment_date_gmt": "2015-04-08 15:04:01",
+    "wp:comment_content": "<a href=\"https://facebook.com/profile.php?id=645071724\" target=\"_blank\">Ryan Liwanag</a> liked this on Facebook.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook-like",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "645071724"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/645071724/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10153665627243912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "645071724"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjY0NTA3MTcyNCIsIm5hbWUiOiJSeWFuIExpd2FuYWcifQ=="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1428506749.561172008514404296875;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "wp-39976",
+  "name": "Jane Pangilinan",
+  "url": "https://facebook.com/profile.php?id=621989549",
+  "text": "<a href=\"https://facebook.com/profile.php?id=621989549\" target=\"_blank\">Jane Pangilinan</a> liked this on Facebook.",
+  "date": "2015-03-28 11:03:55",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "source": "wordpress-social",
+  "type": "like-of",
+  "raw_source": {
+    "wp:comment_id": "39976",
+    "wp:comment_author": "Jane Pangilinan",
+    "wp:comment_author_email": "facebook.621989549@example.com",
+    "wp:comment_author_url": "https://facebook.com/profile.php?id=621989549",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-03-28 11:03:55",
+    "wp:comment_date_gmt": "2015-03-28 11:03:55",
+    "wp:comment_content": "<a href=\"https://facebook.com/profile.php?id=621989549\" target=\"_blank\">Jane Pangilinan</a> liked this on Facebook.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook-like",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "621989549"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/621989549/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10153665627243912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "621989549"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjYyMTk4OTU0OSIsIm5hbWUiOiJKYW5lIFBhbmdpbGluYW4ifQ=="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1427544483.9486129283905029296875;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

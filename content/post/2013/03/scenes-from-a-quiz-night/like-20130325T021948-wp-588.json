@@ -1,0 +1,44 @@
+{
+  "id": "wp-588",
+  "name": "David Ramirez",
+  "url": "http://facebook.com/profile.php?id=827533990",
+  "text": "<a href=\"http://facebook.com/profile.php?id=827533990\" target=\"_blank\">David Ramirez</a> liked this on Facebook.",
+  "date": "2013-03-25 02:19:48",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/603074006388963",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/603074006388963",
+  "source": "wordpress-social",
+  "type": "like-of",
+  "raw_source": {
+    "wp:comment_id": "588",
+    "wp:comment_author": "David Ramirez",
+    "wp:comment_author_email": "facebook.827533990@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=827533990",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-03-25 02:19:48",
+    "wp:comment_date_gmt": "2013-03-25 02:19:48",
+    "wp:comment_content": "<a href=\"http://facebook.com/profile.php?id=827533990\" target=\"_blank\">David Ramirez</a> liked this on Facebook.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook-like",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "827533990"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/827533990/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_603074006388963"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjgyNzUzMzk5MCIsIm5hbWUiOiJEYXZpZCBSYW1pcmV6In0="
+      }
+    ]
+  }
+}

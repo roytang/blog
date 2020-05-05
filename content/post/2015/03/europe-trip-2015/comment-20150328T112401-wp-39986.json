@@ -1,0 +1,56 @@
+{
+  "id": "wp-39986",
+  "name": "Chiko Tiongson",
+  "url": "https://facebook.com/profile.php?id=100000137630015",
+  "text": "Wow! I read what you wrote. Hehehe. Can't wait for the follow up when you talk about how you planned for everything and how much you spent. ^_^",
+  "date": "2015-03-28 11:24:01",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "39986",
+    "wp:comment_author": "Chiko Tiongson",
+    "wp:comment_author_email": "facebook.100000137630015@example.com",
+    "wp:comment_author_url": "https://facebook.com/profile.php?id=100000137630015",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-03-28 11:24:01",
+    "wp:comment_date_gmt": "2015-03-28 11:24:01",
+    "wp:comment_content": "Wow! I read what you wrote. Hehehe. Can't wait for the follow up when you talk about how you planned for everything and how much you spent. ^_^",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "100000137630015"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/100000137630015/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10153665627243912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "10153665627243912_10153666424413912"
+      },
+      {
+        "wp:meta_key": "social_reply_to_id",
+        "wp:meta_value": "632418911_10153665627243912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJtZXNzYWdlIjoiV293ISBJIHJlYWQgd2hhdCB5b3Ugd3JvdGUuIEhlaGVoZS4gQ2FuJ3Qgd2FpdCBmb3IgdGhlIGZvbGxvdyB1cCB3aGVuIHlvdSB0YWxrIGFib3V0IGhvdyB5b3UgcGxhbm5lZCBmb3IgZXZlcnl0aGluZyBhbmQgaG93IG11Y2ggeW91IHNwZW50LiBeX14iLCJmcm9tIjp7ImlkIjoiMTAwMDAwMTM3NjMwMDE1IiwibmFtZSI6IkNoaWtvIFRpb25nc29uIn0sImNyZWF0ZWRfdGltZSI6IjIwMTUtMDMtMjhUMTE6MjQ6MDErMDAwMCIsImNhbl9jb21tZW50IjpmYWxzZSwiaWQiOiIxMDE1MzY2NTYyNzI0MzkxMl8xMDE1MzY2NjQyNDQxMzkxMiIsInJlcGx5X3RvX2lkIjoiNjMyNDE4OTExXzEwMTUzNjY1NjI3MjQzOTEyIiwic3RhdHVzX2lkIjoiNjMyNDE4OTExXzEwMTUzNjY1NjI3MjQzOTEyIn0="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1427572365.0390679836273193359375;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

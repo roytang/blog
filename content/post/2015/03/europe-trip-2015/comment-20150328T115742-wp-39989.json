@@ -1,0 +1,52 @@
+{
+  "id": "wp-39989",
+  "name": "Roy Tang",
+  "url": "https://facebook.com/profile.php?id=632418911",
+  "text": "Yeap, everything na :)",
+  "date": "2015-03-28 11:57:42",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10153665627243912",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "39989",
+    "wp:comment_author": "Roy Tang",
+    "wp:comment_author_email": "facebook.632418911@example.com",
+    "wp:comment_author_url": "https://facebook.com/profile.php?id=632418911",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-03-28 11:57:42",
+    "wp:comment_date_gmt": "2015-03-28 11:57:42",
+    "wp:comment_content": "Yeap, everything na :)",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "632418911"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/632418911/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10153665627243912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "10153665627243912_10153666465053912"
+      },
+      {
+        "wp:meta_key": "social_reply_to_id",
+        "wp:meta_value": "632418911_10153665627243912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJtZXNzYWdlIjoiWWVhcCwgZXZlcnl0aGluZyBuYSA6KSIsImZyb20iOnsiaWQiOiI2MzI0MTg5MTEiLCJuYW1lIjoiUm95IFRhbmcifSwiY3JlYXRlZF90aW1lIjoiMjAxNS0wMy0yOFQxMTo1Nzo0MiswMDAwIiwiY2FuX2NvbW1lbnQiOmZhbHNlLCJpZCI6IjEwMTUzNjY1NjI3MjQzOTEyXzEwMTUzNjY2NDY1MDUzOTEyIiwicmVwbHlfdG9faWQiOiI2MzI0MTg5MTFfMTAxNTM2NjU2MjcyNDM5MTIiLCJzdGF0dXNfaWQiOiI2MzI0MTg5MTFfMTAxNTM2NjU2MjcyNDM5MTIifQ=="
+      }
+    ]
+  }
+}

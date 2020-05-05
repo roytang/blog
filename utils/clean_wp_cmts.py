@@ -116,36 +116,56 @@ def import_wp_social():
                             shutil.move(mdfile, newfile)
                             mdfile = newfile
 
-                        # for comment in found_comments:
-                        #     id = "webmention-%s" % (link["wm-id"])
-                        #     datestr = date.strftime('%Y%m%dT%H%M%S')
-                        #     wtype = link['wm-property']
-                        #     if wtype == 'like-of':
-                        #         newfile = newdir / ( "like-%s-%s.json" % (datestr, id) )
-                        #     elif wtype == 'repost-of':
-                        #         newfile = newdir / ( "repost-%s-%s.json" % (datestr, id) )
-                        #     # elif wtype == 'mention-of':
-                        #     #     newfile = newdir / ( "mention-%s-%s.json" % (datestr, id) )
-                        #     else:
-                        #         newfile = newdir / ( "comment-%s-%s.json" % (datestr, id) )
+                        newdir = mdfile.parent
+                        for comment in found_comments:
+                            id = "wp-%s" % (comment["wp:comment_id"])
+                            date = datetime.strptime(comment['wp:comment_date'], "%Y-%m-%d %H:%M:%S")
+                            datestr = date.strftime('%Y%m%dT%H%M%S')
+                            comment_type = comment["wp:comment_type"]
+                            # print(comment_type)
+                            if comment_type == "social-facebook-like":
+                                wtype = "like-of"
+                                newfile = newdir / ( "like-%s-%s.json" % (datestr, id) )
+                            elif comment_type == "social-twitter-rt":
+                                wtype = "repost-of"
+                                newfile = newdir / ( "repost-%s-%s.json" % (datestr, id) )
+                            else:
+                                wtype = "in-reply-to"
+                                newfile = newdir / ( "comment-%s-%s.json" % (datestr, id) )
 
-                        #     comment = {
-                        #         "id": id,
-                        #         "name": link['author']['name'],
-                        #         "url": link['author'].get('url', ''),
-                        #         "text": link.get("content", {}).get("text", ""), 
-                        #         "date": date.strftime("%Y-%m-%d %H:%M:%S"),
-                        #         "photo": link['author'].get('photo', ''),
-                        #         "source_url": link["wm-source"],
-                        #         "mention_url": link["url"],
-                        #         "source": "webmention",
-                        #         "type": wtype
-                        #     }
+                            photo_url = ""
+                            social_id = ""
+                            social_url = ""
+                            for cm in comment["wp:commentmeta"]:
+                                if cm['wp:meta_key'] == 'social_profile_image_url':
+                                    photo_url = cm['wp:meta_value']
+                                if cm['wp:meta_key'] == 'social_status_id':
+                                    social_id = cm['wp:meta_value']
+                            if comment_type.find("facebook") >= 0:
+                                post_id = social_id.split("_")[1]
+                                social_url = "https://www.facebook.com/stephen.roy.tang/posts/%s" % (post_id)
+                                photo_url = "/img/icons/facebook.png"
+                            if comment_type.find("twitter") >= 0:
+                                photo_url = "/img/icons/twitter.png"
 
-                        #     # save the comment into newdir
-                        #     if not newfile.exists():
-                        #         with Path(newfile).open("w", encoding="UTF-8") as f:
-                        #             f.write(json.dumps(comment))                            
+                            comment = {
+                                "id": id,
+                                "name": comment["wp:comment_author"],
+                                "url": comment["wp:comment_author_url"],
+                                "text": comment["wp:comment_content"], 
+                                "date": date.strftime("%Y-%m-%d %H:%M:%S"),
+                                "photo": photo_url,
+                                "source_url": social_url,
+                                "mention_url": social_url,
+                                "source": "wordpress-social",
+                                "type": wtype,
+                                "raw_source": comment
+                            }
+
+                            # save the comment into newdir
+                            if not newfile.exists():
+                                with Path(newfile).open("w", encoding="UTF-8") as f:
+                                    f.write(json.dumps(comment, indent=2))
 
     print(post_count)
 

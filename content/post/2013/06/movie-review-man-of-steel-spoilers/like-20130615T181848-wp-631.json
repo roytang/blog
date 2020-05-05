@@ -1,0 +1,44 @@
+{
+  "id": "wp-631",
+  "name": "Jareth Nathan Paculio",
+  "url": "http://facebook.com/profile.php?id=1229176137",
+  "text": "<a href=\"http://facebook.com/profile.php?id=1229176137\" target=\"_blank\">Jareth Nathan Paculio</a> liked this on Facebook.",
+  "date": "2013-06-15 18:18:48",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152288945448912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10152288945448912",
+  "source": "wordpress-social",
+  "type": "like-of",
+  "raw_source": {
+    "wp:comment_id": "631",
+    "wp:comment_author": "Jareth Nathan Paculio",
+    "wp:comment_author_email": "facebook.1229176137@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=1229176137",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-06-15 18:18:48",
+    "wp:comment_date_gmt": "2013-06-15 18:18:48",
+    "wp:comment_content": "<a href=\"http://facebook.com/profile.php?id=1229176137\" target=\"_blank\">Jareth Nathan Paculio</a> liked this on Facebook.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook-like",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "1229176137"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/1229176137/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10152288945448912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjEyMjkxNzYxMzciLCJuYW1lIjoiSmFyZXRoIE5hdGhhbiBQYWN1bGlvIn0="
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wp-647",
+  "name": "Jaime L. Garcia",
+  "url": "https://facebook.com/profile.php?id=662763386",
+  "text": "Di naman yan competition! Basta may progress, good. Also, you just might've been busier?",
+  "date": "2013-12-28 18:39:08",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152691018748912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10152691018748912",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "647",
+    "wp:comment_author": "Jaime L. Garcia",
+    "wp:comment_author_email": "facebook.662763386@example.com",
+    "wp:comment_author_url": "https://facebook.com/profile.php?id=662763386",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-12-28 18:39:08",
+    "wp:comment_date_gmt": "2013-12-28 18:39:08",
+    "wp:comment_content": "Di naman yan competition! Basta may progress, good. Also, you just might've been busier?",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "662763386"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/662763386/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10152691018748912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "10152691018748912_29468805"
+      },
+      {
+        "wp:meta_key": "social_reply_to_id",
+        "wp:meta_value": "632418911_10152691018748912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJtZXNzYWdlIjoiRGkgbmFtYW4geWFuIGNvbXBldGl0aW9uISBCYXN0YSBtYXkgcHJvZ3Jlc3MsIGdvb2QuIEFsc28sIHlvdSBqdXN0IG1pZ2h0J3ZlIGJlZW4gYnVzaWVyPyIsImZyb20iOnsibmFtZSI6IkphaW1lIEwuIEdhcmNpYSIsImlkIjoiNjYyNzYzMzg2In0sImNyZWF0ZWRfdGltZSI6IjIwMTMtMTItMjhUMTg6Mzk6MDgrMDAwMCIsImNhbl9jb21tZW50IjpmYWxzZSwiaWQiOiIxMDE1MjY5MTAxODc0ODkxMl8yOTQ2ODgwNSIsInJlcGx5X3RvX2lkIjoiNjMyNDE4OTExXzEwMTUyNjkxMDE4NzQ4OTEyIiwic3RhdHVzX2lkIjoiNjMyNDE4OTExXzEwMTUyNjkxMDE4NzQ4OTEyIn0="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1388274521.8339879512786865234375;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

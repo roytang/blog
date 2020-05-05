@@ -1,0 +1,48 @@
+{
+  "id": "wp-43705",
+  "name": "Dino L. R. Tansioco",
+  "url": "https://www.facebook.com/10205784757670930/",
+  "text": "<a href=\"https://www.facebook.com/10205784757670930/\" target=\"_blank\">Dino L. R. Tansioco</a> liked this on Facebook.",
+  "date": "2015-08-31 22:49:53",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154054033683912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10154054033683912",
+  "source": "wordpress-social",
+  "type": "like-of",
+  "raw_source": {
+    "wp:comment_id": "43705",
+    "wp:comment_author": "Dino L. R. Tansioco",
+    "wp:comment_author_email": "facebook.10205784757670930@example.com",
+    "wp:comment_author_url": "https://www.facebook.com/10205784757670930/",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-08-31 22:49:53",
+    "wp:comment_date_gmt": "2015-08-31 22:49:53",
+    "wp:comment_content": "<a href=\"https://www.facebook.com/10205784757670930/\" target=\"_blank\">Dino L. R. Tansioco</a> liked this on Facebook.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook-like",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "10205784757670930"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/10205784757670930/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10154054033683912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "10205784757670930"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjEwMjA1Nzg0NzU3NjcwOTMwIiwibmFtZSI6IkRpbm8gTC4gUi4gVGFuc2lvY28ifQ=="
+      }
+    ]
+  }
+}
