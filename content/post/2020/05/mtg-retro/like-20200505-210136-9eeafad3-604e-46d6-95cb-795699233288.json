@@ -1,0 +1,27 @@
+{
+  "source_obj": {
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1257515382174134273/12953232",
+    "like-of": "https://roytang.net/2020/05/magic-the-gathering-restrospective/",
+    "wm-target": "https://roytang.net/2020/05/magic-the-gathering-restrospective/",
+    "url": "https://twitter.com/roytang/status/1257515382174134273#favorited-by-12953232",
+    "author": {
+      "type": "card",
+      "url": "https://twitter.com/aleksfelipe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg",
+      "name": "Aleks Felipe"
+    },
+    "type": "entry",
+    "wm-received": "2020-05-05T21:01:36Z",
+    "wm-private": false,
+    "wm-id": 792870,
+    "wm-property": "like-of"
+  },
+  "id": "9eeafad3-604e-46d6-95cb-795699233288",
+  "name": "Aleks Felipe",
+  "url": "https://twitter.com/aleksfelipe",
+  "text": "[Aleks Felipe](https://twitter.com/aleksfelipe) [liked this](https://twitter.com/roytang/status/1257515382174134273#favorited-by-12953232)",
+  "source_url": "https://twitter.com/roytang/status/1257515382174134273#favorited-by-12953232",
+  "date": "2020-05-05 21:01:36",
+  "photo": null
+}

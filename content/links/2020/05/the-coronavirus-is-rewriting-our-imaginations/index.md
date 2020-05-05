@@ -4,14 +4,14 @@ link:
   source: pocket
   source_url: https://getpocket.com
   text: The Coronavirus Is Rewriting Our Imaginations
-  url: https://www.newyorker.com/culture/annals-of-inquiry/the-coronavirus-and-our-future
+  url: https://newyorker.com/culture/annals-of-inquiry/the-coronavirus-and-our-future
 source: pocket
 syndicated:
 - type: pocket
-  url: https://www.newyorker.com/culture/annals-of-inquiry/the-coronavirus-and-our-future
+  url: https://newyorker.com/culture/annals-of-inquiry/the-coronavirus-and-our-future
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/104105666804883772
+  url: https://mastodon.technology/users/roytang/statuses/104117895850183528
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1256996988794499072/
+  url: https://twitter.com/roytang/statuses/1257779647418216448/
 title: The Coronavirus Is Rewriting Our Imaginations
 ---
