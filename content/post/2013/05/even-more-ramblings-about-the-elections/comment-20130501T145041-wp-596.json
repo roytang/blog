@@ -1,0 +1,48 @@
+{
+  "id": "wp-596",
+  "name": "Ritchie Tiongson",
+  "url": "http://facebook.com/profile.php?id=1200227098",
+  "text": "I couldn't care less what they call us if it keeps guys like Estrada and Binay from the top of the polls.",
+  "date": "2013-05-01 14:50:41",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152216542488912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10152216542488912",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "596",
+    "wp:comment_author": "Ritchie Tiongson",
+    "wp:comment_author_email": "facebook.1200227098@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=1200227098",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-05-01 14:50:41",
+    "wp:comment_date_gmt": "2013-05-01 14:50:41",
+    "wp:comment_content": "I couldn't care less what they call us if it keeps guys like Estrada and Binay from the top of the polls.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "1200227098"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/1200227098/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10152216542488912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjYzMjQxODkxMV8xMDE1MjIxNjU0MjQ4ODkxMl8yNjU0NDg3NiIsImZyb20iOnsibmFtZSI6IlJpdGNoaWUgVGlvbmdzb24iLCJpZCI6IjEyMDAyMjcwOTgifSwibWVzc2FnZSI6IkkgY291bGRuJ3QgY2FyZSBsZXNzIHdoYXQgdGhleSBjYWxsIHVzIGlmIGl0IGtlZXBzIGd1eXMgbGlrZSBFc3RyYWRhIGFuZCBCaW5heSBmcm9tIHRoZSB0b3Agb2YgdGhlIHBvbGxzLiIsImNhbl9yZW1vdmUiOnRydWUsImNyZWF0ZWRfdGltZSI6IjIwMTMtMDUtMDFUMTQ6NTA6NDErMDAwMCIsImxpa2VfY291bnQiOjAsInVzZXJfbGlrZXMiOmZhbHNlLCJzdGF0dXNfaWQiOiI2MzI0MTg5MTFfMTAxNTIyMTY1NDI0ODg5MTIifQ=="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1367455120.8553240299224853515625;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

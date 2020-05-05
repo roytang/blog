@@ -1,0 +1,52 @@
+{
+  "id": "wp-38843",
+  "name": "Ritchie Tiongson",
+  "url": "https://facebook.com/profile.php?id=1200227098",
+  "text": "About time you posted this. :D",
+  "date": "2015-02-11 15:46:11",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153560245613912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10153560245613912",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "38843",
+    "wp:comment_author": "Ritchie Tiongson",
+    "wp:comment_author_email": "facebook.1200227098@example.com",
+    "wp:comment_author_url": "https://facebook.com/profile.php?id=1200227098",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-02-11 15:46:11",
+    "wp:comment_date_gmt": "2015-02-11 15:46:11",
+    "wp:comment_content": "About time you posted this. :D",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "1200227098"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/1200227098/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10153560245613912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "10153560245613912_10153560407383912"
+      },
+      {
+        "wp:meta_key": "social_reply_to_id",
+        "wp:meta_value": "632418911_10153560245613912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJtZXNzYWdlIjoiQWJvdXQgdGltZSB5b3UgcG9zdGVkIHRoaXMuIDpEIiwiZnJvbSI6eyJpZCI6IjEyMDAyMjcwOTgiLCJuYW1lIjoiUml0Y2hpZSBUaW9uZ3NvbiJ9LCJjcmVhdGVkX3RpbWUiOiIyMDE1LTAyLTExVDE1OjQ2OjExKzAwMDAiLCJjYW5fY29tbWVudCI6ZmFsc2UsImlkIjoiMTAxNTM1NjAyNDU2MTM5MTJfMTAxNTM1NjA0MDczODM5MTIiLCJyZXBseV90b19pZCI6IjYzMjQxODkxMV8xMDE1MzU2MDI0NTYxMzkxMiIsInN0YXR1c19pZCI6IjYzMjQxODkxMV8xMDE1MzU2MDI0NTYxMzkxMiJ9"
+      }
+    ]
+  }
+}

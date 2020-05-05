@@ -1,0 +1,48 @@
+{
+  "id": "wp-577",
+  "name": "Kerwin Tang",
+  "url": "http://facebook.com/profile.php?id=529124114",
+  "text": "di mo kinwento yung nilakad natin hanggang ali mall",
+  "date": "2013-02-11 02:43:15",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/375033702594744",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/375033702594744",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "577",
+    "wp:comment_author": "Kerwin Tang",
+    "wp:comment_author_email": "facebook.529124114@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=529124114",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-02-11 02:43:15",
+    "wp:comment_date_gmt": "2013-02-11 02:43:15",
+    "wp:comment_content": "di mo kinwento yung nilakad natin hanggang ali mall",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "529124114"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/529124114/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_375033702594744"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjYzMjQxODkxMV8zNzUwMzM3MDI1OTQ3NDRfMjA3MjM2MSIsImZyb20iOnsibmFtZSI6IktlcndpbiBUYW5nIiwiaWQiOiI1MjkxMjQxMTQifSwibWVzc2FnZSI6ImRpIG1vIGtpbndlbnRvIHl1bmcgbmlsYWthZCBuYXRpbiBoYW5nZ2FuZyBhbGkgbWFsbCIsImNhbl9yZW1vdmUiOnRydWUsImNyZWF0ZWRfdGltZSI6IjIwMTMtMDItMTFUMDI6NDM6MTUrMDAwMCIsImxpa2VfY291bnQiOjAsInVzZXJfbGlrZXMiOmZhbHNlLCJzdGF0dXNfaWQiOiI2MzI0MTg5MTFfMzc1MDMzNzAyNTk0NzQ0In0="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1360768087.1309120655059814453125;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

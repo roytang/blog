@@ -1,0 +1,44 @@
+{
+  "id": "wp-603",
+  "name": "Pam Lu",
+  "url": "http://facebook.com/profile.php?id=1822186497",
+  "text": "<a href=\"http://facebook.com/profile.php?id=1822186497\" target=\"_blank\">Pam Lu</a> liked this on Facebook.",
+  "date": "2013-05-11 15:01:27",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152231721258912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10152231721258912",
+  "source": "wordpress-social",
+  "type": "like-of",
+  "raw_source": {
+    "wp:comment_id": "603",
+    "wp:comment_author": "Pam Lu",
+    "wp:comment_author_email": "facebook.1822186497@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=1822186497",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-05-11 15:01:27",
+    "wp:comment_date_gmt": "2013-05-11 15:01:27",
+    "wp:comment_content": "<a href=\"http://facebook.com/profile.php?id=1822186497\" target=\"_blank\">Pam Lu</a> liked this on Facebook.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook-like",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "1822186497"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/1822186497/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10152231721258912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjE4MjIxODY0OTciLCJuYW1lIjoiUGFtIEx1In0="
+      }
+    ]
+  }
+}

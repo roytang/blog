@@ -1,0 +1,52 @@
+{
+  "id": "wp-40403",
+  "name": "Chiko Tiongson",
+  "url": "https://facebook.com/profile.php?id=100000137630015",
+  "text": "I am one of those who asked for more details! Woohoooo!",
+  "date": "2015-04-09 16:33:50",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153693173993912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10153693173993912",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "40403",
+    "wp:comment_author": "Chiko Tiongson",
+    "wp:comment_author_email": "facebook.100000137630015@example.com",
+    "wp:comment_author_url": "https://facebook.com/profile.php?id=100000137630015",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2015-04-09 16:33:50",
+    "wp:comment_date_gmt": "2015-04-09 16:33:50",
+    "wp:comment_content": "I am one of those who asked for more details! Woohoooo!",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "100000137630015"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://graph.facebook.com/100000137630015/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10153693173993912"
+      },
+      {
+        "wp:meta_key": "social_broadcast_id",
+        "wp:meta_value": "10153693173993912_10153693996843912"
+      },
+      {
+        "wp:meta_key": "social_reply_to_id",
+        "wp:meta_value": "632418911_10153693173993912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJtZXNzYWdlIjoiSSBhbSBvbmUgb2YgdGhvc2Ugd2hvIGFza2VkIGZvciBtb3JlIGRldGFpbHMhIFdvb2hvb29vISIsImZyb20iOnsiaWQiOiIxMDAwMDAxMzc2MzAwMTUiLCJuYW1lIjoiQ2hpa28gVGlvbmdzb24ifSwiY3JlYXRlZF90aW1lIjoiMjAxNS0wNC0wOVQxNjozMzo1MCswMDAwIiwiY2FuX2NvbW1lbnQiOmZhbHNlLCJpZCI6IjEwMTUzNjkzMTczOTkzOTEyXzEwMTUzNjkzOTk2ODQzOTEyIiwicmVwbHlfdG9faWQiOiI2MzI0MTg5MTFfMTAxNTM2OTMxNzM5OTM5MTIiLCJzdGF0dXNfaWQiOiI2MzI0MTg5MTFfMTAxNTM2OTMxNzM5OTM5MTIifQ=="
+      }
+    ]
+  }
+}

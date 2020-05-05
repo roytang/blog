@@ -1,0 +1,48 @@
+{
+  "id": "wp-568",
+  "name": "Lizbeth Jane Garcia",
+  "url": "http://facebook.com/profile.php?id=100000039030121",
+  "text": "Kawilihan bakery!!! :)",
+  "date": "2013-02-08 16:03:40",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/375033702594744",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/375033702594744",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "568",
+    "wp:comment_author": "Lizbeth Jane Garcia",
+    "wp:comment_author_email": "facebook.100000039030121@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=100000039030121",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-02-08 16:03:40",
+    "wp:comment_date_gmt": "2013-02-08 16:03:40",
+    "wp:comment_content": "Kawilihan bakery!!! :)",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "100000039030121"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/100000039030121/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_375033702594744"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjYzMjQxODkxMV8zNzUwMzM3MDI1OTQ3NDRfMjA2MDQ4NyIsImZyb20iOnsibmFtZSI6IkxpemJldGggSmFuZSBHYXJjaWEiLCJpZCI6IjEwMDAwMDAzOTAzMDEyMSJ9LCJtZXNzYWdlIjoiS2F3aWxpaGFuIGJha2VyeSEhISA6KSIsImNhbl9yZW1vdmUiOnRydWUsImNyZWF0ZWRfdGltZSI6IjIwMTMtMDItMDhUMTY6MDM6NDArMDAwMCIsImxpa2VfY291bnQiOjAsInVzZXJfbGlrZXMiOmZhbHNlLCJzdGF0dXNfaWQiOiI2MzI0MTg5MTFfMzc1MDMzNzAyNTk0NzQ0In0="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1360339867.5449850559234619140625;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

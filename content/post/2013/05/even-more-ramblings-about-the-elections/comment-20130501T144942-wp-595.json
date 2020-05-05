@@ -1,0 +1,48 @@
+{
+  "id": "wp-595",
+  "name": "Roy Tang",
+  "url": "http://facebook.com/profile.php?id=632418911",
+  "text": "Yeah, but then we'd be called undemocratic!",
+  "date": "2013-05-01 14:49:42",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152216542488912",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/10152216542488912",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "595",
+    "wp:comment_author": "Roy Tang",
+    "wp:comment_author_email": "facebook.632418911@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=632418911",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-05-01 14:49:42",
+    "wp:comment_date_gmt": "2013-05-01 14:49:42",
+    "wp:comment_content": "Yeah, but then we'd be called undemocratic!",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "632418911"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/632418911/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_10152216542488912"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjYzMjQxODkxMV8xMDE1MjIxNjU0MjQ4ODkxMl8yNjU0NDg2NiIsImZyb20iOnsibmFtZSI6IlJveSBUYW5nIiwiaWQiOiI2MzI0MTg5MTEifSwibWVzc2FnZSI6IlllYWgsIGJ1dCB0aGVuIHdlJ2QgYmUgY2FsbGVkIHVuZGVtb2NyYXRpYyEiLCJjYW5fcmVtb3ZlIjp0cnVlLCJjcmVhdGVkX3RpbWUiOiIyMDEzLTA1LTAxVDE0OjQ5OjQyKzAwMDAiLCJsaWtlX2NvdW50IjowLCJ1c2VyX2xpa2VzIjpmYWxzZSwic3RhdHVzX2lkIjoiNjMyNDE4OTExXzEwMTUyMjE2NTQyNDg4OTEyIn0="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1367455123.5710780620574951171875;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

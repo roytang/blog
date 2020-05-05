@@ -1,0 +1,48 @@
+{
+  "id": "wp-572",
+  "name": "Phines J. Tang",
+  "url": "http://facebook.com/profile.php?id=665089310",
+  "text": "di mo to nakuwento kahapon a. nice nice naman.",
+  "date": "2013-02-09 05:16:57",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/375033702594744",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/375033702594744",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "572",
+    "wp:comment_author": "Phines J. Tang",
+    "wp:comment_author_email": "facebook.665089310@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=665089310",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-02-09 05:16:57",
+    "wp:comment_date_gmt": "2013-02-09 05:16:57",
+    "wp:comment_content": "di mo to nakuwento kahapon a. nice nice naman.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "665089310"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/665089310/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_375033702594744"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjYzMjQxODkxMV8zNzUwMzM3MDI1OTQ3NDRfMjA2MzE5MCIsImZyb20iOnsibmFtZSI6IlBoaW5lcyBKLiBUYW5nIiwiaWQiOiI2NjUwODkzMTAifSwibWVzc2FnZSI6ImRpIG1vIHRvIG5ha3V3ZW50byBrYWhhcG9uIGEuIG5pY2UgbmljZSBuYW1hbi4iLCJjYW5fcmVtb3ZlIjp0cnVlLCJjcmVhdGVkX3RpbWUiOiIyMDEzLTAyLTA5VDA1OjE2OjU3KzAwMDAiLCJsaWtlX2NvdW50IjowLCJ1c2VyX2xpa2VzIjpmYWxzZSwic3RhdHVzX2lkIjoiNjMyNDE4OTExXzM3NTAzMzcwMjU5NDc0NCJ9"
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:4:{s:4:\"time\";d:1360474060.6028900146484375;s:7:\"message\";s:42:\"roy changed the comment status to approved\";s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}

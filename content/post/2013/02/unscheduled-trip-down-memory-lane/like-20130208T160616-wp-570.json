@@ -1,0 +1,44 @@
+{
+  "id": "wp-570",
+  "name": "Ian Jasper Villaver",
+  "url": "http://facebook.com/profile.php?id=100003478636278",
+  "text": "<a href=\"http://facebook.com/profile.php?id=100003478636278\" target=\"_blank\">Ian Jasper Villaver</a> liked this on Facebook.",
+  "date": "2013-02-08 16:06:16",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/375033702594744",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/375033702594744",
+  "source": "wordpress-social",
+  "type": "like-of",
+  "raw_source": {
+    "wp:comment_id": "570",
+    "wp:comment_author": "Ian Jasper Villaver",
+    "wp:comment_author_email": "facebook.100003478636278@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=100003478636278",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-02-08 16:06:16",
+    "wp:comment_date_gmt": "2013-02-08 16:06:16",
+    "wp:comment_content": "<a href=\"http://facebook.com/profile.php?id=100003478636278\" target=\"_blank\">Ian Jasper Villaver</a> liked this on Facebook.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook-like",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "100003478636278"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/100003478636278/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_375033702594744"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjEwMDAwMzQ3ODYzNjI3OCIsIm5hbWUiOiJJYW4gSmFzcGVyIFZpbGxhdmVyIn0="
+      }
+    ]
+  }
+}

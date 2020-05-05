@@ -1,0 +1,44 @@
+{
+  "id": "wp-587",
+  "name": "Bimbo Bren Dy Tioco",
+  "url": "http://facebook.com/profile.php?id=1563618599",
+  "text": "<a href=\"http://facebook.com/profile.php?id=1563618599\" target=\"_blank\">Bimbo Bren Dy Tioco</a> liked this on Facebook.",
+  "date": "2013-03-25 02:19:46",
+  "photo": "/img/icons/facebook.png",
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/603074006388963",
+  "mention_url": "https://www.facebook.com/stephen.roy.tang/posts/603074006388963",
+  "source": "wordpress-social",
+  "type": "like-of",
+  "raw_source": {
+    "wp:comment_id": "587",
+    "wp:comment_author": "Bimbo Bren Dy Tioco",
+    "wp:comment_author_email": "facebook.1563618599@example.com",
+    "wp:comment_author_url": "http://facebook.com/profile.php?id=1563618599",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2013-03-25 02:19:46",
+    "wp:comment_date_gmt": "2013-03-25 02:19:46",
+    "wp:comment_content": "<a href=\"http://facebook.com/profile.php?id=1563618599\" target=\"_blank\">Bimbo Bren Dy Tioco</a> liked this on Facebook.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-facebook-like",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "1563618599"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "http://graph.facebook.com/1563618599/picture"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "632418911_603074006388963"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJpZCI6IjE1NjM2MTg1OTkiLCJuYW1lIjoiQmltYm8gQnJlbiBEeSBUaW9jbyJ9"
+      }
+    ]
+  }
+}

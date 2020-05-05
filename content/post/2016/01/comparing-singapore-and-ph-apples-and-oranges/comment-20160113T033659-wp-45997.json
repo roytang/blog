@@ -1,0 +1,52 @@
+{
+  "id": "wp-45997",
+  "name": "switchfollows",
+  "url": "https://twitter.com/switchfollows",
+  "text": "@roytang Worth noting that GST is a % more than income tax in SG, and VAT is slightly less than income tax in PH.  Plus 4% from SG vehicles.",
+  "date": "2016-01-13 03:36:59",
+  "photo": "/img/icons/twitter.png",
+  "source_url": "",
+  "mention_url": "",
+  "source": "wordpress-social",
+  "type": "in-reply-to",
+  "raw_source": {
+    "wp:comment_id": "45997",
+    "wp:comment_author": "switchfollows",
+    "wp:comment_author_email": "twitter.33288003@example.com",
+    "wp:comment_author_url": "https://twitter.com/switchfollows",
+    "wp:comment_author_IP": "127.0.0.1",
+    "wp:comment_date": "2016-01-13 03:36:59",
+    "wp:comment_date_gmt": "2016-01-13 03:36:59",
+    "wp:comment_content": "@roytang Worth noting that GST is a % more than income tax in SG, and VAT is slightly less than income tax in PH.  Plus 4% from SG vehicles.",
+    "wp:comment_approved": "1",
+    "wp:comment_type": "social-twitter",
+    "wp:comment_parent": "0",
+    "wp:comment_user_id": "0",
+    "wp:commentmeta": [
+      {
+        "wp:meta_key": "social_account_id",
+        "wp:meta_value": "33288003"
+      },
+      {
+        "wp:meta_key": "social_profile_image_url",
+        "wp:meta_value": "https://pbs.twimg.com/profile_images/653568637320630272/dU3MO4lU_normal.jpg"
+      },
+      {
+        "wp:meta_key": "social_status_id",
+        "wp:meta_value": "687116101537271808"
+      },
+      {
+        "wp:meta_key": "social_in_reply_to_status_id",
+        "wp:meta_value": "687108898684207104"
+      },
+      {
+        "wp:meta_key": "social_raw_data",
+        "wp:meta_value": "eyJjcmVhdGVkX2F0IjoiV2VkIEphbiAxMyAwMzozNjo1OSArMDAwMCAyMDE2IiwiaWQiOiI2ODcxMTYxMDE1MzcyNzE4MDgiLCJpZF9zdHIiOiI2ODcxMTYxMDE1MzcyNzE4MDgiLCJ0ZXh0IjoiQHJveXRhbmcgV29ydGggbm90aW5nIHRoYXQgR1NUIGlzIGEgJSBtb3JlIHRoYW4gaW5jb21lIHRheCBpbiBTRywgYW5kIFZBVCBpcyBzbGlnaHRseSBsZXNzIHRoYW4gaW5jb21lIHRheCBpbiBQSC4gIFBsdXMgNCUgZnJvbSBTRyB2ZWhpY2xlcy4iLCJzb3VyY2UiOiI8YSBocmVmPVwiaHR0cDpcL1wvdHdpdHRlci5jb21cIiByZWw9XCJub2ZvbGxvd1wiPlR3aXR0ZXIgV2ViIENsaWVudDxcL2E+IiwidHJ1bmNhdGVkIjpmYWxzZSwiaW5fcmVwbHlfdG9fc3RhdHVzX2lkIjoiNjg3MTA4ODk4Njg0MjA3MTA0IiwiaW5fcmVwbHlfdG9fc3RhdHVzX2lkX3N0ciI6IjY4NzEwODg5ODY4NDIwNzEwNCIsImluX3JlcGx5X3RvX3VzZXJfaWQiOjE1ODc5MzIwLCJpbl9yZXBseV90b191c2VyX2lkX3N0ciI6IjE1ODc5MzIwIiwiaW5fcmVwbHlfdG9fc2NyZWVuX25hbWUiOiJyb3l0YW5nIiwidXNlciI6eyJpZCI6IjMzMjg4MDAzIiwiaWRfc3RyIjoiMzMyODgwMDMiLCJuYW1lIjoiTWljaGFlbERhbmllbCBTYW1zb24iLCJzY3JlZW5fbmFtZSI6InN3aXRjaGZvbGxvd3MiLCJsb2NhdGlvbiI6IlNpbmdhcG9yZSBcLyBQaGlsaXBwaW5lcyIsImRlc2NyaXB0aW9uIjoic29tZW9uZSB3aG8gdHJpZXMsIGFuZCBvZnRlbiBmYWlscywgYnV0IGdvZXMgYWxvbmcgd2l0aCBpdCB3aGlsZSB3YXRjaGluZyB0aGUgd29ybGQgdHVybiIsInVybCI6Imh0dHA6XC9cL3QuY29cL2tXSjJENU9udFMiLCJlbnRpdGllcyI6eyJ1cmwiOnsidXJscyI6W3sidXJsIjoiaHR0cDpcL1wvdC5jb1wva1dKMkQ1T250UyIsImV4cGFuZGVkX3VybCI6Imh0dHA6XC9cL21kdnNhbXNvbi5pbmZvIiwiZGlzcGxheV91cmwiOiJtZHZzYW1zb24uaW5mbyIsImluZGljZXMiOlswLDIyXX1dfSwiZGVzY3JpcHRpb24iOnsidXJscyI6W119fSwicHJvdGVjdGVkIjpmYWxzZSwiZm9sbG93ZXJzX2NvdW50Ijo2NiwiZnJpZW5kc19jb3VudCI6ODgsImxpc3RlZF9jb3VudCI6MywiY3JlYXRlZF9hdCI6IlN1biBBcHIgMTkgMTk6Mjg6NDcgKzAwMDAgMjAwOSIsImZhdm91cml0ZXNfY291bnQiOjE2MSwidXRjX29mZnNldCI6Mjg4MDAsInRpbWVfem9uZSI6IlNpbmdhcG9yZSIsImdlb19lbmFibGVkIjp0cnVlLCJ2ZXJpZmllZCI6ZmFsc2UsInN0YXR1c2VzX2NvdW50IjoxNzk3LCJsYW5nIjoiZW4iLCJjb250cmlidXRvcnNfZW5hYmxlZCI6ZmFsc2UsImlzX3RyYW5zbGF0b3IiOmZhbHNlLCJpc190cmFuc2xhdGlvbl9lbmFibGVkIjpmYWxzZSwicHJvZmlsZV9iYWNrZ3JvdW5kX2NvbG9yIjoiMTMxNTE2IiwicHJvZmlsZV9iYWNrZ3JvdW5kX2ltYWdlX3VybCI6Imh0dHA6XC9cL3Bicy50d2ltZy5jb21cL3Byb2ZpbGVfYmFja2dyb3VuZF9pbWFnZXNcLzY3NDgzMTI1M1wvMDA0YWY1Yzc5YjZiYmQ3NjMxZjcxNjcxZDFkZTBhZjEuanBlZyIsInByb2ZpbGVfYmFja2dyb3VuZF9pbWFnZV91cmxfaHR0cHMiOiJodHRwczpcL1wvcGJzLnR3aW1nLmNvbVwvcHJvZmlsZV9iYWNrZ3JvdW5kX2ltYWdlc1wvNjc0ODMxMjUzXC8wMDRhZjVjNzliNmJiZDc2MzFmNzE2NzFkMWRlMGFmMS5qcGVnIiwicHJvZmlsZV9iYWNrZ3JvdW5kX3RpbGUiOnRydWUsInByb2ZpbGVfaW1hZ2VfdXJsIjoiaHR0cDpcL1wvcGJzLnR3aW1nLmNvbVwvcHJvZmlsZV9pbWFnZXNcLzY1MzU2ODYzNzMyMDYzMDI3MlwvZFUzTU80bFVfbm9ybWFsLmpwZyIsInByb2ZpbGVfaW1hZ2VfdXJsX2h0dHBzIjoiaHR0cHM6XC9cL3Bicy50d2ltZy5jb21cL3Byb2ZpbGVfaW1hZ2VzXC82NTM1Njg2MzczMjA2MzAyNzJcL2RVM01PNGxVX25vcm1hbC5qcGciLCJwcm9maWxlX2xpbmtfY29sb3IiOiJBQkI4QzIiLCJwcm9maWxlX3NpZGViYXJfYm9yZGVyX2NvbG9yIjoiMDAwMDAwIiwicHJvZmlsZV9zaWRlYmFyX2ZpbGxfY29sb3IiOiJGNkY2RjYiLCJwcm9maWxlX3RleHRfY29sb3IiOiIzMzMzMzMiLCJwcm9maWxlX3VzZV9iYWNrZ3JvdW5kX2ltYWdlIjp0cnVlLCJoYXNfZXh0ZW5kZWRfcHJvZmlsZSI6ZmFsc2UsImRlZmF1bHRfcHJvZmlsZSI6ZmFsc2UsImRlZmF1bHRfcHJvZmlsZV9pbWFnZSI6ZmFsc2UsImZvbGxvd2luZyI6dHJ1ZSwiZm9sbG93X3JlcXVlc3Rfc2VudCI6ZmFsc2UsIm5vdGlmaWNhdGlvbnMiOmZhbHNlfSwiZ2VvIjpudWxsLCJjb29yZGluYXRlcyI6bnVsbCwicGxhY2UiOm51bGwsImNvbnRyaWJ1dG9ycyI6bnVsbCwiaXNfcXVvdGVfc3RhdHVzIjpmYWxzZSwicmV0d2VldF9jb3VudCI6MCwiZmF2b3JpdGVfY291bnQiOjAsImVudGl0aWVzIjp7Imhhc2h0YWdzIjpbXSwic3ltYm9scyI6W10sInVzZXJfbWVudGlvbnMiOlt7InNjcmVlbl9uYW1lIjoicm95dGFuZyIsIm5hbWUiOiJSb3kgVGFuZyIsImlkIjoiMTU4NzkzMjAiLCJpZF9zdHIiOiIxNTg3OTMyMCIsImluZGljZXMiOlswLDhdfV0sInVybHMiOltdfSwiZmF2b3JpdGVkIjpmYWxzZSwicmV0d2VldGVkIjpmYWxzZSwibGFuZyI6ImVuIn0="
+      },
+      {
+        "wp:meta_key": "akismet_history",
+        "wp:meta_value": "a:3:{s:4:\"time\";d:1452656520.3351099491119384765625;s:5:\"event\";s:15:\"status-approved\";s:4:\"user\";s:3:\"roy\";}"
+      }
+    ]
+  }
+}
