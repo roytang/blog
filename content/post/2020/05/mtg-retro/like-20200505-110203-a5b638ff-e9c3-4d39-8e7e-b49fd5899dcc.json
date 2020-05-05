@@ -1,0 +1,34 @@
+{
+  "name": "Dominik Schwind",
+  "id": "a5b638ff-e9c3-4d39-8e7e-b49fd5899dcc",
+  "source_obj": {
+    "url": "https://lostfocus.de/2020/05/82372/",
+    "wm-source": "https://lostfocus.de/2020/05/82372/",
+    "content": {
+      "html": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2020/05/magic-the-gathering-restrospective/\">https://roytang.net/2020/05/magic-the-gathering-restrospective/</a>.</p>",
+      "text": "Likes https://roytang.net/2020/05/magic-the-gathering-restrospective/."
+    },
+    "like-of": "https://roytang.net/2020/05/magic-the-gathering-restrospective/",
+    "wm-received": "2020-05-05T11:02:03Z",
+    "author": {
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "type": "card",
+      "url": "https://lostfocus.de"
+    },
+    "published": "2020-05-05T10:23:46+02:00",
+    "wm-id": 792629,
+    "wm-property": "like-of",
+    "rels": {
+      "canonical": "https://lostfocus.de/2020/05/82372/"
+    },
+    "wm-private": false,
+    "type": "entry",
+    "wm-target": "https://roytang.net/2020/05/magic-the-gathering-restrospective/"
+  },
+  "url": "https://lostfocus.de",
+  "text": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2020/05/magic-the-gathering-restrospective/\">https://roytang.net/2020/05/magic-the-gathering-restrospective/</a>.</p>",
+  "date": "2020-05-05 11:02:03",
+  "photo": null,
+  "source_url": "https://lostfocus.de/2020/05/82372/"
+}
