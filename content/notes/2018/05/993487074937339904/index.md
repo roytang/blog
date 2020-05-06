@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/993487074937339904/
+title: ''
 ---
 
-RT [@binarybucky](https://twitter.com/binarybucky/): OKOYE FINALLY HAD HER STARBUCKS https://t.co/iIGTBK3QrB
+OKOYE FINALLY HAD HER STARBUCKS

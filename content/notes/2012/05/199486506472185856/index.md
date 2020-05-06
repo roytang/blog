@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/199486506472185856/
+title: ''
 ---
 
-RT [@kylepulver](https://twitter.com/kylepulver/): Every single programming bug hunt seems to end with "Wow, I'm an idiot."
+Every single programming bug hunt seems to end with "Wow, I'm an idiot."

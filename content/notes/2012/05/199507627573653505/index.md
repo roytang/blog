@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/199507627573653505/
+title: ''
 ---
 
-RT [@reddit](https://twitter.com/reddit/): Find your home in the top map, the bottom map shows the point where you'd come out if you dug straight throu... https://t.co/ ...
+Find your home in the top map, the bottom map shows the point where you'd come out if you dug straight throu... http://redd.it/tazf4

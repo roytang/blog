@@ -10,6 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/993492882555265024/
 tags:
 - LukeCage
+title: ''
 ---
 
-RT [@Marvel](https://twitter.com/Marvel/): "You want to test me? You know where to find me." #LukeCage https://t.co/Ee7PpYaID6
+"You want to test me? You know where to find me." #LukeCage 
+
+{{< video width="320" height="180" src="https://video.twimg.com/amplify_video/993489687699390464/vid/1280x720/Ci-RXtWshIz4AX-h.mp4?tag=2" >}}
