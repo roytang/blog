@@ -61,3 +61,4 @@ Ratings scale:
 | 33 | Psych the Movie | 2017 | May 03 | It's like an extended episode of Psych! | 4 |
 | 34 | Ready Player One | 2018 | May 05 | A predictable yet fun romp. | 4 |
 | 35 | The Siege | 1998 | May 05 | Caught this on Cinemax when I went down for lunch. Much too idealistic in hindsight, given what happened in New York 3 years after this film released. | 3 |
+| 36 | Kong: Skull Island | 2017 | May 07 | Exciting popcorn movie. | 4 |
