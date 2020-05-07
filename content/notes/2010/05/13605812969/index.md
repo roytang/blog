@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/13605812969/
+title: ''
 ---
 
-RT [@Carnage4Life](https://twitter.com/Carnage4Life/): Vic Gundotra interviews Conan O' Brien at Google. Funny insights on Twitter, future of TV and arrogance of Googlers -  ...
+Vic Gundotra interviews Conan O' Brien at Google. Funny insights on Twitter, future of TV and arrogance of Googlers - http://bit.ly/cWZTAv

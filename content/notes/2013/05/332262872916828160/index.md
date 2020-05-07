@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/332262872916828160/
+title: ''
 ---
 
-RT [@alvinjtang](https://twitter.com/alvinjtang/): Sana may "Why?" na section sa balota pag boboto ka. Kapag panget sagot sorry not counted.
+Sana may "Why?" na section sa balota pag boboto ka. Kapag panget sagot sorry not counted.

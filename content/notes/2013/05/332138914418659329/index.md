@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/332138914418659329/
+title: ''
 ---
 
-RT [@ComplexVG](https://twitter.com/ComplexVG/): Guy Fighting His Own Hand "Street Fighter Style" Is Awesome https://www.buzzfeed.com/julianbrand/guy-fighting-his-own-hand-street-fighter-style-is-6eof via @buzzfeed
+Guy Fighting His Own Hand "Street Fighter Style" Is Awesome http://www.buzzfeed.com/julianbrand/guy-fighting-his-own-hand-street-fighter-style-is-6eof via @buzzfeed

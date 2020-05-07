@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@alvinjtang](https://twitter.com/alvinjtang/) hindi uso secret identity sa MCU. Anyway, MCU spider-man is a very different character than comics spider-man
-[@alvinjtang](https://twitter.com/alvinjtang/) have you seen the new trailer? may secret identity problems din sya dun lol
+
+[@alvinjtang](https://twitter.com/alvinjtang/) have you seen the new trailer? may secret identity problems din sya dun lol
