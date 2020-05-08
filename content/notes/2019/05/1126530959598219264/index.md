@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1126530959598219264/
+title: ''
 ---
 
-RT [@mcnr_b](https://twitter.com/mcnr_b/): もにまるせかんず https://t.co/T4XjEprBSY
+もにまるせかんず
