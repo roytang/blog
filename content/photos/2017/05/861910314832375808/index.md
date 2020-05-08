@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155607751028912
 ---
 
-I'm surprised I'm still listed as an ECE. Wala bang expiry? Lol https://t.co/sDF8lzijqx
+I'm surprised I'm still listed as an ECE. Wala bang expiry? Lol

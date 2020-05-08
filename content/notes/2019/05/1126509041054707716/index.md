@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1126509041054707716/
+title: ''
 ---
 
-RT [@vicegandako](https://twitter.com/vicegandako/): Matalino, magaling at MATINO si CHEL DIOKNO.  Iboboto ko sya para sa lahat ng Madlang People na naghahangad ng bansang may…
+Matalino, magaling at MATINO si CHEL DIOKNO.  Iboboto ko sya para sa lahat ng Madlang People na naghahangad ng bansang may hustisya. Sana maisama nyo rin sya sa iboboto nyong 12.
