@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/994245368068980737/
+title: ''
 ---
 
-RT [@oheather1337](https://twitter.com/oheather1337/): Friends who sit at a PC all day like myself, don’t forget: https://t.co/QoBju8jN99
+Friends who sit at a PC all day like myself, don’t forget:

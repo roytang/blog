@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/861909303740870660/
+title: ''
 ---
 
-RT [@GreenManGaming](https://twitter.com/GreenManGaming/): Happy Piccolo Day everyone! https://t.co/gBeiAR5vRL
+Happy Piccolo Day everyone!
