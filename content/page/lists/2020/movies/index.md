@@ -62,3 +62,4 @@ Ratings scale:
 | 34 | Ready Player One | 2018 | May 05 | A predictable yet fun romp. | 4 |
 | 35 | The Siege | 1998 | May 05 | Caught this on Cinemax when I went down for lunch. Much too idealistic in hindsight, given what happened in New York 3 years after this film released. | 3 |
 | 36 | Kong: Skull Island | 2017 | May 07 | Exciting popcorn movie. | 4 |
+| 37 | Ang Huling El Bimbo: The Musical | 2019 | May 08 | Ok, so this one isn't really a movie. The appeal for me is mostly the music and the nostalgia. The plot was serviceable, though some may find it problematic. | 4 |
