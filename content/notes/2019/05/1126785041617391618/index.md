@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1126785041617391618/
+title: ''
 ---
 
-RT [@benjancewicz](https://twitter.com/benjancewicz/): The story we were denied. https://t.co/smQptZhrxf
+The story we were denied.
