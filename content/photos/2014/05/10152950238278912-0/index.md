@@ -8,4 +8,8 @@ tags:
 - mobile-uploads
 ---
 
-[David Ramirez](https://www.facebook.com/827533990)'s book launchPlace: Ayala Malls (14.551569, 121.026208)Address: Glorietta, Ayala Center, 1226 Makati
+[David Ramirez](https://www.facebook.com/827533990)'s book launch
+
+Place: Ayala Malls (14.551569, 121.026208)
+
+Address: Glorietta, Ayala Center, 1226 Makati

@@ -11,6 +11,9 @@ syndicated:
 tags:
 - eleksyon2010
 - purplethumb
+- juanvote
+- halalan
+title: ''
 ---
 
-RT [@digitalfilipino](https://twitter.com/digitalfilipino/): "Democracy is based on the premise that many are wiser than the few." - Christian Monsod #eleksyon2010 #purplethumb ...
+"Democracy is based on the premise that many are wiser than the few." - Christian Monsod #eleksyon2010 #purplethumb #juanvote #halalan
