@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/730470819969671168/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154593076173912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4itw6g/may_11th_the_church_of_the_flying_spaghetti/d31nskw/
 tags:
 - sketchdaily
 ---

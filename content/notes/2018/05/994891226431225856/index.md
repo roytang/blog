@@ -1,5 +1,5 @@
 ---
-date: 2018-05-11 10:45:27
+date: 2018-05-11 10:45:27+00:00
 repost_source:
   name: AhmarSKhan
   type: twitter
@@ -12,6 +12,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156630354443912
 tags:
 - Brooklyn99
+title: ''
 ---
 
-RT [@AhmarSKhan](https://twitter.com/AhmarSKhan/): THREAD: As a tribute to Brooklyn Nine-Nine, the king of cold opening bits. I present some of the best. #Brooklyn99 https://…
+THREAD: As a tribute to Brooklyn Nine-Nine, the king of cold opening bits. I present some of the best. #Brooklyn99 
+
+{{< video width="320" height="179" src="https://video.twimg.com/ext_tw_video/994764923581468674/pu/vid/640x360/5ddKMOqk0HNP2CAC.mp4?tag=3" >}}

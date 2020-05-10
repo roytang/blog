@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/994915887139381248/
+title: ''
 ---
 
-RT [@marvelunsolved](https://twitter.com/marvelunsolved/): this black panther deleted scene just warmed my heart so much. https://t.co/0NsBij1HnE
+this black panther deleted scene just warmed my heart so much. 
+
+{{< video width="320" height="180" src="https://video.twimg.com/ext_tw_video/993706204412002304/pu/vid/1280x720/DykDmKHndYkzEliD.mp4?tag=3" >}}

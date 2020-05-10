@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1127124543779119104/
+title: ''
 ---
 
-RT [@DanSlott](https://twitter.com/DanSlott/): Writers (ESPECIALLY if you write long form serialized fiction):
+Writers (ESPECIALLY if you write long form serialized fiction):
+
 Read this thread. SO good. https://twitter.com/DSilvermint/status/1125856091261136896
