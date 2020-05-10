@@ -38,7 +38,7 @@ strong {
 }
 
 a {
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 a:hover {
@@ -200,7 +200,7 @@ article > h2, article > h2 a {
     font-size: 24px;
     font-family: Calibri, 'Lucida Grande', Helvetica, Arial, sans-serif;
     line-height: 120%;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 /* Archives */
@@ -216,7 +216,7 @@ table.grid_archive td.arc {
     border: 1px solid var(--second-color);
 }
 table.grid_archive a {
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 .grid-or-list .list_archive { display: none; }
 
@@ -248,7 +248,7 @@ table.grid_archive a {
 }
 
 .pagination a {
-    text-decoration: none;
+    /* text-decoration: none; */
     padding: 0.2rem;
     background-color: var(--second-container-color);
     border: 1px var(--second-color) solid;
