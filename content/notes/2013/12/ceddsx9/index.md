@@ -15,4 +15,5 @@ tags:
 
 How are you pronouncing it?
 
-Try saying something like "hanging". Now remove the "ha". Then replace the "ing" with" "ayon"\n
+Try saying something like "hanging". Now remove the "ha". Then replace the "ing" with" "ayon"
+

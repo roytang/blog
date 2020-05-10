@@ -14,4 +14,5 @@ tags:
 - Philippines
 ---
 
-The headline is ridiculous, since scrapping the PCGG is not the same as giving up on the Marcos loot, it just means that we won't have a dedicated agency for that one task, and their tasks will devolve to the DoJ.\n
+The headline is ridiculous, since scrapping the PCGG is not the same as giving up on the Marcos loot, it just means that we won't have a dedicated agency for that one task, and their tasks will devolve to the DoJ.
+

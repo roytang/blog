@@ -14,4 +14,5 @@ tags:
 - gaming
 ---
 
-At the very least, I will not be buying (nor pirating) ME3 on release, and will first see how the feedback online goes.\n
+At the very least, I will not be buying (nor pirating) ME3 on release, and will first see how the feedback online goes.
+

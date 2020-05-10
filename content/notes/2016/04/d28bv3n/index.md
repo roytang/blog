@@ -18,4 +18,5 @@ Someone PM'd me this:
 
 "He's the author of Airline Passenger's Rights Bill. It requires airlines to provide free food for 2-hr flight delay and free phone or internet and hotel for cancelled flights."
 
-Colmenares is more recently well-known for pushing for the SSS pension increase which was vetoed by the president.\n
+Colmenares is more recently well-known for pushing for the SSS pension increase which was vetoed by the president.
+

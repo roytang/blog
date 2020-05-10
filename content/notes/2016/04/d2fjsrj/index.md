@@ -16,4 +16,13 @@ tags:
 
 Highlights from this interview:
 
-- platform: jobs, education\n- increased employment rate in TESDA from 20+% to 70+%\n- in congress, author of FOI bill and moved to arrest congress members leaving the plenary to avoid the bill being passed\n- He/CIBAC said to have received kickbacks from Napoles (included in 3rd batch of people charged, but he says the NBI cleared him already because the docs used as basis were fake)\n- billboards funded by JIL church\n
+- platform: jobs, education
+
+- increased employment rate in TESDA from 20+% to 70+%
+
+- in congress, author of FOI bill and moved to arrest congress members leaving the plenary to avoid the bill being passed
+
+- He/CIBAC said to have received kickbacks from Napoles (included in 3rd batch of people charged, but he says the NBI cleared him already because the docs used as basis were fake)
+
+- billboards funded by JIL church
+

@@ -14,4 +14,17 @@ tags:
 - comics
 ---
 
-I've thought about this before and would like them to bring over:\n\nMiles Morales (obviously)\nEvil Reed Richards\nKaren Grant\nNomi Blume\nJimmy Hudson\n
+I've thought about this before and would like them to bring over:
+
+
+
+Miles Morales (obviously)
+
+Evil Reed Richards
+
+Karen Grant
+
+Nomi Blume
+
+Jimmy Hudson
+

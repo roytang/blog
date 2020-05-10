@@ -15,4 +15,10 @@ tags:
 
 Which of the following should I binge-watch today? 
 
-- True Detective season 1\n- Suits season 3 part 2\n- Parks and Recreation season 1\n- Stein's Gate
+- True Detective season 1
+
+- Suits season 3 part 2
+
+- Parks and Recreation season 1
+
+- Stein's Gate

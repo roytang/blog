@@ -16,7 +16,9 @@ tags:
 
 Lacson has been linked to two issues during his tenure in the PNP:
 
-- the coverup of the Kuratong Baleleng rubout\n- the Dacer-Corbito double murder
+- the coverup of the Kuratong Baleleng rubout
+
+- the Dacer-Corbito double murder
 
 Both cases have been dismissed by the courts
 
@@ -26,6 +28,19 @@ While in the Senate, Lacson never availed of the PDAF.
 
 In the Senate, Lacson primarily authored the following:
 
-- Republic Act No. 9160, as amended by Republic Act 9194, otherwise known as the Anti-Money Laundering Act\n- Republic Act No. 9163, The National Service Training Program (NSTP) Act of 2001\n- Republic Act No. 9166, An Act Increasing the Base Pay of the Members of the AFP\n- Republic Act No. 9208, The Anti-Trafficking in Persons Act of 2003\n- Republic Act No. 9416, Anti-Cheating Act of 2007\n- Republic Act No. 9484, The Philippine Dental Act of 2007\n- Republic Act No. 9485, Anti-Red Tape Act of 2007
+- Republic Act No. 9160, as amended by Republic Act 9194, otherwise known as the Anti-Money Laundering Act
 
-He also served as fiscalizer by initiating various investigations (details in the Wikipedia article)\n
+- Republic Act No. 9163, The National Service Training Program (NSTP) Act of 2001
+
+- Republic Act No. 9166, An Act Increasing the Base Pay of the Members of the AFP
+
+- Republic Act No. 9208, The Anti-Trafficking in Persons Act of 2003
+
+- Republic Act No. 9416, Anti-Cheating Act of 2007
+
+- Republic Act No. 9484, The Philippine Dental Act of 2007
+
+- Republic Act No. 9485, Anti-Red Tape Act of 2007
+
+He also served as fiscalizer by initiating various investigations (details in the Wikipedia article)
+

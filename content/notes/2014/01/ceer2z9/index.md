@@ -20,4 +20,9 @@ I only played single games since I wanted to get a hang of the deck. I lost the 
 
 Some comments:
 
-- Grim return seems poor/situational, I never got to use it once. Though, it can hit opponent GYs right? I guess an upside would be he could animate the discard off that rat guy.\n- You have trouble/a slow start if you don't have an early newt; your only way to tutor him comes out turn 4 at the earliest\n- seem to have trouble/no way to recover if the opp gets into an early creature advantage. My two losses had 4+ creatures on the other side\n
+- Grim return seems poor/situational, I never got to use it once. Though, it can hit opponent GYs right? I guess an upside would be he could animate the discard off that rat guy.
+
+- You have trouble/a slow start if you don't have an early newt; your only way to tutor him comes out turn 4 at the earliest
+
+- seem to have trouble/no way to recover if the opp gets into an early creature advantage. My two losses had 4+ creatures on the other side
+

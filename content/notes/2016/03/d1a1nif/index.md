@@ -24,4 +24,5 @@ Again, what exactly does that mean? What exactly should a business be doing to n
 
 > That I don't know. Sa unit ko, walang ganyan. Cliche na pero, each unit in different areas operate independently from one another, so kung majajustify nila yun, sila na yun.
 
-Please find someone who can answer, that would be great\n
+Please find someone who can answer, that would be great
+

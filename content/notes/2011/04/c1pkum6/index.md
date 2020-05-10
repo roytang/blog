@@ -13,6 +13,8 @@ tags:
 - gaming
 ---
 
-Here you go:\nhttp://imgur.com/ITVSv
+Here you go:
+
+http://imgur.com/ITVSv
 
 Just something I randomly drew today :D

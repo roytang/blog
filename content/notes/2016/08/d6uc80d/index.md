@@ -16,6 +16,8 @@ tags:
 
 The API is pretty inconsistent and poorly designed. There's a lot of articles out there, here's one: https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/ It's not very elegant, and features seem to be added willy-nilly. Compare to languages like Python and Ruby, where new additions are reviewed with a focus on being "Pythonic" or "Ruby like" so that the entire language has a certain consistency
 
-\nPHP is also the most common introductory web development language (since most Apache installations support it by default), so there is a lot of poorly written beginner code in the wild, leading to more hate against the language
+
+
+PHP is also the most common introductory web development language (since most Apache installations support it by default), so there is a lot of poorly written beginner code in the wild, leading to more hate against the language
 
 That being said, if that's what you know, there's no problem with that, as long as you use it well. But it's also good to expose yourself to other languages so you can see if there are others that you will prefer

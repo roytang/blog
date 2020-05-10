@@ -18,4 +18,5 @@ You are confused. The bonus from giant growth does not yet exist at the time you
 
 Layering does not interact with the stack at all; the stack if for spells and effects currently being played to determine in what order their effects happen. Layers determine how different type of effects combine.
 
-To put it another way: The stack resolves effects one at a time so that they can change the current state. Layering tells you what the current state it when multiple effects have changed it in conflicting ways.\n
+To put it another way: The stack resolves effects one at a time so that they can change the current state. Layering tells you what the current state it when multiple effects have changed it in conflicting ways.
+

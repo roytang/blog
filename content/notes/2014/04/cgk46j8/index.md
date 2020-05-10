@@ -13,4 +13,5 @@ tags:
 - AskReddit
 ---
 
-There are small moments that each person lives for - the smile on a little kid's face, the joy of seeing your crush when you come in to the office in the morning, the satisfaction of a job well done, the thrill of beating unfair odds, the warm feeling of being able to help someone, etc. It varies person by person but these small moments of joy and happiness, no matter how rarely they come to us make all the stress, worries, problems, fears and insecurities of the in-between moments worth slogging through.\n
+There are small moments that each person lives for - the smile on a little kid's face, the joy of seeing your crush when you come in to the office in the morning, the satisfaction of a job well done, the thrill of beating unfair odds, the warm feeling of being able to help someone, etc. It varies person by person but these small moments of joy and happiness, no matter how rarely they come to us make all the stress, worries, problems, fears and insecurities of the in-between moments worth slogging through.
+

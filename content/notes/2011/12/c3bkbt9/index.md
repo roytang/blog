@@ -17,4 +17,5 @@ I'd appreciate either one; if you give me the orange box, I'll be giving it to a
 
 My steam id is the same as my reddit id.
 
-Cheers, happy holidays and good karma :D\n
+Cheers, happy holidays and good karma :D
+

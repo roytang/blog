@@ -16,7 +16,9 @@ tags:
 
 Yes, first the active player gains priority, then when he passes the non-active player will receive priority. This happens regardless of whether triggers go on the stack.
 
-Comp. rules:\n> 503. Upkeep Step
+Comp. rules:
+
+> 503. Upkeep Step
 
 > 503.1. First, any abilities that trigger at the beginning of the upkeep step and any abilities that triggered during the turn's untap step go on the stack. (See rule 603, "Handling Triggered Abilities.")
 

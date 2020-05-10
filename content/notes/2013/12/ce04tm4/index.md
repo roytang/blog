@@ -14,4 +14,5 @@ tags:
 - magicTCG
 ---
 
-Nope. Timestamp order only matters for effects in the same layer (i.e. if you resolve "set creature's P/T to 0/1" then afterwards resolve "set creature's P/T to 3/3", it becomes a 3/3), but for effects in different layers, they are applied simultaneously regardless of timestamp order.\n
+Nope. Timestamp order only matters for effects in the same layer (i.e. if you resolve "set creature's P/T to 0/1" then afterwards resolve "set creature's P/T to 3/3", it becomes a 3/3), but for effects in different layers, they are applied simultaneously regardless of timestamp order.
+

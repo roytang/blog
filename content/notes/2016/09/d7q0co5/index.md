@@ -16,4 +16,16 @@ tags:
 
 6'2"
 
-- People always assume I play basketball\n- Have to always be aware of headroom (to avoid accidentally hitting my head)\n- Bus and plane rides can be uncomfortable due to both lack of leg room and seat backs being too low to comfortably rest head/neck on\n- UV express and jeepneys can be a bit difficult too, depending on where you manage to sit, people are really bad at estimating that you need more space to pass\n- Difficult to hide in crowds\n- People always feel like I'm looking down on them (lol)\n- I can reach things in high places easily
+- People always assume I play basketball
+
+- Have to always be aware of headroom (to avoid accidentally hitting my head)
+
+- Bus and plane rides can be uncomfortable due to both lack of leg room and seat backs being too low to comfortably rest head/neck on
+
+- UV express and jeepneys can be a bit difficult too, depending on where you manage to sit, people are really bad at estimating that you need more space to pass
+
+- Difficult to hide in crowds
+
+- People always feel like I'm looking down on them (lol)
+
+- I can reach things in high places easily

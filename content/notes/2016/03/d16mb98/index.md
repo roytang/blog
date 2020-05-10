@@ -22,4 +22,5 @@ Er, didn't I say that even if abstaining for president you should consider votin
 
 If you want to vote for someone just so Binay doesn't win, that's fine. But the last time people voted for a candidate just so the supposed terrible candidate would not win, we got GMA as president, so there's that to consider. It's something I'm considering as well
 
-\n
+
+

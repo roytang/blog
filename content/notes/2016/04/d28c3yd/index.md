@@ -16,4 +16,8 @@ tags:
 
 Recent controversies:
 
-- opposed the RH bill\n- plagiarized a speech \n- Sotto is one of the two senators who have inserted provision on libel under the Cybercrime Prevention Act of 2012 or Anti-Cybercrime Law
+- opposed the RH bill
+
+- plagiarized a speech 
+
+- Sotto is one of the two senators who have inserted provision on libel under the Cybercrime Prevention Act of 2012 or Anti-Cybercrime Law

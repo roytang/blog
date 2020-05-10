@@ -2,7 +2,11 @@
 date: 2012-03-10 00:00:00
 reply_to:
   label: "a comment by IgotaBionicArm on 'Rumor: Capcom planning a DLC expansion to
-    \nUMVC3, 8 new chars for 15 dollars/ Disc for 40 \ndollars.' on /r/MvC3"
+    
+
+UMVC3, 8 new chars for 15 dollars/ Disc for 40 
+
+dollars.' on /r/MvC3"
   name: ''
   type: reddit
   url: https://reddit.com/r/MvC3/comments/qq35y/rumor_capcom_planning_a_dlc_expansion_to_umvc3_8/c3zk7wj/

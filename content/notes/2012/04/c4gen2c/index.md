@@ -13,4 +13,5 @@ tags:
 - 3DS
 ---
 
-I always have 300 coins =/ What should I be spending these coins on?\n
+I always have 300 coins =/ What should I be spending these coins on?
+

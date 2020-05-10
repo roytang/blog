@@ -14,4 +14,8 @@ tags:
 - Philippines
 ---
 
-claimed to have a copy of an audio recording between a “ranking government official” and a “lawmaker” who were supposedly talking about an alleged attempt to cover up the real turn of events on the Mamasapano incident. - http://newsinfo.inquirer.net/758540/duterte-valeroso-should-voluntary-appear-at-new-mamasapano-probe\n\nAdvocacies: http://www.rappler.com/nation/politics/elections/2016/130308-diosdado-valeroso-advocacies-senatorial-elections
+claimed to have a copy of an audio recording between a “ranking government official” and a “lawmaker” who were supposedly talking about an alleged attempt to cover up the real turn of events on the Mamasapano incident. - http://newsinfo.inquirer.net/758540/duterte-valeroso-should-voluntary-appear-at-new-mamasapano-probe
+
+
+
+Advocacies: http://www.rappler.com/nation/politics/elections/2016/130308-diosdado-valeroso-advocacies-senatorial-elections

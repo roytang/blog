@@ -14,7 +14,9 @@ tags:
 - answers
 ---
 
-http://www.ustream.tv/channel/playstation-live---english-2\nhttp://blog.us.playstation.com
+http://www.ustream.tv/channel/playstation-live---english-2
+
+http://blog.us.playstation.com
 
 I think Spike TV announced earlier that they would be Microsoft exclusive for E3 (I hear "they paid us some monies")
 

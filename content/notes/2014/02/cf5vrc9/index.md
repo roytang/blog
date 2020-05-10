@@ -13,6 +13,8 @@ tags:
 - magicTCG
 ---
 
-New Arid Mesa - Land\nT, pay 1 life, sacrifice ~: Reveal the top eight cards of your library. Choose a mountain or plains card from among the revealed cards and put it into play. Put the rest of the cards on the bottom of your library in any order.
+New Arid Mesa - Land
+
+T, pay 1 life, sacrifice ~: Reveal the top eight cards of your library. Choose a mountain or plains card from among the revealed cards and put it into play. Put the rest of the cards on the bottom of your library in any order.
 
 I don't think 4 works for selective searching like fetches, you probably have to go deeper

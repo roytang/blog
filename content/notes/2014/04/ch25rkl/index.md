@@ -17,11 +17,27 @@ Now that all of LSV's limited reviews are up, here's some stats for JOU:
 
 Total score of commons in each color:
 
-* W - 29.5\n* U - 30.5\n* B - 29\n* R - 28\n* G - 28.5
+* W - 29.5
+
+* U - 30.5
+
+* B - 29
+
+* R - 28
+
+* G - 28.5
 
 Total score of uncommons in each color:
 
-* W - 28\n* U - 30\n* B - 24\n* R - 26\n* G - 23.5
+* W - 28
+
+* U - 30
+
+* B - 24
+
+* R - 26
+
+* G - 23.5
 
 Of course, these stats could mean nothing and don't take into account how individual cards stack against each other and you should still use your best judgment, and LSV isn't always right/accurate, but if you have no time at all to study up on the set and don't know what color to pick for the prerelease, I'd go with Blue, with White as a second choice.
 

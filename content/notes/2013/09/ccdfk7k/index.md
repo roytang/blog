@@ -25,4 +25,5 @@ The Mark of Kri (PS2 Classic, PSN)
 
 Pro Evolution Soccer 2014 (PS3, Retail, PSN)
 
-Tokobot Plus: Mysteries of the Karakuri (PS2 Classic, PSN)\n
+Tokobot Plus: Mysteries of the Karakuri (PS2 Classic, PSN)
+

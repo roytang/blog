@@ -13,6 +13,8 @@ tags:
 - sketchdaily
 ---
 
-"Scott, did you give an ant a Christmas sweater?"\n"He was cold!"
+"Scott, did you give an ant a Christmas sweater?"
+
+"He was cold!"
 
 http://imgur.com/LGH0LUT

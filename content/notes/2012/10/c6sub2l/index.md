@@ -1,7 +1,9 @@
 ---
 date: 2012-10-28 00:00:00+00:00
 reply_to:
-  label: "'Will probably get downvoted to hell, but I need the \nmagic of the internet
+  label: "'Will probably get downvoted to hell, but I need the 
+
+magic of the internet
     to help me reach one of my idols' on /r/magicTCG"
   name: ''
   type: reddit

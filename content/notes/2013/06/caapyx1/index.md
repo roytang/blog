@@ -14,4 +14,5 @@ tags:
 - skyrim
 ---
 
-I just realized the Oblivion and Morrowind sales were only for 66% off; I'm sure I've seen them go for 75% off before though. It's only a couple of dollars difference for each, but I wish I had waited since I probably won't have time to play them both in the near future =/\n
+I just realized the Oblivion and Morrowind sales were only for 66% off; I'm sure I've seen them go for 75% off before though. It's only a couple of dollars difference for each, but I wish I had waited since I probably won't have time to play them both in the near future =/
+

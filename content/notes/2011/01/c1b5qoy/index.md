@@ -1,7 +1,9 @@
 ---
 date: 2011-01-03 00:00:00+00:00
 reply_to:
-  label: "a comment by [deleted] on 'Why sleazy people seem to outnumber good \r\npeople?'
+  label: "a comment by [deleted] on 'Why sleazy people seem to outnumber good \r
+
+people?'
     on /r/AskReddit"
   name: ''
   type: reddit

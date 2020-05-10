@@ -14,6 +14,10 @@ tags:
 - AskReddit
 ---
 
-If you feel like you have too much money, the reasonable options are:\n1. Save it for a rainy day (or invest to make it grow)\n2. Help out someone else in need, especially those who might not have everything during the holday season.
+If you feel like you have too much money, the reasonable options are:
+
+1. Save it for a rainy day (or invest to make it grow)
+
+2. Help out someone else in need, especially those who might not have everything during the holday season.
 
 That being said, I wouldn't mind being gifted a copy of Fallout: New Vegas on Steam :D

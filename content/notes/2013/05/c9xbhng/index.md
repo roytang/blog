@@ -13,6 +13,8 @@ tags:
 - RandomActsOfGaming
 ---
 
-Song: Look in Her Eyes by Gary V http://www.youtube.com/watch?v=nSmgsFVXjnE\nGame: Eh, I'll think of one later, I just wanted to give you a song lol
+Song: Look in Her Eyes by Gary V http://www.youtube.com/watch?v=nSmgsFVXjnE
+
+Game: Eh, I'll think of one later, I just wanted to give you a song lol
 
 :D
