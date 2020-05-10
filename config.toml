@@ -16,6 +16,8 @@ canonifyURLs = true
 [mediaTypes]
   [mediaTypes."application/ld+json"]
     suffixes = ["json"]
+  [mediaTypes."text/markdown"]
+    suffixes = ["md"]
 
 [outputFormats]
   [outputFormats.ActivityPub]
@@ -29,12 +31,15 @@ canonifyURLs = true
   [outputFormats.hfeed]
     baseName = "hfeed"
     mediaType = "text/html"    
+  [outputFormats.mdlist]
+    baseName = "list"
+    mediaType = "text/markdown"    
 
 [outputs]
   page = ["HTML"]
   home = ["HTML", "RSS", "jsonfeed", "hfeed"]
   section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS", "mdlist"]
 
 [taxonomies]
     tag = "tags"
