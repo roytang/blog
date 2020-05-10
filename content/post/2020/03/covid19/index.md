@@ -1,6 +1,5 @@
 ---
 date: 2020-03-14 22:00:00
-pinned: true
 slug: covid19
 syndicated:
 - type: twitter
@@ -15,6 +14,7 @@ tags:
 - philippines
 - current events
 - diaries
+- covid19
 title: COVID19 Diary
 toc: true
 ---
@@ -618,5 +618,8 @@ We'll see if NCR manages to leave ECQ after the 15th, but even then we're still 
 
 Worldwide, there have been an additional 500k cases and 45k deaths over the past week.
 
+### Sunday, May the 10th
+
+This post was mostly an experiment in making a single continuous post that would be updated periodically. At this point (well over 10,000 words in this single post), I'm ready to admit this has been an unwieldy experiment. I will still continue the covid19 updates and thoughts, but probably as separate notes and posts. You can follow succeeding entries (including one for today) via the [covid19 tag](/tags/covid19/).
 
 To be continued...
