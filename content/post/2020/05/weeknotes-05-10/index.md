@@ -24,5 +24,6 @@ Recent Links of Interest:
 - [Great article in the NY times](https://www.nytimes.com/2020/04/23/magazine/closing-prune-restaurant-covid.html) (Annoying paywall warning!) about what it's like owning and having to shutdown a restaurant in these times.
 - [68 bits of unsolicited advise](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) from Kevin Kelly
 - I've been enjoying Tom Scott's Youtube channel recently (unsurprisingly, he's a very popular Youtuber). I recently found out his background is actually in linguistics! Anyway, here's [a video from him about confusing differences in numbers across languages](https://www.youtube.com/watch?v=l4bmZ1gRqCc). 
+- In Singapore, they have [a robot dog making sure people are social distancing in public](https://www.theverge.com/2020/5/8/21251788/spot-boston-dynamics-robot-singapore-park-social-distancing). This is why [the creator of Black Mirror isn't even bothering right now](https://www.yahoo.com/entertainment/no-black-mirror-episodes-creator-162238548.html), reality is just too much already.
 
 Hoping we have a good week incoming, despite the current situation!
