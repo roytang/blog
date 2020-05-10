@@ -18,6 +18,13 @@ draft: true
 - Working with other people
   - [... with testers](/2016/06/working-with-testers/)
   - [... with people from other cultures](/2020/04/working-with-people-from-other-cultures/)
+- Software career perils
+  - [Burnout](/2020/02/burnout/)
+  - [Learning from failure](/2019/04/learning-from-failure/)
+  - [Don&#39;t stay in the same place too long](/2019/03/dont-stay-in-the-same-place-too-long/)
+- Software engineering perils
+  - [What to do in a production crisis](/2019/11/prod-crisis/)
+  - [The Perils of Handover Documentation](/2019/11/handover-documentation/)
 - By technology
   - HTML
     - [Pure HTML Toggles](/2020/04/pure-html-toggles/) (overrides [Pure CSS Spoilers](/2020/03/pure-css-spoilers/))
@@ -28,9 +35,23 @@ draft: true
     - Django
       - [Flask vs Django](/2020/01/flask-vs-django/)
       - [Django syndication framework: prevent appending SITE_ID to the links](/2018/02/48557175/)
+      - [Django Blog Application](/2018/10/django-blog-application/)
+      - [Django - is there a way to view the queries being executed by the ORM?](/2010/09/3727551/)
+      - [Stylesheet Switcher using Django](/2009/02/stylesheet-switcher-using-django/)
+      - [Using Django Pingback](/2009/01/using-django-pingback/)
+      - [Django Update -- WordPress Import and More](/2008/11/django-update-wordpress-import-and-more/)
+      - [django-tagging](/2008/10/django-tagging/)
+      - [Roy on Django](/2008/10/roy-on-django/)
+      - [Django and Google App Engine](/2008/08/django-and-google-app-engine/)
     - [DevNotes: Python&#39;s yield](/2019/11/python-yield/)
     - [Python: Markov Chains](/2019/08/python-markov-chains/)
     - [Devnotes: Python Pathlib](/2019/08/devnotes-python-pathlib/)
+    - [Running Python 2.x and 3.x on Windows](/2017/03/running-python-2-x-and-3-x-on-windows/)
+  - React Native
+    - [Upgrading a React Native Project](/2019/07/upgrading-a-react-native-project/)
+    - [React Native: How to use Webview?](/2017/10/46729939/)
+  - C++
+    - [Revisiting C&#43;&#43; after a decade](/2019/01/revisiting-c-after-a-decade/)
   - MarkLogic
     - [MarkLogic node.js: stream end event doesn&#39;t fire for certain collections](/2017/12/48011448/)
     - [Marklogic Template Driven Extraction: How to define nullable in Javascript template?](/2017/12/47880549/)
@@ -54,7 +75,14 @@ draft: true
     - [Devnotes: Migrating Mercurial to Git](/2019/08/devnotes-migrating-mercurial-to-git/)  
 - Projects
   - [Devnotes: TT Miniproject (Django Rest Framework, Unit Testing, VueJS, Geocoding, Nightwatch e2e Testing)](/2019/08/devnotes-tt-miniproject/)
+  - [A Quick Twitter App I Wrote](/2019/03/a-quick-twitter-app-i-wrote/)
+  - [TriviaStorm: Text and Answer parsing](/2019/02/triviastorm-text-and-answer-parsing/)
+  - [Weekend Project: Twitter Trivia Bot](/2017/02/weekend-project-twitter-trivia-bot/)
+  - [Weekend Project: Stack Bragger](/2010/07/weekend-project-stack-bragger/)
   - [Weekend Project #1: MTG Utils Decklist Sharing Tool](/2009/10/weekend-project-1-mtg-utils-decklist-sharing-tool/)
+  - [Sinfest!](/2004/10/sinfest/)
+
+
 
 
 Everything else unsorted under the software-development tag:
@@ -67,23 +95,12 @@ Everything else unsorted under the software-development tag:
 
 - [Browsers and HTTP](/2020/03/browsers-and-http/)
 
-- [Burnout](/2020/02/burnout/)
-
-- [What to do in a production crisis](/2019/11/prod-crisis/)
-
-- [The Perils of Handover Documentation](/2019/11/handover-documentation/)
-
-- [Upgrading a React Native Project](/2019/07/upgrading-a-react-native-project/)
 
 - [10X Programmers](/2019/07/10x-programmers/)
 
-- [Learning from failure](/2019/04/learning-from-failure/)
-
-- [A Quick Twitter App I Wrote](/2019/03/a-quick-twitter-app-i-wrote/)
 
 - [Lies and marketing](/2019/03/lies-and-marketing/)
 
-- [Don&#39;t stay in the same place too long](/2019/03/dont-stay-in-the-same-place-too-long/)
 
 - [Studying a large project codebase](/2019/03/studying-a-large-project-codebase/)
 
@@ -91,7 +108,6 @@ Everything else unsorted under the software-development tag:
 
 - [Hacktoberfest](/2019/02/hacktoberfest/)
 
-- [TriviaStorm: Text and Answer parsing](/2019/02/triviastorm-text-and-answer-parsing/)
 
 - [I still Google the most basic things](/2019/01/i-still-google-the-most-basic-things/)
 
@@ -103,8 +119,6 @@ Everything else unsorted under the software-development tag:
 
 - [Solution Architect](/2019/01/solution-architect/)
 
-- [Revisiting C&#43;&#43; after a decade](/2019/01/revisiting-c-after-a-decade/)
-
 - [Adding Developers to a Late Project](/2018/12/adding-developers-to-a-late-project/)
 
 - [My history in text editors](/2018/11/my-history-in-text-editors/)
@@ -114,8 +128,6 @@ Everything else unsorted under the software-development tag:
 - [Version Issues](/2018/11/version-issues/)
 
 - [Change and Risk and Governments](/2018/10/change-and-risk-and-governments/)
-
-- [Django Blog Application](/2018/10/django-blog-application/)
 
 - [Gladwell and Risk Management](/2018/10/gladwell-and-risk-management/)
 
@@ -132,8 +144,6 @@ Everything else unsorted under the software-development tag:
 
 - [vis.js network - is there a setting to make the node labels stay the same size on zoom?](/2017/11/47216649/)
 
-
-- [React Native: How to use Webview?](/2017/10/46729939/)
 
 - [vis.js - shorter edge lengths for higher edge value?](/2017/10/46579945/)
 
@@ -152,12 +162,6 @@ Everything else unsorted under the software-development tag:
 
 
 - [Google Code Jam and Competitive Programming](/2017/03/google-code-jam-and-competitive-programming/)
-
-- [Fake Devs and Whiteboard Interviews](/2017/03/fake-devs-and-whiteboard-interviews/)
-
-- [Running Python 2.x and 3.x on Windows](/2017/03/running-python-2-x-and-3-x-on-windows/)
-
-- [Weekend Project: Twitter Trivia Bot](/2017/02/weekend-project-twitter-trivia-bot/)
 
 - [Integrating Open Source Libraries](/2017/02/integrating-open-source-libraries/)
 
@@ -305,13 +309,10 @@ Everything else unsorted under the software-development tag:
 
 - [Configuring container-managed security in Weblogic](/2010/10/3931119/)
 
-- [Django - is there a way to view the queries being executed by the ORM?](/2010/09/3727551/)
 
 - [What are the methods of protecting JavaScript web applications/games?](/2010/07/3356868/)
 
 - [Proper way to contain floating elements using HTML/CSS?](/2010/07/3308615/)
-
-- [Weekend Project: Stack Bragger](/2010/07/weekend-project-stack-bragger/)
 
 - [jquery-like HTML parsing in Python?](/2010/06/3051295/)
 
@@ -371,7 +372,6 @@ Everything else unsorted under the software-development tag:
 
 - [The Joel on Software Discussion Group - Best Practices for code sharing among a ...](/2009/03/the-joel-on-software-discussion-group-best-practices-for-code-sharing-among-a/)
 
-- [Stylesheet Switcher using Django](/2009/02/stylesheet-switcher-using-django/)
 
 - [Zed Shaw -- the ACL is Dead](/2009/02/zed-shaw-the-acl-is-dead/)
 
@@ -379,7 +379,6 @@ Everything else unsorted under the software-development tag:
 
 - [Regular expression to remove hostname and port from URL?](/2009/01/441755/)
 
-- [Using Django Pingback](/2009/01/using-django-pingback/)
 
 - [COM Surrogate Has Stopped Working Error in Vista](/2009/01/com-surrogate-has-stopped-working-error-in-vista/)
 
@@ -393,11 +392,9 @@ Everything else unsorted under the software-development tag:
 
 - [Fixing up the comments](/2008/12/fixing-up-the-comments/)
 
-- [Django Update -- WordPress Import and More](/2008/11/django-update-wordpress-import-and-more/)
 
 - [Free Flex Shirt from Adobe](/2008/11/free-flex-shirt-from-adobe/)
 
-- [django-tagging](/2008/10/django-tagging/)
 
 - [I left it for a while](/2008/10/i-left-it-for-a-while/)
 
@@ -413,8 +410,6 @@ Everything else unsorted under the software-development tag:
 
 - [Getting Language for Non-Unicode Programs](/2008/10/217801/)
 
-- [Roy on Django](/2008/10/roy-on-django/)
-
 - [Starting out](/2008/10/starting-out/)
 
 - [Different framerate for loaded SWF file in Flex?](/2008/09/119927/)
@@ -429,7 +424,6 @@ Everything else unsorted under the software-development tag:
 
 - [Poorly Implemented Combo Box](/2008/08/poorly-implemented-combo-box/)
 
-- [Django and Google App Engine](/2008/08/django-and-google-app-engine/)
 
 - [Barcamp Manila](/2008/08/barcamp-manila/)
 
@@ -508,8 +502,6 @@ Everything else unsorted under the software-development tag:
 - [secretGeek](/2004/11/secretgeek/)
 
 - [Best Software Essays](/2004/10/best-software-essays/)
-
-- [Sinfest!](/2004/10/sinfest/)
 
 - [This is me being surprised](/2004/10/this-is-me-being-surprised/)
 
