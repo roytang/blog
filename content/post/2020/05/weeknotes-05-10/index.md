@@ -4,7 +4,6 @@ slug: weeknotes-2020-05-10
 tags:
 - weeknotes
 title: Weeknotes 2020-05-10
-draft: true
 ---
 
 My Stuff:
