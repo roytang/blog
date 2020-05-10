@@ -1,6 +1,11 @@
 ---
 date: 2020-05-10
 slug: weeknotes-2020-05-10
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104143847679822046
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1259440564736372736/
 tags:
 - weeknotes
 title: Weeknotes 2020-05-10
