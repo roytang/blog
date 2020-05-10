@@ -237,6 +237,20 @@
                             "_type": "rss",
                             "_xmlUrl": "https://waxy.org/feed/",
                             "_htmlUrl": "https://waxy.org"
+                        },
+                        {
+                            "_text": "Pluralistic",
+                            "_title": "Pluralistic",
+                            "_type": "rss",
+                            "_xmlUrl": "https://pluralistic.net/feed/",
+                            "_htmlUrl": "https://pluralistic.net/"
+                        },
+                        {
+                            "_text": "Second Breakfast",
+                            "_title": "Second Breakfast",
+                            "_type": "rss",
+                            "_xmlUrl": "https://secondbreakfast.co/feed.rss",
+                            "_htmlUrl": "https://secondbreakfast.co/page/1"
                         }
                     ],
                     "_text": "blogroll",
