@@ -1,9 +1,14 @@
 ---
-title: "Nobody Knows For Sure What's Going to Happen"
 date: 2020-05-11
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104147740506447414
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1259689705479655424/
 tags:
 - current-events
 - covid19
+title: Nobody Knows For Sure What's Going to Happen
 ---
 
 I mean, that's true in general of course. But it certainly seems much more true in these [pandemic times](/2020/03/covid19/). 
@@ -44,4 +49,4 @@ I don't buy that this crisis will change society for the better (though I am mor
 
 All the models and projections and predictions for the new normal, these things are useful at the policymaking levels. But for those of us just living our every day lives, it is difficult to look so far ahead. Right now, we are roiling about in a sea of uncertainty, unsure of what the future brings. All we can worry about will be what the next day looks like. Maybe the best we can do right now is just to take it one step at a time, and hope that we are making the right decisions to build towards a new normal that will actually be better than the last one.
 
-This post turned out more ranty than I thought it would be. 
+This post turned out more ranty than I thought it would be.
