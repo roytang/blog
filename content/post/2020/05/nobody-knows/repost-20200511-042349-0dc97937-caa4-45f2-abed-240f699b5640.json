@@ -1,0 +1,27 @@
+{
+  "date": "2020-05-11 04:23:49",
+  "source_url": "https://mastodon.technology/@roytang/104147740506447414#reblogged-by-77011",
+  "source_obj": {
+    "wm-received": "2020-05-11T04:23:49Z",
+    "type": "entry",
+    "wm-target": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/104147740506447414/77011",
+    "wm-private": false,
+    "repost-of": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "wm-property": "repost-of",
+    "author": {
+      "name": "Adrian Cochrane",
+      "type": "card",
+      "url": "https://floss.social/@alcinnz",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png"
+    },
+    "wm-id": 795093,
+    "url": "https://mastodon.technology/@roytang/104147740506447414#reblogged-by-77011",
+    "published": null
+  },
+  "name": "Adrian Cochrane",
+  "url": "https://floss.social/@alcinnz",
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) [shared this](https://mastodon.technology/@roytang/104147740506447414#reblogged-by-77011)",
+  "photo": null,
+  "id": "0dc97937-caa4-45f2-abed-240f699b5640"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2020-05-11 04:23:49",
+  "source_url": "https://mastodon.technology/@roytang/104147740506447414#favorited-by-298921",
+  "source_obj": {
+    "wm-received": "2020-05-11T04:23:49Z",
+    "type": "entry",
+    "wm-target": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104147740506447414/298921",
+    "wm-private": false,
+    "wm-id": 795092,
+    "wm-property": "like-of",
+    "author": {
+      "name": "Jake Bauer",
+      "type": "card",
+      "url": "https://social.paritybit.ca/@jbauer",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/8d705038407fa32abcbd3ef8d3f88aac9bb6303b938c51c16d1d0c88c05a207a.png"
+    },
+    "like-of": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "url": "https://mastodon.technology/@roytang/104147740506447414#favorited-by-298921",
+    "published": null
+  },
+  "name": "Jake Bauer",
+  "url": "https://social.paritybit.ca/@jbauer",
+  "text": "[Jake Bauer](https://social.paritybit.ca/@jbauer) [liked this](https://mastodon.technology/@roytang/104147740506447414#favorited-by-298921)",
+  "photo": null,
+  "id": "2fdfaca6-95ba-47c4-9ea2-dc82bf64aba2"
+}
