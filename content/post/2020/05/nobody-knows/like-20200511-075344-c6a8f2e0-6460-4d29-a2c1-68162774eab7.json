@@ -1,0 +1,27 @@
+{
+  "url": "https://mastodon.social/@lemeteore",
+  "text": "[Nsukami _ | \u5de3\u795e](https://mastodon.social/@lemeteore) [liked this](https://mastodon.technology/@roytang/104147740506447414#favorited-by-38362)",
+  "id": "c6a8f2e0-6460-4d29-a2c1-68162774eab7",
+  "date": "2020-05-11 07:53:44",
+  "photo": null,
+  "name": "Nsukami _ | \u5de3\u795e",
+  "source_obj": {
+    "url": "https://mastodon.technology/@roytang/104147740506447414#favorited-by-38362",
+    "wm-received": "2020-05-11T07:53:44Z",
+    "published": null,
+    "wm-id": 795125,
+    "wm-target": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "like-of": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104147740506447414/38362",
+    "author": {
+      "url": "https://mastodon.social/@lemeteore",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/b943eba65ed1cb8da87066a2418cb404b1f34c1651a4e3486101f40a8723d47c.jpg",
+      "name": "Nsukami _ | \u5de3\u795e"
+    },
+    "type": "entry",
+    "wm-private": false,
+    "wm-property": "like-of"
+  },
+  "source_url": "https://mastodon.technology/@roytang/104147740506447414#favorited-by-38362"
+}

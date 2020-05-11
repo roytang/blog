@@ -1,0 +1,27 @@
+{
+  "url": "https://mastodon.nl/@jasper",
+  "text": "[Jasper](https://mastodon.nl/@jasper) [liked this](https://mastodon.technology/@roytang/104147740506447414#favorited-by-136401)",
+  "id": "e68cbfc6-44a0-44a4-8b53-3e1969ea3045",
+  "date": "2020-05-11 07:53:45",
+  "photo": null,
+  "name": "Jasper",
+  "source_obj": {
+    "url": "https://mastodon.technology/@roytang/104147740506447414#favorited-by-136401",
+    "wm-received": "2020-05-11T07:53:45Z",
+    "published": null,
+    "wm-id": 795126,
+    "wm-target": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "like-of": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104147740506447414/136401",
+    "author": {
+      "url": "https://mastodon.nl/@jasper",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/2d8b9c35e12f56459083d6bc87def929146e2ec20a0db30bbbaeda973949ad6e.jpg",
+      "name": "Jasper"
+    },
+    "type": "entry",
+    "wm-private": false,
+    "wm-property": "like-of"
+  },
+  "source_url": "https://mastodon.technology/@roytang/104147740506447414#favorited-by-136401"
+}
