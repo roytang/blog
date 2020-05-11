@@ -1,0 +1,34 @@
+{
+  "url": "https://lostfocus.de",
+  "id": "fe523ab8-7f01-44f3-bf2a-bfb14933d2b5",
+  "photo": null,
+  "source_url": "https://lostfocus.de/2020/05/83747/",
+  "name": "Dominik Schwind",
+  "text": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/\">https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/</a>.</p>",
+  "source_obj": {
+    "wm-received": "2020-05-11T16:01:18Z",
+    "wm-property": "like-of",
+    "author": {
+      "url": "https://lostfocus.de",
+      "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "type": "card",
+      "name": "Dominik Schwind"
+    },
+    "wm-target": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "wm-source": "https://lostfocus.de/2020/05/83747/",
+    "like-of": "https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/",
+    "type": "entry",
+    "url": "https://lostfocus.de/2020/05/83747/",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lostfocus.de/2020/05/83747/"
+    },
+    "content": {
+      "text": "Likes https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/.",
+      "html": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/\">https://roytang.net/2020/05/nobody-knows-for-sure-whats-going-to-happen/</a>.</p>"
+    },
+    "published": "2020-05-11T09:42:56+02:00",
+    "wm-id": 795212
+  },
+  "date": "2020-05-11 16:01:18"
+}
