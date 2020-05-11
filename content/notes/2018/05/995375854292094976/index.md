@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/995375854292094976/
+title: ''
 ---
 
-RT [@loversdestiel](https://twitter.com/loversdestiel/): IM GASPING FOR AIR https://t.co/i6QaCJS6Fq
+IM GASPING FOR AIR

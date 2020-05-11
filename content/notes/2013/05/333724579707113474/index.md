@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/333724579707113474/
 tags:
 - Halalan2013
+title: ''
 ---
 
-What's up with the drop down list on the #Halalan2013 website? http://i.imgur.com/FthdUOx.png
+What's up with the drop down list on the #Halalan2013 website?

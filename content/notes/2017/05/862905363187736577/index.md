@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/862905363187736577/
+title: ''
 ---
 
-RT [@alvinjtang](https://twitter.com/alvinjtang/): Looking for developers and interns! Join our team! https://www.facebook.com/maroonstudiosph/posts/1299510443451500
+Looking for developers and interns! Join our team! https://www.facebook.com/maroonstudiosph/posts/1299510443451500

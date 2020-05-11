@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/995352942570913792/
+title: ''
 ---
 
-RT [@visakanv](https://twitter.com/visakanv/): love these slides from [@nikillinit](https://twitter.com/nikillinit/) on how to twitter – very close to how I use the platform https://speakerdeck.com/nikhilkrishnan/why-twitter-is-dope-and-how-to-use-it
+love these slides from [@nikillinit](https://twitter.com/nikillinit/) on how to twitter – very close to how I use the platform https://speakerdeck.com/nikhilkrishnan/why-twitter-is-dope-and-how-to-use-it
