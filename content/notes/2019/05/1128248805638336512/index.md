@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1128248805638336512/
+title: ''
 ---
 
-RT [@JohnCena](https://twitter.com/JohnCena/): Life is a state of constant motion. Whether that motion is forward or backwards is up to the one living the life.
+Life is a state of constant motion. Whether that motion is forward or backwards is up to the one living the life.

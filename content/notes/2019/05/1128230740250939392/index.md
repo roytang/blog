@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1128230740250939392/
+title: ''
 ---
 
-RT [@kevinalec](https://twitter.com/kevinalec/): 2019 elections silver linings thread
+2019 elections silver linings thread

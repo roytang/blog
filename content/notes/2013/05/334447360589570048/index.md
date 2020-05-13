@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/334447360589570048/
+title: ''
 ---
 
-RT [@Laughbook](https://twitter.com/Laughbook/): Life is better when you're laughing.
+Life is better when you're laughing.

@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/996045104409329664/
+title: ''
 ---
 
-What is this Windows? https://t.co/LdYNDfJJEb
+What is this Windows?
