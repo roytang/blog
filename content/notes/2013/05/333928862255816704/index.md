@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@rocketkeis](https://twitter.com/rocketkeis/) there's some sort of local app for resto reviews. Lololol or something like that, apihin mo sila dun
-[@rocketkeis](https://twitter.com/rocketkeis/) http://looloo.com/ pala. Lol. RT natin ung post mo for maximum damage/exposure.
+
+[@rocketkeis](https://twitter.com/rocketkeis/) http://looloo.com/ pala. Lol. RT natin ung post mo for maximum damage/exposure.

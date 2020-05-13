@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1127843766889377792/
 ---
 
-Civic duty completed! Now for the next stage: hoping the electorate does not disappoint https://t.co/2H4eg5NN0I
+Civic duty completed! Now for the next stage: hoping the electorate does not disappoint

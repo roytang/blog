@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1127831359081156609/
 ---
 
-Time to go attempt to change the fate of the nation https://t.co/ayWH1w10hN
+Time to go attempt to change the fate of the nation

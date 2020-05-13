@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/863438304150134784/
+title: ''
 ---
 
-RT [@AlanBaxter](https://twitter.com/AlanBaxter/): Neil Gaiman on imposter syndrome. https://t.co/RgneuZ4Bkt
+Neil Gaiman on imposter syndrome.

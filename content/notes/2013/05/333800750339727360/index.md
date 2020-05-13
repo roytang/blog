@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/333800750339727360/
+title: ''
 ---
 
-RT [@multipleegos](https://twitter.com/multipleegos/): ANC: "Because it takes a nation to build a nation." Huh? Does it take a house to build a house?
+ANC: "Because it takes a nation to build a nation." Huh? Does it take a house to build a house?

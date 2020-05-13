@@ -8,10 +8,15 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/334070398947827712/
+title: ''
 ---
 
-RT [@miniver](https://twitter.com/miniver/): Do this today:
+Do this today:
+
+
 
 1. Google "atari breakout"
+
 2. Switch to image search
+
 3. Enjoy

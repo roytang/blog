@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/333800780496773120/
+title: ''
 ---
 
-RT [@PCOSmachine](https://twitter.com/PCOSmachine/): Relax guys, I heard later today Supreme Court will issue a TRO against PCOS machines breaking down.
+Relax guys, I heard later today Supreme Court will issue a TRO against PCOS machines breaking down.

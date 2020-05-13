@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/333929970357374977/
+title: ''
 ---
 
-RT [@rocketkeis](https://twitter.com/rocketkeis/): Not gonna eat at Causeway Seafood Restaurant again. Sabi ng manager sa Libis branch, "Pangit pala service, ba't di kayo uma…
+Not gonna eat at Causeway Seafood Restaurant again. Sabi ng manager sa Libis branch, "Pangit pala service, ba't di kayo umalis."

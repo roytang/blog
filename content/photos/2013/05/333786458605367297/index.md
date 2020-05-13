@@ -4,6 +4,15 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/333786458605367297/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152234389613912
+tags:
+- timeline-photos
+albums:
+- timeline
+
 ---
 
-Finally done. Total time around 1hr including waiting and the actual voting https://t.co/m0ppO8Y2zl
+Finally done. Total time around 1hr including waiting and the actual voting 
+
+Facebook: As requested by [Marco Sancho](https://www.facebook.com/894055111)
