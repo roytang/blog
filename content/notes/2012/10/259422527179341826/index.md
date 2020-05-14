@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/259422527179341826/
 tags:
 - COMMUNITY
+title: ''
 ---
 
 RT [@MTVGeek](https://twitter.com/MTVGeek/): The #COMMUNITY cast reassures us that "October 19th" is a state of mind https://t.co/owZQm4i2

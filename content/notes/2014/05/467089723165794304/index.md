@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/467089723165794304/
+title: ''
 ---
 
-RT [@GeorgeTakei](https://twitter.com/GeorgeTakei/): What I see... https://t.co/FGReN70QzE
+What I see...

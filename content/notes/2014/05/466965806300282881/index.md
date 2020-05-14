@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/466965806300282881/
+title: ''
 ---
 
-RT [@iamdevloper](https://twitter.com/iamdevloper/): Fact: Deadlines contribute to 25% of the work related stress in software development. Jira accounts for the other 75%.
+Fact: Deadlines contribute to 25% of the work related stress in software development. Jira accounts for the other 75%.

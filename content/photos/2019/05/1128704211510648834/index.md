@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10157451451078912  
 ---
 
-Debating with people online be like https://t.co/uRBObPxN53
+Debating with people online be like

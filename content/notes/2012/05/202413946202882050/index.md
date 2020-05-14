@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/202413946202882050/
+title: ''
 ---
 
-RT [@LaTtEX](https://twitter.com/LaTtEX/): Yet another sad and horrific @cebupacificair story. No wonder you get people into Tulfoesque situations http://ow.ly/aV5HQ
+Yet another sad and horrific @cebupacificair story. No wonder you get people into Tulfoesque situations http://ow.ly/aV5HQ
