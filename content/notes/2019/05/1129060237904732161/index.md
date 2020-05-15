@@ -8,8 +8,13 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1129060237904732161/
+title: ''
 ---
 
-RT [@DemonDan14](https://twitter.com/DemonDan14/): Yo you like fighting games?
+Yo you like fighting games?
 
-My guy....Just watch this https://t.co/VWMIWaXqHN
+
+
+My guy....Just watch this 
+
+{{< video width="320" height="180" src="https://video.twimg.com/ext_tw_video/1128880224672919552/pu/vid/1280x720/QJWljtittIzF-B9-.mp4?tag=9" >}}

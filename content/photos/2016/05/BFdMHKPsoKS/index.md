@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/732077384770289665/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154602847328912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4jf84b/may_15th_motherhood/d376d56/
 tags:
 - sketchdaily
 ---

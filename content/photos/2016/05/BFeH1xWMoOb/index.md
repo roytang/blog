@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/732208728561180673/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154602847328912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4jk5i0/may_16th_trees/d37gzdy/
 tags:
 - sketchdaily
 ---
