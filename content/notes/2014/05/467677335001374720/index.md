@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/467677335001374720/
+title: ''
 ---
 
-RT [@GeorgeTakei](https://twitter.com/GeorgeTakei/): This is my stratus update. https://t.co/0PPrdTPEoL
+This is my stratus update.

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/14174623919/
+title: ''
 ---
 
-RT [@berkun](https://twitter.com/berkun/): you know it's a good day when you wake up with the james bond theme song in your head
+you know it's a good day when you wake up with the james bond theme song in your head

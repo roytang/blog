@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/732591089127804928/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154605878073912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4jpuau/may_17th_bathing/d38vebv/
 tags:
 - sketchdaily
 ---

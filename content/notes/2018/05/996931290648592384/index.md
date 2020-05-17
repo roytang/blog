@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/996931290648592384/
+title: ''
 ---
 
-RT [@BlazeHedgehog](https://twitter.com/BlazeHedgehog/): In 2018, Nancy is the best comic strip to be reading https://t.co/sookAfRrc6
+In 2018, Nancy is the best comic strip to be reading
