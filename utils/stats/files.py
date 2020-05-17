@@ -11,6 +11,7 @@ def count_files():
     # navigate to ./content/posts
     stats_by_suffix = {}
     p = cwd / "content" # / "notes" # / "2010" / "08"
+    p = Path("d:\\repos\\roytang.github.io\\")
     for afile in p.glob("**/*.*"):
         if not afile.is_dir():
             suffix = afile.suffix
