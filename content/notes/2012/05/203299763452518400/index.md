@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/203299763452518400/
+title: ''
 ---
 
-RT [@emaleeburditt](https://twitter.com/emaleeburditt/): All this week, anytime someone annoys me, I just look coldly into their eyes and say, "you know nothing Jon Snow."
+All this week, anytime someone annoys me, I just look coldly into their eyes and say, "you know nothing Jon Snow."

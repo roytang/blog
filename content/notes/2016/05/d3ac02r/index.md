@@ -11,6 +11,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/4jvll0/may_18th_visual_prompts/d3ac02r/
 tags:
 - sketchdaily
+album:
+- sketchbook
 ---
 
-I drew Wolverine from #1: http://imgur.com/dLcgaLs
+I drew Wolverine from #1

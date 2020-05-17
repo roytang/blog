@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/468028762034929664/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “Worry pretends to be necessary but serves no useful purpose.”
+“Worry pretends to be necessary but serves no useful purpose.”
+
 —Eckhart Tolle

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/468026090925989889/
+title: ''
 ---
 
-RT [@WilliamAder](https://twitter.com/WilliamAder/): Panicked when I saw "Godzilla" was trending, until I found out there's a movie.
+Panicked when I saw "Godzilla" was trending, until I found out there's a movie.
