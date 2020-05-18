@@ -39,10 +39,7 @@ def gen_chart(xaxis, yaxis, filename, title="", extra_data=[]):
     with outfile.open('w') as w:
         w.write(res)
 
-
-def gen_svg_blog():
-    sourcefile = root / "blog.json"
-    sections = ["post", "comments", "notes", "photos", "links", "words", "words_posts"]
+def gen_svg_json(sourcefile, sections):
     with sourcefile.open() as f:
         stats = json.loads(f.read())
         for s in sections:
@@ -57,6 +54,18 @@ def gen_svg_blog():
             for year in years:
                 data.append(sdata[year])
             gen_chart(years, data, s)
+
+def gen_svg_blog():
+    sourcefile = root / "blog.json"
+    sections = ["post", "comments", "notes", "photos", "links", "words", "words_posts"]
+    gen_svg_json(sourcefile, sections)
+
+def gen_svg_awstats():
+    sourcefile = root / "awstats.json"
+    sections = ["unique_visitors", "visits", "pages"]
+    gen_svg_json(sourcefile, sections)
+
+
 import csv
 def gen_svg_music(infile):
     with Path(infile).open(encoding='UTF-8') as f:
@@ -116,3 +125,4 @@ def gen_svg_music(infile):
 # infile = "C:\\Users\\USER\\Dropbox\\backups\\lastfm-roytang-20191206.csv"
 # gen_svg_music(infile)
 gen_svg_blog()
+gen_svg_awstats()
