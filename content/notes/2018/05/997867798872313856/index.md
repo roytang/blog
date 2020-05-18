@@ -1,5 +1,5 @@
 ---
-date: 2018-05-19 15:53:17
+date: 2018-05-19 15:53:17+00:00
 repost_source:
   name: AstroKatie
   type: twitter
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/997867798872313856/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156647919793912
+title: ''
 ---
 
-RT [@AstroKatie](https://twitter.com/AstroKatie/): I think it’s OK to occasionally have a nice time even if terrible things have happened and the world isn’t fixed yet
+I think it’s OK to occasionally have a nice time even if terrible things have happened and the world isn’t fixed yet

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/14321681409/
+title: ''
 ---
 
-RT [@rocketkeis](https://twitter.com/rocketkeis/): Cool artwork on https://www.youtube.com/watch?v=u6XAPnuFjJc - on autonomy, mastery & purpose as better motivators. Similar to his TED talk in h ...
+Cool artwork on http://bit.ly/bQepg7 - on autonomy, mastery & purpose as better motivators. Similar to his TED talk in http://bit.ly/4caCUV.

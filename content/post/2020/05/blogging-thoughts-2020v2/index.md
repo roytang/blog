@@ -60,7 +60,7 @@ The original post was correct however in that it is difficult to find old-school
 
 Until then, there are still a lot of blogs around, if you know where to look. One of my favorite avenues is Kicks Condors' [monthly HrefHunt updates](https://www.kickscondor.com/hrefhunt/). And I've mentioned before, but whenever anyone posts anything remotely nostalgic about old-school blogging on Hacker News, the comments are always full of links to blogs. There's specialized subreddits like [r/SpartanWeb](https://www.reddit.com/r/SpartanWeb/) (not many users!).
 
-If you run a blog, you can help by having a page where you list other blogs you like! Some kind of roll call, but for blogs. Like... a [blogroll](/page/blogroll/)? If they make a post you like, share it on your blog, and maybe on other social media channels too! Us indie and old-school bloggers need to have each other backs!
+If you run a blog, you can help by having a page where you list other blogs you like! Some kind of roll call, but for blogs. Like... a [blogroll](/page/blogroll/)? And if they make a post you like, share it on your blog, and maybe on other social media channels too! Us indie and old-school bloggers need to have each other backs!
 
 ### More To Come
 

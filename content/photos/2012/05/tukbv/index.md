@@ -4,6 +4,10 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/pics/comments/tukbv/reddit_lets_draw_anything_currently_in_your_line/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/203747020769464321/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151608888428912
 tags:
 - pics
 ---
