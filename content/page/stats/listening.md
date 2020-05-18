@@ -7,7 +7,7 @@ aliases:
 - /about/stats/listening
 ---
 
-Stats :: [Website](/page/stats/site) :: [Social Media](/page/stats/socmed) :: [MTG](/page/stats/mtg) :: [Listening](/page/stats/listening)
+Stats :: [Website](/page/stats/site) :: [Server-side Stats](/page/stats/awstats) :: [Social Media](/page/stats/socmed) :: [MTG](/page/stats/mtg) :: [Listening](/page/stats/listening)
 
 ---
 

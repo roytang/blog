@@ -7,7 +7,11 @@ aliases:
 date: 2020-05-18
 ---
 
-Stats :: [Website](/page/stats/site) :: [Social Media](/page/stats/socmed) :: [MTG](/page/stats/mtg) :: [Listening](/page/stats/listening)
+Stats :: [Website](/page/stats/site) :: [Server-side Stats](/page/stats/awstats) :: [Social Media](/page/stats/socmed) :: [MTG](/page/stats/mtg) :: [Listening](/page/stats/listening)
+
+---
+
+These stats are from AWStats.
 
 ---
 

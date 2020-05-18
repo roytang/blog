@@ -34,3 +34,5 @@ When playing with more people, the game can be balanced by adding more Killers a
 The game is best played with a group of people who know each other well and are comfortable staring into each other's eyes. It's a game of concentration, bluffing and deception that is probably close to impossible to accurately translate into a digital game.
 
 And because I just now noticed that WordPress now allows me to tag posts, I will tag this one with a term I coined just now: "meatspace-games"
+
+**Update 2020!** I found out there is a [Wikipedia entry](https://en.wikipedia.org/wiki/Wink_murder) about this game! (I checked the edit history, and the name "Killer-killer" was not part of the entry at the time that this post was written.)
