@@ -1,0 +1,27 @@
+{
+  "date": "2020-05-19 01:44:59",
+  "name": "Adrian Cochrane",
+  "source_url": "https://mastodon.technology/@roytang/104192252524903652#reblogged-by-77011",
+  "id": "5068da29-1306-4895-8eab-184fb7b1285f",
+  "url": "https://floss.social/@alcinnz",
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) [shared this](https://mastodon.technology/@roytang/104192252524903652#reblogged-by-77011)",
+  "photo": null,
+  "source_obj": {
+    "type": "entry",
+    "wm-property": "repost-of",
+    "wm-target": "https://roytang.net/2020/05/thoughts-on-blogging-2020-v2/",
+    "wm-private": false,
+    "url": "https://mastodon.technology/@roytang/104192252524903652#reblogged-by-77011",
+    "wm-id": 798209,
+    "repost-of": "https://roytang.net/2020/05/thoughts-on-blogging-2020-v2/",
+    "wm-received": "2020-05-19T01:44:59Z",
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/104192252524903652/77011",
+    "author": {
+      "url": "https://floss.social/@alcinnz",
+      "type": "card",
+      "name": "Adrian Cochrane",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png"
+    },
+    "published": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2020-05-19 01:45:01",
+  "name": "~addie \u00b7",
+  "source_url": "https://mastodon.technology/@roytang/104192252524903652#favorited-by-278099",
+  "id": "302fba95-cf6d-42c7-be5f-6331d5c53d33",
+  "url": "https://mas.to/@adalbertsen",
+  "text": "[~addie \u00b7](https://mas.to/@adalbertsen) [liked this](https://mastodon.technology/@roytang/104192252524903652#favorited-by-278099)",
+  "photo": null,
+  "source_obj": {
+    "type": "entry",
+    "wm-property": "like-of",
+    "wm-target": "https://roytang.net/2020/05/thoughts-on-blogging-2020-v2/",
+    "wm-private": false,
+    "url": "https://mastodon.technology/@roytang/104192252524903652#favorited-by-278099",
+    "wm-id": 798210,
+    "wm-received": "2020-05-19T01:45:01Z",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104192252524903652/278099",
+    "author": {
+      "url": "https://mas.to/@adalbertsen",
+      "type": "card",
+      "name": "~addie \u00b7",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/78142db9d5bbf2dbdaf40acb49ebf0f438d02fe2c0805b3c88f7eef212a1effd.png"
+    },
+    "like-of": "https://roytang.net/2020/05/thoughts-on-blogging-2020-v2/",
+    "published": null
+  }
+}
