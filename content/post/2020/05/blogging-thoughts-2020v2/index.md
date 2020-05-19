@@ -1,11 +1,16 @@
 ---
 date: 2020-05-19
+slug: thoughts-on-blogging-2020-v2
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104192252524903652
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1262538477062651904/
 tags:
 - blogging
 - writing
 - tech life
 title: Thoughts on Blogging, 2020 Edition, Vol 2
-slug: thoughts-on-blogging-2020-v2
 ---
 
 [Previously](/2020/02/thoughts-on-blogging-2020-edition/).
