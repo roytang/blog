@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/733746601076883462/
+title: ''
 ---
 
-RT [@BoredElonMusk](https://twitter.com/BoredElonMusk/): Feature that lets you send a big "NOOO" to your Lyft/Uber driver as you wait and watch them make wrong turns on the map.
+Feature that lets you send a big "NOOO" to your Lyft/Uber driver as you wait and watch them make wrong turns on the map.

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/468773928739954688/
+title: ''
 ---
 
-RT [@qikipedia](https://twitter.com/qikipedia/): The most difficult thing in the world is to know how to do a thing and to watch someone else do it wrong without comment. – …
+The most difficult thing in the world is to know how to do a thing and to watch someone else do it wrong without comment. – T H WHITE

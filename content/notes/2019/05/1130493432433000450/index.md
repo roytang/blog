@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@MTGGoldfish](https://twitter.com/MTGGoldfish/) [@VargasNi](https://twitter.com/VargasNi/) this provides an out to karn great creator + mycosynth lattice lock
-[@MTGGoldfish](https://twitter.com/MTGGoldfish/) [@VargasNi](https://twitter.com/VargasNi/) oops, no it doesnt. lattice makes everything colorless D:
+
+[@MTGGoldfish](https://twitter.com/MTGGoldfish/) [@VargasNi](https://twitter.com/VargasNi/) oops, no it doesnt. lattice makes everything colorless D:
