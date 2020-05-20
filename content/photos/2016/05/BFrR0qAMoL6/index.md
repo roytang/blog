@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/734060267089199104/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154613353638912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4kcofd/may_21st_witchers/d3e8n5o/
 tags:
 - sketchdaily
 - witcher
