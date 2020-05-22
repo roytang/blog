@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/707449298984837120/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154422186298912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/49hofe/march_8th_the_good_old_hockey_game/d0s0g9p/
 tags:
 - sketchdaily
 ---

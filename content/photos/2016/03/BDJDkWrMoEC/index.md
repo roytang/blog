@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/711229515842740224/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154452988198912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4b2bsy/march_19th_human_proportions/d15sekr/
 tags:
 - sketchdaily
 ---
