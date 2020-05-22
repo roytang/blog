@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/735572698961567744/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154624868883912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4kylh6/may_25th_flies/d3jkcz0/
 tags:
 - sketchdaily
 - transformers

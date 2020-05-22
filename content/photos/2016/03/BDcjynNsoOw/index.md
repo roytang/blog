@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/713974323669639168/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154482594378912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4c0gra/march_26th_draw_from_life/d1f0n76/
 tags:
 - sketchdaily
 ---

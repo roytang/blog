@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/725555979996131328/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154563615313912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4gnhxy/april_27th_stone/d2kd3rf/
 tags:
 - sketchdaily
 ---

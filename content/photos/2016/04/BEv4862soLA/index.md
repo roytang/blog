@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/725702065905770496/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154563615313912:2
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4gt0q4/april_28th_utopian_paradise/d2kpruo/
 tags:
 - sketchdaily
 ---

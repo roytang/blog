@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/733741764985663488/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154613353638912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4k784i/may_20th_free_draw_friday/d3dayd2/
 tags:
 - sketchdaily
 - rurounikenshin

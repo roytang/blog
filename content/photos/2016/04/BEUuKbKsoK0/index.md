@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/721878426039095298/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154539088268912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4f5rxl/april_17th_addiction/d270qtg/
 tags:
 - sketchdaily
 ---

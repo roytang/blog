@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/724628407850426368/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154556277778912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4gcc79/april_25th_a_fancy_tea_set/d2gnsuk/
 tags:
 - sketchdaily
 ---

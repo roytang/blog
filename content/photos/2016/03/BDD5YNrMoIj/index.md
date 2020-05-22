@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/710503354032463872/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154446826693912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4as1gw/march_17th_huskies/d13ekpo/
 tags:
 - sketchdaily
 ---

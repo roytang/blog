@@ -14,8 +14,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/716506588953993218/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154507535748912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4d0p69/april_2nd_monochromatic/d1nu0pc/
 tags:
 - sketchdaily
 ---
 
 Just a quick Flash #sketchdaily
+

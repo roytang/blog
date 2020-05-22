@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/717744424881508352/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154513194568912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4dktu2/april_6th_emotion/d1s9er0/
 tags:
 - sketchdaily
 ---

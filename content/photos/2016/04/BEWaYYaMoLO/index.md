@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/722116402388152320/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154542790688912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4fatrr/april_18th_cotton_candy/d27r6bo/
 tags:
 - sketchdaily
 ---

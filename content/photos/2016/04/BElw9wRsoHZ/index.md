@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/724277126816374784/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154556277778912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4g7d0d/april_24th_shellfish/d2fhczz/
 tags:
 - sketchdaily
 ---
