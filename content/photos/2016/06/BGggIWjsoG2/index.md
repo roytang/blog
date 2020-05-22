@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/741550815286960128/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154661363478912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4nklkx/june_11th_motorcycles/d44pdt5/
 tags:
 - sketchdaily
 ---

@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/737066677976715265/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154634019628912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4ljnok/may_29th_angels/d3ok80s/
 tags:
 - sketchdaily
 ---

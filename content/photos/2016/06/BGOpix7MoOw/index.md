@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/739038240196296704/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154644055948912:4
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4nfb0z/june_10th_free_drawlogy_friday/d43ewfo/
 tags:
 - sketchdaily
 - hearthstone

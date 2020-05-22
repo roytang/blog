@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/741901466944708610/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154664371433912:2
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4npeoy/june_12th_ramen/d45skyl/
 tags:
 - sketchdaily
 ---

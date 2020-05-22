@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/739037757993979904/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154644055948912:3
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4mheie/june_4th_seashells/d3vmj1n/
 tags:
 - sketchdaily
 - zelda

@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/739603936118595584/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154650125923912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4mmhir/june_5th_india/d3xehqw/
 tags:
 - streetfighter
 - sketchdaily

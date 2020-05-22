@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/738398022963363841/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154640072493912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4m651b/june_2nd_classic_rock_album_covers/d3t7jti/
 tags:
 - sketchdaily
 ---

@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/743125795091025920/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154672468068912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4o690y/june_15th_gardens/d4adxvv/
 tags:
 - sketchdaily
 ---
