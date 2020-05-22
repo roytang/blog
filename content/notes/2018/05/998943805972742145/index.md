@@ -1,5 +1,5 @@
 ---
-date: 2018-05-22 15:08:57
+date: 2018-05-22 15:08:57+00:00
 repost_source:
   name: idamantium
   type: twitter
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/998943805972742145/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156654077968912
+title: ''
 ---
 
-RT [@idamantium](https://twitter.com/idamantium/): "Individuals can steer the web back to its original architecture simply by having a website." -[@roombaghost](https://twitter.com/roombaghost/) https://t.co/NX…
+"Individuals can steer the web back to its original architecture simply by having a website." -@roombaghost https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/

@@ -12,6 +12,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/155047354510/scott-did-you-give-an-ant-a-christmas-sweater
 - type: twitter
   url: https://twitter.com/roytang/statuses/813913293370851328/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/5kiu38/december_27th_knitting/dbp672y/
 tags:
 - sketchdaily
 ---

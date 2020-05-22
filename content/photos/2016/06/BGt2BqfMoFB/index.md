@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/743428550271766528/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154675363318912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4oc94z/june_16th_carbonated_beverage/d4bhg51/
 tags:
 - sketchdaily
 ---

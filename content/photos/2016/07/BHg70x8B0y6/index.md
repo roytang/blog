@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/750618943551930368/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154722785748912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4rhg6j/july_6th_tiger_lilies/d5163y5/
 tags:
 - sketchdaily
 ---

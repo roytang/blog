@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/749192624326651904/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154713441653912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4qweba/july_2nd_hulk_versus/d4wh3pf/
 tags:
 - sketchdaily
 ---

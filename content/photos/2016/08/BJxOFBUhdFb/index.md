@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/770925279183269888/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154864984813912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/50g2t7/august_31st_airplanes/d73td7p/
 tags:
 - sketchdaily
 ---

@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/743714019349958660/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154675363318912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4oi7r4/june_17th_free_draw_friday/d4cset9/
 tags:
 - sketchdaily
 - mtg

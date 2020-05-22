@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/746035097359376384/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154693105698912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4pfmt1/june_23rd_pomegranates/d4l1xrw/
 tags:
 - sketchdaily
 ---

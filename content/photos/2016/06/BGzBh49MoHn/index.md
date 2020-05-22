@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/744157537474228224/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154680143978912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4onnyl/june_18th_chess/d4e8rco/
 tags:
 - sketchdaily
 ---

@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/828434862361174016/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155342780008912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/5s6hvu/february_5th_aquatic_fantasy_creatures/dddu4dz/
 tags:
 - sketchdaily
 ---

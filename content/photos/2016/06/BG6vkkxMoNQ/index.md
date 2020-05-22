@@ -14,8 +14,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/745243949095215104/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154686219848912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4p3iqw/june_21st_mollusks/d4hx0j6/
 tags:
 - sketchdaily
 ---
 
 Kraken! #sketchdaily
+
+Or maybe just a giant octopus. Whatever

@@ -14,8 +14,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/749776521695420416/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154719168378912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4r16vx/july_3rd_draw_a_political_cartoon/d4yawxn/
 tags:
 - sketchdaily
 ---
 
 Sone rich old guy #sketchdaily
+
+I tried a caricature of Donald Trump, it doesn't really look like him though

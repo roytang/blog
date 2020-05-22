@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/747461256370524160/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154702190128912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4q29a6/june_27th_popples/d4pz1v5/
 tags:
 - sketchdaily
 ---

@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/746874917237362689/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154699566528912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4prmdb/june_25th_farmers_market/d4o51zf/
 tags:
 - sketchdaily
 ---

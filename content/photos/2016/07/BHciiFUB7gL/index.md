@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/750000345326034945/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154719168378912:1
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4r67eq/july_4th_1776/d4ywate/
 tags:
 - sketchdaily
 ---

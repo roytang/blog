@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/750360385987842049/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154722785748912:0
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/4rbn6a/july_5th_lazy_river/d504eer/
 tags:
 - sketchdaily
 ---
