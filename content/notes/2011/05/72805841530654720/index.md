@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/72805841530654720/
+title: ''
 ---
 
-RT [@LaTtEX](https://twitter.com/LaTtEX/): RT [@gkr](https://twitter.com/gkr/): Seriously. // RT @ericericson: Click this link. Follow the instructions. Don't ask questions. https://chudhub.com/
+RT [@gkr](https://twitter.com/gkr/): Seriously. // RT @ericericson: Click this link. Follow the instructions. Don't ask questions. http://bit.ly/mqOYyJ

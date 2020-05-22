@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/867037822485544962/
 tags:
 - BREAKING
+title: ''
 ---
 
-RT [@gmanews](https://twitter.com/gmanews/): #BREAKING: President Duterte declares Martial Law in Mindanao. | via [@Joseph_Morong](https://twitter.com/Joseph_Morong/) https://t.co/OAe9WAdvHM
+#BREAKING: President Duterte declares Martial Law in Mindanao. | via [@Joseph_Morong](https://twitter.com/Joseph_Morong/)

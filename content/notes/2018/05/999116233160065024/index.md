@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/999116233160065024/
+title: ''
 ---
 
-RT [@Kotaku](https://twitter.com/Kotaku/): The Umeshoryu is the gutsiest move in fighting games: https://compete.kotaku.com/the-umeshoryu-is-the-gutsiest-move-in-fighting-games-1826232577?rev=1527012264544&utm_medium=Socialflow&utm_campaign=Socialflow_Kotaku_Twitter&utm_source=Kotaku_Twitter https://t.co/e8pLlxPufR
+The Umeshoryu is the gutsiest move in fighting games: http://bit.ly/2IHPo8o 
+
+{{< video width="320" height="179" src="https://video.twimg.com/tweet_video/Dd2SAJDVAAAg0Gx.mp4" >}}

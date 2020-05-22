@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/601981591674552320/
+title: ''
 ---
 
-RT [@Yoshi_OnoChin](https://twitter.com/Yoshi_OnoChin/): Hahaha. I hope :P RT [@Ariesno1](https://twitter.com/Ariesno1/):  the two next [@StreetFighter](https://twitter.com/StreetFighter/) can you confirm? https://t.co/lwPz2BAJFM
+Hahaha. I hope :P RT [@Ariesno1](https://twitter.com/Ariesno1/):  the two next [@StreetFighter](https://twitter.com/StreetFighter/) can you confirm?
