@@ -2,6 +2,9 @@
 title: "HyperX Cloud II Gaming Headset"
 slug: hyperx-cloud2
 date: 2020-05-23T19:30:30+08:00
+syndicated:
+- type: instagram
+  url: https://instagram.com/p/CAh_MROhkoH/
 albums: 
 - pickups
 tags:
