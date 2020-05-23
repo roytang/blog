@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/867330369590149120/
+title: ''
 ---
 
-RT [@MuslimIQ](https://twitter.com/MuslimIQ/): Retweet if you agree my hat is awesome and that I'm smarter than this guy. https://twitter.com/iainkbell/status/867072116423663616
+Retweet if you agree my hat is awesome and that I'm smarter than this guy. https://twitter.com/iainkbell/status/867072116423663616

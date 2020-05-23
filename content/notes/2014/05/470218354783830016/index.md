@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/470218354783830016/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “The best thing one can do when it’s raining is to let it rain.”—Henry Wadsworth Longfellow
+“The best thing one can do when it’s raining is to let it rain.”—Henry Wadsworth Longfellow

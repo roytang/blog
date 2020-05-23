@@ -10,6 +10,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/86681873005/brianmichaelbendis-cover-to-all-new-x-men-32-by
 - type: twitter
   url: https://twitter.com/roytang/statuses/470162687671160832/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152979692188912:0
 ---
 
 <p><a class="tumblr_blog" href="http://brianmichaelbendis.tumblr.com/post/86630738337/cover-to-all-new-x-men-32-by-sarah-pichelli-this">brianmichaelbendis</a>:</p>

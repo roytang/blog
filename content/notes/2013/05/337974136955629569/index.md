@@ -7,6 +7,7 @@ syndicated:
 tags:
 - reddit
 - flipboard
+title: ''
 ---
 
 RT [@redditflipboard](https://twitter.com/redditflipboard/): Miyazaki's take on "Good vs. Evil" [r/movies] https://imgur.com/a/60fev #reddit #flipboard
