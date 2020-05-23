@@ -1,5 +1,5 @@
 ---
-title: "Covid19 05 10"
+title: "Covid19 2020-05-10"
 date: 2020-05-10T19:51:33+08:00
 tags:
 - covid19
