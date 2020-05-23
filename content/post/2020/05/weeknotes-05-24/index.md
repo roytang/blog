@@ -12,8 +12,9 @@ My stuff:
 - the weather has been so hot lately, I've taken to shifting my sleep schedule to afternoons so that I can maximize the use of the air-conditioning to when it's most needed. It also helps me be more productive, since I can get more things done if I'm awake during the cooler hours of the day. I think I'm more looking forward to the end of summer than the end of quarantine.
 - a bit of consulting work this week, actually had to code some stuff. Mostly integration work, API calls, that sort of thing.
 - The [fancy new headset](/2020/05/hyperx-cloud2/) I ordered off Lazada came in last Saturday.
-- Not much gaming this week surprisingly.
-- Watching lately:
+- **Gaming: **Not much gaming this week surprisingly. The Saturday playgroup started playing Scythe, a Steam version of an actual boardgame. Games take a long time, and I'm pretty terrible at it because it seems to need a lot of advance planning. We're also planning to play some Jackbox games.
+- **Quiz:** So we're up to 3 regular online quiz nights now. Sadly, we didn't too well in this week's quizzes. I did win the Geekfight one last Wednesday, but the other two were a wash. As if that weren't enough, we also decided to do internal trivia team quizzes, with the intent of putting them up on our [relatively-new Youtube channel](https://www.youtube.com/channel/UCptXvNbp4ETVttb_k-1oOww) (Subscribe, etc). I hosted the first one last Wednesday, and the video will be up on YT as soon as our editor gets done with it. I'll probably upload the slides once it's up as well.
+- **Watching lately:**
   - Caught up with the "season finales" for Supergirl and Flash. In quotes because they literally just cut their seasons short and left a lot of cliffhangers to be resolved next season. Understandable, but so weird.
   - various streaming shows have started up again their seasons that I've started watching: Rick and Morty, Patriot Act with Hasan Minaj
 - Site updates: Nothing to announce! Been busy.
