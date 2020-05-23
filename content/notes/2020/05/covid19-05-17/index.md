@@ -1,6 +1,7 @@
 ---
 title: "Covid19 2020-05-17"
 date: 2020-05-17
+slug: covid19-05-17
 tags:
 - covid19
 ---
