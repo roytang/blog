@@ -1,9 +1,14 @@
 ---
-title: "Weeknotes 2020-05-24"
 date: 2020-05-24
 slug: weeknotes-05-24
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104221114652583553
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1264385651174068224/
 tags:
 - weeknotes
+title: Weeknotes 2020-05-24
 ---
 
 My stuff:
