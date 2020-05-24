@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/867775466358226945/
+title: ''
 ---
 
-RT [@shakirasison](https://twitter.com/shakirasison/): I prefer an exaggerated discussion of the risks of military rule than a complacent silence and full trust in those with a…
+I prefer an exaggerated discussion of the risks of military rule than a complacent silence and full trust in those with a history of abuse.

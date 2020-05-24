@@ -10,7 +10,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/867803677171392512/
 tags:
 - gamedev
-- indied
+- indiedev
+title: ''
 ---
 
-RT [@AlmostBearded](https://twitter.com/AlmostBearded/): Protip: Game development is 100% more intense if you add particles and screenshake to your code editor. #gamedev #indied…
+Protip: Game development is 100% more intense if you add particles and screenshake to your code editor. #gamedev #indiedev 
+
+{{< video width="320" height="179" src="https://video.twimg.com/tweet_video/DAncLklW0AEuSvy.mp4" >}}

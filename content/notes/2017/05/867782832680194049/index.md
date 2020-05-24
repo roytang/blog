@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/867782832680194049/
+title: ''
 ---
 
-RT [@effies](https://twitter.com/effies/): Language is awesome, https://t.co/XqIFRkmLW9
+Language is awesome,
