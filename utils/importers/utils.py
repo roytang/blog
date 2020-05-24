@@ -222,7 +222,7 @@ class URLResolver:
             return self.urlcache[url], True
 
         try:
-            headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0'}
             response = requests.get(url, headers=headers)
             self.urlcache[url] = response.url
             return response.url, True
