@@ -1,8 +1,28 @@
 {{ define "main" }}
 
 <ul>
-{{ range .Pages }}
-<li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+{{ range .Pages.GroupByParam "country" }}
+<li>
+    {{ .Key }}
+    {{ if eq .Key "Philippines" }}
+    <ul>
+        {{ range .Pages.GroupByParam "city" }}
+        {{ .Key }}
+        <ul>
+            {{ range .Pages }}
+                <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </ul>
+    {{ else }}
+    <ul>
+        {{ range .Pages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</li>
 {{ end }}
 </ul>
 

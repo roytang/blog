@@ -166,8 +166,12 @@ def add_locations():
             itemid = item["id"]
             # print(itemid, item["venue"]["name"])
             checkins[itemid] = item
+    venues = {}
     for cid in checkins:
         ci = checkins[cid]
+        vid = ci["venue"]["id"]
+        if vid not in venues:
+            venues[vid] = ci["venue"]
         addr = ci["venue"]["location"].get("address")
         if addr is None:
             addr = ""
@@ -177,6 +181,8 @@ def add_locations():
         location = location.replace(".", "")
         location = location.replace(",", "")
         location = location.replace("#", "")
+        location = location.replace(":", "")
+        location = location.replace("\"", "")
         # print(location)
         epoch_time = ci["createdAt"]
         d = datetime.datetime.fromtimestamp(epoch_time) #.strftime('%Y-%m-%d %H:%M:%S')
@@ -204,12 +210,38 @@ def add_locations():
             content = ci.get("shout", "") + " (@" + location + ")"
             post = PostBuilder(cid, source="foursquare", content=content)
             post.date = d
-            post.params["location"] = location
+            post.params["locations"] = location
             post.params["checkin_id"] = cid
             post.add_syndication("foursquare", SWARMAPP_URL2 + cid)
             post.save()
 
+    cwd = Path.cwd() 
+    for vid in venues:
+        venue = venues[vid]
+        post = frontmatter.Post("")
+        addr = venue["location"].get("address")
+        if addr is None:
+            addr = ""
+        else:
+            addr = " " + addr
+        location = venue["name"] + addr
+        location = location.replace(".", "")
+        location = location.replace(",", "")
+        location = location.replace("#", "")
+        location = location.replace(":", "")
+        location = location.replace("\"", "")
+        post["title"] = location
+        post["description"] = " ".join(venue["location"].get("formattedAddress", []))
+        post["city"] = venue["location"].get("state", venue["location"].get("city", ""))
+        post["country"] = venue["location"].get("country", "")
 
+        outdir = cwd / "content" / "locations" / location 
+        if not outdir.exists():
+            outdir.mkdir(parents=True)
+        outfile = outdir / "_index.md"
+        newfile = frontmatter.dumps(post)
+        with outfile.open("w", encoding="UTF-8") as w:
+            w.write(newfile)
 
 
 # get_twitter_map()                    
