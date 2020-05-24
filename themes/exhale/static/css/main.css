@@ -848,3 +848,7 @@ details summary {
 .comment_body p {
     margin-top: 0;
 }
+
+#mapid { 
+    height: 400px; 
+}

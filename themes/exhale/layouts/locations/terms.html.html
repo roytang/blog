@@ -10,7 +10,7 @@
         {{ .Key }}
         <ul>
             {{ range .Pages }}
-                <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+                <li><a href="{{ .RelPermalink }}">{{ .Name }}</a> ({{ .Params.lat }}, {{ .Params.lng }})</li>
             {{ end }}
         </ul>
         {{ end }}

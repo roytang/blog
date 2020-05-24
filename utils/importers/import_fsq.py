@@ -234,6 +234,8 @@ def add_locations():
         post["description"] = " ".join(venue["location"].get("formattedAddress", []))
         post["city"] = venue["location"].get("state", venue["location"].get("city", ""))
         post["country"] = venue["location"].get("country", "")
+        post["lat"] = venue["location"]["lat"]
+        post["lng"] = venue["location"]["lng"]
 
         outdir = cwd / "content" / "locations" / location 
         if not outdir.exists():
