@@ -4,13 +4,14 @@ import datetime
 import frontmatter
 import io
 import re
-from utils import URLResolver
+from utils import URLResolver, PostBuilder
 import requests
 from bs4 import BeautifulSoup
 
+FOURSQUARE_DATA = "d:\\temp\\foursquare.json"
 def load_fsq_json():
     out_items = []
-    with Path("d:\\temp\\foursquare.json").open(encoding="UTF-8") as f:
+    with Path(FOURSQUARE_DATA).open(encoding="UTF-8") as f:
         data = json.loads(f.read())
         for item in data[0]["response"]["checkins"]["items"]:
             epoch_time = item["createdAt"]
@@ -145,8 +146,73 @@ def map_checkin_ids():
     print(unprocessed)
     print(len(finalmap))
 
-    
+def add_locations():
+    # use the twitter map and the foursquare data to add locations to existing md files
+    files = {}
+    with Path(TWITTER_MAP_FILE).open(encoding="UTF-8") as f:
+        tfmap = json.loads(f.read())
+        for tf in tfmap:
+            if 'checkin_id' in tf:
+                cid = tf['checkin_id']
+                files[cid] = tf
+    checkins = {}
+    with Path(FOURSQUARE_DATA).open(encoding="UTF-8") as f:
+        data = json.loads(f.read())
+        for item in data[0]["response"]["checkins"]["items"]:
+            itemid = item["id"]
+            # print(itemid, item["venue"]["name"])
+            checkins[itemid] = item
+        for item in data[1]["response"]["checkins"]["items"]:
+            itemid = item["id"]
+            # print(itemid, item["venue"]["name"])
+            checkins[itemid] = item
+    for cid in checkins:
+        ci = checkins[cid]
+        addr = ci["venue"]["location"].get("address")
+        if addr is None:
+            addr = ""
+        else:
+            addr = " " + addr
+        location = ci["venue"]["name"] + addr
+        location = location.replace(".", "")
+        location = location.replace(",", "")
+        location = location.replace("#", "")
+        # print(location)
+        epoch_time = ci["createdAt"]
+        d = datetime.datetime.fromtimestamp(epoch_time) #.strftime('%Y-%m-%d %H:%M:%S')
+        
+        if cid in files:
+            tf = files[cid]
+            mdfile = Path(tf["mdfile"])
+            with mdfile.open(encoding="UTF-8") as f:
+                try:
+                    post = frontmatter.load(f)
+                except:
+                    print("Error parsing file")
+                    continue
+            post["locations"] = location
+            syn = post["syndicated"]
+            post["syndicated"].append({
+                "url": tf["final_url"],
+                "type": "foursquare"
+            })
+            post["checkin_id"] = cid
+            newfile = frontmatter.dumps(post)
+            with mdfile.open("w", encoding="UTF-8") as w:
+                w.write(newfile)
+        else:
+            content = ci.get("shout", "") + " (@" + location + ")"
+            post = PostBuilder(cid, source="foursquare", content=content)
+            post.date = d
+            post.params["location"] = location
+            post.params["checkin_id"] = cid
+            post.add_syndication("foursquare", SWARMAPP_URL2 + cid)
+            post.save()
+
+
+
+
 # get_twitter_map()                    
 # expand_twitter_map()
 
-map_checkin_ids()
+add_locations()

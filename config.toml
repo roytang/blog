@@ -46,6 +46,7 @@ canonifyURLs = true
     topic = "categories"
     source = "source"
     album = "albums"
+    location = "locations"
 
 [author]
     name = "Roy Tang"
