@@ -196,7 +196,7 @@ def add_locations():
                 except:
                     print("Error parsing file")
                     continue
-            post["locations"] = location
+            post["locations"] = vid
             syn = post["syndicated"]
             post["syndicated"].append({
                 "url": tf["final_url"],
@@ -210,7 +210,7 @@ def add_locations():
             content = ci.get("shout", "") + " (@" + location + ")"
             post = PostBuilder(cid, source="foursquare", content=content)
             post.date = d
-            post.params["locations"] = location
+            post.params["locations"] = vid
             post.params["checkin_id"] = cid
             post.add_syndication("foursquare", SWARMAPP_URL2 + cid)
             post.save()
@@ -225,19 +225,22 @@ def add_locations():
         else:
             addr = " " + addr
         location = venue["name"] + addr
+        post["title"] = location
+        post["venue"] = venue["name"]
+        post["addr"] = addr
         location = location.replace(".", "")
         location = location.replace(",", "")
         location = location.replace("#", "")
         location = location.replace(":", "")
         location = location.replace("\"", "")
-        post["title"] = location
         post["description"] = " ".join(venue["location"].get("formattedAddress", []))
         post["city"] = venue["location"].get("state", venue["location"].get("city", ""))
         post["country"] = venue["location"].get("country", "")
         post["lat"] = venue["location"]["lat"]
         post["lng"] = venue["location"]["lng"]
+        post["id"] = vid
 
-        outdir = cwd / "content" / "locations" / location 
+        outdir = cwd / "content" / "locations" / vid 
         if not outdir.exists():
             outdir.mkdir(parents=True)
         outfile = outdir / "_index.md"

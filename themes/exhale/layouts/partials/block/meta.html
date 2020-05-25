@@ -4,10 +4,9 @@
     <br />
     {{ partial "block/syndication" . }}
     {{ partial "block/summary-comments" . }}
-{{ with .Params.locations }}
-    Location: 
-    <a rel="location" href="/locations/{{ . }}">{{ . }}</a>
-{{ end }}
+    {{ if .Params.locations }}
+    {{ partialCached "block/locations" . .Params.locations }}
+    {{ end }}
     {{ if eq .Section "post" }}
     / {{ .WordCount }} words
     {{ end }}

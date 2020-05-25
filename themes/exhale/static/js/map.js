@@ -24,10 +24,11 @@ function createMap(data) {
             marker.bindPopup(label);
         }
 
+        let delta = Math.min(data.length, 10)/100;
         mymap.fitBounds([
-            [minlat-10, minlong-10], 
-            [maxlat+10, maxlong+10], 
-        ], 13);
+            [minlat-delta, minlong-delta], 
+            [maxlat+delta, maxlong+delta], 
+        ], 1);
 
         L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
             attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',

@@ -2,7 +2,7 @@
   <section class="h-feed">
     <a class="u-url p-name" href="{{ .Permalink }}">{{ .Title }}</a>
 
-    <p>({{ .Params.lat }}, {{ .Params.lng }}) You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
+    <p>You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
     <div id="mapid"></div>
 
     {{ partial "block/paged-list" . }}
