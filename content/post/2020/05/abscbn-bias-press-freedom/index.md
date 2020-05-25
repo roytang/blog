@@ -1,10 +1,15 @@
 ---
-title: "ABS-CBN, Bias, and Press Freedom"
-slug: abscbn-bias-press-freedom
 date: 2020-05-25
+slug: abscbn-bias-press-freedom
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104227052248207385
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1264765658975223808/
 tags:
 - philippines
 - current events
+title: ABS-CBN, Bias, and Press Freedom
 ---
 
 A bit of brouhaha a couple of weeks ago after the [National Telecommunications Commission ordered the country's biggest broadcaster ABS-CBN to cease operations because Congress had been remiss in renewing their franchise.](https://www.manilatimes.net/2020/05/05/news/headlines/ntc-orders-abs-cbn-to-shut-down-operations/722798/). This despite the NTC earlier promising they can operate provisionally while the franchise renewal is being processed, a change of heart apparently due to a legal opinion by the SolGen. Some thoughts:
