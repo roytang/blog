@@ -852,3 +852,7 @@ details summary {
 #mapid { 
     height: 400px; 
 }
+
+img.link {
+    width: 1.5em;
+}
