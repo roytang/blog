@@ -24,7 +24,8 @@ function createMap(data) {
             marker.bindPopup(label);
         }
 
-        let delta = Math.min(data.length, 10)/100;
+        let delta = data.length > 1 ? 10 : 0.01;
+        console.log("delta", delta);
         mymap.fitBounds([
             [minlat-delta, minlong-delta], 
             [maxlat+delta, maxlong+delta], 
