@@ -19,7 +19,7 @@ function createMap(data) {
             }
             currlat = item["lat"];
             currlng = item["lng"];
-            let label = "<b>" + item["title"] + " </b>";
+            let label = "<b><a href=\"/locations/" + item["id"] + "\">" + item["title"] + "</a></b>";
             var marker = L.marker([currlat, currlng]).addTo(mymap);			
             marker.bindPopup(label);
         }

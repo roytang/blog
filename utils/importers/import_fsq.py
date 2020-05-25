@@ -190,6 +190,8 @@ def add_locations():
         if cid in files:
             tf = files[cid]
             mdfile = Path(tf["mdfile"])
+            if not mdfile.exists():
+                continue
             with mdfile.open(encoding="UTF-8") as f:
                 try:
                     post = frontmatter.load(f)

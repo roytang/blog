@@ -12,9 +12,10 @@ crossorigin=""></script>
     createMap([
 {{ range .Pages }}        
     {
-      "title": "{{ .Title | safeJS }}",
-      "lat": {{ .Params.lat }},
-      "lng": {{ .Params.lng }}
+        "id": "{{ .Params.id }}",
+        "title": "{{ .Title | safeJS }}",
+        "lat": {{ .Params.lat }},
+        "lng": {{ .Params.lng }}
     },
 {{ end }}
     ]);
@@ -30,7 +31,7 @@ crossorigin=""></script>
         {{ .Key }}
         <ul>
             {{ range .Pages }}
-                <li><a href="{{ .RelPermalink }}">{{ .Name }}</a> ({{ .Params.lat }}, {{ .Params.lng }})</li>
+                <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
             {{ end }}
         </ul>
         {{ end }}

@@ -16,6 +16,7 @@
   <script src="/js/map.js"></script>
   <script>
       createMap([{
+        "id": "{{ .Params.id }}",
         "title": "{{ .Title | safeJS }}",
         "lat": {{ .Params.lat }},
         "lng": {{ .Params.lng }}
