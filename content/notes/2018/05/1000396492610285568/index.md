@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1000396492610285568/
 tags:
 - AvengersInfinityWar
+title: ''
 ---
 
-RT [@luoman19921](https://twitter.com/luoman19921/): #AvengersInfinityWar https://t.co/byrgP70Tmr
+#AvengersInfinityWar
