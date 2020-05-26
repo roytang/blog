@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1000775610715668480/
+title: ''
 ---
-
-RT [@McJesse](https://twitter.com/McJesse/): https://t.co/67Uw7QcxPQ

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/339023800869982210/
+title: ''
 ---
 
-RT [@Laughbook](https://twitter.com/Laughbook/): When people ask a dumb question, I feel that it's my duty to give a sarcastic answer.
+When people ask a dumb question, I feel that it's my duty to give a sarcastic answer.

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/868342155152039938/
+title: ''
 ---
 
-RT [@ChelseaClinton](https://twitter.com/ChelseaClinton/): Not funny. Ever. https://twitter.com/peterbakernyt/status/868153983482855426
+Not funny. Ever. https://twitter.com/peterbakernyt/status/868153983482855426

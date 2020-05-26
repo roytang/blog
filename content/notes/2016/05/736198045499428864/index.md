@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/736198045499428864/
+title: ''
 ---
 
-RT [@EliLanger](https://twitter.com/EliLanger/): This is cold-blooded. https://t.co/TiIQ5MYn3s
+This is cold-blooded.

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/736102020881383425/
+title: ''
 ---
 
-RT [@nealobermeyer](https://twitter.com/nealobermeyer/): This headline did not mean what I first thought it meant. https://t.co/eqeBuyMYgt
+This headline did not mean what I first thought it meant.
