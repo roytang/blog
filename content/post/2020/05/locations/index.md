@@ -1,11 +1,16 @@
 ---
-title: "Location, Location, Location"
-slug: location-location-location
 date: 2020-05-26
+slug: location-location-location
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104232714520823654
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1265128042461949952/
 tags:
 - tech life
 - meta
 - changelog
+title: Location, Location, Location
 ---
 
 A while back I got an export of my Foursquare/Swarm data. If you're not familiar, these were a pair of apps that were used for "checking-in" to particular locations, with a sort of gamification system where if you checked in at a place often enough, you would earn points and eventually become "Mayor" of the venue. The idea being that owners of those venues might give some benefits to those who check-in often at those locations (AFAIK, this never really caught on in the Philippines). I wasn't a super active user of Foursquare/Swarm, I had maybe 500ish check-ins from 2010-2017 when I stopped using it. Some people are still using it up to now and have thousands of check-ins, although as far as I can tell it's no longer very popular in the Philippines.
@@ -25,4 +30,3 @@ That being said, I did scrub some old check-ins from this data (and the correspo
 This is just a neat little thing that probably only I will care about, as it lets me see some of the places I've been to. And I probably won't be using 4sq/Swarm again, so the dataset probably won't be growing. That being said, I do want to add some future features like grouping the check-ins according to trips, so I can see all the particular places where I went to on particular trips. Many of my trips are missing data though; for example, my only check-in in France was in the airport, and not at any of the touristy places we went to. I may try to supplement this data with selected extracts from my Google Maps location history (hopefully it's easy to figure out!).
 
 I also don't know where to put the locations page in the menus lol. I'll figure it out sooner or later!
-
