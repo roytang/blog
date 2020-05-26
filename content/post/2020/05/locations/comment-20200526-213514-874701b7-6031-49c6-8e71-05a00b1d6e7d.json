@@ -1,0 +1,31 @@
+{
+  "source_obj": {
+    "author": {
+      "type": "card",
+      "name": "IcedQuinn",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/4b729d5219cd7127ab809e65104ea84bc1f36abf4a7ffbe0d8cc5ffbc6ab0a27.jpg",
+      "url": "https://blob.cat/users/icedquinn"
+    },
+    "wm-target": "https://roytang.net/2020/05/location-location-location/",
+    "in-reply-to": "https://roytang.net/2020/05/location-location-location/",
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://floss.social/@alcinnz\">@<span>alcinnz</span></a></span> <span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> the D3 approach was never about tracking your location. it was about alerting people they came in contact with a <img alt=\"blobbee\" src=\"https://cdn.mastodon.technology/custom_emojis/images/000/084/224/original/dbe86d574ccf8f1d.png\" /> explicitly without exposing any information about who.",
+      "text": "@alcinnz @roytang the D3 approach was never about tracking your location. it was about alerting people they came in contact with a  explicitly without exposing any information about who."
+    },
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "url": "https://blob.cat/objects/a2a519c2-d503-45e7-bb1b-53138b7bd4c5",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/104232714520823654/104236901283334247",
+    "wm-id": 802166,
+    "published": "2020-05-26T21:34:48",
+    "type": "entry",
+    "wm-received": "2020-05-26T21:35:14Z"
+  },
+  "photo": null,
+  "source_url": "https://blob.cat/objects/a2a519c2-d503-45e7-bb1b-53138b7bd4c5",
+  "id": "874701b7-6031-49c6-8e71-05a00b1d6e7d",
+  "name": "IcedQuinn",
+  "text": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://floss.social/@alcinnz\">@<span>alcinnz</span></a></span> <span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> the D3 approach was never about tracking your location. it was about alerting people they came in contact with a <img alt=\"blobbee\" src=\"https://cdn.mastodon.technology/custom_emojis/images/000/084/224/original/dbe86d574ccf8f1d.png\" /> explicitly without exposing any information about who.",
+  "date": "2020-05-26 21:35:14",
+  "url": "https://blob.cat/users/icedquinn"
+}
