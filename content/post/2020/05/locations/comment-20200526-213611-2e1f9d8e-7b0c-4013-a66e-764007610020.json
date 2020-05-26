@@ -1,0 +1,31 @@
+{
+  "source_obj": {
+    "author": {
+      "type": "card",
+      "name": "Adrian Cochrane",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "url": "https://floss.social/@alcinnz"
+    },
+    "wm-target": "https://roytang.net/2020/05/location-location-location/",
+    "in-reply-to": "https://roytang.net/2020/05/location-location-location/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> You might be interested in knowing: NZ's COVID Tracer app is a QR Code-based location tracker, with all data apparantly stored offline.</p><p>The government here is skeptical about the accuracy of the Bluetooth approach.</p>",
+      "text": "@roytang You might be interested in knowing: NZ's COVID Tracer app is a QR Code-based location tracker, with all data apparantly stored offline.The government here is skeptical about the accuracy of the Bluetooth approach."
+    },
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "url": "https://floss.social/@alcinnz/104236895391522637",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/104232714520823654/104236895423220762",
+    "wm-id": 802167,
+    "published": "2020-05-26T21:33:19",
+    "type": "entry",
+    "wm-received": "2020-05-26T21:36:11Z"
+  },
+  "photo": null,
+  "source_url": "https://floss.social/@alcinnz/104236895391522637",
+  "id": "2e1f9d8e-7b0c-4013-a66e-764007610020",
+  "name": "Adrian Cochrane",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> You might be interested in knowing: NZ's COVID Tracer app is a QR Code-based location tracker, with all data apparantly stored offline.</p><p>The government here is skeptical about the accuracy of the Bluetooth approach.</p>",
+  "date": "2020-05-26 21:36:11",
+  "url": "https://floss.social/@alcinnz"
+}
