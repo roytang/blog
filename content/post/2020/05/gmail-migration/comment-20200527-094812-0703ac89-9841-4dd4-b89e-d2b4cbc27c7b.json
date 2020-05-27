@@ -1,0 +1,31 @@
+{
+  "photo": null,
+  "url": "https://social.up.edu.ph/@r",
+  "source_obj": {
+    "in-reply-to": "https://roytang.net/2020/05/gmail-migration/",
+    "published": "2020-05-27T08:52:51",
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "url": "https://social.up.edu.ph/@r",
+      "name": "R F",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/68937ffcbf3f3b49b0fde9159e4faa3f5cebfbaa8047ad416c07f6c8154b00e4.png"
+    },
+    "content": {
+      "text": "@roytang I use Fastmail.com for $3/mo with essentially no outgoing email limit.",
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I use Fastmail.com for $3/mo with essentially no outgoing email limit.</p>"
+    },
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/104237629712745639/104239567574144862",
+    "url": "https://social.up.edu.ph/@r/104239567447973843",
+    "wm-target": "https://roytang.net/2020/05/gmail-migration/",
+    "wm-id": 802338,
+    "wm-received": "2020-05-27T09:48:12Z",
+    "wm-property": "in-reply-to"
+  },
+  "source_url": "https://social.up.edu.ph/@r/104239567447973843",
+  "name": "R F",
+  "id": "0703ac89-9841-4dd4-b89e-d2b4cbc27c7b",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I use Fastmail.com for $3/mo with essentially no outgoing email limit.</p>",
+  "date": "2020-05-27 09:48:12"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2020-05-27 01:35:10",
+  "source_url": "https://ruby.social/@passthejoe/104237766534317581",
+  "id": "240b9d90-faf5-4d00-ba38-5485275b0fd0",
+  "url": "https://ruby.social/@passthejoe",
+  "photo": null,
+  "name": "Passthejoe",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> Migadu.com looks pretty good. I hadn't heard of that one before. Thanks for the tip and the article.</p>",
+  "source_obj": {
+    "wm-property": "in-reply-to",
+    "type": "entry",
+    "wm-received": "2020-05-27T01:35:10Z",
+    "published": "2020-05-27T01:14:51",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> Migadu.com looks pretty good. I hadn't heard of that one before. Thanks for the tip and the article.</p>",
+      "text": "@roytang Migadu.com looks pretty good. I hadn't heard of that one before. Thanks for the tip and the article."
+    },
+    "in-reply-to": "https://roytang.net/2020/05/gmail-migration/",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/104237629712745639/104237766564196198",
+    "author": {
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/33069be7b1da4da319e767b2471b9364cd21ddeaee82b6de0400035bfcc54260.jpg",
+      "name": "Passthejoe",
+      "url": "https://ruby.social/@passthejoe",
+      "type": "card"
+    },
+    "url": "https://ruby.social/@passthejoe/104237766534317581",
+    "wm-id": 802257,
+    "wm-target": "https://roytang.net/2020/05/gmail-migration/",
+    "wm-private": false
+  }
+}
