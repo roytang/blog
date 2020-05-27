@@ -1,0 +1,31 @@
+{
+  "id": "94000726-092e-4fc2-ad66-a11b59829c38",
+  "url": "https://twitter.com/roytang",
+  "date": "2020-05-27 03:46:28",
+  "photo": null,
+  "name": "Roy Tang",
+  "text": "If its gsuite (which it probably is if thats a custom domain) thats slightly less problematic since thats a paid plan, and they are not likely to arbitrarily screw you over\n<a class=\"u-mention\" href=\"https://twitter.com/joyarmadamba\"></a>",
+  "source_url": "https://twitter.com/roytang/status/1265481130351849472",
+  "source_obj": {
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1265442616138579968/1265481130351849472",
+    "wm-received": "2020-05-27T03:46:28Z",
+    "wm-property": "in-reply-to",
+    "wm-id": 802274,
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "url": "https://twitter.com/roytang",
+      "name": "Roy Tang",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/68a559a3b77e11df76ddef3433433613e8e560765342bf25825f2e621e3af7ed.png"
+    },
+    "published": "2020-05-27T03:13:07+00:00",
+    "url": "https://twitter.com/roytang/status/1265481130351849472",
+    "wm-private": false,
+    "wm-target": "https://roytang.net/2020/05/gmail-migration/",
+    "in-reply-to": "https://roytang.net/2020/05/gmail-migration/",
+    "content": {
+      "text": "If its gsuite (which it probably is if thats a custom domain) thats slightly less problematic since thats a paid plan, and they are not likely to arbitrarily screw you over",
+      "html": "If its gsuite (which it probably is if thats a custom domain) thats slightly less problematic since thats a paid plan, and they are not likely to arbitrarily screw you over\n<a class=\"u-mention\" href=\"https://twitter.com/joyarmadamba\"></a>"
+    }
+  }
+}
