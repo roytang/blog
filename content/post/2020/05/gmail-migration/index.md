@@ -1,9 +1,14 @@
 ---
-title: "Migrating away from GMail"
-slug: gmail-migration
 date: 2020-05-27
+slug: gmail-migration
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104237629712745639
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1265442616138579968/
 tags:
 - tech life
+title: Migrating away from GMail
 ---
 
 I've basically been using GMail as my main email account since I first got access in 2006ish. "Main email account" means I use it as the primary access point for all my other online accounts. GMail was certainly revolutionary when it came out, and had a lot of benefits: it was fast, easily searchable and had a lot of free storage. But in the modern day, there are significant disadvantages to using GMail:
