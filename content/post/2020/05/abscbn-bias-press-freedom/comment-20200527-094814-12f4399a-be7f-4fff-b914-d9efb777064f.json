@@ -1,0 +1,31 @@
+{
+  "photo": null,
+  "url": "https://social.up.edu.ph/@r",
+  "source_obj": {
+    "in-reply-to": "https://roytang.net/2020/05/abscbn-bias-press-freedom/",
+    "published": "2020-05-27T09:00:10",
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "url": "https://social.up.edu.ph/@r",
+      "name": "R F",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/68937ffcbf3f3b49b0fde9159e4faa3f5cebfbaa8047ad416c07f6c8154b00e4.png"
+    },
+    "content": {
+      "text": "@roytang you can report news, albeit very difficult, without bias just by presenting the facts, not editorializing it.",
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> you can report news, albeit very difficult, without bias just by presenting the facts, not editorializing it.</p>"
+    },
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/104227052248207385/104239596277981283",
+    "url": "https://social.up.edu.ph/@r/104239596213616790",
+    "wm-target": "https://roytang.net/2020/05/abscbn-bias-press-freedom/",
+    "wm-id": 802339,
+    "wm-received": "2020-05-27T09:48:14Z",
+    "wm-property": "in-reply-to"
+  },
+  "source_url": "https://social.up.edu.ph/@r/104239596213616790",
+  "name": "R F",
+  "id": "12f4399a-be7f-4fff-b914-d9efb777064f",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> you can report news, albeit very difficult, without bias just by presenting the facts, not editorializing it.</p>",
+  "date": "2020-05-27 09:48:14"
+}
