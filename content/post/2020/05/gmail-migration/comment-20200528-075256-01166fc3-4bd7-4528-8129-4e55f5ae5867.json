@@ -1,0 +1,31 @@
+{
+  "url": "https://floss.social/@ademalsasa",
+  "date": "2020-05-28 07:52:56",
+  "source_obj": {
+    "wm-property": "in-reply-to",
+    "published": "2020-05-28T07:02:20",
+    "wm-received": "2020-05-28T07:52:56Z",
+    "wm-private": false,
+    "wm-target": "https://roytang.net/2020/05/gmail-migration/",
+    "url": "https://floss.social/@ademalsasa/104244795168666149",
+    "content": {
+      "text": "@roytang thanks, Roy Tang. I love this kind of article of migrating away from Gmail to an alternative. Glad to see you in Mastodon!",
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> thanks, Roy Tang. I love this kind of article of migrating away from Gmail to an alternative. Glad to see you in Mastodon!</p>"
+    },
+    "author": {
+      "type": "card",
+      "url": "https://floss.social/@ademalsasa",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3ef057c77e86b626509ebf4c6d6ad9c4c166937fb3f905e50ed4edc17d2ababa.png",
+      "name": "Ade Malsasa Akbar"
+    },
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/104237629712745639/104244795183954123",
+    "type": "entry",
+    "in-reply-to": "https://roytang.net/2020/05/gmail-migration/",
+    "wm-id": 802639
+  },
+  "photo": null,
+  "id": "01166fc3-4bd7-4528-8129-4e55f5ae5867",
+  "source_url": "https://floss.social/@ademalsasa/104244795168666149",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> thanks, Roy Tang. I love this kind of article of migrating away from Gmail to an alternative. Glad to see you in Mastodon!</p>",
+  "name": "Ade Malsasa Akbar"
+}
