@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/868739862618177536/
+title: ''
 ---
 
-RT [@nathanwpyle](https://twitter.com/nathanwpyle/): 1.3 morning sketch https://t.co/XNQzjqrkID
+1.3 morning sketch

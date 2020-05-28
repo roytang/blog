@@ -1,5 +1,5 @@
 ---
-date: 2018-05-28 15:28:57
+date: 2018-05-28 15:28:57+00:00
 repost_source:
   name: davidoneacre
   type: twitter
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1001123167115530240/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156666709708912
+title: ''
 ---
 
-RT [@davidoneacre](https://twitter.com/davidoneacre/): favorite thing i've discovered in years: terry pratchett describing how he modded oblivion (non-combat life sim mods espe…
+favorite thing i've discovered in years: terry pratchett describing how he modded oblivion (non-combat life sim mods especially)

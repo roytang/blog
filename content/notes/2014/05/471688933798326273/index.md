@@ -11,6 +11,7 @@ syndicated:
 tags:
 - reddit
 - flipboard
+title: ''
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): Shits about to go down [r/funny] https://imgur.com/gallery/n1svRrR?utm_source=twitterfeed&utm_medium=twitter #reddit #flipboard
+Shits about to go down [r/funny] http://bit.ly/1hu5WrA #reddit #flipboard

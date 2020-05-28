@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1133748885036232705/
+title: ''
 ---
 
-RT [@martinfowler](https://twitter.com/martinfowler/): post: We should justify efforts to improve internal quality of software based on its ability to reduce costs of future en…
+post: We should justify efforts to improve internal quality of software based on its ability to reduce costs of future enhancements. It's a counter-intuitive view, but one that reflects our reality
+
+https://martinfowler.com/articles/is-quality-worth-cost.html

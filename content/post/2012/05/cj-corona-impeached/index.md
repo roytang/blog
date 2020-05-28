@@ -12,6 +12,11 @@ tags:
 title: CJ Corona Impeached
 type: post
 url: /2012/05/cj-corona-impeached/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/207469146080944128/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151633988403912
 ---
 
 Time for some Monday morning quarterbacking!
