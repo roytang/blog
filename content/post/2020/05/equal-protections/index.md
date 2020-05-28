@@ -1,9 +1,14 @@
 ---
-title: "Equal Protections"
 date: 2020-05-28
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104243409938545282
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1265812549036957698/
 tags:
 - philippines
 - philosophy
+title: Equal Protections
 ---
 
 A [recent post on Cory Doctorow's pluralistic blog](https://pluralistic.net/2020/05/25/mafia-logic/#mafia-logic) had a really good take on the general worldview of "the right", describing it as "mafia logic". I'm going to quote a huge chunk of it here:

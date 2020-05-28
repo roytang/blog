@@ -1,0 +1,31 @@
+{
+  "url": "https://mastodon.technology/@roytang",
+  "date": "2020-05-28 07:52:54",
+  "source_obj": {
+    "wm-property": "in-reply-to",
+    "published": "2020-05-28T00:08:31",
+    "wm-received": "2020-05-28T07:52:54Z",
+    "wm-private": false,
+    "wm-target": "https://roytang.net/2020/05/gmail-migration/",
+    "url": "https://mastodon.technology/@roytang/104243167969569520",
+    "content": {
+      "text": "@r Thanks! I will keep it in mind",
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.up.edu.ph/@r\" class=\"u-url\">@<span>r</span></a></span> Thanks! I will keep it in mind</p>"
+    },
+    "author": {
+      "type": "card",
+      "url": "https://mastodon.technology/@roytang",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6ff5726f9a6dfeb42b12211a9ffdfa71a8c0197fc8fb9764f6759cf902ec6e9c.jpg",
+      "name": "Roy Tang"
+    },
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/104237629712745639/104243167969569520",
+    "type": "entry",
+    "in-reply-to": "https://roytang.net/2020/05/gmail-migration/",
+    "wm-id": 802638
+  },
+  "photo": null,
+  "id": "aa071e26-52b2-4fcb-8eb5-c314e3ce85fe",
+  "source_url": "https://mastodon.technology/@roytang/104243167969569520",
+  "text": "<p><span class=\"h-card\"><a href=\"https://social.up.edu.ph/@r\" class=\"u-url\">@<span>r</span></a></span> Thanks! I will keep it in mind</p>",
+  "name": "Roy Tang"
+}

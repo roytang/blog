@@ -1,0 +1,31 @@
+{
+  "url": "https://mastodon.technology/@roytang",
+  "date": "2020-05-28 07:52:54",
+  "source_obj": {
+    "wm-property": "in-reply-to",
+    "published": "2020-05-27T10:16:17",
+    "wm-received": "2020-05-28T07:52:54Z",
+    "wm-private": false,
+    "wm-target": "https://roytang.net/2020/05/gmail-migration/",
+    "url": "https://mastodon.technology/@roytang/104239895527270925",
+    "content": {
+      "text": "@r yeah, that's one of the commonly recommended ones. I remember looking at their plans before and I wasnt clear whether they allowed multiple mailboxes on the same domain? I think that's the reason I didnt choose them",
+      "html": "<p><span class=\"h-card\"><a href=\"https://social.up.edu.ph/@r\" class=\"u-url\">@<span>r</span></a></span> yeah, that's one of the commonly recommended ones. I remember looking at their plans before and I wasnt clear whether they allowed multiple mailboxes on the same domain? I think that's the reason I didnt choose them</p>"
+    },
+    "author": {
+      "type": "card",
+      "url": "https://mastodon.technology/@roytang",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6ff5726f9a6dfeb42b12211a9ffdfa71a8c0197fc8fb9764f6759cf902ec6e9c.jpg",
+      "name": "Roy Tang"
+    },
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/104237629712745639/104239895527270925",
+    "type": "entry",
+    "in-reply-to": "https://roytang.net/2020/05/gmail-migration/",
+    "wm-id": 802637
+  },
+  "photo": null,
+  "id": "7c117b2b-1b45-4ad8-aa3b-578869beb0df",
+  "source_url": "https://mastodon.technology/@roytang/104239895527270925",
+  "text": "<p><span class=\"h-card\"><a href=\"https://social.up.edu.ph/@r\" class=\"u-url\">@<span>r</span></a></span> yeah, that's one of the commonly recommended ones. I remember looking at their plans before and I wasnt clear whether they allowed multiple mailboxes on the same domain? I think that's the reason I didnt choose them</p>",
+  "name": "Roy Tang"
+}

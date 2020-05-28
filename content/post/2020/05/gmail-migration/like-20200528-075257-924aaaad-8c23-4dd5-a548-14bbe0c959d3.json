@@ -1,0 +1,27 @@
+{
+  "url": "https://floss.social/@ademalsasa",
+  "date": "2020-05-28 07:52:57",
+  "source_obj": {
+    "url": "https://mastodon.technology/@roytang/104237629712745639#favorited-by-245308",
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "url": "https://floss.social/@ademalsasa",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3ef057c77e86b626509ebf4c6d6ad9c4c166937fb3f905e50ed4edc17d2ababa.png",
+      "name": "Ade Malsasa Akbar"
+    },
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104237629712745639/245308",
+    "wm-received": "2020-05-28T07:52:57Z",
+    "published": null,
+    "like-of": "https://roytang.net/2020/05/gmail-migration/",
+    "wm-id": 802640,
+    "wm-target": "https://roytang.net/2020/05/gmail-migration/",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  "photo": null,
+  "id": "924aaaad-8c23-4dd5-a548-14bbe0c959d3",
+  "source_url": "https://mastodon.technology/@roytang/104237629712745639#favorited-by-245308",
+  "text": "[Ade Malsasa Akbar](https://floss.social/@ademalsasa) [liked this](https://mastodon.technology/@roytang/104237629712745639#favorited-by-245308)",
+  "name": "Ade Malsasa Akbar"
+}
