@@ -1,0 +1,27 @@
+{
+  "url": "https://www.instagram.com/multipleegos/",
+  "photo": null,
+  "text": "[Clifton Sawit](https://www.instagram.com/multipleegos/) [liked this](https://www.instagram.com/p/CAh_MROhkoH/#liked-by-488862446)",
+  "source_obj": {
+    "url": "https://www.instagram.com/p/CAh_MROhkoH/#liked-by-488862446",
+    "wm-id": 803049,
+    "wm-property": "like-of",
+    "published": null,
+    "author": {
+      "photo": "https://webmention.io/avatar/scontent-iad3-1.cdninstagram.com/3ab6bfbeea6cb19910a27ff65f9fb850ebcce406571f22aa7b877db0895fa6f1.jpg",
+      "url": "https://www.instagram.com/multipleegos/",
+      "type": "card",
+      "name": "Clifton Sawit"
+    },
+    "wm-source": "https://brid-gy.appspot.com/like/instagram/roytang0400/2315409603506358791_927543231/488862446",
+    "type": "entry",
+    "like-of": "https://roytang.net/2020/05/hyperx-cloud2/",
+    "wm-target": "https://roytang.net/2020/05/hyperx-cloud2/",
+    "wm-private": false,
+    "wm-received": "2020-05-29T00:29:46Z"
+  },
+  "name": "Clifton Sawit",
+  "source_url": "https://www.instagram.com/p/CAh_MROhkoH/#liked-by-488862446",
+  "date": "2020-05-29 00:29:46",
+  "id": "c641398b-9a95-40af-a8d0-f232af62e8c3"
+}
