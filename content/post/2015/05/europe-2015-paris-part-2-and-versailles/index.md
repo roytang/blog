@@ -8,6 +8,11 @@ tags:
 title: 'Europe 2015: Paris Part 2, Versailles and Barcelona Again'
 type: post
 url: /2015/05/europe-2015-paris-part-2-and-versailles/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/604682445133221888/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153812443933912
 ---
 
 _Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Rome and Vatican City][4] | [Rome Part 2 and Paris Part 1][5] | [Europe trip photo album](/album/europe2015)_
