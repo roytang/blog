@@ -11,38 +11,41 @@ from bs4 import BeautifulSoup
 import requests
 
 headers = {
-    'cookie': 'fr=103AEBsct6KCQRsmx.AWXg0HaUWnFqQ_3rnAzNqNqao0Y.BdjKWd.Z_.F29.0.0.Be0NDc.AWURYLd1; datr=naWMXY6J_4tOd8nfDzUs7oCI; sb=pKWMXWmDVFUG9iVOfr8b_QM9; c_user=632418911; xs=42%3Af_gMqEFxvrASow%3A2%3A1569498532%3A17543%3A8112; wd=1920x938; presence=EDvF3EtimeF1590743260EuserFA2632418911A2EstateFDsb2F1590725822102EatF1590727055434Et3F_5bDiFA2thread_3a1474557102572072A2EoF1EfF1CAcDiFA2thread_3a537742362963432A2EoF2EfF2CAcDiFA2user_3a623410364A2EoF3EfF3C_5dEutc3F1590716747909G590727055446CEchF_7bCC; act=1590707590692%2F19; spin=r.1002174684_b.trunk_t.1590687066_s.1_v.2_',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0'
 } # paste the cookie here
 cache_folder = Path("D:\\temp\\cache")
 last_html = Path("D:\\temp\\cache\\last.html")
+base_url = "https://m.facebook.com/profile/timeline/stream/?profile_id=632418911"
+base_url = "https://m.facebook.com/profile/timeline/stream/?cursor=AQHRI9K5zMsreDDOLtnfOZdyFy2ZuR8XvZeDfiJ4_yRH_Jtlm8gUlpBgEbC0FtFytvX6TForyXPGZHdcnSdpkWPRpL09-wGVgMbBE29bN4OVwQun-7DVPVyMiqOXh5pJLJLi&profile_id=632418911&replace_id=u_0_0"
+SINGLE = True
 
 def parse_container(child):
     item = {"attachments":[]}
+
+    # find the permalink via the comments anchor
+    for link in child.select("a"):
+        if link.text.find("Comment") >= 0:
+            comments_link = link
+            link_url = "https://m.facebook.com" + link["href"]
+            u = urlparse(link_url)
+            qparams = parse_qs(u.query)
+            story_id = qparams.get("fbid", qparams.get("story_fbid"))[0]
+
+    item["permalink"] = "https://www.facebook.com/stephen.roy.tang/posts/" + story_id
+    item["metadata"] = {}
     if child.get("data-ft") is not None:
         item["metadata"] = json.loads(child["data-ft"])
-        story_id = item["metadata"].get("mf_story_key", item["metadata"].get("top_level_post_id"))
-        # if story_id != "10150117629288912":
-        #     return []
-        print(story_id)
-        if story_id is None:
-            # recursing 
-            items = []
-            for article in child.select("article"):
-                items.extend(parse_container(article))
-            return items
-        item["permalink"] = "https://www.facebook.com/stephen.roy.tang/posts/" + story_id
-    else:
-        item["metadata"] = {}
-        # find the permalink via the comments anchor
-        for link in child.select("a"):
-            if link.text.find("Comment") >= 0:
-                link_url = "https://m.facebook.com" + link["href"]
-                u = urlparse(link_url)
-                qparams = parse_qs(u.query)
-                story_id = qparams.get("fbid", qparams.get("story_fbid"))[0]
-                item["permalink"] = "https://www.facebook.com/stephen.roy.tang/posts/" + story_id
-                break
+        # story_id = item["metadata"].get("mf_story_key", item["metadata"].get("top_level_post_id"))
+
+    # if story_id != "10150117629288912":
+    #     return []
+    print(story_id)
+    if story_id is None:
+        # recursing 
+        items = []
+        for article in child.select("article"):
+            items.extend(parse_container(article))
+        return items
 
     if child.text.find("for your birthday") >= 0:
         item["type"] = "bday"
@@ -196,8 +199,6 @@ def parse_container(child):
 
 def get_timeline():
 
-    base_url = "https://m.facebook.com/profile/timeline/stream/?profile_id=632418911"
-    # base_url = "https://m.facebook.com/profile/timeline/stream/?cursor=AQHRNHzgDUaMNRbvinfasyPFur6eI6Xwm3DVx_2Dyppn5zgNwAwJCE4JFISOBVCjdRvz2QDXgLMbAET6Fw4_pQZ6zYUDtM5L-W3V6p6CUAv9Q5GlGqq6dvVXAi-EjHDJM-2m&profile_id=632418911&replace_id=u_0_0"
     url_next = base_url
     items = []
     index = 0
@@ -233,7 +234,8 @@ def get_timeline():
                             items.append(item)
             url_next = next_link
             print("#### " + url_next)
-            # break
+            if SINGLE:
+                break
     # except Exception as e:
     #     print(e)
     finally:
@@ -242,8 +244,8 @@ def get_timeline():
         print("Done")
 
 def get_link_details(url):
-    # print("Getting link details")
-    # print(url)
+    print("Getting link details")
+    print(url)
     if url.startswith("https://m.facebook.com/video_redirect/"):
         u = urlparse(url)
         qparams = parse_qs(u.query)
