@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/737636586318237696/
+title: ''
 ---
 
-RT [@EverythingGoats](https://twitter.com/EverythingGoats/): Who you gona call? https://t.co/Fq5MmMCQi5
+Who you gona call?

@@ -10,6 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/869849363790446592/
 tags:
 - covfefe
+title: ''
 ---
 
-RT [@Markonair](https://twitter.com/Markonair/): This is why I love Twitter. #covfefe https://t.co/TwIfMKTcbK
+This is why I love Twitter. #covfefe 
+
+{{< video width="320" height="286" src="https://video.twimg.com/tweet_video/DBIWbg_UMAA_MY9.mp4" >}}

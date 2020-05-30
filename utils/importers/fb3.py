@@ -11,34 +11,114 @@ from bs4 import BeautifulSoup
 import requests
 
 headers = {
+    'cookie': 'fr=103AEBsct6KCQRsmx.AWXg0HaUWnFqQ_3rnAzNqNqao0Y.BdjKWd.Z_.F29.0.0.Be0NDc.AWURYLd1; datr=naWMXY6J_4tOd8nfDzUs7oCI; sb=pKWMXWmDVFUG9iVOfr8b_QM9; c_user=632418911; xs=42%3Af_gMqEFxvrASow%3A2%3A1569498532%3A17543%3A8112; wd=1920x938; presence=EDvF3EtimeF1590743260EuserFA2632418911A2EstateFDsb2F1590725822102EatF1590727055434Et3F_5bDiFA2thread_3a1474557102572072A2EoF1EfF1CAcDiFA2thread_3a537742362963432A2EoF2EfF2CAcDiFA2user_3a623410364A2EoF3EfF3C_5dEutc3F1590716747909G590727055446CEchF_7bCC; act=1590707590692%2F19; spin=r.1002174684_b.trunk_t.1590687066_s.1_v.2_',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0'
 } # paste the cookie here
 cache_folder = Path("D:\\temp\\cache")
 last_html = Path("D:\\temp\\cache\\last.html")
 base_url = "https://m.facebook.com/profile/timeline/stream/?profile_id=632418911"
-base_url = "https://m.facebook.com/profile/timeline/stream/?cursor=AQHRI9K5zMsreDDOLtnfOZdyFy2ZuR8XvZeDfiJ4_yRH_Jtlm8gUlpBgEbC0FtFytvX6TForyXPGZHdcnSdpkWPRpL09-wGVgMbBE29bN4OVwQun-7DVPVyMiqOXh5pJLJLi&profile_id=632418911&replace_id=u_0_0"
-SINGLE = True
+base_url = "https://m.facebook.com/profile/timeline/stream/?cursor=AQHR8yQCpFyzapKSGPyVN4L49pjzfdK8CIGayXesbXzLJpkqIuytg3cWxo1NqjAa3fPH8fQdTfYuzCMo8ORHQzpTbTMw_AOwwQ4NkMGraHyfBjr9a3Bb-U6AwQb0R3WAyQaL&profile_id=632418911&replace_id=u_0_0"
+FOCUS_ID = ""
+SINGLE = False
+USE_CACHE = True
+ME = "Roy Tang"
+
+def get_comments_detail(url, story_id, page=0, replyto=""):
+
+    out_html = cache_folder / "html" / "detail" / (story_id + "-" + str(page) + replyto + ".html")
+    if out_html.exists() and USE_CACHE:
+        with out_html.open(encoding="UTF-8") as f:
+            text = f.read()
+    else:
+        req = urllib.request.Request(url, headers=headers)
+        try: 
+            with urllib.request.urlopen(req) as urlr:
+                text = urlr.read()
+                with out_html.open("w", encoding="UTF-8") as f:
+                    f.write("<!-- " + url + " //-->")
+                    f.write(text.decode('utf-8'))
+        except urllib.error.HTTPError as e:
+            return [ {
+                "error": str(e),
+                "text": "Could not retrieve comments url",
+                "url": url
+            }]
+
+    out_comments = []
+    soup = BeautifulSoup(text, "html.parser")
+    selector = "#m_story_permalink_view > div:nth-child(2) > div > div:nth-child(4) > div"
+    if len(replyto) > 0:
+        selector = "#root > div > :nth-child(3) > div"
+    comments = soup.select(selector)
+    for c in comments:
+        # print(c["id"])
+        # only follow "previous" link
+        if c["id"].startswith("see_prev"):
+            for link in c.select("a"):
+                prev_page_url = "https://m.facebook.com" + link["href"]
+                out_comments.extend(get_comments_detail(prev_page_url, story_id, page+1))
+            continue
+        if c["id"].startswith("comment_replies_more"):
+            if c.text.find("previous replies") >= 0:
+                for link in c.select("a"):
+                    prev_page_url = "https://m.facebook.com" + link["href"]
+                    out_comments.extend(get_comments_detail(prev_page_url, story_id, page+1, replyto))
+            continue
+        if c["id"].startswith("see_next"):
+            continue
+        comment = { "id" : c["id"] }
+        for link in c.select("h3 a"):
+            comment["poster"] = link.text
+            comment["poster_url"] = link["href"]
+        # for a in c.contents[0].contents:
+        #     try:
+        #         print(a.name, a.text)
+        #     except:
+        #         print(str(a))
+        comment["text"] = c.contents[0].contents[1].text
+        # meta row contains the date
+        if len(c.contents[0].contents) >= 4:
+            for abbr in c.contents[0].contents[3].select("abbr"):
+                comment["date"] = abbr.text
+        if len(replyto) > 0:
+            comment["replyto"] = replyto
+        # check if replies link exists
+        if len(c.contents[0].contents) >= 5:
+            for link in c.contents[0].contents[4].select("a"):
+                replies_url = "https://m.facebook.com" + link["href"]
+                comment["replies"] = (get_comments_detail(replies_url, story_id, page, c["id"]))
+        out_comments.append(comment)
+
+    return out_comments
 
 def parse_container(child):
     item = {"attachments":[]}
+
+    story_id = None
 
     # find the permalink via the comments anchor
     for link in child.select("a"):
         if link.text.find("Comment") >= 0:
             comments_link = link
-            link_url = "https://m.facebook.com" + link["href"]
-            u = urlparse(link_url)
+            comments_link_url = "https://m.facebook.com" + link["href"]
+            u = urlparse(comments_link_url)
             qparams = parse_qs(u.query)
-            story_id = qparams.get("fbid", qparams.get("story_fbid"))[0]
+            arr = qparams.get("fbid", qparams.get("story_fbid"))
+            if arr is not None and len(arr) > 0:
+                story_id = arr[0]
 
-    item["permalink"] = "https://www.facebook.com/stephen.roy.tang/posts/" + story_id
     item["metadata"] = {}
     if child.get("data-ft") is not None:
         item["metadata"] = json.loads(child["data-ft"])
-        # story_id = item["metadata"].get("mf_story_key", item["metadata"].get("top_level_post_id"))
+        if story_id is None:
+            # TODO: Parse the rest of this page correctly
+            story_id = item["metadata"].get("mf_story_key", item["metadata"].get("top_level_post_id"))
 
-    # if story_id != "10150117629288912":
-    #     return []
+    item["permalink"] = "https://www.facebook.com/stephen.roy.tang/posts/" + story_id
+
+    if len(FOCUS_ID) > 0 and story_id != FOCUS_ID:
+        return []
+
     print(story_id)
     if story_id is None:
         # recursing 
@@ -55,10 +135,11 @@ def parse_container(child):
     header = None
     body = None
     footer = None
+    print(len(children2))
     if len(children2) == 2:
         footer = children2[1]
         body = children2[0]
-        if body.text.find("posted on your") >= 0:
+        if body.text.find("posted on your") >= 0 or body.text.find("posted from") >= 0 or body.text.find(" is playing "):
             # recursing 
             items = []
             for article in footer.select("article"):
@@ -82,6 +163,7 @@ def parse_container(child):
     date_containers = footer.select("abbr")
     for dc in date_containers:
         item["date"] = dc.text
+    print(body)
     actual_contents = body.contents
     item["text"] = actual_contents[1].text
     for link in actual_contents[0].select("a"):
@@ -89,6 +171,12 @@ def parse_container(child):
         item["poster"] = link.text
         if len(link.text.strip()) > 0:
             break
+
+    # get comments, but only if it's my content
+    if not comments_link.text.startswith("Comment") and item["poster"] == ME:
+        item["comments"] = get_comments_detail(comments_link_url, story_id)
+
+
     if len(actual_contents) > 2:
         print("Getting attachment")
         # attachment exists
@@ -244,8 +332,8 @@ def get_timeline():
         print("Done")
 
 def get_link_details(url):
-    print("Getting link details")
-    print(url)
+    # print("Getting link details")
+    # print(url)
     if url.startswith("https://m.facebook.com/video_redirect/"):
         u = urlparse(url)
         qparams = parse_qs(u.query)

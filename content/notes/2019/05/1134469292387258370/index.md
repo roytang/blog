@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1134469292387258370/
+title: ''
 ---
 
-RT [@RyanFMandelbaum](https://twitter.com/RyanFMandelbaum/): one of the nicest things you can do for someone, i think, is let them get unapologetically excited about something the…
+one of the nicest things you can do for someone, i think, is let them get unapologetically excited about something they're passionate about, ask them engaging questions, show them that you're listening, and let them go on for as long as they want

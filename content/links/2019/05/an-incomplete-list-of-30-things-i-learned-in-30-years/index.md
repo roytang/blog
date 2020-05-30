@@ -9,4 +9,6 @@ source: pocket
 syndicated:
 - type: pocket
   url: https://extraordinaryroutines.com/musings/30-incomplete-lessons
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1134488761956524034/
 ---

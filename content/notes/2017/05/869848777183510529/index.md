@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/869848777183510529/
+title: ''
 ---
 
-RT [@rubenoid](https://twitter.com/rubenoid/): [@highreaching](https://twitter.com/highreaching/) Easy https://t.co/SZZWcqTuB8
+[@highreaching](https://twitter.com/highreaching/) Easy
