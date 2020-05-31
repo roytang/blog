@@ -1,5 +1,5 @@
 ---
-date: 2018-06-01 13:37:32
+date: 2018-06-01 13:37:32+00:00
 repost_source:
   name: matvelloso
   type: twitter
@@ -10,8 +10,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1002544677361369089/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156675220268912
+title: ''
 ---
 
-RT [@matvelloso](https://twitter.com/matvelloso/): Half of the time when companies say they need "AI" what they really need is a SELECT clause with GROUP BY. 
+Half of the time when companies say they need "AI" what they really need is a SELECT clause with GROUP BY. 
+
+
 
 You're welcome.

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/605505902850895872/
+title: ''
 ---
 
-RT [@meddlingmage](https://twitter.com/meddlingmage/): An important part of being rational is predicting when you are going to be hopelessly irrational and planning accordingly.
+An important part of being rational is predicting when you are going to be hopelessly irrational and planning accordingly.
