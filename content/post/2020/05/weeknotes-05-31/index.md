@@ -1,6 +1,11 @@
 ---
 date: 2020-05-31
 slug: weeknotes-05-31
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104263621288147715
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1267106076966547462/
 tags:
 - weeknotes
 title: Weeknotes 2020-05-31
