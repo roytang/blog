@@ -64,3 +64,4 @@ Ratings scale:
 | 36 | Kong: Skull Island | 2017 | May 07 | Exciting popcorn movie. | 4 |
 | 37 | Ang Huling El Bimbo: The Musical | 2019 | May 08 | Ok, so this one isn't really a movie. The appeal for me is mostly the music and the nostalgia. The plot was serviceable, though some may find it problematic. | 4 |
 | 38 | Justice League Dark: Apokolips War | 2020 | May 15 | This was great, and appropriatly dark. Good send-off for the DCAMU. | 5 |
+| 39 | Zombieland Double Tap | 2019 | May 27 | A fun romp, but pretty much more of the same. | 4 |

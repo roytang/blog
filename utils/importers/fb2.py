@@ -34,7 +34,7 @@ def resolve_anchor(anchor):
         anchors_map = json.loads(f.read())
 
     try:
-        headers = {'cookie': 'fr=127WU1jfpIR0FRPvt.AWVkfpSTP_5fZQLs-toN02YwP4Y.BdikZ7.C5.AAA.0.0.BdirNU.AWWocTWG; sb=e0aKXVXW-PROS0DOzyumyh3E; datr=e0aKXYHXDXShgDwoImFBEJVj; wd=1271x966; c_user=632418911; xs=2%3AjWZ-uf-aKM6b6w%3A2%3A1569343105%3A17543%3A8112; spin=r.1001210818_b.trunk_t.1569343106_s.1_v.2_; act=1569367243840%2F0; presence=EDvF3EtimeF1569372106EuserFA2632418911A2EstateFDutF1569372106676CEchFDp_5f632418911F1CC'} # paste the cookie here
+        headers = {'cookie': ''} # paste the cookie here
         if anchor in anchors_map:
             return anchors_map[anchor]
         req = urllib.request.Request(anchor, headers=headers)
