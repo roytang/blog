@@ -7,7 +7,7 @@ syndicated:
 tags:
 - java
 - encryption
-- pkcs#7
+- pkcs7
 - questions
 - stackoverflow
 - software development
