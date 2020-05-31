@@ -19,6 +19,8 @@ One would question why I (and maybe the world) focuses so much on what happens i
 
 It's weird watching a hegemony fall apart in real time to weight of its own excesses. It's like they're trying to hard to make [Deep Space Nine's 2020s prediction](https://en.wikipedia.org/wiki/Past_Tense_(Star_Trek:_Deep_Space_Nine)) come true.
 
+Edit: I should also highlight in this space that this past week China rammed its National Security Law through Hong Kong, bypassing the HK legislature and essentially ending HK's autonomy through one country, two systems. I've been to Hong Kong multiples times and know and have worked with people there, so this one hits a lot closer to home. 
+
 My stuff:
 
 - [This week's quarantine notes](/2020/05/covid19-05-31/).
