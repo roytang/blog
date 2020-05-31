@@ -48,4 +48,6 @@ For strangers, please contact me via one of the following methods:
 - [Twitter: @roytang](https://twitter.com/roytang/). My DMs are open.
 - [Mastodon: @roytang@mastodon.technology](https://mastodon.technology/@roytang). IDK how Mastodon DMs work, do I need to enable them?
 
+You can also try to contact me via any one of [my other active accounts](/page/about/elsewhere/), but the above are your best bet.
+
 I generally don't like taking phone calls, but if you already have my mobile number anyway and you really can't just use email, please send me an SMS first before calling. If you don't have my mobile number and want/need it for some reason, send me an email to ask for it.
