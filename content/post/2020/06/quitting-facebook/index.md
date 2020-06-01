@@ -27,7 +27,7 @@ I had initially planned to just stop using Facebook and keep my account data the
 
 ### How can I keep in touch or know what you're up to?
 
-I still actively post on my [own website](https://roytang.net/), other services (https://roytang.net/page/about/elsewhere/) and have an actively [maintained contact page](https://roytang.net/page/about/contact/). Every email address I've had since 2003 is still being checked regularly. If you have my phone number (ends in 09) I'm on Viber and Signal. I'm very easy to reach.
+I still actively post on my [own website](https://roytang.net/), [other services](https://roytang.net/page/about/elsewhere/) and have an actively [maintained contact page](https://roytang.net/page/about/contact/). Every email address I've had since 2003 is still being checked regularly. If you have my phone number (ends in 09) I'm on Viber and Signal. I'm very easy to reach.
 
 ### What about Messenger and Instagram?
 
