@@ -6,7 +6,7 @@ syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=uD1eHEN9a4Y
 tags:
-- '#PS4share'
+- PS4share
 - PlayStation 4
 - Sony Computer Entertainment
 - 'The Binding of Isaac: Rebirth'

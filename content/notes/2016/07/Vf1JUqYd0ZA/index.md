@@ -6,7 +6,7 @@ syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=Vf1JUqYd0ZA
 tags:
-- '#PS4share'
+- PS4share
 - PlayStation 4
 - Sony Interactive Entertainment
 - Furi

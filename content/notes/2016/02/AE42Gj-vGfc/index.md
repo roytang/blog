@@ -6,7 +6,7 @@ syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=AE42Gj-vGfc
 tags:
-- '#PS4share'
+- PS4share
 - PlayStation 4
 - Sony Computer Entertainment
 - STREET FIGHTER V

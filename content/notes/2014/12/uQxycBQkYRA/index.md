@@ -5,7 +5,7 @@ syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=uQxycBQkYRA
 tags:
-- '#PS4share'
+- PS4share
 - PlayStation 4
 - Sony Computer Entertainment
 - "Dragon Age\u2122: Inquisition"

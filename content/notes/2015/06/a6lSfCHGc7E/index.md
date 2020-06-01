@@ -6,7 +6,7 @@ syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=a6lSfCHGc7E
 tags:
-- '#PS4share'
+- PS4share
 - PlayStation 4
 - Sony Computer Entertainment
 - 'The Witcher 3: Wild Hunt'

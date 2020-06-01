@@ -8,7 +8,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/814851104680869888/  
 tags:
-- '#PS4share'
+- PS4share
 - PlayStation 4
 - Sony Interactive Entertainment
 - STREET FIGHTER V
