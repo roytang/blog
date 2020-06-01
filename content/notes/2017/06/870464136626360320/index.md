@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/870464136626360320/
+title: ''
 ---
 
-RT [@instalyssa](https://twitter.com/instalyssa/): If you ask Austin's mayor to "Name something invented by a woman!" he's gonna respond, sincerely. http://www.mayoradler.com/letter-wonder-woman/ h…
+If you ask Austin's mayor to "Name something invented by a woman!" he's gonna respond, sincerely. http://www.mayoradler.com/letter-wonder-woman/
