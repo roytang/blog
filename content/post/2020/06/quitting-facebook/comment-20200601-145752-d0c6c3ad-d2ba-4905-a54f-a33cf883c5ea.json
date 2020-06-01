@@ -1,0 +1,31 @@
+{
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I've got a longer list of evils if you want:<br /><a href=\"http://meta.ath0.com/2019/10/fediverse/\"><span>http://</span><span>meta.ath0.com/2019/10/fedivers</span><span>e/</span></a></p>\n<a href=\"http://meta.ath0.com/2019/10/fediverse/\">Into the Fediverse</a>",
+  "source_url": "https://mastodon.social/@mathew/104269187212677781",
+  "url": "https://mastodon.social/@mathew",
+  "source_obj": {
+    "content": {
+      "text": "@roytang I've got a longer list of evils if you want:\nhttp://meta.ath0.com/2019/10/fediverse/\nInto the Fediverse",
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I've got a longer list of evils if you want:<br /><a href=\"http://meta.ath0.com/2019/10/fediverse/\"><span>http://</span><span>meta.ath0.com/2019/10/fedivers</span><span>e/</span></a></p>\n<a href=\"http://meta.ath0.com/2019/10/fediverse/\">Into the Fediverse</a>"
+    },
+    "published": "2020-06-01T14:25:33",
+    "in-reply-to": "https://roytang.net/2020/06/quitting-facebook/",
+    "wm-id": 804697,
+    "author": {
+      "url": "https://mastodon.social/@mathew",
+      "name": "mathew \u2705",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/e8e1bc1175a25f7174866c05202809602474dbc1124a02e0c6a61d7aaff70b7a.jpg"
+    },
+    "wm-property": "in-reply-to",
+    "type": "entry",
+    "wm-source": "https://brid-gy.appspot.com/comment/mastodon/@roytang@mastodon.technology/104266688352867961/104269187226107225",
+    "url": "https://mastodon.social/@mathew/104269187212677781",
+    "wm-target": "https://roytang.net/2020/06/quitting-facebook/",
+    "wm-private": false,
+    "wm-received": "2020-06-01T14:57:52Z"
+  },
+  "date": "2020-06-01 14:57:52",
+  "photo": null,
+  "name": "mathew \u2705",
+  "id": "d0c6c3ad-d2ba-4905-a54f-a33cf883c5ea"
+}
