@@ -5,7 +5,7 @@ syndicated:
 - type: stackexchange
   url: https://stackoverflow.com/questions/100247/reading-a-png-image-file-in-net-2-0
 tags:
-- c#
+- csharp
 - .net
 - questions
 - stackoverflow

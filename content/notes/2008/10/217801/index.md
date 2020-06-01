@@ -5,7 +5,7 @@ syndicated:
 - type: stackexchange
   url: https://stackoverflow.com/questions/217801/getting-language-for-non-unicode-programs
 tags:
-- c#
+- csharp
 - questions
 - stackoverflow
 - software development

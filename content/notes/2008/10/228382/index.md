@@ -5,7 +5,7 @@ syndicated:
 - type: stackexchange
   url: https://stackoverflow.com/questions/228382/c-html-font-tag-parsing
 tags:
-- c#
+- csharp
 - parsing
 - questions
 - stackoverflow

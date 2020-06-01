@@ -5,7 +5,7 @@ syndicated:
 - type: stackexchange
   url: https://stackoverflow.com/questions/99271/c-com-office-automation-rpc-e-sys-call-failed
 tags:
-- c#
+- csharp
 - com
 - ms-office
 - questions
