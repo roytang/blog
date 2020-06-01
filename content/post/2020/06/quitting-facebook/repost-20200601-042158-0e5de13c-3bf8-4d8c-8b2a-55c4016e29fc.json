@@ -1,0 +1,27 @@
+{
+  "id": "0e5de13c-3bf8-4d8c-8b2a-55c4016e29fc",
+  "url": "https://floss.social/@alcinnz",
+  "photo": null,
+  "date": "2020-06-01 04:21:58",
+  "source_obj": {
+    "url": "https://mastodon.technology/@roytang/104266688352867961#reblogged-by-77011",
+    "author": {
+      "url": "https://floss.social/@alcinnz",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "type": "card",
+      "name": "Adrian Cochrane"
+    },
+    "wm-private": false,
+    "wm-received": "2020-06-01T04:21:58Z",
+    "repost-of": "https://roytang.net/2020/06/quitting-facebook/",
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/104266688352867961/77011",
+    "type": "entry",
+    "published": null,
+    "wm-property": "repost-of",
+    "wm-target": "https://roytang.net/2020/06/quitting-facebook/",
+    "wm-id": 804553
+  },
+  "source_url": "https://mastodon.technology/@roytang/104266688352867961#reblogged-by-77011",
+  "name": "Adrian Cochrane",
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) [shared this](https://mastodon.technology/@roytang/104266688352867961#reblogged-by-77011)"
+}
