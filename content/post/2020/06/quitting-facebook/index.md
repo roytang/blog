@@ -1,8 +1,13 @@
 ---
-title: "Quitting Facebook"
 date: 2020-06-01
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104266688352867961
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1267302368514682883/
 tags:
 - tech life
+title: Quitting Facebook
 ---
 
 *(This will be cross-posted to my Facebook account.)*
