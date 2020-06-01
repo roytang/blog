@@ -1,0 +1,27 @@
+{
+  "text": "[Stay Home](https://linuxrocks.online/@techit) [liked this](https://mastodon.technology/@roytang/104266688352867961#favorited-by-202303)",
+  "photo": null,
+  "source_obj": {
+    "author": {
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/ee57dc80ca2d8604513e8f4a83231310b307072b022700c479ea47ac4bb81889.jpg",
+      "type": "card",
+      "name": "Stay Home",
+      "url": "https://linuxrocks.online/@techit"
+    },
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104266688352867961/202303",
+    "wm-received": "2020-06-01T18:17:45Z",
+    "published": null,
+    "url": "https://mastodon.technology/@roytang/104266688352867961#favorited-by-202303",
+    "type": "entry",
+    "wm-target": "https://roytang.net/2020/06/quitting-facebook/",
+    "wm-id": 804746,
+    "like-of": "https://roytang.net/2020/06/quitting-facebook/",
+    "wm-private": false,
+    "wm-property": "like-of"
+  },
+  "url": "https://linuxrocks.online/@techit",
+  "id": "574ce6df-efaa-4086-99c5-255f42b86289",
+  "date": "2020-06-01 18:17:45",
+  "name": "Stay Home",
+  "source_url": "https://mastodon.technology/@roytang/104266688352867961#favorited-by-202303"
+}
