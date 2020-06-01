@@ -1,0 +1,27 @@
+{
+  "id": "4e8401e3-aa00-4278-a6e9-4a9656196ab5",
+  "url": "https://mastodon.social/@gabek",
+  "photo": null,
+  "date": "2020-06-01 04:21:59",
+  "source_obj": {
+    "url": "https://mastodon.technology/@roytang/104266688352867961#favorited-by-65146",
+    "author": {
+      "url": "https://mastodon.social/@gabek",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/d7097a8cb7ae61d2da31011ffa88c34e3eb6ed0ad5e3be440aec79307d19c16f.png",
+      "type": "card",
+      "name": "Gabe Kangas"
+    },
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104266688352867961/65146",
+    "wm-received": "2020-06-01T04:21:59Z",
+    "like-of": "https://roytang.net/2020/06/quitting-facebook/",
+    "type": "entry",
+    "published": null,
+    "wm-property": "like-of",
+    "wm-target": "https://roytang.net/2020/06/quitting-facebook/",
+    "wm-id": 804554
+  },
+  "source_url": "https://mastodon.technology/@roytang/104266688352867961#favorited-by-65146",
+  "name": "Gabe Kangas",
+  "text": "[Gabe Kangas](https://mastodon.social/@gabek) [liked this](https://mastodon.technology/@roytang/104266688352867961#favorited-by-65146)"
+}
