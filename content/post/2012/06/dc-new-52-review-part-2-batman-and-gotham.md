@@ -12,6 +12,9 @@ tags:
 title: 'DC New 52 Review Part 2: Batman and Gotham'
 type: post
 url: /2012/06/dc-new-52-review-part-2-batman-and-gotham/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/209170512323166208/
 ---
 
 This is part 2 of my DC New 52 Review. Part is [here][1]. Hopefully I finish this series before the reviews become too out of date.

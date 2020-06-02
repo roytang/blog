@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1003149349654675457/
+title: ''
 ---
-
-RT [@Calvinn_Hobbes](https://twitter.com/Calvinn_Hobbes/): https://t.co/yFhN6YRBTS

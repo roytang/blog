@@ -8,6 +8,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1003304558058135552/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1003304740904734721/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1003304936199938048/  
 ---
 
-RT [@williamlidwell](https://twitter.com/williamlidwell/): This pretty much sums it ... https://t.co/x5qMw4S91H
+This pretty much sums it 
