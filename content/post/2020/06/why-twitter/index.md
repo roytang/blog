@@ -1,10 +1,15 @@
 ---
-title: "Why Twitter?"
-slug: why-twitter
 date: 2020-06-02
+dontinlinephotos: true
+slug: why-twitter
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104272429330889980
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1267669790241382401/
 tags:
 - tech life
-dontinlinephotos: true
+title: Why Twitter?
 ---
 
 Alright so someone responded to [my previous post on quitting facebook](/2020/05/quitting-facebook/) asking why I'm quitting facebook but keeping Twitter. This is a fair question; after all, Twitter also makes its money off targetted advertising, can also get you addicted to engagement (likes/RTs), the Twitter app can also be dumb, and there can also be a lot of toxic people on this platform.
@@ -72,4 +77,3 @@ I'm not saying Twitter is perfect. There is certainly a lot of room for improvem
 Note: It seems a bit weird to be publishing this right now when the world seems to be on fire. I follow a lot of Americans so a lot of the racism and police brutality-inspired chaos dominates my Twitter timelines at the moment (as can be seen in the Tweetdeck screenshot above). But I think this is also a good illustration of how useful Twitter's filters and options are. If you chose to, (or needed to temporarily, for your sanity maybe?) you can probably block out these events from your timeline completely. 
 
 There is certainly a lot of room for improvement especially from the technical side; [Mastodon](https://mastodon.technology) comes to mind as a superior platform in this regard, but that platform doesn't have the scale of Twitter yet, which limits the interesting interactions that can come up. I find a lot of smart and interesting interactions still happen on Twitter, so it's not yet something I'm willing to give up.
-
