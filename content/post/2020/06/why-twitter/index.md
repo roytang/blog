@@ -1,7 +1,7 @@
 ---
 title: "Why Twitter?"
 slug: why-twitter
-date: 2020-06-08
+date: 2020-06-02
 tags:
 - tech life
 dontinlinephotos: true
@@ -15,7 +15,7 @@ So here are my reasons for keeping Twitter, and you may also get some tips for i
 
 {{< img src="IMG_0841.png" >}}
 
-With these settings disabled, they don't expose any of your data to advertisers, and they don't track you offsite.
+With these settings disabled, they don't expose any of your data to advertisers, and they don't track you offsite. Twitter also by its design gathers less specific personal information about you. They don't have fields to store your educational background or religious preference or other such demographics. Such things can be inferred from your activity though, but if I don't enable targetted advertising, they really have no reason to do so.
 
 ### Twitter provides more fine-tuned controls for you to filter who can interact with you.
 
@@ -65,9 +65,11 @@ Both of them are actually fairly terrible and inconsistent (surely a consequence
 
 ### Twitter has better public content
 
-Alright, this one might be totally subjective or anecdotal based on my own Twitter follows and setup, but I find that public discourse is generally much better on Twitter compared to Facebook. It might be due to some of the factors above, and maybe some level of luck/privilege/good filtering on my part. I mean, you can find bad actors and low-quality discussions if you go looking for them, but why?
+Alright, this one might be totally subjective or anecdotal based on my own Twitter follows and setup, but I find that public discourse is generally better on Twitter compared to Facebook. It might be due to some of the factors above, and maybe some level of luck/privilege/good filtering on my part. I mean, you can find bad actors and low-quality discussions if you go looking for them, but why?
 
-Because replies to posts are treated as "same-level" content on Twitter, i.e. they are presented in the same font size and post size as the tweet being replied to, there is a greater sense of... equality maybe? I guess I'm not explaining this point too well.
+I'm not saying Twitter is perfect. There is certainly a lot of room for improvement, especially technically. But compared to Facebook, I think Twitter is much less of a garbage fire maybe because (a) I don't feel constrained to follow mainly family and friends; Twitter feels more like it can be a window to part of the larger world; and (b) the existence of Tweetdeck and better filtering tools means I don't have to suffer through ads or other such inanity every few posts.
 
-I'm not saying Twitter is perfect. There are certainly better platforms both from the technical aspect (i.e. [Mastodon](https://mastodon.technology)) or as a discussion form, but perhaps due to its nature, I find a lot of smart and interesting interactions still happen on Twitter, so it's not something I'm willing to give up.
+Note: It seems a bit weird to be publishing this right now when the world seems to be on fire. I follow a lot of Americans so a lot of the racism and police brutality-inspired chaos dominates my Twitter timelines at the moment (as can be seen in the Tweetdeck screenshot above). But I think this is also a good illustration of how useful Twitter's filters and options are. If you chose to, (or needed to temporarily, for your sanity maybe?) you can probably block out these events from your timeline completely. 
+
+There is certainly a lot of room for improvement especially from the technical side; [Mastodon](https://mastodon.technology) comes to mind as a superior platform in this regard, but that platform doesn't have the scale of Twitter yet, which limits the interesting interactions that can come up. I find a lot of smart and interesting interactions still happen on Twitter, so it's not yet something I'm willing to give up.
 
