@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/341946363526914049/
+title: ''
 ---
 
-RT [@berkun](https://twitter.com/berkun/): The Basic Laws of Human Stupidity http://cantrip.org/stupidity.html?seenIEPage=1 via [@markgould13](https://twitter.com/markgould13/)
+The Basic Laws of Human Stupidity http://cantrip.org/stupidity.html?seenIEPage=1 via [@markgould13](https://twitter.com/markgould13/)

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/871157700838645760/
+title: ''
 ---
 
-RT [@jwaaaap](https://twitter.com/jwaaaap/): biggest power fantasy in games is when you talk to every stranger
+biggest power fantasy in games is when you talk to every stranger

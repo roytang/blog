@@ -11,8 +11,11 @@ syndicated:
 tags:
 - Microsoft
 - github
+title: ''
 ---
 
-RT [@aurel_herve](https://twitter.com/aurel_herve/): Can't wait to see the new #Microsoft version of GitHub
+Can't wait to see the new #Microsoft version of GitHub
 
-#github https://t.co/Zll8hf8Q9c
+
+
+#github
