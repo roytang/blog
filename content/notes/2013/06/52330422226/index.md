@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/52330422226/i-could-stare-at-these-for-hours
+- type: twitter
+  url: https://twitter.com/roytang/statuses/342765821136891904/
 ---
 
 <p><a href="http://brianmichaelbendis.tumblr.com/post/52318786033/i-could-stare-at-these-for-hours" class="tumblr_blog">brianmichaelbendis</a>:</p>

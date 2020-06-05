@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1136656849728561152/
+title: ''
 ---
 
-RT [@maggiesmithpoet](https://twitter.com/maggiesmithpoet/): Today's goal: Do something today that will bring you joy even if you know you won't do it well. Let go of the idea tha…
+Today's goal: Do something today that will bring you joy even if you know you won't do it well. Let go of the idea that you have to be the best at something to enjoy it. Train yourself to crave experience, not perfection. Keep moving.
