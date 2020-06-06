@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/78136681399730176/
+title: ''
 ---
 
-RT [@bramcohen](https://twitter.com/bramcohen/): Every time you use 'return' from the middle of a function, God kills a kitten.
+Every time you use 'return' from the middle of a function, God kills a kitten.
