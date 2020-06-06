@@ -8,6 +8,9 @@
   {{ with .Site.Params.micropub_endpoint }}  
   <link rel="micropub" href="{{ . }}">   
   {{ end }}
+  {{ with .Site.Params.microsub_endpoint }}  
+  <link rel="microsub" href="{{ . }}">   
+  {{ end }}
   {{ if .IsPage }}
   {{ with .Site.Params.webmention_username }}  
     <link rel="webmention" href="https://webmention.io/{{ . }}/webmention" />

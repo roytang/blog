@@ -81,6 +81,7 @@ canonifyURLs = true
     search_action = 'https://apps.roytang.net/blog/search'
     # comments_endpoint = 'https://apps.roytang.net/blog/comments/submit/'
     micropub_endpoint = 'https://apps.roytang.net/blog/micropub'
+    microsub_endpoint = 'https://aperture.p3k.io/microsub/521'
     recaptcha_key = '6Ld80rMUAAAAAIKde9k3z7KtfmjHSwT48S_Cy5-k'
     sourceFileBase = 'https://github.com/roytang/blog/tree/master/content/'
     mainSections = ["post", "links", "photos", "notes", "fiction"]
