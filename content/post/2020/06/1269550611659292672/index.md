@@ -21,6 +21,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1269550628834926594/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1269550630688813059/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104302156428329022
 tags:
 - postified
 - postified
