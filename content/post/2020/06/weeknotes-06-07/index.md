@@ -6,9 +6,7 @@ tags:
 - current events
 - philippines
 title: "Weeknotes 2020-06-07: Mad World"
-draft: true
 ---
-
 
 The world isn't letting up. The virus is still around, but both the US and my own country have gotten distracted.
 
@@ -31,6 +29,8 @@ My stuff:
   - I think I'm like in the final act for Divinity OS2. Need to finish it soonish because...
   - ... my PS4 is back! My brother finally passed by the house to pick up some stuff and returned my console. I already hooked it up and did the installation things for FF7R. Will probably start it this week.
   - new Humble choice is up, but it's meh again. Will probably pass.
+  - I was looking forward to the PS5 reveal this week, but it got rescheduled due to everything happening
+  - At least previews for the next Magic set have already started. Some cool stuff. Instant planeswalker abilities! Phasing! Prowess! [Really creepy art](http://mythicspoiler.com/m21/cards/peerintotheabyss.html)! We also got some bans and an actual rule change to address companions, both of which are sure to shake up the formats. I finally caved and paid gems for the Ikoria mythic pass on Arena (I've saved up a bunch anyway. Still totally F2P!). Hopefully I can max out the levels/rewards before the mastery rotation.
 - **Quiz:** Geekfight was fun this week (theme was Marvel comics, right up my alley), although I didn't win. We did poorly in the other two online quizzes
 - **Watching lately:**
   - Legends of Tomorrow season finale was weak and didn't really make sense, but still somehow the best of the Arrowverse finales this season. Oh well.
