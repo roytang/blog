@@ -1,11 +1,16 @@
 ---
 date: 2020-06-07
 slug: weeknotes-06-07
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104301252097103281
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1269514448072396800/
 tags:
 - weeknotes
 - current events
 - philippines
-title: "Weeknotes 2020-06-07: Mad World"
+title: 'Weeknotes 2020-06-07: Mad World'
 ---
 
 The world isn't letting up. The virus is still around, but both the US and my own country have gotten distracted.
@@ -40,4 +45,4 @@ My stuff:
   - Worked a bit on [triviastorm](https://triviastorm.net/) stuff this week. I'm preparing new questions and cleaning up the old ones, and also some work on a tighter checking algorithm. There's a bunch of features I want to add to this side project, let's see if I manage to get around to them.
   - Also spent a couple of hours fantasizing about rewriting the site again, maybe back to a dynamic backend, or some kind of hybrid, mostly to address the issues scaling with so many posts. Lol, will probably not do this yet, but it's in the back of my mind.
 
-No recent links for now. Maybe I'll be more diligent about this next week. 
+No recent links for now. Maybe I'll be more diligent about this next week.
