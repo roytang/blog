@@ -1,0 +1,27 @@
+{
+  "text": "[{ Biason::Julio::new(); }](https://functional.cafe/@juliobiason) [liked this](https://mastodon.technology/@roytang/104301252097103281#favorited-by-63024)",
+  "url": "https://functional.cafe/@juliobiason",
+  "source_obj": {
+    "type": "entry",
+    "wm-id": 807511,
+    "url": "https://mastodon.technology/@roytang/104301252097103281#favorited-by-63024",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104301252097103281/63024",
+    "wm-target": "https://roytang.net/2020/06/weeknotes-06-07/",
+    "like-of": "https://roytang.net/2020/06/weeknotes-06-07/",
+    "published": null,
+    "wm-property": "like-of",
+    "wm-private": false,
+    "wm-received": "2020-06-07T09:49:33Z",
+    "author": {
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/db449301c05c435d602d1d8be96a26145eb8b5f684e8a56a11c8eb8104edc0ab.jpg",
+      "url": "https://functional.cafe/@juliobiason",
+      "type": "card",
+      "name": "{ Biason::Julio::new(); }"
+    }
+  },
+  "name": "{ Biason::Julio::new(); }",
+  "id": "d45855a6-6136-4c60-8a5d-63c583684895",
+  "photo": null,
+  "date": "2020-06-07 09:49:33",
+  "source_url": "https://mastodon.technology/@roytang/104301252097103281#favorited-by-63024"
+}
