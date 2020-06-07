@@ -6,6 +6,7 @@ tags:
 - current events
 - philippines
 title: "Weeknotes 2020-06-07: Mad World"
+draft: true
 ---
 
 
