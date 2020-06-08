@@ -23,6 +23,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1269550630688813059/
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/104302156428329022
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1269603773401325568/
 tags:
 - postified
 - postified
@@ -64,3 +66,5 @@ From Maya Angelou:
 
 
 &gt; "When someone shows you who they are, believe them"
+
+(Disclaimer: this is not to say that one should automatically trust any person who presents as good, just not to unnecessarily assume false motives; use your common sense.)
