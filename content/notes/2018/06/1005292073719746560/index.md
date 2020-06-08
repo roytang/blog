@@ -1,5 +1,6 @@
 ---
 date: 2018-06-09 03:34:42+00:00
+dontinlinephotos: true
 repost_source:
   name: PowerMila1
   type: twitter
@@ -8,6 +9,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1005292073719746560/
+title: ''
 ---
 
-RT [@PowerMila1](https://twitter.com/PowerMila1/): https://t.co/CJNujJCote
+
+
+{{< img src="DfN2X0JX0AAPBrc.jpg" >}}
