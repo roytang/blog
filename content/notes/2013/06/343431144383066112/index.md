@@ -1,5 +1,6 @@
 ---
 date: 2013-06-08 18:15:40+00:00
+dontinlinephotos: true
 repost_source:
   name: MrAlanCooper
   type: twitter
@@ -8,6 +9,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/343431144383066112/
+title: ''
 ---
 
-RT [@MrAlanCooper](https://twitter.com/MrAlanCooper/): Browsers! This is a call to action to euthanize yet another despised Microsoft product. https://t.co/iN3S7oFVhR
+Browsers! This is a call to action to euthanize yet another despised Microsoft product. 
+
+{{< img src="BMQbE8lCIAAmjNn.png" >}}
