@@ -1,5 +1,6 @@
 ---
 date: 2016-06-11 06:32:09+00:00
+dontinlinephotos: true
 repost_source:
   name: neiltyson
   type: twitter
@@ -8,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/741518362597949441/
+title: ''
 ---
 
-RT [@neiltyson](https://twitter.com/neiltyson/): Common Evidence of Bias: Your candidate is the best, and you can find absolutely nothing good to say about other candidates.
+Common Evidence of Bias: Your candidate is the best, and you can find absolutely nothing good to say about other candidates.
