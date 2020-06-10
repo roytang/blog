@@ -1,9 +1,12 @@
 
 <div class="content e-content">
 {{ if .Params.repost_source }}<blockquote>{{ end }}
-{{ .Summary }}
+{{ .Content }}
 {{ if .Params.repost_source }}</blockquote>{{ end }}
+{{ if .Params.dontinlinephotos }}
+{{ else }}
 <div class="image-list">
 {{ .Render "image_list" }}
 </div>
+{{ end }}
 </div>
