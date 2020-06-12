@@ -7,6 +7,9 @@ tags:
 title: The Earth is Flat
 type: post
 url: /2008/01/the-earth-is-flat/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/874156787863232512
 ---
 
 Random memory for the day:

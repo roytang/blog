@@ -1,5 +1,6 @@
 ---
-date: 2018-06-12 13:03:39
+date: 2018-06-12 13:03:39+00:00
+dontinlinephotos: true
 repost_source:
   name: valerievaldes
   type: twitter
@@ -10,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1006522419115245568/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156700373338912
+title: ''
 ---
 
-RT [@valerievaldes](https://twitter.com/valerievaldes/): Hey, friend. Were you a smart kid who always heard about how smart you were and are now not feeling so smart? Are you, i…
+Hey, friend. Were you a smart kid who always heard about how smart you were and are now not feeling so smart? Are you, in fact, feeling fairly shitty about yourself? This thread is for you.

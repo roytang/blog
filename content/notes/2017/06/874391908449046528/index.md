@@ -1,5 +1,6 @@
 ---
 date: 2017-06-12 22:24:11+00:00
+dontinlinephotos: true
 repost_source:
   name: GSUniverse
   type: twitter
@@ -10,6 +11,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/874391908449046528/
 tags:
 - SupermanDay
+title: ''
 ---
 
-RT [@GSUniverse](https://twitter.com/GSUniverse/): "Once you choose hope, anything's possible." Happy #SupermanDay! https://t.co/v4Zc5B7mvp
+"Once you choose hope, anything's possible." Happy #SupermanDay! 
+
+{{< img src="DCJ0tdpXYAA_B61.jpg" >}}
