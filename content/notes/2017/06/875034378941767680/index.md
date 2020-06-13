@@ -1,5 +1,6 @@
 ---
 date: 2017-06-14 16:57:07+00:00
+dontinlinephotos: true
 repost_source:
   name: gangbadoy
   type: twitter
@@ -8,10 +9,17 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/875034378941767680/
+title: ''
 ---
 
-RT [@gangbadoy](https://twitter.com/gangbadoy/): 1987 Constitution.
+1987 Constitution.
+
 Article VII. The Executive Department.
+
 Section 12.
 
-(Bedtime stories. 🌙) https://t.co/j1YP47CcHA
+
+
+(Bedtime stories. 🌙) 
+
+{{< img src="DCS-jO4VwAAXU_L.jpg" >}}
