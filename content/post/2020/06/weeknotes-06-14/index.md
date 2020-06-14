@@ -1,11 +1,16 @@
 ---
 date: 2020-06-14
 slug: weeknotes-06-14
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104341831985875863
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1272111562367500288/
 tags:
 - weeknotes
 - current events
 - philippines
-title: 'Weeknotes 2020-06-14'
+title: Weeknotes 2020-06-14
 ---
 
 Surprisingly, no new crises have emerged during the past week. I think. More of the same crises, carrying on.
