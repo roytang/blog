@@ -1,5 +1,6 @@
 ---
 date: 2011-06-15 13:05:14+00:00
+dontinlinephotos: true
 repost_source:
   name: StephenAtHome
   type: twitter
@@ -8,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/80984207756754945/
+title: ''
 ---
 
-RT [@StephenAtHome](https://twitter.com/StephenAtHome/): Ever notice how you never see Grover and Super-Grover in the same room at the same time? Suspicious.
+Ever notice how you never see Grover and Super-Grover in the same room at the same time? Suspicious.

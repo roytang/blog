@@ -1,5 +1,6 @@
 ---
 date: 2016-06-15 08:03:51+00:00
+dontinlinephotos: true
 repost_source:
   name: dailyzen
   type: twitter
@@ -8,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/742990992274493440/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): The world owes you nothing. You can either learn to cope with it and make peace with all that is, or continue suffering.
+The world owes you nothing. You can either learn to cope with it and make peace with all that is, or continue suffering.

@@ -1,5 +1,6 @@
 ---
 date: 2017-06-16 06:28:04+00:00
+dontinlinephotos: true
 repost_source:
   name: dawende
   type: twitter
@@ -8,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/875600845513015297/
+title: ''
 ---
 
-RT [@dawende](https://twitter.com/dawende/): Whatever beliefs we hold, let's pray for the president. Decency bids us not to wish ill upon others. Think none harm, do none…
+Whatever beliefs we hold, let's pray for the president. Decency bids us not to wish ill upon others. Think none harm, do none harm.
