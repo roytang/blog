@@ -1,6 +1,11 @@
 ---
-date: 2020-06-18 00:28:34+08:00
+date: 2020-06-17 16:28:34
 source: email
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104362497329813717
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1273434141594288128/
 title: hey.com
 ---
 
