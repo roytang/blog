@@ -1,5 +1,6 @@
 ---
 date: 2013-06-19 14:06:20+00:00
+dontinlinephotos: true
 repost_source:
   name: Bender
   type: twitter
@@ -8,8 +9,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/347354665584836608/
+title: ''
 ---
 
-RT [@Bender](https://twitter.com/Bender/): The greatest final season of the greatest show to ever be canceled twice starts tonight. 10/9c on [@ComedyCentral](https://twitter.com/ComedyCentral/).
+The greatest final season of the greatest show to ever be canceled twice starts tonight. 10/9c on [@ComedyCentral](https://twitter.com/ComedyCentral/).
 
-DO NOT DISAP…
+
+
+DO NOT DISAPPOINT ME

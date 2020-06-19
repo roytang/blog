@@ -12,6 +12,9 @@ tags:
 title: 'The DC New 52 Review Part 3: Everything Else'
 type: post
 url: /2012/06/the-dc-new-52-review-part-3-everything-else/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/215706585182380032/
 ---
 
 The last two entries ([here][1] and [here][2]) took too long to write, and there's a helluva lot of other titles to go through. And many of them don't deserve much comments, so I'll just go through the rest quickly or I might never finish.

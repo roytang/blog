@@ -14,6 +14,9 @@ tags:
 title: Grand Prix Manila 2012
 type: post
 url: /2012/06/grand-prix-manila-2012/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/215112307523584003/
 ---
 
 Last weekend was Grand Prix Manila 2012, held at the SMX at Mall of Asia. I don't really consider myself a "regular" Magic player anymore so I'm not going to give a full tournament report, though I will record some details for posterity.
