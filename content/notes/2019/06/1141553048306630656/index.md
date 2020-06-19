@@ -1,5 +1,6 @@
 ---
 date: 2019-06-20 03:47:10+00:00
+dontinlinephotos: true
 repost_source:
   name: mlq3
   type: twitter
@@ -8,6 +9,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1141553048306630656/
+title: ''
 ---
 
-RT [@mlq3](https://twitter.com/mlq3/): A truly appropriate use of a quote. https://t.co/h2A7FzXjnM
+A truly appropriate use of a quote. 
+
+{{< img src="D9ea4BSVAAEBI9A.jpg" >}}

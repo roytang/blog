@@ -1,5 +1,6 @@
 ---
 date: 2018-06-20 14:31:54+00:00
+dontinlinephotos: true
 repost_source:
   name: swyx
   type: twitter
@@ -8,6 +9,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1009443731324325888/
+title: ''
 ---
 
-RT [@swyx](https://twitter.com/swyx/): Learn In Public. https://t.co/RpKfRAy9Um
+Learn In Public. 
+
+{{< img src="DgFOhk-VAAAdMlj.jpg" >}}
