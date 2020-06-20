@@ -1,5 +1,6 @@
 ---
 date: 2018-06-21 22:32:30+00:00
+dontinlinephotos: true
 repost_source:
   name: Iron_Spike
   type: twitter
@@ -8,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1009927064915357696/
+title: ''
 ---
 
-RT [@Iron_Spike](https://twitter.com/Iron_Spike/): When a fan comic does more to humanize a character than literal decades of daily newspaper strips. http://galesaur.com/portfolio/jon-2/
+When a fan comic does more to humanize a character than literal decades of daily newspaper strips. http://galesaur.com/portfolio/jon-2/

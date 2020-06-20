@@ -1,5 +1,6 @@
 ---
 date: 2019-06-21 16:10:47+00:00
+dontinlinephotos: true
 repost_source:
   name: stevevsninjas
   type: twitter
@@ -8,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1142102572246822912/
+title: ''
 ---
 
-RT [@stevevsninjas](https://twitter.com/stevevsninjas/): The biggest myth about travel is "packing light" - don't bother! Light is available from the sun and artificial sources…
+The biggest myth about travel is "packing light" - don't bother! Light is available from the sun and artificial sources worldwide.

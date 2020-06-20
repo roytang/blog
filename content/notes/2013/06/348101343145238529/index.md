@@ -1,5 +1,6 @@
 ---
 date: 2013-06-21 15:33:22+00:00
+dontinlinephotos: true
 repost_source:
   name: redditflipboard
   type: twitter
@@ -11,6 +12,7 @@ syndicated:
 tags:
 - reddit
 - flipboard
+title: ''
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): Emma Stone is by far the best sister ever. [r/funny] http://i.pinimg.com/236x/a6/46/bc/a646bc910d00f120cf44f5a404198ca5.jpg?utm_source=twitterfeed&utm_medium=twitter #reddit #flipboard
+Emma Stone is by far the best sister ever. [r/funny] http://bit.ly/196TIFS #reddit #flipboard
