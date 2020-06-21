@@ -1,11 +1,16 @@
 ---
 date: 2020-06-21
 slug: weeknotes-06-21
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104381310843338289
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1274638206026174464/
 tags:
 - weeknotes
 - current events
 - philippines
-title: "Weeknotes 2020-06-21: There's no gettin' off this train we're on"
+title: 'Weeknotes 2020-06-21: There''s no gettin'' off this train we''re on'
 ---
 
 My stuff:
