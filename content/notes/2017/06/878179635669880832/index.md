@@ -1,5 +1,6 @@
 ---
 date: 2017-06-23 09:15:15+00:00
+dontinlinephotos: true
 repost_source:
   name: thysz
   type: twitter
@@ -10,8 +11,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/878179635669880832/
 tags:
 - UPlift
+title: ''
 ---
 
-RT [@thysz](https://twitter.com/thysz/): UP Diliman finally gets a female Oblation. #UPlift by renowned sculptor, Ferdinand Cacnio. 
+UP Diliman finally gets a female Oblation. #UPlift by renowned sculptor, Ferdinand Cacnio. 
 
-📸: Gus Cerdeña https://t.co/Yum5g8F…
+
+
+📸: Gus Cerdeña 
+
+{{< img src="DC_mz2qU0AAqBLN.jpg" >}}

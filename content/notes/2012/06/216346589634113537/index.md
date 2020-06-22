@@ -1,5 +1,6 @@
 ---
 date: 2012-06-23 01:47:01+00:00
+dontinlinephotos: true
 repost_source:
   name: YNB
   type: twitter
@@ -8,6 +9,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/216346589634113537/
+tags:
+- isthisthingon
+title: ''
 ---
 
-RT [@yvettenbrown](https://twitter.com/yvettenbrown/): Guys, season three ended back in May. RERUNS are airing all summer in our NEW Fridays at 8:30pm/7:30c timeslot. Got it ...
+Guys, season three ended back in May. RERUNS are airing all summer in our NEW Fridays at 8:30pm/7:30c timeslot. Got it? #IsThisThingOn?
