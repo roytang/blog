@@ -3,10 +3,6 @@
 {{ if .Params.repost_source }}<blockquote>{{ end }}
 {{ .Content }}
 {{ if .Params.repost_source }}</blockquote>{{ end }}
-{{ if .Params.dontinlinephotos }}
-{{ else }}
-<div class="image-list">
+
 {{ .Render "image_list" }}
-</div>
-{{ end }}
 </div>

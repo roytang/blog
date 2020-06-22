@@ -8,8 +8,12 @@
 {{ end }}
 {{ $figcaption := $scratch.Get "figcaption" }}
 
-<a href="{{ .mainPermalink }}#{{ .context.Name | safeURL }}">
+<a href="#{{ .context.RelPermalink | md5 }}-lightbox">
     <figure>
       <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" />
     </figure>
 </a>
+<a href="#_" class="lightbox" id="{{ .context.RelPermalink | md5 }}-lightbox">
+  <img src="{{ .context.RelPermalink | safeURL }}" />
+</a>
+

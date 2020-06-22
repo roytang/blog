@@ -1,6 +1,7 @@
 {{ $caption := .Summary }}
 {{ $scratch := newScratch }}
 {{ $link_url := .Params.photo_link_url }}
+<div class="image-list">
 {{ range .Resources.ByType "image" }}
 
 {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
@@ -40,8 +41,8 @@
 {{ end }}
 {{ $figcaption := $scratch.Get "figcaption" }}
 
-{{ if $link_url }}<a href="{{ $link_url }}" title="{{ $figcaption }}">{{ end }}
 <figure id="{{ .Name | safeURL }}">
+  <a href="#{{ .RelPermalink | md5 }}-lightbox">
 <img 
 {{/*
   sizes="(min-width: 35em) 1200px, 100vw"
@@ -61,7 +62,7 @@
     src="{{ .RelPermalink }}" 
     alt="{{ $figcaption }}"
     title="{{ $figcaption }}"
-  />
+  /></a>
 {{ if not (eq .Title .Name) }}
 {{ with .Title }}
 <figcaption>{{ . | markdownify }}</figcaption>
@@ -69,9 +70,13 @@
 {{ else }}
 {{ end }}
 </figure>  
-{{ if $link_url }}</a>{{ end }}
+<a href="#_" class="lightbox" id="{{ .RelPermalink | md5 }}-lightbox">
+  <img src="{{ .RelPermalink | safeURL }}" />
+</a>
 {{ end }}
+
 
 {{ range .Resources.Match "*.mp4" }}
 <video id="{{ .Name | safeURL }}" src="{{ .RelPermalink }}" controls></video>
 {{ end }}
+</div>
