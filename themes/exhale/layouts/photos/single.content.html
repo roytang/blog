@@ -2,7 +2,9 @@
 {{ .Content }}
 {{ if .Params.dontinlinephotos }}
 {{ else }}
+<div class="image-list">
 {{ .Render "image_list" }}
+</div>
 {{ end }}
 </div>
 

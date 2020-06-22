@@ -1,4 +1,4 @@
-<div class="image-list">
+
 {{ $mainPermalink := .RelPermalink }}
 {{ $caption := .Title | default .Summary }}
 {{ with .Resources.ByType "image" }}
@@ -12,4 +12,3 @@
     <a href="{{ $mainPermalink }}">View post</a>
 </div>
 {{ end }}
-</div>
