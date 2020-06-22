@@ -1,6 +1,5 @@
 ---
 date: 2020-06-07 11:37:07+00:00
-dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
@@ -15,7 +14,3 @@ Misspellings imply these accounts are being created manually instead of with aut
 From Starbucks to shadow accounts, my name’s spelled wrong. 😂 Seriously though, this is not good. It appears journalists and UP students/alumni are target. 
 
 {{% /quoted %}}
-
-{{< img src="EZ4Z9wYU4AEH9AT.jpg" >}}
-
-{{< img src="EZ4Z9weVAAAH_nx.jpg" >}}

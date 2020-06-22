@@ -1,6 +1,5 @@
 ---
 date: 2020-06-07 12:09:09+00:00
-dontinlinephotos: true
 repost_source:
   name: notphanan
   type: twitter
@@ -14,6 +13,4 @@ tags:
 title: ''
 ---
 
-This is [@youyuxi](https://twitter.com/youyuxi/)'s answer to those who demanded to remove the #BlackLivesMatter banner from http://vuejs.org saying it's "racist against non-black people." 👏👏👏 
-
-{{< img src="EZwg_0SWoAAZZ0_.jpg" >}}
+This is [@youyuxi](https://twitter.com/youyuxi/)'s answer to those who demanded to remove the #BlackLivesMatter banner from http://vuejs.org saying it's "racist against non-black people." 👏👏👏
