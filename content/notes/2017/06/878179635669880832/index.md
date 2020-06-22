@@ -1,6 +1,5 @@
 ---
 date: 2017-06-23 09:15:15+00:00
-dontinlinephotos: true
 repost_source:
   name: thysz
   type: twitter
@@ -18,6 +17,4 @@ UP Diliman finally gets a female Oblation. #UPlift by renowned sculptor, Ferdina
 
 
 
-📸: Gus Cerdeña 
-
-{{< img src="DC_mz2qU0AAqBLN.jpg" >}}
+📸: Gus Cerdeña

@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/878276759631810560/
 tags:
 - PS4share
+title: ''
 ---
 
-Wow there's chatbot spam on psn now? #PS4share https://t.co/4lb1wkGE5z
+Wow there's chatbot spam on psn now? #PS4share
