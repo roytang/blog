@@ -1,6 +1,5 @@
 ---
 date: 2019-06-22 02:49:44+00:00
-dontinlinephotos: true
 repost_source:
   name: NinaStrohminger
   type: twitter
@@ -12,6 +11,4 @@ syndicated:
 title: ''
 ---
 
-I think about this at least once a week 
-
-{{< img src="D9i0u06UwAAO_6T.png" >}}
+I think about this at least once a week

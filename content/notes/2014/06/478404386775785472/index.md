@@ -1,6 +1,5 @@
 ---
 date: 2014-06-16 05:11:08+00:00
-dontinlinephotos: true
 repost_source:
   name: A_WritersStudio
   type: twitter
@@ -12,6 +11,4 @@ syndicated:
 title: ''
 ---
 
-Awesome infographic – The Shapes of Stories by Kurt Vonnegut http://www.aerogrammestudio.com/2013/03/26/the-shapes-of-stories-by-kurt-vonnegut/ 
-
-{{< img src="BqNrFzpIYAA2iIj.png" >}}
+Awesome infographic – The Shapes of Stories by Kurt Vonnegut http://www.aerogrammestudio.com/2013/03/26/the-shapes-of-stories-by-kurt-vonnegut/

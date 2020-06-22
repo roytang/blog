@@ -1,6 +1,5 @@
 ---
 date: 2017-06-14 16:57:07+00:00
-dontinlinephotos: true
 repost_source:
   name: gangbadoy
   type: twitter
@@ -20,6 +19,4 @@ Section 12.
 
 
 
-(Bedtime stories. 🌙) 
-
-{{< img src="DCS-jO4VwAAXU_L.jpg" >}}
+(Bedtime stories. 🌙)

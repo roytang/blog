@@ -1,6 +1,5 @@
 ---
 date: 2013-06-08 18:15:40+00:00
-dontinlinephotos: true
 repost_source:
   name: MrAlanCooper
   type: twitter
@@ -12,6 +11,4 @@ syndicated:
 title: ''
 ---
 
-Browsers! This is a call to action to euthanize yet another despised Microsoft product. 
-
-{{< img src="BMQbE8lCIAAmjNn.png" >}}
+Browsers! This is a call to action to euthanize yet another despised Microsoft product.

@@ -1,6 +1,5 @@
 ---
 date: 2019-06-20 03:47:10+00:00
-dontinlinephotos: true
 repost_source:
   name: mlq3
   type: twitter
@@ -12,6 +11,4 @@ syndicated:
 title: ''
 ---
 
-A truly appropriate use of a quote. 
-
-{{< img src="D9ea4BSVAAEBI9A.jpg" >}}
+A truly appropriate use of a quote.

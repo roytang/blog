@@ -1,6 +1,5 @@
 ---
 date: 2018-06-19 16:21:09+00:00
-dontinlinephotos: true
 repost_source:
   name: mashable
   type: twitter
@@ -12,6 +11,4 @@ syndicated:
 title: ''
 ---
 
-Chris Pratt’s 9-point speech at the MTV Awards is totally bonkers https://trib.al/OfxiDSA 
-
-{{< img src="DgC0ct4XkAEq9bV.jpg" >}}
+Chris Pratt’s 9-point speech at the MTV Awards is totally bonkers https://trib.al/OfxiDSA

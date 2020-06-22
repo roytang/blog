@@ -1,6 +1,5 @@
 ---
 date: 2018-06-20 14:31:54+00:00
-dontinlinephotos: true
 repost_source:
   name: swyx
   type: twitter
@@ -12,6 +11,4 @@ syndicated:
 title: ''
 ---
 
-Learn In Public. 
-
-{{< img src="DgFOhk-VAAAdMlj.jpg" >}}
+Learn In Public.

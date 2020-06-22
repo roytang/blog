@@ -1,6 +1,5 @@
 ---
 date: 2017-06-12 22:24:11+00:00
-dontinlinephotos: true
 repost_source:
   name: GSUniverse
   type: twitter
@@ -14,6 +13,4 @@ tags:
 title: ''
 ---
 
-"Once you choose hope, anything's possible." Happy #SupermanDay! 
-
-{{< img src="DCJ0tdpXYAA_B61.jpg" >}}
+"Once you choose hope, anything's possible." Happy #SupermanDay!
