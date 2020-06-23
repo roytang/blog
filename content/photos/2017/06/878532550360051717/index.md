@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/878532550360051717/
+title: ''
 ---
 
-If programming languages were weapons (c/o r/ProgrammerHumor) https://t.co/fbneB5k807
+If programming languages were weapons (c/o r/ProgrammerHumor)

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/878429860288274432/
+title: ''
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): &lt;hunter&gt; pag nasusunog na bahay mo, mag text ka ng TULONG
+&lt;hunter&gt; pag nasusunog na bahay mo, mag text ka ng TULONG

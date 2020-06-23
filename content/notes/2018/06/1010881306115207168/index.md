@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1010881306115207168/
+title: ''
 ---
 
-RT [@ThePracticalDev](https://twitter.com/ThePracticalDev/): "Is the full-stack myth real?"
+"Is the full-stack myth real?"
+
 { author: [@mozartted](https://twitter.com/mozartted/) }
+
 https://dev.to/legobox/journey-to-fullstack-engineering-5b4k

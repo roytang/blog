@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/349153680198610944/
+title: ''
 ---
 
-RT [@mental_floss](https://twitter.com/mental_floss/): 10 Questions Still Baffling Scientists --- http://mentalfloss.com/article/51325/10-questions-still-baffling-scientists
+10 Questions Still Baffling Scientists --- http://bit.ly/14RtnY7

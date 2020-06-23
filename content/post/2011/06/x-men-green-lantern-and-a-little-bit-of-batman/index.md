@@ -12,6 +12,9 @@ tags:
 title: X-Men, Green Lantern and a little bit of Batman
 type: post
 url: /2011/06/x-men-green-lantern-and-a-little-bit-of-batman/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/84274605216382976/
 ---
 
 So Metro Manila is at the peril of heavy rains, flooding and traffic again (as often happens this time of the year) and I thought I'd do some actual blogging for a change.

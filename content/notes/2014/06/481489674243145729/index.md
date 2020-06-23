@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/481489674243145729/
+title: ''
 ---
-
-RT [@peterseibel](https://twitter.com/peterseibel/): https://t.co/rdAEhckY4a

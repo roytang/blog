@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/746377724734803973/
+title: ''
 ---
 
-RT [@SethMacFarlane](https://twitter.com/SethMacFarlane/): Brexit just took us one step away from the United Federation Of Planets
+Brexit just took us one step away from the United Federation Of Planets
