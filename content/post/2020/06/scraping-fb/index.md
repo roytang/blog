@@ -1,9 +1,14 @@
 ---
-title: "Scraping Facebook"
 date: 2020-06-24
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104397000139419911
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1275642321334394882/
 tags:
 - tech life
 - software development
+title: Scraping Facebook
 ---
 
 I had been meaning to [quit Facebook](/2020/06/quitting-facebook/) for more than a year maybe, but I kept putting it off. The main reason being that I like having backups of my own digital data (still very much a [pack rat](/2007/12/pack-rat-mentality/)), and Facebook's [social media export](/2019/03/export-your-social-media-data/) is less than ideal, for me at least.
@@ -33,4 +38,3 @@ Some other notes about these scripts:
 - running this might be considered spammy behavior by Facebook (understandably, but it's their fault they won't me do this via API), but the only consequence I've seen was that I wasn't able to view other people's profiles for some minutes after running the script
 
 As for what I'm going to do with this data, that's still to be determined. The nonpublic content can be imported into the archive on this blog (if it isn't there yet), but that's a lot of manual work. As for the scripts, hopefully I won't have to use them again in the future, but maybe they can be useful to someone else!
-
