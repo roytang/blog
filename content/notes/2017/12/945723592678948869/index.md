@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/945723592678948869/
 ---
 
-RT [@sitnikcode](https://twitter.com/sitnikcode/): The best pull request in 2017 https://t.co/51ppuR6Plz
+The best pull request in 2017

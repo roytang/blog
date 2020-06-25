@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1078639604691922944/
 ---
 
-RT [@galensdeathstar](https://twitter.com/galensdeathstar/): nicolas cage was the perfect choice for spider-man noir. https://t.co/nzMRmgHIqK
+nicolas cage was the perfect choice for spider-man noir. 

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/814525308422324224/
 ---
 
-RT [@GeorgeTakei](https://twitter.com/GeorgeTakei/): Indeed https://t.co/oiHbjrHAqK
+Indeed

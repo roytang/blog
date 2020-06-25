@@ -13,4 +13,4 @@ syndicated:
 
 [@SpotifyCares](https://twitter.com/SpotifyCares/) I don't see a follow button, only "PLAY" and "Copy Show Link"
 
-Example in the screenshot https://t.co/koXXz53ZU4
+Example in the screenshot 

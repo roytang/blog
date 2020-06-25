@@ -10,6 +10,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: "https://reddit.com/r/Philippines/comments/etnzr/\u0CA0_\u0CA0_dziq_p10_additional_flag_down_rate_for_cabs/"
+- type: twitter
+  url: https://twitter.com/roytang/statuses/20497062760026113/
 tags:
 - philippines
 ---

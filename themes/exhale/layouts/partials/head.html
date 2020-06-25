@@ -18,7 +18,9 @@
   {{ end }}
   {{ end }}
   {{ partial "metas" . }}
-  <link rel="stylesheet" href="/css/main.css" />
+  <link rel="stylesheet" href="/css/shared.css" type="text/css" />
+  <link rel="stylesheet" href="/css/main.css" type="text/css" title="Default" />
+  <link rel="alternate stylesheet" href="/css/plain.css" type="text/css" title="Plain" />
 </head>
 <body class="{{ .Kind }}">
     <div class="wrapper">
