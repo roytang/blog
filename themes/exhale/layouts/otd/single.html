@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{ $scratch := newScratch }}
+{{ $archMonth := .Date.Format "January" }}
+{{ $archDay :=.Date.Format "02" }}
+
+<section class="h-feed">
+<h3 class="p-name">On this day: {{ $archMonth }}/{{ $archDay }}</h3>
+
+{{ $slice := slice }}
+{{ range (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+    {{ if and (eq (.Date.Format "02") $archDay) (eq (.Date.Format "January") $archMonth) }}
+        {{ $slice = $slice | append . }}
+    {{ end }}
+{{ end }}
+{{ with $slice }}
+    {{ range .GroupByDate "2006" }}
+        <h3>{{ .Key }}</h3>
+        <ul class="entry_list">
+        {{ range .Pages }}
+            <li>{{ .Render "list_item" }}</li>
+        {{ end }}
+        </ul>
+    {{ end }}
+{{ end }}
+</section>
+
+
+{{ partial "block/navigation" . }}
+
+{{ end }}
