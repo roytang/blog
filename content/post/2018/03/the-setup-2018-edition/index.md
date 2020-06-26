@@ -9,7 +9,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/974088338021011456/
 tags:
 - Gaming
-- Software Development
 - Tech Life
 title: The Setup 2018 Edition
 type: post
