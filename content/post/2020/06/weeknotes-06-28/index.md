@@ -18,16 +18,18 @@ My stuff:
   - Divinity OS2 inched along slightly as well
   - won my [first Trivia Royale](/2020/06/1274581114628108289/), I can quit now lol.
   - the internet outage coincided with the start of this week's Steam Summer Sale. There's some games/DLC I'm considering buying, but realistically in terms of backlog I shouldn't lol. Let's see if willpower holds out.
+  - the new MTG core set also came out on Magic Arena during the outage. Maybe I'll get back into regular streaming for M21 limited.
 - **Quiz:** 
   - I still tried to join the Zoom and voice chats for the online quizzes with only my tethered mobile internet, but that was kind of a miserable experience. Still, I was able to contribute a bit, though we didn't actually do too well.
 - **Watching lately:**
   - I finished watching season 2 of Harley Quinn. I don't think I've written about the show before. The whole Harley/Poison Ivy dynamic isn't really for me, but I like the show's take on Gotham and the wider DC universe and there's a lot of fun characters like King Shark and Clayface. Also, Riddler was recognizably voiced by Dean Pelton from Community, and that was fun lol.
   - I also did a rewatch of Spider-Man Far From Home on Netflix, before the internet problems and all. Still a pretty good movie, and watching it made me eager to get back to the MCU.
   - I also watched the Sonic the Hedgehog movie while things were offline. The best thing about this is Sonic being recognizably voiced by Ben Schwartz, who apparently [voices everyone blue](https://thesuperheroesnetwork.tumblr.com/post/622121477003739136/supernova-swirls-gothammite-he-really).
+  - As soon as my internet came back, I started watching Ghost Fighter/Yu Yu Hakusho, which came out on Netflix (as you guessed it, during the outage)
 - I also tried reading a book. It was a Discworld book. "Tried" being the operative word. I'll write about it if I manage to get to the end.
 - Side projects: 
   - Uh, proceeding apace I guess?
-- Again: I should probably write more.
+- Again: I should probably write more. 
 
 Recent links:
 
