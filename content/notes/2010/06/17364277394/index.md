@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/17364277394/
+title: ''
 ---
 
-RT [@debs](https://twitter.com/debs/): OH from a friend: "Life would be easier if you could mark people as spam."
+OH from a friend: "Life would be easier if you could mark people as spam."

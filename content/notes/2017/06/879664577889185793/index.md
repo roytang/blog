@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/879664577889185793/
+title: ''
 ---
 
-RT [@enenkay](https://twitter.com/enenkay/): There's a bot that generates randomized quotes over random images and I've spent half of the morning crying laughing
-https://t…
+There's a bot that generates randomized quotes over random images and I've spent half of the morning crying laughing
+
+http://inspirobot.me

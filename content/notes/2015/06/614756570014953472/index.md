@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/614756570014953472/
+title: ''
 ---
 
-RT [@_harukimurakami](https://twitter.com/_harukimurakami/): It was an era when one could still find gaps in the system.
+It was an era when one could still find gaps in the system.

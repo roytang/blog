@@ -10,8 +10,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1011757100605759488/
 tags:
 - aeabos
+title: ''
 ---
 
-RT [@greggreiner](https://twitter.com/greggreiner/): Left: Long term investment.
+Left: Long term investment.
+
 Right: Don’t get too attached.
-- [@adactio](https://twitter.com/adactio/) #aeabos https://t.co/DoTatuLCen
+
+- [@adactio](https://twitter.com/adactio/) #aeabos
