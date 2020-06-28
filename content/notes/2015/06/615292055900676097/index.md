@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/615292055900676097/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “One day I will find the right words, and they will be simple.”
+“One day I will find the right words, and they will be simple.”
