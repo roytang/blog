@@ -14,6 +14,8 @@ def create_archives():
         if 'date' in info:
             d = datetime.strptime(info["date"], "%Y-%m-%d")
             year = d.strftime("%Y")
+            if year <= "2000":
+                continue
             target_file = contentdir / "archy" / (year + ".md")
             if not target_file.exists():
                 with target_file.open("w") as f:
