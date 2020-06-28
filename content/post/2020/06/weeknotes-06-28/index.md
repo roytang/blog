@@ -1,6 +1,11 @@
 ---
 date: 2020-06-28
 slug: weeknotes-06-28
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104420711066955531
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1277159822022963200/
 tags:
 - weeknotes
 - current events
