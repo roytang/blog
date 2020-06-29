@@ -1,9 +1,11 @@
 
 {{ $mainPermalink := .RelPermalink }}
+{{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
 {{ $caption := .Title | default .Summary }}
 {{ with .Resources.ByType "image" }}
 {{ range . }}
-{{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink) .RelPermalink }}
+{{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink "postDate" $postDate) .RelPermalink }}
+
 {{ end }}
 {{ end }}
 {{ range .Resources.Match "*.mp4" }}
