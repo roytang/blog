@@ -459,11 +459,11 @@ hr {
 
 div.image-list {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(auto-fill, 33%);
 }
 
 div.image-list figure {
-    margin: 0.5rem;
+    margin: 0.1rem;
 }
 
 div.image-list a {
@@ -721,14 +721,6 @@ a.tag, a.album {
         grid-template-columns: 1fr;
     }
 }
-
-@media (min-width: 450px) {
-    div.image-list {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, 33%);
-    }
-}
-
 
 header h1, header p {
     padding: 0;
