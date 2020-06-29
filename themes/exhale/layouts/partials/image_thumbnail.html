@@ -13,7 +13,13 @@
       <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" />
     </figure>
 </a>
-<a href="#_" class="lightbox" id="{{ .context.RelPermalink | md5 }}-lightbox">
-  <img src="{{ .context.RelPermalink | safeURL }}" />
-</a>
+<div  class="lightbox" id="{{ .context.RelPermalink | md5 }}-lightbox">
+  <a href="#_">
+    <img src="{{ .context.RelPermalink | safeURL }}" />
+  </a>
+  <div class="lightbox_overlay">
+    <p>{{ $figcaption }}</p>
+    <time class="dt-published" datetime="{{ .postDate }}">{{ .postDate }}</time><a href="{{ .mainPermalink }}">View post</a><a href="#_">Close</a>
+  </div>
+</div>
 
