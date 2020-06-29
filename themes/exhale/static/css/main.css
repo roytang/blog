@@ -470,6 +470,9 @@ div.image-list a {
 
 div.image-list img {
     box-shadow: 1px 1px 0 0 var(--second-color);    
+}
+
+div.image-list img.tn {
     width: 100%;
 }
 

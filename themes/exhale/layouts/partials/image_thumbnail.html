@@ -10,7 +10,7 @@
 
 <a href="#{{ .context.RelPermalink | md5 }}-lightbox">
     <figure>
-      <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" />
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" class="tn" />
     </figure>
 </a>
 <div  class="lightbox" id="{{ .context.RelPermalink | md5 }}-lightbox">

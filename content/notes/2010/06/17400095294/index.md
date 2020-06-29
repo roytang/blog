@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/17400095294/
+title: ''
 ---
 
-RT [@rocketkeis](https://twitter.com/rocketkeis/): Imagine if good citizenship snowballs.
+Imagine if good citizenship snowballs.

@@ -1,5 +1,5 @@
 ---
-date: 2018-06-30 10:52:49
+date: 2018-06-30 10:52:49+00:00
 repost_source:
   name: _elvishpresley_
   type: twitter
@@ -10,10 +10,15 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1013012476839903233/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156740307753912
+title: ''
 ---
 
-RT @_ElvishPresley_: me: did u catch the rock vs scissors fight
+me: did u catch the rock vs scissors fight
+
+
 
 friend: no what channel was it on
+
+
 
 me: [turns to camera] paper view

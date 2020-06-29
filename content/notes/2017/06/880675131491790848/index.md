@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/880675131491790848/
+title: ''
 ---
 
-RT [@suekichiii](https://twitter.com/suekichiii/): DJ STRANGE https://t.co/b6UKJH78mp
+DJ STRANGE
