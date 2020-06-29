@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/615445097522589696/
+title: ''
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): I shouldn't let other people's stupid make me stupid. But I'm on vacation, I can be stupid if I want. I'll be unstupid tom…
+I shouldn't let other people's stupid make me stupid. But I'm on vacation, I can be stupid if I want. I'll be unstupid tomorrow.

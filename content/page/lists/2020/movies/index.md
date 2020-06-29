@@ -63,5 +63,7 @@ Ratings scale:
 | 35 | The Siege | 1998 | May 05 | Caught this on Cinemax when I went down for lunch. Much too idealistic in hindsight, given what happened in New York 3 years after this film released. | 3 |
 | 36 | Kong: Skull Island | 2017 | May 07 | Exciting popcorn movie. | 4 |
 | 37 | Ang Huling El Bimbo: The Musical | 2019 | May 08 | Ok, so this one isn't really a movie. The appeal for me is mostly the music and the nostalgia. The plot was serviceable, though some may find it problematic. | 4 |
-| 38 | Justice League Dark: Apokolips War | 2020 | May 15 | This was great, and appropriatly dark. Good send-off for the DCAMU. | 5 |
-| 39 | Zombieland Double Tap | 2019 | May 27 | A fun romp, but pretty much more of the same. | 4 |
+| 38 | Justice League Dark: Apokolips War | 2020 | May 15 | This was great, and appropriatly dark. Good send-off for the DCAMU. | 4 |
+| 39 | Zombieland Double Tap | 2019 | May 27 | A fun romp, but pretty much more of the same. | 3 |
+| 40 | Sonic the Hedgehog | 2019 | Jun 27 | Fun with Ben Schwartz, but James Marsden's character is kinda dumb. Needs a lot of suspension of disbelief. | 3 |
+| 41 | Mission Impossible Fallout | 2018 | Jun 29 | Good watch, it's MI, you know how it goes. Maybe 40% of it is Tom Cruise running.  | 3 |

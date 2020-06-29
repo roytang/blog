@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/746473598987046912/
+title: ''
 ---
 
-RT [@BlackMajiik](https://twitter.com/BlackMajiik/): Omg!!
-I've been cursing wrong my entire life!!! 📝 https://t.co/v9FWcOaGhz
+Omg!!
+
+I've been cursing wrong my entire life!!! 📝

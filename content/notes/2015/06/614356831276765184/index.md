@@ -11,6 +11,7 @@ syndicated:
 tags:
 - reddit
 - flipboard
+title: ''
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): Paul Rudd's son sums up everyones feelings on Ant-Man [r/funny] https://imgur.com/vdMREjs #reddit #flipboard
+Paul Rudd's son sums up everyones feelings on Ant-Man [r/funny] http://imgur.com/vdMREjs #reddit #flipboard

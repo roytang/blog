@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/747249486724882432/
+title: ''
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): just because other people are assholes doesnt mean you have to be an asshole too
+just because other people are assholes doesnt mean you have to be an asshole too
