@@ -66,3 +66,4 @@ Ratings scale:
 | 38 | Justice League Dark: Apokolips War | 2020 | May 15 | This was great, and appropriatly dark. Good send-off for the DCAMU. | 4 |
 | 39 | Zombieland Double Tap | 2019 | May 27 | A fun romp, but pretty much more of the same. | 3 |
 | 40 | Sonic the Hedgehog | 2019 | Jun 27 | Fun with Ben Schwartz, but James Marsden's character is kinda dumb. Needs a lot of suspension of disbelief. | 3 |
+| 41 | Mission Impossible Fallout | 2018 | Jun 29 | Good watch, it's MI, you know how it goes. Maybe 40% of it is Tom Cruise running.  | 3 |
