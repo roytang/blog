@@ -6,8 +6,8 @@
     --second-container-color: #454f53;
     --background-color: #242930;
     --text-color: white;
-    --main-font: "Segoe UI", "San Francisco", "Roboto", Helvetica, Arial, sans-serif;
-    --title-font: "Segoe UI", "San Francisco", "Roboto", Helvetica, Arial, sans-serif;
+    --main-font: Monaco, "Segoe UI", "San Francisco", "Roboto", Helvetica, Arial, sans-serif;
+    --title-font: Monaco, "Segoe UI", "San Francisco", "Roboto", Helvetica, Arial, sans-serif;
 }
 
 
