@@ -6,8 +6,8 @@
     --second-container-color: #454f53;
     --background-color: #242930;
     --text-color: white;
-    --main-font: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
-    --title-font: Verdana;
+    --main-font: "Segoe UI", "San Francisco", "Roboto", Helvetica, Arial, sans-serif;
+    --title-font: "Segoe UI", "San Francisco", "Roboto", Helvetica, Arial, sans-serif;
 }
 
 
@@ -369,7 +369,6 @@ code {
 
 .post-title h3, .post-title h2 {
     font-family: var(--title-font);
-    text-transform: uppercase;
     padding-top: 0;
     padding-bottom: 0;
     margin-top: 0;
