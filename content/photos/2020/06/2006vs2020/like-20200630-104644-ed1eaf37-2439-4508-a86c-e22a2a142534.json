@@ -1,0 +1,27 @@
+{
+  "name": "Paul Catiang Is Social Distancing",
+  "text": "[Paul Catiang Is Social Distancing](https://twitter.com/paulcatiang) [liked this](https://twitter.com/roytang/status/1277836735389421568#favorited-by-159004751)",
+  "date": "2020-06-30 10:46:44",
+  "photo": null,
+  "id": "ed1eaf37-2439-4508-a86c-e22a2a142534",
+  "source_obj": {
+    "wm-id": 817875,
+    "wm-received": "2020-06-30T10:46:44Z",
+    "wm-target": "https://roytang.net/2020/06/2006vs2020/",
+    "author": {
+      "type": "card",
+      "name": "Paul Catiang Is Social Distancing",
+      "url": "https://twitter.com/paulcatiang",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c876097fff627e661f3ee923b81a531e49c1fb5665a758809ea2732f9fca06c9.jpg"
+    },
+    "like-of": "https://roytang.net/2020/06/2006vs2020/",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1277836735389421568/159004751",
+    "type": "entry",
+    "published": null,
+    "url": "https://twitter.com/roytang/status/1277836735389421568#favorited-by-159004751",
+    "wm-property": "like-of",
+    "wm-private": false
+  },
+  "url": "https://twitter.com/paulcatiang",
+  "source_url": "https://twitter.com/roytang/status/1277836735389421568#favorited-by-159004751"
+}

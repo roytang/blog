@@ -1,0 +1,31 @@
+{
+  "name": "Paul Catiang Is Social Distancing",
+  "text": "That reminds me: I still haven't bought David's book.\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+  "date": "2020-06-30 10:46:43",
+  "photo": null,
+  "id": "f8171f6b-a7f4-428b-bfe0-33bd7463eb3f",
+  "source_obj": {
+    "wm-received": "2020-06-30T10:46:43Z",
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1277836735389421568/1277845684310306817",
+    "wm-target": "https://roytang.net/2020/06/2006vs2020/",
+    "url": "https://twitter.com/paulcatiang/status/1277845684310306817",
+    "wm-id": 817874,
+    "wm-property": "in-reply-to",
+    "author": {
+      "type": "card",
+      "name": "Paul Catiang Is Social Distancing",
+      "url": "https://twitter.com/paulcatiang",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c876097fff627e661f3ee923b81a531e49c1fb5665a758809ea2732f9fca06c9.jpg"
+    },
+    "type": "entry",
+    "in-reply-to": "https://roytang.net/2020/06/2006vs2020/",
+    "published": "2020-06-30T06:05:27+00:00",
+    "content": {
+      "text": "That reminds me: I still haven't bought David's book.",
+      "html": "That reminds me: I still haven't bought David's book.\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>"
+    },
+    "wm-private": false
+  },
+  "url": "https://twitter.com/paulcatiang",
+  "source_url": "https://twitter.com/paulcatiang/status/1277845684310306817"
+}
