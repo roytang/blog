@@ -28,7 +28,8 @@
 
 body {
     font-family: var(--main-font);
-    font-size: 0.9em;
+    font-size: 1em;
+    line-height: 1.5;
     background-color: var(--background-color);
     color: var(--text-color);
 }
@@ -197,7 +198,7 @@ code {
 /* Post titles */
 article > h2, article > h2 a {
     font-weight: normal;
-    font-size: 24px;
+    font-size: 1.2rem;
     font-family: Calibri, 'Lucida Grande', Helvetica, Arial, sans-serif;
     line-height: 120%;
     /* text-decoration: none; */
