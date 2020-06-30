@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/17803950476/
+title: ''
 ---
 
-RT [@YoungBillyMays](https://twitter.com/YoungBillyMays/): In 'Back to the Future', Doc sets clock in the DeLorean to a day 25 years in the future. Today is that day. (via @Ph ...
+In 'Back to the Future', Doc sets clock in the DeLorean to a day 25 years in the future. Today is that day. (via [@Photocritic](https://twitter.com/Photocritic/))

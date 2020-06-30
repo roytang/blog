@@ -8,10 +8,15 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/882729306643808256/
+title: ''
 ---
 
-RT [@CoralineAda](https://twitter.com/CoralineAda/): I am finally ready tell my story.
+I am finally ready tell my story.
+
+
 
 “Antisocial Coding: My Year at GitHub”
 
-https://where.coraline.codes/blog/my-year-at-github/
+
+
+http://where.coraline.codes/blog/my-year-at-github/

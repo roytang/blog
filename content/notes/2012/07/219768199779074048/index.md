@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/219768199779074048/
+title: ''
 ---
 
-RT [@tomlapille](https://twitter.com/tomlapille/): Are you behaving like a protagonist right now?
+Are you behaving like a protagonist right now?

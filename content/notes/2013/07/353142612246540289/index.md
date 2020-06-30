@@ -8,9 +8,13 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/353142612246540289/
+title: ''
 ---
 
-RT [@5mm4u](https://twitter.com/5mm4u/): マックにて
+マックにて
+
 盛大に吹いたしwww
 
-ベジータ様wwww https://t.co/1oycqTH5
+
+
+ベジータ様wwww

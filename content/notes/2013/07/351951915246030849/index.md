@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/351951915246030849/
+title: ''
 ---
 
-RT [@ja_deh](https://twitter.com/ja_deh/): 4-5 years from now, merong batang papasok sa school na ang pangalan ay Ser Chief. HAHAHA
+4-5 years from now, merong batang papasok sa school na ang pangalan ay Ser Chief. HAHAHA

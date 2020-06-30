@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/352073477345378305/
+title: ''
 ---
 
-RT [@MrAlanCooper](https://twitter.com/MrAlanCooper/): Almost EVERY business deadline is based on some other business deadline that was made up for no practical reason.
+Almost EVERY business deadline is based on some other business deadline that was made up for no practical reason.

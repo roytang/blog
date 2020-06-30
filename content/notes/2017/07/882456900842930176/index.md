@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/882456900842930176/
+title: ''
 ---
 
-RT [@tenderlove](https://twitter.com/tenderlove/): why are people so mean https://www.reddit.com/r/ProgrammerHumor/comments/6l9x91/why_are_people_so_mean/
+why are people so mean https://www.reddit.com/r/ProgrammerHumor/comments/6l9x91/why_are_people_so_mean/

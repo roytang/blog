@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/351947430297747456/
 tags:
 - Snowden
+title: ''
 ---
 
-RT [@ioerror](https://twitter.com/ioerror/): Epic statement by #Snowden released by [@wikileaks](https://twitter.com/wikileaks/) moments ago: https://wikileaks.org/Statement-from-Edward-Snowden-in.html
+Epic statement by #Snowden released by [@wikileaks](https://twitter.com/wikileaks/) moments ago: http://wikileaks.org/Statement-from-Edward-Snowden-in.html

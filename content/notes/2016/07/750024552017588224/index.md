@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/750024552017588224/
 tags:
 - spoilers
+title: ''
 ---
 
-RT [@rands](https://twitter.com/rands/): Interactive Game of Thrones map: https://quartermaester.info/ #spoilers
+Interactive Game of Thrones map: http://quartermaester.info/ #spoilers
