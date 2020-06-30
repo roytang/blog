@@ -2,6 +2,9 @@
 {{ $param2 := (.Get 1) }}
 {{ $filename := printf "%s*.*" ($param2) }}
 {{ $paramCaption := (.Get 2) }}
+
+{{ $postDate := .Page.Date.Format .Site.Data.Formats.datetime }}
+
 {{ range where (where .Site.RegularPages "Section" "photos" ) ".RelPermalink" "==" $path }}
     {{ $mainPermalink := .RelPermalink }}
     {{ if $paramCaption }}
@@ -12,25 +15,57 @@
     {{ $summary := .Scratch.Get "summary" }}
     {{ if $param2 }}
         {{ range .Resources.Match $filename }}
-            <a href="{{ $mainPermalink }}">
+            {{ $scratch := newScratch }}
+            {{ $scratch.Set "thumbnail" (.Resize "300x") }}
+            {{ $thumb := $scratch.Get "thumbnail" }}
+            {{ if not (eq .Title .Name) }}
+              {{ $scratch.Set "figcaption" .Title }}
+            {{ else }}
+              {{ $scratch.Set "figcaption" $summary }}
+            {{ end }}
+            {{ $figcaption := $scratch.Get "figcaption" }}
+            <a href="#{{ .RelPermalink | md5 }}-lightbox">
                 <figure>
-                <img src="{{ .RelPermalink }}" alt="{{ $summary }}" title="{{ $summary }}" />
-                <figcaption>
-                    {{ if not (eq .Name .Title) }}{{ .Title }}{{ else }}{{ $summary }}{{ end }}
-                </figcaption>
+                  <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" class="tn" />
+                  <figcaption>{{ $figcaption | markdownify }} (Click to view full-size)</figcaption>
                 </figure>
             </a>
+            <div  class="lightbox" id="{{ .RelPermalink | md5 }}-lightbox">
+              <a href="#_">
+                <img src="{{ .RelPermalink | safeURL }}" />
+              </a>
+              <div class="lightbox_overlay">
+                <p>{{ $figcaption }}</p>
+                <time class="dt-published" datetime="{{ $postDate }}">{{ $postDate }}</time><a href="{{ $mainPermalink }}">View post</a><a href="#_">Close</a>
+              </div>
+            </div>            
         {{ end }}
     {{ else }}
         {{ range .Resources.ByType "image" }}
-            <a href="{{ $mainPermalink }}">
+            {{ $scratch := newScratch }}
+            {{ $scratch.Set "thumbnail" (.Resize "300x") }}
+            {{ $thumb := $scratch.Get "thumbnail" }}
+            {{ if not (eq .Title .Name) }}
+              {{ $scratch.Set "figcaption" .Title }}
+            {{ else }}
+              {{ $scratch.Set "figcaption" $summary }}
+            {{ end }}
+            {{ $figcaption := $scratch.Get "figcaption" }}
+            <a href="#{{ .RelPermalink | md5 }}-lightbox">
                 <figure>
-                <img src="{{ .RelPermalink }}" alt="{{ $summary }}" title="{{ $summary }}" />
-                <figcaption>
-                    {{ if not (eq .Name .Title) }}{{ .Title }}{{ else }}{{ $summary }}{{ end }}
-                </figcaption>
+                  <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" class="tn" />
+                  <figcaption>{{ $figcaption | markdownify }} (Click to view full-size)</figcaption>
                 </figure>
             </a>
+            <div  class="lightbox" id="{{ .RelPermalink | md5 }}-lightbox">
+              <a href="#_">
+                <img src="{{ .RelPermalink | safeURL }}" />
+              </a>
+              <div class="lightbox_overlay">
+                <p>{{ $figcaption }}</p>
+                <time class="dt-published" datetime="{{ $postDate }}">{{ $postDate }}</time><a href="{{ $mainPermalink }}">View post</a><a href="#_">Close</a>
+              </div>
+            </div>            
         {{ end }}
     {{ end }}
 {{ end }}
