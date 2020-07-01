@@ -1,0 +1,27 @@
+{
+  "id": "3fb25bae-50d1-4ac6-9c44-02efdf99d9d3",
+  "source_obj": {
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104436636291409979/10985",
+    "wm-received": "2020-07-01T09:57:34Z",
+    "like-of": "https://roytang.net/2020/07/image-lightboxes-using-html/css/",
+    "author": {
+      "url": "https://trunk.mad-scientist.club/@algernon",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0d27d64105115134b9c704a75dbe179d3663c42f9af94da203df9f3c91cdc4f3.jpg",
+      "name": "Gergely Nagy \ud83d\udc01",
+      "type": "card"
+    },
+    "wm-property": "like-of",
+    "published": null,
+    "wm-private": false,
+    "type": "entry",
+    "url": "https://mastodon.technology/@roytang/104436636291409979#favorited-by-10985",
+    "wm-id": 818907,
+    "wm-target": "https://roytang.net/2020/07/image-lightboxes-using-html/css/"
+  },
+  "source_url": "https://mastodon.technology/@roytang/104436636291409979#favorited-by-10985",
+  "date": "2020-07-01 09:57:34",
+  "text": "[Gergely Nagy \ud83d\udc01](https://trunk.mad-scientist.club/@algernon) [liked this](https://mastodon.technology/@roytang/104436636291409979#favorited-by-10985)",
+  "url": "https://trunk.mad-scientist.club/@algernon",
+  "photo": null,
+  "name": "Gergely Nagy \ud83d\udc01"
+}

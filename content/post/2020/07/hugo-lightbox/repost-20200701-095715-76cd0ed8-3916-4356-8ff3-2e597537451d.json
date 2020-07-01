@@ -1,0 +1,27 @@
+{
+  "id": "76cd0ed8-3916-4356-8ff3-2e597537451d",
+  "source_obj": {
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/104436636291409979/61005",
+    "wm-received": "2020-07-01T09:57:15Z",
+    "author": {
+      "url": "https://mastodon.social/@ryandaniels",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/090e03d7f42a0606dccca1b2b214e06e56fef3770aa6fcb01c935f1bb1d495e8.png",
+      "name": "Ryan Daniels \ud83d\udc27",
+      "type": "card"
+    },
+    "wm-property": "repost-of",
+    "published": null,
+    "wm-private": false,
+    "type": "entry",
+    "url": "https://mastodon.technology/@roytang/104436636291409979#reblogged-by-61005",
+    "wm-id": 818905,
+    "repost-of": "https://roytang.net/2020/07/image-lightboxes-using-html/css/",
+    "wm-target": "https://roytang.net/2020/07/image-lightboxes-using-html/css/"
+  },
+  "source_url": "https://mastodon.technology/@roytang/104436636291409979#reblogged-by-61005",
+  "date": "2020-07-01 09:57:15",
+  "text": "[Ryan Daniels \ud83d\udc27](https://mastodon.social/@ryandaniels) [shared this](https://mastodon.technology/@roytang/104436636291409979#reblogged-by-61005)",
+  "url": "https://mastodon.social/@ryandaniels",
+  "photo": null,
+  "name": "Ryan Daniels \ud83d\udc27"
+}
