@@ -1,0 +1,27 @@
+{
+  "photo": null,
+  "date": "2020-07-01 10:16:35",
+  "name": "wschenk@floss.social",
+  "source_url": "https://mastodon.technology/@roytang/104436636291409979#reblogged-by-225644",
+  "id": "5941114f-8196-478d-92a0-060062af0567",
+  "text": "[wschenk@floss.social](https://floss.social/@wschenk) [shared this](https://mastodon.technology/@roytang/104436636291409979#reblogged-by-225644)",
+  "url": "https://floss.social/@wschenk",
+  "source_obj": {
+    "wm-received": "2020-07-01T10:16:35Z",
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/104436636291409979/225644",
+    "published": null,
+    "wm-id": 818931,
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/mastodon.technology/a971b399b2b2c66daa292ea79888a77f2f15a8d33c7f9cf611428be3f8283405.png",
+      "url": "https://floss.social/@wschenk",
+      "name": "wschenk@floss.social"
+    },
+    "wm-private": false,
+    "url": "https://mastodon.technology/@roytang/104436636291409979#reblogged-by-225644",
+    "wm-target": "https://roytang.net/2020/07/image-lightboxes-using-html/css/",
+    "repost-of": "https://roytang.net/2020/07/image-lightboxes-using-html/css/",
+    "wm-property": "repost-of"
+  }
+}
