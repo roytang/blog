@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/751561823288078336/
 tags:
 - Dallas
+title: ''
 ---
 
-RT [@EchoSierrah](https://twitter.com/EchoSierrah/): After #Dallas https://t.co/UPSut8Sb2s
+After #Dallas

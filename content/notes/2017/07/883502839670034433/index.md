@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/883502839670034433/
+title: ''
 ---
 
-RT [@RonJeffries](https://twitter.com/RonJeffries/): I do not understand the notion of “appropriate” attire.
+I do not understand the notion of “appropriate” attire.

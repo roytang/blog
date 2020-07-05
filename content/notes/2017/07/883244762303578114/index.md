@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/883244762303578114/
+title: ''
 ---
 
-RT [@edsMNL](https://twitter.com/edsMNL/): BREAKING: Konoha leader condemns desecration of "hokage."
+BREAKING: Konoha leader condemns desecration of "hokage."

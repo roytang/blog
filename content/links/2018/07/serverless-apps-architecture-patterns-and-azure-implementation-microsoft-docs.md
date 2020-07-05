@@ -10,4 +10,7 @@ slug: serverless-apps-architecture-patterns-and-azure-implementation-microsoft-d
 source: pocket
 title: 'Serverless apps: Architecture, patterns, and Azure implementation | Microsoft
   Docs'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1014930446440943616/
 ---

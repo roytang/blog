@@ -5,6 +5,8 @@ source: youtube
 syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=Vf1JUqYd0ZA
+- type: twitter
+  url: https://twitter.com/roytang/statuses/750982429855199232/
 tags:
 - PS4share
 - PlayStation 4

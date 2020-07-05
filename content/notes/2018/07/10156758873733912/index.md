@@ -9,4 +9,4 @@ tags:
 - oustduterte
 ---
 
-Retweeted Jam Pinpin (@jamcaholic):  So may nationwide martial law na pala di kami na-inform pero ang sigurado ay kahit sino pwedeng maging biktima. #EndTyranny #OustDuterte https://t.co/dk2WaYxbIu
+Retweeted Jam Pinpin ([@jamcaholic](https://twitter.com/jamcaholic)):  So may nationwide martial law na pala di kami na-inform pero ang sigurado ay kahit sino pwedeng maging biktima. #EndTyranny #OustDuterte
