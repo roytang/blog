@@ -1,5 +1,5 @@
 ---
-date: 2018-07-10 09:20:40
+date: 2018-07-10 09:20:40+00:00
 repost_source:
   name: ASmallFiction
   type: twitter
@@ -10,10 +10,19 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1016613162357960705/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156763326853912
+title: ''
 ---
 
-RT [@ASmallFiction](https://twitter.com/ASmallFiction/): "Describe destination," the time machine said.
+"Describe destination," the time machine said.
+
+
 
 "Take me to a time when I can make a difference," she said.
 
-A brief hum…
+
+
+A brief hum.
+
+
+
+"You are here."

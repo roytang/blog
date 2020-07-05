@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/751427612904288256/
+title: ''
 ---
 
-RT [@Swiss_James](https://twitter.com/Swiss_James/): Pub quizzes in the year 2025. 
+Pub quizzes in the year 2025. 
+
 Quizzer: "In what year did.."
+
 Quizzee: "2016. It's always 2016."

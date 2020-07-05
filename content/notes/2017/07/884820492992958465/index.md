@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/884820492992958465/
+title: ''
 ---
 
-RT [@JeffGrubb](https://twitter.com/JeffGrubb/): I just worry that people are forgetting what Prime day is really about and who died to make it possible. https://t.co/Lp4upO…
+I just worry that people are forgetting what Prime day is really about and who died to make it possible.

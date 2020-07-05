@@ -8,14 +8,23 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/884581573969854464/
+title: ''
 ---
 
-RT [@Naminamidala](https://twitter.com/Naminamidala/): It's palindrome week: 
+It's palindrome week: 
+
 7/10/17
+
 7/11/17
+
 7/12/17
+
 7/13/17
+
 7/14/17
+
 7/15/17
+
 7/16/17
+
 7/17/17 https://twitter.com/radandbougle/status/884298650645614592

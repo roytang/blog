@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/752461232892850178/
+title: ''
 ---
 
-RT [@e1n](https://twitter.com/e1n/): This is the America I want to live in https://t.co/P28MBw0ho4
+This is the America I want to live in

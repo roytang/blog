@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/752421570325327873/
+title: ''
 ---
 
-RT [@LaTtEX](https://twitter.com/LaTtEX/): Murder rates are soaring, and Pinoys applaud it as a "reduction in crime".
+Murder rates are soaring, and Pinoys applaud it as a "reduction in crime".
+
+
 
 Mga buang.
