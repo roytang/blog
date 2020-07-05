@@ -18,6 +18,7 @@ My stuff:
 
 - [This week's pandemic notes](/2020/06/covid19-07-05/).
 - A fair bit of consulting work for this coming week, might be busy.
+- I have already [deactivated Facebook](/2020/06/quitting-facebook/). If I would be honest, I still find myself sometimes instinctively thinking about checking the Facebook feed. Hopefully, it's an instinct that gets weaned away with time.
 - Gaming:
   - I am like 90% through the FF7R hard mode run, but I'm currently stuck at a certain point trying to beat the so-called "hardest fight in the game". Hopefully I can finish it this week.
   - Divinity OS2 inched along slightly as well
