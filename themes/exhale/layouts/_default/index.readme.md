@@ -1,4 +1,5 @@
 {{ .Site.Params.brand }} :: {{ .Site.Params.topline }}
+
 ![]({{ .Site.Params.featuredImage}})
 
 Visit the site: ![{{.Site.BaseURL}}](.Permalink)
