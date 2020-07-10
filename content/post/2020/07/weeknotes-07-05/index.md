@@ -1,6 +1,11 @@
 ---
 date: 2020-07-05
 slug: weeknotes-07-05
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104459206887568319
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1279623553055223813/
 tags:
 - weeknotes
 - current events
