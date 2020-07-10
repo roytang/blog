@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1020297486513070082/
+title: ''
 ---
 
-RT [@vgcerf](https://twitter.com/vgcerf/): Simple flowchart: https://t.co/Q2NCyOLBTH
+Simple flowchart:

@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/755685721915043840/
 ---
 
-Whenever someone suggest using fear to impose order, I can't help but think of Grand Moff Tarkin https://t.co/fmX2WiA0JT
+Whenever someone suggest using fear to impose order, I can't help but think of Grand Moff Tarkin

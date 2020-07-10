@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/885769848805916674/
+title: ''
 ---
 
-RT [@inthefade](https://twitter.com/inthefade/): i have never identified more with a comic https://t.co/tO5RNm95lf
+i have never identified more with a comic

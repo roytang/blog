@@ -10,4 +10,7 @@ slug: the-death-of-truth-how-we-gave-up-on-facts-and-ended-up-with-trump-books-t
 source: pocket
 title: 'The death of truth: how we gave up on facts and ended up with Trump | Books
   | The Guardian'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1018119535650574336/
 ---

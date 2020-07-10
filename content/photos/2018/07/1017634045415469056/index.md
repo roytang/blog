@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1017634045415469056/
+title: ''
 ---
 
-This paydro thing is waaaaay easier than hq https://t.co/T6PmyxfsAi
+This paydro thing is waaaaay easier than hq

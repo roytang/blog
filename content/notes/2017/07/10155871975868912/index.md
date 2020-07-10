@@ -7,4 +7,13 @@ syndicated:
 tags: []
 ---
 
-Survey: Who do you think dies first: 1. Sam Tarly 2. Missandei 3. Brienne of Tarth 4. Davos Seaworth 5. Euron Greyjoy 6. Podrick Payne 7. Lyanna Mormont 8. Juan Ponce Enrile
+Survey: Who do you think dies first: 
+
+1. Sam Tarly 
+2. Missandei 
+3. Brienne of Tarth 
+4. Davos Seaworth 
+5. Euron Greyjoy 
+6. Podrick Payne 
+7. Lyanna Mormont 
+8. Juan Ponce Enrile

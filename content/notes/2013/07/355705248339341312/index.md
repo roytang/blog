@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@Woerlan](https://twitter.com/Woerlan/) I got it 35% off with coupons via GMG
-[@Woerlan](https://twitter.com/Woerlan/) that was preorder. i didnt think it would go more than 20-25% off during the steam sale
+
+[@Woerlan](https://twitter.com/Woerlan/) that was preorder. i didnt think it would go more than 20-25% off during the steam sale
