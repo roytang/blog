@@ -35,10 +35,13 @@ canonifyURLs = true
   [outputFormats.mdlist]
     baseName = "list"
     mediaType = "text/markdown"    
+  [outputFormats.readme]
+    baseName = "README"
+    mediaType = "text/markdown"    
 
 [outputs]
   page = ["HTML"]
-  home = ["HTML", "RSS", "jsonfeed", "hfeed"]
+  home = ["HTML", "RSS", "jsonfeed", "hfeed", "readme"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS", "mdlist"]
 
