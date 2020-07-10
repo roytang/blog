@@ -1,7 +1,7 @@
 {{ .Site.Params.brand }} :: {{ .Site.Params.topline }}
 ![]({{ .Site.Params.featuredImage}})
 
-Visit the site: ![.Permalink]
+Visit the site: ![{{.Site.BaseURL}}](.Permalink)
 
 Latest blog posts:
 {{ $pages := first 5 (where site.RegularPages "Type" "post") }}    
