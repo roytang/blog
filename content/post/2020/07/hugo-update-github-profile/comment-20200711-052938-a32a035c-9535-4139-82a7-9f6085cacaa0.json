@@ -1,0 +1,27 @@
+{
+  "id": "a32a035c-9535-4139-82a7-9f6085cacaa0",
+  "photo": null,
+  "date": "2020-07-11 05:29:38",
+  "name": "",
+  "text": "[http://affiliatemarketingnews.xyz/2020/07/11/using-hugo-to-automatically-update-your-github-profile-%c2%b7-roy-tang/](http://affiliatemarketingnews.xyz/2020/07/11/using-hugo-to-automatically-update-your-github-profile-%c2%b7-roy-tang/) mentioned [https://roytang.net/2020/07/hugo-update-github-profile/](https://roytang.net/2020/07/hugo-update-github-profile/)",
+  "source_url": "http://affiliatemarketingnews.xyz/2020/07/11/using-hugo-to-automatically-update-your-github-profile-%c2%b7-roy-tang/",
+  "url": "",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "photo": "",
+      "type": "card",
+      "url": "",
+      "name": ""
+    },
+    "mention-of": "https://roytang.net/2020/07/hugo-update-github-profile/",
+    "url": "http://affiliatemarketingnews.xyz/2020/07/11/using-hugo-to-automatically-update-your-github-profile-%c2%b7-roy-tang/",
+    "published": null,
+    "wm-target": "https://roytang.net/2020/07/hugo-update-github-profile/",
+    "wm-private": false,
+    "wm-property": "mention-of",
+    "wm-id": 823079,
+    "wm-source": "http://affiliatemarketingnews.xyz/2020/07/11/using-hugo-to-automatically-update-your-github-profile-%c2%b7-roy-tang/",
+    "wm-received": "2020-07-11T05:29:38Z"
+  }
+}
