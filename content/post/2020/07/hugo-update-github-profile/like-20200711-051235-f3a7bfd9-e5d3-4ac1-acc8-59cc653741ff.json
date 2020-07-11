@@ -1,0 +1,27 @@
+{
+  "id": "f3a7bfd9-e5d3-4ac1-acc8-59cc653741ff",
+  "name": "forest \ud83c\udf42\ud83c\udf32",
+  "url": "https://cybre.space/@lwr82",
+  "source_obj": {
+    "url": "https://mastodon.technology/@roytang/104493495346334703#favorited-by-251774",
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104493495346334703/251774",
+    "wm-property": "like-of",
+    "author": {
+      "name": "forest \ud83c\udf42\ud83c\udf32",
+      "url": "https://cybre.space/@lwr82",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3dffa1046ec430717055a2453f61aa7eb7dd5f852c77f52e076c46fb6be4813a.png"
+    },
+    "wm-id": 823073,
+    "wm-received": "2020-07-11T05:12:35Z",
+    "wm-target": "https://roytang.net/2020/07/hugo-update-github-profile/",
+    "type": "entry",
+    "like-of": "https://roytang.net/2020/07/hugo-update-github-profile/",
+    "wm-private": false
+  },
+  "source_url": "https://mastodon.technology/@roytang/104493495346334703#favorited-by-251774",
+  "text": "[forest \ud83c\udf42\ud83c\udf32](https://cybre.space/@lwr82) [liked this](https://mastodon.technology/@roytang/104493495346334703#favorited-by-251774)",
+  "photo": null,
+  "date": "2020-07-11 05:12:35"
+}
