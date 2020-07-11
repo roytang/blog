@@ -1,12 +1,17 @@
 ---
-title: "Using Hugo to Automatically Update Your Github Profile"
-slug: hugo-update-github-profile
 date: 2020-07-11
+slug: hugo-update-github-profile
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104493495346334703
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1281818014724186113/
 tags:
 - tech life
 - software development
 - meta
 - hugo
+title: Using Hugo to Automatically Update Your Github Profile
 ---
 
 So recently Github secretly rolled out a new feature where you can create a file named `README.md` in a repo named `github.com/<your github username>/<your github username>`, and that markdown file would be rendered on your Github profile page. It means, you can now put basically anything you want on your Github profile!
