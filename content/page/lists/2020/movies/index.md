@@ -67,3 +67,4 @@ Ratings scale:
 | 39 | Zombieland Double Tap | 2019 | May 27 | A fun romp, but pretty much more of the same. | 3 |
 | 40 | Sonic the Hedgehog | 2019 | Jun 27 | Fun with Ben Schwartz, but James Marsden's character is kinda dumb. Needs a lot of suspension of disbelief. | 3 |
 | 41 | Mission Impossible Fallout | 2018 | Jun 29 | Good watch, it's MI, you know how it goes. Maybe 40% of it is Tom Cruise running.  | 3 |
+| 42 | Atomic Blonde | 2017 | Jul 12 | I came in thinking it was a John Wick style action movie. True, but it's also a Cold War spy thriller. Nice twists, but might be a bit hard to follow near the end. | 3 |
