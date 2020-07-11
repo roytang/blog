@@ -20,24 +20,23 @@ script:
 - mkdir roytang
 - cp public/readme.md roytang/README.md
 deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: "$GITHUB_TOKEN"
-  keep-history: true
-  local-dir: public
-  repo: roytang/blog-published
-  target-branch: master
-  verbose: true
-  on: 
-  branch: master
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: "$GITHUB_TOKEN"
-  keep-history: true
-  local-dir: roytang
-  repo: roytang/roytang
-  target-branch: master
-  verbose: true
-  on: 
-  branch: master
+  - provider: pages
+    skip-cleanup: true
+    github-token: "$GITHUB_TOKEN"
+    keep-history: true
+    local-dir: public
+    repo: roytang/blog-published
+    target-branch: master
+    verbose: true
+    on: 
+    branch: master
+  - provider: pages
+    skip-cleanup: true
+    github-token: "$GITHUB_TOKEN"
+    keep-history: true
+    local-dir: roytang
+    repo: roytang/roytang
+    target-branch: master
+    verbose: true
+    on: 
+    branch: master
