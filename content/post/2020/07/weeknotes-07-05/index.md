@@ -21,7 +21,7 @@ My country:
 
 My stuff:
 
-- [This week's pandemic notes](/2020/06/covid19-07-05/).
+- [This week's pandemic notes](/2020/07/covid19-07-05/).
 - A fair bit of consulting work for this coming week, might be busy.
 - I have already [deactivated Facebook](/2020/06/quitting-facebook/). If I would be honest, I still find myself sometimes instinctively thinking about checking the Facebook feed. Hopefully, it's an instinct that gets weaned away with time.
 - Gaming:
