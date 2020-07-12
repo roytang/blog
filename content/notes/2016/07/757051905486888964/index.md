@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/757051905486888964/
+title: ''
 ---
 
-RT [@brielarson](https://twitter.com/brielarson/): Call me Captain Marvel. https://t.co/IgqRIb9ijM
+Call me Captain Marvel.

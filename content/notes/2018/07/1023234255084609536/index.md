@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1023234255084609536/
+title: ''
 ---
 
-RT [@rhymewithrachel](https://twitter.com/rhymewithrachel/): hmm https://t.co/rk3rXSKaxd
+hmm

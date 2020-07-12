@@ -7,6 +7,7 @@ syndicated:
 tags:
 - TIL
 - fb
+title: ''
 ---
 
-That's amazing! #TIL. Literally just pasted it into the post window. Now I *really* don't need Paint. #fb https://t.co/nHLYegMVdN
+That's amazing! #TIL. Literally just pasted it into the post window. Now I *really* don't need Paint. #fb

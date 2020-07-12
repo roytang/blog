@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/626042108206522368/
+title: ''
 ---
 
-RT [@MarcosBL](https://twitter.com/MarcosBL/): Senior devs working together https://t.co/gdBtQeBEjY
+Senior devs working together 
+
+{{< video width="320" height="180" src="https://video.twimg.com/tweet_video/CKKiqvPXAAAaE5A.mp4" >}}

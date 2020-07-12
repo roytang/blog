@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/491965542618505216/
+title: ''
 ---
 
-RT [@liz_buckley](https://twitter.com/liz_buckley/): Oooh! I'd like amusement, mistrust and devastation with my breakfast please. https://t.co/Hlyvjhkad3
+Oooh! I'd like amusement, mistrust and devastation with my breakfast please.

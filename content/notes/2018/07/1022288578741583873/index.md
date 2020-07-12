@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1022288578741583873/
+title: ''
 ---
-
-RT [@DrunkBinary](https://twitter.com/DrunkBinary/): https://t.co/GzWdzJCZ6N

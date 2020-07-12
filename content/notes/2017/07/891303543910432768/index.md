@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/891303543910432768/
+title: ''
 ---
 
-RT [@AMagicWriter](https://twitter.com/AMagicWriter/): RT if you find Batman https://t.co/BvqNoYmp5G
+RT if you find Batman

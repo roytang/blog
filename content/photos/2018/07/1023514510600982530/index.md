@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1023514510600982530/
 ---
 
-It’s beautiful. Yet I must destroy it. [@WordsWFriends](https://twitter.com/WordsWFriends/) https://t.co/CDTWtU1vF5
+It’s beautiful. Yet I must destroy it. [@WordsWFriends](https://twitter.com/WordsWFriends/)

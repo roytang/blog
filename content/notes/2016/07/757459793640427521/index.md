@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/757459793640427521/
 ---
 
-RT [@scottmccloud](https://twitter.com/scottmccloud/): Sometimes it's good to just SEE it, instead of arguing about it: https://t.co/bZgedCsfiG
+Sometimes it's good to just SEE it, instead of arguing about it:

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/491613212811358209/
+title: ''
 ---
 
-RT [@ConfusedCap](https://twitter.com/ConfusedCap/): You know who's really going to be shocked that Marvel is turning Thor into a woman? https://t.co/Zly4ctbfYs
+You know who's really going to be shocked that Marvel is turning Thor into a woman?

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/758665922001276928/
+title: ''
 ---
 
-RT [@amyhoy](https://twitter.com/amyhoy/): perhaps one of the best internet comments i've ever read, anywhere https://t.co/0LDyyBYTDU
+perhaps one of the best internet comments i've ever read, anywhere
