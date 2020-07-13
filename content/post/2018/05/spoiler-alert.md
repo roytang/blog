@@ -9,7 +9,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/991131867796660225/
 tags:
 - Movies
-- TV Series
+- tv
 - Pop Culture
 - Tech Life
 title: Spoiler Alert!

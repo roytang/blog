@@ -3,7 +3,7 @@ author: Roy
 categories: []
 date: 2006-10-03 06:39:51
 tags:
-- TV Series
+- tv
 - Pop Culture
 title: Smallville, Season Six
 type: post

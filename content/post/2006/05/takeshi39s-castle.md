@@ -3,7 +3,7 @@ author: Roy
 categories: []
 date: 2006-05-04 07:13:29
 tags:
-- TV Series
+- tv
 - Pop Culture
 title: Takeshi's Castle
 type: post

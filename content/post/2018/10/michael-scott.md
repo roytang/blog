@@ -8,7 +8,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1055656070113386497/
 tags:
-- TV Series
+- tv
 - Pop Culture
 title: Michael Scott
 type: post

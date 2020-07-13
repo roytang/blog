@@ -10,7 +10,7 @@ syndicated:
 tags:
 - Comics
 - Politics
-- TV Series
+- tv
 - Pop Culture
 - Opinions
 title: Superhero shows being political

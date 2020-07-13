@@ -10,7 +10,7 @@ syndicated:
 tags:
 - Movies
 - Review
-- TV Series
+- tv
 - watching lately
 - Pop Culture
 title: 'Watching Lately: October 2018'

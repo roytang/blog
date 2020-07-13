@@ -7,7 +7,7 @@ syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2005/10/sunday-work-and-naruto-fillers.html
 tags:
-- TV Series
+- tv
 - Pop Culture
 title: Sunday Work and Naruto Fillers
 type: post

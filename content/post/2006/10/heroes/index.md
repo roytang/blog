@@ -3,7 +3,7 @@ author: Roy
 categories: []
 date: 2006-10-05 07:38:10
 tags:
-- TV Series
+- tv
 - Pop Culture
 title: Heroes
 type: post
