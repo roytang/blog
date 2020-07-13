@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1024961396608397313/
+title: ''
 ---
 
-RT [@mashable](https://twitter.com/mashable/): Drop these paper puppets and watch them come to life https://t.co/1Sduhsugnq
+Drop these paper puppets and watch them come to life 
+
+{{< video width="320" height="320" src="https://video.twimg.com/amplify_video/919942072789958658/vid/720x720/Z8r6HSSpOZJzRmLN.mp4" >}}

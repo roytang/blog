@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/760330304875737093/
+title: ''
 ---
 
-RT [@PaperWash](https://twitter.com/PaperWash/): OMG PLEASE RETWEET I NEED THIS https://t.co/MpohvpGAhC
+OMG PLEASE RETWEET I NEED THIS

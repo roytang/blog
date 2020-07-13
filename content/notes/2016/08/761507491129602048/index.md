@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/761507491129602048/
+title: ''
 ---
 
-RT [@_MaAkuMa_](https://twitter.com/_MaAkuMa_/): Shade game is strong https://t.co/VIXM3n2YMj
+Shade game is strong

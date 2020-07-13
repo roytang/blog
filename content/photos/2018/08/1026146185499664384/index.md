@@ -8,5 +8,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1026150413857255425/
 ---
 
-I think I made the most of the BBTag free weekend lol. Fun game, a lot easier to get into than the other BBs, though I'm still pretty bad at it. https://t.co/QriFbc2m1K
-Also despite the #bbtag free weekend, I couldnt find a ranked match (ended up playing in casual lobbies instead). Is no one playing this on steam?
+I think I made the most of the BBTag free weekend lol. Fun game, a lot easier to get into than the other BBs, though I'm still pretty bad at it.
+
+Also despite the #bbtag free weekend, I couldnt find a ranked match (ended up playing in casual lobbies instead). Is no one playing this on steam?

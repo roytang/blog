@@ -10,8 +10,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/761953467510337536/
 tags:
 - Rio2016
+title: ''
 ---
 
-RT [@KeithOlbermann](https://twitter.com/KeithOlbermann/): Another reason to hate the Olympics
+Another reason to hate the Olympics
 
-RT [@andrewteman](https://twitter.com/andrewteman/) This is tremendous. #Rio2016 https://t.co/thRCLxhnKc
+
+
+RT [@andrewteman](https://twitter.com/andrewteman/) This is tremendous. #Rio2016 https://twitter.com/andrewteman/status/761908909300969472/photo/1

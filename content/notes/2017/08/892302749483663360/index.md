@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/892302749483663360/
+title: ''
 ---
 
-RT [@sama](https://twitter.com/sama/): Love these charts: https://t.co/nMNvGTfuPE
+Love these charts:
