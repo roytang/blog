@@ -10,5 +10,6 @@ tags:
 - MyTwitterAnniversary
 ---
 
-Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/luFLANgybR
-that was disappointing
+Do you remember when you joined Twitter? I do! #MyTwitterAnniversary
+
+that was disappointing

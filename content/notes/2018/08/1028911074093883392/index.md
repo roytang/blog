@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1028911074093883392/
+title: ''
 ---
 
-RT [@TheWookieeRoars](https://twitter.com/TheWookieeRoars/): I hope you’re getting a good laugh out of these. [@mcgregor_ewan](https://twitter.com/mcgregor_ewan/) https://t.co/AErVNoHXXX
+I hope you’re getting a good laugh out of these. [@mcgregor_ewan](https://twitter.com/mcgregor_ewan/)

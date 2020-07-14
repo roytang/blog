@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1030204036845170688/
 tags:
 - MyTwitterAnniversary
+title: ''
 ---
 
-Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/slrdAtVXPq
+Do you remember when you joined Twitter? I do! #MyTwitterAnniversary

@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1029529055538728966/
+title: ''
 ---
-
-RT [@nocontextgensui](https://twitter.com/nocontextgensui/): https://t.co/McyYH2zEyb
