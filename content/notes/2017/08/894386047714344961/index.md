@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/894386047714344961/
+title: ''
 ---
 
-RT [@rawrgyle](https://twitter.com/rawrgyle/): my first in-house storyboards for the Guardians of the Galaxy animated series~ https://t.co/oRgRAdFcmG
+my first in-house storyboards for the Guardians of the Galaxy animated series~ 
+
+{{< video width="320" height="180" src="https://video.twimg.com/ext_tw_video/894236515559030784/pu/vid/320x180/SNFTQhUVAVQa2sft.mp4" >}}

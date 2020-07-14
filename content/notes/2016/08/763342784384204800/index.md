@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/763342784384204800/
+title: ''
 ---
 
-RT [@JimBenton](https://twitter.com/JimBenton/): OMG DAD https://t.co/ie2qLKHVQd
+OMG DAD

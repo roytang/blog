@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/497307619237695488/
+title: ''
 ---
 
-RT [@secretGeek](https://twitter.com/secretGeek/): Idea: A twitter-like app where you write things to post but it doesn't post them because you're drunk. Working title: notep…
+Idea: A twitter-like app where you write things to post but it doesn't post them because you're drunk. Working title: notepad.

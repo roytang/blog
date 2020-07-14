@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/365886061680918528/
+title: ''
 ---
 
-RT [@textfromxcode](https://twitter.com/textfromxcode/): Xcode's error checking is getting a little out of hand.  http://cl.ly/image/1s271t1t0q3r
+Xcode's error checking is getting a little out of hand.  http://cl.ly/image/1s271t1t0q3r

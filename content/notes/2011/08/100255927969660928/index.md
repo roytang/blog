@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/100255927969660928/
+title: ''
 ---
 
-RT [@shanselman](https://twitter.com/shanselman/): RT [@RobAshton](https://twitter.com/RobAshton/): OH: "We didn't have any defects until we got a tester"
+RT [@RobAshton](https://twitter.com/RobAshton/): OH: "We didn't have any defects until we got a tester"

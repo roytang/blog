@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/764129302862450689/
 tags:
 - PokemonGO
+title: ''
 ---
 
-RT [@chaos_ultima](https://twitter.com/chaos_ultima/): Hopefully #PokemonGO doesn't keep trying to fetch data from the server in crowded places like shopping centres. You gotta…
+Hopefully #PokemonGO doesn't keep trying to fetch data from the server in crowded places like shopping centres. You gotta cache a mall.

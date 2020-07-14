@@ -8,8 +8,19 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1028446441457344513/
+title: ''
 ---
 
-RT [@Doc4Dead](https://twitter.com/Doc4Dead/): You want traffic volume reduction?
+You want traffic volume reduction?
+
 •Only registered vehicles, licensed drivers on the road
-•Serious enforcement of traffic ru…
+
+•Serious enforcement of traffic rules
+
+•Clear every sq inch of streets, sidewalks
+
+•Reliable convenient bus/train mass transit
+
+
+
+TAMA NA ANG MEMA. BWISET😡

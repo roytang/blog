@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1027560375158431747/
 ---
 
-RT [@JacobCharnucky](https://twitter.com/JacobCharnucky/): It's been over 25 years but these boys are finally back together :) https://t.co/ScHekP7pRc
+RT [@JacobCharnucky](https://twitter.com/JacobCharnucky/): It's been over 25 years but these boys are finally back together :)

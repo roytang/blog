@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/894595582496391169/
+title: ''
 ---
 
-RT [@Grammarly](https://twitter.com/Grammarly/): Raise your hand if you need a vacation. (via [@theawkwardyeti](https://twitter.com/theawkwardyeti/)) https://t.co/9lV6G49rPq
+Raise your hand if you need a vacation. (via [@theawkwardyeti](https://twitter.com/theawkwardyeti/))

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/896494330591838208/
+title: ''
 ---
 
-RT [@phil_wade](https://twitter.com/phil_wade/): Anyone who ever schedules meetings with developers, please burn this image into your brain, thanks https://t.co/IEoy10cgxW
+Anyone who ever schedules meetings with developers, please burn this image into your brain, thanks

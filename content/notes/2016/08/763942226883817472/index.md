@@ -10,6 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/763942226883817472/
 tags:
 - RogueOne
+title: ''
 ---
 
-RT [@starwars](https://twitter.com/starwars/): This December, hope lies in rebellion. #RogueOne https://t.co/Zj3mc143jm
+This December, hope lies in rebellion. #RogueOne 
+
+{{< video width="320" height="180" src="https://video.twimg.com/amplify_video/763875072201240576/vid/1280x720/k4Z-O3QZ87FLnzs9.mp4" >}}

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/763171115808067584/
+title: ''
 ---
 
-RT [@tha_rami](https://twitter.com/tha_rami/): Probably my favorite conversation on Twitter today, in response to a tweet about the American elections. https://t.co/p94prsV…
+Probably my favorite conversation on Twitter today, in response to a tweet about the American elections.

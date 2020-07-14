@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/499026539199991808/
+title: ''
 ---
 
-RT [@TheAcademy](https://twitter.com/TheAcademy/): Genie, you're free. https://t.co/WjA9QuuldD
+Genie, you're free.

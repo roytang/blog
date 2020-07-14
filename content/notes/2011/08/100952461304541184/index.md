@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/100952461304541184/
+title: ''
 ---
 
-RT [@feliciaday](https://twitter.com/feliciaday/): Shut yourself in your houses for Dec! The Game Releases of November 2011 Make it the Best Gaming Month Ever https://bitly.com/ ...
+Shut yourself in your houses for Dec! The Game Releases of November 2011 Make it the Best Gaming Month Ever http://j.mp/n88gSM

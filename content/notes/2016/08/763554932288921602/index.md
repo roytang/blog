@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/763554932288921602/
+title: ''
 ---
 
-RT [@LaTtEX](https://twitter.com/LaTtEX/): So bakit dapat kami magmove-on from Marcos pero di kayo makapagmove-on from drug lords? :D
+So bakit dapat kami magmove-on from Marcos pero di kayo makapagmove-on from drug lords? :D

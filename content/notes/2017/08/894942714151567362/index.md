@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/894942714151567362/
+title: ''
 ---
 
-RT [@patio11](https://twitter.com/patio11/): Do not be afraid of writing things that everybody knows. Your individual take on it has value, and there are new everybodies a…
+Do not be afraid of writing things that everybody knows. Your individual take on it has value, and there are new everybodies all the time!
