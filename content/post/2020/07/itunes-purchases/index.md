@@ -1,10 +1,13 @@
 ---
-title: "Itunes Purchases"
-date: 2020-07-16
-draft: true
+title: "In Which I Review Everything I Purchased from the iTunes App Store"
+date: 2020-07-15
+slug: itunes-purchases
+tags:
+- gaming
+- tech life
 ---
 
-In which I review every single purchase I've made on the Apple iTunes/App Store/whatever it's called.
+I was going through some old emails and found some receipts of thins I had purchased from the iTunes App Store for my iPad, and I wondered how much have I actually spent on apps/games on the App Store? I went through all the receipts and decided to write mini-reviews for each item as well:
 
 | Purchase Date | Name | Price (USD) | Still Available on App Store? | Notes | 
 |---|---|---|---|---|---|
@@ -49,3 +52,12 @@ In which I review every single purchase I've made on the Apple iTunes/App Store/
 | 2013/01/14 | Ascension: Chronicle of the Godslayer, Storm of Souls expansion | 3.99 | Y | As above |
 | 2013/01/18 | Ascension: Chronicle of the Godslayer, Promo Pack 1 | 0.99 | Y | As above |
 | 2013/05/28 | Rebirth of Fortune 2, v1.02 (9+) | 0.99 | Y | Yet another "hoping I could play RPGs on the go" purchase. Don't remember it at all. |
+
+Some notes:
+
+- I first got an iPad in 2010, and still use one (not the same one) up to this day
+- all prices are in USD because these purchases were made on the US app store; I believe there was yet no PH app store at that time. All checking of whether they are still available however, is done on the PH app store, since that's where my Apple ID is currently linked. So maybe that causes some inaccuracy somewhere.
+- total amount spent over 3 years: $89.59. Which is not too bad, considering that's roughly one and a half brand new PS4 games.
+- 22 out of my 41 purchases are no longer available on the App Store as of today. This is one of the reasons I stopped paying for App Store things altogether: the pace of development for mobile OSes is very quick and backwards compatibility is not a priority, so apps and games can easily be out of date or no longer compatible with newer versions of the OS. For apps/games with low prices/profit margins, it's simply not worth it to keep updating these apps/games every time, so they simply delist them.
+- majority of the purchases (31 out of 41) are games. A lot of these games were "impulse purchases" too, unsurprising since most mobile apps are priced so low. The tradeoff for this low price is the high risk of the games going unmaintained and getting delisted. My roots as a P/console gamer work against me, as I am apparently less inclined to play through RPGs and such on a tablet. These days I really only play free multiplayer games like Words with Friends on the iPad.
+- I don't have any purchases on the Google Play store, mostly because I don't like gaming on the phone
