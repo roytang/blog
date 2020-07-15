@@ -1,10 +1,15 @@
 ---
-title: "In Which I Review Everything I Purchased from the iTunes App Store"
 date: 2020-07-15
 slug: itunes-purchases
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104515790679888167
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1283244915976110081/
 tags:
 - gaming
 - tech life
+title: In Which I Review Everything I Purchased from the iTunes App Store
 ---
 
 I was going through some old emails and found some receipts of thins I had purchased from the iTunes App Store for my iPad, and I wondered how much have I actually spent on apps/games on the App Store? I went through all the receipts and decided to write mini-reviews for each item as well:
