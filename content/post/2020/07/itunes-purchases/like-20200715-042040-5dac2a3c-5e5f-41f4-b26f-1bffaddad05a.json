@@ -1,0 +1,27 @@
+{
+  "id": "5dac2a3c-5e5f-41f4-b26f-1bffaddad05a",
+  "source_obj": {
+    "wm-target": "https://roytang.net/2020/07/itunes-purchases/",
+    "wm-id": 827048,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104515790679888167/249257",
+    "type": "entry",
+    "wm-property": "like-of",
+    "wm-received": "2020-07-15T04:20:40Z",
+    "like-of": "https://roytang.net/2020/07/itunes-purchases/",
+    "wm-private": false,
+    "author": {
+      "name": "jlin@fosstodon.org",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/762ceb57eec6a9479ea1ba193537314ad0fe853325a37fa36b4be3108563fdbb.jpg",
+      "type": "card",
+      "url": "https://fosstodon.org/@jlin"
+    },
+    "url": "https://mastodon.technology/@roytang/104515790679888167#favorited-by-249257",
+    "published": null
+  },
+  "date": "2020-07-15 04:20:40",
+  "name": "jlin@fosstodon.org",
+  "text": "[jlin@fosstodon.org](https://fosstodon.org/@jlin) [liked this](https://mastodon.technology/@roytang/104515790679888167#favorited-by-249257)",
+  "url": "https://fosstodon.org/@jlin",
+  "source_url": "https://mastodon.technology/@roytang/104515790679888167#favorited-by-249257",
+  "photo": null
+}
