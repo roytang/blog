@@ -7,7 +7,7 @@ tags:
 - tech life
 ---
 
-I was going through some old emails and found some receipts of thins I had purchased from the iTunes App Store for my iPad, and I wondered how much have I actually spent on apps/games on the App Store? I went through all the receipts and decided to write mini-reviews for each item as well:
+I was going through some old emails and found some receipts for things I had purchased from the iTunes App Store for my iPad, and I wondered how much have I actually spent on apps/games on the App Store? I went through all the receipts and decided to write mini-reviews for each item as well:
 
 | Purchase Date | Name | Price (USD) | Still Available on App Store? | Notes | 
 |---|---|---|---|---|---|
