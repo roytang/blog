@@ -1,0 +1,27 @@
+{
+  "source_url": "https://mastodon.technology/@roytang/104515790679888167#favorited-by-63024",
+  "url": "https://functional.cafe/@juliobiason",
+  "photo": null,
+  "id": "43a34a93-5aed-4909-8043-033e3282879d",
+  "source_obj": {
+    "url": "https://mastodon.technology/@roytang/104515790679888167#favorited-by-63024",
+    "published": null,
+    "type": "entry",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104515790679888167/63024",
+    "like-of": "https://roytang.net/2020/07/itunes-purchases/",
+    "wm-id": 827360,
+    "wm-private": false,
+    "author": {
+      "url": "https://functional.cafe/@juliobiason",
+      "type": "card",
+      "name": "{ Biason::Julio::new(); }",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0eaa9dbfdc53b0c93f120f506d2139efd414ac53c515a482bdd96c9b91fd5ceb.png"
+    },
+    "wm-received": "2020-07-15T10:48:33Z",
+    "wm-target": "https://roytang.net/2020/07/itunes-purchases/",
+    "wm-property": "like-of"
+  },
+  "text": "[{ Biason::Julio::new(); }](https://functional.cafe/@juliobiason) [liked this](https://mastodon.technology/@roytang/104515790679888167#favorited-by-63024)",
+  "date": "2020-07-15 10:48:33",
+  "name": "{ Biason::Julio::new(); }"
+}
