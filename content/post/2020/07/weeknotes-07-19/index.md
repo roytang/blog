@@ -2,11 +2,15 @@
 date: 2020-07-19
 slug: weeknotes-07-19
 syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104539776889684011
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1284780033475670016/
 tags:
 - weeknotes
 - current events
 - philippines
-title: 'Weeknotes 2020-07-19'
+title: Weeknotes 2020-07-19
 ---
 
 My country:
