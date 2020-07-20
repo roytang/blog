@@ -30,7 +30,7 @@
                   <figcaption>{{ $figcaption | markdownify }} (Click to view full-size)</figcaption>
                 </figure>
             </a>
-            <div  class="lightbox" id="{{ .RelPermalink | md5 }}-lightbox">
+            <div  class="lightbox" id="{{ .RelPermalink | md5 }}-lightbox" style="display: none;">
               <a href="#_">
                 <img src="{{ .RelPermalink | safeURL }}" />
               </a>
@@ -57,7 +57,7 @@
                   <figcaption>{{ $figcaption | markdownify }} (Click to view full-size)</figcaption>
                 </figure>
             </a>
-            <div  class="lightbox" id="{{ .RelPermalink | md5 }}-lightbox">
+            <div  class="lightbox" id="{{ .RelPermalink | md5 }}-lightbox" style="display: none;">
               <a href="#_">
                 <img src="{{ .RelPermalink | safeURL }}" />
               </a>

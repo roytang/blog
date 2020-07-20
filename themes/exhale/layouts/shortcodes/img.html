@@ -17,7 +17,7 @@
       <figcaption>{{ $figcaption | markdownify }} (Click to view full-size)</figcaption>
     </figure>
 </a>
-<div  class="lightbox" id="{{ $src.RelPermalink | md5 }}-lightbox">
+<div class="lightbox" id="{{ $src.RelPermalink | md5 }}-lightbox" style="display: none;">
   <a href="#_">
     <img src="{{ $src.RelPermalink | safeURL }}" />
   </a>
