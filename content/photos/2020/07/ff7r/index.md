@@ -6,6 +6,6 @@ tags:
 - gaming
 albums:
 - gaming
-- final fantasy vii remake
+- ff7r
 ---
 

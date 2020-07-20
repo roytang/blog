@@ -7,6 +7,8 @@ syndicated:
 tags:
 - PS4share
 title: ''
+albums:
+- ff7r
 ---
 
 Finally beat the stupid pullup minigame in FF7R! #PS4share

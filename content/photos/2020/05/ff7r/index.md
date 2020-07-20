@@ -5,6 +5,7 @@ tags:
 - gaming
 albums:
 - pickups
+- ff7r
 syndicated:
 - type: instagram
   url: https://www.instagram.com/p/B_ogVpqBEQ1/
