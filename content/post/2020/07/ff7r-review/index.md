@@ -31,14 +31,16 @@ Normal difficulty is... a bit easy. Most of the mob encounters are "mash attack,
 
 Beating the game also unlocks chapter select, which makes it easier for completionists, since you can just replay specific chapters if you missed something. There are also additional challenges only available in hard mode post-game. I believe this is the first instance of a "mainline" (such as it is) FF game providing post-game content and chapter select.
 
-My completionist run took just under 90hrs, a bit above the median according to [HowLongToBeat.com](https://howlongtobeat.com/game?id=57686).
+I had gotten [the Deluxe Edition](/2020/05/ff7r/), which was only delivered to me by May 1 due to quarantine shenanigans. The steelbook is gorgeous! A worthy addition to my Final Fantasy steelbook collection.
+
+My completionist run took just under 90hrs, a bit above the median according to [HowLongToBeat.com](https://howlongtobeat.com/game?id=57686). I started on Jun 8th, so it's just about a month and a half too. (Average of an hour per day!)
 
 Overall, I enjoyed the game, enough to go for the platinum trophy, despite the annoying minigames. A worthwhile retelling and addition to the FF7 universe.
 (End of spoiler-free section)
 
 ### Image gallery
 
-The game looks great, especially when it shifts to cutscene models. Speaking of which, the cutscene transitions are also great, they're hardly noticeable. And your hard mode run goes much faster since there's an option to skip the cutscenes! As always, I took a lot of screenshots along the way! [Image gallery is here](/2020/07/ff7r/), very spoilery.
+The game looks great, especially when it shifts to cutscene models. Speaking of which, the cutscene transitions are also great, they're hardly noticeable. And your hard mode run goes much faster since there's an option to skip the cutscenes! As always, I took a lot of screenshots along the way! [Image gallery is here](/albums/ff7r/), very spoilery.
 
 ### Expanded plot and content
 
