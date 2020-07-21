@@ -37,6 +37,7 @@ I had gotten [the Deluxe Edition](/2020/05/ff7r/), which was only delivered to m
 My completionist run took just under 90hrs, a bit above the median according to [HowLongToBeat.com](https://howlongtobeat.com/game?id=57686). I started on Jun 8th, so it's just about a month and a half too. (Average of an hour per day!)
 
 Overall, I enjoyed the game, enough to go for the platinum trophy, despite the annoying minigames. A worthwhile retelling and addition to the FF7 universe.
+
 (End of spoiler-free section)
 
 ### Image gallery
@@ -54,6 +55,10 @@ What I remember to be the more confusing and less-explained plot points of the o
 Another thing I disliked is that we didn't get a playable Red XIII. I was wondering how they would handle this since I knew beforehand that he would be available in Midgar. I guess I can understand the decision, pacing-wise it's weird to have a playable character only available in the last 2 chapters of the game. At least they gave us Red as an AI character and someone who can helpfull wallrun to pull levers, so that's something I guess?
 
 I also understand the limited number of summons we get. But we have Shiva and Ifrit but no Ramuh? Instead we get two Chocobos? Shrug.
+
+At least I got to see the only enemy I really wanted to see in the remake: THE HELL HOUSE! (Now promoted to boss fight!)
+
+{{< photo "2020/07/ff7r/" "FINAL FANTASY VII REMAKE_20200615125524_1" "This was seriously one of my favorite random encounters in the OG due to how ridiculous it is." >}}
 
 ### Hard mode
 
