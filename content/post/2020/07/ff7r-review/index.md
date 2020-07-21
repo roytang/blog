@@ -5,6 +5,7 @@ date: 2020-07-22
 tags:
 - gaming
 dontinlinephotos: true
+featuredImage: https://roytang.net/2020/07/ff7r/FINAL%20FANTASY%20VII%20REMAKE_20200608080319_1.jpg
 ---
 
 Just in time for #JRPGJuly, I finally managed to [complete my platinum run for Final Fantasy VII Remake](/2020/07/1285149646650671105/)! Spoiler-free review first, then the rest of the sections are no-holds barred.
