@@ -20,6 +20,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1285909154700255233/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1285915582773125121/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1285937453321216001/
 tags:
 - mtg
 title: ''
@@ -42,3 +44,11 @@ Attempt 7: Vampires Devilish. Quick 2-1. Kinda boring, but eh. Way too many four
 Attempt 8: Liliana Tree Hugging. 3-3. Played a bit extra to complete my quest.
 
 Attempt 9: Milling Wizards. 2-0. My first repeat! As usual, Milling is super strong.
+
+Video of attempts 8 and 9 here: 
+
+{{% quoted url="https://twitter.com/roytang/status/1285937310777790464" label="roytang's tweet" %}}
+
+Played two Jumpstarts! YT: https://www.youtube.com/watch?v=u1KtPh_xoLo
+
+{{% /quoted %}}
