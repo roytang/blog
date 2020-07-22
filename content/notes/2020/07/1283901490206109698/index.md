@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1284088031851409410/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1284988375355678720/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1285895313333485569/
 tags:
 - mtg
 title: ''
@@ -30,3 +32,5 @@ Attempt 4: Plus One Dragons. 2-0. The sad thing about this format is that you te
 Attempt 5: Archeology Under The Sea. Why did I go monocolor again? 2-6. Deck was fun, but way too slow (check out that "curve"). Aaaaand I'm out of gold, so that's enough JumpStart for a while.
 
 Attempt 6: Dinosaurs Reanimated. 2-1. Power level reasonably high, with removal coming mostly from the green side (surprisingly!).
+
+Attempt 7: Vampires Devilish. Quick 2-1. Kinda boring, but eh. Way too many fours.
