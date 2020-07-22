@@ -18,6 +18,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1285895313333485569/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1285909154700255233/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1285915582773125121/
 tags:
 - mtg
 title: ''
@@ -38,3 +40,5 @@ Attempt 6: Dinosaurs Reanimated. 2-1. Power level reasonably high, with removal 
 Attempt 7: Vampires Devilish. Quick 2-1. Kinda boring, but eh. Way too many fours.
 
 Attempt 8: Liliana Tree Hugging. 3-3. Played a bit extra to complete my quest.
+
+Attempt 9: Milling Wizards. 2-0. My first repeat! As usual, Milling is super strong.
