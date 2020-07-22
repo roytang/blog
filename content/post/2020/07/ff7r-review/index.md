@@ -1,11 +1,16 @@
 ---
-title: "Review: Final Fantasy VII Remake"
-slug: ff7r-review
 date: 2020-07-22
-tags:
-- gaming
 dontinlinephotos: true
 featuredImage: https://roytang.net/2020/07/ff7r/FINAL%20FANTASY%20VII%20REMAKE_20200608080319_1.jpg
+slug: ff7r-review
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104555584153133345
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1285791698442842116/
+tags:
+- gaming
+title: 'Review: Final Fantasy VII Remake'
 ---
 
 Just in time for #JRPGJuly, I finally managed to [complete my platinum run for Final Fantasy VII Remake](/2020/07/1285149646650671105/)! Spoiler-free review first, then the rest of the sections are no-holds barred.
