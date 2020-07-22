@@ -16,6 +16,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1284988375355678720/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1285895313333485569/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1285909154700255233/
 tags:
 - mtg
 title: ''
@@ -34,3 +36,5 @@ Attempt 5: Archeology Under The Sea. Why did I go monocolor again? 2-6. Deck was
 Attempt 6: Dinosaurs Reanimated. 2-1. Power level reasonably high, with removal coming mostly from the green side (surprisingly!).
 
 Attempt 7: Vampires Devilish. Quick 2-1. Kinda boring, but eh. Way too many fours.
+
+Attempt 8: Liliana Tree Hugging. 3-3. Played a bit extra to complete my quest.
