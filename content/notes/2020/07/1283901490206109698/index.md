@@ -22,6 +22,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1285915582773125121/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1285937453321216001/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1288496814853824512/
 tags:
 - mtg
 title: ''
@@ -52,3 +54,5 @@ Video of attempts 8 and 9 here:
 Played two Jumpstarts! YT: https://www.youtube.com/watch?v=u1KtPh_xoLo
 
 {{% /quoted %}}
+
+Attempt 10: Chandra Angels. 2-2. Losses were due to clunky hands (drawings fives and sixes while being stuck at 3-4 lands)
