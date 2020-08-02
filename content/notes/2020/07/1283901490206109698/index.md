@@ -26,6 +26,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1288496814853824512/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1288501652970905600/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1289949938718138368/
 tags:
 - mtg
 title: ''
@@ -60,3 +62,15 @@ Played two Jumpstarts! YT: https://www.youtube.com/watch?v=u1KtPh_xoLo
 Attempt 10: Chandra Angels. 2-2. Losses were due to clunky hands (drawings fives and sixes while being stuck at 3-4 lands)
 
 Attempt 11: Witchcraft Goblins. 2-1. The wins were due to the opponent timing out or randomly quitting early, so that sucks. Out of gold again so I'll just keep this one around for daily quests for a while.
+
+Attempts 12-14! Rogues Cats 2-1, Seismic Predatory 2-3, Phyrexian Plus One 2-3
+
+
+
+Video here:  
+
+{{% quoted url="https://twitter.com/roytang/status/1289949243390570497" label="roytang's tweet" %}}
+
+Played 3 Jumpstart decks! YT: https://www.youtube.com/watch?v=qHCF4vLlcKQ
+
+{{% /quoted %}}
