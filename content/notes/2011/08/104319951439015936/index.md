@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/104319951439015936/
+title: ''
 ---
 
-RT [@rocketkeis](https://twitter.com/rocketkeis/): "Best study ever: Wasting time online boosts worker productivity" - latimes.com https://latimesblogs.latimes.com/money_co/2011/08/best-study-ever-wasting-time-online-boosts-productivity-at-work.html
+"Best study ever: Wasting time online boosts worker productivity" - latimes.com http://flpbd.it/emHx

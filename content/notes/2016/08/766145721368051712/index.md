@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/766145721368051712/
+title: ''
 ---
 
 they don't understand any other possible way of thinking (2/?)

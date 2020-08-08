@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/766220666110513152/
+title: ''
 ---
 
-if you cant get through the trolls, maybe just make fun of them a bit https://t.co/zEN13SmYN7
+if you cant get through the trolls, maybe just make fun of them a bit

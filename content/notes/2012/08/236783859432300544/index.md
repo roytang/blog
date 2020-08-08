@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/236783859432300544/
+title: ''
 ---
 
-RT [@cesdrilon](https://twitter.com/cesdrilon/): RT @nhkcharm: Palace: "we ask the Filipino people to join the President and the cabinet in prayer for his successful rescue."
+RT @nhkcharm: Palace: "we ask the Filipino people to join the President and the cabinet in prayer for his successful rescue."
