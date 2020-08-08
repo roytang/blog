@@ -1,6 +1,6 @@
 ---
 title: "Forty Two"
-date: 2020-08-08
+date: 2020-08-09
 tags:
 - birthday
 ---
@@ -17,10 +17,6 @@ It's weird celebrating your birthday in the middle of a worldwide pandemic, when
 
 ---
 
-It's a bit ironic that in last year's post [I complained about an uneventful 365 days](/2019/08/forty-one/) and look what we have now (*waves hands around*). I hope I didn't jinx 2020.
-
----
-
 I've actually written quite a few of these [birthday posts](/tags/birthday/) by now, though not as regularly as I'd have liked. I read through a few of them to help me decide what to write for today (didn't really help). My favorite has to be the one with [thirty eight lessons I’ve learned through the years](/2016/08/thirty-eight/).
 
 ---
@@ -30,3 +26,9 @@ Perhaps it's for the best, maybe even if I had gotten a few days off I still wou
 ---
 
 Given that this is the first birthday after I quit Facebook, I am expecting much fewer birthday greetings this year. It is no big loss; the people who are important will remember. That doesn't mean I'm not grateful and amazed that someone I'd only known for less than five years actually remembered to greet me, except the greeting came two days early due to uncertainty about the exact date. It's nice to be remembered, no matter how stoic we pretend to be.
+
+---
+
+It's a bit ironic that in last year's post [I complained about an uneventful 365 days](/2019/08/forty-one/) and look what we have now (*waves hands around*). I hope I didn't jinx 2020. Next year is a more boring number, maybe we'll have a better year?
+
+

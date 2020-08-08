@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/766534290125357056/
 tags:
 - Philippines
+title: ''
 ---
 
-RT [@AgnesCallamard](https://twitter.com/AgnesCallamard/): My statement as UN expert on extra-judicial executions in the #Philippines in the context of anti-drug campaign https:/…
+My statement as UN expert on extra-judicial executions in the #Philippines in the context of anti-drug campaign http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=20388&LangID=E

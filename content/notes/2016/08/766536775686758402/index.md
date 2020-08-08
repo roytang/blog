@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/766536775686758402/
+title: ''
 ---
 
-RT [@imgur](https://twitter.com/imgur/): Guide to happiness. https://imgur.com/gallery/VhZfd0s https://t.co/9d0m8RUekW
+Guide to happiness. https://imgur.com/gallery/VhZfd0s

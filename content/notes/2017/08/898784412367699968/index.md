@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/898784412367699968/
+title: ''
 ---
 
-RT [@RizalNaWalangL](https://twitter.com/RizalNaWalangL/): before: nak aral ka mabuti para yumaman ka at makaranas ng ginhawa
+before: nak aral ka mabuti para yumaman ka at makaranas ng ginhawa
 
-now: nak aral ka mabuti para yumaman ka at makarana…
+
+
+now: nak aral ka mabuti para yumaman ka at makaranas ng due process

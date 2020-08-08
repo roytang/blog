@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/766504888629014532/
+title: ''
 ---
 
-RT [@aaronmblevin](https://twitter.com/aaronmblevin/): rt if ur a real engineer
+rt if ur a real engineer
+
+
 
 and by real engineer i mean: have pushed hot, untested garbage into production.

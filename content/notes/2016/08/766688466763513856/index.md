@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/766688466763513856/
+title: ''
 ---
 
-RT [@jk_rowling](https://twitter.com/jk_rowling/): So anyway, this has made my day.
+So anyway, this has made my day.
 
-https://entertainment.howstuffworks.com/arts/literature/reading-harry-potter-donald-trump-opinion.htm
+
+
+http://now.howstuffworks.com/2016/07/20/reading-harry-potter-donald-trump-opinion

@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/766675247164600320/
 tags:
 - DarkTowerMovie
+title: ''
 ---
 
-RT [@TomTaylor1607](https://twitter.com/TomTaylor1607/): Traveller, beyond lies Mid-World. #DarkTowerMovie https://t.co/YxOjKKzQBy
+Traveller, beyond lies Mid-World. #DarkTowerMovie
