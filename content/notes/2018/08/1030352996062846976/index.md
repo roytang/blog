@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1030352996062846976/
+title: ''
 ---
 
-RT [@shaunspalding](https://twitter.com/shaunspalding/): RT if you're a male dev and can v.easily talk to female devs without worrying about being creepy or misogynistic. 🙋‍♂️ h…
+RT if you're a male dev and can v.easily talk to female devs without worrying about being creepy or misogynistic. 🙋‍♂️

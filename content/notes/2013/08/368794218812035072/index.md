@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/368794218812035072/
+title: ''
 ---
 
-RT [@justinshanes](https://twitter.com/justinshanes/): WORK TIP: Respond to all your boss's emails with "Heyyyy you!"
+WORK TIP: Respond to all your boss's emails with "Heyyyy you!"

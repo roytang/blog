@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/898040668315987968/
 ---
 
-RT [@SamHulick](https://twitter.com/SamHulick/): A handy dandy infographic explaining why tolerance has a limit. (it's kinda common sense) https://t.co/86F0VuLv9t
+A handy dandy infographic explaining why tolerance has a limit. (it's kinda common sense)

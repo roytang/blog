@@ -4,8 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/236524347022536704/
-tags:
-- fb
+title: ''
 ---
 
-Sup spelldashers. #fb http://i.imgur.com/hNYi7.jpg
+Sup spelldashers.
