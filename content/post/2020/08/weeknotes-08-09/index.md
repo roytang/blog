@@ -17,11 +17,13 @@ My stuff:
 - Gaming:
   - Lots more SC2 coop this week, mostly in the wee hours to destress.
   - Almost impulse-bought a Switch yesterday; a friend's logic and my inexorably large gaming backlog held me back.
+  - MTG Arena: Nothing of significance, but Amonkhet remastered comes out this week so looking forward to that!
 - Quiz: 
   - Actually did a bit better in 1 of the two quizzes we played this week, but I think we had way more fun playing Codenames online.
 - Watching lately:
   - Background watching: Jeopardy on Netflix
   - Binged the new Transformers Netflix series, since it was fairly short (six episodes). A very bleak take on the Autobots' struggle against the Decepticons on Cybertron, and also a very obvious tie-in to the current War for Cybertron toy line since most of the main characters have toys in that line. 
+  - I also watched Craig Ferguson's Netflix special Tickle Fight, mainly because I happened to have watch a few of his late night segments on YT
   - Also started watching the last season of Agents of SHIELD, since I'm told the season finale is coming up next week. First three episodes seem pretty good for network TV, hopefully I have time for the rest of the (short) season in the next couple of weeks.
 
 Recent links: Nothing of note this week. Even though I have read some interesting stuff, I think my link-capturing workflow really needs improvement.
