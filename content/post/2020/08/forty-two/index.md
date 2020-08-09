@@ -29,6 +29,10 @@ Given that this is the first birthday after I quit Facebook, I am expecting much
 
 ---
 
+I almost impulse-bought a Switch yesterday, luckily a friend talked me out of it. Would have made a fine self-birthday gift, but my gaming backlog is still pretty ridiculous as it is.
+
+---
+
 It's a bit ironic that in last year's post [I complained about an uneventful 365 days](/2019/08/forty-one/) and look what we have now (*waves hands around*). I hope I didn't jinx 2020. Next year is a more boring number, maybe we'll have a better year?
 
 
