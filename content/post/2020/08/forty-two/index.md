@@ -25,7 +25,7 @@ Perhaps it's for the best, maybe even if I had gotten a few days off I still wou
 
 ---
 
-Given that this is the first birthday after I quit Facebook, I am expecting much fewer birthday greetings this year. It is no big loss; the people who are important will remember. That doesn't mean I'm not grateful and amazed that someone I'd only known for less than five years actually remembered to greet me, except the greeting came two days early due to uncertainty about the exact date. It's nice to be remembered, no matter how stoic we pretend to be.
+Given that this is the first birthday after I quit Facebook, I am expecting much, much fewer birthday greetings this year. It is no big loss; the people who are important will remember. That doesn't mean I'm not grateful and amazed if someone unexpected should remember. A couple of days ago someone I'd only known for less than five years actually remembered to greet me, except the greeting came two days early due to uncertainty about the exact date. It's nice to be remembered, no matter how stoic we pretend to be.
 
 ---
 
