@@ -1,8 +1,13 @@
 ---
-title: "Forty Two"
 date: 2020-08-09
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104657505734204486
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1292314679151194112/
 tags:
 - birthday
+title: Forty Two
 ---
 
 Forty two is of course the "Answer to the Ultimate Question of Life, the Universe, and Everything." (if you haven't yet read the 5-book Hitchhiker's Guide to the Galaxy trilogy, I suggest you do so, you are in for a treat.)
@@ -34,5 +39,3 @@ I almost impulse-bought a Switch yesterday, luckily a friend talked me out of it
 ---
 
 It's a bit ironic that in last year's post [I complained about an uneventful 365 days](/2019/08/forty-one/) and look what we have now (*waves hands around*). I hope I didn't jinx 2020. Next year is a more boring number, maybe we'll have a better year?
-
-
