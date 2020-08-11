@@ -1,0 +1,30 @@
+{
+  "source_obj": {
+    "wm-id": 837979,
+    "published": "2020-08-09T05:13:17+00:00",
+    "author": {
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/81bd6e8a8bd479b34d3a63d44f1491f02fccc9a40abfc272b3a68f597e58d1f0.png",
+      "url": "https://twitter.com/artificial42",
+      "name": "Manifest/42",
+      "type": "card"
+    },
+    "type": "entry",
+    "url": "https://twitter.com/artificial42/status/1292328073283735552",
+    "wm-received": "2020-08-09T18:38:55Z",
+    "repost-of": "https://roytang.net/2020/08/forty-two/",
+    "wm-source": "https://brid-gy.appspot.com/repost/twitter/roytang/1292314679151194112/1292328073283735552",
+    "content": {
+      "text": "New blog post: Forty Two roytang.net/2020/08/forty-\u2026"
+    },
+    "wm-property": "repost-of",
+    "wm-target": "https://roytang.net/2020/08/forty-two/",
+    "wm-private": false
+  },
+  "id": "e2827bda-1ab4-4889-bfde-1bd2b6e03e91",
+  "photo": null,
+  "text": "New blog post: Forty Two roytang.net/2020/08/forty-\u2026",
+  "url": "https://twitter.com/artificial42",
+  "source_url": "https://twitter.com/artificial42/status/1292328073283735552",
+  "name": "Manifest/42",
+  "date": "2020-08-09 18:38:55"
+}

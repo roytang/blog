@@ -1,6 +1,11 @@
 ---
 date: 2020-08-09 01:00:00
 slug: weeknotes-08-09
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104660100993906799
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1292480776047431680/
 tags:
 - weeknotes
 - current events
