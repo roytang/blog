@@ -850,3 +850,14 @@ img.link {
     width: 1.5em;
 }
 
+/* https://dev.to/akhilarjun/four-subtle-text-effects-to-spice-up-your-web-site-27e7 */
+a {
+    transition: all 300ms;
+}
+a:hover {
+    text-shadow: 0 0 10px #0698a5,
+                 0 0 30px #0698a5,
+                 0 0 80px #0698a5,
+                 0 0 120px #0698a5,
+                 0 0 200px #0698a5;
+}
