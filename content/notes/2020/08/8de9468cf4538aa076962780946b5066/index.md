@@ -1,6 +1,11 @@
 ---
-date: 2020-08-13 15:24:15+08:00
+date: 2020-08-13 07:24:15
 source: email
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104680902838879335
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1293812094022762496/
 title: Agents of SHIELD
 ---
 
