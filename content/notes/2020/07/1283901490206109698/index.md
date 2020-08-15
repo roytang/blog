@@ -30,6 +30,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1289949938718138368/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1293567429637861378/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1294718131147927552/
 tags:
 - mtg
 title: ''
@@ -78,3 +80,5 @@ Played 3 Jumpstart decks! YT: https://www.youtube.com/watch?v=qHCF4vLlcKQ
 {{% /quoted %}}
 
 Attempts 15-17! Rogues Above the Clouds 2-3, Smashing Legion 2-4 (forgot to get a deck list screenshot for this one), Dinosaur Dogs 2-0. YT of the games: https://www.youtube.com/watch?v=dG6-lNKfyis
+
+Attempts 18-19! Seismic Doctor (DAMNIT 5th Lavamancer!) 2-2, Basri Walls 2-1. Still missing Garruk and Teferi =/
