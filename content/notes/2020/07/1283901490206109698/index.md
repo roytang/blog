@@ -32,6 +32,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1293567429637861378/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1294718131147927552/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1295110240497672192/
 tags:
 - mtg
 title: ''
@@ -82,3 +84,5 @@ Played 3 Jumpstart decks! YT: https://www.youtube.com/watch?v=qHCF4vLlcKQ
 Attempts 15-17! Rogues Above the Clouds 2-3, Smashing Legion 2-4 (forgot to get a deck list screenshot for this one), Dinosaur Dogs 2-0. YT of the games: https://www.youtube.com/watch?v=dG6-lNKfyis
 
 Attempts 18-19! Seismic Doctor (DAMNIT 5th Lavamancer!) 2-2, Basri Walls 2-1. Still missing Garruk and Teferi =/
+
+JumpStart Attempt 20, the final one for this set (a nice round number): Reanimated Teferi. Got one of the two missing PW packets, although this combination wasn't too great, only went 2-4. Still missing the Garruk one, hopefully we get it if/when JS returns in the future
