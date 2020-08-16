@@ -1,10 +1,15 @@
 ---
-title: "Weeknotes 2020-08-16 The Sameyness Report"
 date: 2020-08-16
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104700995470019811
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1295098022720704512/
 tags:
 - weeknotes
 - current events
 - philippines
+title: Weeknotes 2020-08-16 The Sameyness Report
 ---
 
 These weeknotes are coming in late in the day because of reasons. (The reasons being laziness and procrastination.)
