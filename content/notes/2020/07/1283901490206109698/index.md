@@ -34,6 +34,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1294718131147927552/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1295110240497672192/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1295110546765701120/
 tags:
 - mtg
 title: ''
@@ -86,3 +88,5 @@ Attempts 15-17! Rogues Above the Clouds 2-3, Smashing Legion 2-4 (forgot to get 
 Attempts 18-19! Seismic Doctor (DAMNIT 5th Lavamancer!) 2-2, Basri Walls 2-1. Still missing Garruk and Teferi =/
 
 JumpStart Attempt 20, the final one for this set (a nice round number): Reanimated Teferi. Got one of the two missing PW packets, although this combination wasn't too great, only went 2-4. Still missing the Garruk one, hopefully we get it if/when JS returns in the future
+
+Overall, JumpStart was a reasonably fun casual experience, and I fully expect them to bring it back every so often as I think it's very good for the casual new player experience, especially for anyone wanting to build casual historic brews
