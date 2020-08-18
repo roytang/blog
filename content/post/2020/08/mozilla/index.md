@@ -1,9 +1,14 @@
 ---
-title: "On Mozilla and Firefox"
 date: 2020-08-18
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104709292313278002
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1295629020504010753/
 tags:
 - tech life
 - software development
+title: On Mozilla and Firefox
 ---
 
 Mozilla made the tech news recently for laying off a whole lot of people. ([Official statement](https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)). People were alarmed and worried about the future of what is the last major independent browser and the open web, bit it looks like it isn't that bleak. Most of the layoffs were to teams other than those working on Firefox, things like the experimental browser engine Servo, devtools, and MDN. The core Gecko team seems to be unaffected.
@@ -24,4 +29,4 @@ Secondly, even if you didn't dislike Google, having a browser (engine) monocultu
 
 Side note: Maybe I should try building Chromium too, just for comparison.
 
-Anyway, that's all my ranting for today. In conclusion: reduce your surveillance capitalism footprint and support the open web, use Firefox. 
+Anyway, that's all my ranting for today. In conclusion: reduce your surveillance capitalism footprint and support the open web, use Firefox.
