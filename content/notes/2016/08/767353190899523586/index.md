@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767353190899523586/
+title: ''
 ---
 
-RT [@cocoalcuaz](https://twitter.com/cocoalcuaz/): 15 Ways to Be a Better Person - The New York Times https://www.nytimes.com/interactive/2015/12/24/style/ways-to-be-a-better-person.html
+15 Ways to Be a Better Person - The New York Times http://nyti.ms/1ZB5AGR

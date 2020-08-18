@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/767351095874035713/
 tags:
 - NinoyDiKaNagIisa
+title: ''
 ---
 
-RT [@aikarobredo](https://twitter.com/aikarobredo/): Remembering Ninoy Aquino today. "The Filipino is worth dying for." #NinoyDiKaNagIisa https://t.co/M6ZdK0iLdh
+Remembering Ninoy Aquino today. "The Filipino is worth dying for." #NinoyDiKaNagIisa

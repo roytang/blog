@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/237738183692001282/
+title: ''
 ---
 
-RT [@alvinjtang](https://twitter.com/alvinjtang/): RIP Sec. Rebredo. One of the best one we have.
+RIP Sec. Rebredo. One of the best one we have.

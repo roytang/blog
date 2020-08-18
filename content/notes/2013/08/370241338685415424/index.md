@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/370241338685415424/
+title: ''
 ---
 
-RT [@kellysue](https://twitter.com/kellysue/): Manila submerged. Please signal boost, along with the emergency hotlines and donation info https://kellysue.tumblr.com/post/58929281269/girlslikecarsandmonet-manila-submerged-please#_=_
+Manila submerged. Please signal boost, along with the emergency hotlines and donation info http://tmblr.co/ZNBXbysuTNZr
