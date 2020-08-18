@@ -1,0 +1,27 @@
+{
+  "date": "2020-08-18 08:43:25",
+  "id": "b464fd3e-7b25-4067-a7ba-678bb9eef5b5",
+  "url": "https://fosstodon.org/@daniels",
+  "name": "Daniel Siepmann",
+  "text": "[Daniel Siepmann](https://fosstodon.org/@daniels) [liked this](https://mastodon.technology/@roytang/104709292313278002#favorited-by-307736)",
+  "source_obj": {
+    "wm-private": false,
+    "author": {
+      "name": "Daniel Siepmann",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/1934d5f35bcf3bb7d2eb56d31beaf9489b3f342766873c02773d2bc313a13521.png",
+      "type": "card",
+      "url": "https://fosstodon.org/@daniels"
+    },
+    "wm-id": 841572,
+    "type": "entry",
+    "wm-property": "like-of",
+    "published": null,
+    "wm-received": "2020-08-18T08:43:25Z",
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104709292313278002/307736",
+    "url": "https://mastodon.technology/@roytang/104709292313278002#favorited-by-307736",
+    "wm-target": "https://roytang.net/2020/08/on-mozilla-and-firefox/",
+    "like-of": "https://roytang.net/2020/08/on-mozilla-and-firefox/"
+  },
+  "photo": null,
+  "source_url": "https://mastodon.technology/@roytang/104709292313278002#favorited-by-307736"
+}
