@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767345218265817088/
+title: ''
 ---
 
-RT [@Nacatls4Life](https://twitter.com/Nacatls4Life/): This might be the most glorious MTG alter I've ever seen! https://t.co/TLL903QCpy
+This might be the most glorious MTG alter I've ever seen!

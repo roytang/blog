@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767916638741987329/
+title: ''
 ---
 
-RT [@dearbakla](https://twitter.com/dearbakla/): Gusto ko minsan talaga mag pa edit sa mga ka DDS :) https://t.co/vBIA4EcevQ
+Gusto ko minsan talaga mag pa edit sa mga ka DDS :)

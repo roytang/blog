@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/767182506734997505/
 tags:
 - HugoAwards
+title: ''
 ---
 
-RT [@arthur_affect](https://twitter.com/arthur_affect/): Michi Trota ([@GeekMelange](https://twitter.com/GeekMelange/)) is the 1st Filipinx Hugo finalist and now 1st winner #HugoAwards
+Michi Trota ([@GeekMelange](https://twitter.com/GeekMelange/)) is the 1st Filipinx Hugo finalist and now 1st winner #HugoAwards

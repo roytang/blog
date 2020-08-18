@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767183487145091072/
+title: ''
 ---
 
-RT [@JojoMalig](https://twitter.com/JojoMalig/): "We planted evidence. We arrested persons but we released them." - Philippine President Rodrigo Duterte, August 21, 2016
+"We planted evidence. We arrested persons but we released them." - Philippine President Rodrigo Duterte, August 21, 2016

@@ -11,6 +11,7 @@ syndicated:
 tags:
 - Trending
 - TCListDay
+title: ''
 ---
 
-RT [@ThoughtCatalog](https://twitter.com/ThoughtCatalog/): 22 Everyday Words You Might Not Realize You’ve Been Using Incorrectly https://thoughtcatalog.com/nico-lang/2013/08/22-everyday-words-you-might-not-realize-youve-been-using-incorrectly/ #Trending #TCListDay
+22 Everyday Words You Might Not Realize You’ve Been Using Incorrectly http://tcat.tc/19xIG9H #Trending #TCListDay

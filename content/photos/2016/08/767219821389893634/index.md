@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767219821389893634/
+title: ''
 ---
 
-What comes to mind when the president says something stupid https://t.co/oNkyG1ZBUu
+What comes to mind when the president says something stupid

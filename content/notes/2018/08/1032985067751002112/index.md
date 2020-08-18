@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1032985067751002112/
+title: ''
 ---
-
-RT [@davecheney](https://twitter.com/davecheney/): https://t.co/a8Ju0iOX8F
