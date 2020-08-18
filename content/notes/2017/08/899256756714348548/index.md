@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/899256756714348548/
+title: ''
 ---
 
-RT [@saabmagalona](https://twitter.com/saabmagalona/): It's not a question of victims being involved in drugs or not. PEOPLE DESERVE DUE PROCESS.
+It's not a question of victims being involved in drugs or not. PEOPLE DESERVE DUE PROCESS.

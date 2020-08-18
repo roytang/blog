@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@talk2GLOBE](https://twitter.com/talk2GLOBE/) the modem is fine! I'm able to use twitter! It's literally only a small (yet important) set of websites that i cant access
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) im tweeting you via that same modem right now!
+
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) im tweeting you via that same modem right now!

@@ -18,4 +18,5 @@ syndicated:
 [@talk2GLOBE](https://twitter.com/talk2GLOBE/) I don't have time to wait around all day for one of your techs to arrive w/o telling me what time he's going to arrive
 
 [@talk2GLOBE](https://twitter.com/talk2GLOBE/) so i prefer online. do you have an engineer I can skype with? Look for someone wearing cargo pants, maybe a subway map on their wall?
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) Or someone who knows what xkcd and "SHIBBOLEET" are
+
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) Or someone who knows what xkcd and "SHIBBOLEET" are

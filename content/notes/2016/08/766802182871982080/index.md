@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/766802182871982080/
+title: ''
 ---
 
-RT [@natashya_g](https://twitter.com/natashya_g/): Chastising Duterte is not mutually exclusive with supporting De Lima. But to the trolls, insult the president = https://t.c…
+Chastising Duterte is not mutually exclusive with supporting De Lima. But to the trolls, insult the president =

@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@talk2GLOBE](https://twitter.com/talk2GLOBE/) consider the irony of a company providing internet services not having online technical support. mag inquire na lang muna ako sa ibang ISP
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) also thanks. i know being a CS rep cant be easy and its not your fault you dont have sufficient technical resources on your side
+
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) also thanks. i know being a CS rep cant be easy and its not your fault you dont have sufficient technical resources on your side

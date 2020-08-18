@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/899295938509905921/
+title: ''
 ---
 
-RT [@phkule](https://twitter.com/phkule/): When silence only serves to sustain violence, dissent becomes an obligation.
+When silence only serves to sustain violence, dissent becomes an obligation.
 
-http://ww1.philippinecollegian.org/?sub1=db853fe2-cc42-11e9-a3ae-26f3a1d2e93a
+
+
+http://www.philippinecollegian.org/2017/08/20/dissenting-voices/

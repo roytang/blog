@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/899566090086305792/
 ---
 
-[@alvinjtang](https://twitter.com/alvinjtang/)  https://t.co/7ksjMU1sGa
+[@alvinjtang](https://twitter.com/alvinjtang/)

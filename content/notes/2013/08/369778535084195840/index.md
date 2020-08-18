@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/369778535084195840/
+title: ''
 ---
 
-RT [@cshirky](https://twitter.com/cshirky/): Groklaw shuts down:"There is now no shield from forced exposure" by the US. http://www.groklaw.net/article.php?story=20130818120421175 I started crying, reading P…
+Groklaw shuts down:"There is now no shield from forced exposure" by the US. http://goo.gl/HGCvf9 I started crying, reading PJ's last post.
