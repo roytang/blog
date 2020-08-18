@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/900370701915377665/
+title: ''
 ---
 
-RT [@Lunarbaboon](https://twitter.com/Lunarbaboon/): Comic about a chronic condition... http://www.lunarbaboon.com https://t.co/svkuZlhKwD
+Comic about a chronic condition... http://www.lunarbaboon.com

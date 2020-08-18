@@ -1,5 +1,5 @@
 ---
-date: 2012-08-23 14:34:21
+date: 2012-08-23 14:34:21+00:00
 repost_source:
   name: mrmarkmillar
   type: twitter
@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/238645354839539712/
-tags: []
+tags:
+- '4'
+title: ''
 ---
 
-RT [@mrmarkmillar](https://twitter.com/mrmarkmillar/): People of Manila, I loved my signing there so much I shoe-horned 2 pages of Supercrooks #4 into your country. Check it ...
+People of Manila, I loved my signing there so much I shoe-horned 2 pages of Supercrooks #4 into your country. Check it out!

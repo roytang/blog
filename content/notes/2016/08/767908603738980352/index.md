@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/767908603738980352/
 tags:
 - quote
+title: ''
 ---
 
-RT [@WarrenWhitlock](https://twitter.com/WarrenWhitlock/): It is the mark of an educated mind to be able to entertain a thought without accepting it.  ― Aristotle #quote
+It is the mark of an educated mind to be able to entertain a thought without accepting it.  ― Aristotle #quote

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/371358048700231680/
+title: ''
 ---
 
-RT [@raymsmercygun](https://twitter.com/raymsmercygun/): i just found out that ultraelectromagnetic pop is 20years old . cheers!
+i just found out that ultraelectromagnetic pop is 20years old . cheers!

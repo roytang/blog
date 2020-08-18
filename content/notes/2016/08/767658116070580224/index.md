@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767658116070580224/
+title: ''
 ---
 
-RT [@rocketkeis](https://twitter.com/rocketkeis/): "In matters of style swim with the current. In matters of principle, stand like a rock." —Unknown via [@momentumdash](https://twitter.com/momentumdash/)
+"In matters of style swim with the current. In matters of principle, stand like a rock." —Unknown via [@momentumdash](https://twitter.com/momentumdash/)

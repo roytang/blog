@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767889723616473088/
+title: ''
 ---
 
-RT [@barrygoldblatt](https://twitter.com/barrygoldblatt/): Why design matters. https://twitter.com/nevillem/status/767854696019165185
+Why design matters. https://twitter.com/nevillem/status/767854696019165185

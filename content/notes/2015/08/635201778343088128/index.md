@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/635201778343088128/
+title: ''
 ---
 
-RT [@Mike_Laidlaw](https://twitter.com/Mike_Laidlaw/): Graphic novel representation of my favorite Asimov short story, "The Last Question." Very well done. https://imgur.com/gallery/9KWrH
+Graphic novel representation of my favorite Asimov short story, "The Last Question." Very well done. http://imgur.com/gallery/9KWrH
