@@ -1,0 +1,27 @@
+{
+  "photo": null,
+  "source_obj": {
+    "wm-received": "2020-08-18T08:02:41Z",
+    "wm-property": "repost-of",
+    "wm-target": "https://roytang.net/2020/08/on-mozilla-and-firefox/",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "url": "https://floss.social/@alcinnz",
+      "name": "Adrian Cochrane"
+    },
+    "type": "entry",
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/104709292313278002/77011",
+    "published": null,
+    "wm-id": 841567,
+    "url": "https://mastodon.technology/@roytang/104709292313278002#reblogged-by-77011",
+    "repost-of": "https://roytang.net/2020/08/on-mozilla-and-firefox/"
+  },
+  "name": "Adrian Cochrane",
+  "date": "2020-08-18 08:02:41",
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) [shared this](https://mastodon.technology/@roytang/104709292313278002#reblogged-by-77011)",
+  "id": "8e696dd8-903d-4cb9-929d-fa06dcdfdd35",
+  "url": "https://floss.social/@alcinnz",
+  "source_url": "https://mastodon.technology/@roytang/104709292313278002#reblogged-by-77011"
+}

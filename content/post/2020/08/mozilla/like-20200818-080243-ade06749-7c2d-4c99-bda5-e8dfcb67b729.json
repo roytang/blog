@@ -1,0 +1,27 @@
+{
+  "photo": null,
+  "source_obj": {
+    "wm-received": "2020-08-18T08:02:43Z",
+    "like-of": "https://roytang.net/2020/08/on-mozilla-and-firefox/",
+    "wm-property": "like-of",
+    "author": {
+      "type": "card",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/5031caaff9b945d9df4f275f6d6bdc3af8f7592afcbc912018b78a3c419212c9.png",
+      "url": "https://radical.town/@fructose_dealer",
+      "name": "Davey (premium) :verified:"
+    },
+    "type": "entry",
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/104709292313278002/216410",
+    "published": null,
+    "wm-id": 841568,
+    "url": "https://mastodon.technology/@roytang/104709292313278002#favorited-by-216410",
+    "wm-target": "https://roytang.net/2020/08/on-mozilla-and-firefox/"
+  },
+  "name": "Davey (premium) :verified:",
+  "date": "2020-08-18 08:02:43",
+  "text": "[Davey (premium) :verified:](https://radical.town/@fructose_dealer) [liked this](https://mastodon.technology/@roytang/104709292313278002#favorited-by-216410)",
+  "id": "ade06749-7c2d-4c99-bda5-e8dfcb67b729",
+  "url": "https://radical.town/@fructose_dealer",
+  "source_url": "https://mastodon.technology/@roytang/104709292313278002#favorited-by-216410"
+}
