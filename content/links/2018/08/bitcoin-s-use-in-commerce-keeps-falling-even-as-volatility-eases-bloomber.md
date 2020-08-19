@@ -8,4 +8,7 @@ link:
 slug: bitcoin-s-use-in-commerce-keeps-falling-even-as-volatility-eases-bloomber
 source: pocket
 title: Bitcoin's Use in Commerce Keeps Falling Even as Volatility Eases - Bloomber
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1033757383468765186/
 ---

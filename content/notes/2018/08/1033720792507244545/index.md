@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1033720792507244545/
+title: ''
 ---
 
-RT [@mzwa_i](https://twitter.com/mzwa_i/): I like people who text, "can I call you?". It's the highest form of respect.
+I like people who text, "can I call you?". It's the highest form of respect.

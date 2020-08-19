@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1033385479436025857/
+title: ''
 ---
 
-RT [@geddski](https://twitter.com/geddski/): how the pros debug a node app
+how the pros debug a node app
+
+
 
 console.log('------------------------HERE--------------------------')

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/902810149940674560/
+title: ''
 ---
 
-RT [@delaneypv15](https://twitter.com/delaneypv15/): I hate the glorification of being busy. Not having time to reflect, breathe, and/or enjoy things is really just irresponsi…
+I hate the glorification of being busy. Not having time to reflect, breathe, and/or enjoy things is really just irresponsible.

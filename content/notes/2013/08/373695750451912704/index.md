@@ -12,4 +12,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1033754729073889280/  
 ---
 
-A flowchart of what programmers do at work all day, by [@secretGeek](https://twitter.com/secretGeek/) https://t.co/sq1yxteKa2
+A flowchart of what programmers do at work all day, by [@secretGeek](https://twitter.com/secretGeek/)

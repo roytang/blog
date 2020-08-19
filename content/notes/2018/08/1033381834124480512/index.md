@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1033381834124480512/
+title: ''
 ---
 
-RT [@Kurt_Vonnegut](https://twitter.com/Kurt_Vonnegut/): Of all the words of mice and men, the saddest are, "It might have been."
+Of all the words of mice and men, the saddest are, "It might have been."

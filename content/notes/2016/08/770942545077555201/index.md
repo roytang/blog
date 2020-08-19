@@ -11,6 +11,7 @@ syndicated:
 tags:
 - Marcosnohero
 - MarcosBurialCases
+title: ''
 ---
 
-RT [@momblogger](https://twitter.com/momblogger/): Pro-Marcos supporters are getting desperate. Why assault the paralegal ? #Marcosnohero #MarcosBurialCases https://t.co/O5jC…
+Pro-Marcos supporters are getting desperate. Why assault the paralegal ? #Marcosnohero #MarcosBurialCases

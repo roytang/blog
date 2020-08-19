@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/768863063084630016/
+title: ''
 ---
 
-RT [@neiltyson](https://twitter.com/neiltyson/): Could use a new ballot choice: “None of the Above”. If it beats the leading candidate then all new people must run for office
+Could use a new ballot choice: “None of the Above”. If it beats the leading candidate then all new people must run for office

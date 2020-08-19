@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/372964501097697280/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “I think it’s very healthy to spend time alone. You need to know how to be alone and not be defined by another person.” ~Osca…
+“I think it’s very healthy to spend time alone. You need to know how to be alone and not be defined by another person.” ~Oscar Wilde

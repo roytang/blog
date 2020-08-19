@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/373436645259087872/
+title: ''
 ---
 
-RT [@OsypL](https://twitter.com/OsypL/): "If you say something trivial, but you say your age before it, then it suddenly sounds important.  'I'm 43 years old, I want a s…
+"If you say something trivial, but you say your age before it, then it suddenly sounds important.  'I'm 43 years old, I want a sandwich' "

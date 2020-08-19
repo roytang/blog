@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/902202716675497985/
+title: ''
 ---
 
-RT [@PepeDiokno](https://twitter.com/PepeDiokno/): Cersei Lannister doesn't care about anyone but her own family. She's basically Filipino.
+Cersei Lannister doesn't care about anyone but her own family. She's basically Filipino.

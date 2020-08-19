@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/373906212548407296/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “Children must be taught how to think, not what to think.” ~Margaret Mead
+“Children must be taught how to think, not what to think.” ~Margaret Mead

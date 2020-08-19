@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/106739616069058560/
 tags:
 - details_matter
+title: ''
 ---
 
-RT [@rands](https://twitter.com/rands/): Jobs's best quotes: https://blogs.wsj.com/digits/2011/08/24/steve-jobss-best-quotes/ #details_matter
+Jobs's best quotes: http://j.mp/oDufys #details_matter

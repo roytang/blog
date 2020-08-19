@@ -9,6 +9,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/2etlbn/kingdom_hearts_hd_25_remix_new_features_trailer/
+- type: reddit
+  url: https://reddit.com/r/Games/comments/2etla3/kingdom_hearts_hd_25_remix_new_features_trailer/
 tags:
 - ps3
 ---

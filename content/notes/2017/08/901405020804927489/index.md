@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/901405020804927489/
+title: ''
 ---
 
-RT [@Kurt_Vonnegut](https://twitter.com/Kurt_Vonnegut/): How embarrassing to be human.
+How embarrassing to be human.

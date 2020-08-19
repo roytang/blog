@@ -12,6 +12,9 @@ tags:
 - NeverAgain
 - Marcos100
 - MarcosArtrocities
+title: ''
 ---
 
-RT [@sanflowerr](https://twitter.com/sanflowerr/): NOT A HERO #NeverAgain #Marcos100 #MarcosArtrocities https://t.co/N83ZHl2qep
+NOT A HERO #NeverAgain #Marcos100 #MarcosArtrocities 
+
+{{< video width="320" height="180" src="https://video.twimg.com/tweet_video/DIfR_ZnUMAIcWvf.mp4" >}}

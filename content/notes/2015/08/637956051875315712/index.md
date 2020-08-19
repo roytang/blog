@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/637956051875315712/
+title: ''
 ---
 
-RT [@alikervin](https://twitter.com/alikervin/): Sneaky Chinese,,, https://t.co/tGunSqwQxD
+Sneaky Chinese,,,

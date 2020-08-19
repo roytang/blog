@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/373190463806644224/
+title: ''
 ---
 
-RT [@sixthformpoet](https://twitter.com/sixthformpoet/): I wonder if Chairman Mao constantly thought his cat was calling him.
+I wonder if Chairman Mao constantly thought his cat was calling him.

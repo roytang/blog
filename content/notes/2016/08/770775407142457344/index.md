@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/770775407142457344/
+title: ''
 ---
 
-RT [@SmellTheTea](https://twitter.com/SmellTheTea/): Trust a Brit to set the record straight. https://t.co/dCQKEz5eti [@umairh](https://twitter.com/umairh/)
+Trust a Brit to set the record straight.  [@umairh](https://twitter.com/umairh/)
