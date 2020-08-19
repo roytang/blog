@@ -10,4 +10,4 @@ tags:
 - PinoyPride
 ---
 
-Woo, we're dominating r/worldnews this morning! #PinoyPride http://i.imgur.com/BxXCggi.png
+Woo, we're dominating r/worldnews this morning! #PinoyPride

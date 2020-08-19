@@ -6,6 +6,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/30689236729/um-well-okay-if-you-say-so
 - type: twitter
   url: https://twitter.com/roytang/statuses/242054686033735680/
+- type: reddit
+  url: https://reddit.com/r/pics/comments/z7i8v/um_well_okay_if_you_say_so/
 ---
 
 <p>Um well okay, if you say so&hellip;</p>

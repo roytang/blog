@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/375648624014667776/
+title: ''
 ---
 
-Cronuts! https://t.co/3jUGqnWvhx
+Cronuts!

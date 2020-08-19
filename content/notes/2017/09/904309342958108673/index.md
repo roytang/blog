@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/904309342958108673/
+title: ''
 ---
 
-RT [@agot_isidro](https://twitter.com/agot_isidro/): Evil or Good. Your choice. https://t.co/ubyTAJQ7gh
+Evil or Good. Your choice.

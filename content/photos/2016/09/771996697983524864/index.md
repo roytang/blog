@@ -1,5 +1,5 @@
 ---
-date: 2016-09-03 09:02:10
+date: 2016-09-03 09:02:10+00:00
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154876231018912
 tags:
 - BackToTheFuture
+title: ''
 ---
 
-It's a science experiment! #BackToTheFuture https://t.co/HADSZoO8vI
+It's a science experiment! #BackToTheFuture

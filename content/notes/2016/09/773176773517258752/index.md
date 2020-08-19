@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/773176773517258752/
+title: ''
 ---
 
-RT [@MillennialOfMNL](https://twitter.com/MillennialOfMNL/): NOTICE ME, OBOSENPAI https://t.co/lbjb3VGspy
+NOTICE ME, OBOSENPAI

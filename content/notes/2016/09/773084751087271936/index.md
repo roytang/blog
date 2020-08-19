@@ -10,6 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/773084751087271936/
 tags:
 - TuesdayMotivation
+title: ''
 ---
 
-RT [@GreenManGaming](https://twitter.com/GreenManGaming/): #TuesdayMotivation https://t.co/VJrDbanrCL
+#TuesdayMotivation 
+
+{{< video width="320" height="180" src="https://video.twimg.com/tweet_video/CrqHjkPXYAEMKwM.mp4" >}}
