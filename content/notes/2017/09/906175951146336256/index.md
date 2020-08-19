@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/906175951146336256/
 tags:
 - StopDSEI
+title: ''
 ---
 
-RT [@PPUtoday](https://twitter.com/PPUtoday/): Police try to stop and search a Dalek.  #StopDSEI https://t.co/GP9bnCqOJy
+Police try to stop and search a Dalek.  #StopDSEI

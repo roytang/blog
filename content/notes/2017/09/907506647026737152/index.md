@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/907506647026737152/
+title: ''
 ---
 
-RT [@imgur](https://twitter.com/imgur/): Accurate. https://imgur.com/gallery/uOBTO https://t.co/kd5LZsp6cU
+Accurate. http://imgur.com/gallery/uOBTO

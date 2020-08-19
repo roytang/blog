@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/245121546207756288/
+title: ''
 ---
 
-Ankle high waters on edsa right in front of mega https://t.co/vpPZkUu0
+Ankle high waters on edsa right in front of mega

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/773806954678358016/
+title: ''
 ---
 
-RT [@noelledeg](https://twitter.com/noelledeg/): Me today: https://t.co/Sl6m5e10p0
+Me today:
