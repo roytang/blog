@@ -1,0 +1,27 @@
+{
+  "name": "Adrian Cochrane",
+  "id": "6dee7689-1020-431c-969b-e730789a0f1b",
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) [shared this](https://mastodon.technology/@roytang/104719869943536608#reblogged-by-77011)",
+  "date": "2020-08-20 05:01:16",
+  "source_obj": {
+    "wm-received": "2020-08-20T05:01:16Z",
+    "wm-property": "repost-of",
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/104719869943536608/77011",
+    "url": "https://mastodon.technology/@roytang/104719869943536608#reblogged-by-77011",
+    "wm-target": "https://roytang.net/2020/08/on-podcasts-audiobooks-and-newsletters/",
+    "type": "entry",
+    "wm-id": 842104,
+    "repost-of": "https://roytang.net/2020/08/on-podcasts-audiobooks-and-newsletters/",
+    "wm-private": false,
+    "author": {
+      "name": "Adrian Cochrane",
+      "url": "https://floss.social/@alcinnz",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "type": "card"
+    },
+    "published": null
+  },
+  "url": "https://floss.social/@alcinnz",
+  "photo": null,
+  "source_url": "https://mastodon.technology/@roytang/104719869943536608#reblogged-by-77011"
+}
