@@ -1,8 +1,13 @@
 ---
-title: "On Podcasts, Audiobooks, and Newsletters"
 date: 2020-08-20
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104719869943536608
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1296305989440831489/
 tags:
 - tech life
+title: On Podcasts, Audiobooks, and Newsletters
 ---
 
 Filed under "Things I Don't Really Grok"
