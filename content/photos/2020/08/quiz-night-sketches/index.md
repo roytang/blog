@@ -1,11 +1,14 @@
 ---
-title: "Quiz Night Sketches"
-date: 2020-08-21T23:38:50+08:00
+albums:
+- sketchbook
+date: 2020-08-21 15:38:50
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1296845626114584576/
 tags:
 - sketchdaily
 - comics
-albums:
-- sketchbook
+title: Quiz Night Sketches
 ---
 
 I had nothing to contribute to tonight's quiz night, so this is what I did instead.
