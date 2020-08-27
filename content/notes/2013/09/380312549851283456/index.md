@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/380312549851283456/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “When you live in complete acceptance of what is, that is the end of all drama in your life.” ~Eckhart Tolle
+“When you live in complete acceptance of what is, that is the end of all drama in your life.” ~Eckhart Tolle

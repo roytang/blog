@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/645283201615794176/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): Make peace with what is.
+Make peace with what is.

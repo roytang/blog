@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/380576566444437504/
+title: ''
 ---
 
-RT [@DanSlott](https://twitter.com/DanSlott/): I &lt;3 Marvel Comics. You can just make s*** up. "How does THAT work?" Pym Particles. "Where's the excess energy go?" The Negat…
+I &lt;3 Marvel Comics. You can just make s*** up. "How does THAT work?" Pym Particles. "Where's the excess energy go?" The Negative Zone. NEXT!

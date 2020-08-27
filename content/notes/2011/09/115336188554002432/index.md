@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/115336188554002432/
+title: ''
 ---
 
-RT [@doblezeta](https://twitter.com/doblezeta/): We also updated the Traffic Violations and Penalties table as of August 2011. Print & keep a copy in your car. http://t.c ...
+We also updated the Traffic Violations and Penalties table as of August 2011. Print & keep a copy in your car. http://www.mmda.gov.ph/penalties.html

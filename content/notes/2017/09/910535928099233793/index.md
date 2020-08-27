@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/910535928099233793/
+title: ''
 ---
 
-RT [@jfkantrowitz](https://twitter.com/jfkantrowitz/): Retweet if you want other people's families to have health insurance. https://twitter.com/JohnJHarwood/status/910231408563638272
+Retweet if you want other people's families to have health insurance. https://twitter.com/JohnJHarwood/status/910231408563638272

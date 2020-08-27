@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/909209906045083648/
+title: ''
 ---
 
-RT [@jnery_newsstand](https://twitter.com/jnery_newsstand/): To which a logical reply would be: Mr. President, you're fixated on drugs. Are you a drug lord? https://twitter.com/momblogger/status/909001630229524480
+To which a logical reply would be: Mr. President, you're fixated on drugs. Are you a drug lord? https://twitter.com/momblogger/status/909001630229524480

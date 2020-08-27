@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/380545517538656256/
+title: ''
 ---
 
-RT [@emilyst](https://twitter.com/emilyst/): Remember that time Gandalf convinced the whole party to flee so that he could take out the Balrog and not have to share any of…
+Remember that time Gandalf convinced the whole party to flee so that he could take out the Balrog and not have to share any of the XP?

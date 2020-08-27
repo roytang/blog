@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/248058974576984064/
+title: ''
 ---
 
-RT [@mrmarkmillar](https://twitter.com/mrmarkmillar/): Best thing about being a geek is constantly having 20 things you're looking forward to. It must be so boring not havin ...
+Best thing about being a geek is constantly having 20 things you're looking forward to. It must be so boring not having our mind-set.

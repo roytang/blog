@@ -12,6 +12,7 @@ tags:
 - Philippines
 - DuterteHarry
 - tradewar
+title: ''
 ---
 
-RT [@WilliamPesek](https://twitter.com/WilliamPesek/): Duterte's nostalgia economics will end badly for #Philippines https://asia.nikkei.com/Opinion/Duterte-s-nostalgia-economics-will-end-badly-for-Philippines #DuterteHarry #tradewar
+Duterte's nostalgia economics will end badly for #Philippines https://asia.nikkei.com/Opinion/Duterte-s-nostalgia-economics-will-end-badly-for-Philippines #DuterteHarry #tradewar

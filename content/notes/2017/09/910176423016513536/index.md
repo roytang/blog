@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/910176423016513536/
+title: ''
 ---
 
-RT [@witchsenpai](https://twitter.com/witchsenpai/): DUTERTE MANDATES GOVERNMENT WORKERS TO PARTICIPATE THE COUNTER PROTEST RALLY https://t.co/NnJWUxqt0Y
+DUTERTE MANDATES GOVERNMENT WORKERS TO PARTICIPATE THE COUNTER PROTEST RALLY

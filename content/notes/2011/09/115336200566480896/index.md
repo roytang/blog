@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/115336200566480896/
+title: ''
 ---
 
-RT [@doblezeta](https://twitter.com/doblezeta/): Read & Print these: 10 Things That Drivers Should Know FAQ http://www.mmda.gov.ph/faq.html#page-1 & Procedure in Settling MMDA Ticket http: ...
+Read & Print these: 10 Things That Drivers Should Know FAQ http://www.mmda.gov.ph/faq.html#page-1 & Procedure in Settling MMDA Ticket http://www.mmda.gov.ph/faq.html#page-5

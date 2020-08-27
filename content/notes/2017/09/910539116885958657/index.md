@@ -12,4 +12,4 @@ tags:
 - DiNyoBaNaririnig
 ---
 
-RT [@RegisAndanar](https://twitter.com/RegisAndanar/): This Filipino version of Do You Hear the People Sing gave me chills. #DiNyoBaNaririnig https://t.co/KP5OpryVgo
+This Filipino version of Do You Hear the People Sing gave me chills. #DiNyoBaNaririnig

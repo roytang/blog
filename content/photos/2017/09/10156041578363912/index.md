@@ -4,7 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156041578363912
+- type: reddit
+  url: https://reddit.com/r/Philippines/comments/70t3xb/congress_response_to_metro_manila_traffic/
 tags:
+- philippines
 - mobile-uploads
 ---
 

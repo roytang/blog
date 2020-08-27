@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/909905420021506048/
+title: ''
 ---
 
-RT [@theawkwardyeti](https://twitter.com/theawkwardyeti/): my struggle http://theawkwardyeti.com https://t.co/QKPAToTVhp
+my struggle http://theawkwardyeti.com

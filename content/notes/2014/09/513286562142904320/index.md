@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/513286562142904320/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): "Here we are, trapped in the amber of the moment. There is no why." — Kurt Vonnegut
+"Here we are, trapped in the amber of the moment. There is no why." — Kurt Vonnegut

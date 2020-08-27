@@ -8,14 +8,35 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1042409039634685953/
+title: ''
 ---
 
-RT [@ThePracticalDev](https://twitter.com/ThePracticalDev/): 10 practices for readable code:
+10 practices for readable code:
+
+
 
 - Formatting
+
 - Dead code
+
 - Nested code
+
 - Using objects
+
 - Big blocks
+
 - Naming
-- Removi…
+
+- Removing comments
+
+- Reasonable returns
+
+- Rule of three
+
+- Symmetry
+
+
+
+{ author: [@gonedark](https://twitter.com/gonedark/) }
+
+https://dev.to/gonedark/10-practices-for-readable-code-143a
