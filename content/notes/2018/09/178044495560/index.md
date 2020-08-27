@@ -10,6 +10,8 @@ syndicated:
   url: https://tumblr.roytang.net/post/178044495560/theartofanimation-geco-hirasawa
 - type: twitter
   url: https://twitter.com/roytang/statuses/1040262225397784576/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1040268435924701186/  
 ---
 
 <p><a href="http://theartofanimation.tumblr.com/post/178042281738/geco-hirasawa-httpskywheelfooljp" class="tumblr_blog">theartofanimation</a>:</p><blockquote><p><a href="https://hira-geco.deviantart.com/">Geco Hirasawa

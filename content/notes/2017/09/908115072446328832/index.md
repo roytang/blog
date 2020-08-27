@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/908115072446328832/
+title: ''
 ---
 
-RT [@mrsunlawyer](https://twitter.com/mrsunlawyer/): Fave comment: yung di raw dapat SAGIP tawag sa kanila, kundi PIGSA, ahahahahaha! https://twitter.com/1nutty_hazel/status/908094786564788224
+Fave comment: yung di raw dapat SAGIP tawag sa kanila, kundi PIGSA, ahahahahaha! https://twitter.com/1nutty_hazel/status/908094786564788224

@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/246618216271597568/
+title: ''
 ---
 
-Speaking of comics, here's my favorite panel this week: (avx spoilers) https://t.co/BwqpIUCO
+Speaking of comics, here's my favorite panel this week: (avx spoilers)

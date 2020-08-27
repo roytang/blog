@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/246604728073605120/
+title: ''
 ---
 
-You're a guy living in the suburbs. You have a wife, two kids, and a secret: You're actually an octopus in disguise. http://bit.ly/TrzzQo
+You're a guy living in the suburbs. You have a wife, two kids, and a secret: You're actually an octopus in disguise. https://octodad.com/

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/908670856317906944/
+title: ''
 ---
 
-RT [@newsycombinator](https://twitter.com/newsycombinator/): Top ES6 features by example https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb?gi=2474a8c1364f
+Top ES6 features by example https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb

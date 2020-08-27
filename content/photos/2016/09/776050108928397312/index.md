@@ -1,5 +1,5 @@
 ---
-date: 2016-09-14 13:28:58
+date: 2016-09-14 13:28:58+00:00
 source: twitter
 syndicated:
 - type: twitter
@@ -9,6 +9,7 @@ syndicated:
 tags:
 - pokemongo
 - filthycasual
+title: ''
 ---
 
-Woohoo I took a gym #pokemongo #filthycasual https://t.co/6vQmwL75pC
+Woohoo I took a gym #pokemongo #filthycasual

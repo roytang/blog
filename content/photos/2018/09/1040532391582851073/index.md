@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1040532391582851073/
+title: ''
 ---
 
-I'm so stressed that for the first time I have an email account with double-digit unreads https://t.co/oF1FNMOFgC
+I'm so stressed that for the first time I have an email account with double-digit unreads

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/908556971594223619/
+title: ''
 ---
 
-RT [@TheMovementPHL](https://twitter.com/TheMovementPHL/): READ AND SHARE: Legal advisory by lawyers group [@nuplphilippines](https://twitter.com/nuplphilippines/) re random but mandatory bag searches by QC Police: htt…
+READ AND SHARE: Legal advisory by lawyers group [@nuplphilippines](https://twitter.com/nuplphilippines/) re random but mandatory bag searches by QC Police: https://m.facebook.com/story.php?story_fbid=831864423643378&id=823136361182851

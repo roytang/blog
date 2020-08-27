@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1040282287022071808/
+title: ''
 ---
 
-RT [@SunlessKhan](https://twitter.com/SunlessKhan/): This is Rocket League!
+This is Rocket League!
 
-https://www.youtube.com/watch?v=cIxmxDvHkWU&feature=youtu.be https://t.co/IxALy3FiVq
+
+
+https://youtu.be/cIxmxDvHkWU

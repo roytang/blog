@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/776463221892853760/
+title: ''
 ---
 
-RT [@richardbliss](https://twitter.com/richardbliss/): Great thought for today https://t.co/HtXWLZiyiq
+Great thought for today

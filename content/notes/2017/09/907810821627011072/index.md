@@ -10,13 +10,21 @@ syndicated:
   url: https://twitter.com/roytang/statuses/907810821627011072/
 tags:
 - Reload
+title: ''
 ---
 
-RT [@KimoForce](https://twitter.com/KimoForce/): iPhone
+iPhone
+
 iPhone X
+
 iPhone XX
+
 iPhone XX #Reload
+
 iPhone XX Accent Core
+
 iPhone XX Accent Core Plus
+
 iPhone Xrd -SIGN-
-iPhone Xrd Re…
+
+iPhone Xrd Revelator
