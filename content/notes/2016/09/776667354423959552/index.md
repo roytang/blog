@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/776667354423959552/
+title: ''
 ---
 
-RT [@DeKampanilya](https://twitter.com/DeKampanilya/): My father voted for Duterte. His reaction to Matobato's testimony: "Tayong mga taga-Dabaw, alam natin maraming totoo doon…
+My father voted for Duterte. His reaction to Matobato's testimony: "Tayong mga taga-Dabaw, alam natin maraming totoo doon."

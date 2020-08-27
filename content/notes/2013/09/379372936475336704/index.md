@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/379372936475336704/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “I always prefer to believe the best of everybody, it saves so much trouble.”  ~Rudyard Kipling
+“I always prefer to believe the best of everybody, it saves so much trouble.”  ~Rudyard Kipling

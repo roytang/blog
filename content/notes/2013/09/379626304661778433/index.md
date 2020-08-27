@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/379626304661778433/
 tags:
 - Science
+title: ''
 ---
 
-RT [@sciencequoter](https://twitter.com/sciencequoter/): Nothing great is ever accomplished by following standards - Geoffroy Birtz #Science
+Nothing great is ever accomplished by following standards - Geoffroy Birtz #Science

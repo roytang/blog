@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/511525441857806336/
+title: ''
 ---
 
-RT [@notch](https://twitter.com/notch/): Well, that killed http://notch.net, so here's a pastebin: https://pastebin.com/n1qTeikM
+Well, that killed http://notch.net, so here's a pastebin: http://pastebin.com/n1qTeikM

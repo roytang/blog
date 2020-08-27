@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/776432418685276161/
+title: ''
 ---
 
-RT [@williampietri](https://twitter.com/williampietri/): Your company's most valuable resource is people giving a shit. Ask yourself: does your system encourage or discourage th…
+Your company's most valuable resource is people giving a shit. Ask yourself: does your system encourage or discourage that?

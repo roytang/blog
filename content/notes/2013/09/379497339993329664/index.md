@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/379497339993329664/
 tags:
 - MissAmerica
+title: ''
 ---
 
-RT [@abbynormal0ne](https://twitter.com/abbynormal0ne/): A woman of Indian descent won #MissAmerica, &amp; Twitter is going full-on racist. Way to be classy, America. http://t.co/EX…
+A woman of Indian descent won #MissAmerica, &amp; Twitter is going full-on racist. Way to be classy, America. http://bit.ly/1egSEAN
