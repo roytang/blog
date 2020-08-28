@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/781333334580269056/
+title: ''
 ---
-
-RT [@CPHigson](https://twitter.com/CPHigson/): https://t.co/3DHsLzqB9Y

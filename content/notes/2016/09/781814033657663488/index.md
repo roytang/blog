@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/781814033657663488/
 tags:
 - Cagetember
+title: ''
 ---
 
-RT [@Netflix_PH](https://twitter.com/Netflix_PH/): [@roytang](https://twitter.com/roytang/) Clear your weekend schedule. #Cagetember is here.
+[@roytang](https://twitter.com/roytang/) Clear your weekend schedule. #Cagetember is here.

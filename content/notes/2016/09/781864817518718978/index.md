@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/781864817518718978/
+title: ''
 ---
 
-RT [@theawkwardyeti](https://twitter.com/theawkwardyeti/): Room amnesia https://t.co/AvMzKiChI9
+Room amnesia

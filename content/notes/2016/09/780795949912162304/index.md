@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/780795949912162304/
+title: ''
 ---
 
-RT [@audreydomasian](https://twitter.com/audreydomasian/): Reading comments on news article about Duterte saying US undermining PHL/manipulating peso depreciation when I see: SAD…
+Reading comments on news article about Duterte saying US undermining PHL/manipulating peso depreciation when I see: SADAM JOSE.

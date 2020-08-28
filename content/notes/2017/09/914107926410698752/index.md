@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/914107926410698752/
+title: ''
 ---
 
-RT [@b0rk](https://twitter.com/b0rk/): how to be a wizard programmer https://t.co/7xyfhswK6s
+how to be a wizard programmer

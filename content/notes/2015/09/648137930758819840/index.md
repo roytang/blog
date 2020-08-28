@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/648137930758819840/
+title: ''
 ---
 
-RT [@GreatestQuotes](https://twitter.com/GreatestQuotes/): Remember, today is the tomorrow you worried about yesterday.  - Dale Carnegie
+Remember, today is the tomorrow you worried about yesterday.  - Dale Carnegie

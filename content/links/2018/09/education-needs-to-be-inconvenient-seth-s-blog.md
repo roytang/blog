@@ -8,4 +8,7 @@ link:
 slug: education-needs-to-be-inconvenient-seth-s-blog
 source: pocket
 title: Education needs to be inconvenient | Seth's Blog
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1045744570645057543/
 ---

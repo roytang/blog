@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/913576893944799232/
+title: ''
 ---
 
-RT [@alicegoldfuss](https://twitter.com/alicegoldfuss/): ME: work/life balance is important
+ME: work/life balance is important
+
 ALSO ME: *codes all night, ruins hands*

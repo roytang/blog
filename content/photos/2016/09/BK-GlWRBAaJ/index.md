@@ -14,8 +14,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/781745574211092482/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154952328633912:0
+- type: reddit
+  url: https://reddit.com/r/Philippines/comments/5571wg/current_events/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/556wqp/september_30th_free_draw_friday/d882kbi/
 tags:
 - sketchdaily
+- philippines
 ---
 
-Current events #sketchdaily
+Current events #sketchdaily 

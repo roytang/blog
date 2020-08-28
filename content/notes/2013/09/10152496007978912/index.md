@@ -7,4 +7,22 @@ syndicated:
 tags: []
 ---
 
-Result of geekfight special earlier with Dens Alave and Luis Formilleza:  MARVEL CINEMATIC UNIVERSE - 6/10 X-MEN - 7/10 (Joker) CARTOON AUDIO - 3/10  AVENGERS - 8/10  GUARDIANS OF THE GALAXY - 9/10 SPIDER-MAN - 9/10 WRITERS AND ARTISTS - 15/20 VILLAINS - 9/10  Total: 73 pts, 6th place out of 11 teams. Boooo
+Result of geekfight special earlier with Dens Alave and Luis Formilleza:  
+
+MARVEL CINEMATIC UNIVERSE - 6/10 
+
+X-MEN - 7/10 (Joker) 
+
+CARTOON AUDIO - 3/10  
+
+AVENGERS - 8/10  
+
+GUARDIANS OF THE GALAXY - 9/10 
+
+SPIDER-MAN - 9/10 
+
+WRITERS AND ARTISTS - 15/20 
+
+VILLAINS - 9/10  
+
+Total: 73 pts, 6th place out of 11 teams. Boooo
