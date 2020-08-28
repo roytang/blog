@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/382867547680296960/
+title: ''
 ---
 
-RT [@RonJeffries](https://twitter.com/RonJeffries/): “[@jurgenappelo](https://twitter.com/jurgenappelo/): I Can't Draw: https://www.youtube.com/watch?v=kxPzQv8rWs4&feature=youtu.be&a via [@YouTube](https://twitter.com/YouTube/)” [ good story! well told ]
+“[@jurgenappelo](https://twitter.com/jurgenappelo/): I Can't Draw: http://youtu.be/kxPzQv8rWs4?a via [@YouTube](https://twitter.com/YouTube/)” [ good story! well told ]

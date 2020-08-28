@@ -10,6 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/780019629800337408/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154938962083912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154938962128912
+title: ''
 ---
 
-RT [@Lin_Manuel](https://twitter.com/Lin_Manuel/): This conversation happened 3 years ago. Keep writing. Get back to your piano. https://t.co/90csgeoLUv
+This conversation happened 3 years ago. Keep writing. Get back to your piano.

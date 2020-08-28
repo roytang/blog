@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/779145847036448768/
+title: ''
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): &lt;hunter&gt; what about girl na may bigote
+&lt;hunter&gt; what about girl na may bigote
+
 &lt;hunter&gt; &gt; Nagtagumpay ka ba?
+
 &lt;hunter&gt; &gt; bigo, te

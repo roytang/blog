@@ -8,9 +8,13 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/911730049534930944/
+title: ''
 ---
 
-RT [@ivanassen](https://twitter.com/ivanassen/): Levels of programmer enlightenment:
+Levels of programmer enlightenment:
+
 - my software is shit
+
 - all software is shit
+
 - everything is shit

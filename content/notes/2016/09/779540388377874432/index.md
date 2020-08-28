@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/779540388377874432/
+title: ''
 ---
 
-RT [@DeathStarPR](https://twitter.com/DeathStarPR/): Damn Galaxy Note S7 totally causing all those wind farmer fire-related deaths. https://t.co/B9iYpDZxQY
+Damn Galaxy Note S7 totally causing all those wind farmer fire-related deaths.

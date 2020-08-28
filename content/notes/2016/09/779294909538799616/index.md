@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/779294909538799616/
+title: ''
 ---
 
-RT [@DuncanAstle](https://twitter.com/DuncanAstle/): This is still the highlight of my week... easily. https://t.co/OqAOnKqd6A
+This is still the highlight of my week... easily.

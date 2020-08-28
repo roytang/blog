@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/911100503630651392/
 ---
 
-RT [@ipusongmamon](https://twitter.com/ipusongmamon/): https://t.co/2W7ho1vcoY
+RT [@ipusongmamon](https://twitter.com/ipusongmamon/): 

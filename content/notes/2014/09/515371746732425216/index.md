@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/515371746732425216/
+title: ''
 ---
 
-RT [@rocketkeis](https://twitter.com/rocketkeis/): Sometimes I think people shouldn't be looking for love. It just comes. Same goes for trouble.
+Sometimes I think people shouldn't be looking for love. It just comes. Same goes for trouble.

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/779682441011179520/
+title: ''
 ---
 
-RT [@mental_floss](https://twitter.com/mental_floss/): ‘Back to the Future’ Fan Theory Suggests the Trilogy is an Elaborate Chiasmus — http://mentalfloss.com/article/86265/back-future-fan-theory-suggests-trilogy-elaborate-chiasmus https://t.co/FSJ9…
+‘Back to the Future’ Fan Theory Suggests the Trilogy is an Elaborate Chiasmus — http://bit.ly/2cSzc11
