@@ -79,7 +79,13 @@ canonifyURLs = true
     featuredImage = "https://roytang.net/img/profile.jpg"
     description = "Roy Tang's blog. Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
     mainColor = "#57cc8a"
-    footline = "Webrings: [←](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous)🕸💍[→](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next) <a href='https://webring.xxiivv.com/#random' target='_blank'><img class='link' src='https://webring.xxiivv.com/icon.black.svg'/></a>"
+    footline = """
+Webrings:
+
+- [←](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous)🕸💍[→](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next)
+- <a href='https://webring.xxiivv.com/#random' target='_blank'><img class='link' src='https://webring.xxiivv.com/icon.black.svg'/></a>
+- **Geekring:** <a href='http://geekring.net/site/NUMBER/previous'>Previous</a> :: <a href='http://geekring.net/site/NUMBER/random'>Random</a> :: <a href='http://geekring.net/site/NUMBER/next'>Next</a>
+"""
     comments_enabled = true
     webmention_username = 'roytang.net'
     search_action = 'https://apps.roytang.net/blog/search'
