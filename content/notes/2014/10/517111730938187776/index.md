@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/517111730938187776/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “To do the useful thing, to say the courageous thing, to contemplate the beautiful thing: that is enough for one man’s life.”…
+“To do the useful thing, to say the courageous thing, to contemplate the beautiful thing: that is enough for one man’s life.”
+
+—  T.S. Eliot

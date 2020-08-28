@@ -8,12 +8,19 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/782355678882955265/
+title: ''
 ---
 
-RT [@ShoAyson](https://twitter.com/ShoAyson/): *McDonald's drive-thru*
+*McDonald's drive-thru*
+
+
 
 Duterte: Isang chicken mcdo
 
+
+
 Employee: Ano po sir?
+
+
 
 Abella: BFF fries daw po

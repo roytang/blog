@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/517344055982694401/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “The greatest art is to sit, and wait, and let it come.”
+“The greatest art is to sit, and wait, and let it come.”
+
 —  Yogi Bhajan
