@@ -1,5 +1,5 @@
 ---
-date: 2020-08-30T16:10:10+08:00
+date: 2020-08-30
 tags:
 - weeknotes
 title: Weeknotes 2020-08-30
@@ -24,7 +24,8 @@ Here are the things I've been watching and playing the past week:
 - watched **Bill and Ted Face the Music**, this was a most excellent sequel. I found the start a bit clunky (I always find it awkward watching characters be awkward), but the rest of it was a fun and sweet adventure that echoed elements of both of the first two movies. A lot of the time travel stuff didn't make any sense if you sat down and thought about it, but I was smiling through a lot of it. Little Billie and Theda are great!
 - also watched **Superman: Man of Tomorrow**, the first entry in the new DC animated universe (following the reboot at the end of Justice League Dark: Apokolips). Yet another Superman origin story here. Not too happy with this one. Not fond of the animated style, and the writing and plot seemed weird at many points. I felt like there could have been a better way to resolve the whole situation with the big bad that felt more "Superman"-like, and the movie doesn't seem to earn the monicker "Man of Tomorrow" for the hero.
 - for one reason or another, I also ended up watching a few standup specials on Amazon Prime. A couple from Craig Ferguson, and one from Jimmy Yang.
-
+- Cobra Kai is now on Netflix! Yet another thing to add to the ever-increasing backlog.
+  
 Some tech stuff: 
 
 - I have about three months left on my Webfaction hosting, which I've [been planning to migrate away from](/2019/03/rip-webfaction/). I'm currently leaning towards getting a cheap $5/mo VPS from Linode, although I'm still willing to accept any recommendations. Switching to a VPS means more effort (since it won't be a managed service anymore), but that should provide some learning opportunities. It's just as well anyway, my apps have been pushing the memory limits on the current hosting, and even the cheapest Linode VPS provides more RAM.  I'll probably start looking into the migration in September.
