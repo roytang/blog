@@ -1,5 +1,10 @@
 ---
 date: 2020-08-30
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104777554648802517
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1299997811367227393/
 tags:
 - weeknotes
 title: Weeknotes 2020-08-30
