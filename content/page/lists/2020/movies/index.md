@@ -69,3 +69,5 @@ Ratings scale:
 | 41 | Mission Impossible Fallout | 2018 | Jun 29 | Good watch, it's MI, you know how it goes. Maybe 40% of it is Tom Cruise running.  | 3 |
 | 42 | Atomic Blonde | 2017 | Jul 11 | I came in thinking it was a John Wick style action movie. True, but it's also a Cold War spy thriller. Nice twists, but might be a bit hard to follow near the end. | 3 |
 | 43 | The Old Guard | 2020 | Jul 12 | Didn't know what to expect, never read the Greg Rucka graphic novel on which it was based. Action-packed, fun watch. | 4 |
+| 44 | Superman Man of Tomorrow | 2020 | Aug 28 | Not too good. Weird animation. Writing all over the place. | 3 |
+| 45 | Bill and Ted Face the Music | 2020 | Aug 29 | A most excellent sequel, echoing the earlier two movies. A midlife crisis journey full of heart and time travel nonsense. Little Billie and Theda are great!  | 5 |
