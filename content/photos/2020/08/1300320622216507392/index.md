@@ -1,9 +1,11 @@
 ---
-date: 2020-08-31 06:32:49+00:00
+date: 2020-08-31 06:32:49
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1300320622216507392/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1300334359824576512/
 tags:
 - mtg
 - magicarena
@@ -11,3 +13,5 @@ title: ''
 ---
 
 Decided to risk my precious gems playing Ikoria Turbo Draft on #magicarena. Turned out well! Just need to draft crystals (essentially moxes). Draw cards and counterspells are great, so blue is best in this format apparently. #mtg
+
+Okay, I had a lot of fun so I did another one. No Boon of the Wish Giver meant the deck wasn't as strong. This one was a lot closer, but managed to get there.
