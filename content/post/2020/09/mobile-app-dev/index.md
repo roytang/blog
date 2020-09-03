@@ -1,10 +1,15 @@
 ---
-title: "On Mobile App Development"
-slug: mobile-app-dev
 date: 2020-09-03
+slug: mobile-app-dev
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104799142180634143
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1301379411577462784/
 tags:
 - software development
 - tech life
+title: On Mobile App Development
 ---
 
 This post is just quite a few thoughts on mobile apps and mobile app development, all mishmashed together. I don't claim to be a mobile app specialist, at best I've *dabbled* in them, but enough to form some opinions I guess?
