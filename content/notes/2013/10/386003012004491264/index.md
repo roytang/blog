@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/386003012004491264/
 tags:
 - walangpasok
+title: ''
 ---
 
-RT [@ANCALERTS](https://twitter.com/ANCALERTS/): Pres. Aquino declares Oct. 15 a holiday for Eid'l Adha #walangpasok
+Pres. Aquino declares Oct. 15 a holiday for Eid'l Adha #walangpasok

@@ -8,8 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/915916353579577344/
+title: ''
 ---
 
-RT [@mikedoherty_ca](https://twitter.com/mikedoherty_ca/): "TODO: This is a temporary hack and will be removed."
+"TODO: This is a temporary hack and will be removed."
+
+
 
 Narrator: It was not ever removed

@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/517675645971607552/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “A Zen master’s life is one continuous mistake.”
+“A Zen master’s life is one continuous mistake.”
+
 —  Dogen

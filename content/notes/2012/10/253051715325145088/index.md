@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/253051715325145088/
+title: ''
 ---
 
-RT [@CMPunk](https://twitter.com/CMPunk/): I am hungry. Please RT
+I am hungry. Please RT

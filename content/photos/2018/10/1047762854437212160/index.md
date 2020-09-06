@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1047762854437212160/
+title: ''
 ---
 
-I platinumed a 5 year old game! https://t.co/QYpUZedo3W
+I platinumed a 5 year old game!

@@ -9,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1048602104892276743/
+title: ''
 ---
 
-[@jaymelynilao](https://twitter.com/jaymelynilao/) https://t.co/fqZwj6434N
+[@jaymelynilao](https://twitter.com/jaymelynilao/)

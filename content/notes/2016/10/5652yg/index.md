@@ -4,6 +4,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/5652yg/from_the_local_version_of_a_few_good_men/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154969534528912
 tags:
 - philippines
 ---

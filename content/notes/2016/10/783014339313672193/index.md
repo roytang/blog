@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/783014339313672193/
+title: ''
 ---
 
-RT [@Grady_Booch](https://twitter.com/Grady_Booch/): From the wonderful mind of David Sedaris. https://t.co/Dz1E68g663
+From the wonderful mind of David Sedaris.

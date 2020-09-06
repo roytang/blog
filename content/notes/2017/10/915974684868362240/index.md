@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/915974684868362240/
+title: ''
 ---
 
-RT [@GreatestQuotes](https://twitter.com/GreatestQuotes/): "Self-praise is for losers. Be a winner. Stand for something. Always have class, and be humble." - John Madden
+"Self-praise is for losers. Be a winner. Stand for something. Always have class, and be humble." - John Madden

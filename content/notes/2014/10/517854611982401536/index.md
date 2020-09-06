@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/517854611982401536/
+title: ''
 ---
 
-RT [@ramit](https://twitter.com/ramit/): These are some of the actual ballot boxes that were used for voting in the Philippines. ... https://www.instagram.com/p/trCzTgjkur/ http://t.co/U…
+These are some of the actual ballot boxes that were used for voting in the Philippines. ... http://ift.tt/YWsTAI
