@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1049143564062482432/
 tags:
 - HannahArendt
+title: ''
 ---
 
-RT [@ChrisEvans](https://twitter.com/ChrisEvans/): Sound familiar? #HannahArendt https://t.co/GawEnATI2R
+Sound familiar? #HannahArendt

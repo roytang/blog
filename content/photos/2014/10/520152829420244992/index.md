@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/520152829420244992/
+title: ''
 ---
 
-Apparently may nagaattempt pa din ng pasaload scams. Dba may verification message na? [@talk2GLOBE](https://twitter.com/talk2GLOBE/) https://t.co/bF8toOyg00
+Apparently may nagaattempt pa din ng pasaload scams. Dba may verification message na? [@talk2GLOBE](https://twitter.com/talk2GLOBE/)

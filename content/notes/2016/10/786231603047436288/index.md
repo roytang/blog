@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/786231603047436288/
+title: ''
 ---
 
-RT @Lizzytearjerky: Pag-ibig nga nya kaya mong intayin, pasko pa kaya? 😢😂 okay lang yan [@gmanews](https://twitter.com/gmanews/) https://t.co/qBwFcARQlY
+Pag-ibig nga nya kaya mong intayin, pasko pa kaya? 😢😂 okay lang yan [@gmanews](https://twitter.com/gmanews/)

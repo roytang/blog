@@ -11,6 +11,7 @@ syndicated:
 tags:
 - FFXV
 - postingforposterity
+title: ''
 ---
 
-RT [@DiceSMS](https://twitter.com/DiceSMS/): #FFXV #postingforposterity https://t.co/JaTumYKZcJ
+#FFXV #postingforposterity

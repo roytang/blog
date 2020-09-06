@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/784352092714446848/
+title: ''
 ---
 
-RT [@dorrismccomics](https://twitter.com/dorrismccomics/): me https://t.co/vAfnEzPuOx
+me

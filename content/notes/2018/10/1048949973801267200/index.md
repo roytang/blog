@@ -9,4 +9,5 @@ syndicated:
 ---
 
 Huh, surprisingly despite Yahoo Messenger being dead, you can still download your messenger data until Nov 2018 https://help.yahoo.com/kb/messenger/SLN28776.html
-sheesh. I got the notif that my download was ready and I clicked the link but it said "Your download request has been completed, but no data of this type is available in your account." I'm sure I used that service [@Yahoo](https://twitter.com/Yahoo/)!
+
+sheesh. I got the notif that my download was ready and I clicked the link but it said "Your download request has been completed, but no data of this type is available in your account." I'm sure I used that service [@Yahoo](https://twitter.com/Yahoo/)!

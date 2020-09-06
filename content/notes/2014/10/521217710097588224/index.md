@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/521217710097588224/
+title: ''
 ---
 
-RT [@WriterLe](https://twitter.com/WriterLe/): Geekify your Starbucks... https://t.co/qqPZCzb4O0
+Geekify your Starbucks...

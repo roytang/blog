@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/917039434855358464/
+title: ''
 ---
 
-Prize pack rares from today’s modern pptq. 4th place with GDS! (but i didnt get any Opt! lol) cc [@aleksfelipe](https://twitter.com/aleksfelipe/) https://t.co/DLzf77Wmrs
+Prize pack rares from today’s modern pptq. 4th place with GDS! (but i didnt get any Opt! lol) cc [@aleksfelipe](https://twitter.com/aleksfelipe/)

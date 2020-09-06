@@ -8,4 +8,7 @@ link:
 slug: microsoft-vscode-tips-and-tricks-collection-of-helpful-tips-and-tricks-for
 source: pocket
 title: 'Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1049225420586008576/
 ---

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/786197733837197312/
+title: ''
 ---
 
-RT [@rasmus](https://twitter.com/rasmus/): Just arrived in the land of PHP https://t.co/wLI2pL1lGx
+Just arrived in the land of PHP
