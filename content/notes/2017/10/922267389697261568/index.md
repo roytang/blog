@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/922267389697261568/
+title: ''
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): &lt;hunter&gt; let's escape
+&lt;hunter&gt; let's escape
+
 &lt;hunter&gt; and never come back

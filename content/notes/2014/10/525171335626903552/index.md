@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/525171335626903552/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “Be willing to be a beginner every single morning”
+“Be willing to be a beginner every single morning”
+
 —   Meister Eckhart

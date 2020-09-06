@@ -7,6 +7,7 @@ syndicated:
 tags:
 - skyrim
 - lategamer
+title: ''
 ---
 
-I finally found a Legendary Dragon!! I can finally put this game to rest lol #skyrim #lategamer https://t.co/ql2HrwkEfd
+I finally found a Legendary Dragon!! I can finally put this game to rest lol #skyrim #lategamer

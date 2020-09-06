@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/657482948409606145/
+title: ''
 ---
 
-RT [@DickGordonDG](https://twitter.com/DickGordonDG/): The sad fact in this country is that people elect in terms of winnability not suitability.
+The sad fact in this country is that people elect in terms of winnability not suitability.

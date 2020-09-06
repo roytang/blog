@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1054039471300141057/
+title: ''
 ---
 
-RT [@stephanpastis](https://twitter.com/stephanpastis/): What to tell the healthy people in your life. https://t.co/qpvNwl5Fob
+What to tell the healthy people in your life.

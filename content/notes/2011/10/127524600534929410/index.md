@@ -4,8 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/127524600534929410/
-tags:
-- mtg
+title: ''
 ---
 
-My first innistrad draft: http://i.imgur.com/wKYc5.jpg
+My first innistrad draft: https://i.imgur.com/wKYc5.jpg

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/261122892991979520/
+title: ''
 ---
 
-RT [@MrAlanCooper](https://twitter.com/MrAlanCooper/): Years ago I worried that once all of the software was made easy to use, I'd have nothing to do. HA!
+Years ago I worried that once all of the software was made easy to use, I'd have nothing to do. HA!

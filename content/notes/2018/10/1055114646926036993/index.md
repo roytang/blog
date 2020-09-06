@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1055114646926036993/
+title: ''
 ---
-
-RT [@stephanpastis](https://twitter.com/stephanpastis/): https://t.co/N7wPZEox92

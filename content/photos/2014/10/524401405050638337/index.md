@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/524401405050638337/
+title: ''
 ---
 
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) here are today's spammers. Dumadami ata recently https://t.co/yZjKekOVMQ
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) here are today's spammers. Dumadami ata recently

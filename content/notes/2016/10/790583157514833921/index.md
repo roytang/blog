@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/790583157514833921/
+title: ''
 ---
 
-RT [@kottke](https://twitter.com/kottke/): The Most Efficient Way to Destroy the Universe (it involves "spheres of death") https://kottke.org/16/10/the-most-efficient-way-to-destroy-the-universe
+The Most Efficient Way to Destroy the Universe (it involves "spheres of death") http://kottke.org/16/10/the-most-efficient-way-to-destroy-the-universe

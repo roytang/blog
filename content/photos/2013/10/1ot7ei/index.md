@@ -4,6 +4,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/AdviceAnimals/comments/1ot7ei/yoda_does_chicago/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/391737529243664384/  
 tags:
 - adviceanimals
 ---

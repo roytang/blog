@@ -9,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/656668364295663616/
+title: ''
 ---
 
-[@aleksfelipe](https://twitter.com/aleksfelipe/) wala https://t.co/6jH4i8ivLZ
+[@aleksfelipe](https://twitter.com/aleksfelipe/) wala
