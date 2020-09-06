@@ -1,5 +1,10 @@
 ---
 date: 2020-09-06
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104817230126700952
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1302537040517427200/
 tags:
 - weeknotes
 title: Weeknotes 2020-09-06
@@ -18,4 +23,4 @@ Gaming this week was pretty good!
 - already half way through the Super Mario 3D Land special worlds. Speaking of Mario, Nintendo announced a bunch of new Mario releases for the Switch this past week, which significantly increases my want for a Switch. Let's see how long I can hold off.
 - still playing my regular games with the playgroups: Starcraft 2 Coop, Blood Rage
   
-Since it's September, I've been doing my regularly quarterly data backups/exports. One of them is Google Takeout. The last one was back in April, and that last export was 27 chunks (they split it into 2GB or less chunks). The new one is 44 chunks! I suspect the huge increase is because I've been streaming on Twitch and exporting them to Youtube, so they're probably part of this current export. I didn't even export everything this time, since I don't need to re-export data from those services I'm no longer using. One of my ongoing projects is reducing my Google footprint, so I need to figure out how to get the size of this export down. 
+Since it's September, I've been doing my regularly quarterly data backups/exports. One of them is Google Takeout. The last one was back in April, and that last export was 27 chunks (they split it into 2GB or less chunks). The new one is 44 chunks! I suspect the huge increase is because I've been streaming on Twitch and exporting them to Youtube, so they're probably part of this current export. I didn't even export everything this time, since I don't need to re-export data from those services I'm no longer using. One of my ongoing projects is reducing my Google footprint, so I need to figure out how to get the size of this export down.
