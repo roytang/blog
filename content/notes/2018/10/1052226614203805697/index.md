@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1052226614203805697/
+title: ''
 ---
 
-RT [@SICKOFWOLVES](https://twitter.com/SICKOFWOLVES/): IF YOU DO ENOUGH UNPAID OVERTIME YOU GET A TOMBSTONE THAT SAYS GREAT TEAM MEMBER
+IF YOU DO ENOUGH UNPAID OVERTIME YOU GET A TOMBSTONE THAT SAYS GREAT TEAM MEMBER

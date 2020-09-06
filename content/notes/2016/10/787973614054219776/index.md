@@ -8,9 +8,13 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/787973614054219776/
+title: ''
 ---
 
-RT [@adamjmartin](https://twitter.com/adamjmartin/): best thing I've seen today
+best thing I've seen today
+
 kid points at woman in niqab: mom! look! ninja!
+
 mom: uhh…errrr…
-niqab wearing woman: *strikes a…
+
+niqab wearing woman: *strikes awesome ninja pose*

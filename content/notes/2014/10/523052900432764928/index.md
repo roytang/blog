@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/523052900432764928/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “Happiness consists in getting enough sleep. Just that, nothing more.” ― Robert A. Heinlein
+“Happiness consists in getting enough sleep. Just that, nothing more.” ― Robert A. Heinlein

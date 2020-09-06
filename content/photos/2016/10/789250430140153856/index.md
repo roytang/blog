@@ -1,5 +1,5 @@
 ---
-date: 2016-10-20 23:42:20
+date: 2016-10-20 23:42:20+00:00
 source: twitter
 syndicated:
 - type: twitter
@@ -9,6 +9,7 @@ syndicated:
 tags:
 - OneMoreTurn
 - Civilization6
+title: ''
 ---
 
-Today's agenda: stand the test of time #OneMoreTurn #Civilization6 https://t.co/CMsqNKRNZK
+Today's agenda: stand the test of time #OneMoreTurn #Civilization6

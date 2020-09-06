@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/921410756108627969/
+title: ''
 ---
 
-RT [@quinnnorton](https://twitter.com/quinnnorton/): Well, I'm getting on a 14 hour flight, seems the best possible time to publish this: https://medium.com/@quinnnorton/robert-scoble-and-me-9b14ee92fffb
+Well, I'm getting on a 14 hour flight, seems the best possible time to publish this: https://medium.com/@quinnnorton/robert-scoble-and-me-9b14ee92fffb

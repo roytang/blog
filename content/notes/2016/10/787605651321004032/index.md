@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/787605651321004032/
 tags:
 - PresidentDuterte
+title: ''
 ---
 
-RT [@momblogger](https://twitter.com/momblogger/): To #PresidentDuterte supporters, If you are doing any of these, then you are most likely not helping him succeed https://t.…
+To #PresidentDuterte supporters, If you are doing any of these, then you are most likely not helping him succeed http://blogwatch.tv/2016/10/10-mistakes-filipinos-commit-that-may-lead-to-dutertes-failure-as-president/

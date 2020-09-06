@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/259266126419226624/
 tags:
 - traffic
+title: ''
 ---
 
-RT [@abeolandres](https://twitter.com/abeolandres/): MMDA should impose a metrowode ban against Friday-Night Mega Sale. #traffic
+MMDA should impose a metrowode ban against Friday-Night Mega Sale. #traffic

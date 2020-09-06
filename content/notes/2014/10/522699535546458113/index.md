@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/522699535546458113/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “You must live in the present, launch yourself on every wave, find your eternity in each moment.”
+“You must live in the present, launch yourself on every wave, find your eternity in each moment.”
+
 —  Henry David Thoreau

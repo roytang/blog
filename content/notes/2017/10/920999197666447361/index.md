@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/920999197666447361/
+title: ''
 ---
-
-RT [@MaroonStudiosPH](https://twitter.com/MaroonStudiosPH/): https://t.co/yXmNlCqg36

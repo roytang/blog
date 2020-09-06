@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/921389664224755712/
+title: ''
 ---
 
-RT [@gabmadrid](https://twitter.com/gabmadrid/): RT if you're a Filipino and you want Filipinas to be whatever they want to be https://twitter.com/noy_felipe/status/920986457946361858
+RT if you're a Filipino and you want Filipinas to be whatever they want to be https://twitter.com/noy_felipe/status/920986457946361858

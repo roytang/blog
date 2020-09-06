@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/786605431820988416/
+title: ''
 ---
 
-RT [@LaTtEX](https://twitter.com/LaTtEX/): I heard from an inside source that MOCHA USON BLOG is allegedly funded by the CIA... Chinese Intelligence Agency. How true?
+I heard from an inside source that MOCHA USON BLOG is allegedly funded by the CIA... Chinese Intelligence Agency. How true?

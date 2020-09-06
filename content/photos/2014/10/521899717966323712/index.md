@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/521899717966323712/
 ---
 
-RT [@SciencePorn](https://twitter.com/SciencePorn/): Yeah Brain you are right, I should lock my heart up. https://t.co/hv7ldGjARu
+RT [@SciencePorn](https://twitter.com/SciencePorn/): Yeah Brain you are right, I should lock my heart up.

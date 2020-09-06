@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/522701050218680321/
+title: ''
 ---
 
-RT [@TheEconomist](https://twitter.com/TheEconomist/): Get a life: a new paper shows that the harder you work, the fatter you get https://www.economist.com/free-exchange/2014/10/14/get-a-life-or-get-fat?fsrc=scn/tw/te/bl/getalifeorgetfat https://t.co/I4gXxZGiMv
+Get a life: a new paper shows that the harder you work, the fatter you get http://econ.st/1qpiHYt

@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/789102386102931456/
 tags:
 - Logan
+title: ''
 ---
 
-RT [@SirPatStew](https://twitter.com/SirPatStew/): It IS a different world now. New #Logan trailer out now. 3.3.17. https://twitter.com/WolverineMovie/status/789088556761223168
+It IS a different world now. New #Logan trailer out now. 3.3.17. https://twitter.com/WolverineMovie/status/789088556761223168

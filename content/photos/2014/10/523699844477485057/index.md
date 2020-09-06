@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/523699844477485057/
+title: ''
 ---
 
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) here are some more spammers and scammers https://t.co/E45CZ86Mwg
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) here are some more spammers and scammers

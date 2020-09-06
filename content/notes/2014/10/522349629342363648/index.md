@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/522349629342363648/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “If I get up every day with the optimism that I have the capacity for growth, then that’s success for me.” — Paula Scher
+“If I get up every day with the optimism that I have the capacity for growth, then that’s success for me.” — Paula Scher

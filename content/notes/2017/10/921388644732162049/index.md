@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/921388644732162049/
+title: ''
 ---
 
-RT [@sehurlburt](https://twitter.com/sehurlburt/): Confession: I didn't go into computer science bc I loved it &amp; I didnt love it in school. I needed $ and math wasn't working…
+Confession: I didn't go into computer science bc I loved it &amp; I didnt love it in school. I needed $ and math wasn't working out for a career

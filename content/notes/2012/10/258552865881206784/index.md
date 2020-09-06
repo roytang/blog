@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/258552865881206784/
+title: ''
 ---
 
-RT [@multipleegos](https://twitter.com/multipleegos/): Attention Civilization fans: Alpha Centauri has a planet. Technological victory unlocked. http://blogs.discovermagazine.com/badastronomy/2012/10/16/alpha-centauri-has-a-planet/ via @sh ...
+Attention Civilization fans: Alpha Centauri has a planet. Technological victory unlocked. http://shar.es/caQc5 via @sharethis
