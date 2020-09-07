@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/794931152490373120/
+title: ''
 ---
 
-[@aleksfelipe](https://twitter.com/aleksfelipe/) [@switchfollows](https://twitter.com/switchfollows/) opened a KLD box https://t.co/pR9PRFfvZZ
+[@aleksfelipe](https://twitter.com/aleksfelipe/) [@switchfollows](https://twitter.com/switchfollows/) opened a KLD box

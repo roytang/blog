@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1058318111898710017/
+title: ''
 ---
 
-RT [@Ozzymoto27](https://twitter.com/Ozzymoto27/): George Clooney's response to [@realDonaldTrump](https://twitter.com/realDonaldTrump/) after he called him a hollywood elite is a great read. https://t.co/dif0dqdOmb
+George Clooney's response to [@realDonaldTrump](https://twitter.com/realDonaldTrump/) after he called him a hollywood elite is a great read.

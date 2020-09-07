@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/529406869517791232/
+title: ''
 ---
 
-RT [@Seanbabydotcom](https://twitter.com/Seanbabydotcom/): People always forget that besides the spider powers, Peter Parker is also a super genius. https://t.co/JUujG0srMH
+People always forget that besides the spider powers, Peter Parker is also a super genius.

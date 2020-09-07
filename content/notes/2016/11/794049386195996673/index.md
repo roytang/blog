@@ -8,6 +8,13 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/794049386195996673/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155057285968912
+albums:
+- timeline
+tags:
+- timeline-photos
+title: ''
 ---
 
-RT [@jimgale](https://twitter.com/jimgale/): [@shanselman](https://twitter.com/shanselman/) Not sure if this is a repost or I went back in time... https://t.co/Rv9bC4S1Lm
+[@shanselman](https://twitter.com/shanselman/) Not sure if this is a repost or I went back in time...

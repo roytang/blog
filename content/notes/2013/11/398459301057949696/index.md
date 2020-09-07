@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane yan din hula namin. Answer was grosby. Last q na next
-[@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane during the 2013 draft how many of their 3 first round picks did barako bulls trade away?
+
+[@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane during the 2013 draft how many of their 3 first round picks did barako bulls trade away?

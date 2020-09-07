@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/926289004340789249/
 tags:
 - TalkLikeAPirateDay
+title: ''
 ---
 
-RT [@WeebSimpsons](https://twitter.com/WeebSimpsons/): #TalkLikeAPirateDay https://t.co/HXkC1F5qYj
+#TalkLikeAPirateDay

@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/926116653888180224/
 tags:
 - SFV
+title: ''
 ---
 
-Almost season 3 and #SFV still has terrible hair https://t.co/38oDgYCsjF
+Almost season 3 and #SFV still has terrible hair

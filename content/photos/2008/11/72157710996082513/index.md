@@ -11,4 +11,4 @@ tags:
 
 Toys on my desktop at work. Mostly LEGO!
 
-<i>Uploaded with the <a href=\"http://www.flock.com/\">Flock Browser</a></i>
+_Uploaded with the [Flock Browser](http://www.flock.com/)_
