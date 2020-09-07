@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/791584214508445696/
+title: ''
 ---
 
-RT [@ixrated](https://twitter.com/ixrated/): Noli de Camberbatch. 😂
-[@jeffcanoy](https://twitter.com/jeffcanoy/) [@jamsisante](https://twitter.com/jamsisante/) [@hilarion](https://twitter.com/hilarion/) [@beacupin](https://twitter.com/beacupin/) [@thysz](https://twitter.com/thysz/) https://t.co/9WVAXJdIAw
+Noli de Camberbatch. 😂
+
+[@jeffcanoy](https://twitter.com/jeffcanoy/) [@jamsisante](https://twitter.com/jamsisante/) [@hilarion](https://twitter.com/hilarion/) [@beacupin](https://twitter.com/beacupin/) [@thysz](https://twitter.com/thysz/)

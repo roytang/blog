@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/262577614730977280/
+title: ''
 ---
 
-RT [@rocketkeis](https://twitter.com/rocketkeis/): RT [@Brandietan](https://twitter.com/Brandietan/): The Power Of Introverts - https://t.co/S9YjoRb
+RT [@Brandietan](https://twitter.com/Brandietan/): The Power Of Introverts - http://flpbd.it/yQ1oy

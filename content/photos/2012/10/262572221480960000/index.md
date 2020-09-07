@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/262572221480960000/
+title: ''
 ---
 
-Late night cheese snack (I'm now one of those people who takes pictures of food) https://t.co/yymA4igE
+Late night cheese snack (I'm now one of those people who takes pictures of food)

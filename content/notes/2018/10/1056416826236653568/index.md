@@ -10,9 +10,15 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1056416826236653568/
 tags:
 - CanadaCup2018
+title: ''
 ---
 
-RT [@HiFightTH](https://twitter.com/HiFightTH/): STEERING WHEEL CONTROLLER!!!!!!?????
+STEERING WHEEL CONTROLLER!!!!!!?????
+
 #CanadaCup2018 
 
-https://www.twitch.tv/canadacupgaming https://t.co/QfGB9KrUBC
+
+
+https://www.twitch.tv/canadacupgaming 
+
+{{< video width="320" height="180" src="https://video.twimg.com/ext_tw_video/1056314894214225920/pu/vid/1280x720/KBAjUJX8Mgqsc4qy.mp4?tag=5" >}}

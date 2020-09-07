@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/791076805369135104/
+title: ''
 ---
 
-RT [@StephenAtHome](https://twitter.com/StephenAtHome/): Emma Watson wrote a note urging Americans to vote. She didn't spend her childhood fighting a dark lord so we could elect…
+Emma Watson wrote a note urging Americans to vote. She didn't spend her childhood fighting a dark lord so we could elect one.

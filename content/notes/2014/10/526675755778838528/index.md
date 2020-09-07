@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/526675755778838528/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “It is a rough road that leads to the heights of greatness.”
+“It is a rough road that leads to the heights of greatness.”
+
 —  Seneca

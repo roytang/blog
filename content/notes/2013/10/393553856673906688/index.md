@@ -11,6 +11,7 @@ syndicated:
 tags:
 - reddit
 - flipboard
+title: ''
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): What I think of the new iPad Air slogan [r/funny] http://i.imgur.com/ZQn8jsB.jpg?utm_source=twitterfeed&utm_medium=twitter #reddit #flipboard
+What I think of the new iPad Air slogan [r/funny] http://bit.ly/1d3OwS3 #reddit #flipboard

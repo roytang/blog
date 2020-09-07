@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/525859753344258048/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “I don’t think that people accept the fact that life doesn’t make sense. I think it makes people terribly uncomfortable.” —Da…
+“I don’t think that people accept the fact that life doesn’t make sense. I think it makes people terribly uncomfortable.” —David Lynch

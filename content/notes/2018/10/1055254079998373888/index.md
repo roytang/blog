@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1055254079998373888/
+title: ''
 ---
 
-RT [@ronaldgem](https://twitter.com/ronaldgem/): CELEBRITIES WHO ENDORSED MARCOS IN 2016: A THREAD
+CELEBRITIES WHO ENDORSED MARCOS IN 2016: A THREAD

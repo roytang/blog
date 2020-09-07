@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/791137402681188353/
+title: ''
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): &lt;hunter&gt; ganyan ang mga pilipino, hindi kaya sumagot directly ng tanong
+&lt;hunter&gt; ganyan ang mga pilipino, hindi kaya sumagot directly ng tanong
+
 &lt;hunter&gt; "kumain ka na?" "busog pa ko e"
