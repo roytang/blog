@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1057107511596134400/
+title: ''
 ---
 
-[@VGAdvisor](https://twitter.com/VGAdvisor/) https://t.co/g9RGsA1WBN
+[@VGAdvisor](https://twitter.com/VGAdvisor/)

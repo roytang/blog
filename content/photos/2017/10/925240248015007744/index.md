@@ -1,5 +1,5 @@
 ---
-date: 2017-10-31 05:57:19
+date: 2017-10-31 05:57:19+00:00
 source: twitter
 syndicated:
 - type: twitter
@@ -10,6 +10,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156149705203912
 tags:
 - mtg
+title: ''
 ---
 
-What should I do with these stacks of foils? #mtg https://t.co/QfT01CAK7r
+What should I do with these stacks of foils? #mtg

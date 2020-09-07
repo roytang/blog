@@ -11,6 +11,9 @@ syndicated:
 tags:
 - SpiderManPS4
 - ParisGamesWeek2017
+title: ''
 ---
 
-RT [@insomniacgames](https://twitter.com/insomniacgames/): Watch our brand new #SpiderManPS4 teaser trailer from #ParisGamesWeek2017 now! https://t.co/DjpQUnyXrO
+Watch our brand new #SpiderManPS4 teaser trailer from #ParisGamesWeek2017 now! 
+
+{{< video width="320" height="180" src="https://video.twimg.com/amplify_video/925022682759991296/vid/1280x720/nzRB1eXolNixN7tr.mp4" >}}

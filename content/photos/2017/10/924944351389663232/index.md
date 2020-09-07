@@ -8,6 +8,7 @@ tags:
 - KingdomHearts2
 - Fb
 - PS4share
+title: ''
 ---
 
-I think I'm skipping the  platinum for this one lol #KingdomHearts2 #Fb #PS4share https://store.playstation.com/#!/en-us/tid=CUSA05933_00 https://t.co/KLWuRZE51P
+I think I'm skipping the  platinum for this one lol #KingdomHearts2 #Fb #PS4share https://store.playstation.com/#!/en-us/tid=CUSA05933_00

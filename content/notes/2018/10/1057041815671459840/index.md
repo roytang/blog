@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1057041815671459840/
+title: ''
 ---
 
-RT [@tasmen](https://twitter.com/tasmen/): Friends decorate outside their house for Halloween each year. This is not ok. https://t.co/TsmBOloZUk
+Friends decorate outside their house for Halloween each year. This is not ok.
