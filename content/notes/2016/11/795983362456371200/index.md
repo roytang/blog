@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/795983362456371200/
+title: ''
 ---
 
-RT [@Kurz_Gesagt](https://twitter.com/Kurz_Gesagt/): Ok, I just found the best Twitter account. We all need to step up our game. https://t.co/gM4q2TPj3A
+Ok, I just found the best Twitter account. We all need to step up our game.

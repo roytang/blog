@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/796868251774922752/
 ---
 
-RT @KittenClanClan: today's chainsawsuit is good https://t.co/qgjW0iWO80
+RT @KittenClanClan: today's chainsawsuit is good 

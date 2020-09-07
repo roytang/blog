@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/795977415931498496/
+title: ''
 ---
-
-RT [@VGAdvisor](https://twitter.com/VGAdvisor/): https://t.co/s2zCGLfNuO

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/796350969000796161/
+title: ''
 ---
 
-RT [@nothings](https://twitter.com/nothings/): Douglas Adams writes about a people ruled by lizards: https://t.co/BXwcKcfHvi
+Douglas Adams writes about a people ruled by lizards:

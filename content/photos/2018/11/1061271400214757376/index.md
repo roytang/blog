@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1061271400214757376/
 tags:
 - StreetFighter
+title: ''
 ---
 
-10-4 tonight with Cody. Opponents who dont rematch after beating you are boring #StreetFighter https://t.co/FlHmiv86Vk
+10-4 tonight with Cody. Opponents who dont rematch after beating you are boring #StreetFighter

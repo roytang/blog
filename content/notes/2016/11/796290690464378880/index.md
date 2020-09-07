@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/796290690464378880/
+title: ''
 ---
 
-RT [@MattOswaltVA](https://twitter.com/MattOswaltVA/): America right now https://t.co/zRImsWcCfX
+America right now
