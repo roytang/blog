@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/799454644997013504/
 tags:
 - OccupyLNMB
+title: ''
 ---
 
-RT [@heycaloy](https://twitter.com/heycaloy/): Mass protesters are on the way to LNMB now. Retweet this. #OccupyLNMB https://t.co/HCuUWOxWRl
+Mass protesters are on the way to LNMB now. Retweet this. #OccupyLNMB

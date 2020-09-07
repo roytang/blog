@@ -8,4 +8,7 @@ link:
 slug: ask-hn-what-was-your-best-passive-income-in-2018-hacker-news
 source: pocket
 title: 'Ask HN: What was your best passive income in 2018? | Hacker News'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1064149560870752256/
 ---

@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1062673698111467520/
 tags:
 - PS4share
+title: ''
 ---
 
-Easy-peasy  #PS4share https://t.co/WVeiN3Dvav
+Easy-peasy  #PS4share

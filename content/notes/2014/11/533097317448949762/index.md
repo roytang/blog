@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/533097317448949762/
 tags:
 - M1Summit
+title: ''
 ---
 
-RT [@Bill_Gross](https://twitter.com/Bill_Gross/): 2 new things added to Maslow's heirarchy at the #M1Summit: https://t.co/iSB4L4xswV Watching people at the airport, that app…
+2 new things added to Maslow's heirarchy at the #M1Summit:  Watching people at the airport, that appears to be true.

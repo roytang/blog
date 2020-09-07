@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/930494149647667200/
+title: ''
 ---
 
-Now I have three browsers pinned to my taskbar! (I don't really use Edge but I keep him around for some weird kind of sentimental reason) https://t.co/rObhA4dYZO
+Now I have three browsers pinned to my taskbar! (I don't really use Edge but I keep him around for some weird kind of sentimental reason)

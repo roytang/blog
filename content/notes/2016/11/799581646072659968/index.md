@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/799581646072659968/
+title: ''
 ---
 
-RT [[@rocketkeis](https://twitter.com/rocketkeis/)](https://twitter.com/rocketkeis/): “Marcos is not a hero” — [[@rocketkeis](https://twitter.com/rocketkeis/)](https://twitter.com/rocketkeis/) https://medium.com/@rocketkeis/marcos-is-not-a-hero-47c767dc9831#---0-69.pou5h6ext https://t.co/szawtCDVS3
+“Marcos is not a hero” — [@rocketkeis](https://twitter.com/rocketkeis/) https://medium.com/[@rocketkeis](https://twitter.com/rocketkeis/)/marcos-is-not-a-hero-47c767dc9831#---0-69.pou5h6ext

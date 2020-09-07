@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/931933477594849281/
+title: ''
 ---
 
-RT [@tinybuddha](https://twitter.com/tinybuddha/): Be good to people for no reason. https://t.co/mmm66Nefz0
+Be good to people for no reason.
