@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/271519841263964161/
+title: ''
 ---
 
-RT [@JoeQuesada](https://twitter.com/JoeQuesada/): Well, at least no one will every accuse him of being unpatriotic. https://t.co/QITPhs44
+Well, at least no one will every accuse him of being unpatriotic.

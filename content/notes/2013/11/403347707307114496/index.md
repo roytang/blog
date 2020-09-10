@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/403347707307114496/
+title: ''
 ---
 
-RT [@FacesPics](https://twitter.com/FacesPics/): What's going on here? https://t.co/u1o1LM2MM8
+What's going on here?

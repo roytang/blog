@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1065835238981541889/
+title: ''
 ---
 
-Hi [@rocketkeis](https://twitter.com/rocketkeis/)! https://t.co/dfHaXOMWmD
+Hi [@rocketkeis](https://twitter.com/rocketkeis/)!

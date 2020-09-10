@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1064801812329377792/
+title: ''
 ---
 
-After 1 year and 400+ hours of F2P with [@EternalCardGame](https://twitter.com/EternalCardGame/), I finally managed to hit draft master, the final achievement I needed to complete the Steam achievements (there's a lot more in-game though) https://t.co/RKzxSySiKM
+After 1 year and 400+ hours of F2P with [@EternalCardGame](https://twitter.com/EternalCardGame/), I finally managed to hit draft master, the final achievement I needed to complete the Steam achievements (there's a lot more in-game though)

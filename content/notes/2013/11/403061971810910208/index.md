@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/403061971810910208/
+title: ''
 ---
 
-RT [@ChoosePhils](https://twitter.com/ChoosePhils/): Via Nereo Cajilig Luján:  The Pinoy sense of humor. https://t.co/ZP53tDWe9L
+Via Nereo Cajilig Luján:  The Pinoy sense of humor.

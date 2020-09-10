@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/934175529397133312/
+title: ''
 ---
 
-RT [@PG_Zan](https://twitter.com/PG_Zan/): this might be my favorite gif https://t.co/fUa5qbTYRS
+this might be my favorite gif 
+
+{{< video width="320" height="224" src="https://video.twimg.com/tweet_video/DPVqUOyUIAAmDvn.mp4" >}}

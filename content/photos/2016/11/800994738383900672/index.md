@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/800994738383900672/
+title: ''
 ---
 
-Yay, I can quit grinding Duelyst now! Not that I will lol https://t.co/qI1RlDUiJl
+Yay, I can quit grinding Duelyst now! Not that I will lol

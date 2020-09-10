@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1064423329103175681/
+title: ''
 ---
 
-Current mood https://t.co/CTnP0iVlDC
+Current mood
