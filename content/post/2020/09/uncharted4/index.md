@@ -1,9 +1,14 @@
 ---
-title: "Late Game Review: Uncharted 4: A Thief's End"
+date: 2020-09-10 09:15:38
 slug: uncharted4
-date: 2020-09-10T17:15:38+08:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104840941058325036
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1304054540778446849/
 tags:
 - gaming
+title: 'Late Game Review: Uncharted 4: A Thief''s End'
 ---
 
 I finished Uncharted 4: A Thief's End yesterday, and I felt like making a post about it, since I had a bunch of screenshots. Late game review because the game came out in 2016. I think I got it from PS+? Certainly didn't pay for it.
@@ -27,4 +32,3 @@ Also, I guess Nathan Drake is famous now, because people know about his discover
 Story-wise it feels like they planned this to be Nathan Drake's final run, given the epilogue, but who knows? I mean in their universe, Sully is pretty old but he still also does ridiculous stunts with the rest of the gang. And they did introduce some new characters, so it's not far-fetched there'll be another Uncharted game later on, possibly with someone else as the lead?
 
 Anyway, game is pretty good, play it if you can, happy to have ticked it off the backlog! Have some screenshots:
-
