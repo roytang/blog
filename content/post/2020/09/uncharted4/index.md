@@ -1,10 +1,9 @@
 ---
-title: "Late Game Review: Uncharted 4"
+title: "Late Game Review: Uncharted 4: A Thief's End"
 slug: uncharted4
 date: 2020-09-10T17:15:38+08:00
 tags:
 - gaming
-draft: true
 ---
 
 I finished Uncharted 4: A Thief's End yesterday, and I felt like making a post about it, since I had a bunch of screenshots. Late game review because the game came out in 2016. I think I got it from PS+? Certainly didn't pay for it.
