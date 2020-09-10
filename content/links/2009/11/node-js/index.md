@@ -14,6 +14,11 @@ tags:
 - framework
 - for:@twitter
 title: node.js
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/5999905068/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/185891671249
 ---
 
 "Node's goal is to provide an easy way to build scalable network programs. "

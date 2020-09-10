@@ -9,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/670922111116926976/
+title: ''
 ---
 
-[@aleksfelipe](https://twitter.com/aleksfelipe/) nagbukas kami ni [@switchfollows](https://twitter.com/switchfollows/) ng box https://t.co/31YBHwbp8P
+[@aleksfelipe](https://twitter.com/aleksfelipe/) nagbukas kami ni [@switchfollows](https://twitter.com/switchfollows/) ng box

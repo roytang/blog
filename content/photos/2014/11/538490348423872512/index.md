@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/538490348423872512/
+title: ''
 ---
 
-Humans! https://www.timehop.com/ https://t.co/i50GBIWn6C
+Humans! https://www.timehop.com/

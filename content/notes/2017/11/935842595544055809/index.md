@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/935842595544055809/
+title: ''
 ---
 
-RT [@saffadkhan](https://twitter.com/saffadkhan/): Found an angry developer when trying to connect to the free wifi at Manila International Airport. https://t.co/ZvETeYwUzJ
+Found an angry developer when trying to connect to the free wifi at Manila International Airport.

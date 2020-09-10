@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/935924556056862720/
+title: ''
 ---
 
-RT [@AnneANB](https://twitter.com/AnneANB/): I think today is the perfect day for this pic 🤤 https://t.co/0uKopVtb2J
+I think today is the perfect day for this pic 🤤

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/405689173056974848/
+title: ''
 ---
 
-RT [@sturdyAlex](https://twitter.com/sturdyAlex/): Correspondence between two 15-year-olds found by teacher, explains both love and its limitations. https://t.co/2Il62n5rX6
+Correspondence between two 15-year-olds found by teacher, explains both love and its limitations.

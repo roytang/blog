@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/538101504867958784/
+title: ''
 ---
 
-RT [@DarthMeerkat](https://twitter.com/DarthMeerkat/): Trolling level: President https://t.co/R54Wzprqqk
+Trolling level: President

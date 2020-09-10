@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/538668222644371457/
+title: ''
 ---
 
-RT [@PhoeniXPhiL](https://twitter.com/PhoeniXPhiL/): Some outrageous product placement in the new Star Wars film.... https://t.co/8KgLIgpWUz
+Some outrageous product placement in the new Star Wars film....
