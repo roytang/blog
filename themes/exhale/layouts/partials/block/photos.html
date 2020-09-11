@@ -26,6 +26,9 @@
 
 */}}
 
+{{ $scratch.Set "thumbnail" (.Resize "300x") }}
+{{ $thumb := $scratch.Get "thumbnail" }}
+
 {{/* add the processed images to the scratch */}}
 
 {{ $tiny := $scratch.Get "tiny" }}
@@ -59,7 +62,7 @@
   {{ .RelPermalink }}
   '
 */}}
-    src="{{ .RelPermalink }}" 
+    src="{{ $thumb.RelPermalink }}" 
     alt="{{ $figcaption }}"
     title="{{ $figcaption }}"
   /></a>
