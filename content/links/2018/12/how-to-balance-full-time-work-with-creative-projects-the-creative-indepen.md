@@ -9,4 +9,7 @@ link:
 slug: how-to-balance-full-time-work-with-creative-projects-the-creative-indepen
 source: pocket
 title: "How to balance full-time work with creative projects \u2013 The Creative Indepen"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1068736751332716544/
 ---

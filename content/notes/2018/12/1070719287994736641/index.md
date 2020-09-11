@@ -8,12 +8,27 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1070719287994736641/
+title: ''
 ---
 
-RT [@Thejasongarner](https://twitter.com/Thejasongarner/): Notes to self:
+Notes to self:
+
+
 
 - Slow down (as much as you can)
 
+
+
 - Let go (of whatever you can)
 
-- Be kind (to everyone you can ... in…
+
+
+- Be kind (to everyone you can ... including yourself)
+
+
+
+- Breathe deeply (as often as you can)
+
+
+
+- Forgive yourself when you forget any of the above and begin again.

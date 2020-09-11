@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/409562090387406849/
+title: ''
 ---
 
-Apparently it was my browser's fault! http://i.imgur.com/XPPT0Sp.png
+Apparently it was my browser's fault!

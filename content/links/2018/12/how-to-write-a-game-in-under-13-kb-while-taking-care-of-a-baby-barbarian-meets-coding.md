@@ -10,4 +10,7 @@ slug: how-to-write-a-game-in-under-13-kb-while-taking-care-of-a-baby-barbarian-m
 source: pocket
 title: How to Write a Game in Under 13 Kb While Taking Care of a Baby | Barbarian
   Meets Coding
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1070676822428393472/
 ---

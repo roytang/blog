@@ -9,6 +9,9 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/vita/comments/1423kc/is_it_safe_to_get_a_vita_yet_kill_screen/
+- type: reddit
+  url: https://reddit.com/r/gaming/comments/1423m4/is_it_safe_to_get_a_vita_yet_kill_screen/
 tags:
 - vita
+- gaming
 ---

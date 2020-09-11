@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/939098084809826306/
+title: ''
 ---
 
-RT [@triketora](https://twitter.com/triketora/): The global dominance of white people is thanks to the potato https://qz.com/quartzy/1148452/potato2/
+The global dominance of white people is thanks to the potato https://quartzy.qz.com/1148452/

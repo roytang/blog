@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/277381177441132544/
 tags:
 - fb
+title: ''
 ---
 
-Teaching angkong to play plants vs zombies #fb https://t.co/McbX6uwB
+Teaching angkong to play plants vs zombies #fb

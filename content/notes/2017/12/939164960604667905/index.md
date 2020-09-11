@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/939164960604667905/
+title: ''
 ---
 
-RT [@detalistka](https://twitter.com/detalistka/): Why The Right Change Often Feels Wrong https://scottberkun.com/2017/why-the-right-change-often-feels-wrong/ via [@berkun](https://twitter.com/berkun/)
+Why The Right Change Often Feels Wrong https://shar.es/1MeXLY via [@berkun](https://twitter.com/berkun/)

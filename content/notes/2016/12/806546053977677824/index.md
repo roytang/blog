@@ -11,6 +11,7 @@ syndicated:
 tags:
 - Philippines
 - Duterte
+title: ''
 ---
 
-RT [@PhelimKine](https://twitter.com/PhelimKine/): Journalists tracking human toll of #Philippines Prez #Duterte "drug war" tell me police now removing victims' corpses befor…
+Journalists tracking human toll of #Philippines Prez #Duterte "drug war" tell me police now removing victims' corpses before media show up

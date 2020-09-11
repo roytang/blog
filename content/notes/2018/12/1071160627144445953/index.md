@@ -10,7 +10,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1071160627144445953/
 tags:
 - SSBU_KEN
+title: ''
 ---
 
-RT [@rebaken7](https://twitter.com/rebaken7/): UMEHARA～
-#SSBU_KEN https://t.co/U7HJNDvoEJ
+UMEHARA～
+
+#SSBU_KEN 
+
+{{< video width="320" height="180" src="https://video.twimg.com/ext_tw_video/1070989493266636801/pu/vid/1280x720/lIAZ1y6AS3iu3t2F.mp4?tag=6" >}}

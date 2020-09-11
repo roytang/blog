@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1069990928666943488/
+title: ''
 ---
 
-RT [@newsycombinator](https://twitter.com/newsycombinator/): Show HN: Dark Reader extension – Dark mode for every website https://darkreader.org/
+Show HN: Dark Reader extension – Dark mode for every website http://darkreader.org/

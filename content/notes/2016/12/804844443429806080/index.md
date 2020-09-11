@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/804844443429806080/
+title: ''
 ---
 
-RT [@supsup010](https://twitter.com/supsup010/): Kaya pinalibing si Ferdie sa LNMB para ma monitor din ang bangkay.. at least malapit.. kaysa sa Ilokos.. part yan ng grand p…
+Kaya pinalibing si Ferdie sa LNMB para ma monitor din ang bangkay.. at least malapit.. kaysa sa Ilokos.. part yan ng grand plan ng Pangulo.

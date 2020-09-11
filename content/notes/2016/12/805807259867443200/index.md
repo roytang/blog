@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/805807259867443200/
+title: ''
 ---
 
-RT [@MykeCole](https://twitter.com/MykeCole/): I flail, like everyone. That I flail successfully sometimes has far more to do with persistence and heart than it does with s…
+I flail, like everyone. That I flail successfully sometimes has far more to do with persistence and heart than it does with skill.

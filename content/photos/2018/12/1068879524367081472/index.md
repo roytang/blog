@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1068879524367081472/
+title: ''
 ---
 
-Found while digging through old files: Twitter circa 2009 https://t.co/lMmu4vyvPN
+Found while digging through old files: Twitter circa 2009

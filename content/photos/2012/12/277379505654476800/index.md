@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/277379505654476800/
 tags:
 - fb
+title: ''
 ---
 
-May rock star sa bahay! #fb https://t.co/lDJJcobv
+May rock star sa bahay! #fb

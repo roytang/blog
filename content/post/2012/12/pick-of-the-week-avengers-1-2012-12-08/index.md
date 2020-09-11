@@ -5,6 +5,11 @@ source: ireadcomicbooks
 tags:
 - comics
 title: 'Pick of the Week: Avengers #1 (2012-12-08)'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/277439892907249664/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/378736502217095
 ---
 
 Easily the best comic I've read this week (and I've already read a lot!) is the Marvel NOW! Relaunch of the Avengers book. Avengers vol. 5 #1 by Jonathan Hickman and Jerome Opena ushers in a brand new era of Avengers; bigger, bolder and looking to be a lot more epic.
