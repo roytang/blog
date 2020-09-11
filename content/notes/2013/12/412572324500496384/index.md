@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/412572324500496384/
+title: ''
 ---
 
-RT [@ZacGalifianakis](https://twitter.com/ZacGalifianakis/): She texted me: "your adorable." I replied: "no, YOU'RE adorable." now she likes me... all I did was point out her typo…
+She texted me: "your adorable." I replied: "no, YOU'RE adorable." now she likes me... all I did was point out her typo...

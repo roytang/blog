@@ -8,9 +8,13 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/810326606359105536/
+title: ''
 ---
 
-RT [@Gingerhazing](https://twitter.com/Gingerhazing/): *Luke picks up Vader after he's zapped by the Emperor's lightning*
+*Luke picks up Vader after he's zapped by the Emperor's lightning*
+
 Vader: wow that really was a
+
 Luke: DON'T
-Vader: SHOCKI…
+
+Vader: SHOCKING turn of events

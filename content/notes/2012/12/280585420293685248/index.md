@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/280585420293685248/
+title: ''
 ---
 
-RT [@Capcom_Unity](https://twitter.com/Capcom_Unity/): Street Fighter X Mega Man is live! http://www.capcom-unity.com/mega_man?no_redir=1 Download for free on Capcom Unity &lt;333
+Street Fighter X Mega Man is live! http://www.capcom-unity.com/mega_man Download for free on Capcom Unity &lt;333

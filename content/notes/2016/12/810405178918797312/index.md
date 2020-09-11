@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/810405178918797312/
+title: ''
 ---
 
-RT [@DisguisedToast](https://twitter.com/DisguisedToast/): Rogue One: A [@PlayHearthstone](https://twitter.com/PlayHearthstone/) Story. https://t.co/2QQYcgy4Hf
+Rogue One: A [@PlayHearthstone](https://twitter.com/PlayHearthstone/) Story.

@@ -5,6 +5,11 @@ source: ireadcomicbooks
 tags:
 - comics
 title: Comics To Look Forward To 2012-12-18
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/280983326356013056/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/391446407603521
 ---
 
 Well, missed posting about last week's comics due to some technical difficulties with my home computer, let's see if we can't get back on track.

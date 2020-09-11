@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/15052582565191680/
+title: ''
 ---
 
-RT [@rocketkeis](https://twitter.com/rocketkeis/): In chat, I'd prefer it if folks go right ahead with their message or question. Instead of waiting for me to say "hi" bac ...
+In chat, I'd prefer it if folks go right ahead with their message or question. Instead of waiting for me to say "hi" back. Less switching.

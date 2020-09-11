@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/810412729026674689/
+title: ''
 ---
 
-RT [@phxdnradio](https://twitter.com/phxdnradio/): Seems legit... https://t.co/E7daFuAkKm
+Seems legit...

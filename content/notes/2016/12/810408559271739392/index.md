@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/810408559271739392/
+title: ''
 ---
 
-RT [@jk_rowling](https://twitter.com/jk_rowling/): *its* https://t.co/io7ms1NRTb
+*its*

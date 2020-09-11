@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/412467350491779072/
+tags:
+- solarnews
+title: ''
 ---
 
-RT [@solartvnews](https://twitter.com/solartvnews/): The MMDA says the volume of vehicles in the metro's major thoroughfares went up by 30% after the first week of December. #…
+The MMDA says the volume of vehicles in the metro's major thoroughfares went up by 30% after the first week of December. #SolarNews

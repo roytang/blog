@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/279912567089004544/
+title: ''
 ---
 
-RT [@irenechoi](https://twitter.com/irenechoi/): today, guy w/ gun in US shot 20 kids. all died. same day, guy w/ knife in china stabbed 20 kids. all survived. this isn't ...
+today, guy w/ gun in US shot 20 kids. all died. same day, guy w/ knife in china stabbed 20 kids. all survived. this isn't rocket science.

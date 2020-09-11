@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/412923293423792128/
+title: ''
 ---
 
-RT [@mental_floss](https://twitter.com/mental_floss/): The first episode of The Simpsons— "Simpsons Roasting on an Open Fire"—originally aired 24 years ago today. http://t.co/U…
+The first episode of The Simpsons— "Simpsons Roasting on an Open Fire"—originally aired 24 years ago today.

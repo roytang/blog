@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/677894969038794752/
+title: ''
 ---
 
-RT [@DalaiLama](https://twitter.com/DalaiLama/): We have a marvellous brain, but have to use it properly. It's scientific to be sceptical, to research and experiment. An app…
+We have a marvellous brain, but have to use it properly. It's scientific to be sceptical, to research and experiment. An approach I admire.

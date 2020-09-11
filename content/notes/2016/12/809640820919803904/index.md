@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/809640820919803904/
+title: ''
 ---
 
-RT [@FioraAeterna](https://twitter.com/FioraAeterna/): i'm crying but also laughing but also crying https://t.co/Ij2oKlfrJX
+i'm crying but also laughing but also crying

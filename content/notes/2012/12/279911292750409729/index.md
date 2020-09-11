@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/279911292750409729/
+title: ''
 ---
 
-RT [@sahilmalik](https://twitter.com/sahilmalik/): Breaking news: Apple and Samsung are merging, new company will be called sample.
+Breaking news: Apple and Samsung are merging, new company will be called sample.

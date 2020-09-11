@@ -8,10 +8,15 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1073975610630762496/
+title: ''
 ---
 
-RT [@A_Guy_Called](https://twitter.com/A_Guy_Called/): A chicken pie in Jamaica costs £2.00
+A chicken pie in Jamaica costs £2.00
+
 A chicken pie in Trinidad costs £2.40
+
 A chicken pie in St Kitts costs £2.15
 
-These a…
+
+
+These are the pie rates of the Caribbean

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1073937435501838336/
+title: ''
 ---
 
-RT [@pronounced_ing](https://twitter.com/pronounced_ing/): This story is wonderful and perfect and I can’t stop thinking about it and I just need to you read it, please. https://…
+This story is wonderful and perfect and I can’t stop thinking about it and I just need to you read it, please. https://twitter.com/onlyagamenpr/status/1073801322988593152?s=21

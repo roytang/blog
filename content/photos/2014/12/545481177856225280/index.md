@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/545481177856225280/
+title: ''
 ---
 
-the more things change...  https://www.timehop.com/ https://t.co/oTCCtFGW01
+the more things change...  https://www.timehop.com/
