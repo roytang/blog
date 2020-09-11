@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1077236761028411397/
+title: ''
 ---
 
-RT [@eacayan](https://twitter.com/eacayan/): "Daddy, ambulance!" — a thread https://t.co/aO0wvAABNL
+"Daddy, ambulance!" — a thread

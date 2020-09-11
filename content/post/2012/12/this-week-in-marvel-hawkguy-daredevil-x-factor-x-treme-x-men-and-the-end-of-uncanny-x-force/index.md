@@ -6,6 +6,11 @@ tags:
 - comics
 title: 'This Week In Marvel: Hawkguy, Daredevil, X-Factor, X-Treme X-Men and the end
   of Uncanny X-Force'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/282463106070888450/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/461884727191967
 ---
 
 There's really far, far too many comics I read each week to cover them in one blog post so I'll just cover them in groups. First, the non-Marvel NOW! series:

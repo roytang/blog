@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/415130042461454336/
+title: ''
 ---
 
-RT [@HisForgotenSoul](https://twitter.com/HisForgotenSoul/): "The Joker is at it again... Good Grief" [@Ssnyder1835](https://twitter.com/Ssnyder1835/) [@GregCapullo](https://twitter.com/GregCapullo/) https://t.co/U3E7HdIuZy
+"The Joker is at it again... Good Grief" [@Ssnyder1835](https://twitter.com/Ssnyder1835/) [@GregCapullo](https://twitter.com/GregCapullo/)

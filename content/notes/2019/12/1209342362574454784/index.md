@@ -1,5 +1,5 @@
 ---
-date: 2019-12-24 05:17:42
+date: 2019-12-24 05:17:42+00:00
 repost_source:
   name: berkun
   type: twitter
@@ -8,11 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1209342362574454784/
+title: ''
 ---
 
-Healthy organizations make it safe to report problems, but unhealthy ones make it a gamble to tell a superior something isn’t right. Same for personal relations too. 
-Quoted [ahugheswriter's tweet](https://twitter.com/ahugheswriter/status/1209271665026371586):
-
-> I once read that you can spot an abusive system because when you point out a problem, you ARE the problem.
-> 
-> That opened up my eyes dramatically. https://twitter.com/eveyjacob/status/1209234390829502464
+Healthy organizations make it safe to report problems, but unhealthy ones make it a gamble to tell a superior something isn’t right. Same for personal relations too. https://twitter.com/ahugheswriter/status/1209271665026371586

@@ -14,4 +14,5 @@ syndicated:
 ---
 
 [@Woerlan](https://twitter.com/Woerlan/) he's going to be time travelling?
-[@Woerlan](https://twitter.com/Woerlan/) OTOH, What If: The Doctor was a Herald of Galactus?
+
+[@Woerlan](https://twitter.com/Woerlan/) OTOH, What If: The Doctor was a Herald of Galactus?

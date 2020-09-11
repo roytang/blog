@@ -9,6 +9,12 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/1tjkv0/winners_2013_playstationblog_game_of_the_year/
+- type: reddit
+  url: https://reddit.com/r/PS4/comments/1tjkwm/winners_2013_playstationblog_game_of_the_year/
+- type: reddit
+  url: https://reddit.com/r/vita/comments/1tjkwu/winners_2013_playstationblog_game_of_the_year/
 tags:
+- vita  
+- ps4
 - ps3
 ---

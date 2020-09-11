@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/810803489844629505/
+title: ''
 ---
 
-RT [@itachicken](https://twitter.com/itachicken/): if THE ROCK isn't in the naruto live action movie then i'm gonna boycott https://t.co/hAK3crMK4t
+if THE ROCK isn't in the naruto live action movie then i'm gonna boycott

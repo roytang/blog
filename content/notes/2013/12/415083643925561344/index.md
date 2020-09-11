@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/415083643925561344/
 tags:
 - asoiaf
+title: ''
 ---
 
-RT [@GeorgeRRMartin_](https://twitter.com/GeorgeRRMartin_/): Well played bookstore, well played. #asoiaf https://t.co/0PklpWzv6L
+Well played bookstore, well played. #asoiaf
