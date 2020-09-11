@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/283273556731785216/
+title: ''
 ---
 
-What a great Mass Effect bundle! http://i.imgur.com/wIf9E.png
+What a great Mass Effect bundle! https://i.imgur.com/wIf9E.png
