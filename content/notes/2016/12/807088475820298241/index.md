@@ -8,12 +8,19 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/807088475820298241/
+title: ''
 ---
 
-RT [@DanSlott](https://twitter.com/DanSlott/): WATCH THIS A MILLION TIMES! :-D
+WATCH THIS A MILLION TIMES! :-D
+
+
 
 SPIDER-MAN: HOMECOMING
 
+
+
 OFFICIAL TRAILER!!!!
 
-https://www.youtube.com/watch?v=xrzXIaTt99U https://t.co/L10xysVuBf
+
+
+https://www.youtube.com/watch?v=xrzXIaTt99U

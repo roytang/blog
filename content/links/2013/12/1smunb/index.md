@@ -9,6 +9,12 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/FinalFantasy/comments/1smunb/lightning_returns_final_fantasy_xiii_collectors/
+- type: reddit
+  url: https://reddit.com/r/gaming/comments/1smuoi/lightning_returns_final_fantasy_xiii_collectors/
+- type: reddit
+  url: https://reddit.com/r/PS3/comments/1smup4/lightning_returns_final_fantasy_xiii_collectors/
 tags:
+- ps3  
+- gaming
 - finalfantasy
 ---

@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/940596731896479746/
+title: ''
 ---
 
-RT [@matt___nelson](https://twitter.com/matt___nelson/): I’d like to personally congratulate each and every individual involved https://t.co/qooogPOGgV
+I’d like to personally congratulate each and every individual involved

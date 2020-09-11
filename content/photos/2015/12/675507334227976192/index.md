@@ -1,5 +1,5 @@
 ---
-date: 2015-12-12 02:47:53
+date: 2015-12-12 02:47:53+00:00
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154242911508912
 tags:
 - starwarsmarathon
+title: ''
 ---
 
-Some wisdom for the days ahead #starwarsmarathon https://t.co/4TImCbfsUA
+Some wisdom for the days ahead #starwarsmarathon

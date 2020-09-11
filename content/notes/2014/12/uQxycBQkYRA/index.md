@@ -4,6 +4,10 @@ source: youtube
 syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=uQxycBQkYRA
+- type: twitter
+  url: https://twitter.com/roytang/statuses/542695982639509504/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153406571263912
 tags:
 - PS4share
 - PlayStation 4
