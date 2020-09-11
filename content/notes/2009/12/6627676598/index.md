@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/6627676598/
+title: ''
 ---
 
-RT [@DeveshM](https://twitter.com/DeveshM/): ROTFLMAO! A dude was following our tech guy in the office. Our tech guy turns around n says: "Stop following me, I'm not Tw ...
+ROTFLMAO! A dude was following our tech guy in the office. Our tech guy turns around n says: "Stop following me, I'm not Twitter!"

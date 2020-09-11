@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/808718458640707584/
+title: ''
 ---
 
-RT [@peterkz_swe](https://twitter.com/peterkz_swe/): I trained a neural network on christmas carols and death metal lyrics. Now it makes horrible texts. 🎄💀😱 https://t.co/6eLVa…
+I trained a neural network on christmas carols and death metal lyrics. Now it makes horrible texts. 🎄💀😱

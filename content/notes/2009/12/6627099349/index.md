@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/6627099349/
+title: ''
 ---
 
-RT [@timoreilly](https://twitter.com/timoreilly/): This post by [@fredwilson](https://twitter.com/fredwilson/) is a perfect outline of the skillset required of a modern software developer:  https://avc.com/2009/12/looking-for-software-engineers/
+This post by [@fredwilson](https://twitter.com/fredwilson/) is a perfect outline of the skillset required of a modern software developer:  http://bit.ly/7xqDu1

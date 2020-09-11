@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/544007483740545025/
+title: ''
 ---
 
-RT [@GreatestQuotes](https://twitter.com/GreatestQuotes/): "A friend is a person with whom I may be sincere. Before him I may think aloud." - Ralph Waldo Emerson
+"A friend is a person with whom I may be sincere. Before him I may think aloud." - Ralph Waldo Emerson

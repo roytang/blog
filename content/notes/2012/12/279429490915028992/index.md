@@ -10,7 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/279429490915028992/
 tags:
 - GlobeiPhone5
-- Globe
+- globeiphone5twisterprize
+title: ''
 ---
 
-RT [@djmotwister](https://twitter.com/djmotwister/): are u ready for another #GlobeiPhone5? It includes the P2,500 monthly plan for free, for a year! RT if ur ready! #Globe ...
+are u ready for another #GlobeiPhone5? It includes the P2,500 monthly plan for free, for a year! RT if ur ready! #GlobeiPhone5TwisterPrize

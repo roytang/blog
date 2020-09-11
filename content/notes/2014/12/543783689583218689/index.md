@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/543783689583218689/
+title: ''
 ---
 
-RT [@dailyzen](https://twitter.com/dailyzen/): “Do anything, but let it produce joy.” — Walt Whitman
+“Do anything, but let it produce joy.” — Walt Whitman
