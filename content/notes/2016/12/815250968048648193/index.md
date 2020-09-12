@@ -11,7 +11,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/815250968048648193/
 - type: twitter
   url: https://twitter.com/roytang/statuses/815252015768965120/
+title: ''
 ---
 
 [@WordsWFriends](https://twitter.com/WordsWFriends/) haha it wasnt a complaint. randomness is part of the game yo!
-[@WordsWFriends](https://twitter.com/WordsWFriends/) also, kudos for still manning the social media channel today! Happy new year!
+
+[@WordsWFriends](https://twitter.com/WordsWFriends/) also, kudos for still manning the social media channel today! Happy new year!

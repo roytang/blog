@@ -8,6 +8,5 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/947128514033209345/
+title: ''
 ---
-
-RT [@SarahCAndersen](https://twitter.com/SarahCAndersen/): https://t.co/86RyNxCwuU

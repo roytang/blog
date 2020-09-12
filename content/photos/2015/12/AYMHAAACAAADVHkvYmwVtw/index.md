@@ -4,6 +4,8 @@ source: miiverse
 syndicated:
 - type: archive.org
   url: https://web.archive.org/https://miiverse.nintendo.net/posts/AYMHAAACAAADVHkvYmwVtw
+- type: twitter
+  url: https://twitter.com/roytang/statuses/681072563271917568/
 tags:
 - gaming
 - 'The Legend of Zelda: The Wind Waker HD'

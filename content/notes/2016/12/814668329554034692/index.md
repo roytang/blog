@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/814668329554034692/
+title: ''
 ---
 
-RT [@kevinmitnick](https://twitter.com/kevinmitnick/): That's what I tried telling the Judge years ago but it didn't work. https://t.co/sJQBhldjg8
+That's what I tried telling the Judge years ago but it didn't work.

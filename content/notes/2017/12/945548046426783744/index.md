@@ -1,13 +1,13 @@
 ---
-date: 2019-12-25 16:53:31+00:00
+date: 2017-12-26 06:53:16+00:00
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1209879859603722241/
+  url: https://twitter.com/roytang/statuses/945548046426783744/
 title: ''
 ---
 
-I retweeted this thread back in 2017. It's still ongoing! He's managed to beat his dad twice since the thread started! 
+This was intense. Also brings backs memories. 
 
 {{% quoted url="https://twitter.com/onlxn/status/801914798170509312" label="onlxn's tweet" %}}
 

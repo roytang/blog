@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1078496645904506880/
+title: ''
 ---
 
-RT [@nbc](https://twitter.com/nbc/): This elite squad isn't DUN DUN yet. https://t.co/pJQrLEA1ki
+This elite squad isn't DUN DUN yet. 
+
+{{< video width="320" height="180" src="https://video.twimg.com/amplify_video/1078396531487662080/vid/1280x720/1O32i_zPj-Wo3IyU.mp4?tag=9" >}}

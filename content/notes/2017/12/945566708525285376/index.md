@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/945566708525285376/
+title: ''
 ---
 
-RT [@MeredithFrost](https://twitter.com/MeredithFrost/): A huge thanks to the person that did this https://imgur.com/gallery/pAEiHOV https://t.co/XPZHP1jsN3
+A huge thanks to the person that did this http://bit.ly/2DNak7H

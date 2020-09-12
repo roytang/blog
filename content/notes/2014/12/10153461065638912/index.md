@@ -8,4 +8,6 @@ tags:
 - quotes
 ---
 
-"Learn from yesterday, live for today, hope for tomorrow." - Albert Einstein  Happy new year everyone! Go watch the fireworks (stay safe), eat, drink, be merry, and step forward to a new and hopefully better year :D
+"Learn from yesterday, live for today, hope for tomorrow." - Albert Einstein  
+
+Happy new year everyone! Go watch the fireworks (stay safe), eat, drink, be merry, and step forward to a new and hopefully better year :D

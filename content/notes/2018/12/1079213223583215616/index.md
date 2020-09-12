@@ -8,6 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1079213223583215616/
+title: ''
 ---
 
-RT [@TerribleMaps](https://twitter.com/TerribleMaps/): Restaurant Order Preferences in Africa https://t.co/XI7DVxJAZu
+Restaurant Order Preferences in Africa

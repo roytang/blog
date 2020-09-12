@@ -5,6 +5,11 @@ source: ireadcomicbooks
 tags:
 - comics
 title: 'Recently in DC and Image Comics: Throne of Atlantis, Saga, etc.'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/285708095202684928/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/131686123658417
 ---
 
 DC has an extra week of #15 releases on the first week of January (January 2), since they only had two issues out on Christmas week, which were:
