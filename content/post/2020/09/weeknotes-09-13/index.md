@@ -1,5 +1,10 @@
 ---
 date: 2020-09-13
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104856276477330542
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1305036008832991232/
 tags:
 - weeknotes
 title: Weeknotes 2020-09-13
