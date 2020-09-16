@@ -20,7 +20,7 @@ My first attempt: I tried to load gmail in an iframe so I could read the documen
 
 My second attempt: I open gmail in a new window using javascript's window.open, then use the resulting window variable to access the document contents. Something like this:
 
-{{< highlight html >}}
+```html
 <html>
 <body>
 <script>
@@ -37,7 +37,7 @@ My second attempt: I open gmail in a new window using javascript's window.open, 
 <br/><textarea style=”width:100%; height: 40%;” id=”t”></textarea>
 </body>
 </html> 
-{{< / highlight >}}
+```
 
 Wow, "Access is denied." Who knew IE actually had that much security?
 

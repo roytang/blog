@@ -23,7 +23,7 @@ As programmers, we have a tendency sometimes to over-engineer solutions because 
 
 I ended up just using pickle, which was already built-in to Python:
 
-{{< highlight python >}}
+```python
 def load_db():
 	all_series = {}
 	with open(DATABASE_FILE, 'rb') as handle:
@@ -33,7 +33,7 @@ def load_db():
 def save_db(all_series):
 	with open(DATABASE_FILE, 'wb') as handle:
 		pickle.dump(all_series, handle, protocol=pickle.HIGHEST_PROTOCOL)
-{{< /highlight >}}
+```
 
 (Above code _probably_ gives you an idea what kind of files I'm sorting... )
 

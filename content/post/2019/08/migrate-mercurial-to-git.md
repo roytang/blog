@@ -16,7 +16,7 @@ Big news in online repositories this week is that [Bitbucket is sunsetting suppo
 
 Luckily, converting a mercurial repo to git turned out to be straightforward thanks to a project called [fast-export](https://repo.or.cz/fast-export.git). Modified instructions from a convenient [stackoverflow post](https://stackoverflow.com/questions/10710250/converting-mercurial-folder-to-a-git-repository#):
 
-{{< highlight bash >}}
+```bash
 brew install hg # install hg on my mac first
 cd ~
 hg clone https://user@bitbucket.org/user/reponame
@@ -25,7 +25,7 @@ git init git_repo
 cd git_repo
 ~/fast-export/hg-fast-export.sh -r ~/reponame
 git checkout HEAD
-{{< / highlight >}}
+```
 
 The process was fairly quick, and the commit history from the Mercurial side was even retained, I would have been happy just retaining HEAD! After that, I just create a new private repo on Gitlab, set that as the remote, then push to Gitlab as usual. 
 

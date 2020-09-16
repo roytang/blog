@@ -14,7 +14,7 @@ You may have noticed the new color scheme and new "Theme Switcher" widget in the
 
 The model is simple:
 
-{{< highlight python >}}
+```python
 class Theme(models.Model):
     slug = models.SlugField()
     title = models.CharField(max_length=250)
@@ -22,19 +22,19 @@ class Theme(models.Model):
 
     def __str__(self):
         return self.title
-{{< /highlight >}}        
+```
 
 I only needed one view -- to switch the current theme.
 
 Added the ff to urls.py:
 
-{{< highlight python >}}
+```python
 (r'^theme/([a-zA-Z0-9\-]+)/', 'themer.views.switch'),
-{{< /highlight >}}        
+```
 
 The view code simply stores the selected theme as a cookie:
 
-{{< highlight python >}}
+```python
 def switch(request, theme_slug):
   """ Sets a cookie to specify the new theme, then redirects to the referer or root url """
   theme = get_object_or_404(Theme, slug=theme_slug)
@@ -44,11 +44,11 @@ def switch(request, theme_slug):
   resp = HttpResponseRedirect(referer)
   resp.set_cookie("theme", theme_slug, 100000)
   return resp
-{{< /highlight >}}
+```
 
 To load the stylesheet, I set up a [context processor][1] to pass both the current theme and the list of themes to the context. I wanted to do this using template tags, but I couldn't figure out how to extract a cookie from within a template tag.
 
-{{< highlight python >}}
+```python
 from themer.models import Theme
 def context_processor(request):
     theme_list = Theme.objects.all()
@@ -64,17 +64,17 @@ def context_processor(request):
         else:
             theme = None
     return {"current_theme" : theme, "theme_list" : theme_list}
-{{< /highlight >}}
+```
 
 Then in my base template file, I add the following to the head section:
 
-{{< highlight html >}}
+```html
 <link rel="stylesheet" href="{{ current_theme.css_path }}" type="text/css" />
-{{< /highlight >}}
+```
 
 And add the list of themes into the sidebar.
 
-{{< highlight html >}}
+```html
 <h2>Theme Switcher</h2>
 <ul>
             {% for theme in theme_list %}
@@ -87,7 +87,7 @@ And add the list of themes into the sidebar.
             </li>
             {% endfor %}
             </ul>
-{{< /highlight >}}
+```
 
 And we're done!
 

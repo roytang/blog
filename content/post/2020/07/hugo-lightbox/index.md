@@ -28,7 +28,7 @@ Here's how that looks in this site's current Hugo templates:
 
 ( `.context` is the original image resource, and `$thumb` is the generated thumbnail)
 
-{{< highlight go-html-template >}}
+```go-html-template
 <a href="#{{ .context.RelPermalink | md5 }}-lightbox">
     <figure>
       <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" 
@@ -46,11 +46,11 @@ Here's how that looks in this site's current Hugo templates:
     <a href="#_">Close</a>
   </div>
 </div>
-{{< / highlight >}}
+```
 
 And the relevant CSS (I don't use SASS):
 
-{{< highlight css >}}
+```css
 .lightbox {
 	display: none;
 	position: fixed;
@@ -88,7 +88,7 @@ And the relevant CSS (I don't use SASS):
     outline: none;
     display: block;
 }
-{{< / highlight >}}
+```
 
 My only changes on top of the jlelse's blog post linked above was to add a second overlay for a caption and date to be shown, and a link to the original post, and a close button. Clicking the post itself also dismisses the overlay (by replacing the URL fragment), but I thought it was more usable to also add an obvious Close button. I also initially wanted to put "Previous" and "Next" buttons so that you can easily cycle through the images in a post, but this was a bit more effort. I didn't have a way to "look ahead" in the loop to get the "next" image, if any, so I think I would have needed to loop through the images twice? And since I use this image list in a number of places on the site, that was a bit troublesome, so maybe it's something I'll attempt later on? 
 

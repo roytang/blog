@@ -25,7 +25,7 @@ Changes since the last part:
   1. I moved the blog title and blog name into the header image. For this I had to darken the image a bit using the Gimp so that the white text isn't difficult to read against the header image. 
   2. Changed the layout to use CSS and divs instead of the previous table-based layout. I solved the "columns with equal heights" problem using a hack I found from several websites. Basically: for each column you add a large amount of padding to the bottom of each column, then apply a negative margin so that the padding isn't actually visible on-screen. This will create a scrollbar in the containing div though, so you need to hide the overflow. Sample CSS for this is:
 
-    {{< highlight css >}}
+    ```css
     .content {
     overflow: hidden; /* Part of equal heights column hack */
     }
@@ -33,7 +33,7 @@ Changes since the last part:
     margin-bottom: -20000px; /* Part of equal heights column hack */
     padding-bottom: 20000px; /* Part of equal heights column hack */
     }      
-    {{< / highlight >}}
+    ```
 
 
   3. Centering the main div was something I didn't know how to do either. The solution was to set left and right margin to auto in the divs. But this is ignored by IE6 so in addition to that, you need to set text-align: center in the body. 
@@ -41,7 +41,7 @@ Changes since the last part:
   5. Modified index.php by removing the while loop to iterate over the posts. This is so that only the latest post appears in the leftmost column. 
   6. Added the "recent posts" listing in the center column. Relevant code inserted into sidebar.php:
 
-  {{< highlight php >}}
+  ```php
     <table class="recent-posts" >
     <?php
     global $post;
@@ -59,18 +59,18 @@ Changes since the last part:
     }
     ?>
     </table>
-  {{< /highlight >}}
+  ```
 
   7. I don't want the about info hardcoded into the right column, so I modify it instead to display the contents of any page titled "about". The code shown below is cribbed from Hemingway Reloaded WordPress theme:
 
-  {{< highlight php >}}
+  ```php
     <?php query_posts('pagename=about'); ?>
     <?php if (have_posts()) : ?>
     <?php while (have_posts()) : the_post(); ?>
     <?php the_content(); ?>
     <?php endwhile; ?>
     <?php endif; ?>
-  {{< /highlight >}}
+  ```
 
 
   8. Changed the standard font used to Arial 12px 

@@ -14,7 +14,7 @@ Ever since I started learning Python back in 2008ish, I've been using it as my p
 
 With Python 3, a new cleaner option is available to replace all of the above libraries: [Pathlib](https://docs.python.org/3/library/pathlib.html), introduced in Python 3.4, provides an object-oriented way of doing file operations, replacing many of the most common uses I had for the libraries above. Some sample usage:
 
-{{< highlight python >}}
+```python
 from pathlib import path
 
 # Declaring a path object is just passing the path string
@@ -41,6 +41,6 @@ for mdfile in p.glob("**/*.md"):
     # for file copying, you still need shutil!
     import shutil
     shutil.copy(str(mdfile), str(newfile))
-{{< /highlight >}}
+```
 
 For me it's much cleaner to use than the old methods and require less imports (most of the time). I eventually hope to migrate all my older scripts to use Pathlib (the same way I migrated them away from Python 2 a while back), and moving forward I plan to use it primarily for filesystem operations.
