@@ -1,6 +1,6 @@
 ---
 date: 2019-11-09
-slug: So Good They Can't Ignore You
+slug: so-good-they-cant-ignore-you
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1192987972989325312/
