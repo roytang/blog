@@ -1,5 +1,0 @@
----
-aliases: 
-  /post
-url: /blog
----
