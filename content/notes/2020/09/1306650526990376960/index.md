@@ -9,7 +9,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1306994128215916545/
 tags:
-- mtgzkn
+- mtgznr
 - twitch
 - magicarena
 - mtg
