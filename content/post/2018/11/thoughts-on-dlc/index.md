@@ -5,7 +5,7 @@ date: 2018-11-23 02:06:56
 featuredResource: 
   filename: dlc-as-burgers.jpg
 resources:
-  src: dlc-as-burgers.jpg
+- src: dlc-as-burgers.jpg
   title: DLC as Burgers
 syndicated:
 - type: twitter

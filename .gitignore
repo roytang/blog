@@ -5,4 +5,5 @@ node_modules/
 utils/index/
 markov.md
 resources/_gen/
+cache/
 *.pyc
