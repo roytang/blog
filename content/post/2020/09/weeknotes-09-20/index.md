@@ -1,9 +1,14 @@
 ---
-title: "Weeknotes 2020-09-20"
 date: 2020-09-20
 slug: weeknotes-2020-09-20
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104895873320327123
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1307570205288050688/
 tags:
 - weeknotes
+title: Weeknotes 2020-09-20
 ---
 
 It's hard to imagine this is already the 3rd week of September, it feels like the month is passing by quickly, although I haven't been particularly busy recently.
