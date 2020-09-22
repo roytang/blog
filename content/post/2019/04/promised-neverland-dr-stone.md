@@ -25,7 +25,7 @@ Some spoilers for the second arc follow:
 
 The second arc after they manage to escape involves them trying to survive in a world that they find to be mostly populated by demons, some of them cunning like humans, and some wild and savage, all of them much stronger than humans. Sometimes writers won't know what to do after their initial premise, but *The Promised Neverland* handles it well; after the initial "Prison Break" story arc they successfully transitioned into a "Wilderness Survival" arc that reminds me a lot of Claymore. During the course of their journey to find a safe haven they learn the truth of why the world is like it is which eventually leads to a "Revolution" arc (currently ongoing) where the protagonists are trying to change the nature of this world. There were some fantastic battle scenes against overwhelming odds in the second arc as well, especially against Lewis and the other demons at Goldy Pond.
 
-{{</ spoiler >}}
+{{< /spoiler >}}
 
 *The Promised Neverland* is currently at 130 issues and I enjoyed it a lot. The writing is good, the artwork is not too complicated yet dynamic and flowing. 
 
@@ -43,7 +43,7 @@ The interesting thing about this series is how focused it is on science, detaili
 
 By the 100th issue, Senku has advanced the cause of science enough to be able to create (with the help of a whole village of people) such advanced devices as mobile communicators, a steam engine-powered boat, and even a carbon-fiber tank.
 
-{{</ spoiler >}}
+{{< /spoiler >}}
 
 I must admit I can't follow the science myself too closely (since I'm not that well-versed in chemistry), so I can't vouch for its accuracy, but I enjoy how it is presented and how Senku explains things. 
 

@@ -31,7 +31,7 @@ Back half of Young Justice Outsiders finished this week. I've honestly been a bi
 - I feel like the Light declaring at the end that their gains were sufficient vs Luthor's original plans seemed ridiculous (i.e. controlling Markovia vs controlling and registering all superhumans). They already had one puppet nation under their control (Queen Bee is right there!) and they're literally planning to go against Darkseid, how does controlling Markovia help? Feels like a very post-facto justification.
 - I did like that they chose not to complete their Judas Contract re-telling in a similar manner and we get a "redeemed" Tara to contrast with the "fallen" Geoforce
   
-{{</ spoiler >}}
+{{< /spoiler >}}
 
 ### Fleabag
 
