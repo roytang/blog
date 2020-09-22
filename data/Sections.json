@@ -1,6 +1,7 @@
 {
     "post": {
         "label": "Blog",
+        "section-alt": "blog",
         "descrip": "Traditional blog posts, usually longer than other types, with a title."
     },
     "photos": {
