@@ -2,7 +2,6 @@
 author: roy
 categories: []
 date: 2018-12-09 01:56:56
-featuredImage: https://roytang.net/uploads/2018/rtk3kerwins.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1071587578023952384/
@@ -11,6 +10,14 @@ tags:
 - Gaming
 title: Ancient PC Gaming
 type: post
+resources:
+- src: rtk3kerwins.jpg
+  title: "RTK3: He really liked naming characters after himself. Also I only noticed now the poor grammar i.e. 'a officer'"
+- src: waxworks.png
+  title: "Waxworks: The pyramid level was the one we were most familiar with, since it was the first one available."
+featuredResource:
+  filename: rtk3kerwins.jpg
+dontinlinephotos: true
 ---
 
 I recently found a stash of old DOS games we used to play, so I thought I'd write about the early days of PC gaming. My PC gaming career (such as it is) started way back in the MS-DOS era. It was an interesting time to be a gamer, to say the least. It was a time when you had to make bootdisks and fiddle around with files like `autoexec.bat` and `himem.sys` to make sure your PC booted with the correct configuration required to run your game. I got to become familiar with things like VGA drivers and sound drivers and so on.
@@ -21,10 +28,10 @@ Another mainstay of my early PC gaming years was LucasArts-style adventure games
 
 One of the earlist dungeon crawlers my brother and I played was [the horror game **Waxworks**](https://en.wikipedia.org/wiki/Waxworks_(1992_video_game)). This was a single player game, but I say "my brother and I" because we were often too scared to play the game alone. The sharp 90 degree turns meant enemies could jump out of nowhere. I'm sure if I played it now I would feel silly, but back then I remember we had tried playing the game at night while the parentals were out, and some baddie jumped out at us in the pyramid level and we went afk at the jump scare and ran out to the nearby sari-sari store. After typing this paragraph, I decided to try running the old copy of Waxworks I still had (you can run old games using [DOSBox](https://www.dosbox.com/)) and it reminded me that the game had very creepy midi music! Probably contributed a lot to the atmosphere. I don't play horror games anymore nowadays lol.
 
-{{< figure src="/uploads/2018/waxworks.png" caption="The pyramid level was the one we were most familiar with, since it was the first one available." >}}
+{{< img src="waxworks.png" caption="The pyramid level was the one we were most familiar with, since it was the first one available." >}}
 
 Another early favorite were the [Romance of the Three Kingdoms games](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_(video_game_series)#List_of_games_in_the_series) by Koei. I remember playing RTK2 a little bit, but it was RTK3 that we generally spent a lot of time in (we = me and my brothers and some HS friends). I spent so much time on this game, I could finish the game from a single province in the final scenario (where your opponents were 3 large empires). One of our favorite features in RTK3 was the fact that there was a custom character creator. We had a copy of the game that we passed around with a whole bunch of custom characters named after our HS friends. My brother was a big fan of this feature too, he added a bunch of high-stat custom characters named after himself. Sadly, my only remaining copy of this game only has my brother's custom characters and not the ones me and my HS friends made.
 
-{{< figure src="/uploads/2018/rtk3kerwins.jpg" caption="He really liked naming characters after himself. Also I only noticed now the poor grammar i.e. 'a officer'" >}}
+{{< img src="rtk3kerwins.jpg" caption="He really liked naming characters after himself. Also I only noticed now the poor grammar i.e. 'a officer'" >}}
 
 Prior to getting a PC, my video game exposure had been on the Atari and the Nintendo, which meant primarily real-time action-based games. My exposure to PC gaming introduced me to slower, more cerebral and more strategic games, a lifelong hobby that I've enjoyed ever since. What were your early days of PC gaming like?
