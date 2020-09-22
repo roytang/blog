@@ -110,19 +110,19 @@ def gen_svg_music(infile):
         for year in years:
             print("{{< grid3 >}}")
             print("\n##### " + year)
-            print("{{< grid_item >}}")
+            print("\n{{< grid_item >}}")
             print_top(year, "Artists", artists_by_year)
-            print("{{</ grid_item >}}")
+            print("{{< /grid_item >}}")
             print("{{< grid_item >}}")
             print_top(year, "Tracks", tracks_by_year)
-            print("{{</ grid_item >}}")
-            print("{{</ grid3 >}}")
+            print("{{< /grid_item >}}")
+            print("{{< /grid3 >}}")
 
         print(len(artists_by_year["ALL"]))
       
 
 # export file is from https://benjaminbenben.com/lastfm-to-csv/
-# infile = "C:\\Users\\USER\\Dropbox\\backups\\lastfm-roytang-20191206.csv"
-# gen_svg_music(infile)
-gen_svg_blog()
-gen_svg_awstats()
+infile = "C:\\Users\\USER\\Dropbox\\backups\\lastfm-roytang-20191206.csv"
+gen_svg_music(infile)
+# gen_svg_blog()
+# gen_svg_awstats()

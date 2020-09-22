@@ -34,6 +34,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### ALL
+
 {{< grid_item >}}
 
 ##### Artists
@@ -58,6 +59,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2005
+
 {{< grid_item >}}
 
 ##### Artists
@@ -82,6 +84,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2006
+
 {{< grid_item >}}
 
 ##### Artists
@@ -106,6 +109,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2007
+
 {{< grid_item >}}
 
 ##### Artists
@@ -130,6 +134,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2008
+
 {{< grid_item >}}
 
 ##### Artists
@@ -154,6 +159,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2009
+
 {{< grid_item >}}
 
 ##### Artists
@@ -178,6 +184,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2010
+
 {{< grid_item >}}
 
 ##### Artists
@@ -202,6 +209,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2016
+
 {{< grid_item >}}
 
 ##### Artists
@@ -226,6 +234,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2017
+
 {{< grid_item >}}
 
 ##### Artists
@@ -250,6 +259,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2018
+
 {{< grid_item >}}
 
 ##### Artists
@@ -274,6 +284,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 {{< grid3 >}}
 
 ##### 2019
+
 {{< grid_item >}}
 
 ##### Artists
