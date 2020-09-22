@@ -69,7 +69,7 @@ So I decided to play the MCQ. With only an FNM as practice. Good luck to me, alt
 1 Plague Engineer
 {{< /cardgroup >}}
 
-{{</ cardlist >}}
+{{< /cardlist >}}
 
 And the sideboard plans too for good measure. Feel free to tell me if these are terrible choices:
 

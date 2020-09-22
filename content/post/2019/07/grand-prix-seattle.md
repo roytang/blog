@@ -131,7 +131,7 @@ Here's the sealed pool I got for the LCT:
 1 Snow-Covered Forest
 {{< /cardgroup >}}
 
-{{</ cardlist >}}
+{{< /cardlist >}}
 
 This sealed pool, like all the other MH1 pools I played, tends to pull you in different directions. I considered some kind of W/G since Hermit and Squirrel Nest are obviously a bomb, especially with Answered Prayers. But I also like Plague Engineer and the changelings and Etchings of the Chosen. In the end, I went with the WB, although it probably could have gone either way:
 
@@ -286,7 +286,7 @@ I opted not to do a second trial, as I did not want to stay out too late. Instea
 2 Snow-Covered Forest
 {{< /cardgroup >}}
 
-{{</ cardlist >}}
+{{< /cardlist >}}
 
 I think the only real bomb here was the sword. For this limited format, I tended to prefer color pairs where I had one of the indicative uncommons or rares, so I decided to go G/W this time since I had Good-Fortune Unicorn. I don't have a record of my decklist for this pool, but I do remember my curve wasn't that good on the low end; I won the first round on the back of a Scale Up overrun, but lost the next 2 rounds due to being aggro'ed out and a bit of color screw. A bit discouraging, but I chalked it up to bad beats and kept my confidence for the main event.
 
@@ -387,7 +387,7 @@ Finally, the main event! I arrived on Saturday early, ready to face the challeng
 2 Snow-Covered Swamp
 {{< /cardgroup >}}
 
-{{</ cardlist >}}
+{{< /cardlist >}}
 
 Not too spectacular. Another sword (the better one, actually, since it stops black and red removal), some good rares, decent removal. White looked decent with Answered Prayers, On Thin Ice and Rhox Veteran, and red had some good removal, a few slivers and I had a Lavebelly, so I went W/R. The only problem with this build was that the creature count was a bit low, so I felt it wasn't a good idea to play all the Answered Prayers. This is the build I ended up going with:
 
