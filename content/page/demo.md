@@ -6,6 +6,14 @@ date: 2020-09-16
 An h1 header
 ============
 
+Test {{< footnote >}}A footnote{{< /footnote >}} 
+
+Test 2 {{< footnote >}}Second footnote{{< /footnote >}} 
+
+Test 3 {{< footnote >}}Third footnote{{< /footnote >}} 
+
+
+
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
@@ -51,12 +59,6 @@ The quick brown fox jumps over the lazy dog.
 
 {{< latest tag="movies" >}}
 
-
-Test {{< footnote >}}A footnote{{< /footnote >}} 
-
-Test 2 {{< footnote >}}Second footnote{{< /footnote >}} 
-
-Test 3 {{< footnote >}}Third footnote{{< /footnote >}} 
 
 {{< cardlist >}}
 

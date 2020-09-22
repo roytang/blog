@@ -43,7 +43,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - URBANDUB (697)
 - Rivermaya (515)
 - Gin Blossoms (505)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -53,8 +53,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Sailing (84)
 - soul searching (74)
 - Prom (73)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2005
@@ -67,7 +67,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Air Supply (2)
 - July For Kings (2)
 - Coldplay (2)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -77,8 +77,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - A City of Sleeping Hearts (2)
 - I Belong to You (1)
 - Points of Authority (1)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2006
@@ -91,7 +91,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Dashboard Confessional (329)
 - Gary Valenciano (309)
 - Rivermaya (281)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -101,8 +101,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - soul searching (70)
 - Prom (46)
 - Alapaap (36)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2007
@@ -115,7 +115,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - URBANDUB (113)
 - Gin Blossoms (93)
 - Yellowcard (90)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -125,8 +125,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Currents (62)
 - Prinsesa (49)
 - I Believe (31)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2008
@@ -139,7 +139,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Gin Blossoms (45)
 - Yellowcard (28)
 - Sugarfree (26)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -149,8 +149,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Reason To Believe (9)
 - Rooftops And Invitations (8)
 - The Secret's In The Telling (8)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2009
@@ -163,7 +163,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Eraserheads (104)
 - Rivermaya (88)
 - URBANDUB (74)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -173,8 +173,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Telepono (13)
 - Tikman (12)
 - Prom (11)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2010
@@ -187,7 +187,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - John Mayer (12)
 - Incubus (12)
 - Sister Hazel (10)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -197,8 +197,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Jamie (3)
 - If I Had $1000000 (3)
 - Liwanag Sa Dilim (3)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2016
@@ -211,7 +211,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Matchbox Twenty (10)
 - Journey (7)
 - Bon Jovi (7)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -221,8 +221,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Slide (4)
 - The Middle (4)
 - The Hardest Part Of Breaking Up (Is Getting Back Your Stuff) (4)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2017
@@ -235,7 +235,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Justin Timberlake (4)
 - Guns N' Roses (4)
 - Five for Fighting (3)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -245,8 +245,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - The Sound of Silence (3)
 - True Colors - Film Version (3)
 - Can't Stop The Feeling! (Original Song From Dreamworks Animation's Trolls) (3)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2018
@@ -259,7 +259,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Queen (15)
 - Mr. Big (9)
 - Dashboard Confessional (8)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -269,8 +269,8 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - To Be with You - 2010 Remastered Version (4)
 - Hey Jealousy (4)
 - Living Without Her (3)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
 {{< grid3 >}}
 
 ##### 2019
@@ -283,7 +283,7 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Matchbox Twenty (40)
 - Bon Jovi (36)
 - Goo Goo Dolls (28)
-{{</ grid_item >}}
+{{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
@@ -293,5 +293,5 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Long Day (10)
 - Stolen (9)
 - Here Is Gone (8)
-{{</ grid_item >}}
-{{</ grid3 >}}
+{{< /grid_item >}}
+{{< /grid3 >}}
