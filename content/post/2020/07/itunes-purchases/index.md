@@ -15,7 +15,7 @@ title: In Which I Review Everything I Purchased from the iTunes App Store
 I was going through some old emails and found some receipts for things I had purchased from the iTunes App Store for my iPad, and I wondered how much have I actually spent on apps/games on the App Store? I went through all the receipts and decided to write mini-reviews for each item as well:
 
 | Purchase Date | Name | Price (USD) | Still Available on App Store? | Notes | 
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | 2010/10/30 | Alien Blue HD - Reddit Client (Unofficial), v1.1.0, Developer: Morrissey Exchange Pty Ltd (17+)  | 3.99 | N | Wow, my first ever App Store purchase was a Reddit app! Appropriate since I reddit a lot. This app was much better than the official client available at the time. Eventually Reddit bought the app and phased it out in favor of a new, official Reddit client. |
 | 2010/11/24 | Covers of Spider-Man, v1.0, Developer: Philipp Lenssen (4+)  | 0.99 | N | This was some lame app that just showed you a lot of Spider-Man covers. It was an accidental purchase and the only one I ever had refunded from the app store. Here's what I said to the support: "Someone gave me a promo code for this application (Promo code: KAP3KXHM7HH3) and I was trying to figure out how to use it from the app store and accidentally bought the app. " (Noob!) |
 | 2010/11/27 | The Settlers HD, v1.0.4, Developer: Gameloft (9+)  | 0.99 | N | Wow, I don't remember this one at all. One of those "eh, why not it's cheap" purchases I guess? |
