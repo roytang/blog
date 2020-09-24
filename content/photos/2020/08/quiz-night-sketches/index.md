@@ -6,7 +6,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1296845626114584576/
 - type: instagram
-  url: https://www.instagram.com/p/CEKHQNGhUCk/
+  url: https://instagram.com/p/CEKHQNGhUCk/
 tags:
 - sketchdaily
 - comics
