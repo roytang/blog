@@ -1,0 +1,173 @@
+{
+    "baseURL": "https://roytang.net",
+    "languageCode": "en-us",
+    "title": "Roy Tang",
+    "theme": "exhale",
+    "paginate": 50,
+    "paginatePath": "p",
+    "ignoreFiles": [
+      "2002/",
+      "2003/",
+      "2004/",
+      "2005/",
+      "2006/",
+      "2007/",
+      "2008/",
+      "2009/",
+      "2010/",
+      "2011/",
+      "2012/",
+      "2013/",
+      "2014/",
+      "2015/",
+      "2016/",
+      "2017/",
+      "2019/",
+      "2020/"
+    ],
+    "rssLimit": 50,
+    "enableGitInfo": true,
+    "canonifyURLs": true,
+    "mediaTypes": {
+      "\"application/ld+json\"": {
+        "suffixes": [
+          "json"
+        ]
+      },
+      "\"text/markdown\"": {
+        "suffixes": [
+          "md"
+        ]
+      }
+    },
+    "outputFormats": {
+      "ActivityPub": {
+        "baseName": "activity",
+        "isPlainText": true,
+        "mediaType": "application/ld+json"
+      },
+      "jsonfeed": {
+        "baseName": "feed",
+        "isPlainText": true,
+        "mediaType": "application/json"
+      },
+      "hfeed": {
+        "baseName": "hfeed",
+        "mediaType": "text/html"
+      },
+      "mdlist": {
+        "baseName": "list",
+        "mediaType": "text/markdown"
+      },
+      "readme": {
+        "baseName": "README",
+        "mediaType": "text/markdown"
+      }
+    },
+    "outputs": {
+      "page": [
+        "HTML"
+      ],
+      "home": [
+        "HTML",
+        "RSS",
+        "jsonfeed",
+        "hfeed",
+        "readme"
+      ],
+      "section": [
+        "HTML",
+        "RSS"
+      ],
+      "taxonomy": [
+        "HTML",
+        "RSS",
+        "mdlist"
+      ]
+    },
+    "taxonomies": {
+      "tag": "tags",
+      "topic": "categories",
+      "source": "source",
+      "album": "albums",
+      "location": "locations"
+    },
+    "author": {
+      "name": "Roy Tang",
+      "email": "hello@roytang.net",
+      "url": "https://roytang.net"
+    },
+    "permalinks": {
+      "post": "/:year/:month/:slug/",
+      "photos": "/:year/:month/:filename/",
+      "notes": "/:year/:month/:filename/",
+      "links": "/:year/:month/:filename/",
+      "replies": "/:year/:month/:filename/",
+      "reposts": "/:year/:month/:filename/",
+      "fiction": "/:year/:month/:slug/",
+      "archm": "/:year/:month/",
+      "archy": "/:year/"
+    },
+    "params": {
+      "brand": "Roy Tang",
+      "topimage": "![Wearing dice on my head since 2008](/img/profile.jpg \"Wearing dice on my head since 2008\")",
+      "topline": "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart.",
+      "featuredImage": "https://roytang.net/img/profile.jpg",
+      "description": "Roy Tang's blog. Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed.",
+      "mainColor": "#57cc8a",
+      "footline": "",
+      "Webrings:\n\n- [←](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous)🕸💍[→](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next)\n- <a href": "https://webring.xxiivv.com/#random",
+      "target": "_blank",
+      "img class": "link",
+      "src": "https://webring.xxiivv.com/icon.black.svg",
+      "a>\n- **Geekring:** <a href": "http://geekring.net/site/NUMBER/previous",
+      "Previous</a> :: <a href": "http://geekring.net/site/NUMBER/random",
+      "Random</a> :: <a href": "http://geekring.net/site/NUMBER/next",
+      "Next</a>\n\"\"\"\ncomments_enabled": true,
+      "webmention_username": "roytang.net",
+      "search_action": "https://apps.roytang.net/blog/search",
+      "micropub_endpoint": "https://apps.roytang.net/blog/micropub",
+      "microsub_endpoint": "https://aperture.p3k.io/microsub/521",
+      "recaptcha_key": "6Ld80rMUAAAAAIKde9k3z7KtfmjHSwT48S_Cy5-k",
+      "sourceFileBase": "https://github.com/roytang/blog/tree/master/content/",
+      "mainSections": [
+        "post",
+        "links",
+        "photos",
+        "notes",
+        "fiction"
+      ],
+      "hero_text": "",
+      "Roy Tang** is a:\n\n- [programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart](/2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/)\n- Frustrated writer and [sketch artist](/album/sketchbook/)\n- [Magic](/tags/mtg) player on weekends\n- Sometimes [I stream video games](/tags/twitch).\n- [Software developer](/tags/software-development/) since 2003. If you'd like to work with me, take a look at my [resume](/resume).\n\n[roytang.net](https://roytang.net) is a personal site, an [E/N site](http://sawv.org/en.html), and kind of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book); \nI post about a random assortment of topics that interest me including [software development](/tags/software-development/), [Magic the Gathering](/tags/magic-the-gathering/), [pop culture](/tags/pop-culture), [gaming](/tags/gaming), and [tech life](tags). This site is [perpetually under renovation](/2019/08/perpetually-under-renovation/).\nsidebar": "left",
+      "home": "Home",
+      "highlight": "default",
+      "googleAnalytics": "UA-129889874-1",
+      "location": "Philippines",
+      "locationlink": "/tags/philippines",
+      "github": "roytang",
+      "linkedin": "roytang",
+      "twitter": "roytang",
+      "instagram": "roytang0400",
+      "twitch": "twitchyroy",
+      "reddit": "hungryroy",
+      "mastodon": "roytang@mastodon.technology",
+      "mastodon_url": "https://mastodon.technology/@roytang",
+      "rss": true
+    },
+    "blackfriday": {
+      "angledQuotes": false,
+      "fractions": false,
+      "hrefTargetBlank": false,
+      "latexDashes": true,
+      "plainIdAnchors": true,
+      "extensions": [],
+      "extensionmask": []
+    },
+    "markup": {
+      "goldmark": {
+        "renderer": {
+          "unsafe": true
+        }
+      }
+    }
+  }
