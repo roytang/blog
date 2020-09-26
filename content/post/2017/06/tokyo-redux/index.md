@@ -57,10 +57,5 @@ I'm not sure when I'll visit Japan again _(I don't think going there for the Ol
 
 &nbsp;
 
- [1]: http://roytang.net/wp-content/uploads/2017/06/18193267_10155586330728912_5172839765872331951_o1.jpg
- [2]: http://roytang.net/wp-content/uploads/2017/06/12299236_10154222295183912_2882233159207648588_n1.jpg
- [3]: http://roytang.net/wp-content/uploads/2017/06/11044496_10154222294128912_7734989852633614610_n1.jpg
- [4]: http://roytang.net/wp-content/uploads/2017/06/18278126_10155586327853912_2025259044343822927_o1.jpg
  [5]: https://en.wikipedia.org/wiki/Hachik%C5%8D
- [6]: http://roytang.net/wp-content/uploads/2017/06/18238211_10155586285008912_8962147114996121859_o1.jpg
- [7]: http://roytang.net/wp-content/uploads/2017/06/18221955_10155586275873912_7657365650867510473_n1.jpg
+ 

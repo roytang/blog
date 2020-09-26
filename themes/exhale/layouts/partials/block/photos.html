@@ -1,7 +1,7 @@
 {{ $caption := .Summary }}
 {{ $scratch := newScratch }}
 {{ $link_url := .Params.photo_link_url }}
-<div class="image-list">
+<div class="image-list" id="resources">
 {{ range .Resources.ByType "image" }}
 
 {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}

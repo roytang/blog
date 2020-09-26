@@ -12,13 +12,14 @@ tags:
 title: Nanowrimo 2016 Post-Mortem
 type: post
 url: /2016/12/nanowrimo-2016-post-mortem/
+dontinlinephotos: true
 ---
 
 As I recall, today was at least my fifth [Nanowrimo][1] attempt; the first one was sometime before 2003 (I would guess it was in 2000 or 2001 before I graduated from college), the second one was in 2003, then 2006, then 2011, then finally the fifth one this year. My best prior attempt was back in 2011, when I made it up to 22,000+ words.
 
 At just around 1am on the early morning of November 30th this year, I beat that record and have won Nanowrimo for the first time. I wrote more than 3,000 words from the last hours of the 29th up to the early hour of the 30th to push across the target count. According to the official word count tool on the site, I am at 50,135 words. The novel is terrible and it will never see the light of day as it is, but it has a start, it has a plot that it follows to the end, and it has an ending which while I'm not totally happy with, is good enough for a first draft.
 
-<img class="alignnone size-full" src="http://d1lj9l30x2igqs.cloudfront.net/nano-2013/files/2016/11/NaNoWriMo_2016_WebBanner_Winner.png" alt="" width="1500" height="555" />
+![](http://d1lj9l30x2igqs.cloudfront.net/nano-2013/files/2016/11/NaNoWriMo_2016_WebBanner_Winner.png)
 
 Getting the obvious question out of the way first: no, I'm not going to release or publish the draft as it is. Way too many problems (more on that below), even though I tried to resolve things and tie them together best as I can. The nature of nanowrimo itself means that novels written for this purpose tend to be all kinds of messy, since you are not encouraged to rewrite previously written parts. At some point I will revisit this story and attempt to rework it into something better, but for now, I'm just happy to be done and will set it aside for now.
 
@@ -40,9 +41,9 @@ Some other non-programming related notes:
 
 Having the daily quota was a strange experience. I was over quota most days, but also had some days where I was under quota. I found myself preferring to write in scenes, such that I won't switch scenes within the same day, so some scenes felt like they were a bit too long because I was stretching them to fit in the writing quota for that day. And the quota also meant that whenever I was already over quota for a certain day but still had a clear idea of what to write, I had the option to stop and just "bank" those thoughts and continue the scene the next day. I never tried to pull too far ahead (except for the last two days); I figured I needed to get used to the rhythm of writing a set amount per day, instead of in bursts as I might have done in previous attempts.
 
-I tracked my daily progress via a spreadsheet (word counts are using Google Docs' built-in word count tool. The nano site's word count tool had a different final count for some reason.)<figure id="attachment_1569" style="width: 663px" class="wp-caption aligncenter">
+I tracked my daily progress via a spreadsheet (word counts are using Google Docs' built-in word count tool. The nano site's word count tool had a different final count for some reason.)
 
-[<img class="size-full wp-image-1569" src="http://roytang.net/wp-content/uploads/2016/11/dailynano.png" alt="Nanowrimo 2016 Daily Log" width="663" height="641" srcset="https://roytang.net/wp-content/uploads/2016/11/dailynano.png 663w, https://roytang.net/wp-content/uploads/2016/11/dailynano-300x290.png 300w" sizes="(max-width: 663px) 100vw, 663px" />][2]<figcaption class="wp-caption-text">Nanowrimo 2016 Daily Log</figcaption></figure> 
+{{< img src="dailynano" >}}
 
 All in all, I'm happy with the experience, despite not being entirely happy with my own output. I learned a lot and now have a better sense of how long fifty thousand words actually is and what size a novel-size story really should be. I now have some idea of how quickly I can write, and how much "writing energy" I can spare for a day (I was actually in danger of falling behind on regular blogging at one point because I spent all my "writing energy" on nanowrimo.) I say "writing energy" because I find that I draw from a different pool of energy as compared to say, when I'm sketching. It's probably not super indicative -- I could probably have been writing more each day if I spend more time in preparation and outlining.
 

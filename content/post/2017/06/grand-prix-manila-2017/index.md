@@ -15,15 +15,23 @@ tags:
 title: Grand Prix Manila 2017
 type: post
 url: /2017/06/grand-prix-manila-2017/
+dontinlinephotos: true
+resources:
+- src: content_ulamog__ceaseless1.jpg
+  title: If you're playing Standard this year, you're familiar with this guy
+- src: I_guess_my_chaos_sealed_pool_was_okay__mtg__gpmanila.jpg
+  title: (No, I didnt dare play or shuffle the FOW)
+- src: gpmanila_loot._Maybe_next_time_I_should_stick_to_side_events_lol__mtg.jpg
+  title: GP Manila Loot
 ---
 
 I don't really play Magic regularly anymore; Last year I only played Standard because I was Q'ed for the WMCQs. But when there's a local Grand Prix, oldies like me crawl out of the woodwork and try to believe we can still do well in a tournament with minimal prep. Grand Prix Manila 2017 was to be Standard format, held on June 2-4, 2017, at the SMX convention center.
 
 At the start of the year I already knew I would be playing in this year's GP Manila, but since I hadn't played Standard for well over a year, I didn't really know what I would be playing. But I started keeping track of what decks there were in the metagame. Sadly, the meta was not so good, with an oppressive combo deck dominating the field. Like many others, I assumed there would be a ban at some point, which means I couldn't commit to a deck too early.
 
-I only decided on a deck after the B&R announcement shortly before the release of Amonkhet. At that point, looking at the available cards we had, I settled on trying to put together the Temur Marvel deck. It took me a couple of weeks to put the deck together, then I ran it through an FNM and a couple of other smaller tournaments. I was satisfied enough to play it for the grinders on Friday, Day 0 of GP Manila.<figure id="attachment_2013" style="width: 500px" class="wp-caption aligncenter">
+I only decided on a deck after the B&R announcement shortly before the release of Amonkhet. At that point, looking at the available cards we had, I settled on trying to put together the Temur Marvel deck. It took me a couple of weeks to put the deck together, then I ran it through an FNM and a couple of other smaller tournaments. I was satisfied enough to play it for the grinders on Friday, Day 0 of GP Manila.
 
-[<img class="size-full wp-image-2013" src="http://roytang.net/wp-content/uploads/2017/06/content_ulamog__ceaseless1.jpg" alt="" width="500" height="300" srcset="https://roytang.net/wp-content/uploads/2017/06/content_ulamog__ceaseless1.jpg 500w, https://roytang.net/wp-content/uploads/2017/06/content_ulamog__ceaseless1-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][1]<figcaption class="wp-caption-text">If you're playing Standard this year, you're familiar with this guy</figcaption></figure> 
+{{< img src="content_ulamog__ceaseless1.jpg" >}}
 
 **Day 0 -- Friday, June 2**
 
@@ -149,15 +157,15 @@ Will there be a next time? On the bus ride home I was so dejected at the poor pe
 
 I decided to come back to just play for some prizes in side events (and also because I had to return some cards I borrowed). Day two had one of my favorite side events: Chaos Sealed! I played this after scrubbing out of [GP Singapore 2015][3], so this may become a day two tradition for me lol.
 
-For Chaos Sealed, I got dealt the following boosters: EMA, MMA2017, BFZ, SOI, Dissension and Torment. I think I got a pretty good pool, value-wise:<figure id="attachment_2010" style="width: 720px" class="wp-caption aligncenter">
+For Chaos Sealed, I got dealt the following boosters: EMA, MMA2017, BFZ, SOI, Dissension and Torment. I think I got a pretty good pool, value-wise:
 
-[<img class="size-full wp-image-2010" src="http://roytang.net/wp-content/uploads/2017/06/I_guess_my_chaos_sealed_pool_was_okay__mtg__gpmanila.jpg" alt="" width="720" height="720" srcset="https://roytang.net/wp-content/uploads/2017/06/I_guess_my_chaos_sealed_pool_was_okay__mtg__gpmanila.jpg 720w, https://roytang.net/wp-content/uploads/2017/06/I_guess_my_chaos_sealed_pool_was_okay__mtg__gpmanila-150x150.jpg 150w, https://roytang.net/wp-content/uploads/2017/06/I_guess_my_chaos_sealed_pool_was_okay__mtg__gpmanila-300x300.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />][4]<figcaption class="wp-caption-text">(No, I didnt dare play or shuffle the FOW)</figcaption></figure> 
+{{< img src="I_guess_my_chaos_sealed_pool_was_okay__mtg__gpmanila.jpg" >}}
 
 My pool was kinda light on removal, but I had like a Llanowar Elf and some basic land search and three signets, so I decided to just ramp into some Eldrazi! A number of people were shocked that I decided to run the Ulamog, and a friend even told me I'd never be able to cast it. I sent him a picture of that Ulamog ready to attack for lethal on the first game in the first round.
 
-I went 3-2 with my pool. My losses were to a Deadeye Navigator (that guy is a nightmare to get rid of) and to a deck that was almost entirely removal (I died to a Control Magic'ed Benthic Infiltrator. More like InfilTRAITOR amirite?). Not bad. I won enough points to split a box with some guys, and the FOW/ Ulamog meant I came out ahead value-wise. The sad thing about these events is that they're among the last to finish, so the prize wall is kinda cleared out by then and we weren't able to get a Kaladesh box, had to settle for Amonkhet.<figure id="attachment_2011" style="width: 720px" class="wp-caption aligncenter">
+I went 3-2 with my pool. My losses were to a Deadeye Navigator (that guy is a nightmare to get rid of) and to a deck that was almost entirely removal (I died to a Control Magic'ed Benthic Infiltrator. More like InfilTRAITOR amirite?). Not bad. I won enough points to split a box with some guys, and the FOW/ Ulamog meant I came out ahead value-wise. The sad thing about these events is that they're among the last to finish, so the prize wall is kinda cleared out by then and we weren't able to get a Kaladesh box, had to settle for Amonkhet.
 
-[<img class="size-full wp-image-2011" src="http://roytang.net/wp-content/uploads/2017/06/gpmanila_loot._Maybe_next_time_I_should_stick_to_side_events_lol__mtg.jpg" alt="" width="720" height="720" srcset="https://roytang.net/wp-content/uploads/2017/06/gpmanila_loot._Maybe_next_time_I_should_stick_to_side_events_lol__mtg.jpg 720w, https://roytang.net/wp-content/uploads/2017/06/gpmanila_loot._Maybe_next_time_I_should_stick_to_side_events_lol__mtg-150x150.jpg 150w, https://roytang.net/wp-content/uploads/2017/06/gpmanila_loot._Maybe_next_time_I_should_stick_to_side_events_lol__mtg-300x300.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />][5]<figcaption class="wp-caption-text">GP Manila Loot</figcaption></figure> 
+{{< img src="gpmanila_loot._Maybe_next_time_I_should_stick_to_side_events_lol__mtg.jpg" >}}
 
 Competitively the GP was a bust for me, but at least I came away with some swag and some packs. I'm also planning to attend GP Singapore in December this year, and that's Sealed/Draft so hopefully I do better there. Until then, thanks for reading!
 

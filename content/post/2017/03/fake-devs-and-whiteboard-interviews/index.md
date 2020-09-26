@@ -12,11 +12,12 @@ tags:
 title: Fake Devs and Whiteboard Interviews
 type: post
 url: /2017/03/fake-devs-and-whiteboard-interviews/
+dontinlinephotos: true
 ---
 
-Recently, a developer needed to undergo a tech interview at US immigration:[][1] 
+Recently, a developer needed to undergo a tech interview at US immigration:
 
-[<img class="aligncenter size-full wp-image-1845" src="http://roytang.net/wp-content/uploads/2017/03/Untitled.png" alt="" width="598" height="297" srcset="https://roytang.net/wp-content/uploads/2017/03/Untitled.png 598w, https://roytang.net/wp-content/uploads/2017/03/Untitled-300x149.png 300w" sizes="(max-width: 598px) 100vw, 598px" />][2]
+{{< img src="binary_tree" >}}
 
 This may surprise some people I've worked with, but I didn't have formal computer science training in school. I'm not actually a computer science major. Yet I've worked as a software developer for more than a decade now. Literally zero times have I needed to write a sorting function or balance a BST.
 
@@ -34,7 +35,3 @@ But the problems with the whiteboard interviewing process isn't that they requir
 
 Unfortunately, it's often far too costly for companies to evaluate you under real-world conditions, so many resort to this common interviewing process. After all, it is difficult to evaluate the performance of even developers you have been working with for months, what more someone who just whipped up a short function on a whiteboard in twenty minutes? We tried some variations on it at our last company, but for me it is a problem yet unsolved. Maybe someday... 
 
-&nbsp;
-
- [1]: http://roytang.net/wp-content/uploads/2017/03/If_you_want_to_be_a_programmer_in_the_US_you_get_to_do_immigration_and_tech_interview_at_the_same_time_.jpg
- [2]: http://roytang.net/wp-content/uploads/2017/03/Untitled.png
