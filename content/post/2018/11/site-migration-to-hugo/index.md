@@ -1,7 +1,8 @@
 ---
 categories: []
 date: 2018-11-14 03:06:26
-featuredImage: https://roytang.net/uploads/2018/blog-hugo-2018.png
+featuredResource:
+  filename: blog-hugo-2018.png
 publishdate: 2018-11-14 03:06:26
 syndicated:
 - type: twitter
@@ -13,6 +14,7 @@ tags:
 - Tech Life
 - changelog
 title: Site Migration from Wordpress to Hugo
+dontinlinephotos: true
 ---
 
 ### Leaving Wordpress
@@ -67,7 +69,7 @@ Hugo doesn't have built-in support for archive pages, so I had to create them my
 
 A bigger problem was the archive listing (the page that would link to the individual archive pages). Because the blog has been running for 15 years, there's a whole lot, so I preferred to organize them in a table like this:
 
-![Archive Grid](/uploads/archive-grid.png)
+{{< img src="archive-grid" >}}
 
 I actually couldn't find a decent Wordpress plugin that did this for me exactly, so I wrote my [own plugin](https://github.com/roytang/wp_grid_archive/) for this.
 
@@ -103,7 +105,7 @@ I'm not much of a CSS/site design guy, I'm more a "find an existing theme and tw
 
 For posterity's sake, a screenshot of the new layout/theme:
 
-![](/uploads/2018/blog-hugo-2018.png)
+{{< img src="blog-hugo-2018" >}}
 
 ### Summary
 

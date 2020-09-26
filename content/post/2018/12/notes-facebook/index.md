@@ -10,6 +10,7 @@ tags:
 - Tech Life
 title: Notes on Facebook
 type: post
+dontinlinephotos: true
 ---
 
 Facebook is in hot water again, over controversial deals it made in the past that compromised user privacy.
@@ -34,15 +35,15 @@ Some random things I noted about Facebook recently:
 
 - if you open the browser's developer console, Facebook outputs warning messages to the console, to protect against [Self-XSS](https://www.facebook.com/help/246962205475854)
 
-![](/uploads/2018/fb-console-warning.png)
+{{< img src="fb-console-warning" >}}
 
 - what I didn't expect was that if you set your Facebook's language to something other than English, the console message changes too!
 
-![](/uploads/2018/fb-console-warning-spanish.png)
+{{< img src="fb-console-warning-spanish" >}}
 
 - if you log out of Facebook, your profile picture remains on the login page so you can more easily re-login (I should probably remove that though). There's a small red number above your profile picture, supposedly indicating pending notifications that are waiting for you when you login. This number is a lie meant only to entice you to login and has no correlation to the actual pending notifictations.
 
-![](/uploads/2018/fb-notifs-lies.png)
+{{< img src="fb-notifs-lies" >}}
 
 [Dave Winer](http://scripting.com/) makes a point that Facebook, despite all its flaws, did bring something good to humanity, even if only for a little while.
 

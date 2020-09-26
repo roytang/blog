@@ -13,6 +13,7 @@ tags:
 - Gaming
 title: 'Review: Eternal or "Eternal primer for MTG players"'
 type: post
+dontinlinephotos: true
 ---
 
 I said in my previous [Duelyst review](/2017/02/review-duelyst/) that [Eternal](https://www.direwolfdigital.com/eternal/) didn't really hook me. That was in Feb 2017. I stopped playing Duelyst after around six months. I started playing Eternal regularly July of that year, and have been playing regularly ever since.
@@ -27,7 +28,7 @@ Some of the relevant changes that I believe make it feel like a faster MTG:
 - the game will automatically pass priority whenever you don't have any relevant plays. MTG Arena does this automatically as well. You can turn it off, since it has a bit of disadvantage (it conveys information to the opponent)
 - similar to HS, Eternal limits the number of creatures you can have on the board. Eternal allows twelve on each side vs Heathstone's seven. This is more due to technical constraints than anything else. MTG Arena has to play the same on paper, so you can crash the game by generating some large number of creatures somehow.
 
-![Eternal's board limit](/uploads/2018/eternal_board_limit.jpg)
+{{< img src="eternal_board_limit" >}}
 
 Eternal's power system is similar to MTG's mana system - you have to draw cards that provide power the same way that you have to draw lands in MTG. This means one of MTG's inherent "problems" - mana screw - still happens in Eternal. In fact, on the forums mana screw is one of the complaints that often comes out (I suspect from former HearthStone players). Coming from MTG, I understand that building your deck to avoid mana screw is one of the skills needed in games like Magic and Eternal. Eternal eases the problem a little bit with its mulligan mechanic: Eternal gives you one free mulligan, and the 2nd hand is guaranteed to have 2-4 power. As I write this, they are also experimenting with allowing a 2nd mulligan that drops your starting hand size by one, still with the guarantee of 2-4 power.
 
@@ -98,7 +99,7 @@ I hit Master rank in constructed on my third month of play (same rate as with Du
 
 It took me a while longer to hit Master rank in draft - more than one year in fact, I only hit it last week. This was the last achievement I needed for Steam completion too.
 
-![](/uploads/2018/eternal_draft_master.jpg)
+{{< img src="eternal_draft_master" >}}
 
 **Lore and Aesthetics**
 

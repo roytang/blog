@@ -8,7 +8,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1066165074539229186/
 tags:
 - Tech Life
-title: iPad Restrospective
+title: iPad Retrospective
+slug: ipad-retrospective
+dontinlinephotos: true
 ---
 
 Looking back on 8 years of apple tablets.
@@ -21,7 +23,7 @@ My current iPad Pro is my 3rd apple tablet. It's a 1st generation iPad Pro (2015
 
 Despite being my newest iPad and being only two years old, this one is the least well-maintained and is experiencing some problems. It already has quite a few cracks on the display, so it looks quite worse for the wear. (See the visible cracks in the image below.) I don't think the cracks are on the display itself, probably on the thin protective layer on top, because the cracks extend over the bezels. I suspect this is due to me banging my bag around too much. The battery life also seems much worse these days, I'm not sure if that's due to the most recent version of iOS. When my niece comes over she always drains the battery with her Youtubes and weird games.
 
-![](/uploads/2018/ipad_screen.jpg)
+{{< img src="ipad_screen" >}}
 
 But the most mysterious problem is an incessant beeping. It's been happening for a while, but I haven't been able to figure out yet. Basically, at times the iPad will beep continuously, as if it was being repeatedly plugged and unplugged into the charger. It happens most often when I'm lying in bed holding the iPad above me at an angle or at my side. I can't identify whether it happens due to position or something else. Also, it's rare for it to happen when I'm using the iPad in some other place or position. And it *never* happens when I'm not using the iPad. I'm starting to suspect that it has to do with some sort of static charge caused by my hands and the bed somehow, but that seems ridiculous. That, or my iPad has developed sentience and is trying to communicate with me through beeps. (That theory gives a fun image whenever I put the iPad down and the beeping starts to taper off.)
 
@@ -32,8 +34,8 @@ Speaking of charger problems, another issue I have with Apple tablets in general
 Some friends have told me that supposedly the cable material is not very tolerant of our tropical heat. Apple needs to be better than this! More pictures (these are 3 different cables.):
 
 ![](https://lh3.googleusercontent.com/-DM-_tVPtJ7g/T-cdm1D0v5I/AAAAAAAAAOs/nh3-56iYIcY/s1024/IMG_20120624_220104.jpg)
-![](/uploads/2018/ipad_cable1.jpg)
-![](/uploads/2018/ipad_cable2.jpg)
+{{< img src="ipad_cable1" >}}
+{{< img src="ipad_cable2" >}}
 
 Re: apps. When I first got the iPad, I did indulge myself in purchasing a few apps, mostly games like the aforementioned Tilt to Live and Battleheart. Gaming on the iPad is okay, but as can be expected it's a big battery drain. I often got iPad versions of "real" games like Street Fighter, Injustice, and so on. But I stopped buying apps in 2013. I don't know my rationale at the time, but I do know today that buying apps on the iPad is extremely problematic for one reason: rapid changes in iOS. The programming APIs change rapidly, and apps will often need to be updated to work with more recent versions of iOS, and many app developers won't bother keeping up. That means many apps will tend to be short-lived - I checked my purchase history and roughly more than half of my previously purchased apps could not even be downloaded anymore. (Not sure if this would be alleviated by using older iOS versions). Maybe I'm spoiled by backward compatibility on Windows, where I can basically still run software from two decades ago. These days, my iPad gaming is mostly just Words with Friends.
 

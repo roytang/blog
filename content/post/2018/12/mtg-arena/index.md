@@ -2,7 +2,8 @@
 author: roy
 categories: []
 date: 2018-12-18 01:56:56
-featuredImage: https://roytang.net/uploads/2018/mtgarena.png
+featuredResource: 
+  filename: mtgarena.png
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1074847827149365248/
@@ -12,13 +13,14 @@ tags:
 - gaming
 title: MTG Arena
 type: post
+dontinlinephotos: true
 ---
 
 I've been playing [MTG Arena](https://magic.wizards.com/en/mtgarena) for a good while now, a little bit during the closed beta, and now I think we're still in open beta (?) because things still keep changing around. But I figured I could put in a little commentary about how this thing is going so far. I'm coming off the POV of a long-time [Magic the Gathering](/categories/magic-the-gathering/) player of course, with a little bit of comparison to [Eternal](/2018/11/review-eternal-or-eternal-primer-for-mtg-players/) and [Hearthstone](/2016/05/hearthstone-vs-mtg/), the two digital CCGs I'm most familiar with.
 
 ### Client, Ruleset, and Gameplay
 
-![/uploads/2018/mtgarena.png](/uploads/2018/mtgarena.png)
+{{< img src="mtgarena" >}}
 
 Unlike the earlier Duels of the Planeswalkers game, it looks MTG Arena is a complete implementation of the paper MTG ruleset, but with a more limited card base. At the moment, only the cards from the [current standard](https://whatsinstandard.com/) are currently available (sets from the previous rotation were available during the closed beta.) Granted, the MTG ruleset is a complicated beast, so they probably have a few bugs hidden away there somewhere but for the most part it is a faithful conversion.
 
@@ -50,7 +52,7 @@ The limiter for constructed play is your available wildcards. Getting rare wildc
 
 It's great to have an option for BO3 play. The complexity of competitive Magic shines through in BO3 play, although it takes much longer to play them out. Actually, Magic games in general, even BO1, take longer to play than Eternal (which is weird because Eternal has higher deck size and starting life), which means grinding out wins as a F2P player would be more exhausting. There was a recent outcry when they announced a tweak to constructed rewards that would have made BO3 events much less appealing, basically giving them the same rewards structure as BO1 events, which is ridiclous since BO3 games take so much more time. They walked back on that change though, but haven't announced a replacement yet, let's see if they do better next time. 
 
-![/uploads/2018/mtgarena2.png](/uploads/2018/mtgarena2.png)
+{{< img src="mtgarena2" >}}
 
 I also have this not-so-competitive BG midrange deck that I was building towards before I netdecked the MonoBlue one. I had already spent a few mythic wildcards towards it, kind of a bad choice really, because the ranked ladder does this weird matchmaking thing where you're more likely to fight against decks that have similar rare/mythic counts. So what usually happens is my unoptimized BG monstrosity gets roflstomped by tuned netdecks and such. After discovering this, I now mostly only play either the starter decks on ranked (to fulfill my daily quests) or Competitive Constructed with the Monoblue (in order to build up gold/cards). I still occasionally do break out the BG deck for fun.
 

@@ -10,6 +10,7 @@ tags:
 - Tech Life
 title: 'Review: Fitbit Charge 2'
 type: post
+dontinlinephotos: true
 ---
 
 I mentioned in [yesterday's post about my daily walks](/2019/11/daily-walks/) that my brother got me a Fitbit Charge 2 mid last year, I thought I'd write a quick review. (Actually, this is mainly an excuse to write down a story about how stupid I am.)
@@ -20,7 +21,7 @@ One minor nitpick I have is that it my wrist doesn't seem to like the fitbit too
 
 Okay, on to the stupid story! About 4 or 5 months after i started using the fitbit, this happened:
 
-![](/uploads/2018/fitbit1.jpg)
+{{< img src="fitbit1" >}}
 
 Oh noes! Normally you can just snap the strap part back into place, but this time something had come off and it wouldn't stick back. I didn't want to spend money on a replacement strap, so in a brilliant move that I would surely never regret, I glued it back into place with Mighty Bond. This worked well! The strap held in place and I could now use the fitbit again without worry.
 
