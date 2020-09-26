@@ -12,11 +12,12 @@ tags:
 title: When I dream I live in a different house
 type: post
 url: /2018/10/when-i-dream-i-live-in-a-different-house/
+dontinlinephotos: true
 ---
 
-I've noticed that when I dream I live in a different house. In the dreams, "home" is not the home that I live in now. Instead it's the "home" I grew up in. It's my grandparents' house, where we lived until the right after the turn of the millenium.<figure class="wp-block-image">
+I've noticed that when I dream I live in a different house. In the dreams, "home" is not the home that I live in now. Instead it's the "home" I grew up in. It's my grandparents' house, where we lived until the right after the turn of the millenium.
 
-<img src="https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1.jpg" alt="" class="wp-image-2820" srcset="https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1.jpg 984w, https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1-300x220.jpg 300w, https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1-768x562.jpg 768w, https://roytang.net/wp-content/uploads/2018/10/27993693_10156407762018912_5283830136135427657_o1-600x439.jpg 600w" sizes="(max-width: 984px) 100vw, 984px" /></figure> 
+{{< img src="27993693_10156407762018912_5283830136135427657_o1" >}}
 
 That house is no longer there; [I've mentioned it before][1]. But when I manage to remember my dreams it seems like it's still "home" for me. I distinctly remember some dreams where I come home to that rusty metal gate. I can't remember any instance where I recognize my current home in a dream.  
 

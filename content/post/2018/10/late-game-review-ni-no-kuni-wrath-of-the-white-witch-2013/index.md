@@ -14,6 +14,7 @@ tags:
 title: 'Late Game Review -- Ni No Kuni: Wrath of the White Witch (2013)'
 type: post
 url: /2018/10/late-game-review-ni-no-kuni-wrath-of-the-white-witch-2013/
+dontinlinephotos: true
 ---
 
 _("Late Game Review" because I'm trying to play through games on my ridiculously old backlog, so these games are pretty old)_
@@ -21,9 +22,8 @@ _("Late Game Review" because I'm trying to play through games on my ridiculously
 I got my digital PS3 copy of _Ni No Kuni_ during some kind of PSN sale a while back for like $10 and seeing as how the sequel came out recently, I figured I'd better finish the first game before my rarely-used PS3 decides to die on me.
 
 Anyway, the game was great and I enjoyed it enough to go for the platinum (post-game was a bit grindy though):  
-<figure class="wp-block-image">
 
-<img src="https://roytang.net/wp-content/uploads/2018/10/DopmwwhUcAMCTak.jpg-large.jpg" alt="" class="wp-image-2772" srcset="https://roytang.net/wp-content/uploads/2018/10/DopmwwhUcAMCTak.jpg-large.jpg 1920w, https://roytang.net/wp-content/uploads/2018/10/DopmwwhUcAMCTak.jpg-large-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2018/10/DopmwwhUcAMCTak.jpg-large-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2018/10/DopmwwhUcAMCTak.jpg-large-1024x576.jpg 1024w, https://roytang.net/wp-content/uploads/2018/10/DopmwwhUcAMCTak.jpg-large-600x338.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure> 
+{{< img src="DopmwwhUcAMCTak.jpg-large" >}}
 
 Visually, it's a very pretty game, animated Ghibli-style. The combat system is basically Pokemon. So yes, it's Ghibli+Pokemon. Pokemon in this game are called "familiars" and each party member can have up to 3 familiars ready to fight in battle. The party members can fight directly as well, but most of the time it's a better idea to let your familiars go at it. 
 
