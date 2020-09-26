@@ -9,14 +9,19 @@ tags:
 - late-game-review
 - review
 - Gaming
+albums:
+- gaming
 title: 'Late Game Review: The Elder Scrolls V - Skyrim'
 type: post
 url: /2018/11/late-game-review-the-elder-scrolls-v-skyrim/
+resources:
+- src: 2 - 0mR5pvs.jpg
+  title: My final armor set was the Deathbrand from the Dragonborn expansion since I was trying to level up Light Armor.
 ---
 
-_(“Late Game Review" because I’m trying to play through games on my ridiculously old backlog, so these games are pretty old)_<figure class="wp-block-image">
+_(“Late Game Review" because I’m trying to play through games on my ridiculously old backlog, so these games are pretty old)_
 
-<img src="https://roytang.net/wp-content/uploads/2018/10/skyrim.jpg" alt="" class="wp-image-2936" srcset="https://roytang.net/wp-content/uploads/2018/10/skyrim.jpg 958w, https://roytang.net/wp-content/uploads/2018/10/skyrim-300x176.jpg 300w, https://roytang.net/wp-content/uploads/2018/10/skyrim-768x450.jpg 768w, https://roytang.net/wp-content/uploads/2018/10/skyrim-600x351.jpg 600w" sizes="(max-width: 958px) 100vw, 958px" /></figure> 
+{{< img src="skyrim" >}}
 
 The Elder Scrolls V Skyrim came out on 11/11/2011. I remember I bought the game for Steam on launch day. I finally "finished" it after 350 hours of gameplay and seven years real-time. "Finished" in this case means "achievement complete", not just "main quest complete", because as any Bethesda gamer knows, that&#8217;s not how their RPGs roll.
 
@@ -24,9 +29,9 @@ I had been looking forward to this game because I had previously enjoyed both ES
 
 My first character was a male Nord named Hunter. I actually managed to finish the main quest a bit more than a month after getting the game (fairly fast!). I used that first character to complete all the guild quests -- Companions, Mage&#8217;s Guild, Thieves Guild, Dark Brotherhood. Afterwards I immersed myself with the open world and toyed around with mods for a bit. I played it on and off again for a few years, and buying the DLC expansions (Hearthfire, Dawnguard and Dragonborn) eventually when they were on sale. I started a few other runs but never got far. 
 
-In 2016, I started my final run -- the character that I would be able to bring to "achievement completion" including all DLCs. This final character was Arche, an Imperial (named after the Tales of Phantasia character).<figure class="wp-block-image">
+In 2016, I started my final run -- the character that I would be able to bring to "achievement completion" including all DLCs. This final character was Arche, an Imperial (named after the Tales of Phantasia character).
 
-![][1]<figcaption>My final armor set was the Deathbrand from the Dragonborn expansion since I was trying to level up Light Armor.</figcaption></figure> 
+{{< img src="2 - 0mR5pvs" >}}
 
 Anyway, I greatly enjoyed this game obviously. It&#8217;s been available for a while and been ported to every platform imaginable (it even got a new console release this year!), so there&#8217;s not much point talking about the features and whatnot. There are some other things I&#8217;d like to cover though:
 
@@ -57,9 +62,10 @@ I had a \*lot\* of mods installed, mostly additional gameplay/quests, additional
   4. Actually just more radiant quests in general would have been nice for a bit more variance (I&#8217;m not sure if I will ever be satisfied). I think there&#8217;s already mods that do this, but I never tried them out.
   5. The ability to take over a fort after you clear it. Skyrim has a lot of small forts or buildings held by bandits or whatever, it would have been a nice alternative to buying a house, after you clear a bandit the Jarl of the containing hold offers you a chance to buy/earn the title for the hold. Once you own a hold, whenever you recruit new followers you can choose to send them to the hold instead of following you around, and same as the house you could build improvements like a smith, stables, etc, and earn money from shops maybe?
 
-I also have the Legendary Edition on Steam (free upgrade since I had the DLCs), but I don&#8217;t think I have the patience to go through the entire game again. The size of the game and the excellent mod community mean one could very well play Skyrim forever, especially since Bethesda tells us&nbsp;[The Elder Scrolls 6 is still a ways away][6]. Unfortunately, there are still a lot of other games to play, and now I&#8217;m finally able to uninstall Skyrim. But before that here&#8217;s an Imgur dump of my Steam screenshots folder:<figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+I also have the Legendary Edition on Steam (free upgrade since I had the DLCs), but I don&#8217;t think I have the patience to go through the entire game again. The size of the game and the excellent mod community mean one could very well play Skyrim forever, especially since Bethesda tells us&nbsp;[The Elder Scrolls 6 is still a ways away][6]. Unfortunately, there are still a lot of other games to play, and now I&#8217;m finally able to uninstall Skyrim. 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZWNxtnz"><a href="//imgur.com/a/ZWNxtnz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Attached to this post are a dump of my Steam screenshots folder. (These used to be embedded via an [Imgur album](//imgur.com/a/ZWNxtnz), but I edited the post on 2020-Sep to embed them here instead, for reasons.)
+
 
  [1]: https://i.imgur.com/0mR5pvs.png
  [2]: https://www.nexusmods.com/skyrim/mods/70219/

@@ -25,7 +25,7 @@ dontinlinephotos: true
 
 A few days back I read something on [a Hacker News thread][1] that kind of resonated with me:
 
-{{< img src="image-1" >}}
+{{< img src="image" >}}
 
 I'm not going to claim to be the most workaholic person ever -- I've certainly known a lot of people who work far harder than me. But I do recognize that I have this problem of emotional attachment to a project, especially if I'm the main person responsible for it. When working on anything you of course need a certain amount of drive or passion that commits you to the project and pushes you to do the best work you can, but there's a line you can cross where it becomes unhealthy for you. It's when the project and the stress that comes with it starts to take over your life, such that it starts eating up your personal time and you can't get it out of your mind and maybe you even start having nightmares about it. 
 
