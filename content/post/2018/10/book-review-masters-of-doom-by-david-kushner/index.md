@@ -15,11 +15,15 @@ tags:
 title: 'Book Review: Masters of Doom by David Kushner'
 type: post
 url: /2018/10/book-review-masters-of-doom-by-david-kushner/
+dontinlinephotos: true
+resources:
+- src: doom_screenshot.jpg
+  title: Mandatory screenshot of old-school Doom
 ---
 
-I've had a copy of this book for quite a while now, but for some reason only got around to starting on it three days ago. It's not a particularly long book, but I pretty much devoured it in twenty four hours.<figure class="wp-block-image">
+I've had a copy of this book for quite a while now, but for some reason only got around to starting on it three days ago. It's not a particularly long book, but I pretty much devoured it in twenty four hours.
 
-<img src="https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1.jpg" alt="" class="wp-image-2810" srcset="https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1.jpg 950w, https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1-300x169.jpg 300w, https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1-768x432.jpg 768w, https://roytang.net/wp-content/uploads/2018/10/https___blueprint-api-production.s3.amazonaws.com_uploads_card_image_838537_5b94182a-78ae-4e68-bf29-78c2854ca80f1-600x337.jpg 600w" sizes="(max-width: 950px) 100vw, 950px" /><figcaption>Mandatory screenshot of old-school Doom</figcaption></figure> 
+{{< img src="doom_screenshot" >}}
 
 The book traces the paths of the lives of John Romero and John Carmack -- two legends of the software development world that changed PC gaming forever. It's a fantastic read for anyone who grew up playing PC games during the 80s and 90s. It gives us a birds-eye view of what the burgeoning gaming industry was like back then, not just with the technical and business aspects, but a lot of the human aspects as well: there's plenty of drama, conflict, and betrayal to go around.
 

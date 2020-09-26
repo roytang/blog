@@ -12,6 +12,7 @@ tags:
 title: Let Go or Be Dragged
 type: post
 url: /2018/10/let-go-or-be-dragged/
+dontinlinephotos: true
 ---
 
 <blockquote class="wp-block-quote">
@@ -22,9 +23,9 @@ url: /2018/10/let-go-or-be-dragged/
   <cite>Zen proverb</cite>
 </blockquote>
 
-A few days back I read something on [a Hacker News thread][1] that kind of resonated with me:<figure class="wp-block-image">
+A few days back I read something on [a Hacker News thread][1] that kind of resonated with me:
 
-<img src="https://roytang.net/wp-content/uploads/2018/10/image-1.png" alt="" class="wp-image-2765" srcset="https://roytang.net/wp-content/uploads/2018/10/image-1.png 663w, https://roytang.net/wp-content/uploads/2018/10/image-1-300x221.png 300w, https://roytang.net/wp-content/uploads/2018/10/image-1-600x443.png 600w" sizes="(max-width: 663px) 100vw, 663px" /></figure> 
+{{< img src="image-1" >}}
 
 I'm not going to claim to be the most workaholic person ever -- I've certainly known a lot of people who work far harder than me. But I do recognize that I have this problem of emotional attachment to a project, especially if I'm the main person responsible for it. When working on anything you of course need a certain amount of drive or passion that commits you to the project and pushes you to do the best work you can, but there's a line you can cross where it becomes unhealthy for you. It's when the project and the stress that comes with it starts to take over your life, such that it starts eating up your personal time and you can't get it out of your mind and maybe you even start having nightmares about it. 
 
