@@ -13,11 +13,12 @@ tags:
 title: Trying out 3d Modelling with Blender
 type: post
 url: /2018/02/trying-out-3d-modelling-with-blender/
+dontinlinephotos: true
 ---
 
-I decided to try learning some 3d modeling. For the past couple of weeks I've been following this beginner [Blender][1] tutorial where I had to make donuts. ([Link to the tutorial series on Youtube][2].) Here's my output!<figure id="attachment_2554" style="width: 150px" class="wp-caption aligncenter">
+I decided to try learning some 3d modeling. For the past couple of weeks I've been following this beginner [Blender][1] tutorial where I had to make donuts. ([Link to the tutorial series on Youtube][2].) Here's my output!
 
-[<img class="wp-image-2554 size-thumbnail" src="http://roytang.net/wp-content/uploads/2018/02/donut4-150x150.png" alt="" width="150" height="150" srcset="https://roytang.net/wp-content/uploads/2018/02/donut4-150x150.png 150w, https://roytang.net/wp-content/uploads/2018/02/donut4-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />][3]<figcaption class="wp-caption-text">(click for full size)</figcaption></figure> 
+{{< img src="donut4" >}}
 
 This image took around 40 minutes to render. I had to do 2000 samples per tile which is why it was so slow. I was getting too much noise/graininess at lower sampling rates.
 
@@ -35,4 +36,3 @@ I'm probably not going into any sort of significant 3d modelling or 3d artwork s
 
  [1]: https://www.blender.org/
  [2]: https://www.youtube.com/watch?v=JYj6e-72RDs&index=2&list=PLjEaoINr3zgHs8uzT3yqe4iHGfkCmMJ0P
- [3]: http://roytang.net/wp-content/uploads/2018/02/donut4.png

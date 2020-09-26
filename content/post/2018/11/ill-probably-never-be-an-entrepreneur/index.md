@@ -8,6 +8,7 @@ syndicated:
 title: I'll probably never be an entrepreneur
 type: post
 url: /2018/11/ill-probably-never-be-an-entrepreneur/
+dontinlinephotos: true
 ---
 
 I'll probably never be an entrepreneur.
@@ -18,7 +19,7 @@ Laziness is probably the main factor. Becoming an entrepreneur is hard work. Tha
 
 Someone shared this image to me a while back:
 
-[<img class="aligncenter size-full wp-image-2488" src="http://roytang.net/wp-content/uploads/2017/10/IMG_20171001_121426_847.jpg" alt="" width="1027" height="759" srcset="https://roytang.net/wp-content/uploads/2017/10/IMG_20171001_121426_847.jpg 1027w, https://roytang.net/wp-content/uploads/2017/10/IMG_20171001_121426_847-300x222.jpg 300w, https://roytang.net/wp-content/uploads/2017/10/IMG_20171001_121426_847-768x568.jpg 768w, https://roytang.net/wp-content/uploads/2017/10/IMG_20171001_121426_847-1024x757.jpg 1024w" sizes="(max-width: 1027px) 100vw, 1027px" />][1]
+{{< img src="IMG_20171001_121426_847" >}}
 
 I was looking at this diagram and it really solidified in my mind that in all likelihood I'll never really pursue entrepreneurship.
 
