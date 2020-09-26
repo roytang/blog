@@ -12,11 +12,12 @@ tags:
 title: Lying and Salesmanship
 type: post
 url: /2016/09/lying-and-salesmanship/
+dontinlinephotos: true
 ---
 
 A [recent post on Wait But Why][1] had me thinking about lying.
 
-[<img class="size-full wp-image-1466" src="http://roytang.net/wp-content/uploads/2016/09/lying.jpg" alt="WP_001140" width="1231" height="964" srcset="https://roytang.net/wp-content/uploads/2016/09/lying.jpg 1231w, https://roytang.net/wp-content/uploads/2016/09/lying-300x235.jpg 300w, https://roytang.net/wp-content/uploads/2016/09/lying-768x601.jpg 768w, https://roytang.net/wp-content/uploads/2016/09/lying-1024x802.jpg 1024w, https://roytang.net/wp-content/uploads/2016/09/lying-1200x940.jpg 1200w" sizes="(max-width: 1231px) 100vw, 1231px" />][2]
+{{< img src="lying" >}}
 
 Some people will scoff if I say I don't lie. They're not wrong. I once spun a tall tale about a childhood rival I had visited in the province who challenged me to a swimming contest to explain [why I had lost my glasses to the sea][3]. The lie was so good, I got a follow-up question about it a year later and was so surprised I just blurted out that my rival died in accident before finally admitting to the fib
 
@@ -37,5 +38,4 @@ I understand that not all salesmanship is dishonest and that not all salesmen ar
 I recognize the need for salesmanship as a skill in everyday life, although younger me would have scoffed at that idea, believing that things should be judged solely on their merits. But merits aren't always obvious, and you still need some level of presentation and good communication skills to push your ideas and merits forward.  I'm fine with that I guess, as long as we try to keep things honest.
 
  [1]: http://waitbutwhy.com/table/when-is-it-okay-to-lie
- [2]: http://roytang.net/wp-content/uploads/2016/09/lying.jpg
  [3]: http://roytang.net/2004/11/my-eyeglasses-belong-to-the-sea/

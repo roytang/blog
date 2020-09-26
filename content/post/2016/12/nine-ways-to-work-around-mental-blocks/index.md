@@ -12,11 +12,12 @@ tags:
 title: Nine Ways to Work Around Mental Blocks
 type: post
 url: /2016/12/nine-ways-to-work-around-mental-blocks/
+dontinlinephotos: true
 ---
 
 Often I have these days where I'm supposed to be writing something or drawing something or coding something and I just can't get to it. Some kind of mental block makes it difficult. And you try to focus your mind and clear your thoughts, but it just doesn't help. Here are some ideas for how to get past mental blocks.
 
-[<img class="aligncenter size-full wp-image-1591" src="http://roytang.net/wp-content/uploads/2016/12/mentalblock.png" alt="" width="2048" height="2048" srcset="https://roytang.net/wp-content/uploads/2016/12/mentalblock.png 2048w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-150x150.png 150w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-300x300.png 300w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-768x768.png 768w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-1024x1024.png 1024w, https://roytang.net/wp-content/uploads/2016/12/mentalblock-1200x1200.png 1200w" sizes="(max-width: 2048px) 100vw, 2048px" />][1]
+{{< img src="mentalblock" >}}
 
   1. **Toss out ideas that weren't working and start over.** One example is today's blog post. I promised myself I would be posting regularly, so I had to have one today. But after a couple of failed attempts that just couldn't come together, I had to stop and ask myself what was wrong. I just wasn't in the mood for any of the other serious topics I wanted to write about so I said screw it, I'll just write about mental blocks!
   2. **Phone it in. **If you're unfamiliar, the expression means "just do the bare minimum you're allowed to do." Just power through the work with as little effort as possible. You can always go back and edit it later if you want! I often do this with the daily sketches -- I try to stay on theme and at the same time find something interesting or clever to draw. But I'm not always successful, and I sometimes don't have enough time. So I'll just draw whatever that barely makes the theme and send it in.
