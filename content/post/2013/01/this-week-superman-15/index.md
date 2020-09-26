@@ -7,8 +7,6 @@ tags:
 title: 'This Week: Superman #15'
 ---
 
-<a href="http://ireadcomicbooks.com/2013/01/this-week-superman-15/img_0130/" rel="attachment wp-att-122"><img class="aligncenter size-medium wp-image-122" alt="IMG_0130" src="/uploads/2013/01/IMG_0130-225x300.png" width="225" height="300" /></a>
-
 Props:
 <ul>
 	<li>Kenneth Rocafort's art is as usual the highlight of the book for me. This time he gets to draw a full book of Superman in his <em>Action Comics</em> shirt and jeans, plus a few panels of the Justice League. Rocafort is easily the best artist DC comics has at the moment.</li>
