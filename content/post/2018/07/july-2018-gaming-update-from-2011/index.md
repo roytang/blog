@@ -21,7 +21,9 @@ resources:
 - src: 20171025204940_1.jpg
   title: I've actually played enough Eternal that I regularly make Master rank (usually within the last week of the month) and my favorite was when I beat the top-ranked player at that time (I mulliganned this hand obviously)
 - src: 20180714145840_1.jpg
-  title: 
+  title: This is probably the only costume I'm willing to pay for in this game
+albums: 
+- gaming
 ---
 
 It has been a while since I had a bit of free time (work is busy busy busy). I thought I would post about something here. And I've decided (just now), that I need to post more frivolous things, a bit of [dumb blogging][1] as some might say. Today I will talk about what games I've been playing in the whatever little spare time I've been able to scrounge up. I find that if I don't distract myself with some gaming, my brain tends to overthink about silly things like problems and deadlines that I can't do anything about anyway. Most of these are for Steam, because someone borrowed my PS4 and hasn't given it back yet.
