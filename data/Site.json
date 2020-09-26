@@ -1,7 +1,7 @@
 {
     "baseURL": "https://roytang.net",
     "languageCode": "en-us",
-    "title": "Roy Tang",
+    "title": "roytang.net",
     "theme": "exhale",
     "paginate": 50,
     "paginatePath": "p",

@@ -60,7 +60,7 @@ The quick brown fox jumps over the lazy dog.
 {{< latest tag="movies" >}}
 
 
-{{< cardlist >}}
+{{< cardlist title="Test card lists" >}}
 
 {{< cardgroup title="Lands" >}}
 2 Crumbling Necropolis
