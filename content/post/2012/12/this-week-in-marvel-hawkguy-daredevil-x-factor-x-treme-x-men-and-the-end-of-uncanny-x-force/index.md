@@ -11,17 +11,18 @@ syndicated:
   url: https://twitter.com/roytang/statuses/282463106070888450/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/461884727191967
+dontinlinephotos: true
 ---
 
 There's really far, far too many comics I read each week to cover them in one blog post so I'll just cover them in groups. First, the non-Marvel NOW! series:
 
 <strong>Hawkeye #6</strong> is the highlight of this week's Marvel releases. The book is consistently funny, down-to-earth and awesome, and this issue is one of the best so far. If you haven't heard about it, the series written by Matt Fraction is one of Marvel's best ongoings right now. The book tells stories of what "Hawkguy" is up to when he's not out Avenging against alien threats or hydra or whatever. He owns an apartment building and has a dog and Tony Stark comes over to help set up his A/V system so he can watch a DVRed copy of the final season of "Dog Cops". David Aja is killing it with the art too. Nothing too hyper-realistic, the art is simple and straightforward but we get excellent panel layouts, especially with conversation pages where there's like 20-30 panels each. This issue in particular feels like a comic strip version of a sitcom; except sitcoms don't usually have gangs of amusing thugs who say "Bro!" all the time. As in "You should really be reading Hawkguy bro!"
 
-<a href="http://ireadcomicbooks.com/2012/12/this-week-in-marvel-hawkguy-daredevil-x-factor-x-treme-x-men-and-the-end-of-uncanny-x-force/hawkguy/" rel="attachment wp-att-87"><img class="aligncenter size-medium wp-image-87" alt="hawkguy!" src="/uploads/2012/12/hawkguy-300x156.jpg" width="300" height="156" /></a>
+{{< img src="hawkguy" >}}
 
 <strong>Daredevil #21 </strong>resolves the Spot and Coyote plotlines (with some threads left dangling), and settles the question of whether Matt has been crazy all this time. The thing with Spot and Coyote was a bit creepy really so I'm kinda glad to move on. But the best thing with this issue has to be the bonus appearance of the new Superior Spider-Man!
 
-<a href="http://ireadcomicbooks.com/2012/12/this-week-in-marvel-hawkguy-daredevil-x-factor-x-treme-x-men-and-the-end-of-uncanny-x-force/img_0123/" rel="attachment wp-att-91"><img class="aligncenter size-medium wp-image-91" alt="Daredevil #21" src="/uploads/2012/12/IMG_0123-225x300.png" width="225" height="300" /></a>
+{{< img src="daredevil21" >}}
 
 That exchange really feels like how I'd imagine it going with the new "person" behind the Spider-Man mask and makes me look forward to <em>Amazing Spider-Man</em> #700/<em>Avenging Spider-man</em> #15.1 next week and <em>Superior Spider-Man</em> in January (and of course the next issue of <em>Daredevil</em>!)
 
