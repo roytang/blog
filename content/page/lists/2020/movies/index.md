@@ -71,3 +71,4 @@ Ratings scale:
 | 43 | The Old Guard | 2020 | Jul 12 | Didn't know what to expect, never read the Greg Rucka graphic novel on which it was based. Action-packed, fun watch. | 4 |
 | 44 | Superman Man of Tomorrow | 2020 | Aug 28 | Not too good. Weird animation. Writing all over the place. | 3 |
 | 45 | Bill and Ted Face the Music | 2020 | Aug 29 | A most excellent sequel, echoing the earlier two movies. A midlife crisis journey full of heart and time travel nonsense. Little Billie and Theda are great!  | 5 |
+| 46 | Enola Holmes | 2020 | Sep 27 | It's okay. Basically young adult/Nancy Drew Sherlock Holmes, with a bit of feminism thrown in. Mycroft annoying as usual. | 3 |
