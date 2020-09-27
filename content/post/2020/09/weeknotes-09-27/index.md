@@ -1,6 +1,11 @@
 ---
 date: 2020-09-27
 slug: weeknotes-2020-09-27
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104937200305038620
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1310215131901562881/
 tags:
 - weeknotes
 title: Weeknotes 2020-09-27
@@ -31,4 +36,3 @@ title: Weeknotes 2020-09-27
 
 - We tried using Messenger Rooms for a family conf call today, in lieu of Zoom which limits us to 40-minute calls. Might have been bad luck or poor internet, but the experience was substantially worse. Disconnections, lag, poor video quality, etc. We'll see if they want to switch back to Zoom next time.
 - It seems weird that we are so close to the end of 2020 now. Still no idea what Christmas is going to look like. I'm sure many other people are also looking forward to closing out 2020 and going to 2021, even though that holds no logical promise of things being better than they are now. But we can always dream.
-
