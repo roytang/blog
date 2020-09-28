@@ -1,0 +1,27 @@
+{
+  "photo": null,
+  "url": "https://twitter.com/aleksfelipe",
+  "source_obj": {
+    "wm-id": 858852,
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1310505156589494274/12953232",
+    "type": "entry",
+    "url": "https://twitter.com/roytang/status/1310505156589494274#favorited-by-12953232",
+    "wm-property": "like-of",
+    "published": null,
+    "wm-received": "2020-09-28T13:46:19Z",
+    "author": {
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0d11c95410169e2b8ee0c2a8716ae1703262cdefe7afa0494dc64a07680fc657.jpg",
+      "type": "card",
+      "url": "https://twitter.com/aleksfelipe",
+      "name": "Aleks Felipe"
+    },
+    "like-of": "https://roytang.net/2020/09/nintendo-switch/",
+    "wm-target": "https://roytang.net/2020/09/nintendo-switch/"
+  },
+  "source_url": "https://twitter.com/roytang/status/1310505156589494274#favorited-by-12953232",
+  "id": "06af7a11-5c6d-41e5-ad93-ad05ed4cf679",
+  "date": "2020-09-28 13:46:19",
+  "text": "[Aleks Felipe](https://twitter.com/aleksfelipe) [liked this](https://twitter.com/roytang/status/1310505156589494274#favorited-by-12953232)",
+  "name": "Aleks Felipe"
+}
