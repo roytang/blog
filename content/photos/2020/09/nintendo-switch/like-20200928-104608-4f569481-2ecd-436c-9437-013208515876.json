@@ -1,0 +1,27 @@
+{
+  "date": "2020-09-28 10:46:08",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "url": "https://twitter.com/Westraid",
+      "name": "\u5982\u610f \ud83c\udf38\u2728",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4e5d1d5ec5239e10431065b2decac42e711a8e5dab4210130dcf9271aab3d4a1.png"
+    },
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1310505156589494274/5711042",
+    "wm-received": "2020-09-28T10:46:08Z",
+    "wm-id": 858703,
+    "like-of": "https://roytang.net/2020/09/nintendo-switch/",
+    "wm-private": false,
+    "url": "https://twitter.com/roytang/status/1310505156589494274#favorited-by-5711042",
+    "wm-property": "like-of",
+    "wm-target": "https://roytang.net/2020/09/nintendo-switch/"
+  },
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1310505156589494274#favorited-by-5711042",
+  "url": "https://twitter.com/Westraid",
+  "name": "\u5982\u610f \ud83c\udf38\u2728",
+  "text": "[\u5982\u610f \ud83c\udf38\u2728](https://twitter.com/Westraid) [liked this](https://twitter.com/roytang/status/1310505156589494274#favorited-by-5711042)",
+  "id": "4f569481-2ecd-436c-9437-013208515876"
+}
