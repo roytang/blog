@@ -95,6 +95,8 @@ a:hover {
 .mainfooter {
   grid-row: row-footer-start;
   border-top: 1px var(--second-color) solid;
+  color: var(--third-color);
+  font-size: 0.8em;
 }
 
 .header_icons {
