@@ -7,6 +7,11 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1310934221670604800/
 title: ''
+tags:
+- mtg
+- magic arena
+- mtgznr
+- twitch
 ---
 
 Early Tuesday evening Zendikar Rising draft! ep5 https://www.twitch.tv/twitchyroy

@@ -142,5 +142,23 @@
             "Name": "Links (RSS)",
             "URL": "/links/index.xml"
         }
+    ],
+    "photos_menu": [
+        {
+            "Name": "Photos",
+            "URL": "photos_list"
+        },
+        {
+            "Name": "Videos",
+            "URL": "videos_list"
+        },
+        {
+            "Name": "Albums",
+            "URL": "albums_list"
+        },
+        {
+            "Name": "Random",
+            "URL": "random_photo"
+        }
     ]
 }
