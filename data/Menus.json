@@ -160,5 +160,22 @@
             "Name": "Random",
             "URL": "random_photo"
         }
+    ],
+    "archives_menu": [
+        {
+            "Name": "Blog",
+            "section": "blog"
+        },
+        {
+            "Name": "Notes",
+            "section": "notes"
+        },
+        {
+            "Name": "Links",
+            "section": "links"
+        },
+        {
+            "Name": "Everything"
+        }
     ]
 }
