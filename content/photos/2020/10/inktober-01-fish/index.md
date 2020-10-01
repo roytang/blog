@@ -6,6 +6,8 @@ slug: inktober-01-fish
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1311561878078799872/
+- type: instagram
+  url: https://instagram.com/p/CFyrFYYBKgi/
 tags:
 - inktober
 - inktober2020
