@@ -1,0 +1,27 @@
+{
+  "url": "https://twitter.com/artjoeywall",
+  "source_obj": {
+    "url": "https://twitter.com/roytang/status/1311561878078799872#favorited-by-3256964908",
+    "wm-private": false,
+    "author": {
+      "name": "Joey Wall",
+      "url": "https://twitter.com/artjoeywall",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/67d1a02b893dae2ee0359ee2631ee967190736c475f12ce507df131220ec3e42.jpg",
+      "type": "card"
+    },
+    "wm-id": 861845,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1311561878078799872/3256964908",
+    "wm-received": "2020-10-01T07:35:12Z",
+    "like-of": "https://roytang.net/2020/10/inktober-01-fish/",
+    "wm-property": "like-of",
+    "type": "entry",
+    "wm-target": "https://roytang.net/2020/10/inktober-01-fish/",
+    "published": null
+  },
+  "date": "2020-10-01 07:35:12",
+  "text": "[Joey Wall](https://twitter.com/artjoeywall) [liked this](https://twitter.com/roytang/status/1311561878078799872#favorited-by-3256964908)",
+  "name": "Joey Wall",
+  "source_url": "https://twitter.com/roytang/status/1311561878078799872#favorited-by-3256964908",
+  "photo": null,
+  "id": "e2f4dfc8-e845-4e99-80a9-48be4846d82c"
+}

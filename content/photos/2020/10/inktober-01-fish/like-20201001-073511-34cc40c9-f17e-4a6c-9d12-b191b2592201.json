@@ -1,0 +1,27 @@
+{
+  "url": "https://twitter.com/joyarmadamba",
+  "source_obj": {
+    "url": "https://twitter.com/roytang/status/1311561878078799872#favorited-by-329231520",
+    "wm-private": false,
+    "author": {
+      "name": "Joy Madamba",
+      "url": "https://twitter.com/joyarmadamba",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c37fd0f3054c7c4cc3541aba562041397b003f1b6dc1c97b285247ddda871588.jpg",
+      "type": "card"
+    },
+    "wm-id": 861843,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1311561878078799872/329231520",
+    "wm-received": "2020-10-01T07:35:11Z",
+    "like-of": "https://roytang.net/2020/10/inktober-01-fish/",
+    "wm-property": "like-of",
+    "type": "entry",
+    "wm-target": "https://roytang.net/2020/10/inktober-01-fish/",
+    "published": null
+  },
+  "date": "2020-10-01 07:35:11",
+  "text": "[Joy Madamba](https://twitter.com/joyarmadamba) [liked this](https://twitter.com/roytang/status/1311561878078799872#favorited-by-329231520)",
+  "name": "Joy Madamba",
+  "source_url": "https://twitter.com/roytang/status/1311561878078799872#favorited-by-329231520",
+  "photo": null,
+  "id": "34cc40c9-f17e-4a6c-9d12-b191b2592201"
+}
