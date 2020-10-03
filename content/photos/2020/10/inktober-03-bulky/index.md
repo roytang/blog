@@ -6,6 +6,8 @@ slug: inktober-03-bulky
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1312315657287987200/
+- type: instagram
+  url: https://instagram.com/p/CF4BxuchQlZ/
 tags:
 - inktober
 - inktober2020
