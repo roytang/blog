@@ -5,7 +5,7 @@ albums:
 tags:
 - inktober
 - inktober2020
-title: 'Inktober 2020 Day 2: Bulky'
+title: 'Inktober 2020 Day 3: Bulky'
 slug: inktober-03-bulky
 ---
 
