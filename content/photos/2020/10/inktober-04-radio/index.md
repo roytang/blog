@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-04T16:12:21+08:00
+date: 2020-10-04 08:12:21
 slug: inktober-04-radio
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1312677946650312705/
 tags:
 - inktober
 - inktober2020
