@@ -1,6 +1,11 @@
 ---
 date: 2020-10-04
 slug: weeknotes-2020-10-04
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104975656844848835
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1312676350189158407/
 tags:
 - weeknotes
 title: Weeknotes 2020-10-04 Switching It Up
