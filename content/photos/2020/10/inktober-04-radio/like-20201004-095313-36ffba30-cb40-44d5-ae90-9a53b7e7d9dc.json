@@ -1,0 +1,27 @@
+{
+  "url": "https://twitter.com/toneg1",
+  "date": "2020-10-04 09:53:13",
+  "name": "antone",
+  "photo": null,
+  "id": "36ffba30-cb40-44d5-ae90-9a53b7e7d9dc",
+  "source_obj": {
+    "url": "https://twitter.com/roytang/status/1312677946650312705#favorited-by-605958035",
+    "author": {
+      "url": "https://twitter.com/toneg1",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d1cf8bd906bc5790901bb9520e3ca8a1ac2fac44b2c0332a3b73cc3b5f7d1f6c.jpg",
+      "name": "antone",
+      "type": "card"
+    },
+    "wm-target": "https://roytang.net/2020/10/inktober-04-radio/",
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1312677946650312705/605958035",
+    "wm-property": "like-of",
+    "wm-id": 864840,
+    "published": null,
+    "like-of": "https://roytang.net/2020/10/inktober-04-radio/",
+    "wm-received": "2020-10-04T09:53:13Z",
+    "type": "entry"
+  },
+  "text": "[antone](https://twitter.com/toneg1) [liked this](https://twitter.com/roytang/status/1312677946650312705#favorited-by-605958035)",
+  "source_url": "https://twitter.com/roytang/status/1312677946650312705#favorited-by-605958035"
+}
