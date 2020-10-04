@@ -6,10 +6,10 @@ slug: inktober-04-radio
 tags:
 - inktober
 - inktober2020
-title: 'Inktober 2020 Day 3: Radio'
+title: 'Inktober 2020 Day 4: Radio'
 ---
 
-Inktober 2020 day 3: RADIO
+Inktober 2020 day 4: RADIO
 
 Okay, technically, it's a casette deck, but I assume it has some kind of radio function in there!
 
