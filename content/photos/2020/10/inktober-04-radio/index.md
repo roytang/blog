@@ -6,6 +6,8 @@ slug: inktober-04-radio
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1312677946650312705/
+- type: instagram
+  url: https://instagram.com/p/CF6mjL6Bx9i/
 tags:
 - inktober
 - inktober2020
