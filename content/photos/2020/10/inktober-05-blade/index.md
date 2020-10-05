@@ -6,6 +6,8 @@ slug: inktober-05-blade
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1313145068400771072/
+- type: instagram
+  url: https://instagram.com/p/CF97DC1BfD5/
 tags:
 - inktober
 - inktober2020
