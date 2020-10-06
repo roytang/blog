@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-06T03:14:58+08:00
+date: 2020-10-05 19:14:58
 slug: inktober-06-rodent
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1313337775962251265/
 tags:
 - inktober
 - inktober2020
