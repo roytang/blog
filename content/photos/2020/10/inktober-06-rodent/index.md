@@ -6,6 +6,8 @@ slug: inktober-06-rodent
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1313337775962251265/
+- type: instagram
+  url: https://instagram.com/p/CF-gBm4Blgc/
 tags:
 - inktober
 - inktober2020

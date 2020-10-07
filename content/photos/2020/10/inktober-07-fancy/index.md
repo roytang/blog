@@ -6,6 +6,8 @@ slug: inktober-07-fancy
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1313713018799226881/
+- type: instagram
+  url: https://instagram.com/p/CGB9VviB3qs/  
 tags:
 - inktober
 - inktober2020
