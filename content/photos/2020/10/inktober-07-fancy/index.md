@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-07T12:42:21+08:00
+date: 2020-10-07 04:42:21
 slug: inktober-07-fancy
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1313713018799226881/
 tags:
 - inktober
 - inktober2020
