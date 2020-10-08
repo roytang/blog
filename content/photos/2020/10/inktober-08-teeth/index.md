@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-08T15:19:14+08:00
+date: 2020-10-08 07:19:14
 slug: inktober-08-teeth
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1314135300197683202/
 tags:
 - inktober
 - inktober2020
