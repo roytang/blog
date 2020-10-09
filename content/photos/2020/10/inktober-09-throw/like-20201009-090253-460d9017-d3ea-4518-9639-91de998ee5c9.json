@@ -1,0 +1,27 @@
+{
+  "url": "https://twitter.com/Danveron",
+  "id": "460d9017-d3ea-4518-9639-91de998ee5c9",
+  "name": "Dan",
+  "date": "2020-10-09 09:02:53",
+  "source_obj": {
+    "url": "https://twitter.com/roytang/status/1314449635784548353#favorited-by-15621915",
+    "published": null,
+    "wm-received": "2020-10-09T09:02:53Z",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1314449635784548353/15621915",
+    "wm-private": false,
+    "wm-id": 869948,
+    "wm-target": "https://roytang.net/2020/10/inktober-09-throw/",
+    "like-of": "https://roytang.net/2020/10/inktober-09-throw/",
+    "author": {
+      "type": "card",
+      "name": "Dan",
+      "url": "https://twitter.com/Danveron",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e060e17861fcc1b05489e284337b13763d30df240c4feebde7621b19db1f8cb.jpg"
+    },
+    "type": "entry",
+    "wm-property": "like-of"
+  },
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1314449635784548353#favorited-by-15621915",
+  "text": "[Dan](https://twitter.com/Danveron) [liked this](https://twitter.com/roytang/status/1314449635784548353#favorited-by-15621915)"
+}
