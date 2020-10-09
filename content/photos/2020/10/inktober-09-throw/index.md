@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-09T13:41:20+08:00
+date: 2020-10-09 05:41:20
 slug: inktober-09-throw
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1314449635784548353/
 tags:
 - inktober
 - inktober2020
