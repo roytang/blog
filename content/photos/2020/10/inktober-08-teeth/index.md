@@ -6,6 +6,8 @@ slug: inktober-08-teeth
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1314135300197683202/
+- type: instagram
+  url: https://instagram.com/p/CGE9Tjxhc8L/  
 tags:
 - inktober
 - inktober2020
