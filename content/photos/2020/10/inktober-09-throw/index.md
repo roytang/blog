@@ -6,6 +6,8 @@ slug: inktober-09-throw
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1314449635784548353/
+- type: instagram
+  url: https://instagram.com/p/CGHMUdLh-dJ/
 tags:
 - inktober
 - inktober2020
