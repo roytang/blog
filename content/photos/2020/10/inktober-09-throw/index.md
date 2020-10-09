@@ -13,4 +13,6 @@ Inktober 2020 day 9: THROW
 
 I feel like I should have done this with the pad in landscape orientation
 
+Reference image from https://www.teepublic.com/t-shirt/229273-fastball-special
+
 Official prompt list: https://inktober.com/rules
