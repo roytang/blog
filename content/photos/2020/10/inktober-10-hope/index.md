@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-10T13:02:37+08:00
+date: 2020-10-10 05:02:37
 slug: inktober-10-hope
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1314806379060752385/
 tags:
 - inktober
 - inktober2020
