@@ -6,6 +6,8 @@ slug: inktober-10-hope
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1314806379060752385/
+- type: instagram
+  url: https://instagram.com/p/CGJue_QB1JA/
 tags:
 - inktober
 - inktober2020
