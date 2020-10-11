@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-11T16:50:45+08:00
+date: 2020-10-11 08:50:45
 slug: inktober-11-disgusting
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1315225555625668609/
 tags:
 - inktober
 - inktober2020
