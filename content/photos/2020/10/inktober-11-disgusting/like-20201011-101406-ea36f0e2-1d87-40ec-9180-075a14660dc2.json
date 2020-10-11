@@ -1,0 +1,27 @@
+{
+  "name": "Murasaki",
+  "url": "https://twitter.com/ArtsMurasaki",
+  "source_url": "https://twitter.com/roytang/status/1315225555625668609#favorited-by-1058632154635153408",
+  "text": "[Murasaki](https://twitter.com/ArtsMurasaki) [liked this](https://twitter.com/roytang/status/1315225555625668609#favorited-by-1058632154635153408)",
+  "source_obj": {
+    "url": "https://twitter.com/roytang/status/1315225555625668609#favorited-by-1058632154635153408",
+    "wm-target": "https://roytang.net/2020/10/inktober-11-disgusting/",
+    "published": null,
+    "type": "entry",
+    "author": {
+      "name": "Murasaki",
+      "url": "https://twitter.com/ArtsMurasaki",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/febc0bcf932f1674d493610db2e5217bd66b0cc7c3960280fe83b296612139ab.jpg",
+      "type": "card"
+    },
+    "wm-received": "2020-10-11T10:14:06Z",
+    "wm-private": false,
+    "wm-id": 871716,
+    "wm-property": "like-of",
+    "like-of": "https://roytang.net/2020/10/inktober-11-disgusting/",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1315225555625668609/1058632154635153408"
+  },
+  "date": "2020-10-11 10:14:06",
+  "id": "ea36f0e2-1d87-40ec-9180-075a14660dc2",
+  "photo": null
+}
