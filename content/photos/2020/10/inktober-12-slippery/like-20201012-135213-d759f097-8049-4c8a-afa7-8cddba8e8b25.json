@@ -1,0 +1,27 @@
+{
+  "name": "mr rmpr",
+  "source_obj": {
+    "published": null,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1315632358708580352/1212390662907187200",
+    "type": "entry",
+    "author": {
+      "name": "mr rmpr",
+      "url": "https://twitter.com/mrrmprr",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7d1528abe998a4141ad04d172296d8d589e2c484f6f5460e1a89d2f18eb344ac.jpg"
+    },
+    "wm-target": "https://roytang.net/2020/10/inktober-12-slippery/",
+    "wm-private": false,
+    "wm-property": "like-of",
+    "url": "https://twitter.com/roytang/status/1315632358708580352#favorited-by-1212390662907187200",
+    "wm-id": 873130,
+    "wm-received": "2020-10-12T13:52:13Z",
+    "like-of": "https://roytang.net/2020/10/inktober-12-slippery/"
+  },
+  "photo": null,
+  "id": "d759f097-8049-4c8a-afa7-8cddba8e8b25",
+  "text": "[mr rmpr](https://twitter.com/mrrmprr) [liked this](https://twitter.com/roytang/status/1315632358708580352#favorited-by-1212390662907187200)",
+  "url": "https://twitter.com/mrrmprr",
+  "date": "2020-10-12 13:52:13",
+  "source_url": "https://twitter.com/roytang/status/1315632358708580352#favorited-by-1212390662907187200"
+}
