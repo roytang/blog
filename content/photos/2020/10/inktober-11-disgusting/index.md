@@ -6,6 +6,8 @@ slug: inktober-11-disgusting
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1315225555625668609/
+- type: instagram
+  url: https://instagram.com/p/CGMtLHjBmL_/
 tags:
 - inktober
 - inktober2020
