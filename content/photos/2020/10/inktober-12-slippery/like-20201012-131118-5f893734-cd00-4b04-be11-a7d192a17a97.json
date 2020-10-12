@@ -1,0 +1,27 @@
+{
+  "url": "https://twitter.com/AlexPadillaArt",
+  "photo": null,
+  "source_obj": {
+    "url": "https://twitter.com/roytang/status/1315632358708580352#favorited-by-1259268630056927237",
+    "wm-id": 873044,
+    "wm-received": "2020-10-12T13:11:18Z",
+    "wm-target": "https://roytang.net/2020/10/inktober-12-slippery/",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1315632358708580352/1259268630056927237",
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "url": "https://twitter.com/AlexPadillaArt",
+      "name": "Alejandro Padilla",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4df45013cffcc4ce7e8113480431db74bf9108df1194bf0e545d5175c99e7926.jpg"
+    },
+    "wm-private": false,
+    "like-of": "https://roytang.net/2020/10/inktober-12-slippery/",
+    "wm-property": "like-of",
+    "published": null
+  },
+  "date": "2020-10-12 13:11:18",
+  "name": "Alejandro Padilla",
+  "id": "5f893734-cd00-4b04-be11-a7d192a17a97",
+  "source_url": "https://twitter.com/roytang/status/1315632358708580352#favorited-by-1259268630056927237",
+  "text": "[Alejandro Padilla](https://twitter.com/AlexPadillaArt) [liked this](https://twitter.com/roytang/status/1315632358708580352#favorited-by-1259268630056927237)"
+}
