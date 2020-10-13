@@ -1,0 +1,27 @@
+{
+  "name": "mr rmpr",
+  "url": "https://twitter.com/mrrmprr",
+  "id": "a6dd888e-eb07-4a12-b45c-dd802f43ac0c",
+  "date": "2020-10-13 12:26:06",
+  "source_obj": {
+    "wm-target": "https://roytang.net/2020/10/inktober-13-dune/",
+    "url": "https://twitter.com/roytang/status/1315989803733643264#favorited-by-1212390662907187200",
+    "type": "entry",
+    "like-of": "https://roytang.net/2020/10/inktober-13-dune/",
+    "wm-id": 874149,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1315989803733643264/1212390662907187200",
+    "wm-received": "2020-10-13T12:26:06Z",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "published": null,
+    "author": {
+      "name": "mr rmpr",
+      "url": "https://twitter.com/mrrmprr",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7d1528abe998a4141ad04d172296d8d589e2c484f6f5460e1a89d2f18eb344ac.jpg"
+    }
+  },
+  "text": "[mr rmpr](https://twitter.com/mrrmprr) [liked this](https://twitter.com/roytang/status/1315989803733643264#favorited-by-1212390662907187200)",
+  "source_url": "https://twitter.com/roytang/status/1315989803733643264#favorited-by-1212390662907187200",
+  "photo": null
+}
