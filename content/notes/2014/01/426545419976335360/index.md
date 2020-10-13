@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/426545419976335360/
 ---
 
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) im receiving spam like this pls advice https://t.co/X7LRDwjYXu
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) im receiving spam like this pls advice

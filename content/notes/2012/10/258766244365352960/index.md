@@ -9,4 +9,4 @@ tags:
 title: ''
 ---
 
-I totally wouldnt mind if dc gave Rocafort more books to draw RT [@ComicVine](https://twitter.com/ComicVine/): SUPERMAN #13 by Lobdell and Rocafort https://t.co/22S9dV6I
+I totally wouldnt mind if dc gave Rocafort more books to draw RT [@ComicVine](https://twitter.com/ComicVine/): SUPERMAN #13 by Lobdell and Rocafort

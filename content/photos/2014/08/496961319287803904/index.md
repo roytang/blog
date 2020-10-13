@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/496961319287803904/
 ---
 
-[@ohhhace](https://twitter.com/ohhhace/) mali ka :p https://t.co/4Ai4OIszFt
+[@ohhhace](https://twitter.com/ohhhace/) mali ka :p
