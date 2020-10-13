@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-13T19:46:29+08:00
+date: 2020-10-13 11:46:29
 slug: inktober-13-dune
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1315989803733643264/
 tags:
 - inktober
 - inktober2020
