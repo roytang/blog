@@ -863,3 +863,10 @@ a:hover {
                  0 0 120px #0698a5,
                  0 0 200px #0698a5;
 }
+.errors {
+    color: red;
+}
+
+section.home {
+    padding: 2em;
+}
