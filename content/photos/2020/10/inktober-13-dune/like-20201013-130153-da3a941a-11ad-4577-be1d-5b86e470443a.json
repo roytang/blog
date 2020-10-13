@@ -1,0 +1,27 @@
+{
+  "source_obj": {
+    "like-of": "https://roytang.net/2020/10/inktober-13-dune/",
+    "url": "https://twitter.com/roytang/status/1315989803733643264#favorited-by-992229573008949248",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1315989803733643264/992229573008949248",
+    "published": null,
+    "wm-id": 874238,
+    "wm-target": "https://roytang.net/2020/10/inktober-13-dune/",
+    "wm-received": "2020-10-13T13:01:53Z",
+    "author": {
+      "name": "Illustreat",
+      "url": "https://twitter.com/illustreat",
+      "type": "card",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9982643f880e184129dcfa2c81b6db54c125dfb9c784648fe6edc7152d98744a.jpg"
+    },
+    "type": "entry",
+    "wm-private": false,
+    "wm-property": "like-of"
+  },
+  "id": "da3a941a-11ad-4577-be1d-5b86e470443a",
+  "url": "https://twitter.com/illustreat",
+  "text": "[Illustreat](https://twitter.com/illustreat) [liked this](https://twitter.com/roytang/status/1315989803733643264#favorited-by-992229573008949248)",
+  "photo": null,
+  "name": "Illustreat",
+  "source_url": "https://twitter.com/roytang/status/1315989803733643264#favorited-by-992229573008949248",
+  "date": "2020-10-13 13:01:53"
+}
