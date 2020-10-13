@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/970644471128866816/
 ---
 
-[@jaymelynilao](https://twitter.com/jaymelynilao/)  https://t.co/2tNAn4snFV
+[@jaymelynilao](https://twitter.com/jaymelynilao/)  

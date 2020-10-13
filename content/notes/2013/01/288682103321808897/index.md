@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/288682103321808897/
 ---
 
-RT [@alisonbrie](https://twitter.com/alisonbrie/): Indeed!!!! RT [@nailz84](https://twitter.com/nailz84/): Only one more month!! https://t.co/WdT0p0XA
+RT [@alisonbrie](https://twitter.com/alisonbrie/): Indeed!!!! RT [@nailz84](https://twitter.com/nailz84/): Only one more month!! 

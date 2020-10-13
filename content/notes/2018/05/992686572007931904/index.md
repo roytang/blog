@@ -8,4 +8,3 @@ tags: null
 ---
 
 RT [@reyestarkk](https://twitter.com/reyestarkk/): THE BEST MARVEL EDIT IVE EVER SEEN OH MY GOD
-https://t.co/ik96mNqSFR

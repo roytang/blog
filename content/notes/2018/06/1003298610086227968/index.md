@@ -7,4 +7,4 @@ syndicated:
 tags: null
 ---
 
-RT [@kostka_chris](https://twitter.com/kostka_chris/): lemme bless y’all with this video https://t.co/lwUIY3rwPj
+RT [@kostka_chris](https://twitter.com/kostka_chris/): lemme bless y’all with this video 

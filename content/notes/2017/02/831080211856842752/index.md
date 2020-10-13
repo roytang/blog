@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/831080211856842752/
 ---
 
-RT [@thysz](https://twitter.com/thysz/): Meanwhile in Ancient Greece https://t.co/ufPAcnsuFo
+RT [@thysz](https://twitter.com/thysz/): Meanwhile in Ancient Greece 

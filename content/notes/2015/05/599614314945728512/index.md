@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/599614314945728512/
 ---
 
-RT [[@comicsalliance](https://twitter.com/comicsalliance/)](https://twitter.com/comicsalliance/): RT and Follow @ComicsAlliance for a chance to win a Flash Funko Pop! https://t.co/4p2dVZeLIJ
+RT [[@comicsalliance](https://twitter.com/comicsalliance/)](https://twitter.com/comicsalliance/): RT and Follow @ComicsAlliance for a chance to win a Flash Funko Pop! 

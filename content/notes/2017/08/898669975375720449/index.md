@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/898669975375720449/
 ---
 
-RT [@tiffauy](https://twitter.com/tiffauy/): i was excited for the solar eclipse but this made me so sad https://t.co/jjDiLY1Owq
+RT [@tiffauy](https://twitter.com/tiffauy/): i was excited for the solar eclipse but this made me so sad 

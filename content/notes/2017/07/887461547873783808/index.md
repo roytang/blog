@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/887461547873783808/
 ---
 
-[@VGAdvisor](https://twitter.com/VGAdvisor/) https://t.co/swZK6JTXtx
+[@VGAdvisor](https://twitter.com/VGAdvisor/) 

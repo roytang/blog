@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/917732874442358785/
 ---
 
-RT [@RuthieRoble](https://twitter.com/RuthieRoble/): minsan.... hindi naman corny yung joke, hindi lang talaga nila — https://t.co/d7ITDe7yGK
+RT [@RuthieRoble](https://twitter.com/RuthieRoble/): minsan.... hindi naman corny yung joke, hindi lang talaga nila — 

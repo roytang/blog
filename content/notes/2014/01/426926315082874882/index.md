@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/426926315082874882/
 ---
 
-[@RJOfGlobe](https://twitter.com/RJOfGlobe/) [@RolandOfGlobe](https://twitter.com/RolandOfGlobe/) here's one more for you https://t.co/yFNSvdjGeD
+[@RJOfGlobe](https://twitter.com/RJOfGlobe/) [@RolandOfGlobe](https://twitter.com/RolandOfGlobe/) here's one more for you 

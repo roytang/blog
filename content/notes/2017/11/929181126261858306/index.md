@@ -7,4 +7,4 @@ syndicated:
 tags: null
 ---
 
-RT [@SteveBlogs1](https://twitter.com/SteveBlogs1/): This is the best thing you'll see today https://t.co/mA1TjDdQct
+RT [@SteveBlogs1](https://twitter.com/SteveBlogs1/): This is the best thing you'll see today 

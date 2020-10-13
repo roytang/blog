@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/421150767781658624/
 ---
 
-RT [@VectorBelly](https://twitter.com/VectorBelly/): For Final Jeopardy: This Video Game character is blue, collects rings, and goes fast! https://t.co/Dtk539MGeC
+RT [@VectorBelly](https://twitter.com/VectorBelly/): For Final Jeopardy: This Video Game character is blue, collects rings, and goes fast! 

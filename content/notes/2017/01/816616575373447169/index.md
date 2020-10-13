@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/816616575373447169/
 ---
 
-RT [@ImranGarda](https://twitter.com/ImranGarda/): Sentence construction is really important. https://t.co/WoJxCrMbD0
+RT [@ImranGarda](https://twitter.com/ImranGarda/): Sentence construction is really important. 

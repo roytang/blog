@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1126903006249664512/
 ---
 
-[@BandaiNamcoUS](https://twitter.com/BandaiNamcoUS/) https://t.co/0GqYCp5DzY
+[@BandaiNamcoUS](https://twitter.com/BandaiNamcoUS/) 

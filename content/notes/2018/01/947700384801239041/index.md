@@ -7,4 +7,4 @@ syndicated:
 tags: null
 ---
 
-Stupid globe schedules on onsite visit for today then csrep on the phone tells me walang available kasi holiday [@talk2GLOBE](https://twitter.com/talk2GLOBE/) https://t.co/b9vhOnansn
+Stupid globe schedules on onsite visit for today then csrep on the phone tells me walang available kasi holiday [@talk2GLOBE](https://twitter.com/talk2GLOBE/) 

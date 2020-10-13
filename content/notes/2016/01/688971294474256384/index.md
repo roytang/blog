@@ -12,4 +12,4 @@ syndicated:
 
 RT [@jesterinexile](https://twitter.com/jesterinexile/): this is how to make graphs that tell stories more than filler paragraphs can
 
-good job [@bworldph](https://twitter.com/bworldph/) https://t.co/AuTWjDOPeL
+good job [@bworldph](https://twitter.com/bworldph/) 

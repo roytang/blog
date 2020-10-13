@@ -10,4 +10,4 @@ tags:
 title: ''
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): Daniel v. Elijah [r/funny] https://t.co/g9s0iH61 #reddit #flipboard
+RT [@redditflipboard](https://twitter.com/redditflipboard/): Daniel v. Elijah [r/funny]  #reddit #flipboard

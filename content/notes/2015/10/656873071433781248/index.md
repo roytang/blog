@@ -7,4 +7,4 @@ syndicated:
 tags: null
 ---
 
-RT [@HistoryInPix](https://twitter.com/HistoryInPix/): TODAY IS THE ONLY DAY YOU CAN RETWEET THIS https://t.co/1phcICyrmm
+RT [@HistoryInPix](https://twitter.com/HistoryInPix/): TODAY IS THE ONLY DAY YOU CAN RETWEET THIS 

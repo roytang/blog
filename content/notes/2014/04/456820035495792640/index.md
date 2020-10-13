@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/456820035495792640/
 ---
 
-RT [@SeavenStudio](https://twitter.com/SeavenStudio/): Ethan: Meteor Hunter is now available on PlayStation Vita! RT for a chance to get a free copy :) https://t.co/rgKPGC97Ju
+RT [@SeavenStudio](https://twitter.com/SeavenStudio/): Ethan: Meteor Hunter is now available on PlayStation Vita! RT for a chance to get a free copy :) 

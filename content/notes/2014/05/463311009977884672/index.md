@@ -12,4 +12,4 @@ tags:
 - NBSfinds
 ---
 
-RT [@nbsalert](https://twitter.com/nbsalert/): #NBSfinds THE FOREVER WATCH: A NOVEL by David Ramirez (Hardcover - P999). https://t.co/EzGq3xPpF8
+RT [@nbsalert](https://twitter.com/nbsalert/): #NBSfinds THE FOREVER WATCH: A NOVEL by David Ramirez (Hardcover - P999). 

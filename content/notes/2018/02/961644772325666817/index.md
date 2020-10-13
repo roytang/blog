@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/961644772325666817/
 ---
 
-RT [@jenist](https://twitter.com/jenist/): RIP John Perry Barlow. Print out his "Principles of Adult Behavior" and stick it on your fridge https://t.co/WODLaBGT8q
+RT [@jenist](https://twitter.com/jenist/): RIP John Perry Barlow. Print out his "Principles of Adult Behavior" and stick it on your fridge 

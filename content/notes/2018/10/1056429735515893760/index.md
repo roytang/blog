@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1056429735515893760/
 ---
 
-RT @spookylilacs: hi please read this https://t.co/ERsAIopeQR
+RT @spookylilacs: hi please read this 

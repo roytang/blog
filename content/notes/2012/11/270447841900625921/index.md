@@ -10,4 +10,4 @@ tags:
 title: ''
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): 5 second rule [r/funny] https://t.co/LudVMh3n #reddit #flipboard
+RT [@redditflipboard](https://twitter.com/redditflipboard/): 5 second rule [r/funny]  #reddit #flipboard

@@ -7,4 +7,4 @@ syndicated:
 tags: null
 ---
 
-After realizing I never finished Pillars of Eternity, I loaded a 2 year old save ​http://gph.is/17C3JZF via [@GIPHY](https://twitter.com/GIPHY/) https://t.co/DRBPWL1b0E
+After realizing I never finished Pillars of Eternity, I loaded a 2 year old save ​http://gph.is/17C3JZF via [@GIPHY](https://twitter.com/GIPHY/) 

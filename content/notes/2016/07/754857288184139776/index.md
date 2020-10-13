@@ -11,4 +11,4 @@ syndicated:
 ---
 
 RT @Vronos: Liliana Flavor Giveaway!
-RT to enter, ends in 2 days https://t.co/LjrJYHbocR
+RT to enter, ends in 2 days 

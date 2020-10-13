@@ -7,4 +7,4 @@ syndicated:
 title: ''
 ---
 
-I'm happy about this because it means loki stays a kid RT [@brokenfrontier](https://twitter.com/brokenfrontier/): The Future of Young Avengers Is Marvel NOW! https://t.co/ViRYGfio
+I'm happy about this because it means loki stays a kid RT [@brokenfrontier](https://twitter.com/brokenfrontier/): The Future of Young Avengers Is Marvel NOW! 

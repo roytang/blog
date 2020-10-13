@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/822559065696043009/
 ---
 
-RT [@bubbaprog](https://twitter.com/bubbaprog/): https://t.co/dYECwneW1R
+RT [@bubbaprog](https://twitter.com/bubbaprog/): 

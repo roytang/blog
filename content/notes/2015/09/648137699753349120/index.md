@@ -12,4 +12,4 @@ tags:
 - EGX
 ---
 
-RT [@NVIDIA_UK](https://twitter.com/NVIDIA_UK/): CONTEST: We’re at #EGX! And to celebrate we’re giving away this HUGE prize bundle. Just RT to enter! https://t.co/xJdbMCnqYe
+RT [@NVIDIA_UK](https://twitter.com/NVIDIA_UK/): CONTEST: We’re at #EGX! And to celebrate we’re giving away this HUGE prize bundle. Just RT to enter! 

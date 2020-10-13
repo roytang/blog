@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/599824783925121024/
 ---
 
-RT [[@comicsalliance](https://twitter.com/comicsalliance/)](https://twitter.com/comicsalliance/): RT and Follow @ComicsAlliance for a chance to win a Deathstroke Funko Pop! https://t.co/5m6q0CDygX
+RT [[@comicsalliance](https://twitter.com/comicsalliance/)](https://twitter.com/comicsalliance/): RT and Follow @ComicsAlliance for a chance to win a Deathstroke Funko Pop! 

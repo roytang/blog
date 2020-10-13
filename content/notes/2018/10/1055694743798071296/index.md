@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1055694743798071296/
 ---
 
-[@rocketkeis](https://twitter.com/rocketkeis/) What happens when you click play? Andun ako sa gilid nakacrop https://t.co/x1ozsKH0YU
+[@rocketkeis](https://twitter.com/rocketkeis/) What happens when you click play? Andun ako sa gilid nakacrop 

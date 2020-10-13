@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/419974025872297984/
 ---
 
-RT [@GeorgeTakei](https://twitter.com/GeorgeTakei/): Rock, Paper, Scissors https://t.co/CXJ6iMZYtQ
+RT [@GeorgeTakei](https://twitter.com/GeorgeTakei/): Rock, Paper, Scissors 

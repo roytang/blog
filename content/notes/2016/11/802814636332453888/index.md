@@ -12,4 +12,4 @@ tags:
 - DuterteCarriesThings
 ---
 
-RT [@marocharim](https://twitter.com/marocharim/): IDK, but #DuterteCarriesThings can be a thing https://t.co/hHGko77dFP
+RT [@marocharim](https://twitter.com/marocharim/): IDK, but #DuterteCarriesThings can be a thing 

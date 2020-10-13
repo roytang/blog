@@ -12,6 +12,6 @@ tags:
 - PHVote
 ---
 
-RT @SoWhatsNews: Get to know your "presidentiables" with this handy infographic: https://t.co/Re2hLbnKgg 
+RT @SoWhatsNews: Get to know your "presidentiables" with this handy infographic:  
 
 #PHVote

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/870785390835245056/
 ---
 
-RT [@aurebeth](https://twitter.com/aurebeth/): Radical Centrism by Matt Lubchansky https://t.co/J6qzAmXEHV
+RT [@aurebeth](https://twitter.com/aurebeth/): Radical Centrism by Matt Lubchansky 

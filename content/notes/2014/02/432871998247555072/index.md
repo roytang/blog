@@ -11,4 +11,4 @@ syndicated:
 ---
 
 RT [@Kotaku](https://twitter.com/Kotaku/): Cup Noodles Shoveling Snow Is Heart Melting:
-https://kotaku.com/cup-noodles-shoveling-snow-is-heart-melting-1519746268?utm_campaign=Socialflow_Kotaku_Twitter&utm_source=Kotaku_Twitter&utm_medium=Socialflow https://t.co/sFOh9gdxWC
+https://kotaku.com/cup-noodles-shoveling-snow-is-heart-melting-1519746268?utm_campaign=Socialflow_Kotaku_Twitter&utm_source=Kotaku_Twitter&utm_medium=Socialflow 

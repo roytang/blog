@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/856854593749340161/
 ---
 
-[@switchfollows](https://twitter.com/switchfollows/) [@aleksfelipe](https://twitter.com/aleksfelipe/) [@hareruyaEnglish](https://twitter.com/hareruyaEnglish/) [@roy_mtg](https://twitter.com/roy_mtg/) Prize pack rares (no mythics or masterpieces boo!) https://t.co/TKOVEO9VxY
+[@switchfollows](https://twitter.com/switchfollows/) [@aleksfelipe](https://twitter.com/aleksfelipe/) [@hareruyaEnglish](https://twitter.com/hareruyaEnglish/) [@roy_mtg](https://twitter.com/roy_mtg/) Prize pack rares (no mythics or masterpieces boo!) 

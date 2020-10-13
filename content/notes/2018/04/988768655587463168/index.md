@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/988768655587463168/
 ---
 
-RT [@bhilburn](https://twitter.com/bhilburn/): https://t.co/ZoF3wYNHJc
+RT [@bhilburn](https://twitter.com/bhilburn/): 

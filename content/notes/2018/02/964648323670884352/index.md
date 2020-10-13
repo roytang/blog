@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/964648323670884352/
 ---
 
-RT @MCU_Tweets: The Grandmaster moves in with Darryl in this great just-released THOR: RAGNAROK short: https://t.co/YM5uNdGPkC
+RT @MCU_Tweets: The Grandmaster moves in with Darryl in this great just-released THOR: RAGNAROK short: 

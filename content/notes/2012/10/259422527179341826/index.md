@@ -9,4 +9,4 @@ tags:
 title: ''
 ---
 
-RT [@MTVGeek](https://twitter.com/MTVGeek/): The #COMMUNITY cast reassures us that "October 19th" is a state of mind https://t.co/owZQm4i2
+RT [@MTVGeek](https://twitter.com/MTVGeek/): The #COMMUNITY cast reassures us that "October 19th" is a state of mind 

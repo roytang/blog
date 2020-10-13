@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1084774532957851648/
 ---
 
-RT [@noelledeg](https://twitter.com/noelledeg/): gaGOhan talaga ano https://www.reddit.com/r/Philippines/comments/afthhg/yung_nirerequire_kaming_magpaskil_ng_ganito_kahit/?st=JQW8G00R&sh=1f74d594 https://t.co/hQwACiV7qR
+RT [@noelledeg](https://twitter.com/noelledeg/): gaGOhan talaga ano https://www.reddit.com/r/Philippines/comments/afthhg/yung_nirerequire_kaming_magpaskil_ng_ganito_kahit/?st=JQW8G00R&sh=1f74d594 

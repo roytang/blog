@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1000396888389046272/
 ---
 
-RT [@b0rk](https://twitter.com/b0rk/): a few bash tricks https://t.co/Cmi3HcvCZ6
+RT [@b0rk](https://twitter.com/b0rk/): a few bash tricks 

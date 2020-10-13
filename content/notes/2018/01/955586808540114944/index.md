@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/955586808540114944/
 ---
 
-Muggle Games Bonus Comic: https://goodbearcomics.com/muggle-games-bonus/ https://t.co/gGFgz43pUa
+Muggle Games Bonus Comic: https://goodbearcomics.com/muggle-games-bonus/ 

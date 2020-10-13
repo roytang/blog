@@ -10,4 +10,4 @@ tags:
 title: ''
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): best cosplay of all time [r/videos] https://t.co/8KQ7HM54 #reddit #flipboard
+RT [@redditflipboard](https://twitter.com/redditflipboard/): best cosplay of all time [r/videos]  #reddit #flipboard

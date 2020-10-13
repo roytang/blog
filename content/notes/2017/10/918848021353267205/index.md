@@ -15,4 +15,4 @@ tags:
 ---
 
 RT [[@OriginalFunko](https://twitter.com/OriginalFunko/)](https://twitter.com/OriginalFunko/): RT &amp; follow [[@OriginalFunko](https://twitter.com/OriginalFunko/)](https://twitter.com/OriginalFunko/) for your chance to WIN a #Thorsday Prize Pack!
-#Thor #ThorRagnarok https://t.co/KI9yg1R1Vd
+#Thor #ThorRagnarok 

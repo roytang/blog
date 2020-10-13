@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1084471987261472768/
 ---
 
-RT [@stephanpastis](https://twitter.com/stephanpastis/): https://t.co/lvKcUZNE6s
+RT [@stephanpastis](https://twitter.com/stephanpastis/): 

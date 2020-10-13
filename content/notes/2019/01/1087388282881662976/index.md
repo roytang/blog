@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1087388282881662976/
 ---
 
-[@visakanv](https://twitter.com/visakanv/) Try this: https://apps.roytang.net/twitter Site looks real basic lol, but it's just a quick prototype https://t.co/jS6T95TNBa
+[@visakanv](https://twitter.com/visakanv/) Try this: https://apps.roytang.net/twitter Site looks real basic lol, but it's just a quick prototype 
