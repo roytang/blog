@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/948747972593922048/
 ---
 
-RT [@WholesomeMeme](https://twitter.com/WholesomeMeme/): Credit @acornfriend https://t.co/EEYVeMEkwm
+Credit @acornfriend

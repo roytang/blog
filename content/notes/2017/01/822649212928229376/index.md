@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/822649212928229376/
 ---
 
-Melania Trump look like she gunna go try and win the tri-wizard tournament https://t.co/NQ8XaCibVq
+Melania Trump look like she gunna go try and win the tri-wizard tournament

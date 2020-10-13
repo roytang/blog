@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/818886929437442048/
 ---
 
-RT [@berkun](https://twitter.com/berkun/): Hidden Insight and The Third Donkey https://scottberkun.com/2017/insight-and-the-third-donkey/ https://t.co/PDgQUSm8Mk
+Hidden Insight and The Third Donkey https://scottberkun.com/2017/insight-and-the-third-donkey/

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/830071243755778048/
 ---
 
-RT [@DeathStarPR](https://twitter.com/DeathStarPR/): Who made this?!!?! https://t.co/vztRPRMiyi
+Who made this?!!?!

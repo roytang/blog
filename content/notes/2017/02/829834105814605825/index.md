@@ -10,7 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/829834105814605825/
 ---
 
-RT [@RealMickFoley](https://twitter.com/RealMickFoley/): IT WAS HIM, AUSTIN! IT WAS HIM ALL ALONG!
+IT WAS HIM, AUSTIN! IT WAS HIM ALL ALONG!
 [@steveaustinBSR](https://twitter.com/steveaustinBSR/) 
 [@KayfabeNews](https://twitter.com/KayfabeNews/) 
-[@POTUS](https://twitter.com/POTUS/) https://t.co/33CHmQHLpF
+[@POTUS](https://twitter.com/POTUS/)

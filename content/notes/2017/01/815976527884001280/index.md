@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/815976527884001280/
 ---
 
-RT [@garfep](https://twitter.com/garfep/): my only request for 2017 https://t.co/ODPsbiV8ST
+my only request for 2017

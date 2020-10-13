@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/818686122565844996/
 ---
 
-RT [@dasebeleren](https://twitter.com/dasebeleren/): Retweet to hit Emrakul with your car https://t.co/oQar7kJR2a
+Retweet to hit Emrakul with your car

@@ -12,4 +12,4 @@ tags:
 - RogueOneStarWars
 ---
 
-RT [@diegoluna_](https://twitter.com/diegoluna_/): I got emotional reading this! #RogueOneStarWars https://t.co/kfNXxYxWWI
+I got emotional reading this! #RogueOneStarWars

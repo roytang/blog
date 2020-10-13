@@ -18,4 +18,4 @@ What's a software engineer's favorite food?
 
 .
 
-Low-hanging fruit. https://t.co/ItZD1I1ato
+Low-hanging fruit.
