@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-12T19:33:41+08:00
+date: 2020-10-12 11:33:41
 slug: inktober-12-slippery
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1315632358708580352/
 tags:
 - inktober
 - inktober2020
