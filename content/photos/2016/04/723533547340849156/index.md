@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/723533547340849156/
 ---
 
-Good job [@PlayHearthstone](https://twitter.com/PlayHearthstone/) https://t.co/wISeaE8NjL
+Good job [@PlayHearthstone](https://twitter.com/PlayHearthstone/) 

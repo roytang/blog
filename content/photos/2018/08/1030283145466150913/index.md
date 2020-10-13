@@ -10,4 +10,4 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/97qo3u/august_16th_random/e4bzyi9/
 ---
 
-Today's meeting doodle https://t.co/QnYAKdumFp
+Today's meeting doodle 

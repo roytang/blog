@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154730951623912
 ---
 
-Meron palang ganito https://t.co/ad22Hpc25L
+Meron palang ganito 

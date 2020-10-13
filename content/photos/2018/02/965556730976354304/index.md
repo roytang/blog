@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156430404418912
 ---
 
-PSA. (Let's hope it's not terrible) https://t.co/ARGOay0eFB
+PSA. (Let's hope it's not terrible) 

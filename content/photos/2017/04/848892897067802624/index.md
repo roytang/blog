@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155498954203912
 ---
 
-Currently at episode 8 of Iron Fist. This sums up my reaction so far https://t.co/0IBHa1mniz
+Currently at episode 8 of Iron Fist. This sums up my reaction so far 

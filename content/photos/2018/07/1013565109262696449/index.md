@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1013565109262696449/
 ---
 
-How to heart surgery https://t.co/vUESqxm8T8
+How to heart surgery 

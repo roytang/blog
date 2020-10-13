@@ -11,4 +11,4 @@ tags:
 - NetflixPHShows
 ---
 
-Rurouni Kenshin? Why yes, that makes perfect sense #Netflix #NetflixPHShows https://t.co/XCZXzS4Dyq
+Rurouni Kenshin? Why yes, that makes perfect sense #Netflix #NetflixPHShows 

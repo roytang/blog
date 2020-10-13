@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156684528748912
 ---
 
-Hello darkness my old friend https://t.co/rchx92FEuF
+Hello darkness my old friend 

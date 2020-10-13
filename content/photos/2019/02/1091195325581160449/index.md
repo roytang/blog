@@ -8,4 +8,4 @@ tags:
 - pepperlunch
 ---
 
-Current mood #pepperlunch https://t.co/qnaJGnqdQR
+Current mood #pepperlunch

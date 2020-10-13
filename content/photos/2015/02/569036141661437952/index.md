@@ -8,4 +8,4 @@ tags:
 - tallmasterracr
 ---
 
-#tallmasterracr https://www.timehop.com/ https://t.co/HvhFxdF92g
+#tallmasterracr https://www.timehop.com/ 

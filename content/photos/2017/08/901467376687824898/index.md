@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155983423193912
 ---
 
-TIL there was a second Eraserheads tribute album https://t.co/9W1EXrGk5v
+TIL there was a second Eraserheads tribute album 

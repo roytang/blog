@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154511787468912
 ---
 
-This is my favorite completely unsubstantiated conspiracy theory for this morning https://t.co/uR7akdEGhN
+This is my favorite completely unsubstantiated conspiracy theory for this morning 

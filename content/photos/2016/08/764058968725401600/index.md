@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154816245823912
 ---
 
-The problem with JavaScript https://t.co/uZnJpqAqMw
+The problem with JavaScript 

@@ -8,4 +8,4 @@ tags:
 - PS4share
 ---
 
-This game was amazing #PS4share https://t.co/Cg8jXOB9zO
+This game was amazing #PS4share 

@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156323381643912
 ---
 
-I should be a Marvel writer https://t.co/IKGEpPu3Mv
+I should be a Marvel writer 

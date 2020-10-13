@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/984089760011436032/
 ---
 
-I like how [@PhilstarNews](https://twitter.com/PhilstarNews/) delivers some shade https://t.co/TpuiKruYW5
+I like how [@PhilstarNews](https://twitter.com/PhilstarNews/) delivers some shade 

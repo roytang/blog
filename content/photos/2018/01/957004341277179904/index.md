@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/957004341277179904/
 ---
 
-I'm not sure I want to bother grinding out these last three Fallout Shelter achievements https://t.co/BGySawcPPJ
+I'm not sure I want to bother grinding out these last three Fallout Shelter achievements 

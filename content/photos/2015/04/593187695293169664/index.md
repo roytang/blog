@@ -9,4 +9,4 @@ tags:
 - ham
 ---
 
-Nice headline [@inquirerdotnet](https://twitter.com/inquirerdotnet/), not misleading at all #journalism #ham https://globalnation.inquirer.net/121913/indonesia-spares-veloso-executes-8-other-drug-convicts https://t.co/lhcp3GrylQ
+Nice headline [@inquirerdotnet](https://twitter.com/inquirerdotnet/), not misleading at all #journalism #ham https://globalnation.inquirer.net/121913/indonesia-spares-veloso-executes-8-other-drug-convicts 

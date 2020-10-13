@@ -8,4 +8,4 @@ tags:
 - gtc
 ---
 
-Not bad #gtc https://t.co/sIOBoaOl
+Not bad #gtc 

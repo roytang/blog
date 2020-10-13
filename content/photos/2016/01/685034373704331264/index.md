@@ -9,4 +9,4 @@ tags:
 - PS4share
 ---
 
-How did you get up there? #fallout4 #PS4share https://t.co/xMTQk01e31
+How did you get up there? #fallout4 #PS4share 

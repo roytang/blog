@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/433576357537132544/
 ---
 
-[@barayantan](https://twitter.com/barayantan/) https://t.co/hGlk2obQBP
+[@barayantan](https://twitter.com/barayantan/) 

@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/968476022243966977/
 ---
 
-D: https://t.co/3MKRuKiRuX
+D: 

@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/950581285520420865/
 ---
 
-had windows 10 for more than two years, just saw a blue screen for the first time https://t.co/xrRTZB6rwW
+had windows 10 for more than two years, just saw a blue screen for the first time 

@@ -10,4 +10,4 @@ tags:
 - mtg
 ---
 
-This is my favorite part of the #MTGRNA release notes: https://t.co/QVO9RO83CI
+This is my favorite part of the #MTGRNA release notes:

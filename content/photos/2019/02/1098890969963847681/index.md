@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1098890969963847681/
 ---
 
-I found that last statement hilarious lol https://t.co/cJDunqwllA
+I found that last statement hilarious lol

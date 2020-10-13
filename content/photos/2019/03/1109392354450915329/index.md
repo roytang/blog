@@ -9,4 +9,4 @@ tags:
 - mtg
 ---
 
-Today in great deck writeups #modern #mtg https://t.co/sA23BkahYR
+Today in great deck writeups #modern #mtg

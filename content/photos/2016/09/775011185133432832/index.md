@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/775011185133432832/
 ---
 
-RT [@SciencePorn](https://twitter.com/SciencePorn/): This…….. is the best headline https://t.co/yug61zXdeV
+RT [@SciencePorn](https://twitter.com/SciencePorn/): This…….. is the best headline 

@@ -11,4 +11,4 @@ tags:
 - mtg
 ---
 
-Double-dipping #hearthstone #mtg https://t.co/GTMLeixAZI
+Double-dipping #hearthstone #mtg 

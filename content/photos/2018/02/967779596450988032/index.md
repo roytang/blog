@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/967779596450988032/
 ---
 
-This tweet has an image. https://t.co/5gAvHBRNrK
+This tweet has an image. 

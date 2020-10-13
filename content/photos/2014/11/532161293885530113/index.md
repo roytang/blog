@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/532161293885530113/
 ---
 
-RT [@_youhadonejob](https://twitter.com/_youhadonejob/): Cartoon logic. https://t.co/0R645YXpQy
+RT [@_youhadonejob](https://twitter.com/_youhadonejob/): Cartoon logic. 

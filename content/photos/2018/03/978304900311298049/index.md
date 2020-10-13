@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/978304900311298049/
 ---
 
-RT [@Sweden_Dennis](https://twitter.com/Sweden_Dennis/): You can't unsee it https://t.co/qgFl5gG0DX
+RT [@Sweden_Dennis](https://twitter.com/Sweden_Dennis/): You can't unsee it 

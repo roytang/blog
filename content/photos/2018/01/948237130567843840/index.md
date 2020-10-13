@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/948237130567843840/
 ---
 
-I’m a big fan of introspection, so I took this supposedly scientific personality quiz at http://www.personalitylab.org/tests/bfi2_self_pol.htm. The results look kind of right, mostly. I like how I’m close to dead neutral in all but one of the categories https://t.co/IHdH4wMHLE
+I’m a big fan of introspection, so I took this supposedly scientific personality quiz at http://www.personalitylab.org/tests/bfi2_self_pol.htm. The results look kind of right, mostly. I like how I’m close to dead neutral in all but one of the categories 

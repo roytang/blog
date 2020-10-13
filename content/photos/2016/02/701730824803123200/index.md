@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154389726823912
 ---
 
-These are... interesting statistics http://www.ifitweremyhome.com/compare/PH/SG https://t.co/aqADGCrO0m
+These are... interesting statistics http://www.ifitweremyhome.com/compare/PH/SG 

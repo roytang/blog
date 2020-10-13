@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1091374129410859009/
 ---
 
-current mood https://t.co/ymIZb4K3We
+current mood 

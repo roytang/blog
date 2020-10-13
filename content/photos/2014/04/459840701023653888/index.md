@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/459840701023653888/
 ---
 
-RT [@SciencePorn](https://twitter.com/SciencePorn/): RT [@Suggest](https://twitter.com/Suggest/) https://t.co/Ck5B9FQ6Pz
+RT [@SciencePorn](https://twitter.com/SciencePorn/): RT [@Suggest](https://twitter.com/Suggest/) 

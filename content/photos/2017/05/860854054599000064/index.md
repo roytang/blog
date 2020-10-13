@@ -10,4 +10,4 @@ tags:
 - mtg
 ---
 
-Played some paper #MTGAKH sealed today. Did terribly lol. How would you build this pool: https://t.co/UQG1WTkuFL
+Played some paper #MTGAKH sealed today. Did terribly lol. How would you build this pool: 

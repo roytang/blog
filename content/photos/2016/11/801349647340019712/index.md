@@ -8,4 +8,4 @@ syndicated:
 
 RT [@RealShigeruM](https://twitter.com/RealShigeruM/): *hacker voice* 
 
-I'm in https://t.co/j4FYcB3U2K
+I'm in 

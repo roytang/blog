@@ -11,4 +11,4 @@ tags:
 - ogw
 ---
 
-Why can't my drafts be like this IRL? #MTGO #OGW https://t.co/cSr4eqWC83
+Why can't my drafts be like this IRL? #MTGO #OGW 

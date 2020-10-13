@@ -9,4 +9,4 @@ syndicated:
 RT [@beesmygod](https://twitter.com/beesmygod/): and im falling asleep
 and she calling a cab
 while he's having a smoke
-and hes also a crab https://t.co/ZMv4mwEaQn
+and hes also a crab 

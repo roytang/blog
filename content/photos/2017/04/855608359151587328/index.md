@@ -10,4 +10,4 @@ tags:
 - mtg
 ---
 
-Well thats kind of a mean typo #mtgakh https://t.co/wlzTvHOiQi
+Well thats kind of a mean typo #mtgakh 

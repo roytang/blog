@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/450321076640165889/
 ---
 
-RT [@CraigLuna](https://twitter.com/CraigLuna/): The real side of software development https://t.co/Dv4N0fBAlX
+RT [@CraigLuna](https://twitter.com/CraigLuna/): The real side of software development 

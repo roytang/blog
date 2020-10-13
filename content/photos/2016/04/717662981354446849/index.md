@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/717662981354446849/
 ---
 
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) scammerz https://t.co/cnq3fXYuiD
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) scammerz 

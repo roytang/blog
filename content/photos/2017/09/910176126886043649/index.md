@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/910176126886043649/
 ---
 
-RT [@thereaIbanksy](https://twitter.com/thereaIbanksy/): Who will? https://t.co/URjMjQCifl
+RT [@thereaIbanksy](https://twitter.com/thereaIbanksy/): Who will? 

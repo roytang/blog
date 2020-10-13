@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/792205820360470528/
 ---
 
-RT [@godwin_anthony](https://twitter.com/godwin_anthony/): Is this true [@AyalaMalls](https://twitter.com/AyalaMalls/) [@trinomatweets](https://twitter.com/trinomatweets/)? Tsk. https://t.co/Yr9nkIH1V0
+RT [@godwin_anthony](https://twitter.com/godwin_anthony/): Is this true [@AyalaMalls](https://twitter.com/AyalaMalls/) [@trinomatweets](https://twitter.com/trinomatweets/)? Tsk. 

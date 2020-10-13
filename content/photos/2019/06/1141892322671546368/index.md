@@ -9,4 +9,4 @@ tags:
 - MFSeattle
 ---
 
-Lost in the finals of a trial today at GP seattle. Here's the deck I built from my mediocre pool, if that interests you. Hopefully I have better luck in the main event #mtg #MFSeattle https://t.co/KQTKrwPvsY
+Lost in the finals of a trial today at GP seattle. Here's the deck I built from my mediocre pool, if that interests you. Hopefully I have better luck in the main event #mtg #MFSeattle 

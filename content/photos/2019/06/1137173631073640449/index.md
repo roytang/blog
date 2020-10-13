@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1137173631073640449/
 ---
 
-Tourist mode https://t.co/4UcL5koz5P
+Tourist mode

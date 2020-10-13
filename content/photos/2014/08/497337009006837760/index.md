@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/497337009006837760/
 ---
 
-Wow i havent had one of these in a while https://t.co/KKZhMUNimY
+Wow i havent had one of these in a while 

@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/947831962231701509/
 ---
 
-Android dictionary doesnt recognize geometric shapes https://t.co/ji2RSSKhu7
+Android dictionary doesnt recognize geometric shapes 

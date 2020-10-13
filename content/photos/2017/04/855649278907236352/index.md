@@ -10,4 +10,4 @@ tags:
 - mtg
 ---
 
-And apparently we are going again #MTGAKH https://t.co/toJlgqGF5h
+And apparently we are going again #MTGAKH 

@@ -10,4 +10,4 @@ tags:
 - FCBD2015
 ---
 
-Free comic book day! #FCBD2015 https://t.co/S60c09hckn
+Free comic book day! #FCBD2015 

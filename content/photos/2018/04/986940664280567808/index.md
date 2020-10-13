@@ -7,4 +7,4 @@ syndicated:
 ---
 
 1. Such a deep bench PDP-Laban has
-2. Reddit is better than Facebook because FB comment threads don't randomly compose jingles https://t.co/7Cf2uJUxSF
+2. Reddit is better than Facebook because FB comment threads don't randomly compose jingles 

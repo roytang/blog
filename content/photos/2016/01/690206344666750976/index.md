@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/690206344666750976/
 ---
 
-Woo first time I completed a game's Steam achievements lol https://t.co/huf4U3z7Io
+Woo first time I completed a game's Steam achievements lol 

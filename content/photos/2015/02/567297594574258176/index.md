@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/567297594574258176/
 ---
 
-we've been doing quiz nights for a long time now! https://www.timehop.com/ https://t.co/uXZ6yIH9wI
+we've been doing quiz nights for a long time now! https://www.timehop.com/ 

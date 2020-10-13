@@ -12,4 +12,4 @@ tags:
 - mtg
 ---
 
-Well I'm already having fun #mtgfrf https://t.co/SoUCUc2ONa
+Well I'm already having fun #mtgfrf 

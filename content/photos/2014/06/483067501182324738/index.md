@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/483067501182324738/
 ---
 
-RT [@itsjenIawrence](https://twitter.com/itsjenIawrence/): Let's make things clear: https://t.co/JuIf23y0lS
+RT [@itsjenIawrence](https://twitter.com/itsjenIawrence/): Let's make things clear: 

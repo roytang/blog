@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/877527177662611457/
 ---
 
-It's a multitasking kind of day. I had another 20 tabs open on a laptop too... https://t.co/eAvjGb69ra
+It's a multitasking kind of day. I had another 20 tabs open on a laptop too... 

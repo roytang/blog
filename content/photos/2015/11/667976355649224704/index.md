@@ -9,4 +9,4 @@ tags:
 - fb
 ---
 
-Maybe we should try letting reddit write #mtg lorr for a while #fb https://t.co/3z8rJaTXIG
+Maybe we should try letting reddit write #mtg lorr for a while #fb 

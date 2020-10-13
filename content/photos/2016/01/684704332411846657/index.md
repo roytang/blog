@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154297219763912
 ---
 
-Pag may nambully sa yo sumbong mo kay mar roxas https://t.co/J2G953dIYn
+Pag may nambully sa yo sumbong mo kay mar roxas 

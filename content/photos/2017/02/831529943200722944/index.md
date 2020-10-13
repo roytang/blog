@@ -12,4 +12,4 @@ Dad: Wala. Pangkain lang.
 
 Red Ribbon:
 
-©  peter christian villar https://t.co/NTGhoBQpcW
+©  peter christian villar 

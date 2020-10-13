@@ -8,4 +8,4 @@ tags:
 - GLOBEiPhone5C
 ---
 
-RT @PRAsiaWorldwide: RT for a chance to WIN a #GLOBEiPhone5C this coming New Year! https://t.co/gCgc2EYMOL
+RT @PRAsiaWorldwide: RT for a chance to WIN a #GLOBEiPhone5C this coming New Year! 

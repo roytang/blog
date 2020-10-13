@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/290456210723966977/
 ---
 
-There's a lounge near my boarding gate. Baka makatulog ako dito and miss my flight https://t.co/Zmmka72k
+There's a lounge near my boarding gate. Baka makatulog ako dito and miss my flight 

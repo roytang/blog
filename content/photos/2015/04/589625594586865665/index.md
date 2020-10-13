@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/589625594586865665/
 ---
 
-@atlususa check out my lock screen https://t.co/n2N1e4K9pl
+@atlususa check out my lock screen 

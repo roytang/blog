@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156549431128912
 ---
 
-Name the movie: https://t.co/aGlRmuy1ux
+Name the movie: 

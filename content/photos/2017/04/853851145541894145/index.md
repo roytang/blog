@@ -8,4 +8,4 @@ tags:
 - persona5
 ---
 
-WTF "Throbbing King of Desire" #persona5 https://t.co/CWdhcfQryy
+WTF "Throbbing King of Desire" #persona5 

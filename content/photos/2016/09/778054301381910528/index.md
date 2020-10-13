@@ -8,4 +8,4 @@ tags:
 - burn
 ---
 
-RT [@HecklerForever](https://twitter.com/HecklerForever/): "I want you to #burn. Burn for me baby..."🔥 https://t.co/zPMnDJYSuk
+RT [@HecklerForever](https://twitter.com/HecklerForever/): "I want you to #burn. Burn for me baby..."🔥 

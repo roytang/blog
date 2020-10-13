@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/889897851559571457/
 ---
 
-FB/Twitter need something like this (screenshot is from @Feedly) https://t.co/rcb3HTA2M0
+FB/Twitter need something like this (screenshot is from @Feedly) 

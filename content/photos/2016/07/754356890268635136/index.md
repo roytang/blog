@@ -8,4 +8,4 @@ tags:
 - CitiesSkylines
 ---
 
-That last achievement took forever #CitiesSkylines [@habeo](https://twitter.com/habeo/) [@barayantan](https://twitter.com/barayantan/) https://t.co/xOVqhwMJIU
+That last achievement took forever #CitiesSkylines [@habeo](https://twitter.com/habeo/) [@barayantan](https://twitter.com/barayantan/) 

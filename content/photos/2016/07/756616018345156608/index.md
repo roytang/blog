@@ -10,4 +10,4 @@ tags:
 - quotes
 ---
 
-RT [@SciencePorn](https://twitter.com/SciencePorn/): Some day, we will all die. https://t.co/iHv6FptvRW
+RT [@SciencePorn](https://twitter.com/SciencePorn/): Some day, we will all die. 

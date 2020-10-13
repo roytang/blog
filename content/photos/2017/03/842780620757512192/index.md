@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155454547838912
 ---
 
-Why is there no Nier on the Steam Store in SEA? =/ https://t.co/3qNYu7Ul4q
+Why is there no Nier on the Steam Store in SEA? =/ 

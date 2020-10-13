@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/505217990585905152/
 ---
 
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) here's today's spammer https://t.co/mnxLSEoqHB
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) here's today's spammer 

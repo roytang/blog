@@ -8,4 +8,4 @@ tags:
 - mtg
 ---
 
-Found out from reddit that these are $6.59 a pop. Good times #mtg https://t.co/BND6JI6luj
+Found out from reddit that these are $6.59 a pop. Good times #mtg 

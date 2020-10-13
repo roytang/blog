@@ -9,4 +9,4 @@ tags:
 - Trivia
 ---
 
-Guess who had to do the fibonacci sequence manually in 5 seconds? #quiznight #Trivia https://t.co/6kI1uOOrzU
+Guess who had to do the fibonacci sequence manually in 5 seconds? #quiznight #Trivia

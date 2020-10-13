@@ -8,4 +8,4 @@ tags:
 - PS4share
 ---
 
-Trying out mordor‘s photo mode #PS4share https://t.co/XIs2gOQAFS
+Trying out mordor‘s photo mode #PS4share 

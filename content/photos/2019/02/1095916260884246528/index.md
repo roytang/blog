@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1095916260884246528/
 ---
 
-Time to gather some storms! https://t.co/GNMRwpxw3S
+Time to gather some storms! 

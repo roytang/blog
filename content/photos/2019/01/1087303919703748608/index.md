@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1087303919703748608/
 ---
 
-This week in tautology club https://t.co/a1ebDKpUmF
+This week in tautology club

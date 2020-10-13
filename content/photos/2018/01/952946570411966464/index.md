@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/952946570411966464/
 ---
 
-RT [@thereaIbanksy](https://twitter.com/thereaIbanksy/): This https://t.co/YqFKIoppuN
+RT [@thereaIbanksy](https://twitter.com/thereaIbanksy/): This 

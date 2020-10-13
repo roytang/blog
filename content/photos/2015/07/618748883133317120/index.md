@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/618748883133317120/
 ---
 
-RT [@Jimparedes](https://twitter.com/Jimparedes/): https://t.co/yugpy6aSik
+RT [@Jimparedes](https://twitter.com/Jimparedes/): 

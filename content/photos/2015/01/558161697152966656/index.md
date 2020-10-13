@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/558161697152966656/
 ---
 
-such wisdom https://www.timehop.com/ https://t.co/bUXv5WGQ3p
+such wisdom https://www.timehop.com/ 

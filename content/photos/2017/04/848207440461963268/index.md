@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/848207440461963268/
 ---
 
-After 3 years, I finally finished Persona Q just in time for Persona 5 release week! https://t.co/ENhyRtYCl1
+After 3 years, I finally finished Persona Q just in time for Persona 5 release week! 

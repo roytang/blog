@@ -10,7 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/735698837939965953/
 ---
 
-WTH DFA, what's up with the passport renewal form https://t.co/uD9LqjFmQk
+WTH DFA, what's up with the passport renewal form 
 
 Edit: Kasalanan ko pala. Explanation sa comments section. Leaving this up for accidental hilarity
 

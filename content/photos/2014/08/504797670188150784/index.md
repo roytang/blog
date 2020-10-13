@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/504797670188150784/
 ---
 
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) can i also report unsolicited loan offer texts? I get like 1-2 of these per day https://t.co/2tDtNFfCqa
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) can i also report unsolicited loan offer texts? I get like 1-2 of these per day 

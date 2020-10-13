@@ -8,4 +8,4 @@ tags:
 - CivilizationVI
 ---
 
-Chocolate Hills! #CivilizationVI https://t.co/F7tZTjZIXt
+Chocolate Hills! #CivilizationVI 

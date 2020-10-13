@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/717674676923682817/
 ---
 
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) they actually tried it again 30 mins later! https://t.co/uCq61hhlw7
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) they actually tried it again 30 mins later! 

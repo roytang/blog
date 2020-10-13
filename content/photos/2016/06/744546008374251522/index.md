@@ -9,4 +9,4 @@ tags:
 - psvita
 ---
 
-A whole new whirled #talesofheartsr #psvita (Great editing there Namco) https://t.co/gUqhiNWRym
+A whole new whirled #talesofheartsr #psvita (Great editing there Namco) 

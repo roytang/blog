@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/539091188217696256/
 ---
 
-@lizbethjane [@yoshiyahu](https://twitter.com/yoshiyahu/) [@EkaJade](https://twitter.com/EkaJade/) https://t.co/UTuNubFnpW
+@lizbethjane [@yoshiyahu](https://twitter.com/yoshiyahu/) [@EkaJade](https://twitter.com/EkaJade/) 

@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/573705898381565954/
 ---
 
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) why are spammers able to send class 0 messages? https://t.co/uptZJSVCSQ
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) why are spammers able to send class 0 messages? 

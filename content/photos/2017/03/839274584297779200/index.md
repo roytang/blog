@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155424943343912
 ---
 
-Trying to debate with certain people https://t.co/JWwcLIpkWY
+Trying to debate with certain people 

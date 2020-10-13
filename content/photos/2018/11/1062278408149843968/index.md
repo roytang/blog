@@ -8,4 +8,4 @@ tags:
 - PS4share
 ---
 
-This is the best costume in the game  #PS4share https://t.co/ks7l5635F5
+This is the best costume in the game  #PS4share 

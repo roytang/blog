@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/588938766254936064/
 ---
 
-Surprise game of [@CAH](https://twitter.com/CAH/) over lunch https://t.co/a7KX2nXfRH
+Surprise game of [@CAH](https://twitter.com/CAH/) over lunch 

@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1123463227139133442/
 ---
 
-Welp, that's summer https://t.co/v1InmK6SWp
+Welp, that's summer 

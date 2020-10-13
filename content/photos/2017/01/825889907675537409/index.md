@@ -10,4 +10,4 @@ tags:
 
 FINAL FANTASY XV
 The World Wanderer (Platinum)
-Collected all trophies. #PS4share https://store.playstation.com/#!/en-us/tid=CUSA01633_00 https://t.co/T8g6ahadoU
+Collected all trophies. #PS4share https://store.playstation.com/#!/en-us/tid=CUSA01633_00 

@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155584701973912
 ---
 
-Maybe someday flying abroad won't be like this https://t.co/EJ636hrHaB
+Maybe someday flying abroad won't be like this 

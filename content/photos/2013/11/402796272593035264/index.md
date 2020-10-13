@@ -8,4 +8,4 @@ tags:
 - mtg
 ---
 
-Giant growths! #mtg https://t.co/Tu5o6FS8Vm
+Giant growths! #mtg 

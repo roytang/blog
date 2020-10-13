@@ -8,4 +8,4 @@ tags:
 - fb
 ---
 
-Some great UX right here on the twitter homepage: #fb https://t.co/TjwN1A5Aue
+Some great UX right here on the twitter homepage: #fb 

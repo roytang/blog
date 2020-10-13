@@ -10,4 +10,4 @@ tags:
 - mtg
 ---
 
-#MTGAKH prerelease at Hareruya comes with breakfast https://t.co/m6UUPzeWjH
+#MTGAKH prerelease at Hareruya comes with breakfast 

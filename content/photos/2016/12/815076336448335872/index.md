@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/815076336448335872/
 ---
 
-Clearing the backlog: finished Persona 3 Portable today! https://t.co/TJuAvWM3cU
+Clearing the backlog: finished Persona 3 Portable today! 

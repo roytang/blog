@@ -10,4 +10,4 @@ tags:
 - LabanLeni
 ---
 
-Ang problema pala sa Daang Matuwid, dati wala silang ilaw #LabanLeni https://t.co/ljvdW5r1On
+Ang problema pala sa Daang Matuwid, dati wala silang ilaw #LabanLeni 

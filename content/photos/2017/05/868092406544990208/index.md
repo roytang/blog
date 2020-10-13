@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/868092406544990208/
 ---
 
-Haven't tried to FNM in a while, but I won tonight. Although I did take 50 damage from this https://t.co/RUeMJgFqqa
+Haven't tried to FNM in a while, but I won tonight. Although I did take 50 damage from this 

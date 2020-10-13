@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154924960403912
 ---
 
-I'm tempted to never earn any more Steam achievements https://t.co/kawD5hIo1b
+I'm tempted to never earn any more Steam achievements 

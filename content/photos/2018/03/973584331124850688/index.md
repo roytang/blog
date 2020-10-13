@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156489837558912
 ---
 
-I was looking for something mindless to destress, so I installted Torchlight https://t.co/Gh2g1dL1dA
+I was looking for something mindless to destress, so I installted Torchlight 

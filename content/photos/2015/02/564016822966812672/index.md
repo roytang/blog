@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/564016822966812672/
 ---
 
-it's been a while https://www.timehop.com/ https://t.co/frErecttOD
+it's been a while https://www.timehop.com/ 

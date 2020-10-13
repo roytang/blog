@@ -10,4 +10,4 @@ tags:
 - mtg
 ---
 
-I was told I should draft white #mtgnationalsph https://t.co/U2clH3ea6n
+I was told I should draft white #mtgnationalsph

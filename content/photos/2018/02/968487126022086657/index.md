@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156450943308912
 ---
 
-When the movie comes out, I want Forrest Whitaker to play this diner guy. Also, I tried out the demo for a bit, feels pretty much like the console version, I'm not sure what I expected https://t.co/YaQlZnl4LB
+When the movie comes out, I want Forrest Whitaker to play this diner guy. Also, I tried out the demo for a bit, feels pretty much like the console version, I'm not sure what I expected 

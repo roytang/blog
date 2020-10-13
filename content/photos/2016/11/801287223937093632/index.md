@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/801287223937093632/
 ---
 
-RT [@RealShigeruM](https://twitter.com/RealShigeruM/): WHO THE HELL DID THIS https://t.co/1didrN9VBR
+RT [@RealShigeruM](https://twitter.com/RealShigeruM/): WHO THE HELL DID THIS 
