@@ -6,6 +6,8 @@ slug: inktober-12-slippery
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1315632358708580352/
+- type: instagram
+  url: https://instagram.com/p/CGPmFk5h6DA/
 tags:
 - inktober
 - inktober2020
