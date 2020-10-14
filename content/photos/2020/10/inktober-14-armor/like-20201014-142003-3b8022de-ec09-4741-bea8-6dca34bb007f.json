@@ -1,0 +1,27 @@
+{
+  "date": "2020-10-14 14:20:03",
+  "id": "3b8022de-ec09-4741-bea8-6dca34bb007f",
+  "source_obj": {
+    "type": "entry",
+    "wm-private": false,
+    "author": {
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ac8ddebb32779b457f5caa5f552526d6b3e0461427f53999021bb6cee191c4e5.jpg",
+      "name": "Anna Scharoglazova",
+      "type": "card",
+      "url": "https://twitter.com/derBudaika"
+    },
+    "wm-target": "https://roytang.net/2020/10/inktober-14-armor/",
+    "wm-property": "like-of",
+    "like-of": "https://roytang.net/2020/10/inktober-14-armor/",
+    "wm-received": "2020-10-14T14:20:03Z",
+    "published": null,
+    "wm-id": 875885,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1316375709498007555/236649664",
+    "url": "https://twitter.com/roytang/status/1316375709498007555#favorited-by-236649664"
+  },
+  "source_url": "https://twitter.com/roytang/status/1316375709498007555#favorited-by-236649664",
+  "photo": null,
+  "name": "Anna Scharoglazova",
+  "text": "[Anna Scharoglazova](https://twitter.com/derBudaika) [liked this](https://twitter.com/roytang/status/1316375709498007555#favorited-by-236649664)",
+  "url": "https://twitter.com/derBudaika"
+}
