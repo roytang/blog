@@ -1,0 +1,27 @@
+{
+  "name": "Dan",
+  "source_obj": {
+    "published": null,
+    "author": {
+      "name": "Dan",
+      "url": "https://twitter.com/Danveron",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e060e17861fcc1b05489e284337b13763d30df240c4feebde7621b19db1f8cb.jpg",
+      "type": "card"
+    },
+    "wm-id": 876737,
+    "wm-received": "2020-10-15T11:51:56Z",
+    "type": "entry",
+    "wm-private": false,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1316683124487536641/15621915",
+    "like-of": "https://roytang.net/2020/10/inktober-15-outpost/",
+    "wm-property": "like-of",
+    "wm-target": "https://roytang.net/2020/10/inktober-15-outpost/",
+    "url": "https://twitter.com/roytang/status/1316683124487536641#favorited-by-15621915"
+  },
+  "date": "2020-10-15 11:51:56",
+  "text": "[Dan](https://twitter.com/Danveron) [liked this](https://twitter.com/roytang/status/1316683124487536641#favorited-by-15621915)",
+  "source_url": "https://twitter.com/roytang/status/1316683124487536641#favorited-by-15621915",
+  "url": "https://twitter.com/Danveron",
+  "photo": null,
+  "id": "4baed1c5-386b-479d-89c4-db5c69c25ee8"
+}
