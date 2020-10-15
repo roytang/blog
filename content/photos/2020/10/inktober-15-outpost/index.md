@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-15T16:52:53+08:00
+date: 2020-10-15 08:52:53
 slug: inktober-15-outpost
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1316683124487536641/
 tags:
 - inktober
 - inktober2020
