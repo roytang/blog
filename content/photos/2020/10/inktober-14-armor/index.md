@@ -6,6 +6,8 @@ slug: inktober-14-armor
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1316375709498007555/
+- type: instagram
+  url: https://instagram.com/p/CGU4MxuBFsb/
 tags:
 - inktober
 - inktober2020
