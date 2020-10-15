@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1316695018871099393/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1316735821521719296/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1316740691679088640/
 tags:
 - twitch
 - mtgznr
@@ -17,3 +19,5 @@ title: ''
 10/15 Thursday evening Zendikar Rising draft! ep8 https://www.twitch.tv/twitchyroy #mtg #magicarena #mtgznr #twitch
 
 Raredrafted a bunch, risky pool, mediocre finish. YT: https://www.youtube.com/watch?v=ZQhC07pawS8&feature=youtu.be
+
+Wrong YT link! https://www.youtube.com/watch?v=yfnV1mnnmuI&feature=youtu.be
