@@ -6,6 +6,8 @@ slug: inktober-15-outpost
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1316683124487536641/
+- type: instagram
+  url: https://instagram.com/p/CGXD40KhfSs/
 tags:
 - inktober
 - inktober2020
