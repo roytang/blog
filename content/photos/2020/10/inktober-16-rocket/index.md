@@ -6,6 +6,8 @@ slug: inktober-16-rocket
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1317045954017599489/
+- type: instagram
+  url: https://instagram.com/p/CGZo7khB3bu/
 tags:
 - inktober
 - inktober2020
