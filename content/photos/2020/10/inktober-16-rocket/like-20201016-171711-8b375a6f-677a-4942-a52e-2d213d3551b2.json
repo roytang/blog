@@ -1,0 +1,27 @@
+{
+  "source_url": "https://twitter.com/roytang/status/1317045954017599489#favorited-by-605958035",
+  "text": "[antone](https://twitter.com/toneg1) [liked this](https://twitter.com/roytang/status/1317045954017599489#favorited-by-605958035)",
+  "date": "2020-10-16 17:17:11",
+  "url": "https://twitter.com/toneg1",
+  "id": "8b375a6f-677a-4942-a52e-2d213d3551b2",
+  "photo": null,
+  "name": "antone",
+  "source_obj": {
+    "like-of": "https://roytang.net/2020/10/inktober-16-rocket/",
+    "type": "entry",
+    "wm-private": false,
+    "url": "https://twitter.com/roytang/status/1317045954017599489#favorited-by-605958035",
+    "wm-id": 877949,
+    "author": {
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d1cf8bd906bc5790901bb9520e3ca8a1ac2fac44b2c0332a3b73cc3b5f7d1f6c.jpg",
+      "type": "card",
+      "url": "https://twitter.com/toneg1",
+      "name": "antone"
+    },
+    "wm-received": "2020-10-16T17:17:11Z",
+    "wm-property": "like-of",
+    "wm-target": "https://roytang.net/2020/10/inktober-16-rocket/",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1317045954017599489/605958035",
+    "published": null
+  }
+}
