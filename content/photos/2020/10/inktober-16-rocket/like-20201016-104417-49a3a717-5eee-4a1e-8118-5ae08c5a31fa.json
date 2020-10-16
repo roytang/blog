@@ -1,0 +1,27 @@
+{
+  "url": "https://twitter.com/YuliaKorneva",
+  "photo": null,
+  "text": "[Yulia A. Korneva Art](https://twitter.com/YuliaKorneva) [liked this](https://twitter.com/roytang/status/1317045954017599489#favorited-by-116490557)",
+  "source_obj": {
+    "like-of": "https://roytang.net/2020/10/inktober-16-rocket/",
+    "url": "https://twitter.com/roytang/status/1317045954017599489#favorited-by-116490557",
+    "wm-id": 877627,
+    "author": {
+      "url": "https://twitter.com/YuliaKorneva",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5c06fb2eccf594ff00499071b424c7c87c7bdefc6b09e85ce140acee30f343ea.jpg",
+      "name": "Yulia A. Korneva Art",
+      "type": "card"
+    },
+    "published": null,
+    "wm-target": "https://roytang.net/2020/10/inktober-16-rocket/",
+    "wm-property": "like-of",
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1317045954017599489/116490557",
+    "wm-received": "2020-10-16T10:44:17Z",
+    "type": "entry",
+    "wm-private": false
+  },
+  "name": "Yulia A. Korneva Art",
+  "date": "2020-10-16 10:44:17",
+  "id": "49a3a717-5eee-4a1e-8118-5ae08c5a31fa",
+  "source_url": "https://twitter.com/roytang/status/1317045954017599489#favorited-by-116490557"
+}
