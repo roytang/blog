@@ -6,6 +6,8 @@ slug: inktober-18-trap
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1317707386900029441/
+- type: instagram
+  url: https://instagram.com/p/CGeV6m4hXHA/
 tags:
 - inktober
 - inktober2020
