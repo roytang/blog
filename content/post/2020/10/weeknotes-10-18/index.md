@@ -1,6 +1,11 @@
 ---
 date: 2020-10-18
 slug: weeknotes-2020-10-18
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105055597676984506
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1317792565425401858/
 tags:
 - weeknotes
 title: Weeknotes 2020-10-18
@@ -13,4 +18,3 @@ Gaming: Hey, I [finished Super Mario Galaxy](/2020/10/1317023064555548672/)! The
 Still ongoing: [the Inktober thing](/tags/inktober2020). It's surprising that I haven't missed a day yet. (Hopefully I haven't jinxed it.)
 
 Watching lately: I've taken to having old seasons of NCIS running in the background (via Prime Video) recently, they're the sort of show you can just leave running while you're doing other things, and if you miss something it really doesn't matter. I also started on Expanse season 4, but that requires more focused watching so the going is slow. I have some backlog to work through, since The Boys season 2 and Star Trek Discovery season 3 are both out now.
-
