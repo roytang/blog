@@ -6,6 +6,8 @@ slug: inktober-17-storm
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1317433004143177728/
+- type: instagram
+  url: https://instagram.com/p/CGcZSE0hNMz/
 tags:
 - inktober
 - inktober2020
