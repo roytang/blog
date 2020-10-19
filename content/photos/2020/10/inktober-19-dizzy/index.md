@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-19T17:46:57+08:00
+date: 2020-10-19 09:46:57
 slug: inktober-19-dizzy
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1318137297414451201/
 tags:
 - inktober
 - inktober2020
