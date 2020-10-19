@@ -18,7 +18,7 @@ script:
 - chmod +x build.sh
 - travis_wait ./build.sh 
 - mkdir roytang
-- cp public/readme.md roytang/README.md
+# - cp public/readme.md roytang/README.md
 deploy:
   - provider: pages
     skip-cleanup: true
@@ -30,13 +30,13 @@ deploy:
     verbose: true
     on: 
     branch: master
-  - provider: pages
-    skip-cleanup: true
-    github-token: "$GITHUB_TOKEN"
-    keep-history: true
-    local-dir: roytang
-    repo: roytang/roytang
-    target-branch: master
-    verbose: true
-    on: 
-    branch: master
+  # - provider: pages
+  #   skip-cleanup: true
+  #   github-token: "$GITHUB_TOKEN"
+  #   keep-history: true
+  #   local-dir: roytang
+  #   repo: roytang/roytang
+  #   target-branch: master
+  #   verbose: true
+  #   on: 
+  #   branch: master
