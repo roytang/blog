@@ -1,5 +1,5 @@
 ---
-date: 2019-11-26 07:36:41
+date: 2019-11-26 07:36:41+00:00
 reply_to:
   label: '''[Historic] Format and Bant Scapeshift Primer'' on /r/spikes'
   name: ''

@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/dc53up/wpl_new_comics_discussion_for_1022019_pull_of_the/f26xd39/
 tags:
-- comicbooks
+- comics
 ---
 
 isnt gorgon one of the inhumans

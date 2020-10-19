@@ -1,5 +1,5 @@
 ---
-date: 2019-08-11 14:18:38
+date: 2019-08-11 14:18:38+00:00
 reply_to:
   label: '''My Relationship with the 3DS'' on /r/3DS'
   name: ''

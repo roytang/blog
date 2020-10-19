@@ -1,5 +1,5 @@
 ---
-date: 2019-11-21 12:44:01
+date: 2019-11-21 12:44:01+00:00
 reply_to:
   label: a comment by JPhrog on 'What case to file vs arrested vape users? ‘Wala,’
     admits PNP' on /r/Philippines

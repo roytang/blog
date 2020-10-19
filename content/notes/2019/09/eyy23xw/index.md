@@ -1,5 +1,5 @@
 ---
-date: 2019-09-04 03:48:41
+date: 2019-09-04 03:48:41+00:00
 reply_to:
   label: '''[ELD] Gilded Goose and Golden Egg'' on /r/magicTCG'
   name: ''

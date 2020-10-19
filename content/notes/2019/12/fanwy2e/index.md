@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/ea44ji/from_batmans_dinosaur_to_the_desk_of_supes/fanwy2e/
 tags:
-- comicbooks
+- comics
 ---
 
 I'm looking forward to the eventual storyline where he makes a deal with the devil for everyone to forget this reveal in exchange for ending his marriage.

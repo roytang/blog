@@ -1,5 +1,5 @@
 ---
-date: 2019-09-04 09:12:50
+date: 2019-09-04 09:12:50+00:00
 reply_to:
   label: "'Oona Queen of the Fae \U0001F9DA‍♀️' on /r/magicTCG"
   name: ''

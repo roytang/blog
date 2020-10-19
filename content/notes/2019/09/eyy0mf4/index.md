@@ -1,5 +1,5 @@
 ---
-date: 2019-09-04 03:27:16
+date: 2019-09-04 03:27:16+00:00
 reply_to:
   label: a comment by SickBurnBro on '[Spoiler][ELD] Oko, Thief of Crowns' on /r/spikes
   name: ''

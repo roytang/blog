@@ -1,5 +1,5 @@
 ---
-date: 2019-09-13 11:34:20
+date: 2019-09-13 11:34:20+00:00
 reply_to:
   label: a comment by waseemq on '[ELD] Spoiler from Korean community' on /r/magicTCG
   name: ''

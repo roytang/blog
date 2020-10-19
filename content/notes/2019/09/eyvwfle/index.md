@@ -1,5 +1,5 @@
 ---
-date: 2019-09-03 12:33:59
+date: 2019-09-03 12:33:59+00:00
 reply_to:
   label: '''Sushi - Illustration Timelapse'' on /r/ProCreate'
   name: ''

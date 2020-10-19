@@ -1,5 +1,5 @@
 ---
-date: 2019-08-29 19:12:52
+date: 2019-08-29 19:12:52+00:00
 reply_to:
   label: a comment by petitbleuchien on 'How to clean grimy and rusty coins?' on /r/coins
   name: ''

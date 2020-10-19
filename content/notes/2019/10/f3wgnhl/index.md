@@ -1,5 +1,5 @@
 ---
-date: 2019-10-16 04:56:33
+date: 2019-10-16 04:56:33+00:00
 reply_to:
   label: '''2020 MagicFest and Players Tour Schedule'' on /r/magicTCG'
   name: ''

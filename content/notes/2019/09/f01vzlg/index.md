@@ -1,5 +1,5 @@
 ---
-date: 2019-09-12 20:21:02
+date: 2019-09-12 20:21:02+00:00
 reply_to:
   label: '''The Mastery Pass Calculator'' on /r/MagicArena'
   name: ''
