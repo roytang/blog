@@ -1,5 +1,5 @@
 ---
-date: 2019-09-03 13:42:36+00:00
+date: 2019-09-03 13:42:36
 reply_to:
   label: a comment by WeymoFTW on 'Stoneforge Mystic is trending on Ebay. Nice.' on
     /r/magicTCG

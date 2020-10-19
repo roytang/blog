@@ -1,11 +1,12 @@
 ---
-date: 2019-08-30 21:21:17
+date: 2019-08-30 13:21:17
 source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/MagicArena/comments/cxguf6/settings_aside_the_issues_with_wildcard_pricing/
 tags:
-- magicarena
+- MagicArena
+- reddit_submission
 ---
 
 #### Posted on r/MagicArena: [Settings aside the issues with wildcard pricing, what curated cards would you like to see enter the Historic format?](https://reddit.com/r/MagicArena/comments/cxguf6/settings_aside_the_issues_with_wildcard_pricing/)

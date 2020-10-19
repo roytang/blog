@@ -1,5 +1,5 @@
 ---
-date: 2019-11-05 12:03:46+00:00
+date: 2019-11-05 12:03:46
 reply_to:
   label: '''[B&R] November 4, 2019 Pioneer Banned Announcement - Cat, Leyline, and
     Oath'' on /r/magicTCG'

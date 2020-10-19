@@ -1,5 +1,5 @@
 ---
-date: 2019-08-15 14:10:58+00:00
+date: 2019-08-15 14:10:58
 reply_to:
   label: '''The Future of Magic Esports'' on /r/magicTCG'
   name: ''

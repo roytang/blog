@@ -1,5 +1,5 @@
 ---
-date: 2019-11-21 10:42:29+00:00
+date: 2019-11-21 10:42:29
 reply_to:
   label: '''What do Hong Kongers feel today?'' on /r/webcomics'
   name: ''

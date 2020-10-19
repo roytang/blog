@@ -1,5 +1,5 @@
 ---
-date: 2019-10-31 02:55:12+00:00
+date: 2019-10-31 02:55:12
 reply_to:
   label: '''Hot take: People are critically overestimating the amount of work necessary
     to bring old sets into Arena.'' on /r/MagicArena'

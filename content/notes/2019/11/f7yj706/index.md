@@ -1,7 +1,7 @@
 ---
-date: 2019-11-18 16:54:16+00:00
+date: 2019-11-18 16:54:16
 reply_to:
-  label: a comment by sgxadhith on 'How to you prevent a RPG from ending up into a
+  label: a comment by [deleted] on 'How to you prevent a RPG from ending up into a
     mess of copy pasted if else statements?' on /r/gamedev
   name: ''
   type: reddit

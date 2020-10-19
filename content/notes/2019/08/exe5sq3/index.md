@@ -1,5 +1,5 @@
 ---
-date: 2019-08-19 07:29:40+00:00
+date: 2019-08-19 07:29:40
 reply_to:
   label: '''Standard Shake-Up Decklist Thread'' on /r/MagicArena'
   name: ''

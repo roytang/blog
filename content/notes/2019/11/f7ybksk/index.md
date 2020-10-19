@@ -1,5 +1,5 @@
 ---
-date: 2019-11-18 15:37:07+00:00
+date: 2019-11-18 15:37:07
 reply_to:
   label: '''How to you prevent a RPG from ending up into a mess of copy pasted if
     else statements?'' on /r/gamedev'

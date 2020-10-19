@@ -1,5 +1,5 @@
 ---
-date: 2019-09-17 15:59:07+00:00
+date: 2019-09-17 15:59:07
 reply_to:
   label: '''[ELD] Castle Garenbrig'' on /r/magicTCG'
   name: ''

@@ -1,5 +1,5 @@
 ---
-date: 2019-10-09 17:37:48+00:00
+date: 2019-10-09 17:37:48
 reply_to:
   label: a comment by TRN_WhiteKnight on 'Just cancelled my preorder for Overwatch
     on Switch' on /r/gaming

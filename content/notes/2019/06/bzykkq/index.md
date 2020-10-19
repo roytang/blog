@@ -1,11 +1,12 @@
 ---
-date: 2019-06-13 07:45:56
+date: 2019-06-12 23:45:56
 source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/Seattle/comments/bzykkq/a_couple_of_tourist_questions/
 tags:
-- seattle
+- Seattle
+- reddit_submission
 ---
 
 #### Posted on r/Seattle: [A couple of tourist questions](https://reddit.com/r/Seattle/comments/bzykkq/a_couple_of_tourist_questions/)

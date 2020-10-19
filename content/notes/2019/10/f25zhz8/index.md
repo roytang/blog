@@ -1,5 +1,5 @@
 ---
-date: 2019-10-02 03:48:52+00:00
+date: 2019-10-02 03:48:52
 reply_to:
   label: a comment by LeftoverName on '[standard] 53 B01 games with Best Kept Secret
     (secretkeeper dredge + spicy tech)' on /r/spikes
