@@ -6,6 +6,8 @@ slug: inktober-19-dizzy
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1318137297414451201/
+- type: instagram
+  url: https://instagram.com/p/CGhZg7phIyK/
 tags:
 - inktober
 - inktober2020
