@@ -1,5 +1,5 @@
 ---
-date: 2019-08-08 07:30:42+00:00
+date: 2019-08-08 07:30:42
 reply_to:
   label: '''No one messes with the Nords.'' on /r/gaming'
   name: ''

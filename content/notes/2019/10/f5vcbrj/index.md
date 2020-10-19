@@ -1,5 +1,5 @@
 ---
-date: 2019-10-31 01:52:10+00:00
+date: 2019-10-31 01:52:10
 reply_to:
   label: '''Theros: Beyond Death Major Spoilers'' on /r/magicTCG'
   name: ''

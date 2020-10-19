@@ -1,5 +1,5 @@
 ---
-date: 2019-10-06 05:25:02+00:00
+date: 2019-10-06 05:25:02
 reply_to:
   label: '''Play Any Deck - Commiseration Thread'' on /r/MagicArena'
   name: ''

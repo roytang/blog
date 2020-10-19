@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/d3dxs5/lemires_run_is_not_as_popular_as_others_but_it/f02243j/
 tags:
-- comics
+- comicbooks
 ---
 
 i hope we get somehing like this in the upcoming disney+ show. Like maybe Clint saved Kate during the battle of new york

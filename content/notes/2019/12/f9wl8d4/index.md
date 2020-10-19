@@ -11,7 +11,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/e72ly8/final_humble_monthly_bundle_first_month_of_humble/f9wl8d4/
 tags:
-- gaming
+- Games
 ---
 
 Are there any region restrictions for these? I'm still bitter over not getting SOULCALIBUR VI
