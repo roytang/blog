@@ -30,8 +30,8 @@ deploy:
   verbose: true
   on: 
   branch: main
-- provider: netlify
-  site: 8d39b621-111d-4bd7-9479-8ae16d07623f
-  auth: "$NETLIFY_TOKEN"
-  dir: "."
-  edge: true
+# - provider: netlify
+#   site: 8d39b621-111d-4bd7-9479-8ae16d07623f
+#   auth: "$NETLIFY_TOKEN"
+#   dir: "."
+#   edge: true
