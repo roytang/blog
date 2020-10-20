@@ -11,8 +11,8 @@ type: page
 
 {{< archives/grid-or-list section="post" >}}
 
-<h4>Photos</h4>
-{{< archives/grid-or-list section="photos" >}}
+<h4>Notes</h4>
+{{< archives/grid-or-list section="notes" >}}
 
 <h4>All Content By Section</h4>
 
