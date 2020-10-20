@@ -9,6 +9,7 @@ tags:
 - c++
 - Software Development
 title: Revisiting C++ after a decade
+dontinlinephotos: true
 ---
 
 This year I had the dubious privilege of having to work with a C++ project again. Although my college education was in C, that was a completely different animal. I did self-study C++ for a bit back even before I was working, mostly because I was interested in game development even back then. I remember trying some OpenGL and/or DirectX stuff back with good old Borland Turbo-C++ during the DOS days and using the [Dev-C++ IDE][1] when I shifted to Windows. Professionally, I think there was at least one project where I had to work on a Windows-based application using C++ on Visual Studio 6 (before all this .NET nonsense), but for the life of me I can't even remember which project it was anymore. I do remember struggling more with the compiler and the IDE and the layouting of Windows components more than the language itself. And even then, I mostly used the language as an extension of C and not really taking advantage of the more advanced features.
@@ -31,7 +32,7 @@ Some notes:
 
 So there were a lot of challenges along the way, but this is fairly typical for developers coming into a project with an existing large codebase. And on the upside (my usual upside), I learned a lot, and I felt like a C++ genius a few weeks in. When you climb a learning curve quickly, it can make you feel amazing:
 
-![HOHOHO I DID IT][4]
+{{% img src="hohohoidiit.jpg" %}}
 
 In the end I think we did pull it off and were able to implement and integrate the needed changes well, without any major issues. Given C's challenges with memory management and so on, I was kind of expecting we would encounter things like crashes, memory leaks, and such, but it turns out using the STL and Boost largely alleviates that problem. The project is still ongoing and has a bunch of requirements-related issues, but I think the C++ side turned out relatively well. Unfortunately, I don't think I'll have much use for C++ knowledge outside of this project, the language isn't really appropriate for the sort of personal projects I like to take on. 
 
@@ -39,4 +40,3 @@ In the end I think we did pull it off and were able to implement and integrate t
 [1]: https://www.bloodshed.net/dev/devcpp.html
 [2]: https://xkcd.com/303/
 [3]: https://www.codeproject.com/Articles/20027/JSON-Spirit-A-C-JSON-Parser-Generator-Implemented
-[4]: /uploads/hohohoidiit.jpg

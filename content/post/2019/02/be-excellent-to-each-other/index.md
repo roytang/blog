@@ -2,7 +2,6 @@
 author: roy
 categories: []
 date: 2019-02-18 05:56:56
-featuredImage: https://roytang.net/uploads/2019/be-excellent.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1097376450062241793/
@@ -12,9 +11,10 @@ tags:
 - Pop Culture
 title: Be excellent to each other, and party on, dudes
 type: post
+dontinlinephotos: true
 ---
 
-![](/uploads/2019/be-excellent.jpg)
+{{% img src="be-excellent.jpg" %}}
 
 The quote is from the 1980s cult classic *Bill and Ted's Excellent Adventure*. I didn't include this movie in [my top 10 movies post](/2018/10/my-top-10-favorite-movies-of-all-time/), but it and the sequel *Bill and Ted's Bogus Journey* are still among my childhood faves. These wise words are give by the Wyld Stallyns band composed of the epnoymous Bill and Ted, and form the philosophical basis of the future utopian civilization inspired by their music.
 

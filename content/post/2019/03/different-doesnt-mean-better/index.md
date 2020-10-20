@@ -2,7 +2,6 @@
 author: roy
 categories: []
 date: 2019-03-08 05:56:56
-featuredImage: https://roytang.net/uploads/2019/different-better.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1103899705782595584/
@@ -11,9 +10,10 @@ tags:
 - regret
 title: Different is not necessarily better
 type: post
+dontinlinephotos: true
 ---
 
-![](/uploads/2019/different-better.jpg)
+{{% img src="different-better.jpg" %}}
 
 Image source: [r/GetMotivated](https://www.reddit.com/r/GetMotivated/comments/axy274/image_perspective/)
 

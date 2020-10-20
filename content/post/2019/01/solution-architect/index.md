@@ -9,6 +9,7 @@ tags:
 - Software Development
 title: Solution Architect
 type: post
+dontinlinephotos: true
 ---
 
 Although I still primarily identify as a "Full Stack Developer", during the past few years I've also found myself in a role called "Solution Architect". The thing about being a solution architect is that there isn't really a clear definition of the role, what it involves, or the scope of responsibility. I suppose it depends largely on the organization and the project. The role mostly involves making techical decisions on a larger scale, like project-wide or organization-wide, rather than on the micro day-to-day technical decisions involved in a typical software development involves. These decisions can encompass not just coding, but also requirements gathering, application design, database design, modelling, testing methodology, processes, deployment, and so on. 
@@ -21,7 +22,7 @@ For a solution architect in particular, it helps to be familiar with a wide arra
 
 Interestingly, the term "solution architect" has been increasing in usage over the past few years, if Google Trends is any indication:
 
-![](/uploads/2019/solution-architect.png)
+{{% img src="solution-architect.png" %}}
 
 *(I originally tried Google Trend's embed option, but the embedded chart kept crashing my browser tab, so now you get a screen capture instead)*
 

@@ -11,11 +11,12 @@ tags:
 - Pop Culture
 title: Minus
 type: post
+dontinlinephotos: true
 ---
 
 Some number of years back I first encountered this comic image and I really liked it because it had a message of boundless optimism, of no challenge too large to overcome.
 
-![](/uploads/2019/minus.jpg)
+{{% img src="minus.jpg" %}}
 
 I later found out that the image comes from an Eisner-award winning webcomic called [minus](https://en.wikipedia.org/wiki/Minus_(webcomic)) (intentionally lower case). The meaning of the comic changes significantly in the context of the webcomic, as the titular girl minus apparently has unlimited reality alteration powers. I still like the optimism version though.
 

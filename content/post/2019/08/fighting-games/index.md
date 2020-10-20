@@ -1,7 +1,6 @@
 ---
 categories: []
 date: 2019-08-07 00:00:00
-featuredImage: https://roytang.net/uploads/2019/ssf2shinkuhadouken.gif
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1158908212730630151/
@@ -9,6 +8,7 @@ tags:
 - gaming
 title: Fighting Games
 type: post
+dontinlinephotos: true
 ---
 
 This past weekend was [EVO 2019](https://en.wikipedia.org/wiki/Evo_2019), the world's biggest celebrations of fighting games. If I had stayed in the US another month maybe I could have gone to Vegas to attend and lose badly. Instead, I thought I'd write about fighting games.
@@ -19,7 +19,7 @@ Like many in my generation, I got my introduction to fighting games with the arc
 
 Street Fighter II eventually got a home release, I remember playing it for the first time at a friend's house when he got his copy first. We would be playing SF2 on the SNES a lot. I remember the annoyance when playing SF2 at another person's house, I'd have to configure my controller because I didn't use the default button layout. I used a layout called "YXLBAR" (with the heavy attacks on the SNES shoulder buttons) instead of the default "YLXBRA". Rumor has it someone used an insane layout like "YBAXLR". I also remember seeing the [arcade intro for the updated **Super Street Fighter II**](https://www.youtube.com/watch?v=uY0KBMkvDyo) and being so amazed.
 
-![](/uploads/2019/ssf2shinkuhadouken.gif)
+{{% img src="ssf2shinkuhadouken.gif" %}}
 
 We tried out some other fighting game franchises on SNES too, like the Japanese **Dragonball Butoden** series, a TMNT fighting game, and the **Justice League Task Force** fighting game. On the PC, we also had a copy of **Mortal Kombat** 1. I'm not even sure our PC could handle color back then, we may have been playing Mortal Kombat in black and white! We also didn't have controllers for the PC back then, so we had to play with two players to one keyboard, and if you held down four buttons or more on your side, the keyboard couldn't register any more additional inputs so your opponent couldn't move!
 

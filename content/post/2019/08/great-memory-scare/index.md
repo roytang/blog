@@ -9,6 +9,7 @@ tags:
 - gaming
 title: The Great Memory Scare of 2019
 type: post
+dontinlinephotos: true
 ---
 
 My current desktop PC has been with me since late 2015, so going on 4 years now. I bought relatively high-end parts for it at the time, hoping to be a bit future-proof so that it would last me longer than previous desktops. So I was a bit worried when I started encountering issues during the recent weeks.
@@ -22,7 +23,7 @@ Here's the timeline:
 - After the update, I noticed the performance of DBFZ had drastically worsened. Incredibly long loading times, occasionaly framerate drops during battles.
 - On Aug 5, first BSOD encountered:
 
-![](/uploads/2019/bluescreen.png)
+{{% img src="bluescreen.png" %}}
 
 - because of the recent Windows update, I assumed first that was the cause of the problems. So I rolled it back first and observed the behavior.
 - over the next two weeks, additional instances of BSODs were observed, along with occasional crashes where the PC just straight freezes in place (often with annoying beeping sound) and a hard reset is needed. The crashes would happen even during normal usage (browsing etc) and sometimes even while the PC was unattended!
@@ -34,7 +35,7 @@ Here's the timeline:
   - I tried running the Windows Memory Diagnostic tool. Standard check froze up the first time, but was successful on the second try.
 - At this point I was still hoping it was a software issue (since hardware issues generally require cash to fix), but all signs pointed to either video card (due to SC2) or memory (due to memory diagnostic failure) problems. Time to test each component in turn!
 
-![](/uploads/2019/20190819_080244.jpg)
+{{% img src="20190819_080244.jpg" %}}
 
 - I'm no stranger to digging through computer parts, but this is literally my least favorite part of being PC master race: having to figure out which of your hardware components is failing. At least my PC case is a lot more organized and spacious this time; my older PCs had super tight layouts that were hard to manipulate
   - I started with the easy one: I moved my monitors to the onboard graphics card and enabled it in the BIOS. If the issue is the video card, then I shouldn't encounter it while using the onboard graphics. Nope, had a crash less than an hour in.

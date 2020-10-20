@@ -7,11 +7,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1088678151675437056/
 title: Depression or just laziness?
 type: post
+dontinlinephotos: true
 ---
 
 Sometimes I see posts like this:
 
-![](/uploads/2019/depression.jpg)
+{{% img src="depression.jpg" %}}
 
 and I can't help but feel like it's at least a little bit applicable to me. And I start to wonder whether maybe I'm suffering depression? Or maybe just a little depressed?
 

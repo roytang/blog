@@ -10,6 +10,7 @@ tags:
 - ustrip2019
 title: US 2019 - Theme parks
 type: post
+dontinlinephotos: true
 ---
 
 I'm not a big fan of theme parks. I think for the most part they are overpriced and not worth the time, effort or money. And I'd probably never go to one by myself or without one of my nieces/nephews. I understand the impetus of bringing kids to a theme park of course, they really enjoy it. Prior to this trip, I've only ever been to a theme park once, and that was in Unversal Studios Singapore with my brothers back in 2015.
@@ -29,7 +30,7 @@ Some highlights of the 3 days at Disneyland:
 
 We did quite a number of other simpler rides (just the ones where you're sitting and there's a show going on around you), and picture taking with various characters. I don't have many pictures handy to show here, but here's me with Captain America:
 
-![](/uploads/2019/disney-cap.jpg)
+{{% img src="disney-cap.jpg" %}}
 
 We didn't do anything like roller coasters or that new Guardians of the Galaxy which goes up and down and stuff. The kids don't like it, and I'm not sure I could either, tbh. There was also a lot of wandering around the mechandise shops of course, I'm sure they make a lot of money off all the toys. I ended up buying something my brother requested for my nephew, only to find it available again at another place for a cheaper price. Lol, I should learn never to buy stuff at theme parks.
 
