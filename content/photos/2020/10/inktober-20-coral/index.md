@@ -7,6 +7,11 @@ tags:
 - inktober
 - inktober2020
 title: 'Inktober 2020 Day 20: Coral'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1318444091483459584/
+- type: instagram
+  url: https://instagram.com/p/CGjlBJUhwZ7/
 ---
 
 Inktober 2020 day 20: CORAL
