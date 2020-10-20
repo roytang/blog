@@ -2,7 +2,6 @@
 author: roy
 categories: []
 date: 2019-02-02 05:56:56
-featuredImage: https://roytang.net/uploads/2019/slaythespire.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1091578222427422721/
@@ -10,6 +9,7 @@ tags:
 - Gaming
 title: 'Game Review: Slay the Spire'
 type: post
+dontinlinephotos: true
 ---
 
 I picked up Slay the Spire during the last (Winter) Steam Sale, not really knowing what I was getting into. I had heard some good things, but I didn't really know much other than it was a roguelite where I had to go through a dungeon. But it was cheap so I took the dive.
@@ -18,7 +18,7 @@ I was pleasantly surprised to find that not only was it a roguelite, it was also
 
 So in Slay the Spire, you choose a character from three choices, each of which have a different set of powers and cards. You go through the dungeons, one room at a time. Each room might have an enemy, a treasure or a random event. The map for the entire dungeon act is available ahead of time, so you can plot your route as needed.
 
-![](/uploads/2019/slaythespire.jpg)
+{{% img src="slaythespire.jpg" %}}
 
 Your character is equipped with a deck of cards that includes attacks and blocks and powers. Along the way you can add new cards to your deck by defeating enemies or opening chests or buying from merchants and so on. 
 
@@ -26,7 +26,7 @@ There are three available characters to play (as of now), and they offer pretty 
 
 Battles proceed in a turn-based manner. You draw some number of cards from your deck and each turn, and play as many as your energy allows. The unique thing about Slay the Spire is that during your turn, you can see each enemy's intent. That is, you can see what the enemy will do next turn, more or less, via an icon over their head (see image).
 
-![](/uploads/2019/slaythespireintent.jpg)
+{{% img src="slaythespireintent.jpg" %}}
 
 If the enemy plans to attack, there's an icon over their head indicating how much damage and how many attacks they're going to do. If they're going to block, there's a shield icon. And there's icon for if they are going to do buffs or debuffs. In a sense the game gives you perfect information about what the enemies are going to do. 
 

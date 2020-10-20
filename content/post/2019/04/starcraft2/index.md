@@ -9,11 +9,12 @@ tags:
 - Gaming
 title: Starcraft 2
 type: post
+dontinlinephotos: true
 ---
 
 It's been nine years since Starcraft 2: Wings of Liberty came out, and the last expansion Legacy of the Void came out four years ago in 2015. I bought all three releases as soon as they came out and recently found the boxes while spring cleaning.
 
-![](/uploads/2019/starcraft2.JPG)
+{{% img src="starcraft2.JPG" %}}
 
 Despite the game's age surprisingly people are still playing it, including me. Not for the ranked ladder - whenever I go into the competitive multiplayer mode I find myself stressing out and feel like my blood pressure is going up and I can't manage more than one or two games at a time. I still am able to find ranked matches, but they always feels so intense, and you have to worry about being cheesed and yes I often do poorly. The mode I'm enjoying these days is Starcraft 2 Co-op, a mode which was released together with Legacy of the Void. Some friends of mine have been playing the coop mode recently and I got enticed to join in on the fun.
 
@@ -25,4 +26,4 @@ There was some discussion in in-game chat about how the game was "dead", but the
 
 Side note: I really dig the packaging for all 3 SC2 games and am glad I got them physical copies. There are some nice artworks on the boxes and some inserts with a bit of lore, and Legacy of the Void even came with some free codes for WoW and Hearthstone (I wonder if I can still claim this free pack lol)
 
-![](/uploads/2019/starcraft2_packaging.JPG)
+{{% img src="starcraft2_packaging.JPG" %}}
