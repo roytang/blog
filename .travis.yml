@@ -26,10 +26,10 @@ deploy:
     keep-history: true
     local-dir: public
     repo: roytang/blog-published
-    target-branch: master
+    target-branch: main
     verbose: true
     on: 
-    branch: master
+    branch: main
   # - provider: pages
   #   skip-cleanup: true
   #   github-token: "$GITHUB_TOKEN"

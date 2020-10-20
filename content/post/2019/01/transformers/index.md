@@ -19,7 +19,8 @@ I was at the mall last week and I decided to watch the new Bumblebee movie (it c
 As the link says, I've been a big fan of Transformers since I was a kid, so I thought I'd talk about that for a bit. The 1980s cartoon obviously, though I think only the first two seasons of that aired on local TV. I had quite a few G1 toys as well, though I think some of them may have been Chinese knockoffs. I remember I had an Optimus Prime, a Megatron (yes, the walther ppk with the robot mode with super thin legs), a small Powerglide, something like 3 out of 5 Aerialbots (no Silverbolt!), and so on. During their first trip to the US, my parents bought me a Metroplex, which was huge, that thing brought me so much joy and playtime. So much playtime that at some point I broke the toy at the hip. D:
 
 Another favorite was a G1 Sixshot! Shown in this picture:
-![](/uploads/2019/g1_sixshot.jpg)
+
+{{% img src="g1_sixshot.jpg" %}}
 
 That toy was borrowed by a kid I knew from the school bus who lived nearby and he never gave it back! I haven't forgiven him to this day lol.
 

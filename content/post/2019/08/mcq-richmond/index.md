@@ -1,7 +1,6 @@
 ---
 categories: []
 date: 2019-08-18 00:00:00
-featuredImage: /uploads/2019/mcq-richmond.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1163020056479051777/
@@ -10,6 +9,7 @@ tags:
 - modern
 title: MCQ Richmond (Modern) with Grixis Death Shadow
 type: post
+dontinlinephotos: true
 ---
 
 Should I still write tournament reports even though I did poorly? Spoilers, but the answer is that has never stopped me before!
@@ -88,7 +88,7 @@ And the sideboard plans too for good measure. Feel free to tell me if these are 
 
 **Metagame expectations:** The great thing about Modern is despite the existence of an overpowered deck in the format, you can still expect a lot of deck diversity, unless your field is full of pros who will play "the best deck" no matter the cost. For most other people, they will often have a pet modern deck and will prefer to stick with it rather than spend a ton of money to move to a different deck (which may even not exist in a couple of weeks!). That being said, my general plan for Hogaak decks was to avoid them (and I did that successfully!). This being Manila, I expect the metagame to lean a bit more towards aggro, burn and control. (I was not wrong!)
 
-![](/uploads/2019/mcq-richmond.jpg)
+{{% img src="mcq-richmond.jpg" %}}
 
 On to the match reports!
 

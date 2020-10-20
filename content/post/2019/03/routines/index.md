@@ -2,17 +2,17 @@
 author: roy
 categories: []
 date: 2019-03-13 05:56:56
-featuredImage: https://roytang.net/uploads/2019/naps.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1105710960919105536/
 title: Routines
 type: post
+dontinlinephotos: true
 ---
 
 I posted the other day about [trying to get back into the habit of early morning walks](/2019/03/break-of-dawn/). Unfortunately, I failed to continue that habit the very next day (hopefully I'm able to succeed on upcoming days). The main reason I failed is that I was unable to sleep early on the preceeding night. My sleep cycle is horribly irregular, given my flexible working hours. I tend to be easily tempted to take naps at odd hours.
 
-![](/uploads/2019/naps.jpg)
+{{% img src="naps.jpg" %}}
 
 Not that there's anything wrong with naps mind you. But it's probably better if my naps were predictable, like say, a quick nap after lunch (when I'm likely to be sleepy anyway), instead of the irregular schedule I have now which messes up my sleep cycle.
 

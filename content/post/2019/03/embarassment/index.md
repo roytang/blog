@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1106073232011153408/
 title: Embarassment, Office Christmas Parties, and Singing Off-Key
 type: post
+dontinlinephotos: true
 ---
 
 I read this [tweet](https://twitter.com/GaryGulman/status/1105136402092703744) from [@GaryGulman](https://twitter.com/GaryGulman), a standup comic who gives out tips for comedy writers:
@@ -19,7 +20,7 @@ I do remember being an insecure and self-conscious teenager growing up, so maybe
 
 As an example, the first possibly "embarassing" moment I could think was the first office Christmas party I went to as a working person. Now, if you're from the Philippines, you know they have this thing where they expect new hires to give a "performance" during the office Christmas party, as portrayed in this comic:
 
-![](/uploads/2019/opismeyts.jpg)
+{{% img src="opismeyts.jpg" %}}
 
 Image credit: [Opismeyts](https://www.facebook.com/opismeyts)
 

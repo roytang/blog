@@ -2,7 +2,6 @@
 author: roy
 categories: []
 date: 2019-01-13 05:56:56
-featuredImage: https://roytang.net/uploads/2019/papers-please.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1084329543320645634/
@@ -10,13 +9,14 @@ tags:
 - Gaming
 title: Papers Please
 type: post
+dontinlinephotos: true
 ---
 
 I had been eyeing [Lucas Pope](https://twitter.com/dukope)'s acclaimed indie hit *Papers Please* on Steam for a while, but finally bit the bullet on it during the last sale. The story of the game itself is interesting, as Pope was more or less a one-man team, doing the design, code, music and art for the game himself.
 
 If you're not familiar, the game places you in the role of a border inspector in a fictional 1980s totalitarian state called Arstotzka, a thinly-veiled parallel to communist East Germany and similar nations. As border inspector, you're charged with inspecting the documents of people who want to enter the country, and your meagre salary depends on how many people you are able to correctly process in one day. The day-to-day gameplay tension is between your need to process as many people as possible so that you have enough to pay rent and feed your family; vs your desire to avoid making mistakes. Mistakes often come in the form of allowing entrants with discrepancies in their papers to pass through unchallenged, and making multiple mistakes in the same day is painful for your salary and endangers your family members. 
 
-![](/uploads/2019/papers-please.jpg)
+{{% img src="papers-please.jpg" %}}
 
 The gameplay is mostly attention to detail. At the start of a run, you only have one or two documents per entrant and it's relatively simply: make sure their passport photo matches their appearance, make sure the passport isn't expired, make sure it has a valid issuing city, etc. As the days pass, the Arstotzkan bureaucracy imposes more requirements upon entrants, making your job considerably harder. Towards the end of the story mode's 31-day period you'll be checking 4-6 different documents per entrant, making sure all their papers are valid and all the info on each document matches the others and so on. It has an element of tediousness reflecting the actual job you are doing, and yet is strangely engaging.
 

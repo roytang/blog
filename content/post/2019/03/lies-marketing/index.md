@@ -10,7 +10,7 @@ type: post
 
 I mentioned before [that as an engineer, I'm not fond of marketing](/2018/10/why-im-not-an-entrepreneur/). 
 
-![](/uploads/2019/dilbert190312.gif)
+{{% img src="dilbert190312.gif" %}}
 
 Image credit: [Dilbert.com](https://dilbert.com/strip/2019-03-12) (Disclaimer: Liking the Dilbert comics is not an endorsement of Scott Adams' politics)
 

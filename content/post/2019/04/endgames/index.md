@@ -2,7 +2,6 @@
 author: roy
 categories: []
 date: 2019-04-27 05:56:56
-featuredImage: https://roytang.net/uploads/2019/endgame.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1122018176613650432/
@@ -18,7 +17,7 @@ Two endgames to discuss in one post! MTG War of the Spark and Avengers Endgame s
 
 **Endgame #1: War of the Spark**
 
-![](/uploads/2019/endgame.jpg)
+{{% img src="endgame.jpg" %}}
 
 The latest Magic set has been a home run in terms of lore and flavor and storytelling, bringing the last three years worth of MTG lore to its conclusion as the villainous dragon planeswalker Nicol Bolas aims to complete his plan to achieve omnipotence over the multiverse. The set is packed with planeswalkers summoned to Ravnica by Bolas's schemes, which means mechanically that a lot of new planeswalker design space is being explored. The spoiler season was well-executed (despite some leaks during the last week), allowing us to see the story unfolding through the cards in a clearer way than ever before: from the dreadhorde invasion of Ravnica, the counterattack by the guilds, the arrival of the Amonkhet God-Eternals, and the death and betrayal that soon followed. It remains to be seen what impact the set will have on the gameplay and the meta, but from lore and flavor alone it's already a win.
 

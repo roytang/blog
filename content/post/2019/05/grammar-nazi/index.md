@@ -1,7 +1,6 @@
 ---
 author: roy
 date: 2019-05-06 05:56:56
-featuredImage: https://roytang.net/uploads/2019/english.png
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1125279358590050304/
@@ -22,7 +21,7 @@ I used to be pretty anal about it too. I would correct most people given any opp
 
 Even if don't speak up, I reserve the right to silently judge someone for poor grammar. Filipinos are notorious for judging others based on how good their English is:
 
-![](/uploads/2019/english.png)
+{{% img src="english.png" %}}
 
 It is mostly an elitist thing - English grammar isn't something the poorer or less educated citizens will be super familiar with (although most Filipinos will still understand rudimentary English of course... I think... ). Speaking good English is often seen as a sign of privilege. I imagine even foreigners make some judgments based on how good your English is; I imagine that my [US Visa interview](/2019/04/i-got-a-us-visa/) might have been a bit more difficult if I wasn't fluent. That being said, it may be a thing that's on the downturn, given the recent rise of anti-intellectualism locally (or is it really recent?)
 

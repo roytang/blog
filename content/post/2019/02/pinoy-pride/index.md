@@ -2,7 +2,6 @@
 author: roy
 categories: []
 date: 2019-02-17 05:56:56
-featuredImage: https://roytang.net/uploads/2019/pinoy-pride.png
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1097014022120050691/
@@ -10,11 +9,12 @@ tags:
 - Philippines
 title: Pinoy Pride
 type: post
+dontinlinephotos: true
 ---
 
 Filipinos have this weird concept of nationalistic/Pinoy pride where we as a nation brag about anyone who has even remote traces of Filipino blood and gets some sort of global recognition. I've even seen a few meme images about it:
 
-![](/uploads/2019/pinoy-pride.png)
+{{% img src="pinoy-pride.png" %}}
 
 (Image credit: [Reddit](https://www.reddit.com/r/Philippines/comments/4xt89y/its_funny_cause_its_true/))
 
