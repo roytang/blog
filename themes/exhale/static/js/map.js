@@ -26,6 +26,10 @@ function createMap(data) {
 
         let delta = data.length > 1 ? 10 : 0.01;
         console.log("delta", delta);
+        console.log("bounds", [
+            [minlat-delta, minlong-delta], 
+            [maxlat+delta, maxlong+delta], 
+        ]);
         mymap.fitBounds([
             [minlat-delta, minlong-delta], 
             [maxlat+delta, maxlong+delta], 
