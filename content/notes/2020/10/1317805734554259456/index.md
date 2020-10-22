@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1317805734554259456/
+title: ''
 ---
 
 Let’s ask [@MMDA](https://twitter.com/MMDA/) 

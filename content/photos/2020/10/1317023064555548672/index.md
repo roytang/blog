@@ -5,8 +5,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1317023064555548672/
 tags:
-- SuperMario3DAllStars
 - NintendoSwitch
+- SuperMario3DAllStars
+title: ''
 ---
 
 Finished Super Mario Galaxy with 105 stars. Apparently last 15 only available postgame #SuperMario3DAllStars #NintendoSwitch

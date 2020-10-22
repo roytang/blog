@@ -9,6 +9,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1317803889601564672/
+title: ''
 ---
 
 [@paulcatiang](https://twitter.com/paulcatiang/) ... why does an mmda asec need 70 admins? are we paying for those?
