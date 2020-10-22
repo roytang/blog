@@ -1,7 +1,6 @@
 ---
 categories: []
 date: 2018-11-24 02:00:21
-featuredImage: https://roytang.net/uploads/2018/ipad_screen.jpg
 publishdate: 2018-11-24 02:00:21
 syndicated:
 - type: twitter

@@ -2,7 +2,6 @@
 author: roy
 categories: []
 date: 2019-10-12 04:00:00
-featuredImage: https://roytang.net/2019/10/this-is-metro-manila/P_20181126_170127.jpg
 slug: this-is-metro-manila
 syndicated:
 - type: twitter

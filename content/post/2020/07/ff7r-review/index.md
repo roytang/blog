@@ -1,7 +1,6 @@
 ---
 date: 2020-07-22
 dontinlinephotos: true
-featuredImage: https://roytang.net/2020/07/ff7r/FINAL%20FANTASY%20VII%20REMAKE_20200608080319_1.jpg
 slug: ff7r-review
 syndicated:
 - type: mastodon
