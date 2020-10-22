@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-22T16:31:04+08:00
+date: 2020-10-22 08:31:04
 slug: inktober-22-chef
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1319205938520158208/
 tags:
 - inktober
 - inktober2020
