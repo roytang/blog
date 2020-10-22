@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-23T04:27:00+08:00
+date: 2020-10-22 20:27:00
 slug: inktober-23-rip
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1319394301718114304/
 tags:
 - inktober
 - inktober2020
