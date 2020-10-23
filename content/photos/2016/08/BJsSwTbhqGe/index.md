@@ -11,7 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/770231882722279424/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154861967663912:0
-tags: []
+tags: 
+- boardgames
 ---
 
 Also won Lords of Waterdeep!

@@ -7,7 +7,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BzlXcGfBWBA/
-tags: []
+tags: 
+- boardgames
 ---
 
 Claustrophobia 1643

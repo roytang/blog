@@ -11,7 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/787243657166516224/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154997728858912:1
-tags: []
+tags: 
+- boardgames
 ---
 
 Flash Point

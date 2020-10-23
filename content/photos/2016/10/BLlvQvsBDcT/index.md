@@ -11,7 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/787326693195321346/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154997728858912:3
-tags: []
+tags: 
+- boardgames
 ---
 
 Nosferatu, a French game that's a bit like werewolf. Helpful French guy claims this game is not available in the Philippines

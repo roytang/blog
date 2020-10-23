@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154858911768912:1
 tags:
 - onehundredpercentwinrate
+- boardgames
 ---
 
 Mystic Vale victory! #onehundredpercentwinrate
