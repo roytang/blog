@@ -1,0 +1,27 @@
+{
+  "id": "1765bf41-abd9-41a6-be90-2f7cd7494710",
+  "name": "Beebo Mo",
+  "url": "https://twitter.com/BiboMoreira",
+  "text": "[Beebo Mo](https://twitter.com/BiboMoreira) [liked this](https://twitter.com/roytang/status/1318848815240081408#favorited-by-1253680599081996288)",
+  "date": "2020-10-21 10:25:25",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1318848815240081408#favorited-by-1253680599081996288",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Beebo Mo",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8ea16f4e15769093b526b2c5913c21c1c59983164f54b5af72910ed9663d79a6.jpg",
+      "url": "https://twitter.com/BiboMoreira"
+    },
+    "url": "https://twitter.com/roytang/status/1318848815240081408#favorited-by-1253680599081996288",
+    "published": null,
+    "wm-received": "2020-10-21T10:25:25Z",
+    "wm-id": 883168,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1318848815240081408/1253680599081996288",
+    "wm-target": "https://roytang.net/2020/10/inktober-21-sleep/",
+    "like-of": "https://roytang.net/2020/10/inktober-21-sleep/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
