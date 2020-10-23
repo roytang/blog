@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155577807023912
 tags:
 - boardgamenight
+- boardgames
 ---
 
 Pandemic cthulhu #boardgamenight

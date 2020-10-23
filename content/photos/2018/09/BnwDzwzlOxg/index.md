@@ -15,6 +15,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1040983036714737665/
 tags:
 - gamenight
+- boardgames
 ---
 
 Dice Throne #gamenight
