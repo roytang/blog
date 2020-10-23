@@ -1,5 +1,5 @@
 ---
-date: 2020-10-23 16:52:11
+date: 2020-10-23 11:52:11-05:00
 link:
   source: pocket
   source_url: https://getpocket.com
@@ -13,7 +13,7 @@ syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105085168733906053
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1319685111764271105/
+  url: https://twitter.com/roytang/statuses/1319685111764271105/  
 title: An ed-tech specialist spoke out about remote testing software — and now he’s
   being sued
 ---
