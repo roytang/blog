@@ -1,0 +1,31 @@
+{
+  "id": "3291adcc-4bbe-4a0d-9589-fca54d8208ab",
+  "name": "Marnielle Estrada",
+  "url": "https://twitter.com/MarnelEstrada",
+  "text": "Oh, I know that card.\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+  "date": "2020-10-24 13:35:22",
+  "photo": null,
+  "source_url": "https://twitter.com/MarnelEstrada/status/1319990023500951553",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marnielle Estrada",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/704c57a74399b40a10b683e864742010e72faf850c7a8472c4a58d09ce8dfa10.jpg",
+      "url": "https://twitter.com/MarnelEstrada"
+    },
+    "url": "https://twitter.com/MarnelEstrada/status/1319990023500951553",
+    "published": "2020-10-24T13:12:00+00:00",
+    "wm-received": "2020-10-24T13:35:22Z",
+    "wm-id": 886193,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1319932795125329920/1319990023500951553",
+    "wm-target": "https://roytang.net/2020/10/inktober-24-dig/",
+    "content": {
+      "html": "Oh, I know that card.\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+      "text": "Oh, I know that card."
+    },
+    "in-reply-to": "https://roytang.net/2020/10/inktober-24-dig/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
