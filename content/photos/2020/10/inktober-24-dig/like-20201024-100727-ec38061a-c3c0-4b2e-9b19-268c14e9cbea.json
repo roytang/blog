@@ -1,0 +1,27 @@
+{
+  "id": "ec38061a-c3c0-4b2e-9b19-268c14e9cbea",
+  "name": "Fran Vidal",
+  "url": "https://twitter.com/Fran_Vidal_rol",
+  "text": "[Fran Vidal](https://twitter.com/Fran_Vidal_rol) [liked this](https://twitter.com/roytang/status/1319932795125329920#favorited-by-1102541318545424384)",
+  "date": "2020-10-24 10:07:27",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1319932795125329920#favorited-by-1102541318545424384",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Fran Vidal",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f4cf381f912b2d0a724b5ef9c67d7f392a0b8c986a20534ca6289705fb1db61d.jpg",
+      "url": "https://twitter.com/Fran_Vidal_rol"
+    },
+    "url": "https://twitter.com/roytang/status/1319932795125329920#favorited-by-1102541318545424384",
+    "published": null,
+    "wm-received": "2020-10-24T10:07:27Z",
+    "wm-id": 886100,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1319932795125329920/1102541318545424384",
+    "wm-target": "https://roytang.net/2020/10/inktober-24-dig/",
+    "like-of": "https://roytang.net/2020/10/inktober-24-dig/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
