@@ -1,9 +1,11 @@
 ---
-date: 2020-10-24 00:15:02+00:00
+date: 2020-10-24 00:15:02
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1319794495395745793/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1319876679276220416/
 ---
 
 Despite not having played Eternal since before the pandemic, after reading this tweet from LSV, I signed up for the event he described and got the 7 wins and qualified for the LCQ in the first try. I used Skelle's decklist from here: https://direwolfdigital.com/news/throne-summer-championship-decklists/
@@ -17,3 +19,5 @@ I'm having fun!
 This is the perfect time to get into Eternal - you can try any deck you want, you've got a high-stakes tournament to play in, and there are lots of resources in the article for decklists, strategy guides, and more. I'm really hype about this, and would love to see what you think!
 
 {{% /quoted %}}
+
+[@EternalCardGame](https://twitter.com/EternalCardGame/) should I have gotten some kind of token from these prize chests? How can I verify that I'm qualified for the LCQ?
