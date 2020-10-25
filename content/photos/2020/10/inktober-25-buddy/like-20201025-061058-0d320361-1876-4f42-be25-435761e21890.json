@@ -1,0 +1,27 @@
+{
+  "id": "0d320361-1876-4f42-be25-435761e21890",
+  "name": "Jacob Smith",
+  "url": "https://twitter.com/JacobMiltSmith",
+  "text": "[Jacob Smith](https://twitter.com/JacobMiltSmith) [liked this](https://twitter.com/roytang/status/1320230665300791296#favorited-by-726555060583448579)",
+  "date": "2020-10-25 06:10:58",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1320230665300791296#favorited-by-726555060583448579",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jacob Smith",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d2efb7998a564d5985d68bdd3c04ee2796fe940554d7188baaa50fd336bf966c.jpg",
+      "url": "https://twitter.com/JacobMiltSmith"
+    },
+    "url": "https://twitter.com/roytang/status/1320230665300791296#favorited-by-726555060583448579",
+    "published": null,
+    "wm-received": "2020-10-25T06:10:58Z",
+    "wm-id": 886786,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1320230665300791296/726555060583448579",
+    "wm-target": "https://roytang.net/2020/10/inktober-25-buddy/",
+    "like-of": "https://roytang.net/2020/10/inktober-25-buddy/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
