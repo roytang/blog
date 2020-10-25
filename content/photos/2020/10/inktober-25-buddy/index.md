@@ -6,6 +6,8 @@ slug: inktober-25-buddy
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1320230665300791296/
+- type: instagram
+  url: https://instagram.com/p/CGwRVlkhZ1a/
 tags:
 - inktober
 - inktober2020
