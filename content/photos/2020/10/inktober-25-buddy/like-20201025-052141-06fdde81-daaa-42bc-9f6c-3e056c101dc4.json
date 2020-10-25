@@ -1,0 +1,27 @@
+{
+  "id": "06fdde81-daaa-42bc-9f6c-3e056c101dc4",
+  "name": "K\u0101 Mauu \ud83c\udf3e",
+  "url": "https://twitter.com/Ka_mauu",
+  "text": "[K\u0101 Mauu \ud83c\udf3e](https://twitter.com/Ka_mauu) [liked this](https://twitter.com/roytang/status/1320230665300791296#favorited-by-1169872126033027074)",
+  "date": "2020-10-25 05:21:41",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1320230665300791296#favorited-by-1169872126033027074",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "K\u0101 Mauu \ud83c\udf3e",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e3ad2de0146bff31c79cbeab55ecd557aa6c340e8e3c6611faaf32f6ff5331cc.jpg",
+      "url": "https://twitter.com/Ka_mauu"
+    },
+    "url": "https://twitter.com/roytang/status/1320230665300791296#favorited-by-1169872126033027074",
+    "published": null,
+    "wm-received": "2020-10-25T05:21:41Z",
+    "wm-id": 886760,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1320230665300791296/1169872126033027074",
+    "wm-target": "https://roytang.net/2020/10/inktober-25-buddy/",
+    "like-of": "https://roytang.net/2020/10/inktober-25-buddy/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
