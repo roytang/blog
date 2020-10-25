@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-25T13:04:32+08:00
+date: 2020-10-25 05:04:32
 slug: inktober-25-buddy
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1320230665300791296/
 tags:
 - inktober
 - inktober2020
