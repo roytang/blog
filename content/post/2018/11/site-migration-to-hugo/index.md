@@ -59,7 +59,7 @@ After getting the export from the plugin, I still had a bit of post-processing a
 
 For one thing, all the single-quotes in the exported posts seem to have been converted to HTML entities for that smart quote thing, so I had to reverse that. Luckily, it was a simple find and replace across text files. The format for embedding posts such as Twitter, Youtube, etc was different as well, I had to correct those files one by one.
 
-### Cleaning up the taxanomies
+### Cleaning up the taxonomies
 
 I had always wanted to clean up the categories in the blog, but I never got around to it with Wordpress because I didn't feel like figuring out the SQL I would have needed to do it. (I've never liked Wordpress's table structure.). With Hugo, all I had to do was update a bunch of text files, which I was much more comfortable with. This involved simply importing a Python library to [parse frontmatter](https://elbauldelprogramador.com/en/how-to-parse-frontmatter-with-python/), and a [script](https://github.com/roytang/blog/blob/master/utils/clean_categories.py) to do the conversion.
 
