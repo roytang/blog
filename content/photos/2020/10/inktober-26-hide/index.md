@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-26T16:58:30+08:00
+date: 2020-10-26 08:58:30
 slug: inktober-26-hide
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1320652138263891970/
 tags:
 - inktober
 - inktober2020
