@@ -1,6 +1,11 @@
 ---
 date: 2020-10-25
 slug: weeknotes-2020-10-25
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105096204701480724
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1320391413062750208/
 tags:
 - weeknotes
 - changelog
