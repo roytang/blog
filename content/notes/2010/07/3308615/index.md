@@ -55,4 +55,4 @@ This renders as: ![floaty divs][1]
 What's the proper CSS way to have the container (red-bordered box) completely surround the floaty green-bordered boxes?
 
 
-  [1]: http://i.stack.imgur.com/Ci22u.png
+  [1]: https://i.stack.imgur.com/Ci22u.png

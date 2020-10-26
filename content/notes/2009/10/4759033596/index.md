@@ -9,4 +9,4 @@ syndicated:
 title: ''
 ---
 
-http://twitpic.com/kyf5r - Luckily I'm not superstitious
+https://twitpic.com/kyf5r - Luckily I'm not superstitious

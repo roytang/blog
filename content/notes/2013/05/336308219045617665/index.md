@@ -11,4 +11,4 @@ syndicated:
 title: ''
 ---
 
-Traffic ba sa EDSA? See for yourself using the MMDA Traffic Mirror (livestream) —&gt; http://mmda.nowplanet.tv http://twitpic.com/crty1b
+Traffic ba sa EDSA? See for yourself using the MMDA Traffic Mirror (livestream) —&gt; http://mmda.nowplanet.tv https://twitpic.com/crty1b

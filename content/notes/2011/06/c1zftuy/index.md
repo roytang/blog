@@ -16,6 +16,6 @@ tags:
 
 They load the URL inside a frame, i.e. view source will show:
 
-<iframe width="100%" height="100%" src="http://www.reddit.com" border="0" noborder="noborder" frameborder="0" padding="0" spacing="0"></iframe> 
+&lt;iframe width="100%" height="100%" src="http://www.reddit.com" border="0" noborder="noborder" frameborder="0" padding="0" spacing="0"&gt;&lt;/iframe&gt;
 
 Your browser sends the request directly to reddit.com, it doesn't pass through their servers

@@ -13,4 +13,4 @@ tags:
 - sketchdaily
 ---
 
-http://i.imgur.com/iFqWH.png just a quick sketch using an ipad and the paper app
+https://i.imgur.com/iFqWH.png just a quick sketch using an ipad and the paper app

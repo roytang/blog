@@ -25,5 +25,5 @@ I also don't have any borders on that extra area after the last item. So, what's
 
 Thanks!
 
-  [1]: http://i.stack.imgur.com/yWkZj.png
-  [2]: http://i.stack.imgur.com/1LKIQ.png
+  [1]: https://i.stack.imgur.com/yWkZj.png
+  [2]: https://i.stack.imgur.com/1LKIQ.png

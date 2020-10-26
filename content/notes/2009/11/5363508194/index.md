@@ -9,4 +9,4 @@ syndicated:
 title: ''
 ---
 
-Have some fries! http://twitpic.com/o03dc (Testing tweetdeck/twitpic integration)
+Have some fries! https://twitpic.com/o03dc (Testing tweetdeck/twitpic integration)

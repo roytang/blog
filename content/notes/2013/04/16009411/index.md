@@ -38,4 +38,4 @@ It worked in the sense that I can click the div to make the editor toolbar appea
 According to http://nightly.ckeditor.com/13-04-14-07-42/standard/samples/inlinebycode.html this should be all the JS I need. Is there some other config setting I need to be doing?
 
 
-  [1]: http://i.stack.imgur.com/koQbY.png
+  [1]: https://i.stack.imgur.com/koQbY.png

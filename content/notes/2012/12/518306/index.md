@@ -37,4 +37,4 @@ I don't have time to take apart the computer at the moment, probably I'll do it 
 
 
   [1]: http://www.youtube.com/watch?v=KP4tIKvtZ_Q&feature=g-crec-u
-  [2]: http://i.stack.imgur.com/yWYGp.png
+  [2]: https://i.stack.imgur.com/yWYGp.png
