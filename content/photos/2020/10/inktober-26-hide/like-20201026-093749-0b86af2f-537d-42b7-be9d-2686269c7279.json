@@ -1,0 +1,27 @@
+{
+  "id": "0b86af2f-537d-42b7-be9d-2686269c7279",
+  "name": "\ud83d\udc38 Greenfinch Garden",
+  "url": "https://twitter.com/GreenfinchG",
+  "text": "[\ud83d\udc38 Greenfinch Garden](https://twitter.com/GreenfinchG) [liked this](https://twitter.com/roytang/status/1320652138263891970#favorited-by-1142338533753085952)",
+  "date": "2020-10-26 09:37:49",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1320652138263891970#favorited-by-1142338533753085952",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "\ud83d\udc38 Greenfinch Garden",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6e27739284bd4427ca4e5a3555b5a3c21a516fe02a69e539f8a8af16c2699c29.jpg",
+      "url": "https://twitter.com/GreenfinchG"
+    },
+    "url": "https://twitter.com/roytang/status/1320652138263891970#favorited-by-1142338533753085952",
+    "published": null,
+    "wm-received": "2020-10-26T09:37:49Z",
+    "wm-id": 887997,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1320652138263891970/1142338533753085952",
+    "wm-target": "https://roytang.net/2020/10/inktober-26-hide/",
+    "like-of": "https://roytang.net/2020/10/inktober-26-hide/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
