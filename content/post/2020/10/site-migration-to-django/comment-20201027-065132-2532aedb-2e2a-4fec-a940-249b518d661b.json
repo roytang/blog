@@ -1,0 +1,31 @@
+{
+  "id": "2532aedb-2e2a-4fec-a940-249b518d661b",
+  "name": "Alvin Tang",
+  "url": "https://twitter.com/alvinjtang",
+  "text": "saan hosting mo before? webfaction?\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+  "date": "2020-10-27 06:51:32",
+  "photo": null,
+  "source_url": "https://twitter.com/alvinjtang/status/1320958858257334272",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Alvin Tang",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b8e47bc83f674ac761eea388f317ca5dfc6b3ae00e9cd25bbead34d4095e189d.jpg",
+      "url": "https://twitter.com/alvinjtang"
+    },
+    "url": "https://twitter.com/alvinjtang/status/1320958858257334272",
+    "published": "2020-10-27T05:21:48+00:00",
+    "wm-received": "2020-10-27T06:51:32Z",
+    "wm-id": 888856,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1320941945070313472/1320958858257334272",
+    "wm-target": "https://roytang.net/2020/10/site-migration-to-django/",
+    "content": {
+      "html": "saan hosting mo before? webfaction?\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+      "text": "saan hosting mo before? webfaction?"
+    },
+    "in-reply-to": "https://roytang.net/2020/10/site-migration-to-django/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

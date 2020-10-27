@@ -1,0 +1,31 @@
+{
+  "id": "b8c5f0a7-acf6-49b2-a834-819f08703309",
+  "name": "Roy Tang",
+  "url": "https://twitter.com/roytang",
+  "text": "yeap. binili ni godaddy e\n<a class=\"u-mention\" href=\"https://twitter.com/alvinjtang\"></a>",
+  "date": "2020-10-27 06:51:34",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1320978632534228994",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roy Tang",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fcb179eefc747c3a760fbea4b2b3693db8983b79e2a43dcb9c059d0f3ddcff5a.jpg",
+      "url": "https://twitter.com/roytang"
+    },
+    "url": "https://twitter.com/roytang/status/1320978632534228994",
+    "published": "2020-10-27T06:40:23+00:00",
+    "wm-received": "2020-10-27T06:51:34Z",
+    "wm-id": 888857,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1320941945070313472/1320978632534228994",
+    "wm-target": "https://roytang.net/2020/10/site-migration-to-django/",
+    "content": {
+      "html": "yeap. binili ni godaddy e\n<a class=\"u-mention\" href=\"https://twitter.com/alvinjtang\"></a>",
+      "text": "yeap. binili ni godaddy e"
+    },
+    "in-reply-to": "https://roytang.net/2020/10/site-migration-to-django/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
