@@ -1,0 +1,27 @@
+{
+  "id": "2b8c9805-42a8-4b2a-ae3f-b98cf05b103e",
+  "name": "\u88f8\u306e\u5fcd\u8005 Nude Ninja",
+  "url": "https://pl.nudie.social/users/ninja",
+  "text": "[\u88f8\u306e\u5fcd\u8005 Nude Ninja](https://pl.nudie.social/users/ninja) [liked this](https://mastodon.technology/@roytang/105104806762996697#favorited-by-169530)",
+  "date": "2020-10-27 23:02:49",
+  "photo": null,
+  "source_url": "https://mastodon.technology/@roytang/105104806762996697#favorited-by-169530",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "\u88f8\u306e\u5fcd\u8005 Nude Ninja",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/f5164bacb77e2fc77db95acd37a6f14eb6c83a1a3c9a71b014fd8265adafafa1.jpg",
+      "url": "https://pl.nudie.social/users/ninja"
+    },
+    "url": "https://mastodon.technology/@roytang/105104806762996697#favorited-by-169530",
+    "published": null,
+    "wm-received": "2020-10-27T23:02:49Z",
+    "wm-id": 889554,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/105104806762996697/169530",
+    "wm-target": "https://roytang.net/2020/10/site-migration-to-django/",
+    "like-of": "https://roytang.net/2020/10/site-migration-to-django/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
