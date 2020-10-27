@@ -6,6 +6,8 @@ slug: inktober-26-hide
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1320652138263891970/
+- type: instagram
+  url: https://instagram.com/p/CGzRB4vB-ph/
 tags:
 - inktober
 - inktober2020
