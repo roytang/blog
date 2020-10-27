@@ -1,0 +1,27 @@
+{
+  "id": "fee8cf5c-6581-404b-a2ce-1ba6506f0ad4",
+  "name": "Remy Bernstein",
+  "url": "https://twitter.com/remybernstein",
+  "text": "[Remy Bernstein](https://twitter.com/remybernstein) [liked this](https://twitter.com/roytang/status/1320941945070313472#favorited-by-3187698081)",
+  "date": "2020-10-27 04:39:10",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1320941945070313472#favorited-by-3187698081",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Remy Bernstein",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5b470f43cc0f5a56926366b4d6ef175aec17d0329f05697b73c3b0f671e78717.jpg",
+      "url": "https://twitter.com/remybernstein"
+    },
+    "url": "https://twitter.com/roytang/status/1320941945070313472#favorited-by-3187698081",
+    "published": null,
+    "wm-received": "2020-10-27T04:39:10Z",
+    "wm-id": 888845,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1320941945070313472/3187698081",
+    "wm-target": "https://roytang.net/2020/10/site-migration-to-django/",
+    "like-of": "https://roytang.net/2020/10/site-migration-to-django/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
