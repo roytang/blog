@@ -1,12 +1,17 @@
 ---
-title: "Site Migration from Hugo to Django"
 date: 2020-10-27
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105104806762996697
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1320941945070313472/
 tags:
 - hugo
 - django
 - Meta
 - Tech Life
 - changelog
+title: Site Migration from Hugo to Django
 ---
 
 ### Leaving Hugo
