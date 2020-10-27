@@ -6,6 +6,8 @@ slug: inktober-27-music
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1321047863212740608/
+- type: instagram
+  url: https://instagram.com/p/CG2E-qYhHxg/
 tags:
 - inktober
 - inktober2020
