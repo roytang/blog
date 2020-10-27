@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-27T19:11:47+08:00
+date: 2020-10-27 11:11:47
 slug: inktober-27-music
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1321047863212740608/
 tags:
 - inktober
 - inktober2020
