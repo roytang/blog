@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-28T20:01:15+08:00
+date: 2020-10-28 12:01:15
 slug: inktober-28-float
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1321423151708794880/
 tags:
 - inktober
 - inktober2020
