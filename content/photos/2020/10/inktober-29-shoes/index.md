@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-29T20:01:57+08:00
+date: 2020-10-29 12:01:57
 slug: inktober-29-shoes
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1321784897116106755/
 tags:
 - inktober
 - inktober2020
