@@ -1,0 +1,27 @@
+{
+  "id": "8083d5ec-607e-422f-a56f-03ca8445e382",
+  "name": "Libearty",
+  "url": "https://twitter.com/LibeartyComics",
+  "text": "[Libearty](https://twitter.com/LibeartyComics) [liked this](https://twitter.com/roytang/status/1322071589857320960#favorited-by-523276770)",
+  "date": "2020-10-30 08:09:19",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1322071589857320960#favorited-by-523276770",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Libearty",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/822dfbc2960abfaf0ea63819496edefff7d4de96fc8fa31d5fbe2cc7c41fe266.jpg",
+      "url": "https://twitter.com/LibeartyComics"
+    },
+    "url": "https://twitter.com/roytang/status/1322071589857320960#favorited-by-523276770",
+    "published": null,
+    "wm-received": "2020-10-30T08:09:19Z",
+    "wm-id": 892433,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1322071589857320960/523276770",
+    "wm-target": "https://roytang.net/2020/10/inktober-30-ominous/",
+    "like-of": "https://roytang.net/2020/10/inktober-30-ominous/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
