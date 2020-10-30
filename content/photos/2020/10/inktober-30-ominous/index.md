@@ -1,8 +1,11 @@
 ---
 albums:
 - sketchbook
-date: 2020-10-30T14:58:52+08:00
+date: 2020-10-30 06:58:52
 slug: inktober-30-ominous
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1322071589857320960/
 tags:
 - inktober
 - inktober2020
