@@ -6,6 +6,8 @@ slug: inktober-30-ominous
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1322071589857320960/
+- type: instagram
+  url: https://instagram.com/p/CG9Wgxahs2r/
 tags:
 - inktober
 - inktober2020
