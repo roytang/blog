@@ -110,9 +110,9 @@
     },
     "params": {
       "brand": "Roy Tang",
-      "topimage": "![Wearing dice on my head since 2008](/img/profile.jpg \"Wearing dice on my head since 2008\")",
+      "topimage": "![Wearing dice on my head since 2008](/static/img/profile.jpg \"Wearing dice on my head since 2008\")",
       "topline": "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart.",
-      "featuredImage": "https://roytang.net/img/profile.jpg",
+      "featuredImage": "https://roytang.net/static/img/profile.jpg",
       "description": "Roy Tang's blog. Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed.",
       "mainColor": "#57cc8a",
       "footline": "",
