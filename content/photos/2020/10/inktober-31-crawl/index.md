@@ -6,6 +6,8 @@ slug: inktober-31-crawl
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1322490571965952000/
+- type: instagram
+  url: https://instagram.com/p/CHAVDF1hdRu/
 tags:
 - inktober
 - inktober2020
