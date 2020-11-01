@@ -1,6 +1,11 @@
 ---
 date: 2020-11-01
 slug: weeknotes-2020-11-01
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105134076081304107
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1322815182301614080/
 tags:
 - weeknotes
 title: Weeknotes 2020-11-01 Storm's comin'
