@@ -25,7 +25,7 @@ For March 15th, the theme posted on r/SketchDaily was "Lots of Dinosaurs". I usu
 
 I found the following image via Google Images, originally hosted on http://kaiju-kingdom-hearts.wikia.com/wiki/Dinobots:
 
-![](http://vignette2.wikia.nocookie.net/kaiju-kingdom-hearts/images/3/3d/Dinobots_roar_by_kevinraganit-d5fx2sa.png/revision/latest?cb=20130130175814)
+![](https://vignette2.wikia.nocookie.net/kaiju-kingdom-hearts/images/3/3d/Dinobots_roar_by_kevinraganit-d5fx2sa.png/revision/latest?cb=20130130175814)
 
 The five Dinobots (if you are ignorant) are Grimlock (center, T-Rex), Snarl (bottom left, Stegosaurus), Slag/Slug (bottom right, triceratops, he was renamed to Slug in later versions because apparently Slag had negative connotations somewhere), Sludge (top right, apatosaurus), and Swoop (top left, pteranodon)
 
