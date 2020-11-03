@@ -11,5 +11,7 @@ syndicated:
   url: https://www.youtube.com/watch?v=hYlm_9i5Dgc&app=desktop
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105147690182989712
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1323681442891640840/
 title: '&quot;GO GO MARIO!!&quot; Official Single (3/1986, English Subtitles) - NintendoComplete'
 ---
