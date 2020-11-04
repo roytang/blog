@@ -20,6 +20,10 @@
         "label": "Links",
         "descrip": "Shared links."
     },
+    "quotes": {
+        "label": "Quotes",
+        "descrip": "Quote sets"
+    },
     "page": {
         "label": "Other Pages",
         "descrip": "Standalone pages not belonging to the other sections."

@@ -8,7 +8,6 @@ These are quotes (allegedly) made by me, compiled by people I know over the year
 
 There is also [a Twitter bot](https://twitter.com/tangincheek) that randomly tweets one of these per day, if you're into that sort of thing.
 
-
 ### 1
 
 Difficult tasks are like drugs: just say 'No'.
@@ -827,7 +826,7 @@ the price of being the best is to always be the best
 
 ### 116
 
-
+if you dont know whether you need to set it to true, you probably don’t
 
 ---
 
@@ -969,7 +968,7 @@ pag nawalan tayo ng kuryente, mag-c-CVS tayo by hand
 
 ### 137
 
-
+Since napanood ko na Iron Man 1, papanoorin ko na lang Iron Man 2. That way, parang napanood ko na din yung 3, kasi 2+1 equaaaals...
 
 ---
 
@@ -2469,13 +2468,13 @@ it's a good thing we're standby then!
 
 ### 349
 
-
+SCS. That’s what our problem is
 
 ---
 
 ### 350
 
-
+don’t try to justify yourself
 
 ---
 
@@ -3015,7 +3014,7 @@ is there a place we can go where we can just shout out loud
 
 ### 429
 
-
+I don’t know how to work with humans
 
 ---
 
@@ -3849,7 +3848,7 @@ screw these rules!
 
 ### 553
 
-
+&lt;hunter&gt; when will you ever learn. You never try.
 
 ---
 
@@ -5409,7 +5408,7 @@ black couch lang bastos na agad
 
 ### 785
 
-
+step 1: don’t
 
 ---
 
@@ -8135,7 +8134,7 @@ Singlish: It's the same as english but they're singing...
 
 ### 1184
 
-
+I wouldn't want to be in Singapore... They don't have bacon...
 
 ---
 
