@@ -55,6 +55,8 @@ I created the initial MySQL database with character set `utf8`, which apparently
 
 After some initial testing, I also encountered a "MySQL has gone away" every so often. Turns out Django was holding on to connections for too long, so a timeout had to be set in the database settings as well. SO reference: https://stackoverflow.com/questions/26958592/
 
+Edit: I just encountered this a few hours after I wrote this post, when I tried to make the site display all times in Manila local time. Apparently, even if I set my Django app to be timezone, aware, additional setup needs to be done on the MySQL side so it knows what the actual timezones are (feels like they should really do this as part of the install!). Basically you need to run `mysql_tzinfo_to_sql` to load the OS timezone info into the database. This is in the [Django documentation](https://django.readthedocs.io/en/stable/ref/databases.html) and the [MySQL documentation](https://dev.mysql.com/doc/refman/5.6/en/mysql-tzinfo-to-sql.html).
+
 ### Misc stuff
 
 I used cron to set up most of the batch jobs I usually run (like the Twitter bots, etc). Initially I had problems where it seemed like cron wasn't running the jobs, even though syslog showed me the cron daemon was actually running. I don't have notes on how I resolved this, but mentioning it here so that if this happens again in the future, I know to actuall take notes!
