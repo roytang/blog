@@ -119,6 +119,11 @@
             "Name": "Ko-fi",
             "URL": "https://ko-fi.com/roytang",
             "rel": "me"
+        },
+        {
+            "Name": "",
+            "URL": "mailto:hello@roytang.net",
+            "rel": "me"
         }
     ],
     "subscribe": [
