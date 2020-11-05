@@ -1,10 +1,15 @@
 ---
-title: "Server Setup Notes: Ubuntu, Nginx, Django, MySQL"
+date: 2020-11-05 06:59:41
 slug: server-setup-notes
-date: 2020-11-05T14:59:41+08:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105156709394792329
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1324263713411538945/
 tags:
 - tech life
 - software development
+title: 'Server Setup Notes: Ubuntu, Nginx, Django, MySQL'
 ---
 
 I recently did [a server migration](/2020/10/site-migration-to-django/) since I moved to new hosting, The move was from managed/shared hosting to a VPS, these are some notes I took during the process, which I figure might be helpful if I ever tried to  do this again. (And maybe someone else finds it helpful too). Links and references to helpeful resources are included.
