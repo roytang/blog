@@ -10,4 +10,7 @@ slug: fix-the-internet-by-writing-good-stuff-and-being-nice-to-people-woman-le
 source: pocket
 title: "Fix the internet by writing good stuff and being nice to people \xB7 Woman.\
   \ Le"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1059844432667787270/
 ---
