@@ -1,6 +1,11 @@
 ---
 date: 2020-11-08
 slug: weeknotes-2020-11-08
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105173529085743162
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1325340174117609472/
 tags:
 - weeknotes
 title: Weeknotes 2020-11-01 A Collective Sigh of Relief
