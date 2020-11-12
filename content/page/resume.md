@@ -8,7 +8,7 @@ comments_enabled: false
 ---
 [hello@roytang.net](hello@roytang.net) | [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang)
 
-[View/download this resume in PDF format](/RoyTang.pdf)
+[View/download this resume in PDF format](/files/RoyTang.pdf)
 
 ***
 
