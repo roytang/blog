@@ -1,6 +1,11 @@
 ---
 date: 2020-11-15
 slug: weeknotes-2020-11-15
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105212806978506657
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1327853959495630849/
 tags:
 - weeknotes
 title: Weeknotes 2020-11-15 Winds and Rain
@@ -25,4 +30,3 @@ I fortunately got off relatively unscathed. The howling winds and pouring rain m
 **Trivia:** we actually won an online quiz this past week! Amazing. We had so much fun, we even went ahead and had our own internal 2-hour trivia quiz right after: https://www.youtube.com/watch?v=no0sYBcU5LA
 
 **Looking forward to:** I just found out that the next book in Sanderson's *Stormlight Archive* is coming out next week! That's gonna be a huge book, hopefully I can manage to finish it before year-end (so that I can at least get my books read stat for the year up a tiny bit)
-
