@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1327853276302217223/
 ---
 
-[Team Camote] - Post-Trivia Trivia ni Seresa https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dno0sYBcU5LA%26feature%3Dyoutu.be&q=EhAkAGGAAAAA0AAAAAAOqkABGPKHw_0FIhkA8aeDSyLOPkhNhizrVU88PHE0fcASmKYXMgFy via [@YouTube](https://twitter.com/YouTube/)
+[Team Camote] - Post-Trivia Trivia ni Seresa https://www.youtube.com/watch?v=no0sYBcU5LA via [@YouTube](https://twitter.com/YouTube/)
