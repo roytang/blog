@@ -1,6 +1,11 @@
 ---
 date: 2020-11-29
 slug: weeknotes-2020-11-29
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105293521081205141
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1333019661709971456/
 tags:
 - weeknotes
 title: Weeknotes 2020-11-29
