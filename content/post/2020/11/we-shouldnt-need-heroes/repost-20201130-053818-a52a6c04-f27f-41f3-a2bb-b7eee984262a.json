@@ -1,0 +1,27 @@
+{
+  "id": "a52a6c04-f27f-41f3-a2bb-b7eee984262a",
+  "name": "still just dave",
+  "url": "https://mastodon.technology/@dvshkn",
+  "text": "[still just dave](https://mastodon.technology/@dvshkn) [shared this](https://mastodon.technology/@roytang/105296864283575619#reblogged-by-217432)",
+  "date": "2020-11-30 05:38:18",
+  "photo": null,
+  "source_url": "https://mastodon.technology/@roytang/105296864283575619#reblogged-by-217432",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "still just dave",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/10719f5154842626a7544c1287370e207fcc3c526d96de561aa03c3d97aa5d04.png",
+      "url": "https://mastodon.technology/@dvshkn"
+    },
+    "url": "https://mastodon.technology/@roytang/105296864283575619#reblogged-by-217432",
+    "published": null,
+    "wm-received": "2020-11-30T05:38:18Z",
+    "wm-id": 929806,
+    "wm-source": "https://brid-gy.appspot.com/repost/mastodon/@roytang@mastodon.technology/105296864283575619/217432",
+    "wm-target": "https://roytang.net/2020/11/we-shouldnt-need-heroes/",
+    "repost-of": "https://roytang.net/2020/11/we-shouldnt-need-heroes/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
