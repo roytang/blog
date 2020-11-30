@@ -1,7 +1,12 @@
 ---
-title: "We Shouldn't Need Heroes"
 date: 2020-11-30
 slug: we-shouldnt-need-heroes
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105296864283575619
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1333233628449370112/
+title: We Shouldn't Need Heroes
 ---
 
 It's National Heroes Day over here, so I've been thinking about heroics.
@@ -20,5 +25,4 @@ Whistleblowers are hailed as heroes, but it would be better if instead the peopl
 
 Whenever there's an election, we look among the candidates, searching for a hero who will fix all our problems and save our country, but a few good politicians won't be enough, what we need are systems and institutions that work to serve the citizenship and can survive even bad leadership.
 
-There will always be exceptionalism, and heroics always make for great stories, but there's also something to be said for just having normal, working systems, institutions, and communities that don't need heroes to keep going. We should celebrate our heroes and be grateful for their heroics, but even better would be a world where we need less heroes; a society that functions normally without people having to make sacrifices. 
-
+There will always be exceptionalism, and heroics always make for great stories, but there's also something to be said for just having normal, working systems, institutions, and communities that don't need heroes to keep going. We should celebrate our heroes and be grateful for their heroics, but even better would be a world where we need less heroes; a society that functions normally without people having to make sacrifices.
