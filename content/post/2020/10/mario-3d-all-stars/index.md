@@ -4,6 +4,7 @@ date: 2020-10-22T14:03:35+08:00
 slug: mario-3d-all-stars
 tags:
 - gaming
+- nintendoswitch
 ---
 
 So I [got a Nintendo Switch last month](/2020/09/nintendo-switch/). One of the first games I had gotten for the system was the recently released Super Mario 3d All-Stars. I had really been wanting to play Super Mario Odyssey instead, but my brother had a copy of that game that I could borrow later, so I decided to get 3dAS first, as I had never really played the 3 games on the collection.

@@ -3,6 +3,7 @@ title: "Game Review: Super Mario Odyssey"
 date: 2020-12-02
 tags: 
 - gaming
+- nintendoswitch
 resources:
 - src: 874-moons.jpg
   title: It's 874 because I bought an extra moon at the stores for some reason.
