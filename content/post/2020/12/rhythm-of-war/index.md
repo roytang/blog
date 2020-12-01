@@ -1,7 +1,11 @@
 ---
-title: "Rhythm of War"
 date: 2020-12-01
 slug: rhythm-of-war
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105302960297635029
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1333623771907858432/
 tags:
 - books
 - stormlight archive
@@ -17,4 +21,3 @@ I got this book on launch day last Nov 17. The [review for the second book Words
 It's a really fun book actually, things are happening, and there's character growth and everything, and I feel like this one touched a lot more on the cosmere stuff. Or maybe I was just notificing more things because no review meant I was reading the wiki more. (Don't worry I managed not to spoil myself!). It's great that Sanderson manages to just put in a lot of stuff and give all of the lead characters significant things to do and character arcs and so on. 
 
 There's some happenings near the end that turn around some things the characters thought they knew about their history; not as big as the one in Oathbringer, but that's always fun. And some things happen where I'm not sure how the next book is going to handle it, so I'm looking forward to that. (Trying not to be too spoilery here of course!) At Sanderson's rate, it's gonna be at least 3 years before book 5 comes out, and even after that, the series is expected to have a second 5-book arc, plus there's some side books that I feel like I should read because they introduce some relevant characters (Edgedanger, etc) so there's still a lot of Stormlight Archive to look forward to!
-
