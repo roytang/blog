@@ -1,9 +1,6 @@
 ---
-title: "Game Review: Super Mario Odyssey"
 date: 2020-12-02
-tags: 
-- gaming
-- nintendoswitch
+dontinlinephotos: true
 resources:
 - src: 874-moons.jpg
   title: It's 874 because I bought an extra moon at the stores for some reason.
@@ -25,7 +22,15 @@ resources:
   title: You get a THANK YOU for finishing the Darker Side challenge
 - src: woodland.jpg
   title: This is the woodland kingdom
-dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105307886098255789
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1333939029100826625/
+tags:
+- gaming
+- nintendoswitch
+title: 'Game Review: Super Mario Odyssey'
 ---
 
 After playing through [Super Mario 3D All Stars in October](/2020/10/mario-3d-all-stars/), I borrowed a copy of Super Mario Odyssey for the Nintendo Switch from my brother and played through it for most of November. Odyssey was the main reason I actually got a Switch; I played through a few worlds at a friends house during a single session and loved it, so I had been meaning to get the console just for Odyssey alone.
