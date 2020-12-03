@@ -1,8 +1,13 @@
 ---
-title: "Ephemeral Echoes"
 date: 2020-12-03
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105313548794099925
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1334301441230401541/
 tags:
 - tech life
+title: Ephemeral Echoes
 ---
 
 Last week, Twitter added Fleets, their own version of stories (short-lived posts). As could be expected, it's not something I can relate to. I did post one (saying "This is dumb.") just to see what the interface was like, but that's it. 
