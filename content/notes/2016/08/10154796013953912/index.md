@@ -10,6 +10,7 @@ tags:
 ---
 
 SUICIDE SQUAD Spoiler-Free Review:
+
 - a fun, wild ride. Explosions and gunfire and creepy tentacles abound
 - just don't expect too much from the plot or characterization. There was more than one scene where I was like WHY WOULD THEY DO THAT?
 - I liked the soundtrack
