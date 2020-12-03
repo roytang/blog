@@ -51,6 +51,8 @@ There is however, a lot of post-game and completion stuff to do, that took me an
 
 {{< img src="mushroom-kingdom.jpg" >}}
 
+My favorite parts of the game are these segments where Mario becomes a 2D Mario and you have to play 2d Mario stages in 8-bit style, they appear in the open world as murals, often hidden, and they're really nice throwbacks. They even made 8-bit versions of each Mario costume!
+
 Completion is a real challenge. There are much more difficult platforming challenges involved, and some moons like the Koopa racing ones will require you to master advanced moves and jumps to beat them. There's also a whole lot of minigames to complete, moons hidden using art-based clues, and a whole lot of collectibles (including hats and costumes for Mario) that you can purchase from stores using coins and regional currency that you collect. I played most of the game in handheld mode, but there are some moons that are easier to get using motion controls, which requires you detach the joycons, so that's something I sometimes had to do.
 
 {{< img src="clue.jpg" >}}
