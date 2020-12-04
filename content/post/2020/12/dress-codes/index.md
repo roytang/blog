@@ -1,6 +1,6 @@
 ---
 title: "Dress Codes"
-date: 2020-04-24
+date: 2020-04-04
 ---
 
 A while back someone I know went from working as a developer to working at a senior/management type position at a bank, and that new job came with the corresponding dress code, which meant he was now going to work in long sleeves or barongs. That kind of thing is not for me - back when I still considered a regular office job, one of the fastest ways to get me to run away from an "opportunity" would be an overly stringent and/or formal dress code.
