@@ -1,8 +1,13 @@
 ---
-title: "Perfect Strangers"
-date: 2020-12-05T20:07:06+08:00
+date: 2020-12-05 12:07:06
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105327680520350669
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1335205866581061634/
 tags:
 - tv
+title: Perfect Strangers
 ---
 
 While digging through some old stuff recently I found a copy of the late 80s/early 90s US sitcom *Perfect Strangers* and decided to binge through all 8 seasons of it (really more like 6 and a half, since seasons 1 and 8 were an abridged 6 episodes each).
