@@ -1,6 +1,11 @@
 ---
 date: 2020-12-06
 slug: weeknotes-2020-12-06
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105333618348440184
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1335585886767988736/
 tags:
 - weeknotes
 title: Weeknotes 2020-12-06
