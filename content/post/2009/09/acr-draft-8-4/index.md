@@ -12,7 +12,9 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
 
 
 
-&nbsp;&nbsp;Pack 1 pick 1: <div class="draft_container">
+### Pack 1 pick 1: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/vectis_silencers.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/resounding_silence.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/deathgreeter.jpg" class="card" />
@@ -31,12 +33,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/predator_dragon.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/predator_dragon.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 2: <div class="draft_container">
+### Pack 1 pick 2: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/dregscape_zombie.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/kederekt_creeper.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/savage_hunger.jpg" class="card" />
@@ -54,12 +62,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/executioners_capsule.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/executioners_capsule.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 3: <div class="draft_container">
+### Pack 1 pick 3: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/blood_cultist.jpg" class="foil" />
 <img src="http://www.wizards.com/global/images/magic/ALA/etherium_sculptor.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/dreg_reaver.jpg" class="card" />
@@ -76,12 +90,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/fleshbag_marauder.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/fleshbag_marauder.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 4: <div class="draft_container">
+### Pack 1 pick 4: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/viashino_skeleton.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/call_to_heel.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/viscera_dragger.jpg" class="card" />
@@ -97,12 +117,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/blightning.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/blightning.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 5: <div class="draft_container">
+### Pack 1 pick 5: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/goblin_deathraiders.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/coma_veil.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/shadowfeed.jpg" class="card" />
@@ -117,12 +143,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/executioners_capsule.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/executioners_capsule.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 6: <div class="draft_container">
+### Pack 1 pick 6: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/jungle_weaver.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/thorn_thrash_viashino.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/etherium_sculptor.jpg" class="card" />
@@ -136,12 +168,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/obelisk_of_jund.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/obelisk_of_jund.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 7: <div class="draft_container">
+### Pack 1 pick 7: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/vectis_silencers.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/bone_splinters.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/angelsong.jpg" class="card" />
@@ -154,12 +192,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/savage_lands.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/savage_lands.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 8: <div class="draft_container">
+### Pack 1 pick 8: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/cancel.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/bloodthorn_taunter.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/angelsong.jpg" class="card" />
@@ -171,12 +215,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/blister_beetle.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/blister_beetle.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 9: <div class="draft_container">
+### Pack 1 pick 9: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/vectis_silencers.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/deathgreeter.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/kederekt_creeper.jpg" class="card" />
@@ -187,12 +237,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/kederekt_creeper.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/kederekt_creeper.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 10: <div class="draft_container">
+### Pack 1 pick 10: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/kederekt_creeper.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/savage_hunger.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/couriers_capsule.jpg" class="card" />
@@ -202,12 +258,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/couriers_capsule.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/couriers_capsule.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 11: <div class="draft_container">
+### Pack 1 pick 11: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/dreg_reaver.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/shore_snapper.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/angels_herald.jpg" class="card" />
@@ -216,12 +278,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/dreg_reaver.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/dreg_reaver.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 12: <div class="draft_container">
+### Pack 1 pick 12: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/viashino_skeleton.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/cathartic_adept.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/mighty_emergence.jpg" class="card" />
@@ -229,45 +297,69 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/viashino_skeleton.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/viashino_skeleton.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 13: <div class="draft_container">
+### Pack 1 pick 13: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/shadowfeed.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/carrion_thrash.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/forest.jpg" class="card" />
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/carrion_thrash.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/carrion_thrash.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 14: <div class="draft_container">
+### Pack 1 pick 14: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/onyx_goblet.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ALA/forest.jpg" class="card" />
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/onyx_goblet.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/onyx_goblet.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 1 pick 15: <div class="draft_container">
+### Pack 1 pick 15: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ALA/island.jpg" class="card" />
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ALA/island.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ALA/island.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 1: <div class="draft_container">
+### Pack 2 pick 1: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/mana_cylix.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/beacon_behemoth.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/zombie_outlander.jpg" class="card" />
@@ -286,12 +378,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/fiery_fall.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/fiery_fall.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 2: <div class="draft_container">
+### Pack 2 pick 2: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/armillary_sphere.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/kranioceros.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/faerie_mechanist.jpg" class="card" />
@@ -309,12 +407,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/armillary_sphere.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/armillary_sphere.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 3: <div class="draft_container">
+### Pack 2 pick 3: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/vedalken_outlander.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/wild_leotau.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/frontline_sage.jpg" class="card" />
@@ -331,12 +435,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/worldly_counsel.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/worldly_counsel.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 4: <div class="draft_container">
+### Pack 2 pick 4: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/reliquary_tower.jpg" class="foil" />
 <img src="http://www.wizards.com/global/images/magic/general/esper_cormorants.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/parasitic_strix.jpg" class="card" />
@@ -352,12 +462,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/dragonsoul_knight.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/dragonsoul_knight.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 5: <div class="draft_container">
+### Pack 2 pick 5: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/bone_saw.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/esper_cormorants.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/unsummon.jpg" class="card" />
@@ -372,12 +488,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/esperzoa.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/esperzoa.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 6: <div class="draft_container">
+### Pack 2 pick 6: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/toxic_iguanar.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/faerie_mechanist.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/bone_saw.jpg" class="card" />
@@ -391,12 +513,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/blood_tyrant.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/blood_tyrant.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 7: <div class="draft_container">
+### Pack 2 pick 7: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/ember_weaver.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/kranioceros.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/mana_cylix.jpg" class="card" />
@@ -409,12 +537,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/vectis_agents.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/vectis_agents.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 8: <div class="draft_container">
+### Pack 2 pick 8: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/pestilent_kathari.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/worldly_counsel.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/might_of_alara.jpg" class="card" />
@@ -426,12 +560,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/pestilent_kathari.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/pestilent_kathari.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 9: <div class="draft_container">
+### Pack 2 pick 9: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/mana_cylix.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/beacon_behemoth.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/valiant_guard.jpg" class="card" />
@@ -442,12 +582,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/cumber_stone.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/cumber_stone.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 10: <div class="draft_container">
+### Pack 2 pick 10: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/kranioceros.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/maniacal_rage.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/rotting_rats.jpg" class="card" />
@@ -457,12 +603,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/maniacal_rage.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/maniacal_rage.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 11: <div class="draft_container">
+### Pack 2 pick 11: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/frontline_sage.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/quenchable_fire.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/rotting_rats.jpg" class="card" />
@@ -471,12 +623,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/nacatl_outlander.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/nacatl_outlander.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 12: <div class="draft_container">
+### Pack 2 pick 12: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/reliquary_tower.jpg" class="foil" />
 <img src="http://www.wizards.com/global/images/magic/general/tukatongue_thallid.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/ashas_favor.jpg" class="card" />
@@ -484,45 +642,69 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/reliquary_tower.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/reliquary_tower.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 13: <div class="draft_container">
+### Pack 2 pick 13: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/bone_saw.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/valiant_guard.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/island.jpg" class="card" />
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/bone_saw.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/bone_saw.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 14: <div class="draft_container">
+### Pack 2 pick 14: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/bone_saw.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/general/swamp.jpg" class="card" />
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/bone_saw.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/bone_saw.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 2 pick 15: <div class="draft_container">
+### Pack 2 pick 15: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/general/swamp.jpg" class="card" />
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/general/swamp.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/general/swamp.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 1: <div class="draft_container">
+### Pack 3 pick 1: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/wildfield_borderpost.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/crystallization.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/architects_of_will.jpg" class="card" />
@@ -541,12 +723,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/nemesis_of_reason.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/nemesis_of_reason.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 2: <div class="draft_container">
+### Pack 3 pick 2: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/winged_coatl.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/deadshot_minotaur.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/veinfire_borderpost.jpg" class="card" />
@@ -564,12 +752,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/lich_lord_of_unx.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/lich_lord_of_unx.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 3: <div class="draft_container">
+### Pack 3 pick 3: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/winged_coatl.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/deadshot_minotaur.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/veinfire_borderpost.jpg" class="card" />
@@ -586,12 +780,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/slave_of_bolas.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/slave_of_bolas.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 4: <div class="draft_container">
+### Pack 3 pick 4: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/leonin_armorguard.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/cerodon_yearling.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/jhessian_zombies.jpg" class="card" />
@@ -607,12 +807,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/grixis_grimblade.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/grixis_grimblade.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 5: <div class="draft_container">
+### Pack 3 pick 5: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/architects_of_will.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/terminate.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/deny_reality.jpg" class="card" />
@@ -627,12 +833,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/terminate.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/terminate.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 6: <div class="draft_container">
+### Pack 3 pick 6: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/monstrous_carabid.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/violent_outburst.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/naya_hushblade.jpg" class="card" />
@@ -646,12 +858,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/bituminous_blast.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/bituminous_blast.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 7: <div class="draft_container">
+### Pack 3 pick 7: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/leonin_armorguard.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/architects_of_will.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/magefire_wings.jpg" class="card" />
@@ -664,12 +882,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/architects_of_will.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/architects_of_will.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 8: <div class="draft_container">
+### Pack 3 pick 8: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/naya_sojourners.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/singe_mind_ogre.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/kathari_bomber.jpg" class="card" />
@@ -681,12 +905,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/kathari_bomber.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/kathari_bomber.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 9: <div class="draft_container">
+### Pack 3 pick 9: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/wildfield_borderpost.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/architects_of_will.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/grixis_sojourners.jpg" class="card" />
@@ -697,12 +927,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/architects_of_will.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/architects_of_will.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 10: <div class="draft_container">
+### Pack 3 pick 10: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/nulltread_gargantuan.jpg" class="foil" />
 <img src="http://www.wizards.com/global/images/magic/ARB/rhox_brute.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/captured_sunlight.jpg" class="card" />
@@ -712,12 +948,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/nulltread_gargantuan.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/nulltread_gargantuan.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 11: <div class="draft_container">
+### Pack 3 pick 11: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/winged_coatl.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/captured_sunlight.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/breath_of_malfegor.jpg" class="card" />
@@ -726,12 +968,18 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/etherium_abomination.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/etherium_abomination.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 12: <div class="draft_container">
+### Pack 3 pick 12: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/jhessian_zombies.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/godtracker_of_jund.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/brainbite.jpg" class="card" />
@@ -739,43 +987,65 @@ Wanted to try out draft recording, the same method that <a link="http://pinoyrar
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/jhessian_zombies.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/jhessian_zombies.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 13: <div class="draft_container">
+### Pack 3 pick 13: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/grixis_sojourners.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/sanctum_plowbeast.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/plains.jpg" class="card" />
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/grixis_sojourners.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/grixis_sojourners.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 14: <div class="draft_container">
+### Pack 3 pick 14: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/jund_sojourners.jpg" class="card" />
 <img src="http://www.wizards.com/global/images/magic/ARB/mountain.jpg" class="card" />
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/jund_sojourners.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/jund_sojourners.jpg" class="pick" /></div>
 
-&nbsp;&nbsp;Pack 3 pick 15: <div class="draft_container">
+### Pack 3 pick 15: 
+
+<div class="draft_container">
 <img src="http://www.wizards.com/global/images/magic/ARB/swamp.jpg" class="card" />
   
 
   
-</div>My Pick:
+</div>
+
+My Pick:
+
+<div>
   
 
-<img src="http://www.wizards.com/global/images/magic/ARB/swamp.jpg" class="pick" />
+<img src="http://www.wizards.com/global/images/magic/ARB/swamp.jpg" class="pick" /></div>
 
 This draft converter created by [Benjamin Peebles-Mundy][1].
   
