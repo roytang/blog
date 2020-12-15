@@ -1,0 +1,27 @@
+{
+  "id": "7eaeeba0-e9d9-4a58-ab7f-a931f746dd95",
+  "name": "Rain \ud83d\udeb1",
+  "url": "https://cybre.space/@grainloom",
+  "text": "[Rain \ud83d\udeb1](https://cybre.space/@grainloom) [liked this](https://mastodon.technology/@roytang/105382955422866867#favorited-by-40819)",
+  "date": "2020-12-15 12:19:00",
+  "photo": null,
+  "source_url": "https://mastodon.technology/@roytang/105382955422866867#favorited-by-40819",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rain \ud83d\udeb1",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/5abd2cee24d5022e1424f3cf3229076704c10316d07ec5611e25ac08f2066606.png",
+      "url": "https://cybre.space/@grainloom"
+    },
+    "url": "https://mastodon.technology/@roytang/105382955422866867#favorited-by-40819",
+    "published": null,
+    "wm-received": "2020-12-15T12:19:00Z",
+    "wm-id": 949387,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/105382955422866867/40819",
+    "wm-target": "https://roytang.net/2020/12/how-not-to-mentor/",
+    "like-of": "https://roytang.net/2020/12/how-not-to-mentor/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
