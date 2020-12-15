@@ -1,8 +1,13 @@
 ---
-title: "How Not to Mentor Software Developers"
 date: 2020-12-15
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105382955422866867
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1338743460312932353/
 tags:
 - software development
+title: How Not to Mentor Software Developers
 ---
 
 I've talked a bit about [mentoring in software development](/2018/10/mentoring-in-software-development/) before, and how early on I used to get feedback about me being "intimidating". I never got any concrete feedback regarding that, so I don't know what problems I had specifically. Though I was recently reminded of one particular incident that was a bit cringey for me personally.
