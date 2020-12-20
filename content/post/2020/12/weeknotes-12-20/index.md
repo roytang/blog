@@ -1,6 +1,11 @@
 ---
 date: 2020-12-20
 slug: weeknotes-2020-12-20
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105410952296832736
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1340535259218120704/
 tags:
 - weeknotes
 title: Weeknotes 2020-12-20
