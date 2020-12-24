@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152682623278912:0
 tags:
 - mobile-uploads
+- noche buena
 ---
 
 Merry christmas folks :D
