@@ -1,8 +1,7 @@
 ---
 title: "Christmas Traditions"
 date: 2020-12-26
-slug: xmas-traditionsd
-draft: true
+slug: xmas-traditions
 ---
 
 This was the year when a lot of Christmas traditions were broken, due to the pandemic. There are [cultural/country-specific Christmas traditions](/2018/12/xmas-ph/) of course, but usually each person or family also has their own personal traditions that they do every Christmas. Here are some of mine: 
@@ -18,8 +17,10 @@ This was the year when a lot of Christmas traditions were broken, due to the pan
     - For the get-together itself, there's usually dinner, then some kind of party games or some cousins might be asked to perform, then presents exchange. We used to do the Santa Claus thing where one person stands in front of the tree and goes through the presents one by one and calls them out and the recipient comes forward and so on. But this didn't really scale as the extended family grew and grew. Later on, the present exchange became more "underground", with each household going around giving gifts to the others throughout the night. 
     - A tradition started by my grandfather was the "pasabog" where there would be a surprise throwing of money (usually coins or small bills) over the party area and everyone scrambled to grab some. My uncles carried on this tradition when my grandfather passed away, and in recent years my dad and I have been doing the pasabog ourselves (since at this point all of my uncles have passed away as well). 
     - We do a big family photo in this gathering too, but it's usually much more challenging since there's way more people.
-    - Obviously this year, the get together is out of the question. Some of the cousins are talking about doing a Zoom call, but I don't know how that would work, there's gonna be so many people, it's gonna be chaos. Let's see what happens!
+    - Obviously this year, the get together could not happen. 
 - I was also thinking the other day about how the people we greet on Christmas Eve/Day has evolved with technology. 
     - When I was young, we could only greet those people in our immediate household and sometimes the neighbors
     - When cellphones became popular, people greeted each other through those. Usually people had limited SMS, so they'd only pick and choose who they could greet. And during those days in particular, network congestion was so bad, it would sometimes be hours before your messages got through. I got a cellphone late and was never much into SMS, so this period didn't last long for me.
     - With the ubiquity of instant messaging these days, people just send greetings online, mostly to group chats and some to specific people (who are probably more "special" for you"). At least this is one tradition the pandemic can't take away.
+
+Hopefully, our government manages to get its act together and get this pandemic under control as soon as possible, so we can resume our Christmas traditions next year!
