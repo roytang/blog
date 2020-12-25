@@ -1,7 +1,8 @@
 ---
 title: "Christmas Traditions"
 date: 2020-12-26
-slug: xmas-traditions
+slug: xmas-traditionsd
+draft: true
 ---
 
 This was the year when a lot of Christmas traditions were broken, due to the pandemic. There are [cultural/country-specific Christmas traditions](/2018/12/xmas-ph/) of course, but usually each person or family also has their own personal traditions that they do every Christmas. Here are some of mine: 
