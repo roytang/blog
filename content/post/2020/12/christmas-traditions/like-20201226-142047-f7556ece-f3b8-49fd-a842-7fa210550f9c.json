@@ -1,0 +1,27 @@
+{
+  "id": "f7556ece-f3b8-49fd-a842-7fa210550f9c",
+  "name": "Abalem Cordeiro",
+  "url": "https://twitter.com/Abalem_Cordeiro",
+  "text": "[Abalem Cordeiro](https://twitter.com/Abalem_Cordeiro) [liked this](https://twitter.com/roytang/status/1342636759868342273#favorited-by-99818178)",
+  "date": "2020-12-26 14:20:47",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1342636759868342273#favorited-by-99818178",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Abalem Cordeiro",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ba1ba4438ea30aec0178572c1b3dd82295b4dee8a3b73f6ca91f27a348d045de.jpg",
+      "url": "https://twitter.com/Abalem_Cordeiro"
+    },
+    "url": "https://twitter.com/roytang/status/1342636759868342273#favorited-by-99818178",
+    "published": null,
+    "wm-received": "2020-12-26T14:20:47Z",
+    "wm-id": 964775,
+    "wm-source": "https://brid-gy.appspot.com/like/twitter/roytang/1342636759868342273/99818178",
+    "wm-target": "https://roytang.net/2020/12/xmas-traditions/",
+    "like-of": "https://roytang.net/2020/12/xmas-traditions/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
