@@ -1,9 +1,14 @@
 ---
 date: 2020-12-27
 slug: weeknotes-2020-12-27
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105450499225450754
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1343066262822273024/
 tags:
 - weeknotes
-title: "Weeknotes 2020-12-27 Season Finale"
+title: Weeknotes 2020-12-27 Season Finale
 ---
 
 I started doing these weeknotes at [the top of 2020](/2020/01/weeknotes-01-12/), so this one signals one complete year of doing my weekly reviews/notes in public. I thought it appropriate for a review!
