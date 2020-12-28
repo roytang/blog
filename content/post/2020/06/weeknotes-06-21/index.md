@@ -21,17 +21,17 @@ My stuff:
 - Sleep schedule kind of settling back into my usual biphasic sleep. Although the second phase seems to move around a lot...
 - Not much work-wise the past week, and a bit more family-related expenses. Medical and government stuff.
 - **Gaming:**
-  - still playing a lot of Final Fantasy VII Remake. I think I'm already in the final chapter. I am quite happy with the adaptiation, bit I'm not sure if I'm going to bother with achievement completion for this one; it requires hard mode completion, but that's not the issue. The problem is the abundance of these dexterity-based minigames! I thought everything was fine when I did the squats thing, but then later there's a harder pull-ups thing! And I haven't even cracked the bottom of that darts leaderboard...
-  - Divinity OS2 inching along slightly. But probably will be finished after FF7R at this rate.
-  - there's a new trivia app by the makers of the QuizUp, which we used to play a lot back in the day. The name is Trivia Royale, it's currently iOS only and it's basically battle royale quizup: you join a game with 1000 players, and you play 10 head-to-head matches until you get a winner. Took me most of the wook to actually win my first one.
+    - still playing a lot of Final Fantasy VII Remake. I think I'm already in the final chapter. I am quite happy with the adaptiation, bit I'm not sure if I'm going to bother with achievement completion for this one; it requires hard mode completion, but that's not the issue. The problem is the abundance of these dexterity-based minigames! I thought everything was fine when I did the squats thing, but then later there's a harder pull-ups thing! And I haven't even cracked the bottom of that darts leaderboard...
+    - Divinity OS2 inching along slightly. But probably will be finished after FF7R at this rate.
+    - there's a new trivia app by the makers of the QuizUp, which we used to play a lot back in the day. The name is Trivia Royale, it's currently iOS only and it's basically battle royale quizup: you join a game with 1000 players, and you play 10 head-to-head matches until you get a winner. Took me most of the wook to actually win my first one.
 - **Quiz:** 
-  - did poorly in the AboutQuiz and PopQuiz games this week. Actually, we've been doing poorly for a while now lol.
+    - did poorly in the AboutQuiz and PopQuiz games this week. Actually, we've been doing poorly for a while now lol.
 - **Watching lately:**
-  - Nothing to log. Maybe a good thing?
+    - Nothing to log. Maybe a good thing?
 - Side projects: 
-  - More work on [triviastorm](https://triviastorm.net/) stuff this week. Most of it are some backend fixes to make later planned new features easier to build. Planning to clear/reset leaderboards at the end of the month. Some roadmap things:
-    - allowing users to submit their own questions
-    - make the discord bot usable for public usage, i.e. let other people add it to their discord
+    - More work on [triviastorm](https://triviastorm.net/) stuff this week. Most of it are some backend fixes to make later planned new features easier to build. Planning to clear/reset leaderboards at the end of the month. Some roadmap things:
+        - allowing users to submit their own questions
+        - make the discord bot usable for public usage, i.e. let other people add it to their discord
 - I should probably write more.
 
 

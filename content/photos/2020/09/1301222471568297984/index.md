@@ -7,6 +7,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1301558996415983616/
 title: ''
+tags:
+- gaming
 ---
 
 Just finished Disco Elysium. This game is fantastic

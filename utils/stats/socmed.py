@@ -9,6 +9,13 @@ from gen_svg import gen_chart, thisyear
 
 def fb():
 
+    years = ["2007", "2008", "2009", "2010","2011","2012","2013","2014","2015","2016","2017","2018","2019", "2020"]
+    data = [6, 18, 499, 264, 133, 202, 515, 1026, 1042, 2225, 1444, 1081, 315, 32]
+    data2 = [0, 0, 1, 11, 44, 46, 12, 596, 701, 2066, 765, 487, 138, 322]
+    gen_chart(years, data, "fb", title="Posts", extra_data=[{"data": data2, "title": "Comments"}])    
+
+    return
+
     count_by_year = {}
     with Path(SOURCE_FILE).open(encoding='utf-8') as f:
         d = json.load(f)
@@ -93,6 +100,6 @@ def insta():
     gen_chart(years, data, "insta")    
 
 fb()
-twitter()
-reddit()
-insta()
+#twitter()
+#reddit()
+#insta()

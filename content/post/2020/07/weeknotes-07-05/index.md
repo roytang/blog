@@ -25,17 +25,17 @@ My stuff:
 - A fair bit of consulting work for this coming week, might be busy.
 - I have already [deactivated Facebook](/2020/06/quitting-facebook/). If I would be honest, I still find myself sometimes instinctively thinking about checking the Facebook feed. Hopefully, it's an instinct that gets weaned away with time.
 - Gaming:
-  - I am like 90% through the FF7R hard mode run, but I'm currently stuck at a certain point trying to beat the so-called "hardest fight in the game". Hopefully I can finish it this week.
-  - Divinity OS2 inched along slightly as well
-  - Saturday gaming group picked up a new board game on Steam, it's Blood Rage, about vikings trying to earn glory for Ragnarok. A bit more violent than Scythe, lots more fighting.
-  - MTG: I did six twitch streams/yt episodes of M21 drafting, [here's a playlist](https://www.youtube.com/watch?v=kXZO7Ukg5Xk&list=PLmU0vkKslGXiz0shcCJgV1YTP5emzWgr4).
+    - I am like 90% through the FF7R hard mode run, but I'm currently stuck at a certain point trying to beat the so-called "hardest fight in the game". Hopefully I can finish it this week.
+    - Divinity OS2 inched along slightly as well
+    - Saturday gaming group picked up a new board game on Steam, it's Blood Rage, about vikings trying to earn glory for Ragnarok. A bit more violent than Scythe, lots more fighting.
+    - MTG: I did six twitch streams/yt episodes of M21 drafting, [here's a playlist](https://www.youtube.com/watch?v=kXZO7Ukg5Xk&list=PLmU0vkKslGXiz0shcCJgV1YTP5emzWgr4).
 - Quiz: 
-  - Able to play a couple more online quiz nights this week, but still didn't do well lol.
+    - Able to play a couple more online quiz nights this week, but still didn't do well lol.
 - Watching lately:
-  - Some new movies on Netflix lately. Decided to watch Mission Impossible Fallout. I'm not sure if I ever watched Rogue Nation though.
+    - Some new movies on Netflix lately. Decided to watch Mission Impossible Fallout. I'm not sure if I ever watched Rogue Nation though.
 - Side projects: 
-  - Need to plan out the next set of updates for the trivia thing, but I might be too busy in the coming weeks.
-  - I changed the fonts on this blog. Again. Someday I'll probably try Comic Sans just for the heck of it.
+    - Need to plan out the next set of updates for the trivia thing, but I might be too busy in the coming weeks.
+    - I changed the fonts on this blog. Again. Someday I'll probably try Comic Sans just for the heck of it.
 - Again: I should probably write more. 
 
 Recent links:

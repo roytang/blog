@@ -31,18 +31,18 @@ My stuff:
 - Tiny bit of consulting work again this week, mostly integration work. And it's in PHP, which means I'm once again tempted to write a "bad things about PHP" post lol. Maybe I'll collect a few more gripes before I do that.
 - Sleep schedule slightly better and more regular, but my eyes seem to be heavy a lot more often.
 - **Gaming:**:
-  - I think I'm like in the final act for Divinity OS2. Need to finish it soonish because...
-  - ... my PS4 is back! My brother finally passed by the house to pick up some stuff and returned my console. I already hooked it up and did the installation things for FF7R. Will probably start it this week.
-  - new Humble choice is up, but it's meh again. Will probably pass.
-  - I was looking forward to the PS5 reveal this week, but it got rescheduled due to everything happening
-  - At least previews for the next Magic set have already started. Some cool stuff. Instant planeswalker abilities! Phasing! Prowess! [Really creepy art](http://mythicspoiler.com/m21/cards/peerintotheabyss.html)! We also got some bans and an actual rule change to address companions, both of which are sure to shake up the formats. I finally caved and paid gems for the Ikoria mythic pass on Arena (I've saved up a bunch anyway. Still totally F2P!). Hopefully I can max out the levels/rewards before the mastery rotation.
+    - I think I'm like in the final act for Divinity OS2. Need to finish it soonish because...
+    - ... my PS4 is back! My brother finally passed by the house to pick up some stuff and returned my console. I already hooked it up and did the installation things for FF7R. Will probably start it this week.
+    - new Humble choice is up, but it's meh again. Will probably pass.
+    - I was looking forward to the PS5 reveal this week, but it got rescheduled due to everything happening
+    - At least previews for the next Magic set have already started. Some cool stuff. Instant planeswalker abilities! Phasing! Prowess! [Really creepy art](http://mythicspoiler.com/m21/cards/peerintotheabyss.html)! We also got some bans and an actual rule change to address companions, both of which are sure to shake up the formats. I finally caved and paid gems for the Ikoria mythic pass on Arena (I've saved up a bunch anyway. Still totally F2P!). Hopefully I can max out the levels/rewards before the mastery rotation.
 - **Quiz:** Geekfight was fun this week (theme was Marvel comics, right up my alley), although I didn't win. We did poorly in the other two online quizzes
 - **Watching lately:**
-  - Legends of Tomorrow season finale was weak and didn't really make sense, but still somehow the best of the Arrowverse finales this season. Oh well.
-  - By contrast, I really liked the Rick and Morty season finale
-  - I also started watching Space Force; only 3 episodes in, it's a bit meh. Not super funny or anything.
+    - Legends of Tomorrow season finale was weak and didn't really make sense, but still somehow the best of the Arrowverse finales this season. Oh well.
+    - By contrast, I really liked the Rick and Morty season finale
+    - I also started watching Space Force; only 3 episodes in, it's a bit meh. Not super funny or anything.
 - Side projects: 
-  - Worked a bit on [triviastorm](https://triviastorm.net/) stuff this week. I'm preparing new questions and cleaning up the old ones, and also some work on a tighter checking algorithm. There's a bunch of features I want to add to this side project, let's see if I manage to get around to them.
-  - Also spent a couple of hours fantasizing about rewriting the site again, maybe back to a dynamic backend, or some kind of hybrid, mostly to address the issues scaling with so many posts. Lol, will probably not do this yet, but it's in the back of my mind.
+    - Worked a bit on [triviastorm](https://triviastorm.net/) stuff this week. I'm preparing new questions and cleaning up the old ones, and also some work on a tighter checking algorithm. There's a bunch of features I want to add to this side project, let's see if I manage to get around to them.
+    - Also spent a couple of hours fantasizing about rewriting the site again, maybe back to a dynamic backend, or some kind of hybrid, mostly to address the issues scaling with so many posts. Lol, will probably not do this yet, but it's in the back of my mind.
 
 No recent links for now. Maybe I'll be more diligent about this next week.

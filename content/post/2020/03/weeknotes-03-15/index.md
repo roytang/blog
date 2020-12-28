@@ -25,7 +25,7 @@ It's hard to remember the events of the week other than the COVID19 stuff, but t
 
 ---
 
-**Gaming:** I mentioned last week how I got into Frostpunk. I streamed the [second session of a blind run] (/2020/03/1237749177741914122/), but after getting a bit stressed at the news, I decided to keep playing into the early morning and finished the run without streaming or recording it. Game is pretty good, and sufficiently challenging. I finished a couple of other scenarios during the week.
+**Gaming:** I mentioned last week how I got into Frostpunk. I streamed the [second session of a blind run](/2020/03/1237749177741914122/), but after getting a bit stressed at the news, I decided to keep playing into the early morning and finished the run without streaming or recording it. Game is pretty good, and sufficiently challenging. I finished a couple of other scenarios during the week.
 
 I also tried a couple of other multiplayer games this week: one was the multiplayer Bannerlord beta, I got an invite middle of the week. It's kind of meh, mostly just people spawning, running around maybe killing 1-2 other people, then dying and respawning. I wasn't really into Mount and Blade for this kind of combat anyway, more for the simulation side. The other game was Orcs Must Die 2, which I already had in my library but hadn't played yet, but a friend suggested it when we were looking for games to coop. Fun game, fairly similar to the first one, I think coop is the only major addition, but haven't explored it too much so I could be wrong.
 

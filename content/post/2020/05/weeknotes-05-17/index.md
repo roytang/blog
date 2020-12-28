@@ -18,11 +18,11 @@ My Stuff:
 - **Watching**: Haven't watched much this week. There was the really great **Justice League Dark: Apokolips War** which came out last week. Apparently it's the last one for the DC AMU, or this particular timeline at least.
 - **Quiz**: We are now up to 3 locally produced online quiz nights per week, which seems like a lot because we only used to attend 2-3 live events per month. I managed to tie for first place in the Geekfight one this week, but we didn't win either of the other two.
 - **Gaming**: 
-  - I played a lot of Divinity Original Sin 2 this week, probably much more than a healthy amount. Really started to get into it, but I think I'm not even halfway into the game?
-  - Saturday group also played some Scythe from the Asmodee bundle. It's a challenging worker placement-like boardgame with some combat, but the UI for the PC version is pretty terrible. I did not win during our first session.
+    - I played a lot of Divinity Original Sin 2 this week, probably much more than a healthy amount. Really started to get into it, but I think I'm not even halfway into the game?
+    - Saturday group also played some Scythe from the Asmodee bundle. It's a challenging worker placement-like boardgame with some combat, but the UI for the PC version is pretty terrible. I did not win during our first session.
 - **Tech**: Got tired of my terrible audio jack which has been emitting static to my speakers and earphones. I couldn't clean it, instead I went ahead and ordered some fancy HyperX gaming headphones from Lazada, which has already started selling nonessentials again. Might take a couple of weeks to get here though.
 - **Site Updates**: 
-  - this site used to have a live backup available at [roytang.github.io](https://roytang.github.io/), but starting this week the builds have been failing. I assume it's because my repository has gotten too large. Most of it is images and videos. I may need to consider an alternative approach where only the text stuff is in the repos, to keep the repo size down, otherwise we are really gonna have scaling issues down the road. Need to think about this for a while.
+    - this site used to have a live backup available at [roytang.github.io](https://roytang.github.io/), but starting this week the builds have been failing. I assume it's because my repository has gotten too large. Most of it is images and videos. I may need to consider an alternative approach where only the text stuff is in the repos, to keep the repo size down, otherwise we are really gonna have scaling issues down the road. Need to think about this for a while.
 
 Recent Links of Interest:
 

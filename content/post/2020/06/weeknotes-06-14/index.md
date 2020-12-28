@@ -23,19 +23,19 @@ My stuff:
 - Much better weather this week, some nights were comfortably rainy and chilly.
 - Sleep schedule kind of settling back into my usual biphasic sleep. Although the second phase seems to move around a lot...
 - **Gaming:**
-  - Disappointed in the PS5 reveal. None of the shown games are must buys from me, and I was hoping for a price and release date. Highly unlikely I'd get a PS5 on launch though. Historically I've waited at least a year to get consoles.
-  - Divinity OS2 run stalled this week because...
-  - ... most of my gaming this week spent on Final Fantasy VII Remake. I'm only around 12ish hours in. Game is pretty great, and not just for the nostalgia bit. There is a large amount of added content, and some plot details play out differently. Looking forward to how this all ends.
-  - I also purchased the [itch.io BLM bundle](https://itch.io/b/520/bundle-for-racial-justice-and-equality) this week. Wow that's a ton of value. Over 1600+ games, assets, etc for minimum $5? I was originally hesitant since I didn't have an itch.io account and really I don't need more backlog, but it's for a good cause, and did I mention also a ton of value? Better than Humble Bundles ever were.
+    - Disappointed in the PS5 reveal. None of the shown games are must buys from me, and I was hoping for a price and release date. Highly unlikely I'd get a PS5 on launch though. Historically I've waited at least a year to get consoles.
+    - Divinity OS2 run stalled this week because...
+    - ... most of my gaming this week spent on Final Fantasy VII Remake. I'm only around 12ish hours in. Game is pretty great, and not just for the nostalgia bit. There is a large amount of added content, and some plot details play out differently. Looking forward to how this all ends.
+    - I also purchased the [itch.io BLM bundle](https://itch.io/b/520/bundle-for-racial-justice-and-equality) this week. Wow that's a ton of value. Over 1600+ games, assets, etc for minimum $5? I was originally hesitant since I didn't have an itch.io account and really I don't need more backlog, but it's for a good cause, and did I mention also a ton of value? Better than Humble Bundles ever were.
 - **Quiz:** 
-  - Somehow managed to win Geekfight this week, and it's the last one until July. We got third place in PopQuiz and as usual did poorly in AboutQuiz.
-  - Team Camote Pop Culture Trivia Challenge S01E01 is out: https://www.youtube.com/watch?v=ZQytLl61PCQ. We had a lot of fun, and we recorded this around a month ago I think, editing took a while. We have a few more episodes in the queue, feel free to like and subscribe!
+    - Somehow managed to win Geekfight this week, and it's the last one until July. We got third place in PopQuiz and as usual did poorly in AboutQuiz.
+    - Team Camote Pop Culture Trivia Challenge S01E01 is out: https://www.youtube.com/watch?v=ZQytLl61PCQ. We had a lot of fun, and we recorded this around a month ago I think, editing took a while. We have a few more episodes in the queue, feel free to like and subscribe!
 - **Watching lately:**
-  - My dad has been watching a lot of Two and A Half Men, which means a lot of incidental watching from me whenever I'm in that same room. The Charlie Sheen firing came really abruptly since he was binging.
-  - Huh, I guess not much TV/movies for me last week.
+    - My dad has been watching a lot of Two and A Half Men, which means a lot of incidental watching from me whenever I'm in that same room. The Charlie Sheen firing came really abruptly since he was binging.
+    - Huh, I guess not much TV/movies for me last week.
 - Side projects: 
-  - Worked a bit more on [triviastorm](https://triviastorm.net/) stuff this week. Cleaning up the old questions, prepping new question sets, etc. Will probably load new question sets and reset both the twitter bot and discord leaderboards around the end of the month, and hopefully can expand upon the app after that, and prepare it for more general use and other cases.
-  - My urge to completely revamp the site has passed... for now. Other plans proceed apace.
+    - Worked a bit more on [triviastorm](https://triviastorm.net/) stuff this week. Cleaning up the old questions, prepping new question sets, etc. Will probably load new question sets and reset both the twitter bot and discord leaderboards around the end of the month, and hopefully can expand upon the app after that, and prepare it for more general use and other cases.
+    - My urge to completely revamp the site has passed... for now. Other plans proceed apace.
 
 Recent links:
 

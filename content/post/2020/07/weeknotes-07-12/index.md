@@ -22,14 +22,14 @@ My stuff:
 - [This week's pandemic notes](/2020/07/covid19-07-12/).
 - Had a busy week work-wise. Learning a lot about Vue and Laravel though, so that's fun!
 - Gaming:
-  - I am like 95% through the FF7R hard mode run. Only a 5% difference from last week, progress is slow.
-  - I bought a few games off the Steam Sale: Civ 6's New Frontiers Pass (not actually on sale), Disco Elysium, and Garou Mark of the Wolves. You can watch me struggling in Garou [on Youtube](https://www.youtube.com/watch?v=2yQ6B9IlwHU&t=70s).
+    - I am like 95% through the FF7R hard mode run. Only a 5% difference from last week, progress is slow.
+    - I bought a few games off the Steam Sale: Civ 6's New Frontiers Pass (not actually on sale), Disco Elysium, and Garou Mark of the Wolves. You can watch me struggling in Garou [on Youtube](https://www.youtube.com/watch?v=2yQ6B9IlwHU&t=70s).
 - Quiz: 
-  - We only played one online quiz this week, didn't do too well D:
+    - We only played one online quiz this week, didn't do too well D:
 - Watching lately:
-  - I watched Atomic Blonde yesterday. I thought it was like a John Wick style action flick. That's true, but it's also a Cold-War era spy thriller with lots of double-crosses and whatnot. Fairly engaging.
+    - I watched Atomic Blonde yesterday. I thought it was like a John Wick style action flick. That's true, but it's also a Cold-War era spy thriller with lots of double-crosses and whatnot. Fairly engaging.
 - Side projects: 
-  - Nothing to note.
+    - Nothing to note.
 
 Recent links:
 
