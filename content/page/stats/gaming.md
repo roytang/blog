@@ -65,4 +65,5 @@ Stats :: [Website](/page/stats/site) :: [Server-side Stats](/page/stats/awstats)
     });
 </script>
 
-**updated daily; loading the data on this page requires JavaScript**
+* updated daily; loading the data on this page requires JavaScript
+* I don't really play DOTA 2, that's my brothers playing on my account
