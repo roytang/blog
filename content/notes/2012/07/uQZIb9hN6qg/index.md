@@ -18,4 +18,4 @@ tags:
 pl_frontier_final: July 13, 2012 @ 6:50 AM
 http://steamcommunity.com/profiles/76561198026163141
 
-{{< youtube "uQZIb9hN6qg" >}}
+{{< youtube uQZIb9hN6qg >}}

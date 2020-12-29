@@ -16,4 +16,4 @@ tags:
 STREET FIGHTER V_20160229144302
 
 
-{{< youtube "BplymoW4jaw" >}}
+{{< youtube BplymoW4jaw >}}

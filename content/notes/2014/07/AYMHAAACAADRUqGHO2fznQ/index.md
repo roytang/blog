@@ -13,4 +13,4 @@ Posted in MiiVerse's [Mario Kart 8 Community](https://archiverse.guide/game/1486
 
 Finally managed to win a grand prix lol
 
-{{< youtube "IlBq2IBAWVo" >}}
+{{< youtube IlBq2IBAWVo >}}

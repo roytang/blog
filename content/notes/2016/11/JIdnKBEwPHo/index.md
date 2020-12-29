@@ -18,4 +18,4 @@ tags:
 11/29 Cape and Cowl #sketchdaily timelapse
 Using Procreate on iPad Pro
 
-{{< youtube "JIdnKBEwPHo" >}}
+{{< youtube JIdnKBEwPHo >}}

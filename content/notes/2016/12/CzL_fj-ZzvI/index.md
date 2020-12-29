@@ -17,4 +17,4 @@ STREET FIGHTER V_20161224115649
 STREET FIGHTER V
 https://store.playstation.com/#!/en-hk/tid=CUSA02102_00
 
-{{< youtube "CzL_fj-ZzvI" >}}
+{{< youtube CzL_fj-ZzvI >}}

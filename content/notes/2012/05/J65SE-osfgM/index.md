@@ -14,4 +14,4 @@ tags:
 30 Rock: Ned Stark is Dead
 From 30 Rock S6E20. This cracked me up.
 
-{{< youtube "J65SE-osfgM" >}}
+{{< youtube J65SE-osfgM >}}

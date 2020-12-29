@@ -12,4 +12,4 @@ tags:
 Vidcard troubles =(
 This video was uploaded from an Android phone.
 
-{{< youtube "KP4tIKvtZ_Q" >}}
+{{< youtube KP4tIKvtZ_Q >}}

@@ -13,4 +13,4 @@ Testing video capture. I don't have a mic, so no VO.
 
 This covers only the first mission. Classic Ironman, so I'll probably die horribly a few missions in.
 
-{{< youtube "2WUWEwQagZk" >}}
+{{< youtube 2WUWEwQagZk >}}

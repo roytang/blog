@@ -16,4 +16,4 @@ tags:
 The Binding of Isaac: Rebirth - trying out youtube upload w mic
 
 
-{{< youtube "uD1eHEN9a4Y" >}}
+{{< youtube uD1eHEN9a4Y >}}

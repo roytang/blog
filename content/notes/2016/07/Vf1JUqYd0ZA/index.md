@@ -18,4 +18,4 @@ tags:
 Furi_20160707140034
 Pretty game, but not sure it‘s for me -- this fight took me three tries!
 
-{{< youtube "Vf1JUqYd0ZA" >}}
+{{< youtube Vf1JUqYd0ZA >}}

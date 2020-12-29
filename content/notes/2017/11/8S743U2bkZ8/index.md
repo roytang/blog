@@ -14,4 +14,4 @@ tags:
 [Bronze] Kolin vs Juli
 Help me improve!
 
-{{< youtube "8S743U2bkZ8" >}}
+{{< youtube 8S743U2bkZ8 >}}

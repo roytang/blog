@@ -14,4 +14,4 @@ tags:
 [Bronze] Ryu vs Kolin
 Please help me improve!
 
-{{< youtube "ZgCgZr8ePs4" >}}
+{{< youtube ZgCgZr8ePs4 >}}

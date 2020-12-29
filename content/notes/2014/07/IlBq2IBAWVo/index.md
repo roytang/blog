@@ -18,4 +18,4 @@ tags:
 Wii U - Mario Kart 8 - Thwomp Ruins
 Mario Kart 8
 
-{{< youtube "IlBq2IBAWVo" >}}
+{{< youtube IlBq2IBAWVo >}}

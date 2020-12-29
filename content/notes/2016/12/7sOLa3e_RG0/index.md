@@ -17,4 +17,4 @@ tags:
 
 Street Fighter 2016 championship: Me (Karin) vs [@alvinjtang](https://twitter.com/alvinjtang/) (Ryu) 
 
-{{< youtube "7sOLa3e_RG0" >}}
+{{< youtube 7sOLa3e_RG0 >}}
