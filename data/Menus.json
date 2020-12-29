@@ -177,5 +177,31 @@
         {
             "Name": "Everything"
         }
+    ],
+    "stats": [
+        {
+            "Name": "Website",
+            "URL": "/page/stats/site/"
+        },
+        {
+            "Name": "Server",
+            "URL": "/page/stats/awstats/"
+        },
+        {
+            "Name": "Social Media",
+            "URL": "/page/stats/socmed/"
+        },
+        {
+            "Name": "Gaming",
+            "URL": "/page/stats/gaming/"
+        },
+        {
+            "Name": "MTG",
+            "URL": "/page/stats/mtg/"
+        },
+        {
+            "Name": "Listening",
+            "URL": "/page/stats/listening/"
+        }
     ]
 }

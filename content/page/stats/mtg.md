@@ -5,10 +5,7 @@ type: page
 date: 2019-12-27
 aliases:
 - /about/stats/mtg
----
-
-Stats :: [Website](/page/stats/site) :: [Server-side Stats](/page/stats/awstats) :: [Social Media](/page/stats/socmed) :: [MTG](/page/stats/mtg) :: [Gaming](/page/stats/gaming) :: [Listening](/page/stats/listening)
-
+submenu: "stats"
 ---
 
 ### DCI Number
