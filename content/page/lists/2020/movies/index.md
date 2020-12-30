@@ -72,3 +72,4 @@ Ratings scale:
 | 44 | Superman Man of Tomorrow | 2020 | Aug 28 | Not too good. Weird animation. Writing all over the place. | 3 |
 | 45 | Bill and Ted Face the Music | 2020 | Aug 29 | A most excellent sequel, echoing the earlier two movies. A midlife crisis journey full of heart and time travel nonsense. Little Billie and Theda are great!  | 5 |
 | 46 | Enola Holmes | 2020 | Sep 27 | It's okay. Basically young adult/Nancy Drew Sherlock Holmes, with a bit of feminism thrown in. Mycroft annoying as usual. | 3 |
+| 47 | Wonder Woman 1984 | 2020 | Dec 30 | There's a bunch of things that don't make sense (even accounting for myths etc), but it helps to think this movie takes place pre-crisis. | 3 |
