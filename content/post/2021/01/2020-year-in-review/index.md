@@ -1,35 +1,34 @@
 ---
-date: 2020-12-30
+date: 2020-12-31
 tags:
 - yearnotes
 title: "2020 Year in Review"
 draft: true
 ---
 
-Well, it has certainly been another revolution around the sun. I added the tag [yearnotes](/tags/yearnotes) for these end-of-year recap and statistic things.
+It's always weird for me when people do their "year in review" or "X of the year" any time before Jan 1st of the next year. You're making Dec 31 feel left out. It's one thing the Oscars get right.
 
-2020 Statistics:
+### Essay-writing section
 
-Work, Travel, Learning and Self Improvement:
+It's probably impossible to talk about 2020 without talking about the [Covid19 pandemic](/tags/covid19) that has ravaged the world. My country is sadly still under a state of quarantine/lockdown, I believe the world's longest. I am doing relatively well during the pandemic, nobody I know personally has been infected, and I'm not exactly averse to just staying at home all the time. Compared to other people, it has for me at best been a minor inconvenience. I miss being able to go out to quiz nights or visit friends or eat at restaurants or even the occasional paper Magic tournament. We haven't been visited by my the pamangkins in a while, most contact relegated to Zoom calls. I haven't been unable to do my regular walks. Other than that my life remains relatively the same compared to last year, since any work I've done has been from home for the past couple of years. 
+
+### 2020 Statistics:
+
+#### Work, Travel, Learning and Self Improvement:
 
   * Hours worked: ~100 hours (estimated) - down from ~200 hours last year
-    * I mostly took the pandemic as a chance to chill for a bit, except for the occasional support consultancy work. 
+    * I still have the occasional support consultancy work, but for the most part work has wound down, and I opted not to take on additional work to replace it. Maybe someday I'll write about how I can afford to work so few hours. (Hint: It involves being very frugal)
   * Programming languages/frameworks learned: 1, same as last year
     * I learned the Flutter mobile framework to rewrite a mobile app charity project I did for some friends
   * Some other stuff/projects:
     * I rebuilt this site in the latest version of Django
-    * Migrated this site to a new webhost
+    * Migrated this site to a new webhost, learned some server deployment stuff along the way.
     * Migrated my main email usage [away from Google](/2020/05/gmail-migration/)
-  * Books read: 2, half as much as last year T_T
-    * [Atomic Habits by James Clear](/2020/01/atomic-habits/)
-    * [Rhythm of War by Brandon Sanderson](/2020/12/rhythm-of-war/)
-    * Action item: read more books (again)
   * Duolingo streak: 719 days (from 355 last year). It seems that I never broke the streak from 2019, so my longest streak continues. The numbers don't add up - 355 + 366 should be 721 - but this may be because this wasn't a true streak. I think I used two "streak freeze" powerups throughout the year, so I actually broke the streak twice lol. I don't care, I'm counting it!
   * Other countries visited: 0!
 
-Social media:
+#### Social media:
 
-{{% spoiler %}}
   * Facebook activity: 
     * 32 posts (down from 315 last year, and 1081 in 2018). I deactivated my Facebook account in the middle of the year, so I can say Operation: Reduce Facebook Usage has succeeded.
     * 322 comments (up from 138 last year). I did however have more comments, because of quiz nights being held on FB live during the pandemic! 
@@ -41,11 +40,29 @@ Social media:
   * Answers written on Quora: 0.
   * 0 words written for [Nanowrimo](https://nanowrimo.org/)
   * 0 sketches submitted to [r/sketchdaily](https://www.reddit.com/r/sketchdaily) (down from 35 last year)
-  * 224 blog posts, 119529 words worth; up from 105 posts and 62888 words last year. A record for this blog's lifetime. It may be a bit above the volume I want though. 
+  * TBA X [blog posts](/blog/), Y words worth; up from 224 posts and 119529 words last year. Some posts that I liked or got some reactions:
+    * [Tales from the Old Web (Development)](/2020/02/old-web/)
+    * [Burnout](/2020/02/burnout/)
+    * [Thoughts on Blogging 2020 Edition](/2020/02/thinking-in-public/)
+    * [Quitting Facebook](/2020/06/quitting-facebook/)
+  * TBA [links shared](/links/) (all via Pocket)
   * Full stats for content on this blog and social media activity available [here](/about/stats/).
-{{% /spoiler %}}
 
-Gaming:
+#### Media consumption:
+
+  * Things watched on Netflix: 802 (as at 12/29) (416 last year)
+  * (New) movies watched: 47. [Here's the list](/page/lists/2020/movies/)
+  * Books read: 2, half as much as last year T_T
+    * [Atomic Habits by James Clear](/2020/01/atomic-habits/)
+    * [Rhythm of War by Brandon Sanderson](/2020/12/rhythm-of-war/)
+    * **Action item**: read more books (again)
+  * Music tracks played (Spotify/LastFM): 773. (1048 last year). See [listening stats here](/page/stats/listening/).
+
+#### Gaming:
+
+This year I tried getting into [game streaming via Twitch](/tags/twitch)! Haven't been super successful so far, but it's been fun, especially when my friends are around to watch and keep me company. Subscribe at [twitch.tv/twitchyroy](https://www.twitch.tv/twitchyroy) or at [the youtube channel](https://www.youtube.com/channel/UCwpuHIsvCAdmcZ4hIS3tQHA) where I upload all the stream vids afterwards.
+
+There's a lot of gaming stats, so they're collapsed:
 
 {{% spoiler %}}
   * Games purchased (not including any I got for free for some reason): 67, again mostly from Humble bundles, up from 35 last year. 
@@ -109,14 +126,14 @@ Gaming:
   * Average points per turn in Words with Friends: 29, +3 from last year!
 {{% /spoiler %}}
 
-Others:
+#### Others:
 
-  * Fitbit activity: 1,766,878 steps, 1,378.15 km walked. Down from 1,820,053 steps, 1,419.64 km last year. Roughly a 3% drop. I've been a lot lazier about walking, especially when the weather is too hot or rainy, which happens quite often. Need to find a way to get around this.
+  * Fitbit activity: TBA steps, TBA km walked. Down from 1,766,878 steps, 1,378.15 km last year. Down to roughly 1/3 of last year! Largely because I didn't want to go out too much during the pandemic.  Looks like my counts for Jan and Feb were on track for hitting 1.8m steps for the year, but then dropped off drastically starting March. Sadface. Hopefully I can get back into it once things settle down. 
   * Donuts eaten: 2, up from 1.5 last year. In my defense, they were Dunkin donuts, which seem to have gotten smaller during the pandemic!
   * Baptisms attended: 1 (up from 0), managed to sneak one in right before the pandemic lockdowns started
   * Weddings attended: 0 (down from 2)
   * Wakes attended: 0
-  * Things watched on Netflix: 802 (as at 12/29) (416 last year)
+  * New pamangkins: 2 (!)
   * Quiz nights attended: Unable to count, since the pandemic forced the shift to more frequent online quizzes!
   * Grab:
       * Trips: 3, down from 46 last year, for pandemic reasons obviously. All 3 rides were in January!
@@ -124,3 +141,7 @@ Others:
       * Express delivery: 1
   * Times I won the lotto: 0 (I declare in advance that I will remove this stat for 2021, it doesn't mean I won the lotto!)
   * Bears defeated in single combat: 0
+
+### Moving forward using all my breath
+
+Plans are still hazy for 2021. On a personal level, I have been feeling a bit lost in terms of direction, since there's always so much stuff I want to do or try out. I have been considering taking the year off completely like I did in 2016, but that may need further evaluation. As always, we take it in stride, and move forward one day at a time.

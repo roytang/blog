@@ -11,6 +11,7 @@ import json
 
 thisyear = datetime.now().strftime("%Y")
 print(thisyear)
+thisyear = "2021"
 root = Path(__file__).parent.absolute()
 
 def gen_chart(xaxis, yaxis, filename, title="", extra_data=[]):
@@ -122,7 +123,7 @@ def gen_svg_music(infile):
       
 
 # export file is from https://benjaminbenben.com/lastfm-to-csv/
-infile = "C:\\Users\\USER\\Dropbox\\backups\\lastfm-roytang-20191206.csv"
+infile = "C:\\Users\\USER\\Dropbox\\backups\\lastfm-roytang-20201231.csv"
 gen_svg_music(infile)
 # gen_svg_blog()
 # gen_svg_awstats()

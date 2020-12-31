@@ -36,11 +36,11 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 
 ##### Artists
 
-- Eraserheads (981)
-- Dashboard Confessional (831)
-- URBANDUB (697)
-- Rivermaya (515)
-- Gin Blossoms (505)
+- Eraserheads (1025)
+- Dashboard Confessional (875)
+- URBANDUB (700)
+- Rivermaya (542)
+- Gin Blossoms (524)
 {{< /grid_item >}}
 {{< grid_item >}}
 
@@ -111,11 +111,11 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 
 ##### Artists
 
-- Dashboard Confessional (168)
+- Dashboard Confessional (174)
 - Chicosci (121)
-- URBANDUB (113)
-- Gin Blossoms (93)
-- Yellowcard (90)
+- URBANDUB (114)
+- Gin Blossoms (97)
+- Yellowcard (95)
 {{< /grid_item >}}
 {{< grid_item >}}
 
@@ -136,11 +136,11 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 
 ##### Artists
 
-- Dashboard Confessional (176)
-- Daughtry (63)
-- Gin Blossoms (45)
-- Yellowcard (28)
-- Sugarfree (26)
+- Dashboard Confessional (179)
+- Daughtry (64)
+- Gin Blossoms (47)
+- Yellowcard (30)
+- Sugarfree (27)
 {{< /grid_item >}}
 {{< grid_item >}}
 
@@ -148,9 +148,9 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 
 - Over You (13)
 - Stolen (10)
-- Reason To Believe (9)
-- Rooftops And Invitations (8)
-- The Secret's In The Telling (8)
+- Reason to Believe (9)
+- Rooftops and Invitations (8)
+- The Secret's in the Telling (8)
 {{< /grid_item >}}
 {{< /grid3 >}}
 {{< grid3 >}}
@@ -286,20 +286,45 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 
 ##### Artists
 
-- Dashboard Confessional (55)
-- Eraserheads (50)
-- Matchbox Twenty (40)
+- Dashboard Confessional (57)
+- Eraserheads (52)
+- Matchbox Twenty (47)
 - Bon Jovi (36)
-- Goo Goo Dolls (28)
+- Goo Goo Dolls (31)
 {{< /grid_item >}}
 {{< grid_item >}}
 
 ##### Tracks
 
-- Back 2 Good (10)
-- Disease (10)
-- Long Day (10)
-- Stolen (9)
-- Here Is Gone (8)
+- Back 2 Good (12)
+- Long Day (12)
+- Disease (11)
+- Africa (10)
+- Stolen (10)
+{{< /grid_item >}}
+{{< /grid3 >}}
+{{< grid3 >}}
+
+##### 2020
+
+{{< grid_item >}}
+
+##### Artists
+
+- Eraserheads (40)
+- Dashboard Confessional (33)
+- Goo Goo Dolls (25)
+- Rivermaya (23)
+- Matchbox Twenty (17)
+{{< /grid_item >}}
+{{< grid_item >}}
+
+##### Tracks
+
+- Closing Time (7)
+- Green-Tinted Sixties Mind - 2010 Remastered Version (6)
+- Belle Of The Boulevard - Acoustic (6)
+- Africa (6)
+- Long Day (6)
 {{< /grid_item >}}
 {{< /grid3 >}}
