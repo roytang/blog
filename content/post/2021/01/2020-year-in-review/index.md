@@ -1,16 +1,19 @@
 ---
-date: 2020-12-31
+date: 2021-01-02
 tags:
 - yearnotes
 title: "2020 Year in Review"
-draft: true
 ---
 
-It's always weird for me when people do their "year in review" or "X of the year" any time before Jan 1st of the next year. You're making Dec 31 feel left out. It's one thing the Oscars get right.
+It's always weird for me when people do their "year in review" or "X of the year" any time before Jan 1st of the next year. You're making Dec 31 feel left out. It's one thing the Oscars get right. Anyway, here's my personal year-in-review, such as it is.
 
 ### Essay-writing section
 
-It's probably impossible to talk about 2020 without talking about the [Covid19 pandemic](/tags/covid19) that has ravaged the world. My country is sadly still under a state of quarantine/lockdown, I believe the world's longest. I am doing relatively well during the pandemic, nobody I know personally has been infected, and I'm not exactly averse to just staying at home all the time. Compared to other people, it has for me at best been a minor inconvenience. I miss being able to go out to quiz nights or visit friends or eat at restaurants or even the occasional paper Magic tournament. We haven't been visited by my the pamangkins in a while, most contact relegated to Zoom calls. I haven't been unable to do my regular walks. Other than that my life remains relatively the same compared to last year, since any work I've done has been from home for the past couple of years. 
+It's probably impossible to talk about 2020 without talking about the [Covid19 pandemic](/tags/covid19) that has ravaged the world. My country is sadly still under a state of quarantine/lockdown, I believe the world's longest. I am doing relatively well during the pandemic, nobody I know personally has been infected, and I'm not exactly averse to just staying at home all the time. Compared to other people, it has for me at best been a minor inconvenience. For that I am grateful.
+
+I miss being able to go out to quiz nights or visit friends or eat at restaurants or even the occasional paper Magic tournament. We haven't been visited by my the pamangkins in a while, most contact relegated to Zoom calls. I haven't been unable to do my regular walks. Other than that my life remains relatively the same compared to last year, since any work I've done has been from home for the past couple of years. 
+
+I don't feel like I have accomplished much in 2020, but maybe given all that we had to go through this year, just getting to the end is enough. 
 
 ### 2020 Statistics:
 
@@ -24,7 +27,7 @@ It's probably impossible to talk about 2020 without talking about the [Covid19 p
     * I rebuilt this site in the latest version of Django
     * Migrated this site to a new webhost, learned some server deployment stuff along the way.
     * Migrated my main email usage [away from Google](/2020/05/gmail-migration/)
-  * Duolingo streak: 719 days (from 355 last year). It seems that I never broke the streak from 2019, so my longest streak continues. The numbers don't add up - 355 + 366 should be 721 - but this may be because this wasn't a true streak. I think I used two "streak freeze" powerups throughout the year, so I actually broke the streak twice lol. I don't care, I'm counting it!
+  * Duolingo streak: 718 days (from 355 last year). It seems that I never broke the streak from 2019, so my longest streak continues. The numbers don't add up - 355 + 366 should be 721 - but this may be because this wasn't a true streak. I think I used the "streak freeze" powerups a few times throughout the year, so I probably actually broke the streak thrice lol. I don't care, I'm counting it!
   * Other countries visited: 0!
 
 #### Social media:
@@ -32,25 +35,26 @@ It's probably impossible to talk about 2020 without talking about the [Covid19 p
   * Facebook activity: 
     * 32 posts (down from 315 last year, and 1081 in 2018). I deactivated my Facebook account in the middle of the year, so I can say Operation: Reduce Facebook Usage has succeeded.
     * 322 comments (up from 138 last year). I did however have more comments, because of quiz nights being held on FB live during the pandemic! 
-  * Tweets: TBA (down from 1124 last year)
-  * [Instagram](/syndicated/instagram) photos: TBA. 108 last year
+  * Tweets: 1037 (slightly down from 1124 last year)
+  * [Instagram](/syndicated/instagram) photos: 46. Vs 108 last year. Most of these were for the usual [Inktober](/tags/inktober2020/) thing.
   * Reddit activity:
-    * TBA submissions (20 last year)
-    * TBA comments (172 last year)
+    * 6 submissions (20 last year)
+    * 31 comments (172 last year)
   * Answers written on Quora: 0.
   * 0 words written for [Nanowrimo](https://nanowrimo.org/)
-  * 0 sketches submitted to [r/sketchdaily](https://www.reddit.com/r/sketchdaily) (down from 35 last year)
-  * TBA X [blog posts](/blog/), Y words worth; up from 224 posts and 119529 words last year. Some posts that I liked or got some reactions:
+  * 0 sketches submitted to [r/sketchdaily](https://www.reddit.com/r/sketchdaily)
+  * 115 [blog posts](/blog/), 98537 words worth; up from 224 posts and 119529 words last year. Some posts that I liked or got some reactions:
     * [Tales from the Old Web (Development)](/2020/02/old-web/)
     * [Burnout](/2020/02/burnout/)
     * [Thoughts on Blogging 2020 Edition](/2020/02/thinking-in-public/)
     * [Quitting Facebook](/2020/06/quitting-facebook/)
-  * TBA [links shared](/links/) (all via Pocket)
+  * 115 [links shared](/links/) (all via Pocket)
+  * 410 comments! Way up from 75 last year. But this was probably due to some integration stuff counting likes/shares from Mastodon/Instagram/Twitter (?) as comments.
   * Full stats for content on this blog and social media activity available [here](/about/stats/).
 
 #### Media consumption:
 
-  * Things watched on Netflix: 802 (as at 12/29) (416 last year)
+  * Things watched on Netflix: 802 (as at 12/29) (416 last year). Pandemic meant more binge-watching. I also rewatched some old (and long) series like The Big Bang Theory, which really adds to the count.
   * (New) movies watched: 47. [Here's the list](/page/lists/2020/movies/)
   * Books read: 2, half as much as last year T_T
     * [Atomic Habits by James Clear](/2020/01/atomic-habits/)
@@ -104,11 +108,11 @@ There's a lot of gaming stats, so they're collapsed:
     * [Super Mario Odyssey](/2020/12/super-mario-odyssey/)
   * Steam playtime this year: 675.68 hours (up slightly from 639.17 hours last year)
   * Most played Steam games for the year:
-    * Sid Meier's Civilization VI - 127.07 hours
+    * Sid Meier's Civilization VI - 127.18 hours
     * Tales of Berseria - 119.35 hours
-    * Eternal Card Game - 77.58 hours
+    * Eternal Card Game - 80.0 hours
     * Divinity: Original Sin 2 - 67.43 hours
-    * Root - 62.97 hours
+    * Root - 63.50 hours
     * Blood Rage: Digital Edition - 40.10 hours
     * Armello - 30.67 hours
     * Batman™: Arkham Origins - 28.32 hours
@@ -128,7 +132,7 @@ There's a lot of gaming stats, so they're collapsed:
 
 #### Others:
 
-  * Fitbit activity: TBA steps, TBA km walked. Down from 1,766,878 steps, 1,378.15 km last year. Down to roughly 1/3 of last year! Largely because I didn't want to go out too much during the pandemic.  Looks like my counts for Jan and Feb were on track for hitting 1.8m steps for the year, but then dropped off drastically starting March. Sadface. Hopefully I can get back into it once things settle down. 
+  * Fitbit activity: 657,713 steps, 513.03 km walked. Down from 1,766,878 steps, 1,378.15 km last year. Down to a bit more than 1/3 of last year! Largely because I didn't want to go out too much during the pandemic.  Looks like my counts for Jan and Feb were on track for hitting 1.8m steps for the year, but then dropped off drastically starting March. Sadface. Hopefully I can get back into it once things settle down. 
   * Donuts eaten: 2, up from 1.5 last year. In my defense, they were Dunkin donuts, which seem to have gotten smaller during the pandemic!
   * Baptisms attended: 1 (up from 0), managed to sneak one in right before the pandemic lockdowns started
   * Weddings attended: 0 (down from 2)
