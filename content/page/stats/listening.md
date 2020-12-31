@@ -14,6 +14,8 @@ I don't actually listen to music too often, much less track what I'm listening t
 
 Note 1: Most likely the pre-2010 data includes my brothers playing Winamp on the same computer as me, because I don't even like Urbandub so there's no way I played that many of their tracks, but the data is what the data is, so here we are. My 2017 listening history also has a bunch of tracks from animated movies mostly because my niece kept listening to them when she visited.
 
+Note 2: Data is extracted via [this service](https://benjaminbenben.com/lastfm-to-csv/).
+
 General stats:
 
 - Last update date: 2019-12-06

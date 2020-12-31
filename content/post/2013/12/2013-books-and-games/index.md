@@ -8,6 +8,7 @@ syndicated:
 tags:
 - Gaming
 - books
+- yearnotes
 title: 2013 - Books and Games
 type: post
 url: /2013/12/2013-books-and-games/
