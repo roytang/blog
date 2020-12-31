@@ -1,5 +1,5 @@
 ---
-date: 2019-01-01 10:18:30+00:00
+date: 2019-01-01 10:18:30+08:00
 repost_source:
   name: HeaneyDaily
   type: twitter
@@ -10,8 +10,22 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1080045595820060672/
 ---
 
-RT [@HeaneyDaily](https://twitter.com/HeaneyDaily/): History says, Don’t hope
+History says, Don’t hope
+
 On this side of the grave,
+
 But then, once in a lifetime
+
 The longed-for tidal wave
-Of justice can…
+
+Of justice can rise up
+
+And hope and history rhyme. . .
+
+Believe that a farther shore 
+
+Is reachable from here.
+
+Believe in miracles
+
+And cures and healing wells.
