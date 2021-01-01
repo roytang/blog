@@ -1,8 +1,12 @@
 ---
-title: "New Year's Checklist"
-date: 2021-01-01 13:00:00
 author: roy
+date: 2021-01-01 13:00:00
 slug: new-years-checklist
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105478720078707182
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1344872397413830663/
 tags:
 - new-years-checklist
 title: New Year's Checklist 2021
@@ -80,4 +84,3 @@ TV:
 | TBA | Ms Marvel |
 
 (I think I'm most looking forward to James Gunn's The Suicide Squad)
-
