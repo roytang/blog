@@ -1,5 +1,5 @@
 ---
-date: 2018-01-07 14:32:26+00:00
+date: 2018-01-07 14:32:26+08:00
 repost_source:
   name: fro_vo
   type: twitter
@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/950012254568591362/
 ---
 
-RT [@fro_vo](https://twitter.com/fro_vo/): ROBIN: the batmobile won’t start
+ROBIN: the batmobile won’t start
+
 BATMAN: check the battery
+
 ROBIN: what’s a tery

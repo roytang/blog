@@ -1,5 +1,5 @@
 ---
-date: 2014-01-05 23:29:45+00:00
+date: 2014-01-05 23:29:45+08:00
 repost_source:
   name: GeorgeTakei
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/419974025872297984/
 ---
 
-RT [@GeorgeTakei](https://twitter.com/GeorgeTakei/): Rock, Paper, Scissors 
+Rock, Paper, Scissors

@@ -1,5 +1,5 @@
 ---
-date: 2017-01-07 10:07:49+00:00
+date: 2017-01-07 10:07:49+08:00
 repost_source:
   name: roytang
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/817674089632436225/
 ---
 
-RT [@roytang](https://twitter.com/roytang/): Am I doing this right? Lol https://twitter.com/SwitchPlayerMag/status/817669661064122368
+Am I doing this right? Lol https://twitter.com/_SwitchPlayer/status/817669661064122368
