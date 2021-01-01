@@ -5,7 +5,10 @@ source: ireadcomicbooks
 tags:
 - comics
 title: Marvel NOW So far part 1 (Remender and Hickman)
----
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/307809048319909888/
+--- 
 
 Due to general business and/or laziness I've missed a few weeks of posting so to get back into pace I'm going to go through the current Marvel NOW titles and see how they're going so far. (We'll see if I have time for DCnU later)
 

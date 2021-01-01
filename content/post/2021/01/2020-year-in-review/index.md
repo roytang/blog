@@ -9,7 +9,7 @@ It's always weird for me when people do their "year in review" or "X of the year
 
 ### Essay-writing section
 
-It's probably impossible to talk about 2020 without talking about the [Covid19 pandemic](/tags/covid19) that has ravaged the world. My country is sadly still under a state of quarantine/lockdown, I believe the world's longest. I am doing relatively well during the pandemic, nobody I know personally has been infected, and I'm not exactly averse to just staying at home all the time. Compared to other people, it has for me at best been a minor inconvenience. For that I am grateful.
+It's probably impossible to talk about 2020 without talking about the [Covid19 pandemic](/tags/covid19) that has ravaged the world. My country is sadly still under a state of quarantine/lockdown, I believe the world's longest. I am doing relatively well during the pandemic, nobody I know personally has been infected, and I'm not exactly averse to just staying at home all the time. Compared to other people, it has for me at worst been a minor inconvenience. For that I am grateful.
 
 I miss being able to go out to quiz nights or visit friends or eat at restaurants or even the occasional paper Magic tournament. We haven't been visited by my the pamangkins in a while, most contact relegated to Zoom calls. I haven't been unable to do my regular walks. Other than that my life remains relatively the same compared to last year, since any work I've done has been from home for the past couple of years. 
 
@@ -70,7 +70,7 @@ There's a lot of gaming stats, so they're collapsed:
 
 {{% spoiler %}}
   * Games purchased (not including any I got for free for some reason): 67, again mostly from Humble bundles, up from 35 last year. 
-    * Steam:
+    * Steam purchases:
         * Ultimate Marvel vs Capcom 3
         * Divinity Original Sin 2
         * Jackbox Party Pack
@@ -87,11 +87,11 @@ There's a lot of gaming stats, so they're collapsed:
         * 12 games Sep Humble Choice
         * 12 games Nov Humble Choice
     * PS4
-        * Final Fantasy VII Remake
+        * Final Fantasy VII Remake (physical)
     * Nintendo Switch
-        * Super Mario 3d All Stars
-        * Link's Awakening
-        * Fire Emblem Three Houses
+        * Super Mario 3d All Stars (physical)
+        * Link's Awakening (physical)
+        * Fire Emblem Three Houses (physical)
   * My gaming spend is waaay up this year since I decided to get a new console (Nintendo Switch)
   * Games "finished" (story/campaign completed OR achievement complete): 11, up from 7 last year.
     * [Frostpunk](/2020/03/1235920529233776640/). Finished all of the non-DLC campaigns

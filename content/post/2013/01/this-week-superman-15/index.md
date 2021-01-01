@@ -5,6 +5,11 @@ source: ireadcomicbooks
 tags:
 - comics
 title: 'This Week: Superman #15'
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/286829412371017732/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/323242487781739
 ---
 
 Props:
