@@ -1,5 +1,5 @@
 ---
-date: 2017-01-11 22:54:33+00:00
+date: 2017-01-11 22:54:33+08:00
 repost_source:
   name: realRealDukat
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/819316596371927041/
 ---
 
-RT [@realRealDukat](https://twitter.com/realRealDukat/): Dominion has never tried to use leverage over me. I HAVE NOTHING TO DO WITH DOMINION - NO DEALS, NO LOANS, NO NOTHING!
+Dominion has never tried to use leverage over me. I HAVE NOTHING TO DO WITH DOMINION - NO DEALS, NO LOANS, NO NOTHING!

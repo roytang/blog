@@ -1,5 +1,5 @@
 ---
-date: 2012-01-13 15:22:42+00:00
+date: 2012-01-13 15:22:42+08:00
 repost_source:
   name: rands
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/157845029979824128/
 ---
 
-RT [@rands](https://twitter.com/rands/): An engineer is willing to go seemingly insane lengths for marginal efficiency improvements.
+An engineer is willing to go seemingly insane lengths for marginal efficiency improvements.

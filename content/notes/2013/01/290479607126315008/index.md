@@ -1,5 +1,5 @@
 ---
-date: 2013-01-13 15:25:09+00:00
+date: 2013-01-13 15:25:09+08:00
 repost_source:
   name: redditflipboard
   type: twitter
@@ -13,4 +13,4 @@ tags:
 - flipboard
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): I think we all do this [r/funny] http://i.imgur.com/qZwAu.png?utm_source=twitterfeed&utm_medium=twitter #reddit #flipboard
+I think we all do this [r/funny] http://bit.ly/VAqzea #reddit #flipboard

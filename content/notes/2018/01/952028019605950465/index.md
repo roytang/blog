@@ -1,5 +1,5 @@
 ---
-date: 2018-01-13 04:02:22+00:00
+date: 2018-01-13 04:02:22+08:00
 repost_source:
   name: mental_floss
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/952028019605950465/
 ---
 
-RT [@mental_floss](https://twitter.com/mental_floss/): 16 Fun Facts About 'The Hitchhiker’s Guide to the Galaxy' — http://mentalfloss.com/article/63473/16-fun-facts-about-hitchhikers-guide-galaxy 
+16 Fun Facts About 'The Hitchhiker’s Guide to the Galaxy' — http://bit.ly/1E1sZnC

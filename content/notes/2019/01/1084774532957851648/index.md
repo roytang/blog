@@ -1,5 +1,5 @@
 ---
-date: 2019-01-14 11:29:37+00:00
+date: 2019-01-14 11:29:37+08:00
 repost_source:
   name: noelledeg
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1084774532957851648/
 ---
 
-RT [@noelledeg](https://twitter.com/noelledeg/): gaGOhan talaga ano https://www.reddit.com/r/Philippines/comments/afthhg/yung_nirerequire_kaming_magpaskil_ng_ganito_kahit/?st=JQW8G00R&sh=1f74d594 
+gaGOhan talaga ano https://www.reddit.com/r/Philippines/comments/afthhg/yung_nirerequire_kaming_magpaskil_ng_ganito_kahit/?st=JQW8G00R&sh=1f74d594
