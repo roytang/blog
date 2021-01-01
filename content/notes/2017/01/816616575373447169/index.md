@@ -1,5 +1,5 @@
 ---
-date: 2017-01-04 12:05:38+00:00
+date: 2017-01-04 12:05:38+08:00
 repost_source:
   name: ImranGarda
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/816616575373447169/
 ---
 
-RT [@ImranGarda](https://twitter.com/ImranGarda/): Sentence construction is really important. 
+Sentence construction is really important.

@@ -1,5 +1,5 @@
 ---
-date: 2011-01-03 23:16:38+00:00
+date: 2011-01-03 23:16:38+08:00
 repost_source:
   name: rands
   type: twitter
@@ -12,4 +12,4 @@ tags:
 - typo
 ---
 
-RT [@rands](https://twitter.com/rands/): When you say "Hope" to an engineer, they hear "I have no credible plan". #typo
+When you say "Hope" to an engineer, they hear "I have no credible plan". #typo

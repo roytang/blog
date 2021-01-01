@@ -1,5 +1,5 @@
 ---
-date: 2014-01-05 14:26:29+00:00
+date: 2014-01-05 14:26:29+08:00
 repost_source:
   name: CharlesSoule
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/419837311749079040/
 ---
 
-RT [@CharlesSoule](https://twitter.com/CharlesSoule/): New day. That's the nice thing about days in general. Have a bad one? Forget it. They'll make more.
+New day. That's the nice thing about days in general. Have a bad one? Forget it. They'll make more.

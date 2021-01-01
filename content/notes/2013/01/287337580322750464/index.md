@@ -1,5 +1,5 @@
 ---
-date: 2013-01-04 23:19:52+00:00
+date: 2013-01-04 23:19:52+08:00
 repost_source:
   name: mental_floss
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/287337580322750464/
 ---
 
-RT [@mental_floss](https://twitter.com/mental_floss/): 45 Amazing Facts for National Trivia Day — http://goo.gl/ksT3k
+45 Amazing Facts for National Trivia Day — http://goo.gl/ksT3k
