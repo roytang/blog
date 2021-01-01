@@ -10,6 +10,8 @@ syndicated:
 tags:
 - Review
 - Gaming
+album:
+- gaming
 title: 'Review: Final Fantasy XV'
 type: post
 url: /2017/03/review-final-fantasy-xv/
@@ -17,7 +19,7 @@ url: /2017/03/review-final-fantasy-xv/
 
 With The FFXIII trilogy not being particularly well-received and FFXIV being an MMO, Final Fantasy XV has been a long awaited as the next mainline single-player game in the much-acclaimed series. This review will have minor spoilers.
 
-<img class="alignnone size-full" src="http://i.imgur.com/mxS7hvb.png" width="1920" height="1080" />
+{{< img src="mxS7hvb.jpg" >}}
 
 **Story**
 
@@ -44,7 +46,7 @@ The ending itself was bittersweet (and easily trolled haha), but I found it an a
 
 **Characters**
 
-<img class="alignnone size-full" src="http://i.imgur.com/RTcRL3u.png" width="1920" height="1080" />
+{{< img src="RTcRL3u.jpg" >}}
 
 While I found the main cast of Noctis, Ignis, Gladio and Prompto to have engaging personalities, they don't really have much backstory in-game (most of the character backstories are in Brotherhood). In fact, later on, a startling revelation is made about one of them and none of them really bat an eye at all. It was in the sense of "hey, we don't care about that, we're your friends," but it still felt like something that should have been explored further.
 
@@ -54,7 +56,7 @@ The interaction among the group is great though. They regularly banter and tease
 
 I'm an old-school FF fan, so I'll be the first to admit I miss ye olde active time battle. FFXV's battles take place entirely in real-time, with the player controlling Noctis and the other characters controlled by AI. The AI control goes about as well as you could expect, they do fine against weak enemies but against tougher battles you find yourself constantly having to help them with potions or other items. You can command them to do special attacks when available, and they will participate in combo attacks when possible, but for the most part it's just Noctis warping and striking.
 
-<img class="alignnone size-full" src="http://imgur.com/iEmsTOE.png" width="1920" height="1080" />
+{{< img src="iEmsTOE.jpg" >}}
 
 Combat is fluid and there's a lot of movement and jumping around and looking for opportunities to strike from behind. Early on you are discouraged from wandering around at night as the enemies might be too high level, but the combat system is set up such that most tough battles can be overcome simply by having enough recovery items around. I only got a game over once, early in the game when didn't know what I was doing and I tried wandering at night and promptly got squashed by an iron giant.
 
@@ -66,11 +68,7 @@ Then there's the photos and the food porn. A lot of pandering to the modern-day
 
 And the photos are the specialty of Prompto. It's one of those things that feels really frivolous in the game. Every time you camp you can browse pictures that Prompto has taken so you can save them for later viewing. A later patch provided a photo mode that you can control directly. There's an entire reddit thread about how players have snapped more pics for this game than for their own vacations!
 
-Anyway, I'm no exception. Exporting a lot of photos is a pain though, as there is no batch export option in-game. Here are a sampling of the photos I got (a bunch of them are from achievements):
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ECX4J">
-  <a href="https://imgur.com/a/ECX4J">View post on imgur.com</a>
-</blockquote>
+Anyway, I'm no exception. Exporting a lot of photos is a pain though, as there is no batch export option in-game. Attached to this post are a sampling of the photos I got (a bunch of them are from achievements).
 
 **Achievements**
 
@@ -80,13 +78,13 @@ Speaking of achievements, I was a touch disappointed with FFXV's achievement set
 
 They had this weird Chocobo carnival DLC that somehow takes place in another timeline or something LOL. IDK how it works.
 
-<img class="alignnone size-full" src="http://imgur.com/2Uj1VM3.png" width="1920" height="1080" />
+{{< img src="2Uj1VM3.jpg" >}}
 
 Despite the fact that the more action-oriented combat system is indicative of where SE plans to take the series moving forward, there's still a significant amount of nostalgia in the game for old-schoolers to appreciate. Callouts range from Prompto humming the classic victory fanfare after the battle to 2d sprites in the store menus jumping up in down to indicate which characters can equip each item. Classic FF beasties like the Malboro still make an appearance (and are still a pain to fight!)
 
 The weirdest thing overall has to be the Cup Noodles thing! They had some sort of tie-up with Nissin and Cup Noodles is one of the meals your party can have in the game and Gladio is obsessed with them. Later on you even get a quest to try to find a way to improve on Cup Noodles and it ends with the characters saying there's really no beating the original since it has a perfect mix of ingredients already. I feel like the VA's really enjoyed doing those lines haha.
 
-<img class="alignnone size-full" src="http://imgur.com/MDiYsIS.png" width="1920" height="1080" />
+{{< img src="MDiYsIS.jpg" >}}
 
 **Overall**
 
