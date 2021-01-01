@@ -1,5 +1,5 @@
 ---
-date: 2014-01-09 05:25:42+00:00
+date: 2014-01-09 05:25:42+08:00
 repost_source:
   name: VectorBelly
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/421150767781658624/
 ---
 
-RT [@VectorBelly](https://twitter.com/VectorBelly/): For Final Jeopardy: This Video Game character is blue, collects rings, and goes fast! 
+For Final Jeopardy: This Video Game character is blue, collects rings, and goes fast!

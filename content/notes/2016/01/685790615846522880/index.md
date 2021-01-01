@@ -1,5 +1,5 @@
 ---
-date: 2016-01-09 11:49:58+00:00
+date: 2016-01-09 11:49:58+08:00
 repost_source:
   name: tangincheek
   type: twitter
@@ -10,5 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/685790615846522880/
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): &lt;hunter&gt; may ibig sabihin ba yung band name ng u2?
-&lt;hunter&gt; or tipong may nagtext lang kay bono "isip ka ng band name!" "o…
+&lt;hunter&gt; may ibig sabihin ba yung band name ng u2?
+
+&lt;hunter&gt; or tipong may nagtext lang kay bono "isip ka ng band name!" "ok, u2"

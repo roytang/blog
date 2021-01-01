@@ -9,6 +9,8 @@ syndicated:
 title: 2004  -- Year of Many Things
 type: post
 url: /2005/01/2004-year-of-many-things/
+tags:
+- yearnotes
 ---
 
 > "So, what's your New Year's resolution?"_

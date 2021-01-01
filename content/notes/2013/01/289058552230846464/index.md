@@ -1,5 +1,5 @@
 ---
-date: 2013-01-09 17:18:23+00:00
+date: 2013-01-09 17:18:23+08:00
 repost_source:
   name: berkun
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/289058552230846464/
 ---
 
-RT [@berkun](https://twitter.com/berkun/): Arguing, despite its popularity, is one of the worst ways to convince anyone of anything.
+Arguing, despite its popularity, is one of the worst ways to convince anyone of anything.

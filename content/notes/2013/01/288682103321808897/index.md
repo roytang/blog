@@ -1,5 +1,5 @@
 ---
-date: 2013-01-08 16:22:31+00:00
+date: 2013-01-08 16:22:31+08:00
 repost_source:
   name: alisonbrie
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/288682103321808897/
 ---
 
-RT [@alisonbrie](https://twitter.com/alisonbrie/): Indeed!!!! RT [@nailz84](https://twitter.com/nailz84/): Only one more month!! 
+Indeed!!!! RT [@nailz84](https://twitter.com/nailz84/): Only one more month!!

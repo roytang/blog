@@ -1,5 +1,5 @@
 ---
-date: 2018-01-08 09:37:27+00:00
+date: 2018-01-08 09:37:27+08:00
 repost_source:
   name: alvinjtang
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/950300409100320769/
 ---
 
-RT [@alvinjtang](https://twitter.com/alvinjtang/): Looking for freelance UI/UX designer for website design. Please PM me for inquiries or referrals. Thanks!
+Looking for freelance UI/UX designer for website design. Please PM me for inquiries or referrals. Thanks!
