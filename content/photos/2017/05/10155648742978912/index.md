@@ -11,3 +11,5 @@ tags:
 ---
 
 LOL
+
+(Dark Ritual)
