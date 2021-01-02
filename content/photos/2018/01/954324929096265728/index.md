@@ -7,3 +7,4 @@ syndicated:
 ---
 
 What every conversation about crypto-currancy sounds like to me. 
+

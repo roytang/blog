@@ -1,5 +1,5 @@
 ---
-date: 2016-01-18 06:28:51+00:00
+date: 2016-01-18 06:28:51+08:00
 repost_source:
   name: jesterinexile
   type: twitter
@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/688971294474256384/
 ---
 
-RT [@jesterinexile](https://twitter.com/jesterinexile/): this is how to make graphs that tell stories more than filler paragraphs can
+this is how to make graphs that tell stories more than filler paragraphs can
 
-good job [@bworldph](https://twitter.com/bworldph/) 
+
+
+good job [@bworldph](https://twitter.com/bworldph/)
