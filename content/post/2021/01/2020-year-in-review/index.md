@@ -43,7 +43,7 @@ I don't feel like I have accomplished much in 2020, but maybe given all that we 
   * Answers written on Quora: 0.
   * 0 words written for [Nanowrimo](https://nanowrimo.org/)
   * 0 sketches submitted to [r/sketchdaily](https://www.reddit.com/r/sketchdaily)
-  * 115 [blog posts](/blog/), 98537 words worth; up from 224 posts and 119529 words last year. Some posts that I liked or got some reactions:
+  * 115 [blog posts](/blog/), 98537 words worth; down from 224 posts and 119529 words last year. Some posts that I liked or got some reactions:
     * [Tales from the Old Web (Development)](/2020/02/old-web/)
     * [Burnout](/2020/02/burnout/)
     * [Thoughts on Blogging 2020 Edition](/2020/02/thinking-in-public/)
