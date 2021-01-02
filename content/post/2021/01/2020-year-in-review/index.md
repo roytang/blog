@@ -1,8 +1,13 @@
 ---
 date: 2021-01-02
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105484229340913410
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1345224990241689603/
 tags:
 - yearnotes
-title: "2020 Year in Review"
+title: 2020 Year in Review
 ---
 
 It's always weird for me when people do their "year in review" or "X of the year" any time before Jan 1st of the next year. You're making Dec 31 feel left out. It's one thing the Oscars get right. Anyway, here's my personal year-in-review, such as it is.
