@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153917472723912:0
 tags:
 - mobile-uploads
+- boardgames
 ---
 
 Impromptu Marvel Legendary game night! (Evil won)
