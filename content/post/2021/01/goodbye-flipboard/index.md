@@ -1,8 +1,13 @@
 ---
-title: "Goodbye Flipboard"
 date: 2021-01-04
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105492621063408101
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1345762060290822144/
 tags:
 - tech life
+title: Goodbye Flipboard
 ---
 
 I've been using the Flipboard iOS app as my daily morning news reader pretty much since [I first got an iPad](/2010/10/ipad-first-impressions-and-snap-judgments/). It offered a nice, magazine like UI where you can flip through pages full of images and short article blurbs until you can find something you want to read.
