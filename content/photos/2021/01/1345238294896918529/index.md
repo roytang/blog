@@ -9,6 +9,8 @@ syndicated:
 tags:
 - sketchdaily
 - SpiderMan
+albums:
+- sketchbook
 ---
 
 Tryna get back into it #sketchdaily #SpiderMan

@@ -8,6 +8,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/kov14y/january_2nd_self_portrait/ghtjvan/
 tags:
 - sketchdaily
+albums:
+- sketchbook
 ---
 
 Snacktime! 2/365 #sketchdaily
