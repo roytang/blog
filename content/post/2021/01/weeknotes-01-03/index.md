@@ -1,6 +1,11 @@
 ---
 date: 2021-01-03
 slug: weeknotes-2021-01-03
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105490298866647800
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1345613440023367681/
 tags:
 - weeknotes
 title: Weeknotes 2021-01-03 Every New Beginning Is Some Other Beginning's End
@@ -27,4 +32,4 @@ Looking forward to this coming week:
 
 - Star Trek Discovery season finale
 - MTG Kaldheim preview season kicking off!
-- shenanigans in the US congress/senate when they try to certify the EC results. Also Georgia elections determine whether Biden will have Senate support! 
+- shenanigans in the US congress/senate when they try to certify the EC results. Also Georgia elections determine whether Biden will have Senate support!
