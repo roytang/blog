@@ -11,6 +11,6 @@ Boo :(
 
 {{% quoted url="https://twitter.com/polygon/status/893100906211942400" label="Polygon's tweet" %}}
 
-The Dark Tower is boring, lifeless and close to being an absolute total disaster. Our review. https://www.polygon.com/2017/8/3/16087834/the-dark-tower-review?utm_campaign=polygon&utm_content=chorus&utm_medium=social&utm_source=twitter
+The Dark Tower is boring, lifeless and close to being an absolute total disaster. Our review. https://www.polygon.com/2017/8/3/16087834/the-dark-tower-review
 
 {{% /quoted %}}

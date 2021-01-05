@@ -1,5 +1,5 @@
 ---
-date: 2018-01-30 14:12:33+00:00
+date: 2018-01-30 14:12:33+08:00
 repost_source:
   name: scalzi
   type: twitter

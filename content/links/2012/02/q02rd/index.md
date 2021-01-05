@@ -5,7 +5,7 @@ link:
   source_url: https://reddit.com/r/gaming/comments/q02rd/buy_one_take_one_promo_for_dd_games_at_gogcom/
   text: Buy one take one promo for D&D games at GOG.com, with free Temple of Elemental
     Evil for any purchase
-  url: http://www.gog.com/page/promo_buy1_get1?utm_source=newsletter&utm_medium=email&utm_content=game_subject&utm_campaign=buy1_get1
+  url: http://www.gog.com/page/promo_buy1_get1
 source: reddit
 syndicated:
 - type: reddit

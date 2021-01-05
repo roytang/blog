@@ -1,5 +1,5 @@
 ---
-date: 2016-01-31 03:05:53+00:00
+date: 2016-01-31 03:05:53+08:00
 repost_source:
   name: tangincheek
   type: twitter
@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/693631256144146432/
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): focus only on what matters
+focus only on what matters

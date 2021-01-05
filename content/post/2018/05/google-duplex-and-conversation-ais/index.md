@@ -30,4 +30,4 @@ Science fiction of course is replete with examples of AI that can mimic human co
 
 Given how much we are able to imagine it, such tech is probably inevitable in the trajectory of human advancement (assuming we don't bomb ourselves to extinction). I'm sure eventually humanity will be able to adapt (soon inbound phone calls will require some kind of captcha), but there's bound to be some transition time where it's problematic.
 
- [1]: https://www.theverge.com/2018/5/10/17342414/google-duplex-ai-assistant-voice-calling-identify-itself-update?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter
+ [1]: https://www.theverge.com/2018/5/10/17342414/google-duplex-ai-assistant-voice-calling-identify-itself-update

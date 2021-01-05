@@ -39,5 +39,5 @@ The concept of smaller services held together by open protocols is closer to wha
 
  [1]: https://roytang.net/category/magic/
  [2]: https://roytang.net/2013/03/scenes-from-a-quiz-night/
- [3]: https://www.theverge.com/2018/3/27/17167094/mozilla-firefox-facebook-container-tracker-blocker?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter
+ [3]: https://www.theverge.com/2018/3/27/17167094/mozilla-firefox-facebook-container-tracker-blocker
  [4]: https://twitter.com/roytang/
