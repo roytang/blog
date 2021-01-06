@@ -1,9 +1,11 @@
 ---
-date: 2021-01-06 20:53:01+08:00
+date: 2021-01-06 12:53:01
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1346922745234223104/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/krkyi9/january_6th_koolaid_man/gicnhw3/
 tags:
 - sketchdaily
 ---
