@@ -1,11 +1,16 @@
 ---
-title: "Pinoy Drawing Memes"
-date: 2021-01-06T14:25:33+08:00
-tags:
-- philippines
+date: 2021-01-06 06:25:33
 dontinlinephotos: true
 featuredResource:
   filename: pinoydrawingmemes.png
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105507408809199935
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1346708476341309442/
+tags:
+- philippines
+title: Pinoy Drawing Memes
 ---
 
 A while back I saw [this tweet](https://twitter.com/thorstenball/status/1317488308285558784) talking about drawing memes from before the internet, and I was reminded that was a thing we had around here too when we were kids!
