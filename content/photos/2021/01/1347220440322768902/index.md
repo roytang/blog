@@ -9,3 +9,5 @@ tags:
 ---
 
 Amazing Friend number 1 #sketchdaily 7/365
+
+** When I was young, I always mixed up Iceman and Silver Surfer.
