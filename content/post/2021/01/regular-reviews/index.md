@@ -1,8 +1,13 @@
 ---
-title: "Regular Reviews and Tracking"
-date: 2021-01-07T20:47:47+08:00
+date: 2021-01-07 12:47:47
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105514586086632907
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1347167822829416449/
 tags:
 - tech life
+title: Regular Reviews and Tracking
 ---
 
 One habit I now have that I wish I had started much, much earlier in life would be conducting regular, periodic reviews.
