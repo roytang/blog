@@ -22,7 +22,7 @@ My current regular reviews/tracking systems:
 
 In addition to all of that, I've recently also resumed doing [750words](/2019/03/750words/), mainly because the old export files from that service were among the old files I was going through.
 
-All of this might seem overmuch for most people, but I find it works for me. It helps me with my thinking, helps me manage my anxiety, and having the past to scroll through is certainly better than doomscrolling all the time.
+All of this might seem overmuch for most people, but I find it works for me. It helps me with my thinking, helps me manage my anxiety, and having the past to scroll through is certainly better than doomscrolling all the time. (There is probably some danger of becoming too obsessed with the past, but I think it's worth it as long as you're aware of the risk.) The past informs the future.
 
 Related:
 
