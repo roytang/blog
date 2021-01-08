@@ -1,8 +1,13 @@
 ---
-title: "Quotes!"
-date: 2021-01-08T15:18:05+08:00
+date: 2021-01-08 07:18:05
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105519005875919746
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1347450688494661636/
 tags:
 - quotes
+title: Quotes!
 ---
 
 I used to collect quotes a lot. Maybe I still do. Here are a couple of collections I've posted online.
