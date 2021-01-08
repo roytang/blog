@@ -9775,3 +9775,11 @@ jokes are 99.9% meant
 ### 1423
 
 life is just people pretending to live
+
+___
+
+### 1424
+
+anyway, if i havent given you this advice before: you dont have to feel guilty for choosing yourself over work. real friends will understand
+
+___
