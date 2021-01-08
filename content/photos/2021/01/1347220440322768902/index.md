@@ -8,6 +8,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/ksaamq/january_7th_icicles/gifukm2/
 tags:
 - sketchdaily
+albums:
+- sketchbook
 ---
 
 Amazing Friend number 1 #sketchdaily 7/365

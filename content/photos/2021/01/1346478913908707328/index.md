@@ -8,6 +8,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/kqvf3c/january_5th_waffles/gi6r4n7/
 tags:
 - sketchdaily
+albums:
+- sketchbook
 ---
 
 Pancakes! 5/365 #sketchdaily

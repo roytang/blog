@@ -8,6 +8,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/krkyi9/january_6th_koolaid_man/gicnhw3/
 tags:
 - sketchdaily
+albums:
+- sketchbook
 ---
 
 Morning coffee. 6/365 #sketchdaily

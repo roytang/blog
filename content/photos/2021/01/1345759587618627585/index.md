@@ -8,6 +8,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/kpi1tc/january_3rd_sea_slugs/ghyp8d6/
 tags:
 - sketchdaily
+albums:
+- sketchbook
 ---
 
 Underwater 3/365 #sketchdaily

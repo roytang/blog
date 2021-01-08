@@ -8,6 +8,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/kszji6/january_8th_free_draw_friday/gikctb0/
 tags:
 - sketchdaily
+albums:
+- sketchbook
 ---
 
 Taking a break from spider-man and procreate for a bit. Just a random dude  8/365 #sketchdaily
