@@ -1,5 +1,5 @@
 ---
-title: "Quotes"
+title: "Quotes!"
 date: 2021-01-08T15:18:05+08:00
 tags:
 - quotes
