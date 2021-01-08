@@ -1,0 +1,31 @@
+{
+  "id": "2aae59c2-3524-49ae-9685-ed23c455b572",
+  "name": "Michael Daniel Samson",
+  "url": "https://twitter.com/switchfollows",
+  "text": "It's when it seems straightforward and obvious that I feel like resetting. To be fair, being at school helps me do that thrice yearly\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+  "date": "2021-01-08 06:01:59",
+  "photo": null,
+  "source_url": "https://twitter.com/switchfollows/status/1347410931567964160",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michael Daniel Samson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f57ad552d10a8d37542401e61b56b0fe3fb566f7e8e3c59242400b4b6af25149.jpg",
+      "url": "https://twitter.com/switchfollows"
+    },
+    "url": "https://twitter.com/switchfollows/status/1347410931567964160",
+    "published": "2021-01-08T05:12:54+00:00",
+    "wm-received": "2021-01-08T06:01:59Z",
+    "wm-id": 981107,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1347167822829416449/1347410931567964160",
+    "wm-target": "https://roytang.net/2021/01/regular-reviews/",
+    "content": {
+      "html": "It's when it seems straightforward and obvious that I feel like resetting. To be fair, being at school helps me do that thrice yearly\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+      "text": "It's when it seems straightforward and obvious that I feel like resetting. To be fair, being at school helps me do that thrice yearly"
+    },
+    "in-reply-to": "https://roytang.net/2021/01/regular-reviews/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
