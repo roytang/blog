@@ -1,0 +1,31 @@
+{
+  "id": "7681ae4f-21d5-4dcb-947e-673baa7802eb",
+  "name": "Michael Daniel Samson",
+  "url": "https://twitter.com/switchfollows",
+  "text": "I used to have a twice-in-a-decade deconstruct-reconstruct of my standing thought processes and systems. Haven't done it in a while\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+  "date": "2021-01-08 00:21:01",
+  "photo": null,
+  "source_url": "https://twitter.com/switchfollows/status/1347277522531086337",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Michael Daniel Samson",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f57ad552d10a8d37542401e61b56b0fe3fb566f7e8e3c59242400b4b6af25149.jpg",
+      "url": "https://twitter.com/switchfollows"
+    },
+    "url": "https://twitter.com/switchfollows/status/1347277522531086337",
+    "published": "2021-01-07T20:22:47+00:00",
+    "wm-received": "2021-01-08T00:21:01Z",
+    "wm-id": 980776,
+    "wm-source": "https://brid-gy.appspot.com/comment/twitter/roytang/1347167822829416449/1347277522531086337",
+    "wm-target": "https://roytang.net/2021/01/regular-reviews/",
+    "content": {
+      "html": "I used to have a twice-in-a-decade deconstruct-reconstruct of my standing thought processes and systems. Haven't done it in a while\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+      "text": "I used to have a twice-in-a-decade deconstruct-reconstruct of my standing thought processes and systems. Haven't done it in a while"
+    },
+    "in-reply-to": "https://roytang.net/2021/01/regular-reviews/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
