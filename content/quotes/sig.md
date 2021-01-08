@@ -112,7 +112,7 @@ Faith is to believe what you do not see;
 
 the reward for this faith is to see what you believe. 
 
-     -- St. Augustine
+- St. Augustine
 
 ---
 
@@ -130,7 +130,7 @@ Mess with the best, die like the rest...
 
 ---
 
-&quot;and through it all you&#x27;d watched me go, you never even cared that I needed you...&quot; 
+"and through it all you&#x27;d watched me go, you never even cared that I needed you..." 
 
   -- Dan England &amp; John Ford Coley/ Who&#x27;s Lonely Now     
 
@@ -140,7 +140,7 @@ What the mind of men can conceive and believe,
 
 the mind of man can achieve. 
 
-     -- W. Clement Stone
+- W. Clement Stone
 
 ---
 
@@ -152,19 +152,19 @@ The price for being the best is always having to be the best.
 
 Try not. Do or do not. There is no try.
 
-     -- Yoda, &quot;The Empire Strikes Back&quot;
+- Yoda, "The Empire Strikes Back"
 
 ---
 
 Until you find something worth dying for, you&#x27;re not really living. 
 
-     -- Rebecca St. James
+- Rebecca St. James
 
 ---
 
 Imagination is more important than knowledge. 
 
-     -- Albert Einstein
+- Albert Einstein
 
 ---
 
@@ -174,11 +174,11 @@ Society often forgives the criminal; it never forgives the dreamer.
 
 What we do in life, echoes through eternity. 
 
-     -- Maximus, &quot;Gladiator&quot;
+- Maximus, "Gladiator"
 
 ---
 
-A wise man once said, &quot;I don&#x27;t know.&quot; 
+A wise man once said, "I don&#x27;t know." 
 
 ---
 
@@ -190,11 +190,11 @@ My software never has bugs. It just develops random features.
 
 ---
 
-&quot;A good programmer is someone who looks both ways before crossing a one-way street.&quot; 
+"A good programmer is someone who looks both ways before crossing a one-way street." 
 
 ---
 
-&quot;I&#x27;m sorry, our software is perfect.  The problem must be you. 
+"I&#x27;m sorry, our software is perfect.  The problem must be you. 
 
   -- Dogbert 
 
@@ -216,11 +216,11 @@ To sin by silence when they should protest makes cowards out of men.
 
 ---
 
-&quot;The world isn&#x27;t fair, Calvin.&quot;
+"The world isn&#x27;t fair, Calvin."
 
-&quot;I know, but why it isn&#x27;t ever unfair in my favor?&quot;
+"I know, but why it isn&#x27;t ever unfair in my favor?"
 
-  - in &quot;Calvin &amp; Hobbes&quot;, by Bill Waterson
+  - in "Calvin &amp; Hobbes", by Bill Waterson
 
 ---
 
@@ -230,7 +230,7 @@ Don&#x27;t walk behind me, I may not lead. Don&#x27;t walk in front of me, I may
 
 ---
 
-&quot;640K ought to be enough for anybody.&quot; (Bill Gates, 1981)
+"640K ought to be enough for anybody." (Bill Gates, 1981)
 
 ---
 
@@ -242,11 +242,11 @@ Defeat is worse than death, because you have to live with defeat.
 
 ---
 
-Foolishness: &quot;When others do a foolish thing, you should tell them it is a foolish thing. They can still continue to do it, but at least the truth is where it needs to be.&quot; 
+Foolishness: "When others do a foolish thing, you should tell them it is a foolish thing. They can still continue to do it, but at least the truth is where it needs to be." 
 
 ---
 
-&quot;It is difficult to say what is impossible, for yesterday&#x27;s dream is today&#x27;s hope and tomorrow&#x27;s reality.&quot;
+"It is difficult to say what is impossible, for yesterday&#x27;s dream is today&#x27;s hope and tomorrow&#x27;s reality."
 
 ---
 
@@ -256,19 +256,19 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 ---
 
-My heart is saying &quot;yes&quot;, and my mind is saying &quot;whatever, you never listen to me anyway.&quot;
+My heart is saying "yes", and my mind is saying "whatever, you never listen to me anyway."
 
 ---
 
-&quot;There is no such thing as gravity. The Earth sucks, that is all.&quot;
+"There is no such thing as gravity. The Earth sucks, that is all."
 
 ---
 
-&quot;My destiny is what I make it out to be, not what others want it to be.&quot; 
+"My destiny is what I make it out to be, not what others want it to be." 
 
 ---
 
-&quot;Sometimes I think we&#x27;re alone in the universe, and sometimes I think we&#x27;re not. In either case, the idea is quite staggering.&quot;
+"Sometimes I think we&#x27;re alone in the universe, and sometimes I think we&#x27;re not. In either case, the idea is quite staggering."
 
 - Arthur C Clarke 
 
@@ -388,7 +388,7 @@ It is not enough to have the courage of your convictions, you must also have the
 
 ---
 
-&quot;We have nothing to fear but fear itself.&quot; 
+"We have nothing to fear but fear itself." 
 
 - Franklin Roosevelt
 
@@ -410,13 +410,13 @@ You never know when you&#x27;re making a memory.
 
 ---
 
-&quot;If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.&quot; 
+"If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things." 
 
 -Rene Descartes 
 
 ---
 
-&quot;A ship in harbor is safe -- but that is not what ships are for.&quot; 
+"A ship in harbor is safe -- but that is not what ships are for." 
 
 - John A. Shedd
 
@@ -426,37 +426,37 @@ Holding on to anger is like grasping a hot coal with the intent of throwing it a
 
 ---
 
-&quot;If history is to change, let it change!
+"If history is to change, let it change!
 
  If the world is to be destroyed, so be it!
 
- If my fate is to die, I must simply laugh.&quot;
+ If my fate is to die, I must simply laugh."
 
-     - Magus, Chrono Trigger  
+- Magus, Chrono Trigger  
 
 ---
 
-&quot;In our world, every storm has an end. 
+"In our world, every storm has an end. 
 
  Every night, brings a new morning.
 
  What&#x27;s important is to trust those you love, and never give up. 
 
- We must all keep hope alive...&quot;
+ We must all keep hope alive..."
 
-     - Chrono Trigger
-
----
-
-&quot;Fate has no forgiveness for those who dare stand against it.&quot;
-
-     - Chrono Cross
+- Chrono Trigger
 
 ---
 
-&quot;You gotta believe!&quot;
+"Fate has no forgiveness for those who dare stand against it."
 
-     - Parappa the Rapper
+- Chrono Cross
+
+---
+
+"You gotta believe!"
+
+- Parappa the Rapper
 
 ---
 
@@ -478,7 +478,7 @@ In my life, I love you more.
 
 ---
 
-&quot;The only wrong thing would be to deny what your heart truly feels.&quot;
+"The only wrong thing would be to deny what your heart truly feels."
 
 -- The Mask of Zorro 
 
@@ -498,47 +498,47 @@ We need a connection but you seem to push me far away from you
 
 ---
 
-&quot;Wish she knew what she does to my heart
+"Wish she knew what she does to my heart
 
- Every time she turns and walks away...&quot;
-
----
-
-&quot;How much longer are you willing to fight?&quot;
-
-&quot;I&#x27;ll fight to my last breath, until I reach my limit, until I have nothing more to give.&quot;
-
-&quot;And after that? What then?&quot;
-
-&quot;I&#x27;ll fight some more.&quot;
+ Every time she turns and walks away..."
 
 ---
 
-&quot;I want nothing more than to 
+"How much longer are you willing to fight?"
+
+"I&#x27;ll fight to my last breath, until I reach my limit, until I have nothing more to give."
+
+"And after that? What then?"
+
+"I&#x27;ll fight some more."
+
+---
+
+"I want nothing more than to 
 
  Sit outside heaven&#x27;s door
 
  And listen to you breathing
 
- It&#x27;s where I wanna be&quot;
+ It&#x27;s where I wanna be"
 
 ---
 
-&quot;So, what&#x27;s your New Year&#x27;s resolution?&quot;
+"So, what&#x27;s your New Year&#x27;s resolution?"
 
-&quot;I resolve to live life on purpose, to take control of my fate, to seize each day as if it were my last. I will be reckless. I will be daring. I will be strong. I will challenge fate. I will defy the gods. Or I will die trying.&quot;
+"I resolve to live life on purpose, to take control of my fate, to seize each day as if it were my last. I will be reckless. I will be daring. I will be strong. I will challenge fate. I will defy the gods. Or I will die trying."
 
-&quot;...Why can&#x27;t you just quit smoking or go on a diet like ordinary people?&quot;
+"...Why can&#x27;t you just quit smoking or go on a diet like ordinary people?"
 
-&quot;It&#x27;s like you don&#x27;t know me at all. Life is too short to be ordinary.&quot;
-
----
-
-&quot;I know now I have to keep on breathing. Because the sun will rise tomorrow, and you never know what the tide will bring.&quot;
+"It&#x27;s like you don&#x27;t know me at all. Life is too short to be ordinary."
 
 ---
 
-&quot;You have been weighed. You have been measured. You have been found wanting.&quot;
+"I know now I have to keep on breathing. Because the sun will rise tomorrow, and you never know what the tide will bring."
+
+---
+
+"You have been weighed. You have been measured. You have been found wanting."
 
 ---
 
@@ -568,7 +568,7 @@ O kay tagal din kitang mamahalin...
 
 ---
 
-&quot;The temptation to quit will be greatest just before you are about to succeed&quot;
+"The temptation to quit will be greatest just before you are about to succeed"
 
   -- Chinese proverb
 
@@ -598,9 +598,9 @@ The first 90% of a project takes 90% of the time. The other 10% takes another 90
 
 ---
 
-&quot;Kahit na ilang ulit mo akong saktan
+"Kahit na ilang ulit mo akong saktan
 
- Basta&#x27;t sa susunod ay wag mo na akong iiwan...&quot;
+ Basta&#x27;t sa susunod ay wag mo na akong iiwan..."
 
 ---
 
@@ -614,9 +614,9 @@ You&#x27;ll be safe here
 
 ---
 
-&quot;Destiny is what we work toward. The future doesn&#x27;t exist yet. Fate is for losers.&quot;
+"Destiny is what we work toward. The future doesn&#x27;t exist yet. Fate is for losers."
 
-  - Douglas Coupland, &quot;Girlfriend in a Coma&quot;
+  - Douglas Coupland, "Girlfriend in a Coma"
 
 ---
 
@@ -712,7 +712,7 @@ Love is like a rhino, short-sighted and hasty; if it cannot find a way, it will 
 
 ---
 
-PHB: &quot;The website needs to be more webbish. But not too webbish. How long will that take?&quot;
+PHB: "The website needs to be more webbish. But not too webbish. How long will that take?"
 
   --Dilbert
 
@@ -736,7 +736,7 @@ Life is short, no regrets.
 
 Q: What did c:\DarthVader say to c:\DarthVader\LukeSkywalker?
 
-A: &quot;Luke, I&#x27;m your folder&quot;
+A: "Luke, I&#x27;m your folder"
 
 ---
 
@@ -748,13 +748,13 @@ A: &#x27;Coz I&#x27;m down-right fierce.
 
 Don&#x27;t think you are...know you are! 
 
-     -- Morpheus, &quot;The Matrix&quot;
+- Morpheus, "The Matrix"
 
 ---
 
 Those who know, do not speak. Those who speak, do not know. 
 
-     -- Bruce Lee
+- Bruce Lee
 
 ---
 
@@ -762,7 +762,7 @@ A single grain of rice can tip the scale.
 
 One man can make a difference. 
 
-     -- Emperor, &quot;Mulan&quot;
+- Emperor, "Mulan"
 
 ---
 
@@ -802,7 +802,7 @@ Live as if this is all there is.
 
 ---
 
-&quot;If good things lasted forever, would we appreciate how precious they are?&quot; 
+"If good things lasted forever, would we appreciate how precious they are?" 
 
   - Hobbes, the tiger
 
@@ -994,7 +994,7 @@ Ewan ko sa yo, ang labo mo
 
 ---
 
-[13:08]&lt;kc&gt; sa assessment kaya, pwede ilagay yun... &quot;Roy is psychic.&quot;
+[13:08]&lt;kc&gt; sa assessment kaya, pwede ilagay yun... "Roy is psychic."
 
 ---
 
@@ -1070,11 +1070,11 @@ Sa oras na kailangan mo, makaaasa ka sa akin
 
 ---
 
-&quot;[Walking through the Okinawa airport, Daniel and Miyagi find a poster advertising Sato&#x27;s karate school. The poster shows Sato breaking a log with his bare hands]
+"[Walking through the Okinawa airport, Daniel and Miyagi find a poster advertising Sato&#x27;s karate school. The poster shows Sato breaking a log with his bare hands]
 
 Daniel: You think you could break a log like that?
 
-Miyagi: Don&#x27;t know. Never been attacked by a tree. &quot; 
+Miyagi: Don&#x27;t know. Never been attacked by a tree. " 
 
   -- Karate Kid II
 
@@ -1092,7 +1092,7 @@ Without fear, live your lives, let the magic turn your life around
 
 ---
 
-&quot;We will encourage you to develop the three great virtues of a programmer: laziness, impatience, and hubris.&quot;
+"We will encourage you to develop the three great virtues of a programmer: laziness, impatience, and hubris."
 
 
 
@@ -1100,7 +1100,7 @@ Without fear, live your lives, let the magic turn your life around
 
 ---
 
-Some people, when confronted with a problem, think &quot;I know, I&#x27;ll use regular expressions.&quot; Now they have two problems.
+Some people, when confronted with a problem, think "I know, I&#x27;ll use regular expressions." Now they have two problems.
 
 ---
 
@@ -1124,7 +1124,7 @@ We live in the present, whether you like it or not.
 
 Don&#x27;t think about past regrets or future worries. 
 
-What&#x27;s important is that at the end of each day you can say to yourself, &quot;I did a damn good job today.&quot;
+What&#x27;s important is that at the end of each day you can say to yourself, "I did a damn good job today."
 
 ---
 
@@ -1140,9 +1140,9 @@ int getRandomNumber() {
 
 ---
 
-&quot;We&#x27;ll launch so many tasks, we&#x27;ll blot out the sun.&quot;
+"We&#x27;ll launch so many tasks, we&#x27;ll blot out the sun."
 
-&quot;Then, we&#x27;ll code in the shade.&quot;
+"Then, we&#x27;ll code in the shade."
 
 ---
 
@@ -1220,7 +1220,7 @@ If you were a robot, and I knew but you didn&#x27;t, would you want me to tell y
 
 [18:33]&lt;stang&gt; I would log it as a low
 
-[18:33]&lt;stang&gt; I expect the phrase &quot;inverted butt crack&quot; to appear in the bug report
+[18:33]&lt;stang&gt; I expect the phrase "inverted butt crack" to appear in the bug report
 
 ---
 

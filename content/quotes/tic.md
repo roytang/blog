@@ -8,6 +8,8 @@ These are quotes (allegedly) made by me, compiled by people I know over the year
 
 There is also [a Twitter bot](https://twitter.com/tangincheek) that randomly tweets one of these per day, if you're into that sort of thing.
 
+Also, please feel free to submit to me any other things I allegedly said you find wise and/or amusing.
+
 ### 1
 
 Difficult tasks are like drugs: just say 'No'.
@@ -9764,3 +9766,12 @@ The code won't lie to me. It's honest. It will say exactly what it means.
 
 ---
 
+### 1422
+
+jokes are 99.9% meant
+
+---
+
+### 1423
+
+life is just people pretending to live
