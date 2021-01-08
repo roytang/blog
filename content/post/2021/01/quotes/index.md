@@ -19,3 +19,5 @@ I used to collect quotes a lot. Maybe I still do. Here are a couple of collectio
 There's probably a better way to organize these. I mean, I kind of want some kind of upvoting system like they have at bash.org (to see which quotes the three readers of this blog like), but that's a side project for another day.
 
 There's also a list page at [/quotes/](/quotes/) which maybe I'll add to the menus somewhere? For fun.
+
+Edit: There is also a [quotes tag](/tags/quotes/), but I haven't been maintaining it too well.
