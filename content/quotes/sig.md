@@ -1026,9 +1026,9 @@ will will only be able to release it on Dec. 19-20 because
 
 she&#x27;s tied up w/ meeting with mr. lee.
 
-[14:12]&lt;joshua agarrado&gt; ok po :D
+[14:12]&lt;josh&gt; ok po :D
 
-[14:12]&lt;joshua agarrado&gt; so pwede pa kaming materminate between now and dec.19 :D :D
+[14:12]&lt;josh&gt; so pwede pa kaming materminate between now and dec.19 :D :D
 
 ---
 
