@@ -1,5 +1,5 @@
 ---
-date: 2020-01-31 17:22:16
+date: 2020-01-31 17:22:16+08:00
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,9 @@ syndicated:
 ---
 
 Somehow even more appropriate this year. 
-Quoted [roytang's tweet](https://twitter.com/roytang/status/1091372287654121472):
 
->
+{{% quoted url="https://twitter.com/roytang/status/1091372287654121472" label="roytang's tweet" %}}
+
+
+
+{{% /quoted %}}
