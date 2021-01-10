@@ -1,9 +1,14 @@
 ---
-title: "Weeknotes 2021-01-10 Now With More Links"
-date: 2021-01-10T15:32:50+08:00
+date: 2021-01-10 07:32:50
 slug: weeknotes-2021-01-10
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105530594732089177
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1348192375290486787/
 tags:
 - weeknotes
+title: Weeknotes 2021-01-10 Now With More Links
 ---
 
 We are barely more than a week into 2021 and it has already been quite a year.
