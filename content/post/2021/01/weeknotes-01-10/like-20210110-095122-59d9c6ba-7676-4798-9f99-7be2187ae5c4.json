@@ -1,0 +1,27 @@
+{
+  "id": "59d9c6ba-7676-4798-9f99-7be2187ae5c4",
+  "name": "Peter",
+  "url": "https://mastodon.technology/@debian",
+  "text": "[Peter](https://mastodon.technology/@debian) [liked this](https://mastodon.technology/@roytang/105530594732089177#favorited-by-367253)",
+  "date": "2021-01-10 09:51:22",
+  "photo": null,
+  "source_url": "https://mastodon.technology/@roytang/105530594732089177#favorited-by-367253",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Peter",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/7a723dcacc4204b01305a05c23cf7e8e6cb1757dc5d6315a778f4d49ffbc4ff3.png",
+      "url": "https://mastodon.technology/@debian"
+    },
+    "url": "https://mastodon.technology/@roytang/105530594732089177#favorited-by-367253",
+    "published": null,
+    "wm-received": "2021-01-10T09:51:22Z",
+    "wm-id": 983901,
+    "wm-source": "https://brid-gy.appspot.com/like/mastodon/@roytang@mastodon.technology/105530594732089177/367253",
+    "wm-target": "https://roytang.net/2021/01/weeknotes-2021-01-10/",
+    "like-of": "https://roytang.net/2021/01/weeknotes-2021-01-10/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
