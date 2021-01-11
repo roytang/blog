@@ -7,8 +7,6 @@ link:
   url: http://www.youtube.com/watch?v=Rst_Z78R4Bk&eurl=http%3A%2F%2Fnewshutch.com%2F
 slug: youtube-the-simpsons-movie-3rd-trailer
 source: delicious
-tags:
-- ''
 title: YouTube - The Simpsons Movie 3rd trailer
 ---
 
