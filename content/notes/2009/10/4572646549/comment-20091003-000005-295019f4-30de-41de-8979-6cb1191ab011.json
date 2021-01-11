@@ -1,0 +1,9 @@
+{
+  "id": "295019f4-30de-41de-8979-6cb1191ab011",
+  "name": "Roy Tang",
+  "url": "https://www.facebook.com/stephen.roy.tang",
+  "text": "Got it! I had typed an extra ] into the regex:    &gt;&gt;&gt; p = re.compile(&#x27;\\[[ A-Za-z0-9]*\\]&#x27;)  &gt;&gt;&gt; p.sub(&#x27;&#x27;, &#x27;4 [removethis] blahblah&#x27;)  &#x27;4  blahblah&#x27;    Thanks internet!",
+  "date": "2009-10-03 00:00:05",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/276367125033#10151604865640034"
+}

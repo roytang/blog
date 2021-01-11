@@ -1,0 +1,9 @@
+{
+  "id": "6712262a-9dca-4fb7-a16d-c126f20e0a40",
+  "name": "Roy Tang",
+  "url": "https://www.facebook.com/stephen.roy.tang",
+  "text": "I&#x27;m already doing something similar (python):    &gt;&gt;&gt; p = re.compile(&#x27;\\[[ A-Za-z0-9\\s]]*\\ ]&#x27;)  &gt;&gt;&gt; p.sub(&#x27;&#x27;, &#x27;4 [remove this] blahblah&#x27;)  &#x27;4 [remove this] blahblah&#x27;    what am I doing wrong?",
+  "date": "2009-10-03 00:00:03",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/276367125033#10151604865310034"
+}
