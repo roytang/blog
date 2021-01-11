@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1348625596683673604/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/kuzqzy/january_11th_cat_fruit/givnuxa/
 tags:
 - sketchdaily
 ---
