@@ -1,0 +1,17 @@
+{
+  "id": "8eb6c067-d8b8-4d4a-ac3b-8d0e2b902121",
+  "name": "Roy Tang",
+  "url": "https://www.facebook.com/stephen.roy.tang",
+  "text": "Okay, I stand corrected. The problem was I was only considering the order mattering for the nonsignificant dice, but I also need to take into account the probability of where the significant rolls would appear.    For rolling exactly three fours: Assuming only the first 3 dice are fours, the number of successful outcomes is 1 x 1 x 1 x 5 x 5 x 5 (it&#x27;s allowed that the last 3 dice are the same). Multiply this by the number of possible placements of the 3 fours: (combination of 6 taken 3 at a time) which is 20, the total number of successful outcomes is 2,500. 2,500 out of 6^6 is roughly 0.05358 (confirmed by wolfram alpha:  http://www.wolframalpha.com/input/?i=probability+of+rolling+three+fours+with+six+die )    For rolling exactly four of any nonfour: Assuming only the first 4 dice are the same, the number of successful outcomes are 5 x 1 x 1 x 1 x 5 x 5 (5 choices for die#1, then dies 2-4 are the same value). Multiply this by the number of possible placements of the 4 same values: (combination of 6 taken 2 at a time) which is 15, the total number of successful outcomes is 1,875. 1,875 out of 6^6 is roughly 0.04018 (also confirmed by wolfram alpha:  http://www.wolframalpha.com/input/?i=probability+of+rolling+four+ones+with+six+die  - this link only gives one fifth of the probability)    Above numbers also confirmed by simulation. Matatahimik na ko. I should get some more sleep  :p",
+  "date": "2013-09-21 00:00:02",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152478835023912#10152479253278912",
+  "source_obj": {
+    "id": "10152479253278912",
+    "poster": "Roy Tang",
+    "poster_url": "/stephen.roy.tang?refid=52&_ft_=mf_story_key.10152478835023912%3Atop_level_post_id.10152478835023912%3Atl_objid.10152478835023912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10152478835023912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "Okay, I stand corrected. The problem was I was only considering the order mattering for the nonsignificant dice, but I also need to take into account the probability of where the significant rolls would appear.    For rolling exactly three fours: Assuming only the first 3 dice are fours, the number of successful outcomes is 1 x 1 x 1 x 5 x 5 x 5 (it's allowed that the last 3 dice are the same). Multiply this by the number of possible placements of the 3 fours: (combination of 6 taken 3 at a time) which is 20, the total number of successful outcomes is 2,500. 2,500 out of 6^6 is roughly 0.05358 (confirmed by wolfram alpha:  http://www.wolframalpha.com/input/?i=probability+of+rolling+three+fours+with+six+die )    For rolling exactly four of any nonfour: Assuming only the first 4 dice are the same, the number of successful outcomes are 5 x 1 x 1 x 1 x 5 x 5 (5 choices for die#1, then dies 2-4 are the same value). Multiply this by the number of possible placements of the 4 same values: (combination of 6 taken 2 at a time) which is 15, the total number of successful outcomes is 1,875. 1,875 out of 6^6 is roughly 0.04018 (also confirmed by wolfram alpha:  http://www.wolframalpha.com/input/?i=probability+of+rolling+four+ones+with+six+die  - this link only gives one fifth of the probability)    Above numbers also confirmed by simulation. Matatahimik na ko. I should get some more sleep  :p",
+    "attachments": [],
+    "date": "Sep 21, 2013"
+  }
+}
