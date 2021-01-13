@@ -20,7 +20,9 @@ Allowing people to anonymously accuse someone of being a spammer could lead to a
 
 As an aside, Twitter is literally the worst sort of format for this sort of discourse. I got dragged into the discussion by a friend who knew I often reported to Globe, and for a while I was responding via my mobile and working with less than 80 characters per post since there were a number of people (that I didn't know) involved. Sure enough I got a barrage of replies from some people, one of whom apparently wasn't even aware that even screenshots can be edited (welcome to the internet!). I really shouldn't have let myself get dragged into it, but now that I was there, as XKCD so famously put it:
 
+<div>
 <img class="alignnone" src="http://imgs.xkcd.com/comics/duty_calls.png" alt="" width="300" height="330" />
+</div>
 
 The problem with debating on the internet in general of course (aside from all the trolls) is that a lot of people easily get aggravated and just lash out without even considering other POVs or the reason why certain policies are in place, which makes their arguments not very constructive at all. Instead of trying to understand the situation so that they could suggest possible workarounds or solutions, they just act indignant and insist on their view. Eventually, I finally quit replying via mobile and just waited til I got home so that I could post a longer response via twitlonger. I gave my opinions (stated above) and just said thanks for the lively debate and let myself out of the discussion.
 
