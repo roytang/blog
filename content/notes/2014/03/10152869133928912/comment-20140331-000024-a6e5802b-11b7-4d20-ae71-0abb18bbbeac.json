@@ -1,0 +1,17 @@
+{
+  "id": "a6e5802b-11b7-4d20-ae71-0abb18bbbeac",
+  "name": "Roy Tang",
+  "url": "https://www.facebook.com/stephen.roy.tang",
+  "text": "The binary solution (as implied by AJ) is as follows (spacing for spoilers):     ...    ...    ...    You assign each barrel a binary string according to their barrel number like so:  1 0000000001  2 0000000010  3 0000000011  4 0000000100  5 0000000101  6 0000000110  7 0000000111  ...and so on    Wine taster #1 takes a sip of wine from each barrel that has a 1 in the right-most digit.  Wine taster #2 takes a sip of wine from each barrel that has a 1 in the second right-most digit.  Wine taster #3 takes a sip of wine from each barrel that has a 1 in the third right-most digit.  ...and so on    After 7 days, some number of the tasters will die. You compose a binary string ordered by the taster for each place value. For each one that dies, you put a 1. Each one that lives gets a 0. The binary string you formed now corresponds to the barrel number that is poisoned.     For example, if taster #2 and taster #3 are the only ones that died, your binary string would be 0000000110, which means barrel #6 is the poisoned barrel.    This scheme is also fair to the wine tasters, they each have roughly 50% chance to survive. (Some might have slightly higher odds due to there being less than 1024 barrels)",
+  "date": "2014-03-31 00:00:24",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152869133928912#10152869435083912",
+  "source_obj": {
+    "id": "10152869435083912",
+    "poster": "Roy Tang",
+    "poster_url": "/stephen.roy.tang?refid=52&_ft_=mf_story_key.10152869133928912%3Atop_level_post_id.10152869133928912%3Atl_objid.10152869133928912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10152869133928912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "The binary solution (as implied by AJ) is as follows (spacing for spoilers):     ...    ...    ...    You assign each barrel a binary string according to their barrel number like so:  1 0000000001  2 0000000010  3 0000000011  4 0000000100  5 0000000101  6 0000000110  7 0000000111  ...and so on    Wine taster #1 takes a sip of wine from each barrel that has a 1 in the right-most digit.  Wine taster #2 takes a sip of wine from each barrel that has a 1 in the second right-most digit.  Wine taster #3 takes a sip of wine from each barrel that has a 1 in the third right-most digit.  ...and so on    After 7 days, some number of the tasters will die. You compose a binary string ordered by the taster for each place value. For each one that dies, you put a 1. Each one that lives gets a 0. The binary string you formed now corresponds to the barrel number that is poisoned.     For example, if taster #2 and taster #3 are the only ones that died, your binary string would be 0000000110, which means barrel #6 is the poisoned barrel.    This scheme is also fair to the wine tasters, they each have roughly 50% chance to survive. (Some might have slightly higher odds due to there being less than 1024 barrels)",
+    "attachments": [],
+    "date": "Mar 31, 2014"
+  }
+}

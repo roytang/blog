@@ -1,0 +1,17 @@
+{
+  "id": "54903670-6946-4f71-9a28-8d5d7ac06c5d",
+  "name": "Jonathan Sahagun",
+  "url": "https://www.facebook.com/aj.sahagun",
+  "text": "(spacing for spoilers)    ...    ...    ...    We can also first consider the simple case of 8 barrels and 3 tasters, where 8 is 2 raised to the power of 3.    Each taster will be assigned a unique combination of 4 barrels, like so:    Taster A: 1 2 3 4 _ _ _ _ (alternating groups of 4)  Taster B: 1 2 _ _ 5 6 _ _ (alternating groups of 2)  Taster C: 1 _ 3 _ 5 _ 7 _ (alternating groups of 1)    If you look closely, you&#x27;d notice that each taster was made to correspond to a binary digit. It takes 3 binary digits to uniquely represent 8 barrels.    Under this special arrangement, we can then observe who among A, B, and C dies, and the combination of deaths will allow us to pinpoint the poisoned barrel, like so:    No taster dies: 8 is poisoned  C dies: 7 is poisoned  B dies: 6 is poisoned  B and C die: 5 is poisoned  A dies: 4 is poisoned  A and C die: 3 is poisoned  A and B die: 2 is poisoned  All tasters die: 1 is poisoned    If you have 1000 barrels, then you need tasters that number the log2 of 1000, rounded up to the nearest integer, or 10. We can then apply exactly the same principle, except now with 10 binary digits instead of 3. With 10 binary digits, we can test a maximum of 1024 barrels, or 2 raised to the power of 10.",
+  "date": "2014-03-31 00:00:27",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152869133928912#10152869532663912",
+  "source_obj": {
+    "id": "10152869532663912",
+    "poster": "Jonathan Sahagun",
+    "poster_url": "/aj.sahagun?refid=52&_ft_=mf_story_key.10152869133928912%3Atop_level_post_id.10152869133928912%3Atl_objid.10152869133928912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10152869133928912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "(spacing for spoilers)    ...    ...    ...    We can also first consider the simple case of 8 barrels and 3 tasters, where 8 is 2 raised to the power of 3.    Each taster will be assigned a unique combination of 4 barrels, like so:    Taster A: 1 2 3 4 _ _ _ _ (alternating groups of 4)  Taster B: 1 2 _ _ 5 6 _ _ (alternating groups of 2)  Taster C: 1 _ 3 _ 5 _ 7 _ (alternating groups of 1)    If you look closely, you'd notice that each taster was made to correspond to a binary digit. It takes 3 binary digits to uniquely represent 8 barrels.    Under this special arrangement, we can then observe who among A, B, and C dies, and the combination of deaths will allow us to pinpoint the poisoned barrel, like so:    No taster dies: 8 is poisoned  C dies: 7 is poisoned  B dies: 6 is poisoned  B and C die: 5 is poisoned  A dies: 4 is poisoned  A and C die: 3 is poisoned  A and B die: 2 is poisoned  All tasters die: 1 is poisoned    If you have 1000 barrels, then you need tasters that number the log2 of 1000, rounded up to the nearest integer, or 10. We can then apply exactly the same principle, except now with 10 binary digits instead of 3. With 10 binary digits, we can test a maximum of 1024 barrels, or 2 raised to the power of 10.",
+    "attachments": [],
+    "date": "Mar 31, 2014"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "309d436f-08ed-4a40-aede-8feeab1be781",
+  "name": "Ryan Liwanag",
+  "url": "https://www.facebook.com/ryan.sylam.liwanag",
+  "text": "Label each with 3 digits. Eg barrel 000, barrel 001.. 998, 999. Taster N will taste Nxx on first day, xNx on second day, xxN ok third day. In addition to this, on third day, taster N+1, N+2, N+3 will drink xxN. This is to narrow down the case when for example taster 0 dies on first day taster 1 dies on second day. The final digit is determined by some other people dying. If 010, taster 2 and 3 must die. If 011, taster 2 3 4 must die.    Correction: should be up to N+4",
+  "date": "2014-03-31 00:00:07",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152869133928912#10152869242178912",
+  "source_obj": {
+    "id": "10152869242178912",
+    "poster": "Ryan Liwanag",
+    "poster_url": "/ryan.sylam.liwanag?refid=52&_ft_=mf_story_key.10152869133928912%3Atop_level_post_id.10152869133928912%3Atl_objid.10152869133928912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10152869133928912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "Label each with 3 digits. Eg barrel 000, barrel 001.. 998, 999. Taster N will taste Nxx on first day, xNx on second day, xxN ok third day. In addition to this, on third day, taster N+1, N+2, N+3 will drink xxN. This is to narrow down the case when for example taster 0 dies on first day taster 1 dies on second day. The final digit is determined by some other people dying. If 010, taster 2 and 3 must die. If 011, taster 2 3 4 must die.    Correction: should be up to N+4",
+    "attachments": [],
+    "date": "Mar 31, 2014"
+  }
+}
