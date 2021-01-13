@@ -20,8 +20,14 @@ I have been working professionally as a software developer, technical lead and s
 
 <table>
 <tr>
-<td style="width: 20%">2016-2020</td>
+<td style="width: 20%">2016-2021</td>
 <td>Freelance software developer, technical lead, and software architect consultant, various projects and clients.</td>
+</tr>
+<tr>
+<td style="width: 20%">2020</td>
+<td><strong>ProfitSolutions</strong> - Technical Consultant
+<br/><strong>DigitalVisibilityConcepts</strong> - Technical Consultant
+</td>
 </tr>
 <tr>
 <td style="width: 20%">2019</td>
