@@ -15,12 +15,12 @@ aliases:
 - [Magic](/tags/mtg) player on weekends
 - [Software developer](/tags/software-development/) since 2003. If you'd like to work with me, take a look at my [resume](/resume).
 - Topics I am generally interested in at the moment:
-  - technology
-  - software development
-  - self-improvement
-  - gaming, movies and tv
-  - puns
-  - possible solutions to our impending doom
+    - technology
+    - software development
+    - self-improvement
+    - gaming, movies and tv
+    - puns
+    - possible solutions to our impending doom
 - The picture of me wearing dice on my head has been my go to profile pic for a while. It was taken back in 2008 when I still worked a regular job.
 - [What Am I Doing Now?](/about/now/)
 - [What Hardware Do I Use?](/about/uses/)
@@ -34,9 +34,9 @@ aliases:
 - You can view a [changelog](/tags/changelog) of this site. 
 - The site is [perpetually under renovation](/2019/08/perpetually-under-renovation/), as we all are.
 - This site is powered by [a Python/Django stack on the backend](/2020/10/site-migration-to-django/).
-  - Search is handled via a custom search backend using [Whoosh](https://whoosh.readthedocs.io/en/latest/intro.html). 
-  - Webmentions are handled via [webmention.io](https://webmention.io/) + [brid.gy](https://brid.gy/) (incoming) and [webmention.app](https://webmention.app/) (outgoing).
-  - content I post on Twitter, Reddit, and other services are fed back into this site via custom Python scripts.
+    - Search is handled via a custom search backend using [Whoosh](https://whoosh.readthedocs.io/en/latest/intro.html). 
+    - Webmentions are handled via [webmention.io](https://webmention.io/) + [brid.gy](https://brid.gy/) (incoming) and [webmention.app](https://webmention.app/) (outgoing).
+    - content I post on Twitter, Reddit, and other services are fed back into this site via custom Python scripts.
 - The [source for this website is available on Github](https://github.com/roytang/blog). 
 - This site is hosted on [DigitalOcean](https://m.do.co/c/6c2e6b11b260) (affiliate link). 
 - An off-site mirror/backup is generated every so often to [mirror.roytang.net](https://mirror.roytang.net/). (Hosted on Netlify.)
