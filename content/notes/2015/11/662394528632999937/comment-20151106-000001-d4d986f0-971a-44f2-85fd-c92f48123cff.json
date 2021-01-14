@@ -1,0 +1,55 @@
+{
+  "id": "d4d986f0-971a-44f2-85fd-c92f48123cff",
+  "name": "David Ramirez",
+  "url": "https://www.facebook.com/profile.php",
+  "text": "I&#x27;ve given up on doing enough research for an optimal performance/ price rig. I just go to pcexpress with an approximate list and substitute out whatever is out of stock. Anyway, unless one is spending ridiculous amounts for the bleeding edge video cards, good enough is actually pretty powerful because developers have to limit requirements to console specs.",
+  "date": "2015-11-06 00:00:01",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154180841363912#10154180956658912",
+  "source_obj": {
+    "id": "10154180956658912",
+    "poster": "David Ramirez",
+    "poster_url": "/profile.php?id=827533990&refid=52&_ft_=mf_story_key.10154180841363912%3Atop_level_post_id.10154180841363912%3Atl_objid.10154180841363912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10154180841363912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "I've given up on doing enough research for an optimal performance/ price rig. I just go to pcexpress with an approximate list and substitute out whatever is out of stock. Anyway, unless one is spending ridiculous amounts for the bleeding edge video cards, good enough is actually pretty powerful because developers have to limit requirements to console specs.",
+    "attachments": [],
+    "date": "Nov 6, 2015",
+    "replies": [
+      {
+        "id": "10154181105998912",
+        "poster": "Jaime L. Garcia",
+        "poster_url": "/jaime.l.garcia.779?__tn__=R",
+        "text": "This. So much. And if there's a developer who likes to push the envelope, the game has a high chance to get into development hell anyway.",
+        "attachments": [],
+        "date": "Nov 6, 2015",
+        "replyto": "10154180956658912"
+      },
+      {
+        "id": "10154181195038912",
+        "poster": "Roy Tang",
+        "poster_url": "/stephen.roy.tang?__tn__=R",
+        "text": "The research is more of to figure out which components have known problems - so that when I'm there and have to substitute I don't choose something flaky  :p",
+        "attachments": [],
+        "date": "Nov 6, 2015",
+        "replyto": "10154180956658912"
+      },
+      {
+        "id": "10154181321183912",
+        "poster": "Paul Villangca",
+        "poster_url": "/paul.villangca?__tn__=R",
+        "text": "Sometimes that information is not immediately obvious. On my last build, the Palit video card I chose would not work at all with my Gigabyte motherboard. Took a fair amount of googling to find just one forum post with the same problem.    I ended up exchanging the vc for an MSI one.",
+        "attachments": [],
+        "date": "Nov 6, 2015",
+        "replyto": "10154180956658912"
+      },
+      {
+        "id": "10154181356198912",
+        "poster": "David Ramirez",
+        "poster_url": "/profile.php?id=827533990&__tn__=R",
+        "text": "Paul Villangca  Way too slack to build my own. I have the shop build/ configure it.",
+        "attachments": [],
+        "date": "Nov 6, 2015",
+        "replyto": "10154180956658912"
+      }
+    ]
+  }
+}
