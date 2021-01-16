@@ -1,0 +1,65 @@
+{
+  "id": "f84d2b32-5c6e-4330-bcce-025ad35afbe6",
+  "name": "Augustine Yap",
+  "url": "https://www.facebook.com/phwraengck",
+  "text": "Google sheets. Allows me to put in data from the laptop and from my phone. Pivot tables are super useful.",
+  "date": "2018-10-07 00:00:08",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156968371383912#10156968647173912",
+  "source_obj": {
+    "id": "10156968647173912",
+    "poster": "Augustine Yap",
+    "poster_url": "/phwraengck?refid=52&_ft_=mf_story_key.10156968371383912%3Atop_level_post_id.10156968371383912%3Atl_objid.10156968371383912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10156968371383912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "Google sheets. Allows me to put in data from the laptop and from my phone. Pivot tables are super useful.",
+    "attachments": [],
+    "date": "Oct 7, 2018",
+    "replies": [
+      {
+        "id": "10156968647758912",
+        "poster": "Augustine Yap",
+        "poster_url": "/phwraengck?__tn__=R",
+        "text": "Source:",
+        "attachments": [
+          {
+            "url": "https://scontent.fmnl3-2.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p118x90/43319861_10156919810504427_679917361888755712_n.jpg?_nc_cat=111&_nc_sid=1480c5&efg=eyJpIjoiYiJ9&_nc_eui2=AeH3G6Dnqvr23Gc49X98cxukWoLZCqWtFAJagtkKpa0UAk7spn8P4iqRbYF_Jex1Rs4&_nc_ohc=KJtCw5qOIZwAX9ipE1F&_nc_ht=scontent.fmnl3-2.fna&_nc_tp=3&oh=2b98566a870b0dc8570a6255d67ca4f6&oe=5EF5F362",
+            "downloaded": "D:\\temp\\stephen.roy.tang\\cache\\dls\\43319861_10156919810504427_679917361888755712_n.jpg"
+          }
+        ],
+        "date": "Oct 7, 2018",
+        "replyto": "10156968647173912"
+      },
+      {
+        "id": "10156968648048912",
+        "poster": "Augustine Yap",
+        "poster_url": "/phwraengck?__tn__=R",
+        "text": "Pivot Table:",
+        "attachments": [
+          {
+            "url": "https://scontent.fmnl3-2.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s200x200/43253652_10156919810894427_3022740138305257472_n.jpg?_nc_cat=111&_nc_sid=1480c5&efg=eyJpIjoiYiJ9&_nc_eui2=AeFsbZK5pZQ57LH6kPD27Isnp5WcvDgTpfWnlZy8OBOl9STe6uFDPtaKHS-jpO5WnXQ&_nc_ohc=QhjJ1KE3AxwAX8GfEVr&_nc_ht=scontent.fmnl3-2.fna&_nc_tp=9&oh=fced772830f1de8e8908df9b6b91940c&oe=5EF8B043",
+            "downloaded": "D:\\temp\\stephen.roy.tang\\cache\\dls\\43253652_10156919810894427_3022740138305257472_n.jpg"
+          }
+        ],
+        "date": "Oct 7, 2018",
+        "replyto": "10156968647173912"
+      },
+      {
+        "id": "10156968656558912",
+        "poster": "Roy Tang",
+        "poster_url": "/stephen.roy.tang?__tn__=R",
+        "text": "I'm already using Google Sheets, pero parang way more efficient yung method mo lol",
+        "attachments": [],
+        "date": "Oct 7, 2018",
+        "replyto": "10156968647173912"
+      },
+      {
+        "id": "10156968677538912",
+        "poster": "Cecile Monina",
+        "poster_url": "/cecile.monina?__tn__=R",
+        "text": "Lol I used to have graphs in mine.",
+        "attachments": [],
+        "date": "Oct 7, 2018",
+        "replyto": "10156968647173912"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cd07a072-4bc4-48aa-82f5-565ac31892fb",
+  "name": "Michael Galero",
+  "url": "https://www.facebook.com/mikong",
+  "text": "I wonder if This is your Digital Life was the only app Cambridge Analytica used to collect our information though.",
+  "date": "2018-04-11 00:00:00",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156563092838912#10156564420753912",
+  "source_obj": {
+    "id": "10156564420753912",
+    "poster": "Michael Galero",
+    "poster_url": "/mikong?refid=52&_ft_=mf_story_key.10156563092838912%3Atop_level_post_id.10156563092838912%3Atl_objid.10156563092838912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10156563092838912%3Aphoto_id.10156563092333912%3Astory_location.4%3Astory_attachment_style.photo%3Athid.632418911&__tn__=R",
+    "text": "I wonder if This is your Digital Life was the only app Cambridge Analytica used to collect our information though.",
+    "attachments": [],
+    "date": "Apr 11, 2018",
+    "replies": [
+      {
+        "id": "10156564442473912",
+        "poster": "Cecile Monina",
+        "poster_url": "/cecile.monina?__tn__=R",
+        "text": "That's also assuming Cambridge analytica was the only one that did this.",
+        "attachments": [],
+        "date": "Apr 11, 2018",
+        "replyto": "10156564420753912"
+      },
+      {
+        "id": "10156564501378912",
+        "poster": "Roy Tang",
+        "poster_url": "/stephen.roy.tang?__tn__=R",
+        "text": "Are you guys saying it's still possible my friends aren't cool?",
+        "attachments": [],
+        "date": "Apr 11, 2018",
+        "replyto": "10156564420753912"
+      },
+      {
+        "id": "10156564511838912",
+        "poster": "Harold Wong",
+        "poster_url": "/yellow.pioneer?__tn__=R",
+        "text": "All those \"what is my (insert fandom here) name/faction?\" websites are also collecting your data.",
+        "attachments": [],
+        "date": "Apr 11, 2018",
+        "replyto": "10156564420753912"
+      }
+    ]
+  }
+}
