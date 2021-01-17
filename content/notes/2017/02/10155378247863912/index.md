@@ -10,6 +10,7 @@ tags:
 ---
 
 Arrival spoiler-free review:
+
 - first half a bit boring
 - Forrest Whitaker is hard to understand
 - not sure if it was just the cinema I was at, but the audio and the lighting seemed quite bad at some points

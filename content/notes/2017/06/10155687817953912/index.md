@@ -10,6 +10,7 @@ tags:
 ---
 
 Wonder Woman spoiler-free review:
+
 - First act was best, second act was okay, third act/resolution a bit weak (and really kind of super obvious/predictable)
 - The parallels with the first Captain American movie, especially in the 3rd act, are uncanny
 - great battle/stunt choreography, especially in the first act

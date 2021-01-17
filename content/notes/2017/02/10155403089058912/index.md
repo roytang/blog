@@ -7,4 +7,10 @@ syndicated:
 tags: []
 ---
 
-Eksensa sa taxi: Me: Ma, may pambayad ka? Wala na pala akong barya Ma: Ay, may utang nga pala ako sa yong P100, eto o. Me: So, binayaran mo yung utang mo para eto yung ipapambayad ko sa taxi?  Good job!
+Eksensa sa taxi: 
+
+Me: Ma, may pambayad ka? Wala na pala akong barya 
+
+Ma: Ay, may utang nga pala ako sa yong P100, eto o. 
+
+Me: So, binayaran mo yung utang mo para eto yung ipapambayad ko sa taxi?  Good job!

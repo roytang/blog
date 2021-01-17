@@ -1,0 +1,46 @@
+{
+  "id": "764eee49-a84f-4f4c-9972-90986bf6f730",
+  "name": "Dennis Lopez",
+  "url": "https://www.facebook.com/digolo",
+  "text": "What&#x27;s the physics behind those bombers, though?",
+  "date": "2017-12-27 00:00:03",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156259186658912#10156293877343912",
+  "source_obj": {
+    "id": "10156293877343912",
+    "poster": "Dennis Lopez",
+    "poster_url": "/digolo?refid=52&_ft_=mf_story_key.10156259186658912%3Atop_level_post_id.10156259186658912%3Atl_objid.10156259186658912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10156259186658912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "What's the physics behind those bombers, though?",
+    "attachments": [],
+    "date": "Dec 27, 2017",
+    "replies": [
+      {
+        "id": "10156293890498912",
+        "poster": "Jvee Veneracion",
+        "poster_url": "/jvee.veneracion?__tn__=R",
+        "text": "i'm thinking momentum probably. there's artificial gravity inside the bomber so it was enough for the bombs to \"fall\". once past some sort of force field, it was just a matter of momentum (otherwise, they would've accelerated more outside the ship).",
+        "attachments": [],
+        "date": "Dec 27, 2017",
+        "replyto": "10156293877343912"
+      },
+      {
+        "id": "10156293891953912",
+        "poster": "David Ramirez",
+        "poster_url": "/profile.php?id=827533990&__tn__=R",
+        "text": "The other movies sort of imply that the shields mostly stop blaster bolts, except in ROTJ, when a whole lot of ships have to turn because the shield around the Death Star is still operational, and in Rogue One, when fighters crash into the gate.    So if I had to make some scifi reasoning for how the bombers work, I'd say that they're loaded with dumb explosives that have a casing that can just go through ray shielding, and the Dreadnaughts may have little armor and be fully dependent on shields.     Or it could be a small technological shift. Like, those dreadnaughts may take years to build, while the bombs are a new innovation that shield tech hasn't caught up with yet (like how carriers and fighter bombers made battleships obsolete).    Ohh, if you meant them falling as if there's gravity, yeah, JVee's explanation would be it--they're launched out by the bomber's artificial gravity, then just keep going.",
+        "attachments": [],
+        "date": "Dec 27, 2017",
+        "replyto": "10156293877343912"
+      },
+      {
+        "id": "10156295274348912",
+        "poster": "Daniel Rey Cimafranca",
+        "poster_url": "/danielrey.cimafranca?__tn__=R",
+        "text": "Yeah that b-wing knock-off was terrible.  You don't drop bombs in space.  Apparently as the First Order gets more high-tech the rebels get more low-tech.",
+        "attachments": [],
+        "date": "Dec 28, 2017",
+        "replyto": "10156293877343912"
+      }
+    ]
+  }
+}

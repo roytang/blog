@@ -12,6 +12,7 @@ tags:
 Right. I watched Logan yesterday.
 
 LOGAN Spoiler-Free review:
+
 - great movie. Best of the Wolverine trilogy, easily
 - the tone is very different from any previous X-men movies. I'd say it's closer to something like John Wick
 - good send-off for Jackman and Stewart, since this is their last movie in these roles. Stewart finally given more acting to do than just sitting in a chair being bald and pretending to think at you

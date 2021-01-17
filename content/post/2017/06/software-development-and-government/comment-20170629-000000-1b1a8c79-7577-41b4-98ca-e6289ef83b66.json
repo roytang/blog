@@ -1,0 +1,28 @@
+{
+  "id": "1b1a8c79-7577-41b4-98ca-e6289ef83b66",
+  "name": "Jaime L. Garcia",
+  "url": "https://www.facebook.com/jaime.l.garcia.779",
+  "text": "I like the metaphor, but one caveat with refactoring is it&#x27;s usually done prior to code being launched / deployed as part of a change. When you&#x27;re restructuring the government, it&#x27;s more like a patch than it is refactoring per se - and I think there lies the rub of the argument why the government doesn&#x27;t become better overnight despite the problems we can see.    To be fair, government has had to live with a far, far older system than what&#x27;s been done with computers. Since it&#x27;s also &quot;deployed to production&quot;, you can&#x27;t just easily change things either without causing an uproar. After all, many legacy systems far younger than the birth of formal &quot;democratic&quot; government shun an upgrade because of costs to implement, uncertainty of gains involved, and risks of upsetting the current userbase&#x27;s habits (change management), and refusal of authority figures not really in the know to effect such a change anyway.",
+  "date": "2017-06-29 00:00:00",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155804204753912#10155804286308912",
+  "source_obj": {
+    "id": "10155804286308912",
+    "poster": "Jaime L. Garcia",
+    "poster_url": "/jaime.l.garcia.779?refid=52&_ft_=mf_story_key.10155804204753912%3Atop_level_post_id.10155804204753912%3Atl_objid.10155804204753912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10155804204753912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "I like the metaphor, but one caveat with refactoring is it's usually done prior to code being launched / deployed as part of a change. When you're restructuring the government, it's more like a patch than it is refactoring per se - and I think there lies the rub of the argument why the government doesn't become better overnight despite the problems we can see.    To be fair, government has had to live with a far, far older system than what's been done with computers. Since it's also \"deployed to production\", you can't just easily change things either without causing an uproar. After all, many legacy systems far younger than the birth of formal \"democratic\" government shun an upgrade because of costs to implement, uncertainty of gains involved, and risks of upsetting the current userbase's habits (change management), and refusal of authority figures not really in the know to effect such a change anyway.",
+    "attachments": [],
+    "date": "Jun 29, 2017",
+    "replies": [
+      {
+        "id": "10155804293628912",
+        "poster": "Jaime L. Garcia",
+        "poster_url": "/jaime.l.garcia.779?__tn__=R",
+        "text": "Clarif: I put quotes on Democratic not as mockery, but as a catch-all term for most \"Western\" governments that use some sort of voting system to elect officials, whether representative,  federalized, parliament-base d, or what not.",
+        "attachments": [],
+        "date": "Jun 29, 2017",
+        "replyto": "10155804286308912"
+      }
+    ]
+  }
+}

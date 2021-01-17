@@ -1,0 +1,64 @@
+{
+  "id": "33c13b35-2b13-473d-b3a1-52c359d79440",
+  "name": "Clifton James Sawit",
+  "url": "https://www.facebook.com/multipleegos",
+  "text": "Uh, disassembly is easy depending on the model. I have an old Imperator that I fixed with some wd40, but it took opening the plastic case",
+  "date": "2017-02-19 00:00:07",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155380451508912#10155380794388912",
+  "source_obj": {
+    "id": "10155380794388912",
+    "poster": "Clifton James Sawit",
+    "poster_url": "/multipleegos?refid=52&_ft_=mf_story_key.10155380451508912%3Atop_level_post_id.10155380451508912%3Atl_objid.10155380451508912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10155380451508912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "Uh, disassembly is easy depending on the model. I have an old Imperator that I fixed with some wd40, but it took opening the plastic case",
+    "attachments": [],
+    "date": "Feb 19, 2017",
+    "replies": [
+      {
+        "id": "10155380795328912",
+        "poster": "Clifton James Sawit",
+        "poster_url": "/multipleegos?__tn__=R",
+        "text": "Same problem, unintentional double click",
+        "attachments": [],
+        "date": "Feb 19, 2017",
+        "replyto": "10155380794388912"
+      },
+      {
+        "id": "10155380831158912",
+        "poster": "Roy Tang",
+        "poster_url": "/stephen.roy.tang?__tn__=R",
+        "text": "If it's anything like what Ritchie describes, I can't do it  :p",
+        "attachments": [],
+        "date": "Feb 19, 2017",
+        "replyto": "10155380794388912"
+      },
+      {
+        "id": "10155380844138912",
+        "poster": "Clifton James Sawit",
+        "poster_url": "/multipleegos?__tn__=R",
+        "text": "It isn't, you just open the mouse up, find the switch corresponding to the malfunctioning button, spray WD40 into it and get into it with a brush. Check if the problem is solved before closing it back up.",
+        "attachments": [],
+        "date": "Feb 19, 2017",
+        "replyto": "10155380794388912"
+      },
+      {
+        "id": "10155380870203912",
+        "poster": "Ritchie Tiongson",
+        "poster_url": "/ritchie.tiongson?__tn__=R",
+        "text": "Note: The WD40 (lubricant) fix works if the reason you're double clicking isn't so much as the spring getting depressed/ worn, but rather the switch (TINY button/spur which depresses said spring) snagging on the mechanism casing (again making for slower springbacks which the PC interprests as a second click). If the lubricant works you won't have to fiddle with the spring.",
+        "attachments": [],
+        "date": "Feb 19, 2017",
+        "replyto": "10155380794388912"
+      },
+      {
+        "id": "10155380870608912",
+        "poster": "Ritchie Tiongson",
+        "poster_url": "/ritchie.tiongson?__tn__=R",
+        "text": "If lube doesn't work, then yeah spring issues",
+        "attachments": [],
+        "date": "Feb 19, 2017",
+        "replyto": "10155380794388912"
+      }
+    ]
+  }
+}

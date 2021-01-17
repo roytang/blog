@@ -1,0 +1,37 @@
+{
+  "id": "c7c5eadf-0b13-44a3-8ead-9eb511a520be",
+  "name": "Rolando Bernabe Adriano Tribo",
+  "url": "https://www.facebook.com/chinotribo",
+  "text": "Have you tried plugging that mouse to a different computer? Sometimes it&#x27;s not a hardware problem.",
+  "date": "2017-02-19 00:00:06",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155380451508912#10155380764198912",
+  "source_obj": {
+    "id": "10155380764198912",
+    "poster": "Rolando Bernabe Adriano Tribo",
+    "poster_url": "/chinotribo?refid=52&_ft_=mf_story_key.10155380451508912%3Atop_level_post_id.10155380451508912%3Atl_objid.10155380451508912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10155380451508912%3Astory_location.4%3Athid.632418911&__tn__=R",
+    "text": "Have you tried plugging that mouse to a different computer? Sometimes it's not a hardware problem.",
+    "attachments": [],
+    "date": "Feb 19, 2017",
+    "replies": [
+      {
+        "id": "10155380765028912",
+        "poster": "Roy Tang",
+        "poster_url": "/stephen.roy.tang?__tn__=R",
+        "text": "Not yet. I've swapped in a different mouse though, and this mouse works fine (except it's too tiny for my hands)",
+        "attachments": [],
+        "date": "Feb 19, 2017",
+        "replyto": "10155380764198912"
+      },
+      {
+        "id": "10155380785823912",
+        "poster": "Rolando Bernabe Adriano Tribo",
+        "poster_url": "/chinotribo?__tn__=R",
+        "text": "Also, might be purely coincidence, but my mom's laptop's Logitech B100 mouse had a bad case of this double-click issue. I just cleaned it externally with a brush (including in between the cracks and spaces) and it seemed to have made it better / fixed it completely.    I would also check if the mouse is still under any store / manufacturer warranty and return it for repairs / replacement, if possible.",
+        "attachments": [],
+        "date": "Feb 19, 2017",
+        "replyto": "10155380764198912"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "e918ce0e-adc3-411c-91cf-7454dcb6c1d1",
+  "name": "Jack Ngan",
+  "url": "https://www.facebook.com/jackngan",
+  "text": "Can I gift this game from my US account to my Asia account? Just wondering...",
+  "date": "2017-03-18 00:00:02",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155454547838912#10155455057073912",
+  "source_obj": {
+    "id": "10155455057073912",
+    "poster": "Jack Ngan",
+    "poster_url": "/jackngan?refid=52&_ft_=mf_story_key.10155454547838912%3Atop_level_post_id.10155454547838912%3Atl_objid.10155454547838912%3Acontent_owner_id_new.632418911%3Athrowback_story_fbid.10155454547838912%3Aphoto_id.10155454547738912%3Astory_location.4%3Astory_attachment_style.photo%3Athid.632418911&__tn__=R",
+    "text": "Can I gift this game from my US account to my Asia account? Just wondering...",
+    "attachments": [],
+    "date": "Mar 18, 2017",
+    "replies": [
+      {
+        "id": "10155455106923912",
+        "poster": "Ritchie Tiongson",
+        "poster_url": "/ritchie.tiongson?__tn__=R",
+        "text": "Steam disallowed cross-regional gifting, because they alter their prices according to the standard-of-liv ing values of said regions. This is to keep people in nations like the US from abusing stores like Russia where games are priced much much cheaper. (Yes, it's disallowed even if the game is purchased in a pricier store and wanting to be gifted to a cheaper region)",
+        "attachments": [],
+        "date": "Mar 18, 2017",
+        "replyto": "10155455057073912"
+      },
+      {
+        "id": "10155455107323912",
+        "poster": "Ritchie Tiongson",
+        "poster_url": "/ritchie.tiongson?__tn__=R",
+        "text": "Just paraphrasing their reply to me when I asked the same question back in 2015",
+        "attachments": [],
+        "date": "Mar 18, 2017",
+        "replyto": "10155455057073912"
+      },
+      {
+        "id": "10155455238888912",
+        "poster": "Jack Ngan",
+        "poster_url": "/jackngan?__tn__=R",
+        "text": "I can actually buy from Amazon, then use the code on my PH account. Did that twice with MG: Revengeance and Castlevania Lords of Shadow 2. But I was in US back then. Scared to risk trying it in the PH.",
+        "attachments": [],
+        "date": "Mar 18, 2017",
+        "replyto": "10155455057073912"
+      },
+      {
+        "id": "10155455265098912",
+        "poster": "Roy Tang",
+        "poster_url": "/stephen.roy.tang?__tn__=R",
+        "text": "Region lock settings depend on the publisher. And it's set per game. There should be an indicator on the Steam store page if there are region lock restrictions on a game. See the first image in this link:  https://support.steampowered.com/kb_article.php?ref=1266-QFZC-2141",
+        "attachments": [],
+        "date": "Mar 18, 2017",
+        "replyto": "10155455057073912"
+      }
+    ]
+  }
+}
