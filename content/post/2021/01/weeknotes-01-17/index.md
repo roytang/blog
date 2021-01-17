@@ -1,6 +1,11 @@
 ---
-date: 2021-01-17T14:35:03+08:00
+date: 2021-01-17 06:35:03
 slug: weeknotes-2021-01-17
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105569889800440801
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1350707259903414272/
 tags:
 - weeknotes
 title: Weeknotes 2021-01-17 There May Or May Not Be Sea Shanties
