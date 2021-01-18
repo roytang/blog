@@ -8,6 +8,7 @@ tags: []
 ---
 
 In addition to improving education on Martial Law history, maybe we should also seriously consider adding the following to the high school curriculum:
+
 - basic logic and reasoning
 - different types of fallacies
 - how to do basic research
