@@ -10,5 +10,6 @@ source: delicious
 tags:
 - cool
 - games
+- broken-link
 title: Guess the Google
 ---

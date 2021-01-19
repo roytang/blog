@@ -7,8 +7,10 @@ link:
   url: https://nvdk.co/2018/11/28/entrepreneurship/building-a-company-is-fucking-hard/
 slug: https-nvdk-co-2018-11-28-entrepreneurship-building-a-company-is-fucking-hard
 source: pocket
-title: https://nvdk.co/2018/11/28/entrepreneurship/building-a-company-is-fucking-hard/
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1067796876425117696/
+tags:
+- broken-link
+title: https://nvdk.co/2018/11/28/entrepreneurship/building-a-company-is-fucking-hard/
 ---

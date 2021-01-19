@@ -9,6 +9,7 @@ slug: waiter-rant
 source: delicious
 tags:
 - blogs
+- broken-link
 title: Waiter Rant
 ---
 

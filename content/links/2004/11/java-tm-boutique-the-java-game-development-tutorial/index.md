@@ -10,5 +10,6 @@ source: delicious
 tags:
 - gamedev
 - java
+- broken-link
 title: Java(TM) Boutique - The Java Game Development Tutorial
 ---

@@ -10,5 +10,6 @@ source: delicious
 tags:
 - games
 - web
+- broken-link
 title: The Kingdom of Loathing
 ---

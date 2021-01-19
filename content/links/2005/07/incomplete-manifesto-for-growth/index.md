@@ -10,5 +10,6 @@ source: delicious
 tags:
 - lifehacks
 - articles
+- broken-link
 title: Incomplete Manifesto for Growth
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2019-01-31 11:46:44-06:00
+date: 2019-01-31 17:46:44
 link:
   source: pocket
   source_url: https://getpocket.com
@@ -7,8 +7,10 @@ link:
   url: https://mcsweeneys.net/articles/nihilist-dad-jokes-part-2
 slug: nihilist-dad-jokes-part-2
 source: pocket
-title: Nihilist Dad Jokes, Part 2
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1091036308640858114/
+tags:
+- broken-link
+title: Nihilist Dad Jokes, Part 2
 ---

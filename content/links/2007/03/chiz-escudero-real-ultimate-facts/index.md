@@ -9,5 +9,6 @@ slug: chiz-escudero-real-ultimate-facts
 source: delicious
 tags:
 - politics
+- broken-link
 title: Chiz Escudero Real Ultimate Facts!!!
 ---

@@ -12,5 +12,6 @@ tags:
 - tutorials
 - scala
 - for:@twitter
+- broken-link
 title: 'Chapter 1. Zero to Sixty: Introducing Scala'
 ---

@@ -10,6 +10,7 @@ slug: yawgatog-com-resources-magic-the-gathering-comprehensive-rules-changes-fro
 source: delicious
 tags:
 - magicthegathering
+- broken-link
 title: 'Yawgatog.com - Resources - Magic: The Gathering Comprehensive Rules Changes
   from...'
 ---

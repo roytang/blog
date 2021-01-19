@@ -11,6 +11,7 @@ tags:
 - games
 - industry
 - screenshots
+- broken-link
 title: 'Kotaku - Work and Play: A Peek Inside the Lives of Gaming''s Greatest'
 ---
 

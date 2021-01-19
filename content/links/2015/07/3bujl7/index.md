@@ -3,8 +3,8 @@ date: 2015-07-02 15:07:55
 link:
   source: reddit
   source_url: https://reddit.com/r/tales/comments/3bujl7/japan_expo_zestiria_collectors_edition_revealed/
-  text: "Japan Expo: Zestiria Collector\u2019s Edition revealed, Pre-order bonus,
-    Symphonia for PC and more!"
+  text: 'Japan Expo: Zestiria Collector’s Edition revealed, Pre-order bonus, Symphonia
+    for PC and more!'
   url: http://blog.talesofgame.com/en/japan-expo-zestiria-collectors-edition-revealed-pre-order-bonus-symphonia-for-pc-and-more/
 source: reddit
 syndicated:
@@ -12,4 +12,5 @@ syndicated:
   url: https://reddit.com/r/tales/comments/3bujl7/japan_expo_zestiria_collectors_edition_revealed/
 tags:
 - tales
+- broken-link
 ---

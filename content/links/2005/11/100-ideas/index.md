@@ -9,5 +9,6 @@ slug: 100-ideas
 source: delicious
 tags:
 - lifehacks
+- broken-link
 title: 100 ideas
 ---

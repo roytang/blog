@@ -10,5 +10,6 @@ source: delicious
 tags:
 - software-development
 - contest
+- broken-link
 title: Contest Details | Extend Firefox 3.5
 ---

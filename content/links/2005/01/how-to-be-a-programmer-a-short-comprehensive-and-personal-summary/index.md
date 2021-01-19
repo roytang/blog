@@ -10,5 +10,6 @@ source: delicious
 tags:
 - articles
 - software-development
+- broken-link
 title: 'How to be a Programmer: A Short, Comprehensive, and Personal Summary'
 ---

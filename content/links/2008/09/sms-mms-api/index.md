@@ -12,6 +12,7 @@ tags:
 - sms
 - api
 - software-development
+- broken-link
 title: SMS/MMS API
 ---
 

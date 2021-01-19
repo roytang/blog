@@ -10,5 +10,6 @@ source: delicious
 tags:
 - cool
 - videos
+- broken-link
 title: 'MAKE: Blog: RuBot II - The Rubik''s cube solving robot'
 ---

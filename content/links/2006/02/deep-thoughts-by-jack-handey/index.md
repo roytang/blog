@@ -10,5 +10,6 @@ source: delicious
 tags:
 - funny
 - quotes
+- broken-link
 title: Deep Thoughts by Jack Handey
 ---

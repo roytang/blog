@@ -9,6 +9,7 @@ slug: simple-search-gatherer-magic-the-gathering
 source: delicious
 tags:
 - magicthegathering
+- broken-link
 title: 'Simple Search - Gatherer - Magic: The Gathering'
 ---
 

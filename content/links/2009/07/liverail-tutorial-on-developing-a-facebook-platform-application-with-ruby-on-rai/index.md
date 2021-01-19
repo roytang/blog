@@ -12,6 +12,7 @@ tags:
 - programming
 - howto
 - rubyonrails
+- broken-link
 title: Liverail Tutorial on developing a Facebook platform application with Ruby On
   Rai...
 ---

@@ -9,6 +9,7 @@ slug: do-it-now-by-steve-pavlina
 source: delicious
 tags:
 - gamedev
+- broken-link
 title: Do It Now by Steve Pavlina
 ---
 

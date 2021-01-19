@@ -9,5 +9,6 @@ slug: only-the-best-magic-card-trick-in-the-world
 source: delicious
 tags:
 - cool
+- broken-link
 title: Only the best magic card trick in the world!
 ---

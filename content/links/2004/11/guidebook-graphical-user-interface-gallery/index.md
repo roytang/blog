@@ -9,6 +9,7 @@ slug: guidebook-graphical-user-interface-gallery
 source: delicious
 tags:
 - computers
+- broken-link
 title: 'GUIdebook: Graphical User Interface gallery'
 ---
 

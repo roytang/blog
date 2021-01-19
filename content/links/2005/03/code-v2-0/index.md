@@ -10,6 +10,7 @@ source: delicious
 tags:
 - books
 - politics
+- broken-link
 title: Code v2.0
 ---
 

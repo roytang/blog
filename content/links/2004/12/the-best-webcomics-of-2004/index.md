@@ -9,5 +9,6 @@ slug: the-best-webcomics-of-2004
 source: delicious
 tags:
 - webcomics
+- broken-link
 title: The Best Webcomics of 2004
 ---

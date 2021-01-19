@@ -10,5 +10,6 @@ source: delicious
 tags:
 - games
 - javascript
+- broken-link
 title: Lemmings! - Choose game
 ---

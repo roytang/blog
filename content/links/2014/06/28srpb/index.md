@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/PS3/comments/28srpb/the_drop_new_playstation_games_for_6242014/
 tags:
 - ps3
+- gaming
 ---

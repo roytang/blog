@@ -10,5 +10,6 @@ source: delicious
 tags:
 - rss
 - tools
+- broken-link
 title: So What is "Feed to JavaScript"?
 ---

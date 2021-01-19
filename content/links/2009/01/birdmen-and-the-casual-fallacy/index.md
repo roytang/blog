@@ -11,5 +11,6 @@ tags:
 - games
 - articles
 - nintendo
+- broken-link
 title: Birdmen and the Casual Fallacy
 ---

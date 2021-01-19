@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/pics/comments/ew0no/murder_victim_got_a_picture_of_his_assassin_in/
 tags:
 - pics
+- broken-link
 ---

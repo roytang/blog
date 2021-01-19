@@ -9,5 +9,6 @@ slug: picnik-photo-editing-webapp
 source: delicious
 tags:
 - flex
+- broken-link
 title: Picnik - Photo Editing Webapp
 ---

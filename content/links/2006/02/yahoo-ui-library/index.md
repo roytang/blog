@@ -10,5 +10,6 @@ source: delicious
 tags:
 - web-development
 - javascript
+- broken-link
 title: Yahoo! UI Library
 ---

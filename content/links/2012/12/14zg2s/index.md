@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/Games/comments/14zg2s/why_australian_game_prices_will_not_drop/
 tags:
 - gaming
+- broken-link
 ---

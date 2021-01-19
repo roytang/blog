@@ -7,5 +7,7 @@ link:
   url: http://oli.cmu.edu/courses/free-open/logic-proofs-course-details/
 slug: logic-proofs-open-learning-initiative
 source: pocket
+tags:
+- broken-link
 title: Logic & Proofs | Open Learning Initiative
 ---

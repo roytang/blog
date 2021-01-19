@@ -12,4 +12,5 @@ syndicated:
   url: https://reddit.com/r/Philippines/comments/51qaso/proadmin_troll_groups_are_promoting_targetted/
 tags:
 - philippines
+- broken-link
 ---

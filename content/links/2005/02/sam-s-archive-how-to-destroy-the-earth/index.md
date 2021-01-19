@@ -9,5 +9,6 @@ slug: sam-s-archive-how-to-destroy-the-earth
 source: delicious
 tags:
 - cool
+- broken-link
 title: 'Sam''s Archive: How To Destroy The Earth'
 ---

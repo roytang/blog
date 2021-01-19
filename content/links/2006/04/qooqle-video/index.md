@@ -9,5 +9,6 @@ slug: qooqle-video
 source: delicious
 tags:
 - videos
+- broken-link
 title: Qooqle Video
 ---

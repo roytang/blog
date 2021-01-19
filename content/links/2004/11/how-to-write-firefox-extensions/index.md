@@ -10,5 +10,6 @@ source: delicious
 tags:
 - coding-tutorials
 - firefox
+- broken-link
 title: How to write Firefox extensions
 ---

@@ -11,5 +11,6 @@ tags:
 - blender
 - graphics
 - thingstolearn
+- broken-link
 title: Use Blender to Create Eye-popping 3D Graphics
 ---

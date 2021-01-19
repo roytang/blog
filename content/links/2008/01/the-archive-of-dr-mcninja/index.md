@@ -9,5 +9,6 @@ slug: the-archive-of-dr-mcninja
 source: delicious
 tags:
 - comics
+- broken-link
 title: The Archive of Dr. McNinja
 ---

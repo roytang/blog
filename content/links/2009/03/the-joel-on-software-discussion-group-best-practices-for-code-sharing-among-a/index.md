@@ -10,6 +10,7 @@ slug: the-joel-on-software-discussion-group-best-practices-for-code-sharing-amon
 source: delicious
 tags:
 - software-development
+- broken-link
 title: The Joel on Software Discussion Group - Best Practices for code sharing among
   a ...
 ---

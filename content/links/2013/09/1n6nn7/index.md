@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/vita/comments/1n6nn7/valhalla_knights_3_on_ps_vita_release_date/
 tags:
 - vita
+- gaming
 ---

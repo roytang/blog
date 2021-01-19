@@ -9,5 +9,6 @@ slug: ascii-by-jason-scott-the-best-and-the-interesting
 source: delicious
 tags:
 - psychology
+- broken-link
 title: 'ASCII by Jason Scott: The Best and the Interesting'
 ---

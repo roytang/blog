@@ -9,5 +9,6 @@ slug: a-gamers-manifesto
 source: delicious
 tags:
 - games
+- broken-link
 title: A Gamers' Manifesto
 ---

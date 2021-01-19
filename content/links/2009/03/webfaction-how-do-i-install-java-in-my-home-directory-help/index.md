@@ -10,5 +10,6 @@ source: delicious
 tags:
 - web-development
 - webfaction
+- broken-link
 title: Webfaction - How do I install Java in my home directory? Help
 ---

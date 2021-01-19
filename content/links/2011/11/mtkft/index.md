@@ -11,4 +11,6 @@ syndicated:
   url: https://reddit.com/r/skyrim/comments/mtkft/guards_need_to_relax_too_though_im_not_sure_how/
 tags:
 - skyrim
+- gaming
+- broken-link
 ---

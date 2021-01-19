@@ -9,5 +9,6 @@ slug: planet-books-600-on-line-collections
 source: delicious
 tags:
 - books
+- broken-link
 title: '...Planet Books: 600+ On-line Collections'
 ---

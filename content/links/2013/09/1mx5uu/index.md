@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/PS3/comments/1mx5uu/the_drop_new_playstation_releases_for_september/
 tags:
 - ps3
+- gaming
 ---

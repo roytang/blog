@@ -10,5 +10,6 @@ source: delicious
 tags:
 - lifehacks
 - video
+- broken-link
 title: 'Video - Earl Nightingale: The Strangest Secret | Creating a Better Life'
 ---

@@ -9,5 +9,6 @@ slug: djangozen-find-stuff-for-django
 source: delicious
 tags:
 - django
+- broken-link
 title: djangozen | find stuff for django
 ---

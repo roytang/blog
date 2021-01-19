@@ -10,6 +10,7 @@ source: delicious
 tags:
 - wordpress
 - usb
+- broken-link
 title: WordPress - USB
 ---
 

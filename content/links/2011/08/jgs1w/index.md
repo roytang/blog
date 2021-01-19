@@ -15,4 +15,5 @@ syndicated:
   url: https://twitter.com/roytang/statuses/102022658895523840/
 tags:
 - gaming
+- broken-link
 ---

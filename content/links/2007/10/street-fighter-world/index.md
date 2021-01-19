@@ -9,6 +9,7 @@ slug: street-fighter-world
 source: delicious
 tags:
 - games
+- broken-link
 title: STREET FIGHTER WORLD
 ---
 

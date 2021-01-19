@@ -10,5 +10,6 @@ source: delicious
 tags:
 - comics
 - manga
+- broken-link
 title: Hosted Naruto Manga by ThienZ
 ---

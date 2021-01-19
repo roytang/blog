@@ -12,4 +12,5 @@ syndicated:
   url: https://reddit.com/r/PS4/comments/2dt259/na_the_drop_new_playstation_games_for_8192014/
 tags:
 - ps4
+- gaming
 ---

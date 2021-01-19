@@ -10,5 +10,6 @@ source: delicious
 tags:
 - articles
 - entrepreneurship
+- broken-link
 title: Anytime is the Right Time to Start a Company - Blue Flavor
 ---

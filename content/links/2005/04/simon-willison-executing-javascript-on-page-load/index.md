@@ -10,5 +10,6 @@ source: delicious
 tags:
 - coding-tutorials
 - javascript
+- broken-link
 title: 'Simon Willison: Executing JavaScript on page load'
 ---

@@ -10,6 +10,7 @@ source: delicious
 tags:
 - freeware
 - games
+- broken-link
 title: Hikoza'n-CHI X - Games
 ---
 

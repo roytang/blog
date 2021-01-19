@@ -1,5 +1,5 @@
 ---
-date: 2019-05-31 10:40:48-05:00
+date: 2019-05-31 15:40:48
 link:
   source: pocket
   source_url: https://getpocket.com
@@ -11,4 +11,6 @@ syndicated:
   url: https://extraordinaryroutines.com/musings/30-incomplete-lessons
 - type: twitter
   url: https://twitter.com/roytang/statuses/1134488761956524034/
+tags:
+- broken-link
 ---

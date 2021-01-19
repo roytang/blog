@@ -10,5 +10,6 @@ source: delicious
 tags:
 - delicious
 - tagging
+- broken-link
 title: 'Getting My Bearings: The best of del.icio.us'
 ---

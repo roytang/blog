@@ -11,5 +11,6 @@ tags:
 - articles
 - productivity
 - software
+- broken-link
 title: 'Rands In Repose: Taking Time to Think'
 ---

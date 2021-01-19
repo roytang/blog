@@ -9,5 +9,6 @@ slug: 10k-coding-contest
 source: delicious
 tags:
 - ___private
+- broken-link
 title: 10k coding contest
 ---

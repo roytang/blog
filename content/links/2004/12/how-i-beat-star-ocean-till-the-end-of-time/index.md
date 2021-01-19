@@ -9,6 +9,7 @@ slug: how-i-beat-star-ocean-till-the-end-of-time
 source: delicious
 tags:
 - games
+- broken-link
 title: How I beat Star Ocean Till the End of Time
 ---
 

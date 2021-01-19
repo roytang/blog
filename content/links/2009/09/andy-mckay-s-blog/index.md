@@ -11,5 +11,6 @@ tags:
 - web
 - django
 - python
+- broken-link
 title: Andy McKay's blog
 ---

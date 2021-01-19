@@ -7,5 +7,7 @@ link:
   url: http://jonbischke.com/2009/11/13/a-dozen-of-the-best-start-up-pitches-on-the-web/
 slug: a-dozen-of-the-best-start-up-pitches-on-the-web-jonbischke-com
 source: delicious
+tags:
+- broken-link
 title: A dozen of the best start-up pitches on the Web | JonBischke.com
 ---

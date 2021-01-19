@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/PS4/comments/21qljl/sony_over_100_games_still_coming_to_playstation_4/
 tags:
 - ps4
+- gaming
 ---

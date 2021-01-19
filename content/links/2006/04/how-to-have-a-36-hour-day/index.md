@@ -9,5 +9,6 @@ slug: how-to-have-a-36-hour-day
 source: delicious
 tags:
 - lifehacks
+- broken-link
 title: How to Have a 36 Hour Day
 ---

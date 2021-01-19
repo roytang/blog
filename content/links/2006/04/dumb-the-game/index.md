@@ -10,5 +10,6 @@ source: delicious
 tags:
 - games
 - puzzles
+- broken-link
 title: 'Dumb: The Game'
 ---

@@ -9,5 +9,6 @@ slug: japanese-wallpaper-site
 source: delicious
 tags:
 - wallpapers
+- broken-link
 title: Japanese Wallpaper Site
 ---

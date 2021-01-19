@@ -12,5 +12,6 @@ tags:
 - howto
 - linux
 - usb
+- broken-link
 title: 'How-to: Installing Ubuntu Linux on a usb pendrive | Debian/Ubuntu Tips & Tricks'
 ---

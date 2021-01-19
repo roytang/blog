@@ -9,5 +9,6 @@ slug: star-ocean-3-invention-calc
 source: delicious
 tags:
 - games
+- broken-link
 title: Star Ocean 3 Invention Calc
 ---

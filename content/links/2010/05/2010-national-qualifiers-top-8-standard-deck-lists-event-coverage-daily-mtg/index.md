@@ -10,6 +10,7 @@ slug: 2010-national-qualifiers-top-8-standard-deck-lists-event-coverage-daily-mt
 source: delicious
 tags:
 - mtg
+- broken-link
 title: '2010 National Qualifiers: Top 8 Standard Deck Lists : Event Coverage : Daily
   MTG...'
 ---

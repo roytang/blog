@@ -10,5 +10,6 @@ source: delicious
 tags:
 - linux
 - howto
+- broken-link
 title: 'Tectonic: Howto: Ultimate Ubuntu eye-candy with Xgl and Compiz'
 ---

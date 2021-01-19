@@ -9,6 +9,7 @@ slug: the-avenger-s-front-page-ethics-code-for-alt-revenge
 source: delicious
 tags:
 - funny
+- broken-link
 title: 'the avenger''s front page: ethics code for alt.revenge'
 ---
 

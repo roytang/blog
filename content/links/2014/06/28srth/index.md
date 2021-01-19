@@ -12,4 +12,5 @@ syndicated:
   url: https://reddit.com/r/vita/comments/28srth/the_drop_new_playstation_games_for_6242014/
 tags:
 - vita
+- gaming
 ---

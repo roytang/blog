@@ -12,5 +12,6 @@ tags:
 - funny
 - video
 - superheroes
+- broken-link
 title: Dr. Horrible
 ---

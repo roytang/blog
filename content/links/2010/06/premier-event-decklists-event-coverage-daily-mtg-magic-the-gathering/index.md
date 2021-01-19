@@ -9,5 +9,6 @@ slug: premier-event-decklists-event-coverage-daily-mtg-magic-the-gathering
 source: delicious
 tags:
 - mtg
+- broken-link
 title: 'Premier Event Decklists : Event Coverage : Daily MTG : Magic: The Gathering'
 ---

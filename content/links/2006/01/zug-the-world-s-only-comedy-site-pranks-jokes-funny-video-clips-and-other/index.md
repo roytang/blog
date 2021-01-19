@@ -11,6 +11,7 @@ source: delicious
 tags:
 - blogs
 - funny
+- broken-link
 title: ZUG - The World's Only Comedy Site - Pranks, Jokes, Funny Video Clips, and
   Other...
 ---

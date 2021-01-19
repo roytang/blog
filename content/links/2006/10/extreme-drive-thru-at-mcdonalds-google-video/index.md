@@ -10,5 +10,6 @@ source: delicious
 tags:
 - cool
 - videos
+- broken-link
 title: Extreme Drive Thru at McDonalds - Google Video
 ---

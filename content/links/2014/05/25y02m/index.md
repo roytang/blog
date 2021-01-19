@@ -12,4 +12,5 @@ syndicated:
   url: https://reddit.com/r/PS3/comments/25y02m/the_drop_new_playstation_games_for_5202014/
 tags:
 - ps3
+- gaming
 ---

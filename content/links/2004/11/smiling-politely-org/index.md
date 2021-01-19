@@ -9,5 +9,6 @@ slug: smiling-politely-org
 source: delicious
 tags:
 - blogs
+- broken-link
 title: :| smiling-politely.org
 ---

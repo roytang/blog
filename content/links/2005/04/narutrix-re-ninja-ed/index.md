@@ -10,6 +10,7 @@ source: delicious
 tags:
 - cool
 - anime
+- broken-link
 title: Narutrix Re-ninja'ed
 ---
 

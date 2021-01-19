@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/vita/comments/1mhsw6/the_drop_week_of_september_16th_2013_new_releases/
 tags:
 - vita
+- gaming
 ---

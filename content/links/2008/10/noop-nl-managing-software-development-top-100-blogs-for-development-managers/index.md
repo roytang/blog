@@ -11,6 +11,7 @@ source: delicious
 tags:
 - blogs
 - programming
+- broken-link
 title: 'NOOP.NL: Managing Software Development: Top 100 Blogs for Development Managers
   (...'
 ---

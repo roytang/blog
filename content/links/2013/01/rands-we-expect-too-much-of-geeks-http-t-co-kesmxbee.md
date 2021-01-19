@@ -7,5 +7,7 @@ link:
   url: http://threads2.scripting.com/2013/january/weExpectTooMuchOfGeeks
 slug: rands-we-expect-too-much-of-geeks-http-t-co-kesmxbee
 source: pocket
+tags:
+- broken-link
 title: 'rands: We expect too much of geeks: http://t.co/kESMxbEe'
 ---

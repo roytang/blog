@@ -7,5 +7,7 @@ link:
   url: http://fagblogg.mesan.no/how-bad-is-smelly-code/
 slug: how-bad-is-smelly-code-mesan
 source: pocket
+tags:
+- broken-link
 title: How bad is smelly code? | Mesan
 ---

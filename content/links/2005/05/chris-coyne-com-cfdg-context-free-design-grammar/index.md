@@ -9,5 +9,6 @@ slug: chris-coyne-com-cfdg-context-free-design-grammar
 source: delicious
 tags:
 - cool
+- broken-link
 title: Chris Coyne.com CFDG - Context Free Design Grammar
 ---

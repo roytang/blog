@@ -7,5 +7,7 @@ link:
   url: https://support.azeuscare.co.uk/browse/BBC-4267
 slug: bbc-4267-july-31-payment-run-discrepancies-azeus-systems-limited
 source: pocket
+tags:
+- broken-link
 title: '[BBC-4267] JULY 31 PAYMENT RUN DISCREPANCIES - Azeus Systems Limited'
 ---

@@ -12,4 +12,5 @@ syndicated:
   url: https://reddit.com/r/vita/comments/27p4e2/best_of_e3_2013_sale_20_games_on_sale_starting/
 tags:
 - vita
+- gaming
 ---

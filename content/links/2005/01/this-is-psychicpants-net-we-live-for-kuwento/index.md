@@ -10,5 +10,6 @@ source: delicious
 tags:
 - blogs
 - pinoy
+- broken-link
 title: 'this is psychicpants.net :: we live for kuwento'
 ---

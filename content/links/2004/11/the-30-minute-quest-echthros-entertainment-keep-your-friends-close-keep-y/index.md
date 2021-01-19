@@ -11,6 +11,7 @@ source: delicious
 tags:
 - games
 - web
+- broken-link
 title: 'The 30-Minute Quest :: Echthros Entertainment :: keep your friends close.
   keep y...'
 ---

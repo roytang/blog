@@ -7,5 +7,7 @@ link:
   url: http://www.randsinrepose.com/archives/2013/10/02/the_codename_rules.html
 slug: the-codename-rules-rands-in-repose
 source: pocket
+tags:
+- broken-link
 title: 'The Codename Rules: Rands In Repose'
 ---

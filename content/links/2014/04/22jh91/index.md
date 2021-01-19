@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/vita/comments/22jh91/borderlands_2_ps_vita_bundle_coming_may_6th/
 tags:
 - vita
+- gaming
 ---

@@ -10,5 +10,6 @@ source: delicious
 tags:
 - games
 - pinoy
+- broken-link
 title: Hackenslash by INQ7
 ---

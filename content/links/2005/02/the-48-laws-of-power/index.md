@@ -9,5 +9,6 @@ slug: the-48-laws-of-power
 source: delicious
 tags:
 - lifehacks
+- broken-link
 title: The 48 Laws of Power
 ---

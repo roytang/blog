@@ -10,6 +10,7 @@ source: delicious
 tags:
 - firefox
 - themes
+- broken-link
 title: Super Mario Bros 3 | Firefox Add-ons | Mozilla Corporation
 ---
 

@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/PS4/comments/25y082/the_drop_new_playstation_games_for_5202014/
 tags:
 - ps4
+- gaming
 ---

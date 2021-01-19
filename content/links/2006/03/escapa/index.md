@@ -11,6 +11,7 @@ tags:
 - games
 - javascript
 - cool
+- broken-link
 title: Escapa!
 ---
 

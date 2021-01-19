@@ -7,8 +7,10 @@ link:
   url: https://www.pep.ph/lifestyle/lifestyle/37194/because-of-instagram-this-woman-ended-up-withphp-500k-debt
 slug: because-of-instagram-this-woman-ended-up-with-php-500k-debt-pep-ph
 source: pocket
-title: Because of Instagram, this woman ended up with Php 500K debt | PEP.ph
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/980086101967888385/
+tags:
+- broken-link
+title: Because of Instagram, this woman ended up with Php 500K debt | PEP.ph
 ---

@@ -10,5 +10,6 @@ source: delicious
 tags:
 - forums
 - games
+- broken-link
 title: Suikosource Forums
 ---

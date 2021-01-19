@@ -10,5 +10,6 @@ source: delicious
 tags:
 - articles
 - software-development
+- broken-link
 title: Software is hard | Salon Books
 ---

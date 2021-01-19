@@ -11,5 +11,6 @@ tags:
 - programming
 - writing
 - blogging
+- broken-link
 title: A checklist for improving the writing style of technical blog posts ...
 ---

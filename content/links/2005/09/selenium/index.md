@@ -12,6 +12,7 @@ tags:
 - java
 - javascript
 - developer-testing
+- broken-link
 title: Selenium
 ---
 

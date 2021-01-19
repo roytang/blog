@@ -10,6 +10,7 @@ source: delicious
 tags:
 - comics
 - web
+- broken-link
 title: 'diesel sweeties: free, creative commons licensed webcomics ebooks'
 ---
 

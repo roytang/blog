@@ -10,5 +10,6 @@ source: delicious
 tags:
 - blogs
 - comics
+- broken-link
 title: MILE HIGH COMICS presents THE BEAT at COMICON.com
 ---

@@ -10,5 +10,6 @@ source: delicious
 tags:
 - blogs
 - lifehacks
+- broken-link
 title: Working Smart
 ---

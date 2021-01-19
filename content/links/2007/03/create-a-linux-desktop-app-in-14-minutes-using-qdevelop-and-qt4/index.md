@@ -10,5 +10,6 @@ source: delicious
 tags:
 - linux
 - programming
+- broken-link
 title: Create a Linux Desktop App In 14 Minutes Using QDevelop and QT4
 ---

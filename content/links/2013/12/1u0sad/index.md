@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/vita/comments/1u0sad/na_playstation_plus_urban_trial_freestyle_free_on/
 tags:
 - vita
+- gaming
 ---

@@ -11,5 +11,6 @@ tags:
 - psychology
 - articles
 - zen
+- broken-link
 title: Zen is Boring!
 ---

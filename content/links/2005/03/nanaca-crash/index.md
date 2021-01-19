@@ -10,6 +10,7 @@ source: delicious
 tags:
 - flash
 - games
+- broken-link
 title: Nanaca Crash
 ---
 

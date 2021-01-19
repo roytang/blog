@@ -9,6 +9,7 @@ slug: understanding-your-intelligence-the-best-resources-steve-olson-com
 source: delicious
 tags:
 - lifehacks
+- broken-link
 title: Understanding Your Intelligence - The Best Resources | steve-olson.com
 ---
 

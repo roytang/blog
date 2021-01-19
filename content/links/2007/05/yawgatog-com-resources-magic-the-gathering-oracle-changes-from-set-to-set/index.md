@@ -10,6 +10,7 @@ slug: yawgatog-com-resources-magic-the-gathering-oracle-changes-from-set-to-set
 source: delicious
 tags:
 - magicthegathering
+- broken-link
 title: 'Yawgatog.com - Resources - Magic: The Gathering Oracle Changes from Set to
   Set'
 ---

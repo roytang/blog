@@ -11,4 +11,5 @@ syndicated:
   url: https://reddit.com/r/vita/comments/246pwp/golden_week_sale_celebrates_japanese_games/
 tags:
 - vita
+- gaming
 ---

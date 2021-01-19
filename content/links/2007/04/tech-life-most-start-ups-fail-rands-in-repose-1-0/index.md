@@ -11,5 +11,6 @@ tags:
 - entrepreneurship
 - articles
 - software
+- broken-link
 title: 'Tech Life Most start-ups fail - Rands In Repose: 1.0'
 ---

@@ -10,5 +10,6 @@ source: delicious
 tags:
 - blogs
 - tech
+- broken-link
 title: plastic bugs
 ---

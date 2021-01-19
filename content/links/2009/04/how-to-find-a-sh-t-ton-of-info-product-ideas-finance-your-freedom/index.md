@@ -9,5 +9,6 @@ slug: how-to-find-a-sh-t-ton-of-info-product-ideas-finance-your-freedom
 source: delicious
 tags:
 - ___private
+- broken-link
 title: How to Find A Sh*t-Ton of Info Product Ideas | Finance Your Freedom
 ---

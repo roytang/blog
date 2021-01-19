@@ -10,5 +10,6 @@ source: delicious
 tags:
 - programming
 - regexp
+- broken-link
 title: The absolute bare minimum every programmer should know about regular expressions...
 ---
