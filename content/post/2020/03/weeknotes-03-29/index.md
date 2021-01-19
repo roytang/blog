@@ -10,6 +10,27 @@ tags:
 - weeknotes
 - watching-lately
 title: Weeknotes 2020-03-29 Time Is Meaningless
+reviews:
+- media: "movies"
+  title: "Billy Madison (1995)"
+  description: "Watched this so I know the context of the \"I award you no points and may god have mercy on your soul\" clip. Typical early Sandler movie."
+  date: 2020-03-23
+  rating: 3
+- media: "movies"
+  title: "Princess Mononoke (1997)"
+  description: "Much more action-packed than the last Ghibli movie I watched. Beautifully animated."
+  date: 2020-03-23
+  rating: 5
+- media: "movies"
+  title: "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn (2020)"
+  description: "Spoiler-free review"
+  date: 2020-03-25
+  rating: 4
+- media: "movies"
+  title: "Logan Lucky (2017)"
+  description: "Fun heist movie, but I find it hard to take the characters seriously. Might be some anti-redneck bias."
+  date: 2020-03-25
+  rating: 4
 ---
 
 My [COVID19 Diary](/2020/03/covid19/) is still ongoing, although that TOC is starting to get unwieldy. Need to think of a better UX solution for that.

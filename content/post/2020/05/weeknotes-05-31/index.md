@@ -9,6 +9,12 @@ syndicated:
 tags:
 - weeknotes
 title: Weeknotes 2020-05-31
+reviews:
+- media: "movies"
+  title: "Zombieland Double Tap (2019)"
+  description: "A fun romp, but pretty much more of the same."
+  date: 2020-05-27
+  rating: 3
 ---
 
 It seems difficult to write about stuff today, when the world seems like it is on fire. 

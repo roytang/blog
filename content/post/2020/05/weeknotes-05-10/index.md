@@ -9,6 +9,22 @@ syndicated:
 tags:
 - weeknotes
 title: Weeknotes 2020-05-10
+reviews:
+- media: "movies"
+  title: "Ready Player One (2018)"
+  description: "A predictable yet fun romp."
+  date: 2020-05-05
+  rating: 4
+- media: "movies"
+  title: "Kong: Skull Island (2017)"
+  description: "Exciting popcorn movie."
+  date: 2020-05-07
+  rating: 4
+- media: "movies"
+  title: "Ang Huling El Bimbo: The Musical (2019)"
+  description: "Ok, so this one isn't really a movie. The appeal for me is mostly the music and the nostalgia. The plot was serviceable, though some may find it problematic."
+  date: 2020-05-08
+  rating: 4
 ---
 
 My Stuff:

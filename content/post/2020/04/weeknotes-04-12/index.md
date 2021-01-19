@@ -9,6 +9,32 @@ syndicated:
 tags:
 - weeknotes
 title: Weeknotes 2020-04-12 Easter Sunday Edition
+reviews:
+- media: "movies"
+  title: "The Hobbit: An Unexpected Journey (2012)"
+  description: "See below"
+  date: 2020-03-30
+  rating: 4
+- media: "movies"
+  title: "The Hobbit: The Desolation of Smaug (2013)"
+  description: "See below"
+  date: 2020-04-07
+  rating: 4
+- media: "movies"
+  title: "Project 88: Back to the Future Too (2020)"
+  description: "Fantastic fan-made shot-by-shot recreation of Back to the Future II, put together during quarantine, w/ stop motion, kids, sock puppets, bananas, potatoes and much more!"
+  date: 2020-04-10
+  rating: 5
+- media: "movies"
+  title: "The Hobbit: Battle of the Five Armies (2014)"
+  description: "This trilogy had far too many extra things that weren't in the books, but it was pretty good. I rank them Desolation > Five Armies > Journey."
+  date: 2020-04-10
+  rating: 4
+- media: "movies"
+  title: "The Departed (2006)"
+  description: "This was intense. I liked it more than Goodfellas."
+  date: 2020-04-10
+  rating: 5
 ---
 
 I stopped updating the [COVID19 Diary](/2020/03/covid19/) for a few days (last update was on Maunday Thursday), and I feel like that was a healthier choice overall. It helped that nothing significantly newsworthy happened over the long weekend. (Well, there's still thousands of deaths worldwide, but somehow our bar for "significant" has shifted quite a bit.) 

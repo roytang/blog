@@ -11,6 +11,12 @@ tags:
 - current events
 - philippines
 title: 'Weeknotes 2020-06-28: Internet Outage Edition'
+reviews:
+- media: "movies"
+  title: "Sonic the Hedgehog (2019)"
+  description: "Fun with Ben Schwartz, but James Marsden's character is kinda dumb. Needs a lot of suspension of disbelief."
+  date: 2020-06-27
+  rating: 3
 ---
 
 My stuff:

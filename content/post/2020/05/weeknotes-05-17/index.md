@@ -9,6 +9,12 @@ syndicated:
 tags:
 - weeknotes
 title: Weeknotes 2020-05-17
+reviews:
+- media: "movies"
+  title: "Justice League Dark: Apokolips War (2020)"
+  description: "This was great, and appropriatly dark. Good send-off for the DCAMU."
+  date: 2020-05-15
+  rating: 4
 ---
 
 My Stuff:

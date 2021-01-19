@@ -11,6 +11,12 @@ tags:
 - current events
 - philippines
 title: Weeknotes 2020-07-19
+reviews:
+- media: "movies"
+  title: "The Old Guard (2020)"
+  description: "Didn't know what to expect, never read the Greg Rucka graphic novel on which it was based. Action-packed, fun watch."
+  date: 2020-07-12
+  rating: 4
 ---
 
 My country:
