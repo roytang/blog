@@ -12,4 +12,7 @@ syndicated:
 tags:
 - comics
 - broken-link
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20120515154628/https://www.empireonline.com/features/30-comic-books-you-should-have-read/
 ---

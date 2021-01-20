@@ -9,3 +9,5 @@ tags:
 ---
 
 Gotta go fast #sketchdaily 20/365
+
+In the Sonic the Hedgehog movie, his arms are blue.
