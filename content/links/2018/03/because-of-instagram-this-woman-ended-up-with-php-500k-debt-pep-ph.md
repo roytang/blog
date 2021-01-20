@@ -12,5 +12,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/980086101967888385/
 tags:
 - broken-link
+- tech-life
 title: Because of Instagram, this woman ended up with Php 500K debt | PEP.ph
 ---

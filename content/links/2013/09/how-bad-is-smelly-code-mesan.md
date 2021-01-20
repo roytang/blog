@@ -9,5 +9,9 @@ slug: how-bad-is-smelly-code-mesan
 source: pocket
 tags:
 - broken-link
+- software development
 title: How bad is smelly code? | Mesan
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20160331230018/http://fagblogg.mesan.no/how-bad-is-smelly-code/
 ---

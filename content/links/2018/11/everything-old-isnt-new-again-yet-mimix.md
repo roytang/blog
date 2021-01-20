@@ -10,7 +10,11 @@ source: pocket
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1059096526155366402/
+- type: archive.org
+  url: https://web.archive.org/web/20181105132753/http://mimix.io/retro/
 tags:
 - broken-link
+- tech-life
+- nostalgia
 title: Everything Old Isn’t New Again (Yet) – Mimix
 ---

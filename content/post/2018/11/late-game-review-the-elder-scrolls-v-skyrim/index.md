@@ -9,6 +9,7 @@ tags:
 - late-game-review
 - review
 - Gaming
+- skyrim
 albums:
 - gaming
 title: 'Late Game Review: The Elder Scrolls V - Skyrim'

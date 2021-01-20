@@ -10,7 +10,10 @@ source: pocket
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1091036308640858114/
+- type: archive.org
+  url: https://web.archive.org/web/20201024212523/https://www.mcsweeneys.net/articles/nihilist-dad-jokes-part-2
 tags:
 - broken-link
+- humor
 title: Nihilist Dad Jokes, Part 2
 ---

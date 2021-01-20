@@ -10,4 +10,7 @@ source: pocket
 tags:
 - broken-link
 title: “If you want to change the world with technology…” - The Official Microsoft
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20140422232903/http://blogs.technet.com/b/microsoft_blog/archive/2010/05/26/if-you-want-to-change-the-world-with-technology.aspx
 ---

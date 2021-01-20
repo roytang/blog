@@ -14,6 +14,6 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1340698555590221824/
 tags:
-- broken-link
+- software-development
 title: HTML Tags Memory Test
 ---

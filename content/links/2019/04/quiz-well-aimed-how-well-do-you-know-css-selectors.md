@@ -11,6 +11,6 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1117022660414853120/
 tags:
-- broken-link
+- software-development
 title: 'QUIZ: Well aimed? How well do you know CSS selectors?'
 ---

@@ -14,5 +14,8 @@ syndicated:
 tags:
 - skyrim
 - gaming
-- broken-link
 ---
+
+#### Posted on r/Skyrim: [What is this weird green thing? Not sure if it's from a mod (I have a lot installed). I can't interact with it in any way, but I've seen a few in different places](https://reddit.com/r/skyrim/comments/1fg9j6/what_is_this_weird_green_thing_not_sure_if_its/)
+
+{{< photo "2013/06/skyrim-2013/" "72850_screenshots_2013-06-01_00001" >}}

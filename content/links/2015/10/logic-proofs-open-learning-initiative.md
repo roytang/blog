@@ -9,5 +9,9 @@ slug: logic-proofs-open-learning-initiative
 source: pocket
 tags:
 - broken-link
+- learning
+syndicated:
+- type: archive.org
+  url: http://oli.cmu.edu/courses/free-open/logic-proofs-course-details/
 title: Logic & Proofs | Open Learning Initiative
 ---

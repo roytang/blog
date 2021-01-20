@@ -12,5 +12,8 @@ syndicated:
 tags:
 - skyrim
 - gaming
-- broken-link
 ---
+
+#### Posted on r/Skyrim: [Guards need to relax too. Though I'm not sure how relaxing his position is.](https://reddit.com/r/skyrim/comments/mtkft/guards_need_to_relax_too_though_im_not_sure_how/)
+
+{{< photo "2011/11/skyrim-2011/" "72850_screenshots_2011-11-30_00001" >}}

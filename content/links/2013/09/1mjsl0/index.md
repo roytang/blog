@@ -11,5 +11,5 @@ syndicated:
   url: https://reddit.com/r/magicTCG/comments/1mjsl0/theros_faq/
 tags:
 - magictcg
-- broken-link
+- mtg
 ---

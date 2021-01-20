@@ -10,7 +10,10 @@ source: pocket
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1067796876425117696/
+- type: archive.org
+  url: https://nvdk.co/2018/11/28/entrepreneurship/building-a-company-is-fucking-hard/
 tags:
 - broken-link
+- entrepreneurship
 title: https://nvdk.co/2018/11/28/entrepreneurship/building-a-company-is-fucking-hard/
 ---

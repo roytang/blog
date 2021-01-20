@@ -10,6 +10,8 @@ source: pocket
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/975265069020925952/
+- type: archive.org
+  url: https://web.archive.org/web/20180317180505/https://business.mb.com.ph/2018/03/17/ph-ranks-2nd-most-unfriendly-country-to-startups/
 tags:
 - broken-link
 title: PH ranks 2nd most ‘unfriendly country’ to startups » Manila Bulletin Business
