@@ -4,7 +4,8 @@ link:
   source: delicious
   source_url: https://del.icio.us/roytang
   text: Play framework ★ Home
-  url: http://www.playframework.org/
+  url: https://www.playframework.com/
+  original_url: http://www.playframework.org/
 slug: play-framework-home
 source: delicious
 tags:
@@ -13,7 +14,6 @@ tags:
 - web
 - programming
 - software
-- broken-link
 title: Play framework ★ Home
 ---
 

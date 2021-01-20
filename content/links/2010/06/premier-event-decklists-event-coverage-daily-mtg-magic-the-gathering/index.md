@@ -11,4 +11,7 @@ tags:
 - mtg
 - broken-link
 title: 'Premier Event Decklists : Event Coverage : Daily MTG : Magic: The Gathering'
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20100614180201/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtg/daily/eventcoverage/decklists
 ---

@@ -11,4 +11,7 @@ tags:
 - gamedev
 - broken-link
 title: AndEngine - Android Game Engine
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20100819050224/http://www.andengine.org/blog
 ---

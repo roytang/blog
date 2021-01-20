@@ -10,4 +10,7 @@ source: delicious
 tags:
 - broken-link
 title: A dozen of the best start-up pitches on the Web | JonBischke.com
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20091117054003/http://jonbischke.com/2009/11/13/a-dozen-of-the-best-start-up-pitches-on-the-web/
 ---

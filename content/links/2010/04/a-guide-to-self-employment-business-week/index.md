@@ -11,4 +11,7 @@ tags:
 - entrepreneurship
 - broken-link
 title: A Guide to Self-Employment - Business Week
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20100428033648/http://www.businessweek.com/smallbiz/special_reports/20100202self_employment.htm
 ---

@@ -9,6 +9,6 @@ link:
 slug: the-codename-rules-rands-in-repose
 source: pocket
 tags:
-- broken-link
+- software-development
 title: 'The Codename Rules: Rands In Repose'
 ---

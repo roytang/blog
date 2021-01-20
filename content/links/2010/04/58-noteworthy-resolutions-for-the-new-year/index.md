@@ -9,6 +9,7 @@ slug: 58-noteworthy-resolutions-for-the-new-year
 source: delicious
 tags:
 - lifehacks
+- self-improvement
 - broken-link
 title: 58 Noteworthy Resolutions For The New Year
 ---

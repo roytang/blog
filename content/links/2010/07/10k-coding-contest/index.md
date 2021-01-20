@@ -11,4 +11,7 @@ tags:
 - ___private
 - broken-link
 title: 10k coding contest
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20150905085941/http://10k.aneventapart.com/
 ---

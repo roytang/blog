@@ -14,4 +14,7 @@ tags:
 - for:@twitter
 - broken-link
 title: 'Chapter 1. Zero to Sixty: Introducing Scala'
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20100507051743/http://programming-scala.labs.oreilly.com/ch01.html
 ---

@@ -8,9 +8,12 @@ link:
 slug: a-checklist-for-improving-the-writing-style-of-technical-blog-posts
 source: delicious
 tags:
-- programming
+- software-development
 - writing
 - blogging
 - broken-link
 title: A checklist for improving the writing style of technical blog posts ...
+syndicated:
+- type: archive.org
+  url: https://web.archive.org/web/20150507114154/http://pietro.open-lab.com/2010/02/23/a-checklist-for-improving-the-writing-style-of-technical-blog-posts/
 ---
