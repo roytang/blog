@@ -45,6 +45,16 @@ I was encountering some issues with fastcgi not mapping requests to the correct 
 
 The solution for this came from the Nginx common pitfalls article listed above.
 
+### Wordpress-specific
+
+(Added 1/21/2021)
+
+Wordpress worked well enough for the most part. Except permalinks didn't work! I had to add a directive to the nginx config file for unknown urls to be redirected to index.php:
+
+```try_files $uri $uri/ /index.php?$args;```
+
+Source: https://nginxlibrary.com/wordpress-permalinks/. It's also mentioned in the [official Wordpress docs](https://wordpress.org/support/article/nginx/) , but buried in a bunch of other stuff so less helpful.
+
 ### Choosing a database
 
 I initially wanted to use PostgreSQL (since that's what I was using locally) and set that up first. Then I realized I had a Wordpress install I wanted to carry over, and apparently Wordpress needs MySQL, so oops. I didn't want to have two databases running, so that was out. Plan out your database usage boys. 
