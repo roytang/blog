@@ -1,13 +1,19 @@
 ---
-title: "Book Review: The End of Everything by Katie Mack"
-date: 2021-01-20T19:17:04+08:00
+date: 2021-01-20 11:17:04
+reviews:
+- description: Fascinating stuff, but might be challenging if you don't have a science
+    background.
+  media: books
+  rating: 4
+  title: The End of Everything by Katie Mack
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105588975900005776
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1351928770274369539/
 tags:
 - books
-reviews:
-- media: "books"
-  title: "The End of Everything by Katie Mack"
-  description: "Fascinating stuff, but might be challenging if you don't have a science background."
-  rating: 4
+title: 'Book Review: The End of Everything by Katie Mack'
 ---
 
 I finished the book The End of Everything (Astronomically Speaking) by Katie Mack. I got a Kindle copy on sale on Amazon at the top of the year, figured it was a good way to kick off a year of hopefully reading more books. This is a short review.
