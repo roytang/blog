@@ -9,3 +9,5 @@ tags:
 ---
 
 Out for a walk? #sketchdaily 21/365
+
+This is one of those things where I didn't have any kind of plan and just started drawing.
