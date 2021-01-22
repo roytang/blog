@@ -1,10 +1,15 @@
 ---
-title: "Thoughts on Tech Censorship and Social Media"
 date: 2021-01-22
+slug: tech-censorship
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105598890021039946
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1352563275326648323/
 tags:
 - current events
 - tech life
-slug: tech-censorship
+title: Thoughts on Tech Censorship and Social Media
 ---
 
 Discussions on tech censorship came to the forefront in recent weeks due to the aftermath of the Jan 6 capitol insurrection in the US. I've been writing down a bunch of thoughts about the complicated issue, let's see if I can hammer them into a blog post. (I also wanted to defer posting about it until after the Biden inauguration, in case more things of interest happen.) Here's where I am now:
