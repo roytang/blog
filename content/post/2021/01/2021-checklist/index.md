@@ -49,23 +49,23 @@ Some stuff I'm looking forward to in 2021 (who knows if they will actually relea
 
 Movies:
 
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| Apr 02 | No Time To Die |
-| May 07 | Black Widow |
-| Jun 11 | Ghostbusters Afterlife |
-| Jun 25 | Venom Let There Be Carnage |
-| Jul 09 | Shang-Chi and the Legend of the Ten Rings |
-| Jul 16 | Uncharted |
-| Aug 06 | The Suicide Squad |
-| Oct 01 | The Batman |
-| Nov 06 | Eternals |
-| Nov 09 | Mission Impossible 7 |
-| Dec 17 | Spider-Man 3 |
-| Dec 22 | Matrix 4 |
-| Dec 22 | Black Adam |
-| TBA | Justice League Snyder Cut |
-| TBA | Dune |
+| <!-- -->    | <!-- -->    | <!-- --> |
+|-------------|-------------|----------|
+| Apr 02 | No Time To Die | |
+| May 07 | Black Widow | |
+| Jun 11 | Ghostbusters Afterlife | [Ghostbuster Afterlife Moves to Nov 2021](https://www.gamespot.com/articles/uncharted-movie-delayed-to-2022-ghostbusters-afterlife-moves-to-november-2021/1100-6486612/) |
+| Jun 25 | Venom Let There Be Carnage | |
+| Jul 09 | Shang-Chi and the Legend of the Ten Rings | |
+| Jul 16 | Uncharted | [Uncharted Movie Delayed to 2022](https://www.gamespot.com/articles/uncharted-movie-delayed-to-2022-ghostbusters-afterlife-moves-to-november-2021/1100-6486612/) |
+| Aug 06 | The Suicide Squad | |
+| Oct 01 | The Batman | |
+| Nov 06 | Eternals | |
+| Nov 09 | Mission Impossible 7 | |
+| Dec 17 | Spider-Man 3 | |
+| Dec 22 | Matrix 4 | |
+| Dec 22 | Black Adam | |
+| TBA | Justice League Snyder Cut | |
+| TBA | Dune | |
 
 Games:
 
