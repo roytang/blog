@@ -4,6 +4,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1352137686614564867/
+reviews:
+- media: movies
+  title: "World War Z (2013)"
+  description: "Pretty typical action movie I think, entertaining enough. Should have watched at the start of the pandemic."
 ---
 
 2021 movie no. 3: World War Z (2013). Pretty typical action movie I think, entertaining enough. Should have watched at the start of the pandemic.
