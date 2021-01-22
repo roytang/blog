@@ -71,3 +71,4 @@ Some other articles I've read lately, relevant to this topic:
 
 - [What Social Networks Could Learn](https://www.platformer.news/p/what-social-networks-could-learn)
 - [How to Start Fixing Social Media](https://onezero.medium.com/how-to-start-fixing-social-media-196297eb6b71) (Warning: Medium)
+- [Online Speech and Publishing](https://www.ben-evans.com/benedictevans/2021/1/17/speech-and-publishing)
