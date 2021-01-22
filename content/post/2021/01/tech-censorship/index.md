@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on Tech Censorship and Social Media"
-date: 2021-01-22 14:00:00
+date: 2021-01-22
 tags:
 - current events
 - tech life
