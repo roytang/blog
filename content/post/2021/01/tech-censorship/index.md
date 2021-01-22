@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on Tech Censorship and Social Media"
-date: 2021-01-22 09:00:00
+date: 2021-01-22 15:00:00
 tags:
 - current events
 - tech life
@@ -39,7 +39,7 @@ I do think however, that platforms should be held responsible for promoting, rec
 
 If the platforms aren't allowed to use recommendation engines, what then? I would suggest that strictly chronological timelines should be fine, with no judgment made by the platform as to whether individual posts should be seen outside of that order or by people who aren't subscribed to those sources. 
 
-For ads, I think platforms should be liable for what ads they allow to run. And information should be publicly available for whoever paid for the ad. If someone advertises something illegal in real life, law enforcement needs to be able to track them down. And probably we should avoid targetted advertising as well. I think showing ads depending on what topics the user follows might be ok, assuming the topics aren't super specific. For example, if the user follows a lot of politics, showing political ads might be ok, as long as the user is exposed to all flavors of political ads (i.e. ads from all sides). Definitely something that can still be refined.
+For ads, I think platforms should be liable for what ads they allow to run. And information should be publicly available for whoever paid for the ad. If someone advertises something illegal in real life, law enforcement needs to be able to track them down. And probably we should avoid targeted advertising as well. I think showing ads depending on what topics the user follows might be ok, assuming the topics aren't super specific. For example, if the user follows a lot of politics, showing political ads might be ok, as long as the user is exposed to all flavors of political ads (i.e. ads from all sides). Definitely something that can still be refined. (And it goes without saying, if the platforms can't do targeted advertising, they would be less inclined to siphon off all your personal data? Or is that too naive?)
 
 I think stuff like Twitter's "trending topics" section is fine, as long as it's not super localized, i.e. you get a sense of what everyone is talking about, not just people in your bubble or whatever.
 
@@ -64,3 +64,10 @@ One might think this would make it easier to distribute harmful content and hard
 #### In conclusion
 
 That's a whole lot of words, but I don't have a conclusion. Like I said, complicated issue. (And I'm sure there are some easy flaws in my assertions above, I haven't spent more than an hour thinking these through.) But these are discussions we should be having, and at least some of what I've outlined are above are options that are worth considering, given how harmful and divisive we have found the current social media paradigm to be. I still believe in the promise of the internet in bringing people and the world together - but we need to be doing it in a smart and responsible way.
+
+#### RRL
+
+Some other articles I've read lately, relevant to this topic:
+
+- [What Social Networks Could Learn](https://www.platformer.news/p/what-social-networks-could-learn)
+- [How to Start Fixing Social Media](https://onezero.medium.com/how-to-start-fixing-social-media-196297eb6b71) (Warning: Medium)
