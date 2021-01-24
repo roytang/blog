@@ -34,5 +34,5 @@ Often I have these days where I'm supposed to be writing something or drawing so
 &nbsp;
 
  [1]: http://roytang.net/wp-content/uploads/2016/12/mentalblock.png
- [2]: http://roytang.net/2016/12/nanowrimo-2016-post-mortem/
+ [2]: /2016/12/nanowrimo-2016-post-mortem/
  [3]: https://en.wikipedia.org/wiki/Rubber_duck_debugging

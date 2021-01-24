@@ -26,4 +26,4 @@ And if the dev is unable to give an estimate immediately, the manager should avo
 
 Understandably, clients and managers have this pressure of trying to fit all the work within a chosen schedule. But such should be anchored in reality and not reliant on pressuring devs to say that their work is easy
 
- [1]: http://roytang.net/2016/08/the-secrets-to-perfect-estimates/
+ [1]: /2016/08/the-secrets-to-perfect-estimates/

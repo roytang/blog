@@ -38,4 +38,4 @@ I understand that not all salesmanship is dishonest and that not all salesmen ar
 I recognize the need for salesmanship as a skill in everyday life, although younger me would have scoffed at that idea, believing that things should be judged solely on their merits. But merits aren't always obvious, and you still need some level of presentation and good communication skills to push your ideas and merits forward.  I'm fine with that I guess, as long as we try to keep things honest.
 
  [1]: http://waitbutwhy.com/table/when-is-it-okay-to-lie
- [3]: http://roytang.net/2004/11/my-eyeglasses-belong-to-the-sea/
+ [3]: /2004/11/my-eyeglasses-belong-to-the-sea/

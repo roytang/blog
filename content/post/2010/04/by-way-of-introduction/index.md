@@ -17,4 +17,4 @@ My magic blogging used to consist mostly of tournament reports (I like to play b
 
 Enjoy!
 
- [1]: http://roytang.net/magic
+ [1]: /

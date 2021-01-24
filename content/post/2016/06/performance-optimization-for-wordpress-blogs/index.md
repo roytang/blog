@@ -48,7 +48,7 @@ Much improvement indeed! There's still a few issues to iron out, but for the mos
 
  [1]: https://testmysite.thinkwithgoogle.com/
  [3]: https://developers.google.com/speed/pagespeed/insights
- [4]: http://roytang.net/2016/03/sketching-daily/
+ [4]: /2016/03/sketching-daily/
  [6]: https://made4wp.com/changing-default-attachment-display-setting-insert-image-post/
  [7]: https://wordpress.org/plugins/wp-smushit/
  [8]: https://wordpress.org/plugins/async-javascript/

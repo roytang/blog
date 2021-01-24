@@ -26,5 +26,5 @@ Those are just the productivity and quality downsides -- there's also the proble
 
 The realities of business and schedules and deadlines don't always let us avoid overtime, but hopefully every time we're forced to do so, we learn from those instances and figure out how to plan better next time (or to get the client's understanding to be more flexible with scope and schedule)
 
- [1]: http://roytang.net/2016/09/the-no-1-problem-in-software-projects/
- [2]: http://roytang.net/2016/08/the-secrets-to-perfect-estimates/
+ [1]: /2016/09/the-no-1-problem-in-software-projects/
+ [2]: /2016/08/the-secrets-to-perfect-estimates/

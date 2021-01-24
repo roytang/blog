@@ -126,7 +126,7 @@ Unfortunately Day Two didn't go quite as well; apparently the luck I had during
 - R14 0-2 LOSS vs monored
 - R15 2-1 WIN vs abzan aggro
 
-Going 3-3 on Day Two means I finished the GP at 11-4, which was the same record I had <a href="http://roytang.net/2012/06/grand-prix-manila-2012/">back in 2012</a>. That's good enough this year for a 37th place finish and some cash:
+Going 3-3 on Day Two means I finished the GP at 11-4, which was the same record I had <a href="/2012/06/grand-prix-manila-2012/">back in 2012</a>. That's good enough this year for a 37th place finish and some cash:
   
 {{< img src="2015-01-04-16.12.24.jpg" alt="Snippet from final standing" >}}
 

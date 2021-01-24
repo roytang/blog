@@ -38,5 +38,5 @@ Managing schedule pressure means understanding the limitations of what is and i
 
 &nbsp;
 
- [1]: http://roytang.net/2016/08/the-secrets-to-perfect-estimates
+ [1]: /2016/08/the-secrets-to-perfect-estimates
  [2]: https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/

@@ -42,5 +42,5 @@ url: /2017/12/singapore-2017/
  26. The trip is in the books. Aside from doing poorly at the GP itself, it was pretty good. Good to get away for a bit and see old friends and hang out. It felt a bit weirdly casual too, like I randomly popped in to Singapore for no reason. The weekend went quickly, and so back to the grind.
 
  [1]: https://magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gpsin17
- [2]: http://roytang.net/2011/06/singapore/
- [3]: http://roytang.net/2015/11/travel-anxiety/
+ [2]: /2011/06/singapore/
+ [3]: /2015/11/travel-anxiety/

@@ -31,6 +31,6 @@ When I first signed up, I dreamed of winning the entire thing (and of course bei
 Still, I think it's a good idea for programmers of all skill levels to give it a try, just to see where you are at. Who knows, you might even make it all the way! The next Google Code Jam starts soon -- the qualification round is on Apr 7. I signed up, although I'm unsure if I will have the time this year even if I advance, due to scheduling problems. But a man can still dream, right? Who knows, maybe I'll see some of you there too in the final round!
 
  [1]: https://code.google.com/codejam/
- [2]: http://roytang.net/2008/08/google-code-jam-2008/
- [3]: http://roytang.net/2017/03/fake-devs-and-whiteboard-interviews/
+ [2]: /2008/08/google-code-jam-2008/
+ [3]: /2017/03/fake-devs-and-whiteboard-interviews/
  [4]: https://www.topcoder.com/

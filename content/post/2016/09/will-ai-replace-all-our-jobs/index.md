@@ -23,4 +23,4 @@ Individual small software tasks can be easily automated -- this is why we have c
 While I believe new tools will be developed within the near future to automate small parts of the coding process, the overall development of software systems is likely to remain out of reach of AI for a long while. In fact, I believe that software development will be one of the very last fields to be replaced completely by robots, since as other fields start getting more and more automated, there will be a greater need for new software to cover those domains. So most probably doctors and programmers don't have anything to worry about for quite a while
 
  [1]: http://siliconangle.com/blog/2016/08/05/watson-correctly-diagnoses-woman-after-doctors-were-stumped/
- [2]: http://roytang.net/wp-admin/post.php?post=1387&action=edit
+ [2]: /2016/08/programming-is-finding-the-right-arrangement-of-code/

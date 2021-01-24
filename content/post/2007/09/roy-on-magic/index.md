@@ -16,4 +16,4 @@ So, here we go: Roy on Magic.
 
 _(All Magic-related posts from the other blog have been moved here.)_
 
- [1]: http://roytang.net/blog
+ [1]: /blog

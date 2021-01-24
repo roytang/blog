@@ -28,7 +28,7 @@ I look forward to the day that medical science advances quickly enough that pain
 
 &nbsp;
 
- [1]: http://roytang.net/2010/11/randomly-amazed/
- [2]: http://roytang.net/2005/12/the-left-half-of-my-mouth-is-numb-thanks/
- [3]: http://roytang.net/2004/12/i-get-bored-easily/
+ [1]: /2010/11/randomly-amazed/
+ [2]: /2005/12/the-left-half-of-my-mouth-is-numb-thanks/
+ [3]: /2004/12/i-get-bored-easily/
  [4]: http://io9.gizmodo.com/how-does-anesthesia-work-doctors-arent-sure-and-her-1592809615

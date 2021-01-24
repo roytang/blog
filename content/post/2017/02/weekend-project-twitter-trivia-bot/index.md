@@ -19,7 +19,7 @@ url: /2017/02/weekend-project-twitter-trivia-bot/
 
 I had been meaning to try writing a Twitter bot for a while now.&nbsp;I figured a trivia bot would be pretty easy to implement, so I spent some time a couple of weekends to rig one together.
 
-It's (mostly) working now, the bot is active as&nbsp;[triviastorm on Twitter][1], with a supporting webapp deployed on&nbsp;<http://trivia.roytang.net/>. The bot tweets out a trivia question once every&nbsp;hour. It will then award points to the first five people who gave the correct answer.&nbsp;The bot will only recognize answers given as a direct reply to the tweet with the question, and only those submitted within the one hour period.
+It's (mostly) working now, the bot is active as&nbsp;[triviastorm on Twitter][1], with a supporting webapp deployed on&nbsp;<https://triviastorm.net/>. The bot tweets out a trivia question once every&nbsp;hour. It will then award points to the first five people who gave the correct answer.&nbsp;The bot will only recognize answers given as a direct reply to the tweet with the question, and only those submitted within the one hour period.
 
 Some technical details:
 

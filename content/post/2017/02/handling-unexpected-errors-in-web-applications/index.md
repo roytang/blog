@@ -50,4 +50,4 @@ Sometimes, the error is specific to the data being used by the users, or happen
 
 Error handling for deployed systems is already hard -- so make sure not to make it harder on the future support team by having standard error handling and logging mechanisms.
 
- [1]: http://roytang.net/2016/11/unclear-error-messages/
+ [1]: /2016/11/unclear-error-messages/

@@ -34,4 +34,4 @@ Most of the difficulty so far has been the design part: thinking about colors, h
 
  [1]: /2008/04/creating-a-wordpress-template-part-1/
  [2]: /2008/05/creating-a-wordpress-template-part-2/
- [3]: http://roytang.net/magic/
+ [3]: /tags/magic/

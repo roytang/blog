@@ -27,4 +27,4 @@ To help with those, I've started going through the _Chicago Manual of Style_. I
 The best feedback of course, would be from those of you who for some reason deign to read my posts. I already corrected my tendency to not end paragraphs with punctuation since someone called me out on it. So I would appreciate any further feedback about how I write and where I can improve.
 
  [1]: http://www.hemingwayapp.com/
- [2]: http://roytang.net/2016/12/nanowrimo-2016-post-mortem/
+ [2]: /2016/12/nanowrimo-2016-post-mortem/

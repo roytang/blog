@@ -89,5 +89,5 @@ _The Ravagers_ -- giving this a shot, although at the moment it just seems like 
 
 I'm probably going to keep on reading a good 70-80% of the books going forward, I don't feel compelled to read every single one of them any more. It's still a good chunk of books to read, and makes me look forward to the new releases every week.
 
- [1]: http://roytang.net/2012/05/the-dc-new-52-review-part-1/
- [2]: http://roytang.net/2012/06/dc-new-52-review-part-2-batman-and-gotham/
+ [1]: /2012/05/the-dc-new-52-review-part-1/
+ [2]: /2012/06/dc-new-52-review-part-2-batman-and-gotham/

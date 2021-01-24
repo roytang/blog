@@ -53,4 +53,4 @@ For congressman, I will abstain. Kit Belmonte is running unopposed, but I have n
 
 Things can still change between now and election day, but more or less this will probably be the slate I'm voting for. Despite the fact that I enjoy seeing the shenanigans unfold, I'm tired of this election season and looking forward to it being over just under a week's time. I'm sure that won't be the end of our political circus (far from it), but I expect the toxic atmosphere online to at least maybe lighten up even just a little bit. Hopefully?
 
-Edit: I was told that I take my votes too seriously. Cannot deny haha. Here's my 2010 post for reference: <http://roytang.net/2010/05/elections-2010-my-ballot/>
+Edit: I was told that I take my votes too seriously. Cannot deny haha. Here's [my 2010 post for reference](/2010/05/elections-2010-my-ballot/).

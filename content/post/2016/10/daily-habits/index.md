@@ -28,7 +28,7 @@ Depending on your personality, trying to maintain a streak can seem to be a bur
 
 &nbsp;
 
- [1]: http://roytang.net/2016/03/sketching-daily/
+ [1]: /2016/03/sketching-daily/
  [2]: https://www.duolingo.com/
  [3]: http://reddit.com/r/sketchdaily
  [4]: http://lifehacker.com/281626/jerry-seinfelds-productivity-secret

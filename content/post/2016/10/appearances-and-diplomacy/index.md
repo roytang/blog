@@ -31,4 +31,4 @@ And supporters will say at least he's honest and direct and real. I'm pretty sur
 
 &nbsp;
 
- [1]: http://roytang.net/2016/09/lying-and-salesmanship/
+ [1]: /2016/09/lying-and-salesmanship/

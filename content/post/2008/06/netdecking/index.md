@@ -15,8 +15,8 @@ I don't feel strongly about this issue; I've used both netdecks and my own homeb
 
 I think that netdecking makes more sense the less time you can dedicate to Magic. For people like me who barely have one hour a week to playtest before playing in tournaments, netdecking makes a lot of sense. Definitely, if you have the time and inclination to design and develop your own original decks, you should do so, especially since having a Filipino-designed deck taking the world stage would be a big source of pride to local Magic players.
 
-But for people like me especially at times like these when I'm busy with work, if I try bringing a self-designed deck to a tournament with minimal preparation, usually [disaster ][2][happens ][3]. For the time being, I should focus on learning the ins and outs of the known decks so that I can make less mistakes and choose a good deck to play in the coming GP Trials and Nationals Qualifiers.
+But for people like me especially at times like these when I'm busy with work, if I try bringing a self-designed deck to a tournament with minimal preparation, usually [disaster][2] [happens][3]. For the time being, I should focus on learning the ins and outs of the known decks so that I can make less mistakes and choose a good deck to play in the coming GP Trials and Nationals Qualifiers.
 
  [1]: http://www.neutralgrounds.net/forums/
- [2]: http://roytang.net/magic/2008/05/regionals-2008/
- [3]: http://roytang.net/magic/2008/05/grand-prix-trial-manila-i/
+ [2]: /2008/05/regionals-2008/
+ [3]: /2008/05/grand-prix-trial-manila-i/

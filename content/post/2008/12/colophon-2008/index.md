@@ -53,6 +53,6 @@ All entries from the previous "roytang / weblog", "Roy on Magic" and "Roy on Dja
  [14]: http://code.google.com/p/python-markdown2/
  [15]: http://www.xmlrpc.com/metaWeblogApi
  [16]: http://www.flock.com/
- [17]: http://roytang.net/games/2008/02/mtg-autocard-wordpress-plugin/
+ [17]: /2008/02/mtg-autocard-wordpress-plugin/
  [18]: http://gravatar.com
  [19]: http://www.webfaction.com/?affiliate=roytang

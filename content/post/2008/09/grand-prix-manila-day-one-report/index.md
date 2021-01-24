@@ -120,6 +120,6 @@ Overall Team Snafubar match record: 13-12-1. Alex and I brought the average down
 We left the mall and decided to crash at a friend's place. Sometime around 1 AM, I decided to come back the next day to PTQ with Kithkin. I wouldn't have much sleep, but what the hell -- I planned on a 3-day Magic weekend, so I might as well go on with it!
 
  [1]: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpman08/welcome
- [2]: http://roytang.net/magic/2008/09/grand-prix-manila-grinders-and-day-one-decks/
+ [2]: /2008/09/grand-prix-manila-grinders-and-day-one-decks/
  [3]: http://magiccards.info/autocard.php?card=Mistmeadow%20Skulk
  [4]: http://magiccards.info/autocard.php?card=Cairn%20Wanderer

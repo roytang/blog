@@ -44,4 +44,4 @@ And you can still finish a game without a walkthrough... you just need the disci
 
 &nbsp;
 
- [1]: http://roytang.net/2006/12/the-next-generation-of-faqs/
+ [1]: /2006/12/the-next-generation-of-faqs/

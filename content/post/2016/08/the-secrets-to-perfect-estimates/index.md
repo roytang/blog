@@ -37,6 +37,6 @@ One last thing that software developers need to note with regard to estimates: i
 
 In the end though, all the best practices will be for naught unless you understand the fundamental truth: **there is always a chance for estimates to be inaccurate**. No amount of planning or best practices can completely mitigate that risk -- unless of course you have either a precognitive crystal ball or time machine!
 
- [1]: http://roytang.net/2016/08/programming-is-finding-the-right-arrangement-of-code/
+ [1]: /2016/08/programming-is-finding-the-right-arrangement-of-code/
  [2]: https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices-ebook/dp/8178531038/
  [3]: https://en.wikipedia.org/wiki/Function_point

@@ -225,7 +225,7 @@ url: /2008/09/grand-prix-manila-snafubar-and-the-road-to-the-grand-prix/
   </p>
   
   <p style="margin-bottom: 0in;">
-    I went with a tweaked version of Shuhei Nakamura’s Greedy Deck/"PWC Special" from GP Kobe. See <a href="http://roytang.net/magic/2008/08/ptq-berlin-i/">PTQ Berlin I results</a> and <a href="http://roytang.net/magic/2008/08/ptq-berlin-ii/">PTQ Berlin II results</a> for how well that went.
+    I went with a tweaked version of Shuhei Nakamura’s Greedy Deck/"PWC Special" from GP Kobe. See <a href="/2008/08/ptq-berlin-i/">PTQ Berlin I results</a> and <a href="/2008/08/ptq-berlin-ii/">PTQ Berlin II results</a> for how well that went.
   </p>
   
   <p style="margin-bottom: 0in;">

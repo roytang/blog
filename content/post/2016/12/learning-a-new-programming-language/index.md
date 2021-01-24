@@ -30,4 +30,4 @@ Building small toy applications with the new programming language is a great way
 
 For the longest time, I tried to learn at least one new programming language/platform a year. For 2016, it was Unity/C#, although I've also started studying Node.js in the past month or so. I hope it's something I'm able to keep up, even as I'm trying to explore new skills other than programming.
 
- [1]: http://roytang.net/2016/12/learning-new-skills/
+ [1]: /2016/12/learning-new-skills/

@@ -169,8 +169,6 @@ I went 3-2 with my pool. My losses were to a Deadeye Navigator (that guy is a ni
 
 Competitively the GP was a bust for me, but at least I came away with some swag and some packs. I'm also planning to attend GP Singapore in December this year, and that's Sealed/Draft so hopefully I do better there. Until then, thanks for reading!
 
- [1]: http://roytang.net/wp-content/uploads/2017/06/content_ulamog__ceaseless1.jpg
- [2]: http://roytang.net/2015/02/grand-prix-manila-2015/
- [3]: http://roytang.net/2015/06/gp-singapore-2015/
- [4]: http://roytang.net/wp-content/uploads/2017/06/I_guess_my_chaos_sealed_pool_was_okay__mtg__gpmanila.jpg
- [5]: http://roytang.net/wp-content/uploads/2017/06/gpmanila_loot._Maybe_next_time_I_should_stick_to_side_events_lol__mtg.jpg
+ [2]: /2015/02/grand-prix-manila-2015/
+ [3]: /2015/06/gp-singapore-2015/
+ 

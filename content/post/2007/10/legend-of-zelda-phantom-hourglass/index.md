@@ -12,4 +12,4 @@ The game was not as long as I had hoped, although I finished without completing 
 
 Still, very enjoyable game. Don't even need knowledge of Wind Waker to play it. (Although it helped being told that Link jumps farther when carrying a chicken.)
 
- [1]: http://roytang.net/blog/2007/10/memories-of-zelda/
+ [1]: /2007/10/memories-of-zelda/

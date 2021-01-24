@@ -149,5 +149,5 @@ I won the first 3 rounds on the back of my fliers, then lost round 4 to a mildly
 
 I'm a bit sad about not performing well in both GPs I attended this year, and as always it makes me think about quitting competitive Magic completely. It requires a lot of time and effort to keep up and be familiar with the metagame. In fact, I had already decided to skip the Standard GP in Singapore next June. (This will be the first GP Singapore that I would have missed since 2010). I'll probably stick to Modern mostly for the near future.
 
- [1]: http://roytang.net/2017/12/singapore-2017/
- [2]: http://roytang.net/2011/06/grand-prix-singapore-tournament-report/
+ [1]: /2017/12/singapore-2017/
+ [2]: /2011/06/grand-prix-singapore-tournament-report/

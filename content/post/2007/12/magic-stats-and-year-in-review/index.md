@@ -18,4 +18,4 @@ Still, I have a long way to go towards improving. I was disappointed to find out
 
 Wish me luck 😀
 
- [1]: http://roytang.net/stuff/magicstats.php
+ [1]: /page/stats/mtg/

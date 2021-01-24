@@ -26,4 +26,4 @@ I'm not sure when we eventually grew tired of the game and stopped borrowing it.
 
 After the original Zelda, I eventually finished Link to the Past on the SNES, then skipping out on the N64/Gamecube/Game Boy generation of Zelda games since I didn't have those consoles. Of course I could play those games on an emulator, but it wasn't really the same thing. An emulator's save/load game state was far too powerful for one to enjoy the game. Holding the NDS in my hands and playing the Phantom Hourglass brings back childhood memories of walking through unforgiving dungeons and defeating vicious bosses with just enough life to stay alive; a single misstep or badly timed sword thrust would destroy hours of progress {{< footnote >}}Phantom Hourglass is a lot more forgiving of course, which is good considering I no longer have the hand-eye coordination of a twelve-year old.{{< /footnote >}}. A boy dressed in green traveling across a vast land filled with dangerous monsters to stop a great evil and save a princess. So very cliche. One that an entire generation of gamers has kept coming back to... 
 
- [1]: http://roytang.net/magic
+ [1]: /tags/mtg

@@ -65,4 +65,4 @@ This series kicked off with a bit of controversy regarding the mangling of Starf
 
 Ugh, these reviews are taking longer to write than I thought. Next up: Superman and Green Lantern.
 
- [1]: http://roytang.net/2012/05/the-dc-new-52-review-part-1/
+ [1]: /2012/05/the-dc-new-52-review-part-1/

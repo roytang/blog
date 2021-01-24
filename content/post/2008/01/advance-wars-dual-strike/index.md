@@ -14,6 +14,6 @@ Also, I was getting bored with my desktop wallpaper so I decided to look for som
 
 I ended up not using them after all though. My new desktop wallpaper is [here][3].
 
- [1]: http:// "http://www.advancewars.com"
+ [1]: http://www.advancewars.com
  [2]: http://roytang.net/awds
  [3]: http://roytang.deviantart.com/art/January-16-2008-Desktop-74783687
