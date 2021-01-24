@@ -5,6 +5,8 @@ date: 2016-01-13 03:04:31
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/687108898684207104/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153466852866799
 tags:
 - Philippines
 title: 'Comparing Singapore and PH: Apples and Oranges'

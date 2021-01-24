@@ -7,6 +7,9 @@ tags:
 title: Thirty One
 type: post
 url: /2009/08/thirty-one/
+syndicated:
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/112329128911
 ---
 
 Days seem to fly by at such an unforgiving pace. Has it really been thirty-one years now?
