@@ -19,6 +19,7 @@ Wow, January is almost done. Wouldn't you know it.
 - Someone made [a Mandalorian trailer in the style of old-school spaghetti westerns](https://www.youtube.com/watch?v=IJH_RbnrGUs).
 - I like this [random lore generator](https://myk.ninja/loremen)
 - I wrote a bunch of words about [my thoughts on tech censorship and social media](/2021/01/tech-censorship/); there are some relevant links in there, if that kind of thing interests you
+- This [difficult person test](https://www.idrlabs.com/difficult-person/test.php) did the rounds in some of my online groups this week (and sparked some silly discussions about gaming self-assessments)
 - Wow, did I not internet that much or was the internet just boring this week? Boring can be good though.
 
 ### My stuff:
@@ -36,7 +37,7 @@ Wow, January is almost done. Wouldn't you know it.
 - Health: Still have muscle pains in my left upper bicep and shoulder, though they seem to be in different places compared to before? Am using this hand massager to massage the area occassionally while I'm at the computer, and still continuing the warm compress. Hoping this fixes it up soon, I don't want to have to ask a stranger to come in and massage me or whatever.
 - For the first time since March, I put on pants! I had only been going out in shorts when going to the grocery or the nearby pharmacy, but this week I had to do an errand at a hospital a bit farther away, so I figured it would be a good time to figure out where my pants were. Hospital protocols were strict, as expected. We had to wait in like 3 different waiting areas before we could get to our appointment. This hospital was one of the hotspots back in the early days of the pandemic, so their vigilance is reassuring.
 - PC died unexpectedly today. As in, lost power while I was using it and wouldn't turn back on, power light just blinking. This has happened once before, towards the end of 2020. Back then I had tried unplugging the power supply and opening it up, then reconnecting to see what happened, and it just miraculously fixed itself. This time, I just unplugged the PS, then left it alone for a while. When I came back later and reconnected everything and booted up, it was fine. So I guess there's some issue with the power supply? I don't want to have to upgrade just yet, although this rig is already more than 5 years old, I'm hoping I can get a couple more years out of it at least. (That and I don't want to have to go to a shop to have one assembled during the pandemic, and I don't wanna do the assembly myself.)
-
+- I filled up an online application form for Quezon City's new QC id, we'll see how this goes.
 ### Looking forward to this coming week:
 
 - new WandaVision episode!
