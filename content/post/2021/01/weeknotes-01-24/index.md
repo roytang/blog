@@ -1,6 +1,11 @@
 ---
-date: 2021-01-24T13:19:34+08:00
+date: 2021-01-24 05:19:34
 slug: weeknotes-2021-01-24
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105609136692352080
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1353219061673431041/
 tags:
 - weeknotes
 title: Weeknotes 2021-01-24
