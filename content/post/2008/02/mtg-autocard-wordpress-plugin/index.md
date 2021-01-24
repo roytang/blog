@@ -13,5 +13,5 @@ I had been planning to do this for a while: it's my first WordPress Plugin! Over
 
 Details and download are at [http://www.roytang.net/wiki/index.php/MTG_Autocard_WP][2]. Hopefully someone else will find it useful.
 
- [1]: http://roytang.net/magic/
+ [1]: /tags/mtg
  [2]: http://www.roytang.net/wiki/index.php/MTG_Autocard_WP

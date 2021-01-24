@@ -42,4 +42,4 @@ On the flight home, PAL switched me to a much smaller plane, which sucked. :( I 
 
 Anyway, got home around 11:30, bought some more goodies at the duty-free shop. Took a taxi home, arrived safe and sound. Told stories for an hour or so, then ...  zzzzzz.
 
- [1]: http://roytang.net/blog/?p=34
+ [1]: /2004/04/roy-goes-to-hk/

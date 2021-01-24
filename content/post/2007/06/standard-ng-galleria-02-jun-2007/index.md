@@ -94,5 +94,5 @@ Seeing as how the local metagame is maybe 60-70% aggro, I'll also probably tweak
 Next stop: Regionals.
 
  [1]: #
- [2]: http://roytang.net/blog/2007/05/future-sight-inaugural-ng-galleria-26-may-2007/
+ [2]: /2007/05/future-sight-inaugural-ng-galleria-26-may-2007/
  [3]: http://www.wizards.com/default.asp?x=mtgcom/academy/41

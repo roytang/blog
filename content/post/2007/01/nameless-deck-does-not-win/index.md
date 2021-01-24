@@ -14,4 +14,4 @@ I went 2-3-drop, with the losses all going to aggro decks (2 Boros, 1 KarstenBot
 
 Anyway, with Planar Chaos coming out, my colors (Red/Green/Black) look like they're getting a good boost, so hopefully I can further improve this deck. And hopefully think of a better name.
 
- [1]: http://roytang.net/magic/2007/01/nameless-deck-wins/
+ [1]: /2007/01/nameless-deck-wins/

@@ -68,6 +68,6 @@ I login to WordPress and change the theme to "green" and check it out in the bro
 
 It now looks like the layout I planned! (Surprise!) Now I need to cleanup the content so that only the parts I want are displayed in each column. This is going to take a lot more delving into the innards of WordPress and PHP though, so I'll continue this next time.
 
- [1]: http://roytang.net/magic/
+ [1]: /tags/mtg
  [5]: http://www.wizards.com/default.asp?x=mtgcom/arcana/1517
  

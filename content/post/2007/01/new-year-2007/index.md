@@ -19,4 +19,4 @@ Review of [last year's resolution][1]:
 
 Yay for me.
 
- [1]: http://roytang.net/blog/2006/01/i-wasnt-planning-on-making-resolutions/
+ [1]: /2006/01/i-wasnt-planning-on-making-resolutions/

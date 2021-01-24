@@ -52,4 +52,4 @@ I tried thinking up some New Year's resolutions, but, as many intelligent folk k
 
 That's it I guess, let's see what 2005 has in store for us. Bring it!
 
- [1]: http://roytang.net/2004/11/my-eyeglasses-belong-to-the-sea/
+ [1]: /2004/11/my-eyeglasses-belong-to-the-sea/

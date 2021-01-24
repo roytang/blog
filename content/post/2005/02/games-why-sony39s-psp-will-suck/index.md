@@ -28,4 +28,4 @@ Let me repeat: consoles suck. Not console games mind you, console games are grea
 Disclaimer: Okay, I've overreacting, consoles don't _really_ suck, but I [really hate my PS2 right now][2].
 
  [1]: http://www.gearlive.com/index.php/news/article/feature_why_sonys_psp_will_suck_02070458/
- [2]: http://roytang.net/blog/2005/02/some-thoughts-on-piracy/
+ [2]: /2005/02/some-thoughts-on-piracy/

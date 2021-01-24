@@ -19,7 +19,7 @@ Christmas is stressful. Everyone is busy, busy, busy. Going from place to place 
 
 Speaking of early morning, I left work close to midnight last night. We've been in crunch mode for the past two weeks or so, what with multiple deadlines coming up in January. Not that I can't handle of course. But it doesn't help that every other developer in one of my projects is going to be on vacation next week. Since I've had to run on pure genius these past few days, and as side effect, I was often more loud, sarcastic and smarmy than usual. To anyone who was annoyed by this, I apologize.
 
-And the highlight of my last day of work before Christmas? Sometime before dinner I wrote a love letter and sent it by email to [her][1]. Nothing much, just telling her some things I wanted her to know, and greeting her for the holidays and stuff. I wasn't expecting anything back, but I guess I got lucky. A few minutes before I left the office, I got a jabber message from her. To paraphrase:
+And the highlight of my last day of work before Christmas? Sometime before dinner I wrote a love letter and sent it by email to her. Nothing much, just telling her some things I wanted her to know, and greeting her for the holidays and stuff. I wasn't expecting anything back, but I guess I got lucky. A few minutes before I left the office, I got a jabber message from her. To paraphrase:
 
 > <pre>her: boo!
 her: thanks for the lovely letter :)
@@ -30,4 +30,4 @@ There was more of course, a small exchange of pleasantries and even more holiday
 
 Happy Holidays!
 
- [1]: http://roytang.net/blog/?p=53
+ 

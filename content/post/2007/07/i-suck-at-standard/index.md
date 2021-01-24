@@ -22,4 +22,4 @@ I need more solid constructed finishes to boost my ratings so I could be in the 
 
 In any case, I need a break. Ravnica block is pretty much dead to me now, I will probably take a hiatus until it rotates out. With the possible exception of another PTQ for Valencia, I expect my next tournament to be the Lorwyn prereleases.
 
- [1]: http://roytang.net/magic/2007/07/ptq-valencia-2007-06-30-ng-galleria/
+ [1]: /2007/07/ptq-valencia-2007-06-30-ng-galleria/

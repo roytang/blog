@@ -33,7 +33,7 @@ Each category has a separate RSS feed you can subscribe to -- so that if you're 
 
 <!-- technorati tags end -->
 
- [1]: http://roytang.net/magic/
+ [1]: /tags/mtg
  [2]: http://roytang.net/dev/
  [3]: http://roytang.net/games/
  [4]: http://roytang.net/blog/

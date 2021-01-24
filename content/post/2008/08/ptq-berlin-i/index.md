@@ -118,6 +118,6 @@ Right now, I'd say there's about a 60-70% chance I'll be playing this deck at th
 Now to figure out the QnT matchup... 
 
 
- [1]: http://roytang.net/magic/2008/08/2008-philippine-open-block-top-16/
+ [1]: /2008/08/2008-philippine-open-block-top-16/
  [2]: http://magiccards.info/autocard.php?card=Rendclaw%20Troll
  [3]: /files/uploads/2008/08/picture0002.jpg

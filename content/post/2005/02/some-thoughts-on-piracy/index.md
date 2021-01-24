@@ -28,4 +28,4 @@ I don't know why games (and digital media in general) have to be the same cost o
 
 In the future, I may be more compelled to buy console originals online, especially if I can find good deals on used copies. Well, at least as soon as I become more confident about buying things online.
 
- [1]: http://roytang.net/blog/2005/01/games-star-ocean-till-the-end-of-time/
+ [1]: /2005/01/games-star-ocean-till-the-end-of-time/

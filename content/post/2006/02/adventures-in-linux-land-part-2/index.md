@@ -17,4 +17,4 @@ Now, the question is, what next? I seem to be a total newbie at this Linux thing
 
 _(To be continued... )_
 
- [1]: http://roytang.net/blog/2006/01/adventures-in-linux-land-part-1/
+ [1]: /2006/01/adventures-in-linux-land-part-1/

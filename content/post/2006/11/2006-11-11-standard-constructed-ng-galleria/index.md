@@ -86,4 +86,4 @@ I finish 4-3, 19th, winning one booster pack, plus two packs from the 6th round 
 
 That was a bit disheartening. Islands in every battle! I'm tired of this deck, I think I'll switch to a different deck next time. Something named www.IHateIslands.com.
 
- [1]: http://roytang.net/magic/2006/11/2006-11-04-standard-constructed-ng-galleria/
+ [1]: /2006/11/2006-11-04-standard-constructed-ng-galleria/

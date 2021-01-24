@@ -21,4 +21,4 @@ TV is slightly better, since TV programming is supposedly scheduled. But TV's pr
 
 My brother Brian gets credit for the "random station button" idea. Everything should have the ability to be random.
 
- [1]: http://roytang.net/meat/2005/06/music-quiz/
+ [1]: /2005/06/music-quiz/

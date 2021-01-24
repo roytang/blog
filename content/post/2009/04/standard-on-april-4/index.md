@@ -32,7 +32,7 @@ I think I'm good to go with 5cc for City Champs in two weeks, though I'm still v
 
 My prize packs had: Telemin Performance (foil), Master Transmuter, Blood Tyrant, Soul's Majesty, Worldheart Phoenix. Bah, I want Banefires or Exotic Orchards!
 
- [1]: http://roytang.net/magic/2009/03/standard-mar-28/
+ [1]: /2009/03/standard-mar-28/
  [2]: http://magiccards.info/autocard.php?card=Plumeveil
  [3]: http://magiccards.info/autocard.php?card=Mulldrifter
  [4]: http://magiccards.info/autocard.php?card=Scourglass

@@ -24,4 +24,4 @@ These are the sort of things they should be focusing on, not optical media pirac
 On a personal note, these things happen at weird times for me. Seems I always need a reminder that my own personal dramas are so irrelevant compared to such real-world issues.
 
  [1]: http://news.inq7.net/top/index.php?index=1&story_id=27505
- [2]: http://roytang.net/blog/2005/02/piracy-the-mrtlrt-and-mall-security/
+ [2]: /2005/02/piracy-the-mrtlrt-and-mall-security/

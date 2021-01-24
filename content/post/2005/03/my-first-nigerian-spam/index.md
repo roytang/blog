@@ -15,8 +15,7 @@ url: /2005/03/my-first-nigerian-spam/
 
 No seriously, I don't remember having received any before.
 
-[Click to view][1] 
+![](/files/nigerian_spam.jpg)
 
 Edit: Okay, it's the first one that I actually received in my inbox. I don't actually know if Yahoo or Gmail's filters killed one before i saw it.
 
- [1]: http://roytang.net/files/nigerian_spam.jpg

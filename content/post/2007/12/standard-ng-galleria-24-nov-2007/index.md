@@ -50,4 +50,4 @@ Final record: 5-3, finishing 17. Not so bad I guess, considering I finished 25th
 
 Next: PTQ KL #3
 
- [1]: http://roytang.net/magic/2007/11/lorwyn-inaugurals/
+ [1]: /2007/11/lorwyn-inaugurals/

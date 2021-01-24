@@ -25,4 +25,4 @@ After running the XP installer just to see what options I had for repairing the 
 
 In any case, I'm on a clean XP install now. I'll probably reinstall Ubuntu some time (dual boot again), but for now I seem to be another Microsoft sheep again.
 
- [1]: http://roytang.net/blog/2007/03/the-miracle-pc/
+ [1]: /2007/03/the-miracle-pc/

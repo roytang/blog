@@ -105,5 +105,5 @@ Well, if it's one thing I've learned during the past few weeks of mediocre perfo
 
 Will I make it to Nationals this year? I don't know -- the ratings cutoff is still a month away, and I'm only two 5-2 finishes away from making it (assuming I didn't lose too much today). In any case, time to focus on block constructed for GPTs... 
 
- [1]: http://roytang.net/magic/2006/06/magic-regionals-2006/
+ [1]: /2006/06/magic-regionals-2006/
  [2]: http://http://roytang.net/magic/2007/06/magic-regionals-2007/

@@ -25,10 +25,10 @@ I remember being really excited the first time I won against my uncle; he had be
 
 If you knew me during college, you may know that I was a pretty good Scrabble player. I took the PE class (easy 1.0! although of course PEs don't count against the GWA), played in two or three University-wide tournaments, and won one or two. Well, memory tells me I won at least one, but the number of extra Scrabble sets I still keep to this day tell me it was probably two.
 
-I do remember that at a certain point I was even thinking about competing in National or International tournaments. Alas, if only Scrabble tournaments were held at the same regularity that [Magic ][1]tournaments are, I might have a completely different (and much less expensive) geeky hobby right now.
+I do remember that at a certain point I was even thinking about competing in National or International tournaments. Alas, if only Scrabble tournaments were held at the same regularity that [Magic][1] tournaments are, I might have a completely different (and much less expensive) geeky hobby right now.
 
 These days I still manage a game every so often with either my brothers or my mother, so the extra scrabble boards go unused. We've also played a lot online, Scrabulous is an excellent waste of time. It's sad that Milton-Bradley, the company that owns the Scrabble trademark, is suing Scrabulous over this when Scrabulous has made Scrabble so popular online, especially over Facebook.
 
 Watching the Scrabble tournament today for a few minutes, I realized I wish I had known about the tournament; I may be rusty but I could probably still put up a fight. And I also remembered one of the great things about Scrabble: anyone can play -- the tournament had young and old, men and women alike, fighting for dominance over the space a few tiles and a few words. Maybe someday I can compete in that world again.
 
- [1]: http://roytang.net/magic/
+ [1]: /tags/mtg

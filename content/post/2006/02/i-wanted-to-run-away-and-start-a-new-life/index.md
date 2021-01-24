@@ -15,4 +15,4 @@ With that done, my escape was nearly complete. I slunk around the shadows as dus
 
 ... and then I woke up. I get the weirdest dreams when I stay up overnight on Saturday and sleep through Sunday afternoon. This one was particularly vivid, though I wish I could have remembered more of the details (and I was fudging some stuff here and there); when I woke up I had the distinct impression that there were much more adventurous undertones in the dream than I recalled. I considered using my awesome dream-recall powers to go back to sleep and continue the dream, but then I realized I was late for Church... 
 
- [1]: http://roytang.net/blog/2006/02/looking-out-over-punta-fuego/
+ [1]: /2006/02/looking-out-over-punta-fuego/

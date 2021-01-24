@@ -57,4 +57,4 @@ On playing net decks: This was the first time I had brought to a tournament a de
 
  [1]: http://www.wizards.com/default.asp?x=mtgevent/regionals07/edison
  [2]: http://www.starcitygames.com/php/news/article/14323.html
- [3]: http://roytang.net/magic/2006/06/magic-regionals-2006/
+ [3]: /2006/06/magic-regionals-2006/

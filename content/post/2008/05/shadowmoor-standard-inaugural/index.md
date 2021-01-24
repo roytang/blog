@@ -133,6 +133,6 @@ I think I've lost enough rating points for today and tick drop in the slot. Damn
 
 Next week: Block!
 
- [1]: http://roytang.net/magic/2008/04/deck-building-for-an-unknown-metagame/
+ [1]: /2008/04/deck-building-for-an-unknown-metagame/
  [2]: http://magiccards.info/autocard.php?card=Savor%20the%20Moment
  [3]: http://magiccards.info/autocard.php?card=Inkfathom%20Infiltrator

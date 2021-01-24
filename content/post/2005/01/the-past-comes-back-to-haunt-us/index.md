@@ -29,5 +29,5 @@ Hmm... I really only wanted to post that I was bringing back the old posts. I ta
 
  [1]: http://topcities.com
  [2]: http://www.archive.org
- [3]: http://roytang.net/blog/?p=93
- [4]: http://roytang.net/blog/?p=64
+ [3]: /2004/12/i-get-bored-easily/
+ [4]: /2004/10/unrequited/

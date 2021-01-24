@@ -11,4 +11,4 @@ I was in Galleria earlier today and suddenly the power went out for a few second
 
 Even I felt a bit shaken up I might add, even considering cutting short the tournament ([I wasn't doing well][1]) I hate that. Being overcome by fear, even for a very short instant. Hopefully, the authorities would be able to find whoever was responsible for the recent bombings to make the rest of us feel safer.
 
- [1]: http://roytang.net/magic/2007/10/gpt-bangkok-4/
+ [1]: /2007/10/gpt-bangkok-4/
