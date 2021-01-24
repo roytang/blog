@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/13612799085/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/124192574260413
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/389502243911
 tags:
 - Philippines
 title: Elections 2010 -- My Ballot
