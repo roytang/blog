@@ -7,7 +7,7 @@ title: "Final Fantasy IX: Nobody Wants To Live Forever"
 tagline: "So where did Vivi go? And how did Zidane get back?"
 ---
 
-[Fanfiction.net mirror](https://www.fanfiction.net/s/447644/1/Nobody-Wants-to-Live-Forever) | [Fanfiction.net reviews] (https://www.fanfiction.net/r/447644/)
+[Fanfiction.net mirror](https://www.fanfiction.net/s/447644/1/Nobody-Wants-to-Live-Forever) | [Fanfiction.net reviews](https://www.fanfiction.net/r/447644/)
 
 Nobody Wants to Live Forever
 

@@ -7,7 +7,7 @@ title: "Final Fantasy VI: Something to Live For"
 tagline: "What forced Locke to become a thief and join the returners?"
 ---
 
-[Fanfiction.net mirror](https://www.fanfiction.net/s/393006/1/Something-to-Live-For) | [Fanfiction.net reviews] (https://www.fanfiction.net/r/393006/)
+[Fanfiction.net mirror](https://www.fanfiction.net/s/393006/1/Something-to-Live-For) | [Fanfiction.net reviews](https://www.fanfiction.net/r/393006/)
 ***
 
 An FF6 fan fiction work by: zroytang@yahoo.com. Final Fantasy VI and all
