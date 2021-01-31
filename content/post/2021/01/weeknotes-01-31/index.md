@@ -1,6 +1,11 @@
 ---
-date: 2021-01-31T10:37:11+08:00
+date: 2021-01-31 02:37:11
 slug: weeknotes-2021-01-31
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105648170628388260
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1355717233649934340/
 tags:
 - weeknotes
 title: Weeknotes 2021-01-31 Stonks!
