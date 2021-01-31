@@ -18,7 +18,14 @@ It's February tomorrow! Somehow, the world still turns.
 - There was this [excellent series of posts by Hillel Wayne](https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/) comparing software engineering to other engineering disciplines by interviewing people who have crossed over from other fields into ours. It addresses interesting questions like whether what we do can really be called "engineering" and what can software engineering and other engineering fields learn from each other.
 - [USA has been downgraded from a democracy to an anocracy](https://kottke.org/21/01/.usa-downgraded-from-democracy-to-anocracy-part-democracy-and-part-dictatorship). This was the first time I heard of this term, anocracy.
 - [Facebook says they want to deprioritize political content](https://www.engadget.com/facebook-political-content-news-feed-mark-zuckerberg-232846266.html). We'll see if that holds, given that generating political heat is good for their engagement metrics. But if such a thing were to happen (and applied to the PH), it would seriously reduce the reach of government propaganda.
+- Speaking of Facebook, they appear to have recently [banned someone for criticizing them.](https://lincoln.metacannon.net/2021/01/facebook-disabled-my-account-after-i-criticized-them.html)
 - I have yet to read through all of it, but there's this metafilter thread full of all sorts of recommendations: [What do you always recommend to people](https://ask.metafilter.com/351766/What-do-you-always-recommend-to-people).
+- This set of Wikimedia [guidelines about how to handle mistakes](https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...) is great and people should apply it liberally to most situations.
+- Chris Kiehl talks about [software dev topics he's changed his mind on after the last 6 years](https://chriskiehl.com/article/thoughts-after-6-years).
+- Rands talks about [doomscrolling at scale](https://randsinrepose.com/archives/doomscrolling-at-scale/) using Tweetdeck, an app [I've always recommended](/2020/06/why-twitter/).
+- [Andrea Zittel: These things I know for sure](https://baileye.tumblr.com/post/640943200394231808/andrea-zittel-these-things-i-know-for-sure)
+- The current US senate's President pro tempore has [appeared in multiple Batman movies](https://edition.cnn.com/2021/01/23/us/senator-patrick-leahy-batman-trnd/index.html)!
+- [How homogenous is Japan?](https://noahpinion.substack.com/p/how-homogeneous-is-japan)
 
 ### My stuff:
 
