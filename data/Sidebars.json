@@ -136,6 +136,10 @@
             "URL": "/index.xml"
         },
         {
+            "Name": "Daily Feed (RSS)",
+            "URL": "/daily/feed/"
+        },
+        {
             "Name": "Blog (RSS)",
             "URL": "/blog/index.xml"
         },
