@@ -13,5 +13,11 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/105651085376862548
 - type: twitter
   url: https://twitter.com/roytang/statuses/1355903778017341445/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1355903895336181767/
 title: '20 Lessons from 5 years of developing Academia: School Simulator'
 ---
+
+
+
+[@MarnelEstrada](https://twitter.com/MarnelEstrada/) ang galing mo na magsulat!
