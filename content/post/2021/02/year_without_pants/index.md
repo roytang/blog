@@ -15,4 +15,6 @@ title: 'Book Review: The Year Without Pants'
 
 It's weird reading this book in the context of the current pandemic, where remote work is now the norm among tech companies. So one of the things I like about the book is it's kind of a time capsule back to an era when remote work was a novelty and not an everyday part of our modern dystopia. That and the stories about the culture at Automattic and Wordpress, arguably one of the main drivers of the [blogging](/tags/blogging/) phenomenon at its peak. 
 
+Wordpress.com was a force back in the day, and maybe it still is, as Wordpress still powers a good number of sites online I think. I'd be eager to read an updated take on what life is like at Automattic/Wordpress.com these days.
+
 I wouldn't really recommended the book to anyone who isn't interested in the internet history and the whole tech side of it, but if that's you, it's an entertaining enough read.
