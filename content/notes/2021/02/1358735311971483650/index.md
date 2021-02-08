@@ -4,6 +4,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1358735311971483650/
+tags:
+- mtg
+- magic arena
+- twitch
+- kaldheim
 ---
 
 Drafting Kaldheim ep5 https://www.twitch.tv/twitchyroy
