@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1358735311971483650/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1358790539320070147/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1358805002194571264/
 tags:
 - mtg
 - magic arena
