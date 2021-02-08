@@ -1,8 +1,13 @@
 ---
-title: "Link Rot"
-date: 2021-02-08T20:15:16+08:00
+date: 2021-02-08 12:15:16
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105696006934454108
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1358778756903563264/
 tags:
 - tech life
+title: Link Rot
 ---
 
 #### 1
