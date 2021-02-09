@@ -1,0 +1,27 @@
+{
+  "id": "508557f7-ddf2-4a40-8468-8a67dc534d05",
+  "name": "Marnielle Estrada",
+  "url": "https://twitter.com/MarnelEstrada",
+  "text": "[Marnielle Estrada](https://twitter.com/MarnelEstrada) [liked this](https://twitter.com/roytang/status/1358778756903563264#favorited-by-2485034678)",
+  "date": "2021-02-09 01:20:12",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1358778756903563264#favorited-by-2485034678",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marnielle Estrada",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/704c57a74399b40a10b683e864742010e72faf850c7a8472c4a58d09ce8dfa10.jpg",
+      "url": "https://twitter.com/MarnelEstrada"
+    },
+    "url": "https://twitter.com/roytang/status/1358778756903563264#favorited-by-2485034678",
+    "published": null,
+    "wm-received": "2021-02-09T01:20:12Z",
+    "wm-id": 1023590,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1358778756903563264/2485034678",
+    "wm-target": "https://roytang.net/2021/02/link-rot/",
+    "like-of": "https://roytang.net/2021/02/link-rot/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
