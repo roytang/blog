@@ -1,9 +1,14 @@
 ---
-title: "Sincere Blogging"
-date: 2021-02-09T21:53:08+08:00
+date: 2021-02-09 13:53:08
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105701693917437500
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1359142724826370056/
 tags:
 - tech-life
 - blogging
+title: Sincere Blogging
 ---
 
 {{< note "2021/02/23ef43058c482c829265e01e331d53c2/" >}}

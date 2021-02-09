@@ -1,10 +1,15 @@
 ---
-date: 2021-02-09T11:41:11+08:00
+date: 2021-02-09 03:41:11
 reviews:
 - description: A look back at a time when remote work was novel.
   media: books
   rating: 3
   title: The Year Without Pants by Katie Mack
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105701693762203595
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1359142715678552067/
 tags:
 - books
 - tech life
