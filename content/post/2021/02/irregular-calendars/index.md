@@ -1,7 +1,12 @@
 ---
-title: "Irregular Calendars"
-date: 2021-02-11T09:53:26+08:00
+date: 2021-02-11 01:53:26
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105711365840146814
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1359761726988685312/
+title: Irregular Calendars
 ---
 
 A [post from Austin Kleon](https://austinkleon.com/2021/02/05/the-trouble-with-months/) reminded me of the proposed conceptual international fixed calendar:
