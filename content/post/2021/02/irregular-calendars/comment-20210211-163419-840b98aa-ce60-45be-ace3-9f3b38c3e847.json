@@ -1,0 +1,30 @@
+{
+  "id": "840b98aa-ce60-45be-ace3-9f3b38c3e847",
+  "name": "",
+  "url": "",
+  "text": "[https://paulcapewell.com/2021/02/11/irregular-timekeeping/](https://paulcapewell.com/2021/02/11/irregular-timekeeping/) mentioned [https://roytang.net/2021/02/irregular-calendars/](https://roytang.net/2021/02/irregular-calendars/)",
+  "date": "2021-02-11 16:34:19",
+  "photo": null,
+  "source_url": "https://paulcapewell.com/2021/02/11/irregular-timekeeping/",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://paulcapewell.com/2021/02/11/irregular-timekeeping/",
+    "published": null,
+    "wm-received": "2021-02-11T16:34:19Z",
+    "wm-id": 1027442,
+    "wm-source": "https://paulcapewell.com/2021/02/11/irregular-timekeeping/",
+    "wm-target": "https://roytang.net/2021/02/irregular-calendars/",
+    "mention-of": "https://roytang.net/2021/02/irregular-calendars/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://paulcapewell.com/2021/02/11/irregular-timekeeping/"
+    }
+  }
+}
