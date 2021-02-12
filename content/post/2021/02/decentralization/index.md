@@ -1,5 +1,10 @@
 ---
 date: 2021-02-12 05:50:47
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105716973913524159
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1360120643979649024/
 tags:
 - tech life
 title: Decentralization
