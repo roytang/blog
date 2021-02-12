@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1360189270577844230/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1360227545761734658/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1360240729960845318/
 tags:
 - mtg
 - magicarena
@@ -16,3 +18,9 @@ tags:
 Drafting Kaldheim ep7 https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #kaldheim
 
 Ugh, I continued to be terrible
+
+I drafted two BW decks today, both performed terribly. Or I did, whatever. 
+
+
+
+YT: https://www.youtube.com/watch?v=cXc-gyBtfvE
