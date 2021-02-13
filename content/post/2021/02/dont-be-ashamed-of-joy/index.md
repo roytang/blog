@@ -1,7 +1,12 @@
 ---
-title: "Don't Be Ashamed of Joy"
-date: 2021-02-13T11:29:55+08:00
-subtitle: "This post may or may not be about BTS"
+date: 2021-02-13 03:29:55
+subtitle: This post may or may not be about BTS
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105722690727880169
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1360486520050749441/
+title: Don't Be Ashamed of Joy
 ---
 
 Lauren R. O'Connor [talks about a childhood lesson about pleasure](https://medium.com/the-bts-effect/on-pleasure-510c9795bff4):
