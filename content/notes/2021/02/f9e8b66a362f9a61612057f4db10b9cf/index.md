@@ -11,4 +11,6 @@ title: ''
 
 After watching an episode of: 
 
-- Brooklyn 99: Oh, Netflix already queued up the next episode, might as well - WandaVision: I need to wait one more week to find out what happens?? - The Expanse: So many things happened, I need time to digest
+- Brooklyn 99: Oh, Netflix already queued up the next episode, might as well
+- WandaVision: I need to wait one more week to find out what happens??
+- The Expanse: So many things happened, I need time to digest
