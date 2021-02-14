@@ -28,7 +28,6 @@ title: Weeknotes 2021-02-14
 - I wrote a bunch of actual non-weeknotes [blog posts](/blog/) last week, so go check them out! Or don't, I'm not your mother.
 - Daily sketches still ongoing in [the sketchbook album](/albums/sketchbook/), somehow still managing to keep up. I make no pretense that the sketches are actually good.
 - **Watching:**
-    - **WandaVision** episode 5 was fantastic. It also may or may not be a BIG DEAL (tm). We'll see. I was a bit annoyed that this was a weekly show, but the reality is that their cliffhangers wouldn't have been as effective (or generated as much discussion/hype) if all the episodes came in one drop, so I guess it's okay.
     - I've been watching a lot of old Brooklyn Nine-Nine eps, still haven't caught up to the latest season already on Netflix. Was announced last week that the next season, only 10 eps, will be the last one.
     - Also started trying to catch up on The Expanse. This series is so hard to binge because each episode feels so heavy and dense I feel like I need time to absorb and reflect. Would have been perfect to be watching the eps weekly as they drop.
     - **WandaVision** on the other hand continues to be really effective/frustrating with their cliffhangers
