@@ -11,8 +11,6 @@ tags:
 title: Weeknotes 2021-02-14
 ---
 
-It's February! We are nearing the one year anniversary of being in the longest covid19 lockdown in the world!
-
 ### The world:
 
 - Trump has been acquitted in his second impeachment trial, proving yet again to the world that the US is a flawed democracy dominated by corruption at the highest levels
