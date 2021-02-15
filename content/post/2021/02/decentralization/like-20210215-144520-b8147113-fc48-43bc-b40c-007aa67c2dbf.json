@@ -1,0 +1,34 @@
+{
+  "id": "b8147113-fc48-43bc-b40c-007aa67c2dbf",
+  "name": "Dominik Schwind",
+  "url": "https://lostfocus.de",
+  "text": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2021/02/decentralization/\">https://roytang.net/2021/02/decentralization/</a>.</p>",
+  "date": "2021-02-15 14:45:20",
+  "photo": null,
+  "source_url": "https://lostfocus.de/2021/02/174177/",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "url": "https://lostfocus.de"
+    },
+    "url": "https://lostfocus.de/2021/02/174177/",
+    "published": "2021-02-12T09:28:29+01:00",
+    "wm-received": "2021-02-15T14:45:20Z",
+    "wm-id": 1032479,
+    "wm-source": "https://lostfocus.de/2021/02/174177/",
+    "wm-target": "https://roytang.net/2021/02/decentralization/",
+    "content": {
+      "html": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2021/02/decentralization/\">https://roytang.net/2021/02/decentralization/</a>.</p>",
+      "text": "Likes https://roytang.net/2021/02/decentralization/."
+    },
+    "like-of": "https://roytang.net/2021/02/decentralization/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lostfocus.de/2021/02/174177/"
+    }
+  }
+}
