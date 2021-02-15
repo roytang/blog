@@ -1,9 +1,14 @@
 ---
-title: "Digital Boardgames Review: Sentinels of the Multiverse"
-date: 2021-02-15T15:34:18+08:00
+date: 2021-02-15 07:34:18
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105734403184788317
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1361236117207453697/
 tags:
 - gaming
-dontinlinephotos: true
+title: 'Digital Boardgames Review: Sentinels of the Multiverse'
 ---
 
 Over the past couple of years, I've been regularly playing digital boardgames online on Steam with one of my friend groups, I thought I'd do reviews of them.
@@ -19,4 +24,3 @@ The digital version has the advantage that it automates a lot of the ability tri
 {{< img src="sentinels.jpg" >}}
 
 The game's aesthetic is very much classic comic books, even multiplayer games are joined by entering a code in the format of a comic book issue like "Justice Comics #153". The art isn't the most elaborate and could be better; in fact, they are planning a [Definitive Edition of the boardgame](https://www.polygon.com/2021/1/27/22250963/sentinels-of-the-multiverse-definitive-kickstarter-street-date-price) that has even better art that is closer to the old-school comic book aesthetic. It looks like a signficant upgrade, so I expect if they ever release a digital version of the new version it would be a completely new game on Steam. Our group has enjoyed our Sentinels games though, so I fully expect we will be getting the new Steam version when it does come out.
-
