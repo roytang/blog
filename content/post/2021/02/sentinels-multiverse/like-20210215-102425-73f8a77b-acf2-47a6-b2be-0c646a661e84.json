@@ -1,0 +1,27 @@
+{
+  "id": "73f8a77b-acf2-47a6-b2be-0c646a661e84",
+  "name": "Rathskellers",
+  "url": "https://twitter.com/rathskellers",
+  "text": "[Rathskellers](https://twitter.com/rathskellers) [liked this](https://twitter.com/roytang/status/1361236117207453697#favorited-by-4073530516)",
+  "date": "2021-02-15 10:24:25",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1361236117207453697#favorited-by-4073530516",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rathskellers",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e560c6def3845b3fdc44e62d5e0621400b71db3ca160c86caba1ccacf9e9ab04.jpg",
+      "url": "https://twitter.com/rathskellers"
+    },
+    "url": "https://twitter.com/roytang/status/1361236117207453697#favorited-by-4073530516",
+    "published": null,
+    "wm-received": "2021-02-15T10:24:25Z",
+    "wm-id": 1032109,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1361236117207453697/4073530516",
+    "wm-target": "https://roytang.net/2021/02/sentinels-multiverse/",
+    "like-of": "https://roytang.net/2021/02/sentinels-multiverse/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
