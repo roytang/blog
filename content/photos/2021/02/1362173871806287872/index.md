@@ -6,8 +6,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1362173871806287872/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1362173873823698945/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1362188740647522304/
 ---
 
 Posting publicly for the benefit of other Globe subscribers in Tandang Sora:. [@talk2GLOBE](https://twitter.com/talk2GLOBE/) seems like 36h (and counting) should be more than enough time to at least give us a estimated timeframe of when we can expect a fix. Is it possibly within the day? Week? Month?
 
 Give us some idea so we can plan accordingly, especially for those who need this connection for work or school
+
+Almost an hour after I posted this, our internet service has apparently been restored. I hope my fellow tandang sora globe subscribers have recovered as well

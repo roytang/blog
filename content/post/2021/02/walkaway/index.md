@@ -1,14 +1,19 @@
 ---
-title: "Book Review: Walkaway by Cory Doctorow"
-date: 2021-02-17T16:01:30+08:00
+date: 2021-02-17 08:01:30
 reviews:
-- description: ""
+- description: ''
   media: books
   rating: 3
   title: Walkaway
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105749285227681631
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1362188566944645121/
 tags:
 - books
 - tech life
+title: 'Book Review: Walkaway by Cory Doctorow'
 ---
 
 Walkaway is a novel by blogger Cory Doctorow. It tells the story of a near-future world and a trend of people going "walkaway". This term means walking away from what they call "default society", characterized by late stage capitalism, massive inequality, ever-present surveillance, and a world controlled by what they call the zottarich, or simply zottas. Not too far from our own present reality of course. Later, the novel also delves into the near-future (?) concept of humans being to upload their consciousness into machines, effectively allowing them to cheat death by running as a "brain in a jar" on a cluster of computers.
