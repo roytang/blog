@@ -1,6 +1,11 @@
 ---
-date: 2021-02-21T15:08:58+08:00
+date: 2021-02-21 07:08:58
 slug: weeknotes-2021-02-21
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105768307660755420
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1363406003551707143/
 tags:
 - weeknotes
 title: Weeknotes 2021-02-21
