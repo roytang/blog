@@ -40,8 +40,7 @@ Last week of February is about to start. Time flies, as they say.
 
 ### This coming week:
 
-- penultimate WandaVision ep.
-- new One Piece later today
+- penultimate WandaVision ep!
 - Street Fighter 6 first drop for season 5
 - Civ6 New Frontier Pass free update for February (improved Barbarians mode!)
 - Superman and Lois premiering this week
