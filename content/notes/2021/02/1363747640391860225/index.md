@@ -4,6 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1363747640391860225/
+reviews:
 - description: Korean sci-fi. Fun ride, fairly entertaining, pretty good setpieces and special effects, kind of predictable.
   media: movies
   rating: 3
