@@ -1,14 +1,19 @@
 ---
-date: 2021-02-22T15:09:07+08:00
+date: 2021-02-22 07:09:07
+reviews:
+- description: A very slow-paced competitive score-focused game set in Eastern Europe.
+  link: https://store.steampowered.com/app/718560/Scythe_Digital_Edition/
+  media: games
+  rating: 3
+  title: 'Scythe: Digital Edition'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105773818921888138
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1363758724376981504/
 tags:
 - gaming
 title: 'Digital Boardgames Review: Scythe'
-reviews:
-- description: A very slow-paced competitive score-focused game set in Eastern Europe.
-  media: games
-  rating: 3
-  title: "Scythe: Digital Edition"
-  link: https://store.steampowered.com/app/718560/Scythe_Digital_Edition/
 ---
 
 Over the past couple of years, I've been regularly playing digital boardgames online on Steam with one of my friend groups, I thought I'd do reviews of them.
@@ -30,4 +35,3 @@ The display is literally just the actual board, and the camera can be a bit fini
 This is probably just relevant to my playgroup, but because of the slow pace, we tend to play a second metagame on top of the endgame scoring, where we consider the player who has spent the least amount of time on his turns (as seen via the turn clock) as "winning by time".
 
 Among the digital board games we've played, this is the one where we have the least amount of playtime. Unsurprising given how slow the pace is and how difficult it is. For this reason, I think it's difficult to recommend to any boardgame newbies.
-
