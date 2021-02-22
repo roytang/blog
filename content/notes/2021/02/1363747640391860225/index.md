@@ -4,6 +4,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1363747640391860225/
+- description: Korean sci-fi. Fun ride, fairly entertaining, pretty good setpieces and special effects, kind of predictable.
+  media: movies
+  rating: 3
+  title: Space Sweepers
 ---
 
 For some reason, I watched Space Sweepers, a Korean sci-fi movie on Netflix. Fun ride, fairly entertaining, pretty good setpieces and special effects. (They are so far ahead of the local film industry.) Plot a bit predictable. Villain made no sense.
