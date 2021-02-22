@@ -1,7 +1,7 @@
 ---
 date: 2021-02-17 08:01:30
 reviews:
-- description: ''
+- description: 'A near-future novel about hope rising out of dystopia'
   media: books
   rating: 3
   title: Walkaway
