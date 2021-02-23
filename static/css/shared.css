@@ -19,16 +19,23 @@
     width: 100%;
     background: rgba(0,0,0,0.6);
     padding-bottom: 1rem;
+    height: 15vh;
 }
 .lightbox_overlay * {
     padding: 1rem;
+}
+.lightbox_overlay p {
+    max-height: 3em;
+    white-space: nowrap;     
+    overflow: hidden;
+    text-overflow: ellipsis;    
 }
 .lightbox img {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: 20vh;
     margin: auto;
     max-width: 100%;
     max-height: 100%;
