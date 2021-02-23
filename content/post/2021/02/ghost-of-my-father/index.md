@@ -1,10 +1,15 @@
 ---
-date: 2021-02-23T08:30:03+08:00
+date: 2021-02-23 00:30:03
 reviews:
 - description: A look back at a time when remote work was novel.
   media: books
   rating: 3
   title: Ghost of My Father by Scott Berkun
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105778330275294058
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1364047450936250374/
 tags:
 - books
 title: 'Book Review: Ghost of My Father by Scott Berkun'
@@ -18,4 +23,4 @@ I started reading it because I was looking for a new book to pick up, and with t
 
 The author's relationship with his father was strained at best, and it affected the rest of their family as well. I can't personally relate to that, as I have a pretty good relationship with my family. The author's difficult family life provides a window into a kind of human interaction I'm not too familiar with. But I do empathize with how it can be difficult to deal with certain people, and how sometimes the people you need closure from the most will simply have no interest in providing it. 
 
-It's not a long book, it was a quick read for me (less than a week). I probably wouldn't have sought out such a book on my own, but I'm glad I read it. 
+It's not a long book, it was a quick read for me (less than a week). I probably wouldn't have sought out such a book on my own, but I'm glad I read it.
