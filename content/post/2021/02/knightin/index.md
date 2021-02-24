@@ -1,28 +1,37 @@
 ---
-title: "Game Review: Knightin'"
-date: 2021-02-24T12:41:32+08:00
-tags:
-- gaming
-reviews:
-- description: Tightly-designed indie Zelda-like dungeon crawler
-  media: games
-  rating: 4
-  title: Knightin'
-  link: https://store.steampowered.com/app/922710/Knightin/
+date: 2021-02-24 04:41:32
 dontinlinephotos: true
 resources:
 - src: enemies.jpg
-  title: Later rooms contain multiple enemies of different types and some dungeon mechanisms too.
+  title: Later rooms contain multiple enemies of different types and some dungeon
+    mechanisms too.
 - src: block_puzzle.jpg
-  title: This particular block puzzle gave me some trouble. You have to push the blocks onto the lighted tiles.
+  title: This particular block puzzle gave me some trouble. You have to push the blocks
+    onto the lighted tiles.
 - src: merchant.jpg
-  title: Each dungeon has a merchant named Mr Businessmage, he sells healing and various upgrades.
+  title: Each dungeon has a merchant named Mr Businessmage, he sells healing and various
+    upgrades.
 - src: obstacles.jpg
-  title: Later floors will have pillars which act as obstacles that you have to unlock to progress.
+  title: Later floors will have pillars which act as obstacles that you have to unlock
+    to progress.
 - src: switch_hints.jpg
   title: An example of a hint for a switch puzzle room, found by moving blocks around.
 - src: achievements.png
   title: So close.
+reviews:
+- description: Tightly-designed indie Zelda-like dungeon crawler
+  link: https://store.steampowered.com/app/922710/Knightin/
+  media: games
+  rating: 4
+  title: Knightin'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105784560814233561
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1364446206332608518/
+tags:
+- gaming
+title: 'Game Review: Knightin'''
 ---
 
 A while back, on a whim I purchased this indie game [Knightin'](https://store.steampowered.com/app/922710/Knightin/) on Steam. I forget how I came across it and why I decided to buy, but no regrets. It's a tightly-focused dungeon crawler in the style of original Legend of Zelda/Link to the Past dungeons. 
