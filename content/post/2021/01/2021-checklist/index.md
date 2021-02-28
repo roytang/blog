@@ -45,27 +45,27 @@ In no particular order:
   * Speak truth to power. 
   * Be kind.
 
-Some stuff I'm looking forward to in 2021 (who knows if they will actually release as scheduled!):
+Some stuff I'm looking forward to in 2021 (who knows if they will actually release as scheduled! This section is updated as news come out.):
 
 Movies:
 
 | <!-- -->    | <!-- -->    | <!-- --> |
 |-------------|-------------|----------|
-| Apr 02 | No Time To Die | |
+| Mar 18 | Justice League Snyder Cut | |
 | May 07 | Black Widow | |
-| Jun 11 | Ghostbusters Afterlife | [Ghostbuster Afterlife Moves to Nov 2021](https://www.gamespot.com/articles/uncharted-movie-delayed-to-2022-ghostbusters-afterlife-moves-to-november-2021/1100-6486612/) |
 | Jun 25 | Venom Let There Be Carnage | |
 | Jul 09 | Shang-Chi and the Legend of the Ten Rings | |
-| Jul 16 | Uncharted | [Uncharted Movie Delayed to 2022](https://www.gamespot.com/articles/uncharted-movie-delayed-to-2022-ghostbusters-afterlife-moves-to-november-2021/1100-6486612/) |
 | Aug 06 | The Suicide Squad | |
+| Sep 30 | No Time To Die | |
 | Oct 01 | The Batman | |
 | Nov 06 | Eternals | |
 | Nov 09 | Mission Impossible 7 | |
-| Dec 17 | Spider-Man 3 | |
+| Dec 17 | Spider-Man No Way Home | |
 | Dec 22 | Matrix 4 | |
 | Dec 22 | Black Adam | |
-| TBA | Justice League Snyder Cut | |
 | TBA | Dune | |
+| 2022 | Ghostbusters Afterlife | [Ghostbuster Afterlife Moves to Nov 2021](https://www.gamespot.com/articles/uncharted-movie-delayed-to-2022-ghostbusters-afterlife-moves-to-november-2021/1100-6486612/) |
+| 2022 | Uncharted | [Uncharted Movie Delayed to 2022](https://www.gamespot.com/articles/uncharted-movie-delayed-to-2022-ghostbusters-afterlife-moves-to-november-2021/1100-6486612/) |
 
 Games:
 
@@ -76,7 +76,9 @@ TV:
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 | Jan 15 | Wandavision |
+| Feb | Superman and Lois |
 | Mar 19 | The Falcon and The Winter Soldier |
+| Mar 26 | Invincible (Prime Video) |
 | May | Loki |
 | Summer | What If? |
 | Dec | The Book of Boba Fett |
