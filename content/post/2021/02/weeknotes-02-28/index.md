@@ -37,6 +37,7 @@ I don't have any of these today, sadly. This is why I don't have a newsletter, I
     - Second Fire Emblem Three Houses run still in progress, finally got to the Edelgard decision point, and went as I planned.
     - Have been trying to figure out why I'm having [so much trouble finding matches in Street Fighter V](https://www.reddit.com/r/StreetFighter/comments/lquag0/sf5_is_it_expected_to_be_so_hard_to_find_a_match/). Still no luck though. I want to indulge myself by getting the season 5 pass, but it's not worth it if I can't actually find matches.
     - Always annoying whenever this happens, but next month's PS+ games include FF7 Remake, which I've already played and finished. Good for everyone else though! New content was also announced for the PS5 version of the game, which is also annoying since it's probably goinna be a while before I bother with a PS5 (maybe waiting for a smaller version!)
+    - Edit: One of my loyal readers pointed out I failed to mention that we played a few games of 4-player Free For All in Starcraft 2 last Saturday. I won one and some undeserving people won the other two.
 - **Books:** Finished reading [Scott Berkun's Ghost of my Father](/2021/02/ghost-of-my-father/). Then started reading pioneering cyberpunk classic *Neurmancer* by William Gibson. Kind of a challenging read, I'm inching through it slowly.
 - **Quiz**: We managed to win the AboutQuiz league, just barely. Yay us!
 - Managed to sneak in a few minor upgrades to this here site, mostly CSS and rendering improvements on the frontend.
