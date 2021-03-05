@@ -10,9 +10,9 @@ reviews:
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1367838446480285697/
-- mastodon:
+- type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105837565632385005
-- tumblr
+- type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/644825175757586432/
 tags:
 - tv
