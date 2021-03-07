@@ -29,5 +29,6 @@ title: Wandavision Spoiler-free Review
 - good usage of the sitcom tropes
 - fantastic performance by Elisabeth Olsen
 - lots of fan service for comic book fans to dig into. Maybe too much even; don't overthink or overhype it to yourself
+- most of the episodes have something like 5-6 minutes of credits. Episodes 7 and 8 have a mid-credits scene. Episode 9 has both mid and post credits.
 
 Looking forward to Falcon and Winter Soldier next!
