@@ -1,12 +1,15 @@
 ---
-date: 2021-03-07T12:59:05+08:00
+date: 2021-03-07 04:59:05
 slug: weeknotes-2021-03-07
-tags:
-- weeknotes
-title: Weeknotes 2021-03-07
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105846957744972914
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1368439608120205313/
 tags:
 - philippines
 - covid19
+title: Weeknotes 2021-03-07
 ---
 
 March has begun. Did it ever really end?
@@ -47,4 +50,3 @@ March has begun. Did it ever really end?
 ### This coming week:
 
 Huh, nothing. I guess it's going to be one of those weeks.
-
