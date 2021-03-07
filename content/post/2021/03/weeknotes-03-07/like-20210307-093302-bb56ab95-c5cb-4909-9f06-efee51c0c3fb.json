@@ -1,0 +1,27 @@
+{
+  "id": "bb56ab95-c5cb-4909-9f06-efee51c0c3fb",
+  "name": "Jason Shew \ud83c\udde8\ud83c\udde6",
+  "url": "https://twitter.com/Jason_Shew",
+  "text": "[Jason Shew \ud83c\udde8\ud83c\udde6](https://twitter.com/Jason_Shew) [liked this](https://twitter.com/roytang/status/1368439608120205313#favorited-by-18420556)",
+  "date": "2021-03-07 09:33:02",
+  "photo": null,
+  "source_url": "https://twitter.com/roytang/status/1368439608120205313#favorited-by-18420556",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Shew \ud83c\udde8\ud83c\udde6",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/4303afc81e37c9bcc5e6a6ab9dfe7b133ef7b1243d5bb2b096dff590e4378a29.jpg",
+      "url": "https://twitter.com/Jason_Shew"
+    },
+    "url": "https://twitter.com/roytang/status/1368439608120205313#favorited-by-18420556",
+    "published": null,
+    "wm-received": "2021-03-07T09:33:02Z",
+    "wm-id": 1060299,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1368439608120205313/18420556",
+    "wm-target": "https://roytang.net/2021/03/weeknotes-2021-03-07/",
+    "like-of": "https://roytang.net/2021/03/weeknotes-2021-03-07/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
