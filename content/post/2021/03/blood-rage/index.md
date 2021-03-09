@@ -1,14 +1,19 @@
 ---
-title: "Digital Boardgames Review: Blood Rage"
-date: 2021-03-09T11:14:53+08:00
+date: 2021-03-09 03:14:53
 reviews:
 - description: Norse-themed competitive digital boardgame
+  link: https://store.steampowered.com/app/1015930/Blood_Rage_Digital_Edition/
   media: games
   rating: 4
   title: Blood Rage
-  link: https://store.steampowered.com/app/1015930/Blood_Rage_Digital_Edition/
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105858422268425361
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1369173337398669314/
 tags:
 - gaming
+title: 'Digital Boardgames Review: Blood Rage'
 ---
 
 Over the past couple of years, I've been regularly playing digital boardgames online on Steam with one of my friend groups, I thought I'd do reviews of them.
@@ -25,4 +30,4 @@ We've also gotten and played two of the expansions DLCs: [Mystics of Midgard](ht
 
 The game was a bit buggy when we first got it in mid 2020, since it was just released, but it has steadily improved since then. We played it again recently after some time away and noted many improvements to the UI and quality of life changes.
 
-The game is fun; we've played a reasonable amount of it (I'm at around 47 hours as of this writing.) It's the kind of game where it's easy and fun to mess around with what your opponents are doing, especially if you drafted some of the trickier cards. The only bad side would be that the games tend to go long, especially if someone drafted a good Loki deck or the Mystics are around or other such tricks. In our last session, we played 2 games for around 3 hours total. 
+The game is fun; we've played a reasonable amount of it (I'm at around 47 hours as of this writing.) It's the kind of game where it's easy and fun to mess around with what your opponents are doing, especially if you drafted some of the trickier cards. The only bad side would be that the games tend to go long, especially if someone drafted a good Loki deck or the Mystics are around or other such tricks. In our last session, we played 2 games for around 3 hours total.
