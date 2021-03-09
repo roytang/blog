@@ -1,0 +1,27 @@
+{
+  "id": "251b7626-1b2e-47d6-b6c6-5b8937e6b46b",
+  "name": "zeroed",
+  "url": "https://mastodon.technology/@zeroed",
+  "text": "[zeroed](https://mastodon.technology/@zeroed) [shared this](https://mastodon.technology/@roytang/105858422268425361#reblogged-by-225947)",
+  "date": "2021-03-09 11:02:06",
+  "photo": null,
+  "source_url": "https://mastodon.technology/@roytang/105858422268425361#reblogged-by-225947",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "zeroed",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0878381b0ff15b18896bfb230bbebaeb5549187a33674974857d4bc1ac764dc3.png",
+      "url": "https://mastodon.technology/@zeroed"
+    },
+    "url": "https://mastodon.technology/@roytang/105858422268425361#reblogged-by-225947",
+    "published": null,
+    "wm-received": "2021-03-09T11:02:06Z",
+    "wm-id": 1062673,
+    "wm-source": "https://brid.gy/repost/mastodon/@roytang@mastodon.technology/105858422268425361/225947",
+    "wm-target": "https://roytang.net/2021/03/blood-rage/",
+    "repost-of": "https://roytang.net/2021/03/blood-rage/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
