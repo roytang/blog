@@ -128,7 +128,7 @@
       "search_action": "https://apps.roytang.net/blog/search",
       "micropub_endpoint": "https://apps.roytang.net/blog/micropub",
       "microsub_endpoint": "https://aperture.p3k.io/microsub/521",
-      "recaptcha_key": "6Ld80rMUAAAAAIKde9k3z7KtfmjHSwT48S_Cy5-k",
+      "recaptcha_key": "4439b678-db6d-41af-b9f9-c8d8ef70e5c9",
       "sourceFileBase": "https://github.com/roytang/blog/tree/master/content/",
       "mainSections": [
         "post",
