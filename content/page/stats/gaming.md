@@ -36,31 +36,7 @@ submenu: "stats"
 </div>
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue-resource@1.3.4"></script>
-<script type="text/javascript">
-    let timeline = new Vue({
-        delimiters: ['[[', ']]'],
-        el: '#app',
-        data: {
-            title: "test",
-            items: [],
-        },
-        http: {
-            root: '/',
-        },
-        mounted: function() {
-            this.loadEntries();
-        },
-        methods: {
-            loadEntries: function() {
-                this.$http.get("/apps/steamhist/report/", {params: {"json": "true"}})
-                    .then(response => {
-                        this.items = response.data;
-                        console.log(this.items);
-                    });
-            },
-        }
-    });
-</script>
+<script src="/static/js/steamhist.js"></script>
 
 * updated daily; loading the data on this page requires JavaScript
 * I don't really play DOTA 2, that's my brothers playing on my account

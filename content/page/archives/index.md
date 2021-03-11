@@ -3,6 +3,7 @@ author: roy
 url: /archives
 title: Archives
 type: page
+submenu: "archives"
 ---
 
 <h4>All Posts by Date</h4>
@@ -19,10 +20,6 @@ type: page
 {{< archives/section-list >}}
 
 [On This Day](/onthisday/) (Updated around every 01:00 GMT)
-
-[All Content By Tags](/tags/)
-
-[All Content By Import Source](/source/)
 
 [Older (ancient) versions of this site](/archives/ancient/)
 
