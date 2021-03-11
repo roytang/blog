@@ -10,7 +10,7 @@ title: ''
 reviews:
 - description: First James Bond movie!
   media: movies
-  rating: 3
+  rating: 4
   title: Dr No (1962)
 ---
 

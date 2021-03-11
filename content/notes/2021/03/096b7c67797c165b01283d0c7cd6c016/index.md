@@ -7,6 +7,11 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1369939802305437698/
 title: ''
+reviews:
+- description: This one actually had more bits that felt like actual espionage.
+  media: movies
+  rating: 4
+  title: To Russia With Love (1963)
 ---
 
 James Bond movie no. 2: To Russia With Love (1963). This one actually had more bits that felt like actual espionage. And Bond didn't need to get captured this time!
