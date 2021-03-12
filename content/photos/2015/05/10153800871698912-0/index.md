@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mobile-uploads
 - maypasokbukas
+- boardgames
 ---
 
 Impromptu Smashup game night #maypasokbukas

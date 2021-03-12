@@ -11,6 +11,8 @@ There's [the blog](/blog), where I write about things like [software development
 
 There's also a [notes page](/notes), which is more like shorter, day-to-day microblog entries. A lot of my other activities on platformss are also syndicated back here as notes.
 
+There's a [links page](/links), where I share various links of interest.
+
 There's a [photos page](/photos), which is just all the images and videos publicly available on the site (and via my social media stuff, etc). Liberally sprinkled with memes and gaming screenshots. I also do this daily sketching thing, which I collect in an [sketchbook album](/albums/sketchbook).
 
 There's some other stuff around as well. I don't really know how to link to everything, so I made an [explore page](/page/explore).
