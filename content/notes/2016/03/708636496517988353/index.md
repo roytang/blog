@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/708636496517988353/
 ---
 
-RT [@MaoiArroyo](https://twitter.com/MaoiArroyo/): Meme I made from my favorite Rizal quote. So important to remember during the elections, e… https://www.instagram.com/p/BC2maMKwYKnd38Sc7UDohoVPmjXLMyc9JN0FsQ0/ https:/…
+Meme I made from my favorite Rizal quote. So important to remember during the elections, e… http://ift.tt/1LisgJ8

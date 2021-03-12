@@ -8,4 +8,7 @@ link:
 slug: how-to-make-things-happen-scott-berkun
 source: pocket
 title: How to Make Things Happen | Scott Berkun
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/973212674627600384/
 ---

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/973165089502068736/
 ---
 
-RT [@probzz](https://twitter.com/probzz/): here they are 
+here they are
