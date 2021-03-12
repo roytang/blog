@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/711071841998151680/
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): the price of being the best is to always be the best
+the price of being the best is to always be the best
