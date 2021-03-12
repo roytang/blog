@@ -6,6 +6,7 @@ toc: true
 aliases:
 - /contact/
 - /about/contact/
+submenu: "about"
 ---
 
 ## Standing Invite

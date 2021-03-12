@@ -5,6 +5,7 @@ aliases:
 - /explore
 ---
 
+This page is under construction, over the next few days.
 ### Stuff
 
 - [Feeds](/feeds)

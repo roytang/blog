@@ -217,5 +217,26 @@
             "Name": "By Tag",
             "URL": "/tags/"
         }
+    ],
+    "about": [
+        {
+            "Name": "About"
+        },
+        {
+            "Name": "Me",
+            "URL": "/page/about/me/"
+        },
+        {
+            "Name": "roytang.net",
+            "URL": "/page/about/site/"
+        },
+        {
+            "Name": "Elsewhere",
+            "URL": "/page/about/elsewhere/"
+        },
+        {
+            "Name": "Contact",
+            "URL": "/page/about/contact/"
+        }
     ]
 }

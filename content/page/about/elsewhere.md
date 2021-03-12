@@ -2,6 +2,7 @@
 title: "About :: Elsewhere"
 date: 2020-01-11
 type: page
+submenu: "about"
 ---
 
 I still actively use these accounts:
