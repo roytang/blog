@@ -15,7 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153812443933912
 ---
 
-_Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Rome and Vatican City][4] | [Rome Part 2 and Paris Part 1][5] | [Europe trip photo album](/album/europe2015)_
+_Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Rome and Vatican City][4] | [Rome Part 2 and Paris Part 1][5] | [Europe trip photo album](/albums/europe2015)_
 
 This series of posts has taken longer than I thought it would, and I grow weary on it. We'll cover things a bit faster from here, less of the daily stuff and we'll stick to the highlights. This will be the final entry!
 

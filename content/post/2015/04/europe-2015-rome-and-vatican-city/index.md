@@ -13,7 +13,7 @@ type: post
 url: /2015/04/europe-2015-rome-and-vatican-city/
 ---
 
-_Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Europe trip photo album](/album/europe2015)_
+_Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Europe trip photo album](/albums/europe2015)_
 
 **Wednesday March 11th**
 

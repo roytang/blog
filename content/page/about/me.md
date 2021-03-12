@@ -12,7 +12,7 @@ submenu: "about"
 - I'm from the [Philippines](/tags/philippines) (GMT+8)
 - Technically, this entire site is about me (and my thoughts), so this page is a bit redundant. Maybe that alone already tells you everything you need to know?
 - [programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart](/2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/)
-- Frustrated writer and [sketch artist](/album/sketchbook/)
+- Frustrated writer and [sketch artist](/albums/sketchbook/)
 - [Magic](/tags/mtg) player on weekends
 - [Software developer](/tags/software-development/) since 2003. If you'd like to work with me, take a look at my [resume](/resume).
 - Topics I am generally interested in at the moment:

@@ -13,7 +13,7 @@ type: post
 url: /2015/05/europe-2015-rome-part-2-and-paris-part-1/
 ---
 
-_Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Rome and Vatican City][4] | [Europe trip photo album](/album/europe2015)_
+_Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] | [Rome and Vatican City][4] | [Europe trip photo album](/albums/europe2015)_
 
 **Friday March 13th**
 
