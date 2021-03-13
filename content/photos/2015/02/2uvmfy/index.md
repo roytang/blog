@@ -18,6 +18,4 @@ tags:
 
 #### Posted on r/pics: [Toyota Vios crushed by passenger bus](https://reddit.com/r/pics/comments/2uvmfy/toyota_vios_crushed_by_passenger_bus/)
 
-![](http://www.topgear.com.ph/images/articleImages/news/0_2015/02/05/edsa_bus_accident/accident-main6.jpg)
-
 ![](https://web.archive.org/web/20150208053131if_/http://www.topgear.com.ph/images/articleImages/news/0_2015/02/05/edsa_bus_accident/accident-main6.jpg)
