@@ -8,7 +8,7 @@ tags:
 title: Marketplace Ethics
 ---
 
-I brought up among one of my friend groups this Reddit thread where the poster says they were able to buy hundreds of dollars worth of [Magic](/tags/magic-the-gathering/) cards from a garage sale for around $70. (Not gonna link to the original thread because it might seem like I'm shaming the OP.)
+I brought up among one of my friend groups this Reddit thread where the poster says they were able to buy hundreds of dollars worth of [Magic](/tags/mtg/) cards from a garage sale for around $70. (Not gonna link to the original thread because it might seem like I'm shaming the OP.)
 
 Not that there's anything bad with such "garage sale finds", as it were. These things are posted every so often on subreddits especially those dedicated to some sort of collectible. I mentioned that while I would be very excited to find something like this in the wild, I might have an attack of conscience because I'm potentially cheating someone out of fair market value and taking advantage of their ignorance. I'm probably more likely to feel this way if I was dealing with a seller personally (like at a garage sale), rather than some entity indirectly (like at a big store for example).
 

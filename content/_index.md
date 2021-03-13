@@ -7,7 +7,7 @@ It's 2021, and this is my personal website. [roytang.net](https://roytang.net) i
 
 I have a bunch of stuff here. Look around, maybe you'll find something that interests you. 
 
-There's [the blog](/blog), where I write about things like [software development](/tags/software-development/), [Magic the Gathering](/tags/magic-the-gathering/), [gaming](/tags/gaming), [movies](/tags/movies), [tv](/tags/tv), [books](/tags/books), and [tech life](tags). I also write [weeknotes](/tags/weeknotes), which are more of personal updates, but also sometimes include links I find interesting. Here are some of my [favorite posts](/tags/favorites).
+There's [the blog](/blog), where I write about things like [software development](/tags/software-development/), [Magic the Gathering](/tags/mtg/), [gaming](/tags/gaming), [movies](/tags/movies), [tv](/tags/tv), [books](/tags/books), and [tech life](tags). I also write [weeknotes](/tags/weeknotes), which are more of personal updates, but also sometimes include links I find interesting. Here are some of my [favorite posts](/tags/favorites).
 
 There's also a [notes page](/notes), which is more like shorter, day-to-day microblog entries. A lot of my other activities on platformss are also syndicated back here as notes.
 
