@@ -21,10 +21,6 @@
             "URL": "/page/lists/reading/"
         },
         {
-            "Name": "2020 Movies List",
-            "URL": "/page/lists/2020/movies/"
-        },
-        {
             "Name": "Blogroll",
             "URL": "/page/blogroll"
         },
@@ -227,7 +223,7 @@
             "URL": "/page/about/me/"
         },
         {
-            "Name": "roytang.net",
+            "Name": "Site",
             "URL": "/page/about/site/"
         },
         {
@@ -237,6 +233,42 @@
         {
             "Name": "Contact",
             "URL": "/page/about/contact/"
+        }
+    ],
+    "posts": [
+        {
+            "Name": "Blog",
+            "URL": "posts_blog"
+        },
+        {
+            "Name": "Notes",
+            "URL": "posts_notes"
+        },
+        {
+            "Name": "Links",
+            "URL": "posts_links"
+        },
+        {
+            "Name": "Everything",
+            "URL": "posts_all"
+        }
+    ],
+    "main_header": [
+        { 
+            "Name": "Posts",
+            "URL": "/blog/"
+        },
+        { 
+            "Name": "Photos",
+            "URL": "/photos/"
+        },
+        { 
+            "Name": "Archives",
+            "URL": "/archives/"
+        },
+        { 
+            "Name": "About",
+            "URL": "/about/"
         }
     ]
 }
