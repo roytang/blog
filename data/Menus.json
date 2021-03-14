@@ -237,6 +237,9 @@
     ],
     "posts": [
         {
+            "Name": "Posts"
+        },
+        {
             "Name": "Blog",
             "URL": "posts_blog"
         },
