@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1371479192315994122/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1371479518095888384/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/m5gi3w/march_15th_banff_national_park_canada/gr0r7pu/
 tags:
 - sketchdaily
 ---
