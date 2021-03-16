@@ -2,11 +2,11 @@
     "main": [
         {
             "Name": "Search",
-            "URL": "/search"
+            "URL": "https://roytang.net/search"
         },
         {
             "Name": "Random",
-            "URL": "/random"
+            "URL": "https://roytang.net/random"
         },
         {
             "Name": "On This Day",
@@ -119,21 +119,12 @@
             "Name": "Ko-fi",
             "URL": "https://ko-fi.com/roytang",
             "rel": "me"
-        },
-        {
-            "Name": "",
-            "URL": "mailto:hello@roytang.net",
-            "rel": "me"
         }
     ],
     "subscribe": [
         {
             "Name": "Everything (RSS)",
             "URL": "/index.xml"
-        },
-        {
-            "Name": "Daily Feed (RSS)",
-            "URL": "/daily/feed/"
         },
         {
             "Name": "Blog (RSS)",
@@ -150,17 +141,6 @@
         {
             "Name": "Links (RSS)",
             "URL": "/links/index.xml"
-        }
-    ],
-    "webrings": [
-        {
-            "Raw": "<a href='https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous'>[←]</a> 🕸💍 <a href='https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next'>[→]</a>"
-        },
-        {
-            "Raw": "<a href='https://webring.xxiivv.com/#random' target='_blank'><img class='link' src='https://webring.xxiivv.com/icon.black.svg'/></a>"
-        },
-        {
-            "Raw": "<b>Geekring</b>: <a href='http://geekring.net/site/91/previous'>Previous</a> :: <a href='http://geekring.net/site/91/random'>Random</a> :: <a href='http://geekring.net/site/91/next'>Next</a>"
         }
     ]
 }
