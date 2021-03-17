@@ -1,6 +1,11 @@
 ---
-title: "Alignment Shift: No Longer Lawful"
-date: 2021-03-17T12:57:00+08:00
+date: 2021-03-17 04:57:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105903451226180474
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1372055190862401537/
+title: 'Alignment Shift: No Longer Lawful'
 ---
 
 When I was much younger, I used to strongly identify as [Lawful Good](/2008/02/im-lawful-good/). Whenever I'd play any of the old-school DND RPGs like Baldur's Gate or Neverwinter Nights, I'd find my main character almost always being a Lawful Good Paladin goody-goody type. This was back when I was younger and more idealistic and a stronger believer in "rule of law"-type principles.
