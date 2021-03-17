@@ -4,7 +4,7 @@ reviews:
 - description: 'A near-future novel about hope rising out of dystopia'
   media: books
   rating: 3
-  title: Walkaway
+  title: Walkaway by Cory Doctorow
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105749285227681631

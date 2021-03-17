@@ -23,7 +23,7 @@ submenu: "about"
     - puns
     - possible solutions to our impending doom
 - The picture of me wearing dice on my head has been my go to profile pic for a while. It was taken back in 2008 when I still worked a regular job.
-- [What Am I Doing Now?](/about/now/)
+- [What Am I Doing Now?](/now/)
 - [What Hardware Do I Use?](/about/uses/)
 
 

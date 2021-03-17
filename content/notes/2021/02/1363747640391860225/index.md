@@ -8,7 +8,7 @@ reviews:
 - description: Korean sci-fi. Fun ride, fairly entertaining, pretty good setpieces and special effects, kind of predictable.
   media: movies
   rating: 3
-  title: Space Sweepers
+  title: Space Sweepers (2021)
 ---
 
 For some reason, I watched Space Sweepers, a Korean sci-fi movie on Netflix. Fun ride, fairly entertaining, pretty good setpieces and special effects. (They are so far ahead of the local film industry.) Plot a bit predictable. Villain made no sense.
