@@ -20,7 +20,7 @@ resources:
 
 Relevant XKCD:
 
-[<img class="alignnone" src="http://imgs.xkcd.com/comics/duty_calls.png" width="300" height="330" />][1]
+[<img class="alignnone" src="https://imgs.xkcd.com/comics/duty_calls.png" width="300" height="330" />][1]
 
 Sometimes I have this inexplicable urge to argue with people. With recent events I've found myself getting into more discussions, debates and otherwise friendly arguments online. The quality of these interactions hasn't always been the best, and many times I feel like I should have stopped engaging sooner or maybe not participated at all. I've considered some points to help me decide in the future whether to bother engaging other people online.
 
