@@ -1,7 +1,7 @@
 ---
 date: 2021-02-23 00:30:03
 reviews:
-- description: A look back at a time when remote work was novel.
+- description: A personal memoir about a dysfunctional family.
   media: books
   rating: 3
   title: Ghost of My Father by Scott Berkun

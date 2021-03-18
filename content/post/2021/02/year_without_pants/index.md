@@ -4,7 +4,7 @@ reviews:
 - description: A look back at a time when remote work was novel.
   media: books
   rating: 3
-  title: The Year Without Pants by Katie Mack
+  title: The Year Without Pants by Scott Berkun
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105701693762203595
