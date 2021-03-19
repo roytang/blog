@@ -1,0 +1,10 @@
+---
+date: 2021-03-19 07:13:49.637302
+source: form
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105915221969546873
+title: ''
+---
+
+Bond movie no. 4: Thunderball (1965). This is the first one I didn't like very much. Too many boring/confusing underwater parts. There's a jetpack! Wasn't there an atomic bomb aboard that boat when it exploded? And did they just leave the guy who helped Domino escape floating alone in the ocean?
