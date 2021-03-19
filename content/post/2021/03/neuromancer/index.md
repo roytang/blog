@@ -1,13 +1,18 @@
 ---
-title: 'Book Review: Neuromancer by William Gibson'
-date: 2021-03-18T10:31:24+08:00
-tags:
-- books
+date: 2021-03-18 02:31:24
 reviews:
 - description: Classic sci-fi novel establishing the cyberpunk genre.
   media: books
   rating: 4
   title: Neuromancer by William Gibson
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105908530491194069
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1372380264005914625/
+tags:
+- books
+title: 'Book Review: Neuromancer by William Gibson'
 ---
 
 It took me more than three weeks to get through Gibson's influential work Neuromancer, a book that pioneered the cyberpunk genre and even introduced terms like cyberspace, ICE and "the matrix" into popular lexicon. It's not because the book is bad or anything, it's just that Gibson tends to describe everything very vividly, and almost all of it from the POV of our lead character Case, who is sometimes in the real world, sometimes in cyberspace, and sometimes simply just drunk or high. 
