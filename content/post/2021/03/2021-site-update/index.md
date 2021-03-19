@@ -1,9 +1,14 @@
 ---
-title: "2021 Site Update"
-date: 2021-03-19T15:18:03+08:00
+date: 2021-03-19 07:18:03
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105915503029613660
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1372826506288795653/
 tags:
 - changelog
 - tech-life
+title: 2021 Site Update
 ---
 
 Over the past couple of weeks or so, I've made quite a few changes to the site, mostly focused on frontend/layout/UI changes. The changes are more or less done, so here's a changelog entry.
@@ -49,4 +54,3 @@ Scripts and cookies:
 That should be it! I had some other features in mind to implement (never ending scope creep when you have a personal project really), but I've already spent too much time on this and need to work on my other shenanigans as well. 
 
 One last thing: attaching some images so that I can compare to the future look of the website:
-
