@@ -1,10 +1,10 @@
 {
-  "id": "59d9c6ba-7676-4798-9f99-7be2187ae5c4",
+  "id": "eb75c534-7f9b-4643-86a4-c6bc25291e2e",
   "name": "Peter",
   "url": "https://mastodon.technology/@debian",
   "text": "[Peter](https://mastodon.technology/@debian) [liked this](https://mastodon.technology/@roytang/105530594732089177#favorited-by-367253)",
   "date": "2021-01-10 09:51:22",
-  "photo": null,
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/7a723dcacc4204b01305a05c23cf7e8e6cb1757dc5d6315a778f4d49ffbc4ff3.png",
   "source_url": "https://mastodon.technology/@roytang/105530594732089177#favorited-by-367253",
   "source_obj": {
     "type": "entry",

@@ -1,10 +1,10 @@
 {
-  "id": "7eaeeba0-e9d9-4a58-ab7f-a931f746dd95",
+  "id": "4d2428a6-ea42-496d-8f5c-ed40d4c586f4",
   "name": "Rain \ud83d\udeb1",
   "url": "https://cybre.space/@grainloom",
   "text": "[Rain \ud83d\udeb1](https://cybre.space/@grainloom) [liked this](https://mastodon.technology/@roytang/105382955422866867#favorited-by-40819)",
   "date": "2020-12-15 12:19:00",
-  "photo": null,
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/5abd2cee24d5022e1424f3cf3229076704c10316d07ec5611e25ac08f2066606.png",
   "source_url": "https://mastodon.technology/@roytang/105382955422866867#favorited-by-40819",
   "source_obj": {
     "type": "entry",

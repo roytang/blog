@@ -1,10 +1,10 @@
 {
-  "id": "064c3a66-9319-4083-bf6a-8b2766b4c559",
+  "id": "e5513c28-ddbc-4534-90c7-87eb5814cdcb",
   "name": "zeroed",
   "url": "https://mastodon.technology/@zeroed",
   "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> Nice post!</p><p>^_^</p>",
-  "date": "2021-02-11 10:41:58",
-  "photo": null,
+  "date": "2021-02-11 07:15:37",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0878381b0ff15b18896bfb230bbebaeb5549187a33674974857d4bc1ac764dc3.png",
   "source_url": "https://mastodon.technology/@zeroed/105711385827229143",
   "source_obj": {
     "type": "entry",
