@@ -3,7 +3,7 @@
 
 ## Hi, my name is Roy
 
-[roytang.net](https://roytang.net) is a personal site, an [E/N site](http://sawv.org/en.html), and kind of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book). The site is [perpetually under renovation](/2019/08/perpetually-under-renovation/), as we all are.
+<a href="https://roytang.net">roytang.net</a> is a personal site, an [E/N site](http://sawv.org/en.html), and kind of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book). The site is [perpetually under renovation](/2019/08/perpetually-under-renovation/), as we all are.
 
 I'm a freelance software developer, solution architect, and technical consultant, with over 15 years for experience. If you have interesting work for me, you can check out [my resume](/resume). 
 
