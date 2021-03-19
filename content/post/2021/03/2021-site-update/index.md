@@ -36,7 +36,7 @@ Content changes:
   
 Backend/code changes:
 
-- HTML Validation: Most pages should now validate without warnings/errors on the [W3C HTML validator](https://validator.w3.org/nu)
+- HTML Validation: Most pages should now validate without warnings/errors on the [W3C HTML validator](https://validator.w3.org/nu). There was actually a lot of broken HTML I had to fix (due to me mistyping things and so on.)
 - Made sure most images had alt-text, even if just default values.
 - Score of 75/100 on the [Mozilla Observatory](https://observatory.mozilla.org/analyze/roytang.net). It was at 20/100 before. The only thing I hadn't implemented yet was the Content Security Policy (CSP) header, as it would have caused some issues on certain pages.
 - I also tried to generally reduce the page weight, but it wasn't actually that high before, so I don't think there's any measurable change there. Minifying HTML/CSS was a possibility, but that just makes it harder for me to debug things, and really feels like something too serious for a hobby site like this.
