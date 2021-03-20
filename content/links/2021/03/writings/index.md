@@ -13,5 +13,5 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/105886448316460032
 - type: twitter
   url: https://twitter.com/roytang/statuses/1370967004509732865/
-title: writings
+title: "My Website is a Personal Museum: the creative freedom we lost in the age of social media"
 ---
