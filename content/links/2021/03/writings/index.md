@@ -3,7 +3,7 @@ date: 2021-03-14 05:06:46
 link:
   source: pocket
   source_url: https://getpocket.com
-  text: writings
+  text: "My Website is a Personal Museum: the creative freedom we lost in the age of social media"
   url: https://bikobatanari.neocities.org/posts/2020/personal-museum.html
 source: pocket
 syndicated:
