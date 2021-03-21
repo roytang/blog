@@ -4,7 +4,12 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154458271823912
-tags: []
+tags: 
+- spoiler-free-review
+title: Daredevil Season 2 spoiler-free review
+reviews:
+- media: tv
+  title: Daredevil Season 2
 ---
 
 Daredevil Season 2 spoiler-free review: 
