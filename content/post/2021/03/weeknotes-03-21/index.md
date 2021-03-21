@@ -1,5 +1,5 @@
 ---
-date: 2021-03-21T14:40:28+08:00
+date: 2021-03-21T18:40:28+08:00
 slug: weeknotes-2021-03-21
 tags:
 - philippines
@@ -9,7 +9,7 @@ title: Weeknotes 2021-03-21
 
 ### The world:
 
-- Over the past couple of days, our nationwide daily covid cases broke 7000+, the highest recorded so far. Everyone is waiting for a solution, not sure if any sensible ones are ever coming. Have to be super careful when going out for errands. Not that I wasn't being careful even before, mind you.
+- Over the past couple of days, our nationwide daily covid cases broke 7000+, the highest recorded so far.  Have to be super careful when going out for errands. Not that I wasn't being careful even before, mind you. Just now, government has announced we are still under GCQ (see my post about [the PH quarantine levels](/2021/03/1373562580375986178/)), but with more restrictions, etc. Looks like they are still hesitant to provide a stronger lockdown which would require paying people to stay home so they don't starve to death.
 
 ### Links of interest:
 
@@ -24,7 +24,7 @@ title: Weeknotes 2021-03-21
     - Continuing my run on the Bond movies with [Goldfinger (1964)](/2021/03/273eae12d668c24135d4db358511c9d4/) and [Thunderall (1965)](/2021/03/c6152994fa5ddf4b9c3302bcddfdd699/).
     - I keep threatening to watch the Snyder Cut, but have yet to find a four hour block of time to do it. FOUR HOURS!!
     - Instead, I watched the first episode of The Falcon and the Winter Soldier. Kind of meh, though I appreciate the emotional angles they're going for. Might have been more hyped if I wasn't aware a certain character was going to be introduced in this series.
-    - Finished watching **Star Trek: Enterprise**, now about halfway through the Animated Series. Almost to Star Trek TV series completion!
+    - Finished watching **Star Trek: Enterprise**, now almost through the Animated Series. Almost to Star Trek TV series completion!
 - **Gaming:**
     - Second Fire Emblem Three Houses run: Still ongoing, somehow. 
     - I've been meaning to play Valkyria Chronicles 4 on Steam since I got it from Humble Choice, but since I'm still in the middle of a Fire Emblem run I keep putting it off. It feels weird to have two anime-styled tactical RPGs running at once.
