@@ -11,8 +11,12 @@ tags:
 
 Someone on [quora](https://quora.com) asked:
 
-> [
-<span class="ui_qtext_rendered_qtext">Which are the most important 3 skills that smart people should develop (like programing)?</span>](https://www.quora.com/Which-are-the-most-important-3-skills-that-smart-people-should-develop-like-programming/answer/Roy-Tang)
+> [Which are the most important 3 skills that smart people should develop (like programing)?](https://www.quora.com/Which-are-the-most-important-3-skills-that-smart-people-should-develop-like-programming/answer/Roy-Tang)
 
 
-<span class="ui_qtext_rendered_qtext">Which are the most important 3 skills that smart people should develop (like programing)?</span>
+It's not really about specific skills like programming, but more towards high-level skills that can be applied to a broad number of areas:
+
+- Critical thinking. This means being able to analyze critically both your own opinions and those of others, being able to identify and compensate for biases, and being able to make rational decisions.
+- Communication. This means being able to express your ideas well and knowing how to sell your ideas to other people. It also includes understanding other people and their perspectives and their messages
+- Collaboration. This means working well with others, knowing when to be aggressive in pushing your opinion and when to be diplomatic and form a consensus. Working well with others involves a lot of #1 and #2 as well. You need critical thinking to properly assess the way forward for a team, and there needs to be good, constant communication within a team to make sure everything stays on track.
+  
