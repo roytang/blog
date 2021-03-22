@@ -14,7 +14,7 @@ Someone on [quora](https://quora.com) asked:
 > [What can I do to improve my posture? It hurts when I try to sit up for long periods of time?](https://www.quora.com/What-can-I-do-to-improve-my-posture-It-hurts-when-I-try-to-sit-up-for-long-periods-of-time/answer/Roy-Tang)
 
 
-There's this exercise I've been trying for about a month now: <span class="qlink_container"><a class="external_link" data-qt-tooltip="makeuseof.com" href="http://www.makeuseof.com/tag/this-3-minute-exercise-will-actually-fix-your-posture/" onclick="return Q.openUrl(this, 20186212);" rel="noopener nofollow" target="_blank">This 3-Minute Exercise Will Actually Fix Your Posture</a></span> 
+There's this exercise I've been trying for about a month now: [This 3-Minute Exercise Will Actually Fix Your Posture](http://www.makeuseof.com/tag/this-3-minute-exercise-will-actually-fix-your-posture/)
 
 I think it's made some improvement, I don't know how much.
 
