@@ -14,4 +14,6 @@ Someone on [quora](https://quora.com) asked:
 > [As someone with 0 confidence, how can I be confident?](https://www.quora.com/As-someone-with-0-confidence-how-can-I-be-confident/answer/Roy-Tang)
 
 
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Fake it ’til you make it. Don’t worry about how to be confident, just pretend that you are. Everything else follows.</p><p class="ui_qtext_para u-ltr u-text-align--start">Also, be more comfortable with who you are. Don’t worry too much about what other people think about you.</p></span>
+Fake it ’til you make it. Don’t worry about how to be confident, just pretend that you are. Everything else follows.
+
+Also, be more comfortable with who you are. Don’t worry too much about what other people think about you.

@@ -21,4 +21,3 @@ For example, “deeply”’s root adjective is “deep”, which is “malalim�
 “He was stabbed deeply by a knife”  -> “Sinaksak sya <b>nang malalim</b> gamit ang kutsilyo”
 
 “I loved her deeply” -> Minahal ko sya <b>nang malalim.</b>
-

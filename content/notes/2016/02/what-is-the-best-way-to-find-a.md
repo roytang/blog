@@ -14,4 +14,4 @@ Someone on [quora](https://quora.com) asked:
 > [What is the best way to find a start-up job in the Philippines considering I am a rocket-internet employee from the Middle east?](https://www.quora.com/What-is-the-best-way-to-find-a-start-up-job-in-the-Philippines-considering-I-am-a-rocket-internet-employee-from-the-Middle-east/answer/Roy-Tang)
 
 
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">There are some events held for startups and entrepreneurs in Manila. One example is the Startup Weekend Manila. In these events there can be would-be entrepreneurs pitching their ideas and looking to assemble a team. Maybe you can attend one of these events and try to get to know the people there</p></span>
+There are some events held for startups and entrepreneurs in Manila. One example is the Startup Weekend Manila. In these events there can be would-be entrepreneurs pitching their ideas and looking to assemble a team. Maybe you can attend one of these events and try to get to know the people there

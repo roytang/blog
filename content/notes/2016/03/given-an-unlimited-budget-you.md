@@ -14,4 +14,4 @@ Someone on [quora](https://quora.com) asked:
 > [Given an unlimited budget, you can build any (realistic) device or machine anywhere on Earth, what would you build?](https://www.quora.com/Given-an-unlimited-budget-you-can-build-any-realistic-device-or-machine-anywhere-on-Earth-what-would-you-build/answer/Roy-Tang)
 
 
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">My country gets hit by devastating typhoons on a regular basis. I would build some sort of offshore, gigantic, wind-powered turbine that can capture the power of typhoon-level winds and store the energy in large electrical batteries or something like that. It solves two problems at once, it can reduce the impact of typhoons and it can reduce the cost of power!</p></span>
+My country gets hit by devastating typhoons on a regular basis. I would build some sort of offshore, gigantic, wind-powered turbine that can capture the power of typhoon-level winds and store the energy in large electrical batteries or something like that. It solves two problems at once, it can reduce the impact of typhoons and it can reduce the cost of power!

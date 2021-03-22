@@ -14,4 +14,4 @@ Someone on [quora](https://quora.com) asked:
 > [Assuming DC follows through on its announcement, is it a mistake to identify the man behind the Joker?](https://www.quora.com/Assuming-DC-follows-through-on-its-announcement-is-it-a-mistake-to-identify-the-man-behind-the-Joker/answer/Roy-Tang)
 
 
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">I think it's a mistake that will unnecessarily tie down future Batman writers. It might even be seen as a sign that they have creatively run out of ideas for the Joker as a character.</p></span>
+I think it's a mistake that will unnecessarily tie down future Batman writers. It might even be seen as a sign that they have creatively run out of ideas for the Joker as a character.

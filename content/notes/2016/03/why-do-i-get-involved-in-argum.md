@@ -14,4 +14,4 @@ Someone on [quora](https://quora.com) asked:
 > [Why do I get involved in arguments with a frenemy, even though I know I shouldn't?](https://www.quora.com/Why-do-I-get-involved-in-arguments-with-a-frenemy-even-though-I-know-I-shouldnt/answer/Roy-Tang)
 
 
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It sounds like you should just ignore this person. When he sends you such advice, just respond with "eh, I don't really care", and walk away</p></span>
+It sounds like you should just ignore this person. When he sends you such advice, just respond with "eh, I don't really care", and walk away

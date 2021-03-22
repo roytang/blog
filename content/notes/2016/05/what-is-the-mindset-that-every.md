@@ -17,4 +17,3 @@ Someone on [quora](https://quora.com) asked:
 When developing new features, make sure to write to clean, maintainable code that future maintainers won't have a problem with. If you can write unit tests, do so.
 
 When maintaining old features, it's kind of like being a doctor: first, do no harm. Perform the minimum changes necessary to implement your changes to minimize the chance of breaking existing behavior. But still try to avoid writing terrible code. It helps if the existing feature has unit tests
-

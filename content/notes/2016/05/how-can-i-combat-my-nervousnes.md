@@ -14,4 +14,4 @@ Someone on [quora](https://quora.com) asked:
 > [How can I combat my nervousness to go to a new class?](https://www.quora.com/How-can-I-combat-my-nervousness-to-go-to-a-new-class/answer/Roy-Tang)
 
 
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">Channel that nervousness into excitement. Imagine how it’s going to feel after the class and you’ve learned something new!</p></span>
+Channel that nervousness into excitement. Imagine how it’s going to feel after the class and you’ve learned something new!

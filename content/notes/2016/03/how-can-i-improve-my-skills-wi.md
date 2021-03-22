@@ -14,4 +14,4 @@ Someone on [quora](https://quora.com) asked:
 > [How can I improve my skills with a graphic tablet?](https://www.quora.com/How-can-I-improve-my-skills-with-a-graphic-tablet/answer/Roy-Tang)
 
 
-<span class="ui_qtext_rendered_qtext"><p class="ui_qtext_para u-ltr u-text-align--start">It can be jarring to transition from drawing manually using traditional tools to digitally using a tablet. There's no secret to mastering this transition - there is only practice. Practice drawing with the tablet until you get as used to it as drawing with pencil and paper.</p></span>
+It can be jarring to transition from drawing manually using traditional tools to digitally using a tablet. There's no secret to mastering this transition - there is only practice. Practice drawing with the tablet until you get as used to it as drawing with pencil and paper.
