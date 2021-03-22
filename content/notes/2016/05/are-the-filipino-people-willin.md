@@ -14,7 +14,7 @@ Someone on [quora](https://quora.com) asked:
 > [Are the Filipino people willing or capable of inciting a bloody, French-style revolution?](https://www.quora.com/Are-the-Filipino-people-willing-or-capable-of-inciting-a-bloody-French-style-revolution/answer/Roy-Tang)
 
 
-Corruption is actually on the downtrend (<span class="qlink_container"><a class="external_link" data-qt-tooltip="forbes.com" href="http://www.forbes.com/sites/ralphjennings/2015/03/02/why-graft-is-declining-in-the-notoriously-corrupt-philippines/#1f6b83465aab" onclick="return Q.openUrl(this, 23127099);" rel="noopener nofollow" target="_blank">Why Graft Is Declining In The Notoriously Corrupt Philippines</a></span>)
+Corruption is actually on the downtrend ([Why Graft Is Declining In The Notoriously Corrupt Philippines](http://www.forbes.com/sites/ralphjennings/2015/03/02/why-graft-is-declining-in-the-notoriously-corrupt-philippines/#1f6b83465aab))
 
 Traffic and internet are bad, but I don’t see how you could possibly compare that to 1789 Paris, unless may alternate timelines involved.
 
