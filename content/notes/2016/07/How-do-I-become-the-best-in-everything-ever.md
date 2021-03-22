@@ -1,6 +1,5 @@
 ---
 date: 2016-07-05 00:00:00
-slug: span-class-ui-qtext-rendered
 source: quora
 syndicated:
 - type: quora
