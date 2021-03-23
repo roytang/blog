@@ -1,13 +1,18 @@
 ---
-title: "Zack Snyder's Justice League (aka The Snyder Cut) review"
-date: 2021-03-23T14:50:43+08:00
-tags:
-- movies
+date: 2021-03-23 06:50:43
 reviews:
 - description: Longer but better version of the theatricul release
   media: movies
   rating: 4
   title: Zack Snyder's Justice League (2021)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105937823260267905
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1374255001036492805/
+tags:
+- movies
+title: Zack Snyder's Justice League (aka The Snyder Cut) review
 ---
 
 See also: [Justice League spoiler-free review (2017)](/2017/11/931540341919965184/) 
