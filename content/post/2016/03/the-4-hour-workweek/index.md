@@ -1,5 +1,10 @@
 ---
 date: 2016-03-03 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442957271l/368593._SX98_.jpg
+reviews:
+- media: books
+  rating: 3
+  title: The 4-Hour Workweek by Timothy Ferriss
 slug: the-4-hour-workweek
 source: goodreads
 syndicated:

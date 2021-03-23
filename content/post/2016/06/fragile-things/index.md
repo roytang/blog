@@ -1,5 +1,10 @@
 ---
 date: 2016-06-30 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924550l/16788._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: 'Fragile Things: Short Fictions and Wonders by Neil Gaiman'
 slug: fragile-things
 source: goodreads
 syndicated:

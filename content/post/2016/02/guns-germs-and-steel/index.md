@@ -1,5 +1,10 @@
 ---
 date: 2016-02-23 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SX98_.jpg
+reviews:
+- media: books
+  rating: 3
+  title: 'Guns, Germs, and Steel: The Fates of Human Societies by Jared Diamond'
 slug: guns-germs-and-steel
 source: goodreads
 syndicated:

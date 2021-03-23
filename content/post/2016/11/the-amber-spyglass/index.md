@@ -1,5 +1,10 @@
 ---
 date: 2016-11-27 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189152l/18122._SY160_.jpg
+reviews:
+- media: books
+  rating: 3
+  title: The Amber Spyglass by Philip Pullman
 slug: the-amber-spyglass
 source: goodreads
 syndicated:

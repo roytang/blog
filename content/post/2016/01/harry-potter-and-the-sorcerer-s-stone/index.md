@@ -1,12 +1,17 @@
 ---
 date: 2016-01-12 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: Harry Potter and the Sorcerer's Stone by J.K. Rowling
 slug: harry-potter-and-the-sorcerers-stone
 source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1537964638
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10154309424528912  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154309424528912
 tags:
 - books
 - harry potter

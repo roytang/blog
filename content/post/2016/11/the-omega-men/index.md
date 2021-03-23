@@ -1,5 +1,10 @@
 ---
 date: 2016-11-20 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470552239l/25790655._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: 'The Omega Men: The End is Here by Tom King'
 slug: the-omega-men
 source: goodreads
 syndicated:

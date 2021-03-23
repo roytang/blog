@@ -1,5 +1,10 @@
 ---
 date: 2016-05-25 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354943312l/16282779._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: The Making of Karateka by Jordan Mechner
 slug: the-making-of-karateka
 source: goodreads
 syndicated:

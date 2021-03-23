@@ -1,5 +1,11 @@
 ---
 date: 2016-04-12 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348445281l/5544._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: 'Surely You''re Joking, Mr. Feynman!: Adventures of a Curious Character by
+    Richard Feynman'
 slug: surely-you-re-joking-mr-feynman
 source: goodreads
 syndicated:

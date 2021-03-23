@@ -1,5 +1,10 @@
 ---
 date: 2016-10-08 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: The Golden Compass by Philip Pullman
 slug: the-golden-compass
 source: goodreads
 syndicated:

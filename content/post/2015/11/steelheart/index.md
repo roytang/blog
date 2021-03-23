@@ -1,5 +1,10 @@
 ---
 date: 2015-11-16 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357576738l/17182126._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: Steelheart by Brandon Sanderson
 slug: steelheart
 source: goodreads
 syndicated:

@@ -1,5 +1,10 @@
 ---
 date: 2016-02-05 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303097959l/28271._SY160_.jpg
+reviews:
+- media: books
+  rating: 3
+  title: Triumph of the Darksword by Margaret Weis
 slug: triumph-of-the-darksword
 source: goodreads
 syndicated:

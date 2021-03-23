@@ -1,5 +1,10 @@
 ---
 date: 2016-03-09 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1189289716l/1857440._SX98_.jpg
+reviews:
+- media: books
+  rating: 3
+  title: John Dies at the End by David Wong
 slug: john-dies-at-the-end
 source: goodreads
 syndicated:

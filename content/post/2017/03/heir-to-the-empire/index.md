@@ -1,5 +1,10 @@
 ---
 date: 2017-03-14 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512169411l/216443._SY160_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: Heir to the Empire by Timothy Zahn
 slug: heir-to-the-empire
 source: goodreads
 syndicated:

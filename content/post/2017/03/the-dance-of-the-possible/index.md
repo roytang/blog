@@ -1,5 +1,11 @@
 ---
 date: 2017-03-15 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489031935l/34516374._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: 'The Dance of the Possible: the mostly honest completely irreverent guide
+    to creativity by Scott Berkun'
 slug: the-dance-of-the-possible
 source: goodreads
 syndicated:

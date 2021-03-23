@@ -1,5 +1,10 @@
 ---
 date: 2018-03-31 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327876792l/10644930._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: 11/22/63 by Stephen King
 slug: 11-22-63
 source: goodreads
 syndicated:

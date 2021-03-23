@@ -1,5 +1,10 @@
 ---
 date: 2016-05-21 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347868237l/12587369._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: 'Mindfire: Big Ideas for Curious Minds by Scott Berkun'
 slug: mindfire
 source: goodreads
 syndicated:

@@ -1,5 +1,10 @@
 ---
 date: 2016-05-03 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867150l/135479._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: Cat's Cradle by Kurt Vonnegut
 slug: cat-s-cradle
 source: goodreads
 syndicated:

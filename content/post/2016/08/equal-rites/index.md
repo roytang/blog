@@ -1,5 +1,10 @@
 ---
 date: 2016-08-10 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407706800l/34507._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: Equal Rites by Terry Pratchett
 slug: equal-rites
 source: goodreads
 syndicated:

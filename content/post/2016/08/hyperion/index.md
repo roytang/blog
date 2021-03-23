@@ -1,5 +1,10 @@
 ---
 date: 2016-08-20 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: Hyperion by Dan Simmons
 slug: hyperion
 source: goodreads
 syndicated:

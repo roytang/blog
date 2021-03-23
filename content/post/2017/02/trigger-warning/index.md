@@ -1,5 +1,10 @@
 ---
 date: 2017-02-07 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415036119l/22522808._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: 'Trigger Warning: Short Fictions and Disturbances by Neil Gaiman'
 slug: trigger-warning
 source: goodreads
 syndicated:

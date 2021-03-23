@@ -1,5 +1,10 @@
 ---
 date: 2017-02-20 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344263875l/6516450._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: What the Dog Saw and Other Adventures by Malcolm Gladwell
 slug: what-the-dog-saw-and-other-adventures
 source: goodreads
 syndicated:

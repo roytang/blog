@@ -1,5 +1,10 @@
 ---
 date: 2017-01-02 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: The Hobbit or There and Back Again by J.R.R. Tolkien
 slug: the-hobbit-or-there-and-back-again
 source: goodreads
 syndicated:

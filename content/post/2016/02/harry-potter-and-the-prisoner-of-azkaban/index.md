@@ -1,5 +1,10 @@
 ---
 date: 2016-02-02 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499277281l/5._SY160_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: Harry Potter and the Prisoner of Azkaban by J.K. Rowling
 slug: harry-potter-and-the-prisoner-of-azkaban
 source: goodreads
 syndicated:

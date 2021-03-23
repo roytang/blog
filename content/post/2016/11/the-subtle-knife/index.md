@@ -1,5 +1,10 @@
 ---
 date: 2016-11-24 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766360l/119324._SX98_.jpg
+reviews:
+- media: books
+  rating: 3
+  title: The Subtle Knife by Philip Pullman
 slug: the-subtle-knife
 source: goodreads
 syndicated:

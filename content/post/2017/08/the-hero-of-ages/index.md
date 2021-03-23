@@ -1,5 +1,10 @@
 ---
 date: 2017-08-31 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717763l/2767793._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: The Hero of Ages by Brandon Sanderson
 slug: the-hero-of-ages
 source: goodreads
 syndicated:

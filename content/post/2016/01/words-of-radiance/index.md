@@ -1,12 +1,17 @@
 ---
 date: 2016-01-10 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307927l/17332218._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: Words of Radiance by Brandon Sanderson
 slug: words-of-radiance
 source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1537966035
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10154305211688912  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154305211688912
 tags:
 - books
 - stormlight archive

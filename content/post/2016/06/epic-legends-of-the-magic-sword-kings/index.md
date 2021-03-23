@@ -1,5 +1,10 @@
 ---
 date: 2016-06-05 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403199476l/287109._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: Epic Legends of the Magic Sword Kings by Jerry Holkins
 slug: epic-legends-of-the-magic-sword-kings
 source: goodreads
 syndicated:

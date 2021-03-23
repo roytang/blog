@@ -1,5 +1,10 @@
 ---
 date: 2016-04-04 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924782l/2094._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: A Briefer History of Time by Stephen Hawking
 slug: a-briefer-history-of-time
 source: goodreads
 syndicated:

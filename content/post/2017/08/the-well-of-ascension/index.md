@@ -1,5 +1,10 @@
 ---
 date: 2017-08-27 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717596l/68429._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: The Well of Ascension by Brandon Sanderson
 slug: the-well-of-ascension
 source: goodreads
 syndicated:

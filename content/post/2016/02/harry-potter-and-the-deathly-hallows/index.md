@@ -1,5 +1,10 @@
 ---
 date: 2016-02-17 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474171184l/136251._SX98_.jpg
+reviews:
+- media: books
+  rating: 5
+  title: Harry Potter and the Deathly Hallows by J.K. Rowling
 slug: harry-potter-and-the-deathly-hallows
 source: goodreads
 syndicated:

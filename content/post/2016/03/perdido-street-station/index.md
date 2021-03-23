@@ -1,5 +1,10 @@
 ---
 date: 2016-03-29 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393537963l/68494._SY160_.jpg
+reviews:
+- media: books
+  rating: 3
+  title: Perdido Street Station by China Miéville
 slug: perdido-street-station
 source: goodreads
 syndicated:
@@ -7,7 +12,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1594067798
 tags:
 - books
-title: "Book Review: Perdido Street Station by Mi\xE9ville, China"
+title: 'Book Review: Perdido Street Station by Miéville, China'
 ---
 
 <a href="https://www.goodreads.com/book/show/68494.Perdido_Street_Station" style="float: left; padding-right: 20px"><img border="0" alt="Perdido Street Station (New Crobuzon, #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393537963l/68494._SY160_.jpg" /></a><a href="https://www.goodreads.com/book/show/68494.Perdido_Street_Station">Perdido Street Station</a> by <a href="https://www.goodreads.com/author/show/33918.China_Mi_ville">China Miéville</a><br/>

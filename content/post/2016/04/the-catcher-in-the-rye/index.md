@@ -1,5 +1,10 @@
 ---
 date: 2016-04-24 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg
+reviews:
+- media: books
+  rating: 2
+  title: The Catcher in the Rye by J.D. Salinger
 slug: the-catcher-in-the-rye
 source: goodreads
 syndicated:

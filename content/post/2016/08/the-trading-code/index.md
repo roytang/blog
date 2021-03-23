@@ -1,5 +1,10 @@
 ---
 date: 2016-08-03 00:00:00
+featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456991538l/29406076._SX98_.jpg
+reviews:
+- media: books
+  rating: 4
+  title: The Trading Code by Jason Cam
 slug: the-trading-code
 source: goodreads
 syndicated:
