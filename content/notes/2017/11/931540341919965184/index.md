@@ -23,6 +23,11 @@ syndicated:
 tags:
 - movies
 - spoiler-free-review
+reviews:
+- description: Too short. Disappointing conclusion.
+  media: movies
+  rating: 3
+  title: Justice League (2017)
 ---
 
 JUSTICE LEAGUE Spoiler-Free Review:
