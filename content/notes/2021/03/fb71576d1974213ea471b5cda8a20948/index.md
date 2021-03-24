@@ -11,10 +11,13 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1374636757937885187/
 title: ''
+reviews:
+- description: Such Japan, much wow. Secret volcano lair!
+  media: movies
+  rating: 4
+  title: You Only Live Twice (1967)
 ---
 
-Bond movie no. 4: You Only Live Twice (1967). Such Japan. Much wow. Cringe at trying to pass Bond off as Japanese. Introduction of secret volcano lair trope. Ninjas with guns! First screen appearance of the head of SPECTRE, inspiration for Dr Evil. 
+Bond movie no. 5: You Only Live Twice (1967). Such Japan. Much wow. Cringe at trying to pass Bond off as Japanese. Introduction of secret volcano lair trope. Ninjas with guns! First screen appearance of the head of SPECTRE, inspiration for Dr Evil. 
 <!--sep-->
 That endgame scene of ninjas invading the secret volcano lair reminded me of the Simpsons episode _You Only Move Twice_. Bond's "wife" never named despite being only Bond girl to survive the movie.
-
-ugh, Bond movie no. 5*
