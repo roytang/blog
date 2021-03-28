@@ -1,6 +1,11 @@
 ---
-date: 2021-03-28T12:14:20+08:00
+date: 2021-03-28 04:14:20
 slug: weeknotes-2021-03-28
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105966325773292681
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1376079161702293506/
 tags:
 - philippines
 - covid19
@@ -48,4 +53,3 @@ It's the last weekend of March. It feels like the month went by quickly.
 - Maybe the world will miraculously be better next week? IDK, one can always hope right?
 - It's Holy Week! Normally a big deal for the RC faithful in this country, but this time everyone has to stay at home for the second year in a row.
 - ECQ! Well, that doesn't affect me much, though there are now some errands that we have to push back.
-  
