@@ -13,6 +13,9 @@ tags:
 title: 'Books: Dark Tower V -- Wolves of the Calla'
 type: post
 url: /2005/09/books-dark-tower-v-wolves-of-the-calla/
+reviews:
+- media: books
+  title: Wolves of the Calla by Stephen King
 ---
 
 _"There will be water if ka wills it." -- Roland of Gilead_ 

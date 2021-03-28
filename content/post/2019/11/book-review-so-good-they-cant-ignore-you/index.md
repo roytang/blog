@@ -8,6 +8,9 @@ tags:
 - books
 - review
 title: 'Book Review: So Good They Cant Ignore You by Cal Newport'
+reviews:
+- media: books
+  title: So Good They Cant Ignore You by Cal Newport
 ---
 
 Aha! I finally managed to finish a book again!

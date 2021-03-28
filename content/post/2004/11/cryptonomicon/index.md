@@ -12,6 +12,9 @@ tags:
 title: Cryptonomicon
 type: post
 url: /2004/11/cryptonomicon/
+reviews:
+- media: books
+  title: Cryptonomicon by Neil Stephenson
 ---
 
 It's 1:30 in the morning, and I plan on being at work by 8AM, so I'll just throw out a quick book review before I buzz off to meet the sandman.

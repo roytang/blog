@@ -5,6 +5,9 @@ slug: atomic-habits
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1222342903030337536/
+reviews:
+- media: books
+  title: Atomic Habits by James Clear
 tags:
 - books
 - review

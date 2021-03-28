@@ -11,6 +11,9 @@ type: post
 slug: gods-debris-by-scott-adams
 aliases:
 - /2006/02/god39s-debris-by-scott-adams/
+reviews:
+- media: books
+  title: God's Debris by Scott Adams
 ---
 
 [This][1] was Scott Adams' first non-Dilbert book. If you're used to reading Adams go on about Induhviduals and stupid managers, or if you've never read Adams trying / pretending to sound philosophical in one of his books, then this isn't what you'd expect.

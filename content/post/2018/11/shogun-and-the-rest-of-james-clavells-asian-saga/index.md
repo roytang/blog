@@ -14,6 +14,9 @@ title: Shogun, and the rest of James Clavell's Asian Saga
 type: post
 url: /2018/11/shogun-and-the-rest-of-james-clavells-asian-saga/
 dontinlinephotos: true
+reviews:
+- media: books
+  title: Shogun by James Clavell
 ---
 
 {{< img src="1901150_10152838020443912_1173953250_n1.jpg" >}}

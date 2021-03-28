@@ -12,6 +12,9 @@ tags:
 title: 'Books: ABNKKBSKNPLAko? by Bob Ong'
 type: post
 url: /2005/02/books-abnkkbsknplako-by-bob-ong/
+reviews:
+- media: books
+  title: ABNKKBSKNPLAko? by Bob Ong
 ---
 
 Picked it up as an impulse buy from National Bookstore a couple of weeks ago. Anyone who grew up in the 80s will appreciate Bob Ong's trip back to his elementary/high school/college days. His tales of school will ring true to anyone from around the same era; younger folk may not appreciate it so much. (My younger brother seems to have no idea what _Spin-a-win_ is/was, although he is aware of SOS, Flames, etc.)

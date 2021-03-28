@@ -12,6 +12,13 @@ tags:
 title: 2013 - Books and Games
 type: post
 url: /2013/12/2013-books-and-games/
+reviews:
+- media: books
+  title: Slaughterhouse Five by Kurt Vonnegut
+- media: books
+  title: Foundation Trilogy by Isaac Asimov
+- media: books
+  title: Shadows in Flight by Orson Scott Card
 ---
 
 It's the end of the year, so it feels like a good time to look back at the books and games I've gone through in 2013.

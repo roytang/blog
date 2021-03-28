@@ -12,6 +12,9 @@ tags:
 title: Books -- Neverwhere
 type: post
 url: /2005/09/books-neverwhere/
+reviews:
+- media: books
+  title: Neverwhere by Neil Gaiman
 ---
 
 I've never really read much Neil Gaiman before &#8212; I'm not a particular fan of the Sandman series, for which he is most known. But I know some people who are big fans, so I respect his work at least. Neverwhere is only the second Gaiman book I've read (well, third maybe, I think I read that thing he co-wrote about the apocalypse), and I'm pretty much satisfied so far.

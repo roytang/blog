@@ -10,6 +10,9 @@ tags:
 - wheel of time
 title: 'Wheel of Time: Eye of the World'
 type: post
+reviews:
+- media: books
+  title: "Wheel of Time: Eye of the World by Robert Jordan (reread)"
 ---
 
 Continuing with the [Wheel of Time re-read](/2019/05/wheel-of-time-new-spring/)! I devoured Eye of the World much more quickly than I expected, finishing the book in less than 3 days. It helps that I had already read it before of course, but I think there's also a part of me that enjoys escaping into this fantasy world when the [real world outlook seems dire](/2019/05/ph-elections-2019-otso-diretso-compromises-lesser-evils/). 

@@ -9,6 +9,9 @@ tags:
 title: Dark Tower VI -- Song of Susannah
 type: post
 url: /2006/10/dark-tower-vi-song-of-susannah/
+reviews:
+- media: books
+  title: Song of Susannah by Stephen King
 ---
 
 I was holding off on buying the sixth installment of the Dark Tower until I could find a printing which matched the previous five books, but as I was browsing through the new Fully Booked at SM North I felt a compulsive urge to buy \*something\*, and lo and behold, Stephen King was on the shelf right beside me!

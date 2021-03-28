@@ -8,6 +8,9 @@ tags:
 - books
 title: 'Book Review: Utopia for Realists by Rutger Bregman'
 type: post
+reviews:
+- media: books
+  title: Utopia for Realists by Rutger Bregman
 ---
 
 I forget where I got this book recommendation from, but it did go on sale for Kindle a while back so I got a copy. The full title is "Utopia for Realists: How We Can Build the Ideal World". 

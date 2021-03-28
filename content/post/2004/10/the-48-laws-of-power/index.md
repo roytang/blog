@@ -12,6 +12,9 @@ tags:
 title: The 48 Laws of Power
 type: post
 url: /2004/10/the-48-laws-of-power/
+reviews:
+- media: books
+  title: The 48 Laws of Power by Robert Greene
 ---
 
 1. Never Outshine the Master

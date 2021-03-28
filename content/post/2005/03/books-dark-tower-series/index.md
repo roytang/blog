@@ -14,6 +14,11 @@ tags:
 title: 'Books: Dark Tower series'
 type: post
 url: /2005/03/books-dark-tower-series/
+reviews:
+- media: books
+  title: Wastelands by Stephen King
+- media: books
+  title: Wizard and Glass by Stephen King
 ---
 
 > "I do not aim with my hand.

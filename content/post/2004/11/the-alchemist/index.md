@@ -12,6 +12,9 @@ tags:
 title: The Alchemist
 type: post
 url: /2004/11/the-alchemist/
+reviews:
+- media: books
+  title: The Alchemist by Paolo Coelho
 ---
 
 The other day, while waiting to get a blood test at Clinica Manila, Megamall, I managed to finish about 2/3rds of Paolo Coellho's best-seller The Alchemist. I finished the last 1/3rd during a 15-minute bathroom break back home. It was a short book. Lots of people have raved about how good it is. What do I think? It's okay, but nothing overly special. Maybe I didn't get too much of it because it didn't have much new material for me. All of this -- having your own "personal legend"; searching and/or fighting for it instead of deciding to accept and be content with you have; communicating with the "Soul of the World"; &#8212; most of these things are not foreign concepts to me. I think the book would appeal most to those who are feeling a bit down or lost, and looking for something inspirational to give them a slight push and help them find their way. Or something. 😀

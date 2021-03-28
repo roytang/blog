@@ -10,6 +10,9 @@ title: So I finished reading A Memory of Light today (last Wheel of Time book)
 tags:
 - wheel of time
 - books
+reviews:
+- media: books
+  title: A Memory of Time by Robert Jordan and Brandon Sanderson
 ---
 
 <p>It&rsquo;s a satisfyingly good ending. The book is action-packed, with 80-90% of the book just bloody, bloody fighting, and very little of the whiny manipulative bitchiness that characterized some of the weaker books in the series. As far as I can tell most of the dangling points are wrapped up neatly, many characters get to be heroes and die, etc. Part of me wonders whether I&rsquo;d be this satisfied if Jordan had managed to finish everything himself.</p>

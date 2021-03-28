@@ -8,6 +8,9 @@ tags:
 title: The Rock Says
 type: post
 url: /2006/12/the-rock-says/
+reviews:
+- media: books
+  title: The Rock Says by Dwayne Johnson
 ---
 
 I was going through the bookstores at yesterday's sale day at SM North, hoping to find some bargains. I found a copy of [The Rock][1]'s book, _The Rock Says_ going for the bargain basement price of 50 pesos (roughly 1 US dollar). What a steal!
