@@ -9,6 +9,7 @@ syndicated:
 tags:
 - philippines
 - covid19
+- weeknotes
 title: Weeknotes 2021-03-21
 ---
 
