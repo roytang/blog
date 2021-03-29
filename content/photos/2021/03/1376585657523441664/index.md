@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1376585657523441664/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1376585960641626114/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/mexu6t/march_28th_the_worst_movie_youve_ever_seen/gspkjmh/
 tags:
 - sketchdaily
 ---
