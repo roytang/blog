@@ -7,7 +7,7 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/mc15q9/march_24th_moonlit_masquerade/gs5elmj/
 tags:
-- sketcheaily
+- sketchdaily
 ---
 
-Moonlit masquerade #sketcheaily 83/365
+Moonlit masquerade #sketchdaily 83/365
