@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Logan (2017)"
+  description: Spoiler-free review
 ---
 
 Right. I watched Logan yesterday.

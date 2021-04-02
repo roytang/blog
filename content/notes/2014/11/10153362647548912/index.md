@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Big Hero 6 (2014)"
+  description: Spoiler-free review
 ---
 
 Big Hero 6 spoiler-free review: Fun, light-hearted feel-good romp. Lots of good physical comedy with Baymax. Predictable plot (hey, it's a kid's movie, k?). There is a post-credits scene for some reason.

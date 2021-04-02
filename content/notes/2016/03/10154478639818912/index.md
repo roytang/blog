@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Batman v Superman: Dawn of Justice (2016)"
+  description: Spoiler-free review
 ---
 
 Batman vs Superman Dawn of Justice Spoiler-Free Review: 

@@ -11,6 +11,10 @@ syndicated:
 tags: 
 - tv
 - spoiler-free-review  
+reviews:
+- media: tv
+  title: "Black Mirror season 4"
+  description: Spoiler-free review
 ---
 
 Black Mirror S4 spoiler-free review! (episodes listed from most enjoyed to least):

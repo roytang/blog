@@ -22,11 +22,6 @@ reviews:
   date: 2020-03-23
   rating: 5
 - media: "movies"
-  title: "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn (2020)"
-  description: "Spoiler-free review"
-  date: 2020-03-25
-  rating: 4
-- media: "movies"
   title: "Logan Lucky (2017)"
   description: "Fun heist movie, but I find it hard to take the characters seriously. Might be some anti-redneck bias."
   date: 2020-03-25

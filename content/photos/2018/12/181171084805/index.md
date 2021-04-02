@@ -19,6 +19,10 @@ tags:
 - comics
 - spoiler-free-review
 - movies
+reviews:
+- media: movies
+  title: "Spider-Man: Into the Spider-Verse (2018)"
+  description: Spoiler-free review
 ---
 
 <p>

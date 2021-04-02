@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Rogue One: A Star Wars Story (2016)"
+  description: Spoiler-free review
 ---
 
 ROGUE ONE Spoiler-free review:

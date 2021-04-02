@@ -11,6 +11,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1208611412697698304/
 - type: facebook
   url: https://www.facebook.com/photo.php?fbid=10158023153908912&set=a.126100068911&type=3
+reviews:
+- media: movies
+  title: "Star Wars Episode IX: Rise of Skywalker (2019)"
+  description: Spoiler-free review
 ---
 
 RISE OF SKYWALKER Spoiler-free review:

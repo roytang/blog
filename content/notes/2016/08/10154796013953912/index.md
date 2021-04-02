@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Suicide Squad (2016)"
+  description: Spoiler-free review
 ---
 
 SUICIDE SQUAD Spoiler-Free Review:

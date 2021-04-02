@@ -16,6 +16,10 @@ tags:
 - timeline-photos
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Aquaman (2018)"
+  description: Spoiler-free review
 ---
 
 Aquaman Spoiler-Free review!

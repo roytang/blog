@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Deadpool 2 (2018)"
+  description: Spoiler-free review
 ---
 
 Deadpool 2 SPOILER-FREE REVIEW:

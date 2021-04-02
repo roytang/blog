@@ -10,6 +10,7 @@ title: Daredevil Season 2 spoiler-free review
 reviews:
 - media: tv
   title: Daredevil Season 2
+  description: Spoiler-free review
 ---
 
 Daredevil Season 2 spoiler-free review: 

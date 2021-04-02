@@ -12,6 +12,10 @@ tags:
 - ireadcomicbooks
 - spoiler-free-review
 - movies
+reviews:
+- media: movies
+  title: "Venom (2018)"
+  description: Spoiler-free review
 ---
 
 VENOM spoiler-free review:

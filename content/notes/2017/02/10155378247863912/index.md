@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Arrival (2017)"
+  description: Spoiler-free review
 ---
 
 Arrival spoiler-free review:

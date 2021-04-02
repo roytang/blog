@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - spoiler-free-review
 - movies
+reviews:
+- media: movies
+  title: "Avengers Infinity War (2018)"
+  description: Spoiler-free review
 ---
 
 Avengers Infinity War Spoiler Free Review:

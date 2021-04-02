@@ -11,6 +11,10 @@ tags:
 - spoiler-free-review
 title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn spoiler-free
   review!
+reviews:
+- media: movies
+  title: "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2017)"
+  description: Spoiler-free review
 ---
 
 (Too late for the theatrical release, but it's [tradition](/tags/spoiler-free-review) for comic book movies, so here we are.)

@@ -15,6 +15,10 @@ tags:
 - shazam
 - spoiler-free-review
 title: Shazam! spoiler-free review!
+reviews:
+- media: movies
+  title: "Shazam (2019)"
+  description: Spoiler-free review
 ---
 
 - I liked this movie, it had good heart, fun kid-friendly humor, and a strong message about family

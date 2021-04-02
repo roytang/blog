@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Spider-Man: Homecoming (2017)"
+  description: Spoiler-free review
 ---
 
 Spider-man Homecoming Spoiler-free review:

@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Doctor Strange (2016)"
+  description: Spoiler-free review
 ---
 
 DOCTOR STRANGE Spoiler-free review:

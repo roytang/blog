@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Deadpool (2016)"
+  description: Spoiler-free review
 ---
 
 Here we go, DEADPOOL spoiler-free review: 

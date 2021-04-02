@@ -7,6 +7,10 @@ syndicated:
 tags:
 - CrisisOnInfiniteEarths
 - spoiler-free-review
+reviews:
+- media: tv
+  title: "Arrowverse: Crisis on Infinite Earths"
+  description: Spoiler-free review
 ---
 
 #CrisisOnInfiniteEarths spoiler free review: low budget, pacing and writing issues, but idc because all the dc comics fan service kept making me smile

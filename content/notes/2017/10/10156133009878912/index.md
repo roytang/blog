@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Thor Ragnarok (2017)"
+  description: Spoiler-free review
 ---
 
 THOR RAGNAROK spoiler-free review:

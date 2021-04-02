@@ -17,6 +17,10 @@ syndicated:
 tags:
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Joker (2019)"
+  description: Spoiler-free review
 ---
 
 JOKER spoiler-free review:

@@ -11,6 +11,10 @@ syndicated:
 tags:
 - ireadcomicbooks
 - spoiler-free-review
+reviews:
+- media: tv
+  title: "Daredevil season 3"
+  description: Spoiler-free review
 ---
 
 Daredevil Season 3 spoiler-free review

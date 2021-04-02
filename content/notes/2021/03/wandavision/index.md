@@ -19,6 +19,10 @@ tags:
 - comicbooks
 - spoiler-free-review
 title: Wandavision Spoiler-free Review
+reviews:
+- media: tv
+  title: "Wandavision"
+  description: Spoiler-free review
 ---
 
 #WandaVision spoiler-free review: 

@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Wonder Woman (2017)"
+  description: Spoiler-free review
 ---
 
 Wonder Woman spoiler-free review:

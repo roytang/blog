@@ -10,6 +10,10 @@ tags:
 - timeline-photos
 - tv
 - spoiler-free-review
+reviews:
+- media: tv
+  title: "Defenders"
+  description: Spoiler-free review
 ---
 
 DEFENDERS spoiler-free review and episode guide:

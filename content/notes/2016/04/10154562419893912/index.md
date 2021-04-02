@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Captain America: Civil War (2016)"
+  description: Spoiler-free review
 ---
 
 Captain America Civil War spoiler-free review:

@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Star Wars Episode VII: The Force Awakens (2017)"
+  description: Spoiler-free review
 ---
 
 As is tradition, my spoiler-free review of The Force Awakens: 

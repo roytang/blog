@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - tv
 - spoiler-free-review
+reviews:
+- media: tv
+  title: "Luke Cage season 1"
+  description: Spoiler-free review
 ---
 
 Luke Cage spoiler-free review:

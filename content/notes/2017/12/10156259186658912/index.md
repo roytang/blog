@@ -7,6 +7,10 @@ syndicated:
 tags: 
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Star Wars Episode VIII: The Last Jedi (2017)"
+  description: Spoiler-free review
 ---
 
 THE LAST JEDI Spoiler-free (promise) review:

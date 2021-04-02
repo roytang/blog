@@ -15,6 +15,10 @@ syndicated:
 tags:
 - movies
 - spoiler-free-review
+reviews:
+- media: movies
+  title: "Black Panther (2018)"
+  description: Spoiler-free review
 ---
 
 BLACK PANTHER spoiler-free review!

@@ -6,6 +6,10 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156749941023912
 tags: 
 - spoiler-free review
+reviews:
+- media: movies
+  title: "Ant-Man and the Wasp (2018)"
+  description: Spoiler-free review
 ---
 
 Ant-Man and the Wasp Spoiler Free Review!
