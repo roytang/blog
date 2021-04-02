@@ -6,6 +6,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154623406818912
 tags: 
 - movies
+reviews:
+- media: movies
+  title: "Warcraft (2016)"  
 ---
 
 Warcraft movie review:

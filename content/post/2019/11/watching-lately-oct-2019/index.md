@@ -13,6 +13,13 @@ tags:
 - watching lately
 title: 'Watching Lately: October 2019: Joker, Scorsese, Stuber, Bloodlines, Brotherhood'
 type: post
+reviews:
+- media: movies
+  title: "Goodfellas (1990)"
+- media: movies
+  title: "Stuber (2019)"
+- media: movies
+  title: "Wonder Woman: Bloodlines (2019)"
 ---
 
 Actually watched something in the cinema this month: **Joker**. I wasn't originally sure if I wanted to see it, I wasn't hyped for it at all in the months prior. But as the showing date came nearer, there was a lot of buzz around it so I decided to go anyway. I don't feel like it lived up to the hype and the warnings about promoting incel stuff, but at least it's one of the higher-grossing DC movies, so maybe we'll have more to come in that vein. MCU movies all have kind of same-y tone and feel, so probably DC can differentiate itself by doing these heavier movies with a different kind of style. My spoiler-free review of this movie is [here](https://roytang.net/2019/10/1180086308963618816/).

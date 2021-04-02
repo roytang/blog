@@ -12,6 +12,9 @@ tags:
 title: 'Movies: Batman Begins'
 type: post
 url: /2005/06/movies-batman-begins/
+reviews:
+- media: movies
+  title: "Batman Begins (2005)"
 ---
 
 Awesome. Definitely better than the all the other Batman movies. This movie is no kids' movie either. The movie is less about Batman's crimefighting adventures and more about Bruce Wayne's journey from being a angry, confused rich orphan to the billionaire playboy/costumed vigilante popularized by the earlier films.

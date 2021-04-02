@@ -8,6 +8,9 @@ tags:
 title: Spider-man 3
 type: post
 url: /2007/05/spider-man-3/
+reviews:
+- media: movies
+  title: "Spider-Man 3 (2007)"
 ---
 
 Pretty good movie, as expected. The story is what you'd expect from a comic-book movie, but the mid-air fight scenes are really great.

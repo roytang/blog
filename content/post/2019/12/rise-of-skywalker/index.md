@@ -6,6 +6,7 @@ syndicated:
 tags:
 - movies
 - pop culture
+slug: star-wars-rise-of-skywalker-spoilers
 title: 'Star Wars: Rise of Skywalker (spoilers!)'
 ---
 

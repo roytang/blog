@@ -15,6 +15,11 @@ tags:
 - watching lately
 title: 'Watching Lately: November 2019: Broly, Justice League, Arrowverse, Mandalorian'
 type: post
+reviews:
+- media: movies
+  title: "Dragonball Super: Broly (2018)"
+- media: movies
+  title: "Justice League vs the Fatal Five (2019)"
 ---
 
 Nothing in the cinema this month (going to the cinema is expensive!). I did watch a couple of animated movies this month:

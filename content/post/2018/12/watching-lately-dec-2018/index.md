@@ -13,6 +13,11 @@ tags:
 - Pop Culture
 title: 'Watching Lately: December 2018'
 type: post
+reviews:
+- media: movies
+  title: "Incredibles 2 (2018)"
+- media: movies
+  title: "Solo: A Star Wars Story (2018)"
 ---
 
 Some things I've been watching lately, aside from the usual TV shows I follow:

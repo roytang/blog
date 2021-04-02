@@ -6,6 +6,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153783498953912
 tags: 
 - movies
+reviews:
+- media: movies
+  title: "Mad Max: Fury Road (2015)" 
 ---
 
 Mad Max was kind of crazy. I hadn't seen any of the originals, so wasn't sure what to expect. Pretty exciting stuff

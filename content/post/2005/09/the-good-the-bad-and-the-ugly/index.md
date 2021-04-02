@@ -12,6 +12,9 @@ tags:
 title: The Good, The Bad and the Ugly
 type: post
 url: /2005/09/the-good-the-bad-and-the-ugly/
+reviews:
+- media: movies
+  title: "The Good, The Bad and the Ugly (1966)"
 ---
 
 One of the things I've been wanting to do during this hiatus was to watch more movies &#8212; we've got a ton of DVDs downstairs I haven't seen yet. Since I had just finished the [fifth book of Stephen King's western fantasy][1], I started this task with Sergio Leone's western opus, The Good, The Bad and The Ugly.

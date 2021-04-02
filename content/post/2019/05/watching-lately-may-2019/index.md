@@ -12,6 +12,19 @@ tags:
 - watching lately
 title: 'Watching Lately: May 2019'
 type: post
+reviews:
+- media: tv
+  title: "Legends of Tomorrow season 4"
+- media: tv
+  title: "Supergirl season 4"
+- media: tv
+  title: "Flash season 5"
+- media: tv
+  title: "Arrow season 7"
+- media: tv
+  title: "Gotham"
+- media: tv
+  title: "The Big Bang Theory"
 ---
 
 The big TV thing of May 2019 was of course, the much maligned finale for *Game of Thrones*. I've written about that separately [here](/2019/05/game-of-thrones/).

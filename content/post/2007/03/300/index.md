@@ -9,6 +9,9 @@ tags:
 title: 300
 type: post
 url: /2007/03/300/
+reviews:
+- media: movies
+  title: "300 (2007)"
 ---
 
 Mostly due to my antisocial nature and my laziness, I haven't actually seen a movie in a theater since... forever. I broke that fast mostly because of the hype surround 300, the movie based on Frank Miller's comic book retelling of the Battle at Thermopylae.

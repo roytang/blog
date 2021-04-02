@@ -12,6 +12,11 @@ tags:
 - watching lately
 title: 'Watching Lately: April 2019'
 type: post
+reviews:
+- media: tv
+  title: "Star Trek Discovery season 2"
+- media: tv
+  title: "The Orville season 2"
 ---
 
 I've already written extensively about [Avengers Endgame](/2019/04/more-thoughts-on-avengers-endgame-and-the-mcu/), but there are other things I watched this month too.

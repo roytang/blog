@@ -14,6 +14,17 @@ tags:
 title: 'Watching Lately: August 2019: Young Justice, The Boys, Fleabag, One Cut of
   the Dead'
 type: post
+reviews:
+- media: movies
+  title: "One Cut of the Dead (2017)"
+- media: tv
+  title: "Young Justice Outsiders (part 2)"
+- media: tv
+  title: "Fleabag"
+- media: tv
+  title: "The Boys season 1"
+- media: movies
+  title: "Rocko's Modern Life: Static Cling (2019)"
 ---
 
 Hmm, surprisingly I haven't watched too much stuff this month.

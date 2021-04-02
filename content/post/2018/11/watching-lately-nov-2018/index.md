@@ -13,6 +13,13 @@ tags:
 - Pop Culture
 title: 'Watching Lately: November 2018'
 type: post
+reviews:
+- media: movies
+  title: "Hidden Figures (2016)"
+- media: movies
+  title: "Bohemian Rhapsody (2018)"
+- media: movies
+  title: "Teen Titans GO! To the Movies (2018)"
 ---
 
 Some things I've been watching lately, aside from the usual TV shows I follow:

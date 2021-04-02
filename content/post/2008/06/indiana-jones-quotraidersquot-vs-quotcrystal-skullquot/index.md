@@ -8,7 +8,14 @@ tags:
 - Pop Culture
 title: 'Indiana Jones: Raiders vs Crystal Skull'
 type: post
-url: /2008/06/indiana-jones-quotraidersquot-vs-quotcrystal-skullquot/
+slug: indiana-jones-raiders-vs-crystal-skull
+aliases:
+- /2008/06/indiana-jones-quotraidersquot-vs-quotcrystal-skullquot/
+reviews:
+- media: movies
+  title: "Indiana Jones and the Raiders of the Lost Ark (1981)"
+- media: movies
+  title: "Indiana Jones and the Kingdom of the Crystal Skull (2008)"
 ---
 
 So I saw _Indiana Jones and the Kingdom of the Crystal Skull _last Friday. Two days later I also watched for the first time _Indiana Jones and the Raiders of the Lost Ark._ 

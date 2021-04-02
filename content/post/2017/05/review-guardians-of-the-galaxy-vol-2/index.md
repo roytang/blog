@@ -16,6 +16,9 @@ tags:
 title: 'Review: Guardians of the Galaxy Vol 2'
 type: post
 url: /2017/05/review-guardians-of-the-galaxy-vol-2/
+reviews:
+- media: movies
+  title: "Guardians of the Galaxy vol 2 (2017)"
 ---
 
 First, the spoiler-free summary (spoilers after this part):

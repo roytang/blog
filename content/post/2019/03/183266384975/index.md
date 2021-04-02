@@ -19,6 +19,10 @@ tags:
 - spoiler-free-review
 - movies
 title: Captain Marvel spoiler-free review!
+reviews:
+- media: movies
+  title: "Captain Marvel (2019)"
+  description: Spoiler-free review
 ---
 
 - movie was pretty good, no major issues

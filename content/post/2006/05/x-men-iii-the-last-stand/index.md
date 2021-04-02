@@ -8,6 +8,9 @@ tags:
 title: 'X-Men III: The Last Stand'
 type: post
 url: /2006/05/x-men-iii-the-last-stand/
+reviews:
+- media: movies
+  title: "X-Men III: The Last Stand (2006)"
 ---
 
 There's only one thing I have to say about the third X-men movie: Totally unexpected.

@@ -8,6 +8,9 @@ tags:
 title: Kung Fu Panda
 type: post
 url: /2008/06/kung-fu-panda/
+reviews:
+- media: movies
+  title: "Kung Fu Panda (2008)"
 ---
 
 Watch it, and be blinded by awesomeness.

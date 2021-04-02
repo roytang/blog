@@ -12,6 +12,9 @@ tags:
 title: 'Movies: Fantastic Four'
 type: post
 url: /2005/07/movies-fantastic-four/
+reviews:
+- media: movies
+  title: "Fantastic Four (2005)"
 ---
 
 One word: Suxxor.
@@ -28,7 +31,7 @@ The Thing is of course, the most tragic member of the FF, and a good part of the
 
 The best thing about this movie? The Fantastic Four are represented quite accurately.
 
-(Edit 11-Jul-2005: Actually, the best parts were those involving the Thing and thr Torch. Reed was pretty much what I expected, but Sue's character was quite weak, and at some points Jessica Alba seemed uncomfortable with it. It can't be helped though, as before Franklin was born, Sue Storm-Richards had the weakest character development in the comics, and her lacking role in the movie simply reflects that.)
+(Edit 11-Jul-2005: Actually, the best parts were those involving the Thing and the Torch. Reed was pretty much what I expected, but Sue's character was quite weak, and at some points Jessica Alba seemed uncomfortable with it. It can't be helped though, as before Franklin was born, Sue Storm-Richards had the weakest character development in the comics, and her lacking role in the movie simply reflects that.)
 
 The worst thing about this movie? Doctor Doom and the people of New York are not.
 

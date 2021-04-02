@@ -9,6 +9,9 @@ tags:
 title: 'Street Fighter: The Legend of Chun Li'
 type: post
 url: /2009/02/street-fighter-the-legend-of-chun-li/
+reviews:
+- media: movies
+  title: "Street Fighter: The Legend of Chun Li (2009)"
 ---
 
 I had time to kill before going to see my brother's art exhibit at megamall, so I went and watched Street Fighter: The Legend of Chun-Li.

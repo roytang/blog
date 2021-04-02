@@ -8,6 +8,15 @@ tags:
 title: Movies -- June 2008
 type: post
 url: /2008/06/movies-june-2008/
+reviews:
+- media: movies
+  title: "Incredible Hulk (2008)"
+- media: movies
+  title: "Wanted (2008)"
+- media: movies
+  title: "21 (2008)"
+- media: movies
+  title: "The Kingdom (2007)"
 ---
 
 This has been a good month for movies. I saw the following in cinemas:

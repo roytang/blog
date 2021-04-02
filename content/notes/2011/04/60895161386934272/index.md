@@ -9,6 +9,11 @@ syndicated:
 tags:
 - movies
 - tv
+reviews:
+- media: tv
+  title: "Firefly"
+- media: movies
+  title: "Serenity (2005)"
 ---
 
 Just finished watching Firefly/Serenity. Wow.

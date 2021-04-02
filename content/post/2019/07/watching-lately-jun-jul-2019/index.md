@@ -12,6 +12,19 @@ tags:
 - watching lately
 title: 'Watching Lately: June and July 2019'
 type: post
+reviews:
+- media: tv
+  title: "Voltron: Legendary Defender"
+- media: movies
+  title: "Rainbow's Sunset (2018)"
+- media: movies
+  title: "Heaven's Waiting (2018)"
+- media: movies
+  title: "Murder Mystery (2019)"
+- media: movies
+  title: "Murder on the Orient Express (2017)"
+- media: tv
+  title: "Jessica Jonaes season 3"
 ---
 
 I was travelling for most of the past two months, so this covers both June and July, and I guess I haven't been able to watch too much. Maybe? IDK, we'll see.

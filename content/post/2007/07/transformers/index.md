@@ -8,6 +8,9 @@ tags:
 title: Transformers
 type: post
 url: /2007/07/transformers/
+reviews:
+- media: movies
+  title: "Transformers (2007)"
 ---
 
 As a big Transformers fan back in the day, I have to say: the movie is okay. Action-packed and a fun popcorn flick. The story's nothing to win an oscar over, but everything looks SO COOL!

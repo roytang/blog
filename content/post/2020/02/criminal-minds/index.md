@@ -7,6 +7,9 @@ tags:
 - tv
 - pop culture
 title: Criminal Minds
+reviews:
+- media: tv
+  title: "Criminal Minds"
 ---
 
 In 2010 I took a short work hiatus which meant I was often home for most of the day. Back then Netflix wasn't really a thing, so I would often have local cable TV playing in the background of whatever I was doing. And it was because of this that I started regularly watching police procedurals. They're not the cleverest or most highbrow of shows, but they're more like a guilty pleasure. Most of it was **NCIS**, which the cable channels loved showing for some reason, but during that time I also picked up other shows like the quirky **Bones** and **Castle**. But the best of these shows by far, was **Criminal Minds**.

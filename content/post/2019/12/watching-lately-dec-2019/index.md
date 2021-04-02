@@ -13,6 +13,15 @@ tags:
 - Pop Culture
 title: 'Watching Lately: December 2019'
 type: post
+reviews:
+- media: movies
+  title: "Sky High (2005)"
+- media: movies
+  title: "Toy Story 4 (2019)"
+- media: tv
+  title: "The Expanse season 2"
+- media: tv
+  title: "The Mandalorian season 1"
 ---
 
 Been watching a lot of things this December.

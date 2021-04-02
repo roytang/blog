@@ -8,6 +8,10 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151802461213912
 tags:
 - movies
+reviews:
+- media: movies
+  title: "Batman (1989)"
+  description: Rewatch
 ---
 
 Watching Batman (1989). In an alternate world Burton and Keaton continued the series after Batman Returns. Perhaps a better world.

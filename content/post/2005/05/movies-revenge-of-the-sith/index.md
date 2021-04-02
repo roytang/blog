@@ -12,6 +12,9 @@ tags:
 title: 'Movies: Revenge of the Sith'
 type: post
 url: /2005/05/movies-revenge-of-the-sith/
+reviews:
+- media: movies
+  title: "Star Wars Episode III: Revenge of the Sith (2005)"
 ---
 
 The circle is now complete. The whole tale has been told. Revenge of the Sith completes Lucas' space opera. And the Force is strong in this one.

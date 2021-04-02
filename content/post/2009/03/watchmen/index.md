@@ -9,6 +9,9 @@ tags:
 title: Watchmen
 type: post
 url: /2009/03/watchmen/
+reviews:
+- media: movies
+  title: "Watchmen (2009)"
 ---
 
 I had actually read the much-acclaimed graphic novel only last year. And while I found the story decent enough, I wasn't sure whether to like it or hate it. Undoubtedly it was an important point in the history of "superhero" comics, but I was never entirely sure about it's point.

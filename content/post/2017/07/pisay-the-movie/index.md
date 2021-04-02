@@ -14,6 +14,9 @@ title: Pisay (the movie)
 type: post
 url: /2017/07/pisay-the-movie/
 dontinlinephotos: true
+reviews:
+- media: movies
+  title: "Pisay (2007)"
 ---
 
 Last weekend I watched Aureus Solito's movie _Pisay_ at the UP film center with a couple of friends (both of whom were my Pisay batchmates of course).

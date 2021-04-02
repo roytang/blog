@@ -8,6 +8,9 @@ tags:
 title: Movies -- The Dark Knight
 type: post
 url: /2008/07/movies-the-dark-knight/
+reviews:
+- media: movies
+  title: "The Dark Knight (2008)"
 ---
 
 Wow. Best superhero movie EVER, hands-down.

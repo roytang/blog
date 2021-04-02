@@ -13,6 +13,9 @@ tags:
 - watching lately
 title: 'Watching Lately: September 2019: Dark Phoenix, The Ranch'
 type: post
+reviews:
+- media: tv
+  title: "The Ranch part 7"
 ---
 
 I finally got around to watching **X-Men Dark Phoenix** which I skipped when it came out mainly because (a) poor reviews, and while normally I'd have watched it anyway since I have not missed any of the X-Men movies in the cinema, not even the horrendous Wolverine Origins, there was also to consider that (b) I was in the US at the time and was only willing to spend my precious dollars on one expensive American cinema and [Spider-man Far From Home](/2019/07/spider-man-far-from-home/) won out. The movie wasn't _that_ bad really, at least I felt better about it than the aforementioned Wolverine Origins. Here are [some of my nitpicks](/notes/2019/09/1171737237135867906/). It's not what would've been the best ending for the X-Men series which was really one of the pioneers of the superhero movie revolution (alongside Raimi's Spider-Man), but that's what we got. At least it ended with a big fiery bird explosion in the sky.

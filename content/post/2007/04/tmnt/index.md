@@ -8,6 +8,9 @@ tags:
 title: TMNT
 type: post
 url: /2007/04/tmnt/
+reviews:
+- media: movies
+  title: "TMNT (2007)"
 ---
 
 if you've ever lived in the Philippines during the summer months, you're well aware of the sweltering heat. Not being in the mood to feel like french toast during this Sunday noontime, my brothers and I decided to troop to the nearby mall and catch a movie -- in this case the return of those childhood stalwarts the Teenage Mutant Ninja Turtles to the big screen.

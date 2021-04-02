@@ -15,6 +15,11 @@ url: /2011/06/x-men-green-lantern-and-a-little-bit-of-batman/
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/84274605216382976/
+reviews:
+- media: movies
+  title: "X-Men: First Class (2011)"
+- media: movies
+  title: "Green Lantern (2011)"
 ---
 
 So Metro Manila is at the peril of heavy rains, flooding and traffic again (as often happens this time of the year) and I thought I'd do some actual blogging for a change.

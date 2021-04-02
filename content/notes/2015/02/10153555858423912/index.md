@@ -6,6 +6,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153555858423912
 tags: 
 - movies
+reviews:
+- media: movies
+  title: "Zombeavers (2014)" 
 ---
 
 This bus is showing a b movie about some college students vacationing in a cabin in the woods and being attacked by some sort of demonic beavers. Identify the movie

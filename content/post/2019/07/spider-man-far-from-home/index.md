@@ -9,6 +9,9 @@ tags:
 - movies
 title: Spider-Man Far From Home
 type: post
+reviews:
+- media: movies
+  title: "Spider-Man Far From Home (2019)"
 ---
 
 First, the spoiler-free review, then more spoilery stuff afterwards.

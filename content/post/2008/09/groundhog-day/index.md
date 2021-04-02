@@ -8,6 +8,10 @@ tags:
 title: Groundhog Day
 type: post
 url: /2008/09/groundhog-day/
+reviews:
+- media: movies
+  title: "Groundhog Day (1993)"
+  description: Rewatch
 ---
 
 I caught Groundhog Day for the Nth time today on HBO (N roughly around 50). My father claims it's his favorite movie of all time; high praise considering he watches every movie that comes out EVER. I'm not actually going to talk about the movie; it's awesome, if you haven't seen it, you should. You're missing half your life.

@@ -11,6 +11,9 @@ tags:
 - movies
 title: We're in the Endgames now
 type: post
+reviews:
+- media: movies
+  title: "Avengers Endgame (2019)"
 ---
 
 Two endgames to discuss in one post! MTG War of the Spark and Avengers Endgame spoilers ahoy!

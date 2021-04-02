@@ -8,6 +8,10 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151700975468912
 tags:
 - movies
+reviews:
+- media: movies
+  title: "Lord of the Rings trilogy (2001-2003)"
+  description: Rewatch
 ---
 
 Spent the second half of the day watching the Lord of the Rings trilogy.

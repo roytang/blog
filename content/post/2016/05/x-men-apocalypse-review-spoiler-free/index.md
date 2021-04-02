@@ -9,9 +9,14 @@ tags:
 - Comics
 - Movies
 - Pop Culture
+- spoiler-free-review
 title: X-Men Apocalypse Review (Spoiler-Free)
 type: post
 url: /2016/05/x-men-apocalypse-review-spoiler-free/
+reviews:
+- media: movies
+  title: "X-Men: Apocalypse (2016)"
+  description: Spoiler-free review
 ---
 
 <div>

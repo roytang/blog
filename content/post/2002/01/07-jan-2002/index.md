@@ -13,6 +13,9 @@ tags:
 title: 07 Jan 2002
 type: post
 url: /2002/01/07-jan-2002/
+reviews:
+- media: movies
+  title: "Lord of the Rings: Fellowship of the Ring (2001)"
 ---
 
 For some reason, I keep wanting to update this site. I'm actually doing this more often than studying for the board, studying game development, studying Japanese or writing anything else. I wonder why? Anyway, I added a humor page and a special "Who Am I?" page. Check 'em out. Also the Anime ROMs site should be fully operational by now.

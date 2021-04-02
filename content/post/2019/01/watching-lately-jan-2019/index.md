@@ -13,6 +13,11 @@ tags:
 - Pop Culture
 title: 'Watching Lately: January 2019'
 type: post
+reviews:
+- media: tv
+  title: "Young Justice Outsiders"
+- media: tv
+  title: "Punisher"
 ---
 
 Some things I've been watching lately, aside from the usual TV shows I follow:

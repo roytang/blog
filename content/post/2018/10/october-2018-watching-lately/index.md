@@ -16,6 +16,13 @@ tags:
 title: 'Watching Lately: October 2018'
 type: post
 url: /2018/10/october-2018-watching-lately/
+reviews:
+- media: tv
+  title: "Tom Clancy's Jack Ryan"
+- media: tv
+  title: "Daredevil season 3"
+- media: movies
+  title: "Batman Ninja (2018)"
 ---
 
 Some things I've been watching lately, aside from the usual TV shows I follow:

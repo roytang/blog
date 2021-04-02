@@ -7,6 +7,9 @@ syndicated:
 tags: 
 - software development
 - movies
+reviews:
+- media: movies
+  title: "The Martian (2015)" 
 ---
 
 Things software development projects can learn from "The Martian" (maybe spoilers lol): 
