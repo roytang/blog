@@ -1,6 +1,11 @@
 ---
-date: 2021-04-04T15:23:31+08:00
+date: 2021-04-04 07:23:31
 slug: weeknotes-2021-04-04
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106005873050948046
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1378610187389476867/
 tags:
 - philippines
 - covid19
