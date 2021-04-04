@@ -16,7 +16,7 @@ reviews:
 
 Good plot twists you could see from a mile away.
 
-Unfortunately, we had arrived at the theater too late to catch the start of the last showing of _Gangs of New York_, so we had to settle with the second choice. _The Recruit _didn't get as much critical acclaim as _Gangs_, but what the heck, Al Pacino in a spy thriller? How could I lose?
+Unfortunately, we had arrived at the theater too late to catch the start of the last showing of _Gangs of New York_, so we had to settle with the second choice. _The Recruit_ didn't get as much critical acclaim as _Gangs_, but what the heck, Al Pacino in a spy thriller? How could I lose?
 
 The story is simple enough. Colin Farell plays James Clayton, a young man just out of MIT, recruited by CIA agent William Burke (Pacino). Clayton is obsessed with finding out what happened to his father, who was lost in an accident some fifteen or so years ago. Pacino taunts him by dropping the occasional hint about his father's fate, and Clayton throws away the promising career he would have had in Engineering to join the CIA. The third entry to this little affair is Leila, Clayton's batchmate at the Farm, a chick who may or may not be a double agent, but definitely has the hots for him. The three of them expectedly get involved a complicated plot involving double agents, unofficial operatives and the standard amount of secret agent sex.
 

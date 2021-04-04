@@ -10,6 +10,9 @@ tags:
 title: 'Games: Naruto: Narutimate Hero'
 type: post
 url: /2004/06/games-naruto-narutimate-hero/
+reviews:
+- media: games
+  title: "Games: Naruto: Narutimate Hero"
 ---
 
 Yup, it's a Japanese-only PS2 game based on the currently popular Naruto anime/manga. If you're not aware of Naruto, it's pretty much like Dragonball Z, except with better animation, actual reasons for fighting, and ninjas instead of aliens. It tells the story of a young boy in the Hidden Village of Konoha, cursed with being the living incarnation of a feared nine-tailed demon fox spirit. Simple enough eh? 

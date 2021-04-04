@@ -6,6 +6,9 @@ tags:
 title: Suikoden V -- Review
 type: post
 url: /2006/05/suikoden-v-review/
+reviews:
+- media: games
+  title: Suikoden V
 ---
 
 Suikoden V is hands-down the best game in the Suikoden series.

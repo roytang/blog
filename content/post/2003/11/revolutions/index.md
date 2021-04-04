@@ -10,6 +10,9 @@ tags:
 title: Revolutions
 type: post
 url: /2003/11/revolutions/
+reviews:
+- media: movies
+  title: "Matrix Revolutions (2003)"
 ---
 
 So I saw Matrix: Revolutions last Friday. Nice movie, entertaining to watch, but it's not as deep as you'd expect, and the Matrix trilogy really ends not with a bang but with a whisper. I like [this review][1], it analyzes things very well.

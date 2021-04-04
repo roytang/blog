@@ -27,13 +27,9 @@ When I was finishing up in UP, everything seemed simple &#8212; I'd graduate and
 
 After thinking about this, I thought I'd evaluate my own skills to see what could be done. Lemme see, I can do:
 
-  * Embedded software. Since I did two thesis-level projects involving embedded software, I reckon I'm fairly good at this. The problem is that I've only come across one job opportunity where this skill would be useful, and I never got a callback (and
-  
-    I thought it was a pretty good job for me too.)
+  * Embedded software. Since I did two thesis-level projects involving embedded software, I reckon I'm fairly good at this. The problem is that I've only come across one job opportunity where this skill would be useful, and I never got a callback (and I thought it was a pretty good job for me too.)
   * Programming. This would be great, until I acknowledge that while I'm a programming genius, I don't actually have any application-level programming experience under my belt. I'm good a coding, optimizing programs, finding solutions to tough problems, but I've never been part of a large-scale software project, even though I could probably do it all myself, in theory.
-  * Web Development. I know HTML and various scripting languages, can use Macromedia Dreamweaver and Flash, what can't I do? The problem comes up again: I know it all in theory, but lack the experience. It's not like I'm churning out webpages at a dime a
-  
-    dozen, and most places looking for web developers ask for some level of experience. Curses.
+  * Web Development. I know HTML and various scripting languages, can use Macromedia Dreamweaver and Flash, what can't I do? The problem comes up again: I know it all in theory, but lack the experience. It's not like I'm churning out webpages at a dime a dozen, and most places looking for web developers ask for some level of experience. Curses.
   * Write. Or at least I like to think I can. But it doesn't sound very profitable to be writing for a living... 
 
 Sigh, that's it. Pretty sad, huh? The main problem seems to be most of what I can do is self-taught and relies on my raw talent instead of actual experience. What is it with the world? Why can't they just recognize my genius and overlook my lack of experience? I learn impossibly fast anyway, anything I don't know I can pick up quickly. Argh.

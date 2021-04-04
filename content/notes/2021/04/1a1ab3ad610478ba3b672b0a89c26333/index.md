@@ -9,6 +9,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1378602432859545603/
 title: ''
+reviews:
+- media: movies
+  title: On Her Majesty's Secret Service (1969)
 ---
 
 Bond movie no. 6: On Her Majesty's Secret Service (1969). Only Lazenby appearance. He was fine, I suppose. Tracy probably best Bond girl so far. I liked the ski scenes more than Thunderball's underwater scenes.
