@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:27:31+08:00
+date: 2021-04-04T15:23:31+08:00
 slug: weeknotes-2021-04-04
 tags:
 - philippines
