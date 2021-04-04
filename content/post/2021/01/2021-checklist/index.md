@@ -52,10 +52,10 @@ Movies:
 | <!-- -->    | <!-- -->    | <!-- --> |
 |-------------|-------------|----------|
 | Mar 18 | Justice League Snyder Cut | |
-| May 07 | Black Widow | |
-| Jun 25 | Venom Let There Be Carnage | |
-| Jul 09 | Shang-Chi and the Legend of the Ten Rings | |
+| Jul 09 | Black Widow | orig. May 07 |
 | Aug 06 | The Suicide Squad | |
+| Sep 03 | Shang-Chi and the Legend of the Ten Rings | orig. Jul 09 |
+| Sep 24 | Venom Let There Be Carnage | orig. Jun 25 |
 | Sep 30 | No Time To Die | |
 | Oct 01 | The Batman | |
 | Nov 06 | Eternals | |
