@@ -1,12 +1,17 @@
 ---
-date: 2021-04-05T16:28:08+08:00
+date: 2021-04-05 08:28:08
 reviews:
-- media: books
-  description: Reread
-  title: "Guards! Guards! by Terry Pratchett"
-- media: books
-  description: Second City Watch Discworld book
-  title: "Men at Arms by Terry Pratchett"
+- description: Reread
+  media: books
+  title: Guards! Guards! by Terry Pratchett
+- description: Second City Watch Discworld book
+  media: books
+  title: Men at Arms by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106011863623618140
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1378993584595034117/
 tags:
 - books
 title: 'Book Reviews: Guards! Guards! and Men at Arms by Terry Pratchett'
