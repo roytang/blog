@@ -9,7 +9,7 @@ reviews:
   title: "Men at Arms by Terry Pratchett"
 tags:
 - books
-title: 'Book Reviews: Guards! Guards! and Men at Arms'
+title: 'Book Reviews: Guards! Guards! and Men at Arms by Terry Pratchett'
 ---
 
 So after reading [Neuromancer](/2021/03/neuromancer/) last month, I was looking for a bit of lighter fare, so I decided to work on some Discworld books and started with the first book of the City Watch subseries, *Guards! Guards!*. I was already quite a bit in when I was like "why does all of this seem so familiar? Are Discworld books really so same-y that it feels like I've read this before?" The good news is that it wasn't true, Discworld books aren't super-samey; I have read it before, [way back in 2016](/2016/12/805050532834353152/) in fact. And I also found out that I had [done this in 2016 with another Discworld book as well](/2016/08/equal-rites/)! Ok, so I guess that means they are a bit same-y, but on the other hand I am getting better at retention because I actually recognized it this time.
