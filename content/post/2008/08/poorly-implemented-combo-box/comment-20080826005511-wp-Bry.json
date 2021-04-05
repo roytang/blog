@@ -1,8 +1,9 @@
 {
-  "id": "wp-Bry-20080826005511",
+  "id": "43f6d409-f5a8-4772-a0a4-3878b0395f46",
   "name": "Bry",
   "url": "",
   "text": "It&#39;s actually displaying the ZIP codes of locations in Quezon City in\nalphabetical order. I think the dev forgot to put the location name somewhere\nthere e.g.\n \nAlicia (1105)\n \nAmihan (1102)\n \nApolonio Samson (1106)\n \nand so on...\n \n \nI&#39;m still wondering how 801 got there, though.",
-  "date": "2008-08-26 00:55:11",
-  "photo": ""
+  "date": "2008-08-25 16:55:11",
+  "photo": "https://www.gravatar.com/avatar/999e3445ce31755aa2c4562ab17bca68",
+  "source_url": null
 }

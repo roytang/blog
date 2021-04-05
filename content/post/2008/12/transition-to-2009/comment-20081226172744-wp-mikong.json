@@ -1,8 +1,9 @@
 {
-  "id": "wp-mikong-20081226172744",
+  "id": "15db8c32-7263-4a81-b91a-89d36579aa72",
   "name": "mikong",
   "url": "http://devblog.michaelgalero.com/",
   "text": "Congrats!\n \npowered by django, nice :)",
-  "date": "2008-12-26 17:27:44",
-  "photo": ""
+  "date": "2008-12-26 09:27:44",
+  "photo": "https://www.gravatar.com/avatar/955f2f84064263e45a512ee48e53fb3e",
+  "source_url": null
 }

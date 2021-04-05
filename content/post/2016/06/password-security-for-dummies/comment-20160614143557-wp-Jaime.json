@@ -1,8 +1,9 @@
 {
-  "id": "wp-Jaime-20160614143557",
+  "id": "c1dce7de-3c98-4114-b80b-f371f55ba479",
   "name": "Jaime",
   "url": "",
   "text": "The problem with #2 comes from required password formats (which ultimately give a framework for hackers to brute-force attack).\n\nSome (ancient) websites put a character limit on passwords, which make it difficult to get fancy. Some (modern) websites require that you put a number, punctuation, etc. and that there must be capital letters integrated into your system. If your original password does not have accommodations for these rules, you're going to have to change algorithms.\n\nThere was also that time when Gawker websites had problems with passwords containing unicode characters. Better make sure that your passwords use the same standard characters.\n\n--- \n\nOne way to fight against difficult-to-remember passwords (such as tr0ubadour&amp;3) that don't use standard English words is to use Latinized words from a different language! This works especially well if you're multi-lingual. They defend better against a dictionary-biased brute-force attack than using standard word concatenation without the memorization penalty.",
-  "date": "2016-06-14 14:35:57",
-  "photo": ""
+  "date": "2016-06-14 06:35:57",
+  "photo": "https://www.gravatar.com/avatar/0f303ae76edcf538fcdb4995d7ef74d8",
+  "source_url": null
 }
