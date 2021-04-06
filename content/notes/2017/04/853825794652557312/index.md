@@ -8,7 +8,6 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/853825794652557312/
-title: ''
 ---
 
 We think of dictatorship as military coup, but people vote their way into authoritarianism with tragic frequency. https://twitter.com/SvakeStake/status/853665906999873538
