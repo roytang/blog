@@ -6,6 +6,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154523761408912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/719016569347571716/
 tags:
 - timeline-photos
 ---
