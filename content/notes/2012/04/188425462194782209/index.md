@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/188425462194782209/
 ---
 
-Fool! Doctor Doom does as he pleases! http://i.imgur.com/3C4Sb.jpg
+Fool! Doctor Doom does as he pleases! https://i.imgur.com/3C4Sb.jpg
