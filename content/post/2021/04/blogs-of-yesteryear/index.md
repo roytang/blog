@@ -1,9 +1,14 @@
 ---
-title: "Blogs of Yesteryear"
-date: 2021-04-07T02:59:10+08:00
+date: 2021-04-06 18:59:10
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106022873809736997
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1379698236085039107/
 tags:
 - blogging
 - tech life
+title: Blogs of Yesteryear
 ---
 
 During a recent session of spelunking through old web stuff, I managed to find some older versions of the blog that I hadn't found before (and hence aren't available in the [ancient archives](/archives/ancient/)). Screenshots of those old versions have been [inserted back in the timeline](/2004/12/layouts-2004/).
@@ -59,8 +64,3 @@ There's actually a few more categories in the blogroll there, but they're mostly
 The number of old blogs from that blogroll that are still active is actually more than I expected! Though still a lot of them that are dead or inactive now, which says a lot about how pervasive [link rot](/2021/02/link-rot/) is.
 
 I should make sure to archive a present-day version of my current blogroll and check those sites out around a decade from now, at which time I would hopefully still be blogging!
-
-
-
-
-
