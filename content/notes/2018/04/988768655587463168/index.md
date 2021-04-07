@@ -9,5 +9,3 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/988768655587463168/
 ---
-
-RT [@bhilburn](https://twitter.com/bhilburn/): 

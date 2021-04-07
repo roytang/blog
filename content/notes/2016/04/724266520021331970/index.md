@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/724266520021331970/
 ---
 
-RT [@shakirasison](https://twitter.com/shakirasison/): Men should be very offended w/ the idea that bikinis equal rape. It presumes you will force your penis into any woman who…
+Men should be very offended w/ the idea that bikinis equal rape. It presumes you will force your penis into any woman who is showing flesh.

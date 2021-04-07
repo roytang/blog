@@ -9,6 +9,12 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/humor/comments/gw3c9/engineering_professor_meme/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/61987837326790656/
+- type: plurk
+  url: https://plurk.com/p/bukdz5
 tags:
 - humor
 ---
+
+Presenting the Engineering professor
