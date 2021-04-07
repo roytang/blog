@@ -15,7 +15,7 @@ Just last month, I wrote a method of implementing [element toggles using a pure 
 
 I've updated the spoiler tags on this site to use this new method. I also used this method for the Table of Contents on certain posts (currently only the [Covid19 diary](/2020/03/covid19/)). Sample here:
 
-{{% spoiler %}}This is some text!{{% /spoiler %}}
+{{% spoiler title="Test" %}}This is some text!{{% /spoiler %}}
 
 The post I linked above covers most of the technical details. My only issue with this is that's a relatively new feature. Even though browser support is near universal (minus the much-maligned and quite ancient Internet Explorer), I'm not sure if there will be issues or how it renders when viewed in an older browsers or in other contexts such as in a feed reader or a screen reader. I don't want to accidentally show spoilers! I suppose that's a minor concern at this point, and maybe I should just be confident that people who make those tools have taken the visibility toggle into account.
 

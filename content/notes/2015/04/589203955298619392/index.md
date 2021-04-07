@@ -14,5 +14,6 @@ tags:
 - NotPirated
 ---
 
-RT [@ZackSnyder](https://twitter.com/ZackSnyder/): #BatmanvSuperman #NotBlurry #NotPirated
+#BatmanvSuperman #NotBlurry #NotPirated
+
 https://amp.twimg.com/v/32974fe5-dc4e-42bf-a586-c0cadf67796e
