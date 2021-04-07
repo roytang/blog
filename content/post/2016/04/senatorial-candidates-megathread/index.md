@@ -219,9 +219,11 @@ syndicated:
 tags:
 - philippines
 - phelection2016
+- halalan2016
 title: 2016 Senatorial Candidates Information Megathread
 ---
 
+[2021.04.08] This was originally a huge reddit thread where I had more than 100 comments, which resulted in so many posts to this site. I decided to merge most of the top level content into this large single post.
 #### Posted on r/Philippines: [2016 Senatorial Candidates Information Megathread](https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/)
 
 Hello /r/Philippines!
