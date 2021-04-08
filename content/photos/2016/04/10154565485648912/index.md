@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154565485648912
 tags:
 - timeline-photos
+- halalan2016
 ---
 
 True? False? Hyperbole? Misquote? Joke lang? Out of context? BIAS? Ok lang kasi matapang naman sya? Hindi dapat ako ma-offend unless criminal ako? Bukas iba na ang kwento?

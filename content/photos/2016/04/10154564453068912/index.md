@@ -2,7 +2,7 @@
 albums:
 - timeline
 date: 2016-04-28 23:58:00
-source: facebook
+source: twitter
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154564453068912
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/725716072402313216/
 tags:
 - timeline-photos
+- halalan2016
 ---
 
 Who needs checks and balances? Amirite?

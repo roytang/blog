@@ -5,7 +5,7 @@ syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/104118307260429942
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1257805978008879104/
+  url: https://twitter.com/roytang/statuses/1255602845513953280/
 title: ''
 ---
 
