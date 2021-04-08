@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/329605256155643904/
 tags:
 - Opinions
+- philippines
+- halalan2013
 title: Even more ramblings about the elections
 type: post
 url: /2013/05/even-more-ramblings-about-the-elections/

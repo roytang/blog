@@ -8,7 +8,6 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1124191692721025026/
-title: ''
 ---
 
 He knew. https://twitter.com/TIME/status/1124144061785546753
