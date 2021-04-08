@@ -36,8 +36,38 @@ Si Chel Diokno primarily judicial reform ang focus nya, since he is a lawyer. It
 
 &#x200B;
 
-"From his diagnostics, Chel has offered a coherent set of policy and  institutional reforms. The reforms he champions include the following:
+"From his diagnostics, Chel has offered a coherent set of policy and institutional reforms. The reforms he champions include the following:
 
 • The insulation of justices, judges, and prosecutors from partisan politics;
 
-• The filling up of vacancies in the  trial courts and prosecution agency by recruiting the most competen
+• The filling up of vacancies in the trial courts and prosecution agency by recruiting the most competent lawyers who possess integrity;
+
+• The simplification of the rules on evidence and procedure;
+
+• The reorientation of performance standard for the police and prosecution toward achieving high conviction rates;
+
+• The creation of transparent information and monitoring system to track cases and convictions;
+
+• The transfer of police’s disciplinary jurisdiction to the Civil Service Commission;
+
+• The expansion of the Ombudsman’s scope to investigate justices and judges;
+
+• The strengthening of the law on witness protection by allowing the perpetuation of testimonies of whistleblowers."
+
+
+I largely agree with this because I believe problems with the judicial system are one of the primary systemic problems in the country, facilitating corruption and delaying or outright denying justice especially to those with fewer resources. My impression is that this admin has shown little interest in improving judicial processes at all (despite the President being a former prosecutor who supposedly knows all the problems in the processes). Imagine if the so-called "intelligence fund" and/or political will was applied not just to identifying supposed drug users but instead to identifying corrupt judges, prosecutors, law enforcers, etc.
+
+
+> First, I would suggest that you watch the full speech for all the instances the president expressed support for all the topics listed above. Again, half truths are the best lies.
+
+
+Pinapanood ko naman lahat. Are you saying hindi naman yun sinasabi nung president? Also, I'm not clear whether you are saying the media is engaged in half truths/lies or the president is?
+
+
+> Don't trust the media too much.
+
+
+In the same vein, I think we should not trust any politician too much, whether we supported them or not. Discernment should apply to all sources, and even in cases where you trust someone, "Trust, but verify" should apply.
+
+
+Thank you for responding!
