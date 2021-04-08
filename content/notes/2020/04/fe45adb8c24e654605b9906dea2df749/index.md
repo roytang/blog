@@ -3,9 +3,9 @@ date: 2020-04-14 18:47:51
 source: email
 syndicated:
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/104118307498786676
+  url: https://mastodon.technology/users/roytang/statuses/103998437207073032
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1257805993347387394/
+  url: https://twitter.com/roytang/statuses/1250134294392999936/
 tags:
 - indieweb
 title: Indieweb search
