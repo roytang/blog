@@ -6,7 +6,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1127957569467633664/
 - type: facebook
   url: https://facebook.com/stephen.roy.tang/posts/10157447334508912
-title: ''
 ---
 
 This feels apt for today 
