@@ -11,7 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/725624022692569088/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154563615313912:1
-tags: []
+tags: 
+- halalan2016
 ---
 
 There's a RoRo sortie near my house today, half the road is blocked off. Wala pa ata ung candidates

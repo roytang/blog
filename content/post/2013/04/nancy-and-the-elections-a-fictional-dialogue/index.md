@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/327425369479192576/
 tags:
 - Opinions
+- philippines
+- halalan2016
 title: 'Nancy and the Elections: A Fictional Dialogue'
 type: post
 url: /2013/04/nancy-and-the-elections-a-fictional-dialogue/

@@ -11,6 +11,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1254837701448069122/
 title: ''
+tags:
+- mtg
 ---
 
 It's the end of an era: Wizards is sunsetting PWPs and DCI numbers https://www.wizards.com/Magic/PlaneswalkerPoints/36918016

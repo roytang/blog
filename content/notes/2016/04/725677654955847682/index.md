@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154564220523912
 tags:
 - RoRoYourVote
+- halalan2016
 ---
 
 #RoRoYourVote - dapat ako na lang pinapaisip nyo ng hashtags nyo

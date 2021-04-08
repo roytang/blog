@@ -4,6 +4,10 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/552465073/super-street-fighter-iv
+tags:
+- gaming
+albums:
+- pickups
 ---
 
 <p>Super Street Fighter IV!</p>

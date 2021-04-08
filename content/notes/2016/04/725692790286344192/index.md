@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/725692790286344192/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154564306218912
+tags:
+- halalan2016
 ---
 
 If I ever lose my bank account info, all I have to do is run for president

@@ -6,6 +6,10 @@ tags:
 title: 'Final Fantasy Crystal Chronicles: Ring of Fates'
 type: post
 url: /2008/04/final-fantasy-crystal-chronicles-ring-of-fates/
+reviews:
+- media: games
+  title: "Final Fantasy Crystal Chronicles: Ring of Fates"
+  rating: 3.5
 ---
 
 **Final Fantasy Crystal Chronicles: Ring of Fates** is an action-RPG by Square Enix. The original Final Fantasy Crystal Chronicles came out on the NGC. **Ring of Fates** is a different game for the NDS, though I guess it's sort of a spiritual successor. I finally managed to get some NDS time and finish this game last night.
