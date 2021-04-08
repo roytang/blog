@@ -4,7 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154576312758912
-tags: []
+- type: reddit
+  url: https://reddit.com/r/Philippines/comments/4ht7jh/survey_for_duterte_supporters/
+tags: 
+- halalan2016
 ---
 
 For my pro-Duterte friends, I have a survey. I'm not going to try to change your minds, but which of the following views do you hold (EJK = extra judicial killings):  
@@ -23,3 +26,5 @@ For my pro-Duterte friends, I have a survey. I'm not going to try to change your
 7. Something else (feel free to explain)  
 
 If you are uncomfortable giving your answer in public, feel free to PM me
+
+[Cross-post] #### Posted on r/Philippines: [Survey for Duterte supporters](https://reddit.com/r/Philippines/comments/4ht7jh/survey_for_duterte_supporters/)

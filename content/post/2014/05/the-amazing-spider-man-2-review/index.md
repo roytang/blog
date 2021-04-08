@@ -8,9 +8,13 @@ syndicated:
 tags:
 - Comics
 - Pop Culture
+- movies
 title: The Amazing Spider-Man 2 Review!
 type: post
 url: /2014/05/the-amazing-spider-man-2-review/
+reviews:
+- media: movies
+  title: "Amazing Spider-Man 2 (2014)"
 ---
 
 Well, I haven't written anything in a while, so I figured I'd write some words on the new Spider-Man movie. Spoilers abound!
