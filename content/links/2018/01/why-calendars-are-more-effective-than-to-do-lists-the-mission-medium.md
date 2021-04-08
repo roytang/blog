@@ -10,6 +10,10 @@ slug: why-calendars-are-more-effective-than-to-do-lists-the-mission-medium
 source: pocket
 title: "Why Calendars are More Effective Than To Do Lists \u2013 The Mission \u2013\
   \ Medium"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/947815724302479360/
+
 ---
 
  by [@UnmistakableCEO](https://twitter.com/UnmistakableCEO/)

@@ -10,6 +10,9 @@ tags:
 - Software Development
 title: 'TriviaStorm: Text and Answer parsing'
 type: post
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1091940639233769472/
 ---
 
 A while back I started a [Twitter trivia bot as a weekend project](/2017/02/weekend-project-twitter-trivia-bot/). That bot is still [up and running on Twitter](https://twitter.com/triviastorm), you can check it out there!
