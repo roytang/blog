@@ -8,5 +8,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/591785726091493377/
 ---
 
-How I know there's a sporty thing going on when I wake up: http://imgur.com/NOY468S @lizbethjane
-@lizbethjane did you just favorite a tweet from last year
+How I know there's a sporty thing going on when I wake up: https://imgur.com/NOY468S @lizbethjane
+
+[2015-04-25] @lizbethjane did you just favorite a tweet from last year

@@ -216,6 +216,10 @@ syndicated:
   url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xj4g/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28cgrl/
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2gncmu/
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2fisqt/
 tags:
 - philippines
 - phelection2016
@@ -301,6 +305,8 @@ https://en.wikipedia.org/wiki/Edu_Manzano
 
 [Reddit comment thread](https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x3t6/)
 
+[UP Polsoc profile](https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/12993324_10154096869173374_4075404173104107449_n.jpg?oh=2ada5e41f10233933776951990ed42d2&oe=57AFF90A) :: [Imgur mirror](http://i.imgur.com/jUYxw7u.jpg)
+
 {{% /spoiler %}}
 
 {{% spoiler title="Franklin Drilon (Liberal)" %}}
@@ -314,6 +320,12 @@ https://en.wikipedia.org/wiki/Franklin_Drilon
 [Reddit comment thread](https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wl55/)
 
 [UP polsoc profile](https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/10599318_10153981839268374_1133801010850967971_n.jpg?oh=e86795ede39cd2f0689bc3fba63d0e14&oe=5778124E) :: [Imgur mirror](https://imgur.com/AyuEUV1) (c/o [/u/LeaderOfDragons](https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2b4553/))
+
+Some highlights from his wikipedia article:
+
+(During GMA's time) Drilon spearheaded the Senate in confronting the excesses of the Executive branch by authorizing the Senate standing committees to conduct inquiries in aid of legislation and led the Chamber in opposing the Executive Order No. 264 which prohibits the Members of the Cabinet from going into the hearings of the Congress, the Senate in particular without permission from the President and in opposing the Proclamation No. 1017 which imposes state of national emergency in the country
+
+(During Aquino's time) He likewise primarily authored a law that creates an oversight body of all government owned and controlled corporations (GOCCs) which would check them from incurring financial excesses and as well as ensuring their financial stability and makes them fiscally responsible . On 2012, after Senator Ralph Recto stepped down as the Chairman of the Senate Committee on Ways and Means, Drilon as its Vice-Chairman took over as its new Chairman and worked firmly for the enactment of the Sin Tax Law that would impose higher taxes on the cigarettes and liquors. Drilon proudly called it as "anti-cancer law" for he firmly believes that the law would discourage the people from taking cigarettes so that they will not suffer lung cancer.
 
 {{% /spoiler %}}
 

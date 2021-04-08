@@ -1,4 +1,5 @@
 ---
+title: "Vice Presidential Debate"
 date: 2016-04-10 11:05:48
 source: twitter
 syndicated:
@@ -38,8 +39,9 @@ tags:
 - philippines
 - halalan2016
 - vpdebates
-title: "Commentary thread for the vice presidential debate today"
 ---
+
+Commentary thread for the vice presidential debate today
 
 ---
 
