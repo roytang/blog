@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154588826293912
-tags: []
+tags: 
+- halalan2016
 ---
 
 Sana magconcede na si Roxas first thing in the morning. Pag hindi, aapihin na naman sya sa social media :p

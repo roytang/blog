@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154590116728912
-tags: []
+tags: 
+- halalan2016
 ---
 
 Bilang second placer sa halalan, pwedeng sumunod si Roxas sa mga yapak ni Erap. Takbo na lang syang mayor ng Cubao
