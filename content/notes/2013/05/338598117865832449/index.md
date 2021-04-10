@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/338598117865832449/
 ---
 
-RT [@Laughbook](https://twitter.com/Laughbook/): Whenever you feel sad, just remember that somewhere in this world there's an idiot pulling a door that says "PUSH".
+Whenever you feel sad, just remember that somewhere in this world there's an idiot pulling a door that says "PUSH".
