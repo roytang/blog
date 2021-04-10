@@ -10,6 +10,9 @@ tags:
 title: The DC New 52 Review (Part 1)
 type: post
 url: /2012/05/the-dc-new-52-review-part-1/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/206764619488964609/
 ---
 
 If you're reading this, that means I've done it: I've read the first eight issues of every DC New 52 book. I've always been a Marvel fan more than DC, my previous DC reading having been restricted to JLA and the Batman books, so I figured exposure to the New 52 would widen my appreciation of the DC stable of heroes. Here are my reviews:

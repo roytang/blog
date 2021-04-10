@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/737089898717450240/
 ---
 
-RT [@tangincheek](https://twitter.com/tangincheek/): arent we all actors on the stage of life
+arent we all actors on the stage of life
