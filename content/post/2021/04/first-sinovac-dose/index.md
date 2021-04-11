@@ -1,9 +1,14 @@
 ---
-title: "Got my first Sinovac dose in Quezon City"
-date: 2021-04-11T13:38:18+08:00
+date: 2021-04-11 05:38:18
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106045256888316821
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1381130753392533505/
 tags:
 - philippines
 - covid19
+title: Got my first Sinovac dose in Quezon City
 ---
 
 ### The on-site process
