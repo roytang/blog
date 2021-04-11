@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/871665421304254464/
 ---
 
-RT [@roytang](https://twitter.com/roytang/): Quite possibly the best breakfast-oriented Wolverine story in existence: http://www.faitherinhicks.com/wolverine/index.html
+Quite possibly the best breakfast-oriented Wolverine story in existence: http://www.faitherinhicks.com/wolverine/index.html
