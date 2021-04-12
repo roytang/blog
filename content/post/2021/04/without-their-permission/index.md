@@ -1,12 +1,17 @@
 ---
-date: 2021-04-12T12:55:06+08:00
+date: 2021-04-12 04:55:06
 reviews:
 - media: books
   title: Without Their Permission by Alexis Ohanian
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106050924211951919
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1381493461824638980/
 tags:
 - books
 - tech life
-title: 'Without Their Permission by Alexis Ohanian'
+title: Without Their Permission by Alexis Ohanian
 ---
 
 *Without Their Permission* is a 2013 book by Reddit cofounder Alexis Ohanian. The central thesis of the book is that modern-day internet breaks down barriers and allows anyone to accomplish great things without having to go through traditional gatekeepers like publishers and such. 
@@ -17,4 +22,4 @@ The middle part of the book is dedicated to the central idea that "all links are
 
 The last part of the book covers the then-online community's protests against the SOPA and PIPA bills, lobbyist-fueled IP protection laws that would have stifled the open internet, the precursor of the modern DMCA. While the defeats of SOPA and PIPA were early successes for online freedom, these days there are still other insidious challenges such as surveillance capitalism  and the deliberate spread of online misinformation and conspiracy theories.
 
-While I don't object to this central idea, I feel like it should be tempered with the fact that despite the open internet, success is still much harder than the book might portray it. And despite the waning power of traditional gatekeepers, these days there are online gatekeepers as well that can hinder your success. Online gatekeepers include App Store reviewers, closed platforms like facebook that have unclear moderation policies, censorship from governments, algorithms that decide what to surface to other people, and so on. It's still probably better than the old days, but there are still a lot of challenges on the modern internet. To be fair, the book was released in 2013, which was a lifetime ago on the internet. 
+While I don't object to this central idea, I feel like it should be tempered with the fact that despite the open internet, success is still much harder than the book might portray it. And despite the waning power of traditional gatekeepers, these days there are online gatekeepers as well that can hinder your success. Online gatekeepers include App Store reviewers, closed platforms like facebook that have unclear moderation policies, censorship from governments, algorithms that decide what to surface to other people, and so on. It's still probably better than the old days, but there are still a lot of challenges on the modern internet. To be fair, the book was released in 2013, which was a lifetime ago on the internet.
