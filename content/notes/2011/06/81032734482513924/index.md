@@ -4,8 +4,6 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/81032734482513924/
-tags:
-- mtg
 ---
 
 The Duels 2012 unlock on Steam seems to be delayed to 2AM, I guess I'll just install it in the morning. Meanwhile: http://bit.ly/lGy4Zg
