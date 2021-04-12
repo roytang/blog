@@ -6,7 +6,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/345956429003382784/
 tags:
-- Opinions
+- movies
+reviews:
+- media: movies
+  title: "Man of Steel (2013)"
 title: 'Movie Review: Man of Steel (Spoilers!)'
 type: post
 url: /2013/06/movie-review-man-of-steel-spoilers/

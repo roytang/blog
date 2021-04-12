@@ -27,4 +27,34 @@ Dolores smiled a knowing smile. "It's not rocket science hon," She gestured with
 
 "You're awfully perceptive aren't you," I retorted back without thinking, "For a waitress at an all-night diner?"
 
-"It's not tha
+"It's not that unusual you know, there's really only two sorts that end up here at this hour, truckers and people who're running," she gestured at the van again, "and that ain't no truck."
+
+"Why do people run?" I found myself asking. Just making small talk. Why would I care why other people run?
+
+Dolores shrugged, "Lots of reasons, I guess. Some're crooks, running from the law. There's those in debt and can't afford to pay so they skip town. More and more these days though, there's folks who maybe just got tired of livin' their lives and they figure they could just up and vanish, walk out from their nagging wife and their crazy kids and their shitty jobs that probably wouldn't last long anyways. A lot of 'em think they can just find a cabin in the woods somewhere and disappear for a few years, livin' off the land. Or maybe they imagine they can drive up to some big city and lose themselves in the crowds."
+
+I grunted perhaps a bit too loudly, thinking about how I had gotten here in the first place. Dolores seemed to be able to read my mind.
+
+"Let me guess, you have no idea what you're doing here do you?" She looked me up and down. "I'd guess that's your delivery uniform right there, haven't bothered changing out of it. You just kept on driving, no idea where you wanted to go."
+
+"Well, I was thinking maybe somewhere up north--"
+
+"Honey, if you really wanted to go, you'd have ditched that delivery van o' yours as soon as you could. You know as well as I do those things got GPS on 'em right?'"
+
+I nodded slowly. I had thought about the GPS, but figured I just needed to leave the van somewhere before morning when they would be looking for it.
+
+"And your cellphone, you got one don't you? Still on you?", she retorted as an indistinct voice called out from beyond the small hole and a plate slid out.
+
+"Yeah, " I said, patting my left-hand pocket, "but I turned it off. My wife must have called me a dozen times by now."
+
+"So tell me hon, why haven't you thrown it out yet?"
+
+"Throw it out?" I was caught a bit off guard, "Well, I kind of paid good money for it, and I'm still on contract, so--" I trailed off, knowing I wasn't making sense. I shook my head. "You think I should go back?"
+
+"Honey, I ain't telling you what to do, it's your own damn life," Dolores said as she served up a plate full of bacon and eggs. "But I see you, you keep glacin' at that there wedding ring on your hand, out at the van in the parking lot, and I see a man who ain't ready to let go. You gonna run, you gotta be sure, you gotta cut clean."
+
+"..." My brow furrowed as I frowned at the bacon in front of me, perhaps for the first time in my life. "You know, it was my birthday yesterday."
+
+It was Dolores' turn to grunt, "Happy birthday then, but I hope you ain't expecting a discount." She finally picked up the coffee pot, turned away from me, and walked over to the other patron who had motioned her over with his coffee cup.
+
+I picked up the fork and started eating. It was perhaps the best meal I've had in a long while.
