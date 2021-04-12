@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/213743427093934080/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151670889973912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151672123733912
 - type: twitter
   url: https://twitter.com/roytang/statuses/213798540416253953/
 - type: twitter
@@ -20,24 +22,24 @@ syndicated:
   url: https://twitter.com/roytang/statuses/214004724238778368/
 - type: twitter
   url: https://twitter.com/roytang/statuses/214006787072987136/
-- type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10151672123733912
 tags:
-- gpmanila2012
+- gpmnl
+- gpmanila
+- achievementunlocked
 ---
 
 For everyone  going into battle at GP Manila today: Relax, have fun, be lucky. :D
 
-Looks like around 1200 at gp manila lots more than I expected
+[01:01] Looks like around 1200 at gp manila lots more than I expected
 
-Started out 3-0 now the hard part begins #gpmnl
+[04:14] Started out 3-0 now the hard part begins #gpmnl
 
-Now at 6-2, must win the final round to advance to day 2 #gpmanila
+[10:35] Now at 6-2, must win the final round to advance to day 2 #gpmanila
 
-Aw crap, i'm playing tomorrow. It's my first gp day 2! #achievementunlocked #gpmanila
+[11:56] Aw crap, i'm playing tomorrow. It's my first gp day 2! #achievementunlocked #gpmanila
 
-I'm not cut out for nine rounds anymore, my brain is already jelly.
+[11:59] I'm not cut out for nine rounds anymore, my brain is already jelly.
 
-Salamat po sa mga supporters at sa mga bumati sa twitter (showbiz), pero wala pa po akong napapanalunan. Naiwasan ko lang maeliminate lol
+[14:41] Salamat po sa mga supporters at sa mga bumati sa twitter (showbiz), pero wala pa po akong napapanalunan. Naiwasan ko lang maeliminate lol
 
-Exhausted after a whole day of Magic at GP Manila, but I finally managed to make day 2 of a GP. The battle continues tomorrow!
+[14:49] Exhausted after a whole day of Magic at GP Manila, but I finally managed to make day 2 of a GP. The battle continues tomorrow!

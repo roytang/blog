@@ -2,23 +2,9 @@
 author: roy
 categories: []
 date: 2017-06-10 01:30:38
-syndicated:
-- type: tumblr
-  url: https://tumblr.roytang.net/post/161640913350/review-persona-5-you-never-saw-it-coming
-- type: twitter
-  url: https://twitter.com/roytang/statuses/873354848841945088/
-tags:
-- Review
-- Gaming
-title: 'Review: Persona 5 (You Never Saw It Coming)'
-reviews:
-- media: games
-  title: "Persona 5"
-type: post
-url: /2017/06/review-persona-5-you-never-saw-it-coming/
 resources:
 - src: p5.png
-  title:
+  title: null
 - src: p5-2.png
   title: This game is educational, I didn't actually know this before.
 - src: p5-3.png
@@ -28,9 +14,25 @@ resources:
 - src: p5-5.png
   title: Your teammates have the utmost respect for you as team leader.
 - src: p5-6.png
-  title:
+  title: null
 - src: p5-7.png
-  title: When dungeon crawling, you can summon mighty persona in battle! They're like Pokemon, only way more phallic.
+  title: When dungeon crawling, you can summon mighty persona in battle! They're like
+    Pokemon, only way more phallic.
+reviews:
+- media: games
+  title: Persona 5
+syndicated:
+- type: tumblr
+  url: https://tumblr.roytang.net/post/161640913350/review-persona-5-you-never-saw-it-coming
+- type: twitter
+  url: https://twitter.com/roytang/statuses/873354848841945088/
+tags:
+- Review
+- Gaming
+- games
+title: 'Review: Persona 5 (You Never Saw It Coming)'
+type: post
+url: /2017/06/review-persona-5-you-never-saw-it-coming/
 ---
 
 My first Persona game was Persona 4 Golden on the Vita -- a fantastic game. After that I dived into Persona 3 Portable and eventually the spin-off games Persona 4 Arena (and Ultimax) and Persona Q on 3DS. So it was no surprise that one of the game releases I was most looking forward to this year would be the next numbered game in the series: Persona 5 on the Playstation 4.
