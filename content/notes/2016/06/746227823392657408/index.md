@@ -4,10 +4,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/746227823392657408/
-- type: twitter
-  url: https://twitter.com/Westraid/statuses/746244250069786625/
 ---
 
 What will I do with my life now that Britain is leaving the EU?
 
-[@roytang](https://twitter.com/roytang/) Take advantage of the all-time low value of the currency and import cool stuff.

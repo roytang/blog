@@ -9,7 +9,10 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/28srpb/the_drop_new_playstation_games_for_6242014/
+- type: reddit
+  url: https://reddit.com/r/vita/comments/28srth/the_drop_new_playstation_games_for_6242014/
 tags:
 - ps3
+- vita
 - gaming
 ---
