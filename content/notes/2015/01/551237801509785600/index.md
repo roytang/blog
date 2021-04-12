@@ -22,14 +22,14 @@ tags:
 
 R3 2-0 vs temur, 3-0 overall #gpmanila
 
-[06:04] R4 2-0 vs temur, 4-0 overall #gpmanila
+[14:04] R4 2-0 vs temur, 4-0 overall #gpmanila
 
-[07:19] R5 2-0 vs temur, 5-0 overall #gpmanila
+[15:19] R5 2-0 vs temur, 5-0 overall #gpmanila
 
-[08:50] 0-2 vs abzan whip, 5-1 overall #gpmanila
+[16:50] 0-2 vs abzan whip, 5-1 overall #gpmanila
 
-[10:16] R7 2-0 vs monored, 6-1 overall #gpmanila
+[18:16] R7 2-0 vs monored, 6-1 overall #gpmanila
 
-[11:37] R8 2-1 vs jeskai tokens, 7-1 overall. Day 2! #gpmanila
+[19:37] R8 2-1 vs jeskai tokens, 7-1 overall. Day 2! #gpmanila
 
-[12:34] R9 2-0 vs abzan (terry soh) finish day 1 at 8-1 #gpmanila
+[20:34] R9 2-0 vs abzan (terry soh) finish day 1 at 8-1 #gpmanila

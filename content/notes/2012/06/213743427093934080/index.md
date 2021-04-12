@@ -30,16 +30,16 @@ tags:
 
 For everyone  going into battle at GP Manila today: Relax, have fun, be lucky. :D
 
-[01:01] Looks like around 1200 at gp manila lots more than I expected
+[09:01] Looks like around 1200 at gp manila lots more than I expected
 
-[04:14] Started out 3-0 now the hard part begins #gpmnl
+[12:14] Started out 3-0 now the hard part begins #gpmnl
 
-[10:35] Now at 6-2, must win the final round to advance to day 2 #gpmanila
+[18:35] Now at 6-2, must win the final round to advance to day 2 #gpmanila
 
-[11:56] Aw crap, i'm playing tomorrow. It's my first gp day 2! #achievementunlocked #gpmanila
+[19:56] Aw crap, i'm playing tomorrow. It's my first gp day 2! #achievementunlocked #gpmanila
 
-[11:59] I'm not cut out for nine rounds anymore, my brain is already jelly.
+[19:59] I'm not cut out for nine rounds anymore, my brain is already jelly.
 
-[14:41] Salamat po sa mga supporters at sa mga bumati sa twitter (showbiz), pero wala pa po akong napapanalunan. Naiwasan ko lang maeliminate lol
+[22:41] Salamat po sa mga supporters at sa mga bumati sa twitter (showbiz), pero wala pa po akong napapanalunan. Naiwasan ko lang maeliminate lol
 
-[14:49] Exhausted after a whole day of Magic at GP Manila, but I finally managed to make day 2 of a GP. The battle continues tomorrow!
+[22:49] Exhausted after a whole day of Magic at GP Manila, but I finally managed to make day 2 of a GP. The battle continues tomorrow!

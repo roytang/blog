@@ -20,12 +20,12 @@ tags:
 
 Time for battle, wish me luck #gpmanila
 
-[02:05] R1 1-2 loss vs ur kefnet rawr #gpmanila
+[10:05] R1 1-2 loss vs ur kefnet rawr #gpmanila
 
-[03:39] Rd2 1-2 loss vs rb hazoret. Sigh 0-2 start :(
+[11:39] Rd2 1-2 loss vs rb hazoret. Sigh 0-2 start :(
 
-[04:44] R3 1-2 loss vs uw i cant explain. Spell queller, reality smasher, gideon etc
+[12:44] R3 1-2 loss vs uw i cant explain. Spell queller, reality smasher, gideon etc
 
-[05:37] R4 2-0 vs monob zombies. Finally won a match! #gpmanila
+[13:37] R4 2-0 vs monob zombies. Finally won a match! #gpmanila
 
-[06:59] R5 0-2 vs temur marvel (mirror). Deds. Made the mistake of spinning on my turn when he had 6 energy. My ulamog died to his ulamog #gpmanila
+[14:59] R5 0-2 vs temur marvel (mirror). Deds. Made the mistake of spinning on my turn when he had 6 energy. My ulamog died to his ulamog #gpmanila
