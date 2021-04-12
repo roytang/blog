@@ -7,6 +7,9 @@ tags:
 title: The Setup
 type: post
 url: /2010/06/the-setup/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/15748539403/
 ---
 
 A while back I started reading [The Setup][1], which is basically a collection of interviews with various tech/creative guys about what sort of hardware and software they use. I always enjoy this sort of thing -- it feeds my tech envy when they describe cool setups or gadgets I don't have. (A lot of them have Macs!)

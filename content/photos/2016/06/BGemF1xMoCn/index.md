@@ -9,7 +9,8 @@ syndicated:
   url: https://instagram.com/p/BGemF1xMoCn/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154661363478912:0
-tags: []
+tags: 
+- boardgames
 ---
 
 I was not the King of Tokyo

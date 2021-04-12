@@ -9,7 +9,13 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/PS4/comments/27p4jq/na_best_of_e3_2013_sale_20_games_on_sale_starting/
+- type: reddit
+  url: https://reddit.com/r/PS3/comments/27p4hx/na_best_of_e3_2013_sale_20_games_on_sale_starting/
+- type: reddit
+  url: https://reddit.com/r/vita/comments/27p4e2/best_of_e3_2013_sale_20_games_on_sale_starting/
 tags:
 - ps4
+- ps3
+- vita
 - gaming
 ---

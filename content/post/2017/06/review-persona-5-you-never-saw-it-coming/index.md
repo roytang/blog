@@ -11,6 +11,9 @@ tags:
 - Review
 - Gaming
 title: 'Review: Persona 5 (You Never Saw It Coming)'
+reviews:
+- media: games
+  title: "Persona 5"
 type: post
 url: /2017/06/review-persona-5-you-never-saw-it-coming/
 resources:
