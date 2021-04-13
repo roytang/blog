@@ -1,0 +1,31 @@
+{
+  "id": "4ed8aa1a-6682-46a8-93f2-66fa65867fa0",
+  "name": "Josh Justice",
+  "url": "https://mastodon.technology/@CodingItWrong",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> good nuanced take</p>",
+  "date": "2021-04-13 10:07:38",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/c3c838d01c98e8d589555b59b797222e02fea1fd33f96eed5d0b6480b0d54bb6.jpg",
+  "source_url": "https://mastodon.technology/@CodingItWrong/106057463130984520",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Josh Justice",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/c3c838d01c98e8d589555b59b797222e02fea1fd33f96eed5d0b6480b0d54bb6.jpg",
+      "url": "https://mastodon.technology/@CodingItWrong"
+    },
+    "url": "https://mastodon.technology/@CodingItWrong/106057463130984520",
+    "published": "2021-04-13T10:07:38",
+    "wm-received": "2021-04-13T10:44:43Z",
+    "wm-id": 1117776,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/106056420016298729/106057463130984520",
+    "wm-target": "https://roytang.net/2021/04/programming-is-hard/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> good nuanced take</p>",
+      "text": "@roytang good nuanced take"
+    },
+    "in-reply-to": "https://roytang.net/2021/04/programming-is-hard/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

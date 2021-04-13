@@ -1,8 +1,13 @@
 ---
-title: "Programming is hard, but anyone can be a programmer"
-date: 2021-04-13T13:25:58+08:00
+date: 2021-04-13 05:25:58
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106056420016298729
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1381845194249621505/
 tags:
 - software-development
+title: Programming is hard, but anyone can be a programmer
 ---
 
 [dorinlazar.ro](https://dorinlazar.ro/) talks about [programming being hard](https://dorinlazar.ro/2021-02-programming-is-hard/):
