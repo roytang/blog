@@ -1,5 +1,8 @@
 ---
 date: 2009-07-10 01:07:50
+reviews:
+- media: games
+  title: Ninjatown (NDS)
 source: twitter
 syndicated:
 - type: twitter
@@ -9,9 +12,7 @@ syndicated:
 tags:
 - gaming
 - nds
-reviews:
-- media: games
-  title: "Ninjatown (NDS)"
+- games
 ---
 
 finished Ninjatown!
