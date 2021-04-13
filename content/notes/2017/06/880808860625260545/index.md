@@ -14,4 +14,4 @@ tags:
 - fridayfeeling
 ---
 
-RT [@rubyetc](https://twitter.com/rubyetc/): #look it's #that #fridayfeeling 
+#look it's #that #fridayfeeling
