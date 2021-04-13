@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1363758724376981504/
 tags:
 - gaming
+- games
 title: 'Digital Boardgames Review: Scythe'
 ---
 

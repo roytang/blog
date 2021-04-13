@@ -1,5 +1,12 @@
 ---
 date: 2020-06-28
+reviews:
+- date: 2020-06-27
+  description: Fun with Ben Schwartz, but James Marsden's character is kinda dumb.
+    Needs a lot of suspension of disbelief.
+  media: movies
+  rating: 3
+  title: Sonic the Hedgehog (2019)
 slug: weeknotes-06-28
 syndicated:
 - type: mastodon
@@ -10,13 +17,8 @@ tags:
 - weeknotes
 - current events
 - philippines
+- movies
 title: 'Weeknotes 2020-06-28: Internet Outage Edition'
-reviews:
-- media: "movies"
-  title: "Sonic the Hedgehog (2019)"
-  description: "Fun with Ben Schwartz, but James Marsden's character is kinda dumb. Needs a lot of suspension of disbelief."
-  date: 2020-06-27
-  rating: 3
 ---
 
 My stuff:

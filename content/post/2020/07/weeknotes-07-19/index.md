@@ -1,5 +1,12 @@
 ---
 date: 2020-07-19
+reviews:
+- date: 2020-07-12
+  description: Didn't know what to expect, never read the Greg Rucka graphic novel
+    on which it was based. Action-packed, fun watch.
+  media: movies
+  rating: 4
+  title: The Old Guard (2020)
 slug: weeknotes-07-19
 syndicated:
 - type: mastodon
@@ -10,13 +17,8 @@ tags:
 - weeknotes
 - current events
 - philippines
+- movies
 title: Weeknotes 2020-07-19
-reviews:
-- media: "movies"
-  title: "The Old Guard (2020)"
-  description: "Didn't know what to expect, never read the Greg Rucka graphic novel on which it was based. Action-packed, fun watch."
-  date: 2020-07-12
-  rating: 4
 ---
 
 My country:

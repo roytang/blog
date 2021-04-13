@@ -1,5 +1,15 @@
 ---
 date: 2020-08-30
+reviews:
+- date: 2020-08-28
+  description: Not too good. Weird animation. Writing all over the place.
+  media: movies
+  rating: 3
+  title: Superman Man of Tomorrow (2020)
+- description: Pretty good, although there's some Dragon Quest erasure going on in
+    the RPG episode!
+  media: tv
+  title: High Score (Netflix)
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/104777554648802517
@@ -7,16 +17,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1299997811367227393/
 tags:
 - weeknotes
+- movies
+- tv
 title: Weeknotes 2020-08-30
-reviews:
-- media: "movies"
-  title: "Superman Man of Tomorrow (2020)"
-  description: "Not too good. Weird animation. Writing all over the place."
-  date: 2020-08-28
-  rating: 3
-- media: "tv"
-  title: "High Score (Netflix)"
-  description: "Pretty good, although there's some Dragon Quest erasure going on in the RPG episode!"
 ---
 
 This last week was weird. I feel like I didn't really get much done in terms of productivity, yet I don't feel I was unproductive. A very relaxed and chill week.

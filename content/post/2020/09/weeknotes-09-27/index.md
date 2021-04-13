@@ -1,5 +1,14 @@
 ---
 date: 2020-09-27
+reviews:
+- date: 2020-09-27
+  description: It's okay. Basically young adult/Nancy Drew Sherlock Holmes, with a
+    bit of feminism thrown in. Mycroft annoying as usual.
+  media: movies
+  rating: 3
+  title: Enola Holmes (2020)
+- media: tv
+  title: Umbrella Academy S2
 slug: weeknotes-2020-09-27
 syndicated:
 - type: mastodon
@@ -8,15 +17,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1310215131901562881/
 tags:
 - weeknotes
+- movies
+- tv
 title: Weeknotes 2020-09-27
-reviews:
-- title: "Enola Holmes (2020)"
-  media: "movies"
-  description: "It's okay. Basically young adult/Nancy Drew Sherlock Holmes, with a bit of feminism thrown in. Mycroft annoying as usual."
-  date: 2020-09-27
-  rating: 3
-- title: "Umbrella Academy S2"
-  media: "tv"
 ---
 
 - October is imminent! There are two distractions I'm looking forward to in the coming month.

@@ -1,16 +1,18 @@
 ---
 date: 2004-01-18 23:53:00
+reviews:
+- media: games
+  title: Knights of the Old Republic
+- media: movies
+  title: 'The Lord of the Rings: Return of the King (2004)'
 source: roywantsmeat
 syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2004/01/kotor-evil-timesink.html
-tags: []
+tags:
+- games
+- movies
 title: KOTOR = Evil timesink
-reviews:
-- media: games
-  title: "Knights of the Old Republic"
-- media: movies
-  title: "The Lord of the Rings: Return of the King (2004)"
 ---
 
 I hate KOTOR. Not because it's a bad game, in fact it's the exact opposite. It's a fantastic game. With the unfortunate side effect that everything else gets pushed back so I cam play some more. This was actually the first time I'd done some serious 'net surfing since I borrowed David's KOTOR copy.  Here's my take on it in a post to <a href="http://groups.yahoo.com/group/rpg-skies/">RPG-Skies</a>:

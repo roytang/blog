@@ -1,5 +1,14 @@
 ---
 date: 2020-04-19
+reviews:
+- date: 2020-04-15
+  description: Shades of Alice in Wonderland and The Wizard of Oz. Easily the best
+    Ghibli film I've watched so far.
+  media: movies
+  rating: 5
+  title: Spirited Away (2001)
+- media: tv
+  title: Psych S1
 slug: weeknotes-2020-04-19
 syndicated:
 - type: mastodon
@@ -8,15 +17,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1251780089227825152/
 tags:
 - weeknotes
+- movies
+- tv
 title: Weeknotes 2020-04-19
-reviews:
-- media: "movies"
-  title: "Spirited Away (2001)"
-  description: "Shades of Alice in Wonderland and The Wizard of Oz. Easily the best Ghibli film I've watched so far."
-  date: 2020-04-15
-  rating: 5
-- media: "tv"
-  title: "Psych S1"
 ---
 
 This week went by quickly, for some reason. And despite the fact that it's summer, the rains have started coming in early, although only sporadically. inb4 "the world is healing"

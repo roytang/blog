@@ -31,6 +31,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1364446206332608518/
 tags:
 - gaming
+- games
 title: 'Game Review: Knightin'''
 ---
 

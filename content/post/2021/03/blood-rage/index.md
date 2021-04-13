@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1369173337398669314/
 tags:
 - gaming
+- games
 title: 'Digital Boardgames Review: Blood Rage'
 ---
 

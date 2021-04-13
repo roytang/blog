@@ -1,18 +1,19 @@
 ---
 categories: []
 date: 2002-05-24 16:00:57
-tags:
-- Gaming
-title: 'Hoshigami: Ruining Blue Earth'
-type: post
-url: /2002/05/hoshigami-ruining-blue-earth/
+reviews:
+- media: games
+  title: 'Hoshigami: Ruining Blue Earth'
+source: roywantsmeat
 syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2002/05/review-hoshigami-ruining-blue-earth.html
-source: roywantsmeat
-reviews:
-- media: games
-  title: "Hoshigami: Ruining Blue Earth"
+tags:
+- Gaming
+- games
+title: 'Hoshigami: Ruining Blue Earth'
+type: post
+url: /2002/05/hoshigami-ruining-blue-earth/
 ---
 
 First off, I haven't finished the game yet, I'm somewhere in Chapter 5. I stopped playing the game a month or so ago out of sheer irritation.

@@ -1,5 +1,11 @@
 ---
 date: 2020-05-17
+reviews:
+- date: 2020-05-15
+  description: This was great, and appropriatly dark. Good send-off for the DCAMU.
+  media: movies
+  rating: 4
+  title: 'Justice League Dark: Apokolips War (2020)'
 slug: weeknotes-2020-05-17
 syndicated:
 - type: mastodon
@@ -8,13 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1261992378165948417/
 tags:
 - weeknotes
+- movies
 title: Weeknotes 2020-05-17
-reviews:
-- media: "movies"
-  title: "Justice League Dark: Apokolips War (2020)"
-  description: "This was great, and appropriatly dark. Good send-off for the DCAMU."
-  date: 2020-05-15
-  rating: 4
 ---
 
 My Stuff:

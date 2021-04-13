@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/101183979130
 tags:
 - gaming
+- games
 ---
 
 finished Dragon Quest V!

@@ -1,5 +1,13 @@
 ---
 date: 2020-07-12
+reviews:
+- date: 2020-07-11
+  description: I came in thinking it was a John Wick style action movie. True, but
+    it's also a Cold War spy thriller. Nice twists, but might be a bit hard to follow
+    near the end.
+  media: movies
+  rating: 3
+  title: Atomic Blonde (2017)
 slug: weeknotes-07-12
 syndicated:
 - type: mastodon
@@ -10,13 +18,8 @@ tags:
 - weeknotes
 - current events
 - philippines
+- movies
 title: 'Weeknotes 2020-07-12: Media Shutdown Edition'
-reviews:
-- media: "movies"
-  title: "Atomic Blonde (2017)"
-  description: "I came in thinking it was a John Wick style action movie. True, but it's also a Cold War spy thriller. Nice twists, but might be a bit hard to follow near the end."
-  date: 2020-07-11
-  rating: 3
 ---
 
 My country:

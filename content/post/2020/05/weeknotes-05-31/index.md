@@ -1,5 +1,11 @@
 ---
 date: 2020-05-31
+reviews:
+- date: 2020-05-27
+  description: A fun romp, but pretty much more of the same.
+  media: movies
+  rating: 3
+  title: Zombieland Double Tap (2019)
 slug: weeknotes-05-31
 syndicated:
 - type: mastodon
@@ -8,13 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1267106076966547462/
 tags:
 - weeknotes
+- movies
 title: Weeknotes 2020-05-31
-reviews:
-- media: "movies"
-  title: "Zombieland Double Tap (2019)"
-  description: "A fun romp, but pretty much more of the same."
-  date: 2020-05-27
-  rating: 3
 ---
 
 It seems difficult to write about stuff today, when the world seems like it is on fire. 

@@ -1,5 +1,12 @@
 ---
 date: 2020-07-05
+reviews:
+- date: 2020-06-29
+  description: Good watch, it's MI, you know how it goes. Maybe 40% of it is Tom Cruise
+    running.
+  media: movies
+  rating: 3
+  title: Mission Impossible Fallout (2018)
 slug: weeknotes-07-05
 syndicated:
 - type: mastodon
@@ -10,13 +17,8 @@ tags:
 - weeknotes
 - current events
 - philippines
+- movies
 title: 'Weeknotes 2020-07-05: Anti-Error Edition'
-reviews:
-- media: "movies"
-  title: "Mission Impossible Fallout (2018)"
-  description: "Good watch, it's MI, you know how it goes. Maybe 40% of it is Tom Cruise running."
-  date: 2020-06-29
-  rating: 3
 ---
 
 My country:

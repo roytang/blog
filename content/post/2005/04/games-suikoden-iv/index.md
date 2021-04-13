@@ -1,18 +1,19 @@
 ---
 categories: []
 date: 2005-04-13 14:40:00
+reviews:
+- media: games
+  title: Suikoden IV
 source: roywantsmeat
 syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2005/04/games-suikoden-iv.html
 tags:
 - Gaming
+- games
 title: 'Games: Suikoden IV'
 type: post
 url: /2005/04/games-suikoden-iv/
-reviews:
-- media: games
-  title: Suikoden IV
 ---
 
 Well, I thought I'd write about Suikoden IV before I forgot all about it. I finished it around Holy Week, but haven't bothered to go through again, even though I promised myself I would try since I did not get the magic number of a hundred and eight stars of destiny this time around. Curse my pride for not reading any FAQs while playing! Time is short, with work and all, so I should make the most of my games so I don't need to re-play them. 

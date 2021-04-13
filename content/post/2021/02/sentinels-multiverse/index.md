@@ -1,6 +1,12 @@
 ---
 date: 2021-02-15 07:34:18
 dontinlinephotos: true
+reviews:
+- description: Comic-book themed digital coop boardgame, super fiddly
+  link: https://store.steampowered.com/app/337150/Sentinels_of_the_Multiverse/
+  media: games
+  rating: 4
+  title: Sentinels of the Multiverse
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105734403184788317
@@ -8,13 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1361236117207453697/
 tags:
 - gaming
+- games
 title: 'Digital Boardgames Review: Sentinels of the Multiverse'
-reviews:
-- description: Comic-book themed digital coop boardgame, super fiddly
-  media: games
-  rating: 4
-  title: Sentinels of the Multiverse
-  link: https://store.steampowered.com/app/337150/Sentinels_of_the_Multiverse/
 ---
 
 Over the past couple of years, I've been regularly playing digital boardgames online on Steam with one of my friend groups, I thought I'd do reviews of them.

@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/120401326517
 tags:
 - gaming
+- Games
 ---
 
 finished Elder Scrolls IV: Oblivion
