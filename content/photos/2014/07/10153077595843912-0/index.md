@@ -7,6 +7,11 @@ syndicated:
 tags:
 - mobile-uploads
 - impulsebuy
+- pickups
+- gaming
+albums:
+- gaming
+- pickups
 ---
 
 Almost 2 decades after our last Nintendo console... #impulsebuy
