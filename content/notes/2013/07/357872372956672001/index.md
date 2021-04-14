@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/357872372956672001/
 ---
 
-RT [@neiltyson](https://twitter.com/neiltyson/): It's not that I like it because I'm good at it. I'm good at it because I like it.
+It's not that I like it because I'm good at it. I'm good at it because I like it.

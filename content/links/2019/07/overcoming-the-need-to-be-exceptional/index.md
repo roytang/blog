@@ -9,4 +9,6 @@ source: pocket
 syndicated:
 - type: pocket
   url: https://www.theschooloflife.com/thebookoflife/overcoming-the-need-to-be-exceptional/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1151718693379985408/
 ---
