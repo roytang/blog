@@ -1,6 +1,6 @@
 ---
 title: "Ted Lasso Season 1 spoiler-free review"
-date: 2021-04-14T21:55:21+08:00
+date: 2021-04-14T20:55:21+08:00
 tags:
 - tv
 - spoiler-free-review
