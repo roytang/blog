@@ -12,4 +12,4 @@ tags:
 - KorteDiKalsada
 ---
 
-RT [@v_vangogh](https://twitter.com/v_vangogh/): #KorteDiKalsada 
+#KorteDiKalsada

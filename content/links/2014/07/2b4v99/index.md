@@ -9,6 +9,10 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/booklists/comments/2b4v99/your_mega_summer_reading_list_70_picks_from_the/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/490510575718240256/  
 tags:
 - booklists
 ---
+
+Wish I had more time to read
