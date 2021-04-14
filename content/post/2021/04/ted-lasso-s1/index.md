@@ -11,7 +11,7 @@ reviews:
 
 A number of people I follow have been raving about Ted Lasso for a while, so I thought I'd give it a try. My thoughts:
 
-- Season 1 is 10 episodes, each episode 30 minutes long.
+- Season 1 is 10 episodes, each episode 30 minutes long. I finished all of the episodes over the span of one day!
 - I didn't know much coming in: I knew it was about sports, and I knew it was supposedly a comedy. For some reason I assumed it was about American football. It turns out to be about English association football, i.e. soccer!
 - Wikipedia claims the series is a comedy, but it's not a "ha-ha / laugh out loud" zany situation comedy like say, Brooklyn Nine-Nine or Modern Family. Ted Lasso is more of an "absurd premise" kind of comedy.
 - Bill Lawrence, creator of Scrubs, helped develop the series, but it is much less zanier than that one.
