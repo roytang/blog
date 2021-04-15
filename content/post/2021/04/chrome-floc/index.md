@@ -1,5 +1,5 @@
 ---
-title: "Chrome Floc"
+title: "Google Chrome and FloC"
 date: 2021-04-15T21:30:52+08:00
 tags:
 - tech-life
