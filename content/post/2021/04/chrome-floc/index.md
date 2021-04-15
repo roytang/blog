@@ -1,8 +1,13 @@
 ---
-title: "Chrome Floc"
-date: 2021-04-15T21:30:52+08:00
+date: 2021-04-15 13:30:52
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106069611626842206
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1382689456294129673/
 tags:
 - tech-life
+title: Chrome Floc
 ---
 
 Google Chrome is adding a new feature that lets their browser target you with ads without using third-party browser cookies. 
