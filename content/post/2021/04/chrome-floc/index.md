@@ -8,7 +8,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1382689456294129673/
 tags:
 - tech-life
-title: Chrome Floc
 ---
 
 Google Chrome is adding a new feature that lets their browser target you with ads without using third-party browser cookies. 
