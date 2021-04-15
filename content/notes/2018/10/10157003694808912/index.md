@@ -1,5 +1,9 @@
 ---
 date: 2018-10-23 08:47:00
+reviews:
+- description: Spoiler-free review
+  media: tv
+  title: Daredevil season 3
 source: facebook
 syndicated:
 - type: facebook
@@ -11,10 +15,7 @@ syndicated:
 tags:
 - ireadcomicbooks
 - spoiler-free-review
-reviews:
-- media: tv
-  title: "Daredevil season 3"
-  description: Spoiler-free review
+- tv
 ---
 
 Daredevil Season 3 spoiler-free review

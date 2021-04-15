@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/97231680342986753/
 tags:
 - gaming
+- games
 ---
 
 Finished Fallout: New Vegas ~ Still a lot to do in the Mojave though

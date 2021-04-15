@@ -1,5 +1,9 @@
 ---
 date: 2020-01-03 06:19:46
+reviews:
+- description: Spoiler-free review
+  media: tv
+  title: Witcher season 1
 source: twitter
 syndicated:
 - type: twitter
@@ -8,10 +12,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1212981897095077888/
 tags:
 - spoiler-free-review
-reviews:
-- media: tv
-  title: "Witcher season 1"
-  description: Spoiler-free review
+- tv
 ---
 
 Quick WITCHER S1 #spoiler-free-review:

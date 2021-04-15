@@ -1,5 +1,10 @@
 ---
 date: 2021-03-24 08:01:50.525152
+reviews:
+- description: Such Japan, much wow. Secret volcano lair!
+  media: movies
+  rating: 4
+  title: You Only Live Twice (1967)
 source: form
 syndicated:
 - type: mastodon
@@ -10,12 +15,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1374632543593492483/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1374636757937885187/
+tags:
+- movies
 title: ''
-reviews:
-- description: Such Japan, much wow. Secret volcano lair!
-  media: movies
-  rating: 4
-  title: You Only Live Twice (1967)
 ---
 
 Bond movie no. 5: You Only Live Twice (1967). Such Japan. Much wow. Cringe at trying to pass Bond off as Japanese. Introduction of secret volcano lair trope. Ninjas with guns! First screen appearance of the head of SPECTRE, inspiration for Dr Evil. 

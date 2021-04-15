@@ -2,6 +2,133 @@
 aliases:
 - /lists/2020/movies
 date: 2020-01-01
+reviews:
+- date: 2020-01-05
+  description: Great thriller movie, but the lesson here is so bleak
+  media: movies
+  rating: 5
+  title: Sicario (2015)
+- date: 2020-01-08
+  description: Colorful, vivid and great animation but so so bizaare
+  media: movies
+  rating: 4
+  title: Paprika (2006)
+- date: 2020-01-08
+  description: Insanely good, I can see why it won best picture
+  media: movies
+  rating: 5
+  title: Birdman or (The Unexpected Virtue of Ignorance) (2014)
+- date: 2020-01-09
+  description: Entertaining enough, but raises so many time travel questions
+  media: movies
+  rating: 4
+  title: Looper (2012)
+- date: 2020-01-12
+  description: Better than I expected
+  media: movies
+  rating: 5
+  title: John Wick 2 (2017)
+- date: 2020-01-13
+  description: Kinda draggy
+  media: movies
+  rating: 3.5
+  title: Ad Astra (2019)
+- date: 2020-01-13
+  description: Surprisingly good. Fantastic animation
+  media: movies
+  rating: 5
+  title: Klaus (2019)
+- date: 2020-01-14
+  description: Great performances. Ma didn't like the ending.
+  media: movies
+  rating: 5
+  title: Marriage Story (2019)
+- date: 2020-01-14
+  description: Great fight scenes. Actually a bit more plot than I expected
+  media: movies
+  rating: 5
+  title: Fist of Fury (1972)
+- date: 2020-01-15
+  description: I had low expectations, but it was better than I thought it would be.
+    Ma would like it!
+  media: movies
+  rating: 3.5
+  title: Coming to America (1988)
+- date: 2020-01-15
+  description: Kind of predictable
+  media: movies
+  rating: 3
+  title: MIB International (2019)
+- date: 2020-01-16
+  description: Ridiculous, but fun. Good for kids.
+  media: movies
+  rating: 4
+  title: Batman vs TMNT (2019)
+- date: 2020-01-17
+  description: The editing and scene transitions were all over the place. A very Michael
+    Bay film.
+  media: movies
+  rating: 3.5
+  title: 6 Underground (2019)
+- date: 2020-01-18
+  description: This movie does nothing to improve my opinion of modern capitalism.
+  media: movies
+  rating: 4.5
+  title: The Wolf of Wall Street (2013)
+- date: 2020-01-19
+  description: Really good, but IDK how to begin to describe it. Worth overcoming
+    the 1 inch subtitle barrier for.
+  media: movies
+  rating: 5
+  title: Parasite (2019)
+- date: 2020-02-04
+  description: Very light-hearted and idyllic. At first it felt a bit boring, but
+    it had me smiling by the end.
+  media: movies
+  rating: 5
+  title: Kiki's Delivery Service (1989)
+- date: 2020-02-07
+  description: Sandler gave a good performance, but I struggled to get through the
+    early parts of the movies because his character and situation are so unrelatable
+    to me personally.
+  media: movies
+  rating: 4
+  title: Uncut Gems (2019)
+- date: 2020-02-10
+  description: Watched this because a redditor said ROTK robbed it of best picture
+    in 2003. This is a great war movie, but he was wrong
+  media: movies
+  rating: 5
+  title: 'Master and Commander: The Far Side of the World (2003)'
+- date: 2020-02-11
+  description: Best movie about a Nazi ever. Most colorful depiction of Nazi Germany.
+    Fantastic movie.
+  media: movies
+  rating: 5
+  title: Jojo Rabbit (2019)
+- date: 2020-02-27
+  description: An acceptable adaptation of one of my favorite Superman stories. Minus
+    points for not including the "House of L" epilogue.
+  media: movies
+  rating: 4
+  title: 'Superman: Red Son (2020)'
+- date: 2020-02-27
+  description: I watched this because I saw it in a "top inspirational speeches" YT
+    video. Pretty good sports movie.
+  media: movies
+  rating: 4
+  title: Coach Carter (2005)
+- date: 2020-05-03
+  description: It's like an extended episode of Psych!
+  media: movies
+  rating: 4
+  title: Psych the Movie (2017)
+- date: 2020-05-05
+  description: Caught this on Cinemax when I went down for lunch. Much too idealistic
+    in hindsight, given what happened in New York 3 years after this film released.
+  media: movies
+  rating: 3
+  title: The Siege (1998)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1226811024021409794/
@@ -11,123 +138,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1233055496656977921/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1233062439228342275/
+tags:
+- movies
 title: 2020 Movies List
-reviews:
-- media: "movies"
-  title: "Sicario (2015)"
-  description: "Great thriller movie, but the lesson here is so bleak"
-  date: 2020-01-05
-  rating: 5
-- media: "movies"
-  title: "Paprika (2006)"
-  description: "Colorful, vivid and great animation but so so bizaare"
-  date: 2020-01-08
-  rating: 4
-- media: "movies"
-  title: "Birdman or (The Unexpected Virtue of Ignorance) (2014)"
-  description: "Insanely good, I can see why it won best picture"
-  date: 2020-01-08
-  rating: 5
-- media: "movies"
-  title: "Looper (2012)"
-  description: "Entertaining enough, but raises so many time travel questions"
-  date: 2020-01-09
-  rating: 4
-- media: "movies"
-  title: "John Wick 2 (2017)"
-  description: "Better than I expected"
-  date: 2020-01-12
-  rating: 5
-- media: "movies"
-  title: "Ad Astra (2019)"
-  description: "Kinda draggy"
-  date: 2020-01-13
-  rating: 3.5
-- media: "movies"
-  title: "Klaus (2019)"
-  description: "Surprisingly good. Fantastic animation"
-  date: 2020-01-13
-  rating: 5
-- media: "movies"
-  title: "Marriage Story (2019)"
-  description: "Great performances. Ma didn't like the ending."
-  date: 2020-01-14
-  rating: 5
-- media: "movies"
-  title: "Fist of Fury (1972)"
-  description: "Great fight scenes. Actually a bit more plot than I expected"
-  date: 2020-01-14
-  rating: 5
-- media: "movies"
-  title: "Coming to America (1988)"
-  description: "I had low expectations, but it was better than I thought it would be. Ma would like it!"
-  date: 2020-01-15
-  rating: 3.5
-- media: "movies"
-  title: "MIB International (2019)"
-  description: "Kind of predictable"
-  date: 2020-01-15
-  rating: 3
-- media: "movies"
-  title: "Batman vs TMNT (2019)"
-  description: "Ridiculous, but fun. Good for kids."
-  date: 2020-01-16
-  rating: 4
-- media: "movies"
-  title: "6 Underground (2019)"
-  description: "The editing and scene transitions were all over the place. A very Michael Bay film."
-  date: 2020-01-17
-  rating: 3.5
-- media: "movies"
-  title: "The Wolf of Wall Street (2013)"
-  description: "This movie does nothing to improve my opinion of modern capitalism."
-  date: 2020-01-18
-  rating: 4.5
-- media: "movies"
-  title: "Parasite (2019)"
-  description: "Really good, but IDK how to begin to describe it. Worth overcoming the 1 inch subtitle barrier for."
-  date: 2020-01-19
-  rating: 5
-- media: "movies"
-  title: "Kiki's Delivery Service (1989)"
-  description: "Very light-hearted and idyllic. At first it felt a bit boring, but it had me smiling by the end."
-  date: 2020-02-04
-  rating: 5
-- media: "movies"
-  title: "Uncut Gems (2019)"
-  description: "Sandler gave a good performance, but I struggled to get through the early parts of the movies because his character and situation are so unrelatable to me personally."
-  date: 2020-02-07
-  rating: 4
-- media: "movies"
-  title: "Master and Commander: The Far Side of the World (2003)"
-  description: "Watched this because a redditor said ROTK robbed it of best picture in 2003. This is a great war movie, but he was wrong"
-  date: 2020-02-10
-  rating: 5
-- media: "movies"
-  title: "Jojo Rabbit (2019)"
-  description: "Best movie about a Nazi ever. Most colorful depiction of Nazi Germany. Fantastic movie."
-  date: 2020-02-11
-  rating: 5
-- media: "movies"
-  title: "Superman: Red Son (2020)"
-  description: "An acceptable adaptation of one of my favorite Superman stories. Minus points for not including the \"House of L\" epilogue."
-  date: 2020-02-27
-  rating: 4
-- media: "movies"
-  title: "Coach Carter (2005)"
-  description: "I watched this because I saw it in a \"top inspirational speeches\" YT video. Pretty good sports movie."
-  date: 2020-02-27
-  rating: 4
-- media: "movies"
-  title: "Psych the Movie (2017)"
-  description: "It's like an extended episode of Psych!"
-  date: 2020-05-03
-  rating: 4
-- media: "movies"
-  title: "The Siege (1998)"
-  description: "Caught this on Cinemax when I went down for lunch. Much too idealistic in hindsight, given what happened in New York 3 years after this film released."
-  date: 2020-05-05
-  rating: 3
 ---
 
 List of new (to me) movies watched in 2020. Ongoing!

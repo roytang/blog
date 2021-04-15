@@ -1,15 +1,16 @@
 ---
 date: 2018-07-04 23:23:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Ant-Man and the Wasp (2018)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156749941023912
-tags: 
+tags:
 - spoiler-free review
-reviews:
-- media: movies
-  title: "Ant-Man and the Wasp (2018)"
-  description: Spoiler-free review
+- movies
 ---
 
 Ant-Man and the Wasp Spoiler Free Review!

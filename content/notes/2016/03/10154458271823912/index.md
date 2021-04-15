@@ -1,16 +1,17 @@
 ---
 date: 2016-03-21 02:24:00
+reviews:
+- description: Spoiler-free review
+  media: tv
+  title: Daredevil Season 2
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154458271823912
-tags: 
+tags:
 - spoiler-free-review
+- tv
 title: Daredevil Season 2 spoiler-free review
-reviews:
-- media: tv
-  title: Daredevil Season 2
-  description: Spoiler-free review
 ---
 
 Daredevil Season 2 spoiler-free review: 
