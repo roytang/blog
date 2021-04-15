@@ -10,4 +10,5 @@ syndicated:
   url: https://twitter.com/roytang/statuses/496409049571680257/
 ---
 
-RT [@RJSzczerba](https://twitter.com/RJSzczerba/): Whenever you're sad, just think about how happy this man is with his onion. https://twitter.com/account/suspended (MT [@kaiitlin](https://twitter.com/kaiitlin/))
+Whenever you're sad, just think about how happy this man is with his onion.  (MT [@kaiitlin](https://twitter.com/kaiitlin/))
+

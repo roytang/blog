@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/496876052585529344/
 ---
 
-RT [@ADLongwell](https://twitter.com/ADLongwell/): In software, "how long?" has two answers: 1) It's done, and 2) I don't know. Someone who answers otherwise is lying - @Mark…
+In software, "how long?" has two answers: 1) It's done, and 2) I don't know. Someone who answers otherwise is lying - [@MarkusQ](https://twitter.com/MarkusQ/)
