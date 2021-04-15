@@ -1,10 +1,5 @@
 ---
 date: 2009-08-08 11:50:20
-reviews:
-- description: ''
-  media: movies
-  rating: 0.0
-  title: 'G.I. Joe: The Rise of Cobra (2009)'
 source: twitter
 syndicated:
 - type: twitter
