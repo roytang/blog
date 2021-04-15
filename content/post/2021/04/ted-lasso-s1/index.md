@@ -1,12 +1,18 @@
 ---
+date: 2021-04-14 13:55:21
+reviews:
+- media: tv
+  title: Ted Lasso season 1
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106064182059036955
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1382341964113223687/
 title: "Ted Lasso Season 1 spoiler-free review"
 date: 2021-04-14T20:55:21+08:00
 tags:
 - tv
 - spoiler-free-review
-reviews:
-- media: tv
-  title: "Ted Lasso season 1"
 ---
 
 A number of people I follow have been raving about Ted Lasso for a while, so I thought I'd give it a try. My thoughts:
