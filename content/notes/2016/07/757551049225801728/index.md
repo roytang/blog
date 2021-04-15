@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/757551049225801728/
+tags:
+- foi
 ---
 
-RT [@IvyPatdu](https://twitter.com/IvyPatdu/): The Data Privacy Act makes it clear that information about a government official in relation to position/function is not cove…
+The Data Privacy Act makes it clear that information about a government official in relation to position/function is not covered. #FOI
