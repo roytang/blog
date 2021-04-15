@@ -2,6 +2,11 @@
 author: roy
 categories: []
 date: 2016-08-13 01:30:55
+reviews:
+- description: ''
+  media: tv
+  rating: 0.0
+  title: Stranger Things season 1
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/148861917440/review-stranger-things
@@ -10,12 +15,13 @@ syndicated:
 tags:
 - Review
 - Opinions
+- tv
 title: 'Review: Stranger Things'
 type: post
 url: /2016/08/review-stranger-things/
 ---
 
-<img class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png" width="728" height="400" />
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png)
 
 So, Stranger Things
 

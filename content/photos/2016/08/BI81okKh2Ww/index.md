@@ -15,6 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154810849108912:1
 tags:
 - discworld
+- books
 ---
 
 Could have sworn I also had a copy of Colour of Magic and Lords and Ladies, but these were the only ones I found... I wonder if I should collect them all lol #discworld

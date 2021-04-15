@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/895432195036200960/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155940226858912
+tags:
+- quotes
 ---
 
 "If you went back and fixed all the mistakes you've made, you erase yourself" - Louis C.K.
