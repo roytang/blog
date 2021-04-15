@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154797455538912:1
 tags:
 - geekfightph
+- trivia
 ---
 
 Third place! May six pack na ko! #geekfightph
