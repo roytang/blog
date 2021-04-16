@@ -11,7 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/768459670512107520/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154848661423912:0
-tags: []
+tags:
+- trivia
 ---
 
 Back to back Pop Quiz champions!
