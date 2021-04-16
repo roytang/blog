@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3421584044/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/119728060185
+tags:
+- quotes
 ---
 
 "It is impossible to win the race unless you venture to run, impossible to win the victory unless you dare to battle."
