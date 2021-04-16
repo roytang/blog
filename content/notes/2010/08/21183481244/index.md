@@ -1,5 +1,5 @@
 ---
-date: 2010-08-14 22:44:20
+date: 2010-08-14 22:44:20+00:00
 repost_source:
   name: VictoriaCoren
   type: twitter
@@ -12,4 +12,4 @@ syndicated:
   url: https://plurk.com/p/6xr7a4
 ---
 
-RT [@VictoriaCoren](https://twitter.com/VictoriaCoren/): Dear people-who-run-Twitter, WHOM to follow, WHOM.
+Dear people-who-run-Twitter, WHOM to follow, WHOM.
