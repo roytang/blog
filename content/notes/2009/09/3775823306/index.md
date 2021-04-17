@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/127768632450
 tags:
 - gaming
+- games
 ---
 
 finished Batman Arkham Asylum!
