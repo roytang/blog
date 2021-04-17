@@ -14,6 +14,7 @@ syndicated:
 tags:
 - geekfightph
 - trivia
+- quiznight
 ---
 
 Third place! May six pack na ko! #geekfightph

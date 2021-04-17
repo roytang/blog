@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154848661423912:0
 tags:
 - trivia
+- quiznight
 ---
 
 Back to back Pop Quiz champions!

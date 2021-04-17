@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mobile-uploads
 - puso
+- quiznight
 ---
 
 #PUSO
