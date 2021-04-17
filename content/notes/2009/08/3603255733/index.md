@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/119317562911
 tags:
 - gaming
+- games
 ---
 
 finally finished Professor Layton and the Curious Village! (Nde na kinumpleto ung puzzles)
