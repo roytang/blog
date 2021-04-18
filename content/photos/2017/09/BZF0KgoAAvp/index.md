@@ -15,6 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156036537493912:0
 tags:
 - mtg
+- mtgphnationals
 ---
 
 Currently 1-2 at the #mtg ph nationals and waiting for draft 1. At least the swag is nice
