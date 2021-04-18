@@ -6,6 +6,7 @@ tags:
 - standard
 - tournament-report
 - mtg
+- gpmanila
 title: Grand Prix Manila Day One Report
 type: post
 url: /2008/09/grand-prix-manila-day-one-report/
