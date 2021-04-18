@@ -10,8 +10,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/4145060765/
 - type: twitter
-  url: https://twitter.com/roytang/statuses/4145065779/
+  url: https://twitter.com/roytang/statuses/4145069437/
 ---
 
 [@mtgsalivanth](https://twitter.com/mtgsalivanth/) don't want to use the draft recorder/converter instead?
-[@roytang](https://twitter.com/roytang/) I did a couple of drafts this morning and thought of posting them, but I drafted so poorly lol
+
+[@mtgsalivanth](https://twitter.com/mtgsalivanth/) [@roytang](https://twitter.com/roytang/) I did a couple of drafts this morning and thought of posting them, but I drafted so poorly lol
