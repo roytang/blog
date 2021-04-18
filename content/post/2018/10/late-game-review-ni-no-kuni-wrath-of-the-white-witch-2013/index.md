@@ -2,6 +2,12 @@
 author: roy
 categories: []
 date: 2018-10-13 01:00:15
+dontinlinephotos: true
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Ni No Kuni: Wrath of the White Witch'
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/178996306410/late-game-review-ni-no-kuni-wrath-of-the-white
@@ -14,7 +20,6 @@ tags:
 title: 'Late Game Review -- Ni No Kuni: Wrath of the White Witch (2013)'
 type: post
 url: /2018/10/late-game-review-ni-no-kuni-wrath-of-the-white-witch-2013/
-dontinlinephotos: true
 ---
 
 _("Late Game Review" because I'm trying to play through games on my ridiculously old backlog, so these games are pretty old)_
