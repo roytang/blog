@@ -17,3 +17,5 @@ Here's some more info: [How to fight back against Google FLoC](https://plausible
 But basically it comes down to: if you're a web user who doesn't want your browsing history to be used to target you with advertisments, stop using Google Chrome. There are many alternatives. I'm a [Firefox](https://www.mozilla.org/en-US/firefox/new/) boy myself.
 
 For site owners, you can add a `Permissions-Policy: interest-cohort=()` response header to opt-out of your site being included in the data collected about your Chrome visitors. I've updated this site to add the header.
+
+[Update 4.18] [sierdy.one](https://seirdy.one/) says the [fears about FloC aren't exactly accurate](https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html), and that webmasters don't really need to add the response header as long as they aren't using third-party scripts anyway? I'll just keep it around though.

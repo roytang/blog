@@ -16,7 +16,7 @@ title: Weeknotes 2021-04-11
 ### The world:
 
 - Prince Philip, Duke of Edinburgh and Queen Elizabeth's husband, has passed away. So has DMX, American rapper.
-- Big facebook breach reported, etc. Doesn't seem like news, really. My [phone number was among the data leaked](https://roytang.net/2021/04/1379404077319168000/).
+- Big facebook breach reported, etc. Doesn't seem like news, really. My [phone number was among the data leaked](/2021/04/1379404077319168000/).
 - The country is still experiencing a surge in cases, hospitals and  ICUs still bursting to capacity. Yet in spite of the crisis, the president has not been around. This has prompted questions of whether he's  still alive. This in turn prompted multiple proof-of-life photos and videos from the senator-who-is-also-presidential-assistant, some of which [may or may have been photoshopped](https://twitter.com/News5PH/status/1380408229495119875). We are told he will make a public appearance Monday.
 - Speaking of the president, it feels like an ABS-CBN reporter did more to defend our sovereignty vs China when [they went to report on Chinese vessels near Ayungin Shoal and were harassed for their trouble](https://news.abs-cbn.com/news/multimedia/slideshow/04/09/21/china-boat-chase-abscbn-news-team-chiara-zambrano).
 - After two weeks of ECQ, the NCR+ bubble is [now placed under MECQ status until the end of the month](https://twitter.com/ABSCBNNews/status/1381142347489013761). No, I have no idea what that means.
@@ -31,10 +31,10 @@ title: Weeknotes 2021-04-11
 
 ### My stuff:
 
-- [Still sketching](/albums/sketchbook/)! My favorite sketch for this week is of [Akira Kazama](https://roytang.net/2021/04/1379656430081351687/), [upcoming fighter](https://www.youtube.com/watch?v=IOdgfo7OaLI) in the Street Fighter V season 5 DLC.
-- I [got my first dose of Sinovac vaccine today](https://roytang.net/2021/04/first-sinovac-dose/)!
+- [Still sketching](/albums/sketchbook/)! My favorite sketch for this week is of [Akira Kazama](/2021/04/1379656430081351687/), [upcoming fighter](https://www.youtube.com/watch?v=IOdgfo7OaLI) in the Street Fighter V season 5 DLC.
+- I [got my first dose of Sinovac vaccine today](/2021/04/first-sinovac-dose/)!
 - **Watching:**
-    - Continuing the James Bond run with [Diamonds are Forever (1971)](https://roytang.net/2021/04/8fd56682f77942eb0badef9444d465a4/), Connery's last outing.
+    - Continuing the James Bond run with [Diamonds are Forever (1971)](/2021/04/8fd56682f77942eb0badef9444d465a4/), Connery's last outing.
     - This week's **Falcon and Winter Soldier** was great, and those last 10 minutes were intense!
     - Other than that, just the usual weekly shows, etc.
 - **Gaming**:
@@ -43,7 +43,7 @@ title: Weeknotes 2021-04-11
     - This month's Humble Choice was revealed, and was meh for me, so I immediately paused.
     - I did get Days Gone via PS+ on PS4 though, I might actually play that one. Though they are also planning to give away Horizon Zero Dawn sometime this month, that might be a higher priority.
 - **Books**: Finished reading Alexis Ohanian's [Without Their Permission](https://www.amazon.com/Without-Their-Permission-Century-Managed/dp/1455520020), will write a review soonish.
-- Our trivia group posted a [new trivia video](https://roytang.net/2021/04/1379623251479908354/#comments). Like and subscribe to the channel etc. It's mostly just us playing games and trivia, having fun.
+- Our trivia group posted a [new trivia video](/2021/04/1379623251479908354/#comments). Like and subscribe to the channel etc. It's mostly just us playing games and trivia, having fun.
 
 ### This coming week:
 

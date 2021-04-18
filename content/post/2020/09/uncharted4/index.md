@@ -15,6 +15,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1304054540778446849/
 tags:
 - gaming
+- games
 title: 'Late Game Review: Uncharted 4: A Thief''s End'
 ---
 
