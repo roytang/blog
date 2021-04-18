@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1174191130105266177/
+tags:
+- quiznight
 ---
 
 Previously on quiz night

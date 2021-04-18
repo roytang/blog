@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153230787333912:0
 tags:
 - mobile-uploads
+- quiznight
 ---
 
 Second place! Improving!

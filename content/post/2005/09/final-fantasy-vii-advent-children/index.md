@@ -1,12 +1,18 @@
 ---
 categories: []
 date: 2005-09-17 16:11:00
+reviews:
+- description: ''
+  media: movies
+  rating: 0.0
+  title: 'Final Fantasy VII: Advent Children (2005)'
 source: roywantsmeat
 syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2005/09/final-fantasy-vii-advent-children.html
 tags:
 - Gaming
+- movies
 title: Final Fantasy VII -- Advent Children
 type: post
 url: /2005/09/final-fantasy-vii-advent-children/

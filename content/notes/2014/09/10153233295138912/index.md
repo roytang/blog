@@ -7,4 +7,4 @@ syndicated:
 tags: []
 ---
 
-I look forward to buying this on Steam sale and never playing it https://store.steampowered.com/agecheck/app/292120/
+I look forward to buying this on Steam sale and never playing it https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/
