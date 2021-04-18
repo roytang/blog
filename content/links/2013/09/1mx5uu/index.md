@@ -9,7 +9,10 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/1mx5uu/the_drop_new_playstation_releases_for_september/
+- type: reddit
+  url: https://reddit.com/r/vita/comments/1mx5wa/the_drop_new_playstation_releases_for_september/
 tags:
 - ps3
+- vita
 - gaming
 ---
