@@ -10,6 +10,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/52pu6t/a_street_fighter_in_manila_how_esports_is_kicking/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/776004959871508480/
 tags:
 - philippines
 ---

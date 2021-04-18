@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/378011922693513216/
 ---
 
-RT [@gmanews](https://twitter.com/gmanews/): IN OTHER NEWS: (BREAKING) ProjectNOAH says Metro Manila may experience heavy rains this afternoon until evening.
+IN OTHER NEWS: (BREAKING) ProjectNOAH says Metro Manila may experience heavy rains this afternoon until evening.

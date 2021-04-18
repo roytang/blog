@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/147768118596311
 - type: plurk
   url: https://plurk.com/p/7j5gn7
+tags:
+- lyrics
 ---
 
 Bawat panaginip na taglay ng iyong isipPalayain mo at ilipad tungong langitAng iyong tinig ay aawit
