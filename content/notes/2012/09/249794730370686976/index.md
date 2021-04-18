@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/249794730370686976/
 tags:
 - gaming
+- games
 ---
 
 I might be enjoying Tactics Ogre: Let Us Cling Together (on PSP) a bit too much.

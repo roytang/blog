@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152496007978912
-tags: []
+tags:
+- quiznight
 ---
 
 Result of geekfight special earlier with Dens Alave and Luis Formilleza:  

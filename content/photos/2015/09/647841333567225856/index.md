@@ -1,11 +1,12 @@
 ---
-date: 2015-09-26 18:33:04+00:00
+date: 2015-09-26 18:33:04
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/647841333567225856/
 tags:
 - MTGBFZ
+- mtg
 title: ''
 ---
 
