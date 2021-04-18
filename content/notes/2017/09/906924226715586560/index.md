@@ -10,4 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/906924226715586560/
 ---
 
-RT [@goulcher](https://twitter.com/goulcher/): This guy is an actual magician 
+This guy is an actual magician 
+
+{{< video width="320" height="320" src="https://video.twimg.com/ext_tw_video/906695415202041856/pu/vid/480x480/1q1HbDJjM3uwU8Md.mp4" >}}

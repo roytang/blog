@@ -1,5 +1,12 @@
 ---
+albums:
+- gaming
 date: 2020-09-10 09:15:38
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Uncharted 4: A Thief''s End'
 slug: uncharted4
 syndicated:
 - type: mastodon
@@ -7,8 +14,6 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1304054540778446849/
 tags:
-- gaming
-albums:
 - gaming
 title: 'Late Game Review: Uncharted 4: A Thief''s End'
 ---
