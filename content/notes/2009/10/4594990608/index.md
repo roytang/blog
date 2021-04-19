@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/4594990608/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/146187143739
+tags:
+- lyrics
 ---
 
 it's a mess, it's a start, it's a flawed work of art
