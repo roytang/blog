@@ -20,6 +20,7 @@ tags:
 - psvita
 - danganronpa
 - gaming
+- games
 ---
 
 Platinum chasing to destress #psvita #danganronpa
