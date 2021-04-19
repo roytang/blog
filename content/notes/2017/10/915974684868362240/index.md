@@ -1,5 +1,5 @@
 ---
-date: 2017-10-05 16:19:17+00:00
+date: 2017-10-05 16:19:17
 repost_source:
   name: GreatestQuotes
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/915974684868362240/
+tags:
+- quotes
 title: ''
 ---
 

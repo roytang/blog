@@ -8,4 +8,7 @@ link:
 slug: what-s-a-senior-engineer-s-job-julia-evans
 source: pocket
 title: What's a senior engineer's job? - Julia Evans
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1049306777404280832/
 ---

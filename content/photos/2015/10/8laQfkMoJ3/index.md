@@ -3,6 +3,11 @@ albums:
 - instagram
 date: 2015-10-08 10:12:01
 location: ''
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Danganronpa: Trigger Happy Havoc (PS Vita)'
 source: instagram
 syndicated:
 - type: instagram
@@ -14,6 +19,7 @@ syndicated:
 tags:
 - psvita
 - danganronpa
+- gaming
 ---
 
 Platinum chasing to destress #psvita #danganronpa
