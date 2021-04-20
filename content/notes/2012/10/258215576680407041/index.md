@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151888255848912
 tags:
 - gaming
+- games
 ---
 
 I just finished Borderlands today. Borderlands ONE. Relevant xkcd: https://xkcd.com/606/
