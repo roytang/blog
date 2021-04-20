@@ -7,6 +7,8 @@ syndicated:
 tags:
 - mobile-uploads
 - sweeeeeet
+- gaming
+- pickups
 ---
 
 Greatness awaits... #sweeeeeet
