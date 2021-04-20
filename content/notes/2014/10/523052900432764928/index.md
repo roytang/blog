@@ -1,5 +1,5 @@
 ---
-date: 2014-10-17 10:08:23+00:00
+date: 2014-10-17 10:08:23
 repost_source:
   name: dailyzen
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/523052900432764928/
+tags:
+- quotes
 title: ''
 ---
 
