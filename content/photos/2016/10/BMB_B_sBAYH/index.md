@@ -11,7 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/791299128366170112/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155033941453912:1
-tags: []
+tags:
+- quiznight
 ---
 
 And still the reigning Pop Quiz champion...
