@@ -1,9 +1,11 @@
 ---
-date: 2012-10-28 15:11:11+00:00
+date: 2012-10-28 15:11:11
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/262572221480960000/
+tags:
+- food
 title: ''
 ---
 

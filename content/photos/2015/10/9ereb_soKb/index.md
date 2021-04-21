@@ -7,7 +7,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/9ereb_soKb/
-tags: []
+tags:
+- food
 ---
 
 Cbprwc (no corn)
