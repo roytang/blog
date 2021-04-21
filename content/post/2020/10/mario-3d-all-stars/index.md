@@ -9,6 +9,7 @@ slug: mario-3d-all-stars
 tags:
 - gaming
 - nintendoswitch
+- games
 title: 'Game Review: Super Mario 3d All-stars'
 ---
 
