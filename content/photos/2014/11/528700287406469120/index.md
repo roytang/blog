@@ -1,5 +1,10 @@
 ---
-date: 2014-11-02 00:09:05+00:00
+date: 2014-11-02 00:09:05
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Middle Earth: Shadow of Morder (PS4)'
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153332216918912:0
 tags:
 - PS4share
+- gaming
 ---
 
 First ps4 platinum #PS4share
