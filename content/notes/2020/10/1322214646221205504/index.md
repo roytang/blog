@@ -12,6 +12,7 @@ syndicated:
 tags:
 - LinksAwakening
 - NintendoSwitch
+- games
 ---
 
 I finished #LinksAwakening ! #NintendoSwitch
