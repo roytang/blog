@@ -1,9 +1,14 @@
 ---
-title: "Blogs of Yesteryear Part 2"
-date: 2021-04-21T10:32:04+08:00
+date: 2021-04-21 02:32:04
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106101106659231988
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1384705138313498628/
 tags:
 - blogging
 - tech life
+title: Blogs of Yesteryear Part 2
 ---
 
 This is a follow up to ["Blogs of Yesteryear"](/2021/04/blogs-of-yesteryear/). This is the remainder of my blogroll from 2004/2005. I feel like the second half is less interesting than the first half, but I figured I might as well go through them as well.
