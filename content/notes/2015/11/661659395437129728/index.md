@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154177540208912
 ---
 
-"Nothing lasts forever, and we both know hearts can change" Guns N' Roses - November Rain https://www.youtube.com/watch?v=8SbUC-UaAxE&feature=youtu.be via [@YouTube](https://twitter.com/YouTube/)
+"Nothing lasts forever, and we both know hearts can change" Guns N' Roses - November Rain https://www.youtube.com/watch?v=8SbUC-UaAxE via [@YouTube](https://twitter.com/YouTube/)

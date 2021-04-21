@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/924546017281785859/
 tags:
 - gaming
+- games
 ---
 
 I’m like 90% through Kingdom Hearts 2 Final Mix and I have no idea what’s going on

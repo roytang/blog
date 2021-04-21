@@ -14,6 +14,7 @@ syndicated:
 tags:
 - PS4share
 - gaming
+- games
 ---
 
 First ps4 platinum #PS4share
