@@ -5,8 +5,9 @@ type: page
 date: 2018-04-15T05:26:37+00:00
 url: /resume
 comments_enabled: false
+submenu: "about"
 ---
-[hello@roytang.net](hello@roytang.net) | [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang)
+[work@roytang.net](work@roytang.net) | [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang)
 
 [View/download this resume in PDF format](/files/RoyTang.pdf)
 

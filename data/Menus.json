@@ -83,6 +83,10 @@
             "URL": "/page/about/me/"
         },
         {
+            "Name": "Resume",
+            "URL": "/page/resume/"
+        },
+        {
             "Name": "Site",
             "URL": "/page/about/site/"
         },

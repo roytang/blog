@@ -23,6 +23,8 @@ Feel free to contact me (but maybe read the rest of this page first).
 
 This policy was inspired by a [tweet from Stephanie Hurlburt](https://twitter.com/sehurlburt/status/889004724669661184) and also patio11's own [standing invite](https://www.kalzumeus.com/standing-invitation/). If you need tips about how to contact strangers, that last link is a great read.
 
+Note: I reserve the right to publish the content of any correspondence you make with me on this blog. If you do not wish for your content to be publicly available, please say so explicitly.
+
 ## FAQ
 
 - Can I contact you about updating one of your old posts to link back to my site for promotional purposes? 
