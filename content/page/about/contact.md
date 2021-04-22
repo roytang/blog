@@ -9,7 +9,7 @@ aliases:
 submenu: "about"
 ---
 
-## Standing Invite
+### Standing Invite
 
 I'm generally amenable to talking to strangers on the internet. If you want to talk about topics such as:
 
@@ -25,7 +25,7 @@ This policy was inspired by a [tweet from Stephanie Hurlburt](https://twitter.co
 
 Note: I reserve the right to publish the content of any correspondence you make with me on this blog. If you do not wish for your content to be publicly available, please say so explicitly.
 
-## FAQ
+### FAQ
 
 - Can I contact you about updating one of your old posts to link back to my site for promotional purposes? 
 
@@ -43,9 +43,11 @@ This is a weird question to ask even if I knew you personally. Get your own blog
 
 Yes. I am especially willing to write reviews for ebooks, provided it is in an area of interest and I am given a complimentary copy. Note that I don't guarantee the review will be in any way flattering. As with the rest of my writing on this site, it will be my honest opinion.
 
-## How to contact me
+### How to contact me
 
-For strangers, please contact me via one of the following methods:
+For work-related correspondence, please use the email address specified on [the resume page](/page/resume/).
+
+For other matters, please contact me via one of the following methods:
 
 - [email: hello@roytang.net](email:hello@roytang.net). I'm not one of those people who lets their inbox gets cluttered, so I will generally see your email within a day or so. If it's of interest, I will probably reply quickly as well. Please include somewhere in your subject line the word "PINEAPPLE" in all caps, to indicate that you have read this FAQ. If I don't reply quickly, it's either (a) you ignored the FAQ above; or (b) you did not include the subject keyword and your email was automatically filtered away; or (c) I'm busy and/or need time to think of a response and will get back to you eventually.
 - [Twitter: @roytang](https://twitter.com/roytang/). My DMs are open.
