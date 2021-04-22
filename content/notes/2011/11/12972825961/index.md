@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/12972825961/save-community
+- type: twitter
+  url: https://twitter.com/roytang/statuses/137587865977757696/
 ---
 
 <p>Save Community!</p>

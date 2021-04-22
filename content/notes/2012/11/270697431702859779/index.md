@@ -7,7 +7,6 @@ syndicated:
 tags:
 - reddit
 - flipboard
-title: ''
 ---
 
-RT [@redditflipboard](https://twitter.com/redditflipboard/): Wise words, Andre. [r/funny]  #reddit #flipboard
+RT [@redditflipboard](https://twitter.com/redditflipboard/): Wise words, Andre. [r/funny] https://t.co/3BXsnjJX #reddit #flipboard

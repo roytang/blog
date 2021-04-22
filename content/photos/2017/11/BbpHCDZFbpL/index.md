@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156194347148912:1
 tags:
 - popquizph
+- quiznight
 ---
 
 Star Wars things from the #popquizph prizes! (with bonus artwork from a 7yo)
