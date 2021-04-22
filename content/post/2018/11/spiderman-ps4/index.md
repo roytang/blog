@@ -16,6 +16,7 @@ tags:
 - comics
 - review
 - Gaming
+- games
 title: 'Game Review: Marvel''s Spider-Man for PS4'
 ---
 

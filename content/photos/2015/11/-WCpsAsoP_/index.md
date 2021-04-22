@@ -7,5 +7,6 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/-WCpsAsoP_/
-tags: []
+tags:
+- food
 ---
