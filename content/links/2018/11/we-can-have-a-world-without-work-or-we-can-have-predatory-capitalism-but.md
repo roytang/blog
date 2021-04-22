@@ -10,4 +10,7 @@ slug: we-can-have-a-world-without-work-or-we-can-have-predatory-capitalism-but
 source: pocket
 title: "We Can Have a World Without Work, Or We Can Have Predatory Capitalism \u2014\
   \ But"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062726950228316160/
 ---
