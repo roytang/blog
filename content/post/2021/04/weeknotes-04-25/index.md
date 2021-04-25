@@ -46,10 +46,12 @@ I've been a bit busy this weekend (see below), so this post is running a bit lat
 
 - In the Spanish dub of Terminator 2, instead of "Hasta la vista, baby", the Terminator says "Sayonara, baby!" via [reddit](https://www.reddit.com/r/movies/comments/mwv4nd/fun_fact_in_the_spanish_dub_of_terminator_2_he/).
 - Jack Black's parents were [satellite engineers](https://www.reddit.com/r/todayilearned/comments/mxsdzu/til_judith_love_cohen_who_helped_create_the/). (This entry spoils the ending of that entry, sorry!)
+- Local liturgical song Tanging Yaman, often attributed to Carol Banawa, was actually [first recorded by now-Senator Risa Hontiveros](https://news.abs-cbn.com/entertainment/04/03/21/behind-the-music-tanging-yaman-by-fr-manoling-francisco)
 
 ### My stuff:
 
 - The big thing for me this week (that I hinted at in [the previous weeknotes](/2021/04/weeknotes-2021-04-18/)) is that I decided to give [LUDUM DARE 48](https://ldjam.com/events/ludum-dare/48) a shot! It's a game jam, where you make a game in 48 hours (well, that's the mode I'm participating in). Tt's the first time I'm doing one, despite a lifetime of flirting with the idea of gamedev. Initial build is [already available](https://hungryroy.itch.io/diver), even though there's still 9ish hours to go. (I need to sleep!) I'll probably (should) write more about this experience in a future post.
+- Around the middle of this week, I got the first ever email that actually complied with [the contact protocol I had specified here in the site](/page/about/contact/) and on LinkedIn, namely putting a certain keyword in the subject line. I've had that condition for years, so I was really amazed someone actually read it!
 - I'm [still sketching](/albums/sketchbook/), though I've fallen a couple of days behind due to the game jam. I [tried to do one on paper like a comic](/2021/04/1385224243848179719/) but my handwriting was so terrible I had to edit it digitally!
 - **Watching:**
     - Movies: Watched [Rocky (1976)](/2021/04/b178a1efcfc005930f062c7be447d7c1/), and I meant to watch the next Bond flick too, but ran out of time. New Mortal Kombat movie also came out this past week, I might watch that.
@@ -57,7 +59,7 @@ I've been a bit busy this weekend (see below), so this post is running a bit lat
     - This week's **Invincible** is getting to the good part!
 - **Gaming**:
     - Still drafting a bunch of Strixhaven on Arena (though I had to stop for the weekend due to the game jam). Most of my drafts went well, though the last 2 I did this week were terrible. I ended up listening to [the Limited Resources podcast](http://lrcast.com/limited-resources-593-strixhaven-first-impressions/) for the first time and got some good tips, hopefully that improves my drafts moving forward. I'll probably play in the Sealed Open next weekend! Follow along via [the MTGStrixhaven tag](/tags/mtgstrixhaven/)!
-    - **Fire Emblem: Three Houses** actually had some progress next week.
+    - **Fire Emblem: Three Houses** actually had some progress this week. I really should finish this run soon.
     - Downloaded **Horizon Zero Dawn** on PS4 because it's temporarily free! I've been wanting to play this for a while, hopefully I have time for it this coming week. 
     - Played some Street Fighter V again this week; I figured since a new character dropped, it might be easy to find matches again. I did manage to fight quite a few, but I also did quite poorly, dropping back to Ultra Bronze. Thinking about switching to a different character since everyone seems to know how to fight Ryu, so I unlocked Honda! We'll see who I actually end up using.
 - **Books**: Currently about halfway through **Snow Crash** by Neal Stephenson.
