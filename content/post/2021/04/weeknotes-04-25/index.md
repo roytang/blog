@@ -1,11 +1,16 @@
 ---
-date: 2021-04-25T22:11:48+08:00
+date: 2021-04-25 14:11:48
 slug: weeknotes-2021-04-25
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106126633805956771
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1386338876839501825/
 tags:
 - philippines
 - covid19
 - weeknotes
-title: "Weeknotes 2021-04-25: Game Jammin'"
+title: 'Weeknotes 2021-04-25: Game Jammin'''
 ---
 
 I've been a bit busy this weekend (see below), so this post is running a bit late.
