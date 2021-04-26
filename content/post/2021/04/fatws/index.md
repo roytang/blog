@@ -9,6 +9,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106132703505829425
 - type: twitter
   url: https://twitter.com/roytang/statuses/1386727336750419968/
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/649547338970447872/falcon-and-winter-soldier-review
 tags:
 - tv
 - comicbooks
@@ -22,7 +24,7 @@ Falcon and Winter Soldier review (with some spoilers):
 - Bucky and Sam have great chemistry, even though they start out annoyed at each other
 - pacing is a bit odd at times; feels more like an extended movie than a weekly episodic series (especially compared to Wandavision, which took advantage of the weekly format really well)
 - although a complete story by itself, this one felt more of a setup for future MCU storylines (again compared to Wandavision)
-- while overall the season was good, I find Wandavision was the clearly better watch for me, though I suppose your mileage may vary is your preference is for action sequences
+- while overall the season was good, I find Wandavision was the clearly better watch for me, though I suppose your mileage may vary if your preference is for action sequences
 
 
 Ending spoilers follow:
