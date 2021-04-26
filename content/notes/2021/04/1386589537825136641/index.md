@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1386619963058712577/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1386620050430316544/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1386625702493970434/
 tags:
 - mtg
 - magicarena
@@ -20,3 +22,5 @@ Thursday afternoon Strixhaven draft(s?)! https://www.twitch.tv/twitchyroy #mtg #
 Two poor drafts again today. I might be hitting a ceiling now that I've ranked back up into Platinum D:. Have to do better!
 
 I didn't even rare draft this time!
+
+YT: https://www.youtube.com/watch?v=kgwy4bEulbs
