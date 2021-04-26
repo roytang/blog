@@ -1,9 +1,14 @@
 ---
-date: 2021-04-27 00:30:00+08:00
+date: 2021-04-26 16:30:00
 reviews:
 - media: tv
   rating: 5
   title: The Falcon and the Winter Soldier
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106132703505829425
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1386727336750419968/
 tags:
 - tv
 - comicbooks
