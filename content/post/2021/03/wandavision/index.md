@@ -1,12 +1,5 @@
 ---
 date: 2021-03-05 13:59:55
-reviews:
-- date: 2021-03-05
-  description: A very emotional story of Wanda dealing with the aftermath of Infinity
-    War/Endgame
-  media: tv
-  rating: 5
-  title: WandaVision
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1367838446480285697/
