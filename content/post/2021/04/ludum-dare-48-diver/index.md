@@ -1,8 +1,13 @@
 ---
-title: "Ludum Dare 48: Diver"
-date: 2021-04-27T13:49:23+08:00
+date: 2021-04-27 05:49:23
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106135992759236410
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1386937848708829189/
 tags:
 - gamedev
+title: 'Ludum Dare 48: Diver'
 ---
 
 ### The jam
