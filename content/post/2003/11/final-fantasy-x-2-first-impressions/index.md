@@ -12,6 +12,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2003/11/final-fantasy-x-2-first-impressions.html
 tags:
 - Gaming
+- games
 title: 'Final Fantasy X-2: First Impressions'
 type: post
 url: /2003/11/final-fantasy-x-2-first-impressions/
