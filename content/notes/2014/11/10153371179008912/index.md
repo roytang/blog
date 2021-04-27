@@ -2,7 +2,7 @@
 date: 2014-11-22 16:56:00
 reviews:
 - media: games
-  title: 'Dragon Age: Inquisition'
+  title: 'Dragon Age: Inquisition (PS4)'
 source: facebook
 syndicated:
 - type: facebook
