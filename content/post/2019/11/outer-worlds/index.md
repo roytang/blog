@@ -4,12 +4,18 @@ albums:
 date: 2019-11-26
 featuredResource:
   filename: The Outer Worlds_20191109171134.jpg
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: The Outer worlds (PS4)
 slug: outer-worlds
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1199147871741906949/
 tags:
 - gaming
+- games
 title: 'Review: The Outer Worlds'
 ---
 

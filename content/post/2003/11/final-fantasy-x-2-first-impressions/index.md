@@ -1,6 +1,11 @@
 ---
 categories: []
 date: 2003-11-26 02:52:48
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Final Fantasy X-2 (PS2)
 source: roywantsmeat
 syndicated:
 - type: blogger

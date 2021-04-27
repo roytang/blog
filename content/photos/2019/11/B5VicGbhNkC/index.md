@@ -10,6 +10,7 @@ syndicated:
 tags:
 - geekfight
 - geekfightph
+- quiznight
 ---
 
 I still dont understand, it felt like we were doing poorly, but we somehow won #geekfight tonight. Not in picture: bottle of win #geekfightph

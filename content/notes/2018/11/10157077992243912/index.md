@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157077992243912
-tags: []
+tags:
+- survey
 ---
 
 Survey: What's the worst pun you've ever heard from me?
