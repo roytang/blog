@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/7386689878106112/
 - type: plurk
   url: https://plurk.com/p/94s4rg
+tags:
+- movies
 ---
 
 Just watched Salt. While it's a fun action movie, I'm a bit unsatisfied with the explanations for Salt's actions
