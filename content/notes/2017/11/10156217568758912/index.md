@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156217568758912
-tags: []
+tags:
+- survey
 ---
 
 Survey: what is the most difficult animal to pack?
