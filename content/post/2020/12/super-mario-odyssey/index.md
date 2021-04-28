@@ -35,6 +35,7 @@ syndicated:
 tags:
 - gaming
 - nintendoswitch
+- games
 title: 'Game Review: Super Mario Odyssey'
 ---
 
