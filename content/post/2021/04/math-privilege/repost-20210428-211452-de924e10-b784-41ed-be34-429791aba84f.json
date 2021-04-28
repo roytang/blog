@@ -1,0 +1,27 @@
+{
+  "id": "de924e10-b784-41ed-be34-429791aba84f",
+  "name": "Jack Leightcap",
+  "url": "https://noc.social/@jleightcap",
+  "text": "[Jack Leightcap](https://noc.social/@jleightcap) [shared this](https://mastodon.technology/@roytang/106141807465105563#reblogged-by-398608)",
+  "date": "2021-04-28 21:14:52",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/12bc9b21540297efa1c2f11adc16b66ccfdb666fed65cd7a89b4807ec2118be3.png",
+  "source_url": "https://mastodon.technology/@roytang/106141807465105563#reblogged-by-398608",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jack Leightcap",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/12bc9b21540297efa1c2f11adc16b66ccfdb666fed65cd7a89b4807ec2118be3.png",
+      "url": "https://noc.social/@jleightcap"
+    },
+    "url": "https://mastodon.technology/@roytang/106141807465105563#reblogged-by-398608",
+    "published": null,
+    "wm-received": "2021-04-28T21:14:52Z",
+    "wm-id": 1135767,
+    "wm-source": "https://brid.gy/repost/mastodon/@roytang@mastodon.technology/106141807465105563/398608",
+    "wm-target": "https://roytang.net/2021/04/math-privilege/",
+    "repost-of": "https://roytang.net/2021/04/math-privilege/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
