@@ -1,0 +1,27 @@
+{
+  "id": "432e4ffb-76db-47b6-a071-0d76779e7604",
+  "name": "Dwayne",
+  "url": "https://mastodon.xyz/@arcatech",
+  "text": "[Dwayne](https://mastodon.xyz/@arcatech) [liked this](https://mastodon.technology/@roytang/106141807465105563#favorited-by-55952)",
+  "date": "2021-04-28 16:09:14",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0ef27daaed3d3fa0e23473034d45d9b95af645f50cd599e354b094f1971fcab9.jpg",
+  "source_url": "https://mastodon.technology/@roytang/106141807465105563#favorited-by-55952",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dwayne",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0ef27daaed3d3fa0e23473034d45d9b95af645f50cd599e354b094f1971fcab9.jpg",
+      "url": "https://mastodon.xyz/@arcatech"
+    },
+    "url": "https://mastodon.technology/@roytang/106141807465105563#favorited-by-55952",
+    "published": null,
+    "wm-received": "2021-04-28T16:09:14Z",
+    "wm-id": 1135588,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/106141807465105563/55952",
+    "wm-target": "https://roytang.net/2021/04/math-privilege/",
+    "like-of": "https://roytang.net/2021/04/math-privilege/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
