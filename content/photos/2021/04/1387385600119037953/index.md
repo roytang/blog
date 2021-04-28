@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1387385600119037953/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1387385838359572480/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/n0al7e/april_28th_dapper_dogs_demolishing_downtrodden/gw5z55j/
 tags:
 - sketchdaily
 ---
