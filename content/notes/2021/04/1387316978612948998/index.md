@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1387345839379648514/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1387354262456336384/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1387412942388285442/
 tags:
 - mtg
 - magicarena
@@ -20,3 +22,13 @@ Throwing away gems on Strixhaven draft(s?)! https://www.twitch.tv/twitchyroy #mt
 Internet was weird today so stream was on and off. Probably won't have the full episode on YT (maybe just the last few matches). But spoiler alert: I was able to break my unlucky streak with some Quandrix + Prismari goodness!
 
 I might also get reimbursed lol. Last couple of matches on YT: https://www.youtube.com/watch?v=7SuXcPVm0YQ
+
+Okay, I was able to record the draft itself locally, so this draft has two videos. In order:
+
+
+
+Part 1 (draft): https://www.youtube.com/watch?v=skUg-kWzq_g
+
+
+
+Part 2 (last few matches): https://www.youtube.com/watch?v=7SuXcPVm0YQ
