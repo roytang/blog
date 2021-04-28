@@ -1,6 +1,11 @@
 ---
-title: "Math and Privilege"
-date: 2021-04-28T14:09:57+08:00
+date: 2021-04-28 06:09:57
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106141807465105563
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1387309990126387208/
+title: Math and Privilege
 ---
 
 In [a recent STEM-focused newsletter](https://noahpinion.substack.com/p/someone-has-to-run-the-fabs), Noahpinion talked a bit about the myth of math being an inborn ability:
