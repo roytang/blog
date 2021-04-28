@@ -22,6 +22,11 @@ resources:
   title: You get a THANK YOU for finishing the Darker Side challenge
 - src: woodland.jpg
   title: This is the woodland kingdom
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Super Mario Odyssey (Switch)
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105307886098255789

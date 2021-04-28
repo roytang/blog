@@ -15,6 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155138719728912:0
 tags:
 - bottleofwin
+- quiznight
 ---
 
 Somehow we won Geekfight! #bottleofwin

@@ -8,4 +8,7 @@ link:
 slug: 52-things-i-learned-in-2018-fluxx-studio-notes-medium
 source: pocket
 title: 52 things I learned in 2018 - Fluxx Studio Notes - Medium
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1069888351463981056/
 ---

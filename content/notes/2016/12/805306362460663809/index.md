@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/805306362460663809/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155143350723912
+tags:
+- quotes
 ---
 
 "Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon."  - Susan Ertz

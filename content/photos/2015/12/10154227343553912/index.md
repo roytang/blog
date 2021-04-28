@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154227343553912
 tags:
 - mobile-uploads
+- quiznight
 ---
 
 Final amici quiz night! (Spoiler: nde kami nanalo lol) Thanks for the quizzes [Jason](https://www.facebook.com/570081319)!
