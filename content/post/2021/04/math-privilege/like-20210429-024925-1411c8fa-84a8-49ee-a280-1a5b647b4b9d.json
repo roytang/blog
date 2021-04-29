@@ -1,0 +1,27 @@
+{
+  "id": "1411c8fa-84a8-49ee-a280-1a5b647b4b9d",
+  "name": "Jaybear S. \ud83c\udde8\ud83c\udde6",
+  "url": "https://twitter.com/jaybearca",
+  "text": "[Jaybear S. \ud83c\udde8\ud83c\udde6](https://twitter.com/jaybearca) [liked this](https://twitter.com/roytang/status/1387309990126387208#favorited-by-18420556)",
+  "date": "2021-04-29 02:49:25",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/6c074e990a6a9668f77660fec1054760c9064997a87c8e72c3ebffd8243fac77.jpg",
+  "source_url": "https://twitter.com/roytang/status/1387309990126387208#favorited-by-18420556",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jaybear S. \ud83c\udde8\ud83c\udde6",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6c074e990a6a9668f77660fec1054760c9064997a87c8e72c3ebffd8243fac77.jpg",
+      "url": "https://twitter.com/jaybearca"
+    },
+    "url": "https://twitter.com/roytang/status/1387309990126387208#favorited-by-18420556",
+    "published": null,
+    "wm-received": "2021-04-29T02:49:25Z",
+    "wm-id": 1136063,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1387309990126387208/18420556",
+    "wm-target": "https://roytang.net/2021/04/math-privilege/",
+    "like-of": "https://roytang.net/2021/04/math-privilege/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
