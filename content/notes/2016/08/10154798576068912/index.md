@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154798576068912
 tags:
 - surveys
+- survey
 ---
 
 Survey: what is the greatest anime of all time?

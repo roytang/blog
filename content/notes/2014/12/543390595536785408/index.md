@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/543390595536785408/
 ---
 
-RT [@GailSimone](https://twitter.com/GailSimone/): She would put a doily on the Infinity Gauntlet.
+She would put a doily on the Infinity Gauntlet.
+
+
 
 AUNT MAY OF SHIELD.

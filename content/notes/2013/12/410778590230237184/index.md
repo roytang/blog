@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/410778590230237184/
 ---
 
-RT [@Dethtron5000](https://twitter.com/Dethtron5000/): A lot of people ask about our tech stack at @marvel.  This should answer any questions: http://marvel.com/galactus.txt
+A lot of people ask about our tech stack at @marvel.  This should answer any questions: http://marvel.com/galactus.txt
