@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/806211515460165632/
 ---
 
-RT [@BreeNewsome](https://twitter.com/BreeNewsome/): Resist 
+Resist

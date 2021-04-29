@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/806137681658855428/
 ---
 
-RT @SayHeyAce: Retweet these pictures of choco butternuts to distract and make your followers crave 
+Retweet these pictures of choco butternuts to distract and make your followers crave

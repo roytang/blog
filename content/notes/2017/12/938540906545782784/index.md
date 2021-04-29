@@ -10,4 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/938540906545782784/
 ---
 
-RT [@dorseyshaw](https://twitter.com/dorseyshaw/): Fixed 
+Fixed 
+
+{{< video width="320" height="568" src="https://video.twimg.com/ext_tw_video/938485754812141568/pu/vid/720x1280/853gmfDbUb04qFWP.mp4" >}}

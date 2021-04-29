@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/806486152693817345/
 tags:
 - minsanlang
+- food
 ---
 
 Steak! #minsanlang

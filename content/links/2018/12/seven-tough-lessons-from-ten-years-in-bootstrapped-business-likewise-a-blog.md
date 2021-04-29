@@ -8,4 +8,7 @@ link:
 slug: seven-tough-lessons-from-ten-years-in-bootstrapped-business-likewise-a-blog
 source: pocket
 title: Seven tough lessons from ten years in bootstrapped business | Likewise a Blog
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1070674751205597184/
 ---
