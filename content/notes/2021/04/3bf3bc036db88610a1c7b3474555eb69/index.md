@@ -6,6 +6,8 @@ reviews:
   rating: 0.0
   title: Green Hornet (2011)
 source: form
+tags:
+- movies
 title: Green Hornet
 ---
 
