@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154251626028912
-tags: []
+tags:
+- mama
 ---
 
 Ma: So si Anakin diba parang bata sya ni Obi-wan?  
