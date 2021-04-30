@@ -9,6 +9,8 @@ source: form
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/106154419734515471
+tags:
+- tv
 title: Invincible season 1
 ---
 

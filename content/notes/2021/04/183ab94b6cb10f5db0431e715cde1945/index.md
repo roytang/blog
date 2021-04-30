@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1388117834689957888/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1388117835918970883/
+tags:
+- tv
 title: Invincible season 1
 ---
 
