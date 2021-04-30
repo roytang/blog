@@ -1,5 +1,10 @@
 ---
 date: 2011-12-18 06:21:26
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Bastion (Steam)
 source: twitter
 syndicated:
 - type: twitter
