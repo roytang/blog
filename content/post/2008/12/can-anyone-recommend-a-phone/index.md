@@ -6,7 +6,8 @@ tags:
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/42328031798
-  
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/46243732390
 ---
 
 - 3.2MP or better camera 
