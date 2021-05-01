@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1075638523/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/59165817320
+tags:
+- games
 ---
 
 Finally finished Fallout3

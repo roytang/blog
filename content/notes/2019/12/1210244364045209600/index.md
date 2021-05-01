@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1210244364045209600/
+tags:
+- survey
 ---
 
 Survey: What was your favorite movie of 2019?

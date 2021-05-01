@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/215316931147
 tags:
 - Avatar
+- movies
 ---
 
 #Avatar You know a movie is good when you have to pee, but you don't. I held it in for 3 hours.
