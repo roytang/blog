@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1075565147702341633/
 ---
 
-RT [@saladinahmed](https://twitter.com/saladinahmed/): probably the most challenging thing about writing Kamala is that she likes MMORPGs more than single player offline
+probably the most challenging thing about writing Kamala is that she likes MMORPGs more than single player offline

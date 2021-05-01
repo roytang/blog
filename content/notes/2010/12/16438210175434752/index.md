@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/16438210175434752/
 - type: plurk
   url: https://plurk.com/p/9nwsri
+tags:
+- games
 ---
 
 Finally finished Infamous! Now for the other 200 games on my backlog.

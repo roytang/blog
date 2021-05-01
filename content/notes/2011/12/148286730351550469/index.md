@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/148286730351550469/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150437393673912
+tags:
+- games
 ---
 
 Just finished Bastion. Such a beautiful, fantastic game
