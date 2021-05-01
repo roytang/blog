@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/283190377664630785/
 ---
 
-RT [@Bill_Gross](https://twitter.com/Bill_Gross/): "America had 11,000 gun-related homicides in 2008. Japan had 11. Does anyone know if they play video games in Japan?" @J ...
+"America had 11,000 gun-related homicides in 2008. Japan had 11. Does anyone know if they play video games in Japan?" @JensenClan88
