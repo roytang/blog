@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1388465160952549379/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1388465162181505026/
+tags:
+- tv
 title: Tom Clancy's Jack Ryan season 2
 ---
 
