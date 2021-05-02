@@ -1,11 +1,16 @@
 ---
-date: 2021-05-02T12:21:37+08:00
+date: 2021-05-02 04:21:37
 slug: weeknotes-2021-05-02
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106164157191256459
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1388740372373725187/
 tags:
 - philippines
 - covid19
 - weeknotes
-title: 'Weeknotes 2021-05-02'
+title: Weeknotes 2021-05-02
 ---
 
 It's already May? April felt like it came and went so quickly. But then again, [time has little meaning in this accursed pandemic](/2020/03/1242953238497751040).
