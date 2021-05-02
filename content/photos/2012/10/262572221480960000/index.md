@@ -1,4 +1,6 @@
 ---
+albums:
+- food
 date: 2012-10-28 15:11:11
 source: twitter
 syndicated:

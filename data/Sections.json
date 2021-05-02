@@ -2,7 +2,7 @@
     "post": {
         "label": "Blog",
         "section-alt": "blog",
-        "descrip": "Traditional blog posts, usually longer than other types, with a title."
+        "descrip": "A blog is a website consisting of discrete, often informal diary-style text entries, typically displayed in reverse chronlogical order. A single entry is called a blog post."
     },
     "photos": {
         "label": "Photos",

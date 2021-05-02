@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153448333678912
-tags: []
+tags:
+- survey
 ---
 
 A genie offers you a choice: the powers of superman, the wealth of bill gates, or the wisdom of solomon. Which do you choose?

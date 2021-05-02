@@ -1,6 +1,7 @@
 ---
 albums:
 - instagram
+- food
 date: 2019-09-30
 source: instagram
 syndicated:

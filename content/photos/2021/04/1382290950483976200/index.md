@@ -1,5 +1,7 @@
 ---
-date: 2021-04-14 11:13:38+00:00
+albums:
+- food
+date: 2021-04-14 11:13:38
 source: twitter
 syndicated:
 - type: twitter

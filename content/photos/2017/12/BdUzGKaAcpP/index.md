@@ -3,6 +3,11 @@ albums:
 - instagram
 date: 2017-12-30 04:37:58
 location: ''
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'The Legend of Zelda: Breath of the Wild (WiiU)'
 source: instagram
 syndicated:
 - type: instagram
@@ -14,6 +19,8 @@ syndicated:
 tags:
 - zelda
 - botw
+- gaming
+- games
 ---
 
 Managed to beat the game before the new year came in. 109/120 shrines. #zelda #botw

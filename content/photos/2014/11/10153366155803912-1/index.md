@@ -1,4 +1,6 @@
 ---
+albums:
+- food
 date: 2014-11-19 23:38:00
 source: facebook
 syndicated:
