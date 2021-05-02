@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/417818624481427456/
+tags:
+- tv
 ---
 
 Homeland S3 wasn't the best, but it was the ending Brody deserved. Not sure about Carrie.

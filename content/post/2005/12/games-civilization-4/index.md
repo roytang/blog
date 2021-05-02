@@ -12,6 +12,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2005/12/games-civilization-4.html
 tags:
 - Gaming
+- games
 title: Games -- Civilization 4
 type: post
 url: /2005/12/games-civilization-4/
