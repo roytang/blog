@@ -9,6 +9,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/PS3/comments/246pv1/golden_week_sale_celebrates_japanese_games/
+- type: reddit
+  url: https://reddit.com/r/vita/comments/246pwp/golden_week_sale_celebrates_japanese_games/
 tags:
 - ps3
 - gaming
