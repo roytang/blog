@@ -1,8 +1,14 @@
 ---
 categories: []
 date: 2009-01-04 14:56:07
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Valkyria Chronicles (PS3)
 tags:
 - Gaming
+- games
 title: Valkyria Chronicles
 type: post
 url: /2009/01/valkyria-chronicles/

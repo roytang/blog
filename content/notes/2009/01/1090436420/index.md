@@ -1,10 +1,5 @@
 ---
 date: 2009-01-01 20:44:34
-reviews:
-- description: ''
-  media: games
-  rating: 0.0
-  title: Valkyria Chronicles (PS3)
 source: twitter
 syndicated:
 - type: twitter
