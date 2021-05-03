@@ -1,7 +1,11 @@
 ---
-date: 2015-01-03 04:45:08
+date: 2015-01-03 02:10:58
 source: twitter
 syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551199005216997376/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551219655059054592/
 - type: twitter
   url: https://twitter.com/roytang/statuses/551237801509785600/
 - type: twitter
@@ -17,10 +21,15 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/551356045826588672/
 tags:
+- gpmnl
 - gpmanila
 ---
 
-R3 2-0 vs temur, 3-0 overall #gpmanila
+Rd1 2-0 vs ub control #gpmnl
+
+[11:33] R2 2-0 vs ub control #gpmnl 2-0 overall
+
+[12:45] R3 2-0 vs temur, 3-0 overall #gpmanila
 
 [14:04] R4 2-0 vs temur, 4-0 overall #gpmanila
 

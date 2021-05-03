@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154286175508912
-tags: []
+tags:
+- survey
 ---
 
 Survey: best pizza in Metro Manila?
