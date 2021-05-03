@@ -7,6 +7,11 @@ reviews:
   media: games
   rating: 4
   title: Root
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106170137464135504
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1389123109781794817/
 tags:
 - gaming
 - games
