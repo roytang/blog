@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/25943174056771586/
+tags:
+- movies
 ---
 
 Just got back from Tron Legacy (3d)

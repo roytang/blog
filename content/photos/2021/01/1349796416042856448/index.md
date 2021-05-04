@@ -15,6 +15,7 @@ tags:
 - FireEmblem
 - ThreeHouses
 - NintendoSwitch
+- games
 ---
 
 Finally finished #FireEmblem #ThreeHouses, or one run at least! Doing the other two might take a while!   #NintendoSwitch
