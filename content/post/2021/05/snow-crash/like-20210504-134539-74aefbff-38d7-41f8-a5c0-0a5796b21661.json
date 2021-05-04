@@ -1,0 +1,27 @@
+{
+  "id": "74aefbff-38d7-41f8-a5c0-0a5796b21661",
+  "name": "Paul Catiang, Pandemic Year Two Edition",
+  "url": "https://twitter.com/paulcatiang",
+  "text": "[Paul Catiang, Pandemic Year Two Edition](https://twitter.com/paulcatiang) [liked this](https://twitter.com/roytang/status/1389573775348301825#favorited-by-159004751)",
+  "date": "2021-05-04 13:45:39",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/ec05277924a7e191fef1c99f11ee1831a373090ef0f07d4fd7dab4bd3387933e.jpg",
+  "source_url": "https://twitter.com/roytang/status/1389573775348301825#favorited-by-159004751",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Catiang, Pandemic Year Two Edition",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec05277924a7e191fef1c99f11ee1831a373090ef0f07d4fd7dab4bd3387933e.jpg",
+      "url": "https://twitter.com/paulcatiang"
+    },
+    "url": "https://twitter.com/roytang/status/1389573775348301825#favorited-by-159004751",
+    "published": null,
+    "wm-received": "2021-05-04T13:45:39Z",
+    "wm-id": 1144216,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1389573775348301825/159004751",
+    "wm-target": "https://roytang.net/2021/05/snow-crash/",
+    "like-of": "https://roytang.net/2021/05/snow-crash/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
