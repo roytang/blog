@@ -1,9 +1,14 @@
 ---
-date: 2021-05-04 10:31:24+08:00
+date: 2021-05-04 02:31:24
 reviews:
 - media: books
   rating: 4
   title: Snow Crash by Neal Stephenson
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106177179109661151
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1389573775348301825/
 tags:
 - books
 title: 'Book Review: Snow Crash by Neal Stephenson'
@@ -19,4 +24,4 @@ The core of the plot revolves around linguistics, history, archaeology, computer
 
 The book's title "Snow Crash" is the name of a digital "drug" that the bad guy distributes throughout the Metaverse to target hackers. The drug is actually a digital image of random black and white bits (a bit like what a TV/monitor looks like when it loses a signal in those days, literally a crash that looks like snow) that affects hackers' brains in a certain way. I guess I shouldn't spoil any more.
 
-My one complaint would be the ending felt abrupt, although everything was wrapped up neatly, it all happened mostly outside the purview of our protagonists. I do like it more than Cryptonomicon, which was a later book of his (published in 1999). This one felt easier to grok. 
+My one complaint would be the ending felt abrupt, although everything was wrapped up neatly, it all happened mostly outside the purview of our protagonists. I do like it more than Cryptonomicon, which was a later book of his (published in 1999). This one felt easier to grok.
