@@ -1,5 +1,7 @@
 ---
-date: 2016-01-07 09:44:56+00:00
+albums:
+- gaming
+date: 2016-01-07 09:44:56
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +9,7 @@ syndicated:
 tags:
 - fallout4
 - PS4share
+- gaming
 ---
 
-How did you get up there? #fallout4 #PS4share 
+How did you get up there? #fallout4 #PS4share

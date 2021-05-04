@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152707410033912
-tags: []
+tags:
+- survey
 ---
 
 Survey: What % of your income do you spend on hobbies?

@@ -9,6 +9,10 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://reddit.com/r/PlayStationPlus/comments/1ujm8r/na_playstation_plus_dont_starve_dmc_free_for/
+- type: reddit
+  url: https://reddit.com/r/PS3/comments/1ujm9d/na_playstation_plus_dont_starve_dmc_free_for/
 tags:
 - playstationplus
+- ps3
+- gaming
 ---
