@@ -1,5 +1,10 @@
 ---
 date: 2021-01-14 19:11:58
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Fire Emblem Three Houses (Switch)
 source: twitter
 syndicated:
 - type: twitter
