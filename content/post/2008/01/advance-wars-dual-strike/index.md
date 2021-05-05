@@ -1,6 +1,11 @@
 ---
 categories: []
 date: 2008-01-16 06:37:45
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Advance Wars: Dual Strike (NDS)'
 tags:
 - Gaming
 title: 'Advance Wars: Dual Strike'

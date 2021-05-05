@@ -9,6 +9,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/magicTCG/comments/416yju/jan_18_banned_and_restricted_lists_update/cz0850r/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/688271622541688834/
 tags:
 - magicTCG
 ---
