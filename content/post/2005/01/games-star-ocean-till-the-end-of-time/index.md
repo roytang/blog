@@ -1,6 +1,11 @@
 ---
 categories: []
 date: 2005-01-23 06:00:31
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Star Ocean: Till the End of Time (PS2)'
 source: roywantsmeat
 syndicated:
 - type: blogger
@@ -36,4 +41,4 @@ I realize this is a really petty thing to note, but when you start playing the b
 
 The other bad thing is: bad endings. Well, I wasn't expecting much given that the story wasn't that good anyway, but eh? The general ending wasn't much more than "Hey, we're still alive! Cool!", and the individual endings were a bit sleepy. Or maybe it was just the lackluster music playing during the endings? 
 
-Overall though, a decidedly good game, one I'm going to try to finish at least two more times, and a worthy end to the Star Ocean series. Looking forward to Tri-Ace's next series...  </p> 
+Overall though, a decidedly good game, one I'm going to try to finish at least two more times, and a worthy end to the Star Ocean series. Looking forward to Tri-Ace's next series...  </p>

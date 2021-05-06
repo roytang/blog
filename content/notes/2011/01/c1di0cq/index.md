@@ -9,6 +9,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/AskReddit/comments/f5sxx/whats_the_best_accidental_word_youve_ever_made/c1di0cq/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/28229992273944576/
 tags:
 - AskReddit
 ---
