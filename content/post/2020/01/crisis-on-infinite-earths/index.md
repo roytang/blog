@@ -1,5 +1,10 @@
 ---
 date: 2020-01-17
+reviews:
+- description: ''
+  media: tv
+  rating: 0.0
+  title: 'Arrowverse: Crisis on Infinite Earths'
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1218003335577571328/

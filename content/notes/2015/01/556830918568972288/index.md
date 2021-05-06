@@ -1,5 +1,10 @@
 ---
-date: 2015-01-18 15:10:11+00:00
+date: 2015-01-18 15:10:11
+reviews:
+- description: ''
+  media: tv
+  rating: 0.0
+  title: Batman Beyond
 source: twitter
 syndicated:
 - type: twitter

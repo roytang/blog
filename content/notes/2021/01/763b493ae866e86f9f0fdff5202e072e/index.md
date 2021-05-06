@@ -6,6 +6,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/105575351488268916
 - type: twitter
   url: https://twitter.com/roytang/statuses/1351056807565922304/
+tags:
+- survey
 title: 2020 movie survey
 ---
 

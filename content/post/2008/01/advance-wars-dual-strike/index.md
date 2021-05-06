@@ -8,6 +8,7 @@ reviews:
   title: 'Advance Wars: Dual Strike (NDS)'
 tags:
 - Gaming
+- games
 title: 'Advance Wars: Dual Strike'
 type: post
 url: /2008/01/advance-wars-dual-strike/

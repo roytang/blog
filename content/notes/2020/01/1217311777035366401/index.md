@@ -1,9 +1,5 @@
 ---
 date: 2020-01-15 05:05:18
-reviews:
-- description: Spoiler-free review
-  media: tv
-  title: 'Arrowverse: Crisis on Infinite Earths'
 source: twitter
 syndicated:
 - type: twitter
