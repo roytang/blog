@@ -2,6 +2,12 @@
 author: roy
 categories: []
 date: 2017-02-18 01:30:22
+dontinlinephotos: true
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Duelyst (Steam)
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/157377150285/review-duelyst
@@ -14,7 +20,6 @@ tags:
 title: 'Review: Duelyst'
 type: post
 url: /2017/02/review-duelyst/
-dontinlinephotos: true
 ---
 
 After [Hearthstone][1], I tried out a couple of other digital CCGs: [Spellweaver][2] and [Eternal][3], but neither one hooked me. The one I enjoyed the most and did pick up to play regularly was [Duelyst][4]. So this review is written from the perspective of someone who has played both Magic the Gathering (MTG) and Hearthstone (HS).
@@ -85,4 +90,3 @@ Duelyst is still a young game -- the second expansion just came out last Decembe
  [2]: http://store.steampowered.com/app/429680/
  [3]: http://store.steampowered.com/app/531640/
  [4]: https://duelyst.com/
- 
