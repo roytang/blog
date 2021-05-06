@@ -17,6 +17,7 @@ tags:
 - Review
 - ccgs
 - Gaming
+- games
 title: 'Review: Duelyst'
 type: post
 url: /2017/02/review-duelyst/
