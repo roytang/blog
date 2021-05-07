@@ -9,9 +9,7 @@ source: pocket
 syndicated:
 - type: pocket
   url: https://webdevlaw.uk/2021/01/30/why-generation-x-will-save-the-web/
-- type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/105662096088719523
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1356608463393222656/
+  url: https://twitter.com/roytang/statuses/1356230925277822976/
 title: Why Generation X will save the web
 ---
