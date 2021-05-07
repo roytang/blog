@@ -8,6 +8,7 @@ reviews:
   title: 'Star ocean: Second Evolution'
 tags:
 - Gaming
+- games
 title: 'Star Ocean: Second Evolution'
 type: post
 url: /2009/02/star-ocean-second-evolution/
