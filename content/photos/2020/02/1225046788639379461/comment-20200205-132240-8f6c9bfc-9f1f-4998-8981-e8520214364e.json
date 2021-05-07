@@ -1,0 +1,9 @@
+{
+  "id": "8f6c9bfc-9f1f-4998-8981-e8520214364e",
+  "name": "Kenny The Kilt \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+  "url": "https://twitter.com/Kenny_The_Kilt",
+  "text": "[@roytang](https://twitter.com/roytang/) https://twitter.com/morkenthemonk/status/1225046140716011525?s=21 \n\n{{% quoted url=\"https://twitter.com/Kenny_The_Kilt/status/1225046140716011525\" label=\"Kenny_The_Kilt's tweet\" %}}\n\nWindows 10 Search Blank FIX !!!\n\nRegedit - HKCU\\Software\\Microsoft\\Windows\\\\CurrentVersion\\Search - New DWORD \u2018BingSearchEnabled\u2019 - value 0 - Reboot\n\n#microsoft #Windows10 #search #blank #borked #fix\n\n{{% /quoted %}}",
+  "date": "2020-02-05 13:22:40",
+  "photo": "https://pbs.twimg.com/profile_images/1380283232072167426/Jfr_eU6W_normal.jpg",
+  "source_url": "https://twitter.com/Kenny_The_Kilt/status/1225047086762266627/"
+}
