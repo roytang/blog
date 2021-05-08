@@ -1,6 +1,11 @@
 ---
 categories: []
 date: 2005-02-16 11:01:00
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Legend of Zelda: The Minish Cap (GBA)'
 source: roywantsmeat
 syndicated:
 - type: blogger
