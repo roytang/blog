@@ -2,8 +2,14 @@
 author: roy
 categories: []
 date: 2008-02-11 15:53:38
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Advance Wars: Days of Ruin (NDS)'
 tags:
 - Gaming
+- games
 title: 'Advance Wars: Days of Ruin'
 type: post
 url: /2008/02/advance-wars-days-of-ruin/

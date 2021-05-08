@@ -1,5 +1,10 @@
 ---
 date: 2018-02-12 12:02:02
+reviews:
+- description: ''
+  media: tv
+  rating: 0.0
+  title: Star Trek Discovery season 1
 source: twitter
 syndicated:
 - type: twitter

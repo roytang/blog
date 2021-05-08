@@ -7,9 +7,13 @@ tags:
 title: Looking Out Over Punta Fuego
 type: post
 url: /2006/02/looking-out-over-punta-fuego/
+syndicated:
+- type: flickr
+  url: https://www.flickr.com/photos/zroytang/99236843/
+dontinlinephotos: true
 ---
 
-{{< photo "2006/02/99236843/" >}}
+{{< img src="looking-out-over-punta-fuego_99236843_o.jpg" >}}
 
 <p>
   This is the photo I decided to put on the front page of http://roytang.net while I wasn't sure yet what to put there.
