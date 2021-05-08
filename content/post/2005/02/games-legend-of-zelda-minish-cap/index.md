@@ -12,6 +12,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2005/02/games-legend-of-zelda-minish-cap.html
 tags:
 - Gaming
+- games
 title: 'Games: Legend of Zelda -- Minish Cap'
 type: post
 url: /2005/02/games-legend-of-zelda-minish-cap/

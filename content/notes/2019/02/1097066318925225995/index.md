@@ -3,7 +3,7 @@ date: 2019-02-17 09:32:47+00:00
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1097066318925225995/
+  url: https://twitter.com/roytang/status/1097066318925225995/
 tags:
 - agentmlovestoyfair
 ---
