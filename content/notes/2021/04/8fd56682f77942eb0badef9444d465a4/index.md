@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1380495489313906695/
 tags:
 - movies
+- jamesbond
 title: Diamonds are Forever (1971)
 ---
 
