@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152107704973912
 tags:
 - gaming
+- games
 ---
 
 That borderlands 2 final boss was intense and chaotic
