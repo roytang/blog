@@ -1,0 +1,30 @@
+{
+  "id": "5621d478-e8b0-4019-8c71-7d4a5c9e294d",
+  "name": "paulcapewell.com",
+  "url": "https://paulcapewell.com/2021/05/10/opml-files-of-yesteryear-audio-post/",
+  "text": "Mentioned by https://paulcapewell.com/2021/05/10/opml-files-of-yesteryear-audio-post/",
+  "date": "2021-05-10 10:05:27",
+  "photo": "",
+  "source_url": "https://paulcapewell.com/2021/05/10/opml-files-of-yesteryear-audio-post/",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://paulcapewell.com/2021/05/10/opml-files-of-yesteryear-audio-post/",
+    "published": null,
+    "wm-received": "2021-05-10T10:05:27Z",
+    "wm-id": 1150192,
+    "wm-source": "https://paulcapewell.com/2021/05/10/opml-files-of-yesteryear-audio-post/",
+    "wm-target": "https://roytang.net/2021/04/blogs-of-yesteryear-2/",
+    "mention-of": "https://roytang.net/2021/04/blogs-of-yesteryear-2/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://paulcapewell.com/2021/05/10/opml-files-of-yesteryear-audio-post/"
+    }
+  }
+}

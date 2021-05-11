@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1369939802305437698/
 tags:
 - movies
+- jamesbond
 title: ''
 ---
 
