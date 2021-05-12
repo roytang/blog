@@ -16,6 +16,7 @@ syndicated:
 tags:
 - timeline-photos
 - gaming
+- games
 ---
 
 So I managed to "platinum" Rocket League on Steam (all nonDLC achievements) despite not being very good at it. Goes to show how easy it is to get into, but I guess I'm done with the game for now
