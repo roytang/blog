@@ -13,4 +13,4 @@ tags:
 - flipboard
 ---
 
-This is basically what being an adult is like [r/funny] http://imgur.com/Kdtnhs6 #reddit #flipboard
+This is basically what being an adult is like [r/funny] http://imgur.com/Kdtnhs6.png #reddit #flipboard

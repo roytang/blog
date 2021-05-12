@@ -1,8 +1,14 @@
 ---
 categories: []
 date: 2009-03-02 14:46:17
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Street Fighter IV (PS3)
 tags:
 - Gaming
+- games
 title: 'Street Fighter IV: The Answer Lies in the Heart of Battle'
 type: post
 url: /2009/03/street-fighter-iv-the-answer-lies-in-the-heart-of-battle/
