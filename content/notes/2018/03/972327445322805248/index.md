@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/972327445322805248/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156480655088912
+tags:
+- tv
 ---
 
 Jessica Jones S2: In which dark things happen and everyone crosses lines they shouldn't cross

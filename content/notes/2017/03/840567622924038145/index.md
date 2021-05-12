@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155437454538912
 tags:
 - popquiz
+- quiznight
 ---
 
 Ugh I flubbed the Final Fantasy MVP round :( #popquiz

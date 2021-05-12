@@ -1,4 +1,6 @@
 ---
+albums:
+- food
 date: 2015-03-10 22:45:00
 source: facebook
 syndicated:

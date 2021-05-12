@@ -14,6 +14,7 @@ syndicated:
 tags:
 - popquiz
 - hungrymeeples
+- quiznight
 ---
 
 2nd place at #popquiz #hungrymeeples (and random pickup of classic dc crossover)
