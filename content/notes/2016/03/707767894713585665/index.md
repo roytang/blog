@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/707767894713585665/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154424175838912
+tags:
+- lyrics
 ---
 
 "All lies and jest, still a man hears what he wants to hear and disregards the rest" - Simon and Garfunkel
