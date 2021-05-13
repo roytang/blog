@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1392827143109832705/
 - type: twitter
   url: https://twitter.com/roytang/status/1392827238605750276/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/nbc8tc/may_13th_shocked_snoopy_surveys_sensual_snowmen/gxz4l0t/
 tags:
 - sketchdaily
 ---
