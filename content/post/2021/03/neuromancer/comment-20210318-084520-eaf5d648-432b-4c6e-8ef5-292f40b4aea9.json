@@ -6,26 +6,5 @@
   "date": "2021-03-18 08:45:20",
   "photo": "https://webmention.io/avatar/pbs.twimg.com/ec05277924a7e191fef1c99f11ee1831a373090ef0f07d4fd7dab4bd3387933e.jpg",
   "source_url": "https://twitter.com/paulcatiang/status/1372469153173438465",
-  "source_obj": {
-    "type": "entry",
-    "author": {
-      "type": "card",
-      "name": "Paul Catiang, Pandemic Year Two Edition",
-      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec05277924a7e191fef1c99f11ee1831a373090ef0f07d4fd7dab4bd3387933e.jpg",
-      "url": "https://twitter.com/paulcatiang"
-    },
-    "url": "https://twitter.com/paulcatiang/status/1372469153173438465",
-    "published": "2021-03-18T08:45:20+00:00",
-    "wm-received": "2021-03-18T08:50:43Z",
-    "wm-id": 1079472,
-    "wm-source": "https://brid.gy/comment/twitter/roytang/1372380264005914625/1372469153173438465",
-    "wm-target": "https://roytang.net/2021/03/neuromancer/",
-    "content": {
-      "html": "Oh, I count years been reading Neuromancer and Count Zero. Feels like there was a hump I needed to get over. \ud83d\ude01\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
-      "text": "Oh, I count years been reading Neuromancer and Count Zero. Feels like there was a hump I needed to get over. \ud83d\ude01"
-    },
-    "in-reply-to": "https://roytang.net/2021/03/neuromancer/",
-    "wm-property": "in-reply-to",
-    "wm-private": false
-  }
+  "reply_to": "https://twitter.com/paulcatiang/status/1372383771358502917/"
 }
