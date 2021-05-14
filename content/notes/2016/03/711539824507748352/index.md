@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/711539824507748352/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154457497168912
+tags:
+- mardebate
 ---
 
 How people performed in this debate for me, from best to worst:

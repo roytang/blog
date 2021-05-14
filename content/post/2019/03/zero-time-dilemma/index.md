@@ -2,6 +2,12 @@
 author: roy
 categories: []
 date: 2019-03-20 05:56:56
+dontinlinephotos: true
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Zero Time Dilemma (Vita)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1108247376584675328/
@@ -10,7 +16,6 @@ tags:
 - Gaming
 title: Zero Time Dilemma
 type: post
-dontinlinephotos: true
 ---
 
 With the [PS Vita recently being discontinued by Sony](/2019/03/rip-ps-vita/), I decided to work on reducing my Vita backlog a bit. One of the games I'd been meaning to play for a while now was Zero Time Dilemma, the third game in the Nonary Games trilogy. I've only previously played the 2nd game in the series, Virtue's Last Reward, which is a bit appropriate given how the events in these games often unfold nonlinearly. 

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/711536218454892544/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154457457333912
+tags:
+- mardebate
 ---
 
 Duterte asks Poe a practical question

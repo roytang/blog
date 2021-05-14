@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/711522571640905728/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154457368993912
+tags:
+- mardebate
 ---
 
 "Kaya ko pigilan ang krimen!"

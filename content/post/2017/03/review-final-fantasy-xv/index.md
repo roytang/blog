@@ -1,7 +1,16 @@
 ---
+album:
+- gaming
+albums:
+- gaming
 author: roy
 categories: []
 date: 2017-03-18 01:30:41
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Final Fantasy XV (PS4)
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/158531276530/review-final-fantasy-xv
@@ -10,8 +19,6 @@ syndicated:
 tags:
 - Review
 - Gaming
-album:
-- gaming
 title: 'Review: Final Fantasy XV'
 type: post
 url: /2017/03/review-final-fantasy-xv/

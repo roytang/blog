@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154454359888912
 tags:
 - daredevil
+- quotes
 ---
 
 We don't get to pick the things that fix us #daredevil
