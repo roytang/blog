@@ -8,7 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/842462135724654592/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155452138493912
 title: ''
+tags:
+- quotes
 ---
 
 Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.

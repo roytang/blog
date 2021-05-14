@@ -1,5 +1,5 @@
 ---
-date: 2017-03-17 12:35:40+00:00
+date: 2017-03-17 12:35:40
 repost_source:
   name: GreatestQuotes
   type: twitter
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/842716060377796609/
 tags:
 - StPatricksDay
+- quotes
 title: ''
 ---
 
