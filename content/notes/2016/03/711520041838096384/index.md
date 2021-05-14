@@ -1,7 +1,9 @@
 ---
-date: 2016-03-20 11:49:32
+date: 2016-03-20 19:07:00+08:00
 source: twitter
 syndicated:
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154457294728912
 - type: twitter
   url: https://twitter.com/roytang/status/711520041838096384/
 - type: twitter
@@ -30,6 +32,8 @@ syndicated:
   url: https://twitter.com/roytang/status/711539824507748352/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154457497168912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154457562408912
 - type: twitter
   url: https://twitter.com/roytang/status/711543164302000128/
 - type: twitter
@@ -38,7 +42,9 @@ tags:
 - pilipinasdebates2016
 ---
 
-Duterte not answering the question as usual
+This debate format is much more exciting lol.
+
+[19:49] Duterte not answering the question as usual
 
 [19:55] "Kung hindi ka marunong pumatay ng tao, hindi ka pwede maging presidente." This is why I can't accept this guy
 

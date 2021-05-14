@@ -6,7 +6,8 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/550d5110498eea3210a699bc
-tags: []
+tags:
+- mtg
 ---
 
 DTK prerelease in Spanish! (@Librería Gigamesh C de Bailén 8)
