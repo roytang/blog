@@ -14,6 +14,7 @@ syndicated:
 tags:
 - vita
 - Gaming
+- games
 title: Zero Time Dilemma
 type: post
 ---

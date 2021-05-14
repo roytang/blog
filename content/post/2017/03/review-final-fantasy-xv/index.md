@@ -19,6 +19,7 @@ syndicated:
 tags:
 - Review
 - Gaming
+- games
 title: 'Review: Final Fantasy XV'
 type: post
 url: /2017/03/review-final-fantasy-xv/
