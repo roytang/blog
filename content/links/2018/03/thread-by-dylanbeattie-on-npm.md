@@ -12,4 +12,8 @@ source: pocket
 title: "Thread by @dylanbeattie: \"When npm was first released in 2010, the release\
   \ cycle for typical nodeJS package was 4 months, and npm restore took 15-30 seconds\
   \ on an ave [\u2026]\""
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/977048623165919235/
 ---
+

@@ -4,11 +4,11 @@ reply_to:
   label: rocketkeis's tweet
   name: rocketkeis
   type: twitter
-  url: https://twitter.com/rocketkeis/statuses/10910085309/
+  url: https://twitter.com/rocketkeis/status/10910085309/
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/10915415290/
+  url: https://twitter.com/roytang/status/10915415290/
 ---
 
 [@rocketkeis](https://twitter.com/rocketkeis/) guppy!
