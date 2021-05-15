@@ -1,5 +1,6 @@
 ---
 date: 2021-05-15 06:44:11
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
@@ -14,10 +15,11 @@ syndicated:
   url: https://twitter.com/roytang/status/1393503944974901251/
 - type: twitter
   url: https://twitter.com/roytang/status/1393504227658399749/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106238705843447233
 tags:
 - onepiece
 title: 'Saturday Afternoon Activity: Assembling a One Piece ship!'
-dontinlinephotos: true
 ---
 
 (This was originally a twitter thread, I promoted it to a blog post.)
