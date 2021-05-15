@@ -10,6 +10,8 @@ syndicated:
   url: https://mastodon.technology/@roytang/103886225375953581
 - type: instagram
   url: https://www.instagram.com/p/B-LITtKB_wO/
+tags:
+- survey
 title: ''
 ---
 

@@ -7,11 +7,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/315866889219874816/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/603074006388963
+tags:
+- favorites
+- quiznight
 title: Scenes from a Quiz Night
 type: post
 url: /2013/03/scenes-from-a-quiz-night/
-tags:
-- favorites
 ---
 
 **Wednesday, March 20, 7:56pm** We were four of us walking down the barely lit passage on the side of the building. The guard had lazily pointed us to a large open door near the back of the building. The interior was a studio-type area and there was a group of three women dressed in white who had arrived ahead of us and we followed them up a narrow set of stairs to an elevated lounge area with chairs and tables. We recognized some of the faces already there so we knew we were in the right place. No, we weren't there for some illicit meetup of any sort; we were there to participate in something a bit more geeky. We were here for a quiz night.
@@ -47,4 +48,3 @@ Ah well, we're used to not winning anyway. Yet we still keep coming back to quiz
 =============================
 
 This might be the longest post I've ever written. Here are the answers to trivia questions marked in the post body:
-
