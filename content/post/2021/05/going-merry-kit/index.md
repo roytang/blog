@@ -23,6 +23,7 @@ dontinlinephotos: true
 (This was originally a twitter thread, I promoted it to a blog post.)
 
 Gonna attempt this today. I have poor manual dexterity so I expect it to be terrible #onepiece
+<!--more-->
 
 {{< gallery >}}
 {{< img src="1_1393457163608018947_E1aN4WWVcAUEOjs.jpg" >}}
