@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150123588668912
-tags: []
+tags:
+- quiznight
 ---
 
 Tonight's score: 45/110. Yes, it was bad. =/
