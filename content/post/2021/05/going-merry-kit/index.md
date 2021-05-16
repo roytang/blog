@@ -59,3 +59,5 @@ I realized I didnt have a place to display it, so I had to clear out a hole. Any
 {{< img src="E1a4c7qUcAU_lP4.jpg" >}}
 
 This was Going Merry from the One Piece Grand Ship collection. I actually got this kit waaay back in 2017 from the now-defunct One Piece exhibit at the Tokyo Tower in Japan, took me forever to decide to put it together (because I knew I would be terrible at it lol)
+
+I will admit the actual ship turned out a bit smaller than I thought it would be. And a number of the parts are a bit loose and don't snap on super tightly, so the final figure can be a bit fragile (one of Merry's horns fell off while I was positioning it on the shelf!) Might eventually decide to glue some of the pieces in.
