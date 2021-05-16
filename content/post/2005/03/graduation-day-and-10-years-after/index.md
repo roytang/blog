@@ -17,7 +17,7 @@ I'm incoherent. It might be because I've been reading the [Sluggy Freelance][1]
 
 The graduation ceremony was mostly boring. I think most are, unless you're one of the graduates. Or one of the graduates' parents. Or one of those CAT guys who stops people with digital cameras from getting too close. Too bad I forgot to charge the digital camera batteries before going, or else we would have actually had more than five pictures.
 
-The commencement speaker was some guy from batch '69 [1] with lots of degrees, awards and accolades. I swear, if I ever become commencement speaker, I'm gonna be really easy to introduce, since I won't have so much crap attached to my name. But you never know what might happen in 16 years [2].
+The commencement speaker was some guy from batch '69 {{< footnote >}}first Pisay batch ever. They had a 5-year curriculum then.{{< /footnote >}} with lots of degrees, awards and accolades. I swear, if I ever become commencement speaker, I'm gonna be really easy to introduce, since I won't have so much crap attached to my name. But you never know what might happen in 16 years {{< footnote >}}Figure it out.{{< /footnote >}}.
 
 The commencement speech was dull, the usual thing commencement speakers say, talking about the graduate's future, the uncertainty, the excitement blah blah blah. If I was the one giving a commencement speech (I have a feeling this blog post will be a basis for my never ever getting that chance), I'd probably talk less about hard work and more about passion. Hard work is nice, but it's passion, drive, energy that gets you places.
 
@@ -29,11 +29,8 @@ The PSHS Gymnasium is an unforgiving boiling kettle of intolerable heat, especia
 
 Edit: I'm a moron. I really was incoherent. I forgot I was going to talk about the ten years after part until I saw the title published on the page itself.
 
-Anyway, yeah. Ten years. It's been ten years since I left Pisay to face the cruel world. And where am I now? No earth-shaking accomplishments yet? It's like when we were graduating, things were exciting, we were going out to conquer a brave new world! Maybe [peng][2]was right, ten years might just be too short to "Stand tall and shake the heavens" [3] At least, I haven't heard of anyone else in the batch stunning the world with their brilliance yet, so I guess I'm not behind, yet.
+Anyway, yeah. Ten years. It's been ten years since I left Pisay to face the cruel world. And where am I now? No earth-shaking accomplishments yet? It's like when we were graduating, things were exciting, we were going out to conquer a brave new world! Maybe [peng][2] was right, ten years might just be too short to "Stand tall and shake the heavens" {{< footnote >}}(3 points for getting that reference){{< /footnote >}} At least, I haven't heard of anyone else in the batch stunning the world with their brilliance yet, so I guess I'm not behind, yet.
 
-<div>
-  [1] first Pisay batch ever. They had a 5-year curriculum then.<br /> [2] Figure it out.<br /> [3] (3 points for getting that reference)
-</div>
 
  [1]: http://sluggy.com/index.php
  [2]: http://beautiful-rookery.blogspot.com/
