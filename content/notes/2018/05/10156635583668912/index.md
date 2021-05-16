@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156635583668912
-tags: []
+tags:
+- survey
 ---
 
 Survey: Boboto ba kayo sa barangay elections?

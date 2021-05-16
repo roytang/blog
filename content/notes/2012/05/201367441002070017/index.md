@@ -4,11 +4,11 @@ reply_to:
   label: jannemans's tweet
   name: jannemans
   type: twitter
-  url: https://twitter.com/jannemans/statuses/201367293538738176/
+  url: https://twitter.com/jannemans/status/201367293538738176/
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/201367441002070017/
+  url: https://twitter.com/roytang/status/201367441002070017/
 ---
 
 @Jannemans move through the staff page using knight moves
