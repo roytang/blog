@@ -1,6 +1,11 @@
 ---
-date: 2021-05-16T13:37:30+08:00
+date: 2021-05-16 05:37:30
 slug: weeknotes-2021-05-16
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106243615185949695
+- type: twitter
+  url: https://twitter.com/roytang/status/1393825684171083779/
 tags:
 - weeknotes
 - covid19
