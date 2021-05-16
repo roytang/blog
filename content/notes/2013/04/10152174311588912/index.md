@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152174311588912
-tags: []
+tags:
+- mama
 ---
 
 Me: Ma, iboboto mo ba si Bam Aquino? 

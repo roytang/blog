@@ -1,5 +1,10 @@
 ---
-date: 2020-04-03 11:19:54+00:00
+date: 2020-04-03 11:19:54
+reviews:
+- description: ''
+  media: tv
+  rating: 0.0
+  title: 'Star Trek: Picard season 1'
 source: twitter
 syndicated:
 - type: twitter
