@@ -12,6 +12,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2005/04/games-timesplitters-iii.html
 tags:
 - Gaming
+- games
 title: 'Games: Timesplitters III'
 type: post
 url: /2005/04/games-timesplitters-iii/

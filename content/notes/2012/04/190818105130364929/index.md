@@ -1,5 +1,5 @@
 ---
-date: 2012-04-13 15:05:56+00:00
+date: 2012-04-13 15:05:56
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - geekfight
 - fb
+- quiznight
 ---
 
 Tz and obijuan got 10 points sa bible cat! #geekfight #fb
