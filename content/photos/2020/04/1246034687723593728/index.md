@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1246034687723593728/
+tags:
+- tv
 title: ''
 ---
 

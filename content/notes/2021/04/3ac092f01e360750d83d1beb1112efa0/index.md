@@ -6,6 +6,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106022447488959584
 - type: twitter
   url: https://twitter.com/roytang/statuses/1379670951730667521/
+tags:
+- quotes
 title: ''
 ---
 

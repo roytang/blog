@@ -1,8 +1,14 @@
 ---
 categories: []
 date: 2007-04-07 08:30:07
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Phoenix Wright: Ace Attorney (NDS)'
 tags:
 - Gaming
+- games
 title: 'Phoenix Wright: Ace Attorney (NDS)'
 type: post
 url: /2007/04/phoenix-wright-ace-attorney-nds/
