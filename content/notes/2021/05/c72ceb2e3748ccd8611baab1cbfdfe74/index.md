@@ -6,6 +6,8 @@ reviews:
   rating: 0.0
   title: What Matters Now by Seth Godin
 source: form
+tags:
+- books
 title: What Matters Now by Seth Godin
 ---
 
