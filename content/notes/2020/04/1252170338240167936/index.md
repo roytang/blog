@@ -1,20 +1,15 @@
 ---
-date: 2020-04-20 09:40:47
+date: 2020-04-20 11:48:44+00:00
+reply_to:
+  label: roytang's tweet
+  name: roytang
+  type: twitter
+  url: https://twitter.com/roytang/status/1252170338240167936/
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1252170338240167936/
-- type: twitter
-  url: https://twitter.com/roytang/statuses/1252202539673464834/
-tags:
-- mtgiko
-- twitch
-- magicarena
-- mtg
-title: ''
+  url: https://twitter.com/roytang/status/1252202539673464834/
 ---
-
-Ikoria draft no. 5 https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #mtgiko
 
 this was the worst draft so far, but a lot of it was due to all my misplays D:
 
