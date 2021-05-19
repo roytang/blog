@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/721434680071823360/
 tags:
 - gaming
+- games
 ---
 
 Finally managed to get that 4 of a kind. Now I can quit this game lol
