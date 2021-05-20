@@ -5,6 +5,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106135992759236410
 - type: twitter
   url: https://twitter.com/roytang/statuses/1386937848708829189/
+- type: twitter
+  url: https://twitter.com/roytang/status/1395287408707391488/
 tags:
 - gamedev
 title: 'Ludum Dare 48: Diver'
@@ -82,3 +84,5 @@ My biggest takeaway is that I learned how to build something with as small a sco
 I did enjoy the experience, no matter the outcome, I've already exceeded my own expectations. I expect to try my hand at game jams again moving forward. Building experience by making a series of small games might be a better way for me to find a path into "real" gamedev. That is, as opposed to "hobbyist" gamedev, which is the new level I consider myself at now that I've completed a Ludum Dare!
 
 Some screenshots of the game attached below!
+
+May 20th: The results from the Ludum Dare came out yesterday! Unfortunately, I didn't even crack the top 10 lol. Still, pretty decent finish (out of like 800+ participants) considering it was my first game jam and I had very little experience. Looking forward to the next one!
