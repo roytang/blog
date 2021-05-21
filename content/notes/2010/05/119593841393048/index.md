@@ -1,5 +1,5 @@
 ---
-date: 2010-05-03 22:19:00
+date: 2010-05-03 22:19:00+08:00
 source: facebook
 syndicated:
 - type: facebook
@@ -17,4 +17,6 @@ Guy: I see, naalala mo ba pangalan?
 
 Alvin: Hindi eh Guy: Was it a guy or a girl? 
 
-Alvin: Guy Guy: Was it me?!?
+Alvin: Guy 
+
+Guy: Was it me?!?

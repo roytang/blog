@@ -24,4 +24,5 @@ The core of the plot revolves around linguistics, history, archaeology, computer
 
 The book's title "Snow Crash" is the name of a digital "drug" that the bad guy distributes throughout the Metaverse to target hackers. The drug is actually a digital image of random black and white bits (a bit like what a TV/monitor looks like when it loses a signal in those days, literally a crash that looks like snow) that affects hackers' brains in a certain way. I guess I shouldn't spoil any more.
 
-My one complaint would be the ending felt abrupt, although everything was wrapped up neatly, it all happened mostly outside the purview of our protagonists. I do like it more than Cryptonomicon, which was a later book of his (published in 1999). This one felt easier to grok.
+My one complaint would be the ending felt abrupt, although everything was wrapped up neatly, it all happened mostly outside the purview of our protagonists. I do like it more than Cryptonomicon, which was a later book of his (published in 1999). This one felt easier to grok. 
+

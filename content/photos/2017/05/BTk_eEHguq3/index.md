@@ -1,6 +1,7 @@
 ---
 albums:
 - instagram
+- pickups
 date: 2017-05-01 22:20:00
 location: ''
 source: instagram
@@ -11,7 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/859276292071542784/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155588538263912
-tags: []
+tags:
+- pickups
 ---
 
 Welp

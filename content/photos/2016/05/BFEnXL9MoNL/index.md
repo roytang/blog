@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154581784063912:0
 tags:
 - geekfight
+- quiznight
 ---
 
 3rd place bottle of win! #geekfight

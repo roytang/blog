@@ -1,6 +1,7 @@
 ---
 albums:
 - instagram
+- pickups
 date: 2016-05-05 23:02:12
 location: ''
 source: instagram

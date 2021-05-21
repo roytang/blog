@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/118761854814990
-tags: []
+tags:
+- mama
 ---
 
 Alvin: Ma, tama na Scrabble, pagamit ng PC 
