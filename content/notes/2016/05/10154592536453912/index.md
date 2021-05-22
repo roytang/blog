@@ -8,7 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154593543203912
 - type: twitter
   url: https://twitter.com/roytang/statuses/731574175865823232/
-tags: []
+tags:
+- mama
 ---
 
 Overheard sa bahay: "Eto ba yung bagong Windows? Yung may bintana?"

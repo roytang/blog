@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/994805622066597888/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156630008928912
+tags:
+- quotes
 ---
 
 “Let us realize the arc of the moral universe is long, but it bends toward justice.” - Martin Luther King Jr
