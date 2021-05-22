@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/332975974146772993/
+tags:
+- tv
 ---
 
 Community's ending wasnt very good =/
