@@ -13,6 +13,7 @@ tags:
 - magicarena
 - twitch
 - strixhaven
+- mtgstrixhaven
 ---
 
 Wednesday afternoon Strixhaven draft(s?)! https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #strixhaven
