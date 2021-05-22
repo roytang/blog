@@ -12,7 +12,6 @@ tags:
 - mtg
 - magicarena
 - twitch
-- strixhaven
 - mtgstrixhaven
 ---
 
