@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152227590483912
 tags:
 - gaming
+- games
 ---
 
 Just finished Mass Effect 3...I understand the hullabaloo about the ending now; wth was that?
