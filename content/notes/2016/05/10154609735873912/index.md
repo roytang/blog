@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154609735873912
-tags: []
+tags:
+- survey
 ---
 
 Survey: tag ulan or tag araw?

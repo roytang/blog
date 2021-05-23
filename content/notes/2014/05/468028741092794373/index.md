@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/468028741092794373/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152968103493912
+tags:
+- quotes
 ---
 
 “We must be willing to let go of the life we planned so as to have the life that is waiting for us.” 

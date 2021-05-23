@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/999290778751942657/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156656036253912
+tags:
+- survey
 ---
 
 Survey: Who is the greatest fictional villain of all time?
