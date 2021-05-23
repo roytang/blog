@@ -1,6 +1,11 @@
 ---
-date: 2021-05-23T12:53:08+08:00
+date: 2021-05-23 04:53:08
 slug: weeknotes-2021-05-23
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106284070944580029
+- type: twitter
+  url: https://twitter.com/roytang/status/1396414854643150849/
 tags:
 - weeknotes
 - covid19
@@ -62,4 +67,3 @@ It's the last week of May (more or less), and I'm mostly looking forward to a ne
 ### This coming week:
 
 - Modern Horizons 2 spoilers (not that I expect to be playing Modern any time soon)
-
