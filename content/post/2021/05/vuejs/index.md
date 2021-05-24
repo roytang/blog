@@ -1,8 +1,13 @@
 ---
-title: "Thoughts on Vue.js"
-date: 2021-05-24T07:27:00+08:00
+date: 2021-05-23 23:27:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106290687020646217
+- type: twitter
+  url: https://twitter.com/roytang/status/1396838282332303361/
 tags:
 - software development
+title: Thoughts on Vue.js
 ---
 
 I'm not big on modern frontend JavaScript frameworks (mostly because I think web pages should use as little JS as possible), but when I do find the need to use one, my weapon of choice is [Vue.js](https://vuejs.org/). I dislike React, but mostly because (a) my first experience with React was with mobile development using React Native for [mobile app development](/2020/09/mobile-app-dev/), which I generally don't like; and (b) I don't like Facebook, which backs React. I have no opinion on Angular.
