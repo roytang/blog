@@ -1,0 +1,27 @@
+{
+  "id": "3c243379-7382-4cec-baba-0d41f8f7dfd7",
+  "name": "CrowdPower",
+  "url": "https://twitter.com/CrowdPowerHQ",
+  "text": "[CrowdPower](https://twitter.com/CrowdPowerHQ) [liked this](https://twitter.com/roytang/status/1396838282332303361#favorited-by-946868698169729024)",
+  "date": "2021-05-24 19:54:00",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/10296c714f2cf68759b861851dcc466ba0e9d2ba6f68ff77dd957d3f97ee9277.png",
+  "source_url": "https://twitter.com/roytang/status/1396838282332303361#favorited-by-946868698169729024",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "CrowdPower",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/10296c714f2cf68759b861851dcc466ba0e9d2ba6f68ff77dd957d3f97ee9277.png",
+      "url": "https://twitter.com/CrowdPowerHQ"
+    },
+    "url": "https://twitter.com/roytang/status/1396838282332303361#favorited-by-946868698169729024",
+    "published": null,
+    "wm-received": "2021-05-24T19:54:00Z",
+    "wm-id": 1169061,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1396838282332303361/946868698169729024",
+    "wm-target": "https://roytang.net/2021/05/vuejs/",
+    "like-of": "https://roytang.net/2021/05/vuejs/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
