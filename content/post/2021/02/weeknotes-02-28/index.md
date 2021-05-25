@@ -1,5 +1,8 @@
 ---
 date: 2021-02-28 02:01:19
+reviews:
+- media: movies
+  title: Once Upon A Time In Hollywood (2019)
 slug: weeknotes-2021-02-28
 syndicated:
 - type: mastodon
@@ -8,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1365968919589085184/
 tags:
 - weeknotes
+- movies
 title: Weeknotes 2021-02-28
 ---
 
