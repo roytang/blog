@@ -1,6 +1,11 @@
 ---
-title: "Anticipation and Anxiety"
-date: 2021-05-25T12:09:39+08:00
+date: 2021-05-25 04:09:39
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106293911509814453
+- type: twitter
+  url: https://twitter.com/roytang/status/1397044651383607296/
+title: Anticipation and Anxiety
 ---
 
 Peter Rukavina [quotes the *New York Tribune* about how Anticipation is the real thief of joy](https://ruk.ca/content/anticipation-truth-real-thief-joy) (as opposed to [comparison](/2018/11/comparison-is-the-thief-of-joy/)):
