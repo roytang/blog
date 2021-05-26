@@ -1,13 +1,19 @@
 ---
-date: 2021-05-26T15:39:47+08:00
+date: 2021-05-26 07:39:47
 reviews:
 - media: books
   title: Murder on the Orient Express by Agatha Christie
 - media: books
   title: Death on the Nile by Agatha Christie
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106300426837001867
+- type: twitter
+  url: https://twitter.com/roytang/status/1397461630410117120/
 tags:
 - books
-title: 'Book Reviews: Murder on the Orient Express and Death on the Nile by Agatha Chrstie'
+title: 'Book Reviews: Murder on the Orient Express and Death on the Nile by Agatha
+  Chrstie'
 ---
 
 I've not read any Agatha Chrstie, so I thought I'd rectify that by getting into the Hercule Poirot series of books. To start off I chose *Murder on the Orient Express* because [I watched the 2017 movie a couple of years ago](/2019/07/watching-lately-jun-jul-2019/) and *Death on the Nile* because it has a movie coming out next year. I figure it would be a good contrast of movie-first vs book first.
