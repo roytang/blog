@@ -1,0 +1,30 @@
+{
+  "id": "054462a8-9053-4224-97d3-a6a6f56be1a3",
+  "name": "paulcapewell.com",
+  "url": "https://paulcapewell.com/2020/02/26/thoughts-on-blogging-and-blogrolls/",
+  "text": "Mentioned by https://paulcapewell.com/2020/02/26/thoughts-on-blogging-and-blogrolls/",
+  "date": "2021-05-27 11:11:17",
+  "photo": "",
+  "source_url": "https://paulcapewell.com/2020/02/26/thoughts-on-blogging-and-blogrolls/",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://paulcapewell.com/2020/02/26/thoughts-on-blogging-and-blogrolls/",
+    "published": null,
+    "wm-received": "2021-05-27T11:11:17Z",
+    "wm-id": 1172193,
+    "wm-source": "https://paulcapewell.com/2020/02/26/thoughts-on-blogging-and-blogrolls/",
+    "wm-target": "https://roytang.net/page/blogroll/",
+    "mention-of": "https://roytang.net/page/blogroll/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://paulcapewell.com/2020/02/26/thoughts-on-blogging-and-blogrolls/"
+    }
+  }
+}

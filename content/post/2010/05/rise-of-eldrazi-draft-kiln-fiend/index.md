@@ -43,3 +43,5 @@ Here's the final deck:
 
 I easily won rounds one and two of the draft, but lost the finals to an RG deck that had great draws while I didn't have any Kiln Fiend blowouts.
 
+Edit 2021: Looks like the original draft data didn't get preserved here over the server migrations through the years. Might be lost forever.
+
