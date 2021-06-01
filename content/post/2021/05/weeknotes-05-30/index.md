@@ -62,3 +62,5 @@ This year feels like it's passing by very quickly.
 ### This coming week:
 
 - my parents are getting their second vaccine dose this week!
+
+Edit: Oops, originally published this post with some links pointing to localhost. Maybe I should have some post-processing to automatically remove those!
