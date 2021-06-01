@@ -35,13 +35,13 @@ This year feels like it's passing by very quickly.
 
 ### From the archives, this week in history:
 
-- 2017: [Donald Trump plays with a weird orb](http://localhost:8000/2017/05/10155648742978912/)
-- 2013: [Overly sensitive PH officials call out Dan Brown for calling Manila 'gates of hell'](http://localhost:8000/2013/05/338258720603664384/)
+- 2017: [Donald Trump plays with a weird orb](/2017/05/10155648742978912/)
+- 2013: [Overly sensitive PH officials call out Dan Brown for calling Manila 'gates of hell'](/2013/05/338258720603664384/)
 - 2012: [Philippine Chief Justice Corona impeached](/2012/05/cj-corona-impeached/)
-- 2011: [Modern format introduced to MTG](http://localhost:8000/2011/05/74697171097759745/)
-- 2010: [I started using DuckDuckGo!](http://localhost:8000/2010/05/14628258919/)
-- 2006: [X-Men III: The Last Stand](http://localhost:8000/2006/05/x-men-iii-the-last-stand/)
-- 2005: [Revenge of the Sith](http://localhost:8000/2005/05/movies-revenge-of-the-sith/)
+- 2011: [Modern format introduced to MTG](/2011/05/74697171097759745/)
+- 2010: [I started using DuckDuckGo!](/2010/05/14628258919/)
+- 2006: [X-Men III: The Last Stand](/2006/05/x-men-iii-the-last-stand/)
+- 2005: [Revenge of the Sith](/2005/05/movies-revenge-of-the-sith/)
 
 
 ### My stuff:
@@ -56,7 +56,7 @@ This year feels like it's passing by very quickly.
 - **Gaming**:
     - Still playing a bunch of **Horizon Zero Dawn** on PS4 (probably only halfway through the main game content) and [Root](/2021/05/root/) with the regular Saturday group.
     - Been losing a bunch on **Street Fighter V** so I'm taking a break. Been thinking of getting into a different fighting game, preferably one with a more active playerbase so I don't have to spend an hour trying to find more than one opponent. Coincidentally, Guilty Gear Strive comes out in June! We'll see.
-- **Reading**: I finished a [couple of Hercule Poirot books](http://localhost:8000/2021/05/orient-express-nile/) recently. Not yet sure what I'm reading next.
+- **Reading**: I finished a [couple of Hercule Poirot books](/2021/05/orient-express-nile/) recently. Not yet sure what I'm reading next.
 - If you're following my [twitter triviabot](https://twitter.com/triviastorm), I'm planning to reset the scores and start a new season at the end of month (i.e. tomorrow)
 
 ### This coming week:
