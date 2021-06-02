@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-Storefront #sketchdaily for May 30 (still a lot behind!) 149/365
+Storefront #sketchdaily for May 30 (still a lot behind!) 149/365 (Correction: 150/365)
