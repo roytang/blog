@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1400076977722195969/
 - type: twitter
   url: https://twitter.com/roytang/status/1400079689218105345/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/nppkke/june_1st_sneakers/h0b6yrc/
 tags:
 - sketchdaily
 ---
