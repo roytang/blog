@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-May 23, 2021 #sketchdaily 142/365
+May 23, 2021 #sketchdaily 142/365 (Correction: 143/365)

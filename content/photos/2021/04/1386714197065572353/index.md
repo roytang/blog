@@ -18,12 +18,12 @@ tags:
 
 Quick #sketchdaily catchup
 
-Shocked pikachu: 113/365
+Shocked pikachu: 113/365 (Correction: 114/365)
 
 
 
-Bald eagle: 114/365
+Bald eagle: 114/365 (Correction: 115/365)
 
 
 
-Cabbage: 115/365
+Cabbage: 115/365 (Correction: 116/365)

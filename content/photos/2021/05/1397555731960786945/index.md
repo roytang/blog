@@ -12,6 +12,6 @@ tags:
 - sketchdaily
 ---
 
-May 26 #sketchdaily 145/365
+May 26 #sketchdaily 145/365 (Correction: 146/365)
 
 Hey I caught up somehow!

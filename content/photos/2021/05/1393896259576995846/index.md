@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-T-rex 133/365 #sketchdaily
+T-rex 133/365 #sketchdaily (Correction: 134/365)

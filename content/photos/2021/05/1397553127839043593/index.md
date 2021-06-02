@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-May 25: some cat warrior #sketchdaily 144/365
+May 25: some cat warrior #sketchdaily 144/365 (Correction: 145/365)

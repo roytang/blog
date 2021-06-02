@@ -12,6 +12,6 @@ tags:
 - sketchdaily
 ---
 
-Robocop #sketchdaily 117/365
+Robocop #sketchdaily 117/365 (Correction: 118/365)
 
 This is terrible lol. Also I already had to redo it once because I didnt realize at first that the visor covers his nose

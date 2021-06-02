@@ -12,6 +12,6 @@ tags:
 - sketchdaily
 ---
 
-Snoopy shocked by scandalous snowmen #sketchdaily 132/365
+Snoopy shocked by scandalous snowmen #sketchdaily 132/365 (Correction: 133/365)
 
 (I may or may not have reused the Calvin and Hobbes part from an older sketch)

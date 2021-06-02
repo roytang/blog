@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-Chef's kiss #sketchdaily 118/365
+Chef's kiss #sketchdaily 118/365 (Correction: 119/365)

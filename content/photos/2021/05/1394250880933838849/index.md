@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-Vaccination #sketchdaily 135/365
+Vaccination #sketchdaily 135/365 (Correction: 136/365)

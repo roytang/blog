@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-Lazy lemur #sketchdaily 125/365
+Lazy lemur #sketchdaily 125/365 (Correction: 126/365)

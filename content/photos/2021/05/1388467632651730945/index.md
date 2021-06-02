@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-Green goblin #sketchdaily 120/365
+Green goblin #sketchdaily 120/365 (Correction: 121/365)

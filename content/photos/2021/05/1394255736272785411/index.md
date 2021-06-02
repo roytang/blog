@@ -12,6 +12,6 @@ tags:
 - sketchdaily
 ---
 
-Woncer Woman wrestles a wild wombat #sketchdaily 136/365
+Wonder Woman wrestles a wild wombat #sketchdaily 136/365 (Correction: 137/365)
 
-Sigh, typo D:
+Sigh, typo D: (Corrected)

@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-Joyriding jackals in a jumping jeep #sketchdaily 123/365
+Joyriding jackals in a jumping jeep #sketchdaily 123/365 (Correction: 124/365)

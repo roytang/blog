@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-The queen quilting while some quail quarrel #sketchdaily 130/365
+The queen quilting while some quail quarrel #sketchdaily 130/365 (Correction: 131/365)

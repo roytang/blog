@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-Koala knight in a kapsizing kayak #sketchdaily 124/365
+Koala knight in a kapsizing kayak #sketchdaily 124/365 (Correction: 125/365)

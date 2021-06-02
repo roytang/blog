@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-Cottage #sketchdaily 146/365
+Cottage #sketchdaily 146/365 (Correction: 147/365)

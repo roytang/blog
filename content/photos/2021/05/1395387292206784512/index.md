@@ -10,4 +10,4 @@ tags:
 - sketchdaily
 ---
 
-Yoshi #sketchdaily 138/365
+Yoshi #sketchdaily 138/365 (Correction: 139/365)
