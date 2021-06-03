@@ -1,8 +1,13 @@
 ---
-date: 2021-06-04T01:41:03+08:00
+date: 2021-06-03 17:41:03
 reviews:
 - media: books
   title: And Then There Were None by Agatha Christie
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106348143322388433
+- type: twitter
+  url: https://twitter.com/roytang/status/1400515485309968384/
 tags:
 - books
 title: 'Book Review: And Then There Were None by Agatha Chrstie'
