@@ -11,10 +11,6 @@ tags:
 title: Weeknotes 2021-06-06 Anything and Everything All Of The Time
 ---
 
-June is almost upon us, hopefully bringing some respite from the scorching summer heat.
-
-This year feels like it's passing by very quickly.
-
 ### A quote
 
 > "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." -- Ernest Hemingway 
