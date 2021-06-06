@@ -47,6 +47,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### My stuff:
 
+- As of last Thursday, everyone in the household has received their second vaccine dose. Hooray!
 - After my recent [fitbit strap troubles](/2021/05/1396076491021058050/) I had a new problem with it: the charger stopped working! Wasn't really a surprise, since I've been having trouble with it for the past few months. I just immediately ordered a new one, these are way cheaper than a new strap. I did lose a couple of days of Fitbit data before it came in though.
 - After struggling through the terrible summer heat, we finally decided to get our one airconditioner in the house repaired, just in time for the onset of the rainy season. Oh well, at least I saved a lot on the electricity bill which [has historically been very high in May](/2011/06/75920863496646656/)!
 - Still [sketching](/albums/sketchbook/), though I spent most of the week catching up on sketch backlogs from the previous week. I caught up, but I'm a couple behind again today! Anyway, here's a memorial of that time Trump played with an orb:
