@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/15174232562/
 tags:
 - gaming
+- games
 ---
 
 Finished Uncharted!

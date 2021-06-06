@@ -1,6 +1,11 @@
 ---
-date: 2021-06-06T14:15:30+08:00
+date: 2021-06-06 06:15:30
 slug: weeknotes-2021-06-06
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106363903405475600
+- type: twitter
+  url: https://twitter.com/roytang/status/1401524131942658049/
 tags:
 - weeknotes
 title: Weeknotes 2021-06-06 Anything and Everything All Of The Time
