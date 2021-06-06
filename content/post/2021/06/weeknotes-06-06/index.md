@@ -60,7 +60,7 @@ Visit the [Links page](/links/) for more links of interest.
     - Still playing a bunch of **Horizon Zero Dawn** on PS4 and [Root](/2021/05/root/) with the regular Saturday group. I should pick up something new for playing on the PC maybe?
     - Tried to go for Master rank in Eternal at the end of the last month, [failed miserably](/2021/06/1399629350140407812/).
 - **Reading**: I finished [another Agatha Christie book](/2021/06/and-then-there-were-none/) this past week. Not yet sure what to read next. Should probably transition into some nonfiction again?
-- Trivia team recently got into doing the NYT crossword together. Here's [a couple](https://www.youtube.com/watch?v=NHbisLNf5C8&t=89s) [of videos](https://www.youtube.com/watch?v=uRmYf0r6Y4E). Like and subscribe to the Youtube channel!
+- Trivia team joined a sci-fi themed quiz this week but we only finished second. More interestingly, we recently got into doing the NYT crossword together. Here's [a couple](https://www.youtube.com/watch?v=NHbisLNf5C8&t=89s) [of videos](https://www.youtube.com/watch?v=uRmYf0r6Y4E). Like and subscribe to the Youtube channel!
 - Spent some time this weekend working on a personal project that I can't really talk about publicly. I am learning a lot though.
 
 ### This coming week:
