@@ -1,5 +1,10 @@
 ---
 date: 2016-06-02 23:45:00
+reviews:
+- description: ''
+  media: tv
+  rating: 0.0
+  title: Gotham season 2
 source: facebook
 syndicated:
 - type: facebook

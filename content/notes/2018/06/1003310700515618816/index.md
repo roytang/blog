@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1003310700515618816/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156680568208912
+tags:
+- quotes
 ---
 
 “Man is only fully human when he plays!” - Friedrich Schiller

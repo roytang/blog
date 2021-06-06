@@ -8,4 +8,7 @@ link:
 slug: stop-feeding-your-users-shopify-ux
 source: pocket
 title: "Stop \u201Cfeeding\u201D your users - Shopify UX"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1003979530200076288/
 ---

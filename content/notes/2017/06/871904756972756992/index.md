@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/871904756972756992/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155697816238912
+tags:
+- survey
 ---
 
 Survey: Top 5 FAVORITE movies based on comic books (by request)
