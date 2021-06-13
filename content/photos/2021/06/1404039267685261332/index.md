@@ -1,9 +1,11 @@
 ---
-date: 2021-06-13 11:33:41+00:00
+date: 2021-06-13 11:33:41
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1404039267685261332/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/nxbeu5/june_11th_free_draw_friday/h1mdujk/
 tags:
 - sketchdaily
 ---
