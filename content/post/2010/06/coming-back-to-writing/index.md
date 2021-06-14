@@ -11,8 +11,7 @@ url: /2010/06/coming-back-to-writing/
 
 So the other day I was watching a video of [Scott Berkun][1]&#8216;s talk about the future of WordPress:
 
-<embed title="Scott Berkun: WordPress in 2020" src="http://v.wordpress.com/wp-content/plugins/video/flvplayer.swf?ver=1.21" type="application/x-shockwave-flash" width="400" height="224">
-</embed>
+_(Lost flash embed)_
 
 _(Go ahead, watch it first if you like, this blog post will still be here when you get back)_
 

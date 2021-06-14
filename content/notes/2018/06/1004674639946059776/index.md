@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1004674639946059776/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156689619378912
+tags:
+- survey
 ---
 
 Survey: How many things do you have on your keychain?
