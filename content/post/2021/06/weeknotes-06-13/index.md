@@ -1,6 +1,11 @@
 ---
-date: 2021-06-14T12:28:16+08:00
+date: 2021-06-14 04:28:16
 slug: weeknotes-2021-06-13
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106408640210305775
+- type: twitter
+  url: https://twitter.com/roytang/status/1404387285655715848/
 tags:
 - weeknotes
 title: Weeknotes 2021-06-13
