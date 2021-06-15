@@ -1,6 +1,6 @@
 ---
 title: "GMTK Game Jam 2021: Manananggal"
-date: 2021-06-15T23:30:14+08:00
+date: 2021-06-16T00:30:14+08:00
 tags:
 - gamedev
 dontinlinephotos: true
