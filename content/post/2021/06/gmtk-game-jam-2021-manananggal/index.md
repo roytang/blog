@@ -1,9 +1,14 @@
 ---
-title: "GMTK Game Jam 2021: Manananggal"
-date: 2021-06-16T00:30:14+08:00
+date: 2021-06-15 16:30:14
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106415843629803863
+- type: twitter
+  url: https://twitter.com/roytang/status/1404848304987394048/
 tags:
 - gamedev
-dontinlinephotos: true
+title: 'GMTK Game Jam 2021: Manananggal'
 ---
 
 ### The jam
@@ -62,5 +67,3 @@ This makes 2 out of 2 game jams where I've successfully been able to finish and 
 OTOH, I'm a lot older than many of the participants, so I need a lot more sleep. Some of them were talking about working on their submission for like 20-30 hours straight, and I'm like I can't even sit in my chair for more than two hours without needing to lie down for an hour afterwards. So I gotta work smarter to keep up with the young'uns.
 
 For future jams, I'll probably also try to do some other genres instead of side-scrollers which I did for the first 2 jams. Maybe some kind of shooter thingy? Or a match 3? Or maybe I'll study how to do some of the ideas I passed over this time? We'll see! Looking forward to doing more game jams! I think the major one is the next Ludum Dare in October, though I'll also be looking out for other game jam opportunities before then.
-
-
