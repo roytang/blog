@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1404998019938807809/
 - type: twitter
   url: https://twitter.com/roytang/status/1404998021155155968/
+tags:
+- movies
 title: Octopussy (1983)
 ---
 
