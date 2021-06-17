@@ -1,8 +1,13 @@
 ---
-title: "Deleting Old Content"
-date: 2021-06-17T22:52:03+08:00
+date: 2021-06-17 14:52:03
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106426715795047720
+- type: twitter
+  url: https://twitter.com/roytang/status/1405544126267891723/
 tags:
 - tech life
+title: Deleting Old Content
 ---
 
 Kev Quirk writes about [why he deletes old content](https://kevq.uk/why-i-delete-old-content/):
