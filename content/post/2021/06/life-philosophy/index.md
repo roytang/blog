@@ -1,8 +1,13 @@
 ---
-title: "Life Philosophy: Wandering through life finding interesting things"
-date: 2021-06-19T11:57:04+08:00
+date: 2021-06-19 03:57:04
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106435570034557151
+- type: twitter
+  url: https://twitter.com/roytang/status/1406110796162105344/
 tags:
 - life philosophy
+title: 'Life Philosophy: Wandering through life finding interesting things'
 ---
 
 Tagging this ["life philosophy"](/tags/life-philosophy) because I think people should have a declared life philosophy and it's something that should be reviewed and possibly revised on a regular basis so the tag will help me look back on this further down the line.
