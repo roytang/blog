@@ -1,9 +1,11 @@
 ---
-date: 2017-06-20 13:33:56+00:00
+date: 2017-06-20 13:33:56
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/877157570854567937/
+tags:
+- quotes
 ---
 
 Likes the quote: "My goal is to build a life I don't need a vacation from." https://www.goodreads.com/quotes/3215239-my-goal-is-to-build-a-life-i-don-t-need via [@goodreads](https://twitter.com/goodreads/)
