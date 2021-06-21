@@ -1,12 +1,17 @@
 ---
-title: "Rurouni Kenshin: The Final"
-date: 2021-06-21T23:26:52+08:00
+date: 2021-06-21 15:26:52
+reviews:
+- media: movies
+  title: 'Rurouni Kenshin: The Final (2021)'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106449664065819871
+- type: twitter
+  url: https://twitter.com/roytang/status/1407012813940301827/
 tags:
 - movies
 - anime
-reviews:
-- media: movies
-  title: "Rurouni Kenshin: The Final (2021)"
+title: 'Rurouni Kenshin: The Final'
 ---
 
 Earlier today I watched Rurouni Kenshin: The Final (2021), now out on Netflix (PH, not sure about elsewhere). I don't normally do full blog posts for [movies](/reviews/movies) anymore, but I'm [a big Rurouni Kenshin fan](/archives/ancient/geocities/rk/), and I didn't have much commentary on record for the [first three live action films](/2012/12/277092263371350017/), so I figured I would write some words mostly about this new film, but maybe also a bit about the first three as well. The film is based on a manga story arc from more than 20 years ago, so I'm not really going to be avoiding spoilers here.
