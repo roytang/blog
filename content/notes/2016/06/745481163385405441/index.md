@@ -4,11 +4,11 @@ reply_to:
   label: Dr_Jeebus's tweet
   name: Dr_Jeebus
   type: twitter
-  url: https://twitter.com/Dr_Jeebus/statuses/745480436776730624/
+  url: https://twitter.com/Dr_Jeebus/status/745480436776730624/
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/745481163385405441/
+  url: https://twitter.com/roytang/status/745481163385405441/
 ---
 
 [@Dr_Jeebus](https://twitter.com/Dr_Jeebus/) Right. You can resolve all the Animate Dead and Worldgorger things first. Gotcha.
