@@ -1,8 +1,13 @@
 ---
-title: "Breaking Prod"
-date: 2021-06-23T21:18:54+08:00
+date: 2021-06-23 13:18:54
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106460337552983162
+- type: twitter
+  url: https://twitter.com/roytang/status/1407695915406659586/
 tags:
 - software development
+title: Breaking Prod
 ---
 
 HBO Max caused a bit of a stir among its subscribers last week when they [accidentally sent out an email titled "Integration Test Email #1"](https://www.newsweek.com/hbo-max-sparks-jokes-memes-integration-test-email-1601837) to some large number of their subscribers, which spawned a lot of clever commentary and snarky remarks on Twitter. A few days later HBO Max [sent out an apology blaming an unnamed intern for the boo-boo](https://twitter.com/HBOMaxHelp/status/1405712235108917249), which spawned [a lot of "Dear Intern" tweets](https://twitter.com/search?q=Dear%20Intern) with many commiserating with the unnamed intern by sharing their own stories of mishaps from their younger days. 
