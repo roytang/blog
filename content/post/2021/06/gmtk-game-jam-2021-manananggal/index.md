@@ -70,4 +70,4 @@ OTOH, I'm a lot older than many of the participants, so I need a lot more sleep.
 
 For future jams, I'll probably also try to do some other genres instead of side-scrollers which I did for the first 2 jams. Maybe some kind of shooter thingy? Or a match 3? Or maybe I'll study how to do some of the ideas I passed over this time? We'll see! Looking forward to doing more game jams! I think the major one is the next Ludum Dare in October, though I'll also be looking out for other game jam opportunities before then.
 
-The GMTK game jam results are out; my Manananggal game ended up ranked 717 overall out of 5800+ entries. Looks like my programmer art pulled me down in the presentation criteria lol
+**[2021-06-23]** The GMTK game jam results are out; my Manananggal game ended up ranked 717 overall out of 5800+ entries. Looks like my programmer art pulled me down in the presentation criteria lol
