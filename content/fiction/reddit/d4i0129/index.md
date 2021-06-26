@@ -12,6 +12,7 @@ syndicated:
   url: https://www.reddit.com/r/WritingPrompts/comments/4p2i59/wp_at_the_edge_of_everything_lies_a_quaint_brick/d4i0129/
 tags:
 - WritingPrompts
+title: "At the edge of everything"
 ---
 
 “I don’t understand,” Liz said, scratching her head.

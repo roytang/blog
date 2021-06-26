@@ -13,6 +13,7 @@ syndicated:
   url: https://www.reddit.com/r/WritingPrompts/comments/4o4qr5/wp_the_day_after_a_man_invents_the_worlds_first/d49uv2s/
 tags:
 - WritingPrompts
+title: "May 26th, 1923"
 ---
 
 The building had a nondescript white exterior, with a single grey metal door on the facade and no other hint of what lie within. I tried the knob and a metallic rattle told me it was locked. I frowned, then remembered, then pulled out the mysterious envelope I had found under my door yesterday. I mean, 93 years from now. Well, not 93 years from now for me. Yesterday for me. God, I need to figure out how to think of time again.

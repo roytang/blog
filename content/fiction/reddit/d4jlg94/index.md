@@ -12,6 +12,7 @@ syndicated:
   url: https://www.reddit.com/r/WritingPrompts/comments/4p9rzg/wp_dragons_exist_on_earth_but_humans_are_still/d4jlg94/
 tags:
 - WritingPrompts
+title: "Dragon hunters"
 ---
 
 "What? Where?" Steve muttered over the cackle of his walkie-talkie. He dropped his fork on the plateful of bacon and started packing up. "I’m nearest, I’ll be there ASAP. Have Glen and Lynn follow me as soon as possible."

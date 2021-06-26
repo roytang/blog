@@ -13,6 +13,7 @@ syndicated:
   url: https://www.reddit.com/r/WritingPrompts/comments/4nnrxe/wp_youre_a_man_whos_tired_of_his_life_so_one_day/d471uar/
 tags:
 - WritingPrompts
+title: "Keep driving"
 ---
 
 A high-pitched bell rang out a couple of times as I stepped into the diner. Outside had been slightly chilly, the first hints of the coming winter lingering in the air. Inside I gratefully took off my cap and laid it on the counter as I sat down and waved over at the middle-aged lady brewing coffee on the other end.
