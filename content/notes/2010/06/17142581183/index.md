@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roy_mtg/statuses/17145433855/
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/17147655917/
+tags:
+- mtg
 ---
 
 200+ players at today's natsq, gonna be a long day. Rd1 2-1 vs grixis
