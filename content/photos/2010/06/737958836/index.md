@@ -4,6 +4,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://tumblr.roytang.net/post/737958836/i-think-theres-a-pinoy-on-the-staff-of-ultimate
+tags:
+- comics
 ---
 
 <p>I think there&rsquo;s a Pinoy on the staff of Ultimate Avengers&hellip;the names in the phone book can&rsquo;t just be a coincidence!</p>

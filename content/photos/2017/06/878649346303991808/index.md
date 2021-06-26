@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/878649405489860608/
 tags:
 - SteamSummerSale
+- gaming
 ---
 
 Gave in and took some damage from the #SteamSummerSale! Just some old games I've wanted to try out for a while 
