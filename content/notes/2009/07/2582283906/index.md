@@ -2,7 +2,7 @@
 date: 2009-07-11 10:22:43
 reviews:
 - description: ''
-  media: Games
+  media: games
   rating: 0.0
   title: 'Elder Scrolls IV: Oblivion'
 source: twitter

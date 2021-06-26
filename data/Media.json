@@ -1,0 +1,22 @@
+{
+    "movies": {
+        "tab": "Movies",
+        "title": "Movies Watched",
+        "descrip": ""
+    },
+    "books": {
+        "tab": "Books",
+        "title": "Books Read",
+        "descrip": ""
+    },
+    "games": {
+        "tab": "Games",
+        "title": "Games Played",
+        "descrip": ""
+    },
+    "tv": {
+        "tab": "TV",
+        "title": "TV Shows Watched",
+        "descrip": ""
+    }
+}
