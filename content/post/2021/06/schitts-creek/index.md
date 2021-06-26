@@ -1,11 +1,16 @@
 ---
-title: "Schitt's Creek"
-tags:
-- tv
+date: 2021-06-26 06:05:37
 reviews:
 - media: tv
-  title: "Schitt's Creek" 
-date: 2021-06-26T14:05:37+08:00
+  title: Schitt's Creek
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106475633351653676
+- type: twitter
+  url: https://twitter.com/roytang/status/1408674846788120578/
+tags:
+- tv
+title: Schitt's Creek
 ---
 
 > "Our lives are like little baby crows carried upon a curious wind and all we can wish, for our families, for those we love, is that that wind would eventually place us on solid ground." -- Moira Rose
