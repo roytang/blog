@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/880076191356420096/
+tags:
+- tv
 ---
 
 Finished binging Freaks and Geeks on @Netflix ...wow, that was a series that ended too soon

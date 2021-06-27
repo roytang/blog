@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154713441653912:0
 tags:
 - geekfightph
+- quiznight
 ---
 
 2nd place Bottle of win #geekfightph

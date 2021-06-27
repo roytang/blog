@@ -4,11 +4,11 @@ reply_to:
   label: switchfollows's tweet
   name: switchfollows
   type: twitter
-  url: https://twitter.com/switchfollows/statuses/17480334402/
+  url: https://twitter.com/switchfollows/status/17480334402/
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/17480353464/
+  url: https://twitter.com/roytang/status/17480353464/
 ---
 
 [@switchfollows](https://twitter.com/switchfollows/) That's not really a point in its favor :p
