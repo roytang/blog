@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156733992673912
-tags: []
+tags:
+- survey
 ---
 
 Survey: Tinatawag nyo bang "bala" ang mga console games?
