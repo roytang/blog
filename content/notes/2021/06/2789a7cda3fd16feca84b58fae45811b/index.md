@@ -6,6 +6,9 @@ reviews:
   rating: 2.0
   title: 'Transformers: The Last Knight (2017)'
 source: form
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/status/1408984465511129089/
 tags:
 - transformers
 - movies
