@@ -3,6 +3,11 @@ date: 2021-06-28 14:56:26
 reviews:
 - media: games
   title: Guilty Gear -STRIVE-
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106489064705121226
+- type: twitter
+  url: https://twitter.com/roytang/status/1409534456033992707/
 tags:
 - gaming
 - games
