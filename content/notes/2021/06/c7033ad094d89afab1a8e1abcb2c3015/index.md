@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106486784185854232
 - type: twitter
   url: https://twitter.com/roytang/status/1409388500848242689/
+tags:
+- movies
 title: Downsizing (2017)
 ---
 
