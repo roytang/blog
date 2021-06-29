@@ -27,14 +27,14 @@ tags:
 | | | | [MCQ Richmond (Modern)](/2019/08/mcq-richmond/) |
 | | | | [MagicFest Seattle](/tags/mfseattle) |
 | **May 2019** | War of the Spark | | [Standard: Esper](/2019/05/war-of-spark-esper/) |
-| **Jan 2019** | Ravnica Allegiance | [Arena limited](/tags/mtgrna) | |
+| **Jan 2019** | Ravnica Allegiance | [Arena limited](/tags/mtgrn) | |
 | **Oct 2018** | Guilds of Ravnica | | |
-| **Jul 2018** | Core 2019 | | |
-| **Apr 2018** | Dominaria | | |
+| **Jul 2018** | Core 2019 | | [PH Nationals 2018](/tags/mtgnats2018) |
+| **Apr 2018** | Dominaria | [Prerelease](/2018/04/987693315687510016/) | |
 | **Jan 2018** | Rivals of Ixalan | | |
-| **Sep 2017** | Ixalan | | |
-| **Jul 2017** | Hour of Devastation | | |
-| **Apr 2017** | Amonkhet | | |
+| **Sep 2017** | Ixalan | [Grand Prix Singapore 2017](/2017/12/grand-prix-singapore-2017/) | |
+| **Jul 2017** | Hour of Devastation | [Prerelease](/2017/07/883577969461010432/) | |
+| **Apr 2017** | Amonkhet | [Prerelease](http://localhost:8000/2017/04/855584209573789696/) | [Grand Prix Manila 2017](/2017/06/grand-prix-manila-2017/) (Standard) |
 | **Jan 2017** | Aether Revolt | | |
 | **Sep 2016** | Kaladesh | | |
 | **Jul 2016** | Eldritch Moon | | |

@@ -10,6 +10,7 @@ syndicated:
 tags:
 - mtgnationals
 - mtg
+- mtgnats2018
 ---
 
 #mtgnationals standard was a bust at 1-4 but at least I 3-0'd the draft to end up even for the day. But I wont be comin back tomorrow

@@ -8,6 +8,7 @@ syndicated:
 tags:
 - mtgnationalsph
 - mtg
+- mtgnats2018
 ---
 
 I was told I should draft white #mtgnationalsph

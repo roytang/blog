@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mtg
 - mtgphnationals
+- mtgnats2017
 ---
 
 Currently 1-1 in #mtg ph nationals. 1 more round of standard then four draft rounda today
