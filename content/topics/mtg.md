@@ -47,9 +47,9 @@ tags:
 | **Jul** | Eldritch Moon | [Prerelease](/2016/07/BH6CBSIhSyh/) | |
 | **Apr** | Shadows Over Innistrad | [Prerelease](/2016/04/BDsQ13isoPT/) | [Jun Modern GPT](/2016/06/746690727887810560/) |
 | | | | [Jun WMCQ](/2016/06/744012127560675329/) |
-| **Jan** | Oath of the Gatewatch | | |
+| **Jan** | Oath of the Gatewatch | [Prerelease](/2016/01/688663713134424064/) | |
 | **2015** |
-| **Oct** | Battle for Zendikar | | |
+| **Oct** | Battle for Zendikar | [Prerelease](/2015/09/8Fq4xxsoLK/) | |
 | **Jul** | Magic Origins | | |
 | **Mar** | Dragons of Tarkir | | |
 | **Jan** | Fate Reforged | | |
