@@ -10,6 +10,7 @@ tags:
 - twitch
 - gaming
 - mtg
+- mtgthb
 ---
 
 Streaming Theros Ranked Draft https://www.twitch.tv/twitchyroy

@@ -10,7 +10,7 @@ tags:
 - mtg
 - magicarena
 - twitch
-- mtgkld
+- mtgklr
 ---
 
 Streaming some Kaladesh Remastered draft! Watch me be terrible https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #mtgkld

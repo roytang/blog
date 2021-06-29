@@ -1,5 +1,5 @@
 ---
-date: 2020-09-18 04:32:37+00:00
+date: 2020-09-18 04:32:37
 source: twitter
 syndicated:
 - type: twitter
@@ -9,6 +9,7 @@ tags:
 - twitch
 - magicarena
 - mtg
+- mtgznr
 title: ''
 ---
 

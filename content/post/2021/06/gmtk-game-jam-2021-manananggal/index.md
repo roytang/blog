@@ -26,7 +26,7 @@ I went through some number of ideas, though many of them were variants of "tande
 
 I finally decided to do a game based on [the local Manananggal myth](https://en.wikipedia.org/wiki/Manananggal), since the whole detaching half of the body and rejoining fit the theme really well. I was imagining a puzzle platformer, but I was worried that mechanically I might not have enough for anything more than a couple of levels. I had a few ideas, but I was pretty sure I wouldn't have something close the 10 levels I had for Diver. The initial discussion from my support group suggested I play into the lore that manananggals ate babies, but I didn't want to make a baby-eating game!
 
-{{< img src="manang1.png" />}}
+{{< img src="manang1.png" >}}
 
 ### The tools
 

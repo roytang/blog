@@ -10,6 +10,7 @@ tags:
 - twitch
 - gaming
 - mtg
+- mtgthb
 ---
 
 Streaming Theros Sealed on MTG Arena again: https://www.twitch.tv/twitchyroy

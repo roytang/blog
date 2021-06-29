@@ -6,11 +6,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1247848510365618181/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1247885909749411844/
-title: ''
 tags:
 - mtg
 - magicarena
 - twitch
+- arena-cube-sealed
+title: ''
 ---
 
 Streaming some Magic Arena Cube Sealed https://www.twitch.tv/twitchyroy

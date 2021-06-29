@@ -10,6 +10,7 @@ tags:
 - twitch
 - gaming
 - mtg
+- mtgthb
 ---
 
 Gonna stream some Theros Sealed, come watch me be terrible, if you like https://www.twitch.tv/twitchyroy
@@ -17,4 +18,3 @@ Gonna stream some Theros Sealed, come watch me be terrible, if you like https://
 Youtube mirror: 
 
 {{% youtube L53LFr05-Yw %}}
-

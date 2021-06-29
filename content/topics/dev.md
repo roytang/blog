@@ -1,6 +1,8 @@
 ---
 title: "Everything I Know About Software Development"
 date: 2020-04-26T13:27:12+08:00
+tags:
+- software-development
 ---
 
 - War stories

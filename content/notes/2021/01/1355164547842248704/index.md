@@ -12,6 +12,7 @@ tags:
 - twitch
 - mtg
 - magicarena
+- kaldheim
 ---
 
 Streaming some late-night Kaldheim sealed! https://www.twitch.tv/twitchyroy #twitch #mtg #magicarena

@@ -1,5 +1,5 @@
 ---
-date: 2020-04-07 10:41:39+00:00
+date: 2020-04-07 10:41:39
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mtg
 - MagicArena
+- arena-cube-sealed
 title: ''
 ---
 

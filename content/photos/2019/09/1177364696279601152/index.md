@@ -8,7 +8,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1177366005313499136/
 tags:
 - mtg
+- mtgeld
 ---
 
 Went 5-3 with my first Eldraine sealed. Not bad, but not very good either =/ #mtg
-2 of my losses were to Garruk and Oko so ¯\_(ツ)_/¯
+
+2 of my losses were to Garruk and Oko so ¯\_(ツ)_/¯

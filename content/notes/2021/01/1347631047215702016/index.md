@@ -1,5 +1,5 @@
 ---
-date: 2021-01-08 19:47:34+08:00
+date: 2021-01-08 11:47:34
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mtg
 - MTGKaldheim
+- kaldheim
 ---
 
 I have yet to see any Valki Vartokamus jokes and I am disappointed in all of you #mtg #MTGKaldheim 

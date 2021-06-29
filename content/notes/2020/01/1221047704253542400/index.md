@@ -10,10 +10,12 @@ tags:
 - twitch
 - gaming
 - mtg
+- mtgthb
 ---
 
 Streaming some casual Theros Sealed: https://www.twitch.tv/twitchyroy #twitch #gaming #mtg
-Stream lasted 2+ hours, but I finally managed to 7-2 a sealed, even with a crappy pool!
+
+Stream lasted 2+ hours, but I finally managed to 7-2 a sealed, even with a crappy pool!
 
 Youtube mirror: https://www.youtube.com/watch?v=EU4a553Jo2o&feature=youtu.be
 Highlight: NIGHTMARE HORSE!! https://www.youtube.com/watch?v=EU4a553Jo2o&feature=youtu.be

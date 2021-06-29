@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1285937310777790464/
 tags:
 - mtg
+- jumpstart
 title: ''
 ---
 

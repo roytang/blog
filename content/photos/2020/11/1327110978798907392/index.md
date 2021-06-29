@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13 04:48:08+08:00
+date: 2020-11-12 20:48:08
 source: twitter
 syndicated:
 - type: twitter
@@ -7,7 +7,7 @@ syndicated:
 tags:
 - mtg
 - magicarena
-- mtgkld
+- mtgklr
 ---
 
 Decided to try a Kaladesh Remastered sealed before diving into draft. Didn't do particularly well, but at least I got a feel of what the Kaladesh limited format is like (again) #mtg #magicarena #mtgkld

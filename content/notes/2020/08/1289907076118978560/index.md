@@ -10,6 +10,7 @@ tags:
 - magicarena
 - twitch
 - mtg
+- jumpstart
 title: ''
 ---
 

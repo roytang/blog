@@ -1,5 +1,5 @@
 ---
-date: 2020-11-21 10:23:12+08:00
+date: 2020-11-21 02:23:12
 source: twitter
 syndicated:
 - type: twitter
@@ -7,7 +7,7 @@ syndicated:
 tags:
 - mtg
 - magicarena
-- mtgkld
+- mtgklr
 ---
 
 Kaladesh Remastered draft really doesn't like me; I thought this deck was pretty good, but it was yet another 0-3. D: At least I didn't waste gems this time. #mtg #magicarena #mtgkld

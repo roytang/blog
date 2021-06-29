@@ -10,6 +10,7 @@ tags:
 - twitch
 - magicarena
 - mtg
+- arena-cube-sealed
 title: ''
 ---
 
