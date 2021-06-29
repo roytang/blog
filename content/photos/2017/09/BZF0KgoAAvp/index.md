@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2017-09-15 13:53:07+08:00
+date: 2017-09-15 05:53:07
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,7 @@ syndicated:
 tags:
 - mtg
 - mtgphnationals
+- mtgnats2017
 ---
 
 Currently 1-2 at the #mtg ph nationals and waiting for draft 1. At least the swag is nice
