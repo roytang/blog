@@ -8,6 +8,7 @@ syndicated:
 tags:
 - mtgseattle
 - mtg
+- mfseattle
 ---
 
 Ugh started out 1-2 at #mtgseattle. Time for the mythical 6-0 run!

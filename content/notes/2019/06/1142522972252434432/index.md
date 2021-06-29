@@ -1,5 +1,5 @@
 ---
-date: 2019-06-22 20:01:18+00:00
+date: 2019-06-22 20:01:18
 dontinlinephotos: true
 source: twitter
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1142522972252434432/
 tags:
 - mtg
+- mfseattle
 title: ''
 ---
 

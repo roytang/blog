@@ -9,7 +9,7 @@ tags:
 
 ### Timeline:
 
-|||||
+|| Latest Standard Set | Limited | Constructed |
 |---|---|---|---|
 | **Apr 2021** | Strixhaven | [Arena limited](/tags/mtgstrixhaven) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXi2a8ti2BKbg3i7YXinbxBZ) | |
 | | [Mystical Archives](/2021/03/1375147827110629379/) | | | 
@@ -22,10 +22,12 @@ tags:
 | | | [Arena Cube Sealed](/tags/arena-cube-sealed) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhXxAsCyH5W8OQEGVXBkE28) | | 
 | **Jan 2020** | Theros Beyond Death | [Arena limited](/tags/mtgthb) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiD34JmpHgzhdtpCAR2MNqf) | |
 | **Oct 2019** | Throne of Eldraine | [Prerelease](/2019/09/1177586909565972480/) | |
-| | | [Arena limited](/tags/mtgeld) | |
-| **Jul 2019** | Core 2020 | | |
-| **May 2019** | War of the Spark | | |
-| **Jan 2019** | Ravnica Allegiance | | |
+| | | [Arena limited](/tags/mtgeld) | [Historic format introduced](/2019/09/mtg-arena-historic/) |
+| **Jul 2019** | Core 2020 | | [Trying out pauper](/2019/09/mtg-trying-out-pauper/) |
+| | | | [MCQ Richmond (Modern)](/2019/08/mcq-richmond/) |
+| | | | [MagicFest Seattle](/tags/mfseattle) |
+| **May 2019** | War of the Spark | | [Standard: Esper](/2019/05/war-of-spark-esper/) |
+| **Jan 2019** | Ravnica Allegiance | [Arena limited](/tags/mtgrna) | |
 | **Oct 2018** | Guilds of Ravnica | | |
 | **Jul 2018** | Core 2019 | | |
 | **Apr 2018** | Dominaria | | |

@@ -8,6 +8,7 @@ syndicated:
 tags:
 - mtgseattle
 - mtg
+- mfseattle
 ---
 
 Sigh. Dropped out of the #mtgseattle main event at 1-3. D: Deck didnt even want to play this time gave me 15 lands drawn in one game. Sad face

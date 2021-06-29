@@ -10,6 +10,7 @@ tags:
 - grand prix
 - limited
 - mtg
+- mfseattle
 title: Grand Prix Seattle 2019
 type: post
 ---
