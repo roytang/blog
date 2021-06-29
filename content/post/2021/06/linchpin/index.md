@@ -8,7 +8,7 @@ reviews:
   title: Linchpin by Seth Godin
 ---
 
-*Linchpin* is a 2010 book by Seth Godin. The book's primary thesis is that in the modern world, you have to avoid being a conforming, replaceable assembly line worker, and instead be a linchpin, someone who goes the extra mile, who invests emotional labor into his work and his art. The book covers topics such as the problems with the "old way" of working, what it means to be a linchpin, the resistance from your lizard brain, gift culture, connection, the importance of shipping, etc. He summarizes the book as:
+*Linchpin: Are You Indispensible?* is a 2010 book by Seth Godin. The book's primary thesis is that in the modern world, you have to avoid being a conforming, replaceable assembly line worker, and instead be a linchpin, someone who is indispensible, someone who goes the extra mile, who invests emotional labor into his work and his art. The book covers topics such as the problems with the "old way" of working, what it means to be a linchpin, the resistance from your lizard brain, gift culture, connection, the importance of shipping, etc. He summarizes the book as:
 
 > All I wanted to do in this book was sell you on being the artist you already are. To make a difference. To stand for something. To get the respect and security you deserve.
 
