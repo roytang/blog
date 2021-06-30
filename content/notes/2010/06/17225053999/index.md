@@ -22,6 +22,7 @@ tags:
 - mtg
 - m11
 - rdw
+- mtgpreviews
 ---
 
 Boo SGC is out. #mtg #m11
