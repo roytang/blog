@@ -25,11 +25,8 @@ tags:
 | | | [Arena Cube Sealed](/tags/arena-cube-sealed) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhXxAsCyH5W8OQEGVXBkE28) | | 
 | **Jan** | Theros Beyond Death | [Arena limited](/tags/mtgthb) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiD34JmpHgzhdtpCAR2MNqf) | |
 | **2019** |
-| **Oct** | Throne of Eldraine | [Prerelease](/2019/09/1177586909565972480/) | |
-| | | [Arena limited](/tags/mtgeld) | [Historic format introduced](/2019/09/mtg-arena-historic/) |
-| **Jul** | Core 2020 | | [Trying out pauper](/2019/09/mtg-trying-out-pauper/) |
-| | | | [MCQ Richmond (Modern)](/2019/08/mcq-richmond/) |
-| | | | [MagicFest Seattle](/tags/mfseattle) |
+| **Oct** | Throne of Eldraine | [Prerelease](/2019/09/1177586909565972480/) [Arena limited](/tags/mtgeld) | [Historic format introduced](/2019/09/mtg-arena-historic/) |
+| **Jul** | Core 2020 | [MagicFest Seattle](/tags/mfseattle) (Modern Horizons limited) | [Trying out pauper](/2019/09/mtg-trying-out-pauper/) [MCQ Richmond (Modern)](/2019/08/mcq-richmond/) |
 | **May** | War of the Spark | | [Standard: Esper](/2019/05/war-of-spark-esper/) |
 | **Jan** | Ravnica Allegiance | [Arena limited](/tags/mtgrn) | |
 | **2018** |
@@ -74,11 +71,10 @@ tags:
 | **May** | New Phyrexia | [Prerelease](/2011/05/66801411228315648/) | [Grand Prix Singapore 2011](/2011/06/grand-prix-singapore-tournament-report/) (Standard - Caw Blade) |
 | **Feb** | Mirrodin Besieged | | |
 | **2010** |
-| **Oct** | Scars of Mirrodin | [Prerelease](/2010/09/scars-of-mirrodin-prerelease-report/) | |
-| | | [Prerelease (MTGO)](/2010/10/27496991149/) | |
-| **Jul** | Magic 2011 | [Prerelease](/2010/07/18171012887/) | |
-| **Apr** | Rise of the Eldrazi | | |
-| **Feb** | Worldwake | | |
+| **Oct** | Scars of Mirrodin | [Prerelease](/2010/09/scars-of-mirrodin-prerelease-report/) [Prerelease (MTGO)](/2010/10/27496991149/) | |
+| **Jul** | Magic 2011 | [Preview Season](/tags/m11+mtgpreviews) [Prerelease](/2010/07/18171012887/) | |
+| **Apr** | Rise of the Eldrazi | [Prerelease](/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | Nationals Qualifier [Jun 5](/2010/06/15487958307/) [Jun 27](/2010/06/17142581183/) |
+| **Feb** | Worldwake | [Prerelease](/2010/01/8412293186/) | |
 | **2009** |
 | **Oct** | Zendikar | | |
 | **Jul** | Magic 2010 | | |
@@ -86,6 +82,11 @@ tags:
 | **Feb** | Conflux | | |
 | **2008** |
 | **Sep** | Shards of Alara | | |
+| **Jul** | Eventide | | |
+| **May** | Shadowmoor | | |
+| **Feb** | Morningtide | | |
+| **2007** |
+| **Oct** | Lorwyn | | |
 
 
 
