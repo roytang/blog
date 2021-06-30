@@ -70,15 +70,23 @@ tags:
 | **Feb** | Dark Ascension | | |
 | **2011** |
 | **Sep** | Innistrad | [Prerelease](/2011/09/117575273377038336/) | |
-| **Jul** | Magic 2012 | | |
-| **May** | New Phyrexia | | |
+| **Jul** | Magic 2012 | [Prerelease](/2011/07/89627946184220673/) | |
+| **May** | New Phyrexia | [Prerelease](/2011/05/66801411228315648/) | [Grand Prix Singapore 2011](/2011/06/grand-prix-singapore-tournament-report/) (Standard - Caw Blade) |
 | **Feb** | Mirrodin Besieged | | |
 | **2010** |
-| **Oct** | Scars of Mirrodin | | |
+| **Oct** | Scars of Mirrodin | [Prerelease](/2010/09/scars-of-mirrodin-prerelease-report/) | |
+| | | [Prerelease (MTGO)](/2010/10/27496991149/) | |
 | **Jul** | Magic 2011 | | |
 | **Apr** | Rise of the Eldrazi | | |
 | **Feb** | Worldwake | | |
-| **2010** |
+| **2009** |
 | **Oct** | Zendikar | | |
+| **Jul** | Magic 2010 | | |
+| **Apr** | Alara Reborn | | |
+| **Feb** | Conflux | | |
+| **2008** |
+| **Sep** | Shards of Alara | | |
+
+
 
 
