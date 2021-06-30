@@ -76,7 +76,7 @@ tags:
 | **2010** |
 | **Oct** | Scars of Mirrodin | [Prerelease](/2010/09/scars-of-mirrodin-prerelease-report/) | |
 | | | [Prerelease (MTGO)](/2010/10/27496991149/) | |
-| **Jul** | Magic 2011 | | |
+| **Jul** | Magic 2011 | [Prerelease](/2010/07/18171012887/) | |
 | **Apr** | Rise of the Eldrazi | | |
 | **Feb** | Worldwake | | |
 | **2009** |

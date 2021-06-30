@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/statuses/18185635657/
 tags:
 - m11
+- mtg
 ---
 
 passed a pool with grave titan, doj. I got 2x white leyline in return. #m11
