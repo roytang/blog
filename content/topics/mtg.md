@@ -1,6 +1,6 @@
 ---
 title: "Magic the Gathering"
-date: 2021-06-29T14:02:56+08:00
+date: 2003-01-01
 tags:
 - mtg
 - magic the gathering
