@@ -50,23 +50,23 @@ tags:
 | **Jan** | Oath of the Gatewatch | [Prerelease](/2016/01/688663713134424064/) | |
 | **2015** |
 | **Oct** | Battle for Zendikar | [Prerelease](/2015/09/8Fq4xxsoLK/) | |
-| **Jul** | Magic Origins | | |
-| **Mar** | Dragons of Tarkir | | |
-| **Jan** | Fate Reforged | | |
+| **Jul** | Magic Origins | [Prerelease](/2015/07/10153935708933912-1/) | |
+| **Mar** | Dragons of Tarkir | [Prerelease](/2015/03/579238284511039488/) | |
+| **Jan** | Fate Reforged | [Prerelease](/2015/01/556281508978102273/) | [Grand Prix Manila 2015](/2015/02/grand-prix-manila-2015/) (Standard - Jeskai Ascendancy) |
 | **2014** |
 | **Sep** | Khans of Tarkir | | |
 | **Jul** | Magic 2015 | | |
-| **May** | Journey into Nyx | | |
+| **May** | Journey into Nyx | [Prerelease](/2014/04/460051750901129216/) | |
 | **Feb** | Born of the Gods | | |
 | **2013** |
 | **Sep** | Theros | | |
 | **Jul** | Magic 2014 | | |
 | **May** | Dragon's Maze | | |
-| **Feb** | Gatecrash | | |
+| **Feb** | Gatecrash | [Prerelease](/2013/01/294968223756075009/) | |
 | **2012** |
 | **Oct** | Return to Ravnica | | |
 | **Jul** | Magic 2013 | | |
-| **May** | Avacyn Restored | | |
+| **May** | Avacyn Restored | | [Grand Prix Manila 2012](/2012/06/grand-prix-manila-2012/) (Standard) |
 | **Feb** | Dark Ascension | | |
 | **2011** |
 | **Sep** | Innistrad | | |
@@ -75,5 +75,10 @@ tags:
 | **Feb** | Mirrodin Besieged | | |
 | **2010** |
 | **Oct** | Scars of Mirrodin | | |
+| **Jul** | Magic 2011 | | |
+| **Apr** | Rise of the Eldrazi | | |
+| **Feb** | Worldwake | | |
+| **2010** |
+| **Oct** | Zendikar | | |
 
 
