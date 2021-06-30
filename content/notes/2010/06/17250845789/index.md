@@ -7,7 +7,7 @@ syndicated:
 tags:
 - mtg
 - m11
-- mtgpreviews
+- rdw
 ---
 
 "Kor Firewalker: Giving people with no skill the ability to beat red since 2009." - from a forum post on MTGSalvation

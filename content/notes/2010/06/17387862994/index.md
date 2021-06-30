@@ -11,6 +11,7 @@ syndicated:
 tags:
 - mtg
 - m11
+- mtgpreviews
 ---
 
 Pyretic Ritual - first Timetwister, now Dark Ritual? #mtg #m11
