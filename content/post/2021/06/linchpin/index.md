@@ -1,11 +1,16 @@
 ---
-title: "Book Review: Linchpin by Seth Godin"
-date: 2021-06-29T21:56:13+08:00
-tags:
-- books
+date: 2021-06-29 13:56:13
 reviews:
 - media: books
   title: Linchpin by Seth Godin
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106494582846879810
+- type: twitter
+  url: https://twitter.com/roytang/status/1409887614769979405/
+tags:
+- books
+title: 'Book Review: Linchpin by Seth Godin'
 ---
 
 *Linchpin: Are You Indispensible?* is a 2010 book by Seth Godin. The book's primary thesis is that in the modern world, you have to avoid being a conforming, replaceable assembly line worker, and instead be a linchpin, someone who is indispensible, someone who goes the extra mile, who invests emotional labor into his work and his art. The book covers topics such as the problems with the "old way" of working, what it means to be a linchpin, the resistance from your lizard brain, gift culture, connection, the importance of shipping, etc. He summarizes the book as:
@@ -47,5 +52,4 @@ Here are some parts I highlighted from the book for whatever reason (yes, I just
 
 ...
 
-> If shipping were easy, you would have done it already. 
-
+> If shipping were easy, you would have done it already.
