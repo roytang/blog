@@ -8,6 +8,7 @@ syndicated:
 tags:
 - mtg
 - mtginn
+- mtgpreviews
 ---
 
 #mtginn transform cards as flip cards: https://imgur.com/a/VFAcp

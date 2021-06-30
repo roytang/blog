@@ -8,6 +8,7 @@ syndicated:
 tags:
 - mtg
 - mtginn
+- mtgpreviews
 ---
 
 Why are we getting four preview weeks of #MTGINN? I hope it's because they're holding back on all the awesome, exciting cards.

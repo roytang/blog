@@ -69,7 +69,7 @@ tags:
 | **May** | Avacyn Restored | | [Grand Prix Manila 2012](/2012/06/grand-prix-manila-2012/) (Standard) |
 | **Feb** | Dark Ascension | | |
 | **2011** |
-| **Sep** | Innistrad | | |
+| **Sep** | Innistrad | [Prerelease](/2011/09/117575273377038336/) | |
 | **Jul** | Magic 2012 | | |
 | **May** | New Phyrexia | | |
 | **Feb** | Mirrodin Besieged | | |
