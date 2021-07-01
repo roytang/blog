@@ -15,6 +15,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1410596299083194390/
 - type: twitter
   url: https://twitter.com/roytang/status/1410596300442066951/
+tags:
+- movies
 title: The Living Daylights (1987)
 ---
 
