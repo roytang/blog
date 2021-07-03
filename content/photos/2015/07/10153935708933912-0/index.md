@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153935708933912:0
 tags:
 - mobile-uploads
+- boardgames
 ---
 
 Impromptu Splendor game night! I won!

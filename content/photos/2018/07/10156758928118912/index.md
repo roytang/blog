@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156758928118912
 tags:
 - timeline-photos
+- survey
 ---
 
 Survey: Do you think toilet paper rolls should be placed over or under? For reference:
