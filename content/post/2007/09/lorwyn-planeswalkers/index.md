@@ -3,6 +3,7 @@ categories: []
 date: 2007-09-24 05:54:48
 tags:
 - mtg
+- mtgpreviews
 title: Lorwyn -- Planeswalkers
 type: post
 url: /2007/09/lorwyn-planeswalkers/

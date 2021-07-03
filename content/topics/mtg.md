@@ -76,18 +76,30 @@ tags:
 | **Apr** | Rise of the Eldrazi | [Prerelease](/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | Nationals Qualifier [Jun 5](/2010/06/15487958307/) [Jun 27](/2010/06/17142581183/) |
 | **Feb** | Worldwake | [Prerelease](/2010/01/8412293186/) | |
 | **2009** |
-| **Oct** | Zendikar | | |
+| **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) | |
 | **Jul** | Magic 2010 | | |
-| **Apr** | Alara Reborn | | |
-| **Feb** | Conflux | | |
+| **Apr** | Alara Reborn | [Prerelease](/2009/05/alara-reborn-prerelease-for-real-this-time/) [Release](/2009/05/alara-reborn-release/) | [Regionals](/2009/05/regionals-2009-finest-hour-top-8/) (Standard - Finest Hour) |
+| **Feb** | Conflux | [Prerelease](/2009/02/conflux-prerelease/) [Release](/2009/02/conflux-release-event/) | |
 | **2008** |
-| **Sep** | Shards of Alara | | |
-| **Jul** | Eventide | | |
-| **May** | Shadowmoor | | |
+| **Sep** | Shards of Alara | [Prerelease](/2008/10/shards-of-alara-prerelease/) [GPT Taipei I](/2008/10/gpt-taipei-i-top8/) [II](/2008/10/gpt-taipei-ii/) | |
+| **Jul** | Eventide | [Prerelease](/2008/07/eventide-prerelease/) | |
+| **May** | Shadowmoor | [Prerelease](/2008/04/shadowmoor-prerelease/) [Sneak Peek](/2008/04/shadowmoor-sneak-peek/) | |
 | **Feb** | Morningtide | | |
 | **2007** |
-| **Oct** | Lorwyn | | |
-
-
-
+| **Oct** | Lorwyn | [Prerelease](/2007/09/lorwyn-prerelease/) | [Inaugurals (Standard - Mannequin)](/2007/11/lorwyn-inaugurals/) |
+| **Jul** | Tenth Edition | [Game Day](/2007/07/magic-game-day/) | [Nationals Qualifiers](/2007/07/i-suck-at-standard/) |
+| **May** | Future Sight | [Prerelease](/2007/04/future-sight-prerelease/) | [PTQ Valencia](/2007/07/ptq-valencia-2007-06-30-ng-galleria/) (Standard - UG Shifters) [Inaugurals - Korlash](/2007/05/future-sight-inaugural-ng-galleria-26-may-2007/) [More Standard Korlash](/2007/06/standard-ng-galleria-02-jun-2007/) [Regionals - Korlash](/2007/06/magic-regionals-2007/) |
+| **Feb** | Planar Chaos | [Prerelease](/2007/01/planar-chaos-prerelease/) [PTQ San Diego (2HG Limited)](/2007/04/ptq-san-diego/) | |
+| **2006** |
+| **Oct** | Time Spiral | [Prerelease](/2006/09/time-spiral-prerelease-sweet-victory/) [Release](/2006/10/time-spiral-release/) | [Standard - Nameless Deck Wins](/2007/01/nameless-deck-wins/) [Does Not Win](/2007/01/nameless-deck-does-not-win/) [Gold Rush - Standard Ponza](/2006/12/magic-2006-gold-rush/) |
+| **Jul** | Coldsnap | Prerelease 0-3 | [Nationals Qualifier](/2006/07/nationals-qualifier-july-30-2006/) |
+| **May** | Dissension | Prerelease 2-4 | [Regionals](/2006/06/magic-regionals-2006/) (Standard - Firemane Control) |
+| **Feb** | Guildpact | Prerelease 1-1-drop? [Grand Prix Manila](/2006/03/grand-prix-manila/) | |
+| **2005** |
+| **Oct** | Ravnica: City of Guilds | Prerelease 1-3 | |
+| **Jul** | Ninth Edition | | |
+| **Jun** | Saviors of Kamigawa | | |
+| **Feb** | Betrayers of Kamigawa | | |
+| **2004** |
+| **Oct** | Champions of Kamigawa | [Team Sealed](/2004/12/team-sealed/) | |
 

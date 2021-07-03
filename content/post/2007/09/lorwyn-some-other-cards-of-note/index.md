@@ -3,6 +3,7 @@ categories: []
 date: 2007-09-27 04:59:40
 tags:
 - mtg
+- mtgpreviews
 title: Lorwyn -- Some Other Cards of Note
 type: post
 url: /2007/09/lorwyn-some-other-cards-of-note/

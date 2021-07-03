@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153067940123912
-tags: []
+tags:
+- survey
 ---
 
 Survey: pag magkaron ka ng taxi ano ipapangalan mo?
