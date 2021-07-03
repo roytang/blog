@@ -8,6 +8,7 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/oatrqj/june_30th_crystal_ball/h3ksaca/
 tags:
 - sketchdaily
+- mtg
 ---
 
 Icy Manipulator #sketchdaily 181/365
