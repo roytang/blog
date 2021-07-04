@@ -9,7 +9,8 @@ syndicated:
   url: https://instagram.com/p/BHRs9-dBtPC/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154710562383912:0
-tags: []
+tags:
+- food
 ---
 
 Homemade chicken alfredo

@@ -8,6 +8,7 @@ syndicated:
 tags:
 - m13
 - mtg
+- mtgpreviews
 ---
 
 No Llanowar, no BoP, no Noble Hierarch in #M13, all we get is... Arbor Elf? =/
