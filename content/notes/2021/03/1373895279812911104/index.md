@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1373895279812911104/
 ---
 
-[@paulcatiang](https://twitter.com/paulcatiang/) Wait so there's no free movement even within the "bubble"?
+[@paulcatiang](https://twitter.com/paulcatiang/) Wait so there's no free movement even within the "bubble"? 
