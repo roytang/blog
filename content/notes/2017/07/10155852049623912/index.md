@@ -1,9 +1,11 @@
 ---
-date: 2017-07-13 06:58:00
+date: 2017-07-12 22:58:55+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155852049623912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/885272287775043584/
 tags: []
 ---
 

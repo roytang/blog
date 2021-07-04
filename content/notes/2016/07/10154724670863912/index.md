@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154724670863912
-tags: []
+tags:
+- survey
 ---
 
 Survey: Chip or Dale?
