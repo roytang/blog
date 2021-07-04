@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/883358595701628930/
 tags:
 - gaming
+- games
 ---
 
 Finished my first Ori and the Blind Forest run. 900+ deaths, 10 hours. I get the feeling I won't be achievement hunting here lol
