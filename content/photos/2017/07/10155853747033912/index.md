@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155853747033912
 tags:
 - mobile-uploads
+- survey
 ---
 
 Survey: what is your favorite local chichiria?
