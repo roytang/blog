@@ -12,4 +12,4 @@ syndicated:
   url: https://plurk.com/p/6iswbd
 ---
 
-RT [@chowtimer](https://twitter.com/chowtimer/): RT @reypinmoko: Putanginang Inception to pwedeng gawan ng thesis paper.
+RT @reypinmoko: Putanginang Inception to pwedeng gawan ng thesis paper.

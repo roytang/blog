@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155871975868912
-tags: []
+tags:
+- survey
 ---
 
 Survey: Who do you think dies first: 

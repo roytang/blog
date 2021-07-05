@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155863611258912
-tags: []
+tags:
+- survey
 ---
 
 Survey: You must give up one source of carbs among the following: 1. Rice 2. Noodles 3. Bread (includes pastries, cakes, etc) 4. Potatoes. Which do you choose?

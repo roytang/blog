@@ -72,12 +72,12 @@ tags:
 | **Feb** | Mirrodin Besieged | | |
 | **2010** |
 | **Oct** | Scars of Mirrodin | [Prerelease](/2010/09/scars-of-mirrodin-prerelease-report/) [Prerelease (MTGO)](/2010/10/27496991149/) | |
-| **Jul** | Magic 2011 | [Preview Season](/tags/m11+mtgpreviews) [Prerelease](/2010/07/18171012887/) | |
+| **Jul** | Magic 2011 | [Preview Season](/tags/m11+mtgpreviews) [Prerelease](/2010/07/18171012887/) [Release Party](/2010/07/18755812177/)| |
 | **Apr** | Rise of the Eldrazi | [Prerelease](/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | Nationals Qualifier [Jun 5](/2010/06/15487958307/) [Jun 27](/2010/06/17142581183/) |
 | **Feb** | Worldwake | [Prerelease](/2010/01/8412293186/) | |
 | **2009** |
 | **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) | |
-| **Jul** | Magic 2010 | | |
+| **Jul** | Magic 2010 | [Release](/2009/07/2704722593/) | |
 | **Apr** | Alara Reborn | [Prerelease](/2009/05/alara-reborn-prerelease-for-real-this-time/) [Release](/2009/05/alara-reborn-release/) | [Regionals](/2009/05/regionals-2009-finest-hour-top-8/) (Standard - Finest Hour) |
 | **Feb** | Conflux | [Prerelease](/2009/02/conflux-prerelease/) [Release](/2009/02/conflux-release-event/) | |
 | **2008** |

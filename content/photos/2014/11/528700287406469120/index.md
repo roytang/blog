@@ -4,7 +4,7 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Middle Earth: Shadow of Morder (PS4)'
+  title: 'Middle Earth: Shadow of Mordor (PS4)'
 source: twitter
 syndicated:
 - type: twitter
