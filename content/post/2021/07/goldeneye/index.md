@@ -1,11 +1,16 @@
 ---
-title: "Goldeneye (1995)"
-date: 2021-07-06T09:42:52+08:00
-tags:
-- movies
+date: 2021-07-06 01:42:52
 reviews:
 - media: movies
   title: Goldeneye (1995)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106531194012516318
+- type: twitter
+  url: https://twitter.com/roytang/status/1412230728822124545/
+tags:
+- movies
+title: Goldeneye (1995)
 ---
 
 The Bond film reviews were starting to get a bit long for Twitter/[notes](/notes), so a full blog post it is.

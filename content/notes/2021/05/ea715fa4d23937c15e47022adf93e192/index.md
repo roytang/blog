@@ -17,6 +17,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1395270309041770498/
 tags:
 - movies
+- jamesbond
 title: The Spy Who Loved Me (1977)
 ---
 
