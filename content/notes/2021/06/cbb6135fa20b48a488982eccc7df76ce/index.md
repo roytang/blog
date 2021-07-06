@@ -21,6 +21,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1400010486372986881/
 tags:
 - movies
+- jamesbond
 title: Moonraker (1979)
 ---
 

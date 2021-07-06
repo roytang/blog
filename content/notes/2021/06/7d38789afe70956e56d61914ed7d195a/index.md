@@ -15,6 +15,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1407987849509564416/
 tags:
 - movies
+- jamesbond
 title: A View To A Kill (1985)
 ---
 

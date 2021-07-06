@@ -21,6 +21,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1411273853054066689/
 tags:
 - movies
+- jamesbond
 title: License to Kill (1989)
 ---
 

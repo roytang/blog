@@ -17,6 +17,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1410596300442066951/
 tags:
 - movies
+- jamesbond
 title: The Living Daylights (1987)
 ---
 

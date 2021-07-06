@@ -23,6 +23,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1401949586726391814/
 tags:
 - movies
+- jamesbond
 title: For Your Eyes Only (1981)
 ---
 

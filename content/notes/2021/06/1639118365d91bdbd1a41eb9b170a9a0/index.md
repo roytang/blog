@@ -15,6 +15,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1404998021155155968/
 tags:
 - movies
+- jamesbond
 title: Octopussy (1983)
 ---
 

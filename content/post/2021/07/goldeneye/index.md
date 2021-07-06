@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1412230728822124545/
 tags:
 - movies
+- jamesbond
 title: Goldeneye (1995)
 ---
 
