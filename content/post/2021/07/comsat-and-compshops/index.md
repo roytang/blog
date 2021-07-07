@@ -1,10 +1,15 @@
 ---
-title: "ComSat and CompShops"
-date: 2021-07-07T09:19:40+08:00
+date: 2021-07-07 01:19:40
+featuredImage: https://roytang.net/media/content/photos/2009/12/281590937/281590937.jpg
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106536932093376535
+- type: twitter
+  url: https://twitter.com/roytang/status/1412597967031205891/
 tags:
 - gaming
 - philippines
-featuredImage: https://roytang.net/media/content/photos/2009/12/281590937/281590937.jpg
+title: ComSat and CompShops
 ---
 
 I was on a Twitch chat for a local streamer yesterday and someone bought up the term "comsat", popular in local computer shop or "compshop" culture. In the context of multiplayer games, it means to spy on what your opponent is doing by peeking at his screen. I've never heard this term used other than by Filipino gamers, so I have reason to believe it's a local thing. There is [an Urban Dictionary entry](https://www.urbandictionary.com/define.php?term=comsat), but the submitter must just be a Pinoy as well.
