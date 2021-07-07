@@ -1,13 +1,18 @@
 ---
-title: "Tomorrow Never Dies"
-date: 2021-07-07T18:37:32+08:00
+date: 2021-07-07 10:37:32
 reviews:
-- media: movies
+- description: Rewatch
+  media: movies
   title: Tomorrow Never Dies (1997)
-  description: Rewatch
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106538967654964635
+- type: twitter
+  url: https://twitter.com/roytang/status/1412728242151120907/
 tags:
 - movies
 - jamesbond
+title: Tomorrow Never Dies
 ---
 
 Last night I watched Tomorrow Never Dies (1997). Bond film no. 18 and Brosnan's second. Also the first one I actually saw in theaters when it came out so officially my first rewatch! That said, it was 24 years ago so while I remember the general overarching plot (Jonathan Pryce playing a multibillionaire media mogul inciting a war between China and the UK to profit off the news), I have forgotten many of the finer details. 
@@ -29,4 +34,3 @@ Overall Goldeneye seemed the stronger film, though this one appeals to me too be
 The next film is the only other Brosnan film I've seen, *The World Is Not Enough*, but I seem to remember even less about it than this film, can't even call the plot to mind. I seem to remember some kind of... ice building? I suppose I'll find out when I get to it, probably next week.
 
 Anyway, here's some commentary from the movie about software development.
-
