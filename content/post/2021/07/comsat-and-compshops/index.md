@@ -11,11 +11,13 @@ I was on a Twitch chat for a local streamer yesterday and someone bought up the 
 
 Some of the younger gamers weren't familiar with the origins of the term. Someone even said they thought it mean "computer satellite", as in someone who hovers over the opponent's computer to see what they're up to. The term actually originates from the original **Starcraft**, it's [a Terran building](https://starcraft.fandom.com/wiki/ComSat_station) used to enable scanner sweeps. Starcraft was one of the earliest popular LAN games in the Philippines; we used to play it a lot on the lab computers after hours in college. I'm not sure if this kind of thing is now frowned upon, but back then one of the regular players in our lab was one of the younger teachers, so whatever. I suppose when compshops started to proliferate, many of the initial patrons were familiar with Starcraft and hence the term comsat and it propagated to later generations of gamers who played mostly games like the various versions of **DOTA** or **Counterstrike**.
 
+Compshops were a popular small business back in the day. In fact, I briefly considered running one myself, the startup capital needed wasn't too high. (But like many potential endeavors, it felt like too much work.)
+
 Compshops in the Philippines of course had their uses other than gaming - many students used them to do schoolwork or get something printed. But they became popular mostly for gaming, especially among the youth. Many were so obsessed we got memes like the one below with kids continuing to play despite floods, an image I've seen even in international gaming forums.
 
 {{< photo "2009/12/281590937/" >}}
 
-I never got too much into compshop culture, particularly playing versus strangers and all that. I think part of that is because I was already graduating when it really took off in Metro Manila around the early to mid 2000s. But I also wasn't really a fan of the multiplayer games that became popular locally - the aforementioned DOTA and Counterstrike - or the popular MMOs like Ragnarok Online. 
+I never got too much into compshop culture, particularly playing versus strangers and all that. I think part of that is because I was already graduating when they really took off in Metro Manila around the mid 2000s. But I also wasn't really a fan of the multiplayer games that became popular locally - the aforementioned DOTA and Counterstrike - or the popular MMOs like Ragnarok Online. 
 
 The only multiplayer PvP games I really played over LAN were Starcraft (mostly with labmates during the college days) and occasionally Warcraft 3. I was comfortable with Warcraft III because [I played it on Battle.net](/2005/03/games-warcraft-iii-rude-and-annoying-teammates/) back home so I didn't mind playing it with friends. I never really got into that phase where I would hang out in compshops and play with strangers. Between work and my home gaming, I didn't really have time for that. 
 
