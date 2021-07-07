@@ -4,7 +4,7 @@ photo_link_url: http://farm4.static.flickr.com/3171/3642661392_893103fda0_o.jpg
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/311169817/carnivores-keep-being-awesome-via-flickr
+  url: https://roytang.tumblr.com/post/311169817/carnivores-keep-being-awesome-via-flickr
 ---
 
 <p>Carnivores: Keep being awesome!</p>

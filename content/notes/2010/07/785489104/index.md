@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/785489104/pinoytumblr-credits-to-the-owner-of-the-photo
+  url: https://roytang.tumblr.com/post/785489104/pinoytumblr-credits-to-the-owner-of-the-photo
 ---
 
 <p><a href="http://www.pinoytumblr.com/post/785392013/credits-to-the-owner-of-the-photo-and-the-poetic">pinoytumblr</a>:</p>

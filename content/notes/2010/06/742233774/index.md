@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/742233774/pixar-vs-dreamworks
+  url: https://roytang.tumblr.com/post/742233774/pixar-vs-dreamworks
 ---
 
 <p>Pixar vs Dreamworks</p>

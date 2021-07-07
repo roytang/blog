@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/611142531/gamefreaksnz-cannotunsee-cannot-unsee-boba
+  url: https://roytang.tumblr.com/post/611142531/gamefreaksnz-cannotunsee-cannot-unsee-boba
 ---
 
 <p><a href="http://blog.gamefreaks.co.nz/post/610808703">gamefreaksnz</a>:</p>

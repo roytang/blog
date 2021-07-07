@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/357997160/manny-villar-vs-chuck-norris
+  url: https://roytang.tumblr.com/post/357997160/manny-villar-vs-chuck-norris
 ---
 
 <p>Manny Villar vs Chuck Norris </p>

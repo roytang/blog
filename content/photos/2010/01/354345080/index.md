@@ -4,7 +4,7 @@ photo_link_url: http://thenextweb.com/shareables/files/2010/01/gaming.jpg
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/354345080/this-is-why-you-should-give-up-gaming-via
+  url: https://roytang.tumblr.com/post/354345080/this-is-why-you-should-give-up-gaming-via
 ---
 
 <p>This is why you should give up gaming</p>

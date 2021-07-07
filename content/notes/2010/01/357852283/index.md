@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/357852283/evolution-by-steve-jobs
+  url: https://roytang.tumblr.com/post/357852283/evolution-by-steve-jobs
 ---
 
 <p>Evolution by Steve Jobs </p>

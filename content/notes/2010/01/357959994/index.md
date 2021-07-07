@@ -3,7 +3,7 @@ date: 2010-01-28 14:47:02
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/357959994/kerwin-and-i-were-watching-ma-play-scrabble-on
+  url: https://roytang.tumblr.com/post/357959994/kerwin-and-i-were-watching-ma-play-scrabble-on
 tags:
 - quotes
 - mama

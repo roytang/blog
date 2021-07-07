@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/1009405383/alvintang-pertinacious-drmcmuffin
+  url: https://roytang.tumblr.com/post/1009405383/alvintang-pertinacious-drmcmuffin
 - type: twitter
   url: https://twitter.com/roytang/statuses/22101014998/
 - type: plurk

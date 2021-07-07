@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/635179898/jeenafilipina-via-emqworld-fuck-yeah
+  url: https://roytang.tumblr.com/post/635179898/jeenafilipina-via-emqworld-fuck-yeah
 ---
 
 <p><a href="http://jeenafilipina.tumblr.com/post/632538361/via-emqworld-fuck-yeah-filipinos-for-good">jeenafilipina</a>:</p>

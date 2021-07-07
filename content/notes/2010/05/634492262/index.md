@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/634492262/thedailywhat-holy-crap-of-the-day-whats-that
+  url: https://roytang.tumblr.com/post/634492262/thedailywhat-holy-crap-of-the-day-whats-that
 ---
 
 <p><a href="http://thedailywh.at/post/631403977/holy-crap-of-the-day-whats-that-back-to-the">thedailywhat</a>:</p>

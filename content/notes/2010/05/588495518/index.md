@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/588495518/pinoytumblr-presidents-helgaholic
+  url: https://roytang.tumblr.com/post/588495518/pinoytumblr-presidents-helgaholic
 ---
 
 <p><a href="http://www.pinoytumblr.com/post/588331330/presidents-helgaholic-followyourbliss">pinoytumblr</a>:</p>

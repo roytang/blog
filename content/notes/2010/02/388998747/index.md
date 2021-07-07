@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/388998747/upgrade-your-ordinary-laptop-to-a-macbookonly
+  url: https://roytang.tumblr.com/post/388998747/upgrade-your-ordinary-laptop-to-a-macbookonly
 ---
 
 <blockquote>

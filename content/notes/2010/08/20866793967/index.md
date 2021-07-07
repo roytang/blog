@@ -1,5 +1,5 @@
 ---
-date: 2010-08-11 07:32:23+00:00
+date: 2010-08-11 07:32:23
 source: twitter
 syndicated:
 - type: twitter
@@ -9,9 +9,9 @@ syndicated:
 - type: plurk
   url: https://plurk.com/p/6v7bff
 - type: tumblr
-  url: https://tumblr.roytang.net/post/936151821/racial-descrimination-in-the-philippines
+  url: https://roytang.tumblr.com/post/936151821/racial-descrimination-in-the-philippines
 - type: twitter
   url: https://twitter.com/roytang/statuses/20867828125/
 ---
 
-Photo: Racial discrimination in the Philippines? From a certain internet shop in Ortigas. 
+Photo: Racial discrimination in the Philippines? From a certain internet shop in Ortigas.

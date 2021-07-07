@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/614286781/only-science-geeks-will-get-it
+  url: https://roytang.tumblr.com/post/614286781/only-science-geeks-will-get-it
 ---
 
 <p>Only science geeks will get it.</p>

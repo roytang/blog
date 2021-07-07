@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/571086484/randalism-oh-yeah
+  url: https://roytang.tumblr.com/post/571086484/randalism-oh-yeah
 ---
 
 <p><a href="http://randalism.tumblr.com/post/570992363/oh-yeah-gamefreaksnz-geekleetist-magnetgirl">randalism</a>:</p>

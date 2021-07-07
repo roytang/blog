@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/578709240/pinoytumblr-2010-philippine-presidentiables
+  url: https://roytang.tumblr.com/post/578709240/pinoytumblr-2010-philippine-presidentiables
 ---
 
 <p><a href="http://www.pinoytumblr.com/post/576204389/2010-philippine-presidentiables-click-here-for">pinoytumblr</a>:</p>

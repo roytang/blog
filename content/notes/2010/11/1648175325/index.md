@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/1648175325/anyone-tried-the-kfc-double-down-yet
+  url: https://roytang.tumblr.com/post/1648175325/anyone-tried-the-kfc-double-down-yet
 ---
 
 <p>Anyone tried the KFC Double Down yet?</p>

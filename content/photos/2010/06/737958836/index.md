@@ -3,7 +3,7 @@ date: 2010-06-26 10:38:27
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/737958836/i-think-theres-a-pinoy-on-the-staff-of-ultimate
+  url: https://roytang.tumblr.com/post/737958836/i-think-theres-a-pinoy-on-the-staff-of-ultimate
 tags:
 - comics
 ---

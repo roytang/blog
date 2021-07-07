@@ -3,7 +3,7 @@ date: 2010-06-16 20:32:38
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/705527095/wolverine-hey-im-an-x-man-and-on-two-avengers
+  url: https://roytang.tumblr.com/post/705527095/wolverine-hey-im-an-x-man-and-on-two-avengers
 tags:
 - quotes
 - comics

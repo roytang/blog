@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/428282544/pinoytumblr-damdamn-here-is-a-comparative
+  url: https://roytang.tumblr.com/post/428282544/pinoytumblr-damdamn-here-is-a-comparative
 ---
 
 <p><a href="http://www.pinoytumblr.com/post/427168329/damdamn-here-is-a-comparative-analysis-about">pinoytumblr</a>:</p>

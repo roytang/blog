@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/504978826/how-to-catch-a-pokemon
+  url: https://roytang.tumblr.com/post/504978826/how-to-catch-a-pokemon
 ---
 
 <p>How to catch a Pokemon</p>

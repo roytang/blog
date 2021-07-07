@@ -3,7 +3,7 @@ date: 2010-05-17 17:21:40
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/607374407/from-google-if-youre-not-satisfied-with
+  url: https://roytang.tumblr.com/post/607374407/from-google-if-youre-not-satisfied-with
 ---
 
 <p>

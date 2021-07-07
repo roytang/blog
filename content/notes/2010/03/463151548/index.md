@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/463151548/natutulog-sa-ibabaw-ng-bisikleta-alvintang
+  url: https://roytang.tumblr.com/post/463151548/natutulog-sa-ibabaw-ng-bisikleta-alvintang
 ---
 
 <p>Natutulog sa ibabaw ng bisikleta</p>

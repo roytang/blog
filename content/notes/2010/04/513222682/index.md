@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/513222682/pinoytumblr-via-themoderncrisostomoibarra
+  url: https://roytang.tumblr.com/post/513222682/pinoytumblr-via-themoderncrisostomoibarra
 ---
 
 <p><a href="http://www.pinoytumblr.com/post/512998018/via-themoderncrisostomoibarra">pinoytumblr</a>:</p>

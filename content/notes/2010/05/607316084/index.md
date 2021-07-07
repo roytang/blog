@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/607316084/extravaluecomboalpha
+  url: https://roytang.tumblr.com/post/607316084/extravaluecomboalpha
 ---
 
 <p><a href="http://faiye.tumblr.com/post/573050042/extravaluecomboalpha">faiye</a>:</p>

@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/416304386/gamefreaksnz-justinrampage-check-out-these
+  url: https://roytang.tumblr.com/post/416304386/gamefreaksnz-justinrampage-check-out-these
 ---
 
 <p><a href="http://gamefreaks.co.nz/post/411626709/justinrampage-check-out-these-excellent">gamefreaksnz</a>:</p>

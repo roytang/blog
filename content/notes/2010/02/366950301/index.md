@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/366950301/thedailywhat-cannot-be-unseen-of-the-day
+  url: https://roytang.tumblr.com/post/366950301/thedailywhat-cannot-be-unseen-of-the-day
 ---
 
 <p><a href="http://thedw.us/post/365164925/cannot-be-unseen-of-the-day-zombies-in-my-text">thedailywhat</a>:</p>
