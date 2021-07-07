@@ -1,0 +1,31 @@
+{
+  "id": "2d9194d5-4641-43bf-ba37-f8d492f12498",
+  "name": "paul",
+  "url": "https://twitter.com/paulnotpaulie",
+  "text": "Mentioned by https://brid.gy/post/twitter/roytang/1412661911515185153\n\n> saw UK versions as I didn't use them?",
+  "date": "2021-07-07 06:37:00",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/9f9bdffb2e454573008384ab082348395a6bba81187574024f28bac38f4ec44f.jpg",
+  "source_url": "https://twitter.com/paulnotpaulie/status/1412661911515185153",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "paul",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9f9bdffb2e454573008384ab082348395a6bba81187574024f28bac38f4ec44f.jpg",
+      "url": "https://twitter.com/paulnotpaulie"
+    },
+    "url": "https://twitter.com/paulnotpaulie/status/1412661911515185153",
+    "published": "2021-07-07T06:37:00+00:00",
+    "wm-received": "2021-07-07T07:13:11Z",
+    "wm-id": 1212085,
+    "wm-source": "https://brid.gy/post/twitter/roytang/1412661911515185153",
+    "wm-target": "https://roytang.net/2021/07/comsat-and-compshops/",
+    "content": {
+      "html": "Loved this insight into nerd culture in other places. We never really had these types of venues in the UK did we? I remember internet cafes in New Zealand which doubled up as LAN gaming centres. Maybe I never saw UK versions as I didn't use them?\n<a class=\"u-mention\" href=\"https://roytang.net/2021/07/comsat-and-compshops/\"></a>",
+      "text": "Loved this insight into nerd culture in other places. We never really had these types of venues in the UK did we? I remember internet cafes in New Zealand which doubled up as LAN gaming centres. Maybe I never saw UK versions as I didn't use them?"
+    },
+    "mention-of": "https://roytang.net/2021/07/comsat-and-compshops/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}

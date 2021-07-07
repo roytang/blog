@@ -1,0 +1,27 @@
+{
+  "id": "fd76b80d-86fe-477c-a096-beb8e008e8c2",
+  "name": "paul",
+  "url": "https://twitter.com/paulnotpaulie",
+  "text": "[paul](https://twitter.com/paulnotpaulie) [liked this](https://twitter.com/roytang/status/1412597967031205891#favorited-by-9529842)",
+  "date": "2021-07-07 07:13:11",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/9f9bdffb2e454573008384ab082348395a6bba81187574024f28bac38f4ec44f.jpg",
+  "source_url": "https://twitter.com/roytang/status/1412597967031205891#favorited-by-9529842",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "paul",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9f9bdffb2e454573008384ab082348395a6bba81187574024f28bac38f4ec44f.jpg",
+      "url": "https://twitter.com/paulnotpaulie"
+    },
+    "url": "https://twitter.com/roytang/status/1412597967031205891#favorited-by-9529842",
+    "published": null,
+    "wm-received": "2021-07-07T07:13:11Z",
+    "wm-id": 1212086,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1412597967031205891/9529842",
+    "wm-target": "https://roytang.net/2021/07/comsat-and-compshops/",
+    "like-of": "https://roytang.net/2021/07/comsat-and-compshops/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
