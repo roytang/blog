@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/306136742/cookie-monster-nightmare
+  url: https://roytang.tumblr.com/post/306136742/cookie-monster-nightmare
 ---
 
 <p>Cookie Monster nightmare</p>

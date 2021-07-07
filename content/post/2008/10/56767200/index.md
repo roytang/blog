@@ -3,7 +3,7 @@ date: 2008-10-28 15:54:16
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/56767200/tumblr-testing
+  url: https://roytang.tumblr.com/post/56767200/tumblr-testing
 title: tumblr testing
 ---
 

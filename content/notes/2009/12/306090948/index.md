@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/306090948/via-alican
+  url: https://roytang.tumblr.com/post/306090948/via-alican
 ---
 
 <p>(via <a href="http://alican.tumblr.com/">alican</a>)</p>
