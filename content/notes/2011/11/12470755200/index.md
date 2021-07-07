@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/12470755200/ilovecharts-fiveoverseven-pechakucha-theme
+  url: https://roytang.tumblr.com/post/12470755200/ilovecharts-fiveoverseven-pechakucha-theme
 - type: twitter
   url: https://twitter.com/roytang/statuses/133578808543547392/
 ---

@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/6554599258/the-new-robin
+  url: https://roytang.tumblr.com/post/6554599258/the-new-robin
 ---
 
 <p>the new robin?</p>

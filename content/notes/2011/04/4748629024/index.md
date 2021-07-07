@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/4748629024/reminds-me-of-paxi-d
+  url: https://roytang.tumblr.com/post/4748629024/reminds-me-of-paxi-d
 - type: twitter
   url: https://twitter.com/roytang/statuses/60366629212663808/
 ---

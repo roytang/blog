@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/7452580299/httpwwwyoutubecomwatchv-wrwqw9ecto
+  url: https://roytang.tumblr.com/post/7452580299/httpwwwyoutubecomwatchv-wrwqw9ecto
 ---
 
 <p><a href="https://www.youtube.com/watch?v=WRw_qW9ecTo">https://www.youtube.com/watch?v=WRw_qW9ecTo</a></p>

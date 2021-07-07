@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/6936535478/dress-for-the-job-you-want
+  url: https://roytang.tumblr.com/post/6936535478/dress-for-the-job-you-want
 ---
 
 <p>Dress for the job you want</p>

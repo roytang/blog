@@ -4,7 +4,7 @@ photo_link_url: http://img828.imageshack.us/img828/9735/20111215sztljo.png
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/14263416834/the-next-summer-movie-blockbuster
+  url: https://roytang.tumblr.com/post/14263416834/the-next-summer-movie-blockbuster
 - type: twitter
   url: https://twitter.com/roytang/statuses/147336304093442048/
 ---
