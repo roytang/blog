@@ -1,0 +1,27 @@
+{
+  "id": "6d4671ad-7d94-4e52-859c-475fa31b0861",
+  "name": "Wayne Werner",
+  "url": "https://mastodon.technology/@ketmorco",
+  "text": "[Wayne Werner](https://mastodon.technology/@ketmorco) [liked this](https://mastodon.technology/@roytang/106544996803797701#favorited-by-297563)",
+  "date": "2021-07-08 17:32:09",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/af35b990257822c5b67356f1e401bdaa31fe94bce2e099112dca3c1ed2382b98.png",
+  "source_url": "https://mastodon.technology/@roytang/106544996803797701#favorited-by-297563",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wayne Werner",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/af35b990257822c5b67356f1e401bdaa31fe94bce2e099112dca3c1ed2382b98.png",
+      "url": "https://mastodon.technology/@ketmorco"
+    },
+    "url": "https://mastodon.technology/@roytang/106544996803797701#favorited-by-297563",
+    "published": null,
+    "wm-received": "2021-07-08T17:32:09Z",
+    "wm-id": 1214059,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/106544996803797701/297563",
+    "wm-target": "https://roytang.net/2021/07/on-being-president/",
+    "like-of": "https://roytang.net/2021/07/on-being-president/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
