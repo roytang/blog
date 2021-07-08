@@ -7,5 +7,5 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/112698606710/turtlemasks
+  url: https://roytang.tumblr.com/post/112698606710/turtlemasks
 ---

@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/122253298145/pdlcomics-pretend-humans
+  url: https://roytang.tumblr.com/post/122253298145/pdlcomics-pretend-humans
 ---
 
 <p><a href="http://pdlcomics.tumblr.com/post/122185716235/pretend" class="tumblr_blog">pdlcomics</a>:</p>

@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/118029462930/joshsundquist-if-you-think-about-it-there-are
+  url: https://roytang.tumblr.com/post/118029462930/joshsundquist-if-you-think-about-it-there-are
 ---
 
 <p><a href="http://blog.joshsundquist.com/post/117862070140" class="tumblr_blog">joshsundquist</a>:</p>

@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/110192546800/nebnzambi-grill-me-a-cheese
+  url: https://roytang.tumblr.com/post/110192546800/nebnzambi-grill-me-a-cheese
 - type: twitter
   url: https://twitter.com/roytang/statuses/563459596824494081/
 ---

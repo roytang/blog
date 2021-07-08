@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/112603904125/buzzfeed-your-favorite-tv-shows-as-game-of
+  url: https://roytang.tumblr.com/post/112603904125/buzzfeed-your-favorite-tv-shows-as-game-of
 - type: twitter
   url: https://twitter.com/roytang/statuses/572762726424059905/
 ---

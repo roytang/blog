@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/124753174445/island-delver-go-wizardsofmontreal-007
+  url: https://roytang.tumblr.com/post/124753174445/island-delver-go-wizardsofmontreal-007
 ---
 
 <p><a href="http://island-delver-go.tumblr.com/post/124684822957/wizardsofmontreal-007-license-to-kill-target" class="tumblr_blog">island-delver-go</a>:</p>

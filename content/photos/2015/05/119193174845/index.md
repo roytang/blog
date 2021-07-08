@@ -3,7 +3,7 @@ date: 2015-05-17 14:49:03
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/119193174845/via-gamecomic134smjpg-980-628
+  url: https://roytang.tumblr.com/post/119193174845/via-gamecomic134smjpg-980-628
 - type: twitter
   url: https://twitter.com/roytang/statuses/599949764520738816/
 ---

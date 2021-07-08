@@ -7,5 +7,5 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/119854009350/immortalironfist
+  url: https://roytang.tumblr.com/post/119854009350/immortalironfist
 ---
