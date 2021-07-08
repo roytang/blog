@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/91452810130/ilovecharts-is-this-going-to-be-a-good-project
+  url: https://roytang.tumblr.com/post/91452810130/ilovecharts-is-this-going-to-be-a-good-project
 - type: twitter
   url: https://twitter.com/roytang/statuses/487594746463125504/
 ---

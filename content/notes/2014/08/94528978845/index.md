@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/94528978845/icanread-via-jad-limcaco
+  url: https://roytang.tumblr.com/post/94528978845/icanread-via-jad-limcaco
 ---
 
 <p><a href="http://icanread.tumblr.com/post/94523735803/via-jad-limcaco" class="tumblr_blog">icanread</a>:</p>

@@ -3,7 +3,7 @@ date: 2014-07-06 09:55:01
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/90932591435/poorly-designed-drop-down-lists-from-a-real
+  url: https://roytang.tumblr.com/post/90932591435/poorly-designed-drop-down-lists-from-a-real
 - type: twitter
   url: https://twitter.com/roytang/statuses/485723592949526528/
 ---

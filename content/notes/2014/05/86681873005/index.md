@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/86681873005/brianmichaelbendis-cover-to-all-new-x-men-32-by
+  url: https://roytang.tumblr.com/post/86681873005/brianmichaelbendis-cover-to-all-new-x-men-32-by
 - type: twitter
   url: https://twitter.com/roytang/statuses/470162687671160832/
 - type: facebook

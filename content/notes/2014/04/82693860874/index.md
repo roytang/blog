@@ -7,5 +7,5 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/82693860874
+  url: https://roytang.tumblr.com/post/82693860874
 ---

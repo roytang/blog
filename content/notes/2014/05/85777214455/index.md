@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/85777214455/captainofalltheships-chrys-watches-got-x
+  url: https://roytang.tumblr.com/post/85777214455/captainofalltheships-chrys-watches-got-x
 - type: twitter
   url: https://twitter.com/roytang/statuses/466757193073967104/
 ---

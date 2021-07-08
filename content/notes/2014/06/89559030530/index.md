@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/89559030530/nellucnhoj-what-a-terrible-superhero
+  url: https://roytang.tumblr.com/post/89559030530/nellucnhoj-what-a-terrible-superhero
 - type: twitter
   url: https://twitter.com/roytang/statuses/480737021535993856/
 ---

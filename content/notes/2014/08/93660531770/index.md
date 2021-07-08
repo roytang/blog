@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/93660531770/captainamericagotg
+  url: https://roytang.tumblr.com/post/93660531770/captainamericagotg
 - type: twitter
   url: https://twitter.com/roytang/statuses/495821159863439360/
 ---

@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/94724422285/saltlakecomiccon-the-power-of-metaphor
+  url: https://roytang.tumblr.com/post/94724422285/saltlakecomiccon-the-power-of-metaphor
 - type: twitter
   url: https://twitter.com/roytang/statuses/499920020999507970/
 ---

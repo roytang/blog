@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/74723272767/mrkltpzyxm-i-love-it-when-magic-cards-tell-a
+  url: https://roytang.tumblr.com/post/74723272767/mrkltpzyxm-i-love-it-when-magic-cards-tell-a
 ---
 
 <p><a class="tumblr_blog" href="http://mrkltpzyxm.tumblr.com/post/74409810974/i-love-it-when-magic-cards-tell-a-story">mrkltpzyxm</a>:</p>

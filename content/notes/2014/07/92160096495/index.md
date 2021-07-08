@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/92160096495/agentmlovestacos-yes-its-tripleh-in-a
+  url: https://roytang.tumblr.com/post/92160096495/agentmlovestacos-yes-its-tripleh-in-a
 ---
 
 <p><a class="tumblr_blog" href="http://agentmlovestacos.com/post/81686808933/yes-its-tripleh-in-a-rocketraccoon-mask">agentmlovestacos</a>:</p>
