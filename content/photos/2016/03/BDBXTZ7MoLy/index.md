@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BDBXTZ7MoLy/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/141151961655/rocket-sketchdaily
+  url: https://roytang.tumblr.com/post/141151961655/rocket-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/710146947974213632/
 - type: facebook

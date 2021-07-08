@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BDujVWmMoB0/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/142162879135/just-a-quick-flash-sketchdaily
+  url: https://roytang.tumblr.com/post/142162879135/just-a-quick-flash-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/716506588953993218/
 - type: facebook
@@ -21,4 +21,3 @@ tags:
 ---
 
 Just a quick Flash #sketchdaily
-

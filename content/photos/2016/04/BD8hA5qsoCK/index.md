@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BD8hA5qsoCK/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/142464764720/street-scene-sketchdaily-2pts-if-you-can-identify
+  url: https://roytang.tumblr.com/post/142464764720/street-scene-sketchdaily-2pts-if-you-can-identify
 - type: twitter
   url: https://twitter.com/roytang/statuses/718471817111863301/
 - type: facebook

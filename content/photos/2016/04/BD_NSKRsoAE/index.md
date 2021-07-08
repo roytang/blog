@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BD_NSKRsoAE/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/142522023310/just-some-handiwork-today-sketchdaily
+  url: https://roytang.tumblr.com/post/142522023310/just-some-handiwork-today-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/718850641079046145/
 - type: facebook

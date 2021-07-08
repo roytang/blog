@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BD0xd9LMoEV/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/142298815000/hank-and-peter-having-a-tete-a-tete-sketchdaily
+  url: https://roytang.tumblr.com/post/142298815000/hank-and-peter-having-a-tete-a-tete-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/717382099259424768/
 - type: facebook

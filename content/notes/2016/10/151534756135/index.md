@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151534756135/methados-aristocrat-wolf
+  url: https://roytang.tumblr.com/post/151534756135/methados-aristocrat-wolf
 - type: twitter
   url: https://twitter.com/roytang/statuses/784892978892505088/
 ---

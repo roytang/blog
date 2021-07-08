@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BDOWa-1soHA/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/141440271775/power-man-and-iron-fist-sketchdaily
+  url: https://roytang.tumblr.com/post/141440271775/power-man-and-iron-fist-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/711974601337638913/
 - type: facebook

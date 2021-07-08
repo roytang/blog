@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BDG-c53MoJg/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/141272819805/the-devil-of-hells-kitchen-sketchdaily
+  url: https://roytang.tumblr.com/post/141272819805/the-devil-of-hells-kitchen-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/710936722117275648/
 - type: facebook

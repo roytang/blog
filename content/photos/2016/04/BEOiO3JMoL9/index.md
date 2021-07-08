@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BEOiO3JMoL9/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/142849605595/batgirl-sketchdaily
+  url: https://roytang.tumblr.com/post/142849605595/batgirl-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/721007765120921600/
 - type: facebook

@@ -8,7 +8,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BEOTliLMoJJ/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/142849614515/this-ryu-amiibo-is-surprisingly-detailed
+  url: https://roytang.tumblr.com/post/142849614515/this-ryu-amiibo-is-surprisingly-detailed
 - type: twitter
   url: https://twitter.com/roytang/statuses/721007827460853760/
 - type: facebook

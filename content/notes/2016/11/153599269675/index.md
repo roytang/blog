@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/153599269675/joshua-wright-i-have-no-idea-where-this-is
+  url: https://roytang.tumblr.com/post/153599269675/joshua-wright-i-have-no-idea-where-this-is
 - type: twitter
   url: https://twitter.com/roytang/statuses/801771491914346496/
 ---

@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150425342945/micdotcom-watch-millie-bobby-brown-must-be
+  url: https://roytang.tumblr.com/post/150425342945/micdotcom-watch-millie-bobby-brown-must-be
 ---
 
 <p><a class="tumblr_blog" href="http://micdotcom.tumblr.com/post/150404329007">micdotcom</a>:</p>

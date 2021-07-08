@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BDLkze7MoBO/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/141374195090/marching-band-well-i-ran-out-of-space-for-more
+  url: https://roytang.tumblr.com/post/141374195090/marching-band-well-i-ran-out-of-space-for-more
 - type: twitter
   url: https://twitter.com/roytang/statuses/711584011227832320/
 - type: facebook

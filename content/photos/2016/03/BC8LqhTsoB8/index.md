@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BC8LqhTsoB8/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/141036770055/happy-birthday-albert-einstein-sketchdaily
+  url: https://roytang.tumblr.com/post/141036770055/happy-birthday-albert-einstein-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/709417666704842753/
 - type: facebook

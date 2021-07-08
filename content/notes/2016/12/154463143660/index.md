@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154463143660/theverynearfuture-bad-news
+  url: https://roytang.tumblr.com/post/154463143660/theverynearfuture-bad-news
 - type: twitter
   url: https://twitter.com/roytang/statuses/809023321035722752/
 ---

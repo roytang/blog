@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149721094835/britneyinventions-britney-spears-invented-the
+  url: https://roytang.tumblr.com/post/149721094835/britneyinventions-britney-spears-invented-the
 - type: twitter
   url: https://twitter.com/roytang/statuses/770768554895503360/
 ---

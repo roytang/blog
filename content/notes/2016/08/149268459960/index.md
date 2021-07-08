@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149268459960/bear1na-rogue-and-psylocke-by-kenneth-rocafort
+  url: https://roytang.tumblr.com/post/149268459960/bear1na-rogue-and-psylocke-by-kenneth-rocafort
 - type: twitter
   url: https://twitter.com/roytang/statuses/767347104163454976/
 ---

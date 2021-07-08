@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BDiw2RFsoOv/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/141903418990/this-one-was-a-request-sketchdaily
+  url: https://roytang.tumblr.com/post/141903418990/this-one-was-a-request-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/714848129544101889/
 - type: facebook

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BElw9wRsoHZ/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/143327729525/feeling-a-bit-crabby-today-so-just-a-quick-disney
+  url: https://roytang.tumblr.com/post/143327729525/feeling-a-bit-crabby-today-so-just-a-quick-disney
 - type: twitter
   url: https://twitter.com/roytang/statuses/724277126816374784/
 - type: facebook

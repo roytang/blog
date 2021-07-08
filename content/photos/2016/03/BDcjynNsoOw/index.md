@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BDcjynNsoOw/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/141763557425/i-drew-all-the-stuff-on-my-desk-sketchdaily
+  url: https://roytang.tumblr.com/post/141763557425/i-drew-all-the-stuff-on-my-desk-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/713974323669639168/
 - type: facebook

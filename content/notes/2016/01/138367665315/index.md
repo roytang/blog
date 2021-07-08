@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/138367665315/drawadinosaurday-grimlock
+  url: https://roytang.tumblr.com/post/138367665315/drawadinosaurday-grimlock
 - type: twitter
   url: https://twitter.com/roytang/statuses/693560305595650048/
 ---
