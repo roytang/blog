@@ -6,6 +6,9 @@ tags:
 - psvita
 albums:
 - gaming
+reviews:
+- media: games
+  title: "Virtue's Last Reward (PS Vita)"
 ---
 
 On this day I platinumed Zero Escape Vol 2: Virtue's Last Reward for PS Vita.
