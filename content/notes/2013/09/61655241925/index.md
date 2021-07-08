@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/61655241925/ellievhall-the-sass-between-buzzfeed-and
+  url: https://roytang.tumblr.com/post/61655241925/ellievhall-the-sass-between-buzzfeed-and
 - type: twitter
   url: https://twitter.com/roytang/statuses/380578764117512192/
 ---

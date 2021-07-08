@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/51641003814/paomagno-the-nature-of-ambition
+  url: https://roytang.tumblr.com/post/51641003814/paomagno-the-nature-of-ambition
 ---
 
 <p><a class="tumblr_blog" href="http://paomagno.tumblr.com/post/40653123712/the-nature-of-ambition">paomagno</a>:</p>

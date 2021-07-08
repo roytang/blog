@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/66868648869/eyesofamaranthine-x-men-50th-anniversary-30
+  url: https://roytang.tumblr.com/post/66868648869/eyesofamaranthine-x-men-50th-anniversary-30
 - type: twitter
   url: https://twitter.com/roytang/statuses/400605968721260544/
 - type: tumblr

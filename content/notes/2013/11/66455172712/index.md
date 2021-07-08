@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/66455172712/textsfromsuperheroes-the-best-of-thor-on-texts
+  url: https://roytang.tumblr.com/post/66455172712/textsfromsuperheroes-the-best-of-thor-on-texts
 ---
 
 <p><a href="http://textsfromsuperheroes.com/post/66423740603/the-best-of-thor-on-texts-from-superheroes" class="tumblr_blog">textsfromsuperheroes</a>:</p>

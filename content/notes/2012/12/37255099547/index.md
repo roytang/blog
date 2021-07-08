@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/37255099547/brianmichaelbendis-chris-bachalo-gallery
+  url: https://roytang.tumblr.com/post/37255099547/brianmichaelbendis-chris-bachalo-gallery
 - type: twitter
   url: https://twitter.com/roytang/statuses/276285097227980802/
 - type: tumblr

@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/69595028130/maxwittert-jean-scott-episode-5-see
+  url: https://roytang.tumblr.com/post/69595028130/maxwittert-jean-scott-episode-5-see
 ---
 
 <p><a class="tumblr_blog" href="http://maxwittert.tumblr.com/post/69563031030/jean-scott-episode-5-also-for-anybody-whos">maxwittert</a>:</p>

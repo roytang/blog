@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/52330422226/i-could-stare-at-these-for-hours
+  url: https://roytang.tumblr.com/post/52330422226/i-could-stare-at-these-for-hours
 - type: twitter
   url: https://twitter.com/roytang/statuses/342765821136891904/
 ---

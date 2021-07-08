@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/35561677076/liznugentdrawsmagic-im-sure-everybody-nobody
+  url: https://roytang.tumblr.com/post/35561677076/liznugentdrawsmagic-im-sure-everybody-nobody
 - type: twitter
   url: https://twitter.com/roytang/statuses/267989787435225088/
 ---

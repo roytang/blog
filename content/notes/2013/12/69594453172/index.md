@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/69594453172/dumbesttweets-i-nearly-choked
+  url: https://roytang.tumblr.com/post/69594453172/dumbesttweets-i-nearly-choked
 - type: twitter
   url: https://twitter.com/roytang/statuses/410439373361283072/
 ---

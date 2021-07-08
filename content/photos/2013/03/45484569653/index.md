@@ -3,7 +3,7 @@ date: 2013-03-16 07:48:47
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/45484569653/nancy-binay-for-senator-i-couldnt-resist-after
+  url: https://roytang.tumblr.com/post/45484569653/nancy-binay-for-senator-i-couldnt-resist-after
 - type: twitter
   url: https://twitter.com/roytang/statuses/312832823830663168/
 ---

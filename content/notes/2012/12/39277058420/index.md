@@ -8,7 +8,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/39277058420/govph-plan-your-year-ahead-attached-is-the
+  url: https://roytang.tumblr.com/post/39277058420/govph-plan-your-year-ahead-attached-is-the
 - type: twitter
   url: https://twitter.com/roytang/statuses/285599867739467778/
 ---

@@ -3,7 +3,7 @@ date: 2013-01-24 15:26:19
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/41361920410/last-page-of-justice-league-16
+  url: https://roytang.tumblr.com/post/41361920410/last-page-of-justice-league-16
 - type: twitter
   url: https://twitter.com/roytang/statuses/294466212291821569/
 - type: tumblr

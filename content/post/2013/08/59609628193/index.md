@@ -3,7 +3,7 @@ date: 2013-08-28 20:02:59
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/59609628193/tfw-you-ask-someone-a-question-thinking-he-was
+  url: https://roytang.tumblr.com/post/59609628193/tfw-you-ask-someone-a-question-thinking-he-was
 title: TFW you ask someone a question thinking he was someone else completely.
 ---
 

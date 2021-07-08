@@ -3,7 +3,7 @@ date: 2012-12-23 15:47:22
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/38630074013/random-story-time
+  url: https://roytang.tumblr.com/post/38630074013/random-story-time
 - type: twitter
   url: https://twitter.com/roytang/statuses/282875053421510656/
 title: Random story time

@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/50984796827/brianmichaelbendis-guardians-of-the-galaxy-3
+  url: https://roytang.tumblr.com/post/50984796827/brianmichaelbendis-guardians-of-the-galaxy-3
 - type: twitter
   url: https://twitter.com/roytang/statuses/336817878265372672/
 ---

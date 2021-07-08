@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/66765643136/jl8comic-edit-on-the-original-image-i
+  url: https://roytang.tumblr.com/post/66765643136/jl8comic-edit-on-the-original-image-i
 - type: twitter
   url: https://twitter.com/roytang/statuses/400182741058465792/
 ---

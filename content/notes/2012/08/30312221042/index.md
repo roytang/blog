@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/30312221042/no-idea-if-all-new-x-men-is-going-to-be-any-good
+  url: https://roytang.tumblr.com/post/30312221042/no-idea-if-all-new-x-men-is-going-to-be-any-good
 - type: twitter
   url: https://twitter.com/roytang/statuses/240064331558027264/
 ---

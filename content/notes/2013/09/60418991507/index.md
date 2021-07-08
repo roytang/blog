@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/60418991507/meanmisterdharma-zen
+  url: https://roytang.tumblr.com/post/60418991507/meanmisterdharma-zen
 - type: twitter
   url: https://twitter.com/roytang/statuses/375816812870774784/
 ---
