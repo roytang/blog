@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/Bsmx_nfh8zF/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/181999801425/sunstreaker-and-drag-strip-transformers-dilawan
+  url: https://roytang.tumblr.com/post/181999801425/sunstreaker-and-drag-strip-transformers-dilawan
 - type: twitter
   url: https://twitter.com/roytang/statuses/1084711192306814976/
 tags:

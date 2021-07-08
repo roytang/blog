@@ -1,9 +1,13 @@
 ---
 date: 2019-03-06 15:11:04
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Captain Marvel (2019)
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/183266384975/captain-marvel-spoiler-free-review
+  url: https://roytang.tumblr.com/post/183266384975/captain-marvel-spoiler-free-review
 - type: twitter
   url: https://twitter.com/roytang/statuses/1103312043057336321/
 - type: twitter
@@ -19,10 +23,6 @@ tags:
 - spoiler-free-review
 - movies
 title: Captain Marvel spoiler-free review!
-reviews:
-- media: movies
-  title: "Captain Marvel (2019)"
-  description: Spoiler-free review
 ---
 
 - movie was pretty good, no major issues

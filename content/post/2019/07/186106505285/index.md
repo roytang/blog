@@ -3,7 +3,7 @@ date: 2019-07-07 02:15:43
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/186106505285/spider-man-far-from-home-spoiler-free-review
+  url: https://roytang.tumblr.com/post/186106505285/spider-man-far-from-home-spoiler-free-review
 - type: twitter
   url: https://twitter.com/roytang/statuses/1147690628924526593/
 - type: facebook

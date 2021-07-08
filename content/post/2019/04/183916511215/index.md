@@ -1,9 +1,13 @@
 ---
 date: 2019-04-03 16:39:17
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Shazam (2019)
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/183916511215/shazam-spoiler-free-review
+  url: https://roytang.tumblr.com/post/183916511215/shazam-spoiler-free-review
 - type: twitter
   url: https://twitter.com/roytang/statuses/1113481104462352385/
 - type: tumblr
@@ -15,10 +19,6 @@ tags:
 - shazam
 - spoiler-free-review
 title: Shazam! spoiler-free review!
-reviews:
-- media: movies
-  title: "Shazam (2019)"
-  description: Spoiler-free review
 ---
 
 - I liked this movie, it had good heart, fun kid-friendly humor, and a strong message about family

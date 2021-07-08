@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/181702615103/bear1na-spider-man-and-gwen-stacy-spider-gwen
+  url: https://roytang.tumblr.com/post/181702615103/bear1na-spider-man-and-gwen-stacy-spider-gwen
 - type: twitter
   url: https://twitter.com/roytang/statuses/1081097969221468161/
 - type: tumblr

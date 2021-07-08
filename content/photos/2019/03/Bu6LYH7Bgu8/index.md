@@ -8,7 +8,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/Bu6LYH7Bgu8/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/183402270925/i-have-this-sneaking-suspicion-that-i-might-be
+  url: https://roytang.tumblr.com/post/183402270925/i-have-this-sneaking-suspicion-that-i-might-be
 - type: twitter
   url: https://twitter.com/roytang/statuses/1105456747823673346/
 tags:

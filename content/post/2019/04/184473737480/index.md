@@ -3,7 +3,7 @@ date: 2019-04-27 04:47:41
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/184473737480/avengers-endgame-spoiler-free-review
+  url: https://roytang.tumblr.com/post/184473737480/avengers-endgame-spoiler-free-review
 - type: twitter
   url: https://twitter.com/roytang/statuses/1121999334961307648/
 - type: facebook
