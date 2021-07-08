@@ -1,12 +1,17 @@
 ---
-title: "On Being President"
-date: 2021-07-08T19:33:03+08:00
-tags:
-- philippines
+date: 2021-07-08 11:33:03
 dontinlinephotos: true
 resources:
 - src: DSC02047.JPG
-  title: "I'm not even running yet and I already have opposition!"
+  title: I'm not even running yet and I already have opposition!
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106544996803797701
+- type: twitter
+  url: https://twitter.com/roytang/status/1413114107578966022/
+tags:
+- philippines
+title: On Being President
 ---
 
 During a company holiday party in the mid-2000s our theme was "statement shirts" and I decided to jokingly go with a somewhat tight-fitting purple shirt with the caption **"ROY TANG FOR PRESIDENT"**:
