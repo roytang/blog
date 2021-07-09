@@ -1,13 +1,18 @@
 ---
-title: "Black Widow"
-date: 2021-07-09T22:13:20+08:00
-tags:
-- movies
-- mcu
+date: 2021-07-09 14:13:20
 reviews:
 - media: movies
   rating: 4.0
-  title: "Black Widow (2021)"
+  title: Black Widow (2021)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106551241716445323
+- type: twitter
+  url: https://twitter.com/roytang/status/1413513781905215496/
+tags:
+- movies
+- mcu
+title: Black Widow
 ---
 
 We finally return to the MCU films, a full two years after the [last film](https://roytang.net/2019/07/spider-man-far-from-home/) was released! Breaking a decade-long tradition, I am unable to watch it in theaters this time (and probably won't get to watch any of the others this year in theaters either), but at least we are moving forward now, onto the next phase!
