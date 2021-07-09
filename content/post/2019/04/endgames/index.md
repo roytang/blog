@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2019-04-27 05:56:56
+reviews:
+- media: movies
+  title: Avengers Endgame (2019)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1122018176613650432/
@@ -9,11 +12,9 @@ tags:
 - pop culture
 - mtg
 - movies
+- mcu
 title: We're in the Endgames now
 type: post
-reviews:
-- media: movies
-  title: "Avengers Endgame (2019)"
 ---
 
 Two endgames to discuss in one post! MTG War of the Spark and Avengers Endgame spoilers ahoy!

@@ -1,5 +1,9 @@
 ---
 date: 2018-02-16 13:09:51
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Black Panther (2018)
 source: twitter
 syndicated:
 - type: twitter
@@ -15,10 +19,7 @@ syndicated:
 tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Black Panther (2018)"
-  description: Spoiler-free review
+- mcu
 ---
 
 BLACK PANTHER spoiler-free review!
