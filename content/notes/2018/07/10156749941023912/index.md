@@ -11,6 +11,7 @@ syndicated:
 tags:
 - spoiler-free review
 - movies
+- mcu
 ---
 
 Ant-Man and the Wasp Spoiler Free Review!

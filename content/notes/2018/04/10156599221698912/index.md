@@ -1,16 +1,17 @@
 ---
 date: 2018-04-27 23:06:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Avengers Infinity War (2018)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156599221698912
-tags: 
+tags:
 - spoiler-free-review
 - movies
-reviews:
-- media: movies
-  title: "Avengers Infinity War (2018)"
-  description: Spoiler-free review
+- mcu
 ---
 
 Avengers Infinity War Spoiler Free Review:
