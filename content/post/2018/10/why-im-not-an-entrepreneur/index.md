@@ -4,7 +4,7 @@ categories: []
 date: 2018-10-09 01:00:22
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/178871243370/why-im-not-an-entrepreneur
+  url: https://roytang.tumblr.com/post/178871243370/why-im-not-an-entrepreneur
 - type: twitter
   url: https://twitter.com/roytang/statuses/1049468805372661760/
 title: Why I'm Not An Entrepreneur

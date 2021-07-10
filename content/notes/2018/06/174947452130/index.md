@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/174947452130/lord-brixie-every-time-i-see-this-im-equally
+  url: https://roytang.tumblr.com/post/174947452130/lord-brixie-every-time-i-see-this-im-equally
 - type: twitter
   url: https://twitter.com/roytang/statuses/1008017691691675651/
 ---

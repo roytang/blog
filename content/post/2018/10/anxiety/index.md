@@ -2,15 +2,15 @@
 author: roy
 categories: []
 date: 2018-10-30 05:03:07
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179578318360/anxiety
+  url: https://roytang.tumblr.com/post/179578318360/anxiety
 - type: twitter
   url: https://twitter.com/roytang/statuses/1057137318627340288/
 title: Anxiety
 type: post
 url: /2018/10/anxiety/
-dontinlinephotos: true
 ---
 
 Webcomic PVP Online recently did [a short series on the character Cole suffering anxiety][1].   

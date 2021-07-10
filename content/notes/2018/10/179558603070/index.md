@@ -7,11 +7,11 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179558603070/were-in-the-blue
+  url: https://roytang.tumblr.com/post/179558603070/were-in-the-blue
 - type: twitter
   url: https://twitter.com/roytang/statuses/1056958610255896579/
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1056982295276609536/  
+  url: https://twitter.com/roytang/statuses/1056982295276609536/
 ---
 
 <p>We’re in the blue! <br/></p>

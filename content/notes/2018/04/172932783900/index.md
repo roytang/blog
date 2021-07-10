@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/172932783900/halojay-this-movie-was-greatly-underrated
+  url: https://roytang.tumblr.com/post/172932783900/halojay-this-movie-was-greatly-underrated
 ---
 
 <p><a href="http://halojay.tumblr.com/post/120156682139/this-movie-was-greatly-underrated" class="tumblr_blog">halojay</a>:</p>

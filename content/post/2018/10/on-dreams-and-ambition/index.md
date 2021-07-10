@@ -4,7 +4,7 @@ categories: []
 date: 2018-10-17 01:00:18
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179129815935/on-dreams-and-ambition
+  url: https://roytang.tumblr.com/post/179129815935/on-dreams-and-ambition
 - type: twitter
   url: https://twitter.com/roytang/statuses/1052364149097938945/
 title: On Dreams and Ambition

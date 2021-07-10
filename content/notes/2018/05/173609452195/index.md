@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/173609452195/hannahblumenreich-high-school-sucks-but-sometimes
+  url: https://roytang.tumblr.com/post/173609452195/hannahblumenreich-high-school-sucks-but-sometimes
 - type: twitter
   url: https://twitter.com/roytang/statuses/992797621453512710/
 ---

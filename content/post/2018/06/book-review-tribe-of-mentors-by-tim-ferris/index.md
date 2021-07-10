@@ -2,9 +2,12 @@
 author: roy
 categories: []
 date: 2018-06-17 01:00:03
+reviews:
+- media: books
+  title: Tribe of Mentors by Tim Ferris
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/174962368170/book-review-tribe-of-mentors-by-tim-ferris
+  url: https://roytang.tumblr.com/post/174962368170/book-review-tribe-of-mentors-by-tim-ferris
 - type: twitter
   url: https://twitter.com/roytang/statuses/1008164642093522945/
 tags:
@@ -14,9 +17,6 @@ tags:
 title: 'Book Review: Tribe of Mentors by Tim Ferris'
 type: post
 url: /2018/06/book-review-tribe-of-mentors-by-tim-ferris/
-reviews:
-- media: books
-  title: Tribe of Mentors by Tim Ferris
 ---
 
 This book was on sale on Amazon Kindle a while back, I figured I'd give it a whirl. Some years ago I had read one of the author's previous books, _The Four Hour Workweek_, and I wasn't too impressed. It was interesting at least, but a lot of the advice seemed either difficult to apply to my personal situation or involved doing stuff I wasn't really interested in (i.e. sales and marketing and whatnot). But this new book intrigued me -- it's a collection of life advice from "mentors", basically successful people from a wild variety of fields including entrepreneurs, celebrities, venture capitalists, athletes, chefs, scholars, bloggers, authors, and so on. I'm always a sucker for this sort of thing -- even if I don't learn anything myself personally, it's always interesting to learn how other people approach life. Spoilers: I enjoyed the book.

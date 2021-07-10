@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/173485740290/mrkltpzyxm-wackd-hannahblumenreich-aunt
+  url: https://roytang.tumblr.com/post/173485740290/mrkltpzyxm-wackd-hannahblumenreich-aunt
 ---
 
 <p><a href="http://mrkltpzyxm.tumblr.com/post/173447843690/wackd-hannahblumenreich-aunt-may-does-right" class="tumblr_blog">mrkltpzyxm</a>:</p>

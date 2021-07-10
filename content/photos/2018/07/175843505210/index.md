@@ -3,7 +3,7 @@ date: 2018-07-13 09:51:02
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/175843505210/marvel-adventures-spider-man-57
+  url: https://roytang.tumblr.com/post/175843505210/marvel-adventures-spider-man-57
 - type: twitter
   url: https://twitter.com/roytang/statuses/1017707982388416512/
 tags:

@@ -2,9 +2,12 @@
 author: roy
 categories: []
 date: 2018-10-10 01:00:51
+reviews:
+- media: books
+  title: The 1-Page Marketing Plan by Allan Dib
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/178903135010/book-review-the-1-page-marketing-plan-by-allan
+  url: https://roytang.tumblr.com/post/178903135010/book-review-the-1-page-marketing-plan-by-allan
 - type: twitter
   url: https://twitter.com/roytang/statuses/1049831215094738944/
 tags:
@@ -14,9 +17,6 @@ tags:
 title: 'Book Review: The 1-Page Marketing Plan by Allan Dib'
 type: post
 url: /2018/10/book-review-the-1-page-marketing-plan-by-allan-dib/
-reviews:
-- media: books
-  title: The 1-Page Marketing Plan by Allan Dib
 ---
 
 I realise it's a bit weird for me to be reviewing a marketing book, given my self-proclaimed aversion to marketing and sales. A while back I wrote a [review for Tim Ferris' book Tribe of Mentors][1] on this blog, and for some reason someone decided to contact me citing this review and asked if I would review this other book and they would give me a complimentary copy. This was something new to me, so I thought I'd try it out! (I guess this a thing I do know. Feel free to send me books on random topics to review!)

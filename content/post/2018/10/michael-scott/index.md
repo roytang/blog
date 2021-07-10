@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2018-10-26 03:00:01
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179438414995/michael-scott
+  url: https://roytang.tumblr.com/post/179438414995/michael-scott
 - type: twitter
   url: https://twitter.com/roytang/statuses/1055656070113386497/
 tags:
@@ -13,7 +14,6 @@ tags:
 title: Michael Scott
 type: post
 url: /2018/10/michael-scott/
-dontinlinephotos: true
 ---
 
 I've been re-watching The Office (US) lately (it's a good show to leave running in the background while you're doing other stuff), and I just find the character of Michael Scott fascinating. He's funny and well-written and basically just a big bag of human flaws that somehow bumbles his way into managing an office. He's self-centered, attention-hungry, easily distracted, and refuses to acknowledge any bad news, yet despite all of that he loves his workmates like a family.  

@@ -4,7 +4,7 @@ categories: []
 date: 2018-05-25 01:00:01
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/174228687020/logs-and-memories-and-audit-trails
+  url: https://roytang.tumblr.com/post/174228687020/logs-and-memories-and-audit-trails
 - type: twitter
   url: https://twitter.com/roytang/statuses/999827460719022080/
 tags:

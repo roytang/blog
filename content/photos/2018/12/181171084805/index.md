@@ -1,9 +1,13 @@
 ---
 date: 2018-12-16 16:36:18
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: 'Spider-Man: Into the Spider-Verse (2018)'
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/181171084805/into-the-spider-verse-spoiler-free-review
+  url: https://roytang.tumblr.com/post/181171084805/into-the-spider-verse-spoiler-free-review
 - type: twitter
   url: https://twitter.com/roytang/statuses/1074342469976903680/
 - type: twitter
@@ -19,10 +23,6 @@ tags:
 - comics
 - spoiler-free-review
 - movies
-reviews:
-- media: movies
-  title: "Spider-Man: Into the Spider-Verse (2018)"
-  description: Spoiler-free review
 ---
 
 <p>

@@ -10,7 +10,7 @@ reviews:
   title: 'Ni No Kuni: Wrath of the White Witch'
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/178996306410/late-game-review-ni-no-kuni-wrath-of-the-white
+  url: https://roytang.tumblr.com/post/178996306410/late-game-review-ni-no-kuni-wrath-of-the-white
 - type: twitter
   url: https://twitter.com/roytang/statuses/1050916325122613249/
 tags:

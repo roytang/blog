@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2018-02-01 01:00:54
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/170364110450/trying-out-3d-modelling-with-blender
+  url: https://roytang.tumblr.com/post/170364110450/trying-out-3d-modelling-with-blender
 - type: twitter
   url: https://twitter.com/roytang/statuses/958868554547449857/
 tags:
@@ -13,7 +14,6 @@ tags:
 title: Trying out 3d Modelling with Blender
 type: post
 url: /2018/02/trying-out-3d-modelling-with-blender/
-dontinlinephotos: true
 ---
 
 I decided to try learning some 3d modeling. For the past couple of weeks I've been following this beginner [Blender][1] tutorial where I had to make donuts. ([Link to the tutorial series on Youtube][2].) Here's my output!

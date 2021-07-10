@@ -2,9 +2,19 @@
 author: roy
 categories: []
 date: 2018-10-12 01:00:31
+dontinlinephotos: true
+resources:
+- src: 35972673_10156725021203912_4346463077705711616_n1.jpg
+  title: The meme was supposedly to post movie posters, but for the first few ones
+    I was feeling inspired enough to try to draw the movie posters instead.
+- src: 13124658_10154577028233912_132731298121342553_n1.jpg
+  title: Han looks terrible in this drawing. I have yet to master capturing RL human
+    faces properly.
+- src: 36314767_10156731563033912_3316285489241128960_n1
+  title: You could tell I was starting to get lazier with the drawings.
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/178965365230/my-top-10-favorite-movies-of-all-time
+  url: https://roytang.tumblr.com/post/178965365230/my-top-10-favorite-movies-of-all-time
 - type: twitter
   url: https://twitter.com/roytang/statuses/1050552671269281793/
 tags:
@@ -14,14 +24,6 @@ tags:
 title: My Top 10 Favorite Movies of All Time
 type: post
 url: /2018/10/my-top-10-favorite-movies-of-all-time/
-dontinlinephotos: true
-resources:
-- src: 35972673_10156725021203912_4346463077705711616_n1.jpg
-  title: The meme was supposedly to post movie posters, but for the first few ones I was feeling inspired enough to try to draw the movie posters instead.
-- src: 13124658_10154577028233912_132731298121342553_n1.jpg
-  title: Han looks terrible in this drawing. I have yet to master capturing RL human faces properly.
-- src: 36314767_10156731563033912_3316285489241128960_n1
-  title: You could tell I was starting to get lazier with the drawings.
 ---
 
 This started as one of those silly Facebook memes where you post one thing every day and didn't have to explain and you tagged other people and they continued with the meme. I was very bad at following the meme instructions, but I did find the exercise interesting. I found it difficult to identify 10 specific movies, and since I didn't explain during the FB posts, I thought I'd make a blog post about them instead. So here we go!

@@ -4,7 +4,7 @@ categories: []
 date: 2018-05-01 01:00:47
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/173467318760/spoiler-alert
+  url: https://roytang.tumblr.com/post/173467318760/spoiler-alert
 - type: twitter
   url: https://twitter.com/roytang/statuses/991131867796660225/
 tags:

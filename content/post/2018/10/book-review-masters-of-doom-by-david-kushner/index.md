@@ -2,9 +2,13 @@
 author: roy
 categories: []
 date: 2018-10-14 01:00:45
+dontinlinephotos: true
+resources:
+- src: doom_screenshot.jpg
+  title: Mandatory screenshot of old-school Doom
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179028108415/book-review-masters-of-doom-by-david-kushner
+  url: https://roytang.tumblr.com/post/179028108415/book-review-masters-of-doom-by-david-kushner
 - type: twitter
   url: https://twitter.com/roytang/statuses/1051276597037273093/
 tags:
@@ -15,10 +19,6 @@ tags:
 title: 'Book Review: Masters of Doom by David Kushner'
 type: post
 url: /2018/10/book-review-masters-of-doom-by-david-kushner/
-dontinlinephotos: true
-resources:
-- src: doom_screenshot.jpg
-  title: Mandatory screenshot of old-school Doom
 ---
 
 I've had a copy of this book for quite a while now, but for some reason only got around to starting on it three days ago. It's not a particularly long book, but I pretty much devoured it in twenty four hours.

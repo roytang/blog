@@ -1,10 +1,26 @@
 ---
+albums:
+- gaming
 author: roy
 categories: []
 date: 2018-07-16 01:00:04
+dontinlinephotos: true
+resources:
+- src: 20180707214302_1.jpg
+  title: I haven't done this quest yet, because I currently have like 150k of in-game
+    money and discovered that dying takes away 7% of my total. Not sure where I want
+    to spend that money though lol
+- src: 20180527235423_1.jpg
+  title: Such scintillating conversations in this game
+- src: 20171025204940_1.jpg
+  title: I've actually played enough Eternal that I regularly make Master rank (usually
+    within the last week of the month) and my favorite was when I beat the top-ranked
+    player at that time (I mulliganned this hand obviously)
+- src: 20180714145840_1.jpg
+  title: This is probably the only costume I'm willing to pay for in this game
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/175935008180/july-2018-gaming-update-from-2011
+  url: https://roytang.tumblr.com/post/175935008180/july-2018-gaming-update-from-2011
 - type: twitter
   url: https://twitter.com/roytang/statuses/1018678641327333384/
 tags:
@@ -12,18 +28,6 @@ tags:
 title: 'July 2018: Gaming Update from 2011'
 type: post
 url: /2018/07/july-2018-gaming-update-from-2011/
-dontinlinephotos: true
-resources:
-- src: 20180707214302_1.jpg
-  title: I haven't done this quest yet, because I currently have like 150k of in-game money and discovered that dying takes away 7% of my total. Not sure where I want to spend that money though lol
-- src: 20180527235423_1.jpg
-  title: Such scintillating conversations in this game
-- src: 20171025204940_1.jpg
-  title: I've actually played enough Eternal that I regularly make Master rank (usually within the last week of the month) and my favorite was when I beat the top-ranked player at that time (I mulliganned this hand obviously)
-- src: 20180714145840_1.jpg
-  title: This is probably the only costume I'm willing to pay for in this game
-albums: 
-- gaming
 ---
 
 It has been a while since I had a bit of free time (work is busy busy busy). I thought I would post about something here. And I've decided (just now), that I need to post more frivolous things, a bit of [dumb blogging][1] as some might say. Today I will talk about what games I've been playing in the whatever little spare time I've been able to scrounge up. I find that if I don't distract myself with some gaming, my brain tends to overthink about silly things like problems and deadlines that I can't do anything about anyway. Most of these are for Steam, because someone borrowed my PS4 and hasn't given it back yet.

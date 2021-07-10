@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/172482875700/theartofanimation-glen-brogan
+  url: https://roytang.tumblr.com/post/172482875700/theartofanimation-glen-brogan
 - type: twitter
   url: https://twitter.com/roytang/statuses/980458418753490945/
 ---

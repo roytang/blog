@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2018-10-18 01:00:16
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179163237665/when-i-dream-i-live-in-a-different-house
+  url: https://roytang.tumblr.com/post/179163237665/when-i-dream-i-live-in-a-different-house
 - type: twitter
   url: https://twitter.com/roytang/statuses/1052726525617954816/
 tags:
@@ -12,7 +13,6 @@ tags:
 title: When I dream I live in a different house
 type: post
 url: /2018/10/when-i-dream-i-live-in-a-different-house/
-dontinlinephotos: true
 ---
 
 I've noticed that when I dream I live in a different house. In the dreams, "home" is not the home that I live in now. Instead it's the "home" I grew up in. It's my grandparents' house, where we lived until the right after the turn of the millenium.

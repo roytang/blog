@@ -4,7 +4,7 @@ categories: []
 date: 2018-10-16 13:00:51
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179113763160/the-rise-and-fall-of-the-final-fantasy-forum
+  url: https://roytang.tumblr.com/post/179113763160/the-rise-and-fall-of-the-final-fantasy-forum
 - type: twitter
   url: https://twitter.com/roytang/statuses/1052204363056381952/
 tags:

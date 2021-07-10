@@ -3,7 +3,7 @@ date: 2018-08-02 23:00:55
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/176568383505/i-found-a-couple-of-old-quiz-night-handouts-from
+  url: https://roytang.tumblr.com/post/176568383505/i-found-a-couple-of-old-quiz-night-handouts-from
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156819098748912
 tags:

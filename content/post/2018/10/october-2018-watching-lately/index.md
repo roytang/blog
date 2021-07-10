@@ -2,9 +2,16 @@
 author: roy
 categories: []
 date: 2018-10-29 05:02:53
+reviews:
+- media: tv
+  title: Tom Clancy's Jack Ryan
+- media: tv
+  title: Daredevil season 3
+- media: movies
+  title: Batman Ninja (2018)
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179544983725/october-2018-watching-lately
+  url: https://roytang.tumblr.com/post/179544983725/october-2018-watching-lately
 - type: twitter
   url: https://twitter.com/roytang/statuses/1056774924084408320/
 tags:
@@ -16,13 +23,6 @@ tags:
 title: 'Watching Lately: October 2018'
 type: post
 url: /2018/10/october-2018-watching-lately/
-reviews:
-- media: tv
-  title: "Tom Clancy's Jack Ryan"
-- media: tv
-  title: "Daredevil season 3"
-- media: movies
-  title: "Batman Ninja (2018)"
 ---
 
 Some things I've been watching lately, aside from the usual TV shows I follow:

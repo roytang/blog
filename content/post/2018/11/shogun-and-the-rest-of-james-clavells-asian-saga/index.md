@@ -2,9 +2,13 @@
 author: roy
 categories: []
 date: 2018-11-01 05:03:25
+dontinlinephotos: true
+reviews:
+- media: books
+  title: Shogun by James Clavell
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179643297025/shogun-and-the-rest-of-james-clavells-asian-saga
+  url: https://roytang.tumblr.com/post/179643297025/shogun-and-the-rest-of-james-clavells-asian-saga
 - type: twitter
   url: https://twitter.com/roytang/statuses/1057862142618206208/
 tags:
@@ -13,10 +17,6 @@ tags:
 title: Shogun, and the rest of James Clavell's Asian Saga
 type: post
 url: /2018/11/shogun-and-the-rest-of-james-clavells-asian-saga/
-dontinlinephotos: true
-reviews:
-- media: books
-  title: Shogun by James Clavell
 ---
 
 {{< img src="1901150_10152838020443912_1173953250_n1.jpg" >}}

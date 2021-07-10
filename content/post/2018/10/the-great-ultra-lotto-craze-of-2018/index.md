@@ -4,7 +4,7 @@ categories: []
 date: 2018-10-20 01:00:40
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/179228238650/the-great-ultra-lotto-craze-of-2018
+  url: https://roytang.tumblr.com/post/179228238650/the-great-ultra-lotto-craze-of-2018
 - type: twitter
   url: https://twitter.com/roytang/statuses/1053451310362697728/
 tags:
