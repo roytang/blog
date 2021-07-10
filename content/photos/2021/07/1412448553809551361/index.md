@@ -10,4 +10,5 @@ tags:
 - sketchdaily
 ---
 
-Football head 190/365 #sketchdaily
+Football head 190/365 #sketchdaily (Correction: 187/365)
+

@@ -10,4 +10,5 @@ tags:
 - sketchdaily
 ---
 
-Hot weather #sketchdaily 191/365
+Hot weather #sketchdaily 191/365 (Correction: 188/365)
+
