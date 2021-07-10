@@ -69,6 +69,7 @@ Spoiler-free review first, then spoilery bits follow afterwards.
 Nitpicks:
 
 - is Nat a super soldier now? I mean, she survives a car exploding and tumbling in midair, and also a fall from several stories high where she bumps her head a couple of times along the way. She basically just gets up and shrugs it all off, it's helluva plot armor.
+- Taskmaster fight sequences were great, but the character was severely underused, and the actress really got off easy I think? 
 - the scene at the end with Nat not wanting to leave with the others **on a plane** even while Ross and his men are still a ways away seems ridiculous, and the cut to "2 weeks later" leaves much to be desired; some people on Reddit claim there was probably a scene where she made a deal with Ross but the scene was cut; regardless, it's an annoying discontinuity in the theatrical cut
 - I wish they could have managed one or two more fanservice cameos, and not just Valentina in the post-credits scene. Like, I would have wanted to have Chris Evans' Cap meet up with Nat in the "2 weeks after" scene so they go break out their friends together.
 
