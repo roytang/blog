@@ -6,12 +6,18 @@ resources:
 - src: 20191226125254_1.jpg
   title: The corridor of death where I finished the game. Probably around 15-20 aliens
     died in this area
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: X-Com 2 (Steam)
 slug: xcom2
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1210420310807367685/
 tags:
 - gaming
+- games
 title: 'Review: XCom 2'
 ---
 

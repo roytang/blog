@@ -2,14 +2,20 @@
 author: roy
 categories: []
 date: 2019-01-13 05:56:56
+dontinlinephotos: true
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Papers Please (Steam)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1084329543320645634/
 tags:
 - Gaming
+- games
 title: Papers Please
 type: post
-dontinlinephotos: true
 ---
 
 I had been eyeing [Lucas Pope](https://twitter.com/dukope)'s acclaimed indie hit *Papers Please* on Steam for a while, but finally bit the bullet on it during the last sale. The story of the game itself is interesting, as Pope was more or less a one-man team, doing the design, code, music and art for the game himself.
