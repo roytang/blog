@@ -1,6 +1,11 @@
 ---
 date: 2020-07-22
 dontinlinephotos: true
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Final Fantasy VII Remake (PS4)
 slug: ff7r-review
 syndicated:
 - type: mastodon
