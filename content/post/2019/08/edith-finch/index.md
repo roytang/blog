@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1164691569775190016/
 tags:
 - gaming
+- games
 title: 'Games: What Remains of Edith Finch'
 type: post
 url: /2019/08/edith-finch/

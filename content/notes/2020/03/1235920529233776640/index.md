@@ -14,6 +14,7 @@ syndicated:
 tags:
 - gaming
 - twitch
+- games
 ---
 
 Streaming: Blind Frostpunk Run https://www.twitch.tv/twitchyroy #twitch #gaming

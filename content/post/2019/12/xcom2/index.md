@@ -17,6 +17,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1210420310807367685/
 tags:
 - gaming
+- games
 title: 'Review: XCom 2'
 ---
 

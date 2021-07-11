@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1285791698442842116/
 tags:
 - gaming
+- games
 title: 'Review: Final Fantasy VII Remake'
 ---
 
