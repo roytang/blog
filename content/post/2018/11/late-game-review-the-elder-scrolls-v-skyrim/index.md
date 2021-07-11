@@ -1,7 +1,18 @@
 ---
+albums:
+- gaming
 author: roy
 categories: []
 date: 2018-11-11 05:07:53
+resources:
+- src: 2 - 0mR5pvs.jpg
+  title: My final armor set was the Deathbrand from the Dragonborn expansion since
+    I was trying to level up Light Armor.
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'The Elder Scrolls V: Skyrim (Steam)'
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1061487292571881472/
@@ -10,14 +21,9 @@ tags:
 - review
 - Gaming
 - skyrim
-albums:
-- gaming
 title: 'Late Game Review: The Elder Scrolls V - Skyrim'
 type: post
 url: /2018/11/late-game-review-the-elder-scrolls-v-skyrim/
-resources:
-- src: 2 - 0mR5pvs.jpg
-  title: My final armor set was the Deathbrand from the Dragonborn expansion since I was trying to level up Light Armor.
 ---
 
 _(“Late Game Review" because I’m trying to play through games on my ridiculously old backlog, so these games are pretty old)_

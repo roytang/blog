@@ -2,8 +2,14 @@
 author: roy
 categories: []
 date: 2018-11-25 02:00:21
+dontinlinephotos: true
 featuredImage: https://vignette.wikia.nocookie.net/eternalcardgame/images/6/6d/Icaria%2C_Valkyrie_Captain.png/revision/latest/scale-to-width-down/318?cb=20180307222958
 publishdate: 2018-11-25 02:00:21
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Eternal Card Game (Steam)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1066527632571940864/
@@ -13,7 +19,6 @@ tags:
 - Gaming
 title: 'Review: Eternal or "Eternal primer for MTG players"'
 type: post
-dontinlinephotos: true
 ---
 
 I said in my previous [Duelyst review](/2017/02/review-duelyst/) that [Eternal](https://www.direwolfdigital.com/eternal/) didn't really hook me. That was in Feb 2017. I stopped playing Duelyst after around six months. I started playing Eternal regularly July of that year, and have been playing regularly ever since.
