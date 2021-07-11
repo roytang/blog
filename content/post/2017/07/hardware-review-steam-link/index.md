@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2017-07-06 01:30:43
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/162650311295/hardware-review-steam-link
+  url: https://roytang.tumblr.com/post/162650311295/hardware-review-steam-link
 - type: twitter
   url: https://twitter.com/roytang/statuses/882775461666988032/
 tags:
@@ -14,7 +15,6 @@ tags:
 title: 'Hardware Review: Steam Link'
 type: post
 url: /2017/07/hardware-review-steam-link/
-dontinlinephotos: true
 ---
 
 Last week the local gaming shop had the [Steam Link][1] on 70% discount so I figured I'd give it a try. We recently got a new TV at home, so I was eager to try out some Steam games on the big screen. If you're too lazy to click the link above, the Steam Link is basically a set-top box that streams your gameplay to a TV via HDMI, allowing you to enjoy your steam games from the comfort of a couch. There was also a sale on Steam controllers, but I had a variety of controllers at home to try out, so I passed on that.
@@ -56,4 +56,3 @@ While a lot of my Steam games are also available on consoles I have, it's often 
 &nbsp;
 
  [1]: http://store.steampowered.com/app/353380/Steam_Link/
- 

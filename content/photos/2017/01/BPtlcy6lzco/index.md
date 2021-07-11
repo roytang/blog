@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BPtlcy6lzco/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/156382339820/believe-me-my-heart-is-exceptionally-pure-pure
+  url: https://roytang.tumblr.com/post/156382339820/believe-me-my-heart-is-exceptionally-pure-pure
 - type: twitter
   url: https://twitter.com/roytang/statuses/824456916567019520/
 - type: facebook

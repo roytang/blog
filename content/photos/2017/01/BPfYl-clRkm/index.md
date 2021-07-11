@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BPfYl-clRkm/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/156125225240/superdog-vs-inkredibuldog-sketchdaily-a
+  url: https://roytang.tumblr.com/post/156125225240/superdog-vs-inkredibuldog-sketchdaily-a
 - type: twitter
   url: https://twitter.com/roytang/statuses/822458319281516546/
 - type: facebook

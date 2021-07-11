@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2017-03-09 01:30:55
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/158171956790/fake-devs-and-whiteboard-interviews
+  url: https://roytang.tumblr.com/post/158171956790/fake-devs-and-whiteboard-interviews
 - type: twitter
   url: https://twitter.com/roytang/statuses/839650790486786054/
 tags:
@@ -12,7 +13,6 @@ tags:
 title: Fake Devs and Whiteboard Interviews
 type: post
 url: /2017/03/fake-devs-and-whiteboard-interviews/
-dontinlinephotos: true
 ---
 
 Recently, a developer needed to undergo a tech interview at US immigration:
@@ -33,5 +33,4 @@ I'm not saying knowledge of these things isn't useful. If you want to do more co
 
 But the problems with the whiteboard interviewing process isn't that they require knowledge of these things; it's that they require it under pressure, off the top of your head, without access to the internet. This doesn't reflect how programming work happens in the real world, where you often have a team, an IDE, and even the entire internet to help you.
 
-Unfortunately, it's often far too costly for companies to evaluate you under real-world conditions, so many resort to this common interviewing process. After all, it is difficult to evaluate the performance of even developers you have been working with for months, what more someone who just whipped up a short function on a whiteboard in twenty minutes? We tried some variations on it at our last company, but for me it is a problem yet unsolved. Maybe someday... 
-
+Unfortunately, it's often far too costly for companies to evaluate you under real-world conditions, so many resort to this common interviewing process. After all, it is difficult to evaluate the performance of even developers you have been working with for months, what more someone who just whipped up a short function on a whiteboard in twenty minutes? We tried some variations on it at our last company, but for me it is a problem yet unsolved. Maybe someday...

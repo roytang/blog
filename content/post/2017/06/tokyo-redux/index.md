@@ -4,7 +4,7 @@ categories: []
 date: 2017-06-13 01:30:29
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/161756970360/tokyo-redux
+  url: https://roytang.tumblr.com/post/161756970360/tokyo-redux
 - type: twitter
   url: https://twitter.com/roytang/statuses/874440753019322369/
 tags:
@@ -58,4 +58,3 @@ I'm not sure when I'll visit Japan again _(I don't think going there for the Ol
 &nbsp;
 
  [5]: https://en.wikipedia.org/wiki/Hachik%C5%8D
- 

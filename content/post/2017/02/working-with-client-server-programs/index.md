@@ -4,7 +4,7 @@ categories: []
 date: 2017-02-09 01:30:50
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/156998734395/working-with-client-server-programs
+  url: https://roytang.tumblr.com/post/156998734395/working-with-client-server-programs
 - type: twitter
   url: https://twitter.com/roytang/statuses/829503436433547268/
 tags:

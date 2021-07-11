@@ -4,7 +4,7 @@ categories: []
 date: 2017-04-06 01:30:33
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/159248321940/marklogic-nosql
+  url: https://roytang.tumblr.com/post/159248321940/marklogic-nosql
 - type: twitter
   url: https://twitter.com/roytang/statuses/849820738102198272/
 tags:

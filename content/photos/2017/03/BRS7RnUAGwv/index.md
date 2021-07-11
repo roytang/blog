@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BRS7RnUAGwv/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/158064550330/wilma-sketchdaily
+  url: https://roytang.tumblr.com/post/158064550330/wilma-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/838733542607683584/
 - type: facebook

@@ -4,7 +4,7 @@ categories: []
 date: 2017-02-23 01:30:00
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/157591662160/weekend-project-twitter-trivia-bot
+  url: https://roytang.tumblr.com/post/157591662160/weekend-project-twitter-trivia-bot
 - type: twitter
   url: https://twitter.com/roytang/statuses/834578301146562565/
 tags:

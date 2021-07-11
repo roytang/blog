@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BQDXKMcl14a/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/156757942370/i-feel-like-i-could-take-over-the-world
+  url: https://roytang.tumblr.com/post/156757942370/i-feel-like-i-could-take-over-the-world
 - type: twitter
   url: https://twitter.com/roytang/statuses/827521722110840835/
 - type: facebook

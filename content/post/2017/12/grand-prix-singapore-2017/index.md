@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2017-12-23 01:00:35
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/168840859090/grand-prix-singapore-2017-tournament-report
+  url: https://roytang.tumblr.com/post/168840859090/grand-prix-singapore-2017-tournament-report
 - type: twitter
   url: https://twitter.com/roytang/statuses/944376613269106688/
 tags:
@@ -15,7 +16,6 @@ tags:
 title: Grand Prix Singapore 2017 Tournament Report
 type: post
 url: /2017/12/grand-prix-singapore-2017-tournament-report/
-dontinlinephotos: true
 ---
 
 I had [booked the Singapore trip][1] earlier in the year, since I almost always [attend Grand Prixs in Singapore][2] as its an easy trip and gives a good opportunity to visit friends. Unfortunately, I ended up not having time to prepare for the tournament itself. Fortunately, it was a limited event rather than constructed, so I figured maybe I could wing it and still do well. (Spoiler: I could not.)

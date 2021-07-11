@@ -2,9 +2,17 @@
 author: roy
 categories: []
 date: 2017-06-15 04:22:32
+dontinlinephotos: true
+resources:
+- src: content_ulamog__ceaseless1.jpg
+  title: If you're playing Standard this year, you're familiar with this guy
+- src: I_guess_my_chaos_sealed_pool_was_okay__mtg__gpmanila.jpg
+  title: (No, I didnt dare play or shuffle the FOW)
+- src: gpmanila_loot._Maybe_next_time_I_should_stick_to_side_events_lol__mtg.jpg
+  title: GP Manila Loot
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/161843110255/grand-prix-manila-2017
+  url: https://roytang.tumblr.com/post/161843110255/grand-prix-manila-2017
 - type: twitter
   url: https://twitter.com/roytang/statuses/875212334569930753/
 tags:
@@ -15,14 +23,6 @@ tags:
 title: Grand Prix Manila 2017
 type: post
 url: /2017/06/grand-prix-manila-2017/
-dontinlinephotos: true
-resources:
-- src: content_ulamog__ceaseless1.jpg
-  title: If you're playing Standard this year, you're familiar with this guy
-- src: I_guess_my_chaos_sealed_pool_was_okay__mtg__gpmanila.jpg
-  title: (No, I didnt dare play or shuffle the FOW)
-- src: gpmanila_loot._Maybe_next_time_I_should_stick_to_side_events_lol__mtg.jpg
-  title: GP Manila Loot
 ---
 
 I don't really play Magic regularly anymore; Last year I only played Standard because I was Q'ed for the WMCQs. But when there's a local Grand Prix, oldies like me crawl out of the woodwork and try to believe we can still do well in a tournament with minimal prep. Grand Prix Manila 2017 was to be Standard format, held on June 2-4, 2017, at the SMX convention center.
@@ -171,4 +171,3 @@ Competitively the GP was a bust for me, but at least I came away with some swag 
 
  [2]: /2015/02/grand-prix-manila-2015/
  [3]: /2015/06/gp-singapore-2015/
- 

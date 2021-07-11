@@ -4,7 +4,7 @@ categories: []
 date: 2017-06-27 01:30:57
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/162298851645/adulting
+  url: https://roytang.tumblr.com/post/162298851645/adulting
 - type: twitter
   url: https://twitter.com/roytang/statuses/879513183551148034/
 title: Adulting

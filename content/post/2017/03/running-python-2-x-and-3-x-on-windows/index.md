@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2017-03-02 01:30:38
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/157884428980/running-python-2x-and-3x-on-windows
+  url: https://roytang.tumblr.com/post/157884428980/running-python-2x-and-3x-on-windows
 - type: twitter
   url: https://twitter.com/roytang/statuses/837115319877533698/
 tags:
@@ -13,7 +14,6 @@ tags:
 title: Running Python 2.x and 3.x on Windows
 type: post
 url: /2017/03/running-python-2-x-and-3-x-on-windows/
-dontinlinephotos: true
 ---
 
 I've been hesitant to try Python 3.x because it's not backward compatible with Python 2.x which I've been using for scripting since forever. But recently I found out that since Python 3.3, they've included a launcher in the Windows version that supports having both versions installed.

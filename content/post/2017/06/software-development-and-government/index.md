@@ -4,11 +4,11 @@ categories: []
 date: 2017-06-29 01:30:34
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/162378129730/software-development-and-government
+  url: https://roytang.tumblr.com/post/162378129730/software-development-and-government
 - type: twitter
   url: https://twitter.com/roytang/statuses/880237738913656832/
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10155804204753912  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155804204753912
 tags:
 - Philippines
 - Software Development

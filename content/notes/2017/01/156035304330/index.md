@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/156035304330/incidentalcomics-day-planner-pre-order-my-book
+  url: https://roytang.tumblr.com/post/156035304330/incidentalcomics-day-planner-pre-order-my-book
 ---
 
 <p><a href="http://incidentalcomics.tumblr.com/post/155993853743/day-planner-pre-order-my-book-poster-shop" class="tumblr_blog">incidentalcomics</a>:</p>

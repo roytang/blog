@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BRYKD2_AqQp/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/158148105855/meatball-sandwich-sketchdaily-paperbyfiftythree
+  url: https://roytang.tumblr.com/post/158148105855/meatball-sandwich-sketchdaily-paperbyfiftythree
 - type: twitter
   url: https://twitter.com/roytang/statuses/839455591567409152/
 - type: facebook

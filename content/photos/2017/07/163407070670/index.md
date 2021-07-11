@@ -3,7 +3,7 @@ date: 2017-07-25 13:42:26
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/163407070670/i-kind-of-binged-madam-secretary-season-1-its-a
+  url: https://roytang.tumblr.com/post/163407070670/i-kind-of-binged-madam-secretary-season-1-its-a
 - type: twitter
   url: https://twitter.com/roytang/statuses/889843294833922049/
 ---

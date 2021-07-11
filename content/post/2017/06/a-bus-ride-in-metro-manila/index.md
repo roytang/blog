@@ -4,7 +4,7 @@ categories: []
 date: 2017-06-20 01:30:08
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/162027355450/a-bus-ride-in-metro-manila
+  url: https://roytang.tumblr.com/post/162027355450/a-bus-ride-in-metro-manila
 - type: twitter
   url: https://twitter.com/roytang/statuses/876976021160984576/
 tags:

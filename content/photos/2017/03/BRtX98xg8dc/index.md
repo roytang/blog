@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BRtX98xg8dc/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/158481158445/back-to-the-future-x-jetsons-x-flintstones
+  url: https://roytang.tumblr.com/post/158481158445/back-to-the-future-x-jetsons-x-flintstones
 - type: twitter
   url: https://twitter.com/roytang/statuses/842441670071316480/
 - type: facebook

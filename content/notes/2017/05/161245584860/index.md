@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/161245584860/theverynearfuture-stream-of-consciousness
+  url: https://roytang.tumblr.com/post/161245584860/theverynearfuture-stream-of-consciousness
 ---
 
 <p><a href="http://theverynearfuture.com/post/161240076009/stream-of-consciousness" class="tumblr_blog">theverynearfuture</a>:</p>

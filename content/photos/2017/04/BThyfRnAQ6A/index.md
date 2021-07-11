@@ -8,7 +8,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BThyfRnAQ6A/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/160169811120/at-the-airport-way-too-early-and-there-was-a-whole
+  url: https://roytang.tumblr.com/post/160169811120/at-the-airport-way-too-early-and-there-was-a-whole
 - type: twitter
   url: https://twitter.com/roytang/statuses/858825524818345984/
 - type: facebook

@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/156344378580/wilwheaton-imathers-maxofs2d-sorry-about
+  url: https://roytang.tumblr.com/post/156344378580/wilwheaton-imathers-maxofs2d-sorry-about
 ---
 
 <p><a href="https://wilwheaton.tumblr.com/post/156321126119/imathers-maxofs2d-sorry-about-this-being-in" class="tumblr_blog">wilwheaton</a>:</p>

@@ -4,7 +4,7 @@ categories: []
 date: 2017-02-16 01:30:00
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/157295804435/integrating-open-source-libraries
+  url: https://roytang.tumblr.com/post/157295804435/integrating-open-source-libraries
 - type: twitter
   url: https://twitter.com/roytang/statuses/832040405126496258/
 tags:

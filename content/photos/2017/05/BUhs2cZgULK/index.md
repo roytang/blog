@@ -8,7 +8,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BUhs2cZgULK/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/161066009735/my-mom-who-is-a-touch-typist-said-my-keyboard-is
+  url: https://roytang.tumblr.com/post/161066009735/my-mom-who-is-a-touch-typist-said-my-keyboard-is
 - type: twitter
   url: https://twitter.com/roytang/statuses/867820331871993856/
 - type: facebook

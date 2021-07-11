@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/163511947175/zenpencils-bren%C3%A9-brown-the-eternal
+  url: https://roytang.tumblr.com/post/163511947175/zenpencils-bren%C3%A9-brown-the-eternal
 ---
 
 <p><a href="http://zenpencils.tumblr.com/post/163503655736/bren%C3%A9-brown-the-eternal-struggle" class="tumblr_blog">zenpencils</a>:</p>

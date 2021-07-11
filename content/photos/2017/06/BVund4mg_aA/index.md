@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BVund4mg_aA/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/162204004575/city-sprawl-sketch-sketchdaily
+  url: https://roytang.tumblr.com/post/162204004575/city-sprawl-sketch-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/878645322540617729/
 - type: facebook

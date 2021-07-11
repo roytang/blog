@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BRlrzhBgWBP/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/158361088740/ye-olde-magic-shoppe-sketchdaily
+  url: https://roytang.tumblr.com/post/158361088740/ye-olde-magic-shoppe-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/841359384810799106/
 - type: facebook

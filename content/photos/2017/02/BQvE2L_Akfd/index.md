@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BQvE2L_Akfd/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/157483413245/pig-samurai-sketchdaily
+  url: https://roytang.tumblr.com/post/157483413245/pig-samurai-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/833673885514076161/
 - type: facebook

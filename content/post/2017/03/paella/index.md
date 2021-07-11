@@ -4,7 +4,7 @@ categories: []
 date: 2017-03-28 01:30:09
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/158914820230/paella
+  url: https://roytang.tumblr.com/post/158914820230/paella
 - type: twitter
   url: https://twitter.com/roytang/statuses/846564112423419905/
 tags:

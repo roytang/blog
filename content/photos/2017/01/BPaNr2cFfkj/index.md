@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BPaNr2cFfkj/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/156037835220/gladio-sketchdaily
+  url: https://roytang.tumblr.com/post/156037835220/gladio-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/821730675791368194/
 - type: facebook

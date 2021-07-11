@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BPXfZ2glFG8/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/155991136045/desperate-shot-sketchdaily
+  url: https://roytang.tumblr.com/post/155991136045/desperate-shot-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/821347399222358017/
 - type: facebook

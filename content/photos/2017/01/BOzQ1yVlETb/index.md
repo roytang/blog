@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BOzQ1yVlETb/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/155341198375/a-skyline-somewhere-in-metro-manila-sketchdaily
+  url: https://roytang.tumblr.com/post/155341198375/a-skyline-somewhere-in-metro-manila-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/816248832891715584/
 - type: facebook

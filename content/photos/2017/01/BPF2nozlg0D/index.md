@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BPF2nozlg0D/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/155677242460/tentacle-face-sketchdaily-ive-not-actually-read
+  url: https://roytang.tumblr.com/post/155677242460/tentacle-face-sketchdaily-ive-not-actually-read
 - type: twitter
   url: https://twitter.com/roytang/statuses/818865175533076481/
 - type: facebook

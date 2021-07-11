@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BVN371tAgVp/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/161712275175/random-doodles-from-last-night-trying-to-get-back
+  url: https://roytang.tumblr.com/post/161712275175/random-doodles-from-last-night-trying-to-get-back
 - type: twitter
   url: https://twitter.com/roytang/statuses/874037158423736321/
 - type: facebook

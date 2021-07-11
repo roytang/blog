@@ -7,7 +7,7 @@ repost_source:
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/155762402840/pdlcomics-like-a-mountain
+  url: https://roytang.tumblr.com/post/155762402840/pdlcomics-like-a-mountain
 ---
 
 <p><a href="http://pdlcomics.tumblr.com/post/155731213565/like-a-mountain" class="tumblr_blog">pdlcomics</a>:</p>

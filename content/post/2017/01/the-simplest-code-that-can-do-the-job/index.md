@@ -4,7 +4,7 @@ categories: []
 date: 2017-01-11 01:30:06
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/155696317600/the-simplest-code-that-can-do-the-job
+  url: https://roytang.tumblr.com/post/155696317600/the-simplest-code-that-can-do-the-job
 - type: twitter
   url: https://twitter.com/roytang/statuses/818995252224790529/
 tags:

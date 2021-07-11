@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BRi6jnagAIr/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/158314655395/swamp-frog-sketchdaily-paperbyfiftythree
+  url: https://roytang.tumblr.com/post/158314655395/swamp-frog-sketchdaily-paperbyfiftythree
 - type: twitter
   url: https://twitter.com/roytang/statuses/840969604923039744/
 - type: facebook

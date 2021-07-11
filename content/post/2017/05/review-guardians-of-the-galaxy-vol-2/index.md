@@ -2,9 +2,12 @@
 author: roy
 categories: []
 date: 2017-05-03 01:30:47
+reviews:
+- media: movies
+  title: Guardians of the Galaxy vol 2 (2017)
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/160248397455/review-guardians-of-the-galaxy-vol-2
+  url: https://roytang.tumblr.com/post/160248397455/review-guardians-of-the-galaxy-vol-2
 - type: twitter
   url: https://twitter.com/roytang/statuses/859598652574236676/
 - type: facebook
@@ -16,9 +19,6 @@ tags:
 title: 'Review: Guardians of the Galaxy Vol 2'
 type: post
 url: /2017/05/review-guardians-of-the-galaxy-vol-2/
-reviews:
-- media: movies
-  title: "Guardians of the Galaxy vol 2 (2017)"
 ---
 
 First, the spoiler-free summary (spoilers after this part):

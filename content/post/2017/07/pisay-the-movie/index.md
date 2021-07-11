@@ -2,9 +2,13 @@
 author: roy
 categories: []
 date: 2017-07-04 01:30:52
+dontinlinephotos: true
+reviews:
+- media: movies
+  title: Pisay (2007)
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/162571925985/pisay-the-movie
+  url: https://roytang.tumblr.com/post/162571925985/pisay-the-movie
 - type: twitter
   url: https://twitter.com/roytang/statuses/882050108887629825/
 tags:
@@ -13,10 +17,6 @@ tags:
 title: Pisay (the movie)
 type: post
 url: /2017/07/pisay-the-movie/
-dontinlinephotos: true
-reviews:
-- media: movies
-  title: "Pisay (2007)"
 ---
 
 Last weekend I watched Aureus Solito's movie _Pisay_ at the UP film center with a couple of friends (both of whom were my Pisay batchmates of course).

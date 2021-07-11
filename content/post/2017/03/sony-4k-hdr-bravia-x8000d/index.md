@@ -4,7 +4,7 @@ categories: []
 date: 2017-03-08 15:59:10
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/158153649870/sony-4k-hdr-bravia-x8000d
+  url: https://roytang.tumblr.com/post/158153649870/sony-4k-hdr-bravia-x8000d
 - type: twitter
   url: https://twitter.com/roytang/statuses/839508602750701570/
 tags:

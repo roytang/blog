@@ -10,7 +10,7 @@ reviews:
   title: Duelyst (Steam)
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/157377150285/review-duelyst
+  url: https://roytang.tumblr.com/post/157377150285/review-duelyst
 - type: twitter
   url: https://twitter.com/roytang/statuses/832764982320246784/
 tags:
