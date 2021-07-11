@@ -20,7 +20,7 @@ During a company holiday party in the mid-2000s our theme was "statement shirts"
 
 (This was the best picture of the shirt I could find; It's probably still in the house somewhere, but it probably wouldn't fit me anymore.)
 
-Eventually, this phrase became a running joke among my friend groups, especially since I tended to be opionated and to comment a lot on current events on social media and such. It was not uncommon for me to post some rant about something stupid our political leaders have done or some essay about how things could be improved, and someone would comment with the eventual "Roy Tang for President!"
+Eventually, this phrase became a running joke among my friend groups, especially since I tended to be opinionated and to comment a lot on current events on social media and such. It was not uncommon for me to post some rant about something stupid our political leaders have done or some essay about how things could be improved, and someone would comment with the eventual "Roy Tang for President!"
 
 It's a joke of course. Running for president requires some level of fame, political experience, connections and even ridiculous amounts of money. I'm a nobody who has none of these things. there's no way I'm running for president! That being said, I'm not going to claim I've never thought about it; it's the sort of thing that's fun to fantasize about once in a while. 
 
