@@ -17,6 +17,7 @@ tags:
 - Review
 - ccgs
 - Gaming
+- games
 title: 'Review: Eternal or "Eternal primer for MTG players"'
 type: post
 ---

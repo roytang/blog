@@ -21,6 +21,7 @@ tags:
 - review
 - Gaming
 - skyrim
+- games
 title: 'Late Game Review: The Elder Scrolls V - Skyrim'
 type: post
 url: /2018/11/late-game-review-the-elder-scrolls-v-skyrim/

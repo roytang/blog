@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1084329543320645634/
 tags:
 - Gaming
+- games
 title: Papers Please
 type: post
 ---
