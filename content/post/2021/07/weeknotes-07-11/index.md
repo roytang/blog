@@ -1,13 +1,17 @@
 ---
 date: 2021-07-11 04:53:28
 slug: weeknotes-2021-07-11
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106560966671760670
+- type: twitter
+  url: https://twitter.com/roytang/status/1414136179742547973/
 tags:
 - weeknotes
 - philippines
 - covid19
 title: Weeknotes 2021-07-11
 ---
-
 
 ### A quote:
 
@@ -59,4 +63,3 @@ Visit the [Links page](/links/) for more links of interest.
 ### This coming week:
 
 - Loki season finale!
-
