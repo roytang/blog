@@ -40,7 +40,7 @@ Gaming:
   * Games purchased (not including any I got for free for some reason): 37, not including DLC, most of it from my three-month experiment with Humble Montly. This is a huge improvement from last year's 67. In fact, my gaming spend for 2018 was 1/3 what it was in 2017, so huge props to me lol. Breakdown: 4 steam, 34 humble, 3 dlc)
   * Games "finished" (story/campaign completed OR achievement complete): 10, up 2 from 2017! The list: 
       * [Twilight Princess HD](https://twitter.com/roytang/status/974999316036136960) (WiiU) 
-      * [Eternal](/2018/11/review-eternal-or-eternal-primer-for-mtg-players/)
+      * [Eternal](/2018/11/review-eternal/)
       * [Skyrim](/2018/11/late-game-review-the-elder-scrolls-v-skyrim/)
       * [Ni No Kuni (PS3)](/2018/10/late-game-review-ni-no-kuni-wrath-of-the-white-witch-2013/)
       * [Spider-man (PS4)](/11/game-review-marvels-spider-man-for-ps4/)

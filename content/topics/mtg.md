@@ -42,7 +42,7 @@ tags:
 | **2016** |
 | **Sep** | Kaladesh | | [Sep WMCQ](/2016/09/777009877705039872/) |
 | **Jul** | Eldritch Moon | [Prerelease](/2016/07/BH6CBSIhSyh/) | |
-| **Apr** | Shadows Over Innistrad | [Prerelease](/2016/04/BDsQ13isoPT/) | [Jun Modern GPT](/2016/06/746690727887810560/) |
+| **Apr** | Shadows Over Innistrad | [Prerelease](/2016/04/BDsQ13isoPT/) | [Jun Modern GPT](/2016/06/746690727887810560/) [Jul WMCQ](/2016/07/751617363892506624/) |
 | | | | [Jun WMCQ](/2016/06/744012127560675329/) |
 | **Jan** | Oath of the Gatewatch | [Prerelease](/2016/01/688663713134424064/) | |
 | **2015** |

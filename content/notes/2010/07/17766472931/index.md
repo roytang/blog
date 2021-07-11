@@ -9,6 +9,7 @@ syndicated:
 tags:
 - mtg
 - m11
+- mtgpreviews
 ---
 
 Destructive Force: This card is literally "Wildfire+1". Is it because six is the new seven? Will Wildfire decks return? #mtg #m11

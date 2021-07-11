@@ -15,6 +15,7 @@ syndicated:
 tags:
 - mtg
 - m11
+- mtgpreviews
 ---
 
 White Leyline: Really? RDW died again. Reprint Anarchy! #mtg #m11

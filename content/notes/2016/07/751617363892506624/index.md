@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/751655136091467776/
 tags:
 - wmcq
+- mtg
 ---
 
 R1 0-2 loss vs rg scapeshift *sigh* #wmcq

@@ -1,5 +1,8 @@
 ---
 date: 2020-12-13
+reviews:
+- media: games
+  title: 'Batman: Arkham Origins (Steam)'
 slug: weeknotes-2020-12-13
 syndicated:
 - type: mastodon
@@ -8,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1337988771715764224/
 tags:
 - weeknotes
+- games
 title: Weeknotes 2020-12-13
 ---
 
@@ -21,8 +25,8 @@ The saddest part of this pandemic for me has that my brothers and their families
 
 **Gaming**: 
 
-- I managed to finish Batman Arkham Knight! The main story at least. Achievement completion seems unlikely, given the multiplayer achievements, and even some of the single-player ones seem a bit too challenging. I was able to enjoy the game despite the graphical issues I encountered early on. Lowering the settings helped a lot I think, though things still weren't 100% good. I really take to these style of games where there's an open world and you have a lot of things to collect and such.
-- I ordered Fire Emblem Fates for the Switch yesterday! I was also considering Paper Mario Origami King, but that had some mixed reviews, so holding off for now.
+- I managed to finish **Batman: Arkham Origins**! The main story at least. Achievement completion seems unlikely, given the multiplayer achievements, and even some of the single-player ones seem a bit too challenging. I was able to enjoy the game despite the graphical issues I encountered early on. Lowering the settings helped a lot I think, though things still weren't 100% good. I really take to these style of games where there's an open world and you have a lot of things to collect and such.
+- I ordered **Fire Emblem Three Houses** for the Switch yesterday! I was also considering Paper Mario Origami King, but that had some mixed reviews, so holding off for now.
 
 **Watching Lately:** Currently doing a binge re-watch of The Big Bang Theory as my background watching, I'm up to season 7 at the moment. I think the show holds up better than some of its contemporaries such as How I Met Your Mother. I know the geek portrayals can be a bit exaggerated or patronizing, so a lot of geeks don't like it, but for me it's fine. I'm thinking of doing a bad comic book movie marathon sometime this month, covering the ones I didn't bother watching, stuff like Ben Affleck Daredevil, Michael B Jordan Fantastic Four, and the recently released New Mutants. We'll see if I get around to it.
 
