@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BLQOKHNBjzu/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151462251860/random-character-doodles-sketchdaily-inktober
+  url: https://roytang.tumblr.com/post/151462251860/random-character-doodles-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/784295518566387712/
 - type: facebook

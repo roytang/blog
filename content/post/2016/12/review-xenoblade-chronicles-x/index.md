@@ -9,7 +9,7 @@ reviews:
   title: Xenoblade Chronicles X (WiiU)
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/155140128410/review-xenoblade-chronicles-x
+  url: https://roytang.tumblr.com/post/155140128410/review-xenoblade-chronicles-x
 - type: twitter
   url: https://twitter.com/roytang/statuses/814635071391014916/
 tags:

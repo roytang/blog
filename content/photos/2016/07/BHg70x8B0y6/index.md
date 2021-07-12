@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BHg70x8B0y6/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/146988037760/tiger-lilies-sketchdaily
+  url: https://roytang.tumblr.com/post/146988037760/tiger-lilies-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/750618943551930368/
 - type: facebook

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BOPetLqhmaM/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154720978410/ninja-escape-sketchdaily
+  url: https://roytang.tumblr.com/post/154720978410/ninja-escape-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/811212756246478848/
 - type: facebook

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BMbr6aFBTl7/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/152769059565/bonus-sketch-taco-belldandy-sketchdaily
+  url: https://roytang.tumblr.com/post/152769059565/bonus-sketch-taco-belldandy-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/794916249432166401/
 - type: facebook

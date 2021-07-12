@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BLk3cByhhnw/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151828860470/turnip-head-sketchdaily-inktober
+  url: https://roytang.tumblr.com/post/151828860470/turnip-head-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/787201040181583872/
 - type: facebook

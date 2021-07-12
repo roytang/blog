@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BN6zOR6hyPf/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154375490365/elephant-in-the-room-sketchdaily
+  url: https://roytang.tumblr.com/post/154375490365/elephant-in-the-room-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/808302392240390145/
 - type: facebook

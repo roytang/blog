@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BGUd0QgsoCS/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/145512502340/sneaky-cat-polite-owl-and-clown-seal-pokemon
+  url: https://roytang.tumblr.com/post/145512502340/sneaky-cat-polite-owl-and-clown-seal-pokemon
 - type: twitter
   url: https://twitter.com/roytang/statuses/739856876695748608/
 - type: facebook

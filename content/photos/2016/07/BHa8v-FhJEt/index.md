@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BHa8v-FhJEt/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/146873210080/sone-rich-old-guy-sketchdaily
+  url: https://roytang.tumblr.com/post/146873210080/sone-rich-old-guy-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/749776521695420416/
 - type: facebook

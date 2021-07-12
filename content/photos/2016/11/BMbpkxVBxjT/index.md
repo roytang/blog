@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BMbpkxVBxjT/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/152768436925/rejected-disney-princesses-taco-belle
+  url: https://roytang.tumblr.com/post/152768436925/rejected-disney-princesses-taco-belle
 - type: twitter
   url: https://twitter.com/roytang/statuses/794911118481297408/
 - type: facebook

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BG6vkkxMoNQ/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/146255652000/kraken-sketchdaily
+  url: https://roytang.tumblr.com/post/146255652000/kraken-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/745243949095215104/
 - type: facebook

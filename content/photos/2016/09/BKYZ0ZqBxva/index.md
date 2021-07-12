@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BKYZ0ZqBxva/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150448310845/going-merry-sketchdaily-onepiece-i-might-add-the
+  url: https://roytang.tumblr.com/post/150448310845/going-merry-sketchdaily-onepiece-i-might-add-the
 - type: twitter
   url: https://twitter.com/roytang/statuses/776439867018477569/
 - type: facebook

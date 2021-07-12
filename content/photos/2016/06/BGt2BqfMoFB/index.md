@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BGt2BqfMoFB/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/146009754295/cola-sketchdaily
+  url: https://roytang.tumblr.com/post/146009754295/cola-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/743428550271766528/
 - type: facebook

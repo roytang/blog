@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BIGjaw-Dmvm/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/147721413315/an-agile-and-toasty-warm-knight-sketchdaily
+  url: https://roytang.tumblr.com/post/147721413315/an-agile-and-toasty-warm-knight-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/755913311422644224/
 - type: facebook

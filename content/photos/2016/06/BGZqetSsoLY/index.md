@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BGZqetSsoLY/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/145615298125/natsu-sketchdaily-fairytail
+  url: https://roytang.tumblr.com/post/145615298125/natsu-sketchdaily-fairytail
 - type: twitter
   url: https://twitter.com/roytang/statuses/740588411216531456/
 - type: facebook

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BGzBh49MoHn/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/146107073470/long-live-the-king-sketchdaily
+  url: https://roytang.tumblr.com/post/146107073470/long-live-the-king-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/744157537474228224/
 - type: facebook

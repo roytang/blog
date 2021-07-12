@@ -4,7 +4,7 @@ categories: []
 date: 2016-08-30 01:30:49
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149677785905/some-days-you-are-tired
+  url: https://roytang.tumblr.com/post/149677785905/some-days-you-are-tired
 - type: twitter
   url: https://twitter.com/roytang/statuses/770434574740512769/
 - type: reddit

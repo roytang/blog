@@ -4,7 +4,7 @@ categories: []
 date: 2016-12-08 01:30:44
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154184871830/power-distance-in-software-development
+  url: https://roytang.tumblr.com/post/154184871830/power-distance-in-software-development
 - type: twitter
   url: https://twitter.com/roytang/statuses/806674697677078528/
 tags:

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BKAg2tZBUnM/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150022336305/resplendent-quetzal-sketchdaily
+  url: https://roytang.tumblr.com/post/150022336305/resplendent-quetzal-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/773077634062450688/
 - type: facebook

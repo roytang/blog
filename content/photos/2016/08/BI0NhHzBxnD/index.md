@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BI0NhHzBxnD/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/148596832100/its-so-fluffy-sketchdaily
+  url: https://roytang.tumblr.com/post/148596832100/its-so-fluffy-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/762339087537827840/
 - type: facebook

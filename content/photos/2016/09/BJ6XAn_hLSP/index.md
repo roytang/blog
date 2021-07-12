@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BJ6XAn_hLSP/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149903944600/demon-toilet-sketchdaily-such-a-nice-thing-to
+  url: https://roytang.tumblr.com/post/149903944600/demon-toilet-sketchdaily-such-a-nice-thing-to
 - type: twitter
   url: https://twitter.com/roytang/statuses/772211560831909891/
 - type: facebook

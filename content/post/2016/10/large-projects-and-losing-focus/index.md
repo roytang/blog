@@ -4,7 +4,7 @@ categories: []
 date: 2016-10-11 01:30:52
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151637614745/large-projects-and-losing-focus
+  url: https://roytang.tumblr.com/post/151637614745/large-projects-and-losing-focus
 - type: twitter
   url: https://twitter.com/roytang/statuses/785655698269040640/
 tags:

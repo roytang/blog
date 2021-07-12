@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BH4DRNVh1dq/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/147438157720/hawkman-sketchdaily-capping-off-bird-week
+  url: https://roytang.tumblr.com/post/147438157720/hawkman-sketchdaily-capping-off-bird-week
 - type: twitter
   url: https://twitter.com/roytang/statuses/753872266778308609/
 - type: facebook

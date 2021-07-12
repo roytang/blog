@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BMDFOlgBzbx/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/152360262120/graveyard-patrol-sketchdaily-inktober
+  url: https://roytang.tumblr.com/post/152360262120/graveyard-patrol-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/791453492955209728/
 - type: facebook

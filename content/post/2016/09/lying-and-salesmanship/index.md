@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2016-09-27 01:30:41
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150987667115/lying-and-salesmanship
+  url: https://roytang.tumblr.com/post/150987667115/lying-and-salesmanship
 - type: twitter
   url: https://twitter.com/roytang/statuses/780581915728482304/
 tags:
@@ -12,7 +13,6 @@ tags:
 title: Lying and Salesmanship
 type: post
 url: /2016/09/lying-and-salesmanship/
-dontinlinephotos: true
 ---
 
 A [recent post on Wait But Why][1] had me thinking about lying.

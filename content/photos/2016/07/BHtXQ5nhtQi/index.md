@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BHtXQ5nhtQi/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/147223807120/rainbow-lorikeet-sketchdaily
+  url: https://roytang.tumblr.com/post/147223807120/rainbow-lorikeet-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/752368131499237376/
 - type: facebook

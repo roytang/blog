@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BOFB7NeBmGz/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154546180950/hood-sketchdaily
+  url: https://roytang.tumblr.com/post/154546180950/hood-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/809742104683495424/
 - type: facebook

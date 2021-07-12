@@ -4,7 +4,7 @@ categories: []
 date: 2016-12-15 01:30:25
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154487142465/generalists-and-specialists-in-dev-teams
+  url: https://roytang.tumblr.com/post/154487142465/generalists-and-specialists-in-dev-teams
 - type: twitter
   url: https://twitter.com/roytang/statuses/809210001499820032/
 tags:

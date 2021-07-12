@@ -4,7 +4,7 @@ categories: []
 date: 2016-09-08 01:30:02
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150100376215/will-ai-replace-all-our-jobs
+  url: https://roytang.tumblr.com/post/150100376215/will-ai-replace-all-our-jobs
 - type: twitter
   url: https://twitter.com/roytang/statuses/773696472592289793/
 tags:

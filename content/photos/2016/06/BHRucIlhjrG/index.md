@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BHRucIlhjrG/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/146700321405/shouldnt-have-walked-into-kfc-sketchdaily
+  url: https://roytang.tumblr.com/post/146700321405/shouldnt-have-walked-into-kfc-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/748478416597323776/
 - type: facebook

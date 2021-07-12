@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BGllZIJMoHy/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/145849017940/morning-rituals-sketchdaily
+  url: https://roytang.tumblr.com/post/145849017940/morning-rituals-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/742266070212481024/
 - type: facebook

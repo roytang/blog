@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BIvomb3BbAE/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/148515117460/im-a-bit-busy-today-so-ill-make-this-quick
+  url: https://roytang.tumblr.com/post/148515117460/im-a-bit-busy-today-so-ill-make-this-quick
 - type: twitter
   url: https://twitter.com/roytang/statuses/761694933115961344/
 - type: facebook

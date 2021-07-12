@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BG49o9cMoDI/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/146222240055/light-out-darkest-hour-sketchdaily-transformers
+  url: https://roytang.tumblr.com/post/146222240055/light-out-darkest-hour-sketchdaily-transformers
 - type: twitter
   url: https://twitter.com/roytang/statuses/744993408607891457/
 - type: reddit

@@ -4,7 +4,7 @@ categories: []
 date: 2016-10-13 01:30:27
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151729262325/coding-frameworks
+  url: https://roytang.tumblr.com/post/151729262325/coding-frameworks
 - type: twitter
   url: https://twitter.com/roytang/statuses/786380194185617408/
 tags:

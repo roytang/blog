@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BODl8fHBnJB/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154524618500/pig-and-duck-sketchdaily
+  url: https://roytang.tumblr.com/post/154524618500/pig-and-duck-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/809539843730587648/
 - type: facebook

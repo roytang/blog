@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BKDy1VzhfEw/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150077566360/quick-worf-doodle-sketchdaily-startrek50th
+  url: https://roytang.tumblr.com/post/150077566360/quick-worf-doodle-sketchdaily-startrek50th
 - type: twitter
   url: https://twitter.com/roytang/statuses/773539379025416192/
 - type: facebook

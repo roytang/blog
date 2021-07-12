@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BGOpUxEsoOR/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/145397715220/a-link-to-the-past-sketchdaily-zelda-beyondbidj
+  url: https://roytang.tumblr.com/post/145397715220/a-link-to-the-past-sketchdaily-zelda-beyondbidj
 - type: twitter
   url: https://twitter.com/roytang/statuses/739037757993979904/
 - type: facebook

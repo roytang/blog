@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BNWw689BOZE/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/153774842720/slimer-sketchdaily
+  url: https://roytang.tumblr.com/post/153774842720/slimer-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/803230780868661250/
 - type: facebook

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BHvz7GjhAdJ/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/147271785415/pigeon-sketchdaily
+  url: https://roytang.tumblr.com/post/147271785415/pigeon-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/752712626623418369/
 - type: facebook

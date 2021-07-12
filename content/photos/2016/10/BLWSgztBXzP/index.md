@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BLWSgztBXzP/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151565819070/broken-sketchdaily-inktober-onepunchman
+  url: https://roytang.tumblr.com/post/151565819070/broken-sketchdaily-inktober-onepunchman
 - type: twitter
   url: https://twitter.com/roytang/statuses/785149522351689729/
 - type: facebook

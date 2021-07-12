@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BGoJSd0soN5/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/145900890525/penguins-wait-what-sketchdaily
+  url: https://roytang.tumblr.com/post/145900890525/penguins-wait-what-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/742626484959907840/
 - type: facebook

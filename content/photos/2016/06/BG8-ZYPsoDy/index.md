@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BG8-ZYPsoDy/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/146300667745/professor-leyton-and-the-poorly-drawn-hands
+  url: https://roytang.tumblr.com/post/146300667745/professor-leyton-and-the-poorly-drawn-hands
 - type: twitter
   url: https://twitter.com/roytang/statuses/745558021313433601/
 - type: reddit

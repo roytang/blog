@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BJiiml4haem/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149468460725/pink-coral-sketchdaily
+  url: https://roytang.tumblr.com/post/149468460725/pink-coral-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/768859357412990977/
 - type: facebook

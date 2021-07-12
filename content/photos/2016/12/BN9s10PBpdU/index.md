@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BN9s10PBpdU/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154425145185/lost-garden-gnome-sketchdaily
+  url: https://roytang.tumblr.com/post/154425145185/lost-garden-gnome-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/808710563643723776/
 - type: facebook

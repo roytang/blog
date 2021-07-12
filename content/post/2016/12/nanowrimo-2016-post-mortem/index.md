@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2016-12-06 01:30:39
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154099368165/nanowrimo-2016-post-mortem
+  url: https://roytang.tumblr.com/post/154099368165/nanowrimo-2016-post-mortem
 - type: twitter
   url: https://twitter.com/roytang/statuses/805948927166058496/
 tags:
@@ -12,7 +13,6 @@ tags:
 title: Nanowrimo 2016 Post-Mortem
 type: post
 url: /2016/12/nanowrimo-2016-post-mortem/
-dontinlinephotos: true
 ---
 
 As I recall, today was at least my fifth [Nanowrimo][1] attempt; the first one was sometime before 2003 (I would guess it was in 2000 or 2001 before I graduated from college), the second one was in 2003, then 2006, then 2011, then finally the fifth one this year. My best prior attempt was back in 2011, when I made it up to 22,000+ words.

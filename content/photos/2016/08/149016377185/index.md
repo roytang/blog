@@ -3,7 +3,7 @@ date: 2016-08-16 04:48:33
 source: tumblr
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149016377185/experimenting-with-making-a-comic-strip-im-using
+  url: https://roytang.tumblr.com/post/149016377185/experimenting-with-making-a-comic-strip-im-using
 - type: twitter
   url: https://twitter.com/roytang/statuses/765409893813714944/
 tags:

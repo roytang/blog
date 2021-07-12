@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BGHwSV-MoEZ/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/145264935645/genghis-khan-having-colors-is-nice-but-takes-up
+  url: https://roytang.tumblr.com/post/145264935645/genghis-khan-having-colors-is-nice-but-takes-up
 - type: twitter
   url: https://twitter.com/roytang/statuses/738067905884000257/
 - type: facebook

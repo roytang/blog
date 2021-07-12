@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2016-10-20 01:30:10
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/152049049735/favor-composition-over-inheritance
+  url: https://roytang.tumblr.com/post/152049049735/favor-composition-over-inheritance
 - type: twitter
   url: https://twitter.com/roytang/statuses/788916969630212096/
 tags:
@@ -12,7 +13,6 @@ tags:
 title: Favor Composition Over Inheritance
 type: post
 url: /2016/10/favor-composition-over-inheritance/
-dontinlinephotos: true
 ---
 
 "[Composition over inheritance][1]" is an object-oriented programming principle that I'm sad to say many devs I've encountered aren't too familiar with. Composition provides greater flexibility, modularity, and extensibility in large software systems as compared to inheritance, especially for statically typed languages like Java that don't support multiple inheritance

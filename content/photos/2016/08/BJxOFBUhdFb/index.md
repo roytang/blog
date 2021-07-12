@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BJxOFBUhdFb/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149741313790/the-f15-eagle-a-perfectly-normal-earth-jet
+  url: https://roytang.tumblr.com/post/149741313790/the-f15-eagle-a-perfectly-normal-earth-jet
 - type: twitter
   url: https://twitter.com/roytang/statuses/770925279183269888/
 - type: facebook

@@ -8,7 +8,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BI81okKh2Ww/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/148766917315/could-have-sworn-i-also-had-a-copy-of-colour-of
+  url: https://roytang.tumblr.com/post/148766917315/could-have-sworn-i-also-had-a-copy-of-colour-of
 - type: twitter
   url: https://twitter.com/roytang/statuses/763553229363879937/
 - type: facebook

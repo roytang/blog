@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BOe_pQyhxPs/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154979201405/sleeping-in-sketchdaily
+  url: https://roytang.tumblr.com/post/154979201405/sleeping-in-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/813396250565476352/
 - type: facebook

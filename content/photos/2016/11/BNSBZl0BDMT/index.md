@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BNSBZl0BDMT/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/153690373335/lazy-afternoon-sketchdaily
+  url: https://roytang.tumblr.com/post/153690373335/lazy-afternoon-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/802563331236171776/
 - type: facebook

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BFXLASMsoOn/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/144313454460/super-rough-sketchdaily-of-jaina-proudmoore
+  url: https://roytang.tumblr.com/post/144313454460/super-rough-sketchdaily-of-jaina-proudmoore
 - type: twitter
   url: https://twitter.com/roytang/statuses/731230524073594880/
 - type: facebook

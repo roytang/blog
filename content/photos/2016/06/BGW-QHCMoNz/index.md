@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BGW-QHCMoNz/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/145562113095/snake-frog-toad-sketchdaily-metalgear
+  url: https://roytang.tumblr.com/post/145562113095/snake-frog-toad-sketchdaily-metalgear
 - type: twitter
   url: https://twitter.com/roytang/statuses/740209678764769281/
 - type: facebook

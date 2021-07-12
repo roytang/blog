@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BLi2tp5BUQU/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151792871440/gambit-sketchdaily-inktober
+  url: https://roytang.tumblr.com/post/151792871440/gambit-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/786917964289376256/
 - type: facebook

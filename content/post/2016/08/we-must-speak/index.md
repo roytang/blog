@@ -4,7 +4,7 @@ categories: []
 date: 2016-08-20 01:18:40
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149200161460/we-must-speak
+  url: https://roytang.tumblr.com/post/149200161460/we-must-speak
 - type: twitter
   url: https://twitter.com/roytang/statuses/766806913417932800/
 tags:

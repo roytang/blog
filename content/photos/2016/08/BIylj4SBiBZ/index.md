@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BIylj4SBiBZ/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/148569374285/arthur-if-you-want-to-be-taken-seriously-you
+  url: https://roytang.tumblr.com/post/148569374285/arthur-if-you-want-to-be-taken-seriously-you
 - type: twitter
   url: https://twitter.com/roytang/statuses/762110464067309569/
 - type: facebook

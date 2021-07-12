@@ -4,7 +4,7 @@ categories: []
 date: 2016-10-25 01:30:07
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/152273169180/daily-habits
+  url: https://roytang.tumblr.com/post/152273169180/daily-habits
 - type: twitter
   url: https://twitter.com/roytang/statuses/790727470102249472/
 tags:

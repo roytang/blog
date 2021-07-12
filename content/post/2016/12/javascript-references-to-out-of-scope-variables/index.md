@@ -4,7 +4,7 @@ categories: []
 date: 2016-12-01 01:30:53
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/153885002880/javascript-references-to-out-of-scope-variables
+  url: https://roytang.tumblr.com/post/153885002880/javascript-references-to-out-of-scope-variables
 - type: twitter
   url: https://twitter.com/roytang/statuses/804136962735095810/
 tags:

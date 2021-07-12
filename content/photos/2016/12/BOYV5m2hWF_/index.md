@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BOYV5m2hWF_/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154871326355/santa-and-krampus-work-on-their-lists-sketchdaily
+  url: https://roytang.tumblr.com/post/154871326355/santa-and-krampus-work-on-their-lists-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/812460025222402048/
 - type: facebook

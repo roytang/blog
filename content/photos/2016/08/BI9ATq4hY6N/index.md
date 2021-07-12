@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BI9ATq4hY6N/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/148770682010/strawberry-sketchdaily
+  url: https://roytang.tumblr.com/post/148770682010/strawberry-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/763576642128187392/
 - type: facebook

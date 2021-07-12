@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BIHdTG_jRAv/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/147740235060/i-tried-drawing-some-of-the-star-trek-voyager
+  url: https://roytang.tumblr.com/post/147740235060/i-tried-drawing-some-of-the-star-trek-voyager
 - type: twitter
   url: https://twitter.com/roytang/statuses/756040588894560256/
 - type: facebook

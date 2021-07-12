@@ -9,7 +9,7 @@ reviews:
   title: Stranger Things season 1
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/148861917440/review-stranger-things
+  url: https://roytang.tumblr.com/post/148861917440/review-stranger-things
 - type: twitter
   url: https://twitter.com/roytang/statuses/764274080757481472/
 tags:

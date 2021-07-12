@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BJPyhQHBZ1J/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149122349970/idk-some-kind-of-dog-painting-is-hard
+  url: https://roytang.tumblr.com/post/149122349970/idk-some-kind-of-dog-painting-is-hard
 - type: twitter
   url: https://twitter.com/roytang/statuses/766220329186390016/
 - type: facebook

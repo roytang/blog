@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BKqg0zZB4SY/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150777074560/pumpkin-spies-sketchdaily
+  url: https://roytang.tumblr.com/post/150777074560/pumpkin-spies-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/778988993987739649/
 - type: facebook

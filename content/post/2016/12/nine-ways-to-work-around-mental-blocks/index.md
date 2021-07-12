@@ -2,9 +2,10 @@
 author: roy
 categories: []
 date: 2016-12-13 01:30:25
+dontinlinephotos: true
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154400160995/nine-ways-to-work-around-mental-blocks
+  url: https://roytang.tumblr.com/post/154400160995/nine-ways-to-work-around-mental-blocks
 - type: twitter
   url: https://twitter.com/roytang/statuses/808485333427953669/
 tags:
@@ -12,7 +13,6 @@ tags:
 title: Nine Ways to Work Around Mental Blocks
 type: post
 url: /2016/12/nine-ways-to-work-around-mental-blocks/
-dontinlinephotos: true
 ---
 
 Often I have these days where I'm supposed to be writing something or drawing something or coding something and I just can't get to it. Some kind of mental block makes it difficult. And you try to focus your mind and clear your thoughts, but it just doesn't help. Here are some ideas for how to get past mental blocks.

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BN3Yi5KhpMs/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154318573675/under-the-bridge-sketchdaily-part-of-this-drawing
+  url: https://roytang.tumblr.com/post/154318573675/under-the-bridge-sketchdaily-part-of-this-drawing
 - type: twitter
   url: https://twitter.com/roytang/statuses/807821537592115200/
 - type: facebook

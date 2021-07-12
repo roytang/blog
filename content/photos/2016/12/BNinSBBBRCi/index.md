@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BNinSBBBRCi/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/153973323520/ordinary-street-corner-sketchdaily
+  url: https://roytang.tumblr.com/post/153973323520/ordinary-street-corner-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/804898433815416832/
 - type: facebook

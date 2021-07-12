@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BLdXQwbBmWM/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151698853435/worrying-sketchdaily-inktober
+  url: https://roytang.tumblr.com/post/151698853435/worrying-sketchdaily-inktober
 - type: twitter
   url: https://twitter.com/roytang/statuses/786145136250159104/
 - type: facebook

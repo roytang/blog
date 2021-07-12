@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BJ0ThrDBmmN/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/149794935945/bmx-men-sketchdaily
+  url: https://roytang.tumblr.com/post/149794935945/bmx-men-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/771359460950413316/
 - type: facebook

@@ -4,7 +4,7 @@ categories: []
 date: 2016-11-29 01:30:44
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/153798744930/are-you-willing-to-accept-criticism
+  url: https://roytang.tumblr.com/post/153798744930/are-you-willing-to-accept-criticism
 - type: twitter
   url: https://twitter.com/roytang/statuses/803412776530116608/
 tags:

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BFwclPTsoGX/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/144812436235/coral-trickster-mtg-sketchdaily
+  url: https://roytang.tumblr.com/post/144812436235/coral-trickster-mtg-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/734787613303787520/
 - type: facebook

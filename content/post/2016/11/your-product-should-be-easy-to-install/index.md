@@ -4,7 +4,7 @@ categories: []
 date: 2016-11-24 01:30:31
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/153581662850/your-product-should-be-easy-to-install
+  url: https://roytang.tumblr.com/post/153581662850/your-product-should-be-easy-to-install
 - type: twitter
   url: https://twitter.com/roytang/statuses/801599810084159496/
 tags:

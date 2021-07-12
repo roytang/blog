@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BNk2qQFh5Uu/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/154008935140/undersea-battle-sketchdaily
+  url: https://roytang.tumblr.com/post/154008935140/undersea-battle-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/805213731256995840/
 - type: facebook

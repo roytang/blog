@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BLA-z_rBg47/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151183657725/a-pair-of-wandering-mercenaries-sketchdaily
+  url: https://roytang.tumblr.com/post/151183657725/a-pair-of-wandering-mercenaries-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/782150707147378688/
 - type: facebook

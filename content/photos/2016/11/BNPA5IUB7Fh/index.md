@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BNPA5IUB7Fh/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/153641186910/mother-and-child-sketchdaily
+  url: https://roytang.tumblr.com/post/153641186910/mother-and-child-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/802140009402863616/
 - type: facebook

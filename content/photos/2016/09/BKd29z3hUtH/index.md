@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BKd29z3hUtH/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150546023650/reigun-sketchdaily-yuyuhakusho
+  url: https://roytang.tumblr.com/post/150546023650/reigun-sketchdaily-yuyuhakusho
 - type: twitter
   url: https://twitter.com/roytang/statuses/777207647179247616/
 - type: facebook

@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BI-f0mvBcf-/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/148794881500/todays-sketchdaily-theme-was-stranger-things
+  url: https://roytang.tumblr.com/post/148794881500/todays-sketchdaily-theme-was-stranger-things
 - type: twitter
   url: https://twitter.com/roytang/statuses/763786708890640384/
 - type: facebook

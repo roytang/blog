@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BH7gjZah8el/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/147500105420/quick-and-lazy-flamingo-sketchdaily-birdweek
+  url: https://roytang.tumblr.com/post/147500105420/quick-and-lazy-flamingo-sketchdaily-birdweek
 - type: twitter
   url: https://twitter.com/roytang/statuses/754358874640117762/
 - type: facebook

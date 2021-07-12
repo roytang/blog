@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/BKW6i-Oh6S1/
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150425160495/empty-orchestra-sketchdaily
+  url: https://roytang.tumblr.com/post/150425160495/empty-orchestra-sketchdaily
 - type: twitter
   url: https://twitter.com/roytang/statuses/776230366264918017/
 - type: facebook

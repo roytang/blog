@@ -4,7 +4,7 @@ categories: []
 date: 2016-12-27 01:30:07
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/155001511670/decluttering
+  url: https://roytang.tumblr.com/post/155001511670/decluttering
 - type: twitter
   url: https://twitter.com/roytang/statuses/813559360416870400/
 tags:

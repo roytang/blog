@@ -4,7 +4,7 @@ categories: []
 date: 2016-10-06 01:30:27
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/151405943800/a-programmers-hubris
+  url: https://roytang.tumblr.com/post/151405943800/a-programmers-hubris
 - type: twitter
   url: https://twitter.com/roytang/statuses/783841984200990721/
 tags:

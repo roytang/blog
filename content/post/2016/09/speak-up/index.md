@@ -4,7 +4,7 @@ categories: []
 date: 2016-09-20 01:30:45
 syndicated:
 - type: tumblr
-  url: https://tumblr.roytang.net/post/150660450975/speak-up
+  url: https://roytang.tumblr.com/post/150660450975/speak-up
 - type: twitter
   url: https://twitter.com/roytang/statuses/778045077398622208/
 tags:
