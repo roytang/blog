@@ -1,17 +1,22 @@
 ---
-title: "Reviews: The World is Not Enough, Barry season 1, Loki"
-date: 2021-07-14T18:22:07+08:00
-tags:
-- tv 
-- movies
+date: 2021-07-14 10:22:07
 reviews:
-- media: movies
+- description: Rewatch
+  media: movies
   title: The World Is Not Enough (1999)
-  description: Rewatch
 - media: tv
   title: Barry season 1
 - media: tv
   title: Loki season 1
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106578517463277085
+- type: twitter
+  url: https://twitter.com/roytang/status/1415259429583278080/
+tags:
+- tv
+- movies
+title: 'Reviews: The World is Not Enough, Barry season 1, Loki'
 ---
 
 Warning: Spoilers for the just-ended season of Loki at the end of this. I have [a spoiler-free review](https://roytang.net/2021/07/1415238174377340930/) of that if you'd like.
@@ -40,6 +45,4 @@ The pacing of the entire six-episode runs just seemed so off to me; basically no
 
 The ramifications for the entire MCU at large are huge of course, and as a setup vehicle for the greater cinematic multiverse the series does the job well. But on the smaller scale, as a series standing by itself we got an anticlimactic finale, Renslayer and Mobius don't get any kind of resolution or advancement to their character arcs, and our protagonist ends up right back where he was from the start - lost and alone. So unsatisfying. 
 
-I will of course still watch the eventual season 2, and I'm looking forward to What If in August, but this finale just left a sour taste in my mouth. 
-
-
+I will of course still watch the eventual season 2, and I'm looking forward to What If in August, but this finale just left a sour taste in my mouth.
