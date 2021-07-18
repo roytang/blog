@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153944244358912:0
 tags:
 - mobile-uploads
+- quiznight
 ---
 
 By one point!
