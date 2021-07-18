@@ -33,7 +33,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - 2015: I [travelled to London](/2015/07/10153949288558912-0/) for work for 3 months!
 - 2015: [The first time we won a quiz night](/2015/07/10153944244358912-0/)?
-- 2015: [RIP Satoru Iwata](http://localhost:8000/2015/07/620417640591331328/)
+- 2015: [RIP Satoru Iwata](/2015/07/620417640591331328/)
   
 ### My stuff:
 
@@ -44,13 +44,14 @@ Visit the [Links page](/links/) for more links of interest.
 
 - **Watching:**
     - Movies: Actually managed to watch a fair amount of movies this week! 
-        - James Bond run continues with Brosnan's [The World is Not Enough (1999)](https://roytang.net/2021/07/wine-barry-loki/)
+        - James Bond run continues with Brosnan's [The World is Not Enough (1999)](/2021/07/wine-barry-loki/)
         - The watch-along movie during this week's Saturday gaming session was one of [my all-time favorites](/2018/10/my-top-10-favorite-movies-of-all-time/): Street Fighter the Movie (1994). Still super quotable!
-    - TV: Watched [Barry season 1 and of course the Loki season 1 finale](https://roytang.net/2021/07/wine-barry-loki/). Also started watching **Superstore** season 5, since I saw it's on Prime Video now.
+    - TV: Watched [Barry season 1 and of course the Loki season 1 finale](/2021/07/wine-barry-loki/). Also started watching **Superstore** season 5, since I saw it's on Prime Video now.
 - **Gaming**:
     - Still playing **Horizon Zero Dawn** and **Guilty Gear Strive** regularly. Also decided to revive my **Wasteland 2** save for some reason. Also woke up my **Disgaea 4 (Vita)** save game since I had to wait in a corridor for a while during an errand this week.
     - Still drafting the latest MTG set **Adventures in the Forgotten Realms** on Magic Arena, you can follow via the [MTGAFR tag](/tags/mtgafr)
     - Regular Saturday group played some [Root](/2021/05/root/) and [Blood Rage](/2021/03/blood-rage/) again, as usual.
+    - Some friends got me into playing [this web-based version of Advance Wars](https://awbw.amarriner.com/), which hopefully Nintendo takes a while to notice.
 - **Reading**: No books this week, mostly just comics. Yet again. 
 - No online quiz night for the trivia team this week, we just indulged ourselves with the NY Times crossword and spelling bee again.
 
