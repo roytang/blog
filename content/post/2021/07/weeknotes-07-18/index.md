@@ -23,6 +23,7 @@ title: Weeknotes 2021-07-18
 - [Fitch downgrades PH credit rating outlook to "negative"](https://twitter.com/cnnphilippines/status/1414551153476472834)
 - [Pacquiao ousted from PDP-Laban by an opposing faction](https://twitter.com/PhilippineStar/status/1416548274719313926), just as he's preparing for his upcoming fight.
 - [Covid-19 delta variant has been detected in the PH](https://twitter.com/cnnphilippines/status/1415874331335294985), let's hope the government can keep it under control.
+- [Valve has announced the Steam Deck](https://www.ign.com/articles/steam-deck-valve-announces-handheld-gaming-pc-2021-release), a handheld PC for playing Steam games
 
 ### Links of interest:
 
