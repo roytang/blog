@@ -1,5 +1,7 @@
 ---
-date: 2013-09-05 15:56:25+00:00
+albums:
+- food
+date: 2013-09-05 15:56:25
 source: twitter
 syndicated:
 - type: twitter
