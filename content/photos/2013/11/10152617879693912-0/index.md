@@ -14,6 +14,7 @@ syndicated:
 tags:
 - mobile-uploads
 - gaming
+- games
 ---
 
 Finished A Link Between Worlds, fantastic game!
