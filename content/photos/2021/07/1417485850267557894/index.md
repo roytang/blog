@@ -9,3 +9,5 @@ tags:
 ---
 
 Kraken attack part 3 #sketchdaily 201/365
+
+[Previously](/2016/06/BG6vkkxMoNQ/), [previously](/2017/01/BPTU4jPFs__/)

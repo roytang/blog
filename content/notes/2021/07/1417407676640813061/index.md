@@ -11,4 +11,4 @@ syndicated:
   url: https://twitter.com/roytang/status/1417407676640813061/
 ---
 
-[@rocketkeis](https://twitter.com/rocketkeis/) Yes para accesaible to blind people
+[@rocketkeis](https://twitter.com/rocketkeis/) Yes para accessible to blind people
