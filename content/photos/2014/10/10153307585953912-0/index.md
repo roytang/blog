@@ -6,6 +6,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153307585953912:0
 tags:
 - mobile-uploads
+- gaming
+- pickups
 ---
 
 More gastos~

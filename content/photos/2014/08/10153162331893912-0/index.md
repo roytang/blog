@@ -6,6 +6,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153162331893912:0
 tags:
 - mobile-uploads
+albums:
+- food
 ---
 
 I was annoyed at things so I randomly decided to have a heavy/expensive dinner

@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152904727883912:2
 tags:
 - mobile-uploads
+- gaming
 ---
 
 Vita/3ds games were the first to go back on the shelves. (This is the last post about my shelf cleaning, I promise :p)

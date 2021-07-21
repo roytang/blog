@@ -6,6 +6,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153175253238912:0
 tags:
 - mobile-uploads
+albums:
+- food
 ---
 
 Thanks [Lizbeth Jane Garcia](https://www.facebook.com/100000039030121)!

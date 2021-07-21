@@ -6,6 +6,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152884633143912:0
 tags:
 - mobile-uploads
+albums:
+- food
 ---
 
 I only have this once a year

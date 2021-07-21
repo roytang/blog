@@ -51,7 +51,7 @@ tags:
 | **Mar** | Dragons of Tarkir | [Prerelease](/2015/03/579238284511039488/) | |
 | **Jan** | Fate Reforged | [Prerelease](/2015/01/556281508978102273/) | [Grand Prix Manila 2015](/2015/02/grand-prix-manila-2015/) (Standard - Jeskai Ascendancy) |
 | **2014** |
-| **Sep** | Khans of Tarkir | | |
+| **Sep** | Khans of Tarkir | [Prerelease](/2014/09/513185527625822208/) | |
 | **Jul** | Magic 2015 | | |
 | **May** | Journey into Nyx | [Prerelease](/2014/04/460051750901129216/) | |
 | **Feb** | Born of the Gods | | |
