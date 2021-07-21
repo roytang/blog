@@ -12,6 +12,7 @@ syndicated:
 tags:
 - gaming
 - Super Mario 3D World
+- games
 ---
 
 Posted in MiiVerse's [Super Mario 3D World Community](https://archiverse.guide/game/14866558073088060601):
