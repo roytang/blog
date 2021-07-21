@@ -16,6 +16,8 @@ syndicated:
 tags:
 - tv
 - movies
+- watching-lately
+- jamesbond
 title: 'Reviews: The World is Not Enough, Barry season 1, Loki'
 ---
 
