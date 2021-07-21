@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153459410588912
-tags: []
+tags:
+- survey
 ---
 
 Survey: nagpapaputok ba kayo sa bisperas ng bagong taon?
