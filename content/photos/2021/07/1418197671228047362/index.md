@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1418197671228047362/
 - type: twitter
   url: https://twitter.com/roytang/status/1418197862765129735/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/opa2sg/july_22nd_gooseberries/h64gv5c/
 tags:
 - Tumindig
 - sketchdaily
