@@ -1,11 +1,20 @@
 ---
-date: 2015-10-11 02:58:00
+date: 2015-10-11 02:58:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154137918808912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/652788622232522752/
+- type: foursquare
+  url: https://www.swarmapp.com/c/leNtll2raui
+- type: foursquare
+  url: https://www.swarmapp.com/c/leNtll2raui
+checkin_id: 5618e466498ecd548e9b9e05
+locations: 4ba294bdf964a520460638e3
 tags:
 - mobile-uploads
+- touristmode
 ---
 
-Place: Windsor Castle at Windsor  England. (51.482784691625, -0.60632879720658)Address: 27-29 Crawford Pl, SL4 1NJ London, United Kingdom
+#touristmode (@ Windsor Castle in Windsor, Windsor and Maidenhead)
