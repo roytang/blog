@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154261448528912:0
 tags:
 - ps4
+- games
 ---
 
 That took forever
