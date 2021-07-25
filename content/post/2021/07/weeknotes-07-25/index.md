@@ -1,6 +1,11 @@
 ---
-date: 2021-07-25T12:42:28+08:00
+date: 2021-07-25 04:42:28
 slug: weeknotes-2021-07-25
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106641488355262677
+- type: twitter
+  url: https://twitter.com/roytang/status/1419289566503071749/
 tags:
 - weeknotes
 - philippines
