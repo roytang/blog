@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156790243123912
 tags:
 - mobile-uploads
+- mtgnats2018
 ---
 
 [Morris Tan](https://www.facebook.com/1361264202) lol

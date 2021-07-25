@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/756587312218120192/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154765249033912
+tags:
+- quotes
 ---
 
 "All this has happened before and will happen again. "
