@@ -11,6 +11,7 @@ tags:
 - philippines
 - covid19
 title: Weeknotes 2021-07-25
+featuredImage: https://roytang.net/media/content/photos/2021/07/1418197671228047362/1_1418197671228047362_E65zArWVEAUQVPa.jpg
 ---
 
 ### A quote:
