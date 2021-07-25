@@ -7,9 +7,10 @@ tags:
 title: 'Weekend Project: Stack Bragger'
 type: post
 url: /2010/07/weekend-project-stack-bragger/
+dontinlinephotos: true
 ---
 
-<img class="alignnone" title="Sample Post" src="http://stackfb.appspot.com/static/sample-post.png" alt="" width="488" height="141" />
+{{< img src="sample-post.png" >}}
 
 Stack Bragger lets you brag to your Facebook friends whenever you ask new questions or earn new badges at StackOverflow, SuperUser or ServerFault.
 
