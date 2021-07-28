@@ -22,6 +22,10 @@ reviews:
   title: "The Expanse season 2"
 - media: tv
   title: "The Mandalorian season 1"
+- media: tv
+  title: "The Movies That Made Us season 1"
+- media: tv
+  title: "Final Space season 2"
 ---
 
 Been watching a lot of things this December.
@@ -44,4 +48,4 @@ I also rewatched **The Last Jedi** for the first time about a week later, it was
 
 Speaking of Star Wars, I enjoyed the ending of **The Mandalorian**, although it did have a couple of weaker episodes in the middle that felt like filler (or maybe just there to seed characters for the eventual second season). The final two episodes are pretty good, and we get the payoffs of actualy learning the Mandalorian's history and all. I do find it ridiculous that the Jedi and the Force are still unknown enough that the Mandalorian has never heard of them considering it probably hasn't even been more than 30 years since Palpatine took down the Republic, which had literally an entire council of Jedi as an advisory body to the Senate and featuring prominently in the Clone Wars. Do they not have recorded history? Lol. In any case, I'm looking forward to season 2 whenever it lands.
 
-THat's it for the decade!
+That's it for the decade!
