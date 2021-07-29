@@ -1,21 +1,27 @@
 ---
-title: "Reviews: Casino Royale, Gunpowder Milkshake, The Long Halloween, Masters of the Universe Revelation"
-date: 2021-07-29T19:13:24+08:00
+date: 2021-07-29 11:13:24
 reviews:
 - media: movies
   title: Casino Royale (2006)
 - media: movies
   title: Gunpowder Milkshake (2021)
 - media: movies
-  title: "Batman: The Long Halloween (2021)"
+  title: 'Batman: The Long Halloween (2021)'
 - media: tv
-  title: "Masters of the Universe: Revelations (part 1)"
+  title: 'Masters of the Universe: Revelations (part 1)'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106663773461928897
+- type: twitter
+  url: https://twitter.com/roytang/status/1420715813309321217/
 tags:
 - watching-lately
 - movies
 - tv
 - books
 - jamesbond
+title: 'Reviews: Casino Royale, Gunpowder Milkshake, The Long Halloween, Masters of
+  the Universe Revelation'
 ---
 
 Some stuff I've watched lately. Spoilers for Gunpowder Milkshake and MotU: Revelation are marked.
@@ -53,4 +59,3 @@ We also watched this during Saturday's watch-along. This one is a bit controvers
 The voice work is pretty good; we immediately recognized Lena Headey's voice as Evil-Lyn, and Mark Hamill as Skeletor is unmistakeable. We didn't recognize Sarah Michelle Gellar as Teela though! The storyline so far is okay, though not super original. It kind of felt like a typical JRPG party-gathering and going on a quest thing, really.
 
 A lot of old fans didn't like the focus being taken away from He-Man and focusing on a female character, which many imagined as purely a diversity play. I feel like it's much too early to judge the season overall, since it's only halfway through, but even then, there's nothing wrong about focusing on some other characters, as the show is explicitly titled "Masters of the Universe" without the "He-Man and the... " prefix. It's probably best to see where Kevin Smith takes us for the eventual second part (for which we have no release date yet).
-
