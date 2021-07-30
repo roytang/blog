@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156819098748912
 tags:
 - trivia
+- quiznight
 ---
 
 <p>I found a couple of old quiz night handouts from when we used to go to the now-defunct Murphy’s bar in Makati, I thought some people might like them so I scanned them before throwing them out<br/></p>

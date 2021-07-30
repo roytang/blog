@@ -11,7 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/759239217805398017/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154782903753912:0
-tags: []
+tags:
+- food
 ---
 
 Bacon fried like chicken
