@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152378339263912
-tags: []
+tags:
+- survey
 ---
 
 Survey for my doctor/lawyer/self employed friends: are you paying the proper taxes? (No offense, bawal mapikon =p)
