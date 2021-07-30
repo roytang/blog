@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154776457418912:0
 tags:
 - popquiz
+- quiznight
 ---
 
 We won! #popquiz
