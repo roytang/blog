@@ -17,7 +17,7 @@ It's August!
 
 ### A quote:
 
-> "Here's the thing: there is no real life. There is no full, meaningful, "best life.". There are, at best, more and less meaningful pursuits, from your perspective, based on your upbringing, imprinting, and your own specific cocktail of longings. It is natural for us to feel anxiety about how we spend our limited time. No matter how happy you convince yourself to be, you will sometimes feel the vague ache of other possible lives." -- [SandwichBear via Amy Hoy](https://twitter.com/berkun/status/758664382867832832)
+> "Here's the thing: there is no real life. There is no full, meaningful, "best life." There are, at best, more and less meaningful pursuits, from your perspective, based on your upbringing, imprinting, and your own specific cocktail of longings. It is natural for us to feel anxiety about how we spend our limited time. No matter how happy you convince yourself to be, you will sometimes feel the vague ache of other possible lives." -- [SandwichBear via Amy Hoy](https://twitter.com/berkun/status/758664382867832832)
 
 ### The world:
 
