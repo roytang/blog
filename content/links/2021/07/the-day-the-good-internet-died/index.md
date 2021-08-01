@@ -4,7 +4,7 @@ link:
   source: pocket
   source_url: https://getpocket.com
   text: The Day the Good Internet Died
-  url: https://www.theringer.com/2021/7/21/22586870/google-reader-ode-end-of-the-good-internet?ref=refind
+  url: https://www.theringer.com/2021/7/21/22586870/google-reader-ode-end-of-the-good-internet
 source: pocket
 syndicated:
 - type: pocket
