@@ -5,6 +5,11 @@ reviews:
 - media: tv
   title: The Movies That Made Us season 2
 slug: weeknotes-2021-08-01
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106679754135306749
+- type: twitter
+  url: https://twitter.com/roytang/status/1421738576312602628/
 tags:
 - weeknotes
 - philippines
