@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1156907284938625025/
 tags:
 - StreetFighterV
+- gaming
 ---
 
 I am bummed at how sad Ono was about the #StreetFighterV leak though. I'm actually still hoping this is a fake-out and they have more stuff to announce after the Evo finals!

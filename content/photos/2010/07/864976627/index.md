@@ -8,4 +8,5 @@ syndicated:
   url: https://roytang.tumblr.com/post/864976627
 tags:
 - gaming
+- sc2
 ---

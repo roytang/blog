@@ -1,5 +1,10 @@
 ---
 date: 2018-07-27 15:36:37
+reviews:
+- description: ''
+  media: tv
+  rating: 0.0
+  title: Final Space season 1
 source: twitter
 syndicated:
 - type: twitter

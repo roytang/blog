@@ -1,11 +1,12 @@
 ---
-date: 2017-07-27 00:30:30+00:00
+date: 2017-07-27 00:30:30
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/890368765040263168/
 tags:
 - freecodefriday
+- duelyst
 title: ''
 ---
 
