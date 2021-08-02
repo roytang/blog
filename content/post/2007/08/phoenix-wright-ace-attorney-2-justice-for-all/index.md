@@ -1,6 +1,11 @@
 ---
 categories: []
 date: 2007-08-05 05:57:23
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Phoenix Wright: Ace Attorney 2: Justice For All (NDS)'
 tags:
 - Gaming
 title: 'Phoenix Wright Ace Attorney 2: Justice for All'

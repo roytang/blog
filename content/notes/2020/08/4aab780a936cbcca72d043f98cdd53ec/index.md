@@ -6,6 +6,9 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104632952320863774
 - type: twitter
   url: https://twitter.com/roytang/statuses/1290743260571299840/
+tags:
+- mtg
+- magic-arena
 title: arena
 ---
 
