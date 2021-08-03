@@ -1,13 +1,18 @@
 ---
-title: "Quantum of Solace"
-date: 2021-08-04T00:00:13+08:00
+date: 2021-08-03 16:00:13
+reviews:
+- description: rewatch
+  media: movies
+  title: Quantum of Solace (2008)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106693087514294226
+- type: twitter
+  url: https://twitter.com/roytang/status/1422591913002094593/
 tags:
 - movies
 - jamesbond
-reviews:
-- media: movies
-  title: Quantum of Solace (2008)
-  description: rewatch
+title: Quantum of Solace
 ---
 
 Bond film no. 22, Daniel Craig's second outing. I actually [watched this back in 2008](/2008/11/996918103/), but apparently I wasn't super impressed (and I wish I wrote more back then lol). I suspect I didn't really like it because this movie is actually a direct sequel to [Casino Royale](/2021/07/reviews-casino-gunpowder-halloween-masters/) which I hadn't seen until this year. It picks up on several hanging plot threads, and some of the characters appear again, and Bond in this film is primarily motivated by anger over the events of the previous film. Not to mention I had only seen two Brosnan movies prior to watching Quantum of Solace at that time, so I really didn't have either the franchise foundation or the context from Casino Royale to appreciate this film.
