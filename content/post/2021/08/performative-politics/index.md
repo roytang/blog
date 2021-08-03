@@ -1,9 +1,14 @@
 ---
-title: "Performative Politics"
-date: 2021-08-03T16:38:14+08:00
+date: 2021-08-03 08:38:14
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106692833899659797
+- type: twitter
+  url: https://twitter.com/roytang/status/1422575681326616576/
 tags:
 - politics
 - philippines
+title: Performative Politics
 ---
 
 I read [this article](https://www.insider.com/rep-eric-swalwell-says-gop-representatives-like-wwe-wrestlers-2021-7) about how a US Democratic representative says his Republican colleagues are like WWE wrestlers (excuse me, they're called "Superstars") who behave differently in private versus in public. Basically their politics are performative, they act a certain way in public to appeal to their bases, but in private they don't actually really believe in many of the things they say in public. It speaks to a certain lack of integrity and deceptiveness. It's the kind of [laying and salesmanship](/2016/09/lying-and-salesmanship/) that I really dislike.
