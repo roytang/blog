@@ -65,6 +65,6 @@ From Maya Angelou:
 
 
 
-&gt; "When someone shows you who they are, believe them"
+> "When someone shows you who they are, believe them"
 
 (Disclaimer: this is not to say that one should automatically trust any person who presents as good, just not to unnecessarily assume false motives; use your common sense.)
