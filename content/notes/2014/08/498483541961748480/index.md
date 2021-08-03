@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/498483541961748480/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153144555333912
+tags:
+- quotes
 ---
 
 "Whatever the present moment contains, accept it as if you had chosen it. Always work with it, not against it." -Eckhart Tolle
