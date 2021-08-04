@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154016606693912:1
 tags:
 - gplondon
+- mtg
 ---
 
 Rich Hagon's magic game show was pretty fun lol #gplondon
