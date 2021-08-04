@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/235154524480864257/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151793077483912
+tags:
+- survey
 ---
 
 The traffic situation in Metro Manila has gone from bad to worse within the last five years. Agree/disagree?

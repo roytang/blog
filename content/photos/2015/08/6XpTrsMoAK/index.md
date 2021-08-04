@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154016606693912:0
 tags:
 - gplondon
+- mtg
 ---
 
 #gplondon
