@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1030010602561794049/
+tags:
+- tv
 ---
 
 Rewatching Young Justice in anticipation of S3. This series was great, easily the best of DC's animated series overall.
