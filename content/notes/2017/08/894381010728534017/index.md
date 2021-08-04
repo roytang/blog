@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/894381010728534017/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155932158353912
+tags:
+- quotes
 ---
 
 Chaos is a ladder

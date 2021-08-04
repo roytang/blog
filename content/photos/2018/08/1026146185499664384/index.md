@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1026146185499664384/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1026150413857255425/
+tags:
+- games
 ---
 
 I think I made the most of the BBTag free weekend lol. Fun game, a lot easier to get into than the other BBs, though I'm still pretty bad at it.
