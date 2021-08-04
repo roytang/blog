@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3381908302/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/159136851608
+tags:
+- mtg
+- mtgo
 ---
 
 argh ran out of mtgo boosters &gt;&lt;

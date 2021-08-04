@@ -6,7 +6,8 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/53f1f198498e15d6dff8f188
-tags: []
+tags:
+- mergeme
 ---
 
- (@House of Lasagna Lower Ground Floor SM Megamall Building A)
+(@House of Lasagna Lower Ground Floor SM Megamall Building A)
