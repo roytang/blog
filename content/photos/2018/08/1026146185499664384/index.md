@@ -1,5 +1,10 @@
 ---
 date: 2018-08-05 16:41:30
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: BlazBlue Cross Tag Battle (Steam)
 source: twitter
 syndicated:
 - type: twitter
