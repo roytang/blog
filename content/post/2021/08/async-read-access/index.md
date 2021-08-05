@@ -1,8 +1,13 @@
 ---
-title: "\"Async read access to your brain\""
-date: 2021-08-05T13:36:44+08:00
+date: 2021-08-05 05:36:44
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106702046122925821
+- type: twitter
+  url: https://twitter.com/roytang/status/1423165263667621892/
 tags:
 - blogging
+title: '"Async read access to your brain"'
 ---
 
 I read this quote from Twitter recently that I really liked:
