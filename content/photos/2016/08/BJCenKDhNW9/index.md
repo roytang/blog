@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/764346963802329088/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154818409718912:0
+- type: twitter
+  url: https://twitter.com/roytang/status/1423273843183939589/
 tags:
 - sketchdaily
 ---
