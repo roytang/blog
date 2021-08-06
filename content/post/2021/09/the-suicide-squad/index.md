@@ -21,7 +21,7 @@ First, the spoiler-free review:
 
 Second: I have to say, titling it "The Suicide Squad" is super annoying especially for anyone who does data processing/indexing, since "The" is what differentiates it from the 2016 word, and that's usually ignored in stuff like search engines and such. Oh well.
 
-Anyway, it turns out I don't actually have very spoiler-y stuff to say though; the film is pretty straightforward. I guess I'll try. It's a marked improvement over the 2016 film in all aspects. It's also visually a feast; James Gunn obviously had way too much fun with many of the shots. 
+Anyway, it turns out I don't actually have very spoiler-y stuff to say though; the film is pretty straightforward. I guess I'll try. It's a marked improvement over the 2016 film in all aspects. It's also visually a feast; James Gunn obviously had way too much fun with many of the shots. I am less a fan of the music/soundtrack choices here than in Guardians of the Galaxy though. 
 
 Some of the DC characters here are very strange choices, but most of them are used well. At least, the ones that survived most of the movie are pretty good. The rest were mostly cannon fodder who got killed off in like the first 5 minutes. King Shark was hilarious; Bloodshot and Peacemaker's "rivalry" was great; you find yourself strangely rooting for Polka Dot Man; and Ratcatcher 2 was indeed the heart of this film, as promised. Also, I like how they straight-up just played Starro true to his comic book roots, and he's just a giant kaiju starfish. He even walks around like Patrick Starr lol.
 
