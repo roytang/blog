@@ -1,12 +1,18 @@
 ---
-title: "The Suicide Squad"
-date: 2021-08-06T22:25:12+08:00
+date: 2021-08-06 14:25:12
+reviews:
+- description: A marked improvement over the previous film, possibly best of DCEU
+    so far.
+  media: movies
+  title: The Suicide Squad (2021)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106709690975320093
+- type: twitter
+  url: https://twitter.com/roytang/status/1423654534425944064/
 tags:
 - movies
-reviews:
-- media: movies
-  title: "The Suicide Squad (2021)"
-  description: "A marked improvement over the previous film, possibly best of DCEU so far."
+title: The Suicide Squad
 ---
 
 First, the spoiler-free review:
