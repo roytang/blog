@@ -1,10 +1,12 @@
 ---
-date: 2021-08-08 16:51:09+00:00
+date: 2021-08-08 16:51:09
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1424412880116453377/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/ozpwga/august_7th_the_land_down_under/h87n8qv/
 tags:
 - sketchdaily
 ---
