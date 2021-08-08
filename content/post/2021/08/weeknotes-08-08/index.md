@@ -5,6 +5,8 @@ slug: weeknotes-2021-08-08
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/106720161802153869
+- type: twitter
+  url: https://twitter.com/roytang/status/1424324667209256960/
 tags:
 - weeknotes
 - philippines
