@@ -1,8 +1,13 @@
 ---
-title: "Forty Three"
-date: 2021-08-09T14:29:45+08:00
+date: 2021-08-09 06:29:45
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106724829450428505
+- type: twitter
+  url: https://twitter.com/roytang/status/1424623397544206337/
 tags:
 - birthday
+title: Forty Three
 ---
 
 Had some trouble thinking about what I wanted to write for this year's birthday post. And while I was thinking about it I accidentally published an empty draft of this post earlier today. Sounds about right. 
