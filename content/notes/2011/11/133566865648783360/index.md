@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/133566865648783360/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150359700423912
+tags:
+- movies
 ---
 
 Was it just me, or did Tower Heist feel really racist regarding Eddie Murphy's character?
