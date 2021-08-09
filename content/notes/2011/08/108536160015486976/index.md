@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/108536160015486976/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150277185133912
+tags:
+- survey
 ---
 
 When you first saw Ryu/Ken do the hurricane kick, what did you think he was saying?
