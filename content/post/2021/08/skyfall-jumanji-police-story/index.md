@@ -21,7 +21,7 @@ title: 'Reviews: Skyfall, Jumanji: Welcome to the Jungle, Police Story'
 
 ### Skyfall (2012)
 
-Bond film no. 23, Daniel Craig's third. I watched this in the theaters back in 2012, so this is the last rewatch of my James Bond run. Back then my main complaint was that [Bond's plan in the last thirty minutes of the movie was terrible](/2012/11/264691037212131328/). The same complaint stands even now, especially given the eventual outcome of that plan.
+Bond film no. 23, Daniel Craig's third. I watched this in the theaters back in 2012, so this is the last rewatch of my James Bond run. Back then my main complaint was that [Bond's plan in the last thirty minutes of the movie was terrible](/2012/11/264691037212131328/). The same complaint stands even now, especially given the eventual outcome of that plan. Make no mistake: the entire defending the house sequence is one of the best things about the movie from an action standpoint, but tactically it was terribly.
 
 The whole film is basically a swan song for Judi Dench's M, exploring the extremes of her relationship with Bond and how fond they are of each other in spite of everything. Ben Whishaw appears as the new Q, who starts his run appropriately, by letting MI6 get hacked. The film still calls out the old Bond film tropes, with Q telling Bond they're not really into exploding pens anymore. Bardem gives a good performance as the villain Silva, but the character felt a bit underdeveloped as we didn't get his background until an info drop around two-thirds through.
 
