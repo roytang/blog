@@ -1,17 +1,22 @@
 ---
-title: "Reviews: Skyfall, Jumanji: Welcome to the Jungle, Police Story"
-date: 2021-08-12T23:26:51+08:00
+date: 2021-08-12 15:26:51
 reviews:
-- media: movies
+- description: rewatch
+  media: movies
   title: Skyfall (2012)
-  description: rewatch
 - media: movies
-  title: "Jumanji: Welcome to the Jungle (2017)"
+  title: 'Jumanji: Welcome to the Jungle (2017)'
 - media: movies
   title: Police Story (1985)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106744064364333273
+- type: twitter
+  url: https://twitter.com/roytang/status/1425854431396962306/
 tags:
 - movies
 - jamesbond
+title: 'Reviews: Skyfall, Jumanji: Welcome to the Jungle, Police Story'
 ---
 
 ### Skyfall (2012)
