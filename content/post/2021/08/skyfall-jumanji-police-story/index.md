@@ -25,6 +25,8 @@ Bond film no. 23, Daniel Craig's third. I watched this in the theaters back in 2
 
 The whole film is basically a swan song for Judi Dench's M, exploring the extremes of her relationship with Bond and how fond they are of each other in spite of everything. Ben Whishaw appears as the new Q, who starts his run appropriately, by letting MI6 get hacked. The film still calls out the old Bond film tropes, with Q telling Bond they're not really into exploding pens anymore. Bardem gives a good performance as the villain Silva, but the character felt a bit underdeveloped as we didn't get his background until an info drop around two-thirds through.
 
+The theme song here by Adele won the Oscar for best song; it's not my cup of tea, but I can see how it could win.
+
 This film also brings cyberterrorism into the modern Bond era, and the usefulness of MI6's focus on human intelligence during the modern era is called into question. It will be interesting to see how technology further changes the Bond films moving forward.
 
 The film ends with basically the Connery status quo - Bond answering to a male M, flirting with his assistant Moneypenny, and assisted by Q. It's something I wouldn't have appreciated back when I first saw the film in 2012, given that this was only the 4th Bond film I've seen at that point, and none of them had that Connery setup.
