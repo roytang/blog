@@ -21,7 +21,7 @@ title: Weeknotes 2021-08-15
 ### The world:
 
 - We are one week into the current NCR ECQ lockdown. Covid19 and the Delta variant continue to rampage through the country; [the DOH reported 14k+ new cases today, the 2nd highest daily rate since the pandemic started](https://twitter.com/EdsonCGuido/status/1426816192845553665), the positive testing rate staying above 20% for more than a week (signaling not enough testing - WHO recommended rate is 5%). The hospitals are starting to fill up again. Rumors are already circulating that the lockdown might be extended; [businesses have pre-emptively said no](https://www.manilastandard.net/news/top-stories/362344/business-bucks-ecq-extension-fears-health-livelihood-crisis-may-worsen.html), but what are we going to do if the cases just keep going up?
-- Esrstwhile DOH secretary Duque is in hot water again after the [COA flagged his department](https://www.cnnphilippines.com/news/2021/8/11/COA-DOH-67-billion-COVID-pandemic-funds.html) for mismanagement of P67B pandemic funds.
+- Erstwhile DOH secretary Duque is in hot water again after the [COA flagged his department](https://www.cnnphilippines.com/news/2021/8/11/COA-DOH-67-billion-COVID-pandemic-funds.html) for mismanagement of P67B pandemic funds. Duque truly is this administration's Abaya.
 - The US is completing their withdrawal from Afghanistan this month, and the Taliban [has rapidly made advances](https://nypost.com/2021/08/09/taliban-takes-control-of-cities-in-afghanistan-in-a-week/), capturing and now [they are poised to take Kabul](https://twitter.com/AJENews/status/1426821557540765697). Yet another failed American war?
 
 ### Links of interest:
