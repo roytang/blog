@@ -25,7 +25,7 @@ title: Weeknotes 2021-08-15
 
 ### Links of interest:
 
-- [Divergent association task](https://www.datcreativity.com/task). I [did relatively well](https://roytang.net/2021/08/1426594025113485312/) I guess. One of my friends suggested we take all the words we chose and put them in a [Codenames](https://codenamesgame.com/) pool.
+- [Divergent association task](https://www.datcreativity.com/task). I [did relatively well](/2021/08/1426594025113485312/) I guess. One of my friends suggested we take all the words we chose and put them in a [Codenames](https://codenamesgame.com/) pool.
 - [Nestflix](https://nestflix.fun/) is a website that presents a faux Netflix-like service except it lists out fictional movies and TV shows that were featured in actual movies and TV shows
 - [The case for optimism](https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/). It's been difficult to stay optimistic with everything happening in the world, but we need to remind ourselves to still remain optimistic to help us find a way forward. Somewhat related: here's [a twitter thread about climate despair](https://twitter.com/JessicaTheLaw/status/1424680492914331653).
 
@@ -33,20 +33,20 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### From the archives, this week in history:
 
-- 2015: I [crashed out](https://roytang.net/2015/08/632477268724609024/) of [GP London](https://roytang.net/tags/gplondon/)
-- 2014: [RIP Robin Williams](https://roytang.net/2014/08/499025938282074113/)
+- 2015: I [crashed out](/2015/08/632477268724609024/) of [GP London](/tags/gplondon/)
+- 2014: [RIP Robin Williams](/2014/08/499025938282074113/)
 - 1965: [Singapore was established](https://en.wikipedia.org/wiki/Singapore).
   
 ### My stuff:
 
-- I [celebrated my forty-third last week](https://roytang.net/2021/08/forty-three/)! "Celebrated" might be a bit of a stretch, since we are still in a pandemic, and the day was largely uneventful.
+- I [celebrated my forty-third last week](/2021/08/forty-three/)! "Celebrated" might be a bit of a stretch, since we are still in a pandemic, and the day was largely uneventful.
 - Early this week, the Metro Manila mayors decided to [ban outdoor exercise during the ECQ lockdown](https://www.cnnphilippines.com/news/2021/8/10/Metro-Manila-bans-outdoor-exercise.html). So I haven't been able to do my usual outdoors walking. It's actually not likely that anyone accosts me for outdoors exercise as long as its within the confines of my subdivision, but I like to pretend that I'm following the law, even if the law is ridiculous.
 - Still [sketching](/albums/sketchbook/); I am once again behind on the weekends, as it happens. Here's a sketch of Gandalf. It's not particularly good, but it turned out looking a lot more than Ian McKellen than I thought it would:
 
 {{< photo "2021/08/1424704446626414595/" >}}
 
 - **Watching:**
-    - Movies: This week's movies: [Skyfall, Jumanji and Police Story](https://roytang.net/2021/08/skyfall-jumanji-police-story/)
+    - Movies: This week's movies: [Skyfall, Jumanji and Police Story](/2021/08/skyfall-jumanji-police-story/)
     - TV: **Parks and Recreation** rewatch is up to season 6. I found the first episode of **What If** to be a bit underwhelming. Final season of **Brooklyn Nine Nine** has started, and I know they had to address all the policing issues of the past couple of years, but the first two episodes felt a bit heavy handed.
 - **Gaming**:
     - No **Horizon Zero Dawn (PS4)** this week, instead I played through four cases of **The Great Ace Attorney Chronicles**. I'm enjoying the game, and I am getting a lot of screenshots for the eventual review.
@@ -54,7 +54,7 @@ Visit the [Links page](/links/) for more links of interest.
     - **Magic Arena:** I was looking forward to the release of **Jumpstart Historic Horizons** this week, but that has been delayed most likely for software development reasons (which I of course understand completely!). They're giving us some free drafts as compensation, so that's something. I also tried playing Standard for a while, but Winota mirrors are so boring, so I decided to explore the Standard 2022 queue. Still not doing well, but at least it's more varied. I like the idea of Standard 2022, it's kind of like Block Constructed, which deserved better.
     - Regular Saturday group played some [Root](/2021/05/root/) and [Blood Rage](/2021/03/blood-rage/) again, as usual. I think I won't be logging this moving forward until we pick up new games.
 - **Reading**: Still comics again this week. Comics **are** books, but I should also start looking up for new traditional books to read.
-- No quiz night this past week, just the usual NY Times crosswords and spelling bee with the trivia team. I also started doing [the Newsday crossword online](https://roytang.net/2021/08/1426529886261239808/), which are the same ones I've been doing in the daily newspaper, having them online is more convenient.
+- No quiz night this past week, just the usual NY Times crosswords and spelling bee with the trivia team. I also started doing [the Newsday crossword online](/2021/08/1426529886261239808/), which are the same ones I've been doing in the daily newspaper, having them online is more convenient.
 
 ### This coming week:
 
