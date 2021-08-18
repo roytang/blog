@@ -1,10 +1,12 @@
 ---
-date: 2021-08-18 14:43:04+00:00
+date: 2021-08-18 14:43:04
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1428004523549728770/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/p6neid/august_18th_ducks/h9ezln2/
 tags:
 - sketchdaily
 ---
