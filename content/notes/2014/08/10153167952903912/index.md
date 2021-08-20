@@ -9,7 +9,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153167952903912
-tags: []
+tags:
+- movies
 ---
 
 I'm dissapointed! But let's see what happens in the third one
