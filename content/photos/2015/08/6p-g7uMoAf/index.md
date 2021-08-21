@@ -1,6 +1,7 @@
 ---
 albums:
 - instagram
+- food
 date: 2015-08-21 11:43:00
 location: ''
 source: instagram

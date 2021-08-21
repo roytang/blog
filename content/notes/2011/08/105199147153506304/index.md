@@ -1,5 +1,5 @@
 ---
-date: 2011-08-21 08:46:45+00:00
+date: 2011-08-21 08:46:45
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150269154388912
 tags:
 - '27'
+- comicbooks
+- comics
 title: ''
 ---
 
