@@ -1,31 +1,36 @@
 ---
-title: "Review: A Stack of Comics"
-date: 2021-08-21T14:58:36+08:00
+date: 2021-08-21 06:58:36
+dontinlinephotos: true
+featuredResource:
+  filename: stack_of_comics.jpg
+reviews:
+- description: Comic strip collection
+  media: books
+  title: 'Pearls Before Swine: Macho Macho Animals by Stephan Pastis'
+- description: Comic strip collection
+  media: books
+  title: 'Zits: Pimp My Lunch by Jerry Scott'
+- description: Comic strip collection
+  media: books
+  title: 'Luann: Seriously by Greg Evans'
+- description: Comic strip collection
+  media: books
+  title: 'Get Fuzzy: Say Cheesy by Darby Conley'
+- description: Comic strip collection
+  media: books
+  title: 'Get Fuzzy: I''m Ready for My Movie Contract by Darby Conley'
+- description: Comic strip collection
+  media: books
+  title: 'The Knight Life: Chivalry Ain''t Dead by Keith Knight'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106792990946422003
+- type: twitter
+  url: https://twitter.com/roytang/status/1428985732438183942/
 tags:
 - comics
 - books
-reviews:
-- media: books
-  title: "Pearls Before Swine: Macho Macho Animals by Stephan Pastis"
-  description: Comic strip collection
-- media: books
-  title: "Zits: Pimp My Lunch by Jerry Scott"
-  description: Comic strip collection
-- media: books
-  title: "Luann: Seriously by Greg Evans"
-  description: Comic strip collection
-- media: books
-  title: "Get Fuzzy: Say Cheesy by Darby Conley"
-  description: Comic strip collection
-- media: books
-  title: "Get Fuzzy: I'm Ready for My Movie Contract by Darby Conley"
-  description: Comic strip collection
-- media: books
-  title: "The Knight Life: Chivalry Ain't Dead by Keith Knight"
-  description: Comic strip collection
-dontinlinephotos: true
-featuredResource: 
-  filename: stack_of_comics.jpg
+title: 'Review: A Stack of Comics'
 ---
 
 Well, comic strip collections, collecting the kind that comes out in daily newspapers, not the Marvel or DC stuff that comes out monthly.
