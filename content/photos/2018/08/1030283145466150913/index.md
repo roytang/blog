@@ -1,4 +1,6 @@
 ---
+albums:
+- sketchbook
 date: 2018-08-17 02:40:18
 source: twitter
 syndicated:
@@ -10,4 +12,4 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/97qo3u/august_16th_random/e4bzyi9/
 ---
 
-Today's meeting doodle 
+Today's meeting doodle
