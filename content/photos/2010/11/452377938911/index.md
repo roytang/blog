@@ -12,6 +12,7 @@ syndicated:
   url: https://plurk.com/p/8t1jci
 tags:
 - timeline-photos
+- quiznight
 ---
 
 Team Camote (4th place)
