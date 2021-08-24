@@ -2,12 +2,13 @@
 author: roy
 categories: []
 date: 2010-08-24 00:15:26
+dontinlinephotos: true
+tags:
+- current events
+- philippines
 title: A Few Thoughts on Yesterday's Hostage Drama From Yet Another Armchair Observer
 type: post
 url: /2010/08/a-few-thoughts-on-yesterdays-hostage-drama-from-yet-another-armchair-observer/
-tags:
-- current events
-dontinlinephotos: true
 ---
 
 {{< img src="tactical_facepalm.jpg" alt="Tactical Facepalm" >}}

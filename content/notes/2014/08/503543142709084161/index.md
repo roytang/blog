@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/503543142709084161/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153175481573912
+tags:
+- doctorwho
 ---
 
 The Doctor Who ep was okay (especially the unexpected cameo at the end), but it's pretty lame that Clara had to be convinced
