@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154031746263912
 - type: twitter
   url: https://twitter.com/roytang/status/1430618368235565056/
+dontinlinephotos: true
 tags:
 - house
 - quotes
