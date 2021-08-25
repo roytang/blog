@@ -1,16 +1,22 @@
 ---
-title: "Reviews: Rurouni Kenshin The Beginning, Jumanji the Next Level, Superman and Lois"
-date: 2021-08-25T16:14:11+08:00
+date: 2021-08-25 08:14:11
+reviews:
+- media: movies
+  title: 'Rurouni Kenshin: The Beginning (2021)'
+- media: movies
+  title: 'Jumanji: The Next Level (2019)'
+- media: tv
+  title: Superman and Lois season 1
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106815963720479706
+- type: twitter
+  url: https://twitter.com/roytang/status/1430455989925416968/
 tags:
 - movies
 - tv
-reviews:
-- media: movies
-  title: "Rurouni Kenshin: The Beginning (2021)"
-- media: movies
-  title: "Jumanji: The Next Level (2019)"
-- media: tv
-  title: "Superman and Lois season 1"
+title: 'Reviews: Rurouni Kenshin The Beginning, Jumanji the Next Level, Superman and
+  Lois'
 ---
 
 ### Rurouni Kenshin: The Beginning (2021)
