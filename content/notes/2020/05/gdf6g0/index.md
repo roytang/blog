@@ -1,15 +1,15 @@
 ---
-date: 2020-05-04 16:50:41
+date: 2020-05-04 16:50:41+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/psych/comments/gdf6g0/questions_about_s7s8_shawn_and_juliet/
+  url: https://www.reddit.com/r/psych/comments/gdf6g0/questions_about_s7s8_shawn_and_juliet/
 tags:
 - psych
 - reddit_submission
 ---
 
-#### Posted on r/psych: [Questions about S7/S8 Shawn and Juliet](https://reddit.com/r/psych/comments/gdf6g0/questions_about_s7s8_shawn_and_juliet/)
+#### Posted on r/psych: [Questions about S7/S8 Shawn and Juliet](https://www.reddit.com/r/psych/comments/gdf6g0/questions_about_s7s8_shawn_and_juliet/)
 
 So I binged the entire series recently. I had only seen a few episodes on and off before, so I hadn't really followed the whole Shawn and Juliet relationship before too closely. My question is about Jules and Shawn taking a break after Jules learns The Truth (TM) during Lassiter's wedding.
 

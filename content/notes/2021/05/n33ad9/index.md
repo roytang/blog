@@ -3,13 +3,13 @@ date: 2021-05-02 10:02:45+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/applehelp/comments/n33ad9/2017_macbook_air_has_trouble_charging/
+  url: https://www.reddit.com/r/applehelp/comments/n33ad9/2017_macbook_air_has_trouble_charging/
 tags:
 - applehelp
 - reddit_submission
 ---
 
-#### Posted on r/applehelp: [2017 Macbook Air has trouble charging](https://reddit.com/r/applehelp/comments/n33ad9/2017_macbook_air_has_trouble_charging/)
+#### Posted on r/applehelp: [2017 Macbook Air has trouble charging](https://www.reddit.com/r/applehelp/comments/n33ad9/2017_macbook_air_has_trouble_charging/)
 
 Hello,
 
