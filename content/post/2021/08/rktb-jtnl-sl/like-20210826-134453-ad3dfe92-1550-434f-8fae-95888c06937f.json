@@ -1,0 +1,27 @@
+{
+  "id": "ad3dfe92-1550-434f-8fae-95888c06937f",
+  "name": "Neel",
+  "url": "https://twitter.com/neelx310",
+  "text": "[Neel](https://twitter.com/neelx310) [liked this](https://twitter.com/roytang/status/1430455989925416968#favorited-by-736133707501707264)",
+  "date": "2021-08-26 13:44:53",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/39acf86dfc8b639d62e67b17b941d7f9cdfed699e4e3073f14c5dab8244c01bc.jpg",
+  "source_url": "https://twitter.com/roytang/status/1430455989925416968#favorited-by-736133707501707264",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Neel",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/39acf86dfc8b639d62e67b17b941d7f9cdfed699e4e3073f14c5dab8244c01bc.jpg",
+      "url": "https://twitter.com/neelx310"
+    },
+    "url": "https://twitter.com/roytang/status/1430455989925416968#favorited-by-736133707501707264",
+    "published": null,
+    "wm-received": "2021-08-26T13:44:53Z",
+    "wm-id": 1255682,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1430455989925416968/736133707501707264",
+    "wm-target": "https://roytang.net/2021/08/rktb-jtnl-sl/",
+    "like-of": "https://roytang.net/2021/08/rktb-jtnl-sl/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
