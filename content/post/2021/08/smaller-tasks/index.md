@@ -1,8 +1,13 @@
 ---
-title: "Smaller Tasks"
-date: 2021-08-26T12:45:46+08:00
+date: 2021-08-26 04:45:46
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106820643746369546
+- type: twitter
+  url: https://twitter.com/roytang/status/1430755511599726593/
 tags:
 - productivity
+title: Smaller Tasks
 ---
 
 Your task lists / to-do lists should be broken down so that individual tasks are as small as possible.
