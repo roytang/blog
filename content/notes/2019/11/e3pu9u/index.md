@@ -1,14 +1,15 @@
 ---
-date: 2019-11-30 11:17:13
+date: 2019-11-30 03:17:13+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/humblebundles/comments/e3pu9u/they_need_to_handle_regionlocked_games_better_in/
+  url: https://www.reddit.com/r/humblebundles/comments/e3pu9u/they_need_to_handle_regionlocked_games_better_in/
 tags:
 - humblebundles
+- reddit_submission
 ---
 
-#### Posted on r/humblebundles: [They need to handle region-locked games better in the humble monthly](https://reddit.com/r/humblebundles/comments/e3pu9u/they_need_to_handle_regionlocked_games_better_in/)
+#### Posted on r/humblebundles: [They need to handle region-locked games better in the humble monthly](https://www.reddit.com/r/humblebundles/comments/e3pu9u/they_need_to_handle_regionlocked_games_better_in/)
 
 So I was looking forward to playing Soul Calibur VI in the December early unlocks, but today I find out it's "unavailable in my region" and all I get is a $5 coupon for my trouble. =/ They could have indicated that in the promotional materials they kept sending me!
 

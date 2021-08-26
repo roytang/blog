@@ -3,13 +3,13 @@ date: 2021-06-09 12:19:51+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/nvukbz/im_looking_for_an_old_pugad_baboy_strip/
+  url: https://www.reddit.com/r/Philippines/comments/nvukbz/im_looking_for_an_old_pugad_baboy_strip/
 tags:
 - Philippines
 - reddit_submission
 ---
 
-#### Posted on r/Philippines: [I'm looking for an old Pugad Baboy strip](https://reddit.com/r/Philippines/comments/nvukbz/im_looking_for_an_old_pugad_baboy_strip/)
+#### Posted on r/Philippines: [I'm looking for an old Pugad Baboy strip](https://www.reddit.com/r/Philippines/comments/nvukbz/im_looking_for_an_old_pugad_baboy_strip/)
 
 Baka merong may copy. In the strip, Patrolman Durugas has stopped Mang Dagul for a traffic violation, tapos pinilisopo sya ni Dagul, so binigyan sya ng ticket, nakasulat "violation: pilosopo"
 
