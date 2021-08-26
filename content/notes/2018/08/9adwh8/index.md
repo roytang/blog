@@ -1,14 +1,15 @@
 ---
-date: 2018-08-26 15:31:01
+date: 2018-08-26 07:31:01+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/tipofmyjoystick/comments/9adwh8/famicomunknown_year_side_scrolling_rpgish/
+  url: https://www.reddit.com/r/tipofmyjoystick/comments/9adwh8/famicomunknown_year_side_scrolling_rpgish/
 tags:
 - tipofmyjoystick
+- reddit_submission
 ---
 
-#### Posted on r/tipofmyjoystick: [[Famicom][Unknown year] Side scrolling RPG-ish metroidvania](https://reddit.com/r/tipofmyjoystick/comments/9adwh8/famicomunknown_year_side_scrolling_rpgish/)
+#### Posted on r/tipofmyjoystick: [[Famicom][Unknown year] Side scrolling RPG-ish metroidvania](https://www.reddit.com/r/tipofmyjoystick/comments/9adwh8/famicomunknown_year_side_scrolling_rpgish/)
 
 **Platform(s):**
 Famicom (probably no NES version)

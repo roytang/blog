@@ -1,10 +1,10 @@
 ---
-date: 2014-08-28 00:00:00+00:00
+date: 2014-08-28 13:46:39+00:00
 reply_to:
   label: '''Kingdom Hearts HD 2.5 ReMIX -- New Features Trailer | PS3'' on /r/PS3'
   name: ''
   type: reddit
-  url: https://reddit.com/r/PS3/comments/2etlbn/kingdom_hearts_hd_25_remix_new_features_trailer/
+  url: https://www.reddit.com/r/PS3/comments/2etlbn/kingdom_hearts_hd_25_remix_new_features_trailer/
 source: reddit
 syndicated:
 - type: reddit

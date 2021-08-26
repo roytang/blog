@@ -1,14 +1,15 @@
 ---
-date: 2018-08-27 09:50:03
+date: 2018-08-27 01:50:03+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/answers/comments/9akzod/can_someone_help_identify_these_insects/
+  url: https://www.reddit.com/r/answers/comments/9akzod/can_someone_help_identify_these_insects/
 tags:
 - answers
+- reddit_submission
 ---
 
-#### Posted on r/answers: [Can someone help identify these insects?](https://reddit.com/r/answers/comments/9akzod/can_someone_help_identify_these_insects/)
+#### Posted on r/answers: [Can someone help identify these insects?](https://www.reddit.com/r/answers/comments/9akzod/can_someone_help_identify_these_insects/)
 
 https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/40088257_2213445202030858_7701949386292461568_n.jpg?_nc_cat=0&oh=abfee6a1aaec99b2ce176e86c97d7116&oe=5BF7F4DF
 

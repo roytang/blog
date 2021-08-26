@@ -1,14 +1,15 @@
 ---
-date: 2018-08-27 13:27:42
+date: 2018-08-27 05:27:42+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/whatsthisbug/comments/9amcb1/manila_philippines_would_someone_be_able_to/
+  url: https://www.reddit.com/r/whatsthisbug/comments/9amcb1/manila_philippines_would_someone_be_able_to/
 tags:
 - whatsthisbug
+- reddit_submission
 ---
 
-#### Posted on r/whatsthisbug: [[Manila, Philippines] Would someone be able to identify these?](https://reddit.com/r/whatsthisbug/comments/9amcb1/manila_philippines_would_someone_be_able_to/)
+#### Posted on r/whatsthisbug: [[Manila, Philippines] Would someone be able to identify these?](https://www.reddit.com/r/whatsthisbug/comments/9amcb1/manila_philippines_would_someone_be_able_to/)
 
 https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/40088257_2213445202030858_7701949386292461568_n.jpg?_nc_cat=0&oh=abfee6a1aaec99b2ce176e86c97d7116&oe=5BF7F4DF
 
