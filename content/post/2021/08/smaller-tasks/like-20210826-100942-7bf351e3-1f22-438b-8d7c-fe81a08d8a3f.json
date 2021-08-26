@@ -1,0 +1,34 @@
+{
+  "id": "7bf351e3-1f22-438b-8d7c-fe81a08d8a3f",
+  "name": "Dominik Schwind",
+  "url": "https://lostfocus.de",
+  "text": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2021/08/smaller-tasks/\">https://roytang.net/2021/08/smaller-tasks/</a>.</p>",
+  "date": "2021-08-26 10:09:42",
+  "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+  "source_url": "https://lostfocus.de/2021/08/229198/",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "url": "https://lostfocus.de"
+    },
+    "url": "https://lostfocus.de/2021/08/229198/",
+    "published": "2021-08-26T10:09:42+02:00",
+    "wm-received": "2021-08-26T08:09:51Z",
+    "wm-id": 1255221,
+    "wm-source": "https://lostfocus.de/2021/08/229198/",
+    "wm-target": "https://roytang.net/2021/08/smaller-tasks/",
+    "content": {
+      "html": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2021/08/smaller-tasks/\">https://roytang.net/2021/08/smaller-tasks/</a>.</p>",
+      "text": "Likes https://roytang.net/2021/08/smaller-tasks/."
+    },
+    "like-of": "https://roytang.net/2021/08/smaller-tasks/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lostfocus.de/2021/08/229198/"
+    }
+  }
+}
