@@ -1,17 +1,22 @@
 ---
+albums:
+- gaming
 date: 2021-08-26 06:56:00
+featuredResource:
+  filename: Horizon Zero Dawn_ Complete Edition_20210622125448.jpg
 reviews:
 - media: games
   title: Horizon Zero Dawn (PS4)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106821209456034865
+- type: twitter
+  url: https://twitter.com/roytang/status/1430791717314174980/
 tags:
 - gaming
 - games
 - horizonzerodawn
-albums:
-- gaming
 title: Horizon Zero Dawn
-featuredResource:
-  filename: Horizon Zero Dawn_ Complete Edition_20210622125448.jpg
 ---
 
 I [finished Horizon Zero Dawn](/2021/06/1407592883184488451/) a while back, after getting a free copy off PS+ in June. Then I spent a couple of weeks chasing the platinum trophy for the game. The PS+ copy also came with the Frozen Wilds DLC, so I spent another month or so playing through that expansion as well. I already finished all the Frozen Wilds quests and wanted to get all the Frozen Wilds trophies too. I already got most of the but the other day, one of them wouldn't pop, so I just gave up, so I can do this quick review + photo dump now.
