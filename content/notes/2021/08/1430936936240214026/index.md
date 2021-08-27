@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1430936936240214026/
 - type: twitter
   url: https://twitter.com/roytang/status/1430946231929303042/
+- type: twitter
+  url: https://twitter.com/roytang/status/1431233128169754625/
 tags:
 - magicarena
 - jhh
@@ -35,3 +37,19 @@ Run no. 1: Teyo Merfolk 2-2
 Run no. 2: Ninja Above the Clouds 2-2 
 
 {{< photos 1430946231929303042 >}}
+
+[20:32] Run no. 3: Bears Pumped Up 2-0
+
+
+
+Run no. 4 Freyalise Squirrels 2-0
+
+
+
+Run no. 5: Sarkhan Davriel 2-2
+
+
+
+Run no. 6: Relentless Plague 2-1 
+
+{{< photos 1431233128169754625 >}}
