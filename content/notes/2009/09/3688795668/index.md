@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3688795668/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/126200844421
+tags:
+- survey
 ---
 
 Do you prefer hearing good news first or bad news first?

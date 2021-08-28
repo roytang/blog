@@ -3,6 +3,7 @@ categories: []
 date: 2007-09-01 18:10:35
 tags:
 - Gaming
+- aceattorney
 title: Today's Random Phoenix Wright 3 Quote
 type: post
 url: /2007/09/today39s-random-phoenix-wright-3-quote/
