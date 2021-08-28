@@ -12,6 +12,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1169653410553094151/
 tags:
 - popquiz
+- quiznight
 ---
 
 Winner! #popquiz
