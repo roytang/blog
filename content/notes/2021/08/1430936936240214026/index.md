@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1430946231929303042/
 - type: twitter
   url: https://twitter.com/roytang/status/1431233128169754625/
+- type: twitter
+  url: https://twitter.com/roytang/status/1431567560504320001/
 tags:
 - magicarena
 - jhh
@@ -53,3 +55,15 @@ Run no. 5: Sarkhan Davriel 2-2
 Run no. 6: Relentless Plague 2-1 
 
 {{< photos 1431233128169754625 >}}
+
+[2021-08-28 18:41] Run no. 7: Evolving Energy 1-2. Loss was to First Sliver, that is hard to beat!
+
+
+
+Run no. 8: Legion Sliver Assault. No First Sliver, but easy 2-0
+
+
+
+Run no. 9: Enchanted Serra's Realm. 2-0. All the other picks here were already repeats. I haven't even done that many runs yet! 
+
+{{< photos 1431567560504320001 >}}
