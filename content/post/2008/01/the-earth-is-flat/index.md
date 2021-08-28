@@ -2,14 +2,16 @@
 author: Roy
 categories: []
 date: 2008-01-26 13:06:39
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/874156787863232512
+- type: twitter
+  url: https://twitter.com/roytang/status/874156787863232512/
 tags:
 - Nostalgia
 title: The Earth is Flat
 type: post
 url: /2008/01/the-earth-is-flat/
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/874156787863232512
 ---
 
 Random memory for the day:
