@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1431233128169754625/
 - type: twitter
   url: https://twitter.com/roytang/status/1431567560504320001/
+- type: twitter
+  url: https://twitter.com/roytang/status/1431931405995364353/
 tags:
 - magicarena
 - jhh
@@ -67,3 +69,15 @@ Run no. 8: Legion Sliver Assault. No First Sliver, but easy 2-0
 Run no. 9: Enchanted Serra's Realm. 2-0. All the other picks here were already repeats. I haven't even done that many runs yet! 
 
 {{< photos 1431567560504320001 >}}
+
+[2021-08-29 18:47] Run no. 10: Goblins Undone. 2-1. Clunky curve / mana.
+
+
+
+Run no. 11: Spellcasting Zoologist. 2-0. Second win, the guy just resigned immediately.
+
+
+
+Run no. 12: Reanimated Zombie. 2-0. 
+
+{{< photos 1431931405995364353 >}}
