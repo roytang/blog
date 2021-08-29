@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/5312812625/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/169176390969
+tags:
+- movies
 ---
 
 Just finished watching Echelon Conspiracy. Action was ok, plot was a bit predictable, ending was lame.
