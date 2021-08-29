@@ -1,4 +1,6 @@
 ---
+albums:
+- sketchbook
 date: 2013-08-29 19:42:23
 source: tumblr
 syndicated:

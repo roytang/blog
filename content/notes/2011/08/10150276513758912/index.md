@@ -11,6 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150276513758912
 tags:
 - books
+- asoiaf
+- got
 ---
 
 Finished Clash of Kings. Spoiler level increased~
