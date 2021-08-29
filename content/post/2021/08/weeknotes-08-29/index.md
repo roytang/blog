@@ -1,7 +1,12 @@
 ---
-date: 2021-08-29T11:29:33+08:00
+date: 2021-08-29 03:29:33
 featuredImage: https://roytang.net/media/content/notes/2021/08/1430236159586619395/1430236159586619395_1_E9k4M1FVUAEY8xi.jpg
 slug: weeknotes-2021-08-29
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106839370481936557
+- type: twitter
+  url: https://twitter.com/roytang/status/1431954022722727936/
 tags:
 - weeknotes
 - philippines
