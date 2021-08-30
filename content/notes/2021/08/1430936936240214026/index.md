@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1431567560504320001/
 - type: twitter
   url: https://twitter.com/roytang/status/1431931405995364353/
+- type: twitter
+  url: https://twitter.com/roytang/status/1432282058718543875/
 tags:
 - magicarena
 - jhh
@@ -81,3 +83,11 @@ Run no. 11: Spellcasting Zoologist. 2-0. Second win, the guy just resigned immed
 Run no. 12: Reanimated Zombie. 2-0. 
 
 {{< photos 1431931405995364353 >}}
+
+[2021-08-30 18:00] Run no. 13: In The Machine Animated. 2-1. Kind of annoying, the one time I cast Tome opp just conceded, didn't get to enjoy it.
+
+
+
+Run no. 14: Scavenger Goblin Fodder. 2-0. 
+
+{{< photos 1432282058718543875 >}}
