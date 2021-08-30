@@ -15,6 +15,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1431931405995364353/
 - type: twitter
   url: https://twitter.com/roytang/status/1432282058718543875/
+- type: twitter
+  url: https://twitter.com/roytang/status/1432290473327005703/
 tags:
 - magicarena
 - jhh
@@ -91,3 +93,11 @@ Run no. 12: Reanimated Zombie. 2-0.
 Run no. 14: Scavenger Goblin Fodder. 2-0. 
 
 {{< photos 1432282058718543875 >}}
+
+[2021-08-30 18:33] Run no. 15: Vampires Undone. 2-1. Undone is a repeat; All the possible 2nd picks were repeats! I thought we were guaranteed at least 1 nonrepeat, if possible?
+
+
+
+Run no. 16: Humans Many-Faced. Got offered nonrepeats for both picks again. 
+
+{{< photos 1432290473327005703 >}}
