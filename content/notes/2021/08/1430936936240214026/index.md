@@ -17,6 +17,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1432282058718543875/
 - type: twitter
   url: https://twitter.com/roytang/status/1432290473327005703/
+- type: twitter
+  url: https://twitter.com/roytang/status/1432780401236275201/
 tags:
 - magicarena
 - jhh
@@ -101,3 +103,19 @@ Run no. 14: Scavenger Goblin Fodder. 2-0.
 Run no. 16: Humans Many-Faced. Got offered nonrepeats for both picks again. 
 
 {{< photos 1432290473327005703 >}}
+
+[2021-09-01 03:00] Run no. 17: Flickering Cycling. Easy 2-0.
+
+
+
+Run no. 18: Sliver Hive Scaled Up. 2-0. 
+
+
+
+Run no. 19: Junkyard Scorched Earth. 2-3. Clunkiest run so far, such a struggle.
+
+
+
+Run no. 20: On the Draw Kiora. 2-1. 
+
+{{< photos 1432780401236275201 >}}
