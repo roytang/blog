@@ -19,6 +19,10 @@ syndicated:
   url: https://twitter.com/roytang/status/1432290473327005703/
 - type: twitter
   url: https://twitter.com/roytang/status/1432780401236275201/
+- type: twitter
+  url: https://twitter.com/roytang/status/1433043452795625474/
+- type: twitter
+  url: https://twitter.com/roytang/status/1433043920049508354/
 tags:
 - magicarena
 - jhh
@@ -119,3 +123,21 @@ Run no. 19: Junkyard Scorched Earth. 2-3. Clunkiest run so far, such a struggle.
 Run no. 20: On the Draw Kiora. 2-1. 
 
 {{< photos 1432780401236275201 >}}
+
+[2021-09-01 20:25] Run no. 21: Rats Reanimated. 1-10. Worst run so far, just gave up on it. Also, apparently only the first pick is guaranteed no repeats.
+
+
+
+Run no. 22: Delirium Merfolk. Easy 2-1.
+
+
+
+Run no. 23: Lost and Found Davriel. 2-1.
+
+
+
+Run no. 24: Modular Legion. 2-1. 
+
+{{< photos 1433043452795625474 >}}
+
+[2021-09-01 20:27] Only have 3 packets left that I have never picked (Storm, Tinkerer and Madness). I've also burned through  almost all my gold lol. Might be time to pause Jumpstart for a while. Got a decent enough base to start building Historic decks, I think.
