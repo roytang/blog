@@ -1,12 +1,17 @@
 ---
-title: "Spectre"
-date: 2021-09-01T21:42:18+08:00
-tags:
-- movies
-- jamesbond
+date: 2021-09-01 13:42:18
 reviews:
 - media: movies
   title: Spectre (2015)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106857009865418946
+- type: twitter
+  url: https://twitter.com/roytang/status/1433082946374692867/
+tags:
+- movies
+- jamesbond
+title: Spectre
 ---
 
 Bond film no. 24, Daniel Craig's fourth, and the end of this year's [James Bond run](/tags/jamesbond). At least until I somehow manage to watch **No Time To Die** despite it coming out exclusively in theaters and our theaters still not open due to the pandemic.
