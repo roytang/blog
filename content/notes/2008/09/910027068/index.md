@@ -10,6 +10,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/910027068/
+tags:
+- rocketkeis
 ---
 
 [@rocketkeis](https://twitter.com/rocketkeis/) syempre natwitter mo pa :p
