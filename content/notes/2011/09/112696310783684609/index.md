@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150288733918912
 tags:
 - books
+- asoiaf
 ---
 
 Finished A Storm of Swords. Easily the best of the 3 books so far.
