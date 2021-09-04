@@ -5,6 +5,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/22400925685/
+tags:
+- iamcrystalene
 ---
 
 [@iamcrystalene](https://twitter.com/iamcrystalene/) kaya ba sa twitter ka lang nagpopost and hindi sa fb? baka may mahalata? joke :p

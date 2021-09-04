@@ -10,6 +10,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/108021745444855808/
+tags:
+- czarles
 ---
 
 [@czarles](https://twitter.com/czarles/) may pasok kayo today?
