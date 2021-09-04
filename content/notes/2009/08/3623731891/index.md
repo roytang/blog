@@ -10,6 +10,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/3623731891/
+tags:
+- habeo
 ---
 
 [@habeo](https://twitter.com/habeo/) bakit all caps ang PYTHON?
