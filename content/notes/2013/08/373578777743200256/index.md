@@ -14,3 +14,5 @@ reviews:
 ---
 
 Watching GI Joe Retaliation. This movie's plot is ridiculous
+
+They wanted to be faithful to the 80s cartoon, so they let Cobra Commander escape in the end.

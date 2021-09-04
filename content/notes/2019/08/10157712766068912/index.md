@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157712766068912
-tags: []
+tags:
+- survey
 ---
 
 Survey: If you didn't need to work, what would you be doing all day?
