@@ -15,6 +15,7 @@ syndicated:
   url: https://plurk.com/p/7iqom3
 tags:
 - gaming
+- games
 ---
 
 Finished Mass Effect 2. Was more engrossing than I expected.
