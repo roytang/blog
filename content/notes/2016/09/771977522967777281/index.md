@@ -1,5 +1,9 @@
 ---
 date: 2016-09-03 07:45:58
+reviews:
+- description: Rewatch
+  media: movies
+  title: Back to the Future trilogy (1985, 1989, 1990)
 source: twitter
 syndicated:
 - type: twitter
@@ -8,10 +12,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154876077128912
 tags:
 - movies
-reviews:
-- media: movies
-  title: "Back to the Future trilogy (1985, 1989, 1990)" 
-  description: Rewatch
+- backtothefuture
 ---
 
 Rewatching the Back to the Future trilogy, it still amazes me how much foreshadowing there is in BTTF2
