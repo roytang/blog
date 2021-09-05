@@ -11,6 +11,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/4145060765/
 - type: twitter
   url: https://twitter.com/roytang/statuses/4145069437/
+tags:
+- mtg
+- mtgsalivanth
 ---
 
 [@mtgsalivanth](https://twitter.com/mtgsalivanth/) don't want to use the draft recorder/converter instead?

@@ -1,10 +1,12 @@
 ---
 date: 2016-09-20 11:38:54+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/778196735415820288/
-title: ''
+  url: https://twitter.com/roytang/status/778196735415820288/
+tags:
+- ABSCBNNews
 ---
 
 . [@ABSCBNNews](https://twitter.com/ABSCBNNews/) bakit nyo cinensor ung "You", baka sabihin na naman nde directed sa tao kundi expression lang :p 

@@ -1,10 +1,10 @@
 ---
 date: 2019-09-20 22:50:32+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1175180471291875329/
-title: ''
+  url: https://twitter.com/roytang/status/1175180471291875329/
 ---
 
 I wouldnt necessarily assume causation in the given direction. For example, it’s possible that having a higher gdp is more conducive to the rule of law 
@@ -18,3 +18,5 @@ Rule of law vs GDP per capita, courtesy of the Lexis Nexis Rule of Law Foundatio
 (I'm surprised China ranks so low in rule of law. If that's accurate, this graph suggests China will have to change significantly to become as rich as I'd been assuming it would.) 
 
 {{% /quoted %}}
+
+{{< photos 1175180471291875329 >}}

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/4122533907/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/140700162578
+tags:
+- survey
 ---
 
 Which is better: free low quality (classroom shortages, overworked teachers, etc) education 4 all or higher-quality education 4 select few?
