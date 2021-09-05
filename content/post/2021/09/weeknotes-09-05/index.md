@@ -1,7 +1,12 @@
 ---
-date: 2021-09-05T19:44:56+08:00
+date: 2021-09-05 11:44:56
 featuredImage: https://roytang.net/media/content/notes/2021/09/1433044241735770115/1433044241735770115_1_E-MyIP9UYAQP_ys.jpg
 slug: weeknotes-2021-09-05
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106879264616006765
+- type: twitter
+  url: https://twitter.com/roytang/status/1434507248131186693/
 tags:
 - weeknotes
 - philippines
