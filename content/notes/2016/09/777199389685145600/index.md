@@ -1,9 +1,12 @@
 ---
 date: 2016-09-17 17:35:48+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/777199389685145600/
+  url: https://twitter.com/roytang/status/777199389685145600/
+tags:
+- alvinjtang
 ---
 
 [@alvinjtang](https://twitter.com/alvinjtang/) lol 
