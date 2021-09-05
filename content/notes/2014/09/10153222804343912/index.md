@@ -4,7 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153222804343912
-tags: []
+tags:
+- zelda
+- twilightprincess
+- gaming
 ---
 
 Twilight Princess dungeons are exhausting =/

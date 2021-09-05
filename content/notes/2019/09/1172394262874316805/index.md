@@ -1,10 +1,12 @@
 ---
 date: 2019-09-13 06:19:08+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1172394262874316805/
-title: ''
+  url: https://twitter.com/roytang/status/1172394262874316805/
+tags:
+- IvyPatdu
 ---
 
 [@IvyPatdu](https://twitter.com/IvyPatdu/) ang mga ganung information gathered using promos, di ba yan covered ng dpa? 
