@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/382870205799481344/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152488717873912
+tags:
+- survey
 ---
 
 What if you had the last Kitkat bar, and they can never be made again. Do you eat it?

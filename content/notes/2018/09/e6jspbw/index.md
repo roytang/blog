@@ -5,7 +5,7 @@ reply_to:
     on /r/magicTCG'
   name: ''
   type: reddit
-  url: https://reddit.com/r/magicTCG/comments/9ifxy3/i_came_to_wizardscommagic_main_page_to_see_who/
+  url: https://www.reddit.com/r/magicTCG/comments/9ifxy3/i_came_to_wizardscommagic_main_page_to_see_who/
 source: reddit
 syndicated:
 - type: reddit
