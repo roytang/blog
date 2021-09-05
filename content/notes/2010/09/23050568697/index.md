@@ -1,15 +1,17 @@
 ---
-date: 2010-09-05 11:04:51+00:00
+date: 2010-09-05 11:04:51
+dontinlinephotos: true
 reply_to:
   label: wrongwaygoback's tweet
   name: wrongwaygoback
   type: twitter
-  url: https://twitter.com/wrongwaygoback/statuses/23050514141/
+  url: https://twitter.com/wrongwaygoback/status/23050514141/
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roy_mtg/statuses/23050568697/
+  url: https://twitter.com/roy_mtg/status/23050568697/
 tags:
+- wrongwaygoback
 - mtg
 ---
 

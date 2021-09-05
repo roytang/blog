@@ -1,5 +1,5 @@
 ---
-date: 2010-09-05 03:31:46+00:00
+date: 2010-09-05 03:31:46
 reply_to:
   label: aleksfelipe's tweet
   name: aleksfelipe
@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/23028221332/
+tags:
+- checkthis
 ---
 
 [@aleksfelipe](https://twitter.com/aleksfelipe/) MTGS Thread: https://www.mtgsalvation.com/forums/magic-fundamentals/the-rumor-mill/227388-som-pax-party-elspeth-mox-opal-tempered-steel Twitpic: https://twitpic.com/2lchwm
