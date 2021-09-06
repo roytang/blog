@@ -6,6 +6,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104948447256810420
 - type: twitter
   url: https://twitter.com/roytang/statuses/1310934937378467847/
+tags:
+- fitbit
 title: fitbit band dumbness
 ---
 
