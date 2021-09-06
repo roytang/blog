@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/515508145490104321/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153248138068912
+tags:
+- tv
+- gotham
 ---
 
 To say that I liked the Gotham pilot is an understatement. It hit all of the right notes
