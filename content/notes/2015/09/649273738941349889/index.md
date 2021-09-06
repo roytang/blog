@@ -6,6 +6,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/649273738941349889/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154122066813912
+tags:
+- quotes
+- books
+- darktower
 ---
 
 "Go then. There are other worlds than these."
