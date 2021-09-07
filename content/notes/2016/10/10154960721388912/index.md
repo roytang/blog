@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154960721388912
-tags: []
+tags:
+- survey
 ---
 
 Survey: You are at a wedding, and your wedding gift is one of those chinese ampao envelopes with cash inside. When is the proper time to make abot the envelope to the couple?
