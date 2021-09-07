@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1182133804347072519/
+tags:
+- mama
 ---
 
 Me: "Ma, may ruler ka?"
