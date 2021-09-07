@@ -1,10 +1,12 @@
 ---
 date: 2019-10-05 05:59:58+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1180361969557069824/
-title: ''
+  url: https://twitter.com/roytang/status/1180361969557069824/
+tags:
+- kerwintang
 ---
 
 [@kerwintang](https://twitter.com/kerwintang/) kumain tayo nito diba haha 
