@@ -9,6 +9,7 @@ tags:
 - sweeeeeet
 - gaming
 - pickups
+- ps4
 ---
 
 Greatness awaits... #sweeeeeet
