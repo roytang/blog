@@ -1,10 +1,12 @@
 ---
 date: 2020-10-18 12:32:25+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1317805734554259456/
-title: ''
+  url: https://twitter.com/roytang/status/1317805734554259456/
+tags:
+- MMDA
 ---
 
 Let’s ask [@MMDA](https://twitter.com/MMDA/) 
