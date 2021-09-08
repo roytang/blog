@@ -1,8 +1,13 @@
 ---
-title: "Escaping The Cage of Algorithmic Recommendations"
-date: 2021-09-08T14:07:49+08:00
+date: 2021-09-08 06:07:49
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106894956433206619
+- type: twitter
+  url: https://twitter.com/roytang/status/1435511523615469571/
 tags:
 - tech-life
+title: Escaping The Cage of Algorithmic Recommendations
 ---
 
 Jeremy Keith wrote about [the cage of algorithmic recommendations](https://adactio.com/journal/18117):
