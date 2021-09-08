@@ -22,19 +22,27 @@ This got me thinking about my own social media use and how I use algorithmic rec
 
 I think the key to healthy consumption of algorithmically-recommended content is to restrict it strictly to entertainment purposes. Avoid political or opinionated content, since that will likely send your algorithmic recommendations down an echo chamber from which you may never recover.
 
-Related: Matt Ruby's newsletter issue ["When there’s shelf space in wrong, someone’s gonna fill it"](https://mattruby.substack.com/p/when-theres-shelf-space-in-wrong) talks about how the platforms are incentivized to promote misinformation:
+---
+
+**Related:** Matt Ruby's newsletter issue ["When there’s shelf space in wrong, someone’s gonna fill it"](https://mattruby.substack.com/p/when-theres-shelf-space-in-wrong) talks about how the platforms are incentivized to promote misinformation:
 
 > It’s about incentives. These platforms are designed to create tribal echo chambers where pre-existing opinions are validated. That’s the best way for them to deliver us our dopamine hits in order to maximize attention and profits. In turn, creators have realized being wrong is an easier path to money/fame/followers than being right. After all, disinformation on Facebook gets six times more likes and shares than factual posts. 
+
+---
 
 Recommendation engines are really only useful when you're browsing the internet in *passive consumption* mode, basically the modern equivalent of channel-surfing back in the day. It's when you're basically just scrolling through a feed to pass time in some way.
 
 The antidote to passive consumption is *active consumption of curated content*, curated in the sense that you purposely choose the content you consume instead of mindlessly scrolling through a feed determined by some algorithm. This generally means seeking out specific content sources and browsing them in a content-neutral manner (typically chronological). RSS and newsletters are typically good sources that don't rely on algorithmic recommendations.
 
-Related: Robin Rendle, responding to Jeremy Keith's post, writes about [how RSS is the promised land for this sort of thing](https://www.robinrendle.com/notes/the-cage/):
+---
+
+**Related:** Robin Rendle, responding to Jeremy Keith's post, writes about [how RSS is the promised land for this sort of thing](https://www.robinrendle.com/notes/the-cage/):
 
 > One of the neat things about RSS I’ve noticed is the number of times I walk away from it feeling awe instead of anger (basically 100% of the time). I think that’s because there’s no money in it, there’s no incentive to profit off my rage.
 
 Aside from browsing chronological feeds, it's also nice to browse the internet purposely - by seeking out specific content. For example, you can seek out content based on human-curated recommendations from friends and other trusted sources. Another thing I like to do is to visit and explore personal websites and keep following links that look interesting (especially if there's a blogroll! [I love blogrolls!](/2019/09/1173709461547958273/) I should update mine.), basically relying on my own judgment instead of a recommendation engine.
+
+---
 
 Unfortunately, it's unlikely that active web-browsing becomes the dominant form of internet usage among the masses - for the simple reason that passive consumption is much, much easier as a time-waster. Which means of course that those people who prefer it will also prefer algorithmic recommendation engines because algorithms won't actually run out of content to promote to you. If you're waiting somewhere and just need to kill time, it takes zero effort to open your Facebook feed and keep scrolling through your feed, and Facebook will happily toss unlimited ads and memes and videos and whatnot there as long as you keep scrolling.
 
