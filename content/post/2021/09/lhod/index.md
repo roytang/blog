@@ -1,11 +1,16 @@
 ---
-title: "Books: The Left Hand of Darkness by Ursula K. Le Guin"
-date: 2021-09-09T12:09:01+08:00
-tags:
-- books
+date: 2021-09-09 04:09:01
 reviews:
 - media: books
   title: The Left Hand of Darkness by Ursula K. Le Guin
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106899813067281318
+- type: twitter
+  url: https://twitter.com/roytang/status/1435822348037287940/
+tags:
+- books
+title: 'Books: The Left Hand of Darkness by Ursula K. Le Guin'
 ---
 
 This is the second Le Guin piece I've read, following the short story [The Ones Who Walk Away From Omelas](/2021/07/dad-aotd-vatcoatp-omelas/#the-ones-who-walk-away-from-omelas-by-ursula-k-le-guin). This one is a full-length novel, though not particularly long. It took me about a week and a half to get through, reading a chapter or two a day.
@@ -44,4 +49,4 @@ I've started using the Kindle app's highlighting feature to note and export pass
 
 ---
 
-> Light is the left hand of darkness and darkness the right hand of light. Two are one, life and death, lying together like lovers in kemmer, like hands joined together, like the end and the way. 
+> Light is the left hand of darkness and darkness the right hand of light. Two are one, life and death, lying together like lovers in kemmer, like hands joined together, like the end and the way.
