@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1319794495395745793/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1319876679276220416/
+tags:
+- eternalcardgame
 ---
 
 Despite not having played Eternal since before the pandemic, after reading this tweet from LSV, I signed up for the event he described and got the 7 wins and qualified for the LCQ in the first try. I used Skelle's decklist from here: https://direwolfdigital.com/news/throne-summer-championship-decklists/
