@@ -1,9 +1,14 @@
 ---
-title: "Rubber Band-Powered Bottle Car"
-date: 2021-09-11T04:02:23+08:00
+date: 2021-09-10 20:02:23
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106909200342002732
+- type: twitter
+  url: https://twitter.com/roytang/status/1436423133716631553/
 tags:
 - nostalgia
-dontinlinephotos: true
+title: Rubber Band-Powered Bottle Car
 ---
 
 Random high school memory: I think it was in second year physics class maybe, we had an exercise / contest where we were required to create a rubber-band powered car from a plastic bottle. We didn't have the internet back then, but if we did, we could have easily [Googled "rubber band powered car"](https://duckduckgo.com/?t=ffab&q=rubber+band+powered+plastic+bottle+car&atb=v187-1&iax=images&ia=images) and got a good sense of what the car was supposed to look like: you attach four wheels to the bottle then make a twisty thing with the rubber band to propel it forward. Indeed, all the other teams did their rubber band bottle cars this way.
