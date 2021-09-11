@@ -1,0 +1,27 @@
+{
+  "id": "d2270325-4f76-451f-a2aa-5ddd042918db",
+  "name": "Eric",
+  "url": "https://aus.social/@ericireland",
+  "text": "[Eric](https://aus.social/@ericireland) [liked this](https://mastodon.technology/@roytang/106909200342002732#favorited-by-369399)",
+  "date": "2021-09-11 10:51:53",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0ea433eccd3f911df0ddf081f41e129207f150290f02d265b079ce603ef44f65.jpg",
+  "source_url": "https://mastodon.technology/@roytang/106909200342002732#favorited-by-369399",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Eric",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0ea433eccd3f911df0ddf081f41e129207f150290f02d265b079ce603ef44f65.jpg",
+      "url": "https://aus.social/@ericireland"
+    },
+    "url": "https://mastodon.technology/@roytang/106909200342002732#favorited-by-369399",
+    "published": null,
+    "wm-received": "2021-09-11T10:51:53Z",
+    "wm-id": 1267339,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/106909200342002732/369399",
+    "wm-target": "https://roytang.net/2021/09/rubber-band-bottle-car/",
+    "like-of": "https://roytang.net/2021/09/rubber-band-bottle-car/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
