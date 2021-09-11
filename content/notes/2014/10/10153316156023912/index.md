@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153316156023912
-tags: []
+tags:
+- tv
+- comicbooks
 ---
 
 Time to catch up with Arrow/Flash/Future's End
