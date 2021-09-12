@@ -54,4 +54,5 @@ Basically what I want my tablet / mobile browsing experience is:
 ### Notes
 
 - there was a great article / blog post I read recently also complaining about the problems with in-app browsers, which was part of the impetus for this post. Sadly, it looks like I failed to store the link anywhere and I couldn't find it anymore. Maybe some kind soul will read this and know what I'm talking about and send me a link
-- I've been meaning to construct an experiment to document exactly which apps on each platform have which problems but I'm lazy so I'll just write this blog post without experimental data
+- I admit that it's possible many of these annoyances might have simple solutions or workarounds that I haven't found yet but I'm lazy so I thought I'd do the internet thing and just complain about them
+- I've been meaning to construct an experiment to document exactly which apps on each platform have which problems but again, I'm lazy (see above) so I'll just write this blog post without experimental data
