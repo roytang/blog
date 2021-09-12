@@ -1,8 +1,13 @@
 ---
-title: "Mobile and Tablet Browsing Annoyances"
-date: 2021-09-13T06:54:13+08:00
+date: 2021-09-12 22:54:13
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106921231888635633
+- type: twitter
+  url: https://twitter.com/roytang/status/1437193152591380481/
 tags:
 - tech life
+title: Mobile and Tablet Browsing Annoyances
 ---
 
 ### 1 
