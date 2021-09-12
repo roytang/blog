@@ -13,7 +13,7 @@ There's [the blog](/blog), where I write about things like [software development
 
 I also write about and maintain lists of media I consume: [books](/reviews/books), [movies](/reviews/movies), [tv](/reviews/tv), and [games](/reviews/games)
 
-There's also a [notes page](/notes), which is more like shorter, day-to-day microblog entries. A lot of my other activities on platformss are also syndicated back here as notes.
+There's also a [notes page](/notes), which is more like shorter, day-to-day microblog entries. A lot of my other activities on platforms are also syndicated back here as notes.
 
 There's a [links page](/links), where I share various links of interest.
 
