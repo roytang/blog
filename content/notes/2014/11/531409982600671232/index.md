@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153347373778912
 tags:
 - quotes
+- doctorwho
 ---
 
 "Pain is a gift. Without the capacity for pain, we can't feel the hurt we inflict." - The Doctor

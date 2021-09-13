@@ -22,6 +22,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/531410072962740224/
 tags:
 - broken-thread
+- talk2globe
 ---
 
 [@talk2GLOBE](https://twitter.com/talk2GLOBE/) here are some recent spam messages https://imgur.com/a/MspLl
