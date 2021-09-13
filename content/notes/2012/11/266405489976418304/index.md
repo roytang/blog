@@ -11,7 +11,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/266405489976418304/
 - type: twitter
   url: https://twitter.com/roytang/statuses/266405581752004609/
+tags:
+- antuk1ng
+- lizbethjane
 ---
 
 [@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane ang ulo nyo!
-[@roytang](https://twitter.com/roytang/) [@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane *gulo
+
+[@roytang](https://twitter.com/roytang/) [@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane *gulo

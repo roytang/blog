@@ -11,7 +11,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/398450267319832576/
 - type: twitter
   url: https://twitter.com/roytang/statuses/398450427408031744/
+tags:
+- antuk1ng
+- lizbethjane
 ---
 
 [@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane correct. Who had the highest scoring game sa pba?
-[@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane year was 1992
+
+[@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane year was 1992
