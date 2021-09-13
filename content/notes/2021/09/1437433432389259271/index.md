@@ -1,10 +1,12 @@
 ---
-date: 2021-09-13 15:10:11+00:00
+date: 2021-09-13 15:10:11
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1437433432389259271/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/pnbpp6/september_13th_pocket_watch/hcp6du2/
 tags:
 - sketchdaily
 ---
