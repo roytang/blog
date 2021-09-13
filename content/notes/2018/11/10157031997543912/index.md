@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157031997543912
-tags: []
+tags:
+- survey
 ---
 
 Survey: Have Novembers always been this hot? Or it has gotten hotter with time?
