@@ -16,7 +16,7 @@ url: /2016/11/feedback-loops/
 
 A feedback loop happens in a system when you are able to use an output of that system to influence the inputs, which in turn influences the outputs and repeats the cycle
 
-<img class="alignnone size-full" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ideal_feedback_model.svg/2000px-Ideal_feedback_model.svg.png" alt="" width="2000" height="824" />
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ideal_feedback_model.svg/2000px-Ideal_feedback_model.svg.png)
 
 In engineering, feedback loops are useful to generate steady-state outputs. We had an entire subject dedicated to feedback loop controllers back in college. I enjoyed the topic so much I took the subject twice! An example of the use of feedback loops would be a thermostat that has a sensor to detect the current temperature. Once it senses the current temperature, it compares that with the target temperature and uses the difference in values to adjust the thermostat input. In this way, the temperature eventually reaches the target value
 
