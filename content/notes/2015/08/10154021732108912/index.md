@@ -4,8 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154021732108912
-tags: 
+tags:
 - tv
+- house
 ---
 
 I started watching House. I like it when he calls people idiots
