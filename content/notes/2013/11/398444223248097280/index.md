@@ -1,5 +1,5 @@
 ---
-date: 2013-11-07 13:38:00+00:00
+date: 2013-11-07 13:38:00
 dontinlinephotos: true
 reply_to:
   label: antuk1ng's tweet
@@ -13,6 +13,7 @@ syndicated:
 tags:
 - antuk1ng
 - LizbethJane
+- quiznight
 ---
 
 [@antuk1ng](https://twitter.com/antuk1ng/) @lizbethjane ano daw ang original name ng san miguel mixers nung 1988
