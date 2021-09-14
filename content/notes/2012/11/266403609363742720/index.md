@@ -1,5 +1,5 @@
 ---
-date: 2012-11-08 04:55:44+00:00
+date: 2012-11-08 04:55:44
 dontinlinephotos: true
 reply_to:
   label: lizbeth_baliw's tweet
@@ -13,6 +13,7 @@ syndicated:
 tags:
 - LizbethJane
 - antuk1ng
+- quiznight
 ---
 
 @lizbethjane [@antuk1ng](https://twitter.com/antuk1ng/) nba, horror movies, james bond, food ung ibang known cats. May idevice ako!
