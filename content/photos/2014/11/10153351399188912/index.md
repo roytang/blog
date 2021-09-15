@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153351399188912
 tags:
 - pickups
+- comicbooks
 ---
 
 I may have been buying cheap comics from book sale recently...

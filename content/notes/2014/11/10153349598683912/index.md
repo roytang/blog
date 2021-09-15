@@ -4,7 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153349598683912
-tags: []
+tags:
+- lyrics
 ---
 
 You can’t always get what you want, but if you try sometimes you might find you get what you need. - Mick Jagger
