@@ -1,13 +1,18 @@
 ---
-title: "TV Retrospective: House MD"
-date: 2021-09-15T09:00:00+08:00
+date: 2021-09-15 01:00:00
+reviews:
+- description: Rewatch
+  media: tv
+  title: House MD
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106932969929953560
+- type: twitter
+  url: https://twitter.com/roytang/status/1437944387611156484/
 tags:
 - tv
 - house
-reviews:
-- media: tv
-  title: House MD
-  description: Rewatch
+title: 'TV Retrospective: House MD'
 ---
 
 I finished a rewatch of House earlier this week; it's only my second time through the series. First time was during my stay in London, when I did a Netflix UK trial. I don't think I ever caught it when it was running on TV, but it's quickly become one of my favorite procedural shows. I thought I'd write a quick retrospective on the show. (Writing about stuff helps me remember details!)
