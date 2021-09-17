@@ -25,6 +25,10 @@ resources:
   title: 'Two guys. One has a large cannon strapped to his back, one has a sword. I drew this on the back of handouts for a certain training seminar I was attending.'
 - src: icatian-crier.jpg  
   title: 'Icatian Crier. Added this to the post on 2021-9-17, but the drawing was done in 2008-03-12.'
+- src: llanowar-elves.jpg  
+  title: 'Llanowar Elves. Added this to the post on 2021-9-17, but the drawing was done in 2008-03-25.'
+album:
+- sketchbook
 ---
 
 I usually have a stack of random printouts on my office desk. I also usually take one or two sheets of paper with me for meetings, supposedly to take notes (I never do). What usually happens with these papers is that I end up doodling. It's not a sign of my not paying attention to stuff mind you. Doodling helps me think, in some way.
