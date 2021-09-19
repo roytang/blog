@@ -1,0 +1,15 @@
+---
+date: 2021-09-19 16:17:47+00:00
+dontinlinephotos: true
+source: twitter
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/status/1439624773542178824/
+tags:
+- mtg
+- sketchdaily
+---
+
+Knight token for #mtg (forest for scale), with scan in case I actually decide to use it. #sketchdaily 260/365 
+
+{{< photos 1439624773542178824 >}}
