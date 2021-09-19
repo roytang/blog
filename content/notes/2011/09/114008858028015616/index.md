@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150293178498912
 tags:
 - possiblyabadidea
+- gaming
 ---
 
 Starting a Civ5 game at 12:15am #possiblyabadidea
