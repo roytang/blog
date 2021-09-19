@@ -1,10 +1,12 @@
 ---
 albums:
 - instagram
-date: 2017-09-15 05:53:07
+date: 2017-09-16 04:28:07
 location: ''
-source: instagram
+source: twitter
 syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/908910344898088960/
 - type: instagram
   url: https://instagram.com/p/BZF0KgoAAvp/
 - type: twitter
@@ -17,6 +19,9 @@ tags:
 - mtg
 - mtgphnationals
 - mtgnats2017
+title: MTG PH Nationals 2017
 ---
 
-Currently 1-2 at the #mtg ph nationals and waiting for draft 1. At least the swag is nice
+Currently 1-1 in #mtg ph nationals. 1 more round of standard then four draft rounda today
+
+[13:53] Currently 1-2 at the #mtg ph nationals and waiting for draft 1. At least the swag is nice
