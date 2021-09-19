@@ -12,4 +12,8 @@ tags:
 - lyrics
 ---
 
-Bawat panaginip na taglay ng iyong isipPalayain mo at ilipad tungong langitAng iyong tinig ay aawit
+Bawat panaginip na taglay ng iyong isip
+
+Palayain mo at ilipad tungong langit
+
+Ang iyong tinig ay aawit
