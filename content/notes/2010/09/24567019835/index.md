@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/118712704849926
 - type: plurk
   url: https://plurk.com/p/7labtm
+tags:
+- gaming
 ---
 
 I probably shouldn't be browsing Steam sales - I might randomly buy games that I've already played. C'mon, KOTOR for $2.50?
