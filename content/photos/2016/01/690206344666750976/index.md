@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/690206344666750976/
 tags:
 - gaming
+- games
 ---
 
 Woo first time I completed a game's Steam achievements lol
