@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/803992847225528320/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155133493983912
 tags:
 - '1'
 title: ''
@@ -17,7 +19,7 @@ title: ''
 
 
 
-# of lookups = how we choose our Word of the Year. 
+\# of lookups = how we choose our Word of the Year. 
 
 
 
