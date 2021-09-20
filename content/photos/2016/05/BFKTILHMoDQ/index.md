@@ -15,6 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154586858028912:0
 tags:
 - quotes
+- fullmetalalchemist
 ---
 
 "Nothing's perfect, the world's not perfect, but it's there for us trying the best it can. That's what makes it so damn beautiful" - Roy Mustang
