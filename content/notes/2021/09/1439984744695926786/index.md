@@ -1,10 +1,12 @@
 ---
-date: 2021-09-20 16:08:11+00:00
+date: 2021-09-20 16:08:11
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1439984744695926786/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/prqxxs/september_20th_storms/hdluxye/
 tags:
 - sketchdaily
 ---
