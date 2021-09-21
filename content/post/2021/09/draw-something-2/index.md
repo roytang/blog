@@ -1,9 +1,14 @@
 ---
-title: "Draw Something 2"
-date: 2021-09-21T19:40:35+08:00
+date: 2021-09-21 11:40:35
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106969530421483849
+- type: twitter
+  url: https://twitter.com/roytang/status/1440284258807922707/
 tags:
 - drawing
 - tech-life
+title: Draw Something 2
 ---
 
 A while back [I wrote about an app some friends and I used to play called Draw Something](/2019/02/draw-something/), where players made crude drawings using limited tools and the other player had to guess what the drawing was. While cleaning up some old photos during the past week I found another batch of Draw Something screenshots; I had forgotten that we had a second wave of playing the game back in 2017. It's fun to look at these screenshots and see how the drawings were made and guess what we were thinking of back then. 
