@@ -8,7 +8,7 @@ syndicated:
 tags:
 - drawing
 - tech-life
-title: Draw Something 2
+title: Draw Something (screenshots batch 2 - 2017 wave)
 ---
 
 A while back [I wrote about an app some friends and I used to play called Draw Something](/2019/02/draw-something/), where players made crude drawings using limited tools and the other player had to guess what the drawing was. While cleaning up some old photos during the past week I found another batch of Draw Something screenshots; I had forgotten that we had a second wave of playing the game back in 2017. It's fun to look at these screenshots and see how the drawings were made and guess what we were thinking of back then. 
