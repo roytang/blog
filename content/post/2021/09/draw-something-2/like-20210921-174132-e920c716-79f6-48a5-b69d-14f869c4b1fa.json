@@ -1,0 +1,27 @@
+{
+  "id": "e920c716-79f6-48a5-b69d-14f869c4b1fa",
+  "name": "Wayne Werner",
+  "url": "https://mastodon.technology/@ketmorco",
+  "text": "[Wayne Werner](https://mastodon.technology/@ketmorco) [liked this](https://mastodon.technology/@roytang/106969530421483849#favorited-by-297563)",
+  "date": "2021-09-21 17:41:32",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/af35b990257822c5b67356f1e401bdaa31fe94bce2e099112dca3c1ed2382b98.png",
+  "source_url": "https://mastodon.technology/@roytang/106969530421483849#favorited-by-297563",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wayne Werner",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/af35b990257822c5b67356f1e401bdaa31fe94bce2e099112dca3c1ed2382b98.png",
+      "url": "https://mastodon.technology/@ketmorco"
+    },
+    "url": "https://mastodon.technology/@roytang/106969530421483849#favorited-by-297563",
+    "published": null,
+    "wm-received": "2021-09-21T17:41:32Z",
+    "wm-id": 1273810,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/106969530421483849/297563",
+    "wm-target": "https://roytang.net/2021/09/draw-something-2/",
+    "like-of": "https://roytang.net/2021/09/draw-something-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
