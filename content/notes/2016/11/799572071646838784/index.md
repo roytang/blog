@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/799572071646838784/
 ---
 
-RT [@AaronSumayo](https://twitter.com/AaronSumayo/): FINALLY!! The first-ever gender neutral bathroom in the Philippines https://twitter.com/gmanews/status/799468394269450241
+FINALLY!! The first-ever gender neutral bathroom in the Philippines https://twitter.com/gmanews/status/799468394269450241

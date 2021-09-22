@@ -1,14 +1,15 @@
 ---
 date: 2017-11-16 21:03:08+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/931266408792461312/
+  url: https://twitter.com/roytang/status/931266408792461312/
 tags:
+- switchfollows
 - modern
 - mtgo
 - mtg
-title: ''
 ---
 
 [@switchfollows](https://twitter.com/switchfollows/) meron ka bang Monastery Mentor? I only have 2 and I kinda wanna build that 2nd deck 
@@ -18,3 +19,5 @@ title: ''
 Some interesting #modern decks in the results of the last #MTGO PTQ #mtg 
 
 {{% /quoted %}}
+
+{{< photos 931266408792461312 >}}
