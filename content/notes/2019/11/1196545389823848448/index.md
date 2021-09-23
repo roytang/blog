@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1196545389823848448/
+tags:
+- puns
 ---
 
 Now is the winter of our disc one content
