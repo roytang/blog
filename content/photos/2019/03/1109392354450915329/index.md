@@ -9,4 +9,6 @@ tags:
 - mtg
 ---
 
-Today in great deck writeups #modern #mtg
+Today in great deck writeups: Narset Cannon #modern #mtg
+
+[Source](https://tappedout.net/mtg-decks/london-rule-narset/)
