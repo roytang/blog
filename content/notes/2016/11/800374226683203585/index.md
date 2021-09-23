@@ -1,10 +1,12 @@
 ---
 date: 2016-11-20 16:24:20+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/800374226683203585/
-title: ''
+  url: https://twitter.com/roytang/status/800374226683203585/
+tags:
+- IamEthylGabison
 ---
 
 . [@IamEthylGabison](https://twitter.com/IamEthylGabison/) baka pwedeng kayo na lang po ang maging columnist sa dyaryo kesa yung iba jan haha 

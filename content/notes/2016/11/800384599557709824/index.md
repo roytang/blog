@@ -1,12 +1,12 @@
 ---
 date: 2016-11-20 17:05:33+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/800384599557709824/
+  url: https://twitter.com/roytang/status/800384599557709824/
 tags:
 - marveltldr
-title: ''
 ---
 
 This was great 
