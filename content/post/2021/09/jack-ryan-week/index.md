@@ -1,8 +1,5 @@
 ---
-title: "Jack Ryan Week"
-date: 2021-09-25T13:14:40+08:00
-tags:
-- movies
+date: 2021-09-25 05:14:40
 reviews:
 - media: movies
   title: The Hunt for Red October (1990)
@@ -11,7 +8,15 @@ reviews:
 - media: movies
   title: Clear and Present Danger (1994)
 - media: movies
-  title: "Jack Ryan: Shadow Recruit (2014)"
+  title: 'Jack Ryan: Shadow Recruit (2014)'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106990691431771764
+- type: twitter
+  url: https://twitter.com/roytang/status/1441638563393650688/
+tags:
+- movies
+title: Jack Ryan Week
 ---
 
 I hadn't been watching any new movies the past couple of weeks, so I decided to do a Jack Ryan run this week. I had never seen any of the films before and my only prior exposure to the so-called "Ryanverse" has been the John Krasinski starrer [Tom Clancy's Jack Ryan on Amazon Prime](/.2018/10/october-2018-watching-lately/) (Talk about a clunky title!). Luckily Netflix + Prime Video had 4 out of the 5 films, but I could not find a copy of **Sum of All Fears (2002)**, so this Jack Ryan week will have to go without Ben Affleck.
