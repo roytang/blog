@@ -17,7 +17,7 @@ There is an evolving COVID situation at home, so things are a bit busy today, th
 
 ### The world:
 
-- 2022 presidential race is heating up; Manila Mayor Isko Morena announced his candidacy this past week (with failed senatorial candidate Dr. Willie Ong as his running mate), though some people suspect he is a spoiler candidate meant to split opposition votes. He's never really been opposition though? KBL has expectedly endorsed BongBong Marcos as their presidential candidate.
+- 2022 presidential race is heating up; Manila Mayor Isko Moreno announced his candidacy this past week (with failed senatorial candidate Dr. Willie Ong as his running mate), though some people suspect he is a spoiler candidate meant to split opposition votes. He's never really been opposition though? KBL has expectedly endorsed BongBong Marcos as their presidential candidate.
 
 ### Links of interest:
 
