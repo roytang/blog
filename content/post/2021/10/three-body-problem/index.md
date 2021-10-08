@@ -1,11 +1,16 @@
 ---
-title: "The Three-Body Problem by Liu Cixin"
-date: 2021-10-09T06:49:19+08:00
-tags:
-- books
+date: 2021-10-08 22:49:19
 reviews:
 - media: books
-  title: "The Three-Body Problem by Liu Cixin"
+  title: The Three-Body Problem by Liu Cixin
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107068439847934435
+- type: twitter
+  url: https://twitter.com/roytang/status/1446614462262173698/
+tags:
+- books
+title: The Three-Body Problem by Liu Cixin
 ---
 
 Finally managed to finish The Three-Body Problem this week, despite the recent challenges. It's a very... interesting novel at the very least. CHaracterization isn't super strong, it's one of those novels where the focus is on the world building and how it affects society and humanity at large. It's nice to have a decent sci-fi story that isn't so American centric though.
