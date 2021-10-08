@@ -1,0 +1,27 @@
+{
+  "id": "07878cba-f0b8-4733-9b29-f7c14123ec67",
+  "name": "GrannyZ",
+  "url": "https://twitter.com/GrannyZ9",
+  "text": "[GrannyZ](https://twitter.com/GrannyZ9) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-1325389236560781312)",
+  "date": "2021-10-08 14:01:00",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/b802d3de415a36768dddc7a7d2ff1ebaf09a87f49573fe2ceaee95f3c7e490b2.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1325389236560781312",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "GrannyZ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b802d3de415a36768dddc7a7d2ff1ebaf09a87f49573fe2ceaee95f3c7e490b2.jpg",
+      "url": "https://twitter.com/GrannyZ9"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1325389236560781312",
+    "published": null,
+    "wm-received": "2021-10-08T14:01:00Z",
+    "wm-id": 1284531,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/1325389236560781312",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c10926f0-e29a-478c-9173-2ad2df8e1a5e",
+  "name": "Kirt Romero",
+  "url": "https://twitter.com/kirtromero",
+  "text": "[Kirt Romero](https://twitter.com/kirtromero) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-73000509)",
+  "date": "2021-10-08 14:01:02",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/c69b39b3042f441cfd579bdc7efb164f0996b9c447ae021de5a792562e39754f.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-73000509",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kirt Romero",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c69b39b3042f441cfd579bdc7efb164f0996b9c447ae021de5a792562e39754f.jpg",
+      "url": "https://twitter.com/kirtromero"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-73000509",
+    "published": null,
+    "wm-received": "2021-10-08T14:01:02Z",
+    "wm-id": 1284533,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/73000509",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

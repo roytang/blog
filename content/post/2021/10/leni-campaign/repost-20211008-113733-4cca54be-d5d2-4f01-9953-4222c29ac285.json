@@ -1,0 +1,30 @@
+{
+  "id": "4cca54be-d5d2-4f01-9953-4222c29ac285",
+  "name": "Filipina Cailin",
+  "url": "https://twitter.com/bella_oneill25",
+  "text": "New blog post: Thoughts on the Leni Campaign  roytang.net/2021/10/leni-c\u2026",
+  "date": "2021-10-08 11:37:33",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/db6ba8230115a693829fef7b203f75a7fff67a64785b55ee4cdc5a4b464d2b8a.jpg",
+  "source_url": "https://twitter.com/bella_oneill25/status/1446439619122417697",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Filipina Cailin",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/db6ba8230115a693829fef7b203f75a7fff67a64785b55ee4cdc5a4b464d2b8a.jpg",
+      "url": "https://twitter.com/bella_oneill25"
+    },
+    "url": "https://twitter.com/bella_oneill25/status/1446439619122417697",
+    "published": "2021-10-08T11:37:33+00:00",
+    "wm-received": "2021-10-08T14:01:03Z",
+    "wm-id": 1284534,
+    "wm-source": "https://brid.gy/repost/twitter/roytang/1446373563112378372/1446439619122417697",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "content": {
+      "text": "New blog post: Thoughts on the Leni Campaign  roytang.net/2021/10/leni-c\u2026"
+    },
+    "repost-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
