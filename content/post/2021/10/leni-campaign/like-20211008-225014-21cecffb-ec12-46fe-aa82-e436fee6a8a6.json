@@ -1,0 +1,27 @@
+{
+  "id": "21cecffb-ec12-46fe-aa82-e436fee6a8a6",
+  "name": "Francis Vidal \u200e\u272a",
+  "url": "https://twitter.com/prandelicious",
+  "text": "[Francis Vidal \u200e\u272a](https://twitter.com/prandelicious) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-14262781)",
+  "date": "2021-10-08 22:50:14",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/84591e186e391f9b0cd136b57e6c2ced9b8e46ef63336fc4a12a91651a103208.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-14262781",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Francis Vidal \u200e\u272a",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/84591e186e391f9b0cd136b57e6c2ced9b8e46ef63336fc4a12a91651a103208.jpg",
+      "url": "https://twitter.com/prandelicious"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-14262781",
+    "published": null,
+    "wm-received": "2021-10-08T22:50:14Z",
+    "wm-id": 1284776,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/14262781",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
