@@ -1,0 +1,27 @@
+{
+  "id": "8eb55eb8-561a-435b-9c03-e99b357a41f0",
+  "name": "Jessie Severino",
+  "url": "https://twitter.com/jessie_sev",
+  "text": "[Jessie Severino](https://twitter.com/jessie_sev) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-874117013735473152)",
+  "date": "2021-10-08 22:50:14",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/1313029d5a4c6892c7a5a74835c7259513a690972363d65a4657097c2af7b135.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-874117013735473152",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jessie Severino",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1313029d5a4c6892c7a5a74835c7259513a690972363d65a4657097c2af7b135.jpg",
+      "url": "https://twitter.com/jessie_sev"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-874117013735473152",
+    "published": null,
+    "wm-received": "2021-10-08T22:50:14Z",
+    "wm-id": 1284777,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/874117013735473152",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

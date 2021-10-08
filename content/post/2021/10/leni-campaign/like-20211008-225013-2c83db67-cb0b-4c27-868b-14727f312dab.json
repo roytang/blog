@@ -1,0 +1,27 @@
+{
+  "id": "2c83db67-cb0b-4c27-868b-14727f312dab",
+  "name": "Remy Pijuan",
+  "url": "https://twitter.com/remymartian",
+  "text": "[Remy Pijuan](https://twitter.com/remymartian) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-26699876)",
+  "date": "2021-10-08 22:50:13",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/b256c8b2c1a0e4413b3409e0fa1c479ed757f98d978bccb144249a7e9df717df.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-26699876",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Remy Pijuan",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b256c8b2c1a0e4413b3409e0fa1c479ed757f98d978bccb144249a7e9df717df.jpg",
+      "url": "https://twitter.com/remymartian"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-26699876",
+    "published": null,
+    "wm-received": "2021-10-08T22:50:13Z",
+    "wm-id": 1284775,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/26699876",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
