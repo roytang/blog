@@ -1,9 +1,14 @@
 ---
-title: "Thoughts on the Leni Campaign"
-date: 2021-10-08T14:35:41+08:00
+date: 2021-10-08 06:35:41
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107064675798816966
+- type: twitter
+  url: https://twitter.com/roytang/status/1446373563112378372/
 tags:
 - philippines
 - politics
+title: Thoughts on the Leni Campaign
 ---
 
 Vice-President Leni Robredo finally announcing her candidacy for the presidency yesterday injected an interesting bit of energy into the online opposition. A lot of people expressed support, even many of my friends who usually stayed silent during the regular political exercises.
