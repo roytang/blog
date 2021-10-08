@@ -1,0 +1,27 @@
+{
+  "id": "cc88f59f-0e72-4e7f-8c5d-645899139a68",
+  "name": "Nick Tayag",
+  "url": "https://twitter.com/CopybrewerNick",
+  "text": "[Nick Tayag](https://twitter.com/CopybrewerNick) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-1121963931533070336)",
+  "date": "2021-10-08 17:57:44",
+  "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1121963931533070336",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nick Tayag",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/CopybrewerNick"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1121963931533070336",
+    "published": null,
+    "wm-received": "2021-10-08T17:57:44Z",
+    "wm-id": 1284655,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/1121963931533070336",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

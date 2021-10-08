@@ -1,0 +1,27 @@
+{
+  "id": "95d7c621-05c5-4f7c-bd19-3a0eb1fa9ebf",
+  "name": "Harold Casalem",
+  "url": "https://twitter.com/haroldbethyname",
+  "text": "[Harold Casalem](https://twitter.com/haroldbethyname) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-311307216)",
+  "date": "2021-10-08 17:58:13",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/1e46af36cb7fd2d61d2a7d4d7d8d79027bc664fcacaa940535e72e0326bcfbb0.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-311307216",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Harold Casalem",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/1e46af36cb7fd2d61d2a7d4d7d8d79027bc664fcacaa940535e72e0326bcfbb0.jpg",
+      "url": "https://twitter.com/haroldbethyname"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-311307216",
+    "published": null,
+    "wm-received": "2021-10-08T17:58:13Z",
+    "wm-id": 1284656,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/311307216",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
