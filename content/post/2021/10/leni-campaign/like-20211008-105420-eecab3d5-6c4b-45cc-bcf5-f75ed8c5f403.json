@@ -1,0 +1,27 @@
+{
+  "id": "eecab3d5-6c4b-45cc-bcf5-f75ed8c5f403",
+  "name": "#LENIKIKO ERA\ud83c\udf3a\ud83d\udc9d\ud83c\udf40",
+  "url": "https://twitter.com/eva_wakey",
+  "text": "[#LENIKIKO ERA\ud83c\udf3a\ud83d\udc9d\ud83c\udf40](https://twitter.com/eva_wakey) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-937472112100458497)",
+  "date": "2021-10-08 10:54:20",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/a686ad7bb27e337a8e396451a4da73d674e5c3fbd7fee401272d2f95768d6b8b.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-937472112100458497",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "#LENIKIKO ERA\ud83c\udf3a\ud83d\udc9d\ud83c\udf40",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a686ad7bb27e337a8e396451a4da73d674e5c3fbd7fee401272d2f95768d6b8b.jpg",
+      "url": "https://twitter.com/eva_wakey"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-937472112100458497",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:20Z",
+    "wm-id": 1284438,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/937472112100458497",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

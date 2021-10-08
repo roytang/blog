@@ -1,0 +1,27 @@
+{
+  "id": "c66b4b7d-46a8-4990-b681-d0fae4931bf0",
+  "name": "#LeniKiko2022",
+  "url": "https://twitter.com/RarePeriodElem",
+  "text": "[#LeniKiko2022](https://twitter.com/RarePeriodElem) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-1233951050178019328)",
+  "date": "2021-10-08 10:54:44",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/ffc17bb68e712ce17d4c5252fc6147d43fae8b3dd10f60a50b47d2b46a3db0a9.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1233951050178019328",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "#LeniKiko2022",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ffc17bb68e712ce17d4c5252fc6147d43fae8b3dd10f60a50b47d2b46a3db0a9.jpg",
+      "url": "https://twitter.com/RarePeriodElem"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1233951050178019328",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:44Z",
+    "wm-id": 1284448,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/1233951050178019328",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

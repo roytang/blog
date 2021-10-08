@@ -1,0 +1,27 @@
+{
+  "id": "ba65fe9c-478b-45cc-88f9-c882031ae6b5",
+  "name": "ana #RegisterToVote",
+  "url": "https://twitter.com/panghahawakan",
+  "text": "[ana #RegisterToVote](https://twitter.com/panghahawakan) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-1321869645050122240)",
+  "date": "2021-10-08 10:54:23",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/b8fab8cef0419ed5e95f800b06dddc52d48d7dd65d5948e1166151f88a8b88f5.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1321869645050122240",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "ana #RegisterToVote",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b8fab8cef0419ed5e95f800b06dddc52d48d7dd65d5948e1166151f88a8b88f5.jpg",
+      "url": "https://twitter.com/panghahawakan"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1321869645050122240",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:23Z",
+    "wm-id": 1284441,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/1321869645050122240",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

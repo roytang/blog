@@ -1,0 +1,27 @@
+{
+  "id": "96922de0-624c-4431-a88c-36166adc023f",
+  "name": "Ajjie Mendelebar",
+  "url": "https://twitter.com/ajjiemendelebar",
+  "text": "[Ajjie Mendelebar](https://twitter.com/ajjiemendelebar) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-2861422920)",
+  "date": "2021-10-08 10:54:15",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/409f338a4361de881ef43c0cafa83326a4826d1d10ba52e50a8bef1e276aa5e8.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-2861422920",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ajjie Mendelebar",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/409f338a4361de881ef43c0cafa83326a4826d1d10ba52e50a8bef1e276aa5e8.jpg",
+      "url": "https://twitter.com/ajjiemendelebar"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-2861422920",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:15Z",
+    "wm-id": 1284432,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/2861422920",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

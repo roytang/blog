@@ -1,0 +1,27 @@
+{
+  "id": "bef1c14e-c0b2-43bb-896e-4be3b3f2e12f",
+  "name": "gabe",
+  "url": "https://twitter.com/csi_spy",
+  "text": "[gabe](https://twitter.com/csi_spy) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-59346400)",
+  "date": "2021-10-08 10:54:21",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/5d761f39b6872c988dabd51290aed2a0ec3af8e47f2da2364818b222f2e1c84b.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-59346400",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "gabe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5d761f39b6872c988dabd51290aed2a0ec3af8e47f2da2364818b222f2e1c84b.jpg",
+      "url": "https://twitter.com/csi_spy"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-59346400",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:21Z",
+    "wm-id": 1284439,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/59346400",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

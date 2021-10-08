@@ -1,0 +1,27 @@
+{
+  "id": "6f062734-4990-4a6f-8beb-7913d1b06983",
+  "name": "iBSH",
+  "url": "https://twitter.com/iBSH08220295",
+  "text": "[iBSH](https://twitter.com/iBSH08220295) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-1243845477142913024)",
+  "date": "2021-10-08 10:54:23",
+  "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1243845477142913024",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "iBSH",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/iBSH08220295"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1243845477142913024",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:23Z",
+    "wm-id": 1284442,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/1243845477142913024",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

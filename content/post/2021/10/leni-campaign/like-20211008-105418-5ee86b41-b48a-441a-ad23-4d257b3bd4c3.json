@@ -1,0 +1,27 @@
+{
+  "id": "5ee86b41-b48a-441a-ad23-4d257b3bd4c3",
+  "name": "over thinker",
+  "url": "https://twitter.com/who_you12",
+  "text": "[over thinker](https://twitter.com/who_you12) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-3148751130)",
+  "date": "2021-10-08 10:54:18",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/957be90fa333ec8558a6339cf73d38363eb7ae89da6ca0375a6a10d2bc84db10.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-3148751130",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "over thinker",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/957be90fa333ec8558a6339cf73d38363eb7ae89da6ca0375a6a10d2bc84db10.jpg",
+      "url": "https://twitter.com/who_you12"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-3148751130",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:18Z",
+    "wm-id": 1284435,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/3148751130",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

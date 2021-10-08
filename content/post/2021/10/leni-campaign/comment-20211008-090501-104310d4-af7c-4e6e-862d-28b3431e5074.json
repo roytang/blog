@@ -1,0 +1,31 @@
+{
+  "id": "104310d4-af7c-4e6e-862d-28b3431e5074",
+  "name": "Kulasasasa",
+  "url": "https://twitter.com/pialoader",
+  "text": "Mentioned by https://brid.gy/post/twitter/roytang/1446401231698681866\n\n> \"More video content, because a lot of people watch videos and don't like reading text. \"",
+  "date": "2021-10-08 09:05:01",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/af26be2bfbffa6d9610c1e0edde2026e539e7b5f438cf092e6d44428559b6ec9.jpg",
+  "source_url": "https://twitter.com/pialoader/status/1446401231698681866",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Kulasasasa",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/af26be2bfbffa6d9610c1e0edde2026e539e7b5f438cf092e6d44428559b6ec9.jpg",
+      "url": "https://twitter.com/pialoader"
+    },
+    "url": "https://twitter.com/pialoader/status/1446401231698681866",
+    "published": "2021-10-08T09:05:01+00:00",
+    "wm-received": "2021-10-08T10:54:25Z",
+    "wm-id": 1284444,
+    "wm-source": "https://brid.gy/post/twitter/roytang/1446401231698681866",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "content": {
+      "html": "\"More video content, because a lot of people watch videos and don't like reading text. \"\n<a class=\"u-mention\" href=\"https://roytang.net/2021/10/leni-campaign/\"></a>",
+      "text": "\"More video content, because a lot of people watch videos and don't like reading text. \""
+    },
+    "mention-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}

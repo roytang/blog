@@ -1,0 +1,27 @@
+{
+  "id": "ab03b16b-bf3a-482e-ab95-039169d02d08",
+  "name": "J Bear \ud83c\udde8\ud83c\udde6",
+  "url": "https://twitter.com/jbearca",
+  "text": "[J Bear \ud83c\udde8\ud83c\udde6](https://twitter.com/jbearca) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-18420556)",
+  "date": "2021-10-08 10:54:17",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/494049cf2c040ee770ece47cd015ec388934986d9f41bcae99d11cec1c39bb70.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-18420556",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "J Bear \ud83c\udde8\ud83c\udde6",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/494049cf2c040ee770ece47cd015ec388934986d9f41bcae99d11cec1c39bb70.jpg",
+      "url": "https://twitter.com/jbearca"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-18420556",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:17Z",
+    "wm-id": 1284434,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/18420556",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

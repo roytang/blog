@@ -1,0 +1,27 @@
+{
+  "id": "fe0578c5-333c-42ee-a347-3eb2975e8df1",
+  "name": "hereforlenikiko2022",
+  "url": "https://twitter.com/anticorrupt2022",
+  "text": "[hereforlenikiko2022](https://twitter.com/anticorrupt2022) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-1445953243385712643)",
+  "date": "2021-10-08 10:54:22",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/6a0e08fb6db856c87e38d200734580cea78c8a2fbc9a2330fc1b30091d944b4d.png",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1445953243385712643",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "hereforlenikiko2022",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/6a0e08fb6db856c87e38d200734580cea78c8a2fbc9a2330fc1b30091d944b4d.png",
+      "url": "https://twitter.com/anticorrupt2022"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1445953243385712643",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:22Z",
+    "wm-id": 1284440,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/1445953243385712643",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

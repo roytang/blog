@@ -1,0 +1,27 @@
+{
+  "id": "3f42ae94-a79a-48f1-b9f0-0b8b65486255",
+  "name": "Manuel L. Quezon III",
+  "url": "https://twitter.com/mlq3",
+  "text": "[Manuel L. Quezon III](https://twitter.com/mlq3) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-4202781)",
+  "date": "2021-10-08 10:54:18",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/2027956bca92c4fec099462e92d49b2969f1e4ad2d861990c6117f1821c734ba.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-4202781",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Manuel L. Quezon III",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2027956bca92c4fec099462e92d49b2969f1e4ad2d861990c6117f1821c734ba.jpg",
+      "url": "https://twitter.com/mlq3"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-4202781",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:18Z",
+    "wm-id": 1284436,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/4202781",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

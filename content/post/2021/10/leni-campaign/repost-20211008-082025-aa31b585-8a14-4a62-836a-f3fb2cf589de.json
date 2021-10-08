@@ -1,0 +1,30 @@
+{
+  "id": "aa31b585-8a14-4a62-836a-f3fb2cf589de",
+  "name": "Jeff",
+  "url": "https://twitter.com/jepoymd_",
+  "text": "New blog post: Thoughts on the Leni Campaign  roytang.net/2021/10/leni-c\u2026",
+  "date": "2021-10-08 08:20:25",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/405a38fe75d3d9ea6875e506a301e0cc3a532fb4e4b4585df6709b1d8b9bd453.jpg",
+  "source_url": "https://twitter.com/jepoymd_/status/1446390008949051395",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jeff",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/405a38fe75d3d9ea6875e506a301e0cc3a532fb4e4b4585df6709b1d8b9bd453.jpg",
+      "url": "https://twitter.com/jepoymd_"
+    },
+    "url": "https://twitter.com/jepoymd_/status/1446390008949051395",
+    "published": "2021-10-08T08:20:25+00:00",
+    "wm-received": "2021-10-08T10:54:26Z",
+    "wm-id": 1284446,
+    "wm-source": "https://brid.gy/repost/twitter/roytang/1446373563112378372/1446390008949051395",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "content": {
+      "text": "New blog post: Thoughts on the Leni Campaign  roytang.net/2021/10/leni-c\u2026"
+    },
+    "repost-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}

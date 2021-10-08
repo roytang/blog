@@ -1,0 +1,27 @@
+{
+  "id": "5188780a-3470-45af-98a9-af02a5bb8d4d",
+  "name": "Marigold Tupaz",
+  "url": "https://twitter.com/MarigoldTupaz",
+  "text": "[Marigold Tupaz](https://twitter.com/MarigoldTupaz) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-1260438077786533889)",
+  "date": "2021-10-08 10:54:20",
+  "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1260438077786533889",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marigold Tupaz",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/MarigoldTupaz"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1260438077786533889",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:20Z",
+    "wm-id": 1284437,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/1260438077786533889",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0106bfb7-773f-4fb5-8526-3e1ff96a2520",
+  "name": "Jeff",
+  "url": "https://twitter.com/jepoymd_",
+  "text": "[Jeff](https://twitter.com/jepoymd_) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-1301331670520532994)",
+  "date": "2021-10-08 10:54:15",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/405a38fe75d3d9ea6875e506a301e0cc3a532fb4e4b4585df6709b1d8b9bd453.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1301331670520532994",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jeff",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/405a38fe75d3d9ea6875e506a301e0cc3a532fb4e4b4585df6709b1d8b9bd453.jpg",
+      "url": "https://twitter.com/jepoymd_"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-1301331670520532994",
+    "published": null,
+    "wm-received": "2021-10-08T10:54:15Z",
+    "wm-id": 1284433,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/1301331670520532994",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

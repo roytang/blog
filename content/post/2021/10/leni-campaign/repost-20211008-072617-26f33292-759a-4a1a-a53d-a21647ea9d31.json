@@ -1,0 +1,30 @@
+{
+  "id": "26f33292-759a-4a1a-a53d-a21647ea9d31",
+  "name": "iBSH",
+  "url": "https://twitter.com/iBSH08220295",
+  "text": "New blog post: Thoughts on the Leni Campaign  roytang.net/2021/10/leni-c\u2026",
+  "date": "2021-10-08 07:26:17",
+  "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+  "source_url": "https://twitter.com/iBSH08220295/status/1446376387997159424",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "iBSH",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/iBSH08220295"
+    },
+    "url": "https://twitter.com/iBSH08220295/status/1446376387997159424",
+    "published": "2021-10-08T07:26:17+00:00",
+    "wm-received": "2021-10-08T10:54:24Z",
+    "wm-id": 1284443,
+    "wm-source": "https://brid.gy/repost/twitter/roytang/1446373563112378372/1446376387997159424",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "content": {
+      "text": "New blog post: Thoughts on the Leni Campaign  roytang.net/2021/10/leni-c\u2026"
+    },
+    "repost-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
