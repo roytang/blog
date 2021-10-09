@@ -1,0 +1,27 @@
+{
+  "id": "cbc93bb8-3ded-48f0-a547-f1f49dbe6b8c",
+  "name": "J.V. AYSON (BAYAN MUNA for the win!)",
+  "url": "https://twitter.com/janvic19",
+  "text": "[J.V. AYSON (BAYAN MUNA for the win!)](https://twitter.com/janvic19) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-123490093)",
+  "date": "2021-10-09 02:59:41",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/98054d531754e4c56a0fae82676f764180d807c1cbfed78b8effbeeefcf8db56.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-123490093",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "J.V. AYSON (BAYAN MUNA for the win!)",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/98054d531754e4c56a0fae82676f764180d807c1cbfed78b8effbeeefcf8db56.jpg",
+      "url": "https://twitter.com/janvic19"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-123490093",
+    "published": null,
+    "wm-received": "2021-10-09T02:59:41Z",
+    "wm-id": 1284874,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/123490093",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
