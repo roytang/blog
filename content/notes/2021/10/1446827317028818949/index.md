@@ -9,6 +9,7 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/pwd5ec/september_27th_an_oversized_everyday_object/hfz9wdm/
 tags:
 - sketchdaily
+- checkthis
 ---
 
 Some quick doodles to cut back on the #sketchdaily backlog
