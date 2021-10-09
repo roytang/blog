@@ -1,0 +1,30 @@
+{
+  "id": "995220a3-c4ca-4902-a119-dd366a813942",
+  "name": "RPS Toledo SJ",
+  "url": "https://twitter.com/rtoledosj",
+  "text": "New blog post: Thoughts on the Leni Campaign  roytang.net/2021/10/leni-c\u2026",
+  "date": "2021-10-09 03:24:11",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/991f99d157766994a42e4917d791253c28645ddf9e47cff01ddbe4ecb5f32cbf.jpg",
+  "source_url": "https://twitter.com/rtoledosj/status/1446677847871930372",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "RPS Toledo SJ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/991f99d157766994a42e4917d791253c28645ddf9e47cff01ddbe4ecb5f32cbf.jpg",
+      "url": "https://twitter.com/rtoledosj"
+    },
+    "url": "https://twitter.com/rtoledosj/status/1446677847871930372",
+    "published": "2021-10-09T03:24:11+00:00",
+    "wm-received": "2021-10-09T04:01:47Z",
+    "wm-id": 1284898,
+    "wm-source": "https://brid.gy/repost/twitter/roytang/1446373563112378372/1446677847871930372",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "content": {
+      "text": "New blog post: Thoughts on the Leni Campaign  roytang.net/2021/10/leni-c\u2026"
+    },
+    "repost-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "8d74cc71-cd6d-453e-9ef5-eefa447ea6d9",
+  "name": "RPS Toledo SJ",
+  "url": "https://twitter.com/rtoledosj",
+  "text": "[RPS Toledo SJ](https://twitter.com/rtoledosj) [liked this](https://twitter.com/roytang/status/1446373563112378372#favorited-by-335097221)",
+  "date": "2021-10-09 04:01:47",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/991f99d157766994a42e4917d791253c28645ddf9e47cff01ddbe4ecb5f32cbf.jpg",
+  "source_url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-335097221",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "RPS Toledo SJ",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/991f99d157766994a42e4917d791253c28645ddf9e47cff01ddbe4ecb5f32cbf.jpg",
+      "url": "https://twitter.com/rtoledosj"
+    },
+    "url": "https://twitter.com/roytang/status/1446373563112378372#favorited-by-335097221",
+    "published": null,
+    "wm-received": "2021-10-09T04:01:47Z",
+    "wm-id": 1284897,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1446373563112378372/335097221",
+    "wm-target": "https://roytang.net/2021/10/leni-campaign/",
+    "like-of": "https://roytang.net/2021/10/leni-campaign/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
