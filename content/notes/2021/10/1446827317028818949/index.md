@@ -6,6 +6,12 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1446827317028818949/
 - type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/pufuug/september_24th_free_draw_friday/hfz9rzt/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/pv33xr/september_25th_skybeam/hfz9tg9/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/pvq79c/september_26th_animals_dressed_up_as_chickens/hfz9vnq/
+- type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/pwd5ec/september_27th_an_oversized_everyday_object/hfz9wdm/
 tags:
 - sketchdaily
