@@ -1,10 +1,12 @@
 ---
-date: 2021-10-09 13:18:07+00:00
+date: 2021-10-09 13:18:07
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1446827317028818949/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/pwd5ec/september_27th_an_oversized_everyday_object/hfz9wdm/
 tags:
 - sketchdaily
 ---
