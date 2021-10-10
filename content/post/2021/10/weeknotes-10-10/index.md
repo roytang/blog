@@ -1,6 +1,6 @@
 ---
 title: "Weeknotes 2021-10-10 The Road to Recovery"
-date: 2021-10-10T18:00:19+08:00
+date: 2021-10-10T12:00:19+08:00
 tags:
 - weeknotes
 - philippines
