@@ -1,10 +1,15 @@
 ---
-title: "Weeknotes 2021-10-10 The Road to Recovery"
-date: 2021-10-10T12:00:19+08:00
+date: 2021-10-10 04:00:19
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107075248873031978
+- type: twitter
+  url: https://twitter.com/roytang/status/1447050239643250697/
 tags:
 - weeknotes
 - philippines
 - covid19
+title: Weeknotes 2021-10-10 The Road to Recovery
 ---
 
 I have a bit more time and energy this week, though I am still unfortunately stuck at the hospital, taking care of loved ones. The good news is that I myself am no longer a patient, I recovered and was "discharged" a while back. Both of the loved ones still here in the hospital are past the worst of it apparently, but we still need to wait for them to recover before we can go home. The doctors are unable to give us a timeline.

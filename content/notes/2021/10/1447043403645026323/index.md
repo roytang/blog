@@ -9,6 +9,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/px28xw/september_28th_abstract_art/hg2ag5h/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/pxrf7m/september_29th_sandwiches/hg2c7bj/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/pyfvs9/september_30th_hands/hg2d6ss/
 tags:
 - sketchdaily
 ---
