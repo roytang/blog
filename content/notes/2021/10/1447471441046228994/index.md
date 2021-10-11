@@ -6,6 +6,12 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1447471441046228994/
 - type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/pz42cj/october_1st_free_draw_friday/hg7fe3l/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/pzrmw1/october_2nd_inktober_suit/hg7femk/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q0e50z/october_3rd_inktober_vessel/hg7ff02/
+- type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/q11p09/october_4th_inktober_knot/hg7ffg0/
 tags:
 - sketchdaily
