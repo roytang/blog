@@ -1,10 +1,12 @@
 ---
-date: 2021-10-11 07:57:38+00:00
+date: 2021-10-11 07:57:38
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1447471441046228994/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q11p09/october_4th_inktober_knot/hg7ffg0/
 tags:
 - sketchdaily
 - inktober
