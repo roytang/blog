@@ -1,0 +1,23 @@
+---
+date: 2021-10-12 14:41:47+00:00
+dontinlinephotos: true
+source: twitter
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/status/1447935535604027405/
+tags:
+- sketchdaily
+- inktober
+---
+
+More #sketchdaily #inktober catchup doodles! (I just gave up on drawtober lol)
+
+
+
+Day 5 Raven 278/365
+
+Day 6 Spirit of vengeance 279/365
+
+Day 7 Can't beat Airman! 280/365 
+
+{{< photos 1447935535604027405 >}}
