@@ -1,10 +1,12 @@
 ---
-date: 2021-10-12 14:41:47+00:00
+date: 2021-10-12 14:41:47
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1447935535604027405/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q1shax/october_5th_inktober_raven/hgdhe28/
 tags:
 - sketchdaily
 - inktober
