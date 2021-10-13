@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1447935535604027405/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/q1shax/october_5th_inktober_raven/hgdhe28/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q2gkng/october_6th_inktober_spirit/hgfcxx8/
 tags:
 - sketchdaily
 - inktober
