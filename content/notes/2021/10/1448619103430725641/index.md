@@ -9,6 +9,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/q3tx1j/october_8th_free_draw_friday/hglqjh4/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/q4hkff/october_9th_inktober_pressure/hglqxcp/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q54fpd/october_10th_anatober_rhomboids/hglsdo2/
 tags:
 - sketchdaily
 - inktober
