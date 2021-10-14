@@ -1,10 +1,12 @@
 ---
-date: 2021-10-14 11:58:02+00:00
+date: 2021-10-14 11:58:02
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1448619103430725641/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q3tx1j/october_8th_free_draw_friday/hglqjh4/
 tags:
 - sketchdaily
 - inktober
