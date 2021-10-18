@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107123402068761580
 - type: twitter
   url: https://twitter.com/roytang/status/1450132044445405190/
+tags:
+- movies
 title: Kate (2021)
 ---
 
