@@ -1,10 +1,18 @@
 ---
-date: 2021-10-18 10:46:00+00:00
+date: 2021-10-18 10:46:00
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1450050524145803267/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q7vuas/october_14th_anatober_brachioradialis/hh3es2h/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q773vs/october_13th_anatober_deltoid/hh3eroi/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q6hybd/october_12th_anatober_skeletal_arm/hh3erbr/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/q5rq52/october_11th_anatober_skeletal_hand/hh3eqwq/
 tags:
 - sketchdaily
 - inktober
