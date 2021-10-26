@@ -1,4 +1,6 @@
 ---
+albums:
+- selfies
 date: 2019-11-18 16:23:59
 source: twitter
 syndicated:

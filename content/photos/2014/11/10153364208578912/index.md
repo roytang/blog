@@ -9,6 +9,7 @@ syndicated:
 tags:
 - pickups
 - lazymasterrace
+- gaming
 ---
 
 Yes i will play it on console #lazymasterrace
