@@ -19,7 +19,7 @@ The two of us were in the hospital by Sunday evening. Ma hadn't experienced much
 
 In the hospital, they monitored Pa mainly for his oxygen saturation; over the course of the first week they needed to gradually increase his oxygen support to stabilize it, and he also developed a serious pneumonia. He was also prone to getting tired or out of breath when walking or moving about. 
 
-My own symptoms were mild to moderate; my fever lasted for a few days, and I experienced some higher blood pressure. I also had pneumonia and some coughing, but it was very mild. Early in the second week, my symptoms had subsided and they discharged me from being a patient; I stayed in the hospital as a caregiver ("bantay") for Pa.
+My own symptoms were mild to moderate; my fever lasted for a few days, and I experienced some higher blood pressure. I also had mild pneumonia and some coughing. Early in the second week, my symptoms had subsided and they discharged me from being a patient; I stayed in the hospital as a caregiver ("bantay") for Pa.
 
 Around the second week of a serious Covid case (7 days after symptoms first manifest) is the start of the so-called "cytokine storm" where the symptoms can get much worse. The doctors recommended some treatments to try to head off the storm.
 
