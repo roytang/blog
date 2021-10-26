@@ -10,6 +10,7 @@ tags:
 - mobile-uploads
 - gasta
 - pickups
+- gaming
 ---
 
 Late night impulse buying #gasta

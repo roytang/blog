@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/273446170863480833/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151947226023912
+tags:
+- mama
 ---
 
 Me: "Ma, tignan mo to, sugat ba to?" Ma: "Ano yan, butlig" Me: "Anong butlig?" Ma: "Butlig...butlig copy" -_-
