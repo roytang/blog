@@ -1,9 +1,14 @@
 ---
-title: "The Covid Experience"
-date: 2021-10-26T18:30:00+08:00
+date: 2021-10-26 10:30:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107167368764383453
+- type: twitter
+  url: https://twitter.com/roytang/status/1452945913018679299/
 tags:
 - family
 - covid19
+title: The Covid Experience
 toc: true
 ---
 
