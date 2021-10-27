@@ -36,6 +36,8 @@ Their condition started getting better towards the start of the third week. The 
 
 We were all discharged by the 3rd weekend of our stay; Ma had to stay an extra day because she developed her symptoms last and our doctor was strict about requiring 21 days isolation (from symptoms onset) for each patient. Apparently covid cases can be contagious up to the 21st day. Both parents had confirmatory negative swab tests before discharge. Since I was only a moderate case, the confirmatory swab was not needed for me (I was already symptom free for more than 10 days by then.)
 
+**Total hospital stay: 21 days (for me and Pa); 14 days for Ma**
+
 ### Notes About The Hospital Stay
 
 - Once we had been there for a few days and gotten used to everything, every day felt pretty much the same. Intervals of boredom while waiting around for the next meal or medicine delivery or tests.
@@ -63,7 +65,7 @@ Collectively the family had enough savings to absorb the costs, though of course
 
 Luckily, there's Philhealth. [Philhealth has a significant benefit package for confined Covid patients](https://www.philhealth.gov.ph/covid/), with the amount of coverage depending on the severity of the pneumonia induced by Covid. The severity is based on specific criteria.
 
-They classified my case as moderate pneumonia, which  got a benefit package of around P143k. Still a significant amount! I was almost unable to avail of this because as a freelancer, I wasn't current with my Philhealth payments. My brother stepped up and made payments for me so that I could avail of the benefit. So I strongly advise everyone to make sure your Philhealth payments are current, especially if you are regularly going out and exposed to possible Covid infection!
+They classified my case as moderate pneumonia, which  got a benefit package of around P143k. Still a significant amount! I was almost unable to avail of this because as a freelancer, I wasn't current with my Philhealth payments. My brother stepped up and made payments for me so that I could avail of the benefit. So **I strongly advise everyone to make sure your Philhealth payments are current**, especially if you are regularly going out and exposed to possible Covid infection!
 
 They classified both parents as having critical pneumonia, which meant their Philhealth benefit package was a whopping P786k! That plus senior citizen discounts cut down the costs to a much more manageable level. Our doctor told us the hospital initially wanted to classify them as severe (which meant a lower benefit package), but that she argued they should be critical under DOH guidelines, so for that we are thankful. (Also, she mentioned that Philhealth hasn't paid out claims in a while, so hopefully they pay out, the doctors and the hospital and the staff deserve it!)
 
