@@ -12,6 +12,7 @@ syndicated:
 tags:
 - sketchdaily
 - inktober
+- inktober2021
 ---
 
 #sketchdaily #inktober day 21

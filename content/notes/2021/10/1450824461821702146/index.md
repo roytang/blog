@@ -14,6 +14,7 @@ syndicated:
 tags:
 - sketchdaily
 - inktober
+- inktober2021
 ---
 
 Final (hopefully!) #sketchdaily #inktober catchup doodles set!

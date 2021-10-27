@@ -17,6 +17,7 @@ tags:
 - sketchdaily
 - inktober
 - drawtober
+- inktober2021
 ---
 
 More #sketchdaily catchup doodles. Lets try doing #inktober and #drawtober as well!
