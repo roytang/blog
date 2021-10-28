@@ -1,6 +1,11 @@
 ---
-title: "The Little Things Add Up"
-date: 2021-10-28T17:00:00+08:00
+date: 2021-10-28 09:00:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107178343575511619
+- type: twitter
+  url: https://twitter.com/roytang/status/1453648301597679624/
+title: The Little Things Add Up
 ---
 
 On our first day back from [the hospital stay](/2021/10/covid-experience/) I found some issues that had rise or that no one had attended to while we were away:
