@@ -20,6 +20,6 @@ It's easy to dismiss all the small stuff and minor annoyances, but they can add 
 
 ---
 
-I'm able to write about this now because it's gotten better, mostly. We've gotten used to the new routines since we've come back, and I've gotten better at getting the glucose readings. I've fixed the soundbar and the replacement mouse arrived yesterday. Still haven't gotten around to getting someone to look at the light switch, but I've also gotten used to showering under the glow of the cellphone flashlight lol.
+I'm able to write about this now because it's gotten better, mostly. We've gotten used to the new routines since we've come back, and I've gotten better at getting the glucose readings. I've fixed the soundbar and the replacement mouse arrived yesterday. Still haven't gotten around to getting someone to look at the light switch, but I've also gotten used to showering under the glow of the cellphone flashlight so it's not too bad lol.
 
 Also, this is probably the last post/story related to the recent hospital stay for the near future, as I want to move on as well. (I may do an update a few months down the line)
