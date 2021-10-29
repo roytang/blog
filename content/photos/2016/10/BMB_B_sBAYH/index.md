@@ -2,7 +2,7 @@
 albums:
 - instagram
 date: 2016-10-26 08:22:59
-location: ''
+location: 4c6c07711fb2a143fe44fae6
 resources:
 - src: make_cross_with_laway.jpg
   title: What do you do to prevent a child from being usog? (Photo c/o Faith)
