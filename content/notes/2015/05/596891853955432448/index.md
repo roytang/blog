@@ -1,7 +1,7 @@
 ---
 checkin_id: 554d8a7a498ee258f284b522
 date: 2015-05-09 04:18:02
-locations: 4da685c10cb6ba7974d84077
+location: 4da685c10cb6ba7974d84077
 source: twitter
 syndicated:
 - type: twitter

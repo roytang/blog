@@ -1,7 +1,7 @@
 ---
 checkin_id: 53610878498e891241cb22a5
 date: 2014-04-30 14:28:08
-locations: 52ee257f11d2e95a9fcb7d6c
+location: 52ee257f11d2e95a9fcb7d6c
 source: twitter
 syndicated:
 - type: twitter

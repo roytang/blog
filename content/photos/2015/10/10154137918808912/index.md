@@ -11,7 +11,7 @@ syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/c/leNtll2raui
 checkin_id: 5618e466498ecd548e9b9e05
-locations: 4ba294bdf964a520460638e3
+location: 4ba294bdf964a520460638e3
 tags:
 - mobile-uploads
 - touristmode

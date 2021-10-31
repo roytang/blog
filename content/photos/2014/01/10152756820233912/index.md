@@ -1,6 +1,6 @@
 ---
 checkin_id: 52e9d841498e32f3958e4c7d
-locations: 4c6385efec94a593bd282cca
+location: 4c6385efec94a593bd282cca
 date: 2014-01-30 13:28:00+08:00
 source: facebook
 syndicated:

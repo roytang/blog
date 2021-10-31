@@ -12,7 +12,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/373452623161991169/
 checkin_id: 5220aabd11d2a2b974651bc7
-locations: 4b85fc23f964a5209b7c31e3
+location: 4b85fc23f964a5209b7c31e3
 ---
 
 I'm at McDonald's (Pasig City, Metro Manila) http://4sq.com/15pSbTx

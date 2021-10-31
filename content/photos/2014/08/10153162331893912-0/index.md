@@ -6,7 +6,7 @@ syndicated:
 tags:
 - mobile-uploads
 checkin_id: 53f1f198498e15d6dff8f188
-locations: 538bfc9b498e46ffbbcb8fc6
+location: 538bfc9b498e46ffbbcb8fc6
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/53f1f198498e15d6dff8f188

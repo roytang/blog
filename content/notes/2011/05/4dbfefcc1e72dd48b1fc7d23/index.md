@@ -1,7 +1,7 @@
 ---
 checkin_id: 4dbfefcc1e72dd48b1fc7d23
 date: 2011-05-03 20:06:36
-locations: 4bbbfea5ed7776b032413f51
+location: 4bbbfea5ed7776b032413f51
 source: foursquare
 syndicated:
 - type: foursquare

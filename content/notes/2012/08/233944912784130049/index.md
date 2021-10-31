@@ -1,7 +1,7 @@
 ---
 date: 2012-08-10 13:14:16
 checkin_id: 50250928e4b0f6e80c1a17a3
-locations: 4c9a063b9c663704bed754fd
+location: 4c9a063b9c663704bed754fd
 source: twitter
 syndicated:
 - type: twitter

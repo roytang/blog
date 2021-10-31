@@ -1,7 +1,7 @@
 ---
 checkin_id: 58522f4252a0511020546dfc
 date: 2016-12-15 13:50:58
-locations: 4b729e7af964a520d5802de3
+location: 4b729e7af964a520d5802de3
 source: foursquare
 syndicated:
 - type: foursquare

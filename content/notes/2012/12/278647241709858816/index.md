@@ -1,7 +1,7 @@
 ---
 checkin_id: 50c7c615e4b0b5e50440a2ed
 date: 2012-12-11 23:47:34
-locations: 4bc4c3aeabf495215c88c593
+location: 4bc4c3aeabf495215c88c593
 source: twitter
 syndicated:
 - type: twitter

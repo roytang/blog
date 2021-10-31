@@ -1,6 +1,6 @@
 ---
 checkin_id: 550d5110498eea3210a699bc
-locations: 51f7ed4d498ed09ccd6b31f4
+location: 51f7ed4d498ed09ccd6b31f4
 date: 2015-03-21 11:09:03
 source: twitter
 syndicated:

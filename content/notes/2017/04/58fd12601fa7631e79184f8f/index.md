@@ -1,7 +1,7 @@
 ---
 checkin_id: 58fd12601fa7631e79184f8f
 date: 2017-04-24 04:45:20
-locations: 5849ebc0d8f3e90bf976933f
+location: 5849ebc0d8f3e90bf976933f
 source: foursquare
 syndicated:
 - type: foursquare

@@ -1,7 +1,7 @@
 ---
 checkin_id: 5422cc10498e3f5419d92366
 date: 2014-09-24 21:50:08
-locations: 4c4aedb15609c9b6c1bc6490
+location: 4c4aedb15609c9b6c1bc6490
 source: foursquare
 syndicated:
 - type: foursquare

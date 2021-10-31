@@ -12,7 +12,7 @@ tags:
 - mobile-uploads
 - quiznight
 checkin_id: 54fc8ce5498ee62d68bfd100
-locations: 4b12a802f964a520ec8b23e3
+location: 4b12a802f964a520ec8b23e3
 ---
 
 We did not win.

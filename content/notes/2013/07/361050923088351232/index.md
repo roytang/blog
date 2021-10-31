@@ -1,7 +1,7 @@
 ---
 checkin_id: 51f38e7d498eaf571c04f5c8
 date: 2013-07-27 09:10:22
-locations: 4c91aec2238c6dcb8855c255
+location: 4c91aec2238c6dcb8855c255
 reviews:
 - description: ''
   media: movies

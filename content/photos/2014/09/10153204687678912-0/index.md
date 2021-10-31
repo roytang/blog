@@ -1,7 +1,7 @@
 ---
 checkin_id: 54085361498e0c1a63ea1471
 date: 2014-09-04 11:56:18
-locations: 4cbea79719ceb1f7f2ba1ecd
+location: 4cbea79719ceb1f7f2ba1ecd
 source: facebook
 syndicated:
 - type: twitter
