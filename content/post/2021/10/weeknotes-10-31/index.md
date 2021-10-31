@@ -1,5 +1,5 @@
 ---
-date: 2021-10-31 05:00:00
+date: 2021-10-31 09:00:00
 slug: weeknotes-2021-10-31
 syndicated:
 - type: mastodon
@@ -11,7 +11,9 @@ tags:
 - philippines
 - covid19
 title: Weeknotes 2021-10-31
-draft: true
+featuredResource:
+  photo: "/2021/10/1453293791276830733/"
+  filename: "1453293791276830733_1_FCsjABYXEAci9nH.jpg"
 ---
 
 It's the last day of October. And Halloween, I guess. If that means something to you.
@@ -36,30 +38,23 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### My stuff:
 
-- As I've mentioned, I was in the hospital for around 3 weeks starting the last weekend of September; I will probably write more about it this week.
-- I fell behind on the [sketching daily](/albums/sketchbook/) during the first couple of weeks in the hospital, but I managed to catch up once I had more time and energy. Here's Bucky the Cat from Get Fuzzy:
+- I wrote [quite a few words about our Covid hospital stay](/2021/10/covid-experience/). And then [a little bit more](/2021/10/little-things-add-up/). Hopefully I can move on now.
+- Still [sketching daily](/albums/sketchbook/), and in fact I managed to maintain the streak all week! I should finish the [Inktober 2021](/tags/inktober2021/) set by today as well. Here's the All-Spark:
 
-{{< photo "2021/10/1451194166688444420/" >}}
+{{< photo "2021/10/1453293791276830733/" >}}
 
 - **Watching:**
-    - Movies: While we did have a TV during the hospital stay, I left control of it up to my dad, and we saw repeated runs of James Bond films. The only new movie I've seen during the past month or so was [Kate](https://roytang.net/2021/10/f3cb16d7f21123133bc0506e9ddfc641/) on Netflix.
-    - TV: 
-        - Actually managed to watch the season finales for **What If** and **Ted Lasso S2** during the hospital stay. 
-            - **What If**: I'm glad that they actually made a finale where the previous episodes meant something, but the premise was kind of whack
-            - **Ted Lasso S2**: The season went in a direction I wasn't expecting, but I'm glad the finale made the sports part relevant again. Looking forward to season 3!
-        - Now that I'm back home, I've started watching **Young Justice Season 4** and the new season of **NCIS**, and also catching up on **Supergirl**
+    - Actually haven't watched much of anything this week. I'm halfway through **Dune (2021)**, will probably try to get through the rest of it this week. Started watching the new season of **The Simpsons**, something I still keep up out of habit. Actually also started watching **Saturday Night Live** eps as background watching.
 - **Gaming**:
-    - During the hospital stay, I could only play whatever games I had already installed on Steam on my Macbook Air. I ended up achievement hunting in **Slay the Spire** whenever I had free time. 
-    - Now that I'm back home, I've resumed my regular fare:
-        - Still playing the second game of **Great Ace Attorney Chronicles** and **Tales of Symphonia**. Discussion with friends made me realize I've only [finished 3 games so far this year](/lists/media/games/2021/), so hopefully I can finish these two soonish as well.
+    - The regular fare:
+        - **Great Ace Attorney Chronicles** and **Tales of Symphonia**, both ongoing and hoping I can finish them this year.
         - Daily fighting games ongoing on weeknights: **Guilty Gear Strive** and **Street Fighter V**! 
-    - Also started playing **Super Metroid** via the SNES emulator on the Switch; This is to stave off wanting to buy **Metroid Dread**, but we'll see if I can keep it up while playing all these other games too.
-    - Also trying to get back into streaming [Innistrad Midnight Hunt limited](/tags/mtgmidnight) on Arena; I managed [one draft this week](/2021/09/1440639122591268864/), it went better than I thought it would.
-    - Playing **Eternal** and **Magic Arena** again of course, though hitting master/mythic rank this month seems unlikely given how much time I've lost.
-- **Reading**: In anticipation of the upcoming PH election season, I decided to start reading **The Conjugal Dictatorship** by Primitivo Mijares. The book is challenging to read; the author is verbose and tends towards flowery prose, but at the same time each chapter is dense with information; people, places and events leading up to and during Marcos' martial law gambit. A copy of this book is [freely available online](http://rizalls.lib.admu.edu.ph:8080/ebooks2/Primitivo%20Mijares.pdf), if that's your thing.
-- We actually had an online quiz night last Friday, themed around spooky monsters (zombies, vampires, etc). We didn't do well, but we had fun and it's been a while since we've had an actual quiz night.
-- Before I got stuck in the hospital, I actually decided to pay for a year's sub to the New York Times games, which gives me access to their crossword and the archives, among others. This is mostly for the trivia team's entertainment and I decided to pay for it because the guy who was streaming the crosswords to us over Discord had terrible internet and we kept having trouble with his streams. Maybe I'll also do a chill crossword stream over Twitch one of these days.
+        - My daily card games: **Eternal** and **Magic Arena**. Been having trouble grinding in Eternal, but I did manage [to hit mythic on Arena just in the nick of time](/2021/10/1454654931336527883/)!
+        - A little bit of **Super Metroid** here and there.
+    - Streaming [Innistrad Midnight Hunt limited](/tags/mtgmidnight) is done. This week, previews for the next set, **Innistrad: Crimson Vow**. have kicked off.
+- **Reading**: Still reading **The Conjugal Dictatorship** by Primitivo Mijares. Slow and steady; I suspect I can finish it this week, if not the next.
+- Trivia team: still bereft of quiz nights, we are just enjoying crosswords on the regular.
 
 ### This coming week:
 
-Last week of October! I really just want to get back into all my routines and clear my backlogs and do all the tasks on my personal to-do list and to not have to worry about everything.
+- I believe **Eternals** is coming out this week, but since we still don't have cinemas (or maybe we do and I'm not willing to go), it may be a while before I can watch it. Might be able to see **Shang Chi** in a couple of weeks though!

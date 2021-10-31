@@ -1,6 +1,8 @@
 ---
 date: 2021-10-24 07:03:16
-featuredImage: https://roytang.net/media/content/notes/2021/10/1451194166688444420/1451194166688444420_1_FCOtZvtUcAgA7e1.jpg
+featuredResource:
+  photo: "/2021/10/1451194166688444420/"
+  filename: "1451194166688444420_1_FCOtZvtUcAgA7e1.jpg"
 slug: weeknotes-2021-10-24
 syndicated:
 - type: mastodon

@@ -1,6 +1,8 @@
 ---
 date: 2021-07-07 01:19:40
-featuredImage: https://roytang.net/media/content/photos/2009/12/281590937/281590937.jpg
+featuredResource:
+  photo: "/2009/12/281590937/"
+  filename: "281590937.jpg"
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/106536932093376535

@@ -1,6 +1,8 @@
 ---
 date: 2021-08-29 03:29:33
-featuredImage: https://roytang.net/media/content/notes/2021/08/1430236159586619395/1430236159586619395_1_E9k4M1FVUAEY8xi.jpg
+featuredResource:
+  photo: "/2021/08/1430236159586619395/"
+  filename: "1430236159586619395_1_E9k4M1FVUAEY8xi.jpg"
 slug: weeknotes-2021-08-29
 syndicated:
 - type: mastodon
