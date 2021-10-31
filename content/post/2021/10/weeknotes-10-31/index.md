@@ -1,14 +1,19 @@
 ---
 date: 2021-10-31 09:00:00
+featuredResource:
+  filename: 1453293791276830733_1_FCsjABYXEAci9nH.jpg
+  photo: /2021/10/1453293791276830733/
 slug: weeknotes-2021-10-31
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107195419396753349
+- type: twitter
+  url: https://twitter.com/roytang/status/1454741154533031936/
 tags:
 - weeknotes
 - philippines
 - covid19
 title: Weeknotes 2021-10-31
-featuredResource:
-  photo: "/2021/10/1453293791276830733/"
-  filename: "1453293791276830733_1_FCsjABYXEAci9nH.jpg"
 ---
 
 It's the last day of October. And Halloween, I guess. If that means something to you.
