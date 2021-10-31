@@ -6,6 +6,7 @@ tags:
 - philippines
 - covid19
 title: Weeknotes 2021-10-31
+draft: true
 ---
 
 It's the last day of October. And Halloween, I guess. If that means something to you.
