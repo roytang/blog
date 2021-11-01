@@ -1,5 +1,5 @@
 ---
-date: 2018-07-04 23:23:00
+date: 2018-07-04 23:23:00+08:00
 reviews:
 - description: Spoiler-free review
   media: movies

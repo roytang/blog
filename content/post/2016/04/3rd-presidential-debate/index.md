@@ -1,10 +1,5 @@
 ---
-title: "3rd Presidential Debate"
-date: 2016-04-24 19:17:00
-tags:
-- halalan2016
-- philippines
-- PiliPinasDebates2016
+date: 2016-04-24 19:17:00+08:00
 source: facebook
 syndicated:
 - type: twitter
@@ -29,7 +24,11 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154556126523912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154556456788912
-
+tags:
+- halalan2016
+- philippines
+- PiliPinasDebates2016
+title: 3rd Presidential Debate
 ---
 
 Commentary thread for 3rd presidential debate (consolidated).

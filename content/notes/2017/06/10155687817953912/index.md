@@ -1,16 +1,16 @@
 ---
-date: 2017-06-06 00:42:00
+date: 2017-06-06 00:42:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Wonder Woman (2017)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155687817953912
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Wonder Woman (2017)"
-  description: Spoiler-free review
 ---
 
 Wonder Woman spoiler-free review:

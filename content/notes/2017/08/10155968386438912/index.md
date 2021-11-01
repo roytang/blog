@@ -1,10 +1,10 @@
 ---
-date: 2017-08-20 23:35:00
+date: 2017-08-20 23:35:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155968386438912
-tags: 
+tags:
 - quotes
 - poetry
 ---

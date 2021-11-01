@@ -1,5 +1,5 @@
 ---
-date: 2015-03-31 06:49:00
+date: 2015-03-31 06:49:00+08:00
 source: facebook
 syndicated:
 - type: facebook
@@ -12,4 +12,4 @@ tags:
 
 I am liking this new lock screen
 
-[2015-04-19 03:04:31+00:00] @atlususa check out my lock screen 
+[2015-04-19 03:04:31+00:00] @atlususa check out my lock screen

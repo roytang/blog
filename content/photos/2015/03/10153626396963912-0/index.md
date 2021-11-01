@@ -1,7 +1,7 @@
 ---
 albums:
 - food
-date: 2015-03-10 22:45:00
+date: 2015-03-10 22:45:00+08:00
 source: facebook
 syndicated:
 - type: facebook

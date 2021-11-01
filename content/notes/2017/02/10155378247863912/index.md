@@ -1,16 +1,16 @@
 ---
-date: 2017-02-18 23:57:00
+date: 2017-02-18 23:57:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Arrival (2017)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155378247863912
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Arrival (2017)"
-  description: Spoiler-free review
 ---
 
 Arrival spoiler-free review:

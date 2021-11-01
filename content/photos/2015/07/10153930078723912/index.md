@@ -1,7 +1,7 @@
 ---
 albums:
 - pickups
-date: 2015-07-07 22:41:00
+date: 2015-07-07 22:41:00+08:00
 source: facebook
 syndicated:
 - type: facebook

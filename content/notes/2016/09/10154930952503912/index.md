@@ -1,8 +1,8 @@
 ---
-date: 2016-09-23 00:37:00
+date: 2016-09-23 00:37:00+08:00
 repost_source:
-  name: Richard Garfield
   author_url: https://www.facebook.com/Richard-Garfield-147420095374222
+  name: Richard Garfield
   type: facebook
   url: https://www.facebook.com/notes/richard-garfield/a-game-players-manifesto/1049168888532667/
 source: facebook

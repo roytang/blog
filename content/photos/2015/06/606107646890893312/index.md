@@ -1,5 +1,5 @@
 ---
-date: 2015-06-03 14:38:18
+date: 2015-06-03 14:38:18+08:00
 source: facebook
 syndicated:
 - type: twitter

@@ -1,10 +1,10 @@
 ---
-date: 2016-04-29 23:21:00
+date: 2016-04-29 23:21:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154566516283912
-tags: 
+tags:
 - halalan2016
 ---
 

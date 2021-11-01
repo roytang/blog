@@ -1,5 +1,5 @@
 ---
-date: 2014-11-22 16:56:00
+date: 2014-11-22 16:56:00+08:00
 reviews:
 - media: games
   title: 'Dragon Age: Inquisition (PS4)'

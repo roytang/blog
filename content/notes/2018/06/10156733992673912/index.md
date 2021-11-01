@@ -1,5 +1,5 @@
 ---
-date: 2018-06-27 22:45:00
+date: 2018-06-27 22:45:00+08:00
 source: facebook
 syndicated:
 - type: facebook

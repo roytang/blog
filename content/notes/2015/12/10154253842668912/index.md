@@ -1,16 +1,16 @@
 ---
-date: 2015-12-18 00:50:00
+date: 2015-12-18 00:50:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: 'Star Wars Episode VII: The Force Awakens (2017)'
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154253842668912
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Star Wars Episode VII: The Force Awakens (2017)"
-  description: Spoiler-free review
 ---
 
 As is tradition, my spoiler-free review of The Force Awakens: 

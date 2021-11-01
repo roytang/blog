@@ -1,10 +1,10 @@
 ---
-date: 2009-08-11 23:25:00
+date: 2009-08-11 23:25:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/114528894915
-tags: 
+tags:
 - quotes
 ---
 

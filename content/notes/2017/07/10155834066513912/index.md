@@ -1,18 +1,18 @@
 ---
-date: 2017-07-07 17:46:00
+date: 2017-07-07 17:46:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: 'Spider-Man: Homecoming (2017)'
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155834066513912
 - type: twitter
   url: https://twitter.com/roytang/statuses/883253571059294209/
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Spider-Man: Homecoming (2017)"
-  description: Spoiler-free review
 ---
 
 Spider-man Homecoming Spoiler-free review:

@@ -1,5 +1,5 @@
 ---
-date: 2014-04-09 01:54:00
+date: 2014-04-09 01:54:00+08:00
 source: facebook
 syndicated:
 - type: facebook

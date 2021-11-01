@@ -1,7 +1,7 @@
 ---
 albums:
 - gaming
-date: 2017-02-03 21:20:00
+date: 2017-02-03 21:20:00+08:00
 source: facebook
 syndicated:
 - type: facebook

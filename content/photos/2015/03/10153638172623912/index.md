@@ -1,5 +1,5 @@
 ---
-date: 2015-03-16 00:11:00
+date: 2015-03-16 00:11:00+08:00
 resources:
 - src: 11068404_10153638197398912_3795358464861328112_n_10153638197398912.jpg
   title: The Mona Lisa and far too many people

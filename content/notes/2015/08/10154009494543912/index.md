@@ -1,5 +1,5 @@
 ---
-date: 2015-08-12 01:36:00
+date: 2015-08-12 01:36:00+08:00
 source: facebook
 syndicated:
 - type: facebook

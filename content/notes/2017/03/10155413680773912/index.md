@@ -1,16 +1,16 @@
 ---
-date: 2017-03-04 15:47:00
+date: 2017-03-04 15:47:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Logan (2017)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155413680773912
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Logan (2017)"
-  description: Spoiler-free review
 ---
 
 Right. I watched Logan yesterday.

@@ -1,5 +1,5 @@
 ---
-date: 2014-11-01 07:12:00
+date: 2014-11-01 07:12:00+08:00
 reviews:
 - media: movies
   title: 'Transformers: Age of Extinction (2014)'

@@ -2,7 +2,7 @@
 albums:
 - timeline
 - sketchbook
-date: 2011-05-03 07:56:00
+date: 2011-05-03 07:56:00+08:00
 source: facebook
 syndicated:
 - type: facebook

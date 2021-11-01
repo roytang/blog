@@ -1,5 +1,9 @@
 ---
-date: 2018-10-13 19:56:00
+date: 2018-10-13 19:56:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Venom (2018)
 source: facebook
 syndicated:
 - type: facebook
@@ -12,10 +16,6 @@ tags:
 - ireadcomicbooks
 - spoiler-free-review
 - movies
-reviews:
-- media: movies
-  title: "Venom (2018)"
-  description: Spoiler-free review
 ---
 
 VENOM spoiler-free review:

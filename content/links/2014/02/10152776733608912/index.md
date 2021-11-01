@@ -1,5 +1,5 @@
 ---
-date: 2014-02-09 21:05:00+00:00
+date: 2014-02-09 21:05:00+08:00
 link:
   source: facebook
   source_url: https://www.facebook.com/stephen.roy.tang/posts/10152776733608912

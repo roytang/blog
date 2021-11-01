@@ -1,12 +1,12 @@
 ---
-date: 2016-05-04 13:38:00
+date: 2016-05-04 13:38:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154576312758912
 - type: reddit
   url: https://reddit.com/r/Philippines/comments/4ht7jh/survey_for_duterte_supporters/
-tags: 
+tags:
 - halalan2016
 ---
 

@@ -1,12 +1,12 @@
 ---
-date: 2017-03-01 22:29:00
+date: 2017-03-01 22:29:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155406222923912
 - type: twitter
-  url: https://twitter.com/roytang/statuses/836948176712028160/  
-tags: 
+  url: https://twitter.com/roytang/statuses/836948176712028160/
+tags:
 - philippines
 ---
 

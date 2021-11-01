@@ -1,10 +1,10 @@
 ---
-date: 2014-09-11 14:27:00
+date: 2014-09-11 14:27:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153219009468912
-tags: 
+tags:
 - books
 ---
 

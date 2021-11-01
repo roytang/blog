@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2011-03-12 23:01:00
+date: 2011-03-12 23:01:00+08:00
 source: facebook
 syndicated:
 - type: facebook

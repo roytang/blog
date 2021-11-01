@@ -1,5 +1,5 @@
 ---
-date: 2015-03-13 01:37:00
+date: 2015-03-13 01:37:00+08:00
 resources:
 - src: 10906065_10153631216968912_935736515966507621_n_10153631216968912.jpg
   title: Parroquis de Reina Maria. They apparently had the only English language mass

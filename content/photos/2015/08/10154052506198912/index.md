@@ -1,7 +1,7 @@
 ---
 checkin_id: 55e2e15d498e0c6b26d6f3d4
+date: 2015-08-31 03:30:00+08:00
 location: 4ac518cdf964a520e8a520e3
-date: 2015-08-31 03:30:00
 resources:
 - src: 11954717_10154052506398912_5547546899349800474_n_10154052506398912.jpg
   title: Stegasauros/Snarl
@@ -53,15 +53,12 @@ resources:
   title: That's a terrible looking mouse lol
 source: facebook
 syndicated:
-- type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10154052506198912
+- type: foursquare
+  url: https://www.swarmapp.com/roytang/checkin/55e2e15d498e0c6b26d6f3d4
 tags:
 - travels
 - london2015
 title: Museum of Natural History
-syndicated:
-- type: foursquare
-  url: https://www.swarmapp.com/roytang/checkin/55e2e15d498e0c6b26d6f3d4
 ---
 
 Museum of Natural History

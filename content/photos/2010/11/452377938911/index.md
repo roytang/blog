@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2010-11-10 00:15:00
+date: 2010-11-10 00:15:00+08:00
 source: facebook
 syndicated:
 - type: facebook

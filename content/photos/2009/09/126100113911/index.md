@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2009-09-05 22:15:00
+date: 2009-09-05 22:15:00+08:00
 source: facebook
 syndicated:
 - type: facebook

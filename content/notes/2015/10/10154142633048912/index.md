@@ -1,15 +1,15 @@
 ---
-date: 2015-10-14 06:19:00
+date: 2015-10-14 06:19:00+08:00
+reviews:
+- media: movies
+  title: The Martian (2015)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154142633048912
-tags: 
+tags:
 - software development
 - movies
-reviews:
-- media: movies
-  title: "The Martian (2015)" 
 ---
 
 Things software development projects can learn from "The Martian" (maybe spoilers lol): 

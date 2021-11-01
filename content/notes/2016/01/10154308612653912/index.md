@@ -1,11 +1,11 @@
 ---
-date: 2016-01-12 13:28:00
+date: 2016-01-12 13:28:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154308612653912
 - type: twitter
-  url: https://twitter.com/roytang/statuses/686781930331705344/  
+  url: https://twitter.com/roytang/statuses/686781930331705344/
 tags: []
 ---
 

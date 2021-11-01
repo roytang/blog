@@ -1,5 +1,8 @@
 ---
-date: 2014-07-08 20:35:00
+albums:
+- gaming
+- pickups
+date: 2014-07-08 20:35:00+08:00
 source: facebook
 syndicated:
 - type: facebook
@@ -9,9 +12,6 @@ tags:
 - impulsebuy
 - pickups
 - gaming
-albums:
-- gaming
-- pickups
 ---
 
 Almost 2 decades after our last Nintendo console... #impulsebuy

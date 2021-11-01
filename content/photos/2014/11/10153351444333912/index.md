@@ -1,7 +1,7 @@
 ---
 albums:
 - pickups
-date: 2014-11-11 21:08:00
+date: 2014-11-11 21:08:00+08:00
 source: facebook
 syndicated:
 - type: facebook

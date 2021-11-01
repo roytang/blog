@@ -1,5 +1,5 @@
 ---
-date: 2018-10-23 08:47:00
+date: 2018-10-23 08:47:00+08:00
 reviews:
 - description: Spoiler-free review
   media: tv

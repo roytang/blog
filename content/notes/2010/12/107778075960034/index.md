@@ -1,5 +1,5 @@
 ---
-date: 2010-12-03 08:14:00
+date: 2010-12-03 08:14:00+08:00
 source: facebook
 syndicated:
 - type: facebook

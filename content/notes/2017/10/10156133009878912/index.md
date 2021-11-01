@@ -1,16 +1,16 @@
 ---
-date: 2017-10-24 22:34:00
+date: 2017-10-24 22:34:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Thor Ragnarok (2017)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156133009878912
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Thor Ragnarok (2017)"
-  description: Spoiler-free review
 ---
 
 THOR RAGNAROK spoiler-free review:

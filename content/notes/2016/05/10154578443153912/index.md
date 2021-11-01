@@ -1,12 +1,12 @@
 ---
-date: 2016-05-05 13:21:00
+date: 2016-05-05 13:21:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154578443153912
 - type: twitter
   url: https://twitter.com/roytang/statuses/728092224508952576/
-tags: 
+tags:
 - halalan2016
 ---
 

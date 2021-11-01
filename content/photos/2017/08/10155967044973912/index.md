@@ -1,7 +1,11 @@
 ---
 albums:
 - timeline
-date: 2017-08-20 09:04:00
+date: 2017-08-20 09:04:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: tv
+  title: Defenders
 source: facebook
 syndicated:
 - type: facebook
@@ -10,10 +14,6 @@ tags:
 - timeline-photos
 - tv
 - spoiler-free-review
-reviews:
-- media: tv
-  title: "Defenders"
-  description: Spoiler-free review
 ---
 
 DEFENDERS spoiler-free review and episode guide:

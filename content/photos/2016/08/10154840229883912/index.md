@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-08-21 21:23:00
+date: 2016-08-21 21:23:00+08:00
 source: facebook
 syndicated:
 - type: facebook

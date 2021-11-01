@@ -1,16 +1,16 @@
 ---
-date: 2014-11-18 00:16:00
+date: 2014-11-18 00:16:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Big Hero 6 (2014)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153362647548912
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Big Hero 6 (2014)"
-  description: Spoiler-free review
 ---
 
 Big Hero 6 spoiler-free review: Fun, light-hearted feel-good romp. Lots of good physical comedy with Baymax. Predictable plot (hey, it's a kid's movie, k?). There is a post-credits scene for some reason.

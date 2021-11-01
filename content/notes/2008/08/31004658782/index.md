@@ -1,5 +1,5 @@
 ---
-date: 2008-08-18 20:11:00
+date: 2008-08-18 20:11:00+08:00
 source: facebook
 syndicated:
 - type: facebook

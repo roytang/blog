@@ -1,16 +1,16 @@
 ---
-date: 2016-10-01 22:16:00
+date: 2016-10-01 22:16:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: tv
+  title: Luke Cage season 1
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154956006193912
-tags: 
+tags:
 - tv
 - spoiler-free-review
-reviews:
-- media: tv
-  title: "Luke Cage season 1"
-  description: Spoiler-free review
 ---
 
 Luke Cage spoiler-free review:

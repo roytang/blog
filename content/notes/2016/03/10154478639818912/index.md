@@ -1,16 +1,16 @@
 ---
-date: 2016-03-26 15:03:00
+date: 2016-03-26 15:03:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: 'Batman v Superman: Dawn of Justice (2016)'
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154478639818912
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Batman v Superman: Dawn of Justice (2016)"
-  description: Spoiler-free review
 ---
 
 Batman vs Superman Dawn of Justice Spoiler-Free Review: 

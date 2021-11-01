@@ -2,7 +2,7 @@
 albums:
 - timeline
 - food
-date: 2011-07-24 21:04:00
+date: 2011-07-24 21:04:00+08:00
 source: facebook
 syndicated:
 - type: facebook

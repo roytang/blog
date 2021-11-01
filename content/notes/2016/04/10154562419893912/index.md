@@ -1,16 +1,16 @@
 ---
-date: 2016-04-27 23:00:00
+date: 2016-04-27 23:00:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: 'Captain America: Civil War (2016)'
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154562419893912
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Captain America: Civil War (2016)"
-  description: Spoiler-free review
 ---
 
 Captain America Civil War spoiler-free review:

@@ -1,8 +1,8 @@
 ---
-date: 2016-09-23 07:27:00
+date: 2016-09-23 07:27:00+08:00
 repost_source:
-  name: Maoi Arroyo
   author_url: https://www.facebook.com/maoi.arroyo
+  name: Maoi Arroyo
   type: facebook
   url: https://www.facebook.com/photo.php?fbid=10209441737794393
 source: facebook

@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-02-05 13:04:00
+date: 2016-02-05 13:04:00+08:00
 source: facebook
 syndicated:
 - type: facebook

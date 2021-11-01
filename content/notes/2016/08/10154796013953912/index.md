@@ -1,16 +1,16 @@
 ---
-date: 2016-08-04 18:45:00
+date: 2016-08-04 18:45:00+08:00
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Suicide Squad (2016)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154796013953912
-tags: 
+tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Suicide Squad (2016)"
-  description: Spoiler-free review
 ---
 
 SUICIDE SQUAD Spoiler-Free Review:

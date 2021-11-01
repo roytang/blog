@@ -1,5 +1,5 @@
 ---
-date: 2015-08-24 05:02:00
+date: 2015-08-24 05:02:00+08:00
 resources:
 - src: 11940434_10154037353488912_8429346101057157655_n_10154037353488912.jpg
   title: The Lewis chessmen, supposedly the most well known chess set in the world.

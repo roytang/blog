@@ -1,14 +1,14 @@
 ---
-date: 2016-05-25 14:30:00
+date: 2016-05-25 14:30:00+08:00
+reviews:
+- media: movies
+  title: Warcraft (2016)
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154623406818912
-tags: 
+tags:
 - movies
-reviews:
-- media: movies
-  title: "Warcraft (2016)"  
 ---
 
 Warcraft movie review:

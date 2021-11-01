@@ -1,13 +1,13 @@
 ---
-date: 2014-08-24 20:13:00
+albums:
+- food
+date: 2014-08-24 20:13:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153175253238912:0
 tags:
 - mobile-uploads
-albums:
-- food
 ---
 
 Thanks [Lizbeth Jane Garcia](https://www.facebook.com/100000039030121)!

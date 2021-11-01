@@ -1,10 +1,10 @@
 ---
-date: 2016-12-27 00:57:00
+date: 2016-12-27 00:57:00+08:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155222048823912
-tags: 
+tags:
 - tv
 ---
 
