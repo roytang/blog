@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/6285914387/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/213801487526
+tags:
+- puns
 ---
 
 An SQL Query walks into a bar and talks to two tables: "Can I join you?"
