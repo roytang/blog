@@ -1,5 +1,5 @@
 ---
-date: 2011-12-07 16:01:59+00:00
+date: 2011-12-07 16:01:59
 reply_to:
   label: switchfollows's tweet
   name: switchfollows
@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/144446566432907264/
+tags:
+- switchfollows
 ---
 
 [@switchfollows](https://twitter.com/switchfollows/) hm ok lang. kelan kayo andito?

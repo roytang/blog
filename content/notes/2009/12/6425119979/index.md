@@ -1,5 +1,5 @@
 ---
-date: 2009-12-07 07:56:15+00:00
+date: 2009-12-07 07:56:15
 reply_to:
   label: mtgsalivanth's tweet
   name: mtgsalivanth
@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/statuses/6425119979/
 tags:
 - mtg
+- mtgsalivanth
 ---
 
 [@mtgsalivanth](https://twitter.com/mtgsalivanth/) was thinking of Lapse of Certainty in the board, to stop Wrath/Time Walk. (Multiple accts confusing!)

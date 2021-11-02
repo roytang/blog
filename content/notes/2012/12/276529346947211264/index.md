@@ -1,5 +1,5 @@
 ---
-date: 2012-12-06 03:31:48+00:00
+date: 2012-12-06 03:31:48
 reply_to:
   label: karlocatapang's tweet
   name: karlocatapang
@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/276529346947211264/
+tags:
+- karlocatapang
 ---
 
 [@karlocatapang](https://twitter.com/karlocatapang/) quiz night at amici greenhills mamaya, want to join?

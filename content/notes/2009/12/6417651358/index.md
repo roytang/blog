@@ -1,5 +1,5 @@
 ---
-date: 2009-12-07 02:05:11+00:00
+date: 2009-12-07 02:05:11
 reply_to:
   label: mturian's tweet
   name: mturian
@@ -12,6 +12,7 @@ syndicated:
 tags:
 - wwk
 - mtg
+- mturian
 ---
 
 [@mturian](https://twitter.com/mturian/)  #WWK do it now!
