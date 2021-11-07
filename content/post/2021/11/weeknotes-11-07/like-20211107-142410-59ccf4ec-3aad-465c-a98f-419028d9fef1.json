@@ -1,0 +1,27 @@
+{
+  "id": "59ccf4ec-3aad-465c-a98f-419028d9fef1",
+  "name": "Flarnie",
+  "url": "https://mastodon.technology/@Flarnie",
+  "text": "[Flarnie](https://mastodon.technology/@Flarnie) [liked this](https://mastodon.technology/@roytang/107235371508383984#favorited-by-107049359476778678)",
+  "date": "2021-11-07 14:24:10",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107235371508383984#favorited-by-107049359476778678",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flarnie",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+      "url": "https://mastodon.technology/@Flarnie"
+    },
+    "url": "https://mastodon.technology/@roytang/107235371508383984#favorited-by-107049359476778678",
+    "published": null,
+    "wm-received": "2021-11-07T14:24:10Z",
+    "wm-id": 1300750,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107235371508383984/107049359476778678",
+    "wm-target": "https://roytang.net/2021/11/weeknotes-11-07/",
+    "like-of": "https://roytang.net/2021/11/weeknotes-11-07/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
