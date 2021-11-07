@@ -1,8 +1,13 @@
 ---
+date: 2021-11-07 09:30:00
 featuredResource:
   filename: 1455907869543387142_1_FDRsd9IUUA02_0u.jpg
   photo: /2021/11/1455907869543387142/
-date: 2021-11-07T17:30:00+08:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107235371508383984
+- type: twitter
+  url: https://twitter.com/roytang/status/1457298088448573441/
 tags:
 - weeknotes
 - philippines
