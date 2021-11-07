@@ -8,7 +8,6 @@ tags:
 - philippines
 - covid19
 title: Weeknotes 2021-11-07
-draft: true
 ---
 
 It's November, which means we are that much closer to a second Christmas under the shadow of the Covid-19 pandemic.
