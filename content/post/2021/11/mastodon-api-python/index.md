@@ -1,10 +1,5 @@
 ---
 date: 2021-11-08 11:49:07
-syndicated:
-- type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107241331374399672
-- type: twitter
-  url: https://twitter.com/roytang/status/1457679520991903748/
 tags:
 - tech life
 - software development
