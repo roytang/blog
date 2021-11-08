@@ -21,5 +21,7 @@ title: Sketchdaily catchup Nov 8
 #sketchdaily catchup doodles:
 
 Nov 5: Claws 309/365
+
 Nov 6: Hermit Crab 310/365
+
 Nov 7: Mountain Goat 311/365
