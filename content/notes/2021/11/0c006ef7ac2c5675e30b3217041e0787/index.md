@@ -13,6 +13,12 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107240711318872396
 - type: twitter
   url: https://twitter.com/roytang/status/1457639852401315848/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qolhym/november_7th_rabid_saytr/hjsbev1/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qnwflm/november_6th_hermit_crab/hjsbekf/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qn6xs6/november_5th_free_draw_friday/hjsbean/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Nov 8
