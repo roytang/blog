@@ -1,5 +1,5 @@
 ---
-date: 2018-12-11 00:04:24+00:00
+date: 2018-12-11 00:04:24
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - elseworlds
 - dctv
+- arrowverse
 title: ''
 ---
 

@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1204666441909202944/
 tags:
 - CrisisOfInfiniteEarths
+- arrowverse
 ---
 
 No spoilers, but the #CrisisOfInfiniteEarths cliffhanger was amazing. The only problem now is we have to wait one month for the back half lol
