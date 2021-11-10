@@ -1,0 +1,31 @@
+{
+  "id": "ec02b93e-cb0b-4401-b808-1f6528ab31ec",
+  "name": "Marnielle Estrada",
+  "url": "https://twitter.com/MarnelEstrada",
+  "text": "Naalala ko yung story ng isang guy na tumakas papuntang Hong Kong tapos siya lang yung sakay.\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+  "date": "2021-11-10 14:28:06",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/704c57a74399b40a10b683e864742010e72faf850c7a8472c4a58d09ce8dfa10.jpg",
+  "source_url": "https://twitter.com/MarnelEstrada/status/1458441341109608449",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Marnielle Estrada",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/704c57a74399b40a10b683e864742010e72faf850c7a8472c4a58d09ce8dfa10.jpg",
+      "url": "https://twitter.com/MarnelEstrada"
+    },
+    "url": "https://twitter.com/MarnelEstrada/status/1458441341109608449",
+    "published": "2021-11-10T14:28:06+00:00",
+    "wm-received": "2021-11-10T17:00:38Z",
+    "wm-id": 1303297,
+    "wm-source": "https://brid.gy/comment/twitter/roytang/1458440364033859590/1458441341109608449",
+    "wm-target": "https://roytang.net/2021/11/conjugal-dictatorship/",
+    "content": {
+      "html": "Naalala ko yung story ng isang guy na tumakas papuntang Hong Kong tapos siya lang yung sakay.\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/roytang\"></a>",
+      "text": "Naalala ko yung story ng isang guy na tumakas papuntang Hong Kong tapos siya lang yung sakay."
+    },
+    "in-reply-to": "https://roytang.net/2021/11/conjugal-dictatorship/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
