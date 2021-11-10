@@ -1,13 +1,20 @@
 ---
-title: "Books: The Conjugal Dictatorship of Ferdinand Marcos and Imelda Marcos by Primitivo Mijares"
-date: 2021-11-10T21:38:56+08:00
+date: 2021-11-10 13:38:56
+reviews:
+- media: books
+  title: The Conjugal Dictatorship of Ferdinand Marcos and Imelda Marcos by Primitivo
+    Mijares
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107253219534351917
+- type: twitter
+  url: https://twitter.com/roytang/status/1458440364033859590/
 tags:
 - books
 - philippines
 - marcos
-reviews:
-- media: books
-  title: The Conjugal Dictatorship of Ferdinand Marcos and Imelda Marcos by Primitivo Mijares
+title: 'Books: The Conjugal Dictatorship of Ferdinand Marcos and Imelda Marcos by
+  Primitivo Mijares'
 ---
 
 When the son of the dictator announced he was running for the highest office in the country, I decided to add this book to this year's reading list. The reason was to be better informed about what life was like during the early years of Marcos' martial law regime and in the years leading up to it. The Marcos reign was a dark chapter in our nation's history and reading about it and knowing more about it can help us fight back against the forces that want to revise that history to make themselves look better, all for the sake of political power.
@@ -23,4 +30,3 @@ The content would actually be quite useful for educating future generations abou
 In the spirit of fairness, I read up a bit on the author and the book. The [Wikipedia entry](https://en.wikipedia.org/wiki/Conjugal_dictatorship) mentions that some of the claims in the book have been contested, though none categorically so. Nonetheless, even if only half or even less of what Mijares writes about turns out to be true, it still paints a dire picture of a man, or actually a couple, hell bent on plundering this country and staying in power for their own personal gain.
 
 If you want to read this book, a [copy is freely available online](http://rizalls.lib.admu.edu.ph:8080/ebooks2/Primitivo%20Mijares.pdf). My only regret is that I used the iPad Books app to read it and not the Kindle app; the books app doesn't seem to have any easy way for me to export the passages I've highlighted from the text.
-
