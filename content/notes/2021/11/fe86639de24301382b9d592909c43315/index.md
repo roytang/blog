@@ -11,6 +11,10 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107253369619621504
 - type: twitter
   url: https://twitter.com/roytang/status/1458449973482188804/
+- type: reddit
+  url: https://www.reddit.com/r/Dachshund/comments/qlt2sa/want_a_chance_for_your_dachshund_to_be_drawn_by/hk2pmkw/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qpafy5/november_8th_rdachshund/hk2pcjt/
 tags:
 - sketchdaily
 title: ''
