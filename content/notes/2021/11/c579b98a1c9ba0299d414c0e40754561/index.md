@@ -15,6 +15,12 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107258670967920303
 - type: twitter
   url: https://twitter.com/roytang/status/1458789277001650181/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qrhyej/november_11th_turtles/hk77x4x/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qqqzzj/november_10th_dumplings/hk77wof/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qq0fpb/november_9th_cryptids/hk77w6s/
 tags:
 - sketchdaily
 title: ''
