@@ -1,5 +1,9 @@
 ---
 date: 2021-03-05 13:59:55
+reviews:
+- description: Spoiler-free review
+  media: tv
+  title: Wandavision
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1367838446480285697/
@@ -11,11 +15,8 @@ tags:
 - tv
 - comicbooks
 - spoiler-free-review
+- mcu
 title: Wandavision Spoiler-free Review
-reviews:
-- media: tv
-  title: "Wandavision"
-  description: Spoiler-free review
 ---
 
 #WandaVision spoiler-free review: 

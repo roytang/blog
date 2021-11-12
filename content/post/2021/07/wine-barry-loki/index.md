@@ -18,6 +18,7 @@ tags:
 - movies
 - watching-lately
 - jamesbond
+- mcu
 title: 'Reviews: The World is Not Enough, Barry season 1, Loki'
 ---
 
