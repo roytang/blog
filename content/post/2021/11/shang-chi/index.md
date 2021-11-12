@@ -1,13 +1,18 @@
 ---
-title: "Shang-Chi and the Legend of the Ten Rings (2021)"
-date: 2021-11-12T23:04:32+08:00
+date: 2021-11-12 15:04:32
 reviews:
 - media: movies
   rating: 4.0
   title: Shang-Chi and the Legend of the Ten Rings (2021)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107264836071280017
+- type: twitter
+  url: https://twitter.com/roytang/status/1459183820368875524/
 tags:
 - movies
 - mcu
+title: Shang-Chi and the Legend of the Ten Rings (2021)
 ---
 
 Shang-Chi finally came out on BR/D+, so I got to watch it at last. 
