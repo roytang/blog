@@ -1,11 +1,11 @@
 ---
 date: 2021-11-12 14:54:00.120169
 resources:
-- src: vow_sealed01.png
+- src: 1_vow_sealed01.png
   title: Sealed pool rares
-- src: vow_sealed01_deck.png
+- src: 2_vow_sealed01_deck.png
   title: Sealed deck
-- src: vow_sealed01_result.png
+- src: 3_vow_sealed01_result.png
   title: Sealed event result
 source: form
 syndicated:
