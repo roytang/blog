@@ -29,7 +29,9 @@ title: ''
 #sketchdaily catchup doodles!
 
 Nov 09 Hunting Cryptids 313/365
+
 Nov 10 Sushi Chef 314/365
+
 Nov 11 Turtle Power 315/365
 
 Temporarily back to my pen and tiny pad.
