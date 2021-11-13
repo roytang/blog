@@ -1,0 +1,27 @@
+{
+  "id": "a7139c09-8c70-47d3-8fe8-84d23f08d619",
+  "name": "PH Murder Stories \ud83d\udd2a",
+  "url": "https://twitter.com/phmurderstories",
+  "text": "[PH Murder Stories \ud83d\udd2a](https://twitter.com/phmurderstories) [liked this](https://twitter.com/roytang/status/1458440364033859590#favorited-by-1297564032732340228)",
+  "date": "2021-11-13 06:59:17",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/d74bce89bb11b634b7e1f9a1b1d32c87e4dd06ebf996ec63bc2a7b1adedd1984.jpg",
+  "source_url": "https://twitter.com/roytang/status/1458440364033859590#favorited-by-1297564032732340228/",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "PH Murder Stories \ud83d\udd2a",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/d74bce89bb11b634b7e1f9a1b1d32c87e4dd06ebf996ec63bc2a7b1adedd1984.jpg",
+      "url": "https://twitter.com/phmurderstories"
+    },
+    "url": "https://twitter.com/roytang/status/1458440364033859590#favorited-by-1297564032732340228",
+    "published": null,
+    "wm-received": "2021-11-13T06:59:17Z",
+    "wm-id": 1304559,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1458440364033859590/1297564032732340228",
+    "wm-target": "https://roytang.net/2021/11/conjugal-dictatorship/",
+    "like-of": "https://roytang.net/2021/11/conjugal-dictatorship/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
