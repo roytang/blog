@@ -1,0 +1,31 @@
+{
+  "id": "0f62619b-0013-4a23-9b40-4324a565b598",
+  "name": "Flarnie",
+  "url": "https://mastodon.technology/@Flarnie",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I like that quote you shared from Feynman.</p>",
+  "date": "2021-11-14 13:57:12",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+  "source_url": "https://mastodon.technology/@Flarnie/107275762559527628",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flarnie",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+      "url": "https://mastodon.technology/@Flarnie"
+    },
+    "url": "https://mastodon.technology/@Flarnie/107275762559527628",
+    "published": "2021-11-14T13:57:12",
+    "wm-received": "2021-11-14T14:05:10Z",
+    "wm-id": 1304835,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107274931034165035/107275762559527628",
+    "wm-target": "https://roytang.net/2021/11/weeknotes-11-14/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I like that quote you shared from Feynman.</p>",
+      "text": "@roytang I like that quote you shared from Feynman."
+    },
+    "in-reply-to": "https://roytang.net/2021/11/weeknotes-11-14/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

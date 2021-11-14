@@ -1,8 +1,13 @@
 ---
-date: 2021-11-14T15:54:57+08:00
+date: 2021-11-14 07:54:57
 featuredResource:
   filename: 2021-11-08-dog-blanket
   photo: /2021/11/fe86639de24301382b9d592909c43315/
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107274931034165035
+- type: twitter
+  url: https://twitter.com/roytang/status/1459829898365652998/
 tags:
 - weeknotes
 - philippines
