@@ -56,4 +56,5 @@ Not much today. Visit the [Links page](/links/) for more links of interest.
 ### This coming week:
 
 - Amazon's **Wheel of Time** adaptation should be debuting this week, we'll see if I actually have time to watch it!
+- Edit: **Star Trek Discovery** also resumes this week! So much stuff to watch @_@
 - Trivia team actually has a quiz night this week!
