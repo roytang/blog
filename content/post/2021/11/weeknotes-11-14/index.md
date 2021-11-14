@@ -17,7 +17,7 @@ title: Weeknotes 2021-11-14
 ### The World
 
 - PH election drama reached a fever pitch over the weekend as Monday's substitution deadline loomed. Sara Duterte, erstwhile daughter of the current president, withdrew her candidacy for Davao City mayor and soon after joined GMA's Lakas-CMD for the predictable substitution into a [candidacy for the Vice President slot](https://www.cnnphilippines.com/news/2021/11/13/Sara-Duterte-vice-president-2022-Lakas-CMD.html), and was instantly adopted as the running mate of the dictator's son, a deal allegedly brokered by GMA herself. An alliance of GMA and the Marcos and Duterte scions feels like some kind of real-life Legion of Doom forming.
-- To add to the drama and chaos, PDP-Laban, apparently left out of the dealmaking and unable to trust the Marcoses, shifted around their candidates as well. Presidential candidate Bato dela Rosa withdrew his candidacy. Former VP candidate and erstwhile simpering lackey [Bong Go stepped up as a Presidential candidate](https://cnnphilippines.com/news/2021/11/13/Bong-Go-president-2022.html). And supposedly tomorrow, the [current president himself will file his candidacy as VP](https://cnnphilippines.com/news/2021/11/13/Duterte-vice-president-2022-elections.html) and running mate to Bong Go. What a circus!
+- To add to the drama and chaos, PDP-Laban, apparently left out of the deal-making and unable to trust the Marcoses, shifted around their candidates as well. Presidential candidate Bato dela Rosa withdrew his candidacy. Former VP candidate and erstwhile simpering lackey [Bong Go stepped up as a Presidential candidate](https://cnnphilippines.com/news/2021/11/13/Bong-Go-president-2022.html). And supposedly tomorrow, the [current president himself will file his candidacy as VP](https://cnnphilippines.com/news/2021/11/13/Duterte-vice-president-2022-elections.html) and running mate to Bong Go. What a circus!
 - [News broke last night](https://twitter.com/rapplerdotcom/status/1459559652937502727) that the huge globe in front of SM Mall of Asia had somehow been "stolen", which is ridiculous. This morning, they admitted [it was a publicity stunt to promote Netflix's new film "Red Notice"](https://twitter.com/rapplerdotcom/status/1459751443397693443). Lame.
 - Meanwhile, we are still in a pandemic. Metro Manila stays at Alert Level 2 until the end of the month. [Cases might start trending up again though](https://twitter.com/EdsonCGuido/status/1459761846395621376).
 
@@ -31,7 +31,7 @@ Not much today. Visit the [Links page](/links/) for more links of interest.
 
 ### My stuff:
 
-- Had a weekful of errands, which means I went out quite a few times this week, despite the pandemic. Kind of falling behind on a bunch of my regular things as a result.
+- My week was full of errands, which means I went out quite a few times this week, despite the pandemic. Mostly hospitals and clinics and pharmacies, you know how it is. Kind of falling behind on a bunch of my regular things as a result.
 - Still [sketching daily](/albums/sketchbook/), and I have surprisingly not fallen behind this weekend yet. Here's a dog I drew:
 
 {{< photo "2021/11/fe86639de24301382b9d592909c43315/" >}}
@@ -44,7 +44,7 @@ Not much today. Visit the [Links page](/links/) for more links of interest.
     - **Shin Megami Tensei V** for Switch also dropped last week, I'm probably going to get it eventually, but I'm holding off since I still have so many things to play!
 - **Watching:**
     - **Movies:** Watched [Blade Runner 2049](https://roytang.net/2021/11/4737c6da7ee142af8b00576b407172a2/) and [Shang-Chi](https://roytang.net/2021/11/shang-chi/) this past week. Next: No Time To Die?!?
-    - **TV:** Supergirl had its series finale this past week; I have some thoughts on that and the present state of the Arrowverse, maybe I'll write some words about it later this week.
+    - **TV:** **Supergirl** had its series finale this past week; I have some thoughts on that and the present state of the Arrowverse, maybe I'll write some words about it later this week.
 - **Reading:** I finished reading [The Conjugal Dictatorship](https://roytang.net/2021/11/conjugal-dictatorship/) last week. Still thinking about what to read next.
 - Trivia team: The regular crosswords continue.
 
