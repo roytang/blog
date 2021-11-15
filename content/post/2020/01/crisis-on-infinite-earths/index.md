@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1218003335577571328/
 tags:
 - tv
+- arrowverse
 title: 'Arrowverse: Crisis on Infinite Earths'
 ---
 
