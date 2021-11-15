@@ -12,7 +12,7 @@ tags:
 - supergirl
 - arrowverse
 - tv
-title: Supergirl Finale Arrowverse
+title: Supergirl Finale and What Remains Of The Arrowverse
 ---
 
 Supergirl had their series finale last week; the usual big superhero fight affair with a heavy-handed focus on "empowering people" typical of the series and relying on Supergirl making a big speech to inspire everyone in the world. Ended with a lesbian wedding, so go diversity.
