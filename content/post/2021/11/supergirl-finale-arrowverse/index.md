@@ -1,13 +1,18 @@
 ---
-title: "Supergirl Finale Arrowverse"
-date: 2021-11-15T15:06:33+08:00
+date: 2021-11-15 07:06:33
+reviews:
+- media: tv
+  title: Supergirl S6
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107279909849749323
+- type: twitter
+  url: https://twitter.com/roytang/status/1460148542798897158/
 tags:
 - supergirl
 - arrowverse
 - tv
-reviews:
-- media: tv
-  title: Supergirl S6
+title: Supergirl Finale Arrowverse
 ---
 
 Supergirl had their series finale last week; the usual big superhero fight affair with a heavy-handed focus on "empowering people" typical of the series and relying on Supergirl making a big speech to inspire everyone in the world. Ended with a lesbian wedding, so go diversity.
