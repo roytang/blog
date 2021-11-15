@@ -1,10 +1,10 @@
 ---
 date: 2019-12-18 11:11:57+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1207257185354280961/
-title: ''
+  url: https://twitter.com/roytang/status/1207257185354280961/
 ---
 
 Very long Star Wars review thread 
