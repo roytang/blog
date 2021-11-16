@@ -15,6 +15,12 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107286882882692617
 - type: twitter
   url: https://twitter.com/roytang/status/1460594829293879297/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qv4gzs/november_16th_beverages/hkukago/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qud1xo/november_15th_millipede/hkuka60/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qtmq1d/november_14th_crime_scene/hkuk9q4/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Nov 16
