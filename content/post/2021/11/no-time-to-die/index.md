@@ -1,12 +1,17 @@
 ---
-date: 2021-11-18T20:07:17+08:00
+date: 2021-11-18 12:07:17
 reviews:
 - media: movies
   title: No Time To Die (2021)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107298088272441544
+- type: twitter
+  url: https://twitter.com/roytang/status/1461311961270927366/
 tags:
 - movies
 - jamesbond
-title: "No Time to Die"
+title: No Time to Die
 ---
 
 Bond film no. 25, undeniably Daniel Craig's last, and the culmination of this year's [James Bond run](/tags/jamesbond). 
