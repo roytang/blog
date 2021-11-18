@@ -28,6 +28,8 @@ Lynch's Nomi makes history as the first African-American *and* female 007, a cle
 
 Disappointed that there was no title drop. The title of this film has a missing punctuation, it should actually be "No, Time To Die". 
 
+There's one shot in this film where the angle and the lighting made me think Daniel Craig looked a lot like Connery's Bond, I wondered if they did that on purpose.
+
 {{< /spoiler >}}
 
 All in all, a fitting and emotional end to Craig's run as James Bond. It's great that they carried over story elements all the way from 2006's Casino Royale, making Craig's run the one with the most continuity. Looking forward to the next iteration of modern James Bond, and the inevitable speculation of who will next take up the mantle.
