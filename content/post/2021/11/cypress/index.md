@@ -1,9 +1,14 @@
 ---
-title: "Cypress: My Custom Blogging System"
-date: 2021-11-16T14:45:13+08:00
+date: 2021-11-16 06:45:13
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107285679884873861
+- type: twitter
+  url: https://twitter.com/roytang/status/1460517824565108736/
 tags:
 - blogging
 - tech-life
+title: 'Cypress: My Custom Blogging System'
 ---
 
 In [October 2020](/2020/10/site-migration-to-django/), I migrated this site from serving static Hugo-based files to a site running on a custom Django-based backend. My internal name for that backend is ***Cypress***, which has no particular meaning other than I wanted something that was an alternative to *Wordpress*. (Yes, I am aware there is [a testing framework by that name](https://www.cypress.io/), that's a problem for future me.)

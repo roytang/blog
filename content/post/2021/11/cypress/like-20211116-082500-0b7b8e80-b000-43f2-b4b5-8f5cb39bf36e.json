@@ -1,0 +1,27 @@
+{
+  "id": "0b7b8e80-b000-43f2-b4b5-8f5cb39bf36e",
+  "name": "musicmatze",
+  "url": "https://mastodon.technology/@musicmatze",
+  "text": "[musicmatze](https://mastodon.technology/@musicmatze) [liked this](https://mastodon.technology/@roytang/107285679884873861#favorited-by-71055)",
+  "date": "2021-11-16 08:25:00",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/29ec6d7b25726e8daabe812205c1cc4398d521254a7b52a3582857d8e7695c9c.gif",
+  "source_url": "https://mastodon.technology/@roytang/107285679884873861#favorited-by-71055",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "musicmatze",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/29ec6d7b25726e8daabe812205c1cc4398d521254a7b52a3582857d8e7695c9c.gif",
+      "url": "https://mastodon.technology/@musicmatze"
+    },
+    "url": "https://mastodon.technology/@roytang/107285679884873861#favorited-by-71055",
+    "published": null,
+    "wm-received": "2021-11-16T08:25:00Z",
+    "wm-id": 1305804,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107285679884873861/71055",
+    "wm-target": "https://roytang.net/2021/11/cypress/",
+    "like-of": "https://roytang.net/2021/11/cypress/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
