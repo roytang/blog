@@ -1,5 +1,5 @@
 ---
-date: 2016-07-16 17:13:06+00:00
+date: 2016-07-16 17:13:06
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154749608153912
 tags:
 - wordswithfriends
+- wordswfriends
 ---
 
 New record! #wordswithfriends
