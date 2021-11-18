@@ -1,0 +1,31 @@
+{
+  "id": "e73b19a3-0979-43b7-a488-d1e4fea3f60c",
+  "name": "Flarnie",
+  "url": "https://mastodon.technology/@Flarnie",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> Thanks for sharing the review and for hiding spoilers! I will probably go check out this movie.</p>",
+  "date": "2021-11-18 13:58:29",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+  "source_url": "https://mastodon.technology/@Flarnie/107298416867336520",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flarnie",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+      "url": "https://mastodon.technology/@Flarnie"
+    },
+    "url": "https://mastodon.technology/@Flarnie/107298416867336520",
+    "published": "2021-11-18T13:58:29",
+    "wm-received": "2021-11-18T14:12:47Z",
+    "wm-id": 1306698,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107298088272441544/107298416867336520",
+    "wm-target": "https://roytang.net/2021/11/no-time-to-die/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> Thanks for sharing the review and for hiding spoilers! I will probably go check out this movie.</p>",
+      "text": "@roytang Thanks for sharing the review and for hiding spoilers! I will probably go check out this movie."
+    },
+    "in-reply-to": "https://roytang.net/2021/11/no-time-to-die/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
