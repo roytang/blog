@@ -1,0 +1,27 @@
+{
+  "id": "d55c60ed-e36d-49f2-904d-9ba9f844ed39",
+  "name": "HMF",
+  "url": "https://weirder.earth/@hamefang",
+  "text": "[HMF](https://weirder.earth/@hamefang) [shared this](https://mastodon.technology/@roytang/107307779510523971#reblogged-by-345632)",
+  "date": "2021-11-20 11:01:44",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bb0fde58ec28e8f29a39c86ad056582687f8d1078e5fad0457f8f50fde66f531.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107307779510523971#reblogged-by-345632",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "HMF",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bb0fde58ec28e8f29a39c86ad056582687f8d1078e5fad0457f8f50fde66f531.jpg",
+      "url": "https://weirder.earth/@hamefang"
+    },
+    "url": "https://mastodon.technology/@roytang/107307779510523971#reblogged-by-345632",
+    "published": null,
+    "wm-received": "2021-11-20T11:01:44Z",
+    "wm-id": 1307709,
+    "wm-source": "https://brid.gy/repost/mastodon/@roytang@mastodon.technology/107307779510523971/345632",
+    "wm-target": "https://roytang.net/2021/11/couple-word-games/",
+    "repost-of": "https://roytang.net/2021/11/couple-word-games/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
