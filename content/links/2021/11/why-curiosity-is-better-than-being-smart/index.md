@@ -13,5 +13,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107307724037574694
 - type: twitter
   url: https://twitter.com/roytang/status/1461928650169675776/
+- type: twitter
+  url: https://twitter.com/roytang/status/1461729856102694917/
 title: Why Curiosity Is Better Than Being Smart?
 ---
