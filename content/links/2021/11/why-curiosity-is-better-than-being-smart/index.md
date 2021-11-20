@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://durmonski.com/life-advice/curiosity-is-better-than-being-smart
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107307527453521640
+  url: https://mastodon.technology/users/roytang/statuses/107307724037574694
 - type: twitter
-  url: https://twitter.com/roytang/status/1461916068805443588/
+  url: https://twitter.com/roytang/status/1461928650169675776/
 title: Why Curiosity Is Better Than Being Smart?
 ---
