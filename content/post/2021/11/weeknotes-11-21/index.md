@@ -1,8 +1,13 @@
 ---
-date: 2021-11-21T13:12:31+08:00
+date: 2021-11-21 05:12:31
 featuredResource:
   filename: 3_20211120_013328.jpg
   photo: /2021/11/3e145a5fedbc4f5ebd13ec25ec9a9521/
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107313655907601210
+- type: twitter
+  url: https://twitter.com/roytang/status/1462308289958473730/
 tags:
 - weeknotes
 - philippines
@@ -54,4 +59,3 @@ Visit the [Links page](/links/) for more links of interest.
 
 - **Hawkeye** series should debut on Disney+ this week!
 - Also, there's probably going to be a Steam sale? For thanksgiving, even though we're not Americans here. Not sure if I'd be getting anything though.
-
