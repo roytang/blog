@@ -12,6 +12,7 @@ tags:
 || Latest Standard Set | Limited | Constructed |
 |---|---|---|---|
 | **2021** |
+| **Nov** | Innistrad: Crimson Vow | [Arena limited](/tags/mtgcrimson) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgokNsq0i3ejpcLJ0zkrZbE) | |
 | **Sep** | Innistrad: Midnight Hunt | [Arena limited](/tags/mtgmidnight) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXieJN9NfT6l81avhvRedw7K) | |
 | **Jul** | Adventures in the Forgotten Realms | [Arena limited](/tags/mtgafr) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgMQw7q6DyiSQxDH5FDS33r) | |
 | **Apr** | Strixhaven | [Arena limited](/tags/mtgstrixhaven) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXi2a8ti2BKbg3i7YXinbxBZ) | |
