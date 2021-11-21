@@ -1,0 +1,27 @@
+{
+  "id": "64aadf55-bc95-481d-bebe-1ede6fb09d6c",
+  "name": "\ud83e\udd86 \u039d\u03b7\u03c3\u03c3\u03bf\u03c4\u03c1\u03bf\u03c6\u03b5\u1fd6\u03bf\u03bd \ud83e\udd86",
+  "url": "https://cybre.space/@nessotropheion",
+  "text": "[\ud83e\udd86 \u039d\u03b7\u03c3\u03c3\u03bf\u03c4\u03c1\u03bf\u03c6\u03b5\u1fd6\u03bf\u03bd \ud83e\udd86](https://cybre.space/@nessotropheion) [liked this](https://mastodon.technology/@roytang/107307779510523971#favorited-by-380615)",
+  "date": "2021-11-20 19:19:59",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/fbfd5854adeb6364542ae30147733a65f1807660efe9e04fa3527bf3aa827c6c.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107307779510523971#favorited-by-380615",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "\ud83e\udd86 \u039d\u03b7\u03c3\u03c3\u03bf\u03c4\u03c1\u03bf\u03c6\u03b5\u1fd6\u03bf\u03bd \ud83e\udd86",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/fbfd5854adeb6364542ae30147733a65f1807660efe9e04fa3527bf3aa827c6c.jpg",
+      "url": "https://cybre.space/@nessotropheion"
+    },
+    "url": "https://mastodon.technology/@roytang/107307779510523971#favorited-by-380615",
+    "published": null,
+    "wm-received": "2021-11-20T19:19:59Z",
+    "wm-id": 1307786,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107307779510523971/380615",
+    "wm-target": "https://roytang.net/2021/11/couple-word-games/",
+    "like-of": "https://roytang.net/2021/11/couple-word-games/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

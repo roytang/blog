@@ -1,0 +1,27 @@
+{
+  "id": "932627ad-54b1-4160-8cfa-baa7f933276e",
+  "name": "\ud835\udd8c\ud835\udd86\ud835\udd97\ud835\udd86\ud835\udd87\ud835\udd94\ud835\udd93\ud835\udd99\ud835\udd9f\ud835\udd8e\ud835\udd86\ud835\udd98\ud835\udd8d.",
+  "url": "https://mas.to/@adalbertsen",
+  "text": "[\ud835\udd8c\ud835\udd86\ud835\udd97\ud835\udd86\ud835\udd87\ud835\udd94\ud835\udd93\ud835\udd99\ud835\udd9f\ud835\udd8e\ud835\udd86\ud835\udd98\ud835\udd8d.](https://mas.to/@adalbertsen) [liked this](https://mastodon.technology/@roytang/107307779510523971#favorited-by-278099)",
+  "date": "2021-11-20 12:15:25",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/78142db9d5bbf2dbdaf40acb49ebf0f438d02fe2c0805b3c88f7eef212a1effd.png",
+  "source_url": "https://mastodon.technology/@roytang/107307779510523971#favorited-by-278099",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "\ud835\udd8c\ud835\udd86\ud835\udd97\ud835\udd86\ud835\udd87\ud835\udd94\ud835\udd93\ud835\udd99\ud835\udd9f\ud835\udd8e\ud835\udd86\ud835\udd98\ud835\udd8d.",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/78142db9d5bbf2dbdaf40acb49ebf0f438d02fe2c0805b3c88f7eef212a1effd.png",
+      "url": "https://mas.to/@adalbertsen"
+    },
+    "url": "https://mastodon.technology/@roytang/107307779510523971#favorited-by-278099",
+    "published": null,
+    "wm-received": "2021-11-20T12:15:25Z",
+    "wm-id": 1307719,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107307779510523971/278099",
+    "wm-target": "https://roytang.net/2021/11/couple-word-games/",
+    "like-of": "https://roytang.net/2021/11/couple-word-games/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

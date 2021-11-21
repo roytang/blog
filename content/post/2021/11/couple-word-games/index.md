@@ -1,9 +1,14 @@
 ---
-title: "A Couple Of Word Games"
-date: 2021-11-20T12:35:46+08:00
+date: 2021-11-20 04:35:46
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107307779510523971
+- type: twitter
+  url: https://twitter.com/roytang/status/1461932205005959171/
 tags:
 - gaming
-dontinlinephotos: true
+title: A Couple Of Word Games
 ---
 
 I've mentioned this before on the [weeknotes](/tags/weeknotes/), but a couple of months ago I availed of a New York Times games subscription, mostly for access to the NYT crosswords, since the trivia team have been enjoying some coop crossword nights over Discord.
