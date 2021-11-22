@@ -15,6 +15,12 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107321097185378410
 - type: twitter
   url: https://twitter.com/roytang/status/1462784545242042373/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qzi3by/november_22nd_fancy_clothes/hln7fok/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qyrvuk/november_21st_design_your_dream_house/hln7f4v/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/qy2ii4/november_20th_the_view_out_your_window/hln7dzf/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Nov 22
