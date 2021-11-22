@@ -1,9 +1,11 @@
 ---
-date: 2016-11-22 09:30:02+00:00
+date: 2016-11-22 09:30:02
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/800994738383900672/
+tags:
+- duelyst
 title: ''
 ---
 

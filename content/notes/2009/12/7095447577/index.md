@@ -1,7 +1,9 @@
 ---
-date: 2009-12-27 17:38:54
+date: 2009-12-27 14:28:34+00:00
 source: twitter
 syndicated:
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/7091126705/
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/7095447577/
 - type: twitter
@@ -17,9 +19,12 @@ syndicated:
 tags:
 - momir
 - mtg
+title: Momir Basic on MTGO
 ---
 
-#momir #mtg Round1: I never played Sundering Titan before, I thought we were both choosing five lands to sacrifice! Doh, shoulda won!
+It looks like I'm skipping sleep tonight to play Momir Basic. Starts at 1am over here!
+
+[2009-12-28 01:38] #momir #mtg Round1: I never played Sundering Titan before, I thought we were both choosing five lands to sacrifice! Doh, shoulda won!
 
 [02:32] #momir #mtg Round2: Just won off opponent's Phage!
 
@@ -29,4 +34,4 @@ tags:
 
 [05:53] #momir #mtg Round5: Won game1 despite opponent having a 60/60 hamletback. Won game2 off my opponent's 3rd turn Countryside Crusher
 
-[07:07] #momir #mtg Final record: 3-3. Momir Basic: You should be thankful when your 7 drops don't kill you as they ETB
+[07:07] #momir #mtg Final record: 3-3. Momir Basic: You should be thankful when your 7 drops don't kill you as they ETB 
