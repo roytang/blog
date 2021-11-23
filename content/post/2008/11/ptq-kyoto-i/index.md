@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-11-22 19:31:05
+location: robinsons_galleria
 tags:
 - mtg
 title: PTQ Kyoto I

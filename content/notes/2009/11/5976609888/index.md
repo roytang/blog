@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/235314022587
 ---
 
-A little practice can put you head and shoulders above the rest: http://bit.ly/7oWNPH
+A little practice can put you head and shoulders above the rest: http://www.codemanship.co.uk/parlezuml/blog/?postid=858
