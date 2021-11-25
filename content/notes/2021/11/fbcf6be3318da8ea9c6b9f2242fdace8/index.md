@@ -15,6 +15,12 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107337805040928714
 - type: twitter
   url: https://twitter.com/roytang/status/1463853849060384769/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r1t9hq/november_25th_something_you_are_grateful_for/hm134ce/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r11qsq/november_24th_winter_outfits/hm133vy/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r09y5s/november_23rd_greek_mythology/hm133ee/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Nov 25
