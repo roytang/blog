@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-01-06 04:43:10
+location: robinsons_galleria
 tags:
 - mtg
 title: 'Pre Morningtide Constructed: Standard @ NG Galleria'
