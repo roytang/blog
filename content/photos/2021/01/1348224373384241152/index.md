@@ -11,3 +11,5 @@ tags:
 ---
 
 Some kind of cake? 10/365 #sketchdaily
+
+Reddit: Are we no longer able to embed images directly into posts? I feel like I was able to do that when I was doing sketchdaily back in 2016. Or did I have some kind of extension back then?
