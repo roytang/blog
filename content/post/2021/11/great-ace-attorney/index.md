@@ -1,18 +1,23 @@
 ---
 date: 2021-11-27 08:57:47
+dontinlinephotos: true
 featuredResource:
   filename: 20210727233338_1.jpg
   photo: /2021/11/gaac-photodump/
 reviews:
 - media: games
-  title: Great Ace Attorney Chronicles (Steam)
   rating: 5.0
+  title: Great Ace Attorney Chronicles (Steam)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107348363267289912
+- type: twitter
+  url: https://twitter.com/roytang/status/1464529563677913092/
 tags:
 - gaming
 - aceattorney
 - games
 title: The Great Ace Attorney Chronicles
-dontinlinephotos: true
 ---
 
 I finished **The Great Ace Attorney Chronicles** this week! A game I've been playing since August. If you're not familiar, it's a collection release of the two latest games in the [Ace Attorney series](/tags/aceattorney/), a series of story-driven visual novel-type games centered around defense lawyering. Both of the games in the collection have not had an English release before. I played and enjoyed the first four games of the series on the NDS back in the mid-00s, so I was looking forward to this release.
