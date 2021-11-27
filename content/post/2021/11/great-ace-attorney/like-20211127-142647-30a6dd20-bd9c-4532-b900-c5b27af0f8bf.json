@@ -1,0 +1,27 @@
+{
+  "id": "30a6dd20-bd9c-4532-b900-c5b27af0f8bf",
+  "name": "Flarnie",
+  "url": "https://mastodon.technology/@Flarnie",
+  "text": "[Flarnie](https://mastodon.technology/@Flarnie) [liked this](https://mastodon.technology/@roytang/107348363267289912#favorited-by-107049359476778678)",
+  "date": "2021-11-27 14:26:47",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107348363267289912#favorited-by-107049359476778678",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flarnie",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+      "url": "https://mastodon.technology/@Flarnie"
+    },
+    "url": "https://mastodon.technology/@roytang/107348363267289912#favorited-by-107049359476778678",
+    "published": null,
+    "wm-received": "2021-11-27T14:26:47Z",
+    "wm-id": 1310097,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107348363267289912/107049359476778678",
+    "wm-target": "https://roytang.net/2021/11/great-ace-attorney/",
+    "like-of": "https://roytang.net/2021/11/great-ace-attorney/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
