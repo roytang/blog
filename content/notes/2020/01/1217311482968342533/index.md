@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1217311482968342533/
 tags:
 - CrisisOnInfiniteEarths
+- arrowverse
 ---
 
 I still dont understand why they needed Ryan Choi for #CrisisOnInfiniteEarths lol

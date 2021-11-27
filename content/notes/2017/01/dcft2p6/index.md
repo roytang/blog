@@ -13,4 +13,4 @@ tags:
 - sketchdaily
 ---
 
-Shoe: http://imgur.com/RfPHs9L
+Shoe: https://i.imgur.com/RfPHs9L.png

@@ -8,6 +8,7 @@ tags:
 - CrisisOnInfiniteEarths
 - spoiler-free-review
 - tv
+- arrowverse
 ---
 
 #CrisisOnInfiniteEarths spoiler free review: low budget, pacing and writing issues, but idc because all the dc comics fan service kept making me smile
