@@ -10,6 +10,7 @@ reviews:
 tags:
 - Gaming
 - games
+- aceattorney
 title: 'Apollo Justice: Ace Attorney'
 type: post
 url: /2008/02/apollo-justice-ace-attorney/
