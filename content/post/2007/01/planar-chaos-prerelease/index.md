@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-01-21 08:53:33
+location: robinsons_galleria
 tags:
 - mtg
 title: Planar Chaos Prerelease

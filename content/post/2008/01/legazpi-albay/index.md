@@ -2,6 +2,7 @@
 author: Roy
 categories: []
 date: 2008-01-21 05:13:21
+location: legazpi
 tags:
 - Travels
 title: Legazpi, Albay

@@ -5,6 +5,7 @@ date: 2019-11-04
 featuredResource:
   filename: 20191102_082508.jpg
   photo: /2019/11/bicol-trip-photo-dump/
+location: daet
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1191241464069668864/

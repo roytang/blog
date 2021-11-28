@@ -1,5 +1,6 @@
 ---
 date: 2019-11-04
+location: daet
 resources:
 - src: 20191029_171737.jpg
   title: The Araneta center busport
@@ -61,7 +62,7 @@ resources:
   title: St. John church
 - src: 20191102_201935.jpg
   title: DLTB terminal
-title: Bicol Undas trip photodump  
+title: Bicol Undas trip photodump
 ---
 
 More info in [this post](/2019/11/four-days-in-bicol/).
