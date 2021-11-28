@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/6172469414/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/219180954151
+tags:
+- quotes
+- movies
 ---
 
 There is no secret ingredient

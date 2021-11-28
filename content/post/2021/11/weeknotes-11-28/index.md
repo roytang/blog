@@ -17,6 +17,7 @@ title: Weeknotes 2021-11-28
 
 ### A Quote
 
+> "Your only obligation in any lifetime is to be true to yourself." —Richard Bach, Illusions
 
 ### The World
 
