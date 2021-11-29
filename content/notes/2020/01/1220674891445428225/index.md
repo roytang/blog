@@ -10,6 +10,7 @@ tags:
 - twitch
 - gaming
 - mtg
+- magicarena
 ---
 
 Casually streaming Magic Arena with Standard Bogles https://www.twitch.tv/twitchyroy

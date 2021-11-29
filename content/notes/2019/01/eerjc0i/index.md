@@ -4,7 +4,7 @@ reply_to:
   label: '''[Standard] Golgari Midrange players, how do you beat Mono Red?'' on /r/spikes'
   name: ''
   type: reddit
-  url: https://reddit.com/r/spikes/comments/ais6hu/standard_golgari_midrange_players_how_do_you_beat/
+  url: https://www.reddit.com/r/spikes/comments/ais6hu/standard_golgari_midrange_players_how_do_you_beat/
 source: reddit
 syndicated:
 - type: reddit
@@ -26,3 +26,15 @@ You want to play creatures on turns 2-3 and just assume they're going to die. Yo
 When exploring during the early turns, send to the graveyard Tyrant, Karn, big Vraska, or Vivienne, those won't be much help. Getting more creatures is better, just make sure you can play them.
 
 You're going to stabilize at around turns 4-6, with around 6-10 life, and hopefully the red deck's hand is spent. 6 life is scary - you're basically hoping he doesn't have two bolts, but it happens. Stay scared, never attack without leaving a blocker for a hasted 2/2 mage. You're hoping he doesn't draw LUtS, Risk Factor or Frenzy (frenzy is the worst for him, light up is the best)
+
+From turn 4, your priorities are:
+
+- if you have wildgrowth and an explorer, judge whether he might have an instant bolt. If you're at 6 he probably doesn't, and even if he did, you're dead to it if you don't gain some life. If he's at one card in hand, I say go for it. If the wildgrowth was revealed (via an explore), the red player will hold back a bolt in anticipation so be aware of that. But in many cases it's better to just go for the lifegain anyway, better the wildgrowth eats the bolt than you
+- start playing removal. Chupacabra takes out Chainwhirler/Steamkin and can block or eat a bolt. Contempt gains some life. If you have smaller Vraska on 4, use the -3 if he still has a creature - don't worry about letting her die, it's better than the bolt going to your head. 
+- play more blockers
+
+Past turn 6ish, if you're still at 8 life or more, you've probably won. Heck, even just getting to turn 6 is pretty good. From my notes, I finished 3 of my 4 wins at 6 life, 10 life and 9 life (I didnt note it for the 4th win). 
+
+I also run... um, that 3/2 black guy, forget his name, "when a creature you control dies draw a card and gain 1 life". He's a bit of a disadvantage against red, you have to be careful with him. If I have enough creatures, I will explore him to the yard.
+
+My 2-drop removal is Assassin's Trophy. If you want to improve your RDW matchup, you should use moment of craving instead, but Trophy is better vs control decks (can hit PWs) and white weenie (since it can counter their exile effects) and any of the riot decks.

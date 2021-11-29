@@ -1,9 +1,11 @@
 ---
-date: 2014-01-24 15:16:53+00:00
+date: 2014-01-24 15:16:53
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/426735361549537281/
+tags:
+- quotes
 ---
 
 It matters not how strait the gate,

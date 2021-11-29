@@ -1,10 +1,10 @@
 ---
-date: 2014-01-23 00:00:00+00:00
+date: 2014-01-23 11:14:08+00:00
 reply_to:
   label: '''Moving to work in the Philippines'' on /r/Philippines'
   name: ''
   type: reddit
-  url: https://reddit.com/r/Philippines/comments/1vvrkl/moving_to_work_in_the_philippines/
+  url: https://www.reddit.com/r/Philippines/comments/1vvrkl/moving_to_work_in_the_philippines/
 source: reddit
 syndicated:
 - type: reddit
