@@ -1,10 +1,10 @@
 ---
-date: 2021-01-27 19:13:11
+date: 2021-01-27 11:13:11+00:00
 reply_to:
   label: '''How do I add an rss feed url to Feedly?'' on /r/rss'
   name: ''
   type: reddit
-  url: https://reddit.com/r/rss/comments/l60dex/how_do_i_add_an_rss_feed_url_to_feedly/
+  url: https://www.reddit.com/r/rss/comments/l60dex/how_do_i_add_an_rss_feed_url_to_feedly/
 source: reddit
 syndicated:
 - type: reddit

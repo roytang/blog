@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1089667155136638976/
+- type: reddit
+  url: https://www.reddit.com/r/Games/comments/akh74p/dragon_ball_fighterz_jiren_videl_reveal_broly_dbs/ef5cvtr/
 ---
 
 It's weird that Videl has a win quote "I can hold my own in a fight" even though she fights with Gohan/GreatSaiyaman. PS I don't actually play this game I just enjoy the videos 

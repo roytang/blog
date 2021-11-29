@@ -1,8 +1,8 @@
 ---
-date: 2013-01-26 00:40:06
-source: twitter
 checkin_id: 510325e6e4b04ee89fb23b05
+date: 2013-01-26 00:40:06
 location: 4c529236384c76b0a0d0fc2a
+source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/294967919123783680/
