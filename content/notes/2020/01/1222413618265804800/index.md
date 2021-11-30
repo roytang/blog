@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1222413618265804800/
 tags:
 - tv
+- arrowverse
 ---
 
 Arrow wasn't a perfect show but that was a fantastic finale. They basically gave the fans everything they have ever asked for. EVERYTHING!

@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/7d1OwbOAiBW
 - type: foursquare
   url: https://www.swarmapp.com/c/7d1OwbOAiBW
+tags:
+- quiznight
 ---
 
 Quees nayt (@ Granvia Cafe @ The A. Venue Hotel Suites in Makati City, Metro Manila) https://www.swarmapp.com/c/7d1OwbOAiBW
