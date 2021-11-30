@@ -15,6 +15,12 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107367138621902333
 - type: twitter
   url: https://twitter.com/roytang/status/1465731196126593025/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r40zm9/november_28th_life_on_mars/hmon977/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r3agyv/november_27th_pet_accessories/hmon8lu/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r2jvyi/november_26th_something_on_your_wishlist/hmon81m/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Nov 30
