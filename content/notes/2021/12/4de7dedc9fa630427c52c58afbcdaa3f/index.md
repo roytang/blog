@@ -29,5 +29,5 @@ Nov 30: Spiders 334/365
 Dec 01: Lego capitalism 335/365
 
 Dec 02: Pirate treasure map 336/365
-
+<!--sep-->
 These tiny drawings require less detail, but they're kinda tough on my hands. Also, hopefully I can get through this backlog before the end of the year!
