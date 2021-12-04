@@ -1,5 +1,5 @@
 ---
-date: 2021-02-21 07:15:01+00:00
+date: 2021-02-21 07:15:01
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,7 @@ tags:
 - Kaldheim
 - mtg
 - magicarena
+- arenaopen
 ---
 
 To finish my run at #Kaldheim limited, I decided to yolo some gems away at the Sealed Arena Open! Here's the video: https://www.youtube.com/watch?v=Qyjl8Rzdga4
