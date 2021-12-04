@@ -15,6 +15,10 @@ source: form
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107388737254841503
+- type: twitter
+  url: https://twitter.com/roytang/status/1467141540678017030/
+- type: twitter
+  url: https://twitter.com/roytang/status/1467141543924432896/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Dec 4
