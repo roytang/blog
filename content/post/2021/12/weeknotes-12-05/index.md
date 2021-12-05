@@ -40,6 +40,7 @@ Been a bit busy (see below), so no links or commentary on world news today. Full
     - **TV:** Ongoings are **Star Trek Discovery**, **Hawkeye**, **Wheel of Time**, **Doctor Who**, **Flash**, etc. Still behind on most of these shows!
 - **Reading:** Still reading **Sapiens** by Yuval Noah Harari, although I didn't have the energy to for most of the week.
 - **Trivia**: The regular crosswords continue. 
+- **Misc**: My bathroom light has finally been fixed. It's been weeks! It seems yellower than I remember.
 
 ### This coming week:
 
