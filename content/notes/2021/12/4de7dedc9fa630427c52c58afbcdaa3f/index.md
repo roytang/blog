@@ -19,6 +19,14 @@ syndicated:
   url: https://twitter.com/roytang/status/1467141540678017030/
 - type: twitter
   url: https://twitter.com/roytang/status/1467141543924432896/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r743o7/december_2nd_treasure_map/hn9he76/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r6bdfn/december_1st_miniature_plants/hn9hdi3/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r5jzon/november_30th_spiders/hn9hcyr/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r4skjo/november_29th_thrift_stores/hn9hciu/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Dec 4
