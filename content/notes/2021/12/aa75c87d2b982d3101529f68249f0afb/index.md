@@ -13,6 +13,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107402677628043211
 - type: twitter
   url: https://twitter.com/roytang/status/1468005689008087041/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/r7vrr7/december_3rd_still_life/hnj1lci/
 tags:
 - sketchdaily
 title: Drawn from life
