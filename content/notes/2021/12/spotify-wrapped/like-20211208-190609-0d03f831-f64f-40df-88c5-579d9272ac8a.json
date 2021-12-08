@@ -1,0 +1,27 @@
+{
+  "id": "0d03f831-f64f-40df-88c5-579d9272ac8a",
+  "name": "Preston Maness",
+  "url": "https://mastodon.technology/@aspensmonster",
+  "text": "[Preston Maness](https://mastodon.technology/@aspensmonster) [liked this](https://mastodon.technology/@roytang/107411877538276710#favorited-by-368641)",
+  "date": "2021-12-08 19:06:09",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/f7c62e1eb3c58758adc8a348fc30157255fd64e6f625a979f3d3c8eef60dd385.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107411877538276710#favorited-by-368641",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Preston Maness",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/f7c62e1eb3c58758adc8a348fc30157255fd64e6f625a979f3d3c8eef60dd385.jpg",
+      "url": "https://mastodon.technology/@aspensmonster"
+    },
+    "url": "https://mastodon.technology/@roytang/107411877538276710#favorited-by-368641",
+    "published": null,
+    "wm-received": "2021-12-08T19:06:09Z",
+    "wm-id": 1314237,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107411877538276710/368641",
+    "wm-target": "https://roytang.net/2021/12/spotify-wrapped/",
+    "like-of": "https://roytang.net/2021/12/spotify-wrapped/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
