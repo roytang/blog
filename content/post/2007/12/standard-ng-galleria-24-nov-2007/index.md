@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-12-08 06:35:47
+location: robinsons_galleria
 tags:
 - mtg
 title: Standard @ NG Galleria 24-Nov-2007
