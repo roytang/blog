@@ -1,9 +1,14 @@
 ---
-title: "Adventures with Globe Customer Service"
-date: 2021-12-08T09:00:00+08:00
+date: 2021-12-08 01:00:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107408603367546220
+- type: twitter
+  url: https://twitter.com/roytang/status/1468384927645253634/
 tags:
 - philippines
 - tech-life
+title: Adventures with Globe Customer Service
 ---
 
 ### Previously
@@ -57,4 +62,3 @@ Just some math; the last outage was around 36h back in February (linked above), 
 ### The future
 
 Looking forward to more "fun" adventures with Globe in 2022!
-
