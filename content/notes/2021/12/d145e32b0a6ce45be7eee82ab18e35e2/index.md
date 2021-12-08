@@ -13,6 +13,10 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107411437014377975
 - type: twitter
   url: https://twitter.com/roytang/status/1468566306597138437/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/ravr9q/december_7th_errands/hnpny7d/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/ra3tiy/december_6th_the_voice_inside_your_head/hnpnwrb/
 tags:
 - sketchdaily
 title: Sketchdaily catchup dec 8
