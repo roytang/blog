@@ -1,0 +1,27 @@
+{
+  "id": "43a39433-9cf4-4b98-a670-9ef0e7786321",
+  "name": "Aleks Felipe",
+  "url": "https://twitter.com/aleksfelipe",
+  "text": "[Aleks Felipe](https://twitter.com/aleksfelipe) [liked this](https://twitter.com/roytang/status/1468384927645253634#favorited-by-12953232)",
+  "date": "2021-12-08 06:20:36",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/8f1e9a41f621bec10bb0c6afcc37726ec452bc39670fbaf87f740c97d63544bd.jpg",
+  "source_url": "https://twitter.com/roytang/status/1468384927645253634#favorited-by-12953232/",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Aleks Felipe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8f1e9a41f621bec10bb0c6afcc37726ec452bc39670fbaf87f740c97d63544bd.jpg",
+      "url": "https://twitter.com/aleksfelipe"
+    },
+    "url": "https://twitter.com/roytang/status/1468384927645253634#favorited-by-12953232",
+    "published": null,
+    "wm-received": "2021-12-08T06:20:36Z",
+    "wm-id": 1314063,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1468384927645253634/12953232",
+    "wm-target": "https://roytang.net/2021/12/globe-cs/",
+    "like-of": "https://roytang.net/2021/12/globe-cs/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
