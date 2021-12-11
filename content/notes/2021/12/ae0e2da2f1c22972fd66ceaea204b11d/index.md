@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107429213247098400
 - type: twitter
   url: https://twitter.com/roytang/status/1469703964350312449/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rd5dxh/december_10th_free_draw_friday/ho6ct29/
 tags:
 - sketchdaily
 title: Sketchdaily Dec 10
