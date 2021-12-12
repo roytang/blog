@@ -1,5 +1,5 @@
 ---
-date: 2021-12-12T07:16:18+08:00
+date: 2021-12-12T16:30:00+08:00
 featuredResource:
   filename: 1_20211207_074211.jpg
   photo: /2021/12/aa75c87d2b982d3101529f68249f0afb/
@@ -8,7 +8,6 @@ tags:
 - philippines
 - covid19
 title: Weeknotes 2021-12-12
-draft: true
 ---
 
 ### A Quote
