@@ -43,6 +43,7 @@ title: Weeknotes 2021-12-12
 
 - The Omicron variant has been detected and case counts are rising in many places all over the world, but surprisingly not yet in the PH. Our case counts and positivity rates also still remain comfortably low, so that's good. Hopefully our situation holds. (And the other countries improve of course.)
 - The courts have allowed Maria Ressa to travel to Oslo and [she has already received her Nobel Peace Prize](https://www.dw.com/en/nobel-peace-prize-maria-ressa-and-dmitry-muratov-receive-award/a-60081458).
+- Looks like [some number of BDO accounts have been hacked recently](https://mb.com.ph/2021/12/11/hacked-bdo-accounts-are-used-to-buy-bitcoin-via-unionbank/). I've already checked recent transactions on my accounts and changed passwords.
 
 ### Links of Interest
 
