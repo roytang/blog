@@ -36,6 +36,10 @@
     ],
     "stats": [
         {
+            "Name": "Live",
+            "URL": "/page/stats/live/"
+        },
+        {
             "Name": "Website",
             "URL": "/page/stats/site/"
         },
