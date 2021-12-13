@@ -1,10 +1,10 @@
 ---
-date: 2019-12-13 06:37:52
+date: 2019-12-13 06:37:52+00:00
 reply_to:
   label: '''Ask me anything about Philippine taxation! 13.12.19'' on /r/Philippines'
   name: ''
   type: reddit
-  url: https://reddit.com/r/Philippines/comments/e9vh59/ask_me_anything_about_philippine_taxation_131219/
+  url: https://www.reddit.com/r/Philippines/comments/e9vh59/ask_me_anything_about_philippine_taxation_131219/
 source: reddit
 syndicated:
 - type: reddit

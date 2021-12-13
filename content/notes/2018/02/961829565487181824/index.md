@@ -14,9 +14,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/961829576191107076/
 - type: twitter
   url: https://twitter.com/roytang/statuses/961829577906520066/
+- type: reddit
+  url: https://www.reddit.com/r/worldnews/comments/7w9869/justin_trudeau_to_facebook_fix_your_fake_news/dtyzmi8/
+tags:
+- worldnews
 ---
 
-https://www.thestar.com/?redirect=true…/trudeau-to-facebook-fix-your-fake…
+[Trudeau to Facebook: Fix your fake news problem or face stricter regulations](https://www.thestar.com/news/canada/2018/02/08/trudeau-to-facebook-fix-your-fake-news-problem-or-else.html)
 
 Unfortunately, the problem is humans.
 
@@ -29,4 +33,5 @@ And even assuming they solve that (maybe by asking govt+independent orgs to cert
 Total worldwide online connectivity unfortunately means the internet brings together even believers of supposedly fringe ideas - flat earthers, anti-vaxxers, conspiracy theorists, white supremacists, fanatics, etc so they will continue to share their content.
 
 If you censor their content they will complain about freedom of speech and that starts us down a slippery slope...
-The long term solution would be to educate people, but that relies on more people being willing to be good actors on social networks and speak up against fake news and other unreliable stuff. It isn't in the hands of the tech companies
+
+The long term solution would be to educate people, but that relies on more people being willing to be good actors on social networks and speak up against fake news and other unreliable stuff. It isn't in the hands of the tech companies
