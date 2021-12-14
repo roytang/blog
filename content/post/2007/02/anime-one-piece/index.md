@@ -5,6 +5,7 @@ date: 2007-02-10 23:27:18
 tags:
 - tv
 - Pop Culture
+- onepiece
 title: Anime -- One Piece
 type: post
 url: /2007/02/anime-one-piece/

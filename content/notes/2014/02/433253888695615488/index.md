@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/433253888695615488/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152780800943912
 ---
 
 4 Questions to End Your Day With http://www.thedailyzen.org/2013/07/4-questions-to-end-your-day-with.html
