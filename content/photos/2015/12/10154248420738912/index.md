@@ -21,3 +21,5 @@ tags:
 ---
 
 Snaaaaaaaake!
+
+These nendos are harder to pose than I expected. And the pieces come off easily too! Can't let the niece reach this lol
