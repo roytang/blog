@@ -1,0 +1,31 @@
+{
+  "id": "3f83336c-7191-49ae-9ba5-363f6a6dee8d",
+  "name": "jordonr",
+  "url": "https://mastodon.technology/@jordonr",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I\u2019m playing through Tales of Symphonia right now on steam.  A while back was playing the Game Cube version on the wii but it was stolen.</p>",
+  "date": "2021-12-16 07:55:34",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/18a9e1bf4eea710564359165a5b9d15d895004b8ed239ad1c534743a0bbb64ca.jpg",
+  "source_url": "https://mastodon.technology/@jordonr/107455534492411758",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "jordonr",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/18a9e1bf4eea710564359165a5b9d15d895004b8ed239ad1c534743a0bbb64ca.jpg",
+      "url": "https://mastodon.technology/@jordonr"
+    },
+    "url": "https://mastodon.technology/@jordonr/107455534492411758",
+    "published": "2021-12-16T07:55:34",
+    "wm-received": "2021-12-16T13:34:07Z",
+    "wm-id": 1318589,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107455117349910189/107455534492411758",
+    "wm-target": "https://roytang.net/2021/12/symphonia/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> I\u2019m playing through Tales of Symphonia right now on steam.  A while back was playing the Game Cube version on the wii but it was stolen.</p>",
+      "text": "@roytang I\u2019m playing through Tales of Symphonia right now on steam.  A while back was playing the Game Cube version on the wii but it was stolen."
+    },
+    "in-reply-to": "https://roytang.net/2021/12/symphonia/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
