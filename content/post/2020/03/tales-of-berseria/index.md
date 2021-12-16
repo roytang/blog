@@ -16,6 +16,7 @@ syndicated:
 tags:
 - gaming
 - games
+- talesof
 title: 'Late Game Review: Tales of Berseria'
 ---
 

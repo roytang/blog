@@ -12,6 +12,10 @@ syndicated:
 tags:
 - gaming
 - games
+- talesof
+title: Tales of Zestiria
 ---
 
 Woo first time I completed a game's Steam achievements lol
+
+[2021-12-16] Added in some screenshots I'd uploaded before to Steam. I really enjoyed putting the sunglasses on everybody lol. Also, favorite character: Rose.
