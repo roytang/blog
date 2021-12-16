@@ -22,14 +22,17 @@
     },
     "quotes": {
         "label": "Quotes",
-        "descrip": "Quote sets"
+        "descrip": "Quote sets",
+        "exclude_feed": true
     },
     "topics": {
         "label": "Topics",
-        "descrip": "Topic indexes"
+        "descrip": "Topic indexes",
+        "exclude_feed": true
     },
     "page": {
         "label": "Other Pages",
-        "descrip": "Standalone pages not belonging to the other sections."
+        "descrip": "Standalone pages not belonging to the other sections.",
+        "exclude_feed": true
     }
 }
