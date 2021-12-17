@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150097790288912
 - type: plurk
   url: https://plurk.com/p/auqpk1
+tags:
+- wordswfriends
 ---
 
 I'll impose on myself a Words with Friends curfew. No more turns after 12mn, otherwise I won't get any sleep! PS my username is "hungryroy"

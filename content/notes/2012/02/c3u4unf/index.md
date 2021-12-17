@@ -1,10 +1,11 @@
 ---
-date: 2012-02-23 00:00:00
+date: 2012-02-23 10:37:47+00:00
 reply_to:
-  label: a comment by Nukgci on 'I will buy Mass Effect 3 and so should you' on /r/gaming
+  label: a comment by [deleted] on 'I will buy Mass Effect 3 and so should you' on
+    /r/gaming
   name: ''
   type: reddit
-  url: https://reddit.com/r/gaming/comments/q2byi/i_will_buy_mass_effect_3_and_so_should_you/c3u4rm0/
+  url: https://www.reddit.com/r/gaming/comments/q2byi/i_will_buy_mass_effect_3_and_so_should_you/c3u4rm0/
 source: reddit
 syndicated:
 - type: reddit
