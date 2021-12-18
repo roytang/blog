@@ -17,6 +17,14 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107468765124773492
 - type: twitter
   url: https://twitter.com/roytang/status/1472235303293255682/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rg49ns/december_14th_robots/hp25tc4/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rfccd8/december_13th_wooden/hp25spz/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/relyww/december_12th_wheel_of_time/hp25qwi/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rdwnjd/december_11th_b_movies/hp25qey/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Dec 18
