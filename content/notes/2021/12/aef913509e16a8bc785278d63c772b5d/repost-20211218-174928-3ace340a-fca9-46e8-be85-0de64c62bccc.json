@@ -1,0 +1,27 @@
+{
+  "id": "3ace340a-fca9-46e8-be85-0de64c62bccc",
+  "name": "Ayush Sharma \ud83c\udf75 + \ud83c\udfa7 + \ud83c\udfae",
+  "url": "https://mastodon.technology/@ayushsharma22",
+  "text": "[Ayush Sharma \ud83c\udf75 + \ud83c\udfa7 + \ud83c\udfae](https://mastodon.technology/@ayushsharma22) [shared this](https://mastodon.technology/@roytang/107468765124773492#reblogged-by-6746)",
+  "date": "2021-12-18 17:49:28",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bf7ad78fe483598b7b70a2fab083c3ffc2a5aa11ef5328ff3834e6c7f77b2132.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107468765124773492#reblogged-by-6746",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ayush Sharma \ud83c\udf75 + \ud83c\udfa7 + \ud83c\udfae",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bf7ad78fe483598b7b70a2fab083c3ffc2a5aa11ef5328ff3834e6c7f77b2132.jpg",
+      "url": "https://mastodon.technology/@ayushsharma22"
+    },
+    "url": "https://mastodon.technology/@roytang/107468765124773492#reblogged-by-6746",
+    "published": null,
+    "wm-received": "2021-12-18T17:49:28Z",
+    "wm-id": 1319726,
+    "wm-source": "https://brid.gy/repost/mastodon/@roytang@mastodon.technology/107468765124773492/6746",
+    "wm-target": "https://roytang.net/2021/12/aef913509e16a8bc785278d63c772b5d/",
+    "repost-of": "https://roytang.net/2021/12/aef913509e16a8bc785278d63c772b5d/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
