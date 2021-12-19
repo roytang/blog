@@ -11,6 +11,8 @@ tags:
 - Sony Computer Entertainment
 - STREET FIGHTER V
 - hungryroy
+- gaming
+- streetfighterv
 ---
 
 STREET FIGHTER V_20160229143813
