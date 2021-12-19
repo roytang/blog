@@ -1,8 +1,13 @@
 ---
-date: 2021-12-19T18:00:00+08:00
+date: 2021-12-19 10:00:00
 featuredResource:
   filename: 3_20211218_230632.jpg
   photo: /2021/12/aef913509e16a8bc785278d63c772b5d/
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107473878835433616
+- type: twitter
+  url: https://twitter.com/roytang/status/1472562557210611712/
 tags:
 - weeknotes
 - philippines
