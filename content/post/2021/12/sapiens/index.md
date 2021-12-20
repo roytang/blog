@@ -3,6 +3,11 @@ date: 2021-12-20 10:26:59
 reviews:
 - media: books
   title: Sapiens by Yuval Noah Harari
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107478979899014138
+- type: twitter
+  url: https://twitter.com/roytang/status/1472889025358798849/
 tags:
 - books
 title: Sapiens by Yuval Noah Harari
