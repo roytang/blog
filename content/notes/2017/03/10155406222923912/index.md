@@ -23,6 +23,7 @@ If you want to shut up the critics of the drug war, all you have to do is:
 Are these suggestions helpful enough?
 
 Instead what we get is:
+
 - random anecdotes ("sabi ng mga lgu madami na daw ulit!")
 - blanket statements with nothing to back them up ("4M na ang addict! We are observing human rights! We are just doing our jobs"), minsan may kasamang iyak
 - condescending dismissal of any criticism from outside the country ("the filipino people support us", "you dont know how it is here")

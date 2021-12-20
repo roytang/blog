@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-12-20 08:44:49
+location: robinsons_galleria
 tags:
 - mtg
 title: FNM 19-Dec 2008
