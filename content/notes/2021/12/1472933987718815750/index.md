@@ -1,10 +1,12 @@
 ---
-date: 2021-12-20 14:16:43+00:00
+date: 2021-12-20 14:16:43
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1472933987718815750/
+- type: twitter
+  url: https://twitter.com/roytang/status/1473167201884463105/
 tags:
 - MagicArena
 ---
@@ -12,3 +14,7 @@ tags:
 It took me SIX ATTEMPTS to get my first #MagicArena Decathlon token in the MID+VOW sealed event. Not sure I want to bother with the Alchemy one 
 
 {{< photos 1472933987718815750 >}}
+
+[2021-12-21 13:43] I tried the Alchemy event anyway and got there in one run! So much for being better at Limited than Constructed lol. I ran Monoblack blood. One more token to qualify for the finals! I guess this is the #MagicArena decathlon thread now. 
+
+{{< photos 1473167201884463105 >}}
