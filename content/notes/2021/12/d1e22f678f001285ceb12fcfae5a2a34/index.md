@@ -17,6 +17,14 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107490329352515225
 - type: twitter
   url: https://twitter.com/roytang/status/1473615404434026497/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rj4cut/december_18th_a_store_mannequin_of_a_non_human/hpjmvwy/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rie5yn/december_17th_free_draw_friday/hpjmvkb/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rhnlul/december_16th_travel/hpjmv7p/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rgvp45/december_15th_prehistoric/hpjmutr/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Dec 22
