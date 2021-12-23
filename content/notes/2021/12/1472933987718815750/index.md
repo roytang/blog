@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1473167201884463105/
 - type: twitter
   url: https://twitter.com/roytang/status/1473946957257142275/
+- type: twitter
+  url: https://twitter.com/roytang/status/1474053617585836038/
 tags:
 - MagicArena
 ---
@@ -28,3 +30,11 @@ It took me SIX ATTEMPTS to get my first #MagicArena Decathlon token in the MID+V
 I've already done like 5-6 runs in event 4, it's so swingy! 
 
 {{< photos 1473946957257142275 >}}
+
+[2021-12-24 00:25] #MagicArena decathlon event 4: New Player Decks. Finally got there with GW after trying so long with BR. Swept the run too!
+
+
+
+I guess I am attempting the rest of the events? 
+
+{{< photos 1474053617585836038 >}}
