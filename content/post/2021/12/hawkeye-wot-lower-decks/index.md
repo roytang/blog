@@ -1,6 +1,5 @@
 ---
 date: 2021-12-24 10:19:00
-draft: true
 reviews:
 - description: ''
   media: tv
