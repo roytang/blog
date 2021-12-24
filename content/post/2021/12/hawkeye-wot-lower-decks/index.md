@@ -13,10 +13,15 @@ reviews:
   media: tv
   rating: 0.0
   title: 'Star Trek: Lower Decks'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107501642169216789
+- type: twitter
+  url: https://twitter.com/roytang/status/1474339410699177986/
 tags:
 - tv
 - wheel-of-time
-title: "Recent TV: Hawkeye, Wheel of Time, Lower Decks"
+title: 'Recent TV: Hawkeye, Wheel of Time, Lower Decks'
 ---
 
 ### Hawkeye
