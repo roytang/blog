@@ -18,4 +18,4 @@ tags:
 title: Heat (1995)
 ---
 
-I have a bit of face blindness when it comes to Pacino and De Niro, I always need a second to figure out which is which when they're together. Great perfromances here and it's a pretty good crime film, with a lot of big names (very young Natalie Portman!)
+I have a bit of face blindness when it comes to Pacino and De Niro, I always need a second to figure out which is which when they're together. Great performances here and it's a pretty good crime film, with a lot of big names (very young Natalie Portman!)

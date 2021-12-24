@@ -17,6 +17,7 @@ syndicated:
   url: https://plurk.com/p/8zbn38
 tags:
 - books
+- wheel-of-time
 ---
 
 Finished reading the latest two wheel of time books, the gathering storm and towers of midnight.
