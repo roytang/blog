@@ -17,6 +17,14 @@ syndicated:
   url: https://twitter.com/roytang/status/1474798311479545862/
 - type: twitter
   url: https://twitter.com/roytang/status/1474798314625196032/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rm20yx/december_22nd_evergreens/hpxosui/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rlbfv9/december_21st_mantel/hpxoscw/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rkjvgy/december_20th_ornaments/hpxor2s/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rjtpei/december_19th_a_celebrity/hpxoqkr/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Dec 25
