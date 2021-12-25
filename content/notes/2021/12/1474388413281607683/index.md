@@ -5,6 +5,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1474388413281607683/
+- type: instagram
+  url: https://www.instagram.com/p/CX3oKiRBwUO/
 tags:
 - nochebuena
 ---
