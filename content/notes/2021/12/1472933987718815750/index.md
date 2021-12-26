@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1473946957257142275/
 - type: twitter
   url: https://twitter.com/roytang/status/1474053617585836038/
+- type: twitter
+  url: https://twitter.com/roytang/status/1474994017632882689/
 tags:
 - MagicArena
 ---
@@ -38,3 +40,15 @@ I've already done like 5-6 runs in event 4, it's so swingy!
 I guess I am attempting the rest of the events? 
 
 {{< photos 1474053617585836038 >}}
+
+[2021-12-26 14:42] #MagicArena decathlon event 6: Historic Artisan
+
+
+
+Got there on second attempt. First attempt was with Monoblack, second with Merfolk.
+
+
+
+Four attempts so far with event 5 (bot draft), haven't gotten there yet. 
+
+{{< photos 1474994017632882689 >}}
