@@ -51,7 +51,6 @@ Visit the [Links page](/links/) for more links of interest.
 - **Gaming**:
     - I finished [Blasphemous](https://store.steampowered.com/app/774361/Blasphemous/) yesterday! Still probably going to play it a bit this week to maybe get some achievements, but I am more or less done with the game I think. I expect to write a review this week.
     - Skipped the fighting games this past week. Card games still ongoing. Hit [Expedition Master in Eternal for the first time](/2021/12/1474317542785110017/). And currently trying to complete [the Decathlon events on Magic Arena](/2021/12/1472933987718815750/)!
-    - Saturday gaming group still playing **Root** and newcomer **Fury of Dracula**. I tried playing as Dracula during this weekend's session, was terrible at it and got cornered and lost. At least I won two games of Root!
 - **Watching:**
     - **Movies:** No movies watched this week!
     - **TV:** 
