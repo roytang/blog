@@ -19,6 +19,14 @@ syndicated:
   url: https://twitter.com/roytang/status/1475885158045679618/
 - type: twitter
   url: https://twitter.com/roytang/status/1475885160977428481/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rou1r2/december_26th_boxing/hqavm0a/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/ro710p/december_25th_presents/hqavle3/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rnj75u/december_24th_free_draw_friday/hqavk4x/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rmsdxm/december_23rd_reindeer/hqavjgn/
 tags:
 - sketchdaily
 title: Sketchdaily catchup Dec 29
