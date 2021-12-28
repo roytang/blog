@@ -1,0 +1,28 @@
+{
+  "id": "c9d4cc2d-a417-4f50-8a83-c0725a554b1a",
+  "name": "Wayne Werner",
+  "url": "https://mastodon.technology/@ketmorco",
+  "text": "[Wayne Werner](https://mastodon.technology/@ketmorco) [liked this](https://mastodon.technology/@roytang/107525794271156811#favorited-by-297563)",
+  "date": "2021-12-28 18:34:45",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/af35b990257822c5b67356f1e401bdaa31fe94bce2e099112dca3c1ed2382b98.png",
+  "source_url": "https://mastodon.technology/@roytang/107525794271156811#favorited-by-297563",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wayne Werner",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/af35b990257822c5b67356f1e401bdaa31fe94bce2e099112dca3c1ed2382b98.png",
+      "url": "https://mastodon.technology/@ketmorco"
+    },
+    "url": "https://mastodon.technology/@roytang/107525794271156811#favorited-by-297563",
+    "published": null,
+    "wm-received": "2021-12-28T18:34:45Z",
+    "wm-id": 1323332,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107525794271156811/297563",
+    "wm-target": "https://roytang.net/2021/12/9f32bc371e6cf43b5ec03e765ee6ddde/",
+    "like-of": "https://roytang.net/2021/12/9f32bc371e6cf43b5ec03e765ee6ddde/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

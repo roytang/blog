@@ -1,0 +1,28 @@
+{
+  "id": "78202f9e-ad1f-4fd2-b2c0-ee46f4b9cdb7",
+  "name": "N\u00e8s-Youyou",
+  "url": "https://mastodon.art/@NesYouyou",
+  "text": "[N\u00e8s-Youyou](https://mastodon.art/@NesYouyou) [liked this](https://mastodon.technology/@roytang/107525794271156811#favorited-by-106863057581844369)",
+  "date": "2021-12-28 18:34:18",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/5cb8ee8b53867787bc9bd1ed0d60cbde88b640bf09b38115e6046a9e51bc8047.png",
+  "source_url": "https://mastodon.technology/@roytang/107525794271156811#favorited-by-106863057581844369",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "N\u00e8s-Youyou",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/5cb8ee8b53867787bc9bd1ed0d60cbde88b640bf09b38115e6046a9e51bc8047.png",
+      "url": "https://mastodon.art/@NesYouyou"
+    },
+    "url": "https://mastodon.technology/@roytang/107525794271156811#favorited-by-106863057581844369",
+    "published": null,
+    "wm-received": "2021-12-28T18:34:18Z",
+    "wm-id": 1323331,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107525794271156811/106863057581844369",
+    "wm-target": "https://roytang.net/2021/12/9f32bc371e6cf43b5ec03e765ee6ddde/",
+    "like-of": "https://roytang.net/2021/12/9f32bc371e6cf43b5ec03e765ee6ddde/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
