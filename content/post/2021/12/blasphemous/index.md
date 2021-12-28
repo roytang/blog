@@ -3,10 +3,15 @@ date: 2021-12-28 05:23:16
 reviews:
 - media: games
   title: Blasphemous (Steam)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107523050932227381
+- type: twitter
+  url: https://twitter.com/roytang/status/1475709580252385281/
 tags:
 - gaming
 - games
-title: "Game Review: Blasphemous"
+title: 'Game Review: Blasphemous'
 ---
 
 I had already managed to finish the two single-player games I had targeted to finished before year's end ([1](/2021/11/great-ace-attorney/) [2](/2021/12/symphonia/)), but I figured I can squeeze in one more shorter game in the last two weeks of the year, so the week before Christmas I started playing [Blasphemous on Steam](https://store.steampowered.com/app/774361/Blasphemous/). It's a metroidvania I'd been meaning to play for a while, as I've seen it on a number of "top N metroidvanias" list, and apparently I had gotten it from Humble Bundle way back in December 2019.
