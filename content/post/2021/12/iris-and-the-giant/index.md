@@ -3,6 +3,11 @@ date: 2021-12-30 07:37:54
 reviews:
 - media: games
   title: Iris and the Giant (Steam)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107534831501721642
+- type: twitter
+  url: https://twitter.com/roytang/status/1476463540064034821/
 tags:
 - gaming
 - games
