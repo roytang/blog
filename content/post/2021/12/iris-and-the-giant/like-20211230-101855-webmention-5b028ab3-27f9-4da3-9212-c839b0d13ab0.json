@@ -1,0 +1,28 @@
+{
+  "id": "5b028ab3-27f9-4da3-9212-c839b0d13ab0",
+  "name": "Wouter Groeneveld",
+  "url": "https://chat.brainbaking.com/users/wouter",
+  "text": "[Wouter Groeneveld](https://chat.brainbaking.com/users/wouter) [liked this](https://mastodon.technology/@roytang/107534831501721642#favorited-by-386733)",
+  "date": "2021-12-30 10:18:55",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107534831501721642#favorited-by-386733",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+      "url": "https://chat.brainbaking.com/users/wouter"
+    },
+    "url": "https://mastodon.technology/@roytang/107534831501721642#favorited-by-386733",
+    "published": null,
+    "wm-received": "2021-12-30T10:18:55Z",
+    "wm-id": 1323810,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107534831501721642/386733",
+    "wm-target": "https://roytang.net/2021/12/iris-and-the-giant/",
+    "like-of": "https://roytang.net/2021/12/iris-and-the-giant/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
