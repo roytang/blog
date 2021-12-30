@@ -15,6 +15,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1474994017632882689/
 - type: twitter
   url: https://twitter.com/roytang/status/1476190347625590784/
+- type: twitter
+  url: https://twitter.com/roytang/status/1476354769421680641/
 tags:
 - MagicArena
 title: Magic Arena Decathlon 2021
@@ -59,3 +61,7 @@ Four attempts so far with event 5 (bot draft), haven't gotten there yet.
 <time>[2021-12-29 21:56] </time> Missed out on event 5 of the #MagicArena decathlon, so the perfect run is out (and I wasted far too many gems), but I did manage to get the 6th token via event 7 (Historic), guaranteeing 2nd run at the finals! Took me three tries with BG Food. Yet to decide whether to go for 8 
 
 {{< photos 1476190347625590784 >}}
+
+<time>[2021-12-30 08:49] </time> #MagicArena decathlon event 8: singleton. Got there in 2 tries, using Sam Black's list. Each game took forever though! At least I didn't spend gems. One more token to get a third finals entry! 
+
+{{< photos 1476354769421680641 >}}
