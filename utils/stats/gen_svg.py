@@ -11,7 +11,7 @@ import json
 
 thisyear = datetime.now().strftime("%Y")
 print(thisyear)
-thisyear = "2021"
+thisyear = "2022"
 root = Path(__file__).parent.absolute()
 
 def gen_chart(xaxis, yaxis, filename, title="", extra_data=[]):
@@ -75,6 +75,8 @@ def gen_svg_music(infile):
         artists_by_year = { "ALL": {} }
         tracks_by_year = { "ALL": {} }
         years = []
+        artists = []
+        tracks = []
         for row in read:
             date = datetime.strptime(row[3], '%d %b %Y %H:%M')
             year = date.strftime("%Y")
@@ -89,6 +91,13 @@ def gen_svg_music(infile):
             tracks_by_year[year] = tracks_by_year.get(year, {})
             tracks_by_year[year][track] = tracks_by_year[year].get(track, 0) + 1
             tracks_by_year["ALL"][track] = tracks_by_year["ALL"].get(track, 0) + 1
+
+            if artist not in artists:
+                artists.append(artist)
+            trackdata = artist + "::" + track
+            if trackdata not in tracks:
+                tracks.append(trackdata)
+
         years.sort()
         data = [counts_by_year[year] for year in years]
         gen_chart(years, data, "lastfm")
@@ -109,21 +118,24 @@ def gen_svg_music(infile):
 
         years.insert(0, "ALL")
         for year in years:
-            print("{{< grid3 >}}")
-            print("\n##### " + year)
-            print("\n{{< grid_item >}}")
-            print_top(year, "Artists", artists_by_year)
-            print("{{< /grid_item >}}")
-            print("{{< grid_item >}}")
-            print_top(year, "Tracks", tracks_by_year)
-            print("{{< /grid_item >}}")
-            print("{{< /grid3 >}}")
+            if year == "ALL" or year == "2021":
+                print("{{< grid3 >}}")
+                print("\n##### " + year)
+                print("\n{{< grid_item >}}")
+                print_top(year, "Artists", artists_by_year)
+                print("{{< /grid_item >}}")
+                print("{{< grid_item >}}")
+                print_top(year, "Tracks", tracks_by_year)
+                print("{{< /grid_item >}}")
+                print("{{< /grid3 >}}")
 
         print(len(artists_by_year["ALL"]))
+        print(len(artists))
+        print(len(tracks))
       
 
 # export file is from https://benjaminbenben.com/lastfm-to-csv/
-infile = "C:\\Users\\USER\\Dropbox\\backups\\lastfm-roytang-20201231.csv"
-# gen_svg_music(infile)
-gen_svg_blog()
-gen_svg_awstats()
+infile = "D:\\backups\\socmed\\lastfm-roytang-20211231.csv"
+gen_svg_music(infile)
+# gen_svg_blog()
+# gen_svg_awstats()

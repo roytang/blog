@@ -18,9 +18,9 @@ Note 2: Data is extracted via [this service](https://benjaminbenben.com/lastfm-t
 
 General stats:
 
-- Last update date: 2019-12-06
-- Number of tracks: 15,689
-- Number of artists: 1,376
+- Last update date: 2021-12-31
+- Number of unique tracks: 4,651
+- Number of artists: 1,661
 
 ### [Last.fm](https://last.fm) tracks by year
 
@@ -38,11 +38,11 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 
 ##### Artists
 
-- Eraserheads (1025)
-- Dashboard Confessional (875)
+- Eraserheads (1084)
+- Dashboard Confessional (913)
 - URBANDUB (700)
-- Rivermaya (542)
-- Gin Blossoms (524)
+- Rivermaya (565)
+- Gin Blossoms (538)
 {{< /grid_item >}}
 {{< grid_item >}}
 
@@ -328,5 +328,31 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Belle Of The Boulevard - Acoustic (6)
 - Africa (6)
 - Long Day (6)
+{{< /grid_item >}}
+{{< /grid3 >}}
+
+{{< grid3 >}}
+
+##### 2021
+
+{{< grid_item >}}
+
+##### Artists
+
+- Eraserheads (59)
+- Vertical Horizon (48)
+- アトラスサウンドチーム (43)
+- Bon Jovi (42)
+- Goo Goo Dolls (40)
+{{< /grid_item >}}
+{{< grid_item >}}
+
+##### Tracks
+
+- Closing Time (14)
+- Champagne Supernova - Remastered (13)
+- Footprints in the Snow (13)
+- Stitches And Burns (12)
+- Inspector Mills (12)
 {{< /grid_item >}}
 {{< /grid3 >}}
