@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107547583407541085
 - type: twitter
   url: https://twitter.com/roytang/status/1477279654717231104/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rtge11/january_1st_resolutions/hqv3az4/
 tags:
 - sketchdaily
 title: Daily sketch Jan 01
