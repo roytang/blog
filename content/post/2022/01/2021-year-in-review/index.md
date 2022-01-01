@@ -1,5 +1,5 @@
 ---
-date: 2021-12-29
+date: 2022-01-01
 tags:
 - yearnotes
 draft: true
