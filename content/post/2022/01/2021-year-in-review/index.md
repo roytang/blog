@@ -54,7 +54,7 @@ I will fully admit I spent far too much time putting these stats together, but t
     - [Rubber-Band Powered Car](/2021/09/rubber-band-bottle-car/)
     - [The Covid Experience](/2021/10/covid-experience/)
     - [Thoughts on the Leni Campaign](/2021/10/leni-campaign/)
-- 176 [links shared](/links/) - down from 115 last year
+- 176 [links shared](/links/) - up from 115 last year
 - 290 comments! Down from 486 last year.
 - [Facebook](https://www.facebook.com/stephen.roy.tang/): 0 posts and 0 comments. 
     - My account has been reactivated though, because I needed to check some stuff there at one point. However, I went ahead and unfollowed everyone on there, so that I'm not tempted to open it too often.
