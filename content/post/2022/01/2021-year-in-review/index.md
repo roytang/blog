@@ -1,9 +1,14 @@
 ---
 date: 2022-01-01
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107546159308547003
+- type: twitter
+  url: https://twitter.com/roytang/status/1477188511170064384/
 tags:
 - yearnotes
-title: "2021 Year in Review"
-dontinlinephotos: true
+title: 2021 Year in Review
 toc: true
 ---
 
