@@ -1,6 +1,7 @@
 ---
 albums:
 - sketchbook
+- 2021-fave-sketches
 date: 2021-11-10 15:02:14.840215
 resources:
 - src: 2021-11-08-dog-blanket.png

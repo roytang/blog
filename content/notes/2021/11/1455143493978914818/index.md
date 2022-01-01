@@ -1,4 +1,6 @@
 ---
+albums:
+- 2021-fave-sketches
 date: 2021-11-01 12:03:38
 dontinlinephotos: true
 source: twitter

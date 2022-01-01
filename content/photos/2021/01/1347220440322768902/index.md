@@ -1,4 +1,7 @@
 ---
+albums:
+- sketchbook
+- 2021-fave-sketches
 date: 2021-01-07 08:35:57
 source: twitter
 syndicated:
@@ -8,8 +11,6 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/ksaamq/january_7th_icicles/gifukm2/
 tags:
 - sketchdaily
-albums:
-- sketchbook
 ---
 
 Amazing Friend number 1 #sketchdaily 7/365

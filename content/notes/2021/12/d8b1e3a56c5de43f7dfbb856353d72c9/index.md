@@ -1,6 +1,7 @@
 ---
 albums:
 - sketchbook
+- 2021-fave-sketches
 date: 2021-12-07 14:47:47.440874
 resources:
 - src: 1_20211207_222506.jpg
