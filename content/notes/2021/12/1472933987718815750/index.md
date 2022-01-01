@@ -17,6 +17,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1476190347625590784/
 - type: twitter
   url: https://twitter.com/roytang/status/1476354769421680641/
+- type: twitter
+  url: https://twitter.com/roytang/status/1477089229960146944/
 tags:
 - MagicArena
 title: Magic Arena Decathlon 2021
@@ -65,3 +67,7 @@ Four attempts so far with event 5 (bot draft), haven't gotten there yet.
 <time>[2021-12-30 08:49] </time> #MagicArena decathlon event 8: singleton. Got there in 2 tries, using Sam Black's list. Each game took forever though! At least I didn't spend gems. One more token to get a third finals entry! 
 
 {{< photos 1476354769421680641 >}}
+
+<time>[2022-01-01 09:28] </time> #MagicArena decathlon event 9: standard bo3. Took me FOUR tries. Monogreen bombed. Two tries with Izzet almost got there but every mirror match was a miserable grind. Finally swept the event with Monowhite. That gets me 3 runs at the final! (No need to do event 10!) 
+
+{{< photos 1477089229960146944 >}}
