@@ -40,6 +40,7 @@ I will fully admit I spent far too much time putting these stats together, but t
     - I learned Godot's GDScript for my gamedev adventures!
 - Duolingo streak: 1082 days (from 718 last year). 
     - The math here doesn't add up, since 1082 - 718 is only 364, but maybe I took the above stat on Jan 1 2021? I'm pretty sure I never broke the Duolingo streak this year, not even with a streak freeze! I will admit to being super lazy with Duolingo this year though. I used to always do both Spanish and Japanese exercises everyday, but this year I mostly chose one or the other. We'll see if we can improve that next year!
+    - There was [a Duolingo year in review](/2021/12/1468107156881051652/)!
 - Other countries visited: 0!
 
 #### On the internet
