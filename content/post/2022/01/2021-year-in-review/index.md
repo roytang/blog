@@ -2,7 +2,6 @@
 date: 2022-01-01
 tags:
 - yearnotes
-draft: true
 title: "2021 Year in Review"
 dontinlinephotos: true
 toc: true
