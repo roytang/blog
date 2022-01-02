@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107553028978436505
 - type: twitter
   url: https://twitter.com/roytang/status/1477628171147100164/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/ru6m9b/january_2nd_tea_set/hqxohz0/
 tags:
 - sketchdaily
 title: ''
