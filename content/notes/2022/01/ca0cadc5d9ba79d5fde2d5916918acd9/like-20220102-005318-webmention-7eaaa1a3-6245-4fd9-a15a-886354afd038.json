@@ -1,0 +1,28 @@
+{
+  "id": "7eaaa1a3-6245-4fd9-a15a-886354afd038",
+  "name": "Joy Madamba",
+  "url": "https://twitter.com/joyarmadamba",
+  "text": "[Joy Madamba](https://twitter.com/joyarmadamba) [liked this](https://twitter.com/roytang/status/1477279654717231104#favorited-by-329231520)",
+  "date": "2022-01-02 00:53:18",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/e5e01f731806c35a527557b94f063a8e560f855f5dabb215844dee3da9cc35a0.jpg",
+  "source_url": "https://twitter.com/roytang/status/1477279654717231104#favorited-by-329231520/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Joy Madamba",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e5e01f731806c35a527557b94f063a8e560f855f5dabb215844dee3da9cc35a0.jpg",
+      "url": "https://twitter.com/joyarmadamba"
+    },
+    "url": "https://twitter.com/roytang/status/1477279654717231104#favorited-by-329231520",
+    "published": null,
+    "wm-received": "2022-01-02T00:53:18Z",
+    "wm-id": 1324752,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1477279654717231104/329231520",
+    "wm-target": "https://roytang.net/2022/01/ca0cadc5d9ba79d5fde2d5916918acd9/",
+    "like-of": "https://roytang.net/2022/01/ca0cadc5d9ba79d5fde2d5916918acd9/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
