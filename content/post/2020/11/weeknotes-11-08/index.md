@@ -8,7 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1325340174117609472/
 tags:
 - weeknotes
-title: Weeknotes 2020-11-01 A Collective Sigh of Relief
+title: Weeknotes 2020-11-08 A Collective Sigh of Relief
 ---
 
 **The World**: Somehow the week seemed to go by both quickly and agonizingly slowly, mostly because of the US presidential elections held this week. Slowly because after the initial burst of results on Tuesday night (US time), the remaining states' results trickled in very slowly. Quickly because much time was spent doomscrolling and refreshing election-related updates. I think the world collectively breathed a sigh of relief this weekend as the US networks finally called the race for former VP and now president-elect Joe Biden. Celebrations on the streets in many cities in the US, notably New York and Philadelphia. Trump still won't concede and vows legal action, but that seems unlikely to go anywhere except make him look immature and pathetic.
