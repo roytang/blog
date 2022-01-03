@@ -1,0 +1,28 @@
+{
+  "id": "46a61267-6ae8-4bb2-823c-c0f1c2415ecc",
+  "name": "Molly\u2019sArtMove Gallery C.E.O Molly Winckelmans",
+  "url": "https://twitter.com/MollysArtMove1",
+  "text": "[Molly\u2019sArtMove Gallery C.E.O Molly Winckelmans](https://twitter.com/MollysArtMove1) [liked this](https://twitter.com/roytang/status/1476905963152019459#favorited-by-581856868)",
+  "date": "2022-01-03 20:15:47",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/14cbee4cec0282ac450f740b7c1da9901db77e7022c42f296519216aaaffce80.jpg",
+  "source_url": "https://twitter.com/roytang/status/1476905963152019459#favorited-by-581856868/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Molly\u2019sArtMove Gallery C.E.O Molly Winckelmans",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/14cbee4cec0282ac450f740b7c1da9901db77e7022c42f296519216aaaffce80.jpg",
+      "url": "https://twitter.com/MollysArtMove1"
+    },
+    "url": "https://twitter.com/roytang/status/1476905963152019459#favorited-by-581856868",
+    "published": null,
+    "wm-received": "2022-01-03T20:15:47Z",
+    "wm-id": 1325876,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1476905963152019459/581856868",
+    "wm-target": "https://roytang.net/2021/12/600746257dd2560b7dfb9e3e6abacb57/",
+    "like-of": "https://roytang.net/2021/12/600746257dd2560b7dfb9e3e6abacb57/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
