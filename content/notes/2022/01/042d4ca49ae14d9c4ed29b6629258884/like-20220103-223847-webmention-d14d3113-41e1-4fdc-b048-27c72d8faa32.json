@@ -1,0 +1,28 @@
+{
+  "id": "d14d3113-41e1-4fdc-b048-27c72d8faa32",
+  "name": "DanielMuirhead3D",
+  "url": "https://twitter.com/DanMuirhead3D",
+  "text": "[DanielMuirhead3D](https://twitter.com/DanMuirhead3D) [liked this](https://twitter.com/roytang/status/1478010593042833408#favorited-by-1161036949295177729)",
+  "date": "2022-01-03 22:38:47",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/7f1da3b8eb69258fbdec6d8c21c328741bc834ad66a162a54aa737c9397b4802.jpg",
+  "source_url": "https://twitter.com/roytang/status/1478010593042833408#favorited-by-1161036949295177729/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "DanielMuirhead3D",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/7f1da3b8eb69258fbdec6d8c21c328741bc834ad66a162a54aa737c9397b4802.jpg",
+      "url": "https://twitter.com/DanMuirhead3D"
+    },
+    "url": "https://twitter.com/roytang/status/1478010593042833408#favorited-by-1161036949295177729",
+    "published": null,
+    "wm-received": "2022-01-03T22:38:47Z",
+    "wm-id": 1325925,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1478010593042833408/1161036949295177729",
+    "wm-target": "https://roytang.net/2022/01/042d4ca49ae14d9c4ed29b6629258884/",
+    "like-of": "https://roytang.net/2022/01/042d4ca49ae14d9c4ed29b6629258884/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
