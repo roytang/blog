@@ -5,7 +5,7 @@ reply_to:
     on /r/supergirlTV'
   name: ''
   type: reddit
-  url: https://reddit.com/r/supergirlTV/comments/b2cfmf/supergirl_4x15_o_brother_where_art_thou_post/
+  url: https://www.reddit.com/r/supergirlTV/comments/b2cfmf/supergirl_4x15_o_brother_where_art_thou_post/
 source: reddit
 syndicated:
 - type: reddit
