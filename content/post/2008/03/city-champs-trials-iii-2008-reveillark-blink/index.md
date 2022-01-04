@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-03-09 07:08:28
+location: robinsons_galleria
 tags:
 - mtg
 title: 'City Champs Trials III 2008: Reveillark Blink'
