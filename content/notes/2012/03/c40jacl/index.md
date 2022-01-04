@@ -1,11 +1,11 @@
 ---
-date: 2012-03-13 00:00:00+00:00
+date: 2012-03-13 13:25:15+00:00
 reply_to:
   label: '''My Obliterator caused my opponents Doomed Traveler to win the game for
     him! Some rules help please.'' on /r/magicTCG'
   name: ''
   type: reddit
-  url: https://reddit.com/r/magicTCG/comments/quh5j/my_obliterator_caused_my_opponents_doomed/
+  url: https://www.reddit.com/r/magicTCG/comments/quh5j/my_obliterator_caused_my_opponents_doomed/
 source: reddit
 syndicated:
 - type: reddit
