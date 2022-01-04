@@ -14,8 +14,6 @@ type: post
 url: /2013/12/2013-books-and-games/
 reviews:
 - media: books
-  title: Slaughterhouse Five by Kurt Vonnegut
-- media: books
   title: Foundation Trilogy by Isaac Asimov
 - media: books
   title: Shadows in Flight by Orson Scott Card
