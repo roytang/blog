@@ -8,6 +8,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/183057459068407808/
 - type: foursquare
   url: https://www.swarmapp.com/user/405004/checkin/4f6c0529e4b08a0bb8d493e7?s=n1R9JFDqzEfKGsXGC2-1ivdGpZs&ref=tw
+- type: twitter
+  url: https://twitter.com/roytang/statuses/183057458380554240/
 ---
 
 I'm at SM Megamall (Mandaluyong City, Metro Manila) w/ 13 others http://4sq.com/GIdGct
+
+I just unlocked the “Mall Rat” badge on @foursquare! Time for a fancy pretzel. http://4sq.com/GIdGcr
