@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107570388807841326
 - type: twitter
   url: https://twitter.com/roytang/status/1478739206448943104/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rwje0v/january_5th_paper_products/hrcx9lg/
 tags:
 - sketchdaily
 title: ''
