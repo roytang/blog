@@ -44,10 +44,13 @@ Something I've gotten used to as the New Year rolls in: make a checklist of thin
   * Be kind.
   * Relax, give yourself room to breathe and grow.
   * Figure out how to help people make better choices in this year's elections.
+  * Maybe try to win an Arena Open?
   
 ### Some stuff I'm looking forward to in 2022. 
 
 We are still in a pandemic, so who knows if these release dates hold! For movies, it doesn't even seem likely I'll be able to see them in theaters! I try to keep this list updated throughout the year as release dates get shuffled around.
+
+(I freely admit this part is the more important one for me - it's basically a preview of the upcoming year in entertainment for me!)
 
 #### Movies:
 
