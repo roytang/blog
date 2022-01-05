@@ -62,8 +62,8 @@ We are still in a pandemic, so who knows if these release dates hold! For movies
 | Feb 18 | Uncharted |
 | Mar 04 | The Batman |
 | Mar 25 | [Everything Everywhere All at Once](https://www.youtube.com/watch?v=K8DNVS3-1Io) |
-| Apr | Morbius |
-| Apr 22 | The Unbearable Weight of Massive Talent |
+| Apr 01 | Morbius |
+| Apr 22 | [The Unbearable Weight of Massive Talent](https://www.youtube.com/watch?v=NYworUrxpkc) |
 | May 06 | Doctor Strange and the Multiverse of Madness |
 | Jun 10 | Jurassic World Dominion | Wait, I don't think I even saw the last one lol |
 | Jun 17 | Lightyear |
