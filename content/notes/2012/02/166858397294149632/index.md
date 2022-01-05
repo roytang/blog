@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/166858397294149632/
 - type: foursquare
   url: https://www.swarmapp.com/user/405004/checkin/4f31169ce4b0731146bf0a1f?s=mDOx_R5XR-hToLv9_aPvs61-c6o&ref=tw
+tags:
+- quiznight
 ---
 
 I'm at Murphy's Authentic Irish Pub http://4sq.com/w3k8YB

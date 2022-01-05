@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/user/405004/checkin/5135de67e4b059218b231a3b?s=BkTwGeR5IycL53C2Iga9kZJ6t3c&ref=tw
 - type: foursquare
   url: https://www.swarmapp.com/user/405004/checkin/5135de67e4b059218b231a3b?s=BkTwGeR5IycL53C2Iga9kZJ6t3c&ref=tw
+tags:
+- quiznight
 ---
 
 I'm at Murphy's Irish Pub http://4sq.com/ZkH5xv

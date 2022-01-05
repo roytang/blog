@@ -1,14 +1,19 @@
 ---
-date: 2016-03-22 20:04:42
+date: 2016-03-22 12:04:42+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/AndroidQuestions/comments/4bh3wa/problems_with_asus_memopad_7/
+  url: https://www.reddit.com/r/AndroidQuestions/comments/4bh3wa/problems_with_asus_memopad_7/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/712303909457428480/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154464505818912
 tags:
-- androidquestions
+- AndroidQuestions
+- reddit_submission
 ---
 
-#### Posted on r/AndroidQuestions: [Problems with ASUS Memopad 7](https://reddit.com/r/AndroidQuestions/comments/4bh3wa/problems_with_asus_memopad_7/)
+#### Posted on r/AndroidQuestions: [Problems with ASUS Memopad 7](https://www.reddit.com/r/AndroidQuestions/comments/4bh3wa/problems_with_asus_memopad_7/)
 
 Hello,
 
