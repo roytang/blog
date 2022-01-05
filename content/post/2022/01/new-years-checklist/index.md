@@ -1,7 +1,12 @@
 ---
 author: roy
-date: 2022-01-05T21:56:36+08:00
+date: 2022-01-05 13:56:36
 slug: new-years-checklist
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107570305395035422
+- type: twitter
+  url: https://twitter.com/roytang/status/1478733857096552448/
 tags:
 - new-years-checklist
 title: New Year's Checklist 2022
@@ -94,4 +99,4 @@ Other than that, I hope to at least play/finish the following games this year:
 | TBA | Invincible S2 |
 | TBA | The Boys S3 |
 
-So many TBAs! Also honestly probably forgetting a lot of TV series that also have new seasons coming out this year. 
+So many TBAs! Also honestly probably forgetting a lot of TV series that also have new seasons coming out this year.
