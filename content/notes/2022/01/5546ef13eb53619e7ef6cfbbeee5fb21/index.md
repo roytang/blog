@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107576661991395631
 - type: twitter
   url: https://twitter.com/roytang/status/1479140683852091395/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/rxaz58/january_6th_horizon/hrijxgg/
 tags:
 - sketchdaily
 title: ''
