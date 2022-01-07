@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107582285371296277
 - type: twitter
   url: https://twitter.com/roytang/status/1479500583119712256/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/ry4168/january_7th_tacos/hrnry5n/
 tags:
 - sketchdaily
 - streetfighterv
