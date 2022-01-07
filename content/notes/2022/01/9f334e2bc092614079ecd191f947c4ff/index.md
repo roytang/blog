@@ -16,6 +16,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1479435528743182340/
 - type: twitter
   url: https://twitter.com/roytang/status/1479435530458652673/
+tags:
+- movies
 title: Pig (2021)
 ---
 
