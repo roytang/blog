@@ -16,8 +16,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154472200883912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4bvq56/march_25th_free_draw_friday/d1d5gxe/
+- type: reddit
+  url: https://reddit.com/r/comiccharacterdrawing/comments/4byv2b/oa_batman_v_superman_based_on_batman_50_alternate/
 tags:
 - sketchdaily
 ---
 
 Dawn of Justice #sketchdaily this one took me longer than Man of Steel's running time
+
+(based on Batman #50 alternate cover)

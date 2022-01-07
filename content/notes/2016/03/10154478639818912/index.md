@@ -31,5 +31,4 @@ Batman vs Superman Dawn of Justice Spoiler-Free Review:
 - many, many things pointing towards the eventual JL movie 
 - IMAX? Probably not worth it. Not too much 3d stuff 
 - Post-credits scene: NO. Or so the internet tells me, we didn't bother to wait  
-- 
 - I can see why the reviewers kind of ripped the movie apart. They definitely need to work more on tightening up the movies, but overall this was better than Man of Steel I think.

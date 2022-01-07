@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1401578265/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/74709229306
+tags:
+- mtg
 ---
 
 went 2-1-1 at FNM. Note to self: Stop keeping two land hands that "might get there". Especially with a control deck!
