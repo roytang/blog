@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2009-03-28 23:44:53
+location: robinsons_galleria
 tags:
 - mtg
 title: Standard on Mar 28
