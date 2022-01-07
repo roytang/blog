@@ -1,0 +1,21 @@
+---
+albums:
+- sketchbook
+date: 2022-01-07 17:09:51.871276
+resources:
+- src: 1_CC700457-9316-46C2-9C41-0101C07D0221.png
+  title: Birdie
+source: form
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107582285371296277
+- type: twitter
+  url: https://twitter.com/roytang/status/1479500583119712256/
+tags:
+- sketchdaily
+- streetfighterv
+- gaming
+title: ''
+---
+
+#sketchdaily Jan 7 Birdie 7/365 #streetfighterv
