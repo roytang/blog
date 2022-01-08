@@ -1,5 +1,5 @@
 ---
-date: 2022-01-08 04:34:16.816320
+date: 2022-01-08 04:42:46.557154
 resources:
 - src: 1_ehub1.png
   title: Registration form where I can indicate I am a representative
@@ -8,15 +8,11 @@ resources:
 source: form
 syndicated:
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107584976425877509
-- type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107584976481151352
+  url: https://mastodon.technology/users/roytang/statuses/107585009863923924
 - type: twitter
-  url: https://twitter.com/roytang/status/1479672810741977088/
+  url: https://twitter.com/roytang/status/1479674947001720836/
 - type: twitter
-  url: https://twitter.com/roytang/status/1479672812595863554/
-- type: twitter
-  url: https://twitter.com/roytang/status/1479672813959073796/
+  url: https://twitter.com/roytang/status/1479674948738158594/
 tags:
 - tech-life
 title: '"Technologically challenged"'

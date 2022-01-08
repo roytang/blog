@@ -1,11 +1,16 @@
 ---
-title: "The Mysterious Affair at Styles by Agatha Christie"
-date: 2022-01-08T12:12:22+08:00
-tags:
-- books
+date: 2022-01-08 04:12:22
 reviews:
 - media: books
   title: The Mysterious Affair at Styles by Agatha Christie
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107585021795405234
+- type: twitter
+  url: https://twitter.com/roytang/status/1479675706615341056/
+tags:
+- books
+title: The Mysterious Affair at Styles by Agatha Christie
 ---
 
 Decided to kick off the year's reading with a short one: The Mysterious Affair at Styles by Agatha Christie. This was her first published novel and also the first appearance of famed Belgian detective Hercule Poirot! I was able to finish the book in one sitting, something I haven't done in a while!
