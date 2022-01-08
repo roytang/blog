@@ -1,0 +1,28 @@
+{
+  "id": "26e61c75-13c4-4589-ac82-e2955259204f",
+  "name": "Aleks Felipe",
+  "url": "https://twitter.com/aleksfelipe",
+  "text": "[Aleks Felipe](https://twitter.com/aleksfelipe) [liked this](https://twitter.com/roytang/status/1479674948738158594#favorited-by-12953232)",
+  "date": "2022-01-08 06:14:05",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/8f1e9a41f621bec10bb0c6afcc37726ec452bc39670fbaf87f740c97d63544bd.jpg",
+  "source_url": "https://twitter.com/roytang/status/1479674948738158594#favorited-by-12953232/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Aleks Felipe",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8f1e9a41f621bec10bb0c6afcc37726ec452bc39670fbaf87f740c97d63544bd.jpg",
+      "url": "https://twitter.com/aleksfelipe"
+    },
+    "url": "https://twitter.com/roytang/status/1479674948738158594#favorited-by-12953232",
+    "published": null,
+    "wm-received": "2022-01-08T06:14:05Z",
+    "wm-id": 1328297,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1479674948738158594/12953232",
+    "wm-target": "https://roytang.net/2022/01/1a45f1af76682a39ffec7ce8e032d200/",
+    "like-of": "https://roytang.net/2022/01/1a45f1af76682a39ffec7ce8e032d200/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
