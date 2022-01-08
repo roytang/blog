@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-03-31 19:51:04
+location: robinsons_galleria
 tags:
 - mtg
 title: 'PTQ: San Diego'
