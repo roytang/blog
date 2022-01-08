@@ -6,7 +6,6 @@ tags:
 reviews:
 - media: books
   title: The Mysterious Affair at Styles by Agatha Christie
-draft: true
 ---
 
 Decided to kick off the year's reading with a short one: The Mysterious Affair at Styles by Agatha Christie. This was her first published novel and also the first appearance of famed Belgian detective Hercule Poirot! I was able to finish the book in one sitting, something I haven't done in a while!
