@@ -19,6 +19,10 @@ syndicated:
   url: https://twitter.com/roytang/status/1476354769421680641/
 - type: twitter
   url: https://twitter.com/roytang/status/1477089229960146944/
+- type: twitter
+  url: https://twitter.com/roytang/status/1480204706781663239/
+- type: twitter
+  url: https://twitter.com/roytang/status/1480205135544406019/
 tags:
 - MagicArena
 title: Magic Arena Decathlon 2021
@@ -71,3 +75,11 @@ Four attempts so far with event 5 (bot draft), haven't gotten there yet.
 <time>[2022-01-01 09:28] </time> #MagicArena decathlon event 9: standard bo3. Took me FOUR tries. Monogreen bombed. Two tries with Izzet almost got there but every mirror match was a miserable grind. Finally swept the event with Monowhite. That gets me 3 runs at the final! (No need to do event 10!) 
 
 {{< photos 1477089229960146944 >}}
+
+<time>[2022-01-09 23:47] </time> The #MagicArena decathlon finals today, with the format being Arena Cube BO3 draft. Unfortunately, I did poorly in all 3 entries! I only had two wins across all 3 entries! I also have recordings, not sure if I should bother uploading! Here are the decks I drafted: 
+
+{{< photos 1480204706781663239 >}}
+
+<time>[2022-01-09 23:49] </time> The annoying thing is I actually had some practice runs in the Cube BO3 event, and all my practice runs went 3-0 or 2-1, so I thought I had a handle on the format, clearly I was wrong! Here are some of the decks I drafted that did well (you will notice a pattern lol) 
+
+{{< photos 1480205135544406019 >}}
