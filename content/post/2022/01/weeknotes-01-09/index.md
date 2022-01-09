@@ -61,3 +61,4 @@ Visit the [Links page](/links/) for more links of interest.
 
 - **Eternals** comes out for streaming this week! It kind of got mixed reviews, but still looking forward to an MCU film.
 - **The Expanse** series finale!
+- **Peacemaker** (spinning off from [The Suicide Squad](/2021/08/the-suicide-squad/)) is out on HBO this week as well, not yet sure if I'll be watching it.
