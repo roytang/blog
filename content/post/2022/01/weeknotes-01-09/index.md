@@ -1,7 +1,12 @@
 ---
-date: 2022-01-09T23:30:32+08:00
+date: 2022-01-09 15:30:32
 featuredResource:
   photo: /2022/01/5546ef13eb53619e7ef6cfbbeee5fb21/
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107593493381061174
+- type: twitter
+  url: https://twitter.com/roytang/status/1480217888162078724/
 tags:
 - weeknotes
 - philippines
