@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107599322998567696
 - type: twitter
   url: https://twitter.com/roytang/status/1480590992583450626/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s0gjkh/january_10th_the_matrix/hs35fxm/
 tags:
 - sketchdaily
 - transformers
