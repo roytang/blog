@@ -12,6 +12,11 @@ tags:
 title: "PIMP MY RIG we test parts for you.."
 type: post
 url: /2005/05/pimp-my-rig-we-test-parts-for-you/
+link:
+  source: delicious
+  source_url: https://del.icio.us/roytang
+  text: PIMP MY RIG -- we test parts for you..
+  url: http://www.pimp-my-rig.com/
 ---
 
 [Pimp My Rig ][1]is a hardware review side associated with a friend of mine from high school. Yes, I was asked to help promote it. 😀

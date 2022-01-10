@@ -7,6 +7,11 @@ tags:
 title: Recording Industry vs The People
 type: post
 url: /2006/04/recording-industry-vs-the-people/
+link:
+  source: delicious
+  source_url: https://del.icio.us/roytang
+  text: Recording Industry vs The People
+  url: http://recordingindustryvspeople.blogspot.com/
 ---
 
 There are a handful of issues that would influence the general direction of the human race in years to come. Terrorism, oil scarcity, trade imbalances and worldwide poverty come to mind, and these are the ones most commonly discussed in mainstream media. There is however, another important battle being waged that is far removed from the minds of the everyday person. That battle is [Recording Industry vs The People][1].
