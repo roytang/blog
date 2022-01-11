@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107604548001105729
 - type: twitter
   url: https://twitter.com/roytang/status/1480925396300439562/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s19hrw/january_11th_dry/hs7tqzq/
 tags:
 - sketchdaily
 title: ''
