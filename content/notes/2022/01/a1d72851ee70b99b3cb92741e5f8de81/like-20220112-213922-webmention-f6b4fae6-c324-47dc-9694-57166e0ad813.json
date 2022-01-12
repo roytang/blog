@@ -1,0 +1,28 @@
+{
+  "id": "f6b4fae6-c324-47dc-9694-57166e0ad813",
+  "name": "(Dirkx) Ink",
+  "url": "https://twitter.com/dirkxink",
+  "text": "[(Dirkx) Ink](https://twitter.com/dirkxink) [liked this](https://twitter.com/roytang/status/1481243441774604288#favorited-by-1014507253)",
+  "date": "2022-01-12 21:39:22",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/31d134b7672e5175ddcebc5716b53f865da0e9a4c66607ac9190a11b26996415.jpg",
+  "source_url": "https://twitter.com/roytang/status/1481243441774604288#favorited-by-1014507253/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "(Dirkx) Ink",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/31d134b7672e5175ddcebc5716b53f865da0e9a4c66607ac9190a11b26996415.jpg",
+      "url": "https://twitter.com/dirkxink"
+    },
+    "url": "https://twitter.com/roytang/status/1481243441774604288#favorited-by-1014507253",
+    "published": null,
+    "wm-received": "2022-01-12T21:39:22Z",
+    "wm-id": 1330482,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1481243441774604288/1014507253",
+    "wm-target": "https://roytang.net/2022/01/a1d72851ee70b99b3cb92741e5f8de81/",
+    "like-of": "https://roytang.net/2022/01/a1d72851ee70b99b3cb92741e5f8de81/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
