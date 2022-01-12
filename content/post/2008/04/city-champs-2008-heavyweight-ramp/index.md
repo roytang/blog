@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-04-03 06:51:58
+location: robinsons_galleria
 tags:
 - mtg
 title: 'City Champs 2008: Heavyweight Ramp'

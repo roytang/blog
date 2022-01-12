@@ -62,7 +62,7 @@ tags:
 | **Sep** | Theros | | |
 | **Jul** | Magic 2014 | | |
 | **May** | Dragon's Maze | | |
-| **Feb** | Gatecrash | [Prerelease](/2013/01/294968223756075009/) | |
+| **Feb** | Gatecrash | [Prerelease](/2013/01/294968223756075009/) | [Apr WMCQ](/2013/04/320460449785204736/) |
 | **2012** |
 | **Oct** | Return to Ravnica | | |
 | **Jul** | Magic 2013 | | |

@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-04-07 04:36:06
+location: robinsons_galleria
 tags:
 - mtg
 title: Pre-Shadowmoor Triple Treat I -- Under the Sea
