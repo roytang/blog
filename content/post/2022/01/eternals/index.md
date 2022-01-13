@@ -1,13 +1,18 @@
 ---
-title: "Eternals (2021) Spoiler-free Review"
-date: 2022-01-13T19:15:10+08:00
+date: 2022-01-13 11:15:10
+reviews:
+- media: movies
+  title: Eternals (2021)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107614907717234530
+- type: twitter
+  url: https://twitter.com/roytang/status/1481588405670912007/
 tags:
 - movies
 - spoiler-free review
 - mcu
-reviews:
-- media: movies
-  title: "Eternals (2021)"
+title: Eternals (2021) Spoiler-free Review
 ---
 
 Finally got to watch Eternals since it was already got a streaming release. (Sadly still unable to go out and watch films in the theater.)
