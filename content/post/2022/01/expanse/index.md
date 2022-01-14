@@ -1,11 +1,16 @@
 ---
-title: "The Expanse"
-date: 2022-01-14T16:10:25+08:00
-tags:
-- tv
+date: 2022-01-14 08:10:25
 reviews:
 - media: tv
-  title: "The Expanse"
+  title: The Expanse
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107619912775122352
+- type: twitter
+  url: https://twitter.com/roytang/status/1481908741083906050/
+tags:
+- tv
+title: The Expanse
 ---
 
 > "The universe never tells us if we did right or wrong. It's more important to try and help people than to know you did. More important that someone else's life gets better than for you to feel good about yourself. You never know the effect you might have on someone, not really. Maybe one core thing you said haunts them forever. Maybe one moment of kindness gives them comfort, or courage. Maybe you said the one thing they needed to hear. It doesn't matter if you know. You just have to try." 
