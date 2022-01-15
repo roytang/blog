@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107626489547684406
 - type: twitter
   url: https://twitter.com/roytang/status/1482329652752691201/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s3osib/january_14th_free_draw_friday/hsrb5sq/
 tags:
 - sketchdaily
 title: ''
