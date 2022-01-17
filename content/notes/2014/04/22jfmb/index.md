@@ -1,14 +1,15 @@
 ---
-date: 2014-04-09 03:00:33
+date: 2014-04-08 19:00:33+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/22jfmb/question_about_brubakers_winter_soldier_story_line/
+  url: https://www.reddit.com/r/comicbooks/comments/22jfmb/question_about_brubakers_winter_soldier_story_line/
 tags:
-- comics
+- comicbooks
+- reddit_submission
 ---
 
-#### Posted on r/comicbooks: [Question about Brubaker's Winter Soldier story line](https://reddit.com/r/comicbooks/comments/22jfmb/question_about_brubakers_winter_soldier_story_line/)
+#### Posted on r/comicbooks: [Question about Brubaker's Winter Soldier story line](https://www.reddit.com/r/comicbooks/comments/22jfmb/question_about_brubakers_winter_soldier_story_line/)
 
 Just finished reading the Man Out of Time and Winter Soldier story arcs of Brubaker's Captain America run.
 
