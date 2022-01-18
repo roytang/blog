@@ -1,9 +1,14 @@
 ---
-title: "Wordle and Things Like It"
-date: 2022-01-18T08:28:33+08:00
+date: 2022-01-18 00:28:33
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107640718375236968
+- type: twitter
+  url: https://twitter.com/roytang/status/1483240287762026500/
 tags:
 - games
 - tech-life
+title: Wordle and Things Like It
 ---
 
 I first wrote about Wordle [back in November](/2021/11/couple-word-games/). Back then I thought it was neat and played it a few times, but not with any regularity.
@@ -45,4 +50,3 @@ If you enjoyed Wordle, here are some other variants / spoofs / spin-offs I've tr
 - [Saltong](https://saltong.vercel.app/): the inevitable Filipino clone. I assume other languages have similar versions already too!
 - [Sweardle](https://www.sweardle.com/): only 4 letter swear words. Lol that's not gonna last
 - [Letterle](https://edjefferson.com/letterle/): lol just a ridiculous spoof. I [tried it once](/2022/01/1480944129861648384/)!
-
