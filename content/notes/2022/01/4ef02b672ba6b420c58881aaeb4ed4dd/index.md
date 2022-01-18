@@ -12,6 +12,25 @@ resources:
 - src: 4_sketch_rachelsummers.jpg
   title: Rachel Summers
 source: form
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107643334379974381
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107643334436824048
+- type: twitter
+  url: https://twitter.com/roytang/status/1483407729293414400/
+- type: twitter
+  url: https://twitter.com/roytang/status/1483407732250390531/
+- type: twitter
+  url: https://twitter.com/roytang/status/1483407733538050053/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s6u199/january_18th_summer/ht60m2y/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s60hzx/january_17th_accessories/ht60lml/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s58oa9/january_16th_celebrity_portrait/ht60l8v/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s4h3m8/january_15th_observation_sketches/ht60kun/
 tags:
 - sketchdaily
 title: ''
