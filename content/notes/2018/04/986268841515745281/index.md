@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/986268841515745281/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156578242488912
+tags:
+- survey
 ---
 
 What is best in life?

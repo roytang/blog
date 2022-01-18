@@ -1,11 +1,11 @@
 ---
-date: 2016-04-14 18:07:37
+date: 2016-04-14 18:07:37+00:00
 reply_to:
   label: '''The senatorial interviews: Greco Belgica (This guy deserves more publicity)''
     on /r/Philippines'
   name: ''
   type: reddit
-  url: https://reddit.com/r/Philippines/comments/4eo77f/the_senatorial_interviews_greco_belgica_this_guy/
+  url: https://www.reddit.com/r/Philippines/comments/4eo77f/the_senatorial_interviews_greco_belgica_this_guy/
 source: reddit
 syndicated:
 - type: reddit
