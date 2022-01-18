@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-04-12 21:46:10
+location: robinsons_galleria
 tags:
 - mtg
 title: Pre-Shadowmoor TripleTreat II -- Merfolk Again
