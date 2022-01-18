@@ -3,7 +3,7 @@ date: 2016-04-19 03:29:55
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154545777493912
 - type: twitter
@@ -27,193 +27,193 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28iv75/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wewf/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wewf/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28cmff/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ipuv/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wfbw/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wfbw/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28irtu/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wg59/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wg59/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ifum/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g37nd/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wgis/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wgis/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28inv1/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wheo/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wheo/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28igwi/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27whut/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27whut/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d29gajp/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wjpv/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wjpv/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ikvy/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wk9i/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wk9i/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28bxey/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28iuqb/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wlpf/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wlpf/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28iu8q/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wm7z/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wm7z/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wmop/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wmop/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wn66/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wn66/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2fj99k/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wnpc/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wnpc/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2fjej0/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27woh0/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27woh0/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28bv3n/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28iod8/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wp7i/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wp7i/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wq0f/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wq0f/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28irbq/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wr2m/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wr2m/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ivwt/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wrlm/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wrlm/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27ws4m/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27ws4m/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28iork/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wsuf/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wsuf/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28is94/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wtd0/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wtd0/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2gnf8g/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wttc/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wttc/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2gna7d/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wu9s/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wu9s/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ihoy/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wvhf/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wvhf/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2gn787/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wwkj/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wwkj/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wx7z/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wx7z/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ij6m/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wxu1/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wxu1/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28im71/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wyxx/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wyxx/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28iew3/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wzm5/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27wzm5/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28cesw/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ip3x/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x0bm/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x0bm/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28in7c/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28oap6/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x0w6/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x0w6/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ipim/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x1ky/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x1ky/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ckz9/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28itrz/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x1yo/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x1yo/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g19jd/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x2vo/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x2vo/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2avvxd/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2gn44d/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x39k/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x39k/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ikdn/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x58k/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x58k/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ii34/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x6od/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x6od/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g0ttx/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x77q/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x77q/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g0wez/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x9hb/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x9hb/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g0zl1/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xc39/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xc39/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28ibpc/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xdf3/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xdf3/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2f20g1/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g158j/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xfj3/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xfj3/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g186x/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xgjg/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xgjg/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28sxpl/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g1equ/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xiau/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xiau/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2g1kug/
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xj4g/
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27xj4g/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d28cgrl/
 - type: reddit
@@ -228,7 +228,7 @@ title: 2016 Senatorial Candidates Information Megathread
 ---
 
 [2021.04.08] This was originally a huge reddit thread where I had more than 100 comments, which resulted in so many posts to this site. I decided to merge most of the top level content into this large single post.
-#### Posted on r/Philippines: [2016 Senatorial Candidates Information Megathread](https://reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/)
+#### Posted on r/Philippines: [2016 Senatorial Candidates Information Megathread](https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/)
 
 Hello /r/Philippines!
 

@@ -6,6 +6,10 @@ categories: []
 date: 2010-04-18 02:48:10
 jd_tweet_this:
 - true
+location: robinsons_galleria
+resources:
+- src: 18042010051.jpg
+  title: My 2-2 record wins me only two packs, where I got these not-so-awesome rares
 syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/12375262436/
@@ -19,9 +23,6 @@ wp_jd_bitly:
 - http://bit.ly/9baEIH
 wp_jd_target:
 - http://mtgstorm.com/2010/04/rise-of-eldrazi-prerelease-report/
-resources:
-- src: 18042010051.jpg
-  title: 'My 2-2 record wins me only two packs, where I got these not-so-awesome rares'
 ---
 
 I played in the Rise of Eldrazi Prerelease Event yesterday at Eton Cyberpod in the Ortigas area. It was a new mall, so I went there a bit before opening time in case I had trouble finding the venue. Turns out that wouldn't be a problem as there were a bunch of Magic players outside the mall waiting for it to open when I got there. It turns out that the mall had recently changed it's opening hours from 10 AM to 11 AM though, so we all had to wait outside in the heat for an additional hour before we could start the event. =/
@@ -293,5 +294,3 @@ My lack of review about the limited format shows up here, as I misread the green
 I'm disappointed with my performance -- I think this has been my worst prerelease in a while.
 
 Next: I'll post more detailed thoughts on RoE limited.
-
- 
