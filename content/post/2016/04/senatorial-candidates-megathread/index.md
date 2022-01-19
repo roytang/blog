@@ -220,6 +220,8 @@ syndicated:
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2gncmu/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d2fisqt/
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/4fdl1h/2016_senatorial_candidates_information_megathread/d27x3t6/
 tags:
 - philippines
 - phelection2016
@@ -914,3 +916,9 @@ https://en.wikipedia.org/wiki/Juan_Miguel_Zubiri
 
 Some of his stands on various issues, from the 2013 senatorial elections: http://filipinofreethinkers.org/2013/05/12/know-their-stand-migz-zubiri-senatorial-candidate/
 {{% /spoiler %}}
+
+[03:29] Edu Manzano (Independent)
+
+History: Actor, Vice Mayor (Makati), OMB Chair
+
+https://en.wikipedia.org/wiki/Edu_Manzano
