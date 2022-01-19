@@ -12,4 +12,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156592015618912
 ---
 
-RT [@vedia_lupae](https://twitter.com/vedia_lupae/): "Satire is meant to ridicule power. If you are laughing at people who are hurting, it is not satire, it is bullying." - Te…
+"Satire is meant to ridicule power. If you are laughing at people who are hurting, it is not satire, it is bullying." - Terry Pratchett

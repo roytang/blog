@@ -1,5 +1,5 @@
 ---
-addr: " \u65B0\u5009"
+addr: "Hareruya Tournament Center \u65B0\u5009"
 city: Yamanashi
 country: Japan
 description: "\u65B0\u5009 (R137) \u5BCC\u58EB\u5409\u7530\u5E02, \u5C71\u68A8\u770C
