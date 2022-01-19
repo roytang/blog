@@ -6,7 +6,7 @@ categories: []
 date: 2010-04-18 02:48:10
 jd_tweet_this:
 - true
-location: robinsons_galleria
+location: eton_cyberpod
 resources:
 - src: 18042010051.jpg
   title: My 2-2 record wins me only two packs, where I got these not-so-awesome rares

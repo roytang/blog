@@ -1,6 +1,6 @@
 ---
 date: 2010-04-17 00:51:06
-location: robinsons_galleria
+location: eton_cyberpod
 source: twitter
 syndicated:
 - type: twitter
