@@ -1,11 +1,16 @@
 ---
-title: "Don't Look Up (2021)"
-date: 2022-01-19T22:41:44+08:00
-tags:
-- movies
+date: 2022-01-19 14:41:44
 reviews:
 - media: movies
   title: Don't Look Up (2021)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107649690720023874
+- type: twitter
+  url: https://twitter.com/roytang/status/1483814517960474624/
+tags:
+- movies
+title: Don't Look Up (2021)
 ---
 
 Wasn't inclined to watch this as I dislike movies where the people in charge are being idiots. Thankfully, it turns out to be about competent people in a world where incompetent people have all the power, so that is a bit less annoying, mainly because it's easily relatable in these times.
