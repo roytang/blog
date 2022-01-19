@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-04-22 04:05:16
+location: robinsons_galleria
 tags:
 - mtg
 title: Future Sight Prerelease

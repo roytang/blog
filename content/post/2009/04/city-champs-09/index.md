@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2009-04-22 11:40:44
+location: robinsons_galleria
 tags:
 - mtg
 title: City Champs 09

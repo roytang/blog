@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2017-04-22 00:49:06
+location: hareruya_shinjuku
 source: twitter
 syndicated:
 - type: twitter

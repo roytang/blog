@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-04-20 05:35:06
+location: robinsons_galleria
 tags:
 - mtg
 title: Shadowmoor Prerelease
