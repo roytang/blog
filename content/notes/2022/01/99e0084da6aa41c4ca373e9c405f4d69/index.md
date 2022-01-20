@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107655153825813805
 - type: twitter
   url: https://twitter.com/roytang/status/1484164168886685698/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s8fka5/january_20th_simple_pleasures/htgix0s/
 tags:
 - sketchdaily
 title: ''
