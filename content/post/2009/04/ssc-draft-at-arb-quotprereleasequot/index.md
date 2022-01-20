@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2009-04-26 04:50:52
+location: robinsons_galleria
 tags:
 - limited
 - mtg

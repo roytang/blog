@@ -5,7 +5,7 @@ reply_to:
     vows to pardon himself for murder' on /r/nottheonion
   name: ''
   type: reddit
-  url: https://reddit.com/r/nottheonion/comments/4gr0cx/philippine_presidential_frontrunner_rodrigo/d2kcmox/
+  url: https://www.reddit.com/r/nottheonion/comments/4gr0cx/philippine_presidential_frontrunner_rodrigo/d2kcmox/
 source: reddit
 syndicated:
 - type: reddit

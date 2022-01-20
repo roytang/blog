@@ -11,9 +11,8 @@ syndicated:
 tags:
 - movies
 - spoiler-free-review
+title: Captain America Civil War spoiler-free review
 ---
-
-Captain America Civil War spoiler-free review:
 
 - great fight sequences, start to finish
 - the newcomers were great, airport big fight sequence had a great surprise (and not the one you already saw in the trailer - although you might have already been spoiled if you pay attention to certain toy lines), although I feel like a couple of the characters were pulled in to the conflict in a way that was a bit weak, but it's still pretty good overall
@@ -24,3 +23,5 @@ Captain America Civil War spoiler-free review:
 - there are two post-credit scenes, one in the middle and one at the very end
 - Imax worth it? Probably. Not very ostentatious use of 3d, but most of the fight sequences have it. You might get dizzy if you're not used to it
 - Magugustuhan ba ni Mama? Maybe, but I'd have to keep explaining who these characters are
+
+[My nitpicks are here](/2016/04/d2l1qqy/).
