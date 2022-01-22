@@ -7,4 +7,9 @@ syndicated:
 title: ''
 ---
 
-RT [@comicsalliance](https://twitter.com/comicsalliance/): Darren Rawlings Imagines Famous Vehicles As Transformers https://flipboard.com/@flipboard/-darren-rawlings-imagines-famous-vehicle/f-c51e9f4b2b%2Fcomicsalliance.com https://flipboard.com/@flipboard/-title/f-d64b558a94%2Ftwitter.com
+[Darren Rawlings Imagines Famous Vehicles As Transformers](https://comicsalliance.com/darren-rawlings-pop-culture-vehicles-as-transformers-art/)
+
+via [comicalliance on Twitter](https://twitter.com/comicsalliance/status/594418601563541506)
+
+[Rawsly on DeviantArt](https://www.deviantart.com/rawlsy/gallery)
+
