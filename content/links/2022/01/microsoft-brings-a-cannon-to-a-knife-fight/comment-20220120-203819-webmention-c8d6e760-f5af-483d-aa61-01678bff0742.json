@@ -1,0 +1,32 @@
+{
+  "id": "c8d6e760-f5af-483d-aa61-01678bff0742",
+  "name": "Wouter Groeneveld",
+  "url": "https://chat.brainbaking.com/users/wouter",
+  "text": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> Sony shares fell more than 12% in Tokyo on Wednesday after Microsoft announced plans to buy Activision. Investors likely fear rising competition to Sony\u2019s PlayStation division as well as the potential for Microsoft to pull some popular games from the Japanese entertainment giant\u2019s platforms.<br /><br />Not good...\n<a class=\"u-mention\" href=\"https://mattstoller.substack.com/p/microsoft-brings-a-cannon-to-a-knife\"></a>",
+  "date": "2022-01-20 20:38:19",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+  "source_url": "https://chat.brainbaking.com/objects/57405637-c542-4d1e-bf13-86b7d2247295",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+      "url": "https://chat.brainbaking.com/users/wouter"
+    },
+    "url": "https://chat.brainbaking.com/objects/57405637-c542-4d1e-bf13-86b7d2247295",
+    "published": "2022-01-20T20:38:19",
+    "wm-received": "2022-01-20T20:39:51Z",
+    "wm-id": 1335581,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107655877569070391/107656714722755995",
+    "wm-target": "https://roytang.net/2022/01/microsoft-brings-a-cannon-to-a-knife-fight/",
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> Sony shares fell more than 12% in Tokyo on Wednesday after Microsoft announced plans to buy Activision. Investors likely fear rising competition to Sony\u2019s PlayStation division as well as the potential for Microsoft to pull some popular games from the Japanese entertainment giant\u2019s platforms.<br /><br />Not good...\n<a class=\"u-mention\" href=\"https://mattstoller.substack.com/p/microsoft-brings-a-cannon-to-a-knife\"></a>",
+      "text": "@roytang Sony shares fell more than 12% in Tokyo on Wednesday after Microsoft announced plans to buy Activision. Investors likely fear rising competition to Sony\u2019s PlayStation division as well as the potential for Microsoft to pull some popular games from the Japanese entertainment giant\u2019s platforms.\n\nNot good..."
+    },
+    "in-reply-to": "https://roytang.net/2022/01/microsoft-brings-a-cannon-to-a-knife-fight/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
