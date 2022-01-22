@@ -1,0 +1,28 @@
+{
+  "id": "ad83cec9-22a7-45ed-893c-3686ccee5951",
+  "name": "Wouter Groeneveld",
+  "url": "https://chat.brainbaking.com/users/wouter",
+  "text": "[Wouter Groeneveld](https://chat.brainbaking.com/users/wouter) [liked this](https://mastodon.technology/@roytang/107664596516620356#favorited-by-386733)",
+  "date": "2022-01-22 18:40:25",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107664596516620356#favorited-by-386733",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+      "url": "https://chat.brainbaking.com/users/wouter"
+    },
+    "url": "https://mastodon.technology/@roytang/107664596516620356#favorited-by-386733",
+    "published": null,
+    "wm-received": "2022-01-22T18:40:25Z",
+    "wm-id": 1336295,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107664596516620356/386733",
+    "wm-target": "https://roytang.net/2022/01/captain-toad/",
+    "like-of": "https://roytang.net/2022/01/captain-toad/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
