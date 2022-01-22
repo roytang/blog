@@ -1,13 +1,18 @@
 ---
-title: "Captain Toad: Treasure Tracker"
-date: 2022-01-22T13:19:42+08:00
+date: 2022-01-22 05:19:42
+dontinlinephotos: true
+reviews:
+- media: games
+  title: 'Captain Toad: Treasure Tracker (Switch)'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107664596516620356
+- type: twitter
+  url: https://twitter.com/roytang/status/1484768500095000581/
 tags:
 - gaming
 - games
-reviews:
-- media: games
-  title: "Captain Toad: Treasure Tracker (Switch)"
-dontinlinephotos: true
+title: 'Captain Toad: Treasure Tracker'
 ---
 
 For a long time I had been waffling on buying **Captain Toad: Treasure Tracker** for either the WiiU or Switch, since I did find myself enjoying the Captain Toad levels in [Super Mario 3D World](/tags/super-mario-3d-world/). Last week however for some reason, Nintendo decided to make the game free to play for one week. A strange decision, given the game takes less than 10 hours to complete! It incentivizes people with a lot of time (like me!) to just download the free trial and finish it in that period. So that's what I did!
