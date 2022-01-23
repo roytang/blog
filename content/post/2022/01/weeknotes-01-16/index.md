@@ -34,12 +34,13 @@ I love January; January weather is the best in the Philippines. Mornings are com
 - YouTube: [One Minute Time Machine](https://www.youtube.com/watch?v=vBkBS4O3yvY) is a short film about the unintended consequences of time travel.
 - [Apply Magic Sauce](https://applymagicsauce.com/demo) is an online test to predict your psycho-demographic profile from your digital footprints. (I used it with my Twitter data.)
 - Ryan Barrett celebrates [10 years of brid.gy](https://snarfed.org/2022-01-08_happy-10th-birthday-bridgy), a service for connecting social media accounts to your personal (often Indieweb) website.
+- I watched this [Video Countdown of the 21 Best Films of 2021](https://vimeo.com/664072010) and enjoyed it, even though I've only seen 2 of the films in the list. I ended up watching [the rest of his videos](https://www.videocountdowns.com/), ranging all the way back to 2012. The'y're really well made.
 
 Visit the [Links page](/links/) for more links of interest.
 
 ### My Stuff
 
-- This stuff was less busy than before; I may have spent a bit too much time playing video games.
+- This week was less busy than before; I may have spent a bit too much time playing video games.
 - In yet another sign that more and more people are staying at home and ordering everything online: we were unable to get any same-day grocery delivery slots this week; the next available slot was always a day or two away. Also my friendly local drugstore apologized for not being able to respond to my delivery request immediately, saying they were swamped. This was what it was like back in March 2020, in the early days of the pandemic.
 - Am starting to fall behind on the [daily sketching](/albums/sketchbook/); currently behind by one day. Here's a doodle of someone out on a quiet walk:
 
