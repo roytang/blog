@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107672751092897440
 - type: twitter
   url: https://twitter.com/roytang/status/1485290393680093184/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s97dwc/january_21st_free_draw_friday/htwbvho/
 tags:
 - sketchdaily
 title: ''
