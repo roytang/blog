@@ -1,0 +1,32 @@
+{
+  "id": "950f0f39-a630-4f00-835c-d7004f262608",
+  "name": "Wouter Groeneveld",
+  "url": "https://chat.brainbaking.com/users/wouter",
+  "text": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> The nr.1 thing I'm looking forward to isn't on that list! Sea of Stars from <a href=\"https://sabotagestudio.com/\">https://sabotagestudio.com/</a>\n<a class=\"u-mention\" href=\"https://www.polygon.com/gaming/22846501/22-indie-games-to-look-forward-to-in-2022\"></a>\n<a href=\"https://sabotagestudio.com/\">Sabotage Studio - Retro-Inspired Indie Games</a>",
+  "date": "2022-01-23 13:57:52",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+  "source_url": "https://chat.brainbaking.com/objects/13020070-ce73-4b3d-b757-9bb0e84f9f87",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+      "url": "https://chat.brainbaking.com/users/wouter"
+    },
+    "url": "https://chat.brainbaking.com/objects/13020070-ce73-4b3d-b757-9bb0e84f9f87",
+    "published": "2022-01-23T13:57:52",
+    "wm-received": "2022-01-23T14:00:57Z",
+    "wm-id": 1336623,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107670686617106779/107672126960519332",
+    "wm-target": "https://roytang.net/2022/01/667c90073c52ad5fff23bbf4642f2e7a/",
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> The nr.1 thing I'm looking forward to isn't on that list! Sea of Stars from <a href=\"https://sabotagestudio.com/\">https://sabotagestudio.com/</a>\n<a class=\"u-mention\" href=\"https://www.polygon.com/gaming/22846501/22-indie-games-to-look-forward-to-in-2022\"></a>\n<a href=\"https://sabotagestudio.com/\">Sabotage Studio - Retro-Inspired Indie Games</a>",
+      "text": "@roytang The nr.1 thing I'm looking forward to isn't on that list! Sea of Stars from https://sabotagestudio.com/\n\nSabotage Studio - Retro-Inspired Indie Games"
+    },
+    "in-reply-to": "https://roytang.net/2022/01/667c90073c52ad5fff23bbf4642f2e7a/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
