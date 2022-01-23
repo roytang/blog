@@ -1,8 +1,13 @@
 ---
-date: 2022-01-23T13:45:51+08:00
+date: 2022-01-23 05:45:51
 featuredResource:
-  photo: /2022/01/4ef02b672ba6b420c58881aaeb4ed4dd/
   filename: 4_sketch_rachelsummers.jpg
+  photo: /2022/01/4ef02b672ba6b420c58881aaeb4ed4dd/
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107671022530187389
+- type: twitter
+  url: https://twitter.com/roytang/status/1485179753682599937/
 tags:
 - weeknotes
 - philippines
