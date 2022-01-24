@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/user/405004/checkin/4fad1013e4b00911a714d633?s=V2MUhjcxHyTv4wOfQnA3Ah23WD0&ref=tw
 - type: foursquare
   url: https://www.swarmapp.com/user/405004/checkin/4fad1013e4b00911a714d633?s=V2MUhjcxHyTv4wOfQnA3Ah23WD0&ref=tw
+tags:
+- quiznight
 ---
 
 I'm at Quantum Cafe (Makati) http://4sq.com/KMjCmz
