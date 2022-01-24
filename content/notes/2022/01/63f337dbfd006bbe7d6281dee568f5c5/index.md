@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107678317007354018
 - type: twitter
   url: https://twitter.com/roytang/status/1485646605093339140/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/s9z8ib/january_22nd_cartoon_characters/hu17wr2/
 tags:
 - sketchdaily
 title: ''
