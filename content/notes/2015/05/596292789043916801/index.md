@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/8l0d2Bl7yNj
 - type: foursquare
   url: https://www.swarmapp.com/c/8l0d2Bl7yNj
+tags:
+- quiznight
 ---
 
 I'm at Amici in San Juan, Metro Manila https://www.swarmapp.com/c/8l0d2Bl7yNj

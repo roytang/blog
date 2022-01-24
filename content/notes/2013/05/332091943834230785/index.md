@@ -10,6 +10,10 @@ syndicated:
   url: https://www.swarmapp.com/user/405004/checkin/518a3457498e98bca95afe57?s=TFDuz9mT1HLF2zl7C4Los0CZfwY&ref=tw
 - type: foursquare
   url: https://www.swarmapp.com/user/405004/checkin/518a3457498e98bca95afe57?s=TFDuz9mT1HLF2zl7C4Los0CZfwY&ref=tw
+- type: twitter
+  url: https://twitter.com/roytang/statuses/332092095814836224/
 ---
 
 I'm at BBQ Chicken (Pasig City, Metro Manila) w/ 2 others http://4sq.com/10aKiCM
+
+"The mayor here sucks" @ BBQ Chicken: http://4sq.com/16gwDP5 #foursquare

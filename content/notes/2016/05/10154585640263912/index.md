@@ -4,7 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154585640263912
-tags: []
+- type: twitter
+  url: https://twitter.com/roytang/statuses/729263279877414912/
+tags: 
+- googlecodejam
 ---
 
 Tapping out on my last chance to advance in the Google Code Jam. Not enough time to earn enough points to advance. Really rusty at this, maybe I'll try again next year
