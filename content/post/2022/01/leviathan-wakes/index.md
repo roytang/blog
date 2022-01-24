@@ -1,11 +1,16 @@
 ---
-title: "Leviathan Wakes by James S.A. Corey"
-date: 2022-01-24T15:50:40+08:00
-tags:
-- books
+date: 2022-01-24 07:50:40
 reviews:
 - media: books
-  title: "Leviathan Wakes by James S.A. Corey"
+  title: Leviathan Wakes by James S.A. Corey
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107676421466831957
+- type: twitter
+  url: https://twitter.com/roytang/status/1485525288155246592/
+tags:
+- books
+title: Leviathan Wakes by James S.A. Corey
 ---
 
 Finished reading this last night. It's the first book of The Expanse series, on which the [pretty good TV series](/2022/01/expanse/) is based.
