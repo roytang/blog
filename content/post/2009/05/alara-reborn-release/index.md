@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2009-05-09 12:38:49
+location: robinsons_galleria
 tags:
 - mtg
 title: Alara Reborn Release

@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-05-10 12:19:55
+location: robinsons_galleria
 tags:
 - mtg
 title: SHM Booster Draft 10 May 2008
