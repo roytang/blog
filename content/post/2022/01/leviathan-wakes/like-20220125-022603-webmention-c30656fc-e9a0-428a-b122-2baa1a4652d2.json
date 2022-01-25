@@ -1,0 +1,28 @@
+{
+  "id": "c30656fc-e9a0-428a-b122-2baa1a4652d2",
+  "name": "Sam",
+  "url": "https://mastodon.technology/@mibzman",
+  "text": "[Sam](https://mastodon.technology/@mibzman) [liked this](https://mastodon.technology/@roytang/107676421466831957#favorited-by-125114)",
+  "date": "2022-01-25 02:26:03",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/b643c49cd99e817fc8e3a9870542ec88bb03f49d8a6758464e6e1690ee484532.png",
+  "source_url": "https://mastodon.technology/@roytang/107676421466831957#favorited-by-125114",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Sam",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/b643c49cd99e817fc8e3a9870542ec88bb03f49d8a6758464e6e1690ee484532.png",
+      "url": "https://mastodon.technology/@mibzman"
+    },
+    "url": "https://mastodon.technology/@roytang/107676421466831957#favorited-by-125114",
+    "published": null,
+    "wm-received": "2022-01-25T02:26:03Z",
+    "wm-id": 1337359,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107676421466831957/125114",
+    "wm-target": "https://roytang.net/2022/01/leviathan-wakes/",
+    "like-of": "https://roytang.net/2022/01/leviathan-wakes/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
