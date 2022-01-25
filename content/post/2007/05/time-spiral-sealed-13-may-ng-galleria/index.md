@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-05-16 06:39:56
+location: robinsons_galleria
 tags:
 - mtg
 title: Time Spiral Sealed -- 13 May @ NG Galleria

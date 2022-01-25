@@ -5,7 +5,7 @@ reply_to:
     on /r/Philippines
   name: ''
   type: reddit
-  url: https://reddit.com/r/Philippines/comments/botnry/are_there_real_admin_supporters_here_on_rph/enm7ogf/
+  url: https://www.reddit.com/r/Philippines/comments/botnry/are_there_real_admin_supporters_here_on_rph/enm7ogf/
 source: reddit
 syndicated:
 - type: reddit

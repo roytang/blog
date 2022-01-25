@@ -1,5 +1,6 @@
 ---
 date: 2013-05-12 22:39:06
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
@@ -22,12 +23,15 @@ syndicated:
   url: https://twitter.com/roytang/status/333786458605367297/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152234389613912
+- type: twitter
+  url: https://twitter.com/roytang/status/333920392500637697/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152234839368912
 tags:
 - PHVote
 - halalan
 - halalan2013
 title: Elections Day 2013 Liveblog
-dontinlinephotos: true
 ---
 
 Rise and shine, go out and vote early. #PHVote
@@ -49,3 +53,7 @@ Rise and shine, go out and vote early. #PHVote
 <time>[11:31]</time> Finally done. Total time around 1hr including waiting and the actual voting 
 
 {{< photos 333786458605367297 >}}
+
+<time>[20:23]</time> Stop reacting to the unofficial count when it's like &lt; 20,000 votes out of millions. Go to sleep, expect more solid results in the morning.
+
+<time>[21:09]</time> Based on social media and discussions among people in the voting precinct, it feels like this time around a lot more people went out to vote and made wise and responsible choices. I hope new voters don't get too discouraged by the results; we've had idiots in the senate before, we can survive them (her?) again. We can't change the outcome anymore, but we should stay vigilant during the counting and figure out what we need to do to make things better next time around. Our responsibility doesn't end with one vote. Cheers :D
