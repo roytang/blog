@@ -6,7 +6,8 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/4dd26913fa767fb707917cc0
-tags: []
+tags:
+- quiznight
 ---
 
- (@Murphy's Ground Flr Citiland III Bldg)
+(@Murphy's Ground Flr Citiland III Bldg)

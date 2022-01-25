@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/732793846980083712/
 tags:
 - Meta
+- quotes
 title: Test Post
 type: post
 url: /2016/05/test-post/
