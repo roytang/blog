@@ -1,14 +1,15 @@
 ---
-date: 2013-05-12 18:41:47
+date: 2013-05-12 10:41:47+00:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/SFxT/comments/1e6f0y/question_about_transferring_the_character_dlc/
+  url: https://www.reddit.com/r/SFxT/comments/1e6f0y/question_about_transferring_the_character_dlc/
 tags:
-- sfxt
+- SFxT
+- reddit_submission
 ---
 
-#### Posted on r/SFxT: [Question about transferring the character DLC from Vita version to PS3 version](https://reddit.com/r/SFxT/comments/1e6f0y/question_about_transferring_the_character_dlc/)
+#### Posted on r/SFxT: [Question about transferring the character DLC from Vita version to PS3 version](https://www.reddit.com/r/SFxT/comments/1e6f0y/question_about_transferring_the_character_dlc/)
 
 My Vita uses a US account; Can I buy an R3 SFxT and use the extra characters DLC on my R3 SFxT PS3 copy? I'm not sure whether the SFxT character DLC comes as a code with the game (in which case there wouldnt be any problem), or if I somehow need to login the Vita with my R3 account.
 

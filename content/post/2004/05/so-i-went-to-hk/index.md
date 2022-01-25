@@ -2,6 +2,7 @@
 author: Roy
 categories: []
 date: 2004-05-12 11:14:42
+location: hong_kong
 source: roywantsmeat
 syndicated:
 - type: blogger
