@@ -25,6 +25,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/sbiq01/january_24th_muppets/hua80q7/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/saqc32/january_23rd_dancing/hua80ax/
+- type: twitter
+  url: https://twitter.com/roytang/status/1486308197468352520/
 tags:
 - sketchdaily
 title: ''
@@ -41,3 +43,7 @@ Jan 25 Running Late 25/365
 Jan 26 Hawks 26/365
 
 <!--sep-->Some quick doodles today to catchup. The small pad I've been using for the past year or so is about to run out.
+
+<time>[20:01]</time> The Hawks photo turned out so blurry. 
+
+{{< photos 1486308197468352520 >}}
