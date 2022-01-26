@@ -1,6 +1,6 @@
 ---
 checkin_id: 5722ff79498ec2149628b97e
-date: 2016-04-29 14:30:17
+date: 2016-04-29 14:30:17+08:00
 location: 4b481091f964a520754726e3
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Edsa Shangri-La 1 Garden Way Ortigas Center)
+(@Edsa Shangri-La 1 Garden Way Ortigas Center)

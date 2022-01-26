@@ -1,6 +1,6 @@
 ---
 checkin_id: 55ab7e4b498e38a786d34f07
-date: 2015-07-19 18:39:07
+date: 2015-07-19 18:39:07+08:00
 location: 4c7676cac219224bd93ea528
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@The Goldengrove (Wetherspoon) 146-148 The Grove)
+(@The Goldengrove (Wetherspoon) 146-148 The Grove)

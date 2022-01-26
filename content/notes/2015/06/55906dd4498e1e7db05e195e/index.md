@@ -1,6 +1,6 @@
 ---
 checkin_id: 55906dd4498e1e7db05e195e
-date: 2015-06-29 05:57:40
+date: 2015-06-29 05:57:40+08:00
 location: 4bbb478cb35776b098bfcb01
 source: foursquare
 syndicated:

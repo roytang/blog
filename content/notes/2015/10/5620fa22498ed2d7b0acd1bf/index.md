@@ -1,6 +1,6 @@
 ---
 checkin_id: 5620fa22498ed2d7b0acd1bf
-date: 2015-10-16 21:22:42
+date: 2015-10-16 21:22:42+08:00
 location: 4df4715c8130cf14cc16ae10
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@wagamama The Loft)
+(@wagamama The Loft)

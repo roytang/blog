@@ -1,6 +1,6 @@
 ---
 checkin_id: 4cf214e82eb259414621baa1
-date: 2010-11-28 16:38:00
+date: 2010-11-28 16:38:00+08:00
 location: 4c7620aec219224b5e75a428
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Shakey's P Tuazon Blvd)
+(@Shakey's P Tuazon Blvd)

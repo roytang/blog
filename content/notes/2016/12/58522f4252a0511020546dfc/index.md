@@ -1,6 +1,6 @@
 ---
 checkin_id: 58522f4252a0511020546dfc
-date: 2016-12-15 13:50:58
+date: 2016-12-15 13:50:58+08:00
 location: 4b729e7af964a520d5802de3
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@The Palms Country Club 1410 Laguna Heights Dr)
+(@The Palms Country Club 1410 Laguna Heights Dr)

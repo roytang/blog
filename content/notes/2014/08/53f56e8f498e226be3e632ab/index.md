@@ -1,6 +1,6 @@
 ---
 checkin_id: 53f56e8f498e226be3e632ab
-date: 2014-08-21 11:59:11
+date: 2014-08-21 11:59:11+08:00
 location: 4ed0e08a8231b9ef89179ff2
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Pizza Hut TriNoMa Epifanio delos Santos Ave)
+(@Pizza Hut TriNoMa Epifanio delos Santos Ave)

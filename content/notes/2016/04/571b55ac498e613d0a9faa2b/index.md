@@ -1,6 +1,6 @@
 ---
 checkin_id: 571b55ac498e613d0a9faa2b
-date: 2016-04-23 18:59:56
+date: 2016-04-23 18:59:56+08:00
 location: 4dfd84f0183853f2cb54cc0c
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@LIDO Cocina Tsina by Panciteria LIDO Visayas Ave)
+(@LIDO Cocina Tsina by Panciteria LIDO Visayas Ave)

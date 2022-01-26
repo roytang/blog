@@ -1,6 +1,6 @@
 ---
 checkin_id: 4f6b1394e4b01b218eee0a20
-date: 2012-03-22 19:57:08
+date: 2012-03-22 19:57:08+08:00
 location: 4bc4c3aeabf495215c88c593
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Jollibee Pearl Dr)
+(@Jollibee Pearl Dr)

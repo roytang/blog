@@ -1,6 +1,6 @@
 ---
 checkin_id: 59257669c53093239929edeb
-date: 2017-05-24 20:02:49
+date: 2017-05-24 20:02:49+08:00
 location: 4c6c07711fb2a143fe44fae6
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Borough Ground Flr The Podium)
+(@Borough Ground Flr The Podium)

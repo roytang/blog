@@ -1,6 +1,6 @@
 ---
 checkin_id: 55a91056498efa9fcdb3ce3c
-date: 2015-07-17 22:25:26
+date: 2015-07-17 22:25:26+08:00
 location: 4b0bd124f964a520e03323e3
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Singapore Changi Airport (SIN) Airport Boulevard)
+(@Singapore Changi Airport (SIN) Airport Boulevard)

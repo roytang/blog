@@ -1,6 +1,6 @@
 ---
 checkin_id: 4de84e04fa76fd11689e484f
-date: 2011-06-03 10:59:16
+date: 2011-06-03 10:59:16+08:00
 location: 4b058819f964a520dcb122e3
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Singapore EXPO 1 Expo Drive)
+(@Singapore EXPO 1 Expo Drive)

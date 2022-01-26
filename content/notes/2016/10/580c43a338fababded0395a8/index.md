@@ -1,6 +1,6 @@
 ---
 checkin_id: 580c43a338fababded0395a8
-date: 2016-10-23 12:59:15
+date: 2016-10-23 12:59:15+08:00
 location: 4e5794ccb9935d203cfa2d20
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Yang Chow Eton Centris Walk)
+(@Yang Chow Eton Centris Walk)

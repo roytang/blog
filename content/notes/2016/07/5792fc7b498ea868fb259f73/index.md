@@ -1,6 +1,6 @@
 ---
 checkin_id: 5792fc7b498ea868fb259f73
-date: 2016-07-23 13:11:23
+date: 2016-07-23 13:11:23+08:00
 location: 5608d237498e37228b1a0dbd
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@The Dragonforge Katipunan Ave)
+(@The Dragonforge Katipunan Ave)

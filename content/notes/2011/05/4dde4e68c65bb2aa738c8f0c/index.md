@@ -1,6 +1,6 @@
 ---
 checkin_id: 4dde4e68c65bb2aa738c8f0c
-date: 2011-05-26 20:58:16
+date: 2011-05-26 20:58:16+08:00
 location: 4bfbc97abbb7c9283e880843
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Gweilos Ground Flr F & M Lopez Bldg)
+(@Gweilos Ground Flr F & M Lopez Bldg)

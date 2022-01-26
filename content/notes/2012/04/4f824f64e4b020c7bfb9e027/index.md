@@ -1,6 +1,6 @@
 ---
 checkin_id: 4f824f64e4b020c7bfb9e027
-date: 2012-04-09 10:54:28
+date: 2012-04-09 10:54:28+08:00
 location: 4bc81ee415a7ef3b199a7ada
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@White Plains Subdivision Katipunan Avenue)
+(@White Plains Subdivision Katipunan Avenue)

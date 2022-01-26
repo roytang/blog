@@ -1,6 +1,6 @@
 ---
 checkin_id: 4d6e652330d5b1f79a94c642
-date: 2011-03-02 23:41:23
+date: 2011-03-02 23:41:23+08:00
 location: 4bc5acde69369521df508488
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Starbucks Coffee G/F Pearl Plaza Pearl Dr)
+(@Starbucks Coffee G/F Pearl Plaza Pearl Dr)

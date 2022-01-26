@@ -1,6 +1,6 @@
 ---
 checkin_id: 5422cc10498e3f5419d92366
-date: 2014-09-24 21:50:08
+date: 2014-09-24 21:50:08+08:00
 location: 4c4aedb15609c9b6c1bc6490
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Ayala Malls TriNoma Cinemas M4 Level TriNoma)
+(@Ayala Malls TriNoma Cinemas M4 Level TriNoma)

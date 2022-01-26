@@ -1,6 +1,6 @@
 ---
 checkin_id: 53f56b77498e9ac468b639d9
-date: 2014-08-21 11:45:59
+date: 2014-08-21 11:45:59+08:00
 location: 4d26f5213c79548191f0bf9b
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Pizza Hut Bistro 2nd Flr City Center SM City North EDSA)
+(@Pizza Hut Bistro 2nd Flr City Center SM City North EDSA)

@@ -1,6 +1,6 @@
 ---
 checkin_id: 57665ef0498e8c2f0fdc96b2
-date: 2016-06-19 16:59:28
+date: 2016-06-19 16:59:28+08:00
 location: 559ce3da498e54d92a6c7817
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Shakey's Mindanao Avenue)
+(@Shakey's Mindanao Avenue)

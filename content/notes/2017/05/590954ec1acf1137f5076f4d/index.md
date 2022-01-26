@@ -1,6 +1,6 @@
 ---
 checkin_id: 590954ec1acf1137f5076f4d
-date: 2017-05-03 11:56:28
+date: 2017-05-03 11:56:28+08:00
 location: 4c883ebd49ddef3b2dd37570
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Cherry Foodarama Congressional Ave)
+(@Cherry Foodarama Congressional Ave)

@@ -1,6 +1,6 @@
 ---
 checkin_id: 57c42e32498ea7e36543fb79
-date: 2016-08-29 20:44:34
+date: 2016-08-29 20:44:34+08:00
 location: 4e4b8b0162e1ce23e5768812
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Glorietta Palm Dr)
+(@Glorietta Palm Dr)

@@ -1,6 +1,6 @@
 ---
 checkin_id: 549177bf498ed2e59535de8f
-date: 2014-12-17 20:31:59
+date: 2014-12-17 20:31:59+08:00
 location: 53045f7311d250dead39f8af
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@CaliBurger Timog Ave)
+(@CaliBurger Timog Ave)

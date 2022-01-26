@@ -1,6 +1,6 @@
 ---
 checkin_id: 4e259981d164b6b74afc493b
-date: 2011-07-19 22:49:37
+date: 2011-07-19 22:49:37+08:00
 location: 4bbbfea5ed7776b032413f51
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Murphy's Ground Flr Citiland III Bldg)
+(@Murphy's Ground Flr Citiland III Bldg)

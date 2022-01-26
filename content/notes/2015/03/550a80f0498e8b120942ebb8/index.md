@@ -1,6 +1,6 @@
 ---
 checkin_id: 550a80f0498e8b120942ebb8
-date: 2015-03-19 15:55:28
+date: 2015-03-19 15:55:28+08:00
 location: 4b7980a2f964a5202bfd2ee3
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Barcelona–El Prat Airport (BCN) (Aeropuerto de Barcelona-El Prat) Ctra de El Prat de Llobregat)
+(@Barcelona–El Prat Airport (BCN) (Aeropuerto de Barcelona-El Prat) Ctra de El Prat de Llobregat)

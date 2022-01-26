@@ -1,6 +1,6 @@
 ---
 checkin_id: 4dd346ef8877fd87e04c1ac4
-date: 2011-05-18 12:11:27
+date: 2011-05-18 12:11:27+08:00
 location: 4c2318d39085d13af85b87cc
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Azeus Systems Philippines)
+(@Azeus Systems Philippines)

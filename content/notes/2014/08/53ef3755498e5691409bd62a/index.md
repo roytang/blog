@@ -1,6 +1,6 @@
 ---
 checkin_id: 53ef3755498e5691409bd62a
-date: 2014-08-16 18:49:57
+date: 2014-08-16 18:49:57+08:00
 location: 4c95908482b56dcb236ddaaa
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Three Sisters 10 East Capitol Drive Brgy Kapitolyo)
+(@Three Sisters 10 East Capitol Drive Brgy Kapitolyo)

@@ -1,6 +1,6 @@
 ---
 checkin_id: 565d9354498e8ff1e5a722b0
-date: 2015-12-01 20:32:20
+date: 2015-12-01 20:32:20+08:00
 location: 4ebb9ee39911cfd604bcc921
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Yabu 2nd Flr Mega Atrium SM Megamall)
+(@Yabu 2nd Flr Mega Atrium SM Megamall)

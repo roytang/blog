@@ -1,6 +1,6 @@
 ---
 checkin_id: 54785be5498eb61936f90384
-date: 2014-11-28 19:26:29
+date: 2014-11-28 19:26:29+08:00
 location: 50c9b8f9e4b06ae0f5e4c93e
 source: foursquare
 syndicated:

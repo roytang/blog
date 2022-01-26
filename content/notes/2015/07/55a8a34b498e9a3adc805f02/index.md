@@ -1,6 +1,6 @@
 ---
 checkin_id: 55a8a34b498e9a3adc805f02
-date: 2015-07-17 14:40:11
+date: 2015-07-17 14:40:11+08:00
 location: 4b46e964f964a520812926e3
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Ninoy Aquino International Airport (MNL) Terminal 3 Andrews Ave)
+(@Ninoy Aquino International Airport (MNL) Terminal 3 Andrews Ave)

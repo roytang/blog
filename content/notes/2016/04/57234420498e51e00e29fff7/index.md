@@ -1,6 +1,6 @@
 ---
 checkin_id: 57234420498e51e00e29fff7
-date: 2016-04-29 19:23:12
+date: 2016-04-29 19:23:12+08:00
 location: 52b673a0498e59b0fa73fda9
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Kimukatsu 5F Shangri-La Plaza Mall East Wing)
+(@Kimukatsu 5F Shangri-La Plaza Mall East Wing)

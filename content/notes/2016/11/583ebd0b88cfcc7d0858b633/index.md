@@ -1,6 +1,6 @@
 ---
 checkin_id: 583ebd0b88cfcc7d0858b633
-date: 2016-11-30 19:50:35
+date: 2016-11-30 19:50:35+08:00
 location: 540bfc63498e51f0a51be0c8
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Katsu Sora L4 Outdoor Trinoma)
+(@Katsu Sora L4 Outdoor Trinoma)

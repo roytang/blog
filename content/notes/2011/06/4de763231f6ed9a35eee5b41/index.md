@@ -1,6 +1,6 @@
 ---
 checkin_id: 4de763231f6ed9a35eee5b41
-date: 2011-06-02 18:17:07
+date: 2011-06-02 18:17:07+08:00
 location: 4b1b9ec2f964a52041fc23e3
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Terminal 2 Singapore Changi Airport)
+(@Terminal 2 Singapore Changi Airport)

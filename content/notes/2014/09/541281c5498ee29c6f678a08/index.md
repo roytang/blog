@@ -1,6 +1,6 @@
 ---
 checkin_id: 541281c5498ee29c6f678a08
-date: 2014-09-12 13:16:53
+date: 2014-09-12 13:16:53+08:00
 location: 52ea2ca811d2e69ff613f19f
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Boqueria Restaurante + Chocolateria 3/F SM Megamall Fashion Hall)
+(@Boqueria Restaurante + Chocolateria 3/F SM Megamall Fashion Hall)

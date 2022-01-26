@@ -1,6 +1,6 @@
 ---
 checkin_id: 5903de1eea1e444dee205814
-date: 2017-04-29 08:28:14
+date: 2017-04-29 08:28:14+08:00
 location: 4b0587a1f964a5207f9d22e3
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Senso-ji Temple (浅草寺) 浅草2-3-1)
+(@Senso-ji Temple (浅草寺) 浅草2-3-1)

@@ -1,6 +1,6 @@
 ---
 checkin_id: 55363864498eac86a6a96c2f
-date: 2015-04-21 19:45:40
+date: 2015-04-21 19:45:40+08:00
 location: 5142a5d6e4b09f4569cdff61
 source: foursquare
 syndicated:
@@ -9,4 +9,4 @@ syndicated:
 tags: []
 ---
 
- (@Mario's Kitchen Ortigas Center)
+(@Mario's Kitchen Ortigas Center)
