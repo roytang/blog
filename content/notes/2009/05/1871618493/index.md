@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1871618493/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/99597345745
+tags:
+- gaming
 ---
 
 got killed by a bum in liberty city

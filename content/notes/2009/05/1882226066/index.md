@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1882226066/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/80795764226
+tags:
+- tv
 ---
 
 the ending of 24s07 was slightly disappointing
