@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154634235533912
 tags:
 - gameofthrones
+- tv
 ---
 
 Waiting for a show on TV according to schedule like some sort of savage #gameofthrones

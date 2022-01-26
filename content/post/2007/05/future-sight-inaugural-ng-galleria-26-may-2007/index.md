@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-05-27 08:58:39
+location: robinsons_galleria
 tags:
 - mtg
 title: Future Sight Inaugural @ NG Galleria 26-May-2007
