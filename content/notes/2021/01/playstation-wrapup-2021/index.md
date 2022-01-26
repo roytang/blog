@@ -1,9 +1,20 @@
 ---
-title: "My Playstation Wrapup 2021"
-date: 2022-01-26T20:42:29+08:00
+date: 2022-01-26 12:42:29
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107688859466799101
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107688859520185590
+- type: twitter
+  url: https://twitter.com/roytang/status/1486321334863163392/
+- type: twitter
+  url: https://twitter.com/roytang/status/1486321336939323399/
+- type: twitter
+  url: https://twitter.com/roytang/status/1486321338268942337/
 tags:
 - gaming
 - playstation
+title: My Playstation Wrapup 2021
 ---
 
 This was probably the worst of the wrap-ups from the past year.
