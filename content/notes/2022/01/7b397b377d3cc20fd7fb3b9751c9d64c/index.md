@@ -30,6 +30,7 @@ syndicated:
 tags:
 - sketchdaily
 title: ''
+dontinlinephotos: true
 ---
 
 #sketchdaily
@@ -41,6 +42,8 @@ Jan 24 Trash Panda 24/365
 Jan 25 Running Late 25/365
 
 Jan 26 Hawks 26/365
+
+{{< photos 20220126 >}}
 
 <!--sep-->Some quick doodles today to catchup. The small pad I've been using for the past year or so is about to run out.
 
