@@ -1,18 +1,21 @@
 ---
-date: 2013-05-25 08:54:20+00:00
+date: 2013-05-25 08:54:06
+dontinlinephotos: true
 reply_to:
-  label: roytang's tweet
-  name: roytang
+  label: lizbeth_baliw's tweet
+  name: lizbeth_baliw
   type: twitter
-  url: https://twitter.com/roytang/statuses/338216394242019328/
+  url: https://twitter.com/lizbeth_baliw/status/338216188406542337/
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/338216451792072706/
-- type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10154624023658912
+  url: https://twitter.com/roytang/status/338216394242019328/
+- type: twitter
+  url: https://twitter.com/roytang/status/338216451792072706/
+tags:
+- LizbethJane
 ---
 
 @lizbethjane wtf i just started watching the episode right now. why did you spoil me!
 
-@lizbethjane :p
+<time>[16:54]</time> @lizbethjane :p

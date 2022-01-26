@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-05-25 04:06:13
+location: robinsons_galleria
 tags:
 - mtg
 title: Saturday Triple SHM Draft -- May 24

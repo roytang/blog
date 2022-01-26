@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-05-25 05:14:40
+location: robinsons_galleria
 tags:
 - mtg
 title: Grand Prix Trial Manila I

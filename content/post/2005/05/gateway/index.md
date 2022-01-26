@@ -2,6 +2,7 @@
 author: roy
 categories: []
 date: 2005-05-26 14:33:00
+location: 4b582a82f964a520b04c28e3
 source: roywantsmeat
 syndicated:
 - type: blogger
