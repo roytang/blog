@@ -9,6 +9,7 @@ tags:
 - NintendoSwitch
 - NintendoSwitch2021
 - gaming
+title: My 2021 Nintendo Switch Year in Review
 ---
 
 Everything has to have a year in review nowadays lol.
