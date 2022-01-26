@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/336039321331191809/
+tags:
+- movies
 ---
 
 Now showing on this bus: El Presidente. Idk how historically accurate this movie is
