@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1984898340/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/111494105066
+tags:
+- books
 ---
 
 reading: Pragmatic Learning and Thinking (Hunt)

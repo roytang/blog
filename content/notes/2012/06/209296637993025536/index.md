@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/209296637993025536/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151645561368912
+tags:
+- games
 ---
 
 Binding of Isaac is hard!
