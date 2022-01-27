@@ -1,11 +1,12 @@
 ---
-date: 2013-03-28 19:36:58
+date: 2013-03-28 11:36:58
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/magicTCG/comments/1b66yz/is_uw_delver_well_positioned_in_standard_at_the/
+  url: https://www.reddit.com/r/magicTCG/comments/1b66yz/is_uw_delver_well_positioned_in_standard_at_the/
 tags:
 - magictcg
+- reddit_submission
 ---
 
 #### Posted on r/magicTCG: [Is UW Delver well positioned in Standard at the moment?](https://reddit.com/r/magicTCG/comments/1b66yz/is_uw_delver_well_positioned_in_standard_at_the/)

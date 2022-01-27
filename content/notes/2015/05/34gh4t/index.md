@@ -1,11 +1,12 @@
 ---
-date: 2015-05-01 07:10:08
+date: 2015-04-30 23:10:08
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/34gh4t/spoilersdiscussion_hickmans_avengers_new_avengers/
+  url: https://www.reddit.com/r/comicbooks/comments/34gh4t/spoilersdiscussion_hickmans_avengers_new_avengers/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [[SPOILERS][Discussion] Hickman's Avengers / New Avengers run discussion (Spoilers ahoy!)](https://reddit.com/r/comicbooks/comments/34gh4t/spoilersdiscussion_hickmans_avengers_new_avengers/)

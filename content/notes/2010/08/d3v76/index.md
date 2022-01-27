@@ -1,11 +1,12 @@
 ---
-date: 2010-08-22 02:25:58
+date: 2010-08-21 18:25:58
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/AskReddit/comments/d3v76/does_anyone_know_the_source_of_the_tactical/
+  url: https://www.reddit.com/r/AskReddit/comments/d3v76/does_anyone_know_the_source_of_the_tactical/
 tags:
 - askreddit
+- reddit_submission
 ---
 
 #### Posted on r/AskReddit: [Does anyone know the source of the "tactical facepalm" image?](https://reddit.com/r/AskReddit/comments/d3v76/does_anyone_know_the_source_of_the_tactical/)

@@ -1,11 +1,12 @@
 ---
-date: 2012-01-22 15:47:39
+date: 2012-01-22 07:47:39
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/ipad/comments/or99g/regretting_my_purchase_of_comiczeal_is_there_a/
+  url: https://www.reddit.com/r/ipad/comments/or99g/regretting_my_purchase_of_comiczeal_is_there_a/
 tags:
 - ipad
+- reddit_submission
 ---
 
 #### Posted on r/ipad: [Regretting my purchase of ComicZeal, is there a way I can get a refund? Also, can anyone recommend alternatives?](https://reddit.com/r/ipad/comments/or99g/regretting_my_purchase_of_comiczeal_is_there_a/)

@@ -1,11 +1,12 @@
 ---
-date: 2012-07-19 05:47:38
+date: 2012-07-18 21:47:38
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/magicTCG/comments/ws6u1/has_anyone_here_made_top_64_in_a_gp_i_have_a/
+  url: https://www.reddit.com/r/magicTCG/comments/ws6u1/has_anyone_here_made_top_64_in_a_gp_i_have_a/
 tags:
 - magictcg
+- reddit_submission
 ---
 
 #### Posted on r/magicTCG: [Has anyone here made top 64 in a GP? I have a question](https://reddit.com/r/magicTCG/comments/ws6u1/has_anyone_here_made_top_64_in_a_gp_i_have_a/)

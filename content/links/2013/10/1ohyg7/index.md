@@ -1,5 +1,5 @@
 ---
-date: 2013-10-15 21:06:12
+date: 2013-10-15 13:06:12
 link:
   source: reddit
   source_url: https://reddit.com/r/3DS/comments/1ohyg7/gold_limited_edition_zelda_3ds_for_europe/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/3DS/comments/1ohyg7/gold_limited_edition_zelda_3ds_for_europe/
+  url: https://www.reddit.com/r/3DS/comments/1ohyg7/gold_limited_edition_zelda_3ds_for_europe/
 tags:
 - 3ds
+- reddit_submission
 ---

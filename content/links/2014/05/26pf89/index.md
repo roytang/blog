@@ -1,5 +1,5 @@
 ---
-date: 2014-05-29 00:18:07
+date: 2014-05-28 16:18:07
 link:
   source: reddit
   source_url: https://reddit.com/r/gaming/comments/26pf89/youll_be_able_to_play_dragon_quest_viii_on_ios/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/26pf89/youll_be_able_to_play_dragon_quest_viii_on_ios/
+  url: https://www.reddit.com/r/gaming/comments/26pf89/youll_be_able_to_play_dragon_quest_viii_on_ios/
 tags:
 - gaming
+- reddit_submission
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2016-10-09 06:37:09
+date: 2016-10-08 22:37:09
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/56jexx/the_president_on_a_french_newspaper_cover/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/56jexx/the_president_on_a_french_newspaper_cover/
+  url: https://www.reddit.com/r/Philippines/comments/56jexx/the_president_on_a_french_newspaper_cover/
 tags:
 - philippines
 - broken-link
+- reddit_submission
 ---

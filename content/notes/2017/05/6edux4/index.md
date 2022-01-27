@@ -1,11 +1,12 @@
 ---
-date: 2017-05-31 17:30:52
+date: 2017-05-31 09:30:52
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/6edux4/are_there_any_blatantly_false_memespictures_going/
+  url: https://www.reddit.com/r/Philippines/comments/6edux4/are_there_any_blatantly_false_memespictures_going/
 tags:
 - philippines
+- reddit_submission
 ---
 
 #### Posted on r/Philippines: [Are there any blatantly false memes/pictures going around anti-Duterte groups, similar to the recent Etta Rosales meme that claims she sympathizes with the Maute group?](https://reddit.com/r/Philippines/comments/6edux4/are_there_any_blatantly_false_memespictures_going/)

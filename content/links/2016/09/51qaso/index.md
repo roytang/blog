@@ -1,5 +1,5 @@
 ---
-date: 2016-09-08 16:29:06
+date: 2016-09-08 08:29:06
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/51qaso/proadmin_troll_groups_are_promoting_targetted/
@@ -9,8 +9,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/51qaso/proadmin_troll_groups_are_promoting_targetted/
+  url: https://www.reddit.com/r/Philippines/comments/51qaso/proadmin_troll_groups_are_promoting_targetted/
 tags:
 - philippines
 - broken-link
+- reddit_submission
 ---

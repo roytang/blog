@@ -1,5 +1,5 @@
 ---
-date: 2011-01-04 23:18:28
+date: 2011-01-04 15:18:28
 link:
   source: reddit
   source_url: https://reddit.com/r/pics/comments/ew0no/murder_victim_got_a_picture_of_his_assassin_in/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/pics/comments/ew0no/murder_victim_got_a_picture_of_his_assassin_in/
+  url: https://www.reddit.com/r/pics/comments/ew0no/murder_victim_got_a_picture_of_his_assassin_in/
 tags:
 - pics
 - broken-link
+- reddit_submission
 ---

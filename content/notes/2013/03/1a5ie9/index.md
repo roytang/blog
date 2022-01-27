@@ -1,11 +1,12 @@
 ---
-date: 2013-03-13 00:07:11
+date: 2013-03-12 16:07:11
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/1a5ie9/has_anyone_tried_the_marvel_unlimited/
+  url: https://www.reddit.com/r/comicbooks/comments/1a5ie9/has_anyone_tried_the_marvel_unlimited/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [Has anyone tried the Marvel Unlimited subscription/ipad app?](https://reddit.com/r/comicbooks/comments/1a5ie9/has_anyone_tried_the_marvel_unlimited/)

@@ -1,11 +1,12 @@
 ---
-date: 2012-12-09 21:26:15
+date: 2012-12-09 13:26:15
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/truegaming/comments/14josh/why_havent_there_been_any_mariolevel_platformers/
+  url: https://www.reddit.com/r/truegaming/comments/14josh/why_havent_there_been_any_mariolevel_platformers/
 tags:
 - truegaming
+- reddit_submission
 ---
 
 #### Posted on r/truegaming: [Why haven't there been any Mario-level platformers outside of Nintendo?](https://reddit.com/r/truegaming/comments/14josh/why_havent_there_been_any_mariolevel_platformers/)

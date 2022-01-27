@@ -1,5 +1,5 @@
 ---
-date: 2011-10-18 01:04:42
+date: 2011-10-17 17:04:42
 link:
   source: reddit
   source_url: https://reddit.com/r/gaming/comments/lfa9z/infamous_festival_of_blood_dlc_makes_you_make/
@@ -9,7 +9,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/lfa9z/infamous_festival_of_blood_dlc_makes_you_make/
+  url: https://www.reddit.com/r/gaming/comments/lfa9z/infamous_festival_of_blood_dlc_makes_you_make/
 tags:
 - gaming
+- reddit_submission
 ---

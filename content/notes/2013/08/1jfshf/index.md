@@ -1,11 +1,12 @@
 ---
-date: 2013-08-01 02:43:47
+date: 2013-07-31 18:43:47
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/vita/comments/1jfshf/help_vita_charger_not_working/
+  url: https://www.reddit.com/r/vita/comments/1jfshf/help_vita_charger_not_working/
 tags:
 - vita
+- reddit_submission
 ---
 
 #### Posted on r/vita: [Help - Vita charger not working =(](https://reddit.com/r/vita/comments/1jfshf/help_vita_charger_not_working/)

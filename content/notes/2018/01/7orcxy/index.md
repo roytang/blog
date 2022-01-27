@@ -1,11 +1,12 @@
 ---
-date: 2018-01-08 00:06:21
+date: 2018-01-07 16:06:21
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/help/comments/7orcxy/how_can_i_find_my_oldest_reddit_posts_and/
+  url: https://www.reddit.com/r/help/comments/7orcxy/how_can_i_find_my_oldest_reddit_posts_and/
 tags:
 - help
+- reddit_submission
 ---
 
 #### Posted on r/help: [How can I find my oldest reddit posts and comments, without having to click "next" through endless pages of my profile page?](https://reddit.com/r/help/comments/7orcxy/how_can_i_find_my_oldest_reddit_posts_and/)

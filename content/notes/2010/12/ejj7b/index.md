@@ -1,11 +1,12 @@
 ---
-date: 2010-12-10 21:49:03
+date: 2010-12-10 13:49:03
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/ipad/comments/ejj7b/should_i_jailbreak_my_ipad/
+  url: https://www.reddit.com/r/ipad/comments/ejj7b/should_i_jailbreak_my_ipad/
 tags:
 - ipad
+- reddit_submission
 ---
 
 #### Posted on r/ipad: [Should I jailbreak my iPad?](https://reddit.com/r/ipad/comments/ejj7b/should_i_jailbreak_my_ipad/)

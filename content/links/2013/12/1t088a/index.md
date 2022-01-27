@@ -1,5 +1,5 @@
 ---
-date: 2013-12-16 21:51:03
+date: 2013-12-16 13:51:03
 link:
   source: reddit
   source_url: https://reddit.com/r/comicbooks/comments/1t088a/paul_dini_superhero_cartoon_execs_dont_want/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/1t088a/paul_dini_superhero_cartoon_execs_dont_want/
+  url: https://www.reddit.com/r/comicbooks/comments/1t088a/paul_dini_superhero_cartoon_execs_dont_want/
 tags:
 - comics
+- reddit_submission
 ---

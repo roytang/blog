@@ -1,5 +1,5 @@
 ---
-date: 2016-03-22 12:59:24
+date: 2016-03-22 04:59:24
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/4bg3kf/get_to_know_your_presidentiables_with_this_handy/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4bg3kf/get_to_know_your_presidentiables_with_this_handy/
+  url: https://www.reddit.com/r/Philippines/comments/4bg3kf/get_to_know_your_presidentiables_with_this_handy/
 tags:
 - philippines
+- reddit_submission
 ---

@@ -1,11 +1,12 @@
 ---
-date: 2015-02-27 22:01:48
+date: 2015-02-27 14:01:48
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/magicTCG/comments/2xcnu9/can_anyone_recommend_good_storage_options_for/
+  url: https://www.reddit.com/r/magicTCG/comments/2xcnu9/can_anyone_recommend_good_storage_options_for/
 tags:
 - magictcg
+- reddit_submission
 ---
 
 #### Posted on r/magicTCG: [Can anyone recommend good storage options for around 15,000 cards?](https://reddit.com/r/magicTCG/comments/2xcnu9/can_anyone_recommend_good_storage_options_for/)

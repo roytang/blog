@@ -1,5 +1,5 @@
 ---
-date: 2011-07-20 19:39:01
+date: 2011-07-20 11:39:01
 link:
   source: reddit
   source_url: https://reddit.com/r/todayilearned/comments/iuqij/til_voltron_was_narrated_by_optimus_prime/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/todayilearned/comments/iuqij/til_voltron_was_narrated_by_optimus_prime/
+  url: https://www.reddit.com/r/todayilearned/comments/iuqij/til_voltron_was_narrated_by_optimus_prime/
 tags:
 - todayilearned
+- reddit_submission
 ---

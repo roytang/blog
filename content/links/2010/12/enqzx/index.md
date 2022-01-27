@@ -1,5 +1,5 @@
 ---
-date: 2010-12-18 11:27:22
+date: 2010-12-18 03:27:22
 link:
   source: reddit
   source_url: https://reddit.com/r/technology/comments/enqzx/memo_gawker_tech_team_didnt_adequately_secure_our/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/technology/comments/enqzx/memo_gawker_tech_team_didnt_adequately_secure_our/
+  url: https://www.reddit.com/r/technology/comments/enqzx/memo_gawker_tech_team_didnt_adequately_secure_our/
 tags:
 - technology
 - broken-link
+- reddit_submission
 ---

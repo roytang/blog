@@ -1,5 +1,5 @@
 ---
-date: 2016-10-13 19:31:36
+date: 2016-10-13 11:31:36
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/579rm0/produterte_fake_news_sites/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/579rm0/produterte_fake_news_sites/
+  url: https://www.reddit.com/r/Philippines/comments/579rm0/produterte_fake_news_sites/
 tags:
 - philippines
+- reddit_submission
 ---

@@ -1,11 +1,12 @@
 ---
-date: 2016-07-03 16:55:46
+date: 2016-07-03 08:55:46
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Terraria/comments/4r1bf7/complete_noob_here_can_anyone_tell_me_why_this/
+  url: https://www.reddit.com/r/Terraria/comments/4r1bf7/complete_noob_here_can_anyone_tell_me_why_this/
 tags:
 - terraria
+- reddit_submission
 ---
 
 #### Posted on r/Terraria: [Complete noob here: Can anyone tell me why this isn't valid housing?](https://reddit.com/r/Terraria/comments/4r1bf7/complete_noob_here_can_anyone_tell_me_why_this/)

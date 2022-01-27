@@ -1,11 +1,12 @@
 ---
-date: 2012-07-15 22:01:20
+date: 2012-07-15 14:01:20
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/AskReddit/comments/wlcso/how_likely_is_it_that_some_shadowy_illuminatitype/
+  url: https://www.reddit.com/r/AskReddit/comments/wlcso/how_likely_is_it_that_some_shadowy_illuminatitype/
 tags:
 - askreddit
+- reddit_submission
 ---
 
 #### Posted on r/AskReddit: [How likely is it that some shadowy illuminati-type organization exists secretly controlling and manipulating the world?](https://reddit.com/r/AskReddit/comments/wlcso/how_likely_is_it_that_some_shadowy_illuminatitype/)

@@ -1,5 +1,5 @@
 ---
-date: 2016-10-07 16:22:49
+date: 2016-10-07 08:22:49
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/56adik/survey_results_satisfaction_with_the_drug_war/
@@ -9,7 +9,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/56adik/survey_results_satisfaction_with_the_drug_war/
+  url: https://www.reddit.com/r/Philippines/comments/56adik/survey_results_satisfaction_with_the_drug_war/
 tags:
 - philippines
+- reddit_submission
 ---

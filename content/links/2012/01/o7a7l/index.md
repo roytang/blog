@@ -1,5 +1,5 @@
 ---
-date: 2012-01-08 07:46:41
+date: 2012-01-07 23:46:41
 link:
   source: reddit
   source_url: https://reddit.com/r/pics/comments/o7a7l/how_to_know_if_you_are_a_hipster/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/pics/comments/o7a7l/how_to_know_if_you_are_a_hipster/
+  url: https://www.reddit.com/r/pics/comments/o7a7l/how_to_know_if_you_are_a_hipster/
 tags:
 - pics
 - broken-link
+- reddit_submission
 ---

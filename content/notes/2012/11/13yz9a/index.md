@@ -1,11 +1,12 @@
 ---
-date: 2012-11-29 10:38:42
+date: 2012-11-29 02:38:42
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/13yz9a/what_are_the_best_examples_of_batman_being_the/
+  url: https://www.reddit.com/r/comicbooks/comments/13yz9a/what_are_the_best_examples_of_batman_being_the/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [What are the best examples of Batman being the world's greatest detective?](https://reddit.com/r/comicbooks/comments/13yz9a/what_are_the_best_examples_of_batman_being_the/)

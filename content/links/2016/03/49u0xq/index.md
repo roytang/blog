@@ -1,5 +1,5 @@
 ---
-date: 2016-03-11 00:01:39
+date: 2016-03-10 16:01:39
 link:
   source: reddit
   source_url: https://reddit.com/r/StreetFighter/comments/49u0xq/alex_screenshots_facebook/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/StreetFighter/comments/49u0xq/alex_screenshots_facebook/
+  url: https://www.reddit.com/r/StreetFighter/comments/49u0xq/alex_screenshots_facebook/
 tags:
 - streetfighter
+- reddit_submission
 ---

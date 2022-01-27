@@ -1,11 +1,12 @@
 ---
-date: 2015-04-06 00:34:36
+date: 2015-04-05 16:34:36
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/homeland/comments/31j5xl/some_questions_from_season_1/
+  url: https://www.reddit.com/r/homeland/comments/31j5xl/some_questions_from_season_1/
 tags:
 - homeland
+- reddit_submission
 ---
 
 #### Posted on r/homeland: [Some questions from Season 1](https://reddit.com/r/homeland/comments/31j5xl/some_questions_from_season_1/)

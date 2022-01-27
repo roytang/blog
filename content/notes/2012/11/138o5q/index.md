@@ -1,11 +1,12 @@
 ---
-date: 2012-11-15 22:40:40
+date: 2012-11-15 14:40:40
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Games/comments/138o5q/why_havent_we_seen_a_dd_4th_edition_crpg/
+  url: https://www.reddit.com/r/Games/comments/138o5q/why_havent_we_seen_a_dd_4th_edition_crpg/
 tags:
 - gaming
+- reddit_submission
 ---
 
 #### Posted on r/Games: [Why haven't we seen a D&D 4th edition CRPG?](https://reddit.com/r/Games/comments/138o5q/why_havent_we_seen_a_dd_4th_edition_crpg/)

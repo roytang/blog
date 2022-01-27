@@ -1,11 +1,12 @@
 ---
-date: 2012-08-15 23:01:06
+date: 2012-08-15 15:01:06
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/y9i12/question_about_the_new_52_robins/
+  url: https://www.reddit.com/r/comicbooks/comments/y9i12/question_about_the_new_52_robins/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [Question about the new 52 Robins](https://reddit.com/r/comicbooks/comments/y9i12/question_about_the_new_52_robins/)

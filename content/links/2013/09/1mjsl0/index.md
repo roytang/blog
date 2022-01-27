@@ -1,5 +1,5 @@
 ---
-date: 2013-09-17 11:23:10
+date: 2013-09-17 03:23:10
 link:
   source: reddit
   source_url: https://reddit.com/r/magicTCG/comments/1mjsl0/theros_faq/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/magicTCG/comments/1mjsl0/theros_faq/
+  url: https://www.reddit.com/r/magicTCG/comments/1mjsl0/theros_faq/
 tags:
 - magictcg
 - mtg
+- reddit_submission
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2016-10-07 09:55:46
+date: 2016-10-07 01:55:46
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/56925h/100_days_in_dutertopia/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/56925h/100_days_in_dutertopia/
+  url: https://www.reddit.com/r/Philippines/comments/56925h/100_days_in_dutertopia/
 tags:
 - philippines
+- reddit_submission
 ---

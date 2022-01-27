@@ -1,5 +1,5 @@
 ---
-date: 2013-06-03 22:17:01
+date: 2013-06-03 14:17:01
 link:
   source: reddit
   source_url: https://reddit.com/r/vita/comments/1fky1b/ps_this_month_for_vita_orc_attack_virtues_last/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/vita/comments/1fky1b/ps_this_month_for_vita_orc_attack_virtues_last/
+  url: https://www.reddit.com/r/vita/comments/1fky1b/ps_this_month_for_vita_orc_attack_virtues_last/
 tags:
 - vita
 - gaming
+- reddit_submission
 ---

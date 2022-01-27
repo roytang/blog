@@ -1,11 +1,12 @@
 ---
-date: 2011-12-28 01:08:24
+date: 2011-12-27 17:08:24
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/SteamGameSwap/comments/nsf2d/h_10_coals_w_games_see_inside/
+  url: https://www.reddit.com/r/SteamGameSwap/comments/nsf2d/h_10_coals_w_games_see_inside/
 tags:
 - steamgameswap
+- reddit_submission
 ---
 
 #### Posted on r/SteamGameSwap: [[H] 10 coals [W] games, see inside](https://reddit.com/r/SteamGameSwap/comments/nsf2d/h_10_coals_w_games_see_inside/)

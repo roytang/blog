@@ -1,5 +1,5 @@
 ---
-date: 2016-07-12 16:48:12
+date: 2016-07-12 08:48:12
 link:
   source: reddit
   source_url: https://reddit.com/r/mtgpilipinas/comments/4sg1al/pyromancer_ascension_tournament_report_upcoming/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/mtgpilipinas/comments/4sg1al/pyromancer_ascension_tournament_report_upcoming/
+  url: https://www.reddit.com/r/mtgpilipinas/comments/4sg1al/pyromancer_ascension_tournament_report_upcoming/
 tags:
 - mtgpilipinas
+- reddit_submission
 ---

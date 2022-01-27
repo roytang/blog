@@ -1,11 +1,12 @@
 ---
-date: 2014-06-04 22:43:37
+date: 2014-06-04 14:43:37
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/spikes/comments/27alsu/modern_uwr_geist/
+  url: https://www.reddit.com/r/spikes/comments/27alsu/modern_uwr_geist/
 tags:
 - spikes
+- reddit_submission
 ---
 
 #### Posted on r/spikes: [[Modern] UWR Geist?](https://reddit.com/r/spikes/comments/27alsu/modern_uwr_geist/)

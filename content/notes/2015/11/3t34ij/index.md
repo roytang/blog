@@ -1,11 +1,12 @@
 ---
-date: 2015-11-17 07:45:25
+date: 2015-11-16 23:45:25
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/3t34ij/anyone_here_have_a_flight_out_of_naia_during_the/
+  url: https://www.reddit.com/r/Philippines/comments/3t34ij/anyone_here_have_a_flight_out_of_naia_during_the/
 tags:
 - philippines
+- reddit_submission
 ---
 
 #### Posted on r/Philippines: [Anyone here have a flight out of NAIA during the APEC days that is *not* cancelled? Or anyone here from Cebu Pacific?](https://reddit.com/r/Philippines/comments/3t34ij/anyone_here_have_a_flight_out_of_naia_during_the/)

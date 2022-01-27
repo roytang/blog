@@ -1,11 +1,12 @@
 ---
-date: 2012-07-15 21:34:07
+date: 2012-07-15 13:34:07
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/techsupport/comments/wlc0f/i_have_a_samsung_2233sw_monitor_and_the_menu_and/
+  url: https://www.reddit.com/r/techsupport/comments/wlc0f/i_have_a_samsung_2233sw_monitor_and_the_menu_and/
 tags:
 - techsupport
+- reddit_submission
 ---
 
 #### Posted on r/techsupport: [I have a Samsung 2233sw monitor, and the menu and brightness dialog on the lower right of the screen won't go away](https://reddit.com/r/techsupport/comments/wlc0f/i_have_a_samsung_2233sw_monitor_and_the_menu_and/)

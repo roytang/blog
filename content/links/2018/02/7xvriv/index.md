@@ -1,5 +1,5 @@
 ---
-date: 2018-02-16 10:45:16
+date: 2018-02-16 02:45:16
 link:
   source: reddit
   source_url: https://reddit.com/r/photoshopbattles/comments/7xvriv/psbattle_this_image_of_philippine_president/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/photoshopbattles/comments/7xvriv/psbattle_this_image_of_philippine_president/
+  url: https://www.reddit.com/r/photoshopbattles/comments/7xvriv/psbattle_this_image_of_philippine_president/
 tags:
 - photoshopbattles
+- reddit_submission
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2011-07-26 13:07:45
+date: 2011-07-26 05:07:45
 link:
   source: reddit
   source_url: https://reddit.com/r/bestof/comments/izw5o/friendly_neighborhood_married_man/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/bestof/comments/izw5o/friendly_neighborhood_married_man/
+  url: https://www.reddit.com/r/bestof/comments/izw5o/friendly_neighborhood_married_man/
 tags:
 - bestof
+- reddit_submission
 ---

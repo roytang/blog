@@ -1,5 +1,5 @@
 ---
-date: 2014-08-30 08:07:02
+date: 2014-08-30 00:07:02
 link:
   source: reddit
   source_url: https://reddit.com/r/3DS/comments/2eys2s/ultimate_nes_remix_announced_for_the_nintendo_3ds/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/3DS/comments/2eys2s/ultimate_nes_remix_announced_for_the_nintendo_3ds/
+  url: https://www.reddit.com/r/3DS/comments/2eys2s/ultimate_nes_remix_announced_for_the_nintendo_3ds/
 tags:
 - 3ds
+- reddit_submission
 ---

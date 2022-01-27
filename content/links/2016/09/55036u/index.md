@@ -1,5 +1,5 @@
 ---
-date: 2016-09-29 10:29:23
+date: 2016-09-29 02:29:23
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/55036u/miriam_santiago_has_passed_away/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/55036u/miriam_santiago_has_passed_away/
+  url: https://www.reddit.com/r/Philippines/comments/55036u/miriam_santiago_has_passed_away/
 tags:
 - philippines
+- reddit_submission
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2011-12-03 11:34:46
+date: 2011-12-03 03:34:46
 link:
   source: reddit
   source_url: https://reddit.com/r/skyrim/comments/mycqh/when_i_dualwield_maces_they_block_a_large_part_of/
@@ -9,10 +9,11 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/skyrim/comments/mycqh/when_i_dualwield_maces_they_block_a_large_part_of/
+  url: https://www.reddit.com/r/skyrim/comments/mycqh/when_i_dualwield_maces_they_block_a_large_part_of/
 tags:
 - skyrim
 - gaming
+- reddit_submission
 ---
 
 #### Posted on r/Skyrim: [When I dual-wield maces they block a large part of my display in first person mode, anything I can do about this (aside from play in third person)?](https://reddit.com/r/skyrim/comments/mycqh/when_i_dualwield_maces_they_block_a_large_part_of/)

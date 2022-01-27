@@ -1,5 +1,5 @@
 ---
-date: 2016-01-12 20:35:42
+date: 2016-01-12 12:35:42
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/40ma7j/duterte_denounces_extrajudicial_killing_no_honor/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/40ma7j/duterte_denounces_extrajudicial_killing_no_honor/
+  url: https://www.reddit.com/r/Philippines/comments/40ma7j/duterte_denounces_extrajudicial_killing_no_honor/
 tags:
 - philippines
+- reddit_submission
 ---

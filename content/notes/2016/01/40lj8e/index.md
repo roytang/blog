@@ -1,11 +1,12 @@
 ---
-date: 2016-01-12 15:39:59
+date: 2016-01-12 07:39:59
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/40lj8e/is_it_possible_for_pc_games_to_use_a_second/
+  url: https://www.reddit.com/r/gaming/comments/40lj8e/is_it_possible_for_pc_games_to_use_a_second/
 tags:
 - gaming
+- reddit_submission
 ---
 
 #### Posted on r/gaming: [Is it possible for PC games to use a second display/monitor as second screen?](https://reddit.com/r/gaming/comments/40lj8e/is_it_possible_for_pc_games_to_use_a_second/)

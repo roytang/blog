@@ -1,11 +1,12 @@
 ---
-date: 2013-08-13 22:36:54
+date: 2013-08-13 14:36:54
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/3DS/comments/1ka2me/smt4etrian_odyssey_streetpass/
+  url: https://www.reddit.com/r/3DS/comments/1ka2me/smt4etrian_odyssey_streetpass/
 tags:
 - 3ds
+- reddit_submission
 ---
 
 #### Posted on r/3DS: [SMT4/Etrian Odyssey Streetpass?](https://reddit.com/r/3DS/comments/1ka2me/smt4etrian_odyssey_streetpass/)

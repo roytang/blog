@@ -1,5 +1,5 @@
 ---
-date: 2016-01-11 19:38:31
+date: 2016-01-11 11:38:31
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/40gfio/leila_de_lima_ad/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/40gfio/leila_de_lima_ad/
+  url: https://www.reddit.com/r/Philippines/comments/40gfio/leila_de_lima_ad/
 tags:
 - philippines
+- reddit_submission
 ---

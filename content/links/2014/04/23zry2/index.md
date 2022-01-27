@@ -1,5 +1,5 @@
 ---
-date: 2014-04-26 07:41:55
+date: 2014-04-25 23:41:55
 link:
   source: reddit
   source_url: https://reddit.com/r/shield/comments/23zry2/season_official_synopsis_declassifying_marvels/
@@ -9,7 +9,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/shield/comments/23zry2/season_official_synopsis_declassifying_marvels/
+  url: https://www.reddit.com/r/shield/comments/23zry2/season_official_synopsis_declassifying_marvels/
 tags:
 - shield
+- reddit_submission
 ---

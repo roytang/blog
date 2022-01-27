@@ -1,5 +1,5 @@
 ---
-date: 2014-03-30 18:20:35
+date: 2014-03-30 10:20:35
 link:
   source: reddit
   source_url: https://reddit.com/r/PS4/comments/21qljl/sony_over_100_games_still_coming_to_playstation_4/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/PS4/comments/21qljl/sony_over_100_games_still_coming_to_playstation_4/
+  url: https://www.reddit.com/r/PS4/comments/21qljl/sony_over_100_games_still_coming_to_playstation_4/
 tags:
 - ps4
 - gaming
+- reddit_submission
 ---

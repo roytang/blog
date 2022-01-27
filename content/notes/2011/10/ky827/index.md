@@ -1,11 +1,12 @@
 ---
-date: 2011-10-02 16:33:59
+date: 2011-10-02 08:33:59
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/ky827/dc_new_52_teen_titans/
+  url: https://www.reddit.com/r/comicbooks/comments/ky827/dc_new_52_teen_titans/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [DC New 52: Teen Titans](https://reddit.com/r/comicbooks/comments/ky827/dc_new_52_teen_titans/)

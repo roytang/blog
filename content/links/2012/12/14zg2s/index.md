@@ -1,5 +1,5 @@
 ---
-date: 2012-12-17 15:32:48
+date: 2012-12-17 07:32:48
 link:
   source: reddit
   source_url: https://reddit.com/r/Games/comments/14zg2s/why_australian_game_prices_will_not_drop/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Games/comments/14zg2s/why_australian_game_prices_will_not_drop/
+  url: https://www.reddit.com/r/Games/comments/14zg2s/why_australian_game_prices_will_not_drop/
 tags:
 - gaming
 - broken-link
+- reddit_submission
 ---

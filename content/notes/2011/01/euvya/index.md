@@ -1,11 +1,12 @@
 ---
-date: 2011-01-02 17:49:36
+date: 2011-01-02 09:49:36
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Steam/comments/euvya/is_there_a_way_to_find_out_how_much_space_a_game/
+  url: https://www.reddit.com/r/Steam/comments/euvya/is_there_a_way_to_find_out_how_much_space_a_game/
 tags:
 - steam
+- reddit_submission
 ---
 
 #### Posted on r/Steam: [Is there a way to find out how much space a game will take up on Steam before I download it?](https://reddit.com/r/Steam/comments/euvya/is_there_a_way_to_find_out_how_much_space_a_game/)

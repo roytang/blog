@@ -1,11 +1,12 @@
 ---
-date: 2012-09-21 12:04:41
+date: 2012-09-21 04:04:41
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/108e08/question_about_the_recent_events_in_ultimates/
+  url: https://www.reddit.com/r/comicbooks/comments/108e08/question_about_the_recent_events_in_ultimates/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [Question about the recent events in Ultimates (spoilers within)](https://reddit.com/r/comicbooks/comments/108e08/question_about_the_recent_events_in_ultimates/)

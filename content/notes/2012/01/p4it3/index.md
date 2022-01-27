@@ -1,11 +1,12 @@
 ---
-date: 2012-01-31 21:49:22
+date: 2012-01-31 13:49:22
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/p4it3/giving_away_5_amazon_promo_code_must_be_used/
+  url: https://www.reddit.com/r/gaming/comments/p4it3/giving_away_5_amazon_promo_code_must_be_used/
 tags:
 - gaming
+- reddit_submission
 ---
 
 #### Posted on r/gaming: [Giving away $5 Amazon promo code, must be used today Jan 31](https://reddit.com/r/gaming/comments/p4it3/giving_away_5_amazon_promo_code_must_be_used/)

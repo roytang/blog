@@ -1,5 +1,5 @@
 ---
-date: 2013-04-03 21:49:15
+date: 2013-04-03 13:49:15
 link:
   source: reddit
   source_url: https://reddit.com/r/comicbooks/comments/1bl4hu/superior_carnage_miniseries_coming_in_july/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/1bl4hu/superior_carnage_miniseries_coming_in_july/
+  url: https://www.reddit.com/r/comicbooks/comments/1bl4hu/superior_carnage_miniseries_coming_in_july/
 tags:
 - comics
+- reddit_submission
 ---

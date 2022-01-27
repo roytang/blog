@@ -1,11 +1,12 @@
 ---
-date: 2013-06-01 20:50:26
+date: 2013-06-01 12:50:26
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/OnePiece/comments/1fgn1u/question_for_anyone_whos_played_one_piece_pirate/
+  url: https://www.reddit.com/r/OnePiece/comments/1fgn1u/question_for_anyone_whos_played_one_piece_pirate/
 tags:
 - onepiece
+- reddit_submission
 ---
 
 #### Posted on r/OnePiece: [Question for anyone who's played One Piece: Pirate Warriors (PS3)](https://reddit.com/r/OnePiece/comments/1fgn1u/question_for_anyone_whos_played_one_piece_pirate/)

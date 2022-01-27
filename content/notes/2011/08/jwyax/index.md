@@ -1,11 +1,12 @@
 ---
-date: 2011-08-28 20:29:06
+date: 2011-08-28 12:29:06
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/civ/comments/jwyax/civ5_stuck_at_please_wait/
+  url: https://www.reddit.com/r/civ/comments/jwyax/civ5_stuck_at_please_wait/
 tags:
 - civ
+- reddit_submission
 ---
 
 #### Posted on r/civ: [Civ5 - Stuck at "Please wait"](https://reddit.com/r/civ/comments/jwyax/civ5_stuck_at_please_wait/)

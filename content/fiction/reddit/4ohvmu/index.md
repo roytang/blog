@@ -1,12 +1,13 @@
 ---
-date: 2016-06-17 14:06:00
+date: 2016-06-17 06:06:00
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/WritingPrompts/comments/4ohvmu/pi_two_monsters_flashback_1885/
+  url: https://www.reddit.com/r/WritingPrompts/comments/4ohvmu/pi_two_monsters_flashback_1885/
 tags:
 - writingprompts
-title: "Two Monsters – Flashback"
+- reddit_submission
+title: Two Monsters – Flashback
 ---
 
 #### Posted on r/WritingPrompts: [[PI] Two Monsters – Flashback - 1,885](https://reddit.com/r/WritingPrompts/comments/4ohvmu/pi_two_monsters_flashback_1885/)

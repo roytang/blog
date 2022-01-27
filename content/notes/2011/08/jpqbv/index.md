@@ -1,11 +1,12 @@
 ---
-date: 2011-08-22 00:47:33
+date: 2011-08-21 16:47:33
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/masseffect/comments/jpqbv/mass_effect_1_is_there_a_way_to_modify_your/
+  url: https://www.reddit.com/r/masseffect/comments/jpqbv/mass_effect_1_is_there_a_way_to_modify_your/
 tags:
 - masseffect
+- reddit_submission
 ---
 
 #### Posted on r/masseffect: [Mass Effect 1: Is there a way to modify your character model in the middle of the game?](https://reddit.com/r/masseffect/comments/jpqbv/mass_effect_1_is_there_a_way_to_modify_your/)

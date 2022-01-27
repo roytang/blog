@@ -1,11 +1,12 @@
 ---
-date: 2015-10-18 04:10:40
+date: 2015-10-17 20:10:40
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Steam/comments/3p5dhc/steam_cloud_saves_question/
+  url: https://www.reddit.com/r/Steam/comments/3p5dhc/steam_cloud_saves_question/
 tags:
 - steam
+- reddit_submission
 ---
 
 #### Posted on r/Steam: [Steam Cloud Saves question](https://reddit.com/r/Steam/comments/3p5dhc/steam_cloud_saves_question/)

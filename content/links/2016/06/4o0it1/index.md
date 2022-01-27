@@ -1,5 +1,5 @@
 ---
-date: 2016-06-14 16:51:47
+date: 2016-06-14 08:51:47
 link:
   source: reddit
   source_url: https://reddit.com/r/Stellaris/comments/4o0it1/stellaris_postmortem_you_guys_might_find_this/
@@ -9,7 +9,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Stellaris/comments/4o0it1/stellaris_postmortem_you_guys_might_find_this/
+  url: https://www.reddit.com/r/Stellaris/comments/4o0it1/stellaris_postmortem_you_guys_might_find_this/
 tags:
 - stellaris
+- reddit_submission
 ---

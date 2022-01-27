@@ -1,5 +1,5 @@
 ---
-date: 2017-06-12 14:44:32
+date: 2017-06-12 06:44:32
 link:
   source: reddit
   source_url: https://reddit.com/r/magicTCG/comments/6gqln7/8_years_ago_on_june_11_2009_the_m10_rules_changes/
@@ -10,7 +10,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/magicTCG/comments/6gqln7/8_years_ago_on_june_11_2009_the_m10_rules_changes/
+  url: https://www.reddit.com/r/magicTCG/comments/6gqln7/8_years_ago_on_june_11_2009_the_m10_rules_changes/
 tags:
 - magictcg
+- reddit_submission
 ---

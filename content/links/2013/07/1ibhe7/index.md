@@ -1,5 +1,5 @@
 ---
-date: 2013-07-15 12:08:09
+date: 2013-07-15 04:08:09
 link:
   source: reddit
   source_url: https://reddit.com/r/PS3/comments/1ibhe7/the_drop_week_of_july_15th_2013_new_releases/
@@ -9,8 +9,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/PS3/comments/1ibhe7/the_drop_week_of_july_15th_2013_new_releases/
+  url: https://www.reddit.com/r/PS3/comments/1ibhe7/the_drop_week_of_july_15th_2013_new_releases/
 tags:
 - ps3
 - gaming
+- reddit_submission
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2014-06-10 20:01:53
+date: 2014-06-10 12:01:53
 link:
   source: reddit
   source_url: https://reddit.com/r/gaming/comments/27s2o0/would_this_video_make_you_interested_in_getting_a/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/27s2o0/would_this_video_make_you_interested_in_getting_a/
+  url: https://www.reddit.com/r/gaming/comments/27s2o0/would_this_video_make_you_interested_in_getting_a/
 tags:
 - gaming
+- reddit_submission
 ---

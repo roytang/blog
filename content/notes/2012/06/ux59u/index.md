@@ -1,11 +1,12 @@
 ---
-date: 2012-06-12 09:29:05
+date: 2012-06-12 01:29:05
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/PS3/comments/ux59u/anyone_here_tried_replacing_their_ps3_hdd_i_have/
+  url: https://www.reddit.com/r/PS3/comments/ux59u/anyone_here_tried_replacing_their_ps3_hdd_i_have/
 tags:
 - ps3
+- reddit_submission
 ---
 
 #### Posted on r/PS3: [Anyone here tried replacing their PS3 HDD? I have some questions](https://reddit.com/r/PS3/comments/ux59u/anyone_here_tried_replacing_their_ps3_hdd_i_have/)

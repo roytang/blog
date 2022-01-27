@@ -1,5 +1,5 @@
 ---
-date: 2012-07-09 00:12:40
+date: 2012-07-08 16:12:40
 link:
   source: reddit
   source_url: https://reddit.com/r/gaming/comments/w83px/dxhr_robocop_reference/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/w83px/dxhr_robocop_reference/
+  url: https://www.reddit.com/r/gaming/comments/w83px/dxhr_robocop_reference/
 tags:
 - gaming
 - broken-link
+- reddit_submission
 ---

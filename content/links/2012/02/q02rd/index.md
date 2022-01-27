@@ -1,5 +1,5 @@
 ---
-date: 2012-02-22 07:52:23
+date: 2012-02-21 23:52:23
 link:
   source: reddit
   source_url: https://reddit.com/r/gaming/comments/q02rd/buy_one_take_one_promo_for_dd_games_at_gogcom/
@@ -9,8 +9,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/q02rd/buy_one_take_one_promo_for_dd_games_at_gogcom/
+  url: https://www.reddit.com/r/gaming/comments/q02rd/buy_one_take_one_promo_for_dd_games_at_gogcom/
 tags:
 - gaming
 - broken-link
+- reddit_submission
 ---

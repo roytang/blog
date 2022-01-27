@@ -1,11 +1,12 @@
 ---
-date: 2016-07-08 11:50:21
+date: 2016-07-08 03:50:21
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/spikes/comments/4rsr17/modern_jeskai_control_sideboard_choices/
+  url: https://www.reddit.com/r/spikes/comments/4rsr17/modern_jeskai_control_sideboard_choices/
 tags:
 - spikes
+- reddit_submission
 ---
 
 #### Posted on r/spikes: [[Modern] Jeskai control sideboard choices](https://reddit.com/r/spikes/comments/4rsr17/modern_jeskai_control_sideboard_choices/)

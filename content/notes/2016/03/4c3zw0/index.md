@@ -1,11 +1,12 @@
 ---
-date: 2016-03-27 10:14:16
+date: 2016-03-27 02:14:16
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4c3zw0/survey_has_the_government_made_your_life_better/
+  url: https://www.reddit.com/r/Philippines/comments/4c3zw0/survey_has_the_government_made_your_life_better/
 tags:
 - philippines
+- reddit_submission
 ---
 
 #### Posted on r/Philippines: [Survey: Has the government made your life better or worse since 2010? How so?](https://reddit.com/r/Philippines/comments/4c3zw0/survey_has_the_government_made_your_life_better/)

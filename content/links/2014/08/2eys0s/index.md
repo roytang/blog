@@ -1,5 +1,5 @@
 ---
-date: 2014-08-30 08:06:17
+date: 2014-08-30 00:06:17
 link:
   source: reddit
   source_url: https://reddit.com/r/PS4/comments/2eys0s/peggle_2_no_longer_xbox_exclusive_coming_to/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/PS4/comments/2eys0s/peggle_2_no_longer_xbox_exclusive_coming_to/
+  url: https://www.reddit.com/r/PS4/comments/2eys0s/peggle_2_no_longer_xbox_exclusive_coming_to/
 tags:
 - ps4
 - gaming
+- reddit_submission
 ---

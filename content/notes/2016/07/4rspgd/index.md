@@ -1,11 +1,12 @@
 ---
-date: 2016-07-08 11:40:01
+date: 2016-07-08 03:40:01
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/ModernMagic/comments/4rspgd/jeskai_sideboard_choices/
+  url: https://www.reddit.com/r/ModernMagic/comments/4rspgd/jeskai_sideboard_choices/
 tags:
 - modernmagic
+- reddit_submission
 ---
 
 #### Posted on r/ModernMagic: [Jeskai sideboard choices](https://reddit.com/r/ModernMagic/comments/4rspgd/jeskai_sideboard_choices/)

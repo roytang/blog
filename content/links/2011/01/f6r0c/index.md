@@ -1,5 +1,5 @@
 ---
-date: 2011-01-22 06:46:00
+date: 2011-01-21 22:46:00
 link:
   source: reddit
   source_url: https://reddit.com/r/pics/comments/f6r0c/help_im_being_chased_by_missiles/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/pics/comments/f6r0c/help_im_being_chased_by_missiles/
+  url: https://www.reddit.com/r/pics/comments/f6r0c/help_im_being_chased_by_missiles/
 tags:
 - pics
 - broken-link
+- reddit_submission
 ---

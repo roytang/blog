@@ -1,5 +1,5 @@
 ---
-date: 2011-11-30 02:06:39
+date: 2011-11-29 18:06:39
 link:
   source: reddit
   source_url: https://reddit.com/r/skyrim/comments/mtkft/guards_need_to_relax_too_though_im_not_sure_how/
@@ -8,10 +8,11 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/skyrim/comments/mtkft/guards_need_to_relax_too_though_im_not_sure_how/
+  url: https://www.reddit.com/r/skyrim/comments/mtkft/guards_need_to_relax_too_though_im_not_sure_how/
 tags:
 - skyrim
 - gaming
+- reddit_submission
 ---
 
 #### Posted on r/Skyrim: [Guards need to relax too. Though I'm not sure how relaxing his position is.](https://reddit.com/r/skyrim/comments/mtkft/guards_need_to_relax_too_though_im_not_sure_how/)

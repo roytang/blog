@@ -1,11 +1,12 @@
 ---
-date: 2014-07-30 23:00:26
+date: 2014-07-30 15:00:26
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/PlayStationSolutions/comments/2c59al/ps3_error_on_startup_file_system_keeps_wanting_to/
+  url: https://www.reddit.com/r/PlayStationSolutions/comments/2c59al/ps3_error_on_startup_file_system_keeps_wanting_to/
 tags:
 - playstationsolutions
+- reddit_submission
 ---
 
 #### Posted on r/PlayStationSolutions: [[PS3] Error on startup, file system keeps wanting to be restored](https://reddit.com/r/PlayStationSolutions/comments/2c59al/ps3_error_on_startup_file_system_keeps_wanting_to/)

@@ -1,5 +1,5 @@
 ---
-date: 2013-06-01 13:32:22
+date: 2013-06-01 05:32:22
 link:
   source: reddit
   source_url: https://reddit.com/r/skyrim/comments/1fg9j6/what_is_this_weird_green_thing_not_sure_if_its/
@@ -10,10 +10,11 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/skyrim/comments/1fg9j6/what_is_this_weird_green_thing_not_sure_if_its/
+  url: https://www.reddit.com/r/skyrim/comments/1fg9j6/what_is_this_weird_green_thing_not_sure_if_its/
 tags:
 - skyrim
 - gaming
+- reddit_submission
 ---
 
 #### Posted on r/Skyrim: [What is this weird green thing? Not sure if it's from a mod (I have a lot installed). I can't interact with it in any way, but I've seen a few in different places](https://reddit.com/r/skyrim/comments/1fg9j6/what_is_this_weird_green_thing_not_sure_if_its/)

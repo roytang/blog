@@ -1,11 +1,12 @@
 ---
-date: 2016-06-15 22:15:53
+date: 2016-06-15 14:15:53
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/4o7ifq/question_about_flashpoint_and_rebirth/
+  url: https://www.reddit.com/r/comicbooks/comments/4o7ifq/question_about_flashpoint_and_rebirth/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [Question about Flashpoint and Rebirth](https://reddit.com/r/comicbooks/comments/4o7ifq/question_about_flashpoint_and_rebirth/)

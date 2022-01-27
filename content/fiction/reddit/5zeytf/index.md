@@ -1,12 +1,13 @@
 ---
-date: 2017-03-15 05:11:34
+date: 2017-03-14 21:11:34
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/WritingPrompts/comments/5zeytf/pi_explorers_firstchapter_2105_words/
+  url: https://www.reddit.com/r/WritingPrompts/comments/5zeytf/pi_explorers_firstchapter_2105_words/
 tags:
 - writingprompts
-title: "Explorers - FirstChapter"
+- reddit_submission
+title: Explorers - FirstChapter
 ---
 
 #### Posted on r/WritingPrompts: [[PI] Explorers - FirstChapter - 2105 Words](https://reddit.com/r/WritingPrompts/comments/5zeytf/pi_explorers_firstchapter_2105_words/)

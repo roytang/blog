@@ -1,11 +1,12 @@
 ---
-date: 2015-04-13 23:34:42
+date: 2015-04-13 15:34:42
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/television/comments/32g996/why_is_now_more_common_for_weekly_shows_to_skip/
+  url: https://www.reddit.com/r/television/comments/32g996/why_is_now_more_common_for_weekly_shows_to_skip/
 tags:
 - television
+- reddit_submission
 ---
 
 #### Posted on r/television: [Why is now more common for weekly shows to skip some weeks or take midseason breaks?](https://reddit.com/r/television/comments/32g996/why_is_now_more_common_for_weekly_shows_to_skip/)

@@ -1,11 +1,12 @@
 ---
-date: 2012-12-17 01:11:56
+date: 2012-12-16 17:11:56
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/hardware/comments/14y3fz/looking_for_a_replacement_video_card_around/
+  url: https://www.reddit.com/r/hardware/comments/14y3fz/looking_for_a_replacement_video_card_around/
 tags:
 - hardware
+- reddit_submission
 ---
 
 #### Posted on r/hardware: [Looking for a replacement video card, around $100-$120 budget, suggestions?](https://reddit.com/r/hardware/comments/14y3fz/looking_for_a_replacement_video_card_around/)

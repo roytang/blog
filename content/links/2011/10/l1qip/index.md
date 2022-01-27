@@ -1,5 +1,5 @@
 ---
-date: 2011-10-05 22:37:12
+date: 2011-10-05 14:37:12
 link:
   source: reddit
   source_url: https://reddit.com/r/gaming/comments/l1qip/michael_ps3_long_live_play_advertisement/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/l1qip/michael_ps3_long_live_play_advertisement/
+  url: https://www.reddit.com/r/gaming/comments/l1qip/michael_ps3_long_live_play_advertisement/
 tags:
 - gaming
+- reddit_submission
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2014-04-09 03:16:44
+date: 2014-04-08 19:16:44
 link:
   source: reddit
   source_url: https://reddit.com/r/vita/comments/22jh91/borderlands_2_ps_vita_bundle_coming_may_6th/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/vita/comments/22jh91/borderlands_2_ps_vita_bundle_coming_may_6th/
+  url: https://www.reddit.com/r/vita/comments/22jh91/borderlands_2_ps_vita_bundle_coming_may_6th/
 tags:
 - vita
 - gaming
+- reddit_submission
 ---

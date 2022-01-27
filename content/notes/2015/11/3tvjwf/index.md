@@ -1,11 +1,12 @@
 ---
-date: 2015-11-23 08:07:53
+date: 2015-11-23 00:07:53
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/nintendo/comments/3tvjwf/for_someone_used_to_street_fighter_type_fighting/
+  url: https://www.reddit.com/r/nintendo/comments/3tvjwf/for_someone_used_to_street_fighter_type_fighting/
 tags:
 - nintendo
+- reddit_submission
 ---
 
 #### Posted on r/nintendo: [For someone used to Street Fighter type fighting games, what's the best way to get into Smash?](https://reddit.com/r/nintendo/comments/3tvjwf/for_someone_used_to_street_fighter_type_fighting/)

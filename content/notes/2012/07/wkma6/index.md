@@ -1,11 +1,12 @@
 ---
-date: 2012-07-15 08:50:01
+date: 2012-07-15 00:50:01
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/SteamGameSwap/comments/wkma6/h_alpha_protocol_renegade_ops_w_offers/
+  url: https://www.reddit.com/r/SteamGameSwap/comments/wkma6/h_alpha_protocol_renegade_ops_w_offers/
 tags:
 - steamgameswap
+- reddit_submission
 ---
 
 #### Posted on r/SteamGameSwap: [[H] Alpha Protocol, Renegade Ops [W] Offers](https://reddit.com/r/SteamGameSwap/comments/wkma6/h_alpha_protocol_renegade_ops_w_offers/)

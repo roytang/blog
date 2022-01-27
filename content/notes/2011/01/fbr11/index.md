@@ -1,11 +1,12 @@
 ---
-date: 2011-01-30 17:51:38
+date: 2011-01-30 09:51:38
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/ipad/comments/fbr11/just_got_a_stylussuggestions/
+  url: https://www.reddit.com/r/ipad/comments/fbr11/just_got_a_stylussuggestions/
 tags:
 - ipad
+- reddit_submission
 ---
 
 #### Posted on r/ipad: [Just got a stylus...suggestions?](https://reddit.com/r/ipad/comments/fbr11/just_got_a_stylussuggestions/)

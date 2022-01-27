@@ -1,11 +1,12 @@
 ---
-date: 2015-07-30 03:11:22
+date: 2015-07-29 19:11:22
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/magicTCG/comments/3f2cqe/where_to_buy_singles_in_london/
+  url: https://www.reddit.com/r/magicTCG/comments/3f2cqe/where_to_buy_singles_in_london/
 tags:
 - magictcg
+- reddit_submission
 ---
 
 #### Posted on r/magicTCG: [Where to buy singles in London?](https://reddit.com/r/magicTCG/comments/3f2cqe/where_to_buy_singles_in_london/)

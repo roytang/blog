@@ -1,11 +1,12 @@
 ---
-date: 2014-11-16 14:43:59
+date: 2014-11-16 06:43:59
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/PS4/comments/2mg5qw/mic_volume_too_low_when_capturing_video/
+  url: https://www.reddit.com/r/PS4/comments/2mg5qw/mic_volume_too_low_when_capturing_video/
 tags:
 - ps4
+- reddit_submission
 ---
 
 #### Posted on r/PS4: [Mic volume too low when capturing video](https://reddit.com/r/PS4/comments/2mg5qw/mic_volume_too_low_when_capturing_video/)

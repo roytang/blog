@@ -1,5 +1,5 @@
 ---
-date: 2013-09-27 00:19:34
+date: 2013-09-26 16:19:34
 link:
   source: reddit
   source_url: https://reddit.com/r/vita/comments/1n6nn7/valhalla_knights_3_on_ps_vita_release_date/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/vita/comments/1n6nn7/valhalla_knights_3_on_ps_vita_release_date/
+  url: https://www.reddit.com/r/vita/comments/1n6nn7/valhalla_knights_3_on_ps_vita_release_date/
 tags:
 - vita
 - gaming
+- reddit_submission
 ---

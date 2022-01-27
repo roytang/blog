@@ -1,11 +1,12 @@
 ---
-date: 2012-09-19 22:30:44
+date: 2012-09-19 14:30:44
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/104xol/do_we_know_who_those_two_civilianlooking_people/
+  url: https://www.reddit.com/r/comicbooks/comments/104xol/do_we_know_who_those_two_civilianlooking_people/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [Do we know who those two civilian-looking people in the background of the preview covers for All New X-Men #1 are?](https://reddit.com/r/comicbooks/comments/104xol/do_we_know_who_those_two_civilianlooking_people/)

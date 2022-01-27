@@ -1,11 +1,12 @@
 ---
-date: 2017-09-26 09:06:29
+date: 2017-09-26 01:06:29
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Steam/comments/72gyhj/is_there_any_api_or_service_that_lets_me_see_my/
+  url: https://www.reddit.com/r/Steam/comments/72gyhj/is_there_any_api_or_service_that_lets_me_see_my/
 tags:
 - steam
+- reddit_submission
 ---
 
 #### Posted on r/Steam: [Is there any API or Service that lets me see my Steam play history?](https://reddit.com/r/Steam/comments/72gyhj/is_there_any_api_or_service_that_lets_me_see_my/)

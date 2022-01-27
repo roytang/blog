@@ -1,11 +1,12 @@
 ---
-date: 2013-05-12 14:16:10
+date: 2013-05-12 06:16:10
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/vita/comments/1e678r/my_vita_uses_a_us_account_can_i_buy_an_r3_sfxt/
+  url: https://www.reddit.com/r/vita/comments/1e678r/my_vita_uses_a_us_account_can_i_buy_an_r3_sfxt/
 tags:
 - vita
+- reddit_submission
 ---
 
 #### Posted on r/vita: [My Vita uses a US account; Can I buy an R3 SFxT and use the extra characters DLC on my R3 SFxT PS3 copy?](https://reddit.com/r/vita/comments/1e678r/my_vita_uses_a_us_account_can_i_buy_an_r3_sfxt/)

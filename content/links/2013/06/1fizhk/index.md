@@ -1,5 +1,5 @@
 ---
-date: 2013-06-03 01:17:24
+date: 2013-06-02 17:17:24
 link:
   source: reddit
   source_url: https://reddit.com/r/skyrim/comments/1fizhk/psa_oblivion_on_sale_today_on_steam_yesterday_was/
@@ -9,8 +9,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/skyrim/comments/1fizhk/psa_oblivion_on_sale_today_on_steam_yesterday_was/
+  url: https://www.reddit.com/r/skyrim/comments/1fizhk/psa_oblivion_on_sale_today_on_steam_yesterday_was/
 tags:
 - skyrim
 - gaming
+- reddit_submission
 ---

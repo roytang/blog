@@ -1,5 +1,5 @@
 ---
-date: 2013-12-24 00:05:18
+date: 2013-12-23 16:05:18
 link:
   source: reddit
   source_url: https://reddit.com/r/PlayStationPlus/comments/1tjaxb/us_ps_plus_sonic_allstars_racing_transformed_free/
@@ -9,7 +9,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/PlayStationPlus/comments/1tjaxb/us_ps_plus_sonic_allstars_racing_transformed_free/
+  url: https://www.reddit.com/r/PlayStationPlus/comments/1tjaxb/us_ps_plus_sonic_allstars_racing_transformed_free/
 tags:
 - playstationplus
+- reddit_submission
 ---

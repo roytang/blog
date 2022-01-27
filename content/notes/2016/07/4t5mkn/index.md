@@ -1,11 +1,12 @@
 ---
-date: 2016-07-17 01:50:41
+date: 2016-07-16 17:50:41
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/4t5mkn/any_color_me_badd_fans_here_need_some_help/
+  url: https://www.reddit.com/r/Philippines/comments/4t5mkn/any_color_me_badd_fans_here_need_some_help/
 tags:
 - philippines
+- reddit_submission
 ---
 
 #### Posted on r/Philippines: [Any Color Me Badd fans here? Need some help](https://reddit.com/r/Philippines/comments/4t5mkn/any_color_me_badd_fans_here_need_some_help/)

@@ -1,5 +1,5 @@
 ---
-date: 2013-12-17 00:29:50
+date: 2013-12-16 16:29:50
 link:
   source: reddit
   source_url: https://reddit.com/r/PS3/comments/1t0joe/dyad_free_for_ps_plus_members_starting_tomorrow/
@@ -8,8 +8,9 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/PS3/comments/1t0joe/dyad_free_for_ps_plus_members_starting_tomorrow/
+  url: https://www.reddit.com/r/PS3/comments/1t0joe/dyad_free_for_ps_plus_members_starting_tomorrow/
 tags:
 - ps3
 - gaming
+- reddit_submission
 ---

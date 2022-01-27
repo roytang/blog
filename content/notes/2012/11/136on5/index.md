@@ -1,11 +1,12 @@
 ---
-date: 2012-11-15 00:03:04
+date: 2012-11-14 16:03:04
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/136on5/anyone_else_really_enjoy_allnew_xmen_1_spoilery/
+  url: https://www.reddit.com/r/comicbooks/comments/136on5/anyone_else_really_enjoy_allnew_xmen_1_spoilery/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [Anyone else really enjoy All-new X-Men #1? (spoilery maybe)](https://reddit.com/r/comicbooks/comments/136on5/anyone_else_really_enjoy_allnew_xmen_1_spoilery/)

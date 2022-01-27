@@ -1,5 +1,5 @@
 ---
-date: 2011-08-08 01:43:36
+date: 2011-08-07 17:43:36
 link:
   source: reddit
   source_url: https://reddit.com/r/gaming/comments/jbnqg/fallout_new_vegas_fallout_3_and_all_dlc_on_sale/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/jbnqg/fallout_new_vegas_fallout_3_and_all_dlc_on_sale/
+  url: https://www.reddit.com/r/gaming/comments/jbnqg/fallout_new_vegas_fallout_3_and_all_dlc_on_sale/
 tags:
 - gaming
+- reddit_submission
 ---

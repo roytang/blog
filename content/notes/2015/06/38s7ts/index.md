@@ -1,11 +1,12 @@
 ---
-date: 2015-06-06 18:35:49
+date: 2015-06-06 10:35:49
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/magicTCG/comments/38s7ts/question_about_wmcqs/
+  url: https://www.reddit.com/r/magicTCG/comments/38s7ts/question_about_wmcqs/
 tags:
 - magictcg
+- reddit_submission
 ---
 
 #### Posted on r/magicTCG: [Question about WMCQs](https://reddit.com/r/magicTCG/comments/38s7ts/question_about_wmcqs/)

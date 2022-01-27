@@ -1,11 +1,12 @@
 ---
-date: 2018-12-18 08:32:02
+date: 2018-12-18 00:32:02
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/a75srs/used_book_stores_in_qc/
+  url: https://www.reddit.com/r/Philippines/comments/a75srs/used_book_stores_in_qc/
 tags:
 - philippines
+- reddit_submission
 ---
 
 #### Posted on r/Philippines: [Used book stores in QC?](https://reddit.com/r/Philippines/comments/a75srs/used_book_stores_in_qc/)

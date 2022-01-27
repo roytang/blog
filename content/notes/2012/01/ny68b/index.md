@@ -1,11 +1,12 @@
 ---
-date: 2012-01-01 10:07:28
+date: 2012-01-01 02:07:28
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/ny68b/so_how_did_your_crafting_turn_out/
+  url: https://www.reddit.com/r/gaming/comments/ny68b/so_how_did_your_crafting_turn_out/
 tags:
 - gaming
+- reddit_submission
 ---
 
 #### Posted on r/gaming: [So, how did your crafting turn out?](https://reddit.com/r/gaming/comments/ny68b/so_how_did_your_crafting_turn_out/)

@@ -1,11 +1,12 @@
 ---
-date: 2010-12-27 21:45:13
+date: 2010-12-27 13:45:13
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/AskReddit/comments/es1iq/i_would_like_to_manageinvest_my_finances_better/
+  url: https://www.reddit.com/r/AskReddit/comments/es1iq/i_would_like_to_manageinvest_my_finances_better/
 tags:
 - askreddit
+- reddit_submission
 ---
 
 #### Posted on r/AskReddit: [I would like to manage/invest my finances better, where do I start?](https://reddit.com/r/AskReddit/comments/es1iq/i_would_like_to_manageinvest_my_finances_better/)

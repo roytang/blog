@@ -1,5 +1,5 @@
 ---
-date: 2013-06-21 21:40:25
+date: 2013-06-21 13:40:25
 link:
   source: reddit
   source_url: https://reddit.com/r/Games/comments/1gskb5/what_microsoft_should_have_done_by_soren_johnson/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Games/comments/1gskb5/what_microsoft_should_have_done_by_soren_johnson/
+  url: https://www.reddit.com/r/Games/comments/1gskb5/what_microsoft_should_have_done_by_soren_johnson/
 tags:
 - gaming
+- reddit_submission
 ---

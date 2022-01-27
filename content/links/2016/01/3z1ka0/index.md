@@ -1,5 +1,5 @@
 ---
-date: 2016-01-02 02:48:23
+date: 2016-01-01 18:48:23
 link:
   source: reddit
   source_url: https://reddit.com/r/hungryroy/comments/3z1ka0/gamasutra_miguel_angel_hornas_blog_postmortem/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/hungryroy/comments/3z1ka0/gamasutra_miguel_angel_hornas_blog_postmortem/
+  url: https://www.reddit.com/r/hungryroy/comments/3z1ka0/gamasutra_miguel_angel_hornas_blog_postmortem/
 tags:
 - hungryroy
+- reddit_submission
 ---

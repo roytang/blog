@@ -1,11 +1,12 @@
 ---
-date: 2016-07-14 21:50:54
+date: 2016-07-14 13:50:54
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/tipofmyjoystick/comments/4stcdy/famicom19901992_some_sort_of_metroidvania/
+  url: https://www.reddit.com/r/tipofmyjoystick/comments/4stcdy/famicom19901992_some_sort_of_metroidvania/
 tags:
 - tipofmyjoystick
+- reddit_submission
 ---
 
 #### Posted on r/tipofmyjoystick: [[Famicom][1990-1992] Some sort of metroidvania](https://reddit.com/r/tipofmyjoystick/comments/4stcdy/famicom19901992_some_sort_of_metroidvania/)

@@ -1,11 +1,12 @@
 ---
-date: 2012-07-12 00:18:41
+date: 2012-07-11 16:18:41
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/we2nx/avengers_assemble_is_this_title_set_in_the_main/
+  url: https://www.reddit.com/r/comicbooks/comments/we2nx/avengers_assemble_is_this_title_set_in_the_main/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [Avengers Assemble - is this title set in the main universe or the movie universe?](https://reddit.com/r/comicbooks/comments/we2nx/avengers_assemble_is_this_title_set_in_the_main/)

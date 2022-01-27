@@ -1,11 +1,12 @@
 ---
-date: 2013-06-12 16:19:11
+date: 2013-06-12 08:19:11
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/comicbooks/comments/1g6nl9/question_about_the_ending_of_daredevil_end_of/
+  url: https://www.reddit.com/r/comicbooks/comments/1g6nl9/question_about_the_ending_of_daredevil_end_of/
 tags:
 - comics
+- reddit_submission
 ---
 
 #### Posted on r/comicbooks: [Question about the ending of Daredevil: End of Days (spoilers)](https://reddit.com/r/comicbooks/comments/1g6nl9/question_about_the_ending_of_daredevil_end_of/)

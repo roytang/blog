@@ -1,11 +1,12 @@
 ---
-date: 2015-08-05 00:46:50
+date: 2015-08-04 16:46:50
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/3frke5/rphilippines_what_do_you_think_of_this_antibinay/
+  url: https://www.reddit.com/r/Philippines/comments/3frke5/rphilippines_what_do_you_think_of_this_antibinay/
 tags:
 - philippines
+- reddit_submission
 ---
 
 #### Posted on r/Philippines: [r/Philippines, what do you think of this (anti-Binay)](https://reddit.com/r/Philippines/comments/3frke5/rphilippines_what_do_you_think_of_this_antibinay/)

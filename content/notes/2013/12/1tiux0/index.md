@@ -1,11 +1,12 @@
 ---
-date: 2013-12-23 18:56:54
+date: 2013-12-23 10:56:54
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/CrusaderKings/comments/1tiux0/noob_question_im_the_king_of_england_and_vikings/
+  url: https://www.reddit.com/r/CrusaderKings/comments/1tiux0/noob_question_im_the_king_of_england_and_vikings/
 tags:
 - crusaderkings
+- reddit_submission
 ---
 
 #### Posted on r/CrusaderKings: [Noob question - I'm the King of England and vikings keep coming and raiding my shores, how can I prevent this?](https://reddit.com/r/CrusaderKings/comments/1tiux0/noob_question_im_the_king_of_england_and_vikings/)

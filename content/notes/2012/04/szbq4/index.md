@@ -1,11 +1,12 @@
 ---
-date: 2012-04-30 13:14:37
+date: 2012-04-30 05:14:37
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/AndroidQuestions/comments/szbq4/android_noob_here_i_just_got_an_lg_c660_and_have/
+  url: https://www.reddit.com/r/AndroidQuestions/comments/szbq4/android_noob_here_i_just_got_an_lg_c660_and_have/
 tags:
 - androidquestions
+- reddit_submission
 ---
 
 #### Posted on r/AndroidQuestions: [Android noob here; I just got an LG C660 and have a question](https://reddit.com/r/AndroidQuestions/comments/szbq4/android_noob_here_i_just_got_an_lg_c660_and_have/)

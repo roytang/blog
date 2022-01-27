@@ -1,5 +1,5 @@
 ---
-date: 2013-10-24 22:10:02
+date: 2013-10-24 14:10:02
 link:
   source: reddit
   source_url: https://reddit.com/r/magicTCG/comments/1p4fwb/custom_magic_the_gathering_cards_celebrate_indies/
@@ -9,7 +9,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/magicTCG/comments/1p4fwb/custom_magic_the_gathering_cards_celebrate_indies/
+  url: https://www.reddit.com/r/magicTCG/comments/1p4fwb/custom_magic_the_gathering_cards_celebrate_indies/
 tags:
 - magictcg
+- reddit_submission
 ---

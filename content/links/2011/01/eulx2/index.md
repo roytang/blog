@@ -1,5 +1,5 @@
 ---
-date: 2011-01-02 02:40:19
+date: 2011-01-01 18:40:19
 link:
   source: reddit
   source_url: https://reddit.com/r/gaming/comments/eulx2/why_are_there_so_many_half_life_2_games/
@@ -8,7 +8,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/gaming/comments/eulx2/why_are_there_so_many_half_life_2_games/
+  url: https://www.reddit.com/r/gaming/comments/eulx2/why_are_there_so_many_half_life_2_games/
 tags:
 - gaming
+- reddit_submission
 ---

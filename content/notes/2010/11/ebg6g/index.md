@@ -1,11 +1,12 @@
 ---
-date: 2010-11-25 11:15:03
+date: 2010-11-25 03:15:03
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/ipad/comments/ebg6g/noob_question_about_apps_from_the_app_store/
+  url: https://www.reddit.com/r/ipad/comments/ebg6g/noob_question_about_apps_from_the_app_store/
 tags:
 - ipad
+- reddit_submission
 ---
 
 #### Posted on r/ipad: [Noob question about apps from the app store](https://reddit.com/r/ipad/comments/ebg6g/noob_question_about_apps_from_the_app_store/)

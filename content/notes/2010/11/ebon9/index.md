@@ -1,11 +1,12 @@
 ---
-date: 2010-11-26 00:41:11
+date: 2010-11-25 16:41:11
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/ipad/comments/ebon9/can_i_merge_the_apps_from_my_itunes_library_and/
+  url: https://www.reddit.com/r/ipad/comments/ebon9/can_i_merge_the_apps_from_my_itunes_library_and/
 tags:
 - ipad
+- reddit_submission
 ---
 
 #### Posted on r/ipad: [Can I "merge" the apps from my iTunes library and my iPad?](https://reddit.com/r/ipad/comments/ebon9/can_i_merge_the_apps_from_my_itunes_library_and/)

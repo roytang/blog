@@ -1,5 +1,5 @@
 ---
-date: 2016-11-14 10:10:21
+date: 2016-11-14 02:10:21
 link:
   source: reddit
   source_url: https://reddit.com/r/Philippines/comments/5ctjvc/both_the_americans_protesting_the_outcome_of_a/
@@ -11,7 +11,8 @@ link:
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/5ctjvc/both_the_americans_protesting_the_outcome_of_a/
+  url: https://www.reddit.com/r/Philippines/comments/5ctjvc/both_the_americans_protesting_the_outcome_of_a/
 tags:
 - philippines
+- reddit_submission
 ---

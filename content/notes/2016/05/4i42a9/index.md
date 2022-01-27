@@ -1,11 +1,12 @@
 ---
-date: 2016-05-06 15:13:51
+date: 2016-05-06 07:13:51
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/spikes/comments/4i42a9/modern_jeskai_control_or_grixis_control/
+  url: https://www.reddit.com/r/spikes/comments/4i42a9/modern_jeskai_control_or_grixis_control/
 tags:
 - spikes
+- reddit_submission
 ---
 
 #### Posted on r/spikes: [[Modern] jeskai control or grixis control](https://reddit.com/r/spikes/comments/4i42a9/modern_jeskai_control_or_grixis_control/)

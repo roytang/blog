@@ -1,11 +1,12 @@
 ---
-date: 2016-08-16 11:55:08
+date: 2016-08-16 03:55:08
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/ipad/comments/4xxlsf/whats_a_good_app_to_use_with_ipad_pro_pencil_to/
+  url: https://www.reddit.com/r/ipad/comments/4xxlsf/whats_a_good_app_to_use_with_ipad_pro_pencil_to/
 tags:
 - ipad
+- reddit_submission
 ---
 
 #### Posted on r/ipad: [What's a good app to use with iPad Pro + Pencil to make comic strips?](https://reddit.com/r/ipad/comments/4xxlsf/whats_a_good_app_to_use_with_ipad_pro_pencil_to/)
