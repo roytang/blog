@@ -1,5 +1,10 @@
 ---
 date: 2012-06-03 14:53:01
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Binding of Isaac (PS4)
 source: twitter
 syndicated:
 - type: twitter

@@ -1,5 +1,10 @@
 ---
 date: 2009-05-31 23:01:39
+reviews:
+- description: ''
+  media: books
+  rating: 0.0
+  title: 'Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt'
 source: twitter
 syndicated:
 - type: twitter
