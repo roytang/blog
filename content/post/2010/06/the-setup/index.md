@@ -10,6 +10,9 @@ url: /2010/06/the-setup/
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/15748539403/
+- type: flickr
+  url: https://www.flickr.com/photos/zroytang/albums/72157624234499706
+dontinlinephotos: true
 ---
 
 A while back I started reading [The Setup][1], which is basically a collection of interviews with various tech/creative guys about what sort of hardware and software they use. I always enjoy this sort of thing -- it feeds my tech envy when they describe cool setups or gadgets I don't have. (A lot of them have Macs!)
@@ -20,7 +23,7 @@ I actually purchased a new desktop computer a while back without posting any det
 
 **Desktop** -- my desktop is primarily for gaming, is a custom-built setup. Prepackaged and branded desktops aren't really popular here in the Philippines, at least among techies. I actually had my brother put this one together, just gave him the budget and told him to maximize it.
 
-{{< photo "2010/06/72157624234499706/" "09062010075" >}}
+{{< img src="09062010075" >}}
 
 Specs:
 
@@ -30,13 +33,13 @@ Specs:
 
 **Laptop**
 
-{{< photo "2010/06/72157624234499706/" "09062010078" >}}
+{{< img src="09062010078" >}}
 
 My laptop is an Acer Aspire 4920G that I purchased [around 2 years ago][4]. Core2 Duo 1.8GHz, 3gig ram, 160GB HD, ATI Radeon X2500 video card. It's old and not really that portable -- I seldom bring it outside the house, but it's a workhorse and gets the job done. It's my primary machine at home for random internet surfing and coding; I usually have it mounted on a breakfast tray (shown in the picture) so I can use while lying down on the bed. It can also act as a secondary gaming machine in a pinch, although it tends to overheat and crash if I use it for an extended gaming session.
 
 **Gaming Console**
 
-{{< photo "2010/06/72157624234499706/" "09062010076" >}}
+{{< img src="09062010076" >}}
 
 It's an 80GB original model PS3 hooked up to a 22&#8243; Samsung HD monitor. We have the Rock Band 2 set provided by [chowtimer][6], plus a couple of arcade fight sticks for Street Fighter IV. There's an SD-only TV beside the PS3, so we can usually watch whatever is on TV same time as playing PS3 games.
 

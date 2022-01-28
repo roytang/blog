@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/872791957172404224/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155726237793912
+tags:
+- ideas
 ---
 
 Business idea: high interest short term loans for people who dont have cash because their bank had a systemwide glitch

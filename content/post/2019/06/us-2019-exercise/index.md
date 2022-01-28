@@ -5,6 +5,8 @@ date: 2019-06-08 05:56:56
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1137726352528945153/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1137173631073640449/
 tags:
 - travels
 - ustrip2019

@@ -4,6 +4,7 @@ aktt_notify_twitter:
 author: roy
 categories: []
 date: 2011-06-08 13:06:55
+location: 4b058819f964a520dcb122e3
 tags:
 - constructed
 - grand-prix

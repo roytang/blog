@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2009-06-09 05:34:53
+location: robinsons_galleria
 tags:
 - mtg
 title: 'GPT Bangkok #1 Sealed Pool'

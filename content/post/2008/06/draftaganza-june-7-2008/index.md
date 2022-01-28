@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-06-08 23:38:17
+location: robinsons_galleria
 tags:
 - mtg
 title: Draftaganza June 7 2008
