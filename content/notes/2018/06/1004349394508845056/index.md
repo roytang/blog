@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1004349394508845056/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156687639648912
+tags:
+- quotes
 ---
 
 “If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” –Marcus Aurelius Emperor of Rome and Stoic philosopher, author of Meditations
