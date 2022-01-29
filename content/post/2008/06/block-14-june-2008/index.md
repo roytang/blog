@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-06-16 09:00:56
+location: robinsons_galleria
 tags:
 - mtg
 title: Block 14-June-2008

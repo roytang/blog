@@ -15,17 +15,19 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/214319270623064064/
 tags:
-- GPManila
+- gpmanila
+- mtg
+title: GP Manila 2012 Day 2 Liveblog
 ---
 
 Awaiting the first round of day 2. Relax, good luck, have fun
 
-[10:48] Lost the 11th round, now at 8-3. #GPManila so much for top8 lol
+<time>[10:48]</time> Lost the 11th round, now at 8-3. #GPManila so much for top8 lol
 
-[15:21] Got lucky vs solar flare to finish the gp at 11-4, should be in the money. The other 5 rounds were vs delver @_@ #GPManila
+<time>[15:21]</time> Got lucky vs solar flare to finish the gp at 11-4, should be in the money. The other 5 rounds were vs delver @_@ #GPManila
 
-[18:11] My only sustenance for the past 12 hours was a bottle of mineral water and a kfc brownie from yesterday
+<time>[18:11]</time> My only sustenance for the past 12 hours was a bottle of mineral water and a kfc brownie from yesterday
 
-[19:20] @magicprotour  what's up with people turning into zombies in the event coverage? https://imageshack.com/ lol #GPManila
+<time>[19:20]</time> @magicprotour  what's up with people turning into zombies in the event coverage? https://imageshack.com/ lol #GPManila
 
-[19:31] My final standing at GP Manila was 39th: http://twitpic.com/9xg2ht
+<time>[19:31]</time> My final standing at GP Manila was 39th: http://twitpic.com/9xg2ht

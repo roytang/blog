@@ -4,6 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153862248128912
+- type: reddit
+  url: https://www.reddit.com/r/Games/comments/39xjxb/backwards_compatibility_announced_for_xbox_one/cs7nti4/
 tags: []
 ---
 

@@ -19,10 +19,10 @@ tags:
 
 R1 0-2 loss vs rg ramp sigh #wmcq #mtg
 
-[13:12] R2 2-1 win vs uw spirits #mtg #wmcq
+<time>[13:12]</time> R2 2-1 win vs uw spirits #mtg #wmcq
 
-[14:13] R3 2-0 win vs bw control 2-1 overall #mtg #wmcq
+<time>[14:13]</time> R3 2-0 win vs bw control 2-1 overall #mtg #wmcq
 
-[16:00] R5 0-2 loss vs esper dragons 2-2 overall top8 unlikely :( #mtg #wmcq
+<time>[16:00]</time> R5 0-2 loss vs esper dragons 2-2 overall top8 unlikely :( #mtg #wmcq
 
-[17:09] R5 1-2 loss vs rg ramp :( final record 2-3 drop. On to modern! #mtg #wmcq
+<time>[17:09]</time> R5 1-2 loss vs rg ramp :( final record 2-3 drop. On to modern! #mtg #wmcq

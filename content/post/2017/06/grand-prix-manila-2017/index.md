@@ -3,6 +3,7 @@ author: roy
 categories: []
 date: 2017-06-15 04:22:32
 dontinlinephotos: true
+location: 4b4ffb25f964a520bc1a27e3
 resources:
 - src: content_ulamog__ceaseless1.jpg
   title: If you're playing Standard this year, you're familiar with this guy

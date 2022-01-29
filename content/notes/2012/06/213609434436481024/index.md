@@ -6,4 +6,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/213609434436481024/
 ---
 
-This room needs cleaning. But my estimate is around 80mh of work =/
+This room needs cleaning. But my estimate is around 80mh of work =/ 
