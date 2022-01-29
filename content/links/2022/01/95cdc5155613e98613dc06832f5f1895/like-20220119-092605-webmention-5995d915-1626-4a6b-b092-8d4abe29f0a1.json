@@ -1,0 +1,28 @@
+{
+  "id": "5995d915-1626-4a6b-b092-8d4abe29f0a1",
+  "name": "2023 \ud83c\udf93.",
+  "url": "https://twitter.com/oainux",
+  "text": "[2023 \ud83c\udf93.](https://twitter.com/oainux) [liked this](https://twitter.com/roytang/status/1483679316152303623#favorited-by-1464634127966248965)",
+  "date": "2022-01-19 09:26:05",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/035d679901027aae6fc8c4b35a9025c62419c50b2fc39dca8b83fb576e1d4f37.jpg",
+  "source_url": "https://twitter.com/roytang/status/1483679316152303623#favorited-by-1464634127966248965",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "2023 \ud83c\udf93.",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/035d679901027aae6fc8c4b35a9025c62419c50b2fc39dca8b83fb576e1d4f37.jpg",
+      "url": "https://twitter.com/oainux"
+    },
+    "url": "https://twitter.com/roytang/status/1483679316152303623#favorited-by-1464634127966248965",
+    "published": null,
+    "wm-received": "2022-01-19T09:26:05Z",
+    "wm-id": 1334855,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1483679316152303623/1464634127966248965",
+    "wm-target": "https://roytang.net/2022/01/95cdc5155613e98613dc06832f5f1895/",
+    "like-of": "https://roytang.net/2022/01/95cdc5155613e98613dc06832f5f1895/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
