@@ -6,6 +6,16 @@ aktt_tweeted:
 author: roy
 categories: []
 date: 2012-06-19 08:02:25
+dontinlinephotos: true
+location: 4b4ffb25f964a520bc1a27e3
+resources:
+- src: IMG_20120617_155930.jpg
+  title: 'My finish: 39th!'
+- src: IMG_20120619_235315.jpg
+  title: My crappy foil winnings from the Magic Rules Challenge
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/215112307523584003/
 tags:
 - grand-prix
 - standard
@@ -14,15 +24,6 @@ tags:
 title: Grand Prix Manila 2012
 type: post
 url: /2012/06/grand-prix-manila-2012/
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/215112307523584003/
-dontinlinephotos: true
-resources:
-- src: IMG_20120617_155930.jpg
-  title: 'My finish: 39th!'
-- src: IMG_20120619_235315.jpg
-  title: 'My crappy foil winnings from the Magic Rules Challenge'  
 ---
 
 Last weekend was Grand Prix Manila 2012, held at the SMX at Mall of Asia. I don't really consider myself a "regular" Magic player anymore so I'm not going to give a full tournament report, though I will record some details for posterity.
