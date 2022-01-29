@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2006-06-11 18:50:28
+location: robinsons_galleria
 tags:
 - mtg
 title: PTQ-Kobe
@@ -103,4 +104,3 @@ Decklist follows:
 1 Guardian of Vitu-ghazi 
 {{< /cardgroup >}}
 {{< /cardlist >}}
-
