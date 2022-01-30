@@ -43,7 +43,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### My Stuff
 
-- Worked on the site a bit this past week; some bug fixes here and there, a few minor CSS tweaks, some new features. Maybe I could whip a blog post about the changes, some kind of changelog?
+- Worked on the site a bit this past week; some bug fixes here and there, a few minor CSS tweaks, some new features. Maybe I could whip up a blog post about the changes, some kind of changelog?
 - Am behind a few days on the [daily sketching](/albums/sketchbook/); typical for a weekend. I did open up this new sketchbook and pencil and eraser I got over Christmas and did a few sketches with them. Here's one of Rachel Summers:
 
 {{< photo "2022/01/4ef02b672ba6b420c58881aaeb4ed4dd/" "4_sketch_rachelsummers" >}}
@@ -60,7 +60,7 @@ Visit the [Links page](/links/) for more links of interest.
         - Behind: **Legends of Tomorrow**, **Young Justice**
         - Yet to start: **The Witcher** season 2, **The Book of Boba Fett**, **Cobra Kai season 4**, **Peacemaker**
 - **Reading**: Almost done with **Leviathan Wakes by James S. A. Corey**. I thought I'd be done by now, but I got lazy and distracted by other things.
-- **Trivia**: We have started recording and uploading some of our Discord crossword sessions. Here's [the playlist](https://www.youtube.com/playlist?list=PL5c1J8DcHGjdqIys0p6qboROtUX7mKTK5) if you like that kind of think. Feel free to like, subscribe and all that jazz.
+- **Trivia**: We have started recording and uploading some of our Discord crossword sessions. Here's [the playlist](https://www.youtube.com/playlist?list=PL5c1J8DcHGjdqIys0p6qboROtUX7mKTK5) if you like that kind of thing. Feel free to like, subscribe and all that jazz.
 
 ### This coming week:
 

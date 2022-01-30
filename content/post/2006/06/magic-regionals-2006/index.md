@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2006-06-19 18:17:11
+location: robinsons_galleria
 tags:
 - mtg
 title: Magic -- Regionals 2006
