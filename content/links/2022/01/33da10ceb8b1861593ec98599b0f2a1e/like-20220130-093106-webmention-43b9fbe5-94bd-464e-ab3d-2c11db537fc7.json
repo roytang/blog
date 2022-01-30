@@ -1,0 +1,28 @@
+{
+  "id": "43b9fbe5-94bd-464e-ab3d-2c11db537fc7",
+  "name": "Jannis",
+  "url": "https://chaos.social/@Xjs",
+  "text": "[Jannis](https://chaos.social/@Xjs) [liked this](https://mastodon.technology/@roytang/107709667648943725#favorited-by-116058)",
+  "date": "2022-01-30 09:31:06",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/529b3c7dc306adbb3df877ce3b76fac8f9dcc31d543b42636200a1200620806b.png",
+  "source_url": "https://mastodon.technology/@roytang/107709667648943725#favorited-by-116058",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jannis",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/529b3c7dc306adbb3df877ce3b76fac8f9dcc31d543b42636200a1200620806b.png",
+      "url": "https://chaos.social/@Xjs"
+    },
+    "url": "https://mastodon.technology/@roytang/107709667648943725#favorited-by-116058",
+    "published": null,
+    "wm-received": "2022-01-30T09:31:06Z",
+    "wm-id": 1342246,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107709667648943725/116058",
+    "wm-target": "https://roytang.net/2022/01/33da10ceb8b1861593ec98599b0f2a1e/",
+    "like-of": "https://roytang.net/2022/01/33da10ceb8b1861593ec98599b0f2a1e/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
