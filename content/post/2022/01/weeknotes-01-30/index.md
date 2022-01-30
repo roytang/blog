@@ -7,7 +7,6 @@ tags:
 - philippines
 - covid19
 title: Weeknotes 2022-01-30
-draft: true
 ---
 
 Last weekend of January. The days and nights are starting to get warmer, indicating the nearing end of January and of our pleasant weather conditions. From here on the temperatures will steadily increase until we return to the punishing midyear heat.
