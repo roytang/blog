@@ -1,8 +1,13 @@
 ---
-title: "Blogging More"
-date: 2022-01-31T14:55:22+08:00
+date: 2022-01-31 06:55:22
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107715978312256395
+- type: twitter
+  url: https://twitter.com/roytang/status/1488056923773493250/
 tags:
 - blogging
+title: Blogging More
 ---
 
 I keep telling myself I should write on the blog more. Other than the regular [weeknotes](/tags/weeknotes/) and [reviews](/lists/media/movies/) that is. 
