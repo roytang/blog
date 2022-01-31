@@ -14,4 +14,4 @@ tags:
 
 Still missing from today's M11 spoilers: Steel Overlord, Roc Egg, Frost Titan. #mtg I'll go to sleep, maybe they'll be there when I wake up!
 
-[19:54] Ah, Steel Overseer just got spoiled! http://bit.ly/aeH6RW #mtg
+<time>[19:54]</time> Ah, Steel Overseer just got spoiled! http://bit.ly/aeH6RW #mtg

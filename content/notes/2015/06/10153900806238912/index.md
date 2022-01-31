@@ -8,4 +8,10 @@ tags:
 - lyrics
 ---
 
-"Sometimes the world looks perfect Nothing to rearrange Sometimes you just  Get a feeling like you need some kind of change"
+"Sometimes the world looks perfect 
+
+Nothing to rearrange 
+
+Sometimes you just  
+
+Get a feeling like you need some kind of change"
