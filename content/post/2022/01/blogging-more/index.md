@@ -1,7 +1,6 @@
 ---
 title: "Blogging More"
 date: 2022-01-31T14:55:22+08:00
-draft: true
 tags:
 - blogging
 ---
