@@ -1,9 +1,14 @@
 ---
-title: "Communication: Nuance"
-date: 2022-02-01T18:59:12+08:00
+date: 2022-02-01 10:59:12
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107722577524807101
+- type: twitter
+  url: https://twitter.com/roytang/status/1488479275833769995/
 tags:
 - communication
-dontinlinephotos: true
+title: 'Communication: Nuance'
 ---
 
 Dan Luu had [a pretty good thread over on Twitter about communicating nuance at a high level.](https://twitter.com/danluu/status/1487228574608211969) My favorite part of it is [this tweet](https://twitter.com/danluu/status/1487228584011784198):
