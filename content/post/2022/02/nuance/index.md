@@ -20,7 +20,11 @@ Anything larger than that though, and things start to break down. At this point,
 
 ---
 
-This is part of the reason why there seems to be a lot of chaos around government-imposed Covid policies during the pandemic. The instructions are often very nuanced or complicated and need to be communicated quickly to as many people as possible. And because the prevailing conditions or the science can sometimes change very rapidly, these communications often need to be done or updated in a very short time frame!
+I would guess this is part of the reason why a lot of science-based news (climate change, Covid, etc) are easily subjected to fake news or conspiracy theories. Scientific information tends to have a lot of nuance, probabilities, edge cases, terminology with specific meanings/scope, etc that may not be communicated well to the public at large. It can make it easier for conspiracy theories to pick apart theories and attack them at their weakest points out of context.
+
+---
+
+This is also part of the reason why there seems to be a lot of chaos around government-imposed Covid policies during the pandemic. The instructions are often very nuanced or complicated and need to be communicated quickly to as many people as possible. And because the prevailing conditions or the science can sometimes change very rapidly, these communications often need to be done or updated in a very short time frame!
 
 Often the advice will be coming from medical or technical people and will include things like probabilities and risk assessments, but these are also things the average person is bad at, so that only makes things worse.
 
