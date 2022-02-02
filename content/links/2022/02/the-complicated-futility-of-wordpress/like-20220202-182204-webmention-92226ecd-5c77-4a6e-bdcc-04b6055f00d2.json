@@ -1,0 +1,28 @@
+{
+  "id": "92226ecd-5c77-4a6e-bdcc-04b6055f00d2",
+  "name": "Flarnie",
+  "url": "https://mastodon.technology/@Flarnie",
+  "text": "[Flarnie](https://mastodon.technology/@Flarnie) [liked this](https://mastodon.technology/@roytang/107728622486860764#favorited-by-107049359476778678)",
+  "date": "2022-02-02 18:22:04",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107728622486860764#favorited-by-107049359476778678",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flarnie",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+      "url": "https://mastodon.technology/@Flarnie"
+    },
+    "url": "https://mastodon.technology/@roytang/107728622486860764#favorited-by-107049359476778678",
+    "published": null,
+    "wm-received": "2022-02-02T18:22:04Z",
+    "wm-id": 1344677,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107728622486860764/107049359476778678",
+    "wm-target": "https://roytang.net/2022/02/the-complicated-futility-of-wordpress/",
+    "like-of": "https://roytang.net/2022/02/the-complicated-futility-of-wordpress/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
