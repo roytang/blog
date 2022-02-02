@@ -1,12 +1,17 @@
 ---
-title: "Final #Sketchdaily (for now)"
-date: 2022-02-02T00:00:00+08:00
+albums:
+- sketchbook
+date: 2022-02-01 16:00:00
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107725693270717031
+- type: twitter
+  url: https://twitter.com/roytang/status/1488678712056815616/
 tags:
 - sketchdaily
 - LetLeniLead
-albums:
-- sketchbook
-dontinlinephotos: true
+title: 'Final #Sketchdaily (for now)'
 ---
 
 I've decided to end the current Sketchdaily streak. 
@@ -24,4 +29,3 @@ Still, one last sketch for the road. A couple of days ago I wanted to do a sketc
 Unfortunately, the sketches didn't turn out as well as I'd hoped. It kind of looks like her, but is also a bit off? One of the people I showed it to commented that artists usually take several sketches with a subject before settling on a final piece, so I good probably get this one right with a few more tries maybe? This was one of the things that convinced me to stop the current run - I figured if I wanted to get better I needed to spend more time with each piece and subject and that's just not something I can fit into a daily commitment.
 
 Even without the daily commitment, I still hope to continue the sketching habit. Maybe even bigger or more complex pieces this time, now that I have a pencil and a sketchbook again. Or learn to do more difficult art? I'm hoping to find some kind of rhythm or schedule that still allows me to post sketches on a regular basis, just not something as demanding as daily! Maybe my sketches will be a lot better the next time I want to attempt a 365-day run!
-
