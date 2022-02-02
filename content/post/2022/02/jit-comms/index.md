@@ -1,9 +1,14 @@
 ---
-title: "Communication: Just In Time"
-date: 2022-02-03T00:00:00+08:00
+date: 2022-02-02 16:00:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107729606797174564
+- type: twitter
+  url: https://twitter.com/roytang/status/1488929146763759616/
 tags:
 - communication
 - software-development
+title: 'Communication: Just In Time'
 ---
 
 We used to attend these online quiz nights where at the top of the quiz, the host would do his introductory spiel explaining how the quiz night works. This is typical of quiz nights. But this quiz group in particular always had a semi-complicated final round where each team makes a wager against how many answers you can get in the final question which has multiple answers. They introduce this mechanic during the intro spiel, and at the end of the night, if there are any new teams during the quiz, they will inevitably raise a question or two that were already covered in the intro spiel.
@@ -21,4 +26,3 @@ Mark Brown covers this in his Youtube video ["How to teach complex games"](https
 ---
 
 There is a similar principle in software development, where programmers are encouraged to ["declare variables as close to their usage as possible"](https://softwareengineering.stackexchange.com/questions/113262/why-declare-variables-close-to-where-they-are-used). The advantages are mainly in terms of readability (always an important factor when writing code!), since this makes it easier for the reader to understand the variables in context.
-
