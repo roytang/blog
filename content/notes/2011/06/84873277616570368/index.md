@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/84873277616570368/
+tags:
+- games
 ---
 
 I finished LA Noire but I think I got the bad ending. Wait, there was only one ending?

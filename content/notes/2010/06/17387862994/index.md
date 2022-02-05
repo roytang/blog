@@ -16,6 +16,6 @@ tags:
 
 Pyretic Ritual - first Timetwister, now Dark Ritual? #mtg #m11
 
-[13:57] I hope [@fivewithflores](https://twitter.com/fivewithflores/) has something good for us tomorrow. Other than the Lich, the previews this week have been a bit meh. #mtg #m11
+<time>[13:57]</time> I hope [@fivewithflores](https://twitter.com/fivewithflores/) has something good for us tomorrow. Other than the Lich, the previews this week have been a bit meh. #mtg #m11
 
-[16:28] I hope a pull a Juggernaut at the prerelease and fight today's preview card. I get to say "I'm the Juggernaut, Lich!" #mtg #m11
+<time>[16:28]</time> I hope a pull a Juggernaut at the prerelease and fight today's preview card. I get to say "I'm the Juggernaut, Lich!" #mtg #m11

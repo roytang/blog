@@ -10,4 +10,4 @@ syndicated:
 
 Wow may 2-factor authentication na ang citibank online! Wala lang
 
-[21:23] ...and they also have a terribly unusable custom combobox control &gt;.&lt;
+<time>[21:23]</time> ...and they also have a terribly unusable custom combobox control &gt;.&lt;
