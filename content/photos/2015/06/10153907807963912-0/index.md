@@ -18,6 +18,6 @@ tags:
 
 Heading out for battle! #gpsing
 
-[15:40] 2-0 vs grixis twin, 2-1 vs coco elves, 1-1 vs junk, 2-0 vs gw coco, 2-0 vs grixis twin #gpsing
+<time>[15:40]</time> 2-0 vs grixis twin, 2-1 vs coco elves, 1-1 vs junk, 2-0 vs gw coco, 2-0 vs grixis twin #gpsing
 
-[20:36] Finished gp singapore 6-2-1. Getting eliminated on the last round sucks
+<time>[20:36]</time> Finished gp singapore 6-2-1. Getting eliminated on the last round sucks

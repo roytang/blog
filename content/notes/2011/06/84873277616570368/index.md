@@ -1,5 +1,10 @@
 ---
-date: 2011-06-26 06:39:00+00:00
+date: 2011-06-26 06:39:00
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: L.A. Noire (PS3)
 source: twitter
 syndicated:
 - type: twitter
