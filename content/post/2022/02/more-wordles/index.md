@@ -1,9 +1,14 @@
 ---
-title: "Even More Wordles"
-date: 2022-02-05T15:28:49+08:00
+date: 2022-02-05 07:28:49
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107744309628148431
+- type: twitter
+  url: https://twitter.com/roytang/status/1489870127957155842/
 tags:
 - games
 - tech-life
+title: Even More Wordles
 ---
 
 I've still been playing Wordle since [the last time I wrote about it](/2022/01/wordle-things/). Still 100% win rate, and currently on 24-day streak (would have been longer, except in early January, I decided to test what would happen if I set my system date to the future since the game uses the client's date).
