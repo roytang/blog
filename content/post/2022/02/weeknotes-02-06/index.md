@@ -1,8 +1,13 @@
 ---
-date: 2022-02-06T15:46:21+08:00
+date: 2022-02-06 07:46:21
 featuredResource:
-  photo: /2022/02/final-sketchdaily/
   filename: leni2.jpg
+  photo: /2022/02/final-sketchdaily/
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107751779261966572
+- type: twitter
+  url: https://twitter.com/roytang/status/1490348184560111616/
 tags:
 - weeknotes
 - philippines
