@@ -3,6 +3,11 @@ date: 2022-02-07 03:38:25
 reviews:
 - media: movies
   title: 'Spider-Man: No Way Home (2021)'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107757365303012399
+- type: twitter
+  url: https://twitter.com/roytang/status/1490705693279924225/
 tags:
 - mcu
 - movies
