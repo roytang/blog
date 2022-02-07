@@ -1,0 +1,28 @@
+{
+  "id": "53267ad4-c3fb-429c-b9b6-cd9c4bf2bf64",
+  "name": "Deekshith Allamaneni",
+  "url": "https://mastodon.technology/@dsoft",
+  "text": "[Deekshith Allamaneni](https://mastodon.technology/@dsoft) [liked this](https://mastodon.technology/@roytang/107757365303012399#favorited-by-386246)",
+  "date": "2022-02-07 17:21:51",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/a7bd212772b9d6d51351aa3161ab418233fafe20a0e055091b61956ddb7fd8b6.png",
+  "source_url": "https://mastodon.technology/@roytang/107757365303012399#favorited-by-386246",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Deekshith Allamaneni",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/a7bd212772b9d6d51351aa3161ab418233fafe20a0e055091b61956ddb7fd8b6.png",
+      "url": "https://mastodon.technology/@dsoft"
+    },
+    "url": "https://mastodon.technology/@roytang/107757365303012399#favorited-by-386246",
+    "published": null,
+    "wm-received": "2022-02-07T17:21:51Z",
+    "wm-id": 1347950,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107757365303012399/386246",
+    "wm-target": "https://roytang.net/2022/02/spider-man-no-way-home/",
+    "like-of": "https://roytang.net/2022/02/spider-man-no-way-home/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
