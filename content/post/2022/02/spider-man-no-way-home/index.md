@@ -44,6 +44,8 @@ That being said, all the villains look great. Electro looks much better than how
 
 Andrew and Toby looked great. Andrew reminded me so much of his character from Tick Tick Boom though. Tobey looking like a youth pastor was priceless. They have spent a bit too much time discussing Tobey's web situation, but as I told my brother, this was the only time they could have that discussion!
 
+MJ/Zendaya and Ned/Batalon were a great supporting cast as usual. Happy doesn't get a lot to do here, and May... well, you know.
+
 The whole "Peters curing the badguys" thing was pretty good, mainly because it helped redeem the Andrew and Tobey franchises in a way. Among the comics heroes, Peter was always one of those strongly against killing his enemies, and the first two franchises never gave him a chance to try to save his foes.
 
 Two nitpicks that stretch our suspension of disbelief: Peter beating Strange inside the mirror dimension and Ned accidentally learning to use the sling ring (I just rewatched the Doctor Strange film recently, it was so difficult for Strange to learn that!)
@@ -55,6 +57,8 @@ I am generally happy with how the rest of the plot developed. May dying was a sh
 That ending ties up Tom Holland's trilogy neatly and leaves nothing on the table for any possible future appearances. (Unlike [Far From Home](/2019/07/spider-man-far-from-home/) which burdened the next film with the secret identity reveal.) He could completely leave the role behind right now and it would be fine; or he could go in a completely different direction with a different supporting cast (see: [Thor Ragnarok](/2017/10/10156133009878912/)). With not even the Avengers remembering who he is, it even frees him up for a true standalone solo film.
 
 {{< /spoiler >}}
+
+Overall, I appreciate the film especially as a tribute to the history of the Spider-Man franchise(s) in film, but wish they had worked out a stronger premise.
 
 If you liked the film but haven't read a lot of the comics, here's some stuff you might want to read:
 
