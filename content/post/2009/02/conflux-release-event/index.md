@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2009-02-08 04:14:29
+location: robinsons_galleria
 tags:
 - mtg
 title: Conflux Release Event
