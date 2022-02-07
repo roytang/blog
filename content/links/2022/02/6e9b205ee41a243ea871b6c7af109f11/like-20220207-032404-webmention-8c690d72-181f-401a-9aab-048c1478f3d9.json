@@ -1,0 +1,28 @@
+{
+  "id": "8c690d72-181f-401a-9aab-048c1478f3d9",
+  "name": "Timo Tijhof",
+  "url": "https://mastodon.technology/@krinkle",
+  "text": "[Timo Tijhof](https://mastodon.technology/@krinkle) [liked this](https://mastodon.technology/@roytang/107751242497129911#favorited-by-259460)",
+  "date": "2022-02-07 03:24:04",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/42000d25746e3a9cbb53c6ab83e7eeb37c50d5082bde0b5075eb51107be6bebc.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107751242497129911#favorited-by-259460",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Timo Tijhof",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/42000d25746e3a9cbb53c6ab83e7eeb37c50d5082bde0b5075eb51107be6bebc.jpg",
+      "url": "https://mastodon.technology/@krinkle"
+    },
+    "url": "https://mastodon.technology/@roytang/107751242497129911#favorited-by-259460",
+    "published": null,
+    "wm-received": "2022-02-07T03:24:04Z",
+    "wm-id": 1347616,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107751242497129911/259460",
+    "wm-target": "https://roytang.net/2022/02/6e9b205ee41a243ea871b6c7af109f11/",
+    "like-of": "https://roytang.net/2022/02/6e9b205ee41a243ea871b6c7af109f11/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
