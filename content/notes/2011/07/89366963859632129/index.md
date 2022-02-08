@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/89366963859632129/
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/4e172d16aeb7e76b4f24cc50?s=fKwJCC0FBQj0-J_3D_wk3BHr8MQ&ref=tw
+tags:
+- quiznight
 ---
 
 I'm at Quantum Cafe w/ [@karlocatapang](https://twitter.com/karlocatapang/) https://www.swarmapp.com/roytang/checkin/4e172d16aeb7e76b4f24cc50?s=fKwJCC0FBQj0-J_3D_wk3BHr8MQ&ref=tw

@@ -4,12 +4,17 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/spikes/comments/4rsr17/modern_jeskai_control_sideboard_choices/
+- type: reddit
+  url: https://www.reddit.com/r/ModernMagic/comments/4rspgd/jeskai_sideboard_choices/
 tags:
 - spikes
+- modernmagic
 - reddit_submission
 ---
 
 #### Posted on r/spikes: [[Modern] Jeskai control sideboard choices](https://reddit.com/r/spikes/comments/4rsr17/modern_jeskai_control_sideboard_choices/)
+
+#### Cross-Posted on r/ModernMagic: [Jeskai sideboard choices](https://reddit.com/r/ModernMagic/comments/4rspgd/jeskai_sideboard_choices/)
 
 Hey, looking for some advice. Here's the deck I played at the last tournament: http://mtgtop8.com/event?e=12828&d=274476&f=MO
 

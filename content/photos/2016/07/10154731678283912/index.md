@@ -14,7 +14,7 @@ tags:
 - mobile-uploads
 ---
 
-RT [@marocharim](https://twitter.com/marocharim/): Yasay.
+Yasay.
 I only hear what I want to.
 
 Yasay.
