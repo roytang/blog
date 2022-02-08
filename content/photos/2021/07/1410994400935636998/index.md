@@ -8,6 +8,7 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/obhr4b/july_1st_shoebill_stork/h3tkrn3/
 tags:
 - sketchdaily
+- transformers
 ---
 
 Dinobot Snarl #sketchdaily 182/365

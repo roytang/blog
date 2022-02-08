@@ -7,6 +7,9 @@ tags:
 title: Flocking
 type: post
 url: /2008/07/flocking/
+syndicated:
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/18385053911
 ---
 
 I'm not sure why but I decided to try out the [Flock 2][1] web browser beta, the "social web browser" built on top of Firefox.

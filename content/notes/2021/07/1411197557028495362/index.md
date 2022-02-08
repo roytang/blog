@@ -12,4 +12,4 @@ I enjoyed this thread, but all these people posting images without naming the mo
 
 Gimme one of your favorite shots in a movie from 2010–2020.
 
-{{% /quoted %}}
+{{% /quoted %}} 
