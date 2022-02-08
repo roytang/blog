@@ -14,4 +14,4 @@ tags:
 
 Destructive Force: This card is literally "Wildfire+1". Is it because six is the new seven? Will Wildfire decks return? #mtg #m11
 
-[12:31] Autumn's Veil: This is pratically a green Flashfreeze. Will it be enough to fight the wave of new blue permission decks? #mtg #m11
+<time>[12:31]</time> Autumn's Veil: This is pratically a green Flashfreeze. Will it be enough to fight the wave of new blue permission decks? #mtg #m11
