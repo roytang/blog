@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-07-14 08:04:54
+location: robinsons_galleria
 tags:
 - mtg
 title: Magic Game Day

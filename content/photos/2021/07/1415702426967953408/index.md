@@ -8,6 +8,7 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/okp023/july_15th_lemonade_stand/h5aemoe/
 tags:
 - sketchdaily
+- pokemon
 ---
 
 Greninja #sketchdaily 196/365
