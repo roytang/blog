@@ -14,7 +14,7 @@ The internet used to be all about URLs.
 
 We would type them in to your browser address bar. We would maintain curated lists of URLs of interesting sites to visit. URLs were passed around and shared. Freely copied and pasted. We would navigate sites just by changing the URL path or playing with query parameters.
 
-All of that changed with the proliferation of the mobile internet. Most modern day internet users don't even know what a URL is. They seldom interact with browsers, instead using apps that keep them in silos. If told them to open a browser, they would stare at you in confusion. They pass things around using share functions and link shorteners, masking true URLs. 
+All of that changed with the proliferation of the mobile internet. Most modern day internet users don't even know what a URL is. They seldom interact with browsers, instead using apps that keep them in silos. If you told them to open a browser, they would stare at you in confusion. They pass things around using share functions and link shorteners, masking true URLs. 
 
 Some modern browsers even hide the full URL from their users, even on desktop. (Looking at you, Safari.) On mobile, URLs are difficult to use, to type out, to copy and to paste, and to read. Mobile browsers hide away the address bar when not in use. Mobile users know URLs only as weird arcane strings of text, highlighted in blue, that they have to click on.
 
