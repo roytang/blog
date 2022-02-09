@@ -6,8 +6,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153935708933912:1
 tags:
 - mtg
+title: Magic Origins Prerelease
 ---
 
 Decided to do a midnight Origins prerelease at the last minute
 
-[05:42] Only went 3-1 at the origins prerelease; these guys did most of the heavy lifting but the angel is kinda bad against other white decks with tappers
+<time>[05:42]</time> Only went 3-1 at the origins prerelease; these guys did most of the heavy lifting but the angel is kinda bad against other white decks with tappers

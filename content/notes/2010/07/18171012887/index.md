@@ -9,8 +9,9 @@ syndicated:
 tags:
 - m11
 - mtg
+title: Magic 2011 Prerelease
 ---
 
 passed a pool with grave titan, doj. I got 2x white leyline in return. #m11
 
-[17:12] my #m11 prerelease record: an amazing 2-2! Prize packs had crap =/
+<time>[17:12]</time> my #m11 prerelease record: an amazing 2-2! Prize packs had crap =/

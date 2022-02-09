@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-07-12 19:25:33
+location: robinsons_galleria
 tags:
 - mtg
 title: Eventide Prerelease

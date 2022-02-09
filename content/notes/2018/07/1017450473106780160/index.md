@@ -9,4 +9,5 @@ syndicated:
 ---
 
 Me: I had a long day and I’m tired, I should go to sleep
+
 My brain: I figured out how to fix that bug
