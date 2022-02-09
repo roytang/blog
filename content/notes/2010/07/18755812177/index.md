@@ -16,4 +16,4 @@ tags:
 
 My #m11 Release Party was chock full of playables - Overwhelming Stampede, Royal Assassin, bunch of removal, etc. Nothing of value though.
 
-[17:33] Went 3-1 at the #m11 Release Party. Only good rare in my prize packs was a DoJ.
+<time>[17:33]</time> Went 3-1 at the #m11 Release Party. Only good rare in my prize packs was a DoJ.
