@@ -1,0 +1,32 @@
+{
+  "id": "b85db29f-25bf-475c-90e1-3963a9a1d912",
+  "name": "Adrian Cochrane",
+  "url": "https://floss.social/@alcinnz",
+  "text": "Mentioned by https://brid.gy/post/mastodon/@roytang@mastodon.technology/107768746426396093\n\n> URLs - Roy Tang: https://roytang.net/2022/02/urls/\nURLs \u00b7 roytang.net",
+  "date": "2022-02-09 15:29:17",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+  "source_url": "https://floss.social/@alcinnz/107768745639351386",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adrian Cochrane",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "url": "https://floss.social/@alcinnz"
+    },
+    "url": "https://floss.social/@alcinnz/107768745639351386",
+    "published": "2022-02-09T15:29:17",
+    "wm-received": "2022-02-09T19:54:21Z",
+    "wm-id": 1349022,
+    "wm-source": "https://brid.gy/post/mastodon/@roytang@mastodon.technology/107768746426396093",
+    "wm-target": "https://roytang.net/2022/02/urls/",
+    "content": {
+      "html": "<p>URLs - Roy Tang: <a href=\"https://roytang.net/2022/02/urls/\"><span>https://</span><span>roytang.net/2022/02/urls/</span><span></span></a></p>\n<a href=\"https://roytang.net/2022/02/urls/\">URLs \u00b7 roytang.net</a>",
+      "text": "URLs - Roy Tang: https://roytang.net/2022/02/urls/\nURLs \u00b7 roytang.net"
+    },
+    "mention-of": "https://roytang.net/2022/02/urls/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
