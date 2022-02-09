@@ -1,8 +1,13 @@
 ---
-title: "URLs"
-date: 2022-02-09T14:22:02+08:00
+date: 2022-02-09 06:22:02
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107766808691133689
+- type: twitter
+  url: https://twitter.com/roytang/status/1491310068025159684/
 tags:
 - tech-life
+title: URLs
 ---
 
 The internet used to be all about URLs.
@@ -25,4 +30,4 @@ People used to have their own sites, on the open web. They'd say "Oh, you can ch
 
 People keep tons of open tabs just to use the browser as a todo list. You can just save the URLs somewhere and save your memory! Browsers even have a feature for this!
 
-Had this post in my drafts for a while. It reads mostly as an old-timey "old man shakes fist at clouds" type of rant. I understand (not necessarily approve) of) why the modern web is the way it is and some of it is good and some of these are exaggerated for effect, but the nostalgia for the old ways is real. 
+Had this post in my drafts for a while. It reads mostly as an old-timey "old man shakes fist at clouds" type of rant. I understand (not necessarily approve) of) why the modern web is the way it is and some of it is good and some of these are exaggerated for effect, but the nostalgia for the old ways is real.
