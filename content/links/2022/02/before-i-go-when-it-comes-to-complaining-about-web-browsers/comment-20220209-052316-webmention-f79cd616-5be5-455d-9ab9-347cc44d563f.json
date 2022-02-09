@@ -1,0 +1,32 @@
+{
+  "id": "f79cd616-5be5-455d-9ab9-347cc44d563f",
+  "name": "Adrian Cochrane",
+  "url": "https://floss.social/@alcinnz",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> What I do: Develop my own browser engines!</p><p>At the very least this ensures I know what I'm talking about when I opine...</p><p>I know not everyone agrees with the web I want to see, but I can at least show the benefits. And show how deadly serious I am about it!</p>\n<a class=\"u-mention\" href=\"https://daverupert.com/2022/02/complaining-about-web-browsers\"></a>",
+  "date": "2022-02-09 05:23:16",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+  "source_url": "https://floss.social/@alcinnz/107766362690526251",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adrian Cochrane",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "url": "https://floss.social/@alcinnz"
+    },
+    "url": "https://floss.social/@alcinnz/107766362690526251",
+    "published": "2022-02-09T05:23:16",
+    "wm-received": "2022-02-09T11:11:48Z",
+    "wm-id": 1348771,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107766253204378695/107766362763418982",
+    "wm-target": "https://roytang.net/2022/02/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> What I do: Develop my own browser engines!</p><p>At the very least this ensures I know what I'm talking about when I opine...</p><p>I know not everyone agrees with the web I want to see, but I can at least show the benefits. And show how deadly serious I am about it!</p>\n<a class=\"u-mention\" href=\"https://daverupert.com/2022/02/complaining-about-web-browsers\"></a>",
+      "text": "@roytang What I do: Develop my own browser engines!At the very least this ensures I know what I'm talking about when I opine...I know not everyone agrees with the web I want to see, but I can at least show the benefits. And show how deadly serious I am about it!"
+    },
+    "in-reply-to": "https://roytang.net/2022/02/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
