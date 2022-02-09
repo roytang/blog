@@ -29,12 +29,13 @@ syndicated:
 tags:
 - mtgemn
 - mtg
+title: Eldritch Moon Prerelease
 ---
 
 Lets go #mtgemn
 
-[14:30] Went 3-0 in the #mtgemn prerelease. Boo for only 3 rds
+<time>[14:30]</time> Went 3-0 in the #mtgemn prerelease. Boo for only 3 rds
 
-[16:02] 2nd pod actually had better pulls! #mtgemn
+<time>[16:02]</time> 2nd pod actually had better pulls! #mtgemn
 
-[21:29] bah 2nd pod only went 2-2 #mtgemn
+<time>[21:29]</time> bah 2nd pod only went 2-2 #mtgemn
