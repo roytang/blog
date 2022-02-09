@@ -1,0 +1,28 @@
+{
+  "id": "3f1442d2-f618-4889-9c31-ece05bca29fc",
+  "name": "Adrian Cochrane",
+  "url": "https://floss.social/@alcinnz",
+  "text": "[Adrian Cochrane](https://floss.social/@alcinnz) [shared this](https://mastodon.technology/@roytang/107763461567269178#reblogged-by-77011)",
+  "date": "2022-02-08 17:39:47",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+  "source_url": "https://mastodon.technology/@roytang/107763461567269178#reblogged-by-77011",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adrian Cochrane",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "url": "https://floss.social/@alcinnz"
+    },
+    "url": "https://mastodon.technology/@roytang/107763461567269178#reblogged-by-77011",
+    "published": null,
+    "wm-received": "2022-02-08T17:39:47Z",
+    "wm-id": 1348477,
+    "wm-source": "https://brid.gy/repost/mastodon/@roytang@mastodon.technology/107763461567269178/77011",
+    "wm-target": "https://roytang.net/2022/02/great-communication-for-software-teams/",
+    "repost-of": "https://roytang.net/2022/02/great-communication-for-software-teams/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
