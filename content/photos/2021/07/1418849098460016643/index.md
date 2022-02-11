@@ -1,9 +1,11 @@
 ---
-date: 2021-07-24 08:22:40+00:00
+date: 2021-07-24 08:22:40
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1418849098460016643/
+tags:
+- gaming
 ---
 
 Some friends and I have been playing this web-based version of Advance Wars: https://awbw.amarriner.com/
