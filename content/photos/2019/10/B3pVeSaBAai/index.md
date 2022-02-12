@@ -2,6 +2,7 @@
 albums:
 - instagram
 date: 2019-10-15 16:42:39
+location: pedrotaphouse
 source: instagram
 syndicated:
 - type: twitter

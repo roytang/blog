@@ -3,7 +3,7 @@ albums:
 - instagram
 date: 2019-09-05 16:02:46
 geo: ''
-location: ''
+location: citygarden
 source: instagram
 syndicated:
 - type: instagram

@@ -1,12 +1,14 @@
 ---
-addr: '5910 Matilde, Makati, 1209 Metro Manila'
-city: Makati City
+addr: '31 Xavierville Ave, Quezon City, Metro Manila'
+city: Quezon City
 country: Philippines
-description: Pedro Tap House
-id: pedrotaphouse
-lat: 14.562559520586158
-lng: 121.0327024553178
-title: Pedro Tap House
-venue: Pedro Tap House
+description: Game Over PH
+id: gameoverph
+lat: 14.636150968443518
+lng: 121.0666228418242
+title: Game Over PH
+venue: Game Over PH
 ---
+
+
 
