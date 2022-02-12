@@ -6,9 +6,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/19637472246/
 - type: plurk
   url: https://plurk.com/p/6kymiq
+- type: tumblr
+  url: https://roytang.tumblr.com/post/864976627
 tags:
 - gaming
 - sc2
+albums:
+- pickups
 ---
 
 Now installing: Starcraft II Wings of Liberty
