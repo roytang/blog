@@ -1,0 +1,28 @@
+{
+  "id": "2ac9a017-fcde-4b08-8cb2-5c7e20a7558d",
+  "name": "jollyrogue@social.tulsa.ok.us",
+  "url": "https://social.tulsa.ok.us/@jollyrogue",
+  "text": "[jollyrogue@social.tulsa.ok.us](https://social.tulsa.ok.us/@jollyrogue) [liked this](https://mastodon.technology/@roytang/107783812490343910#favorited-by-370716)",
+  "date": "2022-02-12 18:17:02",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/8b456542de96c29087b78f71fcb155a790f9e58bce7a1f4504a384ac5b142cdb.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-370716",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "jollyrogue@social.tulsa.ok.us",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/8b456542de96c29087b78f71fcb155a790f9e58bce7a1f4504a384ac5b142cdb.jpg",
+      "url": "https://social.tulsa.ok.us/@jollyrogue"
+    },
+    "url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-370716",
+    "published": null,
+    "wm-received": "2022-02-12T18:17:02Z",
+    "wm-id": 1350934,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107783812490343910/370716",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
