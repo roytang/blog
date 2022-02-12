@@ -1,0 +1,28 @@
+{
+  "id": "4bfee283-15b4-4e02-beb2-6d2883fa6143",
+  "name": "Nick Doty",
+  "url": "https://octodon.social/@npd",
+  "text": "[Nick Doty](https://octodon.social/@npd) [liked this](https://mastodon.technology/@roytang/107783812490343910#favorited-by-27966)",
+  "date": "2022-02-12 18:17:02",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/484065e4c3d46d27c3a53a8e1b2bbf916da0cbb74c151ee51f586541fc2d8598.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-27966",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nick Doty",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/484065e4c3d46d27c3a53a8e1b2bbf916da0cbb74c151ee51f586541fc2d8598.jpg",
+      "url": "https://octodon.social/@npd"
+    },
+    "url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-27966",
+    "published": null,
+    "wm-received": "2022-02-12T18:17:02Z",
+    "wm-id": 1350935,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107783812490343910/27966",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

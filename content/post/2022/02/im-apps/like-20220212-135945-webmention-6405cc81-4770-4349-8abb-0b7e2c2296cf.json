@@ -1,0 +1,28 @@
+{
+  "id": "6405cc81-4770-4349-8abb-0b7e2c2296cf",
+  "name": "Jason Deneb",
+  "url": "https://twitter.com/jasondeneb",
+  "text": "[Jason Deneb](https://twitter.com/jasondeneb) [liked this](https://twitter.com/roytang/status/1492398313869819904#favorited-by-18420556)",
+  "date": "2022-02-12 13:59:45",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/a2e041d933bf2471a760c86ec32a11904c5f79d237b3d7d53729fb88556d361c.jpg",
+  "source_url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-18420556",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jason Deneb",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a2e041d933bf2471a760c86ec32a11904c5f79d237b3d7d53729fb88556d361c.jpg",
+      "url": "https://twitter.com/jasondeneb"
+    },
+    "url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-18420556",
+    "published": null,
+    "wm-received": "2022-02-12T13:59:45Z",
+    "wm-id": 1350866,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1492398313869819904/18420556",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

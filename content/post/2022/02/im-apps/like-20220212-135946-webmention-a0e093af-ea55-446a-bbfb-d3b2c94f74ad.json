@@ -1,0 +1,28 @@
+{
+  "id": "a0e093af-ea55-446a-bbfb-d3b2c94f74ad",
+  "name": "mauie \ud83d\udc97 Leni|Kiko|Baguilat|Diokno",
+  "url": "https://twitter.com/inggupi",
+  "text": "[mauie \ud83d\udc97 Leni|Kiko|Baguilat|Diokno](https://twitter.com/inggupi) [liked this](https://twitter.com/roytang/status/1492398313869819904#favorited-by-3240246444)",
+  "date": "2022-02-12 13:59:46",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/c7e8a66f0724dd9f39d207a6bc48ca1792e815a9a354cbf33fb3d3cc4da514f2.jpg",
+  "source_url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-3240246444",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mauie \ud83d\udc97 Leni|Kiko|Baguilat|Diokno",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c7e8a66f0724dd9f39d207a6bc48ca1792e815a9a354cbf33fb3d3cc4da514f2.jpg",
+      "url": "https://twitter.com/inggupi"
+    },
+    "url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-3240246444",
+    "published": null,
+    "wm-received": "2022-02-12T13:59:46Z",
+    "wm-id": 1350867,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1492398313869819904/3240246444",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

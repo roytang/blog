@@ -1,0 +1,28 @@
+{
+  "id": "0a2a4f9c-70df-4ec1-8c12-76ef2fc8207a",
+  "name": "King",
+  "url": "https://twitter.com/KingLlanza",
+  "text": "[King](https://twitter.com/KingLlanza) [liked this](https://twitter.com/roytang/status/1492398313869819904#favorited-by-882629078880141312)",
+  "date": "2022-02-12 14:00:14",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/c7b847303fdbb1ae10886bbdba97271c612694bc7542b976667f401f5e029b0a.jpg",
+  "source_url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-882629078880141312",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "King",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c7b847303fdbb1ae10886bbdba97271c612694bc7542b976667f401f5e029b0a.jpg",
+      "url": "https://twitter.com/KingLlanza"
+    },
+    "url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-882629078880141312",
+    "published": null,
+    "wm-received": "2022-02-12T14:00:14Z",
+    "wm-id": 1350875,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1492398313869819904/882629078880141312",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

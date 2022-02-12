@@ -1,0 +1,28 @@
+{
+  "id": "396dbfc5-0db1-4236-9e1f-607717994d57",
+  "name": "oxy fangirl 69 \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+  "url": "https://mond-basis.eu/@transcaffeine",
+  "text": "[oxy fangirl 69 \ud83c\udff3\ufe0f\u200d\ud83c\udf08](https://mond-basis.eu/@transcaffeine) [liked this](https://mastodon.technology/@roytang/107783812490343910#favorited-by-177493)",
+  "date": "2022-02-12 10:28:00",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/ba9aaece8438fcbabc6d8515f12dca32099b1193882fb6c114df73ed1d287138.png",
+  "source_url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-177493",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "oxy fangirl 69 \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/ba9aaece8438fcbabc6d8515f12dca32099b1193882fb6c114df73ed1d287138.png",
+      "url": "https://mond-basis.eu/@transcaffeine"
+    },
+    "url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-177493",
+    "published": null,
+    "wm-received": "2022-02-12T10:28:00Z",
+    "wm-id": 1350728,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107783812490343910/177493",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

@@ -1,9 +1,14 @@
 ---
-title: "Instant Messaging Apps"
-date: 2022-02-12T14:55:42+08:00
+date: 2022-02-12 06:55:42
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107783812490343910
+- type: twitter
+  url: https://twitter.com/roytang/status/1492398313869819904/
 tags:
 - tech-life
-dontinlinephotos: true
+title: Instant Messaging Apps
 ---
 
 A while back I saw [this toot](https://koyu.space/@bram/107763055910048563) that had an interesting chart listing a lot of the modern IM apps:

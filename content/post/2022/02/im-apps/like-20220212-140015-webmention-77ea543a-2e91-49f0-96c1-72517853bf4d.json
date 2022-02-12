@@ -1,0 +1,28 @@
+{
+  "id": "77ea543a-2e91-49f0-96c1-72517853bf4d",
+  "name": "Ascello",
+  "url": "https://twitter.com/starburningout",
+  "text": "[Ascello](https://twitter.com/starburningout) [liked this](https://twitter.com/roytang/status/1492398313869819904#favorited-by-911080146500595712)",
+  "date": "2022-02-12 14:00:15",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/0edf36656eab84c86b14e218f28bd5f6e04fe439b4b09ca34449a067c93cf2a8.jpg",
+  "source_url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-911080146500595712",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ascello",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/0edf36656eab84c86b14e218f28bd5f6e04fe439b4b09ca34449a067c93cf2a8.jpg",
+      "url": "https://twitter.com/starburningout"
+    },
+    "url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-911080146500595712",
+    "published": null,
+    "wm-received": "2022-02-12T14:00:15Z",
+    "wm-id": 1350877,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1492398313869819904/911080146500595712",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
