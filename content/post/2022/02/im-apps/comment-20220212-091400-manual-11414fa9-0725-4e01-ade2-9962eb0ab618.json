@@ -1,0 +1,12 @@
+{
+  "id": "11414fa9-0725-4e01-ade2-9962eb0ab618",
+  "name": "Mehrad :manjaro: :kde: :vim:",
+  "url": "https://fosstodon.org/@Mehrad",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url mention\">@<span>roytang</span></a></span> <span class=\"h-card\"><a href=\"https://floss.social/@alcinnz\" class=\"u-url mention\">@<span>alcinnz</span></a></span> </p><p>Matrix is NOT fully encrypted, so please stop advertising it as such. Matrix is good for community discussion and etc. but it doesn&apos;t encrypt many things including the metadata, hence a bad bad choice for private personal chats where reactions and metadata can potentially leak a lot of info:</p><p><a href=\"https://fosstodon.org/@Mehrad/107614485435751742\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@Mehrad/10761448</span><span class=\"invisible\">5435751742</span></a></p><p>Second, I can&apos;t see any signs of Sessions in your list. It is fully FOSS, It is not centralised, it uses Tor and it seems to be a good alternative to WhatsApp</p>",
+  "date": "2022-02-12 09:14:00",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/2b3d459551444140d9b2f0a6f78809e97e0dfd8b740575f4a845df5300cf638d.jpg",
+  "source_url": "https://fosstodon.org/@Mehrad/107784259696019489",
+  "source": "manual",
+  "source_obj": {
+  }
+}
