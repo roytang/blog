@@ -1,0 +1,32 @@
+{
+  "id": "ab9926f3-bd95-4d68-ba4d-60d76e39101b",
+  "name": "Mehrad :manjaro: :kde: :vim:",
+  "url": "https://fosstodon.org/@Mehrad",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@rysiek\" class=\"u-url\">@<span>rysiek</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> <span class=\"h-card\"><a href=\"https://floss.social/@alcinnz\" class=\"u-url\">@<span>alcinnz</span></a></span> </p><p>I 101% agree with you about integration of blockchain in a messaging app. The same way that a frozen pizza box should not contain GPS tracker in the box or a kitchen knife doesn't need to have diamond coated blade. I can't agree more.</p><p>I was just pointing out that:</p><p>1. the list is very incomplete and </p><p>2. has false (or at least misleading) information</p>",
+  "date": "2022-02-12 09:40:41",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/2b3d459551444140d9b2f0a6f78809e97e0dfd8b740575f4a845df5300cf638d.jpg",
+  "source_url": "https://fosstodon.org/@Mehrad/107784361867386168",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mehrad :manjaro: :kde: :vim:",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/2b3d459551444140d9b2f0a6f78809e97e0dfd8b740575f4a845df5300cf638d.jpg",
+      "url": "https://fosstodon.org/@Mehrad"
+    },
+    "url": "https://fosstodon.org/@Mehrad/107784361867386168",
+    "published": "2022-02-12T09:40:41",
+    "wm-received": "2022-02-12T10:27:58Z",
+    "wm-id": 1350726,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107783812490343910/107784361931190211",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@rysiek\" class=\"u-url\">@<span>rysiek</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> <span class=\"h-card\"><a href=\"https://floss.social/@alcinnz\" class=\"u-url\">@<span>alcinnz</span></a></span> </p><p>I 101% agree with you about integration of blockchain in a messaging app. The same way that a frozen pizza box should not contain GPS tracker in the box or a kitchen knife doesn't need to have diamond coated blade. I can't agree more.</p><p>I was just pointing out that:</p><p>1. the list is very incomplete and </p><p>2. has false (or at least misleading) information</p>",
+      "text": "@rysiek @roytang @alcinnz I 101% agree with you about integration of blockchain in a messaging app. The same way that a frozen pizza box should not contain GPS tracker in the box or a kitchen knife doesn't need to have diamond coated blade. I can't agree more.I was just pointing out that:1. the list is very incomplete and 2. has false (or at least misleading) information"
+    },
+    "in-reply-to": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

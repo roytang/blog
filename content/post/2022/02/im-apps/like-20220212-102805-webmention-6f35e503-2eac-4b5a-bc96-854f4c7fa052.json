@@ -1,0 +1,28 @@
+{
+  "id": "6f35e503-2eac-4b5a-bc96-854f4c7fa052",
+  "name": "\ud835\udd8c\ud835\udd86\ud835\udd97\ud835\udd86\ud835\udd87\ud835\udd94\ud835\udd93\ud835\udd99\ud835\udd9f\ud835\udd8e\ud835\udd86\ud835\udd98\ud835\udd8d.",
+  "url": "https://mas.to/@adalbertsen",
+  "text": "[\ud835\udd8c\ud835\udd86\ud835\udd97\ud835\udd86\ud835\udd87\ud835\udd94\ud835\udd93\ud835\udd99\ud835\udd9f\ud835\udd8e\ud835\udd86\ud835\udd98\ud835\udd8d.](https://mas.to/@adalbertsen) [liked this](https://mastodon.technology/@roytang/107783812490343910#favorited-by-278099)",
+  "date": "2022-02-12 10:28:05",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/df0895d5c13fa4fafe390d949e80ac457a7a72eaec01c6bba03530262b532111.png",
+  "source_url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-278099",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "\ud835\udd8c\ud835\udd86\ud835\udd97\ud835\udd86\ud835\udd87\ud835\udd94\ud835\udd93\ud835\udd99\ud835\udd9f\ud835\udd8e\ud835\udd86\ud835\udd98\ud835\udd8d.",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/df0895d5c13fa4fafe390d949e80ac457a7a72eaec01c6bba03530262b532111.png",
+      "url": "https://mas.to/@adalbertsen"
+    },
+    "url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-278099",
+    "published": null,
+    "wm-received": "2022-02-12T10:28:05Z",
+    "wm-id": 1350735,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107783812490343910/278099",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

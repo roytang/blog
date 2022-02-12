@@ -1,0 +1,32 @@
+{
+  "id": "6b18aabc-e69f-46b6-a69e-1ee3678c8e36",
+  "name": "Rysiek\u00far Memesson",
+  "url": "https://mastodon.technology/@rysiek",
+  "text": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@Mehrad\" class=\"u-url\">@<span>Mehrad</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> <span class=\"h-card\"><a href=\"https://floss.social/@alcinnz\" class=\"u-url\">@<span>alcinnz</span></a></span> I have my very serious doubts about Session. Their use of blockchain seems unnecessary (as most uses of blockchain often are) for the goals specified, and apparently the org behind it is supposed to automagically receive some part of mined tokens or some such.</p><p>Smells of a scam to me, I will keep far away from it.</p><p>Your points on Matrix are well-taken, of course.</p>",
+  "date": "2022-02-12 09:34:38",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/398221e84b09a197a089b14d6e3ab7b13e2518217a295a49c9fcc2fd4606c7a8.jpg",
+  "source_url": "https://mastodon.technology/@rysiek/107784338031975951",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Rysiek\u00far Memesson",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/398221e84b09a197a089b14d6e3ab7b13e2518217a295a49c9fcc2fd4606c7a8.jpg",
+      "url": "https://mastodon.technology/@rysiek"
+    },
+    "url": "https://mastodon.technology/@rysiek/107784338031975951",
+    "published": "2022-02-12T09:34:38",
+    "wm-received": "2022-02-12T10:27:58Z",
+    "wm-id": 1350725,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107783812490343910/107784338031975951",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@Mehrad\" class=\"u-url\">@<span>Mehrad</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> <span class=\"h-card\"><a href=\"https://floss.social/@alcinnz\" class=\"u-url\">@<span>alcinnz</span></a></span> I have my very serious doubts about Session. Their use of blockchain seems unnecessary (as most uses of blockchain often are) for the goals specified, and apparently the org behind it is supposed to automagically receive some part of mined tokens or some such.</p><p>Smells of a scam to me, I will keep far away from it.</p><p>Your points on Matrix are well-taken, of course.</p>",
+      "text": "@Mehrad @roytang @alcinnz I have my very serious doubts about Session. Their use of blockchain seems unnecessary (as most uses of blockchain often are) for the goals specified, and apparently the org behind it is supposed to automagically receive some part of mined tokens or some such.Smells of a scam to me, I will keep far away from it.Your points on Matrix are well-taken, of course."
+    },
+    "in-reply-to": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

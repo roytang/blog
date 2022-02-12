@@ -1,0 +1,28 @@
+{
+  "id": "4ab64e38-9810-4970-8395-672087d5567f",
+  "name": "sankakujin",
+  "url": "https://social.ppmx.org/users/daniel",
+  "text": "[sankakujin](https://social.ppmx.org/users/daniel) [liked this](https://mastodon.technology/@roytang/107783812490343910#favorited-by-353544)",
+  "date": "2022-02-12 10:28:06",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/5c3759cfed8fff077e90345ea996d309e3c764881ee79ed34d04e56c7a468e77.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-353544",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "sankakujin",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/5c3759cfed8fff077e90345ea996d309e3c764881ee79ed34d04e56c7a468e77.jpg",
+      "url": "https://social.ppmx.org/users/daniel"
+    },
+    "url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-353544",
+    "published": null,
+    "wm-received": "2022-02-12T10:28:06Z",
+    "wm-id": 1350737,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107783812490343910/353544",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

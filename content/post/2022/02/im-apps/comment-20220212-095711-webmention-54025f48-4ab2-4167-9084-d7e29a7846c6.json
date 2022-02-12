@@ -1,0 +1,32 @@
+{
+  "id": "54025f48-4ab2-4167-9084-d7e29a7846c6",
+  "name": "Morten J.-J. Z\u00f6lde-Fej\u00e9r",
+  "url": "https://mstdn.io/@mjjzf",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> <span class=\"h-card\"><a href=\"https://chaos.social/@delta\" class=\"u-url\">@<span>delta</span></a></span> would come out well using the parameters in this listing.</p>",
+  "date": "2022-02-12 09:57:11",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/d485ec9a670a417c3c2a1ee09b9a9e01a22f956a4a5f608e53336d9b16aa2cda.png",
+  "source_url": "https://mstdn.io/@mjjzf/107784426722085167",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Morten J.-J. Z\u00f6lde-Fej\u00e9r",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/d485ec9a670a417c3c2a1ee09b9a9e01a22f956a4a5f608e53336d9b16aa2cda.png",
+      "url": "https://mstdn.io/@mjjzf"
+    },
+    "url": "https://mstdn.io/@mjjzf/107784426722085167",
+    "published": "2022-02-12T09:57:11",
+    "wm-received": "2022-02-12T10:28:02Z",
+    "wm-id": 1350731,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107783812490343910/107784426771446704",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> <span class=\"h-card\"><a href=\"https://chaos.social/@delta\" class=\"u-url\">@<span>delta</span></a></span> would come out well using the parameters in this listing.</p>",
+      "text": "@roytang @delta would come out well using the parameters in this listing."
+    },
+    "in-reply-to": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

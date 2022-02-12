@@ -1,0 +1,28 @@
+{
+  "id": "b814c9f1-8198-4e33-8c80-e73b242d5204",
+  "name": "Deekshith Allamaneni",
+  "url": "https://mastodon.technology/@dsoft",
+  "text": "[Deekshith Allamaneni](https://mastodon.technology/@dsoft) [liked this](https://mastodon.technology/@roytang/107783812490343910#favorited-by-386246)",
+  "date": "2022-02-12 10:28:01",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/a7bd212772b9d6d51351aa3161ab418233fafe20a0e055091b61956ddb7fd8b6.png",
+  "source_url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-386246",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Deekshith Allamaneni",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/a7bd212772b9d6d51351aa3161ab418233fafe20a0e055091b61956ddb7fd8b6.png",
+      "url": "https://mastodon.technology/@dsoft"
+    },
+    "url": "https://mastodon.technology/@roytang/107783812490343910#favorited-by-386246",
+    "published": null,
+    "wm-received": "2022-02-12T10:28:01Z",
+    "wm-id": 1350730,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107783812490343910/386246",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
