@@ -1,0 +1,32 @@
+{
+  "id": "f39db544-3775-48a7-aca9-90edfbd7b5c8",
+  "name": "Adrian Cochrane",
+  "url": "https://floss.social/@alcinnz",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> Reminding me of Sergey Yashanka...</p><p>I only heard this urban legend from a Magnus Archives episode building upon it, but the story goes that in 1983 during the first home computer revolution Sergey Yashanka was lethally sick &amp; terrified of dieing. So he attempted to upload his mind to his computer dying gruesumely doing so. Police found floppy disks filled with impossible code, which got reencoded, shared, &amp; faked by niche communities ever since.</p><p>1/2</p>\n<a class=\"u-mention\" href=\"https://qntm.org/mmacevedo\"></a>",
+  "date": "2022-02-11 16:37:51",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+  "source_url": "https://floss.social/@alcinnz/107780339922386722",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adrian Cochrane",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "url": "https://floss.social/@alcinnz"
+    },
+    "url": "https://floss.social/@alcinnz/107780339922386722",
+    "published": "2022-02-11T16:37:51",
+    "wm-received": "2022-02-11T19:10:24Z",
+    "wm-id": 1350302,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107780189237563781/107780339985453801",
+    "wm-target": "https://roytang.net/2022/02/7ed0777d44863e8b7c8959f4cf5092f3/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> Reminding me of Sergey Yashanka...</p><p>I only heard this urban legend from a Magnus Archives episode building upon it, but the story goes that in 1983 during the first home computer revolution Sergey Yashanka was lethally sick &amp; terrified of dieing. So he attempted to upload his mind to his computer dying gruesumely doing so. Police found floppy disks filled with impossible code, which got reencoded, shared, &amp; faked by niche communities ever since.</p><p>1/2</p>\n<a class=\"u-mention\" href=\"https://qntm.org/mmacevedo\"></a>",
+      "text": "@roytang Reminding me of Sergey Yashanka...I only heard this urban legend from a Magnus Archives episode building upon it, but the story goes that in 1983 during the first home computer revolution Sergey Yashanka was lethally sick & terrified of dieing. So he attempted to upload his mind to his computer dying gruesumely doing so. Police found floppy disks filled with impossible code, which got reencoded, shared, & faked by niche communities ever since.1/2"
+    },
+    "in-reply-to": "https://roytang.net/2022/02/7ed0777d44863e8b7c8959f4cf5092f3/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "09d7b2b4-4171-4e9f-ad61-6d616a8ab12d",
+  "name": "Adrian Cochrane",
+  "url": "https://floss.social/@alcinnz",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> The fakes (which I'd be surprised if they didn't exist, at least if this isn't part of Magnus Archives' fiction as opposed to others') are presented as chatbots that start out naturalistic but descends into madness with phrases like \"the angles cut me when I try to think\" &amp; a heavily-pixelated picture of a screaming face.</p><p>Sergey hated being digital, pure torture. Incompatible with the messy human mind.</p><p>2/2</p>\n<a class=\"u-mention\" href=\"https://qntm.org/mmacevedo\"></a>",
+  "date": "2022-02-11 16:45:39",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+  "source_url": "https://floss.social/@alcinnz/107780370547790104",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Adrian Cochrane",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/944aa923653f5cd8d1df482732e817c7edbc94569b80ad54455b86b4fd9ff4fd.png",
+      "url": "https://floss.social/@alcinnz"
+    },
+    "url": "https://floss.social/@alcinnz/107780370547790104",
+    "published": "2022-02-11T16:45:39",
+    "wm-received": "2022-02-11T19:09:56Z",
+    "wm-id": 1350299,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107780189237563781/107780370594009505",
+    "wm-target": "https://roytang.net/2022/02/7ed0777d44863e8b7c8959f4cf5092f3/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> The fakes (which I'd be surprised if they didn't exist, at least if this isn't part of Magnus Archives' fiction as opposed to others') are presented as chatbots that start out naturalistic but descends into madness with phrases like \"the angles cut me when I try to think\" &amp; a heavily-pixelated picture of a screaming face.</p><p>Sergey hated being digital, pure torture. Incompatible with the messy human mind.</p><p>2/2</p>\n<a class=\"u-mention\" href=\"https://qntm.org/mmacevedo\"></a>",
+      "text": "@roytang The fakes (which I'd be surprised if they didn't exist, at least if this isn't part of Magnus Archives' fiction as opposed to others') are presented as chatbots that start out naturalistic but descends into madness with phrases like \"the angles cut me when I try to think\" & a heavily-pixelated picture of a screaming face.Sergey hated being digital, pure torture. Incompatible with the messy human mind.2/2"
+    },
+    "in-reply-to": "https://roytang.net/2022/02/7ed0777d44863e8b7c8959f4cf5092f3/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
