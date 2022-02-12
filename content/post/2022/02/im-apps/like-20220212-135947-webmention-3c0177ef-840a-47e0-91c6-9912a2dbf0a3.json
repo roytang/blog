@@ -1,0 +1,28 @@
+{
+  "id": "3c0177ef-840a-47e0-91c6-9912a2dbf0a3",
+  "name": "Mika Mika",
+  "url": "https://twitter.com/mikabulatao",
+  "text": "[Mika Mika](https://twitter.com/mikabulatao) [liked this](https://twitter.com/roytang/status/1492398313869819904#favorited-by-45543417)",
+  "date": "2022-02-12 13:59:47",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/9b820db55541cb1ad0700e24a951860d7ee1fa4daf70646523b3563e87575571.jpg",
+  "source_url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-45543417",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mika Mika",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/9b820db55541cb1ad0700e24a951860d7ee1fa4daf70646523b3563e87575571.jpg",
+      "url": "https://twitter.com/mikabulatao"
+    },
+    "url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-45543417",
+    "published": null,
+    "wm-received": "2022-02-12T13:59:47Z",
+    "wm-id": 1350869,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1492398313869819904/45543417",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

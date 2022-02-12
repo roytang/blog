@@ -1,0 +1,28 @@
+{
+  "id": "2a295b30-ae43-41b7-956e-5a0d78998a53",
+  "name": "Emongsilog",
+  "url": "https://twitter.com/mukmukero",
+  "text": "[Emongsilog](https://twitter.com/mukmukero) [liked this](https://twitter.com/roytang/status/1492398313869819904#favorited-by-2385019225)",
+  "date": "2022-02-12 14:00:13",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/996f9f71a8feef52412be3027d8a17b5b64aa350d89f4462165652474e3a7a12.jpg",
+  "source_url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-2385019225",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Emongsilog",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/996f9f71a8feef52412be3027d8a17b5b64aa350d89f4462165652474e3a7a12.jpg",
+      "url": "https://twitter.com/mukmukero"
+    },
+    "url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-2385019225",
+    "published": null,
+    "wm-received": "2022-02-12T14:00:13Z",
+    "wm-id": 1350873,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1492398313869819904/2385019225",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

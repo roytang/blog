@@ -1,0 +1,28 @@
+{
+  "id": "2dbcf1fe-5fb3-4fd7-a002-d5b930ba6f56",
+  "name": "Ayato Abangers Affiliate",
+  "url": "https://twitter.com/chichar_eon",
+  "text": "[Ayato Abangers Affiliate](https://twitter.com/chichar_eon) [liked this](https://twitter.com/roytang/status/1492398313869819904#favorited-by-1225670802)",
+  "date": "2022-02-12 13:59:47",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/b127dc355db9a187ca99c7d629cf56e46f56442a801ff5cad130eeb6ae7787b6.jpg",
+  "source_url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-1225670802",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ayato Abangers Affiliate",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b127dc355db9a187ca99c7d629cf56e46f56442a801ff5cad130eeb6ae7787b6.jpg",
+      "url": "https://twitter.com/chichar_eon"
+    },
+    "url": "https://twitter.com/roytang/status/1492398313869819904#favorited-by-1225670802",
+    "published": null,
+    "wm-received": "2022-02-12T13:59:47Z",
+    "wm-id": 1350868,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1492398313869819904/1225670802",
+    "wm-target": "https://roytang.net/2022/02/im-apps/",
+    "like-of": "https://roytang.net/2022/02/im-apps/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
