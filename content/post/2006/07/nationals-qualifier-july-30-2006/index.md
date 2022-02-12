@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2006-07-30 07:18:00
+location: robinsons_galleria
 tags:
 - mtg
 title: Nationals Qualifier, July 30, 2006

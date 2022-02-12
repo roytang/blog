@@ -10,7 +10,8 @@ syndicated:
   url: https://instagram.com/p/5zxDOWMoB8/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153983452498912:0
-tags: []
+tags:
+- london2015
 ---
 
 Egg fried rice w chicken

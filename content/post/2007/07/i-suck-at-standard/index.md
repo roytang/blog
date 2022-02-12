@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-07-28 07:09:15
+location: robinsons_galleria
 tags:
 - mtg
 title: I Suck At Standard

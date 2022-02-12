@@ -8,5 +8,6 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/5wwd9QMoIp/
-tags: []
+tags:
+- london2015
 ---
