@@ -2,6 +2,7 @@
 author: Roy
 categories: []
 date: 2007-08-04 01:48:31
+location: hong_kong
 tags:
 - Travels
 - hong kong
