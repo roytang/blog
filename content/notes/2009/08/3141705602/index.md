@@ -20,8 +20,8 @@ syndicated:
 
 trying to download Windows 7 RC, but Microsoft's downloader ActiveX isn't cooperating
 
-[2009-08-05 01:27] @bry_bibat I forgot I had firefox. I only tried with IE and Chrome
+<time>[2009-08-05 01:27]</time> @bry_bibat I forgot I had firefox. I only tried with IE and Chrome
 
-[2009-08-05 07:46] will now attempt to install Windows 7 RC on the laptop. Hope it doesn't break!
+<time>[2009-08-05 07:46]</time> will now attempt to install Windows 7 RC on the laptop. Hope it doesn't break!
 
-[2009-08-05 10:28] upgrade complete! That took longer than I expected
+<time>[2009-08-05 10:28]</time> upgrade complete! That took longer than I expected

@@ -8,7 +8,12 @@ syndicated:
   url: https://pastebin.com/QZeKLKH3
 - type: twitter
   url: https://twitter.com/roytang/statuses/623440637505966080/
-tags: []
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/3frke5/rphilippines_what_do_you_think_of_this_antibinay/
+tags: 
+- philippines
+- politics
+- halalan2016
 ---
 
 Any friends here who are graphic designers and are anti-Binay? Just an idea: instead of just of sharing stuff on social media, how about someone designs an easy to print flyer with quick bullet points that are easy to understand why he should not be supported? Then any of us anti-Binay middle class folks can print a few copies and give them to drivers or vendors or whatever other common people we encounter, or leave them behind in buses or carinderias. The flyers can have English and Tagalog versions, and we can leave copies somewhere on the internet (the flyer itself can have the link) and also encourage other people to design and distribute their own flyers

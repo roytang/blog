@@ -10,7 +10,8 @@ syndicated:
   url: https://instagram.com/p/6CwykHMoHh/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153996215693912:0
-tags: []
+tags:
+- london2015
 ---
 
 Egg fried rice w duck

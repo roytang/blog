@@ -17,6 +17,7 @@ draft: true
 
 ### The World
 
+- PH: Campaign season has officially kicked off here, so last week was full of proclamation rallies and such.
 - Covid: Cases have continued to drop, furthering a descent into normalcy. Last few days have been averaging under 5k new cases per day, down from under 10k per day last week.  
 - Tech: Facebook/Meta [threaten to pull out of Europe](https://www.cnbc.com/2022/02/07/meta-threatens-to-shut-down-facebook-and-instagram-in-europe.html). Some EU politcians were like ["Haha sure go ahead"](https://appleinsider.com/articles/22/02/07/eu-lawmakers-unfazed-by-metas-threat-that-it-would-pull-out-of-europe).
   
@@ -29,12 +30,10 @@ draft: true
 
 Visit the [Links page](/links/) for more links of interest. I still have so many saved longreads to get through!
 
-### On This Day
-
-
 ### My Stuff
 
 - a couple of days ago I had a miserable time spent arguing with customer service about some billing thing. Can't write about it in detail yet because it's not yet resolved. Needing to talk to any kind of customer service is always a pain though.
+- I still get a bit annoyed whenever I see threads on social media about people being dumb/misinformed over politics. Sometimes [I am compelled to respond](/2022/02/1492444974561914882/).
 - On the blog: Other than the media reviews, I wrote [a ranty thing about URLs](/2022/02/urls/) and [some thoughts about Instant Messaging apps](/2022/02/im-apps/). That last one got a good number of likes/shares for some reason.
 
 - **Gaming**:
@@ -55,3 +54,4 @@ Visit the [Links page](/links/) for more links of interest. I still have so many
 
 ### This coming week:
 
+There's this project I've been meaning to get back into, hopefully I can kick it into gear this week. Also some improvements to the site backend (refactoring etc) that have been pending for a while!
