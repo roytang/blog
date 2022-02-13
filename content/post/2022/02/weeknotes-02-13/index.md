@@ -42,7 +42,7 @@ Visit the [Links page](/links/) for more links of interest. I still have so many
 - **Watching**:
     - No movies watched this week. I did [write about Spider-Man: No Way Home](/2022/02/spider-man-no-way-home/) though.
     - **TV:** 
-        - I did watch a bunch of TV this week though! I finished [the Witcher season 2, The Book of Boba Fett, and Murderville](https://roytang.net/2022/02/tv-bobafett-witcher2-murderville/). I've also started watching Peacemaker, but I think the season still has a few episodes left.
+        - I did watch a bunch of TV this week though! I finished [the Witcher season 2, The Book of Boba Fett, and Murderville](/2022/02/tv-bobafett-witcher2-murderville/). I've also started watching Peacemaker, but I think the season still has a few episodes left.
         - Behind: **Legends of Tomorrow**, **Young Justice**, **Superman and Lois**, **NCIS**, **Peacemaker**, **Star Trek Discovery**
         - Yet to start: **Cobra Kai season 4**
 - **Reading**: Still reading **Meditations by Marcus Aurelius** (with intro by Gregory Hays). I think I can finish it this week.
