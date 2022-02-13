@@ -1,14 +1,10 @@
 ---
 date: 2022-02-13T11:26:59+08:00
-# featuredResource:
-#   filename: leni2.jpg
-#   photo: /2022/02/final-sketchdaily/
 tags:
 - weeknotes
 - philippines
 - covid19
 title: Weeknotes 2022-02-13
-draft: true
 ---
 
 ### A Quote
