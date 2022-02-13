@@ -8,8 +8,6 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1492445316875837446/
 - type: twitter
-  url: https://twitter.com/roytang/status/1492446160983773186/
-- type: twitter
   url: https://twitter.com/roytang/status/1492447180174479362/
 ---
 
@@ -24,7 +22,5 @@ In today's episode: "Hindi lahat ng facts ay totoo."
 {{< photos 1492444974561914882 >}}
 
 <time>[18:27]</time> Of course, this means that we too must be willing to chase down the truth - show an openness to changing your own mind about the "facts" if evidence can be shown otherwise. If we believe in our candidate, the truth is not an obstacle.
-
-<time>[18:31]</time> Of course, this means that we too must be willing to chase down the truth - show an openness to changing your own mind about the "facts" if evidence can be shown otherwise. If you believe in your candidate, the truth is not an obstacle.
 
 <time>[18:35]</time> (I would also prefer more positive messages about the elections in my feed rather than posts about people being idiots, it's bad for our collective faith in humanity. And possibly a waste of time...)
