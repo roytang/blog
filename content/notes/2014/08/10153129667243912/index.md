@@ -9,4 +9,4 @@ tags: []
 
 I'm in cubao and traffic is terrible and iy's impossible to get a taxi. I have a terrible plan
 
-[10:10] Araneta center to robinson's galleria by foot = 45-50 mins
+<time>[10:10]</time> Araneta center to robinson's galleria by foot = 45-50 mins

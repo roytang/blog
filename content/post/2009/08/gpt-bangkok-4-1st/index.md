@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2009-08-03 13:54:33
+location: robinsons_galleria
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/3105223995/

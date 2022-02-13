@@ -10,6 +10,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1156969565206618112/
+tags:
+- switchfollows
 ---
 
 [@switchfollows](https://twitter.com/switchfollows/) ive never heard of this channel lol

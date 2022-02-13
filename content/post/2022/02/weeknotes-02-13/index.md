@@ -1,8 +1,8 @@
 ---
 date: 2022-02-13T11:26:59+08:00
-featuredResource:
-  filename: leni2.jpg
-  photo: /2022/02/final-sketchdaily/
+# featuredResource:
+#   filename: leni2.jpg
+#   photo: /2022/02/final-sketchdaily/
 tags:
 - weeknotes
 - philippines
@@ -13,7 +13,7 @@ draft: true
 
 ### A Quote
 
-
+> "If the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem. But I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.” - E.B. White
 
 ### The World
 
