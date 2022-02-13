@@ -1,5 +1,10 @@
 ---
-date: 2022-02-13T11:26:59+08:00
+date: 2022-02-13 03:26:59
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107790035384250416
+- type: twitter
+  url: https://twitter.com/roytang/status/1492796576334753794/
 tags:
 - weeknotes
 - philippines
