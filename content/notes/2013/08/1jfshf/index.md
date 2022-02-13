@@ -4,6 +4,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/vita/comments/1jfshf/help_vita_charger_not_working/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/362649632003731457/
 tags:
 - vita
 - reddit_submission

@@ -8,7 +8,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/51lRWOsoOE/
-tags: []
+tags:
+- london2015
 ---
 
 Brunch at random italian place

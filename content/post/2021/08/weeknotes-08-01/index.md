@@ -1,6 +1,7 @@
 ---
 date: 2021-08-01 06:04:54
-featuredImage: /media/content/photos/2021/07/1419372790331805698/1_1419372790331805698_E7KgAVnVcAEElis.jpg
+featuredResource:
+  photo: /2021/07/1419372790331805698/
 reviews:
 - media: tv
   title: The Movies That Made Us season 2

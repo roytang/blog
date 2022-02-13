@@ -15,3 +15,5 @@ syndicated:
   url: https://twitter.com/roytang/status/1492157837610725376/
 title: Today, the distant future
 ---
+
+Jeremy Keith reminisces about how 2022 used to feel so far away in the early days of web standards
