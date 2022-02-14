@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/6x9qdbpsn2k
 - type: foursquare
   url: https://www.swarmapp.com/c/6x9qdbpsn2k
+tags:
+- london2015
 ---
 
 I'm at Victory Park https://www.swarmapp.com/c/6x9qdbpsn2k

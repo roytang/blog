@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-08-07 18:04:39
+location: robinsons_galleria
 tags:
 - mtg
 title: Eventide Release Party

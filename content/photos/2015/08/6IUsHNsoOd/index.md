@@ -9,7 +9,8 @@ syndicated:
   url: https://instagram.com/p/6IUsHNsoOd/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153999491233912:2
-tags: []
+tags:
+- london2015
 ---
 
 Been seeing this for 3 weeks, still not sure what it's supposed to be

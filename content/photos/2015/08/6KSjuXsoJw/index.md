@@ -12,6 +12,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154003060963912:1
 tags:
 - birthdaylunch
+- london2015
 ---
 
 #birthdaylunch

@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155932158353912
 tags:
 - quotes
+- gameofthrones
 ---
 
 Chaos is a ladder

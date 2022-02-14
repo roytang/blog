@@ -10,7 +10,8 @@ syndicated:
   url: https://instagram.com/p/6HJxj2MoB7/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153999491233912:1
-tags: []
+tags:
+- london2015
 ---
 
 The bacon looks better on the second try. Maybe I should learn to scramble eggs next

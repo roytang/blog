@@ -1,5 +1,5 @@
 ---
-date: 2012-08-09 14:55:47+00:00
+date: 2012-08-09 14:55:47
 source: twitter
 syndicated:
 - type: twitter
