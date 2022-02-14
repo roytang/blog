@@ -16,4 +16,4 @@ tags:
 
 I'm at Quantum Cafe (Makati) http://4sq.com/S7anvh
 
-[23:16] Camote 2nd place at geekfight halftime 
+<time>[23:16]</time> Camote 2nd place at geekfight halftime 
