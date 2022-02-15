@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-08-11 07:55:49
+location: robinsons_galleria
 tags:
 - mtg
 title: 2008 Philippine Open Block *Top 16*

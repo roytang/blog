@@ -12,6 +12,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154009452838912:0
 tags:
 - food
+- london2015
 ---
 
 Rigatoni carbonara

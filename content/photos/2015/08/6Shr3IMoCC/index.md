@@ -7,7 +7,8 @@ source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/6Shr3IMoCC/
-tags: []
+tags:
+- london2015
 ---
 
 I'm trapped in a mirror maze!
