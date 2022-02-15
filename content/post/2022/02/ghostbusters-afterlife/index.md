@@ -4,6 +4,11 @@ reviews:
 - description: A worthy successor, full of heart and nostalgia.
   media: movies
   title: Ghostbusters Afterlife (2021)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107797477482690455
+- type: twitter
+  url: https://twitter.com/roytang/status/1493272879425015808/
 tags:
 - movies
 title: Ghostbusters Afterlife (2021)
