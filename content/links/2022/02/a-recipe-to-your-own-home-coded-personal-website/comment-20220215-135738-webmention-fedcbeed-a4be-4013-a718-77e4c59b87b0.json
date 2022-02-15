@@ -1,0 +1,32 @@
+{
+  "id": "fedcbeed-a4be-4013-a718-77e4c59b87b0",
+  "name": "Ryuno-Ki",
+  "url": "https://layer8.space/@RyunoKi",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span><br />If you're happy with your design, submit it to <a href=\"https://whimsical.club/\"><span>https://</span><span>whimsical.club/</span><span></span></a> :-)</p><p>(I can vouch for you if you need social proof)</p>\n<a class=\"u-mention\" href=\"https://yesterweb.org/zine/issue-02/02/\"></a>\n<a href=\"https://whimsical.club/\">The Whimsical Web</a>",
+  "date": "2022-02-15 13:57:38",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/26dacb234de95e11102acdc9db28142662f350d6cfc7b1fc671b2e07affe2173.jpg",
+  "source_url": "https://layer8.space/@RyunoKi/107802359113600469",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryuno-Ki",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/26dacb234de95e11102acdc9db28142662f350d6cfc7b1fc671b2e07affe2173.jpg",
+      "url": "https://layer8.space/@RyunoKi"
+    },
+    "url": "https://layer8.space/@RyunoKi/107802359113600469",
+    "published": "2022-02-15T13:57:38",
+    "wm-received": "2022-02-15T18:41:17Z",
+    "wm-id": 1352109,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107802232545174722/107802359156955518",
+    "wm-target": "https://roytang.net/2022/02/a-recipe-to-your-own-home-coded-personal-website/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span><br />If you're happy with your design, submit it to <a href=\"https://whimsical.club/\"><span>https://</span><span>whimsical.club/</span><span></span></a> :-)</p><p>(I can vouch for you if you need social proof)</p>\n<a class=\"u-mention\" href=\"https://yesterweb.org/zine/issue-02/02/\"></a>\n<a href=\"https://whimsical.club/\">The Whimsical Web</a>",
+      "text": "@roytang\nIf you're happy with your design, submit it to https://whimsical.club/ :-)(I can vouch for you if you need social proof)\n\nThe Whimsical Web"
+    },
+    "in-reply-to": "https://roytang.net/2022/02/a-recipe-to-your-own-home-coded-personal-website/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

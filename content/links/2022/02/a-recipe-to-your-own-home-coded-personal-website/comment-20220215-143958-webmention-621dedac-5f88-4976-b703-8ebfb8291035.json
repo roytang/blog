@@ -1,0 +1,32 @@
+{
+  "id": "621dedac-5f88-4976-b703-8ebfb8291035",
+  "name": "Ryuno-Ki",
+  "url": "https://layer8.space/@RyunoKi",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span><br />Pardon?</p><p>I meant: if you feel confident enough to get more eyeballs on your page, you can submit an URL to whimsical.club and ask for getting it listed there.</p><p>It's a curated list of websites that aim for unique designs that speak of one's personality.</p><p>So in line with what you wrote about in the zine.</p>\n<a class=\"u-mention\" href=\"https://yesterweb.org/zine/issue-02/02/\"></a>",
+  "date": "2022-02-15 14:39:58",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/26dacb234de95e11102acdc9db28142662f350d6cfc7b1fc671b2e07affe2173.jpg",
+  "source_url": "https://layer8.space/@RyunoKi/107802525622133784",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryuno-Ki",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/26dacb234de95e11102acdc9db28142662f350d6cfc7b1fc671b2e07affe2173.jpg",
+      "url": "https://layer8.space/@RyunoKi"
+    },
+    "url": "https://layer8.space/@RyunoKi/107802525622133784",
+    "published": "2022-02-15T14:39:58",
+    "wm-received": "2022-02-15T18:41:18Z",
+    "wm-id": 1352110,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107802232545174722/107802525654741352",
+    "wm-target": "https://roytang.net/2022/02/a-recipe-to-your-own-home-coded-personal-website/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span><br />Pardon?</p><p>I meant: if you feel confident enough to get more eyeballs on your page, you can submit an URL to whimsical.club and ask for getting it listed there.</p><p>It's a curated list of websites that aim for unique designs that speak of one's personality.</p><p>So in line with what you wrote about in the zine.</p>\n<a class=\"u-mention\" href=\"https://yesterweb.org/zine/issue-02/02/\"></a>",
+      "text": "@roytang\nPardon?I meant: if you feel confident enough to get more eyeballs on your page, you can submit an URL to whimsical.club and ask for getting it listed there.It's a curated list of websites that aim for unique designs that speak of one's personality.So in line with what you wrote about in the zine."
+    },
+    "in-reply-to": "https://roytang.net/2022/02/a-recipe-to-your-own-home-coded-personal-website/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "92898e35-2964-48d0-acec-0e0146584cc9",
+  "name": "Roy Tang",
+  "url": "https://mastodon.technology/@roytang",
+  "text": "<p><span class=\"h-card\"><a href=\"https://layer8.space/@RyunoKi\" class=\"u-url\">@<span>RyunoKi</span></a></span> my what now?</p>\n<a class=\"u-mention\" href=\"https://yesterweb.org/zine/issue-02/02/\"></a>",
+  "date": "2022-02-15 14:22:52",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6ff5726f9a6dfeb42b12211a9ffdfa71a8c0197fc8fb9764f6759cf902ec6e9c.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107802458341797193",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roy Tang",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6ff5726f9a6dfeb42b12211a9ffdfa71a8c0197fc8fb9764f6759cf902ec6e9c.jpg",
+      "url": "https://mastodon.technology/@roytang"
+    },
+    "url": "https://mastodon.technology/@roytang/107802458341797193",
+    "published": "2022-02-15T14:22:52",
+    "wm-received": "2022-02-15T18:40:49Z",
+    "wm-id": 1352105,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107802232545174722/107802458341797193",
+    "wm-target": "https://roytang.net/2022/02/a-recipe-to-your-own-home-coded-personal-website/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://layer8.space/@RyunoKi\" class=\"u-url\">@<span>RyunoKi</span></a></span> my what now?</p>\n<a class=\"u-mention\" href=\"https://yesterweb.org/zine/issue-02/02/\"></a>",
+      "text": "@RyunoKi my what now?"
+    },
+    "in-reply-to": "https://roytang.net/2022/02/a-recipe-to-your-own-home-coded-personal-website/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
