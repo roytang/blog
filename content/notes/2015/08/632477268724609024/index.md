@@ -25,16 +25,16 @@ tags:
 
 Rd 1 0-2 loss vs abzan (mull to 6 and mull to 5) #GPLondon
 
-[18:23] Rd 2-0 win vs rg monsters (mull to 6 g1) #GPLondon
+<time>[18:23]</time> Rd 2-0 win vs rg monsters (mull to 6 g1) #GPLondon
 
-[20:09] R3 2-1 vs abzan control (almost went to time) #gplondo
+<time>[20:09]</time> R3 2-1 vs abzan control (almost went to time) #gplondo
 
-[21:05] R4 2-1 win vs abzan megamorph (mull6 in g2) 3-1 overall #GPLondon
+<time>[21:05]</time> R4 2-1 win vs abzan megamorph (mull6 in g2) 3-1 overall #GPLondon
 
-[22:16] R5 0-2 vs abzan megamorph 3-2 overall on the bubble again =/ #GPLondon
+<time>[22:16]</time> R5 0-2 vs abzan megamorph 3-2 overall on the bubble again =/ #GPLondon
 
-[22:43] LOSS WIN WIN WIN LOSS CRIPPLING SELF-DOUBT #GPLondon #fb
+<time>[22:43]</time> LOSS WIN WIN WIN LOSS CRIPPLING SELF-DOUBT #GPLondon #fb
 
-[23:31] R6 0-2 loss vs temur dragons in close games. And I'm out :( #gplondon
+<time>[23:31]</time> R6 0-2 loss vs temur dragons in close games. And I'm out :( #gplondon
 
-[23:33] I'm out of #gplondon at 3-3. Sigh, too rusty and too many bad plays. Performance getting worse at each succeeding gp!
+<time>[23:33]</time> I'm out of #gplondon at 3-3. Sigh, too rusty and too many bad plays. Performance getting worse at each succeeding gp!
