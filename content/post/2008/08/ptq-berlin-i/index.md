@@ -1,12 +1,13 @@
 ---
 categories: []
 date: 2008-08-16 21:03:50
+dontinlinephotos: true
+location: robinsons_galleria
 tags:
 - mtg
 title: PTQ Berlin I
 type: post
 url: /2008/08/ptq-berlin-i/
-dontinlinephotos: true
 ---
 
 The tournament was last Saturday, Aug 16 at Robinson's Galleria. I played the same deck as [last week][1], except I had the following sideboard:

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/632674847592697856/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154019928233912
+tags:
+- london2015
 ---
 
 The more I use my backpack, the more pockets I find

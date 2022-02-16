@@ -12,6 +12,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154021413653912:0
 tags:
 - food
+- london2015
 ---
 
 Chicken katsu curry
