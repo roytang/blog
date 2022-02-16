@@ -10,7 +10,8 @@ syndicated:
   url: https://instagram.com/p/6p-g7uMoAf/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154032827863912:0
-tags: []
+tags:
+- london2015
 ---
 
 Friday night pizza

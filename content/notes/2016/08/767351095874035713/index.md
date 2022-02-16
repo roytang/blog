@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767351095874035713/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154840229883912
 tags:
 - NinoyDiKaNagIisa
 title: ''

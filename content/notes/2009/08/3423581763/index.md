@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3423581763/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/140551031624
+tags:
+- bangkok2009
+- trips
 ---
 
 flying out to bangkok tonight; ngayon lang ako makakapunta sa ibang time zone!

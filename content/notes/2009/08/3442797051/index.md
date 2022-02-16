@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3442797051/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/127978996582
+tags:
+- bangkok2009
+- trips
 ---
 
 Arrived safely. Unfortunately, there was no free wifi, either at the hotel or the venue =/ Mahirap magupdate =(
