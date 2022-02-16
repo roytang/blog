@@ -36,6 +36,8 @@ Tiny Stay-Pufts! I had seen these in the trailer but only remembered when they a
 
 Spengler drifting apart from the team and all of them showing up near the end to lend a hand and finally reconcile and say goodbye to Egon reminded me so much of how Ramis and Murray had been feuding for years before finally burying the hatchet at Ramis' deathbed. A fitting tribute to a departed friend.
 
+That scene with Ghost Egon showing up to help Phoebe reminded me so much of a moment in Dragonball.
+
 {{< /spoiler >}}
 
 Really happy to have finally seen it; if I had the chance to watch it in the theater I may very well have been clapping at the end.
