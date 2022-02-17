@@ -23,6 +23,6 @@ tags:
 
 Someone cast Pacifism on my Balloon Brigade. Then I cast Pacifism on his Squadron Hawk. Mine was less awkward, so I won. #m11 #draft
 
-[12:35] I played Act of Treason on my opponent's Yavimaya Wurm for just enough damage to win. Apparently, "that was gay" #m11 #draft
+<time>[12:35]</time> I played Act of Treason on my opponent's Yavimaya Wurm for just enough damage to win. Apparently, "that was gay" #m11 #draft
 
-[12:51] Nothing quite like losing a match because you played Act of Treason on an opponent's Primeval Titan then failed to attack with it. =/
+<time>[12:51]</time> Nothing quite like losing a match because you played Act of Treason on an opponent's Primeval Titan then failed to attack with it. =/

@@ -16,6 +16,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155371290823912:1
 tags:
 - sketchdaily
+- spider-gwen
 ---
 
 Spider-Gwen #sketchdaily

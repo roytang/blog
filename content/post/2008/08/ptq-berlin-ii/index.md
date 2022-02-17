@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-08-23 17:35:11
+location: robinsons_galleria
 tags:
 - mtg
 title: PTQ Berlin II

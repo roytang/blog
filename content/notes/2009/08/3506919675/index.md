@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3506919675/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/122550142653
+tags:
+- bangkok2009
+- trips
 ---
 
 It is your moral responsibility to install Firefox or Chrome on strange internet cafe workstations that only have IE.

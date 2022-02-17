@@ -14,6 +14,8 @@ syndicated:
 tags:
 - mtg
 - gpbangkok
+- bangkok2009
+- trips
 ---
 
 #mtg #gpbangkok Yes, I performed poorly. Overall record was 3-8 including side events. =/
