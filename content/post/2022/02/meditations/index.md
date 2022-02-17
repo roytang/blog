@@ -1,12 +1,17 @@
 ---
-title: "Meditations by Marcus Aurelius (intro by Gregory Hays)"
-date: 2022-02-17T23:10:44+08:00
-tags:
-- books
-- philosophy
+date: 2022-02-17 15:10:44
 reviews:
 - media: books
   title: Meditations by Marcus Aurelius (intro by Gregory Hays)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107814270039294434
+- type: twitter
+  url: https://twitter.com/roytang/status/1494347594415624192/
+tags:
+- books
+- philosophy
+title: Meditations by Marcus Aurelius (intro by Gregory Hays)
 ---
 
 Finished reading this recently. It's a collection of "notes to self" written by the Roman emperor Marcus Aurelius (ca. 161-180), known for being a Stoic philosopher. 
@@ -51,4 +56,4 @@ Book 7
 
 Book 12
 
-> that to expect a bad person not to harm others is like expecting fig trees not to secrete juice, babies not to cry, horses not to neigh—the inevitable not to happen. 
+> that to expect a bad person not to harm others is like expecting fig trees not to secrete juice, babies not to cry, horses not to neigh—the inevitable not to happen.
