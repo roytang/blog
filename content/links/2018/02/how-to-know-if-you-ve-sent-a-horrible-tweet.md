@@ -8,4 +8,7 @@ link:
 slug: how-to-know-if-you-ve-sent-a-horrible-tweet
 source: pocket
 title: How to Know If You've Sent a Horrible Tweet
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/965164317279703040/
 ---

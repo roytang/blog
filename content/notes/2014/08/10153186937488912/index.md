@@ -7,4 +7,6 @@ syndicated:
 tags: []
 ---
 
-"Ang stupid ng Tokyo Tokyo. It's like if there was a resto called Manila Manila." "Hey, that's a good idea! We should start that restaurant. When we give the check it will be inside a Manila envelope. The menu will be written on Manila paper. Pero Tokyo Tokyo din yung food."
+"Ang stupid ng Tokyo Tokyo. It's like if there was a resto called Manila Manila." 
+
+"Hey, that's a good idea! We should start that restaurant. When we give the check it will be inside a Manila envelope. The menu will be written on Manila paper. Pero Tokyo Tokyo din yung food."
