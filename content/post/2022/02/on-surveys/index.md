@@ -1,10 +1,15 @@
 ---
-title: "On Surveys"
-date: 2022-02-19T12:36:51+08:00
+date: 2022-02-19 04:36:51
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107823016551794096
+- type: twitter
+  url: https://twitter.com/roytang/status/1494907374548951040/
 tags:
 - surveys
 - philippines
-dontinlinephotos: true
+title: On Surveys
 ---
 
 The campaign season is officially in full swing here in the Philippines, and so is one of the mainstays of our electorcal circus: surveys.
