@@ -1,7 +1,6 @@
 ---
 title: "On Surveys"
 date: 2022-02-19T12:36:51+08:00
-draft: true
 tags:
 - surveys
 - philippines
