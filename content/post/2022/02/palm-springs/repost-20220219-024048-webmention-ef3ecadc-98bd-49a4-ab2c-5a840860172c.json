@@ -1,0 +1,28 @@
+{
+  "id": "ef3ecadc-98bd-49a4-ab2c-5a840860172c",
+  "name": "gregwtmtno",
+  "url": "https://mastodon.technology/@gregwtmtno",
+  "text": "[gregwtmtno](https://mastodon.technology/@gregwtmtno) [shared this](https://mastodon.technology/@roytang/107820143450643120#reblogged-by-113630)",
+  "date": "2022-02-19 02:40:48",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/1023095c19bc3ebc7bc39592d61bde82c9af0a1745cd96353900bc26b40a005c.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107820143450643120#reblogged-by-113630",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "gregwtmtno",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/1023095c19bc3ebc7bc39592d61bde82c9af0a1745cd96353900bc26b40a005c.jpg",
+      "url": "https://mastodon.technology/@gregwtmtno"
+    },
+    "url": "https://mastodon.technology/@roytang/107820143450643120#reblogged-by-113630",
+    "published": null,
+    "wm-received": "2022-02-19T02:40:48Z",
+    "wm-id": 1353355,
+    "wm-source": "https://brid.gy/repost/mastodon/@roytang@mastodon.technology/107820143450643120/113630",
+    "wm-target": "https://roytang.net/2022/02/palm-springs/",
+    "repost-of": "https://roytang.net/2022/02/palm-springs/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
