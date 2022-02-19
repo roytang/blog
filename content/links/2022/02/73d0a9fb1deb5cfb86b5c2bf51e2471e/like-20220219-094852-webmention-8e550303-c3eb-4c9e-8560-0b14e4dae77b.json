@@ -1,0 +1,28 @@
+{
+  "id": "8e550303-c3eb-4c9e-8560-0b14e4dae77b",
+  "name": "Bazza",
+  "url": "https://mograph.social/@bazza",
+  "text": "[Bazza](https://mograph.social/@bazza) [liked this](https://mastodon.technology/@roytang/107823432817041057#favorited-by-264533)",
+  "date": "2022-02-19 09:48:52",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/b9c11f0a62959cb2c2f609a58821c5dcb33647edf928f5f478dc9c5abdfba225.gif",
+  "source_url": "https://mastodon.technology/@roytang/107823432817041057#favorited-by-264533",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Bazza",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/b9c11f0a62959cb2c2f609a58821c5dcb33647edf928f5f478dc9c5abdfba225.gif",
+      "url": "https://mograph.social/@bazza"
+    },
+    "url": "https://mastodon.technology/@roytang/107823432817041057#favorited-by-264533",
+    "published": null,
+    "wm-received": "2022-02-19T09:48:52Z",
+    "wm-id": 1353419,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107823432817041057/264533",
+    "wm-target": "https://roytang.net/2022/02/73d0a9fb1deb5cfb86b5c2bf51e2471e/",
+    "like-of": "https://roytang.net/2022/02/73d0a9fb1deb5cfb86b5c2bf51e2471e/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
