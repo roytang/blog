@@ -17,4 +17,4 @@ location: 4b85fc23f964a5209b7c31e3
 
 I'm at McDonald's (Pasig City, Metro Manila) http://4sq.com/15pSbTx
 
-[22:30] Ugh why is mcdo chicken so bad? Should have ignored the cooldown and gone to jollibee/kfc instead
+<time>[22:30]</time> Ugh why is mcdo chicken so bad? Should have ignored the cooldown and gone to jollibee/kfc instead

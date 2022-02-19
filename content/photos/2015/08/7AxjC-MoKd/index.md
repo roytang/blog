@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154049917003912:2
 tags:
 - tourist
+- london2015
 ---
 
 Passed by the Science Museum as well. Feels like a mad scientist lab #tourist

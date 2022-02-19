@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154049917003912:1
 tags:
 - tourist
+- london2015
 ---
 
 Natural history museum #tourist

@@ -18,4 +18,4 @@ syndicated:
 
 For many of us our paths are chosen by accident or circumstance so that when it comes time to chart our own destiny we feel lost.
 
-[09:49] Or maybe it's just me.
+<time>[09:49]</time> Or maybe it's just me.

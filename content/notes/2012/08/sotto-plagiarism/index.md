@@ -16,6 +16,6 @@ tags:
 
 Plagiarism may not be a crime in the Philippines, but neither is "cyber-bullying". Just because it isn't illegal doesn't make it right.
 
-[20:53] People need to stop taking Sotto seriously. Don't expect him to engage you with rational discourse despite being a Senator. He is who he is.
+<time>[20:53]</time> People need to stop taking Sotto seriously. Don't expect him to engage you with rational discourse despite being a Senator. He is who he is.
 
-[20:54] Plagiarism is an intellectual/academic issue, not appreciated by the masses - that's his audience, not any of us on Twitter or Facebook.
+<time>[20:54]</time> Plagiarism is an intellectual/academic issue, not appreciated by the masses - that's his audience, not any of us on Twitter or Facebook.
