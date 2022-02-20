@@ -1,5 +1,10 @@
 ---
-date: 2022-02-20T13:47:06+08:00
+date: 2022-02-20 05:47:06
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107830322428074241
+- type: twitter
+  url: https://twitter.com/roytang/status/1495374949179027461/
 tags:
 - weeknotes
 - philippines
@@ -55,4 +60,4 @@ Visit the [Links page](/links/) for more links of interest. I still have so many
 ### This coming week:
 
 - Magic Arena Limited Open next weekend!
-- This coming week is the 35th anniversary of the 1986 EDSA Revolution that ousted the dictator Marcos. 
+- This coming week is the 35th anniversary of the 1986 EDSA Revolution that ousted the dictator Marcos.
