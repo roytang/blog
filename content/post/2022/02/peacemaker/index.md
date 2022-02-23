@@ -1,13 +1,18 @@
 ---
-title: "Peacemaker"
-date: 2022-02-23T14:50:26+08:00
+date: 2022-02-23 06:50:26
+reviews:
+- description: ''
+  media: tv
+  title: Peacemaker season 1
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107846045424919783
+- type: twitter
+  url: https://twitter.com/roytang/status/1496381232112091141/
 tags:
 - comicbooks
 - tv
-reviews:
-- media: tv
-  title: Peacemaker season 1
-  description: ""
+title: Peacemaker
 ---
 
 Finished watching Peacemaker last week. This is the HBO Max spinoff series starring John Cena's character from [The Suicide Squad (2021)](/2021/08/the-suicide-squad/). It's a wild, witty, irreverent, violent and totally-not-for-kids ride. James Gunn once again has managed to take an obscure comic book character and wring a good amount of story out of him.

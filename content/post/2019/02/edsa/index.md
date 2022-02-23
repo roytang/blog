@@ -8,6 +8,7 @@ syndicated:
 tags:
 - current events
 - Philippines
+- edsa
 title: EDSA
 type: post
 ---
