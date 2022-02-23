@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1232103048614498304/
 tags:
 - philippines
+- edsa
 title: A Different Kind of Revolution
 ---
 

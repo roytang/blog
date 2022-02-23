@@ -4,6 +4,7 @@ categories: []
 date: 2008-02-25 06:39:23
 tags:
 - Philippines
+- edsa
 title: My Thoughts On EDSA
 type: post
 url: /2008/02/my-thoughts-on-edsa/
