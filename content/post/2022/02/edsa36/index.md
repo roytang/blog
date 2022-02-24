@@ -1,11 +1,16 @@
 ---
-title: "EDSA and Historical Revisionism"
-date: 2022-02-24T12:00:00+08:00
+date: 2022-02-24 04:00:00
+subtitle: '#edsa36'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107851189145069603
+- type: twitter
+  url: https://twitter.com/roytang/status/1496710421101047812/
 tags:
 - philippines
 - politics
 - edsa
-subtitle: "#edsa36"
+title: EDSA and Historical Revisionism
 ---
 
 This week marks the 36th anniversary of the 1986 EDSA revolution, the nonviolent series of protests that unseated the dictator Ferdinand Marcos. Marcos had the nation under an iron grip since he declared Martial Law in 1972 and used that time to plunder the countries resources and bend the institutions to his will. Numerous atrocities, abuses of power and human rights violations were documented during this period, and to this day, government agencies estimate there are still billions more in ill-gotten wealth yet to be recovered.
