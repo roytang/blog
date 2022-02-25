@@ -6,6 +6,8 @@ reviews:
   rating: 0.0
   title: Sum of All Fears (2002)
 source: form
+tags:
+- movies
 title: Sum of All Fears (2002)
 ---
 
