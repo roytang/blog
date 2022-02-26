@@ -9,7 +9,8 @@ syndicated:
   url: https://instagram.com/p/7NkCqrsoDV/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154060676568912:1
-tags: []
+tags:
+- london2015
 ---
 
 Kids playing around just outside the flat

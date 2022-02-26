@@ -8,4 +8,8 @@ tags:
 - lyrics
 ---
 
-Wake up the dawn and ask her why A dreamer dreams she never dies Wipe that tear away now from your eye
+Wake up the dawn and ask her why 
+
+A dreamer dreams she never dies 
+
+Wipe that tear away now from your eye
