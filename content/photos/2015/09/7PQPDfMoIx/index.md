@@ -10,7 +10,8 @@ syndicated:
   url: https://instagram.com/p/7PQPDfMoIx/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154063536453912:0
-tags: []
+tags:
+- london2015
 ---
 
 Breakfast of champions

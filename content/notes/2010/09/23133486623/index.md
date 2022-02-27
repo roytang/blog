@@ -8,6 +8,8 @@ syndicated:
   url: https://plurk.com/p/7efu10
 tags:
 - mtg
+- mtgsom
+- mtgpreviews
 ---
 
 After the weekend previews, today's Scars previews seem so tame.
