@@ -4,7 +4,7 @@ link:
   source: web
   source_url: https://roytang.net
   text: Everything all the time and everywhere - by Ryan Broderick
-  url: https://www.garbageday.email/p/everything-will-be-all-the-time-and?utm_source=url
+  url: https://www.garbageday.email/p/everything-will-be-all-the-time-and
 source: web
 syndicated:
 - type: mastodon
