@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/805050532834353152/
 tags:
 - books
+- discworld
 ---
 
 2016 Reading Challenge, 29/52: Guards, Guards by Terry Pratchett

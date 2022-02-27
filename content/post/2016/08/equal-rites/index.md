@@ -12,6 +12,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1724328950
 tags:
 - books
+- discworld
 title: 'Book Review: Equal Rites by Pratchett, Terry'
 ---
 

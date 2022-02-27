@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1378993584595034117/
 tags:
 - books
+- discworld
 title: 'Book Reviews: Guards! Guards! and Men at Arms by Terry Pratchett'
 ---
 
