@@ -12,6 +12,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154087501338912:0
 tags:
 - food
+- london2015
 ---
 
 Spaghetti with bacon bits and egg+cheese sauce. Turned out better than i expected lol

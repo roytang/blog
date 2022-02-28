@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/775243708253954048/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154901836003912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/775244056255266816/
 ---
 
 Monday pa lang quomoquota na yung miscommunication team~

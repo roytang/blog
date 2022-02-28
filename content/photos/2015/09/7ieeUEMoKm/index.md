@@ -9,7 +9,8 @@ syndicated:
   url: https://instagram.com/p/7ieeUEMoKm/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154082078648912:0
-tags: []
+tags:
+- london2015
 ---
 
 The best part of the trip is that I'm staying in a pretty nice neighborhood
