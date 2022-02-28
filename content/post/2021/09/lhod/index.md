@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1435822348037287940/
 tags:
 - books
+- leguin
 title: 'Books: The Left Hand of Darkness by Ursula K. Le Guin'
 ---
 

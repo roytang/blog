@@ -15,4 +15,4 @@ I had forgotten that #House got an employee of Filipino lineage in season 8 so w
 
 {{< photos 1436195008332197899 >}}
 
-[13:36] It's actually too bad we only got one season of Dr Chi Park lol
+<time>[13:36]</time> It's actually too bad we only got one season of Dr Chi Park lol
