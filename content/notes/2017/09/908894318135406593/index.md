@@ -1,5 +1,5 @@
 ---
-date: 2017-09-16 03:24:26+00:00
+date: 2017-09-16 03:24:26
 dontinlinephotos: true
 reply_to:
   label: maro254's tweet
@@ -12,6 +12,7 @@ syndicated:
   url: https://twitter.com/roytang/status/908894318135406593/
 tags:
 - maro254
+- mtg
 ---
 
 [@maro254](https://twitter.com/maro254/) after ixalan is there now a better chance of duel decks pirates vs ninjas?

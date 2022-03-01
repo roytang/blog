@@ -12,6 +12,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/776462295954288640/
 tags:
 - video
+- mtg
 ---
 
 <p><a class="tumblr_blog" href="http://mtg-realm.tumblr.com/post/150446918546">mtg-realm</a>:</p>
