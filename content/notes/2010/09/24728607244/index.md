@@ -12,6 +12,7 @@ syndicated:
   url: https://plurk.com/p/7mrrh2
 tags:
 - mtg
+- mtgpreviews
 ---
 
 Woah new duals are sweet. http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/ld/108

@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-09-16 23:34:41
+location: bci_greenhills
 tags:
 - mtg
 title: GPT Bangkok 3
