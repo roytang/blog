@@ -12,6 +12,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1905365439
 tags:
 - books
+- gaiman
 title: 'Book Review: Trigger Warning: Short Fictions and Disturbances by Gaiman, Neil'
 ---
 

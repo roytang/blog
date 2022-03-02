@@ -2,6 +2,11 @@
 author: roy
 categories: []
 date: 2013-12-28 15:50:30
+reviews:
+- media: books
+  title: Foundation Trilogy by Isaac Asimov
+- media: books
+  title: Shadows in Flight by Orson Scott Card
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/416959578710896640/
@@ -9,14 +14,10 @@ tags:
 - Gaming
 - books
 - yearnotes
+- endersgame
 title: 2013 - Books and Games
 type: post
 url: /2013/12/2013-books-and-games/
-reviews:
-- media: books
-  title: Foundation Trilogy by Isaac Asimov
-- media: books
-  title: Shadows in Flight by Orson Scott Card
 ---
 
 It's the end of the year, so it feels like a good time to look back at the books and games I've gone through in 2013.

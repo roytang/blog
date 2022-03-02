@@ -12,6 +12,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1443874359
 tags:
 - books
+- sanderson
 title: 'Book Review: Steelheart by Sanderson, Brandon'
 ---
 

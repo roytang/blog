@@ -8,6 +8,10 @@
         "label": "Photos",
         "descrip": "Photos, sketches, screenshots, and definitely memes."
     },
+    "photos2": {
+        "label": "Photos2",
+        "descrip": "Photos, sketches, screenshots, and definitely memes."
+    },
     "notes": {
         "label": "Notes",
         "descrip": "Microblog-like status updates."

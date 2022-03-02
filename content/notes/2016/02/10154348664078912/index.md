@@ -1,5 +1,5 @@
 ---
-date: 2016-02-01 17:03:00+08:00
+date: 2016-02-01 09:03:00
 reviews:
 - description: ''
   media: books
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154348664078912
 tags:
 - books
+- harry-potter
 ---
 
 2016 Book #3: Harry Potter and the Chamber of Secrets. I think I actually caught the tail end of the movie for this on cable at some point. Easy read, started it last night to get sleepy and finished up this morning. My reading rate is still a bit slow, I blame Netflix!

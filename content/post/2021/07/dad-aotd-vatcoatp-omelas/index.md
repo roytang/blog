@@ -22,6 +22,7 @@ tags:
 - tv
 - books
 - jamesbond
+- leguin
 title: 'Reviews: Die Another Day, Army of the Dead, Valerian, Superstore, Omelas'
 ---
 

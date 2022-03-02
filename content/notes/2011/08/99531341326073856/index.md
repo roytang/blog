@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/99531341326073856/
 tags:
 - books
+- asoiaf
 ---
 
 Finished reading "A Game of Thrones"...hooray

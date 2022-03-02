@@ -2,23 +2,26 @@
 author: roy
 categories: []
 date: 2006-03-12 00:42:25
-tags:
-- Books
-- Pop Culture
-title: Recent Reading 2006-03-12
-type: post
-url: /2006/03/recent-reading-2006-03-12/
 reviews:
 - media: books
   title: Rapid Development by Steve McConnell
 - media: books
-  title: "Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas"
+  title: 'Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David
+    Thomas'
 - media: books
   title: Ang Alamat ng Gubat by Bob Ong
 - media: books
   title: Stainless Longganisa by Bob Ong
 - media: books
   title: Equal Rites by Terry Pratchett
+tags:
+- Books
+- Pop Culture
+- discworld
+- bobong
+title: Recent Reading 2006-03-12
+type: post
+url: /2006/03/recent-reading-2006-03-12/
 ---
 
 Books I've finished reading in the past few months:

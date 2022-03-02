@@ -15,6 +15,7 @@ syndicated:
 tags:
 - books
 - stormlight archive
+- sanderson
 title: 'Book Review: Words of Radiance by Sanderson, Brandon'
 ---
 

@@ -1,15 +1,9 @@
 ---
+aliases:
+- /2007/09/ender39s-game-series/
 author: Roy
 categories: []
 date: 2007-09-22 21:49:17
-tags:
-- Books
-- Pop Culture
-title: Ender's Game Series
-type: post
-slug: enders-game-series
-aliases:
-- /2007/09/ender39s-game-series/
 reviews:
 - media: books
   title: Ender's Game by Orson Scott Card
@@ -25,6 +19,13 @@ reviews:
   title: Xenocide by Orson Scott Card
 - media: books
   title: Children of the Mind by Orson Scott Card
+slug: enders-game-series
+tags:
+- Books
+- Pop Culture
+- endersgame
+title: Ender's Game Series
+type: post
 ---
 
 My reading lately has comprised of Orson Scott Card's excellent [Ender's Game][1] series. I got a copy of six of the books from an officemate a couple of months back, and I've just finished the seventh book today. I don't usually go through books that quickly, so it's a sign that I've really enjoyed this series. (If I don't enjoy a series, I typically lose interest before even finishing the book -- I have a copy of Sword of Shannara around here to prove that.)

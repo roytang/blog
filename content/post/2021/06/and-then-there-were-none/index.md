@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1400515485309968384/
 tags:
 - books
+- christie
 title: 'Book Review: And Then There Were None by Agatha Chrstie'
 ---
 

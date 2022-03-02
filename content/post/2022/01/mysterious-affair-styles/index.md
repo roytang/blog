@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1479675706615341056/
 tags:
 - books
+- christie
 title: The Mysterious Affair at Styles by Agatha Christie
 ---
 

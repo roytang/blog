@@ -12,6 +12,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1397461630410117120/
 tags:
 - books
+- christie
 title: 'Book Reviews: Murder on the Orient Express and Death on the Nile by Agatha
   Chrstie'
 ---

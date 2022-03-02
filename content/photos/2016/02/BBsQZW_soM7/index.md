@@ -22,6 +22,7 @@ syndicated:
 tags:
 - sketchdaily
 - books
+- harry-potter
 ---
 
 I read Harry Potter and the Goblet of Fire today (2016 book #6). #sketchdaily I didnt have a reference image for this one so they look weird. Also, robes are tough

@@ -1,6 +1,9 @@
 ---
 author: roy
 date: 2019-05-08 05:56:56
+reviews:
+- media: books
+  title: 'Wheel of Time: New Spring by Robert Jordan'
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1126035583355240448/
@@ -10,9 +13,6 @@ tags:
 - wheel of time
 title: 'Wheel of Time: New Spring'
 type: post
-reviews:
-- media: books
-  title: "Wheel of Time: New Spring by Robert Jordan"
 ---
 
 Since I was going to be taking a long trip in a month, I was looking for some books to read on the plane and in airports and whatnot while waiting. I settled on a re-read of Robert Jordan's Wheel of Time series, a pretty good time for it since by next year we may have a TV series from Amazon (hopefully better than Game of Thrones). Side note: Wheel of Time is also why I'm not optimistic that GRRM can finish ASoIaF in just two more books - Jordan took forever and died before he could finish WoT and even Sanderson who took over needed an additional three books to finish the saga.

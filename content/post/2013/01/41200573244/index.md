@@ -12,6 +12,7 @@ syndicated:
 tags:
 - wheel of time
 - books
+- sanderson
 title: So I finished reading A Memory of Light today (last Wheel of Time book)
 ---
 

@@ -2,16 +2,17 @@
 author: Roy
 categories: []
 date: 2006-11-18 02:09:13
+reviews:
+- media: books
+  title: The Dark Tower by Stephen King
 tags:
 - Books
 - Pop Culture
 - dark tower
+- king
 title: Dark Tower VII
 type: post
 url: /2006/11/dark-tower-vii/
-reviews:
-- media: books
-  title: The Dark Tower by Stephen King
 ---
 
 What a long, arduous journey it has been for Roland of Gilead, last gunslinger, in his inexorable quest for the Dark Tower. And now that I've read the final volume of Stephen King's magnum opus, I find out that it is an even crueler fate that awaits him at the end of the seven books.

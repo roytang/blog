@@ -13,6 +13,7 @@ syndicated:
 tags:
 - books
 - mistborn
+- sanderson
 title: 'Book Review: The Final Empire by Sanderson, Brandon'
 ---
 

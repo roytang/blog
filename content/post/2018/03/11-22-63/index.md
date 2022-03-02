@@ -12,6 +12,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/2345577523
 tags:
 - books
+- king
 title: 'Book Review: 11/22/63 by King, Stephen'
 ---
 

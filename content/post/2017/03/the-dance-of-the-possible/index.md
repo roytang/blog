@@ -13,6 +13,7 @@ syndicated:
   url: https://www.goodreads.com/review/show/1942933254
 tags:
 - books
+- berkun
 title: 'Book Review: The Dance of the Possible: the mostly honest completely irreverent
   guide to creativity by Berkun, Scott'
 ---

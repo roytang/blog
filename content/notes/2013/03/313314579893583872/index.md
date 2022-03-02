@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/status/313314579893583872/
 tags:
 - books
+- vonnegut
 ---
 
 Finished reading Slaughterhouse Five. Looking to alternate fiction and nonfiction so the next book I read is probably Brief History of Time

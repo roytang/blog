@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2005-09-05 04:51:00
+reviews:
+- media: books
+  title: Wolves of the Calla by Stephen King
 source: roywantsmeat
 syndicated:
 - type: blogger
@@ -10,12 +13,10 @@ tags:
 - Books
 - Pop Culture
 - dark tower
+- king
 title: 'Books: Dark Tower V -- Wolves of the Calla'
 type: post
 url: /2005/09/books-dark-tower-v-wolves-of-the-calla/
-reviews:
-- media: books
-  title: Wolves of the Calla by Stephen King
 ---
 
 _"There will be water if ka wills it." -- Roland of Gilead_ 

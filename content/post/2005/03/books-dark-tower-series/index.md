@@ -2,6 +2,11 @@
 author: Roy
 categories: []
 date: 2005-03-24 08:30:00
+reviews:
+- media: books
+  title: Wastelands by Stephen King
+- media: books
+  title: Wizard and Glass by Stephen King
 source: roywantsmeat
 syndicated:
 - type: blogger
@@ -11,14 +16,10 @@ tags:
 - Review
 - Pop Culture
 - dark tower
+- king
 title: 'Books: Dark Tower series'
 type: post
 url: /2005/03/books-dark-tower-series/
-reviews:
-- media: books
-  title: Wastelands by Stephen King
-- media: books
-  title: Wizard and Glass by Stephen King
 ---
 
 > "I do not aim with my hand.

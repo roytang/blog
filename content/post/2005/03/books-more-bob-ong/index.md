@@ -2,6 +2,11 @@
 author: roy
 categories: []
 date: 2005-03-06 09:34:00
+reviews:
+- media: books
+  title: Bakit Baliktad Magbasa ng Libro Ang Mga Pilipino? by Bob Ong
+- media: books
+  title: Ang Paboritong Libro ni Hudas by Bob Ong
 source: roywantsmeat
 syndicated:
 - type: blogger
@@ -10,14 +15,10 @@ tags:
 - Books
 - Review
 - Pop Culture
+- bobong
 title: 'Books: More Bob Ong'
 type: post
 url: /2005/03/books-more-bob-ong/
-reviews:
-- media: books
-  title: Bakit Baliktad Magbasa ng Libro Ang Mga Pilipino? by Bob Ong
-- media: books
-  title: Ang Paboritong Libro ni Hudas by Bob Ong
 ---
 
 A while back I blogged about [Bob Ong's first book][1]. A short while after, I also picked up his next two books, _Bakit Baliktad Magbasa ng Libro Ang Mga Pilipino?_ (Why Do Filipinos Read Backwards?) and _Ang Paboritong Libro ni Hudas_ (Judas' Favorite Book).

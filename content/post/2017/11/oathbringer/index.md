@@ -7,11 +7,12 @@ reviews:
 source: goodreads
 syndicated:
 - type: goodreads
-  url: https://www.goodreads.com/review/show/2106145410
+  url: https://www.goodreads.com/review/show/2194413224
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10156212432178912:0  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156212432178912:0
 tags:
 - books
+- sanderson
 title: 'Read: Oathbringer by Sanderson, Brandon'
 ---
 

@@ -13,6 +13,7 @@ syndicated:
 tags:
 - books
 - mistborn
+- sanderson
 title: 'Book Review: The Hero of Ages by Sanderson, Brandon'
 ---
 

@@ -1,17 +1,18 @@
 ---
 date: 2020-12-01
+reviews:
+- media: books
+  title: Rhythm of War by Sanderson, Brandon
 slug: rhythm-of-war
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105302960297635029
 - type: twitter
   url: https://twitter.com/roytang/statuses/1333623771907858432/
-reviews:
-- media: books
-  title: Rhythm of War by Sanderson, Brandon
 tags:
 - books
 - stormlight archive
+- sanderson
 title: 'Book Review: Rhythm of War by Sanderson, Brandon'
 ---
 
