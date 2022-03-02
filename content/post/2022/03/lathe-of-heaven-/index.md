@@ -1,9 +1,14 @@
 ---
-date: 2022-03-02T12:32:08+08:00
+date: 2022-03-02 04:32:08
 reviews:
 - media: books
-  title: The Lathe of Heaven by Ursula K. Le Guin
   rating: 5.0
+  title: The Lathe of Heaven by Ursula K. Le Guin
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107885932971572184
+- type: twitter
+  url: https://twitter.com/roytang/status/1498934022172409858/
 tags:
 - books
 - leguin
@@ -28,4 +33,4 @@ Some quotes:
 > life’s not a static object, after all. It’s a process. There’s no holding still. Intellectually you know that, but emotionally you refuse it. Nothing remains the same from one moment to the next, you can’t step into the same river twice. Life—evolution—the whole universe of space/time, matter/ energy—existence itself—is essentially change.”
 > 
 > “When things don’t change any longer, that’s the end result of entropy, the heat-death of the universe. The more things go on moving, interrelating, conflicting, changing, the less balance there is—and the more life. I’m pro-life, George. Life itself is a huge gamble against the odds, against all odds! You can’t try to live safely, there’s no such thing as safety. Stick your neck out of your shell, then, and live fully! It’s not how you get there, but where you get to that counts. What you’re afraid to accept, here, is that we’re engaged in a really great experiment, you and I. We’re on the brink of discovering and controlling, for the good of all mankind., a whole new force, an entire new field of antientropic energy, of the life-force, of the will to act, to do, to change!” 
-> 
+>
