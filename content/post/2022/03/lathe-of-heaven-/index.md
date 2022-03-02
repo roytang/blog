@@ -1,6 +1,5 @@
 ---
 date: 2022-03-02T12:32:08+08:00
-draft: true
 reviews:
 - media: books
   title: The Lathe of Heaven by Ursula K. Le Guin
@@ -11,7 +10,7 @@ tags:
 title: 'Books: The Lathe of Heaven by Ursula K. Le Guin'
 ---
 
-I wasn't sure what to read next so I randomly picked **The Lathe of Heaven by Ursula K. Le Guin** to read, going in without knowing what it was about. It was surprisingly really good! I really enjoyed it and I burned through the book in around three sittings, which is a very fast rate for me these days.
+I wasn't sure what to read next so I randomly picked **The Lathe of Heaven by Ursula K. Le Guin** to read, going in without knowing what it was about. It was surprisingly really good! I really enjoyed it and I burned through the book in around three sittings, which is a very fast rate for me these days. (The book wasn't very long so that helped!)
 
 The book is about a timid man who is afraid to dream because he discovers that his dreams are able to alter reality, something he does not want to be responsible for. He comes under the care of a dream therapist who discovers the potential of his power and tries to use it to "improve" the world. Things escalate quickly throughout their regular sessions, as you can imagine. 
 
