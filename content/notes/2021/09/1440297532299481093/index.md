@@ -13,4 +13,4 @@ I’m a sucker for shiny new things so of course when I saw iPadOS 15 was availa
 
 {{< photos 1440297532299481093 >}}
 
-[20:52] Maybe now I'll finally get around to organizing my home screen(s). Also, hopefully this upgrade improves performance!
+<time>[20:52]</time> Maybe now I'll finally get around to organizing my home screen(s). Also, hopefully this upgrade improves performance!
