@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-09-19 05:03:38
+location: robinsons_galleria
 tags:
 - mtg
 title: 'Pre-Alara Triple Treats: Kithkin'
