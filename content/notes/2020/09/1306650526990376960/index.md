@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1306692203482243072/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1306994128215916545/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1306813354720333824/
 tags:
 - mtgznr
 - twitch
@@ -29,3 +31,4 @@ Unfortunately (spoiler!) I performed very poorly D: Have to figure out what I'm 
 
 
 2nd draft deck (BG):
+
