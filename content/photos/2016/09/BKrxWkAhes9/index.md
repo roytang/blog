@@ -14,9 +14,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/779165610936832000/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154930867308912:2
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/544ex7/some_comics_i_drew_today_warning_politics/
 tags:
 - sketchdaily
 - philippines
+- reddit_submission
 ---
 
 Presidential spokesperson #sketchdaily #philippines (one more because i had fun)

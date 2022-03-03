@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-09-22 14:59:57
+location: robinsons_galleria
 tags:
 - mtg
 title: Friday Night Magic
