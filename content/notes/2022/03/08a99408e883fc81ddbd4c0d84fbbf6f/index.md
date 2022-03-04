@@ -6,6 +6,8 @@ reviews:
   rating: 0.0
   title: Free Guy (2021)
 source: form
+tags:
+- movies
 title: Free Guy (2021)
 ---
 
