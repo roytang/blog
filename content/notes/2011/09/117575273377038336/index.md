@@ -20,8 +20,8 @@ tags:
 
 Some good pulls at today's #MTGINN prerelease, though I only managed to go 3-1 http://yfrog.com/kf3cfmyrj
 
-[20:25] I really wish I could find a local tournament venue that didn't offer hot, cramped playing areas and better chairs though :/
+<time>[20:25]</time> I really wish I could find a local tournament venue that didn't offer hot, cramped playing areas and better chairs though :/
 
-[20:28] The #MTGINN limited format seems fun, but it's kinda hard to not miss werewolf transforms on occassion.
+<time>[20:28]</time> The #MTGINN limited format seems fun, but it's kinda hard to not miss werewolf transforms on occassion.
 
-[Sep 25 10:36] These are all the rares I got in 9 packs at the #MTGINN http://yfrog.com/khbi9upgj Only 11 rares/mythics? Some people got 10 in six packs
+<time>[2014-09-25 10:36]</time> These are all the rares I got in 9 packs at the #MTGINN http://yfrog.com/khbi9upgj Only 11 rares/mythics? Some people got 10 in six packs

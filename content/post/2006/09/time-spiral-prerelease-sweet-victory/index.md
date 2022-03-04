@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2006-09-23 18:32:35
+location: robinsons_galleria
 tags:
 - mtg
 title: Time Spiral Prerelease -- Sweet Victory!

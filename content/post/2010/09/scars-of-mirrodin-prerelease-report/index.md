@@ -4,6 +4,7 @@ aktt_notify_twitter:
 author: roy
 categories: []
 date: 2010-09-25 23:40:14
+location: eton_cyberpod
 syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/25540595136/

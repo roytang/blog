@@ -25,8 +25,8 @@ tags:
 
 Large hedron collider #mtgbfz
 
-[18:31] Having trouble deciding between a more aggressive gw allies build or a ub eldrazi build. Allies seems safer... #MTGBFZ
+<time>[18:31]</time> Having trouble deciding between a more aggressive gw allies build or a ub eldrazi build. Allies seems safer... #MTGBFZ
 
-[19:28] The prerelease packaging is a lot better this time around. Kudos to [@wizards_magic](https://twitter.com/wizards_magic/) #MTGBFZ
+<time>[19:28]</time> The prerelease packaging is a lot better this time around. Kudos to [@wizards_magic](https://twitter.com/wizards_magic/) #MTGBFZ
 
-[02:33] Gw allies deck i ran at #MTGBFZ prerelease, only went 1-2 (lol). Was considering the ub build shown as alternative
+<time>[02:33]</time> Gw allies deck i ran at #MTGBFZ prerelease, only went 1-2 (lol). Was considering the ub build shown as alternative
