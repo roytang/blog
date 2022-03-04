@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/iXnARLRzCc1
 - type: foursquare
   url: https://www.swarmapp.com/c/iXnARLRzCc1
+tags:
+- singapore2014
 ---
 
 I'm at Citrus Hotel Johor Bahru - @stayatcitrusjb in Johor Bahru, Johor Darul Ta'zim https://www.swarmapp.com/c/iXnARLRzCc1

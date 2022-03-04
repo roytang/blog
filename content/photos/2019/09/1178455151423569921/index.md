@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1178455151423569921/
 tags:
 - mtg
+- mtgarenastats
 ---
 
 My #mtg arena beta stats email finally came in. 437 packs opened isn’t too bad for a f2p account, considering I was able to build a few top tier standard decks and even hit mythic once.

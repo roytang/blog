@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-09-30 05:22:38
+location: robinsons_galleria
 tags:
 - mtg
 title: Lorwyn -- Prerelease
