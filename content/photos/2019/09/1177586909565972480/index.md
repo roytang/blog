@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1177586909565972480/
 tags:
 - mtg
+- mtgeld
 ---
 
 Did an #mtg eldraine paper prerelease as well today  Went 3-0-1 with this pile

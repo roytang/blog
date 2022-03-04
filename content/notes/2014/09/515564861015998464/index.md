@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/7E5NNq7WAA8
 - type: foursquare
   url: https://www.swarmapp.com/c/7E5NNq7WAA8
+tags:
+- singapore2014
 ---
 
 I'm at Ninoy Aquino International Airport (MNL) Terminal 3 in Pasay City, Metro Manila https://www.swarmapp.com/c/7E5NNq7WAA8

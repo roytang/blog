@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/hE7OHpYEwyu
 - type: foursquare
   url: https://www.swarmapp.com/c/hE7OHpYEwyu
+tags:
+- singapore2014
 ---
 
 Sentosa tiger sky tower has free wifi! (@ Tiger Sky Tower in Sentosa Island, Singapore) https://www.swarmapp.com/c/hE7OHpYEwyu

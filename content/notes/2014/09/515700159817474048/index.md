@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/1HIjdzDy78y
 - type: foursquare
   url: https://www.swarmapp.com/c/1HIjdzDy78y
+tags:
+- singapore2014
 ---
 
 I'm at YMCA Singapore in Singapore https://www.swarmapp.com/c/1HIjdzDy78y

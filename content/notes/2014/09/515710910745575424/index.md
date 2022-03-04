@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/gLjGtANLsXF
 - type: foursquare
   url: https://www.swarmapp.com/c/gLjGtANLsXF
+tags:
+- singapore2014
 ---
 
 I'm at Charlie Brown Cafe https://www.swarmapp.com/c/gLjGtANLsXF
