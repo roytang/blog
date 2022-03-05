@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/57LRM1874w2
 - type: foursquare
   url: https://www.swarmapp.com/c/57LRM1874w2
+tags:
+- europe2015
 ---
 
 I'm at Singapore Changi Airport (SIN) - @fansofchangi in Singapore https://www.swarmapp.com/c/57LRM1874w2

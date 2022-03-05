@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/53186582498edc44bee33a30?s=_XqYP3NljfkWzT_YJtxJC4C0Tds&ref=tw
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/53186582498edc44bee33a30?s=_XqYP3NljfkWzT_YJtxJC4C0Tds&ref=tw
+tags:
+- quiznight
 ---
 
 I'm at Amici (San Juan, Metro Manila) https://www.swarmapp.com/roytang/checkin/53186582498edc44bee33a30?s=_XqYP3NljfkWzT_YJtxJC4C0Tds&ref=tw

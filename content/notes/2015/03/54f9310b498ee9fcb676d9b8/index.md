@@ -1,12 +1,13 @@
 ---
 checkin_id: 54f9310b498ee9fcb676d9b8
-date: 2015-03-06 12:46:03+08:00
+date: 2015-03-06 04:46:03
 location: 4b46e964f964a520812926e3
 source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/54f9310b498ee9fcb676d9b8
-tags: []
+tags:
+- europe2015
 ---
 
 Kahit sa airport mainit (@Ninoy Aquino International Airport (MNL) Terminal 3 Andrews Ave)

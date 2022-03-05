@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/1a9tQIh5FqP
 - type: foursquare
   url: https://www.swarmapp.com/c/1a9tQIh5FqP
+tags:
+- singapore2014
 ---
 
 Finally (@ Ninoy Aquino International Airport (MNL) Terminal 3 in Pasay City, Metro Manila) https://www.swarmapp.com/c/1a9tQIh5FqP
