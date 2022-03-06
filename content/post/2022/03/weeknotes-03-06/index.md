@@ -1,10 +1,15 @@
 ---
 date: 2022-03-06 10:41:53
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107909613184685473
+- type: twitter
+  url: https://twitter.com/roytang/status/1500449555585724416/
 tags:
 - weeknotes
 - philippines
 - covid19
-title: Weeknotes 2022-03-06 
+title: Weeknotes 2022-03-06
 ---
 
 Just like that we are three months into the year. Time marches on.
