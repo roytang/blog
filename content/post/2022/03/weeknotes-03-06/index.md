@@ -35,6 +35,7 @@ Not a lot today. Visit the [Links page](/links/) for more links of interest.
 
 - I had a not-very-good week. Some annoying things nagging at me, making it difficult to be productive. It's also made it difficult to write more often on the blog.
 - One of the things stressing me out is that I have another ongoing issue with my internet provider Globe Telecom; it's in the second month now and I'm hoping I can resolve it soon. If not, I may need to write about it publicly.
+- Last Wednesday was Ash Wednesday. We still haven't actually gotten back into attending real Mass in a church since the pandemic started, but we had some homemade ashes ('blessed' somehow I guess?) and still heard Mass virtually (online).
 - Went out to the mall today. Only the second time this year, and third time since the pandemic. With Metro Manila now at the lowest alert level, people are out in droves once again. At least everyone is wearing masks.
 - I miss the regular sketching; am thinking of getting back into it in some form (although it's not like I've magically found more time day to day).
 - **Gaming**:
