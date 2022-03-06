@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/jfv10dNi3cV
 - type: foursquare
   url: https://www.swarmapp.com/c/jfv10dNi3cV
+tags:
+- europe2015
 ---
 
 Waw europe! (@ Aeroport de Barcelona-El Prat (BCN) - [@aenaaeropuertos](https://twitter.com/aenaaeropuertos/) in El Prat de Llobregat, Catalunya) https://www.swarmapp.com/c/jfv10dNi3cV
