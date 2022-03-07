@@ -1,0 +1,28 @@
+{
+  "id": "9374a0f6-e6dd-400d-b79a-aa99f0ae22c8",
+  "name": "Katrin Jefferson",
+  "url": "https://twitter.com/JeffersonKatrin",
+  "text": "[Katrin Jefferson](https://twitter.com/JeffersonKatrin) [liked this](https://twitter.com/roytang/status/1500798450551558144#favorited-by-1500789050411606022)",
+  "date": "2022-03-07 11:54:50",
+  "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+  "source_url": "https://twitter.com/roytang/status/1500798450551558144#favorited-by-1500789050411606022",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Katrin Jefferson",
+      "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+      "url": "https://twitter.com/JeffersonKatrin"
+    },
+    "url": "https://twitter.com/roytang/status/1500798450551558144#favorited-by-1500789050411606022",
+    "published": null,
+    "wm-received": "2022-03-07T11:54:50Z",
+    "wm-id": 1359682,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1500798450551558144/1500789050411606022",
+    "wm-target": "https://roytang.net/2022/03/the-batman/",
+    "like-of": "https://roytang.net/2022/03/the-batman/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
