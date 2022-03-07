@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/914885689207951360/
 ---
 
-RT [@WorldofIsaac](https://twitter.com/WorldofIsaac/): I tweet this Onion headline after every mass shooting. What an ugly truth 
+I tweet this Onion headline after every mass shooting. What an ugly truth 

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/783286385344061440/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154964301223912
+tags:
+- duterte
 ---
 
 Sep 10: "I never cursed Obama"

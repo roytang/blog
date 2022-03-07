@@ -6,6 +6,11 @@ tags:
 title: Decklist Sharing Tool
 type: post
 url: /2009/10/decklist-sharing-tool/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/4584080040/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/169173652618
 ---
 
 Want to post decklists online to tweet to your friends? You can use the [Decklist Sharing Tool][1]!

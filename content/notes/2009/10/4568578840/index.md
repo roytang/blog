@@ -1,11 +1,10 @@
 ---
-date: 2009-10-03 01:25:22
+date: 2009-10-03 01:25:22+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/4568578840/
-- type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/146057163929
+  url: https://twitter.com/roytang/status/4568578840/
 tags:
 - GoogleWave
 ---
