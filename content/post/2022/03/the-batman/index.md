@@ -1,11 +1,16 @@
 ---
-title: "The Batman (2022)"
-date: 2022-03-07T19:02:36+08:00
-tags:
-- movies
+date: 2022-03-07 11:02:36
 reviews:
 - media: movies
   title: The Batman (2022)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107915064603766070
+- type: twitter
+  url: https://twitter.com/roytang/status/1500798450551558144/
+tags:
+- movies
+title: The Batman (2022)
 ---
 
 Watched The Batman (2022) yesterday, only my second time in the cinemas since the pandemic began. 
@@ -40,4 +45,3 @@ If you liked the film but haven't read a lot of the comics, here's some stuff yo
 - Batman: Year One (1987) by Frank Miller and David Mazzucchelli
 - The Long Halloween (1996) by Jeph Loeb and Tim Sale.
 - Batman: The Impostor (2021) by Mattson Tomlin and lettered by Andrea Sorrentino. Tomlin was also an uncredited writer for this film.
-  
