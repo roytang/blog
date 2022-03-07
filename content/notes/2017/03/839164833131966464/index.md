@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/839164833131966464/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155423055318912
+tags:
+- lyrics
 ---
 
 Is there a line that I could write
