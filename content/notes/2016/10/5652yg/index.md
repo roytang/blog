@@ -1,16 +1,18 @@
 ---
-date: 2016-10-06 20:19:12
+date: 2016-10-06 12:19:12+00:00
+dontinlinephotos: true
 source: reddit
 syndicated:
 - type: reddit
-  url: https://reddit.com/r/Philippines/comments/5652yg/from_the_local_version_of_a_few_good_men/
+  url: https://www.reddit.com/r/Philippines/comments/5652yg/from_the_local_version_of_a_few_good_men/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154969534528912
 tags:
-- philippines
+- Philippines
+- reddit_submission
 ---
 
-#### Posted on r/Philippines: [From the local version of "A Few Good Men"](https://reddit.com/r/Philippines/comments/5652yg/from_the_local_version_of_a_few_good_men/)
+#### Posted on r/Philippines: [From the local version of "A Few Good Men"](https://www.reddit.com/r/Philippines/comments/5652yg/from_the_local_version_of_a_few_good_men/)
 
 D: "You want answers?"
 

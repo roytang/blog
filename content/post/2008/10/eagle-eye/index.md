@@ -2,6 +2,10 @@
 author: Roy
 categories: []
 date: 2008-10-04 22:59:40
+location: 4c4aedb15609c9b6c1bc6490
+reviews:
+- media: movies
+  title: Eagle Eye (2008)
 tags:
 - Movies
 - Review
@@ -9,9 +13,6 @@ tags:
 title: Eagle Eye
 type: post
 url: /2008/10/eagle-eye/
-reviews:
-- media: movies
-  title: "Eagle Eye (2008)"
 ---
 
 On a whim, my brother and I went to Trinoma to see Eagle Eye, barely catching the last full show (including the trailers of course, we love watching trailers). Our mom had said we'd like the movie and she still owed us one since it was her fault we watched Big Stan. So we're giving her a chance to redeem herself.

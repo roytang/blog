@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2006-10-08 04:04:46
+location: robinsons_galleria
 tags:
 - mtg
 title: Time Spiral Release
