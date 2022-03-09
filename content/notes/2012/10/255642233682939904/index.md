@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151878915158912
 tags:
 - doctorwho
+- tv
 ---
 
 Dr.Who 03x10 Blink may just be the best time travel TV/movie I've ever seen
