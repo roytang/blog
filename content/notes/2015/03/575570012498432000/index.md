@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/c/6wWPYltuKr7
 - type: foursquare
   url: https://www.swarmapp.com/c/6wWPYltuKr7
+tags:
+- london2015
 ---
 
 Leg 2 (@ Aeroporto di Roma Fiumicino "Leonardo da Vinci" (FCO) - @aeroportidiroma in Fiumicino, RM) https://www.swarmapp.com/c/6wWPYltuKr7
