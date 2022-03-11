@@ -43,18 +43,18 @@ tags:
 
 at naia2 waiting for boarding,tweeting using psp :p
 
-[06:34] dont think naia2 had wifi last time i was here
+<time>[06:34]</time> dont think naia2 had wifi last time i was here
 
-[06:51] only had 4hrs sleep, breakfast was a croissant from delifrance (expensive).wifi here is hella slow
+<time>[06:51]</time> only had 4hrs sleep, breakfast was a croissant from delifrance (expensive).wifi here is hella slow
 
-[07:01] is leaving on a jetplane.
+<time>[07:01]</time> is leaving on a jetplane.
 
-[07:21] flight's boarding, hope to sleep all the way
+<time>[07:21]</time> flight's boarding, hope to sleep all the way
 
-[10:51] in line at hk immigration, there's a guy who looks like aaron forsythe [mtg]
+<time>[10:51]</time> in line at hk immigration, there's a guy who looks like aaron forsythe [mtg]
 
-[10:53] safely in hk, waiting in line for the A11 bus
+<time>[10:53]</time> safely in hk, waiting in line for the A11 bus
 
-[18:30] panicky
+<time>[18:30]</time> panicky
 
-[22:21] done for the day, can finally sleep (but still posted status!)
+<time>[22:21]</time> done for the day, can finally sleep (but still posted status!)
