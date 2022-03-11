@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-10-20 07:43:21
+date: 2016-10-20 07:43:21-07:00
 location: ''
 source: instagram
 syndicated:
@@ -19,5 +19,4 @@ tags:
 - inktober
 ---
 
-"Those? Those are emblems of fallen empires that did not stand the test of time" #sketchdaily #inktober 
-
+"Those? Those are emblems of fallen empires that did not stand the test of time" #sketchdaily #inktober

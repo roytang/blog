@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2016-08-29 05:09:15
+date: 2016-08-29 05:09:15-07:00
 location: ''
 source: instagram
 syndicated:
@@ -11,7 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/770231882722279424/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154861967663912:0
-tags: 
+tags:
 - boardgames
 ---
 

@@ -2,8 +2,9 @@
 albums:
 - instagram
 - food
-date: 2014-08-28 04:28:05
-location: ''
+checkin_id: 53ff0fca498eef47a7742b49
+date: 2014-08-28 04:28:05-07:00
+location: 4d0a0ed34abf721e98c8c65e
 source: instagram
 syndicated:
 - type: instagram
@@ -12,8 +13,6 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/53ff0fca498eef47a7742b49
 tags:
 - MyPERIxPERIence
-checkin_id: 53ff0fca498eef47a7742b49
-location: 4d0a0ed34abf721e98c8c65e
 ---
 
 #MyPERIxPERIence

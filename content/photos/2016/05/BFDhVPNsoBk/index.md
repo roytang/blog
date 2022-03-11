@@ -2,7 +2,7 @@
 albums:
 - instagram
 - pickups
-date: 2016-05-05 23:02:12
+date: 2016-05-05 23:02:12-07:00
 location: ''
 source: instagram
 syndicated:

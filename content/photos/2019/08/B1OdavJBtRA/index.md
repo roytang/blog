@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2019-08-16 06:06:33
+date: 2019-08-16 06:06:33-07:00
 location: ''
 source: instagram
 syndicated:

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-07-19 07:58:50
+date: 2016-07-19 07:58:50-07:00
 location: ''
 source: instagram
 syndicated:

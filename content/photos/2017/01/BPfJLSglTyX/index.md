@@ -2,7 +2,7 @@
 albums:
 - timeline
 - instagram
-date: 2017-01-20 05:43:48
+date: 2017-01-20 05:43:48-07:00
 location: ''
 source: instagram
 syndicated:

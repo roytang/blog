@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2016-04-28 02:53:40
+date: 2016-04-28 02:53:40-07:00
 location: ''
 source: instagram
 syndicated:
@@ -11,7 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/725624022692569088/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154563615313912:1
-tags: 
+tags:
 - halalan2016
 ---
 

@@ -1,8 +1,9 @@
 ---
 albums:
 - instagram
-date: 2016-05-06 09:14:08
-location: ''
+checkin_id: 572ca690498e669e4632be20
+date: 2016-05-06 09:14:08-07:00
+location: 5579775a498e1dcc65578f9a
 source: instagram
 syndicated:
 - type: instagram
@@ -14,8 +15,6 @@ syndicated:
 tags:
 - geekfight
 - quiznight
-checkin_id: 572ca690498e669e4632be20
-location: 5579775a498e1dcc65578f9a
 ---
 
 Geekfight! (@Splice Greenfield District)

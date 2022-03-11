@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2017-12-30 04:37:58
+date: 2017-12-30 04:37:58-07:00
 location: ''
 reviews:
 - description: ''

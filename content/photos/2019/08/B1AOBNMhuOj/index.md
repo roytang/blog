@@ -2,7 +2,7 @@
 albums:
 - instagram
 - food
-date: 2019-08-10 17:22:38
+date: 2019-08-10 17:22:38-07:00
 location: ''
 source: instagram
 syndicated:

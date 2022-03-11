@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2016-01-23 18:05:18
+date: 2016-01-23 18:05:18-07:00
 location: ''
 source: instagram
 syndicated:

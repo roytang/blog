@@ -1,8 +1,9 @@
 ---
 albums:
 - instagram
-date: 2017-04-30 16:28:51
-location: ''
+checkin_id: 59066b0a59fe5c6a4be5bbde
+date: 2017-04-30 16:28:51-07:00
+location: 4bd66ba0cfa7b71372a627da
 source: instagram
 syndicated:
 - type: instagram
@@ -16,8 +17,6 @@ syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/59066b0a59fe5c6a4be5bbde
 tags: []
-checkin_id: 59066b0a59fe5c6a4be5bbde
-location: 4bd66ba0cfa7b71372a627da
 ---
 
 (@Terminal 2 (第2ターミナル) 古込1-1)

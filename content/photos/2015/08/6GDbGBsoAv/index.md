@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2015-08-07 12:53:14
+date: 2015-08-07 12:53:14-07:00
 location: ''
 reviews:
 - description: ''

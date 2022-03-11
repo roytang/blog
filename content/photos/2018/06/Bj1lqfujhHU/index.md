@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2018-06-10 01:23:54
+date: 2018-06-10 01:23:54-07:00
 location: ''
 source: instagram
 syndicated:

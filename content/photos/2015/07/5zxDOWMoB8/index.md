@@ -2,7 +2,7 @@
 albums:
 - instagram
 - food
-date: 2015-07-31 10:26:22
+date: 2015-07-31 10:26:22-07:00
 location: ''
 source: instagram
 syndicated:

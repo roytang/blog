@@ -1,11 +1,10 @@
 ---
 albums:
 - instagram
-date: 2016-12-02 08:48:07
+checkin_id: 58416a5076b8b2595e647376
+date: 2016-12-02 08:48:07-07:00
 location: 5579775a498e1dcc65578f9a
 source: instagram
-checkin_id: 58416a5076b8b2595e647376
-syndicated:
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BNhTUZdBit8/

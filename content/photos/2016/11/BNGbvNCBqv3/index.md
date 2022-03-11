@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2016-11-21 22:22:11
+date: 2016-11-21 22:22:11-07:00
 location: bigb
 source: instagram
 syndicated:
