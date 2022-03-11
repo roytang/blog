@@ -2,7 +2,7 @@
 albums:
 - instagram
 - food
-date: 2015-11-21 03:59:55-07:00
+date: 2015-11-21 10:59:55
 location: ''
 source: instagram
 syndicated:
@@ -10,4 +10,5 @@ syndicated:
   url: https://instagram.com/p/-WCpsAsoP_/
 tags:
 - food
+- japan2015
 ---

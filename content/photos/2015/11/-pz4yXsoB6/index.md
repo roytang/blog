@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2015-11-28 20:15:43-07:00
+date: 2015-11-29 03:15:43
 location: ''
 source: instagram
 syndicated:
@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154219582083912:1
 tags:
 - lucky
+- japan2015
 ---
 
 #lucky

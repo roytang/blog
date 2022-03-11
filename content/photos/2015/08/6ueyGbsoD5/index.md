@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2015-08-23 05:41:56-07:00
+date: 2015-08-23 12:41:56
 location: ''
 source: instagram
 syndicated:
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154035906983912:1
 tags:
 - tourist
+- london2015
 ---
 
 Spent a couple of hours soaking up culture at the British museum #tourist

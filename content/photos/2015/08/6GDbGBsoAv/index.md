@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2015-08-07 12:53:14-07:00
+date: 2015-08-07 19:53:14
 location: ''
 reviews:
 - description: ''
@@ -16,6 +16,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153999491233912:0
 tags:
 - movies
+- london2015
 ---
 
 I randomly stumbled upon some free open air cinema thing so now I guess I'm gonna watch Eternal Sunshine of the Spotless Mind

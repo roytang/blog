@@ -2,7 +2,7 @@
 albums:
 - instagram
 categories: []
-date: 2015-09-26 02:21:37-07:00
+date: 2015-09-26 09:21:37
 location: ''
 source: instagram
 syndicated:
@@ -21,6 +21,7 @@ syndicated:
 tags:
 - mtgbfz
 - mtg
+- london2015
 ---
 
 Large hedron collider #mtgbfz

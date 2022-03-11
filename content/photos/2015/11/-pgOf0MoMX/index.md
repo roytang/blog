@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2015-11-28 17:23:55-07:00
+date: 2015-11-29 00:23:55
 location: ''
 source: instagram
 syndicated:
@@ -9,7 +9,8 @@ syndicated:
   url: https://instagram.com/p/-pgOf0MoMX/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154219582083912:0
-tags: []
+tags:
+- japan2015
 ---
 
 Huge toast for breakfast
