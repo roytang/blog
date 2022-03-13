@@ -1,12 +1,17 @@
 ---
-date: 2022-03-13T13:35:47+08:00
+date: 2022-03-13 05:35:47
+featuredResource:
+  photo: /2022/03/1501892239617785859/
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107949616771832014
+- type: twitter
+  url: https://twitter.com/roytang/status/1503009785293438977/
 tags:
 - weeknotes
 - philippines
 - covid19
 title: Weeknotes 2022-03-13
-featuredResource:
-  photo: /2022/03/1501892239617785859/
 ---
 
 ### A Quote
