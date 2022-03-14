@@ -1,11 +1,16 @@
 ---
-title: "My Neon Dynasty Limited Recap"
-date: 2022-03-14T12:26:48+08:00
+date: 2022-03-14 04:26:48
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107953315769122222
+- type: twitter
+  url: https://twitter.com/roytang/status/1503246520954814468/
 tags:
 - mtg
 - mtgneo
 - limited
 - magicarena
+title: My Neon Dynasty Limited Recap
 ---
 
 With Neon Dynasty Quick Draft no longer available on Magic Arena, I'm more or less done with Neon Dynasty limited and will be shifting to constructed and prepping for the next set. Since I have the benefit of streaming and recording most of my matches (click the MTGNEO tag link at the bottom of this post for the list), I thought I'd collate my stats for this limited season.
