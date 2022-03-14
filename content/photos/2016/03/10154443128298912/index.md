@@ -13,6 +13,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154443128298912
 - type: twitter
   url: https://twitter.com/roytang/statuses/709612534278414336/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/709612588267536384/
 tags:
 - timeline-photos
 - gaming
