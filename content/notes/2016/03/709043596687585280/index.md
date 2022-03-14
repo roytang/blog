@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154439195993912
 ---
 
-If you ask me, we need more students asking politicians tough questions and not taking BS for an answer
+If you ask me, we need more students asking politicians tough questions and not taking BS for an answer 

@@ -37,14 +37,14 @@ tags:
 
 went out to look for (real) bread, took 45mins to find an open bakery. this city needs to wake up earlier
 
-[07:33] all my bags are packed im ready to go. heading out to check in at central
+<time>[07:33]</time> all my bags are packed im ready to go. heading out to check in at central
 
-[09:25] at hkia having a croissant from burger king
+<time>[09:25]</time> at hkia having a croissant from burger king
 
-[10:28] flight's boarding, next tweet will probly be from home. not sure if i have enough pesos for the cab
+<time>[10:28]</time> flight's boarding, next tweet will probly be from home. not sure if i have enough pesos for the cab
 
-[10:38] so theyre boarding seats 66 and up first and some filipina in seat 50+ asks if her seat is included.
+<time>[10:38]</time> so theyre boarding seats 66 and up first and some filipina in seat 50+ asks if her seat is included.
 
-[10:41] i wonder if that sort of thing gives pinoys a rep of either cant follow directions or bad at math. or both
+<time>[10:41]</time> i wonder if that sort of thing gives pinoys a rep of either cant follow directions or bad at math. or both
 
-[15:47] home sweet home! it's 18 degrees warmer here than at hk this morning but there's no place like home
+<time>[15:47]</time> home sweet home! it's 18 degrees warmer here than at hk this morning but there's no place like home

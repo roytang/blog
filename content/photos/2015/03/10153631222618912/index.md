@@ -102,3 +102,6 @@ tags:
 - europe
 - europe2015
 ---
+
+Just a few random shots. I don't take too many pictures, refer to Ryan and Liz for more pics.
+Barcelona - Rome - Vatican City - Paris
