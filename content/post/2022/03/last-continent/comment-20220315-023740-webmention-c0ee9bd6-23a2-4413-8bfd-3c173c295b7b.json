@@ -1,0 +1,32 @@
+{
+  "id": "c0ee9bd6-23a2-4413-8bfd-3c173c295b7b",
+  "name": "Christine",
+  "url": "https://twitter.com/elf_follows",
+  "text": "Mentioned by https://brid.gy/post/twitter/roytang/1503561035738861570\n\n> Very efficient, indeed!",
+  "date": "2022-03-15 02:37:40",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/504dfe7f67de5e32e3bd11d755ef8c6c1539c67615473e8a4b59bbed278f2de0.jpg",
+  "source_url": "https://twitter.com/elf_follows/status/1503561035738861570/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christine",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/504dfe7f67de5e32e3bd11d755ef8c6c1539c67615473e8a4b59bbed278f2de0.jpg",
+      "url": "https://twitter.com/elf_follows"
+    },
+    "url": "https://twitter.com/elf_follows/status/1503561035738861570",
+    "published": "2022-03-15T02:37:40+00:00",
+    "wm-received": "2022-03-15T03:17:40Z",
+    "wm-id": 1363400,
+    "wm-source": "https://brid.gy/post/twitter/roytang/1503561035738861570",
+    "wm-target": "https://roytang.net/2022/03/last-continent/",
+    "content": {
+      "html": "Very efficient, indeed!\n<a class=\"u-mention\" href=\"https://roytang.net/2022/03/last-continent/\"></a>\n<a class=\"u-mention\" href=\"https://roytang.net/p/12wb6cgv/\"></a>",
+      "text": "Very efficient, indeed!"
+    },
+    "mention-of": "https://roytang.net/2022/03/last-continent/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}

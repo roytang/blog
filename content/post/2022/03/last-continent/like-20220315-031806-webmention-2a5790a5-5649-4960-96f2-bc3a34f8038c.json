@@ -1,0 +1,28 @@
+{
+  "id": "2a5790a5-5649-4960-96f2-bc3a34f8038c",
+  "name": "Christine",
+  "url": "https://twitter.com/elf_follows",
+  "text": "[Christine](https://twitter.com/elf_follows) [liked this](https://twitter.com/roytang/status/1503535412727656449#favorited-by-2251223190)",
+  "date": "2022-03-15 03:18:06",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/504dfe7f67de5e32e3bd11d755ef8c6c1539c67615473e8a4b59bbed278f2de0.jpg",
+  "source_url": "https://twitter.com/roytang/status/1503535412727656449#favorited-by-2251223190",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Christine",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/504dfe7f67de5e32e3bd11d755ef8c6c1539c67615473e8a4b59bbed278f2de0.jpg",
+      "url": "https://twitter.com/elf_follows"
+    },
+    "url": "https://twitter.com/roytang/status/1503535412727656449#favorited-by-2251223190",
+    "published": null,
+    "wm-received": "2022-03-15T03:18:06Z",
+    "wm-id": 1363401,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1503535412727656449/2251223190",
+    "wm-target": "https://roytang.net/2022/03/last-continent/",
+    "like-of": "https://roytang.net/2022/03/last-continent/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
