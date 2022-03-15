@@ -22,8 +22,8 @@ tags:
 
 Gah MTGO being really laggy and crashy on me in the middle of the Scars Online Prerelease &gt;.&lt;
 
-[20:28] Scars of Mirrodin PR sealed pool: http://imgur.com/WKxVC.jpg What do you think? Am I doing it wrong?
+<time>[20:28]</time> Scars of Mirrodin PR sealed pool: http://imgur.com/WKxVC.jpg What do you think? Am I doing it wrong?
 
-[20:45] Anyone else experiencing severe lag on MTGO today? Or is it just me?
+<time>[20:45]</time> Anyone else experiencing severe lag on MTGO today? Or is it just me?
 
-[21:39] it turns out that if you have precursor golem, it's a bad idea to grip of darkness an opposing golem artisan
+<time>[21:39]</time> it turns out that if you have precursor golem, it's a bad idea to grip of darkness an opposing golem artisan
