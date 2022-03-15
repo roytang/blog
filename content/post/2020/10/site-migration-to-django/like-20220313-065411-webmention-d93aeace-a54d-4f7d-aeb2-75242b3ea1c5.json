@@ -1,0 +1,37 @@
+{
+  "id": "d93aeace-a54d-4f7d-aeb2-75242b3ea1c5",
+  "name": "Robbi Nespu",
+  "url": "https://robbinespu.gitlab.io/",
+  "text": "<p>Mirror:</p>\n<ul><li>\n<a href=\"https://web.archive.org/web/20220313172037/https://roytang.net/2020/10/site-migration-to-django/\">\nWayback Machine\n</a>\n</li>\n</ul>",
+  "date": "2022-03-13 06:54:11",
+  "photo": "https://webmention.io/avatar/robbinespu.gitlab.io/6e26274b5791d929b75d7450e7a5c1f9e0d19134bb0c641705f0a1e41742e4d2.png",
+  "source_url": "https://robbinespu.gitlab.io/indieweb/220313065411/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Robbi Nespu",
+      "photo": "https://webmention.io/avatar/robbinespu.gitlab.io/6e26274b5791d929b75d7450e7a5c1f9e0d19134bb0c641705f0a1e41742e4d2.png",
+      "url": "https://robbinespu.gitlab.io/"
+    },
+    "url": "https://robbinespu.gitlab.io/indieweb/220313065411/",
+    "published": "2022-03-13T06:54:11+08:00",
+    "wm-received": "2022-03-13T17:39:13Z",
+    "wm-id": 1362776,
+    "wm-source": "https://robbinespu.gitlab.io/indieweb/220313065411/",
+    "wm-target": "https://roytang.net/2020/10/site-migration-to-django/",
+    "name": "\ud83d\udc4d Liked:\nhttps://roytang.net/2020/10/site-migration-to-django/",
+    "summary": {
+      "content-type": "text/plain",
+      "value": "tl;dr: Hugo to Django"
+    },
+    "content": {
+      "html": "<p>Mirror:</p>\n<ul><li>\n<a href=\"https://web.archive.org/web/20220313172037/https://roytang.net/2020/10/site-migration-to-django/\">\nWayback Machine\n</a>\n</li>\n</ul>",
+      "text": "Mirror:\n\n\nWayback Machine"
+    },
+    "like-of": "https://roytang.net/2020/10/site-migration-to-django/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
