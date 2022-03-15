@@ -1,12 +1,17 @@
 ---
-title: "Books: The Last Continent by Terry Pratchett (Discworld #22)"
 date: 2022-03-15
+reviews:
+- description: 'Discworld #22'
+  media: books
+  title: The Last Continent by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107957829530695112
+- type: twitter
+  url: https://twitter.com/roytang/status/1503535412727656449/
 tags:
 - books
-reviews:
-- media: books
-  title: The Last Continent by Terry Pratchett
-  description: "Discworld #22"
+title: 'Books: The Last Continent by Terry Pratchett (Discworld #22)'
 ---
 
 > "Why did he have to go to prison?"
