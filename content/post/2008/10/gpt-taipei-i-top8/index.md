@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-10-11 21:11:49
+location: robinsons_galleria
 tags:
 - mtg
 title: GPT Taipei I *Top8*

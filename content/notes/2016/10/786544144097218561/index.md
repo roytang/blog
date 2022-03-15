@@ -1,5 +1,5 @@
 ---
-date: 2016-10-13 12:28:31+00:00
+date: 2016-10-13 12:28:31
 repost_source:
   name: Kotaku
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/786544144097218561/
+tags:
+- trailers
 title: ''
 ---
 

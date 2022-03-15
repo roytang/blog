@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1182329650220957697/
+tags:
+- lyrics
 ---
 
 We grew up way too fast 

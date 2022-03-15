@@ -2,6 +2,7 @@
 author: roy
 categories: []
 date: 2007-10-13 02:00:22
+location: robinsons_galleria
 tags:
 - mtg
 title: Ravnica's Last Hurrah

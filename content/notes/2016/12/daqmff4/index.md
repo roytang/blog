@@ -1,19 +1,21 @@
 ---
-date: 2016-12-03 16:15:24
+date: 2016-12-03 16:15:24+00:00
+dontinlinephotos: true
 reply_to:
   label: '''I am a new casual player (haven''t spent any money) and the highest rank
     I''ve ever reached is 18. I don''t know every card by heart or understand all
     the deck types. I''ve tried reading tips and watching videos but they seem to
     be either below my skill level or way above it.'' on /r/hearthstone'
-  name: ''
+  name: dougbubbletrousers69
   type: reddit
-  url: https://reddit.com/r/hearthstone/comments/5g9mc8/i_am_a_new_casual_player_havent_spent_any_money/
+  url: https://www.reddit.com/r/hearthstone/comments/5g9mc8/i_am_a_new_casual_player_havent_spent_any_money/
 source: reddit
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/hearthstone/comments/5g9mc8/i_am_a_new_casual_player_havent_spent_any_money/daqmff4/
 tags:
 - hearthstone
+- replies
 ---
 
 If you are unwilling to spend money, then it is simply time and patience. Time and patience will lead to familiarity and better play and a larger collection.
@@ -32,4 +34,4 @@ Find a budget deck you like and start playing. That 800 dust one you mentioned m
 
 If you used to play MTG, you should be able to recognize the same learning curve - MTG has way, way, way more cards than HS, even just in Standard, and you don't need to be familiar with all of them, but if you play often enough you start to recognize the really important ones. Identifying aggro decks should be relatively easy - they come out early with a bunch of creatures and prefer to hit you in the face yes? 
 
-But in summary
+But in summary: time and patience. There is no secret.
