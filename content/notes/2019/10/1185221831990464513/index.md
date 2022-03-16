@@ -1,9 +1,12 @@
 ---
-date: 2019-10-18 15:51:19+00:00
+date: 2019-10-18 15:51:19
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1185221831990464513/
+tags:
+- discworld
+- quotes
 title: ''
 ---
 
