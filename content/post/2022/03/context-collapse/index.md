@@ -1,8 +1,13 @@
 ---
-title: "Context Collapse"
-date: 2022-03-16T22:36:19+08:00
+date: 2022-03-16 14:36:19
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107966876862689152
+- type: twitter
+  url: https://twitter.com/roytang/status/1504114431185154051/
 tags:
 - tech-life
+title: Context Collapse
 ---
 
 I recently learned about the term "context collapse". From [Wikipedia](https://en.wikipedia.org/wiki/Context_collapse):
