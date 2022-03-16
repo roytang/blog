@@ -25,6 +25,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/155792137290
 tags:
 - ps3
+- games
 ---
 
 Yay, first platinum! http://bit.ly/3fZXjd (ambabaw) #ps3
