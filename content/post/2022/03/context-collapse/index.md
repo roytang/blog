@@ -54,4 +54,4 @@ This is some kind of reverse context collapse where you only view certain people
 
 ---
 
-The internet might be a better place if we could all feel comfortable being ourselves online.
+The internet might be a better place if we could all feel comfortable being ourselves online. Perhaps that starts with all of us being kinder to other internet strangers by default.
