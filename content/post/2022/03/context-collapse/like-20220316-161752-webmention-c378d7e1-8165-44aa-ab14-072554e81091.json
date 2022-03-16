@@ -1,0 +1,28 @@
+{
+  "id": "c378d7e1-8165-44aa-ab14-072554e81091",
+  "name": "Dominik Schwind",
+  "url": "https://twitter.com/dominik",
+  "text": "[Dominik Schwind](https://twitter.com/dominik) [liked this](https://twitter.com/roytang/status/1504114431185154051#favorited-by-2623)",
+  "date": "2022-03-16 16:17:52",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/5dc815e08fbdfbecf32a4fafc0c02e86540b81417f7ea12c507c9f6e05bb753b.jpg",
+  "source_url": "https://twitter.com/roytang/status/1504114431185154051#favorited-by-2623",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/5dc815e08fbdfbecf32a4fafc0c02e86540b81417f7ea12c507c9f6e05bb753b.jpg",
+      "url": "https://twitter.com/dominik"
+    },
+    "url": "https://twitter.com/roytang/status/1504114431185154051#favorited-by-2623",
+    "published": null,
+    "wm-received": "2022-03-16T16:17:52Z",
+    "wm-id": 1364257,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1504114431185154051/2623",
+    "wm-target": "https://roytang.net/2022/03/context-collapse/",
+    "like-of": "https://roytang.net/2022/03/context-collapse/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
