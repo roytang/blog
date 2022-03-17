@@ -1,10 +1,15 @@
 ---
-title: "Names"
-date: 2022-03-17T14:40:26+08:00
+date: 2022-03-17 06:40:26
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107971765871180037
+- type: twitter
+  url: https://twitter.com/roytang/status/1504427332022730757/
 tags:
 - tech-life
 - software-development
-dontinlinephotos: true
+title: Names
 ---
 
 Interesting [Twitter thread about naming conventions in Southeast Asia](https://twitter.com/Hung_TT_Nguyen/status/1503936865916919813):
@@ -40,4 +45,3 @@ The same company had an office in Northeast China, and the dev team there were l
 ---
 
 Speaking of Chinese names, I wasn't really raised under Chinese traditions or anything like that, but when I was young the father's side did assign me a Chinese name. I believe it was romanized as Tang Lun Di, but nobody I ask seems to be able to tell how that should be written out in Chinese characters! I'll update this post when I figure this out.
-
