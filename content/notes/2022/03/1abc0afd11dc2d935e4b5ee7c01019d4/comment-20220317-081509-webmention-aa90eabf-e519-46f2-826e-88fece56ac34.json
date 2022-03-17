@@ -1,0 +1,32 @@
+{
+  "id": "aa90eabf-e519-46f2-826e-88fece56ac34",
+  "name": "Roy Tang",
+  "url": "https://mastodon.technology/@roytang",
+  "text": "<p><span class=\"h-card\"><a href=\"https://layer8.space/@drmast\" class=\"u-url\">@<span>drmast</span></a></span> a few days. Less than a week.</p>",
+  "date": "2022-03-17 08:15:09",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6ff5726f9a6dfeb42b12211a9ffdfa71a8c0197fc8fb9764f6759cf902ec6e9c.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107970881771839460",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Roy Tang",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6ff5726f9a6dfeb42b12211a9ffdfa71a8c0197fc8fb9764f6759cf902ec6e9c.jpg",
+      "url": "https://mastodon.technology/@roytang"
+    },
+    "url": "https://mastodon.technology/@roytang/107970881771839460",
+    "published": "2022-03-17T08:15:09",
+    "wm-received": "2022-03-17T10:50:53Z",
+    "wm-id": 1364688,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107970825303816763/107970881771839460",
+    "wm-target": "https://roytang.net/2022/03/1abc0afd11dc2d935e4b5ee7c01019d4/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://layer8.space/@drmast\" class=\"u-url\">@<span>drmast</span></a></span> a few days. Less than a week.</p>",
+      "text": "@drmast a few days. Less than a week."
+    },
+    "in-reply-to": "https://roytang.net/2022/03/1abc0afd11dc2d935e4b5ee7c01019d4/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

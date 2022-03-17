@@ -1,0 +1,32 @@
+{
+  "id": "0737e921-3ca8-4a5b-8ac7-5155677222cb",
+  "name": "DrMast",
+  "url": "https://layer8.space/@drmast",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> How long did it take to get that?<br />I requested mine quite a while back, but nothing ever came of it.</p>",
+  "date": "2022-03-17 08:13:06",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/34c46abba0088c2638dcd7118c86064c61f4b20ef10899aeb657a1ff786e6bff.jpg",
+  "source_url": "https://layer8.space/@drmast/107970873681681019",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "DrMast",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/34c46abba0088c2638dcd7118c86064c61f4b20ef10899aeb657a1ff786e6bff.jpg",
+      "url": "https://layer8.space/@drmast"
+    },
+    "url": "https://layer8.space/@drmast/107970873681681019",
+    "published": "2022-03-17T08:13:06",
+    "wm-received": "2022-03-17T10:51:18Z",
+    "wm-id": 1364689,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107970825303816763/107970873717662738",
+    "wm-target": "https://roytang.net/2022/03/1abc0afd11dc2d935e4b5ee7c01019d4/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> How long did it take to get that?<br />I requested mine quite a while back, but nothing ever came of it.</p>",
+      "text": "@roytang How long did it take to get that?\nI requested mine quite a while back, but nothing ever came of it."
+    },
+    "in-reply-to": "https://roytang.net/2022/03/1abc0afd11dc2d935e4b5ee7c01019d4/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
