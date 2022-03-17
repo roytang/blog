@@ -10,6 +10,7 @@ tags:
 - mtgneo
 - limited
 - magicarena
+- limitedrecap
 title: My Neon Dynasty Limited Recap
 ---
 

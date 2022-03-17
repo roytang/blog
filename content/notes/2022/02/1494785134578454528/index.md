@@ -10,6 +10,7 @@ syndicated:
 tags:
 - MagicArena
 - mtgarenastats
+- mtgcrimson
 ---
 
 New #MagicArena stats email dropped! 
