@@ -62,8 +62,8 @@ Notes:
 
 - win rate goes down significantly for decks with splash color(s)
 - by Main Color:
-    - winningest for me was UB, by a clear margin. This was the exploit format, which I do remember enjoying a lot.
-    - BW had the most number of events, most probably due to always being tempted by removal. It was however, my second-worst performing archetype
+    - winningest for me was UB, by a clear margin. This was the exploit archetype, which I do remember enjoying a lot.
+    - BW (Lifegain) had the most number of events, most probably due to always being tempted by removal. It was however, my second-worst performing archetype. Worst archetype was RG (Werewolves) by a fair margin.
     - color pairs / archetypes I never got to try out were BG and UR
 - by Color:
     - unsurprisingly reinforcing the above observations: Blue and Black had the highest win rates. Green easily the worst.
