@@ -16,7 +16,7 @@ Crimson Vow limited stats!
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
 | Total | 21 | 80 | 57 | 137 | 0.5839 |
-| With splash | 18 | 18 | 36 | 0.5 |
+| With splash | 6 | 18 | 18 | 36 | 0.5 |
 | |
 | *By Main Colors* |
 | UW | 2 | 7 | 6 | 13 | 0.5385 |
