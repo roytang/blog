@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2006-10-21 19:43:21
+location: robinsons_galleria
 tags:
 - mtg
 title: PTQ -- Geneva

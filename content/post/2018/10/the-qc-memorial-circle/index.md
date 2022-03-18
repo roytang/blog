@@ -2,6 +2,7 @@
 author: roy
 categories: []
 date: 2018-10-21 01:00:34
+location: 4b6a8f56f964a520a7d82be3
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/179261105400/the-qc-memorial-circle

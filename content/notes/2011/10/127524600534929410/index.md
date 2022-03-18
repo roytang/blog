@@ -1,10 +1,14 @@
 ---
-date: 2011-10-21 23:20:08+00:00
+date: 2011-10-21 23:20:08
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roy_mtg/statuses/127524600534929410/
-title: ''
+  url: https://twitter.com/roy_mtg/status/127524600534929410/
+- type: twitter
+  url: https://twitter.com/roy_mtg/status/127533532053643264/
 ---
 
 My first innistrad draft: https://i.imgur.com/wKYc5.jpg
+
+<time>[07:55]</time> Sigh, I often lose to poor keeps

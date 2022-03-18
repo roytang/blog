@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-10-21 13:30:40
+location: robinsons_galleria
 tags:
 - mtg
 title: GPT Taipei II

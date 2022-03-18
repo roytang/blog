@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155014993883912
 tags:
 - gaming
+- games
 title: ''
 ---
 
