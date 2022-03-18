@@ -1,5 +1,5 @@
 ---
-date: 2022-03-14 04:26:48
+date: 2021-12-07
 tags:
 - mtg
 - mtgcrimson
