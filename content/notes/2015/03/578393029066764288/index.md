@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/578393029066764288/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153646645253912
+tags:
+- europe2015
 ---
 
 Visiting Europe makes you appreciate how inexpensive food in the Philippines is

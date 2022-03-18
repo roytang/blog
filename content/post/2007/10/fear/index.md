@@ -2,6 +2,7 @@
 author: Roy
 categories: []
 date: 2007-10-20 11:44:25
+location: robinsons_galleria
 title: Fear
 type: post
 url: /2007/10/fear/

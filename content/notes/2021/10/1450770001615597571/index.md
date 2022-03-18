@@ -16,7 +16,7 @@ tags:
 
 Streaming some Midnight Hunt limited episode 3! https://www.twitch.tv/twitchyroy #mtg #magicarena #mtgmidnight #twitch
 
-[23:07] I drafted what I thought was a decent UW deck for this one, but didn't get all the way there. At least I didn't scrub out!
+<time>[23:07]</time> I drafted what I thought was a decent UW deck for this one, but didn't get all the way there. At least I didn't scrub out!
 
 
 

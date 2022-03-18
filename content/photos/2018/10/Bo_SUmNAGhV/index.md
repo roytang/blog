@@ -13,5 +13,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1052141501231362048/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1052134323468599296/
-tags: []
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/9pioj3/quezon_memorial_shrine/
+tags:
+- philippines
+- reddit_submission
+title: Quezon Memorial Shrine
 ---

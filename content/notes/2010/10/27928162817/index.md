@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/27928162817/
 - type: plurk
   url: https://plurk.com/p/8cs610
+tags:
+- lyrics
 ---
 
 Is this the real life? Is this just fantasy?
