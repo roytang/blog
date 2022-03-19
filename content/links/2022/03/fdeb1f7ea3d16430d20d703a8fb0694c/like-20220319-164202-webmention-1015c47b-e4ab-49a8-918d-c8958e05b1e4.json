@@ -1,0 +1,28 @@
+{
+  "id": "1015c47b-e4ab-49a8-918d-c8958e05b1e4",
+  "name": "Flarnie",
+  "url": "https://mastodon.technology/@Flarnie",
+  "text": "[Flarnie](https://mastodon.technology/@Flarnie) [liked this](https://mastodon.technology/@roytang/107983210129355575#favorited-by-107049359476778678)",
+  "date": "2022-03-19 16:42:02",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+  "source_url": "https://mastodon.technology/@roytang/107983210129355575#favorited-by-107049359476778678",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Flarnie",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
+      "url": "https://mastodon.technology/@Flarnie"
+    },
+    "url": "https://mastodon.technology/@roytang/107983210129355575#favorited-by-107049359476778678",
+    "published": null,
+    "wm-received": "2022-03-19T16:42:02Z",
+    "wm-id": 1365781,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/107983210129355575/107049359476778678",
+    "wm-target": "https://roytang.net/2022/03/fdeb1f7ea3d16430d20d703a8fb0694c/",
+    "like-of": "https://roytang.net/2022/03/fdeb1f7ea3d16430d20d703a8fb0694c/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
