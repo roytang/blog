@@ -26,7 +26,7 @@ When my dad and I [had to check in at the hospital last year](/2021/10/covid-exp
 
 People who create software also really need to be cognizant of catering to different naming conventions. Sometimes something as simple as name lengths can exclude people from different cultures. Case in point was this tweet I found a while back:
 
-{{ photos paymentform }}
+{{< photos paymentform >}}
 
 *(Original tweet is [here](https://twitter.com/sqiouyilu/status/1495971335578832898))*
 
