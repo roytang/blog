@@ -32,6 +32,7 @@ title: Weeknotes 2022-03-20
 - Elizabeth Ayer tells us that instead of [asking for forgiveness, we can radiate intent](https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3)
 - [Interview with Matt Mullenweg](https://www.theverge.com/2022/3/15/22977857/wordpress-tumblr-simplenote-internet-automattic-matt-mullenweg-interview). Covers Wordpress, Tumblr, the open web, web3/NFTs, and keeping the internet weird
 - [Wordle, 15 Million Tweets Later](https://observablehq.com/@rlesser/wordle-twitter-exploration) by Robert Lesser: Statistical analysis of publicly available Wordle play data
+- [Bizarro World](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/): the story of a man who accidentally found out his wife was a world-class Tetris player. It wasn't a secret or anything, she was just a casual and they randomly found out that she was good enough to beat the world record. Article is from 2007.
 
 Not a lot today. Visit the [Links page](/links/) for more links of interest.
 
@@ -39,6 +40,7 @@ Not a lot today. Visit the [Links page](/links/) for more links of interest.
 
 - The first half of this week felt productive and with a decent sleep cycle. Then things broke around Thursday, when we had to go out early Thursday for a medical errand. I've been feeling tired since then. 
 - The weather has also been weird, with scorching afternoons punctuated by occasional rains, leading to increased humidity.
+- Since I always want backups of all my data, I requested an export of my data from Amazon a couple of weeks ago and the results came back this week, and [it came in more than a hundred itty-bitty pieces](/2022/03/1abc0afd11dc2d935e4b5ee7c01019d4/).
 - **Gaming**:
     - Ongoing: 
         - **Tales of Vesperia** (Steam): Second run still ongoing, currently at the start of Act III.
