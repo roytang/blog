@@ -24,6 +24,8 @@ title: Weeknotes 2022-03-20
 - Putin's invasion of Ukraine is now in its 4th week. 
 - PH: The first comelec-sponsored presidential debates were last night, with one notable absence. I didn't feel the need to watch the debates this year ([unlike in 2016 where I posted live commentary](/tags/pilipinasdebates2016/)). I feel like the choices are much more clear-cut for this election and watching them would be a waste of time for me personally. It's good for the undecideds though.
 - PH/Covid: Cases remain low, but we no longer have daily case updates from the DOH. 
+- PH/Politics: I spent a good chunk of the evening watching [the livestream of the Leni-Kiko rally in Pasig](https://www.youtube.com/watch?v=2jq-bBPPuzc). Reportedly more than 100,000 people flooded the streets of Ortigas. I wish I could have been there. The energy of the people in the rally is enough to give me a bit of hope for the future.
+
   
 ### Links of Interest
 
@@ -56,7 +58,6 @@ Not a lot today. Visit the [Links page](/links/) for more links of interest.
 - **Reading**: Finished reading [The Last Continent by Terry Pratchett](/2022/03/last-continent/). I was in the mood for more Discworld afterwards so I also started **Wyrd Sisters**, which I think I haven't read before, but it feels a bit familiar so I can't be sure until I'm a decent part of the way through.
 - **Trivia**: Still doing our regular Discord crossword sessions, sometimes we record and upload to [the YouTube playlist](https://www.youtube.com/playlist?list=PL5c1J8DcHGjdqIys0p6qboROtUX7mKTK5). (some Filipino slips in here and there, but most of it should be in English.) Feel free to like, subscribe and all that jazz.
 - Aside from the media posts, I also managed to write a few words about [Context Collapse](/2022/03/context-collapse/) and [Names](/2022/03/names/).
-- Today: I spent a good chunk of the evening watching [the livestream of the Leni-Kiko rally in Pasig](https://www.youtube.com/watch?v=2jq-bBPPuzc). The energy of the people in the rally is enough to give me a bit of hope for the future.
 
 ### This coming week:
 
