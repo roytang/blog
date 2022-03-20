@@ -1,13 +1,18 @@
 ---
-date: 2022-03-20T23:00:00+08:00
+date: 2022-03-20 15:00:00
+resources:
+- src: 20220317_182936.jpg
+  title: A mural along Tandang Sora Avenue
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107989525120743897
+- type: twitter
+  url: https://twitter.com/roytang/status/1505563929636122627/
 tags:
 - weeknotes
 - philippines
 - covid19
 title: Weeknotes 2022-03-20
-resources:
-- src: 20220317_182936.jpg
-  title: A mural along Tandang Sora Avenue
 ---
 
 ### A Quote
