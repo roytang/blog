@@ -2,8 +2,8 @@
 albums:
 - instagram
 - food
-date: 2016-10-26 05:45:07-07:00
-location: ''
+date: 2016-10-26 12:45:07
+location: 4c6c07711fb2a143fe44fae6
 source: instagram
 syndicated:
 - type: instagram
