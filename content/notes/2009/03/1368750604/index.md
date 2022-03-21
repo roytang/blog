@@ -17,4 +17,4 @@ tags:
 
 #mtg drafting again. crappy first pack
 
-[23:53] internet crapped out and I lost 2 rounds of draft before I could fix it =/
+<time>[23:53]</time> internet crapped out and I lost 2 rounds of draft before I could fix it =/

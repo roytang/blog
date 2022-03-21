@@ -15,4 +15,4 @@ title: ''
 
 Just spent an hour trying to figure out why my Django webapp suddenly wasn't working because apparently if you accidentally delete an `__init__.py` you're gonna have a bad time.
 
-[01:28] It took me a while because the issue only happened on the live server and not on local. Django only complained when it was run via WSGI and nothing was showing up in the logs.
+<time>[01:28]</time> It took me a while because the issue only happened on the live server and not on local. Django only complained when it was run via WSGI and nothing was showing up in the logs.
