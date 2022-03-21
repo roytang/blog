@@ -1,0 +1,28 @@
+{
+  "id": "0c8db735-44cb-4951-9a7d-c9ae0131fef2",
+  "name": "chia",
+  "url": "https://twitter.com/hotemogf",
+  "text": "[chia](https://twitter.com/hotemogf) [liked this](https://twitter.com/roytang/status/1505563929636122627#favorited-by-2215724593)",
+  "date": "2022-03-20 17:48:47",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/c22855c9997bc3c56e7d2b6a6eb26f8fd823fd45cd1ac457375f8c6a75fc240b.jpg",
+  "source_url": "https://twitter.com/roytang/status/1505563929636122627#favorited-by-2215724593",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "chia",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/c22855c9997bc3c56e7d2b6a6eb26f8fd823fd45cd1ac457375f8c6a75fc240b.jpg",
+      "url": "https://twitter.com/hotemogf"
+    },
+    "url": "https://twitter.com/roytang/status/1505563929636122627#favorited-by-2215724593",
+    "published": null,
+    "wm-received": "2022-03-20T17:48:47Z",
+    "wm-id": 1366174,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1505563929636122627/2215724593",
+    "wm-target": "https://roytang.net/2022/03/weeknotes-03-20/",
+    "like-of": "https://roytang.net/2022/03/weeknotes-03-20/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
