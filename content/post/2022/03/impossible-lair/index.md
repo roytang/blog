@@ -1,31 +1,38 @@
 ---
-title: "Yooka-Laylee and the Impossible Lair"
-date: 2022-03-21T15:13:26+08:00
-tags:
-- gaming
-- games
-reviews:
-- media: games
-  title: Yooka-Laylee and the Impossible Lair
-  description: Fun little Donkey Kong Country-like platformer with a surprisingly difficult final stage
-  rating: 4.0
+date: 2022-03-21 07:13:26
 dontinlinephotos: true
 headerResource: ylheader.png
 resources:
 - src: ylheader.png
-  title: ""
+  title: ''
 - src: cheevos.png
-  title: "Achievements complete!"
+  title: Achievements complete!
 - src: 20220308000948_1.jpg
-  title: "First boss fight in The Impossible Lair"
+  title: First boss fight in The Impossible Lair
 - src: 20220320202619_1.jpg
-  title: "I actually went through most of the game not having any idea what kind of animal Yooka was."
+  title: I actually went through most of the game not having any idea what kind of
+    animal Yooka was.
 - src: 20220320203135_1.jpg
-  title: "Final game stats. That last one is number of Impossible Lair attempts."
+  title: Final game stats. That last one is number of Impossible Lair attempts.
 - src: 20220321151227_1.jpg
-  title: "One of the 2d platformer stages"
+  title: One of the 2d platformer stages
 - src: 20220321154600_1.jpg
-  title: "One attempt at the true Impossible Lair. Never again!"
+  title: One attempt at the true Impossible Lair. Never again!
+reviews:
+- description: Fun little Donkey Kong Country-like platformer with a surprisingly
+    difficult final stage
+  media: games
+  rating: 4.0
+  title: Yooka-Laylee and the Impossible Lair
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107994355922696910
+- type: twitter
+  url: https://twitter.com/roytang/status/1505873105683910662/
+tags:
+- gaming
+- games
+title: Yooka-Laylee and the Impossible Lair
 ---
 
 Yesterday I finished Yooka-Laylee and the Impossible Lair, a platformer released on Steam in 2019. I started playing this one in mid-February, mostly because I wanted a shorter non-RPG game to play alongside **Tales of Vesperia**, and I had this in the backlog for a while.
