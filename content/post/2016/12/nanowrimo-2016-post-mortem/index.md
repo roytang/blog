@@ -49,5 +49,7 @@ All in all, I'm happy with the experience, despite not being entirely happy with
 
 I **will** attempt to write more in 2017, but maybe not yet on revising this particular work. I have some other ideas I'm thinking of visiting, not necessarily for nanowrimo. I don't know if this will lead anywhere -- I still have no idea if I could really write fiction for a living for example -- but I think at least trying to write more will be a worthy endeavor to explore.
 
+Related: [Nanowrimo 2016 running log](/2016/11/793480448571617280/)
+
  [1]: http://nanowrimo.org
  [2]: http://roytang.net/wp-content/uploads/2016/11/dailynano.png
