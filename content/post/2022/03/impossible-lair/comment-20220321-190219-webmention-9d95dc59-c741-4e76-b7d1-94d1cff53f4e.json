@@ -1,0 +1,32 @@
+{
+  "id": "9d95dc59-c741-4e76-b7d1-94d1cff53f4e",
+  "name": "Wouter Groeneveld",
+  "url": "https://chat.brainbaking.com/users/wouter",
+  "text": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> nice write-up! Did you play Tropical Freeze? Some of those levels are quite hard I heard.",
+  "date": "2022-03-21 19:02:19",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+  "source_url": "https://chat.brainbaking.com/objects/206f3ab4-caa9-4b2b-bac3-1833195f9225",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/52527f2c9bd24d262968f27fb38b8da5a15c4412d841ab43dc55199cf26d873e.jpg",
+      "url": "https://chat.brainbaking.com/users/wouter"
+    },
+    "url": "https://chat.brainbaking.com/objects/206f3ab4-caa9-4b2b-bac3-1833195f9225",
+    "published": "2022-03-21T19:02:19",
+    "wm-received": "2022-03-21T19:15:55Z",
+    "wm-id": 1367080,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/107994355922696910/107996075821738435",
+    "wm-target": "https://roytang.net/2022/03/impossible-lair/",
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> nice write-up! Did you play Tropical Freeze? Some of those levels are quite hard I heard.",
+      "text": "@roytang nice write-up! Did you play Tropical Freeze? Some of those levels are quite hard I heard."
+    },
+    "in-reply-to": "https://roytang.net/2022/03/impossible-lair/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
