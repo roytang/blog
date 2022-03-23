@@ -2,6 +2,7 @@
 author: Roy
 categories: []
 date: 2007-03-24 03:07:13
+location: robinsons_galleria
 tags:
 - mtg
 title: So Many Bad Plays
@@ -87,4 +88,4 @@ This guy somehow managed to draw 3 castigates in each game that he won. I won th
 
 I take the well-deserved loss and drop from the tournament, quite tired. A really bad result for me after more than a month of cutting back on Magic tournaments, not a very good comeback. However, I think the playtesting session was a success, as I found quite a few weaknesses in the deck and also found that I like playing it, it's quite fun. So, I will probably tweak this deck and continue to play it in Standard tournaments for the time being. I probably won't play in Block Constructed until FS comes out, so is my deck for April.
 
-In the next part, I will pick apart the deck and see what I can improve. Stay tuned! 
+In the next part, I will pick apart the deck and see what I can improve. Stay tuned!
