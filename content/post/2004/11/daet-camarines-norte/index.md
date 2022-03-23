@@ -2,6 +2,7 @@
 author: Roy
 categories: []
 date: 2004-11-03 02:37:53
+location: daet
 source: roywantsmeat
 syndicated:
 - type: blogger

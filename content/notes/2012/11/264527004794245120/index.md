@@ -13,6 +13,6 @@ title: ''
 
 Quite possibly the most ridiculous rakdos draft ever: what do I cut?!?
 
-[08:40] Well okay, I could have used a couple more Gore House Chain guys or whatever they're called
+<time>[08:40]</time> Well okay, I could have used a couple more Gore House Chain guys or whatever they're called
 
-[11:00] What is best in life? Traitorous Instinct on an opponent's Wild Beastmaster, that's what
+<time>[11:00]</time> What is best in life? Traitorous Instinct on an opponent's Wild Beastmaster, that's what
