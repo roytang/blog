@@ -1,5 +1,6 @@
 ---
-date: 2015-11-06 04:29:18
+date: 2015-11-06 04:29:18+00:00
+dontinlinephotos: true
 source: reddit
 syndicated:
 - type: reddit
@@ -9,7 +10,7 @@ tags:
 - reddit_submission
 ---
 
-#### Posted on r/buildapc: [Is a GTX970 worth it if I dont plan to play at ridiculously high resolutions or anything like 4k gaming?](https://reddit.com/r/buildapc/comments/3rq30u/is_a_gtx970_worth_it_if_i_dont_plan_to_play_at/)
+#### Posted on r/buildapc: [Is a GTX970 worth it if I dont plan to play at ridiculously high resolutions or anything like 4k gaming?](https://www.reddit.com/r/buildapc/comments/3rq30u/is_a_gtx970_worth_it_if_i_dont_plan_to_play_at/)
 
 Trying to decide between splurging on a GTX970 or just settling for a GTX750Ti for now and possibly upgrading in the future. I'm not one of those guys who plans to play at really high resolutions or need to have ultra settings all the time, so I'm not sure if the high end one will be worth it. Thoughts?
 

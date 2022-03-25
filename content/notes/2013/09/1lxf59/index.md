@@ -1,5 +1,6 @@
 ---
 date: 2013-09-07 19:03:26+00:00
+dontinlinephotos: true
 source: reddit
 syndicated:
 - type: reddit

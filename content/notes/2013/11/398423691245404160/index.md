@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/user/405004/checkin/527b849811d250b725b9b4a2?s=_lpxmiEGdawbhjbvmkgPwc1uEmI&ref=tw
 - type: foursquare
   url: https://www.swarmapp.com/user/405004/checkin/527b849811d250b725b9b4a2?s=_lpxmiEGdawbhjbvmkgPwc1uEmI&ref=tw
+tags:
+- quiznight
 ---
 
 I'm at Amici (Mandaluyong City, Metro Manila) http://4sq.com/1iORvP0

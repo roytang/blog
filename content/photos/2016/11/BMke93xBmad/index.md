@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-11-08 17:56:14-07:00
+date: 2016-11-09 00:56:14
 location: ''
 source: instagram
 syndicated:
@@ -16,15 +16,23 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155074164178912:0
 tags:
 - sketchdaily
+- lyrics
 ---
 
 At home
+
 Drawing pictures
+
 Of mountain tops
+
 With him on top
+
 Lemon yellow sun
+
 Arms raised in a V
+
 And the dead lay
+
 In pools of maroon below
 
 #sketchdaily
