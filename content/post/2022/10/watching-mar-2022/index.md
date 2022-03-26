@@ -1,5 +1,5 @@
 ---
-date: 2022-03-26 15:00:00+08:00
+date: 2022-03-26 07:00:00
 dontinlinephotos: true
 featuredResource:
   filename: adam2.png
@@ -44,6 +44,11 @@ reviews:
   rating: 3.0
   title: Oblivion
   year: 2013
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108022046412138434
+- type: twitter
+  url: https://twitter.com/roytang/status/1507645290488414213/
 tags:
 - watching-lately
 - movies
