@@ -1,6 +1,8 @@
 ---
 date: 2022-03-26 15:00:00+08:00
 dontinlinephotos: true
+featuredResource:
+  filename: adam2.png
 reviews:
 - date: 2022-03-18
   description: Pretty good cold war spy film, but needs focused attention so as not
