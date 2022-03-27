@@ -1,8 +1,13 @@
 ---
-date: 2022-03-27T19:00:00+08:00
+date: 2022-03-27 11:00:00
 featuredResource:
-  filename:  01_20220327_171340.jpg
+  filename: 01_20220327_171340.jpg
   photo: /2022/03/santuario-leni-kiko/
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108028758697859785
+- type: twitter
+  url: https://twitter.com/roytang/status/1508074868545269760/
 tags:
 - weeknotes
 - philippines
