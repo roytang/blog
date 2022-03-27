@@ -4,7 +4,7 @@ link:
   source: web
   source_url: https://roytang.net
   text: Those HTML Attributes You Never Use — Smashing Magazine
-  url: https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/?ref=refind
+  url: https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/
 source: web
 syndicated:
 - type: mastodon

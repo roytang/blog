@@ -4,7 +4,7 @@ link:
   source: web
   source_url: https://roytang.net
   text: 🟥 "Time spent on app" is not a metric of success
-  url: https://mattruby.substack.com/p/time-spent-on-app-and-what-its-doing?s=r
+  url: https://mattruby.substack.com/p/time-spent-on-app-and-what-its-doing
 source: web
 syndicated:
 - type: mastodon
