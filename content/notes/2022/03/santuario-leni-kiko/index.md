@@ -1,9 +1,14 @@
 ---
-title: "The nearby Santuario supports #LeniKiko2022"
-date: 2022-03-27T17:28:14+08:00
+date: 2022-03-27 09:28:14
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108027837340823983
+- type: twitter
+  url: https://twitter.com/roytang/status/1508015934103240704/
 tags:
 - philippines
 - politics
+title: 'The nearby Santuario supports #LeniKiko2022'
 ---
 
 (Click through for more photos)
