@@ -11,4 +11,6 @@ tags:
 title: 'The nearby Santuario supports #LeniKiko2022'
 ---
 
+For a few weeks now, the nearby Santuario which I regularly walk by has had a series of signs/banners/tarps promoting the candidacy of #LeniKiko2022
+
 (Click through for more photos)
