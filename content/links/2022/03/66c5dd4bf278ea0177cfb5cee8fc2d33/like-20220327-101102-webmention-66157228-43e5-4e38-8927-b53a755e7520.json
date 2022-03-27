@@ -1,0 +1,28 @@
+{
+  "id": "66157228-43e5-4e38-8927-b53a755e7520",
+  "name": "La Scimmia di Mare",
+  "url": "https://mastodon.uno/@Madmonkey",
+  "text": "[La Scimmia di Mare](https://mastodon.uno/@Madmonkey) [liked this](https://mastodon.technology/@roytang/108027461253616186#favorited-by-327768)",
+  "date": "2022-03-27 10:11:02",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/50b4020d4fc0ffa3b676dd821be028c247e8b2f997f27021b5a0c48ce475eecf.png",
+  "source_url": "https://mastodon.technology/@roytang/108027461253616186#favorited-by-327768",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "La Scimmia di Mare",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/50b4020d4fc0ffa3b676dd821be028c247e8b2f997f27021b5a0c48ce475eecf.png",
+      "url": "https://mastodon.uno/@Madmonkey"
+    },
+    "url": "https://mastodon.technology/@roytang/108027461253616186#favorited-by-327768",
+    "published": null,
+    "wm-received": "2022-03-27T10:11:02Z",
+    "wm-id": 1369903,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108027461253616186/327768",
+    "wm-target": "https://roytang.net/2022/03/66c5dd4bf278ea0177cfb5cee8fc2d33/",
+    "like-of": "https://roytang.net/2022/03/66c5dd4bf278ea0177cfb5cee8fc2d33/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

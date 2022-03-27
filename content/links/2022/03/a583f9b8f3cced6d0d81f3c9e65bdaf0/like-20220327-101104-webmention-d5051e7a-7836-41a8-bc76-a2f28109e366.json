@@ -1,0 +1,28 @@
+{
+  "id": "d5051e7a-7836-41a8-bc76-a2f28109e366",
+  "name": "\u0f12 \u0250\u0265\u0254\u01dd\u0287\u0250\u026f \u028d\u01dd\u0279pu\u0250 \u0f12",
+  "url": "https://merveilles.town/@amatecha",
+  "text": "[\u0f12 \u0250\u0265\u0254\u01dd\u0287\u0250\u026f \u028d\u01dd\u0279pu\u0250 \u0f12](https://merveilles.town/@amatecha) [liked this](https://mastodon.technology/@roytang/108027457393212232#favorited-by-276464)",
+  "date": "2022-03-27 10:11:04",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/66af3e7c095287455534c40912d072adc3cf52b720cc6aeb6f279777c8f6d23c.png",
+  "source_url": "https://mastodon.technology/@roytang/108027457393212232#favorited-by-276464",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "\u0f12 \u0250\u0265\u0254\u01dd\u0287\u0250\u026f \u028d\u01dd\u0279pu\u0250 \u0f12",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/66af3e7c095287455534c40912d072adc3cf52b720cc6aeb6f279777c8f6d23c.png",
+      "url": "https://merveilles.town/@amatecha"
+    },
+    "url": "https://mastodon.technology/@roytang/108027457393212232#favorited-by-276464",
+    "published": null,
+    "wm-received": "2022-03-27T10:11:04Z",
+    "wm-id": 1369904,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108027457393212232/276464",
+    "wm-target": "https://roytang.net/2022/03/a583f9b8f3cced6d0d81f3c9e65bdaf0/",
+    "like-of": "https://roytang.net/2022/03/a583f9b8f3cced6d0d81f3c9e65bdaf0/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

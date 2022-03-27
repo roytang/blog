@@ -1,0 +1,32 @@
+{
+  "id": "3d265aee-3c19-4be9-b39f-802851532a35",
+  "name": "\u0f12 \u0250\u0265\u0254\u01dd\u0287\u0250\u026f \u028d\u01dd\u0279pu\u0250 \u0f12",
+  "url": "https://merveilles.town/@amatecha",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> <span class=\"h-card\"><a href=\"https://floss.social/@alcinnz\" class=\"u-url\">@<span>alcinnz</span></a></span> damn, he takes it to the next level.  great piece!</p>\n<a class=\"u-mention\" href=\"https://mattruby.substack.com/p/time-spent-on-app-and-what-its-doing?s=r\"></a>",
+  "date": "2022-03-27 09:28:53",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/66af3e7c095287455534c40912d072adc3cf52b720cc6aeb6f279777c8f6d23c.png",
+  "source_url": "https://merveilles.town/@amatecha/108027794800946753",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "\u0f12 \u0250\u0265\u0254\u01dd\u0287\u0250\u026f \u028d\u01dd\u0279pu\u0250 \u0f12",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/66af3e7c095287455534c40912d072adc3cf52b720cc6aeb6f279777c8f6d23c.png",
+      "url": "https://merveilles.town/@amatecha"
+    },
+    "url": "https://merveilles.town/@amatecha/108027794800946753",
+    "published": "2022-03-27T09:28:53",
+    "wm-received": "2022-03-27T10:10:35Z",
+    "wm-id": 1369897,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/108027457393212232/108027794838852042",
+    "wm-target": "https://roytang.net/2022/03/a583f9b8f3cced6d0d81f3c9e65bdaf0/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> <span class=\"h-card\"><a href=\"https://floss.social/@alcinnz\" class=\"u-url\">@<span>alcinnz</span></a></span> damn, he takes it to the next level.  great piece!</p>\n<a class=\"u-mention\" href=\"https://mattruby.substack.com/p/time-spent-on-app-and-what-its-doing?s=r\"></a>",
+      "text": "@roytang @alcinnz damn, he takes it to the next level.  great piece!"
+    },
+    "in-reply-to": "https://roytang.net/2022/03/a583f9b8f3cced6d0d81f3c9e65bdaf0/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

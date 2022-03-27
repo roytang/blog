@@ -1,0 +1,28 @@
+{
+  "id": "aea58ed2-fa0f-4b34-91e2-3802b35144ff",
+  "name": "~D. \ud83c\uddfa\ud83c\udde6 \ud83c\udf3b",
+  "url": "https://todon.eu/@glitchyxalpaca",
+  "text": "[~D. \ud83c\uddfa\ud83c\udde6 \ud83c\udf3b](https://todon.eu/@glitchyxalpaca) [liked this](https://mastodon.technology/@roytang/108027457393212232#favorited-by-108022239259361942)",
+  "date": "2022-03-27 10:10:34",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/772f9ef0cdff42a7da2f1c3fc1cc4db6e5acf31d6c433109262ba742acc7a7f5.png",
+  "source_url": "https://mastodon.technology/@roytang/108027457393212232#favorited-by-108022239259361942",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "~D. \ud83c\uddfa\ud83c\udde6 \ud83c\udf3b",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/772f9ef0cdff42a7da2f1c3fc1cc4db6e5acf31d6c433109262ba742acc7a7f5.png",
+      "url": "https://todon.eu/@glitchyxalpaca"
+    },
+    "url": "https://mastodon.technology/@roytang/108027457393212232#favorited-by-108022239259361942",
+    "published": null,
+    "wm-received": "2022-03-27T10:10:34Z",
+    "wm-id": 1369896,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108027457393212232/108022239259361942",
+    "wm-target": "https://roytang.net/2022/03/a583f9b8f3cced6d0d81f3c9e65bdaf0/",
+    "like-of": "https://roytang.net/2022/03/a583f9b8f3cced6d0d81f3c9e65bdaf0/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

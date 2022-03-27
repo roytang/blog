@@ -1,0 +1,28 @@
+{
+  "id": "d596c201-194d-4977-8617-c219ee7140f3",
+  "name": "Ryuno-Ki",
+  "url": "https://layer8.space/@RyunoKi",
+  "text": "[Ryuno-Ki](https://layer8.space/@RyunoKi) [liked this](https://mastodon.technology/@roytang/108027457393212232#favorited-by-107621270668915788)",
+  "date": "2022-03-27 10:10:36",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/26dacb234de95e11102acdc9db28142662f350d6cfc7b1fc671b2e07affe2173.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108027457393212232#favorited-by-107621270668915788",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ryuno-Ki",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/26dacb234de95e11102acdc9db28142662f350d6cfc7b1fc671b2e07affe2173.jpg",
+      "url": "https://layer8.space/@RyunoKi"
+    },
+    "url": "https://mastodon.technology/@roytang/108027457393212232#favorited-by-107621270668915788",
+    "published": null,
+    "wm-received": "2022-03-27T10:10:36Z",
+    "wm-id": 1369899,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108027457393212232/107621270668915788",
+    "wm-target": "https://roytang.net/2022/03/a583f9b8f3cced6d0d81f3c9e65bdaf0/",
+    "like-of": "https://roytang.net/2022/03/a583f9b8f3cced6d0d81f3c9e65bdaf0/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
