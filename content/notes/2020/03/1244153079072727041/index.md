@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1244153079072727041/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1244198432715075586/
+tags:
+- gaming
 title: ''
 ---
 
