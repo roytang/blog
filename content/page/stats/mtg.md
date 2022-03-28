@@ -23,3 +23,17 @@ submenu: "stats"
 </div> 
 
 ** I wish I also had lifetime stats for Magic Online and Magic Arena, but I don't have any data sources for those
+
+### Arena Limited stats
+
+In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collating my Arena limited stats for that format. I think I'll keep doing it moving forward. I've also been back-tracking through the sets where I streamed my limited games so I can compile stats for them as well.
+
+| Set | Recap Date | Events | Win | Loss | Total | Winrate |
+| --- | --- | --- | --- | --- | --- |  --- | 
+| ALL | Mar 2022 | 76 | 270 | 205 | 475 | 0.5684 |
+| [Kamigawa: Neon Dynasty](/2022/03/mtgneo-limited-recap/) | Mar 2022 | 26 | 90 | 70 | 160 | 0.5625 |
+| [Innistrad: Crimson Vow](/2021/12/mtgcrimson-limited-recap/) | Dec 2021 | 21 | 80 | 57 | 137 | 0.5839 |
+| [Innistrad: Midnight Hunt](/2021/10/mtgmidnight-limited-recap/) | Oct 2021 | 10 | 39 | 28 | 67 | 0.5821 |
+| [Adventures in the Forgotten Realms](/2021/08/mtgafr-limited-recap/) | Aug 2021 | 19 | 61 | 50 | 111 | 0.5495 |
+
+Related: [MTG Topic Index](/topics/mtg/)

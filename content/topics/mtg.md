@@ -12,6 +12,7 @@ tags:
 || Latest Standard Set | Limited | Constructed |
 |---|---|---|---|
 | **2022** |
+| **Mar** | | | [Alchemy metagame challenge](/2022/03/1508040061954101249/) |
 | **Feb** | Kamigawa Neon Dynasty | [Arena limited](/tags/mtgneo) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhLIY5zAbmQn-tSxCE5RWgs) | |
 | **2021** |
 | **Dec** | [Magic Arena Decathlon 2021](/2021/12/1472933987718815750/) | |
@@ -108,3 +109,4 @@ tags:
 | **2004** |
 | **Oct** | Champions of Kamigawa | [Team Sealed](/2004/12/team-sealed/) | |
 
+Related: [MTG Stats](/page/stats/mtg/)

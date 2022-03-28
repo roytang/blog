@@ -80,4 +80,4 @@ Notes:
 
 Not a lot of insights, mostly because I'm doing this post from the future and not a lot of it is fresh for me.
 
-Related: [Innistrad Crimson Vow Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgokNsq0i3ejpcLJ0zkrZbE)
+Related: [Innistrad Crimson Vow Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgokNsq0i3ejpcLJ0zkrZbE), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)

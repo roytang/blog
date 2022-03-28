@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: movies
   rating: 0.0
-  title: Blade Runner 2049 (2017)
+  title: Blade Runner 2049
+  year: 2017
 source: form
 syndicated:
 - type: mastodon

@@ -92,4 +92,4 @@ Stats and winrates aside, I'm very happy with Neon Dynasty as a limited format. 
 
 I like this type of limited format recap stats post! I'll keep doing it moving forward (starting with New Capenna in late April!), and will probably also try to generate (back-dated) similar posts for previous sets (I should have records of all my limited stuff since I started streaming with Theros Beyond Death at the start of the pandemic!)
 
-Related: [Kamigawa Neon Dynasty Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhLIY5zAbmQn-tSxCE5RWgs)
+Related: [Kamigawa Neon Dynasty Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhLIY5zAbmQn-tSxCE5RWgs), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
