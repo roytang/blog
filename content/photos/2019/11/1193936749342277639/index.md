@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1193936749342277639/
+tags:
+- mtg
 ---
 
 Should really be going to sleep, but I'm really enjoying reading the release notes for Mystery Booster lol

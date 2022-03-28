@@ -14,5 +14,5 @@ syndicated:
 
 It's been a busy week. Finally going to get some relatively early sleep.
 
-[21:58] ...or at least I would if I didn't keep clicking random links on twitter.
+<time>[21:58]</time> ...or at least I would if I didn't keep clicking random links on twitter.
 

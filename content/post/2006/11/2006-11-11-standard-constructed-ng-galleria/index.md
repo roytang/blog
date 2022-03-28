@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2006-11-11 07:51:30
+location: robinsons_galleria
 tags:
 - mtg
 title: 2006-11-11 Standard Constructed @ NG Galleria

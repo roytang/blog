@@ -9,6 +9,7 @@ tags:
 ---
 
 Sometimes you have to wonder if we're living in a Douglas Adams novel
+
 ---
 
 "On its world, the people are people. The leaders are lizards. The people hate the lizards and the lizards rule the people.”
@@ -30,4 +31,5 @@ Sometimes you have to wonder if we're living in a Douglas Adams novel
 “Because if they didn’t vote for a lizard,” said Ford, “the wrong lizard might get in.”
 
 ---
+
 (Source: HHG2G)

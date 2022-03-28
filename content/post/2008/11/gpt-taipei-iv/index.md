@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-11-12 08:06:21
+location: robinsons_galleria
 tags:
 - mtg
 title: GPT Taipei IV

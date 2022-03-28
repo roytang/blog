@@ -20,8 +20,6 @@ syndicated:
   url: https://twitter.com/roytang/status/796245720919441408/
 - type: twitter
   url: https://twitter.com/roytang/status/796289630395998212/
-tags:
-- merge1
 ---
 
 The next time someone brags about getting a mandate from 16M people, remember that even a crazy, racist, sexist blowhard can fool (at least, as of this count) 16M people into voting for him

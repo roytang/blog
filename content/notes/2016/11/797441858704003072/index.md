@@ -15,4 +15,4 @@ tags:
 
 IDK how to react when people proudly post "nerdy" pictures of themselves playing scrabble and their board shows they're total amateurs #wut
 
-[22:13] I'm totally losing all my current games of Words With Friends though, so maybe I'm not one to judge other people's scrabble games
+<time>[22:13]</time> I'm totally losing all my current games of Words With Friends though, so maybe I'm not one to judge other people's scrabble games
