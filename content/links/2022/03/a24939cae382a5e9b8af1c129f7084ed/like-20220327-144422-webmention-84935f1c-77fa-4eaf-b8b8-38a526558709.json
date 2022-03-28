@@ -1,0 +1,28 @@
+{
+  "id": "84935f1c-77fa-4eaf-b8b8-38a526558709",
+  "name": "Pete Rijks",
+  "url": "https://mastodon.technology/@prijks",
+  "text": "[Pete Rijks](https://mastodon.technology/@prijks) [liked this](https://mastodon.technology/@roytang/108027464718995915#favorited-by-107163547790937149)",
+  "date": "2022-03-27 14:44:22",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/67d7d8d4b6ae0ad7c865e3adc640fc7d7053271d6286f22f702672b39370c0f9.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108027464718995915#favorited-by-107163547790937149",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Pete Rijks",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/67d7d8d4b6ae0ad7c865e3adc640fc7d7053271d6286f22f702672b39370c0f9.jpg",
+      "url": "https://mastodon.technology/@prijks"
+    },
+    "url": "https://mastodon.technology/@roytang/108027464718995915#favorited-by-107163547790937149",
+    "published": null,
+    "wm-received": "2022-03-27T14:44:22Z",
+    "wm-id": 1369975,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108027464718995915/107163547790937149",
+    "wm-target": "https://roytang.net/2022/03/a24939cae382a5e9b8af1c129f7084ed/",
+    "like-of": "https://roytang.net/2022/03/a24939cae382a5e9b8af1c129f7084ed/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
