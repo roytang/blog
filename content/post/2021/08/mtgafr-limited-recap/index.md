@@ -11,7 +11,7 @@ tags:
 
 *(Note: This post was written March 28th, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [MTGAFR](/tags/mtgafr) post)*
 
-Midnight Hunt limited stats!
+Adventures in the Forgotten Realms limited stats!
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
