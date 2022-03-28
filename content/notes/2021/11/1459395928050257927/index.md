@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow drafting! https://www.twitch.tv/twitchyroy #magicarena #twitch #mtg #mtgcrimson
 
-[21:38] Draft seemed decent, but we didn't get there. Better luck next time?
+<time>[21:38]</time> Draft seemed decent, but we didn't get there. Better luck next time?
 
 
 

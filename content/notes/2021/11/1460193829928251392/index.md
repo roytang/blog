@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow drafting! ep 2 https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #mtgcrimson
 
-[23:43] Got my first 7-x Crimson Vow draft on the second try! Pretty sweet!
+<time>[23:43]</time> Got my first 7-x Crimson Vow draft on the second try! Pretty sweet!
 
 
 
