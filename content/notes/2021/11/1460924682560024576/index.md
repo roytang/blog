@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow drafting! ep 3 https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #mtgcrimson
 
-[22:10] Tried out a couple of new archetypes today, ended up with 2 mediocre runs.
+<time>[22:10]</time> Tried out a couple of new archetypes today, ended up with 2 mediocre runs.
 
 
 
