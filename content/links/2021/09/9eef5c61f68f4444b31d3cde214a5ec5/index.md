@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106990726484752481
 - type: twitter
   url: https://twitter.com/roytang/status/1441640806738132995/
+tags:
+- doctorow
 title: 'I quit: Peak indifference, big tobacco, disinformation and death'
 ---
 
