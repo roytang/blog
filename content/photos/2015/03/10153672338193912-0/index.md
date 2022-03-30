@@ -12,4 +12,4 @@ tags:
 
 I am liking this new lock screen
 
-[2015-04-19 03:04:31+00:00] @atlususa check out my lock screen
+<time>[2015-04-19 03:04:31+00:00]</time> @atlususa check out my lock screen
