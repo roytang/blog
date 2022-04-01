@@ -7,9 +7,10 @@ tags:
 title: Ubuntu Desktop 01-Apr-2006
 type: post
 url: /2006/04/ubuntu-desktop-01-apr-2006/
+syndicated:
+- type: flickr
+  url: https://www.flickr.com/photos/zroytang/121882754/
 ---
-
-{{< photo "2006/04/121882754/" >}}
 
 I'm getting a lot more comfortable with Ubuntu... I spent about half an hour today customizing the environment and setting up some stuff. I can do my downloading in Ubuntu now; I just need to set up some sort of shared FAT32 partition that both WinXP and Ubuntu can access for easy transfer between the two OS. (Currently, Ubuntu only has read-only access to the NTFS file system)
 
