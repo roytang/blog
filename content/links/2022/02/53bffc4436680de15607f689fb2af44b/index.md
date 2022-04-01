@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1490315081036734473/
 tags:
 - tech-life
+- doctorow
 title: The battle for Ring Zero
 ---
 

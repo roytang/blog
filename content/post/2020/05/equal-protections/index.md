@@ -8,6 +8,7 @@ syndicated:
 tags:
 - philippines
 - philosophy
+- doctorow
 title: Equal Protections
 ---
 
