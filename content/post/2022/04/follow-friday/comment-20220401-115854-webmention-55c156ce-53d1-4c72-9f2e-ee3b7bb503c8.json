@@ -1,0 +1,32 @@
+{
+  "id": "55c156ce-53d1-4c72-9f2e-ee3b7bb503c8",
+  "name": "Wouter Groeneveld",
+  "url": "https://chat.brainbaking.com/users/wouter",
+  "text": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> I try sharing others' blog posts in a month review fashion, like your \"interesting links\" section in your week reviews. I don't collect all links that interest me separately (except in my private notes).",
+  "date": "2022-04-01 11:58:54",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0be79983e30db6eb88fda3a1904e4e7779bea28fa97df72eccc408ea70a0a189.jpg",
+  "source_url": "https://chat.brainbaking.com/objects/50132540-311b-4431-a2e9-de919e934ffc",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0be79983e30db6eb88fda3a1904e4e7779bea28fa97df72eccc408ea70a0a189.jpg",
+      "url": "https://chat.brainbaking.com/users/wouter"
+    },
+    "url": "https://chat.brainbaking.com/objects/50132540-311b-4431-a2e9-de919e934ffc",
+    "published": "2022-04-01T11:58:54",
+    "wm-received": "2022-04-01T13:02:26Z",
+    "wm-id": 1373557,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/108054400912169567/108056696280376037",
+    "wm-target": "https://roytang.net/2022/04/follow-friday-1/",
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> I try sharing others' blog posts in a month review fashion, like your \"interesting links\" section in your week reviews. I don't collect all links that interest me separately (except in my private notes).",
+      "text": "@roytang I try sharing others' blog posts in a month review fashion, like your \"interesting links\" section in your week reviews. I don't collect all links that interest me separately (except in my private notes)."
+    },
+    "in-reply-to": "https://roytang.net/2022/04/follow-friday-1/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

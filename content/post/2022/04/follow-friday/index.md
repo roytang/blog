@@ -1,10 +1,15 @@
 ---
-title: "Follow Friday #1"
-slug: follow-friday-1
 date: 2022-04-01
+slug: follow-friday-1
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108054400912169567
+- type: twitter
+  url: https://twitter.com/roytang/status/1509715970247770113/
 tags:
 - tech-life
 - follow-friday
+title: 'Follow Friday #1'
 ---
 
 I think more people should blog, and more people should follow people who blog, so I've been meaning to do some posts to promote other people's blogs, in the hopes of accelerating the return of real/personal blogs. (As opposed to those commercial blogs that are just for selling stuff or being content farms or whatever.)

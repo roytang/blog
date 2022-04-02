@@ -1,0 +1,32 @@
+{
+  "id": "7b739cf9-1941-41d2-9496-b756604cd3fe",
+  "name": "Wouter Groeneveld",
+  "url": "https://chat.brainbaking.com/users/wouter",
+  "text": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> I love that idea, thanks for sharing! Looking forward to nextr Friday \ud83d\ude00",
+  "date": "2022-04-01 11:52:49",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0be79983e30db6eb88fda3a1904e4e7779bea28fa97df72eccc408ea70a0a189.jpg",
+  "source_url": "https://chat.brainbaking.com/objects/19b21c5b-9dbc-4c49-b3b5-4d8fa165eaf4",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/0be79983e30db6eb88fda3a1904e4e7779bea28fa97df72eccc408ea70a0a189.jpg",
+      "url": "https://chat.brainbaking.com/users/wouter"
+    },
+    "url": "https://chat.brainbaking.com/objects/19b21c5b-9dbc-4c49-b3b5-4d8fa165eaf4",
+    "published": "2022-04-01T11:52:49",
+    "wm-received": "2022-04-01T13:01:57Z",
+    "wm-id": 1373555,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/108054400912169567/108056672361427607",
+    "wm-target": "https://roytang.net/2022/04/follow-friday-1/",
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> I love that idea, thanks for sharing! Looking forward to nextr Friday \ud83d\ude00",
+      "text": "@roytang I love that idea, thanks for sharing! Looking forward to nextr Friday \ud83d\ude00"
+    },
+    "in-reply-to": "https://roytang.net/2022/04/follow-friday-1/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
