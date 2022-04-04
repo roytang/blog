@@ -55,4 +55,5 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### This coming week:
 
-Nothing of note yet. Maybe I forgot something?
+- Preview season for MTG's next set **Streets of New Capenna** start this week
+- It's Palm Sunday next week!
