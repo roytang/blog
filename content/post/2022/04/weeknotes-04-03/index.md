@@ -54,3 +54,5 @@ Visit the [Links page](/links/) for more links of interest.
 - **Reading**: Still reading **Wyrd Sisters** by Terry Pratchett. The book isn't long, I just haven't had a lot of chances to sit down and read through it.
 
 ### This coming week:
+
+Nothing of note yet. Maybe I forgot something?
