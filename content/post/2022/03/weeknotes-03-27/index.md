@@ -52,7 +52,6 @@ Visit the [Links page](/links/) for more links of interest.
     - Wrote about [Yooka-Laylee and the Impossible Lair](/2022/03/impossible-lair/)
     - Ongoing: 
         - **Tales of Vesperia** (Steam): Second run still ongoing slowly but surely; I'm currently late enough into the game that some of the post-game stuff can already be started, so I'm getting into it. Might be a month before I can finish this though, which implies that a JRPG takes me 4 calendar months to finish!
-        - **Yooka-Laylee and the Impossible Lair**: I was stuck at like 68% of the Impossible Lair for the longest time, but I sat down earlier today and managed to power through it, game is done! Will write a review this week, probably. Now I can move on and start another game!
     - Card games: 
         - The card games made my weekend busy!
         - [Magic Arena](/tags/MagicArena/) had the all-access Alchemy Metagame challenge. I [did NINE RUNS](/2022/03/1508040061954101249/), but the sweep was elusive.
