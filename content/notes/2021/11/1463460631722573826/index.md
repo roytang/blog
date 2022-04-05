@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow drafting! ep 5 https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #mtgcrimson
 
-[21:28] Sadly, another 2 mediocre drafts today. Well, one mediocre and one terrible.
+<time>[21:28]</time> Sadly, another 2 mediocre drafts today. Well, one mediocre and one terrible.
 
 
 

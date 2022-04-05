@@ -1,5 +1,5 @@
 ---
-date: 2017-11-23 18:41:00+08:00
+date: 2017-11-23 10:41:00
 source: facebook
 syndicated:
 - type: facebook
@@ -8,4 +8,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/933646589138046976/
 tags:
 - mobile-uploads
+- stormlight-archive
+- quotes
 ---

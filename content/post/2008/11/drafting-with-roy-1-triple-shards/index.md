@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-11-22 18:37:11
+location: robinsons_galleria
 tags:
 - mtg
 title: 'Drafting with Roy #1 (Triple Shards)'

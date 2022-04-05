@@ -13,6 +13,7 @@ syndicated:
 tags:
 - books
 - sanderson
+- stormlight-archive
 title: 'Read: Oathbringer by Sanderson, Brandon'
 ---
 

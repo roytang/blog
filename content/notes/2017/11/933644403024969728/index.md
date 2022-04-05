@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156207331413912
 tags:
 - quotes
+- stormlight-archive
 ---
 
 “You want to change the world, Shallan. That’s well and good. But be careful. The world predates you. She has seniority.”
