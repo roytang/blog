@@ -23,6 +23,7 @@ Strixhaven limited stats!
 | WR | 3 | 4 | 9 | 13 | 0.3077 |
 | UR | 1 | 2 | 3 | 5 | 0.4 |
 | UG | 7 | 30 | 19 | 49 | 0.6122 |
+| BG | 2 | 7 | 6 | 13 | 0.5385 |
 | |
 | *By Color* |
 | White | 10 | 28 | 28 | 56 | 0.5 |
@@ -57,7 +58,7 @@ Notes:
 
 - I remember Strixhaven to be quite a fun draft format, probably because it was so easy to splash things. More than half of the events I had splash additional colors!
 - by Main Color:
-    - Amazingly, I was able to try out only 4 of the ten available color pairs! 
+    - Amazingly, I was able to try out only 5 of the ten available color pairs! 
     - Most of my drafts went Silverquill (WB) or UG (Quandrix)
     - Quandrix was my winningest archetype with Silverquill a distant second; the other two pairs I managed to try were very poor
     - Not reflected in the stats above, but Quandrix was easily the most splashable pair, which was why I played it a lot. Most often splash was red, and one event I was able to splash all 3 other colors!
