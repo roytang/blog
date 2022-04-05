@@ -17,4 +17,4 @@ tags:
 
 #mtg currently 3-1 at the PTQ, with 3 rounds to go. I'm not used to long tournaments anymore :p
 
-[23:01] #mtg PTQ result: Top 8. Why do PTQs have to take so long &gt;.&lt;
+<time>[23:01]</time> #mtg PTQ result: Top 8. Why do PTQs have to take so long &gt;.&lt;

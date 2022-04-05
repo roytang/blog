@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow drafting! ep 4 https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #mtgcrimson
 
-[21:07] Got my second 7-x draft tonight! Got a bomb, but it only showed up once, to save me in my darkest hour. BR seems pretty good!
+<time>[21:07]</time> Got my second 7-x draft tonight! Got a bomb, but it only showed up once, to save me in my darkest hour. BR seems pretty good!
 
 
 

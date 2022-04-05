@@ -1,5 +1,10 @@
 ---
 date: 2010-11-22 13:10:21
+reviews:
+- description: 'Rewatch'
+  media: movies
+  rating: 5.0
+  title: Dead Poets Society (1989)
 source: twitter
 syndicated:
 - type: twitter

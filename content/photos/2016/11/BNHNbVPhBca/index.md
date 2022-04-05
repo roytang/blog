@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-11-22 05:36:23-07:00
+date: 2016-11-22 12:36:23
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155111605378912:3
 tags:
 - sketchdaily
+- onepiece
 ---
 
 MEAT!! #sketchdaily
