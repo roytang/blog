@@ -15,8 +15,8 @@ tags:
 
 Nothing like a [@talk2GLOBE](https://twitter.com/talk2GLOBE/) outage first thing in the morning
 
-[18:02] Aftet such a long time senpai finally noticed us! 
+<time>[18:02]</time> Aftet such a long time senpai finally noticed us! 
 
 {{< photos 1465622139499806723 >}}
 
-[19:00] Looks like internet service was finally restored. Was down since around 3am, so rougly 16hrs downtime.
+<time>[19:00]</time> Looks like internet service was finally restored. Was down since around 3am, so rougly 16hrs downtime.

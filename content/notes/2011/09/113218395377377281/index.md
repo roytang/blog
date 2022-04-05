@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/113218395377377281/
 - type: foursquare
   url: https://www.swarmapp.com/user/405004/checkin/4e6df277c65b18875f906c6e?s=5Rj5fKFWqhlE1etuPfy25Psy6Aw&ref=tw
+tags:
+- quiznight
 ---
 
 I'm at Last Home (Unit 06, Madison Square Pioneer, No. 04 Pioneer St, Mandaluyong City) http://4sq.com/nwYxof

@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow drafting! ep 7 https://www.twitch.tv/twitchyroy #mtg #magicarena #mtgcrimson #twitch
 
-[23:06] Did three drafts today, all of them were pretty bad T_T I was unable to escape the curse of alternating good and bad days!
+<time>[23:06]</time> Did three drafts today, all of them were pretty bad T_T I was unable to escape the curse of alternating good and bad days!
 
 
 
