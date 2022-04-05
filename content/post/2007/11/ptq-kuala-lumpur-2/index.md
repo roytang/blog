@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-11-25 00:50:18
+location: robinsons_galleria
 tags:
 - mtg
 title: 'PTQ Kuala Lumpur #2'

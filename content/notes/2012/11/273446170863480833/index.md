@@ -10,4 +10,12 @@ tags:
 - mama
 ---
 
-Me: "Ma, tignan mo to, sugat ba to?" Ma: "Ano yan, butlig" Me: "Anong butlig?" Ma: "Butlig...butlig copy" -_-
+Me: "Ma, tignan mo to, sugat ba to?" 
+
+Ma: "Ano yan, butlig" 
+
+Me: "Anong butlig?" 
+
+Ma: "Butlig...butlig copy" 
+
+-_-

@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow drafting! ep 6 https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #mtgcrimson
 
-[21:34] Today's draft went better than the last session's drafts, even if we got DC'ed midway through the picks. Didn't get to 7 though.
+<time>[21:34]</time> Today's draft went better than the last session's drafts, even if we got DC'ed midway through the picks. Didn't get to 7 though.
 
 
 

@@ -10,11 +10,15 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1822050997
+- type: twitter
+  url: https://twitter.com/roytang/statuses/802546658198241280/
 tags:
 - books
 - dark materials
 title: 'Book Review: The Amber Spyglass by Pullman, Philip'
 ---
+
+2016 Reading Challenge 28/52: The Amber Spyglass
 
 <a href="https://www.goodreads.com/book/show/18122.The_Amber_Spyglass" style="float: left; padding-right: 20px"><img border="0" alt="The Amber Spyglass (His Dark Materials, #3)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189152l/18122._SY160_.jpg" /></a><a href="https://www.goodreads.com/book/show/18122.The_Amber_Spyglass">The Amber Spyglass</a> by <a href="https://www.goodreads.com/author/show/3618.Philip_Pullman">Philip Pullman</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/1822050997">3 of 5 stars</a><br /><br />

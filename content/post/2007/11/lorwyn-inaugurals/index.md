@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-11-25 00:16:41
+location: robinsons_galleria
 tags:
 - mtg
 title: Lorwyn Inaugurals
