@@ -1,9 +1,14 @@
 ---
-title: "Ludum Dare 50: Untitled Shooty Game"
-date: 2022-04-06T12:31:14+08:00
+date: 2022-04-06 04:31:14
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108083498854289749
+- type: twitter
+  url: https://twitter.com/roytang/status/1511578251633717248/
 tags:
 - gamedev
-dontinlinephotos: true
+title: 'Ludum Dare 50: Untitled Shooty Game'
 ---
 
 ### The jam
@@ -88,4 +93,3 @@ Some screenshots of the game attached below!
 {{% photos screen %}}
 
 Will update this post when the results come out!
-
