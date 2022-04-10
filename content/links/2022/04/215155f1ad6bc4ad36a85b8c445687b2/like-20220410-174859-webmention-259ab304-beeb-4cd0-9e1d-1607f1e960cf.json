@@ -1,0 +1,28 @@
+{
+  "id": "259ab304-beeb-4cd0-9e1d-1607f1e960cf",
+  "name": "Vertigo #$FF",
+  "url": "https://hackers.town/@vertigo",
+  "text": "[Vertigo #$FF](https://hackers.town/@vertigo) [liked this](https://mastodon.technology/@roytang/108106783631965588#favorited-by-345335)",
+  "date": "2022-04-10 17:48:59",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/f2215c195551f56405df3574cf898eb8e4416e683242c6014ca1a49b24775cc5.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108106783631965588#favorited-by-345335",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Vertigo #$FF",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/f2215c195551f56405df3574cf898eb8e4416e683242c6014ca1a49b24775cc5.jpg",
+      "url": "https://hackers.town/@vertigo"
+    },
+    "url": "https://mastodon.technology/@roytang/108106783631965588#favorited-by-345335",
+    "published": null,
+    "wm-received": "2022-04-10T17:48:59Z",
+    "wm-id": 1378190,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108106783631965588/345335",
+    "wm-target": "https://roytang.net/2022/04/215155f1ad6bc4ad36a85b8c445687b2/",
+    "like-of": "https://roytang.net/2022/04/215155f1ad6bc4ad36a85b8c445687b2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
