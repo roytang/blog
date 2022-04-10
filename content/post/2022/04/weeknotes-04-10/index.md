@@ -112,7 +112,7 @@ I've been switching between doing ["watching lately" posts](/tags/watching-latel
 
 - #### The Other Guys (2010)
 
-    - Watched this one last Friday night. Was pleasantly surprised, it turned out to be a very good and clever buddy cop comedy. Wahlberg and Farell have great chemistry and the rest of the cast gave great performances too, especially Keaton.
+    - Watched this one last Friday night. Was pleasantly surprised, it turned out to be a very good and clever buddy cop comedy. Wahlberg and Ferrell have great chemistry and the rest of the cast gave great performances too, especially Keaton.
 
     {{% img src="otherguys.png" %}}
 
