@@ -163,6 +163,9 @@
             "Raw": "<b>Geekring</b>: <a href='http://geekring.net/site/91/previous'>Previous</a> :: <a href='http://geekring.net/site/91/random'>Random</a> :: <a href='http://geekring.net/site/91/next'>Next</a>"
         },
         {
+            "Raw": "<b><a href='https://fediring.net/'>Fediring</a></b>: <a href='https://fediring.net/previous?host=roytang.net'>Previous</a> :: <a href='https://fediring.net/next?host=roytang.net'>Next</a>"
+        },
+        {
             "Raw": "<b>Hotline Webring</b>: <a href='https://hotlinewebring.club/roytang/previous'>Previous</a> :: <a href='https://hotlinewebring.club/roytang/next'>Next</a>"
         }
     ]
