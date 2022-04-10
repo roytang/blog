@@ -5,16 +5,16 @@ resources:
 - src: otherguys.png
   title: I saved this screenshot mostly so I could use it as a reaction image.
 reviews:
-- description: An okay whodunnit, probably not as good as the first one.
+- date: 2022-03-31
+  description: An okay whodunnit, probably not as good as the first one.
   hashtag: death-on-the-nile-2022
   media: movies
   rating: 2.5
   title: Death on the Nile
   year: 2022
-  date: 2022-03-31
-- description: A superb and clever buddy-copy comedy
+- date: 2022-04-08
+  description: A superb and clever buddy-copy comedy
   hashtag: the-other-guys-2010
-  date: 2022-04-08
   media: movies
   rating: 5.0
   title: The Other Guys
@@ -31,13 +31,18 @@ reviews:
   rating: 3.0
   title: Wrestlemania 38
   year: 2022
-- description: Fun science-focused manga with a decent sci-fi ending.
+- date: 2022-03-07
+  description: Fun science-focused manga with a decent sci-fi ending.
   hashtag: dr-stone-manga
   media: comics
   rating: 3.5
   title: Dr Stone
   year: 2022
-  date: 2022-03-07
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108107669114330355
+- type: twitter
+  url: https://twitter.com/roytang/status/1513125171346874369/
 tags:
 - weeknotes
 - philippines
