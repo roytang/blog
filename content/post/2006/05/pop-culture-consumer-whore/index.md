@@ -2,6 +2,13 @@
 author: Roy
 categories: []
 date: 2006-05-07 00:05:05
+reviews:
+- description: ''
+  media: books
+  rating: 0.0
+  title: Lords and Ladies by Terry Pratchett
+tags:
+- discworld
 title: Pop-Culture Consumer Whore
 type: post
 url: /2006/05/pop-culture-consumer-whore/

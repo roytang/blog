@@ -29,7 +29,7 @@ Current read count: 10/41 (as of March 14, 2022)
 | 11 | Reaper Man  | 1991 | Death  | | |
 | 12 | Witches Abroad  | 1991 | Witches  | Y | |
 | 13 | Small Gods  | 1992 | Omnia  | | |
-| 14 | Lords and Ladies  | 1992 | Witches  | Y | |
+| 14 | Lords and Ladies  | 1992 | Witches  | Y | [2006](/2006/05/pop-culture-consumer-whore/) |
 | 15 | Men at Arms  | 1993 | City Watch  | Y | [2021](/2021/04/discworld-city-watch/) |
 | 16 | Soul Music  | 1994 | Death  | | |
 | 17 | Interesting Times  | 1994 | Rincewind  | | |
