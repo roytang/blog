@@ -9,6 +9,7 @@ reviews:
   title: Lords and Ladies by Terry Pratchett
 tags:
 - discworld
+- books
 title: Pop-Culture Consumer Whore
 type: post
 url: /2006/05/pop-culture-consumer-whore/
