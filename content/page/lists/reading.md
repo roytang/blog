@@ -2,20 +2,24 @@
 title: Reading List
 ---
 
-This is a lifetime to-read list and also tracker of books I've read. The initial list came from [Reddit's Favorite Books](http://www.reddit.com/r/raerth/comments/cpxkq/reddits_favourite_books/) in 2010. In 2011, I added entries from [NPR's top 100 sci-fi/fantasy novels](http://www.goodreads.com/topic/show/1180501-npr-top-100-science-fiction-fantasy-novels). Every so often I'll add some books recommended to me to the list. The items are generally sorted in the order given above. I don't restrict myself to reading books only from this list. You can browse the [books tag](/tags/books) to see other things I've read.
+This is a lifetime to-read list and also tracker of books I've read. The initial list came from [Reddit's Favorite Books](http://www.reddit.com/r/raerth/comments/cpxkq/reddits_favourite_books/) in 2010. In 2011, I added entries from [NPR's top 100 sci-fi/fantasy novels](http://www.goodreads.com/topic/show/1180501-npr-top-100-science-fiction-fantasy-novels). Every so often I'll add some books recommended to me to the list. The items are generally sorted in the order given above. I don't restrict myself to reading books only from this list. You can browse the [books list](/lists/media/books/) to see other things I've read.
+
+Last updated: 13 Apr 2022
 
 Finished reading (parentheses indicates year read, and link to relevant content if any) (You can [jump to the unread list](#unread).)
 
 1. The Hitchhiker's Guide to the Galaxy by Douglas Adams. (during college, sometime between 1996-2001)
 2. 1984 by George Orwell. 
-3. Dune by Frank Herbert. ([2014](https://twitter.com/roytang/status/419728369807130624))
-4. Slaughterhouse 5 by Kurt Vonnegut. ([2013](https://twitter.com/roytang/statuses/313314579893583872/))
+3. Dune by Frank Herbert. ([2014](/2014/01/419728369807130624/))
+4. Slaughterhouse 5 by Kurt Vonnegut. ([2013](/2013/03/313314579893583872/))
 5. Ender's Game by Orson Scott Card. (entire series sometime around 2006-2008)
 7. The Catcher in the Rye by J. D. Salinger. ([2016](/2016/04/the-catcher-in-the-rye/))
 8. The Bible by Various. (circa 1992)
+9. Snow Crash by Neal Stephenson. ([2021](/2021/05/snow-crash/))
 10. Harry Potter Series by J.K. Rowling. ([2016](/tags/harry-potter))
 11. Stranger in a Strange Land by Robert A. Heinlein. (during college, sometime between 1996-2001)
 12. Surely You're Joking, Mr. Feynman! by Richard P. Feynman. ([2016](/2016/04/surely-you-re-joking-mr-feynman/))
+15. Neuromancer by William Gibson. ([2021](/2021/03/neuromancer/))
 17. Guns, Germs, and Steel by Jared Diamond. ([2016](/2016/02/guns-germs-and-steel/))
 14. The Foundation Saga by Isaac Asimov. ([2013](/2013/12/2013-books-and-games/) - Foundation Trilogy only: Foundation, Foundation and Empire, Second Foundation)
 16. Calvin and Hobbes by Bill Watterson. 
@@ -26,7 +30,7 @@ Finished reading (parentheses indicates year read, and link to relevant content 
 34. His Dark Materials Trilogy by Philip Pullman. ([2016](/tags/dark-materials))
 38. Lord of the Flies by William Golding. (1992, 2nd year HS English class)
 44. The Art of War by Sun Tzu. 
-46. Flowers For Algernon by Daniel Keyes. ([2014](https://twitter.com/roytang/statuses/420592683871006720/))
+46. Flowers For Algernon by Daniel Keyes. ([2014](https://roytang.net/2014/01/420592683871006720/))
 47. The Hyperion Cantos by Dan Simmons. ([2016](/2016/08/hyperion/))
 50. Cat's Cradle by Kurt Vonnegut. ([2016](/2016/05/cat-s-cradle/))
 54. A Song of Ice and Fire by George RR Martin. ([first](https://twitter.com/roytang/status/99102575063867392) three [books](https://twitter.com/roytang/status/112696310783684609) 2011, the rest as they came out)
@@ -34,26 +38,31 @@ Finished reading (parentheses indicates year read, and link to relevant content 
 61. Freakonomics by Stephen Dubner and Steven Levitt.
 72. John Dies at the End by David Wong. ([2016](/2016/03/john-dies-at-the-end/))
 76. The Prince by Niccolò Machiavelli. ([2016](/2016/12/the-prince/))
+82. The Hobbit by J. R. R. Tolkien. ([2017](/2017/01/the-hobbit-or-there-and-back-again/))
 93. American Gods by Neil Gaiman. ([2004](/2004/11/i-like-to-read/))
 103. The Dark Tower by Stephen King. ([2005-2006](/tags/dark-tower))
 122. Cryptonomicon by Neal Stephenson. ([2004](/2004/11/cryptonomicon/))
 147. Good Omens by Terry Pratchett & Neil Gaiman. (during college, sometime between 1996-2001)
 155. Perdido Street Station by China Mieville. ([2016](/2016/03/perdido-street-station/))
 183. The Wheel of Time by Robert Jordan. ([around 1996-2013(!!)](/tags/wheel-of-time/))
+
+NPR top 100:
+
 15. Watchmen by Alan Moore
+43. Mistborn trilogy by Brandon Sanderson ([2017](/tags/mistborn))
+45. The Left Hand of Darkness by Ursula K. Le Guin ([2021](/2021/09/lhod/))
+48. Neverwhere by Neil Gaiman ([2005](/2005/09/books-neverwhere/))
 62. The Sword of Truth by Terry Goodkind (around 2006-2007)
 71. The Stormlight Archive by Brandon Sanderson ([2015-???](/tags/stormlight-archive))
-43. Mistborn trilogy by Brandon Sanderson ([2017](/tags/mistborn))
-48. Neverwhere by Neil Gaiman ([2005](/2005/09/books-neverwhere/))
+101. Three Body Problem by Liu Cixin ([2021](/2021/10/three-body-problem/))
+
 
 <a id="unread"></a>
 
 Unread:
 
 6. Brave New World by Aldous Huxley. 
-9. Snow Crash by Neal Stephenson. 
 13. To Kill A Mockingbird by Harper Lee. 
-15. Neuromancer by William Gibson. 
 18. Catch-22 by Joseph Heller. 
 19. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig. 
 21. The Selfish Gene by Richard Dawkins. 
@@ -102,7 +111,6 @@ Unread:
 79. War and Peace by Leo Tolstoy. 
 80. The Stand by Stephen King. 
 81. The Dharma Bums by Jack Kerouac. 
-82. The Hobbit by J. R. R. Tolkien. 
 83. Moby Dick by Herman Melville. 
 84. The Unbearable Lightness of Being by Milan Kundera. 
 85. Why People Believe Weird Things by Michael Shermer. 
@@ -215,6 +223,9 @@ Unread:
 198. The Fountainhead by Ayn Rand. 
 199. Hamlet by Shakespeare. 
 200. The Hero with a Thousand Faces by Joseph Campbell. 
+
+NPR top 100:
+
 7. Fahrenheit 451
 11. The Princess Bride by William Goldman
 16. I, Robot by Isaac Asimov
@@ -222,7 +233,6 @@ Unread:
 20. Frankenstein by Mary Shelley
 24. 2001: A Space Odyssey by Arthur C. Clarke
 27. The Martian Chronicles by Ray Bradbury
-29. The Sandman series by Neil Gaiman
 33. Dragonflight (Pern) by Anne McCaffrey
 36. The Time Machine by H.G. Wells
 37. Twenty Thousand Leagues Under the Sea by Jules Verne
@@ -230,7 +240,6 @@ Unread:
 40. Amber Chronicles by Roger Zelazny
 41. The Belgariad by David Eddings
 42. The Mists of Avalon by Marion Zimmer Bradley
-45. The Left Hand of Darkness by Ursula K. Le Guin
 46. The Silmarillion by J.R.R. Tolkien
 47. The Once and Future King by T.H.White
 52. Stardust by Neil Gaiman
@@ -251,26 +260,25 @@ Unread:
 72. A Journey To The Center Of The Earth by Jules Verne
 73. The Legend of Drizzt series by R.A. Salvatore
 74. Old Man's War series by John Scalzi
-77. Kushiel's Dart trilogy by Jacqueline Carey
-79. Something Wicked This Way Comes by Ray Bradbury
-80. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
-81. The Malazan Book Of The Fallen series by Steven Erickson
-82. The Eyre Affair by Jasper Fforde
-83. The Culture series by Iain M. Banks
-84. The Crystal Cave by Mary Stewart
-85. Anathem by Neal Stephenson
-86. The Codex Alera by Jim Butcher
-88. The Thrawn trilogy by Timothy Zahn ([partially read as of 2017](/2017/03/heir-to-the-empire/))
-89. Outlander series by Diana Gabaldon
-90. The Elric saga by Michael Moorcock
-91. The Illustrated Man by Ray Bradbury
-92. Sunshine by Robert McKinley
-94. The Caves of Steel by Isaac Asimov
+75. Kushiel's Dart trilogy by Jacqueline Carey
+76. Something Wicked This Way Comes by Ray Bradbury
+77. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+78. The Malazan Book Of The Fallen series by Steven Erickson
+79. The Eyre Affair by Jasper Fforde
+80. The Culture series by Iain M. Banks
+81. The Crystal Cave by Mary Stewart
+82. Anathem by Neal Stephenson
+83. The Codex Alera by Jim Butcher
+84. The Thrawn trilogy by Timothy Zahn ([partially read as of 2017](/2017/03/heir-to-the-empire/))
+85. Outlander series by Diana Gabaldon
+86. The Elric saga by Michael Moorcock
+87. The Illustrated Man by Ray Bradbury
+88. Sunshine by Robert McKinley
+89. The Caves of Steel by Isaac Asimov
 95. The Mars trilogy by Kim Stanley Robinson
 96. Lucifer's Hammer by Larry Niven
 97. Doomsday Book by Connie Willis
-99. The Xanth series by Piers Anthony
-100. The Space trilogy by C.S.Lewis
-101. Ready Player One by Ernest Cline
-102. Three Body Problem by Liu Cixin
-103. Gentlemen Bastard series by Scott Lynch
+98. The Xanth series by Piers Anthony
+99.  The Space trilogy by C.S.Lewis
+100. Ready Player One by Ernest Cline
+102. Gentlemen Bastard series by Scott Lynch
