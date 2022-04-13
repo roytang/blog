@@ -1,0 +1,32 @@
+{
+  "id": "5141168a-0ecc-4d3a-9bdd-1ce3c30c4da7",
+  "name": "Paolo Amoroso",
+  "url": "https://mastodon.technology/@amoroso",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> To me the key to frequent blogging was picking up a platform with the least friction, which made me rediscover the fun of personal blogging.</p>",
+  "date": "2022-04-13 10:25:56",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/36c181e535a48747c0c8cd375d1c9c9c34479ca650422699a2f32daca8e95d4f.jpg",
+  "source_url": "https://mastodon.technology/@amoroso/108124278359789233",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paolo Amoroso",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/36c181e535a48747c0c8cd375d1c9c9c34479ca650422699a2f32daca8e95d4f.jpg",
+      "url": "https://mastodon.technology/@amoroso"
+    },
+    "url": "https://mastodon.technology/@amoroso/108124278359789233",
+    "published": "2022-04-13T10:25:56",
+    "wm-received": "2022-04-13T12:41:42Z",
+    "wm-id": 1379871,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/108123746819152897/108124278359789233",
+    "wm-target": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> To me the key to frequent blogging was picking up a platform with the least friction, which made me rediscover the fun of personal blogging.</p>",
+      "text": "@roytang To me the key to frequent blogging was picking up a platform with the least friction, which made me rediscover the fun of personal blogging."
+    },
+    "in-reply-to": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

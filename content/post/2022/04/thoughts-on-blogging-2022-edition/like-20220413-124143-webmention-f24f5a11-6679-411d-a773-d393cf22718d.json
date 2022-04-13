@@ -1,0 +1,28 @@
+{
+  "id": "f24f5a11-6679-411d-a773-d393cf22718d",
+  "name": "Paolo Amoroso",
+  "url": "https://mastodon.technology/@amoroso",
+  "text": "[Paolo Amoroso](https://mastodon.technology/@amoroso) [liked this](https://mastodon.technology/@roytang/108123746819152897#favorited-by-108002089233985722)",
+  "date": "2022-04-13 12:41:43",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/36c181e535a48747c0c8cd375d1c9c9c34479ca650422699a2f32daca8e95d4f.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108123746819152897#favorited-by-108002089233985722",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paolo Amoroso",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/36c181e535a48747c0c8cd375d1c9c9c34479ca650422699a2f32daca8e95d4f.jpg",
+      "url": "https://mastodon.technology/@amoroso"
+    },
+    "url": "https://mastodon.technology/@roytang/108123746819152897#favorited-by-108002089233985722",
+    "published": null,
+    "wm-received": "2022-04-13T12:41:43Z",
+    "wm-id": 1379872,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108123746819152897/108002089233985722",
+    "wm-target": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "like-of": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
