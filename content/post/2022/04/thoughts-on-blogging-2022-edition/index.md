@@ -1,8 +1,13 @@
 ---
-title: "Thoughts on Blogging, 2022 Edition"
-date: 2022-04-13T13:43:17+08:00
+date: 2022-04-13 05:43:17
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108123746819152897
+- type: twitter
+  url: https://twitter.com/roytang/status/1514154108613464067/
 tags:
 - blogging
+title: Thoughts on Blogging, 2022 Edition
 ---
 
 It seems we are once again blogging about blogging. Such is life.
