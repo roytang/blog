@@ -1,0 +1,32 @@
+{
+  "id": "40e118c2-7eca-4831-9577-da4b7ca68711",
+  "name": "Wouter Groeneveld",
+  "url": "https://chat.brainbaking.com/users/wouter",
+  "text": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> Spot-on! I've been thinking about merging <a href=\"http://jefklakscodex.com\">jefklakscodex.com</a> with <a href=\"http://brainbaking.com\">brainbaking.com</a> for a long time and tried cross-posting a few times. The game site is nostalgia for me and contains a lot of custom stuff to auto-pull data from e.g. <a href=\"http://howlongtobeat.com\">howlongtobeat.com</a>. I connected both sites using webmentions but still ask myself whether or not to write more about games on Brain Baking instead. <br /><br />Your thoughts? Would you follow both sites or is that too much of a hassle?\n<a href=\"http://jefklakscodex.com/\">Retro Gaming | Jefklaks Codex</a>",
+  "date": "2022-04-13 08:52:42",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/aefaf38715774be2a6a9aacb0344a5c9391a18abc8c5b0092ec22bab9b59e58d.jpg",
+  "source_url": "https://chat.brainbaking.com/objects/96d1577f-9ae2-4b1f-a504-1d4abf4d613b",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/aefaf38715774be2a6a9aacb0344a5c9391a18abc8c5b0092ec22bab9b59e58d.jpg",
+      "url": "https://chat.brainbaking.com/users/wouter"
+    },
+    "url": "https://chat.brainbaking.com/objects/96d1577f-9ae2-4b1f-a504-1d4abf4d613b",
+    "published": "2022-04-13T08:52:42",
+    "wm-received": "2022-04-13T09:07:04Z",
+    "wm-id": 1379821,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/108123746819152897/108123911882748740",
+    "wm-target": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "content": {
+      "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mastodon.technology/@roytang\">@<span>roytang</span></a></span> Spot-on! I've been thinking about merging <a href=\"http://jefklakscodex.com\">jefklakscodex.com</a> with <a href=\"http://brainbaking.com\">brainbaking.com</a> for a long time and tried cross-posting a few times. The game site is nostalgia for me and contains a lot of custom stuff to auto-pull data from e.g. <a href=\"http://howlongtobeat.com\">howlongtobeat.com</a>. I connected both sites using webmentions but still ask myself whether or not to write more about games on Brain Baking instead. <br /><br />Your thoughts? Would you follow both sites or is that too much of a hassle?\n<a href=\"http://jefklakscodex.com/\">Retro Gaming | Jefklaks Codex</a>",
+      "text": "@roytang Spot-on! I've been thinking about merging jefklakscodex.com with brainbaking.com for a long time and tried cross-posting a few times. The game site is nostalgia for me and contains a lot of custom stuff to auto-pull data from e.g. howlongtobeat.com. I connected both sites using webmentions but still ask myself whether or not to write more about games on Brain Baking instead. \n\nYour thoughts? Would you follow both sites or is that too much of a hassle?\nRetro Gaming | Jefklaks Codex"
+    },
+    "in-reply-to": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

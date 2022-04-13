@@ -1,0 +1,28 @@
+{
+  "id": "5fcb33be-0e5d-47ad-8444-1cfd6189c95e",
+  "name": "getimiskon :owoid:",
+  "url": "https://udongein.xyz/users/getimiskon",
+  "text": "[getimiskon :owoid:](https://udongein.xyz/users/getimiskon) [liked this](https://mastodon.technology/@roytang/108123746819152897#favorited-by-409404)",
+  "date": "2022-04-13 09:07:04",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/669139f56f32f10510b1e9536c1c19e036261057d99a72b38934554873bdd9a9.png",
+  "source_url": "https://mastodon.technology/@roytang/108123746819152897#favorited-by-409404",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "getimiskon :owoid:",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/669139f56f32f10510b1e9536c1c19e036261057d99a72b38934554873bdd9a9.png",
+      "url": "https://udongein.xyz/users/getimiskon"
+    },
+    "url": "https://mastodon.technology/@roytang/108123746819152897#favorited-by-409404",
+    "published": null,
+    "wm-received": "2022-04-13T09:07:04Z",
+    "wm-id": 1379820,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108123746819152897/409404",
+    "wm-target": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "like-of": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
