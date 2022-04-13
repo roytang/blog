@@ -1,0 +1,32 @@
+{
+  "id": "9e7372f0-6ee1-4728-9ff0-5ee1b54d2a7e",
+  "name": "Colin Walker",
+  "url": "https://colinwalker.blog",
+  "text": "<p><span>Like</span> <em><a class=\"u-like-of\" href=\"https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/\">Thoughts on Blogging, 2022 Edition \u00b7 roytang.net</a>...</em></p>\n<blockquote>\n<p><em>\"I think there's this misconception (driven by our world of late-stage capitalism maybe) that anything you do, even as a hobby, has to be done for the sake of extrinsic gains such as hits or views or likes or shares or even monetary profit.\"</em></p>\n</blockquote>\n<p>Amen!</p>",
+  "date": "2022-04-13 14:54:19",
+  "photo": "https://webmention.io/avatar/colinwalker.blog/5c8ac8aacb04dbcefd378de5eca295387918214d093ff98aef0edad847c6f014.jpg",
+  "source_url": "https://colinwalker.blog/?date=2022-04-13#p3",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Colin Walker",
+      "photo": "https://webmention.io/avatar/colinwalker.blog/5c8ac8aacb04dbcefd378de5eca295387918214d093ff98aef0edad847c6f014.jpg",
+      "url": "https://colinwalker.blog"
+    },
+    "url": "https://colinwalker.blog/?date=2022-04-13#p3",
+    "published": "2022-04-13T14:54:19+01:00",
+    "wm-received": "2022-04-13T13:54:22Z",
+    "wm-id": 1379890,
+    "wm-source": "https://colinwalker.blog/?date=2022-04-13#p3",
+    "wm-target": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "content": {
+      "html": "<p><span>Like</span> <em><a class=\"u-like-of\" href=\"https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/\">Thoughts on Blogging, 2022 Edition \u00b7 roytang.net</a>...</em></p>\n<blockquote>\n<p><em>\"I think there's this misconception (driven by our world of late-stage capitalism maybe) that anything you do, even as a hobby, has to be done for the sake of extrinsic gains such as hits or views or likes or shares or even monetary profit.\"</em></p>\n</blockquote>\n<p>Amen!</p>",
+      "text": "Like Thoughts on Blogging, 2022 Edition \u00b7 roytang.net...\n\n\"I think there's this misconception (driven by our world of late-stage capitalism maybe) that anything you do, even as a hobby, has to be done for the sake of extrinsic gains such as hits or views or likes or shares or even monetary profit.\"\n\nAmen!"
+    },
+    "like-of": "https://roytang.net/2022/04/thoughts-on-blogging-2022-edition/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
