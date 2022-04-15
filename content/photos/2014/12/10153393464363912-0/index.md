@@ -1,5 +1,7 @@
 ---
-date: 2014-12-04 18:37:00+08:00
+albums:
+- food
+date: 2014-12-04 10:37:00
 source: facebook
 syndicated:
 - type: facebook
