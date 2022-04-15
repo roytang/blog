@@ -19,8 +19,8 @@ tags:
 
 Sometimes you just ignore all the signals and just put together a ridiculous pile of cards that you hope will win through sheer force. #mtg
 
-[11:55] I hate it when my impatience loses me a game. Damn fog effect =/ #mtg
+<time>[11:55]</time> I hate it when my impatience loses me a game. Damn fog effect =/ #mtg
 
-[14:52] Note to self: If you have a bad draft, don't try to do another one. That's how tilt streaks happen #mtg
+<time>[14:52]</time> Note to self: If you have a bad draft, don't try to do another one. That's how tilt streaks happen #mtg
 
-[15:24] Ugh, that was a bad idea #vaguestatus
+<time>[15:24]</time> Ugh, that was a bad idea #vaguestatus

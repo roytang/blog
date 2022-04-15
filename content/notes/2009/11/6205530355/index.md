@@ -14,4 +14,4 @@ syndicated:
 
 I wish Tweetdeck understood that when I click "X" in the upper-right corner I want to quit the application, not have it hide in the tray.
 
-[00:34] Tweetdeck 0.32 is out that addresses my previous problem, plus support for twitter retweets, lists, etc. https://tweetdeck.twitter.com/
+<time>[00:34]</time> Tweetdeck 0.32 is out that addresses my previous problem, plus support for twitter retweets, lists, etc. https://tweetdeck.twitter.com/

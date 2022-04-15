@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow drafting! ep 8 https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #mtgcrimson
 
-[22:27] Only got to play one draft today. Unfortunately the pattern of alternating good and bad days did not hold up and this draft was a bit meh. Probably my fault because of bad keeps though. Deck seemed pretty solid.
+<time>[22:27]</time> Only got to play one draft today. Unfortunately the pattern of alternating good and bad days did not hold up and this draft was a bit meh. Probably my fault because of bad keeps though. Deck seemed pretty solid.
 
 
 

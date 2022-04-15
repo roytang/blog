@@ -2,7 +2,7 @@
 albums:
 - instagram
 checkin_id: 58416a5076b8b2595e647376
-date: 2016-12-02 08:48:07-07:00
+date: 2016-12-02 15:48:07
 location: 5579775a498e1dcc65578f9a
 source: instagram
 syndicated:
@@ -17,6 +17,7 @@ syndicated:
 tags:
 - bottleofwin
 - quiznight
+- geekfight
 ---
 
 Geekfight! (@Splice Greenfield District)

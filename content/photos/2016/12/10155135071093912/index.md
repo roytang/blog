@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-12-01 13:47:00+08:00
+date: 2016-12-01 05:47:00
 source: facebook
 syndicated:
 - type: facebook
@@ -9,6 +9,7 @@ syndicated:
 tags:
 - timeline-photos
 - noshavenovember
+- selfies
 ---
 
 After #noshavenovember

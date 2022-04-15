@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow drafting! ep 9 https://www.twitch.tv/twitchyroy #mtg #magicarena #mtgcrimson #twitch
 
-[16:09] Managed 3 drafts today. Among them were my worst and my best crimson vow drafts
+<time>[16:09]</time> Managed 3 drafts today. Among them were my worst and my best crimson vow drafts
 
 
 
