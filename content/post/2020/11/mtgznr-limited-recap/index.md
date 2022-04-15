@@ -34,13 +34,12 @@ Zendikar Rising limited stats!
 | Green | 5 | 14 | 15 | 29 | 0.4828 |
 | |
 | *By Format* |
-| Sealed | 5 | 12 | 15 | 27 | 0.4444 |
-| Premier Draft | 13 | 42 | 37 | 79 | 0.5316 |
-| Sealed Open | 1 | 4 | 3 | 7 | 0.5714 |
-| |
-| *By Ranks* |
 | Premier Draft | 11 | 39 | 31 | 70 | 0.5571 |
 | Traditional Draft | 1 | 0 | 3 | 3 | 0 |
+| |
+| *By Ranks* |
+| Gold | 10 | 25 | 27 | 52 | 0.4808 |
+| Platinum | 4 | 14 | 7 | 21 | 0.6667 |
 | |
 | *Quick/Premier Drafts By Outcome* |
 | 7-x | 1 |
@@ -58,4 +57,4 @@ Notes:
 - No Quick Drafts here, so I would guess this was the last set before QDs were introduced. I tried the rare Traditional (BO3) draft here, which ended terribly.
 - Most played archetype was WU Party, but apparently not the winningest one!
 
-Related: [Zendikar Rising Youtube Playlist](http://localhost:8000/tags/mtgznr), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+Related: [Zendikar Rising Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXix6QfgYJ6aHPqwH3ASA7Nr), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)

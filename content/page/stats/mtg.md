@@ -30,7 +30,7 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Apr 2022  | 127 | 434 | 350 | 784 | 0.5536 |
+| ALL | Apr 2022   | 135 | 459 | 373 | 832 | 0.5517 |
 | [Kamigawa: Neon Dynasty](/2022/03/mtgneo-limited-recap/) | Mar 2022 | 26 | 90 | 70 | 160 | 0.5625 |
 | [Innistrad: Crimson Vow](/2021/12/mtgcrimson-limited-recap/) | Dec 2021 | 21 | 80 | 57 | 137 | 0.5839 |
 | [Innistrad: Midnight Hunt](/2021/10/mtgmidnight-limited-recap/) | Oct 2021 | 10 | 39 | 28 | 67 | 0.5821 |
@@ -38,6 +38,7 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 | [Strixhaven](/2021/05/mtgstx-limited-recap/) | May 2021 | 20 | 67 | 56 | 123 | 0.5447 |
 | [Kaldheim](/2021/02/mtgkld-limited-recap/) | Feb 2021 | 19 | 58 | 55 | 113 | 0.5133 |
 | [Zendikar Rising](/2020/11/mtgznr-limited-recap/) | Nov 2020 | 12 | 39 | 34 | 73 | 0.5342 |
+| [M21](/2020/07/mtgm21-limited-recap/) | Jul 2020 | 8 | 25 | 23 | 48 | 0.5208 |
 
 
 
