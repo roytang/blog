@@ -16,7 +16,7 @@ tags:
 
 Crimson Vow quick drafts! https://www.twitch.tv/twitchyroy #mtg #magicarena #twitch #mtgcrimson
 
-[23:07] So I managed a couple of quick drafts. Decks seemed nice, but neither got to 7. Oh well. This was my last stream for crimson vow limited, I finally get to open my packs!
+<time>[23:07]</time> So I managed a couple of quick drafts. Decks seemed nice, but neither got to 7. Oh well. This was my last stream for crimson vow limited, I finally get to open my packs!
 
 
 
