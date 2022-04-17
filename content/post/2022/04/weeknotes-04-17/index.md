@@ -26,6 +26,11 @@ reviews:
   media: books
   rating: 4.0
   title: The Murder of Robert Ackroyd by Agatha Christie
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108147817766592289
+- type: twitter
+  url: https://twitter.com/roytang/status/1515694676791402498/
 tags:
 - weeknotes
 - philippines
