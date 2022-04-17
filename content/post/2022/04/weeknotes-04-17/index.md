@@ -75,7 +75,9 @@ Visit the [Links page](/links/) for more links of interest.
 - My week felt largely uneventful. I cut down on gaming for the second half of the week (from Thursday onwards) in a bid to bring back some solemnity to Holy Week. Ended up reading a bunch of books instead, something I haven't done in like maybe 15 years or so! That made me really happy.
 
 - Vague status: I got a bit annoyed at certain people for unsolicited advice that wasn't even well-considered. I also got sad about something I just found out about today because it dashed my hopes about something I had been hoping would happen in the future. Let's see if future me can figure this out 10 years from now.
-  
+
+- This site has joined the [Fediring](https://fediring.net/)! It actually took me a few days to do this, mostly because my initial attempts to send them an email met with an error which [apparently had to be fixed on the SourceHut side](https://lists.sr.ht/~sircmpwn/sr.ht-discuss/%3CCAAVpO%2BAEUwDFHT_uu8_8vJKVOE8BbEqWxsu%3D8qDWvmJ3EzPtHg%40mail.gmail.com%3E). It took me several steps to figure out where to report this; from Mastodon I was redirected to IRC and from there told to send to the mailing list. After the fix, I was so happy to be able to report an issue and participate in some kind of open source community thing that I immediately violated [the mailing list's etiquette](https://man.sr.ht/lists.sr.ht/etiquette.md) by top-posting in my last reply. Oops, at least I didn't get told off.
+
 - **Gaming**:
     - Ongoing: 
         - **Tales of Vesperia** (Steam): I finished a bunch of quests before setting the game aside for the long weekend. I actually thought I needed to automate a certain quest which required me to keep rolling at an in-game gacha machine because the drops I needed weren't coming, so I studied [AutoHotkey](https://www.autohotkey.com/) and set up a script and ran it for a few hours only to still not get the items I needed and it turned out I just hadn't triggered the quest step that would make those items available and afterwards they were easy enough to get that I didn't need the script at all. At least I learned something?
