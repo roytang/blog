@@ -1,0 +1,28 @@
+{
+  "id": "8ebe29d1-2d74-45f8-b400-2eafe4e96539",
+  "name": "Andy Baio",
+  "url": "https://twitter.com/waxpancake",
+  "text": "[Andy Baio](https://twitter.com/waxpancake) [liked this](https://twitter.com/roytang/status/1515550862713954309#favorited-by-13461)",
+  "date": "2022-04-17 23:23:25",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/e080d657ef8f82d2f50b8b4338b80876310f70358e27872c23f2e5629e11392a.jpg",
+  "source_url": "https://twitter.com/roytang/status/1515550862713954309#favorited-by-13461",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Andy Baio",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e080d657ef8f82d2f50b8b4338b80876310f70358e27872c23f2e5629e11392a.jpg",
+      "url": "https://twitter.com/waxpancake"
+    },
+    "url": "https://twitter.com/roytang/status/1515550862713954309#favorited-by-13461",
+    "published": null,
+    "wm-received": "2022-04-17T23:23:25Z",
+    "wm-id": 1382568,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1515550862713954309/13461",
+    "wm-target": "https://roytang.net/2022/04/51d516a501724350089692d70c0910e0/",
+    "like-of": "https://roytang.net/2022/04/51d516a501724350089692d70c0910e0/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
