@@ -10,7 +10,7 @@ Discworld series is a fantasy comedy series by Terry Pratchett.
 
 This page acts as my reference for the eventual goal of reading all the Discworld books, as well as an index to individual reviews. Unfortunately, I don't have reviews for all the ones I've already read.
 
-Current read count: 10/41 (as of March 14, 2022)
+Current read count: 12/41 (as of April 17, 2022)
 
 ### List of Books
 
@@ -21,10 +21,10 @@ Current read count: 10/41 (as of March 14, 2022)
 | 3 | Equal Rites  | 1987 | Witches  | Y | [2006](/2006/03/recent-reading-2006-03-12/), [2016](/2016/08/equal-rites/) |
 | 4 | Mort  | 1987 | Death  | Y | [2014](/2014/04/10152904609773912/) |
 | 5 | Sourcery  | 1988 | Rincewind | Y | |
-| 6 | Wyrd Sisters  | 1988 | Witches  | | |
+| 6 | Wyrd Sisters  | 1988 | Witches  | Y | [2022](/2022/04/weeknotes-04-17/#wyrd-sisters-by-terry-pratchett) |
 | 7 | Pyramids  | 1989 | Djelibeybi  | | |
 | 8 | Guards! Guards!  | 1989 | City Watch  | Y | [2016](/2016/12/805050532834353152/), [2021](/2021/04/discworld-city-watch/) |
-| 9 | Eric  | 1990 | Rincewind  | | |
+| 9 | Eric  | 1990 | Rincewind  | Y | [2022](/2022/04/weeknotes-04-17/#eric-by-terry-pratchett) |
 | 10 | Moving Pictures  | 1990 | Industrial Revolution  | | |
 | 11 | Reaper Man  | 1991 | Death  | | |
 | 12 | Witches Abroad  | 1991 | Witches  | Y | |
