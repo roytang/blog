@@ -37,6 +37,7 @@ tags:
 - mtg
 - magicarena
 - books
+- discworld
 title: Weeknotes 2022-04-17
 ---
 
