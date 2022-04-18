@@ -88,3 +88,7 @@ I am 99.9999% sure this is not the last time I'm going to blog about blogging.
 ---
 
 Previously: [Thoughts on Blogging 2020 Edition](/2020/02/thinking-in-public/), [Thoughts on Blogging 2020 Edition Part 2](/2020/05/thoughts-on-blogging-2020-v2/), [the blogging tag](/tags/blogging/)
+
+---
+
+Edit 2022-04-18: [This recent SMBC strip](https://www.smbc-comics.com/comic/liberal-education) felt relevant.
