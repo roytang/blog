@@ -4,4 +4,6 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/273071960
+tags:
+- dilbert
 ---

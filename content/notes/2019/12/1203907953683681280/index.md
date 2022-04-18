@@ -1,10 +1,10 @@
 ---
 date: 2019-12-09 05:23:18+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1203907953683681280/
-title: ''
+  url: https://twitter.com/roytang/status/1203907953683681280/
 ---
 
 Wow! 

@@ -1,16 +1,16 @@
 ---
-date: 2009-12-07 07:56:15
+date: 2009-12-07 07:56:15+00:00
+dontinlinephotos: true
 reply_to:
   label: mtgsalivanth's tweet
   name: mtgsalivanth
   type: twitter
-  url: https://twitter.com/mtgsalivanth/statuses/6425047092/
+  url: https://twitter.com/mtgsalivanth/status/6425047092/
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roy_mtg/statuses/6425119979/
+  url: https://twitter.com/roy_mtg/status/6425119979/
 tags:
-- mtg
 - mtgsalivanth
 ---
 

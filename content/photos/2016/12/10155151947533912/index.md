@@ -1,13 +1,14 @@
 ---
 albums:
 - timeline
-date: 2016-12-07 14:43:00+08:00
+date: 2016-12-07 06:43:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155151947533912
 tags:
 - timeline-photos
+- duterte
 ---
 
 Okay, let's review:

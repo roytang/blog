@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-12-06 22:16:37
+location: robinsons_galleria
 tags:
 - mtg
 title: Standard 06 Dec 2008 -- Blightning Beatdown

@@ -11,4 +11,4 @@ title: ''
 
 When your online banking web application can't even handle a browser refresh without losing my session, something's wrong
 
-[13:56] Apparently it was my browser's fault!
+<time>[13:56]</time> Apparently it was my browser's fault!
