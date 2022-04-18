@@ -1,0 +1,31 @@
+{
+  "id": "6a44c199-fa02-43ff-aef4-90cf9fba8593",
+  "name": "BCS Online Magazine",
+  "url": "https://twitter.com/BCSmagazine",
+  "text": "A fantasy novelette about dragons I bookmarked last month but only read now. Great plot and worldbuilding. The author has a thread about it on Twitter: twitter.com/singlecrow/sta\u2026\n\nroytang.net/p/893de43u/",
+  "date": "2022-04-18 17:26:28",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/a73ffec378ce368d89f61568c6c40b035aeb3e752bdf55a9e66fa40efec4f504.jpg",
+  "source_url": "https://twitter.com/BCSmagazine/status/1516105899173101572/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "BCS Online Magazine",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a73ffec378ce368d89f61568c6c40b035aeb3e752bdf55a9e66fa40efec4f504.jpg",
+      "url": "https://twitter.com/BCSmagazine"
+    },
+    "url": "https://twitter.com/BCSmagazine/status/1516105899173101572",
+    "published": "2022-04-18T17:26:28+00:00",
+    "wm-received": "2022-04-18T18:31:44Z",
+    "wm-id": 1382809,
+    "wm-source": "https://brid.gy/repost/twitter/roytang/1516073836239675394/1516105899173101572",
+    "wm-target": "https://roytang.net/2022/04/aacbbadeab11f4c66b11c4218df615b2/",
+    "content": {
+      "text": "A fantasy novelette about dragons I bookmarked last month but only read now. Great plot and worldbuilding. The author has a thread about it on Twitter: twitter.com/singlecrow/sta\u2026\n\nroytang.net/p/893de43u/"
+    },
+    "repost-of": "https://roytang.net/2022/04/aacbbadeab11f4c66b11c4218df615b2/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}

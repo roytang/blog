@@ -1,0 +1,28 @@
+{
+  "id": "b981d86a-2a05-4df5-8a2d-60d58e2c4d6d",
+  "name": "BCS Online Magazine",
+  "url": "https://twitter.com/BCSmagazine",
+  "text": "[BCS Online Magazine](https://twitter.com/BCSmagazine) [liked this](https://twitter.com/roytang/status/1516073836239675394#favorited-by-227309682)",
+  "date": "2022-04-18 18:31:43",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/a73ffec378ce368d89f61568c6c40b035aeb3e752bdf55a9e66fa40efec4f504.jpg",
+  "source_url": "https://twitter.com/roytang/status/1516073836239675394#favorited-by-227309682",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "BCS Online Magazine",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/a73ffec378ce368d89f61568c6c40b035aeb3e752bdf55a9e66fa40efec4f504.jpg",
+      "url": "https://twitter.com/BCSmagazine"
+    },
+    "url": "https://twitter.com/roytang/status/1516073836239675394#favorited-by-227309682",
+    "published": null,
+    "wm-received": "2022-04-18T18:31:43Z",
+    "wm-id": 1382807,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1516073836239675394/227309682",
+    "wm-target": "https://roytang.net/2022/04/aacbbadeab11f4c66b11c4218df615b2/",
+    "like-of": "https://roytang.net/2022/04/aacbbadeab11f4c66b11c4218df615b2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
