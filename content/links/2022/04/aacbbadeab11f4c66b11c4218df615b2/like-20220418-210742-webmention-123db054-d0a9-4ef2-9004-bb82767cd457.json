@@ -1,0 +1,28 @@
+{
+  "id": "123db054-d0a9-4ef2-9004-bb82767cd457",
+  "name": "Daphnis. \ud83d\ude80\ud83c\udf1f",
+  "url": "https://twitter.com/SilverD90001857",
+  "text": "[Daphnis. \ud83d\ude80\ud83c\udf1f](https://twitter.com/SilverD90001857) [liked this](https://twitter.com/roytang/status/1516073836239675394#favorited-by-192019372)",
+  "date": "2022-04-18 21:07:42",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/b66ca10371b3a16c5b5ab3afd0682bea48cbf0a14e9490121bc69e32ffc3d770.jpg",
+  "source_url": "https://twitter.com/roytang/status/1516073836239675394#favorited-by-192019372",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Daphnis. \ud83d\ude80\ud83c\udf1f",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/b66ca10371b3a16c5b5ab3afd0682bea48cbf0a14e9490121bc69e32ffc3d770.jpg",
+      "url": "https://twitter.com/SilverD90001857"
+    },
+    "url": "https://twitter.com/roytang/status/1516073836239675394#favorited-by-192019372",
+    "published": null,
+    "wm-received": "2022-04-18T21:07:42Z",
+    "wm-id": 1382929,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1516073836239675394/192019372",
+    "wm-target": "https://roytang.net/2022/04/aacbbadeab11f4c66b11c4218df615b2/",
+    "like-of": "https://roytang.net/2022/04/aacbbadeab11f4c66b11c4218df615b2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

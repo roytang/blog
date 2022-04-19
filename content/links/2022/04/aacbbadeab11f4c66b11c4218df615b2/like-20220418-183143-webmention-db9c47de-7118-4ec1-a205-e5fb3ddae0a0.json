@@ -1,0 +1,28 @@
+{
+  "id": "db9c47de-7118-4ec1-a205-e5fb3ddae0a0",
+  "name": "Benjamin Kissell has a gayAF agenda",
+  "url": "https://twitter.com/praetor1983",
+  "text": "[Benjamin Kissell has a gayAF agenda](https://twitter.com/praetor1983) [liked this](https://twitter.com/roytang/status/1516073836239675394#favorited-by-134691363)",
+  "date": "2022-04-18 18:31:43",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/58a8bb7207a56cfc2c83869e2e3fe796b65f2d54577daa68940445d5058b39cf.jpg",
+  "source_url": "https://twitter.com/roytang/status/1516073836239675394#favorited-by-134691363",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Benjamin Kissell has a gayAF agenda",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/58a8bb7207a56cfc2c83869e2e3fe796b65f2d54577daa68940445d5058b39cf.jpg",
+      "url": "https://twitter.com/praetor1983"
+    },
+    "url": "https://twitter.com/roytang/status/1516073836239675394#favorited-by-134691363",
+    "published": null,
+    "wm-received": "2022-04-18T18:31:43Z",
+    "wm-id": 1382808,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1516073836239675394/134691363",
+    "wm-target": "https://roytang.net/2022/04/aacbbadeab11f4c66b11c4218df615b2/",
+    "like-of": "https://roytang.net/2022/04/aacbbadeab11f4c66b11c4218df615b2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

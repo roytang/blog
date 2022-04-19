@@ -1,0 +1,28 @@
+{
+  "id": "89fc74ae-0f16-46d3-ae5a-53edd315b3a9",
+  "name": "Naum \ud83c\udf39",
+  "url": "https://twitter.com/naum",
+  "text": "[Naum \ud83c\udf39](https://twitter.com/naum) [liked this](https://twitter.com/roytang/status/1516065725194014727#favorited-by-808758)",
+  "date": "2022-04-18 15:40:19",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/fea587df4176ed37e3aa0090a4ed89f0a7423b7f70bbf43feb0222a39583d2bc.jpg",
+  "source_url": "https://twitter.com/roytang/status/1516065725194014727#favorited-by-808758",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Naum \ud83c\udf39",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fea587df4176ed37e3aa0090a4ed89f0a7423b7f70bbf43feb0222a39583d2bc.jpg",
+      "url": "https://twitter.com/naum"
+    },
+    "url": "https://twitter.com/roytang/status/1516065725194014727#favorited-by-808758",
+    "published": null,
+    "wm-received": "2022-04-18T15:40:19Z",
+    "wm-id": 1382730,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1516065725194014727/808758",
+    "wm-target": "https://roytang.net/2022/04/d41c75e4cb84bb7c7f43a4b75dd1e494/",
+    "like-of": "https://roytang.net/2022/04/d41c75e4cb84bb7c7f43a4b75dd1e494/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
