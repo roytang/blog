@@ -1,5 +1,10 @@
 ---
 date: 2011-12-09 18:18:23
+reviews:
+- description: ''
+  media: comics
+  rating: 0.0
+  title: Liar Game
 source: twitter
 syndicated:
 - type: twitter

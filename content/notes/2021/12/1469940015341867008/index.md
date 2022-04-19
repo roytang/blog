@@ -21,10 +21,10 @@ a) `When asked if a candidate's channel will need at least 100,000 subscribers t
 
 {{< photos 1469940015341867008 >}}
 
-[15:59] b) Google has already said they won't allow political ads in the PH during the campaign period, so they wouldn't be able to run political ads on Youtube anyway
+<time>[15:59]</time> b) Google has already said they won't allow political ads in the PH during the campaign period, so they wouldn't be able to run political ads on Youtube anyway
 
 
 
 (I went ahead and subbed to the YT account anyway)
 
-[16:00] Citation for Google not running political ads: https://edition.cnn.com/2021/12/01/tech/google-political-ad-ban-philippines/index.html
+<time>[16:00]</time> Citation for Google not running political ads: https://edition.cnn.com/2021/12/01/tech/google-political-ad-ban-philippines/index.html

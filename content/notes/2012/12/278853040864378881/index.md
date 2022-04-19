@@ -14,6 +14,6 @@ tags:
 
 3mins x 200 congressmen = 10 hours @_@ #RHBill
 
-[22:43] Sana may magsabing "i vote yes because i am wearing purple" #rhbill
+<time>[22:43]</time> Sana may magsabing "i vote yes because i am wearing purple" #rhbill
 
-[23:52] Ang petiks nung mga congressman, yung isa nglalaro ng angry birds #RHBill
+<time>[23:52]</time> Ang petiks nung mga congressman, yung isa nglalaro ng angry birds #RHBill

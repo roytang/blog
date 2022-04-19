@@ -1,13 +1,14 @@
 ---
 albums:
 - timeline
-date: 2015-12-10 12:02:00+08:00
+date: 2015-12-10 04:02:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154239469608912
 tags:
 - timeline-photos
+- duterte
 ---
 
 As I mentioned in a separate thread, one of the things that I find most scary is the fanaticism and unquestioning loyalty of the Duterte supporters online. The attached photo is a sampling of comments in Carlos Conde's post that contained links to reports from various international organisations regarding the DDS killings. (Carlos Conde's original post: https://www.facebook.com/carlosconde.ph/photos/a.527960643942515.1073741825.136793129725937/943857712352804/?type=3)
