@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/145205668629053440/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150420032683912
+tags:
+- comics
 ---
 
 Finally caught up with the current issues of Liar Game. This is probably a good place to stop and just read the new arc in half a year or so
