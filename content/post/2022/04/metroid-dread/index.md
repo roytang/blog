@@ -5,6 +5,11 @@ reviews:
   media: games
   rating: 5.0
   title: Metroid Dread (Nintendo Switch)
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108158581844873151
+- type: twitter
+  url: https://twitter.com/roytang/status/1516383562865721349/
 tags:
 - gaming
 - nintendoswitch
