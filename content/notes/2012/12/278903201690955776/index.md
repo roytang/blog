@@ -14,6 +14,6 @@ tags:
 
 Aantayin ko ba matapos itong congress voting? Dapat holiday bukas napuyat mga pilipino #rhbill
 
-[01:01] Everytime I'm asked my opinion on something, I'm going to reply "may I be allowed to explain my vote" #rhbill
+<time>[01:01]</time> Everytime I'm asked my opinion on something, I'm going to reply "may I be allowed to explain my vote" #rhbill
 
-[01:07] The #rhbill is a defensive measure to minimise addl poverty not to reduce existing poverty. Both kinds of measures are important
+<time>[01:07]</time> The #rhbill is a defensive measure to minimise addl poverty not to reduce existing poverty. Both kinds of measures are important

@@ -11,4 +11,4 @@ syndicated:
 
 Going to the mall to buy a new vidcard. Traffic tells me this may have been a bad idea
 
-[17:50] That was a poorly planned excursion.
+<time>[17:50]</time> That was a poorly planned excursion.
