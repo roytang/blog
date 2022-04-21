@@ -72,7 +72,7 @@ tags:
 title: 'Late Game Review: Tales of Symphonia'
 ---
 
-I'm a big fan of [the Tales series of games](/tags/talesof/); I played the early games Phantasia (via emulation), Destiny and Eternia (both on PS1), but skipped out on the series a bit during the PS2 era when most of the games either did not have an English release or when not on a console I had. **Tales of Symphonia** belongs to the latter category; It originally came out for the Nintendo GameCube in 2003 and had a PS2 port which never saw an English release. This is the oldest Tales game that I haven't yet played before that had a legal English release. 
+I'm a big fan of [the Tales series of games](/tags/talesof/); I played the early games Phantasia (via emulation), Destiny and Eternia (both on PS1), but skipped out on the series a bit during the PS2 era when most of the games either did not have an English release or were not on a console I had. **Tales of Symphonia** belongs to the latter category; It originally came out for the Nintendo GameCube in 2003 and had a PS2 port which never saw an English release. This is the oldest Tales game that I haven't yet played before that had a legal English release. 
 
 The plot is very anime, including the confusing terms that are never satisfactorily explained (I'm still not sure what Derris-Kharlan was supposed to be. Was it a different planet?!?), and the ending that kind of came out of nowhere. It was ok, the characters are generally likeable, though none in particular stood out for me, I just played as Lloyd most of the time.
 

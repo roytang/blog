@@ -1,5 +1,5 @@
 ---
-date: 2016-12-16 06:06:28+00:00
+date: 2016-12-16 06:06:28
 repost_source:
   name: FioraAeterna
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/809640820919803904/
+tags:
+- duterte
 title: ''
 ---
 

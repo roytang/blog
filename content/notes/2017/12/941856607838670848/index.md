@@ -25,16 +25,16 @@ tags:
 
 1-0 at #gpsing. my pool is pretty sweet~
 
-[11:40] 2-0 matches 4-1 games #gpsing #mtg
+<time>[11:40]</time> 2-0 matches 4-1 games #gpsing #mtg
 
-[12:31] 3-0 games, 6-1 matches. feels good to have a good gp start again #gpsing #mtg
+<time>[12:31]</time> 3-0 games, 6-1 matches. feels good to have a good gp start again #gpsing #mtg
 
-[13:32] first loss 3-1 matches 6-3 games #gpsing #mtg
+<time>[13:32]</time> first loss 3-1 matches 6-3 games #gpsing #mtg
 
-[14:55] 4-1 matches 8-4 games #gpsing #mtg
+<time>[14:55]</time> 4-1 matches 8-4 games #gpsing #mtg
 
-[15:49] 4-2 matches 8-6 games noooo #mtg #gpsing
+<time>[15:49]</time> 4-2 matches 8-6 games noooo #mtg #gpsing
 
-[16:45] 4-3 matches 9-8 games no more losses to give )= #gpsing #mtg
+<time>[16:45]</time> 4-3 matches 9-8 games no more losses to give )= #gpsing #mtg
 
-[17:50] 4-4 matches 9-10 games Deadzzzz #gpsing #mtg at least i dont have to be eaely tmr
+<time>[17:50]</time> 4-4 matches 9-10 games Deadzzzz #gpsing #mtg at least i dont have to be eaely tmr

@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2006-12-17 07:51:11
+location: robinsons_galleria
 tags:
 - mtg
 title: 'Magic: 2006 Gold Rush'
