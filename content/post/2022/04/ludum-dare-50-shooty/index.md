@@ -6,6 +6,12 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108083498854289749
 - type: twitter
   url: https://twitter.com/roytang/status/1511578251633717248/
+- type: twitter
+  url: https://twitter.com/roytang/status/1517614791245795328/
+- type: twitter
+  url: https://twitter.com/roytang/status/1517615047547129856/
+- type: twitter
+  url: https://twitter.com/roytang/status/1517615190287601664/
 tags:
 - gamedev
 title: 'Ludum Dare 50: Untitled Shooty Game'
@@ -93,3 +99,11 @@ Some screenshots of the game attached below!
 {{% photos screen %}}
 
 Will update this post when the results come out!
+
+<time id="1517614791245795328">[2022-04-23 05:22] </time> Ludum Dare 50 results came out yesterday morning! Unfortunately, Untitled Shooty Game did not do as well as my last Ludum Dare attempt. Ratings are out of 805 compo submissions total. 
+
+{{< photos 1517614791245795328 >}}
+
+<time id="1517615047547129856">[2022-04-23 05:23] </time> Still, relatively happy with the result and for the experience, and I did get some good feedback. Honestly, USG feels a lot more solid as a foundation for a later release compared to my earlier game jam attempts. Looking forward to LD51 later this year!
+
+<time id="1517615190287601664">[2022-04-23 05:23] </time> Side note: The top LD50 games look great, I'm thinking of streaming them next week.
