@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/280912844705366017/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151975677053912
+tags:
+- tv
 ---
 
 I was a bit worried about how they were going to pull it off, but Homeland's season ender was pretty good.

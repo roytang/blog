@@ -1,13 +1,19 @@
 ---
-date: 2022-04-24T21:45:57+08:00
+date: 2022-04-24 13:45:57
 dontinlinephotos: true
+resources:
+- src: 20220419_173048.jpg
+  title: I found this restaurant a short walk away that served a nice sausage and
+    pepperoni roll I liked.
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108187504512356741
+- type: twitter
+  url: https://twitter.com/roytang/status/1518234606012891136/
 tags:
 - weeknotes
 - philippines
 title: Weeknotes 2022-04-24
-resources:
-- src: 20220419_173048.jpg
-  title: I found this restaurant a short walk away that served a nice sausage and pepperoni roll I liked.
 ---
 
 ### The World
