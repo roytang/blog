@@ -1,5 +1,5 @@
 ---
-date: 2016-04-24 09:32:00+00:00
+date: 2016-04-24 09:32:00
 source: twitter
 syndicated:
 - type: twitter
@@ -9,6 +9,7 @@ syndicated:
 tags:
 - unity
 - 2016phvote
+- duterte
 ---
 
 So it has come to this #unity 

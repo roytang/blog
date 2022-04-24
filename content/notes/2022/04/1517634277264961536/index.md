@@ -10,6 +10,4 @@ tags:
 - EternalCardGame
 ---
 
-Didn't make day 2 in this weekend's [@EternalCardGame](https://twitter.com/EternalCardGame/)
-
-draft open, but the game is still ridiculously generous. I got 42 packs total from both runs, which is worth almost 95% of the event fee. #MagicArena would've given you back like 25% for being 2 wins short.
+Didn't make day 2 in this weekend's [@EternalCardGame](https://twitter.com/EternalCardGame/) draft open, but the game is still ridiculously generous. I got 42 packs total from both runs, which is worth almost 95% of the event fee. #MagicArena would've given you back like 25% for being 2 wins short.

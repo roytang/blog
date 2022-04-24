@@ -6,6 +6,10 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/4bd2d537a4de2f5e9aa045bd
+- type: twitter
+  url: https://twitter.com/roytang/statuses/12757965371/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/116307031730928
 tags: []
 ---
 
