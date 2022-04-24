@@ -46,7 +46,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - Because of the ankle sprain, I opted not to attend a Thursday wedding I had already RSVPed to. I just watched the ceremonies over livestream instead, apparently that is a thing that happens nowadays!
 
-- [Results for the Ludum Dare 50](https://ldjam.com/events/ludum-dare/50) came out last Friday. Unfortunately, [Untitled Shooty Game](/2022/04/ludum-dare-50-shooty/) did not do so well. We'll try to do better next time! The top games all look so good, I'm thinking of streaming them sometime this week.
+- [Results for the Ludum Dare 50](https://ldjam.com/events/ludum-dare/50) came out last Friday. Unfortunately, [Untitled Shooty Game](/2022/04/ludum-dare-50-shooty/#1517614791245795328) did not do so well. We'll try to do better next time! The top games all look so good, I'm thinking of streaming them sometime this week.
 
 - Had a busy weekend because there's a couple of birthdays in the immediate family, so both days had get-togethers with different folk, all vaccinated and masked of course. It's actually the first time we've had non-family party guests at home since the pandemic began!
 
