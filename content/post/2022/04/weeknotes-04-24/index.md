@@ -7,13 +7,14 @@ tags:
 title: Weeknotes 2022-04-24
 resources:
 - src: 20220419_173048.jpg
-  title: I found this restaurant nearby that served a nice sausage and pepperoni roll I liked.
+  title: I found this restaurant a short walk away that served a nice sausage and pepperoni roll I liked.
 ---
 
 ### The World
 
 - Putin's invasion of Ukraine is now in its 9th week. Russian efforts have been refocused to eastern Ukraine, and Mariupol is about to fall.
 - PH/Politics: VP and current presidential candidate Leni Robredo celebrated her birthday yesterday, and a grand rally was held in Pasay with an estimated over 400,000 attendees. A good number of my friends were there. It's a bit of a phenomenon really. I don't know if she will manage to win the elections, but if she does it's going to be a miracle driven by the people.
+- PH/Politics: The Comelec has released [a precinct finder website](https://voterverifier.comelec.gov.ph/voter_precinct) that lets you check your voter details, and as one would expect the first day of the launch was full of crashes and errors and server downtime and such. When the dust had finally cleared, I managed to check our details. My voting records and one of the parents' were marked "under review", while the other parent's records were okay. Good thing I checked; I have emailed the relevant Comelec district, hopefully they respond. I saw in the news earlier today that other people had reported similar problems. Two weeks remain until the elections!
 
 ### Links of Interest
 
@@ -39,7 +40,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - Because of the ankle sprain, I opted not to attend a Thursday wedding I had already RSVPed to. I just watched the ceremonies over livestream instead, apparently that is a thing that happens nowadays!
 
-- [Results for the Ludum Dare 50](https://ldjam.com/events/ludum-dare/50) came out last Friday. Unfortunately, [Untitled Shooty Game](https://roytang.net/2022/04/ludum-dare-50-shooty/) did not do so well. We'll try to do better next time! The top games all look so good, I'm thinking of streaming them sometime this week.
+- [Results for the Ludum Dare 50](https://ldjam.com/events/ludum-dare/50) came out last Friday. Unfortunately, [Untitled Shooty Game](/2022/04/ludum-dare-50-shooty/) did not do so well. We'll try to do better next time! The top games all look so good, I'm thinking of streaming them sometime this week.
 
 - Had a busy weekend because there's a couple of birthdays in the immediate family, so both days had get-togethers with different folk, all vaccinated and masked of course. It's actually the first time we've had non-family party guests at home since the pandemic began!
 
@@ -48,7 +49,7 @@ Visit the [Links page](/links/) for more links of interest.
       - **Metroid Dread** (Nintendo Switch): I finished this last week and [wrote some words about it](/2022/04/metroid-dread/).
       - [Eternal](/tags/EternalCardGame): Sadly, I [did not advance in this weekend's draft open](/2022/04/1517634277264961536/). I will admit I feel a bit frustrated that I haven't done well in any of the Arena or Eternal opens I've played so far this year, but I try to remind myself that even when I was doing Magic Grand Prixs, it took a while before I managed a day 2 finish. Just need to be patient and keep improving I guess?
       - [Street Fighter V](/tags/street-fighter-v): Not playing too often, but when I do, I do poorly. =/
-      - [Magic Arena](/tags/MagicArena): Lots of great announcements this week for Magic, including a road-to-Pioneer format coming to Arena with New Capenna and new Premier Play paths for Arena. Looking forward to all of this stuff when New Capenna drops next week! Also, since I had already broken free-to-play last weekend, I decided to go ahead and preorder the draft bundle for the coming set, since I was low on gems due to doing poorly last weekend and this was a good way to get back in it. Hopefully it doesn't become a habit.
+      - [Magic Arena](/tags/MagicArena): Lots of great announcements this week for Magic, including a road-to-Pioneer format coming to Arena with New Capenna and new Premier Play paths for Arena. Looking forward to when New Capenna drops next week! Also, since I had already broken free-to-play last weekend, I decided to go ahead and preorder the draft bundle for the coming set, since I was low on gems due to doing poorly last weekend and this was a good way to get back in it. Hopefully it doesn't become a habit.
 
 ### Media Diet
 
@@ -59,7 +60,7 @@ Didn't watch any new movies or finish any books/tv seasons this week, though I d
     - Behind: **Legends of Tomorrow**, **The Simpsons**
     - Yet to start: **Cobra Kai season 4**, 
 
-- **Currently Reading**: Currently around halfway through **Feet of Clay by Terry Pratchett** (a discworld book).
+- **Currently Reading**: Around halfway through **Feet of Clay by Terry Pratchett** (a [Discworld](/topics/discworld/) book).
 
 
 ### This coming week:
