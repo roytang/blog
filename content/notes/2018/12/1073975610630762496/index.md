@@ -1,5 +1,5 @@
 ---
-date: 2018-12-15 16:18:33+00:00
+date: 2018-12-15 16:18:33
 repost_source:
   name: A_Guy_Called
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1073975610630762496/
+tags:
+- puns
 title: ''
 ---
 

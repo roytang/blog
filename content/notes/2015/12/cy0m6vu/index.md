@@ -11,6 +11,7 @@ syndicated:
   url: https://www.reddit.com/r/Philippines/comments/3wyz0k/duterte_interview_uncut_version_what_do_you_guys/cy0m6vu/
 tags:
 - Philippines
+- duterte
 ---
 
 I don't need further convincing on his platforms. Most are ok, some might not scale or be practical on a nationwide level but are worth a try. 
