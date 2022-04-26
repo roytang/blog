@@ -1,10 +1,15 @@
 ---
-title: "The Final Wordles"
-date: 2022-04-26T22:43:29+08:00
+date: 2022-04-26 14:43:29
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108199250310029791
+- type: twitter
+  url: https://twitter.com/roytang/status/1518986340846944256/
 tags:
 - gaming
 - wordle
-dontinlinephotos: true
+title: The Final Wordles
 ---
 
 I am ending my daily Wordle+variants runs. No special reason, I just felt it was time. The number of us who have been doing them daily had been dwindling for a while, and I was at the point where I would occasionally almost forget to do them and at one point I crammed all of them in 5 minutes before midnight. Rather than waiting for the daily habit to slowly fade away, I'll just end it now so at least I get to do a wrapup!
