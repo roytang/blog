@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1461932205005959171/
 tags:
 - gaming
+- wordle
 title: A Couple Of Word Games
 ---
 

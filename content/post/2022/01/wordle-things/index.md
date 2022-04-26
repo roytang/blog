@@ -8,6 +8,7 @@ syndicated:
 tags:
 - games
 - tech-life
+- wordle
 title: Wordle and Things Like It
 ---
 
