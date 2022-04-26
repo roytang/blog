@@ -26,6 +26,6 @@ title: Avatar
 
 about to head out to watch avatar (imax) at sm north
 
-[19:59] may kasabay na premiere ng panday. Some random celebrities i don't know are here
+<time>[19:59]</time> may kasabay na premiere ng panday. Some random celebrities i don't know are here
 
-[23:57] You know a movie is good when you have to pee, but you don't. I held it in for 3 hours.
+<time>[23:57]</time> You know a movie is good when you have to pee, but you don't. I held it in for 3 hours.

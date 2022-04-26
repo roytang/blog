@@ -17,6 +17,6 @@ tags:
 
 TFW you're passed Ancestral Recall #holidaycube
 
-[07:55] "Are you kidding me that was 4 rips in a row" - opp after I won even when I got hit by Mindtwist for 4 and we were topdeck mode #holidaycube
+<time>[07:55]</time> "Are you kidding me that was 4 rips in a row" - opp after I won even when I got hit by Mindtwist for 4 and we were topdeck mode #holidaycube
 
-[07:57] Was severely outclassed too...he tinkered into Steel Wind all 3 games while I was hitting with Diregraf Ghouls and some goblins
+<time>[07:57]</time> Was severely outclassed too...he tinkered into Steel Wind all 3 games while I was hitting with Diregraf Ghouls and some goblins

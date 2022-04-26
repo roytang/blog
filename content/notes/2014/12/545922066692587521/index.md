@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153424474678912
 tags:
 - mtg
+- mtgo
+- cube
 ---
 
 Free holiday cube? Why not, even if I have no idea what I'm doing lol. I always first pick power right?
