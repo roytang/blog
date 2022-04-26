@@ -1,5 +1,5 @@
 ---
-date: 2022-04-26 14:43:29
+date: 2022-04-27 00:15:00+08:00
 dontinlinephotos: true
 syndicated:
 - type: mastodon
@@ -23,6 +23,8 @@ I am ending my daily Wordle+variants runs. No special reason, I just felt it was
 The [original Wordle](https://www.nytimes.com/games/wordle/index.html) that started it all. Some people find it hard, but I'm used to Word/logic games, so I have never lost a Wordle. I managed over three months worth of consecutive daily runs. 
 
 A lot of people like to approach Wordle methodically and always start with a predetermined set of guesses that maximizes the letters eliminating. I like to have fun, so I use a different starting word every time. I imagine (without any mathematical backing) that sticking to the same starting guess every time also lowers the odds of the mythical "Wordle in 1". Although, I never achieved that anyway!
+
+Also, OG Wordle is the only one of these variants I've been playing on my phone. The rest I play on desktop. Too bad there's no way to move your stats across to a different browser.
 
 ### Saltong
 
