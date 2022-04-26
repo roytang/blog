@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1505511309181263873/
 tags:
 - tech-life
+- wordle
 title: Wordle, 15 Million Tweets Later / Robert Lesser / Observable
 ---
 

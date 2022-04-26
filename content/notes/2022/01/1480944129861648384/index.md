@@ -1,10 +1,12 @@
 ---
-date: 2022-01-11 16:46:09+00:00
+date: 2022-01-11 16:46:09
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1480944129861648384/
+tags:
+- wordle
 ---
 
 So idk if this is rigged or I was just ridiculously lucky or what

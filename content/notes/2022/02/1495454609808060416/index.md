@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1495455513722572803/
 tags:
 - roswellwrites
+- wordle
 ---
 
 [@roswellwrites](https://twitter.com/roswellwrites/) https://sweardle.com/
