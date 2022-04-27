@@ -1,0 +1,28 @@
+{
+  "id": "18f3cc4f-70bc-40e8-8b9a-4a87131cf24a",
+  "name": "Julien M.",
+  "url": "https://framapiaf.org/@julm",
+  "text": "[Julien M.](https://framapiaf.org/@julm) [liked this](https://mastodon.technology/@roytang/108199684485710767#favorited-by-46567)",
+  "date": "2022-04-27 00:47:06",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/95c6b56952f2dc7a0fdc1a70af1b5c9270a1452a037f814dd80ac054d7907c28.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108199684485710767#favorited-by-46567",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Julien M.",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/95c6b56952f2dc7a0fdc1a70af1b5c9270a1452a037f814dd80ac054d7907c28.jpg",
+      "url": "https://framapiaf.org/@julm"
+    },
+    "url": "https://mastodon.technology/@roytang/108199684485710767#favorited-by-46567",
+    "published": null,
+    "wm-received": "2022-04-27T00:47:06Z",
+    "wm-id": 1387560,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108199684485710767/46567",
+    "wm-target": "https://roytang.net/2022/04/06e03b43edd0a0fac33eb5febd0d158d/",
+    "like-of": "https://roytang.net/2022/04/06e03b43edd0a0fac33eb5febd0d158d/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
