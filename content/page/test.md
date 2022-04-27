@@ -5,7 +5,7 @@ date: 2020-05-01T19:02:58+08:00
 
 The quick brown fox jumps over the lazy dog.
 
-{{< latest tag="movies" >}}
+{{< latest tag="mtg" >}}
 
 
 Test {{< footnote >}}A footnote{{< /footnote >}} 
