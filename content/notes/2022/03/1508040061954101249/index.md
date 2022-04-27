@@ -16,7 +16,21 @@ tags:
 
 I did a bunch of runs at the #MagicArena Alchemy Metagame challenge this weekend, but the 7-win run remained elusive. Overall I ended up down 3500 gold but also up 35 packs, so that's not too bad a rate, but still a sweep would have been nice. 
 
-{{< photos 1508040061954101249 >}}
+### Alchemy Metagame challenge
+
+| attempt# | wins | gold | packs |
+|---|---|---|---|
+| Rakdos |
+| 1 | 4 | +500 | +5 |
+| 2 | 1 | -1000 |
+| 3 | 1 | -1000 |
+| 4 | 5 | +1000 | +10 |
+| 5 | 1 | -1000 |
+| 6 | 1 | -1000 |
+| Runes |
+| 7 | 0 | -1500 |
+| 8 | 1 | -1000 |
+| 9 | 6 | +2000 | +20 |
 
 <time>[19:15]</time> I ran two decks recommended by [@urlichmtg](https://twitter.com/urlichmtg/) , with slight tweaks. The RB deck was pretty sweet, but as the weekend went on, the grindy mirror match became more and more common so I switched to Runes.
 

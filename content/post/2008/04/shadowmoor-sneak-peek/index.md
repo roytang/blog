@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2008-04-26 22:42:32
+location: robinsons_galleria
 tags:
 - mtg
 title: Shadowmoor Sneak Peek

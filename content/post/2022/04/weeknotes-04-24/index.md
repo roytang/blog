@@ -71,4 +71,5 @@ Didn't watch any new movies or finish any books/tv seasons this week, though I d
 
 ### This coming week:
 
-- **Streets of New Capenna** releases on Magic Arena this week!
+- **Streets of New Capenna** releases on Magic Arena this week! 
+
