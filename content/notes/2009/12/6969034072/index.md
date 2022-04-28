@@ -16,6 +16,6 @@ tags:
 
 #mtg currently planechasing! We didn't have all 4 decks, i had to use demonic from dvd
 
-[00:33] played consume spirit so that i could play foul imp and draw 7 from academy at tolaria
+<time>[00:33]</time> played consume spirit so that i could play foul imp and draw 7 from academy at tolaria
 
-[00:40] my planechase win rate is now down to 50%
+<time>[00:40]</time> my planechase win rate is now down to 50%

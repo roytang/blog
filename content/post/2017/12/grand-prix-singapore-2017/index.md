@@ -3,6 +3,7 @@ author: roy
 categories: []
 date: 2017-12-23 01:00:35
 dontinlinephotos: true
+location: 4b058819f964a520dcb122e3
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/168840859090/grand-prix-singapore-2017-tournament-report

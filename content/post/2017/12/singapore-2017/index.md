@@ -2,6 +2,7 @@
 author: roy
 categories: []
 date: 2017-12-22 01:00:35
+location: 4b0bd124f964a520e03323e3
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/168806095625/singapore-2017
@@ -9,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/944022699998957570/
 tags:
 - Travels
+- singapore
 title: Singapore 2017
 type: post
 url: /2017/12/singapore-2017/
