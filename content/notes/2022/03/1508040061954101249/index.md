@@ -12,11 +12,10 @@ syndicated:
 tags:
 - MagicArena
 - urlichmtg
+title: Alchemy Metagame challenge
 ---
 
 I did a bunch of runs at the #MagicArena Alchemy Metagame challenge this weekend, but the 7-win run remained elusive. Overall I ended up down 3500 gold but also up 35 packs, so that's not too bad a rate, but still a sweep would have been nice. 
-
-### Alchemy Metagame challenge
 
 | attempt# | wins | gold | packs |
 |---|---|---|---|
