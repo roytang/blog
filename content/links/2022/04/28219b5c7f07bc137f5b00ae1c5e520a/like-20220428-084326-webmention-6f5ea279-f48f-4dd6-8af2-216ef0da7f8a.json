@@ -1,0 +1,28 @@
+{
+  "id": "6f5ea279-f48f-4dd6-8af2-216ef0da7f8a",
+  "name": "Preslav Rachev",
+  "url": "https://mastodon.technology/@preslavrachev",
+  "text": "[Preslav Rachev](https://mastodon.technology/@preslavrachev) [liked this](https://mastodon.technology/@roytang/108207648212255837#favorited-by-112958)",
+  "date": "2022-04-28 08:43:26",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/64d4514239c0354f3f8b93a82c62afb577404ee0e8e56e9f29414c7fa25b8a32.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108207648212255837#favorited-by-112958",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Preslav Rachev",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/64d4514239c0354f3f8b93a82c62afb577404ee0e8e56e9f29414c7fa25b8a32.jpg",
+      "url": "https://mastodon.technology/@preslavrachev"
+    },
+    "url": "https://mastodon.technology/@roytang/108207648212255837#favorited-by-112958",
+    "published": null,
+    "wm-received": "2022-04-28T08:43:26Z",
+    "wm-id": 1388334,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108207648212255837/112958",
+    "wm-target": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "like-of": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
