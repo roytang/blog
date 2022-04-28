@@ -1,0 +1,28 @@
+{
+  "id": "d0751e3e-48e6-4d98-9dce-22ffc15783e6",
+  "name": "nixfreak@hackers.town",
+  "url": "https://hackers.town/@nixfreak",
+  "text": "[nixfreak@hackers.town](https://hackers.town/@nixfreak) [liked this](https://mastodon.technology/@roytang/108207648212255837#favorited-by-296687)",
+  "date": "2022-04-28 13:48:49",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/ca01350032f13d152b7828d1eafc3922e847ec2e5ca4d5189138d4be8558798f.gif",
+  "source_url": "https://mastodon.technology/@roytang/108207648212255837#favorited-by-296687",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "nixfreak@hackers.town",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/ca01350032f13d152b7828d1eafc3922e847ec2e5ca4d5189138d4be8558798f.gif",
+      "url": "https://hackers.town/@nixfreak"
+    },
+    "url": "https://mastodon.technology/@roytang/108207648212255837#favorited-by-296687",
+    "published": null,
+    "wm-received": "2022-04-28T13:48:49Z",
+    "wm-id": 1388452,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108207648212255837/296687",
+    "wm-target": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "like-of": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
