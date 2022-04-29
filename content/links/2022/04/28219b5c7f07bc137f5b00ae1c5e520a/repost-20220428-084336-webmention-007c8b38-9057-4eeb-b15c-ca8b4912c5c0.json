@@ -1,0 +1,28 @@
+{
+  "id": "007c8b38-9057-4eeb-b15c-ca8b4912c5c0",
+  "name": "HMF",
+  "url": "https://weirder.earth/@hamefang",
+  "text": "[HMF](https://weirder.earth/@hamefang) [shared this](https://mastodon.technology/@roytang/108207648212255837#reblogged-by-345632)",
+  "date": "2022-04-28 08:43:36",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bb0fde58ec28e8f29a39c86ad056582687f8d1078e5fad0457f8f50fde66f531.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108207648212255837#reblogged-by-345632",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "HMF",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bb0fde58ec28e8f29a39c86ad056582687f8d1078e5fad0457f8f50fde66f531.jpg",
+      "url": "https://weirder.earth/@hamefang"
+    },
+    "url": "https://mastodon.technology/@roytang/108207648212255837#reblogged-by-345632",
+    "published": null,
+    "wm-received": "2022-04-28T08:43:36Z",
+    "wm-id": 1388337,
+    "wm-source": "https://brid.gy/repost/mastodon/@roytang@mastodon.technology/108207648212255837/345632",
+    "wm-target": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "repost-of": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}

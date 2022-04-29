@@ -1,0 +1,28 @@
+{
+  "id": "1ea62fb9-f35e-425d-9e67-bf60705fc68f",
+  "name": "Silvia Maggi",
+  "url": "https://indieweb.social/@silviamaggi",
+  "text": "[Silvia Maggi](https://indieweb.social/@silviamaggi) [liked this](https://mastodon.technology/@roytang/108207648212255837#favorited-by-107939542558773923)",
+  "date": "2022-04-28 08:44:23",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/8039c68d080baca0cd8b513df03638fa8ccc638f4a89365911154bbb4f4cac78.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108207648212255837#favorited-by-107939542558773923",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Silvia Maggi",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/8039c68d080baca0cd8b513df03638fa8ccc638f4a89365911154bbb4f4cac78.jpg",
+      "url": "https://indieweb.social/@silviamaggi"
+    },
+    "url": "https://mastodon.technology/@roytang/108207648212255837#favorited-by-107939542558773923",
+    "published": null,
+    "wm-received": "2022-04-28T08:44:23Z",
+    "wm-id": 1388339,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108207648212255837/107939542558773923",
+    "wm-target": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "like-of": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}

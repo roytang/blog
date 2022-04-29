@@ -1,0 +1,32 @@
+{
+  "id": "7604f419-8c05-423e-8986-e954d45e6841",
+  "name": "Ash",
+  "url": "https://mastodon.social/@ashkyd",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> Great article, it's cool seeing what everyone's made</p>\n<a class=\"u-mention\" href=\"https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/\"></a>",
+  "date": "2022-04-28 08:47:43",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/54d3bf33a71534ec2ecbd78490cc6ccbcf7f40105b3c0775293ae1c7ef2f366e.jpg",
+  "source_url": "https://mastodon.social/@ashkyd/108208826869973177",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ash",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/54d3bf33a71534ec2ecbd78490cc6ccbcf7f40105b3c0775293ae1c7ef2f366e.jpg",
+      "url": "https://mastodon.social/@ashkyd"
+    },
+    "url": "https://mastodon.social/@ashkyd/108208826869973177",
+    "published": "2022-04-28T08:47:43",
+    "wm-received": "2022-04-28T13:48:49Z",
+    "wm-id": 1388453,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/108207648212255837/108208826911429417",
+    "wm-target": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> Great article, it's cool seeing what everyone's made</p>\n<a class=\"u-mention\" href=\"https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/\"></a>",
+      "text": "@roytang Great article, it's cool seeing what everyone's made"
+    },
+    "in-reply-to": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}

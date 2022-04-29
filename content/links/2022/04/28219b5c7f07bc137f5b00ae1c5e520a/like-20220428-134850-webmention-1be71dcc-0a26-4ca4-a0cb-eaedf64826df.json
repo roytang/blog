@@ -1,0 +1,28 @@
+{
+  "id": "1be71dcc-0a26-4ca4-a0cb-eaedf64826df",
+  "name": "The Mystery",
+  "url": "https://tech.lgbt/@themystery",
+  "text": "[The Mystery](https://tech.lgbt/@themystery) [liked this](https://mastodon.technology/@roytang/108207648212255837#favorited-by-323196)",
+  "date": "2022-04-28 13:48:50",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3e9bd9b75124e7ba7010e2522f8ea30d069a447087f83cb49a4230566de3b2f7.png",
+  "source_url": "https://mastodon.technology/@roytang/108207648212255837#favorited-by-323196",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "The Mystery",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3e9bd9b75124e7ba7010e2522f8ea30d069a447087f83cb49a4230566de3b2f7.png",
+      "url": "https://tech.lgbt/@themystery"
+    },
+    "url": "https://mastodon.technology/@roytang/108207648212255837#favorited-by-323196",
+    "published": null,
+    "wm-received": "2022-04-28T13:48:50Z",
+    "wm-id": 1388454,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108207648212255837/323196",
+    "wm-target": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "like-of": "https://roytang.net/2022/04/28219b5c7f07bc137f5b00ae1c5e520a/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
