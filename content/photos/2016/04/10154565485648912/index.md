@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-04-29 11:11:00+08:00
+date: 2016-04-29 03:11:00
 source: facebook
 syndicated:
 - type: facebook
@@ -9,6 +9,7 @@ syndicated:
 tags:
 - timeline-photos
 - halalan2016
+- duterte
 ---
 
 True? False? Hyperbole? Misquote? Joke lang? Out of context? BIAS? Ok lang kasi matapang naman sya? Hindi dapat ako ma-offend unless criminal ako? Bukas iba na ang kwento?

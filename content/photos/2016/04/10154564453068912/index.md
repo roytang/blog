@@ -11,6 +11,7 @@ syndicated:
 tags:
 - timeline-photos
 - halalan2016
+- duterte
 ---
 
 Who needs checks and balances? Amirite?
