@@ -1,10 +1,6 @@
 ---
-date: 2022-05-01T20:20:22+08:00
+date: 2022-05-01 12:20:22
 dontinlinephotos: true
-tags:
-- weeknotes
-- philippines
-title: Weeknotes 2022-05-01
 reviews:
 - date: 2022-04-25
   description: Discworld no. 19
@@ -18,6 +14,17 @@ reviews:
   media: tv
   rating: 4.0
   title: Russian Doll season 1
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108227639671052000
+- type: twitter
+  url: https://twitter.com/roytang/status/1520803251222122496/
+tags:
+- weeknotes
+- philippines
+- books
+- tv
+title: Weeknotes 2022-05-01
 ---
 
 A whole new month just crept up on us huh. I don't have anything particularly witty to say at the moment.
