@@ -34,7 +34,7 @@ Current read count: 12/41 (as of April 17, 2022)
 | 16 | Soul Music  | 1994 | Death  | | |
 | 17 | Interesting Times  | 1994 | Rincewind  | | |
 | 18 | Maskerade  | 1995 | Witches  | | |
-| 19 | Feet of Clay  | 1996 | City Watch  | | |
+| 19 | Feet of Clay  | 1996 | City Watch  | Y | [2022](/2022/05/weeknotes-05-01/) |
 | 20 | Hogfather  | 1996 | Death  | | |
 | 21 | Jingo  | 1997 | City Watch  | | |
 | 22 | The Last Continent  | 1998 | Rincewind  | Y | [2022](/2022/12/last-continent/) |
