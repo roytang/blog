@@ -12,6 +12,7 @@ tags:
 - mcu
 - movies
 - tv
+- spoiler-free-review
 title: MCU Spoiler-free reviews
 ---
 
@@ -20,6 +21,7 @@ Doctor Strange and the Multiverse of Madness:
 - fun, trippy and very "comic book" movie
 - better if you have seen Wandavision
 - don't bring kids, they might get scared
+
 <!--sep--> 
 Moon Knight:
 
