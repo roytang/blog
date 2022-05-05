@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2009-05-03 14:44:35
+location: robinsons_galleria
 tags:
 - mtg
 title: Alara Reborn Prerelease (for real this time)
