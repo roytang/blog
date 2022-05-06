@@ -1,5 +1,6 @@
 ---
 date: 2022-05-06 08:43:26
+dontinlinephotos: true
 reviews:
 - description: ''
   media: tv
@@ -11,12 +12,16 @@ reviews:
   rating: 5.0
   title: Doctor Strange and the Multiverse of Madness
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108254334455522232
+- type: twitter
+  url: https://twitter.com/roytang/status/1522511732664528897/
 tags:
 - mcu
 - tv
 - movies
 title: 'MCU Reviews: Doctor Strange and the Multiverse of Madness, Moon Knight'
-dontinlinephotos: true
 ---
 
 I've been putting my media reviews in the [weeknotes](/tags/weeknotes/) but I felt like these two reviews would be long enough to justify a separate post.
