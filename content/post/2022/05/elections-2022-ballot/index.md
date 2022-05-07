@@ -1,12 +1,17 @@
 ---
-title: "Elections 2022 Ballot"
-date: 2022-05-07T16:30:00+08:00
+date: 2022-05-07 08:30:00
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108259738955501704
+- type: twitter
+  url: https://twitter.com/roytang/status/1522857609849876480/
 tags:
 - philippines
 - politics
 - halalan2022
 - election-ballot
-dontinlinephotos: true
+title: Elections 2022 Ballot
 ---
 
 PH elections are this coming Monday. Sat down to make my final Elections 2022 ballot decisions today.
