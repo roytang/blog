@@ -1,0 +1,28 @@
+{
+  "id": "5095d956-40b7-496f-9f83-af9b71ec8aba",
+  "name": "Mark Esler",
+  "url": "https://mastodon.social/@eslerm",
+  "text": "[Mark Esler](https://mastodon.social/@eslerm) [liked this](https://mastodon.technology/@roytang/108259738955501704#favorited-by-108043937146062428)",
+  "date": "2022-05-07 11:50:40",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bb3ac74f1fecab98249605ba1bb61d60df244165b7708c86ae0efa17660e0045.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108259738955501704#favorited-by-108043937146062428",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Mark Esler",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/bb3ac74f1fecab98249605ba1bb61d60df244165b7708c86ae0efa17660e0045.jpg",
+      "url": "https://mastodon.social/@eslerm"
+    },
+    "url": "https://mastodon.technology/@roytang/108259738955501704#favorited-by-108043937146062428",
+    "published": null,
+    "wm-received": "2022-05-07T11:50:40Z",
+    "wm-id": 1393571,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108259738955501704/108043937146062428",
+    "wm-target": "https://roytang.net/2022/05/elections-2022-ballot/",
+    "like-of": "https://roytang.net/2022/05/elections-2022-ballot/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
