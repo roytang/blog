@@ -8,6 +8,7 @@ syndicated:
 tags:
 - Opinions
 - Philippines
+- election-ballot
 title: 'PHVote: Choosing your 2013 Senators and Party List'
 type: post
 url: /2013/05/phvote-choosing-your-2013-senators-and-party-list/

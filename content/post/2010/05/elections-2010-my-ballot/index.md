@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/389502243911
 tags:
 - Philippines
+- election-ballot
 title: Elections 2010 -- My Ballot
 type: post
 url: /2010/05/elections-2010-my-ballot/

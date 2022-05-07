@@ -8,6 +8,7 @@ tags:
 - philippines
 - politics
 - current events
+- election-ballot
 title: 'PH Elections 2019: Otso Diretso, Compromises, Lesser Evils'
 type: post
 ---
