@@ -1,6 +1,9 @@
 ---
-date: 2022-05-08T22:59:14+08:00
+date: 2022-05-08 14:59:14
 dontinlinephotos: true
+resources:
+- src: yabu.jpg
+  title: 'My usual Yabu order: Menchi Katsu Curry Set (Regular sauce)'
 reviews:
 - date: 2022-05-06
   description: Discworld no. 21
@@ -14,9 +17,11 @@ reviews:
   media: tv
   rating: 3.0
   title: Picard Season 2
-resources:
-- src: yabu.jpg
-  title: 'My usual Yabu order: Menchi Katsu Curry Set (Regular sauce)'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108267039564294728
+- type: twitter
+  url: https://twitter.com/roytang/status/1523324868313620480/
 tags:
 - weeknotes
 - philippines
@@ -109,4 +114,3 @@ Watched some MCU stuff this week that I felt could use their own post instead of
 
 - PH Elections tomorrow!
 - Limited open next weekend on Arena: Another chance to do horribly!
-  
