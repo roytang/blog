@@ -5,6 +5,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1524008116395724801/
+- type: instagram
+  url: https://www.instagram.com/p/CdYMDCsvkqX/
 tags:
 - selfies
 ---

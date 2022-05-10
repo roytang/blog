@@ -11,6 +11,9 @@ syndicated:
   url: https://twitter.com/roytang/status/1523856968359694337/
 - type: twitter
   url: https://twitter.com/roytang/status/1523857086890749952/
+tags:
+- halalan2022
+title: Elections 2022 Aftermath
 ---
 
 {{< photos 1523736107577274368 >}}

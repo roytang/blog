@@ -17,6 +17,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1523573118932901889/
 tags:
 - Halalan2022
+title: Election Day 2022
 ---
 
 Today is the day of destiny. Starting a thread for when I go out later. #Halalan2022
