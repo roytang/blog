@@ -13,6 +13,6 @@ syndicated:
 
 As a sign that I've forgotten how to commute, I got on an ortigas ilalim bus and expect to be stuck in front of galleria for the next 30mins
 
-[20:24] Yay it was only 10mins and I get to watch the transporter apparently
+<time id="283911136301158400">[20:24]</time> Yay it was only 10mins and I get to watch the transporter apparently
 
-[20:24] Jason statham looks like agent coulson
+<time id="283911275614986240">[20:24]</time> Jason statham looks like agent coulson

@@ -23,8 +23,8 @@ syndicated:
 
 watching Superman on HBO. Classic movie!
 
-[13:06] Next up is Batman. Is HBO having a classic superhero movie marathon leading up to Dark Knight tonight?
+<time>[13:06]</time> Next up is Batman. Is HBO having a classic superhero movie marathon leading up to Dark Knight tonight?
 
-[13:52] I just realized Harvey Dent in Batman was Lando from Star Wars!
+<time>[13:52]</time> I just realized Harvey Dent in Batman was Lando from Star Wars!
 
-[22:33] Even when watching it for the second time, Dark Knight is still all kinds of brilliant/awesome.
+<time>[22:33]</time> Even when watching it for the second time, Dark Knight is still all kinds of brilliant/awesome.
