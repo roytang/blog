@@ -1,10 +1,10 @@
 ---
 date: 2019-05-11 13:22:18+00:00
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1127202272738332672/
-title: ''
+  url: https://twitter.com/roytang/status/1127202272738332672/
 ---
 
 1. whoops 2. wip 3. stuff 
