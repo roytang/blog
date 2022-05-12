@@ -11,5 +11,7 @@ syndicated:
   url: https://webdevlaw.uk/2021/01/30/why-generation-x-will-save-the-web/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1356230925277822976/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105656197057979028
 title: Why Generation X will save the web
 ---

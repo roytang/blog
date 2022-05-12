@@ -15,7 +15,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1248382727524454403/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1248384300241715201/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103971095690937081
 title: About | Project 88
 ---
 
-Fantastic fan-made shot-by-shot recreation of Back to the Future II, put together during quarantine, w/ stop motion, kids, sock puppets, bananas, potatoes and much more! Youtube: https://www.youtube.com/watch?v=GcUUjWbVc4I I enjoyed this so much I'll add it to my 2020 movies list! 
+Fantastic fan-made shot-by-shot recreation of Back to the Future II, put together during quarantine, w/ stop motion, kids, sock puppets, bananas, potatoes and much more! Youtube: https://www.youtube.com/watch?v=GcUUjWbVc4I I enjoyed this so much I'll add it to my 2020 movies list!
