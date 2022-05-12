@@ -3,6 +3,8 @@ date: 2019-11-08
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1192676847038992390/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103100683280928292
 title: Unfocused
 ---
 

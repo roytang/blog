@@ -4,6 +4,8 @@ slug: sql-dying-art
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1194436027081019406/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103128149359685694
 tags:
 - software development
 - sql

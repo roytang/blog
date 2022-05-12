@@ -5,6 +5,8 @@ slug: 2019-windows-install-list
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1175214950891106304/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102827984790404193
 tags:
 - tech life
 title: 2019 Windows Installation List

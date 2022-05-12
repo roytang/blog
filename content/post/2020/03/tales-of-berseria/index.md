@@ -13,6 +13,8 @@ slug: tales-of-berseria
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1236125992177012742/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103779545372658735
 tags:
 - gaming
 - games

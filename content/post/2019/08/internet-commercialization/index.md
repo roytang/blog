@@ -3,6 +3,8 @@ date: 2019-08-21
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1163966623872692229/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102652094734633854
 tags:
 - tech life
 - blogging

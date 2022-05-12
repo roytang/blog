@@ -4,6 +4,8 @@ slug: weeknotes-2020-02-23
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1231465265013166081/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103706701925876615
 tags:
 - weeknotes
 title: Weeknotes 2020-02-23

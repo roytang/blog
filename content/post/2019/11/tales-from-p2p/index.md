@@ -4,6 +4,8 @@ slug: tales-from-p2p
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1194798433502150658/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103133825915906611
 tags:
 - philippines
 title: Tales from a P2P Bus

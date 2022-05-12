@@ -4,6 +4,8 @@ slug: weeknotes-2020-02-02
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1223932629164142593/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103589040221381465
 tags:
 - weeknotes
 title: Weeknotes 2020-02-02. Happy palindrome day!

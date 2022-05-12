@@ -5,6 +5,8 @@ slug: inktober-2019
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1190879167132372992/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103072763332576771
 tags:
 - inktober
 - inktober2019

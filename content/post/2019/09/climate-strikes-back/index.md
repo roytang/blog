@@ -5,6 +5,8 @@ slug: climate-strikes-back
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1175956234534608896/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102839308789606937
 tags:
 - current events
 title: The Climate Strikes Back

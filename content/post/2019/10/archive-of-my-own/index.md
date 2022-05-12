@@ -6,6 +6,8 @@ slug: archive-of-my-own
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1180294423269249024/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102907189583815675
 tags:
 - tech life
 - indieweb

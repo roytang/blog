@@ -4,6 +4,8 @@ slug: tumblr-cloudflare
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1232503072217276417/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103722915430080143
 tags:
 - tech life
 title: Apparently Tumblr custom domains don't work well with Cloudflare

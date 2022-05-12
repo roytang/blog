@@ -3,6 +3,8 @@ date: 2019-08-26
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1165777925502898176/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102680376019615908
 tags:
 - philosophy
 title: Marketplace Ethics

@@ -3,6 +3,8 @@ date: 2020-02-06
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1225215346279436289/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103609157760699104
 tags:
 - software development
 - favorites

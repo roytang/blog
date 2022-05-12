@@ -2,10 +2,23 @@
 author: roy
 categories: []
 date: 2019-08-31
+reviews:
+- media: movies
+  title: One Cut of the Dead (2017)
+- media: tv
+  title: Young Justice Outsiders (part 2)
+- media: tv
+  title: Fleabag
+- media: tv
+  title: The Boys season 1
+- media: movies
+  title: 'Rocko''s Modern Life: Static Cling (2019)'
 slug: watching-lately-aug-2019
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1167591080860295171/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102708686568631106
 tags:
 - Pop Culture
 - Movies
@@ -14,17 +27,6 @@ tags:
 title: 'Watching Lately: August 2019: Young Justice, The Boys, Fleabag, One Cut of
   the Dead'
 type: post
-reviews:
-- media: movies
-  title: "One Cut of the Dead (2017)"
-- media: tv
-  title: "Young Justice Outsiders (part 2)"
-- media: tv
-  title: "Fleabag"
-- media: tv
-  title: "The Boys season 1"
-- media: movies
-  title: "Rocko's Modern Life: Static Cling (2019)"
 ---
 
 Hmm, surprisingly I haven't watched too much stuff this month.

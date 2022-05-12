@@ -1,13 +1,15 @@
 ---
 date: 2020-01-29 01:02:31
 featuredImage: https://jamesclear.com/wp-content/uploads/2019/09/AH-Preferred-Badge-e1568647575112-768x996.png
+reviews:
+- media: books
+  title: Atomic Habits by James Clear
 slug: atomic-habits
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1222342903030337536/
-reviews:
-- media: books
-  title: Atomic Habits by James Clear
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103564240778576443
 tags:
 - books
 - review

@@ -3,6 +3,8 @@ date: 2019-12-31
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1211842022539235328/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103400140147949681
 tags:
 - decadenotes
 title: Decades

@@ -3,6 +3,8 @@ date: 2020-01-04
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1213291036761571328/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103422711152416965
 tags:
 - yearnotes
 title: 2019 Year in Review

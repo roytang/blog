@@ -15,6 +15,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1374632543593492483/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1374636757937885187/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105943786950373170
 tags:
 - movies
 - jamesbond

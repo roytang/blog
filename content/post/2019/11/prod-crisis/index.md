@@ -4,6 +4,8 @@ slug: prod-crisis
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1194052290363232257/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103122310092861627
 tags:
 - software development
 title: What to do in a production crisis

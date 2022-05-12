@@ -4,6 +4,8 @@ slug: weeknotes-2020-03-01
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1234118014355808257/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103748376161095281
 tags:
 - weeknotes
 title: Weeknotes 2020-03-01

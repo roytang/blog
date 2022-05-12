@@ -138,6 +138,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1233055496656977921/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1233062439228342275/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103639148493021269
 tags:
 - movies
 title: 2020 Movies List

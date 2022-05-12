@@ -1,16 +1,18 @@
 ---
 date: 2019-11-09
+reviews:
+- media: books
+  title: So Good They Cant Ignore You by Cal Newport
 slug: so-good-they-cant-ignore-you
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1192987972989325312/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103105891767804229
 tags:
 - books
 - review
 title: 'Book Review: So Good They Cant Ignore You by Cal Newport'
-reviews:
-- media: books
-  title: So Good They Cant Ignore You by Cal Newport
 ---
 
 Aha! I finally managed to finish a book again!

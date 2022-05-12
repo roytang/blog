@@ -5,6 +5,8 @@ slug: mtg-bannings
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1196766178833813504/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103164578588763179
 tags:
 - mtg
 title: 'MTG: The bannings will continue until morale improves'

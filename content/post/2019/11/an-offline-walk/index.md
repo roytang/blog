@@ -4,6 +4,8 @@ slug: an-offline-walk
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1195500391577915393/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103144796954913707
 tags:
 - tech life
 title: An Offline Walk

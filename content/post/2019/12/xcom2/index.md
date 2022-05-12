@@ -15,6 +15,8 @@ slug: xcom2
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1210420310807367685/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103377939736572468
 tags:
 - gaming
 - games

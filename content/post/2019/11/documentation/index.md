@@ -4,6 +4,8 @@ slug: handover-documentation
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1192065025537716226/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103091108629860576
 tags:
 - software development
 title: The Perils of Handover Documentation

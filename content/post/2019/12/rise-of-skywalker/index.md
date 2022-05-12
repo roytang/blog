@@ -1,12 +1,14 @@
 ---
 date: 2019-12-22
+slug: star-wars-rise-of-skywalker-spoilers
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1208616239091859456/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103349603080248653
 tags:
 - movies
 - pop culture
-slug: star-wars-rise-of-skywalker-spoilers
 title: 'Star Wars: Rise of Skywalker (spoilers!)'
 ---
 

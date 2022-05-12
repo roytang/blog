@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1453044820490940416/
 - type: twitter
   url: https://twitter.com/roytang/status/1453051021458952196/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/107169012963987063
 tags:
 - software-development
 title: ''

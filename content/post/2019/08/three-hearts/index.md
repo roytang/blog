@@ -4,6 +4,8 @@ date: 2019-08-25 00:00:00
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1165416348576636928/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102674711045169719
 tags:
 - quotes
 - tech life

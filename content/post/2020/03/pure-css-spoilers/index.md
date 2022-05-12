@@ -3,6 +3,8 @@ date: 2020-03-05
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1235416366804619265/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103768512364323509
 tags:
 - software development
 - css

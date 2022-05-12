@@ -3,6 +3,8 @@ date: 2019-08-27
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1166140339972952064/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102686035398161290
 tags:
 - software development
 - devnotes

@@ -4,10 +4,17 @@ categories: []
 date: 2019-11-28
 featuredResource:
   filename: broly.png
+reviews:
+- media: movies
+  title: 'Dragonball Super: Broly (2018)'
+- media: movies
+  title: Justice League vs the Fatal Five (2019)
 slug: watching-lately-nov-2019
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1199916391597559808/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103213787733825981
 tags:
 - Pop Culture
 - Movies
@@ -15,11 +22,6 @@ tags:
 - watching lately
 title: 'Watching Lately: November 2019: Broly, Justice League, Arrowverse, Mandalorian'
 type: post
-reviews:
-- media: movies
-  title: "Dragonball Super: Broly (2018)"
-- media: movies
-  title: "Justice League vs the Fatal Five (2019)"
 ---
 
 Nothing in the cinema this month (going to the cinema is expensive!). I did watch a couple of animated movies this month:

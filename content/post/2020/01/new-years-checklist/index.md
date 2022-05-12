@@ -6,6 +6,8 @@ slug: new-years-checklist
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1212204513152688128/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103405735279311820
 tags:
 - new-years-checklist
 title: New Year's Checklist 2020

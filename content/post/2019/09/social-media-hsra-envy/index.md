@@ -5,6 +5,8 @@ slug: social-media-hsra-envy
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1171939378945560579/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102776650996067921
 tags:
 - self-improvement
 - philosophy

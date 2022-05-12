@@ -4,6 +4,8 @@ slug: world-can-be-suffocating
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1191735312248180737/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103085800263156630
 title: The World Can Be Suffocating
 ---
 

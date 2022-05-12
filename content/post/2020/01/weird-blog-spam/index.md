@@ -4,6 +4,8 @@ dontinlinephotos: true
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1216576419154796544/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103474053122644951
 tags:
 - tech life
 title: Weird Blog Spam

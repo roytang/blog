@@ -3,6 +3,8 @@ date: 2019-11-17
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1195916779861749760/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103151288644484095
 tags:
 - tech life
 title: On Feed Readers

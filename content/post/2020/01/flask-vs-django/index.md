@@ -5,6 +5,8 @@ featuredResource:
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1220540598551228418/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103535967720649144
 tags:
 - software development
 - python

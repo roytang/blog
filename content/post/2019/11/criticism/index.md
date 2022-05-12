@@ -4,6 +4,8 @@ slug: criticism
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1199653369700405250/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103209657176942034
 title: Criticism
 ---
 

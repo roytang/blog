@@ -6,6 +6,8 @@ slug: nablopomo
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1190969726891155456/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103074179526532055
 tags:
 - writing
 - blogging

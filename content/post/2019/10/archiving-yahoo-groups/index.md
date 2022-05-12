@@ -5,6 +5,8 @@ date: 2019-10-20
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1185854214645407746/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102993679561070834
 tags:
 - tech life
 title: Archiving Yahoo Groups

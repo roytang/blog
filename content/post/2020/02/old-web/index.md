@@ -6,7 +6,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1224490625556533250/
 - type: devto
-  url: https://dev.to/roytang/tales-from-the-old-web-development-3jh 
+  url: https://dev.to/roytang/tales-from-the-old-web-development-3jh
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103597816367114086
 tags:
 - software development
 - favorites

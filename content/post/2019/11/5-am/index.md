@@ -4,6 +4,8 @@ slug: five-am
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1196972579342475266/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103167772789774106
 title: Five AM
 ---
 

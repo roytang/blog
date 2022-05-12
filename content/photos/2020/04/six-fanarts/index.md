@@ -12,6 +12,10 @@ syndicated:
   url: https://www.instagram.com/p/B-7LfzLh7MB/
 - type: mastodon
   url: https://mastodon.technology/@roytang/103991799614466363
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103991799614466363
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103991802738206796
 tags:
 - SixFanarts
 title: Six Fanarts
@@ -38,3 +42,7 @@ Second set:
 - Pong Pagong (requested by Aldo on Facebook)
 
 While I was doing the Sakuragi one, I made a boo-boo where I put the rough sketch on the same layer as the Buffy one and messed it up and later I couldn't recover it. I didn't want to redo the thing, so what I did was ran the timelapse, got a screenshot of Buffy from there and pasted it back into the image lol. It's not cheating, I mean, I really did do the drawing! You can see these shenanigans and more in the timelapses below!
+
+<time id="103991802738206796">[22:43]</time> <p>Apparently Mastodon doesnt let me upload two images at once!</p>
+
+{{< photos 103991802738206796 >}}

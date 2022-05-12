@@ -4,6 +4,8 @@ slug: python-yield
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1192280118468792321/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103094468903661996
 tags:
 - software development
 - devnotes

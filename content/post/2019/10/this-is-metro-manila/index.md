@@ -10,6 +10,8 @@ syndicated:
   url: https://reddit.com/r/Philippines/comments/dguj62/this_is_metro_manila/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/dguj62/this_is_metro_manila/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102948268083792691
 tags:
 - philippines
 - favorites

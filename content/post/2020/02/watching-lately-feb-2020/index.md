@@ -4,6 +4,8 @@ slug: watching-lately
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1233595071972487175/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103739932538106051
 tags:
 - Pop Culture
 - Movies

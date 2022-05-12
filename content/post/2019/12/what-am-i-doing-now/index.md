@@ -1,11 +1,13 @@
 ---
-title: "What Am I Doing Now"
-date: 2019-12-16T23:24:27+08:00
-tags:
-- meta
+date: 2019-12-16 15:24:27
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1206806712650362880/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103321444121915087
+tags:
+- meta
+title: What Am I Doing Now
 ---
 
 A few days ago, a friend from a company I used to work for said to me something along the lines of "{Company Executive} asked me how you are doing", and I couldn't give anything other than a pithy "I'm alive" answer.

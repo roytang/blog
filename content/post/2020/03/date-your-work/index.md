@@ -4,6 +4,8 @@ dontinlinephotos: true
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1234374721900367872/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103752268762752773
 title: Date Your Work
 ---
 

@@ -13,6 +13,8 @@ slug: outer-worlds
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1199147871741906949/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103201773693845510
 tags:
 - gaming
 - games

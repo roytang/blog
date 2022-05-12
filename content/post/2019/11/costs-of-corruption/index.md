@@ -4,6 +4,8 @@ slug: costs-of-corruption
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1198859775225815040/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103197251277219551
 tags:
 - philippines
 - current events

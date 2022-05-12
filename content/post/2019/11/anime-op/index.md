@@ -4,6 +4,8 @@ slug: anime-op
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1193770770398400512/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103117770916557069
 tags:
 - anime
 - music

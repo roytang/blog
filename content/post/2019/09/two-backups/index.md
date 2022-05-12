@@ -5,6 +5,8 @@ slug: two-backups
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1175052600951103491/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102825183681016495
 tags:
 - tech life
 - gaming

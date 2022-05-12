@@ -4,6 +4,8 @@ date: 2019-09-09 00:00:00
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1170866017532284929/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102759889772123276
 tags:
 - ccgs
 - mtg

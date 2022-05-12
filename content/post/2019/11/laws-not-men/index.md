@@ -4,6 +4,8 @@ slug: laws-not-men
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1198444554480967680/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103190784851534472
 tags:
 - philippines
 - current events

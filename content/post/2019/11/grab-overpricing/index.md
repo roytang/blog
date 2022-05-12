@@ -4,6 +4,8 @@ slug: grab-overpricing
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1197335006806519808/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103173436381971952
 tags:
 - tech life
 - current events

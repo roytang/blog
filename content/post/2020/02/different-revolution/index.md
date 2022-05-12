@@ -4,6 +4,8 @@ slug: different-revolution
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1232103048614498304/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103716673689610249
 tags:
 - philippines
 - edsa

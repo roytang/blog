@@ -4,6 +4,8 @@ slug: one-year-with-hugo
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1198008086260338689/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103183981554237341
 tags:
 - tech life
 - blogging

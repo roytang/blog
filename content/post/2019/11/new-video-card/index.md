@@ -1,7 +1,7 @@
 ---
 author: roy
 date: 2019-11-22
-featuredResource: 
+featuredResource:
   filename: box.jpg
 resources:
 - src: 3dmark2.jpg
@@ -16,6 +16,8 @@ slug: new-video-card
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1197698518749786114/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103179117709840316
 tags:
 - tech life
 title: New Video Card!

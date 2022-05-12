@@ -4,6 +4,8 @@ slug: indieweb
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1193551787376156672/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103114347400296561
 tags:
 - tech life
 - meta

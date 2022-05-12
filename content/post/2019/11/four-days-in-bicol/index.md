@@ -9,6 +9,8 @@ location: daet
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1191241464069668864/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103078426609630849
 tags:
 - travels
 - philippines

@@ -1,6 +1,6 @@
 ---
 date: 2019-11-15
-featuredResource: 
+featuredResource:
   filename: mei-hong-kong.jpg
 resources:
 - src: mei-hong-kong.jpg
@@ -10,6 +10,8 @@ slug: hong-kong-revolution-of-our-time
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1195160540429066241/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103139488683775881
 tags:
 - current events
 - hong kong

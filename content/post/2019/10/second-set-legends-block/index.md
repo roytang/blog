@@ -6,6 +6,8 @@ slug: second-set-legends-block
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1179207584982732805/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102890209114929038
 tags:
 - mtg
 title: The Second Set of Legends Block

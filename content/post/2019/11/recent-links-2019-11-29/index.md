@@ -6,6 +6,8 @@ slug: recent-links-2019-11-29
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1200233530187534337/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103218740553054842
 tags:
 - Links
 - recent links

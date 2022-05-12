@@ -3,10 +3,13 @@ author: roy
 categories: []
 date: 2019-11-30
 slug: nablopomo-epilogue
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103224402675070292
 tags:
 - writing
 - blogging
-title: 'NaBloPoMo Epilogue'
+title: NaBloPoMo Epilogue
 type: post
 ---
 

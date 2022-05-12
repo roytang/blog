@@ -5,6 +5,8 @@ featuredResource:
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1232865463463489537/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103728608320634366
 tags:
 - tech life
 - changelog

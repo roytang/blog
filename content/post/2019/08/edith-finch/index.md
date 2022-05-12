@@ -9,6 +9,8 @@ reviews:
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164691569775190016/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102663418993589872
 tags:
 - gaming
 - games
