@@ -10,6 +10,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1031671298638979074/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/100584896843217781
 title: ''
 ---
 
