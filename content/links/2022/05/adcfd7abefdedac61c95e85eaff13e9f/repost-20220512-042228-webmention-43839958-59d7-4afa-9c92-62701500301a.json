@@ -1,0 +1,28 @@
+{
+  "id": "43839958-59d7-4afa-9c92-62701500301a",
+  "name": "\u280b\u2807\u2811\u2811Em\u2811\u2807\u2815\u281d",
+  "url": "https://mastodon.technology/@Em0nM4stodon",
+  "text": "[\u280b\u2807\u2811\u2811Em\u2811\u2807\u2815\u281d](https://mastodon.technology/@Em0nM4stodon) [shared this](https://mastodon.technology/@roytang/108285930847903668#reblogged-by-108206351502052282)",
+  "date": "2022-05-12 04:22:28",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6873d99879fea7f79bebca6fda0d2049b4a19b312dd29434bc9f4fcd596bbce8.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108285930847903668#reblogged-by-108206351502052282",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "\u280b\u2807\u2811\u2811Em\u2811\u2807\u2815\u281d",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/6873d99879fea7f79bebca6fda0d2049b4a19b312dd29434bc9f4fcd596bbce8.jpg",
+      "url": "https://mastodon.technology/@Em0nM4stodon"
+    },
+    "url": "https://mastodon.technology/@roytang/108285930847903668#reblogged-by-108206351502052282",
+    "published": null,
+    "wm-received": "2022-05-12T04:22:28Z",
+    "wm-id": 1396579,
+    "wm-source": "https://brid.gy/repost/mastodon/@roytang@mastodon.technology/108285930847903668/108206351502052282",
+    "wm-target": "https://roytang.net/2022/05/adcfd7abefdedac61c95e85eaff13e9f/",
+    "repost-of": "https://roytang.net/2022/05/adcfd7abefdedac61c95e85eaff13e9f/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}

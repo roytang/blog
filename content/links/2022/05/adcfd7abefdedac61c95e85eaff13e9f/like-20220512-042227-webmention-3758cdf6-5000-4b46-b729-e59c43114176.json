@@ -1,0 +1,28 @@
+{
+  "id": "3758cdf6-5000-4b46-b729-e59c43114176",
+  "name": "Chima \ud83c\ude35",
+  "url": "https://mastodon.social/@chima",
+  "text": "[Chima \ud83c\ude35](https://mastodon.social/@chima) [liked this](https://mastodon.technology/@roytang/108285930847903668#favorited-by-107418463929852600)",
+  "date": "2022-05-12 04:22:27",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/f0acee31aa14cb0ef98e4c8db5128ba01c1e58ba95035977218cfb542cd00eaa.png",
+  "source_url": "https://mastodon.technology/@roytang/108285930847903668#favorited-by-107418463929852600",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Chima \ud83c\ude35",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/f0acee31aa14cb0ef98e4c8db5128ba01c1e58ba95035977218cfb542cd00eaa.png",
+      "url": "https://mastodon.social/@chima"
+    },
+    "url": "https://mastodon.technology/@roytang/108285930847903668#favorited-by-107418463929852600",
+    "published": null,
+    "wm-received": "2022-05-12T04:22:27Z",
+    "wm-id": 1396578,
+    "wm-source": "https://brid.gy/like/mastodon/@roytang@mastodon.technology/108285930847903668/107418463929852600",
+    "wm-target": "https://roytang.net/2022/05/adcfd7abefdedac61c95e85eaff13e9f/",
+    "like-of": "https://roytang.net/2022/05/adcfd7abefdedac61c95e85eaff13e9f/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
