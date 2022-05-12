@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1143385116699484160/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102330375461431826
 ---
 
 Past me: I'll just book this redeye flight since it's cheap, surely future me can stand to lose some sleep

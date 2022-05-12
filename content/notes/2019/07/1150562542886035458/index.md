@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1150562542886035458/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102442514981616791
 ---
 
 Well, the next few weekends are lit:
