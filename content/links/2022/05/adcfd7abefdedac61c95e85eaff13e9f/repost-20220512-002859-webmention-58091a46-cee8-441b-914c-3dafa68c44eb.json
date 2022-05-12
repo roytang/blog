@@ -1,0 +1,28 @@
+{
+  "id": "58091a46-cee8-441b-914c-3dafa68c44eb",
+  "name": "it's B! Cavello \ud83d\udc1d",
+  "url": "https://mastodon.social/@b_cavello",
+  "text": "[it's B! Cavello \ud83d\udc1d](https://mastodon.social/@b_cavello) [shared this](https://mastodon.technology/@roytang/108285930847903668#reblogged-by-1451)",
+  "date": "2022-05-12 00:28:59",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/7f824f222290bb92ed41954ae62d9d47d96b6d52bf7ac9b198ab5542c9630e85.jpg",
+  "source_url": "https://mastodon.technology/@roytang/108285930847903668#reblogged-by-1451",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "it's B! Cavello \ud83d\udc1d",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/7f824f222290bb92ed41954ae62d9d47d96b6d52bf7ac9b198ab5542c9630e85.jpg",
+      "url": "https://mastodon.social/@b_cavello"
+    },
+    "url": "https://mastodon.technology/@roytang/108285930847903668#reblogged-by-1451",
+    "published": null,
+    "wm-received": "2022-05-12T00:28:59Z",
+    "wm-id": 1396530,
+    "wm-source": "https://brid.gy/repost/mastodon/@roytang@mastodon.technology/108285930847903668/1451",
+    "wm-target": "https://roytang.net/2022/05/adcfd7abefdedac61c95e85eaff13e9f/",
+    "repost-of": "https://roytang.net/2022/05/adcfd7abefdedac61c95e85eaff13e9f/",
+    "wm-property": "repost-of",
+    "wm-private": false
+  }
+}
