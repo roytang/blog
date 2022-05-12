@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1132186493366071297/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157474562448912
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102155512212839121
 ---
 
 What happens to your desktop PCs when they die?

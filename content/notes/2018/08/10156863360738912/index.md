@@ -1,9 +1,11 @@
 ---
-date: 2018-08-22 01:05:00+08:00
+date: 2018-08-21 17:05:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156863360738912
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/100589314282831294
 tags: []
 ---
 

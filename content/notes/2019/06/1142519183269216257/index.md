@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1142615183698927616/
 - type: twitter
   url: https://twitter.com/roytang/status/1142622292221943808/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102318424055630352
 tags:
 - mtgseattle
 - mtg

@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1293051269129486337/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104669016665629453
 tags:
 - gaming
 - games

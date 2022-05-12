@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1174924148339924992/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102823280214736945
 ---
 
 Planning to replace a 2tb HDD with a 2tb seagate firecuda SSHD, anyone have any bad experiences with this drive?

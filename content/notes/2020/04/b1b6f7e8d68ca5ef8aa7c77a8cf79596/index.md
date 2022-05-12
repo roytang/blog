@@ -1,7 +1,6 @@
 ---
-date: 2020-04-09 02:11:21+08:00
+date: 2020-04-08 18:11:21
 source: email
-title: I miss being able to set my status
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1247964298376122369/
@@ -19,7 +18,13 @@ syndicated:
   url: https://mastodon.technology/@roytang/103964519600784816/
 - type: mastodon
   url: https://mastodon.technology/@roytang/103964520894772473/
-
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103964518568503150
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103964519600784816
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103964520894772473
+title: I miss being able to set my status
 ---
 
 I miss being able to set a custom status message in my messaging app. Company I worked at for the longest time used jabber/xmpp for internal messaging, which supported setting a status message. I often used it to put short messages, jokes or PSAs, and I like to think I was one of the first at the company to practice this and it spread later. Just a fun thing to scroll through your contact list and see the random status messages people put. I suppose in the modern age no one really scrolls through their contact lists though.

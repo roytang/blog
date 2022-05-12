@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1210953549674250240/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103386239031794358
 ---
 
 I wonder if there are other developers who have written their own software for their own use with horrible ui and horrible code that never gets cleaned up because "I'm the only one who'll ever use it"

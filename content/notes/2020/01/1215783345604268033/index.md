@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1215783345604268033/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103461755758015003
 ---
 
 I've been migrating most of my services away from my gmail account and it's kinda scary how many services don't have email confirmation
