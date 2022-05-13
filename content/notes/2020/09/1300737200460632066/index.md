@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1300737200460632066/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1300856592686964736/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104789203336129523
 tags:
 - mtgakr
 - twitch

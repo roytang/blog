@@ -13,5 +13,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104752861079780449
 - type: twitter
   url: https://twitter.com/roytang/statuses/1298417421112418304/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104750816605083296
 title: What Windows 95 Changed
 ---

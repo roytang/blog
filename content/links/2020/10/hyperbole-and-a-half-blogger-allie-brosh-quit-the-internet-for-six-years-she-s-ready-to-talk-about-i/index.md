@@ -14,6 +14,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/105049935690671319
 - type: twitter
   url: https://twitter.com/roytang/statuses/1317430197130469377/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/105041167134531147
 title: '''Hyperbole and a Half'' Blogger Allie Brosh Quit the Internet for Six Years.
   She''s Ready to Talk About It'
 ---
