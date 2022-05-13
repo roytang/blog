@@ -3,6 +3,8 @@ date: 2020-01-11
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1215806319304814592/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103462003581607188
 tags:
 - movies
 - tv

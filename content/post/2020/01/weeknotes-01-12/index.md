@@ -3,6 +3,8 @@ date: 2020-01-12
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1216214016697171969/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103468374174341801
 tags:
 - weeknotes
 - changelog

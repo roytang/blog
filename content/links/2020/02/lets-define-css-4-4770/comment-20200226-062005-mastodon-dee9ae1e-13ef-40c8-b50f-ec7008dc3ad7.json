@@ -1,0 +1,11 @@
+{
+  "id": "dee9ae1e-13ef-40c8-b50f-ec7008dc3ad7",
+  "name": "roytang",
+  "url": "https://mastodon.technology/@roytang",
+  "text": "<p><span class=\"h-card\"><a href=\"https://floss.social/@alcinnz\" class=\"u-url mention\">@<span>alcinnz</span></a></span> I dont think anyone is proposing to remove the module-level version numberss for the specific standards, rather to package the most commonly supported changes under a new monicker? It should be simpler for <a href=\"https://odysseus.adrian.geek.nz/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"\">odysseus.adrian.geek.nz/</span><span class=\"invisible\"></span></a> to list &quot;CSS4&quot; instead of individual module version numbers? Anyway, I only shared the link because I thought the discussion was interesting; the idea of having a &quot;version&quot; purely for marketing to nontech people, while everything still works the same way for devs</p>",
+  "date": "2020-02-26 06:20:05",
+  "photo": "https://cdn.mastodon.technology/accounts/avatars/000/112/999/original/3a2b01f7f776164f.jpg",
+  "source_url": "https://mastodon.technology/users/roytang/statuses/103723696480127853",
+  "source": "mastodon",
+  "reply_to": "https://floss.social/users/alcinnz/statuses/103723628672590774"
+}

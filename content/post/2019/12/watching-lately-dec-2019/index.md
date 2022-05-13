@@ -5,6 +5,8 @@ date: 2019-12-29 05:56:56
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1211336305948401667/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103392237073874094
 tags:
 - Movies
 - Review

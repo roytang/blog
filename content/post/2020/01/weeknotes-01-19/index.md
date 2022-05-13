@@ -3,6 +3,8 @@ date: 2020-01-19
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1218728075942416386/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103507668155885261
 tags:
 - weeknotes
 title: Weeknotes 2020-01-19

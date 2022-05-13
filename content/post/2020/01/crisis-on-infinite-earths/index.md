@@ -8,6 +8,8 @@ reviews:
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1218003335577571328/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103496311875878516
 tags:
 - tv
 - arrowverse

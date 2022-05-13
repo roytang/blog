@@ -3,6 +3,8 @@ date: 2020-01-27 01:25:41
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1221625666006933504/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103552993559873195
 tags:
 - gaming
 - dreams

@@ -3,6 +3,8 @@ date: 2020-02-21
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1230701765785346052/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103694807461051266
 tags:
 - blogging
 - writing
