@@ -3,7 +3,7 @@ date: 2020-04-29 20:53:04
 source: email
 syndicated:
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/104118307260429942
+  url: https://mastodon.technology/users/roytang/statuses/104083883315215167
 - type: twitter
   url: https://twitter.com/roytang/statuses/1255602845513953280/
 title: ''

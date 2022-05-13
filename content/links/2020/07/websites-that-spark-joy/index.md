@@ -13,5 +13,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104444344087651915
 - type: twitter
   url: https://twitter.com/roytang/statuses/1278672333889126401/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104440293624193375
 title: Websites that spark joy.
 ---

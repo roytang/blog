@@ -13,5 +13,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104586218714417016
 - type: twitter
   url: https://twitter.com/roytang/statuses/1287752311918403586/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/104539659532764369
 title: '''Please Scream Inside Your Heart,'' Japanese Amusement Park Tells Thrill-Seekers'
 ---
