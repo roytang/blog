@@ -1,0 +1,32 @@
+{
+  "id": "c6f0393c-ab66-4d66-b7cc-06f8a9c13a22",
+  "name": "Appropriate Tributes",
+  "url": "https://botsin.space/@godtributes",
+  "text": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> NETS FOR THE NET GOD</p>\n<a class=\"u-mention\" href=\"https://www.eff.org/deeplinks/2022/05/how-disable-ad-id-tracking-ios-and-android-and-why-you-should-do-it-now\"></a>",
+  "date": "2022-05-12 06:52:26",
+  "photo": "https://webmention.io/avatar/cdn.mastodon.technology/27d0bd48b9c1d67ac7cc10f65594c7ce971064a5b824340a30124f626602cd2b.png",
+  "source_url": "https://botsin.space/@godtributes/108287645848022092",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Appropriate Tributes",
+      "photo": "https://webmention.io/avatar/cdn.mastodon.technology/27d0bd48b9c1d67ac7cc10f65594c7ce971064a5b824340a30124f626602cd2b.png",
+      "url": "https://botsin.space/@godtributes"
+    },
+    "url": "https://botsin.space/@godtributes/108287645848022092",
+    "published": "2022-05-12T06:52:26",
+    "wm-received": "2022-05-12T08:30:10Z",
+    "wm-id": 1396653,
+    "wm-source": "https://brid.gy/comment/mastodon/@roytang@mastodon.technology/108285930847903668/108287645866581764",
+    "wm-target": "https://roytang.net/2022/05/adcfd7abefdedac61c95e85eaff13e9f/",
+    "content": {
+      "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.technology/@roytang\" class=\"u-url\">@<span>roytang</span></a></span> NETS FOR THE NET GOD</p>\n<a class=\"u-mention\" href=\"https://www.eff.org/deeplinks/2022/05/how-disable-ad-id-tracking-ios-and-android-and-why-you-should-do-it-now\"></a>",
+      "text": "@roytang NETS FOR THE NET GOD"
+    },
+    "in-reply-to": "https://roytang.net/2022/05/adcfd7abefdedac61c95e85eaff13e9f/",
+    "wm-property": "in-reply-to",
+    "wm-private": false
+  }
+}
