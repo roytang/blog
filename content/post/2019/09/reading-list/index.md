@@ -4,6 +4,8 @@ date: 2019-09-02 00:00:00
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1168315423835774976/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102720009545106668
 tags:
 - books
 - goodreads

@@ -4,6 +4,8 @@ date: 2019-08-22 00:00:00
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164328992012460033/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102657755353588692
 tags:
 - tech life
 - gaming

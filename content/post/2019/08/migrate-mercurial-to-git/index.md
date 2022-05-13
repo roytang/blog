@@ -4,6 +4,8 @@ date: 2019-08-24 00:00:00
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1165053929215975424/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102669081325631673
 tags:
 - software development
 - tech life

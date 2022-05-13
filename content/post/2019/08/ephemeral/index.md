@@ -5,6 +5,8 @@ date: 2019-08-29
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1166866136694177792/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102697360890288037
 tags:
 - tech life
 title: Ephemeral social media

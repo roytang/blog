@@ -4,6 +4,8 @@ date: 2019-08-28 00:00:00
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1166502708343390210/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102691699457183172
 tags:
 - software development
 - python

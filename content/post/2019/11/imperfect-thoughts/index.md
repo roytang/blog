@@ -3,6 +3,8 @@ date: 2019-11-18
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1196451652959719424/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/103159644149466437
 tags:
 - blogging
 title: A Cradle for Imperfect Thoughts
