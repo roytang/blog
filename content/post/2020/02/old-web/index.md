@@ -27,7 +27,7 @@ Typically, the government agencies at that time used only Internet Explorer in t
 
 We also had to use some ActiveX to get around browser quirks. For example, IE6 had this problem with combo boxes/select elements where the width of the drop window would always match the width of the `select` element, but this means if the `option` text was longer than that width, they would not be readable. We had to make an ActiveX component just to fix this, by making the drop window wider on document load! Sample screenshot recovered from the vaults:
 
-{{< img src="combo.jpg" >}}
+{{< img src="Combo.jpg" >}}
 
 Some other ActiveX uses were to do things that would later on become standard features in browsers. Some other examples I can recall:
 
