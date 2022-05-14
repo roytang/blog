@@ -24,7 +24,7 @@ I think people generally have a difficulty in understanding scale, especially wh
 
 In the immediate aftermath of the elections, many questions were raised. Why was the transmission so fast? Why was there a suspiciously linear pattern in the data uploads? Why did so many VCMs fail and so many people had to wait many many hours to even cast their vote? And so on. While I think it's good to be raising these questions, I feel like there's a strong element of denialism in there, in part inspired by the pre-election optimism: "How could we have lost so badly; it's impossible, there must have been cheating!"
 
-There almost certainly was cheating, but most likely it was not on the technical/transmission count (as the PPCRV parallel count eventually showed) and more on the in-person side: vote-buying, intimidation and the like. This kind of stuff happens in every election in this country, and it's very difficult to prove and prosecute the wrongdoers. And worse, many of the electorate come to expect the vote-buying; enough that at Leni rallies many report being asked if there was money being given out. 
+There almost certainly was cheating, but most likely it was not on the technical/transmission count (as the PPCRV parallel count eventually showed) and more on the in-person side: vote-buying, intimidation and the like. This kind of stuff happens in every election in this country, and it's very difficult to prove or to prosecute the wrongdoers. And worse, many of the electorate come to expect the vote-buying; enough that at Leni rallies many report being asked if there was money being given out. 
 
 Given there was cheating, was it likely that it changed the outcome of the National elections? Given the huge gap in the results, this seems unlikely to me. Sadly, it does look like this was the will of the people.
 
@@ -40,11 +40,13 @@ The thing is, one of the main problems with BBM's "side" is they tend to rely on
 
 Even VP Leni's planned Angat Buhay NGO has one of its main goals as fighting disinformation, so hopefully that's something that bears fruit.
 
+(I do agree that insisting on purity of methods in the face of an indiscriminate enemy is inherently disadvantageous; I have no current alternative.)
+
 ### Cultural Biases
 
 I think there are also several cultural factors that make it difficult for progressive and dissenting forces to grab hold among the populace. 
 
-One of these is the tendency of Filipinos to prefer subservience to authority (we are [a high power distance](https://en.wikipedia.org/wiki/Power_distance) society), which means people may find the idea of speaking up or dissenting in public to be counterproductive or uncomfortable. I think this is at least partially where narratives like "Si Leni walang ginawa kundi siraan ang gobyerno!" or "Mga taga UP walang ginawa kundi magrally!" or "Dami mong angal, sumunod ka na lang" come from and why the narrative of "Unity" was so appealing to many; many people prefer to keep their heads down and suffer in silence and get things done than speak up, and others speaking up may make them uncomfortable. While we do have a strong history of activism, I think we need to a better job of emphasizing how that kind of dissent is important in improving people's lives.
+One of these is the tendency of Filipinos to prefer subservience to authority (we are [a high power distance](https://en.wikipedia.org/wiki/Power_distance) society), which means people may find the idea of speaking up or dissenting in public to be counterproductive or uncomfortable. I think this is at least partially where narratives like *"Si Leni walang ginawa kundi siraan ang gobyerno!"* or *"Mga taga UP walang ginawa kundi magrally!"* or *"Dami mong angal, sumunod ka na lang"* come from and why the narrative of "Unity" was so appealing to many; many people prefer to keep their heads down and suffer in silence and get things done than speak up, and others speaking up may make them uncomfortable. While we do have a strong history of activism, I think we need to a better job of emphasizing how that kind of dissent is important in improving people's lives.
 
 The above is I think also why there were people who reacted poorly to Legarda's son calling out the mother - they believe that subservience to your elders is more important than things like calling out fascism.
 
@@ -52,9 +54,7 @@ Another cultural factor I think is pride; Filipinos have a strong sense of pride
 
 Another thing is that many people just don't take the elections seriously. Probably they feel that it is too divorced from their day to day concerns? There are even people who just treat it as a game to be won where you have to pick the winning side. Given the poor state of our nation, a lot of people simply don't have the time or energy or inclination to devote to perusing all the candidates' backgrounds and deciding pros and cons or silly things like trying to separate fact from fiction.
 
-This is why name recall is so important in our elections and why celebrities often do well. 
-
-Related: A lot of people were also disappointed with the outcome of the senatorial races as well, with the likes of Robin Padilla and Raffy Tulfo earning top spots and many more deserving candidates being left out. This has been a trend in PH elections as far as I can remember though [[1]](https://twitter.com/roytang/status/13731132640) [[2]](https://twitter.com/roytang/status/13756221214/) (part of the reason why I have low expectations for the electorate in general)
+This is why name recall is so important in our elections and why celebrities often do well. Somewhat related: A lot of people were also disappointed with the outcome of the senatorial races as well, with the likes of Robin Padilla and Raffy Tulfo earning top spots and many more deserving candidates being left out. This has been a trend in PH elections as far as I can remember though [[1]](https://twitter.com/roytang/status/13731132640) [[2]](https://twitter.com/roytang/status/13756221214/) (part of the reason why I have low expectations for the electorate in general)
 
 ### Dealing with your fellow citizens
 
@@ -62,13 +62,13 @@ It's might be a challenge to look at the general populace the same way after kno
 
 A friend confided in one of our group chats that he worried he would become less trusting of people in general, because his assumptions about how selfish people are has been thrown out of whack. 
 
-It's an understandable sentiment, but we should not let ourselves fall into cynicism. The whole point of the movement was around hope and change and that things can and should be better for our country, so automatically distrusting our fellow citizens for poor decisions is counterproductive. We need to find a way forward.
+It's an understandable sentiment, but we should not let ourselves fall into cynicism. The whole point of the movement was around hope and change and that things can and should be better for our country, so automatically distrusting our fellow citizens for poor decisions is counterproductive. We need to find a way forward. We have to remember, many of them are victims in this scenario - victims of disinformation and an unjust system that prefers to keep the electorate needy and patronizing.
 
 ### What Comes Next
 
-VP Leni has laid out her plans for an Angat Buhay NGO after her term ends; I suspect she may also just retire from politics and work with civic society for a while. She certainly deserves a rest.
+VP Leni has laid out her plans for an Angat Buhay NGO after her term ends; I suspect she may also just retire from politics and work with civic society for a while. She certainly deserves a rest and more time with her family.
 
-For the rest of us, those who believed that things can and should be better for this country, we could certainly use some time to rest and recover and lick our wounds and figure out the best way forward. The fight for the country's future continues, and we need all our strength for it. Maybe we can't rest too long though - time was certainly a factor in this elections, as the other side had been sowing misinformation for years, even before 2016, while the VP's campaign only last 3 months.
+For the rest of us, those who believed that things can and should be better for this country, we could certainly use some time to rest and recover and lick our wounds and figure out the best way forward. The fight for the country's future continues, and we need all our strength for it. Maybe we can't rest too long though - time was certainly a factor in this elections, as the other side had been sowing misinformation for years, even before 2016, while the VP's campaign only lasted 3 months.
 
 Personally, IDK if I still have it in me to be so invested in our country's future the next time around. I barely had the energy this time around. I hope I can still manage to speak my voice in 2028. But the volunteer movement gives me some hope; while there is a good chance that turning this country around is not happening for my generation, but with the large number of younger voters standing up to speak, maybe there is a chance for the next generation
 
