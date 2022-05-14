@@ -1,11 +1,16 @@
 ---
-title: "Post-Election Thoughts"
-date: 2022-05-14T13:30:21+08:00
+date: 2022-05-14 05:30:21
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108298961997922907
+- type: twitter
+  url: https://twitter.com/roytang/status/1525367879729721344/
 tags:
 - philippines
 - current-events
 - politics
 - halalan2022
+title: Post-Election Thoughts
 ---
 
 It has been a difficult week, particularly for supporters of VP Leni Robredo, given the outcome of the election last Monday. It's taken me a few days to gather my thoughts, and even then, some of these ideas may still seem raw and unrefined. Some were also the outcome of numerous conversations with fellow supporters both before and after the elections. Disclaimer: I am of course, not an expert of any kind, and these are just my personal thoughts (some refined by many conversations in the immediate 48-96hrs after the election. So very many active group chats!)
