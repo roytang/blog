@@ -1,5 +1,5 @@
 ---
-date: 2022-05-15T14:15:21+08:00
+date: 2022-05-15 06:15:21
 dontinlinephotos: true
 resources:
 - src: yabu.jpg
@@ -10,15 +10,20 @@ reviews:
   hashtag: john-wich-3-parabellum-2019
   media: movies
   rating: 3.5
-  title: "John Wick 3: Parabellum"
+  title: 'John Wick 3: Parabellum'
   year: 2019
 - date: 2022-05-13
   description: Beautifully absurd. Best to go in not knowing anything.
   hashtag: swiss-army-man-2016
   media: movies
   rating: 4.0
-  title: "Swiss Army Man"
+  title: Swiss Army Man
   year: 2016
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108306133342408538
+- type: twitter
+  url: https://twitter.com/roytang/status/1525826856976777217/
 tags:
 - weeknotes
 - philippines
