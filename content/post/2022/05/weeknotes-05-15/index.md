@@ -104,5 +104,4 @@ I also started catching up on Legends of Tomorrow, since they're already cancell
 
 ### This coming week:
 
-- PH Elections tomorrow!
-- Limited open next weekend on Arena: Another chance to do horribly!
+- I have a thing next weekend, so the next weeknotes will probably be a bit late.
