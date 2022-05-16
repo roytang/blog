@@ -1,5 +1,10 @@
 ---
-date: 2018-12-31 10:05:26+00:00
+date: 2018-12-31 10:05:26
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Final Fantasy XII The Zodiac Age (PS4)
 source: twitter
 syndicated:
 - type: twitter

@@ -7,4 +7,16 @@ syndicated:
 tags: []
 ---
 
-Things I could be doing: 1. Sleeping 2. Writing 3. Reading (clearing the reading list) 4. Gaming (clearing the gaming backlog) 5. Coding some side projects 6. Drawing/sketching 7. Cleaning up/organizing stuff around the house  What I'm actually doing: 1. Derping around on the internet
+Things I could be doing: 
+
+1. Sleeping 
+2. Writing 
+3. Reading (clearing the reading list) 
+4. Gaming (clearing the gaming backlog) 
+5. Coding some side projects 
+6. Drawing/sketching 
+7. Cleaning up/organizing stuff around the house  
+
+What I'm actually doing: 
+
+1. Derping around on the internet
