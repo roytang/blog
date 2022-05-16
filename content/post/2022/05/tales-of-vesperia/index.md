@@ -1,16 +1,21 @@
 ---
 date: 2022-05-16 06:03:22
+dontinlinephotos: true
 reviews:
-- media: games
+- description: Vast improvement over Symphonia
+  media: games
   rating: 4.0
   title: 'Tales of Vesperia: Definitive Edition (Steam)'
-  description: Vast improvement over Symphonia
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108310221327618116
+- type: twitter
+  url: https://twitter.com/roytang/status/1526088487895650304/
 tags:
 - gaming
 - talesof
 - games
 title: 'Tales of Vesperia: Definitive Edition'
-dontinlinephotos: true
 ---
 
 I started playing Tales of Vesperia in January, since I had just finished [Tales of Symphonia](/2021/12/symphonia/) a couple of weeks prior. Vesperia is that rare PS3 era RPG that never got an English-language release on that system, so I've actually been wanting to play this for more than a decade now, though I actually bought the game only during last year's end-of-year Steam sales.
