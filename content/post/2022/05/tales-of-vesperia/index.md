@@ -2,8 +2,9 @@
 date: 2022-05-16 06:03:22
 reviews:
 - media: games
-  rating: 3.5
+  rating: 4.0
   title: 'Tales of Vesperia: Definitive Edition (Steam)'
+  description: Vast improvement over Symphonia
 tags:
 - gaming
 - talesof
