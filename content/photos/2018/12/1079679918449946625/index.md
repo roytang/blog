@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1079679918449946625/
 tags:
 - PS4share
+- games
 title: ''
 ---
 
