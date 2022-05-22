@@ -8,6 +8,11 @@ reviews:
   media: tv
   rating: 3.5
   title: Legends of Tomorrow
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108345927639282387
+- type: twitter
+  url: https://twitter.com/roytang/status/1528373692795080705/
 tags:
 - weeknotes
 - philippines
