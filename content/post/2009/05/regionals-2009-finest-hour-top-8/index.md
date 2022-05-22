@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2009-05-18 14:59:52
+location: robinsons_galleria
 tags:
 - mtg
 title: 'Regionals 2009: Finest Hour *Top 8*'
