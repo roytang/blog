@@ -1,0 +1,28 @@
+{
+  "id": "aa883005-162a-4eeb-837b-e70f9b9e961d",
+  "name": "Brief lml",
+  "url": "https://twitter.com/BriefLml",
+  "text": "[Brief lml](https://twitter.com/BriefLml) [liked this](https://twitter.com/roytang/status/1526088487895650304#favorited-by-1519494655137783814)",
+  "date": "2022-05-22 08:21:05",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/efe6f2644db28f893d27cf004ad34b28981568504a2d5dfb09463ba55c6f5cd4.jpg",
+  "source_url": "https://twitter.com/roytang/status/1526088487895650304#favorited-by-1519494655137783814",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Brief lml",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/efe6f2644db28f893d27cf004ad34b28981568504a2d5dfb09463ba55c6f5cd4.jpg",
+      "url": "https://twitter.com/BriefLml"
+    },
+    "url": "https://twitter.com/roytang/status/1526088487895650304#favorited-by-1519494655137783814",
+    "published": null,
+    "wm-received": "2022-05-22T08:21:05Z",
+    "wm-id": 1401925,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1526088487895650304/1519494655137783814",
+    "wm-target": "https://roytang.net/2022/05/tales-of-vesperia/",
+    "like-of": "https://roytang.net/2022/05/tales-of-vesperia/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
