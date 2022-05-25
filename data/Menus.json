@@ -124,6 +124,19 @@
             "URL_name": "posts_all"
         }
     ],
+    "follows": [
+        {
+            "Name": "Follows"
+        },
+        {
+            "Name": "Blogroll",
+            "URL": "/page/blogroll/"
+        },
+        {
+            "Name": "River",
+            "URL_name": "posts_river"
+        }
+    ],
     "main_header": [
         { 
             "Name": "Posts",

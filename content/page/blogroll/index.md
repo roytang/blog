@@ -1,9 +1,10 @@
 ---
 title: "Blogroll"
 date: 2020-02-21
+submenu: "follows"
 ---
 
-This is an incomplete list of blogs I follow, that I feel are worth sharing. 
+This is an partial list of blogs I follow, that I feel are worth sharing. 
 
 More about this list on [this post](/2020/02/thoughts-on-blogging-2020-edition/), from which I quote:
 

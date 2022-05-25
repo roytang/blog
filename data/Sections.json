@@ -34,6 +34,14 @@
         "descrip": "Topic indexes",
         "exclude_feed": true
     },
+    "river": {
+        "label": "River",
+        "descrip": "Latest posts from blogs I follow.",
+        "exclude_feed": true,
+        "page_count": 500,
+        "submenu": "follows",
+        "feeds": false
+    },
     "page": {
         "label": "Other Pages",
         "descrip": "Standalone pages not belonging to the other sections.",
