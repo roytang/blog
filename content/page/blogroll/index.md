@@ -11,3 +11,5 @@ More about this list on [this post](/2020/02/thoughts-on-blogging-2020-edition/)
 > "Very few of these are people I know IRL, mostly I just stumbled upon their blogs via some method or other. Many of them are tech-related though not all of them are. All are reasonably active. I thought about tagging or categorizing them somehow, but it's rude to put people into boxes, so maybe it's rude to do that for their websites too, just let people be people and let blogs be blogs."
 
 {{< blogroll >}}
+
+The OPML file for this blogroll can be downloaded [here](https://raw.githubusercontent.com/roytang/blog/master/data/feeds.opml).
