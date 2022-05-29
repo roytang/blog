@@ -12,6 +12,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108306269244286797
 - type: twitter
   url: https://twitter.com/roytang/status/1525835543493640193/
+tags:
+- disinformation
 title: You're not going to believe what I'm about to tell you (classroom-friendly
   version) - The Oatmeal
 ---
