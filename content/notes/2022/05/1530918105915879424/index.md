@@ -14,17 +14,11 @@ Did 5 runs on the Standard Challenge on #MagicArena with the below Jund list. Di
 
 
 | Record | Gold | Packs |
-
 |---|---|---|
-
 | 3-1 | +0 | +3 |
-
 | 2-1 | -500 | +1 |
-
 | 4-1 | +500 | +5 |
-
 | 0-1 | -1500 | |
-
 | 4-1 | +500 | +5 | 
 
 {{< photos 1530918105915879424 >}}
