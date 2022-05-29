@@ -1,5 +1,5 @@
 ---
-date: 2022-05-29T17:16:04+08:00
+date: 2022-05-29 09:16:04
 dontinlinephotos: true
 reviews:
 - date: 2022-05-22
@@ -16,6 +16,11 @@ reviews:
   rating: 3.5
   title: Uncharted
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108385656918376887
+- type: twitter
+  url: https://twitter.com/roytang/status/1530916356882767873/
 tags:
 - weeknotes
 - philippines
