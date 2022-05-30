@@ -22,3 +22,12 @@ Did 5 runs on the Standard Challenge on #MagicArena with the below Jund list. Di
 | 4-1 | +500 | +5 | 
 
 {{< photos 1530918105915879424 >}}
+
+<time>[2022-05-30 21:00]</time> The event was still available, so I tried a Jund list from [the recent Japan Championship](https://mtgazone.com/japan-championship-2022/) and did poorly.
+
+| Record | Gold | Packs |
+|---|---|---|
+| 1-1 | -1000 | 
+| 0-1 | -1500 | 
+
+Sigh.
