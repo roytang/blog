@@ -1,0 +1,11 @@
+{
+  "id": "2ffbf449-25fb-4d5f-b861-d53387c8ca71",
+  "name": "hungryroy",
+  "url": "https://www.reddit.com/u/hungryroy",
+  "text": "Thanks. Although the linked article doesn't actually explain the storage mechanism. (Also grabe naman itong official gazette hindi nagrerenew ng HTTPs cert lol)\n\nSo basically you're saying writeable naman ung card (para maupdate yung balance), but in that case what prevents someone from getting the hardware to read/write magnetic stripe cards and basically reset balances? Or meron syang some sort of encryption to prevent that?",
+  "date": "2022-05-31 14:52:19",
+  "photo": null,
+  "source_url": "https://www.reddit.com/r/Philippines/comments/v1rk0c/how_did_the_mrts_old_stored_value_tickets_work/iao3397/",
+  "source": "reddit",
+  "reply_to": "https://www.reddit.com/r/Philippines/comments/v1rk0c/how_did_the_mrts_old_stored_value_tickets_work/iao0wcz/"
+}

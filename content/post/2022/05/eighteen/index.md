@@ -1,8 +1,13 @@
 ---
-title: "Eighteen"
-date: 2022-05-31T19:53:26+08:00
+date: 2022-05-31 11:53:26
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108396691584979524
+- type: twitter
+  url: https://twitter.com/roytang/status/1531622573209186307/
 tags:
 - current-events
+title: Eighteen
 ---
 
 As I mentioned in [the most recent weeknotes](/2022/05/weeknotes-05-29/), nothing about the most recent spate of USA mass shootings is particularly new or even surprising. But one thing that struck me is that both of the assailants in Uvalde and Buffalo were eighteen years old. Eighteen! This shouldn't be surprising, since even the perpetrators of the earliest mass shootings like Columbine were eighteen years old. 
@@ -15,4 +20,4 @@ But that was me. I lived a relatively good, sheltered life, even in a poor, deve
 
 That kind of thing is a very rare occurrence anywhere in the world actually, except in the USA. It's not just the internet radicalization, it's not just mental health issues; it's not video games or open doors or whatever. Most of these things exist in other countries too. The insane gun culture is a large part of it, and that's something that seems totally incomprehensible to the rest of the world. But beyond that, there's something about the USA culturally that makes it more common to have young people feeling isolated or unable to connect with their fellow human beings, enough that lashing out with violence seems like an appropriate response. It is especially tragic considering the USA is one of the most prosperous nations in the world, which one assumes would allow them to better look after the welfare and security of their citizens.
 
-I'm not an American, I'm an outsider looking in with sadness, so my opinion on this is worth very little. But somehow I don't feel optimistic that the USA as a country would be able to solve this issue soon. 
+I'm not an American, I'm an outsider looking in with sadness, so my opinion on this is worth very little. But somehow I don't feel optimistic that the USA as a country would be able to solve this issue soon.
