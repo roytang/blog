@@ -4,7 +4,7 @@ date: 2020-02-21
 submenu: "follows"
 ---
 
-This is an partial list of blogs I follow, that I feel are worth sharing. 
+This is an partial list of blogs I follow, that I feel are worth sharing. [OPML File](/blogroll/opml/)
 
 More about this list on [this post](/2020/02/thoughts-on-blogging-2020-edition/), from which I quote:
 
@@ -12,4 +12,3 @@ More about this list on [this post](/2020/02/thoughts-on-blogging-2020-edition/)
 
 {{< blogroll >}}
 
-The OPML file for this blogroll can be downloaded [here](https://raw.githubusercontent.com/roytang/blog/master/data/feeds.opml).
