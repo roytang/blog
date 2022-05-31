@@ -12,3 +12,4 @@ More about this list on [this post](/2020/02/thoughts-on-blogging-2020-edition/)
 
 {{< blogroll >}}
 
+You can also find more blogs to follow over on [Blogroll.org](https://blogroll.org/)!
