@@ -89,7 +89,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - #### Uncharted
 
-    - Came in for a generic action film with maybe some light video game flavor, got exactly that. The film isn't exceptional, and I still have trouble accepting Tom Holland as a grownup, but it does a serviceable job replicating the exploration and treasure hunting and puzzle solving feel of the Uncharted games, minus the "Nathan Drake kills 200 mercenaries in his sleep" part.
+    - Came in for a generic action film with maybe some light video game flavor, got exactly that. The film isn't exceptional, and I still have trouble accepting Tom Holland as a grownup, but it does a serviceable job replicating the exploration and treasure hunting and puzzle solving feel of the Uncharted games, minus the "Nathan Drake kills 200 mercenaries in his sleep" part. I was amazed at their technology that allowed an app to track another person's location and communicate even through underground tunnels and caves.
 
 - Started reading: **A Psalm for the Wild-Built** by Becky Chambers
 
