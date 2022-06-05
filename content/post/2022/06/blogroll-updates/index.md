@@ -1,10 +1,15 @@
 ---
-title: "Blogroll Updates"
-date: 2022-06-04T15:46:16+08:00
+date: 2022-06-04 07:46:16
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108418186630988049
+- type: twitter
+  url: https://twitter.com/roytang/status/1532998256112054272/
 tags:
 - blogging
 - meta
 - tech-life
+title: Blogroll Updates
 ---
 
 I finally updated my long-unmaintained [blogroll page](/page/blogroll).
