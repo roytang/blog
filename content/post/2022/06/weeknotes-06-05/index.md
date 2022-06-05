@@ -1,28 +1,35 @@
 ---
-date: 2022-06-05T21:55:34+08:00
+albums:
+- sketchbook
+date: 2022-06-05 13:55:34
 dontinlinephotos: true
 reviews:
 - date: 2022-05-30
-  description: 'A reasonable action movie.'
+  description: A reasonable action movie.
   hashtag: jack-reacher-never-go-back-2016
   media: movies
   rating: 3
-  title: "Jack Reacher: Never Go Back"
+  title: 'Jack Reacher: Never Go Back'
   year: 2016
 - date: 2022-06-01
-  description: 'A more boring film than the sequel.'
+  description: A more boring film than the sequel.
   hashtag: jack-reacher-2012
   media: movies
   rating: 2.5
-  title: "Jack Reacher"
+  title: Jack Reacher
   year: 2012
 - date: 2022-06-03
   description: 'Great flying sequences. More homoerotic than it needed to be. '
   hashtag: top-gun-1986
   media: movies
   rating: 3.0
-  title: "Top Gun"
+  title: Top Gun
   year: 1986
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108425468265510269
+- type: twitter
+  url: https://twitter.com/roytang/status/1533464289486708736/
 tags:
 - weeknotes
 - movies
