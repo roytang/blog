@@ -99,7 +99,7 @@ It seemed unlikely I would be watching Top Gun: Maverick anytime soon, so instea
 - **Ongoing TV Status:** 
     - I hadn't realized it last week, but new seasons of The Boys and The Orville kicked off this week, and I also got started on the Obi-Wan series.
     - Caught up: **NCIS**, **The Flash season 8**, **The Simpsons**, **Star Trek: Strange New Worlds**, **The Orville season 3**
-    - Behind: **Superman and Lois**, , **Young Justice**, **Obi-wan Kenobi**
+    - Behind: **Superman and Lois**, **Young Justice**, **Obi-wan Kenobi**
     - Yet to start: **Cobra Kai season 4**, **The Boys Season 3**
     - I also watched the latest set of episodes for Letterman's "**My Next Guest...**" show on Netflix, mostly as background noise. I don't really consider these as "Ongoing TV", but they were reasonably good interviews, even the ones with celebrities I didn't really know (Billie Eilish, Kevin Garnet and Cardi B.) I most enjoyed the Ryan Reynolds and Will Smith and Julia Louis-Dreyfus ones since I was more familiar with their work. (The Will Smith one was filmed before the Oscars.) 
 
