@@ -1,7 +1,7 @@
 ---
 albums:
 - sketchbook
-date: 2022-06-12T21:39:10+08:00
+date: 2022-06-12 13:39:10
 dontinlinephotos: true
 reviews:
 - date: 2022-06-12
@@ -9,11 +9,16 @@ reviews:
   hashtag: a-psalm-for-the-wild-built-by-becky-chambers
   media: books
   rating: 5
-  title: 'A Psalm for the Wild-Built by Becky Chambers'
+  title: A Psalm for the Wild-Built by Becky Chambers
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108464877325871953
+- type: twitter
+  url: https://twitter.com/roytang/status/1535986460532576256/
 tags:
 - weeknotes
 - books
-title: "Weeknotes 2022-06-12: A Psalm for the Wild-Built"
+title: 'Weeknotes 2022-06-12: A Psalm for the Wild-Built'
 ---
 
 I have had a busy week; lots of errands and family activities and some stuff I don't care to talk about publicly. And for some reason I feel more exhausted than normal. Maybe just old age? Regardless, I don't have any world news or links for today, so I think I will eschew the usual format I've settled into for these weeknotes. It's good to wander off once in a while, after all.
