@@ -1,11 +1,8 @@
 ---
-albums:
-- sketchbook
 date: 2022-06-12 13:39:10
 dontinlinephotos: true
 reviews:
 - date: 2022-06-12
-  description: A reasonable action movie.
   hashtag: a-psalm-for-the-wild-built-by-becky-chambers
   media: books
   rating: 5
