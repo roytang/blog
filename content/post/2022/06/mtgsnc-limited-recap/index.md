@@ -1,12 +1,17 @@
 ---
-title: "My Streets of New Capenna Limited Recap"
-date: 2022-06-16T15:16:44+08:00
+date: 2022-06-16 07:16:44
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108485983766571299
+- type: twitter
+  url: https://twitter.com/roytang/status/1537337272928206848/
 tags:
 - mtg
 - mtgsnc
 - limited
 - magicarena
 - limitedrecap
+title: My Streets of New Capenna Limited Recap
 ---
 
 The next Arena set is almost upon us, so I figured I should compile my Streets of New Capenna limited stats!
