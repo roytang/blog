@@ -7,3 +7,4 @@ markov.md
 resources/_gen/
 cache/
 *.pyc
+.hugo_build.lock
