@@ -14,6 +14,11 @@ reviews:
   media: tv
   rating: 3.5
   title: 'Young Justice: Phantoms'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108504459743465901
+- type: twitter
+  url: https://twitter.com/roytang/status/1538519739504349184/
 tags:
 - weeknotes
 - movies
