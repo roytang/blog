@@ -1,6 +1,11 @@
 ---
-title: "Lab Tests"
-date: 2022-06-22T09:00:00+08:00
+date: 2022-06-22 01:00:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108518416484761457
+- type: twitter
+  url: https://twitter.com/roytang/status/1539412966834987008/
+title: Lab Tests
 ---
 
 A while back, I had to go pick up some lab test results (not mine) from the hospital. I went up to the window and gave my claim receipt and waited. And waited. For a long while. The guy behind the counter had processed some other people already, but he also kept getting up and going to the back to check on something. Eventually, he came over to me and told me there was some "technical problem" with the results I was waiting for and asked for my patience.
