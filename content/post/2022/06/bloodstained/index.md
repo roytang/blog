@@ -1,10 +1,16 @@
 ---
 date: 2022-06-24 15:49:33
 reviews:
-- description: A fun spiritual successor to SOTN, but a bit too easy and a bit too stuffed.
+- description: A fun spiritual successor to SOTN, but a bit too easy and a bit too
+    stuffed.
   media: games
   rating: 3.5
   title: 'Bloodstained: Ritual of the Night (Steam)'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108533398342091037
+- type: twitter
+  url: https://twitter.com/roytang/status/1540371819307233281/
 tags:
 - gaming
 - games
