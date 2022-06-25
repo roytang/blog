@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154702618213912
 tags:
 - quotes
+- gameofthrones
 ---
 
 "Yes well, I suppose that life is irregular" -- Samwell Tarly

@@ -12,6 +12,7 @@ tags:
 || Latest Standard Set | Limited | Constructed |
 |---|---|---|---|
 | **2022** |
+| **Apr** | Streets of New Capenna | [Arena limited](/tags/mtgsnc) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXjh3chA9eZ0xgg3O8mwPDTj) | |
 | **Mar** | | | [Alchemy metagame challenge](/2022/03/1508040061954101249/) |
 | **Feb** | Kamigawa Neon Dynasty | [Arena limited](/tags/mtgneo) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhLIY5zAbmQn-tSxCE5RWgs) | |
 | **2021** |
