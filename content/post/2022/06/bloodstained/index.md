@@ -14,15 +14,15 @@ syndicated:
 tags:
 - gaming
 - games
-title: 'Bloodstained: Ritual of the Night'
+title: 'Bloodstained: Ritual of the Night (Steam)'
 ---
 
 Bloodstained: Ritual of the Night is a pretty good metroidvania, heavily influenced by the classic Castlevania: Symphony of the Night. 
 
 (I will confess that I have never played SOTN; I did play the successor games on GBA and NDS though.)
 
-- the game is easy. It's not a hardcore platformer like [Ori and the Blind Forest](/2017/07/883358595701628930/) and it doesn't have the challenging combat of [Hollow Knight](/2019/02/hollow-knight/). The lack of difficulty is mainly because there is no real limit on the number of restorative items you can bring into a boss fight. For this reason, the later boss fights (when you have more resources) were much easier than the early ones. I pretty much beat the optional/secret boss by bringing 14 pizzas into the fight and just spamming flying pigs. 
-- the game had a bit too much going on. Too many options. 
+- The game is easy. It's not a hardcore platformer like [Ori and the Blind Forest](/2017/07/883358595701628930/) and it doesn't have the challenging combat of [Hollow Knight](/2019/02/hollow-knight/). The lack of difficulty is mainly because there is no real limit on the number of restorative items you can bring into a boss fight. For this reason, the later boss fights (when you have more resources) were much easier than the early ones. I pretty much beat the optional/secret boss by bringing 14 pizzas into the fight and just spamming flying pigs. 
+- The game had a bit too much going on. Too many options. 
     - You can choose from a variety of different weapon types (boots, daggers, swords, greatswords, whips, spears, guns, etc), but for your entire playthrough, you're really only going to stick with one type, and most often I would assume it will be swords (decent attack rate and range, etc). 
     - There are a lot of different spells accessible, and each one can be upgraded multiple times, but you will probably be using maybe only 4-5 different spells during the course of the game; there isn't any real reason to switch them around too often. 
     - The game also has probably one or two too many systems; there's cooking and crafting and shard upgrading and so on; my vote for least useful one is "techniques" which are Street Fighter-like commands you can use to execute special moves and they are specific only to particular weapons AND you can master them with use. You rarely need them, they're not much better than just spamming normal attacks! I only ended up ever mastering one technique, and that was only because there was an achievement.
