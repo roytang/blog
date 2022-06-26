@@ -1,5 +1,5 @@
 ---
-date: 2022-06-26T23:21:26+08:00
+date: 2022-06-26 15:21:26
 dontinlinephotos: true
 reviews:
 - date: 2022-06-23
@@ -7,7 +7,12 @@ reviews:
   hashtag: obi-wan-kenobi
   media: tv
   rating: 3.5
-  title: 'Obi-Wan Kenobi'
+  title: Obi-Wan Kenobi
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108544575160616252
+- type: twitter
+  url: https://twitter.com/roytang/status/1541087122009890816/
 tags:
 - weeknotes
 - movies
