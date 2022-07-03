@@ -1,5 +1,5 @@
 ---
-date: 2022-07-03T12:32:30+08:00
+date: 2022-07-03 04:32:30
 dontinlinephotos: true
 reviews:
 - date: 2022-06-28
@@ -49,6 +49,11 @@ reviews:
   media: tv
   rating: 2.0
   title: The Flash season 8
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108581999548961365
+- type: twitter
+  url: https://twitter.com/roytang/status/1543482282828517376/
 tags:
 - weeknotes
 - movies
@@ -57,7 +62,6 @@ tags:
 - covid
 title: Weeknotes 2022-07-03
 ---
-
 
 - Dictator's son and habitual liar Ferdinand "Bongbong" Marcos Jr officially took over as the president of this country last weekend, a living testament to the power of propaganda and short memories. I did not pay attention to the festivities. In fact, I try not to pay attention to news about him at all; though I am paying attention to cabinet appointees and I must note that we still don't have a health secretary! The pandemic is still a thing!
 - Covid19 cases are still on a slight uptick over here, though the number of daily cases at the end of the month didn't hit the "1000 cases in NCR" predictions I was seeing a few weeks ago. And hospitalization rates are still pretty low, so that's a good sign. Hopefully the surge doesn't get much worse and ends soon. 
