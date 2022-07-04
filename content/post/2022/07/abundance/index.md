@@ -1,6 +1,11 @@
 ---
-title: "An Abundance of Options"
-date: 2022-07-04T14:36:25+08:00
+date: 2022-07-04 06:36:25
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108587964573485688
+- type: twitter
+  url: https://twitter.com/roytang/status/1543864044406259712/
+title: An Abundance of Options
 ---
 
 I'm prepping for an out of town trip and making a list of things to bring. The trip involves a ten-hour bus ride (back and forth) and five days staying at a place where I am uncertain how good the internet will be and for most of the days of the trip we don't have any planned agenda. As such, my checklist always includes a decent amount of entertainment, including offline ones where possible. For this trip, I'm planning to bring:
