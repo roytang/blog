@@ -1,0 +1,28 @@
+{
+  "id": "f7f14af5-e4d9-461a-a95d-6bcf04e44ea4",
+  "name": "zal.br \ud83c\udf31\ud83d\udca7\ud83d\udcd1",
+  "url": "https://twitter.com/zaaaldehyde_x",
+  "text": "[zal.br \ud83c\udf31\ud83d\udca7\ud83d\udcd1](https://twitter.com/zaaaldehyde_x) [liked this](https://twitter.com/roytang/status/1543864044406259712#favorited-by-137623231)",
+  "date": "2022-07-04 15:57:43",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/e90fe4d64cb078384461fbc69c8553248af0e6540d8c83693e6ee7dbde365587.jpg",
+  "source_url": "https://twitter.com/roytang/status/1543864044406259712#favorited-by-137623231",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "zal.br \ud83c\udf31\ud83d\udca7\ud83d\udcd1",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/e90fe4d64cb078384461fbc69c8553248af0e6540d8c83693e6ee7dbde365587.jpg",
+      "url": "https://twitter.com/zaaaldehyde_x"
+    },
+    "url": "https://twitter.com/roytang/status/1543864044406259712#favorited-by-137623231",
+    "published": null,
+    "wm-received": "2022-07-04T15:57:43Z",
+    "wm-id": 1427254,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1543864044406259712/137623231",
+    "wm-target": "https://roytang.net/2022/07/abundance/",
+    "like-of": "https://roytang.net/2022/07/abundance/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
