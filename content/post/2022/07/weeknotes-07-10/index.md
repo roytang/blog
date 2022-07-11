@@ -1,5 +1,5 @@
 ---
-date: 2022-07-11T14:24:34+08:00
+date: 2022-07-11 06:24:34
 dontinlinephotos: true
 reviews:
 - date: 2022-07-07
@@ -7,14 +7,14 @@ reviews:
   hashtag: eurovision-song-contest-the-story-of-fire-saga-2020
   media: movies
   rating: 3.5
-  title: "Eurovision Song Contest: The Story of Fire Saga"
+  title: 'Eurovision Song Contest: The Story of Fire Saga'
   year: 2022
 - date: 2022-07-09
   description: Beautifully animated romance tale about seaplane pilots
   hashtag: porco-rosso-1982
   media: movies
   rating: 4.0
-  title: "Porco Rosso"
+  title: Porco Rosso
   year: 1982
 - date: 2022-07-09
   description: A bit worse than s3; Anthony Star gives a great performance
@@ -22,6 +22,11 @@ reviews:
   media: tv
   rating: 3.5
   title: The Boys
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108627373849495906
+- type: twitter
+  url: https://twitter.com/roytang/status/1546386248155009025/
 tags:
 - weeknotes
 - movies
