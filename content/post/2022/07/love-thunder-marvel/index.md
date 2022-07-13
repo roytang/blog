@@ -1,17 +1,22 @@
 ---
-date: 2022-07-13T16:20:43+08:00
+date: 2022-07-13 08:20:43
 dontinlinephotos: true
 reviews:
-- description: 'Fun movie, but not as good as Ragnarok'
+- description: Fun movie, but not as good as Ragnarok
   media: movies
   rating: 4.0
-  title: "Thor: Love and Thunder"
+  title: 'Thor: Love and Thunder'
   year: 2022
-- description: 'Good Pakistani/Desi/Asian/Muslim representation, but weird plot decisions.'
+- description: Good Pakistani/Desi/Asian/Muslim representation, but weird plot decisions.
   media: tv
   rating: 3.5
   title: Ms Marvel
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108639194317123703
+- type: twitter
+  url: https://twitter.com/roytang/status/1547142748201156608/
 tags:
 - mcu
 - tv
