@@ -2,12 +2,12 @@
 date: 2022-07-13T16:20:43+08:00
 dontinlinephotos: true
 reviews:
-- description: ''
+- description: 'Fun movie, but not as good as Ragnarok'
   media: movies
   rating: 4.0
   title: "Thor: Love and Thunder"
   year: 2022
-- description: ''
+- description: 'Good Pakistani/Desi/Asian/Muslim representation, but weird plot decisions.'
   media: tv
   rating: 3.5
   title: Ms Marvel
@@ -45,7 +45,7 @@ This series was great representation-wise and with portraying what it's like bei
 
 I don't really mind the way the show changed the nature of KK's powers. She did get to do some embiggening in the finale; I would assume their special effects budget prevented her from just doing that all the time which is why she got the light steps instead of the whole stretching legs to walk around Jersey bit. And at the end they did hint that it might be a mutation (or something... inhuman?) that lets her access those powers, so maybe it's not as different as we think. I do think that the change means her power usage have a different tone, one perhaps that is better for tv than comics. 
 
-So many things about the second half of the season just felt so off to me though: like KK's parents just casually accepting she's a superhero now, Kamran getting these unstable powers and no one questioning how or why, and all of the community rallying around them for no other reason than they distrust the DoDC. It's not like KK has done a lot to build up neighborhood goodwill; she did save a kid once, but she also botched the landing on that one, so I don't see why she would have earned the whole "NY helps Spider-Man" treatment.
+So many things about the second half of the season just felt so off to me though: like KK's parents just casually accepting she's a superhero now, Kamran getting these unstable powers and no one questioning how or why, how are the Clandestines and Damage Control able to find them so easily and all of the community rallying around them for no other reason than they distrust the DoDC. It's not like KK has done a lot to build up neighborhood goodwill; she did save a kid once, but she also botched the landing on that one, so I don't see why she would have earned the whole "NY helps Spider-Man" treatment.
 
 I did enjoy random Brie Larson cameo at the end and am looking forward to how the character ties into the Marvels film next year.
 
