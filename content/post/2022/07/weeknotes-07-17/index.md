@@ -1,5 +1,5 @@
 ---
-date: 2022-07-18T00:08:10+08:00
+date: 2022-07-17 16:08:10
 dontinlinephotos: true
 reviews:
 - date: 2022-07-14
@@ -14,7 +14,12 @@ reviews:
   hashtag: star-trek-strange-new-worlds-season-1
   media: tv
   rating: 4.0
-  title: "Star Trek: Strange New Worlds season 1"
+  title: 'Star Trek: Strange New Worlds season 1'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108663765066953443
+- type: twitter
+  url: https://twitter.com/roytang/status/1548715276127981570/
 tags:
 - weeknotes
 - movies
