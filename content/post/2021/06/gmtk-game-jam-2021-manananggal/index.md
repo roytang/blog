@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1407542174384680960/
 tags:
 - gamedev
+- gamejam
 title: 'GMTK Game Jam 2021: Manananggal'
 ---
 

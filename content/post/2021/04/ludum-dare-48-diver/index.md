@@ -9,6 +9,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1395287408707391488/
 tags:
 - gamedev
+- gamejam
 title: 'Ludum Dare 48: Diver'
 ---
 

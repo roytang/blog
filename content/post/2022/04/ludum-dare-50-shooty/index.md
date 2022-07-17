@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1517615190287601664/
 tags:
 - gamedev
+- gamejam
 title: 'Ludum Dare 50: Untitled Shooty Game'
 ---
 
