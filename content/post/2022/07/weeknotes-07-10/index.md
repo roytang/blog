@@ -21,7 +21,7 @@ reviews:
   hashtag: the-boy-season-3
   media: tv
   rating: 3.5
-  title: The Boys
+  title: The Boys season 3
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108627373849495906
@@ -53,7 +53,7 @@ I just came back from a pretty good 5-day out of town trip via a miserable 9-hou
 
 I did manage to watch some stuff this week though.
 
-- #### Eurovision Song Contest: The Story of Fire Saga (202)
+- #### Eurovision Song Contest: The Story of Fire Saga (2020)
 
     - I finally watched this because it kept coming up in our quiz nights. When I first heard of it, I thought it was some sort of documentary. Turns out it's a comedy film starring Will Ferell and Rachel McAdams. The story is okay and the performances are pretty good. Some of the comedy bits seem unnecessary and/or go on way too long, perhaps a typical problem with Will Ferell films.
 
