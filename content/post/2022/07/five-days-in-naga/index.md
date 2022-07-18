@@ -1,11 +1,16 @@
 ---
-title: "Five Days in Naga"
-date: 2022-07-18T21:27:46+08:00
+date: 2022-07-18 13:27:46
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108668970055402210
+- type: twitter
+  url: https://twitter.com/roytang/status/1549048412816871424/
 tags:
 - travels
 - philippines
 - naga2022
-dontinlinephotos: true
+title: Five Days in Naga
 ---
 
 A week and a half ago, my parents and I took an out of town trip to Naga City in Bicol. We [were last there in 2019](/2019/11/four-days-in-bicol/), before the pandemic. Our trip was to attend a cousin's wedding; they'd been engaged since 2020 I think; I remember my dad and uncle were already joking about it back in 2019. The date kept being pushed back because of the pandemic of course. At the time that we went, covid cases were on a slight uptick, but the risk for travel seemed low, especially given all three of us were vaxxed and double boosted.
