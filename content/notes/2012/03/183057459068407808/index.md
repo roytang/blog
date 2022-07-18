@@ -7,7 +7,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/183057459068407808/
 - type: foursquare
-  url: https://www.swarmapp.com/user/405004/checkin/4f6c0529e4b08a0bb8d493e7?s=n1R9JFDqzEfKGsXGC2-1ivdGpZs&ref=tw
+  url: https://www.swarmapp.com/roytang/checkin/4f6c0529e4b08a0bb8d493e7
 - type: twitter
   url: https://twitter.com/roytang/statuses/183057458380554240/
 ---

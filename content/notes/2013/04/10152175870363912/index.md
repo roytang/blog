@@ -1,5 +1,7 @@
 ---
-date: 2013-04-04 23:40:00+08:00
+checkin_id: 515d6d1ce4b0422aca4a8de1
+date: 2013-04-04 15:40:00
+location: 4cbea79719ceb1f7f2ba1ecd
 source: facebook
 syndicated:
 - type: facebook
@@ -7,12 +9,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/319783392617058305/
 - type: foursquare
-  url: https://www.swarmapp.com/user/405004/checkin/515d6d1ce4b0422aca4a8de1?s=3TOGFaYJzUD_C_4AcHrgjIX9uuU
+  url: https://www.swarmapp.com/roytang/checkin/515d6d1ce4b0422aca4a8de1
 tags:
 - quiznight
-checkin_id: 515d6d1ce4b0422aca4a8de1
-location: 4cbea79719ceb1f7f2ba1ecd
-
 ---
 
 Quiz night! (@ Amici Greenhills) http://4sq.com/14PWZXi

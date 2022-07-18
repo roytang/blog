@@ -1,6 +1,8 @@
 ---
-date: 2012-02-29 13:58:11+00:00
+checkin_id: 4f4e2ef2e4b05dbcec2479bc
+date: 2012-02-29 13:58:11
 dontinlinephotos: true
+location: 4c5bd1b7d25320a18589c17a
 source: twitter
 syndicated:
 - type: twitter
@@ -8,11 +10,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/174855989152071680/
 - type: foursquare
-  url: https://www.swarmapp.com/user/405004/checkin/4f4e2ef2e4b05dbcec2479bc?s=cArriZBDxNn7W07YGK7t4R-ii3U&ref=tw
+  url: https://www.swarmapp.com/roytang/checkin/4f4e2ef2e4b05dbcec2479bc
 tags:
 - Foursquare
-checkin_id: 4f4e2ef2e4b05dbcec2479bc
-location: 4c5bd1b7d25320a18589c17a
 ---
 
 I just unlocked the "Pizzaiolo" badge on @foursquare! Pies all around! https://www.swarmapp.com/

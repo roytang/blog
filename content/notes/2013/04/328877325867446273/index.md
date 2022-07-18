@@ -1,5 +1,7 @@
 ---
+checkin_id: 517e550be4b01fb95887d1a5
 date: 2013-04-29 14:23:59
+location: 4b49d6ddf964a520697426e3
 reviews:
 - media: movies
   title: Iron Man 3 (2013)
@@ -8,7 +10,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/328828523991150592/
 - type: foursquare
-  url: https://www.swarmapp.com/user/405004/checkin/517e550be4b01fb95887d1a5?s=HeOKkEREWXvzuHNtxruBdYDVfL8
+  url: https://www.swarmapp.com/roytang/checkin/517e550be4b01fb95887d1a5
 - type: twitter
   url: https://twitter.com/roytang/statuses/328877325867446273/
 - type: facebook
@@ -19,8 +21,6 @@ tags:
 - IronMan3
 - movies
 title: Iron Man 3
-checkin_id: 517e550be4b01fb95887d1a5
-location: 4b49d6ddf964a520697426e3
 ---
 
 Iron man 3 (@ SM City North EDSA w/ 12 others) http://4sq.com/18dMuKv

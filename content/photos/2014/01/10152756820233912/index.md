@@ -1,7 +1,7 @@
 ---
 checkin_id: 52e9d841498e32f3958e4c7d
+date: 2014-01-30 05:28:00
 location: 4c6385efec94a593bd282cca
-date: 2014-01-30 13:28:00+08:00
 source: facebook
 syndicated:
 - type: facebook
@@ -9,7 +9,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/428750090296393728/
 - type: foursquare
-  url: https://www.swarmapp.com/user/405004/checkin/52e9d841498e32f3958e4c7d?s=PeXzE9u4fnmroU72iBm_KyVCWPY&ref=tw
+  url: https://www.swarmapp.com/roytang/checkin/52e9d841498e32f3958e4c7d
 ---
 
 Ccs lunch at burgoo

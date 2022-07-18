@@ -7,7 +7,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/159247445686104064/
 - type: foursquare
-  url: https://www.swarmapp.com/user/405004/checkin/4f15665ce4b0d3f8a9540057?s=YHsGVEMlXVQ5V3zkuLCq6QF6u24&ref=tw
+  url: https://www.swarmapp.com/roytang/checkin/4f15665ce4b0d3f8a9540057
 tags:
 - quiznight
 ---

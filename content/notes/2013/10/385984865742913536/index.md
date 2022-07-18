@@ -7,9 +7,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/385984865742913536/
 - type: foursquare
-  url: https://www.swarmapp.com/user/405004/checkin/524e440911d2c341b8288f09?s=qRPSxUNTpU8brfx3PyMzXm4S7TI&ref=tw
-- type: foursquare
-  url: https://www.swarmapp.com/user/405004/checkin/524e440911d2c341b8288f09?s=qRPSxUNTpU8brfx3PyMzXm4S7TI&ref=tw
+  url: https://www.swarmapp.com/roytang/checkin/524e440911d2c341b8288f09
 ---
 
 I'm at Mister Kabab (Pasig City, Metro Manila) http://4sq.com/17zhw2D
