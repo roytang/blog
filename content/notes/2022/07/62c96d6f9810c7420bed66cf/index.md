@@ -1,7 +1,7 @@
 ---
 checkin_id: 62c96d6f9810c7420bed66cf
 date: 2022-07-09 11:58:39
-locations: 5991a69846e1b67096631ce6
+location: 5991a69846e1b67096631ce6
 source: foursquare
 syndicated:
 - type: foursquare
