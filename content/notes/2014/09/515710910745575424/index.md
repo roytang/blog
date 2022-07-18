@@ -7,9 +7,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/515710910745575424/
 - type: foursquare
-  url: https://www.swarmapp.com/c/gLjGtANLsXF
-- type: foursquare
-  url: https://www.swarmapp.com/c/gLjGtANLsXF
+  url: https://www.swarmapp.com/roytang/checkin/542634d5498ecd22877e4861
 tags:
 - singapore2014
 ---

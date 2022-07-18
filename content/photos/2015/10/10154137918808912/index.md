@@ -1,5 +1,7 @@
 ---
-date: 2015-10-11 02:58:00+08:00
+checkin_id: 5618e466498ecd548e9b9e05
+date: 2015-10-10 18:58:00
+location: 4ba294bdf964a520460638e3
 source: facebook
 syndicated:
 - type: facebook
@@ -7,11 +9,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/652788622232522752/
 - type: foursquare
-  url: https://www.swarmapp.com/c/leNtll2raui
-- type: foursquare
-  url: https://www.swarmapp.com/c/leNtll2raui
-checkin_id: 5618e466498ecd548e9b9e05
-location: 4ba294bdf964a520460638e3
+  url: https://www.swarmapp.com/roytang/checkin/5618e466498ecd548e9b9e05
 tags:
 - mobile-uploads
 - touristmode

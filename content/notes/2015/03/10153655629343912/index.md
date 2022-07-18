@@ -7,10 +7,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/579966883388063744/
 - type: foursquare
-  url: https://www.swarmapp.com/c/lTk8PEL6JzL
+  url: https://www.swarmapp.com/roytang/checkin/550ff7de498e91c64b93602c
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153655629343912
-tags: 
+tags:
 - europe2015
 ---
 

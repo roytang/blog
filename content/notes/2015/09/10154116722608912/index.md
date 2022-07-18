@@ -1,5 +1,8 @@
 ---
-date: 2015-09-27 14:52:00+08:00
+checkin_id: 5607bca4498e585b4004aebf
+date: 2015-09-27 06:52:00
+dontinlinephotos: true
+location: 4bf8fde04a67c928183b26cf
 source: facebook
 syndicated:
 - type: facebook
@@ -7,7 +10,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/648073010252021760/
 - type: foursquare
-  url: https://www.swarmapp.com/c/btLWuuPYjJf
+  url: https://www.swarmapp.com/roytang/checkin/5607bca4498e585b4004aebf
 - type: instagram
   url: https://instagram.com/p/8IYsvYMoFs/
 - type: twitter
@@ -20,13 +23,10 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154117495518912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154117809808912
-tags: 
+tags:
 - egx
 - street-fighter-v
 - london2015
-checkin_id: 5607bca4498e585b4004aebf
-location: 4bf8fde04a67c928183b26cf
-dontinlinephotos: true
 ---
 
 Apparently it was a bad day to take a train to birmingham for egx as there's a rugby world cup match there today; the train is jam packed and i might be standing for 2hrs :/

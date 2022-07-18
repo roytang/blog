@@ -1,13 +1,13 @@
 ---
-date: 2015-12-03 23:21:00+08:00
 checkin_id: 56604b9e498e70c5e1cbd55f
+date: 2015-12-03 15:21:00
 location: 4cbea79719ceb1f7f2ba1ecd
 source: facebook
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/672415785348964354/
 - type: foursquare
-  url: https://www.swarmapp.com/c/0ZqnKFDRPzz
+  url: https://www.swarmapp.com/roytang/checkin/56604b9e498e70c5e1cbd55f
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154227343553912
 tags:

@@ -7,9 +7,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/596891853955432448/
 - type: foursquare
-  url: https://www.swarmapp.com/c/4picdEmJ9d3
-- type: foursquare
-  url: https://www.swarmapp.com/c/4picdEmJ9d3
+  url: https://www.swarmapp.com/roytang/checkin/554d8a7a498ee258f284b522
 ---
 
 I'm at Palm Beach Resort Laiya in Batangas https://www.swarmapp.com/c/4picdEmJ9d3
