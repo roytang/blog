@@ -49,7 +49,7 @@ The reason we took the sleeper bus was that it was the one trip that would take 
 
 #### Locations and Other Photos
 
-Trying some new stuff for this post: I made this thing so I can embed a map and list of locations (some with photos) for the trip. Seems like a good way to summarize trips; I'll probably iterate on this a bit moving forward (and maybe update some past trips too!). Since I didn't get to wander around much, I don't have a lot of pictures for this trip (I am not posting any photos of the wedding event itself since I don't like posting family pictures publicly.)
+Trying some new stuff for this post: I had recently started using Foursquare again to log my locations, so I made this thing so I can embed a map and list of locations (some with photos) for the trip. Seems like a good way to summarize trips; I'll probably iterate on this a bit moving forward (and maybe update some past trips too!). Since I didn't get to wander around much, I don't have a lot of pictures for this trip (I am not posting any photos of the wedding event itself since I don't like posting family pictures publicly.)
 
 {{% map tag="naga2022" %}}
 
