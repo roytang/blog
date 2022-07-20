@@ -1,11 +1,16 @@
 ---
-title: "GMTK Game Jam 2022: Failed"
-date: 2022-07-20T12:57:21+08:00
+date: 2022-07-20 04:57:21
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108678223565537693
+- type: twitter
+  url: https://twitter.com/roytang/status/1549640622859902976/
+syndication_attachments: false
 tags:
 - gamejam
 - gamedev
-dontinlinephotos: true
-syndication_attachments: false
+title: 'GMTK Game Jam 2022: Failed'
 ---
 
 I signed up for this year's GMTK Game Jam, a 48-hour game jam which was held last weekend. I joined [this game jam last year as well](/2021/06/gmtk-game-jam-2021-manananggal/). My entry there [finished in the top 800 overall](https://itch.io/jam/gmtk-2021/rate/1082887) (out of 5000+ entries), which I felt was pretty good for a solo dev with minimal gamedev experience. So I was hoping to be able to complete the same jam this year and maybe even rank a little higher?
