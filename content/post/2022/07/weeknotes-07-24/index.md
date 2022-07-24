@@ -1,9 +1,9 @@
 ---
-date: 2022-07-24T23:37:25+08:00
+date: 2022-07-24 15:37:25
 dontinlinephotos: true
 featuredResource:
-  photo: /2022/07/1551174220884742144/
   filename: 1551174220884742144_1_FYbguHkUIAA0tDG.png
+  photo: /2022/07/1551174220884742144/
 reviews:
 - date: 2022-07-21
   description: Excellent thriller.
@@ -16,7 +16,12 @@ reviews:
   hashtag: the-flash-season-8
   media: tv
   rating: 2.0
-  title: 'The Flash season 8'
+  title: The Flash season 8
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108703370854416740
+- type: twitter
+  url: https://twitter.com/roytang/status/1551250046552666112/
 tags:
 - weeknotes
 - movies
