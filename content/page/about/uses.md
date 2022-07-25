@@ -19,7 +19,7 @@ This is a [uses page](https://uses.tech/).
 | Desktop::CPU | Intel Core i5-4460 | 2015 |
 | Desktop::MB | ASUS H97ME | 2015 |
 | Desktop::RAM | 2x DDR3 Kingston HyperX Fury 8gb 1600 | 2015 |
-| Desktop::Video card | Gigabyte AMD Radeon RX570 Gaming 4GB Ddr5 | 2019 |
+| Desktop::Video card | Gigabyte AMD Radeon RX570 Gaming 4GB Ddr5 | [2019](/2019/11/new-video-card/) |
 | Desktop::SSD | Samsung 850Evo 250gb | 2015 |
 | Desktop::SSHD | Seagate Firecuda 2tb | 2019 |
 | Desktop::OS | Windows 10 | 2015 |
@@ -32,7 +32,7 @@ This is a [uses page](https://uses.tech/).
 | Printer | HP Deskjet 3635 | 2013 (?) |
 | Console | Playstation 4 | 2017 |
 | Console | Playstation 3 | 2013 |
-| Console | [Nintendo Switch](/2020/09/nintendo-switch/) | 2020 |
+| Console | Nintendo Switch | [2020](/2020/09/nintendo-switch/) |
 | Handheld | Playstation Vita | 2013 |
 | Handheld | New 3DSXL | 2015 |
 
