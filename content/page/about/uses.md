@@ -32,7 +32,7 @@ This is a [uses page](https://uses.tech/).
 | Printer | HP Deskjet 3635 | 2013 (?) |
 | Console | Playstation 4 | 2017 |
 | Console | Playstation 3 | 2013 |
-| Console | WiiU | 2014 |
+| Console | [Nintendo Switch](/2020/09/nintendo-switch/) | 2020 |
 | Handheld | Playstation Vita | 2013 |
 | Handheld | New 3DSXL | 2015 |
 
