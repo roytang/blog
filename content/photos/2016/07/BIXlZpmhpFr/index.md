@@ -1,8 +1,8 @@
 ---
 albums:
 - instagram
-date: 2016-07-27 22:36:45+08:00
-location: ''
+date: 2016-07-27 14:36:45
+location: 4c6c07711fb2a143fe44fae6
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BIXlZpmhpFr/

@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152369185478912
 tags:
 - Bigoli_Official
+- movies
 ---
 
 The Wolverine was :okay: (@ Ristorante Bigoli - @bigoli_official w/ 7 others) http://4sq.com/1bY9CCV
