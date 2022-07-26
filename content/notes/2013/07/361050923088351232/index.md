@@ -1,6 +1,11 @@
 ---
 date: 2013-07-27 09:10:22
 dontinlinephotos: true
+reviews:
+- description: ''
+  media: movies
+  rating: 0.0
+  title: The Wolverine (2013)
 source: twitter
 syndicated:
 - type: twitter
@@ -13,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152369185478912
 tags:
 - Bigoli_Official
+- movies
 ---
 
 The Wolverine was :okay: (@ Ristorante Bigoli - @bigoli_official w/ 7 others) http://4sq.com/1bY9CCV
