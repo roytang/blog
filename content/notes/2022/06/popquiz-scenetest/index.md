@@ -26,3 +26,5 @@ Rounds were:
 We were doing well, but we hit the failed ace in round 5. If we had gotten it we would have won the whole thing. Still managed to tie for 3rd and win the tiebreaker though!
 
 It was a fun session, we had some good pulls, and it was nice to have an in-person quiz night again.
+
+[Event Page](https://www.facebook.com/events/409989177699273)

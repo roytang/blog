@@ -70,7 +70,7 @@ tags:
 | **2012** |
 | **Oct** | Return to Ravnica | | |
 | **Jul** | Magic 2013 | | |
-| **May** | Avacyn Restored | | [Grand Prix Manila 2012](/2012/06/grand-prix-manila-2012/) (Standard) |
+| **May** | Avacyn Restored | [Prerelease](/2012/04/195992015773769730/) | [Grand Prix Manila 2012](/2012/06/grand-prix-manila-2012/) (Standard) |
 | **Feb** | Dark Ascension | | |
 | **2011** |
 | **Sep** | Innistrad | [Prerelease](/2011/09/117575273377038336/) | |

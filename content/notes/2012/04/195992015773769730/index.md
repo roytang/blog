@@ -23,4 +23,8 @@ People at the #MTGAVR prerelease kept talking about the helvault. The fools, tha
 
 People at the #MTGAVR prerelease kept high-fiving me when I played this girl: {{% img src="hICGS" %}} Not sure why
 
-Aaaaaand here's stuff from the helvault: https://i.imgur.com/removed.png Okay, I'm done tweeting about the #MTGAVR prerelease for now
+Aaaaaand here's stuff from the helvault: 
+
+{{% img src="28042012185" %}} 
+
+Okay, I'm done tweeting about the #MTGAVR prerelease for now
