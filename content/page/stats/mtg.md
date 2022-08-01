@@ -24,6 +24,22 @@ submenu: "stats"
 
 ** I wish I also had lifetime stats for Magic Online and Magic Arena, but I don't have any data sources for those
 
+### Grand Prix stats
+
+| Year | Location | Format |  | D1 W | D1 L | D1 D | D2 W | D2 L | D2 D |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 2019 | [Seattle](/2019/07/grand-prix-seattle/) | Limited | Modern Horizons | 1 | 3 |
+| 2017 | [Singapore](/2017/12/grand-prix-singapore-2017/) | Limited | Ixalan | 4 | 5 |
+| 2017 | [Manila](/2017/06/grand-prix-manila-2017/) | Standard | Temur Marvel | 1 | 4 |
+| 2015 | [London](/2015/08/grand-prix-london-2015/) | Standard | Jeskai Tempo | 3 | 3 |
+| 2015 | [Singapore](http://localhost:8000/2015/06/gp-singapore-2015/) | Modern | Grixis Twin | 6 | 2 | 1 |
+| 2015 | [Manila](/2015/02/grand-prix-manila-2015/) | Standard | Jeskai Ascendancy | 8 | 1 | | 3 | 3 |
+| 2012 | [Manila](/2012/06/grand-prix-manila-2012/) | Standard | Homebrew Naya Pod | 7 | 2 | | 4 | 2 |
+| 2011 | [Singapore](/2011/06/grand-prix-singapore-tournament-report/) | Standard | Caw Blade | 4 | 2 | 1 |
+| 2009 | [Bangkok](/2009/08/3506936168/) | Limited | Magic 2010 | 0 | 6 |
+| 2008 | [Manila](/2008/09/grand-prix-manila-day-one-report/) | Standard | Five Color Control | 1 | 3 | 1 |
+| 2006 | [Manila](/2006/03/grand-prix-manila/) | Limited | Guildpact | 5 | 3 |
+
 ### Arena Limited stats
 
 In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collating my Arena limited stats for that format. I think I'll keep doing it moving forward. I've also been back-tracking through the sets where I streamed my limited games so I can compile stats for them as well.

@@ -54,8 +54,8 @@ tags:
 | **Jan** | Oath of the Gatewatch | [Prerelease](/2016/01/688663713134424064/) | |
 | **2015** |
 | **Oct** | Battle for Zendikar | [Prerelease](/2015/09/8Fq4xxsoLK/) | |
-| **Jul** | Magic Origins | [Prerelease](/2015/07/10153935708933912-1/) | |
-| **Mar** | Dragons of Tarkir | [Prerelease](/2015/03/579238284511039488/) | |
+| **Jul** | Magic Origins | [Prerelease](/2015/07/10153935708933912-1/) | [Grand Prix London](/2015/08/grand-prix-london-2015/) |
+| **Mar** | Dragons of Tarkir | [Prerelease](/2015/03/579238284511039488/) | [Grand Prix Singapore 2015](/2015/06/gp-singapore-2015/) |
 | **Jan** | Fate Reforged | [Prerelease](/2015/01/556281508978102273/) | [Grand Prix Manila 2015](/2015/02/grand-prix-manila-2015/) (Standard - Jeskai Ascendancy) |
 | **2014** |
 | **Sep** | Khans of Tarkir | [Prerelease](/2014/09/513185527625822208/) | |
@@ -84,11 +84,11 @@ tags:
 | **Feb** | Worldwake | [Prerelease](/2010/01/8412293186/) | |
 | **2009** |
 | **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) | |
-| **Jul** | Magic 2010 | [Release](/2009/07/2704722593/) | |
+| **Jul** | Magic 2010 | [Release](/2009/07/2704722593/) [Grand Prix Bangkok](/2009/08/3506936168/) | |
 | **Apr** | Alara Reborn | [Prerelease](/2009/05/alara-reborn-prerelease-for-real-this-time/) [Release](/2009/05/alara-reborn-release/) | [Regionals](/2009/05/regionals-2009-finest-hour-top-8/) (Standard - Finest Hour) |
 | **Feb** | Conflux | [Prerelease](/2009/02/conflux-prerelease/) [Release](/2009/02/conflux-release-event/) | |
 | **2008** |
-| **Sep** | Shards of Alara | [Prerelease](/2008/10/shards-of-alara-prerelease/) [GPT Taipei I](/2008/10/gpt-taipei-i-top8/) [II](/2008/10/gpt-taipei-ii/) | |
+| **Sep** | Shards of Alara | [Prerelease](/2008/10/shards-of-alara-prerelease/) [GPT Taipei I](/2008/10/gpt-taipei-i-top8/) [II](/2008/10/gpt-taipei-ii/) [Grand Prix Manila 2008](/2008/09/grand-prix-manila-day-one-report/) | |
 | **Jul** | Eventide | [Prerelease](/2008/07/eventide-prerelease/) | |
 | **May** | Shadowmoor | [Prerelease](/2008/04/shadowmoor-prerelease/) [Sneak Peek](/2008/04/shadowmoor-sneak-peek/) | |
 | **Feb** | Morningtide | | |
