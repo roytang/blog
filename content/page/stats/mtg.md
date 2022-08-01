@@ -40,6 +40,24 @@ submenu: "stats"
 | 2008 | [Manila](/2008/09/grand-prix-manila-day-one-report/) | Standard | Five Color Control | 1 | 3 | 1 |
 | 2006 | [Manila](/2006/03/grand-prix-manila/) | Limited | Guildpact | 5 | 3 |
 
+### Arena Open stats
+
+| Year | Month | Format |  | D1 W | D1 L | D1 D | D2 W | D2 L | D2 D |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 2022 | 07 | Sealed | Alchemy Horizons: Baldur's Gate | 0 | 3 |
+| 2022 | 05 | Sealed | Streets of New Capenna | 5 | 3 |
+| 2022 | 05 | Sealed | Streets of New Capenna | 6 | 3 |
+| 2022 | 04 | Historic | UR Aggro | 6 | 3 |
+| 2022 | 04 | Historic | UR Aggro | 5 | 3 |
+| 2022 | 04 | Historic BO3 | BG Food | 0 | 1 |
+| 2022 | 02 | Sealed | Kamigawa Neon Dynasty | 1 | 3 |
+| 2021 | 12 | Draft | Innistrad: Crimson Vow | 4 | 3 |
+| 2021 | 12 | Draft | Innistrad: Crimson Vow | 2 | 3 |
+| 2021 | 09 | Historic BO3 | Jeskai Control | 1 | 1 |
+| 2021 | 09 | Historic BO3 | Jeskai Control | 0 | 1 |
+| 2021 | 05 | Sealed | Strixhaven | 5 | 3 |
+| 2021 | 02 | Sealed | Kaldheim | 4 | 3 |
+
 ### Arena Limited stats
 
 In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collating my Arena limited stats for that format. I think I'll keep doing it moving forward. I've also been back-tracking through the sets where I streamed my limited games so I can compile stats for them as well.
