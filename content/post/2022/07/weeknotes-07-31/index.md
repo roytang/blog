@@ -1,5 +1,5 @@
 ---
-date: 2022-08-01T13:26:40+08:00
+date: 2022-08-01 05:26:40
 dontinlinephotos: true
 reviews:
 - description: ''
@@ -14,6 +14,11 @@ reviews:
   rating: 3.0
   title: Sonic the Hedgehog 2
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108746701449152676
+- type: twitter
+  url: https://twitter.com/roytang/status/1554023204737654784/
 tags:
 - weeknotes
 - movies
