@@ -132,4 +132,7 @@ Going 3-3 on Day Two means I finished the GP at 11-4, which was the same record 
 
 Not a bad performance at all, and it was a great weekend altogether: got to see some old friends again and it feels to do well at a high-level event. What next; should I go to GP Singapore this year too?
 
- 
+<time>[2022-08-01]</time> Found [a friend's old Plurk post](https://www.plurk.com/p/knqe2o) where I appeared in the header image for the event's page:
+
+{{< img src="gpmanilaplurk.jpg" alt="I'm in the black shirt" >}}
+{{< img src="gpmanilaplurk2.jpg" alt="I'm in the black shirt" >}}

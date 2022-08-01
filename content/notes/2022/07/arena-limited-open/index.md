@@ -1,5 +1,5 @@
 ---
-title: "Arena Draft Open"
+title: "Arena Limited Open"
 date: 2022-07-31T23:59:00+08:00
 tags:
 - mtg
