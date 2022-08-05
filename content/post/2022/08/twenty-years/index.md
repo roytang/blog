@@ -1,8 +1,13 @@
 ---
-title: "Twenty Years of Blogging (More or Less)"
-date: 2022-08-03T00:00:00+08:00
+date: 2022-08-02 16:00:00
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108754476167961421
+- type: twitter
+  url: https://twitter.com/roytang/status/1554520786936901634/
 tags:
 - blogging
+title: Twenty Years of Blogging (More or Less)
 ---
 
 As of this year, I have been blogging for twenty years! This post is going to be full of links isn't it? I also decided against putting any images in here because blogging is a primarily text format damnit!
@@ -53,4 +58,4 @@ My own writing has been going steady over the pandemic years. I've started the w
 
 As for the site, I have honestly been wanting to do a bit of a redesign on the blog, and was hoping I could do it before doing this 20-year anniversary post (yet another excuse for the delay!), maybe that's something I'll get done before the year ends. There's a lot of other things I want to do in terms of organizing the content on the site, things I write about, and so on and so forth. I like to think of this site as like the web itself: perpetually changing, growing and evolving.
 
-I hope to be blogging for another 20 years to come if not more! 
+I hope to be blogging for another 20 years to come if not more!

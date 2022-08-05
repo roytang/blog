@@ -1,0 +1,35 @@
+{
+  "id": "0d35c006-d2c5-4e8f-96ae-5f75ef20313c",
+  "name": "Dominik Schwind",
+  "url": "https://lostfocus.de",
+  "text": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2022/08/twenty-years/\">https://roytang.net/2022/08/twenty-years/</a>.</p>",
+  "date": "2022-08-02 20:33:26",
+  "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+  "source_url": "https://lostfocus.de/2022/08/02/230733/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "url": "https://lostfocus.de"
+    },
+    "url": "https://lostfocus.de/2022/08/02/230733/",
+    "published": "2022-08-02T20:33:26+02:00",
+    "wm-received": "2022-08-02T18:33:38Z",
+    "wm-id": 1448510,
+    "wm-source": "https://lostfocus.de/2022/08/02/230733/",
+    "wm-target": "https://roytang.net/2022/08/twenty-years/",
+    "content": {
+      "html": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2022/08/twenty-years/\">https://roytang.net/2022/08/twenty-years/</a>.</p>",
+      "text": "Likes https://roytang.net/2022/08/twenty-years/."
+    },
+    "like-of": "https://roytang.net/2022/08/twenty-years/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lostfocus.de/2022/08/02/230733/"
+    }
+  }
+}
