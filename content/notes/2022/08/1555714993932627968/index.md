@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1555714993932627968/
 - type: twitter
   url: https://twitter.com/roytang/status/1555715533903134720/
+- type: twitter
+  url: https://twitter.com/roytang/status/1555946857855352837/
 tags:
 - MagicArena
 ---
@@ -16,3 +18,5 @@ Managed to spike this weekend's #MagicArena Historic Metagame Challenge on the f
 {{< photos 1555714993932627968 >}}
 
 <time id="1555715533903134720">[08:41]</time> I think I fought 1 UW control, 1 Rakdos midrange and 5 aggro decks
+
+<time id="1555946857855352837">[2022-08-07 00:00] </time> For reference, here's a guide I followed for this deck: https://mtgazone.com/historic-1-mythic-rakdos-black-market-creativity-deck-guide/
