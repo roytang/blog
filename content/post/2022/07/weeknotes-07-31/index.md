@@ -2,11 +2,6 @@
 date: 2022-08-01 05:26:40
 dontinlinephotos: true
 reviews:
-- description: ''
-  hashtag: the-orville-season-3
-  media: tv
-  rating: 4.0
-  title: The Orville Season 3
 - date: 2022-07-31
   description: ''
   hashtag: sonic-the-hedgehog-2-2022
@@ -63,10 +58,6 @@ Visit the [Links page](/links/) for more links of interest.
 - We [played in a quiz night last Thursday and won](/2022/07/popquiz-6seasons/)!
 
 ### Media Diet
-
-- #### The Orville season 3
-
-    - The Orville continues to be a pretty good Star Trek show despite not being Star Trek. This season focuses less on humor and tackles more serious challenges and expands the interstellar political situation of their universe. It's actually nice that we are essentially getting a second and new Star Trek-like universe without all the baggage of the first. And despite the episodic nature of the show, they manage to weave the ongoing plots into a relevant finale.
 
 - #### Sonic the Hedgehog 2 (2022)
 
