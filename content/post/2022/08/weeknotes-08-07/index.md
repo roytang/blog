@@ -1,5 +1,5 @@
 ---
-date: 2022-08-07T23:37:02+08:00
+date: 2022-08-07 15:37:02
 dontinlinephotos: true
 reviews:
 - description: ''
@@ -19,6 +19,11 @@ reviews:
   rating: 4.5
   title: Nice Guys
   year: 2016
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108782391760853623
+- type: twitter
+  url: https://twitter.com/roytang/status/1556307384502743040/
 tags:
 - weeknotes
 - movies
