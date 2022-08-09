@@ -1,8 +1,13 @@
 ---
-title: "Forty Four"
-date: 2022-08-09T22:22:23+08:00
+date: 2022-08-09 14:22:23
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108793396982990689
+- type: twitter
+  url: https://twitter.com/roytang/status/1557011718588760065/
 tags:
 - birthday
+title: Forty Four
 ---
 
 Once again I was unsure what to write about for this year's post, so I took the opportunity to once again crawl back through [the archive of birthday posts](/tags/birthday/). It's one of the big benefits of [twenty years of blogging](/2022/08/twenty-years/), it's easy to take a dive back into the past for insights. I missed a few years here and there (especially during the lean blogging years), but have been quite consistent recently. Notably, I've managed to keep a streak of these posts going since [number 36 way back in 2014](/2014/08/thirty-six/).
@@ -23,5 +28,4 @@ Being able to look back in time through this blog helps untangle that a soup of 
 
 All different people, scattered through the river of time. All of them me. For what are we if not an accumulation of all our past selves?
 
-Today I feel older and wiser and a bit weary of the world and just wanting to relax and not worry about things. But I still remember being all those younger versions: brash, optimistic, ambitious, hopeful, idealistic. I hope that future me's never give in to cynicism and never lose sight of those younger versions of me and that they continue to inform my path, moving forward, to whatever the future holds. 
-
+Today I feel older and wiser and a bit weary of the world and just wanting to relax and not worry about things. But I still remember being all those younger versions: brash, optimistic, ambitious, hopeful, idealistic. I hope that future me's never give in to cynicism and never lose sight of those younger versions of me and that they continue to inform my path, moving forward, to whatever the future holds.
