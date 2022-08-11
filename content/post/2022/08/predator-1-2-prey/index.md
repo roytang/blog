@@ -1,34 +1,39 @@
 ---
-title: "Movies: Predator (1987), Predator 2 (1990), Prey (2022)"
-date: 2022-08-11T20:46:29+08:00
-tags:
-- movies
+date: 2022-08-11 12:46:29
 reviews:
-- description: 'Action classic.'
+- description: Action classic.
   hashtag: predator-1987
   media: movies
   rating: 4.0
   title: Predator
   year: 1987
-- description: 'Okay action film, but I prefer my predators in the jungle.'
+- description: Okay action film, but I prefer my predators in the jungle.
   hashtag: predator-2-1990
   media: movies
   rating: 3.0
   title: Predator 2
   year: 1980
-- description: 'An excellent predator film.'
+- description: An excellent predator film.
   hashtag: prey-2022
   media: movies
   rating: 4.5
   title: Prey
   year: 2022
-- description: 'Forgettable.'
+- date: 2010-07-10
+  description: Forgettable.
   hashtag: predators-2010
   media: movies
   rating: 2.5
   title: Predators
   year: 2010
-  date: 2010-07-10
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108804573246033901
+- type: twitter
+  url: https://twitter.com/roytang/status/1557727011057340420/
+tags:
+- movies
+title: 'Movies: Predator (1987), Predator 2 (1990), Prey (2022)'
 ---
 
 This week I decided to be unproductive and just watch a bunch of movies. To avoid flooding the [weeknotes](/tags/weeknotes/), I'm writing the reviews as separate posts again!
@@ -50,4 +55,3 @@ This one was so good. Of course it owes a lot to the first film which set the to
 While reading about the Predator series, I realized these weren't the first Predator films I've seen. I remembered I had seen the 2010 film Predators in the cinema (it's the one with Adrien Brody and Topher Grace and a bunch of other guys). I guess I didn't think a lot of it, because I have no online record of having watched it and barely remember it. I was able to trace that I watched it on July 10th 2010 with some friends though, so I can add a backdated review entry here and it should show up on [the index](/lists/media/movies/) at that date.
 
 Anyway, now that I think about it, it feels like it would be really hard going through life where all you can see is the infrared spectrum. I suppose all their tech is centered around that limitation though.
-
