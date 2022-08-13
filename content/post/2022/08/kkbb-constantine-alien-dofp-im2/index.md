@@ -1,8 +1,5 @@
 ---
-title: "Movies: Kiss Kiss Bang Bang, Constantine, Alien, Days of Future Past Rogue Cut, Iron Man 2"
-date: 2022-08-13T19:05:56+08:00
-tags:
-- movies
+date: 2022-08-13 11:05:56
 reviews:
 - description: Black comedy murder mystery + romcom
   hashtag: kiss-kiss-bang-bang-2005
@@ -26,14 +23,23 @@ reviews:
   hashtag: x-men-days-of-future-past-rogue-cut-2014
   media: movies
   rating: 3.5
-  title: "X-Men: Days of Future Past Rogue Cut"
+  title: 'X-Men: Days of Future Past Rogue Cut'
   year: 2014
 - description: Better appreciated on rewatch.
   hashtag: iron-man-2-2010
   media: movies
   rating: 3.5
-  title: "Iron Man 2"
+  title: Iron Man 2
   year: 2010
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108815397766689137
+- type: twitter
+  url: https://twitter.com/roytang/status/1558419769241776128/
+tags:
+- movies
+title: 'Movies: Kiss Kiss Bang Bang, Constantine, Alien, Days of Future Past Rogue
+  Cut, Iron Man 2'
 ---
 
 Here's the second set of reviews for movies I watched this week. [Previously](/2022/08/predator-1-2-prey/).
