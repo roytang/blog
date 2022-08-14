@@ -1,6 +1,11 @@
 ---
-date: 2022-08-14 19:37:02+08:00
+date: 2022-08-14 11:37:02
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108821652028951445
+- type: twitter
+  url: https://twitter.com/roytang/status/1558820041767866373/
 tags:
 - weeknotes
 - philippines
