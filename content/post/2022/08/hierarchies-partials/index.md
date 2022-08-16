@@ -1,10 +1,15 @@
 ---
-title: "Content Hierarchies and Partials in SSGs and this site"
-date: 2022-08-16T23:12:33+08:00
+date: 2022-08-16 15:12:33
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108833384619013588
+- type: twitter
+  url: https://twitter.com/roytang/status/1559570927691902976/
 tags:
 - meta
 - blogging
 - tech-life
+title: Content Hierarchies and Partials in SSGs and this site
 ---
 
 Via [Kev Quirk](https://kevq.uk/static-site-generators-are-easy-to-useright/): this [great article by Florens Verschelde about SSGs](https://fvsch.com/static-site-generators) 
@@ -104,4 +109,3 @@ The current site is no longer running on an SSG; [I migrated to a Django-based b
 Despite having foundations in an SSG, in theory I could surpass the above limitations now by rewriting a lot of my backend to support those use cases. Reading the above article is making me consider that.
 
 Adding support for partials (and probably rewriting to support comments as described above). It would introduce some downsides: mainly a more complicated hierarchy and writing composite posts would be more difficult. And I would need to go back in time and update relevant posts, etc. It might allow me to introduce a simpler data model (since comments and reviews can now be post types?). It would be a non-trivial effort, but something to consider. (This isn't really a problem as I enjoy working on the backend code and honestly the code could use a good once-over...)
-
