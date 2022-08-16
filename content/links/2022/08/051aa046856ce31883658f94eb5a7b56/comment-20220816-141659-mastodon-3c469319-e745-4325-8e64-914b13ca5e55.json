@@ -1,0 +1,10 @@
+{
+  "id": "3c469319-e745-4325-8e64-914b13ca5e55",
+  "name": "wouter",
+  "url": "https://chat.brainbaking.com/users/wouter",
+  "text": "<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://mastodon.technology/@roytang\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roytang</span></a></span> I recognize Hugo's lack of decent documentation, but I disagree with \"content management problems\" for SSGs. It's as simple or as complex as you want, really. There's no difference between keeping track of .md files and manually curated nineties .html files. The article completely sidesteps the added (1) complexity and (2) maintainability costs of a DB for dynamic generators. <br>The limited capabilities of MD is a blessing: you focus on writing, not on positioning an image relative to another one and having it appear after two seconds.",
+  "date": "2022-08-16 14:16:59",
+  "photo": "https://cdn.mastodon.technology/cache/accounts/avatars/000/386/733/original/d0219a4710441692.jpg",
+  "source_url": "https://chat.brainbaking.com/objects/3a41b8d7-bf5d-40c2-b1bc-29a14075f2d3",
+  "source": "mastodon"
+}
