@@ -1,0 +1,35 @@
+{
+  "id": "aaa766b1-3df5-48e0-bca7-426548ed280a",
+  "name": "Wouter Groeneveld",
+  "url": "https://brainbaking.com/",
+  "text": "<blockquote>\n<p>Hugo only generates the root my-post/index.html from posts/my-post/index.md. (I had to run Hugo first to test this.)</p>\n</blockquote>\n<p>No it doesn\u2019t. That\u2019s completely up to the theme and usage of your <code>_index.md</code> files.</p>\n<p>For example, I organize my Brain Baking content like so: <code>content/post/2022/07/whatevah-title.md</code>. Works flawlessly. Notes like these reside in <code>content/notes/2022/08/timestamp.md</code>. On Jefklak\u2019s Codex, it\u2019s the folders <code>content/games/switch/some-game.md</code> or <code>content/articles/long-article-stuff.md</code>.</p>\n<p>I maintain the same structure in my <code>static/</code> folder, making including media super-easy: <code>![](done.jpg)</code>. Just make sure to convert it to an absolute path in your RSS\u2014that\u2019s what <code>render-image.html</code> is for.</p>\n<p>If you <em>really</em> want to know, you can dig <a href=\"https://git.brainbaking.com/explore/repos\">in the source of my Hugo themes</a>. Again, this might be the fault of the sloppy docs and the arguably high learning curve.</p>",
+  "date": "2022-08-16 19:23:00",
+  "photo": "https://webmention.io/avatar/brainbaking.com/4966f3a2a3d4594117a1a709c48bc3d9dc079f6fe32ae92e91acecde0127a5ec.jpg",
+  "source_url": "https://brainbaking.com/notes/2022/08/16h19m23s20/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/brainbaking.com/4966f3a2a3d4594117a1a709c48bc3d9dc079f6fe32ae92e91acecde0127a5ec.jpg",
+      "url": ""
+    },
+    "url": "https://brainbaking.com/",
+    "published": "2022-08-16T19:23:00",
+    "wm-received": "2022-08-16T18:00:24Z",
+    "wm-id": 1460714,
+    "wm-source": "https://brainbaking.com/notes/2022/08/16h19m23s20/",
+    "wm-target": "https://roytang.net/2022/08/hierarchies-partials/",
+    "content": {
+      "html": "<blockquote>\n<p>Hugo only generates the root my-post/index.html from posts/my-post/index.md. (I had to run Hugo first to test this.)</p>\n</blockquote>\n<p>No it doesn\u2019t. That\u2019s completely up to the theme and usage of your <code>_index.md</code> files.</p>\n<p>For example, I organize my Brain Baking content like so: <code>content/post/2022/07/whatevah-title.md</code>. Works flawlessly. Notes like these reside in <code>content/notes/2022/08/timestamp.md</code>. On Jefklak\u2019s Codex, it\u2019s the folders <code>content/games/switch/some-game.md</code> or <code>content/articles/long-article-stuff.md</code>.</p>\n<p>I maintain the same structure in my <code>static/</code> folder, making including media super-easy: <code>![](done.jpg)</code>. Just make sure to convert it to an absolute path in your RSS\u2014that\u2019s what <code>render-image.html</code> is for.</p>\n<p>If you <em>really</em> want to know, you can dig <a href=\"https://git.brainbaking.com/explore/repos\">in the source of my Hugo themes</a>. Again, this might be the fault of the sloppy docs and the arguably high learning curve.</p>",
+      "text": "Hugo only generates the root my-post/index.html from posts/my-post/index.md. (I had to run Hugo first to test this.)\n\nNo it doesn\u2019t. That\u2019s completely up to the theme and usage of your _index.md files.\nFor example, I organize my Brain Baking content like so: content/post/2022/07/whatevah-title.md. Works flawlessly. Notes like these reside in content/notes/2022/08/timestamp.md. On Jefklak\u2019s Codex, it\u2019s the folders content/games/switch/some-game.md or content/articles/long-article-stuff.md.\nI maintain the same structure in my static/ folder, making including media super-easy: ![](done.jpg). Just make sure to convert it to an absolute path in your RSS\u2014that\u2019s what render-image.html is for.\nIf you really want to know, you can dig in the source of my Hugo themes. Again, this might be the fault of the sloppy docs and the arguably high learning curve."
+    },
+    "in-reply-to": "https://roytang.net/2022/08/hierarchies-partials/",
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://brainbaking.com/notes/2022/08/16h19m23s20/"
+    }
+  }
+}
