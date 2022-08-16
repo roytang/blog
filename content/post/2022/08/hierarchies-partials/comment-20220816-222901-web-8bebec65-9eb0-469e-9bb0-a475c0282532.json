@@ -1,0 +1,11 @@
+{
+  "id": "8bebec65-9eb0-469e-9bb0-a475c0282532",
+  "name": "Roy Tang",
+  "url": "https://roytang.net",
+  "text": "A path like `content/post/2022/07/whatevah-title.md` doesn't work if you want to bundle your resources together with your content using the page bundles feature (https://gohugo.io/content-management/page-bundles/). In your example, markdown files and associated images would have to live separately, which is exactly what I don't want - I want them to be together in a hierarchy so that I can easily see the markdown file and the associated files/resources together in the file structure. \r\n\r\nI actually did initially try having all my attachments in the static folder before, with the path mirroring the content, but because of the sheer number of posts and images, it was very unwieldy to be jumping between two sets of folders when trying to look at the attachments for a specific post. Plus, associating the attachments with the markdown files had the added benefit of being able to generate pages like \"all images attached to posts with a specific tag\". (Example: https://mirror.roytang.net/albums/sketchbook/) or being able to have a shortcode to generate a scriptless lightbox (https://roytang.net/2020/07/hugo-lightbox/)\r\n\r\nI guess I should have been clear that I want files and associated resources to live together; I neglected to mention it in the post and the examples, since I'm so used to using page bundles. I'll update the post accordingly. \r\n",
+  "date": "2022-08-16 22:29:01",
+  "photo": null,
+  "source_url": null,
+  "source": "web",
+  "reply_to": "https://brainbaking.com/notes/2022/08/16h19m23s20/"
+}
