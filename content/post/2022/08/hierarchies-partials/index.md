@@ -28,6 +28,8 @@ posts
 └─ my-post
    ├─ index.md
    ├─ other.md
+   ├─ resource1.png
+   ├─ resource2.png
    └─ otherchildren
       ├─ child1.md
       ├─ child2.md
@@ -36,6 +38,9 @@ posts
 ```
 
 I would have expected to be able to convert all of these markdown files into HTML that I could link to from the root index page. Instead, Hugo only generates the root `my-post/index.html` from `posts/my-post/index.md`. (I had to run Hugo first to test this.)
+
+*Note: I use [Hugo's page bundles feature](https://gohugo.io/content-management/page-bundles/) to group the markdown files and associated resources (images, etc) together, which means the root file for each post must be `index.md`. I initially tried having all my attachments in the static folder, with the path mirroring the content, but because of the sheer number of posts/size of the repository, it was very unwieldy to be jumping between two sets of folders when trying to look at the attachments for a specific post.*
+
 
 I can understand the frustration with not being able to handle this sort of scenario, as there are some use cases that hierarchical organization of the markdown files can address quite well. 
 
@@ -49,6 +54,8 @@ What I would have preferred was a structure like this (similar to above):
 posts
 └─ my-post
    ├─ index.md
+   ├─ resource1.png
+   ├─ resource2.png
    ├─ comment1.md
    ├─ comment2.md
    └─ comment3
@@ -63,6 +70,8 @@ Or even:
 posts
 └─ my-post
    ├─ index.md
+   ├─ resource1.png
+   ├─ resource2.png
    └─ comments
       ├─ comment1.md
       ├─ comment2.md
@@ -86,6 +95,8 @@ Ideally, I would be able to arrange my content hierarchically, like this for exa
 posts
 └─ weeknotes-08-07-2022
    ├─ index.md
+   ├─ resource1.png
+   ├─ resource2.png
    └─ reviews
       ├─ movie1.md
       ├─ book1.md
