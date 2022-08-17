@@ -1,0 +1,11 @@
+{
+  "id": "d237d944-a6e9-480b-8736-153c451b65b9",
+  "name": "Roy Tang",
+  "url": "https://roytang.net",
+  "text": "Yeap, having your images in the content works natively, but unless you package them as a Page Bundle (i.e. your markdown file is named `index.md` and is in the same folder as the other files), you don't have access to them via the `.Resources` attribute of the page object in the theme. And as the documentation itself notes, Page Bundles for normal pages (i.e. leaf bundles) don't support nested bundles, which creates the limitation in supporting content hierarchies as described in the post.\r\n\r\nI'm happy that it works for you and there are lots of cases where SSGs are fine! It's just an idiosyncrasy of how I wanted to set up mine before that I ran into these limitations. The great thing about being a dev is that we can always dig into the source and hack away at any such problems we find :D",
+  "date": "2022-08-17 09:38:05",
+  "photo": null,
+  "source_url": null,
+  "source": "web",
+  "reply_to": "https://brainbaking.com/notes/2022/08/17h08m53s44/"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "e98f0676-7f40-4414-84db-938507aa5a3b",
+  "name": "Wouter Groeneveld",
+  "url": "https://brainbaking.com/",
+  "text": "<p>Gotcha, I wasn\u2019t aware that resources were the problem. There\u2019s a long discussion <a href=\"https://discourse.gohugo.io/t/keep-images-content-together/51/83\">on the discourse page of Hugo</a> regarding this, but the gist is: that also works! \ud83d\ude05</p>\n<p>I just tried that with my site. If I simply move every resource from <code>/static</code> to the corresponding folder, e.g. <code>/content/post/2022/07/image.jpg</code>, then it works without any change. Keep in mind that I include my images using the path <code>../image.jpg</code> if you want your content file to be in the <code>07</code> folder as well. That\u2019s not needed if you create a separate dir for reach post, <em>and</em> can be circumvented by hacking <code>render-image.html</code>.</p>\n<p>Anyway. I agree that the whole SSG system <em>can</em> be needlessly complex (and confusing). To me, a Django or Wordpress setup doesn\u2019t alleviate that.</p>",
+  "date": "2022-08-17 08:53:00",
+  "photo": "https://webmention.io/avatar/brainbaking.com/4966f3a2a3d4594117a1a709c48bc3d9dc079f6fe32ae92e91acecde0127a5ec.jpg",
+  "source_url": "https://brainbaking.com/notes/2022/08/17h08m53s44/",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/brainbaking.com/4966f3a2a3d4594117a1a709c48bc3d9dc079f6fe32ae92e91acecde0127a5ec.jpg",
+      "url": ""
+    },
+    "url": "https://brainbaking.com/",
+    "published": "2022-08-17T08:53:00",
+    "wm-received": "2022-08-17T07:00:24Z",
+    "wm-id": 1461164,
+    "wm-source": "https://brainbaking.com/notes/2022/08/17h08m53s44/",
+    "wm-target": "https://roytang.net/comments/8bebec65-9eb0-469e-9bb0-a475c0282532/",
+    "content": {
+      "html": "<p>Gotcha, I wasn\u2019t aware that resources were the problem. There\u2019s a long discussion <a href=\"https://discourse.gohugo.io/t/keep-images-content-together/51/83\">on the discourse page of Hugo</a> regarding this, but the gist is: that also works! \ud83d\ude05</p>\n<p>I just tried that with my site. If I simply move every resource from <code>/static</code> to the corresponding folder, e.g. <code>/content/post/2022/07/image.jpg</code>, then it works without any change. Keep in mind that I include my images using the path <code>../image.jpg</code> if you want your content file to be in the <code>07</code> folder as well. That\u2019s not needed if you create a separate dir for reach post, <em>and</em> can be circumvented by hacking <code>render-image.html</code>.</p>\n<p>Anyway. I agree that the whole SSG system <em>can</em> be needlessly complex (and confusing). To me, a Django or Wordpress setup doesn\u2019t alleviate that.</p>",
+      "text": "Gotcha, I wasn\u2019t aware that resources were the problem. There\u2019s a long discussion on the discourse page of Hugo regarding this, but the gist is: that also works! \ud83d\ude05\nI just tried that with my site. If I simply move every resource from /static to the corresponding folder, e.g. /content/post/2022/07/image.jpg, then it works without any change. Keep in mind that I include my images using the path ../image.jpg if you want your content file to be in the 07 folder as well. That\u2019s not needed if you create a separate dir for reach post, and can be circumvented by hacking render-image.html.\nAnyway. I agree that the whole SSG system can be needlessly complex (and confusing). To me, a Django or Wordpress setup doesn\u2019t alleviate that."
+    },
+    "in-reply-to": "https://roytang.net/comments/8bebec65-9eb0-469e-9bb0-a475c0282532/",
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://brainbaking.com/notes/2022/08/17h08m53s44/"
+    }
+  },
+  "reply_to": null
+}
