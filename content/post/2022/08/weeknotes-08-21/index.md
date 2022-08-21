@@ -24,6 +24,7 @@ Thirty-nine years ago Ninoy Aquino was assassinated on an airport tarmac. He fam
 ### The World
 
 - PH/Covid: Hey, our cases have started declining, with most of the days this week under 4k! It's good news, and hopefully the downtrend continues.
+- I guess other things happened elsewhere in the world also? IDK, not really paying attention I guess.
 
 ### Some Links of Interest
 
@@ -53,6 +54,8 @@ Also, [here's a cute 30-year-old progressive story from Twitter](https://twitter
 - On the blog: I wrote about [some SSG limitations that frustrated me back in the day](/2022/08/hierarchies-partials/).
   
 - Took my mom to the dentist this week. I used to go to the same dentist, but I haven't been back since the pandemic. Not sure if she recognized me though. Not yet sure if I'll go back to their clinic myself; to get to their clinic you have to climb up an narrow, uneven, and steep spiral of stairs which I always find annoying. A few new dental clinics have sprouted up nearer to our house (they are all in walking distance), but going to a new dentist is always a gamble.
+
+- Had a busy Sunday, as all three of my brothers and their families decided to visit today, a rare feat that my parents surely enjoyed.
 
 - This weekend I also attended Sunday Mass in-person for the first time since the pandemic. It was an Anticipated Mass, which means less people, so less Covid anxiety for me. The officiating priest had a bit of an enunciation problem during his homily though, making him a bit hard to understand. The ones who do the online masses we usually watch are very good and always easy to understand.
 
