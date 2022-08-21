@@ -1,11 +1,16 @@
 ---
-date: 2022-08-21 23:17:15+08:00
+date: 2022-08-21 15:17:15
 dontinlinephotos: true
 reviews:
 - hashtag: death-in-the-clouds-by-agatha-christie
   media: books
   rating: 3.5
   title: Death in the Cloud by Agatha Christie
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108862128356824540
+- type: twitter
+  url: https://twitter.com/roytang/status/1561410539255132160/
 tags:
 - weeknotes
 - philippines
