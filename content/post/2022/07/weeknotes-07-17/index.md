@@ -72,6 +72,8 @@ As a bonus, here's some Twitter content I've enjoyed recently:
 
     - Possibly the best of the current generation of Trek shows, mainly because it goes back to the episodic and optimistic nature of the original series. Revisits and reimagines and expounds on past Star Trek lore; looking forward to season 2.
 
+    {{% photos strangenewworlds %}}
+
 ### This coming week:
 
 - I believe Comic-con is this coming week, so I'm looking forward to new content for the comic fandom, especially new trailers for upcoming movies!
