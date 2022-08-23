@@ -23,17 +23,17 @@ resources:
 
 ### Previously
 
-[About a month ago](/2022/07/weeknotes-07-24/), I had the insane idea to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. This is less insane than it sounds because the Marvel Unlimited service now exists, making it easier to access the really old ones, though it's still not complete. It's kind of mind-boggling because there are an estimated 30,000 Marvel comics already published, with roughly an additional 1,000 new ones every year. I estimate that before this year, I've read maybe 5-6k individual comics. So I have maybe 25k to go. I think the whole effort could take around 5 years. This is a *half-serious* goal: I'll give it a go, but I'm not dead set on completing it by any deadline or at all. Every so often I'll try to write about some of the major runs I cover, but it probably won't be comprehensive. (It will also be an excuse to post some of the excerpts/screenshots I've been taking!)
+[About a month ago](/2022/07/weeknotes-07-24/), I had the insane idea to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. This is less insane than it sounds because the Marvel Unlimited service now exists, making it easier to access the really old ones, though it's still not complete. It's kind of mind-boggling because there are an estimated 30,000 Marvel comics already published, with roughly an additional 1,000 new ones every year. I estimate that before this year, I've read maybe 5-6k individual comics. So I have maybe 25k to go. I think the whole effort could take around 5 years. This is a *not-so-serious* goal: I'll give it a go, but I'm not dead set on completing it by any deadline or at all. Every so often I'll try to write about some of the major runs I cover, but it probably won't be comprehensive. (It will also be an excuse to post some of the excerpts/screenshots I've been taking!)
 
 ### Iron Man v1 (1968-1996)
 
 I decided to start by taking out big chunks of the backlog: namely going through the earliest volumes which were also the longest running. I also decided to try covering things in "MCU order", so that meant Iron Man was first. This lets me compare the MCU continuity to the comics one.
 
-Now, I've read a lot of Marvel through the years, but most of it was X-Men / Spider-Man related. I really only started reading Avengers after the *Civil War* crossovers in 2006 (since that brought Spider-Man and some X-Men closer into the Avengers fold.) So I'm not super familiar with the backgrounds of classic Avengers like Iron Man, so a lot of this is new to me!
+Now, I've read a lot of Marvel through the years, but I mostly read the X-Men / Spider-Man related books early on. I really only started reading Avengers after the *Civil War* crossovers in 2006 (since that brought Spider-Man and some X-Men closer into the Avengers fold.) So I'm not super familiar with the backgrounds of classic Avengers like Iron Man, so a lot of this is new to me!
 
 #### Supporting Cast
 
-In the MCU, Happy Hogan and Pepper Potts are a big part of Stark's life and his companies. In the early comics, they play relatively minor roles by comparison. In fact, one of the focuses of the earlier issues is the two of them leaving Stark Industrial to get away from the Iron Man craziness. (I suppose they might have played a stronger role in the the earlier series *Tales of Suspense* which carried the Iron Man stories before this series was published - I'll get to those someday!) Furthermore, although Pepper ends up as Tony's major love interest in the MCU, in the comics Happy and Pepper are actually married! 
+In the MCU, Happy Hogan and Pepper Potts are a big part of Stark's life and of his businesses. In the early comics, they play relatively minor roles by comparison. In fact, one of the focuses of the earlier issues is the two of them leaving Stark Industrial to get away from the Iron Man craziness. (I suppose they might have played a stronger role in the the predecessor series *Tales of Suspense* - I'll get to those someday!) Furthermore, although Pepper ends up as Tony's major love interest in the MCU, in the comics Happy and Pepper are actually married! 
 
 Instead of Happy and Pepper, comics Stark actually has a much wider cast of supporting characters such as his long-time secretary/executive assistant Mrs Arbogast, long-time on-and-off love interest Bethany Cabe (among many other love interests through the years!), scientist and engineer Abe Zimmer, boxer and sometimes Iron Man Eddie March, and of course his long-time friend and copilot Jim Rhodes. Was also surprised to learn that Madame Masque / Whitney Frost was originally an Iron Man villain / Tony Stark love interest! 
 
@@ -43,7 +43,7 @@ I also liked how they recreated Stark's California home in the MCU:
 
 #### Villains
 
-It's interesting to see the comics counterparts for the MCU villains: A major story point Obadiah Stane starting a campaign to undermine Stark's business dealings and tempt him into alcoholism which led to his eventual downfall and Stane taking over Stark Industries. This is a years-long arc that starts with Iron Man v1 #163 and eventually ends with Stark building a new company and new Iron Man armor to defeat Stane in Iron Man vs #200.
+It's interesting to see the comics counterparts for the MCU villains: Obadiah Stane started a campaign to undermine Stark's business dealings and tempt him into alcoholism which led to his eventual downfall and Stane taking over Stark Industries. This is a years-long arc that starts with Iron Man v1 #163 and eventually ends with Stark building a new company and new Iron Man armor to defeat Stane in Iron Man vs #200.
 
 The Iron Man 2 villain Whiplash is more of a thug/goon in the comics than anything else, so he got a major upgrade in the MCU. Justin Hammer however is a major thorn in Stark's side, though in the comics he is more of an underworld arms dealer than a legitimate business man. A major plot point is Hammer stealing and distributing Stark tech which leads to Stark fighting a lot of armored heroes and villains to recover his stolen tech in the so-called [Armor Wars](https://en.wikipedia.org/wiki/Armor_Wars).
 
@@ -51,9 +51,9 @@ Iron Man 3: Aldrich Killian is from the Extremis storyline which is after v1. Th
 
 #### Secret Identity
 
-Another big difference with the MCU is Tony Stark's secret identity as Iron Man. In the MCU he reveals it almost immediately at the end of the first film, while in the comics, he keeps his identity secret for the entire v1 run. (He would not reveal his identity publicly until the early 2000s.) Comics Stark uses several methods to hide his secret identity including life-model decoys or having someone else like Eddie March, Happy Hogan or Jim Rhodes wear the armor alongside him in public. 
+Another big difference with the MCU is Tony Stark's secret identity as Iron Man. In the MCU he reveals it at the end of the first film, while in the comics, he keeps his identity secret for the entire v1 run. (He would not reveal his identity publicly until the early 2000s.) Comics Stark uses several methods to hide his secret identity including life-model decoys or having someone else like Eddie March, Happy Hogan or Jim Rhodes wear the armor alongside him in public. 
 
-This allowed the writers to of course have a lot of Stark's personal problems be related to the fact that his identity as Iron Man is a secret!
+This of course allowed them to write a lot of Stark's personal problems revolving around having to keep his identity a secret. AKA the Peter Parker class of troubles.
 
 #### History 
 
@@ -77,7 +77,7 @@ The *Iron Man v1* series on Marvel Unlimited also includes a 4-issue follow-up s
 
 #### Art
 
-A lot of the comic art during the early years seemed so same-y to me, none of them really stood out. I think it's because they really mostly patterned themselves after Kirby during those early years? There was a real sea change during the 90s though, with a lot of artists following more in the style of people like Jim Lee or Joe Madureira. The only art change that stood out to me was when John Romita Jr did some Iron Man issues, mostly because I'm not a fan of his work!
+A lot of the comic art during the early years seemed so same-y to me, none of them really stood out. I think it's because they often patterned themselves after Kirby during those early years? There was a real sea change during the 90s though, with a lot of artists following more in the style of people like Jim Lee or Joe Madureira. The only art change that stood out to me was when John Romita Jr did some Iron Man issues, mostly because I'm not a fan of his work!
 
 ### Other Comics
 
