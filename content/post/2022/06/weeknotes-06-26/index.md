@@ -51,7 +51,9 @@ Visit the [Links page](/links/) for more links of interest.
 
 - #### Obi-wan Kenobi
 
-    - This series had some problems, and one might question whether this was even a story that needed to be told, but they pretty much stuck the landing. That final confrontation between Ben and Anakin was something special. 
+    - This series had some problems, and one might question whether this was even a story that needed to be told, but they pretty much stuck the landing. That final confrontation between Ben and Anakin was something special. Another great entry into the "grumpy old man travelling with a sassy child" genre.
+
+    {{% photos obiwan %}}
 
 - #### Ongoing TV Status
 
