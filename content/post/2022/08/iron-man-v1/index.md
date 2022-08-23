@@ -89,7 +89,7 @@ And a lot of individual issues for ongoing runs.
 
 ### What's Next
 
-We're going in MCU order, so the next big series to tackle would be Incredible Hulk v1 starting from 1962! It's around 40 issues longer than Iron Man v1, hopefully I can cover it in about a month as well.
+We're going in MCU order, so the next big series to tackle would be Incredible Hulk v1 starting from 1962! It's around 40 issues longer than Iron Man v1, hopefully I can cover it in about a month as well, so I expect to do another one of these posts in about a month. Which is good because this post ended up way longer than I expected, given I really just wanted an excuse to post screenshots!
 
-The entire Iron Man v1 run was 336 issues on Marvel Unlimited. In addition to all the other comics I read during the past month, I'd reckon I read around 500-600 issues. That's not a bad rate; it comes to around 6000 issues a year, which makes me on track for completing the target in around 5 years or less! Although maybe I should consider making a spreadsheet or something to track all the ones I've already read lol. Also, this post ended up way longer than I expected, given I really just wanted an excuse to post screenshots!
+The entire Iron Man v1 run was 336 issues on Marvel Unlimited. In addition to all the other comics I read during the past month, I'd reckon I read around 500-600 issues. That's not a bad rate; it comes to around 6000 issues a year, which makes me on track for completing the target in around 5 years or less! Also maybe I should consider making a spreadsheet or something to track all the ones I've already read lol. 
 
