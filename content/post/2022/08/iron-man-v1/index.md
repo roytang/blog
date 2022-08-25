@@ -19,6 +19,28 @@ resources:
   title: "Mysterio vs Rey Mysterio"
 - src: mysterio2.jpg
   title: "Symbiote Spider-Man #2, May 2019"
+reviews:
+- media: comics
+  title: Iron Man v1
+  year: 1968
+- media: comics
+  title: Strange Academy
+  year: 2020
+- media: comics
+  title: Symbiote Spider-Man
+  year: 2019
+- media: comics
+  title: Symbiote Spider-Man Alien Reality
+  year: 2019
+- media: comics
+  title: Symbiote Spider-Man King in Black
+  year: 2020
+- media: comics
+  title: Hellions
+  year: 2020
+- media: comics
+  title: Marauders
+  year: 2019
 ---
 
 ### Previously
