@@ -23,6 +23,28 @@ syndicated:
   url: https://twitter.com/roytang/status/1562242309278027778/
 tags:
 - comics
+reviews:
+- media: comics
+  title: Iron Man v1
+  year: 1968
+- media: comics
+  title: Strange Academy
+  year: 2020
+- media: comics
+  title: Symbiote Spider-Man
+  year: 2019
+- media: comics
+  title: Symbiote Spider-Man Alien Reality
+  year: 2019
+- media: comics
+  title: Symbiote Spider-Man King in Black
+  year: 2020
+- media: comics
+  title: Hellions
+  year: 2020
+- media: comics
+  title: Marauders
+  year: 2019
 ---
 
 ### Previously
