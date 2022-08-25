@@ -1,46 +1,28 @@
 ---
-title: "Comics: Iron Man V1 (1968-1996) and some others"
-date: 2022-08-24T08:45:45+08:00
-tags:
-- comics
+date: 2022-08-24 00:45:45
 dontinlinephotos: true
 resources:
 - src: ironman73.jpg
-  title: "Canonically, Stark had a facility in the PH during the martial law era, but they didn't know how to spell 'Philippines'. Iron Man v1 #73, March 1975"
+  title: 'Canonically, Stark had a facility in the PH during the martial law era, but they didn''t know how to spell ''Philippines''. Iron Man v1 #73, March 1975'
 - src: ironman218.jpg
-  title: "This issue references the dictator Marcos being ousted from the PH in 1986. Iron Man v1 #218, March 1987"
+  title: 'This issue references the dictator Marcos being ousted from the PH in 1986. Iron Man v1 #218, March 1987'
 - src: ironman222_home.jpg
-  title: "Stark's California residence was first introduced in Iron Man v1 #222, July 1987"
+  title: 'Stark''s California residence was first introduced in Iron Man v1 #222, July 1987'
 - src: ironman315.jpg
-  title: "Titanium Man laments the fall of the Soviet Union. Iron Man v1 #315, April 1995"
+  title: 'Titanium Man laments the fall of the Soviet Union. Iron Man v1 #315, April 1995'
 - src: ironman3_home.png
-  title: "The MCU version of his Malibu residence, about to be destroyed in Iron Man 3"
+  title: The MCU version of his Malibu residence, about to be destroyed in Iron Man 3
 - src: mysterio1.jpg
-  title: "Mysterio vs Rey Mysterio"
+  title: Mysterio vs Rey Mysterio
 - src: mysterio2.jpg
   title: "Symbiote Spider-Man #2, May 2019"
-reviews:
-- media: comics
-  title: Iron Man v1
-  year: 1968
-- media: comics
-  title: Strange Academy
-  year: 2020
-- media: comics
-  title: Symbiote Spider-Man
-  year: 2019
-- media: comics
-  title: Symbiote Spider-Man Alien Reality
-  year: 2019
-- media: comics
-  title: Symbiote Spider-Man King in Black
-  year: 2020
-- media: comics
-  title: Hellions
-  year: 2020
-- media: comics
-  title: Marauders
-  year: 2019
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108875124603551347
+- type: twitter
+  url: https://twitter.com/roytang/status/1562242309278027778/
+tags:
+- comics
 ---
 
 ### Previously
@@ -113,5 +95,4 @@ And a lot of individual issues for ongoing runs.
 
 We're going in MCU order, so the next big series to tackle would be Incredible Hulk v1 starting from 1962! It's around 40 issues longer than Iron Man v1, hopefully I can cover it in about a month as well, so I expect to do another one of these posts in about a month. Which is good because this post ended up way longer than I expected, given I really just wanted an excuse to post screenshots!
 
-The entire Iron Man v1 run was 336 issues on Marvel Unlimited. In addition to all the other comics I read during the past month, I'd reckon I read around 500-600 issues. That's not a bad rate; it comes to around 6000 issues a year, which makes me on track for completing the target in around 5 years or less! Also maybe I should consider making a spreadsheet or something to track all the ones I've already read lol. 
-
+The entire Iron Man v1 run was 336 issues on Marvel Unlimited. In addition to all the other comics I read during the past month, I'd reckon I read around 500-600 issues. That's not a bad rate; it comes to around 6000 issues a year, which makes me on track for completing the target in around 5 years or less! Also maybe I should consider making a spreadsheet or something to track all the ones I've already read lol.
