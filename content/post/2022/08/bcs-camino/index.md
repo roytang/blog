@@ -1,19 +1,24 @@
 ---
-title: "Better Call Saul and El Camino"
-date: 2022-08-27T14:24:43+08:00
+date: 2022-08-27 06:24:43
+reviews:
+- hashtag: better-call-saul
+  media: tv
+  rating: 4.0
+  title: Better Call Saul
+- hashtag: el-camino-a-breaking-bad-movie-2019
+  media: movies
+  rating: 4.0
+  title: 'El Camino: A Breaking Bad Movie'
+  year: 2019
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108893741329730456
+- type: twitter
+  url: https://twitter.com/roytang/status/1563433757151211522/
 tags:
 - tv
 - movies
-reviews:
-- media: tv
-  title: Better Call Saul
-  rating: 4.0
-  hashtag: better-call-saul
-- media: movies
-  title: "El Camino: A Breaking Bad Movie"
-  year: 2019
-  rating: 4.0
-  hashtag: el-camino-a-breaking-bad-movie-2019
+title: Better Call Saul and El Camino
 ---
 
 ### Better Call Saul
