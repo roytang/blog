@@ -1,6 +1,7 @@
 ---
 date: 2022-08-24 00:45:45
 dontinlinephotos: true
+title: "Comics: Iron Man V1 (1968-1996) and some others "
 resources:
 - src: ironman73.jpg
   title: 'Canonically, Stark had a facility in the PH during the martial law era, but they didn''t know how to spell ''Philippines''. Iron Man v1 #73, March 1975'
