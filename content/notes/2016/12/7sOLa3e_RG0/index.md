@@ -7,6 +7,8 @@ syndicated:
   url: https://www.youtube.com/watch?v=7sOLa3e_RG0
 - type: twitter
   url: https://twitter.com/roytang/statuses/814851104680869888/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155235554238912
 tags:
 - PS4share
 - PlayStation 4
