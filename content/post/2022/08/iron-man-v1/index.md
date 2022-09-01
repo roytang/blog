@@ -22,6 +22,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108875124603551347
 - type: twitter
   url: https://twitter.com/roytang/status/1562242309278027778/
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/694159689902096384/comics-iron-man-v1-1968-1996-and-some-others
 tags:
 - comics
 reviews:
