@@ -1,23 +1,38 @@
 ---
-title: "Initial Thoughts on AI-generated Art (and Code)"
-date: 2022-09-01T23:14:24+08:00
-tags:
-- tech-life
-- software-development
+date: 2022-09-01 15:14:24
 dontinlinephotos: true
 resources:
 - src: artist_dalle.png
-  title: '"realistic photo of a starving artist who lost his job because of ai image generation tools  standing despondently on a street corner , golden hour" - DALL-E'
+  title: '"realistic photo of a starving artist who lost his job because of ai image
+    generation tools  standing despondently on a street corner , golden hour" - DALL-E'
 - src: artist_midjourney.png
-  title: '"realistic photo of a starving artist who lost his job because of ai image generation tools  standing despondently on a street corner , golden hour" - Midjourney'
+  title: '"realistic photo of a starving artist who lost his job because of ai image
+    generation tools  standing despondently on a street corner , golden hour" - Midjourney'
 - src: ch_dalle.png
-  title: '"black and white 4 panel comic strip about a small boy wearing a red striped shirt and his anthromorphic pet tiger who leaps at him as he comes home from school" - DALL-E'
+  title: '"black and white 4 panel comic strip about a small boy wearing a red striped
+    shirt and his anthromorphic pet tiger who leaps at him as he comes home from school"
+    - DALL-E'
 - src: ch_midjourney.png
-  title: '"black and white 4 panel comic strip about a small boy wearing a red striped shirt and his anthromorphic pet tiger who leaps at him as he comes home from school" - Midjourney'
+  title: '"black and white 4 panel comic strip about a small boy wearing a red striped
+    shirt and his anthromorphic pet tiger who leaps at him as he comes home from school"
+    - Midjourney'
 - src: superhero_dalle.png
-  title: '"a superhero in a green and black costume flying in to stop a helicopter from crashing into a tall building in the middle of a bustling metropolis, dragon in the background" - DALL-E'
+  title: '"a superhero in a green and black costume flying in to stop a helicopter
+    from crashing into a tall building in the middle of a bustling metropolis, dragon
+    in the background" - DALL-E'
 - src: superhero_midjourney.png
-  title: '"a superhero in a green and black costume flying in to stop a helicopter from crashing into a tall building in the middle of a bustling metropolis, dragon in the background" - Midjourney'
+  title: '"a superhero in a green and black costume flying in to stop a helicopter
+    from crashing into a tall building in the middle of a bustling metropolis, dragon
+    in the background" - Midjourney'
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108924418134674782
+- type: twitter
+  url: https://twitter.com/roytang/status/1565397096211300352/
+tags:
+- tech-life
+- software-development
+title: Initial Thoughts on AI-generated Art (and Code)
 ---
 
 A couple of months ago I got access to the [DALL-E](https://en.wikipedia.org/wiki/DALL-E), an AI/machine learning model that lets you generate images from natural language descriptions. Basically they have a server they run and you get some limited number of credits per month (?) to generate images. I only got around to trying it last week and posted some of my samples in [the most recent weeknotes](/2022/08/weeknotes-08-28/).
