@@ -94,7 +94,7 @@ Of course it's not going to be that simple. The same caveats about specificity a
 
 It's not unlike writing a technical spec! So it would definitely still be technical work just with a more natural language and not some kind of "no code" solution. The prompt engineering in this case could act as an additional layer of abstraction over the generated code. The same way we have a compiler as a tool to translate our programming languages into lower level languages, the AI code-generation tools would help translate our natural language prompts into code. Most likely the generated code would be boilerplate/template code that would most still need to review and tweaks by an experienced (human) developer, although perhaps as the tools mature the generated code gets better and better and the human developer can get to focus more on higher-value tasks like performance optimization or developing algorithms for new processes that the AI doesn't know yet.
 
-This is all just a fantasy right now of course, but something that might be possible down the line. It will be interesting to see whether our industry adapts to wide usage of this kind of tool or whether developers will still insist on the old ways.
+This is all just a fantasy right now of course, but something that might be possible down the line. It will be interesting to see whether our industry adapts to wide usage of this kind of tool or whether the old ways still prevail.
 
 #### The future
 
