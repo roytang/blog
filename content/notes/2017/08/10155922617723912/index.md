@@ -6,7 +6,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155922617723912
 tags:
-- fbreposts01
+- fbreposts06
 ---
 
 When the two desires intersect - when you enjoy doing the work to improve the world, that is truly the best of both worlds

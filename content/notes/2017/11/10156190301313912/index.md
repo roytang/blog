@@ -6,7 +6,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156190301313912
 tags:
-- fbreposts01
+- fbreposts06
 ---
 
 Maybe I should just reshare this every year

@@ -6,7 +6,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155615395228912
 tags:
-- fbreposts01
+- fbreposts06
 ---
 
 We're doomed

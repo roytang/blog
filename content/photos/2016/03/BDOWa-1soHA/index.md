@@ -16,8 +16,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154461290753912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4bbfoq/march_21st_marvel_super_heroes/d18475y/
+- type: reddit
+  url: https://www.reddit.com/r/comiccharacterdrawing/comments/4bf2h6/oa_power_man_and_iron_fist/
 tags:
 - sketchdaily
+- comiccharacterdrawing
+- reddit_submission
 ---
 
 Power Man and Iron Fist #sketchdaily

@@ -6,7 +6,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155365909638912
 tags:
-- fbreposts01
+- fbreposts06
 ---
 
 Hmm parang walking distance to that spot from home lol

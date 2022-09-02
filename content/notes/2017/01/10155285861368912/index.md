@@ -6,7 +6,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155285861368912
 tags:
-- fbreposts01
+- fbreposts06
 ---
 
 Still relevant

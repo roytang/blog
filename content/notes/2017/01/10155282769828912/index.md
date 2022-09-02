@@ -6,7 +6,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155282769828912
 tags:
-- fbreposts01
+- fbreposts06
 ---
 
 In 2 years, my Steam backlog went up to 2,485 hours lol

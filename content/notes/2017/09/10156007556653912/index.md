@@ -6,7 +6,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156007556653912
 tags:
-- fbreposts01
+- fbreposts06
 ---
 
 Six years in the making na yung law lol
