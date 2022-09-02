@@ -1,0 +1,28 @@
+{
+  "id": "b5550c07-1eb9-4569-be9a-ea7c6fcc37e4",
+  "name": "mauie in the grey",
+  "url": "https://twitter.com/inggupi",
+  "text": "[mauie in the grey](https://twitter.com/inggupi) [liked this](https://twitter.com/roytang/status/1565397096211300352#favorited-by-3240246444)",
+  "date": "2022-09-02 14:47:19",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/f674a3f7146013835225c07cd27f13daf9ab7eb5c7422ec6f42ce2e6ea465c31.jpg",
+  "source_url": "https://twitter.com/roytang/status/1565397096211300352#favorited-by-3240246444",
+  "source": "webmention",
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "mauie in the grey",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/f674a3f7146013835225c07cd27f13daf9ab7eb5c7422ec6f42ce2e6ea465c31.jpg",
+      "url": "https://twitter.com/inggupi"
+    },
+    "url": "https://twitter.com/roytang/status/1565397096211300352#favorited-by-3240246444",
+    "published": null,
+    "wm-received": "2022-09-02T14:47:19Z",
+    "wm-id": 1509796,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1565397096211300352/3240246444",
+    "wm-target": "https://roytang.net/2022/09/ai-art-code/",
+    "like-of": "https://roytang.net/2022/09/ai-art-code/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
