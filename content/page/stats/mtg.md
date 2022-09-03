@@ -64,7 +64,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Jun 2022 | 187 | 649 | 513 | 1162 | 0.5585 |
+| ALL | Sep 2022 | 198 | 683 | 541 | 1224 | 0.558 |
+| [Alchemy Horizons: Baldur's Gate](/2022/09/mtghbg-limited-recap/) | Sep 2022 | 11 | 34 | 28 | 62 | 0.5484 |
 | [Streets of New Capenna](/2022/06/mtgsnc-limited-recap/) | Jun 2022 | 21 | 76 | 57 | 133 | 0.5714 |
 | [Kamigawa: Neon Dynasty](/2022/03/mtgneo-limited-recap/) | Mar 2022 | 26 | 90 | 70 | 160 | 0.5625 |
 | [Innistrad: Crimson Vow](/2021/12/mtgcrimson-limited-recap/) | Dec 2021 | 21 | 80 | 57 | 137 | 0.5839 |
