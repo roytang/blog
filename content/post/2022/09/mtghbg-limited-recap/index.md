@@ -1,5 +1,10 @@
 ---
-date: 2022-09-03T13:59:42+08:00
+date: 2022-09-03 05:59:42
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108933022476826072
+- type: twitter
+  url: https://twitter.com/roytang/status/1565947750612488192/
 tags:
 - mtg
 - mtghbg
