@@ -1,12 +1,17 @@
 ---
-date: 2022-09-04T22:03:26+08:00
+date: 2022-09-04 14:03:26
 dontinlinephotos: true
+headerResource: witch.png
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108941036078533752
+- type: twitter
+  url: https://twitter.com/roytang/status/1566460624317878273/
 tags:
 - weeknotes
 - philippines
 - covid
 title: Weeknotes 2022-09-04
-headerResource: witch.png
 ---
 
 ### Bits and Pieces
