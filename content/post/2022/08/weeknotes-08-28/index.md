@@ -27,7 +27,7 @@ The year is almost two thirds done! Switching up the format a bit this week.
 
     {{% photos dalle %}}
 
-- **Gaming**: I finished [Witcher 2](/2022/08/witcher2/)! Still playing **SMT5** and occasionally **Street Fighter V**. Did poorly at this weekend's Throne Open in **Eternal Card Game**. At least **I got to Mythic rank early** in **Magic Arena**.
+- **Gaming**: I finished [Witcher 2](/2022/08/witcher2/)! Still playing **SMT5** and occasionally **Street Fighter V**. Did poorly at this weekend's Throne Open in **Eternal Card Game**. At least [I got to Mythic rank early](/2022/08/1562371364597936129/) in **Magic Arena**.
 
 - I've been watching a lot of **8 Out Of 10 Cats Does Countdown** on Youtube recently. (Surprisingly, the [Youtube channel](https://www.youtube.com/c/pcrobec) which has all these episodes does not seem to be any sort of official channel?) I find some of the bits hilarious, particularly when Jon Richardson and/or Jon Locke are going at it. (Jimmy Carr not so much.) The UK has a lot of these panel shows, but for some reason the US doesn't have anything like them. (Maybe **Whose Line Is It Anyway**, which I also enjoy?)
 
