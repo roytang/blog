@@ -33,7 +33,7 @@ Current read count: 13/41 (as of April 17, 2022)
 | 15 | Men at Arms  | 1993 | City Watch  | Y | [2021](/2021/04/discworld-city-watch/) |
 | 16 | Soul Music  | 1994 | Death  | | |
 | 17 | Interesting Times  | 1994 | Rincewind  | | |
-| 18 | Maskerade  | 1995 | Witches  | | |
+| 18 | Maskerade  | 1995 | Witches  | Y | [2022](/2022/09/maskerade/) |
 | 19 | Feet of Clay  | 1996 | City Watch  | Y | [2022](/2022/05/weeknotes-05-01/) |
 | 20 | Hogfather  | 1996 | Death  | | |
 | 21 | Jingo  | 1997 | City Watch  | Y | [2022](/2022/05/weeknotes-05-08/#jingo-by-terry-pratchett) |
