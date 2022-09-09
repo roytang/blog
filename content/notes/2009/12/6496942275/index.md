@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/6496942275/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/200667001964
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156246144183912
 tags:
 - quotes
 ---
