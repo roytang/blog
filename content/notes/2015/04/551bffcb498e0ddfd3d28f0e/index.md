@@ -1,7 +1,10 @@
 ---
 checkin_id: 551bffcb498e0ddfd3d28f0e
-date: 2015-04-01 22:25:15+08:00
-location: 522707f211d2fdcf3f7b513d
+date: 2015-04-01 14:25:15
+location: 4d27f36c8292236a41e814bb
+resources:
+- src: IMAG0270[1].jpg
+  title: WRONG!
 source: foursquare
 syndicated:
 - type: foursquare
