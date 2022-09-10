@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://www.theguardian.com/lifeandstyle/2021/oct/12/time-millionaires-meet-the-people-pursuing-the-pleasure-of-leisure
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107372565262481683
+  url: https://mastodon.technology/users/roytang/statuses/108975087595245469
 - type: twitter
-  url: https://twitter.com/roytang/status/1466078489149263874/
+  url: https://twitter.com/roytang/status/1568639917844234240/
 title: 'Time millionaires: meet the people pursuing the pleasure of leisure'
 ---

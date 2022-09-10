@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://reallifemag.com/yesterday-once-more/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107350466688766866
+  url: https://mastodon.technology/users/roytang/statuses/108975087885676189
 - type: twitter
-  url: https://twitter.com/roytang/status/1464664179957067778/
+  url: https://twitter.com/roytang/status/1568639936387235846/
 title: Yesterday Once More — Real Life
 ---

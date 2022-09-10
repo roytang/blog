@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://metropolisjapan.com/why-tokyo-works/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107274300837337255
+  url: https://mastodon.technology/users/roytang/statuses/108975088164059435
 - type: twitter
-  url: https://twitter.com/roytang/status/1459789565468700672/
+  url: https://twitter.com/roytang/status/1568639954376617985/
 title: Why Tokyo Works
 ---

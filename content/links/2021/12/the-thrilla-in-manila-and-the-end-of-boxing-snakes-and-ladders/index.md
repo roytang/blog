@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://blog.ayjay.org/thrilla/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107525880640998235
+  url: https://mastodon.technology/users/roytang/statuses/108975086716369838
 - type: twitter
-  url: https://twitter.com/roytang/status/1475890672888475651/
+  url: https://twitter.com/roytang/status/1568639861846065158/
 title: The Thrilla In Manila And The End Of Boxing – Snakes and Ladders
 ---

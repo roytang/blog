@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://snarfed.org/2022-01-08_happy-10th-birthday-bridgy
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107632913671746972
+  url: https://mastodon.technology/users/roytang/statuses/108975085456091103
 - type: twitter
-  url: https://twitter.com/roytang/status/1482740786727108616/
+  url: https://twitter.com/roytang/status/1568639781160222721/
 title: Happy 10th Birthday, Bridgy!
 ---

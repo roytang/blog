@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://tante.cc/2021/12/17/the-third-web/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/107466072040497965
+  url: https://mastodon.technology/users/roytang/statuses/108975087078085081
 - type: twitter
-  url: https://twitter.com/roytang/status/1472062922381615104/
+  url: https://twitter.com/roytang/status/1568639884960870400/
 title: The Third Web
 ---
