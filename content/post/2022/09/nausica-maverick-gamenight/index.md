@@ -1,30 +1,35 @@
 ---
-title: "Movies: Nausicaä, Top Gun Maverick, Game Night"
-date: 2022-09-10T22:46:16+08:00
-tags:
-- movies
+date: 2022-09-10 14:46:16
 reviews:
-- media: movies
+- date: 2022-09-05
+  description: Might be the best Miyazaki film I've seen so far.
+  hashtag: nausicaa-of-the-valley-of-the-wind-1984
+  media: movies
+  rating: 5.0
   title: Nausicaä of the Valley of the Wind
   year: 1984
-  rating: 5.0
-  description: Might be the best Miyazaki film I've seen so far.
-  date: 2022-09-05
-  hashtag: 'nausicaa-of-the-valley-of-the-wind-1984'
-- media: movies
+- date: 2022-09-06
+  description: A true blockbuster and a worthy sequel.
+  hashtag: top-gun-maverick-2022
+  media: movies
+  rating: 4.0
   title: Top Gun Maverick
   year: 2022
+- date: 2022-09-09
+  description: Surprisingly good dark comedy.
+  hashtag: game-night-2018
+  media: movies
   rating: 4.0
-  description: A true blockbuster and a worthy sequel.
-  date: 2022-09-06
-  hashtag: 'top-gun-maverick-2022'  
-- media: movies
   title: Game Night
   year: 2018
-  rating: 4.0
-  description: Surprisingly good dark comedy.
-  date: 2022-09-09
-  hashtag: 'game-night-2018'  
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108974690859383989
+- type: twitter
+  url: https://twitter.com/roytang/status/1568614527025172481/
+tags:
+- movies
+title: 'Movies: Nausicaä, Top Gun Maverick, Game Night'
 ---
 
 I didn't watch any movies the previous week, so I decided to watch a few this week.
