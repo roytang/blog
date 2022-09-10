@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://neal.fun/lets-settle-this/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975085730210501
+  url: https://mastodon.technology/users/roytang/statuses/107599411877536819
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639798499483649/
+  url: https://twitter.com/roytang/status/1480596671901753347/
 title: Let's Settle This
 ---

@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://www.usenix.org/publications/loginonline/web3-fraud
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975087281439499
+  url: https://mastodon.technology/users/roytang/statuses/107461078365729008
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639897795440647/
+  url: https://twitter.com/roytang/status/1471743327200370691/
 title: The Web3 Fraud
 ---

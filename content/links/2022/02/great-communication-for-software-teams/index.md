@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://werd.io/2022/great-communication-for-software-teams
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975084093895370
+  url: https://mastodon.technology/users/roytang/statuses/107763461567269178
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639693901950977/
+  url: https://twitter.com/roytang/status/1491095852135649288/
 title: Great communication for software teams
 ---

@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://mxb.dev/blog/make-free-stuff/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975084355813311
+  url: https://mastodon.technology/users/roytang/statuses/107707034845879569
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639710616240128/
+  url: https://twitter.com/roytang/status/1487484541908680704/
 title: Make Free Stuff
 ---

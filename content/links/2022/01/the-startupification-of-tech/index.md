@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://werd.io/2022/the-startupification-of-tech
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975085615069653
+  url: https://mastodon.technology/users/roytang/statuses/107627919821499269
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639791314661378/
+  url: https://twitter.com/roytang/status/1482421180250603521/
 title: The startupification of tech
 ---

@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://modernmrsdarcy.com/you-dont-need-another-challenge/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975086453938550
+  url: https://mastodon.technology/users/roytang/statuses/107526037877047781
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639844833959936/
+  url: https://twitter.com/roytang/status/1475900736097566720/
 title: You don't need another challenge – Modern Mrs Darcy
 ---

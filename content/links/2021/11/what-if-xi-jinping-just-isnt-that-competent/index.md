@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://noahpinion.substack.com/p/what-if-xi-jinping-just-isnt-that
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975088519882618
+  url: https://mastodon.technology/users/roytang/statuses/107233956785129702
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639977030025223/
+  url: https://twitter.com/roytang/status/1457207546591145988/
 title: What if Xi Jinping just isn't that competent?
 ---

@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://kottke.org/21/11/the-ten-rules-of-golden-age-detective-fiction
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975087739307224
+  url: https://mastodon.technology/users/roytang/statuses/107352786713212314
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639927226875905/
+  url: https://twitter.com/roytang/status/1464812661468655619/
 title: The Ten Rules of Golden Age Detective Fiction
 ---

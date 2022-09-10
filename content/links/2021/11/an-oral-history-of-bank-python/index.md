@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://calpaterson.com/bank-python.html
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975088258815097
+  url: https://mastodon.technology/users/roytang/statuses/107236433886169437
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639960248614912/
+  url: https://twitter.com/roytang/status/1457366081975119875/
 title: An oral history of Bank Python
 ---

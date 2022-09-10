@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://neustadt.fr/essays/against-a-user-hostile-web/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975083451136743
+  url: https://mastodon.technology/users/roytang/statuses/107804631094944842
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639652772614148/
+  url: https://twitter.com/roytang/status/1493730701799493633/
 title: Against an Increasingly User-Hostile Web
 ---

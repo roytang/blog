@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://yesterweb.org/zine/issue-02/02/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975083669069728
+  url: https://mastodon.technology/users/roytang/statuses/107802232545174722
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639666735448067/
+  url: https://twitter.com/roytang/status/1493577194647732224/
 title: A Recipe to Your Own Home-Coded Personal Website
 ---

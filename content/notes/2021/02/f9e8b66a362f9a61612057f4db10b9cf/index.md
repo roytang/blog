@@ -3,9 +3,9 @@ date: 2021-02-13 07:00:38
 source: email
 syndicated:
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975060150319598
+  url: https://mastodon.technology/users/roytang/statuses/105724316803286597
 - type: twitter
-  url: https://twitter.com/roytang/status/1568638161554898944/
+  url: https://twitter.com/roytang/statuses/1360590588572147714/
 title: ''
 ---
 

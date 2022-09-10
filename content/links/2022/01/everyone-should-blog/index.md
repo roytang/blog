@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://werd.io/2022/everyone-should-blog
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975086076510662
+  url: https://mastodon.technology/users/roytang/statuses/107570078009407793
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639820863504384/
+  url: https://twitter.com/roytang/status/1478719304367411202/
 title: Everyone should blog
 ---

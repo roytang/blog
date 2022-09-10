@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://werd.io/2022/rest-and-hustling
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975085887914393
+  url: https://mastodon.technology/users/roytang/statuses/107592845100554288
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639808872026113/
+  url: https://twitter.com/roytang/status/1480176398169825280/
 title: Rest and hustling
 ---

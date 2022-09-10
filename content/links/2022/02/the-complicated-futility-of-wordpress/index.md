@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://coderjerk.com/the-complicated-futility-of-wordpress/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975084245551571
+  url: https://mastodon.technology/users/roytang/statuses/107728622486860764
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639703649521664/
+  url: https://twitter.com/roytang/status/1488866151069364232/
 title: The Complicated Futility of WordPress
 ---

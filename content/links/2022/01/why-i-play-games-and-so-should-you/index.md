@@ -10,8 +10,8 @@ syndicated:
 - type: pocket
   url: https://brainbaking.com/post/2022/01/why-i-play-games/
 - type: mastodon
-  url: https://mastodon.technology/users/roytang/statuses/108975084554710915
+  url: https://mastodon.technology/users/roytang/statuses/107672943234645999
 - type: twitter
-  url: https://twitter.com/roytang/status/1568639725317287938/
+  url: https://twitter.com/roytang/status/1485302678741983232/
 title: Why I Play Games (And So Should You)
 ---
