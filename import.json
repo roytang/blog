@@ -1,0 +1,58 @@
+{
+    "location_folders": [
+        {
+            "path": "content/locations"
+        }
+    ],
+    "content_folders": [
+        {
+            "path": "content/page",
+            "public": true,
+            "section": "page",
+            "source": "page"
+        },
+        {
+            "path": "content/post",
+            "public": true,
+            "section": "blog",
+            "source": "post",
+            "syndicate": true
+        },
+        {
+            "path": "content/notes",
+            "public": true,
+            "section": "notes",
+            "source": "notes"
+        },
+        {
+            "path": "content/photos",
+            "public": true,
+            "section": "notes",
+            "source": "photos"
+        },
+        {
+            "path": "content/links",
+            "public": true,
+            "section": "links",
+            "source": "links"
+        },
+        {
+            "path": "content/fiction",
+            "public": true,
+            "section": "fiction",
+            "source": "fiction"
+        },
+        {
+            "path": "content/quotes",
+            "public": true,
+            "section": "quotes",
+            "source": "quotes"
+        },
+        {
+            "path": "content/topics",
+            "public": true,
+            "section": "topics",
+            "source": "topics"
+        }
+    ]
+}
