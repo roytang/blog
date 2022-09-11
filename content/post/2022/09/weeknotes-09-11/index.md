@@ -1,7 +1,12 @@
 ---
-date: 2022-09-11T17:09:16+08:00
+date: 2022-09-11 09:09:16
 dontinlinephotos: true
 headerResource: woman_sunset.png
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/108979179569954718
+- type: twitter
+  url: https://twitter.com/roytang/status/1568901809380667392/
 tags:
 - weeknotes
 - philippines
