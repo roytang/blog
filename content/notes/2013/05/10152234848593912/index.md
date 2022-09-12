@@ -13,4 +13,8 @@ tags:
 - fbreposts07
 ---
 
-Maoi Arroyo Hi Philippines! Stop watching the electoral results.  Go to bed. Play with your children. See a late night movie. Drink with your friends. Catch up on work.   Tomorrow will be exactly the same as yesterday: IT'S UP TO YOU AND ME. Who got investment grade? We did. Who keeps the country going? We do. Let's build a future worthy of our dreams!
+Hi Philippines! Stop watching the electoral results.
+
+Go to bed. Play with your children. See a late night movie. Drink with your friends. Catch up on work. 
+
+Tomorrow will be exactly the same as yesterday: IT'S UP TO YOU AND ME. Who got investment grade? We did. Who keeps the country going? We do. Let's build a future worthy of our dreams!

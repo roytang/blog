@@ -13,7 +13,11 @@ So true
 
 {{% quoted url="https://www.facebook.com/michalltogether/posts/10154233293902970" label="Micheline Rama's Facebook post" %}}
 
-If you play the game of trains you ride or you die. There is no middle ground.     # Spoilers   # GameOfTrains     # ParaSaPilipinas   # TransportReform sPleaseYung tipong di pa nakakalabas lahat ng babababa, paalis na ang tren at maiiiwan ka na.    If you play the game of trains you ride or you die. There is no middle ground.     # Spoilers   # GameOfTrains     # ParaSaPilipinas   # TransportReform sPleaseIf you play the game of trains you ride or you die. There is no middle ground.     # Spoilers   # GameOfTrains     # ParaSaPilipinas   # TransportReform sPleaseIf you play the game of trains you ride or you die. There is no middle ground.     # Spoilers   # GameOfTrains     # ParaSaPilipinas   # TransportReform sPleaseIf you play the game of trains you ride or you die. There is no middle ground.     # Spoilers   # GameOfTrains     # ParaSaPilipinas   # TransportReform sPlease    h/t  Louie Destacamento   # GameOfTrains
+If you play the game of trains you ride or you die. There is no middle ground.
+
+#Spoilers #GameOfTrains
+
+#ParaSaPilipinas #TransportReformsPlease
 
 {{% photos 10154690301868912%}}
 

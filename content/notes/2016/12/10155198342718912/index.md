@@ -17,4 +17,4 @@ tags:
 
 Jon Limjap "You're confusing peace with terror" - Galen Erso   Rogue One A Star Wars Story Exclusive Scene - Galen Erso and Director Orson Krennic youtube.com
 
-[Rogue One A Star Wars Story Exclusive Scene - Galen Erso and Director Orson Krennic youtube.com](https://youtu.be/4Llbvf_bwnE?fbclid=IwAR0oQAMh9Qc-hOX0cDzYuQsVI7oZtRVX23ZdpjtIAxRapCW-8simo1FwWR8)
+{{% youtube 4Llbvf_bwnE %}}

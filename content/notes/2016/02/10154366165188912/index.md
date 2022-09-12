@@ -14,6 +14,8 @@ Nice shot and all, but isn't that supposed to be a telepathic blade? #comicbookg
 
 {{% quoted url="https://www.facebook.com/xmenmovies//posts/1186375721392882" label="X-Men Movies's Facebook post" %}}
 
-X-Men Movies Psylocke. i.giphy.com i.giphy.com
+Psylocke. 
+
+![](https://i.giphy.com/l4KhTrOoVa2dbnFiE.gif?fbclid=IwAR0Cj37lgPf3NhKlgGB8TdBjfeknWEa7SJhkv1p9QPQnfTGKRxKB7egV1vk)
 
 {{% /quoted %}}

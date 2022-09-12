@@ -37,5 +37,5 @@ I like to think of myself as an optimist, but even I am increasingly wary of whe
 
 We have to hold out hope that humanity and society can adapt and survive these crises, that we have not come all this way simply to lose to our own hubris.
 
- [1]: https://www.minnpost.com/earth-journal/2018/10/new-outlook-on-global-warming-best-prepare-for-social-collapse-and-soon/?fbclid=IwAR2OR1lTChzd3eAnEl9nnlCpgDr9GhvUKxNrCd5JNXShQK9Uj8EMCbKPvhM
+ [1]: https://www.minnpost.com/earth-journal/2018/10/new-outlook-on-global-warming-best-prepare-for-social-collapse-and-soon/
  [2]: https://www3.nhk.or.jp/nhkworld/en/news/20181021_80/

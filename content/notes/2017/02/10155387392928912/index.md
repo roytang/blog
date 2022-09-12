@@ -13,6 +13,8 @@ Wow what a great call
 
 {{% quoted url="https://www.facebook.com/ComicBookResources/posts/1535376623153804" label="Comic Book Resources's Facebook post" %}}
 
-Comic Book Resources Iwan Rheon has joined the cast of Marvel and ABC's upcoming live-action drama as the antagonistic Inhuman Maximus. Inhumans Casts Game Of Thrones Alum As Maximus The Mad CBR.COM
+Comic Book Resources Iwan Rheon has joined the cast of Marvel and ABC's upcoming live-action drama as the antagonistic Inhuman Maximus. 
+
+[Inhumans Casts Game Of Thrones Alum As Maximus The Mad](https://cbr.st/AFHc9iK)
 
 {{% /quoted %}}

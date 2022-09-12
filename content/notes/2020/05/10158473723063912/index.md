@@ -13,104 +13,42 @@ tags:
 - fbreposts08
 ---
 
+Kanina sa checkpoint sa border ng Aurora kung saan ako papunta para mag-cover ng bagyo, pinababa kami ng mga pulis.
 
+Sabi ko, luh. Paano ‘to. 
 
-<div class="bp" data-ft='{"tn":"*s"}' style="">
- <p>
-  Kanina sa checkpoint sa border ng Aurora kung saan ako papunta para mag-cover ng bagyo, pinababa kami ng mga pulis.
- </p>
- <p>
-  Sabi ko, luh. Paano ‘to.
- </p>
- <p>
-  Kinuha nila IATF ID namin. ‘Tas nilista.
- </p>
- <p>
-  Tas habang binabalik ng mga pulis ‘yung mga ID namin bigla kami kinausap.
- </p>
- <p>
-  “Sir, diba kayo ‘yung nasa bagyo parati?”
-  <br/>
-  “Ah, opo sir.”
-  <br/>
-  “Babalik na ba kayo sir?”
-  <br/>
-  “Sir, papunta pa lang ako Aurora.”
-  <br/>
-  “Hindi sir. ‘Yung ABS, babalik na ba?”
-  <br/>
-  “Aaah. Sana, sir.”
-  <br/>
-  “Facebook na lang ba kayo? Hirap ng data dito sa bundok sir.”
-  <br/>
-  “Mukha nga sir.”
-  <br/>
-  “ABS lang ang malakas ang signal dito. May bagyo ngayon di namin malaman kung ano nangyayari.”
-  <br/>
-  “Hirap nga sir pero ganun muna talaga siguro.”
-  <br/>
-  “Sana makabalik na kayo sir.”
-  <br/>
-  “Sana, sir.”
-  <br/>
-  “Hintayin namin balita mo sa bagyo sir. Ingat parati.”
-  <br/>
-  “Kayo rin po sir. Salamat.”
- </p>
- <p>
-  Lakas maka-fragile ng mga ganitong random acts of support dahil sa mga pinagdaraanan ng mga empleyado ngayon ng ABS.
- </p>
- <p>
-  Salamat, salamat mga ser! Para sa inyo ang mga balita.
- </p>
-</div>
+Kinuha nila IATF ID namin. ‘Tas nilista.
 
-<div class="bp" data-ft='{"tn":"*s"}' style="">
- <p>
-  Kanina sa checkpoint sa border ng Aurora kung saan ako papunta para mag-cover ng bagyo, pinababa kami ng mga pulis.
- </p>
- <p>
-  Sabi ko, luh. Paano ‘to.
- </p>
- <p>
-  Kinuha nila IATF ID namin. ‘Tas nilista.
- </p>
- <p>
-  Tas habang binabalik ng mga pulis ‘yung mga ID namin bigla kami kinausap.
- </p>
- <p>
-  “Sir, diba kayo ‘yung nasa bagyo parati?”
-  <br/>
-  “Ah, opo sir.”
-  <br/>
-  “Babalik na ba kayo sir?”
-  <br/>
-  “Sir, papunta pa lang ako Aurora.”
-  <br/>
-  “Hindi sir. ‘Yung ABS, babalik na ba?”
-  <br/>
-  “Aaah. Sana, sir.”
-  <br/>
-  “Facebook na lang ba kayo? Hirap ng data dito sa bundok sir.”
-  <br/>
-  “Mukha nga sir.”
-  <br/>
-  “ABS lang ang malakas ang signal dito. May bagyo ngayon di namin malaman kung ano nangyayari.”
-  <br/>
-  “Hirap nga sir pero ganun muna talaga siguro.”
-  <br/>
-  “Sana makabalik na kayo sir.”
-  <br/>
-  “Sana, sir.”
-  <br/>
-  “Hintayin namin balita mo sa bagyo sir. Ingat parati.”
-  <br/>
-  “Kayo rin po sir. Salamat.”
- </p>
- <p>
-  Lakas maka-fragile ng mga ganitong random acts of support dahil sa mga pinagdaraanan ng mga empleyado ngayon ng ABS.
- </p>
- <p>
-  Salamat, salamat mga ser! Para sa inyo ang mga balita.
- </p>
-</div>
+Tas habang binabalik ng mga pulis ‘yung mga ID namin bigla kami kinausap.
+
+“Sir, diba kayo ‘yung nasa bagyo parati?”
+
+“Ah, opo sir.”
+
+“Babalik na ba kayo sir?”
+
+“Sir, papunta pa lang ako Aurora.”
+
+“Hindi sir. ‘Yung ABS, babalik na ba?”
+
+“Aaah. Sana, sir.”
+
+“Facebook na lang ba kayo? Hirap ng data dito sa bundok sir.”
+
+“Mukha nga sir.”
+
+“ABS lang ang malakas ang signal dito. May bagyo ngayon di namin malaman kung ano nangyayari.”
+
+“Hirap nga sir pero ganun muna talaga siguro.”
+
+“Sana makabalik na kayo sir.”
+
+“Sana, sir.”
+
+“Hintayin namin balita mo sa bagyo sir. Ingat parati.”
+
+“Kayo rin po sir. Salamat.”
+
+Lakas maka-fragile ng mga ganitong random acts of support dahil sa mga pinagdaraanan ng mga empleyado ngayon ng ABS. 
+
+Salamat, salamat mga ser! Para sa inyo ang mga balita.

@@ -13,39 +13,21 @@ The image shared in the post below feels to me like it might be thinly-veiled pr
 
 {{% quoted url="https://www.facebook.com/profile.php/posts/10154448502378991" label="David Ramirez's Facebook post" %}}
 
-<div class="bm" data-ft='{"tn":"*s"}' style="">
- <p>
-  I'm not sharing the post because it inflates the person's impact, but I'll post a screenshot of it.
- </p>
- <p>
-  You should be afraid.
- </p>
- <p>
-  <span>
-   It's so sad and funny how many people so enthusiasticall
-  </span>
-  <wbr/>
-  <span class="word_break">
-  </span>
-  y want to give up their own rights.
- </p>
- <p>
-  If they don't like the information, it's bias. If there is news about bad things happening in the country, it's not because of bad things happening in the country, it's the media's fault.
- </p>
- <p>
-  Oh, life would be so much better if the media could not report on these things, if they were under state control.
- </p>
- <p>
-  It was so great, promoting tourism under Marcos, when criticizing the government meant being jailed and tortured. Oh, those negative articles from international media were because of manipulations of the West... even though the US wanted Marcos to stick around because of their fear of communists, somehow it was advantageous to them to have Western media criticize Marcos....
- </p>
- <p>
-  So, yeah, sure, it's also the media's fault that a UN special rapporteur visited Davao several years ago and concluded that there was a Davao Death Squad that killed hundreds and that it probably operated with official sanction.
- </p>
- <p>
-  Sure, sure, it was just a misquote when Duterte boasted about having ties to the Davao Death Squad. They cheer for it when he says it but say "Bias" when it's Obama or the UN or the BBC.
- </p>
-</div>
-I'm not sharing the post because it inflates the person's impact, but I'll post a screenshot of it.    You should be afraid.    It's so sad and funny how many people so enthusiasticall y want to give up their own rights.    If they don't like the information, it's bias. If there is news about bad things happening in the country, it's not because of bad things happening in the country, it's the media's fault.     Oh, life would be so much better if the media could not report on these things, if they were under state control.    It was so great, promoting tourism under Marcos, when criticizing the government meant being jailed and tortured. Oh, those negative articles from international media were because of manipulations of the West... even though the US wanted Marcos to stick around because of their fear of communists, somehow it was advantageous to them to have Western media criticize Marcos....    So, yeah, sure, it's also the media's fault that a UN special rapporteur visited Davao several years ago and concluded that there was a Davao Death Squad that killed hundreds and that it probably operated with official sanction.    Sure, sure, it was just a misquote when Duterte boasted about having ties to the Davao Death Squad. They cheer for it when he says it but say "Bias" when it's Obama or the UN or the BBC.
+I'm not sharing the post because it inflates the person's impact, but I'll post a screenshot of it.
+
+You should be afraid.
+
+It's so sad and funny how many people so enthusiastically want to give up their own rights.
+
+If they don't like the information, it's bias. If there is news about bad things happening in the country, it's not because of bad things happening in the country, it's the media's fault.
+
+Oh, life would be so much better if the media could not report on these things, if they were under state control.
+
+It was so great, promoting tourism under Marcos, when criticizing the government meant being jailed and tortured. Oh, those negative articles from international media were because of manipulations of the West... even though the US wanted Marcos to stick around because of their fear of communists, somehow it was advantageous to them to have Western media criticize Marcos....
+
+So, yeah, sure, it's also the media's fault that a UN special rapporteur visited Davao several years ago and concluded that there was a Davao Death Squad that killed hundreds and that it probably operated with official sanction.
+
+Sure, sure, it was just a misquote when Duterte boasted about having ties to the Davao Death Squad. They cheer for it when he says it but say "Bias" when it's Obama or the UN or the BBC.
 
 {{% photos 10154912075273912%}}
 

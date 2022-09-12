@@ -11,4 +11,4 @@ tags:
 
 I miss Barcelona's wide open spacious streets and strangely uniform city blocks
 
-{{% note "2022/09/tourists-on-the-street/" %}}
+{{% note "2015/03/tourists-on-the-street/" %}}

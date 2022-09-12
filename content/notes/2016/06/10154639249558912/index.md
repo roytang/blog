@@ -13,7 +13,15 @@ Lol friendship goals
 
 {{% quoted url="https://www.facebook.com/NaDuterte//posts/1033115320059190" label="Change Scamming's Facebook post" %}}
 
-Kay tamis ng ating samahan sa lungkot at kaligayahan  🎶 🎵  Tunay na kaibigan, kasamang maaasahan  🎶 🎵  Salamat at tayo'y may pinagsamahan  🎶 🎵  Salamat, tunay kong kaibigan  🎶 🎵    Rody Duterte at Bongbong Marcos = Friendship Goals!  👬 👨‍❤️‍👨 👨‍❤️‍💋‍👨   # ChangeScamming
+Kay tamis ng ating samahan sa lungkot at kaligayahan 🎶🎵
+
+Tunay na kaibigan, kasamang maaasahan 🎶🎵
+
+Salamat at tayo'y may pinagsamahan 🎶🎵
+
+Salamat, tunay kong kaibigan 🎶🎵
+
+Rody Duterte at Bongbong Marcos = Friendship Goals! 👬👨‍❤️‍👨👨‍❤️‍💋‍👨 #ChangeScamming
 
 {{% photos 10154639249558912%}}
 

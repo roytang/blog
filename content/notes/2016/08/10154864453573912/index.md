@@ -13,6 +13,6 @@ The only kind of unity certain camps are interested in is one where the sheep as
 
 {{% quoted url="https://www.facebook.com/profile.php/posts/1755650121373433" label="Peter Tiu Lavina's Facebook post" %}}
 
-Peter Tiu Lavina To win the war against drugs, we need to be resolute like  # PresidentDutert e . There should be no neutrals in this righteous crusade against evil. Let those fence-sitting nitpicking Humpty Dumpties realize that they are derailing our total victory against this menace. They are clearly on the side of if not protecting the drug lords.
+To win the war against drugs, we need to be resolute like  #PresidentDuterte . There should be no neutrals in this righteous crusade against evil. Let those fence-sitting nitpicking Humpty Dumpties realize that they are derailing our total victory against this menace. They are clearly on the side of if not protecting the drug lords.
 
 {{% /quoted %}}

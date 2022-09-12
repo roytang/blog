@@ -17,4 +17,4 @@ tags:
 
 This is according to the results of the Random Manual Audit of almost 700 clustered polling precincts representing various legislative districts nationwide. 
 
-[Automated poll system nearly 100 pct accurate, audit shows news.abs-cbn.com](http://news.abs-cbn.com/news/07/20/16/automated-poll-system-nearly-100-pct-accurate-audit-shows?fbclid=IwAR2XKFms9P80q2_NLb4felQqQGq8XJOif_7n1EYb_dniiv4LnhI87Rb5-oA)
+[Automated poll system nearly 100 pct accurate, audit shows news.abs-cbn.com](http://news.abs-cbn.com/news/07/20/16/automated-poll-system-nearly-100-pct-accurate-audit-shows)

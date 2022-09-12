@@ -8,4 +8,4 @@ syndicated:
 
 I'm so l33t
 
-http://steamleft.com/span/76561198026163141?fbclid=IwAR30xiCkfowoGqJ3ClR8Cx4mxsexG0RvOKtTX7wJJ20bYG922AlnyMMIDg0#.VLqAcwdhPJc.facebook : How much gametime do you have left to beat every game in your Steam library?
+http://steamleft.com/span/76561198026163141 : How much gametime do you have left to beat every game in your Steam library?

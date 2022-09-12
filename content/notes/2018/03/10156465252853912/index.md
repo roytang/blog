@@ -13,6 +13,6 @@ Josiah Tendero Habana
 
 {{% quoted url="https://www.facebook.com/LADbible//posts/4526025400777948" label="LADbible's Facebook post" %}}
 
-LADbible "A lot of people want us to do it. So me and my brothers have been talking."  🙌 White Chicks 2 Is In The Works According To Marlon Wayans ladbible.com
+"A lot of people want us to do it. So me and my brothers have been talking."  🙌 White Chicks 2 Is In The Works According To Marlon Wayans ladbible.com
 
 {{% /quoted %}}

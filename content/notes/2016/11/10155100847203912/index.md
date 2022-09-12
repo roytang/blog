@@ -15,18 +15,11 @@ Quoting Jon Limjap:
 
 {{% quoted url="https://www.facebook.com/josevener.ibarra/posts/1148489738597641" label="Jose Vener Ibarra's Facebook post" %}}
 
-<div class="bp" data-ft='{"tn":"*s"}' style="">
- <p>
-  August 31, 1983.
- </p>
- <p>
-  No one organized this but millions came and created the world's biggest funeral procession. No soldiers secured this. This was not kept a secret. No 21 gun salute. The body was not flown by helicopter. The family did not demand a hero's burial.
- </p>
- <p>
-  (Copyright notice. The picture was obtained from the Internet and belongs to the photographer.)
- </p>
-</div>
-August 31, 1983.    No one organized this but millions came and created the world's biggest funeral procession. No soldiers secured this. This was not kept a secret. No 21 gun salute. The body was not flown by helicopter. The family did not demand a hero's burial.    (Copyright notice. The picture was obtained from the Internet and belongs to the photographer.)
+August 31, 1983.
+
+No one organized this but millions came and created the world's biggest funeral procession. No soldiers secured this. This was not kept a secret. No 21 gun salute. The body was not flown by helicopter. The family did not demand a hero's burial.
+
+(Copyright notice. The picture was obtained from the Internet and belongs to the photographer.)
 
 {{% photos 10155100847203912%}}
 

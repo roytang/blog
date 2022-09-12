@@ -17,4 +17,4 @@ Relevant: It feels impossible to understand how Adolf Hitler, the tyrant who orc
 
 #livinghistory
 
-[How did Hitler rise to power? - Alex Gendler and Anthony Hazard ed.ted.com](http://ed.ted.com/lessons/how-did-hitler-rise-to-power-alex-gendler-and-anthony-hazard?fbclid=IwAR0CmxI7AlQIyWUIeQxA8T4QSuYdXTZOTpw6vc6dsEs7uqWXGpuT9iaLkvw)
+[How did Hitler rise to power? - Alex Gendler and Anthony Hazard ed.ted.com](http://ed.ted.com/lessons/how-did-hitler-rise-to-power-alex-gendler-and-anthony-hazard)

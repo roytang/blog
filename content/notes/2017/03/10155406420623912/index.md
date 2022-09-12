@@ -17,4 +17,4 @@ Comic Book Resources What did you think of the new Guardians of the Galaxy Vol 2
 
 WATCH: Guardians of the Galaxy Vol. 2 Drops New Trailer CBR.COM
 
-http://cbr.st/AFtm0iK?fbclid=IwAR3lxnbBWHCMPeCTuBpRjUwagJ67QBFdBuNOs5hLdSS-M0z8lmLtZ85u9pk
+http://cbr.st/AFtm0iK

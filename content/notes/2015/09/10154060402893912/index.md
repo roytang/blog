@@ -13,7 +13,11 @@ I can attest from personal experience that not only is Maoi Arroyo a little bit 
 
 {{% quoted url="https://www.facebook.com/tertiana/posts/10153107609822654" label="Tersh Tupas's Facebook post" %}}
 
-Who's YOUR Tech Mover? Sharing this in support of my friend,  Maoi Arroyo . She's one of this year's World Economic Forum Young Global Leaders and the CEO of Hybridigm Consulting. She's also one of the 2011 TOYM Awardees of  JCI Philippines !  # rolemodel    VOTE FOR HER NOW!  :)   http://www.rappler.com/move-candidates?campaign_id=1&category_id=1Who's YOUR Tech Mover? Sharing this in support of my friend,  Maoi Arroyo . She's one of this year's World Economic Forum Young Global Leaders and the CEO of Hybridigm Consulting. She's also one of the 2011 TOYM Awardees of  JCI Philippines !  # rolemodel    VOTE FOR HER NOW!  :)   http://www.rappler.com/move-candidates?campaign_id=1&c ategory_id=1
+Who's YOUR Tech Mover? Sharing this in support of my friend, Maoi Arroyo. She's one of this year's World Economic Forum Young Global Leaders and the CEO of Hybridigm Consulting. She's also one of the 2011 TOYM Awardees of JCI Philippines! #rolemodel
+
+VOTE FOR HER NOW! 
+
+http://www.rappler.com/move-candidates?campaign_id=1&category_id=1
 
 {{% photos 10154060402893912%}}
 

@@ -20,4 +20,4 @@ tags:
 
 me:   😂 😂 😂 
 
-[Literally Just 28 Very Hilarious Tweets By Filipinos buzzfeed.com](https://www.buzzfeed.com/isabellelaureta/coffee-us-soon?fbclid=IwAR0g3yZvXOcgSHcNrUZwdVBiccYO1QpIol5OmjWuHQXAf_9KTmz6wcsSPGo)
+[Literally Just 28 Very Hilarious Tweets By Filipinos buzzfeed.com](https://www.buzzfeed.com/isabellelaureta/coffee-us-soon)

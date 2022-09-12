@@ -13,6 +13,8 @@ I was agape at the audacity of this demand. The quoted statement displays either
 
 {{% quoted url="https://www.facebook.com/freethinkers//posts/10155329100157686" label="Filipino Freethinkers's Facebook post" %}}
 
-Filipino Freethinkers "Do it with moderation and do not use words that tend to cast aspersion on the character." Duterte to media: Criticize 'with moderation' rappler.com
+"Do it with moderation and do not use words that tend to cast aspersion on the character." 
+
+[Duterte to media: Criticize 'with moderation'](https://www.rappler.com/nation/193808-duterte-media-criticize-moderation/)
 
 {{% /quoted %}}
