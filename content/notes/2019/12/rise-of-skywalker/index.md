@@ -10,7 +10,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1208611412697698304/
 - type: facebook
-  url: https://www.facebook.com/photo.php?fbid=10158023153908912&set=a.126100068911&type=3
+  url: https://www.facebook.com/stephen.roy.tang/posts/10158023156223912
 reviews:
 - media: movies
   title: "Star Wars Episode IX: Rise of Skywalker (2019)"

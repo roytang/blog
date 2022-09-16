@@ -5,13 +5,14 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1127957569467633664/
 - type: facebook
-  url: https://facebook.com/stephen.roy.tang/posts/10157447334508912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157447334508912
+dontinlinephotos: true
 ---
 
 This feels apt for today 
 
 {{% quoted url="https://twitter.com/theawkwardyeti/status/1127956335876767745" label="theawkwardyeti's tweet" %}}
 
-
+{{% photos 1127957569467633664 %}}
 
 {{% /quoted %}}

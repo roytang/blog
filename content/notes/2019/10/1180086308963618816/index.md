@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1180096656911417344/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1180097294294585346/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157802233533912
 tags:
 - movies
 - spoiler-free-review

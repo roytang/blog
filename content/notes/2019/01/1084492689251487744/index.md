@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1084492689251487744/
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/101410103650210647
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157191441028912
 ---
 
-https://www.youtube.com/watch?v=JskR-5GjV78
+[L'Arc~en~Ciel - The Fourth Avenue Cafe](https://www.youtube.com/watch?v=JskR-5GjV78)
