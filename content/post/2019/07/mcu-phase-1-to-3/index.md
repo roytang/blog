@@ -8,6 +8,7 @@ syndicated:
 tags:
 - movies
 - comics
+- mcu
 title: A Look Back at the Marvel Cinematic Universe
 type: post
 ---
