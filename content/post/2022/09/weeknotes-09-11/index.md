@@ -50,8 +50,6 @@ And some interesting stuff from Twitter:
 - [A wholesome and joyful video of bros just having fun.](https://twitter.com/robinthede/status/1567883696061165568)
 - [Last week](/2022/09/weeknotes-09-04/) I mentioned not being able to find something I read about people not reading their own website/blog contents. I found out [it was actually a Twitter thing](https://twitter.com/spencerc99/status/1565804630491250689)! (via [Winnie Lim](https://winnielim.org/notes/random-discoveries-8th-sep-2022/)).
 
-https://twitter.com/spencerc99/status/1565804630491250689
-
 ### This coming week:
 
 - I think Tokyo Game Show is next week, but I'm not looking forward to anything specific there I think. Maybe expect some new SF6 news?
