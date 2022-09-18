@@ -8,7 +8,7 @@ resources:
 source: facebook
 syndicated:
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/videos/10153293302688912/
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153293302688912
 tags:
 - videos
 - ps4share
