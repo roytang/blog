@@ -6,10 +6,14 @@ reviews:
 source: facebook
 syndicated:
 - type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154623190203912
+- type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154623406818912
 tags:
 - movies
 ---
+
+<time>[May 25, 2016 10:50]</time> Watched Warcraft at SM North Edsa Cinemas 
 
 Warcraft movie review:
 
