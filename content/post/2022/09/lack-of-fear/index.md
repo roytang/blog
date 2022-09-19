@@ -1,9 +1,14 @@
 ---
-title: "A Lack of Fear"
-date: 2022-09-19T23:03:35+08:00
+date: 2022-09-19 15:03:35
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/109025868524492957
+- type: twitter
+  url: https://twitter.com/roytang/status/1571889901611917312/
 tags:
 - tech-life
-dontinlinephotos: true
+title: A Lack of Fear
 ---
 
 > When it comes to technology, my knowledge largely comes from my lack of fear over trying new things and pressing buttons just to see what they do. My consulting clients ask me where I learned how fix that thing that they called me in for – even if I may not have encountered their specific issue before. I explain that the main thing is my lack of fear. That I’m willing to just try things to see if I can figure it out. Push buttons just to see what they do. And, in doing so, I can now fix that problem should I ever encounter it again.
