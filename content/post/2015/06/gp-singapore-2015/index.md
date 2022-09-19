@@ -21,6 +21,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153910703248912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153912141213912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153912281568912
 tags:
 - mtg
 - grand prix

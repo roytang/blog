@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/170364110450/trying-out-3d-modelling-with-blender
 - type: twitter
   url: https://twitter.com/roytang/statuses/958868554547449857/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156384509583912
 tags:
 - Learning Things
 - Self-Improvement

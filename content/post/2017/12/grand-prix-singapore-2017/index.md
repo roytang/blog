@@ -9,6 +9,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/168840859090/grand-prix-singapore-2017-tournament-report
 - type: twitter
   url: https://twitter.com/roytang/statuses/944376613269106688/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156282909478912
 tags:
 - grand-prix
 - limited

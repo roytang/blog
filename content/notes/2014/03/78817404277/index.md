@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/78817404277/kateoplis-ny-magazine-50-runny-yummy-crumbly
 - type: twitter
   url: https://twitter.com/roytang/statuses/441788946620907522/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152825430248912
 ---
 
 <p><a class="tumblr_blog" href="http://kateoplis.tumblr.com/post/78789301307/ny-magazine-50-runny-yummy-crumbly-cheeses-to">kateoplis</a>:</p>

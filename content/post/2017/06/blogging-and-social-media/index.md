@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/161448834110/blogging-and-social-media
 - type: twitter
   url: https://twitter.com/roytang/statuses/871564754325839872/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155685600198912
 tags:
 - blogging
 - social media

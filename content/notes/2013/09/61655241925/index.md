@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/61655241925/ellievhall-the-sass-between-buzzfeed-and
 - type: twitter
   url: https://twitter.com/roytang/statuses/380578764117512192/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152476237833912
 ---
 
 <p><a href="http://ellievhall.tumblr.com/post/61593276009/the-sass-between-buzzfeed-and-buzzfeeduk-on" class="tumblr_blog">ellievhall</a>:</p>

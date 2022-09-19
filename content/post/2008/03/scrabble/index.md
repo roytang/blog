@@ -2,6 +2,9 @@
 author: Roy
 categories: []
 date: 2008-03-08 05:12:51
+syndicated:
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156291835853912
 tags:
 - Gaming
 title: Scrabble

@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/155236616630/new-years-checklist
 - type: twitter
   url: https://twitter.com/roytang/statuses/815438937309249538/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155240448368912
 tags:
 - Opinions
 - Self-Improvement

@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/155970854510/online-discussions-opposing-views-and-street
 - type: twitter
   url: https://twitter.com/roytang/statuses/821169667309977600/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155283908883912
 tags:
 - Opinions
 title: Online Discussions, Opposing Views, and Street Fighter

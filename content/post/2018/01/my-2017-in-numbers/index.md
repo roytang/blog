@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/169167606615/my-2017-in-numbers
 - type: twitter
   url: https://twitter.com/roytang/statuses/947634555661537280/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156305532778912
 tags:
 - yearnotes
 title: My 2017 in numbers

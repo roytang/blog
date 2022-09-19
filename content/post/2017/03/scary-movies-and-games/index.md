@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/158375285550/scary-movies-and-games
 - type: twitter
   url: https://twitter.com/roytang/statuses/841462145036505094/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155445038323912
 tags:
 - Movies
 - Gaming

@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/155650139150/thoughts-on-authoritarianism-vs-democracy
 - type: twitter
   url: https://twitter.com/roytang/statuses/818632792087162880/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155263214073912
 tags:
 - Opinions
 title: Thoughts on Authoritarianism vs Democracy

@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/112603904125/buzzfeed-your-favorite-tv-shows-as-game-of
 - type: twitter
   url: https://twitter.com/roytang/statuses/572762726424059905/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153609928343912
 ---
 
 <p><a href="http://buzzfeed.tumblr.com/post/112227736747/your-favorite-tv-shows-as-game-of-thrones-houses" class="tumblr_blog">buzzfeed</a>:</p><blockquote><p><a href="http://bzfd.it/1Gz8jaa"><b>Your favorite TV shows as <i>Game Of Thrones</i> houses.</b></a><br/></p></blockquote>

@@ -5,6 +5,8 @@ date: 2015-04-25 05:56:41
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/591843319669399552/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153731487588912
 tags:
 - Travels
 - europe2015

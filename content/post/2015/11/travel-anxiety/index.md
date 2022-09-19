@@ -5,6 +5,8 @@ date: 2015-11-19 17:09:06
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/667389154402021377/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154203262073912
 tags:
 - Travels
 title: Travel anxiety

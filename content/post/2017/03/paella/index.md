@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/158914820230/paella
 - type: twitter
   url: https://twitter.com/roytang/statuses/846564112423419905/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155482390683912
 tags:
 - Travels
 title: Paella

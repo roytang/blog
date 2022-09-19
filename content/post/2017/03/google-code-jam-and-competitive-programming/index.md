@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/158457157955/google-code-jam-and-competitive-programming
 - type: twitter
   url: https://twitter.com/roytang/statuses/842187752544309248/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155450133138912
 tags:
 - Software Development
 title: Google Code Jam and Competitive Programming

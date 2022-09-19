@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/157295804435/integrating-open-source-libraries
 - type: twitter
   url: https://twitter.com/roytang/statuses/832040405126496258/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155368903873912
 tags:
 - Software Development
 title: Integrating Open Source Libraries

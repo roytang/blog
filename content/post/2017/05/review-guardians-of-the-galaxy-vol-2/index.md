@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/859598652574236676/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155588909688912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155591158168912
 tags:
 - Movies
 - Review

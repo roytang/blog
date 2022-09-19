@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/153195272165/bad-news
 - type: twitter
   url: https://twitter.com/roytang/statuses/798339342385184768/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155092173673912
 tags:
 - Opinions
 title: Bad news

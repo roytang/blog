@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/168806095625/singapore-2017
 - type: twitter
   url: https://twitter.com/roytang/statuses/944022699998957570/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156280337313912
 tags:
 - Travels
 - singapore

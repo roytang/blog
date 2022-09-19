@@ -2,17 +2,19 @@
 author: roy
 categories: []
 date: 2015-08-09 06:39:47
+dontinlinephotos: true
+featuredResource:
+  filename: 11846797_10154003060973912_2930333303287459805_n.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/630267345903054848/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154003132838912
 tags:
 - birthday
 title: Thirty-Seven
 type: post
 url: /2015/08/thirty-seven/
-dontinlinephotos: true
-featuredResource: 
-  filename: 11846797_10154003060973912_2930333303287459805_n.jpg
 ---
 
 {{< img src="11846797_10154003060973912_2930333303287459805_n.jpg" alt="thirty seven" >}}
@@ -23,5 +25,4 @@ You have to be able to look within yourself to find your own drive, to find the 
 
 Despite some bad spots, I've still had a pretty good twelve months though. I've traveled a lot, and plan to travel more before the year ends. I'm still learning new things. I'm still blessed with good family and friends and a means to sustain myself and my wants.
 
-My birthday always feels like a good opportunity to step back and take a breather and find some perspective. And to re-affirm the choice to keep moving forward -- one step at a time... 
-
+My birthday always feels like a good opportunity to step back and take a breather and find some perspective. And to re-affirm the choice to keep moving forward -- one step at a time...

@@ -10,6 +10,10 @@ syndicated:
   url: https://roytang.tumblr.com/post/66765643136/jl8comic-edit-on-the-original-image-i
 - type: twitter
   url: https://twitter.com/roytang/statuses/400182741058465792/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152591508318912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152591243458912
 ---
 
 <p><a href="http://jl8comic.tumblr.com/post/66726000058/edit-on-the-original-image-i-mistyped-haiyan-as" class="tumblr_blog">jl8comic</a>:</p>

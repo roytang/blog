@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/156998734395/working-with-client-server-programs
 - type: twitter
   url: https://twitter.com/roytang/statuses/829503436433547268/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155350845513912
 tags:
 - Software Development
 title: Working with Client-Server Programs

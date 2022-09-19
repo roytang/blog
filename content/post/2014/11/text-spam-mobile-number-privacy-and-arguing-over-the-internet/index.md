@@ -5,6 +5,8 @@ date: 2014-11-09 00:22:11
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/531240333997142016/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153346595818912
 title: Text spam, mobile number privacy and arguing over the internet
 type: post
 url: /2014/11/text-spam-mobile-number-privacy-and-arguing-over-the-internet/

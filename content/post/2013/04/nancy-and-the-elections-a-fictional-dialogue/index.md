@@ -5,6 +5,8 @@ date: 2013-04-25 14:14:16
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/327425369479192576/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152207721368912
 tags:
 - Opinions
 - philippines

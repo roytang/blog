@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/155414248685/client-and-server-validation-in-web-applications
 - type: twitter
   url: https://twitter.com/roytang/statuses/816821102462828544/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155251057378912
 tags:
 - Software Development
 title: Client and Server Validation in Web applications

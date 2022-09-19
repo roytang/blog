@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/154400160995/nine-ways-to-work-around-mental-blocks
 - type: twitter
   url: https://twitter.com/roytang/statuses/808485333427953669/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155176946158912
 tags:
 - Writing
 title: Nine Ways to Work Around Mental Blocks

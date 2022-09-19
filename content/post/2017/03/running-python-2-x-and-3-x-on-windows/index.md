@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/157884428980/running-python-2x-and-3x-on-windows
 - type: twitter
   url: https://twitter.com/roytang/statuses/837115319877533698/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155407411913912
 tags:
 - python
 - Software Development

@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/156288896135/notes-on-decision-making
 - type: twitter
   url: https://twitter.com/roytang/statuses/823705497866010624/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155305329758912
 tags:
 - Opinions
 title: Notes on Decision Making

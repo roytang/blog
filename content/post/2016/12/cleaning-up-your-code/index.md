@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/155095230190/cleaning-up-your-code
 - type: twitter
   url: https://twitter.com/roytang/statuses/814282670133964800/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155230309868912
 tags:
 - Software Development
 title: Cleaning up your Code

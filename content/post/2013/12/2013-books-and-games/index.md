@@ -10,6 +10,8 @@ reviews:
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/416959578710896640/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152691018748912
 tags:
 - Gaming
 - books

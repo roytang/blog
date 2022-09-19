@@ -6,6 +6,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/141535586985/poor-piccolo-lol
 - type: twitter
   url: https://twitter.com/roytang/statuses/712545737268142082/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154467025028912
 tags:
 - dragonballsuper
 ---

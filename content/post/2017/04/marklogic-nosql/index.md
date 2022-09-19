@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/159248321940/marklogic-nosql
 - type: twitter
   url: https://twitter.com/roytang/statuses/849820738102198272/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155506602228912
 tags:
 - Software Development
 title: MarkLogic NoSQL

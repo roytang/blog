@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/149268459960/bear1na-rogue-and-psylocke-by-kenneth-rocafort
 - type: twitter
   url: https://twitter.com/roytang/statuses/767347104163454976/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154840197203912
 ---
 
 <p><a class="tumblr_blog" href="http://bear1na.tumblr.com/post/119932955134">bear1na</a>:</p>

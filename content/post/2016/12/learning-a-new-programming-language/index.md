@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/154785178865/learning-a-new-programming-language
 - type: twitter
   url: https://twitter.com/roytang/statuses/811747729823199232/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155206011933912
 tags:
 - Software Development
 title: Learning a New Programming Language

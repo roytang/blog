@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/149721094835/britneyinventions-britney-spears-invented-the
 - type: twitter
   url: https://twitter.com/roytang/statuses/770768554895503360/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154866564708912
 ---
 
 <p><a class="tumblr_blog" href="http://britneyinventions.tumblr.com/post/100800448910">britneyinventions</a>:</p>

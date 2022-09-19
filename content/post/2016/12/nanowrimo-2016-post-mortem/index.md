@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/154099368165/nanowrimo-2016-post-mortem
 - type: twitter
   url: https://twitter.com/roytang/statuses/805948927166058496/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155148312503912
 tags:
 - Writing
 title: Nanowrimo 2016 Post-Mortem

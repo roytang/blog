@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/162111375975/web-frameworks-open-source-or-roll-your-own
 - type: twitter
   url: https://twitter.com/roytang/statuses/877764910188548096/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155779123813912
 tags:
 - Software Development
 title: Web Frameworks -- Open Source or Roll Your Own?

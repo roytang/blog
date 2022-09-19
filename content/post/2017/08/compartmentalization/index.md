@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/164080714155/compartmentalization
 - type: twitter
   url: https://twitter.com/roytang/statuses/896187062558261248/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155945924898912
 tags:
 - Self-Improvement
 title: Compartmentalization

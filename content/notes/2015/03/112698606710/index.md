@@ -8,4 +8,6 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/112698606710/turtlemasks
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153612309633912
 ---

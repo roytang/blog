@@ -16,6 +16,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/158531276530/review-final-fantasy-xv
 - type: twitter
   url: https://twitter.com/roytang/statuses/842912468863270912/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155455656778912
 tags:
 - Review
 - Gaming

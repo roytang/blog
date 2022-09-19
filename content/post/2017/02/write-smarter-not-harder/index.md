@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/157507996575/write-smarter-not-harder
 - type: twitter
   url: https://twitter.com/roytang/statuses/833852350179733504/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155384978583912
 tags:
 - Writing
 title: Write Smarter, Not Harder

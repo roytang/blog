@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/93678023165/gotg-spoilers-youre-welcome
 - type: twitter
   url: https://twitter.com/roytang/statuses/495920050285838337/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153128432593912
 ---
 
 <p>#GOTG spoilers. You&rsquo;re welcome.</p>

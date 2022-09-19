@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/150451178625/mtg-realm-magic-the-gathering-a-kaldesh-love
 - type: twitter
   url: https://twitter.com/roytang/statuses/776462295954288640/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154911048518912
 tags:
 - video
 - mtg

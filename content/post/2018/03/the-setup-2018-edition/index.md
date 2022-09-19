@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/171882327160/the-setup-2018-edition
 - type: twitter
   url: https://twitter.com/roytang/statuses/974088338021011456/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156494240803912
 tags:
 - Gaming
 - Tech Life

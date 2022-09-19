@@ -5,6 +5,8 @@ date: 2014-08-09 11:47:19
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/498073063942942723/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153141870928912
 tags:
 - birthday
 title: Thirty-Six

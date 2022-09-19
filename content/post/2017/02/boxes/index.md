@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/157801807630/boxes
 - type: twitter
   url: https://twitter.com/roytang/statuses/836389463391625216/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155402463453912
 tags:
 - Opinions
 title: Boxes

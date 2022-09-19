@@ -11,6 +11,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/91452810130/ilovecharts-is-this-going-to-be-a-good-project
 - type: twitter
   url: https://twitter.com/roytang/statuses/487594746463125504/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153083430968912
 ---
 
 <p><a href="http://ilovecharts.tumblr.com/post/91452690126/is-this-going-to-be-a-good-project" class="tumblr_blog">ilovecharts</a>:</p>

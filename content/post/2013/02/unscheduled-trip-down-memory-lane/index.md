@@ -5,6 +5,8 @@ date: 2013-02-08 06:50:44
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/299893933016760320/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/375033702594744
 tags:
 - Nostalgia
 title: Unscheduled trip down memory lane

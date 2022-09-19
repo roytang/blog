@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/170631485475/globes-fair-use-policy-and-the-rotten-bananas
 - type: twitter
   url: https://twitter.com/roytang/statuses/961417890678403072/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156401593133912
 tags:
 - Tech Life
 - favorites

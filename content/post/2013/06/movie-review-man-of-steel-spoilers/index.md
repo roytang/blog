@@ -2,14 +2,16 @@
 author: roy
 categories: []
 date: 2013-06-15 17:30:08
+reviews:
+- media: movies
+  title: Man of Steel (2013)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/345956429003382784/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152288945448912
 tags:
 - movies
-reviews:
-- media: movies
-  title: "Man of Steel (2013)"
 title: 'Movie Review: Man of Steel (Spoilers!)'
 type: post
 url: /2013/06/movie-review-man-of-steel-spoilers/

@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/85777214455/captainofalltheships-chrys-watches-got-x
 - type: twitter
   url: https://twitter.com/roytang/statuses/466757193073967104/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152960622643912
 ---
 
 <p><a href="http://captainofalltheships.tumblr.com/post/85575233942/chrys-watches-got-x" class="tumblr_blog">captainofalltheships</a>:</p>

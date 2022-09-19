@@ -14,6 +14,8 @@ syndicated:
   url: https://ireadcomicbooks.tumblr.com/post/180396282186/roytang-brianmichaelbendis-chris
 - type: twitter
   url: https://twitter.com/roytang/statuses/1065787225886085121/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151957835483912
 ---
 
 <p><a class="tumblr_blog" href="http://brianmichaelbendis.tumblr.com/post/37237755706/chris-bachalo-gallery-this-is-why-i-am-so">brianmichaelbendis</a>:</p>

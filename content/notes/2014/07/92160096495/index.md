@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/92160096495/agentmlovestacos-yes-its-tripleh-in-a
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153097678748912
 ---
 
 <p><a class="tumblr_blog" href="http://agentmlovestacos.com/post/81686808933/yes-its-tripleh-in-a-rocketraccoon-mask">agentmlovestacos</a>:</p>

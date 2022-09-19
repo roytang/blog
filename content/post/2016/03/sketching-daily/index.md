@@ -2,17 +2,19 @@
 author: roy
 categories: []
 date: 2016-03-15 15:39:33
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/709773745733259264/
-title: Sketching Daily
-type: post
-url: /2016/03/sketching-daily/
-tags:
-- favorites
 dontinlinephotos: true
 featuredResource:
   filename: 20160315_224636.jpg
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/709773745733259264/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154444141898912
+tags:
+- favorites
+title: Sketching Daily
+type: post
+url: /2016/03/sketching-daily/
 ---
 
 I've had a bit more free time recently, and I've been filling that time by starting up some hobbies (some old, some new). One of them has been sketching. I've been drawing things for as long as I remember -- I have elementary and high school notebooks with more doodles and x-men drawings than there are notes. And even at work, I often find other meeting participants checking out the random sketches I had been absently doing while other people were speaking.

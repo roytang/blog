@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/156694527375/handling-unexpected-errors-in-web-applications
 - type: twitter
   url: https://twitter.com/roytang/statuses/826967986628132866/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155331758048912
 tags:
 - Software Development
 title: Handling unexpected errors in web applications

@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/152360039435/it-should-be-easy-right
 - type: twitter
   url: https://twitter.com/roytang/statuses/791452958550548480/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155035506233912
 tags:
 - Software Development
 title: It Should Be Easy, Right?

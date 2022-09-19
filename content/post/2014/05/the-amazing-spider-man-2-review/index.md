@@ -2,9 +2,14 @@
 author: roy
 categories: []
 date: 2014-05-05 14:35:24
+reviews:
+- media: movies
+  title: Amazing Spider-Man 2 (2014)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/463326284458622976/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152940715228912
 tags:
 - Comics
 - Pop Culture
@@ -12,9 +17,6 @@ tags:
 title: The Amazing Spider-Man 2 Review!
 type: post
 url: /2014/05/the-amazing-spider-man-2-review/
-reviews:
-- media: movies
-  title: "Amazing Spider-Man 2 (2014)"
 ---
 
 Well, I haven't written anything in a while, so I figured I'd write some words on the new Spider-Man movie. Spoilers abound!

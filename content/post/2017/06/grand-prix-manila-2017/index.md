@@ -16,6 +16,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/161843110255/grand-prix-manila-2017
 - type: twitter
   url: https://twitter.com/roytang/statuses/875212334569930753/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155755791068912
 tags:
 - grand-prix
 - standard

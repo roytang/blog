@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/158171956790/fake-devs-and-whiteboard-interviews
 - type: twitter
   url: https://twitter.com/roytang/statuses/839650790486786054/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155428925883912
 tags:
 - Software Development
 title: Fake Devs and Whiteboard Interviews

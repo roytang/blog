@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/171398937145/lets-encrypt
 - type: twitter
   url: https://twitter.com/roytang/statuses/969018906449973248/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156455227773912
 tags:
 - Learning Things
 - Self-Improvement

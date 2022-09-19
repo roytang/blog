@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/158089393515/planning-reacting-relaxing
 - type: twitter
   url: https://twitter.com/roytang/statuses/838927216926941184/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155421276058912
 title: Planning / Reacting / Relaxing
 type: post
 url: /2017/03/planning-reacting-relaxing/

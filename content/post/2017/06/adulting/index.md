@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/162298851645/adulting
 - type: twitter
   url: https://twitter.com/roytang/statuses/879513183551148034/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155796191238912
 title: Adulting
 type: post
 url: /2017/06/adulting/

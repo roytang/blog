@@ -11,6 +11,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/162571925985/pisay-the-movie
 - type: twitter
   url: https://twitter.com/roytang/statuses/882050108887629825/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155823105313912
 tags:
 - Movies
 - Pop Culture

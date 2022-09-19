@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/169017917280/my-coding-approach
 - type: twitter
   url: https://twitter.com/roytang/statuses/946186540031660032/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156295305303912
 tags:
 - Software Development
 title: My Coding Approach

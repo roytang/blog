@@ -26,6 +26,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/161640913350/review-persona-5-you-never-saw-it-coming
 - type: twitter
   url: https://twitter.com/roytang/statuses/873354848841945088/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155735951968912
 tags:
 - Review
 - Gaming

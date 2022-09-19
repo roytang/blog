@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/162650311295/hardware-review-steam-link
 - type: twitter
   url: https://twitter.com/roytang/statuses/882775461666988032/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155829742548912
 tags:
 - Hardware
 - Gaming

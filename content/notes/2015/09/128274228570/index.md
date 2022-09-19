@@ -9,4 +9,6 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/128274228570
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154060664533912
 ---

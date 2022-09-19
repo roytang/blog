@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/242054686033735680/
 - type: reddit
   url: https://reddit.com/r/pics/comments/z7i8v/um_well_okay_if_you_say_so/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151830658728912
 ---
 
 <p>Um well okay, if you say so&hellip;</p>

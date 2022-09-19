@@ -5,6 +5,8 @@ date: 2015-04-12 02:33:34
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/587081134124707840/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153699675278912
 tags:
 - Travels
 - europe2015
@@ -81,4 +83,3 @@ Next: We travel to Rome! Or do we?!?
 
  [1]: /2015/03/europe-trip-2015/
  [2]: /2015/04/europe-2015-barcelona-part-1/
- 

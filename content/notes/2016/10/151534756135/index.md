@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/151534756135/methados-aristocrat-wolf
 - type: twitter
   url: https://twitter.com/roytang/statuses/784892978892505088/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154977311303912
 ---
 
 <p><a class="tumblr_blog" href="http://methados.tumblr.com/post/151490793553">methados</a>:</p>

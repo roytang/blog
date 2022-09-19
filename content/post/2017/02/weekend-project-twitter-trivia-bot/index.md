@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/157591662160/weekend-project-twitter-trivia-bot
 - type: twitter
   url: https://twitter.com/roytang/statuses/834578301146562565/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155389901738912
 tags:
 - projects
 - python

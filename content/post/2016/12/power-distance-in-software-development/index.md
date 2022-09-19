@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/154184871830/power-distance-in-software-development
 - type: twitter
   url: https://twitter.com/roytang/statuses/806674697677078528/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155155539588912
 tags:
 - Software Development
 title: Power Distance in Software Development

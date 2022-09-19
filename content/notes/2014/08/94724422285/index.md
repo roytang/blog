@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/94724422285/saltlakecomiccon-the-power-of-metaphor
 - type: twitter
   url: https://twitter.com/roytang/statuses/499920020999507970/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153153350693912
 ---
 
 <p><a class="tumblr_blog" href="http://saltlakecomiccon.tumblr.com/post/94597758755/the-power-of-metaphor">saltlakecomiccon</a>:</p>

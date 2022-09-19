@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/162027355450/a-bus-ride-in-metro-manila
 - type: twitter
   url: https://twitter.com/roytang/statuses/876976021160984576/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155771359673912
 tags:
 - Philippines
 title: A Bus Ride in Metro Manila

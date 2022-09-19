@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/154487142465/generalists-and-specialists-in-dev-teams
 - type: twitter
   url: https://twitter.com/roytang/statuses/809210001499820032/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155185669358912
 tags:
 - Software Development
 title: Generalists and Specialists in Dev Teams

@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/152273169180/daily-habits
 - type: twitter
   url: https://twitter.com/roytang/statuses/790727470102249472/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155030064713912
 tags:
 - Self-Improvement
 title: Daily Habits

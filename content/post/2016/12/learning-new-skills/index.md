@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/154700481275/learning-new-skills
 - type: twitter
   url: https://twitter.com/roytang/statuses/811021339221958656/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155200684403912
 tags:
 - Self-Improvement
 title: Learning New Skills

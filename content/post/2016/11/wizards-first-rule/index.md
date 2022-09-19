@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/153496463610/wizards-first-rule-and-demagoguery
 - type: twitter
   url: https://twitter.com/roytang/statuses/800876251342839808/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155111216018912
 tags:
 - Opinions
 title: Wizard's First Rule and Demagoguery

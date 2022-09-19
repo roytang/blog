@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/156913195500/gaming-walkthroughs
 - type: twitter
   url: https://twitter.com/roytang/statuses/828778870916730887/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155345245553912
 tags:
 - Gaming
 title: Gaming Walkthroughs

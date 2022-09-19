@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/155696317600/the-simplest-code-that-can-do-the-job
 - type: twitter
   url: https://twitter.com/roytang/statuses/818995252224790529/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155265756288912
 tags:
 - python
 - Software Development

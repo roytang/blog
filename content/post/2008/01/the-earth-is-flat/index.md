@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/874156787863232512
 - type: twitter
   url: https://twitter.com/roytang/status/874156787863232512/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155745077928912
 tags:
 - Nostalgia
 title: The Earth is Flat

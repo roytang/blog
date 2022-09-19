@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/152049049735/favor-composition-over-inheritance
 - type: twitter
   url: https://twitter.com/roytang/statuses/788916969630212096/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155014415973912
 tags:
 - Software Development
 title: Favor Composition Over Inheritance

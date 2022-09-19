@@ -13,6 +13,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/157377150285/review-duelyst
 - type: twitter
   url: https://twitter.com/roytang/statuses/832764982320246784/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155376632238912
 tags:
 - Review
 - ccgs

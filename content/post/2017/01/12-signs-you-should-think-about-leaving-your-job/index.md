@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/156605048785/12-signs-you-should-think-about-leaving-your-job
 - type: twitter
   url: https://twitter.com/roytang/statuses/826243376181891073/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155325775493912
 tags:
 - Opinions
 title: 12 Signs You Should Think About Leaving Your Job

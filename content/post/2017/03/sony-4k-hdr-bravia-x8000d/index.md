@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/158153649870/sony-4k-hdr-bravia-x8000d
 - type: twitter
   url: https://twitter.com/roytang/statuses/839508602750701570/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155427279598912
 tags:
 - Hardware
 - Review

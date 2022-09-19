@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/161756970360/tokyo-redux
 - type: twitter
   url: https://twitter.com/roytang/statuses/874440753019322369/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155749116598912
 tags:
 - Travels
 title: Tokyo, Redux

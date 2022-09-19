@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/169364670980/new-years-resolution-do-at-least-one-personally
 - type: twitter
   url: https://twitter.com/roytang/statuses/949445603775348736/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156317611648912
 tags:
 - Self-Improvement
 title: 'New Year''s Resolution: Do at least one personally productive thing per day'

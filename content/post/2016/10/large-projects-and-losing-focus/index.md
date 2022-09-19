@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/151637614745/large-projects-and-losing-focus
 - type: twitter
   url: https://twitter.com/roytang/statuses/785655698269040640/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154983569913912
 tags:
 - Opinions
 title: Large Projects and Losing Focus

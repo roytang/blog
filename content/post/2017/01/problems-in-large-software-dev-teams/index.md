@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/156378509465/problems-in-large-software-dev-teams
 - type: twitter
   url: https://twitter.com/roytang/statuses/824431448748920836/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155312945053912
 tags:
 - Software Development
 title: Problems in Large Software Dev Teams

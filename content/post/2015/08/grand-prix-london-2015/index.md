@@ -2,9 +2,15 @@
 author: roy
 categories: []
 date: 2015-08-31 13:36:12
+featuredResource:
+  filename: 11889502_10154022099223912_6484358864581399871_n.jpg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/638344620737347584/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154054033683912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153560245613912
 tags:
 - grand-prix
 - standard
@@ -13,8 +19,6 @@ tags:
 title: Grand Prix London 2015
 type: post
 url: /2015/08/grand-prix-london-2015/
-featuredResource: 
-  filename: 11889502_10154022099223912_6484358864581399871_n.jpg
 ---
 
 I was sent to London for work for a few months, which meant an opportunity to play a third GP for the year after [Manila back in January][1] and [Singapore back in June][2]. This will be the most GP events I've played in a one year period. I didn't have time to practice, so I went with an updated version of the Jeskai tempo deck I was playing at the start of Khans rotation.

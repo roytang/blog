@@ -4,6 +4,9 @@ aktt_notify_twitter:
 author: roy
 categories: []
 date: 2010-11-23 15:35:45
+syndicated:
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/147467868633893
 title: Randomly Amazed
 type: post
 url: /2010/11/randomly-amazed/
