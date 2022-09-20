@@ -1,5 +1,5 @@
 ---
-date: 2018-05-26 15:21:24+00:00
+date: 2018-05-26 15:21:24
 repost_source:
   name: luoman19921
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1000396492610285568/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156662537983912
 tags:
 - AvengersInfinityWar
 title: ''

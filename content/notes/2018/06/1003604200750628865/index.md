@@ -1,5 +1,5 @@
 ---
-date: 2018-06-04 11:47:42+00:00
+date: 2018-06-04 11:47:42
 repost_source:
   name: aurel_herve
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1003604200750628865/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156682429678912
 tags:
 - Microsoft
 - github

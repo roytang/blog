@@ -1,5 +1,5 @@
 ---
-date: 2018-06-26 23:44:24+00:00
+date: 2018-06-26 23:44:24
 repost_source:
   name: greggreiner
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1011757100605759488/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156732630393912
 tags:
 - aeabos
 title: ''

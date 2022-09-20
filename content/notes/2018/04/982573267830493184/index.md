@@ -1,5 +1,5 @@
 ---
-date: 2018-04-07 10:58:17+00:00
+date: 2018-04-07 10:58:17
 repost_source:
   name: madolaf
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/982573267830493184/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156555597938912
 tags:
 - GPSeattle
 title: ''

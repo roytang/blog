@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/176519775740/i-started-this-one-a-couple-of-days-ago-while
 - type: twitter
   url: https://twitter.com/roytang/statuses/1024674019767996416/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156815732683912
 tags:
 - sketchdaily
 ---

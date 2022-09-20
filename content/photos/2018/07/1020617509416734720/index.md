@@ -5,6 +5,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1020617509416734720/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156789600973912
 tags:
 - mtgnationalsph
 - mtg

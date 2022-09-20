@@ -1,5 +1,5 @@
 ---
-date: 2018-05-17 01:51:56+00:00
+date: 2018-05-17 01:51:56
 repost_source:
   name: BlazeHedgehog
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/996931290648592384/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156642546073912
 title: ''
 ---
 

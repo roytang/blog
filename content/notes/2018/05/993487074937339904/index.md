@@ -1,5 +1,5 @@
 ---
-date: 2018-05-07 13:45:51+00:00
+date: 2018-05-07 13:45:51
 repost_source:
   name: binarybucky
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/993487074937339904/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156622015643912
 title: ''
 ---
 

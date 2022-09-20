@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1011841558709133313/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156733139263912
 title: ''
 ---
 

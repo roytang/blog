@@ -1,5 +1,5 @@
 ---
-date: 2018-05-17 16:20:40+00:00
+date: 2018-05-17 16:20:40
 repost_source:
   name: Thomasevsmith
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/997149915816968192/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156643649748912
 title: ''
 ---
 

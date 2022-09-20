@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/990911105055670272/
 - type: twitter
   url: https://twitter.com/roytang/statuses/992791344660676609/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156605223878912
 ---
 
 Infinity War spoiler: we didnt get this scene (yet), maybe in avengers 4 

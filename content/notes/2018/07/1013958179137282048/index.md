@@ -1,5 +1,5 @@
 ---
-date: 2018-07-03 01:30:42+00:00
+date: 2018-07-03 01:30:42
 repost_source:
   name: starwarstuff
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1013958179137282048/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156746526218912
 title: ''
 ---
 

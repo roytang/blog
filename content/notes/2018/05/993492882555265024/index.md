@@ -1,5 +1,5 @@
 ---
-date: 2018-05-07 14:08:56+00:00
+date: 2018-05-07 14:08:56
 repost_source:
   name: Marvel
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/993492882555265024/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156622055753912
 tags:
 - LukeCage
 title: ''

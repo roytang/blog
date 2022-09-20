@@ -1,5 +1,5 @@
 ---
-date: 2018-06-03 05:40:17+00:00
+date: 2018-06-03 05:40:17
 repost_source:
   name: Calvinn_Hobbes
   type: twitter
@@ -8,5 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1003149349654675457/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156679438083912
 title: ''
 ---

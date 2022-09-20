@@ -1,5 +1,5 @@
 ---
-date: 2018-06-09 03:34:42+00:00
+date: 2018-06-09 03:34:42
 repost_source:
   name: PowerMila1
   type: twitter
@@ -8,5 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1005292073719746560/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156693401783912
 title: ''
 ---

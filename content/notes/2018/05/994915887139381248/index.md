@@ -1,5 +1,5 @@
 ---
-date: 2018-05-11 12:23:26+00:00
+date: 2018-05-11 12:23:26
 repost_source:
   name: marvelunsolved
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/994915887139381248/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156630474173912
 title: ''
 ---
 

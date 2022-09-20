@@ -1,5 +1,5 @@
 ---
-date: 2018-04-30 04:17:47+00:00
+date: 2018-04-30 04:17:47
 repost_source:
   name: MattNavarra
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/990807402638290944/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156604790488912
 title: ''
 ---
 
