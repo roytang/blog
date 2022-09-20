@@ -7,8 +7,10 @@ link:
   url: https://medium.com/@samwsoftware/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c
 slug: es6-tips-and-tricks-to-make-your-code-cleaner-shorter-and-easier-to-read
 source: pocket
-title: ES6 tips and tricks to make your code cleaner, shorter, and easier to read!
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/973223856482738177/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156487207228912
+title: ES6 tips and tricks to make your code cleaner, shorter, and easier to read!
 ---

@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155138719728912:0
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/58416a5076b8b2595e647376
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155138411928912
 tags:
 - bottleofwin
 - quiznight

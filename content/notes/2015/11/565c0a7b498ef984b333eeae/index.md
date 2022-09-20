@@ -6,6 +6,8 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/565c0a7b498ef984b333eeae
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154221901113912
 tags:
 - japan2015
 ---

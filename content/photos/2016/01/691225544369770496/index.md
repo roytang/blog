@@ -1,6 +1,6 @@
 ---
-date: 2016-01-24 11:46:26+00:00
 checkin_id: 56a4b98e498e252fda193b25
+date: 2016-01-24 11:46:26
 location: 5238339b11d29d0665758acf
 source: twitter
 syndicated:
@@ -12,8 +12,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/691225544369770496/
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/56a4b98e498e252fda193b25
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154332151643912
 ---
 
 Bacon!
 
-I'm at Buffalo's Wings N' Things - [@getbuffaloed](https://twitter.com/getbuffaloed/) in Makati City, Metro Manila https://www.swarmapp.com/c/23V36U3Nj7w 
+I'm at Buffalo's Wings N' Things - [@getbuffaloed](https://twitter.com/getbuffaloed/) in Makati City, Metro Manila https://www.swarmapp.com/c/23V36U3Nj7w
