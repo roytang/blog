@@ -1,12 +1,10 @@
 ---
-date: 2013-12-28 03:54:00+08:00
-dontinlinephotos: true
+date: 2013-12-27 19:54:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152689616978912
-tags:
-- fbreposts
+title: ''
 ---
 
 Up late watching British humor 

@@ -1,12 +1,10 @@
 ---
-date: 2013-05-14 21:03:00+08:00
-dontinlinephotos: true
+date: 2013-05-14 13:03:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152236267453912
-tags:
-- fbreposts
+title: ''
 ---
 
 One more some of you might remember. 

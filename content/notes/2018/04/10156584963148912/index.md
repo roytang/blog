@@ -1,12 +1,10 @@
 ---
-date: 2018-04-21 03:40:00+08:00
-dontinlinephotos: true
+date: 2018-04-20 19:40:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156584963148912
-tags:
-- fbreposts
+title: ''
 ---
 
 Current LSS 

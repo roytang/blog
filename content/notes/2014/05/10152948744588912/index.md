@@ -1,12 +1,10 @@
 ---
-date: 2014-05-09 23:18:00+08:00
-dontinlinephotos: true
+date: 2014-05-09 15:18:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152948744588912
-tags:
-- fbreposts
+title: ''
 ---
 
 https://www.youtube.com/watch?v=nM9AX2_SQjg This promo reminds me of the city hall showdown from The Dark Knight Rises

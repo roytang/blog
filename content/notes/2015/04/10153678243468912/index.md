@@ -1,12 +1,10 @@
 ---
-date: 2015-04-03 00:20:00+08:00
-dontinlinephotos: true
+date: 2015-04-02 16:20:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153678243468912
-tags:
-- fbreposts99
+title: ''
 ---
 
 Apparently buhay pa ang Van Halen. What decade is this?

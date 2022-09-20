@@ -1,12 +1,10 @@
 ---
-date: 2015-10-21 00:44:00+08:00
-dontinlinephotos: true
+date: 2015-10-20 16:44:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154154066763912
-tags:
-- fbreposts
+title: ''
 ---
 
 I was like, do I really want to watch the new trailer? I don't want to get overhyped, and it's probably like 80% footage we've already seen. Nope. No regrets!

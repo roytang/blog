@@ -1,12 +1,10 @@
 ---
-date: 2015-03-29 17:49:00+08:00
-dontinlinephotos: true
+date: 2015-03-29 09:49:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153668655023912
-tags:
-- fbreposts
+title: ''
 ---
 
 So Tekken 7 will have a fighter of Filipino descent named Josie Rizal. Hopefully Street Fighter follows suit with a character named Andrew Bonifacio 

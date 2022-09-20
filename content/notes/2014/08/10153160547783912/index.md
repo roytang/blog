@@ -1,12 +1,10 @@
 ---
-date: 2014-08-18 00:19:00+08:00
-dontinlinephotos: true
+date: 2014-08-17 16:19:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153160547783912
-tags:
-- fbreposts
+title: ''
 ---
 
 Come and get your love~ https://www.youtube.com/watch?v=NwKHrBQjzbE (my brother has been playing this on loop all day)

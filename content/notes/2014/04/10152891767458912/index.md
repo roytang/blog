@@ -1,12 +1,10 @@
 ---
-date: 2014-04-12 11:33:00+08:00
-dontinlinephotos: true
+date: 2014-04-12 03:33:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152891767458912
-tags:
-- fbreposts
+title: ''
 ---
 
 https://www.youtube.com/watch?v=V8b3I1fDjN4 Josiah Habana

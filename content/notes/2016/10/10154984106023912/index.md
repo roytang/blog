@@ -1,12 +1,10 @@
 ---
-date: 2016-10-11 15:20:00+08:00
-dontinlinephotos: true
+date: 2016-10-11 07:20:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154984106023912
-tags:
-- fbreposts
+title: ''
 ---
 
 If you haven't watched Parks and Rec, you're missing out. Even the minor characters are ridiculous 

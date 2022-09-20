@@ -1,12 +1,10 @@
 ---
-date: 2017-02-09 04:03:00+08:00
-dontinlinephotos: true
+date: 2017-02-08 20:03:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155350147303912
-tags:
-- fbreposts
+title: ''
 ---
 
 I love this city tonight I love this city always It bares its teeth like a light And spits me out after days 

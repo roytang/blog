@@ -1,12 +1,10 @@
 ---
-date: 2014-05-12 23:40:00+08:00
-dontinlinephotos: true
+date: 2014-05-12 15:40:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152955601188912
-tags:
-- fbreposts99
+title: ''
 ---
 
 I may have been a bit too amused by this

@@ -1,12 +1,10 @@
 ---
-date: 2018-03-23 09:24:00+08:00
-dontinlinephotos: true
+date: 2018-03-23 01:24:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156515598683912
-tags:
-- fbreposts
+title: ''
 ---
 
 Unexpected Terry Crews 

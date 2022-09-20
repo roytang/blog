@@ -1,12 +1,10 @@
 ---
-date: 2015-04-13 22:02:00+08:00
-dontinlinephotos: true
+date: 2015-04-13 14:02:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153702823513912
-tags:
-- fbreposts
+title: ''
 ---
 
 Ant-Man! 

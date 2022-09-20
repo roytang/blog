@@ -1,12 +1,10 @@
 ---
-date: 2015-10-14 06:37:00+08:00
-dontinlinephotos: true
+date: 2015-10-13 22:37:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154142647548912
-tags:
-- fbreposts
+title: ''
 ---
 
 Say it ain't so / I will not go / turn the lights off / carry me home

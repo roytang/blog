@@ -1,12 +1,10 @@
 ---
-date: 2018-02-08 22:26:00+08:00
-dontinlinephotos: true
+date: 2018-02-08 14:26:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156402444398912
-tags:
-- fbreposts
+title: ''
 ---
 
 This "teaser trailer" is terrible, but I kind of like Tom Hardy as Venom because Bane and Venom are kind of the same shape and kind of have the same eyes 

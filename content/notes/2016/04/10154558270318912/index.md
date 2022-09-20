@@ -1,13 +1,12 @@
 ---
-date: 2016-04-25 23:18:00+08:00
-dontinlinephotos: true
+date: 2016-04-25 15:18:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154558270318912
 tags:
-- fbreposts
 - marvel
+title: ''
 ---
 
 This week: Civil War. Next month: Apocalypse #marvel

@@ -1,12 +1,10 @@
 ---
-date: 2014-01-27 21:32:00+08:00
-dontinlinephotos: true
+date: 2014-01-27 13:32:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152751384918912
-tags:
-- fbreposts
+title: ''
 ---
 
 Everyone here, knows everyone here is thinking 'bout somebody else http://www.youtube.com/watch?v=2X5Dr-uFVGw 

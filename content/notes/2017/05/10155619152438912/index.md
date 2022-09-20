@@ -1,12 +1,10 @@
 ---
-date: 2017-05-14 01:04:00+08:00
-dontinlinephotos: true
+date: 2017-05-13 17:04:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155619152438912
-tags:
-- fbreposts
+title: ''
 ---
 
 The worst thing about this version is that there's no SPARKING!

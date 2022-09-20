@@ -1,12 +1,10 @@
 ---
-date: 2013-08-30 23:35:00+08:00
-dontinlinephotos: true
+date: 2013-08-30 15:35:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152436841283912
-tags:
-- fbreposts
+title: ''
 ---
 
 Hearing the zelda overworld theme raises my oxytocin levels or something

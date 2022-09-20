@@ -1,12 +1,10 @@
 ---
-date: 2018-02-17 21:21:00+08:00
-dontinlinephotos: true
+date: 2018-02-17 13:21:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156425544463912
-tags:
-- fbreposts
+title: ''
 ---
 
 Times are hard when things have got no meaning I've found a key upon the floor Maybe you and I will not believe in the things we find Behind the door

@@ -1,12 +1,10 @@
 ---
-date: 2016-09-23 01:17:00+08:00
-dontinlinephotos: true
+date: 2016-09-22 17:17:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154931067173912
-tags:
-- fbreposts
+title: ''
 ---
 
 Pahabol sa anime OST throwback thursday (kasalanan ni Marco Sancho)

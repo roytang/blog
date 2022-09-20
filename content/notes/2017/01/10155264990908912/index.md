@@ -1,12 +1,10 @@
 ---
-date: 2017-01-11 02:21:00+08:00
-dontinlinephotos: true
+date: 2017-01-10 18:21:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155264990908912
-tags:
-- fbreposts
+title: ''
 ---
 
 Best Megaman stage music 

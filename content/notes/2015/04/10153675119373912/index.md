@@ -1,12 +1,10 @@
 ---
-date: 2015-04-01 12:36:00+08:00
-dontinlinephotos: true
+date: 2015-04-01 04:36:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153675119373912
-tags:
-- fbreposts99
+title: ''
 ---
 
 I'd watch it

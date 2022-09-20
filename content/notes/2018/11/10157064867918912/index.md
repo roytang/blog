@@ -1,12 +1,10 @@
 ---
-date: 2018-11-19 23:24:00+08:00
-dontinlinephotos: true
+date: 2018-11-19 15:24:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157064867918912
-tags:
-- fbreposts
+title: ''
 ---
 
 These days it's easy to guess whether any given John Oliver episode will feature our country https://www.youtube.com/watch?v=ximgPmJ9A5s

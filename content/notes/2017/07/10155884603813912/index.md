@@ -1,12 +1,10 @@
 ---
-date: 2017-07-22 16:04:00+08:00
-dontinlinephotos: true
+date: 2017-07-22 08:04:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155884603813912
-tags:
-- fbreposts99
+title: ''
 ---
 
 August 18! 

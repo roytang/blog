@@ -1,12 +1,10 @@
 ---
-date: 2013-12-18 23:43:00+08:00
-dontinlinephotos: true
+date: 2013-12-18 15:43:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152671186228912
-tags:
-- fbreposts
+title: ''
 ---
 
 http://www.youtube.com/watch?v=ZOq4IiuRMWk#t=11 WTH Nintendo. Luis Formilleza

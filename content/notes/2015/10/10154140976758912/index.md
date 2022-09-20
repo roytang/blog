@@ -1,15 +1,11 @@
 ---
-date: 2015-10-13 04:08:00+08:00
-dontinlinephotos: true
+date: 2015-10-12 20:08:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154140976758912
-tags:
-- fbreposts
+title: ''
 ---
-
-
 
 [Europe - The Final Countdown (Official Video)](https://www.youtube.com/attribution_link?a=GUgygJ0aOYE&u=%2Fwatch%3Fv%3D9jK-NcRmVcw%26feature%3Dshare)
 

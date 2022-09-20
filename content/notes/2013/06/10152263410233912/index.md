@@ -1,15 +1,11 @@
 ---
-date: 2013-06-01 17:39:00+08:00
-dontinlinephotos: true
+date: 2013-06-01 09:39:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152263410233912
-tags:
-- fbreposts
+title: ''
 ---
-
-
 
 [Whose Line is it Anyway? With Special Guest Robin Williams Full Episode](https://www.youtube.com/watch?v=nTQRxHeUbHY)
 

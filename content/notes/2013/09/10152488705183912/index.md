@@ -1,12 +1,10 @@
 ---
-date: 2013-09-25 22:03:00+08:00
-dontinlinephotos: true
+date: 2013-09-25 14:03:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152488705183912
-tags:
-- fbreposts
+title: ''
 ---
 
 How many of you can draw? 

@@ -1,12 +1,10 @@
 ---
-date: 2016-12-06 22:46:00+08:00
-dontinlinephotos: true
+date: 2016-12-06 14:46:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155149751753912
-tags:
-- fbreposts
+title: ''
 ---
 
 "One billion trillion planets in the cosmos. You want to know don't you. Why do they keep coming here?" Yes, Mr Anthony Hopkins. Yes I do. I wonder if Michael Bay manages to give us a sensible reason haha 

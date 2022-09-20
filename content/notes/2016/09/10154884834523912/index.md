@@ -1,12 +1,10 @@
 ---
-date: 2016-09-06 14:43:00+08:00
-dontinlinephotos: true
+date: 2016-09-06 06:43:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154884834523912
-tags:
-- fbreposts
+title: ''
 ---
 
 "But I could have told you, Vincent, This world was never meant for one. As beautiful as you"

@@ -1,12 +1,10 @@
 ---
-date: 2014-04-07 14:30:00+08:00
-dontinlinephotos: true
+date: 2014-04-07 06:30:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152882474448912
-tags:
-- fbreposts99
+title: ''
 ---
 
 More Beatles for today

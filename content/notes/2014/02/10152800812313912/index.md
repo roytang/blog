@@ -1,12 +1,10 @@
 ---
-date: 2014-02-22 12:50:00+08:00
-dontinlinephotos: true
+date: 2014-02-22 04:50:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152800812313912
-tags:
-- fbreposts
+title: ''
 ---
 
 Not enough sleep? Rock out for a bit 

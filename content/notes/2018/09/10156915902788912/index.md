@@ -1,12 +1,10 @@
 ---
-date: 2018-09-14 00:53:00+08:00
-dontinlinephotos: true
+date: 2018-09-13 16:53:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156915902788912
-tags:
-- fbreposts99
+title: ''
 ---
 
 https://youtu.be/cIxmxDvHkWU

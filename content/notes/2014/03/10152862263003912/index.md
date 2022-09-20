@@ -1,12 +1,10 @@
 ---
-date: 2014-03-28 02:01:00+08:00
-dontinlinephotos: true
+date: 2014-03-27 18:01:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152862263003912
-tags:
-- fbreposts
+title: ''
 ---
 
 https://www.youtube.com/watch?v=nCjsWpM9zFU The turtles are huge! (Las tortugas son muy grande)
