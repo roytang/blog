@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1552013302
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154379313173912
 tags:
 - books
 - harry potter

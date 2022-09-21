@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/2109440552
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155996271808912
 tags:
 - books
 - mistborn

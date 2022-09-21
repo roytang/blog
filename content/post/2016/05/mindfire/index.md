@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1644365650
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154614348888912
 tags:
 - books
 title: 'Book Review: Mindfire: Big Ideas for Curious Minds by Berkun, Scott'

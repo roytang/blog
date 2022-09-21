@@ -11,6 +11,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1608160555
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154529069593912
 tags:
 - books
 title: 'Book Review: Surely You''re Joking, Mr. Feynman!: Adventures of a Curious

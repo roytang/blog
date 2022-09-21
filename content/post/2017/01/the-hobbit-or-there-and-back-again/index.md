@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1867502912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155253047773912
 tags:
 - books
 title: 'Book Review: The Hobbit or There and Back Again by Tolkien, J.R.R.'

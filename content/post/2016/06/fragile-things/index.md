@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1672855718
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154710843108912
 tags:
 - books
 title: 'Book Review: Fragile Things: Short Fictions and Wonders by Gaiman, Neil'

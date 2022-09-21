@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1852306030
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155225046138912
 tags:
 - books
 title: 'Book Review: The Prince by Machiavelli, Niccolò'

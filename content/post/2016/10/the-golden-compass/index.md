@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1778115581
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154973496403912
 tags:
 - books
 - dark materials

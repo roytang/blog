@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1557533990
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154391241903912
 tags:
 - books
 title: 'Book Review: Guns, Germs, and Steel: The Fates of Human Societies by Diamond,

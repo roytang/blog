@@ -12,6 +12,8 @@ syndicated:
   url: https://www.goodreads.com/review/show/1822050997
 - type: twitter
   url: https://twitter.com/roytang/statuses/802546658198241280/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155123034498912
 tags:
 - books
 - dark materials

@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1672856419
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154682324153912
 tags:
 - books
 title: 'Book Review: Epic Legends of the Magic Sword Kings by Holkins, Jerry'

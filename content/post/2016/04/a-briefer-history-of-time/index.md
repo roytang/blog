@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1599710231
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154509453018912
 tags:
 - books
 title: 'Book Review: A Briefer History of Time by Hawking, Stephen'

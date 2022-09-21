@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1919268914
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155383574678912
 tags:
 - books
 title: 'Book Review: What the Dog Saw and Other Adventures by Gladwell, Malcolm'

@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1905365439
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155345547988912
 tags:
 - books
 - gaiman

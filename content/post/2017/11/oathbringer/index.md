@@ -10,6 +10,8 @@ syndicated:
   url: https://www.goodreads.com/review/show/2194413224
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156212432178912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156212433658912
 tags:
 - books
 - sanderson

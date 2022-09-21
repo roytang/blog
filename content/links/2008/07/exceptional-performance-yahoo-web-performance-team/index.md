@@ -7,6 +7,9 @@ link:
   url: http://developer.yahoo.com/performance/
 slug: exceptional-performance-yahoo-web-performance-team
 source: delicious
+syndicated:
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/22602543604
 tags:
 - web
 - webdesign

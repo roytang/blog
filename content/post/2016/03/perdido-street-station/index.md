@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1594067798
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154492046533912
 tags:
 - books
 title: 'Book Review: Perdido Street Station by Miéville, China'
