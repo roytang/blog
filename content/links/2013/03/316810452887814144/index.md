@@ -1,5 +1,5 @@
 ---
-date: 2013-03-27 07:14:32+00:00
+date: 2013-03-27 07:14:32
 link:
   source: twitter
   source_url: https://twitter.com/roytang/statuses/316810452887814144/
@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/316810452887814144/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152164091978912
 title: ''
 ---
 
