@@ -7,8 +7,10 @@ link:
   url: http://www.galactanet.com/oneoff/theegg.html
 slug: the-egg
 source: pocket
-title: The Egg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/989139022483279872/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156594961243912
+title: The Egg
 ---

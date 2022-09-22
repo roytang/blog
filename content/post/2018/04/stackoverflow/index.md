@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/173402418810/stackoverflow
 - type: twitter
   url: https://twitter.com/roytang/statuses/990424748806017025/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156602498393912
 tags:
 - Software Development
 title: StackOverflow

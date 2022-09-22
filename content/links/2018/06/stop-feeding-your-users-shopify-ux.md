@@ -11,4 +11,6 @@ title: "Stop \u201Cfeeding\u201D your users - Shopify UX"
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1003979530200076288/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156685016358912
 ---

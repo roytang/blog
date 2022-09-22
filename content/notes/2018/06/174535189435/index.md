@@ -6,6 +6,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/174535189435/playing-skyrim-i-have-my-wife-aela-and-adopted
 - type: twitter
   url: https://twitter.com/roytang/statuses/1003317865909555200/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156680641783912
 tags:
 - skyrim
 ---

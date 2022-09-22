@@ -7,8 +7,10 @@ link:
   url: http://danluu.com/hiring-lemons/
 slug: hiring-and-the-market-for-lemons
 source: pocket
-title: Hiring and the market for lemons
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/984830404808069121/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156570224983912
+title: Hiring and the market for lemons
 ---

@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1018167300623511552/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156773486993912
 tags:
 - git
 - tips

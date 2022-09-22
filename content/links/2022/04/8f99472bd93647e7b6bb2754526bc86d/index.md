@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108153766137252033
 - type: twitter
   url: https://twitter.com/roytang/status/1516075345409380353/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156546058328912
 tags:
 - tech-life
 title: The death of the newsfeed — Benedict Evans

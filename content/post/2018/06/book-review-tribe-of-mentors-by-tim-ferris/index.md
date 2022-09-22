@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/174962368170/book-review-tribe-of-mentors-by-tim-ferris
 - type: twitter
   url: https://twitter.com/roytang/statuses/1008164642093522945/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156710320873912
 tags:
 - Books
 - Pop Culture

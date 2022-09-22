@@ -13,4 +13,6 @@ title: 'Serverless apps: Architecture, patterns, and Azure implementation | Micr
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1014930446440943616/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156752782953912
 ---

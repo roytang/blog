@@ -7,8 +7,10 @@ link:
   url: https://www.redblobgames.com/maps/terrain-from-noise/
 slug: making-maps-with-noise-functions
 source: pocket
-title: Making maps with noise functions
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/981211582444261376/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156547221033912
+title: Making maps with noise functions
 ---

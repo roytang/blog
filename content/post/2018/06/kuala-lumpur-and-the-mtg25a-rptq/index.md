@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/174930816550/kuala-lumpur-and-the-mtg25a-rptq
 - type: twitter
   url: https://twitter.com/roytang/statuses/1007802329796632576/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156707948158912
 tags:
 - standard
 - tournament-report

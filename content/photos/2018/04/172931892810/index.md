@@ -6,6 +6,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/172931892810
 - type: twitter
   url: https://twitter.com/roytang/statuses/985219035427233792/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156572370633912
 tags:
 - transformers
 ---

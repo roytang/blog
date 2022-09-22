@@ -10,6 +10,8 @@ syndicated:
   url: https://ireadcomicbooks.tumblr.com/post/180570749755/roytang-uncanny-x-men-325-for-some-reason-i
 - type: twitter
   url: https://twitter.com/roytang/statuses/1067599194037329922/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156654108053912
 ---
 
 <p>Uncanny X-Men #325 For some reason I always liked the Wolverine and Colossus commentary in this issue</p>

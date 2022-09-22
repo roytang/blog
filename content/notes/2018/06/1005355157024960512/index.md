@@ -5,6 +5,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1005355157024960512/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156693680868912
 tags:
 - mtg
 title: ''
@@ -12,18 +14,4 @@ title: ''
 
 Remember 
 
-{{% quoted url="https://twitter.com/roytang/status/941696039941111808" label="roytang's tweet" %}}
-
-1. read the cards
-
-2. mulligan well
-
-3. think before scooping
-
-4. life is unfair
-
-
-
-#mtg
-
-{{% /quoted %}}
+{{% note "2017/12/941696039941111808/" %}}

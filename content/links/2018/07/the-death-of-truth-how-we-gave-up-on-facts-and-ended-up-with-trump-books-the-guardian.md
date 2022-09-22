@@ -13,4 +13,6 @@ title: 'The death of truth: how we gave up on facts and ended up with Trump | Bo
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1018119535650574336/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156773054708912
 ---

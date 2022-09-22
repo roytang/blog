@@ -1,5 +1,5 @@
 ---
-date: 2018-05-29 14:34:32+00:00
+date: 2018-05-29 14:34:32
 link:
   source: twitter
   source_url: https://twitter.com/roytang/statuses/1001471861530636288/
@@ -10,6 +10,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1001471861530636288/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156668600498912
 tags:
 - tech
 - feedly

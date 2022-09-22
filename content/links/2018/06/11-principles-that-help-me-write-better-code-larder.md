@@ -11,4 +11,6 @@ title: 11 principles that help me write better code | Larder
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1003889003962294273/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156684536188912
 ---

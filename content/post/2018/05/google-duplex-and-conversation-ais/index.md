@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/173847026285/google-duplex-and-conversation-ais
 - type: twitter
   url: https://twitter.com/roytang/statuses/995495428085907457/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156634083698912
 tags:
 - Tech Life
 title: Google Duplex and Conversation AIs

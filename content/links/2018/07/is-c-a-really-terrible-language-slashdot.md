@@ -11,4 +11,6 @@ title: Is C++ a 'Really Terrible Language'? - Slashdot
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1015919508245110785/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156758954388912
 ---
