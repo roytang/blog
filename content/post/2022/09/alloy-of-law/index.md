@@ -1,10 +1,15 @@
 ---
-date: 2022-09-22T20:24:44+08:00
+date: 2022-09-22 12:24:44
 reviews:
 - media: books
   rating: 4.0
   title: The Alloy of Law by Brandon Sanderson
 source: goodreads
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/109042134253998684
+- type: twitter
+  url: https://twitter.com/roytang/status/1572930905739382784/
 tags:
 - books
 - mistborn
