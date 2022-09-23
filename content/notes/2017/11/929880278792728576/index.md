@@ -8,9 +8,13 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/929880278792728576/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156180915873912
 title: ''
 ---
 
 There should be a term for this. Maybe “algorithmic radicalization.”
 
-https://www.nytimes.com/2017/11/12/technology/social-media-disinformation.htmlhttps://www.nytimes.com/2017/11/12/technology/social-media-disinformation.html https://www.buzzfeed.com/vijaypandurangan/how-can-we-kill-fake-news
+https://www.nytimes.com/2017/11/12/technology/social-media-disinformation.html
+
+https://www.buzzfeed.com/vijaypandurangan/how-can-we-kill-fake-news

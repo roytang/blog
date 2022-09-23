@@ -11,11 +11,19 @@ title: 'X-Men: Days of Future Past'
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152978040583912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152978337133912
 ---
 
 Watched X-Men: Days of Future Past at Trinoma.
 
 {{% note /2014/05/chpdbl9/ %}}
+
+<time>[2014-05-24, 00:55]</time> As an X-Men fan, I really liked Days of Future Past. Bryan Singer set out to correct the mistakes of the past (literally), and he delivered, and the payoff at the end was great. This was the X-Men movie we deserved! Here, have some more X-Men: 
+
+[Xmen animated series theme](https://www.youtube.com/watch?v=7IzSGvXc_PM)
+
+{{% youtube 7IzSGvXc_PM %}}
 
 Nitpicks from group chats:
 

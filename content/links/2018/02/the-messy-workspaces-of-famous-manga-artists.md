@@ -7,10 +7,12 @@ link:
   url: https://kotaku.com/the-messy-workspaces-of-famous-manga-artists-1763478307
 slug: the-messy-workspaces-of-famous-manga-artists
 source: pocket
-title: The Messy Workspaces of Famous Manga Artists
 syndicated:
 - type: pocket
   url: https://kotaku.com/the-messy-workspaces-of-famous-manga-artists-1763478307
 - type: twitter
   url: https://twitter.com/roytang/statuses/966221335260286976/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156435380198912
+title: The Messy Workspaces of Famous Manga Artists
 ---
