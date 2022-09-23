@@ -1,10 +1,11 @@
 {
   "id": "69102f9b-e0f1-4d62-9462-592901b3dc73",
   "name": "Brian Jefferson Tan",
-  "url": "/barayantan",
+  "url": "http://facebook.com/barayantan",
   "text": "Did u see the cup noodle XV commercial?",
-  "date": "2017-01-07 13:01:01",
+  "date": "2017-01-07 05:01:01 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155256940218912:0#10155257004168912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

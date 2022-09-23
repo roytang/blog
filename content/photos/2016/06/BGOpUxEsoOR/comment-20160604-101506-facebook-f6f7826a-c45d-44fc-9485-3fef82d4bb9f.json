@@ -1,10 +1,11 @@
 {
   "id": "f6f7826a-c45d-44fc-9485-3fef82d4bb9f",
   "name": "Roy Tang",
-  "url": "/stephen.roy.tang",
+  "url": "http://facebook.com/stephen.roy.tang",
   "text": "Luis Formilleza",
-  "date": "2016-06-04 10:15:06",
+  "date": "2016-06-04 02:15:06 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154644055948912:3#10154646026608912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

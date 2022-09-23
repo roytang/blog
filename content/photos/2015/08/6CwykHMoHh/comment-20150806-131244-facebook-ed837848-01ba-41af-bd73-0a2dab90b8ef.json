@@ -1,10 +1,11 @@
 {
   "id": "ed837848-01ba-41af-bd73-0a2dab90b8ef",
   "name": "Liz Garcia",
-  "url": "/lizbethjanegarcia",
+  "url": "http://facebook.com/lizbethjanegarcia",
   "text": "rank the meats!",
-  "date": "2015-08-06 13:12:44",
+  "date": "2015-08-06 05:12:44 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153996215693912:0#10153996342743912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

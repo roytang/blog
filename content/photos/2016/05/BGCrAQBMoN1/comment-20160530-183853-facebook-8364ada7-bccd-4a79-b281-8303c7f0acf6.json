@@ -1,10 +1,11 @@
 {
   "id": "8364ada7-bccd-4a79-b281-8303c7f0acf6",
   "name": "Liz Garcia",
-  "url": "/lizbethjanegarcia",
+  "url": "http://facebook.com/lizbethjanegarcia",
   "text": "ampogi ni saitama a!",
-  "date": "2016-05-30 18:38:53",
+  "date": "2016-05-30 10:38:53 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154634019628912:1#10154635728618912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

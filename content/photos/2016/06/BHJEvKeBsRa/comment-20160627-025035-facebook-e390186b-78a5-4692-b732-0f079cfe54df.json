@@ -1,10 +1,11 @@
 {
   "id": "e390186b-78a5-4692-b732-0f079cfe54df",
   "name": "Pinoy Hatdog",
-  "url": "/pinoyhatdog",
+  "url": "http://facebook.com/pinoyhatdog",
   "text": "But, none of them die during the first encounter with the enemy! Well, maybe save for Mario (c'mon, admit it - you died to the first goomba during your first play-through).",
-  "date": "2016-06-27 02:50:35",
+  "date": "2016-06-26 18:50:35 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154702190128912:0#10154702551993912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

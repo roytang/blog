@@ -1,10 +1,11 @@
 {
   "id": "3fce61af-5196-4ca9-90af-17e5445571c3",
   "name": "Arthur Abon ",
-  "url": "/arthur.abon",
+  "url": "http://facebook.com/arthur.abon",
   "text": "anong medium Roy?",
-  "date": "2016-08-20 18:42:59",
+  "date": "2016-08-20 10:42:59 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154838075413912:0#10154838509653912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

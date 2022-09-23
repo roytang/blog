@@ -1,10 +1,11 @@
 {
   "id": "9ebeba4b-7f6c-422c-af5e-cd24ae546bfc",
   "name": "Roy Tang",
-  "url": "/stephen.roy.tang",
+  "url": "http://facebook.com/stephen.roy.tang",
   "text": "It's greasy lol. I think duck > beef > chicken",
-  "date": "2015-08-06 13:12:45",
+  "date": "2015-08-06 05:12:45 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153996215693912:0#10153996343198912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

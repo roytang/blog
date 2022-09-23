@@ -1,10 +1,11 @@
 {
   "id": "0458c596-b7d9-41fb-9a8e-2eed1b1b2335",
   "name": "Lorenz Ponce",
-  "url": "/lponce",
+  "url": "http://facebook.com/lponce",
   "text": "self portrait?",
-  "date": "2016-05-28 15:37:16",
+  "date": "2016-05-28 07:37:16 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154630848958912:0#10154640298133912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

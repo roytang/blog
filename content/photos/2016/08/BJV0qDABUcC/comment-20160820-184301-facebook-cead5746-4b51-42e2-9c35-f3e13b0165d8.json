@@ -1,11 +1,12 @@
 {
   "id": "cead5746-4b51-42e2-9c35-f3e13b0165d8",
   "name": "Arthur Abon ",
-  "url": "/arthur.abon",
+  "url": "http://facebook.com/arthur.abon",
   "text": "Coolness!",
-  "date": "2016-08-20 18:43:01",
+  "date": "2016-08-20 10:43:01 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154838075413912:0#10154838735373912",
   "source": "facebook",
+  "spam": false,
   "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154838075413912:0#10154838509653912"
 }

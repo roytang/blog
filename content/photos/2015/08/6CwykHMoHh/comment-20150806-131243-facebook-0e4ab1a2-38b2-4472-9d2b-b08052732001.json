@@ -1,10 +1,11 @@
 {
   "id": "0e4ab1a2-38b2-4472-9d2b-b08052732001",
   "name": "Liz Garcia",
-  "url": "/lizbethjanegarcia",
+  "url": "http://facebook.com/lizbethjanegarcia",
   "text": "what's the verdict?",
-  "date": "2015-08-06 13:12:43",
+  "date": "2015-08-06 05:12:43 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153996215693912:0#10153996342608912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

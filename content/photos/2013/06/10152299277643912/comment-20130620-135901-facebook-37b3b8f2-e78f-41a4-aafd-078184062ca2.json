@@ -1,10 +1,11 @@
 {
   "id": "37b3b8f2-e78f-41a4-aafd-078184062ca2",
   "name": "Kerwin Tang",
-  "url": "/kerwin.j.tang",
+  "url": "http://facebook.com/kerwin.j.tang",
   "text": "ipost mo din yung samin",
-  "date": "2013-06-20 13:59:01",
+  "date": "2013-06-20 05:59:01 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152299277643912#10152299280753912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

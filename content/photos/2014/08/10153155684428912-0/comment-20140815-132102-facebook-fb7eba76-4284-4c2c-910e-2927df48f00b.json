@@ -1,10 +1,11 @@
 {
   "id": "fb7eba76-4284-4c2c-910e-2927df48f00b",
   "name": "Marco Sancho",
-  "url": "/marco.sancho",
+  "url": "http://facebook.com/marco.sancho",
   "text": "Lol. You win.",
-  "date": "2014-08-15 13:21:02",
+  "date": "2014-08-15 05:21:02 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153155684428912:0#10153155828478912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

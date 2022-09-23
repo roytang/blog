@@ -1,10 +1,11 @@
 {
   "id": "645d7a27-53b4-47ec-a17e-5c431d7601cb",
   "name": "Tin Rabe",
-  "url": "/christine.rabe",
+  "url": "http://facebook.com/christine.rabe",
   "text": "#becmunnies",
-  "date": "2015-05-22 04:44:02",
+  "date": "2015-05-21 20:44:02 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153791271218912:0#10153791874863912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

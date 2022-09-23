@@ -1,11 +1,12 @@
 {
   "id": "2bb9601a-f08b-4812-990a-5535a3c7e9ce",
   "name": "Arthur Abon",
-  "url": "/arthur.abon",
+  "url": "http://facebook.com/arthur.abon",
   "text": "Ah thanks for the remind Roy! Forgot Dolores' name.",
-  "date": "2016-06-28 02:10:55",
+  "date": "2016-06-27 18:10:55 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154702190128912:2#10154710541973912",
   "source": "facebook",
+  "spam": false,
   "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154702190128912:2#10154704562473912"
 }

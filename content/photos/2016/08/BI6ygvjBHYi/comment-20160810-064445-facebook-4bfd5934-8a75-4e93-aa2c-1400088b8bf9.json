@@ -1,10 +1,11 @@
 {
   "id": "4bfd5934-8a75-4e93-aa2c-1400088b8bf9",
   "name": "Jonathan Sahagun",
-  "url": "/aj.sahagun",
+  "url": "http://facebook.com/aj.sahagun",
   "text": "there's a bat",
-  "date": "2016-08-10 06:44:45",
+  "date": "2016-08-09 22:44:45 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154810849108912:0#10154810859753912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }
