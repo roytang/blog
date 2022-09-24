@@ -11,4 +11,6 @@ title: "The Stack Overflow Age \u2013 Joel on Software"
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/982265151968624642/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156553758748912
 ---

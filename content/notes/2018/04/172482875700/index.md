@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/172482875700/theartofanimation-glen-brogan
 - type: twitter
   url: https://twitter.com/roytang/statuses/980458418753490945/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156542314398912
 ---
 
 <p><a href="http://theartofanimation.tumblr.com/post/172481419555/glen-brogan" class="tumblr_blog">theartofanimation</a>:</p><blockquote><p><a href="http://www.albinoraven.com/artwork/Personal/art.html">Glen Brogan

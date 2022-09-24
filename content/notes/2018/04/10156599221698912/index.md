@@ -1,9 +1,5 @@
 ---
 date: 2018-04-27 23:06:00+08:00
-reviews:
-- description: Spoiler-free review
-  media: movies
-  title: Avengers Infinity War (2018)
 source: facebook
 syndicated:
 - type: facebook
@@ -21,3 +17,5 @@ Avengers Infinity War Spoiler Free Review:
 - the plot moves quickly. there is no good time to pee.
 - there is one post-credits scene.
 - very happy to have watched in imax
+
+Related: [Full Review](/2018/04/avengers-infinity-war/)

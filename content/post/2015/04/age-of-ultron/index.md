@@ -62,3 +62,4 @@ Nit picks / weird stuff:
 Comparing this to the first movie, the biggest problem is that the threat they face here isn’t quite as compelling as an alien invasion of Earth. Add to that the fact that the current problem is basically Tony’s fault so plot-wise it’s a bit weaker. But everything else felt more satisfying. Everyone else got more stuff to do. There’s bigger fights, faster pacing and everyone got a chance to shine.
 
 Looking forward to Ant-Man later this year!
+

@@ -11,4 +11,7 @@ title: 'How One Developer Is Creating The ''Magic: The Gathering'' Game Of My Dr
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/989136544312299520/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156594938158912
 ---
+

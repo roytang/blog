@@ -11,4 +11,6 @@ title: Productivity - Sam Altman
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/983753907368325120/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156563257413912
 ---

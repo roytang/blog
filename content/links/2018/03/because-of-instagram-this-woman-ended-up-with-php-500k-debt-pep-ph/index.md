@@ -10,6 +10,8 @@ source: pocket
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/980086101967888385/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156539892538912
 tags:
 - broken-link
 - tech-life

@@ -11,4 +11,6 @@ title: Here's to Loss, the Internet's Greatest Meme | Know Your Meme
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/982251128988434432/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156553672843912
 ---

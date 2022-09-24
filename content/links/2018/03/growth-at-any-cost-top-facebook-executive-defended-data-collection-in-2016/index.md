@@ -11,4 +11,6 @@ title: 'Growth At Any Cost: Top Facebook Executive Defended Data Collection In 2
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/979540115625267200/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156536392713912
 ---

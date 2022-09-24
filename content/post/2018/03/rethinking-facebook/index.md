@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/172361367865/rethinking-facebook
 - type: twitter
   url: https://twitter.com/roytang/statuses/979177921981140994/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156533353328912
 tags:
 - Tech Life
 title: Rethinking Facebook

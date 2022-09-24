@@ -11,4 +11,6 @@ title: Theory vs Practice
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/989369907015045120/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156596439673912
 ---

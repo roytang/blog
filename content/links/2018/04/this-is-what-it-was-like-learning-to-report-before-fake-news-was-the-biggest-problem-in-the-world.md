@@ -13,4 +13,6 @@ title: This Is What It Was Like Learning To Report Before Fake News Was The Bigg
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/983361178025029633/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156560456173912
 ---
