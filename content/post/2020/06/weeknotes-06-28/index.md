@@ -7,6 +7,10 @@ reviews:
   media: movies
   rating: 3
   title: Sonic the Hedgehog (2019)
+- description: ''
+  media: tv
+  rating: 0.0
+  title: Harley Quinn season 2
 slug: weeknotes-06-28
 syndicated:
 - type: mastodon
