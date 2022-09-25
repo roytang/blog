@@ -22,6 +22,7 @@ tags:
 - current events
 - philippines
 - movies
+- tv
 title: 'Weeknotes 2020-06-28: Internet Outage Edition'
 ---
 
