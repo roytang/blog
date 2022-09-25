@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/174228687020/logs-and-memories-and-audit-trails
 - type: twitter
   url: https://twitter.com/roytang/statuses/999827460719022080/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156659227938912
 tags:
 - Tech Life
 title: Logs and Memories and Audit Trails

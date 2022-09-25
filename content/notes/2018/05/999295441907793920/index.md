@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/999295441907793920/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156656060773912
 title: ''
 ---
 

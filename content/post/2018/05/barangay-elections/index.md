@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/173880361735/barangay-elections
 - type: twitter
   url: https://twitter.com/roytang/statuses/995857983312711680/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156636558173912
 tags:
 - Philippines
 title: Barangay Elections

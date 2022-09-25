@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/992705141630320641/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156617136348912
 ---
 
 If we ge an Xmen reboot in the mcu I hope its with Scott and Jean and everybody else as teenagers (same approach they did with Spiderman basically) 

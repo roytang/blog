@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/998106526979051520/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156649281183912
 tags:
 - westphsea
 ---

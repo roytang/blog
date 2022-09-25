@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/995355528946630656/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156633169568912
 ---
 
 I like the idea of “optimizing for sustenance” but I fear that it might not always be possible to get stories down to 1-2 days that way (especially for difficult technical issues) 

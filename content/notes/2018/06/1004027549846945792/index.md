@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1004027549846945792/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156685384388912
 ---
 
 I wonder what are the odds that science/capitalism eventually finds a profitable use for plastic trash and all these polluted waterways we have turn into figurative gold 

@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/173467318760/spoiler-alert
 - type: twitter
   url: https://twitter.com/roytang/statuses/991131867796660225/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156606727328912
 tags:
 - Movies
 - tv
