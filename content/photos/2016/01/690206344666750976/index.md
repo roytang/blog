@@ -9,11 +9,18 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/690206344666750976/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154198105048912
+- type: steam
+  url: http://steamcommunity.com/sharedfiles/filedetails/?id=556326966
 tags:
 - gaming
 - games
 - talesof
 title: Tales of Zestiria
+resources:
+- src: zestiria_04.jpg
+  title: "Sunglasses make the cutscenes cooler"
 ---
 
 Woo first time I completed a game's Steam achievements lol

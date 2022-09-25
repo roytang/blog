@@ -13,4 +13,6 @@ title: Gamasutra - Designing side quests? Study these 7 games (and some Chris Av
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/968503763798495232/  
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156451086373912
 ---
