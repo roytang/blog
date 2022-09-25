@@ -18,6 +18,7 @@ title: Weeknotes 2022-09-18
 - **PH/Covid**: [It looks like our downtrend is at an end, especially in NCR](https://twitter.com/EdsonCGuido/status/1570630568190291968). Hopefully this mini-surge stays manageable.
 
 - **The World**: Queen Elizabeth's funeral is tomorrow. The British have been waiting in a miles-long queue to view her remains (or at least the coffin I guess). The Queue has been called "[a triumph of Britishness"](https://twitter.com/curiousiguana/status/1570067806028464128).
+  
 - I scanned this piece of scratch paper that had been on top of my desk for the past week or so:
 
     {{% photos doodles %}}
