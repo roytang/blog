@@ -5,8 +5,6 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/280477688653625
-tags:
-- fbreposts
 ---
 
 There's something interesting on the Facebook Wall in Facebook's new office: 
