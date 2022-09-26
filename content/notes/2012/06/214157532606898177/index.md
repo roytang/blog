@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/214316542056345602/
 - type: twitter
   url: https://twitter.com/roytang/statuses/214319270623064064/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/403934949649524
 tags:
 - gpmanila
 - mtg
@@ -30,4 +32,4 @@ Awaiting the first round of day 2. Relax, good luck, have fun
 
 <time>[19:20]</time> @magicprotour  what's up with people turning into zombies in the event coverage? https://imageshack.com/ lol #GPManila
 
-<time>[19:31]</time> My final standing at GP Manila was 39th: http://twitpic.com/9xg2ht
+<time>[19:31]</time> My final standing at GP Manila was 39th: http://twitpic.com/9xg2ht In the money! :D

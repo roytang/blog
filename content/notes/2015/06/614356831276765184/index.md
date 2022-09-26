@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/614356831276765184/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153906438098912
 tags:
 - reddit
 - flipboard
