@@ -1,12 +1,10 @@
 ---
-date: 2011-10-01 22:47:00+08:00
-dontinlinephotos: true
+date: 2011-10-01 14:47:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/182440045164201
-tags:
-- fbreposts
+title: ''
 ---
 
 This is why I wanted to have a "That's terrible" button 

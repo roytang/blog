@@ -1,12 +1,10 @@
 ---
-date: 2010-10-24 15:40:00+08:00
-dontinlinephotos: true
+date: 2010-10-24 07:40:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/136591793056120
-tags:
-- fbreposts
+title: ''
 ---
 
 Apparently pinasara ng BIR ung Decadence sa East Tower for not paying taxes.

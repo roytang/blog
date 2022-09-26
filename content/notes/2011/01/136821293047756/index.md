@@ -1,12 +1,10 @@
 ---
-date: 2011-01-27 08:13:00+08:00
-dontinlinephotos: true
+date: 2011-01-27 00:13:00+00:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/136821293047756
-tags:
-- fbreposts
+title: ''
 ---
 
 Renz Marvin Eullo check this.
