@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/818886929437442048/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155265003848912
 ---
 
 Hidden Insight and The Third Donkey https://scottberkun.com/2017/insight-and-the-third-donkey/
