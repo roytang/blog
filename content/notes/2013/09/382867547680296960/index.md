@@ -8,7 +8,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/382867547680296960/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152488705183912
 title: ''
 ---
 
-“[@jurgenappelo](https://twitter.com/jurgenappelo/): I Can't Draw: http://youtu.be/kxPzQv8rWs4?a via [@YouTube](https://twitter.com/YouTube/)” [ good story! well told ]
+“[@jurgenappelo](https://twitter.com/jurgenappelo/): I Can't Draw: http://youtu.be/kxPzQv8rWs4 via [@YouTube](https://twitter.com/YouTube/)” [ good story! well told ]
+
+{{% youtube kxPzQv8rWs4 %}}

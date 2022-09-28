@@ -7,8 +7,10 @@ link:
   url: https://tech.slashdot.org/story/18/03/25/0039218/ask-slashdot-is-there-a-good-alternative-to-facebook
 slug: ask-slashdot-is-there-a-good-alternative-to-facebook-slashdot
 source: pocket
-title: 'Ask Slashdot: Is There a Good Alternative to Facebook? - Slashdot'
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/978295377354018817/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156524568533912
+title: 'Ask Slashdot: Is There a Good Alternative to Facebook? - Slashdot'
 ---

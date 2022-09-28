@@ -7,8 +7,10 @@ link:
   url: http://scottberkun.com/2012/how-to-make-things-happen/
 slug: how-to-make-things-happen-scott-berkun
 source: pocket
-title: How to Make Things Happen | Scott Berkun
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/973212674627600384/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156487121388912
+title: How to Make Things Happen | Scott Berkun
 ---
