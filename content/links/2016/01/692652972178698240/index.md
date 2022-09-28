@@ -1,5 +1,5 @@
 ---
-date: 2016-01-28 10:18:32+00:00
+date: 2016-01-28 10:18:32
 link:
   source: twitter
   source_url: https://twitter.com/roytang/statuses/692652972178698240/
@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/692652972178698240/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154340210083912
 title: ''
 ---
 
