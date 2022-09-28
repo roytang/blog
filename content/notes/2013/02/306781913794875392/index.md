@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/306781913794875392/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/160660570757172
 ---
 
 posted: My thoughts on the argument about whether estimates are good or evil - depends on their purpose http://martinfowler.com/bliki/PurposeOfEstimation.html

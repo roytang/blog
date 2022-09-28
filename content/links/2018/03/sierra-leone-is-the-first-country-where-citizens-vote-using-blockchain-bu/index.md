@@ -7,8 +7,10 @@ link:
   url: http://www.businessinsider.com/sierra-leone-blockchain-elections-2018-3
 slug: sierra-leone-is-the-first-country-where-citizens-vote-using-blockchain-bu
 source: pocket
-title: Sierra Leone is the first country where citizens vote using blockchain - Bu
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/973892224600637440/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156492286183912
+title: Sierra Leone is the first country where citizens vote using blockchain - Bu
 ---

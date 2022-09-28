@@ -7,6 +7,8 @@ syndicated:
 title: ''
 ---
 
+SDCC trailer playlist:
+
 Defenders: https://www.youtube.com/watch?v=D_6J9BqgonU (Marvel/Netflix, August 12)
 
 Inhumans: https://www.youtube.com/watch?v=xU9Z6cKsbY0 (Marvel/ABC, September 1)
