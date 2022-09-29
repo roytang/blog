@@ -7,6 +7,6 @@ syndicated:
 title: ''
 ---
 
-http://mashable.com/2014/03/26/lego-simpsons-minifigures/?utm_cid=mash-com-G+-main-photo These look really odd. I wouldn't mind having a set though. Luis Formilleza
+http://mashable.com/2014/03/26/lego-simpsons-minifigures/ These look really odd. I wouldn't mind having a set though. Luis Formilleza
 
 [Lego's Latest 'Simpsons' Minifigures Are Diddly-Delightful](http://mashable.com/2014/03/26/lego-simpsons-minifigures/)
