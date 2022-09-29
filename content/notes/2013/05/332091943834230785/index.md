@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/518a3457498e98bca95afe57
 - type: twitter
   url: https://twitter.com/roytang/statuses/332092095814836224/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152227291158912
 ---
 
 I'm at BBQ Chicken (Pasig City, Metro Manila) w/ 2 others http://4sq.com/10aKiCM

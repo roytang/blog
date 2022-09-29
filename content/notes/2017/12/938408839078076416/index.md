@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/938408839078076416/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156240853238912
 ---
 
 I have been waiting weeks for this story, which has been months in the making, and I think it's the funniest thing we've ever done https://www.vice.com/en_uk/article/434gqw/i-made-my-shed-the-top-rated-restaurant-on-tripadvisor

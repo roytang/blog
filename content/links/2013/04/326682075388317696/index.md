@@ -9,9 +9,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/326682075388317696/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152204653458912
 tags:
 - _
 title: ''
 ---
 
-I may have enjoyed these a bit too much: #_=_
+I may have enjoyed these a bit too much:
