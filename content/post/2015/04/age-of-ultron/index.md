@@ -11,6 +11,8 @@ reviews:
 syndicated:
 - type: nedstarkdies
   url: http://nedstarkdies.com/avengers-age-of-ultron-by-hunter
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153737192523912
 tags:
 - movies
 title: Age of Ultron

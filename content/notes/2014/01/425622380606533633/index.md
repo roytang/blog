@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/425622380606533633/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152740048648912
 ---
 
 Feel the rhythm! Feel the rhyme! Get on up, its bobsled time! COOL RUNNINGS! https://www.bbc.com/sport/winter-olympics/25816067
