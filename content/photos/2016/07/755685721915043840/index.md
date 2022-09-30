@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/755685721915043840/
 - type: twitter
   url: https://twitter.com/roytang/status/755685934302171136/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154758945703912
 ---
 
 Whenever someone suggest using fear to impose order, I can't help but think of Grand Moff Tarkin

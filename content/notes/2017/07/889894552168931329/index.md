@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/889894552168931329/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155897350718912
 ---
 
 Lol wut Flash was still around? 
