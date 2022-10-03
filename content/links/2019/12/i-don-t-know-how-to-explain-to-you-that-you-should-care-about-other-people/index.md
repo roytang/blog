@@ -13,4 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1211048240172453890/
 - type: twitter
   url: https://twitter.com/roytang/statuses/880827549651042304/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155809939263912
 ---

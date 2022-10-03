@@ -10,6 +10,8 @@ source: pocket
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/972501618024419328/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156481786818912
 tags:
 - agentsofshield
 title: How Agents of SHIELD Became Marvel's Best-Reviewed TV Show

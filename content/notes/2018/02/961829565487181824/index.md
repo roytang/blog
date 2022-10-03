@@ -16,6 +16,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/961829577906520066/
 - type: reddit
   url: https://www.reddit.com/r/worldnews/comments/7w9869/justin_trudeau_to_facebook_fix_your_fake_news/dtyzmi8/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156404257848912
 tags:
 - worldnews
 ---

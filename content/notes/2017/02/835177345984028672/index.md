@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/835177345984028672/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155393951398912
 ---
 
 This Magazine Kills Fascists: Raging Against The Machine In James Roberts' 'Transformers' http://trib.al/jcOkFVm

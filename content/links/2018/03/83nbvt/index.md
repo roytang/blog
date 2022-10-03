@@ -10,7 +10,9 @@ syndicated:
 - type: reddit
   url: https://reddit.com/r/todayilearned/comments/83nbvt/til_there_are_countries_whose_first_day_of_the/
 - type: twitter
-  url: https://twitter.com/roytang/statuses/972856078793826304/  
+  url: https://twitter.com/roytang/statuses/972856078793826304/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156484527023912
 tags:
 - todayilearned
 ---

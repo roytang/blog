@@ -7,8 +7,10 @@ link:
   url: https://www.esquire.com/news-politics/news/a54440/twitter-ratio-reply/
 slug: how-to-know-if-you-ve-sent-a-horrible-tweet
 source: pocket
-title: How to Know If You've Sent a Horrible Tweet
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/965164317279703040/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156427776863912
+title: How to Know If You've Sent a Horrible Tweet
 ---
