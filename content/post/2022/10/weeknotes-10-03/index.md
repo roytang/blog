@@ -35,7 +35,8 @@ It is now [Throw Short People month](/2022/10/1576916824968814593/). Three month
 - In entertainment that interests me:
     - [Deadpool 3 was announced for 2024](https://twitter.com/VancityReynolds/status/1574865217141481477), with Hugh Jackman returning as Wolverine!
     - Something else that seemed a lot less likely: Community movie announced for Peacock! [Jeff McHale accidentally tagged the wrong Gillian lol.](https://twitter.com/joelmchale/status/1575852929415671808) Hashtag six seasons and a movie.
-
+    - [Marvel Studios’ Black Panther: Wakanda Forever | Official Trailer - YouTube](https://www.youtube.com/watch?v=_Z3QKkl1WyM): 
+    - [Magic](/tags/mtg/) stuff: First Brothers War previews dropped last week, though this is still the pre-beat. Looks great, and if I was still spending money on Magic I'd be really excited for [the Transformers crossover](https://twitter.com/wizards_magic/status/1575906520910503936)! (I don't really play Commander though...)
 ### My Week
 
 - It's been a busy week for me actually. I had medical stuff to do (routine tests and doctor's appointments), and family errands to run (mostly accompanying older people to their tests and doctor's appointments), and some relatives were visiting from overseas, so we had meetups and were regaled with stories from faraway places like Houston, Canada and Australia.
@@ -46,7 +47,7 @@ It is now [Throw Short People month](/2022/10/1576916824968814593/). Three month
 
 - **Gaming**: 
     - [Managed to hit Master rank](/2022/10/1576909576313528320/) in [Eternal](/tags/EternalCardGame) last month!
-    - Did one final [Magic Arena](/tags/magicarena) quick draft stream for DMU, at [least managed to end with a 7](/2022/09/1575460137095028736/). Will probably try again when alchemy drafts come around.
+    - Did one final [Magic Arena](/tags/magicarena) quick draft stream for DMU, at [least managed to end with a 7](/2022/09/1575460137095028736/). Will probably try again when alchemy drafts come around. 
     - Still playing **SMT5** and **Paradise Killer**, though a bit less this week due to busyness. I really should get these games done!
     - Still trying to rank up in **Street Fighter V**. I got into Super Silver again early this past week, but then crashed back down. Week's record was a mediocre 28-28.
 
@@ -76,6 +77,8 @@ It is now [Throw Short People month](/2022/10/1576916824968814593/). Three month
   
     > "We set our own standards. I tend to err, where I can, on the side of softness, kindness and forgiveness, because I’d like to live in a softer, kinder and more forgiving world."
 
+- [1977: Sylvester Stallone on making ROCKY | BBC Archive](https://www.youtube.com/watch?v=dFlybZL1mWE)
+
 Visit the [Links page](/links/) for more links of interest.
 
 And some interesting stuff from Twitter:
@@ -88,3 +91,4 @@ And some interesting stuff from Twitter:
 - Family stuff: We are expecting a new niece/granddaughter in the family later this week!
 - I still want to participate in some events like [Inktober](https://inktober.com/) and [Hacktoberfest](https://hacktoberfest.com/), have to figure out how to get into those. (Although not yet sure if I'll follow Inktober itself or some other drawing prompt list... apparently [the guy who started it is a bit problematic](https://twitter.com/LakeElysia/status/1576288170605363200).)
 - I think the new MCU one-shot special **Werewolf by Night** comes out this week, but I'm not really that interested as I'm not familiar with the source material. And I still haven't even started with Andor lol. I'm sure I'll get around to it eventually.
+- Alchemy drop for DMU on **Magic Arena** is scheduled for later this week. 
