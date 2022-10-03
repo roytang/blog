@@ -1,5 +1,5 @@
 ---
-date: 2022-10-03 20:55:44+08:00
+date: 2022-10-03 12:55:44
 dontinlinephotos: true
 reviews:
 - description: The best animated Batman series in recent memory.
@@ -12,6 +12,11 @@ reviews:
   media: tv
   rating: 3.5
   title: 8 out of 10 Cats Does Countdown
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/109104693386442935
+- type: twitter
+  url: https://twitter.com/roytang/status/1576934696906522624/
 tags:
 - weeknotes
 - philippines
@@ -91,4 +96,4 @@ And some interesting stuff from Twitter:
 - Family stuff: We are expecting a new niece/granddaughter in the family later this week!
 - I still want to participate in some events like [Inktober](https://inktober.com/) and [Hacktoberfest](https://hacktoberfest.com/), have to figure out how to get into those. (Although not yet sure if I'll follow Inktober itself or some other drawing prompt list... apparently [the guy who started it is a bit problematic](https://twitter.com/LakeElysia/status/1576288170605363200).)
 - I think the new MCU one-shot special **Werewolf by Night** comes out this week, but I'm not really that interested as I'm not familiar with the source material. And I still haven't even started with Andor lol. I'm sure I'll get around to it eventually.
-- Alchemy drop for DMU on **Magic Arena** is scheduled for later this week. 
+- Alchemy drop for DMU on **Magic Arena** is scheduled for later this week.
