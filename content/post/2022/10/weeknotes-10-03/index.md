@@ -36,7 +36,7 @@ It is now [Throw Short People month](/2022/10/1576916824968814593/). Three month
     - [Deadpool 3 was announced for 2024](https://twitter.com/VancityReynolds/status/1574865217141481477), with Hugh Jackman returning as Wolverine!
     - Something else that seemed a lot less likely: Community movie announced for Peacock! [Jeff McHale accidentally tagged the wrong Gillian lol.](https://twitter.com/joelmchale/status/1575852929415671808) Hashtag six seasons and a movie.
     - [Marvel Studios’ Black Panther: Wakanda Forever | Official Trailer - YouTube](https://www.youtube.com/watch?v=_Z3QKkl1WyM): 
-    - [Magic](/tags/mtg/) stuff: First Brothers War previews dropped last week, though this is still the pre-beat. Looks great, and if I was still spending money on Magic I'd be really excited for [the Transformers crossover](https://twitter.com/wizards_magic/status/1575906520910503936)! (I don't really play Commander though...)
+    - [Magic](/tags/mtg/) stuff: First Brothers War previews dropped last week, though this is still the pre-beat. Looks great, and if I was still spending money on Magic and if I played Commander I might even be excited for [the Transformers crossover](https://twitter.com/wizards_magic/status/1575906520910503936)!
 ### My Week
 
 - It's been a busy week for me actually. I had medical stuff to do (routine tests and doctor's appointments), and family errands to run (mostly accompanying older people to their tests and doctor's appointments), and some relatives were visiting from overseas, so we had meetups and were regaled with stories from faraway places like Houston, Canada and Australia.
