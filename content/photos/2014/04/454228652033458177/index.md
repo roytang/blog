@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152896805768912
 - type: tumblr
   url: https://roytang.tumblr.com/post/82797350173/zinger-box-is-judging-you
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152898938198912
 tags:
 - fb
 ---

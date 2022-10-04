@@ -27,6 +27,8 @@ syndicated:
   url: https://twitter.com/roytang/status/333920392500637697/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152234839368912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152234389383912
 tags:
 - PHVote
 - halalan

@@ -6,6 +6,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152490705073912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152490703793912
 tags:
 - timeline-photos
 - throwbackthursday
