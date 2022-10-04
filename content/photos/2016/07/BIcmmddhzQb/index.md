@@ -1,8 +1,5 @@
 ---
-albums:
-- instagram
-date: 2016-07-29 06:23:26-07:00
-location: ''
+date: 2016-07-29 13:23:26+00:00
 source: instagram
 syndicated:
 - type: instagram
@@ -11,7 +8,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/759016519346991105/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154780469518912:1
-tags: []
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154781291508912
+tags:
+- instagram
+title: ''
 ---
 
 Mas malaki na ang chocnut!

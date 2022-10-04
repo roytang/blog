@@ -1,8 +1,5 @@
 ---
-albums:
-- instagram
-date: 2016-05-08 14:12:46-07:00
-location: ''
+date: 2016-05-08 21:12:46+00:00
 source: instagram
 syndicated:
 - type: instagram
@@ -13,9 +10,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/729418798374080512/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154586858028912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154586858033912
 tags:
 - quotes
 - fullmetalalchemist
+- instagram
+title: ''
 ---
 
 "Nothing's perfect, the world's not perfect, but it's there for us trying the best it can. That's what makes it so damn beautiful" - Roy Mustang

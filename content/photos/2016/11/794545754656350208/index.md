@@ -8,6 +8,8 @@ syndicated:
   url: https://instagram.com/p/BMZDbSFB72m/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155061164923912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155061169158912
 albums:
 - instagram
 ---

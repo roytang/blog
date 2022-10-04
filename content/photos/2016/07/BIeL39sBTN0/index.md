@@ -1,9 +1,5 @@
 ---
-albums:
-- instagram
-- food
-date: 2016-07-29 21:08:22-07:00
-location: ''
+date: 2016-07-30 04:08:22+00:00
 source: instagram
 syndicated:
 - type: instagram
@@ -12,8 +8,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/759239217805398017/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154782903753912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154782903803912
 tags:
 - food
+- instagram
+- food
+title: ''
 ---
 
 Bacon fried like chicken

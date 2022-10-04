@@ -11,6 +11,7 @@ tags:
 ---
 
 Sep 10: "I never cursed Obama"
+
 Oct 4: "Mr Obama, you can go to hell"
 
 Getting things done, 2016

@@ -1,8 +1,5 @@
 ---
-albums:
-- instagram
-date: 2016-04-15 07:02:20-07:00
-location: ''
+date: 2016-04-15 14:02:20+00:00
 source: instagram
 syndicated:
 - type: instagram
@@ -13,7 +10,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/721007827460853760/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154533862698912:1
-tags: []
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154535643893912
+tags:
+- instagram
+title: ''
 ---
 
 This Ryu amiibo is surprisingly detailed

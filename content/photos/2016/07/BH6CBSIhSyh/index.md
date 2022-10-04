@@ -1,9 +1,5 @@
 ---
-albums:
-- instagram
-categories: []
-date: 2016-07-16 03:09:36-07:00
-location: ''
+date: 2016-07-16 10:09:36+00:00
 source: instagram
 syndicated:
 - type: instagram
@@ -26,9 +22,22 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154748206723912:1
 - type: twitter
   url: https://twitter.com/roytang/status/754306967984713728/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154748626658912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154748626658912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154748206733912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154748206733912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154748206733912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154748206733912
 tags:
 - mtgemn
 - mtg
+- instagram
 title: Eldritch Moon Prerelease
 ---
 

@@ -1,8 +1,5 @@
 ---
-albums:
-- instagram
-date: 2016-05-14 23:39:00-07:00
-location: ''
+date: 2016-05-15 06:39:00+00:00
 source: instagram
 syndicated:
 - type: instagram
@@ -13,7 +10,11 @@ syndicated:
   url: https://twitter.com/roytang/statuses/731735624911196160/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154599537758912:1
-tags: []
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154600622568912
+tags:
+- instagram
+title: ''
 ---
 
 Worst Monopoly set ever

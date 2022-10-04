@@ -1,8 +1,5 @@
 ---
-albums:
-- instagram
-date: 2016-08-13 05:06:40-07:00
-location: ''
+date: 2016-08-13 12:06:40+00:00
 source: instagram
 syndicated:
 - type: instagram
@@ -11,8 +8,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/764433028827537408/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154818409718912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154818923273912
 tags:
 - treatyoself
+- instagram
+title: ''
 ---
 
 #treatyoself

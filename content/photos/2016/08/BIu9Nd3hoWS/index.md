@@ -1,8 +1,5 @@
 ---
-albums:
-- instagram
-date: 2016-08-06 00:27:20+08:00
-location: 5579775a498e1dcc65578f9a
+date: 2016-08-05 16:27:20+00:00
 source: instagram
 syndicated:
 - type: instagram
@@ -11,10 +8,14 @@ syndicated:
   url: https://twitter.com/roytang/statuses/761599514692247552/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154797455538912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154799247073912
 tags:
 - geekfightph
 - trivia
 - quiznight
+- instagram
+title: ''
 ---
 
 Third place! May six pack na ko! #geekfightph

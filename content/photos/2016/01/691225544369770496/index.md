@@ -1,7 +1,5 @@
 ---
-checkin_id: 56a4b98e498e252fda193b25
-date: 2016-01-24 11:46:26
-location: 5238339b11d29d0665758acf
+date: 2016-01-24 11:46:26+00:00
 source: twitter
 syndicated:
 - type: instagram
@@ -14,6 +12,9 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/56a4b98e498e252fda193b25
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154332151643912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154332170243912
+title: ''
 ---
 
 Bacon!

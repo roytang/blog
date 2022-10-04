@@ -1,15 +1,16 @@
 ---
-albums:
-- instagram
-date: 2016-06-03 05:37:26-07:00
-location: ''
+date: 2016-06-03 12:37:26+00:00
 source: instagram
 syndicated:
 - type: instagram
   url: https://instagram.com/p/BGMU0l0MoOA/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154644055948912:0
-tags: []
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154644055973912
+tags:
+- instagram
+title: ''
 ---
 
 Random book sale find
