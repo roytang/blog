@@ -10,6 +10,7 @@ syndicated:
   url: https://roytang.tumblr.com/post/82797350173/zinger-box-is-judging-you
 tags:
 - fb
+- fbreposts
 ---
 
-Zinger box is judging you #fb [@FacesPics](https://twitter.com/FacesPics/) 
+Zinger box is judging you #fb [@FacesPics](https://twitter.com/FacesPics/)

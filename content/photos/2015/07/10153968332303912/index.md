@@ -1,5 +1,5 @@
 ---
-date: 2015-07-25 21:30:00+08:00
+date: 2015-07-25 13:30:00
 resources:
 - src: 11165225_10153968332303912_2867852789698420287_n_10153968332303912.jpg
   title: Parang masaya maging duck, chillax lang
@@ -12,4 +12,5 @@ syndicated:
 tags:
 - travels
 - london2015
+- fbreposts
 ---
