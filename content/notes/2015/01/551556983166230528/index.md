@@ -1,6 +1,5 @@
 ---
-date: 2015-01-04 01:53:26
-date: 2015-01-04 07:59:00+08:00
+date: 2015-01-03 23:59:00
 source: twitter
 syndicated:
 - type: facebook
@@ -21,6 +20,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153484161798912:1
 - type: twitter
   url: https://twitter.com/roytang/statuses/551748917436493824/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153484199578912
 tags:
 - gpmanila
 ---

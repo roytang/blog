@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2015-08-14 08:51:22-07:00
+date: 2015-08-14 15:51:22
 location: ''
 source: instagram
 syndicated:
@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/632217964964675584/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154016606693912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154016606703912
 tags:
 - gplondon
 - mtg

@@ -10,6 +10,8 @@ syndicated:
   url: https://instagram.com/p/-v4SDBsoJn/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154223815243912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154223815253912
 tags:
 - wut
 ---

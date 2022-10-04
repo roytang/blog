@@ -9,6 +9,8 @@ syndicated:
   url: https://instagram.com/p/-B8iZcMoAl/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154193233578912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154193233593912
 tags:
 - gaming
 - starcraft2

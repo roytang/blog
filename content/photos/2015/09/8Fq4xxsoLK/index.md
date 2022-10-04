@@ -18,6 +18,8 @@ syndicated:
   url: https://twitter.com/roytang/status/647734582259924992/
 - type: twitter
   url: https://twitter.com/roytang/status/647841333567225856/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154115187103912
 tags:
 - mtgbfz
 - mtg

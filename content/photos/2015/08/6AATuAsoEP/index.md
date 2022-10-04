@@ -2,7 +2,7 @@
 albums:
 - instagram
 - food
-date: 2015-08-05 04:30:34-07:00
+date: 2015-08-05 11:30:34
 location: ''
 source: instagram
 syndicated:
@@ -10,6 +10,8 @@ syndicated:
   url: https://instagram.com/p/6AATuAsoEP/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153993673893912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153993673898912
 tags: []
 ---
 

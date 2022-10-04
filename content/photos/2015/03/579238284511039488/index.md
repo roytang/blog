@@ -1,7 +1,7 @@
 ---
 checkin_id: 550d5110498eea3210a699bc
-location: 51f7ed4d498ed09ccd6b31f4
 date: 2015-03-21 11:09:03
+location: 51f7ed4d498ed09ccd6b31f4
 source: twitter
 syndicated:
 - type: twitter
@@ -13,7 +13,11 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153651836818912:0
 - type: twitter
-  url: https://twitter.com/roytang/statuses/579306444635373568/  
+  url: https://twitter.com/roytang/statuses/579306444635373568/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153651836788912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153651442038912
 tags:
 - mtg
 ---

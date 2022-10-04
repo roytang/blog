@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/54085361498e0c1a63ea1471
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153204687678912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153204687648912
 tags:
 - mobile-uploads
 - puso

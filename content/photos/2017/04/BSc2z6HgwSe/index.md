@@ -2,7 +2,7 @@
 albums:
 - instagram
 - pickups
-date: 2017-04-03 21:59:01-07:00
+date: 2017-04-04 04:59:01
 location: ''
 source: instagram
 syndicated:
@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/849124145828958208/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155500646288912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155500646378912
 tags: []
 ---
 

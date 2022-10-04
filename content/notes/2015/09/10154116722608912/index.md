@@ -23,6 +23,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154117495518912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154117809808912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154116921698912
 tags:
 - egx
 - street-fighter-v

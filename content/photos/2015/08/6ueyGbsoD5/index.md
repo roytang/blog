@@ -9,6 +9,8 @@ syndicated:
   url: https://instagram.com/p/6ueyGbsoD5/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154035906983912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154036405038912
 tags:
 - tourist
 - london2015

@@ -1,5 +1,6 @@
 ---
-date: 2014-04-18 20:55:00+08:00
+date: 2014-04-18 12:55:00
+dontinlinephotos: true
 source: facebook
 syndicated:
 - type: facebook
@@ -8,9 +9,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152904727883912:1
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152904727883912:2
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152904955068912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152904725948912
 tags:
 - mobile-uploads
-dontinlinephotos: true
 ---
 
 Cleaning up my shelves. This is all the stuff I had to remove while wiping

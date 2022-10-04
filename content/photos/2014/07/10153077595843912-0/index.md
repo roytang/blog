@@ -2,7 +2,7 @@
 albums:
 - gaming
 - pickups
-date: 2014-07-08 20:35:00+08:00
+date: 2014-07-08 12:35:00
 source: facebook
 syndicated:
 - type: facebook
@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/486531063049515008/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153077826268912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153077595773912
 tags:
 - mobile-uploads
 - impulsebuy

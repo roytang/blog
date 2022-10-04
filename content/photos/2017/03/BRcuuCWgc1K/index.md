@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2017-03-09 23:16:55-07:00
+date: 2017-03-10 06:16:55
 location: ''
 source: instagram
 syndicated:
@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/840099165652762625/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155430673713912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155433490048912
 tags:
 - MTG
 ---

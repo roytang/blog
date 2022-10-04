@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2015-10-08 10:12:01-07:00
+date: 2015-10-08 17:12:01
 location: ''
 reviews:
 - description: ''
@@ -16,6 +16,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/652169592182304769/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154134398968912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154134398978912
 tags:
 - psvita
 - danganronpa

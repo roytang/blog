@@ -1,9 +1,11 @@
 ---
-date: 2015-04-03 15:25:00+08:00
+date: 2015-04-03 07:25:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153679554973912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153679554923912
 tags:
 - mobile-uploads
 ---

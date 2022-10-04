@@ -2,7 +2,7 @@
 albums:
 - instagram
 - food
-date: 2015-09-13 11:26:37-07:00
+date: 2015-09-13 18:26:37
 location: ''
 source: instagram
 syndicated:
@@ -10,6 +10,8 @@ syndicated:
   url: https://instagram.com/p/7lK7C4MoMw/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154087501338912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154087501363912
 tags:
 - food
 - london2015

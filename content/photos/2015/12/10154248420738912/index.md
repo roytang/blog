@@ -2,7 +2,7 @@
 albums:
 - pickups
 - instagram
-date: 2015-12-15 03:22:00+08:00
+date: 2015-12-14 19:22:00
 source: facebook
 syndicated:
 - type: facebook
@@ -21,6 +21,8 @@ syndicated:
   url: https://instagram.com/p/_SDOOLMoDO/
 - type: twitter
   url: https://twitter.com/roytang/statuses/676466526426259456/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154248325078912
 tags:
 - pickups
 ---

@@ -1,14 +1,18 @@
 ---
-date: 2014-08-10 15:53:00+08:00
+date: 2014-08-10 07:53:00
+dontinlinephotos: true
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153143969078912:0
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10153143969078912:1  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153143969078912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153144571373912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153143969048912
 tags:
 - mobile-uploads
-dontinlinephotos: true
 ---
 
 Some pickups/birthday stuff

@@ -8,6 +8,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/485462867987398657/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153072193688912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153072193708912
+tags: []
 ---
 
 <p>This is why you should always watch TV with subtitles</p>

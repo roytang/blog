@@ -2,7 +2,7 @@
 albums:
 - instagram
 checkin_id: 59066b0a59fe5c6a4be5bbde
-date: 2017-04-30 16:28:51-07:00
+date: 2017-04-30 23:28:51
 location: 4bd66ba0cfa7b71372a627da
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155585038473912
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/59066b0a59fe5c6a4be5bbde
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155585038488912
 tags: []
 ---
 

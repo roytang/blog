@@ -9,6 +9,8 @@ syndicated:
   url: https://instagram.com/p/-dSBg9MoJP/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154211062893912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154211062913912
 tags:
 - japan2015
 ---

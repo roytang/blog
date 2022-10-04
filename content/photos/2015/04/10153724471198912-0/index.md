@@ -1,5 +1,6 @@
 ---
 date: 2015-04-22 10:57:00
+dontinlinephotos: true
 location: 4b49d6ddf964a520697426e3
 source: facebook
 syndicated:
@@ -8,10 +9,11 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153724471198912:0
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10153724990238912  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153724990238912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153724470823912
 tags:
 - avengers
-dontinlinephotos: true
 ---
 
 Lifesize Hulkbuster! (Photobomb kid for scale) #avengers

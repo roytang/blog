@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/status/556355150990684160/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153508520943912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153508242658912
 tags:
 - mtgfrf
 - mtg

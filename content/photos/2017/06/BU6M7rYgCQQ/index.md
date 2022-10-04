@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2017-06-04 00:33:05-07:00
+date: 2017-06-04 07:33:05
 location: ''
 source: instagram
 syndicated:
@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/871268573829877760/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155683534788912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155683534868912
 tags:
 - mtg
 - gpmanila

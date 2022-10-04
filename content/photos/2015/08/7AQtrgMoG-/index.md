@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2015-08-30 03:25:19-07:00
+date: 2015-08-30 10:25:19
 location: ''
 source: instagram
 syndicated:
@@ -9,6 +9,8 @@ syndicated:
   url: https://instagram.com/p/7AQtrgMoG-/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154049917003912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154051508948912
 tags:
 - tourist
 - london2015

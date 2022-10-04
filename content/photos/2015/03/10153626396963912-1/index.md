@@ -6,6 +6,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153626396963912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153628438188912
 tags:
 - mobile-uploads
 - london2015

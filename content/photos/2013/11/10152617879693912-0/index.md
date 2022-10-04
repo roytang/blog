@@ -13,6 +13,11 @@ tags:
 - gaming
 - games
 title: ''
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'The Legend of Zelda: A Link Between Worlds (3DS)'
 ---
 
 Finished A Link Between Worlds, fantastic game!

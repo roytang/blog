@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/574629341004435456/
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/54fc8ce5498ee62d68bfd100
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153622376498912
 tags:
 - mobile-uploads
 - quiznight

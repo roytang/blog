@@ -2,7 +2,7 @@
 albums:
 - instagram
 - food
-date: 2017-01-25 03:58:20-07:00
+date: 2017-01-25 10:58:20
 location: 5107b146e4b0804e84fa1eac
 source: instagram
 syndicated:
@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/824209828906233856/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155310886053912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155310886103912
 tags: []
 ---
 
