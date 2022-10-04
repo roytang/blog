@@ -8,7 +8,6 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153360215893912
 tags:
 - timeline-photos
-- fbreposts
 ---
 
 I was trying to see if I still had a copy of the old RTK3 data we used to use which had a whole lot of our friends/classmates as custom officers. The only one I found only had a lot of [Kerwin](https://www.facebook.com/529124114)s!

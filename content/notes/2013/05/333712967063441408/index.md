@@ -31,7 +31,6 @@ tags:
 - PHVote
 - halalan
 - halalan2013
-- fbreposts
 title: Elections Day 2013 Liveblog
 ---
 

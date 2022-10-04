@@ -12,5 +12,4 @@ syndicated:
 tags:
 - travels
 - london2015
-- fbreposts
 ---

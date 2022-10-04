@@ -9,7 +9,6 @@ syndicated:
 tags:
 - timeline-photos
 - throwbackthursday
-- fbreposts
 ---
 
 [Raymond Lirag](https://www.facebook.com/1557642228) ito yung first two entries sa event history ng DCI number ko. Bale 1-0-1 ang record ko vs you lifetime :p (I don't even remember this tournament) #throwbackthursday
