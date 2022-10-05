@@ -1,6 +1,11 @@
 ---
-date: 2022-10-05T14:30:27+08:00
+date: 2022-10-05 06:30:27
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/109114411251923982
+- type: twitter
+  url: https://twitter.com/roytang/status/1577556644447551489/
 tags:
 - gamedev
 - gamejam
