@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-30 09:15:56-07:00
+date: 2016-03-30 16:15:56
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154496202148912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4cju4u/march_30th_gnomes/d1j7nd8/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154496202158912
 tags:
 - bottlegnomes
 - sketchdaily

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-21 10:55:43-07:00
+date: 2016-03-21 17:55:43
 location: ''
 source: instagram
 syndicated:
@@ -18,6 +18,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/4bbfoq/march_21st_marvel_super_heroes/d18475y/
 - type: reddit
   url: https://www.reddit.com/r/comiccharacterdrawing/comments/4bf2h6/oa_power_man_and_iron_fist/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154461290823912
 tags:
 - sketchdaily
 - comiccharacterdrawing

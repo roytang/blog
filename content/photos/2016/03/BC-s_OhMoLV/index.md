@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-15 09:05:03-07:00
+date: 2016-03-15 16:05:03
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154444130458912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4ahitu/march_15th_a_lot_of_dinosaurs/d10nllh/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154444130468912
 tags:
 - sketchdaily
 ---

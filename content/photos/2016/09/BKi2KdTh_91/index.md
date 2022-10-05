@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-09-19 09:37:39-07:00
+date: 2016-09-19 16:37:39
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154920473213912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/53gk2s/september_19th_genies/d7tbgol/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154922389388912
 tags:
 - sketchdaily
 - mtg

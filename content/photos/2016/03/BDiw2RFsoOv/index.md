@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-29 09:11:27-07:00
+date: 2016-03-29 16:11:27
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154492197773912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4ceirf/march_29th_marie_antoinette/d1htjra/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154492197818912
 tags:
 - sketchdaily
 ---

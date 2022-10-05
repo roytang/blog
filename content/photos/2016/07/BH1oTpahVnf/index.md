@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-07-14 03:07:58-07:00
+date: 2016-07-14 10:07:58
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154743791843912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4ss55p/july_14th_bird_week_day_5_shoebill/d5brr11/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154743791858912
 tags:
 - sketchdaily
 ---

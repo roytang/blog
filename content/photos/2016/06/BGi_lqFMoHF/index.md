@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-12 00:54:26-07:00
+date: 2016-06-12 07:54:26
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154664371433912:2
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4npeoy/june_12th_ramen/d45skyl/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154665674373912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-27 22:23:17-07:00
+date: 2016-04-28 05:23:17
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154563615313912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4gnhxy/april_27th_stone/d2kd3rf/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154563615323912
 tags:
 - sketchdaily
 ---

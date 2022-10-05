@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-11 01:41:04-07:00
+date: 2016-06-11 08:41:04
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154661363478912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4nklkx/june_11th_motorcycles/d44pdt5/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154663384673912
 tags:
 - sketchdaily
 ---

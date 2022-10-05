@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-16 20:51:43-07:00
+date: 2016-04-17 03:51:43
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154539088268912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4f11b1/april_16th_gold/d25z7vf/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154539088273912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-14 09:35:23-07:00
+date: 2016-03-14 16:35:23
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154440217013912:2
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4ac849/march_14th_albert_einstein/d0z9516/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154441818903912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-12-27 18:03:41-07:00
+date: 2016-12-28 01:03:41
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/813913293370851328/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/5kiu38/december_27th_knitting/dbp672y/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155226705398912
 tags:
 - sketchdaily
 ---

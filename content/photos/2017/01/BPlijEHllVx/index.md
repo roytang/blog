@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2017-01-22 17:20:56-07:00
+date: 2017-01-23 00:20:56
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/823324634808483840/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155300986218912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155300986248912
 tags:
 - sketchdaily
 ---

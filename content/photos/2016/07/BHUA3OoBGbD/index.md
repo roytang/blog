@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-07-01 01:48:21-07:00
+date: 2016-07-01 08:48:21
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154710562383912:2
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4qqmjs/july_1st_free_draw_friday/d4v4hfz/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154712714898912
 tags:
 - sketchdaily
 - starwars

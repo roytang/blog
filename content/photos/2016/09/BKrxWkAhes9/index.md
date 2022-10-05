@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-09-22 20:48:47-07:00
+date: 2016-09-23 03:48:47
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154930867308912:2
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/544ex7/some_comics_i_drew_today_warning_politics/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154932277793912
 tags:
 - sketchdaily
 - philippines

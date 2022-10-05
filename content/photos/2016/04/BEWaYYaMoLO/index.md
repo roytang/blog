@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-18 10:35:38-07:00
+date: 2016-04-18 17:35:38
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154542790688912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4fatrr/april_18th_cotton_candy/d27r6bo/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154542790698912
 tags:
 - sketchdaily
 ---

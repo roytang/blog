@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-14 00:55:24-07:00
+date: 2016-06-14 07:55:24
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154668058083912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4o0e2e/june_14th_penguins/d48hwed/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154670405678912
 tags:
 - sketchdaily
 ---

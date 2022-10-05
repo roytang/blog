@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-17 08:18:19-07:00
+date: 2016-05-17 15:18:19
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154605878073912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4jpuau/may_17th_bathing/d38vebv/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154605878128912
 tags:
 - sketchdaily
 ---

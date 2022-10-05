@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-08 23:13:48-07:00
+date: 2016-03-09 06:13:48
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154422186298912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/49hofe/march_8th_the_good_old_hockey_game/d0s0g9p/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154422186308912
 tags:
 - sketchdaily
 ---

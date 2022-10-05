@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-24 10:32:15-07:00
+date: 2016-05-24 17:32:15
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154622230698912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4ksq1b/may_24th_overwatch/d3hy926/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154622230713912
 tags:
 - overwatch
 - sketchdaily

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-04 03:16:59-07:00
+date: 2016-06-04 10:16:59
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154644055948912:4
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4nfb0z/june_10th_free_drawlogy_friday/d43ewfo/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154646024528912
 tags:
 - sketchdaily
 - hearthstone

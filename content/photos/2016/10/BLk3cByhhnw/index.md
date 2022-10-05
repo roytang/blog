@@ -20,6 +20,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154998826808912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154998147513912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154997728883912
 tags:
 - sketchdaily
 - inktober

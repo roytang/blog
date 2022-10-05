@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-07-05 09:07:09-07:00
+date: 2016-07-05 16:07:09
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154722785748912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4rbn6a/july_5th_lazy_river/d504eer/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154722785798912
 tags:
 - sketchdaily
 ---

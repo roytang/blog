@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-07-02 03:46:53-07:00
+date: 2016-07-02 10:46:53
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154713441653912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4qweba/july_2nd_hulk_versus/d4wh3pf/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154715195783912
 tags:
 - sketchdaily
 ---

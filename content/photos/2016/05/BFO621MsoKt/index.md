@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-10 09:16:53-07:00
+date: 2016-05-10 16:16:53
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154589588288912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4io7iw/may_10th_jewelery_box/d302odo/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154590796618912
 tags:
 - sketchdaily
 ---

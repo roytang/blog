@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-19 09:34:46-07:00
+date: 2016-03-19 16:34:46
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154452988198912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4b2bsy/march_19th_human_proportions/d15sekr/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154455179558912
 tags:
 - sketchdaily
 ---

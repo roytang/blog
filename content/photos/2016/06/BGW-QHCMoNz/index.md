@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-07 08:51:52-07:00
+date: 2016-06-07 15:51:52
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154653737623912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4mxzue/june_7th_herpetology/d3zkc8b/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154653737633912
 tags:
 - sketchdaily
 - nintendo

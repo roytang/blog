@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-01 09:05:14-07:00
+date: 2016-04-01 16:05:14
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154503850978912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4culef/april_1rd_free_draw_friday/d1lxjhl/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154503850988912
 tags:
 - sketchdaily
 ---

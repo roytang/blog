@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-11-05 07:35:45-07:00
+date: 2016-11-05 14:35:45
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155064099178912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/5b8yci/november_5th_beauty_and_the_beast/d9mvcjb/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155064099228912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-23 10:24:32-07:00
+date: 2016-04-23 17:24:32
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154553537518912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4g2nky/april_23rd_figure_drawing/d2efyt0/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154554158783912
 tags:
 - sketchdaily
 ---

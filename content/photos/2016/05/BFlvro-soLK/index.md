@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-19 06:01:46-07:00
+date: 2016-05-19 13:01:46
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154608134168912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4k1foo/may_19th_cowboy_bebop/d3bisn8/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154610380228912
 tags:
 - sketchdaily
 - cowboybebop

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-08-08 22:25:26-07:00
+date: 2016-08-09 05:25:26
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/762882499961761794/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154808391798912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154808391813912
 tags:
 - doctorwho
 - sketchdaily

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-09-07 08:12:06-07:00
+date: 2016-09-07 15:12:06
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/773539379025416192/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154888501033912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154888501088912
 tags:
 - sketchdaily
 - startrek50th

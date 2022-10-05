@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-13 01:03:15-07:00
+date: 2016-06-13 08:03:15
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154668058083912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4nunnz/june_13th_a_bathroom/d472j3h/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154668058088912
 tags:
 - sketchdaily
 ---

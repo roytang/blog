@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-02 11:22:04-07:00
+date: 2016-05-02 18:22:04
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154571987263912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4hfeme/may_2nd_hippies/d2puxyg/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154573247093912
 tags:
 - sketchdaily
 - mtg

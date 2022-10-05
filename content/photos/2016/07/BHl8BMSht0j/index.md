@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-07-08 00:52:21-07:00
+date: 2016-07-08 07:52:21
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/751323059219533824/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154727225983912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154728832138912
 tags:
 - sketchdaily
 - hajimenoippo

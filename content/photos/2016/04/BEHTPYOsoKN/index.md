@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-12 13:44:38-07:00
+date: 2016-04-12 20:44:38
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154529974663912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4ef54a/april_12th_political_figures/d20awws/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154529974678912
 tags:
 - sketchdaily
 ---

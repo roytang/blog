@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-19 09:03:22-07:00
+date: 2016-04-19 16:03:22
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154542790688912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4fgkrj/april_19th_perspective_practice/d29099n/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154545073543912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-16 06:02:31-07:00
+date: 2016-06-16 13:02:31
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154675363318912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4oc94z/june_16th_carbonated_beverage/d4bhg51/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154675363328912
 tags:
 - sketchdaily
 ---

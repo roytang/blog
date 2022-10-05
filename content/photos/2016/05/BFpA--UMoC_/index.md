@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-20 12:30:40-07:00
+date: 2016-05-20 19:30:40
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154613353638912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4k784i/may_20th_free_draw_friday/d3dayd2/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154613353648912
 tags:
 - sketchdaily
 - rurounikenshin

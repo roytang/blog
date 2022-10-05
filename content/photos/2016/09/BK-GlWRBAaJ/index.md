@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-09-29 23:40:38-07:00
+date: 2016-09-30 06:40:38
 location: ''
 source: instagram
 syndicated:
@@ -18,6 +18,8 @@ syndicated:
   url: https://reddit.com/r/Philippines/comments/5571wg/current_events/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/556wqp/september_30th_free_draw_friday/d882kbi/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154952328648912
 tags:
 - sketchdaily
 - philippines

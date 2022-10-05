@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2017-01-25 20:20:13-07:00
+date: 2017-01-26 03:20:13
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/824456916567019520/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155310886053912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155313167913912
 tags:
 - dragonballz
 - sketchdaily

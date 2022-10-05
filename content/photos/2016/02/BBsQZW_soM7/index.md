@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-02-12 08:37:30-07:00
+date: 2016-02-12 15:37:30
 location: ''
 reviews:
 - description: ''
@@ -19,6 +19,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154370917538912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/45dwsv/february_12th_free_draw_friday/czxdpvv/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154370917548912
 tags:
 - sketchdaily
 - books

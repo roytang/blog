@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-26 16:59:47-07:00
+date: 2016-04-26 23:59:47
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154561154433912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4ghubp/april_26th_platypus/d2inm3j/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154561154438912
 tags:
 - sketchdaily
 ---

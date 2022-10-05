@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-19 07:21:04-07:00
+date: 2016-06-19 14:21:04
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154683039863912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4osgqu/june_19th_literally/d4fdfmy/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154683039908912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-02-17 08:49:51-07:00
+date: 2016-02-17 15:49:51
 location: ''
 source: instagram
 syndicated:
@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/699984119380336640/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154380321493912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154380321533912
 tags:
 - sketchdaily
 - spider-gwen

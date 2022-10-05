@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-07-03 18:27:06-07:00
+date: 2016-07-04 01:27:06
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154719168378912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4r16vx/july_3rd_draw_a_political_cartoon/d4yawxn/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154719168383912
 tags:
 - sketchdaily
 ---

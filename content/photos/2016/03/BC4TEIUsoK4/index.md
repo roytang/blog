@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-12 21:23:05-07:00
+date: 2016-03-13 04:23:05
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154431593383912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4a3720/march_12th_skulls/d0xwnd0/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154435072113912
 tags:
 - sketchdaily
 ---

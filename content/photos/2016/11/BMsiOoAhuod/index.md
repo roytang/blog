@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-11-11 20:58:39-07:00
+date: 2016-11-12 03:58:39
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/797287485781004288/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155083161973912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155083161988912
 tags:
 - sketchdaily
 - ff13

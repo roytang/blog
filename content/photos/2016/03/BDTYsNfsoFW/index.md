@@ -1,6 +1,6 @@
 ---
 album: sketchbook
-date: 2016-03-23 09:51:45-07:00
+date: 2016-03-23 16:51:45
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154467471458912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4blmz1/march_23rd_xkcd/d1anvl6/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154468403338912
 tags:
 - sketchdaily
 - sketchbookpro

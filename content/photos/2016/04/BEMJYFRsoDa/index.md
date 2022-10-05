@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-14 10:54:38-07:00
+date: 2016-04-14 17:54:38
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154533862698912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4eq5p2/april_14th_highly_stylized_almost_adorable/d22v6zl/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154533862703912
 tags:
 - sketchdaily
 ---

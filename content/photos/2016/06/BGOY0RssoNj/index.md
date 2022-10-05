@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-04 00:50:50-07:00
+date: 2016-06-04 07:50:50
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154644055948912:2
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4mbvbp/june_3rd_free_draw_friday/d3vj470/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154645838028912
 tags:
 - sketchdaily
 ---

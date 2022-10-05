@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-17 09:29:32-07:00
+date: 2016-03-17 16:29:32
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154446826693912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4as1gw/march_17th_huskies/d13ekpo/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154449517458912
 tags:
 - sketchdaily
 ---

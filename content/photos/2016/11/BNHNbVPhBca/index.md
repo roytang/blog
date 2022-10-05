@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/801041656296284160/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155111605378912:3
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155112319888912
 tags:
 - sketchdaily
 - onepiece

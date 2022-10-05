@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-03 11:22:34-07:00
+date: 2016-04-03 18:22:34
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154507535748912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4d5p93/april_3rd_chickens/d1obozc/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154508769083912
 tags:
 - sketchdaily
 ---

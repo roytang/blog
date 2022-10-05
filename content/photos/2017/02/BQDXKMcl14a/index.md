@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2017-02-03 07:18:38-07:00
+date: 2017-02-03 14:18:38
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/827521722110840835/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155335792258912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155335792753912
 tags:
 - sketchdaily
 - dayofthetentacle

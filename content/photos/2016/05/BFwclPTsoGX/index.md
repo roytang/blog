@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-23 09:46:31-07:00
+date: 2016-05-23 16:46:31
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154619792453912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4kmxc1/may_23rd_mermay_mermaids/d3gjtrc/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154619792458912
 tags:
 - sketchdaily
 - mtg

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-25 09:23:12-07:00
+date: 2016-03-25 16:23:12
 location: ''
 source: instagram
 syndicated:
@@ -18,6 +18,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/4bvq56/march_25th_free_draw_friday/d1d5gxe/
 - type: reddit
   url: https://reddit.com/r/comiccharacterdrawing/comments/4byv2b/oa_batman_v_superman_based_on_batman_50_alternate/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154476139403912
 tags:
 - sketchdaily
 ---

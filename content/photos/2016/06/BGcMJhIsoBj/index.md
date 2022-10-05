@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-09 09:29:30-07:00
+date: 2016-06-09 16:29:30
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154656335228912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4n9u8a/june_9th_trilogy/d42genv/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154658821333912
 tags:
 - sketchdaily
 ---

@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/803775639673184256/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155132117888912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155132059918912
 tags:
 - batman
 - drawing

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-09-20 10:44:58-07:00
+date: 2016-09-20 17:44:58
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/778288889203159040/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154925411593912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154925411623912
 tags:
 - sketchdaily
 - thundercats

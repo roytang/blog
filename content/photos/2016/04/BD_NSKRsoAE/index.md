@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-09 10:18:39-07:00
+date: 2016-04-09 17:18:39
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154522728248912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4e0icw/april_9th_hands/d1wbhed/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154522728268912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-20 09:03:40-07:00
+date: 2016-03-20 16:03:40
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154457920773912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4b6tt3/march_20th_today_in_history/d16ultk/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154457920778912
 tags:
 - sketchdaily
 ---

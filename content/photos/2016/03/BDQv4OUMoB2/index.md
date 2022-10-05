@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-22 09:16:39-07:00
+date: 2016-03-22 16:16:39
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154461290753912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4bgj71/march_22nd_illustrated_recipe/d19a0dh/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154464608338912
 tags:
 - sketchdaily
 ---

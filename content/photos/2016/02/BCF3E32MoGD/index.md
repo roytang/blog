@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-02-22 07:16:30-07:00
+date: 2016-02-22 14:16:30
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154389939448912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4700mt/february_22nd_passive_aggressive_cupcakes/d099nox/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154389939468912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-20 08:58:39-07:00
+date: 2016-04-20 15:58:39
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154547346958912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4fmb51/april_20th_doors/d2ag3yl/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154547346968912
 tags:
 - sketchdaily
 ---

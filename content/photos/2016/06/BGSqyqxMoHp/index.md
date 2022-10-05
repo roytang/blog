@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-05 16:44:52-07:00
+date: 2016-06-05 23:44:52
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154650125923912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4mmhir/june_5th_india/d3xehqw/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154650125938912
 tags:
 - streetfighter
 - sketchdaily

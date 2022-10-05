@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-02-29 11:14:04-07:00
+date: 2016-02-29 18:14:04
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154403596328912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/489cgt/february_29th_karaoke/d0ibhdh/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154405110928912
 tags:
 - sketchdaily
 ---

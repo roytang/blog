@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-14 11:54:08-07:00
+date: 2016-05-14 18:54:08
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154599537758912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4jal1m/may_14th_random_wikipedia_article/d35hzoj/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154599537788912
 tags:
 - sketchdaily
 ---

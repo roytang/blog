@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-17 00:56:51-07:00
+date: 2016-06-17 07:56:51
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154675363318912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4oi7r4/june_17th_free_draw_friday/d4cset9/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154677320323912
 tags:
 - sketchdaily
 - mtg

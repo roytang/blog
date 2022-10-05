@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-02-21 04:55:09-07:00
+date: 2016-02-21 11:55:09
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154387632903912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/46uk0v/february_21st_share_your_process/d081di5/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154387632913912
 tags:
 - sketchdaily
 ---

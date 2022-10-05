@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-02-23 07:34:45-07:00
+date: 2016-02-23 14:34:45
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154392100143912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/475scb/february_23rd_rickshaws/d0alc5o/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154392100163912
 tags:
 - sketchdaily
 ---

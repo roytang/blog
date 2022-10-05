@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-07-16 09:55:39-07:00
+date: 2016-07-16 16:55:39
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/754358874640117762/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154748206723912:2
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154749567998912
 tags:
 - sketchdaily
 - birdweek

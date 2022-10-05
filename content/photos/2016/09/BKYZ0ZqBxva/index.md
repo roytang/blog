@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-09-15 08:17:34-07:00
+date: 2016-09-15 15:17:34
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/776439867018477569/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154909529858912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154910828958912
 tags:
 - sketchdaily
 - onepiece

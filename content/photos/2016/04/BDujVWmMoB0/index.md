@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-02 23:04:14-07:00
+date: 2016-04-03 06:04:14
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154507535748912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4d0p69/april_2nd_monochromatic/d1nu0pc/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154507535763912
 tags:
 - sketchdaily
 ---

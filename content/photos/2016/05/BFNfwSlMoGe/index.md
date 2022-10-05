@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-09 20:00:49-07:00
+date: 2016-05-10 03:00:49
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154589588288912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4iitwe/may_9th_three_dogs/d2zgycl/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154589588538912
 tags:
 - sketchdaily
 ---

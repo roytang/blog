@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-29 16:42:42-07:00
+date: 2016-05-29 23:42:42
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154634019628912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4ljnok/may_29th_angels/d3ok80s/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154634019633912
 tags:
 - sketchdaily
 ---

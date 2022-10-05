@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-21 09:36:18-07:00
+date: 2016-05-21 16:36:18
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154613353638912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4kcofd/may_21st_witchers/d3e8n5o/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154615183128912
 tags:
 - sketchdaily
 - witcher

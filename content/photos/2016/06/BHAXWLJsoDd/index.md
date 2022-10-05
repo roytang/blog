@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-23 10:40:01-07:00
+date: 2016-06-23 17:40:01
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154693105698912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4pfmt1/june_23rd_pomegranates/d4l1xrw/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154693105718912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-11 11:53:07-07:00
+date: 2016-05-11 18:53:07
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154593076173912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4itw6g/may_11th_the_church_of_the_flying_spaghetti/d31nskw/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154593076198912
 tags:
 - sketchdaily
 ---

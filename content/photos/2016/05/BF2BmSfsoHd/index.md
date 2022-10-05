@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-25 13:46:10-07:00
+date: 2016-05-25 20:46:10
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154624868883912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4kylh6/may_25th_flies/d3jkcz0/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154624868973912
 tags:
 - sketchdaily
 - transformers

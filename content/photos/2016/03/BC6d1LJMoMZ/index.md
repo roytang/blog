@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-13 17:35:39-07:00
+date: 2016-03-14 00:35:39
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154440217013912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4a7lis/march_13th_house_of_cards/d0ydmpy/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154440217018912
 tags:
 - sketchdaily
 ---

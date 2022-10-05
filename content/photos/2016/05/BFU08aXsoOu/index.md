@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-12 16:20:39-07:00
+date: 2016-05-12 23:20:39
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154595512918912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4izn5z/may_12th_fences/d33cpvh/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154595512983912
 tags:
 - sketchdaily
 ---

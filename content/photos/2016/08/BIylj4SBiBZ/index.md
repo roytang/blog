@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-08-06 19:17:38-07:00
+date: 2016-08-07 02:17:38
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/762110464067309569/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154802785743912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154802785768912
 tags:
 - sketchdaily
 - aquaman

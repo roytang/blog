@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-06 13:59:04-07:00
+date: 2016-05-06 20:59:04
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154581784063912:2
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4i46bo/may_6th_free_draw_friday/d2vmrh5/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154582241363912
 tags:
 - sketchdaily
 ---

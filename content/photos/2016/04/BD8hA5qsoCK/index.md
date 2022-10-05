@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-08 09:13:20-07:00
+date: 2016-04-08 16:13:20
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154518085573912:1
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4dvgle/april_8th_fdf_free_draw/d1v2dvn/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154520229263912
 tags:
 - sketchdaily
 ---

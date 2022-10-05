@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-06 09:29:58-07:00
+date: 2016-06-06 16:29:58
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154650125923912:2
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4mrvwv/june_6th_the_new_pokemon_starters/d3y7u8b/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154651533558912
 tags:
 - sketchdaily
 - pokemon

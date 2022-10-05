@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-05-05 08:45:14-07:00
+date: 2016-05-05 15:45:14
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154579412603912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4hyz11/may_5th_mexico/d2twqb2/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154579412683912
 tags:
 - sketchdaily
 ---

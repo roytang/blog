@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2017-01-13 03:42:36-07:00
+date: 2017-01-13 10:42:36
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/819857207860875264/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155273776963912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155273777088912
 tags:
 - sketchdaily
 - transformers

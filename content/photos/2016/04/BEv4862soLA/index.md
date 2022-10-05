@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-28 08:03:47-07:00
+date: 2016-04-28 15:03:47
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154563615313912:2
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4gt0q4/april_28th_utopian_paradise/d2kpruo/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154564361838912
 tags:
 - sketchdaily
 ---

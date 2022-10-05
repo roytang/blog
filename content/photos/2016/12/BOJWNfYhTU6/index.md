@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-12-17 22:03:01-07:00
+date: 2016-12-18 05:03:01
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/810349659399090177/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155195119548912:2
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155195289038912
 tags:
 - rogueone
 - sketchdaily

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-04-24 09:41:35-07:00
+date: 2016-04-24 16:41:35
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154556277778912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4g7d0d/april_24th_shellfish/d2fhczz/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154556277793912
 tags:
 - sketchdaily
 ---

@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-02 21:04:49-07:00
+date: 2016-03-03 04:04:49
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154409995168912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/48ld5s/march_2nd_new_zealand/d0ln358/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154409995188912
 tags:
 - sketchdaily
 ---

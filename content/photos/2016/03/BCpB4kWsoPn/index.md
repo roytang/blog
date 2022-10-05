@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-03-06 23:04:21-07:00
+date: 2016-03-07 06:04:21
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154418042353912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/496mt7/march_6th_airships/d0qhkql/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154418042368912
 tags:
 - sketchdaily
 ---

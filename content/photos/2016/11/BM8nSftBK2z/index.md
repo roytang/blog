@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-11-18 02:50:43-07:00
+date: 2016-11-18 09:50:43
 location: ''
 source: instagram
 syndicated:
@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/799550432506945537/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155099284543912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155101196873912
 tags:
 - marcosnotahero
 - sketchdaily

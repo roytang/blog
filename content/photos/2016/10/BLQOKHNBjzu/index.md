@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-10-07 00:33:09-07:00
+date: 2016-10-07 07:33:09
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154972424093912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/56abd6/october_7th_free_draw_friday/d8hmvzr/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154972424118912
 tags:
 - sketchdaily
 - inktober
