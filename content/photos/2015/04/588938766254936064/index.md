@@ -12,6 +12,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153711161718912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153711149933912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153711217613912
 tags:
 - mobile-uploads
 - boardgames

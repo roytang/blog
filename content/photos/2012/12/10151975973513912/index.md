@@ -1,13 +1,15 @@
 ---
 albums:
 - timeline
-date: 2012-12-18 20:53:00+08:00
+date: 2012-12-18 12:53:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151975973513912
 - type: twitter
   url: https://twitter.com/roytang/status/281019338968932353/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151975973483912
 tags:
 - timeline-photos
 ---
