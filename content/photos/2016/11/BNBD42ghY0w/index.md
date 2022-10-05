@@ -12,6 +12,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/153410278820/sometimes-we-need-a-little-eacape-from-reality
 - type: twitter
   url: https://twitter.com/roytang/statuses/800176254318211073/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155106041153912
 tags:
 - sketchdaily
 ---

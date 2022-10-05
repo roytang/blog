@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/714484009699381248/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4c9be8/march_28th_old_timey_barbershop/d1gghaj/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154488352193912
 tags:
 - sketchdaily
 ---

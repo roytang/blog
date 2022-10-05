@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154575170108912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4hm9o8/may_3rd_ants/d2r7o83/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154575170128912
 tags:
 - sketchdaily
 ---

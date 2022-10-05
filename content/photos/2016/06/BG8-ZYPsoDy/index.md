@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/745558021313433601/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4p9kbd/june_22nd_beyblades/d4j6w0t/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154689865143912
 tags:
 - sketchdaily
 ---

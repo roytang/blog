@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154640072493912:0
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/4m0626/june_1st_genghis_khan/d3s0icf/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154640072523912
 tags:
 - sketchdaily
 - procreate
