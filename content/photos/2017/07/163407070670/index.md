@@ -6,6 +6,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/163407070670/i-kind-of-binged-madam-secretary-season-1-its-a
 - type: twitter
   url: https://twitter.com/roytang/statuses/889843294833922049/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155896465403912
 ---
 
-<p>I kind of binged Madam Secretary season 1. It&rsquo;s a bit like a better Designated Survivor (mostly because they handled their &ldquo;conspiracy&rdquo; better). </p><p>(No, I haven&rsquo;t gotten to the &ldquo;Duterte&rdquo; episode yet)</p>
+I kind of binged Madam Secretary season 1. It’s a bit like a better Designated Survivor (mostly because they handled their “conspiracy” better). (No, I haven’t gotten to the “Duterte” episode yet)

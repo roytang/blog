@@ -1,9 +1,11 @@
 ---
-date: 2013-04-27 23:15:00+08:00
+date: 2013-04-27 15:15:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152210534938912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152210534908912
 tags:
 - ios-photos
 ---

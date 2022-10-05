@@ -1,13 +1,17 @@
 ---
-date: 2015-04-17 05:35:18+00:00
+date: 2015-04-17 05:35:18
 source: twitter
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153711150003912:0
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10153711150003912:1  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153711150003912:1
 - type: twitter
   url: https://twitter.com/roytang/statuses/588938766254936064/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153711161718912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153711149933912
 tags:
 - mobile-uploads
 - boardgames

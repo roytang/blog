@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/457476286462824448/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152904727883912:3
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152906724718912
 ---
 
 <p>I&rsquo;ll totally steal this when I&rsquo;m president</p>

@@ -23,6 +23,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1057862142618206208/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152838020483912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152838020443912
 tags:
 - Books
 - Pop Culture

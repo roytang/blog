@@ -1,5 +1,5 @@
 ---
-date: 2016-07-05 00:39:05+00:00
+date: 2016-07-05 00:39:05
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154721490263912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154721490263912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154721490268912
 tags:
 - Fallout4
 - PS4share

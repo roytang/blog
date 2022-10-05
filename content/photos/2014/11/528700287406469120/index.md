@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/528700287406469120/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153332216918912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153332216853912
 tags:
 - PS4share
 - gaming

@@ -6,6 +6,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/149016377185/experimenting-with-making-a-comic-strip-im-using
 - type: twitter
   url: https://twitter.com/roytang/statuses/765409893813714944/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154825987618912
 tags:
 - chr philippines
 ---
