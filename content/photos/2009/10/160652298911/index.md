@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/160652298911
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/160652278911
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156977753098912
 tags:
 - timeline-photos
 ---
