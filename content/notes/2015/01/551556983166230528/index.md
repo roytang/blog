@@ -22,6 +22,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/551748917436493824/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153484199578912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153484325803912
 tags:
 - gpmanila
 ---

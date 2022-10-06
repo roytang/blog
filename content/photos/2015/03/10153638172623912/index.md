@@ -15,6 +15,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153638172623912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153638199823912
 tags:
 - travels
 - europe

@@ -9,5 +9,5 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/0BQ296soOj/
 tags:
-- london2015
+- europe2015
 ---

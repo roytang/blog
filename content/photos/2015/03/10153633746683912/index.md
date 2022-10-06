@@ -9,6 +9,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153633746683912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153633746558912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153634302083912
 tags:
 - travels
 - europe

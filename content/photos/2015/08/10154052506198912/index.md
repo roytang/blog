@@ -55,10 +55,23 @@ source: facebook
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/55e2e15d498e0c6b26d6f3d4
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154052508288912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154052534908912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154188496623912
+- type: instagram
+  url: https://instagram.com/p/7AQtrgMoG-/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154049917003912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154051508948912
 tags:
 - travels
 - london2015
-title: Museum of Natural History
+- tourist
+title: Natural History Museum
 ---
 
-Museum of Natural History
+Natural history museum #tourist

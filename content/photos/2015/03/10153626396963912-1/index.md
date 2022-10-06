@@ -10,7 +10,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153628438188912
 tags:
 - mobile-uploads
-- london2015
+- europe2015
 ---
 
 Today's lunch. Much better than yesterday's
