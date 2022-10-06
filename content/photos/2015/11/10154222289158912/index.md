@@ -7,6 +7,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154222289158912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154222293193912
 tags:
 - japan2015
 - travels
