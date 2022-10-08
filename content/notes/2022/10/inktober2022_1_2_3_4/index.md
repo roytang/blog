@@ -7,6 +7,12 @@ syndicated:
   url: https://twitter.com/roytang/status/1578732547898368001/
 - type: instagram
   url: https://www.instagram.com/p/CjdClPgvmSx/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/xtjx95/october_2nd_birdtober_campo_flicker/iriljht/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/xue3ib/october_3rd_birdtober_macaroni_penguin/irilkxa/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/xv9z0w/october_4th_birdtober_hummingbird/irillx5/
 tags:
 - inktober
 - intokber2022
