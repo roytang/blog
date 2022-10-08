@@ -5,6 +5,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/109132784884573772
 - type: twitter
   url: https://twitter.com/roytang/status/1578732547898368001/
+- type: instagram
+  url: https://www.instagram.com/p/CjdClPgvmSx/
 tags:
 - inktober
 - intokber2022
