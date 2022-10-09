@@ -13,6 +13,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/xue3ib/october_3rd_birdtober_macaroni_penguin/irilkxa/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/xv9z0w/october_4th_birdtober_hummingbird/irillx5/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/xsqhx4/october_1st_birdtober_day_1_rooster/irilia5/
 tags:
 - inktober
 - intokber2022
