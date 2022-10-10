@@ -9,10 +9,4 @@ syndicated:
 
 Somehow even more appropriate this year. 
 
-{{% quoted url="https://twitter.com/roytang/status/1091372287654121472" label="roytang's tweet" %}}
-
-
-
-{{% /quoted %}}
-
-{{< photos 1223295445172023296 >}}
+{{% note "2019/02/1091372287654121472/" %}}
