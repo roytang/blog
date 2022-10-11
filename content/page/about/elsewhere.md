@@ -8,7 +8,7 @@ submenu: "about"
 I still actively use these accounts:
 
 - <a href="https://twitter.com/roytang" rel="me">Twitter: @roytang</a>
-- <a href="https://mastodon.technology/@roytang" rel="me">Mastodon: roytang@mastodon.technology</a>
+- <a href="https://indieweb.social/@roytang" rel="me">Mastodon: roytang@indieweb.social</a>
 - <a href="https://www.youtube.com/channel/UCwpuHIsvCAdmcZ4hIS3tQHA" rel="me">My Youtube channel</a> where I occasionally post gaming videos.
 - <a href="https://twitch.tv/twitchyroy" rel="me">Twitch: twitchyroy</a>, where I occasionally stream myself playing games.
 - <a href="https://github.com/roytang" rel="me">Github: roytang</a>
