@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/14395996064/pizza-again
 - type: twitter
   url: https://twitter.com/roytang/statuses/148318392493936640/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10150437492848912
 ---
 
 <p>Pizza again?</p>

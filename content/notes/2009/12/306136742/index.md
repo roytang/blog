@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/306136742/cookie-monster-nightmare
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/222681503911
 ---
 
 <p>Cookie Monster nightmare</p>

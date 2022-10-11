@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/4c2ef1f909a99c74e0b20a2a
 - type: twitter
   url: https://twitter.com/roytang/statuses/17635231160/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/404099648911
 tags: []
 ---
 

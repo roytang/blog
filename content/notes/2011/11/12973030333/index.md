@@ -11,6 +11,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/12973030333/bob-a-fett-mailbox-win
 - type: twitter
   url: https://twitter.com/roytang/statuses/137589925137752064/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10150378105278912
 ---
 
 <blockquote>

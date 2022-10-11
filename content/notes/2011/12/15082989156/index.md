@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/15082989156/a-new-years-wish-from-neil-gaiman
 - type: twitter
   url: https://twitter.com/roytang/statuses/153134682651885568/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10150461747833912
 ---
 
 <p>A new year&rsquo;s wish from Neil Gaiman</p>

@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/702495605/10-urban-legends-that-drove-pinoys-crazy
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/399097293911
 ---
 
 <p>#1 is the best.</p>

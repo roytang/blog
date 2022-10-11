@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/306090948/via-alican
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/222629163911
 ---
 
 <p>(via <a href="http://alican.tumblr.com/">alican</a>)</p>

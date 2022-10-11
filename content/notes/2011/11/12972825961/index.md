@@ -11,6 +11,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/12972825961/save-community
 - type: twitter
   url: https://twitter.com/roytang/statuses/137587865977757696/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10150378094603912
 ---
 
 <p>Save Community!</p>

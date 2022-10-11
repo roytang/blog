@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/14263416834/the-next-summer-movie-blockbuster
 - type: twitter
   url: https://twitter.com/roytang/statuses/147336304093442048/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10150433019068912
 ---
 
 <p>The next summer movie blockbuster</p>
