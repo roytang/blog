@@ -5,6 +5,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104266688352867961
 - type: twitter
   url: https://twitter.com/roytang/statuses/1267302368514682883/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10158523900768912
 tags:
 - tech life
 title: Quitting Facebook
