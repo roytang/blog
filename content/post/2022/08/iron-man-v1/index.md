@@ -3,6 +3,10 @@ date: 2022-08-24 00:45:45
 dontinlinephotos: true
 title: "Comics: Iron Man V1 (1968-1996) and some others "
 resources:
+- src: ironman55_drax.jpg
+  title: 'Iron Man v1 #55, Feb 1973'
+- src: ironman55_thanos.jpg
+  title: 'Iron Man v1 #55, Feb 1973'
 - src: ironman73.jpg
   title: 'Canonically, Stark had a facility in the PH during the martial law era, but they didn''t know how to spell ''Philippines''. Iron Man v1 #73, March 1975'
 - src: ironman218.jpg
@@ -24,6 +28,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1562242309278027778/
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/694159689902096384/comics-iron-man-v1-1968-1996-and-some-others
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/697920985851133952/iron-man-v1-55-feb-1973-first-appearance-of
 tags:
 - comics
 reviews:
@@ -77,6 +83,15 @@ It's interesting to see the comics counterparts for the MCU villains: Obadiah St
 The Iron Man 2 villain Whiplash is more of a thug/goon in the comics than anything else, so he got a major upgrade in the MCU. Justin Hammer however is a major thorn in Stark's side, though in the comics he is more of an underworld arms dealer than a legitimate business man. A major plot point is Hammer stealing and distributing Stark tech which leads to Stark fighting a lot of armored heroes and villains to recover his stolen tech in the so-called [Armor Wars](https://en.wikipedia.org/wiki/Armor_Wars).
 
 Iron Man 3: Aldrich Killian is from the Extremis storyline which is after v1. The Mandarin however is one of Stark's oldest foes and probably the one who recurs the most in v1. Unfortunately he was also very much a racial stereotype that would probably not have translated well to the modern MCU, which is probably one of the reasons they went with the bait-and-switch with Trevor Slattery in Iron Man 3.
+
+
+#### Notable First Appearances
+
+Was surprised to learn that both Drax the Destroyer and Thanos made their first appearances in this book, in Feb 1973's Iron Man #55:
+
+{{% photos ironman55 %}}
+
+While I watching the MCU, I always felt the link between Thanos and Iron Man was a bit weird, but if he made his first appearance in this book, I guess it kind of makes sense?
 
 #### Secret Identity
 
