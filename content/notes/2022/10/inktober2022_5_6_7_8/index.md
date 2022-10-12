@@ -13,6 +13,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/xxu2xp/october_7th_birdtober_secretary_bird/irzzoiu/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/xynwr6/october_8th_drawlloween_mind_your_manors/irzzp6x/
+- type: instagram
+  url: https://www.instagram.com/p/Cjm51LgvuDN/
 tags:
 - inktober
 - intokber2022
