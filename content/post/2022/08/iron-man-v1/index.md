@@ -32,6 +32,7 @@ syndicated:
   url: https://ireadcomicbooks.tumblr.com/post/697920985851133952/iron-man-v1-55-feb-1973-first-appearance-of
 tags:
 - comics
+- complete-marvel-run
 reviews:
 - media: comics
   title: Iron Man v1
