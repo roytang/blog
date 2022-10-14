@@ -45,6 +45,8 @@ resources:
 - src: hulk410_ref_bean.jpg
   title: 'Incredible Hulk #410, Oct 1993: The prison warden in this issue looks suspiciously
     like Mr. Bean'
+- src: hulk418_ref_death.jpg
+  title: 'Incredible Hulk #418, Jun 1994: A brush... from Death?'
 - src: hulk406_tourists.jpg
   title: 'Incredible Hulk #406, Jun 1993: The tourists first appear in Reno'
 - src: hulk407_tourists.jpg
