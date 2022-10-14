@@ -1,6 +1,5 @@
 ---
-date: 2022-10-14T04:00:00+08:00
-draft: true
+date: 2022-10-14T09:00:00+08:00
 dontinlinephotos: true
 title: "Comics: Incredible Hulk (1962-1999), New Mutants (1983-1991) and others"
 resources:
@@ -201,7 +200,7 @@ The book sees Hulk travel to a post-apocalyptic future ruled by a fearsome warlo
 
 #### Immortal Hulk (2018-2021) - 50 issues
 
-This run by Al Ewing ended last year. It explored Banner's relationship with his father (Brian Banner), the Leader (Sam Sterns), among his constituent personalities, and explored the Hulk's relationship with the greater cosmology of the universe, with the finale taking place in the Below-Place, a layer of reality akin to Hell. This was an excellent run, albeit one might also find it very disturbing; it had a strong horror focus, and the art included a lot of body horror depictions. I did a quick review of the final issue before writing these notes and found that there were references to earlier characters from the 1962 volume; maybe I would have appreciated *Immortal Hulk* a bit more if I had read it after the 1962 volume.
+This run by Al Ewing ended last year. It explored Banner's relationship with his father (Brian Banner), the Leader (Sam Sterns), among his constituent personalities, and explored the Hulk's relationship with the greater cosmology of the universe, with the finale taking place in the Below-Place, a layer of reality akin to Hell. This was an excellent run, albeit one might also find it very disturbing; it was very macabre and had a strong horror focus, and the art included a lot of body horror depictions. I did a quick review of the final issue before writing these notes and found that there were references to earlier characters from the 1962 volume; maybe I would have appreciated *Immortal Hulk* a bit more if I had read it after the 1962 volume.
 
 ### Other Comics
 
@@ -215,8 +214,8 @@ And as usual, a lot of individual issues for ongoing runs.
 
 ### Summary: 541 issues
 
-This post ended up with so many words! We covered 541 issues over around 6 weeks of reading, which is a decent pace. I am not sure if I will make it to the end of this complete run, but I do enjoy doing these posts (and collecting old-timey comic screenshots), though it's a bit exhausting!
+This post ended up with so many words! We covered 541 issues over around 6 weeks of reading, which is a decent pace, considering I still read other stuff too. I am not sure if I will make it to the end of this complete run, but I do enjoy doing these posts (and collecting old-timey comic screenshots), though it's a bit exhausting!
 
 ### What's Next
 
-Next in MCU order is of course Captain America, another very long series, around 355 issues to cover. The secondary series will probably be X-Factor (1986); I've read most of the second half starting from Peter David introducing the government-sponsored team, but never read the first half, and it will provide some nice continuity after New Mutants (I'm not yet ready for more Liefeld, so X-Force will be for later). See you in about 6 weeks!
+Next in MCU order is of course Captain America, so we are going to be fighting Nazis for a while. It's another very long series, around 355 issues to cover. The secondary series will probably be X-Factor (1986); I've read most of the second half starting from Peter David introducing the government-sponsored team, but never read the first half, and it will provide some nice continuity after New Mutants (I'm not yet ready for more Liefeld, so X-Force will be for later). See you in about 6 weeks!
