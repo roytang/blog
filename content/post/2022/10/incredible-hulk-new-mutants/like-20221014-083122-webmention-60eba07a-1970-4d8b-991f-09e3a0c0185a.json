@@ -1,0 +1,29 @@
+{
+  "id": "60eba07a-1970-4d8b-991f-09e3a0c0185a",
+  "name": "WKLmtg",
+  "url": "https://twitter.com/LmtgWk",
+  "text": "[WKLmtg](https://twitter.com/LmtgWk) [liked this](https://twitter.com/roytang/status/1580788903782780928#favorited-by-1300094579866206210)",
+  "date": "2022-10-14 08:31:22 +0000",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/2b1c77008fea609226c7f3ab75d2153039c20b631ef46bc24ce921be09ee98d5.jpg",
+  "source_url": "https://twitter.com/roytang/status/1580788903782780928#favorited-by-1300094579866206210",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "WKLmtg",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/2b1c77008fea609226c7f3ab75d2153039c20b631ef46bc24ce921be09ee98d5.jpg",
+      "url": "https://twitter.com/LmtgWk"
+    },
+    "url": "https://twitter.com/roytang/status/1580788903782780928#favorited-by-1300094579866206210",
+    "published": null,
+    "wm-received": "2022-10-14T08:31:22Z",
+    "wm-id": 1538302,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1580788903782780928/1300094579866206210",
+    "wm-target": "https://roytang.net/2022/10/incredible-hulk-new-mutants/",
+    "like-of": "https://roytang.net/2022/10/incredible-hulk-new-mutants/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
