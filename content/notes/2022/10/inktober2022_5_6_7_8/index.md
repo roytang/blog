@@ -19,7 +19,7 @@ tags:
 - inktober
 - intokber2022
 - sketchdaily
-title: ''
+title: 'Inktober 2022 #5-8'
 ---
 
 I'm doing these 4 at a time but somehow I'm still falling further behind.

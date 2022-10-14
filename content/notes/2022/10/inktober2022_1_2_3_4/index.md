@@ -19,7 +19,7 @@ tags:
 - inktober
 - intokber2022
 - sketchdaily
-title: ''
+title: 'Inktober 2022 #1-4'
 ---
 
 Okay, I guess we're doing this. #Inktober2022 (and #sketchdaily) catchup:

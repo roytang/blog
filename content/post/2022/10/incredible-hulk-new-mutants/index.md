@@ -218,6 +218,10 @@ This was a miniseries written by Peter David that took place during his run whil
 
 The book sees Hulk travel to a post-apocalyptic future ruled by a fearsome warlord called the Maestro, who Hulk later discovers is actually a future version of himself who has defeated all other superheroes to reign over the world.
 
+Edit: Forgot to mention this book was drawn by the legendary George Perez:
+
+{{% photos future %}}
+
 #### Immortal Hulk (2018-2021) - 50 issues
 
 This run by Al Ewing ended last year. It explored Banner's relationship with his father (Brian Banner), the Leader (Sam Sterns), among his constituent personalities, and explored the Hulk's relationship with the greater cosmology of the universe, with the finale taking place in the Below-Place, a layer of reality akin to Hell. This was an excellent run, albeit one might also find it very disturbing; it was very macabre and had a strong horror focus, and the art included a lot of body horror depictions. I did a quick review of the final issue before writing these notes and found that there were references to earlier characters from the 1962 volume; maybe I would have appreciated *Immortal Hulk* a bit more if I had read it after the 1962 volume.
