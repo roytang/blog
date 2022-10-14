@@ -1,0 +1,11 @@
+{
+  "id": "6f950c45-e83f-4321-a29e-9f0e562308a4",
+  "name": "ryan",
+  "url": "https://ryanthomas.org/users/ryan",
+  "text": "<p>curl https://indieweb.social/.well-known/webfinger?resource=roytang@indieweb.social</p><p>This command run in shell should return json output with your old ID among the values for \u201calias\u201d but it\u2019s not showing</p>",
+  "date": "2022-10-14 01:05:02 +0000",
+  "photo": "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/108/921/376/531/862/580/original/56a633dcf2054f1d.gif",
+  "source_url": "https://ryanthomas.org/objects/c72aad50-968a-4b3f-9536-75cf41a0c477",
+  "source": "mastodon",
+  "spam": false
+}
