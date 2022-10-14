@@ -1,16 +1,17 @@
 ---
-date: 2022-10-14T09:00:00+08:00
+date: 2022-10-14 01:00:00
 dontinlinephotos: true
-title: "Comics: Incredible Hulk (1962-1999), New Mutants (1983-1991) and others"
 resources:
 - src: crossroads1.jpg
   title: 'Symbiote Spider-Man Crossroads #5, Jan 2022: Apologies for Greg Land'
 - src: crossroads2.jpg
-  title: 'Symbiote Spider-Man Crossroads #5, Jan 2022: I''m surprised Hulk knows who Beast is, they never met during the Hulk run'
+  title: 'Symbiote Spider-Man Crossroads #5, Jan 2022: I''m surprised Hulk knows who
+    Beast is, they never met during the Hulk run'
 - src: hulk181_wolverine.PNG
   title: 'Incredible Hulk #181, Nov 1974, first full appearance of Wolverine'
 - src: hulk181_wolverine2.PNG
-  title: 'Wolverine has to be the scrawniest character to ever survive going toe-to-toe vs the Hulk'
+  title: Wolverine has to be the scrawniest character to ever survive going toe-to-toe
+    vs the Hulk
 - src: hulk340_wolverine.jpg
   title: 'Incredible Hulk #340, Feb 1998, second encounter'
 - src: hulk256_cover_sabra.PNG
@@ -24,36 +25,46 @@ resources:
 - src: hulk139_nixon.jpg
   title: 'Incredible Hulk #139, May 1971, Nixon authorizes an alliance with the Leader'
 - src: hulk146_nixon.jpg
-  title: 'Incredible Hulk #146, Dec 1971, Jim Wilson discovers android doubles of Nixon and Agnew'
+  title: 'Incredible Hulk #146, Dec 1971, Jim Wilson discovers android doubles of
+    Nixon and Agnew'
 - src: hulk409_charles.jpg
-  title: 'Incredible Hulk #409, Sep 1993, then-Prince of Wales Charles was held hostage by a baddie'
+  title: 'Incredible Hulk #409, Sep 1993, then-Prince of Wales Charles was held hostage
+    by a baddie'
 - src: hulk140_ref_shazam.jpg
-  title: 'Incredible Hulk #140, Jun 1971: Reference to Shazam, a character who was not licensed to DC until 1972'
+  title: 'Incredible Hulk #140, Jun 1971: Reference to Shazam, a character who was
+    not licensed to DC until 1972'
 - src: hulk355_ref_keaton.jpg
-  title: 'Incredible Hulk #355, May 1989: Background characters debate the casting of Keaton, presumably as the lead in the Batman film released the same year'
+  title: 'Incredible Hulk #355, May 1989: Background characters debate the casting
+    of Keaton, presumably as the lead in the Batman film released the same year'
 - src: hulk381_ref_spader.jpg
-  title: 'Incredible Hulk #381, May 1991: Rick Jones puns on the name of actor James Spader. Unsure which Spader movie is being referred to.'
+  title: 'Incredible Hulk #381, May 1991: Rick Jones puns on the name of actor James
+    Spader. Unsure which Spader movie is being referred to.'
 - src: hulk399_ref_bogus.jpg
-  title: 'Incredible Hulk #399, Nov 1992: The "Bogus" movie mentioned by Strange is of course "Bill and Ted''s Bogus Journey", released 1991'
+  title: 'Incredible Hulk #399, Nov 1992: The "Bogus" movie mentioned by Strange is
+    of course "Bill and Ted''s Bogus Journey", released 1991'
 - src: hulk410_ref_bean.jpg
-  title: 'Incredible Hulk #410, Oct 1993: The prison warden in this issue looks suspiciously like Mr. Bean'
+  title: 'Incredible Hulk #410, Oct 1993: The prison warden in this issue looks suspiciously
+    like Mr. Bean'
 - src: hulk406_tourists.jpg
   title: 'Incredible Hulk #406, Jun 1993: The tourists first appear in Reno'
 - src: hulk407_tourists.jpg
   title: 'Incredible Hulk #407, Jul 1993: Suddenly they are in Scotland!'
 - src: hulk409_tourists.jpg
-  title: 'Incredible Hulk #409, Sep 1993: Last appearance in London, now speaking German. The placement of that theater sign is top-notch.'
+  title: 'Incredible Hulk #409, Sep 1993: Last appearance in London, now speaking
+    German. The placement of that theater sign is top-notch.'
 - src: hulk150_weird_havok1.jpg
-  title: 'Incredible Hulk 150, Apr 1972: X-Man Havok makes a guest appearance and finds strange new uses for his powers which I''ve never seen him use outside this issue.'
+  title: 'Incredible Hulk 150, Apr 1972: X-Man Havok makes a guest appearance and
+    finds strange new uses for his powers which I''ve never seen him use outside this
+    issue.'
 - src: hulk150_weird_havok2.jpg
-  title: 'Incredible Hulk 150, Apr 1972: Hulk would later meet Havok again in #392 during a crossover with X-Factor, another Peter David book.'
+  title: 'Incredible Hulk 150, Apr 1972: Hulk would later meet Havok again in #392
+    during a crossover with X-Factor, another Peter David book.'
 - src: hulk412_weird_timescale.jpg
-  title: 'Incredible Hulk #412, Dec 1993: A rare She-Hulk appearance, and it makes Betty break the 4th wall and reference the sliding timescale'
+  title: 'Incredible Hulk #412, Dec 1993: A rare She-Hulk appearance, and it makes
+    Betty break the 4th wall and reference the sliding timescale'
 - src: hulk435_weird_blackface.jpg
-  title: 'Incredible Hulk #435, Nov 1995: Hulk does blackface to pass as normal. Not cool Peter David!'
-tags:
-- comics
-- complete-marvel-run
+  title: 'Incredible Hulk #435, Nov 1995: Hulk does blackface to pass as normal. Not
+    cool Peter David!'
 reviews:
 - media: comics
   title: Incredible Hulk
@@ -61,20 +72,29 @@ reviews:
 - media: comics
   title: New Mutants
   year: 1983
-- media: comics
-  title: "Hulk: Future Imperfect"
+- date: 1992-12-31
+  media: comics
+  title: 'Hulk: Future Imperfect'
   year: 1992
-  date: 1992-12-31
-- media: comics
+- date: 2021-10-31
+  media: comics
   title: Immortal Hulk
   year: 2018
-  date: 2021-10-31
 - media: comics
-  title: "Symbiote Spider-Man: Crossroads"
+  title: 'Symbiote Spider-Man: Crossroads'
   year: 2021
 - media: comics
   title: Sabretooth
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109164915202480728
+- type: twitter
+  url: https://twitter.com/roytang/status/1580788903782780928/
+tags:
+- comics
+- complete-marvel-run
+title: 'Comics: Incredible Hulk (1962-1999), New Mutants (1983-1991) and others'
 ---
 
 ### Previously
