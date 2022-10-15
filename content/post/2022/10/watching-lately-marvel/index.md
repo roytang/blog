@@ -1,41 +1,46 @@
 ---
-title: "Watching Lately: Marvel Stuff"
-date: 2022-10-15T16:06:07+08:00
+date: 2022-10-15 08:06:07
+dontinlinephotos: true
+reviews:
+- description: Daddy issues
+  hashtag: hulk-2003
+  media: movies
+  rating: 3.0
+  title: Hulk
+  year: 2003
+- hashtag: new-mutants-2020
+  media: movies
+  rating: 3.0
+  title: New Mutants
+  year: 2020
+- description: Rewatch
+  hashtag: incredible-hulk-2008
+  media: movies
+  rating: 4.0
+  title: Incredible Hulk
+  year: 2008
+- description: A fun fourth-wall-breaking fan-service legal comedy
+  hashtag: she-hulk-attorney-at-law
+  media: tv
+  rating: 4.5
+  title: She-Hulk Attorney at Law
+  year: 2022
+- hashtag: werewolf-by-night
+  media: tv
+  rating: 3.5
+  title: Werewolf By Night
+  year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109171436300299051
+- type: twitter
+  url: https://twitter.com/roytang/status/1581206251924439041/
 tags:
 - movies
 - tv
 - watching-lately
 - mcu
-dontinlinephotos: true
-reviews:
-- media: movies
-  title: Hulk
-  year: 2003
-  description: Daddy issues
-  rating: 3.0
-  hashtag: hulk-2003
-- media: movies
-  title: New Mutants
-  year: 2020
-  rating: 3.0
-  hashtag: new-mutants-2020
-- media: movies
-  title: Incredible Hulk
-  year: 2008
-  description: Rewatch
-  rating: 4.0
-  hashtag: incredible-hulk-2008
-- media: tv
-  title: She-Hulk Attorney at Law
-  year: 2022
-  rating: 4.5
-  description: A fun fourth-wall-breaking fan-service legal comedy
-  hashtag: she-hulk-attorney-at-law
-- media: tv
-  title: Werewolf By Night
-  year: 2022
-  rating: 3.5
-  hashtag: werewolf-by-night
+title: 'Watching Lately: Marvel Stuff'
 ---
 
 I recently published [a long-ish blog plost about the Hulk and New Mutants comics](/2022/10/incredible-hulk-new-mutants/). And also I haven't watched any new movies lately, so I took the opportunity to knock a couple of related items off my "poorly-reviewed comic book movies" list.
