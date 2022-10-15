@@ -71,23 +71,29 @@ reviews:
 - media: comics
   title: Incredible Hulk
   year: 1962
+  hashtag: incredible-hulk-1962-1969-379-issues
 - media: comics
   title: New Mutants
-  year: 1983
+  year: 1983has
+  hashtag: new-mutants-1983-1991-100-issues
 - date: 1992-12-31
   media: comics
   title: 'Hulk: Future Imperfect'
+  hashtag: hulk-future-imperfect-1992-2-issues
   year: 1992
 - date: 2021-10-31
   media: comics
   title: Immortal Hulk
   year: 2018
+  hashtag: immortal-hulk-2018-2021-50-issues
 - media: comics
   title: 'Symbiote Spider-Man: Crossroads'
   year: 2021
+  hashtag: other-comics
 - media: comics
   title: Sabretooth
   year: 2022
+  hashtag: other-comics
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109164915202480728
