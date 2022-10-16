@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/151729262325/coding-frameworks
 - type: twitter
   url: https://twitter.com/roytang/statuses/786380194185617408/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154989386883912
 tags:
 - Software Development
 title: Coding Frameworks

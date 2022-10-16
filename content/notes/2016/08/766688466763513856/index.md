@@ -8,11 +8,12 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/766688466763513856/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154835278403912
 title: ''
 ---
 
 So anyway, this has made my day.
 
 
-
-http://now.howstuffworks.com/2016/07/20/reading-harry-potter-donald-trump-opinion
+[Reading 'Harry Potter' Influences How Americans View Donald Trump](http://now.howstuffworks.com/2016/07/20/reading-harry-potter-donald-trump-opinion)

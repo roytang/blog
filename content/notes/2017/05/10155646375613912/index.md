@@ -7,6 +7,4 @@ syndicated:
 title: ''
 ---
 
-https://qz.com/969245/it-took-a-century-to-create-the-weekend-and-only-a-decade-to-undo-it/?utm_source=qzfb
-
 [It took a century to create the weekend—and only a decade to undo it](https://qz.com/969245/it-took-a-century-to-create-the-weekend-and-only-a-decade-to-undo-it/)

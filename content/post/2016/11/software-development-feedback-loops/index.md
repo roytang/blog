@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/152666290735/software-development-feedback-loops
 - type: twitter
   url: https://twitter.com/roytang/statuses/793988761541611525/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155056925558912
 tags:
 - Software Development
 title: Software Development Feedback Loops

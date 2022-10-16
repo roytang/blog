@@ -5,6 +5,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/776815153681539073/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154913641378912
 tags:
 - teddyboylocsin
 ---

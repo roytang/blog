@@ -10,6 +10,8 @@ source: goodreads
 syndicated:
 - type: goodreads
   url: https://www.goodreads.com/review/show/1647720616
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154622403108912
 tags:
 - books
 title: 'Book Review: The Making of Karateka by Mechner, Jordan'

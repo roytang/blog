@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/779682441011179520/
-title: ''
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154936243318912
+title: 'This is heavy doc!'
 ---
 
-‘Back to the Future’ Fan Theory Suggests the Trilogy is an Elaborate Chiasmus — http://bit.ly/2cSzc11
+‘Back to the Future’ Fan Theory Suggests the Trilogy is an Elaborate Chiasmus — http://mentalfloss.com/article/86265/back-future-fan-theory-suggests-trilogy-elaborate-chiasmus
