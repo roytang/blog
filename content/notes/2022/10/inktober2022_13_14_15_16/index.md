@@ -9,6 +9,10 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/y2tr13/october_13th_drawlloween_when_wolf/isng1gi/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/y3ontu/october_14th_drawlloween_pumpkinder_garten/isng21x/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/y4iydv/october_15th_drawtober_the_season_of_the_witch/isng33e/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/y5c0fz/october_16th_drawtober_garden_of_magick/isng3ul/
 tags:
 - inktober
 - intokber2022
