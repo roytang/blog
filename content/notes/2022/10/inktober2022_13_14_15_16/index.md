@@ -13,6 +13,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/y4iydv/october_15th_drawtober_the_season_of_the_witch/isng33e/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/y5c0fz/october_16th_drawtober_garden_of_magick/isng3ul/
+- type: instagram
+  url: https://www.instagram.com/p/CjztoDmODv6/
 tags:
 - inktober
 - intokber2022
