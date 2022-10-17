@@ -9,7 +9,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/779277807427825664/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154933137383912
 title: ''
 ---
 
-Ruby vs Python: #.ez6qan7m3
+Ruby vs Python: 

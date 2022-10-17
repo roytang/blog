@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/153281781825/unclear-error-messages
 - type: twitter
   url: https://twitter.com/roytang/statuses/799063125614006272/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155097816988912
 tags:
 - Software Development
 title: Unclear error messages
