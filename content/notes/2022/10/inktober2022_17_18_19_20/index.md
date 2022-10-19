@@ -11,6 +11,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/y71kuw/october_18th_drawtober_spellbook_apprentice/isye3ya/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/y7xh8l/october_19th_drawtober_fiendish_familiar/isye51j/
+- type: instagram
+  url: https://www.instagram.com/p/Cj5v295PNTc/
 tags:
 - inktober
 - intokber2022
