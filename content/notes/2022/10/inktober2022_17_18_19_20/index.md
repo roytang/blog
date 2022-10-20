@@ -13,6 +13,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/y7xh8l/october_19th_drawtober_fiendish_familiar/isye51j/
 - type: instagram
   url: https://www.instagram.com/p/Cj5v295PNTc/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/y8szsz/october_20th_drawtober_bewitched_bog/it2wlaj/
 tags:
 - inktober
 - intokber2022
