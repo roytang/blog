@@ -1,9 +1,14 @@
 ---
-date: 2022-10-21T23:38:51+08:00
+date: 2022-10-21 15:38:51
 reviews:
 - media: books
   rating: 4.5
   title: Shadows of Self by Brandon Sanderson
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109207316261164948
+- type: twitter
+  url: https://twitter.com/roytang/status/1583502552326627328/
 tags:
 - books
 - mistborn
