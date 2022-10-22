@@ -6,6 +6,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/109114411251923982
 - type: twitter
   url: https://twitter.com/roytang/status/1577556644447551489/
+- type: twitter
+  url: https://twitter.com/roytang/status/1583849707457351680/
 tags:
 - gamedev
 - gamejam
@@ -90,3 +92,21 @@ Some screenshots of the game attached below!
 {{% photos 10spd %}}
 
 Will update this post when the results come out!
+
+<time id="1583849707457351680">[2022-10-22 23:56] </time> LD51 results are in! 10 Second Pizza Delivery finished 346th overall (out of 623 compo submissions)
+
+
+
+Previously:
+
+
+
+LD50 Untitled Shooty Game - 435th
+
+LD48 Diver - 265th
+
+
+
+At least it was an improvement over the last one! And I learned a lot from doing this entry! 
+
+{{< photos 1583849707457351680 >}}
