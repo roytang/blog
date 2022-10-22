@@ -2,7 +2,7 @@
 albums:
 - instagram
 date: 2017-03-11 15:08:51
-location: ''
+location: 57f8cba4498e0e9079df51f1
 source: instagram
 syndicated:
 - type: instagram
