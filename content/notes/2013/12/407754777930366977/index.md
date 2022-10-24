@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/407754777930366977/
 tags:
 - tv
+- personofinterest
 ---
 
 Person of Interest is pretty much Batman, except he's split into the billionaire and the vigilante, and they don't wear masks
