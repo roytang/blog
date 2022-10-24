@@ -1,5 +1,5 @@
 ---
-title: "Popquiz 6 All The World's A Stage"
+title: "Popquiz: All The World's A Stage"
 date: 2022-10-20T23:00:00+08:00
 tags:
 - quiznight
