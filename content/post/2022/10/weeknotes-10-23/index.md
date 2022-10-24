@@ -24,6 +24,7 @@ Monday weeknotes again, very late this time because I was away most of Sunday an
 
 - UK: [Liz Truss has resigned after 44 days in office](https://nypost.com/2022/10/20/liz-truss-resigns-as-british-prime-minister/), setting a record for shortest ever term as UK PM. [Rishi Sunak is taking over](https://edition.cnn.com/2022/10/24/uk/profile-rishi-sunak-uk-politics-intl-gbr/index.html). 
 - PH: In a bit of *schadenfreude*, one of my chat groups was discussing how politics in more advanced nations can be just as bad as ours, where Marcos appointed [a former police chief as Health undersecretary](https://mb.com.ph/2022/10/23/ex-pnp-chief-cascolan-appointed-as-new-doh-undersecretary/) (a department which doesn't even have a cabinet secretary yet!) and the alleged middleman in the assassination of a government critic [has died in prison](https://mb.com.ph/2022/10/20/middleman-in-percy-lapid-killingdies-in-national-bilibid-prison-doj/), a bit of a suspicious plot twist.
+- Entertainment: [Disney+ is *finally* coming to the PH next month](https://twitter.com/dumidyeypee/status/1582918007612837888)! Not yet sure I'd get it though, seems less solid if I don't have kids.
 
 ### My Week
 
