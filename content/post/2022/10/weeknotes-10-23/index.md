@@ -27,7 +27,7 @@ Monday weeknotes again, very late this time because I was away most of Sunday an
 
 ### My Week
 
-- My week was mixed. On the one hand, last week's bad news about a friend became even worse, and the worst-case scenario is now likely. On the other hand, I did spend the weekend celebrating an occasion with family, so that's nice.
+- My week was mixed. On the one hand, last week's bad news about a friend became even worse, and the worst-case scenario is now likely. On the other hand, I did spend the weekend [relaxing and celebrating an occasion with family](/2022/10/seda/), so that's nice.
 
 - Managed to catch up with [Inktober 2022](/tags/inktober2022) late last week, then promptly fell behind again since my weekend was busy.
 
@@ -40,9 +40,7 @@ Monday weeknotes again, very late this time because I was away most of Sunday an
 
 - Trivia team attended [another in-person quiz night last Thursday](/2022/10/popquiz-stage/) and it went reasonably well.
 
-### Media Diet
-
-- Watched [Bullet Train (2022)](/notes/2022/10/bullet-train/) last Saturday, and snuck in a cinema viewing of [Black Adam (2022)](/notes/2022/10/black-adam/) during Sunday's staycation.
+- Media Diet: Watched [Bullet Train (2022)](/notes/2022/10/bullet-train/) last Saturday, and snuck in a cinema viewing of [Black Adam (2022)](/notes/2022/10/black-adam/) during Sunday's staycation. Finished reading [Shadows of Self](/2022/10/shadows-of-self/) as well!
 
 ### Some Links of Interest
 
@@ -58,3 +56,5 @@ Visit the [Links page](/links/) for more links of interest.
 
 - It's the last week of October! Time flies, etc. Next weekend is a long weekend hereabouts.
 - Apparently Jodie Whitaker's Doctor Who regenerated over the weekend and the internet immediately spoiled a surprise for me. Time to catch up! Actually, there's a bunch of shows I really should just watch already.
+- In MTG land, Brothers War preview season should officially kick off this week!
+- Later this week, we should find out whether Elon Musk really will buy Twitter!

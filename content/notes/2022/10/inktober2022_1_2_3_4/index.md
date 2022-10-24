@@ -17,7 +17,7 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/xsqhx4/october_1st_birdtober_day_1_rooster/irilia5/
 tags:
 - inktober
-- intokber2022
+- inktober2022
 - sketchdaily
 title: 'Inktober 2022 #1-4'
 ---

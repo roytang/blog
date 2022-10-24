@@ -17,7 +17,7 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/y1yrem/october_12th_drawlloween_judge_sludge/isn5asm/
 tags:
 - inktober
-- intokber2022
+- inktober2022
 - sketchdaily
 title: 'Inktober 2022 #9-12'
 ---

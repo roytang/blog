@@ -17,7 +17,7 @@ syndicated:
   url: https://www.instagram.com/p/CjztoDmODv6/
 tags:
 - inktober
-- intokber2022
+- inktober2022
 - sketchdaily
 title: 'Inktober 2022 #13-16'
 ---

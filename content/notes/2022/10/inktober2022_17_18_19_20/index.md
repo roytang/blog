@@ -17,7 +17,7 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/y8szsz/october_20th_drawtober_bewitched_bog/it2wlaj/
 tags:
 - inktober
-- intokber2022
+- inktober2022
 - sketchdaily
 title: 'Inktober 2022 #17-20'
 ---
