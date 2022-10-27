@@ -1,5 +1,16 @@
 ---
-date: 2022-10-28T03:34:34+08:00
+date: 2022-10-27 19:34:34
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109241922319656804
+- type: twitter
+  url: https://twitter.com/roytang/status/1585717350912827393/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/yd00d5/october_25th_inktober_tempting/iu12nfu/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/ydt7lp/october_26th_inktober_ego/iu12o7y/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/yemx75/october_27th_inktober_snack/iu12p4m/
 tags:
 - inktober
 - inktober2022
