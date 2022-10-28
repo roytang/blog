@@ -11,6 +11,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/ydt7lp/october_26th_inktober_ego/iu12o7y/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/yemx75/october_27th_inktober_snack/iu12p4m/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/yfiyv6/october_28th_inktober_uhoh/iu3vsut/
 tags:
 - inktober
 - inktober2022
