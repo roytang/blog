@@ -11,12 +11,4 @@ tags:
 
 I wonder what BS humanity was giving me 2 years ago on this day. (I still wouldn't mind being a hermit)
 
-{{% quoted url="https://www.facebook.com/sarahaddisonallen/posts/10153658444263810" label="Sarah Addison Allen's Facebook post" %}}
-
-Today, October 29, is National Hermit Day.  Happy day, fellow hermits!
-
-{{% photos 10156145684288912%}}
-
-
-
-{{% /quoted %}}
+{{% note "2015/10/10154168677833912/" %}}
