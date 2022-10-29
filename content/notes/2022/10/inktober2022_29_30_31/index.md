@@ -1,6 +1,5 @@
 ---
 date: 2022-10-29T14:34:32+08:00
-syndicated:
 tags:
 - inktober
 - inktober2022
