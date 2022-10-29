@@ -5,6 +5,9 @@ tags:
 - inktober2022
 - sketchdaily
 title: 'Inktober 2022 #29-31'
+resources:
+- src: inktober2022_0029.jpg
+  title: 29 - Uh-oh
 ---
 
 Still doing a single post for the last batch, will add the next entries one at a time.
