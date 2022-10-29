@@ -1,11 +1,12 @@
 ---
-title: "Doctor Who 2022 Specials"
-date: 2022-10-29T14:21:52+08:00
-tags:
-- doctorwho
+date: 2022-10-29 06:21:52
 reviews:
 - media: tv
   title: Doctor Who 2022 Specials
+tags:
+- doctorwho
+- tv
+title: Doctor Who 2022 Specials
 ---
 
 Caught up with Jodie's last 3 Doctor Who specials this week, since the internet already spoiled me about the thing at the end. Spoilers will be unmarked.
