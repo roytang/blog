@@ -1,13 +1,16 @@
 ---
-date: 2022-10-29T14:34:32+08:00
+date: 2022-10-29 06:34:32
+resources:
+- src: inktober2022_0029.jpg
+  title: 29 - Uh-oh
+syndicated:
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/ygen7z/october_29th_catober_titan/iu8d5cu/
 tags:
 - inktober
 - inktober2022
 - sketchdaily
 title: 'Inktober 2022 #29-31'
-resources:
-- src: inktober2022_0029.jpg
-  title: 29 - Uh-oh
 ---
 
 Still doing a single post for the last batch, will add the next entries one at a time.
