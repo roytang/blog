@@ -3,6 +3,8 @@ date: 2022-10-29 06:34:32
 resources:
 - src: inktober2022_0029.jpg
   title: 29 - Uh-oh
+- src: inktober2022_0030.jpg
+  title: 30 - Gear
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/ygen7z/october_29th_catober_titan/iu8d5cu/
@@ -16,5 +18,7 @@ title: 'Inktober 2022 #29-31'
 Still doing a single post for the last batch, will add the next entries one at a time.
 
 29 - Uh-oh
+
+30 - Gear
 
 #inktober #inktober2022 #sketchdaily

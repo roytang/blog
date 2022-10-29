@@ -17,7 +17,7 @@ syndicated:
 
 Watched X-Men: Days of Future Past at Trinoma.
 
-{{% note /2014/05/chpdbl9/ %}}
+{{% note "/2014/05/chpdbl9/" %}}
 
 <time>[2014-05-24, 00:55]</time> As an X-Men fan, I really liked Days of Future Past. Bryan Singer set out to correct the mistakes of the past (literally), and he delivered, and the payoff at the end was great. This was the X-Men movie we deserved! Here, have some more X-Men: 
 
