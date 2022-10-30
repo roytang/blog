@@ -5,6 +5,8 @@ resources:
   title: 29 - Uh-oh
 - src: inktober2022_0030.jpg
   title: 30 - Gear
+- src: inktober2022_0031.jpg
+  title: 31 - Farm
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/ygen7z/october_29th_catober_titan/iu8d5cu/
@@ -20,5 +22,9 @@ Still doing a single post for the last batch, will add the next entries one at a
 29 - Uh-oh
 
 30 - Gear
+
+31 - Farm
+
+Inktober2022 is done!
 
 #inktober #inktober2022 #sketchdaily
