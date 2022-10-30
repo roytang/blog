@@ -10,6 +10,8 @@ resources:
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/ygen7z/october_29th_catober_titan/iu8d5cu/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/yh9n7g/october_30th_catober_fly/iudybn1/
 tags:
 - inktober
 - inktober2022
