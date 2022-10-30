@@ -12,6 +12,10 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/ygen7z/october_29th_catober_titan/iu8d5cu/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/yh9n7g/october_30th_catober_fly/iudybn1/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109258418960843055
+- type: twitter
+  url: https://twitter.com/roytang/status/1586773131821056001/
 tags:
 - inktober
 - inktober2022
