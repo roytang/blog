@@ -16,6 +16,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/109258418960843055
 - type: twitter
   url: https://twitter.com/roytang/status/1586773131821056001/
+- type: instagram
+  url: https://www.instagram.com/p/CkXUtCePt5d/
 tags:
 - inktober
 - inktober2022
