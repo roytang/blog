@@ -1,6 +1,11 @@
 ---
-date: 2022-10-31T13:44:54+08:00
+date: 2022-10-31 05:44:54
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109261525145045331
+- type: twitter
+  url: https://twitter.com/roytang/status/1586971920972775426/
 tags:
 - weeknotes
 - philippines
