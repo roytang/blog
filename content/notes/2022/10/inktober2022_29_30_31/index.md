@@ -18,6 +18,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1586773131821056001/
 - type: instagram
   url: https://www.instagram.com/p/CkXUtCePt5d/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/yi5ksy/october_31st_catober_haunt/iuhpprw/
 tags:
 - inktober
 - inktober2022
