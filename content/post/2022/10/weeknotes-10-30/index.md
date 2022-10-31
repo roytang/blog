@@ -27,7 +27,7 @@ Monday weeknotes are here to stay apparently.
 
 ### My Week
 
-- It has been a difficult week. One of my oldest and closest friends passed away last Thursday after a couple of weeks in a coma. I have been feeling down, unproductive and restless, on and off. Not much else to say about it. Today's weeknotes won't be very long.
+- It has been a difficult week. One of my oldest and closest friends passed away last Wednesday after a couple of weeks in a coma. I have been feeling down, unproductive and restless, on and off. Not much else to say about it. Today's weeknotes won't be very long.
 
 - I did finally manage to complete the [Inktober 2022](/tags/inktober2022) run on time, so that's something. I'm not sure if I have the energy to continue with [#sketchdaily](/tags/sketchdaily), I guess I will find out tomorrow.
 
