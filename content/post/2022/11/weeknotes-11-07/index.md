@@ -41,6 +41,13 @@ title: Weeknotes 2022-11-07
 
 Visit the [Links page](/links/) for more links of interest.
 
+Some stuff I liked from Twitter:
+
+- [A comic about comparing yourselves to your friends](https://twitter.com/briandito/status/1589060030749282304)
+- [A comic about a farmer and a god of nothing](https://twitter.com/reimenayee/status/1587460098234142727)
+- [A comic crossover between Frasier and Columbo](https://twitter.com/joechoui/status/1582419562242273290)
+- [Thoughts on droids and slavery in Star Wars](https://twitter.com/StorySlug/status/1587803904925908992)
+
 ### This coming week:
 
 - Wakanda Forever comes out this week! We'll probably watch it next Sunday.
