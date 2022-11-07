@@ -1,6 +1,11 @@
 ---
-date: 2022-11-07T13:05:33+08:00
+date: 2022-11-07 05:05:33
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109301742294449294
+- type: twitter
+  url: https://twitter.com/roytang/status/1589545818541154304/
 tags:
 - weeknotes
 title: Weeknotes 2022-11-07
