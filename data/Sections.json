@@ -16,9 +16,17 @@
         "label": "Notes",
         "descrip": "Microblog-like status updates."
     },
+    "likes": {
+        "label": "Likes",
+        "descrip": "Likes/favorites."
+    },
     "fiction": {
         "label": "Fiction",
         "descrip": "Some works of fiction I have written."
+    },
+    "links": {
+        "label": "Links",
+        "descrip": "Shared links. Related: <a href='/page/links/unprocessed'>Unprocessed Links</a>"
     },
     "links": {
         "label": "Links",
