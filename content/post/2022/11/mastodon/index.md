@@ -1,8 +1,13 @@
 ---
-title: "Thoughts on Mastodon"
-date: 2022-11-08T07:32:46+08:00
+date: 2022-11-07 23:32:46
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109305399580490566
+- type: twitter
+  url: https://twitter.com/roytang/status/1589779885416861697/
 tags:
 - tech-life
+title: Thoughts on Mastodon
 ---
 
 Recently: Elon Musk bought Twitter and seems intent on running it into the ground in record time. This has sent many people seeking alternatives, and one of the beneficiaries of that is Mastodon, [which has seen record growth](https://mastodon.social/@Gargron/109300967725833789) over the past week or so. 
