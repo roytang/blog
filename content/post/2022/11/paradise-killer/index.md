@@ -5,6 +5,11 @@ reviews:
   media: games
   rating: 4.0
   title: Paradise Killer (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109314547747789600
+- type: twitter
+  url: https://twitter.com/roytang/status/1590365380958044167/
 tags:
 - gaming
 - games
