@@ -1,0 +1,29 @@
+{
+  "id": "05e14fa3-be6d-4da4-9aa0-67b7ed221de4",
+  "name": "Paul Catiang",
+  "url": "https://twitter.com/paulcatiang",
+  "text": "[Paul Catiang](https://twitter.com/paulcatiang) [liked this](https://twitter.com/roytang/status/1589779885416861697#favorited-by-159004751)",
+  "date": "2022-11-10 10:16:18 +0000",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/ec0b0b961ec2c35d43be55e4f7bd70382a5ccf5cbf900cdf775fdcbf131d78ac.jpg",
+  "source_url": "https://twitter.com/roytang/status/1589779885416861697#favorited-by-159004751",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Paul Catiang",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/ec0b0b961ec2c35d43be55e4f7bd70382a5ccf5cbf900cdf775fdcbf131d78ac.jpg",
+      "url": "https://twitter.com/paulcatiang"
+    },
+    "url": "https://twitter.com/roytang/status/1589779885416861697#favorited-by-159004751",
+    "published": null,
+    "wm-received": "2022-11-10T10:16:18Z",
+    "wm-id": 1554998,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1589779885416861697/159004751",
+    "wm-target": "https://roytang.net/2022/11/mastodon/",
+    "like-of": "https://roytang.net/2022/11/mastodon/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
