@@ -1,5 +1,10 @@
 ---
 date: 2010-04-03 17:00:22
+resources:
+- src: 25766_386191637421_1523654_n.jpg
+  title: Venue closed early, so Top 8 had to draft at the nearby Yellow Cab
+- src: 25766_386187357421_6646829_n.jpg
+  title: Having some pizza after winning my 3 byes! Photos c/o NG
 source: twitter
 syndicated:
 - type: twitter
