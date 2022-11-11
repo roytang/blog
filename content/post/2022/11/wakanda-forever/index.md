@@ -1,14 +1,19 @@
 ---
-title: "MCU Reviews: Black Panther Wakanda Forever"
-date: 2022-11-11T13:13:20+08:00
+date: 2022-11-11 05:13:20
+reviews:
+- media: movies
+  rating: 4.0
+  title: Black Panther Wakanda forever
+  year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109323588124537595
+- type: twitter
+  url: https://twitter.com/roytang/status/1590943951535886336/
 tags:
 - movies
 - mcu
-reviews:
-- media: movies
-  title: Black Panther Wakanda forever
-  year: 2022
-  rating: 4.0
+title: 'MCU Reviews: Black Panther Wakanda Forever'
 ---
 
 *Wakanda Forever* is the final MCU phase 4 film I think? No spoiler-free reviews for this one. This post will have a lot of unmarked spoilers.
