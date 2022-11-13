@@ -11,5 +11,7 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/109337082212734918
 - type: twitter
   url: https://twitter.com/roytang/status/1591807573451120640/
+tags:
+- tech-life
 title: Building a website like it's 1999... in 2022 - localghost
 ---

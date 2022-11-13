@@ -11,6 +11,9 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/109337281312491728
 - type: twitter
   url: https://twitter.com/roytang/status/1591820315654397952/
+tags:
+- mastodon
+- tech-life
 title: On Running a Mastodon Instance | rixx.de
 ---
 
