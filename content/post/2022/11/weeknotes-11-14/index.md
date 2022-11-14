@@ -17,6 +17,11 @@ reviews:
   rating: 3.5
   title: The Lost City
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109340523795090880
+- type: twitter
+  url: https://twitter.com/roytang/status/1592027834897534976/
 tags:
 - weeknotes
 - tv
