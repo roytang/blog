@@ -1,10 +1,11 @@
 {
   "id": "18bd4043-97b8-4d43-aec8-d3090c1da0f4",
   "name": "Jonathan Sahagun",
-  "url": "https://facebook.com/aj.sahagun",
+  "url": "https://www.facebook.com/aj.sahagun",
   "text": "AhemROMahem",
-  "date": "2016-07-15 00:00:00",
+  "date": "2016-07-14 16:00:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154744057538912#10154744493073912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

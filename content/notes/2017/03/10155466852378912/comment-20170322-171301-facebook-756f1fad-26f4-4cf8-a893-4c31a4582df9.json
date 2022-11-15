@@ -1,10 +1,11 @@
 {
   "id": "756f1fad-26f4-4cf8-a893-4c31a4582df9",
   "name": "Kerwin Tang",
-  "url": "https://facebook.com/kerwin.j.tang",
+  "url": "https://www.facebook.com/kerwin.j.tang",
   "text": "Exagerrated exagerrated exagerrated",
-  "date": "2017-03-22 17:13:01",
+  "date": "2017-03-22 09:13:01 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155466852378912#10155466911308912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

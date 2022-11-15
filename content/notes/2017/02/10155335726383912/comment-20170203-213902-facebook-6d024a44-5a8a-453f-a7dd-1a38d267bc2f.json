@@ -1,10 +1,11 @@
 {
   "id": "6d024a44-5a8a-453f-a7dd-1a38d267bc2f",
   "name": "Liz Garcia",
-  "url": "https://facebook.com/lizbethjanegarcia",
+  "url": "https://www.facebook.com/lizbethjanegarcia",
   "text": "bacoooooon~",
-  "date": "2017-02-03 21:39:02",
+  "date": "2017-02-03 13:39:02 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155335726383912#10155335729093912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

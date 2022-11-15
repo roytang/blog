@@ -1,10 +1,11 @@
 {
   "id": "75f763ac-d1b6-40b4-be58-e63c4c349a3e",
   "name": "Morris Tan",
-  "url": "https://facebook.com/morristan",
+  "url": "https://www.facebook.com/morristan",
   "text": "In Morgan freeman voice of course!",
-  "date": "2018-01-12 00:03:00",
+  "date": "2018-01-11 16:03:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156330678103912#10156331666883912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

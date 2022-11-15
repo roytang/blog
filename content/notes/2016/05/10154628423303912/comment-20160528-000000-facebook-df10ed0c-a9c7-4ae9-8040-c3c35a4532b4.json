@@ -1,10 +1,11 @@
 {
   "id": "df10ed0c-a9c7-4ae9-8040-c3c35a4532b4",
   "name": "Mylee Ejercito",
-  "url": "https://facebook.com/romancoat",
+  "url": "https://www.facebook.com/romancoat",
   "text": "And not just for scientists.",
-  "date": "2016-05-28 00:00:00",
+  "date": "2016-05-27 16:00:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154628423303912#10154628894748912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

@@ -1,10 +1,11 @@
 {
   "id": "7e6d4ab9-4f8b-414f-a2a8-c8705ad85e66",
   "name": "Jonathan Sahagun",
-  "url": "https://facebook.com/aj.sahagun",
+  "url": "https://www.facebook.com/aj.sahagun",
   "text": "As a matter of alternative fact: the world is flat!",
-  "date": "2017-01-24 00:00:06",
+  "date": "2017-01-23 16:00:06 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155299592678912#10155303673998912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

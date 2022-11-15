@@ -1,10 +1,11 @@
 {
   "id": "07a43805-5d2a-4923-b374-03fcd864d9d5",
   "name": "Maui Listana",
-  "url": "https://facebook.com/maui.listana",
+  "url": "https://www.facebook.com/maui.listana",
   "text": "Nakakasuka",
-  "date": "2016-11-18 10:57:00",
+  "date": "2016-11-18 02:57:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155100635228912#10155100772288912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

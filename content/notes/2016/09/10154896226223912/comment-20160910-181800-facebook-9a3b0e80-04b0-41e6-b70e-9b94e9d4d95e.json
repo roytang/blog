@@ -1,10 +1,11 @@
 {
   "id": "9a3b0e80-04b0-41e6-b70e-9b94e9d4d95e",
   "name": "Wes Platon",
-  "url": "https://facebook.com/wesplaton",
+  "url": "https://www.facebook.com/wesplaton",
   "text": "amen",
-  "date": "2016-09-10 18:18:00",
+  "date": "2016-09-10 10:18:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154896226223912#10154896240793912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

@@ -1,10 +1,11 @@
 {
   "id": "dbbdfac9-25e8-4ac9-9b30-0a1715766453",
   "name": "Elridge Gammad",
-  "url": "https://facebook.com/elridge.gammad",
+  "url": "https://www.facebook.com/elridge.gammad",
   "text": "@gerard let me ask you if you were facing charges about alleged corruption and you know you have nothing to hide will you withhold the transaction history of your account? Simple lang yung tanong.",
-  "date": "2016-05-04 13:50:44",
+  "date": "2016-05-04 05:50:44 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154576323798912#10154577128533912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

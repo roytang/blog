@@ -1,10 +1,11 @@
 {
   "id": "54b814d2-880d-4401-ad65-d17530fe7ca2",
   "name": "Raymond Lirag",
-  "url": "https://facebook.com/raymond.lirag",
+  "url": "https://www.facebook.com/raymond.lirag",
   "text": "I can feel the salt from here.",
-  "date": "2018-01-13 00:00:00",
+  "date": "2018-01-12 16:00:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156330678103912#10156333225398912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

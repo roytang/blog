@@ -1,10 +1,11 @@
 {
   "id": "cfe6d257-0fec-4a24-91ae-eb6eb6441283",
   "name": "Christine 'Tin' Rabe",
-  "url": "https://facebook.com/christine.rabe",
+  "url": "https://www.facebook.com/christine.rabe",
   "text": "Congratulations !!!",
-  "date": "2017-06-08 19:45:01",
+  "date": "2017-06-08 11:45:01 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155726067108912#10155726537248912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

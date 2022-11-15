@@ -118,13 +118,17 @@ submenu: "stats"
                 let listRoot = document.querySelector("ol#top_commenters");
                 jsonResponse.forEach(function(item, index) {
                     let li = document.createElement("li");
-                    anchor = document.createElement("a");
-                    anchor.href = "/comments/bycommenter/" + item["uuid"] + "/";
+                    let anchor = document.createElement("a");
+                    anchor.href = item["url"];
                     anchor.innerText = item["name"];
                     li.appendChild(anchor);
                     let span = document.createElement("span");
-                    span.innerText = " (" + item["count"] + ")"
+                    span.innerText = " :: ";
                     li.appendChild(span);
+                    let anchor2 = document.createElement("a");
+                    anchor2.href = "/comments/bycommenter/" + item["uuid"] + "/";
+                    anchor2.innerText = "(" + item["count"] + " comments)";
+                    li.appendChild(anchor2);
                     listRoot.appendChild(li);
                 });
             });

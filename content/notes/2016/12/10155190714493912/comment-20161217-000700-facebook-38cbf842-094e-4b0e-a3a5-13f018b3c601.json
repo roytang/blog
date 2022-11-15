@@ -1,10 +1,11 @@
 {
   "id": "38cbf842-094e-4b0e-a3a5-13f018b3c601",
   "name": "Jose Zapatos",
-  "url": "https://facebook.com/jose.zapatos.9",
+  "url": "https://www.facebook.com/jose.zapatos.9",
   "text": "Triplets. The 3rd one studies the conspiracy theories fed to the other 2.",
-  "date": "2016-12-17 00:07:00",
+  "date": "2016-12-16 16:07:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155190714493912#10155191856538912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

@@ -1,10 +1,11 @@
 {
   "id": "222cfa51-7e1e-4c41-a178-82dd270ded83",
   "name": "Christine 'Tin' Rabe",
-  "url": "https://facebook.com/christine.rabe",
+  "url": "https://www.facebook.com/christine.rabe",
   "text": "There's a video interview on that part where he narrated the instance when Marcos tried to borrow money from Singapore back in 1984.",
-  "date": "2016-11-23 15:11:00",
+  "date": "2016-11-23 07:11:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155114485048912#10155114539448912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

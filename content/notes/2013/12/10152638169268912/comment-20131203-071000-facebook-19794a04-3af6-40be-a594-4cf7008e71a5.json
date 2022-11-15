@@ -1,10 +1,11 @@
 {
   "id": "19794a04-3af6-40be-a594-4cf7008e71a5",
   "name": "Mylee Ejercito",
-  "url": "https://facebook.com/romancoat",
+  "url": "https://www.facebook.com/romancoat",
   "text": "Someone else on my feed posted this as well. I still don't get it.",
-  "date": "2013-12-03 07:10:00",
+  "date": "2013-12-02 23:10:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152638169268912#10152638671613912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

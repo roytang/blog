@@ -1,10 +1,11 @@
 {
   "id": "6289ab0b-8dd4-4f0f-aeb7-50241a07565a",
   "name": "Arthur Abon",
-  "url": "https://facebook.com/arthur.abon",
+  "url": "https://www.facebook.com/arthur.abon",
   "text": "I'd dare say we started the trend?  \ud83d\ude00",
-  "date": "2016-06-25 00:00:00",
+  "date": "2016-06-24 16:00:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154695352328912#10154697131473912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

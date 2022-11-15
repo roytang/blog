@@ -1,10 +1,11 @@
 {
   "id": "c35b55ac-46dd-43d5-acf0-8161c9cc3810",
   "name": "Amiel Malay",
-  "url": "https://facebook.com/amielmalay",
+  "url": "https://www.facebook.com/amielmalay",
   "text": "I saw plenty of these alt-facts over on Creationism sites.",
-  "date": "2017-01-24 00:00:04",
+  "date": "2017-01-23 16:00:04 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155299592678912#10155303655133912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

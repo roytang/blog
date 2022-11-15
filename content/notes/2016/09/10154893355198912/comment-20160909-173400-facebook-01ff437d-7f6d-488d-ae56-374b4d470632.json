@@ -1,10 +1,11 @@
 {
   "id": "01ff437d-7f6d-488d-ae56-374b4d470632",
   "name": "Ryan Liwanag",
-  "url": "https://facebook.com/ryan.sylam.liwanag",
+  "url": "https://www.facebook.com/ryan.sylam.liwanag",
   "text": "Lol.",
-  "date": "2016-09-09 17:34:00",
+  "date": "2016-09-09 09:34:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154893355198912#10154893367248912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

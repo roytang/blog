@@ -1,10 +1,11 @@
 {
   "id": "0f48e6d4-6a94-4138-8672-12f272fa05af",
   "name": "Dennis Lopez",
-  "url": "https://facebook.com/digolo",
+  "url": "https://www.facebook.com/digolo",
   "text": "Lorna Dane, you think?",
-  "date": "2017-05-18 00:00:02",
+  "date": "2017-05-17 16:00:02 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155630936728912#10155632607298912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

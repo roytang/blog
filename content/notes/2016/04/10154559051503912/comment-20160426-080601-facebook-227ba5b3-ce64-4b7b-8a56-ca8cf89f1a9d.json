@@ -1,11 +1,12 @@
 {
   "id": "227ba5b3-ce64-4b7b-8a56-ca8cf89f1a9d",
   "name": "Jaimie Sandiko",
-  "url": "https://facebook.com/jaimie.sandiko",
+  "url": "https://www.facebook.com/jaimie.sandiko",
   "text": "Haha,! Wow!",
-  "date": "2016-04-26 08:06:00",
+  "date": "2016-04-26 00:06:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154559051503912#10154559343783912#10154559463528912",
   "source": "facebook",
+  "spam": false,
   "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154559051503912#10154559343783912"
 }

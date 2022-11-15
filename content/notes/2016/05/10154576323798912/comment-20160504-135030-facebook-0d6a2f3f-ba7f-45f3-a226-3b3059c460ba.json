@@ -1,10 +1,11 @@
 {
   "id": "0d6a2f3f-ba7f-45f3-a226-3b3059c460ba",
   "name": "Ramon Alcasabas",
-  "url": "https://facebook.com/ramon.alcasabas",
+  "url": "https://www.facebook.com/ramon.alcasabas",
   "text": "A client asking for the transaction history of his own bank account and being refused by the bank? I dont follow it.",
-  "date": "2016-05-04 13:50:30",
+  "date": "2016-05-04 05:50:30 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154576323798912#10154576891273912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

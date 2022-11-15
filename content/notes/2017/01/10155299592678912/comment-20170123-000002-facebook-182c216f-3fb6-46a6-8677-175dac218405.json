@@ -1,10 +1,11 @@
 {
   "id": "182c216f-3fb6-46a6-8677-175dac218405",
   "name": "Jose Zapatos",
-  "url": "https://facebook.com/jose.zapatos.9",
+  "url": "https://www.facebook.com/jose.zapatos.9",
   "text": "Duterte admin did lead by a few months...",
-  "date": "2017-01-23 00:00:02",
+  "date": "2017-01-22 16:00:02 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155299592678912#10155301242738912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

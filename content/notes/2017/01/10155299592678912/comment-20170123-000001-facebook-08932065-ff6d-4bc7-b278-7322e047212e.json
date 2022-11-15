@@ -1,10 +1,11 @@
 {
   "id": "08932065-ff6d-4bc7-b278-7322e047212e",
   "name": "Jonathan Sahagun",
-  "url": "https://facebook.com/aj.sahagun",
+  "url": "https://www.facebook.com/aj.sahagun",
   "text": "newspeak",
-  "date": "2017-01-23 00:00:01",
+  "date": "2017-01-22 16:00:01 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155299592678912#10155299768598912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

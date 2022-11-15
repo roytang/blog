@@ -1,10 +1,11 @@
 {
   "id": "d36a0a57-4576-44d1-b3f9-29061061c6fd",
   "name": "Marco Sancho",
-  "url": "https://facebook.com/marco.sancho",
+  "url": "https://www.facebook.com/marco.sancho",
   "text": "Wag. Dun na sila para di tayo ma-affect.",
-  "date": "2014-08-31 11:40:00",
+  "date": "2014-08-31 03:40:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153193575998912#10153193759288912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

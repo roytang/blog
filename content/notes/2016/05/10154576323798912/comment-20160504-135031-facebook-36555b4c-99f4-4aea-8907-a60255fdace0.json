@@ -1,10 +1,11 @@
 {
   "id": "36555b4c-99f4-4aea-8907-a60255fdace0",
   "name": "Ogie Jaro",
-  "url": "https://facebook.com/ogie.jaro",
+  "url": "https://www.facebook.com/ogie.jaro",
   "text": "Yup, no statement from BPI as to why as far as I know.",
-  "date": "2016-05-04 13:50:31",
+  "date": "2016-05-04 05:50:31 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154576323798912#10154576894108912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

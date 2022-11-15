@@ -1,10 +1,11 @@
 {
   "id": "4207041a-7ad6-4b47-98e6-2042e42d7ad4",
   "name": "Augustine Yap",
-  "url": "https://facebook.com/phwraengck",
+  "url": "https://www.facebook.com/phwraengck",
   "text": "What a loser.",
-  "date": "2013-12-03 07:10:00",
+  "date": "2013-12-02 23:10:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152638169268912#10152638218048912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

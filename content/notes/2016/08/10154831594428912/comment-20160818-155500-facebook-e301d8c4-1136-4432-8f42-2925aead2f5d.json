@@ -1,10 +1,11 @@
 {
   "id": "e301d8c4-1136-4432-8f42-2925aead2f5d",
   "name": "Arthur Abon",
-  "url": "https://facebook.com/arthur.abon",
+  "url": "https://www.facebook.com/arthur.abon",
   "text": "Used to eat sardines pizza in grade school every Lenten season  :-p",
-  "date": "2016-08-18 15:55:00",
+  "date": "2016-08-18 07:55:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154831594428912#10154832262678912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }

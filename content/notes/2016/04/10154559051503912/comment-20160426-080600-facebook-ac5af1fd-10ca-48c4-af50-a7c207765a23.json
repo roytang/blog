@@ -1,10 +1,11 @@
 {
   "id": "ac5af1fd-10ca-48c4-af50-a7c207765a23",
   "name": "Roy Tang",
-  "url": "https://facebook.com/stephen.roy.tang",
+  "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "Christian Cheng",
-  "date": "2016-04-26 08:06:00",
+  "date": "2016-04-26 00:06:00 +0000",
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154559051503912#10154559055058912",
-  "source": "facebook"
+  "source": "facebook",
+  "spam": false
 }
