@@ -10,6 +10,7 @@ syndicated:
 tags:
 - mtgarenastats
 - MTGHBG
+- mtg
 ---
 
 Huh, the last #mtgarenastats email was just two weeks ago, but now the one for #MTGHBG came in already. 
