@@ -1,9 +1,14 @@
 ---
-date: 2022-11-16T15:34:37+08:00
+date: 2022-11-16 07:34:37
 reviews:
 - media: books
   rating: 4.5
   title: The Bands of Mourning by Brandon Sanderson
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109352404905302285
+- type: twitter
+  url: https://twitter.com/roytang/status/1592788225898450944/
 tags:
 - books
 - mistborn
