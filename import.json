@@ -53,6 +53,12 @@
             "public": true,
             "section": "topics",
             "source": "topics"
+        },
+        {
+            "path": "content/likes",
+            "public": true,
+            "section": "likes",
+            "source": "likes"
         }
     ]
 }
