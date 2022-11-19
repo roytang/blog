@@ -5,6 +5,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/GergelyOrosz/status/1591437099496255490/
+author:
+  name: GergelyOrosz
+  url: https://twitter.com/GergelyOrosz/
+tags:
+- GergelyOrosz
 ---
 
 Scoop from within Twitter: small things are breaking, not enough engineers to fix them.

@@ -5,6 +5,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/goldman/status/1592903096094535680/
+author:
+  name: goldman
+  url: https://twitter.com/goldman/
+tags:
+- goldman
 ---
 
 Social media has long been sneered at by “hardcore engineers” since before social media was a term. It was a dynamic at Google versus Blogger. The challenges of building systems that amplify human weirdness and wonder as distinct from search, commerce, cars just never computes. 

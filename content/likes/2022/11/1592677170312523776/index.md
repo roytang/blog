@@ -5,7 +5,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/zdarsky/status/1592677170312523776/
+author:
+  name: zdarsky
+  url: https://twitter.com/zdarsky/
 tags:
+- zdarsky
 - zoethorogood
 ---
 
