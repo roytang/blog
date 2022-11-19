@@ -18,7 +18,8 @@
     },
     "likes": {
         "label": "Likes",
-        "descrip": "Likes/favorites."
+        "descrip": "Likes/favorites.",
+        "exclude_feed": true
     },
     "fiction": {
         "label": "Fiction",
