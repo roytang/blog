@@ -53,11 +53,17 @@ It has certainly been a week, especially in tech.
 ### My Week
 
 - This week was ok. Spent some time with family. Got some alone time. Got some side project work in. 
+
 - Tuesday: Had to change the light bulb in my bathroom. I'm always worried that I'll get shocked if I try to do this while the light switch is on, and it didn't help that I didn't know if the switch was on or off when I started (apparently the switches in this house do NOT follow a standard!). The new bulb turned on as I was putting it in, but luckily I was not electrocuted.
+
 - Still Tuesday: Two of my nieces hung out at our place in the afternoon. The younger one kept trying to sit on me or push down on my chest while I was lying down (she said it was CPR) and she was heavy/strong enough that my chest felt a bit sore the next morning. 
+
 - Thursday and Friday: Had the run of the house because the seniors had an out of town excursion. Ordered in some pizza because I wanted to try Pizza Hut's cheesedog pops stuffed crust (was ok, a bit overpriced), and watched a bunch of movies.
+
 - Over the past week or so, my desktop PC has been experiencing some hiccups: namely, it occasionally shuts down without warning, leaving only one of the CPU fans and the mouse with power (which is weird, because the mouse is plugged in via the keyboard). The first three incidents happened while I had been away from the desk for a while so I thought it had something to do with how long I was keeping it up, but incidents #4 and #5 happened early this morning right in front of my eyes, shortly after booting up! I suspect it's some kind of issue with the PSU. I opened up the case earlier and poked around a bit but could not find any obvious problems. It's been stable since then, so I'm kind of hoping my poking around maybe accidentally fixed whatever the issue was? If not, my options are to try to save this 7-year old unit by buying a replacement PSU or moving forward my plans to buy a completely new desktop, which I was planning to do early next year anyway. Kind of lucky this didn't happen last year at the height of crazy vidcard prices.
+
 - Over the weekend, as I worried over Twitter potentially crashing, I decided to look into archiving a bunch of tweets. Not my own (those are already auto-archived to this site), but others that I had liked or replied to, and also the tweets of a friend that has passed away. I discovered a couple of helpful tools: [snscrape](https://pypi.org/project/snscrape/) is a Python CLI tool that lets you export all tweet content for a user (among other things); doesn't include attached media though. The second discovery was that archive.org has [a tool for batch import of URLs from Google Sheets](https://archive.org/services/wayback-gsheets/)! Basically you list urls you want them to archive and point them to the spreadsheet and they'll process it in the background. I started one with like 7k rows last Saturday evening and it is not even halfway done though. 
+
 - I also may have been playing around with making my likes archived and accessible on this site and may have accidentally pushed some to the RSS feed, oops! Sorry to any subs who caught it! (*Waves at RSS folk*)
 
 - **Gaming**: 
