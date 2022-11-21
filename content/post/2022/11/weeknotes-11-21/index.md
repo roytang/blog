@@ -1,5 +1,5 @@
 ---
-date: 2022-11-21T13:39:24+08:00
+date: 2022-11-21 05:39:24
 dontinlinephotos: true
 reviews:
 - description: More of the same, which is fine.
@@ -14,7 +14,8 @@ reviews:
   rating: 3.0
   title: The Accountant
   year: 2016
-- description: Mostly watched for Emily Blunt, but she has little agency here other than to be Damon's love interest.
+- description: Mostly watched for Emily Blunt, but she has little agency here other
+    than to be Damon's love interest.
   hashtag: adjustmentbureau
   media: movies
   rating: 3.0
@@ -26,6 +27,11 @@ reviews:
   rating: 3.5
   title: Ingrid Goes West
   year: 2017
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109380687057467586
+- type: twitter
+  url: https://twitter.com/roytang/status/1594598283280027648/
 tags:
 - weeknotes
 - movies
