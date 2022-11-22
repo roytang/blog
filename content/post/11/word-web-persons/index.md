@@ -1,8 +1,13 @@
 ---
-title: "Word Person and Web Persons"
-date: 2022-11-22T09:39:51+08:00
+date: 2022-11-22 01:39:51
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109384965337421345
+- type: twitter
+  url: https://twitter.com/roytang/status/1594872093229056000/
 tags:
 - tech-life
+title: Word Person and Web Persons
 ---
 
 Alexis Madrigal writes on [Twitter](https://twitter.com/alexismadrigal/status/1588031749342183424):
