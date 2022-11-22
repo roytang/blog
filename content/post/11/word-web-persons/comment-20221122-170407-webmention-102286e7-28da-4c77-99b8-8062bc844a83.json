@@ -1,0 +1,37 @@
+{
+  "id": "102286e7-28da-4c77-99b8-8062bc844a83",
+  "name": "Ben Werdmuller",
+  "url": "https://werd.io/profile/benwerd",
+  "text": "<p>\u201cIt's likely that both word persons and web persons are in the minority on the modern internet. Most people would rather read short snippets of text rather than long blog posts. Most people would rather use apps than browse the web or consume content rather than write it or create their own websites always. But hopefully there will always be room for those of us who enjoy plain text and simple HTML.\u201d <a href=\"https://werd.io/tag/Technology\" class=\"p-category\">#Technology</a></p>",
+  "date": "2022-11-22 17:04:07 +0000",
+  "photo": "https://webmention.io/avatar/werd.io/e91155d1604c3a5bf2b196de23cf1c23bb3b1356fd3220897d794120f7e0aacf.jpg",
+  "source_url": "https://werd.io/2022/word-persons-and-web-persons",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ben Werdmuller",
+      "photo": "https://webmention.io/avatar/werd.io/e91155d1604c3a5bf2b196de23cf1c23bb3b1356fd3220897d794120f7e0aacf.jpg",
+      "url": "https://werd.io/profile/benwerd"
+    },
+    "url": "https://werd.io/2022/word-persons-and-web-persons",
+    "published": "2022-11-22T17:04:07+00:00",
+    "wm-received": "2022-11-22T17:04:09Z",
+    "wm-id": 1566378,
+    "wm-source": "https://werd.io/2022/word-persons-and-web-persons",
+    "wm-target": "https://roytang.net/2022/11/word-web-persons/",
+    "name": "Word Persons and Web Persons",
+    "content": {
+      "html": "<p>\u201cIt's likely that both word persons and web persons are in the minority on the modern internet. Most people would rather read short snippets of text rather than long blog posts. Most people would rather use apps than browse the web or consume content rather than write it or create their own websites always. But hopefully there will always be room for those of us who enjoy plain text and simple HTML.\u201d <a href=\"https://werd.io/tag/Technology\" class=\"p-category\">#Technology</a></p>",
+      "text": "\u201cIt's likely that both word persons and web persons are in the minority on the modern internet. Most people would rather read short snippets of text rather than long blog posts. Most people would rather use apps than browse the web or consume content rather than write it or create their own websites always. But hopefully there will always be room for those of us who enjoy plain text and simple HTML.\u201d #Technology"
+    },
+    "bookmark-of": "https://roytang.net/2022/11/word-web-persons/",
+    "wm-property": "bookmark-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://werd.io/2022/word-persons-and-web-persons"
+    }
+  }
+}
