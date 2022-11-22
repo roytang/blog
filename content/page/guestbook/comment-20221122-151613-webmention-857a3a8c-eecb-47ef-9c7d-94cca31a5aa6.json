@@ -1,0 +1,33 @@
+{
+  "id": "857a3a8c-eecb-47ef-9c7d-94cca31a5aa6",
+  "name": "Baldur Bjarnason",
+  "url": "https://twitter.com/fakebaldur",
+  "text": "Mentioned by https://brid.gy/post/twitter/adactio/1595073673475420160\n\n> \u201cAdactio: Links\u2014Word Persons and Web Persons \u00b7 roytang.net\u201d adactio.com/links/19669",
+  "date": "2022-11-22 15:16:13 +0000",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/8b4860c1e17e03b0e225e1d12c623f991c801297243686b3eeffff32dd038c7b.jpg",
+  "source_url": "https://twitter.com/fakebaldur/status/1595073673475420160/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Baldur Bjarnason",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/8b4860c1e17e03b0e225e1d12c623f991c801297243686b3eeffff32dd038c7b.jpg",
+      "url": "https://twitter.com/fakebaldur"
+    },
+    "url": "https://twitter.com/fakebaldur/status/1595073673475420160",
+    "published": "2022-11-22T15:16:13+00:00",
+    "wm-received": "2022-11-22T16:00:50Z",
+    "wm-id": 1566359,
+    "wm-source": "https://brid.gy/post/twitter/adactio/1595073673475420160",
+    "wm-target": "https://roytang.net/",
+    "content": {
+      "html": "\u201cAdactio: Links\u2014Word Persons and Web Persons \u00b7 <a href=\"http://roytang.net\">roytang.net</a>\u201d <a href=\"https://adactio.com/links/19669\">adactio.com/links/19669</a>\n<a class=\"u-mention\" href=\"http://roytang.net/\"></a>\n<a class=\"u-mention\" href=\"https://roytang.net/\"></a>",
+      "text": "\u201cAdactio: Links\u2014Word Persons and Web Persons \u00b7 roytang.net\u201d adactio.com/links/19669"
+    },
+    "mention-of": "https://roytang.net/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
