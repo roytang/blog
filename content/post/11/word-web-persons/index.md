@@ -7,7 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1594872093229056000/
 tags:
 - tech-life
-title: Word Person and Web Persons
+title: Word Persons and Web Persons
 ---
 
 Alexis Madrigal writes on [Twitter](https://twitter.com/alexismadrigal/status/1588031749342183424):
