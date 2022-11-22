@@ -1,0 +1,36 @@
+{
+  "id": "9eb9f1ea-0827-4d6a-bba6-b980f45e1420",
+  "name": "Dominik Schwind",
+  "url": "https://lostfocus.de",
+  "text": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2022/11/word-web-persons/\">https://roytang.net/2022/11/word-web-persons/</a>.</p>",
+  "date": "2022-11-22 09:13:50 +0000",
+  "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+  "source_url": "https://lostfocus.de/2022/11/22/230986/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "url": "https://lostfocus.de"
+    },
+    "url": "https://lostfocus.de/2022/11/22/230986/",
+    "published": "2022-11-22T09:13:50+01:00",
+    "wm-received": "2022-11-22T08:14:11Z",
+    "wm-id": 1566183,
+    "wm-source": "https://lostfocus.de/2022/11/22/230986/",
+    "wm-target": "https://roytang.net/2022/11/word-web-persons/",
+    "content": {
+      "html": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2022/11/word-web-persons/\">https://roytang.net/2022/11/word-web-persons/</a>.</p>",
+      "text": "Likes https://roytang.net/2022/11/word-web-persons/."
+    },
+    "like-of": "https://roytang.net/2022/11/word-web-persons/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lostfocus.de/2022/11/22/230986/"
+    }
+  }
+}
