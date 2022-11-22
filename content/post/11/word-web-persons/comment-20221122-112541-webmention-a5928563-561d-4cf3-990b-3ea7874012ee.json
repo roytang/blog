@@ -1,0 +1,36 @@
+{
+  "id": "a5928563-561d-4cf3-990b-3ea7874012ee",
+  "name": "Jeremy Keith",
+  "url": "https://adactio.com/",
+  "text": "<h1 class=\"p-name\">\n<a class=\"u-bookmark-of\" href=\"https://roytang.net/2022/11/word-web-persons/\">\nWord Persons and Web Persons \u00b7 roytang.net\n</a>\n</h1>\n<h2>\n<time class=\"dt-published\" datetime=\"2022-11-22T11:25:41\">\nNovember 22nd, 2022\n</time></h2>\n\n<p>This resonates with me.</p>",
+  "date": "2022-11-22 11:25:41 +0000",
+  "photo": "https://webmention.io/avatar/adactio.com/24f33c5820046ebbcb429f78bb988fc1fa9f97d35247e0b72b3fb5ff888da633.jpg",
+  "source_url": "https://adactio.com/links/19669",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jeremy Keith",
+      "photo": "https://webmention.io/avatar/adactio.com/24f33c5820046ebbcb429f78bb988fc1fa9f97d35247e0b72b3fb5ff888da633.jpg",
+      "url": "https://adactio.com/"
+    },
+    "url": "https://adactio.com/links/19669",
+    "published": "2022-11-22T11:25:41",
+    "wm-received": "2022-11-22T17:49:41Z",
+    "wm-id": 1566409,
+    "wm-source": "https://adactio.com/links/19669",
+    "wm-target": "https://roytang.net/2022/11/word-web-persons/",
+    "content": {
+      "html": "<h1 class=\"p-name\">\n<a class=\"u-bookmark-of\" href=\"https://roytang.net/2022/11/word-web-persons/\">\nWord Persons and Web Persons \u00b7 roytang.net\n</a>\n</h1>\n<h2>\n<time class=\"dt-published\" datetime=\"2022-11-22T11:25:41\">\nNovember 22nd, 2022\n</time></h2>\n\n<p>This resonates with me.</p>",
+      "text": "Word Persons and Web Persons \u00b7 roytang.net\n\n\n\n\nNovember 22nd, 2022\n\n\nThis resonates with me."
+    },
+    "bookmark-of": "https://roytang.net/2022/11/word-web-persons/",
+    "wm-property": "bookmark-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://adactio.com/links/19669"
+    }
+  }
+}
