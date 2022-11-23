@@ -1,9 +1,14 @@
 ---
-date: 2022-11-23T22:12:31+08:00
+date: 2022-11-23 14:12:31
 reviews:
 - media: books
   rating: 4.0
   title: The Lost Metal by Brandon Sanderson
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109393889235195009
+- type: twitter
+  url: https://twitter.com/roytang/status/1595443222679261185/
 tags:
 - books
 - mistborn
