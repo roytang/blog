@@ -18,7 +18,7 @@ title: 'Book Review: The Bands of Mourning by Brandon Sanderson'
 
 *The Bands of Mourning* is the sixth book in the [Mistborn](/tags/mistborn) series and the third book in the *Wax and Wayne* subseries, the so-called "Era Two". Finished reading this one yesterday. 
 
-Previously: [The Allow of Law](/2022/09/alloy-of-law/), [Shadows of Self](/2022/09/shadows-of-self/)
+Previously: [The Allow of Law](/2022/09/alloy-of-law/), [Shadows of Self](/2022/10/shadows-of-self/)
 
 Sanderson continues to knock it out of the park with this series. After the last book's traumatic ending, this time Wax and company finally face the Set: the mysterious bad guys that have been set up by the first two books. This time the conflict expands to a great area as our heroes must investigate rumors of a lost artifact and the Set's mysterious activities in the areas outside Erendel. 
 
