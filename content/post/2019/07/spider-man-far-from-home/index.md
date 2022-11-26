@@ -8,6 +8,8 @@ reviews:
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1148110146637357057/
+- type: tumblr
+  url: https://roytang.tumblr.com/post/186106505285
 tags:
 - movies
 - mcu
