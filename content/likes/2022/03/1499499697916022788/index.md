@@ -180,7 +180,3 @@ https://www.ship30for30.com/
 2. Follow me [@dickiebush](https://twitter.com/dickiebush/) for more threads like this 3x/week 
 
 
-
-
-
-{{% note "2022/03/1499499697916022788/" %}}
