@@ -14,7 +14,7 @@
     },
     "notes": {
         "label": "Notes",
-        "descrip": "Microblog-like status updates."
+        "descrip": "A <a href='https://kottke.org/05/10/tumblelogs'>tumblog</a> of sorts. Microblog-like status updates, short notes, reposts, logs of things I've found."
     },
     "likes": {
         "label": "Likes",
