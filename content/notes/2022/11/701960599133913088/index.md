@@ -4,6 +4,10 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/701960599133913088
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109420279184392645
+- type: twitter
+  url: https://twitter.com/roytang/status/1597132185924165632/
 tags:
 - pugad baboy
 - pilosopo
