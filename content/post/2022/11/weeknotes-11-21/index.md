@@ -68,7 +68,7 @@ It has certainly been a week, especially in tech.
 
 - **Gaming**: 
     - Still playing some card games on the regular: 
-        - [Eternal](/tags/EternalCardGame): Last Saturday, [I qualified for day 2 of an Eternal Open for the first time](/2022/11/1593909027477803008/)! I was looking forward to playing the single-elimination finals, which unfortunately were scheduled at 2AM Monday for me. Sadly around an hour and a half before the event, [our home internet went down](https://roytang.net/2022/11/1594370858713501696/) D: I was hoping it would come back immediately, but when there were 15 minutes remaining and internet was still down, I belatedly decided to boot up my laptop to try to play via mobile hotspot. Sadly, game updates took forever and I missed my chance. Internet came back a couple of hours later, well after it had cost me the chance to become the Eternal World Champion! (I will forever pretend that I would have won the whole thing and the succeeding Worlds event if only fate hadn't intervened.)
+        - [Eternal](/tags/EternalCardGame): Last Saturday, [I qualified for day 2 of an Eternal Open for the first time](/2022/11/1593909027477803008/)! I was looking forward to playing the single-elimination finals, which unfortunately were scheduled at 2AM Monday for me. Sadly around an hour and a half before the event, [our home internet went down](/2022/11/1594370858713501696/) D: I was hoping it would come back immediately, but when there were 15 minutes remaining and internet was still down, I belatedly decided to boot up my laptop to try to play via mobile hotspot. Sadly, game updates took forever and I missed my chance. Internet came back a couple of hours later, well after it had cost me the chance to become the Eternal World Champion! (I will forever pretend that I would have won the whole thing and the succeeding Worlds event if only fate hadn't intervened.)
         - [Magic Arena](/tags/magicarena): Started drafting and streaming Brothers War Limited, you can follow along on [the MTGBRO tag](/tags/mtgbro/) or [via Twitch](https://www.twitch.tv/twitchyroy) if you like
         - [Marvel Snap](/2022/10/1585610936563519493/). Griiindy!!
     - Still trying to power through **SMT5**, such a long game.
@@ -76,7 +76,7 @@ It has certainly been a week, especially in tech.
 
 ### Media Diet
 
-- Finished reading: [Bands of Mourning](https://roytang.net/2022/11/bands-of-mourning/). Right after finishing it I found out the next book **The Lost Metal** had just released and went ahead and got a Kindle copy off Amazon, already halfway through it!
+- Finished reading: [Bands of Mourning](/2022/11/bands-of-mourning/). Right after finishing it I found out the next book **The Lost Metal** had just released and went ahead and got a Kindle copy off Amazon, already halfway through it!
   
 - <p id="enolaholmes2">**Enola Holmes 2 (2022)**: Was a lot like the first film, maybe slightly better? Not really a bad thing. No Mycroft this time, and I think a bit more help from Sherlock.</p>
 
