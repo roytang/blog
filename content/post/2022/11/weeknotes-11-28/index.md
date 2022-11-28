@@ -1,6 +1,9 @@
 ---
 date: 2022-11-28 07:35:22
 dontinlinephotos: true
+featuredResource:
+  filename: 1_November.jpg
+  photo: /2022/11/b9e4f1f1a5363c0476fb65e7ab1b8ada/
 reviews:
 - description: More of snarky social commentary than ha-ha funny.
   hashtag: trevornoah
@@ -8,13 +11,15 @@ reviews:
   rating: 3.0
   title: 'Trevor Noah: I Wish You Would'
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109420488679718233
+- type: twitter
+  url: https://twitter.com/roytang/status/1597145589010923520/
 tags:
 - weeknotes
 - tv
 title: Weeknotes 2022-11-28
-featuredResource:
-  photo: "/2022/11/b9e4f1f1a5363c0476fb65e7ab1b8ada/"
-  filename: "1_November.jpg"
 ---
 
 Yesterday was the first Sunday of Advent. A bit more than one month to go in a year!
