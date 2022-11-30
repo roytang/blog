@@ -1,8 +1,13 @@
 ---
-title: "PC Build 2022"
-date: 2022-12-01T00:01:00+08:00
+date: 2022-11-30 16:01:00
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109433622709618629
+- type: twitter
+  url: https://twitter.com/roytang/status/1597986191991001089/
 tags:
 - tech-life
+title: PC Build 2022
 ---
 
 As I mentioned in [the most recent weeknotes](/2022/11/weeknotes-11-28/), my desktop PC has been having crashing issues during the past couple of weeks, with increasing frequency. Since [most of this PC was put together 7 years ago](/2015/11/10154182594373912/), I was already planning on putting together a new one early next year, but the recent problems forwarded the timetable a bit, so I ended up going to my nearby computer store already last weekend.
@@ -31,4 +36,3 @@ Overall the purchase actually ended up only slightly more expensive than I what 
 The old rig is still together (except for the SSHD, it still has an SSD). I put it into the storage room for now. It should actually still be running, except with the crashing problems. At some point, maybe I'll try to put together some spare peripherals for it and look for a cheap power supply to use as replacement and see if I can still get it back running. That may take a while. 
 
 Also updated the [Uses Page](/uses/). Some pictures attached!
-
