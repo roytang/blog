@@ -7,26 +7,38 @@ aliases:
 - /about/uses
 ---
 
-{{< photo "2020/03/1242947311178780673/" >}}
+{{< photo "2022/12/pc-build-2022/" "20221130_103516" >}}
 
 This is a [uses page](https://uses.tech/).
 
 |  | What | Since |
 |---|---|---|
-| Desktop::Case | Silverstone Precision 10SST-PS10B | 2015 |
-| Desktop::Fan | 120mm internal aux fan | 2015 |
-| Desktop::PSU | Cooler Master B600 V2 600W | 2015 |
-| Desktop::CPU | Intel Core i5-4460 | 2015 |
-| Desktop::MB | ASUS H97ME | 2015 |
-| Desktop::RAM | 2x DDR3 Kingston HyperX Fury 8gb 1600 | 2015 |
-| Desktop::Video card | Gigabyte AMD Radeon RX570 Gaming 4GB Ddr5 | [2019](/2019/11/new-video-card/) |
-| Desktop::SSD | Samsung 850Evo 250gb | 2015 |
-| Desktop::SSHD | Seagate Firecuda 2tb | 2019 |
-| Desktop::OS | Windows 10 | 2015 |
-| Desktop::Monitor | AOC 24" M2470SWH | 2018 |
-| Desktop::Monitor | LG 19" 19EN43 | 2014ish |
-| Desktop::Keyboard | Razer Blackwidow Ultimate 2016 | 2017 |
-| Desktop::Mouse | TTX PC Laser Gaming Mouse | 2019 |
+| **The current desktop, NASH** |
+| NASH::Case | Antec NX292 Black with RGB Fans | [2022](/2022/12/pc-build-2022/) |
+| NASH::PSU | Silverstone SST-ST60F-ES230 600W | [2022](/2022/12/pc-build-2022/) |
+| NASH::CPU | AMD Ryzen 5 5600X (3.7GHz) | [2022](/2022/12/pc-build-2022/) | 
+| NASH::MB | MSI B450 Gaming Plus Max | [2022](/2022/12/pc-build-2022/) |
+| NASH::RAM | 2x Kingston Fury Black Beast 16GB DDR4 3200MHz | [2022](/2022/12/pc-build-2022/) | 
+| NASH::Video card | Asus RTX3050 Phoenix NonOC 8GB | [2022](/2022/12/pc-build-2022/) |
+| NASH::SSD | Kingstton 1TB NV1 NVME | [2022](/2022/12/pc-build-2022/) |
+| NASH::SSHD | Seagate Firecuda 2tb | 2019 |
+| NASH::Monitor | AOC 24G2SE/71 | [2022](/2022/12/pc-build-2022/) | 
+| NASH::Monitor | AOC 24" M2470SWH | 2018 |
+| NASH::Keyboard | Razer Blackwidow Ultimate 2016 | 2017 |
+| NASH::Mouse | TTX PC Laser Gaming Mouse | 2019 |
+| NASH::OS | Windows 11 | [2022](/2022/12/pc-build-2022/) |
+| **The old desktop, GUILE** |
+| GUILE::Case | Silverstone Precision 10SST-PS10B | [2015](/2015/11/10154182594373912/) |
+| GUILE::Fan | 120mm internal aux fan | [2015](/2015/11/10154182594373912/) |
+| GUILE::PSU | Cooler Master B600 V2 600W | [2015](/2015/11/10154182594373912/) |
+| GUILE::CPU | Intel Core i5-4460 | [2015](/2015/11/10154182594373912/) |
+| GUILE::MB | ASUS H97ME | [2015](/2015/11/10154182594373912/) |
+| GUILE::RAM | 2x DDR3 Kingston HyperX Fury 8gb 1600 | [2015](/2015/11/10154182594373912/) |
+| GUILE::Video card | Gigabyte AMD Radeon RX570 Gaming 4GB Ddr5 | [2019](/2019/11/new-video-card/) |
+| GUILE::SSD | Samsung 850Evo 250gb | [2015](/2015/11/10154182594373912/) |
+| GUILE::OS | Windows 10 | [2015](/2015/11/10154182594373912/) |
+| GUILE::Monitor | LG 19" 19EN43 | 2014ish |
+| **Other stuff** |
 | Laptop | Macbook Air 2017, 256gb SSD | 2018 |
 | Mobile Phone | Samsung A50 | Aug 2019 |
 | Printer | HP Deskjet 3635 | 2013 (?) |
