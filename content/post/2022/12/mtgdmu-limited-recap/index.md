@@ -1,5 +1,10 @@
 ---
-date: 2022-12-01T13:54:11+08:00
+date: 2022-12-01 05:54:11
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109437197476796782
+- type: twitter
+  url: https://twitter.com/roytang/status/1598214950580690944/
 tags:
 - mtg
 - mtgdmu
