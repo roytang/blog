@@ -7,6 +7,7 @@ syndicated:
 tags:
 - spotifywrapped
 - spotify
+- music
 ---
 
 This is how my year sounded on Spotify. Get your 2019 Wrapped #spotifywrapped https://open.spotify.com/wrapped/ddf3e4a1ee43a067d9e011917a96978cb404b9e4

@@ -7,6 +7,7 @@ syndicated:
 tags:
 - spotifywrapped
 - spotify
+- music
 ---
 
 This is how my decade sounded on Spotify. Get your #spotifywrapped. https://open.spotify.com/wrapped/aff7b2bddf8a3d1fa72bf6e69f5ab67c784c2856
