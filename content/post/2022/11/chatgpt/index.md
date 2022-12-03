@@ -1,9 +1,14 @@
 ---
-title: "Trying out ChatGPT"
-date: 2022-12-03T15:19:09+08:00
+date: 2022-12-03 07:19:09
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109448616458031577
+- type: twitter
+  url: https://twitter.com/roytang/status/1598945764977147905/
 tags:
 - tech-life
 - ai
+title: Trying out ChatGPT
 ---
 
 OpenAI recently released a new text AI chatbot, [ChatGPT](https://chat.openai.com/chat). I've been [playing around with it a bit since yesterday](/2022/12/1598559150187110400/) and I am generally impressed with the progress in this area.
@@ -79,4 +84,3 @@ There's actually been many more that came across my feed but I didn't get links 
 Overall, despite some flaws, very promising development in AI content generation, and maybe a sad indicator of how much nonsense boilerplate fluff we have in modern writing. Looking forward to where this all takes us!
 
 Related: [Initial Thoughts on AI-generated Art (and Code)](/2022/09/ai-art-code/)
-
