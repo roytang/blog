@@ -1,6 +1,11 @@
 ---
-date: 2022-12-05T20:24:12+08:00
+date: 2022-12-05 12:24:12
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109461456825409328
+- type: twitter
+  url: https://twitter.com/roytang/status/1599767550518140928/
 tags:
 - weeknotes
 title: Weeknotes 2022-12-05
