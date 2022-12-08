@@ -49,6 +49,12 @@ let overall = {
         "matchupsMap": {}
     },
 }
+
+let overallCharacterMap = {
+    "Both": [],
+    "Steam": [],
+    "PS4": [],
+}
 let characterSelect = document.querySelector("#character");
 let playedChars = Object.keys(characterMap);
 for (let i = 0; i < playedChars.length; i++) {
@@ -105,10 +111,39 @@ for (let i = 0; i < playedChars.length; i++) {
             "matchups": newMatchups
         }
         selectedCharacterMap["Both"] = newObject;
+        overallCharacterMap["Both"].push({
+            "character": playedChars[i],
+            "matches": totalMatches,
+            "winrate": winrate,
+        });
+        overallCharacterMap["Steam"].push({
+            "character": playedChars[i],
+            "matches": selectedCharacterMap["Steam"]["totalMatches"],
+            "winrate": selectedCharacterMap["Steam"]["overallWinrate"],
+        });
+        overallCharacterMap["PS4"].push({
+            "character": playedChars[i],
+            "matches": selectedCharacterMap["PS4"]["totalMatches"],
+            "winrate": selectedCharacterMap["PS4"]["overallWinrate"],
+        });
     } else if ("Steam" in selectedCharacterMap) {
         selectedCharacterMap["Both"] = selectedCharacterMap["Steam"]
+        let overallData = {
+            "character": playedChars[i],
+            "matches": selectedCharacterMap["Steam"]["totalMatches"],
+            "winrate": selectedCharacterMap["Steam"]["overallWinrate"],
+        }
+        overallCharacterMap["Both"].push(overallData);
+        overallCharacterMap["Steam"].push(overallData);
     } else if ("PS4" in selectedCharacterMap) {
         selectedCharacterMap["Both"] = selectedCharacterMap["PS4"]
+        let overallData = {
+            "character": playedChars[i],
+            "matches": selectedCharacterMap["PS4"]["totalMatches"],
+            "winrate": selectedCharacterMap["PS4"]["overallWinrate"],
+        }
+        overallCharacterMap["Both"].push(overallData);
+        overallCharacterMap["PS4"].push(overallData);
     }
     
     // populate "Overall" character profile
@@ -168,13 +203,40 @@ function createCell(contents) {
 function renderData() {
     let selectedCharacter = document.querySelector("#character").value;
     let selectedPlatform = document.querySelector("#platform").value;
-    let container = document.querySelector(".matchup_data tbody");
+    let tbody = document.querySelector("tbody.played_data");
+    tbody.innerHTML = "";
+    let playedHeader = document.querySelector("thead.played_header");
+    playedHeader.style.display = "none";
+    if (selectedCharacter == "Overall") {
+        playedHeader.style.display = "table-header-group";
+        let platformCharacters = overallCharacterMap[selectedPlatform];
+        platformCharacters.sort((a, b) => {
+            return b["matches"] - a["matches"];
+        });
+        tbody.innerHTML = "";
+        for (let i = 0; i < platformCharacters.length; i++) {
+            let newRow = document.createElement("tr");
+            let charName = platformCharacters[i]["character"];
+            newRow.appendChild(createCell(charName));
+            newRow.appendChild(createCell(platformCharacters[i]["matches"]));
+            newRow.appendChild(createCell(platformCharacters[i]["winrate"]));
+            let wins = Math.round(platformCharacters[i]["matches"] * platformCharacters[i]["winrate"]);
+            newRow.appendChild(createCell(wins));
+            let losses = platformCharacters[i]["matches"] - wins;
+            newRow.appendChild(createCell(losses));
+            tbody.appendChild(newRow);
+        }
+    }
+    let container = document.querySelector("tbody.matchup_data");
+    let nodata = document.querySelector("tr.nodata");
+    nodata.style.display = "table-row";
+    container.innerHTML = "";
     if (!(selectedCharacter in characterMap)) {
         return;
     }
     let selectedCharacterData = characterMap[selectedCharacter][selectedPlatform];
     if (selectedCharacterData) {
-        container.innerHTML = "";
+        nodata.style.display = "none";
         {
             let newRow = document.createElement("tr");
             newRow.appendChild(createCell("Overall"));
