@@ -1,9 +1,14 @@
 ---
-date: 2022-12-08T23:29:55+08:00
+date: 2022-12-08 15:29:55
 reviews:
 - media: games
   rating: 5.0
   title: Street Fighter V (PS4/Steam)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109479044049709966
+- type: twitter
+  url: https://twitter.com/roytang/status/1600893147416264705/
 tags:
 - gaming
 - streetfighterv
