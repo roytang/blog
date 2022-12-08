@@ -29,6 +29,7 @@ tags:
 - egx
 - street-fighter-v
 - london2015
+- streetfighterv
 ---
 
 Apparently it was a bad day to take a train to birmingham for egx as there's a rugby world cup match there today; the train is jam packed and i might be standing for 2hrs :/

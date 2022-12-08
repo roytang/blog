@@ -1,5 +1,10 @@
 ---
-date: 2022-12-08T22:25:06+08:00
+date: 2022-12-08 14:25:06
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109478558479609862
+- type: twitter
+  url: https://twitter.com/roytang/status/1600862057448062978/
 tags:
 - duolingo
 ---
