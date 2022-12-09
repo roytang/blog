@@ -1,8 +1,13 @@
 ---
-title: "Reddit Recap 2022"
-date: 2022-12-10T06:46:46+08:00
+date: 2022-12-09 22:46:46
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109486176169904338
+- type: twitter
+  url: https://twitter.com/roytang/status/1601349596155760640/
 tags:
 - tech-life
+title: Reddit Recap 2022
 ---
 
 It's that time of the year, when online companies like Reddit give you stats! (I love stats!)
