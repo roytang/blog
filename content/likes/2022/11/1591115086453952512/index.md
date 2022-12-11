@@ -1,6 +1,10 @@
 ---
+author:
+  name: deathbybadger
+  url: https://twitter.com/deathbybadger/
 date: 2022-11-11 17:06:12+00:00
 dontinlinephotos: true
+like_of: https://twitter.com/deathbybadger/status/1591115086453952512/
 source: twitter
 syndicated:
 - type: twitter

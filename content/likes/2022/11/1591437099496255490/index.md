@@ -1,15 +1,14 @@
 ---
+author:
+  name: GergelyOrosz
+  url: https://twitter.com/GergelyOrosz/
 date: 2022-11-12 14:25:46+00:00
 dontinlinephotos: true
+like_of: https://twitter.com/GergelyOrosz/status/1591437099496255490/
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/GergelyOrosz/status/1591437099496255490/
-author:
-  name: GergelyOrosz
-  url: https://twitter.com/GergelyOrosz/
-tags:
-- GergelyOrosz
 ---
 
 Scoop from within Twitter: small things are breaking, not enough engineers to fix them.

@@ -1,15 +1,15 @@
 ---
+author:
+  name: zdarsky
+  url: https://twitter.com/zdarsky/
 date: 2022-11-16 00:33:22+00:00
 dontinlinephotos: true
+like_of: https://twitter.com/zdarsky/status/1592677170312523776/
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/zdarsky/status/1592677170312523776/
-author:
-  name: zdarsky
-  url: https://twitter.com/zdarsky/
 tags:
-- zdarsky
 - zoethorogood
 ---
 

@@ -2,6 +2,7 @@
 date: 2022-11-18 09:46:38
 dontinlinephotos: true
 source: twitter
+like_of: https://twitter.com/MosquitoCapital/status/1593541177965678592/
 syndicated:
 - type: twitter
   url: https://twitter.com/MosquitoCapital/status/1593541177965678592/
