@@ -2,13 +2,15 @@
 author:
   name: MadamHiddles
   url: https://twitter.com/MadamHiddles/
-date: 2022-12-03 11:09:42+00:00
+date: 2022-12-03 11:09:42
 dontinlinephotos: true
 like_of: https://twitter.com/MadamHiddles/status/1598997902743203841/
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/MadamHiddles/status/1598997902743203841/
+tags:
+- madamhiddles
 ---
 
 My faaaaaave!

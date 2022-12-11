@@ -2,13 +2,15 @@
 author:
   name: nathanallebach
   url: https://twitter.com/nathanallebach/
-date: 2022-11-13 14:09:44+00:00
+date: 2022-11-13 14:09:44
 dontinlinephotos: true
 like_of: https://twitter.com/nathanallebach/status/1591795452101689346/
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/nathanallebach/status/1591795452101689346/
+tags:
+- nathanallebach
 ---
 
 I periodically update this google doc that has almost every twitter meme template from over the years. If the ship goes down you can hold onto these overused jokes, as a treat 

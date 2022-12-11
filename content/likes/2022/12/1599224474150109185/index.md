@@ -2,13 +2,15 @@
 author:
   name: interstar
   url: https://twitter.com/interstar/
-date: 2022-12-04 02:10:01+00:00
+date: 2022-12-04 02:10:01
 dontinlinephotos: true
 like_of: https://twitter.com/interstar/status/1599224474150109185/
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/interstar/status/1599224474150109185/
+tags:
+- interstar
 ---
 
 If anyone wants a quick map of the future, it's this.

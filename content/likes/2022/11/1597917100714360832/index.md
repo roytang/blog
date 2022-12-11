@@ -2,7 +2,7 @@
 author:
   name: dailygasms
   url: https://twitter.com/dailygasms/
-date: 2022-11-30 11:34:59+00:00
+date: 2022-11-30 11:34:59
 dontinlinephotos: true
 like_of: https://twitter.com/dailygasms/status/1597917100714360832/
 source: twitter
@@ -14,6 +14,7 @@ tags:
 - AdeMagnaye
 - baddie
 - hilarion
+- dailygasms
 ---
 
 Been trying to recall that blog/website where I first met [@helgaplant](https://twitter.com/helgaplant/) [@AdeMagnaye](https://twitter.com/AdeMagnaye/) [@baddie](https://twitter.com/baddie/) [@hilarion](https://twitter.com/hilarion/) I can't remember it was a funny blog (?) by someone with "chicken" in their username??? Everyone was always in the comments and that was where I found their individual blogs too 

@@ -2,13 +2,15 @@
 author:
   name: GailSimone
   url: https://twitter.com/GailSimone/
-date: 2022-11-29 10:11:39+00:00
+date: 2022-11-29 10:11:39
 dontinlinephotos: true
 like_of: https://twitter.com/GailSimone/status/1597533740594782208/
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/GailSimone/status/1597533740594782208/
+tags:
+- gailsimone
 ---
 
 Okay, I will tell this story again because it's very meaningful to me and it's been a long time since I told it last. 

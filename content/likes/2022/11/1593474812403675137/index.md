@@ -2,13 +2,15 @@
 author:
   name: danluu
   url: https://twitter.com/danluu/
-date: 2022-11-18 05:22:55+00:00
+date: 2022-11-18 05:22:55
 dontinlinephotos: true
 like_of: https://twitter.com/danluu/status/1593474812403675137/
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/danluu/status/1593474812403675137/
+tags:
+- danluu
 ---
 
 I tried Mastodon again recently and was pleasantly surprised to find that multiple tech communities I'm interested in have achieved critical mass.
