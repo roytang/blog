@@ -19,6 +19,11 @@ reviews:
   rating: 3.0
   title: The Princess
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109494854149800498
+- type: twitter
+  url: https://twitter.com/roytang/status/1601904977726693376/
 tags:
 - weeknotes
 - tv
