@@ -1,5 +1,10 @@
 ---
-date: 2022-12-16T14:08:42+08:00
+date: 2022-12-16 06:08:42
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109521948420333605
+- type: twitter
+  url: https://twitter.com/roytang/status/1603639021174784001/
 tags:
 - mtgbro
 - mtg
