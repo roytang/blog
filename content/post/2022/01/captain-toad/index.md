@@ -12,6 +12,7 @@ syndicated:
 tags:
 - gaming
 - games
+- nintendoswitch
 title: 'Captain Toad: Treasure Tracker'
 ---
 

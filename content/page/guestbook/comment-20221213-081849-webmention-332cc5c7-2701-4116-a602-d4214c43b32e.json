@@ -1,0 +1,29 @@
+{
+  "id": "332cc5c7-2701-4116-a602-d4214c43b32e",
+  "name": "eindex.me",
+  "url": "https://eindex.me/series/",
+  "text": "Mentioned by https://eindex.me/series/",
+  "date": "2022-12-13 16:18:49 +0800",
+  "photo": null,
+  "source_url": "https://eindex.me/series/",
+  "source": "webmention",
+  "spam": true,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://eindex.me/series/",
+    "published": null,
+    "wm-received": "2022-12-13T08:18:49Z",
+    "wm-id": 1580462,
+    "wm-source": "https://eindex.me/series/",
+    "wm-target": "https://xn--sr8hvo.ws/%F0%9F%95%90%F0%9F%89%91%F0%9F%88%B6/next",
+    "mention-of": "https://xn--sr8hvo.ws/%F0%9F%95%90%F0%9F%89%91%F0%9F%88%B6/next",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}

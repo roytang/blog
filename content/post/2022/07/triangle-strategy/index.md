@@ -94,6 +94,7 @@ syndicated:
 tags:
 - gaming
 - games
+- nintendoswitch
 title: Triangle Strategy (Switch)
 ---
 
