@@ -1,0 +1,32 @@
+{
+  "id": "a736587e-6e92-4bbf-9fb3-1f824a48fad0",
+  "name": "simpleenews.qblnet.us",
+  "url": "https://simpleenews.qblnet.us/2022/12/18/an-interview-with-roy-tang-prolific-blogger/",
+  "text": "Mentioned by https://simpleenews.qblnet.us/2022/12/18/an-interview-with-roy-tang-prolific-blogger/",
+  "date": "2022-12-18 19:34:13 +0000",
+  "photo": "",
+  "source_url": "https://simpleenews.qblnet.us/2022/12/18/an-interview-with-roy-tang-prolific-blogger/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://simpleenews.qblnet.us/2022/12/18/an-interview-with-roy-tang-prolific-blogger/",
+    "published": null,
+    "wm-received": "2022-12-18T19:34:13Z",
+    "wm-id": 1583436,
+    "wm-source": "https://simpleenews.qblnet.us/2022/12/18/an-interview-with-roy-tang-prolific-blogger/",
+    "wm-target": "https://roytang.net/tags/gamedev/",
+    "mention-of": "https://roytang.net/tags/gamedev/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://simpleenews.qblnet.us/2022/12/18/an-interview-with-roy-tang-prolific-blogger/"
+    }
+  }
+}
