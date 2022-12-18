@@ -1,19 +1,25 @@
 ---
-date: 2022-12-18T23:35:08+08:00
+date: 2022-12-18 15:35:08
 dontinlinephotos: true
 reviews:
-- description: 'Great performances, but not really my cup of tea.'
+- description: Great performances, but not really my cup of tea.
   hashtag: banshees
   media: movies
   rating: 4.0
   title: The Banshees of Inisherin
   year: 2022
-- description: 'Star-studded ensemble cast with good performances, but the plot is all over the place.'
+- description: Star-studded ensemble cast with good performances, but the plot is
+    all over the place.
   hashtag: amsterdam
   media: movies
   rating: 3.0
   title: Amsterdam
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109535553829825062
+- type: twitter
+  url: https://twitter.com/roytang/status/1604509756827521025/
 tags:
 - weeknotes
 - tv
