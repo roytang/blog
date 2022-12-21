@@ -6,9 +6,14 @@ reviews:
   media: games
   rating: 4.5
   title: Tunic (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109552908186836130
+- type: twitter
+  url: https://twitter.com/roytang/status/1605620444962267136/
 tags:
 - games
-title: "Games: Tunic"
+title: 'Games: Tunic'
 ---
 
 Tunic is a cute little Zelda-like with a unique twist: The game barely tells you anything and most text is written in an unknown runic script/language, but you can collect these pages that turn out to be from an in-game instruction manual (also mostly written in the unknown language), and as you find more pages, you figure out more stuff about the world and the game and how to do stuff in the game. 
