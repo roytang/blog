@@ -10,6 +10,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/109573261391726830
 - type: twitter
   url: https://twitter.com/roytang/status/1606923055594606592/
+- type: instagram
+  url: https://www.instagram.com/p/CmlXYYGPfM8/
 title: ''
 ---
 
