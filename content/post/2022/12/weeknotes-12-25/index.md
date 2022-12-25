@@ -78,3 +78,5 @@ Visit the [Links page](/links/) for more links of interest.
 ### This coming week:
 
 For me probably just wrapping up / end of year stuff, writing some blog posts, gathering some stats, thinking about the year to come, etc. [Relevant tweet](https://twitter.com/GianmarcoSoresi/status/1606312849013211137).
+
+I wish good cheer to all of you this holiday season!
