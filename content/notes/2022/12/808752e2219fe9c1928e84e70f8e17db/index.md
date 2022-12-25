@@ -1,5 +1,6 @@
 ---
 date: 2022-12-25 08:01:15.071826
+location: 4b6a8f56f964a520a7d82be3
 resources:
 - src: 1_20221225_155818.jpg
   title: Quezon City Memorial Circle
