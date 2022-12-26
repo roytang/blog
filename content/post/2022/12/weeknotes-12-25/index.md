@@ -81,6 +81,8 @@ Visit the [Links page](/links/) for more links of interest.
 
 {{% img src="duterte" %}}
 
+*(Clarification: Not my picture, found it somewhere online, can't recall anymore)*
+
 ### This coming week:
 
 For me probably just wrapping up / end of year stuff, writing some blog posts, gathering some stats, thinking about the year to come, etc. [Relevant tweet](https://twitter.com/GianmarcoSoresi/status/1606312849013211137).
