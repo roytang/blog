@@ -1,26 +1,32 @@
 ---
-date: 2022-12-25T21:51:40+08:00
+date: 2022-12-25 13:51:40
 dontinlinephotos: true
+resources:
+- src: duterte-cancer.jpg
+  title: 'Headline: Duterte gifts Davao City kids with cancer'
 reviews:
 - description: Fun and clever whodunnit, worthy sequel, terrible title.
   hashtag: glassonion
   media: movies
   rating: 5.0
-  title: "Glass Onion: A Knives Out Mystery"
+  title: 'Glass Onion: A Knives Out Mystery'
   year: 2022
-- description: Fun and clever procedural with excellent chemistry between the two leads.
+- description: Fun and clever procedural with excellent chemistry between the two
+    leads.
   hashtag: whitecollar
   media: tv
   rating: 4.0
   title: White Collar
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109574876554243071
+- type: twitter
+  url: https://twitter.com/roytang/status/1607026423059075073/
 tags:
 - weeknotes
 - tv
 - movies
 title: Weeknotes 2022-12-25
-resources:
-- src: duterte-cancer.jpg
-  title: "Headline: Duterte gifts Davao City kids with cancer"
 ---
 
 Hey, it's Christmas day! *Waves at all who celebrate.* And this will be my final weeknotes entry for the year!
