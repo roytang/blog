@@ -1,8 +1,13 @@
 ---
-title: "Thoughts on Twitter"
-date: 2022-12-26T13:58:08+08:00
+date: 2022-12-26 05:58:08
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109578649018738922
+- type: twitter
+  url: https://twitter.com/roytang/status/1607267848795348992/
 tags:
 - tech-life
+title: Thoughts on Twitter
 ---
 
 I almost flat out quit Twitter last week when they surprised everyone with a policy forbidding linking to other social media platforms. They rolled it back before I could do anything, but that was just ridiculous. The whole web is built on linking to other websites, I have no interest in being stuck in a walled garden.
