@@ -10,6 +10,11 @@ resources:
 - src: steam-replay-stats.png
   title: Breakdown by genre
 source: form
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109582761406214644
+- type: twitter
+  url: https://twitter.com/roytang/status/1607531054193344512/
 tags:
 - gaming
 - steam
