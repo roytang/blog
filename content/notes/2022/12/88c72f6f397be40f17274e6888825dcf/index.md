@@ -5,12 +5,11 @@ resources:
   title: Steam Replay stats
 - src: 2_steam-replay-compare.png
   title: 221 achievements vs 21 Steam average lol
+- src: steam-replay-release.png
+  title: 5% new games -> Marvel Snap!
+- src: steam-replay-stats.png
+  title: Breakdown by genre
 source: form
-syndicated:
-- type: mastodon
-  url: https://indieweb.social/users/roytang/statuses/109582625500206498
-- type: twitter
-  url: https://twitter.com/roytang/status/1607522351557795840/
 tags:
 - gaming
 - steam
