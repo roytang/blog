@@ -1,9 +1,5 @@
 ---
-title: "Digital Boardgames Review: Gloomhaven"
-date: 2022-12-27T08:17:55+08:00
-tags:
-- games
-- gaming
+date: 2022-12-27 00:17:55
 resources:
 - src: gloomhaven-stats.png
   title: My Gloomhaven play stats from Steam Replay
@@ -14,6 +10,15 @@ resources:
 reviews:
 - media: games
   title: Gloomhaven (Steam)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109582862319877426
+- type: twitter
+  url: https://twitter.com/roytang/status/1607537510925881344/
+tags:
+- games
+- gaming
+title: 'Digital Boardgames Review: Gloomhaven'
 ---
 
 Over the past couple of years, I've been regularly playing digital boardgames online on Steam with one of my friend groups, I thought I'd do reviews of them. Today's review is for **Gloomhaven**, the one we most played in 2022.
@@ -31,4 +36,3 @@ Our group typically takes around an hour for each quest/dungeon, more or less. I
 As mentioned, we have never finished the campaign, and have even added the Jaws of the Lion DLC to the game as well, which adds even more quest lines. Our first run had to be stopped around October due to a tragic real-life loss of one of our members, but we eventually picked up again with a new member, starting over with a new campaign. (You can see this dip in playtime reflected in the stats screenshot attached to the post). 
 
 Completion: The Steam version has a lot of achievements! Since I really only play the game multiplayer, I am bound by my playgroup's pace so it's unlikely I will ever complete the achievements. Maybe someday I can decide to pick up the old campaign and slog through in singleplayer mode to complete it.
-
