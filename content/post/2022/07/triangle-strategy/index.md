@@ -81,6 +81,8 @@ resources:
     creates doubt, and ideals of justice lead to conflict.'''
 - src: 2022063013224500-467507ED32D9FB499DE8C06726F69E90.jpg
   title: Golden ending
+- src: switch-yir-triangle.png
+  title: Stats for this game from the Switch Year in Review
 reviews:
 - description: An excellent FFT successor
   media: games
@@ -112,3 +114,5 @@ Finished my second big RPG for the year! Triangle Strategy by Squaresoft is a ne
 - **Playtime**: My final save game is at 64 hours. The save from my first finish is at 45 hours, so the NG+ run took me around 19 hours, which isn't too bad. The Switch says my playtime is "more than 70 hours" (apparently technology limits how accurate playtime tracking can be); I assume the difference corresponds to me going for the two alternate endings I played off the first playthrough. HLTB says average completionist runs take around 96h, so that's not too bad, even though my runs weren't really "complete".
 
 As usual, I end this entry with my plethora of screenshots. Fair warning: Some of these should be considered spoilers!
+
+<time>[2022-12-29]</time> Edit: Added a screenshot of the stats for this game from the Switch Year in Review.

@@ -14,6 +14,9 @@ tags:
 - gaming
 - nintendoswitch
 - games
+resources:
+- src: switch-yir-dread.png
+  title: Stats for this game from the Switch Year in Review
 title: Metroid Dread
 ---
 
@@ -28,3 +31,5 @@ The game features these EMMIs, basically invincible hunter robots that patrol ce
 I did manage 100% item completion here, though I had to use a guide to use the last few items. The game does provide the hero Samus with an ability to detect "hidden" objects that can unlock hidden areas, but you'd have to go through each room to use it and that seemed tedious so I wasn't up for that. There were also some items that needed you to figure out how to use the Shinespark ability effectively, those were very annoying as some of them require some fairly precise platforming, but I managed somehow.
 
 Overall very happy with the game, well worth my time!
+
+<time>[2022-12-29]</time> Edit: Added a screenshot of the stats for this game from the Switch Year in Review.

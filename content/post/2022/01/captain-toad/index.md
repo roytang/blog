@@ -13,6 +13,9 @@ tags:
 - gaming
 - games
 - nintendoswitch
+resources:
+- src: switch-yir-captoad.png
+  title: Stats for this game from the Switch Year in Review
 title: 'Captain Toad: Treasure Tracker'
 ---
 
@@ -39,3 +42,5 @@ After the three episodes there are some bonus levels to play; in the Switch vers
 Too bad about missing completion; I would have surely been able to do everything if I had more time to "git gud", as they say. But still, the price was right, and I did enjoy most of the game, despite the more annoying levels, so I am thankful to Nintendo for the "free" game.
 
 {{% photos credits %}}
+
+<time>[2022-12-29]</time> Edit: Added a screenshot of the stats for this game from the Switch Year in Review.
