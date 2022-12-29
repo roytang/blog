@@ -1,6 +1,5 @@
 ---
 date: 2022-12-29 14:28:06+00:00
-dontinlinephotos: true
 resources:
 - src: gentlemen.png
   title: '"If you wish to be the king of the jungle, it''s not enough to act like
