@@ -1,5 +1,5 @@
 ---
-date: 2022-12-29 10:53:38
+date: 2022-12-29 13:53:38
 resources:
 - src: 2022072014345200-3A1938091010D0ABE00E509B97EF8081.jpg
   title: 'Guy Brush: The newest entry in my series of poorly considered protagonist names.'
@@ -36,7 +36,6 @@ tags:
 - games
 - gaming
 title: 'Games: Shin Megami Tensei V'
-draft: true
 ---
 
 This is only the second game I'm playing in the main *Shin Megami Tensei* series (the first one being SMT IV on the 3DS). If you're not familiar with the series, it's basically Pokemon except instead of adorable little monsters that magically fit in a small ball, you carry around a party of demons that fit in your... soul I guess? They aren't "demonic" demons, at least not all of them. They are mostly figures from various legends and mythologies; you got your Zeus and your Thor and your Vishnu, etc. And instead of going out to collect things or whatever, the story for the games generally fall under the ["Attack and Dethrone God" meme](https://knowyourmeme.com/memes/attack-and-dethrone-god) common in JRPGs, except they go a bit harder. If you're familiar with the sister *Persona* series, SMT is a bit like that, except with less restrictions imposed by a calendar or cats that want you to sleep.
