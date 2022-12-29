@@ -1,6 +1,10 @@
 ---
-date: 2022-12-29 06:28:06+00:00
+date: 2022-12-29 06:28:06
 dontinlinephotos: true
+resources:
+- src: gentlemen.png
+  title: '"If you wish to be the king of the jungle, it''s not enough to act like
+    a king"'
 reviews:
 - date: '2022-12-29'
   media: movies
