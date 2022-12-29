@@ -2,29 +2,31 @@
 date: 2022-12-29 13:53:38
 resources:
 - src: 2022072014345200-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'Guy Brush: The newest entry in my series of poorly considered protagonist names.'
+  title: 'Guy Brush: The newest entry in my series of poorly considered protagonist
+    names.'
 - src: 2022072014482000-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'Title drop'
+  title: Title drop
 - src: 2022072014584200-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'Guy Brush androgynous status screen'
+  title: Guy Brush androgynous status screen
 - src: 2022081515503000-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'Manananggal: I believe this is the first creature from PH folklore to make it into the series!'
+  title: 'Manananggal: I believe this is the first creature from PH folklore to make
+    it into the series!'
 - src: 2022091513275900-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'Manananggal lore. Maybe she makes it into the next Persona?'
+  title: Manananggal lore. Maybe she makes it into the next Persona?
 - src: 2022111012103800-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'Alternative facts!'
+  title: Alternative facts!
 - src: 2022112920022700-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'Khonsu, friend of Moon Knight'
+  title: Khonsu, friend of Moon Knight
 - src: 2022113014102600-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'The dragon from Dragon Ball'
+  title: The dragon from Dragon Ball
 - src: 2022120213024600-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'I always look forward to finding Mara because his appearance is so ridiculous.'
+  title: I always look forward to finding Mara because his appearance is so ridiculous.
 - src: 2022120915385700-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'SUPER COOL'
+  title: SUPER COOL
 - src: 2022122913460900-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'Chaos route!'
+  title: Chaos route!
 - src: 2022122916031100-3A1938091010D0ABE00E509B97EF8081.jpg
-  title: 'Only managed 95% compendium completion'
+  title: Only managed 95% compendium completion
 - src: switch-yir-smtv.png
   title: Stats for this game from the Switch Year in Review
 reviews:
@@ -32,6 +34,11 @@ reviews:
   media: games
   rating: 4.0
   title: Shin Megami Tensei V (Switch)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109597671431609130
+- type: twitter
+  url: https://twitter.com/roytang/status/1608485299965022209/
 tags:
 - games
 - gaming
@@ -47,4 +54,3 @@ It isn't even that the combat is particularly difficult, it's just that for mayb
 HLTB says completionist times average at just under 100 hours. Given that I needed at least maybe 25 more hours to get in that neighborhood, I was sure I wouldn't make it by year end, but I was at least hoping I could unlock the secret ending by grinding enough levels to beat the super boss needed, but alas I was not getting there either, so today I have up and just powered through to the Chaos ending. 
 
 I did enjoy the game, though there were definitely some parts that were a bit grindy, but it was time to put it to bed as there are so many other games I want to play in 2023, some of them quite long as well. Maybe someday I'll go back to this game and try for the other endings, but that seems about as likely as me trying for the third route in [Fire Emblem: Three Houses](/2021/01/1349796416042856448/).
-
