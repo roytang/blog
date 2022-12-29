@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1605620444962267136/
 tags:
 - games
+- gaming
 title: 'Games: Tunic'
 ---
 

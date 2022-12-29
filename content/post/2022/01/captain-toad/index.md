@@ -44,3 +44,5 @@ Too bad about missing completion; I would have surely been able to do everything
 {{% photos credits %}}
 
 <time>[2022-12-29]</time> Edit: Added a screenshot of the stats for this game from the Switch Year in Review.
+
+{{% photos yir %}}
