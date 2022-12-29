@@ -16,8 +16,11 @@ tags:
 - ThreeHouses
 - NintendoSwitch
 - games
+title: Fire Emblem Three Houses
 ---
 
 Finally finished #FireEmblem #ThreeHouses, or one run at least! Doing the other two might take a while!   #NintendoSwitch
 
 And yes, I could have gotten a much better screenshot from the ending I suppose, but I'm too lazy to go back and get one lol
+
+Short review: Battles are way too easy, even without using the rewind mechanic the game gives you. Story and characters are pretty good though.
