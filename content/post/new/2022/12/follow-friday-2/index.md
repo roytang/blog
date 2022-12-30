@@ -1,5 +1,10 @@
 ---
-date: 2022-12-30T14:33:21+08:00
+date: 2022-12-30 06:33:21
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109601522119189799
+- type: twitter
+  url: https://twitter.com/roytang/status/1608731727136186368/
 tags:
 - tech-life
 - follow-friday
