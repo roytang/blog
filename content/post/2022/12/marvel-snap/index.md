@@ -3,12 +3,17 @@ date: 2022-12-30 21:01:26
 dontinlinephotos: true
 resources:
 - src: 20221231055452_1.jpg
-  title: 'The UI is not yet optimized on PC though.'
+  title: The UI is not yet optimized on PC though.
 - src: steam-replay-snap.png
-  title: 'Marvel Snap stats from the Steam Replay'
+  title: Marvel Snap stats from the Steam Replay
 reviews:
 - media: games
   title: Marvel Snap stats from the Steam Replay
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109604869623816341
+- type: twitter
+  url: https://twitter.com/roytang/status/1608945979147063298/
 tags:
 - games
 - gaming
@@ -36,5 +41,3 @@ The game is fairly fun and addictive; each game is quick and it's easy to get a 
 My brother started playing last week and played most of his first day and got to CL 60+. I am currently at CL 1300+ after 3 months of play. I've played the game enough that it made an appearance in [this year's Steam Replay](/2022/12/88c72f6f397be40f17274e6888825dcf/):
 
 {{% img src="steam-replay-snap.png" %}}
-
-
