@@ -1,0 +1,29 @@
+{
+  "id": "93a886af-0d6d-447c-8854-897274d25d59",
+  "name": "Ana Rodrigues",
+  "url": "https://twitter.com/ohhelloana",
+  "text": "[Ana Rodrigues](https://twitter.com/ohhelloana) [liked this](https://twitter.com/roytang/status/1608731727136186368#favorited-by-434457570)",
+  "date": "2022-12-30 08:15:39 +0000",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/fc885e5ff4cb71287c4384f7b208bb425af1a7a3139bbd8baf8f11923e168aa2.jpg",
+  "source_url": "https://twitter.com/roytang/status/1608731727136186368#favorited-by-434457570",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Ana Rodrigues",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/fc885e5ff4cb71287c4384f7b208bb425af1a7a3139bbd8baf8f11923e168aa2.jpg",
+      "url": "https://twitter.com/ohhelloana"
+    },
+    "url": "https://twitter.com/roytang/status/1608731727136186368#favorited-by-434457570",
+    "published": null,
+    "wm-received": "2022-12-30T08:15:39Z",
+    "wm-id": 1589240,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1608731727136186368/434457570",
+    "wm-target": "https://roytang.net/2022/12/follow-friday-2/",
+    "like-of": "https://roytang.net/2022/12/follow-friday-2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
