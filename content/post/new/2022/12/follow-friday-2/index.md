@@ -1,6 +1,5 @@
 ---
 date: 2022-12-30T14:33:21+08:00
-draft: true
 tags:
 - tech-life
 - follow-friday

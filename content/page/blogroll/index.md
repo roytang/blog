@@ -14,4 +14,4 @@ Related: [Blogroll updates](/2022/06/blogroll-updates/), [About Feeds](https://a
 
 {{< blogroll >}}
 
-You can also find more blogs to follow over on [Blogroll.org](https://blogroll.org/)!
+You can also find more blogs to follow over on [Blogroll.org](https://blogroll.org/) and [ooh.directory](https://ooh.directory/)!
