@@ -9,6 +9,7 @@ syndicated:
 tags:
 - tech-life
 - follow-friday
+- blogging
 title: 'Follow Friday #1'
 ---
 

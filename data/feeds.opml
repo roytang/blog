@@ -18,12 +18,14 @@
       <outline text="Idle Words" title="Idle Words" type="rss" xmlUrl="https://idlewords.com/index.xml" htmlUrl="http://idlewords.com/"/>
       <outline text="jlelse's Blog" title="jlelse's Blog" type="rss" xmlUrl="https://jlelse.blog/index.xml" htmlUrl="https://jlelse.blog/"/>
       <outline text="Julia Evans" title="Julia Evans" type="rss" xmlUrl="http://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/"/>
+      <outline text="jwz" title="jwz" type="rss" xmlUrl="https://www.jwz.org/blog/feed/" htmlUrl="https://www.jwz.org/blog/"/>
       <outline text="K-Squared Ramblings" title="K-Squared Ramblings" type="rss" xmlUrl="https://www.hyperborea.org/journal/feed/" htmlUrl="https://www.hyperborea.org/journal"/>
       <outline text="kalzumeus" title="kalzumeus" type="rss" xmlUrl="https://www.kalzumeus.com/feed/articles/" htmlUrl="http://www.kalzumeus.com/"/>
       <outline text="Kev Quirk" title="Kev Quirk" type="rss" xmlUrl="https://kevq.uk/feed" htmlUrl="https://kevq.uk/home.rss"/>
       <outline text="Kicks Condor" title="Kicks Condor" type="rss" xmlUrl="https://www.kickscondor.com/rss.xml" htmlUrl="https://www.kickscondor.com/"/>
       <outline text="kottke.org" title="kottke.org" type="rss" xmlUrl="http://feeds.kottke.org/main" htmlUrl="http://kottke.org/"/>
       <outline text="Laura Kalbag" title="Laura Kalbag" type="rss" xmlUrl="https://laurakalbag.com/index.xml" htmlUrl="https://laurakalbag.com/"/>
+      <outline text="maya.land" title="maya.land" type="rss" xmlUrl="https://maya.land/feed.xml" htmlUrl="https://maya.land/"/>
       <outline text="MetaGrrrl" title="MetaGrrrl" type="rss" xmlUrl="https://metagrrrl.com/feed/" htmlUrl="https://metagrrrl.com/"/>
       <outline text="Nat Buckley" title="Nat Buckley" type="rss" xmlUrl="https://natbuckley.co.uk/atom.xml" htmlUrl="https://natbuckley.co.uk/"/>
       <outline text="Ned Batchelder's blog" title="Ned Batchelder's blog" type="rss" xmlUrl="https://nedbatchelder.com/blog/rss.xml" htmlUrl="https://nedbatchelder.com/blog"/>
@@ -33,13 +35,14 @@
       <outline text="Phil Gyford’s website: Everything" title="Phil Gyford’s website: Everything" type="rss" xmlUrl="https://www.gyford.com/phil/feeds/everything/rss/" htmlUrl="http://www.gyford.com/"/>
       <outline text="Pluralistic: Daily links from Cory Doctorow" title="Pluralistic: Daily links from Cory Doctorow" type="rss" xmlUrl="https://pluralistic.net/feed/" htmlUrl="https://pluralistic.net/"/>
       <outline text="Rachel by the Bay - Writing" title="Rachel by the Bay - Writing" type="rss" xmlUrl="http://rachelbythebay.com/w/atom.xml" htmlUrl="http://rachelbythebay.com/w/"/>
-      <outline text="Rands In Repose" title="Rands In Repose" type="rss" xmlUrl="https://randsinrepose.com/feed/" htmlUrl="http://randsinrepose.com/"/>
+      <outline text="Rands in Repose" title="Rands in Repose" type="rss" xmlUrl="https://randsinrepose.com/feed/" htmlUrl="https://randsinrepose.com/"/>
       <outline text="ribbonfarm" title="ribbonfarm" type="rss" xmlUrl="http://ribbonfarm.com/feed" htmlUrl="http://www.ribbonfarm.com/"/>
       <outline text="Rubénerd" title="Rubénerd" type="rss" xmlUrl="https://rubenerd.com/feed/" htmlUrl="http://rubenerd.com/"/>
       <outline text="Scripting News for email" title="Scripting News for email" type="rss" xmlUrl="http://scripting.com/rssNightly.xml" htmlUrl="http://scripting.com/"/>
       <outline text="Second Breakfast" title="Second Breakfast" type="rss" xmlUrl="https://secondbreakfast.co/feed.rss" htmlUrl="https://secondbreakfast.co/"/>
       <outline text="Seth's Blog" title="Seth's Blog" type="rss" xmlUrl="http://sethgodin.typepad.com/seths_blog/atom.xml" htmlUrl="http://sethgodin.typepad.com/seths_blog/"/>
       <outline text="Shane Breslin" title="Shane Breslin" type="rss" xmlUrl="https://www.shanebreslin.com/feed/" htmlUrl="https://www.shanebreslin.com/"/>
+      <outline text="Sleepy Skunk on Tumblr" title="Sleepy Skunk on Tumblr" type="rss" xmlUrl="https://sleepyskunk.tumblr.com/rss" htmlUrl="https://sleepyskunk.tumblr.com/"/>
       <outline text="testkeis" title="testkeis" type="rss" xmlUrl="http://testkeis.wordpress.com/feed/" htmlUrl="https://testkeis.wordpress.com"/>
       <outline text="The Rubesletter by Matt Ruby (of Vooza) | Sent every Tuesday" title="The Rubesletter by Matt Ruby (of Vooza) | Sent every Tuesday" type="rss" xmlUrl="https://mattruby.substack.com/feed/" htmlUrl="https://mattruby.substack.com/"/>
       <outline text="Today in Tabs" title="Today in Tabs" type="rss" xmlUrl="https://www.todayintabs.com/feed/" htmlUrl="https://www.todayintabs.com/"/>
