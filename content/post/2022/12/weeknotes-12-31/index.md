@@ -4,7 +4,7 @@ dontinlinephotos: true
 tags:
 - weeknotes
 - movies
-title: Weeknotes 2022-12-31 The Final
+title: Weeknotes 2022-12-31 Happy New Year!
 ---
 
 It's the final weeknotes of the year! At first I thought I'd do this one tomorrow (the first of January) but I also plan to publish my year-in-review thingy, so I figured I'll just get this one out right before midnight, and next year's weeknotes can start fresh as a new series with maybe a different format.
