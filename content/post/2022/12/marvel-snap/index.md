@@ -8,7 +8,7 @@ resources:
   title: Marvel Snap stats from the Steam Replay
 reviews:
 - media: games
-  title: Marvel Snap stats from the Steam Replay
+  title: Marvel Snap
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109604869623816341
