@@ -29,6 +29,9 @@ resources:
   title: Only managed 95% compendium completion
 - src: switch-yir-smtv.png
   title: Stats for this game from the Switch Year in Review
+- src: 20211230_070241.jpg
+  title: Actually got the game as a Xmas gift last year and only finished it a year
+    later!
 reviews:
 - description: A challenging turn-based RPG, but the grind can get tedious.
   media: games
