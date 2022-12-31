@@ -1,6 +1,11 @@
 ---
-date: 2022-12-31T23:58:39+08:00
+date: 2022-12-31 15:58:39
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109609305211978977
+- type: twitter
+  url: https://twitter.com/roytang/status/1609229845355200514/
 tags:
 - weeknotes
 - movies
