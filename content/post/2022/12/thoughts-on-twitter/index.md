@@ -5,6 +5,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/109578649018738922
 - type: twitter
   url: https://twitter.com/roytang/status/1607267848795348992/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109607100242171208
 tags:
 - tech-life
 title: Thoughts on Twitter
@@ -38,3 +40,5 @@ This is why my favorite description of what happened to Twitter remains [this tw
 IDK what's going to happen to Twitter, maybe Elon really will drive it into the ground in record time or maybe he comes to his senses and sells it off to a benevolent buyer or whatever. But no matter what, I think there's no going back to where it was before; too many things have changed and too many people have gone off and tried other platforms or otherwise decided not to come back. What emerges from Elon's Twitter may very well be something completely different. I also have no interest in the "everything app" he is imagining.
 
 I'm not quitting Twitter just yet, but I will probably ramp down usage at some point. No matter what, my website will always tell you how you can contact me.
+
+<time id="109607100242171208">[2022-12-31 15:27] </time> <p>My biggest worry about Twitter is that EM randomly kills a server somewhere and we lose the archive of old tweets. </p><p>You might say &quot;Who cares, it&#39;s all shitposts anyway&quot;, but that&#39;s not true. I&#39;ve read a lot of good, insightful threads and stories on TW through the years and it would be a shame to lose them all to link rot. </p><p>AFAIK the IA doesn&#39;t archive most of TW. Maybe services like threadreaderbot have some good threads archived, but who knows what their retention policy is.</p>
