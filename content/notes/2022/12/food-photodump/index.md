@@ -31,6 +31,10 @@ resources:
   title: '02/11 Weird homemade egg+cheese+penne pasta thing that ma made. it was good though'
 - src: 20220311_IMG_1339.HEIC
   title: '03/11 Angel''s Pizza takeout dinner'
+- src: 20221106_122631.jpg
+  title: '11/06 Lunch at baptism for pamangkin#7'
+- src: 20220928_114134.jpg
+  title: '09/28 Causeway lunch with balikbayan cousins'
 tags:
 - food
 title: 2022 Food Pics Photodump
