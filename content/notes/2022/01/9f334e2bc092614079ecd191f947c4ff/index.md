@@ -6,7 +6,7 @@ resources:
 reviews:
 - description: ''
   media: movies
-  rating: 0.0
+  rating: 5.0
   title: Pig (2021)
 source: form
 syndicated:

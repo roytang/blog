@@ -6,6 +6,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/109590940493656549
 - type: twitter
   url: https://twitter.com/roytang/status/1608054513361092608/
+- type: instagram
+  url: https://www.instagram.com/p/CmtYcSLPKbQ/
 title: ''
 ---
 

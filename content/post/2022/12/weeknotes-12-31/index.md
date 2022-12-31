@@ -20,7 +20,9 @@ Kind of slow final news week actually. The best thing was Greta Thunberg [owning
  
 ### My Week
 
-- I always enjoy the lull week between Christmas and New Year's, but this year I had to do some last minute grocery shopping on the 30th and 31st and there are sooooo many people in the grocery stores, WTH. This might be the first time I've ever stepped out of the house on the 31st. I learned from a young age to just stay indoors on NYE because even in the late afternoon there's already the smell of fireworks, but I guess that's less of a problem in recent years, especially now as QC has banned household fireworks displays.
+- I always enjoy the lull week between Christmas and New Year's, but this year I had to do some last minute grocery shopping on the 30th and 31st and there are sooooo many people in the grocery stores, WTH. This might be the first time I've ever stepped out of the house on the 31st. 
+
+- I learned from a young age to just stay indoors on NYE because even in the late afternoon there's already the smell of fireworks, but I guess that's less of a problem nowadays, especially now as QC has banned household fireworks displays. I even managed to take a short walk in our subdivision around 9pm.
 
 - On the blog: [Thoughts on Twitter](/2022/12/thoughts-on-twitter/) and [Follow Friday #2 (with blogroll updates)](/2022/12/follow-friday-2/)
    

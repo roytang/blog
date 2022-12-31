@@ -23,7 +23,7 @@ reviews:
     difficult final stage
   media: games
   rating: 4.0
-  title: Yooka-Laylee and the Impossible Lair
+  title: Yooka-Laylee and the Impossible Lair (Steam)
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107994355922696910

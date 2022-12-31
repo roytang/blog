@@ -3,6 +3,7 @@ date: 2022-03-07 11:02:36
 reviews:
 - media: movies
   title: The Batman (2022)
+  rating: 5.0
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107915064603766070

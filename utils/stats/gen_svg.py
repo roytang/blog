@@ -11,7 +11,7 @@ import json
 
 thisyear = datetime.now().strftime("%Y")
 print(thisyear)
-thisyear = "2022"
+thisyear = "2023"
 root = Path(__file__).parent.absolute()
 
 def gen_chart(xaxis, yaxis, filename, title="", extra_data=[]):
@@ -82,6 +82,7 @@ def gen_svg_music(infile):
             year = date.strftime("%Y")
             counts_by_year[year] = counts_by_year.get(year, 0) + 1
             if year not in years:
+                print(year)
                 years.append(year)
             artist = row[0]
             artists_by_year[year] = artists_by_year.get(year, {})
@@ -118,7 +119,7 @@ def gen_svg_music(infile):
 
         years.insert(0, "ALL")
         for year in years:
-            if year == "ALL" or year == "2021":
+            if year == "ALL" or year == "2022":
                 print("{{< grid3 >}}")
                 print("\n##### " + year)
                 print("\n{{< grid_item >}}")
@@ -135,7 +136,7 @@ def gen_svg_music(infile):
       
 
 # export file is from https://benjaminbenben.com/lastfm-to-csv/
-infile = "D:\\backups\\socmed\\lastfm-roytang-20211231.csv"
+infile = "D:\\backups\\\socmed\\lastfm-roytang-20221231.csv"
 # gen_svg_music(infile)
 # gen_svg_blog()
 gen_svg_awstats()

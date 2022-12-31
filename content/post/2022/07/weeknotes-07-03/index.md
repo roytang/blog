@@ -20,7 +20,7 @@ reviews:
   description: Decent popcorn movie.
   hashtag: the-hitmans-bodyguard-2017
   media: movies
-  rating: 5
+  rating: 3.5
   title: The Hitman's Bodyguard
   year: 2017
 - date: 2022-06-30

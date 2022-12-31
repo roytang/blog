@@ -16,6 +16,9 @@ tags:
 - talesof
 - games
 title: 'Tales of Vesperia: Definitive Edition'
+resources:
+- src: steam-replay-vesperia.png
+  title: Stats for this game from my 2022 Steam Replay
 ---
 
 I started playing Tales of Vesperia in January, since I had just finished [Tales of Symphonia](/2021/12/symphonia/) a couple of weeks prior. Vesperia is that rare PS3 era RPG that never got an English-language release on that system, so I've actually been wanting to play this for more than a decade now, though I actually bought the game only during last year's end-of-year Steam sales.

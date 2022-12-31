@@ -10,9 +10,9 @@ from gen_svg import gen_chart, thisyear
 
 def fb():
 
-    years = ["2007", "2008", "2009", "2010","2011","2012","2013","2014","2015","2016","2017","2018","2019", "2020"]
-    data = [6, 18, 499, 264, 133, 202, 515, 1026, 1042, 2225, 1444, 1081, 315, 32]
-    data2 = [0, 0, 1, 11, 44, 46, 12, 596, 701, 2066, 765, 487, 138, 322]
+    years = ["2007", "2008", "2009", "2010","2011","2012","2013","2014","2015","2016","2017","2018","2019", "2020", "2021", "2022"]
+    data = [6, 18, 499, 264, 133, 202, 515, 1026, 1042, 2225, 1444, 1081, 315, 32, 0, 0]
+    data2 = [0, 0, 1, 11, 44, 46, 12, 596, 701, 2066, 765, 487, 138, 322, 0, 2]
     gen_chart(years, data, "fb", title="Posts", extra_data=[{"data": data2, "title": "Comments"}])    
 
     return
@@ -80,12 +80,17 @@ def twitter():
     gen_chart(years, data, "twitter")    
 
 def reddit():
-    years = ["2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020"]
-    submissions = [25,52,58,63,48,31,75,20,32,20,6]
-    comments = [43,124,256,457,136,33,829,199,148,172,31]
+    years = ["2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020", "2021", "2022"]
+    submissions = [25,52,58,63,48,31,75,20,32,20,6,6,3]
+    comments = [43,124,256,457,136,33,829,199,148,172,31,388,73]
     gen_chart(years, submissions, "reddit", title="Submissions", extra_data=[{"data": comments, "title": "Comments"}])    
 
 def insta():
+
+    years = ["2014","2015","2016","2017","2018","2019", "2020", "2021", "2022"]
+    data = [6,69,389,115,21,108,46,26,41]
+    gen_chart(years, data, "insta")    
+    return
 
     count_by_year = {}
     with Path(INSTA_SOURCE_FILE).open(encoding='utf-8') as f:
@@ -108,7 +113,7 @@ def insta():
     data.append(46)
     gen_chart(years, data, "insta")    
 
-#fb()
+fb()
 twitter()
 reddit()
 insta()

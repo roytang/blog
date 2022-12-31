@@ -18,9 +18,9 @@ Note 2: Data is extracted via [this service](https://benjaminbenben.com/lastfm-t
 
 General stats:
 
-- Last update date: 2021-12-31
-- Number of unique tracks: 4,651
-- Number of artists: 1,661
+- Last update date: 2022-12-31
+- Number of unique tracks: 4,954
+- Number of artists: 1,759
 
 ### [Last.fm](https://last.fm) tracks by year
 
@@ -354,5 +354,31 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Footprints in the Snow (13)
 - Stitches And Burns (12)
 - Inspector Mills (12)
+{{< /grid_item >}}
+{{< /grid3 >}}
+
+{{< grid3 >}}
+
+##### 2022
+
+{{< grid_item >}}
+
+##### Artists
+
+- Dashboard Confessional (37)
+- Fra Lippo Lippi (29)
+- Olly Dobson (22)
+- アトラスサウンドチーム (22)
+- Vertical Horizon (16)
+{{< /grid_item >}}
+{{< grid_item >}}
+
+##### Tracks
+
+- Closing Time (8)
+- Bilango - Acoustic Version (6)
+- Sometimes Love Just Ain't Enough (6)
+- Missing You (6)
+- Wherever You Will Go (5)
 {{< /grid_item >}}
 {{< /grid3 >}}

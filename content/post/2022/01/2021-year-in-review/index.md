@@ -138,7 +138,7 @@ This is a new section! Does that make me a content creator now? Maybe we're all 
         - Tales of Xillia 2
     - No PS4 or Nintendo Switch purchases this year! I actually even let my PS+ sub expire since the offerings were kinda meh.
 - My gaming spend is waaay down this year since last year included the Nintendo Switch. And yes, less games purchased. Have so far been able to resist getting a PS5 (the thing is huge!) or a PC upgrade.
-- Games "finished" (story/campaign completed OR achievement complete OR played a bunch of multiplayer on): 7, up from 11 last year. 
+- Games "finished" (story/campaign completed OR achievement complete OR played a bunch of multiplayer on): 12, up from 11 last year. 
     - [The list.](/lists/media/games/2021/) Includes 5 RPGs, 4 boardgames, a fighting game, a metroidvania and an Ace Attorney. One game each on PS4 and Switch, and the rest on Steam.
 - Steam playtime this year: 717.23 hours (up slightly from 678.75 hours last year)
 - Most played Steam games for the year:

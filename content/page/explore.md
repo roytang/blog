@@ -26,7 +26,7 @@ There's a lot of stuff on the site. I'm putting here some links that I don't kno
 
 [Older (ancient) versions of this site](/archives/ancient/)
 
-[Stats](/page/stats/site/)
+[Stats](/page/stats/live/)
 
 [Site changelog](/tags/changelog/)
 
