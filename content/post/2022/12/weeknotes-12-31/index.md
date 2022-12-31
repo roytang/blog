@@ -48,6 +48,6 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### This coming week:
 
-New Year obviously. Need to write some posts!
+New Year obviously. Need to write some posts! I hope the New Year is better for everyone than 2022 was.
 
 Next weekend (on the 6th) will be the first Ludum Dare of 2023! I hope to have time to participate, but I haven't even been able to set up my gamedev stuff on this new PC. Hopefully I can do that next week.
