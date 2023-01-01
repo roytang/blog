@@ -1,10 +1,14 @@
 ---
-title: "2022 Year in Review"
-date: 2023-01-02T03:13:07+08:00
+date: 2023-01-01 19:13:07
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109615769860153375
+- type: twitter
+  url: https://twitter.com/roytang/status/1609643587016495106/
 tags:
 - yearnotes
 title: 2022 Year in Review
-dontinlinephotos: true
 toc: true
 ---
 
