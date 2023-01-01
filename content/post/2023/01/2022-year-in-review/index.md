@@ -139,17 +139,17 @@ Also, here's a wordcloud for 2022:
       - By genre: 5 RPGs, 2 metroidvanias, a boardgame, a fighting game, a platformer, a puzzle game, and one I can't classify. 
       - By platform: 7 on Steam, 4 on Switch, 2 on PC game pass, 1 on mobile, 0 on PS4
 - Steam:
-  - [Gaming/Steam stats page](/page/stats/gaming/)
-  - [My Steam Replay 2022](/2022/12/88c72f6f397be40f17274e6888825dcf/)
-  - Steam playtime this year: 850.62 hours (up 18% from 717.23 hours last year)
-  - Most played Steam games for the year:
-      - [Eternal Card Game](/tags/eternalcardgame): 263.45 hour(s)
-      - [Tales of Vesperia](/2022/05/tales-of-vesperia/): 193.25 hour(s)
-      - [Gloomhaven](/2022/12/gloomhaven/) - 124.02 hour(s)
-      - [Street Fighter V](/2022/12/street-fighter-v/) - 63.68 hour(s)
-      - [Marvel SNAP](/2022/12/marvel-snap/) - 45.93 hour(s)
+    - [Gaming/Steam stats page](/page/stats/gaming/)
+    - [My Steam Replay 2022](/2022/12/88c72f6f397be40f17274e6888825dcf/)
+    - Steam playtime this year: 850.62 hours (up 18% from 717.23 hours last year)
+    - Most played Steam games for the year:
+        - [Eternal Card Game](/tags/eternalcardgame): 263.45 hour(s)
+        - [Tales of Vesperia](/2022/05/tales-of-vesperia/): 193.25 hour(s)
+        - [Gloomhaven](/2022/12/gloomhaven/) - 124.02 hour(s)
+        - [Street Fighter V](/2022/12/street-fighter-v/) - 63.68 hour(s)
+        - [Marvel SNAP](/2022/12/marvel-snap/) - 45.93 hour(s)
 - Nintendo Switch:
-  - Playtime this year: 186 hours (estimate), down from 75 hours last year. Nintendo provided [a Switch year in review again](/2022/12/switch-year-in-review/), but I had to do the totals myself.
+    - Playtime this year: 186 hours (estimate), down from 75 hours last year. Nintendo provided [a Switch year in review again](/2022/12/switch-year-in-review/), but I had to do the totals myself.
 - CCGs
     - [Magic The Gathering](/tags/mtg/)
         - No paper events attended
