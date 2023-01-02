@@ -12,7 +12,7 @@ tags:
 title: New Year's Checklist 2022
 ---
 
-Something I've gotten used to as the New Year rolls in: make a checklist of things to do and things I'm looking forward to for the new year. This one is coming in a bit late due to some business. This is my personal list, but maybe you'll enjoy going through it too. I generally copy stuff over, but the list changes a bit every year. Check out the [new-years-checklist tag] for previous years.
+Something I've gotten used to as the New Year rolls in: make a checklist of things to do and things I'm looking forward to for the new year. This one is coming in a bit late due to some business. This is my personal list, but maybe you'll enjoy going through it too. I generally copy stuff over, but the list changes a bit every year. Check out the [new-years-checklist tag](/tags/new-years-checklist/) for previous years.
 
 ### The list, in no particular order:
 
