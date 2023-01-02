@@ -1,8 +1,13 @@
 ---
-date: 2023-01-02T23:42:21+08:00
+date: 2023-01-02 15:42:21
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109620517115834480
+- type: twitter
+  url: https://twitter.com/roytang/status/1609947406975799296/
 tags:
 - new-years-checklist
-title: "New Year's Checklist 2023: Things I'm Looking Forward To"
+title: 'New Year''s Checklist 2023: Things I''m Looking Forward To'
 toc: true
 ---
 
