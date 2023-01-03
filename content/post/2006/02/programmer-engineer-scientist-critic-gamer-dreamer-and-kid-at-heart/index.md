@@ -13,7 +13,7 @@ I remembered that I haven't written an About page yet. This post will go there.
 
 The [Blogger profile ][1]describes me as a "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart." Let's break that down, shall we?
 
-Programmer : Since January of 2003 I've been working as a software developer for the RP office of a Hong Kong-based company. I'm no Computer Science graduate, but I did manage to fake it well enough to pass the [JITSE ][2]certification exams. I code because I find that I'm fairly good at it. This is my day job, and I'm luckier than most, because I actually _enjoy _my day job.
+Programmer : Since January of 2003 I've been working as a software developer for the RP office of a Hong Kong-based company. I'm no Computer Science graduate, but I did manage to fake it well enough to pass the [JITSE ][2]certification exams. I code because I find that I'm fairly good at it. This is my day job, and I'm luckier than most, because I actually _enjoy_ my day job.
 
 Engineer : I'm an Engineer by education, having completed a degree in Electronics and Communications Engineering from the [University][3]. I passed the ECE board exams in 2002, but have never practiced as an Engineer.
 
