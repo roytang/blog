@@ -1,6 +1,11 @@
 ---
-title: "Twenty Years As A Software Developer"
-date: 2023-01-03T19:46:20+08:00
+date: 2023-01-03 11:46:20
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109625116143583745
+- type: twitter
+  url: https://twitter.com/roytang/status/1610241744817516544/
+title: Twenty Years As A Software Developer
 ---
 
 Today is the twentieth anniversary of my first day at my first job, which means I have officially been a software developer for twenty years.
