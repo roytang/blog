@@ -15,4 +15,4 @@ title: ''
 
 Playing Citizen Sleeper https://www.twitch.tv/twitchyroy #twitch
 
-<time id="109637172197279022">[22:54]</time> <p>YT: <a href="https://www.youtube.com/watch?v=Lstg9kVXu-w" target="_blank" rel="nofollow noopener noreferrer"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=Lstg9kVXu-</span><span class="invisible">w</span></a></p>
+<time id="109637172197279022">[22:54]</time> YT: https://www.youtube.com/watch?v=Lstg9kVXu-w
