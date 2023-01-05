@@ -43,3 +43,5 @@ I found myself enjoying the game even though the when I tried it out the game di
 I powered through the last few days because frankly the game was quite distracting because whenever I had free time to do other things I want to do I'd often find myself just doing a few runs of VS instead. I completed the base game in a bit more than a week, playtime around 31 hours. (HLTB has completion average at around 37 hours, so I did fairly well.)
 
 It's hard to over-emphasize how insane the game looks in motion, so here's [a YouTube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiUDvzCuALqCEWOfTvlSGZT). And of course, my traditional screenshot dump will be attached to this post.
+
+In conclusion: There are no actual vampires in this game (because they are the survivors?) but the game itself can be considered a vampire that sucks your time away for just one more run.
