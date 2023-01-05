@@ -2,24 +2,31 @@
 date: 2023-01-05 14:55:35
 resources:
 - src: Vampire Survivors 01_01_2023 2_00_24 am.png
-  title: 'No-context Vampire Survivors screenshot'
+  title: No-context Vampire Survivors screenshot
 - src: Vampire Survivors 05_01_2023 4_13_16 am.png
-  title: 'No-context Vampire Survivors screenshot'
+  title: No-context Vampire Survivors screenshot
 - src: Vampire Survivors 30_12_2022 3_22_31 am.png
-  title: 'No-context Vampire Survivors screenshot'
+  title: No-context Vampire Survivors screenshot
 - src: Vampire Survivors 30_12_2022 3_26_10 am.png
-  title: 'No-context Vampire Survivors screenshot'
+  title: No-context Vampire Survivors screenshot
 - src: Vampire Survivors 31_12_2022 4_15_44 am.png
-  title: 'No-context Vampire Survivors screenshot'
+  title: No-context Vampire Survivors screenshot
 - src: VS_complete.png
-  title: 'Achievement complete!'
+  title: Achievement complete!
 - src: VS_milk_elemental.png
-  title: 'Some of the flavor text is hilarious though.'
+  title: Some of the flavor text is hilarious though.
 reviews:
 - description: Kind of mindlessly relaxing yet addictive, lots of achievements
   media: games
   rating: 3.5
   title: Vampire Survivors (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109637281191048272
+- type: twitter
+  url: https://twitter.com/roytang/status/1611020334337257473/
+tags:
+- games
 title: Vampire Survivors
 ---
 
