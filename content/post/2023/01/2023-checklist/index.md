@@ -46,8 +46,8 @@ These are general reminders that I think anyone would find useful
 - Complete the backups review
 - Cash out at an Arena or Eternal open
 - Participate in Ludum Dare 52 (Jan 07)
-- Participate in Ludum Dare 53 (TBA)
-- Participate in Ludum Dare 54 (TBA)
+- Participate in Ludum Dare 53 (Apr 28)
+- Participate in Ludum Dare 54 (Sep 29)
 - Travel to Singapore (Mar) - tickets are already booked, this will be my first international trip since the pandemic started!
 
 ### Entertainment
