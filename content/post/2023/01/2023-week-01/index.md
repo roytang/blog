@@ -3,11 +3,16 @@ date: 2023-01-09 14:57:25
 dontinlinephotos: true
 resources:
 - src: heaven.jpg
-  title: 'A Taste of Heaven'
+  title: A Taste of Heaven
 - src: jigsaw_1_started.jpg
   title: 'Jigsaw: How it started'
 - src: jigsaw_2_going.jpg
   title: 'Jigsaw: How it''s going'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109659967033129948
+- type: twitter
+  url: https://twitter.com/roytang/status/1612472235478114307/
 tags:
 - weeknotes
 title: 2023 Week 01
