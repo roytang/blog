@@ -1,11 +1,16 @@
 ---
-date: 2023-01-11T13:02:00+08:00
+date: 2023-01-11 05:02:00
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109668986263351294
+- type: twitter
+  url: https://twitter.com/roytang/status/1613049440335691776/
 tags:
 - gamedev
 - gamejam
 - ludumdare
 title: 'Ludum Dare 52: Untitled Shooty Game 2'
-dontinlinephotos: true
 ---
 
 ### The jam
