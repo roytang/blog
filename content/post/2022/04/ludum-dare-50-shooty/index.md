@@ -15,6 +15,7 @@ syndicated:
 tags:
 - gamedev
 - gamejam
+- ludumdare
 title: 'Ludum Dare 50: Untitled Shooty Game'
 ---
 

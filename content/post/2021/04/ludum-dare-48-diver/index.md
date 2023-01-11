@@ -10,6 +10,7 @@ syndicated:
 tags:
 - gamedev
 - gamejam
+- ludumdare
 title: 'Ludum Dare 48: Diver'
 ---
 

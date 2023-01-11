@@ -11,6 +11,7 @@ syndicated:
 tags:
 - gamedev
 - gamejam
+- ludumdare
 title: 'Ludum Dare 51: 10 Second Pizza Delivery'
 ---
 
