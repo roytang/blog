@@ -1,14 +1,20 @@
 ---
-title: "About::Contact Information"
-date: 2020-01-11
-type: page
-toc: true
 aliases:
 - /contact/
 - /about/contact/
-submenu: "about"
+date: 2020-01-11
+submenu: about
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/status/1614912728325578752/
+- type: twitter
+  url: https://twitter.com/roytang/status/1614912775020752896/
+tags:
+- triviabot
+title: About::Contact Information
+toc: true
+type: page
 ---
-
 
 ### How to contact me
 
@@ -60,3 +66,13 @@ This is a weird question to ask even if I knew you personally. Get your own blog
 - Can I ask you to write a review for a product you might find interesting?
 
 Yes. I am especially willing to write reviews for ebooks, provided it is in an area of interest and I am given a complimentary copy. Note that I don't guarantee the review will be in any way flattering. As with the rest of my writing on this site, it will be my honest opinion.
+
+<time id="1614912775020752896">[2023-01-16 17:09] </time> I probably post there more anyway: https://roytang.net/all/
+
+
+
+Like and subscribe: https://www.twitch.tv/twitchyroy, https://www.youtube.com/@roytang
+
+
+
+Triviabot: [@triviabot](https://twitter.com/triviabot/) and https://botsin.space/@triviastorm
