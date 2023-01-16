@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1609100302342553601/
 tags:
 - sketchbook
+albums:
+- sketchbook
 title: Dec 2022 Doodles
 ---
 
