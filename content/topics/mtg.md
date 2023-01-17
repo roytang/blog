@@ -14,6 +14,7 @@ I know, I know this page layout could use a lot of work.
 || Latest Standard Set | Limited | Constructed |
 |---|---|---|---|
 | **2022** |
+| **Dec** | Brothers War | [Arena limited](/tags/mtgbro) | |
 | **Sep** | Dominaria United | [Arena limited](/tags/mtgdmu) | |
 | **Jul** | Alchemy Horizons Baldur's Gate | [Arena limited](/tags/mtghbg) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiNdvKYckxA3BpKjf2CjfCi) | |
 | **Apr** | Streets of New Capenna | [Arena limited](/tags/mtgsnc) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXjh3chA9eZ0xgg3O8mwPDTj) | |
