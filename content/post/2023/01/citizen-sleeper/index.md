@@ -2,12 +2,17 @@
 date: 2023-01-19 15:48:52
 resources:
 - src: bantayan.png
-  title: 'The one screenshot I took is because it had a Tagalog reference'
+  title: The one screenshot I took is because it had a Tagalog reference
 reviews:
 - description: An excellent space cyberpunk narrative game
   media: games
   rating: 4.0
   title: Citizen Sleeper (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109716718334743335
+- type: twitter
+  url: https://twitter.com/roytang/status/1616104292779429888/
 tags:
 - games
 title: Citizen Sleeper
@@ -28,4 +33,3 @@ The story is fairly good. The game has a number of quest lines you can follow th
 I think I was able to see something like half of all the possible endings during my one run. Unfortunately, I don't think I have it in me to get the remainder, as it would require additional runs (several endings are on conflicting paths), and those additional runs would need me to replay many of the quest lines I've already done. It's good, but I have other games to play. Though maybe I'll revisit it someday.
 
 I did get to 21/27 achievements at 7.5hrs play time. HLTB says completionist runs average 10 hours, so that sounds about right.
-
