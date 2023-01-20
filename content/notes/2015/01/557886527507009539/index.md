@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/557886527507009539/
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/54bfa3ef498e6c02bab57a28
+tags:
+- quiznight
 ---
 
 I'm at CaliBurger - @caliburberph in Quezon City w/ [@ohhhace](https://twitter.com/ohhhace/) https://www.swarmapp.com/c/6LZ9PUPS5yy
