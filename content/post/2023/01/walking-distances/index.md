@@ -1,8 +1,13 @@
 ---
-title: "Walking Distances"
-date: 2023-01-22T23:54:26+08:00
+date: 2023-01-22 15:54:26
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109734041515560139
+- type: twitter
+  url: https://twitter.com/roytang/status/1617212968600731652/
 tags:
 - walking
+title: Walking Distances
 ---
 
 I walk a lot. A couple of days ago I was thinking about how I'd been a walking a lot even when I was young. Since I now have Google Maps, I can check the distances of the routes I used to walk!
