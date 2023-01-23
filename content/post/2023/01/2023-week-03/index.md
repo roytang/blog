@@ -1,9 +1,14 @@
 ---
-date: 2023-01-23T19:38:33+08:00
+date: 2023-01-23 11:38:33
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109739244530242230
+- type: twitter
+  url: https://twitter.com/roytang/status/1617545961408188418/
 tags:
 - weeknotes
-title: "2023 Week 03: Lunar New Year"
+title: '2023 Week 03: Lunar New Year'
 ---
 
 This past weekend was the Lunar New Year, [which is only for people who live in countries that have a moon](https://twitter.com/itsamia/status/1616059773132103680). Someone told me recently that the term "Chinese New Year" is outdated and kind of racist, so the preferred term nowadays is "Lunar New Year". That's fine I guess? I don't think Filipinos are likely to change their wording regarding this anyway. 
