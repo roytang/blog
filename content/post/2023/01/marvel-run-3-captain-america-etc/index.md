@@ -7,62 +7,68 @@ resources:
 - src: bullpen_bulletins2.PNG
   title: ''
 - src: cap268.PNG
-  title: 'This issue was my introduction to characters such as Hellcat and Valkyrie'
+  title: This issue was my introduction to characters such as Hellcat and Valkyrie
 - src: xterminators.PNG
-  title: "Really, the only thing to know about this series is this panel where Boom-Boom's breasts explode!"
+  title: Really, the only thing to know about this series is this panel where Boom-Boom's
+    breasts explode!
 - src: marauders27.jpg
-  title: "I am not sure if this 'cliffhanger' has turned into something yet."
+  title: I am not sure if this 'cliffhanger' has turned into something yet.
+reviews:
+- hashtag: captain-america-v2-1968-1996
+  issues: 355
+  media: comics
+  title: Captain America v2
+  year: 1968
+- hashtag: captain-america-v8-2013-2014
+  issues: 25
+  media: comics
+  title: Captain America v8
+  year: 2013
+- hashtag: captain-america-v11-2018-2021
+  issues: 25
+  media: comics
+  title: Captain America v11
+  year: 2018
+- hashtag: iron-man-v6-2020-2023
+  issues: 25
+  media: comics
+  title: Iron Man v6
+  year: 2020
+- hashtag: defenders-v6-2021-2022-and-defenders-beyond-2022-2023
+  issues: 5
+  media: comics
+  title: Defenders v6
+  year: 2021
+- hashtag: defenders-v6-2021-2022-and-defenders-beyond-2022-2023
+  issues: 5
+  media: comics
+  title: Defenders Beyond
+  year: 2022
+- hashtag: marauders-v1-2019-2022
+  issues: 27
+  media: comics
+  title: Marauders v1
+  year: 2019
+- hashtag: axe-judgment-day-2022-event
+  issues: 16
+  media: comics
+  title: A.X.E. Judgment Day
+  year: 2022
+- hashtag: x-terminators-v2-2022-2023
+  issues: 5
+  media: comics
+  title: X-Terminators v2
+  year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109756695634135476
+- type: twitter
+  url: https://twitter.com/roytang/status/1618662863056547840/
 tags:
 - comics
 - complete-marvel-run
 title: 'The Complete Marvel Run part 3: Captain America (1968) and others'
 toc: true
-reviews:
-- media: comics
-  title: Captain America v2
-  year: 1968
-  issues: 355
-  hashtag: captain-america-v2-1968-1996
-- media: comics
-  title: Captain America v8
-  year: 2013
-  issues: 25
-  hashtag: captain-america-v8-2013-2014
-- media: comics
-  title: Captain America v11
-  year: 2018
-  issues: 25
-  hashtag: captain-america-v11-2018-2021
-- media: comics
-  title: Iron Man v6
-  year: 2020
-  issues: 25
-  hashtag: iron-man-v6-2020-2023
-- media: comics
-  title: Defenders v6
-  year: 2021
-  issues: 5
-  hashtag: defenders-v6-2021-2022-and-defenders-beyond-2022-2023
-- media: comics
-  title: Defenders Beyond
-  year: 2022
-  issues: 5
-  hashtag: defenders-v6-2021-2022-and-defenders-beyond-2022-2023
-- media: comics
-  title: Marauders v1
-  year: 2019
-  issues: 27
-  hashtag: marauders-v1-2019-2022
-- media: comics
-  title: A.X.E. Judgment Day
-  year: 2022
-  issues: 16
-  hashtag: axe-judgment-day-2022-event
-- media: comics
-  title: X-Terminators v2
-  year: 2022
-  issues: 5
-  hashtag: x-terminators-v2-2022-2023
 ---
 
 ### Previously
