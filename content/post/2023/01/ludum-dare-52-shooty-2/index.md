@@ -77,6 +77,6 @@ That will have to wait until after the review period though. Same as before: Aft
 
 Will update this post when the results come out!
 
-<time id="109771294443061602">[2023-01-29 15:23] </time> <p>LD52 results are in! Looks like my entry did reasonably well, a bit better than the last 2, but I have yet to beat my very first entry!</p><p>Stats via <a href="https://nathanistace.be/gamejams/ld-stats/" target="_blank" rel="nofollow noopener noreferrer"><span class="invisible">https://</span><span class="ellipsis">nathanistace.be/gamejams/ld-st</span><span class="invisible">ats/</span></a></p>
+<time id="109771294443061602">[2023-01-29 15:23] </time> <p>LD52 results are in! Looks like my entry did reasonably well, a bit better than the last 2, but I have yet to beat my very first entry!</p><p>Stats via https://nathanistace.be/gamejams/ld-stats/</p>
 
 {{< photos 109771294443061602 >}}
