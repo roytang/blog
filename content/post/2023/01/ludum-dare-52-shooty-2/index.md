@@ -6,6 +6,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/109668986263351294
 - type: twitter
   url: https://twitter.com/roytang/status/1613049440335691776/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109771294443061602
 tags:
 - gamedev
 - gamejam
@@ -74,3 +76,7 @@ I also had to cut a lot of features I wanted to get in, basically ran out of tim
 That will have to wait until after the review period though. Same as before: After submitting your game, you're supposed to review and rate other people's games, and you want to earn at least 20 ratings to get a "final score". The first USG from LD50 finished 435th overall, so I'm hoping this one at least does better than that!
 
 Will update this post when the results come out!
+
+<time id="109771294443061602">[2023-01-29 15:23] </time> <p>LD52 results are in! Looks like my entry did reasonably well, a bit better than the last 2, but I have yet to beat my very first entry!</p><p>Stats via <a href="https://nathanistace.be/gamejams/ld-stats/" target="_blank" rel="nofollow noopener noreferrer"><span class="invisible">https://</span><span class="ellipsis">nathanistace.be/gamejams/ld-st</span><span class="invisible">ats/</span></a></p>
+
+{{< photos 109771294443061602 >}}
