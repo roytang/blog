@@ -1,9 +1,14 @@
 ---
-date: 2023-01-30T09:28:52+08:00
+date: 2023-01-30 01:28:52
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109777007043643515
+- type: twitter
+  url: https://twitter.com/roytang/status/1619962762381361153/
 tags:
 - weeknotes
-title: '2023 Week 04'
+title: 2023 Week 04
 ---
 
 Four weeks in! January is nearing it's end. Time still flies faster than I expect.
