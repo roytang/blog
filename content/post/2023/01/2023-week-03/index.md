@@ -44,7 +44,9 @@ Wrote about [Walking Distances](/2023/01/walking-distances/).
 
 I have managed to tear through my feed reader backlogs and have harvested some links for sharing:
 
-- [Matt Yglesias and the secret of blogging - by Max Read](https://maxread.substack.com/p/matt-yglesias-and-the-secret-of-blogging): > As Yglesias says, it's the best time there’s ever been to be somebody who can write something coherent quickly. Put things out. Let people yell at you. Write again the next day.
+- [Matt Yglesias and the secret of blogging - by Max Read](https://maxread.substack.com/p/matt-yglesias-and-the-secret-of-blogging): 
+
+    > As Yglesias says, it's the best time there’s ever been to be somebody who can write something coherent quickly. Put things out. Let people yell at you. Write again the next day.
 
 - [Twitter officially bans third-party clients with new developer rules - The Verge](https://www.theverge.com/2023/1/19/23562947/twitter-third-party-client-tweetbot-twitterific-ban-rules): Not only is this bait-and-switch justification idiotic, but it reinforces my view that Tweetdeck dying is an inevitability.  The only chance Tweetdeck had was that it's left alone because only power users used it, but that's true of third-party clients as well. As soon as EM finds out he actually owns a (better) alternative web client that doesn't serve ads, it's over for Tweetdeck. This annoyed me so much that [I unfollowed 95% of my Twitter follows](/2023/01/1614912728325578752/).
 
