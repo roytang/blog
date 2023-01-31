@@ -11,4 +11,4 @@ title: ''
 
 
 
-{{% youtube watch?v=tgbNymZ7vqY&feature=player_embedded %}}
+{{% youtube tgbNymZ7vqY %}}

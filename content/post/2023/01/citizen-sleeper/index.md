@@ -22,7 +22,7 @@ Citizen Sleeper is a narrative-focused RPG set in a distant cyberpunk future, se
 
 Here's me playing through the first part of the game:
 
-{{% youtube Lstg9kVXu-w&t %}}
+{{% youtube Lstg9kVXu-w %}}
 
 Gameplay consists primarily of rolling dice at the start of each day, and using those dice to perform actions. It's primarily a menu-based narrative game more than anything else. It's kind of like one of those old choose-your-old-aventure-style books that also made you track stats and roll dice.
 

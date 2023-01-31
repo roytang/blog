@@ -12,4 +12,4 @@ tags: []
 
 
 
-{{% youtube watch?v=WvUXbzxxdo0&feature=player_embedded %}}
+{{% youtube WvUXbzxxdo0 %}}
