@@ -14,6 +14,7 @@ syndicated:
 tags:
 - ps4
 - ps4share
+- games
 ---
 
 One of the earliest pc games I played. Still remembered enough to finish in a few hours (no googling lol) Easy platinum too #PS4share
