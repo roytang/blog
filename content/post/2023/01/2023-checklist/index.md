@@ -41,11 +41,11 @@ These are general reminders that I think anyone would find useful
 ### My specific goals
 
 - Site redesign. I'm a bit unhappy with the site's current layout and presentation. I was hoping I could whip up a quick redesign late last year, but alas. 
-- Migrate [the twitter triviabot](https://twitter.com/triviastorm) to Mastodon. Same as above, wanted to get this done last year, but alas. Maybe listing these "should have beens" in this list will help make things happen
+- Migrate [the twitter triviabot](https://twitter.com/triviastorm) to Mastodon. Same as above, wanted to get this done last year, but alas. Maybe listing these "should have beens" in this list will help make things happen [[DONE]](/2023/02/triviastorm-mastodon/)
 - General room cleaning
 - Complete the backups review
 - Cash out at an Arena or Eternal open
-- Participate in Ludum Dare 52 (Jan 07)
+- Participate in Ludum Dare 52 (Jan 07) [[DONE]](/2023/01/ludum-dare-52-shooty-2/)
 - Participate in Ludum Dare 53 (Apr 28)
 - Participate in Ludum Dare 54 (Sep 29)
 - Travel to Singapore (Mar) - tickets are already booked, this will be my first international trip since the pandemic started!
@@ -69,7 +69,7 @@ Older releases I want to play:
 | <!-- -->    | <!-- -->    | <!-- --> | <!-- --> |
 |-------------|-------------|----------|----------|
 | Tales of Xillia 2 | PS3 | RPG | carried over from last year's list |
-| Citizen Sleeper | PC Game Pass | RPG/Adventure | |
+| Citizen Sleeper | PC Game Pass | RPG/Adventure | [[DONE]](/2023/01/citizen-sleeper/) |
 | Ori and the Will of the Wisps | PC Game Pass | Metroidvania | |
 | Pentiment | PC Game Pass | Story-driven | |
 | Return to Monkey Island | PC Game Pass | Story-driven | |
