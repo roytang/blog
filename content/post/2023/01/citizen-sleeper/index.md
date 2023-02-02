@@ -15,6 +15,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1616104292779429888/
 tags:
 - games
+- gaming
 title: Citizen Sleeper
 ---
 
