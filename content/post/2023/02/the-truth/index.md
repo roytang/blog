@@ -4,11 +4,17 @@ resources:
 - src: 20230206_035435.jpg
   title: 'The Truth: This is the only Discworld book I have with this cover style'
 - src: 20230206_043103.jpg
-  title: "Taking this opportunity to post an updated photo of my physical Discworld collection now that I've read them all"
+  title: Taking this opportunity to post an updated photo of my physical Discworld
+    collection now that I've read them all
 reviews:
 - description: 'Discworld #25'
   media: books
   title: The Truth by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109814062997762887
+- type: twitter
+  url: https://twitter.com/roytang/status/1622334358463082497/
 tags:
 - books
 - discworld
