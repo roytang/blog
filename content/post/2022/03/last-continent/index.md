@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1503535412727656449/
 tags:
 - books
+- discworld
 title: 'Books: The Last Continent by Terry Pratchett (Discworld #22)'
 ---
 
