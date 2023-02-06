@@ -1,6 +1,11 @@
 ---
-date: 2023-02-06T13:08:14+08:00
+date: 2023-02-06 05:08:14
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109816467448090476
+- type: twitter
+  url: https://twitter.com/roytang/status/1622488262085607424/
 tags:
 - weeknotes
 title: 2023 Week 05
