@@ -2,6 +2,8 @@
 author: Roy
 categories: []
 date: 2006-02-26 01:14:08
+tags:
+- wrestling
 title: WWE Raw In Manila!
 type: post
 url: /2006/02/wwe-raw-in-manila/
