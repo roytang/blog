@@ -1,13 +1,20 @@
 ---
-date: 2023-02-11 15:04:58+08:00
+date: 2023-02-11 07:04:58
 resources:
 - src: 20230126_102224.jpg
-  title: 'So it looks like I got increased nearsightedness and the ADD for the presbyopia'
+  title: So it looks like I got increased nearsightedness and the ADD for the presbyopia
 - src: 20230209_232141.jpg
-  title: 'New glasses are thicker-rimmed than the older ones. I wanted the added protection for the lenses because the last ones had some chipping on the side. Also: I kept so many of the old eyeglasses and cases lol'
-title: Progressives
+  title: 'New glasses are thicker-rimmed than the older ones. I wanted the added protection
+    for the lenses because the last ones had some chipping on the side. Also: I kept
+    so many of the old eyeglasses and cases lol'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109845435471178549
+- type: twitter
+  url: https://twitter.com/roytang/status/1624342200795680768/
 tags:
 - eyeglasses
+title: Progressives
 ---
 
 Went in for new glasses last month and was told I needed to get progressive lenses already to correct age-related presbyopia (i.e. having trouble reading small text close up). Apparently this is common once you get past 40 years old.
