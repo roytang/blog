@@ -15,6 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154148002778912
 tags:
 - london2015
+- eyeglasses
 ---
 
 Well at least this happened on the last day and not the first
