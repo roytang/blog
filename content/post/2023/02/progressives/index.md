@@ -1,6 +1,5 @@
 ---
 date: 2023-02-11 15:04:58
-draft: true
 resources:
 - src: 20230126_102224.jpg
   title: 'So it looks like I got increased nearsightedness and the ADD for the presbyopia'
