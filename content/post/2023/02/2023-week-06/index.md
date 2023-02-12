@@ -55,6 +55,10 @@ A photo of a shirt I'm not wearing:
 
     > "These technologies were initially pitched on the back of "better user experiences", but have utterly failed to deliver on that promise outside of the high-management-maturity organisations in which they were born. Transplanted into the wider web, these new stacks have proven to be expensive duds."
 
+- (Twitter) The Grammy's awarded their first ever video game Grammy, and [the presenter flubbed the winner's pronunciation](https://twitter.com/RhodeToLove/status/1622338999598698502)
+
+- (Twitter) [The SNL Mario Kart trailer](https://twitter.com/nbcsnl/status/1622127831668097024) was pretty great.
+
 Check out the [linkblog](/links/) for more links!
 
 ### This coming week
