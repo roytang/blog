@@ -3,7 +3,12 @@ date: 2023-02-12 18:56:31
 dontinlinephotos: true
 resources:
 - src: 20230204_185001.jpg
-  title: 'A statue of Mary at the nearby Santuario at night'
+  title: A statue of Mary at the nearby Santuario at night
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109853406883351302
+- type: twitter
+  url: https://twitter.com/roytang/status/1624852358638469121/
 tags:
 - weeknotes
 title: 2023 Week 06
