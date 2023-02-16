@@ -1,5 +1,5 @@
 ---
-date: 2016-07-01 16:12:33+00:00
+date: 2016-07-01 16:12:33
 source: instagram
 syndicated:
 - type: instagram
@@ -12,6 +12,7 @@ tags:
 - geekfightph
 - quiznight
 - instagram
+- geekfight
 title: ''
 ---
 

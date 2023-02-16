@@ -15,6 +15,7 @@ tags:
 - geekfightph
 - boardgames
 - quiznight
+- geekfight
 ---
 
 No #inktober for me today because reasons, but our quiz team did win the #popquizph and #geekfightph crossover! We won some swag and also Mystic Vale! #boardgames

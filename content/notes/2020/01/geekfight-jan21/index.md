@@ -1,9 +1,10 @@
 ---
-title: "Geekfight Jan21"
 date: 2020-01-21
 location: pedrotaphouse
 tags:
 - quiznight
+- geekfight
+title: Geekfight Jan21
 ---
 
 We won this one!
