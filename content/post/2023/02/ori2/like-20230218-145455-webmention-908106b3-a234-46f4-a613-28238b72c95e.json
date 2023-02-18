@@ -1,0 +1,29 @@
+{
+  "id": "908106b3-a234-46f4-a613-28238b72c95e",
+  "name": "Nico \ud83e\udd16 \ud83d\udd25",
+  "url": "https://twitter.com/iFonny_",
+  "text": "[Nico \ud83e\udd16 \ud83d\udd25](https://twitter.com/iFonny_) [liked this](https://twitter.com/roytang/status/1626953548662718464#favorited-by-249718145)",
+  "date": "2023-02-18 14:54:55 +0000",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/255102e05b080bf909c4ab953de83dc590351b51523d1df0129aa99f4d35d23a.jpg",
+  "source_url": "https://twitter.com/roytang/status/1626953548662718464#favorited-by-249718145",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Nico \ud83e\udd16 \ud83d\udd25",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/255102e05b080bf909c4ab953de83dc590351b51523d1df0129aa99f4d35d23a.jpg",
+      "url": "https://twitter.com/iFonny_"
+    },
+    "url": "https://twitter.com/roytang/status/1626953548662718464#favorited-by-249718145",
+    "published": null,
+    "wm-received": "2023-02-18T14:54:55Z",
+    "wm-id": 1625722,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1626953548662718464/249718145",
+    "wm-target": "https://roytang.net/2023/02/ori2/",
+    "like-of": "https://roytang.net/2023/02/ori2/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
