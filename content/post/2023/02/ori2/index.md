@@ -1,10 +1,15 @@
 ---
-date: 2023-02-18 15:38:00+08:00
+date: 2023-02-18 07:38:00
 reviews:
 - description: ''
   media: games
   rating: 4.5
   title: Ori and the Will of the Wisps (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109886237776388384
+- type: twitter
+  url: https://twitter.com/roytang/status/1626953548662718464/
 tags:
 - games
 title: 'Games: Ori and the Will of the Wisps'
