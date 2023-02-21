@@ -6,6 +6,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154387631398912
 - type: twitter
   url: https://twitter.com/roytang/statuses/701376079609475072/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/701354571939991553/
 tags:
 - PiliPinasDebates2016
 ---
