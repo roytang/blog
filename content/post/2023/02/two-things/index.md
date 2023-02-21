@@ -1,9 +1,14 @@
 ---
-title: "Two Things I'd Like That Will Never Happen"
-date: 2023-02-21T09:23:40+08:00
+date: 2023-02-21 01:23:40
 subtitle: Texting before calling and marking AI-written text
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109900166705575762
+- type: twitter
+  url: https://twitter.com/roytang/status/1627844980768378880/
 tags:
 - tech-life
+title: Two Things I'd Like That Will Never Happen
 ---
 
 Some random thoughts:
@@ -21,4 +26,3 @@ This will even have the nice effect of stopping the proliferation of banks tryin
 ### Marking AI-written text
 
 This one is a bit of more nebulous idea brought about by recent trends, and also probably a bit harder to enforce given the nature of the open web and thus even less likely to be implemented, but given the emergence of AI-assisted writing, I would like it if websites were required to have a clear indicator of whether the text on a page was written with AI assistance. The indicator would need to be both human- and machine- readable, so that stuff like search engines and filters can help us easily ignore AI-written content farms. Unfortunately I think capitalism means there would be zero incentive for this sort of thing.
-
