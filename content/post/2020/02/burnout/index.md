@@ -21,7 +21,7 @@ How do I know I was burnt out? I don't believe there is any generally accepted c
 
 - exhaustion, both physical and mental. More and more often I found myself simply [tired](/2016/08/some-days-you-are-tired/) of everything.
 - frustration with all the problems at work and the projects I was assigned to, frustration that we kept running into the same issues again and again (mostly relating to scheduling and deadlines and resources), and frustration that any concerns I raised were not being addressed
-- thinking about work all the time, even on my off hours I would be mentally considered the open Jira tickets, etc
+- thinking about work all the time, even on my off hours I would be mentally considering the open Jira tickets, etc
 - a feeling of helplessness in the face of overwhelming and seemingly never-ending project issues, re:scheduling, resources, quality, and so on
 - a general feeling that that the effort I was putting in wasn't worth it or wasn't appreciated as much as I'd have liked
 - general lack of free time, and even when there was free time, lack of energy to pursue anything productive
