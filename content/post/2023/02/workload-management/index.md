@@ -1,8 +1,13 @@
 ---
-title: "Managing Your Workload"
-date: 2023-02-23T17:12:04+08:00
+date: 2023-02-23 09:12:04
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109913398396433056
+- type: twitter
+  url: https://twitter.com/roytang/status/1628691810347536384/
 tags:
 - work-advice
+title: Managing Your Workload
 ---
 
 While digging through some old work chat logs (from 2011, more than 10 years ago!), I found some interesting advice I was giving to some junior developers in our company about how to handle and prioritize the increasing workload (number of tasks) they were being given. I thought it might be worth sharing. The below are all messages from me, extracted from the chat logs, with a light touch of translation for those parts *in italics*, since like most informal discussions at offices here, a lot of it was in *Taglish*.
