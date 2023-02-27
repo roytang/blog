@@ -1,6 +1,11 @@
 ---
-date: 2023-02-27T13:24:51+08:00
+date: 2023-02-27 05:24:51
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109936561541806608
+- type: twitter
+  url: https://twitter.com/roytang/status/1630174252006801408/
 tags:
 - weeknotes
 title: 2023 Week 08
