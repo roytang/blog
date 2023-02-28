@@ -10,3 +10,4 @@ tags:
 Wasn't sure if I could stream before #MTGONE quick drafts rotated out, so I decided to do a couple offline. Only went 3 and 4, which is still a bit better than my last draft day.
 
 I won every game with that Sword, but I never got to cast Kaya.
+
