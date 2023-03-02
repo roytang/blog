@@ -14,6 +14,7 @@ tags:
 - magicarena
 - twitch
 title: ''
+dontinlinephotos: true
 ---
 
 #MTGONE Quick Drafts day 3 https://www.twitch.tv/twitchyroy
