@@ -1,5 +1,5 @@
 ---
-title: "Phyrexia All Will Be One Quick Drafts 1 and 2"
+title: "Phyrexia All Will Be One Quick Drafts 3 and 4"
 date: 2023-03-01T00:06:15+08:00
 tags:
 - mtg
