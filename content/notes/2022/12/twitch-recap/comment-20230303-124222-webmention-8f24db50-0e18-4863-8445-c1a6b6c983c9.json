@@ -1,0 +1,32 @@
+{
+  "id": "8f24db50-0e18-4863-8445-c1a6b6c983c9",
+  "name": "e1.bjkoreanav.pp.ua",
+  "url": "https://e1.bjkoreanav.pp.ua/twitch-year-in-review-2022/",
+  "text": "Mentioned by https://e1.bjkoreanav.pp.ua/twitch-year-in-review-2022/",
+  "date": "2023-03-03 12:42:22 +0000",
+  "photo": "",
+  "source_url": "https://e1.bjkoreanav.pp.ua/twitch-year-in-review-2022/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://e1.bjkoreanav.pp.ua/twitch-year-in-review-2022/",
+    "published": null,
+    "wm-received": "2023-03-03T12:42:22Z",
+    "wm-id": 1633339,
+    "wm-source": "https://e1.bjkoreanav.pp.ua/twitch-year-in-review-2022/",
+    "wm-target": "https://roytang.net/2022/12/twitch-recap/",
+    "mention-of": "https://roytang.net/2022/12/twitch-recap/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://e1.bjkoreanav.pp.ua/twitch-year-in-review-2022/"
+    }
+  }
+}
