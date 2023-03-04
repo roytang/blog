@@ -44,6 +44,9 @@ submenu: "stats"
 
 | Year | Month | Format |  | D1 W | D1 L | D1 D | D2 W | D2 L | D2 D |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 2023 | 03 | Sealed | Phyrexia All Will Be One | 1 | 3 |
+| 2023 | 03 | Sealed | Phyrexia All Will Be One | 2 | 3 |
+| 2023 | 01 | Sealed | Kaldheim | 2 | 3 |
 | 2022 | 07 | Sealed | Alchemy Horizons: Baldur's Gate | 0 | 3 |
 | 2022 | 05 | Sealed | Streets of New Capenna | 5 | 3 |
 | 2022 | 05 | Sealed | Streets of New Capenna | 6 | 3 |
