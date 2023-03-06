@@ -8,6 +8,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2006/01/users-dont-know-what-they-want.html
 tags:
 - Software Development
+- dilbert
 title: Users don't know what they want.
 type: post
 url: /2006/01/users-don39t-know-what-they-want/
