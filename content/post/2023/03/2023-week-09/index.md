@@ -3,7 +3,13 @@ date: 2023-03-06 08:58:33
 dontinlinephotos: true
 resources:
 - src: ducks.jpg
-  title: "I think we've had these ducks around the house for at least two decades now, no idea where they came from."
+  title: I think we've had these ducks around the house for at least two decades now,
+    no idea where they came from.
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/109977149256124184
+- type: twitter
+  url: https://twitter.com/roytang/status/1632771881014280193/
 tags:
 - weeknotes
 title: 2023 Week 09
