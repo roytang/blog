@@ -2,6 +2,9 @@
 checkin_id: 4f5a15bee4b09c8f90ecb5fb
 date: 2012-03-09 14:37:51
 location: 4c9a063b9c663704bed754fd
+resources:
+- src: geekfight.jpg
+  title: 'Source: Geekfight Trivia Night @ Facebook'
 source: twitter
 syndicated:
 - type: twitter
