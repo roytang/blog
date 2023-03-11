@@ -1,13 +1,19 @@
 ---
-title: "Four Thousand Weeks by Oliver Burkeman"
-date: 2023-03-11T13:13:31+08:00
+date: 2023-03-11 05:13:31
+reviews:
+- description: More of a philosophy book about accepting human limitations than it
+    is about productivity.
+  media: books
+  rating: 4.5
+  title: Four Thousand Weeks by Oliver Burkeman
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110003005703274982
+- type: twitter
+  url: https://twitter.com/roytang/status/1634426678285041664/
 tags:
 - books
-reviews:
-- media: books
-  title: "Four Thousand Weeks by Oliver Burkeman"
-  rating: 4.5
-  description: "More of a philosophy book about accepting human limitations than it is about productivity."
+title: Four Thousand Weeks by Oliver Burkeman
 ---
 
 I think I found this book via a recommendation somewhere and just dug into it assuming it would be one of those productivity / self-help books about making the most of our scarce time on this world. It turns out it's actually more of a philosophy book about accepting our all-too human limitations, emphasizing that we can't do everything we want and we can't control the future.
@@ -83,4 +89,4 @@ I enjoyed the book a lot, so many parts of it just spoke to me and I found mysel
 
 #### Afterword: Beyond Hope
 
-> The average human lifespan is absurdly, terrifyingly, insultingly short. But that isn’t a reason for unremitting despair, or for living in an anxiety-fueled panic about making the most of your limited time. It’s a cause for relief. You get to give up on something that was always impossible—the quest to become the optimized, infinitely capable, emotionally invincible, fully independent person you’re officially supposed to be. Then you get to roll up your sleeves and start work on what’s gloriously possible instead. 
+> The average human lifespan is absurdly, terrifyingly, insultingly short. But that isn’t a reason for unremitting despair, or for living in an anxiety-fueled panic about making the most of your limited time. It’s a cause for relief. You get to give up on something that was always impossible—the quest to become the optimized, infinitely capable, emotionally invincible, fully independent person you’re officially supposed to be. Then you get to roll up your sleeves and start work on what’s gloriously possible instead.
