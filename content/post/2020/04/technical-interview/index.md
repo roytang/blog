@@ -37,19 +37,19 @@ These days, what I like to do in technical interviews varies depending on the le
 
 - for fresh graduates or junior developer roles, I will generally ask 2-3 comparatively simple programming questions. Something only a bit more difficult than FizzBuzz, maybe along the lines of a fibonacci function or some array processing or such. This is especially useful if I'm doing this for a small company that doesn't have the technical screening step, or to verify the results of the technical screening step. Afterwards, I will tend to do a short Q&A, asking some questions about projects they have worked on (maybe at school), what difficulties they have encountered, how they approach a problem etc.
 - for more senior positions, I tend to skip programming questions altogether (I assume that they haven't spent 5 or so years BSing their way through programming tasks) and prefer a more detailed Q&A, usually tailored towards the expectations for the role and their specific background. Typically I will ask questions that will require the candidate to expound on technical issues such as:
-  - what was the biggest technical challenge you had to overcome? 
-  - what are the advantages of X over Y and vice versa? (For example, for senior frontend devs, you can ask for the differences between React/Angular/Vue, if they have that experience). If you require specific experience in a particular technology, the interviewer will need to have sufficient experience as well, enough to be able to ask deeper questions while being able to filter out BS
-  - for this [past project], why did you choose this tech stack instead of [more common stack]? What are the pros and cons?
-  - can you describe a time when you had to convince upper management to use a risky technical approach?
-  - what was your worst technical mistake/fuck-up? (Follow-up: what did you learn, how did you recover, etc)
-  - have you ever had a problematic junior developer working with you? How did you handle it? (Such types of questions are good for technical lead roles)
-  - have you ever had to dive into a project with an unfamiliar tech stack without time for learning? How did you cope? What were the challenges? etc.
-  - what is your preferred approach for estimation? what if you are under schedule pressure?
-  - how do you prefer to onboard a new developer to a large project?
+    - what was the biggest technical challenge you had to overcome? 
+    - what are the advantages of X over Y and vice versa? (For example, for senior frontend devs, you can ask for the differences between React/Angular/Vue, if they have that experience). If you require specific experience in a particular technology, the interviewer will need to have sufficient experience as well, enough to be able to ask deeper questions while being able to filter out BS
+    - for this [past project], why did you choose this tech stack instead of [more common stack]? What are the pros and cons?
+    - can you describe a time when you had to convince upper management to use a risky technical approach?
+    - what was your worst technical mistake/fuck-up? (Follow-up: what did you learn, how did you recover, etc)
+    - have you ever had a problematic junior developer working with you? How did you handle it? (Such types of questions are good for technical lead roles)
+    - have you ever had to dive into a project with an unfamiliar tech stack without time for learning? How did you cope? What were the challenges? etc.
+    - what is your preferred approach for estimation? what if you are under schedule pressure?
+    - how do you prefer to onboard a new developer to a large project?
 - My goal for such questions would be to look for absence of several attributes I consider important for senior developers:
-  - able to communicate technical issues well (useful both when managing upwards and downwards)
-  - able to adjust to unfamiliar situations/technologies easily 
-  - able to admit to mistakes on his part
+    - able to communicate technical issues well (useful both when managing upwards and downwards)
+    - able to adjust to unfamiliar situations/technologies easily 
+    - able to admit to mistakes on his part
 
 ### Effectiveness of Technical Interviews
 
