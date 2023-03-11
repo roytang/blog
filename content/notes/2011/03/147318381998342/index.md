@@ -5,6 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/147318381998342
+- type: plurk
+  url: https://plurk.com/p/b4ivfh
 ---
 
 Chrono Trigger main theme on guitar
