@@ -45,7 +45,7 @@ One of my favorite quotes from this book:
 > 
 > Toranaga: "Therefore, the Netherlands – your allies – are in a state of rebellion against their lawful king?"
 > 
-> Blackthorne: "They’re fighting against the Spaniard, yes, but –
+> Blackthorne: "They’re fighting against the Spaniards, yes, but –
 > 
 > Toranaga: "Isn’t that rebellion? Yes or no?"
 > 
@@ -55,7 +55,7 @@ One of my favorite quotes from this book:
 > 
 > Blackthorne: "Unless you win."
 > 
-> Toranaga looked at him intently. Then laughed uproariously. "Yes, Mister Foreigner…you have named _the one&nbsp;_mitigating factor."
+> Toranaga looked at him intently. Then laughed uproariously. "Yes, Mister Foreigner…you have named _the one_ mitigating factor."
 
 I later ended up reading the rest of [Clavell's Asian Saga][2] throughout the years (in fact, I believe I still have most of them on my bookshelf), but none of them stuck with me as much as _Shogun_. And I just found out there's gonna be a [TV adaptation soon][3]! Hope it's good, looking forward to that one. (I know there was an older TV adaptation before starring Richard Chamberlain and Toshiro Mifune, but I'm too lazy to go look for a copy of that.)
 
