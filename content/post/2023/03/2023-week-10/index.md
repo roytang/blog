@@ -1,6 +1,11 @@
 ---
-date: 2023-03-13T16:44:58+08:00
+date: 2023-03-13 08:44:58
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110015971854716297
+- type: twitter
+  url: https://twitter.com/roytang/status/1635256512296923136/
 tags:
 - weeknotes
 title: 2023 Week 10
@@ -47,4 +52,3 @@ Check out the [linkblog](/links/) for more links!
 ### This coming week
 
 Nothing specific of note, though at some point I should probably start prepping for a trip I'm taking the week after.
-
