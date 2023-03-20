@@ -1,6 +1,11 @@
 ---
-date: 2023-03-20T08:13:41+08:00
+date: 2023-03-20 00:13:41
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110054263116258068
+- type: twitter
+  url: https://twitter.com/roytang/status/1637707152805752832/
 tags:
 - weeknotes
 title: 2023 Week 11
