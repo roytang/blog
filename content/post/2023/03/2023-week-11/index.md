@@ -29,7 +29,7 @@ Some relatives are visiting from abroad and they haven't been here in a while, s
 
 - **Reading**: Have not yet started reading any new book, mostly comics.
 
-- **Watching**: S7 of *The Blacklist* still in progress. Also watched a couple of movies: [My Cousin Vinny (1992)](/2023/03/my-cousin-vinny-1992/) and [Shazam: Fury of the Gods (2023)](/2023/03/shazam-fury-of-the-gods-2023/) in the cinema.
+- **Watching**: Currently into S8 of *The Blacklist*, about halfway through. Also watched a couple of movies: [My Cousin Vinny (1992)](/2023/03/my-cousin-vinny-1992/) and [Shazam: Fury of the Gods (2023)](/2023/03/shazam-fury-of-the-gods-2023/) in the cinema.
 
 ### Walking
 
