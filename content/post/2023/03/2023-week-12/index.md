@@ -1,6 +1,11 @@
 ---
-date: 2023-03-28T20:38:04+08:00
+date: 2023-03-28 12:38:04
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110101459397962033
+- type: twitter
+  url: https://twitter.com/roytang/status/1640727714545147905/
 tags:
 - weeknotes
 title: 2023 Week 12
@@ -50,4 +55,4 @@ Wrestlemania is this weekend as well!
 
 We have a quiz night on Thursday!
 
-Also, now I have a long backlog of feed reader items to get through! 
+Also, now I have a long backlog of feed reader items to get through!
