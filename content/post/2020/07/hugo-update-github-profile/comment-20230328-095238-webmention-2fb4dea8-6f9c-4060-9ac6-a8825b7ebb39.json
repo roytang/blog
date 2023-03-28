@@ -1,0 +1,29 @@
+{
+  "id": "2fb4dea8-6f9c-4060-9ac6-a8825b7ebb39",
+  "name": "it-labx.ru",
+  "url": "https://it-labx.ru/?p=569827",
+  "text": "Mentioned by https://it-labx.ru/?p=569827",
+  "date": "2023-03-28 09:52:38 +0000",
+  "photo": "",
+  "source_url": "https://it-labx.ru/?p=569827",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://it-labx.ru/?p=569827",
+    "published": null,
+    "wm-received": "2023-03-28T09:52:38Z",
+    "wm-id": 1652606,
+    "wm-source": "https://it-labx.ru/?p=569827",
+    "wm-target": "https://roytang.net/2020/07/hugo-update-github-profile/",
+    "mention-of": "https://roytang.net/2020/07/hugo-update-github-profile/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
