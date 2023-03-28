@@ -3,11 +3,11 @@
   "name": "it-labx.ru",
   "url": "https://it-labx.ru/?p=569827",
   "text": "Mentioned by https://it-labx.ru/?p=569827",
-  "date": "2023-03-28 09:52:38 +0000",
-  "photo": "",
+  "date": "2023-03-28 17:52:38 +0800",
+  "photo": null,
   "source_url": "https://it-labx.ru/?p=569827",
   "source": "webmention",
-  "spam": false,
+  "spam": true,
   "source_obj": {
     "type": "entry",
     "author": {
