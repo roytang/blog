@@ -1,13 +1,18 @@
 ---
 date: 2023-03-31 08:15:16
+dontinlinephotos: true
 resources:
 - src: 20230326_184848.jpg
-  title: 'I just like taking a picture anytime I see my last name okay?'
+  title: I just like taking a picture anytime I see my last name okay?
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110117030942768487
+- type: twitter
+  url: https://twitter.com/roytang/status/1641724297956974592/
 tags:
 - travels
 - singapore
 - sg2023
-dontinlinephotos: true
 title: Four Days in Singapore
 ---
 
