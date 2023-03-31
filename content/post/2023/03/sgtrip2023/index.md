@@ -1,6 +1,5 @@
 ---
 date: 2023-03-31 08:15:16
-draft: true
 resources:
 - src: 20230326_184848.jpg
   title: 'I just like taking a picture anytime I see my last name okay?'
