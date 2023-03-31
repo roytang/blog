@@ -8,7 +8,9 @@ syndicated:
   url: https://twitter.com/roytang/status/1640972057273069569/
 tags:
 - sketchbook
+- sg2023
 title: Airport Sketches
+location: 5bc1c92d356b490039205a7e
 ---
 
 Travelling by air again means an inordinate amount of time waiting at airports, so I passed the time with some sketching/doodling. I didn't have an actual sketchbook handy, so a ruled notebook had to do.
