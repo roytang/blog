@@ -1,0 +1,29 @@
+{
+  "id": "027bcb37-2bca-4083-b5db-32487b7f0c30",
+  "name": "moginza.com",
+  "url": "https://moginza.com/the-downside-risk-of-hookupsnear-me-that-no-one-is-talking-about/",
+  "text": "Mentioned by https://moginza.com/the-downside-risk-of-hookupsnear-me-that-no-one-is-talking-about/",
+  "date": "2023-04-01 03:11:43 +0000",
+  "photo": "",
+  "source_url": "https://moginza.com/the-downside-risk-of-hookupsnear-me-that-no-one-is-talking-about/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://moginza.com/the-downside-risk-of-hookupsnear-me-that-no-one-is-talking-about/",
+    "published": null,
+    "wm-received": "2023-04-01T03:11:43Z",
+    "wm-id": 1655949,
+    "wm-source": "https://moginza.com/the-downside-risk-of-hookupsnear-me-that-no-one-is-talking-about/",
+    "wm-target": "https://roytang.net/2008/04/pasmado/",
+    "mention-of": "https://roytang.net/2008/04/pasmado/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
