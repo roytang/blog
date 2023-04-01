@@ -1,8 +1,13 @@
 ---
-title: "Webmention Spam"
-date: 2023-04-01T16:40:20+08:00
+date: 2023-04-01 08:40:20
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110122678121986738
+- type: twitter
+  url: https://twitter.com/roytang/status/1642085711900983296/
 tags:
 - blogging
+title: Webmention Spam
 ---
 
 IDK why, but for the past few weeks I've gotten more and more spammy mentions coming in via webmention.io. (Possibly a sign of my blog becoming more popular? Lol)
