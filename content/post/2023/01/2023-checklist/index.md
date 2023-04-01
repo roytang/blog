@@ -48,7 +48,7 @@ These are general reminders that I think anyone would find useful
 - Participate in Ludum Dare 52 (Jan 07) [[DONE]](/2023/01/ludum-dare-52-shooty-2/)
 - Participate in Ludum Dare 53 (Apr 28)
 - Participate in Ludum Dare 54 (Sep 29)
-- Travel to Singapore (Mar) - tickets are already booked, this will be my first international trip since the pandemic started!
+- Travel to Singapore (Mar) - tickets are already booked, this will be my first international trip since the pandemic started! [[DONE]](/2023/03/sgtrip2023/)
 
 ### Entertainment
 
@@ -70,7 +70,7 @@ Older releases I want to play:
 |-------------|-------------|----------|----------|
 | Tales of Xillia 2 | PS3 | RPG | carried over from last year's list |
 | Citizen Sleeper | PC Game Pass | RPG/Adventure | [[DONE]](/2023/01/citizen-sleeper/) |
-| Ori and the Will of the Wisps | PC Game Pass | Metroidvania | |
+| Ori and the Will of the Wisps | PC Game Pass | Metroidvania | [[DONE]](/2023/02/ori2/) |
 | Pentiment | PC Game Pass | Story-driven | |
 | Return to Monkey Island | PC Game Pass | Story-driven | |
 | Crusader Kings III | Steam | Grand strategy | |
@@ -98,9 +98,9 @@ From last year's list of 20 items, I watched 11, have not yet seen 4, 4 got post
 
 | <!-- -->    | <!-- -->    | <!-- --> |
 |-------------|-------------|----------|
-| Feb 17 | Ant-Man and the Wasp: Quantumania | |
-| Mar 17 | Shazam! Fury of the Gods | |
-| Mar 24 | John Wick Chapter 4 | |
+| Feb 17 | Ant-Man and the Wasp: Quantumania | [[DONE]](/2023/02/ant-man-and-the-wasp-quantumania-2023/) |
+| Mar 17 | Shazam! Fury of the Gods | [[DONE]](/2023/03/shazam-fury-of-the-gods-2023/) |
+| Mar 24 | John Wick Chapter 4 | [[DONE]](/2023/03/john-wick-chapter-4-2023/) |
 | Mar 31 | Dungeons & Dragons: Honor Among Thieves | |
 | Apr 07 | The Super Mario Bros. Movie |
 | May 05 | Guardians of the Galaxy vol 3 | |
