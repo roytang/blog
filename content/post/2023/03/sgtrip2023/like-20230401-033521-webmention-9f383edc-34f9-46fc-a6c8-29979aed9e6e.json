@@ -1,0 +1,29 @@
+{
+  "id": "9f383edc-34f9-46fc-a6c8-29979aed9e6e",
+  "name": "Lily",
+  "url": "https://twitter.com/myhat81",
+  "text": "[Lily](https://twitter.com/myhat81) [liked this](https://twitter.com/roytang/status/1641724297956974592#favorited-by-2809075632)",
+  "date": "2023-04-01 03:35:21 +0000",
+  "photo": "https://webmention.io/avatar/pbs.twimg.com/59ea7a7b7ab1a8a6ca5bfbedb981a4807489c81b29c9c6c26cb5afaa97ca7545.jpg",
+  "source_url": "https://twitter.com/roytang/status/1641724297956974592#favorited-by-2809075632",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Lily",
+      "photo": "https://webmention.io/avatar/pbs.twimg.com/59ea7a7b7ab1a8a6ca5bfbedb981a4807489c81b29c9c6c26cb5afaa97ca7545.jpg",
+      "url": "https://twitter.com/myhat81"
+    },
+    "url": "https://twitter.com/roytang/status/1641724297956974592#favorited-by-2809075632",
+    "published": null,
+    "wm-received": "2023-04-01T03:35:21Z",
+    "wm-id": 1655960,
+    "wm-source": "https://brid.gy/like/twitter/roytang/1641724297956974592/2809075632",
+    "wm-target": "https://roytang.net/2023/03/sgtrip2023/",
+    "like-of": "https://roytang.net/2023/03/sgtrip2023/",
+    "wm-property": "like-of",
+    "wm-private": false
+  }
+}
