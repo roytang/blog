@@ -12,4 +12,4 @@ tags:
 
  (@Artscience Museum 10 Bayfront Av)
 
- FutureWorld: Where Art Meets Science
+ We attended the FutureWorld: Where Art Meets Science show. It was pretty neat, lots of pretty interactive light displays. There was a thing that was like a lot of single-tile suspension bridges strung together (I dared not attempt it!). Fun activities for kids as well.
