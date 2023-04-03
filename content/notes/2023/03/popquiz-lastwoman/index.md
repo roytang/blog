@@ -10,7 +10,7 @@ tags:
 title: 'Popquiz: Last Woman Standing'
 ---
 
-Last week we attended the first PopQuiz for the year. And CRUSHED IT!
+Last night we attended the first PopQuiz for the year. And CRUSHED IT!
 
 Rounds were:
 
