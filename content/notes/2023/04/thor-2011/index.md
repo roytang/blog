@@ -7,12 +7,14 @@ reviews:
   rating: '3.5'
   title: Thor
   year: '2011'
+  description: Rewatch
 source: letterboxd
 syndicated:
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/thor/
 tags:
 - movies
+- mcu
 title: 'Movies: Thor (2011)'
 ---
 
