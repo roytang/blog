@@ -67,7 +67,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Jan 2023 | 236 | 809 | 642 | 1451 | 0.5575 |
+| ALL | Apr 2023 | 254 | 878 | 694 | 1572 | 0.5585 |
+| [Phyrexia All Will Be One](/2023/04/mtgone-limited-recap/) | Apr 2023| 18 | 69 | 52 | 121 | 0.5702 |
 | [Brothers War](/2023/01/mtgbro-limited-recap/) | Jan 2023| 18 | 59 | 51 | 110 | 0.5364 |
 | [Dominaria United](/2022/12/mtgdmu-limited-recap/) | Dec 2022 | 20 | 67 | 50 | 117 | 0.5726 |
 | [Alchemy Horizons: Baldur's Gate](/2022/09/mtghbg-limited-recap/) | Sep 2022 | 11 | 34 | 28 | 62 | 0.5484 |

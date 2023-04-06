@@ -14,7 +14,7 @@ tags:
 title: My Brothers War Limited Recap
 ---
 
-New set is coming up in a couple of weeks, I figured I should do the **Brothers War** limited recap already to get it out of the way. It isn't even two months since I published [the Dominaria United one](https://roytang.net/2022/12/mtgdmu-limited-recap/)!
+New set is coming up in a couple of weeks, I figured I should do the **Brothers War** limited recap already to get it out of the way. It isn't even two months since I published [the Dominaria United one](/2022/12/mtgdmu-limited-recap/)!
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
