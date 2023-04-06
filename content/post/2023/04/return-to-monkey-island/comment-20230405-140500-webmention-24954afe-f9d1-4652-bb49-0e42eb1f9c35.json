@@ -1,0 +1,37 @@
+{
+  "id": "24954afe-f9d1-4652-bb49-0e42eb1f9c35",
+  "name": "Wouter Groeneveld",
+  "url": "https://brainbaking.com/",
+  "text": "<p>Thanks for sharing your thoughts! I\u2019m also a MI nut, the series left a big impression on me as a teenager. The Special Editions that came out in the 2010s did already come with full voice acting, there\u2019s a patch that extracts those sound files to use them in the original DOS VGA ones if you\u2019re in that kind of thing (which of course I am).</p>",
+  "date": "2023-04-05 14:05:00 +0000",
+  "photo": "https://webmention.io/avatar/brainbaking.com/4966f3a2a3d4594117a1a709c48bc3d9dc079f6fe32ae92e91acecde0127a5ec.jpg",
+  "source_url": "https://brainbaking.com/notes/2023/04/05h14m05s26/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/brainbaking.com/4966f3a2a3d4594117a1a709c48bc3d9dc079f6fe32ae92e91acecde0127a5ec.jpg",
+      "url": "https://brainbaking.com/"
+    },
+    "url": "https://brainbaking.com/notes/2023/04/05h14m05s26/",
+    "published": "2023-04-05T14:05:00",
+    "wm-received": "2023-04-05T13:00:23Z",
+    "wm-id": 1658435,
+    "wm-source": "https://brainbaking.com/notes/2023/04/05h14m05s26/",
+    "wm-target": "https://roytang.net/2023/04/return-to-monkey-island/",
+    "name": "Half-Baked Thought",
+    "content": {
+      "html": "<p>Thanks for sharing your thoughts! I\u2019m also a MI nut, the series left a big impression on me as a teenager. The Special Editions that came out in the 2010s did already come with full voice acting, there\u2019s a patch that extracts those sound files to use them in the original DOS VGA ones if you\u2019re in that kind of thing (which of course I am).</p>",
+      "text": "Thanks for sharing your thoughts! I\u2019m also a MI nut, the series left a big impression on me as a teenager. The Special Editions that came out in the 2010s did already come with full voice acting, there\u2019s a patch that extracts those sound files to use them in the original DOS VGA ones if you\u2019re in that kind of thing (which of course I am)."
+    },
+    "in-reply-to": "https://roytang.net/2023/04/return-to-monkey-island/",
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://brainbaking.com/notes/2023/04/05h14m05s26/"
+    }
+  }
+}

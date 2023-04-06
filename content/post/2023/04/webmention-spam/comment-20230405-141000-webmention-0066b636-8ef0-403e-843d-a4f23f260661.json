@@ -1,0 +1,37 @@
+{
+  "id": "0066b636-8ef0-403e-843d-a4f23f260661",
+  "name": "Wouter Groeneveld",
+  "url": "https://brainbaking.com/",
+  "text": "<p>Same thing here. I also reverted to block-by-default unless it\u2019s in the allowed list. Perhaps it would be a good idea to share our domain block list somehow just like the Pi-Hole rules? Things like <a href=\"https://github.com/justdomains/blocklists\">https://github.com/justdomains/blocklists</a> exist that I could integrate with my Webmention server but I can\u2019t find any domain in those lists that I blocked (also no matches on <a href=\"https://www.spam.org/\">https://www.spam.org/</a>) so not sure if it\u2019s worth the effort\u2026</p>",
+  "date": "2023-04-05 14:10:00 +0000",
+  "photo": "https://webmention.io/avatar/brainbaking.com/4966f3a2a3d4594117a1a709c48bc3d9dc079f6fe32ae92e91acecde0127a5ec.jpg",
+  "source_url": "https://brainbaking.com/notes/2023/04/05h14m10s09/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Wouter Groeneveld",
+      "photo": "https://webmention.io/avatar/brainbaking.com/4966f3a2a3d4594117a1a709c48bc3d9dc079f6fe32ae92e91acecde0127a5ec.jpg",
+      "url": "https://brainbaking.com/"
+    },
+    "url": "https://brainbaking.com/notes/2023/04/05h14m10s09/",
+    "published": "2023-04-05T14:10:00",
+    "wm-received": "2023-04-05T13:00:23Z",
+    "wm-id": 1658434,
+    "wm-source": "https://brainbaking.com/notes/2023/04/05h14m10s09/",
+    "wm-target": "https://roytang.net/2023/04/webmention-spam/",
+    "name": "Half-Baked Thought",
+    "content": {
+      "html": "<p>Same thing here. I also reverted to block-by-default unless it\u2019s in the allowed list. Perhaps it would be a good idea to share our domain block list somehow just like the Pi-Hole rules? Things like <a href=\"https://github.com/justdomains/blocklists\">https://github.com/justdomains/blocklists</a> exist that I could integrate with my Webmention server but I can\u2019t find any domain in those lists that I blocked (also no matches on <a href=\"https://www.spam.org/\">https://www.spam.org/</a>) so not sure if it\u2019s worth the effort\u2026</p>",
+      "text": "Same thing here. I also reverted to block-by-default unless it\u2019s in the allowed list. Perhaps it would be a good idea to share our domain block list somehow just like the Pi-Hole rules? Things like https://github.com/justdomains/blocklists exist that I could integrate with my Webmention server but I can\u2019t find any domain in those lists that I blocked (also no matches on https://www.spam.org/) so not sure if it\u2019s worth the effort\u2026"
+    },
+    "in-reply-to": "https://roytang.net/2023/04/webmention-spam/",
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://brainbaking.com/notes/2023/04/05h14m10s09/"
+    }
+  }
+}

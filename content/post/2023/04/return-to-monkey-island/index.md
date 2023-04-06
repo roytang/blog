@@ -1,10 +1,15 @@
 ---
-date: 2023-04-05T12:39:31+08:00
+date: 2023-04-05 04:39:31
 reviews:
 - description: ''
   media: games
   rating: 3.5
   title: Return to Monkey Island (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110144517301483969
+- type: twitter
+  url: https://twitter.com/roytang/status/1643483436680892416/
 tags:
 - games
 title: 'Games: Return to Monkey Island'
