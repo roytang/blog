@@ -1,5 +1,10 @@
 ---
-date: 2023-04-06T13:01:52+08:00
+date: 2023-04-06 05:01:52
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110150261089845495
+- type: twitter
+  url: https://twitter.com/roytang/status/1643851021888917504/
 tags:
 - mtg
 - mtgone
