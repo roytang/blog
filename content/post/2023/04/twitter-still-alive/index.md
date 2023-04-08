@@ -1,9 +1,14 @@
 ---
-title: "Twitter Still Alive"
-date: 2023-04-08T14:26:40+08:00
+date: 2023-04-08 06:26:40
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110161910588903684
+- type: twitter
+  url: https://twitter.com/roytang/status/1644596589959450624/
 tags:
 - tech-life
 - twitter
+title: Twitter Still Alive
 ---
 
 Somehow in spite of EM's best efforts, Twitter is still alive, barely hobbling forward, a shell of it's former self. And for some reason I'm still there, waiting to see what's gonna happen. My automated cross-post mechanisms are still working, as is my [Twitter triviabot](https://twitter.com/triviastorm/), most probably because I had upgraded them to use the newer Twitter API a while back before all this madness. 
