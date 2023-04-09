@@ -32,3 +32,7 @@ The game's story takes off from the the second game's fairly controversial endin
 There is an in-game set of trivia cards, covering the series entire history. Normally I would love this sort of thing, but collecting and answering all of them is such a chore (they drop randomly and you need to answer for completion!) and honestly the only reason I did not manage to go for completion in this game. I played the game for 16 hours and only found and answered 34 trivia cards, I did not have the patience to try to spawn the rest of them for completion. It's not like I can answer most of them anyway. HLTB says average completion time for this game is 17hrs, but I think it would have taken me and additional 3-4 hours to collect the remaining trivia cards I need. This implies I already spent too much time being stuck in the game proper, which is 100% true.
 
 Overall, I did enjoy playing through the game and seeing many of the characters return and be fully voiced this time (Stan's voice is great!) and Guybrush and Elaine are such a cute couple, so maybe that makes it all worth while.
+
+Edit: I forgot that I have a video of me playing through the start of the game:
+
+{{% youtube Gplwqs-NH-0 %}}

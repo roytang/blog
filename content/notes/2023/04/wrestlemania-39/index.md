@@ -17,6 +17,7 @@ I liked the following matches from best to worst:
 - Charlotte Flair vs Rhea Ripley
 - Owens/Zayn vs Usos
 - Roman Reigns vs Cody Rhodes
+- Edge vs Finn Balor
 - Gunther vs McIntyre vs Sheamus
 - Seth Rollins vs Logan Paul
 
