@@ -72,7 +72,7 @@ Older releases I want to play:
 | Citizen Sleeper | PC Game Pass | RPG/Adventure | [[DONE]](/2023/01/citizen-sleeper/) |
 | Ori and the Will of the Wisps | PC Game Pass | Metroidvania | [[DONE]](/2023/02/ori2/) |
 | Pentiment | PC Game Pass | Story-driven | |
-| Return to Monkey Island | PC Game Pass | Story-driven | |
+| Return to Monkey Island | PC Game Pass | Story-driven | [[DONE]](/2023/04/return-to-monkey-island/) |
 | Crusader Kings III | Steam | Grand strategy | |
 | The Witcher 3: GOTY | Steam | RPG | |
 | Wasteland 3 | Steam | RPG | |
