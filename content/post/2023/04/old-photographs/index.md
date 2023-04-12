@@ -1,6 +1,5 @@
 ---
 date: 2023-04-12 05:32:03
-draft: true
 resources:
 - src: 19861028-first-communion_0007.jpg
   title: '1986: My dad bought me the latest issue of my favorite 1980s comics - Transformers'
@@ -29,7 +28,7 @@ Most of the later albums hold the photos in sleeves, making them easy to remove 
 
 I am also attempting to tag/organize the photos as I scan them, by adding info in the filenames. The most important ones are dates/years, though I also tag obvious events (birthdays, graduations, etc). This means there is some level of detective work involved in trying to deduce when a set of photos were taken. Birthday parties are easy due to the candles on the cake (at least when we were younger), for other sets I'm often reduced to looking for context clues in the background or who is present in the photos etc. Asking my parents directly is often a dead end, as they have trouble remembering exactly when a lot of the gatherings took place.
 
-I am still not sure how to make these scanned photos available to the family at large when the effort is done. Currently I am just storing them in OneDrive, and sharing them via a Plex shared library that lets me show them on the TV downstairs. Ideally I would have a place to share them with extended family members from all over the world. I would like something that is taggable, searchable and filterable and privacy respecting (not Facebook for obvious reasons). At the same time it must be easy to use enough for my parents and other older relatives to browse and possibly share the contents to other platforms, preferably without needing to create new accounts of any sort. It's something I will have to figure out later on - and I suspect I will be very tempted to just write some kind of software myself!
+I am still not sure how to make these scanned photos available to the family at large when the effort is done. Currently I am just storing them in OneDrive, and sharing them via a Plex shared library that lets me show them on the TV downstairs. Ideally I would have a place to share them with extended family members from all over the world. I would like something that is taggable, searchable and filterable and privacy respecting (not Facebook for obvious reasons). At the same time it must be easy to use enough for my parents and other older relatives to browse and possibly share the contents to other platforms, preferably without needing to create new accounts of any sort. It's something I will have to figure out later - and I suspect I will be very tempted to just write some kind of software myself!
 
 ### Musings
 
@@ -37,10 +36,10 @@ Going through older photographs is interesting because compared to our modern er
 
 The process of going through and reviewing the old photos has already made for some interesting family discussions:
 
-- we discovered our current refrigerator is over 20 years old (!!). We found it in pictures from our old house, before we moved to the current one in 2001
-- we were debating with our mom about the layout of our old house, because each of us seemed to remember it just a bit differently. My mom didn't even remember that I had a separate room before we moved!
-- a debate over who were my brothers' actual godparents (because the photo of the ceremony belied my mom's memory) led to my mom telling me about where she had stored a cache of important documents - certainly something good for me to know in case I needed to handle some matters for them down the line! (Those documents are also good candidates for scanning)
-- a lot of trying to remember names and places that were important to us in the olden days
+- we discovered our current refrigerator is over 20 years old (!!). We found it in pictures from our old house, before we moved to the current one in 2001.
+- we were debating with our mom about the layout of our old house, because each of us seemed to remember it just a bit differently. My mom didn't even remember that my brother and I had a separate room before we moved!
+- a debate over who were the actual godparents for one of my brothers (because the photo of the ceremony belied my mom's memory) led to my mom telling me about where she had stored a cache of important documents - certainly something good for me to know in case I needed to handle some matters for them down the line! (Those documents are also good candidates for scanning!)
+- a lot of trying to remember names and places that were important to us in the olden days.
 
 This whole thing is for me largely an archiving and backup project - a redundancy so that these memories are preserved digitally somewhere in case of some kind of physical disaster affecting the actual photos. We are in an age where taking physical photos is very rarely done, and as time goes on, it is highly likely that many of the physical photos taken during the past decades will be lost in one way or another, so archiving is important. I often wonder what would happen to all these photo albums when my current generation passes. We could pass them to the next generation for keeping, but many of these older memories will be foreign to them and of little value so they are more likely to be disregarded and lost with each passing generation. I am hoping that by finding a way to archive them digitally, I will somehow extend the lifespan of those memories a bit.
 
