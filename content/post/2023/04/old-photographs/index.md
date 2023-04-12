@@ -6,9 +6,15 @@ resources:
 - src: 198708-roy-bday_0009.jpg
   title: '1987: Apparently I enjoyed puzzle magazines even back then'
 - src: 1994-misc.jpg
-  title: '1994: My brother and I with what I believe was our very first home computer. It was a 386.'
+  title: '1994: My brother and I with what I believe was our very first home computer.
+    It was a 386.'
 - src: 19950403-roy-pisay-graduation_0005.jpg
   title: '1995: Graduating from high school'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110184447423141496
+- type: twitter
+  url: https://twitter.com/roytang/status/1646038955757010944/
 tags:
 - archiving
 title: Old Photographs
