@@ -21,27 +21,27 @@ _Previously: [Overview][1] | [Barcelona Part 1][2] | [Barcelona Part 2][3] |
 
 This was our last day in Rome and we were planning to visit the Colosseum and the nearby Palatino Hill. It was a long walk and we passed by a few palaces and the usual open plazas, many of the landmarks identified by Egpytian obelisks placed there by the Roman emperors. Rome is chock-full of cobblestone roads and plazas lined with souvenir shops and pizzerias and buildings fronted by 12-foot-high steel doors with large lion-head knockers and churches liberally sprinkled every other block. One of the churches we passed through was the Santa Maria in Cosmedin church which featured the Bocca del Verita/Mouth of Truth, made famous by the 1953 film Roman Holiday. There's a short queue outside the church for tourists wanting to take a picture at the Mouth of Truth.
 
-{{< photo "2015/04/europe-trip/" "mouthoftruth" >}}
+{{< photo "2015/05/europe-trip/" "mouthoftruth" >}}
 
 The church itself wasn't too large -- it was only a minor basilica, but there was a display of the relics of St. Valentine.
 
 We also passed by a large elliptical open field on the way to the Colosseum, which we found out later to be the site of the Circus Maximus. It used to be the site of ancient Roman chariot races. For some reason, I decided to pick up a rock from the field and take it back home as a souvenir (hopefully not illegal LOL)
 
-{{< photo "2015/04/europe-trip/" "circus-maximus" >}}
+{{< photo "2015/05/europe-trip/" "circus-maximus" >}}
 
 After that we arrived at the Colosseum itself. Outside the Colosseum were the usual merchants selling various souvenirs including replica Roman soldier helmets and swords. I asked the merchant how much one of them was an he jokingly told me it was one million euro. There were some people offering guided tours, but we decided to go our own this time. The ticket price was 16 euro for a combination ticket that gave us access to the Colosseum and the nearby Palatino Hill and Roman forum.
 
-{{< photo "2015/04/europe-trip/" "colo-outside" >}}
+{{< photo "2015/05/europe-trip/" "colo-outside" >}}
 
 The Colosseum had a few exhibits inside showing artifacts recovered from the site that gave insights as to how the ancient Romans enjoyed the games, including graffiti from the stone seats depicting Roman gladiators and pots and pans indicating the audience cooked meals while watching.
 
-{{< photo "2015/04/europe-trip/" "colo-inside" >}}
+{{< photo "2015/05/europe-trip/" "colo-inside" >}}
 
 The Colosseum has three levels and a basement level, although our ticket did not allow us access to the basement. It was thankfully a rather warm day although still a bit windy, as we spent some time going around the first and second levels. I had to resist the urge to shout "ARE YOU NOT ENTERTAINED?!?"
 
 Just across the street from the Colosseum and up an inclined road was the entrance to the Palatine Hill and Roman Forum. We head up the elevated area first to go around the gardens and building ruins of the former palace. We were already a bit tired by this point and climbing up the hill was exhausting but it did afford us a good elevated view of the Colosseum and the nearby sights.
 
-{{< photo "2015/04/europe-trip/" "palatino" >}}
+{{< photo "2015/05/europe-trip/" "palatino" >}}
 
 We wasted some time trying to figure out the correct path to climb down the hill (we totally weren't lost!) At the base of the hill we visited the ruins of the Roman Forum (disappointingly, it was just a bunch of stones) and we also visited a couple of temples before deciding that we were too tired to look at everything. Tapped out, we tried to figure out where the exit was.
 
@@ -63,7 +63,7 @@ From there we made our way to the Champs-Elysees. I wasn't sure what I expected
 
 From there we walked a bit south until we were at the Seine near the Pont Alexandre, a well-decorated bridge which gave us a good view of the Eiffel Tower in the distance. The bridge was surrounded by pillars on each end with ornate gold statues atop them. Apparently this bridge is a popular location for prenup pics; we counted no less than 6 couples in tuxedos and wedding gowns having their pictures taken on or near the bridge.
 
-{{< photo "2015/04/europe-trip/" "pont_alexander" >}}
+{{< photo "2015/05/europe-trip/" "pont_alexander" >}}
 
 {{< photo "2015/04/europe-trip/" "golden_statue" >}}
 

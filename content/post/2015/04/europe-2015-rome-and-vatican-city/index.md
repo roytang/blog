@@ -33,7 +33,7 @@ She directed us to a small restaurant at a corner a few blocks from the hotel, t
 
 While waiting for the meals to be served we pored over the maps to plan out our Rome trip. We only had 3 days in Rome, so we allocated today for walking around a bit and seeing nearby things, then the next day we would visit the Vatican, and on the third day the Colosseum.
 
-{{< photo "2015/04/europe-trip/" "carbonara" >}}
+{{< photo "2015/05/europe-trip/" "carbonara" >}}
 
 The carbonara was very good and very cheesy; the sauce was egg-based without cream (as opposed to the cream-based ones I'm used to) and luckily no mushrooms (I dislike mushrooms). I also had a few bites of my friends' cacio e pepe and it was a strange combination of tastes but also very good.
 
@@ -55,7 +55,7 @@ As we approached the Vatican, a blonde lady started walking with us and offeri
 
 We reached the border to Vatican City and stood there for a while contemplating how to proceed, and we were approached by another person selling tour packages. This time it was a man of South Asian descent who reminded me of Community's Abed. He got our attention by calling out in Tagalog "pinakamura dito!"
 
-{{< photo "2015/04/europe-trip/" "vatican_city" >}}
+{{< photo "2015/05/europe-trip/" "vatican_city" >}}
 
 The tour package he offered us was similar to what the blonde lady had, except he was was offering us a price of 36 euros each, or 10 euros less. While we were contemplating it, we also met with a couple of Filipino expats who were referring people to a nearby souvenir store they were involved with, and they told us the price Abed was offering was already pretty good. After some discussion, we decided to go with it.
 

@@ -25,15 +25,15 @@ This Sunday we took a long walk to visit the famous Louvre museum (why go to Par
 
 The museum had a lot of Greek and Roman pieces and of course French artwork. Some of the things I found most interesting follow.
 
-{{< photo "2015/04/europe-trip/" "winged_victory" >}}
+{{< photo "2015/05/europe-trip/" "winged_victory" >}}
 
-{{< photo "2015/04/europe-trip/" "diana" >}}
+{{< photo "2015/05/europe-trip/" "diana" >}}
 
-{{< photo "2015/04/europe-trip/" "monalisa" >}}
+{{< photo "2015/05/europe-trip/" "monalisa" >}}
 
-{{< photo "2015/04/europe-trip/" "coronation-of-napoleon" >}}
+{{< photo "2015/05/europe-trip/" "coronation-of-napoleon" >}}
 
-{{< photo "2015/04/europe-trip/" "rembrandt" >}}
+{{< photo "2015/05/europe-trip/" "rembrandt" >}}
 
 The tickets we had gotten also let us visit another nearby museum, but we were and had already spent most of the day in the Louvre so we decided to pass on that. We walked around a bit more, passing by one of the Paris bridges with love locks all over it. We ended our walk at the famous Notre Dame church; still tired, we passed on the long queue to get into the cathedral and took a taxi back to our hotel to rest up.
 
@@ -45,13 +45,13 @@ After a late breakfast of omelettes at a nearby French cafe, we spent the first
 
 We had set aside this day to travel to Versailles, which required us to take a longer train ride out of Paris. We took a short walk from the train station to the Chateau, bought our tickets and got audio guides (from which we learned a lot). Some highlights follow.
 
-{{< photo "2015/04/europe-trip/" "versailles-apollo" >}}
+{{< photo "2015/05/europe-trip/" "versailles-apollo" >}}
 
-{{< photo "2015/04/europe-trip/" "versailles-hall-of-mirrors" >}}
+{{< photo "2015/05/europe-trip/" "versailles-hall-of-mirrors" >}}
 
-{{< photo "2015/04/europe-trip/" "versailles-royal-dinner" >}}
+{{< photo "2015/05/europe-trip/" "versailles-royal-dinner" >}}
 
-{{< photo "2015/04/europe-trip/" "versailles-hall-of-battles" >}}
+{{< photo "2015/05/europe-trip/" "versailles-hall-of-battles" >}}
 
 I think we managed to visit most if not all of the rooms of the Chateau, which gave me a new perspective on how ostentatious the life of royalty really was and a better appreciation of French history.
 
@@ -63,19 +63,19 @@ It was late in the afternoon by the time we finished our tour of the Chateau an
 
 After eating our last breakfast at the old lady's pattiserie near our hotel, we took the Metro to the Montmarte hill overlooking Paris and famous for the white-domed Basilica of the Sacré Cœur ("Sacred Heart"), though we didn't bother going inside the church. We spent some time here listening to a street performer and taking pictures of pigeons (omitted here for brevity, available upon request)
 
-{{< photo "2015/04/europe-trip/" "montmarte" >}}
+{{< photo "2015/05/europe-trip/" "montmarte" >}}
 
 We walked back to our hotel, passing by the famous Moulin Rouge. We decided to rest and split up for the remainder of the day and just meet up later in the afternoon for our climb up the Eiffel Tower.
 
 I took a leisurely afternoon walk to the Eiffel and waited for my companions at the same grassy spot we hung out at before. As the afternoon grew late, the wind grew bitingly cold and I was thankful when they finally arrived so that we could go up the tower.
 
-{{< photo "2015/04/europe-trip/" "eiffel-281m" >}}
+{{< photo "2015/05/europe-trip/" "eiffel-281m" >}}
 
-{{< photo "2015/04/europe-trip/" "eiffel-manila" >}}
+{{< photo "2015/05/europe-trip/" "eiffel-manila" >}}
 
-{{< photo "2015/04/europe-trip/" "eiffel-panorama" >}}
+{{< photo "2015/05/europe-trip/" "eiffel-panorama" >}}
 
-{{< photo "2015/04/europe-trip/" "eiffel-light-show" >}}
+{{< photo "2015/05/europe-trip/" "eiffel-light-show" >}}
 
 **Thursday March 19th to Sunday March 22nd**
 
