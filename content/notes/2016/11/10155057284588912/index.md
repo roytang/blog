@@ -7,10 +7,11 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155057284588912
 tags: 
 - bleah
+- reposts
+repost_source:
+  name: Writing About Writing
+  type: facebook
+  url: https://www.facebook.com/ChrisBrecheensWritingAboutWriting/photos/a.294173680691941/1014597925316176/
 ---
 
-{{% quoted url="https://www.facebook.com/ChrisBrecheensWritingAboutWriting/photos/a.294173680691941/1014597925316176/" label="Writing About Writing's Facebook post" %}}
-
 {{% photos 10155057284588912 %}}
-
-{{% /quoted %}}

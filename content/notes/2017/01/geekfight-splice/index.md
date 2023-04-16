@@ -1,9 +1,10 @@
 ---
-title: "Geekfight @ Splice"
 date: 2017-01-06
+location: 5579775a498e1dcc65578f9a
 tags:
 - quiznight
-location: 5579775a498e1dcc65578f9a
+- geekfight
+title: Geekfight @ Splice
 ---
 
 Theme: Music
