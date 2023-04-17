@@ -15,26 +15,26 @@ April is already halfway over, and I once again find myself overcome by the feel
 
 ### My Week
 
-Twitter emailed me to tell me one of my quote bots would get suspended, but somehow [it kept happily posting along](https://roytang.net/2023/04/1647793479073042433/) so :shrug:
+Twitter emailed me to tell me one of my quote bots would get suspended, but somehow [it kept happily posting along](/2023/04/1647793479073042433/) so :shrug:
 
-I wrote about my recent project of [scanning old photographs](https://roytang.net/2023/04/old-photographs/).
+I wrote about my recent project of [scanning old photographs](/2023/04/old-photographs/).
 
-Trivia team [headed out to GeekFight last Wednesday](https://roytang.net/2023/04/geekfight-then-now-forever/), but we fell short and finished first loser.
+Trivia team [headed out to GeekFight last Wednesday](/2023/04/geekfight-then-now-forever/), but we fell short and finished first loser.
 
 NYT added a new "Digits" puzzle which reminds me a lot of Countdown from British TV, except with infinite time and tries so it's not especially challenging.
 
-There was [this PH Travel Map thing](https://roytang.net/2023/04/1808c8183ed5b4a91e3f469aae71db57/) going around that just serves to reminds me that I haven't travelled around the country too much.
+There was [this PH Travel Map thing](/2023/04/1808c8183ed5b4a91e3f469aae71db57/) going around that just serves to reminds me that I haven't travelled around the country too much.
 
 ### Media Diet
 
 - **Gaming**: 
     - Single player: Finished the main quest of **Witcher 3**, looking forward to digging in to the DLC soon since that's all new to me. Will also probably start playing a new small game this week.
-    - Online: **Magic Arena**, **Eternal** and **Marvel Snap** daily grinding continue as usual. Despite getting to infinite last season with Snap I am making no progress this season. Spent some gold on [a few Explorer Metagame challenge runs on Magic Arena](https://roytang.net/2023/04/explorer-metagame-challenge/).
+    - Online: **Magic Arena**, **Eternal** and **Marvel Snap** daily grinding continue as usual. Despite getting to infinite last season with Snap I am making no progress this season. Spent some gold on [a few Explorer Metagame challenge runs on Magic Arena](/2023/04/explorer-metagame-challenge/).
     - I have preordered *Legend of Zelda: Tears of the Kingdom*!
 
 - **Reading**: Still mostly just comics. I have finished the first volume of Thor! Will probably write the next [Complete Marvel Run](/tags/complete-marvel-run/) update later this week. Really should start reading a new book as well. Feed reader backlog: 107 items.
 
-- **Watching**: Ongoing: *The Blacklist* S9, *Star Trek Picard* S3. Watched [Extraction (2020)](https://roytang.net/2023/04/extraction-2020/) and [Surrogates (2009)](https://roytang.net/2023/04/surrogates-2009/) at home via streaming. Went to the cinemas with some friends to watch the excellent [Dungeons and Dragons: Honor Among Thieves (2023)](https://roytang.net/2023/04/dungeons-dragons-honor-among-thieves-2023/). 
+- **Watching**: Ongoing: *The Blacklist* S9, *Star Trek Picard* S3. Watched [Extraction (2020)](/2023/04/extraction-2020/) and [Surrogates (2009)](/2023/04/surrogates-2009/) at home via streaming. Went to the cinemas with some friends to watch the excellent [Dungeons and Dragons: Honor Among Thieves (2023)](/2023/04/dungeons-dragons-honor-among-thieves-2023/). 
 
 ### Walking
 
@@ -52,7 +52,7 @@ This past week (Sunday thru Saturday), Fitbit says I walked a total of 70,712 st
 
 - [Why do websites have so many pop-ups? - The Verge](https://www.theverge.com/tech/23653544/pop-up-website-ad-ui-design)
 
-- (Youtube) [Marvels Teaser Trailer](https://www.youtube.com/watch?v=iuk77TjvfmE) - [I am a bit hyped for this](https://roytang.net/2023/04/c55d8812fc4abbad2f45c1afb484aa23/) and I feel like Iman Vellani is really gonna steal the show here.
+- (Youtube) [Marvels Teaser Trailer](https://www.youtube.com/watch?v=iuk77TjvfmE) - [I am a bit hyped for this](/2023/04/c55d8812fc4abbad2f45c1afb484aa23/) and I feel like Iman Vellani is really gonna steal the show here.
   
 Check out the [linkblog](/links/) for more links!
 
