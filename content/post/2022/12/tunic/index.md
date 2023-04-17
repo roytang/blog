@@ -25,7 +25,7 @@ My only complaint is some of the end-game puzzles and secrets needed for complet
 
 I must note that if you don't like the challenging bosses part and just want the exploration and puzzles, the game has some great accessibility options - you can even disable dying completely, which makes the combats trivial (and doesn't disable achievements!). I swear I only enabled this mode for one post-game achievement that would have taken way too long otherwise. EDIT: Checking the accessibility options again, and I also found there's an option for "Audio Puzzle Assistance", which basically shows the notes being played for audio puzzles. As [a practically tone-deaf person](/2017/12/10156279293513912/), that would have saved me some googling!
 
-**Completion:** I managed to complete the games achievements (played via PC Game Pass, this post should have a screenshot), with a playtime of almost 25hrs. HLTB says average completion time is roughly 22hrs, so I was definitely below average for this one. Most of the achievements were straightforward, including collecting those secrets I mentioned above. I had to do one of them had in New Game+ (because I made some mistakes in the first run.)
+**Completion:** I managed to complete the game's achievements (played via PC Game Pass, this post should have a screenshot), with a playtime of almost 25hrs. HLTB says average completion time is roughly 22hrs, so I was definitely below average for this one. Most of the achievements were straightforward, including collecting those secrets I mentioned above. I had to do one of them had in New Game+ (because I made some mistakes in the first run.)
 
 I also streamed this game a couple of times on Twitch, here are some videos: (SPOILERS!)
 
