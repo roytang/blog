@@ -9,7 +9,15 @@ tags:
 - fbreposts06
 ---
 
-2018: N64 Mini  2019: Gamecube Mini  2020: Wii Mini  2021: Wii U Mini  2022: NES Mini Mini
+2018: N64 Mini  
+
+2019: Gamecube Mini  
+
+2020: Wii Mini  
+
+2021: Wii U Mini  
+
+2022: NES Mini Mini
 
 {{% quoted url="https://www.facebook.com/verge/posts/1415203741849298" label="The Verge's Facebook post" %}}
 

@@ -8,4 +8,12 @@ tags:
 - quotes
 ---
 
-"What was the start of all this? When did the cogs of fate begin to turn? Perhaps it is impossible to grasp that answer now, From deep within the flow of time.  But for a certainty, back then We loved so many yet hated so much We hurt others and were hurt ourselves.  Yet even then we ran like the wind Whilst our laughter echoed Under cerulean skies...."
+"What was the start of all this? 
+
+When did the cogs of fate begin to turn? 
+
+Perhaps it is impossible to grasp that answer now, From deep within the flow of time.  
+
+But for a certainty, back then We loved so many yet hated so much We hurt others and were hurt ourselves.  
+
+Yet even then we ran like the wind Whilst our laughter echoed Under cerulean skies...."
