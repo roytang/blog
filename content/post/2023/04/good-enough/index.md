@@ -1,8 +1,13 @@
 ---
-title: "Good Enough For Now"
-date: 2023-04-19T16:25:27+08:00
+date: 2023-04-19 08:25:27
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110224641333952836
+- type: twitter
+  url: https://twitter.com/roytang/status/1648611357120671744/
 tags:
 - blogging
+title: Good Enough For Now
 ---
 
 Some things about blogging today.
