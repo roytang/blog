@@ -5,6 +5,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/110161910588903684
 - type: twitter
   url: https://twitter.com/roytang/status/1644596589959450624/
+- type: twitter
+  url: https://twitter.com/roytang/status/1649701126667911169/
 tags:
 - tech-life
 - twitter
