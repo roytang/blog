@@ -101,8 +101,8 @@ From last year's list of 20 items, I watched 11, have not yet seen 4, 4 got post
 | Feb 17 | Ant-Man and the Wasp: Quantumania | [[DONE]](/2023/02/ant-man-and-the-wasp-quantumania-2023/) |
 | Mar 17 | Shazam! Fury of the Gods | [[DONE]](/2023/03/shazam-fury-of-the-gods-2023/) |
 | Mar 24 | John Wick Chapter 4 | [[DONE]](/2023/03/john-wick-chapter-4-2023/) |
-| Mar 31 | Dungeons & Dragons: Honor Among Thieves | |
-| Apr 07 | The Super Mario Bros. Movie |
+| Mar 31 | Dungeons & Dragons: Honor Among Thieves | [[DONE]](/2023/04/dungeons-dragons-honor-among-thieves-2023/) |
+| Apr 07 | The Super Mario Bros. Movie | [[DONE]](/2023/04/the-super-mario-bros-movie-2023/) |
 | May 05 | Guardians of the Galaxy vol 3 | |
 | Jun 02 | Spider-Man: Across the Spider-Verse | |
 | Jun 09 | Transformers: Rise of the Beasts | |
