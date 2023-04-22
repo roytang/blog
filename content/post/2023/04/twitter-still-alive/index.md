@@ -40,3 +40,5 @@ Which leads me to another problem I have with algorithmic timelines: It's much m
 ### My Future on Twitter
 
 Somehow still hanging on, though I have managed to shift more to Mastodon recently. Even for the triviabot, I'm checking in on [the Mastodon version](https://botsin.space/@triviastorm) more regularly. I do sometimes think about just flat out stopping Twitter usage completely, but inertia and some remaining contacts keep me here, though with the way EM is constantly degrading the system I wouldn't be surprised if I abandon it sooner rather than later.
+
+<time>[2023-04-22 17:06]</time> Happy to report that since I posted this, my first two complaints about new tweetdeck seem to have been fixed: column headers now scroll to top on click, and the delete button has been removed from the mouseover toolbar for the column.
