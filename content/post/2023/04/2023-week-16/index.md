@@ -1,6 +1,11 @@
 ---
-date: 2023-04-24T12:48:09+08:00
+date: 2023-04-24 04:48:09
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110252392329424516
+- type: twitter
+  url: https://twitter.com/roytang/status/1650387421006286849/
 tags:
 - weeknotes
 title: 2023 Week 16
