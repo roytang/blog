@@ -14,10 +14,9 @@ syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110244832749803814
 title: '"the secret list of websites" - Chris Coyier'
+dontinlinephotos: true
 ---
 
-
-
-<time id="110244832749803814">[06:30]</time> <p>My own website comes in at under 200k rank on the site. I am not sure if I should be proud or annoyed or what</p>
+<p>My own website comes in at under 200k rank on the site. I am not sure if I should be proud or annoyed or what</p>
 
 {{< photos 110244832749803814 >}}
