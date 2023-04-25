@@ -10,6 +10,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/110257255947918994
 - type: twitter
   url: https://twitter.com/roytang/status/1650698733405995012/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110257261926705618
 tags:
 - games
 title: 'Games: Death''s Door'
