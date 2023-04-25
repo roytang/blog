@@ -1,13 +1,18 @@
 ---
-title: "Games: Death's Door"
-date: 2023-04-25T10:33:56+08:00
+date: 2023-04-25 02:33:56
 reviews:
 - description: ''
   media: games
   rating: 4.0
   title: Death's Door (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110257255947918994
+- type: twitter
+  url: https://twitter.com/roytang/status/1650698733405995012/
 tags:
 - games
+title: 'Games: Death''s Door'
 ---
 
 This game wasn't on my radar at all and I only found it while browsing through the PC Game Pass listings. It was surprisingly good.
