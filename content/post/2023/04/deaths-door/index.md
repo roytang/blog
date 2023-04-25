@@ -24,3 +24,5 @@ It's a nice little Zelda-like where you play a crow whose job is to reap the sou
 My total playtime clocks in at around 14h17m and I got 23/24 of the game's achievements. The missing achievement was for doing an entire run using only the umbrella, a weak weapon you can find early in the game, and that would take another entire run which would probably be an additional 4-5 hours at least and I'm not willing to do that. My one run ended up at 100% completion, so I am quite satisfied with the gameplay I got from this one. Except for that umbrella achievement, the rest are pretty easy, only a couple of others are missable.
 
 Overall an excellent experience. A pleasant distraction!
+
+{{% youtube efbbBNOx1yA %}}
