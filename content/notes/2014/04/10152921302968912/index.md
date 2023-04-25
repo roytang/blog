@@ -8,5 +8,3 @@ tags: []
 ---
 
 Today's contest: identify what this food is
-
-PHOTO!! (No photo description available.)

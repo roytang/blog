@@ -1,5 +1,8 @@
 ---
 date: 2013-04-26 15:30:37
+resources:
+- src: LW662wA.jpg
+  title: Image rescued from imgur linkrot via archive.org
 source: twitter
 syndicated:
 - type: twitter
