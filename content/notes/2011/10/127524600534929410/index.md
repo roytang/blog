@@ -7,6 +7,9 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/127524600534929410/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/127533532053643264/
+tags:
+- mtg
+- mtgo
 ---
 
 My first innistrad draft: https://i.imgur.com/wKYc5.jpg
