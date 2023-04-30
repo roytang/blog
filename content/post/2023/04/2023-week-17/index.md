@@ -3,7 +3,13 @@ date: 2023-04-30 06:01:51
 dontinlinephotos: true
 resources:
 - src: 20230426_174551.jpg
-  title: 'English translation: Do not throw kittens here: karma exists. (The nearby house has CCTV)'
+  title: 'English translation: Do not throw kittens here: karma exists. (The nearby
+    house has CCTV)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110286529921296174
+- type: twitter
+  url: https://twitter.com/roytang/status/1652572234547081218/
 tags:
 - weeknotes
 title: 2023 Week 17
