@@ -37,24 +37,31 @@ reviews:
 - media: comics
   title: Iron Man v1
   year: 1968
+  issues: 332
 - media: comics
   title: Strange Academy
   year: 2020
+  issues: 18
 - media: comics
   title: Symbiote Spider-Man
   year: 2019
+  issues: 5
 - media: comics
   title: Symbiote Spider-Man Alien Reality
   year: 2019
+  issues: 5
 - media: comics
   title: Symbiote Spider-Man King in Black
   year: 2020
+  issues: 5
 - media: comics
   title: Hellions
   year: 2020
+  issues: 18
 - media: comics
   title: Marauders
   year: 2019
+  issues: 27
 ---
 
 ### Previously
@@ -131,6 +138,10 @@ Some other runs I completed during this period (not comprehensive): *Strange Aca
 And a lot of individual issues for ongoing runs.
 
 {{% photos mysterio %}}
+
+### Summary
+
+Total issues covered in this post: 410 issues
 
 ### What's Next
 
