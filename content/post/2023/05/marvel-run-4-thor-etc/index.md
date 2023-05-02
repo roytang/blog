@@ -8,11 +8,6 @@ resources:
   title: 'Thor #207, January 1973'
 - src: thor226.PNG
   title: 'Thor #226, August 1974'
-tags:
-- comics
-- complete-marvel-run
-title: 'The Complete Marvel Run part 4: Thor v1 (1966) and others'
-toc: true
 reviews:
 - hashtag: thor-v1-1966-1996
   issues: 377
@@ -54,6 +49,16 @@ reviews:
   media: comics
   title: Sins of Sinister (event)
   year: 2023
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110298495389637812
+- type: twitter
+  url: https://twitter.com/roytang/status/1653338032047792129/
+tags:
+- comics
+- complete-marvel-run
+title: 'The Complete Marvel Run part 4: Thor v1 (1966) and others'
+toc: true
 ---
 
 ### Previously
@@ -161,4 +166,3 @@ Note: The linked reading order above might not be the best reference, since it s
 ### What's Next
 
 Going in MCU order, the next long volume to cover should be Avengers vol 1, covering 402 issues. That will take me a few months to get through, and I am also considering including Annuals and other related issues as well (something which maybe I should have done for the first few volumes!)
-
