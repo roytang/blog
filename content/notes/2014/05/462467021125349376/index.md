@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152935598733912
 tags:
 - quotes
+- parksandrec
 ---
 
 "There has never been a sadness that can't be cured by breakfast food" - Ron Swanson
