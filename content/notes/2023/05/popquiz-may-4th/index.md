@@ -1,9 +1,11 @@
 ---
-date: 2023-05-04T23:11:27+08:00
+date: 2023-05-04 15:11:27
 location: shantung
 resources:
 - src: 20230504_221426.jpg
-  title: 'Names of other teams redacted'
+  title: Names of other teams redacted
+- src: 344439672_953386226019337_1399509725649735693_n.jpg
+  title: 'Image source: Shantung FB page'
 tags:
 - quiznight
 - popquiz
