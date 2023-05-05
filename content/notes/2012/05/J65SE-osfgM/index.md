@@ -6,6 +6,8 @@ syndicated:
   url: https://www.youtube.com/watch?v=J65SE-osfgM
 - type: twitter
   url: https://twitter.com/roytang/statuses/198685975570952192/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/388496551195699
 tags:
 - asoiaf  
 - nedstarkisdead
