@@ -1,7 +1,10 @@
 ---
 checkin_id: 64210c8cd73d2b2c4c88395c
-date: 2023-03-27 11:25:00+08:00
+date: 2023-03-27 03:25:00
 location: 502cbc79e4b0bde7251edc91
+resources:
+- src: sea_aquarium.jpg
+  title: SEQ Aquarium ticket
 source: foursquare
 syndicated:
 - type: foursquare
@@ -10,7 +13,7 @@ tags:
 - sg2023
 ---
 
- (@SEA Aquarium 8 Sentosa Gate﻿way Resorts World Sentosa)
+(@SEA Aquarium 8 Sentosa Gate﻿way Resorts World Sentosa)
 
  We were originally planning to go to Adventure Cove, but the weather did not agree with those plans, so we went to the aquarium instead. (My record of never having gone to a water park remains unscathed.)
 
