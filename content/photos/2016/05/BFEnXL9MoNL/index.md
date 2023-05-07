@@ -1,5 +1,8 @@
 ---
-date: 2016-05-06 16:14:08+00:00
+date: 2016-05-06 16:14:08
+resources:
+- src: geekfight-20160507splice.jpg
+  title: Photo c/o GeekFight! Trivia Night
 source: instagram
 syndicated:
 - type: instagram
