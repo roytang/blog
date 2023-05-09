@@ -14,6 +14,7 @@ tags:
 - mtgmom
 - twitch
 title: March of the Machine Quick Drafting
+dontinlinephotos: true
 ---
 
 https://www.twitch.tv/twitchyroy #mtg #magicarena #mtgmom #twitch

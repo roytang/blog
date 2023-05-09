@@ -14,6 +14,7 @@ tags:
 - mtg
 - magicarena
 title: Friday afternoon MTGMOM drafting
+dontinlinephotos: true
 ---
 
 https://twitch.tv/twitchyroy
