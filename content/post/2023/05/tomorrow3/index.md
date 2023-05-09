@@ -1,13 +1,18 @@
 ---
-title: "Books: Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin"
-date: 2023-05-08T15:39:16+08:00
+date: 2023-05-08 07:39:16
+reviews:
+- description: Incredibly good.
+  media: books
+  rating: 5.0
+  title: Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110332025949739167
+- type: twitter
+  url: https://twitter.com/roytang/status/1655483974763024385/
 tags:
 - books
-reviews:
-- media: books
-  title: Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin
-  rating: 5.0
-  description: Incredibly good.
+title: 'Books: Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin'
 ---
 
 I call this book "Tomorrow3" in my head for simplicity.
