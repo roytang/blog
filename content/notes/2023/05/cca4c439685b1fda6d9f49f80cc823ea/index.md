@@ -12,6 +12,7 @@ tags:
 - magicarena
 - twitch
 title: ''
+dontinlinephotos: true
 ---
 
 Continuing to be terrible at March of the Machine Quick Drafts https://www.twitch.tv/twitchyroy
