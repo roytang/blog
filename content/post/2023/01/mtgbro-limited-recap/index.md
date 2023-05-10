@@ -57,6 +57,18 @@ New set is coming up in a couple of weeks, I figured I should do the **Brothers 
 | 1-x | 2 |
 | 0-x | 1 |
 
+Brothers War limited archetypes:
+
+- WU: Soldiers
+- WG: Artifactfall
+- UB: Draw 2
+- BR: Sacrifice
+- RG: ???
+- WB: Reanimate 3 or less
+- BG: Graveyard creature count
+- UR: Prowess
+- WR: Aggro
+- UG: Ramp/prototype
 
 Notes:
 
