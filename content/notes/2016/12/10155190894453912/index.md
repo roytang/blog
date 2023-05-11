@@ -1,5 +1,5 @@
 ---
-date: 2016-12-17 01:18:00+08:00
+date: 2016-12-16 17:18:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155190894453912
 tags:
 - fbreposts05
+- ducktales
 ---
 
 D-d-d-danger lurks behind you There's the Doctor out to find you Ducktales, woo-ooo!

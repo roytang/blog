@@ -1,5 +1,5 @@
 ---
-date: 2014-09-09 01:32:06+00:00
+date: 2014-09-09 01:32:06
 link:
   source: twitter
   source_url: https://twitter.com/roytang/statuses/509152232479395841/
@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/509152232479395841/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153214865138912
+tags:
+- ducktales
 title: ''
 ---
 

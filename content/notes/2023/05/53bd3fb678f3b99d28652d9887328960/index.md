@@ -12,6 +12,7 @@ tags:
 - magicarena
 - mtgmom
 title: Final March of the Machine draft day!
+dontinlinephotos: true
 ---
 
 https://www.twitch.tv/twitchyroy #twitch #mtg #magicarena #mtgmom

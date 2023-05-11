@@ -7,7 +7,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152157642928912
 - type: twitter
   url: https://twitter.com/roytang/statuses/315203993490030592/
-tags: []
+tags:
+- ducktales
 ---
 
 Best announement out of PAX so far lol

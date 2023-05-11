@@ -5,7 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154988076668912
-tags: []
+tags:
+- ducktales
 ---
 
 Speaking of TV show openings, here's DuckTales in Hindi: 
