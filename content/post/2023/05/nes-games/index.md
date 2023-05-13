@@ -147,6 +147,11 @@ reviews:
   hashtag: 29-gijoe-famicom
   media: games
   title: G.I.Joe (Famicom)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110358472775409290
+- type: twitter
+  url: https://twitter.com/roytang/status/1657176581721436160/
 tags:
 - gaming
 - games
