@@ -323,7 +323,7 @@ This was an iconic side-scrolling shooter back in the day, not sure where the fr
 
 #### 23. Sky Shark (NES)
 
-{{% img src="sky-shark.jpg" %}}
+{{% img src="skyshark.jpg" %}}
 
 This was a simple vertically-scrolling military-themed shooter. Not sure why my parents bought it for us as I'd never heard of it before, but since we owned the cart I played a lot of it. It also had a powerup/upgrade system, though nothing as elaborate as Gradius. I think each upgrade just made your plane fire more shots in one volley, and the max upgrade you fired bullets per shot in a wide swath like a shotgun? 
 
