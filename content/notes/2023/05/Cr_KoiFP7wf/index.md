@@ -1,5 +1,4 @@
 ---
-title: "Cr_KoiFP7wf"
 date: 2023-05-08T23:58:23+08:00
 syndicated:
 - type: instagram
