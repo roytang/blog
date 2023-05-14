@@ -1,6 +1,11 @@
 ---
-date: 2023-05-14T09:57:59+08:00
+date: 2023-05-14 01:57:59
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110364648288673994
+- type: twitter
+  url: https://twitter.com/roytang/status/1657571807438979072/
 tags:
 - weeknotes
 title: 2023 Week 19
