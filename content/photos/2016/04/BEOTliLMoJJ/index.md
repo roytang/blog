@@ -1,5 +1,5 @@
 ---
-date: 2016-04-15 14:02:20+00:00
+date: 2016-04-15 14:02:20
 source: instagram
 syndicated:
 - type: instagram
@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154535643893912
 tags:
 - instagram
+- amiibo
+- gaming
 title: ''
 ---
 

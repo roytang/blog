@@ -11,7 +11,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154123345743912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154123345768912
-tags: []
+tags:
+- amiibo
+- gaming
 ---
 
 Lucina!
