@@ -10,7 +10,7 @@ tags:
 title: 'Popquiz: Some Like It Hot'
 ---
 
-This was a difficult and low-scoring quiz night at one of the usual haunts. Despite a couple of terrible rounds and a poor choice of joker, we actually managed to finish 1pt away from tying for first!
+This was a difficult and low-scoring quiz night at one of the usual haunts. Despite a couple of terrible rounds and a poor choice of joker, we actually managed to finish 1pt away from tying for first! Scores for this game were super close, as is typical with difficult, wide-open nights.
 
 Rounds were:
 
