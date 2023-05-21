@@ -1,9 +1,11 @@
 ---
-date: 2023-05-18T23:53:32+08:00
+date: 2023-05-18 15:53:32
 location: intbarextcafe
 resources:
 - src: 20230518_222631.jpg
   title: Close fight! Names of other teams redacted
+- src: 20230518_191434.jpg
+  title: Reserved!
 tags:
 - quiznight
 - popquiz
