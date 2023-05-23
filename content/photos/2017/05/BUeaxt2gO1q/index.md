@@ -14,7 +14,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155651829053912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155651829108912
+- type: foursquare
+  url: https://www.swarmapp.com/roytang/checkin/59257669c53093239929edeb
 tags: []
+checkin_id: 59257669c53093239929edeb
 ---
 
 Lasagna
+
+(@Borough Ground Flr The Podium)
