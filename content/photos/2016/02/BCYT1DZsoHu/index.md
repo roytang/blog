@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154405110928912
 tags:
 - sketchdaily
+- thor
 ---
 
 Goddess of thunder #sketchdaily
