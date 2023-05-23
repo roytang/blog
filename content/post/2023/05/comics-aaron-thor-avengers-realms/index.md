@@ -3,70 +3,76 @@ date: 2023-05-23 18:57:51
 dontinlinephotos: true
 resources:
 - src: falligar.png
-  title: 'The same scene as seen in Love and Thunder'
+  title: The same scene as seen in Love and Thunder
 - src: newaoa3_1.PNG
   title: 'War of the Realms New Agents of Atlas #3'
 - src: newaoa3_2.PNG
-  title: 'I wonder if Hornel/Spam paid for this promotion'
+  title: I wonder if Hornel/Spam paid for this promotion
 - src: spiderman_1.PNG
-  title: 'Spider-Man and Wolverine together again'
+  title: Spider-Man and Wolverine together again
 - src: spiderman_2.PNG
-  title: 'Spider-Man discovers his magic helmet lets him talk to the horses'
+  title: Spider-Man discovers his magic helmet lets him talk to the horses
+reviews:
+- description: ''
+  hashtag: thor-god-of-thunder-2013
+  issues: 25
+  media: comics
+  title: 'Thor: God of Thunder (2013)'
+  year: 2013
+- description: ''
+  hashtag: thor-v4-2014
+  issues: 8
+  media: comics
+  title: Thor v4 (2014)
+  year: 2014
+- description: ''
+  hashtag: mighty-thor-v2-2016-and-v3-2017-2018
+  issues: 30
+  media: comics
+  title: Mighty Thor v2 (2016) and v3 (2017-2018)
+  year: 2016
+- description: ''
+  hashtag: unworthy-thor-2016
+  issues: 5
+  media: comics
+  title: Unworthy Thor (2016)
+  year: 2016
+- description: ''
+  hashtag: thor-v5-2018
+  issues: 19
+  media: comics
+  title: Thor v5 (2018)
+  year: 2018
+- description: ''
+  hashtag: king-thor-2019
+  issues: 4
+  media: comics
+  title: King Thor (2019)
+  year: 2019
+- description: War of the Realms, Omega, Giant-Man, :Journey Into Mystery, :New Agents
+    of Atlas, :Punisher, :Spider-Man and the League of Realms, :Strikeforce, :Uncanny
+    X-Men, :War Scrolls
+  hashtag: the-war-of-the-realms-2019
+  issues: 34
+  media: comics
+  title: The War of the Realms (2019 event)
+  year: 2019
+- description: Jason Aaron's Avengers run - Avengers v8 (2018), Avengers Forever (2022),
+    Avengers 1,000,000 BC, Avengers Assemble Alpha, Avengers Assemble Omega
+  hashtag: jason-aarons-avengers-run
+  issues: 84
+  media: comics
+  title: Avengers v8 (2018)
+  year: 2018
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110419965685229522
 tags:
 - comics
 - complete-marvel-run
 - thor
 title: 'Complete Marvel Run: Jason Aaron''s Thor, Avengers, and War of the Realms'
 toc: true
-reviews:
-- hashtag: thor-god-of-thunder-2013
-  description: ''
-  media: comics
-  title: 'Thor: God of Thunder (2013)'
-  issues: 25
-  year: 2013
-- hashtag: thor-v4-2014
-  description: ''
-  media: comics
-  title: 'Thor v4 (2014)'
-  issues: 8
-  year: 2014
-- hashtag: mighty-thor-v2-2016-and-v3-2017-2018
-  description: ''
-  media: comics
-  title: 'Mighty Thor v2 (2016) and v3 (2017-2018)'
-  issues: 30
-  year: 2016
-- hashtag: unworthy-thor-2016
-  description: ''
-  media: comics
-  title: 'Unworthy Thor (2016)'
-  issues: 5
-  year: 2016
-- hashtag: thor-v5-2018
-  description: ''
-  media: comics
-  title: 'Thor v5 (2018)'
-  issues: 19
-  year: 2018
-- hashtag: king-thor-2019
-  description: ''
-  media: comics
-  title: 'King Thor (2019)'
-  issues: 4
-  year: 2019
-- hashtag: the-war-of-the-realms-2019
-  description: 'War of the Realms, Omega, Giant-Man, :Journey Into Mystery, :New Agents of Atlas, :Punisher, :Spider-Man and the League of Realms, :Strikeforce, :Uncanny X-Men, :War Scrolls'
-  media: comics
-  title: 'The War of the Realms (2019 event)'
-  issues: 34
-  year: 2019
-- hashtag: jason-aarons-avengers-run
-  description: "Jason Aaron's Avengers run - Avengers v8 (2018), Avengers Forever (2022), Avengers 1,000,000 BC, Avengers Assemble Alpha, Avengers Assemble Omega"
-  media: comics
-  title: 'Avengers v8 (2018)'
-  issues: 84
-  year: 2018
 ---
 
 ### Previously
@@ -211,4 +217,3 @@ Well, we hardly made a dent in the progress bar (<1% added), but it's something,
 Ongoing: Avengers v1, currently up to around #90 I think, so a bit less than 25% done, and I am covering annuals this time as well.
 
 For the next "side mission" posts, will most probably do either *Amazing Spider-Man* or some 90s X-Men stuff maybe?
-
