@@ -39,16 +39,18 @@ reviews:
   media: comics
   title: Variants
   year: 2022
-- hashtag: dark-web
+- hashtag: dark-web-2023
   issues: 7
   media: comics
   title: Dark Web (event)
   year: 2023
-- hashtag: sins-of-sinister
+  description: "Dark Web, Dark Web X-Men, Dark Web Ms Marvel, Dark Web Finale"
+- hashtag: sins-of-sinister-2023
   issues: 11
   media: comics
   title: Sins of Sinister (event)
   year: 2023
+  description: "Sins of Sinister, Storm & The Brotherhood of Mutants, Nightcrawlers, Immoral X-Men, Sins of Sinister: Dominion"
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110298495389637812

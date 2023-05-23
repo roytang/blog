@@ -2,18 +2,26 @@ from pathlib import Path
 import sys, frontmatter
 import json
 
+"""
+JS to extract the JSON:
+
+var nodes = document.querySelectorAll("details li a");
+var outlist = [];
+for (let i=0; i<nodes.length; i++) { outlist.push({ "href": nodes[i].getAttribute("href"), "text": nodes[i].innerText }); } 
+
+
+"""
+
+
 template = """- hashtag: %s
-  description: Retro review from May 2023
-  media: games
-  title: '%s'
-  date: 1990-01-01"""
+  description: ''
+  media: comics
+  title: '%s'"""
 
 tocfile = Path("d:\\temp\\toc.json")
 with tocfile.open(encoding='UTF-8') as f:
     listdata = json.loads(f.read())
     for item in listdata:
-        idx = item['text'].find(".")
-        if idx > 0:
-            title = item['text'][idx+2:].replace("'", "\'")
-            outtext = template % (item['href'][1:], title)
-            print(outtext)
+        title = item['text']
+        outtext = template % (item['href'][1:], title)
+        print(outtext)
