@@ -57,6 +57,7 @@ syndicated:
 tags:
 - comics
 - complete-marvel-run
+- thor
 title: 'The Complete Marvel Run part 4: Thor v1 (1966) and others'
 toc: true
 ---
