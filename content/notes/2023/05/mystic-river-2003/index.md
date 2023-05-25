@@ -12,8 +12,6 @@ source: letterboxd
 syndicated:
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/mystic-river/
-- type: mastodon
-  url: https://indieweb.social/users/roytang/statuses/110429484967576235
 tags:
 - movies
 title: 'Movies: Mystic River (2003)'
