@@ -1,5 +1,5 @@
 ---
-date: 2023-05-25 05:13:24+00:00
+date: 2023-05-25 05:13:24
 dontinlinephotos: true
 reviews:
 - date: '2023-05-24'
@@ -12,6 +12,8 @@ source: letterboxd
 syndicated:
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/mystic-river/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110429484967576235
 tags:
 - movies
 title: 'Movies: Mystic River (2003)'
