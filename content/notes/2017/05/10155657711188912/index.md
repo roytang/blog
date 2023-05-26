@@ -1,5 +1,5 @@
 ---
-date: 2017-05-26 22:33:00+08:00
+date: 2017-05-26 14:33:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155657711188912
 tags:
 - fbreposts06
+- arrowverse
 ---
 
 This video is awesome, but I'll use it as an opportunity to talk about Arrow.
