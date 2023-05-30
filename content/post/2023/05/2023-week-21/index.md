@@ -32,7 +32,7 @@ A supertyphoon was supposed to hit the country over the weekend, but the weather
     - Single player: Still playing so much *Legend of Zelda: Tears of the Kingdom*. The Switch says I have played it for "70 hours or more", which I just assume means 80 hours. I am a fair bit away from actually finishing the game (there is so much to do!), but I am assuming that when June hits I am going to start tempering my daily play time so I can get back some free time and do some of the other things I want to be doing.
     - Online: **Magic Arena** and **Marvel Snap** daily grinding continue as usual. **Eternal** is a bit neglected, but I try to sneak it in every so often.
 
-- **Reading**: I still have not yet selected a new book to read next. Reading a lot of comics still; I wrote [a blog post about Jason Aaron's Thor/Avengers runs](/2023/05/comics-aaron-thor-avengers-realms/). Feed reader backlog: 97 items.
+- **Reading**: I still have not yet selected a new book to read next. Reading a lot of comics still; I wrote [a blog post about Jason Aaron's Thor/Avengers runs](/2023/05/comics-aaron-thor-avengers-realms/). Feed reader backlog: 199 items.
 
 - **Watching**: Managed to watch a couple of movies this week: [The Raid (2011)](/2023/05/the-raid-2011/) and [Mystic River (2003)](/2023/05/mystic-river-2003/). Still trying to power through the final season of *The Flash*
 
