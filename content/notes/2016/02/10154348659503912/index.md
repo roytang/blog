@@ -1,5 +1,5 @@
 ---
-date: 2016-02-01 08:57:00+08:00
+date: 2016-02-01 00:57:00
 reviews:
 - description: ''
   media: games
@@ -14,6 +14,7 @@ syndicated:
 tags:
 - gaming
 - games
+- zelda
 ---
 
 Finally finished Wind Waker HD, great game. Didn't bother with the completion, there's just too much other stuff to do. If the game had achievements, I'd think about it lol

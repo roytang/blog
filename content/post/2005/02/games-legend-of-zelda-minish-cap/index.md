@@ -13,6 +13,7 @@ syndicated:
 tags:
 - Gaming
 - games
+- zelda
 title: 'Games: Legend of Zelda -- Minish Cap'
 type: post
 url: /2005/02/games-legend-of-zelda-minish-cap/
