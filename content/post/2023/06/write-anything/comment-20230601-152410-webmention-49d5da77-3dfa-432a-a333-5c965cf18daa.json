@@ -1,0 +1,29 @@
+{
+  "id": "49d5da77-3dfa-432a-a333-5c965cf18daa",
+  "name": "Dominik Schwind",
+  "url": "https://dominikschwind.com/",
+  "text": "Bookmarked by https://dominikschwind.com/link/you-can-write-about-anything",
+  "date": "2023-06-01 15:24:10 +0800",
+  "photo": "https://webmention.io/avatar/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+  "source_url": "https://dominikschwind.com/link/you-can-write-about-anything",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+      "url": "https://dominikschwind.com/"
+    },
+    "url": "https://dominikschwind.com/link/you-can-write-about-anything",
+    "published": "2023-06-01T07:24:10+00:00",
+    "wm-received": "2023-06-01T07:24:14Z",
+    "wm-id": 1681113,
+    "wm-source": "https://dominikschwind.com/link/you-can-write-about-anything",
+    "wm-target": "https://roytang.net/2023/06/write-anything/",
+    "bookmark-of": "https://roytang.net/2023/06/write-anything/",
+    "wm-property": "bookmark-of",
+    "wm-private": false
+  }
+}
