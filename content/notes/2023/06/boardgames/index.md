@@ -17,3 +17,5 @@ Saturday we got to try out the Conan board game. I didn't get to take a picture 
 After we got tired of Conan, we played a bit more of Scout and Maskman ([we last played them more than a month ago](/2023/05/gameday/)!), and we found out we had actually been playing Scout wrong last time and the actual rules were much more challenging. (I did so poorly)!
 
 {{% photos 20230603 %}}
+
+(The day also had a fair amount of Street Fighter VI!)
