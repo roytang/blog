@@ -6,7 +6,7 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/110490384110539601
 tags:
 - weeknotes
-title: 2023 Week 23
+title: 2023 Week 22
 ---
 
 The first week of June was a little bit rainy, though not as much as a supertyphoon would have brought. I think PAGASA already declared an official start to the rainy season?
