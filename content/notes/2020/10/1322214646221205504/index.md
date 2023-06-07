@@ -13,6 +13,7 @@ tags:
 - LinksAwakening
 - NintendoSwitch
 - games
+- zelda
 ---
 
 I finished #LinksAwakening ! #NintendoSwitch
