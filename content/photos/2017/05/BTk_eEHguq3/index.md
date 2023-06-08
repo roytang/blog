@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155588538288912
 tags:
 - pickups
+- zelda
+- 3ds
 ---
 
 Welp

@@ -10,6 +10,7 @@ tags:
 - mobile-uploads
 - gaming
 - pickups
+- 3ds
 ---
 
 More gastos~
