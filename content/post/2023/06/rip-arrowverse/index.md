@@ -1,7 +1,6 @@
 ---
 title: "Flash S9: RIP Arrowverse"
 date: 2023-06-09T13:31:25+08:00
-draft: true
 tags:
 - arrowverse
 - flash
