@@ -1,13 +1,16 @@
 ---
-title: "Flash S9: RIP Arrowverse"
-date: 2023-06-09T13:31:25+08:00
+date: 2023-06-09 05:31:25
+reviews:
+- media: tv
+  title: Flash season 9
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110512719077413388
 tags:
 - arrowverse
 - flash
 - tv
-reviews:
-- media: tv
-  title: Flash season 9
+title: 'Flash S9: RIP Arrowverse'
 ---
 
 Previously: [Supergirl Finale and What Remains of the Arrowverse](/2021/11/supergirl-finale-arrowverse/)
