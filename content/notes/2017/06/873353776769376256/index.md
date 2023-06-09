@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/873353776769376256/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155735971578912
 tags:
 - BlackPanther
 - theblackpanther
@@ -16,4 +18,6 @@ tags:
 
 HERO. LEGEND. KING. Watch the teaser trailer now. #BlackPanther 
 
-{{< video width="320" height="133" src="https://video.twimg.com/amplify_video/873347809918935040/vid/866x360/Trgsx5w1dUFofili.mp4" >}}
+[Black Panther Teaser Trailer](https://www.youtube.com/watch?v=dxWvtMOGAhw)
+
+{{% youtube dxWvtMOGAhw %}}
