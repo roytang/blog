@@ -4,11 +4,11 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155745021948912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/874153151779057664/
 title: ''
 ---
 
-[Utada Hikaru - Boulevard of broken dreams (Cover)](https://www.youtube.com/attribution_link?a=M2NL-dAlUIE&u=%2Fwatch%3Fv%3DxRT1xPUIf3A%26feature%3Dshare)
-
-
+[Utada Hikaru - Boulevard of broken dreams (Cover)](https://www.youtube.com/watch?v=xRT1xPUIf3A)
 
 {{% youtube xRT1xPUIf3A %}}

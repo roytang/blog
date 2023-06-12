@@ -46,7 +46,7 @@ These are general reminders that I think anyone would find useful
 - Complete the backups review
 - Cash out at an Arena or Eternal open
 - Participate in Ludum Dare 52 (Jan 07) [[DONE]](/2023/01/ludum-dare-52-shooty-2/)
-- Participate in Ludum Dare 53 (Apr 28)
+- Participate in Ludum Dare 53 (Apr 28) [[SKIPPED]](/2023/04/3eadcd965f50bf77050d504402a31667/)
 - Participate in Ludum Dare 54 (Sep 29)
 - Travel to Singapore (Mar) - tickets are already booked, this will be my first international trip since the pandemic started! [[DONE]](/2023/03/sgtrip2023/)
 
@@ -103,8 +103,8 @@ From last year's list of 20 items, I watched 11, have not yet seen 4, 4 got post
 | Mar 24 | John Wick Chapter 4 | [[DONE]](/2023/03/john-wick-chapter-4-2023/) |
 | Mar 31 | Dungeons & Dragons: Honor Among Thieves | [[DONE]](/2023/04/dungeons-dragons-honor-among-thieves-2023/) |
 | Apr 07 | The Super Mario Bros. Movie | [[DONE]](/2023/04/the-super-mario-bros-movie-2023/) |
-| May 05 | Guardians of the Galaxy vol 3 | |
-| Jun 02 | Spider-Man: Across the Spider-Verse | |
+| May 05 | Guardians of the Galaxy vol 3 | [[DONE]](/2023/05/guardians-of-the-galaxy-vol-3-2023/) |
+| Jun 02 | Spider-Man: Across the Spider-Verse | [[DONE]](/2023/06/spider-man-across-the-spider-verse-2023/) |
 | Jun 09 | Transformers: Rise of the Beasts | |
 | Jun 16 | The Flash | |
 | Jun 30 | Indiana Jones and the Dial of Destiny | |
