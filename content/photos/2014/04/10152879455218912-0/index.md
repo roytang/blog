@@ -1,10 +1,5 @@
 ---
 date: 2014-04-05 17:50:00
-reviews:
-- description: ''
-  media: games
-  rating: 0.0
-  title: Bravely Default (3DS)
 source: facebook
 syndicated:
 - type: facebook

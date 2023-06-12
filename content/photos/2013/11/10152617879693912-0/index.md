@@ -1,10 +1,5 @@
 ---
 date: 2013-11-24 08:00:00
-reviews:
-- description: ''
-  media: games
-  rating: 0.0
-  title: 'The Legend of Zelda: A Link Between Worlds (3DS)'
 source: facebook
 syndicated:
 - type: facebook

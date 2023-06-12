@@ -14,9 +14,9 @@ for (let i=0; i<nodes.length; i++) { outlist.push({ "href": nodes[i].getAttribut
 
 
 template = """- hashtag: %s
-  description: ''
-  media: comics
-  title: '%s'"""
+  description: '3ds retro review'
+  media: games
+  title: '%s (3DS)'"""
 
 tocfile = Path("d:\\temp\\toc.json")
 with tocfile.open(encoding='UTF-8') as f:

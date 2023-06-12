@@ -1,10 +1,5 @@
 ---
 date: 2015-01-26 01:12:00
-reviews:
-- description: ''
-  media: Games
-  rating: 0.0
-  title: Fire Emblem Awakening (3DS)
 source: facebook
 syndicated:
 - type: facebook
