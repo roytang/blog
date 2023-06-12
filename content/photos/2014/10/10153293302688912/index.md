@@ -14,4 +14,8 @@ tags:
 - ps4share
 ---
 
-Trying out ps4 sharing
+Trying out ps4 sharing - Shadow of Mordor
+
+Edit 2023: Uploaded higher-res version to YT
+
+{{% youtube hHT-xTVJ_Mk %}}
