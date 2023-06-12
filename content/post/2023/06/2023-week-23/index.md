@@ -22,7 +22,7 @@ Things happening I'm not particularly interested in: Trump indicted on federal c
 ### Media Diet
 
 - **Gaming**: 
-    - Single player: Still playing a lot of *Legend of Zelda: Tears of the Kingdom*. The Switch says I have played it for "110 hours or more", and I am starting to get a little bit tired of it, but there's just so much to do! Am considering trying to finish the main quest this week, then leave the remainder of completion to be done in my spare time. I love the game, but there's a lot of other stuff I want to play too!
+    - Single player: Still playing a lot of **Legend of Zelda: Tears of the Kingdom**. The Switch says I have played it for "110 hours or more", and I am starting to get a little bit tired of it, but there's just so much to do! Am considering trying to finish the main quest this week, then leave the remainder of completion to be done in my spare time. I love the game, but there's a lot of other stuff I want to play too!
     - Online: 
         - **Magic Arena** and **Marvel Snap** daily grinds continue. Ranks were so bad last month.
         - **Eternal** being played roughly once a week.
