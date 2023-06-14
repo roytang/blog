@@ -37,6 +37,9 @@ reviews:
   hashtag: the-legend-of-zelda-a-link-between-worlds
   media: games
   title: 'The Legend of Zelda: A Link Between Worlds (3DS)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110537372273165897
 tags:
 - gaming
 - 3ds
