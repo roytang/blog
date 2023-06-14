@@ -1,5 +1,8 @@
 ---
-date: 2023-06-14T13:10:33+08:00
+date: 2023-06-14 05:10:33
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110540924163280446
 tags:
 - mtg
 - mtgmom
