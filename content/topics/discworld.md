@@ -22,7 +22,7 @@ Current read count: 16/41 (as of Feb 6, 2022)
 | 4 | Mort  | 1987 | Death  | Y | [2014](/2014/04/10152904609773912/) |
 | 5 | Sourcery  | 1988 | Rincewind | Y | |
 | 6 | Wyrd Sisters  | 1988 | Witches  | Y | [2022](/2022/04/weeknotes-04-17/#wyrd-sisters-by-terry-pratchett) |
-| 7 | Pyramids  | 1989 | Djelibeybi  | | |
+| 7 | Pyramids  | 1989 | Djelibeybi | Y | [2023](/2023/06/pyramids/) |
 | 8 | Guards! Guards!  | 1989 | City Watch  | Y | [2016](/2016/12/805050532834353152/), [2021](/2021/04/discworld-city-watch/) |
 | 9 | Eric  | 1990 | Rincewind  | Y | [2022](/2022/04/weeknotes-04-17/#eric-by-terry-pratchett) |
 | 10 | Moving Pictures  | 1990 | Industrial Revolution  | | |
