@@ -13,4 +13,4 @@ syndicated:
 title: ''
 ---
 
-[reddit] What foreigners think of the Philippines: ?sort=top
+[reddit] What foreigners think of the Philippines
