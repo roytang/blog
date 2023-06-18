@@ -1,6 +1,9 @@
 ---
-date: 2023-06-18T14:01:59+08:00
+date: 2023-06-18 06:01:59
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110564039357257494
 tags:
 - weeknotes
 title: 2023 Week 24
