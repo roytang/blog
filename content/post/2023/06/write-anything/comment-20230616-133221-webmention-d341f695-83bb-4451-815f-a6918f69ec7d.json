@@ -1,0 +1,32 @@
+{
+  "id": "d341f695-83bb-4451-815f-a6918f69ec7d",
+  "name": "bix.blog",
+  "url": "https://bix.blog/2023/Jun/15/normalize-being-whole-persons/",
+  "text": "Mentioned by https://bix.blog/2023/Jun/15/normalize-being-whole-persons/",
+  "date": "2023-06-16 13:32:21 +0800",
+  "photo": null,
+  "source_url": "https://bix.blog/2023/Jun/15/normalize-being-whole-persons/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://bix.blog/2023/Jun/15/normalize-being-whole-persons/",
+    "published": null,
+    "wm-received": "2023-06-16T05:32:21Z",
+    "wm-id": 1686855,
+    "wm-source": "https://bix.blog/2023/Jun/15/normalize-being-whole-persons/",
+    "wm-target": "https://roytang.net/2023/06/write-anything/",
+    "mention-of": "https://roytang.net/2023/06/write-anything/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://bix.blog/2023/Jun/15/normalize-being-whole-persons/"
+    }
+  }
+}
