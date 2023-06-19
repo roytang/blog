@@ -138,6 +138,10 @@ Total playtime: 33:35
 
 Lol this isn't really a game in the usual sense, but I spent so many hours in this app I thought I'd list it here anyway. Most of those hours were just gathering Streetpasses and putting together those puzzle things! Sadly, Streetpasses are super rare nowadays.
 
+As an indication of how uncreative I am, the only thing I did with my Mii was to put a pirate hat on him.
+
+{{% photos miiplaza %}}
+
 #### The Legend of Zelda
 
 Yes, the original game. This was [the first actual game I finished on the 3DS](/2011/10/120417058184892416/), since my 3DS came with the ambassador privilege that had free NES/SNES games. I wrote [a "review" for this one](/2023/05/nes-games/#15-legend-of-zelda-nes) recently.
