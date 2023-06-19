@@ -1,5 +1,5 @@
 ---
-date: 2023-06-19 14:42:35+08:00
+date: 2023-06-19 06:42:35
 dontinlinephotos: true
 reviews:
 - date: 2014-04-06
@@ -27,6 +27,9 @@ reviews:
   hashtag: persona-q-shadow-of-the-labyrinth
   media: games
   title: 'Persona Q: Shadow of the Labyrinth (3DS)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110569637187545041
 tags:
 - gaming
 - 3ds
