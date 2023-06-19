@@ -1,7 +1,6 @@
 ---
-date: 2023-06-20 12:42:35
+date: 2023-06-19 14:42:35+08:00
 dontinlinephotos: true
-draft: true
 reviews:
 - date: 2014-04-06
   description: 3DS retro review
@@ -37,6 +36,10 @@ title: 3DS Games Part 2
 toc: true
 ---
 
+### Intro
+
+This is part 2 of reviewing every 3DS game I've played. Part 1 is [here](/2023/06/3ds-games/).
+
 ### Bravely Default
 
 Started playing: 2014/03/08
@@ -53,7 +56,7 @@ Lol, I was surprised with that average playtime value when I was looking over th
 
 My only complaint is that most of the second half of the game (chapters 5-7) was unnecessarily and annoyingly repetitive. (["It's like if FF6 didn't have a World of Ruin"](/2014/05/ch967lj/)). I can understand why it was done story-wise, but wish it would have been implemented better.
 
-{{% photos albtw %}}
+{{% photos bravely %}}
 
 ### Super Smash Brothers for 3DS
 
@@ -138,3 +141,9 @@ Lol this isn't really a game in the usual sense, but I spent so many hours in th
 #### The Legend of Zelda
 
 Yes, the original game. This was [the first actual game I finished on the 3DS](/2011/10/120417058184892416/), since my 3DS came with the ambassador privilege that had free NES/SNES games. I wrote [a "review" for this one](/2023/05/nes-games/#15-legend-of-zelda-nes) recently.
+
+### Outro
+
+Whew, still a lot of words, but that should be it. My main takebacks from putting this together is (a) I really enjoyed the 3DS era even though I only spent [652 hours](/2022/02/1493818986571526146/resource/1493818986571526146_2_FLsbyVSUYAo3Xil.jpg/details/) total with it; and (b) there's a bunch of these games I wouldn't mind revisiting, if only I had more time. (The perpetual lament of those with too many backlogs.)
+
+I am thinking of doing a similar set of "retro review" posts for my PS3 games, which in theory I could reconstruct from achievement lists. The eventual goal would be to have my entire play history up on this site, although the SNES/PS1/PS2/NDS era would be challenging to find data on. We shall see!
