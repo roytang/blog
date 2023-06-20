@@ -24,20 +24,9 @@ title: Elections 2022 Aftermath
 
 <time id="1523856968359694337">[10:46]</time> My coping mechanism is quotes apparently
 
-
-
-
-
-{{% quoted url="https://twitter.com/roytang/status/747942885400580096" label="roytang's tweet" %}}
-
-"Success is not final, failure is not fatal: it is the courage to continue that counts" - W. Churchill
-
-{{% /quoted %}}
+{{% note "2016/06/747942885400580096/" %}}
 
 <time id="1523857086890749952">[10:46]</time> 
 
-{{% quoted url="https://twitter.com/roytang/status/952921296823664640" label="roytang's tweet" %}}
+{{% note "2018/01/952921296823664640/" %}}
 
-Time flows like a river, and history repeats
-
-{{% /quoted %}}

@@ -9,8 +9,4 @@ syndicated:
 
 Two presidential elections later and this isn't even true anymore =/ 
 
-{{% quoted url="https://twitter.com/roytang/status/7861466752" label="roytang's tweet" %}}
-
-it's sad that the best thing the leading presidential candidate can say is "hindi ako magnanakaw"
-
-{{% /quoted %}}
+{{% note "2010/01/7861466752/" %}}

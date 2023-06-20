@@ -11,8 +11,4 @@ tags:
 
 Re: Dusting on #MagicArena 
 
-{{% quoted url="https://twitter.com/roytang/status/397158035467956224" label="roytang's tweet" %}}
-
-Just dumped a whole bunch of MTGO rares.mythics so that I could play constructed. Selling always makes me feel bad =/
-
-{{% /quoted %}}
+{{% note "2013/11/397158035467956224/" %}}
