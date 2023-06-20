@@ -10,8 +10,4 @@ title: ''
 
 Update: YES 
 
-{{% quoted url="https://twitter.com/roytang/status/612482409594904576" label="roytang's tweet" %}}
-
-I wonder if the FF7 remake will have that enemy who's like an animated house
-
-{{% /quoted %}}
+{{% note "/2015/06/612482409594904576" %}}

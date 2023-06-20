@@ -12,4 +12,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155775630838912
 ---
 
-RT [@TMPRMNTLBRAT](https://twitter.com/TMPRMNTLBRAT/): Authoritarianism is making a comeback. Here's the time-tested way to defeat it  https://www.theguardian.com/commentisfree/2017/jun/20/authoritarianism-trump-resistance-defeat?CMP=share_btn_tw
+Authoritarianism is making a comeback. Here's the time-tested way to defeat it  https://www.theguardian.com/commentisfree/2017/jun/20/authoritarianism-trump-resistance-defeat
