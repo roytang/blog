@@ -8,8 +8,4 @@ syndicated:
 
 Never forget: Before the temperamental brats, there were the rotten bananas! 
 
-{{% quoted url="https://twitter.com/roytang/status/431649435047583745" label="roytang's tweet" %}}
-
-[@talk2GLOBE](https://twitter.com/talk2GLOBE/) did you just call 3% of your customers rotten bananas? Saging lang may puso!
-
-{{% /quoted %}}
+{{% note "2014/02/431649435047583745" %}}

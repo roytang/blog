@@ -8,4 +8,14 @@ tags:
 - mama
 ---
 
-(Watching Lion King) Me: Ma, mamatay si Mufasa Ma: Hinde ah! Me: Haha napanood mo na ba ito? (After Mufasa gets caught in the stampede) Ma: Oo nga!
+(Watching Lion King) 
+
+Me: Ma, mamatay si Mufasa 
+
+Ma: Hinde ah! 
+
+Me: Haha napanood mo na ba ito? 
+
+(After Mufasa gets caught in the stampede) 
+
+Ma: Oo nga!

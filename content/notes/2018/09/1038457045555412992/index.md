@@ -9,8 +9,4 @@ title: ''
 
 Three years later and this is still a problem for me. Different context now though 
 
-{{% quoted url="https://twitter.com/roytang/status/641350335810834434" label="roytang's tweet" %}}
-
-Need to stop worrying about things I can't control =/
-
-{{% /quoted %}}
+{{% note "2015/09/641350335810834434" %}}

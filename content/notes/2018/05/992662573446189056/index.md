@@ -14,8 +14,4 @@ title: ''
 
 [@rhymewithrachel](https://twitter.com/rhymewithrachel/) 
 
-{{% quoted url="https://twitter.com/roytang/status/990911105055670272/" label="roytang's tweet" %}}
-
-Infinity War spoiler: we didnt get this scene (yet), maybe in avengers 4 
-
-{{% /quoted %}}
+{{% note "2018/04/990911105055670272" %}}

@@ -11,8 +11,4 @@ title: ''
 
 #MarcosNOTaHero 
 
-{{% quoted url="https://twitter.com/roytang/status/796338279813644289" label="roytang's tweet" %}}
-
-One more because I was in the mood. "Still not enough" - ML victims https://www.instagram.com/p/BMlyk9JBw1b/ 
-
-{{% /quoted %}}
+{{% note "2016/11/BMlyk9JBw1b" %}}
