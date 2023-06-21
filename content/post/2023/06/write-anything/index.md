@@ -5,6 +5,7 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/110467723811777897
 tags:
 - blogging
+- favorites
 title: You Can Write About Anything
 ---
 

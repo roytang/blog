@@ -2,12 +2,13 @@
 author: Roy
 categories: []
 date: 2008-09-08 00:00:35
+dontinlinephotos: true
 tags:
 - Meta
+- desktops
 title: Blast From The Past -- 2004 Desktop
 type: post
 url: /2008/09/blast-from-the-past-2004-desktop/
-dontinlinephotos: true
 ---
 
 I was going through some old files today, I found this screenshot of my desktop from 2004:

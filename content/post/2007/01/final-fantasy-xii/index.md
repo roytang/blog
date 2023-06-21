@@ -1,6 +1,11 @@
 ---
 categories: []
 date: 2007-01-10 01:17:11
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Final Fantasy XII (PS2)
 tags:
 - Gaming
 title: Final Fantasy XII

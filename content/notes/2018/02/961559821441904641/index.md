@@ -12,8 +12,4 @@ tags:
 
 [@Netflix_PH](https://twitter.com/Netflix_PH/) [@NetflixAsia](https://twitter.com/NetflixAsia/) this is your annual reminder that we still dont have Voltron Legendary Defender 
 
-{{% quoted url="https://twitter.com/roytang/status/829422877518680064" label="roytang's tweet" %}}
-
-[@Netflix_PH](https://twitter.com/Netflix_PH/) [@NetflixAsia](https://twitter.com/NetflixAsia/) when are we getting Voltron Legendary Defender!!
-
-{{% /quoted %}}
+{{% note "2017/02/829422877518680064" %}}

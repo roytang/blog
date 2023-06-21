@@ -5,6 +5,7 @@ date: 2007-05-10 04:52:24
 tags:
 - Hardware
 - Tech Life
+- phones
 title: Indulgence -- the Nokia N73
 type: post
 url: /2007/05/indulgence-the-nokia-n73/

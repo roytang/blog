@@ -1,8 +1,14 @@
 ---
 categories: []
 date: 2007-10-13 23:49:01
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Legend of Zelda: Phantom Hourglass (NDS)'
 tags:
 - Gaming
+- zelda
 title: Legend of Zelda -- Phantom Hourglass
 type: post
 url: /2007/10/legend-of-zelda-phantom-hourglass/
