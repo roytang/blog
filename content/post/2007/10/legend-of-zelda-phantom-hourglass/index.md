@@ -9,6 +9,7 @@ reviews:
 tags:
 - Gaming
 - zelda
+- games
 title: Legend of Zelda -- Phantom Hourglass
 type: post
 url: /2007/10/legend-of-zelda-phantom-hourglass/
