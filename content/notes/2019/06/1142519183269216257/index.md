@@ -24,21 +24,7 @@ Ugh started out 1-2 at #mtgseattle. Time for the mythical 6-0 run!
 
 <time>[04:01]</time> Damn it I forgot my own rules! 
 
-{{% quoted url="https://twitter.com/roytang/status/941696039941111808" label="roytang's tweet" %}}
-
-1. read the cards
-
-2. mulligan well
-
-3. think before scooping
-
-4. life is unfair
-
-
-
-#mtg
-
-{{% /quoted %}}
+{{% note "2017/12/941696039941111808" %}}
 
 <time>[05:02]</time> Sigh. Dropped out of the #mtgseattle main event at 1-3. D: Deck didnt even want to play this time gave me 15 lands drawn in one game. Sad face
 

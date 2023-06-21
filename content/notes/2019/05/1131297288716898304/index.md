@@ -11,8 +11,4 @@ title: ''
 
 If you had told me six years ago that Nancy Binay would be the best one  among the incumbents in 2019, I'd have laughed your face off 
 
-{{% quoted url="https://twitter.com/roytang/status/332668148627156996" label="roytang's tweet" %}}
-
-How do senatoriables with stronger track records justify running in the same slate as Nancy? Can't remember any rushing to defend her. #fb
-
-{{% /quoted %}}
+{{% note "2013/05/332668148627156996" %}}

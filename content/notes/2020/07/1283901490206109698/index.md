@@ -2,6 +2,7 @@
 date: 2020-07-16 23:09:03
 dontinlinephotos: true
 source: twitter
+title: MTG Jumpstart
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1283901490206109698/
@@ -79,11 +80,7 @@ Thread of #mtg JumpStart results: Attempt 1: Milling Elves, 2-0.
 
 [2020-07-22 21:59] Video of attempts 8 and 9 here: 
 
-{{% quoted url="https://twitter.com/roytang/status/1285937310777790464" label="roytang's tweet" %}}
-
-Played two Jumpstarts! YT: https://www.youtube.com/watch?v=u1KtPh_xoLo
-
-{{% /quoted %}}
+{{% note "2020/07/1285896902584733696" %}}
 
 [2020-07-29 23:29] Attempt 10: Chandra Angels. 2-2. Losses were due to clunky hands (drawings fives and sixes while being stuck at 3-4 lands) 
 
@@ -95,15 +92,9 @@ Played two Jumpstarts! YT: https://www.youtube.com/watch?v=u1KtPh_xoLo
 
 [2020-08-02 23:43] Attempts 12-14! Rogues Cats 2-1, Seismic Predatory 2-3, Phyrexian Plus One 2-3
 
-
-
 Video here:  
 
-{{% quoted url="https://twitter.com/roytang/status/1289949243390570497" label="roytang's tweet" %}}
-
-Played 3 Jumpstart decks! YT: https://www.youtube.com/watch?v=qHCF4vLlcKQ
-
-{{% /quoted %}}
+{{% note "2020/08/1289907076118978560" %}}
 
 {{< photos 1289949938718138368 >}}
 

@@ -9,8 +9,4 @@ title: ''
 
 So I remembered that I once used an app to make a font patterned after my own handwriting (). For fun, I tried to see what my website would look like with this font. OMG, this is why I don't like handwritten notes lol 
 
-{{% quoted url="https://twitter.com/roytang/status/1011963007709003776" label="roytang's tweet" %}}
-
-I totally had more important things to do, but it was there so... 
-
-{{% /quoted %}}
+{{% note "2018/06/1011963007709003776 %}}

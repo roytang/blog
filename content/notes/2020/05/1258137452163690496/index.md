@@ -9,8 +9,4 @@ title: ''
 
 I found it!  
 
-{{% quoted url="https://twitter.com/roytang/status/1257912702619414534" label="roytang's tweet" %}}
-
-Looking for something I saw here on Twitter yesterday: a four panel tagalog webcomic where a certain notorious local politican kept adding GO to the end of someone else’s speech bubbles. Anyone else remember it?
-
-{{% /quoted %}}
+{{% note "2020/05/1257912702619414534/" %}}

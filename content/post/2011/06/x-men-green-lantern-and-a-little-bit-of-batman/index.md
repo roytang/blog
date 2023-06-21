@@ -17,9 +17,17 @@ syndicated:
   url: https://twitter.com/roytang/statuses/84274605216382976/
 reviews:
 - media: movies
-  title: "X-Men: First Class (2011)"
+  title: "X-Men: First Class"
+  year: 2011
+  hashtag: x-men-first-class
 - media: movies
-  title: "Green Lantern (2011)"
+  title: "Green Lantern"
+  year: 2011
+  hashtag: green-lantern
+- media: movies
+  title: "Batman: Under the Red Hood"
+  year: 2010
+  hashtag: batman-under-the-red-hood
 ---
 
 So Metro Manila is at the peril of heavy rains, flooding and traffic again (as often happens this time of the year) and I thought I'd do some actual blogging for a change.
@@ -30,18 +38,24 @@ At some level though I've started thinking that being a big comic book fan is ac
 
 I may have subconsciously delayed watching X1C because one of my brothers had watched it while I was in Singapore and didn't really give the gushing review "regular" people had given. And GL wasn't getting such rave reviews on opening weekend either and there were rumors that even the studio was not confident in the movie. So I came into both movies with a bit of lowered expectations.
 
+### X-Men First Class
+
 My quick reviews of the two movies first then: X1C was fun and it was nice seeing an entirely new crew of mutants (more or less). I can forgive the ridiculous recruitment and training montages (and lol'ed at the cameo). It looks they didn't bother keeping in continuity with the first trilogy and Wolverine: Origins, which is fine since Wolverine: Origins was ridiculous anyway. The ending felt a bit contrived in the same way that the ending of Smallville and Wolverine: Origins did -- mainly because they need to wrap up things to sync with whatever "continuity" they're supposed to have. The movie feels a bit campy at times and it's far from the "Dark Knight of X-Men" that some reviews made it out to be, but still a good watch.
+
+### Green Lantern
 
 Green Lantern was fun as well, though the writing left a bit to be desired for me. At some points the abrupt transitions and especially the poor portrayal of Carol Ferris reminded me of Smallville-quality writing at some point. It's still a good movie to watch and the scale is definitely more epic than X1C, but it kind of left me hanging the same way Thor did: it's like there wasn't much that happened in the movie aside from the telling of the origin story.
 
 Maybe I was just spoiled by Nolan, but Batman Begins set a new height for me in terms of superhero origin movies, and the latest set have yet to reach that bar.
 
+### Batman: Under the Red Hood
+
 Speaking of Batman I've also just finished watching the DC straight to video animated feature "Under the Red Hood" which covers the death and resurrection of Jason Todd (duh, spoilers) and to be honest I found the climactic scene more well-written than the above two movies. But then again Under the Red Hood follows the comic book story arc more closely so I guess it's closer to the type of stories I enjoy on a regular basis. In fact I find that the DC animated film line to be pretty good; not something I'd watch in a cinema or anything but enjoyable enough.
+
+### Ramblings
 
 This is just really more or less random ramblings about comic books and comic book movies so here's something else I thought of while watching X1C: the problem with the character of Magneto or in general any character whose origin story or background is tied to a real-life historical event the same way Magneto's is tied to the holocaust. See the problem is that comic book characters live in some sort of time-distorting reality bubble where they don't grow old as fast as the readers do. Characters like Magneto however, have no choice but to grow old at the regular rate, since we cannot move the historical dates upon which their characters are based. In twenty to thirty years, Magneto will be a hundred years old regardless of what happens in X-Men continuity. How will they make X-Men movies then, will they have a hundred year-old Ian McKellen take the role? With the character of Magneto anchored in time, the fictional world of the X-Men remains tied to a particular era. They'll probably come up with some handwaved solution about how his powers include not aging; or maybe they'll take a bold leap and actually kill him off permanently (hey, they haven't brought back Jean Grey for a while right?)
 
 On a side note, the first character that I ever noticed had this problem was Bab from Pugad Baboy.
 
 Anyway maybe that's enough rambling for now. Looking forward to Captain America, Transformers 3, etc, etc. Despite my not being 100% satisfied with the current wave of superhero movies, it's still a good time to be a comic book fan. 😀
-
-&nbsp;

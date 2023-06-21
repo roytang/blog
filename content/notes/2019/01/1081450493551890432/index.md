@@ -8,8 +8,4 @@ syndicated:
 
 Second day: i’ve violated this so many times already 
 
-{{% quoted url="https://twitter.com/roytang/status/1081210289947734016" label="roytang's tweet" %}}
-
-New rule: maximum one Slay the Spire run per day. Too easy to get sucked in!
-
-{{% /quoted %}}
+{{% note "2019/01/1081210289947734016" %}}
