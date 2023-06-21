@@ -8,6 +8,7 @@ reviews:
   title: Final Fantasy XII (PS2)
 tags:
 - Gaming
+- games
 title: Final Fantasy XII
 type: post
 url: /2007/01/final-fantasy-xii/
