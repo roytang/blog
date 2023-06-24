@@ -88,7 +88,7 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 ### General Arena Stats
 
-These are compiled from the stats emails Arena sends out per set. ([mtgarenastats tag](/tags/mtgarenastats))Not wildly consistent.
+These are compiled from the stats emails Arena sends out per set ([mtgarenastats tag](/tags/mtgarenastats)). Not wildly consistent.
 
 | Set | Date | Boosters Opened | Favorite Color | Favorite Format | Mastery Level | Constructed Rank | Limited Rank | Games Played | Quest Gold | Daily Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
