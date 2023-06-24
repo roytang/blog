@@ -121,12 +121,6 @@ tags:
 
 <time>[2016-11-18 15:45] </time> I think this is officially the most words I have written in all #NaNoWriMo attempts (since the very first one) 
 
-{{% quoted url="https://twitter.com/roytang/status/799517634911997952" label="roytang's tweet" %}}
-
-#Nanowrimo2016 Day 18: +1850 words, 30190 total
-
-{{% /quoted %}}
-
 <time>[2016-11-19 15:06] </time> #Nanowrimo2016 Day 19: +1561 words, 31751 total
 
 <time>[2016-11-20 15:29] </time> #Nanowrimo2016 Day 20: +1650 words, 33401 total. 10 more days to go!

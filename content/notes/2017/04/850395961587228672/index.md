@@ -9,8 +9,4 @@ title: ''
 
 Happy birthday [@rocketkeis](https://twitter.com/rocketkeis/)! 
 
-{{% quoted url="https://twitter.com/roytang/status/453218189036359680" label="roytang's tweet" %}}
-
-[@rocketkeis](https://twitter.com/rocketkeis/) happy birthday! :D
-
-{{% /quoted %}}
+{{% note "2014/04/453218189036359680" %}}

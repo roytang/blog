@@ -8,8 +8,4 @@ syndicated:
 
 Life is too short for unwanted push notifications (and for correcting tweets where you accidentally a word) 
 
-{{% quoted url="https://twitter.com/roytang/status/952584353967558656" label="roytang's tweet" %}}
-
-how do disable the “recently updated ther stories” notification in [@instagram](https://twitter.com/instagram/)?
-
-{{% /quoted %}}
+{{% note "2018/01/952584353967558656" %}}
