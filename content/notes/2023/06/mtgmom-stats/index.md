@@ -1,9 +1,12 @@
 ---
-title: "March of the Machine Arena Stats"
-date: 2023-06-24T14:37:02+08:00
+date: 2023-06-24 06:37:02
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110597854962214344
 tags:
 - mtgarenastats
 - mtgmom
+title: March of the Machine Arena Stats
 ---
 
 #MTGArenaStats email for #MTGMOM dropped. 
