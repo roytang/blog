@@ -1,10 +1,16 @@
 ---
 date: 2002-07-27 00:00:00
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Final Fantasy X (PS2)
 source: roywantsmeat
 syndicated:
 - type: blogger
   url: ''
-tags: []
+tags:
+- games
 title: 27 Jul 2002
 ---
 

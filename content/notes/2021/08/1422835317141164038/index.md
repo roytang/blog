@@ -9,8 +9,4 @@ syndicated:
 
 This aged kinda well. Still waiting on the holiday. 
 
-{{% quoted url="https://twitter.com/roytang/status/764282694356172801" label="roytang's tweet" %}}
-
-Siguro pag may nanalo ng gold medal na Pilipino, magkakaron tayo ng holiday, sangkaterbang parada, at bagong national hero
-
-{{% /quoted %}}
+{{% note "2016/08/764282694356172801" %}}

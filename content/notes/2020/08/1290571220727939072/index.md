@@ -25,8 +25,4 @@ Try my triviabot: [@triviastorm](https://twitter.com/triviastorm/), it's fun!
 
 Feel free to DM me. 
 
-{{% quoted url="https://twitter.com/roytang/status/1161498867004837889" label="roytang's tweet" %}}
-
-Open to questions on Java, JS, Python, software architecture, software development in general, career stuff, the Philippines, life in general. DMs are open. https://twitter.com/sehurlburt/status/889004724669661184
-
-{{% /quoted %}}
+{{% note "2019/08/1161498867004837889" %}}

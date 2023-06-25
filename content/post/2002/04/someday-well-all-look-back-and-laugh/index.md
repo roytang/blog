@@ -2,12 +2,18 @@
 author: Roy
 categories: []
 date: 2002-04-14 05:00:19
+reviews:
+- description: ''
+  media: games
+  rating: 0.0
+  title: Tales of Phantasia (SNES)
 source: roywantsmeat
 syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2002/04/someday-well-all-look-back-and-laugh.html
 tags:
 - Legacy Blog Posts
+- games
 title: Someday we'll all look back and laugh.
 type: post
 url: /2002/04/someday-well-all-look-back-and-laugh/

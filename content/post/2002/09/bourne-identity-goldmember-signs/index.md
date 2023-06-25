@@ -11,14 +11,20 @@ type: post
 url: /2002/09/bourne-identity-goldmember-signs/
 reviews:
 - media: movies
-  title: "The Bourne Identity (2002)"
+  title: "The Bourne Identity"
+  year: 2002
+  hashtag: the-bourne-identity
 - media: movies
-  title: "Austin Powers in Goldmember (2002)"
+  title: "Austin Powers in Goldmember"
+  year: 2002
+  hashtag: austin-powers-in-goldmember
 - media: movies
-  title: "Signs (2002)"
+  title: "Signs"
+  year: 2002
+  hashtag: signs
 ---
 
-##### The Bourne Identity
+### The Bourne Identity
 
 A new action hero is Bourne
 
@@ -36,7 +42,7 @@ but the story is told well enough.
 
 * * *
 
-##### Austin Powers in Goldmember
+### Austin Powers in Goldmember
 
 Do I make you horny baby?
 
@@ -48,7 +54,7 @@ Overall: I liked the second one better, but this one's good too. As is the case
 
 * * *
 
-##### Signs
+### Signs
 
 Crop circles? This isn't the X-files is it?
 

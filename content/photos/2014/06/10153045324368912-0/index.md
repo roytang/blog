@@ -1,5 +1,8 @@
 ---
 date: 2014-06-23 13:18:00
+resources:
+- src: 20140623_205419.jpg
+  title: 'Logitech F710 wireless controller'
 source: facebook
 syndicated:
 - type: facebook
