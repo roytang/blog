@@ -10,6 +10,11 @@ submenu: "stats"
 
 ### Live Stats (Automatically updated)
 
+#### Totals
+
+<ul id="totals">
+</ul>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.6.2/chart.min.js" integrity="sha512-tMabqarPtykgDtdtSqCL3uLVM0gS1ZkUAVhRFu1vSEFgvB73niFQWJuvviDyBGBH22Lcau4rHB5p2K2T0Xvr6Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 #### Post Counts
@@ -25,6 +30,11 @@ submenu: "stats"
 <canvas class="chart" id="chart_syndication" width="400" height="200"></canvas>
 
 <small>Only the major syndication sources are included in the chart.</small>
+
+#### Most Commented Posts
+
+<ol id="mostCommented">
+</ol>
 
 #### Top Commenters
 
@@ -42,6 +52,44 @@ submenu: "stats"
         links: 'rgba(99, 255, 99, 0.5)',
         comments: 'rgba(180, 180, 99, 0.5)',
     }
+    let labels = {
+        blog: "Blog Posts",
+        links: "Shared Links",
+        notes: "Notes",
+        wordcount: "Word Count",
+        comments: "Comments"
+    }
+    function getTotals() {
+        fetch("/others/stats/totals/")
+            .then(function(response) {
+                return response.json();
+            })
+            .then(function(jsonResponse) {
+                let listEl = document.querySelector("ul#totals");
+                for (let section in jsonResponse["sections"]) {
+                    let listItem = document.createElement("li");
+                    listItem.innerText = labels[section] + ": " + jsonResponse["sections"][section];
+                    listEl.appendChild(listItem);
+                }
+            });
+        fetch("/others/stats/mostcommented/")
+            .then(function(response) {
+                return response.json();
+            })
+            .then(function(jsonResponse) {
+                let listEl = document.querySelector("ol#mostCommented");
+                jsonResponse.forEach(function(post) {
+                    console.log(post);
+                    let listItem = document.createElement("li");
+                    let anchor = document.createElement("a");
+                    anchor["href"] = post["permalink"]
+                    anchor.innerText = post["title"] + " (" + post["count"] + " comments)"
+                    listItem.appendChild(anchor);
+                    listEl.appendChild(listItem);
+                });
+            });
+    }
+    getTotals();
     function yearlyGraph(url, element_id, include_sections=false) {
         fetch(url)
             .then(function(response) {

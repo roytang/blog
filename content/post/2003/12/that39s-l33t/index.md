@@ -2,6 +2,9 @@
 author: roy
 categories: []
 date: 2003-12-12 14:05:46
+resources:
+- src: 24017078.original.jpg
+  title: Original image retrieved via wayback machine
 source: roywantsmeat
 syndicated:
 - type: blogger
