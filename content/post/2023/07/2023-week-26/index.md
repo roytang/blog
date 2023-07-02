@@ -1,6 +1,9 @@
 ---
-date: 2023-07-02T16:12:58+08:00
+date: 2023-07-02 08:12:58
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110643698776765154
 tags:
 - weeknotes
 title: 2023 Week 26 This Too Shall Pass
