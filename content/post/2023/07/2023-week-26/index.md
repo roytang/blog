@@ -12,6 +12,8 @@ Amazingly, we somehow made it halfway through 2023. Time continues to flow faste
 
 Twitter continues to be terrible. This weekend, they started denying access to non-logged in users and also started rate-limiting how many tweets you can read per day, which is ridiculous for a social media platform. Some people speculate it's because Elon stopped paying for their Google Cloud infra, but apparently [that relationship has been patched up](https://www.bloomberg.com/news/articles/2023-06-21/twitter-resumes-paying-google-cloud-patching-up-relationship).
 
+{{% img src="twitter-rate-limited.png" %}}
+
 ### My Week
 
 Since it's the end of month, I had the usual end-of-month errands to see to. Finance health checks, buying meds for the parents, and also accompanying one of them for some routine tests.
