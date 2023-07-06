@@ -5,6 +5,9 @@ reviews:
   media: games
   rating: 5.0
   title: 'The Legend of Zelda: Tears of the Kingdom (Switch)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110665563093292971
 tags:
 - zelda
 - gaming
