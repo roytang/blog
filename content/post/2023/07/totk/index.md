@@ -28,6 +28,7 @@ I got into this way more than I did with BotW. I finished BotW with 109/120 shri
 
 End game stats:
 
+- Play time: 155 hours or more
 - 152/152 Shrines
 - 120/120 Lightroots
 - 165/1000 Korok Seeds (WTH, 1000?!?)
