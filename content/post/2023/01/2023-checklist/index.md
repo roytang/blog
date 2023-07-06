@@ -58,7 +58,7 @@ New releases I'm looking forward to:
 
 | <!-- -->    | <!-- -->    | <!-- --> |
 |-------------|-------------|----------|
-| May 12 | Legends of Zelda: Tears of the Kingdom | Switch |
+| May 12 | Legends of Zelda: Tears of the Kingdom [[DONE]](/2023/07/totk/) | Switch |
 | Jun 02 | Street Fighter 6 | PC |
 | Jun 22 | Final Fantasy XVI | PS5, but will probably play on PC, expected around 6mo after PS5 release |
 
@@ -106,7 +106,7 @@ From last year's list of 20 items, I watched 11, have not yet seen 4, 4 got post
 | May 05 | Guardians of the Galaxy vol 3 | [[DONE]](/2023/05/guardians-of-the-galaxy-vol-3-2023/) |
 | Jun 02 | Spider-Man: Across the Spider-Verse | [[DONE]](/2023/06/spider-man-across-the-spider-verse-2023/) |
 | Jun 09 | Transformers: Rise of the Beasts | |
-| Jun 16 | The Flash | |
+| Jun 16 | The Flash | [[DONE]](/2023/06/the-flash-2023/) |
 | Jun 30 | Indiana Jones and the Dial of Destiny | |
 | Jul 14 | Mission: Impossible – Dead Reckoning Part One | |
 | Jul 21 | Oppenheimer | I haven't even seen Tenet yet |

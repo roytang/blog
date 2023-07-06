@@ -5,6 +5,8 @@ location: 4c9a063b9c663704bed754fd
 resources:
 - src: geekfight.jpg
   title: 'Source: Geekfight Trivia Night @ Facebook'
+- src: 2012-03-09-quantum-580703_10150699998793067_1025301112_n.jpg
+  title: 'Source: Geekfight Trivia Night @ Facebook'
 source: twitter
 syndicated:
 - type: twitter
