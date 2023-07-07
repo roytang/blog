@@ -42,6 +42,7 @@ Some scenes of interest I noted:
 - Two Towers has always been my favorite of this trilogy and that's because the defense of Helm's Deep remains my favorite battle sequence in the whole trilogy. Just a great desperate continuous defense from start to finish until Gandalf finally appears with the dawn when all hope is lost. The comparable battle is of course the Battle of Pelennor Field in ROTK, but that feels like it has much less emotional impact because (a) backup arrives twice (once when the armies of Rohan arrive, and second when Aragorn arrives with his spirit warriors); and (b) It does not serve as the climax of the film.
 - Don't get me wrong, I loved ROTK as well. The showdown at the Black Gate was great as well, although I question the timing of the cuts between the Black Gate and Frodo and Sam trying to climb up the mountain because it feels like the armies of Men would have fallen long before the two Hobbits could get up that mountain!
 - "My friends, you bow to no one." My favorite part of this ending, very emotionally charged.
+- Edit: Also every scene where Andy Serkis portrays Gollum and Smeagol talking to each other seamlessly.
 - I fully understand why the Scouring of the Shire did not make it into these films, it would have come off quite weird tonally and in terms of plot after the above.
 
 That's it! I love this trilogy and movies and this will certainly not be the last time I rewatch them. 2023 is coincidentally the 20th year since the release of ROTK, so maybe rewatch again in 2023?
