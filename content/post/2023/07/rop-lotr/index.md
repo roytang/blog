@@ -1,21 +1,24 @@
 ---
-title: "Rings of Power + LOTR trilogy rewatch"
-date: 2023-07-08T00:59:14+08:00
+date: 2023-07-07 16:59:14
+reviews:
+- hashtag: rings-of-power
+  media: tv
+  rating: 3.5
+  title: 'The Lord of the Rings: The Rings of Power'
+  year: 2022
+- description: Rewatch
+  hashtag: lotr-trilogy
+  media: movies
+  rating: 5.0
+  title: Lord of the Rings trilogy
+  year: 2001-2003
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110673977398165845
 tags:
 - tv
 - movies
-reviews:
-- media: tv
-  title: "The Lord of the Rings: The Rings of Power"
-  rating: 3.5
-  year: 2022
-  hashtag: rings-of-power
-- media: movies
-  title: Lord of the Rings trilogy
-  description: Rewatch
-  year: 2001-2003
-  rating: 5.0
-  hashtag: lotr-trilogy
+title: Rings of Power + LOTR trilogy rewatch
 ---
 
 ### Rings of Power
@@ -45,5 +48,4 @@ That's it! I love this trilogy and movies and this will certainly not be the las
 
 ### Epilogue
 
-Sadly, we did not do so well in the LOTR category [in the relevant quiz night](/2023/07/geekfight-fandom/) lol. 
-
+Sadly, we did not do so well in the LOTR category [in the relevant quiz night](/2023/07/geekfight-fandom/) lol.
