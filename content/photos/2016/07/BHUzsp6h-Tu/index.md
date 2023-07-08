@@ -1,5 +1,10 @@
 ---
 date: 2016-07-01 16:12:33
+resources:
+- src: 13584724_10153753738578067_508574269180903848_o.jpg
+  title: 'Image source: Geekfight Trivia Night'
+- src: 13653037_10153753772113067_1333132971149764577_o.jpg
+  title: 'Image source: Geekfight Trivia Night'
 source: instagram
 syndicated:
 - type: instagram

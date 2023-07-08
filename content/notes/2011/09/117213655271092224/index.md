@@ -10,6 +10,7 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/4e7c7b57775bece8f0ed25dd
 tags:
 - quiznight
+- geekfight
 ---
 
 I'm at Quantum Cafe (Bagtikan corner Kamagong, Makati) http://4sq.com/qI2psD
