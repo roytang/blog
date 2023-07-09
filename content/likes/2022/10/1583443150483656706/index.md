@@ -114,7 +114,7 @@ Fifty. Percent. Mortality.
 
 
 
-{{% quoted url="https://twitter.com/rzhongnotes/status/1581857979636191232?t=hVUa81eTWEgZlirMZbWw-g&s=19/" label="rzhongnotes's tweet" %}}
+{{% quoted url="https://twitter.com/rzhongnotes/status/1581857979636191232" label="rzhongnotes's tweet" %}}
 
 Wait I can't believe Asians sat through decades of being insulted about our food and our relationship to various animals and white influencers that have farms can just chill with a bird that has bird flu for clout
 
@@ -124,7 +124,7 @@ Wait I can't believe Asians sat through decades of being insulted about our food
 
 
 
-{{% quoted url="https://twitter.com/RihIsJamaican/status/1259186599813881856?t=hVUa81eTWEgZlirMZbWw-g&s=19/" label="RihIsJamaican's tweet" %}}
+{{% quoted url="https://twitter.com/RihIsJamaican/status/1259186599813881856" label="RihIsJamaican's tweet" %}}
 
 
 

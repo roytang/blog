@@ -250,7 +250,7 @@ Let's look at all the good things the Accords did. These are the "consequences" 
 
 (Bonus: Protest to the Hays Code) 
 
-{{% quoted url="https://twitter.com/gvaughnjoy/status/1443525704096919552?t=2dX5DwXEDDDkcjyoT1iz_w&s=19/" label="gvaughnjoy's tweet" %}}
+{{% quoted url="https://twitter.com/gvaughnjoy/status/1443525704096919552" label="gvaughnjoy's tweet" %}}
 
 In 1934, photographer A. L. “Whitey” Schafer staged this photo to violate the Hays Code's censorship decrees in as many ways as possible in a single picture. A short thread: 
 
@@ -318,7 +318,7 @@ They cite the pandemic and streaming but it's also the P Accords
 
 
 
-{{% quoted url="https://twitter.com/gvaughnjoy/status/1527073416133627904?t=s8fmM4YpHbNkdrCi6kqLLw&s=19/" label="gvaughnjoy's tweet" %}}
+{{% quoted url="https://twitter.com/gvaughnjoy/status/1527073416133627904" label="gvaughnjoy's tweet" %}}
 
 I'm going to weigh in on the "sex in film/TV is mostly unnecessary" debate as a film historian and human.
 
@@ -336,7 +336,7 @@ Sex is a beautiful and wonderful part of humanity and if you think it's unnecess
 
 
 
-{{% quoted url="https://twitter.com/gvaughnjoy/status/1567243059846316034?t=bH8EhJUQ8oFLrNIJJxuhMQ&s=19/" label="gvaughnjoy's tweet" %}}
+{{% quoted url="https://twitter.com/gvaughnjoy/status/1567243059846316034" label="gvaughnjoy's tweet" %}}
 
 Twitter, if you enjoyed my thread on the Paramount Accords/divorcement, please have a think about what we can do to help, like, here: Generate some noise and passion to SAVE THIS CINEMA https://twitter.com/CineramaSave/status/1567242480063762434
 
@@ -344,17 +344,17 @@ Twitter, if you enjoyed my thread on the Paramount Accords/divorcement, please h
 
 <time id="1567383429552955392">[2022-09-07 13:25] </time> 
 
-{{% quoted url="https://twitter.com/gvaughnjoy/status/1567310627256897540?t=6A9O-V5NcGD3fJoK0RYRxQ&s=19/" label="gvaughnjoy's tweet" %}}
+{{% quoted url="https://twitter.com/gvaughnjoy/status/1567310627256897540" label="gvaughnjoy's tweet" %}}
 
 Clarification: 
 
-https://twitter.com/gvaughnjoy/status/1567307438633648130?t=41Qmf_ke9XMuon19pa28wA&s=19
+https://twitter.com/gvaughnjoy/status/1567307438633648130
 
 {{% /quoted %}}
 
 <time id="1567495402697494533">[2022-09-07 20:50] </time> 
 
-{{% quoted url="https://twitter.com/gvaughnjoy/status/1567470106514530305?t=zlthEj-WXX1INWjB7YEPGQ&s=19/" label="gvaughnjoy's tweet" %}}
+{{% quoted url="https://twitter.com/gvaughnjoy/status/1567470106514530305" label="gvaughnjoy's tweet" %}}
 
 Here's a list of other historians, podcasts, and accounts who are far more amazing than I. Please follow them and reap their brilliance:
 

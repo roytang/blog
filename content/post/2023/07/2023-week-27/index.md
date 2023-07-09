@@ -76,3 +76,4 @@ Check out the [linkblog](/links/) for past links!
 ### This coming week
 
 - We might watch new Mission Impossible later this week. Kind of tempted by new Indiana Jones as well, but going to the cinema is expensive so I will wait for it on streaming probably.
+- Oh, and the Blacklist *series finale* is out this week I believe!
