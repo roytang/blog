@@ -45,7 +45,7 @@ Twitter's continuing yet slow-moving collapse also refreshes my anxiety about th
         - **Eternal** being played roughly once a week still.
         - **Street Fighter VI**: still going through the characters one at a time. Also started World Tour already. Just used the default avatar model, because if I tried to customize it, decision paralysis means I'd never get anything done!
 
-- **Reading**: About halfway through the current Discworld book. Still reading a bunch of old comics, though the pace has been a bit slow this week. Feed reader backlog is at 
+- **Reading**: About halfway through the current Discworld book. Still reading a bunch of old comics, though the pace has been a bit slow this week. 
 
 - **Watching**: No new movies seen this week. Mostly catching up on recent TV. Finished the most recent seasons of the Simpsons and NCIS. Powering through Amazon's Rings of Power because we have a LOTR category in one of our quiz nights this week. Maybe watching some anime even.
 

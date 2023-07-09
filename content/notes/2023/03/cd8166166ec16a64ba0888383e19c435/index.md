@@ -9,6 +9,8 @@ syndicated:
 tags:
 - sketchbook
 - sg2023
+albums:
+- sketchbook
 title: Airport Sketches
 location: 5bc1c92d356b490039205a7e
 ---
