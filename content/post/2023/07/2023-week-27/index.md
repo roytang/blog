@@ -4,6 +4,9 @@ dontinlinephotos: true
 resources:
 - src: 20230707_121704.jpg
   title: 'Newspaper headline: Earth scorches for 3rd straight day'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110683001498051919
 tags:
 - weeknotes
 title: 2023 Week 27
