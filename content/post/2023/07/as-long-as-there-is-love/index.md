@@ -1,8 +1,11 @@
 ---
-title: "As Long as There Is Love There Will Be Grief by Heidi Priebe"
-date: 2023-07-10T07:13:27+08:00
+date: 2023-07-09 23:13:27
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110686685687721839
 tags:
 - poetry
+title: As Long as There Is Love There Will Be Grief by Heidi Priebe
 ---
 
 > The grief of time passing, of life moving on half-finished, of empty spaces that were once bursting with the laughter and energy of people we loved. 
