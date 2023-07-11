@@ -1,0 +1,32 @@
+{
+  "id": "9b19ca4f-ba46-42b3-babb-eebf61b56ce8",
+  "name": "thenewleafjournal.com",
+  "url": "https://thenewleafjournal.com/letter/143/",
+  "text": "Mentioned by https://thenewleafjournal.com/letter/143/",
+  "date": "2023-07-11 00:30:46 +0800",
+  "photo": null,
+  "source_url": "https://thenewleafjournal.com/letter/143/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://thenewleafjournal.com/letter/143/",
+    "published": null,
+    "wm-received": "2023-07-10T16:30:46Z",
+    "wm-id": 1694201,
+    "wm-source": "https://thenewleafjournal.com/letter/143/",
+    "wm-target": "https://roytang.net/2023/06/write-anything/",
+    "mention-of": "https://roytang.net/2023/06/write-anything/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://buttondown.email/newsletterleafjournal/archive/143/"
+    }
+  }
+}
