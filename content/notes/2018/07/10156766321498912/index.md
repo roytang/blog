@@ -15,7 +15,9 @@ That's a G1 Sixshot right there. It was borrowed by one of the neighbor kids tha
 
 Brian Jeffrey Tang  is with  Kerwin Tang  and  Roy Tang .
 
-{{% photos 10156766321498912%}}
+{{% photos 278895_10150261791626726_7255636_o %}}
+
+
 
 
 
