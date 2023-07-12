@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156766321498912
 tags:
 - fbreposts03
+- transformers
 ---
 
 That's a G1 Sixshot right there. It was borrowed by one of the neighbor kids that I knew from the school bus and he never gave it back D: Hindi ko pa sya napapatawad lol
