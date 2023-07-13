@@ -1,10 +1,12 @@
 ---
-title: "Moving Pictures"
-date: 2023-07-13T05:29:02+08:00
+date: 2023-07-12 21:29:02
 reviews:
 - description: 'Discworld #10'
   media: books
   title: Moving Pictures by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110704863119806424
 tags:
 - books
 - discworld
@@ -22,4 +24,4 @@ The book isn't particularly long, though it's entertaining enough, and I did enj
 > Dibbler hesitated. The excitement was unhinging him a little. "Well," he said, "I suppose he should know."
 > 
 
-This brings us to [18/41 Discworld](/topics/discworld/) books read! Will maybe try to read at least a couple more this year so we have a decent pace. 
+This brings us to [18/41 Discworld](/topics/discworld/) books read! Will maybe try to read at least a couple more this year so we have a decent pace.
