@@ -15,4 +15,11 @@ title: 'Books: Moving Pictures by Terry Pratchett (Discworld #10)'
 
 The book isn't particularly long, though it's entertaining enough, and I did enjoy the easily identifiable parodies of movie tropes and popular classic films (especially that inversion of King Kong near the end!). It's nice that Cut-Me-Own-Throat Dibbler gets a bigger part in this one, instead of the usual bit parts/cameos that he usually gets. Also, apparently this book is the origin story for Gaspode the Wonder Dog! If any Discworld book should be made into a film, this one seems very appropriate, and a lot of the final act scenes might even look good in live action.
 
+> "Did I hear things, or can that little dog speak?" said Dibbler.
+>
+> "He says he can't," said Victor.
+>
+> Dibbler hesitated. The excitement was unhinging him a little. "Well," he said, "I suppose he should know."
+> 
+
 This brings us to [18/41 Discworld](/topics/discworld/) books read! Will maybe try to read at least a couple more this year so we have a decent pace. 
