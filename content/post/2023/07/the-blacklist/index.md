@@ -1,15 +1,18 @@
 ---
-title: "TV: The Blacklist"
-date: 2023-07-14T19:30:23+08:00
-subtitle: This show deserved a better ending.
-tags:
-- tv
+date: 2023-07-14 11:30:23
 reviews:
-- media: tv
+- description: A good show that deserved a better ending.
+  media: tv
+  rating: 3.5
   title: The Blacklist
   year: 2013-2023
-  description: A good show that deserved a better ending.
-  rating: 3.5
+subtitle: This show deserved a better ending.
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110712350674621653
+tags:
+- tv
+title: 'TV: The Blacklist'
 ---
 
 I watched the first season of **The Blacklist** back in 2013. Back then it was just another episodic procedural albeit with an interesting premise: Master criminal Raymond "Red" Reddington, the so-called "Concierge of Crime", turns himself in to the FBI and proposes that he work as a Confidential Informant, delivering high-level criminals some of which the authorities had never even heard of. His one condition: to work with rookie FBI agent Elizabeth Keen, who has never heard of him before. The mystique of the show revolves around Red's mysterious interest in Liz Keen. Back then I only watched the first season and [dropped it for being a bit boring](/2014/11/528729580584976384/).
