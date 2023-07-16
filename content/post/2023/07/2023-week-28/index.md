@@ -3,7 +3,11 @@ date: 2023-07-16 07:42:37
 dontinlinephotos: true
 resources:
 - src: plate.jpg
-  title: "We've had this small plate for a while and I took a picture because the asymmetry of the printed design always bothers me."
+  title: We've had this small plate for a while and I took a picture because the asymmetry
+    of the printed design always bothers me.
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110723221054100944
 tags:
 - weeknotes
 title: 2023 Week 28
