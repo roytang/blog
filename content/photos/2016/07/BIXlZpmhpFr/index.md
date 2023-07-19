@@ -1,5 +1,8 @@
 ---
-date: 2016-07-27 14:36:45+00:00
+date: 2016-07-27 14:36:45
+resources:
+- src: 13735096_514057722125981_5941366666206828005_o.jpg
+  title: Photo c/o PopQuiz
 source: photos
 syndicated:
 - type: instagram
