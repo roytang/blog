@@ -1,9 +1,12 @@
 ---
-title: "Government Bureaucracy Rants"
-date: 2023-07-19T14:02:27+08:00
+date: 2023-07-19 06:02:27
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110739333049583368
 tags:
 - philippines
 - goverment
+title: Government Bureaucracy Rants
 ---
 
 This post is an exhibit of why I dislike the idea of starting a business here in the country. I have a friend who helps run some small businesses for his family and he will often rant to me about stupid government bureaucracy requirements. I've collected some of his rants over the years and had his permission to collect them into a blog post (appropriately edited, sanitized and anonymized of course).
