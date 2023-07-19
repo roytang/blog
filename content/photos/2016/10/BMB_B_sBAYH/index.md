@@ -1,5 +1,5 @@
 ---
-date: 2016-10-26 15:22:59+00:00
+date: 2016-10-26 15:22:59
 source: instagram
 syndicated:
 - type: instagram
@@ -13,6 +13,7 @@ syndicated:
 tags:
 - quiznight
 - instagram
+- popquiz
 title: ''
 ---
 
