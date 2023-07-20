@@ -78,4 +78,4 @@ Lack of focus, the 45th coming up in August, upcoming stuff, writing VS Code ext
     - September: Starfield (PC game pass)
     - October: Super Mario Bros Wonder (Switch)
     - November: Persona 5 Tactics (PC game pass)
-    - *(I;m glad two of these are on game pass and so won't challenge my budget too much, though the new Mario game is the one I'm most looking forward to! I'm kind of glad I don't have a PS5 or there'd be 2-3 other items up there.)*
+    - *(I'm glad two of these are on game pass and so won't challenge my budget too much, though the new Mario game is the one I'm most looking forward to! I'm kind of glad I don't have a PS5 or there'd be 2-3 other items up there.)*
