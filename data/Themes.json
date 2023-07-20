@@ -1,0 +1,7 @@
+{
+    "default": [
+        "static/css/default.css",
+        "static/css/reset.css",
+        "static/css/smallest.css"
+    ]
+}
