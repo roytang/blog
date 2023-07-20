@@ -2,6 +2,12 @@
     "default": [
         "static/css/default.css",
         "static/css/reset.css",
-        "static/css/smallest.css"
+        "static/css/smallest.css",
+        "static/css/features/highlighter.css"
+    ],
+    "classic": [
+        "static/css/features/highlighter.css",
+        "static/css/classic/main.css",
+        "static/css/classic/shared.css"
     ]
 }
