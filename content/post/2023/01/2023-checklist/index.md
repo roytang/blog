@@ -108,13 +108,13 @@ From last year's list of 20 items, I watched 11, have not yet seen 4, 4 got post
 | Jun 09 | Transformers: Rise of the Beasts | |
 | Jun 16 | The Flash | [[DONE]](/2023/06/the-flash-2023/) |
 | Jun 30 | Indiana Jones and the Dial of Destiny | |
-| Jul 14 | Mission: Impossible – Dead Reckoning Part One | |
+| Jul 14 | Mission: Impossible – Dead Reckoning Part One | [[DONE]](/2023/07/mission-impossible-dead-reckoning-part-one-2023/) |
 | Jul 21 | Oppenheimer | I haven't even seen Tenet yet |
-| Jul 28 | The Marvels | |
 | Aug 18 | Blue Beetle | |
 | Sep 15 | A Haunting in Venice | Poirot |
 | Oct 06 | Kraven the Hunter | Same expectations as Morbius! |
 | Nov 03 | Dune: Part Two | |
+| Nov 10 | The Marvels | |
 | Dec 25 | Aquaman and the Lost Kingdom | |
 
 We'll see how many of these release dates hold! Also, it's unlikely I'm watching all of these in the cinema, since ticket prices have gotten so expensive lately.
