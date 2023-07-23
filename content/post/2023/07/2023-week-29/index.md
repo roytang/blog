@@ -1,12 +1,15 @@
 ---
-date: 2023-07-23T14:30:36+08:00
+date: 2023-07-23 06:30:36
 dontinlinephotos: true
+resources:
+- src: cubao.jpg
+  title: Hi! I'm CUBAO!
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110762316018953629
 tags:
 - weeknotes
 title: 2023 Week 29
-resources:
-- src: cubao.jpg
-  title: "Hi! I'm CUBAO!"
 ---
 
 ### The World
