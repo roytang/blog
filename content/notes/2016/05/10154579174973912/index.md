@@ -1,5 +1,4 @@
 ---
-title: "10154579174973912"
 date: 2016-05-05T21:07:03+08:00
 repost_source:
   name: Chris Guillebeau
