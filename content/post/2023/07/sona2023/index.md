@@ -1,9 +1,12 @@
 ---
-title: "State of the Nation 2023"
-date: 2023-07-24T19:37:05+08:00
+date: 2023-07-24 11:37:05
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110769049632687740
 tags:
 - philippines
 - sona
+title: State of the Nation 2023
 ---
 
 President Marcos Jr delivered his second State of the Nation Address today after one year in office. I thought I'd start a tradition of writing my own mini "State of the Nation" blog post on the same day the president does. Not as a response or anything like that. More like my own observances and anecdates and how I personally feel about the state of our beleaguered nation. This may or may not be a good idea.
