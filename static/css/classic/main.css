@@ -952,8 +952,3 @@ article.home .sampler {
 .footnote-inline {
     font-size: smaller;
 }
-
-.list_item.notes, .list_item.links {
-    max-width: 640px;
-    margin: 0 auto;
-}
