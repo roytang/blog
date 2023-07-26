@@ -1,48 +1,51 @@
 ---
-title: "2023 Manga Update"
-date: 2023-07-26T13:06:26+08:00
+date: 2023-07-26 05:06:26
+dontinlinephotos: true
+reviews:
+- description: 2023 manga review
+  hashtag: akane-banashi
+  media: comics
+  title: Akane-Banashi
+- description: 2023 manga review
+  hashtag: sakamoto-days
+  media: comics
+  title: Sakamoto Days
+- description: 2023 manga review
+  hashtag: martial-master-asumi
+  media: comics
+  title: Martial Master Asumi
+- description: 2023 manga review
+  hashtag: spy-x-family
+  media: comics
+  title: Spy X Family
+- description: 2023 manga review
+  hashtag: my-hero-academia
+  media: comics
+  title: My Hero Academia
+- description: 2023 manga review
+  hashtag: one-punch-man
+  media: comics
+  title: One-Punch Man
+- description: 2023 manga review
+  hashtag: dragon-ball-super
+  media: comics
+  title: Dragon Ball Super
+- description: 2023 manga review
+  hashtag: one-piece
+  media: comics
+  title: One Piece
+- description: 2023 manga review
+  hashtag: hajime-no-ippo
+  media: comics
+  title: Hajime no Ippo
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110779737980058664
 tags:
 - manga
 - comics
-dontinlinephotos: true
+title: 2023 Manga Update
 toc: true
-reviews:
-- hashtag: akane-banashi
-  description: '2023 manga review'
-  media: comics
-  title: 'Akane-Banashi'
-- hashtag: sakamoto-days
-  description: '2023 manga review'
-  media: comics
-  title: 'Sakamoto Days'
-- hashtag: martial-master-asumi
-  description: '2023 manga review'
-  media: comics
-  title: 'Martial Master Asumi'
-- hashtag: spy-x-family
-  description: '2023 manga review'
-  media: comics
-  title: 'Spy X Family'
-- hashtag: my-hero-academia
-  description: '2023 manga review'
-  media: comics
-  title: 'My Hero Academia'
-- hashtag: one-punch-man
-  description: '2023 manga review'
-  media: comics
-  title: 'One-Punch Man'
-- hashtag: dragon-ball-super
-  description: '2023 manga review'
-  media: comics
-  title: 'Dragon Ball Super'
-- hashtag: one-piece
-  description: '2023 manga review'
-  media: comics
-  title: 'One Piece'
-- hashtag: hajime-no-ippo
-  description: '2023 manga review'
-  media: comics
-  title: 'Hajime no Ippo'
 ---
 
 It's been a few years since I've posted about what manga I've been reading. Since then I've picked up a few new series mostly due to the Shonen Jump app on iOS making it easy to keep up with new issues. This is my current reading list.
