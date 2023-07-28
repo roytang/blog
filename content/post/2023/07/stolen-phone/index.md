@@ -1,6 +1,9 @@
 ---
-title: "My Phone Was Stolen"
-date: 2023-07-28T22:47:50+08:00
+date: 2023-07-28 14:47:50
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110792314472907845
+title: My Phone Was Stolen
 ---
 
 If I had a nickel for every time my phone has been stolen... well I'd have two nickels, but it's kinda sad it happened twice.
