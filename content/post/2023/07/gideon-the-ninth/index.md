@@ -1,15 +1,18 @@
 ---
-date: 2023-07-29 11:29:02+8:00
+date: 2023-07-29 03:29:02
+dontinlinephotos: true
 reviews:
-- description: 'Surprisingly fun and full of death'
+- author: Tamsyn Muir
+  description: Surprisingly fun and full of death
   media: books
-  author: Tamsyn Muir
-  title: Gideon the Ninth by Terry Pratchett
   rating: 4.5
+  title: Gideon the Ninth by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110795632850774866
 tags:
 - books
 title: 'Books: Gideon the Ninth by Tamsyn Muir'
-dontinlinephotos: true
 ---
 
 I recently found myself in long queue at a shop and [without my cellphone](/2023/07/stolen-phone/), so I managed to finish a book. **Gideon the Ninth** is the first of Tamsyn's Muir's *Locked Tomb* series of sci-fi/fantasy novels. 
@@ -25,4 +28,3 @@ Like all murder mysteries, the story suffers from the problem of having too many
 I was surprised that I enjoyed the book so much. My one complaint is that a number of the younger cast members including the titular Gideon speak with the cadence and mannerisms of modern teenagers and/or shitposters, which feels only slightly misplaced in the dark, gothic setting. Gideon herself serves some truly terrible jokes throughout the book, though this might not be surprising given how the author herself discusses the characters in the appendix. It's not a big downside, but I found it a bit jarring at the start.
 
 Nevertheless, I find myself in the position of having enjoyed the book and being extremely satisfied with the ending, I am now compelled to immerse myself in yet another sci-fi series. The author is quite prolific; this book came out in 2019, and the fourth book is already due out later this year.
-
