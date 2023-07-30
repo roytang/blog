@@ -1,6 +1,9 @@
 ---
-date: 2023-07-30T12:43:35+08:00
+date: 2023-07-30 04:43:35
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110802053006621956
 tags:
 - weeknotes
 title: 2023 Week 30
