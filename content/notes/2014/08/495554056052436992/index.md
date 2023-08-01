@@ -8,4 +8,4 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153126398333912
 ---
 
-When you make a new build, make sure you haven't accidentally created a machine capable of gaining sentience and waging war on humanity.
+When you make a new build, make sure you haven't accidentally created a machine capable of gaining sentience and waging war on humanity. There's an ant task for that somewhere
