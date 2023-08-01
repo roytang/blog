@@ -40,7 +40,7 @@ I have no way of knowing it really works, though a friend assures me it does. Si
 
 ### 5. Disable use of the phone number for recovery of critical accounts
 
-I should have done this immediately, instead I came home later to some email notifications that some of my accounts had their passwords reset using the phone number.
+I should have done this immediately, instead I came home later to some email notifications that some of my accounts had their passwords reset using the phone number. This is especially important since the temporary disconnection may take a while to push through.
 
 Examples of affected accounts:
 
@@ -57,7 +57,7 @@ I also temporarily removed my phone as 2FA for my main GMail account as a precau
 
 For Globe, the requirements for getting a replacement SIM (with the same number) are just to bring an Notarized Affidavit of Loss and some valid IDs. It can only be done in a Globe Store.
 
-I was able to hunt down a notary public the next morning and around lunch time went to the Globe Store to get the replacement SIM. I had to wait a while, but once I was called up it was a straightforward process. Had to fill out some forms and wait a while.
+I was able to hunt down a notary public the next morning and get my affidavit {{% footnote %}}I do find the concept of asking a notary public to attest to this as amusing since she has no way of verifying my claim is true so it's basically the same as my say-so. A friend says it's a legal "cover your ass" by the telecom so in case of fraud, i.e. someone else recoved my sim for me, they can point to the affidavit and say what can we do, there's our due diligence! Basically security theater I guess.{{% /footnote %}}. Around lunch time went to the Globe Store to get the replacement SIM. I had to wait a while, but once I was called up it was a straightforward process. Had to fill out some forms and wait a while.
 
 You will need to provide some information to verify you are the owner. That means stuff like your personal details, last payment details, account details (they asked me when I started the account but I could not remember as that was more than 10 years ago!) and some other stuff. Basically you have to provide as many details as you can remember so that the agent can assess whether you really are the account owner.
 
