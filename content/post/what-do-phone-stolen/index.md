@@ -4,6 +4,7 @@ syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110815211189187020
 title: What To Do When Your Phone Is Stolen
+toc: true
 ---
 
 I promised some friends about the steps I took when [my phone was stolen](/2023/07/stolen-phone/). These also acts as my notes in a possible future incident as well (though of course I hope that does not happen). A lot of the details here are specific to when you have a postpaid line in my country with my particular telecom (Globe Philippines), though the broad strokes should be similar elsewhere I think.
@@ -16,7 +17,7 @@ If you're like me and were in doubt as to whether the phone was actually stolen 
 
 I should have done this immediately (since I was already in the mall near a Globe store when it happened); instead I waited until a few hours later.
 
-For Globe, it can be done (I assume) via a Globe store, or you can just message them on Facebook Messenger; the bot menu will have a "Report Lost Phone/SIM" option. After a wait, they will connect you with a CSR and you can tell them to temporarily disconnect the line. I was told the turnaround time on this is 24 hours and that someone would call be between 9am to 6pm the next day to process the request. This isn't ideal, it gives the thieves like half a day to do shenanigans with your phone number.
+For Globe, it can be done (I assume) via a Globe store, or you can just message them on Facebook Messenger; the bot menu will have a "Report Lost Phone/SIM" option. After a wait, they will connect you with a CSR and you can tell them to temporarily disconnect the line. I was told the turnaround time on this is 24 hours and that someone would call me between 9am to 6pm the next day to process the request. This isn't ideal, it gives the thieves like half a day to do shenanigans with your phone number.
 
 The next day around 9:30 someone called me (via an alternate number I provided the CSR) and verified my request and my details and processed the temporary disconnection.
 
