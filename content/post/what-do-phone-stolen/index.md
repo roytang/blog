@@ -1,7 +1,6 @@
 ---
 title: "What To Do When Your Phone Is Stolen"
 date: 2023-08-01T23:26:57+08:00
-draft: true
 ---
 
 I promised some friends about the steps I took when [my phone was stolen](/2023/07/stolen-phone/). These also acts as my notes in a possible future incident as well (though of course I hope that does not happen). A lot of the details here are specific to when you have a postpaid line in my country with my particular telecom (Globe Philippines), though the broad strokes should be similar elsewhere I think.
