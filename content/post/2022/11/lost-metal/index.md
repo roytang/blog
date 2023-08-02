@@ -16,7 +16,7 @@ tags:
 title: 'Book Review: The Lost Metal by Brandon Sanderson'
 ---
 
-*The Lost Metal* is the sixth book in the [Mistborn](/tags/mistborn) series and the fourth and final book in the *Wax and Wayne* subseries, the so-called "Era Two". 
+*The Lost Metal* is the seventh book in the [Mistborn](/tags/mistborn) series and the fourth and final book in the *Wax and Wayne* subseries, the so-called "Era Two". 
 
 Previously: [The Allow of Law](/2022/09/alloy-of-law/), [Shadows of Self](/2022/10/shadows-of-self/), [The Bands of Mourning](/2022/11/bands-of-mourning/)
 
