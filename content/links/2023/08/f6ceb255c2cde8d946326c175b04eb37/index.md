@@ -4,7 +4,7 @@ link:
   source: web
   source_url: https://roytang.net
   text: 'Whence and Whither the Web: Some Thoughts on Reclaim Open'
-  url: https://www.howtogeek.com/97723/htg-explains-do-you-really-need-to-defrag-your-pc/
+  url: https://morrispelzel.com/uncategorized/whence-and-whither-the-web-some-thoughts-on-reclaim-open/
 source: web
 syndicated:
 - type: mastodon
