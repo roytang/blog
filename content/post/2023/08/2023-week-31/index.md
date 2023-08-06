@@ -1,13 +1,17 @@
 ---
-date: 2023-08-06T06:45:45+08:00
+date: 2023-08-05 22:45:45
 dontinlinephotos: true
+resources:
+- alt: A toy of Luigi riding his Mario Kart racer, except the head has been detached
+    and has fallen off.
+  src: luigi.jpg
+  title: This is how last week felt
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110841825665688392
 tags:
 - weeknotes
-title: "2023 Week 31"
-resources:
-- src: luigi.jpg
-  title: "This is how last week felt"
-  alt: "A toy of Luigi riding his Mario Kart racer, except the head has been detached and has fallen off."
+title: 2023 Week 31
 ---
 
 It is the first week of August already; time inexorably marches on. The rainy weather continued until about midweek and had mostly settled down by the weekend, though thankfully our days have not yet reverted to unreasonable heat.
