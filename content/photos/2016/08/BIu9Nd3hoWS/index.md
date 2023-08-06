@@ -1,5 +1,8 @@
 ---
 date: 2016-08-05 16:27:20
+resources:
+- src: 13920407_10153822456578067_2243781691554152474_o.jpg
+  title: Photo c/o GeekFight! Trivia Night
 source: instagram
 syndicated:
 - type: instagram
