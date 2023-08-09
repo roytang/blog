@@ -1,8 +1,11 @@
 ---
-title: "Forty Five"
-date: 2023-08-09T15:55:16+08:00
+date: 2023-08-09 07:55:16
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110858626178618379
 tags:
 - birthday
+title: Forty Five
 ---
 
 It feels like once you hit your forties it becomes very common for you or friends of the same age bracket to be saying things like "We're getting old" or "We're so old!" all the time. Which I guess is understandable, this is the decade where your body starts to succumb to wear and tear and you begin to feel a lot less indestructible. It feels doubly weird for someone like me who isn't following the traditional paths of raising a family and such; a lot of my age group peers have gotten married and had kids and some have kids in high school! 
@@ -23,4 +26,4 @@ Right now, the future seems full of uncertainties. Climate change will affect ou
 
 ---
 
-Maybe next year I'll figure out something better for these birthday posts. 
+Maybe next year I'll figure out something better for these birthday posts.
