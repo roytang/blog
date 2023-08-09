@@ -1,6 +1,6 @@
 ---
 title: "Forty Five"
-date: 2023-08-09T18:55:16+08:00
+date: 2023-08-09T15:55:16+08:00
 tags:
 - birthday
 ---
@@ -11,16 +11,16 @@ Not that I regret my life choices mind you, I am perfectly content where I am, b
 
 ---
 
-I haven't been in the best of moods lately. The past couple of weeks have been rough. The family received some kind of depressing bad news, [my phone was stolen](/2023/07/stolen-phone/), I've had problems with some hardware and had to buy replacements, I missed out on some opportunities, etc. At times I have found myself unreasonably angry or sad or in an otherwise challenging mood. I try not to let it get to me, and a birthday is an especially good time to remind myself that though I never had a silver spoon in my mouth, I have generally lived a life of privilege; I have a roof over my head and I can cover my own needs and those of people I care for and I have savings in case of emergencies; and I know and appreciate that I am loved and that all these trials are part of the human experience and mine are very minor compared to what other people have to go through. I have certainly had much worse years. Besides, I reckon I'm probably due for some good luck sooner or later, maybe I should buy a lottery ticket.
+I haven't been in the best of moods lately. Without getting into details, the past couple of weeks have been a bit challenging, shall we say. I try not to let it get to me, and a birthday is an especially good time to remind myself that though I never had a silver spoon in my mouth, I have generally lived a life of privilege; I have a roof over my head and I can cover my own needs and those of people I care for and I have savings in case of emergencies; and I know and appreciate that I am loved and that all these trials are part of the human experience and mine are very minor compared to what many other people have to go through. I have certainly had much worse years. Besides, I reckon I'm probably due for some good luck sooner or later, maybe I should buy a lottery ticket.
 
 ---
 
-I wasn't sure what to write about in this post (this happens a lot), but one of my first ideas was to write about how getting older made your perception of time a bit weird, but I found out I already kinda [wrote about that last year](/2022/08/forty-four/). One thing to add to last year's musings is that I realize now that this skewed perspective of time means I tend to consider longer time horizons compared to young people. I don't get swept up in fads and trends and understand that they come and go. I am less impatient for everything to happen quickly because I know and appreciate how some things can take a while. I don't need to be constantly up to date on all the latest happenings because I've lived through enough news cycles to last a lifetime. The latest political scandal has little to no effect on me because I've usually seen a lot worse. (Though I must admit the whole Trump indictment situation is very new to me.) Now that I'm older I find it easier to live life in the present and to not compare myself to some arbitrary societal expectation of where I should be in life.
+I wasn't sure what to write about in this post (this happens a lot), but one of my first ideas was to write about how getting older made your perception of time a bit weird, but I found out I already kinda [wrote about that last year](/2022/08/forty-four/). 
 
----
+One thing to add to last year's musings is that I realize now that this skewed perspective of time means I tend to consider longer time horizons compared to young people. I don't get swept up in fads and trends and understand that they come and go. I am less impatient for everything to happen quickly because I know and appreciate how some things can take a while. I don't need to be constantly up to date on all the latest happenings because I've lived through enough news cycles to last a lifetime. The latest political scandal has little to no effect on me because I've usually seen a lot worse. (Though I must admit the whole Trump indictment situation is very new to me.) Now that I'm older I find it easier to live life in the present and to not compare myself to some arbitrary societal expectation of where I should be in life.
 
 Right now, the future seems full of uncertainties. Climate change will affect our world in never before seen ways and some tech trends like AI have the potential to turn entire industries upside-down and the future looks to have many more challenges. The ability to live in the present and take each day as they come seems like a perfect way to stay sane in these trying times.
 
 ---
 
-Maybe next year I'll figure out something better for these birthday posts.
+Maybe next year I'll figure out something better for these birthday posts. 
