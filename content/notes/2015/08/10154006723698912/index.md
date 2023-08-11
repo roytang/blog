@@ -8,4 +8,14 @@ tags:
 - lyrics
 ---
 
-And it may take some time to Patch me up inside But I can't take it so I Run away and hide And I may find in time that You were always right
+And it may take some time to 
+
+Patch me up inside 
+
+But I can't take it so I 
+
+Run away and hide 
+
+And I may find in time that 
+
+You were always right
