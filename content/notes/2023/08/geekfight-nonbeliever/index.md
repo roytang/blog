@@ -1,9 +1,11 @@
 ---
-date: 2023-08-19T23:14:33+08:00
+date: 2023-08-19 15:14:33
 location: moonrabbit
 resources:
 - src: IMG_20230809_223354.jpg
-  title: 'Our score tracker'
+  title: Our score tracker
+- src: 365458169_679460584223701_9200906960245180603_n.jpg
+  title: Photo c/o GeekFight! Trivia Night
 tags:
 - quiznight
 - geekfight
