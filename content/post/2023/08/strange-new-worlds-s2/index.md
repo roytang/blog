@@ -1,14 +1,17 @@
 ---
-title: "Strange New Worlds S2"
-date: 2023-08-11T22:53:07+08:00
+date: 2023-08-11 14:53:07
 reviews:
 - description: I enjoyed this one even more than S1
   media: tv
   rating: 4.5
   title: 'Star Trek: Strange New Worlds season 2'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110871617675089593
 tags:
 - tv
 - startrek
+title: Strange New Worlds S2
 ---
 
 I enjoyed season 2 of *Star Trek: Strange New Worlds* even more than season 1, enough to try something strange and new: I'll do per episode reviews! Maybe I'll become one of those Trekkies that knows all the episode titles by heart or something.
@@ -54,4 +57,3 @@ It would've been really easy to screw this up, but I'd call this a successful mu
 Honestly was assuming this Gorn encounter would be similar to epsiodes 4 and 6, the usual dangerous encounter on a remote world. This was so much better than what I was expecting; it's suspenseful and exciting and the intro of another classic character was a nice touch. The cliffhanger was well done as well, although I have questions.
 
 Whatever questions will have to wait a while though; it sounds like S3 may be delayed due to the writer's strike so it may take a while for us to find out what happens to Pike and crew. This show continues to be the best of modern Trek.
-
