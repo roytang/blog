@@ -31,6 +31,8 @@ I really should remember to just never dabble in stocks during the ghost month.
 
 Honestly I'm supposed to be working on a general site redesign, but that's kind of fallen by the wayside in light of other priorities. I am still making minor improvements though. Today I worked on something minor I've been meaning to for a while: Adding a [robots.txt](/robots.txt). I've been meaning to do this for a while, ever since I read a post from Tracy Durnell (see links below) and was reminded to finally do it by a [recent post from maya.land](https://maya.land/updates/2023/08/12/update-open-vs-hidden.html). The "first draft" robots.txt I've deployed is mainly cribbed from those two sites.
 
+*Edit: 3 hours after publishing this post.* I just realized I have been publishing RSS feeds without publication dates! What an oversight! Normally not a problem when I publish normally, but sometimes I will insert a post back-dated because I want it to be set at a specific date, and without the `pub_date`, feed readers will just show it as a new post. This has been fixed (hopefully).
+
 ### Media Diet
 
 - **Gaming**: 
