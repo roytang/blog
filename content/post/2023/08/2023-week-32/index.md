@@ -1,6 +1,9 @@
 ---
-date: 2023-08-13T13:45:17+08:00
+date: 2023-08-13 05:45:17
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110880773558647508
 tags:
 - weeknotes
 title: 2023 Week 32
