@@ -6,7 +6,7 @@ reviews:
   description: Surprisingly fun and full of death
   media: books
   rating: 4.5
-  title: Gideon the Ninth by Terry Pratchett
+  title: Gideon the Ninth by Tamsyn Muir
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110795632850774866
