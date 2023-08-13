@@ -1,3 +1,7 @@
+# Large chunks of these cribbed from:
+# https://tracydurnell.com/robots.txt
+# https://maya.land/robots.txt
+
 # Common Crawl
 User-agent: CCBot
 Disallow: /
