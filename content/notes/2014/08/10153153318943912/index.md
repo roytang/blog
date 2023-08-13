@@ -8,4 +8,8 @@ tags:
 - lyrics
 ---
 
-I can't attempt to point you in her direction  I was blinded by the look in her eyes  If I had just followed through then I wouldn't be calling you
+I can't attempt to point you in her direction  
+
+I was blinded by the look in her eyes  
+
+If I had just followed through then I wouldn't be calling you
