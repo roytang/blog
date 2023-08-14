@@ -1,8 +1,11 @@
 ---
-title: "How to Read a Blog"
-date: 2023-08-15T00:19:47+08:00
+date: 2023-08-14 16:19:47
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110888887500329757
 tags:
 - blogging
+title: How to Read a Blog
 ---
 
 Wouter writes over on brainbaking.com ["Are You A Blog Post Glancer?"](https://brainbaking.com/post/2023/08/are-you-a-blog-post-glancer/):
