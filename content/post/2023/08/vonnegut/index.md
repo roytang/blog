@@ -1,8 +1,11 @@
 ---
-title: "Kurt Vonnegut and farting around"
-date: 2023-08-14T16:21:28+08:00
+date: 2023-08-14 08:21:28
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110887045038943868
 tags:
 - quotes
+title: Kurt Vonnegut and farting around
 ---
 
 Vonnegut on farting around:
