@@ -1,9 +1,12 @@
 ---
-title: "Stolen Phone Post Mortem"
+date: 2023-08-18 14:51:29
 subtitle: Or "Don't Trust Lazada with your Payment Details"
-date: 2023-08-18T22:51:29+08:00
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110911426683108749
 tags:
 - tech-life
+title: Stolen Phone Post Mortem
 ---
 
 Previously: [What To Do When Your Phone Is Stolen](/2023/08/what-do-phone-stolen/)
