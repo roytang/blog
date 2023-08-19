@@ -68,7 +68,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Jun 2023 | 273 | 934 | 744 | 1678 | 0.5566 |
+| ALL | Aug 2023 | 278 | 943 | 759 | 1702 | 0.5541 |
+| [Lord of the Rings: Tales of Middle Earth](/2023/08/mtgltr-limited-recap/) | Aug 2023 | 5 | 9 | 15 | 24 | 0.375 |
 | [March of the Machine](/2023/06/mtgmom-limited-recap/) | Jun 2023 | 19 | 56 | 50 | 106 | 0.5283 |
 | [Phyrexia All Will Be One](/2023/04/mtgone-limited-recap/) | Apr 2023| 18 | 69 | 52 | 121 | 0.5702 |
 | [Brothers War](/2023/01/mtgbro-limited-recap/) | Jan 2023| 18 | 59 | 51 | 110 | 0.5364 |

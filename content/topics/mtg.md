@@ -13,6 +13,10 @@ I know, I know this page layout could use a lot of work.
 
 || Latest Standard Set | Limited | Constructed |
 |---|---|---|---|
+| **2023** |
+| **Jun** | Lord of the Rings | [Limited Recap](/2023/08/mtgltr-limited-recap/) | |
+| **Apr** | March of the Machine | [Limited Recap](/2023/06/mtgmom-limited-recap/) | |
+| **Feb** | Phyrexia All Will Be One | [Limited Recap](/2023/04/mtgone-limited-recap/) | |
 | **2022** |
 | **Dec** | Brothers War | [Arena limited](/tags/mtgbro) | |
 | **Sep** | Dominaria United | [Arena limited](/tags/mtgdmu) | |

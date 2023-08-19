@@ -1,5 +1,6 @@
 ---
 date: 2014-11-19 12:19:00
+location: 53045f7311d250dead39f8af
 source: facebook
 syndicated:
 - type: facebook
