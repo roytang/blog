@@ -23,6 +23,6 @@ I spent a good part of that week unreasonably angry at the circumstances; at mys
 
 I had also reported the fraudulent transactions to GCash support, but they were also unable to do anything. I wasn't too mad at them because it looks like the GCash account itself was never breached. Apparently attempting to access it without the MPIN requires both an SMS code and facial recognition, so GCash itself is more secure than Lazada. Also, I suspect the GCash account of the thief has been suspended; when I first got my GCash account back I was able to see their initials if I tried to send them money via the GCash app; today trying to send money to that number already raises an error.
 
-Long story short: Don't like your e-wallets or bank accounts or other such payment platforms to insecure platforms like Lazada. I still use Lazada (it's super convenient, sigh), but strictly COD from now on.
+Long story short: Don't link your e-wallets or bank accounts or other such payment platforms to insecure platforms like Lazada. I still use Lazada (it's super convenient, sigh), but strictly COD from now on.
 
 My anger at the situation has largely subsided, and I am writing this post mostly so I can move on.
