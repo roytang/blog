@@ -2,15 +2,18 @@
 date: 2023-08-19 15:13:04
 resources:
 - src: mtgltr_pd01.png
-  title: 'LTR Premier Draft 1'
+  title: LTR Premier Draft 1
 - src: mtgltr_pd02.png
-  title: 'LTR Premier Draft 2'
+  title: LTR Premier Draft 2
 - src: mtgltr_pd03.png
-  title: 'LTR Premier Draft 3'
+  title: LTR Premier Draft 3
 - src: mtgltr_pd04.png
-  title: 'LTR Premier Draft 4'
+  title: LTR Premier Draft 4
 - src: mtgltr_sealed_01.png
-  title: 'LTR Sealed'
+  title: LTR Sealed
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110917775450478613
 tags:
 - mtg
 - mtgltr
