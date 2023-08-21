@@ -46,5 +46,7 @@ I recently had to setup a new phone without the benefit of having the older phon
 - Games
     - NYT Games: Mostly to make sure I can keep up my daily crossword streak. Currently at 600+ days!
     - Marvel Snap: Quick and easy games are useful for passing the time if I'm waiting somewhere
+- Others
+    - Instagram: Uh, I keep this around for reasons.
 
 Also asked some friends for new mobile wallpaper suggestions and settled [on this Spider-Gwen one](https://www.reddit.com/r/Amoledbackgrounds/comments/15a1s5m/spiderverse_gwen_stacy_spidergirl_2500x6000/).
