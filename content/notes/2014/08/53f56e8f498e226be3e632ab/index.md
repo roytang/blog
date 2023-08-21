@@ -6,6 +6,8 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/53f56e8f498e226be3e632ab
+- type: foursquare
+  url: https://www.swarmapp.com/roytang/checkin/53f56b77498e9ac468b639d9
 tags: []
 ---
 
