@@ -2,9 +2,12 @@
 date: 2023-08-21 06:34:39
 resources:
 - src: Screenshot_20230821_155611_One UI Home.jpg
-  title: 'Home layout. Only the most commonly used apps get put here.'
+  title: Home layout. Only the most commonly used apps get put here.
 - src: Screenshot_20230821_155150_One UI Home.jpg
-  title: 'Lock screen'
+  title: Lock screen
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110926543643635463
 tags:
 - tech-life
 title: New Phone Loadout
