@@ -2,6 +2,9 @@
 checkin_id: 4e172d16aeb7e76b4f24cc50
 date: 2011-07-08 16:15:19
 location: 4c9a063b9c663704bed754fd
+resources:
+- src: 2011-06-17 08.28.11.jpg
+  title: The map to Quantum!
 source: twitter
 syndicated:
 - type: twitter
@@ -27,4 +30,4 @@ Team Camote at [Community GeekFight Couch Potato Edition](https://www.facebook.c
 > - SCI-FI AND FANTASY
 > - TV SHOW MUSIC THEMES
 > - REALITY/COMPETITION TV (ZINGER AND BATMAN ROUND)
-> 
+>

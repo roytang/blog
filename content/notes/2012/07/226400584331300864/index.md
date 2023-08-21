@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/226400584331300864/
 tags:
 - fb
+- spelldash
 ---
 
 I've been playing this new iPad word game spelldash, and I'm currently #1 on the leaderboards. Can you beat me? Lol #fb http://i.imgur.com/MqjB0.jpg
