@@ -8,9 +8,12 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/453676088192172032/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152885614903912
 tags:
 - reddit
 - flipboard
+- puns
 title: ''
 ---
 
