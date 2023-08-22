@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/474520935174000640/
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/53905bad498eabcc39b7cfe2
+tags:
+- quiznight
 ---
 
 I'm at Amici w/ [@barayantan](https://twitter.com/barayantan/) https://www.swarmapp.com/roytang/checkin/53905bad498eabcc39b7cfe2?s=D_8vVBZ7qnHj6OS4k2yceE8lvWE&ref=tw

@@ -8,6 +8,10 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153023301233912
 tags:
 - somanybadplays
+- mtg
+- ptq
+- modern
+- constructed
 ---
 
 Olats =/ #somanybadplays
