@@ -5,6 +5,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/146998248654343
+- type: twitter
+  url: https://twitter.com/roytang/statuses/22086339991/
+- type: plurk
+  url: https://plurk.com/p/75ljhz
 ---
 
 Super Street Fighter IV - amazing Guile tricks here.  
