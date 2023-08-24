@@ -1,5 +1,5 @@
 ---
-date: 2014-11-12 10:00:52+00:00
+date: 2014-11-12 10:00:52
 repost_source:
   name: codinghorror
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/532473091457179648/
+tags:
+- philosophy
 title: ''
 ---
 
