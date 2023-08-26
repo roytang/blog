@@ -12,9 +12,8 @@ for (let i=0; i<nodes.length; i++) { outlist.push({ "href": nodes[i].getAttribut
 
 """
 
-
 template = """- hashtag: %s
-  description: '2023 manga review'
+  description: ''
   media: comics
   title: '%s'"""
 

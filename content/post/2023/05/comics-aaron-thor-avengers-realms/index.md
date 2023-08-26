@@ -200,7 +200,7 @@ Things I did like: The Avengers being based in the corpse of a dead Celestial. T
 
 This run also had an annual, but it was not done by Jason Aaron and was part of a separate story arc, so I guess I will cover it elsewhere.
 
-### Progess Bar
+### Progress Bar
 
 Total issues covered in this post: 89 (Thor) + 34 (War of the Realms) + 84 (Avengers) = 292 issues.
 
