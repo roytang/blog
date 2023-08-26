@@ -1,41 +1,49 @@
 ---
-date: 2023-08-26 23:47:57+08:00
+date: 2023-08-26 15:47:57
 dontinlinephotos: true
 resources:
 - src: Avengers_IMG_1440.PNG
-  title: 'Avengers (1963) #8: I was amused by this panel because one guy votes by saying RIGHTO!'
+  title: 'Avengers (1963) #8: I was amused by this panel because one guy votes by
+    saying RIGHTO!'
 - src: Avengers_IMG_1441.PNG
-  title: 'Avengers (1963) #24: Cap''s team sneaks into Latveria and belatedly realize who rules the country. They were not very smart.'
+  title: 'Avengers (1963) #24: Cap''s team sneaks into Latveria and belatedly realize
+    who rules the country. They were not very smart.'
 - src: Avengers_IMG_1443.PNG
   title: 'Avengers (1963) #239: The Avengers guest star with David Letterman'
 - src: Avengers_IMG_1446.PNG
-  title: 'Avengers (1963) #251: I was disturbed to find out Vision had an all-red body under that costume. I mean, it''s logical, but still!'
+  title: 'Avengers (1963) #251: I was disturbed to find out Vision had an all-red
+    body under that costume. I mean, it''s logical, but still!'
 - src: Avengers_IMG_1447.PNG
-  title: 'Avengers (1963) #275: Spielberg would go on to win an Oscar 9 years after Scott Lang dissed him'
+  title: 'Avengers (1963) #275: Spielberg would go on to win an Oscar 9 years after
+    Scott Lang dissed him'
 - src: WCA1985_IMG_1458.PNG
-  title: 'West Coast Avengers (1985) #6: Wonder Man''s movie career kicks off when he meets Ahnold'
+  title: 'West Coast Avengers (1985) #6: Wonder Man''s movie career kicks off when
+    he meets Ahnold'
 - src: WCA1985_IMG_1466.PNG
   title: 'West Coast Avengers (1985) #51: Babies for hands!'
 - src: WCA2018_IMG_1464.PNG
   title: 'West Coast Avengers (2018) #1: B.R.O.D.O.K.!'
-reviews: 
-- hashtag: avengers-v1
-  description: 'Includes Giant-Size Avengers, The Crossing, Timeslide'
+reviews:
+- description: Includes Giant-Size Avengers, The Crossing, Timeslide
+  hashtag: avengers-v1
   media: comics
-  title: 'Avengers v1 (1963)'
-- hashtag: west-coast-avengers-v1-v2-and-force-works
-  description: ''
+  title: Avengers v1 (1963)
+- description: ''
+  hashtag: west-coast-avengers-v1-v2-and-force-works
   media: comics
-  title: 'West Coast Avengers v1 (1984), v2 (1985) and Force Works (1994)'
-- hashtag: west-coast-avengers-v3
-  description: ''
+  title: West Coast Avengers v1 (1984), v2 (1985) and Force Works (1994)
+- description: ''
+  hashtag: west-coast-avengers-v3
   media: comics
-  title: 'West Coast Avengers v3 (2018)'
-- hashtag: iron-man-2020-event
-  description: 'Iron Man 2020, 2020 Force Works, 2020 Machine Man, 2020 Rescue, 2020 Ironheart, 2020 iWolverin, Iron Age'
+  title: West Coast Avengers v3 (2018)
+- description: Iron Man 2020, 2020 Force Works, 2020 Machine Man, 2020 Rescue, 2020
+    Ironheart, 2020 iWolverin, Iron Age
+  hashtag: iron-man-2020-event
   media: comics
-  title: 'Iron Man 2020 (event)'
-syndicated: []
+  title: Iron Man 2020 (event)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110956895726263815
 tags:
 - comics
 - complete-marvel-run
