@@ -1,6 +1,5 @@
 ---
 date: 2023-08-28 01:48:33
-draft: true
 resources:
 - src: Middle-earth™_ Shadow of War™ 10_08_2023 1_17_45 pm.png
   title: You get a "last chance" QTE when you're about to die.
