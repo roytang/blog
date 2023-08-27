@@ -1,5 +1,5 @@
 ---
-date: 2023-08-28 05:48:33+08:00
+date: 2023-08-27 21:48:33
 resources:
 - src: Middle-earth™_ Shadow of War™ 10_08_2023 1_17_45 pm.png
   title: You get a "last chance" QTE when you're about to die.
@@ -17,6 +17,9 @@ reviews:
   media: games
   platform: pcgamepass
   title: 'Middle-earth: Shadow of War (PC Game Pass)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110964129081649627
 tags:
 - gaming
 - games
