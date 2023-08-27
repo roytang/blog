@@ -1,5 +1,5 @@
 ---
-date: 2023-08-28 01:48:33
+date: 2023-08-28 05:48:33+08:00
 resources:
 - src: Middle-earth™_ Shadow of War™ 10_08_2023 1_17_45 pm.png
   title: You get a "last chance" QTE when you're about to die.
@@ -23,7 +23,7 @@ tags:
 title: 'Middle-earth: Shadow of War'
 ---
 
-Started playing this in late June because a friend was playing Shadow of Mordor and I was a bit envious, so I figured I would play the sequel. I was also doing some other [LOTR](/2023/07/rop-lotr/) [stuff](/2023/07/geekfight-fandom/) at the time, so there was some kind of synergy bonus. 
+Started playing this in late June because a friend was playing Shadow of Mordor and I was a bit envious, so I figured I would play the sequel. I was also doing some other [LOTR](/2023/07/rop-lotr/) [stuff](/2023/07/geekfight-fandom/) at the time, so there was some kind of synergy bonus. Luckily it was on PC Game Pass!
 
 I [finished Shadow of Mordor back in 2014](/2014/11/528700287406469120/), but I barely remember any of it. So I had to relearn a lot of the combat stuff and asked for a plot summary from a friend who finished it recently. I tried playing Shadow of War back when it came out for PS+ a couple of years ago but never got too into it.
 
