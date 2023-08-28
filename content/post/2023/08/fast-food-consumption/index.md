@@ -4,6 +4,7 @@ date: 2023-08-29T01:28:23+08:00
 tags:
 - stats
 - food
+draft: true
 ---
 
 A while back, someone on Reddit posted [a list of their fast food spending since April 2016](https://www.reddit.com/r/Philippines/comments/15n0t6a/sharing_my_fast_food_expenses_since_april_2016_do/). Since I love gathering stats, I have been meaning to do something similar since I started consistently tracking all my expenses in 2017. This reddit post finally spurred me to gather these stats!
