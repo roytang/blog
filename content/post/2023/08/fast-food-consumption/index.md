@@ -1,10 +1,18 @@
 ---
-title: "Fast Food Consumption"
-date: 2023-08-29T01:28:23+08:00
+date: 2023-08-29 02:08:23+08:00
+resources:
+- src: 20230720_220142.jpg
+  title: 'July 20 Jollibee fries. This is a LARGE! WTH'
+- src: 20230825_121343.jpg
+  title: 'Aug 25 Chowking shomai chao fan + pancit canton'
+- src: IMG_1454.jpg
+  title: 'Jul 28 Sbarro value meal B'
+- src: IMG_20230807_135844.jpg
+  title: 'Aug 07 Yoshinoya cheese gyudon'
 tags:
 - stats
 - food
-draft: true
+title: Fast Food Consumption
 ---
 
 A while back, someone on Reddit posted [a list of their fast food spending since April 2016](https://www.reddit.com/r/Philippines/comments/15n0t6a/sharing_my_fast_food_expenses_since_april_2016_do/). Since I love gathering stats, I have been meaning to do something similar since I started consistently tracking all my expenses in 2017. This reddit post finally spurred me to gather these stats!
@@ -19,3 +27,5 @@ Notes:
 - There is a lot of pizza.
 - My overall total spend is actually much less than the one in the quoted reddit post; this is understandable since I started tracking my expenses when I was no longer working in an office full-time, which meant majority of my meals were taken at home. Also I am a generally frugal person anyway.
 - There are more notes on the stats page itself.
+
+Unrelated: since this is a food post anyway, I have taken the liberty of attaching some recent food photos to this post.
