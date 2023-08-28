@@ -58,6 +58,10 @@
         {
             "Name": "Listening",
             "URL": "/page/stats/listening/"
+        },
+        {
+            "Name": "Food",
+            "URL": "/page/stats/food/"
         }
     ],
     "archives": [

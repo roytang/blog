@@ -677,6 +677,10 @@ article table tr:nth-child(odd) {
     background: var(--row-color);
 }
 
+article table td.numeric {
+    text-align: right;
+}
+
 p {
     text-align: justify;    
 }
