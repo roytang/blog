@@ -1,14 +1,17 @@
 ---
-date: 2023-08-29 02:08:23+08:00
+date: 2023-08-28 18:08:23
 resources:
 - src: 20230720_220142.jpg
-  title: 'July 20 Jollibee fries. This is a LARGE! WTH'
+  title: July 20 Jollibee fries. This is a LARGE! WTH
 - src: 20230825_121343.jpg
-  title: 'Aug 25 Chowking shomai chao fan + pancit canton'
+  title: Aug 25 Chowking shomai chao fan + pancit canton
 - src: IMG_1454.jpg
-  title: 'Jul 28 Sbarro value meal B'
+  title: Jul 28 Sbarro value meal B
 - src: IMG_20230807_135844.jpg
-  title: 'Aug 07 Yoshinoya cheese gyudon'
+  title: Aug 07 Yoshinoya cheese gyudon
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110968617053036091
 tags:
 - stats
 - food
