@@ -272,6 +272,34 @@ let data = [
     "label": "Starbucks"
   },
   {
+    "totalcost": 3071.98,
+    "totalcoststr": "3071.98",
+    "totalcount": 16,
+    "years": {
+      "2017": {
+        "cost": 1311.27,
+        "count": 5
+      },
+      "2018": {
+        "cost": 215.0,
+        "count": 7
+      },
+      "2019": {
+        "cost": 499.71,
+        "count": 1
+      },
+      "2020": {
+        "cost": 375.0,
+        "count": 1
+      },
+      "2022": {
+        "cost": 671.0,
+        "count": 2
+      }
+    },
+    "label": "Pancake House"
+  },
+  {
     "totalcost": 2790.0,
     "totalcoststr": "2790.00",
     "totalcount": 7,
