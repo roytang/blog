@@ -1,0 +1,34 @@
+{
+  "id": "faa63360-820f-4b7c-9cf8-29a3bb2c50c5",
+  "name": "Dominik Schwind",
+  "url": "https://dominikschwind.com/",
+  "text": "Mentioned by https://dominikschwind.com/link/what-is-a-zero-interest-rate-phenomenon\n\n> Sounds like a good explanation and roughly how I understand the expression, too.",
+  "date": "2023-08-31 23:50:37 +0800",
+  "photo": "https://webmention.io/avatar/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+  "source_url": "https://dominikschwind.com/link/what-is-a-zero-interest-rate-phenomenon",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+      "url": "https://dominikschwind.com/"
+    },
+    "url": "https://dominikschwind.com/link/what-is-a-zero-interest-rate-phenomenon",
+    "published": "2023-08-31T15:50:37",
+    "wm-received": "2023-08-31T15:50:41Z",
+    "wm-id": 1711244,
+    "wm-source": "https://dominikschwind.com/link/what-is-a-zero-interest-rate-phenomenon",
+    "wm-target": "https://roytang.net/2023/08/zero-interest-rate-phenomenon/",
+    "wm-protocol": "webmention",
+    "content": {
+      "html": "<p>Sounds like a good explanation and roughly how I understand the expression, too.</p>",
+      "text": "Sounds like a good explanation and roughly how I understand the expression, too."
+    },
+    "mention-of": "https://roytang.net/2023/08/zero-interest-rate-phenomenon/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
