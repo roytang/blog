@@ -3,7 +3,10 @@ date: 2023-08-31 12:54:41
 dontinlinephotos: true
 resources:
 - src: zirp.png
-  title: 'Search results for "zero interest rate phenomenon" on a social media platform'
+  title: Search results for "zero interest rate phenomenon" on a social media platform
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110984393214346934
 tags:
 - til
 title: What is a 'Zero Interest Rate Phenomenon'?
