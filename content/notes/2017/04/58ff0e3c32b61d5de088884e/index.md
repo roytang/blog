@@ -6,7 +6,8 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/58ff0e3c32b61d5de088884e
-tags: []
+tags: 
+- japan2017
 ---
 
 (@Tokyo Skytree (東京スカイツリー) 押上1-1-2)

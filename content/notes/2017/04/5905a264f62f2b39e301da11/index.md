@@ -6,7 +6,10 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/5905a264f62f2b39e301da11
-tags: []
+tags: 
+- japan2017
 ---
 
 (@Tokyo Tower (東京タワー) 芝公園4-2-8)
+
+One Piece / Final Fantasy Exhibits

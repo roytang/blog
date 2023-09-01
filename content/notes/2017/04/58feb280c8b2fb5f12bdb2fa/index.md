@@ -6,7 +6,8 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/58feb280c8b2fb5f12bdb2fa
-tags: []
+tags: 
+- japan2017
 ---
 
 (@Odawara Castle (小田原城) 城内)

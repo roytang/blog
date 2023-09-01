@@ -6,7 +6,8 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/5903de1eea1e444dee205814
-tags: []
+tags: 
+- japan2017
 ---
 
 (@Senso-ji Temple (浅草寺) 浅草2-3-1)
