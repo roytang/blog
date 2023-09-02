@@ -36,13 +36,11 @@ On the blog: I wrote about [fast food consumption](/2023/08/fast-food-consumptio
 
 - **Reading**: Feed reader backlog is starting to rise at 29 items. Still very early in the Daredevil run, but reading Marvel Unlimited via mobile data probably isn't feasible while at the hospital. I have preloaded some other books and comics I might want to read offline during the stay. (We shall see if I ever get around to them.)
 
-- **Watching**: No movies this week, but I am more than halfway into season 3 of **Star Wars Rebels**. Not sure if I can watch stuff while at the hospital.
+- **Watching**: No movies this week, but I have finished season 3 of **Star Wars Rebels**. Not sure if I can watch stuff while at the hospital.
 
 ### Walking
 
-<!-- TODO -->
-
-Google Fit tells me I walked 62,280 over the past week. I hit my walking target for most of the week, but Saturday was very rainy and busy with last-minute preps so I decided not to push it. Gonna be missing out on walking while I'm at the hospital anyway, hopefully I can get back to it quickly once we're out. 
+Google Fit tells me I walked 65,010 over the past week. I hit my walking target for most of the week, but Saturday was very rainy and busy with last-minute preps so I decided not to push it. Gonna be missing out on walking while I'm at the hospital anyway, hopefully I can get back to it quickly once we're out. 
 
 ### Some Links of Interest
 
