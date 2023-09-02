@@ -1,9 +1,12 @@
 ---
-title: "2023 Week 35"
-date: 2023-09-03T02:20:01+08:00
+date: 2023-09-02 18:20:01
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/110997608812029557
 tags:
 - weeknotes
+title: 2023 Week 35
 ---
 
 It is September. Publishing this one a bit early because events are accumulating rapidly and I will be busy Sunday (and for the foreseeable future), more on that below.
