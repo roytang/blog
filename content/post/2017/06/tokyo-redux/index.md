@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155749116598912
 tags:
 - Travels
+- japan2017
 title: Tokyo, Redux
 type: post
 url: /2017/06/tokyo-redux/
@@ -49,7 +50,7 @@ Aside from that, there's a few tourist spots you can visit in the city proper. S
   * Tokyo Tower. It's smaller than the Skytree, but I'm sure fans of Rayearth will want to visit it haha. I visited it on this last trip to see _One Piece_ and _Final Fantasy_ exhibits.
   * Shibuya crossing. It's a famous crosswalk for some reason, and there's also a statue here of that dog [Hachiko][5]. There's also a lot of shopping places nearby if you like that kind of thing.
 
-{{< photo "2017/05/10155586341493912/" "18238211_10155586285008912_8962147114996121859_o_10155586285008912" "There's a lot of temples in Tokyo (and the rest of Japan) where you can send prayers like this one here" >}}
+{{< photo "2017/04/toshougu/" "20170428_100947.jpg" "There's a lot of temples in Tokyo (and the rest of Japan) where you can send prayers like this one here" >}}
 
 {{< photo "2017/05/10155586341493912/" "18192971_10155586275873912_7657365650867510473_o_10155586275873912" "This is a picture of the Tokyo Skytree" >}}
 

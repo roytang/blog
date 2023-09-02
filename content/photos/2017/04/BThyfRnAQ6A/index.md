@@ -18,7 +18,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/59066b0a59fe5c6a4be5bbde
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155585038488912
-tags: []
+tags:
+- japan2017
 ---
 
 (@Terminal 2 (第2ターミナル) 古込1-1)
