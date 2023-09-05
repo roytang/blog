@@ -1,14 +1,18 @@
 ---
-title: "One Piece s1 (2023)"
-date: 2023-09-05T23:40:46+08:00
+date: 2023-09-05 15:40:46
+reviews:
+- description: A reasonably good adaptation, faithful in spirit and certainly better
+    than most other adaptations.
+  media: tv
+  rating: 4.0
+  title: One Piece s1 (2023)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111013517368664626
 tags:
 - tv
 - onepiece
-reviews:
-- media: tv
-  title: One Piece s1 (2023)
-  description: A reasonably good adaptation, faithful in spirit and certainly better than most other adaptations.
-  rating: 4.0
+title: One Piece s1 (2023)
 ---
 
 As a One Piece fan, I had been looking forward to this, but the recent history of live action anime adaptations has been spotty at best so I kept my expectations low. I am happy to report that this is a reasonably good adaptation and although the plot is compressed to fit as many arcs as possible in 8 episodes, the tone and spirit of the source material is alive and well and is certainly better than other recent live-action anime adaptations. 
