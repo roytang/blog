@@ -1,14 +1,18 @@
 ---
-title: "It’s Lonely at the Centre of the Earth by Zoe Thorogood"
-date: 2023-09-09T21:25:29+08:00
+date: 2023-09-09 13:25:29
+reviews:
+- description: Unbelievably good, wild and imaginative, makes me envious of the author's
+    talent.
+  media: comics
+  ration: 5.0
+  title: It’s Lonely at the Centre of the Earth by Zoe Thorogood
+  year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111035461303872569
 tags:
 - comics
-reviews:
-- media: comics
-  title: "It’s Lonely at the Centre of the Earth by Zoe Thorogood"
-  year: 2022
-  description: "Unbelievably good, wild and imaginative, makes me envious of the author's talent."
-  ration: 5.0
+title: It’s Lonely at the Centre of the Earth by Zoe Thorogood
 ---
 
 *It's Lonely at the Centre of the Earth* is an "auto-bio-graphic-novel" by up-and-coming UK graphic artist Zoe Thorogood, published by Image Comics.
