@@ -1,6 +1,13 @@
 ---
 date: 2023-09-09 16:10:43+00:00
 dontinlinephotos: true
+resources:
+- src: 111036061649982412_1_08b4a830a2cb26af.png
+  title: 'BG decklist for WOE sealed #1'
+- src: 111036061649982412_2_51fc8f88804449a7.png
+  title: 7 wins on the first sealed try!
+- src: 111036061649982412_3_e3c6a4252302d765.png
+  title: My sealed pool rares
 source: mastodon
 syndicated:
 - type: mastodon
