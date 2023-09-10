@@ -14,6 +14,7 @@ title: 2023 Week 36
 
 ### The World
 
+Eh, what? There's a world outside?
 ### My Week
 
 As mentioned last week, I spent most of this week in the hospital to take care of a loved one who was to undergo surgery. 
