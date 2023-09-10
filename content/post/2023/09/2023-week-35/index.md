@@ -30,7 +30,6 @@ On the blog: I wrote about [fast food consumption](/2023/08/fast-food-consumptio
         - **Baldur's Gate 3**: finally broke through to Act 2, but will be a while before I can play again.
         - Also started playing **Sea of Stars** via PC game pass. It's a very pretty game, but I am not too far in and again, it will be a while before I can get back to it.
         - Wrote the review for [Middle-Earth: Shadow of War](/2023/08/shadow-of-war/).
-        - **Middle-Earth: Shadow of War**: I finally hit 100% completion on this game! Will write the review post this week then I can move on.
         - Seeing if I can borrow some Switch RPG to play while I'm staying over at the hospital.
     - Online: 
         - **Magic Arena**: I was looking forward to drafting **Wilds of Eldraine** when it comes out this coming week, but it looks like I'm gonna miss out on that and a week or so of grinding at least. Too bad the game isn't actually available on mobile in SEA!
