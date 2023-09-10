@@ -3,7 +3,10 @@ date: 2023-09-10 05:49:18
 dontinlinephotos: true
 resources:
 - src: 20230903_173758.jpg
-  title: "Look at me. I'm the watcher now!"
+  title: Look at me. I'm the watcher now!
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111039422171311151
 tags:
 - weeknotes
 title: 2023 Week 36
