@@ -77,7 +77,7 @@ toc: true
 
 ### Previously
 
-This is part 4.1 {{< footnote >}}I will keep up with this arbitrary numbering system for as long as I can manage; it feels very on-brand for the comic book world!{{< /footnote >}} in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and catalog the effort in blog posts. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). I am tackling the older/longer series first, and going in "MCU Order", but now I'm also doing these "side mission" posts {{< footnote >}}I need a better name for these{{< /footnote >}} to cover series/runs that I have mostly already read prior to starting this effort. The [previous main entry was about Thor v1](/2023/05/marvel-run-4-thor-etc/#dark-web-2023). 
+This is part 4.1 [^1] in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and catalog the effort in blog posts. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). I am tackling the older/longer series first, and going in "MCU Order", but now I'm also doing these "side mission" posts [^2] to cover series/runs that I have mostly already read prior to starting this effort. The [previous main entry was about Thor v1](/2023/05/marvel-run-4-thor-etc/#dark-web-2023). 
 
 Actually, most of this entry was originally planned to be included in the Thor v1 post, but it was already far too long, so it gets to be the first "side mission" content instead.
 
@@ -217,3 +217,6 @@ Well, we hardly made a dent in the progress bar (<1% added), but it's something,
 Ongoing: Avengers v1, currently up to around #90 I think, so a bit less than 25% done, and I am covering annuals this time as well.
 
 For the next "side mission" posts, will most probably do either *Amazing Spider-Man* or some 90s X-Men stuff maybe?
+
+[^1]: I will keep up with this arbitrary numbering system for as long as I can manage; it feels very on-brand for the comic book world!
+[^2]: I need a better name for these
