@@ -1,13 +1,16 @@
 ---
-title: "Saving Time by Jenny Odell"
-date: 2023-09-11T05:19:55+08:00
+date: 2023-09-10 21:19:55
+reviews:
+- author: Jenny Odell
+  media: books
+  rating: 3.5
+  title: Saving Time by Jenny Odell
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111042999587273549
 tags:
 - books
-reviews:
-- media: books
-  title: "Saving Time by Jenny Odell"
-  author: Jenny Odell
-  rating: 3.5
+title: Saving Time by Jenny Odell
 ---
 
 I think I heard about this book because it was mentioned in a blog I follow, but I am no longer able to find the relevant post. This book reminded me of my only other non-fiction read so far this year, [Four Thousand Weeks](/2023/03/four-thousand-weeks/), especially in the sense that I initially thought it would be about time management but it turns out to be more of a philosophical discussion of what time even means and different ways to think about time especially outside of the dominant capitalist productivity context.
@@ -98,4 +101,4 @@ The book was a good read but a bit challenging as it's quite information dense s
 #### Chapter 7: Life Extension
 
 > Maybe “the point” isn’t to live more, in the literal sense of a longer or more productive life, but rather, to be more alive in any given moment—a movement outward and across, rather than shooting forward on a narrow, lonely track. 
-> 
+>
