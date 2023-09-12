@@ -93,6 +93,7 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Favorite Color | Favorite Format | Mastery Level | Constructed Rank | Limited Rank | Games Played | Quest Gold | Daily Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Lord of the Rings: Tales of Middle-earth](/2023/09/111047010694586246/) | Sep 2023 | 77 | Red | Historic | 87 | Plat1 | Gold4 | 242 | 47,000 | 33,000 |
 | [March of the Machine](/2023/06/mtgmom-stats/) | Jun 2023 | 105 | Black | Standard Ranked | 78 | Mythic | Plat4 | 351 | 39,500 | 33,150 |
 | [Phyrexia All Will Be One](/2023/04/1651196904439689218/) | Apr 2023 | 133 | White | Standard Ranked | 82 | Mythic | Plat3 | 370 | 40,000 | 36,450 |
 | [Brothers War](/2023/02/1624270286182027267/) | Feb 2023 | 123 | White | Trad Historic | 108 | Plat1 | Plat4 | 489 | 50,500 | 42,500 |
