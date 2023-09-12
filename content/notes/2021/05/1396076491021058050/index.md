@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1396076491021058050/
 - type: twitter
   url: https://twitter.com/roytang/status/1398158244976070662/
+tags:
+- fitbit
 ---
 
 Fitbit strap broke this morning. Because we are cheap, I mean, frugal and environmentally conscious, let's try a DIY fix before rushing to order a new one: mighty bond + masking tape 
