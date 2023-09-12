@@ -3,21 +3,24 @@ date: 2023-09-12 16:09:13
 dontinlinephotos: true
 resources:
 - src: fitbit_strap.jpg
-  title: 'New Fitbit''s strap broke after 2 days!'
+  title: New Fitbit's strap broke after 2 days!
 - src: Screenshot_20230912_070924_Lazada.jpg
-  title: 'Excerpt of my convos with the Lazada seller support'
+  title: Excerpt of my convos with the Lazada seller support
 - src: Screenshot_20230912_070933_Lazada.jpg
-  title: 'Excerpt of my convos with the Lazada seller support'
+  title: Excerpt of my convos with the Lazada seller support
 - src: Screenshot_20230912_070942_Lazada.jpg
-  title: 'Excerpt of my convos with the Lazada seller support'
+  title: Excerpt of my convos with the Lazada seller support
 - src: Screenshot_20230912_070950_Lazada.jpg
-  title: 'Excerpt of my convos with the Lazada seller support'
+  title: Excerpt of my convos with the Lazada seller support
+subtitle: And also my first poor experience with a Lazada seller
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111053083424755654
 tags:
 - tech-life
 - fitbit
 - lazada
 title: Moving on from Fitbit
-subtitle: And also my first poor experience with a Lazada seller
 ---
 
 I first got a Fitbit Charge 2 back in mid-2017 and [wrote a short review of it in 2018](/2018/11/fitbit/). Since then I have been generally happy using the device with little concern, except for occasionally [having to buy replacement straps](/2021/05/1396076491021058050/) which I didn't mind too much as they weren't very expensive. 
