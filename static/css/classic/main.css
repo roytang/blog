@@ -956,3 +956,7 @@ article.home .sampler {
 .footnote-inline {
     font-size: smaller;
 }
+
+.subtitle {
+    font-style: italic;
+}
