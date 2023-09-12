@@ -2,15 +2,16 @@
 author: roy
 categories: []
 date: 2018-11-29 02:06:56
+dontinlinephotos: true
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1067976798535860224/
 tags:
 - walking
 - Tech Life
+- fitbit
 title: 'Review: Fitbit Charge 2'
 type: post
-dontinlinephotos: true
 ---
 
 I mentioned in [yesterday's post about my daily walks](/2019/11/daily-walks/) that my brother got me a Fitbit Charge 2 mid last year, I thought I'd write a quick review. (Actually, this is mainly an excuse to write down a story about how stupid I am.)
