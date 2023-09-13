@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/246595833347313664/
 tags:
 - gaming
+- mtg
 ---
 
 Just realized I probably won't be able to attend the RTR prerelease.D:
