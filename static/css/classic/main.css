@@ -499,10 +499,11 @@ hr {
 div.image-list {
     --auto-grid-min-size: 16rem;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 0.5rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
+    grid-template-rows: masonry;
 }
 
 div.image-list figure {
@@ -729,11 +730,6 @@ td {
     .featured_image figure {
         width: 100%;
     }
-}
-
-.image-list figure .imgwrapper {
-    max-height: 16em;
-    overflow: hidden;
 }
 
 a.tag, a.album {

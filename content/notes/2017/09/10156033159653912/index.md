@@ -11,8 +11,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156033159653912
 tags:
 - fbreposts09
+- pugadbaboy
 ---
 
 Ate Bulaga  By: Pol Medina Junior    Para sa iba pang kwentong  # PugadBaboy , pumunta sa  www.rappler.com /pugad-baboy
 
-{{% photos 10156033159653912%}}
+{{% photos 21731606_1769304109757031_2899402243656013520_o %}}
