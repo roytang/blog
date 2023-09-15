@@ -6,12 +6,18 @@ resources:
   title: 'Premier draft #6 decklist (WR)'
 - src: 111068925169720505_2_57ca19361f4deabc.png
   title: 'Premier draft #7 decklist (RGb)'
+- src: 111069538322721209_1_cf7b6e74136b5b76.png
+  title: 'Premier draft #8 decklist (WB)'
+- src: 111069538322721209_2_58c06189d012227f.png
+  title: Premier draft 8 (7 wins!)
 source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111063148374230519
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111068925169720505
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111069538322721209
 tags:
 - twitch
 - mtgwoe
@@ -24,3 +30,7 @@ tags:
 <time id="111068925169720505">[2023-09-15 19:28] </time> <p>Draft no. 6  (WR) went well (6-3), but draft 7 (RGb) was terrible (1-3). </p><p>YT: <a href="https://www.youtube.com/watch?v=HT7mbEwLPpU" target="_blank" rel="nofollow noopener noreferrer"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=HT7mbEwLPp</span><span class="invisible">U</span></a></p><p>Not sure if I&#39;m ready, but looking forward to the Arena Open this weekend!</p>
 
 {{< photos 111068925169720505 >}}
+
+<time id="111069538322721209">[2023-09-15 22:04] </time> <p>Did an 8th draft off-stream and we got our 2nd draft trophy! I guess I feel more or less prepared for the Open this weekend, hoping for the best! :D</p>
+
+{{< photos 111069538322721209 >}}
