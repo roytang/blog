@@ -9,7 +9,11 @@ tags:
 - fbreposts05
 ---
 
-The image shared in the post below feels to me like it might be thinly-veiled propaganda designed to condition people into demonizing the press and suppressing freedom of expression (APC isn't the only one who can cite conspiracy theories) As far as I remember, every president as far back as Erap... More
+The image shared in the post below feels to me like it might be thinly-veiled propaganda designed to condition people into demonizing the press and suppressing freedom of expression (APC isn't the only one who can cite conspiracy theories)
+
+As far as I remember, every president as far back as Erap has complained about the press only reporting bad news. The nature of the press is that they prefer bad news because humans spread bad news faster than good news. And it is true that there are those who are irresponsible, and for this reason we rightly call them out and condemn them in those instances. But it is far, far better to err on the side of allowing that irresponsibility than to stifle a possible avenue for dissent
+
+We need civil liberties such as freedom of the press because even if you believe that the current government has the best interests of the people at heart, there is no guarantee that will always be so, or that succeeding governments will always be such. Therefore, regardless of your political affiliation you should speak out to condemn such attempts to put freedom of the press in a harsh light
 
 {{% quoted url="https://www.facebook.com/profile.php/posts/10154448502378991" label="David Ramirez's Facebook post" %}}
 
