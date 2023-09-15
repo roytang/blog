@@ -1,8 +1,11 @@
 ---
-title: "How We Used to Watch Movies"
-date: 2023-09-14T15:47:21+08:00
+date: 2023-09-14 07:47:21
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111062433564986473
 tags:
 - movies
+title: How We Used to Watch Movies
 ---
 
 kottke.org [writes](https://kottke.org/23/09/psycho-and-the-end-of-the-continuously-showing-movie):
