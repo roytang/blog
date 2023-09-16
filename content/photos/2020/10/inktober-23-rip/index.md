@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1319394301718114304/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1319414347345477632/
+- type: instagram
+  url: https://www.instagram.com/p/CGqU4Dkh3OP/
 tags:
 - inktober
 - inktober2020
