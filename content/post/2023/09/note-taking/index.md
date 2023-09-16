@@ -1,6 +1,9 @@
 ---
-title: "On Note-Taking"
-date: 2023-09-16T13:45:44+08:00
+date: 2023-09-16 05:45:44
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111073584453121697
+title: On Note-Taking
 ---
 
 I've never been very good at note-taking. In fact in high school and college I had a bit of pride in getting through many of my classes without bothering to take notes. It's not a skill I ever really developed.
