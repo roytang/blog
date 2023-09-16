@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1218367261032890369/
 - type: instagram
   url: https://www.instagram.com/p/B7cd59jBhng/
+tags:
+- instacomments
 title: Saturday Morning at the University
 ---
 

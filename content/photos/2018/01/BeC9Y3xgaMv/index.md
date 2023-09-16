@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2018-01-17 02:52:58-07:00
+date: 2018-01-17 09:52:58
 location: ''
 source: instagram
 syndicated:
@@ -15,6 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156344396638912:0
 tags:
 - lifeprotips
+- instacomments
 ---
 
 #lifeprotips

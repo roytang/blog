@@ -20,6 +20,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154670405678912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Penguins! Wait what? #sketchdaily

@@ -20,6 +20,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154668058088912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Morning rituals #sketchdaily

@@ -15,6 +15,7 @@ tags:
 - sketch
 - xmen
 - polaris
+- instacomments
 ---
 
 Polaris. Back to digital again, and trying out colors. A bit happier with my proportions this time. Now 3 out of 6 of the Peter David era X-Factor #sketch #xmen #polaris

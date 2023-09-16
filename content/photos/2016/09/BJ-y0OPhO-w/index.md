@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154883116623912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Some sort of city #sketchdaily the colors here are weird I know

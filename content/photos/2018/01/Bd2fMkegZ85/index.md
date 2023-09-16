@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2018-01-12 06:38:16-07:00
+date: 2018-01-12 13:38:16
 location: ''
 source: instagram
 syndicated:
@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156332741978912:0
 tags:
 - hkpf
+- instacomments
 ---
 
 I used to have four of these little #hkpf peeps. I wonder where the others went

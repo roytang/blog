@@ -2,7 +2,7 @@
 albums:
 - instagram
 - food
-date: 2016-06-18 17:43:21+08:00
+date: 2016-06-18 09:43:21
 location: ''
 source: instagram
 syndicated:
@@ -14,7 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154680143978912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154680144043912
-tags: []
+tags:
+- instacomments
 ---
 
 I did poorly today so Pepper Lunch na lang

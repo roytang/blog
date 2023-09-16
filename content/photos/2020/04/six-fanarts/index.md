@@ -18,6 +18,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/103991802738206796
 tags:
 - SixFanarts
+- instacomments
 title: Six Fanarts
 ---
 

@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154395947358912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Drawing babies is tough #sketchdaily I couldnt do this one without the reference image

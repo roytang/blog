@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1310505156589494274/
 - type: instagram
   url: https://instagram.com/p/CFrKepfhZ4r/
+tags:
+- instacomments
 title: Nintendo Switch
 ---
 

@@ -16,6 +16,7 @@ syndicated:
 tags:
 - boardgamenight
 - boardgames
+- instacomments
 ---
 
 Pandemic cthulhu #boardgamenight

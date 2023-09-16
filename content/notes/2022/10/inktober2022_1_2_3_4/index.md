@@ -19,6 +19,7 @@ tags:
 - inktober
 - inktober2022
 - sketchdaily
+- instacomments
 title: 'Inktober 2022 #1-4'
 ---
 

@@ -17,6 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - dawnofjustice
+- instacomments
 ---
 
 Just doodles today #sketchdaily #dawnofjustice

@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154569692888912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Arrow #sketchdaily the pose is based on David Aja's Hawkeye cover

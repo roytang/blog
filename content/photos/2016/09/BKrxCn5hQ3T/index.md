@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - philippines
 - reddit_submission
+- instacomments
 ---
 
 Senator Boxer #sketchdaily #philippines

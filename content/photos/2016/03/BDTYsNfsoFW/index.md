@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - sketchbookpro
+- instacomments
 ---
 
 Homer vs the Internet (xkcd 386) #sketchdaily #sketchbookpro

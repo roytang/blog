@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155188607138912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Pig and duck #sketchdaily

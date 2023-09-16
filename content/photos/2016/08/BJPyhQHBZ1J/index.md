@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154831808858912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 IDK, some kind of dog. Painting is hard #sketchdaily

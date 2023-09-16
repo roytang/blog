@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-20 13:40:42-07:00
+date: 2016-06-20 20:40:42
 location: ''
 source: instagram
 syndicated:
@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - transformers
+- instacomments
 ---
 
 Light our darkest hour #sketchdaily #transformers

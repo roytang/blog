@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - zelda
+- instacomments
 ---
 
 A Link to the Past #sketchdaily #zelda @beyondbidj

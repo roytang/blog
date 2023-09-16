@@ -19,6 +19,7 @@ tags:
 - mtg
 - mtgphnationals
 - mtgnats2017
+- instacomments
 title: MTG PH Nationals 2017
 ---
 

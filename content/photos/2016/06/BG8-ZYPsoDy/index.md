@@ -2,7 +2,7 @@
 albums:
 - sketchbook
 - instagram
-date: 2016-06-22 03:04:16-07:00
+date: 2016-06-22 10:04:16
 location: ''
 source: instagram
 syndicated:
@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154689865143912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Professor Layton and His Top Hat and Luke and the Case of the Poorly Drawn Hands #sketchdaily

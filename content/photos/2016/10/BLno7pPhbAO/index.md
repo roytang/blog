@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - inktober
+- instacomments
 ---
 
 Riding through the rain #sketchdaily #inktober

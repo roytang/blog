@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - rurounikenshin
+- instacomments
 ---
 
 Duel of an Era (shishio part 2) #sketchdaily #rurounikenshin

@@ -16,6 +16,7 @@ syndicated:
 tags:
 - lucky
 - japan2015
+- instacomments
 ---
 
 #lucky

@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154760696433912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 An agile and toasty warm knight #sketchdaily (random prompt via www.ineedaprompt.com)

@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154835035673912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Trying to copy a sketch from one of favorite comic artists' twitter #sketchdaily

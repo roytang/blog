@@ -1,5 +1,5 @@
 ---
-date: 2020-04-11 17:57:37+00:00
+date: 2020-04-11 17:57:37
 source: twitter
 syndicated:
 - type: twitter
@@ -12,6 +12,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/103981249249831442
 tags:
 - SixFanarts
+- instacomments
 title: ''
 ---
 

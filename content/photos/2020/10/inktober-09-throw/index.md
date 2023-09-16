@@ -11,6 +11,7 @@ syndicated:
 tags:
 - inktober
 - inktober2020
+- instacomments
 title: 'Inktober 2020 Day 9: Throw'
 ---
 

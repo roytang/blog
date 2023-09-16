@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2017-11-13 06:49:55-07:00
+date: 2017-11-13 13:49:55
 location: ''
 source: instagram
 syndicated:
@@ -17,6 +17,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156182000983912:0
 tags:
 - Legos
+- instacomments
 ---
 
 The niece is staying over so I had her assemble some #Legos to keep her busy

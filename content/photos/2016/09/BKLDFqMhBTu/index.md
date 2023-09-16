@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154896275213912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Inappropriate places to catch pokemon #sketchdaily

@@ -5,6 +5,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1277836735389421568/
 - type: instagram
   url: https://www.instagram.com/p/CCDCqOBBqxa/
+tags:
+- instacomments
 title: 2006 vs 2020
 ---
 

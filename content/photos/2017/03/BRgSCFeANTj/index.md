@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - paperbyfiftythree
+- instacomments
 ---
 
 Some kid #sketchdaily #paperbyfiftythree

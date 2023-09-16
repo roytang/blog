@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - transformers
+- instacomments
 ---
 
 Rejected Beast Wars characters: CowScream #sketchdaily #transformers

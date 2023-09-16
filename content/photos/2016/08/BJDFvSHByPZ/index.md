@@ -1,5 +1,5 @@
 ---
-date: 2016-08-13 12:06:40+00:00
+date: 2016-08-13 12:06:40
 source: instagram
 syndicated:
 - type: instagram
@@ -13,6 +13,7 @@ syndicated:
 tags:
 - treatyoself
 - instagram
+- instacomments
 title: ''
 ---
 

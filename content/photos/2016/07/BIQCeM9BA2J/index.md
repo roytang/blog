@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154769300748912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 "You're free now Legolas!" #sketchdaily

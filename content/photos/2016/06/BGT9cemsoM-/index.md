@@ -1,5 +1,5 @@
 ---
-date: 2016-06-06 11:47:06+00:00
+date: 2016-06-06 11:47:06
 source: instagram
 syndicated:
 - type: instagram
@@ -10,6 +10,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154651057183912
 tags:
 - instagram
+- instacomments
 title: ''
 ---
 

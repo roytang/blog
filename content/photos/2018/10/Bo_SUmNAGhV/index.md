@@ -18,5 +18,6 @@ syndicated:
 tags:
 - philippines
 - reddit_submission
+- instacomments
 title: Quezon Memorial Shrine
 ---

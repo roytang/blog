@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155328283033912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Draw a dinosaur day #sketchdaily

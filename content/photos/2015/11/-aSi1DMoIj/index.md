@@ -15,6 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154209546023912
 tags:
 - japan2015
+- instacomments
 ---
 
 There's a cat inside the dog!

@@ -16,6 +16,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154399672968912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Amazing Fantasy 15 #sketchdaily the problem with drawing spider-man is all those webs on the costume

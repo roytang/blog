@@ -10,6 +10,8 @@ syndicated:
   url: https://instagram.com/p/B1bA1tvBzO1/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164125616674922502/
+tags:
+- instacomments
 ---
 
 Pizza rickroll. This is a test.

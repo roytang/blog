@@ -20,6 +20,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154423519108912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Let's go exploring! #sketchdaily

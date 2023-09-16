@@ -25,6 +25,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154248325078912
 tags:
 - pickups
+- instacomments
 ---
 
 Snaaaaaaaake!

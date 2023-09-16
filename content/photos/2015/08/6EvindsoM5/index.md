@@ -12,7 +12,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153996215693912:1
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153998387573912
-tags: []
+tags:
+- instacomments
 ---
 
 Poorly cooked bacon and leftover rice

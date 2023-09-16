@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - inktober
+- instacomments
 ---
 
 Scared #sketchdaily #inktober

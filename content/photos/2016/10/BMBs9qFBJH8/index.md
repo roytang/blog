@@ -1,5 +1,5 @@
 ---
-date: 2016-10-26 12:45:07+00:00
+date: 2016-10-26 12:45:07
 source: instagram
 syndicated:
 - type: instagram
@@ -13,6 +13,7 @@ syndicated:
 tags:
 - instagram
 - food
+- instacomments
 title: ''
 ---
 

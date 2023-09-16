@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - dayofthetentacle
+- instacomments
 ---
 
 "I feel like I could TAKE OVER THE WORLD!" #sketchdaily #dayofthetentacle

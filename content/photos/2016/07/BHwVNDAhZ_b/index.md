@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154738681073912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Secretary bird #sketchdaily

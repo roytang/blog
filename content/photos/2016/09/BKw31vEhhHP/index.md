@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154938049688912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Street bubble guy #sketchdaily

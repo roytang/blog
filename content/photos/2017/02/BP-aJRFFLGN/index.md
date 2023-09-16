@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155330462123912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 Cyborg #sketchdaily

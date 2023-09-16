@@ -16,6 +16,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155117393163912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 After a successful hunt, the vikings prepared to feast #sketchdaily

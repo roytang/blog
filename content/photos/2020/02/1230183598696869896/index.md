@@ -8,4 +8,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1230183598696869896/
 - type: instagram
   url: https://www.instagram.com/p/B8wXtP2B6xr/
+tags:
+- instacomments
 ---

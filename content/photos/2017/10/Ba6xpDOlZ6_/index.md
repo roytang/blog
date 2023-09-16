@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2017-10-31 09:02:13-07:00
+date: 2017-10-31 16:02:13
 location: ''
 source: instagram
 syndicated:
@@ -13,7 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/925392553503088645/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156150627318912:0
-tags: []
+tags:
+- instacomments
 ---
 
 I was supposed to be cleaning stuff in my room but I somehow ended up putting together some long-disassembled Legos

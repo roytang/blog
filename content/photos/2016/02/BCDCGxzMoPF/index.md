@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154387632913912
 tags:
 - sketchdaily
+- instacomments
 ---
 
 It's hard to guess who I was trying to draw lol #sketchdaily
