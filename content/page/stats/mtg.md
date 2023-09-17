@@ -45,6 +45,8 @@ toc: true
 
 | Year | Month | Format |  | D1 W | D1 L | D1 D | D2 W | D2 L | D2 D |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 2023 | 09 | Sealed | Wilds of Eldraine | 3 | 3 |
+| 2023 | 09 | Sealed | Wilds of Eldraine | 5 | 3 |
 | 2023 | 03 | Sealed | Phyrexia All Will Be One | 1 | 3 |
 | 2023 | 03 | Sealed | Phyrexia All Will Be One | 2 | 3 |
 | 2023 | 01 | Sealed | Kaldheim | 2 | 3 |
