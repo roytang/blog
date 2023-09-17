@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1347220440322768902/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/ksaamq/january_7th_icicles/gifukm2/
+- type: instagram
+  url: https://www.instagram.com/p/CJwDkIKBJpY/
 tags:
 - sketchdaily
 ---

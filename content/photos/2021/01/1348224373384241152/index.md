@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1348224373384241152/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/kubtr8/january_10th_cake/gir6gdo/
+- type: instagram
+  url: https://www.instagram.com/p/CJ3NJyVBvIk/
 tags:
 - sketchdaily
 ---

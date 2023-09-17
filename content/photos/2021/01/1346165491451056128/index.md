@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1346165491451056128/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/kq5s7a/january_4th_pet_rock/gi3f6df/
+- type: instagram
+  url: https://www.instagram.com/p/CJokkN6BlWO/
 tags:
 - sketchdaily
 albums:

@@ -17,6 +17,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1393504227658399749/
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/106238705843447233
+- type: instagram
+  url: https://www.instagram.com/p/CO7ql-mB2a-/
 tags:
 - onepiece
 title: 'Saturday Afternoon Activity: Assembling a One Piece ship!'

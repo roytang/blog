@@ -13,6 +13,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/yemx75/october_27th_inktober_snack/iu12p4m/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/yfiyv6/october_28th_inktober_uhoh/iu3vsut/
+- type: instagram
+  url: https://www.instagram.com/p/CkOqzxxB5N4/
 tags:
 - inktober
 - inktober2022

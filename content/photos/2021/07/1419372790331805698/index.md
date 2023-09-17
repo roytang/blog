@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1419374175630680064/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/oqmevn/july_24th_sushi/h6i4smq/
+- type: instagram
+  url: https://www.instagram.com/p/CRyzVytsm7O/
 tags:
 - sketchdaily
 - procreate

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1347604495987982336/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/kszji6/january_8th_free_draw_friday/gikctb0/
+- type: instagram
+  url: https://www.instagram.com/p/CJyyjZKB325/
 tags:
 - sketchdaily
 albums:

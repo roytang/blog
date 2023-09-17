@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1399566991870943233/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/nnjduo/may_29th_summer_fashion/h05wmyu/
+- type: instagram
+  url: https://www.instagram.com/p/CQtV5pXsugD/
 tags:
 - sketchdaily
 ---

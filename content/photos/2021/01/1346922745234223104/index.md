@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1346922745234223104/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/krkyi9/january_6th_koolaid_man/gicnhw3/
+- type: instagram
+  url: https://www.instagram.com/p/CJuCanchwNi/
 tags:
 - sketchdaily
 albums:

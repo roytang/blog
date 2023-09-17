@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1351927271817322498/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/l168ia/january_20th_coneflower/gjyhl3z/
+- type: instagram
+  url: https://www.instagram.com/p/CKRgCQWBPSi/
 tags:
 - sketchdaily
 ---

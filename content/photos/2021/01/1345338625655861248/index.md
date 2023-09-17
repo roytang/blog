@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1345338625655861248/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/kov14y/january_2nd_self_portrait/ghtjvan/
+- type: instagram
+  url: https://www.instagram.com/p/CJircEPB2x7/
 tags:
 - sketchdaily
 albums:

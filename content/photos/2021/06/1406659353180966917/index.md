@@ -10,6 +10,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/o3bt7w/june_19th_bicycle/h2g4zd8/
 - type: twitter
   url: https://twitter.com/roytang/status/1406674988581588992/
+- type: instagram
+  url: https://www.instagram.com/p/CQtV5pXsugD/
 tags:
 - sketchdaily
 ---
