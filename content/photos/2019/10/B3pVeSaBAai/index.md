@@ -3,6 +3,9 @@ albums:
 - instagram
 date: 2019-10-15 16:42:39
 location: pedrotaphouse
+resources:
+- src: 72831312_1179746602223753_7594879785793224704_n.jpg
+  title: Photo c/o PopQuiz
 source: instagram
 syndicated:
 - type: twitter
