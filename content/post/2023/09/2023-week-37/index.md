@@ -1,6 +1,9 @@
 ---
-date: 2023-09-17T23:39:37+08:00
+date: 2023-09-17 15:39:37
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111081746886655100
 tags:
 - weeknotes
 title: 2023 Week 37
