@@ -4,6 +4,9 @@ albums:
 checkin_id: 58416a5076b8b2595e647376
 date: 2016-12-02 15:48:07
 location: 5579775a498e1dcc65578f9a
+resources:
+- src: 15384548_10154165456473067_2234650605896647050_o.jpg
+  title: Photo c/o GeekFight! Trivia Night
 source: instagram
 syndicated:
 - type: instagram
