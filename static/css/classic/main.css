@@ -956,3 +956,7 @@ article.home .sampler {
 .subtitle {
     font-style: italic;
 }
+
+img.tn {
+    height: auto;
+}
