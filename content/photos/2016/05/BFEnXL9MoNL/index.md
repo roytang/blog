@@ -1,5 +1,6 @@
 ---
 date: 2016-05-06 16:14:08
+location: 5579775a498e1dcc65578f9a
 resources:
 - src: geekfight-20160507splice.jpg
   title: Photo c/o GeekFight! Trivia Night

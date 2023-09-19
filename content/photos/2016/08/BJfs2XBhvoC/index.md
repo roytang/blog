@@ -18,6 +18,10 @@ resources:
   title: Photo c/o PopQuiz
 - src: 14102951_526279147570505_8084194861655023836_o.jpg
   title: Photo c/o PopQuiz
+- src: 14107885_10210125948405988_163641277473277409_o.jpg
+  title: Photo c/o Faith
+- src: 14138150_10210125242708346_2150811698551252564_o.jpg
+  title: Photo c/o Faith
 source: instagram
 syndicated:
 - type: instagram

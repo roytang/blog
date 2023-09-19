@@ -5,6 +5,8 @@ date: 2016-07-12 01:30:04
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/752679115585646592/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154738171438912
 tags:
 - quora
 - Self-improvement

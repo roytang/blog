@@ -1,5 +1,6 @@
 ---
 date: 2016-07-01 16:12:33
+location: 5579775a498e1dcc65578f9a
 resources:
 - src: 13584724_10153753738578067_508574269180903848_o.jpg
   title: 'Image source: Geekfight Trivia Night'

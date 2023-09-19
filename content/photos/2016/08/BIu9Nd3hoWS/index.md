@@ -1,5 +1,6 @@
 ---
 date: 2016-08-05 16:27:20
+location: 5579775a498e1dcc65578f9a
 resources:
 - src: 13920407_10153822456578067_2243781691554152474_o.jpg
   title: Photo c/o GeekFight! Trivia Night

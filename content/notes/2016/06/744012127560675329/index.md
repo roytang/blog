@@ -17,6 +17,8 @@ tags:
 - mtg
 ---
 
+Attended WMCQ @ Fisher Mall
+
 R1 0-2 loss vs rg ramp sigh #wmcq #mtg
 
 <time>[13:12]</time> R2 2-1 win vs uw spirits #mtg #wmcq
