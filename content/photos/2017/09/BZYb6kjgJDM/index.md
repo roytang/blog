@@ -1,8 +1,11 @@
 ---
 albums:
 - instagram
-date: 2017-09-23 04:26:48-07:00
-location: ''
+date: 2017-09-23 11:26:48
+location: 57f8cba4498e0e9079df51f1
+resources:
+- src: 21688383_1686849077993044_5803410890206441056_o.jpg
+  title: photo c/o Liz
 source: instagram
 syndicated:
 - type: instagram
@@ -15,6 +18,7 @@ tags:
 - popquizph
 - hungrymeeples
 - quiznight
+- popquiz
 ---
 
 May prize na kami ulit after a while! #popquizph #hungrymeeples
