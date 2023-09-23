@@ -92,13 +92,13 @@ I know, I know this page layout could use a lot of work.
 | **Apr** | Rise of the Eldrazi | [Prerelease](/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | Nationals Qualifier [Jun 5](/2010/06/15487958307/) [Jun 27](/2010/06/17142581183/) |
 | **Feb** | Worldwake | [Prerelease](/2010/01/8412293186/) | |
 | **2009** |
-| **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) | |
+| **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) [PTQ San Diego 1](/2009/11/5914958624/) | |
 | **Jul** | Magic 2010 | [Release](/2009/07/2704722593/) [Grand Prix Bangkok](/2009/08/3506936168/) | |
 | **Apr** | Alara Reborn | [Prerelease](/2009/05/alara-reborn-prerelease-for-real-this-time/) [Release](/2009/05/alara-reborn-release/) | [Regionals](/2009/05/regionals-2009-finest-hour-top-8/) (Standard - Finest Hour) |
 | **Feb** | Conflux | [Prerelease](/2009/02/conflux-prerelease/) [Release](/2009/02/conflux-release-event/) | |
 | **2008** |
 | **Sep** | Shards of Alara | [Prerelease](/2008/10/shards-of-alara-prerelease/) [GPT Taipei I](/2008/10/gpt-taipei-i-top8/) [II](/2008/10/gpt-taipei-ii/) [Grand Prix Manila 2008](/2008/09/grand-prix-manila-day-one-report/) | |
-| **Jul** | Eventide | [Prerelease](/2008/07/eventide-prerelease/) | |
+| **Jul** | Eventide | [Prerelease](/2008/07/eventide-prerelease/) | [Philippine Open Block](/2008/08/2008-philippine-open-block-top-16/) [PTQ Berlin I](/2008/08/ptq-berlin-i/) |
 | **May** | Shadowmoor | [Prerelease](/2008/04/shadowmoor-prerelease/) [Sneak Peek](/2008/04/shadowmoor-sneak-peek/) | |
 | **Feb** | Morningtide | | |
 | **2007** |

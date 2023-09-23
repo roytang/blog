@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2007-07-01 16:15:39
+location: robinsons_galleria
 tags:
 - mtg
 title: PTQ Valencia 2007-06-30 @ NG Galleria

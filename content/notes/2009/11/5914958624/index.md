@@ -1,6 +1,14 @@
 ---
+title: PTQ San Diego 1
 date: 2009-11-21 09:06:05
 location: robinsons_galleria
+resources:
+- src: 10391962_187344247421_7298674_n.jpg
+  title: Photo c/o Neutral Grounds Philippines
+- src: 10391962_187344302421_6533679_n.jpg
+  title: Photo c/o Neutral Grounds Philippines
+- src: 10391962_187344352421_1669051_n.jpg
+  title: Photo c/o Neutral Grounds Philippines
 source: twitter
 syndicated:
 - type: twitter
