@@ -14,6 +14,7 @@ syndicated:
 tags:
 - tech-life
 - wordle
+- web-games
 title: Wordle, 15 Million Tweets Later / Robert Lesser / Observable
 ---
 

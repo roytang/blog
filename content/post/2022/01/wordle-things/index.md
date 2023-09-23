@@ -9,6 +9,7 @@ tags:
 - games
 - tech-life
 - wordle
+- web-games
 title: Wordle and Things Like It
 ---
 
