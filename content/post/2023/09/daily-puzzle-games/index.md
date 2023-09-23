@@ -1,9 +1,12 @@
 ---
-title: "Daily Web Games and similar things"
-date: 2023-09-23T14:22:09+08:00
+date: 2023-09-23 06:22:09
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111113314346859205
 tags:
 - gaming
 - web-games
+title: Daily Web Games and similar things
 ---
 
 I stopped playing [Wordle](/tags/wordle/) [early last year](/2022/04/final-wordles/) but since then I have still regularly encountered a type of online game I call "daily web games" characterized similarly to Wordle in that they are (a) web-based and (b) come out with a new game/puzzle/challenge every day. Here are some of the ones I've encountered.
