@@ -1,5 +1,5 @@
 ---
-title: "Daily Web Games"
+title: "Daily Web Games and similar things"
 date: 2023-09-23T14:22:09+08:00
 tags:
 - gaming
