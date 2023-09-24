@@ -54,7 +54,9 @@ Managed 70,691 steps this past week (Sunday through Saturday), according to Goog
 
 ### Some Links of Interest
 
-- [I'm a Spotless Giraffe. | Ben Myers](https://benmyers.dev/blog/spotless-giraffe/): > "It is something of an amusing curiosity that some AI models were perplexed by a giraffe without spots. But it's these same tools and paradigms that enshrine normativity of all kinds, "sanding away the unusual." As tech continues to charge headfirst into AI hype, this is going to have far-reaching, yet largely invisible to the mainstream, consequences to anyone on the wrong side of that normativity. Better hope you have spots."
+- [I'm a Spotless Giraffe. | Ben Myers](https://benmyers.dev/blog/spotless-giraffe/): 
+
+    > "It is something of an amusing curiosity that some AI models were perplexed by a giraffe without spots. But it's these same tools and paradigms that enshrine normativity of all kinds, "sanding away the unusual." As tech continues to charge headfirst into AI hype, this is going to have far-reaching, yet largely invisible to the mainstream, consequences to anyone on the wrong side of that normativity. Better hope you have spots."
 
 - [Eight marvelous and melancholy things I've learned about creativity - The Oatmeal](https://theoatmeal.com/comics/creativity_things)
 
