@@ -1,13 +1,16 @@
 ---
-date: 2023-09-24T16:41:07+08:00
+date: 2023-09-24 08:41:07
 dontinlinephotos: true
+resources:
+- src: 20230924_164222.jpg
+  title: New keyboard and controller
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111119399070820050
 tags:
 - weeknotes
 - pickups
 title: 2023 Week 38
-resources:
-- src: 20230924_164222.jpg
-  title: New keyboard and controller
 ---
 
 ### The World
@@ -74,4 +77,3 @@ Entropy and things falling apart, wanting things but being too lazy to put in th
 ### Things I'm looking forward to
 
 There is a Ludum Dare scheduled for next weekend, but I don't know if I'm going to participate. It's not that I don't have time, but rather I don't really have the gamedev energy at the moment. I skipped the last LD and I haven't even touched Godot in months. I want to do more gamedev, but it's one of those things where I have to consider my approach and how to motivate myself to move forward - I'm not sure game jams are the way anymore.
-
