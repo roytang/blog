@@ -43,11 +43,11 @@ We are back to form with 70,961 steps total last week (Sunday through Saturday),
 
 - [Willingham Sends Fables Into the Public Domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the): What a move, no notes. Other than to check out Fables if you haven't, it's pretty good.
 
-- [100 things I know - by Mari Andrew - Out of the Blue](https://mariandrew.substack.com/p/100-things-i-know): 
+- [100 things I know - by Mari Andrew - Out of the Blue](https://mariandrew.substack.com/p/100-things-i-know)
 
-- [Rediscovering the Old Internet Vibe — Noisy Deadlines](https://noisydeadlines.net/rediscovering-the-old-internet-vibe): 
+- [Rediscovering the Old Internet Vibe — Noisy Deadlines](https://noisydeadlines.net/rediscovering-the-old-internet-vibe)
 
-- [Does anyone think Twitter gets *better* from here?](https://davekarpf.substack.com/p/does-anyone-think-twitter-gets-better): 
+- [Does anyone think Twitter gets *better* from here?](https://davekarpf.substack.com/p/does-anyone-think-twitter-gets-better)
 
 Check out the [linkblog](/links/) for past links!
 
