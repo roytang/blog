@@ -4,6 +4,9 @@ albums:
 categories: []
 date: 2019-11-27 00:00:00
 location: pedrotaphouse
+resources:
+- src: 76887339_10156937951938067_3787347830000058368_n.jpg
+  title: Photo c/o GeekFight! Trivia Night
 source: instagram
 syndicated:
 - type: instagram

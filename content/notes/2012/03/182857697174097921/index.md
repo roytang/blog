@@ -7,6 +7,8 @@ resources:
   title: 'Image source: Geekfight Trivia Night'
 - src: 2012-03-29-7H.jpg
   title: 'Image source: Geekfight Trivia Night'
+- src: 563997_10150644163643067_1100205358_n.jpg
+  title: Photo c/o GeekFight! Trivia Night
 source: twitter
 syndicated:
 - type: twitter
