@@ -1,5 +1,6 @@
 ---
-date: 2010-11-09 16:15:00+00:00
+date: 2010-11-09 16:15:00
+location: 4bbbfea5ed7776b032413f51
 source: facebook
 syndicated:
 - type: facebook
