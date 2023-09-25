@@ -1,10 +1,13 @@
 ---
-title: "Popquiz x JackTV"
-date: 2017-03-22T23:59:00+08:00
+date: 2017-03-22 15:59:00
+location: 4c6c07711fb2a143fe44fae6
+resources:
+- src: 17424636_10154672404406725_8456808075138006500_n.jpg
+  title: Photo c/o Ryan
 tags:
 - quiznight
 - popquiz
-location: 4c6c07711fb2a143fe44fae6
+title: Popquiz x JackTV
 ---
 
 We attended and won PopQuiz x Jack TV: PopQuiz Primetime!

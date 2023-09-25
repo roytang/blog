@@ -7,6 +7,8 @@ location: 5579775a498e1dcc65578f9a
 resources:
 - src: 15384548_10154165456473067_2234650605896647050_o.jpg
   title: Photo c/o GeekFight! Trivia Night
+- src: 15325298_10154165453168067_895068913458524538_o.jpg
+  title: Photo c/o GeekFight! Trivia Night
 source: instagram
 syndicated:
 - type: instagram
