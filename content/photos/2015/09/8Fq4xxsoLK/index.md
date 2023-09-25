@@ -24,12 +24,19 @@ tags:
 - mtgbfz
 - mtg
 - london2015
+dontinlinephotos: true
 ---
 
 Large hedron collider #mtgbfz
+
+{{% photos ab2c02e13e8769d4248670fe6e0d2d6b %}}
 
 <time>[18:31]</time> Having trouble deciding between a more aggressive gw allies build or a ub eldrazi build. Allies seems safer... #MTGBFZ
 
 <time>[19:28]</time> The prerelease packaging is a lot better this time around. Kudos to [@wizards_magic](https://twitter.com/wizards_magic/) #MTGBFZ
 
+{{% photos CP03KOUWwAAoPhi %}}
+
 <time>[02:33]</time> Gw allies deck i ran at #MTGBFZ prerelease, only went 1-2 (lol). Was considering the ub build shown as alternative
+
+{{% photos CP2YPc %}}

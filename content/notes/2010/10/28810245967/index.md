@@ -1,5 +1,6 @@
 ---
 date: 2010-10-26 17:21:54
+location: 4bbbfea5ed7776b032413f51
 resources:
 - src: 74206_461075924452_6905222_n.jpg
   title: 7th place - picture c/o Karlo
