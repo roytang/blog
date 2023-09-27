@@ -1,6 +1,9 @@
 ---
 date: 2016-09-28 15:30:55
 location: 4c6c07711fb2a143fe44fae6
+resources:
+- src: 14481789_541904612674625_3102987613809223395_o.jpg
+  title: Photo c/o PopQuiz
 source: instagram
 syndicated:
 - type: instagram
@@ -14,6 +17,7 @@ syndicated:
 tags:
 - quiznight
 - instagram
+- popquiz
 title: ''
 ---
 
