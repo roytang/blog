@@ -25,7 +25,7 @@ One of the things one can try to resist our new AI overlords farming our hard-wr
 
 > So, what's the takeaway here? I guess that the vast majority of crawlers don't give a shit about your robots.txt.
 
-Probably the next step to try (if you really wanted to), would be to set up your server/software to filter out those scraping bots based on their User-Agents, or maybe even return garbage data to pollute their models. But that seems like it would lead to an escalation where they will just lie and use different User-Agent strings. Like Manuel, I am tempted to just give up, mostly because I believe that the open web should be welcoming to scrapers anyway (I have written my own share of web scrapers, mostly for archival purposes). The sharecropping is bad, but the alternative seems to be closed systems? IDK, it feels like we have to choose between evils here.
+Probably the next step to try (if you really wanted to), would be to set up your server/software to filter out those scraping bots based on their User-Agents, or maybe even return garbage data to pollute their models. But that seems like it would lead to an escalation where they will just lie and use different User-Agent strings. Like Manuel, I am tempted to just give up, mostly because I believe that the open web should be welcoming to scrapers anyway (I have written my own share of web scrapers, mostly for archival purposes). The sharecropping is bad, but the alternative seems to be closed systems? IDK, it feels like we have to choose between evils here. (I am keeping my `robots.txt` though.)
 
 #### A snake eating its own tail
 
@@ -41,13 +41,34 @@ Caitlin Dewey tells us about how [Google glitches hit different in an AI-filtere
 >
 > A Google Knowledge Box invites you to watch the trailer. A prominent yellow button supplies dozens of “reviews.” You can even bookmark “Roe v. Wade Overturned” to watch later. (Already seen it, thank you!)
 >
+
 ...
+
 > But Knowledge Graph glitches also hit different at a moment when Google and its competitors are seeking to filter more information through AI. Since May, Google has experimented with a generative AI feature, called Search Generative Experience, that summarizes the results of users’ queries and answers questions in real time. That may multiply these types of errors; it will almost certainly change our relationship with the wider internet.
 > 
 
 It's not like Google Search has always been 100% accurate anyway. It's a garbage-in / garbage-out sort of deal, with a lot of internet queries poisoned by two decades of SEO practices and an ad-driven economy that encourages low quality content farms and spammers pestering bloggers like me with proposals for guest posts or asking me to link to their articles.
 
 It leaves me wondering: what happens to these content forms and advertising revenue when AI misinformation becomes so prevalent that people start to avoid using search engines? Or when LLM content generation starts enabling large volumes of content farms at scale? The more AI-generated content/nonsense that exists out there on the internet, the harder it becomes to earn eyeballs for advertisers. And with search engines (read: Google) not even sending users to your website anymore, can the advertising-driven web economy survive? And what happens when future generations of LLM start hoovering up all of this low-quality LLM-generated content as their own training data? 
+
+[Maggie Appleton writes about The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest):
+
+> You thought the first page of Google was bunk before? You haven't seen Google where SEO optimizer bros pump out billions of perfectly coherent but predictably dull informational articles for every longtail keyword combination under the sun.
+>
+
+...
+
+> We're about to drown in a sea of pedestrian takes. An explosion of noise that will drown out any signal. Goodbye to finding original human insights or authentic connections under that pile of cruft.
+> 
+> Many people will say we already live in this reality. We've already become skilled at sifting through unhelpful piles of “optimised content” designed to gather clicks and advertising impressions.
+>
+
+...
+
+> After the forest expands, we will become deeply sceptical of one another's realness. Every time you find a new favourite blog or Twitter account or Tiktok personality online, you'll have to ask: Is this really a whole human with a rich and complex life like mine? Is there a being on the other end of this web interface I can form a relationship with?
+> 
+
+In this (as-yet theoretical?) internet drowning under endless automatically-generated content, being genuinely human and being able to convey genuine human thoughts and form human connections becomes rarer, scarcer, and perhaps more valuable. 
 
 #### Recent related links from the linkblog
 
