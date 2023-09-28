@@ -11,5 +11,6 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/110615516876241564
 tags:
 - tech-life
+- ai
 title: AI is killing the old web, and the new web struggles to be born - The Verge
 ---

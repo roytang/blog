@@ -24,7 +24,7 @@ This is a [uses page](https://uses.tech/).
 | NASH::SSHD | Seagate Firecuda 2tb | 2019 |
 | NASH::Monitor | AOC 24G2SE/71 | [2022](/2022/12/pc-build-2022/) | 
 | NASH::Monitor | AOC 24" M2470SWH | 2018 |
-| NASH::Keyboard | Red Dragon K2 | [2023](/2023/09/2023-week-38/#some-recent-purchases) |
+| NASH::Keyboard | Redragon K502 | [2023](/2023/09/2023-week-38/#some-recent-purchases) |
 | NASH::Mouse | Logitech G2 | 2021 |
 | NASH::Controller | 8Bitdo Ultimate Wireless | [2023](/2023/09/2023-week-38/#some-recent-purchases) |
 | NASH::OS | Windows 11 | [2022](/2022/12/pc-build-2022/) |

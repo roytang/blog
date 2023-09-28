@@ -31,7 +31,7 @@ On the blog: Not as much this week (see above), but I did manage to write about 
 
 {{% photos 20230924_164222 %}}
 
-My old Razer Blackwidow Ultimate 2016 was having some keys start to fail and I didn't feel like spending too much on a new one, so I bought a cheap Red Dragon K2 keyboard. It works, but I must say I am not too happy with how it "feels", if that makes sense; I liked my old keyboard much better.
+My old Razer Blackwidow Ultimate 2016 was having some keys start to fail and I didn't feel like spending too much on a new one, so I bought a cheap [Redragon K502](https://www.redragonzone.com/products/redragon-k502-karura-7-color-backlight-gaming-keyboard) keyboard. It works, but I must say I am not too happy with how it "feels", if that makes sense; I liked my old keyboard much better.
 
 I also bought a new controller, an 8Bitdo Ultimate Bluetooth controller. It works on both Windows and Switch and was super easy to use; was happy with this purchase. Honestly my [old F710 Logitech controller](/2014/06/10153045324368912-0/) was mostly still working fine, except that I often had to re-initialize the wireless connection if I hadn't used it for a few days. The new one avoids that problem, so yay. My main motivation for getting this new one was as a Switch controller, because (a) I could feel some of the joycon shoulder buttons start to become less responsive; and (b) I am hoping I can play multiplayer *Super Mario Wonder* with the *pamangkins* when that comes out, and for that we needmore controllers.
 
