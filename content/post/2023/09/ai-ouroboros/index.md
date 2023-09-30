@@ -1,9 +1,12 @@
 ---
-title: "The AI Ouroboros"
-date: 2023-09-28T15:53:11+08:00
+date: 2023-09-28 07:53:11
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111142314716101448
 tags:
 - tech
 - ai
+title: The AI Ouroboros
 ---
 
 Link dump of AI <del>nonsense</del> stuff incoming!
