@@ -5,6 +5,8 @@ date: 2016-06-14 01:30:08
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/742536346351370241/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154669953303912
 tags:
 - Tech Life
 title: Password Security for Dummies
@@ -14,15 +16,11 @@ url: /2016/06/password-security-for-dummies/
 
 Around the first week of June 2016, [Mark Zuckerberg, well-known nerd and founder of Facebook, was hacked][1]. If even the founder of the world's largest social network can be hacked, anybody can! So it might be a good idea to review how you manage and secure your online passwords
 
-&nbsp;
-
 * * *
-
-&nbsp;
 
 **Avoid using short, simple, or commonly-used passwords! **These are subject to so-called "brute force" attacks where bad actors just try a whole lot of passwords until they find one that works. You don't _actually_ have to use numbers or special characters (unless the service requires you to do so). What can really hamper password attackers is password length, the longer the better, since the length of the password increases the computational time needed for a brute-force attack. For the most important services, I would suggest a password length of at least 20 characters (although some services won't allow you to have passwords this long, which deserves a glare from me). If not required to use numbers or special characters, you can simply use a pass phrase composed of multiple English words. This has the pleasant side effect of being easy to remember. As with many things, this is best illustrated by XKCD:
 
-[<img class="alignnone" src="http://imgs.xkcd.com/comics/password_strength.png" width="740" height="601" />][2]
+[![](http://imgs.xkcd.com/comics/password_strength.png)][2]
 
 Take note that it's important to choose passwords or phrases that are not related to common personal information such as birthdays, names of relatives, or anniversaries. This is all information which any attacker might be able to acquire from other sources. This is how Michael Caine's character in _Now You See Me_ got hacked by the Four Horsemen!
 
