@@ -1,13 +1,16 @@
 ---
-date: 2023-10-01T10:43:02+08:00
+date: 2023-10-01 02:43:02
 dontinlinephotos: true
 resources:
 - src: 20230929_195915.jpg
   title: Blurry picture of my positive antigen test result.
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111157702455338996
 tags:
 - weeknotes
 - covid19
-title: "2023 Week 39: Covid, Again"
+title: '2023 Week 39: Covid, Again'
 ---
 
 ### The World
