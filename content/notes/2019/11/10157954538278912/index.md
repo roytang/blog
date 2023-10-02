@@ -11,10 +11,11 @@ tags:
 
 Our Pisay batch is hosting an IMAX Star Wars block screening on December the 21st, 6pm at SM North EDSA. There are no more screenings for the year after the 22nd, so this weekend is your only chance to watch! You can purchase tickets at https://alabpisay.ph/shop/. Part of the proceeds will go towards supporting special programs to improve Pisay curriculum.
 
-{{% quoted url="https://www.facebook.com/watch/?v=621938971316799" label="Science Porn's Facebook post" %}}
 
-This is how crayons are made!
+{{% quoted url="https://www.facebook.com/alabpisay//posts/2393048007440133" label="Alab Pisay's Facebook post" %}}
 
-[Watch video on Facebook](This is how crayons are made!)
+Coming soon for sale here  😉
+
+{{% photos 10157954538278912%}}
 
 {{% /quoted %}}

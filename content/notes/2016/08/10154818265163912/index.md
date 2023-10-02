@@ -9,12 +9,10 @@ syndicated:
 
 This was amazing to watch. How crayons are made!
 
-{{% quoted url="https://www.facebook.com/alabpisay//posts/2393048007440133" label="Alab Pisay's Facebook post" %}}
+{{% quoted url="https://www.facebook.com/watch/?v=621938971316799" label="Science Porn's Facebook post" %}}
 
-Coming soon for sale here  😉
+This is how crayons are made!
 
-{{% photos 10157954538278912%}}
-
-
+[Watch video on Facebook](This is how crayons are made!)
 
 {{% /quoted %}}
