@@ -9,4 +9,4 @@ syndicated:
 
 https://covid19.osinthk.org/2020/04/02/the-food-security-crisis-in-the-philippines/
 
-[The Food Security Crisis in the Philippines](https://covid19.osinthk.org/2020/04/02/the-food-security-crisis-in-the-philippines/?fbclid=IwAR2jO2hb2YaW2Z7bbJBGksrIhNDUl6ZFY431AJaUQoXfMMdTm4vHoI2IpVA)
+[The Food Security Crisis in the Philippines](https://covid19.osinthk.org/2020/04/02/the-food-security-crisis-in-the-philippines/)

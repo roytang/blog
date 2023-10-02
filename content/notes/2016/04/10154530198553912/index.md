@@ -16,6 +16,6 @@ repost_source:
 
 I would like to look back on today and say, "I have accomplished nothing."
 
-https://incidentalcomics.tumblr.com/post/142700408858/accomplishing-nothing-i-drew-this-comic-after?fbclid=IwAR2EvzrWxQUiQ2UMLkP_QA8l4hRPxl6g7_xmipS4WFbC8hGvX1fdAQV77XA
+https://incidentalcomics.tumblr.com/post/142700408858/accomplishing-nothing-i-drew-this-comic-after
 
 {{% photos 10154530198553912 %}}

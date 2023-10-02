@@ -9,4 +9,4 @@ syndicated:
 
 From Jace. I don't really understand very well, but it's oddly captivating.
 
-[Ксения Симонова - Реквием из песка](https://www.youtube.com/watch?v=Z1JZ9O15280&fbclid=IwAR1lmLUGie42cNwQPSsBsFBdc1hpiA7L1ipweg4fyp60Yef4cxsZdeUWYHc)
+[Ксения Симонова - Реквием из песка](https://www.youtube.com/watch?v=Z1JZ9O15280)

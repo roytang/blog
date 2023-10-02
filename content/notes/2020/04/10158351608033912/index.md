@@ -9,4 +9,4 @@ syndicated:
 
 Fantastic fan-made shot-by-shot recreation of Back to the Future II, put together during quarantine, w/ stop motion, kids, sock puppets, bananas, potatoes and much more! 
 
-[Project 88 - Back to the Future Too](https://www.youtube.com/watch?v=GcUUjWbVc4I&fbclid=IwAR0aWNiNQIf7oIcjAmKIJBolfbcLxQJM4xXG_Rt_f1xAzZ2KcmFvLP5POno)
+[Project 88 - Back to the Future Too](https://www.youtube.com/watch?v=GcUUjWbVc4I)
