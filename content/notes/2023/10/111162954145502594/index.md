@@ -1,5 +1,5 @@
 ---
-date: 2023-10-02 02:01:08+00:00
+date: 2023-10-02 02:01:08
 dontinlinephotos: true
 resources:
 - src: 111162954145502594_1_f5ea035be8bcd7f0.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111162954145502594
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/16xrnf5/october_2nd_inktober_spiders/k34aj90/
 tags:
 - sketchbook
 - inktober2023

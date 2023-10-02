@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111158090753294904
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/16ww63i/october_1st_folktale_week_free_draw_finale/k34agk1/
 tags:
 - sketchbook
 - inktober
