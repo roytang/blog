@@ -1,5 +1,5 @@
 ---
-date: 2023-10-03 00:55:41+00:00
+date: 2023-10-03 00:55:41
 dontinlinephotos: true
 resources:
 - src: 111168359080639736_1_3df8968d2ecc7650.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111168359080639736
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/16ymqcc/october_3rd_inktober_path/k39v00h/
 tags:
 - sketchbook
 - inktober2023
