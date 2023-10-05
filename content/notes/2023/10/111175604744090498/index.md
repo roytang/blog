@@ -1,5 +1,5 @@
 ---
-date: 2023-10-04 07:38:21+00:00
+date: 2023-10-04 07:38:21
 dontinlinephotos: true
 resources:
 - src: 111175604744090498_1_ca3dd44776bb57ab.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111175604744090498
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/16zi59d/october_4th_inktober_dodge/k3j9pfv/
 tags:
 - sketchbook
 - inktober2023
