@@ -1,5 +1,5 @@
 ---
-date: 2023-10-06 08:14:46+00:00
+date: 2023-10-06 08:14:46
 dontinlinephotos: true
 resources:
 - src: 111187072548344685_1_9e09f21debeb7ae6.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111187072548344685
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/1717euu/october_6th_free_draw_friday/k3p6cti/
 tags:
 - sketchbook
 - inktober2023
