@@ -68,3 +68,16 @@ Allow: /
 
 User-agent: Applebot
 Allow: /   
+
+User-agent: PetalBot
+Disallow: / 
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+        
