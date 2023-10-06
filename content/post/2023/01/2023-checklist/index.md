@@ -105,12 +105,12 @@ From last year's list of 20 items, I watched 11, have not yet seen 4, 4 got post
 | Apr 07 | The Super Mario Bros. Movie | [[DONE]](/2023/04/the-super-mario-bros-movie-2023/) |
 | May 05 | Guardians of the Galaxy vol 3 | [[DONE]](/2023/05/guardians-of-the-galaxy-vol-3-2023/) |
 | Jun 02 | Spider-Man: Across the Spider-Verse | [[DONE]](/2023/06/spider-man-across-the-spider-verse-2023/) |
-| Jun 09 | Transformers: Rise of the Beasts | |
+| Jun 09 | Transformers: Rise of the Beasts | [[DONE]](/2023/10/transformers-rise-of-the-beasts-2023/) |
 | Jun 16 | The Flash | [[DONE]](/2023/06/the-flash-2023/) |
 | Jun 30 | Indiana Jones and the Dial of Destiny | |
 | Jul 14 | Mission: Impossible – Dead Reckoning Part One | [[DONE]](/2023/07/mission-impossible-dead-reckoning-part-one-2023/) |
 | Jul 21 | Oppenheimer | I haven't even seen Tenet yet |
-| Aug 18 | Blue Beetle | |
+| Aug 18 | Blue Beetle | [[DONE]](/2023/10/blue-beetle-2023/) |
 | Sep 15 | A Haunting in Venice | Poirot |
 | Oct 06 | Kraven the Hunter | Same expectations as Morbius! |
 | Nov 03 | Dune: Part Two | |
