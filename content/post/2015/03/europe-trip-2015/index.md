@@ -28,3 +28,4 @@ The next leg took us to Paris, France. Paris was cold, very cold, with biting wi
 After Paris we spent the last few days of the trip back in Barcelona, relaxing and decompressing. We walked around a bit, visited the beach and I even managed to hit a Magic prerelease the day before our flight home. I managed to get back into work immediately after almost an entire day of travelling, with minimal jet lag even.
 
 There's more to talk about that I won't write about at the moment -- the on-the-fly planning, the food, the hostels, the budget airline flights, etc. I signed up for the trip on a bit of a whim, but it turned out to be a pretty good trip for me. I've never been a culturally inclined guy, but I still found myself immersed in all the ancient sites and museums we visited. The company was good, it was nice to experience an entirely new continent, and it was a welcome break from the usual routine.
+

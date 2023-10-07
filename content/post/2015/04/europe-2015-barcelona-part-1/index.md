@@ -78,3 +78,5 @@ As I expected, this post already feels way too long. I was hoping I could cover 
  [1]: /2015/03/europe-trip-2015/
  [2]: http://www.freehostelsbarcelona.com/
  [8]: /2013/03/scenes-from-a-quiz-night/
+
+ 
