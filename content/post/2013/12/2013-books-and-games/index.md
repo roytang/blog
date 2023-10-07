@@ -86,7 +86,6 @@ And the games I finished in 2013:
 
 So the count is at -41 or such. It's pretty bad, but also around what I expected lol. I'm fairly close to finishing a number of those games (I'm at the SMT4 final dungeon and the last chapter of FF 13-2 right now). A lot of the backlog is due to me randomly picking up Humble Bundles which increase the count significantly. Hopefully I'll be able to have a much smaller backlog in 2014 -- but there are already a number of release I'm looking forward to, not to mention the possibility of picking up a PS4 early next year.
 
-&nbsp;
 
  [1]: https://dl.dropboxusercontent.com/u/8859374/reading_list.txt
  [2]: http://www.neogaf.com/forum/showthread.php?t=506770&page=17

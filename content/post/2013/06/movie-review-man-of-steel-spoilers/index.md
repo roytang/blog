@@ -41,4 +41,3 @@ Those are the major nitpicks I have with the movie, the rest are just minor deta
 
 All of that being said, I still enjoyed the movie, it was entertaining enough for a first movie in the franchise (and it's way better than _Superman Returns)_. I'd rank it close to or below _Amazing Spider-Man_ I think. A sequel is already being planned and hopefully we get a better, more clever movie the second time around. If it were up to me, the second movie villian(s) would be Luthor and Metallo (With Nolan and Snyder, I think we can look forward to a more interesting take on Lex Luthor compared to Hackman's self-declared "greatest criminal mind in history" at least.), with a third movie either for Braniac or Doomsday (Braniac would probably be better). It probably depends on their plans for a shared universe and a Justice League movie though. Let's see how it all pans out; in any case, it's a good time to be a comic book fan!
 
-&nbsp;
