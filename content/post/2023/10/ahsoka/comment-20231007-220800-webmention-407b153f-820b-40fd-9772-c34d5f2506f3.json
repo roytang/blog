@@ -1,0 +1,30 @@
+{
+  "id": "407b153f-820b-40fd-9772-c34d5f2506f3",
+  "name": "Jamie Tanna",
+  "url": "https://www.jvt.me",
+  "text": "Mentioned by https://www.jvt.me/mf2/2023/10/hl6da/",
+  "date": "2023-10-07 22:08:00 +0800",
+  "photo": "https://webmention.io/avatar/www.jvt.me/582e6a8900c20ade6b097bfa1d87e8b808f61dd5a83e457e371d5b1ead35cb17.png",
+  "source_url": "https://www.jvt.me/mf2/2023/10/hl6da/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jamie Tanna",
+      "photo": "https://webmention.io/avatar/www.jvt.me/582e6a8900c20ade6b097bfa1d87e8b808f61dd5a83e457e371d5b1ead35cb17.png",
+      "url": "https://www.jvt.me"
+    },
+    "url": "https://www.jvt.me/mf2/2023/10/hl6da/",
+    "published": "2023-10-07T14:08:00",
+    "wm-received": "2023-10-07T14:17:12Z",
+    "wm-id": 1724526,
+    "wm-source": "https://www.jvt.me/mf2/2023/10/hl6da/",
+    "wm-target": "https://roytang.net/2023/10/ahsoka/",
+    "wm-protocol": "webmention",
+    "mention-of": "https://roytang.net/2023/10/ahsoka/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
