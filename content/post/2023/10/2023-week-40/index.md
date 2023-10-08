@@ -1,9 +1,12 @@
 ---
-date: 2023-10-08T13:26:34+08:00
+date: 2023-10-08 05:26:34
 dontinlinephotos: true
 resources:
 - src: 20231008_130124.jpg
   title: Blurry picture of my negative antigen test result.
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111197889865207575
 tags:
 - weeknotes
 - covid19
