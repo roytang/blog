@@ -1,5 +1,5 @@
 ---
-date: 2023-10-07 05:21:33+00:00
+date: 2023-10-07 05:21:33
 dontinlinephotos: true
 resources:
 - src: 111192053751173326_1_590ae5640e007d12.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111192053751173326
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/1721q47/october_7th_drip/k3yn528/
 tags:
 - sketchbook
 - inktober2023
