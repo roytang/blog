@@ -2,23 +2,26 @@
 date: 2023-10-09 07:52:37
 resources:
 - src: Celeste 03_10_2023 12_03_56 am.png
-  title: 'Screenshot of Celeste'
+  title: Screenshot of Celeste
 - src: Celeste 03_10_2023 3_04_43 pm.png
-  title: 'Screenshot of Celeste'
+  title: Screenshot of Celeste
 - src: Celeste 08_10_2023 11_13_03 pm.png
-  title: 'Screenshot of Celeste'
+  title: Screenshot of Celeste
 - src: Celeste 08_10_2023 11_17_47 pm.png
-  title: 'End game art and stats'
+  title: End game art and stats
 - src: Celeste 09_10_2023 4_15_24 pm.png
-  title: 'I even unlocked some B-sides!'
+  title: I even unlocked some B-sides!
 - src: gamepass.png
-  title: "PC Game pass stats screen."
+  title: PC Game pass stats screen.
 reviews:
 - description: Brutally hard platformer. Just happy to have finished the main story!
   media: games
   platform: pcgamepass
   rating: 4.5
   title: Celeste (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111204108085335960
 tags:
 - gaming
 - games
