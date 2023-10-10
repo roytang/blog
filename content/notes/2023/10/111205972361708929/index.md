@@ -1,5 +1,5 @@
 ---
-date: 2023-10-09 16:21:14+00:00
+date: 2023-10-09 16:21:14
 dontinlinephotos: true
 resources:
 - src: 111205972361708929_1_fd4ccec86b3a0199.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111205972361708929
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/173n5vd/october_9th_birdtober_peregrine_falcon/k48xqan/
 tags:
 - sketchbook
 - inktober2023
