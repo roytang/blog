@@ -1,5 +1,5 @@
 ---
-date: 2023-10-08 07:49:17+00:00
+date: 2023-10-08 07:49:17
 dontinlinephotos: true
 resources:
 - src: 111198296964283587_1_e11ce3981d4bef95.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111198296964283587
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/172uhco/october_8th_birdtober_pintailed_wydah/k45cym8/
 tags:
 - sketchbook
 - inktober2023
