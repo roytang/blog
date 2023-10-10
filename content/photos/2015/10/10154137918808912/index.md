@@ -2,6 +2,9 @@
 checkin_id: 5618e466498ecd548e9b9e05
 date: 2015-10-10 18:58:00
 location: 4ba294bdf964a520460638e3
+resources:
+- src: 10869454_10206396190678113_2405341566833767156_o.jpg
+  title: At Windsor Castle. Photo c/o Spens
 source: facebook
 syndicated:
 - type: facebook
