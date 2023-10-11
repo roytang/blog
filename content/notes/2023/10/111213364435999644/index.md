@@ -1,5 +1,5 @@
 ---
-date: 2023-10-10 23:41:08+00:00
+date: 2023-10-10 23:41:08
 dontinlinephotos: true
 resources:
 - src: 111213364435999644_1_cf514d3939e64068.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111213364435999644
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/1759ipm/october_11th_birdtober_magnificent_frigate_bird/k4fmiul/
 tags:
 - sketchbook
 - inktober2023
