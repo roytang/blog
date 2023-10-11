@@ -1,5 +1,5 @@
 ---
-date: 2023-10-10 08:08:51+00:00
+date: 2023-10-10 08:08:51
 dontinlinephotos: true
 resources:
 - src: 111209698546912123_1_75c967f686915c38.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111209698546912123
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/174ghoe/october_10th_birdtober_strawberry_finch/k4ch13o/
 tags:
 - sketchbook
 - inktober2023
