@@ -1,5 +1,5 @@
 ---
-date: 2023-10-11 16:06:36+00:00
+date: 2023-10-11 16:06:36
 dontinlinephotos: true
 resources:
 - src: 111217239402255535_1_17ee07dd6eb435aa.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111217239402255535
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/1762dx9/october_12th_birdtober_azure_tit/k4ktary/
 tags:
 - sketchbook
 - inktober2023
