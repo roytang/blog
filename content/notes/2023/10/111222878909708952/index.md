@@ -1,5 +1,5 @@
 ---
-date: 2023-10-12 16:00:48+00:00
+date: 2023-10-12 16:00:48
 dontinlinephotos: true
 resources:
 - src: 111222878909708952_1_e7aaad1839842637.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111222878909708952
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/176udgr/october_13th_free_draw_friday/k4q5fjr/
 tags:
 - sketchbook
 - inktober2023
