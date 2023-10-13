@@ -1,0 +1,11 @@
+{
+  "id": "2a985e4c-c361-4d9e-9064-fd2f06663ad6",
+  "name": "kaan",
+  "url": "https://fosstodon.org/@kaan",
+  "text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@roytang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roytang</span></a></span> I'm having trouble finding a good article on it, but probably something like this: <a href=\"https://wordpress.org/support/topic/unwanted-indexing-of-pages-with-spam-search-queries-in-google/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">wordpress.org/support/topic/un</span><span class=\"invisible\">wanted-indexing-of-pages-with-spam-search-queries-in-google/</span></a></p><p>If your search results pages can be indexed by Google, spammers doing this basically inserts whatever the spammer was searching for into your website, taking advantage of your SEO.</p><p>Edit: Here's the news I was thinking of: <a href=\"https://www.businessinsider.com/google-loophole-buying-drugs-online-hijack-website-2023-9?op=1\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">businessinsider.com/google-loo</span><span class=\"invisible\">phole-buying-drugs-online-hijack-website-2023-9?op=1</span></a></p>",
+  "date": "2023-10-14 03:09:45 +0800",
+  "photo": "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/109/124/014/782/918/330/original/3340f245090b46f6.png",
+  "source_url": "https://fosstodon.org/users/kaan/statuses/111229284232599620",
+  "source": "mastodon",
+  "spam": false
+}
