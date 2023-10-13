@@ -1,8 +1,11 @@
 ---
-title: "GrabTaxi Fares"
-date: 2023-10-13T23:37:16+08:00
+date: 2023-10-13 15:37:16
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111228482141614726
 tags:
 - grab
+title: GrabTaxi Fares
 ---
 
 Apparently if you take a GrabTaxi, you should check to make sure the driver inputs the correct fare on the app, or at least get a receipt or a photo of the final taximeter reading. Last night I took a GrabTaxi home and also used an offer that was 30% off and I was expecting the fare to end up around P230-P270. The way GrabTaxi works (as opposed to the usual GrabCar) is that the taxi runs their meter as normal, and Grab charges you an additional P59 fee (IDK how that's split between Grab and driver). I would have just flagged down a taxi normally, but I didn't have change, so being charged via Grab was easier. 
