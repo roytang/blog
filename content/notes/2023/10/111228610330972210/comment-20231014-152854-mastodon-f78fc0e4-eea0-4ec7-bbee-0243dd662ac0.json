@@ -1,0 +1,12 @@
+{
+  "id": "f78fc0e4-eea0-4ec7-bbee-0243dd662ac0",
+  "name": "roytang",
+  "url": "https://indieweb.social/@roytang",
+  "text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@kaan\" class=\"u-url mention\">@<span>kaan</span></a></span> I guess that makes sense, but why would Google index my search results pages if they aren&#39;t linked to from anywhere?</p><p>Anyway, last week I updated those tag pages so they no longer show the tag being searched for and instead return 404 if there is no such tag on my site, I was kind of hoping that would stop this sort of spam, but maybe that was a bit optimisic lol</p>",
+  "date": "2023-10-14 15:28:54 +0800",
+  "photo": "https://cdn.masto.host/indiewebsocial/accounts/avatars/109/142/170/528/555/656/original/24c382e10c6a86e9.jpg",
+  "source_url": "https://indieweb.social/users/roytang/statuses/111232190694470404",
+  "source": "mastodon",
+  "spam": false,
+  "reply_to": "https://fosstodon.org/users/kaan/statuses/111229284232599620"
+}

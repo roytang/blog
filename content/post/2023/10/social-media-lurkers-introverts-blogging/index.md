@@ -1,9 +1,12 @@
 ---
-title: "On Social Media, Lurkers, Introverts, and Blogging"
-date: 2023-10-14T13:33:54+08:00
+date: 2023-10-14 05:33:54
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111232183523962429
 tags:
 - blogging
 - social-media
+title: On Social Media, Lurkers, Introverts, and Blogging
 ---
 
 I kind of miss what I like to think were the best years of social media (or at least Facebook specifically): that period from maybe around 2010-2015 when there were enough people you knew from real life posting on social media sincerely. It felt like a time when it was easy to connect with your IRL friends online. As an introvert, I liked being able to see what my friends were up to without necessarily having to go out and meet up or talk to them about. And also being able to blast out my thoughts to see if any of my friends could relate or [run surveys](/tags/surveys/) without any pressure to respond or just share my bad jokes and know there's people who would read it who understand my sort of humor. 
