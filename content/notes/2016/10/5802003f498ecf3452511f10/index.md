@@ -33,6 +33,8 @@ resources:
   title: "Dead of Winter"
 - src: flash-point.jpg
   title: "Flash Point"
+- src: 14713084_10210626223952564_5129479829571762269_o
+  title: Photo c/o Faith
 ---
 
 Flash Point, Dead of Winter, Nosferatu @ Hungry Meeples
