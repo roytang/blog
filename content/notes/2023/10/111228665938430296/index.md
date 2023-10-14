@@ -1,5 +1,5 @@
 ---
-date: 2023-10-13 16:32:31+00:00
+date: 2023-10-13 16:32:31
 dontinlinephotos: true
 resources:
 - src: 111228665938430296_1_da1203d5b0f8dab1.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111228665938430296
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/177l9f2/october_14th_birdtober_scarlet_ibis/k4uvc3z/
 tags:
 - sketchbook
 - inktober2023
