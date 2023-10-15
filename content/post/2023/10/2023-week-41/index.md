@@ -1,9 +1,12 @@
 ---
-date: 2023-10-15T12:51:40+08:00
+date: 2023-10-15 04:51:40
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111237392717926928
 tags:
 - weeknotes
-title: '2023 Week 41'
+title: 2023 Week 41
 ---
 
 ### The World
@@ -60,4 +63,4 @@ Missed opportunities, what might have been, fighting for what's right, just want
 
 ### Things I'm looking forward to
 
-Super Mario Wonder is out this week! This is actually the first time that I already have the appropriate console for a new Mario game so I can buy it on release date. I have already pre-ordered! 
+Super Mario Wonder is out this week! This is actually the first time that I already have the appropriate console for a new Mario game so I can buy it on release date. I have already pre-ordered!

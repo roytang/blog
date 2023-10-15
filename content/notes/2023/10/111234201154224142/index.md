@@ -1,5 +1,5 @@
 ---
-date: 2023-10-14 16:00:11+00:00
+date: 2023-10-14 16:00:11
 dontinlinephotos: true
 resources:
 - src: 111234201154224142_1_7eda661281ad0be1.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111234201154224142
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/178bcs9/october_15th_drawtober_overgrown_cemetery/k4zwnsg/
 tags:
 - sketchbook
 - inktober2023
