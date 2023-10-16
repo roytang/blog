@@ -1,0 +1,30 @@
+{
+  "id": "669f7f36-843c-4ea8-a044-65370e11a41f",
+  "name": "bix.blog",
+  "url": "https://bix.blog/2023/Oct/16/words-with-friends/",
+  "text": "Mentioned by https://bix.blog/2023/Oct/16/words-with-friends/",
+  "date": "2023-10-17 07:42:01 +0800",
+  "photo": "",
+  "source_url": "https://bix.blog/2023/Oct/16/words-with-friends/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://bix.blog/2023/Oct/16/words-with-friends/",
+    "published": null,
+    "wm-received": "2023-10-16T23:42:01Z",
+    "wm-id": 1727335,
+    "wm-source": "https://bix.blog/2023/Oct/16/words-with-friends/",
+    "wm-target": "https://roytang.net/2023/10/social-media-lurkers-introverts-blogging/",
+    "wm-protocol": "webmention",
+    "mention-of": "https://roytang.net/2023/10/social-media-lurkers-introverts-blogging/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
