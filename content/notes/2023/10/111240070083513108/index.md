@@ -1,5 +1,5 @@
 ---
-date: 2023-10-15 16:52:44+00:00
+date: 2023-10-15 16:52:44
 dontinlinephotos: true
 resources:
 - src: 111240070083513108_1_ea085ac6f0bdc3ee.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111240070083513108
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/1791l4y/october_16th_drawtober_moth_bitten_library/k59cxru/
 tags:
 - sketchbook
 - inktober2023
