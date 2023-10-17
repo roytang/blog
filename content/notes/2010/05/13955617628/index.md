@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/13955617628/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/122748627743876
 ---
 
 50 tips for working more effectively: http://ping.fm/SMVzY

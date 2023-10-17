@@ -46,7 +46,7 @@ My stuff:
     - As soon as my internet came back, I started watching Ghost Fighter/Yu Yu Hakusho, which came out on Netflix (as you guessed it, during the outage)
 - I also tried reading a book. It was a Discworld book. "Tried" being the operative word. I'll write about it if I manage to get to the end.
 - Side projects: 
-  - Uh, proceeding apace I guess?
+    - Uh, proceeding apace I guess?
 - Again: I should probably write more. 
 
 Recent links:
