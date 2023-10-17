@@ -1,5 +1,5 @@
 ---
-date: 2023-10-17 14:07:42+00:00
+date: 2023-10-17 14:07:42
 dontinlinephotos: true
 resources:
 - src: 111250745780811386_1_ae0b30f7cc76d182.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111250745780811386
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/179typ8/october_17th_drawtober_devious_dining/k59msil/
 tags:
 - sketchbook
 - inktober2023
