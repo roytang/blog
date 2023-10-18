@@ -19,16 +19,16 @@
             "syndicate": true
         },
         {
-            "path": "content/notes",
-            "public": true,
-            "section": "notes",
-            "source": "notes"
-        },
-        {
             "path": "content/photos",
             "public": true,
             "section": "notes",
             "source": "photos"
+        },
+        {
+            "path": "content/notes",
+            "public": true,
+            "section": "notes",
+            "source": "notes"
         },
         {
             "path": "content/links",

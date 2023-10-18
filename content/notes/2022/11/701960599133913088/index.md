@@ -9,7 +9,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1597365327360557058/
 tags:
-- pugad baboy
+- pugadbaboy
 - pilosopo
 title: Violation Pilosopo
 ---
