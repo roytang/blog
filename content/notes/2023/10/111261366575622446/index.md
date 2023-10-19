@@ -1,5 +1,5 @@
 ---
-date: 2023-10-19 11:08:43+00:00
+date: 2023-10-19 11:08:43
 dontinlinephotos: true
 resources:
 - src: 111261366575622446_1_c128b247d5c11b78.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111261366575622446
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17bep8r/october_19th_drawtober_dolls_in_the_attic/k5j9drc/
 tags:
 - sketchbook
 - inktober2023
