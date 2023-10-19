@@ -6,12 +6,18 @@ reviews:
   title: Deadpool (2016)
 source: facebook
 syndicated:
+- type: foursquare
+  url: https://www.swarmapp.com/roytang/checkin/56bb45db498ebd5f9be01de1
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154367398403912
+checkin_id: 56bb45db498ebd5f9be01de1
+location: 4c91aec2238c6dcb8855c255
 tags:
 - movies
 - spoiler-free-review
 ---
+
+Deadpool — with Brian, Alvin Joseph (@Ristorante Bigoli 4/F TriNoma)
 
 Here we go, DEADPOOL spoiler-free review: 
 
