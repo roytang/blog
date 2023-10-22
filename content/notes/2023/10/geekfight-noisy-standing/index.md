@@ -3,21 +3,25 @@ date: 2023-10-11 15:14:37
 location: moonrabbit
 resources:
 - src: 20231011_224248.jpg
-  title: 'Our scoreboard'
+  title: Our scoreboard
 - src: IMG_0612.JPG
-  title: 'Sample question, photo c/o Josiah'
+  title: Sample question, photo c/o Josiah
 - src: IMG_0614.JPG
-  title: 'Sample question, photo c/o Josiah'
+  title: Sample question, photo c/o Josiah
 - src: IMG_0617.JPG
-  title: 'Sample question, photo c/o Josiah'
+  title: Sample question, photo c/o Josiah
 - src: IMG_0620.JPG
-  title: 'Sample question, photo c/o Josiah'
+  title: Sample question, photo c/o Josiah
 - src: IMG_0622.JPG
-  title: 'Sample question, photo c/o Josiah'
-title: 'Geekfight: Noisy / Standing'
+  title: Sample question, photo c/o Josiah
+- src: 393220401_721057156730710_4804390812964475201_n.jpg
+  title: Photo c/o GeekFight! Trivia Night
+- src: 394561008_721056873397405_2222263090303047213_n.jpg
+  title: Photo c/o GeekFight! Trivia Night
 tags:
 - geekfight
 - quiznight
+title: 'Geekfight: Noisy / Standing'
 ---
 
 This was game 3 of the current Geekfight League, themed as "back to school".
