@@ -10,6 +10,7 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/4e6df277c65b18875f906c6e
 tags:
 - quiznight
+- geekfight
 ---
 
 I'm at Last Home (Unit 06, Madison Square Pioneer, No. 04 Pioneer St, Mandaluyong City) http://4sq.com/nwYxof

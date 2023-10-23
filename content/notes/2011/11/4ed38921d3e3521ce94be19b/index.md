@@ -8,6 +8,7 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/4ed38921d3e3521ce94be19b
 tags:
 - quiznight
+- geekfight
 ---
 
 (@Last Home Unit 175 Building C Ortigas Home Depot Julia Vargas Ave Cor Meralco Ave)
