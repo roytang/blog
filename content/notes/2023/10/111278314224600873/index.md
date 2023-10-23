@@ -1,5 +1,5 @@
 ---
-date: 2023-10-22 10:58:43+00:00
+date: 2023-10-22 10:58:43
 dontinlinephotos: true
 resources:
 - src: 111278314224600873_1_922a0377c93639e3.jpg
@@ -8,6 +8,8 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111278314224600873
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17cyas3/october_21st_drawlloween_the_vampire_player/k646rf2/
 tags:
 - sketchbook
 - inktober2023
