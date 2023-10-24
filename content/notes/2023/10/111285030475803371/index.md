@@ -1,5 +1,5 @@
 ---
-date: 2023-10-23 15:26:45+00:00
+date: 2023-10-23 15:26:45
 dontinlinephotos: true
 resources:
 - src: 111285030475803371_1_dcbc9bc97f3ce8c1.jpg
@@ -12,6 +12,10 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111285030475803371
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17dp1s5/october_22nd_drawlloween_the_boy_with_a_head_in_a/k64c045/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17efx3a/october_23rd_drawlloween_monster_menu/k64c5ij/
 tags:
 - sketchbook
 - inktober2023
