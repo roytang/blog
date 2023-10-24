@@ -9,13 +9,17 @@ tags:
 title: Grand Prix Manila
 type: post
 url: /2006/03/grand-prix-manila/
+syndicated:
+- type: flickr
+  url: https://www.flickr.com/photos/zroytang/118022394/
+resources:
+- src: gp-manila_118022394_o.jpg
+  title: I attended Grand Prix Manila last March 17, 2006, and the event was jam-packed with people. Can you find me in the picture?
 ---
 
-{{< photo "2006/03/118022394/" >}}
+{{< img src="gp-manila_118022394_o.jpg" >}}
 
-<p style="float: right; margin-left: 10px; margin-bottom: 10px;">
 Maybe it's just me, but&nbsp;<a href="http://www.wizards.com/default.asp?x=mtgevent/gpmani06/welcome">Wizard's&nbsp;</a>coverage of Grand Prix Manila last weekend seems just&nbsp;<em>a tad&nbsp;</em>condescending to Filipino Magic players. Not that we mind, after all, local bets actually did kick ass and shrugged off the Japanese invasion.
-</p>
 
 If you are in fact a Filipino Magic player, then I hope you know what I'm talking about -- last weekend at the Robinson's Galleria Trade Hall, almost four hundred local and foreign Magic: The Gathering players gathered for the third-ever Grand Prix event held in Manila.
 
