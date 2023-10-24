@@ -7,3 +7,4 @@ syndicated:
 ---
 
 [@aleksfelipe](https://twitter.com/aleksfelipe/) may list ka ng cards na nasayo?
+
