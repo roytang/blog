@@ -9,4 +9,4 @@ title: ''
 
 So I remembered that I once used an app to make a font patterned after my own handwriting (). For fun, I tried to see what my website would look like with this font. OMG, this is why I don't like handwritten notes lol 
 
-{{% note "2018/06/1011963007709003776 %}}
+{{% note "2018/06/1011963007709003776" %}}
