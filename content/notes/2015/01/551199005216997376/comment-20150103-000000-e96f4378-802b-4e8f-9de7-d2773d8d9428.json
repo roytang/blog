@@ -1,11 +1,13 @@
 {
   "id": "e96f4378-802b-4e8f-9de7-d2773d8d9428",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I just looked and you have 18 points and are in the top 60s.     Who was your vengeance against? Do you have a MtG nemesis???",
-  "date": "2015-01-03 00:00:00",
+  "date": "2015-01-03 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153482551283912#10153482557453912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153482557453912",
     "poster": "David Ramirez",

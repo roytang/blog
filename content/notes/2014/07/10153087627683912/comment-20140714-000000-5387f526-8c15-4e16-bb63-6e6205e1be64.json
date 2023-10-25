@@ -1,11 +1,13 @@
 {
   "id": "5387f526-8c15-4e16-bb63-6e6205e1be64",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "It doesn&#x27;t actually cure your cold, and the science is meager. The benefit is symptom relief, a combination of staying hydrated helping with the mucus, and compensating for the appetite suppressing effects of being sick (eating less makes it easier to drink less and get dehydrated).",
-  "date": "2014-07-14 00:00:00",
+  "date": "2014-07-14 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153087627683912#10153087667178912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153087667178912",
     "poster": "David Ramirez",

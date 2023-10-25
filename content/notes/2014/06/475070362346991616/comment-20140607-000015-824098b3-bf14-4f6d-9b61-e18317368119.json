@@ -1,11 +1,13 @@
 {
   "id": "824098b3-bf14-4f6d-9b61-e18317368119",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "You really only have to cut out the name, address and account numbers. Then you can paste your name and address onto envelopes when you mail stuff. Just rip up the little strips of numbers  =P",
-  "date": "2014-06-07 00:00:15",
+  "date": "2014-06-07 00:00:15 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153008543688912#10153009131103912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153009131103912",
     "poster": "David Ramirez",

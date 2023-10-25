@@ -1,11 +1,13 @@
 {
   "id": "945e5d55-b907-48fb-b663-93d4585a527f",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Just watch some apocalypse movies! Or listen to sentimusic from long ago.... I cannot find any streaming site that&#x27;s got Color Me Badd&#x27;s &quot;I remember&quot; (not to be confused with &quot;Remember When&quot;).",
-  "date": "2013-12-31 00:00:00",
+  "date": "2013-12-31 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152696621138912#10152696660113912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152696660113912",
     "poster": "David Ramirez",

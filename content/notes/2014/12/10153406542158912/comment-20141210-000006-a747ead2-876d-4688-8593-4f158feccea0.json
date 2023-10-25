@@ -1,11 +1,13 @@
 {
   "id": "a747ead2-876d-4688-8593-4f158feccea0",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I like a lot of 90s stuff, but there&#x27;s a giant bunch of 80s pop, new wave and rock that I like, so. 80s.",
-  "date": "2014-12-10 00:00:06",
+  "date": "2014-12-10 00:00:06 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153406542158912#10153406626153912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153406626153912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "1f7f5724-4a4d-424d-b9d7-3fa5193cda16",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Aww, they changed the ending from the book too?",
-  "date": "2014-06-08 00:00:03",
+  "date": "2014-06-08 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153009684728912#10153010089433912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153010089433912",
     "poster": "David Ramirez",

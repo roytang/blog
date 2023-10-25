@@ -1,11 +1,13 @@
 {
   "id": "857b1581-f30e-4de7-8f9c-2dc07960b8db",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Leave the gun. Take the cannoli.",
-  "date": "2014-04-06 00:00:07",
+  "date": "2014-04-06 00:00:07 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152878556193912#10152879904088912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152879904088912",
     "poster": "David Ramirez",

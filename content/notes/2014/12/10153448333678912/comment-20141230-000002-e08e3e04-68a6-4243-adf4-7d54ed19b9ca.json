@@ -1,11 +1,13 @@
 {
   "id": "e08e3e04-68a6-4243-adf4-7d54ed19b9ca",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Oo. Hmm. Probably pick Gates money then. I would try to use the Death Note for good then just turn into a supervillain.",
-  "date": "2014-12-30 00:00:02",
+  "date": "2014-12-30 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153448333678912#10153448369343912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153448369343912",
     "poster": "David Ramirez",

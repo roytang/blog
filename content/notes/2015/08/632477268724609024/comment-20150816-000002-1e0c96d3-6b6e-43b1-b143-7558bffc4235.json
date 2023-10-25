@@ -1,11 +1,13 @@
 {
   "id": "1e0c96d3-6b6e-43b1-b143-7558bffc4235",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Haha, if you take a sabbatical, that can be your goal--train and become a champion!",
-  "date": "2015-08-16 00:00:02",
+  "date": "2015-08-16 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154019050968912#10154019353433912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154019353433912",
     "poster": "David Ramirez",

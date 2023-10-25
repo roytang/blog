@@ -1,11 +1,13 @@
 {
   "id": "6274dc26-4044-41a7-9fee-7ffe60244373",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "But Roy Prime might be the Emperor of the Galaxy! That&#x27;s what we all want anyway  =)",
-  "date": "2014-01-28 00:00:05",
+  "date": "2014-01-28 00:00:05 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152753574898912#10152753586063912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152753586063912",
     "poster": "David Ramirez",

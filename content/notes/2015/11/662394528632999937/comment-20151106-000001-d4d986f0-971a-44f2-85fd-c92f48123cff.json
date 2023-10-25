@@ -1,11 +1,13 @@
 {
   "id": "d4d986f0-971a-44f2-85fd-c92f48123cff",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I&#x27;ve given up on doing enough research for an optimal performance/ price rig. I just go to pcexpress with an approximate list and substitute out whatever is out of stock. Anyway, unless one is spending ridiculous amounts for the bleeding edge video cards, good enough is actually pretty powerful because developers have to limit requirements to console specs.",
-  "date": "2015-11-06 00:00:01",
+  "date": "2015-11-06 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154180841363912#10154180956658912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154180956658912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "f4b09e1a-599b-451d-a253-5ddba9db8089",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I don&#x27;t mind this in most movie and tv show formats (crime/horror/ sf&amp;f/action). But I can&#x27;t stand it for things set during high school.",
-  "date": "2014-02-05 00:00:03",
+  "date": "2014-02-05 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152765197873912#10152767567358912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152767567358912",
     "poster": "David Ramirez",

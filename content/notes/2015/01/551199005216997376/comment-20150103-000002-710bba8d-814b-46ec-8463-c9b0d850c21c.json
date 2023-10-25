@@ -1,11 +1,13 @@
 {
   "id": "710bba8d-814b-46ec-8463-c9b0d850c21c",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Ah, your vengeance lies in the shadows. Like a ninja. In the night.",
-  "date": "2015-01-03 00:00:02",
+  "date": "2015-01-03 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153482551283912#10153482785653912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153482785653912",
     "poster": "David Ramirez",

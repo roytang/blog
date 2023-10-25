@@ -1,11 +1,13 @@
 {
   "id": "47dc3e2a-37ce-4397-8c0c-9d9738878466",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I&#x27;m waiting for the day CDR King starts selling cars. I mean, SM started out with shoes!",
-  "date": "2014-06-07 00:00:01",
+  "date": "2014-06-07 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153009169808912#10153009171278912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153009171278912",
     "poster": "David Ramirez",

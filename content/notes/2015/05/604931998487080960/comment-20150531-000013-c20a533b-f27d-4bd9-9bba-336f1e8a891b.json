@@ -1,11 +1,13 @@
 {
   "id": "c20a533b-f27d-4bd9-9bba-336f1e8a891b",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Lol, the autotranslation  is:     &quot;Don&#x27;t make the bed while iipad sleepy, you should only on his face  # truestory &quot;&quot;",
-  "date": "2015-05-31 00:00:13",
+  "date": "2015-05-31 00:00:13 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153816033978912#10153817624728912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153817624728912",
     "poster": "David Ramirez",

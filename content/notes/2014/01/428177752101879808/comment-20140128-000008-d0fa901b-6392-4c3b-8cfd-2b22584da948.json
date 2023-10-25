@@ -1,11 +1,13 @@
 {
   "id": "d0fa901b-6392-4c3b-8cfd-2b22584da948",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I&#x27;m trying to imagine an open world time travel game design. That would be hellishly hard to write unless the time travel is completely trivial. I can picture doing it semi-open-world  in a small location, like Arkham City-sized, or like the Columbia of Bioshock, but not as big as Skyrim/Fallout.",
-  "date": "2014-01-28 00:00:08",
+  "date": "2014-01-28 00:00:08 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152753574898912#10152753605183912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152753605183912",
     "poster": "David Ramirez",

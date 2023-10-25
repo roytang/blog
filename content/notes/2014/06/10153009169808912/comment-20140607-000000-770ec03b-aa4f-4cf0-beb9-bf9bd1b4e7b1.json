@@ -1,11 +1,13 @@
 {
   "id": "770ec03b-aa4f-4cf0-beb9-bf9bd1b4e7b1",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "CDRKing, USB hub.",
-  "date": "2014-06-07 00:00:00",
+  "date": "2014-06-07 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153009169808912#10153009170598912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153009170598912",
     "poster": "David Ramirez",

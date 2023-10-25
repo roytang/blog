@@ -1,11 +1,13 @@
 {
   "id": "907d77d8-8828-424d-a07e-561d32c6d554",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Are you going to randomly drop everything and move to another country/city on a whim and forced to room with a random stranger to save on housing expenses???",
-  "date": "2015-06-24 00:00:01",
+  "date": "2015-06-24 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153900806238912#10153901080638912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153901080638912",
     "poster": "David Ramirez",

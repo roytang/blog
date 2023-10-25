@@ -1,11 +1,13 @@
 {
   "id": "64c31a23-4f3c-4717-ac00-69f7c2c08564",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "It takes a man to suffer ignorance and smile  Be yourself, no matter what they say     https://www.youtube.com/watch?v=d27gTrPPAyk",
-  "date": "2015-06-15 00:00:00",
+  "date": "2015-06-15 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153861323038912#10153861386528912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153861386528912",
     "poster": "David Ramirez",

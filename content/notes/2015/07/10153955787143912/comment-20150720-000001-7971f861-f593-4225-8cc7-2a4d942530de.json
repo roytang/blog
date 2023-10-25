@@ -1,11 +1,13 @@
 {
   "id": "7971f861-f593-4225-8cc7-2a4d942530de",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Maybe you&#x27;ll get internet famous! We should post your sequence on reddit and voat....",
-  "date": "2015-07-20 00:00:01",
+  "date": "2015-07-20 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153955787143912#10153955799803912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153955799803912",
     "poster": "David Ramirez",

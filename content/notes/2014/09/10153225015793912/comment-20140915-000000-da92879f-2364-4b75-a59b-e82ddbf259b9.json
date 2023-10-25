@@ -1,11 +1,13 @@
 {
   "id": "da92879f-2364-4b75-a59b-e82ddbf259b9",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Liza&#x27;s been watching this Korean soap, so I dreamed I was watching a different Korean soap.",
-  "date": "2014-09-15 00:00:00",
+  "date": "2014-09-15 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153225015793912#10153225763433912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153225763433912",
     "poster": "David Ramirez",

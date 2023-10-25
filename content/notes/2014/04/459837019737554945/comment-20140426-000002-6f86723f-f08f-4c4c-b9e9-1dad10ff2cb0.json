@@ -1,11 +1,13 @@
 {
   "id": "6f86723f-f08f-4c4c-b9e9-1dad10ff2cb0",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Is that like Bruce Banner saying &quot;I&#x27;m always angry&quot;?",
-  "date": "2014-04-26 00:00:02",
+  "date": "2014-04-26 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152920438383912#10152920461478912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152920461478912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "4e2837fe-5a06-4edd-98f1-73d8fdc13cc2",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Step 2: Have Whedon do it.",
-  "date": "2015-08-12 00:00:01",
+  "date": "2015-08-12 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154009494543912#10154009640738912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154009640738912",
     "poster": "David Ramirez",

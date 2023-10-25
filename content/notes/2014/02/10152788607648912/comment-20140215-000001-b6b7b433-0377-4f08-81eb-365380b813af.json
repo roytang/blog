@@ -1,11 +1,13 @@
 {
   "id": "b6b7b433-0377-4f08-81eb-365380b813af",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I sing along and imagine myself in New Zealand, or on a boat in a storm? Oh, oh, and when singing along to Holy Diver, I imagine myself in the Highlander movie!     https://www.youtube.com/watch?v=bkysjcs5vFU",
-  "date": "2014-02-15 00:00:01",
+  "date": "2014-02-15 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152788607648912#10152788642278912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152788642278912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "c93f4c64-9a87-4d16-a625-002aa6a2a003",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "You can probably frame all problems in that context since resources can be abstract, but there are other frameworks that allow the parsing of all problems through?",
-  "date": "2015-10-21 00:00:01",
+  "date": "2015-10-21 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154155590468912#10154155611843912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154155611843912",
     "poster": "David Ramirez",

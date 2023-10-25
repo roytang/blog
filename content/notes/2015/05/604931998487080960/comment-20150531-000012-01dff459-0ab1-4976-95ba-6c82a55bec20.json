@@ -1,11 +1,13 @@
 {
   "id": "01dff459-0ab1-4976-95ba-6c82a55bec20",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "This is why I&#x27;ve realized I&#x27;m not a tablet person. Phablet is just the right size for me to read/browse, and it&#x27;s not as heavy as a tablet so it&#x27;s easier for reading in bed.",
-  "date": "2015-05-31 00:00:12",
+  "date": "2015-05-31 00:00:12 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153816033978912#10153817623178912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153817623178912",
     "poster": "David Ramirez",

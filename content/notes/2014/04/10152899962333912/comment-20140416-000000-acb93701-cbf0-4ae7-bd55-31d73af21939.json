@@ -1,11 +1,13 @@
 {
   "id": "acb93701-cbf0-4ae7-bd55-31d73af21939",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Curses! They&#x27;ve found out the exploit I intentionally put in there before my vengeance came to fruition!",
-  "date": "2014-04-16 00:00:00",
+  "date": "2014-04-16 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152899962333912#10152899980978912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152899980978912",
     "poster": "David Ramirez",

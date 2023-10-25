@@ -1,11 +1,13 @@
 {
   "id": "a0d81877-134b-4d96-bbe0-3d0d61fd6bf9",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Well... Even the Wii was a terrible name  =P",
-  "date": "2015-01-17 00:00:00",
+  "date": "2015-01-17 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153507926198912#10153507942888912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153507942888912",
     "poster": "David Ramirez",

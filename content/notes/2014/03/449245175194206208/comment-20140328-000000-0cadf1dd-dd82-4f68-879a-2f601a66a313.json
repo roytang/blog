@@ -1,11 +1,13 @@
 {
   "id": "0cadf1dd-dd82-4f68-879a-2f601a66a313",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "We all need more  # genius  in our lives.",
-  "date": "2014-03-28 00:00:00",
+  "date": "2014-03-28 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152862264003912#10152862343533912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152862343533912",
     "poster": "David Ramirez",

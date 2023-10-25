@@ -1,11 +1,13 @@
 {
   "id": "ccd66dc0-daff-4980-bcf7-b9ac8ef81579",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I am choosing to imagine a ridiculous universe in which, when nobody is looking, Picard violently throws his empty tea cups onto the floor with all the manic fury he never permits himself outside of this one small ritual.     Then he disintegrates the evidence with a carefully calibrated phaser setting.     https://www.youtube.com/watch?v=gAYL5H46QnQ",
-  "date": "2015-02-19 00:00:03",
+  "date": "2015-02-19 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153577967848912#10153578269993912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153578269993912",
     "poster": "David Ramirez",

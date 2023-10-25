@@ -1,11 +1,13 @@
 {
   "id": "ab4488b1-f28a-4190-9a49-beffa72dda9e",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Aww. I know it&#x27;s not a happy ending, but the end of the book is really dramatic.",
-  "date": "2014-06-08 00:00:09",
+  "date": "2014-06-08 00:00:09 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153009684728912#10153010440878912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153010440878912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "66753071-7f8d-4f7c-9354-1b51bed55fb3",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Are you doing nanowrimo this year?",
-  "date": "2014-11-08 00:00:00",
+  "date": "2014-11-08 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153344909798912#10153344966013912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153344966013912",
     "poster": "David Ramirez",

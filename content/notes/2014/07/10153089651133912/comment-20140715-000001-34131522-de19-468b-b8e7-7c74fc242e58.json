@@ -1,11 +1,13 @@
 {
   "id": "34131522-de19-468b-b8e7-7c74fc242e58",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Maybe one night, soon, everyone in Metro Manila will vanish and the only thing left will be the word crosacoday painted on the streets, over and over....",
-  "date": "2014-07-15 00:00:01",
+  "date": "2014-07-15 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153089651133912#10153089728383912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153089728383912",
     "poster": "David Ramirez",

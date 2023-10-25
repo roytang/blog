@@ -1,11 +1,13 @@
 {
   "id": "1c0bd48f-06b1-4e63-ab35-2603e1d04994",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "...Every time I saw &quot;Wii&quot;, a small part of me thought &quot;It&#x27;s the Nintendo Pee.&quot; But, yes, the other names are functionally worse, it&#x27;s true.",
-  "date": "2015-01-17 00:00:02",
+  "date": "2015-01-17 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153507926198912#10153507958608912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153507958608912",
     "poster": "David Ramirez",

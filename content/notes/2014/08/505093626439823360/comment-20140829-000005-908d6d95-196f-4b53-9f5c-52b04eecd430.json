@@ -1,11 +1,13 @@
 {
   "id": "908d6d95-196f-4b53-9f5c-52b04eecd430",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "You could have been up all night talking deep meaningful talk over the phone while listening to the radio!",
-  "date": "2014-08-29 00:00:05",
+  "date": "2014-08-29 00:00:05 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153187981873912#10153188028808912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153188028808912",
     "poster": "David Ramirez",

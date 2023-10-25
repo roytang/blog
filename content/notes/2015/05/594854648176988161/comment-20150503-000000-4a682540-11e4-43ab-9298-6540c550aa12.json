@@ -1,11 +1,13 @@
 {
   "id": "4a682540-11e4-43ab-9298-6540c550aa12",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "You know everything about everything!",
-  "date": "2015-05-03 00:00:00",
+  "date": "2015-05-03 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153752242348912#10153752324663912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153752324663912",
     "poster": "David Ramirez",

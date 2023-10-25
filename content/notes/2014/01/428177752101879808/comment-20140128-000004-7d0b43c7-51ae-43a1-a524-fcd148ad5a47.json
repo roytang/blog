@@ -1,11 +1,13 @@
 {
   "id": "7d0b43c7-51ae-43a1-a524-fcd148ad5a47",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Oh, that&#x27;s cool! Kind of like the SNES Zelda, except in time instead of a mirror world, and not as straightforward   =)  Yes, that would be amusing. You kill one boss and his children can&#x27;t own the company that makes the power armor in the future....",
-  "date": "2014-01-28 00:00:04",
+  "date": "2014-01-28 00:00:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152753574898912#10152753585318912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152753585318912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "c98cd391-f835-4f36-8909-90dae270a384",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Rest, fluids. For symptomatic relief, I like Nyquil, but I don&#x27;t think that&#x27;s available in the Philippines. You may need antibiotics if it&#x27;s particularly bad.    The cold I got last month lasted for weeks--I may have had pneumonia at one point  =P",
-  "date": "2014-07-12 00:00:00",
+  "date": "2014-07-12 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153084729228912#10153084735943912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153084735943912",
     "poster": "David Ramirez",

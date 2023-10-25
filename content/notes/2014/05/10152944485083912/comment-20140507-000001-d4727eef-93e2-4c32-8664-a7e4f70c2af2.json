@@ -1,11 +1,13 @@
 {
   "id": "d4727eef-93e2-4c32-8664-a7e4f70c2af2",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Many people never reach this level of self-awareness,  even in hindsight.",
-  "date": "2014-05-07 00:00:01",
+  "date": "2014-05-07 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152944485083912#10152944840473912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152944840473912",
     "poster": "David Ramirez",

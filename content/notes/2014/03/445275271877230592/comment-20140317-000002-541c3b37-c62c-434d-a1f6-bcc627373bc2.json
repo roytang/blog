@@ -1,11 +1,13 @@
 {
   "id": "541c3b37-c62c-434d-a1f6-bcc627373bc2",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I was deciding between this and Under Pressure, but since I already shared a music video....     http://gizmodo.com/nasa-backed-study-says-humanity-is-pretty-much-screwed-1544660726",
-  "date": "2014-03-17 00:00:02",
+  "date": "2014-03-17 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152842249393912#10152842293333912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152842293333912",
     "poster": "David Ramirez",

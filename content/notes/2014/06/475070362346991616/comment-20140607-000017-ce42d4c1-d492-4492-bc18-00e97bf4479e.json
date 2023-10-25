@@ -1,11 +1,13 @@
 {
   "id": "ce42d4c1-d492-4492-bc18-00e97bf4479e",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Lol. The next time you guys have a barbecue, burn them all when you get the coals started.",
-  "date": "2014-06-07 00:00:17",
+  "date": "2014-06-07 00:00:17 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153008543688912#10153009133943912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153009133943912",
     "poster": "David Ramirez",

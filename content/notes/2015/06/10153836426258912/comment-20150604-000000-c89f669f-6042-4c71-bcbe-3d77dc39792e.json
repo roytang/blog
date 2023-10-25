@@ -1,11 +1,13 @@
 {
   "id": "c89f669f-6042-4c71-bcbe-3d77dc39792e",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "If you just won the lottery, lemme just say I&#x27;ve always thought of you as such a good and worthy friend  =)",
-  "date": "2015-06-04 00:00:00",
+  "date": "2015-06-04 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153836426258912#10153836428413912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153836428413912",
     "poster": "David Ramirez",

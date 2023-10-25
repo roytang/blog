@@ -1,11 +1,13 @@
 {
   "id": "a8663c0d-6272-494e-bac9-796a18a7f4e7",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "You just need to train before GPs again instead of going in almost cold.",
-  "date": "2015-08-16 00:00:00",
+  "date": "2015-08-16 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154019050968912#10154019268963912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154019268963912",
     "poster": "David Ramirez",

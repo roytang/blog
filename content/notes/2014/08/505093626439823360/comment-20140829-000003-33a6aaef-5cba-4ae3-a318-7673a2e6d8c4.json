@@ -1,11 +1,13 @@
 {
   "id": "33a6aaef-5cba-4ae3-a318-7673a2e6d8c4",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Did someone give you the Call Me Maybe?     https://www.youtube.com/watch?v=fWNaR-rxAic",
-  "date": "2014-08-29 00:00:03",
+  "date": "2014-08-29 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153187981873912#10153188011538912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10153188011538912",
     "poster": "David Ramirez",

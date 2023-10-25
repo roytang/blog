@@ -1,11 +1,13 @@
 {
   "id": "3f0ae35c-a9aa-466d-a7ab-fd3f7e9ffc85",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "We usually keep pizza frozen. Microwave to defrost and preheat, finish 5 minutes toaster oven.",
-  "date": "2015-08-30 00:00:04",
+  "date": "2015-08-30 00:00:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154049125063912#10154052026633912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154052026633912",
     "poster": "David Ramirez",
