@@ -16,6 +16,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/17dp1s5/october_22nd_drawlloween_the_boy_with_a_head_in_a/k64c045/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17efx3a/october_23rd_drawlloween_monster_menu/k64c5ij/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17f8cmw/october_24th_drawlloween_clown_town/k6cy7q2/
 tags:
 - sketchbook
 - inktober2023
