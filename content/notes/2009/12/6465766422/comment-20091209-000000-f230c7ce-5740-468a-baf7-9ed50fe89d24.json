@@ -1,9 +1,11 @@
 {
   "id": "f230c7ce-5740-468a-baf7-9ed50fe89d24",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Heeelp...  http://www.youtube.com/watch?v=Xs-tl6GBOBo",
-  "date": "2009-12-09 00:00:00",
+  "date": "2009-12-09 00:00:00 +0800",
   "photo": null,
-  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/340193000135#10151630171315136"
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/340193000135#10151630171315136",
+  "source": "facebook",
+  "spam": false
 }

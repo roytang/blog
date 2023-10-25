@@ -1,11 +1,13 @@
 {
   "id": "7531d93e-4e4e-4471-bd54-08822fea61e4",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "A high tech, fine granularity version of that congestion charge would be nice. Like all cars would have a unit built in, and you get automatically charged for different fee zones only if using them and only while you&#x27;re using them.",
-  "date": "2013-07-11 00:00:05",
+  "date": "2013-07-11 00:00:05 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152338298388912#10152338332358912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152338332358912",
     "poster": "David Ramirez",

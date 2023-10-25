@@ -1,11 +1,13 @@
 {
   "id": "c29dc2fb-2ed7-49c1-9ec5-431ed76063a1",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I have lots of dreams like this, but usually, it&#x27;s just a test for grad school. Though, my dreams of grad school sometimes bleed into dreams of an apocalypse...",
-  "date": "2013-09-06 00:00:00",
+  "date": "2013-09-06 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152448769198912#10152448773548912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152448773548912",
     "poster": "David Ramirez",

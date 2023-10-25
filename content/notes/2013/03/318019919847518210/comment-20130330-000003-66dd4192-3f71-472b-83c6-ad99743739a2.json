@@ -1,11 +1,13 @@
 {
   "id": "66dd4192-3f71-472b-83c6-ad99743739a2",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I really should buy one of those giant collections of all the Dr. Who episodes ever sometime. The theme music really gets to me still (I prefer the 1980-85 version of the music).",
-  "date": "2013-03-30 00:00:03",
+  "date": "2013-03-30 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152168616068912#10152168649913912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152168649913912",
     "poster": "David Ramirez",

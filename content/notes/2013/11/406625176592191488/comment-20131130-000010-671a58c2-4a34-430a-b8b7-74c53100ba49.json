@@ -1,11 +1,13 @@
 {
   "id": "671a58c2-4a34-430a-b8b7-74c53100ba49",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Modern shredders do a crisscross cut so processed documents are incredibly difficult to put back together.",
-  "date": "2013-11-30 00:00:10",
+  "date": "2013-11-30 00:00:10 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152632217193912#10152632309233912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152632309233912",
     "poster": "David Ramirez",

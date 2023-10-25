@@ -1,11 +1,13 @@
 {
   "id": "027b7a97-1755-4f18-bc8a-6cc410935760",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "You need to have a map where you battle from node to node, and at each one, you unlock a new cheating power.",
-  "date": "2013-08-17 00:00:00",
+  "date": "2013-08-17 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152408833453912#10152408837228912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152408837228912",
     "poster": "David Ramirez",

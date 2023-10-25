@@ -1,11 +1,13 @@
 {
   "id": "2b8f9ffb-3a6d-4f4c-9ffe-7d67e94cebe5",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Naw, I decided it was too pessimistic so I dropped it  =P",
-  "date": "2013-03-31 00:00:00",
+  "date": "2013-03-31 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152169895668912#10152169896433912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152169896433912",
     "poster": "David Ramirez",

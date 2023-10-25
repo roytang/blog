@@ -1,11 +1,13 @@
 {
   "id": "ed7c04da-744f-44df-85aa-a765efe09c68",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Lol, you finished it before me. Did you finish coop or solo? And with which character?",
-  "date": "2013-02-24 00:00:00",
+  "date": "2013-02-24 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152107704973912#10152107741673912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152107741673912",
     "poster": "David Ramirez",

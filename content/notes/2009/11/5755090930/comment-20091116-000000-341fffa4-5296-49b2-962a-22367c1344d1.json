@@ -1,9 +1,11 @@
 {
   "id": "341fffa4-5296-49b2-962a-22367c1344d1",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Automata theory applied to CYOA!!!  Explode!",
-  "date": "2009-11-16 00:00:00",
+  "date": "2009-11-16 00:00:00 +0800",
   "photo": null,
-  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/179754017622#10150733150267623"
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/179754017622#10150733150267623",
+  "source": "facebook",
+  "spam": false
 }

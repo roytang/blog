@@ -1,11 +1,13 @@
 {
   "id": "2f90b857-e787-4071-8590-d484b86f5341",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "If you guys have shift work, do you have locker rooms and showers and cots? You should  =P",
-  "date": "2013-09-03 00:00:00",
+  "date": "2013-09-03 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152443842933912#10152443846478912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152443846478912",
     "poster": "David Ramirez",

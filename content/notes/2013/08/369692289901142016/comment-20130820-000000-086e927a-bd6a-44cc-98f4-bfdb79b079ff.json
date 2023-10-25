@@ -1,11 +1,13 @@
 {
   "id": "086e927a-bd6a-44cc-98f4-bfdb79b079ff",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Did you get ninjaed by the rain? You too might as well make up a haiku about the weather...",
-  "date": "2013-08-20 00:00:00",
+  "date": "2013-08-20 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152416081488912#10152416085363912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152416085363912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "c1a132e6-8be9-4d3e-88de-075ebaa11425",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I&#x27;m imagining a better world in which there is a Pinoy Mythbusters/ some science-y type show. I&#x27;m picturing  Mario Carreon  for enthusiastic laughs and someone like Mr. Angeles as the co-host for contrast.",
-  "date": "2013-09-25 00:00:03",
+  "date": "2013-09-25 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152487588153912#10152487995448912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152487995448912",
     "poster": "David Ramirez",

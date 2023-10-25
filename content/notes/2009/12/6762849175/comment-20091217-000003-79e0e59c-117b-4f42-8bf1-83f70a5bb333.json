@@ -1,9 +1,11 @@
 {
   "id": "79e0e59c-117b-4f42-8bf1-83f70a5bb333",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Best to call it in quick anyway.  I&#x27;m paranoid about any data leakage - even if they can&#x27;t use it to withdraw cash, they might be able to get a bit of info about your accounts if they reach a gullible person at your bank.",
-  "date": "2009-12-17 00:00:03",
+  "date": "2009-12-17 00:00:03 +0800",
   "photo": null,
-  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/206528471686#10150780544236687"
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/206528471686#10150780544236687",
+  "source": "facebook",
+  "spam": false
 }

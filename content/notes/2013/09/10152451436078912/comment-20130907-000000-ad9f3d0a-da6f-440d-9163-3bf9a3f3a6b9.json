@@ -1,11 +1,13 @@
 {
   "id": "ad9f3d0a-da6f-440d-9163-3bf9a3f3a6b9",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "http://en.wikipedia.org/wiki/Roman_citizenship",
-  "date": "2013-09-07 00:00:00",
+  "date": "2013-09-07 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152451436078912#10152451500958912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152451500958912",
     "poster": "David Ramirez",

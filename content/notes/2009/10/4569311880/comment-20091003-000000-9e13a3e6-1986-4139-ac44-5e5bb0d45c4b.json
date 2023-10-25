@@ -1,9 +1,11 @@
 {
   "id": "9e13a3e6-1986-4139-ac44-5e5bb0d45c4b",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Go laziness.",
-  "date": "2009-10-03 00:00:00",
+  "date": "2009-10-03 00:00:00 +0800",
   "photo": null,
-  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/145345053773#10150823871678774"
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/145345053773#10150823871678774",
+  "source": "facebook",
+  "spam": false
 }

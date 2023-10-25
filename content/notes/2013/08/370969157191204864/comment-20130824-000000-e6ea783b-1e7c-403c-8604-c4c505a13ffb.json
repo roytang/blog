@@ -1,11 +1,13 @@
 {
   "id": "e6ea783b-1e7c-403c-8604-c4c505a13ffb",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Inconceivable!",
-  "date": "2013-08-24 00:00:00",
+  "date": "2013-08-24 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152422999933912#10152423014278912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152423014278912",
     "poster": "David Ramirez",

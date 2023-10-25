@@ -1,11 +1,13 @@
 {
   "id": "e7fa64b8-8e0d-4294-bd3b-cd3342022039",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I don&#x27;t like them enough. I&#x27;d probably give it to whichever friend I know really likes them. Or auction it or something.    Hmm, what would I do if it was the last package of bacon ever, and after it, animal products are banned... Eh, I&#x27;d eat it.",
-  "date": "2013-09-25 00:00:00",
+  "date": "2013-09-25 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152488717873912#10152488722553912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152488722553912",
     "poster": "David Ramirez",

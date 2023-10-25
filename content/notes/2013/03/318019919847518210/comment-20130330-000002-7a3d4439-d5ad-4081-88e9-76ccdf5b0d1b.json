@@ -1,11 +1,13 @@
 {
   "id": "7a3d4439-d5ad-4081-88e9-76ccdf5b0d1b",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "=P  I&#x27;ll probably finish 1Q84 and Cloud Atlas before I go back to GoT.",
-  "date": "2013-03-30 00:00:02",
+  "date": "2013-03-30 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152168616068912#10152168619953912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152168619953912",
     "poster": "David Ramirez",

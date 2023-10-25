@@ -1,9 +1,11 @@
 {
   "id": "eb0eb856-1f44-4ee3-af10-b25abe3418db",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Haha, I like how the diagrams start to look like Turing Machine tape...",
-  "date": "2009-11-16 00:00:01",
+  "date": "2009-11-16 00:00:01 +0800",
   "photo": null,
-  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/179754017622#10150733150617623"
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/179754017622#10150733150617623",
+  "source": "facebook",
+  "spam": false
 }

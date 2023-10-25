@@ -1,11 +1,13 @@
 {
   "id": "b96733b2-f0a8-4f8b-883e-def605ae0f05",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "We can try it sometime, but I&#x27;m not a skilled fps guy! And I actually haven&#x27;t finished it yet. I&#x27;d have to reinstall it too (I uninstall games I&#x27;m not playing anymore because my ssd isn&#x27;t that big).",
-  "date": "2013-07-11 00:00:04",
+  "date": "2013-07-11 00:00:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152338341818912#10152338354678912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152338354678912",
     "poster": "David Ramirez",

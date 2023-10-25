@@ -1,9 +1,11 @@
 {
   "id": "5f783407-93c2-44e3-8dc6-1138066fee7c",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "People also drive a little crazier during the holidays.  I wish I owned a tank.",
-  "date": "2009-12-18 00:00:07",
+  "date": "2009-12-18 00:00:07 +0800",
   "photo": null,
-  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/206528471686#10150780697841687"
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/206528471686#10150780697841687",
+  "source": "facebook",
+  "spam": false
 }

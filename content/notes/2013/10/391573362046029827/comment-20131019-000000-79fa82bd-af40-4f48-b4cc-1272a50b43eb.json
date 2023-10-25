@@ -1,11 +1,13 @@
 {
   "id": "79fa82bd-af40-4f48-b4cc-1272a50b43eb",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I think the sim gets deactivated after a while.",
-  "date": "2013-10-19 00:00:00",
+  "date": "2013-10-19 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152535102518912#10152535103848912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10152535103848912",
     "poster": "David Ramirez",
