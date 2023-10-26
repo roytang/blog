@@ -1,11 +1,13 @@
 {
   "id": "63321513-227d-4f06-9d72-5063f4aa3154",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "That&#x27;s what you can do this year! Become a champion  =)",
-  "date": "2016-01-29 00:00:00",
+  "date": "2016-01-29 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154341976808912#10154342049518912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154342049518912",
     "poster": "David Ramirez",

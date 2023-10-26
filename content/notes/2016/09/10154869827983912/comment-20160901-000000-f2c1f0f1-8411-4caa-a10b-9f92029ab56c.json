@@ -1,11 +1,13 @@
 {
   "id": "f2c1f0f1-8411-4caa-a10b-9f92029ab56c",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "...Being a slacker, I would have just bought a new keyboard.",
-  "date": "2016-09-01 00:00:00",
+  "date": "2016-09-01 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154869827983912#10154869978168912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154869978168912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "b6572cae-86b0-409c-887c-83506daafa89",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I&#x27;ve been complaining about feeling older because of all the post-exercise aches I did not used to get and then bam--appendicit is  :p      #2016",
-  "date": "2016-09-24 00:00:02",
+  "date": "2016-09-24 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154934734153912#10154934783983912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154934783983912",
     "poster": "David Ramirez",

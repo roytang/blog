@@ -1,11 +1,13 @@
 {
   "id": "d2c2f779-b090-4d8c-acbe-ab16b237b0ba",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "So my flight was delayed an hour. That scene looks strangely familiar right now, as if I&#x27;m seeing something very similar in the moment, maybe.",
-  "date": "2017-05-01 00:00:04",
+  "date": "2017-05-01 00:00:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155585852063912#10155586647503912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155586647503912",
     "poster": "David Ramirez",

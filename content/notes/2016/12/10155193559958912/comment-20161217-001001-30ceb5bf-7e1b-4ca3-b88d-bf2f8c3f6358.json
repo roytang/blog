@@ -1,11 +1,13 @@
 {
   "id": "30ceb5bf-7e1b-4ca3-b88d-bf2f8c3f6358",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I don&#x27;t know--it&#x27;s not detail anymore that&#x27;s causing it, so just adding higher quality texture won&#x27;t do it. It&#x27;s something in the movements under the skin. I don&#x27;t think straightforward  hardware and software improvements will take it the rest of the way.    Although who knows, maybe they just need to do some mocap with tissue penetrating lasers that can read the muscles underneath the skin of an actor doing expressions and it&#x27;ll be right there next year.",
-  "date": "2016-12-17 00:10:01",
+  "date": "2016-12-17 00:10:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155193559958912#10155193644303912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155193644303912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "6a34adac-af27-4f08-bc69-9380cec536c1",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "It&#x27;s hoooot. Turn up the AC already  :(",
-  "date": "2017-05-01 00:00:05",
+  "date": "2017-05-01 00:00:05 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155585852063912#10155586665388912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155586665388912",
     "poster": "David Ramirez",

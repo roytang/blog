@@ -1,11 +1,13 @@
 {
   "id": "50ad2574-ca24-4ddb-8078-d1de8663e4c7",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "http://www.karapatan.org/node/281",
-  "date": "2015-12-10 00:15:06",
+  "date": "2015-12-10 00:15:06 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154239469608912#10154239745553912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154239745553912",
     "poster": "David Ramirez",

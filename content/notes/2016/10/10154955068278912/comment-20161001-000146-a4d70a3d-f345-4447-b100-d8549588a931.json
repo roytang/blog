@@ -1,11 +1,13 @@
 {
   "id": "a4d70a3d-f345-4447-b100-d8549588a931",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Ah, yeah, the 80s, such an innocent time... in a weird, weird way....",
-  "date": "2016-10-01 00:01:46",
+  "date": "2016-10-01 00:01:46 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154955068278912#10154955089713912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154955089713912",
     "poster": "David Ramirez",

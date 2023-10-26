@@ -1,11 +1,13 @@
 {
   "id": "ade7f119-1636-41bd-ab7b-bd9030026c5a",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Not like Megatron!",
-  "date": "2016-10-01 00:01:40",
+  "date": "2016-10-01 00:01:40 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154955068278912#10154955075803912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154955075803912",
     "poster": "David Ramirez",

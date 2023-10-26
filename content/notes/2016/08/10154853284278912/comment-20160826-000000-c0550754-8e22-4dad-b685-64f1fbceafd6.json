@@ -1,11 +1,13 @@
 {
   "id": "c0550754-8e22-4dad-b685-64f1fbceafd6",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "It&#x27;s just supposed to distract people. So instead of addressing the issue at hand, hit them with some shocking other thing so people think about something else. A thought derail, as much as a thread derail.",
-  "date": "2016-08-26 00:00:00",
+  "date": "2016-08-26 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154853284278912#10154853286733912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154853286733912",
     "poster": "David Ramirez",

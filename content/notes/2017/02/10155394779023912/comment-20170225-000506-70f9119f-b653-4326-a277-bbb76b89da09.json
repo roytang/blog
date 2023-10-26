@@ -1,11 +1,13 @@
 {
   "id": "70f9119f-b653-4326-a277-bbb76b89da09",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "https://www.reddit.com/r/Philippines/comments/5v2iw3/contreras_this_is_not_fake_news_with_credible/",
-  "date": "2017-02-25 00:05:06",
+  "date": "2017-02-25 00:05:06 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155394779023912#10155395519623912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155395519623912",
     "poster": "David Ramirez",

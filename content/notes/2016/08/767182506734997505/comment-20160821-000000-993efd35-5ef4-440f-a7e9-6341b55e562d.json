@@ -1,11 +1,13 @@
 {
   "id": "993efd35-5ef4-440f-a7e9-6341b55e562d",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Some day....",
-  "date": "2016-08-21 00:00:00",
+  "date": "2016-08-21 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154839056063912#10154839094463912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154839094463912",
     "poster": "David Ramirez",

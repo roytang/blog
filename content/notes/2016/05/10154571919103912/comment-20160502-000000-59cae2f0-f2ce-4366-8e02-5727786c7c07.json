@@ -1,11 +1,13 @@
 {
   "id": "59cae2f0-f2ce-4366-8e02-5727786c7c07",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Give in to the dark side!",
-  "date": "2016-05-02 00:00:00",
+  "date": "2016-05-02 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154571919103912#10154571924718912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154571924718912",
     "poster": "David Ramirez",

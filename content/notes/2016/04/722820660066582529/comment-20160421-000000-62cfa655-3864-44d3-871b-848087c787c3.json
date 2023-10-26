@@ -1,11 +1,13 @@
 {
   "id": "62cfa655-3864-44d3-871b-848087c787c3",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "There is no cap on disappointment.",
-  "date": "2016-04-21 00:00:00",
+  "date": "2016-04-21 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154547372398912#10154547373753912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154547373753912",
     "poster": "David Ramirez",

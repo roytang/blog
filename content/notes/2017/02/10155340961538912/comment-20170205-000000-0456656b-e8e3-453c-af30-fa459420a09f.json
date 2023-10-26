@@ -1,11 +1,13 @@
 {
   "id": "0456656b-e8e3-453c-af30-fa459420a09f",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "...There are boxes in the box?",
-  "date": "2017-02-05 00:00:00",
+  "date": "2017-02-05 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155340964943912#10155340965798912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155340965798912",
     "poster": "David Ramirez",

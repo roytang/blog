@@ -1,11 +1,13 @@
 {
   "id": "7cd0476a-96b4-4dd3-a21c-941b38181e9e",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Gerard Dacudao   http://www.gmanetwork.com/news/story/389500/news/regions/victim-of-suspected-summary-execution-found-in-davao-city",
-  "date": "2015-12-10 00:15:05",
+  "date": "2015-12-10 00:15:05 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154239469608912#10154239743183912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154239743183912",
     "poster": "David Ramirez",

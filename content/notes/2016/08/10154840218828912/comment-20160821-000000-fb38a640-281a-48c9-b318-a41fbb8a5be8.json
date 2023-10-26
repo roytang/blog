@@ -1,11 +1,13 @@
 {
   "id": "fb38a640-281a-48c9-b318-a41fbb8a5be8",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "So, um. That isn&#x27;t a satire account?",
-  "date": "2016-08-21 00:00:00",
+  "date": "2016-08-21 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154840218828912#10154840522328912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154840522328912",
     "poster": "David Ramirez",

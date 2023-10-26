@@ -1,11 +1,13 @@
 {
   "id": "37359759-c44e-4b23-9480-36fccf486bcb",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I would have said Dunkin, but after our Japan trip, it&#x27;s like my world reversed itself and now Mister Donut is the bomb.",
-  "date": "2015-12-27 00:00:03",
+  "date": "2015-12-27 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154276448763912#10154276475393912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154276475393912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "32267bcb-8bf0-4fa2-a047-6c0ae05b5f0c",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "&#x27;&quot;The city is only safe for the rich, not for the poor,&quot; said Neneng, who lost her son to a hit squad eight years ago.&#x27;     http://www.taipeitimes.com/News/editorials/archives/2004/02/20/2003099464",
-  "date": "2015-12-10 00:15:07",
+  "date": "2015-12-10 00:15:07 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154239469608912#10154239748468912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154239748468912",
     "poster": "David Ramirez",

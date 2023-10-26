@@ -1,11 +1,13 @@
 {
   "id": "12f1070f-ec90-4846-ac1b-156175c65a7d",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Hmm, it only helps the ones who were already at the airports or in the air. The people on the outside are still stuck.    We shall see! If the courts overturn it, legislators can change the laws to make it happen anyway.",
-  "date": "2017-01-29 00:00:01",
+  "date": "2017-01-29 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155320687873912#10155320867478912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155320867478912",
     "poster": "David Ramirez",

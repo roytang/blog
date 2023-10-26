@@ -1,11 +1,13 @@
 {
   "id": "b244c355-2d85-49dd-aa6f-0bf4cd497343",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I give it my seal of approval.",
-  "date": "2016-04-17 00:05:01",
+  "date": "2016-04-17 00:05:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154537613933912#10154539224978912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154539224978912",
     "poster": "David Ramirez",

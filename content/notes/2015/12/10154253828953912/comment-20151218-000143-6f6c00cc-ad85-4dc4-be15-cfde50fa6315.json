@@ -1,11 +1,13 @@
 {
   "id": "6f6c00cc-ad85-4dc4-be15-cfde50fa6315",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Hmm. I&#x27;m not sure if my spoiler hiding still works the way fb displays. Let me rearrange that.",
-  "date": "2015-12-18 00:01:43",
+  "date": "2015-12-18 00:01:43 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154253828953912#10154253870428912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154253870428912",
     "poster": "David Ramirez",

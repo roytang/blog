@@ -1,11 +1,13 @@
 {
   "id": "9e523f92-7e08-426f-a932-fc095afbe671",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Lol, aren&#x27;t you going to avoid the internet until you watch?",
-  "date": "2015-12-16 00:00:02",
+  "date": "2015-12-16 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154251626028912#10154251864558912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154251864558912",
     "poster": "David Ramirez",

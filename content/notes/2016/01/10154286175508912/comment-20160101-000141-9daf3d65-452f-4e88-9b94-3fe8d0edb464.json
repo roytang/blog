@@ -1,11 +1,13 @@
 {
   "id": "9daf3d65-452f-4e88-9b94-3fe8d0edb464",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I love the spicy mojos. They&#x27;re AMAZING.",
-  "date": "2016-01-01 00:01:41",
+  "date": "2016-01-01 00:01:41 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154286175508912#10154286658288912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154286658288912",
     "poster": "David Ramirez",

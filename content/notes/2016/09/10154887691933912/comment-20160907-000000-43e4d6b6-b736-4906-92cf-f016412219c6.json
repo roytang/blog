@@ -1,11 +1,13 @@
 {
   "id": "43e4d6b6-b736-4906-92cf-f016412219c6",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Is there a harem ending?",
-  "date": "2016-09-07 00:00:00",
+  "date": "2016-09-07 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154887691933912#10154887819768912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154887819768912",
     "poster": "David Ramirez",

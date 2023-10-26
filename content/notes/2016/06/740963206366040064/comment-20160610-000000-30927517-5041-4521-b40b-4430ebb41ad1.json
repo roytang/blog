@@ -1,11 +1,13 @@
 {
   "id": "30927517-5041-4521-b40b-4430ebb41ad1",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I like these except for Emilio Estevez as Cap. He&#x27;s not physically imposing enough, and he kinda doesn&#x27;t have the right kind of charisma.",
-  "date": "2016-06-10 00:00:00",
+  "date": "2016-06-10 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154659018508912#10154659063573912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154659063573912",
     "poster": "David Ramirez",

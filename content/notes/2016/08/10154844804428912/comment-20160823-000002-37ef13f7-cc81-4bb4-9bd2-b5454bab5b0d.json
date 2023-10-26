@@ -1,11 +1,13 @@
 {
   "id": "37ef13f7-cc81-4bb4-9bd2-b5454bab5b0d",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Long pork. It&#x27;s the latest craze.",
-  "date": "2016-08-23 00:00:02",
+  "date": "2016-08-23 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154844804428912#10154844929948912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154844929948912",
     "poster": "David Ramirez",

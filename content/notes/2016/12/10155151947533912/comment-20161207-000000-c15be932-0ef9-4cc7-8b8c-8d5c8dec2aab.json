@@ -1,11 +1,13 @@
 {
   "id": "c15be932-0ef9-4cc7-8b8c-8d5c8dec2aab",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "It&#x27;s part of the master plan. We aren&#x27;t genius enough to comprehend Glorious Leader&#x27;s deep thoughts.",
-  "date": "2016-12-07 00:00:00",
+  "date": "2016-12-07 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155151947533912#10155151958168912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155151958168912",
     "poster": "David Ramirez",

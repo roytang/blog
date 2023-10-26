@@ -1,11 +1,13 @@
 {
   "id": "3f565585-5e3d-4a6d-aaa6-4e9a59d9a9f5",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Gerard Dacudao   http://pcij.org/stories/2002/davao.html",
-  "date": "2015-12-10 00:15:04",
+  "date": "2015-12-10 00:15:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154239469608912#10154239742928912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154239742928912",
     "poster": "David Ramirez",

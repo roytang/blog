@@ -1,11 +1,13 @@
 {
   "id": "69ff0b91-24f9-479e-9ff1-6ee08d65c5cf",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I&#x27;m curious about what percentages are supporters who genuinely believe that crap, as opposed to supporters who know it&#x27;s crap and are just straight out lying.",
-  "date": "2016-12-24 00:00:00",
+  "date": "2016-12-24 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155212566278912#10155212601728912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155212601728912",
     "poster": "David Ramirez",

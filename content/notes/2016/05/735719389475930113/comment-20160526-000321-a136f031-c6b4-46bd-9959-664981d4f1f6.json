@@ -1,11 +1,13 @@
 {
   "id": "a136f031-c6b4-46bd-9959-664981d4f1f6",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Oh yeah. That&#x27;s kinda true.     You know what, it&#x27;s the look. I instinctively think of GA as kinda Errol Flynn and a little more dashing and lighthearted than Batman, even if the actual comics had him so serious.",
-  "date": "2016-05-26 00:03:21",
+  "date": "2016-05-26 00:03:21 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154625751203912#10154625896468912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154625896468912",
     "poster": "David Ramirez",

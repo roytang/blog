@@ -1,11 +1,13 @@
 {
   "id": "eeb979a6-4eb3-46ec-990e-bdd3b1884519",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Paul Villangca  Way too slack to build my own. I have the shop build/ configure it.",
-  "date": "2015-11-06 00:03:23",
+  "date": "2015-11-06 00:03:23 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154180841363912#10154181356198912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154181356198912",
     "poster": "David Ramirez",

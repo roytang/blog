@@ -1,11 +1,13 @@
 {
   "id": "66b8db0d-599d-4c2f-aa48-17a61f59a92f",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "APC is a jealous spouse whose partner admires another more.",
-  "date": "2016-04-10 19:15:00",
+  "date": "2016-04-10 19:15:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154524290078912#10154524320533912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154524320533912",
     "poster": "David Ramirez",

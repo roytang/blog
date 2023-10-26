@@ -1,11 +1,13 @@
 {
   "id": "20edf3f2-f296-4909-b26e-7d724290c35c",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I got turned off by Arrow very early on in season 1. They made him Batman minus.",
-  "date": "2016-05-26 00:00:01",
+  "date": "2016-05-26 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154625751203912#10154625790378912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154625790378912",
     "poster": "David Ramirez",

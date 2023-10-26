@@ -1,11 +1,13 @@
 {
   "id": "a600332c-a377-4bc5-9b8e-8de4897f7e9c",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Have they ever appeared in one place??",
-  "date": "2016-05-28 00:00:00",
+  "date": "2016-05-28 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154630482383912#10154630505588912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154630505588912",
     "poster": "David Ramirez",

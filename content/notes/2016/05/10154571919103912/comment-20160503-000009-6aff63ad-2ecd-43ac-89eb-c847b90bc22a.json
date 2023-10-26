@@ -1,11 +1,13 @@
 {
   "id": "6aff63ad-2ecd-43ac-89eb-c847b90bc22a",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Don&#x27;t you feel the peer pressure?",
-  "date": "2016-05-03 00:00:09",
+  "date": "2016-05-03 00:00:09 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154571919103912#10154574240943912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10154574240943912",
     "poster": "David Ramirez",

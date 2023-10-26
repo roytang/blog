@@ -1,11 +1,13 @@
 {
   "id": "858f8cb3-5c4e-44e0-8d11-85043e0f6cb2",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I&#x27;ll put you in charge in the &#x27;in-charge&#x27; position, and fill the other seats with Welsh Corgis and Scottish Folds.    I will tweet as frequently and thoughtlessly as Trump, but better, because they&#x27;ll just be doggy and cat pics.",
-  "date": "2017-02-13 00:00:00",
+  "date": "2017-02-13 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155361645768912#10155361683143912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155361683143912",
     "poster": "David Ramirez",
