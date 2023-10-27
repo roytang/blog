@@ -1,5 +1,5 @@
 ---
-date: 2023-10-27 07:51:24+00:00
+date: 2023-10-27 07:51:24
 dontinlinephotos: true
 resources:
 - src: 111305889191849140_1_421bfe7fe15dd07b.jpg
@@ -14,6 +14,12 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111305889191849140
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17g0ghh/october_25th_drawlloween_to_human_it_may_concern/k6nzvtl/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17gs6gn/october_26th_drawlloween_love_hearse/k6nzz17/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17hjaa0/october_27th_free_draw_friday/k6o03ll/
 tags:
 - sketchbook
 - inktober2023
