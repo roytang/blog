@@ -1,11 +1,13 @@
 {
   "id": "1874371d-f700-414f-a498-9621a545d6d7",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "It&#x27;s not the end, it just means that after, old fogies will forever be talking about that moment when everything was just right and how other people screwed it all up.",
-  "date": "2018-03-17 00:00:00",
+  "date": "2018-03-17 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156500162808912#10156500187013912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156500187013912",
     "poster": "David Ramirez",

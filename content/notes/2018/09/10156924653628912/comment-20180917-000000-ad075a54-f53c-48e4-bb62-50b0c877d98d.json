@@ -1,11 +1,13 @@
 {
   "id": "ad075a54-f53c-48e4-bb62-50b0c877d98d",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Yeah, there&#x27;s a lot of stuff like that. Like how in 1984, having an entire population indoctrinated to the degree that they deny the evidence of their own experiences seemed absurd. Well, NOT ANYMORE.",
-  "date": "2018-09-17 00:00:00",
+  "date": "2018-09-17 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156924653628912#10156924756908912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156924756908912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "046f829d-ab78-4079-b403-dfe688149c82",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Finally watched it.     Better than Force Awakens, not as good as Rogue One in terms of plot and pacing.     Best Star Wars in visuals.     Loved the ending.",
-  "date": "2017-12-27 00:00:02",
+  "date": "2017-12-27 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156259186658912#10156293731518912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156293731518912",
     "poster": "David Ramirez",

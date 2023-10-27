@@ -1,11 +1,13 @@
 {
   "id": "a1c5785b-174e-4e85-9693-6f4b21193f98",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Liza picks Huling El Bimbo.",
-  "date": "2017-06-18 00:00:01",
+  "date": "2017-06-18 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155766048823912#10155766060683912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155766060683912",
     "poster": "David Ramirez",

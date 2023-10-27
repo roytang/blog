@@ -1,11 +1,13 @@
 {
   "id": "505b662e-0b26-47d5-9697-1a4e430cbd49",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Ei, was calling each other erp 80s slang or is it dialect from some province or were the guys doing that while we were students there and I was my typical oblivious self?",
-  "date": "2017-07-04 00:00:01",
+  "date": "2017-07-04 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155823105313912#10155823998383912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155823998383912",
     "poster": "David Ramirez",

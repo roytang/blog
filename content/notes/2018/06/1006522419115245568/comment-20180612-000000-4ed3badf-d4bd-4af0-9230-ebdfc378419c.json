@@ -1,11 +1,13 @@
 {
   "id": "4ed3badf-d4bd-4af0-9230-ebdfc378419c",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I still feel smart. I just also feel really ignorant and forgetful.",
-  "date": "2018-06-12 00:00:00",
+  "date": "2018-06-12 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156700373338912#10156700438663912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156700438663912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "0cbcaf26-b954-4be7-b4e1-e687db04696f",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Flash can yell it while watching Batfleck punch.",
-  "date": "2017-06-11 00:00:00",
+  "date": "2017-06-11 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155741191593912#10155741200523912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155741200523912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "7b7e0589-6932-4d54-b4e1-d5f898d71e0b",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Red Bull gives you wings.",
-  "date": "2018-03-15 00:05:00",
+  "date": "2018-03-15 00:05:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156492213208912#10156494974598912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156494974598912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "1ea749b8-c90e-4ee6-b349-17b7c9e675dc",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "You could drop him into a lot of shows without changing much and he&#x27;d fit right in. Ranma. JoJo. Fist of the North Star.  Shonen protagonists unite.",
-  "date": "2020-04-14 00:16:41",
+  "date": "2020-04-14 00:16:41 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10158362576173912#10158365136008912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10158365136008912",
     "poster": "David Ramirez",

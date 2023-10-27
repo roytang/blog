@@ -1,11 +1,13 @@
 {
   "id": "f4ea2767-33b1-4c7d-8eb8-aca053da4d17",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Diokno. Seems legit and has wit and charisma? May be the most winnable of the opp. Not sure tho.",
-  "date": "2019-03-28 00:00:03",
+  "date": "2019-03-28 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10157345585798912#10157345766188912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10157345766188912",
     "poster": "David Ramirez",

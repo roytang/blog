@@ -1,11 +1,13 @@
 {
   "id": "666736fc-8c47-4bba-92fb-5a9457553ab6",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Shadowrun hk please!",
-  "date": "2018-12-24 00:00:04",
+  "date": "2018-12-24 00:00:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10157145841163912#10157146015058912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10157146015058912",
     "poster": "David Ramirez",

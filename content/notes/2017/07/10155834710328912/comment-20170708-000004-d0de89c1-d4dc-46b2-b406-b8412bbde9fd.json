@@ -1,11 +1,13 @@
 {
   "id": "d0de89c1-d4dc-46b2-b406-b8412bbde9fd",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Philosophically , I think they should be on their own lines.     But back when I used to fake some amount of coding, I did the opening bracket no, closing yes as well.",
-  "date": "2017-07-08 00:00:04",
+  "date": "2017-07-08 00:00:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155834710328912#10155835210978912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155835210978912",
     "poster": "David Ramirez",

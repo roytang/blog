@@ -1,11 +1,13 @@
 {
   "id": "d0656044-93a6-48cd-bdd7-19688bcbfcdb",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Reverse Taiwanese fake meat restaurant.    You know how there&#x27;s vegetarian dishes that use substitutes for meat? Serve them, except with meat  :p",
-  "date": "2018-08-01 00:00:03",
+  "date": "2018-08-01 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156814836413912#10156815175243912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156815175243912",
     "poster": "David Ramirez",

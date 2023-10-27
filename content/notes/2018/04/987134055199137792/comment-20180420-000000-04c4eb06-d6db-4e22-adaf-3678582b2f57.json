@@ -1,11 +1,13 @@
 {
   "id": "04c4eb06-d6db-4e22-adaf-3678582b2f57",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Burn it into your memory for today&#x27;s drawing.",
-  "date": "2018-04-20 00:00:00",
+  "date": "2018-04-20 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156583214128912#10156583231708912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156583231708912",
     "poster": "David Ramirez",

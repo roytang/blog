@@ -1,11 +1,13 @@
 {
   "id": "5b8122ce-73f9-4e2d-b13c-aec2428686a1",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "The decade between 1985 and 1995.",
-  "date": "2019-07-23 00:00:06",
+  "date": "2019-07-23 00:00:06 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10157619219683912#10157621270068912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10157621270068912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "007a1cd5-7e7b-45ff-b616-5f148ad2ec64",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Reply &quot;Destroy all humans.&quot;",
-  "date": "2018-04-04 00:00:00",
+  "date": "2018-04-04 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156547119478912#10156547146323912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156547146323912",
     "poster": "David Ramirez",

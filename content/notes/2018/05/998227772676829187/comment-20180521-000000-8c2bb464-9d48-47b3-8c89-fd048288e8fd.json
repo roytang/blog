@@ -1,11 +1,13 @@
 {
   "id": "8c2bb464-9d48-47b3-8c89-fd048288e8fd",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "The Sun Always Shines On TV",
-  "date": "2018-05-21 00:00:00",
+  "date": "2018-05-21 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156650002243912#10156650067413912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156650067413912",
     "poster": "David Ramirez",

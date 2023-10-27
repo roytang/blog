@@ -1,11 +1,13 @@
 {
   "id": "c1fe571c-cb40-4a3e-ace9-bc350987787a",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "You&#x27;re cooler than I am.    I think of cry for help instead.",
-  "date": "2017-07-22 00:00:00",
+  "date": "2017-07-22 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155885676873912#10155885687118912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155885687118912",
     "poster": "David Ramirez",

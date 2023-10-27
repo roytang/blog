@@ -1,11 +1,13 @@
 {
   "id": "eec3e369-c6d9-45e4-a04d-74d997f2b630",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "... \ud83d\ude22     https://m.youtube.com/watch?v=gY1WyUIabCc",
-  "date": "2018-11-13 00:00:00",
+  "date": "2018-11-13 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10157049680288912#10157049694338912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10157049694338912",
     "poster": "David Ramirez",

@@ -1,11 +1,13 @@
 {
   "id": "6ba39f84-20a5-4f8a-9214-d2f531393e6e",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Sakuragi doing a Kamehameha. ",
-  "date": "2020-04-12 00:00:08",
+  "date": "2020-04-12 00:00:08 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10158356758918912#10158358296843912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10158358296843912",
     "poster": "David Ramirez",

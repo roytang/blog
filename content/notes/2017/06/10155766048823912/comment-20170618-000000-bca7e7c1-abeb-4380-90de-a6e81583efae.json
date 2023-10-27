@@ -1,11 +1,13 @@
 {
   "id": "bca7e7c1-abeb-4380-90de-a6e81583efae",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Pare Ko.",
-  "date": "2017-06-18 00:00:00",
+  "date": "2017-06-18 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155766048823912#10155766059738912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155766059738912",
     "poster": "David Ramirez",

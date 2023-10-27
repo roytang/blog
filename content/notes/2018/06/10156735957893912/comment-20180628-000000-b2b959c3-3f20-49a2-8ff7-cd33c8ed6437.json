@@ -1,11 +1,13 @@
 {
   "id": "b2b959c3-3f20-49a2-8ff7-cd33c8ed6437",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "That&#x27;s why I only nominated you. I don&#x27;t mind posting 10 movies I like, but nominating 10 people? Enh.    I&#x27;m wondering if this is some market analysis project commissioned by a giant studio that&#x27;s decided to invest in analytics.",
-  "date": "2018-06-28 00:00:00",
+  "date": "2018-06-28 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156735957893912#10156736077253912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156736077253912",
     "poster": "David Ramirez",

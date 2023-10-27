@@ -1,11 +1,13 @@
 {
   "id": "58fce0a6-dd82-4338-867c-b00dda9efae8",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I had to think for quite a while, because most of the movies I really enjoy are movies that I enjoyed more after re-watching.    Fight Club or 12 Monkeys.",
-  "date": "2017-06-14 00:00:03",
+  "date": "2017-06-14 00:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155753481288912#10155753842533912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155753842533912",
     "poster": "David Ramirez",

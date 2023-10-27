@@ -1,11 +1,13 @@
 {
   "id": "eda2cb27-0fef-4fa5-91e4-50f7a887a213",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "If you streamed it all while you have no shirt on (after you already have six-pack abs). And you narrate yourself sounding like Bob Ross.",
-  "date": "2017-12-02 00:00:00",
+  "date": "2017-12-02 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156227735193912#10156227751018912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156227751018912",
     "poster": "David Ramirez",

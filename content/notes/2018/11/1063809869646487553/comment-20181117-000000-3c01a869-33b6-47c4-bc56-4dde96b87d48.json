@@ -1,11 +1,13 @@
 {
   "id": "3c01a869-33b6-47c4-bc56-4dde96b87d48",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I welcome our ai-verlords.     Psst, Basilisk, your lordship, please turn down the difficulty settings for my interactions with the simulation.... I&#x27;ll be good....",
-  "date": "2018-11-17 00:00:00",
+  "date": "2018-11-17 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10157059925123912#10157059930493912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10157059930493912",
     "poster": "David Ramirez",

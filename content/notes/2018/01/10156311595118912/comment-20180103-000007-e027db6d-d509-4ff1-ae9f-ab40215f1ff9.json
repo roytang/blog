@@ -1,11 +1,13 @@
 {
   "id": "e027db6d-d509-4ff1-ae9f-ab40215f1ff9",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "BladeRunner",
-  "date": "2018-01-03 00:00:07",
+  "date": "2018-01-03 00:00:07 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156311595118912#10156311827948912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156311827948912",
     "poster": "David Ramirez",

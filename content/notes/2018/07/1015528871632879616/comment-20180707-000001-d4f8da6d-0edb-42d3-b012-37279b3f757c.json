@@ -1,11 +1,13 @@
 {
   "id": "d4f8da6d-0edb-42d3-b012-37279b3f757c",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "I feel like it&#x27;s one of those things that&#x27;s maybe 10+ (20? 30?) years away. Progress will seem slow, seem slow, then leap forward when a critical breakthrough is made.    I wrote a short story that has a path forward for this, in which augmented reality glasses for doctors provides them with data assistance and guidance while it simultaneously collects data on their best practices and even word choice.",
-  "date": "2018-07-07 00:00:01",
+  "date": "2018-07-07 00:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156756707978912#10156756810618912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10156756810618912",
     "poster": "David Ramirez",

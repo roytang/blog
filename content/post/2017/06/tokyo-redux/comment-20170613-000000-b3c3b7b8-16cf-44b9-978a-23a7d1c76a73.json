@@ -1,11 +1,13 @@
 {
   "id": "b3c3b7b8-16cf-44b9-978a-23a7d1c76a73",
   "name": "David Ramirez",
-  "url": "https://www.facebook.com/profile.php",
+  "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "The next time, I think I&#x27;ll take a 24 hour pass and spend a day using a randomizer to choose where I&#x27;m going on the Metro lines.",
-  "date": "2017-06-13 00:00:00",
+  "date": "2017-06-13 00:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155749116598912#10155749223528912",
+  "source": "facebook",
+  "spam": false,
   "source_obj": {
     "id": "10155749223528912",
     "poster": "David Ramirez",
