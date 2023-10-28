@@ -20,6 +20,8 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/17gs6gn/october_26th_drawlloween_love_hearse/k6nzz17/
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17hjaa0/october_27th_free_draw_friday/k6o03ll/
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17i9pzx/october_28th_drawlloween_slashing_prices/k6sre26/
 tags:
 - sketchbook
 - inktober2023
