@@ -8,3 +8,5 @@ tags: []
 ---
 
 Well, this week's Flash was great
+
+(S01E04 Going Rogue)

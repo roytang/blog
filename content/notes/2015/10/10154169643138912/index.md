@@ -7,4 +7,8 @@ syndicated:
 tags: []
 ---
 
-"Claim nyo na lang po bukas at 2pm" The next day, nag half day leave to go to city hall "Ay half day po kami ngayon kanina lang po dineclare"  @_@
+"Claim nyo na lang po bukas at 2pm" 
+
+The next day, nag half day leave to go to city hall 
+
+"Ay half day po kami ngayon kanina lang po dineclare"  @_@
