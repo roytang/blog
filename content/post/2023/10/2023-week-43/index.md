@@ -1,6 +1,9 @@
 ---
-date: 2023-10-29T13:24:08+08:00
+date: 2023-10-29 05:24:08
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111316777658961630
 tags:
 - weeknotes
 title: 2023 Week 43
