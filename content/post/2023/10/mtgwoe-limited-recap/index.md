@@ -3,21 +3,24 @@ date: 2023-10-30 04:59:56
 dontinlinephotos: true
 resources:
 - src: trophy_woe_pd2.png
-  title: 'Premier Draft 2'
+  title: Premier Draft 2
 - src: trophy_woe_pd8.png
-  title: 'Premier Draft 8'
+  title: Premier Draft 8
 - src: trophy_woe_qd5.png
-  title: 'Quick Draft 5'
+  title: Quick Draft 5
 - src: trophy_woe_qd6.png
-  title: 'Quick Draft 6'
+  title: Quick Draft 6
 - src: trophy_woe_sealed1.png
-  title: 'Sealed 1'
+  title: Sealed 1
 - src: woe_open_oct23.png
-  title: 'Oct Open Sealed (3-3)'
+  title: Oct Open Sealed (3-3)
 - src: woe_open_sep23_1.png
-  title: 'Sep Open Sealed 1 (5-3)'
+  title: Sep Open Sealed 1 (5-3)
 - src: woe_open_sep23_2.png
-  title: 'Sep Open Sealed 2 (3-3)'
+  title: Sep Open Sealed 2 (3-3)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111322813157014670
 tags:
 - mtg
 - mtgwoe
