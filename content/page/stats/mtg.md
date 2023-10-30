@@ -45,6 +45,7 @@ toc: true
 
 | Year | Month | Format |  | D1 W | D1 L | D1 D | D2 W | D2 L | D2 D |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 2023 | 10 | Sealed | Wilds of Eldraine | 3 | 3 |
 | 2023 | 09 | Sealed | Wilds of Eldraine | 3 | 3 |
 | 2023 | 09 | Sealed | Wilds of Eldraine | 5 | 3 |
 | 2023 | 03 | Sealed | Phyrexia All Will Be One | 1 | 3 |
@@ -70,7 +71,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Aug 2023 | 278 | 943 | 759 | 1702 | 0.5541 |
+| ALL | Oct 2023  | 297 | 1017 | 806 | 1823 | 0.5579 |
+| [Wilds of Eldraine](/2023/10/mtgwoe-limited-recap/) | Oct 2023 | 19 | 74 | 47 | 121 | 0.6116 |
 | [Lord of the Rings: Tales of Middle Earth](/2023/08/mtgltr-limited-recap/) | Aug 2023 | 5 | 9 | 15 | 24 | 0.375 |
 | [March of the Machine](/2023/06/mtgmom-limited-recap/) | Jun 2023 | 19 | 56 | 50 | 106 | 0.5283 |
 | [Phyrexia All Will Be One](/2023/04/mtgone-limited-recap/) | Apr 2023| 18 | 69 | 52 | 121 | 0.5702 |

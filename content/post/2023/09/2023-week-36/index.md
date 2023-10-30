@@ -42,7 +42,7 @@ The first thing I did when we got back home (after some rest) was actually to wr
         - Minimal game time for **Baldur's Gate 3** and **Sea of Stars** this week. My laptop cannot handle BG3, and it's not Windows so PC Game Pass would not have worked for Sea of Stars.
         - Instead, my brother lent me **Xenoblade Chronicles 3** on Switch and I started playing that, which may or may not be a mistake, because now I'm home and have 3 ongoing RPGs to think about! (I was actually lent all 3 XC games but decided to just skip 1 and 2 to play the third one.) I only managed to play about 5-6 hours of the game during the stay, but that was enough to get me to Act 3 which means technically I am ahead of my Baldur's Gate playthrough currently still in Act 2?
     - Online: 
-        - **Magic Arena**: I missed the **Wilds of Eldraine** release date on Arena of course, but I did manage to do [a sealed](/2023/09/111036061649982412/) last night after we got home. It went quite well!
+        - **Magic Arena**: I missed the **Wilds of Eldraine** release date on Arena of course, but I did manage to do a sealed last night after we got home. It went quite well!
         - **Marvel Snap** was the only other game I played during the hospital stay. I ended last season on Infinite, but am struggling to get past 85 or so this season, as this current Loki meta is a bit challenging for me.
         - **Eternal** I installed this on mobile, but never got around to it.
 

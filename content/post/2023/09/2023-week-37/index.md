@@ -26,7 +26,7 @@ On the blog: I wrote about [moving on from Fitbit](/2023/09/moving-on-fitbit/), 
 - **Gaming**: 
     - Single player: It's still a bit insane that I am playing (or trying to play) 3 different RPGs (with different play styles!) concurrently. **Baldur's Gate 3**, **Xenoblade Chronicles 3** and **Sea of Stars** are all in progress, albeit very slowly because I'm splitting my time between them. Hopefully I can clear at least one of these before the new Mario game comes out in October!
     - Online: 
-        - **Magic Arena**: Did a lot of **Wilds of Eldraine** drafting this week and even streamed a bunch over on [Twitch](https://twitch.tv/twitchyroy). You can follow along using [the MTGWOE tag](/tags/mtgwoe). I also played the Arena Open this weekend, but [didn't do well](/2023/09/111079568713413791/) =/
+        - **Magic Arena**: Did a lot of **Wilds of Eldraine** drafting this week and even streamed a bunch over on [Twitch](https://twitch.tv/twitchyroy). You can follow along using [the MTGWOE tag](/tags/mtgwoe). I also played the Arena Open this weekend, but didn't do well =/
         - **Marvel Snap** regular grinding still going on. **Eternal** has a new set coming out soonish I think, but I still don't play it very often these days.
 
 - **Reading**: Feed reader backlog is at an unwieldy 41 items. Not a lot of reading this week, mostly just comics.
