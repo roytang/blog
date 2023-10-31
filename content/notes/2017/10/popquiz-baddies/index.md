@@ -1,9 +1,12 @@
 ---
-date: 2017-10-19T23:36:35+08:00
+date: 2017-10-19 15:36:35
+location: the30th
+resources:
+- src: 22904789_724619631069788_8923609467287521221_o.jpg
+  title: Photo c/o PopQuiz
 tags:
 - popquiz
 - quiznight
-location: the30th
 ---
 
 Attended Baddies themed PopQuiz @ Ayala Malls the 30th. Finished 2nd place
