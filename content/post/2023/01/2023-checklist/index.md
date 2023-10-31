@@ -111,7 +111,7 @@ From last year's list of 20 items, I watched 11, have not yet seen 4, 4 got post
 | Jul 14 | Mission: Impossible – Dead Reckoning Part One | [[DONE]](/2023/07/mission-impossible-dead-reckoning-part-one-2023/) |
 | Jul 21 | Oppenheimer | I haven't even seen Tenet yet |
 | Aug 18 | Blue Beetle | [[DONE]](/2023/10/blue-beetle-2023/) |
-| Sep 15 | A Haunting in Venice | Poirot |
+| Sep 15 | A Haunting in Venice | [[DONE]](/2023/10/a-haunting-in-venice-2023/) |
 | Oct 06 | Kraven the Hunter | Same expectations as Morbius! |
 | Nov 03 | Dune: Part Two | |
 | Nov 10 | The Marvels | |
