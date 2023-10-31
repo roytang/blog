@@ -1,6 +1,9 @@
 ---
-title: "Growth and Techno-Optimism"
-date: 2023-10-31T16:32:46+08:00
+date: 2023-10-31 08:32:46
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111328903086978381
+title: Growth and Techno-Optimism
 ---
 
 I started reading the newspapers early in life, mostly during mealtimes (a bad habit I picked up from my father). Eventually I started reading the business sections as well. One of things that always mistified me back then was there would often be headlines about a company's profits being down and this was always treated as a big terrible thing and investors would be worried and whatever. My young adult mind didn't really understand: even if their profits were down by one percentage point or whatever, they were still turning a profit, so they're still... fine? We were talking about large multimillion- or maybe even billion- peso companies, not small neighborhood market stalls that might need to shut down if they can't make enough for rent this month. The kind of companies where they if took a million-peso loss for a given month they can just brush it off and still keep going indefinitely.
