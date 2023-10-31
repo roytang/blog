@@ -12,6 +12,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/111330514005305058
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111330590172150950
+- type: reddit
+  url: https://www.reddit.com/r/SketchDaily/comments/17kgmpu/october_31st_halloween/k793xta/
 tags:
 - sketchbook
 - inktober2023
