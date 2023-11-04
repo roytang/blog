@@ -1,24 +1,27 @@
 ---
-title: "Oct 2023 TV Reviews: Lower Decks, Superman and Harley Quinn"
-date: 2023-11-04T12:40:09+08:00
+date: 2023-11-04 04:40:09
+reviews:
+- description: Promotions! Character growth!
+  hashtag: star-trek-lower-decks-s4
+  media: tv
+  rating: 4.0
+  title: 'Star Trek: Lower Decks season 4'
+- description: Very anime-inspired and Clark-focused
+  hashtag: my-adventures-with-superman-s1
+  media: tv
+  rating: 4.0
+  title: My Adventures with Superman season 1
+- description: Harley and Ivy explore separate careers
+  hashtag: harley-quinn-s4
+  media: tv
+  rating: 4.0
+  title: Harley Quinn season 4
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111351612982991205
 tags:
 - tv
-reviews:
-- media: tv
-  title: "Star Trek: Lower Decks season 4"
-  rating: 4.0
-  description: "Promotions! Character growth!"
-  hashtag: "star-trek-lower-decks-s4"
-- media: tv
-  title: "My Adventures with Superman season 1"
-  rating: 4.0
-  description: "Very anime-inspired and Clark-focused"
-  hashtag: "my-adventures-with-superman-s1"
-- media: tv
-  title: "Harley Quinn season 4"
-  rating: 4.0
-  description: "Harley and Ivy explore separate careers"
-  hashtag: "harley-quinn-s4"
+title: 'Oct 2023 TV Reviews: Lower Decks, Superman and Harley Quinn'
 ---
 
 Some TV stuff I finished watching over the past week, coincidentally just animated series today.
@@ -38,4 +41,3 @@ This season sees Harley and Ivy branching out into separate careers on opposite 
 ### That's it for today
 
 It's my first time in a while batching together reviews like this. It's just that I've been watching a lot of TV over the past few weeks and didn't want to make too many posts. I hoped to include more reviews as there's a bunch of ongoings that are almost finished - notably Loki season 2, but I guess I'll just do another set in November.
-
