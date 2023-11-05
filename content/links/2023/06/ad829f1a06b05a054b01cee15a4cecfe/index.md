@@ -11,6 +11,7 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/110603617808124792
 tags:
 - tech-life
+- comics
 title: 'Comic: Goodnight Phone'
 ---
 
