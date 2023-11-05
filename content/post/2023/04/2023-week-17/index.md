@@ -19,7 +19,7 @@ April is ending, [it's gonna be May](/2018/04/10156605440438912/), hopefully bri
 
 ### My Week
 
-- Whew, this week beat me up. Doing poorly in Arena and Snap. [Skipping the weekend's Arena Open because I'm still terrible at March of the Machine](/2023/04/9e7a844a48603ec5c429133eab420d1c/). [Tapped out of Ludum Dare 53](/2023/04/3eadcd965f50bf77050d504402a31667/). Skipped a quiz night. Had to defer a bunch of things I wanted to get done. Fallen behind on my reading backlogs, etc. Not sure what happened. Some extra errands and excursions did come up that cost me some time. Made some poor decisions. What a way to end April. Doing these weeknotes early so I at least get *something* done right this week. Hopefully May is better for me.
+- Whew, this week beat me up. Doing poorly in Arena and Snap. [Skipping the weekend's Arena Open because I'm still terrible at March of the Machine](/2023/06/mtgmom-limited-recap/). [Tapped out of Ludum Dare 53](/2023/04/3eadcd965f50bf77050d504402a31667/). Skipped a quiz night. Had to defer a bunch of things I wanted to get done. Fallen behind on my reading backlogs, etc. Not sure what happened. Some extra errands and excursions did come up that cost me some time. Made some poor decisions. What a way to end April. Doing these weeknotes early so I at least get *something* done right this week. Hopefully May is better for me.
 
 ### A Photo I Took While Out Walking
 
