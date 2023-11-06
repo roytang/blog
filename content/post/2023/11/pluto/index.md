@@ -10,6 +10,9 @@ reviews:
   media: tv
   rating: 4.5
   title: Pluto
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111364996369536684
 tags:
 - tv
 title: Pluto
