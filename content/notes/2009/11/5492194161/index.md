@@ -9,4 +9,6 @@ syndicated:
 title: ''
 ---
 
-Product development notes from Sirlin: http://bit.ly/ke0EU His article is for game dev but the advise applies to other software dev as well
+Product development notes from Sirlin: https://web.archive.org/web/20100104104003/https://www.sirlin.net/blog/2009/11/5/making-games-faster.html 
+
+His article is for game dev but the advise applies to other software dev as well
