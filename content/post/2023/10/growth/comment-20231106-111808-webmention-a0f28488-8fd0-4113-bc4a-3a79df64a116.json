@@ -1,0 +1,30 @@
+{
+  "id": "a0f28488-8fd0-4113-bc4a-3a79df64a116",
+  "name": "bix.blog",
+  "url": "https://bix.blog/2023/Nov/05/six-writers-in-search-of-a-punchline/",
+  "text": "Mentioned by https://bix.blog/2023/Nov/05/six-writers-in-search-of-a-punchline/",
+  "date": "2023-11-06 11:18:08 +0800",
+  "photo": "",
+  "source_url": "https://bix.blog/2023/Nov/05/six-writers-in-search-of-a-punchline/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://bix.blog/2023/Nov/05/six-writers-in-search-of-a-punchline/",
+    "published": null,
+    "wm-received": "2023-11-06T03:18:08Z",
+    "wm-id": 1734811,
+    "wm-source": "https://bix.blog/2023/Nov/05/six-writers-in-search-of-a-punchline/",
+    "wm-target": "https://roytang.net/2023/10/growth/",
+    "wm-protocol": "webmention",
+    "mention-of": "https://roytang.net/2023/10/growth/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
