@@ -30,7 +30,7 @@ I [wrote about my new progressive eyeglasses](/2023/02/progressives/).
 
 - **Gaming**: 
     - Single player: Still playing **Witcher 3** (running around solving crimes, playing Gwent, hunting monsters), but also decided to throw a shorter game into the mix. Started playing Ori and the Will of the Wisps (via PC game pass) last Monday, and it proceeded to a good part of my week. I finished the game last Saturday and am still considering whether I want to do the rest of these ridiculous achievements or just move on.
-    - Online: [Played my first couple of drafts of Phyrexia All Will Be One](/2023/02/dee35db04d4629f35cfcaae54c27a575/) on **Magic Arena** last Thursday, got off to a good start! **Eternal**, **Marvel Snap** still ongoing. 
+    - Online: [Played my first couple of drafts of Phyrexia All Will Be One](/2023/04/mtgone-limited-recap/) on **Magic Arena** last Thursday, got off to a good start! **Eternal**, **Marvel Snap** still ongoing. 
 
 - **Books**: Haven't started any new ones yet.
 

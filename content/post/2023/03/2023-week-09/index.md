@@ -37,7 +37,7 @@ Anyway, here's a picture of some ducks:
 
 - **Playing**: 
     - Single player: Still playing **Witcher 3** (doing quests, solving crimes). 
-    - Online: Still doing a lot of [All Will Be One](/tags/mtgone/) drafting on **Magic Arena**, a lot of it off-stream even. Also threw away some gems on the [Arena Open](/2023/03/mtgone-arena-open/) this past weekend, it did not go well. **Eternal**, **Marvel Snap** still ongoing. 
+    - Online: Still doing a lot of [All Will Be One](/tags/mtgone/) drafting on **Magic Arena**, a lot of it off-stream even. Also threw away some gems on the [Arena Open](/2023/04/mtgone-limited-recap/) this past weekend, it did not go well. **Eternal**, **Marvel Snap** still ongoing. 
 
 - **Reading**: Started reading *Four Thousand Weeks* by Oliver Burkman. Also, short update on my [Complete Marvel Run](/tags/complete-marvel-run/): Still proceeding, but not at the pace I'd hoped. I was hoping to finish *Thor v1* by March, but it seems likely that we're going to spill into April, which is fine I guess? It's not like this insane project has a deadline.
 

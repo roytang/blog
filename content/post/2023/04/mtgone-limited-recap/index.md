@@ -1,5 +1,15 @@
 ---
 date: 2023-04-06 05:01:52
+dontinlinephotos: true
+resources:
+- src: mtgone_arenaopen1.png
+  title: 'Arena Open attempt 1'
+- src: mtgone_arenaopen2.png
+  title: 'Arena Open attempt 2'
+- src: trophy_pd02.png
+  title: 'Got a trophy on the first day of Premier Drafts!'
+- src: trophy_qd8.png
+  title: 'Got a second trophy on the last day of Quick Drafts!'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110150261089845495
@@ -15,6 +25,10 @@ title: My Phyrexia All Will Be One Limited Recap
 ---
 
 The next set (March of the Machine) is coming up in a couple of weeks, so here I am with my **Phyrexia All Will be One** limited recap.
+
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate | Archetype |
 | --- | --- | --- | --- | --- | --- | --- | 
@@ -59,7 +73,7 @@ The next set (March of the Machine) is coming up in a couple of weeks, so here I
 | 1-x | 2 |
 | 0-x | 1 |
 
-Notes:
+### Limited Notes:
 
 - After the disaster that was Brothers War limited, this set was much better for me and brings us back to an above average win rate, although still falling short of a good 60% win rate. I will get there someday!
 - Once again, my win rates are dragged down by my disastrous performance during the Arena Open. Someday we will actually do well at one of those.
@@ -67,6 +81,21 @@ Notes:
 - Adding the draft archetypes to the color pairs row, as an easy reference for if/when I end up playing this limited format again.
 - The YT playlist linked below doesn't contain many of my drafts, since I did a good bunch of them offline.
 
-Related: [Phyrexia All Will Be One Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXit9PI6mEbwRy_5BHMeFVUf), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x Drafts
+
+{{% photos trophy %}}
+
+### Arena Open Attempts
+
+Sigh. Threw some gems away on the Arena Open again, attempts no. 2 and 3. First pool looked decent, but I had some bad misplays that cost me a couple of games, finished 2-3. Second pool had some good rares in shallow colors, I went RW for more consistency, but only went 1-3.
+
+Someday we'll get there!
+
+{{% photos arenaopen %}}
+
+### Related
+
+- [Phyrexia All Will Be One Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXit9PI6mEbwRy_5BHMeFVUf)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
 
 Looking forward to battles in March of the Machine!
