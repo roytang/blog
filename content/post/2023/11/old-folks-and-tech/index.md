@@ -2,9 +2,14 @@
 date: 2023-11-06 04:49:19
 dontinlinephotos: true
 resources:
-- src: dc19a670e20d10ab.png
+- alt: A newspaper clipping with a cartoon where someone at the train station tells
+    an old lady how to use an app to purchase tickets instead of through the ticket
+    counter which is out of order
+  src: dc19a670e20d10ab.png
   title: ''
-  alt: "A newspaper clipping with a cartoon where someone at the train station tells an old lady how to use an app to purchase tickets instead of through the ticket counter which is out of order"
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111362065809843215
 title: Old Folks and Tech
 ---
 
