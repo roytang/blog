@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/22608530984/
 - type: plurk
   url: https://plurk.com/p/7a263c
+tags:
+- sinfest
 ---
 
 <p>One of the better Sinfest strips. Click for full-size.</p>
