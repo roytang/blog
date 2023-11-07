@@ -16,4 +16,15 @@ tags:
 - replies
 ---
 
-<p><span class="h-card" translate="no"><a href="https://fed.brid.gy/r/https://www.jvt.me" class="u-url mention">@<span>www.jvt.me</span></a></span> dont have time to test it or anything, but something like this would probably work:</p><p>select repo, <br />  sum(case when advisory_type=&#39;SECURITY&#39; then total_advisories else 0 end) as total_security,<br />  sum(case when advisory_type=&#39;DEPRECATED&#39; then total_advisories else 0 end) as total_deprecated,<br />  sum(case when advisory_type=&#39;UNMAINTAINED&#39; then total_advisories else 0 end) as total_unmaintained<br />from (<br /> your original big query<br />)<br />group by repo</p>
+<p><span class="h-card" translate="no"><a href="https://fed.brid.gy/r/https://www.jvt.me" class="u-url mention">@<span>www.jvt.me</span></a></span> dont have time to test it or anything, but something like this would probably work:</p>
+
+```sql
+select repo, 
+  sum(case when advisory_type="SECURITY" then total_advisories else 0 end) as total_security,
+  sum(case when advisory_type="DEPRECATED" then total_advisories else 0 end) as total_deprecated,
+  sum(case when advisory_type="UNMAINTAINED" then total_advisories else 0 end) as total_unmaintained
+from (
+  your original big query
+)
+group by repo
+```
