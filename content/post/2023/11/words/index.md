@@ -43,3 +43,7 @@ James Sommers suggests that [you are probably using the wrong dictionary](https:
 [Robin Rendle agrees](https://robinrendle.com/notes/webster%E2%80%99s-1913/). Both posts cite powerful examples of how a good dictionary can help you punch up your writing. Their recommended version, Webster's 1913 dictionary, is available via a [webapp](https://www.websters1913.com/). 
 
 I should figure out how to incorporate this dictionary into my everyday use - I still find myself just typing "define: word" into my browser's address bar and relying on either Duckduckgo's quick answer, which comes from the American Heritage Dictionary, or a link to the Merriam-Webster site.
+
+---
+
+Finally, [Wordsmith games' website](https://wordsmithgames.com/) contains a bunch of small word puzzle games. I think they're the kind that refresh daily, but although I've only tried them a few times, one of them said I had a "7 day streak" so IDK if they're polished.
