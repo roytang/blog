@@ -1,10 +1,13 @@
 ---
-title: "Words"
-date: 2023-11-08T12:31:22+08:00
+date: 2023-11-08 04:31:22
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111373153615156189
 tags:
 - words
 - writing
 - puzzles
+title: Words
 ---
 
 I enjoyed [this interview with iconic NYT crosswords editor Will Shortz](https://www.newyorker.com/culture/the-new-yorker-interview/will-shortzs-life-in-crosswords).
