@@ -14,6 +14,8 @@ reviews:
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111390785871228631
+- type: letterboxd
+  url: https://letterboxd.com/hungryroy/film/the-marvels/
 tags:
 - mcu
 - tv
@@ -25,6 +27,8 @@ title: 'MCU Reviews: Loki S2 / The Marvels'
 
 I wasn't expecting much for the S2 finale, but this one was oddly satisfying and even makes me feel better about the first season. Season 2 feels much better paced (although the first half felt a bit sleepy) and brings Loki's character arc full circle and somehow even manages to bring a new paradigm to the MCU Multiverse.
 
+Ke Huy Quan is a welcome addition to the MCU, I'm glad his career is going well.
+
 Also, there is some form of Groundhog Day time looping in there, and I love Groundhog Day time loops.
 
 ### The Marvels (2023)
@@ -32,6 +36,8 @@ Also, there is some form of Groundhog Day time looping in there, and I love Grou
 Somehow managed to win two tickets for a screening of the film last night, so we got to watch for free. Luckily we hadn't bought tickets for our planned Saturday IMAX viewing yet, I don't think IMAX would have been worth it.
 
 Overall, I enjoyed the movie and it was fun but it definitely had it's flaws and I understand the mixed reviews. 
+
+My brother said it felt like a "filler episode", whatever that means.
 
 I had read some complaints before about how there was so much "homework" (i.e. prior MCU stuff) to watch before this film, which is a general problem with serialized storytelling, but I feel like they did the best they could given the circumstances.
 
