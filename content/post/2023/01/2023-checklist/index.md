@@ -113,8 +113,8 @@ From last year's list of 20 items, I watched 11, have not yet seen 4, 4 got post
 | Aug 18 | Blue Beetle | [[DONE]](/2023/10/blue-beetle-2023/) |
 | Sep 15 | A Haunting in Venice | [[DONE]](/2023/10/a-haunting-in-venice-2023/) |
 | Oct 06 | Kraven the Hunter | Same expectations as Morbius! |
-| Nov 03 | Dune: Part Two | |
-| Nov 10 | The Marvels | |
+| Nov 03 | Dune: Part Two | DELAYED |
+| Nov 10 | The Marvels | [[DONE]](/2023/11/loki-s2-marvels/#the-marvels-2023) |
 | Dec 25 | Aquaman and the Lost Kingdom | |
 
 We'll see how many of these release dates hold! Also, it's unlikely I'm watching all of these in the cinema, since ticket prices have gotten so expensive lately.

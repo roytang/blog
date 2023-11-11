@@ -51,6 +51,8 @@ toc: true
 | 2023 | 03 | Sealed | Phyrexia All Will Be One | 1 | 3 |
 | 2023 | 03 | Sealed | Phyrexia All Will Be One | 2 | 3 |
 | 2023 | 01 | Sealed | Kaldheim | 2 | 3 |
+| 2022 | 11 | Sealed | Brothers War | 2 | 3 |
+| 2022 | 11 | Sealed | Brothers War | 5 | 3 |
 | 2022 | 07 | Sealed | Alchemy Horizons: Baldur's Gate | 0 | 3 |
 | 2022 | 05 | Sealed | Streets of New Capenna | 5 | 3 |
 | 2022 | 05 | Sealed | Streets of New Capenna | 6 | 3 |

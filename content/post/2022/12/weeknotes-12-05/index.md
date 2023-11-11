@@ -38,7 +38,7 @@ Weeknotes coming in late even for a Monday; last couple of days have been busy.
     - I [did a Street Fighter V stream last Monday](https://www.youtube.com/watch?v=sUb-Uj_CgeA&t=43s) to test the new streaming setup. Still putting together some stuff for the eventual blog post about the game.
     - Still playing some card games on the regular: 
         - [Eternal](/tags/EternalCardGame): Just regular grinding still. Honestly a bit tempted to maybe drop Eternal again for a while, as I've not really done well in the opens and the formats seem a bit stale (would also give me more time for other stuff). Maybe I'll wait for the next set to drop first before deciding on that.
-        - [Magic Arena](/tags/magicarena): Managed to stream some Brothers War Limited again this week, though just [the one session](/2022/12/mtgbro_draft_ep4/). Still struggling with the format, good runs remain elusive, hopefully I can figure it out soon. Also wrote [the Limited Recap post for Dominaria United](/2022/12/mtgdmu-limited-recap/).
+        - [Magic Arena](/tags/magicarena): Managed to stream some Brothers War Limited again this week, though just the one session. Still struggling with the format, good runs remain elusive, hopefully I can figure it out soon. Also wrote [the Limited Recap post for Dominaria United](/2022/12/mtgdmu-limited-recap/).
         - [Marvel Snap](/2022/10/1585610936563519493/). Griiindy!!
     - Still trying to power through **SMT5**, I feel like I'm close to the end though. Hopefully!
 

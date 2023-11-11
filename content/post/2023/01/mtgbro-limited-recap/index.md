@@ -12,9 +12,14 @@ tags:
 - magicarena
 - limitedrecap
 title: My Brothers War Limited Recap
+dontinlinephotos: true
 ---
 
 New set is coming up in a couple of weeks, I figured I should do the **Brothers War** limited recap already to get it out of the way. It isn't even two months since I published [the Dominaria United one](/2022/12/mtgdmu-limited-recap/)!
+
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -57,7 +62,7 @@ New set is coming up in a couple of weeks, I figured I should do the **Brothers 
 | 1-x | 2 |
 | 0-x | 1 |
 
-Brothers War limited archetypes:
+### Brothers War limited archetypes
 
 - WU: Soldiers
 - WG: Artifactfall
@@ -70,8 +75,23 @@ Brothers War limited archetypes:
 - WR: Aggro
 - UG: Ramp/prototype
 
-Notes:
+### Set Notes:
 
 - Brothers War limited was not great for me, as reflected in the below-average win rates. I struggled to find my footing in the format early on and didn't have time/resources for a lot of events and only managed the single trophy. Any combination with red or green was a challenge. Hopefully I do better with the next set!
 
-Related: [Brothers War Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhv2QKVyVlblchcy-NTxHI2), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x Drafts
+
+Took me a while to get my bearings and didn't get my one and only trophy until a couple of weeks into the format with Quick Draft #3.
+
+{{% photos mtgbro_qd_03 %}}
+
+### Arena Open Attempts
+
+Threw away some gold and gems on two runs at the Arena Open the weekend of November 27th, featuring Brothers War sealed. Finished 5-3 and 2-3 respectively. I really should just remember to never do a second run, they never go well! Resources are limited! Got some cool Mythics and Rares though.
+
+{{% photos open %}}
+
+### Related 
+
+- [Brothers War Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhv2QKVyVlblchcy-NTxHI2)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
