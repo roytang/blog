@@ -11,6 +11,9 @@ reviews:
   media: movies
   rating: 3.5
   title: The Marvels (2023)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111390785871228631
 tags:
 - mcu
 - tv
