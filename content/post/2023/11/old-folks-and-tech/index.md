@@ -10,6 +10,8 @@ resources:
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111362065809843215
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111396383271639133
 title: Old Folks and Tech
 ---
 
@@ -46,3 +48,5 @@ All of this feels to me like a failure in the way we design software: most of th
 I don't have any specific suggestions, other than that people who introduce all these new systems should make sure there is always an analog fallback for people who are not comfortable with apps or tech or whatnot. In the comic above, having an app to allow buying tickets wasn't the issue, as that certainly makes it more convenient for a lot of people. The issue was that there wasn't an alternative way to buy tickets, even onsite. And there should always be a way to just talk directly to a human to help you through something. My dad would vastly prefer just to talk to a human to manage his tech issues (most of the time I'm that human!) As companies outsource more of their customer support to automated systems and AI chatbots, this becomes more challenging, as any existing helplines tend to be undermanned and difficult to get through. 
 
 Technology can empower us and make things more convenient, but we have to make sure we aren't leaving the non-tech savvy behind.
+
+<time id="111396383271639133">[2023-11-12 15:25] </time> <p>### Related Links</p><p>- [No app, no entry: How the digital world is failing the non tech-savvy](<a href="https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">theguardian.com/technology/202</span><span class="invisible">3/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy</span></a>)<br />- [I wrote the book on user-friendly design. What I see today horrifies me](<a href="https://www.fastcompany.com/90338379/i-wrote-the-book-on-user-friendly-design-what-i-see-today-horrifies-me" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">fastcompany.com/90338379/i-wro</span><span class="invisible">te-the-book-on-user-friendly-design-what-i-see-today-horrifies-me</span></a>)</p><p>(Meant to include these in the post originally!)</p>
