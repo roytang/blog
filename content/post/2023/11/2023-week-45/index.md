@@ -17,7 +17,7 @@ War crimes continue in Gaza. Ukraine still trying to repel the Russian invasion.
 
 This week was kinda busy. For me, busy generally means "I had to go out a lot and that made me miss a bunch of daily stuff I usually do." 
 
-Attend two quiz nights this week: [did terribly at the first one](2023/11/geekfight-league-5/) but [won the second one](2023/11/popquiz-marvels/). Winning the second one let me [watch a movie](2023/11/loki-s2-marvels/#the-marvels-2023) for free! Any time I go out to things like this I always leave the house early so I can spend some of the extra time taking my steps (excuse me, my "daily constitutionals") at the malls, so it takes out a good chunk of my day.
+Attend two quiz nights this week: [did terribly at the first one](/2023/11/geekfight-league-5/) but [won the second one](/2023/11/popquiz-marvels/). Winning the second one let me [watch a movie](/2023/11/loki-s2-marvels/#the-marvels-2023) for free! Any time I go out to things like this I always leave the house early so I can spend some of the extra time taking my steps (excuse me, my "daily constitutionals") at the malls, so it takes out a good chunk of my day.
 
 On the blog: I wrote a bit about [Old folks and tech](/2023/11/old-folks-and-tech/) and also shared some links about [Words](/2023/11/words/).
 
@@ -34,7 +34,7 @@ A couple of weeks ago, I promised to clean out our extra room because a lot of t
 
 - **Reading**: While I still continued my re-read of Daredevil volumes this past week, I also found myself going through some older manga I used to read in the 2000s, mostly as part of my prep for one of the week's quiz nights. I realized [I never finished reading Liar Game](/2011/12/145205668629053440/), so I found a way to read the last few volumes of that. Terrible ending though lol. Might write about it at some point.
 
-- **Watching**: Watched [The Marvels (2023)](/2023/11/loki-s2-marvels/#the-marvels-2023) on Halloween. Finished watching (and wrote reviews for) [Loki S2](2023/11/loki-s2-marvels/#loki-s2) and [Pluto](2023/11/pluto/). Still binge-ing Scrubs, I think I'm only one season away from completion.
+- **Watching**: Watched [The Marvels (2023)](/2023/11/loki-s2-marvels/#the-marvels-2023) on Halloween. Finished watching (and wrote reviews for) [Loki S2](/2023/11/loki-s2-marvels/#loki-s2) and [Pluto](/2023/11/pluto/). Still binge-ing Scrubs, I think I'm only one season away from completion.
 
 ### Walking
 
