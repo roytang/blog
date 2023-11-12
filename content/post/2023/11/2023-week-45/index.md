@@ -1,9 +1,12 @@
 ---
-date: 2023-11-12T14:54:52+08:00
+date: 2023-11-12 06:54:52
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111396552582423782
 tags:
 - weeknotes
-title: "2023 Week 45"
+title: 2023 Week 45
 ---
 
 ### The World
