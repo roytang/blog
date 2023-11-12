@@ -25,7 +25,7 @@ On the blog: I ranted a bit about [Growth and Techno-Optimism](/2023/10/growth/)
 
 Also, I completed [Inktober 2023](/tags/inktober2023/)!
 
-I did not start a Nanowrimo.
+I did not start a Nanowrimo. I did not vote in this year's Barangay/SK Elections.
 
 ### Media Diet
 

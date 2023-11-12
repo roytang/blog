@@ -49,4 +49,9 @@ I don't have any specific suggestions, other than that people who introduce all 
 
 Technology can empower us and make things more convenient, but we have to make sure we aren't leaving the non-tech savvy behind.
 
-<time id="111396383271639133">[2023-11-12 15:25] </time> <p>### Related Links</p><p>- [No app, no entry: How the digital world is failing the non tech-savvy](<a href="https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">theguardian.com/technology/202</span><span class="invisible">3/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy</span></a>)<br />- [I wrote the book on user-friendly design. What I see today horrifies me](<a href="https://www.fastcompany.com/90338379/i-wrote-the-book-on-user-friendly-design-what-i-see-today-horrifies-me" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">fastcompany.com/90338379/i-wro</span><span class="invisible">te-the-book-on-user-friendly-design-what-i-see-today-horrifies-me</span></a>)</p><p>(Meant to include these in the post originally!)</p>
+### Related Links
+
+- [No app, no entry: How the digital world is failing the non tech-savvy](https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy)
+- [I wrote the book on user-friendly design. What I see today horrifies me](https://www.fastcompany.com/90338379/i-wrote-the-book-on-user-friendly-design-what-i-see-today-horrifies-me)
+
+(Meant to include these in the post originally!)
