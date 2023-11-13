@@ -16,6 +16,10 @@ title: My Dominaria United Limited Recap
 
 Yet another limited recap coming in quite late, here are my limited stats for **Dominaria United** on Magic Arena!
 
+<!--more-->
+
+### Limited Stats
+
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
 | Total | 20 | 67 | 50 | 117 | 0.5726 |
@@ -62,11 +66,18 @@ Yet another limited recap coming in quite late, here are my limited stats for **
 | 0-x | 2 |
 
 
-Notes:
+### Limited Notes:
 
 - I was a bit busy during that time, so I didn't get to play and draft as much DMU as I'd like
 - That being said I think I did relative well; the overall winrate is above average for me.
 - Green was my best and favorite color by a mile; I really loved playing domain decks and delving into splashes and five-color whenever I can.
 - This is the first one of these recaps where I've included Alchemy drafts, though the sample size isn't great.
 
-Related: [Dominaria United Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXjDp5OtgSFBDvL8BwPo6mCq), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x Drafts
+
+{{% photos trophy %}}
+
+### Related: 
+
+- [Dominaria United Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXjDp5OtgSFBDvL8BwPo6mCq)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)

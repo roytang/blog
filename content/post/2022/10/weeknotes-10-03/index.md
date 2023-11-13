@@ -52,7 +52,7 @@ It is now [Throw Short People month](/2022/10/1576916824968814593/). Three month
 
 - **Gaming**: 
     - [Managed to hit Master rank](/2022/10/1576909576313528320/) in [Eternal](/tags/EternalCardGame) last month!
-    - Did one final [Magic Arena](/tags/magicarena) quick draft stream for DMU, at [least managed to end with a 7](/2022/09/1575460137095028736/). Will probably try again when alchemy drafts come around. 
+    - Did one final [Magic Arena](/tags/magicarena) quick draft stream for DMU, at [least managed to end with a 7](/2022/12/mtgdmu-limited-recap/#7-x-drafts). Will probably try again when alchemy drafts come around. 
     - Still playing **SMT5** and **Paradise Killer**, though a bit less this week due to busyness. I really should get these games done!
     - Still trying to rank up in **Street Fighter V**. I got into Super Silver again early this past week, but then crashed back down. Week's record was a mediocre 28-28.
 
