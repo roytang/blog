@@ -1,7 +1,7 @@
 ---
 addr: '1 HarbourFront Walk'
 city: Singapore
-country: SG
+country: Singapore
 description: ''
 id: vivocity
 lat: 1.2651111497247556

@@ -1,7 +1,7 @@
 ---
 addr: '133 New Bridge Rd, Singapore 059413'
 city: Singapore
-country: SG
+country: Singapore
 description: ''
 id: chinatownpoint
 lat: 1.2855966972077755

@@ -1,7 +1,7 @@
 ---
 addr: ' 107 North Bridge Rd'
 city: Singapore
-country: SG
+country: Singapore
 description: ''
 id: 5d17ff953f9ff70023bd5ff0
 lat: 1.291238

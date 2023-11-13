@@ -1,7 +1,7 @@
 ---
 addr: " 8 Sentosa Gate\uFEFFway, Resorts World Sentosa"
 city: Sentosa Island
-country: SG
+country: Singapore
 description: ''
 id: 502cbc79e4b0bde7251edc91
 lat: 1.258204

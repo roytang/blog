@@ -1,7 +1,7 @@
 ---
 addr: ' 10 Bayfront Av'
 city: Singapore
-country: SG
+country: Singapore
 description: ''
 id: 4b9df38cf964a520ffc336e3
 lat: 1.286286
