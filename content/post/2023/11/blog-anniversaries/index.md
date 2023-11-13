@@ -1,8 +1,11 @@
 ---
-title: "Blog Anniversaries"
-date: 2023-11-13T21:32:32+08:00
+date: 2023-11-13 13:32:32
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111403648488272544
 tags:
 - blogging
+title: Blog Anniversaries
 ---
 
 Last year I celebrated [Twenty Years of Blogging (More or Less)](/2022/08/twenty-years/). Since then I've found myself noting down whenever I run across a blogging anniversary post, I always enjoy reading them, even though I don't really know the writers. I'm not sure exactly what fascinates me about posts like these, but I like reading about people's personal history of blogging, what tech stacks they've gone through, musings about how things were in the good old days, why they blog and what they've gotten out of the practice. I especially like the ones that have been running for a long time, like a decade or more. It reminds me that even though I've [followed a lot of blogs](/2021/04/blogs-of-yesteryear/) [throughout the decades](/2021/04/blogs-of-yesteryear-2/), I'm sure I've barely scratched the surface and from then til now there are many many other bloggers out there sharing their thoughts on the internet.
