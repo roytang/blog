@@ -12,9 +12,14 @@ tags:
 - magicarena
 - limitedrecap
 title: My Alchemy Horizons Baldur's Gate Limited Recap
+dontinlinephotos: true
 ---
 
 The next Arena set is already here, so I here's my much-delayed **Alchemy Horizons Baldur's Gate** limited stats!
+
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -55,11 +60,29 @@ The next Arena set is already here, so I here's my much-delayed **Alchemy Horizo
 | 1-x | 1 |
 | 0-x | 1 |
 
-
-Notes:
+### Limited Notes
 
 - Since HBG isn't a standard set, I didn't play as many events as I usually do.
 - Managed a couple of 7s, but my win rate for this set was a bit lower than usual.
 - The set wasn't very color-balanced (blue was notably weaker). They corrected this later with Alchemy rebalances for the draft format, but all of the events I played were before the rebalancing. Honestly, it might have been better to experience the first-ever limited rebalancing, but I just didn't have the time/resources for it.
 
-Related: [Alchemy Horizons Baldur's Gate Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiNdvKYckxA3BpKjf2CjfCi), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x drafts
+
+{{% photos trophy %}}
+
+### Arena Open
+
+<time>[Sun, July 31, 2022, 11:59 p.m.]</time> Threw away some gems on the Arena Open today, my sealed pool had some high-end bombs but felt otherwise mediocre:
+
+{{% photos open %}}
+
+- lost game 1 to [skanos](https://scryfall.com/card/hbg/18/skanos-dragon-vassal)
+- lost game 2 to [monster manual](https://scryfall.com/card/clb/242/monster-manual-zoological-study) into [hourglass coven](https://scryfall.com/card/hbg/45/the-hourglass-coven) =/ (into skanos again)
+- sigh. lost game 3 to [Oyaminartok](https://scryfall.com/card/hbg/68/oyaminartok-polar-werebear)
+
+Welp. That was terrible.
+
+### Related
+
+- [Alchemy Horizons Baldur's Gate Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiNdvKYckxA3BpKjf2CjfCi)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
