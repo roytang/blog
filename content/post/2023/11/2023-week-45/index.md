@@ -28,8 +28,9 @@ A couple of weeks ago, I promised to clean out our extra room because a lot of t
 ### Media Diet
 
 - **Gaming**: 
-    - Single player: Still haven't finished the final **Super Mario Bros Wonder** stage.
-    - I beat [a fun boss fight](https://www.youtube.com/watch?v=Bk2AqXsJsWU) in **Baldur's Gate 3** though. I'm hoping to power through BG3 this coming week, so that I can finally finish at least one of the 3 RPGs I started 3 months ago!
+    - Single player: 
+        - Still haven't finished the final **Super Mario Bros Wonder** stage.
+        - I beat [a fun boss fight](https://www.youtube.com/watch?v=Bk2AqXsJsWU) in **Baldur's Gate 3** though. I'm hoping to power through BG3 this coming week, so that I can finally finish at least one of the 3 RPGs I started 3 months ago!
     - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**, as much as I can at least, I think I missed a day or two. **Eternal** has been neglected.
 
 - **Reading**: While I still continued my re-read of Daredevil volumes this past week, I also found myself going through some older manga I used to read in the 2000s, mostly as part of my prep for one of the week's quiz nights. I realized [I never finished reading Liar Game](/2011/12/145205668629053440/), so I found a way to read the last few volumes of that. Terrible ending though lol. Might write about it at some point.
