@@ -1,9 +1,12 @@
 ---
-date: 2023-11-19T22:42:02+08:00
+date: 2023-11-19 14:42:02
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111437797810260492
 tags:
 - weeknotes
-title: "2023 Week 46"
+title: 2023 Week 46
 ---
 
 It is now week 46 of 2023, the year is almost done!
