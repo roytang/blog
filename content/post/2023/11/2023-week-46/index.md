@@ -1,10 +1,9 @@
 ---
-date: 2023-11-19T23:42:02+08:00
+date: 2023-11-19T22:42:02+08:00
 dontinlinephotos: true
 tags:
 - weeknotes
 title: "2023 Week 46"
-draft: true
 ---
 
 It is now week 46 of 2023, the year is almost done!
