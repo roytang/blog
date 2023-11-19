@@ -78,7 +78,7 @@ Visit the [Links page](/links/) for more links of interest.
 - **Gaming**:
     - I finally completed **Tales of Vesperia** (Steam) last Thursday!! Blog post/review sometime this week probably.
     - [Eternal](/tags/EternalCardGame): New set dropped this week, but I haven't seen too many new decks in ranked yet.
-    - [Magic Arena](/tags/MagicArena): Continued drafting Streets of New Capenna this week. You can follow along via the [MTGSNC tag](/tags/mtgsnc). I also [did two runs at this weekend's Limited Open](/2022/05/1525721938340876288/) but sadly did not make day 2. Someday!
+    - [Magic Arena](/tags/MagicArena): Continued drafting Streets of New Capenna this week. You can follow along via the [MTGSNC tag](/tags/mtgsnc). I also [did two runs at this weekend's Limited Open](/2022/06/mtgsnc-limited-recap/#arena-open) but sadly did not make day 2. Someday!
     - [Street Fighter V](/tags/street-fighter-v): [Managed to hit Super Silver this past week](/2022/05/1524382403296333824/)!
     - I still have not started a new single-player game yet!
 

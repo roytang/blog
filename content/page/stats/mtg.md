@@ -106,7 +106,7 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 | [2022 Summary](/2022/12/1605768464068509697/) | Dec 2022 | 741 | Red | Draft | 517 | Mythic | Dia4 | 2421 | 217,250 | 194,250 |
 | [Dominaria United](/2022/11/1592737800688140290/) | Nov 2022 | 126 | Red | Standard | 96 | Plat1 | Plat1 | 541 | 45,250 | 41,100 |
 | [Alchemy Horizons Baldur's Gate](/2022/09/1565551040430473216/) | Sep 2022 | 143 | Red | Trad Standard | 71 | Mythic | Plat4 | 359 | 34,750 | 33,400 |
-| [Streets of New Capenna](/2022/08/1560184703151636480/) | Aug 2022 | 172 | White | Constructed Event (?!?!) | 91 | Dia2 | Plat3 | 492 | 41,750 | 36,975 |
+| [Streets of New Capenna](/2022/06/mtgsnc-limited-recap/#magic-arena-stats) | Aug 2022 | 172 | White | Constructed Event (?!?!) | 91 | Dia2 | Plat3 | 492 | 41,750 | 36,975 |
 | [Kamigawa Neon Dynasty](/2022/04/1519900570538049536/) | Apr 2022 | 196 | White | Draft | 98 | Dia2 | Dia4 | 601 | 49,250 | 43,100 |
 | [Innistrad Crimson Vow](/2022/02/1494785134578454528/) | Feb 2022 | 177 | Black | Draft | 115 | Mythic | Plat3 | 789 | 53,500 | 51,425 |
 | [Innistrad Midnight Hunt](/2021/11/1459075159709519873/) | Nov 2021 | 94 | White | Trad Constructed | 49 | Mythic | Gold1 | 242 | 21,000 | 20,000 |

@@ -1,4 +1,5 @@
 ---
+dontinlinephotos: true
 date: 2022-06-16 07:16:44
 syndicated:
 - type: mastodon
@@ -15,6 +16,10 @@ title: My Streets of New Capenna Limited Recap
 ---
 
 The next Arena set is almost upon us, so I figured I should compile my Streets of New Capenna limited stats!
+
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -59,12 +64,42 @@ The next Arena set is almost upon us, so I figured I should compile my Streets o
 | 1-x | 0 |
 | 0-x | 1 |
 
-
-Notes:
+### Limited Notes
 
 - SNC was not a particularly balanced limited format; like many people I did best when playing with white or blue. Whenever I strayed outside of those colors, I was punished for my insolence.
 - My sealed win rates were also much worse than my draft win rates by far.
 - I thought about trying out the Alchemy SNC drafts as well, but figured it was better to save my resources for when *Alchemy Horizons: Baldur's Gate* comes out in July.
 - I did enjoy the format, balance problems notwithstanding, and my overall win rate was still a bit above my average 
 
-Related: [Streets of New Capenna Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXjh3chA9eZ0xgg3O8mwPDTj), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x Drafts
+
+{{% photos trophy %}}
+
+### Midweek Magic
+
+On May 4, Midweek Magic on #MagicArena was #MTGSNC draft! I went UW splash G again and got an easy 3-0 
+
+{{% photos midweek %}}
+
+### Arena Open
+
+{{% photos arenaopen %}}
+
+### Play-In Qualifier
+
+<time>[Sun, May 22, 2022, 8:21 p.m.]</time> Got back home in time today to throw away some gems on the #MagicArena play-in sealed qualifier. Honestly thought the second build could go the distance, but maybe I sacrificed too much power for consistency. Jund build went 0-2. UW went 2-2. #mtgsnc 
+
+{{% photos playin %}}
+
+### Magic Arena Stats
+
+<time>[Thu, Aug. 18, 2022, 4:39 p.m.]</time> #MagicArena stats email for #MTGSNC has dropped!
+
+Played a lot less SNC than I did NEO. Unsurprising, NEO was great. I'm glad they brought back the most drafted commons / uncommons thing as well
+
+{{% photos mtgarenastats %}}
+
+### Related
+
+- [Streets of New Capenna Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXjh3chA9eZ0xgg3O8mwPDTj)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)

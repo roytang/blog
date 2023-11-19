@@ -12,23 +12,17 @@
             "source": "page"
         },
         {
+            "path": "content/notes",
+            "public": true,
+            "section": "notes",
+            "source": "notes"
+        },
+        {
             "path": "content/post",
             "public": true,
             "section": "blog",
             "source": "post",
             "syndicate": true
-        },
-        {
-            "path": "content/photos",
-            "public": true,
-            "section": "notes",
-            "source": "photos"
-        },
-        {
-            "path": "content/notes",
-            "public": true,
-            "section": "notes",
-            "source": "notes"
         },
         {
             "path": "content/links",
