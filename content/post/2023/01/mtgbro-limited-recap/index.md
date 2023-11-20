@@ -1,5 +1,6 @@
 ---
 date: 2023-01-17 07:17:24
+dontinlinephotos: true
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109703371876953073
@@ -11,8 +12,8 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 title: My Brothers War Limited Recap
-dontinlinephotos: true
 ---
 
 New set is coming up in a couple of weeks, I figured I should do the **Brothers War** limited recap already to get it out of the way. It isn't even two months since I published [the Dominaria United one](/2022/12/mtgdmu-limited-recap/)!

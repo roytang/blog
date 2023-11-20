@@ -1,5 +1,6 @@
 ---
 date: 2022-09-03 05:59:42
+dontinlinephotos: true
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108933022476826072
@@ -11,8 +12,8 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 title: My Alchemy Horizons Baldur's Gate Limited Recap
-dontinlinephotos: true
 ---
 
 The next Arena set is already here, so I here's my much-delayed **Alchemy Horizons Baldur's Gate** limited stats!

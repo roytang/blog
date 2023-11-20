@@ -1,6 +1,6 @@
 ---
-dontinlinephotos: true
 date: 2022-06-16 07:16:44
+dontinlinephotos: true
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108485983766571299
@@ -12,6 +12,7 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 title: My Streets of New Capenna Limited Recap
 ---
 

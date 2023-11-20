@@ -11,6 +11,7 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 title: My Dominaria United Limited Recap
 ---
 

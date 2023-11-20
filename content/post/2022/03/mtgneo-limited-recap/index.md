@@ -1,4 +1,5 @@
 ---
+dontinlinephotos: true
 date: 2022-03-14 04:26:48
 syndicated:
 - type: mastodon
@@ -11,10 +12,15 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 title: My Neon Dynasty Limited Recap
 ---
 
 With Neon Dynasty Quick Draft no longer available on Magic Arena, I'm more or less done with Neon Dynasty limited and will be shifting to constructed and prepping for the next set. Since I have the benefit of streaming and recording most of my matches (click the MTGNEO tag link at the bottom of this post for the list), I thought I'd collate my stats for this limited season.
+
+<!--more-->
+
+### Limited Stats
 
 Here are the stats, with notes afterwards:
 
@@ -62,8 +68,7 @@ Here are the stats, with notes afterwards:
 | 1-x | 3 |
 | 0-x | 1 |
 
-
-Notes:
+### Limited Notes
 
 - win rate goes down significantly for decks with splash color(s), so I should have probably stopped randomly dropping in stuff like {{% card %}}Isshin, Two Heavens as One{{% /card %}}
 - by Main Color:
@@ -90,6 +95,33 @@ Notes:
 
 Stats and winrates aside, I'm very happy with Neon Dynasty as a limited format. Fairly balanced, and the mechanics are all very good and well-designed (although I guess the RW one is a bit weaker), and probably one of the best draft formats in recent memory.
 
+### 7-x Drafts
+
+{{% photos trophy %}}
+
+### Arena Open
+
+<time>[Sun, Feb. 27, 2022, 3:57 p.m.]</time> Threw some gems away on the #mtgneo #MagicArena open this weekend. My sealed deck felt good, and I had the choice of 2 or 4 colors, but the odds were not in my favor. I was bummed so I did a quick draft afterwards which went much better!
+
+{{% photos arenaopen %}}
+
+[16:01] Doing poorly at an Arena Open is roughly the same level of feel bad as doing poorly at a GP, except at least I didn't have to travel and spend a bunch of money (only gems) just to get trounced!
+
+### Magic Arena Stats
+
+<time>[Fri, April 29, 2022, 12:45 p.m.]</time> #MagicArena stats for #mtgneo have dropped!
+
+Apparently I haven't hit mythic constructed in a while. I managed to open more packs this time around though.
+
+#mtgarenastats 
+
+{{% photos arenastats %}}
+
+### Set Recaps
+
 I like this type of limited format recap stats post! I'll keep doing it moving forward (starting with New Capenna in late April!), and will probably also try to generate (back-dated) similar posts for previous sets (I should have records of all my limited stuff since I started streaming with Theros Beyond Death at the start of the pandemic!)
 
-Related: [Kamigawa Neon Dynasty Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhLIY5zAbmQn-tSxCE5RWgs), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### Related
+
+- [Kamigawa Neon Dynasty Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhLIY5zAbmQn-tSxCE5RWgs)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
