@@ -7,6 +7,22 @@ syndicated:
 title: ''
 ---
 
-Last week someone asked me what "demagogue" meant so I gave an explanation. Today I thought I'd read the wikipedia article on the term: https://en.wikipedia.org/wiki/Demagogue The article includes a list of methods that demagogues commonly employ: - Scapegoating - Fearmongering - Lying - Emotional... More
+Last week someone asked me what "demagogue" meant so I gave an explanation. Today I thought I'd read the wikipedia article on the term: https://en.wikipedia.org/wiki/Demagogue
 
-[Demagogue - Wikipedia](https://en.wikipedia.org/wiki/Demagogue)
+The article includes a list of methods that demagogues commonly employ:
+
+- Scapegoating
+- Fearmongering
+- Lying
+- Emotional oratory and personal charisma
+- Accusing opponents of weakness and disloyalty
+- Promising the impossible
+- Violence and physical intimidation
+- Personal insults and ridicule
+- Vulgarity and outrageous behavior
+- Folksy posturing
+- Gross oversimplification
+- Attacking the news media
+
+Practically all of these have become so familiar over the past year!
+

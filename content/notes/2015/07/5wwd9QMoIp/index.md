@@ -9,7 +9,7 @@ syndicated:
 - type: instagram
   url: https://instagram.com/p/5wwd9QMoIp/
 - type: facebook
-  url: 10153980754488912
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153980754488912
 tags:
 - london2015
 ---
