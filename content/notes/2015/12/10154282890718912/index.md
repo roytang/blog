@@ -4,9 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154282890718912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/682262775813390337/
 title: ''
 ---
 
 Hotdogs from around the world. Only one of them is red 
 
-![](https://i.imgur.com/Qztku3E.jpg)

@@ -4,9 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154241349713912
-title: ''
+tags:
+- duterte
 ---
 
-I don't think any sensible person supports summary killings, but Mar (and the other presidentiables) don't even have any platform for judiciary reform to address the people's disenfranchisement with the poor state of the justice system in this country. The alleged Davao vigilante killings are a... More
+I don't think any sensible person supports summary killings, but Mar (and the other presidentiables) don't even have any platform for judiciary reform to address the people's disenfranchisement with the poor state of the justice system in this country. The alleged Davao vigilante killings are a problem, yes, but they are a symptom of a much deeper malaise
 
 [Roxas on Duterte's brand of justice: A return to dark ages](http://s.rplr.co/kkLrMRJ)
