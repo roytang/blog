@@ -8,6 +8,8 @@ tags:
 - splurge
 syndicated:
 - type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/3qs409/whats_the_best_shop_in_sm_north_cyberzone_for/
+- type: reddit
   url: https://www.reddit.com/r/buildapc/comments/3r2lhj/hello_planning_to_build_a_pc_soon_have_put/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154177059403912
@@ -26,6 +28,16 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154182594373912
 dontinlinephotos: true
+---
+
+<time>[Fri, Oct. 30, 2015, 8:49 a.m.]</time>
+
+#### Posted on r/Philippines: [What's the best shop in SM North cyberzone for putting together a new desktop?](https://www.reddit.com/r/Philippines/comments/3qs409/whats_the_best_shop_in_sm_north_cyberzone_for/)
+
+Yun tipong I bring them a list of parts I want (and probably my old graphics card and hard drive) tapos sila na magassemble for me
+
+Edit: I've assembled multiple desktops myself, I don't want to do it anymore. SM North Cyberzone para I can do a price check while I'm there running errands.
+
 ---
 
 <time>[Sun, Nov. 1, 2015, 7:59 p.m.]</time>
