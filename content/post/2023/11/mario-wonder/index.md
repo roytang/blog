@@ -1,10 +1,13 @@
 ---
-date: 2023-11-22 00:05:38+08:00
+date: 2023-11-21 16:05:38
 reviews:
 - description: ''
   media: games
   rating: 4.5
   title: Super Mario Bros. Wonder (Switch)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111449463684915491
 tags:
 - gaming
 - games
