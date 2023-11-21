@@ -1,8 +1,11 @@
 ---
-title: "The August-September Bug"
-date: 2023-11-21T14:01:11+08:00
+date: 2023-11-21 06:01:11
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111447076434796536
 tags:
 - software-development
+title: The August-September Bug
 ---
 
 For some reason or another I was reading old chat logs, and I came across this convo about a bug I encountered in 2014 that was amusing enough to share. So this is yet another [Tale from the Old Web](/2020/02/old-web/).
