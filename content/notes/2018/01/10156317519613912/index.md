@@ -9,7 +9,7 @@ tags:
 - fbreposts03
 ---
 
-I realize it's a joke, but realistically I imagine one could build a parser that recognizes keywords like "responsive", "fancy menus", "load fast" and pulls in a website template with such options enabled (I would guess response and load fast should be defaults). The parser could store your prefs... More
+I realize it's a joke, but realistically I imagine one could build a parser that recognizes keywords like "responsive", "fancy menus", "load fast" and pulls in a website template with such options enabled (I would guess response and load fast should be defaults). The parser could store your prefs and recognize what your "fav fonts" are. Of course no content specified, so "BIG pictures" would imply large stock pictures and probably all the website text is "Lorem Ipsum". "No bugs" probably isn't implementable.
 
 {{% quoted url="https://www.facebook.com/9gag//posts/10156761307701840" label="9GAG's Facebook post" %}}
 

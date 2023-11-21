@@ -7,9 +7,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155190714493912
 tags:
 - fbreposts05
+- duterte
 ---
 
-New theory: what if there are actually two Dutertes? Like he has a secret twin brother. The good twin is all for good governance, following the law, etc. The evil twin is all murder-y and shoot-y and swear-y, but they have no choice but to trot him out in public because good twin is sickly and can't... More
+New theory: what if there are actually two Dutertes? Like he has a secret twin brother. The good twin is all for good governance, following the law, etc. The evil twin is all murder-y and shoot-y and swear-y, but they have no choice but to trot him out in public because good twin is sickly and can't attend all the events he has to attend.
+
+Maybe I should write this into a short story...
 
 {{% quoted url="https://www.facebook.com/DuterteVsDuterte//posts/655322407961978" label="Duterte VS. Duterte's Facebook post" %}}
 

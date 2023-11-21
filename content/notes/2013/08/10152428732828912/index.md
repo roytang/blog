@@ -9,7 +9,9 @@ tags:
 - fbreposts02
 ---
 
-"Our people need to learn to do what is right without a face. They need to know they are the heroes. You do your job, you do what is right, and after you have served you let others take your place. Sacrifice is not an investment for glory." Without a doubt we would be better off if we had more... More
+"Our people need to learn to do what is right without a face. They need to know they are the heroes. You do your job, you do what is right, and after you have served you let others take your place. Sacrifice is not an investment for glory."
+
+Without a doubt we would be better off if we had more politicians like the former Senator Joker Arroyo.
 
 {{% quoted url="https://www.facebook.com/maoi.arroyo/posts/10201297501393573" label="Maoi Arroyo's Facebook post" %}}
 

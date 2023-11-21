@@ -7,9 +7,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156344088773912
 tags:
 - fbreposts03
+- duterte
 ---
 
-I was agape at the audacity of this demand. The quoted statement displays either a total lack of self-awareness or a sense of entitlement that only their side can cast aspersion on other people's character. I believe hindi naman siya minura ng Rappler. One would think nasanay na ako sa kanyang... More
+I was agape at the audacity of this demand. The quoted statement displays either a total lack of self-awareness or a sense of entitlement that only their side can cast aspersion on other people's character. I believe hindi naman siya minura ng Rappler. One would think nasanay na ako sa kanyang hypocrisy by now.
+
+Also, tell me again that this about legal technicalities and not blowback for criticism.
 
 {{% quoted url="https://www.facebook.com/freethinkers//posts/10155329100157686" label="Filipino Freethinkers's Facebook post" %}}
 
