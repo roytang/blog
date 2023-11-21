@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/6695982905434112/
 - type: plurk
   url: https://plurk.com/p/939kpy
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/104223736315709
 tags:
 - movies
 ---

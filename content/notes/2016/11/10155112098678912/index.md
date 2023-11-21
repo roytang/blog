@@ -1,5 +1,5 @@
 ---
-date: 2016-11-22 18:14:00+08:00
+date: 2016-11-22 10:14:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155112098678912
 tags:
 - fbreposts05
+- pugadbaboy
 ---
 
 Best president ever!
