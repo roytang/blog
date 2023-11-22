@@ -33,7 +33,7 @@ Been a bit busy (see below), so no links or commentary on world news today. Full
     - **Tales of Symphonia** is at that point in a JRPG right before the final boss but then you have to chance to go back and do optional stuff. I'm taking my time to grind a bit to beat some optional bosses; since I may never bother with additional completion runs for this game, I want to do beat them now. So this may take another week or so to finish I guess.
     - Still struggling to climb the ranks in my regular fighting games: **Guilty Gear Strive** and **Street Fighter V**.
     - Still doing my daily games of **Eternal**
-    - This weekend was the [Crimson Vow](/tags/mtgcrimson/) Draft Open on **Magic Arena**! I've been prepping for this for a while, but sadly I [did not do well](/2021/12/1467213095458144257/).
+    - This weekend was the [Crimson Vow](/tags/mtgcrimson/) Draft Open on **Magic Arena**! I've been prepping for this for a while, but sadly I [did not do well](/2021/12/mtgcrimson-limited-recap/#arena-open).
     - I purchased the RPGs in my Steam Cart! Maybe someday I even get to play them!
 - **Watching:**
     - **Movies:** Didn't watch any this week! There are a bunch I want to watch though, just haven't found the time, energy or the continuous block of TV access to do so.

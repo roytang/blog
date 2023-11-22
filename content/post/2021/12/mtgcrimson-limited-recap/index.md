@@ -6,12 +6,16 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 title: My Crimson Vow Limited Recap
+dontinlinephotos: true
 ---
 
 *(Note: This post was written March 17th, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [MTGCrimson](/tags/mtgcrimson) post)*
 
-Crimson Vow limited stats!
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -57,8 +61,7 @@ Crimson Vow limited stats!
 | 1-x | 2 |
 | 0-x | 1 |
 
-
-Notes:
+### Limited Set Notes
 
 - win rate goes down significantly for decks with splash color(s)
 - by Main Color:
@@ -80,4 +83,37 @@ Notes:
 
 Not a lot of insights, mostly because I'm doing this post from the future and not a lot of it is fresh for me.
 
-Related: [Innistrad Crimson Vow Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgokNsq0i3ejpcLJ0zkrZbE), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x Drafts
+
+{{% photos trophy %}}
+
+### Arena Open
+
+<time>[Sun, Dec. 5, 2021, 3:23 a.m.]</time> Have thrown away some gems at yet another #ArenaOpen on #MagicArena. All that draft practice did NOT pay off. Both decks felt meh. Watch the VODs for examples of how not to draft #MtgCrimson apparently
+
+YT: https://www.youtube.com/watch?v=T-iREGcd8Xc
+
+YT: https://www.youtube.com/watch?v=wCXxiohpaxc 
+
+{{% photos open %}}
+
+### Magic Arena Stats
+
+<time>[Sat, Feb. 19, 2022, 5:25 a.m.]</time> New #MagicArena stats email dropped! 
+
+Sadly it looks like they have really discontinued the most drafted commons/uncommons bit from the old versions.
+
+I played so much VOW @_@ 789 games and 177 boosters is a record! 
+
+{{< photos 1494785134578454528 >}}
+
+<time>[05:25]</time> Looks like around 100k gold per season is typical, which makes those events that cost 25k gold entry seem so much more ridiculous.
+
+This is the first of these where my favorite format isn't traditional constructed. I really should compile my draft stats sometime.
+
+#mtgarenastats
+
+### Related
+
+- [Innistrad Crimson Vow Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgokNsq0i3ejpcLJ0zkrZbE)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
