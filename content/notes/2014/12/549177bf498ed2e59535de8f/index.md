@@ -11,3 +11,7 @@ tags:
 ---
 
 (@CaliBurger Timog Ave)
+
+We attended a Jason quiz night at Caliburger, did very poorly finishing 3rd out of 3 teams. Scores were 84, 81, 50.
+
+Known categories: 1989 songs, movie quotes

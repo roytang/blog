@@ -24,3 +24,7 @@ Finally finished #FireEmblem #ThreeHouses, or one run at least! Doing the other 
 And yes, I could have gotten a much better screenshot from the ending I suppose, but I'm too lazy to go back and get one lol
 
 Short review: Battles are way too easy, even without using the rewind mechanic the game gives you. Story and characters are pretty good though.
+
+<time>[2023]</time> Added photodump/screenshots from the Switch. These should tell you my favorite character was Bernadetta, mostly because I found her exaggerated anxiety very relatable. Petra probably 2nd.
+
+I actually ended up doing two runs, first run aligned with Claude/Golden Deer as male Byleth and second run with Edelgard/Black Eagles as female Byleth.

@@ -97,21 +97,21 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 These are compiled from the stats emails Arena sends out per set ([mtgarenastats tag](/tags/mtgarenastats)). Not wildly consistent.
 
-| Set | Date | Boosters Opened | Favorite Color | Favorite Format | Mastery Level | Constructed Rank | Limited Rank | Games Played | Quest Gold | Daily Wins Gold |
+| Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| [Lord of the Rings: Tales of Middle-earth](/2023/09/111047010694586246/) | Sep 2023 | 77 | Red | Historic | 87 | Plat1 | Gold4 | 242 | 47,000 | 33,000 |
-| [March of the Machine](/2023/06/mtgmom-stats/) | Jun 2023 | 105 | Black | Standard Ranked | 78 | Mythic | Plat4 | 351 | 39,500 | 33,150 |
-| [Phyrexia All Will Be One](/2023/04/1651196904439689218/) | Apr 2023 | 133 | White | Standard Ranked | 82 | Mythic | Plat3 | 370 | 40,000 | 36,450 |
-| [Brothers War](/2023/02/1624270286182027267/) | Feb 2023 | 123 | White | Trad Historic | 108 | Plat1 | Plat4 | 489 | 50,500 | 42,500 |
+| [Lord of the Rings: Tales of Middle-earth](/2023/09/111047010694586246/) | Sep 2023 | 77 | Red | Hist | 87 | Plat1 | Gold4 | 242 | 47,000 | 33,000 |
+| [March of the Machine](/2023/06/mtgmom-stats/) | Jun 2023 | 105 | Black | Std Ranked | 78 | Mythic | Plat4 | 351 | 39,500 | 33,150 |
+| [Phyrexia All Will Be One](/2023/04/1651196904439689218/) | Apr 2023 | 133 | White | Std Ranked | 82 | Mythic | Plat3 | 370 | 40,000 | 36,450 |
+| [Brothers War](/2023/02/1624270286182027267/) | Feb 2023 | 123 | White | Trad Hist | 108 | Plat1 | Plat4 | 489 | 50,500 | 42,500 |
 | [2022 Summary](/2022/12/1605768464068509697/) | Dec 2022 | 741 | Red | Draft | 517 | Mythic | Dia4 | 2421 | 217,250 | 194,250 |
-| [Dominaria United](/2022/11/1592737800688140290/) | Nov 2022 | 126 | Red | Standard | 96 | Plat1 | Plat1 | 541 | 45,250 | 41,100 |
-| [Alchemy Horizons Baldur's Gate](/2022/09/1565551040430473216/) | Sep 2022 | 143 | Red | Trad Standard | 71 | Mythic | Plat4 | 359 | 34,750 | 33,400 |
-| [Streets of New Capenna](/2022/06/mtgsnc-limited-recap/#magic-arena-stats) | Aug 2022 | 172 | White | Constructed Event (?!?!) | 91 | Dia2 | Plat3 | 492 | 41,750 | 36,975 |
+| [Dominaria United](/2022/11/1592737800688140290/) | Nov 2022 | 126 | Red | Std | 96 | Plat1 | Plat1 | 541 | 45,250 | 41,100 |
+| [Alchemy Horizons Baldur's Gate](/2022/09/1565551040430473216/) | Sep 2022 | 143 | Red | Trad Std | 71 | Mythic | Plat4 | 359 | 34,750 | 33,400 |
+| [Streets of New Capenna](/2022/06/mtgsnc-limited-recap/#magic-arena-stats) | Aug 2022 | 172 | White | Const. Event (?!?!) | 91 | Dia2 | Plat3 | 492 | 41,750 | 36,975 |
 | [Kamigawa Neon Dynasty](/2022/03/mtgneo-limited-recap/#magic-arena-stats) | Apr 2022 | 196 | White | Draft | 98 | Dia2 | Dia4 | 601 | 49,250 | 43,100 |
 | [Innistrad Crimson Vow](/2021/12/mtgcrimson-limited-recap/#magic-arena-stats) | Feb 2022 | 177 | Black | Draft | 115 | Mythic | Plat3 | 789 | 53,500 | 51,425 |
-| [Innistrad Midnight Hunt](/2021/11/1459075159709519873/) | Nov 2021 | 94 | White | Trad Constructed | 49 | Mythic | Gold1 | 242 | 21,000 | 20,000 |
-| [Strixhaven](/2021/07/1413614211595337734/) | Jul 2021 | 120 | Blue | Trad Constructed | 107 | Dia4 | Plat4 | 498 | 52,250 | 42,425 |
-| [Kaldheim](/2021/04/1382827402338848769/) | Apr 2021 | 125 | Green | Trad Constructed | 93 | Mythic | Plat4 | 422 | 47,500 | 38,375 |
+| [Innistrad Midnight Hunt](/2021/11/1459075159709519873/) | Nov 2021 | 94 | White | Trad Const. | 49 | Mythic | Gold1 | 242 | 21,000 | 20,000 |
+| [Strixhaven](/2021/07/1413614211595337734/) | Jul 2021 | 120 | Blue | Trad Const. | 107 | Dia4 | Plat4 | 498 | 52,250 | 42,425 |
+| [Kaldheim](/2021/04/1382827402338848769/) | Apr 2021 | 125 | Green | Trad Const. | 93 | Mythic | Plat4 | 422 | 47,500 | 38,375 |
 
 
 

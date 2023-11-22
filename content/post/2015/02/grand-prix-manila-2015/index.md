@@ -5,7 +5,67 @@ date: 2015-02-11 05:48:37
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/565507742035877890/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/550800113627451395/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153471312478912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153479163073912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551199005216997376/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551219655059054592/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551237801509785600/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551257777176211456/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551276757672685569/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551299519984316416/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551321249935155200/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551341549506666496/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551356045826588672/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153482551283912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551397126903578625/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153482762953912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153483564918912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551556983166230528/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551575899972202496/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551589436320780288/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551602772588503041/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551619314961227776/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551637865742872576/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153484161798912:1
+- type: twitter
+  url: https://twitter.com/roytang/statuses/551748917436493824/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153484199578912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153484325803912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153484161798912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153484161773912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153484605508912
 tags:
+- gpmanila
+- gpmnl
 - grand-prix
 - standard
 - tournament-report
@@ -136,3 +196,65 @@ Not a bad performance at all, and it was a great weekend altogether: got to see 
 
 {{< img src="gpmanilaplurk.jpg" alt="I'm in the black shirt" >}}
 {{< img src="gpmanilaplurk2.jpg" alt="I'm in the black shirt" >}}
+
+### Social Media Archive
+
+#### Day 1 Liveblog
+
+<time>[Fri, Jan. 2, 2015, 7:45 a.m.]</time> Time to go survey the field of battle
+
+<time>[Sat, Jan. 3, 2015, 6:48 a.m.]</time> Wish me luck!
+
+<time>[10:10]</time> Rd1 2-0 vs ub control #gpmnl
+
+<time>[11:33]</time> R2 2-0 vs ub control #gpmnl 2-0 overall
+
+<time>[12:45]</time> R3 2-0 vs temur, 3-0 overall #gpmanila
+
+<time>[14:04]</time> R4 2-0 vs temur, 4-0 overall #gpmanila
+
+<time>[15:19]</time> R5 2-0 vs temur, 5-0 overall #gpmanila
+
+<time>[16:50]</time> 0-2 vs abzan whip, 5-1 overall #gpmanila
+
+<time>[18:16]</time> R7 2-0 vs monored, 6-1 overall #gpmanila
+
+<time>[19:37]</time> R8 2-1 vs jeskai tokens, 7-1 overall. Day 2! #gpmanila
+
+<time>[20:34]</time> R9 2-0 vs abzan (terry soh) finish day 1 at 8-1 #gpmanila
+
+<time>[20:36] Vengeance!</time>
+
+<time>[23:18] Today was a good day; tomorrow we fight again</time>
+
+---
+
+#### Day 2 Liveblog
+
+<time>[Sun, Jan. 4, 2015, 7:59 a.m.]</time> Once more unto the breach. Wish me luck!
+
+<time>[09:53]</time> R10 0-2 vs uw heroic, 8-2 overall #gpmanila
+
+<time>[11:08]</time> R11 2-1 vs abzan aggro 9-2 overall #gpmanila
+
+<time>[12:02]</time> R12 2-0 vs mantis jeskai, 10-2 overall #gpmanila
+
+<time>[12:55]</time> R13 0-2 vs mardu (feature match area) 10-3 overall #gpmanila
+
+<time>[14:01]</time> R14 0-2 vs monored, 10-4 overall #gpmanila
+
+<time>[15:14]</time> R15 2-1 vs abzan aggro, finish at 11-4. Cash! #gpmanila
+
+<time>[16:10]</time> Luck ran out on day 2, finished #gpmanila at 37th, good enough for a bit of cash
+
+---
+
+<time>[Sun, Jan. 4, 2015, 3:18 p.m.]</time> [Jose Marciano Patino](https://www.facebook.com/701962858) playing Saito at #gpmanila
+
+{{% photos 20150104_152321 %}}
+
+---
+
+<time>[Sun, Jan. 4, 2015, 10:37 p.m.]</time> Wow, I was mentioned in the Day 1 coverage of #gpmanila http://i.imgur.com/ScchXAy.png Lol, too bad my streak of luck fell apart in Day 2. Still, it was a good finish, and a fun weekend overall
+
+![](http://i.imgur.com/ScchXAy.png)

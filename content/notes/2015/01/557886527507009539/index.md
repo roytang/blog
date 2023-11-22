@@ -13,3 +13,5 @@ tags:
 ---
 
 I'm at CaliBurger - @caliburberph in Quezon City w/ [@ohhhace](https://twitter.com/ohhhace/) https://www.swarmapp.com/c/6LZ9PUPS5yy
+
+We attended a Jason quiz night at Caliburger, finishing 2nd out of 4 teams.
