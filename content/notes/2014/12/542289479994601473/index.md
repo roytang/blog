@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/542289479994601473/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153404321033912
+tags:
+- lyrics
 ---
 
 I've forgotten what I started fighting for
