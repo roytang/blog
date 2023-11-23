@@ -10,9 +10,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153375644083912
 tags:
-- fbreposts07
+- quotes
+- MarvelMotivationMonday
 ---
 
-# MarvelMotivatio nMonday
+#MarvelMotivationMonday
 
 {{% photos 10153375644083912%}}

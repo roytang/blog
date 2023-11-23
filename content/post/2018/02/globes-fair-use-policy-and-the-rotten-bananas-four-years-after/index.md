@@ -12,6 +12,7 @@ syndicated:
 tags:
 - Tech Life
 - favorites
+- globe
 title: Globe's Fair Use Policy and the "Rotten Bananas", four years later
 type: post
 url: /2018/02/globes-fair-use-policy-and-the-rotten-bananas-four-years-after/

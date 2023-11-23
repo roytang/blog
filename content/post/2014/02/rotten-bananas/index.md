@@ -6,6 +6,10 @@ tags:
 - tech-life
 syndicated:
 - type: twitter
+  url: https://twitter.com/roytang/statuses/429598054816051200/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/431272391927668737/
+- type: twitter
   url: https://twitter.com/roytang/statuses/431561217874735105/
 - type: twitter
   url: https://twitter.com/roytang/statuses/431561280449564672/
@@ -25,6 +29,12 @@ dontinlinephotos: true
 *Archivist's note: This is an archive of social media posts about the "Rotten Bananas" incident when I had a spirited discussion with Globe over their "unlimited" data plan. The convo went a bit viral for a while. Unfortunately because @talk2globe has deleted the older tweets, I am unable to reconstruct the original thread.*
 
 <!--more-->
+---
+
+<time>[Sat, Feb. 1, 2014, 8:52 p.m.]</time> 💬 Reply to [talk2GLOBE's tweet](https://twitter.com/talk2GLOBE/statuses/429277198147538944/) ([Archive link](https://web.archive.org/web/20221120160812/https://twitter.com/talk2GLOBE/status/429277198147538944)): 
+
+[@talk2GLOBE](https://twitter.com/talk2GLOBE/) so, if only 3% of your subscribers are getting screwed, it's okay?
+
 ---
 
 <time>[Thu, Feb. 6, 2014, 11:45 a.m.]</time> 💬 Reply to [talk2GLOBE's tweet](https://twitter.com/talk2GLOBE/statuses/431253853359833088/) ([Archive link](https://web.archive.org/web/20221120161239/https://twitter.com/talk2GLOBE/status/431253853359833088)): 
