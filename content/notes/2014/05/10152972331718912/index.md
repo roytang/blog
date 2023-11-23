@@ -1,5 +1,5 @@
 ---
-date: 2014-05-20 23:29:00+08:00
+date: 2014-05-20 15:29:00
 dontinlinephotos: true
 repost_source:
   name: FEU Stolen Shots
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152972331718912
 tags:
 - fbreposts07
+- puns
 ---
 
 HAHAHAHA! LOOL See Translation

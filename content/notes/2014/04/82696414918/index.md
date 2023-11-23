@@ -6,6 +6,7 @@ syndicated:
   url: https://roytang.tumblr.com/post/82696414918/sigur-ros-haunting-rendition-of-the-rains-of
 tags:
 - video
+- gameofthrones
 ---
 
 <p>Sigur Ros&rsquo; haunting rendition of the Rains of Castamere (via <a href="http://www.youtube.com/attribution_link?a=Ek06iLNC66M&amp;u=/watch?v=w3QW8PVyyNM&amp;feature=share">http://www.youtube.com/attribution_link?a=Ek06iLNC66M&amp;u=/watch?v=w3QW8PVyyNM&amp;feature=share</a>)</p>

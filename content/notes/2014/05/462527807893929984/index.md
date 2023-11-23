@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152936008813912
 tags:
 - tv
+- parksandrec
 ---
 
 I watched four seasons of Parks and Rec this week. That season six finale was great, and apparently they're coming back for season seven!

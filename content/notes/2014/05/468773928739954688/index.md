@@ -1,5 +1,5 @@
 ---
-date: 2014-05-20 15:23:08+00:00
+date: 2014-05-20 15:23:08
 repost_source:
   name: qikipedia
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/468773928739954688/
+tags:
+- quotes
 title: ''
 ---
 

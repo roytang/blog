@@ -4,6 +4,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152893803908912
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/22u7in/philippines_is_among_the_most_racist_countries_in/cgr1e4r/
 title: ''
 ---
 

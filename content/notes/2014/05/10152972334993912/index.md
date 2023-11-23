@@ -1,5 +1,5 @@
 ---
-date: 2014-05-20 23:32:00+08:00
+date: 2014-05-20 15:32:00
 dontinlinephotos: true
 repost_source:
   name: Mimai Ong
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152972334993912
 tags:
 - fbreposts07
+- puns
 ---
 
 HAHAHA!
