@@ -26,9 +26,7 @@ Around four years ago (give or take a few days), one of my many Twitter interact
 
 The exchange went a tiny bit viral on social media, with friends telling me about people I don't know sharing the image of the conversation on Facebook and Twitter. (I'm not sure if it was the exact same image above.). Even today, if you [Google &#8216;Globe "rotten bananas"][1]&#8216; you still get [a few relevant hits.][2]
 
-I believe the CS account eventually deleted the offending tweets, I can only see [my own tweets](https://twitter.com/roytang/status/431649435047583745) on the matter:
-
-{{< note "2014/02/431649435047583745/" >}}
+I believe the CS account eventually deleted the offending tweets, I can only see [my own tweets](https://twitter.com/roytang/status/431649435047583745) on the matter. In 2023, I archived the relevant social media posts [in a backpost](/2014/02/rotten-bananas/).
 
 Today, Globe Telecom no longer offers any plans with "unlimited data", as far as I know. I feel like I can claim some nontrivial responsibility in that decision, but it doesn't seem like something to be proud of.
 
