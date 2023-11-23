@@ -5,6 +5,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154060516183912
 title: ''
+tags:
+- newshardcore
 ---
 
-[Manix Abrera's News Hardcore 239](https://shar.es/1vJ4bi)
+[Manix Abrera's News Hardcore 239](https://www.gmanetwork.com/news/opinion/newshardcore/535334/manix-abrera-s-news-hardcore-239/story/)

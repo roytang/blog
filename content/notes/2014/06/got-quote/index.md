@@ -1,8 +1,10 @@
 ---
-date: 2014-06-09T22:20:00+08:00
+date: 2014-06-09 14:20:00
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10160691482123912
+tags:
+- gameofthrones
 ---
 
 I enjoyed the scene in this week's episode where the six in the tunnel used the oath to steel their nerves (even though the tunnel was way bigger than it should have been)
