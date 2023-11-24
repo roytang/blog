@@ -1,9 +1,9 @@
 {
-  "id": "582fe573-f16d-449b-85b0-a0a3c36ecb11",
+  "id": "416f8508-5501-441d-b608-e6a2215ed262",
   "name": "Jose Marciano Patino",
   "url": "https://www.facebook.com/josemarcianopatino",
   "text": "Anong standing mo?",
-  "date": "2013-01-12 00:00:00",
+  "date": "2013-01-12 11:52:33 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152014075563912#10152014085168912",
   "source_obj": {
@@ -13,5 +13,6 @@
     "text": "Anong standing mo?",
     "attachments": [],
     "date": "Jan 12, 2013"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/290063709152362496/"
 }

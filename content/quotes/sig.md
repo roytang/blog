@@ -8,9 +8,9 @@ This is a collection of quotes that I used for my randomly-generated email signa
 
 ---
 
- I delight in my pain, and I&#x27;m shattered like your promises;
+ I delight in my pain, and I'm shattered like your promises;
 
- Though I try to be sane, I&#x27;m just shattered like, shattered like your promises...
+ Though I try to be sane, I'm just shattered like, shattered like your promises...
 
 ---
 
@@ -20,9 +20,9 @@ This is a collection of quotes that I used for my randomly-generated email signa
 
 ---
 
- How would you know if you won&#x27;t give me some time
+ How would you know if you won't give me some time
 
- To see if everything were to work out, you&#x27;d be mine
+ To see if everything were to work out, you'd be mine
 
 ---
 
@@ -60,7 +60,7 @@ Button for non-service floor does not light up.
 
 ---
 
- I don&#x27;t mind spending everyday
+ I don't mind spending everyday
 
  Out on your corner in the pouring rain
 
@@ -72,9 +72,9 @@ Button for non-service floor does not light up.
 
  If you were right and I was wrong
 
- Why are you the one who&#x27;s gone
+ Why are you the one who's gone
 
- And I&#x27;m still here?
+ And I'm still here?
 
 ---
 
@@ -84,13 +84,13 @@ Button for non-service floor does not light up.
 
  I wanna be with you forever,
 
- But tomorrow&#x27;s not too late...
+ But tomorrow's not too late...
 
 ---
 
- I&#x27;ll be true, I&#x27;ll be useful, I&#x27;ll be cavalier
+ I'll be true, I'll be useful, I'll be cavalier
 
- I&#x27;ll be yours my dear, and I&#x27;ll belong to you
+ I'll be yours my dear, and I'll belong to you
 
  If you just let me through...
 
@@ -130,9 +130,9 @@ Mess with the best, die like the rest...
 
 ---
 
-"and through it all you&#x27;d watched me go, you never even cared that I needed you..." 
+"and through it all you'd watched me go, you never even cared that I needed you..." 
 
-  -- Dan England &amp; John Ford Coley/ Who&#x27;s Lonely Now     
+  -- Dan England &amp; John Ford Coley/ Who's Lonely Now     
 
 ---
 
@@ -156,7 +156,7 @@ Try not. Do or do not. There is no try.
 
 ---
 
-Until you find something worth dying for, you&#x27;re not really living. 
+Until you find something worth dying for, you're not really living. 
 
 - Rebecca St. James
 
@@ -178,7 +178,7 @@ What we do in life, echoes through eternity.
 
 ---
 
-A wise man once said, "I don&#x27;t know." 
+A wise man once said, "I don't know." 
 
 ---
 
@@ -194,7 +194,7 @@ My software never has bugs. It just develops random features.
 
 ---
 
-"I&#x27;m sorry, our software is perfect.  The problem must be you. 
+"I'm sorry, our software is perfect.  The problem must be you. 
 
   -- Dogbert 
 
@@ -216,15 +216,15 @@ To sin by silence when they should protest makes cowards out of men.
 
 ---
 
-"The world isn&#x27;t fair, Calvin."
+"The world isn't fair, Calvin."
 
-"I know, but why it isn&#x27;t ever unfair in my favor?"
+"I know, but why it isn't ever unfair in my favor?"
 
   - in "Calvin &amp; Hobbes", by Bill Waterson
 
 ---
 
-Don&#x27;t walk behind me, I may not lead. Don&#x27;t walk in front of me, I may not follow. Just walk beside me and be my friend. 
+Don't walk behind me, I may not lead. Don't walk in front of me, I may not follow. Just walk beside me and be my friend. 
 
   - Albert Camus
 
@@ -246,7 +246,7 @@ Foolishness: "When others do a foolish thing, you should tell them it is a fooli
 
 ---
 
-"It is difficult to say what is impossible, for yesterday&#x27;s dream is today&#x27;s hope and tomorrow&#x27;s reality."
+"It is difficult to say what is impossible, for yesterday's dream is today's hope and tomorrow's reality."
 
 ---
 
@@ -268,13 +268,13 @@ My heart is saying "yes", and my mind is saying "whatever, you never listen to m
 
 ---
 
-"Sometimes I think we&#x27;re alone in the universe, and sometimes I think we&#x27;re not. In either case, the idea is quite staggering."
+"Sometimes I think we're alone in the universe, and sometimes I think we're not. In either case, the idea is quite staggering."
 
 - Arthur C Clarke 
 
 ---
 
-Have you ever been in love? Horrible isn&#x27;t it? It makes you so vulnerable. It opens your chest and it opens your heart and it means that someone can get inside you and mess you up. You build up these defenses, you build this whole suit of armor, so that nothing can hurt you, then one stupid person, no different from any other stupid person, wanders into your stupid life. You give them a piece of you. They didn&#x27;t ask for it. They do something dumb one day, like kiss you or smile at you, and then your life isn&#x27;t your own any more. Love takes hostages. It gets inside you. It eats you out and leaves you crying in the darkness, so working its way into your heart. It hurts. Not just in the imagination. not just in the mind. It&#x27;s a soul-hurt, a body-hurt, a real gets-inside-you-and-rips-you-apart pain. I hate love. 
+Have you ever been in love? Horrible isn't it? It makes you so vulnerable. It opens your chest and it opens your heart and it means that someone can get inside you and mess you up. You build up these defenses, you build this whole suit of armor, so that nothing can hurt you, then one stupid person, no different from any other stupid person, wanders into your stupid life. You give them a piece of you. They didn't ask for it. They do something dumb one day, like kiss you or smile at you, and then your life isn't your own any more. Love takes hostages. It gets inside you. It eats you out and leaves you crying in the darkness, so working its way into your heart. It hurts. Not just in the imagination. not just in the mind. It's a soul-hurt, a body-hurt, a real gets-inside-you-and-rips-you-apart pain. I hate love. 
 
 - Neil Gaiman
 
@@ -286,7 +286,7 @@ The greatest happiness of life is the conviction that we are loved - loved for o
 
 ---
 
-I&#x27;m the one that has to die when it&#x27;s time for me to die, so let me live my life, the way I want to. 
+I'm the one that has to die when it's time for me to die, so let me live my life, the way I want to. 
 
 - Jimi Hendrix 
 
@@ -308,7 +308,7 @@ Always remember that you are absolutely unique. Just like everyone else.
 
 ---
 
-Dream as if you&#x27;ll live forever. Live as if you&#x27;ll die today.
+Dream as if you'll live forever. Live as if you'll die today.
 
 - James Dean
 
@@ -394,7 +394,7 @@ It is not enough to have the courage of your convictions, you must also have the
 
 ---
 
-Paradise is not a place -- it&#x27;s a state of mind.
+Paradise is not a place -- it's a state of mind.
 
 ---
 
@@ -402,11 +402,11 @@ Opportunity may knock only once but it passes by your door every day.
 
 ---
 
-Today&#x27;s mighty oak is just yesterday&#x27;s nut that held its ground.
+Today's mighty oak is just yesterday's nut that held its ground.
 
 ---
 
-You never know when you&#x27;re making a memory.
+You never know when you're making a memory.
 
 ---
 
@@ -440,7 +440,7 @@ Holding on to anger is like grasping a hot coal with the intent of throwing it a
 
  Every night, brings a new morning.
 
- What&#x27;s important is to trust those you love, and never give up. 
+ What's important is to trust those you love, and never give up. 
 
  We must all keep hope alive..."
 
@@ -468,11 +468,11 @@ And these memories lose their meaning
 
 When I think of love as something new. 
 
-Though I know I&#x27;ll never lose affection
+Though I know I'll never lose affection
 
 For people and things that went before
 
-I know I&#x27;ll often stop and think about them
+I know I'll often stop and think about them
 
 In my life, I love you more. 
 
@@ -492,7 +492,7 @@ Talk is cheap. Shut up and dance!
 
 ---
 
-There&#x27;s gotta be something that would be worthwhile for me to give to you
+There's gotta be something that would be worthwhile for me to give to you
 
 We need a connection but you seem to push me far away from you
 
@@ -506,31 +506,31 @@ We need a connection but you seem to push me far away from you
 
 "How much longer are you willing to fight?"
 
-"I&#x27;ll fight to my last breath, until I reach my limit, until I have nothing more to give."
+"I'll fight to my last breath, until I reach my limit, until I have nothing more to give."
 
 "And after that? What then?"
 
-"I&#x27;ll fight some more."
+"I'll fight some more."
 
 ---
 
 "I want nothing more than to 
 
- Sit outside heaven&#x27;s door
+ Sit outside heaven's door
 
  And listen to you breathing
 
- It&#x27;s where I wanna be"
+ It's where I wanna be"
 
 ---
 
-"So, what&#x27;s your New Year&#x27;s resolution?"
+"So, what's your New Year's resolution?"
 
 "I resolve to live life on purpose, to take control of my fate, to seize each day as if it were my last. I will be reckless. I will be daring. I will be strong. I will challenge fate. I will defy the gods. Or I will die trying."
 
-"...Why can&#x27;t you just quit smoking or go on a diet like ordinary people?"
+"...Why can't you just quit smoking or go on a diet like ordinary people?"
 
-"It&#x27;s like you don&#x27;t know me at all. Life is too short to be ordinary."
+"It's like you don't know me at all. Life is too short to be ordinary."
 
 ---
 
@@ -600,7 +600,7 @@ The first 90% of a project takes 90% of the time. The other 10% takes another 90
 
 "Kahit na ilang ulit mo akong saktan
 
- Basta&#x27;t sa susunod ay wag mo na akong iiwan..."
+ Basta't sa susunod ay wag mo na akong iiwan..."
 
 ---
 
@@ -610,17 +610,17 @@ when in doubt, sugod
 
 Put your heart in my hands
 
-You&#x27;ll be safe here
+You'll be safe here
 
 ---
 
-"Destiny is what we work toward. The future doesn&#x27;t exist yet. Fate is for losers."
+"Destiny is what we work toward. The future doesn't exist yet. Fate is for losers."
 
   - Douglas Coupland, "Girlfriend in a Coma"
 
 ---
 
-I&#x27;m here to kick ass and chew bubblegum. And I&#x27;m all out of gum.
+I'm here to kick ass and chew bubblegum. And I'm all out of gum.
 
   - Duke Nukem
 
@@ -632,7 +632,7 @@ And I turn my back on loving you
 
 How can this love be a good thing
 
-Not knowing what I&#x27;m going through
+Not knowing what I'm going through
 
   - Three Doors Down
 
@@ -676,7 +676,7 @@ PHB: The winner!
 
 ---
 
-You&#x27;ve got a fast car
+You've got a fast car
 
 Is it fast enough so you can fly away?
 
@@ -686,9 +686,9 @@ Leave tonight or live and die this way?
 
 ---
 
-I&#x27;m stronger now, stronger now than I was before
+I'm stronger now, stronger now than I was before
 
-There&#x27;s no way you can hurt me
+There's no way you can hurt me
 
 ---
 
@@ -702,7 +702,7 @@ Ok naman ang UI natin dba? Nde naman kasing pangit ng ACTION?
 
 If you should find yourself and a friend being chased by a cheetah, you have but one hope: trip your friend
 
--Suq&#x27;ata Saying
+-Suq'ata Saying
 
 ---
 
@@ -736,17 +736,17 @@ Life is short, no regrets.
 
 Q: What did c:\DarthVader say to c:\DarthVader\LukeSkywalker?
 
-A: "Luke, I&#x27;m your folder"
+A: "Luke, I'm your folder"
 
 ---
 
 Q: They call me Hadouken, you know why?
 
-A: &#x27;Coz I&#x27;m down-right fierce.
+A: 'Coz I'm down-right fierce.
 
 ---
 
-Don&#x27;t think you are...know you are! 
+Don't think you are...know you are! 
 
 - Morpheus, "The Matrix"
 
@@ -766,7 +766,7 @@ One man can make a difference.
 
 ---
 
-Napapalingon tuwing ika&#x27;y dumadaan
+Napapalingon tuwing ika'y dumadaan
 
 Napapangiti hindi ko alam ang dahilan
 
@@ -808,17 +808,17 @@ Live as if this is all there is.
 
 ---
 
-There&#x27;s a little black spot on the sun today; That&#x27;s my soul up there
+There's a little black spot on the sun today; That's my soul up there
 
-It&#x27;s the same old thing as yesterday; That&#x27;s my soul up there
-
----
-
-Contrary to what most people would say, the most dangerous animal in the world is not the lion or the tiger or even the elephant. It&#x27;s a shark riding on an elephant&#x27;s back, just trampling and eating everything they see.
+It's the same old thing as yesterday; That's my soul up there
 
 ---
 
-I see a planet where love is foremost, where war is non-existent. A planet of peace, and a planet of understanding. I see a planet called utopia. And I see us invading that planet, because they&#x27;d never expect it.
+Contrary to what most people would say, the most dangerous animal in the world is not the lion or the tiger or even the elephant. It's a shark riding on an elephant's back, just trampling and eating everything they see.
+
+---
+
+I see a planet where love is foremost, where war is non-existent. A planet of peace, and a planet of understanding. I see a planet called utopia. And I see us invading that planet, because they'd never expect it.
 
 ---
 
@@ -838,17 +838,17 @@ What is it you need? Is it within me?
 
 ---
 
-I&#x27;ve been dreaming for so long 
+I've been dreaming for so long 
 
 To see you smile right back at me 
 
 From where you are 
 
-I&#x27;ve been wishing for so long 
+I've been wishing for so long 
 
 To see you smile right back at me 
 
-Like I&#x27;m somebody special 
+Like I'm somebody special 
 
 ---
 
@@ -906,7 +906,7 @@ Who is the happier man, he who has braved the storm of life and lived or he who 
 
 ---
 
-If you don&#x27;t know what you want, it&#x27;s probably sleep.
+If you don't know what you want, it's probably sleep.
 
 ---
 
@@ -914,11 +914,11 @@ Reaching out to you from afar
 
 Across the heavens to where you are
 
-It&#x27;s like chasing after a shooting star
+It's like chasing after a shooting star
 
 ---
 
-&lt;Raquel&gt; Sometimes the best way to figure out who you are is to get to the place where you don&#x27;t have to be anything else
+&lt;Raquel&gt; Sometimes the best way to figure out who you are is to get to the place where you don't have to be anything else
 
 ---
 
@@ -970,7 +970,7 @@ Everytime I see the shelter
 
 Everytime I walk away
 
-You&#x27;re the laughter in my silence
+You're the laughter in my silence
 
 The goal that feeds my day
 
@@ -978,7 +978,7 @@ The goal that feeds my day
 
 Vindicated, I am selfish, I am wrong;
 
-I am right, I swear I&#x27;m right, swear I knew it all along;
+I am right, I swear I'm right, swear I knew it all along;
 
 ---
 
@@ -1024,7 +1024,7 @@ na ibibigay po sana sa inyo ni ms. mayose today, she
 
 will will only be able to release it on Dec. 19-20 because 
 
-she&#x27;s tied up w/ meeting with mr. lee.
+she's tied up w/ meeting with mr. lee.
 
 [14:12]&lt;josh&gt; ok po :D
 
@@ -1070,19 +1070,19 @@ Sa oras na kailangan mo, makaaasa ka sa akin
 
 ---
 
-"[Walking through the Okinawa airport, Daniel and Miyagi find a poster advertising Sato&#x27;s karate school. The poster shows Sato breaking a log with his bare hands]
+"[Walking through the Okinawa airport, Daniel and Miyagi find a poster advertising Sato's karate school. The poster shows Sato breaking a log with his bare hands]
 
 Daniel: You think you could break a log like that?
 
-Miyagi: Don&#x27;t know. Never been attacked by a tree. " 
+Miyagi: Don't know. Never been attacked by a tree. " 
 
   -- Karate Kid II
 
 ---
 
-When I see you, I think of all that we&#x27;ve become
+When I see you, I think of all that we've become
 
-And I&#x27;m blinded, like I&#x27;m staring at the sun
+And I'm blinded, like I'm staring at the sun
 
 ---
 
@@ -1100,7 +1100,7 @@ Without fear, live your lives, let the magic turn your life around
 
 ---
 
-Some people, when confronted with a problem, think "I know, I&#x27;ll use regular expressions." Now they have two problems.
+Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems.
 
 ---
 
@@ -1114,21 +1114,21 @@ I have no rival, no man can be my equal, take me to the future of your world
 
 ---
 
-It doesn&#x27;t matter who you are underneath
+It doesn't matter who you are underneath
 
-It&#x27;s what you do that defines you
+It's what you do that defines you
 
 ---
 
 We live in the present, whether you like it or not. 
 
-Don&#x27;t think about past regrets or future worries. 
+Don't think about past regrets or future worries. 
 
-What&#x27;s important is that at the end of each day you can say to yourself, "I did a damn good job today."
+What's important is that at the end of each day you can say to yourself, "I did a damn good job today."
 
 ---
 
-One can be greater than a hundred. If it&#x27;s the right one.
+One can be greater than a hundred. If it's the right one.
 
 ---
 
@@ -1140,9 +1140,9 @@ int getRandomNumber() {
 
 ---
 
-"We&#x27;ll launch so many tasks, we&#x27;ll blot out the sun."
+"We'll launch so many tasks, we'll blot out the sun."
 
-"Then, we&#x27;ll code in the shade."
+"Then, we'll code in the shade."
 
 ---
 
@@ -1164,13 +1164,13 @@ Di mo man lang napapansin ang bagong t-shirt ko
 
 ---
 
-My new hobby: Reading people&#x27;s jabber status. 
+My new hobby: Reading people's jabber status. 
 
 Make yours interesting!
 
 ---
 
-It&#x27;s the moment of truth, it&#x27;s all on the line
+It's the moment of truth, it's all on the line
 
 This is the place, this is the time
 
@@ -1210,13 +1210,13 @@ WWBD - What would Batman do?
 
 ---
 
-If you were a robot, and I knew but you didn&#x27;t, would you want me to tell you?
+If you were a robot, and I knew but you didn't, would you want me to tell you?
 
 ---
 
 [18:31]&lt;kc&gt; hindi ba valid comment ung mukhang inverted butt crack?
 
-[18:32]&lt;stang&gt; I&#x27;m so putting that sa sig
+[18:32]&lt;stang&gt; I'm so putting that sa sig
 
 [18:33]&lt;stang&gt; I would log it as a low
 
@@ -1232,7 +1232,7 @@ The only sovereign we can allow to rule us is reason.
 
 ---
 
-Roads? Where we&#x27;re going, we don&#x27;t need roads.
+Roads? Where we're going, we don't need roads.
 
 ---
 

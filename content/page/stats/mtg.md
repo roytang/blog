@@ -35,6 +35,7 @@ toc: true
 | 2015 | [London](/2015/08/grand-prix-london-2015/) | Standard | Jeskai Tempo | 3 | 3 |
 | 2015 | [Singapore](/2015/06/gp-singapore-2015/) | Modern | Grixis Twin | 6 | 2 | 1 |
 | 2015 | [Manila](/2015/02/grand-prix-manila-2015/) | Standard | Jeskai Ascendancy | 8 | 1 | | 3 | 3 |
+| 2013 | [Singapore](/2013/01/grand-prix-singapore-2013/) | Limited | Return to Ravnica | 4 | 3 |
 | 2012 | [Manila](/2012/06/grand-prix-manila-2012/) | Standard | Homebrew Naya Pod | 7 | 2 | | 4 | 2 |
 | 2011 | [Singapore](/2011/06/grand-prix-singapore-tournament-report/) | Standard | Caw Blade | 4 | 2 | 1 |
 | 2009 | [Bangkok](/2009/08/3506936168/) | Limited | Magic 2010 | 0 | 6 |
