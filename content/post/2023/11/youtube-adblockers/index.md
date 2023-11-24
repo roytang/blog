@@ -1,10 +1,13 @@
 ---
-title: "Youtube vs Adblockers, Apps vs the Open Web"
-date: 2023-11-24T15:51:58+08:00
+date: 2023-11-24 07:51:58
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111464731725065541
 tags:
 - tech-life
 - web
-dontinlinephotos: true
+title: Youtube vs Adblockers, Apps vs the Open Web
 ---
 
 Last month, Youtube started to aggressively challenge users who had adblockers installed on their browsers, showing them a popup:
@@ -90,4 +93,3 @@ When I read this I just sighed internally and wondered if it was worth the hassl
 I guess platforms gonna platform and try to scam us out of the open web. More recent attempts to undermine the open web are [Google Chrome's switch to Manifest V3](https://developer.chrome.com/docs/extensions/mv3/intro/) which will take away the ability to use adblockers or Google's [thankfully-now-abandoned Web Environment Integrity API proposal](https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/). 
 
 I want to remain optimistic that we will always have the open web - that it is still around after all this time is a testament to the power of Tim Berners-Lee's original concept of the web as an open platform.
-
