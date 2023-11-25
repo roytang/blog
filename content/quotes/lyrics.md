@@ -291,13 +291,13 @@ Watched the floor as you retreated;
 
 ---
 
-Every time I see the shelter
+But every time I see the shelter
 
-Every time I walk away
+And every time I walk away
 
 You're the laughter in my silence
 
-The goal that feeds my day
+The cold that feeds my day
 
 ---
 

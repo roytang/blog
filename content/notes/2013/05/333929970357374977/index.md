@@ -11,4 +11,4 @@ syndicated:
 title: ''
 ---
 
-Not gonna eat at Causeway Seafood Restaurant again. Sabi ng manager sa Libis branch, "Pangit pala service, ba't di kayo umalis."
+Not gonna eat at Causeway Seafood Restaurant again. Sabi ng manager sa Libis branch, "Pangit pala service, ba't di kayo umalis." 
