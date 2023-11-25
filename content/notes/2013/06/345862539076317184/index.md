@@ -1,9 +1,13 @@
 ---
-date: 2013-06-15 11:17:09+00:00
+date: 2013-06-15 10:37:08+00:00
 source: twitter
 syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/345852468900556800/
 - type: twitter
   url: https://twitter.com/roytang/statuses/345862539076317184/
 ---
 
-Ok to be fair, The Rock and Con Air were two of the best Nic Cage movies
+The Rock on HBO and Con Air on Star movies... Too much Nic Cage?
+
+<time>[19:17]</time> Ok to be fair, The Rock and Con Air were two of the best Nic Cage movies
