@@ -7,6 +7,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/309815501998149633/
 title: ''
+tags:
+- zenpencils
 ---
 
 63. CARL SAGAN: Books are awesome  

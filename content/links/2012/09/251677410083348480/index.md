@@ -12,6 +12,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/402411103159539
 title: ''
+tags:
+- zenpencils
 ---
 
 Don't ask yourself what the world needs:

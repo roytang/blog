@@ -8,4 +8,6 @@ link:
 slug: 151-ultimate-warrior-legacy
 source: pocket
 title: '151. ULTIMATE WARRIOR: Legacy'
+tags:
+- zenpencils
 ---

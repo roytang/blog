@@ -1,5 +1,5 @@
 {
-  "id": "573b4e3f-0305-4a09-80b7-3edd27905ae7",
+  "id": "f89ec3b6-d87f-41bc-a503-2d9b863cf39d",
   "name": "Roy Tang",
   "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "Parang mababa pa ito. Yung highest achievement nung app is 300 pts",
@@ -7,5 +7,6 @@
   "photo": "",
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/491690037558851#491695134225008",
   "source": "facebook",
-  "spam": false
+  "spam": false,
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/491690037558851"
 }

@@ -13,3 +13,16 @@ tags:
 ---
 
 I'm at Murphy's Irish Pub http://4sq.com/ZkH5xv
+
+We scored 73/110, lowest category was 5pts. Finished 5th place.
+
+Categories:
+
+-	company brands and logos
+-	colors
+-	jobs and careers
+-	celebrities when they're old
+-	literature
+-	music videos
+-	history
+-	sports pic quiz

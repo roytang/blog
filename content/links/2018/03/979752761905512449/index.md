@@ -12,6 +12,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156537950263912
 title: ''
+tags:
+- zenpencils
 ---
 
 50. NEIL GAIMAN: Make good art

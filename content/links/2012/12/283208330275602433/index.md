@@ -10,6 +10,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/283208330275602433/
 title: ''
+tags:
+- zenpencils
 ---
 
 90: IRA GLASS: Advice for beginners

@@ -7,6 +7,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/376659173242441728/
 title: ''
+tags:
+- zenpencils
 ---
 
 One could only wish to be as talented as Bill Watterson
