@@ -6,12 +6,18 @@ tags:
 - limited
 - magicarena
 - limitedrecap
-title: My Midnight Hunt Limited Recap
+- setrecap
+title: "My Innistrad: Midnight Hunt Limited Recap"
+dontinlinephotos: true
 ---
 
 *(Note: This post was written March 21st, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [MTGMidnight](/tags/mtgmidnight) post)*
 
-Midnight Hunt limited stats!
+This is my set recap for Innistrad: Midnight Hunt
+
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -51,7 +57,7 @@ Midnight Hunt limited stats!
 | 0-x | 0 |
 
 
-Notes:
+### Limited Notes:
 
 - I didn't have a lot of time with Midnight Hunt because [I had to stay in the hospital for a while](/2021/10/covid-experience/), so maybe these stats are less statistically significant than for other sets
 - no splashes!
@@ -68,4 +74,23 @@ Notes:
 
 Not a lot of insights, mostly because I'm doing this post from the future and not a lot of it is fresh for me.
 
-Related: [Innistrad Midnight Hunt Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXieJN9NfT6l81avhvRedw7K), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x drafts
+
+{{% photos trophy %}}
+
+### Magic Arena Stats
+
+<time>[Fri, Nov. 12, 2021, 4:26 p.m.]</time> Got my #mtgarenastats email for Midnight Hunt! I missed 3 weeks of play so I didn't even complete the mastery, but 94 boosters opened is pretty good considering I had 120+ opened for KHM and STX 
+
+#magicarena #mtgmidnight 
+
+{{% photos arenastats %}}
+
+<time>[16:26]</time> (and I didn't get a stats email for AFR for some reason...)
+
+Also, this stats email didn't give me the "most drafted commons / uncommons" stat, is it because I didn't draft as much this time?
+
+### Related
+
+- [Innistrad Midnight Hunt Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXieJN9NfT6l81avhvRedw7K)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)

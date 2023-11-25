@@ -68,7 +68,7 @@ Visit the [Links page](/links/) for more links of interest.
     - I was a bit envious of one of my friends who was playing a JRPG, so I decided to start **Tales of Symphonia** on Steam (also as a proxy so I'm not tempted to by **Tales of Arise**). I have an ongoing game on the PS3, but I haven't touched that in a while, and Steam is so much more convenient.
     - Also bought **Children of Morta** the other week while it was on sale. Actually only got it because a friend thought we could coop online (seems it's local coop only), but decided to keep it anyway, looks neat.
     - Daily fighting games ongoing on weeknights: **Guilty Gear Strive** and **Street Fighter V**! Managed to [get back into Silver League with Birdie](/2021/09/1437762927289720837/)!
-    - New set [Innistrad Midnight Hunt](/tags/mtgmidnight) has dropped on Magic Arena! I've only [done a sealed so far](/2021/09/1438822790975483908/), will probably start drafting and streaming this coming week.
+    - New set [Innistrad Midnight Hunt](/tags/mtgmidnight) has dropped on Magic Arena! I've only [done a sealed so far](/2021/10/mtgmidnight-limited-recap/#comment-dbe06c93-e3bc-4cce-918b-e09e43b24166), will probably start drafting and streaming this coming week.
 - **Reading**: I started reading **Three Body Problem by Liu Cixin**. Pretty good so far.
 - No quiz nights still; trivia group still doing many crosswords via Discord streams.
 

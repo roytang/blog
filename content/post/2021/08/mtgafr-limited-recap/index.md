@@ -3,7 +3,7 @@ title: "My Adventures in the Forgotten Realms Limited Recap"
 date: 2021-08-10
 tags:
 - mtg
-- mtgmidnight
+- mtgafr
 - limited
 - magicarena
 - limitedrecap
