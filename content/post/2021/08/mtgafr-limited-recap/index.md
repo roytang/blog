@@ -7,11 +7,17 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- setrecap
+dontinlinephotos: true
 ---
 
 *(Note: This post was written March 28th, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [MTGAFR](/tags/mtgafr) post)*
 
-Adventures in the Forgotten Realms limited stats!
+This is set recap for Adventures in the Forgotten Realms!
+
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -55,8 +61,7 @@ Adventures in the Forgotten Realms limited stats!
 | 1-x | 3 |
 | 0-x | 1 |
 
-
-Notes:
+### Limited Notes
 
 - by Main Color:
     - Winningest archetypes were BW and UB, but low sample size (1 event each), while BR was the most played with 6 events and win rate closer to my average
@@ -66,4 +71,11 @@ Notes:
 
 Not a lot of insights, mostly because I'm doing this post from the future and not a lot of it is fresh for me.
 
-Related: [Adventures in the Forgotten Realms Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgMQw7q6DyiSQxDH5FDS33r), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x Drafts
+
+{{% photos trophy %}}
+
+### Related 
+
+- [Adventures in the Forgotten Realms Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgMQw7q6DyiSQxDH5FDS33r)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
