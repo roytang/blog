@@ -1,6 +1,9 @@
 ---
-date: 2023-11-26T13:34:20+08:00
+date: 2023-11-26 05:34:20
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111476033260188535
 tags:
 - weeknotes
 title: 2023 Week 47
