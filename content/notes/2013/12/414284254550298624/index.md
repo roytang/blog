@@ -1,5 +1,5 @@
 ---
-date: 2013-12-21 06:40:37+00:00
+date: 2013-12-21 06:40:37
 dontinlinephotos: true
 repost_source:
   name: Jimparedes
@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/414284254550298624/
 tags:
 - Jimparedes
+- puns
 ---
 
 Tandaan. 

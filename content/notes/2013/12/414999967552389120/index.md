@@ -9,6 +9,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/414999967552389120/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/415000266958598144/
 ---
 
 @lizbethjane crap nde natin chineck yung date lol. Murphys bukas?
+
+@lizbethjane ask someone in makati to claim the bottle of win na lang

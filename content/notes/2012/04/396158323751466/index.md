@@ -5,6 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/396158323751466
+- type: twitter
+  url: https://twitter.com/roytang/statuses/195136156818612224/
 ---
 
 For those who aren't able to watch Avengers today, I give you: Avengers 1978: 

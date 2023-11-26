@@ -5,8 +5,11 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/143972542400600
+- type: twitter
+  url: https://twitter.com/roytang/statuses/197323485771608064/
 tags:
-- '3'
+- trailers
+- movies
 ---
 
 TDKR Trailer #3: 

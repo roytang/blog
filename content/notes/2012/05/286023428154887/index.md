@@ -5,6 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/286023428154887
+- type: twitter
+  url: https://twitter.com/roytang/statuses/198397575156609024/
 ---
 
 What? The Avengers US showing had an extra post-credits scene?!?  
