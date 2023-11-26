@@ -9783,3 +9783,9 @@ ___
 anyway, if i havent given you this advice before: you dont have to feel guilty for choosing yourself over work. real friends will understand
 
 ___
+
+### 1425
+
+"Don't spend ~1 hour trying to solve something that your mentor might be able to answer in 5 mins." - stang, 2009
+
+___

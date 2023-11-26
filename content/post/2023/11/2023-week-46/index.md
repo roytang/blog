@@ -62,4 +62,4 @@ During recent weeks, I have found myself recently thinking about whether I shoul
 
 ### Things I'm looking forward to
 
-I think my calender is mostly clear, so I plan to use the week to catch up on things I have fallen behind on, maybe try to stream some drafts again. The trivia team is attending another quiz night, but the categories aren't great for me, so I passed on this one.
+I think my calendar is mostly clear, so I plan to use the week to catch up on things I have fallen behind on, maybe try to stream some drafts again. The trivia team is attending another quiz night, but the categories aren't great for me, so I passed on this one.

@@ -1,5 +1,8 @@
 ---
 date: 2023-11-11 06:50:14
+resources:
+- src: marvels_tix.jpg
+  title: Our complimentary tickets (raffle stubs removed)
 reviews:
 - description: Completes and brings S1 full circle
   hashtag: loki-s2
