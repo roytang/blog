@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/66633145553911808/
 - type: plurk
   url: https://plurk.com/p/c2a77e
+tags:
+- ipad
 ---
 
 Apparently restoring the iPad from backup doesn't include music or books. Sigh.
