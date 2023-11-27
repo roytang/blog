@@ -1,4 +1,5 @@
 ---
+dontinlinephotos: true
 title: "My Strixhaven Limited Recap"
 date: 2021-05-23
 tags:
@@ -7,11 +8,14 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 ---
 
 *(Note: This post was written March 28th, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [mtgstrixhaven](/tags/mtgstrixhaven) post)*
 
-Strixhaven limited stats!
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -53,8 +57,7 @@ Strixhaven limited stats!
 | 1-x | 4 |
 | 0-x | 1 |
 
-
-Notes:
+### Limited Notes
 
 - I remember Strixhaven to be quite a fun draft format, probably because it was so easy to splash things. More than half of the events I had splash additional colors!
 - by Main Color:
@@ -67,4 +70,33 @@ Notes:
 
 Not a lot of insights, mostly because I'm doing this post from the future and not a lot of it is fresh for me.
 
-Related: [Adventures in the Forgotten Realms Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXi2a8ti2BKbg3i7YXinbxBZ), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+<time>[Sat, May 22, 2021, 7:34 p.m.]</time>I actually posted a note on my STX stats, which predates my current limited stats spreadsheet!
+
+Just based on my public drafts, my Strixhaven limited win/loss record is at 54%
+
+{{% photos stx_stats %}}
+
+I actually started checking this because [this reddit thread](https://www.reddit.com/r/spikes/comments/ni948c/in_less_than_24_hours_strixhaven_draft_challenge/) claimed that if your win% is at least 56% then the upcoming draft challenge should be profitable, so I just miss that threshold lol. Area for improvement!
+
+### 7-x Drafts
+
+{{% photos trophy %}}
+
+### Arena Open
+
+Threw some gems away again on this month's #magicarena #mtgstrixhaven sealed open, ended up playing Silverquill splashing red since I had Professor Onyx and Lukka.
+
+See how it turned out: https://www.youtube.com/watch?v=4B9Do6_8YME
+
+{{% photos open %}}
+
+### Magic Arena Stats
+
+<time>[Sat, July 10, 2021, 5:41 a.m.]</time> Final #mtgstrixhaven stats on #MagicArena. I'm glad they send out these summaries. Looks like I haven't managed to hit mythic since Kalhdeim. The limited format was pretty fun though. #MTGArenaStats
+
+{{% photos arenastats %}}
+
+### Related
+
+- [Adventures in the Forgotten Realms Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXi2a8ti2BKbg3i7YXinbxBZ)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
