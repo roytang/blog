@@ -10,6 +10,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/278825871954038784/
+- type: twitter
+  url: https://twitter.com/roytang/status/278827559003750400/
 tags:
 - jhayDreamer
 - cesdrilon
@@ -17,3 +19,5 @@ tags:
 ---
 
 [@jhayDreamer](https://twitter.com/jhayDreamer/) [@cesdrilon](https://twitter.com/cesdrilon/) [@ayeemacaraig](https://twitter.com/ayeemacaraig/) it takes them solon to vote
+
+[@jhayDreamer](https://twitter.com/jhayDreamer/) sorry, did i steal your punchline lol

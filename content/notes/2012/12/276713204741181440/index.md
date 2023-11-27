@@ -7,6 +7,22 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/276713204741181440/
+tags:
+- food
+- quiznight
 ---
 
 Lasagna at amicis! [@sephriano](https://twitter.com/sephriano/) dapat sumama ka meron kaming namiss na soccer q lol
+
+Categories for this quiz night were:
+
+- movie remakes
+- animals
+- last lines of books
+- events that happened in 2012
+- doctor who
+- sound of music
+- old school cartoons (visual)
+- concerts (audio)
+
+We were 5th out of 7 teams with 54pts. First place was at 71pts

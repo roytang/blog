@@ -6,7 +6,7 @@ tags:
 - philippines
 - duterte
 - marcos
-- backposts
+- backpost
 - marcosnotahero
 - neverforget
 - dontinlinephotos

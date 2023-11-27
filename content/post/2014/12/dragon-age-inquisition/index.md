@@ -65,7 +65,7 @@ tags:
 - gaming
 - spoiler-free-review
 - games
-- backposts
+- backpost
 - PS4Share
 - dragonage
 title: Dragon Age Inquisition
