@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/34766467597606912/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/140526869343668
+tags:
+- quotes
 ---
 
 ‎"Be ashamed to die until you have won some victory for humanity." -Horace Mann

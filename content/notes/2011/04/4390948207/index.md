@@ -11,6 +11,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/4390948207/chry-dont-suddenly-paste-links-to-hilarious
 - type: twitter
   url: https://twitter.com/roytang/statuses/55641114664902656/
+tags:
+- puns
 ---
 
 <p>[chry] don&rsquo;t suddenly paste links to hilarious pics for me to impulsively click on to view!</p>

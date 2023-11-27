@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/110026665742375
 - type: plurk
   url: https://plurk.com/p/an8s93
+tags:
+- ipad
 ---
 
 Wow I somehow managed to fill up the iPad's 64 gigs
