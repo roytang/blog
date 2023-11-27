@@ -17,3 +17,16 @@ tags:
 ---
 
 I'm at Quantum Cafe (Makati City, Metro Manila) http://4sq.com/Rm8nTp
+
+This was [Committee GeekFight 33: All the World's a Stage!](https://www.facebook.com/events/290693561045060/)
+
+- FILM ACTORS
+- THEATER
+- OFFSTAGE MUSICALS (i.e., TV shows and movies)
+- VOICE TALENTS
+- COSPLAY AND COSTUMING
+- SPIES
+- WESTERN CRPGs (i.e., the Baldur's Gate franchise)
+- JRPGs (i.e., the Final Fantasy franchise)
+
+We finished 3rd place.

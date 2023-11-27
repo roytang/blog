@@ -98,5 +98,5 @@ See how it turned out: https://www.youtube.com/watch?v=4B9Do6_8YME
 
 ### Related
 
-- [Adventures in the Forgotten Realms Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXi2a8ti2BKbg3i7YXinbxBZ)
+- [Strixhaven Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXi2a8ti2BKbg3i7YXinbxBZ)
 - [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)

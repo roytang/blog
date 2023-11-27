@@ -1,11 +1,12 @@
 {
-  "id": "f21b0474-81c6-4a8e-9486-400a75d61d9e",
+  "id": "7ed7b163-59b6-400e-b440-4ac9b7e2e8b6",
   "name": "David Ramirez",
   "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "=)",
-  "date": "2012-10-06 00:00:00 +0800",
+  "date": "2012-10-06 12:03:59 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10151874599768912#10151874611013912",
   "source": "facebook",
-  "spam": false
+  "spam": false,
+  "reply_to": "https://twitter.com/roytang/statuses/254552575934881792/"
 }

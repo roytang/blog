@@ -1,5 +1,5 @@
 ---
-date: 2012-11-03 00:38:47+00:00
+date: 2012-11-03 00:38:47
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/264527317412487168/
 - type: twitter
   url: https://twitter.com/roytang/statuses/264562549675143168/
+tags:
+- mtg
+- mtgo
 title: ''
 ---
 
