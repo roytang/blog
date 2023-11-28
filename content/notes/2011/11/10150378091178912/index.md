@@ -7,6 +7,19 @@ syndicated:
 tags:
 - quiznight
 - geekfight
+location: 4c9a063b9c663704bed754fd
 ---
 
 Tonight's GeekFight! Trivia Night result: Team Camote ties for first (!) but their brave champion fails to win the tiebreaker.
+
+This was Committee [GeekFight XIX: Title Pending](https://www.facebook.com/events/806236202801052/)
+
+- GLEE
+- HISTORY ACCORDING TO DOCTOR WHO
+- LOONEY TUNES/MERRIE MELODIES
+- ASIAN DRAMA
+- MENTORS
+- FRIENDS (the TV show)
+- WARHAMMER 40,000
+- UNICORNS AND RAINBOWS
+

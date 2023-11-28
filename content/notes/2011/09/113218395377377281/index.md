@@ -14,3 +14,5 @@ tags:
 ---
 
 I'm at Last Home (Unit 06, Madison Square Pioneer, No. 04 Pioneer St, Mandaluyong City) http://4sq.com/nwYxof
+
+This was [Geekfight Classic: What Is This I Don't Even](https://www.facebook.com/events/871435322895538/). We finished 4th out of 6 teams.

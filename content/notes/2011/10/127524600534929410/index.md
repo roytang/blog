@@ -15,3 +15,5 @@ tags:
 My first innistrad draft: https://i.imgur.com/wKYc5.jpg
 
 <time>[07:55]</time> Sigh, I often lose to poor keeps
+
+{{% photos wKYc5 %}}

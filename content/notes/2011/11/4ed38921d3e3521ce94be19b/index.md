@@ -12,3 +12,7 @@ tags:
 ---
 
 (@Last Home Unit 175 Building C Ortigas Home Depot Julia Vargas Ave Cor Meralco Ave)
+
+This was [Geekfight Classic: Career Day](https://www.facebook.com/events/801340323284980/)
+
+I think we finished 4th.

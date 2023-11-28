@@ -1,5 +1,5 @@
 ---
-date: 2011-09-07 16:34:46+00:00
+date: 2011-09-07 16:34:46
 dontinlinephotos: true
 source: twitter
 syndicated:
@@ -8,6 +8,7 @@ syndicated:
 tags:
 - maro254
 - Jonnymagic00
+- mtg
 ---
 
 There's really only one way for [@maro254](https://twitter.com/maro254/)  and [@Jonnymagic00](https://twitter.com/Jonnymagic00/) to settle this: one round of Minimasters, winner take all.
