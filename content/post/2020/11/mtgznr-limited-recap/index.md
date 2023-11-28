@@ -7,11 +7,15 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
+dontinlinephotos: true
 ---
 
 *(Note: This post was written April 15th, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [Zendikar Rising](/tags/mtgznr) post)*
 
-Zendikar Rising limited stats!
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -51,10 +55,17 @@ Zendikar Rising limited stats!
 | 1-x | 4 |
 | 0-x | 0 |
 
-
-Notes:
+### Limited Notes
 
 - No Quick Drafts here, so I would guess this was the last set before QDs were introduced. I tried the rare Traditional (BO3) draft here, which ended terribly.
 - Most played archetype was WU Party, but apparently not the winningest one!
+- This set also had a promo where you can collect full-art Zendikar lands for each draft you participated in
 
-Related: [Zendikar Rising Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXix6QfgYJ6aHPqwH3ASA7Nr), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x Drafts
+
+{{% photos trophy %}}
+
+### Related
+
+- [Zendikar Rising Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXix6QfgYJ6aHPqwH3ASA7Nr)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
