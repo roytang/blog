@@ -10,6 +10,7 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/4e4e5d1baeb70f12849049dc
 tags:
 - geekfight
+- quiznight
 ---
 
 I'm at Quantum Cafe w/ [@karlocatapang](https://twitter.com/karlocatapang/) http://4sq.com/nzahmx

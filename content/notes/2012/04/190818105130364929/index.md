@@ -2,9 +2,6 @@
 checkin_id: 4f8826d4e4b0abaa016d4756
 date: 2012-04-13 13:15:00
 location: 4c9a063b9c663704bed754fd
-resources:
-- src: 531288_10150700219793067_1271047049_n.jpg
-  title: Photo c/o GeekFight! Trivia Night
 source: twitter
 syndicated:
 - type: twitter
@@ -37,3 +34,5 @@ Today's Geekfight results:
 First place at half-time with 33 points!
 
 Final score: 64 (by our count...63 lang sa kanila, nde na namin cinontest), tied for 3rd place
+
+Photos c/o GeekFight! Trivia Night

@@ -15,6 +15,12 @@ url: /2011/06/x-men-green-lantern-and-a-little-bit-of-batman/
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/84274605216382976/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/82067425167806466/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/82680072879869952/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/82967835080527872/
 reviews:
 - media: movies
   title: "X-Men: First Class"
@@ -38,9 +44,13 @@ At some level though I've started thinking that being a big comic book fan is ac
 
 I may have subconsciously delayed watching X1C because one of my brothers had watched it while I was in Singapore and didn't really give the gushing review "regular" people had given. And GL wasn't getting such rave reviews on opening weekend either and there were rumors that even the studio was not confident in the movie. So I came into both movies with a bit of lowered expectations.
 
+---
+
 ### X-Men First Class
 
 My quick reviews of the two movies first then: X1C was fun and it was nice seeing an entirely new crew of mutants (more or less). I can forgive the ridiculous recruitment and training montages (and lol'ed at the cameo). It looks they didn't bother keeping in continuity with the first trilogy and Wolverine: Origins, which is fine since Wolverine: Origins was ridiculous anyway. The ending felt a bit contrived in the same way that the ending of Smallville and Wolverine: Origins did -- mainly because they need to wrap up things to sync with whatever "continuity" they're supposed to have. The movie feels a bit campy at times and it's far from the "Dark Knight of X-Men" that some reviews made it out to be, but still a good watch.
+
+---
 
 ### Green Lantern
 
@@ -48,9 +58,21 @@ Green Lantern was fun as well, though the writing left a bit to be desired for m
 
 Maybe I was just spoiled by Nolan, but Batman Begins set a new height for me in terms of superhero origin movies, and the latest set have yet to reach that bar.
 
+#### Social Media Archive
+
+<time>[2011-06-18 20:49] </time> Apparently Green Lantern has terrible reviews. 27% on Rotten Tomatoes. Boo!
+
+<time>[2011-06-20 13:24] </time> (on the way to watch green lantern) PL: oh, is it based on a comic book?
+
+<time>[2011-06-21 08:27] </time> Green lantern was ok, slightly underwhelming compared to say, thor, but passable. Wriing at some pts reminded me of smallville (not good :p)
+
+---
+
 ### Batman: Under the Red Hood
 
 Speaking of Batman I've also just finished watching the DC straight to video animated feature "Under the Red Hood" which covers the death and resurrection of Jason Todd (duh, spoilers) and to be honest I found the climactic scene more well-written than the above two movies. But then again Under the Red Hood follows the comic book story arc more closely so I guess it's closer to the type of stories I enjoy on a regular basis. In fact I find that the DC animated film line to be pretty good; not something I'd watch in a cinema or anything but enjoyable enough.
+
+---
 
 ### Ramblings
 

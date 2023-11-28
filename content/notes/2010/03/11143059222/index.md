@@ -1,5 +1,8 @@
 ---
 date: 2010-03-27 13:17:34
+resources:
+- src: 25766_384157697421_5872029_n.jpg
+  title: Photo c/o Neutral Grounds Philippines
 source: twitter
 syndicated:
 - type: twitter
