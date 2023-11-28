@@ -1,10 +1,13 @@
 ---
 date: 2023-11-28 02:31:54
+dontinlinephotos: true
 resources:
 - src: IMG_1488.png
-  title: 'My everyday carry stuff'
+  title: My everyday carry stuff
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111485910255220533
 title: Everyday Carry
-dontinlinephotos: true
 ---
 
 Cleaned out my sling bag today, so I thought I'd do an "Everyday Carry" post.
