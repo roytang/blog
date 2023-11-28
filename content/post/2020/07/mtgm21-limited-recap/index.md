@@ -7,11 +7,15 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
+dontinlinephotos: true
 ---
 
 *(Note: This post was written April 15th, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [M21](/tags/m21) post)*
 
-Magic 2021 limited stats!
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -53,8 +57,15 @@ Magic 2021 limited stats!
 | 0-x | 1 |
 
 
-Notes:
+### Limited Notes
 
 - Not a lot of drafts played.
 
-Related: [M21 Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiz0shcCJgV1YTP5emzWgr4), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x Drafts
+
+{{% photos trophy %%}}
+
+### Related 
+
+- [M21 Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiz0shcCJgV1YTP5emzWgr4)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
