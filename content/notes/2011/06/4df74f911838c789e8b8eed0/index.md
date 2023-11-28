@@ -11,3 +11,5 @@ tags:
 ---
 
 (@Murphy's Ground Flr Citiland III Bldg)
+
+We went to quiz night but there were only six of us: Ryan, Chry, me, Josiah, his brother and Paul. We did reasonably well, landing middle of the pack as usual. We probably would have bolstered a bit by Jaime in the sports gear section, but not by much. Also, I love it that my Hardy Boys knowledge came into play last night when I knew about Iceboats because it was mentioned in "Mystery of Cabin Island"!

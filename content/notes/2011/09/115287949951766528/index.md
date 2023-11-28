@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/115287949951766528/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/115290876917456896/
+tags:
+- duels2012
 ---
 
 For the price of an MTGO draft, I could have Duels 2012 + expansion on Steam. Both offer limited card sets, but one provides unlimited play.

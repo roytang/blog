@@ -4,6 +4,8 @@ source: plurk
 syndicated:
 - type: plurk
   url: https://plurk.com/p/coybyg
+tags:
+- duels2012
 ---
 
 Anyone here got DotP 2012 on Steam? Hit me up: My steam id is hungryroy
