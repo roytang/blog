@@ -1,5 +1,6 @@
 ---
-date: 2023-11-29 23:05:58+08:00
+date: 2023-11-29 15:05:58
+dontinlinephotos: true
 resources:
 - src: 00_ddv2_062.PNG
   title: 'Daredevil v2 #62: Alex Maleev cover'
@@ -13,6 +14,50 @@ resources:
   title: 'Shadowland: Power Man #3: Ancient ninja secret'
 - src: IMG_1483.PNG
   title: 'Shadowland: Power Man #3: Refresh browser history'
+reviews:
+- description: ''
+  hashtag: daredevil-v1
+  media: comics
+  title: Daredevil v1
+- description: Bendis, Brubaker
+  hashtag: daredevil-v2
+  media: comics
+  title: Daredevil v2
+- description: Shadowland crossover
+  hashtag: shadowland
+  media: comics
+  title: Shadowland
+- description: ''
+  hashtag: daredevil-reborn
+  media: comics
+  title: Daredevil Reborn
+- description: Mark Waid's first Daredevil volume.
+  hashtag: daredevil-v3
+  media: comics
+  title: Daredevil v3
+- description: Mark Waid's second Daredevil volume.
+  hashtag: daredevil-v4
+  media: comics
+  title: Daredevil v4
+- description: Charles Soule's Daredevil volume
+  hashtag: daredevil-v5-and-v6
+  media: comics
+  title: Daredevil v5 and v6
+- description: Chip Zdarsky's first Daredevil volume.
+  hashtag: daredevil-v7
+  media: comics
+  title: Daredevil v7
+- description: Devil's Reign event
+  hashtag: devils-reign
+  media: comics
+  title: Devil's Reign
+- description: Chip Zdarsky's second Daredevil volume.
+  hashtag: daredevil-v8
+  media: comics
+  title: Daredevil v8
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111494575329517674
 tags:
 - comics
 - complete-marvel-run
@@ -20,48 +65,6 @@ tags:
 - marvel
 title: 'The Complete Marvel Run part 6: Daredevil'
 toc: true
-dontinlinephotos: true
-reviews:
-- hashtag: daredevil-v1
-  description: ''
-  media: comics
-  title: 'Daredevil v1'
-- hashtag: daredevil-v2
-  description: 'Bendis, Brubaker'
-  media: comics
-  title: 'Daredevil v2'
-- hashtag: shadowland
-  description: 'Shadowland crossover'
-  media: comics
-  title: 'Shadowland'
-- hashtag: daredevil-reborn
-  description: ''
-  media: comics
-  title: 'Daredevil Reborn'
-- hashtag: daredevil-v3
-  description: "Mark Waid's first Daredevil volume."
-  media: comics
-  title: 'Daredevil v3'
-- hashtag: daredevil-v4
-  description: "Mark Waid's second Daredevil volume."
-  media: comics
-  title: 'Daredevil v4'
-- hashtag: daredevil-v5-and-v6
-  description: "Charles Soule's Daredevil volume"
-  media: comics
-  title: 'Daredevil v5 and v6'
-- hashtag: daredevil-v7
-  description: "Chip Zdarsky's first Daredevil volume."
-  media: comics
-  title: 'Daredevil v7'
-- hashtag: devils-reign
-  description: "Devil's Reign event"
-  media: comics
-  title: "Devil's Reign"
-- hashtag: daredevil-v8
-  description: "Chip Zdarsky's second Daredevil volume."
-  media: comics
-  title: 'Daredevil v8'
 ---
 
 ### Previously
