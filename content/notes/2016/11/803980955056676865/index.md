@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/803980976116203520/  
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155133376588912
+- type: reddit
+  url: https://www.reddit.com/r/Philippines/comments/5fq4af/many_times_its_a_struggle_between_a_trying_to/
 ---
 
 Many times it's a struggle between (a) trying to reach out to and understand people who hold different views; and (b) holding back because you don't feel like you can have a productive conversation with such people. How can we breach the divide?
