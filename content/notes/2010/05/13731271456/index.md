@@ -1,5 +1,5 @@
 ---
-date: 2010-05-10 15:05:43+00:00
+date: 2010-05-10 15:05:43
 repost_source:
   name: digitalfilipino
   type: twitter
@@ -13,6 +13,7 @@ tags:
 - purplethumb
 - juanvote
 - halalan
+- halalan2010
 title: ''
 ---
 

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/13418934989/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/116483445051949
+tags:
+- halalan2010
 ---
 
 I assume the best of people so I pretend that Comelec/Smartmatic are merely incompetent instead of deliberately sabotaging the elections

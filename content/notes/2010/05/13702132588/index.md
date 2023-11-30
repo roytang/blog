@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/125237554154453
 tags:
 - halalan
+- halalan2010
 ---
 
 RT [@brainbeam](https://twitter.com/brainbeam/) Sacrifice for love of country. No breakfast, extreme heat and exhaustion. Bansang Pilipinas, ganyan ka namin kamahal. #halalan

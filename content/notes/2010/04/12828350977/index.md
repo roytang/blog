@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/12828350977/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/116617275029669
+tags:
+- ipad
 ---
 
 having an ipad would be really handy for reading onemanga.com

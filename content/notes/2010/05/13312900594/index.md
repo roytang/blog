@@ -1,5 +1,5 @@
 ---
-date: 2010-05-03 16:06:00+00:00
+date: 2010-05-03 16:06:00
 source: twitter
 syndicated:
 - type: twitter
@@ -11,7 +11,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/13308692809/
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/123163401028086  
+  url: https://www.facebook.com/stephen.roy.tang/posts/123163401028086
+tags:
+- halalan2010
 title: ''
 ---
 

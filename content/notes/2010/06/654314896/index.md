@@ -6,6 +6,7 @@ syndicated:
   url: https://roytang.tumblr.com/post/654314896/leilana-i-saw-you-sten-what-leilana
 tags:
 - quotes
+- dragonage
 ---
 
 <blockquote>Leilana: I saw you.<br/>

@@ -8,7 +8,13 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/4bd80089a4de2f5e5c4463bd
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/384159363911
+- type: twitter
+  url: https://twitter.com/roytang/statuses/12997230038/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/122784041069380
 tags: []
 ---
 
 (@Strata 2000 F Ortigas Jr Rd Ortigas Center)
+
+I'm at Strata 2000 (Emerald Avenue, Ortigas Center, Pasig City). http://4sq.com/cCiWtT

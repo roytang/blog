@@ -1,5 +1,5 @@
 ---
-date: 2010-05-14 04:24:25+00:00
+date: 2010-05-14 04:24:25
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/126499734033666
 tags:
 - halalan
+- halalan2010
 ---
 
 Nanaginip? 'Perlas, with 49,174 votes said that he was expecting “at least a few million” votes' https://news.abs-cbn.com/nation/05/14/10/surprise-jamby-says-villar-was-cheated #halalan

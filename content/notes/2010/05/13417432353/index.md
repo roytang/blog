@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/13417432353/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/104786986232309
+tags:
+- halalan2010
 ---
 
 if any candidate comes up with a reasonable way to solve the problem of illegally posted campaign materials, he automatically gets my vote

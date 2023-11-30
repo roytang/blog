@@ -12,6 +12,7 @@ syndicated:
 tags:
 - gaming
 - games
+- dragonage
 ---
 
 Finished Dragon Age: Origins!

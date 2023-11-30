@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/13677523320/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/124113570939077
+tags:
+- halalan2010
 ---
 
 The Comelec's precinct finder broke down. Too many people checking their precincts at the last minute? http://tweetphoto.com/21754930

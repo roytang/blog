@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/120229381331415
 tags:
 - halalan
+- halalan2010
 ---
 
 RT [@kerwintang](https://twitter.com/kerwintang/): manny villar, you may have lost the presidential elections, but your song will remain forever in our minds #halalan

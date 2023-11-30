@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/13731132640/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/118168701547484
+tags:
+- halalan2010
 ---
 
 RT @reypinmoko: Panginoong mahabagin, baka naman puwedeng ipalit na natin yung "Hontiveros" sa "Lapid"?

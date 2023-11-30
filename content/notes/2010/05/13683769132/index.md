@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/13683769132/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/125955690751285
+tags:
+- halalan2010
 ---
 
 RT [@todayisallihave](https://twitter.com/todayisallihave/): Today, I realized that we are the only country in the world that wishes luck to its voters and not to its candidates.

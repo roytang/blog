@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/112556992119812
 tags:
 - halalan
+- halalan2010
 ---
 
 Erap casts his ballot with no mark for the VP slot: https://twitpic.com/1mmetr #halalan Mahaba-habang usapan kay pareng Binay 'to
