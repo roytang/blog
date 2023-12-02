@@ -1,17 +1,21 @@
 ---
 title: "My Ikoria Limited Recap"
-date: 2020-05-04
+date: 2020-05-11
 tags:
 - mtg
 - mtgiko
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
+dontinlinephotos: true
 ---
 
 *(Note: This post was written May 24th, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [Ikoria](/tags/mtgiko) post)*
 
-Ikoria limited stats!
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -54,10 +58,18 @@ Ikoria limited stats!
 | 1-x | 1 |
 | 0-x | 1 |
 
+### Limited Notes
 
-Notes:
-
-- the win rate here for Abzan (WBG) has to be one of my best archetype win rates of all time
+- this set was so good to me, the very first draft was already a trophy
+- the win rate here for Abzan (WBG) has to be one of my best archetype win rates of all time. I think it's because those colors had the best mutate builds and I really enjoyed that mechanic in limited!
+- this might have been the first set with quick drafts and my QD win rate was so much higher than for PD, though I only did 3 (and don't have records for one of them) so sample size is small
 - win rate really took a dive in Platinum!
 
-Related: [Ikoria Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXi2CmD1Uvt9np2s3CEfiTzk), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### 7-x Drafts
+
+{{% photos trophy %}}
+
+### Related
+
+- [Ikoria Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXi2CmD1Uvt9np2s3CEfiTzk)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
