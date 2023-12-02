@@ -30,7 +30,7 @@ I know, I know this page layout could use a lot of work.
 | **Sep** | Innistrad: Midnight Hunt | [Arena limited](/tags/mtgmidnight) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXieJN9NfT6l81avhvRedw7K) | |
 | **Jul** | Adventures in the Forgotten Realms | [Arena limited](/tags/mtgafr) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgMQw7q6DyiSQxDH5FDS33r) | |
 | **Apr** | Strixhaven | [Arena limited](/tags/mtgstrixhaven) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXi2a8ti2BKbg3i7YXinbxBZ) | |
-| | | [Mystical Archives](/2021/03/1375147827110629379/) | |
+| | | | |
 | **Feb** | Kaldheim | [Arena limited](/tags/kaldheim) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgza5YFq3PfZZGHwyRIYYU-) | |
 | | | [Kaladesh Remastered](/tags/mtgklr) (Nov 2020) | |
 | **2020** |

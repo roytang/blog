@@ -15,6 +15,12 @@ tags:
 
 <!--more-->
 
+### Preview Season
+
+Both the normal and alt art Strixhaven mystical archive treatments are probably my favorite “expedition” -style treatments of all time. Glad these are coming to #magicarena #mtg
+
+{{% photos 1375147827110629379 %}}
+
 ### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
@@ -95,6 +101,12 @@ See how it turned out: https://www.youtube.com/watch?v=4B9Do6_8YME
 <time>[Sat, July 10, 2021, 5:41 a.m.]</time> Final #mtgstrixhaven stats on #MagicArena. I'm glad they send out these summaries. Looks like I haven't managed to hit mythic since Kalhdeim. The limited format was pretty fun though. #MTGArenaStats
 
 {{% photos arenastats %}}
+
+### Misc
+
+The character Zimone from #mtg Strixhaven reminds me of Kasie from NCIS
+
+{{% photos 1391727135916654594 %}}
 
 ### Related
 
