@@ -7,11 +7,14 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 ---
 
 *(Note: This post was written May 24th, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [Theros Beyond Death](/tags/mtgthb) post)*
 
-Theros Beyond Death limited stats!
+<!--more-->
+
+### Limited Stats
 
 | | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- | 
@@ -53,8 +56,11 @@ Theros Beyond Death limited stats!
 | 0-x | 1 |
 
 
-Notes:
+### Limited Notes
 
-- I believe this was the first set where I consistently published my limited results
+- I believe this was the first set where I consistently published my limited results. No deck screendumps though.
 
-Related: [Theros Beyond Death Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiD34JmpHgzhdtpCAR2MNqf), [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
+### Related
+
+- [Theros Beyond Death Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiD34JmpHgzhdtpCAR2MNqf)
+- [Overall Arena Limited Stats](/page/stats/mtg/#arena-limited-stats)
