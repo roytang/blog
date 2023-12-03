@@ -10,6 +10,7 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 title: My March of the Machine Limited Recap
 ---
 
@@ -86,6 +87,12 @@ I actually tried drafting on MTGO! It has been a long while - in fact I have no 
 When I checked my account, I saw that I actually had enough play points to enter a draft league, which I had never done before so I gave it a try. I think I put together a decent deck; I drafted Glissa for the first time! It's such a bomb, but never got a chance during the games and I only managed a 1-2. 
 
 {{% photos mtgo %}}
+
+### Magic Arena Stats
+
+Last time I said I'd compile these into a table, but apparently I haven't yet so here it is now: [General Arena Stats](/page/stats/mtg/#general-arena-stats). This table tells me MOM was a low-yield set for me; less games played and gold earned. Probably because I was drafting so poorly in this set. Or maybe I've just been playing less because I was busy.
+
+{{% photos stats %}}
 
 ### Next
 

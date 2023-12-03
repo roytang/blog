@@ -100,8 +100,9 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| [Lord of the Rings: Tales of Middle-earth](/2023/09/111047010694586246/) | Sep 2023 | 77 | Red | Hist | 87 | Plat1 | Gold4 | 242 | 47,000 | 33,000 |
-| [March of the Machine](/2023/06/mtgmom-stats/) | Jun 2023 | 105 | Black | Std Ranked | 78 | Mythic | Plat4 | 351 | 39,500 | 33,150 |
+| [Wilds of Eldraine](/2023/10/mtgwoe-limited-recap/#magic-arena-stats) | Nov 2023 | 109 | Green | Exp Ranked | 85 | Dia4 | Gold1 | 261 | 43,500 | 30,550 |
+| [Lord of the Rings: Tales of Middle-earth](/2023/08/mtgltr-limited-recap/#magic-arena-stats) | Sep 2023 | 77 | Red | Hist | 87 | Plat1 | Gold4 | 242 | 47,000 | 33,000 |
+| [March of the Machine](/2023/06/mtgmom-limited-recap/#magic-arena-stats) | Jun 2023 | 105 | Black | Std Ranked | 78 | Mythic | Plat4 | 351 | 39,500 | 33,150 |
 | [Phyrexia All Will Be One](/2023/04/1651196904439689218/) | Apr 2023 | 133 | White | Std Ranked | 82 | Mythic | Plat3 | 370 | 40,000 | 36,450 |
 | [Brothers War](/2023/02/1624270286182027267/) | Feb 2023 | 123 | White | Trad Hist | 108 | Plat1 | Plat4 | 489 | 50,500 | 42,500 |
 | [2022 Summary](/2022/12/1605768464068509697/) | Dec 2022 | 741 | Red | Draft | 517 | Mythic | Dia4 | 2421 | 217,250 | 194,250 |

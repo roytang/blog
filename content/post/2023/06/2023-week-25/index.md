@@ -40,7 +40,7 @@ The site's backend has never been super performant - I often get alerts about us
     - Also started playing **Middle-Earth: Shadow of War** because some friends were playing it and I found I can play it via PC game pass. The 3D camera in this game is giving me a bit of dizziness though, so I'm not sure if I'll push it further.
     - Wrote part 2 of [3DS games retro reviews](/2023/06/3ds-games-2/)
     - Online: 
-        - New **Lord of the Rings** set has dropped on **Magic Arena!**. I haven't managed to do any drafts yet, just a single sealed that ended with a poor 2-3 record. Hopefully can stream some drafts this week. In the meantime, [my Magic Arena stats for the last set](/2023/06/mtgmom-stats/) have come in.
+        - New **Lord of the Rings** set has dropped on **Magic Arena!**. I haven't managed to do any drafts yet, just a single sealed that ended with a poor 2-3 record. Hopefully can stream some drafts this week. In the meantime, [my Magic Arena stats for the last set](/2023/06/mtgmom-limited-recap/#magic-arena-stats) have come in.
         - **Marvel Snap** daily grinds continue. Have been starting to get bored with the game, but there's some planned changes to card acquisition in the coming months which might make things better.
         - **Eternal** being played roughly once a week still.
         - **Street Fighter VI**: still going through the characters one at a time. Basically doing character guides and combo trials and placement matches for each one, but I don't really have time to play each day so progress is slow. I should probably also start World Tour mode soon so I can do Avatar battles already?

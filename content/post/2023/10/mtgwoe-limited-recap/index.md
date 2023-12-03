@@ -27,6 +27,7 @@ tags:
 - limited
 - magicarena
 - limitedrecap
+- mtgsetrecap
 title: My Wilds of Eldraine Limited Recap
 ---
 
@@ -102,6 +103,12 @@ BW and BG were really the standout archetypes for me here.
 I ran two attempts for the September Arena Open and one for the October. None of them did particularly well.
 
 {{% photos open %}}
+
+### Magic Arena Stats
+
+WOE arena stats email dropped on Nov 18:
+
+{{% photos arenastats %}}
 
 ### Related Links
 
