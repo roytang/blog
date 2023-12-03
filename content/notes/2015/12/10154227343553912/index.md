@@ -2,6 +2,9 @@
 checkin_id: 56604b9e498e70c5e1cbd55f
 date: 2015-12-03 15:21:00
 location: 4cbea79719ceb1f7f2ba1ecd
+resources:
+- src: 12316582_10205239106833620_3709338605885437687_n.jpg
+  title: Photo c/o Ryan
 source: facebook
 syndicated:
 - type: twitter
