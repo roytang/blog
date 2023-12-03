@@ -1,9 +1,12 @@
 ---
-date: 2023-12-03T17:19:48+08:00
+date: 2023-12-03 09:19:48
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111516050016768315
 tags:
 - weeknotes
-title: "2023 Week 48"
+title: 2023 Week 48
 ---
 
 It is now week 48 of 2023, it is December and advent season has begun.
