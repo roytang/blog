@@ -1,0 +1,11 @@
+{
+  "id": "a9aac67d-6177-44a9-8062-7c6006ea7f61",
+  "name": "DistinctiveStatic",
+  "url": null,
+  "text": "*switching to this format since I don't need a whole post on my blog for this reply, ha)\r\n\r\nI totally did assume you were reusing the same one! If you're switching them out all is well. Thanks for clarifying! Hopefully my info-dump helps someone else, then.\r\n\r\nAlso, off topic: What webmention/comments engines are you using to embed them in the pages? Or did you hand-code those systems? I've figured out webmentions.io but still trying to figure out an embed system, and no comments systems I've tried so far have been simple enough to satisfy me (all of them wanted oauth protocols, and I don't want people only able to comment if they're part of 5-6 websites). \r\n\r\nI really like the formats you have here, they're simple enough to be intuitive for the user.",
+  "date": "2023-12-04 05:25:25 +0800",
+  "photo": null,
+  "source_url": null,
+  "source": "comment-form",
+  "spam": false
+}
