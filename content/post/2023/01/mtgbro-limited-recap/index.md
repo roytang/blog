@@ -92,6 +92,14 @@ Threw away some gold and gems on two runs at the Arena Open the weekend of Novem
 
 {{% photos open %}}
 
+### Magic Arena Stats
+
+<time>[2023-02-11]</time> #MTGArenaStats email for #MTGBRO dropped. Twice!
+
+Lol the first one had DMU commons/uncommons instead of BRO ones, had to delete and re-post. 
+
+{{% photos arenastats %}}
+
 ### Related 
 
 - [Brothers War Youtube Playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhv2QKVyVlblchcy-NTxHI2)

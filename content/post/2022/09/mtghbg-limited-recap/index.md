@@ -73,7 +73,7 @@ The next Arena set is already here, so I here's my much-delayed **Alchemy Horizo
 
 ### Arena Open
 
-<time>[Sun, July 31, 2022, 11:59 p.m.]</time> Threw away some gems on the Arena Open today, my sealed pool had some high-end bombs but felt otherwise mediocre:
+<time>[2022-07-31]</time> Threw away some gems on the Arena Open today, my sealed pool had some high-end bombs but felt otherwise mediocre:
 
 {{% photos open %}}
 
@@ -82,6 +82,16 @@ The next Arena set is already here, so I here's my much-delayed **Alchemy Horizo
 - sigh. lost game 3 to [Oyaminartok](https://scryfall.com/card/hbg/68/oyaminartok-polar-werebear)
 
 Welp. That was terrible.
+
+### Magic Arena Stats 
+
+<time>[2022-09-02]</time> Huh, the last #mtgarenastats email was just two weeks ago, but now the one for #MTGHBG came in already.
+
+I obviously didn't play as much because it was a nonstandard set, and it was also a much shorter period than usual, so I think I did well. Even managed to hit Mythic! 
+
+{{% photos arenastats %}}
+
+Also, they cut the most drafted commons/uncommons again! WTH, was it hard to do it every time?
 
 ### Related
 

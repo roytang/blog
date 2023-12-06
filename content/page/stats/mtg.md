@@ -103,11 +103,11 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 | [Wilds of Eldraine](/2023/10/mtgwoe-limited-recap/#magic-arena-stats) | Nov 2023 | 109 | Green | Exp Ranked | 85 | Dia4 | Gold1 | 261 | 43,500 | 30,550 |
 | [Lord of the Rings: Tales of Middle-earth](/2023/08/mtgltr-limited-recap/#magic-arena-stats) | Sep 2023 | 77 | Red | Hist | 87 | Plat1 | Gold4 | 242 | 47,000 | 33,000 |
 | [March of the Machine](/2023/06/mtgmom-limited-recap/#magic-arena-stats) | Jun 2023 | 105 | Black | Std Ranked | 78 | Mythic | Plat4 | 351 | 39,500 | 33,150 |
-| [Phyrexia All Will Be One](/2023/04/1651196904439689218/) | Apr 2023 | 133 | White | Std Ranked | 82 | Mythic | Plat3 | 370 | 40,000 | 36,450 |
-| [Brothers War](/2023/02/1624270286182027267/) | Feb 2023 | 123 | White | Trad Hist | 108 | Plat1 | Plat4 | 489 | 50,500 | 42,500 |
+| [Phyrexia All Will Be One](/2023/04/mtgone-limited-recap/#magic-arena-stats) | Apr 2023 | 133 | White | Std Ranked | 82 | Mythic | Plat3 | 370 | 40,000 | 36,450 |
+| [Brothers War](/2023/01/mtgbro-limited-recap/#magicarenastats) | Feb 2023 | 123 | White | Trad Hist | 108 | Plat1 | Plat4 | 489 | 50,500 | 42,500 |
 | [2022 Summary](/2022/12/1605768464068509697/) | Dec 2022 | 741 | Red | Draft | 517 | Mythic | Dia4 | 2421 | 217,250 | 194,250 |
-| [Dominaria United](/2022/11/1592737800688140290/) | Nov 2022 | 126 | Red | Std | 96 | Plat1 | Plat1 | 541 | 45,250 | 41,100 |
-| [Alchemy Horizons Baldur's Gate](/2022/09/1565551040430473216/) | Sep 2022 | 143 | Red | Trad Std | 71 | Mythic | Plat4 | 359 | 34,750 | 33,400 |
+| [Dominaria United](/2022/12/mtgdmu-limited-recap/#magic-arena-stats) | Nov 2022 | 126 | Red | Std | 96 | Plat1 | Plat1 | 541 | 45,250 | 41,100 |
+| [Alchemy Horizons Baldur's Gate](/2022/09/mtghbg-limited-recap#magic-arena-stats/) | Sep 2022 | 143 | Red | Trad Std | 71 | Mythic | Plat4 | 359 | 34,750 | 33,400 |
 | [Streets of New Capenna](/2022/06/mtgsnc-limited-recap/#magic-arena-stats) | Aug 2022 | 172 | White | Const. Event (?!?!) | 91 | Dia2 | Plat3 | 492 | 41,750 | 36,975 |
 | [Kamigawa Neon Dynasty](/2022/03/mtgneo-limited-recap/#magic-arena-stats) | Apr 2022 | 196 | White | Draft | 98 | Dia2 | Dia4 | 601 | 49,250 | 43,100 |
 | [Innistrad Crimson Vow](/2021/12/mtgcrimson-limited-recap/#magic-arena-stats) | Feb 2022 | 177 | Black | Draft | 115 | Mythic | Plat3 | 789 | 53,500 | 51,425 |

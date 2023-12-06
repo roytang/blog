@@ -85,13 +85,21 @@ The next set (March of the Machine) is coming up in a couple of weeks, so here I
 
 {{% photos trophy %}}
 
-### Arena Open Attempts
+### Arena Open
 
-Sigh. Threw some gems away on the Arena Open again, attempts no. 2 and 3. First pool looked decent, but I had some bad misplays that cost me a couple of games, finished 2-3. Second pool had some good rares in shallow colors, I went RW for more consistency, but only went 1-3.
+<time>[2023-03-05]</time> Sigh. Threw some gems away on the Arena Open again, attempts no. 2 and 3. First pool looked decent, but I had some bad misplays that cost me a couple of games, finished 2-3. Second pool had some good rares in shallow colors, I went RW for more consistency, but only went 1-3.
 
 Someday we'll get there!
 
 {{% photos arenaopen %}}
+
+### Magic Arena Stats
+
+<time>[2023-04-26]</time> #MTGArenaStats email for #MTGONE dropped.
+
+Also, I think I'll start compiling these into a table somewhere, so I can compare across sets etc 
+
+{{% photos arenastats %}}
 
 ### Related
 
