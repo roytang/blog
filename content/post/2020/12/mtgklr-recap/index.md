@@ -1,5 +1,5 @@
 ---
-title: "My KaladeshAmonkhet Remastered Set Recap"
+title: "My Kaladesh Remastered Set Recap"
 date: 2020-12-01
 tags:
 - mtg
