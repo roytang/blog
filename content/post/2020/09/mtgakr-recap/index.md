@@ -8,6 +8,7 @@ tags:
 - magicarena
 - limitedrecap
 - mtgsetrecap
+- backpost
 ---
 
 *(Note: This post was written Dec, 2023, but the publish date is back-dated to right after the last [Amonkhet Remastered](/tags/mtgakr) draft)*

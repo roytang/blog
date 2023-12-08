@@ -74,7 +74,7 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Oct 2023 | 310 | 1058 | 845 | 1903 | 0.556 |
+| ALL | Oct 2023 | 316 | 1066 | 863 | 1929 | 0.5526 |
 | [Wilds of Eldraine](/2023/10/mtgwoe-limited-recap/) | Oct 2023 | 19 | 74 | 47 | 121 | 0.6116 |
 | [Lord of the Rings: Tales of Middle Earth](/2023/08/mtgltr-limited-recap/) | Aug 2023 | 5 | 9 | 15 | 24 | 0.375 |
 | [March of the Machine](/2023/06/mtgmom-limited-recap/) | Jun 2023 | 19 | 56 | 50 | 106 | 0.5283 |
@@ -89,6 +89,7 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 | [Adventures in the Forgotten Realms](/2021/08/mtgafr-limited-recap/) | Aug 2021 | 19 | 61 | 50 | 111 | 0.5495 |
 | [Strixhaven](/2021/05/mtgstx-limited-recap/) | May 2021 | 20 | 67 | 56 | 123 | 0.5447 |
 | [Kaldheim](/2021/02/mtgkld-limited-recap/) | Feb 2021 | 19 | 58 | 55 | 113 | 0.5133 |
+| [Kaladesh Remastered](/2020/12/mtgklr-recap/) | Dec 2020 | 6 | 8 | 18 | 26 | 0.3077 |
 | [Zendikar Rising](/2020/11/mtgznr-limited-recap/) | Nov 2020 | 12 | 39 | 34 | 73 | 0.5342 |
 | [Amonkhet Remastered](/2020/07/mtgakr-recap/) | Sep 2020 | 13 | 41 | 39 | 80 | 0.5125 |
 | [M21](/2020/07/mtgm21-limited-recap/) | Jul 2020 | 8 | 25 | 23 | 48 | 0.5208 |
