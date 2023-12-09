@@ -1,40 +1,44 @@
 ---
 date: 2023-12-09 02:35:31
+dontinlinephotos: true
 resources:
 - src: bes001.png
-  title: "'That's the law. No one would break the law.' - I enjoyed the sarcastic delivery by VA Randall Park"
+  title: '''That''s the law. No one would break the law.'' - I enjoyed the sarcastic
+    delivery by VA Randall Park'
 - src: bes002.png
-  title: "Revenge does not hesitate."
+  title: Revenge does not hesitate.
 - src: bes003.png
-  title: "To be alive is to wake up and do things you don't want to do."
+  title: To be alive is to wake up and do things you don't want to do.
 - src: bes004.png
-  title: "If you are only a sword, are you even a man or a mere demon?"
+  title: If you are only a sword, are you even a man or a mere demon?
 - src: bes005.png
-  title: "A sword from this steel could kill a god."
+  title: A sword from this steel could kill a god.
 - src: bes006.png
-  title: "Now, what do you do when you get exactly what you prayed for?"
+  title: Now, what do you do when you get exactly what you prayed for?
 - src: bes007.png
-  title: "Nothing comes from being a samurai but death."
+  title: Nothing comes from being a samurai but death.
 reviews:
-- media: tv
+- description: Very good.
+  hashtag: blue-eye-samurai
+  media: tv
   rating: 5.0
   title: Blue Eye Samurai
-  hashtag: blue-eye-samurai
-  description: Very good.
-- media: tv
+- description: Comfort food series for background watching.
+  hashtag: scrubs
+  media: tv
   rating: 3.5
   title: Scrubs
-  hashtag: scrubs
-  description: Comfort food series for background watching.
-- media: tv
+- description: This series takes off in an unexpected direction.
+  hashtag: scott-pilgrim-takes-off
+  media: tv
   rating: 4.0
   title: Scott Pilgrim Takes Off
-  hashtag: scott-pilgrim-takes-off
-  description: This series takes off in an unexpected direction.
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111548302884293858
 tags:
 - tv
 title: 'TV Reviews: Blue Eye Samurai, Scrubs, Scott Pilgrim Takes Off'
-dontinlinephotos: true
 ---
 
 Some TV stuff I finished watching over the past few weeks:
