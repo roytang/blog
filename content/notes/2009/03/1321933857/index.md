@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/70050953967
 tags:
 - hongkong
+- hong-kong
 ---
 
 just came back from a 2hr walk. got to causeway bay before deciding to try to find a way back

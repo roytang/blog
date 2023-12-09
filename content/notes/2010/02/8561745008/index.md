@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/8561745008/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/298000572368
+tags:
+- quotes
 ---
 
 RT [@chrisguillebeau](https://twitter.com/chrisguillebeau/): If you are so afraid to fail that you live as cautiously as you can, you fail by default. -JK Rowling (via [@yonghoshin](https://twitter.com/yonghoshin/))

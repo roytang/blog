@@ -39,6 +39,7 @@ syndicated:
 tags:
 - travels
 - hongkong
+- hong-kong
 ---
 
 at naia2 waiting for boarding,tweeting using psp :p

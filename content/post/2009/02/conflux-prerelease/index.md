@@ -6,6 +6,11 @@ tags:
 title: Conflux Prerelease
 type: post
 url: /2009/02/conflux-prerelease/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1164428051/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/60353694112
 ---
 
 It's my first Magic outing after more than a month of hibernation. Hopefully Conflux shakes up standard and makes Magic more fun again. Let's go!

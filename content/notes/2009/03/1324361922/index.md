@@ -33,6 +33,7 @@ syndicated:
 tags:
 - travels
 - hongkong
+- hong-kong
 ---
 
 went out to look for (real) bread, took 45mins to find an open bakery. this city needs to wake up earlier
