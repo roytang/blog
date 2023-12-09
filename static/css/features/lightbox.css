@@ -65,3 +65,6 @@
 .entry_list .imgshortcode {
     display: none;
 }
+body:has(.lightbox:target) {
+    overflow: hidden;
+}
