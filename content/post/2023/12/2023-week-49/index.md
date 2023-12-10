@@ -1,6 +1,9 @@
 ---
-date: 2023-12-10T14:28:02+08:00
+date: 2023-12-10 06:28:02
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111554721227305543
 tags:
 - weeknotes
 title: 2023 Week 49 Running Out of Year

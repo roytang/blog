@@ -1,0 +1,12 @@
+{
+  "id": "68ad027d-e979-47be-95e9-d50f27099012",
+  "name": "Roy Tang",
+  "url": "https://roytang.net",
+  "text": "Most of the site uses a hand-rolled Python/Django backend. It is definitely not simple (see the About -> Site page for some details), but it works for me.\r\n\r\nOne thing about this site is all the content (including comments) are saved as markdown or json files in a public Github repository, so for the comments in particular, I can't ask for any private information like email addresses and that's also why I don't use any other auth system. One of the downsides is that there's no way to notify the commenter that there's a reply if the comment doesn't come in from another site via webmentions. Like this one! So IDK if you ever get to read this reply.\r\n\r\nIncoming webmentions are processed from webmention.io",
+  "date": "2023-12-10 14:37:12 +0800",
+  "photo": null,
+  "source_url": null,
+  "source": "web",
+  "spam": false,
+  "reply_to": null
+}
