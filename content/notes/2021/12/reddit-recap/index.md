@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1469965941123747842/
 tags:
 - tech-life
+- reddit-recap
 title: Reddit Recap
 ---
 

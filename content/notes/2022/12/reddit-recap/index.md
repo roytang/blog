@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1601349596155760640/
 tags:
 - tech-life
+- reddit-recap
 title: Reddit Recap 2022
 ---
 
