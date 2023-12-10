@@ -17,6 +17,7 @@ submenu: "about"
     - Search is handled via a custom search backend using [Whoosh](https://whoosh.readthedocs.io/en/latest/intro.html). 
     - Webmentions are handled via [webmention.io](https://webmention.io/) + [brid.gy](https://brid.gy/) (incoming) and [webmention.app](https://webmention.app/) (outgoing).
     - content I post on Twitter, Reddit, and other services are fed back into this site via custom Python scripts.
+    - I wrote some more about my custom blogging system in [this post](/2021/11/cypress/).
 - The source for all site content is [available on Github](https://github.com/roytang/blog). The source for my Python stack is unfortunately not publicly available, mostly because I think it's terrible.
 - This site is hosted on [DigitalOcean](https://m.do.co/c/6c2e6b11b260) (affiliate link). 
 - An off-site mirror/backup is generated every so often to [mirror.roytang.net](https://mirror.roytang.net/). (Hosted on Netlify.)
