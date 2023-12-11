@@ -102,6 +102,13 @@ I finished Baldur's Gate 3 last Thursday, right before it won game of the year a
 - Actually I found the story a lot more engrossing than BG1 and 2 I think. I certainly felt a lot more immersed in the Forgotten Realms this time; it may have been helped by the fact that we had a couple of recent D&D crossover Magic sets, so I was a bit more familiar with Faerun lore this time around.
 - I dislike that in Act III you hit the level cap of 12 pretty quickly; I think I spent like 60% of Act III at level 12. I understand why they were hesitant to implement the higher levels and the fact that you tackle many of the later challenges at around the same level helps with the nonlinearity, but still it's annoying whenever I find myself earning so much useless XP. Maybe I could have been granted gold instead?
 
+### Videos
+
+I managed to stream the game a couple of times:
+
+- [Save-scumming through Baldur's Gate 3 (Act III)](https://www.youtube.com/watch?v=p_CKdi5cYYs)
+- [Trying to finish BG3 today!](https://www.youtube.com/watch?v=_zTloE2mpg4)
+
 ### Stats / Completion
 
 Playtime: 90.7 hours
