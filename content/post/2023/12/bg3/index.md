@@ -2,76 +2,80 @@
 date: 2023-12-11 13:50:40
 dontinlinephotos: true
 resources:
-- src: 20230805194614_1.jpg
-  title: 'I spent a lot of Act 1 wearing this hat that did nothing.'
-  alt: "BG3 screenshot"
-- src: 20230821001450_1.jpg
-  title: 'IDK if the game ever requires you to remember this!'
-  alt: "BG3 screenshot"
-- src: 20230829023047_1.jpg
-  title: 'BOO!!'
-  alt: "BG3 screenshot"
-- src: 20230829213841_1.jpg
-  title: 'One of the Act 2 battles.'
-  alt: "BG3 screenshot"
-- src: 20230830153529_1.jpg
-  title: 'Elminster!'
-  alt: "BG3 screenshot"
-- src: 20230830155614_1.jpg
-  title: 'Jaheira!'
-  alt: "BG3 screenshot"
-- src: 20230921161445_1.jpg
-  title: 'Rotten bananas!'
-  alt: "BG3 screenshot"
-- src: 20230921230748_1.jpg
-  title: 'This scene was great.'
-  alt: "BG3 screenshot"
-- src: 20230922011527_1.jpg
-  title: 'Strange holes'
-  alt: "BG3 screenshot"
-- src: 20230922172703_1.jpg
-  title: 'Refreshed WITH BLOOD!'
-  alt: "BG3 screenshot"
-- src: 20230925235050_1.jpg
-  title: 'Conventional wisdom is too narrow.'
-  alt: "BG3 screenshot"
-- src: 20230926205903_1.jpg
-  title: 'STINKS of CHEESE!'
-  alt: "BG3 screenshot"
-- src: 20230928162600_1.jpg
-  title: 'Even in fantasy games fascism is a problem'
-  alt: "BG3 screenshot"
-- src: 20231019161917_1.jpg
-  title: 'I get it, it''s (near) impossible!'
-  alt: "BG3 screenshot"
-- src: 20231107135727_1.jpg
-  title: 'PINCH YOURSELF AND CHECK WE''RE NOT DREAMING THE LAST OF OUR LIVES AS WE DIE SCREAMING'
-  alt: "BG3 screenshot"
-- src: 20231113140022_1.jpg
-  title: 'No, fuck you!'
-  alt: "BG3 screenshot"
-- src: 20231120160823_1.jpg
-  title: 'Good and evil is not a thing of knowing.'
-  alt: "BG3 screenshot"
-- src: 20231202122800_1.jpg
-  title: 'Stretchy face.'
-  alt: "BG3 screenshot"
-- src: 20231207000723_1.jpg
-  title: 'I got myself into yet another nearly impossible situation.'
-  alt: "BG3 screenshot"
-- src: 20231207074106_1.jpg
-  title: 'Crack some skulls Valeria!'
-  alt: "BG3 screenshot"
-- src: 20231207142547_1.jpg
-  title: 'Damn bards and their fake news!'
-  alt: "BG3 screenshot"
-- src: 20231207154000_1.jpg
-  title: 'Unreplaced variable in the top story!'
-  alt: "BG3 screenshot"
+- alt: BG3 screenshot
+  src: 20230805194614_1.jpg
+  title: I spent a lot of Act 1 wearing this hat that did nothing.
+- alt: BG3 screenshot
+  src: 20230821001450_1.jpg
+  title: IDK if the game ever requires you to remember this!
+- alt: BG3 screenshot
+  src: 20230829023047_1.jpg
+  title: BOO!!
+- alt: BG3 screenshot
+  src: 20230829213841_1.jpg
+  title: One of the Act 2 battles.
+- alt: BG3 screenshot
+  src: 20230830153529_1.jpg
+  title: Elminster!
+- alt: BG3 screenshot
+  src: 20230830155614_1.jpg
+  title: Jaheira!
+- alt: BG3 screenshot
+  src: 20230921161445_1.jpg
+  title: Rotten bananas!
+- alt: BG3 screenshot
+  src: 20230921230748_1.jpg
+  title: This scene was great.
+- alt: BG3 screenshot
+  src: 20230922011527_1.jpg
+  title: Strange holes
+- alt: BG3 screenshot
+  src: 20230922172703_1.jpg
+  title: Refreshed WITH BLOOD!
+- alt: BG3 screenshot
+  src: 20230925235050_1.jpg
+  title: Conventional wisdom is too narrow.
+- alt: BG3 screenshot
+  src: 20230926205903_1.jpg
+  title: STINKS of CHEESE!
+- alt: BG3 screenshot
+  src: 20230928162600_1.jpg
+  title: Even in fantasy games fascism is a problem
+- alt: BG3 screenshot
+  src: 20231019161917_1.jpg
+  title: I get it, it's (near) impossible!
+- alt: BG3 screenshot
+  src: 20231107135727_1.jpg
+  title: PINCH YOURSELF AND CHECK WE'RE NOT DREAMING THE LAST OF OUR LIVES AS WE DIE
+    SCREAMING
+- alt: BG3 screenshot
+  src: 20231113140022_1.jpg
+  title: No, fuck you!
+- alt: BG3 screenshot
+  src: 20231120160823_1.jpg
+  title: Good and evil is not a thing of knowing.
+- alt: BG3 screenshot
+  src: 20231202122800_1.jpg
+  title: Stretchy face.
+- alt: BG3 screenshot
+  src: 20231207000723_1.jpg
+  title: I got myself into yet another nearly impossible situation.
+- alt: BG3 screenshot
+  src: 20231207074106_1.jpg
+  title: Crack some skulls Valeria!
+- alt: BG3 screenshot
+  src: 20231207142547_1.jpg
+  title: Damn bards and their fake news!
+- alt: BG3 screenshot
+  src: 20231207154000_1.jpg
+  title: Unreplaced variable in the top story!
 reviews:
 - media: games
   rating: 5.0
   title: Baldur's Gate 3
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111562602808152594
 tags:
 - gaming
 - games
