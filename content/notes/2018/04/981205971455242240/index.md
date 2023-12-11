@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156547119478912
 tags:
 - wordswfriends
+- merged
 ---
 
 A stranger with whom I was playing Words with Friends  messaged me to ask if I was a bot @_@

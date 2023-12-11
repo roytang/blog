@@ -9,6 +9,7 @@ syndicated:
 tags:
 - wordswithfriends
 - wordswfriends
+- merged
 ---
 
 New record! #wordswithfriends

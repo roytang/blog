@@ -9,6 +9,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156808277683912
 tags:
 - WordsWFriends
+- merged
 ---
 
 It’s beautiful. Yet I must destroy it. [@WordsWFriends](https://twitter.com/WordsWFriends/) 

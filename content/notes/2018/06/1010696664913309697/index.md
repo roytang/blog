@@ -9,6 +9,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156726438203912
 tags:
 - WordsWFriends
+- merged
 ---
 
 Dear [@WordsWFriends](https://twitter.com/WordsWFriends/) can I turn off your loot boxes? I’m never going to use them! I’m even at maximum coins! 
