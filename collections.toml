@@ -6,6 +6,7 @@ theme = "exhale"
 # Pagination
 paginate = 50
 paginatePath = "p"
+relativeURLs= true
 
 ignoreErrors = ["error-output-taxonomy"]
 
