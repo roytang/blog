@@ -1,0 +1,7 @@
+{{ $param := index .Params "comics/tags" }}
+{{ range $param }}
+    <a class="tag p-category" href="{{ "/comics/tags/" }}{{ . | urlize }}">#{{ . }}</a>
+{{ end }}
+{{ if .Params.via }}
+via <a class="u-repost-of" href="{{ .Params.via.url }}">{{ .Params.via.name }}</a>
+{{ end }}

@@ -1,0 +1,13 @@
+
+{{ $mainPermalink := .RelPermalink }}
+{{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
+{{ $caption := .Title | default .Summary }}
+{{ with .Resources.ByType "image" }}
+{{ range . }}
+
+    <figure>
+      <img loading="lazy" src="{{ .RelPermalink | safeURL }}" />
+    </figure>
+
+{{ end }}
+{{ end }}

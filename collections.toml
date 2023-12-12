@@ -76,6 +76,7 @@ canonifyURLs = true
 [params]
     rootPath = "collections/"
     staticRoot = "https://roytang.net/media/"
+    # staticRoot = "http://localhost/repos/blog/"
 
     # You can use markdown here.
     brand = "Roy Tang"
