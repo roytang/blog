@@ -53,8 +53,6 @@ canonifyURLs = true
     source = "source"
     album = "albums"
     location = "locations"
-    quote_tag = "quotes/tags"
-
 
 [author]
     name = "Roy Tang"

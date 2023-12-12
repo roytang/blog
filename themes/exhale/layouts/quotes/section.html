@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<section class="h-feed">
+
+  <ul class="entry_list">
+    {{ range (.Paginator.Pages) }}
+    <li>{{ .Render "list_item" }}</li>
+    {{ end }}
+  </ul>
+  {{ partial "pagination" . }}  
+</section>
+{{ end }}
