@@ -18,8 +18,9 @@
   {{ end }}
   {{ end }}
   {{ partial "metas" . }}
+  {{ $staticRoot := .Site.Params.staticRoot }}
   {{ range $.Site.Data.Themes.default }}
-  <link rel="stylesheet" href="{{ replace . "static" "" }}" type="text/css" />
+  <link rel="stylesheet" href="{{ $staticRoot  }}{{ . }}" type="text/css" />
   {{ end }}
 </head>
 <body class="{{ .Kind }}">
