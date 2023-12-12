@@ -2,7 +2,11 @@
   <section class="h-feed">
     <a class="u-url" href="{{ .Permalink }}"></a>
     <p class="p-name">All <a href="../../">quotes</a> tagged {{ .Title }}.</p>
-    {{ partial "block/entry-list" . }}
+    <ul class="entry_list">
+      {{ range (.Paginator.Pages.ByLastmod.Reverse) }}
+      <li>{{ .Render "list_item" }}</li>
+      {{ end }}
+    </ul>    
     {{ partial "pagination" . }}
 </section>
 {{ end }}

@@ -2,10 +2,6 @@
     <a href="/{{ .Section }}">/{{ .Section }}</a>
     <a href="{{ .RelPermalink }}" title="permalink">#</a>
 
-
-    {{ $param := index .Params "quotes/tags" }}
-    {{ range $param }}
-        <a class="tag p-category" href="{{ "../tags/" }}{{ . | urlize }}">#{{ . }}</a>
-    {{ end }}
+    {{ .Render "quote_tags" }}
 </p>
 

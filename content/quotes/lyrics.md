@@ -5,8 +5,6 @@ slug: lyrics
 draft: true
 ---
 
----
-
  I delight in my pain, and I'm shattered like your promises;
 
  Though I try to be sane, I'm just shattered like, shattered like your promises...
@@ -378,6 +376,3 @@ With all the force of a great typhoon
 With all the strength of a raging fire
 
 Mysterious as the dark side of the moon
-
----
-

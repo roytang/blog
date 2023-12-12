@@ -1,9 +1,9 @@
 from pathlib import Path
 import frontmatter
 
-sourcepath = "C:\\repos\\blog\\content\\quotes\\sig2.md"
+sourcepath = "C:\\repos\\blog\\content\\quotes\\lyrics.md"
 sourcefile = Path(sourcepath)
-outpath = "C:\\repos\\blog\\collections\\quotes"
+outpath = "C:\\repos\\blog\\collections\\quotes\\lyrics"
 outdir = Path(outpath)
 
 with sourcefile.open(encoding="UTF-8") as f:
@@ -18,9 +18,11 @@ with sourcefile.open(encoding="UTF-8") as f:
         count = count + 1
 
         fm = frontmatter.Post(part)
-        fm["quotes/tags"] = ["sig"]
+        fm["quotes/tags"] = ["sig", "lyrics"]
         newfile = frontmatter.dumps(fm)
         newfilename = "%s.md" % (str(count).rjust(4, '0'))
+        if not outdir.exists():
+            outdir.mkdir(parents=True)
         outfile = outdir / newfilename
         with outfile.open("w", encoding='utf-8') as w:
             w.write(newfile)                                
