@@ -13,6 +13,7 @@ tags:
 - comics
 - x-men
 - ireadcomicbooks
+- panels
 ---
 
 <p>All-New X-Men #1 connecting covers by Stuart Immonen<br/></p>

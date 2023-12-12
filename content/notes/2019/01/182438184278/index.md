@@ -14,6 +14,7 @@ tags:
 - x-men
 - x-force
 - ireadcomicbooks
+- panels
 ---
 
 Uncanny X-Force #1 cover by Esad Ribic

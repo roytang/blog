@@ -16,6 +16,7 @@ tags:
 - gambit
 - jean grey
 - ireadcomicbooks
+- panels
 ---
 
 <p>Merry X-Men Holiday Special (2018) cover by David Nakayama<br/></p>

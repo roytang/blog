@@ -11,6 +11,7 @@ tags:
 - marvel
 - comics
 - ireadcomicbooks
+- panels
 ---
 
 The Mighty Thor #21 cover by Russell Dauterman and Matthew Wilson

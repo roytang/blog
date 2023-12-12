@@ -13,6 +13,7 @@ tags:
 - marvel
 - avengers
 - ireadcomicbooks
+- panels
 ---
 
 <p>Opening page to Avengers (2012) #1 by Jonathan Hickman and Jerome Opena. I’m a big fan of both this run and Opena’s art<br/></p>

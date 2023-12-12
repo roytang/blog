@@ -14,6 +14,7 @@ tags:
 - punisher
 - covers
 - ireadcomicbooks
+- panels
 ---
 
 Punisher (2018) #1 cover by Greg Smallwood

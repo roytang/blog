@@ -14,6 +14,7 @@ tags:
 - comics
 - batman
 - ireadcomicbooks
+- panels
 ---
 
 <p>Dark Knights Metal #6 variant cover by Tony Daniel<br/></p>

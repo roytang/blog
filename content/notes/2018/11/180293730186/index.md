@@ -14,6 +14,7 @@ tags:
 - batman
 - nightwing
 - ireadcomicbooks
+- panels
 ---
 
 Batman v2 #55 by Tom King and Tony S. Daniel

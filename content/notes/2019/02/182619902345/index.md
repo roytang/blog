@@ -14,6 +14,7 @@ tags:
 - spider-man
 - marvel zombies
 - ireadcomicbooks
+- panels
 ---
 
 <p>It’s Spider-Man week on ireadcomicbooks! Here’s Marvel Zombies #1 Amazing Fantasy tribute cover by 

@@ -15,6 +15,7 @@ tags:
 - justice league
 - wonder woman
 - ireadcomicbooks
+- panels
 ---
 
 Justice League Dark #2 Greg Capullo variant cover

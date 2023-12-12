@@ -13,6 +13,7 @@ tags:
 - comics
 - daredevil
 - ireadcomicbooks
+- panels
 ---
 
 <p>Daredevil #21 by Mark Waid and Chris Samnee&hellip; I have no idea why I had this image saved<br/></p>

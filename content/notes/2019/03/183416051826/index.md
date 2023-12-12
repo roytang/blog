@@ -14,6 +14,7 @@ tags:
 - captain marvel
 - monica rambeau
 - ireadcomicbooks
+- panels
 ---
 
 Captain Marvel (1989) #1 featuring Monica Rambeau as Captain Marvel. Will we see her with powers in the second Captain Marvel movie?

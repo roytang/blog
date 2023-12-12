@@ -10,6 +10,7 @@ tags:
 - '27'
 - comicbooks
 - comics
+- panels
 title: ''
 ---
 

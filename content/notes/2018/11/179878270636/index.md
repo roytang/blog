@@ -13,6 +13,7 @@ tags:
 - dc
 - green arrow
 - ireadcomicbooks
+- panels
 ---
 
 <p>Green Arrow (New 52) #22 by Jeff Lemire and Andrea Sorrentino<br/></p>

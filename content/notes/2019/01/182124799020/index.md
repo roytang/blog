@@ -15,6 +15,7 @@ tags:
 - green lantern
 - liam sharp
 - ireadcomicbooks
+- panels
 ---
 
 <p>The Green Lantern #2 - OA Splash page. Art by Liam Sharp<br/></p>

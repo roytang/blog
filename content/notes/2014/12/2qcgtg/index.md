@@ -7,6 +7,7 @@ syndicated:
 tags:
 - comics
 - reddit_submission
+- panels
 ---
 
 #### Posted on r/comicbooks: [All New X-Men Annual #1 - floating timeline much?](https://reddit.com/r/comicbooks/comments/2qcgtg/all_new_xmen_annual_1_floating_timeline_much/)

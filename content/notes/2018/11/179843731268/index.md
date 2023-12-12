@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1059989030526504960/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p>Immortal Hulk #7 by Al Ewing and Joe Bennett. For some reason, on this single page Cap’s costume became orange, but the head remained blue.<br/></p>

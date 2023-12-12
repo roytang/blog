@@ -13,6 +13,7 @@ tags:
 - comics
 - spider-man
 - ireadcomicbooks
+- panels
 ---
 
 Spider-Men #1 cover by Jim Cheung

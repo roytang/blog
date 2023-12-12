@@ -17,6 +17,7 @@ tags:
 - comics
 - spider man
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="http://why-i-love-comics.tumblr.com/post/178525356653/peter-parker-the-spectacular-spider-man-310" class="tumblr_blog">why-i-love-comics</a>:</p><blockquote>

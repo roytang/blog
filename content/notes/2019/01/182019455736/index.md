@@ -16,6 +16,7 @@ tags:
 - miles morales
 - ms marvel
 - ireadcomicbooks
+- panels
 ---
 
 <p>Champions (2019) #1<br/></p>

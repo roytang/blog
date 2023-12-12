@@ -13,6 +13,7 @@ tags:
 - comics
 - batman
 - ireadcomicbooks
+- panels
 ---
 
 Batman #1 cover by Greg Capullo

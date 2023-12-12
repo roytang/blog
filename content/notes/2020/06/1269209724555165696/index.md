@@ -1,5 +1,5 @@
 ---
-date: 2020-06-06 10:09:13+00:00
+date: 2020-06-06 10:09:13
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,7 @@ tags:
 - comics
 - BlackLivesMattters
 - '5'
+- panels
 title: ''
 ---
 

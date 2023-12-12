@@ -15,6 +15,7 @@ tags:
 - justice league
 - dc comics
 - ireadcomicbooks
+- panels
 ---
 
 JLA v3 #44 Tower of Babel part 2 of 4 by Mark Waid and Howard Porter

@@ -14,6 +14,7 @@ tags:
 - spider-man
 - secret wars
 - ireadcomicbooks
+- panels
 ---
 
 <p>It’s Spider-Man week on ireadcomicbooks! Here’s the cover for Secret Wars #8 by Mike Zeck, where Spider-Man first acquired the Symbiote costume. (The actual first published appearance of the costume was in Amazing Spider-Man #252)<br/></p>

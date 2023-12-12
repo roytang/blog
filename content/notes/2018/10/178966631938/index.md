@@ -13,6 +13,7 @@ tags:
 - spider-man
 - comics
 - ireadcomicbooks
+- panels
 ---
 
 <p>Amazing Spider-Man 672, written by Dan Slott, art by Humberto Ramos<br/></p>

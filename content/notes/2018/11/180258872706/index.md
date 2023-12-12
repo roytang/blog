@@ -13,6 +13,7 @@ tags:
 - dc comics
 - superman
 - ireadcomicbooks
+- panels
 ---
 
 <p>Superman (2018) #1 Adam Hughes variant cover<br/></p>

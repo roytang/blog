@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1051654062461075456/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p> Watchmen by Alan Moore and Dave Gibbons<br/></p>

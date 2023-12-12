@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/93367037925142528/
 tags:
 - comics
+- panels
 ---
 
 Batman's enemies use only the most modern software

@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1080645129634041856/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="http://artverso.tumblr.com/post/179995449502/gary-frank-doomsday-clock" class="tumblr_blog">artverso</a>:</p><blockquote><p>Gary Frank - Doomsday Clock </p></blockquote>

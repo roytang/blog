@@ -13,6 +13,7 @@ tags:
 - comics
 - shazam
 - ireadcomicbooks
+- panels
 ---
 
 Shazam #1 cover by Dave Eaglesham

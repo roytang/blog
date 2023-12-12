@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1057586281394388992/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="https://riddle-for-the-riddler.tumblr.com/post/150174404059/this-is-from-batman-gotham-adventures-vol-2-9" class="tumblr_blog">riddle-for-the-riddler</a>:</p>

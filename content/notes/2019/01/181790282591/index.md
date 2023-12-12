@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1082094682551799809/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="http://russelldauterman.tumblr.com/post/181585937664/my-favorite-thing-i-drew-in-2018-from-the" class="tumblr_blog">russelldauterman</a>:</p>

@@ -11,6 +11,7 @@ tags:
 - comics
 - x men
 - ireadcomicbooks
+- panels
 ---
 
 House of X (2019) #1

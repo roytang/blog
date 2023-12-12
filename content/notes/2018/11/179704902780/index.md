@@ -12,6 +12,7 @@ tags:
 - comics
 - saga
 - ireadcomicbooks
+- panels
 ---
 
 <p>Saga #34 by Brian K Vaughn and Fiona Staples<br/></p>

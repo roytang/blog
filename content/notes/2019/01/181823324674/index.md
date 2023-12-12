@@ -14,6 +14,7 @@ tags:
 - x-men
 - joe madureira
 - ireadcomicbooks
+- panels
 ---
 
 X-Men Alpha, cover by Joe Madureira and Tim Townsend

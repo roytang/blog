@@ -14,6 +14,7 @@ tags:
 - avengers
 - hawkeye
 - ireadcomicbooks
+- panels
 ---
 
 Young Avengers #12 Kate Bishop takes the mantle of Hawkeye

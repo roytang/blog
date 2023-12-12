@@ -18,6 +18,7 @@ tags:
 - comics
 - dc comics
 - speedy
+- panels
 ---
 
 <p>Green Lantern - Green Arrow #85 DC tackles the drug problem<br/></p>

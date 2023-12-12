@@ -13,6 +13,7 @@ tags:
 - marvel
 - comics
 - ireadcomicbooks
+- panels
 ---
 
 Spider-man (2016) #21

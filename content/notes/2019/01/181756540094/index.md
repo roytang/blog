@@ -14,6 +14,7 @@ tags:
 - x-men
 - joe madureira
 - ireadcomicbooks
+- panels
 ---
 
 Uncanny X-men #316 cover by Joe Madureira

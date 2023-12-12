@@ -1,5 +1,5 @@
 ---
-date: 2023-09-27 19:04:24+00:00
+date: 2023-09-27 19:04:24
 dontinlinephotos: true
 resources:
 - src: 111138666200388561_1_52216bea324c8529.png
@@ -16,6 +16,7 @@ tags:
 - comics
 - ai
 - '135'
+- panels
 ---
 
 <p>Even 1970s Marvel knew the dangers of AI-generated content and deepfakes!</p><p>Daredevil #135, 1976</p><p><a href="https://indieweb.social/tags/ai" class="mention hashtag" rel="tag">#<span>ai</span></a> <a href="https://indieweb.social/tags/comics" class="mention hashtag" rel="tag">#<span>comics</span></a></p>

@@ -13,6 +13,7 @@ tags:
 - marvel
 - x-men
 - ireadcomicbooks
+- panels
 ---
 
 <p>All-New X-Men #2 covert art by Stuart Immonen<br/></p>

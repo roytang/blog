@@ -13,6 +13,7 @@ tags:
 - comics
 - batman
 - ireadcomicbooks
+- panels
 ---
 
 Detective Comics #988 by James Robinson and Stephen Segovia. Grammatical error missed by editors

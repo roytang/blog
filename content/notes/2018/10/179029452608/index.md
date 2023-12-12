@@ -14,6 +14,7 @@ tags:
 - black widow
 - comics
 - ireadcomicbooks
+- panels
 ---
 
 <p>A+X v1 #2 by Chris Bachalo<br/></p>

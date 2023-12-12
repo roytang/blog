@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1084269035364200448/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="http://cantstopthinkingcomics.tumblr.com/post/180222438846/war-of-the-realms-by-russell-dauterman" class="tumblr_blog">cantstopthinkingcomics</a>:</p><blockquote><p>War of the Realms by Russell Dauterman</p></blockquote>

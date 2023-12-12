@@ -18,6 +18,7 @@ tags:
 - new avengers
 - avengers
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="https://sevenheadstencrowns.tumblr.com/post/163794976492/new-avengers-by-leinil-francis-yu" class="tumblr_blog">sevenheadstencrowns</a>:</p>

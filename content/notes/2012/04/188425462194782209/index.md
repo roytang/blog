@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/188425462194782209/
 tags:
 - comics
+- panels
 ---
 
-Fool! Doctor Doom does as he pleases! https://i.imgur.com/3C4Sb.jpg
+Fool! Doctor Doom does as he pleases!
+
+Source: Spidey Super Stories #53 

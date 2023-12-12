@@ -15,6 +15,7 @@ tags:
 - sideways
 - kenneth rocafort
 - ireadcomicbooks
+- panels
 ---
 
 <p>Sideways #1 cover by Kenneth Rocafort<br/></p>

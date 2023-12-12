@@ -13,6 +13,7 @@ tags:
 - comics
 - x men
 - ireadcomicbooks
+- panels
 ---
 
 The X-Men fight fake news and also search for cat videos X-Men Red #9 by Tom Taylor and Roge Antonio

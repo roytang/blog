@@ -15,6 +15,7 @@ tags:
 - stan lee
 - moebius
 - ireadcomicbooks
+- panels
 ---
 
 Silver Surfer: Parable by Stan Lee and Moebius

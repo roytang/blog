@@ -14,6 +14,7 @@ tags:
 - captain america
 - alex ross
 - ireadcomicbooks
+- panels
 ---
 
 Captain America (2018) #1 cover by Alex Ross

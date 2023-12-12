@@ -15,6 +15,7 @@ tags:
 - black widow
 - thor
 - ireadcomicbooks
+- panels
 ---
 
 <p>Avengers #2 cover by Jerome Opena<br/></p>

@@ -13,6 +13,7 @@ tags:
 - comics
 - spider man
 - ireadcomicbooks
+- panels
 ---
 
 Otto learns what it means to be Spider-man. Amazing Spider-man #700 by Dan Slott and Humberto Ramos

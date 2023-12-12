@@ -1,7 +1,7 @@
 ---
-title: "Lying Cat from Saga"
-date: 2014-08-27T14:45:50+08:00
-tags: 
+date: 2014-08-27 06:45:50
+tags:
 - comicbooks
+- panels
+title: Lying Cat from Saga
 ---
-

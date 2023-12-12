@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1094778185386995712/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="http://comicbookcovers.tumblr.com/post/182511620740/comicbookcovers-recursion-happy-groundhog" class="tumblr_blog">comicbookcovers</a>:</p>

@@ -1,5 +1,5 @@
 ---
-date: 2021-02-25 02:06:02+00:00
+date: 2021-02-25 02:06:02
 source: twitter
 syndicated:
 - type: twitter
@@ -9,6 +9,7 @@ syndicated:
 tags:
 - comicbooks
 - comics
+- panels
 ---
 
 Action Comics #1 (1938) / Superman and Lois S01E01 (2021) #comicbooks #comics

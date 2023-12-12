@@ -12,6 +12,7 @@ tags:
 - marvel
 - comics
 - thor
+- panels
 ---
 
 <p>The Mighty Thor (2015) #1 cover art by Russell Dauterman</p>

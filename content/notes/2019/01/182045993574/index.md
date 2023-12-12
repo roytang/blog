@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1085356116371013632/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="https://browsethestacks.tumblr.com/post/180272474359" class="tumblr_blog">browsethestacks</a>:</p>

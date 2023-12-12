@@ -13,6 +13,7 @@ tags:
 - superman
 - comics
 - ireadcomicbooks
+- panels
 ---
 
 <p>Superman (New 52) #14, cover art by Kenneth Rocafort<br/></p>

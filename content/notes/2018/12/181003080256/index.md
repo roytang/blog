@@ -13,6 +13,7 @@ tags:
 - comics
 - teen titans
 - ireadcomicbooks
+- panels
 ---
 
 Teen Titans (DC Rebirth) #13

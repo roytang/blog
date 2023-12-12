@@ -14,4 +14,5 @@ tags:
 - spider-man
 - captain marvel
 - ireadcomicbooks
+- panels
 ---

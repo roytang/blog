@@ -13,6 +13,7 @@ tags:
 - comics
 - spider-man
 - ireadcomicbooks
+- panels
 ---
 
 Spider-Verse (2014) #1 cover by Antonio Fabela

@@ -13,6 +13,7 @@ tags:
 - masks
 - comics
 - ireadcomicbooks
+- panels
 ---
 
 <p>Masks #1 cover art by Alex Ross<br/></p>

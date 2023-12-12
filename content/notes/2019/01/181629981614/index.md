@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1080282722684293120/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="http://artverso.tumblr.com/post/179244742957/leinil-francis-yu-x-force" class="tumblr_blog">artverso</a>:</p>

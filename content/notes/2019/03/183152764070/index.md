@@ -15,6 +15,7 @@ tags:
 - the flash
 - jae lee
 - ireadcomicbooks
+- panels
 ---
 
 The Flash #62 variant cover by Jae Lee

@@ -14,6 +14,7 @@ tags:
 - spider-man
 - doctor doom
 - ireadcomicbooks
+- panels
 ---
 
 <p>Amazing Spider-Man v2 #50 by J. Michael Straczynski and John Romita Jr.<br/></p>

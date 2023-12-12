@@ -13,6 +13,7 @@ tags:
 - comics
 - spider-man
 - ireadcomicbooks
+- panels
 ---
 
 <p>Marvel Adventures Spider-Man #57<br/></p>

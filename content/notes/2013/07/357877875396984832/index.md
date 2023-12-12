@@ -1,5 +1,5 @@
 ---
-date: 2013-07-18 15:01:49+00:00
+date: 2013-07-18 15:01:49
 source: twitter
 syndicated:
 - type: twitter
@@ -13,7 +13,7 @@ syndicated:
 tags:
 - comics
 - allnewxmen
-
+- panels
 ---
 
 This week: All New X-Men 14 by @brianmbendis had some great moments (Summers Brothers High Five!) and gorgeous art by [@stuartimmonen](https://twitter.com/stuartimmonen/)

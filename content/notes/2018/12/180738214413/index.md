@@ -14,6 +14,7 @@ tags:
 - x-men
 - avengers
 - ireadcomicbooks
+- panels
 ---
 
 House of M #6 by Olivier Coipel

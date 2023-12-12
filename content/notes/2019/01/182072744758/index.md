@@ -15,6 +15,7 @@ tags:
 - mark millar
 - dave johnson
 - ireadcomicbooks
+- panels
 ---
 
 Superman Red Son cover by Dave Johnson

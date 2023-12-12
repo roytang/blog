@@ -11,7 +11,7 @@ syndicated:
 tags:
 - comics
 - spider-man
+- panels
 ---
 
-<p>Marvel 
-<a href="https://i.redd.it/6ed6fcw1jady.jpg">Adventures Spider-Man #57</a><br/></p>
+Marvel Adventures Spider-Man #57

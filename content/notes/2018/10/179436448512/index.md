@@ -13,6 +13,7 @@ tags:
 - dc
 - superman
 - ireadcomicbooks
+- panels
 ---
 
 <p>Superman (New 52) #15 cover art by Kenneth Rocafort<br/></p>

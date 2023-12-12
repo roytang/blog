@@ -13,6 +13,7 @@ tags:
 - comics
 - black widow
 - ireadcomicbooks
+- panels
 ---
 
 <p>Black Widow by Phil Noto<br/></p>

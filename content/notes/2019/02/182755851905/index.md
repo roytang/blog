@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1095260229078564865/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="http://themarvelproject.tumblr.com/post/182734032542/marvel-house-ad-for-the-phalanx-covenant-with-art" class="tumblr_blog">themarvelproject</a>:</p><blockquote><p>Marvel house ad for <i><a href="http://marvelcrossovers.blogspot.com/2013/06/the-phalanx-covenant-1994.html">The Phalanx Covenant</a></i> with art by Joe Madureira, Terry Austin and Dennis Calero (1994).</p></blockquote>

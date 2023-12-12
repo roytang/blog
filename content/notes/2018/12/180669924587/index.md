@@ -15,6 +15,7 @@ tags:
 - red hood
 - red hood and the outlaws
 - ireadcomicbooks
+- panels
 ---
 
 <p>Red Hood and the Outlaws (New 52) #1 cover art by Kenneth Rocafort<br/></p>

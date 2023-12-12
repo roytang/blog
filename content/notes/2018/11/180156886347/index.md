@@ -15,6 +15,7 @@ tags:
 - x men
 - magneto
 - ireadcomicbooks
+- panels
 ---
 
 X-Men (1991) #25 by Fabian Nicieza and Andy Kubert. Magneto removes Wolverine’s adamantium

@@ -19,6 +19,7 @@ tags:
 - ivan reis
 - joe prado
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="http://travisellisor.tumblr.com/post/181374416960/page-20-from-aquaman-2011-9-by-ivan-reis-joe" class="tumblr_blog">travisellisor</a>:</p>

@@ -14,6 +14,7 @@ tags:
 - hulk
 - alex ross
 - ireadcomicbooks
+- panels
 ---
 
 Immortal Hulk #1 cover by Alex Ross

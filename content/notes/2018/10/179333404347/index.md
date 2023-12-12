@@ -13,6 +13,7 @@ tags:
 - comics
 - avengers
 - ireadcomicbooks
+- panels
 ---
 
 <p>Avengers (2012) #1 by Jonathan Hickman and Jerome Opena<br/></p>

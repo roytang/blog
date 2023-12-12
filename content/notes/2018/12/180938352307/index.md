@@ -13,6 +13,7 @@ tags:
 - comics
 - avengers
 - ireadcomicbooks
+- panels
 ---
 
 <p>I was disappointed when Age of Ultron did not have this line. 

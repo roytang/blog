@@ -13,6 +13,7 @@ tags:
 - comics
 - spider man
 - ireadcomicbooks
+- panels
 ---
 
 Superior Spider-man #1 cover by Ryan Stegman

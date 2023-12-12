@@ -13,6 +13,7 @@ tags:
 - dc
 - hawkman
 - ireadcomicbooks
+- panels
 ---
 
 Hawkman v5 #5 variant cover by Matteo Scalera

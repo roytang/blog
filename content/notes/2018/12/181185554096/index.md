@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1074484471779549184/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 <p><a href="http://jetslay.tumblr.com/post/161017705924/clark-kent-changing-into-superman-sequence" class="tumblr_blog">jetslay</a>:</p>

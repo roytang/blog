@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1055637059380133888/
 tags:
 - ireadcomicbooks
+- panels
 ---
 
 Mister Miracle (2018) #1 by Tom King and Mitch Gerads

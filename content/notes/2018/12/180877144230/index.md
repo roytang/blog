@@ -15,6 +15,7 @@ tags:
 - superman
 - worlds finest
 - ireadcomicbooks
+- panels
 ---
 
 Superman asks Batman to help mug a reporter (she had kryptonite). Action Comics #1003 by Brian Michael Bendis and Yannick Paquette

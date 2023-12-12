@@ -14,6 +14,7 @@ tags:
 - spider-man
 - obama
 - ireadcomicbooks
+- panels
 ---
 
 <p>It’s Spider-Man week on ireadcomicbooks! To cap off the week, here’s Amazing Spider-Man #583 guest starring Barack Obama. <br/></p>
