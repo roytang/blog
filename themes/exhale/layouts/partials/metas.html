@@ -95,7 +95,7 @@
 {{ end }}
 <link rel="canonical" href="{{ .Permalink }}" />
 
-<link href="{{ "/favicon.png" | absURL }}" rel="icon">
+<link href='{{ .Site.Params.staticRoot }}static//img/profile.jpg' rel="icon">
 {{ with .Site.Params.themecolor }}
 <meta name="theme-color" content="{{ . }}">
 {{ end }}

@@ -1,12 +1,12 @@
 baseURL = "https://roytang.net/"
 languageCode = "en-us"
-title = "Roy Tang"
+title = "roytang.net"
 theme = "exhale"
 
 # Pagination
 paginate = 50
 paginatePath = "p"
-relativeURLs= true
+relativeURLs = true
 
 ignoreErrors = ["error-output-taxonomy"]
 
@@ -41,17 +41,10 @@ canonifyURLs = true
 
 [outputs]
   page = ["HTML"]
-  home = ["HTML", "RSS", "jsonfeed", "hfeed", "readme"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS", "mdlist"]
 
 [taxonomies]
-    tag = "tags"
-    topic = "categories"
-    source = "source"
-    album = "albums"
-    location = "locations"
     quote_tag = "quotes/tags"
+    comic_tag = "comics/tags"
 
 
 [author]
@@ -61,14 +54,6 @@ canonifyURLs = true
 
 [permalinks]
     post = "/:year/:month/:slug/"
-    photos = "/:year/:month/:filename/"
-    notes = "/:year/:month/:filename/"
-    links = "/:year/:month/:filename/"
-    replies = "/:year/:month/:filename/"
-    reposts = "/:year/:month/:filename/"
-    fiction = "/:year/:month/:slug/"
-    archm = "/:year/:month/"
-    archy = "/:year/"    
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -84,69 +69,17 @@ canonifyURLs = true
     topline = "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart."
     featuredImage = "https://roytang.net/img/profile.jpg"
     description = "Roy Tang's blog. Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
-    mainColor = "#57cc8a"
-    footline = """
-Webrings:
-
-- [←](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous)🕸💍[→](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next)
-- <a href='https://webring.xxiivv.com/#random' target='_blank'><img class='link' src='https://webring.xxiivv.com/icon.black.svg'/></a>
-- **Geekring:** <a href='http://geekring.net/site/91/previous'>Previous</a> :: <a href='http://geekring.net/site/91/random'>Random</a> :: <a href='http://geekring.net/site/91/next'>Next</a>
-"""
-    comments_enabled = true
+    footline = ""
     webmention_username = 'roytang.net'
-    search_action = 'https://apps.roytang.net/blog/search'
-    # comments_endpoint = 'https://apps.roytang.net/blog/comments/submit/'
-    micropub_endpoint = 'https://apps.roytang.net/blog/micropub'
-    microsub_endpoint = 'https://aperture.p3k.io/microsub/521'
-    recaptcha_key = '4439b678-db6d-41af-b9f9-c8d8ef70e5c9'
-    
+    search_action = 'https://roytang.net/search/'
     sourceFileBase = 'https://github.com/roytang/blog/tree/master/content/'
-    mainSections = ["post", "links", "photos", "notes", "fiction"]
-
-    # can use markdown here
-    hero_text = """**Roy Tang** is a:
-
-- [programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart](/2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/)
-- Frustrated writer and [sketch artist](/album/sketchbook/)
-- [Magic](/tags/mtg) player on weekends
-- Sometimes [I stream video games](/tags/twitch).
-- [Software developer](/tags/software-development/) since 2003. If you'd like to work with me, take a look at my [resume](/resume).
-
-[roytang.net](https://roytang.net) is a personal site, an [E/N site](http://sawv.org/en.html), and kind of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book); 
-I post about a random assortment of topics that interest me including [software development](/tags/software-development/), [Magic the Gathering](/tags/magic-the-gathering/), [pop culture](/tags/pop-culture), [gaming](/tags/gaming), and [tech life](tags). This site is [perpetually under renovation](/2019/08/perpetually-under-renovation/).
-    """
     
-    # Sidebar position
-    # false, true, "left", "right"
-    sidebar = "left"
-
-    # Text for the top menu link, which goes the root URL for the site.
-    # Default (if omitted) is "Home".
-    home = "Home"
 
     # Select a syntax highight for highlight.js
     # Check the static/css/highlight directory for options.
     # Leave unset to fall back to default hugo highlighter instead of highlight.js
     highlight = "default"
 
-    # Google Analytics.
-    googleAnalytics = "UA-129889874-1"
-
-    # Sidebar social links.
-    location = "Philippines"
-    locationlink = "/tags/philippines"
-    github = "roytang" # Your Github profile ID
-    linkedin = "roytang" # Your LinkedIn profile ID (from public URL)
-    twitter = "roytang" # Your Twitter profile ID
-    instagram = "roytang0400"
-    twitch = "twitchyroy"
-    reddit = "hungryroy"
-    mastodon = "roytang@mastodon.technology"
-    mastodon_url = "https://mastodon.technology/@roytang"
-
-    # Sidebar RSS link: will only show up if there is a RSS feed
-    # associated with the current page
-    rss = true
 
 [blackfriday]
     angledQuotes = false
