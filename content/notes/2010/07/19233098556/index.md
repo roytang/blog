@@ -16,3 +16,7 @@ tags:
 ---
 
 Just saw Shutter Island. Where did I read someone comparing it to Inception? Not even close.
+
+Notes from my journal: 
+
+> So I saw Shutter Island yesterday. It's ok, but definitely not as good as Inception. It doesn't help that I was expecting a twist ending from the very start. Also, what made me think Chris Nolan was involved with this one also?

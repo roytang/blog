@@ -1,10 +1,5 @@
 ---
 date: 2012-05-30 14:02:29
-reviews:
-- description: ''
-  media: movies
-  rating: 0.0
-  title: The Expendables 2 (2012)
 source: twitter
 syndicated:
 - type: twitter
