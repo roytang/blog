@@ -1,0 +1,12 @@
+{
+  "id": "fb3a6d31-b3a3-4269-b534-288adec59055",
+  "name": "Roy Tang",
+  "url": "https://roytang.net",
+  "text": "Ah, the embedding on my site is not something webmention.io does. It just receives webmentions for me. I have a Python script I wrote that gets the incoming webmentions as JSON from webmention.io and saves them to my site's repo.",
+  "date": "2023-12-14 14:14:27 +0800",
+  "photo": null,
+  "source_url": null,
+  "source": "web",
+  "spam": false,
+  "reply_to": null
+}
