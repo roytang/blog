@@ -1,9 +1,12 @@
 ---
-date: 2016-12-17 15:48:55+00:00
+date: 2016-12-17 15:48:55
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/810149784694575104/
+tags:
+- panels
+- philnoto
 title: ''
 ---
 
