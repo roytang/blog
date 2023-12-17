@@ -63,7 +63,7 @@ dontinlinephotos: true
 
 ### 7-x Drafts
 
-{{% photos trophy %%}}
+{{% photos trophy %}}
 
 ### Related 
 

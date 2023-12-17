@@ -46,6 +46,9 @@ toc: true
 
 | Year | Month | Format |  | D1 W | D1 L | D1 D | D2 W | D2 L | D2 D |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 2023 | 12 | Sealed | Khans of Tarkir | 1 | 3 |
+| 2023 | 12 | Sealed | Khans of Tarkir | 3 | 3 |
+| 2023 | 11 | Sealed | Lost Caverns of Ixalan | 2 | 3 |
 | 2023 | 10 | Sealed | Wilds of Eldraine | 3 | 3 |
 | 2023 | 09 | Sealed | Wilds of Eldraine | 3 | 3 |
 | 2023 | 09 | Sealed | Wilds of Eldraine | 5 | 3 |
