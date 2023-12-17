@@ -1,12 +1,15 @@
 ---
-title: "Khans of Tarkir Arena Open"
-date: 2023-12-17T18:51:04+08:00
+date: 2023-12-17 10:51:04
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111596327824396419
 tags:
 - mtg
 - magicarena
 - mtgktk
 - arenaopen
-dontinlinephotos: true
+title: Khans of Tarkir Arena Open
 ---
 
 Magic Arena had a Khans of Tarkir limited Arena Open this weekend, and I wasted resources attempting to win the event, not just once, but TWICE!

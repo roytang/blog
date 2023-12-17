@@ -1,6 +1,9 @@
 ---
-date: 2023-12-17T22:51:04+08:00
+date: 2023-12-17 14:51:04
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111596326562664098
 tags:
 - weeknotes
 title: 2023 Week 50
