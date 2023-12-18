@@ -992,3 +992,16 @@ img.tn {
 .lightbox_overlay .iconbar a:hover {
     background-color: var(--container-color);
 }
+
+/* https://www.paritybit.ca/blog/styling-external-links.html */
+a[href^="http"]:where(:not([href*="roytang.net/"]))::after, a[href^="https"]:where(:not([href*="roytang.net/"]))::after {
+    display:inline-block;
+    font:14px/1 ForkAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    content:"︎↗";
+    padding-left:.5em;
+    font-size:.75em
+}
