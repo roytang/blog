@@ -3,8 +3,11 @@ date: 2023-12-18 19:17:31
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111603179811470642
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111603196116684337
 tags:
 - tech-life
+- robb
 title: Default Apps
 ---
 
@@ -41,3 +44,5 @@ This made me remember that back in the day when I used to reinstall Windows a lo
 Honestly I was much more interested in how this spread. The page linked at the top includes a list of people who have done this "meme", and an OPML file you can follow, and you can add yourself to the list via Github. Is this how we do hashtags in the blogosphere?!? Is the blogosphere still a thing?!?
 
 Related: [New Phone Loadout](/2023/08/new-phone-loadout/)
+
+<time id="111603196116684337">[04:00]</time> <p><span class="h-card" translate="no"><a href="https://social.lol/@robb" class="u-url mention">@<span>robb</span></a></span> tagging to be added to the list because I&#39;m too lazy to do it myself via Github, thank you!</p>
