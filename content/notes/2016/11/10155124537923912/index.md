@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155124537923912
 tags:
 - timeline-photos
+- duterte
 ---
 
 Dear friends who support the president, paki-explain naman yung context ng quote below (yung nasa ibaba) please. 
