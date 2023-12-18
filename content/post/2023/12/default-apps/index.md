@@ -1,8 +1,11 @@
 ---
-title: "Default Apps"
-date: 2023-12-19T03:17:31+08:00
+date: 2023-12-18 19:17:31
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111603179811470642
 tags:
 - tech-life
+title: Default Apps
 ---
 
 There was this thing (meme?) that was going around on different blogs about [people posting their default apps](https://defaults.rknight.me/) and I wasn't particularly interested in doing it, yet here I am. 
