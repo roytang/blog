@@ -4,10 +4,10 @@
 
     <p class="breadcrumbs">
       <a href="../../../">Collections</a>
-      > <a href="../../">Quotes</a>
+      > <a href="../../">Comics</a>
       > {{ .Title }} tag
     </p>
-    <h3><a class="u-url" href="{{ .Permalink }}">Quotes tagged {{ .Title }}</a></h3>
+    <h3><a class="u-url" href="{{ .Permalink }}">Comics tagged {{ .Title }}</a></h3>
     <ul class="entry_list">
       {{ range (.Paginator.Pages.ByLastmod.Reverse) }}
       <li>{{ .Render "list_item" }}</li>

@@ -994,7 +994,7 @@ img.tn {
 }
 
 /* https://www.paritybit.ca/blog/styling-external-links.html */
-a[href^="http"]:where(:not([href*="roytang.net/"]))::after, a[href^="https"]:where(:not([href*="roytang.net/"]))::after {
+a[href^="http"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after, a[href^="https"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after {
     display:inline-block;
     font:14px/1 ForkAwesome;
     font-size:inherit;

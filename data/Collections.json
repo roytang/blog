@@ -1,14 +1,12 @@
-[
-    {
-        "section": "quotes",
+{
+    "quotes": {
         "label": "Quotes",
         "descrip": "Quotes, lyrics, etc that I liked or found interesting.",
-        "count": 5
+        "feeds": false
     },
-    {
-        "section": "comics",
+    "comics": {
         "label": "Comics",
         "descrip": "Comics covers, excerpts, panels, art",
-        "count": 5
+        "feeds": false
     }
-]
+}

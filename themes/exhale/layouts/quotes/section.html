@@ -1,6 +1,16 @@
 {{ define "main" }}
 
+{{ $sections := .Site.Data.Collections }}
+{{ $section := index $sections .Type }}    
+
+<p class="breadcrumbs">
+  <a href="../../../">Collections</a>
+  > {{ $section.label }}
+</p>
+
 <section class="h-feed">
+
+  <p class="p-name sub">{{ $section.label }}: {{ $section.descrip }}</p>
 
   <ul class="entry_list">
     {{ range (.Paginator.Pages.ByLastmod.Reverse) }}

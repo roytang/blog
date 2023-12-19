@@ -15,6 +15,7 @@
 {{ end }}
 
 
+{{ if .Site.Params.homeShowRecentItems }}
 {{ $sections := .Site.Data.Home }}
 {{ $sitePages := .Site.RegularPages }}
 {{ range $sections }}
@@ -30,7 +31,17 @@
   </article>  
   <p class="home_article_footer"><a href="/{{ .section }}">View all</a> ({{ len (where $sitePages "Section" "==" .section ) }} items)</p>
 {{ end }}
+{{ end }}
 
-<p></p>
+
+<h2>Collections</h2>
+<ul class="section-list">
+    {{ $sections := .Site.Data.Home }}
+    {{ $pages := .Site.RegularPages }}
+    {{ range $sections }}
+      <li><a href="{{ .section }}">{{ .label }}</a> {{ .descrip }} ({{ len (where $pages "Section" "==" .section ) }} items)</li>
+    {{ end }}
+</ul>
+
 
 {{ end }}
