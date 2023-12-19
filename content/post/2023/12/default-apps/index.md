@@ -45,4 +45,4 @@ Honestly I was much more interested in how this spread. The page linked at the t
 
 Related: [New Phone Loadout](/2023/08/new-phone-loadout/)
 
-<time id="111603196116684337">[04:00]</time> <p><span class="h-card" translate="no"><a href="https://social.lol/@robb" class="u-url mention">@<span>robb</span></a></span> tagging to be added to the list because I&#39;m too lazy to do it myself via Github, thank you!</p>
+<p><span class="h-card" translate="no"><a href="https://social.lol/@robb" class="u-url mention">@robb</span></a></span> tagging to be added to the list because I&#39;m too lazy to do it myself via Github, thank you!</p>
