@@ -5,6 +5,11 @@ date: 2008-12-20 04:38:21
 title: My Phone Was Stolen
 type: post
 url: /2008/12/my-phone-was-stolen/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1067295016/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/40699124063
 ---
 
 I wish there was more to the story, but the true story is rather short: I had a moment of carelessness as I hurriedly tried to disemabark from the crowded MRT, and by the time I was getting on an FX at Megamall I noticed that the front pocket of my bag was open and my phone was missing.
