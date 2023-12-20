@@ -1,5 +1,8 @@
 ---
-comics/tags: []
+comics/tags: 
+- marvel
+- thor
+- dauterman
 date: 2019-01-13 02:00:56
 syndicated:
 - type: tumblr
@@ -9,6 +12,5 @@ syndicated:
 via:
   name: cantstopthinkingcomics
   url: https://cantstopthinkingcomics.tumblr.com/post/180222438846/war-of-the-realms-by-russell-dauterman
+title: 'War of the Realms by Russell Dauterman'
 ---
-
-<p><a href="http://cantstopthinkingcomics.tumblr.com/post/180222438846/war-of-the-realms-by-russell-dauterman" class="tumblr_blog">cantstopthinkingcomics</a>:</p><blockquote><p>War of the Realms by Russell Dauterman</p></blockquote>

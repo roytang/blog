@@ -1,5 +1,7 @@
 ---
-comics/tags: []
+comics/tags: 
+- marvel
+- ross
 date: 2019-01-16 02:00:37
 syndicated:
 - type: tumblr
@@ -9,7 +11,5 @@ syndicated:
 via:
   name: brianmichaelbendis
   url: https://brianmichaelbendis.tumblr.com/post/181721161040/browsethestacks-the-marvelous-cover-art-of-alex
+title: Alex Ross Marvel covers
 ---
-
-<p><a href="https://browsethestacks.tumblr.com/post/180272474359" class="tumblr_blog">browsethestacks</a>:</p>
-<blockquote><p>The Marvel(ous) Cover Art Of Alex Ross</p></blockquote>

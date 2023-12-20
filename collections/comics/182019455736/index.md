@@ -11,6 +11,6 @@ syndicated:
   url: https://ireadcomicbooks.tumblr.com/post/182019455736/champions-2019-1
 - type: twitter
   url: https://twitter.com/roytang/statuses/1084993785782771712/
+title: 'Champions (2019) #1'
 ---
 
-<p>Champions (2019) #1<br/></p>
