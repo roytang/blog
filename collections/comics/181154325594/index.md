@@ -2,6 +2,7 @@
 comics/tags:
 - marvel
 - spider man
+- zdarsky
 date: 2018-12-16 02:00:56
 syndicated:
 - type: tumblr
@@ -11,9 +12,7 @@ syndicated:
 via:
   name: zdarsky
   url: https://zdarsky.tumblr.com/post/180901621291/why-i-love-comics-peter-parker-the-spectacular
+title: 'Peter Parker: The Spectacular Spider-Man #310 by Chip Zdarsky'
 ---
 
-<p><a href="http://why-i-love-comics.tumblr.com/post/178525356653/peter-parker-the-spectacular-spider-man-310" class="tumblr_blog">why-i-love-comics</a>:</p><blockquote>
-<p><b>Peter Parker: The Spectacular Spider-Man #310 - “Finale” (2018)</b></p>
-<blockquote><p>written by Chip Zdarsky<br/>art by Chip Zdarsky</p></blockquote>
-</blockquote>
+Peter Parker: The Spectacular Spider-Man #310 - “Finale” (2018)

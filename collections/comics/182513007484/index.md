@@ -10,6 +10,6 @@ syndicated:
   url: https://ireadcomicbooks.tumblr.com/post/182513007484/flash-rebirth-34-justice-league-movie-variant
 - type: twitter
   url: https://twitter.com/roytang/statuses/1091879108550770689/
+title: 'Flash (Rebirth) #34 Justice League movie variant cover by McKone and Fajardo'
 ---
 
-Flash (Rebirth) #34 Justice League movie variant cover by McKone and Fajardo

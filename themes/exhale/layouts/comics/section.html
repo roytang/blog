@@ -13,7 +13,7 @@
   <p class="p-name sub">{{ $section.label }}: {{ $section.descrip }}</p>
 
   <ul class="entry_list">
-    {{ range (.Paginator.Pages.ByLastmod.Reverse) }}
+    {{ range (.Paginator.Pages.ByLastmod) }}
     <li>{{ .Render "list_item" }}</li>
     {{ end }}
   </ul>

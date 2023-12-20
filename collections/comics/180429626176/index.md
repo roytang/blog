@@ -10,4 +10,5 @@ syndicated:
   url: https://ireadcomicbooks.tumblr.com/post/180429626176
 - type: twitter
   url: https://twitter.com/roytang/statuses/1066149636451311618/
+title: 'Avenging Spider-Man #9, cover by Terry Dodson'
 ---

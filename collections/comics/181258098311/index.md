@@ -9,8 +9,9 @@ syndicated:
   url: https://ireadcomicbooks.tumblr.com/post/181258098311/fool-doctor-doom-does-as-he-pleases-spidey-super
 - type: twitter
   url: https://twitter.com/roytang/statuses/1075571626178211840/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/188425462194782209/
+title: 'Spidey Super Stories Vol 1 #53'
 ---
 
-<p>Fool! Doctor Doom does as he pleases! Spidey Super Stories Vol 1 #53
-
-(July, 1981)<br/></p>
+Fool! Doctor Doom does as he pleases! (July, 1981)

@@ -1,5 +1,8 @@
 ---
-comics/tags: []
+comics/tags: 
+- marvel
+- x-men
+- madureira
 date: 2019-02-12 09:56:01
 syndicated:
 - type: tumblr
@@ -9,6 +12,7 @@ syndicated:
 via:
   name: zeddfrost
   url: https://zeddfrost.tumblr.com/post/182751116496/themarvelproject-marvel-house-ad-for-the-phalanx
+title: Phalanx Covenant house ad
 ---
 
-<p><a href="http://themarvelproject.tumblr.com/post/182734032542/marvel-house-ad-for-the-phalanx-covenant-with-art" class="tumblr_blog">themarvelproject</a>:</p><blockquote><p>Marvel house ad for <i><a href="http://marvelcrossovers.blogspot.com/2013/06/the-phalanx-covenant-1994.html">The Phalanx Covenant</a></i> with art by Joe Madureira, Terry Austin and Dennis Calero (1994).</p></blockquote>
+Marvel house ad for The Phalanx Covenant with art by Joe Madureira, Terry Austin and Dennis Calero (1994).

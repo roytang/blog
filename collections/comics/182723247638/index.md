@@ -9,12 +9,6 @@ syndicated:
 via:
   name: comicbookcovers
   url: https://comicbookcovers.tumblr.com/post/182511620740/comicbookcovers-recursion-happy-groundhog
+title: Recursion comic covers
 ---
 
-<p><a href="http://comicbookcovers.tumblr.com/post/182511620740/comicbookcovers-recursion-happy-groundhog" class="tumblr_blog">comicbookcovers</a>:</p>
-
-<blockquote><p><a href="http://comicbookcovers.tumblr.com/post/156723955220/recursion" class="tumblr_blog">comicbookcovers</a>:</p>
-
-<blockquote><p>Recursion<br/></p></blockquote>
-
-<p>Happy groundhog day! </p></blockquote>

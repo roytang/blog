@@ -3,6 +3,7 @@ comics/tags:
 - marvel
 - new avengers
 - avengers
+- yu
 date: 2018-11-30 02:00:43
 syndicated:
 - type: tumblr
@@ -12,7 +13,5 @@ syndicated:
 via:
   name: brianmichaelbendis
   url: https://brianmichaelbendis.tumblr.com/post/180222477476/sevenheadstencrowns-new-avengers-by-leinil
+title: 'New Avengers by Leinil Francis Yu'
 ---
-
-<p><a href="https://sevenheadstencrowns.tumblr.com/post/163794976492/new-avengers-by-leinil-francis-yu" class="tumblr_blog">sevenheadstencrowns</a>:</p>
-<blockquote><p>New Avengers by Leinil Francis Yu</p></blockquote>

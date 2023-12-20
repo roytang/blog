@@ -16,6 +16,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1105648208741654529/
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/183439449612/roytang-green-lantern-green-arrow-85-dc
+title: 'Green Lantern - Green Arrow #85'
 ---
 
-<p>Green Lantern - Green Arrow #85 DC tackles the drug problem<br/></p>
+Green Lantern - Green Arrow #85 DC tackles the drug problem

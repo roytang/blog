@@ -2,6 +2,7 @@
 comics/tags:
 - marvel
 - thor
+- dauterman
 date: 2018-10-16 00:00:14
 syndicated:
 - type: tumblr
@@ -10,6 +11,5 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1051986135549976577/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1051989769301966848/
+title: 'The Mighty Thor (2015) #1 cover art by Russell Dauterman'
 ---
-
-<p>The Mighty Thor (2015) #1 cover art by Russell Dauterman</p>

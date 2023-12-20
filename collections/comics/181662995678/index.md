@@ -1,5 +1,8 @@
 ---
-comics/tags: []
+comics/tags: 
+- dc
+- superman
+- frank
 date: 2019-01-03 02:00:50
 syndicated:
 - type: tumblr
@@ -9,6 +12,6 @@ syndicated:
 via:
   name: brianmichaelbendis
   url: https://brianmichaelbendis.tumblr.com/post/181531613561/artverso-gary-frank-doomsday-clock
+title: 'Doomsday Clock #1 by Gary Frank'
 ---
 
-<p><a href="http://artverso.tumblr.com/post/179995449502/gary-frank-doomsday-clock" class="tumblr_blog">artverso</a>:</p><blockquote><p>Gary Frank - Doomsday Clock </p></blockquote>

@@ -2,6 +2,7 @@
 comics/tags:
 - marvel
 - guardians of the galaxy
+- parel
 date: 2018-12-05 02:01:08
 syndicated:
 - type: tumblr
@@ -11,8 +12,5 @@ syndicated:
 via:
   name: zeddfrost
   url: https://zeddfrost.tumblr.com/post/180390781351/bear1na-guardians-of-the-galaxy-1-variant
+title: 'Guardians of the Galaxy #1 variant cover by Gerald Parel'
 ---
-
-<p><a href="http://bear1na.tumblr.com/post/180304021229/guardians-of-the-galaxy-1-variant-cover-by-gerald" class="tumblr_blog">bear1na</a>:</p>
-
-<blockquote><p>Guardians of the Galaxy #1 variant cover by Gerald Parel *</p></blockquote>

@@ -1,5 +1,8 @@
 ---
-comics/tags: []
+comics/tags: 
+- marvel
+- thor
+- dauterman
 date: 2019-01-07 02:00:50
 syndicated:
 - type: tumblr
@@ -9,8 +12,6 @@ syndicated:
 via:
   name: russelldauterman
   url: https://russelldauterman.tumblr.com/post/181585937664/my-favorite-thing-i-drew-in-2018-from-the
+title: The Mighty Thor
 ---
 
-<p><a href="http://russelldauterman.tumblr.com/post/181585937664/my-favorite-thing-i-drew-in-2018-from-the" class="tumblr_blog">russelldauterman</a>:</p>
-
-<blockquote><p>My favorite thing I drew in 2018 ❤️😭 </p><p>(From THE MIGHTY THOR, art by me + Matt Wilson)</p></blockquote>

@@ -1,5 +1,8 @@
 ---
-comics/tags: []
+comics/tags: 
+- marvel
+- x-force
+- yu
 date: 2019-01-02 02:00:45
 syndicated:
 - type: tumblr
@@ -9,7 +12,5 @@ syndicated:
 via:
   name: brianmichaelbendis
   url: https://brianmichaelbendis.tumblr.com/post/181500894667/artverso-leinil-francis-yu-x-force
+title: 'Cable and X-Force #5 variant cover by Leinil Francis Yu'
 ---
-
-<p><a href="http://artverso.tumblr.com/post/179244742957/leinil-francis-yu-x-force" class="tumblr_blog">artverso</a>:</p>
-<blockquote><p>Leinil Francis Yu - X-Force </p></blockquote>
