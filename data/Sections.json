@@ -19,6 +19,11 @@
         "cache_feed": true,
         "descrip": "A <a href='https://kottke.org/05/10/tumblelogs'>tumblelog</a> of sorts. Microblog-like status updates, short notes, reposts, logs of things I've found."
     },
+    "replies": {
+        "label": "Replies",
+        "cache_feed": true,
+        "descrip": "Replies."
+    },
     "likes": {
         "label": "Likes",
         "descrip": "Likes/favorites.",
