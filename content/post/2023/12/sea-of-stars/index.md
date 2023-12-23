@@ -3,35 +3,38 @@ date: 2023-12-23 05:37:59
 dontinlinephotos: true
 resources:
 - src: Sea of Stars 01_10_2023 6_54_09 pm.png
-  title: 'The game features a quiz minigame!'
+  title: The game features a quiz minigame!
 - src: Sea of Stars 04_12_2023 3_09_37 pm.png
-  title: 'My only crime was being born delicious'
+  title: My only crime was being born delicious
 - src: Sea of Stars 13_12_2023 5_03_29 pm.png
-  title: 'The game features a lot of nonhuman species'
+  title: The game features a lot of nonhuman species
 - src: Sea of Stars 04_12_2023 3_35_12 pm.png
-  title: 'Yolande introduces herself while we are applying for passports'
+  title: Yolande introduces herself while we are applying for passports
 - src: Sea of Stars 15_12_2023 1_46_13 pm.png
-  title: 'One of your party members changes into different forms depending on the situation!'
+  title: One of your party members changes into different forms depending on the situation!
 - src: Sea of Stars 16_12_2023 2_27_36 pm.png
-  title: 'The combat menu is very simple and straightforward'
+  title: The combat menu is very simple and straightforward
 - src: Sea of Stars 16_12_2023 2_48_06 pm.png
-  title: 'Have you met her before?'
+  title: Have you met her before?
 - src: Sea of Stars 20_09_2023 5_40_44 am.png
-  title: 'A parody of RPG tropes'
+  title: A parody of RPG tropes
 - src: Sea of Stars 22_11_2023 1_57_28 pm.png
-  title: 'Those smiling mushrooms can feel a bit creepy'
+  title: Those smiling mushrooms can feel a bit creepy
 - src: Sea of Stars 22_11_2023 1_58_12 pm.png
-  title: 'More combat'
+  title: More combat
 - src: Sea of Stars 22_12_2023 1_33_48 pm.png
-  title: 'The end'
+  title: The end
 - src: Sea of Stars 23_12_2023 10_49_11 am.png
-  title: 'Start menu'
+  title: Start menu
 - src: stats.png
-  title: 'Stats from XBox app'
+  title: Stats from XBox app
 reviews:
 - media: games
   rating: 4.5
   title: Sea of Stars (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111628281837014402
 tags:
 - gaming
 - games
