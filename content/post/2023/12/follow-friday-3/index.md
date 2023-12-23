@@ -1,10 +1,13 @@
 ---
-title: "Follow Friday #3 and 2023 Blogroll Update"
-date: 2023-12-22T23:56:50+08:00
+date: 2023-12-22 15:56:50
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111628113673488670
 tags:
 - tech-life
 - follow-friday
 - blogging
+title: 'Follow Friday #3 and 2023 Blogroll Update'
 ---
 
 It's been a year since [I last did one of these](/2022/12/follow-friday-2/), and to think I once thought I could do it monthly maybe! Once a year will do for now.
@@ -52,4 +55,3 @@ Recently I've been considering adding a sidebar back to this site (even though r
 ### That's It
 
 Next update will be in December next year I suppose? In the meantime, feel free to keep posting links to blogs and blogrolls!
-
