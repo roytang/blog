@@ -26,8 +26,10 @@ resources:
   title: The end
 - src: Sea of Stars 23_12_2023 10_49_11 am.png
   title: Start menu
-- src: stats.png
+- src: stats-gamepass.png
   title: Stats from XBox app
+- src: stats-ingame.png
+  title: Stats from within the game
 reviews:
 - media: games
   rating: 4.5
@@ -61,7 +63,7 @@ Overall the game was a great "comfort food" kind of game that is relaxing to pla
 
 ### Stats / Completion
 
-{{% photos stats %}}
+{{% photos stats-gamepass %}}
 
 Play time: 45hrs, 43mins. 
 
@@ -70,6 +72,10 @@ Achievements: 41/42 (920/1000 gamerscore)
 I am actually fairly happy with the achievement design with this game because even though it has you collecting every treasure in the game, nothing is ever really missable. The one achievement I did not do required an extra partial New Game+ run and I was actually game to try going for it, except that NG+ does not seem to let me skip cutscenes that I've already seen so it would have taken too much time.
 
 HLTB says 41 hours for completionist, so I went a bit above average with this one, especially since I didn't bother with NG+.
+
+{{% photos stats-ingame %}}
+
+Edit: I forgot that the game also shows you in-game stats! The above says my death count is at 2 and my play time is at 34 hours, but I suspect my actual death count is a bit higher than that (usually because I sometimes get lax about healing my party members), which might would account for the 10+ hr difference in play-time reported by the XBox app.
 
 ### Screenshots!
 
