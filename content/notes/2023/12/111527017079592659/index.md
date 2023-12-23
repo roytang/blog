@@ -1,5 +1,5 @@
 ---
-date: 2023-12-05 09:07:08+00:00
+date: 2023-12-05 09:07:08
 dontinlinephotos: true
 resources:
 - src: 111527017079592659_1_8e9b5877d857a2de.jpg
@@ -12,6 +12,7 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/111527017079592659
 tags:
 - duolingo365
+- 2023recap
 ---
 
 <p>It&#39;s that time of the year again when companies pretend December isn&#39;t part of the year, so here&#39;s <a href="https://indieweb.social/tags/Duolingo365" class="mention hashtag" rel="tag">#<span>Duolingo365</span></a></p>

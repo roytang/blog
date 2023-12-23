@@ -6,6 +6,7 @@ syndicated:
 tags:
 - tech-life
 - reddit-recap
+- 2023recap
 title: Reddit Recap 2023
 ---
 
