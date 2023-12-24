@@ -1,9 +1,12 @@
 ---
-date: 2023-12-24T07:05:30+08:00
+date: 2023-12-23 23:05:30
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111633815557310125
 tags:
 - weeknotes
-title: "2023 Week 51"
+title: 2023 Week 51
 ---
 
 It's Christmas Eve later! Doing this weeknotes early since I expect the house to be quite busy in a few hours. Might be shorter than usual.
