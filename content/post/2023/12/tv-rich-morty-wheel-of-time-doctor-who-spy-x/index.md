@@ -77,3 +77,7 @@ Still more of the same; the show remains a fun and light watch, making it easily
 I had started [reading the manga](/2023/07/2023-manga-update/#spy-x-family) after watching season 1 and as of season 2 it has not yet caught up. I think if/when the anime catches up to where I started with the manga, I might drop the show entirely as I believe the show sticks closely to the manga anyway, and I prefer reading over watching when possible.
 
 Previously: [Spy X Family season 1](/2023/01/spyxfamily/)
+
+### That's It
+
+Those are my last TV reviews of the year! Still have some unfinished stuff but those will be reviewed next year I suppose.
