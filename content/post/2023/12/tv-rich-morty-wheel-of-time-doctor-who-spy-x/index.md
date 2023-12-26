@@ -2,12 +2,12 @@
 date: 2023-12-26 04:50:59
 dontinlinephotos: true
 resources:
-- src: rm-mail.png
-  alt: "Even You've Got Mail beings with Tom Hanks killing that cop."
-  title: "Rick is an export on rom-coms"
-- src: spyx.png
-  alt: "I'm a cool-headed spy. I must not let my emotions show."
-  title: "Cool-headed spy."
+- alt: Even You've Got Mail beings with Tom Hanks killing that cop.
+  src: rm-mail.png
+  title: Rick is an export on rom-coms
+- alt: I'm a cool-headed spy. I must not let my emotions show.
+  src: spyx.png
+  title: Cool-headed spy.
 reviews:
 - description: More of the same, but I found a number of the eps enjoyable.
   hashtag: rick-and-morty-s7
@@ -30,6 +30,9 @@ reviews:
   media: tv
   rating: 4.0
   title: Spy X Family S2
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111645166959331263
 tags:
 - tv
 title: 'TV Reviews: Rick and Morty, Wheel of Time, Doctor Who, Spy X Family'
