@@ -5,14 +5,17 @@ reviews:
   media: tv
   rating: 0.0
   title: Hawkeye season 1
+  hashtag: hawkeye
 - description: ''
   media: tv
   rating: 0.0
   title: Wheel of Time season 1
+  hashtag: wheel-of-time
 - description: ''
   media: tv
   rating: 0.0
   title: 'Star Trek: Lower Decks'
+  hashtag: star-trek-lower-decks
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107501642169216789
