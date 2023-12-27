@@ -1,9 +1,12 @@
 ---
-title: "2023 End of Year Linkdump"
-date: 2023-12-27T13:03:29+08:00
+date: 2023-12-27 05:03:29
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111651738546406940
 tags:
 - links
+title: 2023 End of Year Linkdump
 ---
 
 I normally share links via [the link blog](/links/), but I have a HUGE backlog of links to share that I haven't put on the link blog for some reason or another, so I'm going to dump a while bunch of them here in the hopes of cutting down into that backlog. I don't really like doing huge link dumps like this with a variety of different topics because honestly I could just break this list down into multiple blog posts and have them be properly tagged and all, but here we are.
