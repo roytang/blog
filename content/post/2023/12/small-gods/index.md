@@ -1,9 +1,12 @@
 ---
-date: 2023-12-28T16:14:50+08:00
+date: 2023-12-28 08:14:50
 reviews:
 - description: 'Discworld #13'
   media: books
   title: Small Gods by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111657217013874219
 tags:
 - books
 - discworld
