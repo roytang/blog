@@ -1005,3 +1005,7 @@ a[href^="http"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after, a
     padding-left:.5em;
     font-size:.75em
 }
+
+.boot {
+    font-size: 75%; color: gray;
+}

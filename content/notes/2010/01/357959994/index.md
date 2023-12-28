@@ -5,7 +5,6 @@ syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/357959994/kerwin-and-i-were-watching-ma-play-scrabble-on
 tags:
-- quotes
 - mama
 ---
 

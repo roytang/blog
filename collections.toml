@@ -60,8 +60,8 @@ canonifyURLs = true
 #
 [params]
     rootPath = "collections/"
-    staticRoot = "https://roytang.net/media/"
-    # staticRoot = "http://localhost/repos/blog/"
+    # staticRoot = "https://roytang.net/media/"
+    staticRoot = "http://localhost/repos/blog/"
     homeShowRecentItems = false
 
     # You can use markdown here.
