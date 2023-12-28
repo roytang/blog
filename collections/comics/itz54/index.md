@@ -11,7 +11,7 @@ syndicated:
   url: https://reddit.com/r/pics/comments/itz51/batmans_enemies_use_only_the_most_modern_software/
 - type: twitter
   url: https://twitter.com/roytang/statuses/93367037925142528/
-title: Robin vs Windows 95
+title: "Robin (1993) #33"
 ---
 
 Batman's enemies use only the most modern software
