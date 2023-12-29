@@ -3,7 +3,11 @@ date: 2023-12-29 06:01:12
 dontinlinephotos: true
 resources:
 - src: snoopy.jpg
-  title: 'Charlie Brown: "Some day we all will die Snoopy!" Snoopy: "True, but on all other days, we will not!"'
+  title: 'Charlie Brown: "Some day we all will die Snoopy!" Snoopy: "True, but on
+    all other days, we will not!"'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111663308466807309
 title: Being Mortal
 ---
 
