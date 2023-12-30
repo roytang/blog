@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/7234644159/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/233261437060
+tags:
+- nyjoke
 ---
 
 ang ingay ng mga kapitbahay

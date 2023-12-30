@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151995525888912
 tags:
 - itsthesamejokeeveryyear
+- nyjoke
 ---
 
 My new year's resolution: 1440x900 #itsthesamejokeeveryyear

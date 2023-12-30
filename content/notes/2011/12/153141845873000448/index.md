@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/153141845873000448/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150461807028912
+tags:
+- nyjoke
 ---
 
 Ayaw magpatulog ng mga kapitbahay!
