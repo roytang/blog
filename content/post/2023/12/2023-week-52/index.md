@@ -1,11 +1,14 @@
 ---
-date: 2023-12-31 17:00:00+08:00
+date: 2023-12-31 09:00:00
 dontinlinephotos: true
 resources:
 - src: desktop2023.png
-  title: '2023 Desktop screenshot'
+  title: 2023 Desktop screenshot
 - src: shelves_20231230_210635.jpg
-  title: '2023 Shelves'
+  title: 2023 Shelves
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111674231228478074
 tags:
 - weeknotes
 title: 2023 Week 52 Happy New Year!
