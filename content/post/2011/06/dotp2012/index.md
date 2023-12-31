@@ -32,6 +32,8 @@ title: Duels of the Planeswalkers 2012 (Steam)
 
 Played a bunch of Duels 2012 - it's fun, and there's still the Archenemy and Revenge campaigns to play, but it feels like there are a lot less decks and options compared to Duels 2011. Might be because I already have two of the expansion packs for Duels 2011.
 
+Previously: [Duels of the Planeswalkers](/2010/06/dotp/)
+
 ### Social Media Archive
 
 <time>[2011-06-10 08:03] </time> Duels 2012 is almost out, and I haven't even finished Duels 2011 yet!
