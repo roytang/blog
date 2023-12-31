@@ -69,4 +69,4 @@ If you are enjoying the trivia bot over on Mastodon, [the scores will be reset t
 
 ### Sign-off
 
-That's a wrap on 2023 (more or less)! I hope you had a good year, and hopefully we all have an even better 2024.
+That's a wrap on 2023! (More or less, barring any shenanigans this evening!) I hope you had a good year, and hopefully we all have an even better 2024.
