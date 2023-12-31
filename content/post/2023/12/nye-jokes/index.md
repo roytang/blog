@@ -3,6 +3,58 @@ date: 2023-12-31 05:40:12
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111673482750065912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/20863558283689984/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/285704484854853633/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151995525888912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/417983055681187840/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152696359268912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/7234644159/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/233261437060
+- type: twitter
+  url: https://twitter.com/roytang/statuses/20855357555351552/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/153141845873000448/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10150461807028912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151995804143912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/418025767386103808/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152696621138912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/20694299477807104/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/153081055971246080/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10150461462138912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/417902015759396864/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152696012473912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/153141466527580160/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10150461806503912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152696646383912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/417813154358239232/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152695588668912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153460217493912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153461051233912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157162818018912
 tags:
 - puns
 - jokes
@@ -10,6 +62,8 @@ title: Archive of New Year's Eve Jokes and Comments
 ---
 
 Because I've been going through my social media archives recently, here are the NYE jokes/comments I reuse the most often (they are about as original as you'd expect):
+
+<!--more-->
 
 - "New Year's Resolution": 
     - 2010: My New Year's resolution is the same as last year: 1440x900 (via [Twitter](https://twitter.com/roytang/statuses/20863558283689984/))
