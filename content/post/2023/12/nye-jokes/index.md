@@ -1,9 +1,12 @@
 ---
-title: "Archive of New Year's Eve Jokes and Comments"
-date: 2023-12-31T13:40:12+08:00
+date: 2023-12-31 05:40:12
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111673482750065912
 tags:
 - puns
 - jokes
+title: Archive of New Year's Eve Jokes and Comments
 ---
 
 Because I've been going through my social media archives recently, here are the NYE jokes/comments I reuse the most often (they are about as original as you'd expect):
