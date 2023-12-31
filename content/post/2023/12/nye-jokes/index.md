@@ -55,17 +55,38 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153461051233912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157162818018912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/7267414569/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/227252914069
+- type: twitter
+  url: https://twitter.com/roytang/statuses/285970389388107776/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151996821093912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152698611013912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/815241505929510914/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/682726970560364544/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154285745983912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/947790285920022528/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156306713283912
 tags:
 - puns
 - jokes
-title: Archive of New Year's Eve Jokes and Comments
+title: Archive of New Year's Eve/Day Jokes and Comments
 ---
 
-Because I've been going through my social media archives recently, here are the NYE jokes/comments I reuse the most often (they are about as original as you'd expect):
+Because I've been going through my social media archives recently, here are the NYE/D jokes/comments I reuse the most often (they are about as original as you'd expect):
 
 <!--more-->
 
 - "New Year's Resolution": 
+    - 2010 Jan 01: My New Year's Resolution: 1280x800 (via [Twitter](https://twitter.com/roytang/statuses/7267414569/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/227252914069))
     - 2010: My New Year's resolution is the same as last year: 1440x900 (via [Twitter](https://twitter.com/roytang/statuses/20863558283689984/))
     - 2012: My new year's resolution: 1440x900 #itsthesamejokeeveryyear (via [Twitter](https://twitter.com/roytang/statuses/285704484854853633/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10151995525888912))
     - 2013: My new year's resolution: 1920x1080 #itsthesamejokeeveryyear (via [Twitter](https://twitter.com/roytang/statuses/417983055681187840/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10152696359268912))
@@ -83,6 +104,12 @@ Because I've been going through my social media archives recently, here are the 
 - Electricty usage spiking on Dec 31: 
     - 2011: I'm curious how much the electricity usage spikes on New Year's eve over here (via [Twitter](https://twitter.com/roytang/statuses/153141466527580160/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10150461806503912))
     - 2013: I wonder how much the grid's electricity consumption spikes at midnight (via [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10152696646383912))
+- Jokes posted on Jan 1 basically riffing how the year is less than a day old:
+    - 2013: 2012? That's the past! Stop living in the past! (via [Twitter](https://twitter.com/roytang/statuses/285970389388107776/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10151996821093912))
+    - 2014: Confession: I haven't taken a bath all year (via [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10152698611013912))
+    - 2016: It feels like only yesterday it was 2015 (via [Twitter](https://twitter.com/roytang/statuses/682726970560364544/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10154285745983912))
+    - 2017: Ugh, I haven't taken a bath all year #2017 (via [Twitter](https://twitter.com/roytang/statuses/815241505929510914/))
+    - 2018: This has been the best day of the year so far (via [Twitter](https://twitter.com/roytang/statuses/947790285920022528/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10156306713283912))
 - Misc puns/jokes:
     - 2013: If you must use fireworks of any kind tonight, at least try to limit your injuries to the left leg only. That way you can start the new year on the right foot. (via [Twitter](https://twitter.com/roytang/statuses/417813154358239232/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10152695588668912))
     - 2014: I resolve not to reuse the same New Year's Day jokes this year (via [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10153460217493912))
@@ -93,3 +120,5 @@ Because I've been going through my social media archives recently, here are the 
         - *I won't post again until next year*
 
 *(I was originally going to include this as part of today's weeknotes, but there was enough stuff here to just make a separate post!)*
+
+** *Edit: Damnit, I checked my "Dec 31" posts to write the above, then found out I had more jokes in the "Jan 1" posts!*. Added some items above!

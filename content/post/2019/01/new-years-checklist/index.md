@@ -5,6 +5,8 @@ date: 2019-01-01 01:56:56
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1079939358118031361/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157164198743912
 tags:
 - Self-Improvement
 - new-years-checklist
