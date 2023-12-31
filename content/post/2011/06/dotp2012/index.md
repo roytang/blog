@@ -25,7 +25,7 @@ syndicated:
 tags:
 - mtg
 - duels2012
-- backposts
+- backpost
 - games
 title: Duels of the Planeswalkers 2012 (Steam)
 ---

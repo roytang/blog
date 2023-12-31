@@ -43,7 +43,7 @@ Visit the [Links page](/links/) for more links of interest.
 - 2015: [I got a driver's license for the first time](/2015/06/10153840295903912-0/). I still don't drive a car.
 - 2013: [The Red Wedding happens on HBO's Game of Thrones series](/2013/06/341575192830689282/) shocking viewers much to the amusement of bookfags.
 - 2011: [Grand Prix Singapore](/2011/06/grand-prix-singapore-tournament-report/)
-- 2010: I made [my first Steam purchase!](/2010/06/15378392570/)
+- 2010: I made [my first Steam purchase!](/2010/06/dotp/)
 
 ### My stuff:
 
