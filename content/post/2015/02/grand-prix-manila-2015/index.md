@@ -223,9 +223,9 @@ Not a bad performance at all, and it was a great weekend altogether: got to see 
 
 <time>[20:34]</time> R9 2-0 vs abzan (terry soh) finish day 1 at 8-1 #gpmanila
 
-<time>[20:36] Vengeance!</time>
+<time>[20:36]</time> Vengeance!
 
-<time>[23:18] Today was a good day; tomorrow we fight again</time>
+<time>[23:18]</time> Today was a good day; tomorrow we fight again
 
 ---
 
