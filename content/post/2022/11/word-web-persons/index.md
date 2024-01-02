@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1594872093229056000/
 tags:
 - tech-life
+- favorites
 title: Word Persons and Web Persons
 ---
 
