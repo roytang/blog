@@ -1,6 +1,9 @@
 ---
-date: 2024-01-02T17:29:08+08:00
+date: 2024-01-02 09:29:08
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111686327412916069
 tags:
 - yearnotes
 title: 2023 Year in Review
