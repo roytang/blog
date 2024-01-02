@@ -16,11 +16,13 @@ Note 1: Most likely the pre-2010 data includes my brothers playing Winamp on the
 
 Note 2: Data is extracted via [this service](https://benjaminbenben.com/lastfm-to-csv/).
 
+Note 3: 2023 was problematic because the history included tracks played by my mom via the Amazon Echo.
+
 General stats:
 
-- Last update date: 2022-12-31
-- Number of unique tracks: 4,954
-- Number of artists: 1,759
+- Last update date: 2023-12-31
+- Number of unique tracks: 5,375
+- Number of artists: 1,891
 
 ### [Last.fm](https://last.fm) tracks by year
 
@@ -38,11 +40,11 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 
 ##### Artists
 
-- Eraserheads (1084)
-- Dashboard Confessional (913)
-- URBANDUB (700)
-- Rivermaya (565)
-- Gin Blossoms (538)
+- Eraserheads (1132)
+- Dashboard Confessional (984)
+- URBANDUB (704)
+- Rivermaya (594)
+- Gin Blossoms (548)
 {{< /grid_item >}}
 {{< grid_item >}}
 
@@ -50,34 +52,9 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 
 - Wait Forever (215)
 - Paris (109)
-- Sailing (84)
+- Sailing (89)
 - soul searching (74)
 - Prom (73)
-{{< /grid_item >}}
-{{< /grid3 >}}
-{{< grid3 >}}
-
-##### 2005
-
-{{< grid_item >}}
-
-##### Artists
-
-- Rivermaya (13)
-- URBANDUB (9)
-- Air Supply (2)
-- July For Kings (2)
-- Coldplay (2)
-{{< /grid_item >}}
-{{< grid_item >}}
-
-##### Tracks
-
-- Liwanag Sa Dilim (9)
-- Can't Fight This Feeling Anymore (2)
-- A City of Sleeping Hearts (2)
-- I Belong to You (1)
-- Points of Authority (1)
 {{< /grid_item >}}
 {{< /grid3 >}}
 {{< grid3 >}}
@@ -380,5 +357,31 @@ SVG charts are generated using [svg.chart Python library](https://github.com/jar
 - Sometimes Love Just Ain't Enough (6)
 - Missing You (6)
 - Wherever You Will Go (5)
+{{< /grid_item >}}
+{{< /grid3 >}}
+
+{{< grid3 >}}
+
+##### 2023
+
+{{< grid_item >}}
+
+##### Artists
+
+- Martin Nievera (57)
+- Raymond Lauchengco (51)
+- Asin (49)
+- Rey Valera (48)
+- Wency Cornejo (42)
+{{< /grid_item >}}
+{{< grid_item >}}
+
+##### Tracks
+
+- Don't Know What to Say - Don't Know What to Do (25)
+- Farewell (24)
+- Don't Look Back in Anger (20)
+- Ikaw ang Aking Mahal (19)
+- Kamusta ka? (18)
 {{< /grid_item >}}
 {{< /grid3 >}}

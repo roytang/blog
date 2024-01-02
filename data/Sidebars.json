@@ -81,11 +81,6 @@
     ],
     "elsewhere": [
         {
-            "Name": "Twitter",
-            "URL": "https://twitter.com/roytang",
-            "rel": "me"
-        },
-        {
             "Name": "Mastodon",
             "URL": "https://indieweb.social/@roytang",
             "rel": "me"

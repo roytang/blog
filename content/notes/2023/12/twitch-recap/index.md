@@ -11,6 +11,7 @@ syndicated:
 tags:
 - twitch
 - gaming
+- 2023recap
 title: Twitch Recap
 ---
 

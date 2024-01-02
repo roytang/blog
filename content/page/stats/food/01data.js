@@ -1,8 +1,8 @@
 let data = [
   {
-    "totalcost": 23055.57,
-    "totalcoststr": "23055.57",
-    "totalcount": 157,
+    "totalcost": 27040.57,
+    "totalcoststr": "27040.57",
+    "totalcount": 181,
     "years": {
       "2017": {
         "cost": 2781.5699999999997,
@@ -27,14 +27,18 @@ let data = [
       "2022": {
         "cost": 5258.0,
         "count": 26
+      },
+      "2023": {
+        "cost": 3985.0,
+        "count": 24
       }
     },
     "label": "Jollibee"
   },
   {
-    "totalcost": 13950.25,
-    "totalcoststr": "13950.25",
-    "totalcount": 74,
+    "totalcost": 18654.95,
+    "totalcoststr": "18654.95",
+    "totalcount": 103,
     "years": {
       "2017": {
         "cost": 2989.75,
@@ -59,78 +63,18 @@ let data = [
       "2022": {
         "cost": 1417.0,
         "count": 14
+      },
+      "2023": {
+        "cost": 4704.700000000001,
+        "count": 29
       }
     },
     "label": "Pizza Hut"
   },
   {
-    "totalcost": 8793.15,
-    "totalcoststr": "8793.15",
-    "totalcount": 54,
-    "years": {
-      "2017": {
-        "cost": 2543.45,
-        "count": 11
-      },
-      "2018": {
-        "cost": 1859.7,
-        "count": 9
-      },
-      "2019": {
-        "cost": 1651.0,
-        "count": 9
-      },
-      "2020": {
-        "cost": 0.0,
-        "count": 4
-      },
-      "2021": {
-        "cost": 2403.0,
-        "count": 7
-      },
-      "2022": {
-        "cost": 336.0,
-        "count": 14
-      }
-    },
-    "label": "Burger King"
-  },
-  {
-    "totalcost": 8753.6,
-    "totalcoststr": "8753.60",
-    "totalcount": 39,
-    "years": {
-      "2017": {
-        "cost": 4211.0,
-        "count": 10
-      },
-      "2018": {
-        "cost": 2293.0,
-        "count": 13
-      },
-      "2019": {
-        "cost": 405.0,
-        "count": 6
-      },
-      "2020": {
-        "cost": 0.0,
-        "count": 1
-      },
-      "2021": {
-        "cost": 1493.6,
-        "count": 7
-      },
-      "2022": {
-        "cost": 351.0,
-        "count": 2
-      }
-    },
-    "label": "Shakey's"
-  },
-  {
-    "totalcost": 8080.8,
-    "totalcoststr": "8080.80",
-    "totalcount": 51,
+    "totalcost": 10112.8,
+    "totalcoststr": "10112.80",
+    "totalcount": 60,
     "years": {
       "2017": {
         "cost": 1989.0,
@@ -155,9 +99,85 @@ let data = [
       "2022": {
         "cost": 1656.0,
         "count": 6
+      },
+      "2023": {
+        "cost": 2032.0,
+        "count": 9
       }
     },
     "label": "KFC"
+  },
+  {
+    "totalcost": 9678.15,
+    "totalcoststr": "9678.15",
+    "totalcount": 68,
+    "years": {
+      "2017": {
+        "cost": 2543.45,
+        "count": 11
+      },
+      "2018": {
+        "cost": 1859.7,
+        "count": 9
+      },
+      "2019": {
+        "cost": 1651.0,
+        "count": 9
+      },
+      "2020": {
+        "cost": 0.0,
+        "count": 4
+      },
+      "2021": {
+        "cost": 2403.0,
+        "count": 7
+      },
+      "2022": {
+        "cost": 336.0,
+        "count": 14
+      },
+      "2023": {
+        "cost": 885.0,
+        "count": 14
+      }
+    },
+    "label": "Burger King"
+  },
+  {
+    "totalcost": 8753.6,
+    "totalcoststr": "8753.60",
+    "totalcount": 43,
+    "years": {
+      "2017": {
+        "cost": 4211.0,
+        "count": 10
+      },
+      "2018": {
+        "cost": 2293.0,
+        "count": 13
+      },
+      "2019": {
+        "cost": 405.0,
+        "count": 6
+      },
+      "2020": {
+        "cost": 0.0,
+        "count": 1
+      },
+      "2021": {
+        "cost": 1493.6,
+        "count": 7
+      },
+      "2022": {
+        "cost": 351.0,
+        "count": 2
+      },
+      "2023": {
+        "cost": 0.0,
+        "count": 4
+      }
+    },
+    "label": "Shakey's"
   },
   {
     "totalcost": 7115.0,
@@ -192,9 +212,9 @@ let data = [
     "label": "Yellow Cab"
   },
   {
-    "totalcost": 5869.0,
-    "totalcoststr": "5869.00",
-    "totalcount": 16,
+    "totalcost": 6869.0,
+    "totalcoststr": "6869.00",
+    "totalcount": 19,
     "years": {
       "2017": {
         "cost": 1224.0,
@@ -219,14 +239,18 @@ let data = [
       "2022": {
         "cost": 267.0,
         "count": 1
+      },
+      "2023": {
+        "cost": 1000.0,
+        "count": 3
       }
     },
     "label": "Pepper Lunch"
   },
   {
-    "totalcost": 4933.0,
-    "totalcoststr": "4933.00",
-    "totalcount": 34,
+    "totalcost": 5619.0,
+    "totalcoststr": "5619.00",
+    "totalcount": 41,
     "years": {
       "2019": {
         "cost": 0.0,
@@ -239,14 +263,18 @@ let data = [
       "2022": {
         "cost": 3301.0,
         "count": 21
+      },
+      "2023": {
+        "cost": 686.0,
+        "count": 7
       }
     },
     "label": "Angel's Pizza"
   },
   {
-    "totalcost": 3247.56,
-    "totalcoststr": "3247.56",
-    "totalcount": 16,
+    "totalcost": 4767.5599999999995,
+    "totalcoststr": "4767.56",
+    "totalcount": 22,
     "years": {
       "2017": {
         "cost": 904.8,
@@ -267,14 +295,18 @@ let data = [
       "2022": {
         "cost": 580.0,
         "count": 2
+      },
+      "2023": {
+        "cost": 1520.0,
+        "count": 6
       }
     },
     "label": "Starbucks"
   },
   {
-    "totalcost": 3071.98,
-    "totalcoststr": "3071.98",
-    "totalcount": 16,
+    "totalcost": 3875.98,
+    "totalcoststr": "3875.98",
+    "totalcount": 18,
     "years": {
       "2017": {
         "cost": 1311.27,
@@ -295,9 +327,113 @@ let data = [
       "2022": {
         "cost": 671.0,
         "count": 2
+      },
+      "2023": {
+        "cost": 804.0,
+        "count": 2
       }
     },
     "label": "Pancake House"
+  },
+  {
+    "totalcost": 3448.0,
+    "totalcoststr": "3448.00",
+    "totalcount": 14,
+    "years": {
+      "2017": {
+        "cost": 174.0,
+        "count": 2
+      },
+      "2019": {
+        "cost": 843.0,
+        "count": 5
+      },
+      "2020": {
+        "cost": 298.0,
+        "count": 1
+      },
+      "2021": {
+        "cost": 556.0,
+        "count": 1
+      },
+      "2022": {
+        "cost": 312.0,
+        "count": 1
+      },
+      "2023": {
+        "cost": 1265.0,
+        "count": 4
+      }
+    },
+    "label": "Sbarro"
+  },
+  {
+    "totalcost": 3269.57,
+    "totalcoststr": "3269.57",
+    "totalcount": 21,
+    "years": {
+      "2017": {
+        "cost": 135.0,
+        "count": 1
+      },
+      "2018": {
+        "cost": 492.0,
+        "count": 2
+      },
+      "2019": {
+        "cost": 0.0,
+        "count": 2
+      },
+      "2021": {
+        "cost": 1321.0,
+        "count": 5
+      },
+      "2022": {
+        "cost": 0.0,
+        "count": 2
+      },
+      "2023": {
+        "cost": 1321.57,
+        "count": 9
+      }
+    },
+    "label": "Chowking"
+  },
+  {
+    "totalcost": 2803.64,
+    "totalcoststr": "2803.64",
+    "totalcount": 25,
+    "years": {
+      "2017": {
+        "cost": 483.0,
+        "count": 5
+      },
+      "2018": {
+        "cost": 457.0,
+        "count": 6
+      },
+      "2019": {
+        "cost": 1173.6399999999999,
+        "count": 7
+      },
+      "2020": {
+        "cost": 0.0,
+        "count": 1
+      },
+      "2021": {
+        "cost": 350.0,
+        "count": 3
+      },
+      "2022": {
+        "cost": 0.0,
+        "count": 1
+      },
+      "2023": {
+        "cost": 340.0,
+        "count": 2
+      }
+    },
+    "label": "McDonald's"
   },
   {
     "totalcost": 2790.0,
@@ -328,97 +464,33 @@ let data = [
     "label": "Yabu"
   },
   {
-    "totalcost": 2463.64,
-    "totalcoststr": "2463.64",
-    "totalcount": 23,
+    "totalcost": 2433.0,
+    "totalcoststr": "2433.00",
+    "totalcount": 16,
     "years": {
       "2017": {
-        "cost": 483.0,
-        "count": 5
-      },
-      "2018": {
-        "cost": 457.0,
-        "count": 6
-      },
-      "2019": {
-        "cost": 1173.6399999999999,
-        "count": 7
-      },
-      "2020": {
-        "cost": 0.0,
+        "cost": 150.0,
         "count": 1
       },
-      "2021": {
-        "cost": 350.0,
+      "2019": {
+        "cost": 416.0,
+        "count": 2
+      },
+      "2022": {
+        "cost": 209.0,
         "count": 3
       },
-      "2022": {
-        "cost": 0.0,
-        "count": 1
+      "2023": {
+        "cost": 1658.0,
+        "count": 10
       }
     },
-    "label": "McDonald's"
+    "label": "Wendy's"
   },
   {
-    "totalcost": 2183.0,
-    "totalcoststr": "2183.00",
-    "totalcount": 10,
-    "years": {
-      "2017": {
-        "cost": 174.0,
-        "count": 2
-      },
-      "2019": {
-        "cost": 843.0,
-        "count": 5
-      },
-      "2020": {
-        "cost": 298.0,
-        "count": 1
-      },
-      "2021": {
-        "cost": 556.0,
-        "count": 1
-      },
-      "2022": {
-        "cost": 312.0,
-        "count": 1
-      }
-    },
-    "label": "Sbarro"
-  },
-  {
-    "totalcost": 1948.0,
-    "totalcoststr": "1948.00",
-    "totalcount": 12,
-    "years": {
-      "2017": {
-        "cost": 135.0,
-        "count": 1
-      },
-      "2018": {
-        "cost": 492.0,
-        "count": 2
-      },
-      "2019": {
-        "cost": 0.0,
-        "count": 2
-      },
-      "2021": {
-        "cost": 1321.0,
-        "count": 5
-      },
-      "2022": {
-        "cost": 0.0,
-        "count": 2
-      }
-    },
-    "label": "Chowking"
-  },
-  {
-    "totalcost": 1707.73,
-    "totalcoststr": "1707.73",
-    "totalcount": 19,
+    "totalcost": 2102.73,
+    "totalcoststr": "2102.73",
+    "totalcount": 36,
     "years": {
       "2017": {
         "cost": 210.0,
@@ -443,14 +515,18 @@ let data = [
       "2022": {
         "cost": 125.0,
         "count": 3
+      },
+      "2023": {
+        "cost": 395.0,
+        "count": 17
       }
     },
     "label": "Dunkin"
   },
   {
-    "totalcost": 1053.0,
-    "totalcoststr": "1053.00",
-    "totalcount": 14,
+    "totalcost": 1269.0,
+    "totalcoststr": "1269.00",
+    "totalcount": 16,
     "years": {
       "2017": {
         "cost": 617.0,
@@ -467,34 +543,90 @@ let data = [
       "2020": {
         "cost": 178.0,
         "count": 3
+      },
+      "2023": {
+        "cost": 216.0,
+        "count": 2
       }
     },
     "label": "Greenwich"
   },
   {
-    "totalcost": 775.0,
-    "totalcoststr": "775.00",
-    "totalcount": 6,
+    "totalcost": 1245.4,
+    "totalcoststr": "1245.40",
+    "totalcount": 4,
     "years": {
-      "2017": {
-        "cost": 150.0,
+      "2019": {
+        "cost": 208.0,
         "count": 1
       },
-      "2019": {
-        "cost": 416.0,
-        "count": 2
+      "2021": {
+        "cost": 427.4,
+        "count": 1
       },
-      "2022": {
-        "cost": 209.0,
-        "count": 3
+      "2023": {
+        "cost": 610.0,
+        "count": 2
       }
     },
-    "label": "Wendy's"
+    "label": "Yoshinoya"
   },
   {
-    "totalcost": 642.0,
-    "totalcoststr": "642.00",
-    "totalcount": 10,
+    "totalcost": 1226.0,
+    "totalcoststr": "1226.00",
+    "totalcount": 25,
+    "years": {
+      "2018": {
+        "cost": 44.0,
+        "count": 1
+      },
+      "2021": {
+        "cost": 220.0,
+        "count": 5
+      },
+      "2022": {
+        "cost": 140.0,
+        "count": 3
+      },
+      "2023": {
+        "cost": 822.0,
+        "count": 16
+      }
+    },
+    "label": "Angel's Burger"
+  },
+  {
+    "totalcost": 853.0,
+    "totalcoststr": "853.00",
+    "totalcount": 11,
+    "years": {
+      "2017": {
+        "cost": 129.0,
+        "count": 1
+      },
+      "2018": {
+        "cost": 115.0,
+        "count": 1
+      },
+      "2021": {
+        "cost": 0.0,
+        "count": 1
+      },
+      "2022": {
+        "cost": 240.0,
+        "count": 4
+      },
+      "2023": {
+        "cost": 369.0,
+        "count": 4
+      }
+    },
+    "label": "Mang Inasal"
+  },
+  {
+    "totalcost": 721.0,
+    "totalcoststr": "721.00",
+    "totalcount": 11,
     "years": {
       "2017": {
         "cost": 170.0,
@@ -515,68 +647,12 @@ let data = [
       "2022": {
         "cost": 59.0,
         "count": 3
+      },
+      "2023": {
+        "cost": 79.0,
+        "count": 1
       }
     },
     "label": "BonChon"
-  },
-  {
-    "totalcost": 635.4,
-    "totalcoststr": "635.40",
-    "totalcount": 2,
-    "years": {
-      "2019": {
-        "cost": 208.0,
-        "count": 1
-      },
-      "2021": {
-        "cost": 427.4,
-        "count": 1
-      }
-    },
-    "label": "Yoshinoya"
-  },
-  {
-    "totalcost": 484.0,
-    "totalcoststr": "484.00",
-    "totalcount": 7,
-    "years": {
-      "2017": {
-        "cost": 129.0,
-        "count": 1
-      },
-      "2018": {
-        "cost": 115.0,
-        "count": 1
-      },
-      "2021": {
-        "cost": 0.0,
-        "count": 1
-      },
-      "2022": {
-        "cost": 240.0,
-        "count": 4
-      }
-    },
-    "label": "Mang Inasal"
-  },
-  {
-    "totalcost": 404.0,
-    "totalcoststr": "404.00",
-    "totalcount": 9,
-    "years": {
-      "2018": {
-        "cost": 44.0,
-        "count": 1
-      },
-      "2021": {
-        "cost": 220.0,
-        "count": 5
-      },
-      "2022": {
-        "cost": 140.0,
-        "count": 3
-      }
-    },
-    "label": "Angel's Burger"
   }
 ]

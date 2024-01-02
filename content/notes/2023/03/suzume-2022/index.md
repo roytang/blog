@@ -4,7 +4,7 @@ dontinlinephotos: true
 reviews:
 - date: '2023-03-25'
   media: movies
-  rating: '4.5'
+  rating: 5.0
   title: Suzume
   year: '2022'
 source: letterboxd

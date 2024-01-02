@@ -16,7 +16,20 @@ def get_isbn(title, author):
                     return identifier['identifier']
     return None
 
-title = "Gideon the Ninth"
-author = "Tamsyn Muir"
-isbn = get_isbn(title, author)
-print(f'The ISBN of the book "{title}" by {author} is {isbn}')
+# title = "Gideon the Ninth"
+# author = "Tamsyn Muir"
+# isbn = get_isbn(title, author)
+# print(f'The ISBN of the book "{title}" by {author} is {isbn}')
+
+from pathlib import Path
+
+fi = Path("d:\\temp\\tweets.json")
+
+with fi.open(encoding='UTF-8') as f:
+    data = json.loads(f.read())
+    c23 = 0
+    for d in data:
+        dt = d["tweet"]["created_at"]
+        if dt.endswith(" 2023"):
+            c23 = c23+1
+    print(len(data), c23)
