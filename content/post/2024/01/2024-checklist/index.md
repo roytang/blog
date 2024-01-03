@@ -1,5 +1,8 @@
 ---
-date: 2024-01-03T12:31:27+08:00
+date: 2024-01-03 04:31:27
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111690454225202590
 tags:
 - new-years-checklist
 title: 'New Year''s Checklist 2024: Things I''m Looking Forward To'
@@ -118,4 +121,4 @@ I'm always reading older books, and not a lot of them these days, so it's rare t
 
 ### Others
 
-Once again, my goals for the year remain unambitious. I may or may not try to pick up new work. I'll be happy 
+Once again, my goals for the year remain unambitious. I may or may not try to pick up new work. I'll be happy
