@@ -15,4 +15,4 @@ tags:
 
 X-Culture How different companies started
 
-{{% photos 10156316189728912%}}
+{{% photos %}}

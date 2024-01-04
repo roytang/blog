@@ -1,0 +1,98 @@
+{
+    "start_date": "2017/01/01",
+    "end_date": "2024/01/01",
+    "Categories": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack",
+        "Family",
+        "Gift"
+    ],
+    "terms": [
+        {
+            "label": "Jollibee",
+            "query": "jollibee"
+        },
+        {
+            "label": "KFC",
+            "query": "kfc"
+        },
+        {
+            "label": "Pancake House",
+            "query": "pancake house"
+        },
+        {
+            "label": "McDonald's",
+            "query": "mcdo"
+        },
+        {
+            "label": "Yabu",
+            "query": "yabu"
+        },
+        {
+            "label": "Yoshinoya",
+            "query": "yoshinoya"
+        },
+        {
+            "label": "Burger King",
+            "query": "burger king"
+        },
+        {
+            "label": "Angel's Pizza",
+            "query": "angel's pizza"
+        },
+        {
+            "label": "Angel's Burger",
+            "query": "angel's burger"
+        },
+        {
+            "label": "Wendy's",
+            "query": "wendy"
+        },
+        {
+            "label": "Greenwich",
+            "query": "greenwich"
+        },
+        {
+            "label": "Yellow Cab",
+            "query": "yellow cab"
+        },
+        {
+            "label": "Mang Inasal",
+            "query": "inasal"
+        },
+        {
+            "label": "Dunkin",
+            "query": "dunkin"
+        },
+        {
+            "label": "Starbucks",
+            "query": "starbucks"
+        },
+        {
+            "label": "Pizza Hut",
+            "query": "pizza hut"
+        },
+        {
+            "label": "Shakey's",
+            "query": "shakey"
+        },
+        {
+            "label": "Sbarro",
+            "query": "sbarro"
+        },
+        {
+            "label": "Pepper Lunch",
+            "query": "pepper lunch"
+        },
+        {
+            "label": "Chowking",
+            "query": "chowking"
+        },
+        {
+            "label": "BonChon",
+            "query": "bonchon"
+        }
+    ]
+}
