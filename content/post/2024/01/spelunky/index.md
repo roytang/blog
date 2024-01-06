@@ -15,6 +15,9 @@ reviews:
   - psvita
   rating: 3.5
   title: Spelunky (PS3/PS4/Vita)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111709348540130461
 tags:
 - books
 - gaming
