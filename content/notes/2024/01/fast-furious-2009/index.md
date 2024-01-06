@@ -21,3 +21,5 @@ title: 'Movies: Fast & Furious (2009)'
 ---
 
 Action set pieces are still on point, but the plot here felt a bit contrived to be able to bring Dom and Brian on the same page, with a twist you could see coming. Oh and also not sure if I just wasn't paying enough attention, but there was a part here about a fingerprint lookup that didn't make sense?!?
+
+{{% photos %}}

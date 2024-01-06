@@ -17,6 +17,24 @@ syndicated:
   url: https://roytang.tumblr.com/post/178965365230/my-top-10-favorite-movies-of-all-time
 - type: twitter
   url: https://twitter.com/roytang/statuses/1050552671269281793/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156725023273912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156726656943912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156731564523912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156735957893912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156747345398912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156758886533912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156761814763912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156763525443912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156766352568912
 tags:
 - Movies
 - Review
@@ -36,7 +54,9 @@ This started as one of those silly Facebook memes where you post one thing every
 
 2. **Star Wars**
 
-    {{< img src="13124658_10154577028233912_132731298121342553_n1" >}}
+    {{% note "2016/05/BE_Nl5xMoD8/" %}}
+
+    (I cheated a bit here by recycling a drawing I did from 2016)
 
     I'm a fan of both Star Wars and Star Trek, but was a fan of light sabers before phasers. The original Star Wars actually came out the year before I was born, and I never saw any of the original trilogy in the theaters (or at least I don't remember doing so). My earliest memory of these movies was watching A New Hope via betamax at my _ninong's_ house during one of our visits there when I was a child.  ANH is my choice here, but Empire and Jedi hold up really well for me as well.  
 
@@ -53,6 +73,8 @@ This started as one of those silly Facebook memes where you post one thing every
 
     I may or may not have reenacted that final showdown between Caffy and Jessop more than once. This movie is my favourite lawyer movie and/or show of all time, and was a big reason why I enjoyed lawyer shows like _The Practice_ moving forward.
 
+    I am cheating again because I didn't bother drawing this poster. I thought about it, but was not confident enough that I would be able to capture Cruise/Nicholson/Moore's likenesses and the drawing would be too hard to recognize so w/e. I'm tired of nominating people so I'll stop lol
+
 5. **Zoolander**
 
     {{< img src="36616232_10156747344928912_7709216556856639488_n1" >}}
@@ -65,13 +87,15 @@ This started as one of those silly Facebook memes where you post one thing every
 
     This is one of those weird instances where I can't tell why I like this movie so much. I've never seen it in the theatres or TV nor do I have any digital copy, but I do believe we had a betamax copy of it back in the day and that me and my brother watched it several times. I have fond memories of this movie and being especially excited at the sequence where they use the flying drone thing to create a distraction while one of the kids sneaks out avoiding the hostage takers in order to communicate information to law enforcement, and he has to sneak back in in time for roll call, which he misses and he has to pretend he was in the shower all along. Actually, that's mainly the only part of the movie that I can clearly remember.
 
-7. Groundhog Day
+7. **Groundhog Day**
 
     {{< img src="36849180_10156758886428912_8944807849674932224_n1" >}}
 
     It's a bit strange for me to have a kind of a sappy romance movie on this list, but it's also an awesome time loop movie that I've seen many, many times. I thought about putting _Ghostbusters_ on this list as the representative Bill Murray movie, and it was close but _Groundhog Day_ won out, probably because I really really like stories that mess with the flow of time.
 
-8. Captain America: Winter Soldier
+    I have [already written about this movie in 2008](/2008/09/groundhog-day/)!
+
+8. **Captain America: Winter Soldier**
 
     {{< img src="36825371_10156761814598912_5429857823523602432_n1" >}}
 

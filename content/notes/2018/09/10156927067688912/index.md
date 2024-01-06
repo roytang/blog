@@ -1,9 +1,13 @@
 ---
-date: 2018-09-18 15:49:00+00:00
+date: 2018-09-18 15:49:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156927067688912
+tags:
+- trailers
+- movies
+- mcu
 title: ''
 ---
 

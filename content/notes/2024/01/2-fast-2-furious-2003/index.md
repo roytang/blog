@@ -20,3 +20,5 @@ title: 'Movies: 2 Fast 2 Furious (2003)'
 ---
 
 For some reason I found this more enjoyable than the first one, despite still knowing nothing about cars and racing. Maybe having a clear-cut villain was more interesting? Was also surprised at no Vin Diesel in this one, since it feels like the later films are all about him. LOLed at the cutting edge early-2000s cgi
+
+{{% photos %}}

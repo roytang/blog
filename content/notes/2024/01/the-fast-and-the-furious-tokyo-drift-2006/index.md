@@ -20,3 +20,5 @@ title: 'Movies: The Fast and the Furious: Tokyo Drift (2006)'
 ---
 
 Glad to see the series tackle street racing culture outside of the US. Surprised to see a completely different lead in this one. Always happy to watch things set in Tokyo. That final race was intense, though it felt a bit silly that the audience was following through those tiny flip phones(I still don't know anything about cars)
+
+{{% photos %}}
