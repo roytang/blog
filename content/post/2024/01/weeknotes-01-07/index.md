@@ -2,12 +2,15 @@
 date: 2024-01-07 04:07:29
 dontinlinephotos: true
 resources:
-- src: 20240101_232325.jpg
+- alt: A photo of a calendar from Dec 2023
+  src: 20240101_232325.jpg
   title: ''
-  alt: A photo of a calendar from Dec 2023
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111712805878487749
 tags:
 - weeknotes
-title: "Weeknotes 2024-01-07: The New World Struggles To Be Born"
+title: 'Weeknotes 2024-01-07: The New World Struggles To Be Born'
 ---
 
 It is a new year! Still feels the same though. 
