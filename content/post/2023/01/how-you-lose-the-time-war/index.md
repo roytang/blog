@@ -8,6 +8,9 @@ reviews:
   media: books
   rating: 5.0
   title: This is How You Lose the Time War by Amal El-Mohtar and Max Gladstone
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111728667274341092
 tags:
 - books
 title: 'Books: This Is How You Lose the Time War by Amal El-Mohtar and Max Gladstone'
