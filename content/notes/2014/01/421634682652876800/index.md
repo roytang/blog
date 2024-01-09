@@ -1,5 +1,5 @@
 ---
-date: 2014-01-10 13:28:36+00:00
+date: 2014-01-10 13:28:36
 repost_source:
   name: thinksimplenow
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/421634682652876800/
+tags:
+- quotes
 ---
 
 “Take time to recharge your batteries. It’s hard to see where you’re going when your lights are dim.” ~Robert H. Connelly #quotes
