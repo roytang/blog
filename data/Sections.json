@@ -4,6 +4,7 @@
         "section-alt": "blog",
         "showprevnext": true, 
         "cache_feed": true,
+        "page_count": 100,
         "descrip": "A blog is a website consisting of discrete, often informal diary-style text entries, typically displayed in reverse chronlogical order. A single entry is called a blog post."
     },
     "photos": {
@@ -22,6 +23,7 @@
     "replies": {
         "label": "Replies",
         "cache_feed": true,
+        "page_count": 50,
         "descrip": "Replies."
     },
     "likes": {
@@ -35,6 +37,7 @@
     },
     "links": {
         "label": "Links",
+        "page_count": 50,
         "cache_feed": true,
         "descrip": "Shared links. Related: <a href='/page/links/unprocessed'>Unprocessed Links</a>"
     },
