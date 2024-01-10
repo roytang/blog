@@ -6,6 +6,15 @@ tags:
 title: Standard on April 4
 type: post
 url: /2009/04/standard-on-april-4/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1449863322/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/80296067584
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1450997939/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/69531025839
 ---
 
 I went to NG Galleria hoping for more practice with the [5cc deck from last week][1]. I made some minor modifications: Maindeck -1 [Plumeveil][2] +1 [Mulldrifter][3], Sideboard -1 [Mulldrifter][3] +1 [Scourglass][4]. 

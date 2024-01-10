@@ -58,6 +58,14 @@ syndicated:
   url: https://twitter.com/roytang/status/3923873696/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/130291248521
+- type: twitter
+  url: https://twitter.com/roytang/statuses/2704722593/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/208109000233
+- type: twitter
+  url: https://twitter.com/roytang/statuses/4594936496/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/145041197475
 ---
 
 ### Previews
@@ -71,6 +79,10 @@ syndicated:
 <time>[2009-06-24 20:44] </time> #mtg Lightning Bolt is sure in...with awesome flavor text  http://www.wizards.com/mtg/images/tcg/products/magic2010/wyzszlbal5_EN.jpg "a fierce energy he'd never thought to see again"
 
 <time>[2009-06-29 07:56] </time> #mtg amazingly, they made a card that comboes with One with Nothing.  https://web.archive.org/web/20100113090117/www.mtgsalvation.com/magic-2010-m10-core-set-spoiler.html#3517 ([Hive Mind](https://scryfall.com/card/m10/54/hive-mind))
+
+### Release Event
+
+<time>[2009-07-18 18:32] </time> #mtg M10 Release Tournament: 1-3. Boo to bad sealed deckbuilding!
 
 ### Limited Practice
 
@@ -93,3 +105,6 @@ I played an above average number of M10 drafts mostly on MTGO as prep for GP Ban
 <time>[2009-09-12 07:10] </time> #mtg I started a draft and now I can't go have breakfast &gt;&lt; On the upside, 2 duals!
 
 <time>[08:51]</time> #mtg won the draft! turn 1 jackal familiar into turn 2 raging goblin ftw lolz. now to try not to be late for work!
+
+<time>[2009-10-04 11:31] </time> took like 10 rares in an M10 draft (2 were duals). My mana base was still pretty bad, as you can imagine; lost in round 2
+

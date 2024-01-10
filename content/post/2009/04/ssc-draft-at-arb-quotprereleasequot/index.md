@@ -10,6 +10,10 @@ type: post
 url: /2009/04/ssc-draft-at-arb-quotprereleasequot/
 syndicated:
 - type: twitter
+  url: https://twitter.com/roytang/statuses/1602969004/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/73527909099
+- type: twitter
   url: https://twitter.com/roytang/statuses/1611617947/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/81951096337
