@@ -1,5 +1,8 @@
 ---
 date: 2010-09-26 15:36:42
+resources:
+- src: cobra30.jpg
+  title: Image recovered from wayback machine
 source: twitter
 syndicated:
 - type: twitter
