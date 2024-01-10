@@ -8,6 +8,11 @@ tags:
 title: SSC Draft at ARB "Prerelease"
 type: post
 url: /2009/04/ssc-draft-at-arb-quotprereleasequot/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1611617947/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/81951096337
 ---
 
 As any Filipino player can tell you, local prereleases had to be postponed due to some problems with customs. Since NG had already rented out the space for the prerelease at Galleria, they went ahead and held some constructed events + drafts for people who came, and graciously gave out freebies to those disappointed would-be prereleasers. Kudos to NG for handling the situation well.

@@ -7,6 +7,15 @@ tags:
 title: 'Regionals 2009: Finest Hour *Top 8*'
 type: post
 url: /2009/05/regionals-2009-finest-hour-top-8/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1816715827/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/95054576319
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1826184705/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/83408852557
 ---
 
 Last Friday, I was still unsure what to play at Regionals this year, having decided to nix Five-Color Control. Given the cards available, I could easily assemble RDW/Blightning or Chapin's 5-Color Blood. But in the end, I gave in to [the hype][1] surrounding Tommy Ashton's PTQ-winning decklist, [Bant with Finest Hour][2]:

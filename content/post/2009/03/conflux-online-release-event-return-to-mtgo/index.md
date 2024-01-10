@@ -6,6 +6,15 @@ tags:
 title: Conflux Online Release Event (Return to MTGO)
 type: post
 url: /2009/03/conflux-online-release-event-return-to-mtgo/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/status/1264267849/
+- type: twitter
+  url: https://twitter.com/roytang/status/1264436565/
+- type: twitter
+  url: https://twitter.com/roytang/status/1264564939/
+- type: twitter
+  url: https://twitter.com/roytang/status/1264826279/
 ---
 
 I reinstalled MTGO3 last week because I figured I could get some casual play out of it at least. After installation I found out that Conflux release events were this weekend so I might as well play, since I was not able to play IRL at this time. I was hoping MTGO3 had improved by now, and that they had sufficient server loading, etc. to handle the number of players without the servers being crashy and laggy and whatnot. No such luck of course. 🙂 My sealed pool follows.

@@ -7,6 +7,11 @@ tags:
 title: City Champs 09
 type: post
 url: /2009/04/city-champs-09/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1549937821/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/180883930696
 ---
 
 Most probably my last tournament playing 5cc this season, the local City Champs was last Saturday, Apr 18 at Robinson's Galleria. I slightly tweaked the decklist I've been using for the past month. I was able to borrow 2 [Exotic Orchard][1] to improve my mana base, and I put the fourth [Volcanic Fallout][2] in the board to improve the difficult Faeries matchup, plus an additional [Terror][3] to help with [Mistbind Clique][4]. I added the 27th land in the board ([Reliquary Tower][5]) to help against control mirrors.
