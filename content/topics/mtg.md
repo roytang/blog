@@ -93,7 +93,7 @@ I know, I know this page layout could use a lot of work.
 | **Feb** | Worldwake | [Prerelease](/2010/01/8412293186/) | |
 | **2009** |
 | **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) [PTQ San Diego 1](/2009/11/5914958624/) | |
-| **Jul** | Magic 2010 | [Release](/2009/07/2704722593/) [Grand Prix Bangkok](/2009/08/3506936168/) | |
+| **Jul** | Magic 2010 | [Grand Prix Bangkok](/2009/08/3506936168/) [Set Recap](/2009/09/m10-set-recap/) | |
 | **Apr** | Alara Reborn | [Previews](/2009/04/alara-reborn-previews/) [Prerelease](/2009/05/alara-reborn-prerelease-for-real-this-time/) [Release](/2009/05/alara-reborn-release/) | [Regionals](/2009/05/regionals-2009-finest-hour-top-8/) (Standard - Finest Hour) |
 | **Feb** | Conflux | [Prerelease](/2009/02/conflux-prerelease/) [Release](/2009/02/conflux-release-event/) | |
 | **2008** |

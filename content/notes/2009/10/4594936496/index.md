@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/145041197475
 tags:
 - mtg
+- m10
 ---
 
 took like 10 rares in an M10 draft (2 were duals). My mana base was still pretty bad, as you can imagine; lost in round 2

@@ -43,7 +43,7 @@ Visit the [Links page](/links/) for more links of interest.
 - 2017: I finished [Persona 5](/2017/06/review-persona-5-you-never-saw-it-coming/)! Wow, it's already 4 years ago. I haven't played Royal yet.
 - 2014: [I got an Instagram account](/2014/06/476353556467814400/) because someone else used my email to sign up
 - 2010: I scrubbed out of [Grand Prix Manila 2010](/2010/06/16035828372/). Apparently this is the one Grand Prix I didn't have a blog post for.
-- 2009: Magic introduces [the M10 rules changes](/2009/06/2104577047/), damage no longer uses the stack!
+- 2009: Magic introduces [the M10 rules changes](/2009/09/m10-set-recap/#previews), damage no longer uses the stack!
 
 ### My stuff:
 

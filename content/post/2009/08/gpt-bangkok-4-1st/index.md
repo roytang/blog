@@ -7,6 +7,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3105223995/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/111199742706
+- type: twitter
+  url: https://twitter.com/roytang/statuses/3086843964/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/112155774511
 tags:
 - mtg
 title: 'GPT Bangkok #4 *1st*'

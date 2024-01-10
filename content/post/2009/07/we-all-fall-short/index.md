@@ -6,6 +6,11 @@ tags:
 title: We All Fall Short
 type: post
 url: /2009/07/we-all-fall-short/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1891747408/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/102725187929
 ---
 
 I haven't been posting tournament reports lately, because frankly I haven't been performing very well lately. Here are my last month and a half's worth of results:
