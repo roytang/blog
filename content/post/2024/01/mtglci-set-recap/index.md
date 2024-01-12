@@ -1,12 +1,15 @@
 ---
-title: "MTG: My Lost Caverns of Ixalan Set Recap"
-date: 2024-01-12T12:42:42+08:00
+date: 2024-01-12 04:42:42
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111741277819624148
 tags:
 - mtg
 - limited
 - magicarena
 - limitedrecap
 - mtgsetrecap
+title: 'MTG: My Lost Caverns of Ixalan Set Recap'
 ---
 
 It's almost time for the next set, so I'm writing my MTG set recap for Lost Caverns of Ixalan!
