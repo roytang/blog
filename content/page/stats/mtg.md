@@ -39,7 +39,7 @@ toc: true
 | 2012 | [Manila](/2012/06/grand-prix-manila-2012/) | Standard | Homebrew Naya Pod | 7 | 2 | | 4 | 2 |
 | 2011 | [Singapore](/2011/06/grand-prix-singapore-tournament-report/) | Standard | Caw Blade | 4 | 2 | 1 |
 | 2010 | [Manila](/2010/06/grand-prix-manila/) | Standard | Jund | 3 | 3 |
-| 2009 | [Bangkok](/2009/08/3506936168/) | Limited | Magic 2010 | 0 | 6 |
+| 2009 | [Bangkok](/2009/08/grand-prix-bangkok/) | Limited | Magic 2010 | 4 | 7 |
 | 2008 | [Manila](/2008/09/grand-prix-manila-day-one-report/) | Standard | Five Color Control | 1 | 3 | 1 |
 | 2006 | [Manila](/2006/03/grand-prix-manila/) | Limited | Guildpact | 5 | 3 |
 
