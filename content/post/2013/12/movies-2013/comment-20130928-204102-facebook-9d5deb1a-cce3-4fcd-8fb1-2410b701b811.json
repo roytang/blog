@@ -1,9 +1,9 @@
 {
-  "id": "833447b4-6d7c-46cf-b23f-583ce13bdd87",
+  "id": "9d5deb1a-cce3-4fcd-8fb1-2410b701b811",
   "name": "David Ramirez",
   "url": "https://www.facebook.com/profile.php?id=827533990",
   "text": "Khan!",
-  "date": "2013-09-28 00:00:00 +0800",
+  "date": "2013-09-28 12:41:02 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152494011758912#10152494015728912",
   "source": "facebook",
@@ -15,5 +15,6 @@
     "text": "Khan!",
     "attachments": [],
     "date": "Sep 28, 2013"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10152494011758912"
 }

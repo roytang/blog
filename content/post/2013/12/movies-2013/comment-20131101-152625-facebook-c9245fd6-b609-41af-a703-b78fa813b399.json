@@ -1,9 +1,9 @@
 {
-  "id": "e985b0f2-bc67-404f-a7a0-4c20a807998e",
+  "id": "c9245fd6-b609-41af-a703-b78fa813b399",
   "name": "Michael Galero",
   "url": "https://www.facebook.com/mikong",
   "text": "okay lang? much better than thor 1 right?",
-  "date": "2013-11-01 00:00:00",
+  "date": "2013-11-01 07:26:25 +0000",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152562549248912#10152562604008912",
   "source_obj": {
@@ -13,5 +13,6 @@
     "text": "okay lang? much better than thor 1 right?",
     "attachments": [],
     "date": "Nov 1, 2013"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10152562549248912"
 }

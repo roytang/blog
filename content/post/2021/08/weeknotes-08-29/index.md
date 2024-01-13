@@ -37,7 +37,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### From the archives, this week in history:
 
-- 2013: I [watched The Princess Bride for the first time](/2013/08/370969157191204864/), and got teased by my friends for the gaping hole in my geek cred.
+- 2013: I [watched The Princess Bride for the first time](/2013/12/movies-2013/#comment-3b0d9359-df6a-4f90-b0c9-cfc05a7c8b2b), and got teased by my friends for the gaping hole in my geek cred.
 - 2009: I [scrubbed out of GP Bangkok](/2009/08/3506936168/)
   
 ### My stuff:
