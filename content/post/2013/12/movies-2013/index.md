@@ -43,6 +43,12 @@ reviews:
   hashtag: star-trek-into-darkness-2013
   media: movies
   rating: 0.0
+  title: 'Star Trek II: The Wrath of Khan (1982)'
+- date: '2013-09-28'
+  description: ''
+  hashtag: star-trek-ii-the-wrath-of-khan-1982
+  media: movies
+  rating: 0.0
   title: 'Star Trek: Into Darkness (2013)'
 - date: '2013-11-01'
   description: ''
@@ -148,6 +154,10 @@ They wanted to be faithful to the 80s cartoon, so they let Cobra Commander escap
 #### Star Trek: Into Darkness (2013)
 
 <time>[2013-09-28 20:41] </time> Just watched Star Trek: Into Darkness. Movie was okay, made better by the fact that I had just seen Wrath of Khan the other day
+
+#### Star Trek II: The Wrath of Khan (1982)
+
+(I had no notes about the Wrath of Khan, just logging this here since the above mentions I had seen it for the first time around the same time.)
 
 #### Thor: The Dark World (2013)
 
