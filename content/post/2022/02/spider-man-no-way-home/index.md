@@ -68,4 +68,4 @@ If you liked the film but haven't read a lot of the comics, here's some stuff yo
 
 I believe all of these issues are available in the Marvel Unlimited app (a paid sub is required).
 
-Previously: [Spider-Man 2 (2004)](/2004/07/movies-spiderman-2/), [Spider-Man 3 (2007)](/2007/05/spider-man-3/), [Amazing Spider-Man (2012)](/2012/07/219385293214728192/), [Amazing Spider-Man 2 (2014)](/2014/05/the-amazing-spider-man-2-review/), [Spider-Man: Homecoming (2017)](/2017/07/10155834066513912/), [Spider-Man: Far From Home (2019)](/2019/07/spider-man-far-from-home/)
+Previously: [Spider-Man 2 (2004)](/2004/07/movies-spiderman-2/), [Spider-Man 3 (2007)](/2007/05/spider-man-3/), [Amazing Spider-Man (2012)](/2012/12/movies-2012/#amazing-spider-man-2012), [Amazing Spider-Man 2 (2014)](/2014/05/the-amazing-spider-man-2-review/), [Spider-Man: Homecoming (2017)](/2017/07/10155834066513912/), [Spider-Man: Far From Home (2019)](/2019/07/spider-man-far-from-home/)

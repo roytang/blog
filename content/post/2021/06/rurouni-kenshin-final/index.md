@@ -14,7 +14,7 @@ tags:
 title: 'Rurouni Kenshin: The Final'
 ---
 
-Earlier today I watched Rurouni Kenshin: The Final (2021), now out on Netflix (PH, not sure about elsewhere). I don't normally do full blog posts for [movies](/reviews/movies) anymore, but I'm [a big Rurouni Kenshin fan](/archives/ancient/geocities/rk/), and I didn't have much commentary on record for the [first three live action films](/2012/12/277092263371350017/), so I figured I would write some words mostly about this new film, but maybe also a bit about the first three as well. The film is based on a manga story arc from more than 20 years ago, so I'm not really going to be avoiding spoilers here.
+Earlier today I watched Rurouni Kenshin: The Final (2021), now out on Netflix (PH, not sure about elsewhere). I don't normally do full blog posts for [movies](/reviews/movies) anymore, but I'm [a big Rurouni Kenshin fan](/archives/ancient/geocities/rk/), and I didn't have much commentary on record for the [first three live action films](/2012/12/movies-2012/#rurouni-kenshin-2012), so I figured I would write some words mostly about this new film, but maybe also a bit about the first three as well. The film is based on a manga story arc from more than 20 years ago, so I'm not really going to be avoiding spoilers here.
 
 So this film covers the Revenge / Jinchuu arc, the third and final arc of the Rurouni Kenshin manga, most of which was never adapted to anime. This kind of works in the film's favor, as I don't have any anime to compare it to. 
 
