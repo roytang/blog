@@ -41,7 +41,7 @@ For years we've been using these Chinese calendars that had these times and numb
 
 - **Reading**: Progress on my Doctor Strange run is going slowly. Finished reading [a book about Spelunky](/2024/01/spelunky/)! Started reading a new novel!
 
-- **Watching**: Kicked off the new year by watching 3 more Fast and Furious films this week: [2 Fast 2 Furious (2003)](/2024/01/2-fast-2-furious-2003/), [The Fast and the Furious: Tokyo Drift (2006)](/2024/01/the-fast-and-the-furious-tokyo-drift-2006/), [Fast & Furious (2009)](/2024/01/fast-furious-2009/). I have been warned that the series gets more crazy/nonsensical as it goes on! Also finished watching Live Action YYH this week.
+- **Watching**: Kicked off the new year by watching 3 more Fast and Furious films this week: 2 Fast 2 Furious (2003), The Fast and the Furious: Tokyo Drift (2006), Fast & Furious (2009). I have been warned that the series gets more crazy/nonsensical as it goes on! Also finished watching Live Action YYH this week.
 
 ### Walking
 
