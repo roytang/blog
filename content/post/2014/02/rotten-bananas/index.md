@@ -1,9 +1,11 @@
 ---
 title: "Globe's Rotten Bananas"
 date: 2014-02-07T23:14:02+08:00
+backpost_date: 2023-11-23
 tags:
 - globe
 - tech-life
+- backpost
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/429598054816051200/
@@ -24,11 +26,17 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152774120228912
 dontinlinephotos: true
+resources:
+- src: timehop.png
+  title: Feb 7 is Rotten Bananas Day!
 ---
 
 *Archivist's note: This is an archive of social media posts about the "Rotten Bananas" incident when I had a spirited discussion with Globe over their "unlimited" data plan. The convo went a bit viral for a while. Unfortunately because @talk2globe has deleted the older tweets, I am unable to reconstruct the original thread.*
 
 <!--more-->
+
+{{% photos timehop %}}
+
 ---
 
 <time>[Sat, Feb. 1, 2014, 8:52 p.m.]</time> 💬 Reply to [talk2GLOBE's tweet](https://twitter.com/talk2GLOBE/statuses/429277198147538944/) ([Archive link](https://web.archive.org/web/20221120160812/https://twitter.com/talk2GLOBE/status/429277198147538944)): 

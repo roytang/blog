@@ -6,7 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/567297594574258176/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153573469018912
-tags: []
+tags:
+- quiznight
 ---
 
 we've been doing quiz nights for a long time now! https://www.timehop.com/

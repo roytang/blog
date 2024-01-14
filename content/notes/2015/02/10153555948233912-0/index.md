@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153555948198912
 tags:
 - mobile-uploads
+- persona3
 ---
 
 My new default rpg name (male): Joe Banana
