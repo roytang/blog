@@ -1,5 +1,5 @@
 ---
-date: 2015-01-22 11:36:30+00:00
+date: 2015-01-22 11:36:30
 repost_source:
   name: notch
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/558226695614775296/
+tags:
+- quotes
 ---
 
 If people never did things that are scary or difficult, we'd never have gotten this far. We need to struggle and overcome to become great.
