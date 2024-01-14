@@ -7,7 +7,7 @@ resources:
   alt: A picture of a Popeye's storefront
 tags:
 - weeknotes
-title: 'Weeknotes 2024-01-14: No Subtitle'
+title: 'Weeknotes 2024-01-14'
 ---
 
 ### My Week
@@ -63,4 +63,4 @@ Rethinking the archives, backups, bureaucracy, scarcity, travel plans, the abili
 
 ### Looking Forward To
 
-Hm... nothing specific this week it seems. There are more follow-up errands to be done though!
+Hm... nothing specific this coming week it seems. There are more follow-up errands to be done though!
