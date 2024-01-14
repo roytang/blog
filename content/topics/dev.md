@@ -268,9 +268,6 @@ Unsorted:
 
 - [Origin Story](/2016/05/origin-story/)
 
-- [](/2015/10/10154142633048912/)
-
-
 - [New Comments System](/2009/12/new-comments-system/)
 
 

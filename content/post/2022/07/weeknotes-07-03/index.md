@@ -108,7 +108,7 @@ Managed to watch a bunch of movies this week!
 
 - #### No Country for Old Men (2007)
 
-    - Not a good movie to be multitasking with. Dialogue is sparse, so you need to pay attention and focus on the action. Kind of a slow burn though. Javier Bardem is excellent and his character is terrifyingly ruthless. This is only the second Coen brothers film I've seen; the first one was [Fargo](/2015/12/fargo/), and I can definitely see the same style bleeding across the two films.
+    - Not a good movie to be multitasking with. Dialogue is sparse, so you need to pay attention and focus on the action. Kind of a slow burn though. Javier Bardem is excellent and his character is terrifyingly ruthless. This is only the second Coen brothers film I've seen; the first one was [Fargo](/2015/12/movies-2015/#fargo), and I can definitely see the same style bleeding across the two films.
 
 - #### Superman and Lois season 2
 
