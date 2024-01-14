@@ -2,12 +2,15 @@
 date: 2024-01-14 02:10:58
 dontinlinephotos: true
 resources:
-- src: 20240108_162200.jpg
+- alt: A picture of a Popeye's storefront
+  src: 20240108_162200.jpg
   title: It took us a while to figure out how to get into this recently-opened Popeye's
-  alt: A picture of a Popeye's storefront
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111752757109259026
 tags:
 - weeknotes
-title: 'Weeknotes 2024-01-14'
+title: Weeknotes 2024-01-14
 ---
 
 ### My Week
