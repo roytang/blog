@@ -230,9 +230,9 @@ article > h2, article > h2 a {
 /* Archives */
 
 table.grid_archive td, table.grid_archive th {
-    padding: .1vmin .2vmin;
+    padding: .5vmin .2vmin;
     border: 1px dotted #aaa;
-    text-align: left;
+    text-align: center;
     font-size: 1.5vmin;
 }
 
