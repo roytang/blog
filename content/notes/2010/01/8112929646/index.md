@@ -1,5 +1,5 @@
 ---
-date: 2010-01-23 15:00:16+00:00
+date: 2010-01-23 15:00:16
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mtg
 - worldwake
+- wwk
 ---
 
 #mtg Some nice cards, but overall I'm not yet very impressed with #WorldWake

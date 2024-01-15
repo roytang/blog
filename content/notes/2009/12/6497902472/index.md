@@ -1,5 +1,5 @@
 ---
-date: 2009-12-09 14:42:07+00:00
+date: 2009-12-09 14:42:07
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - worldwake
 - mtg
+- wwk
 ---
 
 They should reprint Dodecapod in #WorldWake, that would solve Blightning
