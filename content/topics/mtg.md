@@ -92,7 +92,7 @@ I know, I know this page layout could use a lot of work.
 | **Apr** | Rise of the Eldrazi | [Prerelease](/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | Nationals Qualifier [Jun 5](/2010/06/15487958307/) [Jun 27](/2010/06/17142581183/) |
 | **Feb** | Worldwake | [Prerelease](/2010/01/8412293186/) | |
 | **2009** |
-| **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) [PTQ San Diego 1](/2009/11/5914958624/) | |
+| **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) [Set Recap](/2009/12/zendikar/) | |
 | **Jul** | Magic 2010 | [Grand Prix Bangkok](/2009/08/grand-prix-bangkok/) [Set Recap](/2009/09/m10-set-recap/) | |
 | **Apr** | Alara Reborn | [Previews](/2009/04/alara-reborn-previews/) [Prerelease](/2009/05/alara-reborn-prerelease-for-real-this-time/) [Release](/2009/05/alara-reborn-release/) | [Regionals](/2009/05/regionals-2009-finest-hour-top-8/) (Standard - Finest Hour) |
 | **Feb** | Conflux | [Prerelease](/2009/02/conflux-prerelease/) [Release](/2009/02/conflux-release-event/) | |
