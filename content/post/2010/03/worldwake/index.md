@@ -23,7 +23,7 @@ syndicated:
 tags:
 - mtg
 - backpost
-title: Worldwake
+title: Worldwake Set Recap
 ---
 
 ### Preview Season

@@ -88,7 +88,7 @@ I know, I know this page layout could use a lot of work.
 | **Feb** | Mirrodin Besieged | | |
 | **2010** |
 | **Oct** | Scars of Mirrodin | [Prerelease](/2010/09/scars-of-mirrodin-prerelease-report/) [Prerelease (MTGO)](/2010/10/27496991149/) | |
-| **Jul** | Magic 2011 | [Preview Season](/tags/m11+mtgpreviews) [Prerelease](/2010/07/18171012887/) [Release Party](/2010/07/18755812177/)| |
+| **Jul** | Magic 2011 | [Set Recap](/2010/09/magic-2011/) | |
 | **Apr** | Rise of the Eldrazi | [Prerelease](/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | Nationals Qualifier [Jun 5](/2010/06/15487958307/) [Jun 27](/2010/06/17142581183/) |
 | **Feb** | Worldwake | [Set Recap](/2010/03/worldwake/) | |
 | **2009** |

@@ -9,6 +9,10 @@ jd_tweet_this:
 syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/12455262150/
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/11624131290/
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/12375041376/
 tags:
 - limited
 - mtg
@@ -30,3 +34,9 @@ I think a good limited deck would revolve around a number of good leveler creatu
 Totem Armor is pretty sweet too, and you need to note that only blue, white and black have common ways to get rid of guys with Totem Armors on. (Blue bounce, {{< card >}}Oust{{< /card >}}, {{< card >}}Induce Despair{{< /card >}}). I find {{< card >}}Snake Umbra{{< /card >}} particularly annoying. I never want to give him extra cards!
 
 Rebound is... well, extra spells are good I guess, and I actually saw someone get like 18 soldiers off {{< card >}}Nomads Assembly{{< /card >}}, but the rebound cards are so few and far between and a lot of them have marginal effects. As a mechanic, it feels unnecessary and it doesn't seem to fit any of Zendikar's themes even. Maybe it'll be better in constructed? (Only {{< card >}}Consuming Vapors{{< /card >}} seems promising to me though.)
+
+### Social Media Archive
+
+<time>[2010-04-05]</time> #mtg Smother is going to have a good time with all those Leveler creatures with low mana costs
+
+<time>[2010-04-18]</time> [@maro254](https://twitter.com/maro254/) you were right btw, the levelers are pretty awesome in limited. I think sealed games revolve around who has the better levelers

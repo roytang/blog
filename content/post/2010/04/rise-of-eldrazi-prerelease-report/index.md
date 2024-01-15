@@ -12,6 +12,16 @@ resources:
   title: My 2-2 record wins me only two packs, where I got these not-so-awesome rares
 syndicated:
 - type: twitter
+  url: https://twitter.com/roy_mtg/statuses/12314304197/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/12314304220/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/109870312382403
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/12347381976/
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/12373727810/
+- type: twitter
   url: https://twitter.com/roy_mtg/statuses/12375262436/
 tags:
 - limited
@@ -294,3 +304,11 @@ My lack of review about the limited format shows up here, as I misread the green
 I'm disappointed with my performance -- I think this has been my worst prerelease in a while.
 
 Next: I'll post more detailed thoughts on RoE limited.
+
+### Social Media Archive
+
+<time>[2010-04-17 08:51]</time> Heading out for the Rise of Eldrazi prerelease #mtg
+
+<time>[23:43]</time> only went 2-2 at the prerelease. got blown out by an overrun effecct at common (Wildheart Invoker) and lost to UW aggro, lots of fliers
+
+<time>[2010-04-18 10:15]</time> Argh, I just found out I had misread Wildheart Invoker during the prerelease! I thought it affected all his creatures! &gt;.&lt; #mtg
