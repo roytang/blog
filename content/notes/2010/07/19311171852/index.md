@@ -8,6 +8,7 @@ syndicated:
   url: https://plurk.com/p/6irrqj
 tags:
 - mtg
+- mtgsom
 ---
 
 Sword of Body and Mind spoiled! 'Tis awesome as expected. Sad face that it is mythic. Would the earlier Swords been mythic?

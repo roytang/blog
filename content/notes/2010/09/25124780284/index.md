@@ -9,6 +9,7 @@ syndicated:
 tags:
 - som
 - mtg
+- mtgsom
 ---
 
 It's hard to take Genesis Wave seriously in a format where Mana Leak exists. #som

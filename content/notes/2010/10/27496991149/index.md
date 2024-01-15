@@ -18,6 +18,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/27540995075/
 tags:
 - mtg
+- mtgsom
 ---
 
 Gah MTGO being really laggy and crashy on me in the middle of the Scars Online Prerelease &gt;.&lt;

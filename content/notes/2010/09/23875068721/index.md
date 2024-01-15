@@ -8,6 +8,7 @@ syndicated:
   url: https://plurk.com/p/7frlg7
 tags:
 - mtg
+- mtgsom
 ---
 
 No Orb yet? I'm hoping for Thirst for Knowledge reprint

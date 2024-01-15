@@ -8,6 +8,7 @@ syndicated:
   url: https://plurk.com/p/7k5e1w
 tags:
 - mtg
+- mtgsom
 ---
 
 Wow, I really like Precursor Golem. https://www.mtgsalvation.com/forums/attachment.php?attachmentid=110589&d=1284437147

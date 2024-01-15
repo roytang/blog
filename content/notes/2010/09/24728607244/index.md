@@ -13,6 +13,7 @@ syndicated:
 tags:
 - mtg
 - mtgpreviews
+- mtgsom
 ---
 
 Woah new duals are sweet. http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/ld/108
