@@ -1,10 +1,12 @@
 ---
-date: 2012-07-10 00:13:00+08:00
+date: 2012-07-09 16:13:00
 dontinlinephotos: true
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/114405142036167
+tags:
+- ssf4
 ---
 
 Daigo getting owned!

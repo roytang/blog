@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/status/2780580621/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/125562766741
+tags:
+- ssf4
 ---
 
 winning may not be everything, but it sure feels good

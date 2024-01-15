@@ -1,10 +1,12 @@
 ---
-date: 2010-11-25 09:29:00+08:00
+date: 2010-11-25 01:29:00
 dontinlinephotos: true
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/144016622317915
+tags:
+- ssf4
 ---
 
 Awesome high level Ryu vs Ryu battle. I wish I could play at this level >.<

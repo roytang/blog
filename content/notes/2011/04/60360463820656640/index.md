@@ -6,7 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/60360463820656640/
 - type: plurk
   url: https://plurk.com/p/brx6za
-tags: []
+tags:
+- ssf4
 ---
 
 SSF4 tournament the same day as NPH Prerelease, tough call. Solution #1: No sleep, attend them both

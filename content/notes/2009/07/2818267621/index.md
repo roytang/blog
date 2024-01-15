@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/138164857576
 tags:
 - sf4
+- ssf4
 ---
 
 #sf4: went 2-1 vs random ppl today @ Mega. The stick was easier to use than I expetced, although Guile opp complained of difficulty charging
