@@ -8,6 +8,7 @@ syndicated:
   url: https://roytang.tumblr.com/post/552465073/super-street-fighter-iv
 tags:
 - gaming
+- ssf4
 ---
 
 <p>Super Street Fighter IV!</p>

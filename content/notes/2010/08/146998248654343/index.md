@@ -1,5 +1,5 @@
 ---
-date: 2010-08-25 21:02:00+08:00
+date: 2010-08-25 13:02:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/22086339991/
 - type: plurk
   url: https://plurk.com/p/75ljhz
+tags:
+- ssf4
 ---
 
 Super Street Fighter IV - amazing Guile tricks here.  
