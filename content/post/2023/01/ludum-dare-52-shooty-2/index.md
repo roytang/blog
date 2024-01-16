@@ -19,7 +19,7 @@ title: 'Ludum Dare 52: Untitled Shooty Game 2'
 
 An interesting way to start the year: For 2023, Ludum Dare decided to add a 3rd game jam to the year (they used to only have two a year), so this past weekend was the [the 52nd LUDUM DARE game jam](https://ldjam.com/events/ludum-dare/52). This is my 4th time participating in the Ludum Dare game jams!
 
-Previously: [Ludum Dare 48](/2021/04/ludum-dare-48-diver/), [Ludum Dare 50](/2022/04/ludum-dare-50-shooty/), [Ludum Dare 51](http://localhost:8000/2022/10/ludum-dare-51-pizza/)
+Previously: [Ludum Dare 48](/2021/04/ludum-dare-48-diver/), [Ludum Dare 50](/2022/04/ludum-dare-50-shooty/), [Ludum Dare 51](/2022/10/ludum-dare-51-pizza/)
 
 This jam started 4am (!!) local time on Saturday January 7th. Same as before, I chose to participate in the "Compo", the more challenging version, with a 48-hour time limit and restriction that you can only work solo and all assets must be created within the 48 hour period.
 

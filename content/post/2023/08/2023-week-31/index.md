@@ -22,7 +22,7 @@ It is the first week of August already; time inexorably marches on. The rainy we
 
 Last week was a bit challenging for me. The family got some bad news early in the week, which probably means more medical errands down the line. Around midweek, I think the outrage at [being the victim of petty theft](/2023/07/stolen-phone/) finally got to me and I spent the next few days oscillating between being unreasonably angry and/or moody, sometimes fantasizing about somehow tracking down the perpetrator myself. This was only exacerbated by some annoyance at the red tape and procedures I got trying to report some fraudulent transactions resulting from that incident. And throughout the week I had a few minor inconveniences like some investments not doing so well, accidentally overpaying for something, doing poorly in online games, or some hardware starting to fall apart; it basically felt like the universe was conspiring against me.
 
-I did write about some of the steps I took (or should have taken): [What To Do When Your Phone Is Stolen](http://localhost:8000/2023/08/what-do-phone-stolen/). I might write a follow-up post regarding the annoyances from this past week though.
+I did write about some of the steps I took (or should have taken): [What To Do When Your Phone Is Stolen](/2023/08/what-do-phone-stolen/). I might write a follow-up post regarding the annoyances from this past week though.
 
 Despite being a bit down in spirit, the week was not very busy and at least I was able to resume work on some side projects and actually got some cleaning done even.
 

@@ -217,7 +217,7 @@ Guardians was a very funny and fun movie, but it's hard to say best Marvel movie
 
 <time>[2014-09-24 21:50] </time>
 
-Watched Rurouni Kenshin: The Legend Ends @ [Ayala Malls TriNoma Cinemas M4 Level TriNoma](http://localhost:8000/locations/4c4aedb15609c9b6c1bc6490)
+Watched Rurouni Kenshin: The Legend Ends @ [Ayala Malls TriNoma Cinemas M4 Level TriNoma](/locations/4c4aedb15609c9b6c1bc6490)
 
 I'm still disappointed!
 
