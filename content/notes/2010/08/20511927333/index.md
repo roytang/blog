@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/20517483505/
 tags:
 - mtg
+- mtgo
 ---
 
 Opponent was at 3, had Cloud Crusader. I played Triskelion and was going to shoot the flier. Luckily he scooped before my awkward plan. #mtg

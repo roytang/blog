@@ -9,6 +9,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/72657642899775488/
 tags:
 - mtg
+- m12
 ---
 
 The haste reminder text on Chandra's Phoenix makes me expect some new guy to hit me with bolt, reanimate phoenix then attack all at EOT

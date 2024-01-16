@@ -10,6 +10,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- mtginn
 ---
 
 My first innistrad draft: https://i.imgur.com/wKYc5.jpg

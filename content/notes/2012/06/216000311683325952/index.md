@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/216135577408520195/
 tags:
 - mtg
+- mtgo
 ---
 
 Raredraft much? https://i.imgur.com/heL77.png Those 2 mythics alone pay back this draft, and more. #mtg

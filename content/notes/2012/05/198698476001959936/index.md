@@ -1,0 +1,16 @@
+---
+date: 2012-05-05 08:59:42
+source: twitter
+syndicated:
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/198698476001959936/
+- type: twitter
+  url: https://twitter.com/roy_mtg/status/198776936653275136/
+tags:
+- mtg
+- mtgo
+---
+
+I always find myself gravitating to Esper colors in the MTGO cube
+
+<time>[22:11]</time> Most interesting play today: blocked a Strangleroot Geist with a Puppeteer Clique. Still knew enough rules to predict I'd end up with both!

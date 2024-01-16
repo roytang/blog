@@ -15,6 +15,7 @@ tags:
 - mtg
 - vaguestatus
 - draft
+- mtgo
 ---
 
 Sometimes you just ignore all the signals and just put together a ridiculous pile of cards that you hope will win through sheer force. #mtg

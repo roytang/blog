@@ -7,6 +7,7 @@ syndicated:
 tags:
 - ktk
 - mtg
+- mtgktk
 ---
 
 Holy crap. Allied fetchlands reprinted! #ktk

@@ -112,6 +112,10 @@ syndicated:
   url: https://twitter.com/roy_mtg/statuses/21843360407/
 - type: plurk
   url: https://plurk.com/p/73htm2
+- type: twitter
+  url: https://twitter.com/roy_mtg/statuses/23894299646/
+- type: plurk
+  url: https://plurk.com/p/7fvmzd
 tags:
 - mtg
 - backpost
@@ -225,7 +229,7 @@ title: Magic 2011 Set Recap
 
 <time>[17:33]</time> Went 3-1 at the #m11 Release Party. Only good rare in my prize packs was a DoJ.
 
-### An MTGO Draft
+### MTGO Drafts
 
 <time>[2010-08-23 00:13] </time> Someone cast Pacifism on my Balloon Brigade. Then I cast Pacifism on his Squadron Hawk. Mine was less awkward, so I won. #m11 #draft
 
@@ -234,3 +238,7 @@ title: Magic 2011 Set Recap
 <time>[12:51]</time> Nothing quite like losing a match because you played Act of Treason on an opponent's Primeval Titan then failed to attack with it. =/
 
 [Comments](#comment-47e4673e-54bc-4b5d-a88d-1ac557ac7a14)
+
+<time>[2010-09-08 15:30] </time> LOL I just Cancelled a Runeclaw Bear
+
+[Comments](#comment-6cb14713-19ed-40a7-a676-e154f10e9fb8)

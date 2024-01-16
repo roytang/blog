@@ -8,6 +8,7 @@ syndicated:
   url: https://plurk.com/p/6iu6zk
 tags:
 - mtg
+- mtgo
 ---
 
 I got 3 Heat Rays in an ROE draft wtf

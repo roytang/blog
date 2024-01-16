@@ -7,6 +7,7 @@ syndicated:
 tags:
 - latenitedrafting
 - mtg
+- mtgo
 ---
 
 Pack 2 Elspeth throws all your plans out the window #latenitedrafting
