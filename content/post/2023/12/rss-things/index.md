@@ -1,11 +1,14 @@
 ---
-title: "Things with RSS Feeds you might not have known about"
-date: 2024-01-16T20:53:04+08:00
+date: 2024-01-16 12:53:04
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111765895573187929
 tags:
 - tech
 - web
 - rss
-dontinlinephotos: true
+title: Things with RSS Feeds you might not have known about
 ---
 
 RSS/Atom feeds are typically used for subscribing to blogs and podcasts, but in theory, any site that publishes items regularly can have them. Here are some you might not have known about:
