@@ -10,6 +10,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 #mtg It's always awesome when you win a game from 1 life due to super-tight play

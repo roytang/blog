@@ -9,6 +9,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 Drafts are lagging. My event number is 648214. #mtg

@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 #mtg It sucks when you have an awesome sealed pool then lose a round because you didn't draw one of your colors &gt;.&lt;

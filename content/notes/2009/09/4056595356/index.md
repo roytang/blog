@@ -9,6 +9,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 #mtg oh the pain of turn 1 black vise! I did not miss taking that free damage

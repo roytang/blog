@@ -9,6 +9,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 #mtg couldn't draft due to downtime...decided to randomly play 100-card singleton

@@ -9,6 +9,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 #mtg Foil Mana Drains selling on MTGO for 80 to 120 tix :o

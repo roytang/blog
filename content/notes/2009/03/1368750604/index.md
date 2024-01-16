@@ -14,6 +14,7 @@ tags:
 - mtg
 - draft
 - mtgo
+- merged
 ---
 
 #mtg drafting again. crappy first pack

@@ -1,5 +1,5 @@
 ---
-date: 2009-12-27 14:28:34+00:00
+date: 2009-12-27 14:28:34
 source: twitter
 syndicated:
 - type: twitter
@@ -20,6 +20,7 @@ tags:
 - momir
 - mtg
 - mtgo
+- merged
 title: Momir Basic on MTGO
 ---
 
@@ -35,4 +36,4 @@ It looks like I'm skipping sleep tonight to play Momir Basic. Starts at 1am over
 
 <time>[05:53]</time> #momir #mtg Round5: Won game1 despite opponent having a 60/60 hamletback. Won game2 off my opponent's 3rd turn Countryside Crusher
 
-<time>[07:07]</time> #momir #mtg Final record: 3-3. Momir Basic: You should be thankful when your 7 drops don't kill you as they ETB 
+<time>[07:07]</time> #momir #mtg Final record: 3-3. Momir Basic: You should be thankful when your 7 drops don't kill you as they ETB

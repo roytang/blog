@@ -14,6 +14,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 #mtg ugh, should not have played 2 events in a row. I literally felt myself go on tilt

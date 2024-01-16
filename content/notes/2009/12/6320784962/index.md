@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 I wonder if it's a good time to play Standard on MtGO this weekend, all the Americans will be at States!

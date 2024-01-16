@@ -10,6 +10,7 @@ syndicated:
 tags:
 - mtgo
 - mtg
+- merged
 ---
 
 RT [@wrongwaygoback](https://twitter.com/wrongwaygoback/): #MtGO: For those of you considering entering the world of Magic Online, read this article -&gt; https://puremtgo.com/articles/comparing-prizes-magic-online-tournaments

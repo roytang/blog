@@ -17,6 +17,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 #mtg I enjoy winning with Legendary Human Pirates. With Horsemanship.

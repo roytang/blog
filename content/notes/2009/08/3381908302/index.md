@@ -9,6 +9,7 @@ syndicated:
 tags:
 - mtg
 - mtgo
+- merged
 ---
 
 argh ran out of mtgo boosters &gt;&lt;
