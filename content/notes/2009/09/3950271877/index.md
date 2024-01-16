@@ -16,6 +16,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/137577717300
 tags:
 - mtg
+- mtgo
 ---
 
 #mtg I enjoy winning with Legendary Human Pirates. With Horsemanship.

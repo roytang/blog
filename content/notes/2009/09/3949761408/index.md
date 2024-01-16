@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/134803335901
 tags:
 - mtg
+- mtgo
 ---
 
 #mtg Foil Mana Drains selling on MTGO for 80 to 120 tix :o

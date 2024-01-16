@@ -21,6 +21,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/152420581976
 - type: twitter
+  url: https://twitter.com/roytang/statuses/4133481348/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/141677302483
+- type: twitter
   url: https://twitter.com/roytang/statuses/4370307880/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/136384357876
@@ -65,6 +69,8 @@ title: Zendikar Set Recap
 <time>[2009-09-12 05:14] </time> [@misterorange](https://twitter.com/misterorange/) the art for Kazandu Blademaster looks like a Final Fantasy character
 
 <time>[2009-09-17 12:37] </time> #mtg the ev of a zendikar box just went up again
+
+<time>[2009-09-21 19:02] </time> #mtg I think Dredge just got served by Ravenous Trap https://www.mtgsalvation.com/forums/magic-fundamentals/the-rumor-mill/226849-zen-kor-cartographer-punishing-fire-2-more-from
 
 <time>[2009-09-25 23:13] </time> Some insanity today in the world of #mtg: https://www.mtgsalvation.com/forums/magic-fundamentals/the-rumor-mill/rumor-mill-archive/248426-priceless-treasures-in-zen-packs-confirmed Power 9 cards found in boosters of upcoming set Zendikar!
 

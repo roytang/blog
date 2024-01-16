@@ -1,5 +1,5 @@
 ---
-date: 2009-12-30 01:54:18+00:00
+date: 2009-12-30 01:54:18
 dontinlinephotos: true
 source: twitter
 syndicated:
@@ -9,6 +9,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/statuses/7188576369/
 tags:
 - mtg
+- mtgo
 ---
 
 #mtg It's always awesome when you win a game from 1 life due to super-tight play

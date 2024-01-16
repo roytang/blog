@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/135145398186
 tags:
 - mtg
+- mtgo
 ---
 
 #mtg got called a "luckbox" on mtgo. First time I heard that term

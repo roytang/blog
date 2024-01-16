@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/180484896976
 tags:
 - mtg
+- mtgo
 ---
 
 Drafts are lagging. My event number is 648214. #mtg

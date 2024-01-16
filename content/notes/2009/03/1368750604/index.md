@@ -13,6 +13,7 @@ syndicated:
 tags:
 - mtg
 - draft
+- mtgo
 ---
 
 #mtg drafting again. crappy first pack

@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/139615058823
 tags:
 - mtg
+- mtgo
 ---
 
 #mtg couldn't draft due to downtime...decided to randomly play 100-card singleton

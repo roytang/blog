@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/134694234194
 tags:
 - mtg
+- mtgo
 ---
 
 #mtg ugh, should not have played 2 events in a row. I literally felt myself go on tilt
