@@ -10,6 +10,18 @@ syndicated:
   url: https://twitter.com/roytang/statuses/630267345903054848/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154003132838912
+- type: instagram
+  url: https://instagram.com/p/6KSjuXsoJw/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154003060963912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154003579973912
+- type: instagram
+  url: https://instagram.com/p/6Jre4MMoCc/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154003060963912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154003060973912
 tags:
 - birthday
 title: Thirty-Seven
@@ -26,3 +38,6 @@ You have to be able to look within yourself to find your own drive, to find the 
 Despite some bad spots, I've still had a pretty good twelve months though. I've traveled a lot, and plan to travel more before the year ends. I'm still learning new things. I'm still blessed with good family and friends and a means to sustain myself and my wants.
 
 My birthday always feels like a good opportunity to step back and take a breather and find some perspective. And to re-affirm the choice to keep moving forward -- one step at a time...
+
+---
+

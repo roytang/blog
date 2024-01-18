@@ -7,11 +7,22 @@ syndicated:
   url: https://twitter.com/roytang/statuses/498073063942942723/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153141870928912
+- type: foursquare
+  url: https://www.swarmapp.com/roytang/checkin/53e6f9d9498e0e23fa3a646d
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153143969078912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153143969078912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153144571373912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153143969048912
 tags:
 - birthday
 title: Thirty-Six
 type: post
 url: /2014/08/thirty-six/
+dontinlinephotos: true
 ---
 
 Thirty-six is a [semiperfect number][1], meaning it is the sum of some subsets of its natural divisors.
@@ -52,10 +63,27 @@ I wish for more free time.
 
 I wish for more wishes.
 
-&nbsp;
-
 Let the future come and bring what it will.
 
-&nbsp;
+---
+
+#### Birthday Lunch @ Yabu
+
+<time>[2014-08-10 12:49] </time> (@Yabu House of Katsu 2nd Flr Chef Avenue The Block SM City North EDSA Complex)
+
+{{< photos 130537 >}}
+
+---
+
+<time>[2014-08-10 15:53] </time> Some pickups/birthday stuff
+
+{{< photos 155643 >}}
+
+<time>[23:032]</time> More birthday spoils (may nagtampo bakit daw hindi ko pinicuran yung iba)
+
+{{< photos 230438 >}}
+
+---
+
 
  [1]: http://en.wikipedia.org/wiki/Semiperfect_number

@@ -10,6 +10,10 @@ url: /2009/08/thirty-one/
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/112329128911
+- type: twitter
+  url: https://twitter.com/roytang/statuses/3208043067/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/112229840889
 ---
 
 Days seem to fly by at such an unforgiving pace. Has it really been thirty-one years now?

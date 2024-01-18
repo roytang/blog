@@ -3,9 +3,11 @@
   "name": "Roy Tang",
   "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "Hindi ata tragedy yung independence ng Singapore lol. Thanks!",
-  "date": "2016-08-09 00:00:01",
+  "date": "2016-08-09 13:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154808369203912#10154808375278912",
+  "source": "7a71644e",
+  "spam": false,
   "source_obj": {
     "id": "10154808375278912",
     "poster": "Roy Tang",
@@ -24,5 +26,6 @@
         "replyto": "10154808375278912"
       }
     ]
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154808369203912"
 }

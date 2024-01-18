@@ -7,6 +7,19 @@ tags:
 title: The Fifth Power
 type: post
 url: /2010/08/the-fifth-power/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/20655216050/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/150021395011747
+- type: plurk
+  url: https://plurk.com/p/6tg6it
+- type: twitter
+  url: https://twitter.com/roytang/statuses/20706891234/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/150549808292722
+- type: plurk
+  url: https://plurk.com/p/6u06np
 ---
 
 I maybe getting older but as anyone can attest, I'm still a child at heart.
