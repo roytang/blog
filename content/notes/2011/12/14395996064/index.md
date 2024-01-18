@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/148318392493936640/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150437492848912
+tags:
+- nedroid
 ---
 
 <p>Pizza again?</p>
