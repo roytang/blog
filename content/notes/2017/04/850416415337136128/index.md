@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/850416415337136128/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155512760143912
+tags:
+- p5
 ---
 
 P4: Guy Hunter

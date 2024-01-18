@@ -9,6 +9,7 @@ syndicated:
 tags:
 - mobile-uploads
 - persona3
+- p3p
 ---
 
 My new default rpg name (male): Joe Banana

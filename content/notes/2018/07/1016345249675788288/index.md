@@ -1,5 +1,5 @@
 ---
-date: 2018-07-09 23:36:00+08:00
+date: 2018-07-09 15:36:00
 dontinlinephotos: true
 source: twitter
 syndicated:
@@ -7,6 +7,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156761762738912
 - type: twitter
   url: https://twitter.com/roytang/statuses/1016345249675788288/
+tags:
+- p5
 ---
 
 This is the best song in Persona 5, fight me https://www.youtube.com/watch?v=jaIo82uT0qs via [@YouTube](https://twitter.com/YouTube/)

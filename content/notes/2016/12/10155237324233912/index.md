@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-12-31 06:04:00+08:00
+date: 2016-12-30 22:04:00
 reviews:
 - description: ''
   media: games
@@ -16,6 +16,7 @@ syndicated:
 tags:
 - timeline-photos
 - games
+- p3p
 ---
 
 I also finished Persona 3 Portable today (been playing it on and off since Feb 2015). I figured I should clear it off my backlog before P5 next year. Didnt manage a completionist run though
