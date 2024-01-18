@@ -1,5 +1,6 @@
 ---
 author: roy
+dontinlinephotos: true
 categories: []
 date: 2017-06-10 01:30:38
 resources:
@@ -28,6 +29,18 @@ syndicated:
   url: https://twitter.com/roytang/statuses/873354848841945088/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155735951968912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153548368748912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/850416415337136128/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155512760143912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/899642078602248195/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156761762738912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1016345249675788288/
 tags:
 - Review
 - Gaming
@@ -56,3 +69,39 @@ I must've seen this video at least 50 times now due to some of my friends (you k
 One thing I dislike about the Persona series is that because of the time management aspect of the game, a lot of things are missable. Since I tend to play RPGs without any guides or walkthroughs the first time around, it's problematic for me. This means that on my first run through I missed completing the Confidants/Social Links, even though when I started the run I told myself I'd prioritize them over other activities. Definitely need a second run for the platinum. (Of course, I have yet to platinum P4G either due to a mistake I made during the second run~)
 
 In conclusion: Despite (or maybe because of?) it's ridiculousness, Persona 5 is a great game. Story is tight, and the dungeon crawling has been streamlined a lot. That being said, it's definitely not a game for everyone, mostly because of the style. If you dislike Japanese stuff or anime or anything turn-based, it's definitely not for you. Go play Call of Duty or something. For everyone else, enjoy one of the year's best JRPGs (sorry FF15!)
+
+### Photo Dump
+
+{{% photos %}}
+
+### Social Media Archive
+
+<time>[2015-02-06 05:50] </time> Persona 5 is looking good... 
+
+[PERSONA 5 - NEW TRAILER](https://www.youtube.com/watch?v=e-BC2jySmCc)
+
+{{% youtube e-BC2jySmCc %}}
+
+[Comments](#comment-62649df9-fcd3-420e-a06a-761d8be2641f)
+
+---
+
+<time>[2017-04-08 02:34] </time> P4: Guy Hunter
+P3: Joe Banana
+P5: Duke McFace
+
+...I'm not sure if I'm getting better at this naming thing
+
+---
+
+<time>[2017-08-21 22:39] </time> Finished my second Persona 5 run but missed out on platinum because I didnt read a message from mishima @_@
+
+---
+
+<time>[2018-07-09 23:36] </time> This is the best song in Persona 5, fight me https://www.youtube.com/watch?v=jaIo82uT0qs via [@YouTube](https://twitter.com/YouTube/)
+
+[Rivers in the Desert ( With Lyrics ) - Persona 5](https://www.youtube.com/watch?v=jaIo82uT0qs)
+
+[Comments](#comment-7047e158-8167-459d-aebf-89d575ebd8e2)
+
+---
