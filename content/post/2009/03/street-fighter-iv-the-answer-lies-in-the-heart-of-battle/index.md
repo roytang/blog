@@ -6,6 +6,23 @@ reviews:
   media: games
   rating: 0.0
   title: Street Fighter IV (PS3)
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1369777384/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/58697839149
+- type: twitter
+  url: https://twitter.com/roytang/status/2780278973/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/235916315450
+- type: twitter
+  url: https://twitter.com/roytang/status/2780580621/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/125562766741
+- type: twitter
+  url: https://twitter.com/roytang/statuses/2818267621/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/138164857576
 tags:
 - Gaming
 - games
@@ -25,6 +42,27 @@ Another neat feature: during versus matches, the game keeps tracks of continuous
 We've tried playing online, although as usual connection is crap between BayanDSL and PLDT players, and the majority of Pinoy players seem to be on PLDT. Surprisingly, my brother was getting good connection ratings for opponents from Japan! The matching features are okay, despite not having double-blind character selection (this more accurately reflects the arcade experience though!) One thing that seems neat although we haven't tried it yet -- when playing in arcade mode you can allow other online players to challenge you at any time, just like a real arcade game!
 
 One last thing: Cammy's ultra is pretty sw33t.
+
+### Social Media Archive
+
+<time>[2009-03-22 16:57] </time> LSS: "Indestructible" (SF4 theme)
+
+---
+
+<time>[2009-07-23 00:15] </time> winning may not be everything, but it sure feels good
+
+<time>[00:33]</time> also today: sf4 arcade machines are finally available at Timezone Megamall
+
+[Comments](#comment-471d17aa-4644-4a9b-adc0-38f5fe8b7b07)
+
+---
+
+<time>[2009-07-24 21:30] </time> #sf4: went 2-1 vs random ppl today @ Mega. The stick was easier to use than I expetced, although Guile opp complained of difficulty charging
+
+[Comments](#comment-00985460-2b40-400c-b1ea-ea2909b1bf57)
+
+---
+
 
  [1]: http://www.metacritic.com/games/platforms/ps3/streetfighter4?q=street%20fighter%20iv
  [2]: http://www.sirlin.net/blog/2009/2/22/a-few-things-about-street-fighter-4.html
