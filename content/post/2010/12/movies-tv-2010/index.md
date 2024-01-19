@@ -321,6 +321,8 @@ Notes from my journal:
 
 <time>[2010-06-10 21:33] </time> Just saw the season ending of Chuck. Pretty good, glad it's coming back for another season.
 
+---
+
 #### Others
 
 <time>[2010-10-05 20:23] </time> TV Night! Agenda: Smallville, Criminal Minds, Simpsons, How I Me Your Mother, Chuck
