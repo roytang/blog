@@ -128,7 +128,7 @@ title: Movies/TV I watched in 2017
 toc: true
 ---
 
-This is an archive of movies/TV I watched in 2017 that haven't otherwise had blog posts, scrobbled together from social media posts.
+This is an archive of movies/TV I watched in 2017 that haven't otherwise had blog posts, cobbled together from social media posts.
 
 ### Movies
 
