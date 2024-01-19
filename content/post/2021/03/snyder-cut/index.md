@@ -15,7 +15,7 @@ tags:
 title: Zack Snyder's Justice League (aka The Snyder Cut) review
 ---
 
-See also: [Justice League spoiler-free review (2017)](/2017/11/931540341919965184/) 
+See also: [Justice League spoiler-free review (2017)](/2017/12/movies-tv-2017/#justice-league-2017) 
 
 This is basically a movie that's more than 3 years old, we're not holding back on spoilers here.
 

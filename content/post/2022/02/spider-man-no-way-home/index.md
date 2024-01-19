@@ -54,7 +54,7 @@ Ned's lola was a nice surprise for us Tagalog speakers, although she spoke with 
 
 I am generally happy with how the rest of the plot developed. May dying was a shocker (thankfully one that never got spoiled for me), but was probably necessary for MCU Peter to truly become "Spider-Man"; he had never had an "Uncle Ben" moment until now, and it's that loss that drives him to make the sacrifices necessary for the rest of the film. 
 
-That ending ties up Tom Holland's trilogy neatly and leaves nothing on the table for any possible future appearances. (Unlike [Far From Home](/2019/07/spider-man-far-from-home/) which burdened the next film with the secret identity reveal.) He could completely leave the role behind right now and it would be fine; or he could go in a completely different direction with a different supporting cast (see: [Thor Ragnarok](/2017/10/10156133009878912/)). With not even the Avengers remembering who he is, it even frees him up for a true standalone solo film.
+That ending ties up Tom Holland's trilogy neatly and leaves nothing on the table for any possible future appearances. (Unlike [Far From Home](/2019/07/spider-man-far-from-home/) which burdened the next film with the secret identity reveal.) He could completely leave the role behind right now and it would be fine; or he could go in a completely different direction with a different supporting cast (see: [Thor Ragnarok](/2017/12/movies-tv-2017/#thor-ragnarok-2017)). With not even the Avengers remembering who he is, it even frees him up for a true standalone solo film.
 
 {{< /spoiler >}}
 
@@ -68,4 +68,4 @@ If you liked the film but haven't read a lot of the comics, here's some stuff yo
 
 I believe all of these issues are available in the Marvel Unlimited app (a paid sub is required).
 
-Previously: [Spider-Man 2 (2004)](/2004/07/movies-spiderman-2/), [Spider-Man 3 (2007)](/2007/05/spider-man-3/), [Amazing Spider-Man (2012)](/2012/12/movies-2012/#amazing-spider-man-2012), [Amazing Spider-Man 2 (2014)](/2014/05/the-amazing-spider-man-2-review/), [Spider-Man: Homecoming (2017)](/2017/07/10155834066513912/), [Spider-Man: Far From Home (2019)](/2019/07/spider-man-far-from-home/)
+Previously: [Spider-Man 2 (2004)](/2004/07/movies-spiderman-2/), [Spider-Man 3 (2007)](/2007/05/spider-man-3/), [Amazing Spider-Man (2012)](/2012/12/movies-2012/#amazing-spider-man-2012), [Amazing Spider-Man 2 (2014)](/2014/05/the-amazing-spider-man-2-review/), [Spider-Man: Homecoming (2017)](/2017/12/movies-tv-2017/#spider-man-homecoming-2017), [Spider-Man: Far From Home (2019)](/2019/07/spider-man-far-from-home/)
