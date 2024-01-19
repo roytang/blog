@@ -1,15 +1,6 @@
 ---
 backpost_date: 2024-01-13 01:03:28
 date: 2010-12-31
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/10114197814/
-- type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/347355702022
-tags:
-- movies
-- backpost
-title: Movies I watched in 2010
 reviews:
 - date: '2010-03-07'
   description: ''
@@ -101,6 +92,18 @@ reviews:
   media: movies
   rating: 0.0
   title: The Social Network (2010)
+- date: '2010-05-14'
+  description: ''
+  hashtag: legend-of-the-seeker-season-2
+  media: tv
+  rating: 0.0
+  title: Legend of the Seeker season 2
+- date: '2010-06-10'
+  description: ''
+  hashtag: chuck-season-3
+  media: tv
+  rating: 0.0
+  title: Chuck season 3
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/10114197814/
@@ -162,15 +165,39 @@ syndicated:
   url: https://twitter.com/roytang/statuses/8523800157093889/
 - type: plurk
   url: https://plurk.com/p/97a7lo
+- type: twitter
+  url: https://twitter.com/roytang/statuses/13987299353/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/15850528148/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/26451150541/
+- type: plurk
+  url: https://plurk.com/p/80qsgp
+tags:
+- movies
+- tv
+- backpost
+title: Movies/TV I watched in 2010
+toc: true
 ---
+
+### Movies
 
 #### Spaceballs (1987)
 
 <time>[2010-03-07 17:38] </time> Watching "Spaceballs" on Star Movies
 
+[Comments](#comment-be259c5e-f980-425d-a334-f390c85d63d9)
+
+---
+
 #### Kick-Ass (2010)
 
 <time>[2010-04-17 23:05] </time> Just game back from Kick-Ass. Good movie, 8.5/10! Not many people are watching it though, the theatre was almost empty when we got in.
+
+[Comments](#comment-278ce1b3-dfa3-4608-b7e0-78dcd2dbadc9)
+
+---
 
 #### Iron Man 2 (2010)
 
@@ -178,17 +205,25 @@ syndicated:
 
 <time>[2010-05-03 00:13] </time> Iron Man 2 was okay, but it was pretty much more of the same. Therefore it does not wow as much as the first movie did.
 
+---
+
 #### Zombieland
 
 <time>[2010-06-17 09:04] </time> watching Zombieland
+
+---
 
 #### Toy Story 3 (2010)
 
 <time>[2010-06-27 23:08] </time> Just came back from Toy Story 3
 
+---
+
 #### Inception (2010)
 
 <time>[2010-07-16 19:55] </time> Going to watch inception
+
+---
 
 #### Shutter Island (2010)
 
@@ -197,6 +232,8 @@ syndicated:
 Notes from my journal: 
 
 > So I saw Shutter Island yesterday. It's ok, but definitely not as good as Inception. It doesn't help that I was expecting a twist ending from the very start. Also, what made me think Chris Nolan was involved with this one also?
+>
+> ---
 
 #### Expendables
 
@@ -205,6 +242,9 @@ Notes from my journal:
 Notes from my journal: 
 
 > The Expendables was okay, action-packed movie but with some lame lines/jokes that we believe were written by Stallone as he co-wrote the screenplay. We were imagining him going "oh, this is going to be so cool, the audience is going to love it", etc.
+> 
+
+---
 
 #### Despicable Me
 
@@ -214,9 +254,13 @@ Notes from my journal:
 
 > Despicable Me was okay, a few laughs, but not a laugh-all-you-can riot like some other animated films. It was a sappy family movie at the end, although that should have been seen coming since the three little girls were introduced.
 
+---
+
 #### Drunken Master (1978)
 
 <time>[2010-09-25 21:05] </time> watching "Drunken Master"
+
+---
 
 #### Legend of the Drunken Master (1994)
 
@@ -226,6 +270,8 @@ Notes from my journal:
 
 > The great thing about these kung fu movies is that it makes it seem like everyone in china can fight and do kung fu like the devil.
 
+---
+
 #### Scott Pilgrim vs the World (2010)
 
 <time>[2010-11-07 14:12] </time> Watching: Scott Pilgrim vs the World
@@ -234,13 +280,23 @@ Notes from my journal:
 
 > My brother and I watched Scott Pilgrim vs the world on Sunday. The movie is cool and awesome and pretty much what I expected, but I understand why it wasn't that big a hit financially and some critics criticized it a bit too much. You really need to be a gamer or comics guy to really appreciate it.
 
+---
+
 #### Dead Poets Society (1989)
 
 <time>[2010-11-22 21:10] </time> Dead poets society is a great movie, but i hate watching the ending especially what happens to Neil.
 
+[Comments](#comment-7daa0ef4-52f8-4d9b-86e9-5aafe00e8a2e)
+
+---
+
 #### Salt (2010)
 
 <time>[2010-11-24 18:54] </time> Just watched Salt. While it's a fun action movie, I'm a bit unsatisfied with the explanations for Salt's actions
+
+[Comments](#comment-49d2b7e4-5dec-4409-8432-8dbdfd711d64)
+
+---
 
 #### The Social Network (2010)
 
@@ -249,3 +305,24 @@ Notes from my journal:
 Notes from my journal: 
 
 > The Social Network was ok for a movie, but of course I took it with a grain of salt because basically the whole movie came from a book where everything came only from the side of the cofounder who had a falling out with zuckerberg. I also had a bit of trouble taking some parts seriously because the guy playing suck looks a bit like Michael cera so I kept imagining the lines with cera's whiny little voice. It made some scenes more amusing lol. Overall the movie is good, and they didn't butcher the geek stuff too much. At least now I know zuckerberg was a real programmer.
+>
+
+---
+
+### TV
+
+#### Legend of the Seeker season 2
+
+<time>[2010-05-15 01:18] </time> Started watching Legend of the Seeker season 2
+
+---
+
+#### Chuck season 3
+
+<time>[2010-06-10 21:33] </time> Just saw the season ending of Chuck. Pretty good, glad it's coming back for another season.
+
+#### Others
+
+<time>[2010-10-05 20:23] </time> TV Night! Agenda: Smallville, Criminal Minds, Simpsons, How I Me Your Mother, Chuck
+
+---
