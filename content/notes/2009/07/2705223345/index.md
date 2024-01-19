@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/137986222624
 tags:
 - tv
+- merged
 ---
 
 FMA Brotherhood's actions scenes seem better than the original anime, I liked Edward vs Ran Fan, don't even remember this from the manga

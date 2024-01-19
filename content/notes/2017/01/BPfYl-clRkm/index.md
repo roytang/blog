@@ -18,6 +18,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155292990263912
 tags:
 - sketchdaily
+- funnykomiks
 ---
 
 Superdog vs Inkredibuldog #sketchdaily A recreation of a drawing from when I was 7 years old

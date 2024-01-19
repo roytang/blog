@@ -2,7 +2,7 @@
 albums:
 - timeline
 - instagram
-date: 2017-01-20 05:43:48-07:00
+date: 2017-01-20 12:43:48
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155292746808912
 tags:
 - timeline-photos
+- funnykomiks
 ---
 
 My first published artwork, in Funny Komiks circa 1985. The printer butchered my coloring!

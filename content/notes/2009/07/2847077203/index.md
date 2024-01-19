@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/126072636321
 tags:
 - tv
+- merged
 ---
 
 watching Legend of the Seeker

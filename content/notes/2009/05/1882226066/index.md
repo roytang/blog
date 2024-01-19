@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/80795764226
 tags:
 - tv
+- merged
 ---
 
 the ending of 24s07 was slightly disappointing

@@ -13,6 +13,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/88699674240
 tags:
 - tv
+- merged
 ---
 
 the ending of Chuck S02 was better than I expected
