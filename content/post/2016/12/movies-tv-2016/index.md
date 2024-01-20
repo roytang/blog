@@ -111,6 +111,18 @@ reviews:
   media: tv
   rating: 0.0
   title: Black Mirror seasons 1-3
+- date: '2016-12-26'
+  description: ''
+  hashtag: westworld-s1
+  media: tv
+  rating: 0.0
+  title: Westworld S1
+- date: '2016-05-20'
+  description: ''
+  hashtag: arrowverse
+  media: tv
+  rating: 0.0
+  title: Arrowverse
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154367398403912
@@ -150,6 +162,14 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154613586538912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154642031403912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/737101608996081664/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154634235533912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/734799426468777984/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154619887978912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154702251248912
 - type: facebook
@@ -158,6 +178,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154956006193912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155207359768912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155222048823912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154510824138912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154612072203912
 tags:
 - backpost
 - movies
@@ -363,6 +389,10 @@ Warcraft movie review:
 
 #### Game of Thrones S6
 
+<time>[2016-05-24 13:33] </time> Fine! I went ahead and watched season 6 already. Are you happy now internet? #GameofThrones
+
+<time>[2016-05-30 10:01] </time> Waiting for a show on TV according to schedule like some sort of savage #gameofthrones
+
 <time>[2016-06-27 11:26] </time> Game of Thrones season finale very satisfying, cleanly sets up for season 7 with no annoying cliffhangers. Well done!
 
 [Comments](#comment-b0be89b5-2f91-4b83-b39d-66873c4049da)
@@ -402,5 +432,27 @@ Worst character: Chakotay. Ugh, I cringe whenever there's one of his "Space Indi
 <time>[2016-12-22 21:34] </time> Finished Black Mirror this week. It is indeed a heavy show, but I find that it becomes a lot easier to watch (and binge) if you try not to get attached to the characters and just accept that horrible things will happen to them lol
 
 [Comments](#comment-db6bb077-e3d4-47ff-b781-6cec42928502)
+
+---
+
+#### Westworld S1
+
+<time>[2016-12-27 00:57] </time> Finished watching Westworld. It's pretty good. Once you get introduced to the premise of the show, it's easy to imagine where it goes from there - these types of stories tend to go in that particular direction. Where the show shines is the narrative, the way the events unfold, everything is very well done. Some things from the earlier episodes are quite vague, unclear or sometimes downright contradictory, but things clear up pretty well near the end of the 10-episode run, though a number of things are still left hanging (including the fates of the surviving characters) for the presumptive season two to help clear up.  Not for kids. Lots of violence and nudity and whatnot.  Also, there's a post-credits scene.
+
+[Comments](#comment-59f5e2a1-07c7-4a52-85b4-881cca1b973a)
+
+---
+
+#### Criminal Minds: Beyond Borders
+
+<time>[2016-14-2016 23:12] </time> So I watched a couple of eps of the new Criminal Minds spin-off Beyond Borders featuring Gary Sinise's FBI team intervening in crimes with American victims in other countries. I'm tempted to keep watching solely for the eventual episode set in the Philippines where there are militant leftists protesting against imperialist interference in local affairs
+
+---
+
+#### Arrowverse
+
+<time>[2016-05-20 15:44] </time> I wonder if they're going to try to merge Supergirl universe with the Arrowverse somehow. With Flash and Supergirl there, we have the proper elements for a crisis on infinite earths :p  https://ew.com/article/2016/05/19/cw-crossover-arrow-flash-legends-tomorrow-supergirl/
+
+[Comments](#comment-643ef9cf-0bc8-421f-85f1-40a0452731fa)
 
 ---

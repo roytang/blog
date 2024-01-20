@@ -3,9 +3,11 @@
   "name": "Luis Formilleza",
   "url": "https://www.facebook.com/luis.formilleza",
   "text": "I&#x27;m for a Legion of Superheroes storyline with Supergirl and the Legends of Tomorrow cast",
-  "date": "2016-05-21 00:00:02",
+  "date": "2016-05-21 00:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154612072203912#10154613213223912",
+  "source": "ab4d5c19",
+  "spam": false,
   "source_obj": {
     "id": "10154613213223912",
     "poster": "Luis Formilleza",
@@ -33,5 +35,6 @@
         "replyto": "10154613213223912"
       }
     ]
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154612072203912"
 }

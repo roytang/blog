@@ -3,9 +3,11 @@
   "name": "Joy Reyes-Madamba",
   "url": "https://www.facebook.com/joyapreyes",
   "text": "But isn&#x27;t the current Arrowverse in the same Earth as the Flash?",
-  "date": "2016-05-20 00:00:00",
+  "date": "2016-05-20 15:44:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154612072203912#10154612081678912",
+  "source": "32e461cb",
+  "spam": false,
   "source_obj": {
     "id": "10154612081678912",
     "poster": "Joy Reyes-Madamba",
@@ -69,5 +71,6 @@
         "replyto": "10154612081678912"
       }
     ]
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154612072203912"
 }

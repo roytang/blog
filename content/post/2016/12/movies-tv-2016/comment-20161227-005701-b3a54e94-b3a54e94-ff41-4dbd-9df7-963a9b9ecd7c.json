@@ -3,9 +3,11 @@
   "name": "Jvee Veneracion",
   "url": "https://www.facebook.com/jvee.veneracion",
   "text": "It&#x27;s a crime that Anthony Hopkins didn&#x27;t get a Best Actor nom at the Globes",
-  "date": "2016-12-27 00:00:00",
+  "date": "2016-12-27 00:57:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155222048823912#10155222939223912",
+  "source": "b3a54e94",
+  "spam": false,
   "source_obj": {
     "id": "10155222939223912",
     "poster": "Jvee Veneracion",
@@ -13,5 +15,6 @@
     "text": "It's a crime that Anthony Hopkins didn't get a Best Actor nom at the Globes",
     "attachments": [],
     "date": "Dec 27, 2016"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10155222048823912"
 }
