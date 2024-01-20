@@ -3,8 +3,10 @@
   "name": "Aleks Felipe",
   "url": "https://twitter.com/aleksfelipe",
   "text": "[@roytang](https://twitter.com/roytang/) bruna has value on mtgo?!",
-  "date": "2012-06-22 03:12:09",
+  "date": "2012-06-22 11:12:09 +0800",
   "photo": "https://pbs.twimg.com/profile_images/1422513385921413125/I05wn2pY_normal.jpg",
   "source_url": "https://twitter.com/aleksfelipe/status/216005628978675712/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/roytang/status/216000311683325952/"
 }
