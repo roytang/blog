@@ -74,7 +74,7 @@ tags:
 - mtg
 - mtgo
 - backpost
-title: Roy vs MTGO 2010
+title: Magic Online Adventures 2010
 ---
 
 
