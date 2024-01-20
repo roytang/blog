@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150407237938912
 tags:
 - tv
+- community
 ---
 
 Between Batman and animated Jeff and Shirley, I must confess to enjoying this week's Community.

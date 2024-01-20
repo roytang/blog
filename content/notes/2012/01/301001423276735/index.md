@@ -1,9 +1,11 @@
 ---
-date: 2012-01-05 14:23:00+00:00
+date: 2012-01-05 14:23:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/301001423276735
+tags:
+- community
 title: ''
 ---
 
