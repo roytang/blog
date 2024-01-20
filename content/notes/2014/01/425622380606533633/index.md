@@ -8,4 +8,6 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152740048648912
 ---
 
-Feel the rhythm! Feel the rhyme! Get on up, its bobsled time! COOL RUNNINGS! https://www.bbc.com/sport/winter-olympics/25816067
+Feel the rhythm! Feel the rhyme! Get on up, its bobsled time! COOL RUNNINGS! 
+
+[Jamaica bobsleigh awarded Sochi spot](http://www.bbc.com/sport/0/winter-olympics/25816067)
