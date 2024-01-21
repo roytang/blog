@@ -6,6 +6,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/45484569653/nancy-binay-for-senator-i-couldnt-resist-after
 - type: twitter
   url: https://twitter.com/roytang/statuses/312832823830663168/
+tags:
+- halalan2013
 ---
 
 <p>Nancy Binay for Senator</p>

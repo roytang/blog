@@ -7,7 +7,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/404682162959902
 - type: twitter
   url: https://twitter.com/roytang/statuses/298823851826098176/
-tags: []
+tags:
+- community
 ---
 
 3 days remain

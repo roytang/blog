@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/321890302744997888/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152185141563912
+tags:
+- halalan2013
 ---
 
 I'm sorry, but if your car has a sticker supporting Nancy Binay for Senator, I'm going to assume you might be an idiot.

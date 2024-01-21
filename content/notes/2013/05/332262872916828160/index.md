@@ -1,5 +1,5 @@
 ---
-date: 2013-05-08 22:36:56+00:00
+date: 2013-05-08 22:36:56
 repost_source:
   name: alvinjtang
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/332262872916828160/
+tags:
+- halalan2013
 title: ''
 ---
 
