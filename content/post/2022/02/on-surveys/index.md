@@ -42,7 +42,7 @@ It would be better to educate the voting populace somehow, but for some reason v
 
 It's true that "bandwagoning" is a big problem; mainly because too many Filipino voters treat elections as tribal challenges where if you manage to align yourself with the "winning side" you get to gloat or something? IDK, I don't really get it. 
 
-People need to learn that [not voting for someone coz he's not going to win is saying your vote doesn't matter. Your vote is your voice, not a bet on who will win.](/2010/05/13431880650/)
+People need to learn that [not voting for someone coz he's not going to win is saying your vote doesn't matter. Your vote is your voice, not a bet on who will win.](/2010/05/election-runup/#comment-d5be7243-d22a-4c9f-ae39-f83bf3e6a6cb)
 
 ---
 

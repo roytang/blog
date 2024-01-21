@@ -80,6 +80,7 @@ syndicated:
 tags:
 - philippines
 - halalan2010
+- halalan
 - backpost
 title: "Halalan2010: Election Day Liveblog"
 ---
