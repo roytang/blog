@@ -1,35 +1,38 @@
 ---
-title: "2000s Manga"
-date: 2024-01-22T13:17:50+08:00
+date: 2024-01-22 05:17:50
+dontinlinephotos: true
+reviews:
+- date: 2010-06-11
+  hashtag: full-metal-alchemist
+  media: comics
+  title: Full Metal Alchemist
+- date: 2023-11-12
+  hashtag: liar-game
+  media: comics
+  title: Liar Game
+- date: 2006-05-15
+  hashtag: death-note
+  media: comics
+  title: Death Note
+- date: 2012-04-19
+  hashtag: bakuman
+  media: comics
+  title: Bakuman
+- date: 2009-07-04
+  hashtag: claymore
+  media: comics
+  title: Claymore
+- date: 2007-06-29
+  hashtag: cromartie-high-school
+  media: comics
+  title: Cromartie High School
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111798200488814410
 tags:
 - manga
 - comics
-reviews:
-- media: comics
-  title: Full Metal Alchemist
-  date: 2010-06-11
-  hashtag: full-metal-alchemist
-- media: comics
-  title: Liar Game
-  date: 2023-11-12
-  hashtag: liar-game
-- media: comics
-  title: Death Note
-  date: 2006-05-15
-  hashtag: death-note
-- media: comics
-  title: Bakuman
-  date: 2012-04-19
-  hashtag: bakuman
-- media: comics
-  title: Claymore
-  date: 2009-07-04
-  hashtag: claymore
-- media: comics
-  title: Cromartie High School
-  date: 2007-06-29
-  hashtag: cromartie-high-school
-dontinlinephotos: true
+title: 2000s Manga
 ---
 
 In the 90s and early 2000s my manga reading was mostly through borrowing actual volumes from friends. In the mid to late 2000s, the friends I borrowed from I saw less often, so my manga reading often happened online via scanlation groups and now-defunct websites like OneManga or MangaStream. Last year as preparation for an anime/manga themed quiz night, I reviewed a bunch of manga I read in the 2000s, I thought I'd write about them. I only cover here series that are already done. (There are some series I had read during this era that are still ongoing and are covered in my [2023 Manga Update](/2023/07/2023-manga-update/)!)
