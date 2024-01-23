@@ -26,7 +26,7 @@ Current read count: 16/41 (as of Feb 6, 2022)
 | 8 | Guards! Guards!  | 1989 | City Watch  | Y | [2016](/2016/12/805050532834353152/), [2021](/2021/04/discworld-city-watch/) |
 | 9 | Eric  | 1990 | Rincewind  | Y | [2022](/2022/04/weeknotes-04-17/#eric-by-terry-pratchett) |
 | 10 | Moving Pictures  | 1990 | Industrial Revolution  | Y | [2023](/2023/07/moving-pictures/) |
-| 11 | Reaper Man  | 1991 | Death  | | |
+| 11 | Reaper Man  | 1991 | Death  | Y | [2024](/2024/01/reaper-man/) |
 | 12 | Witches Abroad  | 1991 | Witches  | Y | |
 | 13 | Small Gods  | 1992 | Omnia  | Y | [2023](/2023/12/small-gods/) |
 | 14 | Lords and Ladies  | 1992 | Witches  | Y | [2006](/2006/05/pop-culture-consumer-whore/) |
