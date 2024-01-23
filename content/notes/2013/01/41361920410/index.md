@@ -10,6 +10,8 @@ syndicated:
   url: https://ireadcomicbooks.tumblr.com/post/180501520467/roytang-last-page-of-justice-league-16
 - type: twitter
   url: https://twitter.com/roytang/statuses/1066874368331079680/
+tags:
+- panels
 ---
 
 <p>Last page of Justice league 16</p>

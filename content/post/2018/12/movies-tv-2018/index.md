@@ -248,6 +248,8 @@ toc: true
 
 This is an archive of movies/TV I watched in 2018 that haven't otherwise had blog posts, cobbled together from social media posts.
 
+### Movies
+
 #### Black Panther (2018)
 
 <time>[2018-02-16 21:09] </time> BLACK PANTHER spoiler-free review!
@@ -394,6 +396,8 @@ Into the Spider-Verse spoiler-free review
 [Comments](#comment-efba028c-4026-4930-baef-f630ca10e6f7)
 
 ---
+
+### TV
 
 #### Black Mirror season 4
 

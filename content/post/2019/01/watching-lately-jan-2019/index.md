@@ -17,7 +17,7 @@ reviews:
 - media: tv
   title: "Young Justice Outsiders"
 - media: tv
-  title: "Punisher"
+  title: "Punisher S2"
 ---
 
 Some things I've been watching lately, aside from the usual TV shows I follow:
