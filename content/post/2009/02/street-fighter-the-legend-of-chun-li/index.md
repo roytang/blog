@@ -12,6 +12,11 @@ url: /2009/02/street-fighter-the-legend-of-chun-li/
 reviews:
 - media: movies
   title: "Street Fighter: The Legend of Chun Li (2009)"
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1262249094/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/55548026249
 ---
 
 I had time to kill before going to see my brother's art exhibit at megamall, so I went and watched Street Fighter: The Legend of Chun-Li.

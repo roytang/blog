@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1354266146/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/70827973202
+tags:
+- xkcd
 ---
 
 I have this dream all the time: https://xkcd.com/557/

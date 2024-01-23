@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1667946734/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/72904350535
+tags:
+- onepiece
 ---
 
 No One Piece this week?!?

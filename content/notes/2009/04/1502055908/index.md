@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1502055908/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/66724899418
+tags:
+- mama
 ---
 
 Alvin is playing PS3 bowling with our mom

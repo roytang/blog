@@ -8,6 +8,14 @@ reviews:
   title: Street Fighter IV (PS3)
 syndicated:
 - type: twitter
+  url: https://twitter.com/roytang/statuses/1245187394/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/71958292232
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1264839268/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/65655813474
+- type: twitter
   url: https://twitter.com/roytang/statuses/1369777384/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/58697839149
@@ -44,6 +52,14 @@ We've tried playing online, although as usual connection is crap between BayanDS
 One last thing: Cammy's ultra is pretty sw33t.
 
 ### Social Media Archive
+
+<time>[2009-02-24 23:29] </time> played almost 3 hours of Street Fighter IV
+
+---
+
+<time>[2009-03-01 10:26] </time> the answer lies in the heart of battle
+
+---
 
 <time>[2009-03-22 16:57] </time> LSS: "Indestructible" (SF4 theme)
 

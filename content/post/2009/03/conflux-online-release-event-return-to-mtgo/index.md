@@ -8,6 +8,10 @@ type: post
 url: /2009/03/conflux-online-release-event-return-to-mtgo/
 syndicated:
 - type: twitter
+  url: https://twitter.com/roytang/statuses/1236977452/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/130738550380
+- type: twitter
   url: https://twitter.com/roytang/status/1264267849/
 - type: twitter
   url: https://twitter.com/roytang/status/1264436565/

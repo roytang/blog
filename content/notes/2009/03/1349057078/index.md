@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1349057078/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/61846796931
+tags:
+- mama
 ---
 
 Teaching my mom to use the PS3. Hilarious.

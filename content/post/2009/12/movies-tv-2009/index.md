@@ -80,6 +80,12 @@ reviews:
   media: tv
   rating: 0.0
   title: Legend of the Seeker season 1
+- date: '2009-03-16'
+  description: ''
+  hashtag: the-big-bang-theory-s2
+  media: tv
+  rating: 0.0
+  title: The Big Bang Theory S2
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1462227779/
@@ -149,6 +155,14 @@ syndicated:
   url: https://twitter.com/roytang/statuses/2847077203/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/126072636321
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1354197395/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/62282976852
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1341986769/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/62240585769
 tags:
 - movies
 - backpost
@@ -257,6 +271,8 @@ toc: true
 
 #### 24 season 7
 
+<time>[2009-03-19]</time> watching 24 S07E14
+
 <time>[2009-05-22 21:28] </time> the ending of 24s07 was slightly disappointing
 
 [Comments](#comment-04184341-ba7d-4c3e-84a6-280f6ceb620d)
@@ -274,5 +290,13 @@ toc: true
 #### Legend of the Seeker season 1
 
 <time>[2009-07-26 10:42] </time> watching Legend of the Seeker
+
+---
+
+#### The Big Bang Theory S2
+
+<time>[2009-03-17 21:19] </time> Hilarious gag at the end of the new Big Bang Theory episode. Zoom Zoom! (S2E18)
+
+[Comments](#comment-c5a860b4-7fa8-4257-acb1-582694d82511)
 
 ---

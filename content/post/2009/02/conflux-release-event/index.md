@@ -7,6 +7,11 @@ tags:
 title: Conflux Release Event
 type: post
 url: /2009/02/conflux-release-event/
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1186287364/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/64034598856
 ---
 
 I decided to attend the Conflux release event last Saturday, Feb 7 at Neutral Grounds Galleria. As usual, I still had to go to work first so I didn't make it in time for the first 32-man flight and had to wait for NG to restock on product for the second flight. Unfortunately, they were short on SoA boosters, so we would be playing sealed with 6 boosters of Conflux. Yes, six. Expect domain?
