@@ -1,5 +1,5 @@
 ---
-date: 2020-05-31 14:46:42+00:00
+date: 2020-05-31 14:46:42
 repost_source:
   name: hEnereyG
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1267105228861534209/
+tags:
+- simpsons
 title: ''
 ---
 

@@ -7,7 +7,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153775495123912
 - type: twitter
   url: https://twitter.com/roytang/statuses/598994660787245057/
-tags: []
+tags:
+- simpsons
 ---
 
 Rick and Morty x The Simpsons

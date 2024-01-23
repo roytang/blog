@@ -1,5 +1,5 @@
 ---
-date: 2013-12-17 12:32:39+00:00
+date: 2013-12-17 12:32:39
 repost_source:
   name: mental_floss
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/412923293423792128/
+tags:
+- simpsons
 title: ''
 ---
 
