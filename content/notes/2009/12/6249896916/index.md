@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/6249896916/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/224609734837
+tags:
+- coffee
 ---
 
 having my first ever cup of coffee

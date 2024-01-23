@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/10721562570/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/101859356518609
+tags:
+- futurama
 ---
 
 Futurama officially coming back in June 2010: http://www.cc.com/shows/futurama Someone give me a copy of the previous seasons!

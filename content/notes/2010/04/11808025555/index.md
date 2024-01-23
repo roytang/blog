@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/116577395023876
 tags:
 - games
+- ff13
 ---
 
 finally finished final fantasy xiii

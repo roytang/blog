@@ -2,12 +2,20 @@
 author: Roy
 categories: []
 date: 2009-12-28 07:21:22
-title: When Your Wallet Gets Stolen
-type: post
-url: /2009/12/when-your-wallet-gets-stolen/
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/221021953911
+- type: twitter
+  url: https://twitter.com/roytang/statuses/6762849175/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/206528471686
+- type: twitter
+  url: https://twitter.com/roytang/statuses/6779222709/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/208779742934
+title: When Your Wallet Gets Stolen
+type: post
+url: /2009/12/when-your-wallet-gets-stolen/
 ---
 
 _December 17th. It was around 10pm, I was getting off the bus carrying a box of ensaymada in my right hand and using my left hand to make my way down the crowded aisle despite the speed and turbulence of the bus ride. As I alighted off the bus, I felt movement in my left pants pocket, where my wallet was. As soon as my left hand was free I checked to find my wallet missing and looked back accusingly at the mass of unfamiliar faces crowded along the door of the bus. One man whose face I couldn't see extended an arm and pointed out into the crowd. There's a man running, he said, that's who you're looking for. I look around like an idiot, and the bus goes on its way. There was no running man, my wallet was lost._
@@ -40,5 +48,17 @@ So, the total losses were around 2.9k, plus a few hours of hassle. It's not as b
   4. Get additional IDs. I don't have a driver's license yet, but I'll look to get one next year. Having more IDs makes it easier to establish your identity when you need to apply for new accounts or block existing ones.
 
 Hopefully the above story, information and tips help someone avoid any other such misfortune in the future.
+
+### Social Media Archive
+
+<time>[2009-12-17 20:49] </time> My wallet got pickpocketed as I was getting off the bus.
+
+[Comments](#comment-ca3f9219-ad86-4543-b0e0-70d192ce0737)
+
+---
+
+<time>[2009-12-18 08:08] </time> woke up still angry. Result: At the office early.
+
+---
 
  [1]: /2008/12/my-phone-was-stolen/

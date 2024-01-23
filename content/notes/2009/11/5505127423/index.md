@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/5505127423/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/197352608967
+tags:
+- dragonage
 ---
 
 Now playing: Dragon Age: Origins

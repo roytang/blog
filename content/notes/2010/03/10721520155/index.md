@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/10721520155/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/103422779692490
+tags:
+- hajimenoippo
 ---
 
 started reading Hajime no Ippo. 800+ chapters!

@@ -5,7 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/102109556495891
-tags: []
+tags:
+- halalan2010
 ---
 
 Dick Gordon for President!

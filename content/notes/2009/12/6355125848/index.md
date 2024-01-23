@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/6355125848/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/6366652313/
+tags:
+- mtg
 ---
 
 Going PTQ'ing today! Wish me a good sealed pool!

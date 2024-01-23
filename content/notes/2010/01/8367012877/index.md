@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/8367012877/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/273987562695
+tags:
+- halalan2010
 ---
 
 (Answer to "anong pinakamabigat na isyu na papanagutan ni GMA?") RT [@ANCALERTS](https://twitter.com/ANCALERTS/): Teodoro: I will not answer the question.  May prinsipyo ako

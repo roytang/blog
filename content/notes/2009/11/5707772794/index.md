@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/5707772794/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/189992356584
+tags:
+- movies
 ---
 
 PROTIP: If you plan to watch a new movie release on Saturday night when there's a sale at the mall, get your tickets around 3 hours early.

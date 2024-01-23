@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/428282544/pinoytumblr-damdamn-here-is-a-comparative
+tags:
+- halalan2010
 ---
 
 <p><a href="http://www.pinoytumblr.com/post/427168329/damdamn-here-is-a-comparative-analysis-about">pinoytumblr</a>:</p>

@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/357997160/manny-villar-vs-chuck-norris
+tags:
+- halalan2010
 ---
 
 <p>Manny Villar vs Chuck Norris </p>

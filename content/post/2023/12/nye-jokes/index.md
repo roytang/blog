@@ -75,6 +75,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/947790285920022528/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156306713283912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/20137050892140544/
+- type: plurk
+  url: https://plurk.com/p/9v1tbq
 tags:
 - puns
 - jokes
@@ -98,6 +102,7 @@ Because I've been going through my social media archives recently, here are the 
     - 2012: Tsk ayaw magpatulog ng kapitbahay #seriouslysamejokeseveryyear (via [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10151995804143912))
     - 2013: Happy new year everyone! I'd go to sleep, but the neighbors are making a lot of noise for some reason (via [Twitter](https://twitter.com/roytang/statuses/418025767386103808/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10152696621138912))
 - Jan 1 is an arbitrary date:
+    - 2010: Jan 1 is New Year's Day only by social convention. I should start a movement to celebrate New Year's Day on a random date like July 22. (via [Twitter](https://twitter.com/roytang/statuses/20137050892140544/), [Plurk](https://plurk.com/p/9v1tbq))
     - 2010: I'm not really into New Year's Resolutions. If you wanna change your life, there's no need to wait for an arbitrary date to do it. (via [Twitter](https://twitter.com/roytang/statuses/20694299477807104/))
     - 2011: So what is it about the transition between Dec 31 and Jan 1 that makes it any different than any other pair of adjacent days anyway? (via [Twitter](https://twitter.com/roytang/statuses/153081055971246080/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10150461462138912))
     - 2013: Remember: You can choose to improve your life at any time, it is not necessary to choose the same arbitrarily-chosen day as everybody else. (via [Twitter](https://twitter.com/roytang/statuses/417902015759396864/), [Facebook](https://www.facebook.com/stephen.roy.tang/posts/10152696012473912))

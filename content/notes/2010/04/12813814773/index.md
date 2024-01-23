@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/12813814773/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/115778495110293
+tags:
+- psp
 ---
 
 hooray, my psp is repaired!

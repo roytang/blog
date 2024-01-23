@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/11691545459/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/108461222521342
+tags:
+- tv
 ---
 
 this year's wrestlemania was a bit boring

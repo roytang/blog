@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/6320529412/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/188810899914
+tags:
+- coffee
 ---
 
 It seems that coffee cannot compensate for a lack of sleep. =/

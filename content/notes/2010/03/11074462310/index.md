@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/11074462310/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/102749936431682
+tags:
+- halalan2010
 ---
 
 Commuting is too stressful. Also, please don't vote for any candidate that causes traffic jams with his motorcade.
