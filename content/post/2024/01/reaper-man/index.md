@@ -1,9 +1,12 @@
 ---
-date: 2024-01-23T17:24:14+08:00
+date: 2024-01-23 09:24:14
 reviews:
 - description: 'Discworld #11'
   media: books
   title: Reaper Man by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111804574122711865
 tags:
 - books
 - discworld
