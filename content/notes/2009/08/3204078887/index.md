@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/114836904590
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/videos/112331133911/
+tags:
+- bowling
 ---
 
 Just came back from family bowling, did not play very well. Note to self: mas maganda ang tira pag malayo ang buwelo and malaki ang hakbang!

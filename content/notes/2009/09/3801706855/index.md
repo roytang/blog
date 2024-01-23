@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3801706855/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/122978477573
+tags:
+- sc2
 ---
 
 talo sa SC 0-2! di ko alam ung map!

@@ -47,7 +47,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - 2017: The [murder of Kian delos Santos](https://en.wikipedia.org/wiki/Killings_of_Kian_delos_Santos,_Carl_Arnaiz_and_Reynaldo_de_Guzman), the most famous victim of Duterte's drug war
 - 2012: [Interior secretary Jesse Robredo](https://en.wikipedia.org/wiki/Jesse_Robredo), husband of the current Vice President, dies in a plane crash off Masbate Island
-- 2009: I [went to Bangkok](/2009/08/3423581763/)! It was my first non-work overseas trip.
+- 2009: I [went to Bangkok](/2009/08/grand-prix-bangkok/)! It was my first non-work overseas trip.
 - 2008: I [created my Twitter account](/2008/08/889930055/)! 
 
   
