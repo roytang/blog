@@ -5,7 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152747594113912
-tags: []
+tags:
+- lyrics
 ---
 
 She acts like summer and walks like rain, reminds me there's a time to change
