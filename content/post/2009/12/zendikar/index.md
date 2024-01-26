@@ -56,6 +56,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/5920099004/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/182927108723
+- type: twitter
+  url: https://twitter.com/roy_mtg/status/6355125848/
+- type: twitter
+  url: https://twitter.com/roy_mtg/status/6366652313/
 tags:
 - mtg
 - backpost
@@ -96,7 +100,7 @@ title: Zendikar Set Recap
 
 ### PTQ San Diego
 
-I played a sealed Zendikar PTQ @ Neutral Grounds [Robinson's Galleria](/locations/robinsons_galleria)
+On Nov 21 I played a sealed Zendikar PTQ @ Neutral Grounds [Robinson's Galleria](/locations/robinsons_galleria)
 
 <time>[2009-11-21 17:06] </time> #mtg currently 3-1 at the PTQ, with 3 rounds to go. I'm not used to long tournaments anymore :p
 
@@ -105,3 +109,13 @@ I played a sealed Zendikar PTQ @ Neutral Grounds [Robinson's Galleria](/location
 {{% photos 10391962 %}}
 
 [Comments](#comment-d1cec8bc-ba07-427b-bc89-abaf9274b9b4)
+
+---
+
+On Dec 05, I played another sealed PTQ @ same location
+
+<time>[2009-12-05 08:55] </time> Going PTQ'ing today! Wish me a good sealed pool!
+
+<time>[18:48]</time> The PTQ didn't go well for me. Ended up R/B again but my curve was not as sick as it was the last PTQ. Went 2-3-drop
+
+---

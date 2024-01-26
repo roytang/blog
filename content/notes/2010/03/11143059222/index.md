@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/statuses/11143081155/
 tags:
 - MTG
+- jund
 ---
 
 Played my first constructed #MTG tournament in more than half a year. Jund is awesome, but am still too rusty esp. w/ sb plans, went 3-3

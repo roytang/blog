@@ -51,7 +51,7 @@ I know, I know this page layout could use a lot of work.
 | **Apr** | Dominaria | [Prerelease](/2018/04/987693315687510016/) | |
 | **Jan** | Rivals of Ixalan | | |
 | **2017** |
-| **Sep** | Ixalan | [Grand Prix Singapore 2017](/2017/12/grand-prix-singapore-2017/) |  [PH Nationals 201](/tags/mtgnats2017)  |
+| **Sep** | Ixalan | [Grand Prix Singapore 2017](/2017/12/grand-prix-singapore-2017/) |  [PH Nationals 2017](/tags/mtgnats2017)  |
 | **Jul** | Hour of Devastation | [Prerelease](/2017/07/883577969461010432/) | |
 | **Apr** | Amonkhet | [Prerelease](/2017/04/855584209573789696/) | [Grand Prix Manila 2017](/2017/06/grand-prix-manila-2017/) (Standard) |
 | **Jan** | Aether Revolt | | |
@@ -83,13 +83,13 @@ I know, I know this page layout could use a lot of work.
 | **Feb** | Dark Ascension | | |
 | **2011** |
 | **Sep** | Innistrad | [Prerelease](/2011/09/117575273377038336/) | |
-| **Jul** | Magic 2012 | [Prerelease](/2011/07/89627946184220673/) | |
+| **Jul** | Magic 2012 | [Prerelease](/2011/08/m12/#prerelease) | |
 | **May** | New Phyrexia | [Prerelease](/2011/05/66801411228315648/) | [Grand Prix Singapore 2011](/2011/06/grand-prix-singapore-tournament-report/) (Standard - Caw Blade) |
 | **Feb** | Mirrodin Besieged | | |
 | **2010** |
 | **Oct** | Scars of Mirrodin | [Prerelease](/2010/09/scars-of-mirrodin-prerelease-report/) [Set Recap](/2010/12/scars-of-mirrodin/) | |
 | **Jul** | Magic 2011 | [Set Recap](/2010/09/magic-2011/) | |
-| **Apr** | Rise of the Eldrazi | [Prerelease](/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | Nationals Qualifier [Jun 5](/2010/06/15487958307/) [Jun 27](/2010/06/17142581183/) |
+| **Apr** | Rise of the Eldrazi | [Prerelease](/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | [Nationals Qualifiers](/2010/08/mtg-natsq/) |
 | **Feb** | Worldwake | [Set Recap](/2010/03/worldwake/) | |
 | **2009** |
 | **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) [Set Recap](/2009/12/zendikar/) | |

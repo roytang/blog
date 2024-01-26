@@ -24,6 +24,14 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/235916315450
 - type: twitter
+  url: https://twitter.com/roytang/statuses/1678435673/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/74536648027
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1678436236/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/77680196155
+- type: twitter
   url: https://twitter.com/roytang/status/2780580621/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/125562766741
@@ -62,6 +70,12 @@ One last thing: Cammy's ultra is pretty sw33t.
 ---
 
 <time>[2009-03-22 16:57] </time> LSS: "Indestructible" (SF4 theme)
+
+---
+
+<time>[2009-05-02 21:42] </time> came back from [ARB prerelease](/2009/05/alara-reborn-prerelease-for-real-this-time/), going 2-2 (#mtg) then met up with my brother who was playing in an sf4 tournament near lasalle
+
+...he didn't win.
 
 ---
 

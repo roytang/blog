@@ -1,11 +1,6 @@
 ---
 categories: []
 date: 2009-03-01 06:56:23
-tags:
-- mtg
-title: Conflux Online Release Event (Return to MTGO)
-type: post
-url: /2009/03/conflux-online-release-event-return-to-mtgo/
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1236977452/
@@ -19,6 +14,15 @@ syndicated:
   url: https://twitter.com/roytang/status/1264564939/
 - type: twitter
   url: https://twitter.com/roytang/status/1264826279/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1327424027/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/61131871745
+tags:
+- mtg
+title: Conflux Online Release Event (Return to MTGO)
+type: post
+url: /2009/03/conflux-online-release-event-return-to-mtgo/
 ---
 
 I reinstalled MTGO3 last week because I figured I could get some casual play out of it at least. After installation I found out that Conflux release events were this weekend so I might as well play, since I was not able to play IRL at this time. I was hoping MTGO3 had improved by now, and that they had sufficient server loading, etc. to handle the number of players without the servers being crashy and laggy and whatnot. No such luck of course. 🙂 My sealed pool follows.
@@ -82,6 +86,9 @@ I reinstalled MTGO3 last week because I figured I could get some casual play out
 1 Constricting Tendrils
 2 Soul's Might
 1 Gustrider Exuberant
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
 1 Blood Tyrant
 1 Courier's Capsule
 1 Lightning Talons
@@ -100,8 +107,10 @@ I reinstalled MTGO3 last week because I figured I could get some casual play out
 2 Vedalken Outlander
 1 Dragon's Herald
 3 Plains
-1 Mountain
-1 Mountain
+2 Mountain
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
 1 Tukatongue Thallid
 1 Ooze Garden
 1 Excommunicate
@@ -150,3 +159,7 @@ Playing Limited now feels so different from playing Limited back when I wasn't a
  [8]: http://magiccards.info/autocard.php?card=Bant%20Battlemage
  [9]: http://magiccards.info/autocard.php?card=Branching%20Bolt
  [10]: http://magiccards.info/autocard.php?card=Manaforce%20Mace
+
+<time>[2009-03-15 00:06] </time> wonders if it's good to draft a focused 2-color deck in ALA/ALA/CON? Or should you always go for the greedy splashes?
+
+---

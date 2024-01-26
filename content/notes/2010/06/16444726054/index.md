@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/16446787789/
 tags:
 - mtg
+- newextended
 ---
 
 New Extended: Faeries vs Jund? #mtg

@@ -9,6 +9,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/statuses/13599030748/
 - type: twitter
+  url: https://twitter.com/roy_mtg/statuses/16737241665/
+- type: twitter
   url: https://twitter.com/roy_mtg/statuses/16756365800/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/16806413433/
@@ -91,7 +93,9 @@ title: Magic Online Adventures 2010
 
 ---
 
-<time>[2010-06-22 15:41] </time> I love how MTGO likes to crap out in the last round of an event.
+<time>[2010-06-22 09:43] </time> Losing because "I didn't want to use Heat Ray on an X/2 guy" = FAIL. #mtg
+
+<time>[15:41] </time> I love how MTGO likes to crap out in the last round of an event.
 
 ---
 
