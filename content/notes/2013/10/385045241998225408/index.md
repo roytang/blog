@@ -9,6 +9,7 @@ syndicated:
   url: https://twitter.com/roytang/status/385059347664867328/
 tags:
 - mtg
+- sorting
 ---
 
 Sorting thousands of cards while watching tv episodes is strangely comforting

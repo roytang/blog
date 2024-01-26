@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/261687700954968064/
 tags:
 - mtg
+- sorting
 ---
 
 I tried sorting all MTG cards at home. I sorted into piles per block so that I could sort one block at a time. I gave up after 1 set =/

@@ -1,11 +1,12 @@
 ---
-date: 2013-11-01 01:54:34+00:00
+date: 2013-11-01 01:54:34
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/396092874464305152/
 tags:
 - mtg
+- sorting
 title: ''
 ---
 
