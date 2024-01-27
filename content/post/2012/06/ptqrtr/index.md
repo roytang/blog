@@ -1,4 +1,6 @@
 ---
+title: "PTQ Return to Ravnica @ Alphaland Southgate Mall"
+backpost_date: 2024-01-27T21:30:44+08:00
 date: 2012-06-09 13:17:50
 location: alphaland_southgate
 source: twitter
