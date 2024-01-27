@@ -79,10 +79,10 @@ I know, I know this page layout could use a lot of work.
 | **2012** |
 | **Oct** | Return to Ravnica | | |
 | **Jul** | Magic 2013 | | |
-| **May** | Avacyn Restored | [Prerelease](/2012/04/195992015773769730/) | [Grand Prix Manila 2012](/2012/06/grand-prix-manila-2012/) (Standard) |
+| **May** | Avacyn Restored | [Prerelease](/2012/04/innistrad-block/#avacyn-restored-prerelease) | [Grand Prix Manila 2012](/2012/06/grand-prix-manila-2012/) (Standard) |
 | **Feb** | Dark Ascension | | |
 | **2011** |
-| **Sep** | Innistrad | [Prerelease](/2011/09/117575273377038336/) | |
+| **Sep** | Innistrad | [Prerelease](/2012/04/innistrad-block/#innistrad-restored-prerelease) | |
 | **Jul** | Magic 2012 | [Prerelease](/2011/08/m12/#prerelease) | |
 | **May** | New Phyrexia | [Prerelease](/2011/05/mbs-nph/#new-phyrexia-prerelease) | [Grand Prix Singapore 2011](/2011/06/grand-prix-singapore-tournament-report/) (Standard - Caw Blade) |
 | **Feb** | Mirrodin Besieged | | |

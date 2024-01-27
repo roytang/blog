@@ -4,8 +4,6 @@ date: 2012-12-30
 dontinlinephotos: true
 syndicated:
 - type: twitter
-  url: https://twitter.com/roy_mtg/statuses/172303440242946048/
-- type: twitter
   url: https://twitter.com/roy_mtg/status/173156422224318464/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/173208103481917440/
@@ -90,12 +88,6 @@ tags:
 - mtgo
 - backpost
 title: Magic Online Adventures 2012
----
-
-
-
-<time>[2012-02-22 20:55] </time> Is it weird that Dark Ascension begins on MTGO right on Ash Wednesday?
-
 ---
 
 <time>[2012-02-25 05:24] </time> It's 5:30am and I just 3-0'd a draft. Good start?

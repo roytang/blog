@@ -3,8 +3,10 @@
   "name": "dalpers",
   "url": "https://twitter.com/dalpers",
   "text": "[@roy_mtg](https://twitter.com/roy_mtg/) That's what the Helvault is for! Go! How could you skip? #MTGAVR",
-  "date": "2012-04-25 14:50:55",
+  "date": "2012-04-25 22:50:55 +0800",
   "photo": "https://pbs.twimg.com/profile_images/1036253992144302081/oOeTa1Do_normal.jpg",
   "source_url": "https://twitter.com/dalpers/status/195162981921857537/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/roy_mtg/statuses/195150494270898177/"
 }
