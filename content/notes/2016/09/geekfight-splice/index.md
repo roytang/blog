@@ -4,7 +4,7 @@ date: 2016-09-02T23:49:31+08:00
 tags:
 - quiznight
 - geekfight
-locations: 5579775a498e1dcc65578f9a
+location: 5579775a498e1dcc65578f9a
 ---
 
 We attended Geekfight @ Splice. Categories were Japan themed: Video games, Anime, Pokemon, Sentai/Tokusatsu, ID the Character/Anime, Audio, general Japan trivia, ???

@@ -21,10 +21,11 @@ tags:
 - mtg
 - setrecap
 title: Magic 2012 Set Recap
-locations: 
+events: 
 - location: eton_cyberpod
   date: 2011-07-09
   hashtag: prerelease
+  title: Magic 2012 Prerelease
 ---
 
 ### Preview Season

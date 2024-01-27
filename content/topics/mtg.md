@@ -84,7 +84,7 @@ I know, I know this page layout could use a lot of work.
 | **2011** |
 | **Sep** | Innistrad | [Prerelease](/2011/09/117575273377038336/) | |
 | **Jul** | Magic 2012 | [Prerelease](/2011/08/m12/#prerelease) | |
-| **May** | New Phyrexia | [Prerelease](/2011/05/66801411228315648/) | [Grand Prix Singapore 2011](/2011/06/grand-prix-singapore-tournament-report/) (Standard - Caw Blade) |
+| **May** | New Phyrexia | [Prerelease](/2011/05/mbs-nph/#new-phyrexia-prerelease) | [Grand Prix Singapore 2011](/2011/06/grand-prix-singapore-tournament-report/) (Standard - Caw Blade) |
 | **Feb** | Mirrodin Besieged | | |
 | **2010** |
 | **Oct** | Scars of Mirrodin | [Prerelease](/2010/09/scars-of-mirrodin-prerelease-report/) [Set Recap](/2010/12/scars-of-mirrodin/) | |

@@ -3,9 +3,10 @@
   "name": "Roy Tang",
   "url": "https://twitter.com/roy_mtg",
   "text": "[@aleksfelipe](https://twitter.com/aleksfelipe/) tomorrow? Not really though :p",
-  "date": "2011-01-28 22:19:31",
+  "date": "2011-01-29 06:19:31 +0800",
   "photo": "https://pbs.twimg.com/profile_images/1096061776/506_manga_normal.jpg",
   "source_url": "https://twitter.com/roy_mtg/status/31114172783661056/",
-  "reply_to": "https://twitter.com/aleksfelipe/status/31113921247059968/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/aleksfelipe/status/31113921247059968/"
 }
