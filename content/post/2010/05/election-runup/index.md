@@ -3,6 +3,40 @@ backpost_date: 2024-01-21 06:12:52
 date: 2010-05-09
 syndicated:
 - type: twitter
+  url: https://twitter.com/roytang/statuses/7667151783/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/248802663339
+- type: twitter
+  url: https://twitter.com/roytang/statuses/7861466752/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/270563711344
+- type: twitter
+  url: https://twitter.com/roytang/statuses/8255985293/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/268674669023
+- type: twitter
+  url: https://twitter.com/roytang/statuses/8323480684/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/274143414321
+- type: tumblr
+  url: https://roytang.tumblr.com/post/357997160/manny-villar-vs-chuck-norris
+- type: twitter
+  url: https://twitter.com/roytang/statuses/8367012877/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/273987562695
+- type: tumblr
+  url: https://roytang.tumblr.com/post/428282544/pinoytumblr-damdamn-here-is-a-comparative
+- type: twitter
+  url: https://twitter.com/roytang/statuses/10025047808/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/347114010811
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/102109556495891
+- type: twitter
+  url: https://twitter.com/roytang/statuses/11074462310/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/102749936431682
+- type: twitter
   url: https://twitter.com/roytang/statuses/12625421419/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/117068311646112
@@ -64,9 +98,78 @@ tags:
 - halalan
 - backpost
 title: 'Halalan2010: The Run-up to the Elections'
+dontinlinephotos: true
 ---
 
+<time>[2010-01-12 20:29] </time> RT [@djmotwister](https://twitter.com/djmotwister/): This just texted to me, gave me a bit of a laugh. Villar: Sipag at Tiyaga, Gibo: Galing at Talino, Noynoy : Mama at Papa.
 
+---
+
+<time id="7861466752">[2010-01-17 19:31] </time> it's sad that the best thing the leading presidential candidate can say is "hindi ako magnanakaw"
+
+[Comments](#comment-fea2f4f8-3acb-484e-a792-e2840e8e914f)
+
+---
+
+<time>[2010-01-27 07:43] </time> RT [@LaTtEX](https://twitter.com/LaTtEX/): IMHO the best TV campaign ad so far for the 2010 Philippine Presidential Election.  https://www.youtube.com/watch?v=kvjrilPHdN0
+
+[Comments](#comment-a9af8bf5-568f-404a-815e-d8b97dbfd122)
+
+---
+
+<time>[2010-01-28 22:03] </time> Eh, I don't want to vote for someone who's either shouting at me or doesn't understand the internet. http://ww12.bayanifernando.com.ph/
+
+---
+
+<time>[2010-01-28 23:21] </time> <p>Manny Villar vs Chuck Norris </p>
+
+{{% photos 357997160 %}}
+
+---
+
+<time>[2010-01-29 21:15] </time> (Answer to "anong pinakamabigat na isyu na papanagutan ni GMA?") RT [@ANCALERTS](https://twitter.com/ANCALERTS/): Teodoro: I will not answer the question.  May prinsipyo ako
+
+[Comments](#comment-31b769c2-a614-4a1f-822c-b20e21fe16fc)
+
+---
+
+<time>[2010-03-05 21:51] </time> Repost from <a href="http://www.pinoytumblr.com/post/427168329/damdamn-here-is-a-comparative-analysis-about">pinoytumblr</a>:
+<blockquote>
+<p><a href="http://damdamn.tumblr.com/post/425807590/here-is-a-comparative-analysis-about-some-of-the">damdamn</a>:</p>
+<blockquote>
+<p>Here is a comparative analysis about some of the presidentiables for the coming elections. Let’s vote wisely this coming May 2010!</p>
+<p><i>PLEASE CLICK PICTURE FOR LARGER VIEW</i></p>
+
+{{% photos 428282544 %}}
+
+</blockquote>
+</blockquote>
+
+---
+
+<time>[2010-03-05 22:02] </time> https://twitpic.com/16pm84 - Today's shocking headline! RT [@LaTtEX](https://twitter.com/LaTtEX/): RT [@JimAyson](https://twitter.com/JimAyson/)
+
+{{% photos 71739076 %}}
+
+---
+
+<time>[2010-03-24 19:57] </time> Dick Gordon for President!
+
+{{% quoted label="Maoi Arroyo's Facebook post" url="https://www.facebook.com/maoi.arroyo/posts/1322637600035" %}}
+
+Got this comparative table of the major presidentiable candidates via Twitter and Plurk. Don't know who the author is or if this is even accurate, but IF it's true, then I know who I'm voting for. 😃
+
+{{% photos 23426 %}}
+
+{{% /quoted %}}
+
+---
+
+<time>[2010-03-26 13:11] </time> Commuting is too stressful. Also, please don't vote for any candidate that causes traffic jams with his motorcade.
+
+[Comments](#comment-9b5f64fa-cdec-46de-a15b-dae857829098)
+
+---
 
 <time>[2010-04-22 15:10] </time> Don't vote for ramon guico (senator). I don't even know who he is, but he's sending campaign text spam
 
@@ -151,3 +254,4 @@ title: 'Halalan2010: The Run-up to the Elections'
 [Comments](#comment-52bdb355-7ec4-458e-ac06-44dc64693b0d)
 
 ---
+

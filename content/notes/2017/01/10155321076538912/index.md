@@ -1,5 +1,5 @@
 ---
-date: 2017-01-29 15:19:00+08:00
+date: 2017-01-29 07:19:00
 dontinlinephotos: true
 repost_source:
   name: Maryne.
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155321076538912
 tags:
 - fbreposts09
+- trump
 ---
 
 I don't even know what to say.   # MuslimBan

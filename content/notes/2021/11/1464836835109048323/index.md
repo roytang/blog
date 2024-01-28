@@ -9,4 +9,6 @@ syndicated:
 
 Two presidential elections later and this isn't even true anymore =/ 
 
-{{% note "2010/01/7861466752/" %}}
+On [Jan. 17, 2010, 7:31 p.m.](/2010/05/election-runup/#7861466752) I wrote: 
+
+> it's sad that the best thing the leading presidential candidate can say is "hindi ako magnanakaw"
