@@ -5,7 +5,9 @@ syndicated:
 - type: plurk
   url: https://plurk.com/p/aer56f
 - type: twitter
-  url: https://twitter.com/roytang/statuses/31018509064478720/  
+  url: https://twitter.com/roytang/statuses/31018509064478720/
+tags:
+- panels
 ---
 
 IDW Infestation:  (GI Joe / Star Trek / Transformers / Ghostbusters crossover)
