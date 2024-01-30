@@ -1,9 +1,12 @@
 ---
-date: 2024-01-30T11:24:12+08:00
+date: 2024-01-30 03:24:12
 reviews:
 - media: books
   rating: 4
   title: Firefight by Brandon Sanderson
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111842816003408289
 tags:
 - books
 - sanderson
