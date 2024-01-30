@@ -11,6 +11,13 @@ reviews:
   media: games
   rating: 0.0
   title: Final Fantasy XV (PS4)
+resources:
+- src: ut2O7YQ.jpg
+  title: "The journey begins lol"
+- src: MDiYsIS.jpg
+  title: "This is the weirdest product placement I've seen so far"
+- src: pHZnD4C.jpg
+  title: "\"Bitch I'm fabulous\" - Gladio probably"
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/158531276530/review-final-fantasy-xv
@@ -18,6 +25,18 @@ syndicated:
   url: https://twitter.com/roytang/statuses/842912468863270912/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155455656778912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155246179153912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155256940218912:0
+- type: twitter
+  url: https://twitter.com/roytang/statuses/821688045715886080/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155307112053912:0
+- type: twitter
+  url: https://twitter.com/roytang/statuses/825889907675537409/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155323095923912:0
 tags:
 - Review
 - Gaming
@@ -84,6 +103,8 @@ Anyway, I'm no exception. Exporting a lot of photos is a pain though, as there i
 
 Speaking of achievements, I was a touch disappointed with FFXV's achievement set. I got the Platinum trophy, but I felt like it was a bit too easy, as there was still a lot of things to do in the game outside of the achievements. I don't want annoying grindy achievements, but I don't want them to be too easy and "no challenge" either.
 
+{{% photos 16252312_10155323095923912_2707376959530257432_o_10155323095923912 %}}
+
 **Other stuff**
 
 They had this weird Chocobo carnival DLC that somehow takes place in another timeline or something LOL. IDK how it works.
@@ -99,3 +120,5 @@ The weirdest thing overall has to be the Cup Noodles thing! They had some sort o
 **Overall**
 
 Okay, I had a bunch of complaints and nitpicks but to be honest, I enjoyed the game. There was a lot of gameplay, some seriously though battles and some annoying dungeons that took forever, but I finished most of it and got the platinum in under a month. Nowadays for an RPG that's very quick for me, an indication of how much I liked the game. There's a bunch more content planned for it, including DLC story packs for each of the other main characters, and high-end boss fights and what not. Not sure if I'd still play those since there's a lot more RPGs on the horizon (2017 is a good year for RPG gamers.) But if Final Fantasy XV is the next step for the series moving forward, I find it acceptable.
+
+Photo dump below!
