@@ -7,6 +7,8 @@ featuredResource:
 reviews:
 - media: games
   title: Horizon Zero Dawn (PS4)
+  platforms:
+  - ps4
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/106821209456034865
@@ -20,6 +22,7 @@ tags:
 - gaming
 - games
 - horizonzerodawn
+- ps4
 title: Horizon Zero Dawn
 ---
 

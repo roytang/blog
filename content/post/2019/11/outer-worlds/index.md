@@ -9,19 +9,33 @@ reviews:
   media: games
   rating: 0.0
   title: The Outer worlds (PS4)
+  platforms:
+  - ps4
 slug: outer-worlds
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1199147871741906949/
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/103201773693845510
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1193062813448785920/
+- type: instagram
+  url: https://instagram.com/p/B4op_a_h17a/
 tags:
 - gaming
 - games
+- ps4
 title: 'Review: The Outer Worlds'
 ---
 
-I bought the Outer Worlds [earlier this month](/2019/11/b4op_a_h17a/), mainly because I had been without both my graphics card and my PS4 for a bit and I kind of wanted to play a relatively new game. I got the PS4 version because I hadn't yet replaced my video card at the time and besides, the game was not available on Steam. I guess minor spoilers follow.
+On <time>[2019-11-09 15:08] </time> I [wrote](https://twitter.com/roytang/status/1193062813448785920):
+
+> First #ps4 purchase for the year #pickups
+>
+> {{% photos pickup %}}
+
+
+I bought the Outer Worlds earlier this month, mainly because I had been without both my graphics card and my PS4 for a bit and I kind of wanted to play a relatively new game. I got the PS4 version because I hadn't yet replaced my video card at the time and besides, the game was not available on Steam. I guess minor spoilers follow.
 
 Summary: A reasonable Fallout-esque RPG from the makers of Fallout: New Vegas. It's not as expansive or quite as nonlinear as their previous games, but it's pretty serviceable and there's a reasonable amount of stuff to do. A decent purchase, though I chafe at buying games at full $60 price these days lol.
 
@@ -50,3 +64,4 @@ I finished the game yesteday, on normal difficulty. I actually started out on ha
 I usually want to go for 100% achievement completion, but this game had one that requires finishing on the highest difficulty, so that's another run altogether. Presumably the second run would be much faster since I don't have to do everything any more. I might get around to it someday.
 
 Screenshots follow!
+

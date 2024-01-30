@@ -9,10 +9,15 @@ reviews:
   media: games
   rating: 0.0
   title: Marvel's Spider-Man (PS4)
+  platforms:
+  - ps4
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1063992483883954176/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1060380491281502208/
 tags:
+- ps4
 - comics
 - review
 - Gaming
@@ -44,6 +49,7 @@ Finally had the time to play *Marvel's Spider-Man for PS4*. Took just a little u
 - Story: The overall story had some twists and some surprises in the ending itself. At the heart of all the problems facing Spider-Man this time around is the incumbent Mayor Norman Osborn, but who never actually turns into a green villain himself. The game's ending heavily hints at a 2nd outing, so they're probably saving Norman for later. Wise decision as well, Spider-Man has a deep bench of villains to pull from, and many of the classic ones haven't been hinted at yet in this game. Aside from the Goblin, the 2nd game could very well introduce us to the Lizard, Sandman, Mysterio, and maybe even Venom among others!
 - After getting the platinum, I was tempted to purchase the "City That Never Sleeps" DLCs as well for additional content, but I decided to hold off for now. My experience already feels "complete" and just right anyway, and adding more missions might be too repetitive. Maybe if it goes on sale sometime.
 - Stan Lee (RIP) also had a small cameo in this game. For me it's bittersweet that I got the platinum a couple of days after his death; I consider the game to be a fitting tribute to his life's work.
+- In the comics, MJ is a famous model while she and Peter were dating. In the game, MJ is a scrappy, down-to-earth reporter. I like the game one more.
  
 As is tradition, here's a screendump, awash with in-game spoilers! (Mainly because I chose to include the automatic screenshots that came with each Trophy unlock). You can see during the later parts I was using the comic costume almost exclusively!
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/GXG9Qb5"><a href="//imgur.com/GXG9Qb5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

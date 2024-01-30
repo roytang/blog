@@ -11,6 +11,8 @@ reviews:
   media: games
   rating: 0.0
   title: Final Fantasy XV (PS4)
+  platforms:
+  - ps4
 resources:
 - src: ut2O7YQ.jpg
   title: "The journey begins lol"
@@ -41,6 +43,7 @@ tags:
 - Review
 - Gaming
 - games
+- ps4
 title: 'Review: Final Fantasy XV'
 type: post
 url: /2017/03/review-final-fantasy-xv/
