@@ -7,15 +7,23 @@ publishdate: 2018-11-18 02:00:21
 reviews:
 - description: ''
   media: games
-  rating: 0.0
-  title: Marvel's Spider-Man (PS4)
   platforms:
   - ps4
+  rating: 0.0
+  title: Marvel's Spider-Man (PS4)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1063992483883954176/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1060380491281502208/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1059635024327102464/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062278408149843968/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062673531891318786/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1062673698111467520/
 tags:
 - ps4
 - comics
@@ -24,9 +32,14 @@ tags:
 - games
 - spidermanps4
 title: 'Game Review: Marvel''s Spider-Man for PS4'
+dontinlinephotos: true
 ---
 
 Finally had the time to play *Marvel's Spider-Man for PS4*. Took just a little under two weeks from start to Platinum. Maybe mild, unmarked spoilers somewhere in this review, be warned!
+
+> <time>[2018-11-14 19:48] </time> Easy-peasy
+>
+> {{% photos platinum %}}
 
 - Overall: the game was amazing and spectacular and fun, especially for a big comic book fan like me, well worth the buy.
 - Mechanics: Combat felt a bit weird to me at first, mainly because I was expecting it to be closer to Arkham-style combat, and I kept trying to use Spider-Man's Circle Dodge the same way I use Batman's Triangle counter, and that got me clocked by the first boss of the game (Kingpin) a few times. Spider-man's Dodge doesn't allow you to cancel out of existing animations like Batman's counter, so I really needed to unlearn that instinct. Once you get a hang of it, it's pretty good, but feels a lot more chaotic than Arkham style combat. Arkham combat felt a lot more rhythmic where you just tap commands out and point at the baddie you want to hit. Here it feels like you have to be jumping all the time and swinging across the air and moving the camera around to look for objects to throw at enemies.
@@ -53,3 +66,4 @@ Finally had the time to play *Marvel's Spider-Man for PS4*. Took just a little u
  
 As is tradition, here's a screendump, awash with in-game spoilers! (Mainly because I chose to include the automatic screenshots that came with each Trophy unlock). You can see during the later parts I was using the comic costume almost exclusively!
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/GXG9Qb5"><a href="//imgur.com/GXG9Qb5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+

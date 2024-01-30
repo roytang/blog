@@ -19,12 +19,16 @@ reviews:
   media: games
   rating: 0.0
   title: 'Middle Earth: Shadow of Mordor (PS4)'
+  platforms:
+  - ps4
 tags:
 - gaming
 - shadowofmordor
 - PS4share
 - games
+- ps4
 dontinlinephotos: true
+title: Shadow of Mordor (PS4)
 ---
 
 Shadow of Mordor is really good, it's the real deal. It's like if they made an Arkham Asylum-style game set in the LOTR universe. My only regret is that we weren't able to get the steelbook edition
