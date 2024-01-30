@@ -1,4 +1,5 @@
 ---
+dontlinephotos: true
 albums:
 - gaming
 date: 2020-09-10 09:15:38
@@ -7,12 +8,16 @@ reviews:
   media: games
   rating: 0.0
   title: 'Uncharted 4: A Thief''s End'
+  platforms:
+  - ps4
 slug: uncharted4
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/104840941058325036
 - type: twitter
   url: https://twitter.com/roytang/statuses/1304054540778446849/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1296340801820061696/
 tags:
 - gaming
 - games
@@ -40,3 +45,11 @@ Also, I guess Nathan Drake is famous now, because people know about his discover
 Story-wise it feels like they planned this to be Nathan Drake's final run, given the epilogue, but who knows? I mean in their universe, Sully is pretty old but he still also does ridiculous stunts with the rest of the gang. And they did introduce some new characters, so it's not far-fetched there'll be another Uncharted game later on, possibly with someone else as the lead?
 
 Anyway, game is pretty good, play it if you can, happy to have ticked it off the backlog! Have some screenshots:
+
+{{% photos %}}
+
+---
+
+<time>[2020-08-20 14:58] </time> Started Uncharted 4 and gotta admit, kinda envious of how nice Drake's house is #PS4share
+
+---

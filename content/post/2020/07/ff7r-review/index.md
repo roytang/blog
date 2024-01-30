@@ -12,15 +12,25 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104555584153133345
 - type: twitter
   url: https://twitter.com/roytang/statuses/1285791698442842116/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1269810841899003905/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1285149646650671105/
 tags:
 - gaming
 - games
 title: 'Review: Final Fantasy VII Remake'
 ---
 
-Just in time for #JRPGJuly, I finally managed to [complete my platinum run for Final Fantasy VII Remake](/2020/07/1285149646650671105/)! Spoiler-free review first, then the rest of the sections are no-holds barred.
+Just in time for #JRPGJuly, I finally managed to complete my platinum run for Final Fantasy VII Remake! Spoiler-free review first, then the rest of the sections are no-holds barred.
 
 {{< photo "2020/07/ff7r/" "FINAL FANTASY VII REMAKE_20200608080319_1" >}}
+
+On <time>[2020-07-20 17:48]</time> I [wrote](https://twitter.com/roytang/status/1285149646650671105):
+
+> Finally beat the stupid pullup minigame in FF7R! #PS4share
+>
+> {{% photos platinum %}}
 
 ### Spoiler-free review
 
@@ -105,3 +115,4 @@ That ending though... not going into detail, but it heavily implies that althoug
 ### Overall
 
 Overall, very happy with the way this remake turned out, and looking forward to the succeeding installments and how they adjust the plot from here. I'm hoping they do a good job of fleshing out the other characters like Red XIII, Cait Sith/Reeve, Cid, Yuffie, and Vincent. (Not looking forward to having to do more dexterity-based minigames at the Gold Saucer!) It's likely that the next installment will be a next generation game; this lets Square put off an FF16 lol.
+
