@@ -1,9 +1,11 @@
 ---
-date: 2017-02-01 12:26:34+08:00
+date: 2017-02-01 04:26:34
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/826768705149284353/
+tags:
+- duterte
 ---
 
 In fairness, mas maganda sagot ni Bato 

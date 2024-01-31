@@ -446,19 +446,15 @@ The pacing was good throughout the season (which was one of the weakness of the 
 
 [Comments](#comment-75c9118d-410d-44ec-bb0d-9ca401803dc0)
 
+<time>[2018-02-12 20:02] </time> Discovery had a great S1 ending, especially since I'm currently watching TOS as well
+
+[Comments](#comment-4715a974-240e-481d-88fb-cb8dc44047f2)
+
 ---
 
 #### Star Trek
 
 <time>[2018-02-07 23:22] </time> After catching up with Discovery, I started watching Star Trek TOS as well. (I had never watched it before.) Talk about a stark contrast
-
----
-
-#### Star Trek Discovery season 1
-
-<time>[2018-02-12 20:02] </time> Discovery had a great S1 ending, especially since I'm currently watching TOS as well
-
-[Comments](#comment-4715a974-240e-481d-88fb-cb8dc44047f2)
 
 ---
 

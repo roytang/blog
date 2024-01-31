@@ -1,11 +1,13 @@
 ---
-date: 2017-02-01 06:12:33+08:00
+date: 2017-01-31 22:12:33
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/826674579221274624/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155329397348912
+tags:
+- duterte
 ---
 
 Dehumanizing people is the first step to violating their human rights 
