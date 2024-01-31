@@ -1,10 +1,13 @@
 ---
-date: 2024-01-31T13:07:01+08:00
+date: 2024-01-31 05:07:01
 reviews:
-- media: books
+- author: Brandon Sanderson
+  media: books
   rating: 4
   title: Calamity by Brandon Sanderson
-  author: Brandon Sanderson
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111848899424230703
 tags:
 - books
 - sanderson
