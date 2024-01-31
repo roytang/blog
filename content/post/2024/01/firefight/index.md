@@ -4,6 +4,7 @@ reviews:
 - media: books
   rating: 4
   title: Firefight by Brandon Sanderson
+  author: Brandon Sanderson
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111842816003408289
