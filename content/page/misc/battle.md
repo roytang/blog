@@ -67,6 +67,7 @@ date: 2000-01-28T17:41:45+08:00
     - Drag Me To Hell -> Justin Long (Dodgeball, Galaxy Quest, Chipmunks)
 * Samara Weaving 
     - Ready or Not -> Andie McDowell (Groundhog Day)
+    - Last Moment of Clarity -> Brian Cox (Braveheart, Bourne Identity/Supremacy)
 * Samuel L Jackson
     - The Red Violin -> Crimes of the Future (Aragorn, KStew)
 * Sean Bean 
