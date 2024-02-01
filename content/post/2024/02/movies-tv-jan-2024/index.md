@@ -2,7 +2,6 @@
 date: 2024-02-01 00:57:48+08:00
 dontinlinephotos: true
 toc: true
-draft: true
 resources:
 - src: the-a-team-2010.jpg
   title: The A-Team (2010)
