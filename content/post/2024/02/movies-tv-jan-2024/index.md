@@ -1,7 +1,6 @@
 ---
-date: 2024-02-01 00:57:48+08:00
+date: 2024-01-31 16:57:48
 dontinlinephotos: true
-toc: true
 resources:
 - src: the-a-team-2010.jpg
   title: The A-Team (2010)
@@ -176,10 +175,13 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/the-fast-and-the-furious-tokyo-drift/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/2-fast-2-furious/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111853461737442648
 tags:
 - movies
 - tv
 title: Movies/TV Watched Jan 2024
+toc: true
 ---
 
 ### Movies
@@ -365,6 +367,8 @@ Netflix marks this as "Season 1", I do suppose they have enough material for one
 #### Echo
 
 This was a bit sleepy, but ultimately fine, although you can't really watch it while doing something else because of all the ASL making reading subtitle reading necessary. The action is great when it's there, and it does get dark and gritty as needed. Pacing could have been better, but I guess the five episode length is good enough for the amount of story they had. Ending was a bit weird.
+
+D'Onofrio's Kingpin was great as usual, and I just cracked up again at the idea of rich white man raising a deaf/mute daughter and not even bothering to learn ASL.
 
 Comic book guy hat: I am unsure whether they modified Maya to adjust for casting Alaqua Cox or they cast Alaqua Cox because of their plans for Maya, but in the comics Maya is neither mute nor has a prosthetic leg. These changes are fine, I find the new power set introduces by the show a bit weird and not sure what their scope is or what exactly they entail. I get the purpose of further emphasizing her Native American heritage, but it just highlights to me how MCU Maya Lopez is a completely different character than comics Maya Lopez. 
 
