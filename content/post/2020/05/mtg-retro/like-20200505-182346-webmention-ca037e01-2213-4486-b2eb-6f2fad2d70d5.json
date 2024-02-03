@@ -1,0 +1,37 @@
+{
+  "id": "ca037e01-2213-4486-b2eb-6f2fad2d70d5",
+  "name": "Dominik Schwind",
+  "url": "https://lostfocus.de",
+  "text": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2020/05/mtg-retro/\">https://roytang.net/2020/05/mtg-retro/</a>.</p>",
+  "date": "2020-05-05 18:23:46 +0800",
+  "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+  "source_url": "https://lostfocus.de/2020/05/05/82372/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "url": "https://lostfocus.de"
+    },
+    "url": "https://lostfocus.de/2020/05/05/82372/",
+    "published": "2020-05-05T10:23:46+02:00",
+    "wm-received": "2024-02-02T11:53:11Z",
+    "wm-id": 1776068,
+    "wm-source": "https://lostfocus.de/2020/05/05/82372/",
+    "wm-target": "https://roytang.net/2020/05/mtg-retro/",
+    "wm-protocol": "webmention",
+    "content": {
+      "html": "<p>Likes <a class=\"u-like-of\" href=\"https://roytang.net/2020/05/mtg-retro/\">https://roytang.net/2020/05/mtg-retro/</a>.</p>",
+      "text": "Likes https://roytang.net/2020/05/mtg-retro/."
+    },
+    "like-of": "https://roytang.net/2020/05/mtg-retro/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lostfocus.de/2020/05/05/82372/"
+    }
+  }
+}
