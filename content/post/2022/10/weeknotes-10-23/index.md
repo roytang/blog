@@ -37,7 +37,7 @@ Monday weeknotes again, very late this time because I was away most of Sunday an
 - **Gaming**: 
     - Just the normal grinding in [Eternal](/tags/EternalCardGame) and [Magic Arena](/tags/magicarena), not even doing particularly well. Might try to draft and stream sometime soon.
     - Still trying to power through **SMT5** and **Paradise Killer**.
-    - Had a good week in **Street Fighter V** and [managed to rank up](/2022/10/1582700303526531073/)! One rank to go!
+    - Had a good week in **Street Fighter V** and [managed to rank up](/2022/12/street-fighter-v/#1582700303526531073q)! One rank to go!
 
 - Trivia team attended [another in-person quiz night last Thursday](/2022/10/popquiz-stage/) and it went reasonably well.
 

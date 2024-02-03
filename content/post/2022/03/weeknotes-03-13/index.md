@@ -46,7 +46,7 @@ Not a lot today. Visit the [Links page](/links/) for more links of interest.
     - Ongoing Card games: 
         - Winding down on [Neon Dynasty limited](/tags/mtgneo) on [Magic Arena](/tags/MagicArena/) since quick drafts are ending. Am planning to publish a post detailing my season stats, probably tomorrow.
         - [Eternal](/tags/EternalCardGame/) grinding continues.
-    - Ongoing Fighting games: Still playing the occasional **Street Fighter V** match, few and far between. Though I did manage to steal a win off a much higher-level Nash the other day; the rank difference was so large I ended up ahead on league points even though he won two out of three matches! I did get bodied a lot by Zangief this past week though. [Russian bullies!](/2022/03/1501892239617785859/)
+    - Ongoing Fighting games: Still playing the occasional **Street Fighter V** match, few and far between. Though I did manage to steal a win off a much higher-level Nash the other day; the rank difference was so large I ended up ahead on league points even though he won two out of three matches! I did get bodied a lot by Zangief this past week though. [Russian bullies!](/2022/12/street-fighter-v/#1501892239617785859)
 - **Watching**:
     - Movies: No new movies watched this week, though I did manage to write some words about [The Batman (2021)](/2022/03/the-batman/).
     - **TV:** 

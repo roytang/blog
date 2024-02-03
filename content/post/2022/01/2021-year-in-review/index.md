@@ -164,7 +164,7 @@ This is a new section! Does that make me a content creator now? Maybe we're all 
         - highest rank: [21st in Throne](/2021/09/1433260717772214272/)!
 - Fighting games
     - [Street Fighter V](/tags/streetfighterv/)
-        - After five years of playing this game on and off, I actually [managed to hit silver rank this year!](/2021/03/1374367400276025345/) T_T
+        - After five years of playing this game on and off, I actually [managed to hit silver rank this year!](/2022/12/street-fighter-v#1374367400276025345) T_T
     - [GUILTY GEAR -STRIVE-](/2021/06/fg-complex-ggs/)
         - Played this one a lot this year as well, and surprisingly managed to reach ranked floor 8, despite being not very good at it!
 - Average points per turn in Words with Friends: 28.3, down from 29 last year. D: Also, I only have two active opponents now for some reason. 

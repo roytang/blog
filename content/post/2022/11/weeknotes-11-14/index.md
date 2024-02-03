@@ -46,7 +46,7 @@ title: Weeknotes 2022-11-14
     - Still playing on the regular: [Eternal](/tags/EternalCardGame), [Magic Arena](/tags/magicarena), and [Marvel Snap](/2022/10/1585610936563519493/). 
     - I finished [Paradise Killer](/2022/11/paradise-killer/)!
     - Still trying to power through **SMT5**, but making good progress recently. 
-    - I finally [got achievement completion in Street Fighter V](/2022/11/1591033088699961344/) after so many years! Will do a longer writeup on the game soonish.
+    - I finally [got achievement completion in Street Fighter V](/2022/12/street-fighter-v/#1591033088699961344) after so many years! Will do a longer writeup on the game soonish.
 
 ### Media Diet
 

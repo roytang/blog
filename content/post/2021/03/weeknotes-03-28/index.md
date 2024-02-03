@@ -39,7 +39,7 @@ It's the last weekend of March. It feels like the month went by quickly.
     - Also been rewatching The Office as my background watching, mostly because I listened to a podcast of Office trivia.
 - **Gaming:**
     - Second Fire Emblem Three Houses run: Still ongoing, somehow. It feels like I'm doing these in real time, only advancing one week of the game per week of real life. At that rate, I should be done in like six months lol.
-    - After five years of playing Street Fighter V, I managed to [dig myself out of the pits of the bronze ranks and hit silver](/2021/03/1374367400276025345/)! Surprisingly, on the next two days after this, I had trouble finding ranked matches again. I took that as a sign to take a break before attempting to climb up to gold.
+    - After five years of playing Street Fighter V, I managed to [dig myself out of the pits of the bronze ranks and hit silver](/2022/12/street-fighter-v#1374367400276025345)! Surprisingly, on the next two days after this, I had trouble finding ranked matches again. I took that as a sign to take a break before attempting to climb up to gold.
     - Final Civ6 NFP drop came out as expected. Not super hyped, but I have started a Portugal game already, they seem really strong especially on island maps.
     - Strixhaven official previews kicked off, and I'm really hyped for the set, mostly because I really [like the Mystical Archive cards](/2021/05/mtgstx-limited-recap/#preview-season). Collecting all of them on Arena is gonna be a challenge though.
     - Supposedly Magic Arena is now available "everywhere" on mobile, but [not in Southeast Asia though](https://www.reddit.com/r/magicTCG/comments/mdf9dp/androidios_versions_not_available_in_southeast/).
