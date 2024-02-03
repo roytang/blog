@@ -221,6 +221,8 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 
 {{% photos 1_926116653888180224_DNo6JrRUIAIasWl %}}
 
+---
+
 <time id="10156299200988912">[2017-12-30 00:09] </time> I was watching [this](#7sOLa3e_RG0) and thought I was Ryu, but according to the caption I was Karin. So Alvin Tang reminder lang na ako yung defending champion lol
 
 ---
