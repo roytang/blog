@@ -15,7 +15,7 @@ syndicated:
   url: https://www.reddit.com/r/SketchDaily/comments/ry4168/january_7th_tacos/hrnry5n/
 tags:
 - sketchdaily
-- streetfighterv
+- streetfightervx
 - gaming
 title: ''
 ---

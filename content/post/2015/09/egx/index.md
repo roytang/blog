@@ -30,6 +30,11 @@ tags:
 - street-fighter-v
 - london2015
 - streetfighterv
+title: EGX
+---
+
+I took a trip outside London for the first time in my stay to attend EGX in Birmingham!
+
 ---
 
 Apparently it was a bad day to take a train to birmingham for egx as there's a rugby world cup match there today; the train is jam packed and i might be standing for 2hrs :/

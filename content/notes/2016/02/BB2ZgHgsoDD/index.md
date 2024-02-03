@@ -17,7 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - gaming
-- streetfighterv
+- streetfightervx
 ---
 
 Laura Matsuda from Street Fighter V. #sketchdaily I always find drawing women, especially their faces, harder than men, but the face here came out a bit better than I hoped (still a lot of room for improvement though)
