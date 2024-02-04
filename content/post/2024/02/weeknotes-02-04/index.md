@@ -2,10 +2,13 @@
 date: 2024-02-04 04:56:32
 dontinlinephotos: true
 resources:
-- src: battle.png
-  alt: Screenshot of Cine2Nerdle battle leaderboards
+- alt: Screenshot of Cine2Nerdle battle leaderboards
+  src: battle.png
 - src: pringles.jpg
   title: Picure of Cheddar and Sour Cream Pringles
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111871689384788971
 tags:
 - weeknotes
 title: Weeknotes 2024-02-04
