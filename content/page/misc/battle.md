@@ -31,14 +31,14 @@ date: 2000-01-28T17:41:45+08:00
 * Idris Elba 
     - Luther The Fallen Sun -> Andy Serkis
 * Jack Black
-    - Goosebumps -> Shark Tale (via director)
+    - Goosebumps -> Gemini Man
 * Jake Gyllenhaal 
     - End of Watch -> Anna Kendrick, Michael Pena
     - The Covenant 2023 -> any Jonny Lee Miller (Trainspotting, Aeon Flux) or Jason Wong (D&D: HAT, The Gentlemen)
 * James Earl Jones 
     - The Sandlot -> D2 The Mighty Ducks (via Mike Vitar)
 * Jason Statham 
-    - Transporter -> Star Trek
+    - Transporter -> Luc Besson
 * Jen Aniston
     - Along Came Polly -> Ben Stiller
 * Jen Lawrence 
