@@ -1,5 +1,11 @@
 [
     {
+        "section": "quora",
+        "label": "Quora",
+        "descrip": "Answers/Advice I wrote on Quora.",
+        "count": 5
+    },
+    {
         "section": "quotes",
         "label": "Quotes",
         "descrip": "Quotes, lyrics, etc that I liked or found interesting.",
