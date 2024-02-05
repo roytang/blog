@@ -1,8 +1,8 @@
 ---
 date: 2024-02-05 04:52:24
 resources:
-- src: sml2.jpg
-  alt: Screenshot of Super Mario Land 2 map
+- alt: Screenshot of Super Mario Land 2 map
+  src: sml2.jpg
 - alt: Screenshot of Super Mario Land 2 ending screen
   src: sml2_end.jpg
 reviews:
@@ -11,6 +11,9 @@ reviews:
   - gameboy
   rating: 2.0
   title: 'Super Mario Land 2: 6 Golden Coins (Game Boy)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111877184444947679
 tags:
 - gaming
 - games
