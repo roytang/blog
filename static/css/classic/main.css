@@ -1009,3 +1009,15 @@ a[href^="http"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after, a
 .boot {
     font-size: 75%; color: gray;
 }
+
+@media print {
+    /* All your print styles go here */
+    .panel,
+    .mainfooter {
+      display: none !important;
+    }
+    div, .list_item {
+        border: none !important;
+    }
+}
+  
