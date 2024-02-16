@@ -1,6 +1,9 @@
 ---
-date: 2012-02-16T23:10:34+08:00
+date: 2012-02-16 15:10:34
 location: 4cfe387720fe37049e0b64f8
+resources:
+- src: 395502_3169847278378_1979141256_n.jpg
+  title: Photo c/o Jensen
 tags:
 - quiznight
 - geekfight
