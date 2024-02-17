@@ -1,0 +1,33 @@
+{
+  "id": "f0b8a139-28a3-4e9a-807a-0ce490c98b80",
+  "name": "Jamie Tanna",
+  "url": "https://www.jvt.me",
+  "text": "[Jamie Tanna](https://www.jvt.me) [liked this](https://www.jvt.me/mf2/2024/02/stiuh/)",
+  "date": "2024-02-17 17:24:00 +0800",
+  "photo": "https://webmention.io/avatar/www.jvt.me/582e6a8900c20ade6b097bfa1d87e8b808f61dd5a83e457e371d5b1ead35cb17.png",
+  "source_url": "https://www.jvt.me/mf2/2024/02/stiuh/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jamie Tanna",
+      "photo": "https://webmention.io/avatar/www.jvt.me/582e6a8900c20ade6b097bfa1d87e8b808f61dd5a83e457e371d5b1ead35cb17.png",
+      "url": "https://www.jvt.me"
+    },
+    "url": "https://www.jvt.me/mf2/2024/02/stiuh/",
+    "published": "2024-02-17T09:24:00+00:00",
+    "wm-received": "2024-02-17T09:33:49Z",
+    "wm-id": 1781994,
+    "wm-source": "https://www.jvt.me/mf2/2024/02/stiuh/",
+    "wm-target": "https://roytang.net/2024/02/fediverse-bluesky-comments/",
+    "wm-protocol": "webmention",
+    "like-of": "https://roytang.net/2024/02/fediverse-bluesky-comments/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.jvt.me/mf2/2024/02/stiuh/"
+    }
+  }
+}
