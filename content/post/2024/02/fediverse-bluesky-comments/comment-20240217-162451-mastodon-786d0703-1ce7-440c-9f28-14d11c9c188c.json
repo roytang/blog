@@ -1,0 +1,11 @@
+{
+  "id": "786d0703-1ce7-440c-9f28-14d11c9c188c",
+  "name": "kiko",
+  "url": "https://indieweb.social/@kiko",
+  "text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@roytang\" class=\"u-url mention\">@<span>roytang</span></a></span> Completely agree with your point of view. Also your further thoughts on saving comments. The same thing drives me, because many users regularly delete their Mastodon posts and have the right to do so. Am I then allowed to save them, even if I want to? My solution is to query them via webmention.io via client script when loading the page. If a post is gone ... well then it&#39;s gone.</p>",
+  "date": "2024-02-17 16:24:51 +0800",
+  "photo": "https://cdn.masto.host/indiewebsocial/accounts/avatars/109/335/735/147/916/622/original/3b2b0a1e7799e47b.jpg",
+  "source_url": "https://indieweb.social/users/kiko/statuses/111945861763398738",
+  "source": "mastodon",
+  "spam": false
+}
