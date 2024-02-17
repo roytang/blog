@@ -79,7 +79,9 @@ My notes say I played a sealed open last Nov 25, but I don't seem to have saved 
 
 ### Magic Arena Stats
 
-I will fill this in once the stats email drops (should be right around the time Murders at Karlov Manor drops on Arena)
+LCI Arena Stats dropped on Feb 17.
+
+{{% photos arenastats %}}
 
 ### 2023 Stats
 
