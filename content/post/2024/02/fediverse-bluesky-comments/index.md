@@ -1,9 +1,12 @@
 ---
-title: "Fediverse Bridge, Bluesky, and Importing Comments"
-date: 2024-02-17T08:45:09+08:00
+date: 2024-02-17 00:45:09
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111944638533567261
 tags:
 - tech
 - fediverse
+title: Fediverse Bridge, Bluesky, and Importing Comments
 ---
 
 There was a bit of a brouhaha earlier this week on the Fediverse because someone wanted to build a bridge between the ActivityPub-powered fediverse and the AT protocol-powered one, i.e. BlueSky. Apparently a lot of people want nothing to do with BlueSky and many are angry that the bridge developer initially planned an "opt-out" approach. The bridge developer is [Ryan Barrett](https://snarfed.org/), developer of [brid.gy](https://brid.gy/), which I have used before.
