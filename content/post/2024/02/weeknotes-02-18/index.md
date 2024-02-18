@@ -1,9 +1,12 @@
 ---
-date: 2024-02-18T10:14:43+08:00
+date: 2024-02-18 02:14:43
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111951496431507789
 tags:
 - weeknotes
-title: 'Weeknotes 2024-02-18'
+title: Weeknotes 2024-02-18
 ---
 
 ### The World
