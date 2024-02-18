@@ -1,0 +1,38 @@
+{
+  "id": "832750a4-f3f2-48b7-a2bf-4aa2ed68149e",
+  "name": "Dominik Schwind",
+  "url": "https://lostfocus.de",
+  "text": "Mentioned by https://lostfocus.de/2024/02/18/week-7-2024-apes-and-chatbots/\n\n> I won\u2019t yell about the whole ActivityPub bridge kerfuffle ( Roy Tang said it much better than I could so anyway) or the fact that Apple",
+  "date": "2024-02-18 22:46:16 +0800",
+  "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+  "source_url": "https://lostfocus.de/2024/02/18/week-7-2024-apes-and-chatbots/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://webmention.io/avatar/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "url": "https://lostfocus.de"
+    },
+    "url": "https://lostfocus.de/2024/02/18/week-7-2024-apes-and-chatbots/",
+    "published": "2024-02-18T14:46:16+01:00",
+    "wm-received": "2024-02-18T13:47:36Z",
+    "wm-id": 1782439,
+    "wm-source": "https://lostfocus.de/2024/02/18/week-7-2024-apes-and-chatbots/",
+    "wm-target": "https://roytang.net/2024/02/fediverse-bluesky-comments/",
+    "wm-protocol": "webmention",
+    "name": "Week 7, 2024: Apes and Chatbots",
+    "content": {
+      "html": "<p>Hello internet friends,</p>\n\n\n\n<p>I just had a nice little walk in the forest and for a moment I was wondering if I should just stay there. But then I started to want some coffee and the plan went right out of the window.<br />I did touch some grass though and that\u2019s why I won\u2019t yell about the whole ActivityPub bridge kerfuffle (<a href=\"https://roytang.net/2024/02/fediverse-bluesky-comments/\">Roy Tang said it much better</a> than I could so anyway) or the fact that Apple is messing with my PWAs. (<a href=\"https://adactio.com/journal/20888\">I\u2019ll let Jeremy Keith do that</a>.)</p>\n\n\n\n<p>Let\u2019s look at apes instead. They\u2019re basically the same as us anyway: <a href=\"https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds\">Juvenile great apes love to tease and annoy their elders, study finds</a>.</p>\n\n\n\n<p>Meanwhile chatbots aren\u2019t like us. Well, they are like us in the way that we also sometimes <a href=\"https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454\">give out wrong information because we don\u2019t know any better and then the company we work for tries to blame us</a> as a separate legal entity instead of looking at their internal processes.</p>\n\n\n\n<p>This week I was hanging out with <em>the boys</em> and I took a couple of photos and that was all very nice. But now I don\u2019t know what to do with these photos. Put them on Flickr? Lol.</p>\n\n\n\n<p>Anyway, enough for this week. Time to hang out on the couch and look at camper vans that I\u2019m not going to buy.</p>\n\n\n\n<p>Take care! Toodles!</p>",
+      "text": "Hello internet friends,\n\n\n\nI just had a nice little walk in the forest and for a moment I was wondering if I should just stay there. But then I started to want some coffee and the plan went right out of the window.\nI did touch some grass though and that\u2019s why I won\u2019t yell about the whole ActivityPub bridge kerfuffle (Roy Tang said it much better than I could so anyway) or the fact that Apple is messing with my PWAs. (I\u2019ll let Jeremy Keith do that.)\n\n\n\nLet\u2019s look at apes instead. They\u2019re basically the same as us anyway: Juvenile great apes love to tease and annoy their elders, study finds.\n\n\n\nMeanwhile chatbots aren\u2019t like us. Well, they are like us in the way that we also sometimes give out wrong information because we don\u2019t know any better and then the company we work for tries to blame us as a separate legal entity instead of looking at their internal processes.\n\n\n\nThis week I was hanging out with the boys and I took a couple of photos and that was all very nice. But now I don\u2019t know what to do with these photos. Put them on Flickr? Lol.\n\n\n\nAnyway, enough for this week. Time to hang out on the couch and look at camper vans that I\u2019m not going to buy.\n\n\n\nTake care! Toodles!"
+    },
+    "mention-of": "https://roytang.net/2024/02/fediverse-bluesky-comments/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lostfocus.de/2024/02/18/week-7-2024-apes-and-chatbots/"
+    }
+  }
+}
