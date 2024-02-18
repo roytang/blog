@@ -6,14 +6,14 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/111911073792678445
 tags:
 - weeknotes
-title: 'Weeknotes 2024-02-011: Gong XI Fa Cai'
+title: 'Weeknotes 2024-02-11: Gong XI Fa Cai'
 ---
 
 It feels like when I was a kid "Kung Hei Fat Choi" was the more common Chinese New Year greeting around here, but these days I more commonly see commercial establishments post "Gong Xi Fa Cai" instead. I guess modern Chinese communities are more inclined towards Mandarin these days?
 
 ### The World
 
-Huh, apparently [nitter is dead](https://github.com/zedeus/nitter/issues/1155). Too bad.
+Huh, apparently [Nitter is dead](https://github.com/zedeus/nitter/issues/1155). Too bad.
 
 ### My Week
 
