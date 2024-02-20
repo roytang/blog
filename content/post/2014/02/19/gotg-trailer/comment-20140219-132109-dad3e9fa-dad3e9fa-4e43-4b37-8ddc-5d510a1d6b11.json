@@ -3,9 +3,11 @@
   "name": "Ritchie Tiongson",
   "url": "https://www.facebook.com/ritchie.tiongson",
   "text": "They&#x27;d let themselves get caught to get inside, then kill everyone with their bare hands.",
-  "date": "2014-02-19 00:00:01",
+  "date": "2014-02-19 13:21:09 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152795700928912#10152796125263912",
+  "source": "dad3e9fa",
+  "spam": false,
   "source_obj": {
     "id": "10152796125263912",
     "poster": "Ritchie Tiongson",
@@ -13,5 +15,6 @@
     "text": "They'd let themselves get caught to get inside, then kill everyone with their bare hands.",
     "attachments": [],
     "date": "Feb 19, 2014"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/436007517902999553/"
 }
