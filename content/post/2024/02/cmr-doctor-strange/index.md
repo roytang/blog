@@ -7,164 +7,169 @@ resources:
 - src: IMG_1499.PNG
   title: 'Doctor Strange: Fall Sunrise: The art here is so trippy'
 - src: IMG_1504.PNG
-  title: 'Doctor Strange Sorcerer Supreme #50: Can you imagine the outrage if Marvel made fun of Trump supporters this way?'
+  title: 'Doctor Strange Sorcerer Supreme #50: Can you imagine the outrage if Marvel
+    made fun of Trump supporters this way?'
 - src: IMG_1505.PNG
-  title: 'Doctor Strange Sorcerer Supreme #86: Strange gets judged for his flamboyant lifestyle'
+  title: 'Doctor Strange Sorcerer Supreme #86: Strange gets judged for his flamboyant
+    lifestyle'
 - src: IMG_1508.PNG
   title: 'Doctor Strange (2015) #6: Harry!'
 - src: IMG_1509.PNG
   title: 'Doctor Strange #383: Strange and Wong keep up with the times'
 reviews:
-- hashtag: doctor-strange-v1
-  description: ''
-  media: comics
-  title: 'Doctor Strange v1'
+- description: ''
+  hashtag: doctor-strange-v1
   issues: 15
-- hashtag: doctor-strange-v2
-  description: ''
   media: comics
-  title: 'Doctor Strange v2'
+  title: Doctor Strange v1
+- description: ''
+  hashtag: doctor-strange-v2
   issues: 82
-- hashtag: limited-series-one-shots-ogns
-  description: ''
+  media: comics
+  title: Doctor Strange v2
+- description: ''
+  hashtag: limited-series-one-shots-ogns
   media: comics
   title: 'Doctor Strange: Into Shamballa (1986)'
-- hashtag: limited-series-one-shots-ogns
-  description: ''
+- description: ''
+  hashtag: limited-series-one-shots-ogns
   media: comics
   title: 'Doctor Strange & Doctor Doom: Triumph and Torment (1989)'
-- hashtag: doctor-strange-sorcerer-supreme
-  description: ''
-  media: comics
-  title: 'Doctor Strange Sorcerer Supreme'
+- description: ''
+  hashtag: doctor-strange-sorcerer-supreme
   issues: 94
-- hashtag: limited-series-one-shots-ogns_1
-  description: ''
+  media: comics
+  title: Doctor Strange Sorcerer Supreme
+- description: ''
+  hashtag: limited-series-one-shots-ogns_1
   media: comics
   title: 'Spider-Man/Dr. Strange: The Way to Dusty Death (1992)'
-- hashtag: limited-series-one-shots-ogns_1
-  description: ''
+- description: ''
+  hashtag: limited-series-one-shots-ogns_1
   media: comics
-  title: 'Strange Tales v3 (1994)'
-- hashtag: limited-series-one-shots-ogns_1
-  description: ''
+  title: Strange Tales v3 (1994)
+- description: ''
+  hashtag: limited-series-one-shots-ogns_1
+  issues: 4
   media: comics
   title: 'Doctor Strange v3: The Flight of Bones (1999)'
-  issues: 4
-- hashtag: limited-series-one-shots-ogns_1
-  description: ''
+- description: ''
+  hashtag: limited-series-one-shots-ogns_1
   media: comics
   title: 'Dr. Strange: What Is It That Disturbs You, Stephen? (1997)'
-- hashtag: limited-series-one-shots-ogns_2
-  description: ''
-  media: comics
-  title: 'Strange (2004)'
+- description: ''
+  hashtag: limited-series-one-shots-ogns_2
   issues: 6
-- hashtag: limited-series-one-shots-ogns_2
-  description: ''
+  media: comics
+  title: Strange (2004)
+- description: ''
+  hashtag: limited-series-one-shots-ogns_2
+  issues: 5
   media: comics
   title: 'Doctor Strange: The Oath (2006)'
-  issues: 5
-- hashtag: limited-series-one-shots-ogns_2
-  description: ''
-  media: comics
-  title: 'Strange v2 (2010)'
+- description: ''
+  hashtag: limited-series-one-shots-ogns_2
   issues: 4
-- hashtag: limited-series-one-shots-ogns_2
-  description: ''
   media: comics
-  title: 'Mystic Hands of Doctor Strange (2010)'
-- hashtag: doctor-strange-v4
-  description: ''
+  title: Strange v2 (2010)
+- description: ''
+  hashtag: limited-series-one-shots-ogns_2
   media: comics
-  title: 'Doctor Strange v4'
+  title: Mystic Hands of Doctor Strange (2010)
+- description: ''
+  hashtag: doctor-strange-v4
   issues: 38
-- hashtag: doctor-strange-v4
-  description: ''
+  media: comics
+  title: Doctor Strange v4
+- description: ''
+  hashtag: doctor-strange-v4
+  issues: 1
   media: comics
   title: 'Doctor Strange: Last Days of Magic'
-  issues: 1
-- hashtag: doctor-strange-v4
-  description: ''
+- description: ''
+  hashtag: doctor-strange-v4
+  issues: 4
   media: comics
   title: 'Doctor Strange: Damnation'
-  issues: 4
-- hashtag: doctor-strange-v4
-  description: ''
+- description: ''
+  hashtag: doctor-strange-v4
+  issues: 1
   media: comics
   title: 'Damnation: Johnny Blaze - Ghost Rider'
-  issues: 1
-- hashtag: doctor-strange-v5
-  description: ''
-  media: comics
-  title: 'Doctor Strange v5'
+- description: ''
+  hashtag: doctor-strange-v5
   issues: 21
-- hashtag: doctor-strange-v5
-  description: ''
   media: comics
-  title: 'Dr Strange'
+  title: Doctor Strange v5
+- description: ''
+  hashtag: doctor-strange-v5
   issues: 6
-- hashtag: strange-academy
-  description: ''
   media: comics
-  title: 'Strange Academy Finals'
+  title: Dr Strange
+- description: ''
+  hashtag: strange-academy
   issues: 6
-- hashtag: strange-academy
-  description: ''
+  media: comics
+  title: Strange Academy Finals
+- description: ''
+  hashtag: strange-academy
   media: comics
   title: 'Strange Academy: Miles Morales'
-- hashtag: strange-academy
-  description: ''
+- description: ''
+  hashtag: strange-academy
   media: comics
   title: 'Strange Academy: Moon Knight'
-- hashtag: strange-academy
-  description: ''
+- description: ''
+  hashtag: strange-academy
   media: comics
   title: 'Strange Academy: Amazing Spider-Man'
-- hashtag: death-of-doctor-strange-2021
-  description: 'Includes 7 one-shots'
-  media: comics
-  title: 'Death of Doctor Strange'
-  issues: 12
+- description: Includes 7 one-shots
+  hashtag: death-of-doctor-strange-2021
   includes:
-    - 'Death of Doctor Strange: Avengers'
-    - 'Death of Doctor Strange: Blade'
-    - 'Death of Doctor Strange: Bloodstone'
-    - 'Death of Doctor Strange: Spider-Man'
-    - 'Death of Doctor Strange: White Fox'
-    - 'Death of Doctor Strange: X-Men/Black Knight'
-    - 'Strange Academy Presents: Death of Doctor Strange'
-- hashtag: strange-v3
-  description: ''
+  - 'Death of Doctor Strange: Avengers'
+  - 'Death of Doctor Strange: Blade'
+  - 'Death of Doctor Strange: Bloodstone'
+  - 'Death of Doctor Strange: Spider-Man'
+  - 'Death of Doctor Strange: White Fox'
+  - 'Death of Doctor Strange: X-Men/Black Knight'
+  - 'Strange Academy Presents: Death of Doctor Strange'
+  issues: 12
   media: comics
-  title: 'Strange v3'
+  title: Death of Doctor Strange
+- description: ''
+  hashtag: strange-v3
   issues: 10
-- hashtag: limited-series-one-shots-ogns_3
-  description: ''
+  media: comics
+  title: Strange v3
+- description: ''
+  hashtag: limited-series-one-shots-ogns_3
   media: comics
   title: 'Marvel Vault: Doctor Strange (2011)'
-- hashtag: limited-series-one-shots-ogns_3
-  description: ''
+- description: ''
+  hashtag: limited-series-one-shots-ogns_3
   media: comics
-  title: 'Doctor Strange Season One (2012)'
-- hashtag: limited-series-one-shots-ogns_3
-  description: ''
-  media: comics
-  title: 'Doctor Strange and the Sorcerers Supreme (2016)'
+  title: Doctor Strange Season One (2012)
+- description: ''
+  hashtag: limited-series-one-shots-ogns_3
   issues: 12
-- hashtag: limited-series-one-shots-ogns_3
-  description: ''
+  media: comics
+  title: Doctor Strange and the Sorcerers Supreme (2016)
+- description: ''
+  hashtag: limited-series-one-shots-ogns_3
   media: comics
   title: 'Doctor Strange: The End (2020)'
-- hashtag: limited-series-one-shots-ogns_3
-  description: ''
+- description: ''
+  hashtag: limited-series-one-shots-ogns_3
   media: comics
   title: 'Doctor Strange: Nexus of Nightmares (2022)'
-- hashtag: limited-series-one-shots-ogns_3
-  description: ''
+- description: ''
+  hashtag: limited-series-one-shots-ogns_3
+  issues: 4
   media: comics
   title: 'Doctor Strange: Fall Sunrise (2023)'
-  issues: 4
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111979581988390362
 tags:
 - comics
 - complete-marvel-run
