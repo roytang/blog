@@ -39,6 +39,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/825889907675537409/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155323095923912:0
+- type: twitter
+  url: https://twitter.com/roytang/statuses/968487126022086657/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156450943308912
 tags:
 - Review
 - Gaming
