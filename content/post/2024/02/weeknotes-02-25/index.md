@@ -63,6 +63,6 @@ Check out the [linkblog](/links/) for past links!
 
 ### This Coming Week
 
-Very much looking forward to the Hulu adaptation of Shogun dropping this week. Shogun is probably [my all-time favorite book](/2018/11/shogun-and-the-rest-of-james-clavells-asian-saga/) and the early reviews say this adaptation is fantastic!
+Very much looking forward to the Hulu adaptation of Shogun dropping this week. Shogun is probably [my all-time favorite book](/2018/11/shogun-and-the-rest-of-james-clavells-asian-saga/) and the early reviews say this adaptation is fantastic! (Edit: Adaptation is by FX, not Hulu)
 
 More errands, etc.
