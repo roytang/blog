@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/175190361482858497/
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/4f4f665be4b083dcf282b1f4
+tags:
+- quiznight
 ---
 
 I'm at Amici (Connecticut St., Missouri St., San Juan) http://4sq.com/x1RJ5r
