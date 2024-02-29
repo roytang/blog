@@ -9,6 +9,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/todayilearned/comments/iuqij/til_voltron_was_narrated_by_optimus_prime/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/135174916568755
 tags:
 - todayilearned
 - reddit_submission

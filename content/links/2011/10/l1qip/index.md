@@ -9,6 +9,8 @@ source: reddit
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/gaming/comments/l1qip/michael_ps3_long_live_play_advertisement/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/170727243012084
 tags:
 - gaming
 - reddit_submission

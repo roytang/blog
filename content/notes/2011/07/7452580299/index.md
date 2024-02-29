@@ -8,6 +8,10 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/7452580299/httpwwwyoutubecomwatchv-wrwqw9ecto
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/188248547898081
 ---
 
-<p><a href="https://www.youtube.com/watch?v=WRw_qW9ecTo">https://www.youtube.com/watch?v=WRw_qW9ecTo</a></p>
+[Sabin Suplexing the Ghost Train :O](https://www.youtube.com/watch?v=WRw_qW9ecTo)
+
+{{% youtube WRw_qW9ecTo %}}
