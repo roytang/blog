@@ -50,7 +50,7 @@ One week before Christmas and the second-to-last weeknotes for the year!
 - **Gaming**: 
     - Single player games I'm still hoping to finish before the year ends: **Shin Megami Tensei V** (Switch) and **Tunic** (PC Game Pass)
     - Still playing some card games on the regular: 
-        - [Marvel Snap](/2022/10/1585610936563519493/)
+        - [Marvel Snap](/2022/12/marvel-snap/)
         - [Eternal](/tags/EternalCardGame)
         - [Magic Arena](/tags/magicarena): Did my final [Brothers War limited](/tags/mtgbro) stream this past week.
 

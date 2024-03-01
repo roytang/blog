@@ -50,7 +50,7 @@ Yesterday was the first Sunday of Advent. A bit more than one month to go in a y
     - Still playing some card games on the regular: 
         - [Eternal](/tags/EternalCardGame): Just regular grinding after last week's disappointing Open disaster. My current Throne deck is named "Midrange BS", so that's how it's going.
         - [Magic Arena](/tags/magicarena): Still drafting and streaming Brothers War Limited, you can follow along on [the MTGBRO tag](/tags/mtgbro/) or [via Twitch](https://www.twitch.tv/twitchyroy) if you like. [Threw some gold and gems away on a couple of Arena Open runs](/2023/01/mtgbro-limited-recap/#arena-open-attempts) last weekend as well. It may take me a few days to resume as I set up for streaming again.
-        - [Marvel Snap](/2022/10/1585610936563519493/). Griiindy!!
+        - [Marvel Snap](/2022/12/marvel-snap/). Griiindy!!
     - Still trying to power through **SMT5**, such a long game.
     - As a side note, migrating to a new desktop seems to have fixed my issues with PC Game Pass games! That **greatly** increases my gaming backlog!
 

@@ -49,7 +49,7 @@ Eh, let's not think about the world for a bit and enjoy the season, no matter wh
     - Finished [Tunic](/2022/12/tunic/)!
     - Single player games I'm still hoping to finish before the year ends: **Shin Megami Tensei V** (Switch). I am so close, but I just want to grind out a bit so I can get the *secret ending*.
     - Still playing the regular card games: 
-        - [Marvel Snap](/2022/10/1585610936563519493/)
+        - [Marvel Snap](/2022/12/marvel-snap/)
         - [Eternal](/tags/EternalCardGame)
         - [Magic Arena](/tags/magicarena). Arena had [end of year stats](/2022/12/1605768464068509697/)!
         - I found out that there's a new version of [Duelyst](/2017/02/review-duelyst/) [on Steam](https://store.steampowered.com/app/2004320/Duelyst_II/). I enjoyed this game back in the day, but IDK if I have the bandwidth to add one more card game to my dailies!

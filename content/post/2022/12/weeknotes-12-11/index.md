@@ -50,7 +50,7 @@ Still not paying too much attention to the world. It might be better overall for
     - Still playing some card games on the regular: 
         - [Eternal](/tags/EternalCardGame): No notes, just grinding.
         - [Magic Arena](/tags/magicarena): Finally managed to [get a 7-win draft in Brothers War on Arena](/2023/01/mtgbro-limited-recap/#7-x-drafts)! Not sure if I'll still be drafting it moving forward or if I should shift focus to constructed. New Explorer Anthology and Alchemy drops are happening this coming week I think, so I might try Explorer or maybe Alchemy draft if that's available.
-        - [Marvel Snap](/2022/10/1585610936563519493/). Still super grindy, but at least I finally got Wong.
+        - [Marvel Snap](/2022/12/marvel-snap/). Still super grindy, but at least I finally got Wong.
     - **SMT5**: Every time I push forward the main quest, there is surprisingly still more to do. Still hoping I can put this one away before the year ends!
     - I managed to resolve my PC GamePass from before (mostly by buying a new computer), so I decided to start a shorter game available on the service, which was **Tunic**. It's fairly good and I'm already like 12 hours in which is a lot (for me) in a week, which just shows how much I enjoy it. HLTB says average completionist time is around 22h, so I'm hoping I can finish this before year end as well.
 

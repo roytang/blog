@@ -52,7 +52,7 @@ This past week (Sunday thru Saturday), Fitbit says I walked a total of 70,712 st
 
 - [Why do websites have so many pop-ups? - The Verge](https://www.theverge.com/tech/23653544/pop-up-website-ad-ui-design)
 
-- (Youtube) [Marvels Teaser Trailer](https://www.youtube.com/watch?v=iuk77TjvfmE) - [I am a bit hyped for this](/2023/04/c55d8812fc4abbad2f45c1afb484aa23/) and I feel like Iman Vellani is really gonna steal the show here.
+- (Youtube) [Marvels Teaser Trailer](https://www.youtube.com/watch?v=iuk77TjvfmE) - Okay, I know the MCU films haven't been super good lately, but this trailer and the GOTG3 ones have been quite good, so I'm hoping for some good ones! I am a bit hyped for this and I feel like Iman Vellani is really gonna steal the show here.
   
 Check out the [linkblog](/links/) for more links!
 

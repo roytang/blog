@@ -43,7 +43,7 @@ title: Weeknotes 2022-11-14
 - My dad asked me to type up something for him and print it out, a semiregular occurrence now that he's working part-time from home and needs to turn in regular paper reports to his office. This time though, my printer ran out of ink and we had to rush out to buy a new cartridge in the evening close to when the store would close. I had to make an excuse to some of my friends to cut one of our activities short, and one of them asked why we don't just go paperless. That doesn't really work for my dad (he doesn't know how to use computers) or his work (it seems they are largely still paper-based). Every time I type up one of his reports for him I can't help but imagine how much easier some things would be if they knew how to use spreadsheets at least.
 
 - **Gaming**: 
-    - Still playing on the regular: [Eternal](/tags/EternalCardGame), [Magic Arena](/tags/magicarena), and [Marvel Snap](/2022/10/1585610936563519493/). 
+    - Still playing on the regular: [Eternal](/tags/EternalCardGame), [Magic Arena](/tags/magicarena), and [Marvel Snap](/2022/12/marvel-snap/). 
     - I finished [Paradise Killer](/2022/11/paradise-killer/)!
     - Still trying to power through **SMT5**, but making good progress recently. 
     - I finally [got achievement completion in Street Fighter V](/2022/12/street-fighter-v/#1591033088699961344) after so many years! Will do a longer writeup on the game soonish.

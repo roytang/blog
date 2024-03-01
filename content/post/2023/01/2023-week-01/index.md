@@ -38,7 +38,7 @@ I am very much behind on my reader backlog, so I don't have any links to share t
 
 **On the blog**: I wrote my usual start-of-year posts: The [previous year in review](/2023/01/2022-year-in-review/), and [a checklist for the coming year](/2023/01/2023-checklist/).
 
-**Gaming**: I [played a lot of Vampire Survivors and completed the game](/2023/01/vampire-survivors/)! I also started playing [Citizen Sleeper](/2023/01/b71b385d9566ebcd71252d1644042352/). Some short games to start the year right before I get going on one of those long RPGs I want to play! Eternal, Arena and Snap still ongoing, but nothing of note. Well, I did waste my gold trying to do the Arena Decathlon events, which I promised myself I wouldn't do. Save that gold for the next set!
+**Gaming**: I [played a lot of Vampire Survivors and completed the game](/2023/01/vampire-survivors/)! I also started playing [Citizen Sleeper](https://www.youtube.com/watch?v=Lstg9kVXu-w). Some short games to start the year right before I get going on one of those long RPGs I want to play! Eternal, Arena and Snap still ongoing, but nothing of note. Well, I did waste my gold trying to do the Arena Decathlon events, which I promised myself I wouldn't do. Save that gold for the next set!
 
 **Media Diet**: Surprisingly not much this week, I've been busy with other stuff. Haven't had time for movies. I have continued watching **Spy X Family**, though it slowed down a bit after I hit the midseason because the version on Netflix no longer has dubs. And I should pick my first book for the year already!
 

@@ -28,7 +28,7 @@ Globe gave us [our first internet outage of the year this week](/2023/03/db42c73
 ### Media Diet
 
 - **Playing**: 
-    - Single player: Still playing **Witcher 3** (island hopping, fighting beasties). [Started playing Return to Monkey Island](/2023/03/16ed11a1c2d605ea718b501500ee4ed2/)! Also been randomly playing UMVC3 mainly because I've been reading comics; just doing arcade runs for achievement purposes.
+    - Single player: Still playing **Witcher 3** (island hopping, fighting beasties). [Started playing Return to Monkey Island](https://www.youtube.com/watch?v=Gplwqs-NH-0)! Also been randomly playing UMVC3 mainly because I've been reading comics; just doing arcade runs for achievement purposes.
     - Online: Still doing some [All Will Be One](/tags/mtgone/) drafting on **Magic Arena**, a lot of it off-stream even. **Eternal**, **Marvel Snap** still ongoing. 
 
 - **Reading**: finished reading [Four Thousand Weeks by Oliver Burkman](/2023/03/four-thousand-weeks/).

@@ -17,6 +17,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1248384300241715201/
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/103971095690937081
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10158351608033912
 title: About | Project 88
 ---
 

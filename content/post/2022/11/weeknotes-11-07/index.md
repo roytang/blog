@@ -26,7 +26,7 @@ title: Weeknotes 2022-11-07
 - Not much else for this entry, so I'll just write about a bunch of things I didn't do: I never got around to doing Hacktoberfest last month. I was also thinking of doing Nanowrimo again and continuing the daily sketching this month and but haven't gotten around to that either. Maybe I'll have more to write about next week.
 
 - **Gaming**: 
-    - Still playing on the regular: [Eternal](/tags/EternalCardGame), [Magic Arena](/tags/magicarena), and [Marvel Snap](/2022/10/1585610936563519493/). I think I've gotten to a part of Marvel Snap where the grind is particularly bad though. The season is about to end, maybe I'll enjoy it again next season.
+    - Still playing on the regular: [Eternal](/tags/EternalCardGame), [Magic Arena](/tags/magicarena), and [Marvel Snap](/2022/12/marvel-snap/). I think I've gotten to a part of Marvel Snap where the grind is particularly bad though. The season is about to end, maybe I'll enjoy it again next season.
     - Still trying to power through **SMT5** and **Paradise Killer**. Really need to finish one of these soon so that I can move on.
     - Still playing a bit of **Street Fighter V**, this time only to farm super finishes for the last achievement.
 

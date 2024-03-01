@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/109144753035101745
 - type: twitter
   url: https://twitter.com/roytang/status/1579498506234253314/
+tags:
+- short-film
 title: LEGEND - A DRAGON BALL TALE (FULL FILM) - 2022 STUDIO STRAY DOG - YouTube
 ---
 

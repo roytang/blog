@@ -28,11 +28,16 @@ Each of the two games is 5 chapters long, with each chapter corresponding to one
 
 One feature of this game is a character called **Herlock Sholmes**, who you meet early in the first game. When this was announced, one of my friends complained that it was weird to reference a real-life property in this manner, and yet not just use the name "Sherlock Holmes" directly. I pointed out that since Sherlock Holmes was not yet fully public domain at the time, they probably did it to avoid any possible copyright issues. In any case, while Sholmes and his associates are important recurring characters in the game's story, they are not exactly the same as their Arthur Conan Doyle counterparts - and the ways they defy expectations are but some of the many twists you encounter in the game's complex murder cases.
 
-### Photodump
+### Media
 
 {{< photo "2021/11/gaac-photodump/" "20210727233338_1.jpg" >}}
 
-I still use the term "photodump" even though these are actually screenshots, not photos. Whatever. Anyway, I decided to put them in a separate post since they're very spoilery! Click [here](/2021/11/gaac-photodump/) to view all the screenshots!
+I have taken so many screenshots. Anyway, I decided to put them in a separate post since they're very spoilery! Click [here](/2021/11/gaac-photodump/) to view all the screenshots!
+
+I also streamed the first hour or so of the game [available over on Youtube](https://www.youtube.com/watch?v=X-jAUOpQUO4):
+
+{{% youtube X-jAUOpQUO4 %}}
+
 
 ### Completion
 

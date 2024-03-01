@@ -33,7 +33,7 @@ Monday weeknotes are here to stay apparently.
 
 - **Gaming**: 
     - Just the normal grinding in [Eternal](/tags/EternalCardGame) and [Magic Arena](/tags/magicarena), still not doing particularly well. Not gonna end up in the top ranks this month.
-    - I also tried and streamed the new Marvel card game [Marvel Snap](/2022/10/1585610936563519493/). The game seems fine, though a bit grindy. Will try to add it to the daily games for a while, but I'm not confident it's sustainable to be playing three different card games on the regular!
+    - I also tried and streamed the new Marvel card game [Marvel Snap](/2022/12/marvel-snap/). The game seems fine, though a bit grindy. Will try to add it to the daily games for a while, but I'm not confident it's sustainable to be playing three different card games on the regular!
     - Still trying to power through **SMT5** and **Paradise Killer**.
     - **Street Fighter V** was very good this week though, [I finally managed to hit Gold rank](/2022/12/street-fighter-v/#1585237402192601089)!
 

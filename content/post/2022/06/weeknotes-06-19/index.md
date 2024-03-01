@@ -65,7 +65,7 @@ Visit the [Links page](/links/) for more links of interest.
 ### My Week
 
 - My only other blog post this past week was [my Streets of New Capenna limited recap](/2022/06/mtgsnc-limited-recap/).
-- **Gaming**: Triangle Strategy NG+ run is about 40% done. Close to finishing Bloodstained as well. ([Streamed a bit of it even](/2022/06/1538016639408451586/).) Regular Eternal and Arena daily grinding continues. Also recently bought the Jaws of the Lion DLC for Gloomhaven, a coop game I have been enjoying with my Saturday gaming group.
+- **Gaming**: Triangle Strategy NG+ run is about 40% done. Close to finishing Bloodstained as well. ([Streamed a bit of it even](https://www.youtube.com/watch?v=nBbY1VKEWl0).) Regular Eternal and Arena daily grinding continues. Also recently bought the Jaws of the Lion DLC for Gloomhaven, a coop game I have been enjoying with my Saturday gaming group.
 - Someone has been uploading regular videos of our crossword sessions again to [the trivia group's Youtube channel](https://www.youtube.com/channel/UCptXvNbp4ETVttb_k-1oOww), if you like that kind of thing. Like, subscribe, all that jazz.
 
 ### Media Diet
