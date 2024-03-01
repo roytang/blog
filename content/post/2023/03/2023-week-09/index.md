@@ -27,7 +27,7 @@ For some reason, I've been getting random sporadic HTTP access errors the past f
 
 A while back Scott Adams, creator of Dilbert, decided to shit himself and be openly racist on the internet, getting himself instantly cancelled. I've read a lot of Dilbert over the years and I've found [many of the strips relatable](/tags/dilbert) (even though a lot of people consider him unfunny) and even read [one of his non-Dlibert books](/2006/02/gods-debris-by-scott-adams/) a long time ago. It's always a bummer when someone whose work you've enjoyed turns out to be an asshole. I've been aware of how aggressively right-wing he was for a while, so it doesn't really come as a surprise anymore.
 
-Despite [my vigorous protests](/2023/03/1630979436458950656/), the NYT went ahead and dropped the acrostics from their Games archive. Trivia team dashed through about two years worth of acrostics in a week before the deadline. We do have an archive so we can still keep playing the remainder, but it's still an annoying loss - I haven't found any other alternative online acrostic implementation that was as good as the NYT one.
+Despite my vigorous protests, the NYT went ahead and dropped the acrostics from their Games archive. Trivia team dashed through about two years worth of acrostics in a week before the deadline. We do have an archive so we can still keep playing the remainder, but it's still an annoying loss - I haven't found any other alternative online acrostic implementation that was as good as the NYT one.
 
 Anyway, here's a picture of some ducks:
 
