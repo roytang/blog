@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/197944620229112
 tags:
 - noxp
+- sc2
 ---
 
 SC2 ladder resets at the end of March! http://us.battle.net/sc2/en/forum/topic/2228179462 #noxp
