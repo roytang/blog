@@ -1,6 +1,9 @@
 ---
-date: 2024-03-03T18:40:10+08:00
+date: 2024-03-03 10:40:10
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112032155976808166
 tags:
 - weeknotes
 title: Weeknotes 2024-03-03 How Do They Keep Sneaking Past Us?
