@@ -27,6 +27,8 @@ Had another fun (and exhausting) family get-together yesterday, for Nephew #1's 
 
 On the blog: Nothing this week, just the weeknotes!
 
+Edit: Oh, there was another fire near our subdivision in the middle of the week. This one was a bit farther from us than the one last year, looks like it was in the back roads where there's a depressed area. Fires typically spread there easier because the houses are clustered together. The plume of smoke was large enough for me to see I was out on a noontime walk. I saw probably around 30 fire trucks and maybe 4-5 ambulances pass by and go into those back roads; that was probably challenging since those roads are very narrow. Some of the fire trucks came from other cities like Marikina and Valenzuela.
+
 ### Media Diet
 
 - **Gaming**: 
