@@ -103,35 +103,8 @@ a:hover {
 .mainfooter {
     grid-row: row-footer-start;
     font-size: 0.9em;
-    display: grid;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-content: center;
-    grid-template-columns: 1fr minmax(16rem, auto);
-    column-gap: 1rem;
+    background-color: var(--side-container-color);
     padding: 1rem;
-    position: relative;
-    background-color: var(--side-container-color);
-}
-
-.mainfooter:before {
-    /* 
-    // This part was supposed to paint the background stripe for the footer.
-    // Commented out because was causing problems with the image lightbox scroll on mobile for some reason.
-    content:"";
-    background-color: var(--side-container-color);
-    position: absolute;
-    height: 100%;
-    width: 10000px;
-    left: -5000px;
-    z-index: -1;
-    */
-}
-
-@media (max-width: 900px) {
-    .mainfooter {
-        grid-template-columns: 1fr;
-    }
 }
 
 .header_icons {
@@ -761,23 +734,9 @@ header p.p-note {
     font-size: smaller;
 }
 
-.single_line_menu ul, .single_line_menu li, .menu ul, .menu li {
+.sidebar_menu ul, .sidebar_menu li, .menu ul, .menu li {
     list-style: none;
     padding-left: 0.5em;
-}
-
-.single_line_menu li {
-    float: left;
-    border-left: 1px var(--main-color) solid;
-    padding-right: 1em;
-}
-
-.single_line_menu li:first-of-type {
-    border: 0;
-}
-
-.single_line_menu ul {
-    clear: both;
 }
 
 .home_article_footer {
@@ -1010,14 +969,21 @@ a[href^="http"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after, a
     font-size: 75%; color: gray;
 }
 
-@media print {
-    /* All your print styles go here */
-    .panel,
-    .mainfooter {
-      display: none !important;
-    }
-    div, .list_item {
-        border: none !important;
-    }
+/* .mainfooter Classic layout */
+.sidebar_menu {
+    padding: 1em;
 }
-  
+
+.sidebar_menu ul.collapsing li {
+    float: left;
+    border-left: 1px var(--main-color) solid;
+    padding-right: 1em;
+}
+
+.sidebar_menu li:first-of-type {
+    border: 0;
+}
+
+.sidebar_menu ul.collapsing {
+    clear: both;
+}

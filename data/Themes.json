@@ -2,14 +2,26 @@
     "default": [
         "static/css/classic/main.css",
         "static/css/classic/shared.css",
+        "static/css/features/common.css",
         "static/css/features/map.css",
         "static/css/features/highlighter.css",
         "static/css/features/lightbox.css"
+    ],
+    "2024": [
+        "static/css/default.css",
+        "static/css/reset.css",
+        "static/css/smallest.css",
+        "static/css/features/common.css",
+        "static/css/features/map.css",
+        "static/css/features/highlighter.css",
+        "static/css/features/lightbox.css",
+        "static/css/2024/layout.css"
     ],
     "plain": [
         "static/css/default.css",
         "static/css/reset.css",
         "static/css/smallest.css",
+        "static/css/features/common.css",
         "static/css/features/map.css",
         "static/css/features/highlighter.css",
         "static/css/features/lightbox.css"
@@ -17,6 +29,7 @@
     "classic": [
         "static/css/classic/main.css",
         "static/css/classic/shared.css",
+        "static/css/features/common.css",
         "static/css/features/map.css",
         "static/css/features/highlighter.css",
         "static/css/features/lightbox.css"

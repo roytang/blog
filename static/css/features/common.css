@@ -1,0 +1,15 @@
+.hidden {
+    display: none;
+}
+
+@media print {
+    /* All your print styles go here */
+    .panel,
+    .mainfooter {
+      display: none !important;
+    }
+    div, .list_item {
+        border: none !important;
+    }
+}
+  

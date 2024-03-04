@@ -118,7 +118,8 @@
         {
             "Name": "",
             "URL": "mailto:hello@roytang.net",
-            "rel": "me"
+            "rel": "me",
+            "class": "hidden"
         }
     ],
     "subscribe": [
