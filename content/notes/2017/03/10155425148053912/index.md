@@ -9,3 +9,5 @@ tags:
 ---
 
 Scott Berkun on ideas
+
+Source: https://twitter.com/berkun/status/838792003110350850
