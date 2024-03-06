@@ -390,25 +390,6 @@ code {
     padding: 1rem;
 }
 
-.navigation {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-}
-
-.navigation a {
-    display: block;
-}
-
-.navigation .prev {
-    text-align: left;
-}
-
-.navigation .next {
-    text-align: right;
-}
-
 .hero {
     display: grid;
     grid-template-columns: 1fr;
@@ -873,3 +854,4 @@ a:hover {
 section.home {
     padding: 2em;
 }
+

@@ -15,6 +15,7 @@
     --lightbox-bg-color: rgba(0, 0, 0, 0.8);
     --overlay-bg-color: rgba(0, 0, 0, 0.6);
     --overlay-text-color: var(--text-color);
+    --deemphasized-text-color: gray;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -920,50 +921,7 @@ img.tn {
     height: auto;
 }
 
-.lightbox_overlay .iconbar svg {
-    fill: var(--main-color);
-    height: 24px; /* Adjust these values to get the desired size */
-    width: 24px;
-}
 
-.lightbox_overlay {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.lightbox_overlay .iconbar {
-    border: 1px var(--main-color) solid;
-    width: fit-content;
-    border-radius: 5px; /* Rounded corners */
-}
-.lightbox_overlay .iconbar > * {
-    display: block;
-    text-align: center;
-}
-
-.lightbox_overlay .iconbar a {
-    text-decoration: none;
-    display: inline-block;
-    padding: 10px;
-}
-
-.lightbox_overlay .iconbar a:hover {
-    background-color: var(--container-color);
-}
-
-/* https://www.paritybit.ca/blog/styling-external-links.html */
-a[href^="http"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after, a[href^="https"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after {
-    display:inline-block;
-    font:14px/1 ForkAwesome;
-    font-size:inherit;
-    text-rendering:auto;
-    -webkit-font-smoothing:antialiased;
-    -moz-osx-font-smoothing:grayscale;
-    content:"︎↗";
-    padding-left:.5em;
-    font-size:.75em
-}
 
 .boot {
     font-size: 75%; color: gray;
@@ -980,10 +938,14 @@ a[href^="http"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after, a
     padding-right: 1em;
 }
 
-.sidebar_menu li:first-of-type {
+.sidebar_menu ul.collapsing li:first-of-type {
     border: 0;
 }
 
 .sidebar_menu ul.collapsing {
     clear: both;
+}
+
+.compact .list_item.notes, .compact .list_item.links {
+    margin-left: 5em;
 }

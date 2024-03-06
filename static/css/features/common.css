@@ -13,3 +13,48 @@
     }
 }
   
+.footnote {
+    font-size: smaller;
+}
+
+.menu_title {
+    font-weight: bold;
+}
+
+/* https://www.paritybit.ca/blog/styling-external-links.html */
+a[href^="http"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after, a[href^="https"]:where(:not([href*="roytang.net"],[href*="localhost"]))::after {
+    display:inline-block;
+    font:14px/1 ForkAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    content:"︎↗";
+    padding-left:.5em;
+    font-size:.75em
+}
+
+.navigation {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: smaller;
+}
+
+.navigation a {
+    display: block;
+}
+
+.navigation .prev {
+    text-align: left;
+}
+
+.navigation .next {
+    text-align: right;
+}
+
+small {
+    color: var(--deemphasized-text-color);
+    font-size: smaller;
+}

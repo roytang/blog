@@ -15,6 +15,7 @@
         "static/css/features/map.css",
         "static/css/features/highlighter.css",
         "static/css/features/lightbox.css",
+        "static/css/2024/colors.css",
         "static/css/2024/layout.css"
     ],
     "plain": [
