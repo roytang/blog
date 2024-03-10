@@ -67,7 +67,7 @@ body {
     max-height: 90%;
     overflow-y: auto;
     padding: 4px;
-    font-size: smaller;
+    font-size: 90%;
 }
 
 .backtotop {
@@ -78,8 +78,14 @@ body {
     padding: 2px;
 }
 
+@media screen and (min-height: 20px) {
+    .backtotop {
+        opacity: 1; /* Make it fully visible */
+    }
+}
+
 .meta, .comment, .feedback {
-    font-size: smaller;
+    font-size: 90%;
     border: 1px dotted;
     padding: 5px;
     margin: 5px;
@@ -89,6 +95,7 @@ blockquote {
     border: 1px dotted;
     padding: 5px;
     border-left: 3px var(--main-color) solid;
+    font-size: 90%;
 }
 
 .comment:nth-child(even) {
@@ -106,3 +113,8 @@ blockquote {
     margin: 5px;
 }
 
+.meta {
+    background-color: var(--second-container-color);
+    color: var(--deemphasized-text-color);
+    font-size: 75%;
+}

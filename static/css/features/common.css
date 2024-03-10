@@ -58,3 +58,45 @@ small {
     color: var(--deemphasized-text-color);
     font-size: smaller;
 }
+
+/* Tables */
+article table {
+    width: 100%;
+}
+
+article table tr:nth-child(even) {
+    background: var(--alt-row-color);
+}
+
+article table tr:nth-child(odd) {
+    background: var(--row-color);
+}
+
+article table td.numeric {
+    text-align: right;
+}
+
+
+td {
+    border-left: 1px var(--third-color);
+    border-right: 1px var(--third-color);
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+@media (max-width: 480px) {
+
+    .e-content table { 
+        font-size: 2.5vw;
+    }
+ 
+}
+
+/* https://stackoverflow.com/questions/248011/how-do-i-wrap-text-in-a-pre-tag */
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}

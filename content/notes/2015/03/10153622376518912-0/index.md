@@ -17,6 +17,7 @@ syndicated:
 tags:
 - mobile-uploads
 - quiznight
+- europe2015
 ---
 
 We did not win.

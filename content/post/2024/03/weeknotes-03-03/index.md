@@ -41,7 +41,7 @@ Edit: Oh, there was another fire near our subdivision in the middle of the week.
 
 ### Walking and Health
 
-This past week (Sunday through Saturday) Google Fit says I walked a a mere 60,964 steps. This is my lowest weekly total since the year began! This averages out to 10k+ per day, but I actually missed the quota both last Sunday and yesterday (Saturday), both busy weekeneds due to family activities.
+This past week (Sunday through Saturday) Google Fit says I walked a mere 60,964 steps. This is my lowest weekly total since the year began! This averages out to 10k+ per day, but I actually missed the quota both last Sunday and yesterday (Saturday), both busy weekeneds due to family activities.
 
 ### Things I've Been Thinking About
 

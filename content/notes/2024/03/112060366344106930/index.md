@@ -1,6 +1,7 @@
 ---
-date: 2024-03-08 13:44:52+00:00
+date: 2024-03-08 13:44:52
 dontinlinephotos: true
+location: 4b6a8f56f964a520a7d82be3
 resources:
 - src: 112060366344106930_1_93c6f41aba0538f5.jpg
   title: Quezon memorial

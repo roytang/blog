@@ -1,10 +1,18 @@
 ---
 title: "Test"
 date: 2020-05-01T19:02:58+08:00
+toc: true
+submenu: "stats"
 ---
 
-An h1 header
-============
+### HTML Elements
+
+# H1 header
+## H2 header
+### H3 header
+#### H4 header
+##### H5 header
+###### H6 header
 
 Paragraphs are separated by a blank line.
 
@@ -24,11 +32,9 @@ content starts at 4-columns in.
 > They can span multiple paragraphs,
 > if you like.
 
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
+A link: https://roytang.net
 
-https://roytang.net
+An external link: https://example.com
 
 
 - item 1
@@ -39,19 +45,17 @@ https://roytang.net
 
 https://roytang.net
 
-
 - item 1
 - item 2
 - item 3
+
 {{% /spoiler %}}
 
 The quick brown fox jumps over the lazy dog.
 
-### Latest post by tag
+### Site Features
 
-{{< latest tag="mtg" >}}
-
-### syntax highlighting
+#### Syntax Highlighting
 
 ```css
 .lightbox {
@@ -93,8 +97,7 @@ The quick brown fox jumps over the lazy dog.
 }
 ```
 
-
-### Footnotes
+#### Footnotes
 
 Test [^1]
 
@@ -102,56 +105,40 @@ Test 2 [^2]
 
 Test 3 [^3]
 
+#### Card List
+
 {{< cardlist >}}
 
 {{< cardgroup title="Lands" >}}
 2 Crumbling Necropolis
 9 Plains
 1 Mountain
-5 Forest
-{{< /cardgroup >}}
-
-{{< /cardlist >}}
-
-{{< cardlist >}}
-
-{{< cardgroup title="Lands" >}}
+9 Forest
+1 Swamp
 {{< /cardgroup >}}
 
 {{< cardgroup title="Creatures" >}}
+4 Dark Confidant
+4 Savannah Lions
+4 Grizzly Bears
 {{< /cardgroup >}}
 
 {{< cardgroup title="Spells" >}}
+4 Lightning Bolt
+4 Giant Growth
+4 Harrow
 {{< /cardgroup >}}
 
 {{< cardgroup title="Sideboard" >}}
+4 Wrath of God 
 {{< /cardgroup >}}
 
 {{< /cardlist >}}
 
-{{< cardlist >}}
-
-{{< cardgroup title="White" >}}
-{{< /cardgroup >}}
-
-{{< cardgroup title="Blue" >}}
-{{< /cardgroup >}}
-
-{{< cardgroup title="Black" >}}
-{{< /cardgroup >}}
-
-{{< cardgroup title="Red" >}}
-{{< /cardgroup >}}
-
-{{< cardgroup title="Green" >}}
-{{< /cardgroup >}}
-
-{{< cardgroup title="Others" >}}
-{{< /cardgroup >}}
-
-{{< /cardlist >}}
 
 ### Webmention Tests
+
+Used to test with webmention.rocks
 
 https://webmention.rocks/test/1
 https://webmention.rocks/test/2
