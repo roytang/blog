@@ -17,12 +17,12 @@
             "URL": "/albums/sketchbook/"
         },
         {
-            "Name": "Reading List",
-            "URL": "/page/lists/reading/"
+            "Name": "Media Diet",
+            "URL": "/lists/media/books/all/"
         },
         {
             "Name": "Blogroll",
-            "URL": "/page/blogroll"
+            "URL": "/page/blogroll/"
         },
         {
             "Name": "Quotes",

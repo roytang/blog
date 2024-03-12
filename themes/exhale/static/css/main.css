@@ -358,7 +358,7 @@ code {
     vertical-align: center;
 }
 
-.title time, .comment time {
+time {
     color: var(--third-color);
     font-size: 0.8em;
     display: inline;

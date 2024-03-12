@@ -16,4 +16,8 @@ Thread
 
 {{% /quoted %}}
 
-"And there’s no easy way to revive media freedom—or democracy—once it dies."
+> "And there’s no easy way to revive media freedom—or democracy—once it dies."
+>
+
+[Threadreader version](http://threadreaderapp.com/thread/972841751189839872.html). [Wayback archive](https://web.archive.org/web/20240311163421/https://threadreaderapp.com/thread/972841751189839872.html).
+

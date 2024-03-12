@@ -59,6 +59,13 @@ small {
     font-size: smaller;
 }
 
+.title time, .comment time {
+    color: var(--third-color);
+    font-size: smaller;
+    display: inline;
+}
+
+
 /* Tables */
 article table {
     width: 100%;

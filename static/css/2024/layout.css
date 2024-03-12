@@ -118,3 +118,36 @@ blockquote {
     color: var(--deemphasized-text-color);
     font-size: 75%;
 }
+
+.second_menu{
+    max-width: 65ch;
+    margin-inline: auto;
+}
+
+.second_menu > ul {
+    list-style-type: none;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr));
+    padding: 0;
+}
+
+.second_menu > ul > li {
+    border: 0;
+    border: 1px var(--second-color) dashed;
+    text-align: center;
+}
+
+.second_menu > ul > li.active {
+    background-color: var(--second-color);
+    color: white;
+}
+
+.second_menu > ul > li:hover {
+    background-color: var(--second-color);
+    color: white;
+}
+
+.second_menu > ul > li:hover > a {
+    color: white;
+}
