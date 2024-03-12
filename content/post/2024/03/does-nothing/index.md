@@ -1,10 +1,13 @@
 ---
-title: "An Android App That Does Nothing"
-date: 2024-03-12T15:41:35+08:00
+date: 2024-03-12 07:41:35
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112081670960878504
 tags:
 - software-development
 - mobile
-dontinlinephotos: true
+title: An Android App That Does Nothing
 ---
 
 A couple of months or so ago, Google started nagging me about my inactive Play Store account:
