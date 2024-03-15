@@ -1,5 +1,5 @@
 ---
-date: 2013-03-15 15:25:00+00:00
+date: 2013-03-15 15:25:00
 source: facebook
 syndicated:
 - type: facebook
@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152146526918912
 tags:
 - mobile-uploads
+- sc2
 title: ''
 ---
 
