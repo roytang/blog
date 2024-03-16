@@ -1,5 +1,5 @@
 ---
-date: 2017-03-17 23:00:00+08:00
+date: 2017-03-17 15:00:00
 dontinlinephotos: true
 repost_source:
   name: FTTM
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155454281363912
 tags:
 - fbreposts09
+- puns
 ---
 
 THE WINNING TWEET:     ✨  LIKE  Filipino Tweets That Matter   ✨    Submissions are welcome through our twitter page: @officialFTTM. For official business, send us an e-mail.
