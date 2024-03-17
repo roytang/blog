@@ -3,7 +3,10 @@ date: 2024-03-17 04:46:06
 dontinlinephotos: true
 resources:
 - src: 20240311_182727.jpg
-  title: 'A ridiculously high footbridge across EDSA'
+  title: A ridiculously high footbridge across EDSA
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112109606835550542
 tags:
 - weeknotes
 title: Weeknotes 2024-03-17
