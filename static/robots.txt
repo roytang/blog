@@ -83,3 +83,6 @@ Disallow: /
 
 User-agent: MJ12bot
 Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /

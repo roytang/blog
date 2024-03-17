@@ -11,6 +11,10 @@ reviews:
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1108247376584675328/
+- type: reddit
+  url: https://www.reddit.com/r/vita/comments/b2g10r/with_the_vita_being_officially_discontinued/
+- type: reddit
+  url: https://www.reddit.com/r/vita/comments/b2g10r/with_the_vita_being_officially_discontinued/eisfo6c/
 tags:
 - vita
 - Gaming
