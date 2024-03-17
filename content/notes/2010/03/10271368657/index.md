@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/399601938867
 tags:
 - gaming
+- ff13
 ---
 
 Haven't bought ff13 yet. Probably wait for the weekend so I can focus on it.
