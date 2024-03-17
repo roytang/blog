@@ -24,6 +24,6 @@ tags:
 
 {{< photos 111330514005305058 >}}
 
-<p>All sketches at <a href="https://roytang.net/photos/tagged/inktober2023/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">roytang.net/photos/tagged/inkt</span><span class="invisible">ober2023/</span></a></p>
+<p>All sketches at <a href="https://roytang.net/photos/tags/inktober2023/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">roytang.net/photos/tags/inkt</span><span class="invisible">ober2023/</span></a></p>
 
 {{< photos 111330590172150950 >}}

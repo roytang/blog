@@ -54,4 +54,4 @@ There is still much of the fight left to be fought. In the end there is only one
 
 ---
 
-On a lighter note, I have had a tendency to [run informal surveys on my friends via social media through the years](notes/tagged/survey/?page=6), although responses have tapered off since I quit Facebook. Feel free to respond to any of those surveys though, even the older ones!
+On a lighter note, I have had a tendency to [run informal surveys on my friends via social media through the years](notes/tags/survey/), although responses have tapered off since I quit Facebook. Feel free to respond to any of those surveys though, even the older ones!
