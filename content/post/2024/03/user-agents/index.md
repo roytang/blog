@@ -1,10 +1,13 @@
 ---
-title: "User Agents"
-date: 2024-03-18T21:42:27+08:00
+date: 2024-03-18 13:42:27
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112117211405229722
 tags:
 - web
 - bash
 - meta
+title: User Agents
 ---
 
 I sometimes get resource usage spikes on my site's server and it is almost always some kind of SEO or LLM-related crawler sending copious amounts of requests. The debugging process and remedy is often the same: check the access logs to determine the offending user agents and either block them via [robots.txt](/robots.txt) or the stronger penalty of blocking them via Cloudflare.
