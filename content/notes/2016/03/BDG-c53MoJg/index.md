@@ -20,6 +20,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154452988228912
 tags:
 - sketchdaily
+- daredevil
 ---
 
 The devil of hell's kitchen #sketchdaily
