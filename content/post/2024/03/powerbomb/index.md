@@ -2,16 +2,21 @@
 date: 2024-03-19 04:19:12
 resources:
 - src: IMG_1506.png
-  title: 'Steelrose wins the title'
+  title: Steelrose wins the title
 - src: IMG_1507.png
-  title: 'Do A Powerbomb cover art'
-title: "Comics: Do A Powerbomb"
+  title: Do A Powerbomb cover art
 reviews:
-- media: comics
-  title: Do A Powerbomb
-  description: Limited series by Daniel Warren Johnson
+- description: Limited series by Daniel Warren Johnson
+  media: comics
   rating: 4.5
+  title: Do A Powerbomb
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112120488763121811
+tags:
+- comics
+title: 'Comics: Do A Powerbomb'
 ---
 
 Often when the New Year rolls around I'll go through "best comics of 2023" lists to see if any indie titles catch my fancy, to provide some contrast to my usual fare of superhero Marvel/DC. This year, the first such title I read is **"Do A Powerbomb"** by Daniel Warren Johnson.
