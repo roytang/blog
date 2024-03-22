@@ -10,6 +10,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154467025028912
 tags:
 - dragonballsuper
+- dragonball
 ---
 
 <p>Poor Piccolo lol</p>
