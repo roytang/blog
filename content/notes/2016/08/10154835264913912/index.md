@@ -1,5 +1,5 @@
 ---
-date: 2016-08-20 01:21:00+08:00
+date: 2016-08-19 17:21:00
 dontinlinephotos: true
 repost_source:
   name: wansapunataym
@@ -11,12 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154835264913912
 tags:
 - fbreposts10
+- puns
 ---
-
-
-
-
-
-
 
 {{% photos 10154835264913912%}}

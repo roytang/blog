@@ -1,5 +1,5 @@
 ---
-date: 2015-03-25 13:26:00+08:00
+date: 2015-03-25 05:26:00
 dontinlinephotos: true
 repost_source:
   name: wansapunataym
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153659460143912
 tags:
 - fbreposts10
+- puns
 ---
 
 hi Dang Quipse
