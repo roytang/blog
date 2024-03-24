@@ -37,7 +37,7 @@ On the blog: Wrote about [my app that does nothing](/2024/03/does-nothing/).
 
 ### Walking and Health
 
-This past week (Sunday through Saturday) Google Fit says I walked a total of 70,243 steps. More very long walks this week, including me attempting to twice to walk the entirety of Visayas Avenue again (gave up halway through both times), and walking the entirety of East Avenue to get to the quiz night venue from the circle. 
+This past week (Sunday through Saturday) Google Fit says I walked a total of 70,243 steps. More very long walks this week, including me attempting twice to walk the entirety of Visayas Avenue again (gave up halway through both times), and walking the entirety of East Avenue to get to the quiz night venue from the circle. 
 
 During that last walk, I had to cross this ridiculously high footbridge across EDSA:
 
