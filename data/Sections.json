@@ -48,7 +48,7 @@
         "collection": true,
         "exclude_feed": true,
         "url_base": "collections/",
-        "page_count": -1,
+        "page_count": 50,
         "permalink_view": "single_post_collections",
         "permalink_view_params": ["section", "slug"],
         "list_template": "blog/page/post_list_everything.html"
