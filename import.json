@@ -37,16 +37,16 @@
             "source": "fiction"
         },
         {
-            "path": "content/quotes",
-            "public": true,
-            "section": "quotes",
-            "source": "quotes"
-        },
-        {
             "path": "content/topics",
             "public": true,
             "section": "topics",
             "source": "topics"
+        },
+        {
+            "path": "content/collections/quotes",
+            "public": true,
+            "section": "quotes",
+            "source": "quotes"
         }
     ]
 }

@@ -13,7 +13,8 @@
     },
     "photos2": {
         "label": "Photos2",
-        "descrip": "Photos, sketches, screenshots, and definitely memes."
+        "descrip": "Photos, sketches, screenshots, and definitely memes.",
+        "list_template": "blog/sections/photos2/list.html"
     },
     "notes": {
         "label": "Notes",
@@ -44,12 +45,18 @@
     "quotes": {
         "label": "Quotes",
         "descrip": "Quote sets",
-        "exclude_feed": true
+        "collection": true,
+        "exclude_feed": true,
+        "url_base": "collections/",
+        "permalink_view": "single_post_collections",
+        "permalink_view_params": ["section", "slug"]
     },
     "topics": {
         "label": "Topics",
         "descrip": "Topic indexes",
-        "exclude_feed": true
+        "exclude_feed": true,
+        "permalink_view": "single_post_by_path_topics",
+        "permalink_view_params": ["path"]
     },
     "river": {
         "label": "River",
@@ -57,14 +64,19 @@
         "exclude_feed": true,
         "page_count": 500,
         "submenu": "follows",
-        "feeds": false
+        "feeds": false,
+        "list_template": "blog/sections/river/list.html"
     },
     "page": {
         "label": "Other Pages",
         "descrip": "Standalone pages not belonging to the other sections.",
-        "exclude_feed": true
+        "exclude_feed": true,
+        "permalink_view": "single_post_by_path_page",
+        "permalink_view_params": ["path"]
     },
     "logs": {
-        "showprevnext": true
+        "showprevnext": true,
+        "permalink_view": "single_post_by_channel",
+        "permalink_view_params": ["source", "channel", "year", "month", "slug"]
     }
 }
