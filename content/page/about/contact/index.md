@@ -4,7 +4,7 @@ aliases:
 - /about/contact/
 date: 2020-01-11
 submenu: about
-title: About::Contact Information
+title: "About :: Contact Information"
 toc: true
 type: page
 ---
@@ -59,3 +59,4 @@ This is a weird question to ask even if I knew you personally. Get your own blog
 - Can I ask you to write a review for a product you might find interesting?
 
 Yes. I am especially willing to write reviews for ebooks, provided it is in an area of interest and I am given a complimentary copy. Note that I don't guarantee the review will be in any way flattering. As with the rest of my writing on this site, it will be my honest opinion.
+ 

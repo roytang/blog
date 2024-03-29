@@ -11,6 +11,7 @@ syndicated:
 tags:
 - reviews
 - comics
+- marvel
 title: 'Comics Review: House of X/Powers of X'
 type: post
 ---

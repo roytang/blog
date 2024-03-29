@@ -3,6 +3,10 @@ title: "Battle"
 date: 2000-01-28T17:41:45+08:00
 ---
 
+Ensembles: Movie 43, expendables, scream, star trek, love actually, gosford park, the hobbits, budapest hotel, orient express, oppenheimer, this is the end, episode vii
+
+#### Actors
+
 * Adam Driver 
     - 65 -> Ariana Greenblatt (Infinity War, Barbie)
 * Alec Baldwin 
@@ -14,8 +18,14 @@ date: 2000-01-28T17:41:45+08:00
 * Arnold 
     - Kindergarten Cop -> Space Jam (via Ivan Reitman) or Stranger than Fiction (via Linda Hunt)
     - Raw Deal -> Seabiscuit/Not Another Teen Movie (via Ed Lauter) 
+* Bo Burnham
+    - Big Sick -> Kumail
+    - Hall Pass -> Farellys or Sudeikis
 * Brad Pitt
     - World War Z -> Paddington 2 or The Suicide Squad (via Capaldi)
+* Cameron Diaz
+    - Last Supper -> Ron Perlman
+    - Feeling Minnesota -> Keanu
 * Chloe Grace Moretz 
     - Let Me In -> The Batman (via Matt Reeves)
 * Daniel Craig 
@@ -26,6 +36,9 @@ date: 2000-01-28T17:41:45+08:00
     - Woman in Black -> Kick-Ass or X-Men FC
 * Denzel Washington 
     - Remember the Titans -> Clueless (via Donald Faison)
+* Frank Welker
+    - Mortal Kombat (1995)
+    - Godzilla (1998)
 * Hillary Duff
     - Cheaper by the Dozen
 * Idris Elba 
@@ -84,3 +97,7 @@ date: 2000-01-28T17:41:45+08:00
     - Colombiana -> Luc Besson (fifth element)
     - Center Stage -> Mr Deeds (via Peter Galagher)
 
+#### Movies
+
+* Kramer vs Kramer -> Terminator Salvation, Cider House Rules, Twilight 1998
+* Little Miss Sunshine -> House on Sorority Row -> Sudden Death -> Van Damme

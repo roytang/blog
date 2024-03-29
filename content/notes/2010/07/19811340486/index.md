@@ -14,6 +14,7 @@ syndicated:
 tags:
 - gaming
 - games
+- sc2
 ---
 
 Finished the Wings of Liberty campaign! Secret mission was exciting.

@@ -7,7 +7,7 @@ submenu: "about"
 
 I still actively use these accounts:
 
-- <a href="https://indieweb.social/@roytang" rel="me">Mastodon: roytang@indieweb.social</a>
+- Mastodon: [roytang@indieweb.social](https://indieweb.social/@roytang)
 - <a href="https://www.youtube.com/channel/UCwpuHIsvCAdmcZ4hIS3tQHA" rel="me">My Youtube channel</a> where I occasionally post gaming videos.
 - <a href="https://twitch.tv/twitchyroy" rel="me">Twitch: twitchyroy</a>, where I occasionally stream myself playing games.
 - <a href="https://github.com/roytang" rel="me">Github: roytang</a>
@@ -23,3 +23,7 @@ These accounts are also me, but they are not actively used anymore or I dislike 
 - <a href="https://www.linkedin.com/in/roytang" rel="me">LinkedIn: roytang</a>. Ew.
 - <a href="https://tumblr.roytang.net" rel="me">Tumblr</a>
 - <a href="https://roywantsmeat.blogspot.com" rel="me">Blogger</a>
+
+The following accounts were also me, but are no longer accessible:
+
+- https://mastodon.technology/@roytang

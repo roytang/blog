@@ -15,7 +15,7 @@ Alvin Tang Brian Jeffrey Tang
 
 How to use your baby as a piece of exercise equipment  http://boingboing.net/2014/12/08/how-to-use-your-baby-as-a-piec.html
 
-{{% photos 10156452380848912%}}
+{{% photos %}}
 
 
 
