@@ -7,7 +7,7 @@ tags:
 title: 'Popquiz: The Errors Tour'
 ---
 
-Final popquiz for the year! This quiz was not entirely Taylor Swift-themed though that was a strong component. Alas, our Ace went poorly and with it our chance of winning the event. We ended up finishing 3rd out of 5 teams which wasn't too bad (still got a prize!)
+First popquiz for the year! This quiz was not entirely Taylor Swift-themed though that was a strong component. Alas, our Ace went poorly and with it our chance of winning the event. We ended up finishing 3rd out of 5 teams which wasn't too bad (still got a prize!)
 
 Rounds were:
 
