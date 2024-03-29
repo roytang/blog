@@ -19,7 +19,7 @@
     "notes": {
         "label": "Notes",
         "cache_feed": true,
-        "descrip": "A <a href='https://kottke.org/05/10/tumblelogs'>tumblelog</a> of sorts. Microblog-like status updates, short notes, repit posts, logs of things I've found."
+        "descrip": "A <a href='https://kottke.org/05/10/tumblelogs'>tumblelog</a> of sorts. Microblog-like status updates, short notes, logs of things I've found."
     },
     "replies": {
         "label": "Replies",
