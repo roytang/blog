@@ -1,5 +1,5 @@
 ---
-date: 2016-08-30 16:03:00+08:00
+date: 2016-08-30 08:03:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154864453573912
 tags:
 - fbreposts05
+- duterte
 ---
 
 The only kind of unity certain camps are interested in is one where the sheep ask no questions and have absolute trust in their leadership, where anyone who stays neutral is simply another obstacle in their way

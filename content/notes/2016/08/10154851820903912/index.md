@@ -1,5 +1,5 @@
 ---
-date: 2016-08-26 01:38:00+08:00
+date: 2016-08-25 17:38:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154851820903912
 tags:
 - fbreposts05
+- duterte
 ---
 
 Remember this the next time you want to brag about the number of surrenderees. If putting people on some sort of list with little to no verification isnt some sign of facism, I dont know what is!

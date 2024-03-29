@@ -16,9 +16,13 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154830141093912:1
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154831808858912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154831960403912
 tags:
 - sketchdaily
 - instacomments
 ---
 
 IDK, some kind of dog. Painting is hard #sketchdaily
+
+<time>[19:57]</time> Sketch timelapse using Procreate

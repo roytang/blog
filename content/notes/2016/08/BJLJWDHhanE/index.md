@@ -16,8 +16,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154827013608912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154827013648912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154827107853912
 tags:
 - sketchdaily
 ---
 
 "Go play outside!" #sketchdaily
+
+<time>[2016-08-17 00:04]</time> Ooh, this app I'm trying lets me export a timelapse! Now you can watch all the mistakes I made, including the tiny arms! (Reposted for the benefit of people who don't like tilting their heads sideways)

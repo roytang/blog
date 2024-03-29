@@ -344,3 +344,9 @@ figcaption {
 .image-list a:nth-child(3n) { transform:rotate(-2deg); }
 .image-list a:nth-child(5n) { transform:rotate(1deg); }
 .image-list a:nth-child(7n) { transform:rotate(-1deg); }
+
+time {
+    color: var(--third-color);
+    font-size: 0.8em;
+    display: inline;
+}

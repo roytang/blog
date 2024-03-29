@@ -5,7 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154840214288912
-tags: []
+tags:
+- duterte
 ---
 
 This thread is a liveblog of a Trump rally, frightening stuff. (And again, a few parallels to supporters of our Dear Leader) 

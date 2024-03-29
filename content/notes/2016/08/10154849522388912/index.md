@@ -1,5 +1,5 @@
 ---
-date: 2016-08-25 05:43:00+08:00
+date: 2016-08-24 21:43:00
 dontinlinephotos: true
 repost_source:
   name: Carlo Pijuan Kintanar
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154849522388912
 tags:
 - fbreposts10
+- duterte
 ---
-
-
 
 <div class="bp" data-ft='{"tn":"*s"}' style="">
  <p>

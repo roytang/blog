@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154844738733912
 tags:
 - PinoyPride
+- duterte
 ---
 
 Hey, we're on the Reddit front page again! #PinoyPride https://www.reddit.com/r/worldnews/comments/4z00yp/philippine_police_antidrugs_operations_have/?sort=top

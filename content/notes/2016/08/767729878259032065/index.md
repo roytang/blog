@@ -1,5 +1,5 @@
 ---
-date: 2016-08-22 14:27:21+00:00
+date: 2016-08-22 14:27:21
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - PresidentDuterte
 - logic
+- duterte
 ---
 
 Killings in Davao under #PresidentDuterte: hindi naman involved si mayor!

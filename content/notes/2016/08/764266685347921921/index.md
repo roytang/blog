@@ -1,11 +1,13 @@
 ---
-date: 2016-08-13 01:05:51+00:00
+date: 2016-08-13 01:05:51
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/764266685347921921/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154817863933912
+tags:
+- duterte
 title: ''
 ---
 

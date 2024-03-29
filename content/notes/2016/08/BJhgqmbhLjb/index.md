@@ -16,8 +16,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154848661423912:1
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154850709128912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154854195993912
 tags:
 - sketchdaily
 ---
 
 Petra #sketchdaily
+
+<time>[2016-08-26]</time> Petra sketch timelapse

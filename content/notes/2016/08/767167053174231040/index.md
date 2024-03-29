@@ -1,9 +1,11 @@
 ---
-date: 2016-08-21 01:10:53+00:00
+date: 2016-08-21 01:10:53
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/767167053174231040/
+tags:
+- duterte
 title: ''
 ---
 

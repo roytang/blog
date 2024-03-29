@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-08-19 12:57:00+08:00
+date: 2016-08-19 04:57:00
 source: facebook
 syndicated:
 - type: facebook
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/766499576446525440/
 tags:
 - timeline-photos
+- duterte
 ---
 
 Wow, we're approaching North Korea levels of stupid here. I didn't link directly to the post because I didn't want to give them even more shares, pero ang nakakatawa naniniwala sila lahat duon lol. Or maybe nakakaiyak? Andami pang naniniwala dun sa comments!
