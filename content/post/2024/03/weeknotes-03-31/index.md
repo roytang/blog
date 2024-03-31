@@ -1,6 +1,9 @@
 ---
-date: 2024-03-31T11:04:03+08:00
+date: 2024-03-31 03:04:03
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112188577507219092
 tags:
 - weeknotes
 title: Weeknotes 2024-03-31 Easter? I hardly knew her!
