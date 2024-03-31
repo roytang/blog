@@ -107,8 +107,8 @@ blockquote {
     border-radius: 2px;
     max-height: 90%;
     overflow-y: auto;
-    padding: 4px;
-    font-size: var(--font-size-slightly-smaller);
+    padding: 8px;
+    font-size: var(--font-size-smaller);
 }
 
 .backtotop {
