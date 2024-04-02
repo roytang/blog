@@ -92,6 +92,8 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/teenage-mutant-ninja-turtles-2014/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/dc-league-of-super-pets/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112199212878667964
 tags:
 - movies
 - tv
