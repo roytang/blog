@@ -7,8 +7,8 @@
 
 :root {
     --font-size: 0.9*calc(1rem + 0.25vw); /* https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/ */
-    --font-size-slightly-smaller: calc(0.75 * (1rem + 0.25vw));
-    --font-size-smaller: calc(0.6 * (1rem + 0.25vw));
+    --font-size-slightly-smaller: calc(0.8 * (1rem + 0.25vw));
+    --font-size-smaller: calc(0.65 * (1rem + 0.25vw));
     --content-width: 95ch;
     font-family: "Be Vietnam Pro", "Segoe UI", sans-serif;
     font-size: var(--font-size);

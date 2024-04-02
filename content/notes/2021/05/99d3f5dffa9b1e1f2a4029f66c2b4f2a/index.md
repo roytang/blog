@@ -18,4 +18,4 @@ tags:
 title: Tom Clancy's Jack Ryan season 2
 ---
 
-I binged season 2 of Tom Clancy's Jack Ryan this week (after watching season 1 back in 2018!). This season felt tighter than the first in terms of pacing and such.<!--sep-->But I'm not happy with the way it promotes American interventionism and their easy willingness to interfere in the affairs of a sovereign nation (however justified it may be)
+I binged season 2 of Tom Clancy's Jack Ryan this week (after watching season 1 back in 2018!). This season felt tighter than the first in terms of pacing and such. But I'm not happy with the way it promotes American interventionism and their easy willingness to interfere in the affairs of a sovereign nation (however justified it may be)
