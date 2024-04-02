@@ -1,9 +1,11 @@
 ---
-date: 2014-04-02 17:36:00+00:00
+date: 2014-04-02 17:36:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152874108723912
+tags:
+- webcomics
 title: ''
 ---
 

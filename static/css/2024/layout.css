@@ -2,7 +2,14 @@
     font-family: 'Be Vietnam Pro';
     font-weight: 400;
     font-style: normal;
-    src: url(BeVietnamPro-Regular.woff2) format('woff2');
+    src: url(fonts/BeVietnamPro-Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Menlo';
+    font-weight: 400;
+    font-style: normal;
+    src: url(fonts/Menlo-Regular.woff) format('woff');
 }
 
 :root {
@@ -10,8 +17,6 @@
     --font-size-slightly-smaller: calc(0.8 * (1rem + 0.25vw));
     --font-size-smaller: calc(0.65 * (1rem + 0.25vw));
     --content-width: 95ch;
-    font-family: "Be Vietnam Pro", "Segoe UI", sans-serif;
-    font-size: var(--font-size);
 }
 
 body {
@@ -20,6 +25,8 @@ body {
     background-attachment: fixed;
     background-position: 0 0;
     background-image: url(https://roytang.net/archives/ancient/topcities2002/img/drkgrn.jpg);
+    font-family: "Menlo", "Segoe UI", sans-serif;
+    font-size: var(--font-size);
 }
 
 body.comics {
@@ -37,7 +44,7 @@ body.software-development {
 
 blockquote {
     max-width: 80%;
-    margin: 0.75rem;
+    margin: auto;
 }
 
 .main {

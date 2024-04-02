@@ -107,3 +107,30 @@ pre {
     white-space: -o-pre-wrap;    /* Opera 7 */
     word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
+
+/* MTG Decklist */
+.mtgdecklist {
+    max-width: 100%;
+}
+.mtgdecklist .wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(10rem, 1fr));
+    grid-auto-rows: auto;
+    grid-template-rows: auto;
+    grid-gap: 0.1rem;
+    background-color: var(--second-container-color);
+}
+@media (max-width: 40rem) {
+    .mtgdecklist .wrapper {
+        grid-template-columns: 1fr;
+    }
+}
+.mtgdecklist .box {
+    border: 0px solid var(--second-color);
+    border-radius: 4px;
+    padding: .5rem;
+}
+.mtgdecklist ul {
+    list-style-type: none;
+    padding: 0;
+}
