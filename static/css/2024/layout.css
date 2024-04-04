@@ -1,9 +1,11 @@
+/*
 @font-face {
     font-family: 'Be Vietnam Pro';
     font-weight: 400;
     font-style: normal;
     src: url(fonts/BeVietnamPro-Regular.woff2) format('woff2');
 }
+*/
 
 @font-face {
     font-family: 'Menlo';
@@ -25,6 +27,7 @@ body {
     background-attachment: fixed;
     background-position: 0 0;
     background-image: url(https://roytang.net/archives/ancient/topcities2002/img/drkgrn.jpg);
+    background-color: green;
     font-family: "Menlo", "Segoe UI", sans-serif;
     font-size: var(--font-size);
 }
@@ -199,7 +202,6 @@ blockquote {
     color: var(--inverse-text-color);
 }
 
-
 .list_item.quotes {
     border: 0;
     border-bottom: 1px solid;
@@ -329,6 +331,8 @@ img.tn {
 
 .lightbox_overlay {
     font-size: var(--font-size-smaller);
+    border: 1px var(--second-color) solid;
+    border-radius: 15px;
 }
 
 figcaption {

@@ -1,5 +1,5 @@
 ---
-date: 2016-04-04 00:15:00+08:00
+date: 2016-04-03 16:15:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154508457438912
 tags:
 - fbreposts05
+- puns
 ---
 
 I feel jealous whenever there are puns I didn't think of myself

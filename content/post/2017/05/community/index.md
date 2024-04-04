@@ -3,7 +3,8 @@ backpost_date: 2024-01-20 04:47:24
 date: 2017-06-30
 reviews:
 - media: tv
-  title: community
+  title: Community
+  rating: 4.5
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/104928957085908992/
@@ -51,6 +52,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/878565516113084417/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155787380323912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/452163229771243520/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152877836623912
 tags:
 - tv
 - backpost
@@ -128,6 +133,10 @@ I watched *Community* liberally from 2011 until the series hobbled to an end in 
 ---
 
 <time>[2014-02-01 21:05] </time> @lizbethjane si Paget Brewster nag guest sa Community (S05E06 "Analysis of Cork-Based Networking")
+
+---
+
+<time>[2014-04-05 03:18] </time> Might be the lack of sleep, but I enjoyed Community's GI Joe episode a bit too much. It filled a hole in my heart I never knew existed.
 
 ---
 

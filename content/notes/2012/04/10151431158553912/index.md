@@ -1,5 +1,5 @@
 ---
-date: 2012-04-05 09:13:00+08:00
+date: 2012-04-05 01:13:00
 source: facebook
 syndicated:
 - type: facebook
@@ -8,7 +8,8 @@ syndicated:
   url: https://twitter.com/roy_mtg/statuses/187711365266419712/
 - type: twitter
   url: https://twitter.com/roytang/statuses/187711311008903168/
-tags: []
+tags:
+- tv
 ---
 
 Almost lost an MTGO match due to watching the hell in a cell wrestlemania match

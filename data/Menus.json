@@ -139,12 +139,12 @@
     ],
     "main_header": [
         { 
-            "Name": "Posts",
+            "Name": "Blog",
             "URL": "/blog/"
         },
         { 
-            "Name": "Photos",
-            "URL": "/photos/"
+            "Name": "Links",
+            "URL": "/links/"
         },
         { 
             "Name": "Archives",

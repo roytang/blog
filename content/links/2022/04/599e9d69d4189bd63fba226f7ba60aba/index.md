@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1510972772822167553/
 tags:
 - tech-life
+- webcomics
 title: Contrachrome
 ---
 

@@ -135,6 +135,23 @@ Test 3 [^3]
 
 {{< /cardlist >}}
 
+#### Images
+
+##### Single Image
+
+{{% photos test1 %}}
+
+##### 2 Images
+
+{{% photos test2 %}}
+
+##### 3 Images
+
+{{% photos test3 %}}
+
+##### 4 Images
+
+{{% photos test4 %}}
 
 ### Webmention Tests
 
