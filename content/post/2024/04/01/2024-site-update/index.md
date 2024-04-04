@@ -1,9 +1,12 @@
 ---
-title: "2024 Site Update"
-date: 2024-04-04T22:38:04+08:00
+date: 2024-04-04 14:38:04
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112214100401077878
 tags:
 - changelog
 - css
+title: 2024 Site Update
 toc: true
 ---
 
