@@ -3,24 +3,29 @@ date: 2024-04-05 14:14:44
 dontinlinephotos: true
 resources:
 - src: Screenshot 2024-04-05 151732.png
-  title: 'Play stats. IDK why Game Pass has all those empty categories'
+  title: Play stats. IDK why Game Pass has all those empty categories
 - src: Tales of Arise 08_03_2024 10_06_20 am.png
-  title: 'Shionne and Alphen'
+  title: Shionne and Alphen
 - src: Tales of Arise 09_03_2024 3_17_07 pm.png
-  title: 'Sunglasses!'
+  title: Sunglasses!
 - src: Tales of Arise 16_03_2024 12_00_25 pm.png
-  title: 'A likeable dolt'
+  title: A likeable dolt
 - src: Tales of Arise 25_03_2024 7_43_36 am.png
-  title: "I didn't especially care for any of the alternate costumes, but I disliked Rinwell's default one, so I just had her in the farmer outfit for half the game lol"
+  title: I didn't especially care for any of the alternate costumes, but I disliked
+    Rinwell's default one, so I just had her in the farmer outfit for half the game
+    lol
 - src: Tales of Arise 27_02_2024 11_46_49 pm.png
-  title: 'Technology is technology'
+  title: Technology is technology
 - src: Tales of Arise 28_02_2024 12_58_35 pm.png
-  title: 'Thorns lady and Iron Mask'
+  title: Thorns lady and Iron Mask
 reviews:
 - description: ''
   media: games
   rating: 4.0
   title: Tales of Arise (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112219571720219736
 tags:
 - gaming
 - talesof
