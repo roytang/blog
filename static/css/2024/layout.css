@@ -26,7 +26,7 @@ body {
     margin: 0;
     background-attachment: fixed;
     background-position: 0 0;
-    background-image: url(https://roytang.net/archives/ancient/topcities2002/img/drkgrn.jpg);
+    background-image: url(tagimgs/drkgrn.jpg);
     background-color: green;
     font-family: "Menlo", "Segoe UI", sans-serif;
     font-size: var(--font-size);
