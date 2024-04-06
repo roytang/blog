@@ -10,7 +10,7 @@ Discworld series is a fantasy comedy series by Terry Pratchett.
 
 This page acts as my reference for the eventual goal of reading all the Discworld books, as well as an index to individual reviews. Unfortunately, I don't have reviews for all the ones I've already read.
 
-Current read count: 16/41 (as of Feb 6, 2022)
+Current read count: 21/41 (as of Apr 6, 2024)
 
 ### List of Books
 
@@ -32,12 +32,12 @@ Current read count: 16/41 (as of Feb 6, 2022)
 | 14 | Lords and Ladies  | 1992 | Witches  | Y | [2006](/2006/05/pop-culture-consumer-whore/) |
 | 15 | Men at Arms  | 1993 | City Watch  | Y | [2021](/2021/04/discworld-city-watch/) |
 | 16 | Soul Music  | 1994 | Death  | | |
-| 17 | Interesting Times  | 1994 | Rincewind  | | |
+| 17 | Interesting Times  | 1994 | Rincewind | Y | [2024](/2024/04/interesting-times/) |
 | 18 | Maskerade  | 1995 | Witches  | Y | [2022](/2022/09/maskerade/) |
 | 19 | Feet of Clay  | 1996 | City Watch  | Y | [2022](/2022/05/weeknotes-05-01/) |
 | 20 | Hogfather  | 1996 | Death  | | |
 | 21 | Jingo  | 1997 | City Watch  | Y | [2022](/2022/05/weeknotes-05-08/#jingo-by-terry-pratchett) |
-| 22 | The Last Continent  | 1998 | Rincewind  | Y | [2022](/2022/12/last-continent/) |
+| 22 | The Last Continent  | 1998 | Rincewind  | Y | [2022](/2022/03/last-continent/) |
 | 23 | Carpe Jugulum  | 1998 | Witches  | | |
 | 24 | The Fifth Elephant  | 1999 | City Watch  | | |
 | 25 | The Truth  | 2000 | Industrial Revolution  | Y | [2023](/2023/02/the-truth/) |
@@ -57,3 +57,4 @@ Current read count: 16/41 (as of Feb 6, 2022)
 | 39 | Snuff  | 2011 | City Watch  | | |
 | 40 | Raising Steam  | 2013 | Moist von Lipwig  | | |
 | 41 | The Shepherd's Crown  | 2015 | Tiffany Aching  | | |
+
