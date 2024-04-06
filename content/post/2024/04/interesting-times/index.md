@@ -1,9 +1,12 @@
 ---
-date: 2024-04-06T21:58:17+08:00
+date: 2024-04-06 13:58:17
 reviews:
 - description: 'Discworld #17'
   media: books
   title: Interesting Times by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112224703037281954
 tags:
 - books
 - discworld
