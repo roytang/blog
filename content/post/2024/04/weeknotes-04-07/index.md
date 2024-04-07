@@ -1,6 +1,9 @@
 ---
-date: 2024-04-07T15:49:17+08:00
+date: 2024-04-07 07:49:17
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112228883450819313
 tags:
 - weeknotes
 title: Weeknotes 2024-04-07
@@ -83,4 +86,4 @@ Check out the [linkblog](/links/) for past links!
 ### This Coming Week
 
 - a balikbayan friend is in town and that usually means we get together for boardgames and such, so might have a few such days in the coming two weeks or so.
-- I think new Fallout series drops on Prime Video this week. 
+- I think new Fallout series drops on Prime Video this week.
