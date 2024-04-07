@@ -1,0 +1,29 @@
+#comments-form {
+    width: 100%;
+    padding: 2rem;
+    padding-top: 0;
+}
+
+#comments-form input, #comments-form textarea {
+    width: 80%;
+}
+
+form input, form textarea {
+    background-color: transparent;
+    color: var(--text-color);
+    border: 1px solid var(--third-color);
+}
+
+form p > label, form p > input, form p > textarea {
+    width: 100%;
+    display: block;
+    margin-top: 2px;
+    padding: 2px;
+}
+
+form button {
+    background-color: transparent;
+    color: var(--text-color);
+    border-radius: 4px;
+    border: 1px solid var(--third-color);
+}
