@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/453011988658937856/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152884865608912
 tags:
 - 'True'
 - Programming
@@ -15,3 +17,5 @@ title: ''
 ---
 
 Reading other people's code! #True #Programming
+
+Source: [Abstruse Goose | O.P.C.](http://abstrusegoose.com/432)
