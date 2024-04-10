@@ -1,6 +1,9 @@
 ---
-title: "In The Neighborhood"
-date: 2024-04-10T17:43:16+08:00
+date: 2024-04-10 09:43:16
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112246305004301670
+title: In The Neighborhood
 ---
 
 I've lived in this neighborhood for more than 20 years, but I really only started walking around the area regularly around 7-8 years ago when I started freelancing. There's like an area within maybe 2km of my house that I feel like I know pretty intimately because I've walked these streets countless times. I like to take note of when there are new shops or buildings being set up, and conversely, whenever old ones shut down or are lost for whatever reason.
