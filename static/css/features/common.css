@@ -134,3 +134,70 @@ pre {
     list-style-type: none;
     padding: 0;
 }
+
+/* Logs */
+.nick {
+    font-weight: bold;
+}
+
+.nick0 { color: #149A1E; }
+.nick1 { color: #2988D9; }
+.nick2 { color: #A88427; }
+.nick3 { color: #C47098; }
+.nick4 { color: #9D8880; }
+.nick5 { color: red; }
+.nick6 { color: #8BA3BF; }
+.nick7 { color: #4E9D1D; }
+.nick8 { color: #2E7DE5; }
+.nick9 { color: #E56823; }
+
+.quote {
+    font-style: italic;
+    color: green;
+}
+
+.triviaq {
+    font-weight: bold;
+}
+
+.trivia_instruction {
+    font-style: italic;
+}
+
+.bup {
+    color: #cc6666;
+}
+
+.command_b {
+    font-weight: bold;
+}
+
+.command_sarcasm {
+    color: #ff00ff;
+}
+
+.spoiler2 {
+    color: var(--container-color);
+}
+
+.smiley {
+    border: 0;
+    display: inline;
+    height: 2rem;
+    width: auto !important; /* override width from .attachment */
+    margin: 0;
+    box-shadow: none;
+    padding: 0;
+}
+
+img.attachment, video.attachment {
+    width: 300px;
+}
+
+.attachment img {
+    width: 300px;
+}
+
+.logs td {
+    vertical-align: top;
+}
