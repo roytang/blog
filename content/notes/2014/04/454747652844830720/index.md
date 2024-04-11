@@ -1,5 +1,5 @@
 ---
-date: 2014-04-11 22:27:43+00:00
+date: 2014-04-11 22:27:43
 repost_source:
   name: GonzoVice
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/454747652844830720/
+tags:
+- quotes
 title: ''
 ---
 
