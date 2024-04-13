@@ -1,5 +1,5 @@
 ---
-date: 2017-04-12 12:38:00+08:00
+date: 2017-04-12 04:38:00
 dontinlinephotos: true
 repost_source:
   name: Collider.com
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155527110278912
 tags:
 - fbreposts09
+- fordeletion
 ---
-
-
 
 [Watch video on Facebook](https://www.facebook.com/collider/posts/10154598421914366)
 
