@@ -27,3 +27,4 @@ Rounds were:
 We had a couple of bad rounds (the TV one was harder than we expected!). The "Hail Mary" mechanic returned and we were eligible, but it was useless for us as we scored even worse. Winning team was 10pts ahead, so even if we got a perfect score on the HM round it would not have mattered!
 
 [Event Page](https://www.facebook.com/events/577871071151531)
+

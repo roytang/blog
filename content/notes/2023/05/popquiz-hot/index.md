@@ -29,3 +29,4 @@ Rounds were:
 The "Hail Mary" mechanic returned and we were eligible, so round 7 above replaced our lowest scoring round. (They would not agree to replace both 2s!)
 
 [Event Page](https://www.facebook.com/events/567724155342138)
+

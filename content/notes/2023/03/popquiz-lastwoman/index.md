@@ -24,3 +24,4 @@ Rounds were:
 They had a new "Hail Mary" mechanic, where you could replace your lowest scoring round with your score from an extra enumeration question (noted as "HM5" - 5 pts in the attached image), but only if your team ordered a certain amount of food and drinks from the resto. Boo, pay to win! (We won without using it!)
 
 [Event Page](https://www.facebook.com/events/6037435239709879/)
+

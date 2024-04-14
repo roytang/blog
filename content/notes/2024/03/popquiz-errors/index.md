@@ -20,3 +20,4 @@ Rounds were:
 7. (Hail Mary): Name the TS songs from foreign language covers - 5pts
 
 [Event Page](https://www.facebook.com/events/912694420584628)
+

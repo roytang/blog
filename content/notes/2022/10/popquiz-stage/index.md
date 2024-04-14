@@ -25,3 +25,4 @@ The (very blurry because I was in a rush) board picture below implies we tied fo
 I missed an FF7 question in the audio round because I didn't believe it came out in 1997 (which is annoying because I had this exact same convo with another friend group in 2020!). We would have won if I got that, since it was a powered up round!
 
 [Event Page](https://www.facebook.com/events/2389925037825874/)
+

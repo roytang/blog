@@ -23,3 +23,4 @@ The Naruto round was chosen by us as a benefit of placing third [last month](/20
 Despite the poor performance and disastrous ace usage, we still managed to finish in 3rd place. The quiz was very difficult overall, so I guess most of the other teams had trouble too.
 
 [Event Page](https://www.facebook.com/events/5692772940762142/)
+
