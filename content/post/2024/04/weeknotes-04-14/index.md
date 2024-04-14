@@ -1,6 +1,9 @@
 ---
-date: 2024-04-14T11:39:08+08:00
+date: 2024-04-14 03:39:08
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112267855555927852
 tags:
 - weeknotes
 title: Weeknotes 2024-04-14 Spring Cleaning
