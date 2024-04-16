@@ -1,10 +1,12 @@
 ---
-date: 2023-04-17 02:45:54+00:00
+date: 2023-04-17 02:45:54
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1647793479073042433/
+tags:
+- twitter
 ---
 
 Despite this notice, my bot is happily still posting lol 
