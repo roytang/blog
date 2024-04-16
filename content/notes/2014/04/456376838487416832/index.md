@@ -8,7 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152900333948912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152900333928912
-tags: []
+tags:
+- traffic
 ---
 
 Malapit na makabingo
