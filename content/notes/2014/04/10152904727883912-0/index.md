@@ -29,4 +29,4 @@ Cleaning up my shelves. This is all the stuff I had to remove while wiping
 
 <time>[22:48]</time> Vita/3ds games were the first to go back on the shelves. (This is the last post about my shelf cleaning, I promise :p)
 
-{{% img src="20140418_223156.jpg" %}}
+{{% img src="20140418_210956.jpg" %}}
