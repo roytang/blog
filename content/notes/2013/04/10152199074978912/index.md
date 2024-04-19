@@ -15,8 +15,6 @@ Reasons for choosing computer science, by gender. Some fascinating differences s
 
 Reasons for choosing computing majors, by gender. Check out the disparity in "I am interested in helping people or society" and "I have an interest in computer games." More at  http://www.ncwit.org/thefactsgirls
 
-{{% photos 10152199074978912%}}
-
-
+{{% photos %}}
 
 {{% /quoted %}}
