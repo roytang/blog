@@ -1,5 +1,5 @@
 ---
-title: "More Boardgames"
+title: "More Boardgames: Arkham Horror LCG, Conan the Conqueror"
 date: 2023-06-03T23:19:02+08:00
 tags:
 - boardgames
@@ -8,7 +8,7 @@ dontinlinephotos: true
 
 Met up with some friends for boardgames TWICE this week! One of our playgroup is flying back to the US next week so we won't be able to play together in person for a while so we took the opportunity to play as much as we can.
 
-Earlier in the week, we finally managed to finish the Path to Carcosa campaign of Arkham Horror card game. We just barely made it out scenario 7 alive, but scenario 8 was a bit easier. Overall the game is fun and interesting and challenging, but you really need a regular playgroup to go through a campaign. I think the game was designed to be played one scenario per day with your group meeting regularly once or twice a week, instead of our two-scenarios-per-day over four meetings.
+Earlier in the week, we finally managed to finish the Path to Carcosa campaign of Arkham Horror card game, which [we started back in April](/2023/04/arkham-horror-lcg/). We just barely made it out scenario 7 alive, but scenario 8 was a bit easier. Overall the game is fun and interesting and challenging, but you really need a regular playgroup to go through a campaign. I think the game was designed to be played one scenario per day with your group meeting regularly once or twice a week, instead of our two-scenarios-per-day over four meetings.
 
 {{% photos 20230529_211056 %}}
 
