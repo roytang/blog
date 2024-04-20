@@ -3,23 +3,27 @@ date: 2024-04-20 04:03:57
 dontinlinephotos: true
 resources:
 - src: ahic_20240409_141100.jpg
-  title: 'Arkham Horror box with Tony Morgan character card'
+  title: Arkham Horror box with Tony Morgan character card
 - src: ahic_20240409_154317.jpg
-  title: 'Arkham Horror boards can get complicated'
+  title: Arkham Horror boards can get complicated
 - src: ahic_20240412_145022.jpg
-  title: 'So much damage/horror'
+  title: So much damage/horror
 - src: ahic_20240415_155722.jpg
-  title: 'The garotte lets me shank unsuspecting baby deep ones'
+  title: The garotte lets me shank unsuspecting baby deep ones
 - src: ahic_20240417_163748.jpg
-  title: 'The blue star roll of destiny from scenario 7'
+  title: The blue star roll of destiny from scenario 7
 - src: ahic_20240417_211015.jpg
-  title: 'Tony Morgan facing down two ancient ones'
+  title: Tony Morgan facing down two ancient ones
 - src: trv_20240409_125018.jpg
-  title: 'Thunder Road Vendetta box'
+  title: Thunder Road Vendetta box
 - src: trv_20240409_125232.jpg
-  title: 'Command panels and dice and minis'
+  title: Command panels and dice and minis
 - src: trv_20240409_132022.jpg
-  title: 'Most of the cars bunched together at the start and just kept slamming into each other'
+  title: Most of the cars bunched together at the start and just kept slamming into
+    each other
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112301694833434751
 tags:
 - boardgames
 title: 'Boardgames: Thunder Road Vendetta, Arkham Horror LCG Innsmouth Conspiracy'
@@ -47,4 +51,3 @@ The final day with two scenarios was incredibly close, especially scenario 7, wh
 {{% photos ahic %}}
 
 All in all it took us four whole days of playing to finish the campaign! And our US friend was only in town for two weeks this time, so our schedule was super cramped (last year we had a few months to finish the Carcosa campaign). Luckily our schedules were relatively free and there were holidays during this period. The scenarios all felt very difficult; I think the last campaign also felt about the same level of difficulty, but this time we took a lot more time, maybe 3-4 hours per scenario and often going down the wire with the agenda deck. Overall the game remains very exciting and nerve-wracking and probably still best played a scenario at a time over months instead of our crammed schedule!
-
