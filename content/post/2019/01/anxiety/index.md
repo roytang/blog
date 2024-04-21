@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1086504717298077697/
 tags:
 - Self-Improvement
+- anxiety
 title: Anxiety
 type: post
 ---

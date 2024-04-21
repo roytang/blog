@@ -5,6 +5,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106293911509814453
 - type: twitter
   url: https://twitter.com/roytang/status/1397044651383607296/
+tags:
+- anxiety
 title: Anticipation and Anxiety
 ---
 

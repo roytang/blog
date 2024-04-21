@@ -8,6 +8,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/179578318360/anxiety
 - type: twitter
   url: https://twitter.com/roytang/statuses/1057137318627340288/
+tags:
+- anxiety
 title: Anxiety
 type: post
 url: /2018/10/anxiety/
