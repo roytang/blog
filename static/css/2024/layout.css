@@ -262,8 +262,12 @@ blockquote {
     padding-inline-start: 0;
 }
 
-.entry_list li {
+.entry_list > li {
     list-style: none;
+}
+
+ul, ol {
+    padding-inline-start: 3em;
 }
 
 .panel {

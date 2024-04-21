@@ -5,7 +5,7 @@ tags:
 - anxiety
 ---
 
-I consider myself a fully-functioning adult, but sometimes I still get hit with episodes of crippling anxiety that just seem silly right afterwards. This is a story about one of those episodes.
+I consider myself a fully-functioning adult, but sometimes I still get hit with episodes of anxiety that just seem silly right afterwards. This is a story about one of those episodes.
 
 Sometime last month, I had a voucher worth P1000 (a bit less than 20USD these days) for a certain popular drug store chain; let's reference them by the thinly-veiled "MD". This voucher was from a credit cards rewards program; that isn't really relevant. The voucher consists of a QR code that I'm supposed to show when transacting at MD. The QR code is actually a string code representing my voucher.
 
@@ -26,6 +26,8 @@ It's not like I haven't been able to do customer service interactions before; I 
 Even while running the morning's errands the next day, I was internally hemming and hawing over whether I should push through with going back to the MD branch to complain. In the end I did. And one advantage of going there in the morning was that the employee "D" was there again this time (he was not there the previous night), and I spoke to him and told him the whole story. 
 
 Long story short, everything turned out peachy. While he was processing other orders, "D" got the scanning device and confirmed that they did not process any such vouchers on the date in question. I showed him the status message that said it was used at this branch. He tried scanning it again, and I think it also told him the code was used at this branch. He spoke to the manager, and after a while they got back to me and said they need to report it to the head office and asked me to leave my contact details so they could call me back when there's a resolution. I agreed and wrote down my deets and walked back home with a sigh of relief, anxiety overcome. They called me again after a few hours and told me I could just come in to use the voucher at any time, and I went back later that day and used it for my mom's meds. I was just happy to be able to recover that lost value! Also super thankful to the MD branch staff for being helpful and handling everything easily and quickly, no fuss.
+
+I suspect what happened was that the scanner device scanned the code and one of the attempts got through and the backend still processed it even though the frontend had already timed out. Which would be a major bug on their backend side, they should await confirmation before committing a transaction!
 
 In the end, I realized I got anxious for nothing, mostly because I was overthinking things. I was worried that they would take things negatively or think I was trying to scam them and I would have to prove myself or whatever. Maybe I was just lucky that the staff turned out to be very helpful? 
 
