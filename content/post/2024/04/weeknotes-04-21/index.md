@@ -27,7 +27,7 @@ Given I was out of the house a lot, I don't really have a lot to write about tod
 
 - **Gaming**: 
     - Single player: Still just mostly just playing **Stellaris** when I can. Started a new run, trying to play tall and with a federation.
-    - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**, sometimes **Eternal**. Have not had much time but managed to sneak in a couple of Outlaws of Thunder Junction drafts over the past couple of days. They have not gone well.
+    - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**, sometimes **Eternal**. Have not had much time but managed to sneak in a couple of Outlaws of Thunder Junction drafts over the past couple of days. They have not gone well. I did manage to hit [infinite in Marvel Snap](https://roytang.net/2024/04/112290970255509124/) for the 3rd time though!
     - Been playing [some boardgames with friends](/2024/04/thunder-road-innsmouth/) over the past couple of weeks!
   
 - **Reading**: Not a lot this week, a few comics here and there maybe. I have fallen behind on my reading targets.
