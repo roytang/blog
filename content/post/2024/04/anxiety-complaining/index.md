@@ -1,8 +1,11 @@
 ---
-title: "Anxiety When Complaining"
-date: 2024-04-22T08:37:01+08:00
+date: 2024-04-22 00:37:01
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112312146176249132
 tags:
 - anxiety
+title: Anxiety When Complaining
 ---
 
 I consider myself a fully-functioning adult, but sometimes I still get hit with episodes of anxiety that just seem silly right afterwards. This is a story about one of those episodes.
@@ -31,4 +34,4 @@ I suspect what happened was that the scanner device scanned the code and one of 
 
 In the end, I realized I got anxious for nothing, mostly because I was overthinking things. I was worried that they would take things negatively or think I was trying to scam them and I would have to prove myself or whatever. Maybe I was just lucky that the staff turned out to be very helpful? 
 
-It probably helped a lot that I came in with my complaint with a good attitude; I didn't make a scene or accuse anyone of wrongdoing or otherwise raise my voice or anything like that. I calmly told them what the problem was and asked if they could help. It's probably good that I did not immediately come back to complain the previous night when I was tired and frustrated and annoyed! I think in the future I need to remind myself that it is totally okay to raise concerns and try to navigate uncertain scenarios as long as you remain calm and rational and try to assume the best of humans. 
+It probably helped a lot that I came in with my complaint with a good attitude; I didn't make a scene or accuse anyone of wrongdoing or otherwise raise my voice or anything like that. I calmly told them what the problem was and asked if they could help. It's probably good that I did not immediately come back to complain the previous night when I was tired and frustrated and annoyed! I think in the future I need to remind myself that it is totally okay to raise concerns and try to navigate uncertain scenarios as long as you remain calm and rational and try to assume the best of humans.
