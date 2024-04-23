@@ -3,18 +3,21 @@ date: 2024-04-23 12:53:53
 dontinlinephotos: true
 resources:
 - src: blackthorne.png
-  title: 'Unless you win! - Blackthorne'
+  title: Unless you win! - Blackthorne
 - src: mariko.png
-  title: 'Flowers are only flowers because they fall - Mariko'
+  title: Flowers are only flowers because they fall - Mariko
 - src: toranaga.png
-  title: 'Tomorrow is tomorrow - Toranaga'
+  title: Tomorrow is tomorrow - Toranaga
 - src: yabu.png
-  title: "I don't have time for this Christian nonsense! - Yabushige"
+  title: I don't have time for this Christian nonsense! - Yabushige
 reviews:
 - description: A fine adaptation with fantastic performances
   media: tv
   rating: 4.5
   title: Shogun
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112320951955382032
 tags:
 - tv
 title: Shogun (TV Show)
@@ -79,7 +82,7 @@ The first couple of episodes already had me very impressed, as I felt they were 
 
 #### The ending
 
-As mentioned, some show viewers may be disappointed if they were expecting a big showdown with Ishido in the series finale. During Toranaga's monologue to Yabu he implies what he expects to happen at what will eventually be the battle of Sekigahara, but it was never going to be the sort of show or series that would end with a huge setpiece battle. I do wish that the ending had given us a more solid hint of where Toranaga's story was given, even with a short text blurb at the end (mirroring the short text intro at the start of episode 1). In the book we at least see Toranaga making his initial plans and giving out orders for the first skirmishes of the coming war and how he plans to deal with the regents, and we get the short blurb at the end describing what happens when he and Ishido eventually meet on the field. 
+As mentioned, some show viewers may be disappointed if they were expecting a big showdown with Ishido in the series finale. During Toranaga's monologue to Yabu he implies what he expects to happen at what will eventually be the battle of Sekigahara, but it was never going to be the sort of show or series that would end with a huge setpiece battle. I do wish that the ending had given us a more solid hint of where Toranaga's story was going, even with a short text blurb at the end (mirroring the short text intro at the start of episode 1). In the book we at least see Toranaga making his initial plans and giving out orders for the first skirmishes of the coming war and how he plans to deal with the regents, and we get the short blurb at the end describing what happens when he and Ishido eventually meet on the field. 
 
 That being said, the rest of the ending was pretty good, with callbacks to earlier episodes and giving good conclusions for each of the major characters (and even some minor ones), even giving us a fake-out in Blackthorne's "flash forward" dream sequences.
 
