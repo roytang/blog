@@ -14,6 +14,7 @@ syndicated:
 tags:
 - mtg
 - mtgjou
+- bowling
 ---
 
 The outcomes of today's battles:  
