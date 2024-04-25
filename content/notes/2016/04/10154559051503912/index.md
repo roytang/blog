@@ -1,5 +1,5 @@
 ---
-date: 2016-04-26 08:06:00+08:00
+date: 2016-04-26 00:06:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154559051503912
 tags:
 - fbreposts05
+- halalan2016
 ---
 
 More resources on the senatoriables. This looks more comprehensive than the spreadsheet I made too (IDK if I'll be able to update my spreadsheet with all this info)
