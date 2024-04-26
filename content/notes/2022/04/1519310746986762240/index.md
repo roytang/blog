@@ -23,6 +23,7 @@ tags:
 - LeniKiko
 - philippines
 - politics
+- halalan2022
 ---
 
 Last-two-weeks-before-elections thoughts: It's a mistake to look at the large rally attendance numbers or all the #LeniKiko support in our feeds and conclude something like "The surveys must be wrong" or "We are winning"! #philippines #politics

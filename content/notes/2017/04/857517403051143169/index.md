@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/857517403051143169/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155574484718912
+tags:
+- japan2017
 ---
 
 2015: assaulted by deer
