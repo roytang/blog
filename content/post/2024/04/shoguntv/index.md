@@ -26,7 +26,7 @@ toc: true
 
 ### Spoiler-free Review
 
-The final episode of FX's **Shogun** miniseries aired today and I watched it as soon as it was available on Disney+. The [original remains one of my favorite books](/shogun-and-the-rest-of-james-clavells-asian-saga/), so I had been looking forward to this adaptation and it did not disappoint. While I have my nitpicks here and there and overall I wish the series had been longer and had retained more details from the book, I am generally happy with it as an adaptation and must note the fantastic performances by the main cast. The costuming and set design and everything was generally on point and very immersive. The show had so many great moments as well.
+The final episode of FX's **Shogun** miniseries aired today and I watched it as soon as it was available on Disney+. The [original remains one of my favorite books](/2018/11/shogun-and-the-rest-of-james-clavells-asian-saga/), so I had been looking forward to this adaptation and it did not disappoint. While I have my nitpicks here and there and overall I wish the series had been longer and had retained more details from the book, I am generally happy with it as an adaptation and must note the fantastic performances by the main cast. The costuming and set design and everything was generally on point and very immersive. The show had so many great moments as well.
 
 One concern is that people who haven't read the book may have built up some wrong expectations for how the show ends and may find the eventual ending anticlimactic. More on that later!
 
