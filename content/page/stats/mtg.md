@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Oct 2023  | 335 | 1115 | 918 | 2033 | 0.5485 |
+| ALL | Apr 2024 | 356 | 1178 | 978 | 2156 | 0.5464 |
+| [Murders at Karlov](/2024/04/mtgmkm-set-recap/) | Apr 2024 | 21 | 63 | 60 | 123 | 0.5122 |
 | [Lost Caverns of Ixalan](/2024/01/mtglci-set-recap/) | Jan 2024 | 19 | 49 | 55 | 104 | 0.4712 |
 | [Wilds of Eldraine](/2023/10/mtgwoe-limited-recap/) | Oct 2023 | 19 | 74 | 47 | 121 | 0.6116 |
 | [Lord of the Rings: Tales of Middle Earth](/2023/08/mtgltr-limited-recap/) | Aug 2023 | 5 | 9 | 15 | 24 | 0.375 |
