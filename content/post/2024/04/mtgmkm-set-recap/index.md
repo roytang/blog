@@ -2,9 +2,12 @@
 date: 2024-04-25 23:26:25
 resources:
 - src: mkmpd07_trophy.png
-  title: 'Premiere Draft 7 Trophy Deck - WU'
+  title: Premiere Draft 7 Trophy Deck - WU
 - src: mkmpd08_trophy.png
-  title: 'Premiere Draft 8 Trophy Deck - UB'
+  title: Premiere Draft 8 Trophy Deck - UB
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112334888602030009
 tags:
 - mtg
 - limited
