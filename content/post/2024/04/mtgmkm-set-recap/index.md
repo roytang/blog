@@ -81,7 +81,9 @@ The next set has been out for a while, so I'm doing my MTG set recap for Murders
 
 ### Magic Arena Stats
 
-(Waiting on the email)
+{{% photos arenastats %}}
+
+Huh, it turns out I played much fewer games of MKM compared to LCI, I wonder why.
 
 ### Streaming videos
 

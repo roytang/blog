@@ -108,6 +108,7 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Murders at Karlov Manor](/2024/04/mtgmkm-set-recap/#magic-arena-stats) | Apr 2024 | 118 | Black | Player Draft | 84 | Plat1 | Plat4 | 248 | 41,000 | 25,800 |
 | [Lost Caverns of Ixalan](/2024/01/mtglci-set-recap/#magic-arena-stats) | Jan 2024 | 112 | Black | --- | 50 | Dia4 | Plat4 | 333 | 51,750 | 40,400 |
 | [2023 Summary](/2024/01/mtglci-set-recap/#2023-stats) | Jan 2023 | 550 | White | Standard Ranked | 108 | Mythic | Plat3 | 1673 | 221,500 | 176,200 |
 | [Wilds of Eldraine](/2023/10/mtgwoe-limited-recap/#magic-arena-stats) | Nov 2023 | 109 | Green | Exp Ranked | 85 | Dia4 | Gold1 | 261 | 43,500 | 30,550 |
