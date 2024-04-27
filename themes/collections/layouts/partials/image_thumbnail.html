@@ -1,0 +1,45 @@
+{{ $scratch := newScratch }}
+{{ $scratch.Set "thumbnail" (.context.Resize "300x") }}
+{{ $thumb := $scratch.Get "thumbnail" }}
+{{ if not (eq .context.Title .context.Name) }}
+  {{ $scratch.Set "figcaption" .context.Title }}
+{{ else }}
+  {{ $scratch.Set "figcaption" .caption }}
+{{ end }}
+{{ $figcaption := $scratch.Get "figcaption" }}
+
+<a href="#res-{{ .context.RelPermalink | md5 }}-lightbox" id="#tn-{{ .context.RelPermalink | md5 }}">
+    <figure>
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" class="tn" />
+    </figure>
+</a>
+<div class="lightbox" id="res-{{ .context.RelPermalink | md5 }}-lightbox" style="display: none;">
+  <a href="#tn-{{ .context.RelPermalink | md5 }}">
+      <img loading="lazy" src="{{ .context.RelPermalink | safeURL }}" alt="{{ $figcaption }}" title="{{ $figcaption }}" />
+  </a>
+  <div class="lightbox_overlay">
+      <p>{{ $figcaption }}</p>
+      <div class="iconbar">
+          <a href="#tn-{{ .context.RelPermalink | md5 }}" aria-label="Close Image View" title="Close Image View">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-circle" viewBox="0 0 16 16" focusable="false" aria-hidden="true">
+                  <title>Close Image View</title>
+                  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                  <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708"/>
+              </svg>
+          </a>
+          <a href="{{ .mainPermalink }}" aria-label="View original post" title="View original post">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark" viewBox="0 0 16 16" focusable="false" aria-hidden="true">
+                  <title>View original post</title>
+                  <path d="M14 4.5V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h5.5zm-3 0A1.5 1.5 0 0 1 9.5 3V1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V4.5z"/>
+              </svg>
+          </a>
+          <a href="{{ .context.RelPermalink | safeURL }}" aria-label="Download image" title="Download image" download>
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16" focusable="false" aria-hidden="true">
+                  <title>Download image</title>
+                  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5"/>
+                  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+              </svg>
+          </a>
+      </div>
+  </div>
+</div>

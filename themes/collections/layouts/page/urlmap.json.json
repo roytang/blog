@@ -1,0 +1,40 @@
+{
+    {{ range .Site.RegularPages }}
+    "{{ .RelPermalink }}": {
+        "full_url": "{{ .Permalink }}",
+        "kind": "{{ .Section }}",
+        "date": "{{ .Date.Format "2006-01-02" }}",
+        "timestamp": "{{ .Date.Format .Site.Data.Formats.timestampjson }}",
+        "source_path": {{ .File.Path |jsonify }},
+        "wordcount": {{ .WordCount }},
+        {{ if .Params.syndicated }}
+        "syndicated": [
+            {{ range .Params.syndicated }}
+            {
+                "url": "{{ .url }}",
+                "type": "{{ .type }}"
+            },
+            {{ end }}
+            {}
+        ],
+        {{ end }}
+        {{ with .Resources.Match "*.json" }}
+        "comments": [
+            {{ range . }}
+            {
+                {{ $data := . | transform.Unmarshal }}
+                "url": {{ if $data.mention_url }}{{ $data.mention_url |jsonify }}{{ else }}{{ $data.url |jsonify }}{{ end }},
+                "source_file": {{ .Name |jsonify }}
+            },
+            {{ end }}
+            {}
+        ],
+        {{ end }}
+                {{ if .Params.link }}
+        "link": {{ .Params.link.url |jsonify }},
+        {{ end }}
+        "title": {{ .Title | jsonify }}
+    },
+    {{ end }}
+    "Dummy": {}
+}

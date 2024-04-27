@@ -1,0 +1,6 @@
+{{ define "main" }}
+<section class="h-feed">
+    <p class="p-name">All entries tagged {{ .Title }}.</p>
+    {{ partial "block/entry-list" . }}
+</section>
+{{ end }}

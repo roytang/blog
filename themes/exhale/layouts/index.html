@@ -34,14 +34,11 @@
 {{ end }}
 
 
-<h2>Collections</h2>
-<ul class="section-list">
-    {{ $sections := .Site.Data.Home }}
-    {{ $pages := .Site.RegularPages }}
-    {{ range $sections }}
-      <li><a href="{{ .section }}">{{ .label }}</a> {{ .descrip }} ({{ len (where $pages "Section" "==" .section ) }} items)</li>
-    {{ end }}
-</ul>
-
+{{ if .Site.Params.collections }}
+Collections!
+{{ range .Site.RegularPages }}
+{{ . }}
+{{ end }}
+{{ end }}
 
 {{ end }}

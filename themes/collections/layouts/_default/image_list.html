@@ -1,0 +1,16 @@
+
+{{ $mainPermalink := .RelPermalink }}
+{{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
+{{ $caption := .Title | default .Summary }}
+{{ with .Resources.ByType "image" }}
+{{ range . }}
+{{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink "postDate" $postDate) .RelPermalink }}
+
+{{ end }}
+{{ end }}
+{{ range .Resources.Match "*.mp4" }}
+<div class="video">
+    <video id="{{ .Name | safeURL }}" src="{{ .RelPermalink }}" controls></video>
+    <a href="{{ $mainPermalink }}">View post</a>
+</div>
+{{ end }}

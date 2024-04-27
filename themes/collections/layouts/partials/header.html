@@ -1,0 +1,8 @@
+<div class="panel">
+    <a class="baselink" href="{{ .Site.BaseURL }}">
+        {{ .Site.Title }}
+    </a>
+    {{ range .Site.Data.Menus.main_header }}
+    <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+    {{ end }}
+</div>

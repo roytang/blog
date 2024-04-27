@@ -1,0 +1,3 @@
+{{ if .Title }}{{ .Title }}
+{{ else }}New {{ .Section }}
+{{ end }}

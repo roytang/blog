@@ -1,0 +1,17 @@
+{{ if or .Params.featuredImage .Params.featuredResource }}
+<div class="featured_image_wrapper">
+{{ partial "block/featured_image" . }}    
+<div>
+{{ end }}
+
+<div class="content p-summary">
+{{ .Summary }}
+{{ if .Truncated }}
+<p><a href="{{ .Permalink }}">read more ({{ .WordCount }} words)</a></p>
+{{ end }}
+</div>
+
+{{ if or .Params.featuredImage .Params.featuredResource }}
+</div>
+</div>
+{{ end }}
