@@ -70,6 +70,10 @@ Ensembles: Movie 43, expendables, scream, star trek, love actually, gosford park
     - Kundun -> Roger Deakins (Skyfall, Sicario)
 * Mel Gibson 
     - Apocalypto -> Dances with Wolves (via cinematographer)
+* Rick Moranis
+    - Honey I Blew Up/Shrunk the Kid(s) -> Edward Scissorhands (via one of the kids)
+    - Little Shop of Horrors -> Steve Martin, John Candy, Bill Murray
+    - Spaceballs -> Bill Pullman, John Candy
 * Robert Pattinson
     - Good time -> Captain Phillips
 * Robin Williams 
