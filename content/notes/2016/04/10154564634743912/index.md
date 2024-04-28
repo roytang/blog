@@ -7,7 +7,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154564634743912
 - type: twitter
   url: https://twitter.com/roytang/statuses/725742466956062720/
-tags: []
+tags:
+- halalan2016
 ---
 
 Someday maybe the Philippines will be on the front page of reddit for a positive reason. But not today: 
