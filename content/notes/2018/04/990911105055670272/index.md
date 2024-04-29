@@ -12,6 +12,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156605223878912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156617652568912
+tags:
+- panels
 ---
 
 Infinity War spoiler: we didnt get this scene (yet), maybe in avengers 4 
