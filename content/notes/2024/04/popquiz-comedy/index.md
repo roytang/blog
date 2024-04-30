@@ -1,6 +1,11 @@
 ---
-date: 2024-04-21T10:18:10+08:00
+date: 2024-04-21 02:18:10
 location: vault
+resources:
+- src: 440107252_1352401258910115_2373490578197214885_n.jpg
+  title: Photo c/o PopQuiz
+- src: 440332309_1352401292243445_1981396009251162842_n.jpg
+  title: Photo c/o PopQuiz
 tags:
 - quiznight
 - popquiz
@@ -19,4 +24,3 @@ Rounds were:
 6. Song parodies - 8pts
 
 [Event Page](https://www.facebook.com/events/1061321504956640)
-
