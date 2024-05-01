@@ -1,5 +1,5 @@
 ---
-date: 2016-05-02 22:01:00+08:00
+date: 2016-05-02 14:01:00
 dontinlinephotos: true
 repost_source:
   name: Punny Pete
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154572788198912
 tags:
 - fbreposts10
+- puns
 ---
-
-
 
 ~PUNdora
 
