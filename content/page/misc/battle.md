@@ -80,6 +80,8 @@ Ensembles: Movie 43, expendables, scream, star trek, love actually, gosford park
     - One Hour Photo -> Clark Gregg or Never Been Kissed
 * Russell Crowe 
     - The Pope's Exorcist -> Samaritan (via director) -> Stallone
+* Safdies
+    - Uncut Gems -> Daddy Long Legs -> Good Time
 * Sam Raimi 
     - Drag Me To Hell -> Justin Long (Dodgeball, Galaxy Quest, Chipmunks)
 * Samara Weaving 

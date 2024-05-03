@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/13329822010/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/124424217568392
+tags:
+- sc2
 ---
 
 Starcraft 2 confirmed for July 27 release! http://tinyurl.com/254ysdb
