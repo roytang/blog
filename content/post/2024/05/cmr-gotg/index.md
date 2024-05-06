@@ -345,7 +345,7 @@ Total number of titles/volumes covered in this post: 38
 
 Total issues covered so far: 3,841 + 297 = 4,138
 
-Current total (released) according to [the reference reading order](https://cmro.travis-starnes.com/reading-order.php?page=1&list_type=1&limit=30)[^4]: 34,670 (+196 from 2.5 months ago)
+Current total (released) according to [the reference reading order](https://cmro.travis-starnes.com/reading-order.php?page=1&list_type=1&limit=30): 34,670 (+196 from 2.5 months ago)
 
 Progress: 11.9% (11.14% last post)
 
