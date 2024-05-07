@@ -1,7 +1,6 @@
 ---
-date: 2024-05-07 15:21:04
+date: 2024-05-07 06:21:04
 dontinlinephotos: true
-draft: true
 resources:
 - src: cosmic_marvel.jpg
   title: 'Cosmic Marvel Reading Order'
@@ -20,64 +19,59 @@ resources:
 - src: IMG_1525.PNG
   title: 'v7_Guardians of the Galaxy v7 #16: Drax has learned to tell jokes'
 reviews:
-- description: ''
-  hashtag: limited-series-one-shots-ogns_3
-  issues: 4
-  media: comics
-  title: 'Doctor Strange: Fall Sunrise (2023)'
 - description: Ulysses Bloodstone + Classic GotG team
   hashtag: marvel-presents-1975
   issues: 12
   media: comics
-  title: Marvel Presents (1975)
+  title: Marvel Presents
   year: 1975
 - description: Classic GotG team
   hashtag: guardians-of-the-galaxy-v1-1990
   issues: 66
   media: comics
-  title: Guardians of the Galaxy v1 (1990)
+  title: Guardians of the Galaxy v1
   year: 1990
 - description: ''
   hashtag: limited-series
   issues: 4
   media: comics
-  title: Galactic Guardians (1994)
+  title: Galactic Guardians
   year: 1994
 - description: ''
   hashtag: limited-series
   issues: 8
   media: comics
-  title: Guardians 3000 (2014)
+  title: Guardians 3000
   year: 2014
 - description: Abnett and Lansing
   hashtag: guardians-of-the-galaxy-v2-2008
   issues: 25
   media: comics
-  title: Guardians of the Galaxy v2 (2008)
+  title: Guardians of the Galaxy v2
   year: 2008
 - description: First Bendis run
   hashtag: guardians-of-the-galaxy-v3-2013
   issues: 27
   media: comics
-  title: Guardians of the Galaxy v3 (2013)
+  title: Guardians of the Galaxy v3
   year: 2013
 - description: Anthology team-up series
   hashtag: guardians-team-up-2015
   issues: 10
   media: comics
-  title: Guardians Team-Up (2015)
+  title: Guardians Team-Up
   year: 2015
 - description: Second Bendis run
   hashtag: guardians-of-the-galaxy-v4v5-2015
   issues: 25
   media: comics
-  title: Guardians of the Galaxy v4/v5 (2015)
+  title: Guardians of the Galaxy v4/v5
   year: 2015
 - description: Duggan run
   hashtag: all-new-guardians-of-the-galaxy-2017
   issues: 13
   media: comics
-  title: All-New Guardians of the Galaxy (2017)
+  title: All-New Guardians of the Galaxy
   year: 27
 - description: Duggan's Infinity Stone events
   hashtag: infinity-countdown-and-infinity-wars-2018-2019
@@ -102,25 +96,25 @@ reviews:
   - Infinity Warps
   issues: 32
   media: comics
-  title: 'Infinity Countdown and Infinity Wars (2018-2019):'
+  title: 'Infinity Countdown and Infinity Wars'
   year: 2018
 - description: Cates run
   hashtag: guardians-of-the-galaxy-v6-2019
   issues: 13
   media: comics
-  title: Guardians of the Galaxy v6 (2019)
+  title: Guardians of the Galaxy v6
   year: 2019
 - description: Ewing run
   hashtag: guardians-of-the-galaxy-v7-2020
   issues: 19
   media: comics
-  title: Guardians of the Galaxy v7 (2020)
+  title: Guardians of the Galaxy v7
   year: 2020
 - description: Grootfall
   hashtag: guardians-of-the-galaxy-v8-2023
   issues: 11
   media: comics
-  title: Guardians of the Galaxy v8 (2023)
+  title: Guardians of the Galaxy v8
   year: 2023
 - description: ''
   hashtag: one-shots-and-limited-series
