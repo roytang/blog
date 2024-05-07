@@ -3,7 +3,7 @@ date: 2024-05-07 06:21:04
 dontinlinephotos: true
 resources:
 - src: cosmic_marvel.jpg
-  title: 'Cosmic Marvel Reading Order'
+  title: Cosmic Marvel Reading Order
 - src: IMG_1517.PNG
   title: 'GotG v3 #2: The Badoon invade London'
 - src: gtu_IMG_1518.PNG
@@ -15,7 +15,8 @@ resources:
 - src: v4_IMG_1521.PNG
   title: 'Guardians of the Galaxy v4 #12 (contd)'
 - src: IMG_1524.PNG
-  title: 'v7_Guardians of the Galaxy v7 #12: I think I saved this panel because I''m always amused by Prince of Power''s dialogue'
+  title: 'v7_Guardians of the Galaxy v7 #12: I think I saved this panel because I''m
+    always amused by Prince of Power''s dialogue'
 - src: IMG_1525.PNG
   title: 'v7_Guardians of the Galaxy v7 #16: Drax has learned to tell jokes'
 reviews:
@@ -96,7 +97,7 @@ reviews:
   - Infinity Warps
   issues: 32
   media: comics
-  title: 'Infinity Countdown and Infinity Wars'
+  title: Infinity Countdown and Infinity Wars
   year: 2018
 - description: Cates run
   hashtag: guardians-of-the-galaxy-v6-2019
@@ -158,6 +159,9 @@ reviews:
   media: comics
   title: 'Guardians of the Galaxy: Cosmic Rewind'
   year: 2023
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112398985885199419
 tags:
 - comics
 - complete-marvel-run
