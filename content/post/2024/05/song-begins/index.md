@@ -3,20 +3,23 @@ date: 2024-05-07 23:20:50
 dontinlinephotos: true
 resources:
 - src: 20240430_230813.jpg
-  title: 'The box says: "a new, exciting & challenging musical board game for all ages"'
+  title: 'The box says: "a new, exciting & challenging musical board game for all
+    ages"'
 - src: 20240430_233355.jpg
-  title: 'It comes with a smaller box full of cards inside'
+  title: It comes with a smaller box full of cards inside
 - src: 20240430_233420.jpg
-  title: 'There is some other stuff inside, described on the back of the box'
+  title: There is some other stuff inside, described on the back of the box
 - src: 20240430_233515.jpg
-  title: 'The back of the box with rules for play'
+  title: The back of the box with rules for play
 - src: answers.jpg
-  title: 'Answers for the sample cards'
+  title: Answers for the sample cards
 - src: cards.jpg
-  title: 'Sample cards'
+  title: Sample cards
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/1cmuseg/does_anyone_have_any_info_about_a_local_ph_90s/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112404138584837670
 tags:
 - Philippines
 - reddit_submission
