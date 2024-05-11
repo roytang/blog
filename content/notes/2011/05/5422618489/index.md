@@ -5,6 +5,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/5422618489/hes-going-to-be-late
+tags:
+- beartato
 ---
 
 <p>He&rsquo;s going to be late!</p>
