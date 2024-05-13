@@ -1,5 +1,5 @@
 ---
-date: 2013-05-13 22:19:24+00:00
+date: 2013-05-13 22:19:24
 repost_source:
   name: miniver
   type: twitter
@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/334070398947827712/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152235536918912
+tags:
+- google
 title: ''
 ---
 
