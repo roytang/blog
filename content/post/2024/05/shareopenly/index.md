@@ -1,11 +1,13 @@
 ---
-title: "ShareOpenly"
-date: 2024-05-14T14:12:41+08:00
+date: 2024-05-14 06:12:41
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112437983291230867
 tags:
-- meta
 - blogging
 - tech
 - web
+title: ShareOpenly
 ---
 
 [ShareOpenly](https://shareopenly.org/) is a simple tool for sharing links to the fediverse and fediverse-compatible sites like Threads and Bluesky. The tool is made by [Ben Werdmuller](https://werd.io/) ([Some ShareOpenly updates](https://werd.io/2024/some-shareopenly-updates) is his most recent post on the matter.)
