@@ -13,6 +13,9 @@ reviews:
 - media: tv
   rating: 4.0
   title: Fallout season 1
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112434753430852114
 tags:
 - tv
 title: Fallout (TV Show)
