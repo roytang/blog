@@ -32,11 +32,11 @@ body {
     font-size: var(--font-size);
 }
 
-body.comics {
+body.tag_comics {
     background-image: url(tagimgs/houseofmgray2.jpg);
 }
 
-body.software-development {
+body.tag_software-development {
     background-image: url(tagimgs/code.png);
 }
 
