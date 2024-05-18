@@ -87,5 +87,8 @@ Disallow: /
 User-agent: DataForSeoBot
 Disallow: /
 
+User-agent: serpstatbot
+Disallow: /
+
 User-agent: *
 Crawl-delay: 2

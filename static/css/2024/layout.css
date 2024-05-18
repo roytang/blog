@@ -395,5 +395,5 @@ article {
     border: 1px solid var(--second-color);
     border-radius: 2px;
     padding: 2px;
-    background-color: var(--text-color);
+    background-color: gray;
 }

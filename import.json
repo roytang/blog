@@ -42,12 +42,6 @@
             "public": true,
             "section": "topics",
             "source": "topics"
-        },
-        {
-            "path": "content/collections/quotes",
-            "public": true,
-            "section": "quotes",
-            "source": "quotes"
         }
     ]
 }
