@@ -21,9 +21,13 @@
         "cache_feed": true,
         "descrip": "A <a href='https://kottke.org/05/10/tumblelogs'>tumblelog</a> of sorts. Microblog-like status updates, short notes, logs of things I've found."
     },
+    "convos": {
+        "label": "Convos",
+        "page_count": 50,
+        "descrip": "Convos."
+    },
     "replies": {
         "label": "Replies",
-        "cache_feed": true,
         "page_count": 50,
         "descrip": "Replies."
     },

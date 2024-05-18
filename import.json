@@ -22,6 +22,7 @@
             "public": true,
             "section": "blog",
             "source": "post",
+            "cache_html": true, 
             "syndicate": true
         },
         {
