@@ -1,7 +1,11 @@
 ---
 title: "\"AI\"/LLM Mediocrity"
 date: 2024-05-20T20:09:49+08:00
-draft: true
+tags:
+- tech
+- web
+- ai
+- llms
 ---
 
 I recently [shared and quoted from](https://roytang.net/2024/05/997ac087acc16c16a6bb5ce729b21e25/) a link to Molly White's newsletter: [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
