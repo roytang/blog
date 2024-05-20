@@ -36,7 +36,7 @@ I have no idea where most of my week went, though I suspect it was gaming-relate
   
 - **Reading**: Not a lot this week, not even very many comics. T_T
 
-- **Watching**: Watched **Kung Fu Panda** with some of the *pamangkins* last Sunday. **X-Men '97** season finale aired this week; it was good, but not as good as some of the earlier episodes. The season deserves a review soon. Started watching the latest **Star Trek Discovery** season.
+- **Watching**: Watched **Kung Fu Panda 4** with some of the *pamangkins* last Sunday. **X-Men '97** season finale aired this week; it was good, but not as good as some of the earlier episodes. The season deserves a review soon. Started watching the latest **Star Trek Discovery** season.
 
 ### Walking and Health
 

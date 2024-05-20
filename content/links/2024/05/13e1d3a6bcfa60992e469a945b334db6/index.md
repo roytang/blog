@@ -15,5 +15,5 @@ title: We can have a different web
 ---
 
 > "But we often forget: that world is still out there.
-
-The walled enclosures that crowded out much of that acre of developed land still reside within an infinite expanse of possibility. There are no limits to the web — if it has borders, they are ever expanding. We may feel as though we are trapped in a tiny, crowded, noisy space, but it is only because we don't see over the walls."
+> 
+> The walled enclosures that crowded out much of that acre of developed land still reside within an infinite expanse of possibility. There are no limits to the web — if it has borders, they are ever expanding. We may feel as though we are trapped in a tiny, crowded, noisy space, but it is only because we don't see over the walls."
