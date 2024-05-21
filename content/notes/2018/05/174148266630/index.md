@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1067599194037329922/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156654108053912
+tags:
+- panels
 ---
 
 <p>Uncanny X-Men #325 For some reason I always liked the Wolverine and Colossus commentary in this issue</p>

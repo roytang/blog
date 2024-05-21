@@ -29,7 +29,7 @@ I like this article about it by Platformer: [Google’s broken link to the web](
 
 The thing is, the decision seems completely justifiable from a business perspective (because keeping people in Google's walled garden lets them hog the advertising income) and from a customer perspective. That last one is because honestly, I don't think most people who are online care about the web or understand what it is really. 
 
-Most people don't really wake up in the morning and say "hey, I think I'll surf the web today!" or "I think I'll check out some websites!" If they find some idle time they will browse social media platforms and those few brave souls who venture off into search engines are usually only there looking for specific answers, so delivering those specific answers to them directly saves them the effort of looking through all the search results to get what they want. 
+Most people don't really wake up in the morning and say "hey, I think I'll surf the web today!" or "I think I'll check out some websites!" If they find some idle time they will browse social media platforms (an activity we now refer to as "doomscrolling", carrying a much more sinister tinge than just "surfing") and those few brave souls who venture off into search engines are usually only there looking for specific answers, so delivering those specific answers to them directly saves them the effort of looking through all the search results to get what they want. 
 
 It didn't used to be like this of course. I [shared a link](/2024/05/13e1d3a6bcfa60992e469a945b334db6/) before from Molly White: [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/). Excerpt:
 
