@@ -1,0 +1,11 @@
+{
+  "id": "48ccff40-624f-44a9-b29d-2adbf161c897",
+  "name": "wizzwizz4",
+  "url": "https://fosstodon.org/@wizzwizz4",
+  "text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@roytang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roytang</span></a></span> Pretty much none of the backend developments are good. The frontend developments that are actually for websites? Service workers (sometimes), some new HTML elements, ARIA\u2026 that's it. Frameworks are a lie.</p><p>CSS is the only webdev thing that's actually hard (source: I'm the person my friends go to when they need CSS expertise, and I can usually answer from memory, yet I don't know enough CSS to make a website), and it's one of the least valued skills.</p><p>Testing indeed doesn't exist.</p>",
+  "date": "2024-05-21 00:57:12 +0800",
+  "photo": "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/000/009/677/original/30c4430aa61a274b.png",
+  "source_url": "https://fosstodon.org/users/wizzwizz4/statuses/112474471322640479",
+  "source": "mastodon",
+  "spam": false
+}
