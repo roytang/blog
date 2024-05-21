@@ -1,12 +1,15 @@
 ---
-title: "Is Google Killing The Web?"
-date: 2024-05-21T22:03:42+08:00
+date: 2024-05-21 14:03:42
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112479682946460161
 tags:
 - web
 - tech
 - llms
 - ai
-dontinlinephotos: true
+title: Is Google Killing The Web?
 ---
 
 Google recently announced its search engine would begin deprioritizing web search results in favor of AI-generated summaries. I am not sure if it is enabled in our country yet, but we already have the "Web" tab of search results relegated to like 7th place, hidden behind a "More" tab. 
