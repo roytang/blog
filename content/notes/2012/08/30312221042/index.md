@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/240064331558027264/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151821833168912
+tags:
+- panels
 ---
 
 <p>No idea if All New X-Men is going to be any good, but I really like the currently available preview cover.</p>
