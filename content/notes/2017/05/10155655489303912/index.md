@@ -1,5 +1,5 @@
 ---
-date: 2017-05-26 02:58:00+08:00
+date: 2017-05-25 18:58:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155655489303912
 tags:
 - fbreposts06
+- duterte
 ---
 
 I held off on commenting about this for a while because seriously? We already knew the president has no shame, but here he is publicly admitting that he's firing someone simply for disagreeing with his 5-year old hearsay data where we don't even know how that data was collected.  Think about what this means for anyone working in government who gathers data - if your data goes against the president's whims, better not release it or you risk losing your job. Truth is a secondary matter as compared to the president's caprice. Now, whenever someone from the government posts "data" you have to ask yourself - is this data legitimate, or is someone afraid of getting fired?  
