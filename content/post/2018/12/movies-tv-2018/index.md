@@ -105,6 +105,12 @@ reviews:
   media: tv
   rating: 0.0
   title: Jessica Jones season 2
+- date: '2018-07-07'
+  description: ''
+  hashtag: luke-cage-season-2
+  media: tv
+  rating: 0.0
+  title: Luke Cage season 2
 - date: '2018-07-27'
   description: ''
   hashtag: final-space-season-1
@@ -463,6 +469,12 @@ The pacing was good throughout the season (which was one of the weakness of the 
 <time>[2018-03-10 12:25] </time> Jessica Jones S2: In which dark things happen and everyone crosses lines they shouldn't cross
 
 [Comments](#comment-17cd6094-b523-4026-b3a8-4cf33052b68f)
+
+---
+
+#### Luke Cage season 2
+
+<time>[2018-07-07] </time> Editing this in 2024 to add this entry. Apparently I had watched Luke Cage season 2 on Netflix and had not logged a review. I initially thought I had missed it, so I checked out the first episode on Disney+ and a lot of it looked familiar so I checked my NF viewing history. Watched the first episode on 6/23 and binged the second half of the season from 7/5-7/7. I don't remember much, but apparently this season's villain was Bushmaster. I also found some comments from me about one of the characters (I assume Bushmaster) having an accent that I wouldn't be able to understand without subtitles. Also, this season aired after Avengers Infinity War, so I had been hoping someone gets dusted in an epilogue or whatever, but no such luck.
 
 ---
 

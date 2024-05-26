@@ -1,5 +1,5 @@
 ---
-date: 2016-05-27 05:14:00+08:00
+date: 2016-05-26 21:14:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154627147028912
 tags:
 - fbreposts05
+- mtg
 ---
 
 Amazing. Qualified ako somehow for WMCQs this year (despite being "inactive")! Counted pa pala yung last 2 GPs I played last year~
