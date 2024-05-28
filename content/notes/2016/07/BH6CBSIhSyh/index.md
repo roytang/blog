@@ -48,3 +48,5 @@ Lets go #mtgemn
 <time>[16:02]</time> 2nd pod actually had better pulls! #mtgemn
 
 <time>[21:29]</time> bah 2nd pod only went 2-2 #mtgemn
+
+<time>[2024-05-28]</time> Added a photo of the prerelease box for posterity.
