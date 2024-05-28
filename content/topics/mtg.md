@@ -89,7 +89,7 @@ I know, I know this page layout could use a lot of work.
 | **2010** |
 | **Oct** | Scars of Mirrodin | [Prerelease](/2010/09/scars-of-mirrodin-prerelease-report/) [Set Recap](/2010/12/scars-of-mirrodin/) | |
 | **Jul** | Magic 2011 | [Set Recap](/2010/09/magic-2011/) | |
-| **Apr** | Rise of the Eldrazi | [Prerelease](/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | [Nationals Qualifiers](/2010/08/mtg-natsq/) |
+| **Apr** | Rise of the Eldrazi | [Prerelease](/2010/04/rise-of-eldrazi-prerelease-report/) [Limited Impressions](/2010/04/rise-of-eldrazi-limited-impressions/) | [Nationals Qualifiers](/2010/08/mtg-natsq/) |
 | **Feb** | Worldwake | [Set Recap](/2010/03/worldwake/) | |
 | **2009** |
 | **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) [Set Recap](/2009/12/zendikar/) | |

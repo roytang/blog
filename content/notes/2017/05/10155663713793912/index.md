@@ -1,11 +1,13 @@
 ---
-date: 2017-05-28 16:52:00+00:00
+date: 2017-05-28 16:52:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155663713793912
 - type: twitter
   url: https://twitter.com/roytang/statuses/868872820817891329/
+tags:
+- duterte
 title: ''
 ---
 
@@ -15,7 +17,7 @@ For the record, I'm not against ML in Marawi. I agree with decisive action again
 
 Only semi-related: someone on my feed earlier (I forget who) commented that the usual media outlets always try to make the president look bad and the LP look good. To be honest, that's got to be one of the easiest jobs in the world. I mean, the president doesn't really need any help there. He comes up with a nearly consistent 2-3 WTFs per day, minimum.* Many of our corrupt politicians might look better if they stood beside him; I've seen people who were so vehemently anti-Binay during the past elections comment that sana si Binay na lang nanalo.
 
-http://www.gmanetwork.com/.../duterte-vows-to.../story/
+https://www.gmanetwork.com/news/topstories/nation/612409/duterte-vows-to-ignore-supreme-court-on-martial-law/story/
 
 *hyperbole, maybe
 
