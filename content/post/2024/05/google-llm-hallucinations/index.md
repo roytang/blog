@@ -1,10 +1,13 @@
 ---
-title: "Google's LLM Hallucinations"
-date: 2024-05-29T13:30:21+08:00
+date: 2024-05-29 05:30:21
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112523678537304174
 tags:
 - tech
 - llms
 - ai
+title: Google's LLM Hallucinations
 ---
 
 Previously: [Is Google Killing The Web?](/2024/05/google-vs-web/)
