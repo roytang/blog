@@ -29,7 +29,9 @@ So that got me thinking: can this problem actually be solved? In order for an LL
 - are the views expressed in the document niche or wildly held?
 - etc etc
 
-All of which to say is that the LLMs have to have context of whether the source documents are likely accurate or reliable, and this is basically editorializing! Taking it upon themselves to use an LLM to provide "answers" means taking away the agency of users to make their own judgment calls! 
+All of which to say is that the LLMs have to have context of whether the source documents are likely accurate or reliable, and this is basically editorializing! 
+
+These hallucinations aren't strictly an LLM thing. Long before the current trend, the internet was already filled with clickbait and fake news and scammers and spammers. But when Google takes it upon themselves to use an LLM to summarize these texts and provide "answers", it takes away the agency of users to make their own judgment calls! 
 
 And while in theory we do have document classification models, good luck with that! We can't even get 100% of humans to agree on many basic facts! [^2] Such models would necessarily skew one way or another, probably disregarding minority opinions along the way (furthering political divides and marginalzation, etc). 
 
