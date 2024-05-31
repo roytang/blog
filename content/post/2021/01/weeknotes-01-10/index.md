@@ -1,5 +1,11 @@
 ---
 date: 2021-01-10 07:32:50
+reviews:
+- description: ''
+  hashtag: star-trek-discovery-season-3
+  media: tv
+  rating: 3.0
+  title: Star Trek Discovery season 3
 slug: weeknotes-2021-01-10
 syndicated:
 - type: mastodon
@@ -8,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1348192375290486787/
 tags:
 - weeknotes
+- tv
 title: Weeknotes 2021-01-10 Now With More Links
 ---
 
@@ -47,7 +54,7 @@ When I started these weeknotes, I sometimes put in a section with recent links I
 - Watching:
     - I binged season 3 of **Cobra Kai** in under 24 hours. Still greatly enjoying it, despite the high school drama. I really like the evolving dynamic between Johnny and Daniel, and the callbacks to all 3 Karate Kid movies.
     - For my background watching I started **Spectacular Spider-Man** on Netflix. Not bad for a kids' show, covers most of the mythos fairly well, though I'm disappointed at how Peter treats Gwen like a sidekick given in the comics she's the love of his life. I'm only halfway through, maybe that changes later? I always felt Spider-man was better as a serialized TV series than the constant movie reboots. He has a lot of nice street-level villains and supporting cast that can only feature in a longer storyline than blockbuster movies can afford. Oh well.
-    - **Star Trek Discovery** Season 3 finale was this week. Nothing too exceptional, I mean, we knew they were going to pull out a win somehow, there were very few surprises. Star Wars wins 2020 I guess lol.
+    - <p id="star-trek-discovery-season-3">**Star Trek Discovery** Season 3 finale was this week. Nothing too exceptional, I mean, we knew they were going to pull out a win somehow, there were very few surprises. Star Wars wins 2020 I guess lol.</p>
 - Gaming:
     - **Fire Emblem Three Houses** still ongoing. I actually took a few days break this week because I felt like I was playing it a bit too much lol. I think I'm fairly close to the end though.
     - MTG: **Kaldheim** preview season kicked off this week, but nothing too exciting for me so far, though there's a lot of interesting cards of course. Lore-wise, I do like how they translated a lot of the Norse myth stuff into card form.

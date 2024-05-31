@@ -446,6 +446,7 @@ The pacing was good throughout the season (which was one of the weakness of the 
 #### Star Trek Discovery season 1
 
 <time>[2018-02-01 22:45] </time> My train of thought as I'm catching up with Star Trek Discovery
+
 - this is great
 - there's no way they could have done most of this stuff while Gene Roddenberry was around
 - I know we just got a Netflix series, but I think Jason Isaacs could play The Punisher

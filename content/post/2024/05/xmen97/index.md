@@ -16,7 +16,7 @@ tags:
 title: X-Men 97 (season 1)
 ---
 
-(Spoilers in the photos towards the end of the post)
+(Spoilers in the screenshots towards the end of the post)
 
 As an enjoyer of both the older X-Men '92 animated series and the 90's era X-Men comics, I admit to a bit of worry about X-Men 97 before it aired; it would be so easy to ruin the legacy of the older series with a subpar follow-up. Luckily, that worry was misplaced. The team understood the assignment and knocked it out of the park. I very much enjoyed the first season; unsurprisingas I am pretty much the target audience.
 
