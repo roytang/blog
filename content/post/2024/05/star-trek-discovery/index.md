@@ -16,7 +16,7 @@ Previously:
 - [Season 1](/2018/12/movies-tv-2018/#star-trek-discovery-season-1) (Federation-Klingon war, Mirror Universe)
 - [Season 2](/2019/04/watching-lately-apr-2019/) (Introduction of Pike/Enterprise, Control, Red Angel)
 - [Season 3](/2021/01/weeknotes-2021-01-10/#star-trek-discovery-season-3) (32nd century, Booker, The Burn, Ossyra)
-- [Season 4](/2022/03/watching-mar-2022/) (DMA, Species 10-C)
+- [Season 4](/2022/03/watching-mar-2022/#star-trek-discovery-season-4) (DMA, Species 10-C)
 
 I think one of the main problems with Star Trek Discovery had was that it was always way too earnest and intense, Michael Burnham almost constantly emoting into the camera, the crew constantly jumping from crisis to crisis, something that is very tonally different from the prior ST tv series. In fact, it might be closer in tone to the Kelvin universe movies. I did enjoy most of the sci-fi treatments, especially the timey-wimey stuff (I always enjoy timey-wimey stuff!)
 
