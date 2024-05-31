@@ -1,14 +1,17 @@
 ---
-title: "Star Trek Discovery (season 5 and series recap)"
-date: 2024-05-31T23:13:44+08:00
+date: 2024-05-31 15:13:44
 reviews:
 - description: ''
   media: tv
   rating: 3.5
   title: Star Trek Discovery season 5
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112536752730467638
 tags:
 - tv
 - startrek
+title: Star Trek Discovery (season 5 and series recap)
 ---
 
 Previously: 
