@@ -5,6 +5,8 @@ date: 2016-05-31 07:49:54
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/737551762349907968/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10161001481078912
 tags:
 - ccgs
 - Gaming
