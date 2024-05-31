@@ -2,14 +2,18 @@
 date: 2024-05-30 14:53:48
 resources:
 - src: Screenshot 2024-05-03 101659.png
-  title: 'Magneto was right!!'
+  title: Magneto was right!!
 - src: Screenshot 2024-05-09 005155.png
-  title: 'When this scene happened in ep09 I was like "Wow, those bastards really did it", and I just had to get the corresponding page from X-Men #25 for comparison'
+  title: 'When this scene happened in ep09 I was like "Wow, those bastards really
+    did it", and I just had to get the corresponding page from X-Men #25 for comparison'
 reviews:
 - description: ''
   media: tv
   rating: 4.5
   title: X-Men 97 (season 1)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112532867583321757
 syndication_attachments: false
 tags:
 - tv
