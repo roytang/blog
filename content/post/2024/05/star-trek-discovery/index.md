@@ -33,4 +33,6 @@ Season 5 is a bit of an anthology story hidden behind a treasure hunt for a powe
 
 The double-length series finale maintains Discovery's trend of wrapping things up neatly in a nice bow (with the eventual fate of the McGuffin being completely unsurprising). We also get a bit of an epilogue looking back at the history of the series and even a bit of fan service for longer-term Trekkies at the end.
 
+Favorite character: Action Saru! The best thing about this portrayal is how when he's walking casually, his tall, lanky arms are waving hynoptically.
+
 No matter what, Star Trek Discovery deserves credit for launching a new era of Star Trek TV, more than a decade after *Enterprise*. Without Discovery's initial success we might not have gotten the terrific *Strange New Worlds* and *Lower Decks*! The series wrapped up nicely and introduced us to an entire new era of possible Star Trek stories.
