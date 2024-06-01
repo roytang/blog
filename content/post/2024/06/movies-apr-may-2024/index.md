@@ -1,5 +1,5 @@
 ---
-date: 2024-06-01 15:02:39+08:00
+date: 2024-06-01 07:02:39
 dontinlinephotos: true
 resources:
 - src: godzilla-king-of-the-monsters-2019.jpg
@@ -71,6 +71,8 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/godzilla-2014/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/the-out-laws/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112540094317373290
 tags:
 - movies
 title: Movies Watched - Apr/May 2024
