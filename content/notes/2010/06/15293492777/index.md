@@ -13,4 +13,4 @@ tags:
 - chrisguillebeau
 ---
 
-What your email address says about your computer skills - http://bit.ly/crf4Wz
+What your email address says about your computer skills - https://theoatmeal.com/comics/email_address

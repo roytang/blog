@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152999964028912
 tags:
 - tv
+- gameofthrones
 ---
 
 "HE DIED!" - how I know my brother was watching Game of Thrones
