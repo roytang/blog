@@ -23,6 +23,8 @@ Ensembles: Movie 43, expendables, scream, star trek, love actually, gosford park
     - Hall Pass -> Farellys or Sudeikis
 * Brad Pitt
     - World War Z -> Paddington 2 or The Suicide Squad (via Capaldi)
+* Bruce Willis
+    - Detective Knight: Rogue -> Detective Knight: independence -> starship troopers
 * Cameron Diaz
     - Last Supper -> Ron Perlman
     - Feeling Minnesota -> Keanu
