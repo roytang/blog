@@ -25,6 +25,8 @@ reviews:
 syndicated:
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/the-first-slam-dunk/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112553486263142795
 tags:
 - movies
 - comics
