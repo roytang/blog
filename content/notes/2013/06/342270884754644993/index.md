@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/342270884754644993/
 tags:
 - comics
+- webcomics
 ---
 
 Quite possibly the best breakfast-oriented Wolverine story in existence: http://www.faitherinhicks.com/wolverine/index.html
