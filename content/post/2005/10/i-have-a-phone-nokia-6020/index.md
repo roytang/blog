@@ -9,6 +9,7 @@ syndicated:
 tags:
 - Hardware
 - Tech Life
+- phones
 title: I Have A Phone! (Nokia 6020)
 type: post
 url: /2005/10/i-have-a-phone-nokia-6020/

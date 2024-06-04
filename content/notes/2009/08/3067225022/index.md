@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3067225022/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/109694426036
+tags:
+- phones
 ---
 
 bought a nokia 5800

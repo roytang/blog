@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1150316625717059584/
 tags:
 - tech life
+- phones
 title: Samsung Galaxy A50
 type: post
 ---

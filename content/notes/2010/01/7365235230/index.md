@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/7365235230/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/238738202244
+tags:
+- phones
 ---
 
 it makes me sad that the nokia 5800 does not have a pdf reader
