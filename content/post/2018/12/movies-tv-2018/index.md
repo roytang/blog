@@ -503,7 +503,7 @@ The pacing was good throughout the season (which was one of the weakness of the 
 
 <time>[2018-09-13] </time> Editing this in 2024 to add this entry. Apparently I had watched this season and had not logged a review. I initially thought I had missed it, so I checked out the first episode on Disney+ and a lot of it looked familiar, so I checked some chat logs and found I finished it about a week after the season dropped. It looks like I liked the season much better than season 1 and found the ending adequate, though IDK if any of that ever happened in the comics. I did end up rewatching the season finale to recall what happened this season. At least we got an actual martial arts-focused big bad and the fight choreography was much better this season.
 
-It's too bad this series ended where it did, it hinted at so many things that could have been good, like Nightwing restorations, etc.
+It's too bad this series ended where it did, it hinted at so many things that could have been good, like Nightwing restorations, and the pirate queen Iron Fist etc.
 
 ---
 

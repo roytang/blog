@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/2054551433/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/97121990975
+tags:
+- mtg
 ---
 
 finally decided to play tomorrow (to try to catch up on rating)...but it seems I left my standard deck at the office &gt;.&lt;
