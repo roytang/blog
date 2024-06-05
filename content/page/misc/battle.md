@@ -23,6 +23,9 @@ Ensembles: Movie 43, expendables, scream, star trek, love actually, gosford park
     - Hall Pass -> Farellys or Sudeikis
 * Brad Pitt
     - World War Z -> Paddington 2 or The Suicide Squad (via Capaldi)
+* Bruce Campbell
+    - (no Sam Raimi) Sky High
+    - (no Sam Raimi) Cars 2 
 * Bruce Willis
     - Detective Knight: Rogue -> Detective Knight: independence -> starship troopers
 * Cameron Diaz
@@ -85,7 +88,8 @@ Ensembles: Movie 43, expendables, scream, star trek, love actually, gosford park
 * Safdies
     - Uncut Gems -> Daddy Long Legs -> Good Time
 * Sam Raimi 
-    - Drag Me To Hell -> Justin Long (Dodgeball, Galaxy Quest, Chipmunks)
+    - (no Bruce Campbell) Drag Me To Hell -> Justin Long (Dodgeball, Galaxy Quest, Chipmunks)
+    - (no Bruce Campbell) For the Love of the Game -> Costner, John C Reilly, Brian Cox
 * Samara Weaving 
     - Ready or Not -> Andie McDowell (Groundhog Day)
     - Last Moment of Clarity -> Brian Cox (Braveheart, Bourne Identity/Supremacy)

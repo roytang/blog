@@ -5,8 +5,6 @@ date: 2018-10-29 05:02:53
 reviews:
 - media: tv
   title: Tom Clancy's Jack Ryan
-- media: tv
-  title: Daredevil season 3
 - media: movies
   title: Batman Ninja (2018)
 syndicated:

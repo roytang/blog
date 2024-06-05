@@ -123,6 +123,12 @@ reviews:
   media: tv
   rating: 0.0
   title: Young Justice seasons 1 and 2
+- date: '2018-09-13'
+  description: ''
+  hashtag: iron-fist-season-2
+  media: tv
+  rating: 0.0
+  title: Iron Fist season 2
 - date: '2018-10-23'
   description: Spoiler-free review
   hashtag: daredevil-season-3
@@ -493,6 +499,12 @@ The pacing was good throughout the season (which was one of the weakness of the 
 
 ---
 
+#### Iron Fist season 2
+
+<time>[2018-09-13] </time> Editing this in 2024 to add this entry. Apparently I had watched this season and had not logged a review. I initially thought I had missed it, so I checked out the first episode on Disney+ and a lot of it looked familiar, so I checked some chat logs and found I finished it about a week after the season dropped. It looks like I liked the season much better than season 1 and found the ending adequate, though IDK if any of that ever happened in the comics. I did end up rewatching the season finale to recall what happened this season. It was still unsurprisingly about the annoying Meachums lol. At least the fight choreography was much better this season.
+
+---
+
 #### Daredevil season 3
 
 <time>[2018-10-23 08:47] </time> Daredevil Season 3 spoiler-free review
@@ -505,6 +517,8 @@ The pacing was good throughout the season (which was one of the weakness of the 
 - I used to consider Daredevil S1 to be the best of the Marvel/Netflix seasons so far; I think I have to crown a new champion
 
 [Comments](#comment-e9d0c6d5-5a03-4962-aee8-d7e848ecb45c)
+
+I have more spoilery comments in the [October 2018 Watching Lately](/2018/10/october-2018-watching-lately/)
 
 ---
 
