@@ -57,6 +57,12 @@ reviews:
   media: movies
   rating: 0.0
   title: 'Star Wars Episode VIII: The Last Jedi (2017)'
+- date: '2017-04-22'
+  description: ''
+  hashtag: iron-fist-season-1
+  media: tv
+  rating: 0.0
+  title: Iron Fist season 1
 - date: '2017-05-21'
   description: ''
   hashtag: designated-survivor-season-1
@@ -120,6 +126,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/880076191356420096/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155967044973912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/848892897067802624/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155498954203912
 tags:
 - movies
 - tv
@@ -276,6 +286,25 @@ LOGAN Spoiler-Free review:
 ---
 
 ### TV
+
+#### Iron Fist season 1
+
+<time>[2017-04-03 21:40] </time> Currently at episode 8 of Iron Fist. This sums up my reaction so far:
+
+{{% photos 848892897067802624-C8ffeiRVwAEOiHb %}}
+
+[Comments](#comment-cbcabf3b-2953-4ff0-98c8-2e8d89d7b621)
+
+<time>[2017-04-22] </time> Editing this in 2024 to add this entry. Apparently I watched this when it came out but finished watching it on Netflix on the very first day of our [2017 Japan Trip](/tags/japan2017/) and never got around to writing a review.
+
+Some comments I said to my brother: 
+
+- I was annoyed at how Finn Jones didn't even bother shaving, because Danny Rand never had that much facial hair in the comics
+- So many WTH moments
+
+Looking back, the main issue with this season is that Iron Fist is supposed to be the champion and best martial artist of Kun-Lun, and there is no way Danny Rand meets that expectation. On top of that, the fight choreography in the show isn't great, notably worse than Daredevil. And the season's final boss ends up being Meachum family drama! It should have been a show about insanely good martial arts, instead it ended up being about drugs and illegal business dealings. Overall a missed opportunity.
+
+---
 
 #### Designated Survivor season 1
 
