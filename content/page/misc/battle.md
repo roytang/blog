@@ -90,6 +90,7 @@ Ensembles: Movie 43, expendables, scream, star trek, love actually, gosford park
 * Sam Raimi 
     - (no Bruce Campbell) Drag Me To Hell -> Justin Long (Dodgeball, Galaxy Quest, Chipmunks)
     - (no Bruce Campbell) For the Love of the Game -> Costner, John C Reilly, Brian Cox
+    - (any Sam Raimi with Ted Raimi) -> (no Sam Raimi) Clear and Present Danger, Patriot Games via Ted Raimi
 * Samara Weaving 
     - Ready or Not -> Andie McDowell (Groundhog Day)
     - Last Moment of Clarity -> Brian Cox (Braveheart, Bourne Identity/Supremacy)
