@@ -1,5 +1,5 @@
 ---
-date: 2013-06-08 10:01:38+00:00
+date: 2013-06-08 10:01:38
 dontinlinephotos: true
 repost_source:
   name: ANCALERTS
@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/343306818216394755/
+tags:
+- pugadbaboy
 title: ''
 ---
 
