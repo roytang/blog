@@ -44,7 +44,7 @@ On the blog: [One more ranty AI/LLM post about Google's LLM Hallucinations](/202
 
 ### Walking and Health
 
-This past week (Sunday through Saturday) Google Fit says I walked a total of 60,158. I was unable to walk during last Sunday because the rains were really bad during that day, so I'm kind of just happy to get to 60k. It does feel a bit disappointing whenever I don't hit 70k for the week, but looking over the year to date, it looks like I have only missed around 7 days worth of steps total, which is a pretty good rate!
+This past week (Sunday through Saturday) Google Fit says I walked a total of 60,158 steps. I was unable to walk during last Sunday because the rains were really bad during that day, so I'm kind of just happy to get to 60k. It does feel a bit disappointing whenever I don't hit 70k for the week, but looking over the year to date, it looks like I have only missed around 7 days worth of steps total, which is a pretty good rate!
 
 ### Website Changes
 

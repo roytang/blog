@@ -1,6 +1,7 @@
 ---
 title: "Don Conejos Quiz Night #2"
 date: 2024-05-09T23:59:00+08:00
+location: donconejos
 tags:
 - quiznight
 ---

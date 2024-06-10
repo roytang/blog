@@ -1,6 +1,7 @@
 ---
 title: "Jason Quiz Night @ Don Conejos"
 date: 2024-04-11T23:28:09+08:00
+location: donconejos
 tags:
 - quiznight
 ---
