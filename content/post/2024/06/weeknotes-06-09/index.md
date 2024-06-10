@@ -26,7 +26,7 @@ On the blog: [Wrote about Slam Dunk](/2024/06/slam-dunk/)! Wish I had the time a
 ### Media Diet
 
 - **Gaming**: 
-    - Single player: Still playing a lot of **Hades** again, though there are soooo many other games I want to play. To that end, when I passed by the mall I decided to get a copy of **Paper Mario: Thousand Year Door** for Switch (haven't tested it yet). After I bought that, suddenly **Octopath Traveller** 1 and 2 dropped on Game Pass, then **Marvel's Midnight Suns** became free on epic and I'm like @_@. Given all of these options, I decided to start playing [Eiyuden Chronicle: Hundred Heroes](https://www.youtube.com/watch?v=9h9gfq8_H1A) instead!
+    - Single player: Still playing a lot of **Hades** again, though there are soooo many other games I want to play. To that end, when I passed by the mall I decided to get a copy of **Paper Mario: Thousand Year Door** for Switch (haven't tested it yet). After I bought that, suddenly **Octopath Traveler** 1 and 2 dropped on Game Pass, then **Marvel's Midnight Suns** became free on epic and I'm like @_@. Given all of these options, I decided to start playing [Eiyuden Chronicle: Hundred Heroes](https://www.youtube.com/watch?v=9h9gfq8_H1A) instead!
     - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**, sometimes **Eternal**. 
   
 - **Reading**: Still just more comics, mostly just Marvels. 
