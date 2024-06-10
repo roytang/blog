@@ -8,7 +8,7 @@ date: 2021-12-13
 submenu: "stats"
 ---
 
-### Live Stats (Automatically updated)
+### Live Stats (Up-to-date)
 
 #### Totals
 
