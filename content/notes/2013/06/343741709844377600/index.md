@@ -10,6 +10,7 @@ syndicated:
   url: https://www.reddit.com/r/comics/comments/1fz743/angry_words/caf9c18/
 tags:
 - comics
+- foxtrot
 ---
 
 I should make these apps http://www.foxtrot.com/comics/2013-06-09-0c904dc1.png
