@@ -1,9 +1,12 @@
 ---
-title: "Google Timeline and Microsoft Recall"
-date: 2024-06-11T13:32:44+08:00
+date: 2024-06-11 05:32:44
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112596981748729324
 tags:
 - tech
+title: Google Timeline and Microsoft Recall
 ---
 
 ### Google Timeline
