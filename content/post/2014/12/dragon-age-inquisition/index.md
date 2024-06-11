@@ -14,20 +14,6 @@ resources:
   title: ''
   tags:
   - pickups
-- src: comment-20141129-000200-facebook-7e3ab700-bda6-4024-b8ad-b15578c797e7.json
-  title: ''
-- src: comment-20141129-000201-facebook-22cd48f3-d39a-438b-bb1d-d2d15f672d67.json
-  title: ''
-- src: comment-20141129-000202-facebook-baf30099-e0a4-4344-b17f-97ab14bd0c5b.json
-  title: ''
-- src: comment-20141129-000203-facebook-efc280cb-c6ea-4f3b-9a57-06f69c483725.json
-  title: ''
-- src: comment-20141210-231355-youtube-76eacb42-e910-4b98-8350-a0d59fe64f88.json
-  title: ''
-- src: comment-20141210-231356-youtube-65da74d0-d63c-4fa5-8308-732f87a7d8cb.json
-  title: ''
-- src: comment-20141210-231357-youtube-242e3371-bd49-489d-9a03-ecedc2708765.json
-  title: ''
 reviews:
 - date: 2014-12-26
   media: games
