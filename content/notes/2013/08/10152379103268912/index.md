@@ -1,9 +1,11 @@
 ---
-date: 2013-08-01 17:54:00+00:00
+date: 2013-08-01 17:54:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152379103268912
+tags:
+- invisible-bread
 title: ''
 ---
 
