@@ -21,6 +21,7 @@ syndicated:
   url: https://twitter.com/roytang/status/742416661337116672/
 tags:
 - xboxe3
+- e3
 ---
 
 All these xbox games coming to windows 10, id like it more if they were on steam too
