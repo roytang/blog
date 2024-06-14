@@ -2,4 +2,13 @@
     {{ partial "block/tags" . }}
     <br />
     {{ partial "block/syndication" . }}
+    <br />
+    {{ $comments := len (.Resources.Match "comment-*.json") }}
+    {{ if gt $comments 0 }}
+    <a href="{{.RelPermalink}}">
+        <span role="img" aria-label="comment">&#x1F4AC;</span>
+        {{ $comments }}</a>
+    {{ else }}
+    <a href="{{ .RelPermalink }}">#</a>
+    {{ end }}
 </div>
