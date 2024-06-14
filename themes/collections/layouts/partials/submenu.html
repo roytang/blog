@@ -1,9 +1,7 @@
-<ul>
-    {{ range . }}
-        {{ if .Raw }}
-        <li>{{ .Raw | safeHTML }}</li>
-        {{ else }}
-        <li><a href="{{ .URL | absURL }}"  {{ if .rel }}rel="{{ .rel }}"{{ end }}>{{ .Name }}</a></li>
-        {{ end }}
-    {{ end }}
-</ul>
+{{ range . }}
+      {{ if .Raw }}
+      <li>{{ .Raw | safeHTML }}</li>
+      {{ else }}
+      <li {{ if .class }}class="{{ .class }}"{{ end }}><a href="{{ .URL }}"  {{ if .rel }}rel="{{ .rel }}"{{ end }}>{{ .Name }}</a></li>
+      {{ end }}
+{{ end }}

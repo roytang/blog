@@ -2,6 +2,7 @@
     "default": [
         "static/css/default.css",
         "static/css/reset.css",
+        "static/css/collections.css",
         "static/css/features/common.css",
         "static/css/features/forms.css",
         "static/css/features/map.css",

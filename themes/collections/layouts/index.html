@@ -1,10 +1,13 @@
 {{ define "main" }}
 
-<ul class="tags_list">
+<details>
+    <summary>Tags</summary>
+    <ul class="tags_list">
 {{ range .Site.Taxonomies.tags.ByCount }}
-	<li><a href="/tags/{{ .Name | urlize  }}">{{ .Name }}</a> ({{ .Count }})</li>
+	<li><a href="/tags/{{ .Name | urlize  }}">{{ .Name }} ({{ .Count }})</a> </li>
 {{ end }}
 </ul>
+</details>
 
 <ul class="entry_list">
     {{ range .Pages }}

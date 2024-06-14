@@ -1,0 +1,9 @@
+.collections .tags_list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.collections .tags_list li {
+    padding: 4px;
+}
