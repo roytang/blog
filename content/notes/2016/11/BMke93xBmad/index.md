@@ -20,7 +20,6 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155074164188912
 tags:
 - sketchdaily
-- lyrics
 ---
 
 At home
