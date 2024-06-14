@@ -4,7 +4,7 @@ title = "roytang.net"
 theme = "collections"
 
 # Pagination
-paginate = 50
+paginate = 1000
 paginatePath = "p"
 relativeURLs = true
 
