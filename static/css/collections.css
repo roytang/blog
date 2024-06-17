@@ -9,10 +9,11 @@
 }
 
 :root {
-    --breadcrumb-color-1: var(--main-color);
-    --breadcrumb-color-2: var(--second-color);
-    --breadcrumb-color-3: var(--third-color); /* Max 3 levels breadcrumb */
-    --breadcrumb-hover-color: rgb(2, 65, 46);
+    --breadcrumb-color-1: #006400;
+    --breadcrumb-color-2: #228B22;
+    --breadcrumb-color-3: #24AD24;
+    --breadcrumb-color-4: #3CB371; /* Max 4 levels breadcrumb */
+    --breadcrumb-hover-color: #004400;
 }
 /* https://css-tricks.com/triangle-breadcrumbs/ */
 .breadcrumb { 
@@ -75,6 +76,8 @@
 .breadcrumb li:nth-child(2):after { border-left-color: var(--breadcrumb-color-2); }
 .breadcrumb li:nth-child(3)       { background:        var(--breadcrumb-color-3); }
 .breadcrumb li:nth-child(3):after { border-left-color: var(--breadcrumb-color-3); }
+.breadcrumb li:nth-child(4)       { background:        var(--breadcrumb-color-4); }
+.breadcrumb li:nth-child(4):after { border-left-color: var(--breadcrumb-color-4); }
 
 .breadcrumb li:hover { 
     background: var(--breadcrumb-hover-color); 
@@ -92,6 +95,9 @@
 }
 .breadcrumbs:has(li:nth-child(3)) {
     background-color: var(--breadcrumb-color-3);
+}
+.breadcrumbs:has(li:nth-child(4)) {
+    background-color: var(--breadcrumb-color-4);
 }
 .breadcrumbs ul {
     padding-inline-start: 0;
