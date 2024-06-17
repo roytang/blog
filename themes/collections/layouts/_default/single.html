@@ -1,10 +1,12 @@
 {{ define "main" }}
 <div class="breadcrumbs">
 <ul class="breadcrumb">
-    <li><a href="/collections/">Collections</a></li>
-    <li><a href="/collections/{{ .Site.Params.collection_name }}">{{ .Site.Params.collection_title }}</a></li>
+    <li><a href="../../">Collections</a></li>
+    <li><a href="../">{{ .Site.Params.collection_title }}</a></li>
     {{ if .Title }}
     <li>{{ .Title }}</li>
+    {{ else }}
+    <li>This entry</li>
     {{ end }}
 </ul>
 </div>
