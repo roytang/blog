@@ -1,10 +1,13 @@
 ---
-title: "How I Process Links"
-date: 2024-06-17T21:09:45+08:00
-toc: true
+date: 2024-06-17 13:09:45
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112632372738166593
 tags:
 - blogging
 - meta
+title: How I Process Links
+toc: true
 ---
 
 I have recently been wading through hundreds of backlogged links and reading items to "process" them and that got me thinking that maybe I should document how this whole "link processing" thing works, if only for me to think through why the workflow is how it is, and to get a better handle of what I want out of it. I guess this is a "thinking in public" kind of post.
