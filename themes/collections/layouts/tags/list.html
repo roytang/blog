@@ -7,8 +7,8 @@
 </ul>
 </div>
 
-<section class="h-feed">
+<article class="h-feed">
     <p class="p-name">Listing all {{ .Site.Params.collection_title }} entries tagged with #{{ .Title }}.</p>
     {{ partial "block/entry-list" . }}
-</section>
+</article>
 {{ end }}
