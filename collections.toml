@@ -2,6 +2,7 @@ baseURL = "https://roytang.net/"
 languageCode = "en-us"
 title = "roytang.net"
 theme = "collections"
+staticDir = "collections_root"
 
 # Pagination
 paginate = 1000
@@ -40,6 +41,7 @@ canonifyURLs = true
 #
 [params]
     collections = true
+    collections_root = true
     rootPath = "collections/"
     staticRoot = "https://roytang.net/media/"
     # staticRoot = "http://localhost/repos/blog/"
