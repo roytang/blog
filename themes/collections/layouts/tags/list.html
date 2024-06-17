@@ -1,6 +1,14 @@
 {{ define "main" }}
+<div class="breadcrumbs">
+<ul class="breadcrumb">
+    <li><a href="/collections/">Collections</a></li>
+    <li><a href="/collections/{{ .Site.Params.collection_name }}">{{ .Site.Params.collection_title }}</a></li>
+    <li>{{ .Title }}</li>
+</ul>
+</div>
+
 <section class="h-feed">
-    <p class="p-name">All entries tagged {{ .Title }}.</p>
+    <p class="p-name">Listing all {{ .Site.Params.collection_title }} entries tagged with #{{ .Title }}.</p>
     {{ partial "block/entry-list" . }}
 </section>
 {{ end }}

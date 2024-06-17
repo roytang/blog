@@ -1,8 +1,6 @@
 <div class="meta">
     {{ partial "block/tags" . }}
-    <br />
     {{ partial "block/syndication" . }}
-    <br />
     {{ $comments := len (.Resources.Match "comment-*.json") }}
     {{ if gt $comments 0 }}
     <a href="{{.RelPermalink}}">

@@ -1,21 +1,31 @@
 {{ define "main" }}
 
-{{ .Content }}
-
-<details>
-    <summary>Tags</summary>
-    <ul class="tags_list">
-{{ range .Site.Taxonomies.tags.ByCount }}
-	<li><a href="/tags/{{ .Name | urlize  }}">{{ .Name }} ({{ .Count }})</a> </li>
-{{ end }}
+<div class="breadcrumbs">
+<ul class="breadcrumb">
+    <li><a href="/collections/">Collections</a></li>
+    <li>{{ .Site.Params.collection_title }}</li>
 </ul>
-</details>
+</div>
 
-<ol class="entry_list">
+<article>
+
+    {{ .Content }}
+
+    <details>
+        <summary>Tags</summary>
+        <ul class="tags_list">
+    {{ range .Site.Taxonomies.tags.ByCount }}
+        <li><a href="/tags/{{ .Name | urlize  }}">{{ .Name }} ({{ .Count }})</a> </li>
+    {{ end }}
+    </ul>
+    </details>
+    
+    
+    <ol class="entry_list">
     {{ range .Pages }}
         <li>{{ .Render "list_item" }}</li>
     {{ end }}
-</ol>
-    
+    </ol>
+</article>
 
 {{ end }}
