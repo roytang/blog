@@ -11,6 +11,7 @@ syndicated:
   url: https://plurk.com/p/8mgcu4
 tags:
 - comic
+- webcomics
 title: ''
 ---
 
