@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1009459315151863808/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156718654398912
+tags:
+- threads
 ---
 
 <p><a href="https://deanplease.tumblr.com/post/175066365912/nanoochka-techno-gal-fromacomrade-please" class="tumblr_blog">deanplease</a>:</p>

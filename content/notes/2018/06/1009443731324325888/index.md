@@ -14,3 +14,5 @@ title: ''
 ---
 
 Learn In Public.
+
+[Source](https://www.swyx.io/learn-in-public)
