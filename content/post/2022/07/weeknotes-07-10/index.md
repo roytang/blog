@@ -13,7 +13,7 @@ reviews:
   description: Beautifully animated romance tale about seaplane pilots
   hashtag: porco-rosso-1982
   media: movies
-  rating: 4.0
+  rating: 5.0
   title: Porco Rosso
   year: 1982
 - date: 2022-07-09

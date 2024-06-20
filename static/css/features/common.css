@@ -201,3 +201,7 @@ img.attachment, video.attachment {
 .logs td {
     vertical-align: top;
 }
+
+.logs td:nth-child(3) {
+    word-break: break-word;
+}
