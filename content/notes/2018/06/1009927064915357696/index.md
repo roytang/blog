@@ -1,5 +1,5 @@
 ---
-date: 2018-06-21 22:32:30+00:00
+date: 2018-06-21 22:32:30
 dontinlinephotos: true
 repost_source:
   name: Iron_Spike
@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1009927064915357696/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156721783213912
+tags:
+- webcomics
 title: ''
 ---
 
