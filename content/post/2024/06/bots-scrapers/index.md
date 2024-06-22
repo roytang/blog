@@ -1,10 +1,13 @@
 ---
-title: "User Agents, Bots and Scrapers"
-date: 2024-06-22T21:12:17+08:00
+date: 2024-06-22 13:12:17
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112660612681401008
 tags:
 - genai
 - bots
 - scraping
+title: User Agents, Bots and Scrapers
 ---
 
 This made the rounds recently: [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/).
