@@ -9,7 +9,9 @@ syndicated:
 - type: plurk
   url: https://plurk.com/p/agn4qq
 tags:
-- quotes
+- bragging
 ---
 
-‎"It's not bragging if you can back it up." -Muhammad Ali
+"It's not bragging if you can back it up." 
+
+-- Muhammad Ali

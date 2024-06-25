@@ -7,7 +7,7 @@ syndicated:
 - type: plurk
   url: https://plurk.com/p/brg0a4
 tags:
-- quotes
+- imprtance
 ---
 
-Pursue something so important that even if you fail, the world is better off with you having tried. (From http://ping.fm/kqcfF)
+Pursue something so important that even if you fail, the world is better off with you having tried.
