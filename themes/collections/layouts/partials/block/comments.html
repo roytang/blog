@@ -27,6 +27,10 @@
         </div>
 
         {{ $data.text | markdownify }}
+
+        {{ if $data.attachment }}
+            <p><img src="{{ $data.attachment }}" /></p>
+        {{ end }}
         <time><a href="{{ if $data.source_url }}{{ $data.source_url }}{{ else }}{{ $data.url }}{{ end }}">{{ $data.date }}</a><time></time>
     </div>
 </div>
