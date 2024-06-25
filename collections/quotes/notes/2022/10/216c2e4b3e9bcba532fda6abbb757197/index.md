@@ -14,4 +14,4 @@ title: ''
 
 To be an artist, you don’t have to compose music or paint or be in the movies or write books. It’s just a way of living. It has to do with paying attention, remembering, filtering what you see and answering back, participating in life.
 
-– Viggo Mortensen
+-– Viggo Mortensen

@@ -7,7 +7,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1631900894328668160/
 via:
-- name: The Marginalian
+  name: The Marginalian
   url: https://www.themarginalian.org/2023/02/21/bertrand-russell-happiness/
 tags:
 - interests
