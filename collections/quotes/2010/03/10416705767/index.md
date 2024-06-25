@@ -7,7 +7,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/364270629437
 tags:
-- quotes
+- time
 ---
 
-It is not that we have a short space of time, but that we waste much of it. http://2tu.us/1si4
+It is not that we have a short space of time, but that we waste much of it. 
+
+-- Seneca

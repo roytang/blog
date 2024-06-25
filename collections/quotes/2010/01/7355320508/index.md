@@ -7,7 +7,11 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/232733987721
 tags:
-- quotes
+- hope
+- planning
+via:
+  name: rands
+  url: https://twitter.com/rands/
 ---
 
-RT [@rands](https://twitter.com/rands/): Knowing what you want turns hope into a plan.
+Knowing what you want turns hope into a plan.

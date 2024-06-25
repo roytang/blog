@@ -8,8 +8,9 @@ syndicated:
   url: https://plurk.com/p/7x33rr
 tags:
 - movies
+- fate
 ---
 
 "There is no fate but what we make for ourselves."
 
-- John Connor, T2: Judgment Day
+-- John Connor, T2: Judgment Day

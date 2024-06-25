@@ -5,7 +5,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/6531586375/
 tags:
-- quotes
+- inspiration
+- picasso
 ---
 
-When inspiration comes I want it to find me working. - Pablo Picasso
+When inspiration comes I want it to find me working. 
+
+-- Pablo Picasso

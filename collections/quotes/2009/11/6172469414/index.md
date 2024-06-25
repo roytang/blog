@@ -12,4 +12,4 @@ tags:
 
 "There is no secret ingredient"
 
-- Kung Fu Pandas
+- Kung Fu Panda

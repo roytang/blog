@@ -4,9 +4,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/16542934689/
-tags: []
+tags: 
+- perfectionism
 ---
 
 "The important work of moving the world forward does not wait to be done by perfect men." 
 
-- George Eliot
+-- George Eliot

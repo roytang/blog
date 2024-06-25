@@ -21,4 +21,4 @@ Leilana: You&rsquo;re a big softie!<br/>
 Sten: We shall never speak of this again.<br/>
 Leilana: Softie!</blockquote>
 
-- Dragon Age Origins. Some of the banter is hilarious.
+-- Dragon Age Origins. Some of the banter is hilarious.

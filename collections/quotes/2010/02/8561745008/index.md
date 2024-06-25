@@ -6,7 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/8561745008/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/298000572368
-tags: []
+tags: 
+- courage
+- failure
 via:
   name: chrisguillebeau
   url: https://twitter.com/chrisguillebeau/

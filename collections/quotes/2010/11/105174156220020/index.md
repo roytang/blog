@@ -4,9 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/105174156220020
-tags: []
+tags:
+- strength
 ---
 
-Do not pray for easy lives. Pray to be stronger men. Do not pray for  tasks equal to your powers. Pray for powers equal to your tasks. Then  the doing of your work shall be no miracle, but you shall be the  miracle. 
+Do not pray for easy lives. Pray to be stronger men. Do not pray for tasks equal to your powers. Pray for powers equal to your tasks. Then the doing of your work shall be no miracle, but you shall be the miracle. 
 
-- Phillips Brooks
+-- Phillips Brooks

@@ -7,7 +7,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/111210985558327
 tags:
-- quotes
+- courage
+via:
+  name: chrisguillebeau
+  url: https://twitter.com/chrisguillebeau/
 ---
 
-♻ [@chrisguillebeau](https://twitter.com/chrisguillebeau/): It takes courage to believe in yourself. (via @conversationage)
+It takes courage to believe in yourself.

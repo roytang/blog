@@ -10,6 +10,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150092427818912
 tags: 
 - discworld
+- excellence
+- sig
 ---
 
 The price for being the best is always having to be the best.

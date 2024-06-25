@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/17785944129/
 tags: 
 - futurama
+- humor
+- tv
 ---
 
 "If we hit that bullseye, the rest of the dominoes should fall like a house of cards. Checkmate. " 

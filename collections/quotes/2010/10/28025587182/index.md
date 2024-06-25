@@ -7,7 +7,9 @@ syndicated:
 - type: plurk
   url: https://plurk.com/p/8dm4v6
 tags:
-- quotes
+- kindness
 ---
 
 Be kind, for everyone you meet is fighting a hard battle.
+
+-- [John Watson](https://quoteinvestigator.com/2010/06/29/be-kind/)

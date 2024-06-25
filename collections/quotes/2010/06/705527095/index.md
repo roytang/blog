@@ -12,4 +12,4 @@ tags:
 Mockingbird: Yeah, how the hell do you do that?<br/>
 Wolverine: Multitasking, it&rsquo;s my mutant power. Don&rsquo;t tell anybody.</blockquote>
 
---New Avengers #1 (2010)
+-- New Avengers #1 (2010)
