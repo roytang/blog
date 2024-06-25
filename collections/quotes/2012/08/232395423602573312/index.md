@@ -5,7 +5,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/232395423602573312/
 tags:
-- quotes
+- death
+- duty
 ---
 
-"Death is lighter than a feather, but Duty is heavier than a mountain" - Japanese proverb
+"Death is lighter than a feather, but Duty is heavier than a mountain" 
+
+-- Japanese proverb

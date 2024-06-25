@@ -7,7 +7,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151838846408912
 tags:
-- quotes
+- nonsense
 ---
 
-"A little nonsense now and then is relished by the wisest men" - Roald Dahl
+"A little nonsense now and then is relished by the wisest men" 
+
+-- Roald Dahl

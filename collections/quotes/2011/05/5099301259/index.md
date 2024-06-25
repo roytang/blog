@@ -7,9 +7,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/64681121534844930/
 tags:
-- quotes
+- einstein
+- equality
 ---
 
 <blockquote>Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.</blockquote>
 
---Albert Einstein
+-- Albert Einstein

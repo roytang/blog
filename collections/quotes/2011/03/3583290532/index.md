@@ -1,15 +1,14 @@
 ---
 date: 2011-03-01 16:06:35
-repost_source:
+via:
   name: eclair
-  type: tumblr
   url: https://eclair.tumblr.com/
 source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/3583290532/a-programmer-should-be-able-to-find-a-bug-market
 tags:
-- quotes
+- programming
 ---
 
 <blockquote>A programmer should be able to find a bug, market an application, refactor a spike, lead a team, architect an application, hack a kernel, schedule a project, build a database, route a network, give a reference, implement UserStories, analyze UserStories, work in a team, work alone, use patterns, innovate, write documentation, have a RealLife, create a cool website, email efficiently, resign gracefully, AdmitIgnorance, and keep on learning. Specialization is for recruiters.</blockquote>

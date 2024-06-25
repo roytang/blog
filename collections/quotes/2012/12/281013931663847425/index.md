@@ -8,7 +8,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151975958438912
 tags:
 - xkcd
-- quotes
+- science
 ---
 
-"The wonderful thing about science is that it doesn't ask for your faith, it just asks for your eyes." https://xkcd.com/154/
+"The wonderful thing about science is that it doesn't ask for your faith, it just asks for your eyes." 
+
+-- [XKCD](https://xkcd.com/154/)
