@@ -1,0 +1,4 @@
+[params]
+    collection_name = "quotes"
+    collection_title = "Quotes"
+    collections_root = false

@@ -9,6 +9,7 @@
 </div>
     
 <ul>
+    <li><a href="quotes/">Quotes</a></li>
     <li><a href="lyrics/">Lyrics</a></li>
 </ul>
 
@@ -35,7 +36,7 @@
     
     
     <ol class="entry_list">
-    {{ range .Pages }}
+    {{ range .Site.RegularPages }}
         <li>{{ .Render "list_item" }}</li>
     {{ end }}
     </ol>
