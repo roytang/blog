@@ -12,6 +12,7 @@ syndicated:
 tags:
 - tech-life
 - comics
+- webcomics
 title: 'Comic: Goodnight Phone'
 ---
 
