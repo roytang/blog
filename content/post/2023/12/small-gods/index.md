@@ -22,7 +22,7 @@ A couple of quotes I highlighted:
 > Fear is strange soil. Mainly it grows obedience like corn, which grows in rows and makes weeding easy. But sometimes it grows the potatoes of defiance, which flourish underground. 
 > 
 
-(I have [cited this one](/2017/01/10155269161388912/) before I even read the book!)
+(I have [cited this one](/collections/quotes/10155269161388912/) before I even read the book!)
 
 > Bishops move diagonally. That’s why they often turn up where the kings don’t expect them to be. 
 

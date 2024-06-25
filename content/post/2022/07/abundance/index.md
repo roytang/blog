@@ -29,7 +29,7 @@ This reminds me how in the modern world we have an abundance of options for how 
 
 Back when I was still working a regular 9-to-5 (more like 9-to-9 a lot of days actually), people would be surprised when I would save up my vacation days and take weeks or even a month off at a time. People will commonly ask ["Won't you get bored with all that free time?"](/2010/06/free-time/)
 
-How? I want to respond to those people. Life offers us so much. Stories to enjoy, books to read, movies to watch, TV shows to binge. And that's just on the consumption side of it. If that's not your thing, the world also offers places to explore, people to meet, skills to learn and so on. You can even indulge in creation yourself; you can write, you can draw, you can paint, you can code, you can express yourself through boundless imagination, adding even more to the world for other people to experience. The world offers us endless experiences, [how can we be bored](/2017/11/10156167338153912/)?
+How? I want to respond to those people. Life offers us so much. Stories to enjoy, books to read, movies to watch, TV shows to binge. And that's just on the consumption side of it. If that's not your thing, the world also offers places to explore, people to meet, skills to learn and so on. You can even indulge in creation yourself; you can write, you can draw, you can paint, you can code, you can express yourself through boundless imagination, adding even more to the world for other people to experience. The world offers us endless experiences, [how can we be bored](/collections/quotes/10156167338153912/)?
 
 ---
 
