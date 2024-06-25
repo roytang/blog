@@ -5,8 +5,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/389378453335576576/
 tags:
-- quotes
 - startrek
+- life
 ---
 
-"It is possible to commit no mistakes and still lose. That is not a weakness, that is life." - Jean-Luc Picard
+"It is possible to commit no mistakes and still lose. That is not a weakness, that is life." 
+
+-- Jean-Luc Picard

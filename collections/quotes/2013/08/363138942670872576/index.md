@@ -9,8 +9,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/363138942670872576/
 tags:
-- quotes
+- rest
 title: ''
 ---
 
-"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work." ~ Ralph Marston
+"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work." 
+
+-- Ralph Marston
