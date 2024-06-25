@@ -38,7 +38,7 @@ Environment challenges:
 
 Personal challenges:
 
-- I have a very strong sense of duty and responsibility. I realize this doesn't sound like a negative, but it'd kind of a double-edged sword in that I take my duties as an employee very seriously and will sometimes sacrifice my own well-being if I think it is needed. For the longest time, one of [my favorite quotes has been](/collections/quotes/2012/08/232395423602573312/):
+- I have a very strong sense of duty and responsibility. I realize this doesn't sound like a negative, but it'd kind of a double-edged sword in that I take my duties as an employee very seriously and will sometimes sacrifice my own well-being if I think it is needed. For the longest time, one of [my favorite quotes has been](/collections/quotes/232395423602573312/):
   
   > “Death is lighter than a feather, but Duty is heavier than a mountain” - Japanese proverb
   

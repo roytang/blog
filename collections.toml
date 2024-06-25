@@ -34,7 +34,7 @@ canonifyURLs = true
     url = "https://roytang.net"
 
 [permalinks]
-    post = "/:year/:month/:slug/"
+    "notes" = "/:slugorfilename/"
 
 #
 # All parameters below here are optional and can be mixed and matched.
