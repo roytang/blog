@@ -5,10 +5,10 @@ syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110469007960687367
 tags:
-- quotes
+- rest
 title: ''
 ---
 
-> "Almost everything will work again if you unplug it for a few minutes — including you."
+"Almost everything will work again if you unplug it for a few minutes — including you."
 
 - Anne Lamott

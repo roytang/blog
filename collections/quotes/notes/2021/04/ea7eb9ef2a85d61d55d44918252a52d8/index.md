@@ -9,8 +9,11 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1385239268449153031/
 tags:
-- quotes
+- acceptance
+- love
 title: ''
 ---
 
-"Do not be dismayed by the brokenness of the world. All things break. And all things can be mended. Not with time, as they say, but with intention. So go. Love intentionally, extravagantly, unconditionally. The broken world waits in darkness for the light that is you."<!--sep-->-- L. R. Knost
+"Do not be dismayed by the brokenness of the world. All things break. And all things can be mended. Not with time, as they say, but with intention. So go. Love intentionally, extravagantly, unconditionally. The broken world waits in darkness for the light that is you."
+
+-- L. R. Knost

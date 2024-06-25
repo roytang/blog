@@ -5,9 +5,12 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1367804028604674052/
 tags:
-- quotes
+- tv
+- wandavision
 ---
 
 "We have said goodbye before, so it stands to reason..."
 
 "...we'll say hello again."
+
+-- Wanda and Vision, "WandaVision"

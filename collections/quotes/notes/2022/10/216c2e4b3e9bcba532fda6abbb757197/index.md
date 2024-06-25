@@ -7,7 +7,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1586305219570257921/
 tags:
-- quotes
+- art
+- life
 title: ''
 ---
 

@@ -5,7 +5,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1365276093977038852/
 tags:
-- quotes
+- tv
+- wandavision
 ---
 
-"What is grief if not love preserving"
+"What is grief if not love persevering?"
+
+-- Vision, "WandaVision"
