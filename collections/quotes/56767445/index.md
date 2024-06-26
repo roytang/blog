@@ -16,4 +16,4 @@ tags:
 
 The price for being the best is always having to be the best.
 
-- Nanny Ogg, Lords and Ladies by Terry Pratchett
+-- Nanny Ogg, Lords and Ladies by Terry Pratchett

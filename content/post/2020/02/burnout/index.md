@@ -38,15 +38,16 @@ Environment challenges:
 
 Personal challenges:
 
-- I have a very strong sense of duty and responsibility. I realize this doesn't sound like a negative, but it'd kind of a double-edged sword in that I take my duties as an employee very seriously and will sometimes sacrifice my own well-being if I think it is needed. For the longest time, one of [my favorite quotes has been](/collections/quotes/232395423602573312/):
+- I have a very strong sense of duty and responsibility. I realize this doesn't sound like a negative, but it'd kind of a double-edged sword in that I take my duties as an employee very seriously and will sometimes sacrifice my own well-being if I think it is needed. For the longest time, one of my favorite quotes has been:
   
-  > “Death is lighter than a feather, but Duty is heavier than a mountain” - Japanese proverb
-  
-  I find this quote symptomatic of the "hustle culture" that tends to lead to burnout. That's probably a topic for another time, but the gist of it is that most companies and projects are a never-ending well of work that needs to be done, so much so that oftentimes the reward for good work is often more work. i.e. 
+    {{% collections-embed quotes 232395423602573312 %}}
+    
+    I find this quote symptomatic of the "hustle culture" that tends to lead to burnout. That's probably a topic for another time, but the gist of it is that most companies and projects are a never-ending well of work that needs to be done, so much so that oftentimes the reward for good work is often more work. i.e. 
 
-  > ["The price for being the best is always having to be the best"](/collections/quotes/56767445/)
+    {{% collections-embed quotes 56767445 %}}
 
-  This "sense of duty" was so strong that even when I realized I was burning out, I still gave half a year's notice for resignation, because I at least wanted to make sure everything was fine before I left. (Spoilers: it would take them a couple more years to actually finish the project). Someone reminded me recently that I expressed regret at leaving "in wartime" since the project got even further delayed and many of the issues were unresolved at that time.
+    This "sense of duty" was so strong that even when I realized I was burning out, I still gave half a year's notice for resignation, because I at least wanted to make sure everything was fine before I left. (Spoilers: it would take them a couple more years to actually finish the project). Someone reminded me recently that I expressed regret at leaving "in wartime" since the project got even further delayed and many of the issues were unresolved at that time.
+
 - related to the above, I also had a strong sense of pride. I considered myself very good at my job (justifiably so, based on annual reviews etc) and somehow had the mentality that I needed to be able to carry the weight of the project by myself. Whenever there was a resource or scheduling problem, one of my first instincts was to be to offer to take on the needed load myself, no matter how busy I already was.
 - Somewhat related to the above, but I also had (and often still have) an obsessive-compulsive need to read and reply to all emails and messages and notifications immediately, even outside of work hours
 - coupled with my strong sense of duty is a lack of ability to say no. As an example, for some reason even after I realized I was burnt out and notified the company I was leaving, I agreed to go live in another country on-site for three months. While it was good to experience another country, the work-life balance while I was there was even worse because the time zone problem still existed (except in reverse, i.e. the dev team was now on the other end of the world), and now I became a bottleneck (since I was one of the only two people on-site) and had to dedicate more time to bridging the gap. 

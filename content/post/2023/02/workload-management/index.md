@@ -40,7 +40,7 @@ While digging through some old work chat logs (from 2011, more than 10 years ago
 
 <time>03:14:19</time> law on promotions -> you get promoted to your level of incompetence
 
-<time>03:15:06</time> ["the price for being the best is always having to be the best"](/2019/10/1185221831990464513/)
+<time>03:15:06</time> ["the price for being the best is always having to be the best"](/collections/quotes/56767445/)
 
 <time>03:16:23</time> at some point, you have to decide for yourself *what your limit is* i guess
 
