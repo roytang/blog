@@ -5,7 +5,11 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1126767899782160385/
 tags:
-- quotes
+- tv
+- life
+- wheeloftime
 ---
 
-"Take life as it comes. Run when you have to, fight when you must, rest when you can." - Lan Mandragoran
+"Take life as it comes. Run when you have to, fight when you must, rest when you can." 
+
+-- Lan Mandragoran, "Wheel of Time"

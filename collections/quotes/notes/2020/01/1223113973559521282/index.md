@@ -5,7 +5,11 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1223113973559521282/
 tags:
-- quotes
+- tv
+- acceptance
+- thegoodplace
 ---
 
 "The wave returns to the ocean. What the ocean does with the water after that is anyone's guess."
+
+-- The Good Place
