@@ -1,0 +1,14 @@
+<blockquote class="embed">
+{{ partial "block/title" . }}
+{{ .Content }}
+
+{{ $t := .Site.Params.collection_name }}
+{{ $i := .RelPermalink }}
+<div class="embed_foot">from 
+    <a {{ printf "href='{{collections_root}}'" | safeHTMLAttr }}>Collections</a> 
+    > 
+    <a {{ printf "href='{{collections_root}}%s/'" $t | safeHTMLAttr }}>{{ .Site.Params.collection_title }}</a>
+    > 
+    <a {{ printf "href='{{collections_root}}%s%s'" $t $i | safeHTMLAttr }}>#</a>
+</div>
+</blockquote>

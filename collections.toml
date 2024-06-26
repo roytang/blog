@@ -15,14 +15,13 @@ rssLimit = 50
 enableGitInfo = true
 canonifyURLs = true
 
-[mediaTypes]
-  [mediaTypes."application/ld+json"]
-    suffixes = ["json"]
-  [mediaTypes."text/markdown"]
-    suffixes = ["md"]
+[outputFormats]
+  [outputFormats.embed]
+    baseName = "embed"
+    mediaType = "text/html"    
 
 [outputs]
-  page = ["HTML"]
+  page = ["HTML", "embed"]
 
 [taxonomies]
     tags = "tags"

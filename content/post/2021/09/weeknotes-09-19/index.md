@@ -20,7 +20,7 @@ Just another week.
 
 ### A quote:
 
-> "Wealth consists not in having great possessions, but in having few wants." – [Epictetus](/collections/quotes/511527699391594496/)
+{{% collections-embed quotes 511527699391594496 %}}
 
 ### The world:
 

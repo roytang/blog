@@ -8,3 +8,8 @@
     padding: 4px;
 }
 
+blockquote.embed .embed_foot {
+    text-align: right;
+    font-size: var(--font-size-smaller);
+    color: var(--deemphasized-text-color);
+}
