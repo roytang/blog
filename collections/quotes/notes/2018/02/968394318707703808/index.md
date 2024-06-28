@@ -7,7 +7,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156450346678912
 tags:
-- quotes
+- life
+- time
 ---
 
-“I wish life was not so short,' he thought. 'Languages take such a time, and so do all the things one wants to know about.” ― J.R.R. Tolkien
+“I wish life was not so short,' he thought. 'Languages take such a time, and so do all the things one wants to know about.” 
+
+-- J.R.R. Tolkien

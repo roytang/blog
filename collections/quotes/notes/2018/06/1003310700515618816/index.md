@@ -7,7 +7,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156680568208912
 tags:
-- quotes
+- play
 ---
 
-“Man is only fully human when he plays!” - Friedrich Schiller
+“Man is only fully human when he plays!” 
+
+-- Friedrich Schiller

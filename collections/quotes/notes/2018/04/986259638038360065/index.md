@@ -1,6 +1,6 @@
 ---
 date: 2018-04-17 15:06:36
-repost_source:
+via:
   name: Stana_Katic
   type: twitter
   url: https://twitter.com/Stana_Katic/statuses/986252315316256769/
@@ -11,10 +11,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156578078913912
 tags:
-- quotes
+- change
 title: ''
 ---
 
 Everyone thinks of changing the world, but no one thinks of changing himself.
 
-- Leo Tolstoy
+-- Leo Tolstoy

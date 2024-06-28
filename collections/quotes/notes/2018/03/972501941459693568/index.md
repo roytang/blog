@@ -7,7 +7,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156481783013912
 tags:
-- quotes
+- vonnegut
+- pretending
 ---
 
-“We are what we pretend to be, so we must be careful about what we pretend to be.” ― Kurt Vonnegut.
+“We are what we pretend to be, so we must be careful about what we pretend to be.” 
+
+-- Kurt Vonnegut.
