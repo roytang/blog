@@ -1,0 +1,16 @@
+---
+date: 2016-08-21 18:08:52
+source: twitter
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/767423236590096384/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154840891083912
+tags:
+- douglasadams
+- humor
+---
+
+"In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move" 
+
+-- Douglas Adams, "The Hitchhiker's Guide to the Galaxy"

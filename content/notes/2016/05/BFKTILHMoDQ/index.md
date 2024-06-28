@@ -19,4 +19,4 @@ tags:
 title: ''
 ---
 
-"Nothing's perfect, the world's not perfect, but it's there for us trying the best it can. That's what makes it so damn beautiful" - Roy Mustang
+{{% collections-embed quotes BFKTILHMoDQ %}}
