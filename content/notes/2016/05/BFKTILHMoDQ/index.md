@@ -19,4 +19,4 @@ tags:
 title: ''
 ---
 
-{{% collections-embed quotes BFKTILHMoDQ %}}
+{{% collections-embed quotes bfktilhmodq2 %}}
