@@ -7,6 +7,7 @@ syndicated:
 tags:
 - fb
 - transformers
+- dreams
 ---
 
 Had a dream that involved buying Transformers toys. If i met 10year old me he wouldn't like the lack of Transformers toys in his future #fb
