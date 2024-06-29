@@ -14,7 +14,7 @@
         {{ $scratch.Set "photo" . }}
     {{ end }}
     <a href="{{ $data.url }}">
-        <img class="commenter-photo" width="30" height="30" src="{{ $scratch.Get "photo" }}" alt="{{ $data.name }}" />
+        <img class="commenter-photo" width="30" height="30" src="{{ $scratch.Get "photo" | absURL }}" alt="{{ $data.name }}" />
     </a>
     </div>
     <div class="comment_body">
