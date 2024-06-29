@@ -124,7 +124,7 @@ Another standalone adventure, this one sees Peter Parker in Los Angeles encounte
 
 Volume length: 5 issues
 
-A Jessica Jones-focused limited series by writer Gail Simone where Jessica encounters alternate variants of hers across the universe. Gail kind of had fun with the character here, and the artowkr by Phil Noto is great as usual.
+A Jessica Jones-focused limited series by writer Gail Simone where Jessica encounters alternate variants of hers across the universe. Gail kind of had fun with the character here, and the artwork by Phil Noto is great as usual.
 
 #### Dark Web (2023)
 

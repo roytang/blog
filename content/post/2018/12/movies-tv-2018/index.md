@@ -475,6 +475,8 @@ The pacing was good throughout the season (which was one of the weakness of the 
 
 <time>[2018-03-10 12:25] </time> Jessica Jones S2: In which dark things happen and everyone crosses lines they shouldn't cross
 
+Jessica finds out about her powers' origin, meets her mom. Trish Walker gains powers. Karl Malus is killed.
+
 [Comments](#comment-17cd6094-b523-4026-b3a8-4cf33052b68f)
 
 ---
