@@ -7,7 +7,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154459137798912
 tags:
-- quotes
+- noble
 ---
 
-"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." -- Ernest Hemingway
+"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." 
+
+-- Ernest Hemingway
