@@ -13,6 +13,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/86437819718963200/
 tags:
 - BeenOutOfItForAWhile
+- mtg
 ---
 
 I have to be honest, I didn't even know Oblivion Ring wasn't in Standard anymore. #BeenOutOfItForAWhile
