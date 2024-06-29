@@ -9,7 +9,7 @@
 {{ $data := . | transform.Unmarshal }}
 <div class="comment" id="comment-{{ $data.id }}">
     <div class="comment_meta">
-    {{ $scratch.Set "photo" "/img/icons/anon.png" }}
+    {{ $scratch.Set "photo" "/static/img/icons/anon.png" }}
     {{ with $data.photo }}
         {{ $scratch.Set "photo" . }}
     {{ end }}
