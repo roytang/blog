@@ -1,6 +1,6 @@
 ---
 date: 2013-08-02 03:27:25
-repost_source:
+via:
   name: wanggo_g
   type: twitter
   url: https://twitter.com/wanggo_g/statuses/363094604280631296/

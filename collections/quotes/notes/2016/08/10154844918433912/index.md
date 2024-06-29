@@ -1,6 +1,6 @@
 ---
 date: 2016-08-23 02:17:32+00:00
-repost_source:
+via:
   name: WarrenWhitlock
   type: twitter
   url: https://twitter.com/WarrenWhitlock/statuses/767906727492784128/

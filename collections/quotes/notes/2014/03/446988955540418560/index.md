@@ -1,6 +1,6 @@
 ---
 date: 2014-03-21 12:37:26
-repost_source:
+via:
   name: thinksimplenow
   type: twitter
   url: https://twitter.com/thinksimplenow/statuses/446985289345421312/

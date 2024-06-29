@@ -1,6 +1,6 @@
 ---
 date: 2017-12-09 17:53:07
-repost_source:
+via:
   name: mariachong
   type: twitter
   url: https://twitter.com/mariachong/statuses/939553180081258496/
