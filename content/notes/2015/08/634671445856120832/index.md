@@ -14,7 +14,7 @@ tags:
 - quotes
 ---
 
-"Never is just reven spelled backwards"
+{{% collections-embed quotes 634671445856120832 %}}
 
 <time>[2021-08-26 03:49]</time> Lol here's another one. #House S03E19 #quotes 
 

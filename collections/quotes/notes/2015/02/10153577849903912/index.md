@@ -5,8 +5,12 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153577849903912
 tags:
-- quotes
+- humor
 - b99
 ---
 
-"What's wrong with pictures of our families on our desks?" "If you really love someone, you'll remember what they look like!" -- Brooklyn Nine Nine
+"What's wrong with pictures of our families on our desks?" 
+
+"If you really love someone, you'll remember what they look like!" 
+
+-- Brooklyn Nine Nine

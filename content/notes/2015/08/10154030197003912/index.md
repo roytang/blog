@@ -14,7 +14,7 @@ tags:
 - house
 ---
 
-"I'm going to base this moment on who I'm stuck in a room with. It's what life is. It's a series of rooms and who we get stuck in those rooms with adds up to what our lives are."
+{{% collections-embed quotes 10154030197003912 %}}
 
 <time>[2021-08-25 03:31]</time> Found myself rewatching this episode almost 6 years later to the day.
 

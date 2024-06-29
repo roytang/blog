@@ -7,7 +7,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153941051093912
 tags:
-- quotes
+- gaming
 ---
 
-“On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.” RIP Satoru Iwata
+“On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.” 
+
+-- Satoru Iwata (RIP 2015-07-13)

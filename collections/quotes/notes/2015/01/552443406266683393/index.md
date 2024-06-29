@@ -7,7 +7,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153488544718912
 tags:
-- quotes
+- regret
 ---
 
-"Of all sad words of tongue or pen, the saddest are these, 'It might have been." ― John Greenleaf Whittier
+"Of all sad words of tongue or pen, the saddest are these, 'It might have been." 
+
+-- John Greenleaf Whittier

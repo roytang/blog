@@ -7,9 +7,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154122066813912
 tags:
-- quotes
 - books
 - darktower
 ---
 
 "Go then. There are other worlds than these."
+
+-- Jake, "The Gunslinger" (Book 1 of The Dark Tower series by Stephen King)
