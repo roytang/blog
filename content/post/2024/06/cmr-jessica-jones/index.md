@@ -1,5 +1,5 @@
 ---
-date: 2024-06-29T15:12:00+08:00
+date: 2024-06-29 07:12:00
 dontinlinephotos: true
 resources:
 - src: cosmic_marvel.jpg
@@ -33,7 +33,7 @@ reviews:
   hashtag: one-shots-and-limited-series
   issues: 1
   media: comics
-  title: 'Netflix Jessica Jones NYCC special'
+  title: Netflix Jessica Jones NYCC special
   year: 2015
 - description: What If one-shot
   hashtag: one-shots-and-limited-series
@@ -47,6 +47,9 @@ reviews:
   media: comics
   title: 'Jessica Jones: Purple Daughter'
   year: 2021
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112698973080257766
 tags:
 - comics
 - complete-marvel-run
@@ -125,4 +128,4 @@ We have a slight dip in progress here since I didn't cover a lot of issues today
 
 ### Up Next
 
-As mentioned, we'll cover fellow Netflix series characters Luke Cage and Iron Fist, still following "MCU Order". 
+As mentioned, we'll cover fellow Netflix series characters Luke Cage and Iron Fist, still following "MCU Order".
