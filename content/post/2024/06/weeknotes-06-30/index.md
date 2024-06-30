@@ -1,6 +1,9 @@
 ---
-date: 2024-06-30T10:56:28+08:00
+date: 2024-06-30 02:56:28
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112704396455130680
 tags:
 - weeknotes
 title: Weeknotes 2024-06-30
@@ -82,4 +85,3 @@ Check out the [linkblog](/links/) for past links!
 New month! Same old problems.
 
 More errands, paperwork, etc.
-
