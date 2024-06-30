@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/294943858217857024/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152036615283912
+tags:
+- civ5
 ---
 
 After 19 straight days of work and travel, finally a weekend. A ne dilemma: Go out and do stuff or stay home and civ5 all day?

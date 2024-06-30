@@ -1,9 +1,11 @@
 ---
-date: 2013-02-17 15:32:00+00:00
+date: 2013-02-17 15:32:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/406935329399555
+tags:
+- civ5
 title: ''
 ---
 

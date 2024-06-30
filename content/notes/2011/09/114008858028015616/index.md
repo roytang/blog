@@ -9,6 +9,7 @@ syndicated:
 tags:
 - possiblyabadidea
 - gaming
+- civ5
 ---
 
 Starting a Civ5 game at 12:15am #possiblyabadidea

@@ -14,6 +14,7 @@ syndicated:
 tags:
 - gaming
 - games
+- civ5
 title: ''
 ---
 
