@@ -1,8 +1,11 @@
 ---
-date: 2024-07-01T17:13:22+08:00
+date: 2024-07-01 09:13:22
 resources:
 - src: trophy.png
   title: Premiere Draft 4 Trophy Deck - Wg
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112710631471594431
 tags:
 - mtg
 - limited
