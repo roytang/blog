@@ -78,8 +78,9 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Apr 2024 | 356 | 1178 | 978 | 2156 | 0.5464 |
-| [Murders at Karlov](/2024/04/mtgmkm-set-recap/) | Apr 2024 | 21 | 63 | 60 | 123 | 0.5122 |
+| ALL | Jul 2024 | 376 | 1240 | 1035 | 2275 | 0.5451 |
+| [Outlaws of Thunder Junction](/2024/07/mtgotj-set-recap/) | Jul 2024 | 20 | 62 | 57 | 119 | 0.521 |
+| [Murders at Karlov Manor](/2024/04/mtgmkm-set-recap/) | Apr 2024 | 21 | 63 | 60 | 123 | 0.5122 |
 | [Lost Caverns of Ixalan](/2024/01/mtglci-set-recap/) | Jan 2024 | 19 | 49 | 55 | 104 | 0.4712 |
 | [Wilds of Eldraine](/2023/10/mtgwoe-limited-recap/) | Oct 2023 | 19 | 74 | 47 | 121 | 0.6116 |
 | [Lord of the Rings: Tales of Middle Earth](/2023/08/mtgltr-limited-recap/) | Aug 2023 | 5 | 9 | 15 | 24 | 0.375 |
