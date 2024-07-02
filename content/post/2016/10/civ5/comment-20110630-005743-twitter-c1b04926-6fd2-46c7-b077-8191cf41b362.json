@@ -3,8 +3,10 @@
   "name": "Ritchie",
   "url": "https://twitter.com/Woerlan",
   "text": "[@roytang](https://twitter.com/roytang/) I agree. Now keep playing. Just one more turn. One more...",
-  "date": "2011-06-29 16:57:43",
+  "date": "2011-06-30 00:57:43 +0800",
   "photo": "https://pbs.twimg.com/profile_images/1339277038725697536/Gj-CKyFG_normal.jpg",
   "source_url": "https://twitter.com/Woerlan/statuses/86116144230047746/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/roytang/statuses/86115409035661312/"
 }

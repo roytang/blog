@@ -3,9 +3,11 @@
   "name": "Luis Formilleza",
   "url": "https://www.facebook.com/luis.formilleza",
   "text": "Go out for U know what reasons.",
-  "date": "2013-01-26 00:00:03",
+  "date": "2013-01-26 08:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152036615283912#10152037007728912",
+  "source": "85b479eb",
+  "spam": false,
   "source_obj": {
     "id": "10152037007728912",
     "poster": "Luis Formilleza",
@@ -13,5 +15,6 @@
     "text": "Go out for U know what reasons.",
     "attachments": [],
     "date": "Jan 26, 2013"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/294943858217857024/"
 }

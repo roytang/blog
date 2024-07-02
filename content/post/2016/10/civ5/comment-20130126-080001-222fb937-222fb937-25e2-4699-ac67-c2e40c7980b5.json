@@ -3,9 +3,11 @@
   "name": "Raymond Lirag",
   "url": "https://www.facebook.com/raymond.lirag",
   "text": "home",
-  "date": "2013-01-26 00:00:01",
+  "date": "2013-01-26 08:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152036615283912#10152036668683912",
+  "source": "222fb937",
+  "spam": false,
   "source_obj": {
     "id": "10152036668683912",
     "poster": "Raymond Lirag",
@@ -13,5 +15,6 @@
     "text": "home",
     "attachments": [],
     "date": "Jan 26, 2013"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/294943858217857024/"
 }

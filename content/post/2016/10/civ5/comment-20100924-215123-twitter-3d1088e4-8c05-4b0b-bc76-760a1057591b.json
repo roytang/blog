@@ -3,8 +3,10 @@
   "name": "Kerwin Tang",
   "url": "https://twitter.com/kerwintang",
   "text": "This content is from a [protected tweet](https://twitter.com/kerwintang/statuses/25405493118/)",
-  "date": "2010-09-24 13:51:23",
+  "date": "2010-09-24 21:51:23 +0800",
   "photo": "https://pbs.twimg.com/profile_images/779131415531139072/bK98JBIJ_normal.jpg",
   "source_url": "https://twitter.com/kerwintang/statuses/25405493118/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/roytang/status/25350717070/"
 }

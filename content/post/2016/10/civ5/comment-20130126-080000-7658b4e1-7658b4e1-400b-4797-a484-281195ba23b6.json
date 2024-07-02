@@ -3,9 +3,11 @@
   "name": "Josiah Tendero Habana",
   "url": "https://www.facebook.com/josiah.habana",
   "text": "sleep",
-  "date": "2013-01-26 00:00:00",
+  "date": "2013-01-26 08:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10152036615283912#10152036643673912",
+  "source": "7658b4e1",
+  "spam": false,
   "source_obj": {
     "id": "10152036643673912",
     "poster": "Josiah Tendero Habana",
@@ -13,5 +15,6 @@
     "text": "sleep",
     "attachments": [],
     "date": "Jan 26, 2013"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/294943858217857024/"
 }
