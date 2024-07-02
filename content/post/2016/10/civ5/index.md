@@ -1,5 +1,11 @@
 ---
 date: 2016-10-20 06:22:00
+dontinlinephotos: true
+reviews:
+- description: ''
+  media: games
+  rating: 5.0
+  title: Civilization V (Steam)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/21054359815/
@@ -54,14 +60,9 @@ syndicated:
 tags:
 - gaming
 - backpost
+- games
 title: Civilization V (Steam)
-dontinlinephotos: true
 toc: true
-reviews:
-- description: ''
-  media: games
-  rating: 5.0
-  title: Civilization V (Steam)
 ---
 
 Previously: [Civilization IV](/2005/12/games-civilization-4/)
