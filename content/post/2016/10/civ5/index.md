@@ -95,7 +95,7 @@ The **Gods and Kings** expansion released in 2012 added espionage and religion, 
 
 The **Brave New World** expansion released in 2013 added international trade routes, world congress (improving diplomacy overall), tourism, and great works.
 
-Civ5 ended up with I think 43 leader/country combinations that you can play, each with their own gameplay advantages. I'm a big fan of large lineups of course, and the game even features random select! (All good games have large lineups and random select!)
+Civ5 ended up with I think 43 leader/civ combinations that you can play, each with their own gameplay advantages. I'm a big fan of large lineups of course, and the game even features random select! (All good games have large lineups and random select!)
 
 ### Multiplayer
 
