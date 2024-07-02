@@ -55,6 +55,7 @@ tags:
 - gaming
 - backpost
 title: Civilization V (Steam)
+dontinlinephotos: true
 toc: true
 reviews:
 - description: ''
@@ -75,11 +76,15 @@ Civ5 first released way back in 2010, so I played it for 10 years! It is the fir
 
 The number of achievements in the game is truly ridiculous though. At the end of it's life cycle, the game had a whopping 286 achievements, of which I had only achieved 176 over almost 400 hours of play time. To this day it remains among my top 5 most played Steam games!
 
+{{% photos 1_788988726265262080_CvMM-qpUsAAMe6h %}}
+
 The sheer number of achievements missed makes me feel like I didn't truly experience the breadth the game had to over and maybe missed out. Which is easily true - I didn't really play any of the scenarios that come with the game, that's not really a game mode that never engaged me. Many of the missing achievements are for those scenarios. There are also a number of achievements that require ultra-specific setups that either try to make some puns work or allude to historical events.
 
 ### Graphics
 
 The game gets a nice graphical overhaul over the predecessor, with what seems like a more "colorful" feel and UI (I have no concrete basis for this as it has been even longer since I played Civ IV!)
+
+{{% photos civ5 %}}
 
 ### Gameplay Changes
 

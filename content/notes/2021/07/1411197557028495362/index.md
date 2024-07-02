@@ -4,6 +4,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1411197557028495362/
+tags:
+- movies
+- thread
 ---
 
 I enjoyed this thread, but all these people posting images without naming the movie! Not everyone has seen every movie! 
