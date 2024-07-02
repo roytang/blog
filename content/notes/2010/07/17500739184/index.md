@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/17500739184/
 tags:
 - travels
+- baguio
 ---
 
 On the bus, going to baguio

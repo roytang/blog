@@ -138,6 +138,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/277092438236090368/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151960839688912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/219758979302178816/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151704387308912
 ---
 
 #### Shaun of the Dead (2004)
@@ -151,6 +155,8 @@ syndicated:
 #### Superman Returns (2006)
 
 <time>[2012-06-22 16:12] </time> Watching Superman Returns. I don't think the movie would work without the John Williams soundtrack.
+
+<time>[2012-07-02 19:46] </time> I don't know how they expect Peter Parker to be taken seriously as a tech guy when his default search engine is Bing
 
 #### Amazing Spider-Man (2012)
 
