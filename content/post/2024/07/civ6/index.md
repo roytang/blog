@@ -1,6 +1,5 @@
 ---
 date: 2024-07-04 10:43:14
-draft: true
 resources:
 - src: 20200928202448_1.jpg
   title: Strategic view
