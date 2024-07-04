@@ -33,6 +33,9 @@ reviews:
   - steam
   rating: 5.0
   title: Civilization VI (Steam)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112728350574378934
 tags:
 - games
 title: 'Games: Civilization IV'
