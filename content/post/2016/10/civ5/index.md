@@ -6,6 +6,8 @@ reviews:
   media: games
   rating: 5.0
   title: Civilization V (Steam)
+  platforms:
+  - steam
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/21054359815/
@@ -75,7 +77,7 @@ Civ5 first released way back in 2010, so I played it for 10 years! It is the fir
 
 ### Completion
 
-The number of achievements in the game is truly ridiculous though. At the end of it's life cycle, the game had a whopping 286 achievements, of which I had only achieved 176 over almost 400 hours of play time. To this day it remains among my top 5 most played Steam games!
+The number of achievements in the game is truly ridiculous though. At the end of it's life cycle, the game had a whopping 286 achievements, of which I had only achieved 176 over almost 400 hours of play time. To this day [it remains among my top 5 most played Steam games](/page/stats/gaming/)!
 
 {{% photos 1_788988726265262080_CvMM-qpUsAAMe6h %}}
 
