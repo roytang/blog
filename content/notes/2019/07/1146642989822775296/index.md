@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1146642989822775296/
+tags:
+- webcomics
 ---
 
 Steve Lichman 

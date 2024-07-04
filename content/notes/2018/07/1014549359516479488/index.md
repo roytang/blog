@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1014699010978791425/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156751260363912
+tags:
+- wiki
 ---
 
 Tito Sotto’s wikipedia page already has a section about the Pepsi Paloma case, but none yet about his successful attempt to censor the Inquirer. Have at it!
