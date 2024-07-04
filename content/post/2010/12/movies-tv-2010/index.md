@@ -325,6 +325,8 @@ Notes from my journal:
 
 #### Others
 
+<time>[2010-07-05 09:37] </time> futurama marathon!
+
 <time>[2010-10-05 20:23] </time> TV Night! Agenda: Smallville, Criminal Minds, Simpsons, How I Me Your Mother, Chuck
 
 ---

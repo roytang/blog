@@ -13,6 +13,6 @@ syndicated:
   url: https://twitter.com/roytang/status/1634059329824514048/
 tags:
 - culture
-- star-trek
+- startrek
 title: The Special Way Commander Riker Sits Down | The Mary Sue
 ---
