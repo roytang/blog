@@ -2,8 +2,8 @@
 date: 2024-06-29 07:12:00
 dontinlinephotos: true
 resources:
-- src: cosmic_marvel.jpg
-  title: Cosmic Marvel Reading Order
+- src: Jessica_Jones_Vol_1_1.png
+  title: "Jessica Jones v1 #1 cover"
 reviews:
 - description: MAX series introducing Jessica Jones
   hashtag: alias-2001
@@ -117,14 +117,14 @@ Total issues covered in this post: 71. Not a lot!
 
 Total number of titles/volumes covered in this post: 7
 
-Total issues covered so far: 3,841 + 71 = 3,912.
+Total issues covered so far: 4,138 + 71 = 4,209.
 
 Current total (released) according to [the reference reading order](https://cmro.travis-starnes.com/reading-order.php?page=1&list_type=1&limit=30): 
 34,793 (+123 from 3 months ago, not a lot considering.)
 
-Progress: 11.24% (11.9% last post)
+Progress: 12.09% (11.9% last post)
 
-We have a slight dip in progress here since I didn't cover a lot of issues today. But I have a bunch of Luke Cage/Iron Fist stuff already read and queued up and I expect to write posts for those in the next couple of weeks, so we should recover quickly probably.
+Not a lot of progress here since I didn't cover a lot of issues today. But I have a bunch of Luke Cage/Iron Fist stuff already read and queued up and I expect to write posts for those in the next couple of weeks, so we should recover quickly probably.
 
 ### Up Next
 
