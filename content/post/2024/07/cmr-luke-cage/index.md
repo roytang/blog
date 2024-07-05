@@ -1,72 +1,75 @@
 ---
-date: 2024-07-05T12:03:38+08:00
+date: 2024-07-05 04:03:38
 dontinlinephotos: true
 resources:
 - src: pmifv3.jpg
-  title: "Power Man and Iron Fist v3 #2 cover"
+  title: 'Power Man and Iron Fist v3 #2 cover'
 reviews:
 - description: 'Retitled to Power Man in #17'
   hashtag: hero-for-hire-power-man-1972
   issues: 50
   media: comics
-  title: Hero for Hire / Power Man 
+  title: Hero for Hire / Power Man
   year: 1972
-- description: "Luke and Danny's longest ongoing series"
+- description: Luke and Danny's longest ongoing series
   hashtag: power-man-and-iron-fist-v1-1978
   issues: 76
   media: comics
   title: Power Man and Iron Fist v1
   year: 1978
-- description: ""
+- description: ''
   hashtag: cage-v1-1992
   issues: 20
   media: comics
   title: Cage v1
   year: 1992
-- description: "A fun series"
+- description: A fun series
   hashtag: power-man-and-iron-fist-v3-2016
   issues: 16
   media: comics
-  title: Power Man and Iron Fist v3
   rating: 5.0
+  title: Power Man and Iron Fist v3
   year: 2016
-- description: ""
+- description: ''
   hashtag: luke-cage-2017
   issues: 10
   media: comics
   title: Luke Cage
   year: 2017
-- description: "MAX imprint limited series. Not a fan."
+- description: MAX imprint limited series. Not a fan.
   hashtag: one-shots-and-limited-series
-  rating: 1.0
   issues: 5
   media: comics
+  rating: 1.0
   title: Cage v2
   year: 2002
-- description: "1920s alt-universe story"
+- description: 1920s alt-universe story
   hashtag: one-shots-and-limited-series
   issues: 5
   media: comics
   title: Cage Noir
   year: 2009
-- description: "Limited series"
+- description: Limited series
   hashtag: one-shots-and-limited-series
   issues: 3
   media: comics
-  title: "New Avengers: Luke Cage"
+  title: 'New Avengers: Luke Cage'
   year: 2010
-- description: "One-shot"
+- description: One-shot
   hashtag: one-shots-and-limited-series
   issues: 1
   media: comics
-  title: "Avengers Origin: Luke Cage"
+  title: 'Avengers Origin: Luke Cage'
   year: 2012
-- description: "Cartoonish limited series by Tartakovsky"
+- description: Cartoonish limited series by Tartakovsky
   hashtag: one-shots-and-limited-series
   issues: 4
   media: comics
-  title: "Cage v3"
+  title: Cage v3
   year: 2016
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112732934344453960
 tags:
 - comics
 - complete-marvel-run
