@@ -151,7 +151,16 @@ For most of the 2000s, Cage has been an Avenger and later a Thunderbolt, appeari
 
 ### MCU Comparisons
 
-Season 1 of the Netflix show was all about Kilgrave who is indeed Jessica's traditional nemesis (although he's also a Daredevil villain). But season 2 and 3 featured more minor villains as Jessica doesn't really have a deep rogue's gallery of her own. I really liked Kristen Ritter's portrayal though, and she is in mind whenever I read about Jessica in the comics.
+The Netflix series is generally true to Luke Cage's origins, though the series is much more strongly focused around Harlem and never goes into the Hero for Hire bit.
+
+Among the four main Netflix series, the supporting cast are kind of shuffled around compared to the comics:
+
+- Claire Temple, Luke's original comics love interest, appears first in *Daredevil* and *Jessica Jones* before becoming Luke's love interest. Her character is also merged a bit with comics character Linda Carter/Night Nurse
+- D.W. Griffith, Luke's white "landlord" in the comics, is nowhere to be found.
+- Jeryn Hogarth, the lawyer for Rand corp and Heroes for Hire, is gender-shifted and portrayed by Carrie-Anne Moss as a supporting character in *Jessica Jones*
+- Misty Knight, originally an Iron Fist supporting character, makes her first appearance in *Luke Cage* instead.
+
+All of the TV series antagonists are from Luke's comics rogues gallery: Diamondback, Cottonmouth, Black Mariah, Bushmaster
 
 ### Progress Bar
 
