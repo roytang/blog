@@ -4,16 +4,21 @@ categories: []
 date: 2019-07-07 05:56:56
 reviews:
 - media: movies
-  title: Spider-Man Far From Home (2019)
+  title: "Spider-Man: Far From Home (2019)"
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1148110146637357057/
 - type: tumblr
-  url: https://roytang.tumblr.com/post/186106505285
+  url: https://roytang.tumblr.com/post/186106505285/spider-man-far-from-home-spoiler-free-review
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1147690628924526593/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157580584263912
 tags:
 - movies
 - mcu
-title: Spider-Man Far From Home
+- marvel
+title: "Spider-Man: Far From Home"
 type: post
 ---
 
