@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/24476738633334784/
 - type: plurk
   url: https://plurk.com/p/a32ey5
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/117933918280139
 ---
 
 My PC's CPU cores' temperature rise rapidly when there's any sort of high load. What should I look for?

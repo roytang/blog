@@ -1,0 +1,11 @@
+{
+  "id": "141d1534-5b73-4792-9f6e-ab0d51625c63",
+  "name": "Pinoy Hatdog",
+  "url": "https://www.facebook.com/pinoyhatdog",
+  "text": "Some thoughts/suggestions:<br/>- Go to the BIOS, set everything back to factory defaults.<br/>- Check if your PC has any soft OCing software (e.g. Asus has it's own soft OCing program that by default auto OCs your CPU). If there's one, turn it off.<br/>- Check if there's enough airflow in and out of your case. Clean the airflow points of your case to ensure the air can go in and out easily.<br/>- Maybe the temps are high, but are still within the acceptable bounds of the chip?<br/>- Check if your CPU's heatsink got dislodged somehow (highly unlikely).<br/>- Replace your CPU's thermal paste.",
+  "date": "2011-01-11 23:11:00 +0800",
+  "photo": null,
+  "source_url": "https://www.facebook.com/stephen.roy.tang/posts/117933918280139#1",
+  "source": "facebook",
+  "spam": false
+}
