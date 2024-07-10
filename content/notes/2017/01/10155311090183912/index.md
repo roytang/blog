@@ -1,5 +1,5 @@
 ---
-date: 2017-01-25 20:50:00+08:00
+date: 2017-01-25 12:50:00
 dontinlinephotos: true
 repost_source:
   name: Janjan Comics
@@ -9,6 +9,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155311090183912
+tags:
+- webcomics
 ---
 
 Janjan Comics
