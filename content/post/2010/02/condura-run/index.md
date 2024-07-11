@@ -4,8 +4,6 @@ date: 2010-02-07
 resources:
 - src: 20231230_224557.jpg
   title: 'I still have the finisher''s medal!'
-- src: 26717_375420303911_6509419_n_375420303911.jpg
-  title: 'Eto yung proof na tumakbo talaga ako. Pero feeling ko sa may start pa ito, parang marami pa kong energy based sa facial expression 😃'
 - src: 5kbig.jpg
   title: 'The 5k Route'
 syndicated:
@@ -13,12 +11,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/296203119075
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/289304169683
-- type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/375420313911
-- type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/375420303911
 tags:
 - backpost
+- running
 title: Condura Run
 ---
 

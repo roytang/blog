@@ -1,8 +1,10 @@
 ---
 author: roy
 categories: []
-date: 2019-03-21 05:56:56
+date: 2019-03-20T03:41:00+08:00
 syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1108091740316065793/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1108609656723787776/
 - type: facebook
@@ -10,9 +12,11 @@ syndicated:
 tags:
 - politics
 - Philippines
-title: Discerning motives
+title: Discerning Motives
 type: post
 ---
+
+I'm up at 3am thinking about how/why people become compromised and it makes me sad
 
 Scenario: Someone I know, let's call him/her Person A, appears to be supporting Party B, who in my opinion represents some of the worsts traits of Philippine politics (including but not limited to corruption, patronage, personality politics, etc). Now, I like to be optimistic about people and give them the benefit of the doubt, so in a bid to understand I tried to list down some possible motivations for Person A to do so.
 
