@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/752679115585646592/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154738171438912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10161001577233912  
 tags:
 - quora
 - Self-improvement
