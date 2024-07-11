@@ -36,3 +36,9 @@ Address: Glorietta, Ayala Center, 1226 Makati
 One of David's "handsome friends" was in the house!!! :)))
 
 {{% photos 10264804_10152155301266589_8892073982131802554_n %}}
+
+---
+
+[Photos c/o Dax](https://www.facebook.com/media/set/?vanity=Drax.dZion&set=a.10152352589548503):
+
+{{% photos dax %}}

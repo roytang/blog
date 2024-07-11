@@ -1,17 +1,9 @@
 ---
-title: "Captain America Civil War"
-backpost_date: 2024-01-20T08:03:30+08:00
-date: 2016-04-27T23:00:00+08:00
-syndicated:
-- type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10154562419893912
-- type: reddit
-  url: https://www.reddit.com/r/comicbooks/comments/4gubpz/movie_megathread_spoilers_captain_america_civil/d2l1qqy/
-title: "Captain America: Civil War (2016)"
-tags:
-- movies
-- mcu
-- backpost
+backpost_date: 2024-01-20 00:03:30
+date: 2016-04-27 15:00:00
+resources:
+- src: 13091887_10154133182301726_5324299956775642440_n.jpg
+  title: Photo c/o Brian
 reviews:
 - date: '2016-04-27'
   description: Spoiler-free review
@@ -19,6 +11,16 @@ reviews:
   media: movies
   rating: 0.0
   title: 'Captain America: Civil War (2016)'
+syndicated:
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154562419893912
+- type: reddit
+  url: https://www.reddit.com/r/comicbooks/comments/4gubpz/movie_megathread_spoilers_captain_america_civil/d2l1qqy/
+tags:
+- movies
+- mcu
+- backpost
+title: 'Captain America: Civil War (2016)'
 ---
 
 Captain America Civil War spoiler-free review:
@@ -50,5 +52,3 @@ The Raft: Didn't they also have a Raft in Agents of SHIELD? Then again, the movi
 During the airport fight sequence, I was expecting someone to switch sides at some point and thought it would be Spidey (since you know, Civil War), but happy to be surprised it was Natasha.
 
 Some minor airport fight nitpicks: after they square off in the middle of the airport they break off into pairs but Vision is conspicuously absent. I don't think he does anything significant until Giant-Man, which is weird given he's the most powerful guy there. Also, at some point Falcon and Bucky ge
-
-

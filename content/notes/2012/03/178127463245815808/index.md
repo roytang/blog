@@ -19,4 +19,4 @@ Geekfightin' (@ Quantum Cafe) http://4sq.com/ymFj1t
 
 I just unlocked the “Herbivore” badge on @foursquare! Vegan cupcakes for everyone! http://4sq.com/AbzUB5
 
-Photos c/o GeekFight! Trivia Night
+Photos c/o GeekFight! Trivia Night and [Bimbo](https://www.facebook.com/media/set/?set=a.4797928037121&type=3)
