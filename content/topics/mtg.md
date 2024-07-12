@@ -69,7 +69,7 @@ I know, I know this page layout could use a lot of work.
 | **2014** |
 | **Sep** | Khans of Tarkir | [Prerelease](/2014/12/khans-of-tarkir/#prerelease) | |
 | **Jul** | Magic 2015 | | |
-| **May** | Journey into Nyx | [Prerelease](/2014/04/460051750901129216/) | |
+| **May** | Journey into Nyx | [Prerelease](/2014/04/10152921488388912/) | |
 | **Feb** | Born of the Gods | | |
 | **2013** |
 | **Sep** | Theros | | |
