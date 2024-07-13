@@ -63,6 +63,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/36211922105802752/
 - type: twitter
   url: https://twitter.com/roytang/statuses/36212486378102784/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/118976861476988
 tags:
 - gaming
 - backpost
@@ -124,6 +126,8 @@ Looks like the 99 cents for SF4 on the iPad was well-spent. It plays pretty well
 ---
 
 <time>[2010-06-03 07:24] </time> My left thumb hurts from playing #SSF4 all night =/
+
+[Comments](#comment-c799ebeb-ee54-442c-abcf-26ba08ffcc93)
 
 ---
 

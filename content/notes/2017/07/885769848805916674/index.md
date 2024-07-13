@@ -1,5 +1,5 @@
 ---
-date: 2017-07-14 07:56:03+00:00
+date: 2017-07-14 07:56:03
 repost_source:
   name: inthefade
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/885769848805916674/
+tags:
+- webcomics
 title: ''
 ---
 
