@@ -1,9 +1,11 @@
 ---
-date: 2015-07-15 00:51:02+00:00
+date: 2015-07-15 00:51:02
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/621119748009533440/
+tags:
+- mtg
 ---
 
 This is my favorite so far 
