@@ -44,6 +44,8 @@ On the blog: No other blog posts this past week! I will write some more next wee
 
 This past week (Sunday through Saturday) Google Fit says I only walked a total of 30,954 steps. Sunday to Tuesday were lost due to a general lack of time, and that just kept unmotivated for the rest of the week; I only hit the 10k target during Wednesday, though Thursday was close. Hoping to get back into it this week.
 
+This is yet another cruel reminder of the kind of adjustment I would have to make if I ever go back to a full-time office job.
+
 ### Some Links of Interest
 
 - [It’s not about nostalgia, it’s about human connection • rscottjones](https://rscottjones.com/its-not-about-nostalgia-its-about-human-connection/)
