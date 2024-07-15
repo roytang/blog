@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/17085362023/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/135348869825159
 ---
 
 My laptop's CPU temp is normally around 85C. is that bad?

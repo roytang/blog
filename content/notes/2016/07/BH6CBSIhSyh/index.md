@@ -41,6 +41,10 @@ tags:
 title: Eldritch Moon Prerelease
 ---
 
+First Pod @ NG Trinoma
+
+Second Pod @ MTG Vault. 
+
 Lets go #mtgemn
 
 <time>[14:30]</time> Went 3-0 in the #mtgemn prerelease. Boo for only 3 rds

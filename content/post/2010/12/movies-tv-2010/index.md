@@ -173,6 +173,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/26451150541/
 - type: plurk
   url: https://plurk.com/p/80qsgp
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/119482718095956
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/123927447652035
 tags:
 - movies
 - tv
@@ -217,11 +221,15 @@ toc: true
 
 <time>[2010-06-27 23:08] </time> Just came back from Toy Story 3
 
+[Comments](#comment-8d562cc9-9545-4b66-9adf-5aa03acd409e)
+
 ---
 
 #### Inception (2010)
 
 <time>[2010-07-16 19:55] </time> Going to watch inception
+
+[Comments](#comment-f121713b-5d9d-4b10-9ce2-d3017eb4ffff)
 
 ---
 

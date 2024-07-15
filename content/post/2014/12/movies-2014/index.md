@@ -46,10 +46,10 @@ reviews:
   title: Edge of Tomorrow (2014)
 - date: '2014-07-16'
   description: ''
-  hashtag: rise-of-the-planet-of-the-apes-2014
+  hashtag: dawn-of-the-planet-of-the-apes-2014
   media: movies
   rating: 0.0
-  title: Rise of the Planet of the Apes (2014)
+  title: Dawn of the Planet of the Apes (2014)
 - date: '2014-07-31'
   description: ''
   hashtag: guardians-of-the-galaxy-2014
@@ -197,7 +197,7 @@ Nitpicks from group chats:
 
 <time>[2014-06-08 01:15]</time> It would be great if they made a sequel to Edge of Tomorrow and it starts with Tom Cruise dying of old age in a hospital, then after that it's the exact same movie #livedierepeat
 
-#### Rise of the Planet of the Apes (2014)
+#### Dawn of the Planet of the Apes (2014)
 
 <time>[2014-07-16 20:29] </time> I'm at [Pizza Hut Bistro (Quezon City, Metro Manila)](/locations/4d26f5213c79548191f0bf9b)
 
