@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - marvel
 - daredevil
 date: 2023-09-27 19:04:24

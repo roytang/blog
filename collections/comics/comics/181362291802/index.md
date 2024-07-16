@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - spider-man
 - marvel
 - brown

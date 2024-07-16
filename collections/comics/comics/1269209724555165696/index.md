@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - dc
 - green lantern
 - far sector

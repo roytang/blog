@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - dc comics
 - young justice
 - gleason

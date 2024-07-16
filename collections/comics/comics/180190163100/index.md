@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - marvel
 - ghost rider
 - guardians of the galaxy

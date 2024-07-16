@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - green arrow
 - green lantern
 - drugs

@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - dc
 - new superman
 date: 2019-02-02 02:00:51

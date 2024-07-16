@@ -1,5 +1,5 @@
 ---
-comics/tags: 
+tags: 
 - saga
 - staples
 date: 2014-08-27 06:45:50

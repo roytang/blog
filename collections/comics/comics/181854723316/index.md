@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - image
 - stormwatch
 - jim lee

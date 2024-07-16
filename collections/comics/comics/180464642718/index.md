@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - marvel
 - spider man
 - slott

@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - dynamite
 - masks
 - ross

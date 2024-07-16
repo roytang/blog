@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - dc
 - teen titans
 date: 2018-12-11 02:00:56

@@ -1,5 +1,5 @@
 ---
-comics/tags: []
+tags: []
 date: 2019-02-11 02:00:33
 syndicated:
 - type: tumblr

@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - dc comics
 - superman
 - hughes

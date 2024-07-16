@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - marvel
 - x-men
 - x-force

@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - thor
 - marvel
 - dauterman

@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - dc
 - hawkman
 - scalera

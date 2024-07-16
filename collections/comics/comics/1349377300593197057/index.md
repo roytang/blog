@@ -1,5 +1,5 @@
 ---
-comics/tags: 
+tags: 
 - marvel
 - spider-man
 date: 2021-01-13 15:26:33

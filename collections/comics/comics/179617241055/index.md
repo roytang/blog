@@ -1,5 +1,5 @@
 ---
-comics/tags: 
+tags: 
 - dc
 - batman
 date: 2018-10-31 10:53:12

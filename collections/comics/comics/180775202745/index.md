@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - dc
 - dc comics
 - justice league

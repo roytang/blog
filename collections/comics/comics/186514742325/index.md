@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - marvel
 - x men
 date: 2019-07-24 12:08:21

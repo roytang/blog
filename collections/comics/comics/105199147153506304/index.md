@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - dc
 - power girl
 date: 2011-08-21 08:46:45

@@ -1,5 +1,5 @@
 ---
-comics/tags: 
+tags: 
 - dc
 - justice league
 date: 2022-04-27 11:57:19

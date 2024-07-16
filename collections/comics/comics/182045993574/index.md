@@ -1,5 +1,5 @@
 ---
-comics/tags: 
+tags: 
 - marvel
 - ross
 date: 2019-01-16 02:00:37

@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - marvel
 - journey into mystery
 - immonen

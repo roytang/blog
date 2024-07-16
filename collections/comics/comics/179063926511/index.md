@@ -1,5 +1,5 @@
 ---
-comics/tags: 
+tags: 
 - dc
 - watchmen
 date: 2018-10-15 02:00:41

@@ -1,5 +1,5 @@
 ---
-comics/tags: 
+tags: 
 - dc
 - superman
 date: 2018-12-17 02:00:35

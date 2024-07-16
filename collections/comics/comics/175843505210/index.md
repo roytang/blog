@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - spider-man
 - marvel
 date: 2018-07-13 09:51:02

@@ -1,5 +1,5 @@
 ---
-comics/tags:
+tags:
 - marvel
 - champions
 - spider-man
