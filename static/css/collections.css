@@ -13,3 +13,9 @@ blockquote.embed .embed_foot {
     font-size: var(--font-size-smaller);
     color: var(--deemphasized-text-color);
 }
+
+body.collections_comics .entry_list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: masonry;
+}

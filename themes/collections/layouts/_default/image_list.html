@@ -1,4 +1,4 @@
-
+<div class="image-list">
 {{ $mainPermalink := .RelPermalink }}
 {{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
 {{ $caption := .Title | default .Summary }}
@@ -14,3 +14,4 @@
     <a href="{{ $mainPermalink }}">View post</a>
 </div>
 {{ end }}
+</div>

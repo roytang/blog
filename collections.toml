@@ -34,6 +34,7 @@ canonifyURLs = true
 
 [permalinks]
     "notes" = "/:filename/"
+    "comics" = "/:filename/"
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -42,8 +43,8 @@ canonifyURLs = true
     collections = true
     collections_root = true
     rootPath = "collections/"
-    staticRoot = "https://roytang.net/media/"
-    # staticRoot = "http://localhost/repos/blog/"
+    # staticRoot = "https://roytang.net/media/"
+    staticRoot = "http://localhost/repos/blog/"
     homeShowRecentItems = false
 
     # You can use markdown here.

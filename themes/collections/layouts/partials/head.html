@@ -23,7 +23,7 @@
   <link rel="stylesheet" href="{{ $staticRoot  }}{{ . }}" type="text/css" />
   {{ end }}
 </head>
-<body class="{{ .Kind }} collections">
+<body class="{{ .Kind }} collections collections_{{ .Site.Params.collection_name }}">
     <div class="wrapper">
         {{ partialCached "header" . }}
         <div class="main_content{{ with.Params.contentClass }} {{ . }}{{ end }}">
