@@ -1,9 +1,12 @@
 ---
-title: "Douglas Adams on How We See Technology"
-date: 2024-07-16T21:56:21+08:00
+date: 2024-07-16 13:56:21
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112796548051642699
 tags:
 - quotes
 - technology
+title: Douglas Adams on How We See Technology
 ---
 
 > “I've come up with a set of rules that describe our reactions to technologies:
@@ -20,6 +23,3 @@ Assuming a more flexible definition of "invented" to include anything that becam
 1. Cars, television, etc
 2. The world wide web
 3. Tiktok, algorithmic feeds, targetted advertising, bitcoin, LLMs, GenAI, ridiculously bloated frontend JS frameworks, etc
-
-
-
