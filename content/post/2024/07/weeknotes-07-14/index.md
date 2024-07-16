@@ -24,7 +24,7 @@ By Thursday I was ready to do something a bit more relaxing, so the trivia team 
 
 Friday was rest. I also managed to hit the 2000 day streak on Duolingo:
 
-{{< note 2024/07/112771626087281717/ >}}
+{{< note "2024/07/112771626087281717/" >}}
 
 Saturday we had to go to our regularly-scheduled doctor's checkups (including the rare medical checkup for myself!)
 
