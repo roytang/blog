@@ -7,6 +7,6 @@ syndicated:
 title: ''
 ---
 
-http://lemire.me/blog/2017/07/15/what-is-modern-programming/amp/
+http://lemire.me/blog/2017/07/15/what-is-modern-programming/
 
-[What is “modern” programming? – Daniel Lemire's blog](http://lemire.me/blog/2017/07/15/what-is-modern-programming/amp/)
+[What is “modern” programming? – Daniel Lemire's blog](http://lemire.me/blog/2017/07/15/what-is-modern-programming/)

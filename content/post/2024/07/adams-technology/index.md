@@ -15,8 +15,9 @@ title: Douglas Adams on How We See Technology
 > 2. Anything that's invented between when you’re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it.
 > 3. Anything invented after you're thirty-five is against the natural order of things.”
 > 
-> -- [Douglas Adams, The Salmon of Doubt: Hitchhiking the Galaxy One Last Time](https://www.goodreads.com/quotes/39828-i-ve-come-up-with-a-set-of-rules-that-describe)
+> -- Douglas Adams, [The Salmon of Doubt: Hitchhiking the Galaxy One Last Time](https://www.goodreads.com/quotes/39828-i-ve-come-up-with-a-set-of-rules-that-describe) (originally from [How to Stop Worrying and Learn to Love the Internet](https://douglasadams.com/dna/19990901-00-a.html))
 >
+> 
 
 Assuming a more flexible definition of "invented" to include anything that became widespread/mainstream at the given time:
 
