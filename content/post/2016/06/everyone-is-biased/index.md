@@ -5,6 +5,8 @@ date: 2016-06-21 01:30:12
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/745072693842612225/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10161001529008912
 tags:
 - Opinions
 title: Everyone is Biased
