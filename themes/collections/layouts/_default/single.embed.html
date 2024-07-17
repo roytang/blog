@@ -1,14 +1,28 @@
 <blockquote class="embed">
-{{ partial "block/title" . }}
 {{ .Content }}
 
+<div class="image-list">
 {{ $t := .Site.Params.collection_name }}
 {{ $i := .RelPermalink }}
+{{ $crbase := printf "##collections_root##%s/" $t }}
+
+{{ $mainPermalink := .RelPermalink }}
+{{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
+{{ $caption := .Title | default .Summary }}
+{{ with .Resources.ByType "image" }}
+{{ range . }}
+
+{{ partial "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink "postDate" $postDate "urlbase" $crbase) }}
+
+{{ end }}
+{{ end }}
+</div>
+
 <div class="embed_foot">from 
-    <a {{ printf "href='{{collections_root}}'" | safeHTMLAttr }}>Collections</a> 
+    <a href="##collections_root##">Collections</a> 
     > 
-    <a {{ printf "href='{{collections_root}}%s/'" $t | safeHTMLAttr }}>{{ .Site.Params.collection_title }}</a>
+    <a href="##collections_root##{{ $t }}">{{ .Site.Params.collection_title }}</a>
     > 
-    <a {{ printf "href='{{collections_root}}%s%s'" $t $i | safeHTMLAttr }}>#</a>
+    <a href="##collections_root##{{ $t }}{{ $i }}">{{ if .Title }}{{ .Title }}{{ else }}#{{ end }}</a>
 </div>
 </blockquote>

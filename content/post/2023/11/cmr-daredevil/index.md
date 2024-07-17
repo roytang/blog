@@ -87,7 +87,7 @@ As is typical of early Marvel volumes, the first decade or two of Daredevil was 
 
 Daredevil's early stable of villains was pretty weak, especially compared to Spider-Man's stable: many of Spider-Man's early villains like Doctor Octopus (ASM #3), Electro (ASM #9), Green Goblin (ASM#14), etc have gone on to have prominent story arcs up to the modern day and even appeared in feature films while Daredevil's early villains was a rotating stable of eventual B- and C-listers like Mr Hyde and Cobra, Stilt-Man, the Trickster, Mr Fear, The Gladiator (Melvin Poter), and so on, villains who never really made a huge impact on the Marvel universe.
 
-{{% note "2023/09/111138666200388561/" %}}
+{{% collections-embed comics 111138666200388561 %}}
 
 The first real iconic Daredevil villain was Bullseye, introduced in the 1970s by Wolfman and Romita Sr. During this decade, Matt and Karen also split up, with Karen moving to the West Coast to pursue an acting career, and she was replaced as Daredevil's love interest by Natasha Romanov, the Black Widow. The book was even titled Daredevil and Black Widow for a while! 
 
@@ -156,7 +156,7 @@ This is Mark Waid's first run on Daredevil, and is significantly more light-hear
 
 The volume ends with Matt being blackmailed by a neo-Nazi group that has proof of his secret identity. To get around the blackmail, Matt testifies in court to being Daredevil!
 
-{{% note "2018/10/179606478532/" %}}
+{{% collections-embed comics 179606478532 %}}
 
 ### Daredevil v4
 
