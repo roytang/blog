@@ -95,6 +95,7 @@ The game also has several alternate game modes you could apply to your games:
 - Religious victory can come out of nowhere with almost zero warning. I've had multiple games suddenly lost because I wasn't paying attention to religion. I'm often tempted to just disable religious victory! 
 - Diplomatic victory can have a similar problem, but to a lesser extent since there's a periodic diplomatic vote that can tell you what's going on.
 - Late game warfare continues to be super tedious.
+- Great artists run out of use in the late game when you no longer have great work slots to spare. They should have given them some late game function maybe similar to rock bands.
 - The Philippines still not appearing as a new Civ! So far among the SEA nations I believe Indonesia, Thailand, and Vietnam have been represented as major civs, with Indonesia even returning from Civ5.
 
 ### How I play Civ games

@@ -1,11 +1,12 @@
 ---
-date: 2017-07-18 23:33:00+08:00
+date: 2017-07-18 15:33:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155871975868912
 tags:
 - survey
+- gameofthrones
 ---
 
 Survey: Who do you think dies first: 
