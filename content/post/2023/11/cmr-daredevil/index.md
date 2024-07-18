@@ -189,7 +189,7 @@ At some point, Matt's "twin brother" Mike Murdock, an alias he has used in the p
 
 The volume ends with "The Death of Daredevil", a story arc where Matt gets hit by a car and while in the ambulance has an extended dream sequence that has him taking down his enemies and finding proof Wilson Fisk cheated in the elections and taking him down. I was fooled by this dream sequence TWICE, once when I first read the arc, and the second time when I was re-reading it for this post. The key was the villain Ikari who Matt fought during the dream sequence, which was weird considering Ikari was killed during Waid's run! Both times I googled how Ikari survived, only to realize a few issues later it was a dream sequence! I'm not sure how this particular story arc was received lol.
 
-{{% note "2018/11/180089412453/" %}}
+{{% collections-embed comics 180089412453 %}}
 
 Soule's regular artist on this run was Ron Garney, whose work I'm also a big fan of.
 

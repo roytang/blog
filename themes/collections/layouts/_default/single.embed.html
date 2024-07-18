@@ -19,10 +19,10 @@
 </div>
 
 <div class="embed_foot">from 
-    <a href="##collections_root##">Collections</a> 
+    <a {{ printf "href='{{collections_root}}'" | safeHTMLAttr }}>Collections</a> 
     > 
-    <a href="##collections_root##{{ $t }}">{{ .Site.Params.collection_title }}</a>
+    <a {{ printf "href='{{collections_root}}%s/'" $t | safeHTMLAttr }}>{{ .Site.Params.collection_title }}</a>
     > 
-    <a href="##collections_root##{{ $t }}{{ $i }}">{{ if .Title }}{{ .Title }}{{ else }}#{{ end }}</a>
+    <a {{ printf "href='{{collections_root}}%s%s'" $t $i | safeHTMLAttr }}>{{ if .Title }}{{ .Title }}{{ else }}#{{ end }}</a>
 </div>
 </blockquote>
