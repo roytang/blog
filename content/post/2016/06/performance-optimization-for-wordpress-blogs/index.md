@@ -5,6 +5,8 @@ date: 2016-06-30 01:30:32
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/748331247005499392/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10161001558513912
 tags:
 - wordpress
 - Software Development
