@@ -1,9 +1,12 @@
 ---
-date: 2018-07-18T23:24:05+08:00
+date: 2018-07-18 15:24:05
+location: bluesmith
+resources:
+- src: 37316975_10155287568241268_5642030887278215168_n.jpg
+  title: Photo c/o Carl
 tags:
 - popquiz
 - quiznight
-location: bluesmith
 ---
 
 We attended [PopQuiz: 2nd Anniversary: Revenge of the Teams](https://www.facebook.com/events/2600019716890088).

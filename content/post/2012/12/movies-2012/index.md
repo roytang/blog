@@ -1,9 +1,6 @@
 ---
 backpost_date: 2024-01-13 01:56:40
 date: 2012-12-31
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/188051007224295424/
 tags:
 - movies
 - backpost
@@ -142,6 +139,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/219758979302178816/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151704387308912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/225848297615671296/
 ---
 
 #### Shaun of the Dead (2004)
@@ -167,6 +166,8 @@ syndicated:
 <time>[2012-07-01 01:07] </time> Spent the second half of the day watching the Lord of the Rings trilogy.
 
 #### The Dark Knight Rises (2012)
+
+<time>[2012-07-19 15:03] </time> TDKR spoilers: Wow. Nolan knows how to end a trilogy
 
 <time>[2012-07-19 15:28] </time> TDKR: Fantastic movie, especially for people who've followed the Batman comics. Great ending!
 

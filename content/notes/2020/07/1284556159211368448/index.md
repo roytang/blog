@@ -1,5 +1,5 @@
 ---
-date: 2020-07-18 18:30:28+00:00
+date: 2020-07-18 18:30:28
 repost_source:
   name: kevinleeme
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1284556159211368448/
+tags:
+- threads
 title: ''
 ---
 
