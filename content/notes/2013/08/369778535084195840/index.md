@@ -11,4 +11,4 @@ syndicated:
 title: ''
 ---
 
-Groklaw shuts down:"There is now no shield from forced exposure" by the US. http://goo.gl/HGCvf9 I started crying, reading PJ's last post.
+Groklaw shuts down:"There is now no shield from forced exposure" by the US. http://www.groklaw.net/article.php?story=20130818120421175 I started crying, reading PJ's last post.

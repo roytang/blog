@@ -15,7 +15,7 @@ tags:
 
 Life-size Gundam Statue Will Be Closing On March 5th 2017
 
-VIEW MORE INFO: https://goo.gl/AE5Vbz
+VIEW MORE INFO: http://gundamguy.blogspot.com/2016/12/life-size-gundam-statue-will-be-closing.html
 
 WEBSTORE: www.gginfinite.com
 

@@ -10,4 +10,4 @@ syndicated:
   url: https://twitter.com/roytang/statuses/287337580322750464/
 ---
 
-45 Amazing Facts for National Trivia Day — http://goo.gl/ksT3k
+45 Amazing Facts for National Trivia Day — https://www.mentalfloss.com/blogs/archives/158600
