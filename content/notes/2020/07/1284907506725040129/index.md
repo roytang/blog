@@ -1,9 +1,11 @@
 ---
-date: 2020-07-19 17:46:36+00:00
+date: 2020-07-19 17:46:36
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1284907506725040129/
+tags:
+- webcomics
 title: ''
 ---
 
