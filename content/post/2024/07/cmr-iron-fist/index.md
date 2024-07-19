@@ -1,23 +1,106 @@
 ---
-date: 2024-07-18T20:15:22+08:00
+date: 2024-07-19 07:15:22
 dontinlinephotos: true
-draft: true
 resources:
-- src: pmifv3.jpg
-  title: 'Power Man and Iron Fist v3 #2 cover'
+- src: ifhotd_03.PNG
+  title: 'Iron Fist: Heart of the Dragon #3: I see a PH location, I take a screenshot'
+- src: iftlv_06.PNG
+  title: 'Iron Fist: The Living Weapon #6: This series had some great covers'
+- src: ifv4_03.PNG
+  title: 'Iron Fist v4 #3: They gave him kicks after decades of slippers!'
+- src: mp_15.PNG
+  title: 'Marvel Premiere #15: I like it when the writer makes up kung-fu moves; turns out it was there from his first appearance!'
 reviews:
-- description: Cartoonish limited series by Tartakovsky
+- description: 'Review only covers #1-30'
+  hashtag: marvel-premiere-1972
+  issues: 30
+  media: comics
+  title: Marvel Premiere (1972)
+  year: 1972
+- description: ''
+  hashtag: iron-fist-v1-1975
+  issues: 15
+  media: comics
+  title: Iron Fist v1 (1975)
+  year: 1975
+- description: Includes 1 annual, 2 Orson Randall one-shots
+  hashtag: immortal-iron-fist-2007
+  issues: 30
+  media: comics
+  title: Immortal Iron Fist (2007)
+  year: 2007
+- description: ''
+  hashtag: iron-fist-the-living-weapon-2014
+  issues: 12
+  media: comics
+  title: 'Iron Fist: The Living Weapon (2014)'
+  year: 2014
+- description: ''
+  hashtag: iron-fist-2017
+  issues: 15
+  media: comics
+  title: Iron Fist (2017)
+  year: 2017
+- description: ''
+  hashtag: one-shots-and-limited-series
+  issues: 2
+  media: comics
+  title: Iron Fist v2
+  year: 1994
+- description: ''
+  hashtag: one-shots-and-limited-series
+  issues: 3
+  media: comics
+  title: Iron Fist v3
+  year: 1996
+- description: ''
   hashtag: one-shots-and-limited-series
   issues: 4
   media: comics
-  title: Cage v3
-  year: 2016
+  title: Iron Fist / Wolverine
+  year: 2000
+- description: ''
+  hashtag: one-shots-and-limited-series
+  issues: 6
+  media: comics
+  title: Iron Fist v4
+  year: 2004
+- description: ''
+  hashtag: one-shots-and-limited-series
+  issues: 5
+  media: comics
+  title: Immortal Weapons
+  year: 2009
+- description: ''
+  hashtag: one-shots-and-limited-series
+  issues: 5
+  media: comics
+  title: Power Man and Iron Fist v2
+  year: 2011
+- description: ''
+  hashtag: one-shots-and-limited-series
+  issues: 6
+  media: comics
+  title: Immortal Iron Fists
+  year: 2017
+- description: ''
+  hashtag: one-shots-and-limited-series
+  issues: 6
+  media: comics
+  title: 'Iron Fist: Heart of the Dragon'
+  year: 2021
+- description: ''
+  hashtag: one-shots-and-limited-series
+  issues: 5
+  media: comics
+  title: Iron Fist v7
+  year: 2022
 tags:
 - comics
 - complete-marvel-run
 - marvel
 - ironfist
-title: 'The Complete Marvel Run part 11: Luke Cage'
+title: 'The Complete Marvel Run part 11: Iron Fist'
 toc: true
 ---
 
@@ -40,6 +123,8 @@ Marvel Premiere was a 61-issue anthology series featuring different Marvel chara
 #3-#14: Featuring Doctor Strange. The first arc introduces Shuma-Gorath and his minions and has a very strong Lovecraftian Eldritch Horror feel to it. The second arc introduces Sise-neg.
 
 #15-#25: First appearance of Iron Fist (Danny Rand), Colleen Wing, and Misty Knight. Danny leaves Kun-lun seeking vengeance, but finally finds Harold Meachum a sad and broken old man who is eventually killed by someone else. The stories were popular enough to start a standalone series after #25. This run had way too much of Danny talking to himself.
+
+{{% photos mp %}}
 
 #26: Featuring Hercules, going up against Typhon and Cylla (a new character that was never seen again!)
 
@@ -65,6 +150,8 @@ This was the first actual Iron Fist series that I read; before this one I had on
 
 12 issues. 
 
+{{% photos iftlv %}}
+
 Written and illustrated by Kaare Andrews. Some funky art, pretty good. First appearance of Pei, a young monk who eventually becomes an Iron Fist herself, and Sparrow, daughter of Lei Kung the Thunderer and eventual leader of Kun-Lun. It is revealed that Danny's father survived the fall from their Kun-Lun expedition but was trapped in a state between life and death and eventually merged with the discarded "The One" robot used to test Iron Fist aspirants. In an attempt to reunite with Danny's mother, The One accidentally summons a fiery god of death. Danny punches the fire god. Notably, this series gives Danny his new tracksuit-like costume design.
 
 #### Iron Fist (2017)
@@ -80,12 +167,19 @@ Danny has so many LS!
 - Iron Fist v2 (1994) - 2 issue limited series. Terrible art. Just an excuse to rematch Iron Fist and Steel Serpent, returned from the dead.
 - Iron Fist v3 (1996) - 3 issue limited series. Slightly better andmore vibrant art, still full of 90s excess. Nice Carlos Pacheco covers. Final fate of Danny's sister Miranda.
 - Iron Fist/Wolverine (2000) - 4 issue limited series. Actually involves a of other heroes in supporting roles. Follows up on a dangling plot point from Heroes for Hire v1 (we'll cover that series in the next post!)
-- Iron Fist v4 (2004) - 6 issue limited series. Danny goes off wandering alone, unsure about his direction in life or his role as a hero. Not very notable.
+- Iron Fist v4 (2004) - 6 issue limited series. Danny goes off wandering alone, unsure about his direction in life or his role as a hero. Not very notable. Very anime.
+
+{{% photos ifv4 %}}
+
 - Immortal Weapons (2009) - 5 issue limited series spinning out of *Immortal Iron Fist*. Each issue covers the back story of one of the other Immortal Weapons. Backup story is about one of Danny's students at the School of Thunder.
 - Power Man and Iron Fist v2 (2011) - 5 issue limited series. Spinning out of [the Shadowland crossover](/2023/11/cmr-daredevil/#shadowland) where Danny met Victor Alvarez, a new hero who has taken the "Power Man" mantle. They investigate a case for former Heroes for Hire secretary Jennie Royce.
 - Immortal Iron Fists (2017) - 6 issue limited series. Mostly a continuation of Kaare Andrews' *Iron Fist the Living Weapon*, except he has a different artist this time. Pei has stayed behind on Earth to become Danny's student and faces the greatest challenge of her life: high school. Also, Danny vs the daughters of Mara.
 - Iron Fist: Heart of the Dragon (2021) - 6 issue limited series. The immortal dragons are being hunted down and Danny has to get the aid of other heroes to help stop an ancient evil. In the end, Danny gives up the power of Shou-Lao and becomes depowered.
-- Iron Fist v7 - 5 issue limited series. Introduces a new Iron Fist: Lin Lie, who was previously the Sword Master. Instead of undergoing the Iron Fist trials, Shou-Lao chose to bestow his power upon Lin Lie directly. At the end of this series, Kun Lun is taken over by his brother Lin Feng.
+
+{{% photos ifhotd %}}
+
+- Iron Fist v7 (2022) - 5 issue limited series. Introduces a new Iron Fist: Lin Lie, who was previously the Sword Master. Instead of undergoing the Iron Fist trials, Shou-Lao chose to bestow his power upon Lin Lie directly. At the end of this series, Kun Lun is taken over by his brother Lin Feng.
+
 
 #### Other Appearances
 
@@ -120,9 +214,23 @@ Current total (released) according to [the reference reading order](https://cmro
 
 Progress: 13.02% (12.63% last post)
 
-### A Note on The Complete Marvel Run
+### Notes on The Complete Marvel Run So Far
 
+1. I am reading comics faster than I can write about them (I am still reading current/newer comics in addition to the oldies)
+2. I want that progress % to go up faster
+3. I don't want to post about comics too often because I don't want the blog to be all about comics
+4. I also no longer want to take like 3 months between posts because that results in very very long posts
+5. I thought that I can get some % gains at some point by covering the large number of comics I've already read, but based on the last year or so, I end up having to re-read them anyway to remember the details so I can write about them
 
+I think a pace of a post every 2-3 weeks or so is reasonable and doesn't violate #3 or #4. But given all of the above I might have to accept that it's unlikely I can finish this complete Marvel run in 5 years like I initially planned.
+
+Why do I need to write so many details about each series as I read them anyway? In theory I could just use a spreadsheet to track my progress, and then it would be easier. But:
+
+1. I like writing about comics
+2. Writing about them helps me remember the details of what happens
+3. ... and serves as a reference for future me (and anyone insane enough to follow on this journey!)
+
+So I think I will just try to continue at this pace first, and just accept that it will probably take longer than I hoped!
 
 ### Up Next
 
