@@ -9,7 +9,8 @@ resources:
 - src: ifv4_03.PNG
   title: 'Iron Fist v4 #3: They gave him kicks after decades of slippers!'
 - src: mp_15.PNG
-  title: 'Marvel Premiere #15: I like it when the writer makes up kung-fu moves; turns out it was there from his first appearance!'
+  title: 'Marvel Premiere #15: I like it when the writer makes up kung-fu moves; turns
+    out it was there from his first appearance!'
 reviews:
 - description: 'Review only covers #1-30'
   hashtag: marvel-premiere-1972
@@ -95,6 +96,9 @@ reviews:
   media: comics
   title: Iron Fist v7
   year: 2022
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112811519678631915
 tags:
 - comics
 - complete-marvel-run
