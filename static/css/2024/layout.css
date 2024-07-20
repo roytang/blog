@@ -245,6 +245,17 @@ blockquote {
 	border: 1px solid var(--second-color);
 }
 
+.badge.blog::before {
+    content: "🖊️";
+}
+
+.badge.logs::before {
+    content: "🪵";
+}
+
+.badge.photos2::before {
+    content: "📷";
+}
 
 .badge.notes::before {
     content: "📝";
@@ -396,4 +407,15 @@ article {
     border-radius: 2px;
     padding: 2px;
     background-color: gray;
+}
+
+.list_item.blog .post-title:not(.badge) {
+    font-size: larger;
+    margin: 0;
+}
+
+.list_item .title {
+    display: flex;
+    column-gap: 5px;
+    margin-bottom: 3px;
 }
