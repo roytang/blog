@@ -247,6 +247,8 @@ Notes from my journal:
 >
 > ---
 
+[Comments](#comment-5921ff93-9838-48d8-a5f1-c328f45d9231)
+
 #### Expendables
 
 <time>[2010-08-22 23:00] </time> Watched Expendables with the JV crew @ [Robinsons Galleria](/locations/robinsons_galleria)

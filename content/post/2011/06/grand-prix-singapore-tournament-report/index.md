@@ -3,22 +3,22 @@ aktt_notify_twitter:
 - false
 author: roy
 categories: []
+checkin_id: 4de84e04fa76fd11689e484f
 date: 2011-06-08 13:06:55
 location: 4b058819f964a520dcb122e3
+syndicated:
+- type: foursquare
+  url: https://www.swarmapp.com/roytang/checkin/4de84e04fa76fd11689e484f
 tags:
 - constructed
 - grand-prix
 - standard
 - tournament-report
 - mtg
+- sg2011
 title: Grand Prix Singapore Tournament Report
 type: post
 url: /2011/06/grand-prix-singapore-tournament-report/
-checkin_id: 4de84e04fa76fd11689e484f
-location: 4b058819f964a520dcb122e3
-syndicated:
-- type: foursquare
-  url: https://www.swarmapp.com/roytang/checkin/4de84e04fa76fd11689e484f
 ---
 
 Haven't done a tournament report in a while. Heck, I haven't really played tournament Magic in a while, not seriously at least. For that reason it may have been a bad idea to run with a deck that requires a lot of matchup knowledge to play. The tournament was Grand Prix Singapore 2011, the format was standard and my weapon of choice was Caw Blade:

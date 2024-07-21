@@ -10,6 +10,24 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1007802329796632576/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156707948158912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1004755372379234304/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156690091558912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1005355157024960512/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156693680868912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1005469380778442753/
+- type: instagram
+  url: https://instagram.com/p/Bj1lqfujhHU/
+- type: tumblr
+  url: https://roytang.tumblr.com/post/174748999335/we-scrubbed-out-of-the-team-unified-standard-rptq
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1005734253160816641/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156695891183912
 tags:
 - standard
 - tournament-report
@@ -18,6 +36,7 @@ tags:
 title: Kuala Lumpur and the MTG25A RPTQ
 type: post
 url: /2018/06/kuala-lumpur-and-the-mtg25a-rptq/
+dontinlinephotos: true
 ---
 
 I had an out of country trip last weekend to Kuala Lumpur to play Magic, but I was a bit tempted to not write about it all. The reason being that inevitably after one of these MTG-related trips the first thing people ask me is _"Nanalo ka ba?"_ (Did you win?) and this time, the answer was sadly no. (Let's get the spoilers out of the way early shall we.) However, I realized that not all stories have to have happy endings. Sometimes the journey itself is the story.
@@ -142,6 +161,28 @@ My new, upgraded set of rules (an improvement over the ones from the GP Singapor
   5. Life is unfair
 
 So much for "laying low". Ah Magic, you are such a hard game to quit.
+
+### Social Media Archive
+
+<time id="1004755372379234304">[2018-06-08 00:02] </time> Sometimes you quadruple check every checklist but still worry that you'll forget something
+
+---
+
+<time id="1005355157024960512">[2018-06-09 15:45] </time> Remember 
+
+{{% note "2017/12/941696039941111808/" %}}
+
+---
+
+<time id="1005469380778442753">[2018-06-09 23:19] </time> #mtg team unified standard rptq: 4 gearhulk or 2 gearhulk 2 hydra in bg constrictor?
+
+---
+
+<time id="Bj1lqfujhHU">[2018-06-10 16:23] </time> We scrubbed out of the team unified standard rptq so i just decided to open 6 #iconicmasters packs #mtg #badbeats
+
+{{% photos e207028fd04c1d7d7ffc6af40873813b.jpg %}}
+
+---
 
  [1]: https://roytang.net/2017/12/grand-prix-singapore-2017-tournament-report/
  [2]: https://twitter.com/switchfollows

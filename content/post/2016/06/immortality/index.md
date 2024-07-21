@@ -5,8 +5,11 @@ date: 2016-06-06 22:30:57
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/739952883853086720/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10161001490168912
 tags:
 - Opinions
+- philosophy
 title: Immortality
 type: post
 url: /2016/06/immortality/
