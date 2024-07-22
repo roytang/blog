@@ -1,8 +1,11 @@
 ---
-title: "Teaching my 6yo Nephew to Play Videogames"
-date: 2024-07-22T20:05:58+08:00
+date: 2024-07-22 12:05:58
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112830196633255233
 tags:
 - gaming
+title: Teaching my 6yo Nephew to Play Videogames
 ---
 
 Nephew #2 (and his family) come visit us once every 2-3 weeks or so. I thought he's about the right age so early this year I started letting him try playing video games by hooking up the Switch to the downstairs TV. His cousins also play videogames, but he's the eldest one who doesn't have regular videogame access at home, so he's very eager. He is 6 years old. His 4 year old brother likes to watch but doesn't want to try playing yet.
