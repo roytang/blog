@@ -1,5 +1,5 @@
 {{ $scratch := newScratch }}
-{{ $scratch.Set "thumbnail" (.context.Resize "120x") }}
+{{ $scratch.Set "thumbnail" (.context.Resize "300x") }}
 {{ $thumb := $scratch.Get "thumbnail" }}
 {{ if not (eq .context.Title .context.Name) }}
   {{ $scratch.Set "figcaption" .context.Title }}

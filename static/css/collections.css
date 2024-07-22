@@ -19,3 +19,8 @@ body.collections_comics .entry_list {
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     grid-template-rows: masonry;
 }
+
+blockquote.embed {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

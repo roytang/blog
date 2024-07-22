@@ -91,7 +91,7 @@ From around 2013 to 2019, Jason Aaron was *the* Thor guy at Marvel, a long run t
 
 Volume length: 25 issues. Part of the 2012 *Marvel Now!* relaunch, this volume introduced several new concepts and characters that would be recurrent during Aaron's run, such as Gorr the God Butcher (horribly underused in *Love and Thunder*), a young viking era pre-Mjolnir Thor, and a far future King Thor, All-Father of Asgard. This volume features fantastic interior art by one of my favorite artists at the time, Esad Ribic.
 
-{{% photo "2018/10/179368336396/" %}}
+{{% collections-embed comics 179368336396 %}}
 
 {{% img src="falligar.png" %}}
 
@@ -101,7 +101,7 @@ Volume length: 8 issues
 
 This short volume takes place in the wake of the *Original Sin* crossover when Thor became unworthy and thus lost access to Mjolnir. It covers the mysterious appearance of a new female wielder of Mjolnir calling herself Thor; at the end of the volume her identity is finally revealed as Thor's former lover Jane Foster, now affected by cancer. I was a big fan of the new Thor's design and used it for a [sketchdaily](/tags/sketchdaily) back in the day:
 
-{{% photo "2016/03/BCYT1DZsoHu/" %}}
+{{% photo "/2016/02/BCYT1DZsoHu/" %}}
 
 #### Mighty Thor v2 (2016) and v3 (2017-2018)
 
@@ -109,9 +109,9 @@ Volume length: 23 issues + 7 issues
 
 This volume covers Jane's time as Thor, while the original Odinson is off doing... other things. For me, this volume is characterized by the gorgeous art of Russell Dauterman and colors by Matthew Wilson. The spreads are always so good!
 
-{{% photo "2018/10/179094590332/" %}}
+{{% collections-embed comics 179094590332 %}}
 
-{{% photo "2018/12/181334735548/" %}}
+{{% collections-embed comics 181334735548 %}}
 
 The primary threat in this volume is Malekith the Accursed, as he prepares for his *War of the Realms*. Thor assembles the League of Realms to hunt Malekith down. Towards the end of the volume, Malekith unleashes the Mangog and Jane is forced to sacrifice Mjolnir by hurling it and Mangog into the sun, giving up her identity as Thor in the process. Jane's cancer claims her, but she hesitates at the gates of Valhalla, refusing to die; Odin and Thor Odinson combine their powers to bring her back to life.
 
@@ -131,7 +131,7 @@ Volume length: 16 issues + 1 annual
 
 A short volume by Jason Aaron and Mike del Mundo covers Thor (Odinson this time) and his attempts to prepare for Malekith's War of the Realms and compensate for the loss of Mjolnir. Mainly with new hammers. Lots of hammers.
 
-{{% photo "/2018/12/181567817410" %}}
+{{% collections-embed comics 181567817410 %}}
 
 #### King Thor (2019)
 

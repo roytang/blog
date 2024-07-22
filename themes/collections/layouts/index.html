@@ -35,7 +35,7 @@
     </ul>
     </details>
     
-    <ol class="entry_list">
+    <ol class="entry_list {{ .Site.Params.list_class }}">
     {{ range .Site.RegularPages }}
         {{ .Render "list_item" }}
     {{ end }}

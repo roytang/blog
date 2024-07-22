@@ -1,4 +1,4 @@
-<ul class="entry_list">
+<ul class="entry_list {{ .Site.Params.list_class }}">
 {{ range .Pages }}
     {{ .Render "list_item" }}
 {{ end }}

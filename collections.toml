@@ -45,6 +45,7 @@ canonifyURLs = true
     rootPath = "collections/"
     staticRoot = "https://roytang.net/media/"
     # staticRoot = "http://localhost/repos/blog/"
+    list_class = ""
     homeShowRecentItems = false
 
     # You can use markdown here.

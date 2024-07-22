@@ -332,8 +332,13 @@ img.link {
 
 .image-list {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-columns: 1fr;
     grid-template-rows: masonry;
+}
+
+/* has more than 1 item */
+.image-list:has(:nth-child(2)) {
+    grid-template-columns: repeat(auto-fit, minmax(1fr, 120px));
 }
 
 figure {

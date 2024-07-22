@@ -2,3 +2,5 @@
     collection_name = "comics"
     collection_title = "Comics"
     collections_root = false
+
+    list_class = "image-list"

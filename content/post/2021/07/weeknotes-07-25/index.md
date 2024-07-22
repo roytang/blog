@@ -44,7 +44,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### From the archives, this week in history:
 
-- 2019: Jonathan Hickman took over the X-Men books with [House of X #1](/2019/07/186514742325/)! Can't believe it's been two years of this Krakoa Kraziness!
+- 2019: Jonathan Hickman took over the X-Men books with [House of X #1](/collections/comics/186514742325/)! Can't believe it's been two years of this Krakoa Kraziness!
 - 2018: The last time I [managed to participate in the MTG PH Nationals](/tags/mtgnats2018/). Not sure if I'll ever get that deep into paper Magic again.
 - 2007: Inmates at a Cebu prison went viral [for performing the "Thriller" music video](https://www.youtube.com/watch?v=hMnk7lh9M3o) (I'm surprised this has survived all these years without being DMCA'ed or whatever)
 
