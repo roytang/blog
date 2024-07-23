@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/19419513068/
 - type: plurk
   url: https://plurk.com/p/6j4qjh
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/139308439423724
 ---
 
 I want stuff, but stuff costs money!
