@@ -1,10 +1,14 @@
 ---
 date: 2024-07-24 13:07:02
+dontinlinephotos: true
 resources:
 - src: mh3-first-picks.jpg
   title: 'MH3 Draft: My first 2 picks'
 - src: mh3-paper-drafts.jpg
   title: 'MH3 Draft: The final deck + my random rare drafts'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112841868226339405
 tags:
 - mtg
 - limited
@@ -12,7 +16,6 @@ tags:
 - limitedrecap
 - mtgsetrecap
 title: 'MTG: My Modern Horizons 3 Set Recap'
-dontinlinephotos: true
 ---
 
 Bloomburrow releases next week on Magic Arena, so it's time to move on from **Modern Horizons 3**, let's do a set recap!
