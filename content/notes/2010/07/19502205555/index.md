@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/19502205555/
 - type: plurk
   url: https://plurk.com/p/6jv4l5
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/146885401993059
 ---
 
 Still haven't preordered Starcraft 2...pwede pa kaya? :p

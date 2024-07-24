@@ -1,5 +1,5 @@
 ---
-date: 2018-07-25 16:49:00+08:00
+date: 2018-07-25 08:49:00
 dontinlinephotos: true
 repost_source:
   name: spot.ph
@@ -11,9 +11,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156798442758912
 tags:
 - fbreposts09
+- webcomics
+- hunghang
 ---
-
-
 
 <div class="bp" data-ft='{"tn":"*s"}' style="">
  <p>
@@ -29,4 +29,4 @@ tags:
 </div>
 
 
-{{% photos 10156798442758912%}}
+{{% photos %}}

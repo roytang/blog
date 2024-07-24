@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/757573211995254784/
 - type: twitter
   url: https://twitter.com/roytang/statuses/757573838821396480/
+tags:
+- mtg
+- sorting
 ---
 
 [@aleksfelipe](https://twitter.com/aleksfelipe/) the box is around 75% full. These are c/u from ktk up to emn
