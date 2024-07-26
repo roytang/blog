@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/889843294833922049/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155896465403912
+tags:
+- tv
 ---
 
 I kind of binged Madam Secretary season 1. It’s a bit like a better Designated Survivor (mostly because they handled their “conspiracy” better). (No, I haven’t gotten to the “Duterte” episode yet)
