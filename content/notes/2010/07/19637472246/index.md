@@ -8,6 +8,8 @@ syndicated:
   url: https://plurk.com/p/6kymiq
 - type: tumblr
   url: https://roytang.tumblr.com/post/864976627
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/139334962755666
 tags:
 - gaming
 - sc2

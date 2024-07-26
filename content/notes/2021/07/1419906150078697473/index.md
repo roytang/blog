@@ -1,9 +1,11 @@
 ---
-date: 2021-07-27 06:23:01+00:00
+date: 2021-07-27 06:23:01
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1419906150078697473/
+tags:
+- threads
 ---
 
 Great thread, including the followup threads 
