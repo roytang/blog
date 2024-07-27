@@ -5,6 +5,8 @@ date: 2016-07-28 01:30:03
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/758475409994514440/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10161001606073912
 tags:
 - Software Development
 title: Evaluation of Programmer Performance

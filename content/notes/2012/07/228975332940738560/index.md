@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/228991663530450945/
 tags:
 - onthespotgeogquiz
+- olympics
 ---
 
 Watching the olympic parade while having breakfast
