@@ -1,6 +1,6 @@
 ---
 date: 2012-08-27 12:32:51
-repost_source:
+via:
   name: brianmichaelbendis
   type: tumblr
   url: https://brianmichaelbendis.tumblr.com/post/30310023248/hey-its-another-piece-of-the-all-new-x-men
@@ -13,7 +13,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151821833168912
 tags:
-- panels
+- x-men
+- marvel
+title: "All-New X-Men connecting covers"
 ---
 
 <p>No idea if All New X-Men is going to be any good, but I really like the currently available preview cover.</p>

@@ -11,7 +11,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1066874368331079680/
 tags:
-- panels
+- dc
+- justice league
+title: "Justice League #16"
 ---
 
 <p>Last page of Justice league 16</p>

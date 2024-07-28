@@ -1,6 +1,6 @@
 ---
 date: 2014-05-24 11:21:34
-repost_source:
+via:
   name: brianmichaelbendis
   type: tumblr
   url: https://brianmichaelbendis.tumblr.com/post/86630738337/cover-to-all-new-x-men-32-by-sarah-pichelli-this
@@ -13,7 +13,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152979692188912:0
 tags:
-- panels
+- x-men
+- marvel
+- pichelli
+title: "All-New X-Men #32 Sarah Pichelli"
 ---
 
 <p><a class="tumblr_blog" href="http://brianmichaelbendis.tumblr.com/post/86630738337/cover-to-all-new-x-men-32-by-sarah-pichelli-this">brianmichaelbendis</a>:</p>

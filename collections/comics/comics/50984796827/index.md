@@ -1,6 +1,6 @@
 ---
 date: 2013-05-21 12:16:54
-repost_source:
+via:
   name: enasalin
   type: tumblr
   url: https://enasalin.tumblr.com/post/50914027718/guardians-of-the-galaxy-3-variant-leinil-yu
@@ -11,7 +11,10 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/336817878265372672/
 tags:
-- panels
+- guardians of the galaxy
+- marvel
+- leinilyu
+title: "Guardians of the Galaxy #3 variant cover by Leinil Yu"
 ---
 
 <p><a class="tumblr_blog" href="http://brianmichaelbendis.tumblr.com/post/50965141291/guardians-of-the-galaxy-3-variant-leinil-yu">brianmichaelbendis</a>:</p>
