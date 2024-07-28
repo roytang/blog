@@ -13,6 +13,8 @@ title: I made a separate tumblr just for comicbook stuff, let’s see how long i
 
 I had a bunch of comic book screencaps lying around so I decided to start a tumblr just for comics stuff lol 
 
-{{% note "2018/10/178966631938" %}}
+{{% collections-embed comics 178966631938 %}}
 
 Edit: All posts from that tumblr are archived to this site with the [ireadcomicbooks tag](/tags/ireadcomicbooks)
+
+Edit 2024: All posts from the [ireadcomicbooks tag](/tags/ireadcomicbooks) should be under [the "Collections >> Comics" part of the site](https://roytang.net/collections/comics/).

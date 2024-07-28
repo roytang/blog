@@ -13,7 +13,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156654108053912
 tags:
-- panels
+- x-men
+- marvel
+- madureira
+title: "Uncanny X-Men #325 by Lobdell and Madureira"
 ---
 
-<p>Uncanny X-Men #325 For some reason I always liked the Wolverine and Colossus commentary in this issue</p>
+For some reason I always liked the Wolverine and Colossus commentary in this issue
