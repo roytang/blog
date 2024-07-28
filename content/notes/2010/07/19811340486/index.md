@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/19811340486/
 - type: plurk
   url: https://plurk.com/p/6mewia
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/127423737302528
 tags:
 - gaming
 - games
