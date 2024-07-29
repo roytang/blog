@@ -13,7 +13,9 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156617652568912
 tags:
-- panels
+- iron man
+- marvel
+title: "Invincible Iron Man (2015) #3"
 ---
 
 Infinity War spoiler: we didnt get this scene (yet), maybe in avengers 4 

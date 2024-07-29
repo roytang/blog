@@ -12,10 +12,15 @@ syndicated:
   url: https://twitter.com/roytang/statuses/240064331558027264/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151821833168912
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/180017899327/all-new-x-men-1-connecting-covers-by-stuart
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1061801050741620736/
 tags:
 - x-men
 - marvel
-title: "All-New X-Men connecting covers"
+- immonen
+title: 'All-New X-Men #1 connecting covers by Stuart Immonen'
 ---
 
 <p>No idea if All New X-Men is going to be any good, but I really like the currently available preview cover.</p>

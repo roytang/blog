@@ -7,7 +7,11 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/31018509064478720/
 tags:
-- panels
+- idw
+- transformers
+- gijoe
+- startrek
+- ghostbusters
 ---
 
 IDW Infestation:  (GI Joe / Star Trek / Transformers / Ghostbusters crossover)
