@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1023702447200460800/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156809712668912
+tags:
+- dreams
 ---
 
 (Wakes up from sleep)
