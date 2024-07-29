@@ -12,6 +12,7 @@ tags:
 - gijoe
 - startrek
 - ghostbusters
+title: "IDW Infestation"
 ---
 
 IDW Infestation:  (GI Joe / Star Trek / Transformers / Ghostbusters crossover)
