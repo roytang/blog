@@ -17,8 +17,8 @@ reviews:
   title: Porco Rosso
   year: 1982
 - date: 2022-07-09
-  description: A bit worse than s3; Anthony Star gives a great performance
-  hashtag: the-boy-season-3
+  description: Soldier Boy season. A bit worse than s2; Anthony Star gives a great performance
+  hashtag: the-boys-season-3
   media: tv
   rating: 3.5
   title: The Boys season 3

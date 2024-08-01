@@ -1,5 +1,16 @@
 ---
 date: 2020-11-15
+reviews:
+- description: Stormfront season. A bit of a happier ending than I expected
+  hashtag: watching-lately
+  media: tv
+  rating: 3.5
+  title: The Boys season 2
+- description: ''
+  hashtag: watching-lately
+  media: tv
+  rating: 4.0
+  title: Queen's Gambit
 slug: weeknotes-2020-11-15
 syndicated:
 - type: mastodon
@@ -8,6 +19,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1327853959495630849/
 tags:
 - weeknotes
+- tv
 title: Weeknotes 2020-11-15 Winds and Rain
 ---
 
