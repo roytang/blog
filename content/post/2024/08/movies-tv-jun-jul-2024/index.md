@@ -1,7 +1,6 @@
 ---
-date: 2024-08-01 14:32:27+08:00
+date: 2024-08-01 06:32:27
 dontinlinephotos: true
-toc: true
 resources:
 - src: crank-2006.jpg
   title: Crank (2006)
@@ -103,32 +102,33 @@ reviews:
   rating: 4.0
   title: Burn After Reading
   year: '2008'
-- description: Dragged out way too long
+- date: '2024-07-21'
+  description: Dragged out way too long
   hashtag: the-acolyte
   media: tv
   rating: 3.0
   title: The Acolyte
-  date: '2024-07-21'
-- description: Victoria Neuman / Sage season. Still a good watch, but hews a bit too close to real-world events
+- date: '2024-07-21'
+  description: Victoria Neuman / Sage season. Still a good watch, but hews a bit too
+    close to real-world events
   hashtag: the-boys-season-4
   media: tv
   rating: 3.5
   title: The Boys season 4
-  date: '2024-07-21'
-- description: 'Braniac season'
+- date: '2024-07-22'
+  description: Braniac season
   hashtag: my-adventures-with-superman-s2
   media: tv
   rating: 4.5
   title: My Adventures With Superman S2
-  date: '2024-07-22'
-- description: ''
+- date: '2024-06-30'
+  description: ''
   hashtag: abbott-elementary-s3
   media: tv
   rating: 3.5
   title: Abbott Elementary S3
-  date: '2024-06-30'
-- description: ''
-  date: '2024-07-28'
+- date: '2024-07-28'
+  description: ''
   hashtag: gravity-falls
   media: tv
   rating: 5.0
@@ -157,10 +157,13 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/godzilla-minus-one/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/burn-after-reading/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112886548406299762
 tags:
 - movies
 - tv
 title: Movies/TV Watched - Jun/Jul 2024
+toc: true
 ---
 
 ### Movies
