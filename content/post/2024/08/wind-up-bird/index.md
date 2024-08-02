@@ -1,10 +1,13 @@
 ---
-date: 2024-08-02T14:35:37+08:00
+date: 2024-08-02 06:35:37
 reviews:
-- description: 'Some good stories in there, but waaay too many unexplained mysteries'
+- description: Some good stories in there, but waaay too many unexplained mysteries
   media: books
-  title: The Wind-Up Bird Chronicle by Haruki Murakami
   rating: 3.0
+  title: The Wind-Up Bird Chronicle by Haruki Murakami
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112891074064130835
 tags:
 - books
 title: 'Books: The Wind-Up Bird Chronicle by Haruki Murakami'
