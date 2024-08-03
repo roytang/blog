@@ -6,43 +6,43 @@ reviews:
   hashtag: heroes-for-hire-v1-1997
   issues: 20
   media: comics
-  title: Heroes for Hire v1 (1997)
+  title: Heroes for Hire v1
   year: 1997
 - description: ''
   hashtag: secret-war-2004
   issues: 6
   media: comics
-  title: Secret War (2004)
+  title: Secret War
   year: 2004
 - description: ''
   hashtag: daughters-of-the-dragon-2006
   issues: 6
   media: comics
-  title: Daughters of the Dragon (2006)
+  title: Daughters of the Dragon
   year: 2006
 - description: ''
   hashtag: heroes-for-hire-v2-2006
   issues: 15
   media: comics
-  title: Heroes for Hire v2 (2006)
+  title: Heroes for Hire v2
   year: 2006
 - description: ''
   hashtag: heroes-for-hire-v3-2011
   issues: 12
   media: comics
-  title: Heroes for Hire v3 (2011)
+  title: Heroes for Hire v3
   year: 2011
 - description: ''
   hashtag: villains-for-hire-2012
   issues: 5
   media: comics
-  title: Villains for Hire (2012)
+  title: Villains for Hire
   year: 2012
 - description: ''
   hashtag: defenders-v5-2018
   issues: 10
   media: comics
-  title: Defenders v5 (2018)
+  title: Defenders v5
   year: 2018
 syndicated:
 - type: mastodon
