@@ -68,6 +68,8 @@ Ensembles: Movie 43, expendables, scream, star trek, love actually, gosford park
     - The Marine -> Robert Patrick (Terminator 2)
 * Julia Roberts 
     - Sleeping with the Enemy -> You've Got Mail (cinematographer)
+* Kevin Costner
+    - McFarland (2015) -> Mummy Dragon Emperor or Grown Ups or Coyote Ugly (via Maria Bello)
 * Mads Mikkelsen 
     - Pusher (1996) -> Drive (via Refn)
     - Another Round (2020) -> Far from the Madding Crowd (2015) (via director) -> Carey Mulligan

@@ -1,5 +1,5 @@
 ---
-date: 2018-08-04 12:45:00+08:00
+date: 2018-08-04 04:45:00
 dontinlinephotos: true
 repost_source:
   name: Roberto Galang
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156822136033912
 tags:
 - fbreposts09
+- tagalog
 ---
-
-
 
 <div class="bp" data-ft='{"tn":"*s"}' style="">
  <p>

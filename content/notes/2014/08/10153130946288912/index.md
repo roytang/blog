@@ -7,7 +7,7 @@ syndicated:
 title: ''
 ---
 
-Map showing income of software engineers compared to average income per capita: http://maps.ramiro.org/income-software-engineers-countries/  We are surprisingly above average.
+Map showing income of software engineers compared to average income per capita: http://maps.ramiro.org/income-software-engineers-countries/  
 
 We are surprisingly above average. Not only that, we're better than Singapore (assuming I understand correctly where Singapore is on a map), where a number of IT folk I know have migrated to work
 

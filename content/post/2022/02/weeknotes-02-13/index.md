@@ -14,7 +14,7 @@ title: Weeknotes 2022-02-13
 
 ### A Quote
 
-> "If the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem. But I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.” - E.B. White
+{{% collections-embed quotes 10154794245158912 %}}
 
 ### The World
 
