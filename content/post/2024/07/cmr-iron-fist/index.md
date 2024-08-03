@@ -16,31 +16,31 @@ reviews:
   hashtag: marvel-premiere-1972
   issues: 30
   media: comics
-  title: Marvel Premiere (1972)
+  title: Marvel Premiere
   year: 1972
 - description: ''
   hashtag: iron-fist-v1-1975
   issues: 15
   media: comics
-  title: Iron Fist v1 (1975)
+  title: Iron Fist v1
   year: 1975
 - description: Includes 1 annual, 2 Orson Randall one-shots
   hashtag: immortal-iron-fist-2007
   issues: 30
   media: comics
-  title: Immortal Iron Fist (2007)
+  title: Immortal Iron Fist
   year: 2007
 - description: ''
   hashtag: iron-fist-the-living-weapon-2014
   issues: 12
   media: comics
-  title: 'Iron Fist: The Living Weapon (2014)'
+  title: 'Iron Fist: The Living Weapon'
   year: 2014
 - description: ''
   hashtag: iron-fist-2017
   issues: 15
   media: comics
-  title: Iron Fist (2017)
+  title: Iron Fist v5
   year: 2017
 - description: ''
   hashtag: one-shots-and-limited-series
