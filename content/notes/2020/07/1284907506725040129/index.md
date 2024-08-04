@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1284907506725040129/
 tags:
 - webcomics
+- reallifecomics
 title: ''
 ---
 
