@@ -1,6 +1,9 @@
 ---
-date: 2024-08-04T07:17:14+08:00
+date: 2024-08-03 23:17:14
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112901290377984060
 tags:
 - weeknotes
 title: Weeknotes 2024-08-04
