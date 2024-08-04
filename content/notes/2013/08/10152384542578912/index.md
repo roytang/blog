@@ -1,9 +1,15 @@
 ---
-date: 2013-08-04 16:03:00+00:00
+date: 2013-08-04 16:03:00
+resources:
+- src: dt130804.jpg
+  title: Recovered from https://dilbert-viewer.herokuapp.com/2013-08-04
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152384542578912
+tags:
+- webcomics
+- dilbert
 title: ''
 ---
 
