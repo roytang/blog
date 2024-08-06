@@ -6,6 +6,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1291332988135931904/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1291400912141860864/
+tags:
+- mtg
+- twitch
+- gaming
 title: ''
 ---
 

@@ -11,4 +11,5 @@ syndicated:
 title: ''
 ---
 
-Whenever I read an article about what not to wear (cargo shorts?) I remember this tweet and give no f**ks. https://twitter.com/undeadmolly/status/670875032596422656
+Whenever I read an article about what not to wear (cargo shorts?) I remember this tweet and give no f**ks. https://web.archive.org/web/20210418203828/https://twitter.com/Manglewood/status/670875032596422656
+
