@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3192133711/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/248128320117
+tags:
+- comics
 ---
 
 just finished reading the ultimatum storylines. That was...depressing. WTH are they planning for the Ultimate universe?

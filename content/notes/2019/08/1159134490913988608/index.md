@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1159134490913988608/
+tags:
+- panels
 ---
 
 Well, that’s annoying

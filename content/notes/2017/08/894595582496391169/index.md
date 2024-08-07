@@ -1,5 +1,5 @@
 ---
-date: 2017-08-07 16:26:22+00:00
+date: 2017-08-07 16:26:22
 repost_source:
   name: Grammarly
   type: twitter
@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/894595582496391169/
+tags:
+- webcomics
+- heartandbrain
 title: ''
 ---
 
