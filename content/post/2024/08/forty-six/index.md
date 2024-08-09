@@ -1,8 +1,11 @@
 ---
-title: "Forty-Six"
-date: 2024-08-09T23:49:05+08:00
+date: 2024-08-09 15:49:05
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112933170323240193
 tags:
 - birthday
+title: Forty-Six
 ---
 
 I didn't really have anything planned for this post, so I'm kind of just going to ramble about different things for a while. Most of the things [I wrote about last year still hold true](/2023/08/forty-five/). Time continues to be weird. The past year has been challenging.
@@ -58,4 +61,3 @@ Who knows what I'll be thinking of this post fifteen years from now?
 ### Open World
 
 I'm not sure what comes next. This has been my status quo for about a year now. Just winging it with my ordinary life. Trying to find a way forward. Maybe next year will bring some clarity.
-
