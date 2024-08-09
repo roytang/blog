@@ -2,6 +2,10 @@
 author: roy
 categories: []
 date: 2005-05-29 08:37:00
+reviews:
+- description: Rewatch
+  media: movies
+  title: 'Transformers: The Movie (1986)'
 source: roywantsmeat
 syndicated:
 - type: blogger
@@ -10,13 +14,10 @@ tags:
 - Movies
 - Review
 - Pop Culture
+- transformers
 title: 'Movies: Transformers the Movie'
 type: post
 url: /2005/05/movies-transformers-the-movie/
-reviews:
-- media: movies
-  title: "Transformers: The Movie (1986)"
-  description: Rewatch
 ---
 
 I should've thought of this as soon as I got DSL: I went ahead and downloaded Transformers the Movie.

@@ -7,7 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1557011718588760065/
 tags:
 - birthday
-title: Forty Four
+title: Forty-Four
 ---
 
 Once again I was unsure what to write about for this year's post, so I took the opportunity to once again crawl back through [the archive of birthday posts](/tags/birthday/). It's one of the big benefits of [twenty years of blogging](/2022/08/twenty-years/), it's easy to take a dive back into the past for insights. I missed a few years here and there (especially during the lean blogging years), but have been quite consistent recently. Notably, I've managed to keep a streak of these posts going since [number 36 way back in 2014](/2014/08/thirty-six/).

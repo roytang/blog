@@ -4,7 +4,7 @@ categories: []
 date: 2009-08-09 12:43:04
 tags:
 - birthday
-title: Thirty One
+title: Thirty-One
 type: post
 url: /2009/08/thirty-one/
 syndicated:

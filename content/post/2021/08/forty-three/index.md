@@ -7,7 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1424623397544206337/
 tags:
 - birthday
-title: Forty Three
+title: Forty-Three
 ---
 
 Had some trouble thinking about what I wanted to write for this year's birthday post. And while I was thinking about it I accidentally published an empty draft of this post earlier today. Sounds about right. 

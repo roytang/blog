@@ -6,7 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1159618447531270144/
 tags:
 - birthday
-title: Forty One
+title: Forty-One
 type: post
 ---
 

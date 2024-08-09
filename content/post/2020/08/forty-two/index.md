@@ -7,7 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1292314679151194112/
 tags:
 - birthday
-title: Forty Two
+title: Forty-Two
 ---
 
 Forty two is of course the "Answer to the Ultimate Question of Life, the Universe, and Everything." (if you haven't yet read the 5-book Hitchhiker's Guide to the Galaxy trilogy, I suggest you do so, you are in for a treat.)

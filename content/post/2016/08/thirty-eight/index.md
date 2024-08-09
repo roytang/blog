@@ -11,7 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154808369203912
 tags:
 - birthday
-title: Thirty Eight
+title: Thirty-Eight
 type: post
 url: /2016/08/thirty-eight/
 ---
