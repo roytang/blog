@@ -1,6 +1,9 @@
 ---
-date: 2024-08-11T10:11:10+08:00
+date: 2024-08-11 02:11:10
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112942920693463164
 tags:
 - weeknotes
 title: Weeknotes 2024-08-11
@@ -62,4 +65,3 @@ More errands, etc.
 We are probably attending a quiz night on Wednesday.
 
 I am expecting / hoping some documents I have been waiting for finally get processed this week.
-
