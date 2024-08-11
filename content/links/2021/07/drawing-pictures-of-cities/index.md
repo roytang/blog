@@ -13,5 +13,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106602589987487800
 - type: twitter
   url: https://twitter.com/roytang/status/1416800070981230593/
+tags:
+- drawing
 title: Drawing pictures of cities
 ---

@@ -1,9 +1,10 @@
 ---
-date: 2016-03-27 17:07:48+00:00
+date: 2016-03-27 17:07:48
 link:
   source: twitter
   source_url: https://twitter.com/roytang/statuses/714136853905944576/
-  text: PHIL McANDREW'S BIG LIST OF STUFF TO DRAW - Phil McAndrew Illustrations & Comics
+  text: PHIL McANDREW'S BIG LIST OF STUFF TO DRAW - Phil McAndrew Illustrations &
+    Comics
   url: http://philintheblanks.com/thelist.html
 source: twitter
 syndicated:
@@ -11,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/714136853905944576/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154484424678912
+tags:
+- drawing
 title: ''
 ---
 
