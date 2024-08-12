@@ -1,0 +1,40 @@
+<div class="e-content">
+{{ .Content }}
+
+<div id="gallery"></div>
+
+<div class="image-list">
+    {{ $mainPermalink := .RelPermalink }}
+    {{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
+    {{ $caption := .Title | default .Summary }}
+    {{ with .Resources.ByType "image" }}
+    {{ range . }}
+
+    {{ $scratch := newScratch }}
+    {{ $scratch.Set "thumbnail" (.Resize "300x") }}
+    {{ $thumb := $scratch.Get "thumbnail" }}
+
+    <a href="{{ .RelPermalink }}">
+        <img src="{{ $thumb.RelPermalink }}"
+            title="{{ .Title | default .Name }}">
+    </a>
+
+    {{ end }}
+    {{ end }}
+    {{ range .Resources.Match "*.mp4" }}
+    <div class="video">
+        <video id="{{ .Name | safeURL }}" src="{{ .RelPermalink }}" controls></video>
+        <a href="{{ $mainPermalink }}">View post</a>
+    </div>
+    {{ end }}
+</div>
+
+</div>
+
+<script>
+    // applying photobox on a `gallery` element which has lots of thumbnails links.
+    // Passing options object as well:
+    //-----------------------------------------------
+    $('.image-list').photobox('a',{ thumbs: true, time:0 });
+
+</script>

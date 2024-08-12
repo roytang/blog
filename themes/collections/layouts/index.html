@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ .Site.Params.collections_root }}
+
 {{ if .Site.Params.collections_root }}
 
 <div class="breadcrumbs">
@@ -12,6 +14,7 @@
     <li><a href="quotes/">Quotes</a></li>
     <li><a href="lyrics/">Lyrics</a></li>
     <li><a href="comics/">Comics</a></li>
+    <li><a href="galleries/">Image Galleries</a></li>
 </ul>
 
 {{ else }}

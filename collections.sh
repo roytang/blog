@@ -2,3 +2,4 @@ hugo --contentDir collections_root --config collections.toml --destination /var/
 hugo --contentDir collections/lyrics --config collections.toml,collections/lyrics/lyrics.toml --destination /var/www/collections/lyrics
 hugo --contentDir collections/quotes --config collections.toml,collections/quotes/quotes.toml --destination /var/www/collections/quotes
 hugo --contentDir collections/comics --config collections.toml,collections/comics/comics.toml --destination /var/www/collections/comics
+hugo --contentDir collections/galleries --config collections.toml,collections/galleries/galleries.toml --destination /var/www/collections/galleries

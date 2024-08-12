@@ -45,9 +45,12 @@ canonifyURLs = true
     rootPath = "collections/"
     staticRoot = "https://roytang.net/media/"
     # staticRoot = "http://localhost/repos/blog/"
+    jsincludespost = []
+    cssincludespost = []
+    
     list_class = ""
     homeShowRecentItems = false
-
+    
     # You can use markdown here.
     brand = "Roy Tang"
     topimage = "![Wearing dice on my head since 2008](/img/profile.jpg \"Wearing dice on my head since 2008\")"
