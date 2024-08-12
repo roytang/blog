@@ -35,6 +35,7 @@ canonifyURLs = true
 [permalinks]
     "notes" = "/:filename/"
     "comics" = "/:filename/"
+    "galleries" = "/:filename/"
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -47,7 +48,7 @@ canonifyURLs = true
     # staticRoot = "http://localhost/repos/blog/"
     jsincludespost = []
     cssincludespost = []
-    
+
     list_class = ""
     homeShowRecentItems = false
     
