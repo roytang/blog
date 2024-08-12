@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-08-12 17:22:00+08:00
+date: 2016-08-12 09:22:00
 source: facebook
 syndicated:
 - type: facebook
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/764029587214835713/
 tags:
 - timeline-photos
+- xcx
 ---
 
 Still waffling on getting No Man's Sky on Steam before release, since I'm already playing this other game with wild alien vistas and strange beasts

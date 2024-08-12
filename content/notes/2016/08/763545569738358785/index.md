@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/763545606677594112/
 tags:
 - gaming
+- xcx
 ---
 
 Man, Xenoblade Chronicles X is great, I regret not starting it earlier.
