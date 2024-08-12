@@ -9,6 +9,7 @@
         "static/css/features/highlighter.css",
         "static/css/features/lightbox.css",
         "static/css/features/breadcrumbs.css",
+        "static/css/features/photobox.css",
         "static/css/2024/colors.css",
         "static/css/2024/layout.css"
     ],
