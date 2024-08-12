@@ -66,10 +66,10 @@ blockquote {
     font-size: var(--font-size-smaller);
 }
 
-@media (min-width: 96ch) {
+@media (min-width: 900px) {
     .wrapper {
         display: grid;
-        grid-template-columns: 1fr 24ch; /* Two columns: main_content and side panel */
+        grid-template-columns: 1fr 240px; /* Two columns: main_content and side panel */
         grid-template-rows: 3rem auto; /* Single row for simplicity */
     }
     
@@ -89,7 +89,7 @@ blockquote {
     }
 }
 
-@media (max-width: 96ch) {
+@media (max-width: 900px) {
     .wrapper {
         display: grid;
         grid-template-columns: 1fr;
