@@ -1,17 +1,20 @@
 ---
-title: "Books: All of the Marvels by Douglas Wolk"
-date: 2024-08-13T13:30:30+08:00
+date: 2024-08-13 05:30:30
 reviews:
 - description: ''
   media: books
   rating: 3.5
   title: All of the Marvels by Douglas Wolk
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112953369649977543
 tags:
 - books
 - comics
 - comicbooks
 - complete-marvel-run
 - marvel
+title: 'Books: All of the Marvels by Douglas Wolk'
 ---
 
 The complete title of this book is "All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told". I first heard of this book [back in early 2022](/2022/01/weeknotes-01-23/#links-of-interest) and reading about it directly inspired my own [complete-marvel-run](/tags/complete-marvel-run/). (For that reason I attach that same tag to this book review.)
