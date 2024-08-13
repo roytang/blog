@@ -33,7 +33,7 @@ title: Weeknotes 2022-01-23
 ### Links of Interest
 
 - [CSS Speedrun](https://css-speedrun.netlify.app/) is an in-browser test of your CSS knowledge. I had to look up a hint for one of them, and it took me more than 6 minutes for the entire run.
-- Douglas Walk writes on The Guardian: [I read all 27,000 Marvel comics and had a great time. Here’s what I learned](https://www.theguardian.com/culture/2022/jan/20/douglas-wolk-27000-marvel-comics-dark-reign-trump-iron-man-unbeatable-squirrel-girl). He read all the comics to write a book; it's [available in Kindle version on Amazon](https://www.amazon.com/All-Marvels-Journey-Biggest-Story-ebook/dp/B08V8CVNK9/) and I'm kinda tempted to get it.
+- Douglas Wolk writes on The Guardian: [I read all 27,000 Marvel comics and had a great time. Here’s what I learned](https://www.theguardian.com/culture/2022/jan/20/douglas-wolk-27000-marvel-comics-dark-reign-trump-iron-man-unbeatable-squirrel-girl). He read all the comics to write a book; it's [available in Kindle version on Amazon](https://www.amazon.com/All-Marvels-Journey-Biggest-Story-ebook/dp/B08V8CVNK9/) and I'm kinda tempted to get it.
 - Matt Stoller writes that [Microsoft Brings a Cannon to a Knife Fight](https://mattstoller.substack.com/p/microsoft-brings-a-cannon-to-a-knife) after they purchased Activision/EA.
 - [Wiki History Game](https://wikitrivia.tomjwatson.com/) by Tom Watson is a history trivia game where you need to arrange events chronologically on the timeline; I've gotten to a streak of 12 just today!
 - Polygon gives us [a list of 22 indie games games to look forward to in 2022](https://www.polygon.com/gaming/22846501/22-indie-games-to-look-forward-to-in-2022)
