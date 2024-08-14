@@ -22,11 +22,6 @@
   {{ range $.Site.Data.Themes.default }}
   <link rel="stylesheet" href="{{ $staticRoot  }}{{ . }}" type="text/css" />
   {{ end }}
-  {{ if .IsPage }}
-  {{ range .Site.Params.jsincludespost }}
-  <script src="{{ . }}"></script>
-  {{ end }}
-  {{ end }}
 </head>
 <body class="{{ .Kind }} collections collections_{{ .Site.Params.collection_name }}">
     <div class="wrapper">

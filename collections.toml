@@ -46,7 +46,7 @@ canonifyURLs = true
     rootPath = "collections/"
     staticRoot = "https://roytang.net/media/"
     # staticRoot = "http://localhost/repos/blog/"
-    jsincludespost = []
+    jsincludes = ["https://code.jquery.com/jquery-3.7.1.min.js", "https://roytang.net/media/static/js/jquery.photobox.js", "https://roytang.net/media/static/js/exhale.js"]
     cssincludespost = []
 
     list_class = ""

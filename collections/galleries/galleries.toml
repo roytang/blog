@@ -3,5 +3,3 @@
     collection_title = "Image Galleries"
     collections_root = false
 
-    jsincludespost = ["https://code.jquery.com/jquery-3.7.1.min.js", "https://roytang.net/media/static/js/jquery.photobox.js"]
-    cssincludespost = []

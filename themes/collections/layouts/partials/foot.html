@@ -3,7 +3,10 @@
 </div>
 
 
-<script src="/js/exhale.js"></script>
+{{ range .Site.Params.jsincludes }}
+<script src="{{ . }}"></script>
+{{ end }}
+
 
 </body>
 </html>

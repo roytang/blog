@@ -1,9 +1,7 @@
 <div class="e-content">
 {{ .Content }}
 
-<div id="gallery"></div>
-
-<div class="image-list">
+<div class="pxgallery">
     {{ $mainPermalink := .RelPermalink }}
     {{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
     {{ $caption := .Title | default .Summary }}
@@ -30,11 +28,3 @@
 </div>
 
 </div>
-
-<script>
-    // applying photobox on a `gallery` element which has lots of thumbnails links.
-    // Passing options object as well:
-    //-----------------------------------------------
-    $('.image-list').photobox('a',{ thumbs: true, time:0 });
-
-</script>

@@ -21,6 +21,7 @@ tags:
 title: 'Review: Xenoblade Chronicles X'
 type: post
 url: /2016/12/review-xenoblade-chronicles-x/
+dontinlinephotos: true
 ---
 
 Just in time for the end of the year, I finally finished Xenoblade Chronicles X, which I started playing around the first week of August (5 months!), with 120+ hours of game time. The game doesn't have the best graphics (WiiU, etc), but I really like how it looks and how the world is built and all the different environments and the weird and sometimes absurdly large beasts.
@@ -31,4 +32,4 @@ There's a whole lot of stuff to do in-game. It plays mostly like a single-player
 
 The story was okay, at many points well-told and hitting a lot of emotional highs (although some of the characters felt a bit over-acted). The ending was...  well, kind of sequel-baiting. A mixture of disappointment and confusion and hope haha. I don't imagine that they'll have a sequel set in the same universe/timeline, so it felt a bit like they made up a ridiculous explanation that would attempt to explain some of the nonsense that happens in the game.
 
-Attached some screenshots from the game!
+{{% collections-embed galleries xcx %}}
