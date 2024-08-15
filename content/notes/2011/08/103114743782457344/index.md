@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/103117610048163840/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/103119054570651648/
+tags:
+- mtg
 ---
 
 So I say to myself: "Naya seems a viable deck to build in Modern!" but then I remembered that Tarmogoyf exists and is expensive
