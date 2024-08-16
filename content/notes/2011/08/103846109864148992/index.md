@@ -7,6 +7,9 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/103846109864148992/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/103846443240001538/
+tags:
+- mtg
+- mtgo
 ---
 
 After logging onto MTGO for the first time in months...the server went down for maintenance =/
