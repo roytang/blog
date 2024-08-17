@@ -1,6 +1,5 @@
 ---
-title: "Afterimage"
-date: 2024-08-17T14:36:40+08:00
+date: 2024-08-17 06:36:40
 reviews:
 - description: ''
   media: games
@@ -8,9 +7,14 @@ reviews:
   - steam
   rating: 3.5
   title: Afterimage (Steam)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112976079287828268
 tags:
 - gaming
 - metroidvania
+- games
+title: Afterimage
 ---
 
 After spending almost 90 hours playing through [my last (single-player) game](/2024/07/hades/#_), I decided to do a shorter one instead and settled on [Afterimage](https://store.steampowered.com/app/1701520/Afterimage/), a Metroidvania developed by a Shanghai-based publisher.
