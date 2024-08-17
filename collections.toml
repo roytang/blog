@@ -19,9 +19,12 @@ canonifyURLs = true
   [outputFormats.embed]
     baseName = "embed"
     mediaType = "text/html"    
+  [outputFormats.attachmentsjson]
+    baseName = "attachments"
+    mediaType = "application/json"    
 
 [outputs]
-  page = ["HTML", "embed"]
+  page = ["HTML", "embed", "attachmentsjson"]
 
 [taxonomies]
     tags = "tags"
