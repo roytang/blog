@@ -7,6 +7,9 @@ reviews:
   - steam
   rating: 3.5
   title: Afterimage (Steam)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/112976079287828268
 tags:
 - gaming
 - metroidvania
