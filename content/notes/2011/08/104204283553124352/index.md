@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/104204302477828096/
 tags:
 - mtgaaron
+- mtg
+- mtgo
 ---
 
 On a whim, I got Rot from Within event deck on MTGO. Just won a couple of games in the tourney practice room.
