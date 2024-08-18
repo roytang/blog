@@ -1,5 +1,5 @@
 ---
-date: 2016-08-19 19:59:00+08:00
+date: 2016-08-19 11:59:00
 dontinlinephotos: true
 repost_source:
   name: Bj Downey Jr.
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154834604713912
 tags:
 - fbreposts10
+- duterte
 ---
-
-
 
 <div class="bm" data-ft='{"tn":"*s"}' style="">
  <p>
