@@ -382,3 +382,4 @@ Traditionally, the only two WWE shows I ever watch anymore are the year's Royal 
 - Men's Rumble: I knew it made no sense but I was kind of rooting for Jay Uso to make it all the way. Feels like a lot less cameos for this one, with the only comedy entry really being Pat McAfee. Ending was easy to predict, and I'm not thrilled about the winner.
 
 Previously: [Royal Rumble 2023](/2023/01/royal-rumble-2023/)
+
