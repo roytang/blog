@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164506207354159104/
+tags:
+- poetry
 ---
 
 Lawrence Ferlinghetti, 100 years old today. Thank you.

@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164486925694070784/
+tags:
+- threads
+- poetry
 ---
 
 Last night I was in a loo and a woman entered the only other stall crying. I did the awkward shout over and asked if she was ok or wanted to talk about it, or needed a hug
