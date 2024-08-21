@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/899316230787665920/
 - type: twitter
   url: https://twitter.com/roytang/statuses/899316384248627204/
+tags:
+- talk2globe
 ---
 
 [@talk2GLOBE](https://twitter.com/talk2GLOBE/) prob w/ my bayantel dsl for &gt; 2 weeks now: sporadic access to google services (gmail, youtube, docs, drive) etc. 1/2

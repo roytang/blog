@@ -1,9 +1,11 @@
 ---
-date: 2019-08-20 16:29:01+00:00
+date: 2019-08-20 16:29:01
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1163850434357764096/
+tags:
+- coolartthings
 title: ''
 ---
 

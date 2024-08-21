@@ -16,6 +16,6 @@ tags:
 - alcinnz
 ---
 
-<p><span class="h-card"><a href="https://floss.social/@alcinnz" class="u-url mention">@<span>alcinnz</span></a></span> thanks! Unfortunately, I think I have a problem with &quot;If it’s a subscriber-only issue of the zine, you’ll get a link to subscribe.&quot;, so I think I&#39;ll keep using kill the newsletter for now, but this is good to know!</p>
+[@alcinnz](https://floss.social/@alcinnz) thanks! Unfortunately, I think I have a problem with &quot;If it’s a subscriber-only issue of the zine, you’ll get a link to subscribe.&quot;, so I think I&#39;ll keep using kill the newsletter for now, but this is good to know!
 
-<time id="104724437245384527">[08:01]</time> <p><span class="h-card"><a href="https://floss.social/@alcinnz" class="u-url mention">@<span>alcinnz</span></a></span> also after posting this, I realized that although I see a lot of tech writers writing newsletters via substack, only 1 of the 3 newsletters I&#39;m currently following is using this platform lol. I guess this encourages me to check out a few more</p>
+<time id="104724437245384527">[08:01]</time> [@alcinnz](https://floss.social/@alcinnz) also after posting this, I realized that although I see a lot of tech writers writing newsletters via substack, only 1 of the 3 newsletters I&#39;m currently following is using this platform lol. I guess this encourages me to check out a few more
