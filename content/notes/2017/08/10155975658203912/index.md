@@ -1,5 +1,5 @@
 ---
-date: 2017-08-23 23:04:00+08:00
+date: 2017-08-23 15:04:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/900370701915377665/
 tags:
 - fbreposts06
+- webcomics
+- lunarbaboon
 ---
 
 Why ME?!!

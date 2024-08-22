@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164694432085495809/
+tags:
+- sleep
 ---
 
 This cant possibly be a healthy sleep rhythm
