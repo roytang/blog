@@ -1,10 +1,13 @@
 ---
-title: "Mobile Banking"
-date: 2024-08-22T23:44:53+08:00
+date: 2024-08-22 15:44:53
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113006625716607743
 tags:
 - mobile
 - tech
 - banking
+title: Mobile Banking
 ---
 
 The other day I was woken up by a call from someone from my local bank branch informing me that I needed to switch to the new version of their mobile app and the old version would not be useful. This is the same new mobile app that they had been spamming me with notifications for the past couple of months or so with copious warnings across SMS, email and viber that the old mobile app was about to be deprecated and that I should switch over to the new one. The caller said they received an email with a list of clients that needed to be called to follow-up on this, which made me realize that hey, they weren't being insistently spammy to all their clients, I might have been targetted by those notifications!
