@@ -18,7 +18,7 @@ canonifyURLs = true
 [outputFormats]
   [outputFormats.embed]
     baseName = "embed"
-    mediaType = "text/html"    
+    mediaType = "application/json"    
   [outputFormats.attachmentsjson]
     baseName = "attachments"
     mediaType = "application/json"    

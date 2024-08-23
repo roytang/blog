@@ -1,40 +1,14 @@
 <blockquote class="embed">
 {{ .Content }}
 
-<div class="pxgallery">
+##collections_attachments##
 {{ $t := .Site.Params.collection_name }}
 {{ $i := .RelPermalink }}
-{{ $crbase := printf "##collections_root##%s/" $t }}
-
-{{ $mainPermalink := .RelPermalink }}
-{{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
-{{ $caption := .Title | default .Summary }}
-{{ $scratch := newScratch }}
-{{ with .Resources.ByType "image" }}
-{{ range $index, $element := . }}
-{{ if lt $index 4 }}
-
-{{ $scratch.Set "thumbnail" ($element.Resize "300x") }}
-{{ $thumb := $scratch.Get "thumbnail" }}
-
-<a href="{{ $crbase }}{{ $element.RelPermalink }}">
-    <img src="{{ $crbase }}{{ $thumb.RelPermalink }}"
-        title="{{ $element.Title | default $element.Name }}">
-</a>
-
-{{ end }}
-{{ $scratch.Set "count" $index }}
-{{ end }}
-{{ end }}    
-
-</div>
-{{ $scratch.Add "count" -1 }}
 <div class="embed_foot">from 
     <a {{ printf "href='{{collections_root}}'" | safeHTMLAttr }}>Collections</a> 
     > 
     <a {{ printf "href='{{collections_root}}%s/'" $t | safeHTMLAttr }}>{{ .Site.Params.collection_title }}</a>
     > 
     <a {{ printf "href='{{collections_root}}%s%s'" $t $i | safeHTMLAttr }}>{{ if .Title }}{{ .Title }}{{ else }}#{{ end }}</a>
-    <small>({{ $scratch.Get "count" }} total images)</small>
 </div>
 </blockquote>

@@ -5,4 +5,3 @@ tags:
 - wiiu
 title: "Xenoblade Chronicles X"
 ---
-

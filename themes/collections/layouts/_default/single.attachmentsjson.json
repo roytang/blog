@@ -2,6 +2,7 @@
     {
         "main": {{ .RelPermalink | jsonify }},
         "thumbnail": {{ $thumb.RelPermalink | jsonify }},
+        "caption": {{ .Title | default .Name | jsonify}},
         "title": {{ .Title | jsonify }},
         "name": {{ .Name | jsonify }},
         "sourcepath": {{ $fileDir | jsonify }}
