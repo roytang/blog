@@ -17,37 +17,37 @@ reviews:
   hashtag: thor-god-of-thunder-2013
   issues: 25
   media: comics
-  title: 'Thor: God of Thunder (2013)'
+  title: 'Thor: God of Thunder'
   year: 2013
 - description: ''
   hashtag: thor-v4-2014
   issues: 8
   media: comics
-  title: Thor v4 (2014)
+  title: Thor v4
   year: 2014
 - description: ''
   hashtag: mighty-thor-v2-2016-and-v3-2017-2018
   issues: 30
   media: comics
-  title: Mighty Thor v2 (2016) and v3 (2017-2018)
+  title: Mighty Thor v2 and v3
   year: 2016
 - description: ''
   hashtag: unworthy-thor-2016
   issues: 5
   media: comics
-  title: Unworthy Thor (2016)
+  title: Unworthy Thor
   year: 2016
 - description: ''
   hashtag: thor-v5-2018
   issues: 19
   media: comics
-  title: Thor v5 (2018)
+  title: Thor v5
   year: 2018
 - description: ''
   hashtag: king-thor-2019
   issues: 4
   media: comics
-  title: King Thor (2019)
+  title: King Thor
   year: 2019
 - description: War of the Realms, Omega, Giant-Man, :Journey Into Mystery, :New Agents
     of Atlas, :Punisher, :Spider-Man and the League of Realms, :Strikeforce, :Uncanny
@@ -55,14 +55,14 @@ reviews:
   hashtag: the-war-of-the-realms-2019
   issues: 34
   media: comics
-  title: The War of the Realms (2019 event)
+  title: The War of the Realms
   year: 2019
 - description: Jason Aaron's Avengers run - Avengers v8 (2018), Avengers Forever (2022),
     Avengers 1,000,000 BC, Avengers Assemble Alpha, Avengers Assemble Omega
   hashtag: jason-aarons-avengers-run
   issues: 84
   media: comics
-  title: Avengers v8 (2018)
+  title: Avengers v8
   year: 2018
 syndicated:
 - type: mastodon

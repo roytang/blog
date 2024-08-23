@@ -1,5 +1,5 @@
 ---
-date: 2016-08-24 16:58:00+08:00
+date: 2016-08-24 08:58:00
 dontinlinephotos: true
 repost_source:
   name: Jon Youshaei
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154848075333912
 tags:
 - fbreposts10
+- webcomics
 ---
-
-
 
 "Our lives begin to end the day we become silent about things that matter" - Martin Luther King Jr.
 
