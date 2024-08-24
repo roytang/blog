@@ -26,7 +26,7 @@ I dislike using mobile banking apps for several reasons:
 
 - my phone is inherently a much less secure device than my desktop because someone else can easily gain access to it (or [it can get stolen](/2023/07/stolen-phone/))
 - any online banking decisions should be made in the sober confines of your home and not susceptible to the impulsive "I can transfer money whereever I am!" reach of your mobile phone
-- it is just much, much to use a PC than a phone in terms of inputs, multi-tasking, etc. I can just copy-paste account numbers instead of relying on kludges like QR codes (although this does make it annoying when someone sends me a QR code instead of an account number)
+- it is just much, much easier to use a PC than a phone in terms of inputs, multi-tasking, etc. I can just copy-paste account numbers instead of relying on kludges like QR codes (although this does make it annoying when someone sends me a QR code instead of an account number)
 
 ---
 

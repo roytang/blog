@@ -1,14 +1,156 @@
 ---
-date: 2024-08-24T14:23:29+08:00
-draft: true
+date: 2024-08-24 06:23:29
 dontinlinephotos: true
+resources:
+- src: IMG_1545.PNG
+  title: 'Captain America v2 cover. What is up with that free-floating face?!?'
+- src: IMG_1546.PNG
+  title: 'Heroes Reborn (2021) #1 cover'
 reviews:
-- description: ''
-  hashtag: heroes-for-hire-v1-1997
-  issues: 20
+- hashtag: captain-america-v3
+  description: 'Heroes Reborn (1996)'
   media: comics
-  title: Heroes for Hire v1
+  title: 'Captain America v3'
+  issues: 13
+  year: 1996
+- hashtag: the-avengers-v2
+  description: 'Heroes Reborn (1996)'
+  media: comics
+  title: 'The Avengers v2'
+  issues: 13
+  year: 1996
+- hashtag: iron-man-v2
+  description: 'Heroes Reborn (1996)'
+  media: comics
+  title: 'Iron Man v2'
+  issues: 13
+  year: 1996
+- hashtag: fantastic-four-v2
+  description: 'Heroes Reborn (1996)'
+  media: comics
+  title: 'Fantastic Four v2'
+  issues: 13
+  year: 1996
+- hashtag: heroes-reborn-the-return
+  description: 'Heroes Reborn (1996)'
+  media: comics
+  title: 'Heroes Reborn: The Return'
+  issues: 4
   year: 1997
+- hashtag: one-shots
+  description: 'Heroes Reborn (1996) one-shots'
+  media: comics
+  title: 'Heroes Reborn Ashema'
+  issues: 1
+  year: 2000
+- hashtag: one-shots
+  description: 'Heroes Reborn (1996) one-shots'
+  media: comics
+  title: 'Heroes Reborn Doom'
+  issues: 1
+  year: 2000
+- hashtag: one-shots
+  description: 'Heroes Reborn (1996) one-shots'
+  media: comics
+  title: 'Heroes Reborn Doomsday'
+  issues: 1
+  year: 2000
+- hashtag: one-shots
+  description: 'Heroes Reborn (1996) one-shots'
+  media: comics
+  title: 'Heroes Reborn Masters of Evil'
+  issues: 1
+  year: 2000
+- hashtag: one-shots
+  description: 'Heroes Reborn (1996) one-shots'
+  media: comics
+  title: 'Heroes Reborn Rebel'
+  issues: 1
+  year: 2000
+- hashtag: one-shots
+  description: 'Heroes Reborn (1996) one-shots'
+  media: comics
+  title: 'Heroes Reborn Remnants'
+  issues: 1
+  year: 2000
+- hashtag: one-shots
+  description: 'Heroes Reborn (1996) one-shots'
+  media: comics
+  title: 'Heroes Reborn Young Allies'
+  issues: 1
+  year: 2000
+- hashtag: heroes-reborn-2021
+  description: ''
+  media: comics
+  title: 'Heroes Reborn'
+  issues: 7
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021)'
+  media: comics
+  title: 'Heroes Return'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: American Knights'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: Hyperion & the Imperial Guard'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: Magneto & the Mutant Force'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: Marvel Double Action'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: Night-Gwen'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: Peter Parker, The Amazing Shutterbugq'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: Siege Society'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: Squadron Savage'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: Young Squadron'
+  issues: 1
+  year: 2021
+- hashtag: heroes-reborn-2021
+  description: 'Heroes Reborn (2021) one-shots'
+  media: comics
+  title: 'Heroes Reborn: Weapon X & Final Flight'
+  issues: 1
+  year: 2021
 tags:
 - comics
 - complete-marvel-run
@@ -128,7 +270,7 @@ Current total (released) according to [the reference reading order](https://cmro
 
 Progress: 13.43% (13.22% last post)
 
-The progress rate is a bit slow for my taste, gaining just around 0.2% per post, so we are likely to end the year at around 15% at this rate. We are also exactly two years out from when [I started this series](/2022/08/iron-man-v1/) so the current rate is around 6.5% a year which isn't great and means we're likely to finish around 2037 lol. I'm gonna see if I can include more issues in succeeding posts.
+The past couple of posts have been a bit light. The progress rate is a bit slow for my taste, gaining just around 0.2% per post, so we are likely to end the year at around 15% at this rate. We are also exactly two years out from when [I started this series](/2022/08/iron-man-v1/) so the current rate is around 6.5% a year which isn't great and means we're likely to finish around 2037 lol. I think the current rate of posts might be better than the "every 3 months or so" rate from before, but I'm gonna see if I can include more issues in succeeding posts to match the coverage throughput.
 
 ### Up Next
 
