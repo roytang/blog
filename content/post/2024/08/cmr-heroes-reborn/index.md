@@ -3,154 +3,157 @@ date: 2024-08-24 06:23:29
 dontinlinephotos: true
 resources:
 - src: IMG_1545.PNG
-  title: 'Captain America v2 cover. What is up with that free-floating face?!?'
+  title: Captain America v2 cover. What is up with that free-floating face?!?
 - src: IMG_1546.PNG
   title: 'Heroes Reborn (2021) #1 cover'
 reviews:
-- hashtag: captain-america-v3
-  description: 'Heroes Reborn (1996)'
-  media: comics
-  title: 'Captain America v3'
+- description: Heroes Reborn (1996)
+  hashtag: captain-america-v3
   issues: 13
-  year: 1996
-- hashtag: the-avengers-v2
-  description: 'Heroes Reborn (1996)'
   media: comics
-  title: 'The Avengers v2'
-  issues: 13
+  title: Captain America v3
   year: 1996
-- hashtag: iron-man-v2
-  description: 'Heroes Reborn (1996)'
+- description: Heroes Reborn (1996)
+  hashtag: the-avengers-v2
+  issues: 13
   media: comics
-  title: 'Iron Man v2'
-  issues: 13
+  title: The Avengers v2
   year: 1996
-- hashtag: fantastic-four-v2
-  description: 'Heroes Reborn (1996)'
+- description: Heroes Reborn (1996)
+  hashtag: iron-man-v2
+  issues: 13
   media: comics
-  title: 'Fantastic Four v2'
-  issues: 13
+  title: Iron Man v2
   year: 1996
-- hashtag: heroes-reborn-the-return
-  description: 'Heroes Reborn (1996)'
+- description: Heroes Reborn (1996)
+  hashtag: fantastic-four-v2
+  issues: 13
+  media: comics
+  title: Fantastic Four v2
+  year: 1996
+- description: Heroes Reborn (1996)
+  hashtag: heroes-reborn-the-return
+  issues: 4
   media: comics
   title: 'Heroes Reborn: The Return'
-  issues: 4
   year: 1997
-- hashtag: one-shots
-  description: 'Heroes Reborn (1996) one-shots'
-  media: comics
-  title: 'Heroes Reborn Ashema'
+- description: Heroes Reborn (1996) one-shots
+  hashtag: one-shots
   issues: 1
-  year: 2000
-- hashtag: one-shots
-  description: 'Heroes Reborn (1996) one-shots'
   media: comics
-  title: 'Heroes Reborn Doom'
+  title: Heroes Reborn Ashema
+  year: 2000
+- description: Heroes Reborn (1996) one-shots
+  hashtag: one-shots
   issues: 1
-  year: 2000
-- hashtag: one-shots
-  description: 'Heroes Reborn (1996) one-shots'
   media: comics
-  title: 'Heroes Reborn Doomsday'
+  title: Heroes Reborn Doom
+  year: 2000
+- description: Heroes Reborn (1996) one-shots
+  hashtag: one-shots
   issues: 1
-  year: 2000
-- hashtag: one-shots
-  description: 'Heroes Reborn (1996) one-shots'
   media: comics
-  title: 'Heroes Reborn Masters of Evil'
+  title: Heroes Reborn Doomsday
+  year: 2000
+- description: Heroes Reborn (1996) one-shots
+  hashtag: one-shots
   issues: 1
-  year: 2000
-- hashtag: one-shots
-  description: 'Heroes Reborn (1996) one-shots'
   media: comics
-  title: 'Heroes Reborn Rebel'
+  title: Heroes Reborn Masters of Evil
+  year: 2000
+- description: Heroes Reborn (1996) one-shots
+  hashtag: one-shots
   issues: 1
-  year: 2000
-- hashtag: one-shots
-  description: 'Heroes Reborn (1996) one-shots'
   media: comics
-  title: 'Heroes Reborn Remnants'
+  title: Heroes Reborn Rebel
+  year: 2000
+- description: Heroes Reborn (1996) one-shots
+  hashtag: one-shots
   issues: 1
-  year: 2000
-- hashtag: one-shots
-  description: 'Heroes Reborn (1996) one-shots'
   media: comics
-  title: 'Heroes Reborn Young Allies'
+  title: Heroes Reborn Remnants
+  year: 2000
+- description: Heroes Reborn (1996) one-shots
+  hashtag: one-shots
   issues: 1
-  year: 2000
-- hashtag: heroes-reborn-2021
-  description: ''
   media: comics
-  title: 'Heroes Reborn'
+  title: Heroes Reborn Young Allies
+  year: 2000
+- description: ''
+  hashtag: heroes-reborn-2021
   issues: 7
-  year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021)'
   media: comics
-  title: 'Heroes Return'
-  issues: 1
+  title: Heroes Reborn
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021)
+  hashtag: heroes-reborn-2021
+  issues: 1
+  media: comics
+  title: Heroes Return
+  year: 2021
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: American Knights'
-  issues: 1
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: Hyperion & the Imperial Guard'
-  issues: 1
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: Magneto & the Mutant Force'
-  issues: 1
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: Marvel Double Action'
-  issues: 1
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: Night-Gwen'
-  issues: 1
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: Peter Parker, The Amazing Shutterbugq'
-  issues: 1
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: Siege Society'
-  issues: 1
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: Squadron Savage'
-  issues: 1
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: Young Squadron'
-  issues: 1
   year: 2021
-- hashtag: heroes-reborn-2021
-  description: 'Heroes Reborn (2021) one-shots'
+- description: Heroes Reborn (2021) one-shots
+  hashtag: heroes-reborn-2021
+  issues: 1
   media: comics
   title: 'Heroes Reborn: Weapon X & Final Flight'
-  issues: 1
   year: 2021
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113017352049876485
 tags:
 - comics
 - complete-marvel-run
