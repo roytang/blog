@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/3559080121/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/122546959634
+tags:
+- gaming
 ---
 
 there's a new professor layton! I haven't even finished the first one!

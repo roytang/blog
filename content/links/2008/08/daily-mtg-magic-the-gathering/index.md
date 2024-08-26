@@ -10,6 +10,7 @@ source: delicious
 tags:
 - games
 - articles
+- mtg
 title: 'Daily MTG : Magic: The Gathering'
 ---
 
