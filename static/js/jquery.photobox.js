@@ -594,7 +594,8 @@
 
                     title = this.images[i][1];
                     type = link.rel ? " class='" + link.rel +"'" : '';
-                    elements.push('<li'+ type +'><a href="'+ link.href +'"><img src="'+ thumbSrc +'" alt="" title="'+ title +'" /></a></li>');
+                    // @roytang: Removed title because it was causing problems when there's a link in the caption like when you use `data-pb-captionLink`
+                    elements.push('<li'+ type +'><a href="'+ link.href +'"><img src="'+ thumbSrc +'" alt="" /></a></li>');
                 };
                 thumbsList.html( elements.join('') );
                 return thumbsList;

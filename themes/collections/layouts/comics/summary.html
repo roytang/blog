@@ -1,9 +1,16 @@
-    {{ $mainPermalink := .RelPermalink }}
-    {{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
-    {{ $caption := .Title | default .Summary }}
-    {{ with .Resources.ByType "image" }}
-    {{ range . }}
-    {{ partialCached "image_thumbnail" (dict "context" . "caption" $caption "mainPermalink" $mainPermalink "postDate" $postDate) .RelPermalink }}
-    
-    {{ end }}
-    {{ end }}
+{{ $mainPermalink := .RelPermalink }}
+{{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
+{{ $caption := .Title | default .Summary }}
+{{ with .Resources.ByType "image" }}
+{{ range . }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "thumbnail" (.Resize "300x") }}
+{{ $thumb := $scratch.Get "thumbnail" }}
+
+<a href="{{ .RelPermalink }}">
+    <img src="{{ $thumb.RelPermalink }}"
+        data-pb-captionLink='{{ $caption }}[./{{ $mainPermalink }}]'
+        title="{{ .Title | default .Name }}">
+</a>
+{{ end }}
+{{ end }}

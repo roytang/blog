@@ -200,3 +200,6 @@
 	.pbThumbs li.active a img{ min-height:96%; }
 }
 
+.pbCaptionText {
+	background-color: rgba(12,12,12,0.75);
+}
