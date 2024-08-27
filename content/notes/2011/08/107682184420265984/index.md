@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/107788418532118528/
 tags:
 - 2facedcards
+- mtg
 ---
 
 Though I'm sure WoTC thinks they know what they're doing, I'm worried about the 2faced cards. Workarounds seem clunky, especially for draft.
