@@ -1,7 +1,9 @@
+<div class="galleryitemwithpostlink">
 {{ $mainPermalink := .RelPermalink }}
 {{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
 {{ $caption := .Title | default .Summary }}
-{{ with .Resources.ByType "image" }}
+<div>
+    {{ with .Resources.ByType "image" }}
 {{ range . }}
 {{ $scratch := newScratch }}
 {{ $scratch.Set "thumbnail" (.Resize "300x") }}
@@ -14,3 +16,6 @@
 </a>
 {{ end }}
 {{ end }}
+</div>
+<noscript><a href="./{{ $mainPermalink }}" class="postlink" title="{{ $caption }}">View post</a></noscript>
+</div>

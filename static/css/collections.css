@@ -17,6 +17,7 @@ blockquote.embed .embed_foot {
 body.collections_comics .entry_list {
     display: flex;
     flex-wrap: wrap;
+    gap: 4px;
 }
 
 body.collections_comics .entry_list img {
@@ -26,4 +27,19 @@ body.collections_comics .entry_list img {
 blockquote.embed {
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+.galleryitemwithpostlink {
+    display: flex;
+    flex-direction: column;
+}
+
+.galleryitemwithpostlink > div {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 360px;
+}
+
+.galleryitemwithpostlink a.postlink {
+    font-size: smaller;
 }

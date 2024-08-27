@@ -251,6 +251,10 @@
                 captionlink;
 
             function linksObjFiler(i){
+
+                // @roytang Don't retain the captionlink from the previous link
+                captionlink = false;
+
                 // search for the thumb inside the link, if not found then see if there's a 'that.settings.thumb' pointer to the thumbnail
                 var link = $(this),
                     thumbImg,
@@ -270,10 +274,11 @@
                     captionlink = thumbImg.getAttribute('data-pb-captionlink');
                     thumbSrc = thumbImg.getAttribute(that.options.thumbAttr) || thumbImg.getAttribute('src');
                     caption.content = ( thumbImg.getAttribute('alt') || thumbImg.getAttribute('title') || '');
+                } else {
+                    // @roytang: Don't process if no img child found
+                    return false;
                 }
 
-
-                // if there is a caption link to be added:
                 if( captionlink ){
                     captionlink = captionlink.split('[');
                     // parse complex links: text[www.site.com]
@@ -287,7 +292,6 @@
                     }
                     caption.content += ' <a href="'+ caption.linkHref +'">' + caption.linkText + '</a>';
                 }
-
                 images.push( [link[0].href, caption.content, thumbSrc] );
 
                 return true;
