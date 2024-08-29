@@ -1,11 +1,12 @@
 ---
-date: 2016-08-30 23:38:00+08:00
+date: 2016-08-30 15:38:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154865364783912
-tags: 
+tags:
 - bleah
+- duterte
 ---
 
 [Michael](https://www.facebook.com/mdvsamson) pakicheck nga ang math nito haha. Parang malabo sakin yung relevance ng unang assumption sa 2nd paragraph nya, and doesn't it contradict the second assumption?
