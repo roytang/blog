@@ -37,7 +37,7 @@ On the blog: Nothing last week other than the previous weeknotes!
 
 ### Walking and Health
 
-This past week (Sunday through Saturday) Google Fit says I walked at least 50k steps. I don't have the exact total because I'm writing this Saturday morning! I missed one day due to it being very rainy, and then general busy-ness Friday and Saturday means not much walking on those days. That number of steps is pretty good all things considered.
+This past week (Sunday through Saturday) Google Fit says I walked at least 52k steps. I don't have the exact total because I'm writing this Saturday morning! I missed one day due to it being very rainy, and then general busy-ness Friday and Saturday means not much walking on those days. That number of steps is pretty good all things considered.
 
 ### Some Links of Interest
 
