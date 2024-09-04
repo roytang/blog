@@ -1,10 +1,12 @@
 ---
-date: 2022-09-05 00:09:43+00:00
+date: 2022-09-05 00:09:43
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1566579291520790529/
+tags:
+- adhd
 ---
 
 I think my ADHD is a lot milder than this, but I can relate. It's one of the most common reasons my sleep cycle is screwed up; my brain hyperfocuses on something and i cant sleep until i resolve it 

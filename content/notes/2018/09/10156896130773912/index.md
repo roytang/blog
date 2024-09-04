@@ -1,5 +1,5 @@
 ---
-date: 2018-09-05 13:24:00+08:00
+date: 2018-09-05 05:24:00
 dontinlinephotos: true
 repost_source:
   name: Puck Curtis
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156896130773912
 tags:
 - fbreposts09
+- puns
 ---
 
 Two Roman commanders were tasked with conquering the Gauls.  
