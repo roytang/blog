@@ -1,11 +1,12 @@
 ---
-date: 2019-09-04 08:03:15+00:00
+date: 2019-09-04 08:03:15
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1169158972152193024/
 tags:
 - mtgeldraine
+- mtg
 title: ''
 ---
 
