@@ -1,10 +1,11 @@
 ---
-date: 2013-09-06 05:39:00+08:00
+date: 2013-09-05 21:39:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152448769198912
-tags: []
+tags:
+- dreams
 ---
 
 So in this dream, I was taking part in some sort of problem-solving contest. The other participants were people I knew (relatives, friends, coworkers and the like). The fate of the world may have been on the line or something.
