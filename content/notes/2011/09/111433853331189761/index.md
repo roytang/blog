@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/111433853331189761/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/111433901301448704/
+tags:
+- mtg
 ---
 
 So...do tournament k-ratings still matter anymore? Nada?
