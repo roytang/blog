@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/111470215551922176/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150284760343912
+tags:
+- tv
 ---
 
 Just watched the pilot for Suits. This series seems promising
