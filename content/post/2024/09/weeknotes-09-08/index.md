@@ -3,7 +3,10 @@ date: 2024-09-08 04:30:18
 dontinlinephotos: true
 resources:
 - src: watcher.jpg
-  title: "Look at me, I'm the Watcher now"
+  title: Look at me, I'm the Watcher now
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113100126883122344
 tags:
 - weeknotes
 title: Weeknotes 2024-09-08 A Week At The Hospital
