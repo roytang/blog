@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/112155125895802880/
 tags:
 - mtginn
+- mtg
 ---
 
 I treat Magic like I treat SC2 and SF4 these days: watching people play and reading discussions, too lazy to actually play =/
