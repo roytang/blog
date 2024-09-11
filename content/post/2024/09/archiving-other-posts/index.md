@@ -1,9 +1,12 @@
 ---
-title: "Archiving Other People's Posts"
-date: 2024-09-11T10:45:33+08:00
+date: 2024-09-11 02:45:33
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113116741368956727
 tags:
-- web 
+- web
 - archiving
+title: Archiving Other People's Posts
 ---
 
 The other day some friends and I were talking about the idiosyncracies of websites by Japanese companies, and I remembered a post [I had previously shared on this site](/2023/12/00f25e9ad99c267e3bc5aa290a250916/) about how Japanese personal websites had a unique aesthetic as well and I wanted to share it with the group chat. But to my sadness, I found that the article **"Browsing the Eastern Side of the Personal Web"** originally hosted at https://www.bikobatanari.art/posts/2023/east-west-website-culture was no longer available. In fact, the entire domain is already dead. I shrugged at the [link rot](/2021/02/link-rot/) and checked the wayback machine and was surprised that the website was "excluded from the wayback machine", presumably at the request of the original domain owner.
