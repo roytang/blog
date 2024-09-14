@@ -1,5 +1,5 @@
 ---
-date: 2017-09-15 07:44:00+08:00
+date: 2017-09-14 23:44:00
 dontinlinephotos: true
 repost_source:
   name: Rappler
@@ -12,6 +12,7 @@ syndicated:
 tags:
 - fbreposts09
 - pugadbaboy
+- webcomics
 ---
 
 Ate Bulaga  By: Pol Medina Junior    Para sa iba pang kwentong  # PugadBaboy , pumunta sa  www.rappler.com /pugad-baboy
