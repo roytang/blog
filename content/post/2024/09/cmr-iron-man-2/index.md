@@ -5,30 +5,33 @@ resources:
 - src: IMv3_004_001.PNG
   title: 'Iron Man v3 #4: Stark Solutions introduces a new web browser'
 - src: IMv3_004_002.PNG
-  title: "Iron Man v3 #4: WebVoyager's features are ahead of its time!"
+  title: 'Iron Man v3 #4: WebVoyager''s features are ahead of its time!'
 - src: IMv3_074.PNG
   title: 'Iron Man v3 #74: Is Tony Stark a Republican?'
 - src: IMv3_078.PNG
-  title: "Iron Man v3 #78: Tony Stark confirmed as GWB's secretary of defense"
+  title: 'Iron Man v3 #78: Tony Stark confirmed as GWB''s secretary of defense'
 reviews:
-- hashtag: annuals
-  description: ''
-  media: comics
-  title: 'Iron Man v1 Annuals'
+- description: ''
+  hashtag: annuals
   issues: 13
+  media: comics
+  title: Iron Man v1 Annuals
   year: 0
-- hashtag: iron-man-v3-1998-to-2004
-  description: ''
-  media: comics
-  title: 'Iron Man v3'
+- description: ''
+  hashtag: iron-man-v3-1998-to-2004
   issues: 92
-  year: 1998
-- hashtag: iron-man-v4-2005-to-2009
-  description: 'Includes Invincible Iron Man v1, Iron Man: Director of SHIELD'
   media: comics
-  title: 'Iron Man v4'
+  title: Iron Man v3
+  year: 1998
+- description: 'Includes Invincible Iron Man v1, Iron Man: Director of SHIELD'
+  hashtag: iron-man-v4-2005-to-2009
   issues: 36
+  media: comics
+  title: Iron Man v4
   year: 2005
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113136989915330255
 tags:
 - comics
 - complete-marvel-run
