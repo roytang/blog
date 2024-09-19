@@ -1,10 +1,12 @@
 ---
-date: 2016-09-20 11:37:32+00:00
+date: 2016-09-20 11:37:32
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/778196391872958464/
+tags:
+- duterte
 ---
 
 Collateral damage 

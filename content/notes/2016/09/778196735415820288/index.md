@@ -1,5 +1,5 @@
 ---
-date: 2016-09-20 11:38:54+00:00
+date: 2016-09-20 11:38:54
 dontinlinephotos: true
 source: twitter
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://twitter.com/roytang/status/778196735415820288/
 tags:
 - ABSCBNNews
+- duterte
 ---
 
 . [@ABSCBNNews](https://twitter.com/ABSCBNNews/) bakit nyo cinensor ung "You", baka sabihin na naman nde directed sa tao kundi expression lang :p 
