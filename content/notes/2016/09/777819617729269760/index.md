@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154921485913912
 tags:
 - supermajority
+- duterte
 ---
 
 A senator who wanted to suspend the writ of habeas corpus is now the chair of the committee on justice and human rights #supermajority

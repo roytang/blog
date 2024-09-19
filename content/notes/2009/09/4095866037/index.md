@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/4095866037/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/280965050354
+tags:
+- scribblenauts
 ---
 
 Scribblenauts has resolved the great debate: Pirate beats Ninja!

@@ -1,5 +1,5 @@
 ---
-date: 2017-09-18 22:22:12+00:00
+date: 2017-09-18 22:22:12
 repost_source:
   name: theawkwardyeti
   type: twitter
@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/909905420021506048/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156043358998912
+tags:
+- webcomics
 title: ''
 ---
 
