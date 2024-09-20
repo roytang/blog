@@ -1,5 +1,5 @@
 ---
-date: 2016-09-21 13:05:00+08:00
+date: 2016-09-21 05:05:00
 dontinlinephotos: true
 repost_source:
   name: Weng Santos
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154926706423912
 tags:
 - fbreposts10
+- duterte
 ---
-
-
 
 <div class="bp" data-ft='{"tn":"*s"}' style="">
  <p>
