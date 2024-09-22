@@ -1,6 +1,9 @@
 ---
-date: 2024-09-22T10:19:59+08:00
+date: 2024-09-22 02:19:59
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113179315728820790
 tags:
 - weeknotes
 title: Weeknotes 2024-09-22 Two For One
