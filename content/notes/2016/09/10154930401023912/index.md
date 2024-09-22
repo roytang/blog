@@ -5,7 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154930401023912
-tags: []
+tags:
+- duelyst
 ---
 
 Posting this so I can remember to try it later (as if I didn't already have too much to play)
