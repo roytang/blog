@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1175831732735500288/
+tags:
+- webcomics
 ---
 
 Some candy hearts comics I drew, a thread:
