@@ -141,29 +141,45 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151704387308912
 - type: twitter
   url: https://twitter.com/roytang/statuses/225848297615671296/
+toc: true
 ---
 
 #### Shaun of the Dead (2004)
 
 <time>[2012-04-06 07:50] </time> Watching: shaun of the dead #fb
 
+---
+
+
 #### Avengers (2012)
 
 <time>[2012-04-25 16:19] </time> Avengers was very enjoyable, funny and action-packed. Re-reading Ultimates v1 now lol
+
+---
 
 #### Superman Returns (2006)
 
 <time>[2012-06-22 16:12] </time> Watching Superman Returns. I don't think the movie would work without the John Williams soundtrack.
 
-<time>[2012-07-02 19:46] </time> I don't know how they expect Peter Parker to be taken seriously as a tech guy when his default search engine is Bing
+---
+
+#### Lord of the Rings trilogy (2001-2003)
+
+<time>[2012-07-01 01:07] </time> Spent the second half of the day watching the Lord of the Rings trilogy.
+
+[Comments](#comment-0c73bb99-a072-48eb-818c-e01cb8216e39)
+
+---
 
 #### Amazing Spider-Man (2012)
 
 <time>[2012-07-01 19:01] </time> Just saw Amazing Spider-Man. It's a completely different movie than Sam Raimi's version (and better IMHO), much more serious and drama tho
 
-#### Lord of the Rings trilogy (2001-2003)
+<time>[2012-07-02 19:46] </time> I don't know how they expect Peter Parker to be taken seriously as a tech guy when his default search engine is Bing
 
-<time>[2012-07-01 01:07] </time> Spent the second half of the day watching the Lord of the Rings trilogy.
+[Comments](#comment-b5d8b9a7-c49b-4186-928c-22d32c52815d)
+
+---
 
 #### The Dark Knight Rises (2012)
 
@@ -171,13 +187,19 @@ syndicated:
 
 <time>[2012-07-19 15:28] </time> TDKR: Fantastic movie, especially for people who've followed the Batman comics. Great ending!
 
+---
+
 #### Kung Fu Panda 2 (2011)
 
 <time>[2012-08-05 21:45] </time> I accidentally watched kung fu panda 2
 
+---
+
 #### Bourne Legacy (2012)
 
 <time>[2012-08-08 21:51] </time> Bourne Legacy was okay, though the ending was a weak. The last 1/3 of the film will be much more enjoyable for Filipinos than foreigners
+
+---
 
 #### Batman (1989)
 
@@ -185,13 +207,23 @@ syndicated:
 
 And of course, in this fictional universe we get the first ever African-American Two-Face played by Billy Dee Williams
 
+---
+
 #### Bad Boys 2 (2003)
 
 <time>[2012-09-23 13:37] </time> Watching Bad Boys 2, wondering why there are no cop movies in the Philippines
 
+[Comments](#comment-8b406fb5-69e8-4f34-aeca-bd2a7430a5e7)
+
+---
+
 #### Skyfall (2012)
 
 <time>[2012-11-03 19:30] </time> Re: skyfall, was it just me or was bond's plan terrible?
+
+[Comments](#comment-8ff67ab3-eff0-4cbe-b2df-e9c1cd8d39bb)
+
+---
 
 #### The Prestige (2006)
 
@@ -199,8 +231,13 @@ And of course, in this fictional universe we get the first ever African-American
 
 Re: The Prestige, great movie, though I was a bit disappointed with what tesla's machine turned out to be
 
+---
+
 #### Rurouni Kenshin (2012)
 
 <time>[2012-12-08 00:48] </time> Woohoo, Rurouni Kenshin was great! Makes me want to rewatch the anime lol.
 
 <time>[00:49]</time> Did you see the Rurouni Kenshin post-credits scene? Samuel L Jackson showed up to recruit him
+
+[Comments](#comment-9496614d-d1ae-4455-977c-34ac2fb8f7b0)
+

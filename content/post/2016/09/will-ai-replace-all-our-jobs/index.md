@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/150100376215/will-ai-replace-all-our-jobs
 - type: twitter
   url: https://twitter.com/roytang/statuses/773696472592289793/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10161001708418912
 tags:
 - Software Development
 title: Will AI replace all our jobs?

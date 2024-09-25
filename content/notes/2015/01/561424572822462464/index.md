@@ -12,6 +12,9 @@ tags:
 - ptq
 - standard
 - constructed
+title: PTQ Gatecrash (Standard)
 ---
 
-Well, I guess I'm not going to Brussels
+Went 4-3 running Jeskai Tokens.
+
+Well, I guess I'm not going to Brussels.
