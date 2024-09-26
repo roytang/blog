@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/648039185425764352/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154116759673912
+tags:
+- survey
 ---
 
 80s cartoon fans: how do you pronounce the sound transformers make when they transform?
