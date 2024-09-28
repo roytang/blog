@@ -1,10 +1,5 @@
 ---
-title: "Magic 2010 Set Recap"
-backpost_date: 2024-01-10T13:37:48+08:00
-tags:
-- mtg
-- mtgm10
-- backpost
+backpost_date: 2024-01-10 05:37:48
 date: 2009-09-15
 dontinlinephotos: true
 syndicated:
@@ -66,6 +61,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/4594936496/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/145041197475
+tags:
+- mtg
+- mtgm10
+- backpost
+- mtgsetrecap
+title: Magic 2010 Set Recap
 ---
 
 ### Previews
@@ -107,4 +108,3 @@ I played an above average number of M10 drafts mostly on MTGO as prep for GP Ban
 <time>[08:51]</time> #mtg won the draft! turn 1 jackal familiar into turn 2 raging goblin ftw lolz. now to try not to be late for work!
 
 <time>[2009-10-04 11:31] </time> took like 10 rares in an M10 draft (2 were duals). My mana base was still pretty bad, as you can imagine; lost in round 2
-

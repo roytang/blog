@@ -13,10 +13,9 @@ syndicated:
 tags:
 - mtg
 - backpost
+- mtgsetrecap
 title: Khans of Tarkir Set Recap
 ---
-
-
 
 <time>[2014-08-31 14:27] </time> Holy crap. Allied fetchlands reprinted! #ktk
 

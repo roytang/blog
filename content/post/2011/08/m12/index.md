@@ -19,7 +19,7 @@ syndicated:
 tags:
 - backpost
 - mtg
-- setrecap
+- mtgsetrecap
 title: Magic 2012 Set Recap
 events: 
 - location: eton_cyberpod

@@ -6,7 +6,7 @@ tags:
 - limited
 - magicarena
 - limitedrecap
-- setrecap
+- mtgsetrecap
 title: "My Innistrad: Midnight Hunt Limited Recap"
 dontinlinephotos: true
 ---

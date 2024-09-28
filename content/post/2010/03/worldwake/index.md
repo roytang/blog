@@ -23,6 +23,7 @@ syndicated:
 tags:
 - mtg
 - backpost
+- mtgsetrecap
 title: Worldwake Set Recap
 ---
 

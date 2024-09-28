@@ -5,11 +5,116 @@ tags:
 - mtg
 - magic the gathering
 - magicarena
+toc: true
 ---
 
 I know, I know this page layout could use a lot of work.
 
-### Timeline:
+### Timeline (Reverse Chronological)
+
+#### 2024
+
+##### [Modern Horizons 3](/2024/07/mtgmh3-set-recap/)
+
+##### [Outlaws of Thunder Junction](/2024/07/mtgotj-set-recap/)
+
+##### [Murders at Karlov Manor](/2024/04/mtgmkm-set-recap/)
+
+##### [Lost Caverns of Ixalan](/2024/01/mtglci-set-recap/)
+
+#### 2023
+
+##### [Wilds of Eldraine](/2023/10/mtgwoe-limited-recap/)
+
+##### [Lord of the Rings: Tales of Middle Earth](/2023/08/mtgltr-limited-recap/)
+
+##### [March of the Machine](/2023/06/mtgmom-limited-recap/)
+
+##### [Phyrexia: All Will Be One](/2023/04/mtgone-limited-recap/)
+
+##### [Brothers War](/2023/01/mtgbro-limited-recap/)
+
+#### 2022
+
+##### [Dominaria United](/2022/12/mtgdmu-limited-recap/)
+
+##### [Alchemy Horizons: Baldur's Gate](/2022/09/mtghbg-limited-recap/)
+
+##### [Streets of New Capenna](/2022/06/mtgsnc-limited-recap/)
+
+##### [Kamigawa Neon Dynasty](/2022/03/mtgneo-limited-recap/)
+
+#### 2021
+
+##### [Innistrad: Crimson Vow](/2021/12/mtgcrimson-limited-recap/)
+
+##### [Innistrad: Midnight Hunt](/2021/10/mtgmidnight-limited-recap/)
+
+##### [Adventures in the Forgotten Realms](/2021/08/mtgafr-limited-recap/)
+
+##### [Strixhaven](/2021/05/mtgstx-limited-recap/)
+
+##### [Kaldheim](/2021/02/mtgkld-limited-recap/)
+
+#### 2020
+
+##### [Kaladesh Remastered](/2020/12/mtgklr-recap/)
+
+##### [Zendikar Rising](/2020/11/mtgznr-limited-recap/)
+
+##### [Amonkhet Remastered](/2020/09/mtgakr-recap/)
+
+##### [Magic 2021](/2020/07/mtgm21-limited-recap/)
+
+##### [Ikoria: Lair of Behemoths](/2020/05/mtgiko-limited-recap/)
+
+##### [Theros: Beyond Death](/2020/02/mtgthb-limited-recap/)
+
+#### 2019
+
+##### [Thrones of Eldraine](/2019/11/mtgeld/)
+
+##### Core Set 2020
+
+##### Modern Horizons
+
+##### War of the Spark
+
+##### Ravnica Allegiance
+
+#### 2018
+
+##### Guilds of Ravnica
+
+##### Core Set 2019
+
+##### Dominaria
+
+##### Rivals of Ixalan
+
+#### 2017
+
+##### Ixalan
+
+##### Hour of Devastation
+
+##### Amonkhet
+
+##### Aether Revolt
+
+#### 2016
+
+##### Kaladesh
+
+##### Eldritch Moon
+
+##### Shadows Over Innistrad
+
+##### Oath of the Gatewatch
+
+
+
+### Timeline (Old)
 
 || Latest Standard Set | Limited | Constructed |
 |---|---|---|---|

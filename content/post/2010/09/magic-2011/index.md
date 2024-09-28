@@ -120,6 +120,7 @@ tags:
 - mtg
 - backpost
 - m11
+- mtgsetrecap
 title: Magic 2011 Set Recap
 ---
 

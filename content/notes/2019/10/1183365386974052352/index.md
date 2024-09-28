@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mtg
 - mtgeld
+- merged
 ---
 
 2nd ELD draft. This archetype is great (maybe until the bots find out about it), but I only went 6-3 due to a misplay #mtg

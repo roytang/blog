@@ -7,6 +7,7 @@ syndicated:
 tags:
 - mtg
 - mtgeld
+- merged
 ---
 
 Did an #mtg eldraine paper prerelease as well today  Went 3-0-1 with this pile

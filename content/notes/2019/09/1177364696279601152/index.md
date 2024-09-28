@@ -9,6 +9,7 @@ syndicated:
 tags:
 - mtg
 - mtgeld
+- merged
 ---
 
 Went 5-3 with my first Eldraine sealed. Not bad, but not very good either =/ #mtg

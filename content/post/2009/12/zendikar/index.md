@@ -63,6 +63,7 @@ syndicated:
 tags:
 - mtg
 - backpost
+- mtgsetrecap
 title: Zendikar Set Recap
 ---
 

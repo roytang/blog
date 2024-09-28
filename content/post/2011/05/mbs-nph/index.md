@@ -21,7 +21,7 @@ syndicated:
 tags:
 - backpost
 - mtg
-- setrecaps
+- mtgsetrecap
 title: Mirrodin Besieged and New Phyrexia Set Recaps
 events:
 - location: eton_cyberpod

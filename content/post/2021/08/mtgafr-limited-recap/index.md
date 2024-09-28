@@ -7,7 +7,7 @@ tags:
 - limited
 - magicarena
 - limitedrecap
-- setrecap
+- mtgsetrecap
 dontinlinephotos: true
 ---
 
