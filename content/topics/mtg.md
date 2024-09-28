@@ -146,7 +146,7 @@ I know, I know this page layout could use a lot of work.
 | | | [Arena Cube Sealed](/tags/arena-cube-sealed) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhXxAsCyH5W8OQEGVXBkE28) | | 
 | **Jan** | Theros Beyond Death | [Arena limited](/tags/mtgthb) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXiD34JmpHgzhdtpCAR2MNqf) | |
 | **2019** |
-| **Oct** | Throne of Eldraine | [Prerelease](/2019/09/1177586909565972480/) [Arena limited](/tags/mtgeld) | [Historic format introduced](/2019/09/mtg-arena-historic/) |
+| **Oct** | Throne of Eldraine | [Prerelease](/2019/11/mtgeld/) [Arena limited](/tags/mtgeld) | [Historic format introduced](/2019/09/mtg-arena-historic/) |
 | **Jul** | Core 2020 | [MagicFest Seattle](/tags/mfseattle) (Modern Horizons limited) | [Trying out pauper](/2019/09/mtg-trying-out-pauper/) [MCQ Richmond (Modern)](/2019/08/mcq-richmond/) |
 | **May** | War of the Spark | | [Standard: Esper](/2019/05/war-of-spark-esper/) |
 | **Jan** | Ravnica Allegiance | [Arena limited](/tags/mtgrna) | |
