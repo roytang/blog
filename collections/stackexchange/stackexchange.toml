@@ -1,0 +1,4 @@
+[params]
+    collection_name = "stackexchange"
+    collection_title = "Stack Exchange Posts"
+    collections_root = false

@@ -1,5 +1,5 @@
 [params]
-    collection_name = "galleries"
+    collection_name = "albums"
     collection_title = "Image Galleries"
     collections_root = false
 
