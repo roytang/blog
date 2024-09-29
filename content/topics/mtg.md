@@ -80,7 +80,7 @@ I know, I know this page layout could use a lot of work.
 
 ##### War of the Spark
 
-##### Ravnica Allegiance
+##### [Ravnica Allegiance](/2019/02/mtgrna/)
 
 #### 2018
 
