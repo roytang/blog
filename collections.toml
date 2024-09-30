@@ -37,6 +37,7 @@ canonifyURLs = true
 
 [permalinks]
     "notes" = "/:filename/"
+    "lineitems" = "/:filename/"
     "comics" = "/:filename/"
     "albums" = "/:filename/"
 
