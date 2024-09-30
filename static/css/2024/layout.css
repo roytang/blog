@@ -212,6 +212,11 @@ blockquote {
     grid-template-columns: 3em 1fr; /* Two columns */
 }
 
+.line_item .title {
+    display: grid;
+    grid-template-columns: 6em 1fr; /* Two columns */
+}
+
 .meta {
     color: var(--deemphasized-text-color);
     text-align: right;

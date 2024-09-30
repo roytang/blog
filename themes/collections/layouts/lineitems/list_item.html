@@ -1,0 +1,8 @@
+<li class="line_item">
+<div class="title">
+    <time class="dt-published" datetime='{{ .Date.Format .Site.Data.Formats.timestampjson }}'>{{ .Date.Format .Site.Data.Formats.date }}</time>
+    <span class="title_inner">
+        <a class="u-url post-title p-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </span>
+</div>
+</li>
