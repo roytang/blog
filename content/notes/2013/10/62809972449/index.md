@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/385047050943209472/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152499704213912
+tags:
+- webcomics
 ---
 
 <p><a class="tumblr_blog" href="http://maxwittert.tumblr.com/post/61538625664/jean-scott-episode-2-c-max-wittert">maxwittert</a>:</p>

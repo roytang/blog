@@ -10,7 +10,7 @@ tags:
 - arenaopen
 - mtg
 - magicarena
-- mtgkld
+- kaldheim
 title: ''
 ---
 

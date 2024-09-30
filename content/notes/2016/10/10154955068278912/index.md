@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-10-01 14:32:00+08:00
+date: 2016-10-01 06:32:00
 source: facebook
 syndicated:
 - type: facebook
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/782106799453327362/
 tags:
 - timeline-photos
+- duterte
 ---
 
 "I wassss once a man!!"  
