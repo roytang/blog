@@ -100,11 +100,11 @@ I know, I know this page layout could use a lot of work.
 
 ##### Amonkhet
 
-##### Aether Revolt
+##### [Aether Revolt](/2017/03/mtgkld_aer/#aether-revolt)
 
 #### 2016
 
-##### Kaladesh
+##### [Kaladesh](/2017/03/mtgkld_aer/#kaladesh)
 
 ##### Eldritch Moon
 
@@ -161,7 +161,7 @@ I know, I know this page layout could use a lot of work.
 | **Apr** | Amonkhet | [Prerelease](/2017/04/855584209573789696/) | [Grand Prix Manila 2017](/2017/06/grand-prix-manila-2017/) (Standard) |
 | **Jan** | Aether Revolt | | |
 | **2016** |
-| **Sep** | Kaladesh | [Prerelease](/2016/09/mtgkld-prerel/) | [Sep WMCQ](/2016/09/777009877705039872/) |
+| **Sep** | Kaladesh | [Prerelease](/2017/03/mtgkld_aer/#kaladesh-prerelease) | [Sep WMCQ](/2016/09/777009877705039872/) |
 | **Jul** | Eldritch Moon | [Prerelease](/2016/07/BH6CBSIhSyh/) | |
 | **Apr** | Shadows Over Innistrad | [Prerelease](/2016/04/BDsQ13isoPT/) | [Jun Modern GPT](/2016/06/746690727887810560/) [Jul WMCQ](/2016/07/751617363892506624/) |
 | | | | [Jun WMCQ](/2016/06/744012127560675329/) |
