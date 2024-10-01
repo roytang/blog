@@ -84,3 +84,4 @@ Monday (today) is a holiday, capping off a 4-day weekend.
 We should have had an immunotherapy session scheduled today but because of the holiday it was moved to Tuesday. Then we probably have another unrelated checkup on Friday.
 
 Trivia team is attending a quiz night on Wednesday, I may or may not join.
+
