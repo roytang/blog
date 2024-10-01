@@ -140,6 +140,8 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/madame-web/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/hit-man-2023/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113230947591727362
 tags:
 - movies
 - tv
