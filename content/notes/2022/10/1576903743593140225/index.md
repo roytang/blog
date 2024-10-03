@@ -1,5 +1,5 @@
 ---
-date: 2022-10-03 11:55:24+00:00
+date: 2022-10-03 11:55:24
 dontinlinephotos: true
 repost_source:
   name: Teri_Kanefield
@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1576903743593140225/
 tags:
 - Teri_Kanefield
+- threads
 ---
 
 I think I do. Can I give it a shot?

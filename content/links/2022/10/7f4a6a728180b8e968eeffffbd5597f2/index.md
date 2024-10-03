@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1576835593107312641/
 - type: twitter
   url: https://twitter.com/roytang/status/1576835594554028037/
+tags:
+- quotes
 title: Neil Gaiman on Kindness
 ---
 
