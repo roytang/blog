@@ -1,5 +1,5 @@
 ---
-date: 2016-10-04 05:42:11+00:00
+date: 2016-10-04 05:42:11
 repost_source:
   name: natashya_g
   type: twitter
@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/783180395667828736/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154963518688912
+tags:
+- duterte
 title: ''
 ---
 

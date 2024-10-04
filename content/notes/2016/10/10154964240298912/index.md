@@ -1,9 +1,11 @@
 ---
-date: 2016-10-04 12:17:00+00:00
+date: 2016-10-04 12:17:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154964240298912
+tags:
+- duterte
 title: ''
 ---
 

@@ -13,6 +13,14 @@ syndicated:
   url: https://roytang.tumblr.com/post/178996306410/late-game-review-ni-no-kuni-wrath-of-the-white
 - type: twitter
   url: https://twitter.com/roytang/statuses/1050916325122613249/
+- type: reddit
+  url: https://www.reddit.com/r/PS3/comments/1t2s6q/i_bought_ni_no_kuni_during_the_sale_and_there_are/
+- type: reddit
+  url: https://www.reddit.com/r/PS3/comments/1t2s6q/i_bought_ni_no_kuni_during_the_sale_and_there_are/ce3qkyj/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1045952510966390784/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1138568874897551361/
 tags:
 - late-game-review
 - Review
@@ -45,6 +53,20 @@ All in all a very fun game and something I'm glad to have gotten off my backlog!
 
 
   
+### Social Media Archive
 
+<time id="1t2s6q">[2013-12-17 16:10] </time> #### Posted on r/PS3: [I bought Ni No Kuni during the sale and there are two of them on my download list, am I supposed to download both?](https://www.reddit.com/r/PS3/comments/1t2s6q/i_bought_ni_no_kuni_during_the_sale_and_there_are/)
 
-__
+[16:10] I don't actually have enough space for the 15gb one lol
+
+[Comments](#comment-0b299353-6e04-4948-a8ce-8379b33d4d83)
+
+---
+
+<time id="1045952510966390784">[2018-09-29 16:24] </time> I finished Ni No Kuni (PS3, 2013) this week. Grinding towards the plat now. At this rate, I'll be able to play Dragon Quest XI in 5 years lol
+
+---
+
+<time id="1138568874897551361">[2019-06-12 06:09] </time> I'm taking so long to finish games that literally less than a year after I finish one, the remaster gets announced 
+
+---
