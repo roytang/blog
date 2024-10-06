@@ -1,6 +1,9 @@
 ---
-date: 2024-10-06T15:52:36+08:00
+date: 2024-10-06 07:52:36
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113259517020303747
 tags:
 - weeknotes
 title: Weeknotes 2024-10-06
