@@ -1,9 +1,11 @@
 ---
-date: 2018-10-05 08:49:00+00:00
+date: 2018-10-05 08:49:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156963282843912
+tags:
+- drawing
 title: ''
 ---
 

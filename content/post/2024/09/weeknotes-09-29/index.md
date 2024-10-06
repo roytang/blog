@@ -14,7 +14,7 @@ toc: true
 
 There are of course, still a lot of things happening like Israel expanding the mideast conflict, Trump being ridiculous, Russia threatening nukes etc. But I want to note something from the open source tech world this time, with [Wordpress/Automatic's Matt Mullenwegg stirring up unnecessary drama over WPEngine](https://techcrunch.com/2024/09/27/wordpress-vs-wp-engine-drama-explained/). It feels like yet another big step in Wordpress and Automatic's decade-long decline.
 
-### My Weeks
+### My Week
 
 I have somehow managed to have a mostly "normal" week! That included an immunotherapy session early in the week and a bunch of other follow-up stuff for other concerns.
 

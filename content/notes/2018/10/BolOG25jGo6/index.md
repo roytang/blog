@@ -1,7 +1,7 @@
 ---
 albums:
 - instagram
-date: 2018-10-05 23:27:11-07:00
+date: 2018-10-06 06:27:11
 location: ''
 source: instagram
 syndicated:
@@ -13,7 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1048484338176851968/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1048472312696254464/
-tags: []
+tags:
+- coins
 ---
 
 My collection of foreign coins leftover from trips. I reckon there’s at least a few thousand php worth in there; I’ll sort them out someday (Megaman for scale)
