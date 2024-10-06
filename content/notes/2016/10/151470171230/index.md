@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/784390165053706240/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154973081238912
+tags:
+- webcomics
 ---
 
 <p><a class="tumblr_blog" href="http://lizclimo.tumblr.com/post/151356439699">lizclimo</a>:</p>

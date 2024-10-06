@@ -14,4 +14,5 @@ syndicated:
 tags:
 - philippines
 - reddit_submission
+- duterte
 ---
