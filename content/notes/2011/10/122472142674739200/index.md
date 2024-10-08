@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/122472142674739200/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/122486027431583744/
+tags:
+- mtg
 ---
 
 I am amused that I got a Serra Angel p2p9
