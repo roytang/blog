@@ -6,7 +6,8 @@
       "author": {
         "name": "Roy Tang",
         "email": "hello@roytang.net",
-        "url": "https://roytang.net"
+        "url": "https://roytang.net",
+        "fediverse": "@roytang@indieweb.social"
       },
       "brand": "Roy Tang",
       "topimage": "![Wearing dice on my head since 2008](/static/img/profile.jpg \"Wearing dice on my head since 2008\")",
