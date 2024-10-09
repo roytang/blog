@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Jul 2024 | 389 | 1282 | 1071 | 2353 | 0.5448 |
+| ALL | Jul 2024  | 401 | 1324 | 1106 | 2430 | 0.5449 |
+| [Bloomburrow](/2024/10/bloomburrow/) | Oct 2024 | 12 | 42 | 35 | 77 | 0.5455 |
 | [Modern Horizons 3](/2024/07/mtgmh3-set-recap/) | Jul 2024 | 13 | 42 | 36 | 78 | 0.5385 |
 | [Outlaws of Thunder Junction](/2024/07/mtgotj-set-recap/) | Jul 2024 | 20 | 62 | 57 | 119 | 0.521 |
 | [Murders at Karlov Manor](/2024/04/mtgmkm-set-recap/) | Apr 2024 | 21 | 63 | 60 | 123 | 0.5122 |
@@ -110,6 +111,8 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Bloomburrow](/2024/10/bloomburrow/#magic-arena-stats) | Oct 2024 | 0 | Red | Quick Draft | 56 | Plat1 | Plat2 | 177 | 27,000 | 18,675 |
+| [Outlaws of Thunder Junction](/2024/07/mtgotj-set-recap/#magic-arena-stats) | Jul 2024 | 13 | Green | Quick Draft | 115 | Plat3 | Plat3 | 223 | 32,500 | 21,700 |
 | [Murders at Karlov Manor](/2024/04/mtgmkm-set-recap/#magic-arena-stats) | Apr 2024 | 118 | Black | Player Draft | 84 | Plat1 | Plat4 | 248 | 41,000 | 25,800 |
 | [Lost Caverns of Ixalan](/2024/01/mtglci-set-recap/#magic-arena-stats) | Jan 2024 | 112 | Black | --- | 50 | Dia4 | Plat4 | 333 | 51,750 | 40,400 |
 | [2023 Summary](/2024/01/mtglci-set-recap/#2023-stats) | Jan 2023 | 550 | White | Standard Ranked | 108 | Mythic | Plat3 | 1673 | 221,500 | 176,200 |

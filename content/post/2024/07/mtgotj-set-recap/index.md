@@ -83,7 +83,9 @@ My only trophy draft for this set is actually almost monowhite! I just put in th
 
 ### Magic Arena Stats
 
-Will add to this section when the stats email comes in.
+{{% photos statsemail %}}
+
+I think the stats here are relatively lower than other standard sets because MH3 cut into the time for OTJ (and I didn't even open my OTJ packs until well into MH3 season.)
 
 ### Streaming videos
 
