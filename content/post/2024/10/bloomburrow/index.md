@@ -5,11 +5,14 @@ resources:
 - src: blb-7-carrot-cake.jpg
   title: 'Carrot Cake: One of the best limited commons in the set.'
 - src: blbpaperdraft.jpg
-  title: 'My paper draft deck (RW)'
+  title: My paper draft deck (RW)
 - src: blbstatsemail.png
-  title: 'Bloomburrow Arena Stats Email'
+  title: Bloomburrow Arena Stats Email
 - src: blbtrophy.jpg
-  title: 'My one Bloomburrow draft trophy (BG)'
+  title: My one Bloomburrow draft trophy (BG)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113276711175650117
 tags:
 - mtg
 - limited
