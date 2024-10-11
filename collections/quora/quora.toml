@@ -1,0 +1,4 @@
+[params]
+    collection_name = "quora"
+    collection_title = "Quora Posts"
+    collections_root = false

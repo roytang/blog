@@ -4,3 +4,5 @@ hugo --contentDir collections/quotes --config collections.toml,local.toml,collec
 hugo --contentDir collections/comics --config collections.toml,local.toml,collections/comics/comics.toml --destination public/comics
 hugo --contentDir collections/albums --config collections.toml,local.toml,collections/albums/albums.toml --destination public/albums
 hugo --contentDir collections/stackexchange --config collections.toml,local.toml,collections/stackexchange/stackexchange.toml --destination public/stackexchange
+hugo --contentDir collections/webcomics --config collections.toml,local.toml,collections/webcomics/webcomics.toml --destination public/webcomics
+hugo --contentDir collections/quora --config collections.toml,local.toml,collections/quora/quora.toml --destination public/quora

@@ -2,7 +2,7 @@
 <div class="title">
     <time class="dt-published" datetime='{{ .Date.Format .Site.Data.Formats.timestampjson }}'>{{ .Date.Format .Site.Data.Formats.date }}</time>
     <span class="title_inner">
-        <a class="u-url post-title p-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <a class="u-url post-title p-name" href="{{ .RelPermalink }}">{{ if .Title }}{{ .Title }}{{ else }}### NO TITLE!! ###{{ end }}</a>
     </span>
 </div>
 </li>
