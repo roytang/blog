@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/521089118273425408/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153285915668912
+tags:
+- webcomics
 ---
 
 LIFE: http://i.imgur.com/wlhfpv6.jpg
