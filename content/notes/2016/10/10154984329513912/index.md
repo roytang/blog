@@ -1,6 +1,10 @@
 ---
-date: 2016-10-11 17:08:00+08:00
+date: 2016-10-11 09:08:00
 dontinlinephotos: true
+repost_source:
+  name: The Awkward Yeti
+  type: facebook
+  url: https://www.facebook.com/AwkwardYeti/photos/a.323340867741595/1110343622374645/
 source: facebook
 syndicated:
 - type: facebook
@@ -8,10 +12,7 @@ syndicated:
 tags:
 - bleah
 - reposts
-repost_source:
-  name: The Awkward Yeti
-  type: facebook
-  url: https://www.facebook.com/AwkwardYeti/photos/a.323340867741595/1110343622374645/
+- webcomics
 ---
 
 a moment's escape

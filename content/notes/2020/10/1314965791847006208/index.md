@@ -1,5 +1,5 @@
 ---
-date: 2020-10-10 16:27:30+00:00
+date: 2020-10-10 16:27:30
 repost_source:
   name: Toadsanime
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1314965791847006208/
+tags:
+- threads
 title: ''
 ---
 

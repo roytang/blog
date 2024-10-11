@@ -16,6 +16,7 @@ syndicated:
 tags:
 - mobile-uploads
 - touristmode
+- london2015
 ---
 
 #touristmode (@ Windsor Castle in Windsor, Windsor and Maidenhead)
