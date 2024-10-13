@@ -3,7 +3,10 @@ date: 2024-10-13 04:28:10
 dontinlinephotos: true
 resources:
 - src: nytcrosswordstats.png
-  title: 'My NYT Crossword Stats'
+  title: My NYT Crossword Stats
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113298732469007504
 tags:
 - weeknotes
 title: Weeknotes 2024-10-13
