@@ -3,6 +3,7 @@ title: "Batang 90s Quiz @ 225 Bistro"
 date: 2024-05-22T23:49:31+08:00
 tags:
 - quiznight
+- triviadown
 ---
 
 I attended a quiz night at a new venue with a new host, with another trivia team this time. Some HS batchmates wanted to attend this Batang 90s quiz and I volunteered to come along, because I wanted to check out this trivia host, Trivia Down Tuesdays. The regular trivia team had attended one of their quizzes before, pre-pandemic, but it seemed like they had changed their style and format a lot recently so I wanted to check it out. And they now have quizzes every day of the week (they have multiple people doing the hosting) instead of just Tuesdays! For this particular quiz, the venue was at 225 Bistro along Katipunan extension.
