@@ -7,7 +7,7 @@ tags:
 title: 'TriviaDown: Video Games quiz night'
 ---
 
-Trivia team attended a quiz night hosted by Trivia Down @ Skyline Sports Bar in Century City Mall in Makati. [Last May attended one of their quizzes with a different group](/2024/05/225-bistro-90s-quiz/). This was the trivia team's first foray with this host.
+Trivia team attended a quiz night hosted by Trivia Down @ Skyline Sports Bar in Century City Mall in Makati. [Last May attended one of their quizzes with a different group](/2024/05/225-bistro-90s-quiz/). This was the trivia team's first foray with this host since before the pandemic.
 
 I usually dislike going all the way out to Makati, but we liked the theme for this one (videogames) and I was telling the group that pre-pandemic we used to go out to Makati quiz nights all the time, so maybe this was also a bit of an attempt to capture some of that energy.
 
