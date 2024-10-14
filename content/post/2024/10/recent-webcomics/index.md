@@ -10,6 +10,9 @@ resources:
   title: 'Larkness 2024/07/13: Entrepreneur Mindset'
 - src: larkness_2024-10-07_17-53-06_UTC_1.jpg
   title: 'Larkness 2024/10/7: Art vs Work'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113304871999892405
 tags:
 - webcomics
 title: Some Recent Webcomics
