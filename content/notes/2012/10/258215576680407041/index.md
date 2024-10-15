@@ -14,6 +14,7 @@ syndicated:
 tags:
 - gaming
 - games
+- xkcd
 ---
 
 I just finished Borderlands today. Borderlands ONE. Relevant xkcd: https://xkcd.com/606/
