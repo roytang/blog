@@ -1,8 +1,10 @@
 ---
-title: "7 Wonders Night"
 date: 2014-01-25
 tags:
 - boardgames
+- 7won
+- 7wonders
+title: 7 Wonders Night
 ---
 
 [Josiah wrote](https://www.facebook.com/media/set/?vanity=josiah.habana&set=a.10152203876160242): 

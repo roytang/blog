@@ -1,14 +1,15 @@
 ---
-title: "7 Wonders @ GamingLib"
-date: 2014-08-14T16:42:22+08:00
-tags:
-- boardgames
+date: 2014-08-14 08:42:22
 dontinlinephotos: true
 syndicated:
 - type: facebook
   url: https://www.facebook.com/Altealice/posts/10152379724444032
 - type: facebook
   url: https://www.facebook.com/Altealice/posts/10152380289514032
+tags:
+- boardgames
+- 7wonders
+title: 7 Wonders @ GamingLib
 ---
 
 Played 7 Wonders @ GamingLib Makati with Renz, Chry, Pam and KC. I think one of us had an app for tracking scores which is why we have screenshots.
@@ -40,5 +41,3 @@ Rounds 2 and 3: I felt like I had terrible hands.
 - Alexandria - KC
 
 {{% photos round3 %}}
-
-
