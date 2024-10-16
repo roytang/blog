@@ -3,9 +3,11 @@ backpost_date: 2023-12-30 14:54:00
 date: 2010-02-07
 resources:
 - src: 20231230_224557.jpg
-  title: 'I still have the finisher''s medal!'
+  title: I still have the finisher's medal!
 - src: 5kbig.jpg
-  title: 'The 5k Route'
+  title: The 5k Route
+- src: condurarun.jpg
+  title: Brown envelope that came with the stuff
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/296203119075
