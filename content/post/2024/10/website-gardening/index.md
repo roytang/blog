@@ -1,8 +1,11 @@
 ---
-title: "Website Gardening"
-date: 2024-10-16T20:32:28+08:00
-tags: 
+date: 2024-10-16 12:32:28
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113317294927757270
+tags:
 - blogging
+title: Website Gardening
 ---
 
 Terence Eden writes in ["Tending to My Digital Garden"](https://shkspr.mobi/blog/2024/10/tending-to-my-digital-garden/):
@@ -41,4 +44,3 @@ I am not 100% clear on this, but right now what I imagine as the eventual endgam
 It will be a long road to get there - from a peak of more than 15,000 notes in the archive, I only recently got it down to below 10,000. There are many notes that I am not sure yet how to handle them or where they belong or whatever. I can only assume I will figure it out in the future!
 
 Not that it's tedious work or anything. As Terence Eden says in the post linked above, it is meditative work. And I do enjoy the daily trip down memory lane the activity allows. And while I have a presumed endgame goal, I understand full well that this site will always be [perpetually under renovation](/2019/08/perpetually-under-renovation/)
-
