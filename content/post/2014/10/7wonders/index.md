@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/Altealice/posts/10152380289514032
 tags:
 - boardgames
+- backpost
 title: 7 Wonders
 ---
 

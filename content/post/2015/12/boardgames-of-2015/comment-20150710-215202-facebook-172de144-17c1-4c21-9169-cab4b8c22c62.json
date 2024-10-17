@@ -3,9 +3,10 @@
   "name": "Roy Tang",
   "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "It's so easy! I've never lost!",
-  "date": "2015-07-10 13:52:02 +0000",
+  "date": "2015-07-10 21:52:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153935708933912:0#10153935856178912",
   "source": "facebook",
-  "spam": false
+  "spam": false,
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10153935708933912:0"
 }

@@ -47,6 +47,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155220786538912
 tags:
 - boardgames
+- backpost
 title: Boardgames of 2016
 ---
 
