@@ -38,7 +38,6 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154997728858912:3
 tags:
-- boardgames
 - quiznight
 - popquiz
 title: Game Night @ Hungry Meeples
