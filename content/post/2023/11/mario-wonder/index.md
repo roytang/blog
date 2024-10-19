@@ -7,12 +7,27 @@ reviews:
   title: Super Mario Bros. Wonder (Switch)
 syndicated:
 - type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111266113625904427
+- type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111449463684915491
+resources:
+- src: 111266113625904427_1_91b3ed4a0b464550.jpg
+  title: My preorder came with a tote bag.
 tags:
 - gaming
 - games
+- mario
+- nintendoswitch
 title: Super Mario Bros. Wonder
 ---
+
+### Purchase
+
+<time>[Fri, Oct. 20, 2023, 3:15 p.m.]</time> Super Mario Wonder has arrived! 
+
+{{< photos 111266113625904427 >}}
+
+### Review
 
 *Super Mario Bros. Wonder* is a fun much-needed refresh of the 2D Mario series, with new sprites and animations to replace ones from the aging *New Super Mario Bros* line. The visual refresh is excellent, as Mario and his party have a lot of new fun animations for even minor actions like running, going into a pipe or passing through a door. They give the game a lot of character.
 
@@ -40,7 +55,9 @@ Given the above, the game also left me wanting more stages, but I guess that's a
 
 Also, there were a couple of stages that required you to do things to a beat like a rhythm game, which I am notoriously very bad at, so that was annoying.
 
-**Completion**: Nintendo doesn't do achievements of course, but the game has 6 "medals" you can earn for various completion tasks throughout the game:
+### Completion
+
+Nintendo doesn't do achievements of course, but the game has 6 "medals" you can earn for various completion tasks throughout the game:
 
 - 1 for finishing the main story (beating Bowser)
 - 1 for collecting all the Wonder Seeds
@@ -51,4 +68,10 @@ Also, there were a couple of stages that required you to do things to a beat lik
 
 Standees are items used in multiplier, and you can purchase them from in-game shops using purple flower coins that you collect, and they have a "Gacha"-style system where you don't know which standee you're getting and can get duplicates. You can guarantee a unique pull, but those are more expensive. Unfortunately because I didn't do any multiplayer stuff I didn't bother collecting them. I did not know early on that they need to be collected and probably wasted some purple flower coins being at max capacity a lot of the time (see the video above), so I could not afford to collect them all at the end of the game, so that was the one badge I was unable to collect.
 
-**Overall**: I had a lot of fun and the game is an excellent refresh for the 2D Mario series and a good send-off for the Switch if the rumors of a "Switch 2" coming next year are indeed true. Probably my final Switch game for the year too!
+### Screendumps
+
+{{< photos E5B04B40CFD924420DF6142200E473B4 >}}
+
+### Overall
+
+I had a lot of fun and the game is an excellent refresh for the 2D Mario series and a good send-off for the Switch if the rumors of a "Switch 2" coming next year are indeed true. Probably my final Switch game for the year too!
