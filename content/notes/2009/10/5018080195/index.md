@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/5018080195/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/160351832426
+tags:
+- gaming
 ---
 
 https://www.ign.com/top-100-nes-games/index.html - IGN top 100 NES games of all time. Of these, I played 41 and finished 24 on an actual NES or Famicom

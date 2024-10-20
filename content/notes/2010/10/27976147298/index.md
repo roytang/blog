@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/27976147298/
 - type: plurk
   url: https://plurk.com/p/8d39x5
+tags:
+- ipad
 ---
 
 A pleasant surprise: Apparently I am getting an iPad tomorrow.

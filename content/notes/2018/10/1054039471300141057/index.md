@@ -1,5 +1,5 @@
 ---
-date: 2018-10-21 15:59:27+00:00
+date: 2018-10-21 15:59:27
 repost_source:
   name: stephanpastis
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1054039471300141057/
+tags:
+- webcomics
 title: ''
 ---
 
