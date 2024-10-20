@@ -1,9 +1,12 @@
 ---
-date: 2024-10-20T14:26:32+08:00
+date: 2024-10-20 06:26:32
 dontinlinephotos: true
 resources:
 - src: nytcrosswordstats.png
   title: My NYT Crossword Stats
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113338735121444325
 tags:
 - weeknotes
 title: Weeknotes 2024-10-20
@@ -66,4 +69,4 @@ Looks like the rare errand-free week ahead. So far at least; they have a habit o
 
 Trivia team is planning to attend at least one quiz night this week.
 
-Next weekend is Magic Con Las Vegas! Expecting some cool announcements etc. 
+Next weekend is Magic Con Las Vegas! Expecting some cool announcements etc.
