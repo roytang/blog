@@ -40,6 +40,7 @@ canonifyURLs = true
     "lineitems" = "/:filename/"
     "comics" = "/:filename/"
     "albums" = "/:filename/"
+    "sketches" = "/:filename/"
 
 #
 # All parameters below here are optional and can be mixed and matched.

@@ -14,13 +14,13 @@ blockquote.embed .embed_foot {
     color: var(--deemphasized-text-color);
 }
 
-body.collections_comics .entry_list {
+body.collections_comics .entry_list, body.collections_sketchbook .entry_list {
     display: flex;
     flex-wrap: wrap;
     gap: 4px;
 }
 
-body.collections_comics .entry_list img {
+body.collections_comics .entry_list img, body.collections_sketchbook .entry_list img {
     width: 90px;
 }
 
