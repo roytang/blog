@@ -424,3 +424,8 @@ article {
     column-gap: 5px;
     margin-bottom: 3px;
 }
+
+div.two-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

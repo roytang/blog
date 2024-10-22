@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/28420157168/
 - type: plurk
   url: https://plurk.com/p/8epjpn
+tags:
+- ipad
 ---
 
 iPad got!

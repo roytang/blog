@@ -5,6 +5,10 @@ date: 2019-02-14 05:56:56
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1095926048292773888/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1054707055339040768/
+- type: instagram
+  url: https://instagram.com/p/Btxn5ayBMTO/
 tags:
 - swag
 - hacktoberfest
@@ -12,7 +16,11 @@ tags:
 - Software Development
 title: Hacktoberfest
 type: post
+dontinlinephotos: true
 ---
+
+> <time id="1054707055339040768">[2018-10-23 20:12] </time> I've completed 5 Pull Requests for #Hacktoberfest! https://hacktoberfest.digitalocean.com/stats/roytang
+>
 
 Last October I participated in #Hacktoberfest, [sponsored by DigitalOcean and Github](https://hacktoberfest.digitalocean.com/). It's a "celebration" to promote open source activity, and basically you just need to submit 5 pull requests to any github repository, and they give away swag to anyone who completes the activity. Microsoft held a [counterpart celebration] where they only require you to submit 1 pull request to any Microsoft repository.
 
@@ -20,8 +28,13 @@ I've always wanted to start participating in Open Source, but it's a bit difficu
 
 I'm only posting about this now, four months after the fact, because my Hacktoberfest swag only came in last week and I had to swing by the post office to pick them up. Here's some pics:
 
-{{< photo "2019/02/btxn5aybmto/" >}}
+> <time id="Btxn5ayBMTO">[2019-02-12 16:40] </time> Passed by the post office today to pick up some parcels, turns out it was the #hacktoberfest swag I got for participating last October. Thanks Digital Ocean/Github/Microsoft!
+>
+> {{% photos jpg %}}
+
 
 I'm not really a stickers guy, so I'm not sure where I'll put the stickers. Maybe they'd look good on my Macbook Air? I like the shirts though, since Americans have better shirt sizes from me than locally.
 
 I'm still not "active" really on open source, but at least it was a nice first step. Maybe next October I'll look for some bigger PRs to do!
+
+
