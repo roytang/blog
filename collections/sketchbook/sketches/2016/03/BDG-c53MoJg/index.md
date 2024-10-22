@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - daredevil
 - '2016'
+title: 'The devil of hell''s kitchen '
 ---
 
 The devil of hell's kitchen #sketchdaily

@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Trying out an app for sketching '
 ---
 
 Trying out an app for sketching #sketchdaily

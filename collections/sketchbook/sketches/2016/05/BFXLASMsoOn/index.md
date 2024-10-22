@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Super rough '
 ---
 
 Super rough #sketchdaily of Jaina Proudmoore

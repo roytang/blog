@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+title: 'Penguins! Wait what? '
 ---
 
 Penguins! Wait what? #sketchdaily

@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Ant meeting '
 ---
 
 Ant meeting #sketchdaily 

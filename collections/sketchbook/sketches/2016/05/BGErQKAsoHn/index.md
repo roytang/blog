@@ -18,6 +18,7 @@ tags:
 - sketchdaily
 - procreate
 - '2016'
+title: 'Graveyard encounter '
 ---
 
 Graveyard encounter #sketchdaily #procreate

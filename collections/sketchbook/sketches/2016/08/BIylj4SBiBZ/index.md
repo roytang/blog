@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - aquaman
 - '2016'
+title: '"Arthur, if you want to be taken seriously you need a better mount" '
 ---
 
 "Arthur, if you want to be taken seriously you need a better mount" #sketchdaily #aquaman

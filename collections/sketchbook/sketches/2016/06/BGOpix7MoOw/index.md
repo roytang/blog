@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - hearthstone
 - '2016'
+title: 'Murlocs '
 ---
 
 Murlocs #sketchdaily #hearthstone @barayantan @emidevil

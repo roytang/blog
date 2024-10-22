@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Trying out perspectives again '
 ---
 
 Trying out perspectives again #sketchdaily

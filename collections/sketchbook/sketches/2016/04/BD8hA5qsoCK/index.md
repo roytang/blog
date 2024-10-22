@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Street scene '
 ---
 
 Street scene #sketchdaily 2pts if you can identify the location

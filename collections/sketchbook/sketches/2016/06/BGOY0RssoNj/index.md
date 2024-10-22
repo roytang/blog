@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'I didnt have any ideas for this week''s free draw '
 ---
 
 I didnt have any ideas for this week's free draw #sketchdaily so I just accepted suggestions and drew them all

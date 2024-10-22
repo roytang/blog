@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Underwater baby. The thing about '
 ---
 
 Underwater baby. The thing about #sketchdaily is I'm going to post them even when I'm unhappy with the output. I started with the blue background but when I got to the baby I got lazy so... Nevermind

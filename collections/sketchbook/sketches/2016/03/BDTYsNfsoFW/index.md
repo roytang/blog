@@ -21,6 +21,7 @@ tags:
 - sketchbookpro
 - instacomments
 - '2016'
+title: 'Homer vs the Internet (xkcd 386) '
 ---
 
 Homer vs the Internet (xkcd 386) #sketchdaily #sketchbookpro

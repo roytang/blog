@@ -22,6 +22,7 @@ tags:
 - streetfighter
 - sketchdaily
 - '2016'
+title: 'Dhalsim '
 ---
 
 Dhalsim #sketchdaily #streetfighter

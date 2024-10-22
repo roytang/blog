@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Another dog '
 ---
 
 Another dog #sketchdaily Just playing around with some stuff in Procreate

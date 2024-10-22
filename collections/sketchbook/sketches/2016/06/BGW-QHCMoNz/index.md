@@ -24,6 +24,7 @@ tags:
 - metalgear
 - chronotrigger
 - '2016'
+title: 'Snake, Frog, Toad '
 ---
 
 Snake, Frog, Toad #sketchdaily #metalgear #chronotrigger #nintendo

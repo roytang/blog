@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Supergirl '
 ---
 
 Supergirl #sketchdaily Not too happy with this one but I ran out of time

@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+title: 'Trying to copy a sketch from one of favorite comic artists'' twitter '
 ---
 
 Trying to copy a sketch from one of favorite comic artists' twitter #sketchdaily

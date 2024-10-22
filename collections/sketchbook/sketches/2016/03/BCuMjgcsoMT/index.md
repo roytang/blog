@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Casey Jones '
 ---
 
 Casey Jones #sketchdaily

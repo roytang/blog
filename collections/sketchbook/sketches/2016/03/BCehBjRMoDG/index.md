@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Thou shall not pass! '
 ---
 
 Thou shall not pass! #sketchdaily The balrog was supposedly a creature of flame and shadow

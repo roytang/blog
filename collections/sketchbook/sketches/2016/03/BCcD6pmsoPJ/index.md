@@ -17,6 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Diana of Themyscira '
 ---
 
 Diana of Themyscira #sketchdaily I think I had a lot of trouble because I didnt allocate enough space for the neck and shoulders

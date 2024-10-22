@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Ariba ariba! Andale andale! '
 ---
 
 Ariba ariba! Andale andale! #sketchdaily

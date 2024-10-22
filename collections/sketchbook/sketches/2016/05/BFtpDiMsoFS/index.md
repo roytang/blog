@@ -17,6 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Bobcat '
 ---
 
 Bobcat #sketchdaily

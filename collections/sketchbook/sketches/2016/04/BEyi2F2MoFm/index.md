@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Shishio '
 ---
 
 Shishio #sketchdaily (maybe I'll complete the rest of the scene someday)

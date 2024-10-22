@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'You must pay the troll toll '
 ---
 
 You must pay the troll toll #sketchdaily

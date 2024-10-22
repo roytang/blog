@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Weight Lifting '
 ---
 
 Weight Lifting #sketchdaily

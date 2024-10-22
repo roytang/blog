@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - flash
 - '2016'
+title: 'I''m a bit busy today so I''ll make this quick '
 ---
 
 I'm a bit busy today so I'll make this quick #sketchdaily  #flash

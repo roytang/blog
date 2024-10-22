@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Sone rich old guy '
 ---
 
 Sone rich old guy #sketchdaily

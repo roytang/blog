@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - mtg
 - '2016'
+title: 'Coral Trickster '
 ---
 
 Coral Trickster #mtg #sketchdaily

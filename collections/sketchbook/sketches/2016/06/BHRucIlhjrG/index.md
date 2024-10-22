@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Shouldnt have walked into kfc '
 ---
 
 Shouldnt have walked into kfc #sketchdaily

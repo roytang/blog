@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'I literally had trouble with this one '
 ---
 
 I literally had trouble with this one #sketchdaily

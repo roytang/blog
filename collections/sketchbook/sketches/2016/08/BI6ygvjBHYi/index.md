@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+title: 'Bell Tower '
 ---
 
 Bell Tower #sketchdaily

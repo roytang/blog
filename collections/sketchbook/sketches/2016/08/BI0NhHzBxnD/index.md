@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'IT''S SO FLUFFY! '
 ---
 
 IT'S SO FLUFFY! #sketchdaily

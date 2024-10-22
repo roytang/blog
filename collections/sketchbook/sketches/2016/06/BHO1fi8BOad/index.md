@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Arche from Tales of Phantasia '
 ---
 
 Arche from Tales of Phantasia #sketchdaily

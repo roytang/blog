@@ -18,6 +18,7 @@ tags:
 - sketchdaily
 - mtg
 - '2016'
+title: 'Naya Hushblade '
 ---
 
 Naya Hushblade #sketchdaily #mtg

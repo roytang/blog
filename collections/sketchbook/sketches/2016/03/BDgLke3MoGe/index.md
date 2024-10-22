@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: Motorcycle outside a barber shop
 ---
 
 Motorcycle outside a barber shop

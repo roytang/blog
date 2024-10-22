@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - chronotrigger
 - '2016'
+title: 'Magus from '
 ---
 
 Magus from #chronotrigger #sketchdaily

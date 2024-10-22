@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'A friend requested a certain person to be drawn as a superhero '
 ---
 
 A friend requested a certain person to be drawn as a superhero #sketchdaily

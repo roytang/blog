@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Just a quick skeletor today '
 ---
 
 Just a quick skeletor today #sketchdaily actually I was just drawing a skull then got bored...

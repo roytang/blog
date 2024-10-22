@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Some girl '
 ---
 
 Some girl #sketchdaily

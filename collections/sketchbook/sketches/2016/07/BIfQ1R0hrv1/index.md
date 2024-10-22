@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Injured (at least for now) '
 ---
 
 Injured (at least for now) #sketchdaily

@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - mtg
 - '2016'
+title: 'Reaper of Flight Moonsilver '
 ---
 
 Reaper of Flight Moonsilver #sketchdaily #mtg

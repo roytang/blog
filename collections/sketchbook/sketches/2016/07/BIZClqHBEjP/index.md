@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Ancient tome '
 ---
 
 Ancient tome #sketchdaily alt title: rare first edition of tcwag discovered

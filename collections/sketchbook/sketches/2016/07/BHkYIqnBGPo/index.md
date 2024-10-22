@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - fallout
 - '2016'
+title: 'Welcome to the wasteland '
 ---
 
 Welcome to the wasteland #fallout #sketchdaily

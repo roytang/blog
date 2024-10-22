@@ -17,6 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Eye drawing practice '
 ---
 
 Eye drawing practice #sketchdaily

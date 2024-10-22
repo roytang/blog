@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Practicing three-point perspective '
 ---
 
 Practicing three-point perspective #sketchdaily (needs improvement)

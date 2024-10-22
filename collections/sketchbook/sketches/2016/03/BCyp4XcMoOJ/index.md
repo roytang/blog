@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Helmets! '
 ---
 
 Helmets! #sketchdaily

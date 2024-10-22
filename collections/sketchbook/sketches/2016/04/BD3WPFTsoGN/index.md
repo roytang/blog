@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'The dark side of the Force '
 ---
 
 The dark side of the Force #sketchdaily

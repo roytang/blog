@@ -21,6 +21,7 @@ tags:
 - sketchdaily
 - pokemon
 - '2016'
+title: 'Doctor Pikachu "allons-y-chu!" '
 ---
 
 Doctor Pikachu "allons-y-chu!" #sketchdaily #pokemon #doctorwho

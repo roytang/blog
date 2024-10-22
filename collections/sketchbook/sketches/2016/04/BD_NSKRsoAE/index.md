@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Just some handiwork today '
 ---
 
 Just some handiwork today #sketchdaily

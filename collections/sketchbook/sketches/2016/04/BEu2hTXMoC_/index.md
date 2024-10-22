@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Tormented gate stone golem (from Darksiders) '
 ---
 
 Tormented gate stone golem (from Darksiders) #sketchdaily

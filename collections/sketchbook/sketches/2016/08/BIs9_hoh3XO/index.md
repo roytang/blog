@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Tiny Green Arrow says you have failed this city '
 ---
 
 Tiny Green Arrow says you have failed this city #sketchdaily

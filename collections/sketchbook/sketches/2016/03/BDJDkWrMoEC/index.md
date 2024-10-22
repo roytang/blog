@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Studying body proportions. Rocket for scale '
 ---
 
 Studying body proportions. Rocket for scale #sketchdaily

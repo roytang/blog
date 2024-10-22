@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Dance like nobody''s watching '
 ---
 
 Dance like nobody's watching #sketchdaily

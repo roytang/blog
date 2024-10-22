@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Harry Taylor, pitcher for the Kansas City A''s from 1957 to 1961 '
 ---
 
 Harry Taylor, pitcher for the Kansas City A's from 1957 to 1961 #sketchdaily

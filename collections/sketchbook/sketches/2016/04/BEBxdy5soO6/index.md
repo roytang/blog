@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Pit (from Kid Icarus) '
 ---
 
 Pit (from Kid Icarus) #sketchdaily

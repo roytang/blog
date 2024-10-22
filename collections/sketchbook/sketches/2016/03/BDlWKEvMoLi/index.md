@@ -22,6 +22,7 @@ tags:
 - bottlegnomes
 - sketchdaily
 - '2016'
+title: 'Reinforcements... or refreshments? '
 ---
 
 Reinforcements... or refreshments? #sketchdaily #bottlegnomes

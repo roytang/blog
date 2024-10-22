@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: '"Why dont you make like a tree... and get outta here!" '
 ---
 
 "Why dont you make like a tree... and get outta here!" #sketchdaily

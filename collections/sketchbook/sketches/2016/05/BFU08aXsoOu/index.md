@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Chilling by the fence '
 ---
 
 Chilling by the fence #sketchdaily

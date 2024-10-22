@@ -25,6 +25,7 @@ tags:
 - comiccharacterdrawing
 - reddit_submission
 - '2016'
+title: 'Power Man and Iron Fist '
 ---
 
 Power Man and Iron Fist #sketchdaily

@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Megaman (drawn with left hand) '
 ---
 
 Megaman (drawn with left hand) #sketchdaily

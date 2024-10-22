@@ -17,6 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Fortress of solitudr '
 ---
 
 Fortress of solitudr #sketchdaily

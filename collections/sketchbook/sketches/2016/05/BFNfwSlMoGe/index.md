@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Three dogs and two trees '
 ---
 
 Three dogs and two trees #sketchdaily

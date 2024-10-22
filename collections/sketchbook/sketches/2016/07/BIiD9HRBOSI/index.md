@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'The letter R '
 ---
 
 The letter R #sketchdaily

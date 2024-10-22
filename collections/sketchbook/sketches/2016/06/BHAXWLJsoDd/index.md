@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Pomegranate '
 ---
 
 Pomegranate #sketchdaily doesnt look like something I'd want to eat

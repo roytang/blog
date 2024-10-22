@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'May the 4th be with you '
 ---
 
 May the 4th be with you #sketchdaily

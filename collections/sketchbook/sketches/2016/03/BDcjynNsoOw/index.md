@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'I drew all the stuff on my desk '
 ---
 
 I drew all the stuff on my desk #sketchdaily

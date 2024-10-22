@@ -23,6 +23,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Dawn of Justice '
 ---
 
 Dawn of Justice #sketchdaily this one took me longer than Man of Steel's running time

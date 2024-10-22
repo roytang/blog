@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Explosive sorcery '
 ---
 
 Explosive sorcery #sketchdaily

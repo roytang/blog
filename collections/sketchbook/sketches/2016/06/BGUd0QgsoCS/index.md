@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - pokemon
 - '2016'
+title: 'Sneaky Cat, Polite Owl and Clown Seal '
 ---
 
 Sneaky Cat, Polite Owl and Clown Seal #pokemon #sketchdaily

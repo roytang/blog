@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'I tried drawing some of the Star Trek Voyager crew. It was... difficult '
 ---
 
 I tried drawing some of the Star Trek Voyager crew. It was... difficult #sketchdaily

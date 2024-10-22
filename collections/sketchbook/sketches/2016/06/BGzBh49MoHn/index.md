@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Long live the king '
 ---
 
 Long live the king #sketchdaily

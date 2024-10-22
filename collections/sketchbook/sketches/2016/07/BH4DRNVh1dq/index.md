@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Hawkman '
 ---
 
 Hawkman #sketchdaily (capping off bird week)

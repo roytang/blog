@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Hulk vs Saitama '
 ---
 
 Hulk vs Saitama #sketchdaily (this is terrible)

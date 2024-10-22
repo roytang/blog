@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Yellow team '
 ---
 
 Yellow team #sketchdaily

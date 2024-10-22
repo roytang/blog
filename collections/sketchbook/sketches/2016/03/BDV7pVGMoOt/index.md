@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - sketchbookpro
 - '2016'
+title: 'Sushi Go! '
 ---
 
 Sushi Go! #sketchdaily #sketchbookpro (note: anthropomorphized food is weird)

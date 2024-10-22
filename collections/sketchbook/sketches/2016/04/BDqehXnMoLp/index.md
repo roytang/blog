@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'This seemed funnier in my head '
 ---
 
 This seemed funnier in my head #sketchdaily

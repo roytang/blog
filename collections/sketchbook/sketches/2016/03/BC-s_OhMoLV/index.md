@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Dinobots roll out! '
 ---
 
 Dinobots roll out! #sketchdaily

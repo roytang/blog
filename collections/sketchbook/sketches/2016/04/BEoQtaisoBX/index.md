@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'More Disney today '
 ---
 
 More Disney today #sketchdaily I haven't seen this movie but I imagine I'd be bothered that the teapot's handle is on the back while the cup's handle is a nose

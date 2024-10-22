@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Demon toilet '
 ---
 
 Demon toilet #sketchdaily (such a nice thing to doodle on Sunday morning)

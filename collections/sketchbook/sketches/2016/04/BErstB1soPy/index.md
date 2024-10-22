@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Today''s '
 ---
 
 Today's #sketchdaily theme was "platypus". I think we had a stuffed platypus on display back in HS...

@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Some guy '
 ---
 
 Some guy #sketchdaily (Disclaimer: a sketch is not an endorsement. I do not support this guy)

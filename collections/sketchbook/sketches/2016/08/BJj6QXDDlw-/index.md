@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - marvel
 - '2016'
+title: 'Psylocke '
 ---
 
 Psylocke #sketchdaily #marvel face needs work and the hair was probably too ambitious

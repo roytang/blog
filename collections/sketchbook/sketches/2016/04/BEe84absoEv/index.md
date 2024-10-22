@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'After three days in a cave... '
 ---
 
 After three days in a cave... #sketchdaily

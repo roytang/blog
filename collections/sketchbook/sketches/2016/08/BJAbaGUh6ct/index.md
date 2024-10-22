@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Nighttime break '
 ---
 
 Nighttime break #sketchdaily

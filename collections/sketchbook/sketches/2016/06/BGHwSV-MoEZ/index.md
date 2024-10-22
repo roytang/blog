@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - procreate
 - '2016'
+title: 'Genghis Khan. '
 ---
 
 Genghis Khan. #procreate

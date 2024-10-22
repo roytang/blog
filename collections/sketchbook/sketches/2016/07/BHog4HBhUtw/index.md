@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'A fat cat in a hat '
 ---
 
 A fat cat in a hat #sketchdaily

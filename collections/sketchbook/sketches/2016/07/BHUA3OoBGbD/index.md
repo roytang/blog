@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - starwars
 - '2016'
+title: 'BB8 '
 ---
 
 BB8 #sketchdaily #starwars

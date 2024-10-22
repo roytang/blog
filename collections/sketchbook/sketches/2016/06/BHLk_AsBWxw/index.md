@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Some old lady '
 ---
 
 Some old lady #sketchdaily

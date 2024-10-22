@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Happy birthday Albert Einstein! '
 ---
 
 Happy birthday Albert Einstein! #sketchdaily

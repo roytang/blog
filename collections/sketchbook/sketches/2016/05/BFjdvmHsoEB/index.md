@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - onepiece
 - '2016'
+title: 'Usopp and Chopper '
 ---
 
 Usopp and Chopper #sketchdaily #onepiece

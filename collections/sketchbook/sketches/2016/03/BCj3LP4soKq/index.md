@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Link and Midna '
 ---
 
 Link and Midna #sketchdaily

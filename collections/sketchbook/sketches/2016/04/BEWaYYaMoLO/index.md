@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Cotton candy '
 ---
 
 Cotton candy #sketchdaily

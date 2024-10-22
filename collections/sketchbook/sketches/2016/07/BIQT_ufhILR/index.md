@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - justiceleague
 - '2016'
+title: 'I know Bruce wouldve been sure, but still... '
 ---
 
 I know Bruce wouldve been sure, but still... #justiceleague #sketchdaily

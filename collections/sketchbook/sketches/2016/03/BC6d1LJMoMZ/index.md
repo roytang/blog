@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Capturing real life people is hard. The eyes are tough '
 ---
 
 Capturing real life people is hard. The eyes are tough #sketchdaily

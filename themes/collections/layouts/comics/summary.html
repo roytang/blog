@@ -1,21 +1,23 @@
 <div class="galleryitemwithpostlink">
-{{ $mainPermalink := .RelPermalink }}
-{{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
-{{ $caption := .Title | default .Summary }}
-<div>
-    {{ with .Resources.ByType "image" }}
-{{ range . }}
-{{ $scratch := newScratch }}
-{{ $scratch.Set "thumbnail" (.Resize "300x") }}
-{{ $thumb := $scratch.Get "thumbnail" }}
-
-<a href="{{ .RelPermalink }}">
-    <img src="{{ $thumb.RelPermalink }}"
-        data-pb-captionLink='{{ $caption }}[./{{ $mainPermalink }}]'
-        title="{{ .Title | default .Name }}">
-</a>
-{{ end }}
-{{ end }}
-</div>
-<noscript><a href="./{{ $mainPermalink }}" class="postlink" title="{{ $caption }}">View post</a></noscript>
-</div>
+    {{ $mainPermalink := .RelPermalink }}
+    {{ $rootPath := .Site.Params.rootPath }}
+    {{ $collectionName := .Site.Params.collection_name }}
+    {{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
+    {{ $caption := .Title | default .Summary }}
+    <div>
+        {{ with .Resources.ByType "image" }}
+    {{ range . }}
+    {{ $scratch := newScratch }}
+    {{ $scratch.Set "thumbnail" (.Resize "300x") }}
+    {{ $thumb := $scratch.Get "thumbnail" }}
+    
+    <a href="{{ .RelPermalink }}">
+        <img src="{{ $thumb.RelPermalink }}"
+            data-pb-captionLink='{{ $caption }}[/{{ $rootPath }}{{ $collectionName }}{{ $mainPermalink }}]'
+            title="{{ .Title | default .Name }}">
+    </a>
+    {{ end }}
+    {{ end }}
+    </div>
+    <noscript><a href="/{{ $rootPath }}{{ $collectionName }}{{ $mainPermalink }}" class="postlink" title="{{ $caption }}">View post</a></noscript>
+    </div>

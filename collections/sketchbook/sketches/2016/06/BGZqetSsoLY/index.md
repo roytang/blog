@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - fairytail
 - '2016'
+title: 'Natsu '
 ---
 
 Natsu #sketchdaily #fairytail

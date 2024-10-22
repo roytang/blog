@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - mtg
 - '2016'
+title: 'Hypnotic Specter '
 ---
 
 Hypnotic Specter #sketchdaily #mtg

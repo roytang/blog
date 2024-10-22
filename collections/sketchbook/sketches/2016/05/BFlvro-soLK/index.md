@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - cowboybebop
 - '2016'
+title: 'Spike '
 ---
 
 Spike #sketchdaily #cowboybebop

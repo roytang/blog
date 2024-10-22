@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+title: 'Morning rituals '
 ---
 
 Morning rituals #sketchdaily

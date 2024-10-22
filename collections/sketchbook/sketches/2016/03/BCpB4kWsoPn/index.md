@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'The Airship Hilda Garde III '
 ---
 
 The Airship Hilda Garde III #sketchdaily

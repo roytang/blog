@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Just a quick Flash '
 ---
 
 Just a quick Flash #sketchdaily

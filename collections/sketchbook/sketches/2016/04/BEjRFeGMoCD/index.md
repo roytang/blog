@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Some quick figure drawing practice '
 ---
 
 Some quick figure drawing practice #sketchdaily

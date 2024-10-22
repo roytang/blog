@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - hearthstone
 - '2016'
+title: 'Emperor Thaurissan '
 ---
 
 Emperor Thaurissan #sketchdaily #hearthstone

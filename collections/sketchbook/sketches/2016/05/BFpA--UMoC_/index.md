@@ -23,6 +23,7 @@ tags:
 - rurounikenshin
 - instacomments
 - '2016'
+title: 'Duel of an Era (shishio part 2) '
 ---
 
 Duel of an Era (shishio part 2) #sketchdaily #rurounikenshin

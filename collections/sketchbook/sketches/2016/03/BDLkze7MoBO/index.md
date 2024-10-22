@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Marching band (well I ran out of space for more members lol) '
 ---
 
 Marching band (well I ran out of space for more members lol) #sketchdaily

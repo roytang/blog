@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - marvel
 - '2016'
+title: 'Today''s '
 ---
 
 Today's #sketchdaily theme was "Stranger Things", but I hadn't seen it yet so I made this strange #marvel comic cover thing instead

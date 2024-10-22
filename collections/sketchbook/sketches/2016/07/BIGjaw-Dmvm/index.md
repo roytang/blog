@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+title: 'An agile and toasty warm knight '
 ---
 
 An agile and toasty warm knight #sketchdaily (random prompt via www.ineedaprompt.com)

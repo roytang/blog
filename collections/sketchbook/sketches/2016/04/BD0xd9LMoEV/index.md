@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Hank and Peter having a tete-a-tete '
 ---
 
 Hank and Peter having a tete-a-tete #sketchdaily

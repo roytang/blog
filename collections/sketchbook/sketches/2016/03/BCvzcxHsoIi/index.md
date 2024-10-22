@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+title: 'Let''s go exploring! '
 ---
 
 Let's go exploring! #sketchdaily

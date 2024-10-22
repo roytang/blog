@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Farmer''s market '
 ---
 
 Farmer's market #sketchdaily

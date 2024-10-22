@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+title: 'Secretary bird '
 ---
 
 Secretary bird #sketchdaily

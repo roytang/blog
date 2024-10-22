@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: '"Dude that''s not a pokemon" '
 ---
 
 "Dude that's not a pokemon" #sketchdaily

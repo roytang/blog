@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Night of the living bread '
 ---
 
 Night of the living bread #sketchdaily

@@ -17,6 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Oscar and Leo '
 ---
 
 Oscar and Leo #sketchdaily

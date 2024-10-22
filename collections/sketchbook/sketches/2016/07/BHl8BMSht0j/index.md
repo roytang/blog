@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - hajimenoippo
 - '2016'
+title: 'Dempsey revised '
 ---
 
 Dempsey revised #sketchdaily #hajimenoippo

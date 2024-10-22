@@ -20,6 +20,8 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+title: 'Professor Layton and His Top Hat and Luke and the Case of the Poorly Drawn
+  Hands '
 ---
 
 Professor Layton and His Top Hat and Luke and the Case of the Poorly Drawn Hands #sketchdaily

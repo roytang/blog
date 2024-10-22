@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: Moose cavalry
 ---
 
 The Tlavonian Republic is located in the temperate regions of the the largest continent, of which it is the most powerful civilization. They are best known for their domestication of moose, which they use for Cavalry.

@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'BMX-men '
 ---
 
 BMX-men #sketchdaily

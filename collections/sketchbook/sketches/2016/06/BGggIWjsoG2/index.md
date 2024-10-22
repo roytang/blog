@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+title: 'Unfair race '
 ---
 
 Unfair race #sketchdaily gonna try pen instead of pencil for a while
