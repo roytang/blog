@@ -12,6 +12,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156815732683912
 tags:
 - sketchdaily
+- '2018'
+title: 'Jessica '
 ---
 
 <p>I started this one a couple of days ago while waiting in a hospital lab that had terrible data signal (so no internet). Still struggling a bit with the proportions for women. #jessica #sketchdaily<br/></p>

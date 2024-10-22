@@ -2,7 +2,7 @@
 albums:
 - instagram
 - sketchbook
-date: 2018-03-26 03:03:51-07:00
+date: 2018-03-26 10:03:51
 location: ''
 source: instagram
 syndicated:
@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156523964368912:0
 tags:
 - transformers
+- '2018'
+title: 'Optimus'
 ---
 
 This sketch took just enough time for the meeting to finish #transformers

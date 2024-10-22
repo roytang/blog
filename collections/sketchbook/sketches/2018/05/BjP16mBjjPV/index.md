@@ -2,7 +2,7 @@
 albums:
 - instagram
 - sketchbook
-date: 2018-05-26 09:34:46-07:00
+date: 2018-05-26 16:34:46
 location: ''
 source: instagram
 syndicated:
@@ -14,7 +14,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1000416181612961792/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156662658908912:0
-tags: []
+tags:
+- '2018'
+title: Cable
 ---
 
 Some people reminded me I haven't drawn anything for a while so here's a quick Cable. Complete with required pouches and missing feet

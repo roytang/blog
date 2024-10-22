@@ -12,6 +12,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156858796063912
 tags:
 - spider-man
+- '2018'
+title: Here’s a thing I started doing a few weeks back
 ---
 
 Here’s a thing I started doing a few weeks back

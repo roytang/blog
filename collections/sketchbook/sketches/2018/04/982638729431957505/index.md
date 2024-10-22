@@ -10,7 +10,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156556107888912
 tags:
 - MTG
-title: ''
+- '2018'
+title: 'Old MTG pencil sketches'
 ---
 
 While cleaning up some stuff I found some old #MTG related pencil sketches. Can you identify the cards?

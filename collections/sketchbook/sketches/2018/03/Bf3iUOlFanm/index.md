@@ -2,7 +2,7 @@
 albums:
 - instagram
 - sketchbook
-date: 2018-03-03 09:27:33-07:00
+date: 2018-03-03 16:27:33
 location: ''
 source: instagram
 syndicated:
@@ -14,7 +14,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/969972601178255360/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156462469878912:0
-tags: []
+tags:
+- '2018'
+title: pencil sketch
 ---
 
 pencil sketch

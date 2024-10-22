@@ -10,6 +10,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156852749978912
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/97qo3u/august_16th_random/e4bzyi9/
+tags:
+- '2018'
+title: Today's meeting doodle
 ---
 
 Today's meeting doodle
