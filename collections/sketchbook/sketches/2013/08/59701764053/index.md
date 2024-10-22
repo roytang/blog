@@ -10,6 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/373168777955127296/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152435490768912
+tags:
+- '2013'
+title: 'Bad puns and superheroes'
 ---
 
 <p>Bad puns and superheroes&hellip;I have no excuse for this one.</p>

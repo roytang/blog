@@ -1,5 +1,7 @@
 ---
-date: 2012-05-19 18:21:01+08:00
+albums:
+- sketchbook
+date: 2012-05-19 10:21:01
 source: reddit
 syndicated:
 - type: reddit
@@ -10,8 +12,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151608888428912
 tags:
 - pics
-albums:
-- sketchbook
+- '2012'
+title: 'Left half of my desk'
 ---
 
 #### Posted on r/pics: [Reddit, let's draw anything currently in your line of sight! Here's the left half of my desk at the moment](https://reddit.com/r/pics/comments/tukbv/reddit_lets_draw_anything_currently_in_your_line/)

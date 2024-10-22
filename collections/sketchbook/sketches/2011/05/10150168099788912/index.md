@@ -13,6 +13,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150168099763912
 tags:
 - timeline-photos
+- '2011'
+title: Colorful train
 ---
 
 Something I drew during a meeting (don't ask me to explain what it is). Colored by [Raquel Dee](https://www.facebook.com/848294259). It kinda feels like something an elementary school kid would draw and show to his parents :p
