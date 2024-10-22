@@ -36,6 +36,10 @@ reviews:
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/112728350574378934
+- type: twitter
+  url: https://twitter.com/roytang/statuses/789250430140153856/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155017308758912
 tags:
 - games
 title: 'Games: Civilization VI'
@@ -43,6 +47,16 @@ toc: true
 ---
 
 Previously: [Civilization IV](/2005/12/games-civilization-4/), [Civilization V](/2016/10/civ5/)
+
+On 2016-10-21 07:42 I [wrote](https://www.facebook.com/stephen.roy.tang/posts/10155017308758912):
+
+> Today's agenda: stand the test of time #OneMoreTurn #Civilization6
+>
+> {{% photos qinshi %}}
+> 
+> [Comments](#comment-ccd6d1c7-a6e0-49e2-b12c-2477027b4095)
+> 
+
 
 To this day **Sid Meier's Civilization VI** (released in 2016) remains [my #4 most played Steam game of all time](/page/stats/gaming/). (That's really #3 since that DOTA gameplay time on my account belongs to my brothers.) I have not actually played the game since March 2021. but I decided to write a review already!
 
@@ -111,3 +125,4 @@ I also streamed Civ6 a few times on [Twitch](https://www.twitch.tv/twitchyroy). 
 ### That's It!
 
 Honestly, I am tempted to play some more Civ6 lol. Last month, an official announcement was finally made that Civ7 releases next year, looking forward to it!
+
