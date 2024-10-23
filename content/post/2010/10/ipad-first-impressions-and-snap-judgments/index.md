@@ -4,23 +4,46 @@ aktt_notify_twitter:
 author: roy
 categories: []
 date: 2010-10-24 04:28:52
-tags:
-- Tech Life
-title: 'iPad: First Impressions and Snap Judgments'
-type: post
-url: /2010/10/ipad-first-impressions-and-snap-judgments/
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/28571035582/
 - type: plurk
   url: https://plurk.com/p/8frcw6
+- type: twitter
+  url: https://twitter.com/roytang/statuses/8299527513/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/8317558314/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/12828350977/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/116617275029669
+- type: twitter
+  url: https://twitter.com/roytang/statuses/27976147298/
+- type: plurk
+  url: https://plurk.com/p/8d39x5
+- type: reddit
+  url: https://www.reddit.com/r/ipad/comments/duddt/im_getting_an_ipad_tomorrow_what_do_i_need_to/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/28420157168/
+- type: plurk
+  url: https://plurk.com/p/8epjpn
+- type: twitter
+  url: https://twitter.com/roytang/statuses/13568062754136064/
+- type: plurk
+  url: https://plurk.com/p/9hxhen
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/173255582706097
+tags:
+- Tech Life
+title: 'iPad: First Impressions and Snap Judgments'
+toc: true
+type: post
+url: /2010/10/ipad-first-impressions-and-snap-judgments/
 ---
 
 So, through a complicated series of circumstances where I initiated the process but actually managed to get myself surprised, I now own an iPad Wifi+3g 64GB (yes, it's the most expensive model, don't worry it did not break the piggy bank). It was purchased from Singapore and brought to me by a friend last Friday. I've used an iPad before (during the CCS trip Baguio), but this is the first time I've had the chance to customize the applications and content, and have it exclusive for my own use. I've had it for about a day and half, here are my snap judgments and quick impressions:
 
-<div id="_mcePaste">
-  <strong>General usage</strong>
-</div>
+### General usage
 
 <div id="_mcePaste">
   <ul>
@@ -51,9 +74,7 @@ So, through a complicated series of circumstances where I initiated the process 
   </ul>
 </div>
 
-<div>
-  <strong>iTunes and Syncing</strong>
-</div>
+### iTunes and Syncing
 
 <div id="_mcePaste">
   <ul>
@@ -72,9 +93,7 @@ So, through a complicated series of circumstances where I initiated the process 
   </ul>
 </div>
 
-<div>
-  <strong>Apps</strong>
-</div>
+### Apps
 
 <div id="_mcePaste">
   <ul>
@@ -105,12 +124,80 @@ So, through a complicated series of circumstances where I initiated the process 
   </ul>
 </div>
 
-**Jailbreaking**
+### Jailbreaking
 
   * I don't have any plans to Jailbreak the iPad at this time. I have not explored the possibility at all, but I'm not really inclined to yet. Maybe I'll change my mind later.
 
-That's my iPad experience as of now. I actually also started a [thread on Reddit][1] to help me get jump started. Overall, very impressive and such an awesome toy, we'll see how it stacks up in terms of how much I use it in the coming months.
+That's my iPad experience as of now. I actually also started a [thread on Reddit](#duddt) to help me get jump started. Overall, very impressive and such an awesome toy, we'll see how it stacks up in terms of how much I use it in the coming months.
 
 If anyone has any tips or suggestions to help me enjoy the new toy, feel free to comment 😀
 
- [1]: http://www.reddit.com/r/ipad/comments/duddt/im_getting_an_ipad_tomorrow_what_do_i_need_to/
+### Social Media Archive
+
+<time id="8299527513">[2010-01-28 07:33] </time> It would be awesome if someone got me one of these: https://www.apple.com/ipad/
+
+---
+
+<time id="8317558314">[2010-01-28 18:16] </time> "iPad" is so lame. I would have named an Apple tablet "Applet"...just to be confusing
+
+---
+
+<time id="12828350977">[2010-04-25 23:52] </time> having an ipad would be really handy for reading onemanga.com
+
+[Comments](#comment-20b71bbc-c21e-44ba-b0af-dda4e0654dfe)
+
+---
+
+<time id="27976147298">[2010-10-21 07:45] </time> A pleasant surprise: Apparently I am getting an iPad tomorrow.
+
+[Comments](#comment-7e3fc2bc-a8f3-4926-9299-edf215ba002e)
+
+---
+
+<time id="duddt">[2010-10-21 21:47] </time> #### Posted on r/ipad: [I'm getting an iPad tomorrow, what do I need to know to get the most out of it?](https://reddit.com/r/ipad/comments/duddt/im_getting_an_ipad_tomorrow_what_do_i_need_to/)
+
+64gb Wifi+3g It's my first iOS device ever. I plan to use it for watching videos, reading books/comics and general internet stuff.
+
+---
+
+<time id="28420157168">[2010-10-23 00:28] </time> iPad got!
+
+[Comments](#comment-2ddc5057-8ffa-4ba5-b43c-0f9c669b8a4a)
+
+---
+
+<time id="13568062754136064">[2010-12-11 20:17] </time> I have to admit, I sometimes wish the iPad was foldable.
+
+[Comments](#comment-41f9e226-6747-4e77-bb5b-b7f3e2ec5d48)
+
+---
+
+<time id="8299527513">[2010-01-28 07:33] </time> It would be awesome if someone got me one of these: https://www.apple.com/ipad/
+
+---
+
+<time id="8317558314">[2010-01-28 18:16] </time> "iPad" is so lame. I would have named an Apple tablet "Applet"...just to be confusing
+
+---
+
+<time id="12828350977">[2010-04-25 23:52] </time> having an ipad would be really handy for reading onemanga.com
+
+---
+
+<time id="27976147298">[2010-10-21 07:45] </time> A pleasant surprise: Apparently I am getting an iPad tomorrow.
+
+---
+
+<time id="duddt">[2010-10-21 21:47] </time> #### Posted on r/ipad: [I'm getting an iPad tomorrow, what do I need to know to get the most out of it?](https://reddit.com/r/ipad/comments/duddt/im_getting_an_ipad_tomorrow_what_do_i_need_to/)
+
+64gb Wifi+3g It's my first iOS device ever. I plan to use it for watching videos, reading books/comics and general internet stuff.
+
+---
+
+<time id="28420157168">[2010-10-23 00:28] </time> iPad got!
+
+---
+
+<time id="13568062754136064">[2010-12-11 20:17] </time> I have to admit, I sometimes wish the iPad was foldable.
+
+---
