@@ -33,8 +33,13 @@ syndicated:
   url: https://plurk.com/p/9hxhen
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/173255582706097
+- type: twitter
+  url: https://twitter.com/roytang/statuses/28574573264/
+- type: plurk
+  url: https://plurk.com/p/8fsx9e
 tags:
 - Tech Life
+- ipad
 title: 'iPad: First Impressions and Snap Judgments'
 toc: true
 type: post
@@ -198,6 +203,13 @@ If anyone has any tips or suggestions to help me enjoy the new toy, feel free to
 
 ---
 
+<time id="28574573264">[2010-10-24 15:18]</time> I feel so decadent
+
+[Comments](#comment-bb7a5eee-e2a4-491a-9069-5e4275a63ad2)
+
+---
+
 <time id="13568062754136064">[2010-12-11 20:17] </time> I have to admit, I sometimes wish the iPad was foldable.
 
 ---
+
