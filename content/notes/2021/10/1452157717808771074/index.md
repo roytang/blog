@@ -1,5 +1,5 @@
 ---
-date: 2021-10-24 06:19:14+00:00
+date: 2021-10-24 06:19:14
 dontinlinephotos: true
 repost_source:
   name: fasterthanlime
@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1452157717808771074/
 tags:
 - fasterthanlime
+- threads
 ---
 
 RT 🔒 (with permission):
