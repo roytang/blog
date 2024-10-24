@@ -55,7 +55,7 @@ url: /2017/03/review-final-fantasy-xv/
 
 With The FFXIII trilogy not being particularly well-received and FFXIV being an MMO, Final Fantasy XV has been a long awaited as the next mainline single-player game in the much-acclaimed series. This review will have minor spoilers.
 
-{{< img src="mxS7hvb.jpg" >}}
+{{% collections-embed albums ff15 mxS7hvb.jpg %}}
 
 **Story**
 
@@ -82,7 +82,7 @@ The ending itself was bittersweet (and easily trolled haha), but I found it an a
 
 **Characters**
 
-{{< img src="RTcRL3u.jpg" >}}
+{{% collections-embed albums ff15 RTcRL3u.jpg %}}
 
 While I found the main cast of Noctis, Ignis, Gladio and Prompto to have engaging personalities, they don't really have much backstory in-game (most of the character backstories are in Brotherhood). In fact, later on, a startling revelation is made about one of them and none of them really bat an eye at all. It was in the sense of "hey, we don't care about that, we're your friends," but it still felt like something that should have been explored further.
 
@@ -92,7 +92,7 @@ The interaction among the group is great though. They regularly banter and tease
 
 I'm an old-school FF fan, so I'll be the first to admit I miss ye olde active time battle. FFXV's battles take place entirely in real-time, with the player controlling Noctis and the other characters controlled by AI. The AI control goes about as well as you could expect, they do fine against weak enemies but against tougher battles you find yourself constantly having to help them with potions or other items. You can command them to do special attacks when available, and they will participate in combo attacks when possible, but for the most part it's just Noctis warping and striking.
 
-{{< img src="iEmsTOE.jpg" >}}
+{{% collections-embed albums ff15 iEmsTOE.jpg %}}
 
 Combat is fluid and there's a lot of movement and jumping around and looking for opportunities to strike from behind. Early on you are discouraged from wandering around at night as the enemies might be too high level, but the combat system is set up such that most tough battles can be overcome simply by having enough recovery items around. I only got a game over once, early in the game when didn't know what I was doing and I tried wandering at night and promptly got squashed by an iron giant.
 
@@ -110,22 +110,24 @@ Anyway, I'm no exception. Exporting a lot of photos is a pain though, as there i
 
 Speaking of achievements, I was a touch disappointed with FFXV's achievement set. I got the Platinum trophy, but I felt like it was a bit too easy, as there was still a lot of things to do in the game outside of the achievements. I don't want annoying grindy achievements, but I don't want them to be too easy and "no challenge" either.
 
-{{% photos 16252312_10155323095923912_2707376959530257432_o_10155323095923912 %}}
+{{% collections-embed albums ff15 16252312_10155323095923912_2707376959530257432_o_10155323095923912 %}}
 
 **Other stuff**
 
 They had this weird Chocobo carnival DLC that somehow takes place in another timeline or something LOL. IDK how it works.
 
-{{< img src="2Uj1VM3.jpg" >}}
+{{% collections-embed albums ff15 2Uj1VM3.jpg %}}
 
 Despite the fact that the more action-oriented combat system is indicative of where SE plans to take the series moving forward, there's still a significant amount of nostalgia in the game for old-schoolers to appreciate. Callouts range from Prompto humming the classic victory fanfare after the battle to 2d sprites in the store menus jumping up in down to indicate which characters can equip each item. Classic FF beasties like the Malboro still make an appearance (and are still a pain to fight!)
 
 The weirdest thing overall has to be the Cup Noodles thing! They had some sort of tie-up with Nissin and Cup Noodles is one of the meals your party can have in the game and Gladio is obsessed with them. Later on you even get a quest to try to find a way to improve on Cup Noodles and it ends with the characters saying there's really no beating the original since it has a perfect mix of ingredients already. I feel like the VA's really enjoyed doing those lines haha.
 
-{{< img src="MDiYsIS.jpg" >}}
+{{% collections-embed albums ff15 MDiYsIS.jpg %}}
 
 **Overall**
 
 Okay, I had a bunch of complaints and nitpicks but to be honest, I enjoyed the game. There was a lot of gameplay, some seriously though battles and some annoying dungeons that took forever, but I finished most of it and got the platinum in under a month. Nowadays for an RPG that's very quick for me, an indication of how much I liked the game. There's a bunch more content planned for it, including DLC story packs for each of the other main characters, and high-end boss fights and what not. Not sure if I'd still play those since there's a lot more RPGs on the horizon (2017 is a good year for RPG gamers.) But if Final Fantasy XV is the next step for the series moving forward, I find it acceptable.
 
 Photo dump below!
+
+{{% collections-embed albums ff15 %}}

@@ -14,7 +14,7 @@ blockquote.embed .embed_foot {
     color: var(--deemphasized-text-color);
 }
 
-body.collections_comics .entry_list, body.collections_sketchbook .entry_list {
+body.collections_comics .entry_list, body.collections_sketchbook .entry_list, .embed .entry_list {
     display: flex;
     flex-wrap: wrap;
     gap: 4px;
@@ -22,6 +22,19 @@ body.collections_comics .entry_list, body.collections_sketchbook .entry_list {
 
 body.collections_comics .entry_list img, body.collections_sketchbook .entry_list img {
     width: 90px;
+}
+
+.embed figure {
+    width: 45%;
+}
+
+.embed img {
+    width: 100%;
+}
+
+/* Embeds that only have one image */
+.embed .entry_list:not(:has(figure:nth-child(2))) figure {
+    width: 95%;
 }
 
 blockquote.embed {
