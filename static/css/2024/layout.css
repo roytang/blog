@@ -15,7 +15,7 @@
 }
 
 :root {
-    --font-size: 0.9*calc(1rem + 0.25vw); /* https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/ */
+    --font-size: 0.8*calc(1rem + 0.25vw); /* https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/ */
     --font-size-slightly-smaller: calc(0.8 * (1rem + 0.25vw));
     --font-size-smaller: calc(0.65 * (1rem + 0.25vw));
     --content-width: 95ch;
@@ -407,6 +407,10 @@ article {
     max-width: 80ch;
 }
 
+article, .comment_body {
+    word-break: break-word;
+}
+
 #shareopenly img {
     border: 1px solid var(--second-color);
     border-radius: 2px;
@@ -429,3 +433,4 @@ div.two-column {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
