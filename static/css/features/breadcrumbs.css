@@ -5,90 +5,84 @@
     --breadcrumb-color-4: #3CB371; /* Max 4 levels breadcrumb */
     --breadcrumb-hover-color: #004400;
 }
-/* https://css-tricks.com/triangle-breadcrumbs/ */
-.breadcrumb { 
-    list-style: none; 
-    overflow: hidden; 
-    font: 18px Sans-Serif;
-}
-.breadcrumb li { 
-    float: left; 
-}
-.breadcrumb li {
-    color: white;
-    text-decoration: none; 
-    padding: 10px 0 10px 65px;
-    background: var(--breadcrumb-color-1);
-    background: var(--breadcrumb-color-1); 
-    position: relative; 
-    display: block;
-    float: left;
-}
-.breadcrumb li a {
-    color: white;
-    text-decoration: none; 
-}
-
-.breadcrumb li::after { 
-    content: " "; 
-    display: block; 
-    width: 0; 
-    height: 0;
-    border-top: 50px solid transparent; /* Go big on the size, and let overflow hide */
-    border-bottom: 50px solid transparent;
-    border-left: 30px solid var(--breadcrumb-color-1);
-    position: absolute;
-    top: 50%;
-    margin-top: -50px; 
-    left: 100%;
-    z-index: 2; 
-}
-
-.breadcrumb li::before { 
-    content: " "; 
-    display: block; 
-    width: 0; 
-    height: 0;
-    border-top: 50px solid transparent;       
-    border-bottom: 50px solid transparent;
-    position: absolute;
-    top: 50%;
-    margin-top: -50px; 
-    margin-left: 1px;
-    left: 100%;
-    z-index: 1; 
-}
-
-.breadcrumb li:first-child {
-    padding-left: 40px;
-}
-.breadcrumb li:nth-child(2)       { background:        var(--breadcrumb-color-2); }
-.breadcrumb li:nth-child(2):after { border-left-color: var(--breadcrumb-color-2); }
-.breadcrumb li:nth-child(3)       { background:        var(--breadcrumb-color-3); }
-.breadcrumb li:nth-child(3):after { border-left-color: var(--breadcrumb-color-3); }
-.breadcrumb li:nth-child(4)       { background:        var(--breadcrumb-color-4); }
-.breadcrumb li:nth-child(4):after { border-left-color: var(--breadcrumb-color-4); }
-
-.breadcrumb li:hover { 
-    background: var(--breadcrumb-hover-color); 
-}
-.breadcrumb li:hover:after { 
-    border-left-color: var(--breadcrumb-hover-color) !important; 
-}
-
-.breadcrumbs {
+/* Adapted from https://codepen.io/johanmouchet/pen/WxpqBa */
+.breadcrumb {
+    margin: 0;
+    padding: 0;
+    border-width: 1px;
+    border-style: solid;
     width: 100%;
+  }
+  .breadcrumb, .breadcrumb a {
+    display: inline-block;
+  }
+  .breadcrumb a {
+    text-rendering: optimizeLegibility;
+    text-decoration: none;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 10px 0 20px;
+    position: relative;
+  }
+  .breadcrumb a:first-child {
+    padding-left: 16px;
+  }
+  .breadcrumb a:last-child {
+    padding-right: 16px;
+    pointer-events: none;
+    cursor: default;
+  }
+  .breadcrumb a:last-child:after, .breadcrumb a:last-child:before {
+    border: 0;
+  }
+  .breadcrumb a:after, .breadcrumb a:before {
+    content: " ";
+    display: block;
+    width: 0;
+    height: 0;
+    border-top: 17px solid transparent;
+    border-bottom: 17px solid transparent;
+    border-left: 10px solid transparent;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 100%;
+    z-index: 2;
+  }
+  .breadcrumb a:before {
+    margin-left: 1px;
+    z-index: 1;
+  }
+  
+  .breadcrumb {
+    border-color: var(--breadcrumb-color-1);
+  }
+  .breadcrumb a {
+    color: #c6c6c6;
     background-color: var(--breadcrumb-color-1);
-}
-.breadcrumbs:has(li:nth-child(2)) {
-    background-color: var(--breadcrumb-color-2);
-}
-.breadcrumbs:has(li:nth-child(3)) {
-    background-color: var(--breadcrumb-color-3);
-}
-.breadcrumbs:has(li:nth-child(4)) {
-    background-color: var(--breadcrumb-color-4);
-}
-.breadcrumbs ul {
-    padding-inline-start: 0;
-}
+    text-shadow: 0 -1px rgba(0, 0, 0, 0.7);
+    box-shadow: inset 0 1px 0 var(--breadcrumb-color-3);
+  }
+  .breadcrumb a:after {
+    border-left-color: var(--breadcrumb-color-1);
+  }
+  .breadcrumb a:before {
+    border-left-color: var(--breadcrumb-color-2);
+  }
+  .breadcrumb a:hover, .breadcrumb a:focus {
+    background: var(--breadcrumb-hover-color);
+  }
+  .breadcrumb a:hover:after, .breadcrumb a:focus:after {
+    border-left-color: var(--breadcrumb-hover-color);
+  }
+  .breadcrumb a:active:before {
+    border-left-color: var(--breadcrumb-hover-color);
+  }
+  .breadcrumb a:last-child {
+    background-color: transparent;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    border-color: transparent;
+    box-shadow: none;
+  }
+  

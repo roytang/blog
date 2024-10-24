@@ -2,29 +2,21 @@
 
 {{ if .Site.Params.collections_root }}
 
-<div class="breadcrumbs">
-    <ul class="breadcrumb">
-        <li>Collections</li>
-    </ul>
+<div class="breadcrumb">
+    <a href="#">Collections</a>
 </div>
-    
+
+
 <ul>
-    <li><a href="sketchbook/">Sketchbook</a></li>
-    <li><a href="quotes/">Quotes</a></li>
-    <li><a href="lyrics/">Lyrics</a></li>
-    <li><a href="comics/">Comics</a></li>
-    <li><a href="albums/">Albums</a></li>
-    <li><a href="stackexchange/">Stack Exchange</a></li>
-    <li><a href="webcomics/">Webcomics</a></li>
-    <li><a href="quora/">Quora</a></li>
+{{ $collections := site.Data.Collections }}
+{{ range $collections }}
+    <li><a href="{{ .path }}">{{ .label }}: {{ .descrip }}</a></li>
+{{ end }}
 </ul>
 
 {{ else }}
-<div class="breadcrumbs">
-<ul class="breadcrumb">
-    <li><a href="../">Collections</a></li>
-    <li>{{ .Site.Params.collection_title }}</li>
-</ul>
+<div class="breadcrumb">
+    <a href="../">Collections</a><a href="#">{{ .Site.Params.collection_title }}</a>
 </div>
 
 <article>

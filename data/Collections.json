@@ -1,12 +1,44 @@
 {
+    "sketchbook": {
+        "path": "sketchbook/",
+        "label": "Sketchbook",
+        "descrip": "Sketches",
+        "feeds": false
+    },
     "quotes": {
+        "path": "quotes/",
         "label": "Quotes",
-        "descrip": "Quotes, lyrics, etc that I liked or found interesting.",
+        "descrip": "Quotes that I liked or found interesting.",
+        "feeds": false
+    },
+    "lyrics": {
+        "path": "lyrics/",
+        "label": "Lyrics",
+        "descrip": "Song lyrics that I liked or found interesting.",
         "feeds": false
     },
     "comics": {
+        "path": "comics/",
         "label": "Comics",
         "descrip": "Comics covers, excerpts, panels, art",
+        "feeds": false
+    },
+    "quora": {
+        "path": "quora/",
+        "label": "Quora",
+        "descrip": "Posts I have made to Quora",
+        "feeds": false
+    },
+    "stackexchange": {
+        "path": "stackexchange/",
+        "label": "Stack Exchange",
+        "descrip": "Posts I have made to the Stack Exchange network of sites",
+        "feeds": false
+    },
+    "albums": {
+        "path": "albums/",
+        "label": "Albums",
+        "descrip": "Misc Photo/Screenshot Albums",
         "feeds": false
     }
 }

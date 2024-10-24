@@ -1,10 +1,6 @@
 {{ define "main" }}
-<div class="breadcrumbs">
-<ul class="breadcrumb">
-    <li><a href="../../../">Collections</a></li>
-    <li><a href="../../">{{ .Site.Params.collection_title }}</a></li>
-    <li>{{ .Title }}</li>
-</ul>
+<div class="breadcrumb">
+    <a href="../../../">Collections</a><a href="../../">{{ .Site.Params.collection_title }}</a><a href="#">{{ .Title | default "This tag" }}</a>
 </div>
 
 <article class="h-feed">

@@ -1,15 +1,9 @@
 {{ define "main" }}
-<div class="breadcrumbs">
-<ul class="breadcrumb">
-    <li><a href="../../">Collections</a></li>
-    <li><a href="../">{{ .Site.Params.collection_title }}</a></li>
-    {{ if .Title }}
-    <li>{{ .Title }}</li>
-    {{ else }}
-    <li>This entry</li>
-    {{ end }}
-</ul>
+<div class="breadcrumb">
+    <a href="../../">Collections</a><a href="../">{{ .Site.Params.collection_title }}</a><a href="#">{{ .Title | default "This entry" }}</a>
 </div>
+
+
 <article class="single_post {{ .Type }} h-entry">
 {{ .Render "single.hat" }}
 {{ .Render "single.content" }}

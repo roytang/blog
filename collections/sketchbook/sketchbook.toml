@@ -1,6 +1,6 @@
 [params]
     collection_name = "sketchbook"
-    collection_title = "Sketchbooks"
+    collection_title = "Sketchbook"
     collections_root = false
 
     list_class = "pxgallery"
