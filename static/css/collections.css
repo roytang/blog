@@ -34,7 +34,8 @@ body.collections_comics .entry_list img, body.collections_sketchbook .entry_list
 
 /* Embeds that only have one image */
 .embed .entry_list:not(:has(figure:nth-child(2))) figure {
-    width: 95%;
+    width: 85%;
+    margin: auto;
 }
 
 blockquote.embed {
