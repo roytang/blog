@@ -1,5 +1,5 @@
 ---
-date: 2016-11-17 20:07:00+08:00
+date: 2016-11-17 12:07:00
 source: facebook
 syndicated:
 - type: facebook
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - sorrynotsorry
 - puns
+- phpuns
 ---
 
 After watching the latest fantasy movie, two Filipinas were discussing how there were so many online political groups full of trolls and people who easily spread misinformation and rejected anything that didn't reinforce their own points of view.  A third Filipina came up and asked them what they were talking about. "Fanatics, bes, and where to find them"  #sorrynotsorry

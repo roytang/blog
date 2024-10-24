@@ -24,3 +24,5 @@ Talk to new people. Ask them about that cool thing they just did. Ask them what 
 Learn new skills. Develop new hobbies. Watch new tv shows. Read more books. 
 
 Live, live, live.
+
+Edit: Supplemental follow-up: The above advice doesn't mean living a life of constant adventure (we can't all be Scrooge McDuck). Heaven knows I'm not super adventurous myself so I can't really give that advice. But I think we should always be consciously pushing our boundaries and stepping outside our comfort zones, to see what lies beyond. We don't have to explore every corner of the world, but we can expand our own small corners of it, as much as we can.

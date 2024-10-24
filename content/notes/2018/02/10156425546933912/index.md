@@ -9,6 +9,7 @@ syndicated:
 tags:
 - timeline-photos
 - puns
+- phpuns
 ---
 
 Natawa ako kay past me so I'll share it

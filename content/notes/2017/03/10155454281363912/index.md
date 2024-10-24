@@ -12,6 +12,7 @@ syndicated:
 tags:
 - fbreposts09
 - puns
+- phpuns
 ---
 
 THE WINNING TWEET:     ✨  LIKE  Filipino Tweets That Matter   ✨    Submissions are welcome through our twitter page: @officialFTTM. For official business, send us an e-mail.

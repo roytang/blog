@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156778122748912
 tags:
 - puns
+- phpuns
 ---
 
 In Filipino, the name of the witty droid from Rogue One means "very cunning"

@@ -20,3 +20,7 @@ Geekfightin' (@ Quantum Cafe) http://4sq.com/ymFj1t
 I just unlocked the “Herbivore” badge on @foursquare! Vegan cupcakes for everyone! http://4sq.com/AbzUB5
 
 Photos c/o GeekFight! Trivia Night and [Bimbo](https://www.facebook.com/media/set/?set=a.4797928037121&type=3)
+
+This was [Committee GeekFight XXIII: The Hate and War Game](https://www.facebook.com/events/796649183752818)
+
+We did not do well. We scored only 2pts in the GI Joe round, but at least the Pokemon specialist we brought with us scored all but one of that round's questions.

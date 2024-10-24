@@ -8,6 +8,7 @@ syndicated:
 tags:
 - fbreposts05
 - puns
+- phpuns
 ---
 
 I feel jealous whenever there are puns I didn't think of myself

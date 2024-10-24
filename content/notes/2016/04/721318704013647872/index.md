@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154537613933912
 tags:
 - puns
+- phpuns
 ---
 
 Sometimes I wish I lived in region 5 so I can be cool

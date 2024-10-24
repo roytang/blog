@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10157095754793912
 tags:
 - puns
+- phpuns
 ---
 
 Alam mo ba pano makipag Facebook friends sa isang Atenista?

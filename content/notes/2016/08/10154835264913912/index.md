@@ -12,6 +12,7 @@ syndicated:
 tags:
 - fbreposts10
 - puns
+- phpuns
 ---
 
 {{% photos 10154835264913912%}}

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/642307644594778112/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154079261993912
+tags:
+- puns
 ---
 
 No puns left unsaid

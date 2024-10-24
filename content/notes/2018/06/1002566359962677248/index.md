@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156675373688912
 tags:
 - puns
+- phpuns
 ---
 
 Ano sabi nung copper nung aalis na sya?

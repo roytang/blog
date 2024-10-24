@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1055330920578867201/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1055349575819636736/
+tags:
+- threads
 ---
 
 <p><a href="http://idontevenhaveone.tumblr.com/post/179042751077/tahneetalks-fluffmugger-thetrippytrip-we" class="tumblr_blog">idontevenhaveone</a>:</p>
