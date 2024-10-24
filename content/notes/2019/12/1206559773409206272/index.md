@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1206559773409206272/
+tags:
+- printer
 ---
 
 I found out that I had bought the wrong printer ink cartridge when I went to the mall last week because I misremembered what my actual printer model was =/

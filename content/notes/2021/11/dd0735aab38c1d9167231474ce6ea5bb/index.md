@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1459091800421900291/
 tags:
 - tech-life
+- printer
 title: Printers
 ---
 

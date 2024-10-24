@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/840877058330836993/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155440314748912
+tags:
+- printer
 ---
 
 It's 2017, why are printers still terrible?
