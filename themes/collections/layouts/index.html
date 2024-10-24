@@ -7,7 +7,7 @@
 </div>
 
 
-<ul>
+<ul class="collections_list">
 {{ $collections := site.Data.Collections }}
 {{ range $collections }}
     <li><a href="{{ .path }}">{{ .label }}: {{ .descrip }}</a></li>
