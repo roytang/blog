@@ -136,8 +136,14 @@ pre {
 }
 
 /* Logs */
+td.timestamp {
+    word-break: normal;
+    color: var(--third-color);
+    font-size: 0.8em;
+}
 .nick {
     font-weight: bold;
+    word-break: normal;
 }
 
 .nick0 { color: #149A1E; }

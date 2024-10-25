@@ -2,7 +2,7 @@
 albums:
 - instagram
 - food
-date: 2015-10-26 05:49:49-07:00
+date: 2015-10-26 12:49:49
 location: ''
 source: instagram
 syndicated:
@@ -13,3 +13,5 @@ syndicated:
 tags:
 - food
 ---
+
+Burrata Caprese @ Gino's Brick-Oven Pizza

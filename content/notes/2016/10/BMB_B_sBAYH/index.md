@@ -32,3 +32,5 @@ location: 4c6c07711fb2a143fe44fae6
 ---
 
 And still the reigning Pop Quiz champion...
+
+This was [Spellbound: A Mystics and Magic PopQuiz](https://www.facebook.com/events/1276506145722560/).

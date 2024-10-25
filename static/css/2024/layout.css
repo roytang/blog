@@ -223,6 +223,7 @@ blockquote {
 }
 
 .badge {
+    word-break: normal;
 	vertical-align: middle;
 	display: inline-flex;
 	margin: 2px 0;
