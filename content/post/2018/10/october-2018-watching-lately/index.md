@@ -12,6 +12,10 @@ syndicated:
   url: https://roytang.tumblr.com/post/179544983725/october-2018-watching-lately
 - type: twitter
   url: https://twitter.com/roytang/statuses/1056774924084408320/
+- type: tumblr
+  url: https://ireadcomicbooks.tumblr.com/post/179485492410/i-found-out-batman-ninja-is-on-netflix-so-i
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1056203394275258369/
 tags:
 - Movies
 - Review
@@ -21,6 +25,7 @@ tags:
 title: 'Watching Lately: October 2018'
 type: post
 url: /2018/10/october-2018-watching-lately/
+dontinlinephotos: true
 ---
 
 Some things I've been watching lately, aside from the usual TV shows I follow:
@@ -47,6 +52,8 @@ Spoilers for Tom Clancy's Jack Ryan:
 **Venom** -- I initially wasn't planning on watching this given the terrible early reviews, but eventually I was like, hey I watched _X-Men Apocalypse_ so might as well watch this too. It turned out not so bad (low expectations helped), although I find the movie's enhancements to the symbiote abilities a bit disconcerting. [Read my spoiler-free review here.][2]
 
 Batman Ninja -- [I found out this was on Netflix and went ahead and watched it][3]. The animations and character designs are nice, but the plot is just ridiculous lol. Feels like someone wrote a Batman fanfic.
+
+{{% photos 179485492410 %}}
 
  [1]: https://ireadcomicbooks.tumblr.com/post/179331448050/daredevil-season-3-spoiler-free-review
  [2]: https://ireadcomicbooks.tumblr.com/post/179008685600/venom-spoiler-free-review
