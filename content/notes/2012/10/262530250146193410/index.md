@@ -1,5 +1,5 @@
 ---
-date: 2012-10-28 12:24:23+00:00
+date: 2012-10-28 12:24:23
 source: twitter
 syndicated:
 - type: twitter
@@ -10,6 +10,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151905659808912
 - type: twitter
   url: https://twitter.com/roytang/statuses/262779106473676800/
+tags:
+- scjp
 ---
 
 I have an exam in the morning. Haven't been able to say that in a long time

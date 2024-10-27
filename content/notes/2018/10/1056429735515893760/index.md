@@ -1,5 +1,5 @@
 ---
-date: 2018-10-28 06:17:31+00:00
+date: 2018-10-28 06:17:31
 repost_source:
   name: 97sflowrrs
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1056429735515893760/
+tags:
+- anxiety
 ---
 
-RT @spookylilacs: hi please read this 
+RT @spookylilacs: hi please read this
