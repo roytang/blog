@@ -16,6 +16,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155040805403912:1
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155042794293912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157015664408912
 tags:
 - sketchdaily
 - inktober
@@ -24,3 +26,5 @@ title: 'Black Cat '
 ---
 
 Black Cat #sketchdaily #inktober
+
+<time>[Mon, Oct. 29, 2018, 12:18 a.m.]</time> I look at this and I'm like OMG ang sipag ko naman magshade ... try ko pa kaya habulin yung Inktober 2018 lol
