@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/143128193517
 tags:
 - backpost
+- typhoon
 title: Typhoon Ondoy
 ---
 
@@ -24,4 +25,3 @@ It was only around 8-9pm when the rains and winds settled down a bit and people 
 I finally got home a bit past 10pm. 
 
 In hindsight, I was really fortunate, compared to other people. I wasn't affected too much and I was indoors for most of the day. In even more hindsight, it might have been foolish to still go to the prerelease at that time!
-
