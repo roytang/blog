@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/5310171764/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/193448546426
+tags:
+- typhoon
 title: Typhoon Santi
 ---
 

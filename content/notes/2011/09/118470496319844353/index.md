@@ -19,6 +19,8 @@ syndicated:
   url: https://twitter.com/roytang/status/118596419132198912/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150309291408912
+tags:
+- typhoon
 title: Typhoon Pedring
 ---
 
