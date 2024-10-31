@@ -15,6 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156150627318912:0
 tags:
 - instacomments
+- lego
 ---
 
 I was supposed to be cleaning stuff in my room but I somehow ended up putting together some long-disassembled Legos
