@@ -18,5 +18,7 @@ title: Rorty’s bastard children – The Homebound Symphony
 ---
 
 > "In MAGAworld, declarative statements are not meant to convey information ... Declarative statements serve as identity markers — they simultaneously include and exclude ... That’s what they are for. They are not for conveying Facts, Truth, Reality"
-<!--sep--> 
+
+...
+
 > "Whether it is factually true that Democrats have and deploy weather weapons could not be more irrelevant; what matters is that this is the kind of thing we say about Democrats"
