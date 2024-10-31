@@ -18,4 +18,6 @@ title: Social Media, AI, and the Battle for Your Brain - proto.life
 
 > "The paradox of technology is, the greater it understands us, the greater it can serve and protect us, and the greater it can exploit us."
 
+...
+
 > "Rule one: When you invent a new technology, you uncover a new class of responsibility. Rule two: If the technology confers power, you start a race. And rule three: If you do not coordinate, that race will end in tragedy as you exploit that thing. "
