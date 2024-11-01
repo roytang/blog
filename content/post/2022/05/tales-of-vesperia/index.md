@@ -41,4 +41,4 @@ So far among the Steam-available Tales games, Symphonia is the only one I gave u
 
 I did of course take a lot of screenshots!
 
-{{< photos 2022 >}}
+{{< collections-embed albums vesperia >}}
