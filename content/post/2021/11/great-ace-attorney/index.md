@@ -30,9 +30,9 @@ One feature of this game is a character called **Herlock Sholmes**, who you meet
 
 ### Media
 
-{{< photo "2021/11/gaac-photodump/" "20210727233338_1.jpg" >}}
+{{% collections-embed albums gaac 20210727233338_1.jpg %}}
 
-I have taken so many screenshots. Anyway, I decided to put them in a separate post since they're very spoilery! Click [here](/2021/11/gaac-photodump/) to view all the screenshots!
+I have taken so many screenshots!
 
 I also streamed the first hour or so of the game [available over on Youtube](https://www.youtube.com/watch?v=X-jAUOpQUO4):
 

@@ -3,6 +3,7 @@ date: 2017-03-18 01:30:41
 tags:
 - gaming
 - ps4
+- finalfantasy
 title: "Final Fantasy XV"
 resources:
 - src: ut2O7YQ.jpg
