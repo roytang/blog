@@ -4,9 +4,6 @@ title = "roytang.net"
 theme = "collections"
 staticDir = "collections_root"
 
-# Pagination
-paginate = 1000
-paginatePath = "p"
 relativeURLs = true
 
 ignoreErrors = ["error-output-taxonomy"]

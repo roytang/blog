@@ -3,9 +3,9 @@
         <div class="h-card vcard about-author">
             <img class="u-photo" src="{{ .Site.Params.featuredImage }}" alt="" />
             <a href="{{ .Site.BaseURL }}" class="p-name u-url url author metatag" rel="me">
-                {{ .Site.Author.name }}
+                {{ .Site.Params.Author.name }}
             </a>
-            <p class="u-email" style="display:none">{{ .Site.Author.email }}</p>
+            <p class="u-email" style="display:none">{{ .Site.Params.Author.email }}</p>
             <p class="p-note">{{ .Site.Params.topline }}</p>
         </div>
         <div class="menu">
@@ -26,7 +26,7 @@
         </div>
         <div>
             <small>{{ .Site.Params.footline }}
-            All original writing licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">Creative Attribution-NonCommercial-NoDerivs 4.0 International License</a> and (c) 2002-{{ now.Format "2006" }} {{ .Site.Author.name }}
+            All original writing licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en">Creative Attribution-NonCommercial-NoDerivs 4.0 International License</a> and (c) 2002-{{ now.Format "2006" }} {{ .Site.Params.Author.name }}
             </small>
             <p><small>This page powered by <a href="https://gohugo.io/">Hugo</a>. 
                 All timezones are (hopefully) in Asia/Manila (UTC+8)</small>.</p>
