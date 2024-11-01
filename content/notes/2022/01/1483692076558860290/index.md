@@ -1,5 +1,5 @@
 ---
-date: 2022-01-19 06:45:31+00:00
+date: 2022-01-19 06:45:31
 dontinlinephotos: true
 repost_source:
   name: M_B_Petersen
@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1483692076558860290/
 tags:
 - M_B_Petersen
+- threads
 ---
 
 Today, I stood before the Danish parliament on a public hearing on social media &amp; democracy

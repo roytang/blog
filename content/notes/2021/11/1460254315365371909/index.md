@@ -1,5 +1,5 @@
 ---
-date: 2021-11-15 14:32:13+00:00
+date: 2021-11-15 14:32:13
 dontinlinephotos: true
 repost_source:
   name: that_mc
@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1460254315365371909/
 tags:
 - that_mc
+- threads
 ---
 
 Finally watching Shang-Chi, here as a bus operator to rate the SFT transit factors of The Bus Scene:
