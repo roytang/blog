@@ -21,13 +21,12 @@ ready(() => {
     $('.pxgallery').photobox('a',{ thumbs: true, time:0 });
 
     // populate collections gallery
-    $('.collections_list li').each(function() {
+    $('.collections_list .card').each(function() {
         let thisElement = $(this);
         let dataUrl = thisElement.find("a").attr("href") + "data.json";
-        console.log(dataUrl);
 
         $.getJSON( dataUrl, function( data ) {
-            thisElement.append(" (" + data["count"] + ")")
+            thisElement.find(".card_body p").append(" (" + data["count"] + ")")
         });
     })
 });

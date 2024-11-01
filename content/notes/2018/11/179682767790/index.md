@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/179682767790/chanting-ancient-cheese-with-a-deadly-disease
 - type: twitter
   url: https://twitter.com/roytang/statuses/1058314155004977152/
+tags:
+- threads
 ---
 
 <p><a href="https://archaeoloony.tumblr.com/post/178956792286/chanting-ancient-cheese-with-a-deadly-disease" class="tumblr_blog">archaeoloony</a>:</p>

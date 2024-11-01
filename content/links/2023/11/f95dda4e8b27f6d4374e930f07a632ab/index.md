@@ -11,6 +11,7 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/111337830106629647
 tags:
 - web
+- seo
 title: Did SEO experts ruin the internet or did Google? - The Verge
 ---
 

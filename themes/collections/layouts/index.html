@@ -6,13 +6,21 @@
     <a href="#">Collections</a>
 </div>
 
+<p>Blah blah blah... </p>
 
-<ul class="collections_list">
+<div class="collections_list entry_list">
 {{ $collections := site.Data.Collections }}
 {{ range $collections }}
-    <li><a href="{{ .path }}">{{ .label }}: {{ .descrip }}</a></li>
+    <div class="card">
+        <div class="card_wrapper">
+          <div class="card_body">
+            <h4><a class="u-url post-title p-name" href="{{ .path }}">{{ .label }}</a></h4>
+            <p>{{ .descrip }}</p>
+          </div>
+        </div>
+    </div>    
 {{ end }}
-</ul>
+</div>
 
 {{ else }}
 <div class="breadcrumb">
