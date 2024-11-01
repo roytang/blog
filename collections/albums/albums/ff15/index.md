@@ -11,4 +11,8 @@ resources:
   title: "This is the weirdest product placement I've seen so far"
 - src: pHZnD4C.jpg
   title: "\"Bitch I'm fabulous\" - Gladio probably"
+related_posts:
+- text: Game Review
+  url: /2017/03/review-final-fantasy-xv/
 ---
+

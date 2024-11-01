@@ -24,6 +24,10 @@ body.collections_comics .entry_list img, body.collections_sketchbook .entry_list
     width: 90px;
 }
 
+body.collections_albums .pxgallery img {
+    width: 120px;
+}
+
 .embed figure {
     width: 45%;
 }
