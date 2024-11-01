@@ -408,7 +408,7 @@ article {
     max-width: 80ch;
 }
 
-article, .comment_body {
+article, .comment_body, .title {
     word-break: break-word;
 }
 
