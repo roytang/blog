@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "roytang.net"
 theme = "collections"
 staticDir = "collections_root"
-mainRoot = "https://roytang.net/"
+
 
 relativeURLs = true
 
@@ -51,6 +51,7 @@ canonifyURLs = true
     collections = true
     collections_root = true
     rootPath = "collections/"
+    mainRoot = "https://roytang.net/"
     staticRoot = "https://roytang.net/media/"
     # staticRoot = "http://localhost/repos/blog/"
     jsincludes = ["https://code.jquery.com/jquery-3.7.1.min.js", "https://roytang.net/media/static/js/jquery.photobox.js", "https://roytang.net/media/static/js/exhale.js"]
