@@ -27,7 +27,7 @@ title: 'Review: Final Fantasy VII Remake'
 
 Just in time for #JRPGJuly, I finally managed to complete my platinum run for Final Fantasy VII Remake! Spoiler-free review first, then the rest of the sections are no-holds barred.
 
-{{< photo "2020/07/ff7r/" "FINAL FANTASY VII REMAKE_20200608080319_1" >}}
+{{< collections-embed albums ff7r REMAKE_20200608080319_1 >}}
 
 On <time>[2020-07-20 17:48]</time> I [wrote](https://twitter.com/roytang/status/1285149646650671105):
 
@@ -65,7 +65,9 @@ Overall, I enjoyed the game, enough to go for the platinum trophy, despite the a
 
 ### Image gallery
 
-The game looks great, especially when it shifts to cutscene models. Speaking of which, the cutscene transitions are also great, they're hardly noticeable. And your hard mode run goes much faster since there's an option to skip the cutscenes! As always, I took a lot of screenshots along the way! [Image gallery is here](/albums/ff7r/), very spoilery.
+The game looks great, especially when it shifts to cutscene models. Speaking of which, the cutscene transitions are also great, they're hardly noticeable. And your hard mode run goes much faster since there's an option to skip the cutscenes! As always, I took a lot of screenshots along the way! Image gallery is embedded below, very spoilery.
+
+{{< collections-embed albums ff7r >}}
 
 ### Expanded plot and content
 
@@ -83,7 +85,7 @@ I also understand the limited number of summons we get. But we have Shiva and If
 
 At least I got to see the only enemy I really wanted to see in the remake: THE HELL HOUSE! (Now promoted to boss fight!)
 
-{{< photo "2020/07/ff7r/" "FINAL FANTASY VII REMAKE_20200615125524_1" "This was seriously one of my favorite random encounters in the OG due to how ridiculous it is." >}}
+{{< collections-embed albums ff7r REMAKE_20200615125524_1 >}}
 
 ### Hard mode
 
@@ -101,7 +103,7 @@ The combat was great, but the most troublesome part of completion for me were th
 
 The darts minigame was easy enough when I got back to it and figured out I needed to finely control the L stick with like three fingers in order to aim the dart. The Pull-ups minigame was much more frustrating, since you basically had to make no mistakes and even then you still might not beat Jules. The Top Secrets and Sephiroth battles probably took more time, but I'm pretty sure pull-ups took a lot more attempts. 
 
-{{< photo "2020/07/ff7r/" "FINAL FANTASY VII REMAKE_20200720141722" "Tifa when Cloud tells her to challenge Jules for the 200th time" >}}
+{{< collections-embed albums ff7r REMAKE_20200720141722 >}}
 
 I realized that the key was focus, and that meant getting rid of distractions like reducing the speech volume so you can't hear the inane cheering ("I can't believe it's this close!" ... bro, we just started!) and not looking at your count or Jules' count during the pullups. You're not really competing against Jules, you're competing against yourself, so he's only a distraction. I ended up focusing on the round timer instead of looking elsewhere to avoid distractions. Even then I was still having trouble. Finally, I took drastic measures to avoid getting distracted by Jules: I covered half the TV with a towel:
 

@@ -46,3 +46,4 @@ There's a sequel, Horizon Forbidden West, coming out in 2022. Not sure if I'd wa
 
 Anyway, photo dump below!
 
+{{< collections-embed albums hzd >}}
