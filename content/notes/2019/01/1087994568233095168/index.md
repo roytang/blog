@@ -1,5 +1,5 @@
 ---
-date: 2019-01-23 08:44:53+00:00
+date: 2019-01-23 08:44:53
 repost_source:
   name: SixoTF
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1087994568233095168/
+tags:
+- transformers
 ---
 
-RT if you spent *hours* of your childhood just staring at these drawings. 
+RT if you spent *hours* of your childhood just staring at these drawings.
