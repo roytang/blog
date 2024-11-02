@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1156965763015557121/
+tags:
+- threads
 ---
 
 Consider this my good deed of the day:

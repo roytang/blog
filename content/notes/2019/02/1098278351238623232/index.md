@@ -1,5 +1,5 @@
 ---
-date: 2019-02-20 17:48:58+00:00
+date: 2019-02-20 17:48:58
 repost_source:
   name: nathanwpyle
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1098278351238623232/
+tags:
+- webcomics
 ---
 
 if you’re just joining, this is part of a ✨new series ✨

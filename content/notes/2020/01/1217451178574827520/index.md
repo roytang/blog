@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1217451178574827520/
+tags:
+- threads
+- movies
 ---
 
 There are only 10 types of movies. (A short thread)

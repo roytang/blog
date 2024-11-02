@@ -1,5 +1,5 @@
 ---
-date: 2019-02-10 16:45:15+00:00
+date: 2019-02-10 16:45:15
 repost_source:
   name: gchaslot
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1094638436974088193/
+tags:
+- threads
 ---
 
 YouTube announced they will stop recommending some conspiracy theories such as flat earth.

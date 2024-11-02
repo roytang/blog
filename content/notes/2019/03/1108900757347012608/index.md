@@ -1,5 +1,5 @@
 ---
-date: 2019-03-22 01:18:37+00:00
+date: 2019-03-22 01:18:37
 repost_source:
   name: CBCbird
   type: twitter
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1108900757347012608/
 tags:
 - WorldPoetryDay
+- poetry
 title: ''
 ---
 
