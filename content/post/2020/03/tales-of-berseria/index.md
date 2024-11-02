@@ -20,9 +20,12 @@ tags:
 - games
 - talesof
 title: 'Late Game Review: Tales of Berseria'
+dontinlinephotos: true
 ---
 
 For the past month, most of my gaming time was spent on the Steam version of Tales of Berseria, which I got from a Humble Monthly Bundle back in 2018. 
+
+{{% photos steam %}}
 
 Summary: One of the best entries in the Tales series. Has fun combat, a great cast, a darker story and a really good aesthetic. 
 
@@ -41,3 +44,5 @@ My notes:
 I'm not sure what RPG I'm playing next - FF7R is coming out in April, and I already have it preordered; there might not be time to squeeze in another long one in between.
 
 Screenshots follow!
+
+{{< collections-embed albums berseria >}}

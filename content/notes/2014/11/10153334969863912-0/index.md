@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153334969808912
 tags:
 - mobile-uploads
+- signs
 ---
 
 Nagduda ako if may bagong word na wala sa vocabulary ko
