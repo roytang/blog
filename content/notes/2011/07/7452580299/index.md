@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/7452580299/httpwwwyoutubecomwatchv-wrwqw9ecto
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/188248547898081
+tags:
+- webcomics
 ---
 
 [Sabin Suplexing the Ghost Train :O](https://www.youtube.com/watch?v=WRw_qW9ecTo)
