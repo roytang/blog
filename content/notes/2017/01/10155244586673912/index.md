@@ -1,5 +1,5 @@
 ---
-date: 2017-01-03 01:15:00+08:00
+date: 2017-01-02 17:15:00
 dontinlinephotos: true
 repost_source:
   name: The Awkward Yeti - Nick Seluk
@@ -11,6 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155244586673912
 tags:
 - fbreposts09
+- webcomics
+- theawkwardyeti
 ---
 
 which one are you so far?
