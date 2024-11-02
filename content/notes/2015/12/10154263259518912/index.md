@@ -1,5 +1,5 @@
 ---
-date: 2015-12-22 10:00:00+08:00
+date: 2015-12-22 02:00:00
 dontinlinephotos: true
 repost_source:
   name: Matthew J. Spart
@@ -11,9 +11,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154263259518912
 tags:
 - fbreposts10
+- webcomics
+- cyanideandhappiness
 ---
-
-
 
 H.P. Lovecraft Historical Society
 

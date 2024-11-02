@@ -1,5 +1,5 @@
 ---
-date: 2016-12-09 20:53:00+08:00
+date: 2016-12-09 12:53:00
 dontinlinephotos: true
 repost_source:
   name: Lunarbaboon
@@ -11,13 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155164162473912
 tags:
 - fbreposts10
+- webcomics
 ---
-
-
-
-
-
-
 
 New comic about Feedback!  
 

@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/752461232892850178/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154736680888912
+tags:
+- pokemongo
 title: ''
 ---
 

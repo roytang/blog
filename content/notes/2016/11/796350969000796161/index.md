@@ -1,5 +1,5 @@
 ---
-date: 2016-11-09 13:57:21+00:00
+date: 2016-11-09 13:57:21
 repost_source:
   name: nothings
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/796350969000796161/
+tags:
+- douglasadams
 title: ''
 ---
 

@@ -434,3 +434,8 @@ div.two-column {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+/* Fix so that YT embed doesn't break layouts */
+iframe {
+    max-width: 90%;
+}
