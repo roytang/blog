@@ -1,5 +1,5 @@
 ---
-date: 2021-03-21 13:51:30+00:00
+date: 2021-03-21 13:51:30
 repost_source:
   name: EmmaHouxbois
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1373633368936620036/
+tags:
+- webcomics
 ---
 
 now that people know who both thanos and darkseid are, it’s time to bring back the greatest parody comic of all time
