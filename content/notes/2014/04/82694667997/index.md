@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/82694667997/textsfromsuperheroes-wordsofdiana-so-we-ran
 - type: twitter
   url: https://twitter.com/roytang/statuses/455731973232033792/
+tags:
+- textsfromsuperheroes
 ---
 
 <p><a class="tumblr_blog" href="http://textsfromsuperheroes.com/post/82629014977/wordsofdiana-so-we-ran-this-joke-on-texts-from">textsfromsuperheroes</a>:</p>

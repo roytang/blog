@@ -12,4 +12,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/402804889572892672/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152606549338912
+tags:
+- textsfromsuperheroescom
 ---
