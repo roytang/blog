@@ -1,5 +1,5 @@
 ---
-date: 2020-08-21 07:11:42+00:00
+date: 2020-08-21 07:11:42
 repost_source:
   name: PortSherry
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1296706526808166400/
+tags:
+- webcomics
 title: ''
 ---
 

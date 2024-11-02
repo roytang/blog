@@ -1,5 +1,5 @@
 ---
-date: 2020-06-03 08:23:08+00:00
+date: 2020-06-03 08:23:08
 repost_source:
   name: GailSimone
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1268095861042475009/
+tags:
+- threads
 title: ''
 ---
 

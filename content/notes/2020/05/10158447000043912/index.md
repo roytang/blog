@@ -1,5 +1,5 @@
 ---
-date: 2020-05-07 04:51:00+08:00
+date: 2020-05-06 20:51:00
 dontinlinephotos: true
 repost_source:
   name: Jon Limjap
@@ -11,6 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10158447000043912
 tags:
 - fbreposts08
+- webcomics
+- tarantadongkalbo
 ---
 
 H/T  Marissa Manaloto  for finding this gem  ;)     # politics

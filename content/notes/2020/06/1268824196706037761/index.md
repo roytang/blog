@@ -1,5 +1,5 @@
 ---
-date: 2020-06-05 08:37:16+00:00
+date: 2020-06-05 08:37:16
 repost_source:
   name: BethanyAllenEbr
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1268824196706037761/
+tags:
+- threads
 title: ''
 ---
 

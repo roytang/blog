@@ -1,5 +1,5 @@
 ---
-date: 2020-05-13 20:23:37+00:00
+date: 2020-05-13 20:23:37
 repost_source:
   name: geekygirlsarah
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1260667031432523777/
+tags:
+- threads
 title: ''
 ---
 
