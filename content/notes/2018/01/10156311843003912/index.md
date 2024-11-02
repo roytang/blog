@@ -1,5 +1,5 @@
 ---
-date: 2018-01-03 23:49:00+08:00
+date: 2018-01-03 15:49:00
 dontinlinephotos: true
 repost_source:
   name: Crazy Jhenny
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156311843003912
 tags:
 - fbreposts09
+- webcomics
 ---
 
 Pati mga bata ginagamit, mga ka-Crazy!  :P

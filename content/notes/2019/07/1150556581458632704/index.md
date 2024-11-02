@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1150556581458632704/
+tags:
+- threads
 ---
 
 I’ve worked with more than one “10x” programmer. Their brilliance is astonishing, but their output is rarely practically realized. 1

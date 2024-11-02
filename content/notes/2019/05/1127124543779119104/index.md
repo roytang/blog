@@ -1,5 +1,5 @@
 ---
-date: 2019-05-11 08:13:26+00:00
+date: 2019-05-11 08:13:26
 repost_source:
   name: DanSlott
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1127124543779119104/
+tags:
+- threads
 title: ''
 ---
 

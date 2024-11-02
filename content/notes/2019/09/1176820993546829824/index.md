@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1176820993546829824/
+tags:
+- poetry
 ---
 
 (via [@baileyelaine](https://twitter.com/baileyelaine/))

@@ -1,5 +1,5 @@
 ---
-date: 2022-11-20 20:39:27+00:00
+date: 2022-11-20 20:39:27
 dontinlinephotos: true
 repost_source:
   name: tzimmer_history
@@ -73,6 +73,7 @@ syndicated:
   url: https://twitter.com/tzimmer_history/status/1594343629291675650/
 tags:
 - tzimmer_history
+- threads
 ---
 
 Thoughts on Twitter, Musk, and the destruction of the virtual public square. 

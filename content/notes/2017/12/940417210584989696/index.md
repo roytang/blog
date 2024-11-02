@@ -1,5 +1,5 @@
 ---
-date: 2017-12-12 03:05:09+00:00
+date: 2017-12-12 03:05:09
 repost_source:
   name: zaoyang
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/940417210584989696/
+tags:
+- threads
 title: ''
 ---
 

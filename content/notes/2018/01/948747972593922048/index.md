@@ -1,5 +1,5 @@
 ---
-date: 2018-01-04 02:48:38+00:00
+date: 2018-01-04 02:48:38
 repost_source:
   name: WholesomeMeme
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/948747972593922048/
+tags:
+- webcomics
 ---
 
 Credit @acornfriend

@@ -1,5 +1,5 @@
 ---
-date: 2020-03-26 07:24:55+00:00
+date: 2020-03-26 07:24:55
 repost_source:
   name: NomeDaBarbarian
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1243076451601022976/
+tags:
+- threads
 title: ''
 ---
 

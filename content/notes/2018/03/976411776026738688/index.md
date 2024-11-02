@@ -1,5 +1,5 @@
 ---
-date: 2018-03-21 10:54:42+00:00
+date: 2018-03-21 10:54:42
 repost_source:
   name: PunchTheLies
   type: twitter
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/976411776026738688/
 tags:
 - NaDuterte
+- threads
 title: ''
 ---
 

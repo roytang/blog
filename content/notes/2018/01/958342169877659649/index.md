@@ -1,5 +1,5 @@
 ---
-date: 2018-01-30 14:12:33+08:00
+date: 2018-01-30 06:12:33
 repost_source:
   name: scalzi
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/958342169877659649/
+tags:
+- threads
 ---
 
 Thread. Diversity matters. https://twitter.com/jonrog1/status/958200801297444864

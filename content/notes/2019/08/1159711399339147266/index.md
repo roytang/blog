@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1159711399339147266/
+tags:
+- writing
 ---
 
 Toni Morrison didn’t write her first novel until she was 40. So if you haven’t written yours yet, there’s still time. 

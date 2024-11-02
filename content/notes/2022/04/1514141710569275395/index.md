@@ -1,5 +1,5 @@
 ---
-date: 2022-04-13 07:21:29+00:00
+date: 2022-04-13 07:21:29
 dontinlinephotos: true
 repost_source:
   name: AuDonTon191201
@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1514141710569275395/
 tags:
 - AuDonTon191201
+- threads
 ---
 
 Me and my 80 year old Lola talking about the successful rallies of VP Leni, then my aunt who's Marcos loyalist passed by and overheard our convo.

@@ -1,5 +1,5 @@
 ---
-date: 2018-12-31 17:47:04+00:00
+date: 2018-12-31 17:47:04
 repost_source:
   name: shenanigansen
   type: twitter
@@ -8,5 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1079796091954946054/
+tags:
+- webcomics
 title: ''
 ---

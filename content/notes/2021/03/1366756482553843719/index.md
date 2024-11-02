@@ -1,5 +1,5 @@
 ---
-date: 2021-03-02 14:25:13+00:00
+date: 2021-03-02 14:25:13
 repost_source:
   name: NonsenseIsland
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1366756482553843719/
+tags:
+- threads
 ---
 
 THREAD: Lots of us learned classical music from watching old cartoons, so I’m going to identify the pieces that frequently popped up.
