@@ -1,5 +1,5 @@
 ---
-date: 2017-11-16 18:37:00+08:00
+date: 2017-11-16 10:37:00
 dontinlinephotos: true
 repost_source:
   name: Lamberto Corpulento
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156189201053912
 tags:
 - fbreposts09
+- puns
 ---
 
 Natawa ako.

@@ -1,5 +1,5 @@
 ---
-date: 2017-12-01 00:09:00+08:00
+date: 2017-11-30 16:09:00
 dontinlinephotos: true
 repost_source:
   name: Dario Ceblano
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156225261178912
 tags:
 - fbreposts09
+- puns
 ---
 
 at dahil disyembre na  :3    magegets nyo rin yan, sana  :) )

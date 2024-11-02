@@ -1,5 +1,5 @@
 ---
-date: 2017-12-30 15:33:29+00:00
+date: 2017-12-30 15:33:29
 repost_source:
   name: SarahCAndersen
   type: twitter
@@ -8,5 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/947128514033209345/
+tags:
+- webcomics
 title: ''
 ---

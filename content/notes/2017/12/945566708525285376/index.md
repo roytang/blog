@@ -1,5 +1,5 @@
 ---
-date: 2017-12-26 08:07:25+00:00
+date: 2017-12-26 08:07:25
 repost_source:
   name: MeredithFrost
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/945566708525285376/
+tags:
+- post
 title: ''
 ---
 

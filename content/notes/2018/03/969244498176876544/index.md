@@ -1,5 +1,5 @@
 ---
-date: 2018-03-01 16:14:30+00:00
+date: 2018-03-01 16:14:30
 repost_source:
   name: scalzi
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/969244498176876544/
+tags:
+- threads
 ---
 
 Thread. https://twitter.com/navahw/status/969239908954066944
