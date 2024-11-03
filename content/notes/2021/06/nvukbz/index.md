@@ -1,5 +1,5 @@
 ---
-date: 2021-06-09 12:19:51+00:00
+date: 2021-06-09 12:19:51
 source: reddit
 syndicated:
 - type: reddit
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - Philippines
 - reddit_submission
+- pugadbaboy
 ---
 
 #### Posted on r/Philippines: [I'm looking for an old Pugad Baboy strip](https://www.reddit.com/r/Philippines/comments/nvukbz/im_looking_for_an_old_pugad_baboy_strip/)
