@@ -52,7 +52,7 @@ Visit the [Links page](/links/) for more links of interest.
 - After struggling through the terrible summer heat, we finally decided to get our one airconditioner in the house repaired, just in time for the onset of the rainy season. Oh well, at least I saved a lot on the electricity bill which [has historically been very high in May](/2011/06/75920863496646656/)!
 - Still [sketching](/albums/sketchbook/), though I spent most of the week catching up on sketch backlogs from the previous week. I caught up, but I'm a couple behind again today! Anyway, here's a memorial of that time Trump played with an orb:
 
-{{< photo "2021/06/1399566991870943233/" >}}
+    {{< collections-embed sketchbook 1399566991870943233 >}}
 
 - **Watching:**
     - Movies: Advanced my James Bond agenda a bit this past week by watching the very campy [Moonraker (1979)](/2021/06/cbb6135fa20b48a488982eccc7df76ce/). I've now crossed over into "Bond movies released when I was alive" territory.

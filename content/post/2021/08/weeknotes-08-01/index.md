@@ -51,7 +51,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - Still [sketching](/albums/sketchbook/); My favorite sketch this week was this Roy Mustang one I did early in the week:
 
-{{< photo "2021/07/1419372790331805698/" >}}
+{{< collections-embed sketchbook 1419372790331805698 >}}
 
 - **Watching:**
     - Movies: 

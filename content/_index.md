@@ -13,6 +13,4 @@ Topics: [software development](/tags/software-development/), [Magic the Gatherin
 
 Media diet: [books](/reviews/books/), [movies](/reviews/movies), [tv](/reviews/tv), and [games](/reviews/games).
 
-There's a [photos page](/photos/), which is just all the images and videos publicly available on the site (and via my social media stuff, etc). Liberally sprinkled with memes and gaming screenshots. I also do this daily sketching thing, which I collect in an [sketchbook album](/albums/sketchbook/).
-
 [Explore!](/page/explore/)

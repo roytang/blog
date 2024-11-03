@@ -42,7 +42,7 @@ Visit the [Links page](/links/) for more links of interest.
 - 2018: [We went to Kuala Lumpur to play in an RPTQ!](/2018/06/kuala-lumpur-and-the-mtg25a-rptq/)
 - 2017: I finished [Persona 5](/2017/06/review-persona-5-you-never-saw-it-coming/)! Wow, it's already 4 years ago. I haven't played Royal yet.
 - 2014: [I got an Instagram account](/2014/06/476353556467814400/) because someone else used my email to sign up
-- 2010: I scrubbed out of [Grand Prix Manila 2010](/2010/06/16035828372/). Apparently this is the one Grand Prix I didn't have a blog post for.
+- 2010: I scrubbed out of [Grand Prix Manila 2010](/2010/06/grand-prix-manila/). 
 - 2009: Magic introduces [the M10 rules changes](/2009/09/m10-set-recap/#previews), damage no longer uses the stack!
 
 ### My stuff:
@@ -50,7 +50,7 @@ Visit the [Links page](/links/) for more links of interest.
 - Okay, so the reason this post is delayed is because I [did another game jam this weekend](/2021/06/1404312180720226305/) and only made the submission around 10pm last night so that kind of used up most of my weekend time. I'll do a separate post about the game jam sometime this week!
 - Still [sketching](/albums/sketchbook/), though I had to skip the past two days because of the game jam thingy, so I'm behind again, which isn't unusual. I did use up the free draw friday slot to draw the splash screen art for the game jam entry:
 
-{{< photo "2021/06/1404039267685261332/" >}}
+    {{< collections-embed sketchbook 1404039267685261332 >}}
 
 - **Watching:**
     - Movies: Managed another James Bond film this week: [For Your Eyes Only (1981)](/2021/06/2641c1868d6ccb70715302ea340cae74/). I think we're only a couple of films away from the end of Moore's tenure, then it's two Daltons, and finally the modern era (i.e. the ones where I actually caught some of them on film) of Pierce Brosnan

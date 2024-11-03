@@ -48,7 +48,7 @@ Visit the [Links page](/links/) for more links of interest.
 - I hit the [900 daily streak on Duolingo](/2021/07/1410485781219536901/)! Road to 1000!
 - Still [sketching](/albums/sketchbook/); this week, I really liked my rendition of the classic [Icy Manipulator](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616):
 
-{{< photo "2021/07/1410272968513441792/" >}}
+    {{< collections-embed sketchbook 1410272968513441792 >}}
 
 - **Watching:**
     - Movies: Actually managed to watch a fair amount of movies this week! Watched both Dalton Bond films: [The Living Daylights (1987)](/2021/07/69d2374b0f0232065102954a54736506/) and [License To Kill (1989)](/2021/07/4e93006d466cb2f6a53325cba8e27b63/); looking forward to Brosnan next! Caught the Matt Damon film [Downsizing (2017)](/2021/06/c7033ad094d89afab1a8e1abcb2c3015/) because I was stuck in a waiting room, and [Under Siege (1992)](/2021/07/cb5279cfdbc686e55eef33bd58e8aaeb/) because the Saturday gaming group decided we can do watch-alongs while playing our online boardgames. I actually have been paying attention to [r/movies](https://www.reddit.com/r/movies/) lately so I keep wanting to actually watch more movies, let's see if that happens.

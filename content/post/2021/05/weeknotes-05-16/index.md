@@ -47,7 +47,7 @@ title: Weeknotes 2021-05-16
 - I spent most of my afternoon yesterday [putting together this One Piece ship model kit I got in Japan back in 2017](/2021/05/going-merry-kit/).
 - Still [sketching](/albums/sketchbook/), although I am once again behind by a day or so, something that seems to typically happen on the weekend. My favorite sketch this past week may have been this one I did of ramen noodles:
 
-{{< photo "2021/05/1391720092199649286/" >}}
+    {{< collections-embed sketchbook 1391720092199649286 >}}
 
 - **Watching:**
     - Movies: This week I watched [The Man With The Golden Gun (1974)](/2021/05/ba2999c2cc9d8803ad982d24e52035e6/) and [The Mitchells vs The Machines (2021)](/2021/05/1392042759863689217/)

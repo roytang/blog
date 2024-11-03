@@ -32,7 +32,10 @@ I'm not sure what to think of this past week, feels like it went by quickly. I m
 
 ### My stuff:
 
-- [Still sketching](/albums/sketchbook/)! Practiced [sketching some elaborate hair](/2021/04/1383150746334466051/), that's always a challenge for me.
+- [Still sketching](/albums/sketchbook/)! Practiced sketching some elaborate hair, that's always a challenge for me.
+
+    {{< collections-embed sketchbook 1383150746334466051 >}}
+
 - We tried out [these three-cheese donuts from Lola Nena's](/2021/04/1382290950483976200/), after I heard about them from a local streamer. Pretty good!
 - **Watching:**
     - Movies: Watched [Airplane! (1980)](/2021/04/1381509474259673090/) and [Live and Let Die (1973)](/2021/04/ced0a77eea2857ad31bd014fac3ded9a/) to continute the James Bond run.

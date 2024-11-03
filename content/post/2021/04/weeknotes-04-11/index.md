@@ -31,7 +31,10 @@ title: Weeknotes 2021-04-11
 
 ### My stuff:
 
-- [Still sketching](/albums/sketchbook/)! My favorite sketch for this week is of [Akira Kazama](/2021/04/1379656430081351687/), [upcoming fighter](https://www.youtube.com/watch?v=IOdgfo7OaLI) in the Street Fighter V season 5 DLC.
+- [Still sketching](/albums/sketchbook/)! My favorite sketch for this week is of Akira Kazama, [upcoming fighter](https://www.youtube.com/watch?v=IOdgfo7OaLI) in the Street Fighter V season 5 DLC:
+
+    {{% collections-embed sketchbook 1379656430081351687 %}}
+
 - I [got my first dose of Sinovac vaccine today](/2021/04/first-sinovac-dose/)!
 - **Watching:**
     - Continuing the James Bond run with [Diamonds are Forever (1971)](/2021/04/8fd56682f77942eb0badef9444d465a4/), Connery's last outing.

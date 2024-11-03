@@ -46,7 +46,7 @@ Visit the [Links page](/links/) for more links of interest.
 - Early this week, the Metro Manila mayors decided to [ban outdoor exercise during the ECQ lockdown](https://www.cnnphilippines.com/news/2021/8/10/Metro-Manila-bans-outdoor-exercise.html). So I haven't been able to do my usual outdoors walking. It's actually not likely that anyone accosts me for outdoors exercise as long as its within the confines of my subdivision, but I like to pretend that I'm following the law, even if the law is ridiculous.
 - Still [sketching](/albums/sketchbook/); I am once again behind on the weekends, as it happens. Here's a sketch of Gandalf. It's not particularly good, but it turned out looking a lot more than Ian McKellen than I thought it would:
 
-{{< photo "2021/08/1424704446626414595/" >}}
+{{< collections-embed sketchbook 1424704446626414595 >}}
 
 - **Watching:**
     - Movies: This week's movies: [Skyfall, Jumanji and Police Story](/2021/08/skyfall-jumanji-police-story/)

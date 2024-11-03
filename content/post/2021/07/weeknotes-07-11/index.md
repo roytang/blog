@@ -42,7 +42,7 @@ Visit the [Links page](/links/) for more links of interest.
 - I wrote a bunch of words on the blog this week. Other than the usual media reviews, there's [this post on Compshop culture in the Philippines](/2021/07/comsat-and-compshops/) and also [some commentary on what it takes to be President of this country](/2021/07/on-being-president/).
 - Still [sketching](/albums/sketchbook/); Nothing I'm too proud of this week, kind of phoned in a lot of them. Here's Squeeks from [Transformers: The Last Knight](/2021/06/2789a7cda3fd16feca84b58fae45811b/):
 
-{{< photo "2021/07/1411947275169910786/" "2_1411947275169910786_E5g-jS7VUAQ6RVi.jpg" >}}
+    {{< collections-embed sketchbook 1411947275169910786 2_1411947275169910786_E5g >}}
 
 - **Watching:**
     - Movies: Actually managed to watch a fair amount of movies this week! 

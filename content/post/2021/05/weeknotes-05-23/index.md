@@ -53,7 +53,7 @@ It's the last week of May (more or less), and I'm mostly looking forward to a ne
 - Speaking of Fitbit, now that I'm fully vaccinated and the NCR case rates are going down again, I've resumed taking at least some of my walks outside our subdivision.
 - Still [sketching](/albums/sketchbook/), once again falling behind on the weekends. Briefly considered just breaking the streak and living with it, but no! The 365 counter is a commitment to doing at least a year of these! As today's sample, here's Batman getting vaccinated:
 
-{{< photo "2021/05/1394250880933838849/" >}}
+    {{< collections-embed sketchbook 1394250880933838849 >}}
 
 - **Watching:**
     - Movies: This week I watched [The Spy Who Loved Me (1977)](/2021/05/ea715fa4d23937c15e47022adf93e192/) and [Mortal Kombat (2021)](/2021/05/09b5a24d69042602b9ac909e277987a6/). My James Bond run is now officially crossing over into the "movies released after I born" territory. I'm hoping I can somehow get through the rest of them before the latest one (No Time To Die) comes out.

@@ -51,7 +51,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - Still [sketching](/albums/sketchbook/); this week, I really liked my rendition of The Human Torch:
 
-{{< photo "2021/06/1407710267778080769/" >}}
+    {{< collections-embed sketchbook 1407710267778080769 >}}
 
 - **Watching:**
     - Movies: Actually managed to watch three movies this week: the just-released-on-Netflix [Rurouni Kenshin: The Final (2021)](/2021/06/rurouni-kenshin-final/), final Moore Bond film [A View To A Kill (1985)](/2021/06/7d38789afe70956e56d61914ed7d195a/); and the very poorly reviewed [Transformers: The Last Knight: 2017](/2021/06/2789a7cda3fd16feca84b58fae45811b/).

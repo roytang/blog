@@ -46,7 +46,7 @@ Visit the [Links page](/links/) for more links of interest.
 - had a couple more family escort missions this week, but those should be the last ones til August.
 - Still [sketching](/albums/sketchbook/); As is typical, I'm behind by a couple of days again. I liked this sketch I did of the Cantina band (or part of them at least):
 
-{{< photo "2021/07/1415322266477371396/" >}}
+{{< collections-embed sketchbook 1415322266477371396 >}}
 
 - **Watching:**
     - Movies: Actually managed to watch a fair amount of movies this week! 

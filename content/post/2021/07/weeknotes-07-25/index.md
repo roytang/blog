@@ -11,9 +11,6 @@ tags:
 - philippines
 - covid19
 title: Weeknotes 2021-07-25
-featuredResource:
-  photo: "/2021/07/1418197671228047362/"
-  filename: "1_1418197671228047362_E65zArWVEAUQVPa.jpg"
 ---
 
 ### A quote:
@@ -53,7 +50,7 @@ Visit the [Links page](/links/) for more links of interest.
 - the annoying thing about all this rainy weather we've been having is that I don't get to go out on my daily walks. I've tried doing some time on the stationary bike instead, but I am much less inclined to do that (it's more boring!), so less exercise for me this week overall. I should try to do the bike thing while watching TV stuff maybe?
 - Still [sketching](/albums/sketchbook/); As it usually happens, I am behind by a couple of sketches during the weekend. I think part of it is because the Friday prompt [on the subreddit](https://www.reddit.com/r/SketchDaily/) is always free draw, and I'm often too lazy to think something up, so I get blocked. Anyway, I used up one of this week's daily sketches to participate in the [#Tumindig](https://twitter.com/hashtag/Tumindig) thing on Twitter:
 
-{{< photo "2021/07/1418197671228047362/" >}}
+{{< collections-embed sketchbook 1418197671228047362 >}}
 
 - **Watching:**
     - Movies: 

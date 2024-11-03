@@ -49,7 +49,7 @@ This year feels like it's passing by very quickly.
 - The [DIY fix for my fitbit strap](/2021/05/1396076491021058050/) didn't even last an entire week! I ordered a new one as soon as it broke last Friday. The package arrived today! And... I accidentally ordered a small size when I needed a large lol. I can still use it by pairing with the unbroken half of my old strap, but still, pretty dumb of me. =/
 - Still [sketching](/albums/sketchbook/), although I'm starting to have trouble keeping up, I was a couple of days behind for most of the week yesterday. I liked this one I did of a kid on a giant chessboard, but playing around with the perspective guide on Procreate really made the final sketch weird:
 
-{{< photo "2021/05/1397108522848976907/" >}}
+    {{< collections-embed sketchbook 1397108522848976907 >}}
 
 - **Watching:**
     - Movies: None this week sadly. Need to watch more movies this coming week.

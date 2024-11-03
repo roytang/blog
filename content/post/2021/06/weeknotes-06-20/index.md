@@ -41,7 +41,7 @@ I don't have anything for this section today. Visit the [Links page](/links/) fo
 - Seems like I had a relatively chill / relaxed week, which is good because last week was a bit stressful. I did have a bunch of family errands and escort missions to do, but nothing too major.
 - Still [sketching](/albums/sketchbook/); this week, I had fun drawing Spider-man villain Sandman playing around in a sandcastle:
 
-{{< photo "2021/06/1404812392010289164/" >}}
+    {{< collections-embed sketchbook 1404812392010289164 >}}
 
 - **Watching:**
     - Movies: Only one movie again this week, continuing the James Bond run: [Octopussy (1983)](/2021/06/1639118365d91bdbd1a41eb9b170a9a0/). Only one more Moore to go! I also wanted to watch **Rurouni Kenshin: The Final**, which came out on PH Netflix last Friday, but haven't found the time yet.
